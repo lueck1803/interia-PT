@@ -24,7 +24,6 @@
 - [ ] Bettwäsche wechseln 
 - [x] git am pc gescheit einrichten und Accounts trennen 
 - [x] git in obsidian am Handy einrichten ==hat hoffentlich geklappt wir werden es sehen==
-- [ ] notes git am laptop einrichten
 - [ ] Wasserwaage auf rechten Bildschirm
 
 # Masterarbeit 
@@ -65,4 +64,3 @@
 - [ ] Becorns basteln
 
 Git Test 
-git test ==mit markierung==

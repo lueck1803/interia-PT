@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3d56a71c082afdf1",
+            "id": "7f02772e7348bb7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "f60612fbc383f645",
+            "id": "54ad633ef52b88f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "c566a043e470ebee",
+            "id": "3526cfa27e6d32a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "01b91f29b53ccc80",
+            "id": "9efd3c0ded6ac470",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,7 +64,7 @@
             }
           },
           {
-            "id": "7f02772e7348bb7c",
+            "id": "a5a32c5d347960c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -81,11 +81,11 @@
         "currentTab": 4
       },
       {
-        "id": "596b875568b969d2",
+        "id": "3eac6d9bece91767",
         "type": "tabs",
         "children": [
           {
-            "id": "00272c16d810bc56",
+            "id": "5ae2b415f5ef397d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -97,8 +97,23 @@
               "icon": "lucide-file",
               "title": "To Do (Masterthesis)"
             }
+          },
+          {
+            "id": "17dcde11ff29349f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -257,27 +272,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "00272c16d810bc56",
+  "active": "17dcde11ff29349f",
   "lastOpenFiles": [
+    "inertia PT/Masterthesis/To Do (Masterthesis).md",
+    "conflict-files-obsidian-git.md",
     "inertia PT/General/To do.md",
     "inertia PT/General/To buy.md",
     "inertia PT/General/Therapie.md",
     "inertia PT/General/Notes.md",
-    "intertia PT/General/To do.md",
     "inertia PT/Masterthesis/pictures/box-algo/Pasted image 20251024224645.png",
     "inertia PT/Masterthesis/pictures/box-algo",
-    "inertia PT/Masterthesis/To Do (Masterthesis).md",
+    "inertia PT/Masterthesis/pictures",
+    "inertia PT/Pasted image 20251103233523.png",
+    "inertia PT/Pasted image 20251103235225.png",
+    "inertia PT/Pasted image 20251103233452.png",
+    "inertia PT/Masterthesis",
+    "inertia PT/General",
+    "inertia PT",
+    "inertia PT/General/To do.md",
+    "inertia PT/General/To buy.md",
+    "inertia PT/General/Therapie.md",
+    "inertia PT/General/Notes.md",
+    "inertia PT/Masterthesis/pictures/box-algo/Pasted image 20251024224645.png",
+    "inertia PT/Masterthesis/pictures/box-algo",
     "inertia PT/Masterthesis/pictures",
     "inertia PT/Pasted image 20251103235225.png",
     "inertia PT/Pasted image 20251103233452.png",
     "inertia PT/Pasted image 20251103233523.png",
     "inertia PT/Masterthesis",
     "inertia PT/General",
-    "inertia PT",
-    "intertia PT/General/Therapie.md",
-    "conflict-files-obsidian-git.md",
-    "intertia PT/General/To buy.md",
-    "intertia PT/Masterthesis/To Do (Masterthesis).md",
-    "intertia PT/General/Notes.md"
+    "inertia PT"
   ]
 }
