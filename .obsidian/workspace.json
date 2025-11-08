@@ -77,7 +77,8 @@
               "title": "Therapie"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "a4f640ad1697d6a7",
@@ -170,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Masterthesis/To Do (Masterthesis).md",
+                "file": "General/Therapie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of To Do (Masterthesis)"
+              "title": "Outline of Therapie"
             }
           },
           {
@@ -235,6 +236,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -244,10 +246,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "90505bdf3c9c2e83",
+  "active": "003f828d36974a05",
   "lastOpenFiles": [
-    "General/To do.md",
     "Masterthesis/To Do (Masterthesis).md",
+    "General/To do.md",
     "General/Therapie.md",
     "General/To buy.md",
     "General/Notes.md",
