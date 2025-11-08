@@ -4,7 +4,7 @@
 - [x] Test sync Handy
 - [x] Kirchererbsen kochen
 - [x] Spülmaschine anstellen
-- [ ] wäsche zusammenlegen
+- [x] wäsche zusammenlegen
 - [x] Mittagessen 
 - [x] Akte abholen
 - [ ] Bart schneiden
@@ -18,13 +18,16 @@
 	- [x] schälen
 	- [x] schneiden
 	- [x] frittieren
-- [ ] Konto checken 
+- [x] Konto checken 
 - [ ] staubsaugen 
 - [ ] restliche Paprika ernten
 - [ ] Bettwäsche wechseln 
+- [x] neuen Schlafanzug 
 - [x] git am pc gescheit einrichten und Accounts trennen 
 - [x] git in obsidian am Handy einrichten ==hat hoffentlich geklappt wir werden es sehen==
-- [ ] Wasserwaage auf rechten Bildschirm
+- [x] Wasserwaage auf rechten Bildschirm
+- [ ] git (richtige ssh keys) und Obsidian mit git am unirechner einrichten 
+- [ ] 
 
 # Masterarbeit 
 - [ ] susceptibility 
@@ -41,7 +44,7 @@
 	- [ ] Theorie 
 - [ ] Code fertig aufräumen 
 # Arbeit
-- [ ] Hybrid Connector 
+- [ ] Hybrid Connector ⟹ <span style="color:gold">habe keinen Zugriff</span>
 - [ ] heylogin 
 	- [ ] wie ich jemandem meinen "contact" senden kann damit dieser mir Passwörter geben kann
 	- [ ] so bereit stellen damit es auf der Webseite gut aussieht 
@@ -62,6 +65,10 @@
 # was schönes
 - [ ] Monblume weiter malen
 - [ ] Becorns basteln
+- [ ] soon departed auf +70% spielen 
+- [ ] mir die neuen Chor Stücke anschauen 
+- [x] <span style="color:gold">ghostbusters runterladen</span>
+- [x] <span style="color:coral">paartherapie S3 runterladen</span>
 
 
 
