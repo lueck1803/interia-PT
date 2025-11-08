@@ -22,7 +22,8 @@
 - [ ] staubsaugen 
 - [ ] restliche Paprika ernten
 - [ ] Bettwäsche wechseln 
-- [ ] git am pc gescheit einrichten und Accounts trennen 
+- [x] git am pc gescheit einrichten und Accounts trennen 
+- [x] git in obsidian am Handy einrichten ==hat hoffentlich geklappt wir werden es sehen==
 - [ ] Wasserwaage auf rechten Bildschirm
 
 # Masterarbeit 
@@ -61,3 +62,5 @@
 # was schönes
 - [ ] Monblume weiter malen
 - [ ] Becorns basteln
+
+Git Test 
