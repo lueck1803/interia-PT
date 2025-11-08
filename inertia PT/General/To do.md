@@ -44,7 +44,7 @@
 	- [ ] Theorie 
 - [ ] Code fertig aufräumen 
 # Arbeit
-- [ ] Hybrid Connector 
+- [ ] Hybrid Connector ⟹ <span style="color:gold">habe keinen Zugriff</span>
 - [ ] heylogin 
 	- [ ] wie ich jemandem meinen "contact" senden kann damit dieser mir Passwörter geben kann
 	- [ ] so bereit stellen damit es auf der Webseite gut aussieht 
@@ -67,7 +67,8 @@
 - [ ] Becorns basteln
 - [ ] soon departed auf +70% spielen 
 - [ ] mir die neuen Chor Stücke anschauen 
-- [ ] <span style="color:gold">ghostbusters runterladen</span>
+- [x] <span style="color:gold">ghostbusters runterladen</span>
+- [x] <span style="color:coral">paartherapie S3 runterladen</span>
 
 
 
