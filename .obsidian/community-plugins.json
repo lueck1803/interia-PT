@@ -1,10 +1,8 @@
 [
   "obsidian-git",
-  "auto-close-tags",
-  "better-comment-toggle",
-  "codeblock-customizer",
-  "cursor-position-history",
+  "obsidian-latex-suite",
   "unicode-search",
-  "show-whitespace-cm6",
-  "obsidian-latex-suite"
+  "cursor-position-history",
+  "codeblock-customizer",
+  "auto-close-tags"
 ]
