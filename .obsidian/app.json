@@ -1,1 +1,24 @@
-{}
+{
+  "mobileToolbarCommands": [
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-code",
+    "editor:toggle-highlight",
+    "editor:cycle-list-checklist",
+    "editor:toggle-numbered-list",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:undo",
+    "editor:redo",
+    "editor:toggle-strikethrough",
+    "editor:toggle-blockquote",
+    "editor:configure-toolbar",
+    "editor:fold-all",
+    "unicode-search:search-unicode-chars",
+    "cursor-position-history:previous-cursor-position",
+    "cursor-position-history:cursor-position-forward",
+    "obsidian-latex-suite:latex-suite-box-equation",
+    "insert-current-time",
+    "insert-current-date"
+  ]
+}
