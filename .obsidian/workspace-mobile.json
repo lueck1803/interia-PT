@@ -4,20 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "a4f47e07dfa17611",
+        "id": "1c67fa7df3ef3da2",
         "type": "tabs",
         "children": [
           {
-            "id": "3b43d7252755069e",
+            "id": "86e9f2f25bc6c3f4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "intertia PT/General/Notes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Notes"
+            }
+          },
+          {
+            "id": "e4a19daad3278f6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intertia PT/General/Therapie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Therapie"
+            }
+          },
+          {
+            "id": "91d52fc159d17a55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intertia PT/General/To buy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "To buy"
+            }
+          },
+          {
+            "id": "a86fd0ee8856acd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intertia PT/General/To do.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "To do"
+            }
+          },
+          {
+            "id": "973fb149873f48f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intertia PT/Masterthesis/To Do (Masterthesis).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "To Do (Masterthesis)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,6 +155,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "intertia PT/General/Therapie.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -148,6 +210,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "3b43d7252755069e",
-  "lastOpenFiles": []
+  "active": "e4a19daad3278f6e",
+  "lastOpenFiles": [
+    "intertia PT/Masterthesis/To Do (Masterthesis).md",
+    "intertia PT/General/To do.md",
+    "intertia PT/General/To buy.md",
+    "intertia PT/General/Therapie.md",
+    "intertia PT/General/Notes.md"
+  ]
 }
