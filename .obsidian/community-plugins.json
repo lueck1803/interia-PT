@@ -1,8 +1,8 @@
 [
   "obsidian-git",
-  "obsidian-latex-suite",
-  "unicode-search",
-  "cursor-position-history",
+  "auto-close-tags",
   "codeblock-customizer",
-  "auto-close-tags"
+  "cursor-position-history",
+  "obsidian-latex-suite",
+  "unicode-search"
 ]
