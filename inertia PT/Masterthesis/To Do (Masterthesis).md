@@ -232,7 +232,7 @@ Find the B-spline representation of a 1-D curve.
 # Read
 - [ ] 
 # Thesis
-- [ ] item
+- [ ] 
 
 # Report
 <span style="color:red" > finish the Slides today </span>
