@@ -256,12 +256,34 @@ Find the B-spline representation of a 1-D curve.
 
 # Test note
 - [ ] this is a test note $\sqrt{x}$ 
+"dm" "2/r " "xsr Tab" $$xsr Tab$$ $e/2$ 
+$\frac{2}{r}$
+  $Sqrt$ $@l$  $x_2$ $\frac{e}{2}$ 
+"dm"
+$xsr$ 
+"dm"
+$@b$
+$\beta$ 
+"dm" $par Tab f Tab x Tab$
 $$\frac{ \partial f }{ \partial x }
 $$
+
+
+dm xcb dm
+$\boxed{\sqrt{ x }}$ 
+- hh
+1. zuh
+2. Jj
+	- [x] ii
+
 $x^{2} \alpha$ *Test* ⟹
 $\frac 12$   $x^{2}$
 
 $\frac{ \partial f }{ \partial 2 } x^{2} y^{3}\sqrt{ b }$
+
+$xsr$
+$\sqr{x}$ 
+$xsr$ 
 
 $x^2$ 
 
