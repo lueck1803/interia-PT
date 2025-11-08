@@ -4,7 +4,7 @@
 - [ ] 
 # Lebensmittel 
 - [ ] Leinsamen 
-
+$x^{2}$
 # längerfristig 
 - [ ] Grafikkarte 
 - [ ] CPU 
