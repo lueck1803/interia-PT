@@ -1,6 +1,9 @@
 # fast notes
 
 # Arbeit
+-  dies ist ein Test
+- ich möchte das pushen
+-  ==hello==
 - 
 # Tage infolge Produktiv
 Tage prodiktiv gewesen:
