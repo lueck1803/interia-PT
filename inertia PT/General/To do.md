@@ -19,6 +19,7 @@
 	- [x] schneiden
 	- [x] frittieren
 - [x] Konto checken 
+	- <span style="color:red">⟹noch kein Geld von Oktober auf dem Konto</span>
 - [ ] staubsaugen 
 - [ ] restliche Paprika ernten
 - [ ] Bettwäsche wechseln 
