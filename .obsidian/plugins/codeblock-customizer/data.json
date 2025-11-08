@@ -1073,7 +1073,7 @@
             "see": "#53dfdd"
           }
         },
-        "editorActiveLineColor": "#9EEAE130",
+        "editorActiveLineColor": "--color-base-20",
         "languageSpecificColors": {}
       },
       "light": {

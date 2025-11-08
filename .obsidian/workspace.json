@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "53bf07123b7ce6b3",
@@ -166,6 +166,31 @@
         "type": "tabs",
         "children": [
           {
+            "id": "9747515623843a26",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "intertia PT/General/To buy.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of To buy"
+            }
+          },
+          {
+            "id": "b9ff92e87bf0bac7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
             "id": "5ec54e647c48900b",
             "type": "leaf",
             "state": {
@@ -212,34 +237,9 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
-          {
-            "id": "9747515623843a26",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "intertia PT/General/Therapie.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Therapie"
-            }
-          },
-          {
-            "id": "b9ff92e87bf0bac7",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -257,12 +257,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "093711a8ce328796",
+  "active": "b9ff92e87bf0bac7",
   "lastOpenFiles": [
     "intertia PT/General/To do.md",
+    "intertia PT/Masterthesis/To Do (Masterthesis).md",
+    "intertia PT/General/Notes.md",
     "intertia PT/General/To buy.md",
     "intertia PT/General/Therapie.md",
-    "intertia PT/General/Notes.md",
-    "intertia PT/Masterthesis/To Do (Masterthesis).md"
+    "conflict-files-obsidian-git.md"
   ]
 }
