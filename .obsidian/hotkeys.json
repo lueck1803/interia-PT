@@ -47,5 +47,21 @@
       ],
       "key": "C"
     }
+  ],
+  "cursor-position-history:cursor-position-forward": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "cursor-position-history:previous-cursor-position": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowLeft"
+    }
   ]
 }
