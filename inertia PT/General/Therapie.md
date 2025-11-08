@@ -1,5 +1,5 @@
 # Ich
-- habe mich gerne und <span style="color:DarkTurquoise">ich bin wertvoll</span> ganz egal was Arooj denkt und sagt
+- habe mich gerne und <span style="color:DarkTurquoise">ich bin wertvoll</span> ganz egal was <span style="color:gold">Arooj</span> denkt und sagt
 # Schlaf
 - kann ich <span style="color:red">mittlerweile</span> ganz <u>gut</u>
 # Meditation 
