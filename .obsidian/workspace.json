@@ -77,8 +77,7 @@
               "title": "To Do (Masterthesis)"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "53bf07123b7ce6b3",
@@ -91,7 +90,7 @@
               "type": "markdown",
               "state": {
                 "file": "inertia PT/Masterthesis/To Do (Masterthesis).md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -155,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 296.5,
+    "collapsed": true
   },
   "right": {
     "id": "d5dca57be45dbd82",
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "intertia PT/General/Therapie.md",
+                "file": "inertia PT/General/To do.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Therapie"
+              "title": "Outline of To do"
             }
           },
           {
@@ -257,13 +257,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bb9334a791c6d363",
+  "active": "b744bc88e6c68e94",
   "lastOpenFiles": [
-    "inertia PT/General/To buy.md",
     "inertia PT/General/Notes.md",
     "inertia PT/General/To do.md",
-    "inertia PT/General/Therapie.md",
     "inertia PT/Masterthesis/To Do (Masterthesis).md",
+    "inertia PT/General/Therapie.md",
+    "inertia PT/General/To buy.md",
     "conflict-files-obsidian-git.md"
   ]
 }
