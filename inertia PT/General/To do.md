@@ -4,7 +4,7 @@
 - [x] Test sync Handy
 - [x] Kirchererbsen kochen
 - [x] Spülmaschine anstellen
-- [ ] wäsche zusammenlegen
+- [x] wäsche zusammenlegen
 - [x] Mittagessen 
 - [x] Akte abholen
 - [ ] Bart schneiden
@@ -22,6 +22,7 @@
 - [ ] staubsaugen 
 - [ ] restliche Paprika ernten
 - [ ] Bettwäsche wechseln 
+- [ ] neuen Schlafanzug 
 - [x] git am pc gescheit einrichten und Accounts trennen 
 - [x] git in obsidian am Handy einrichten ==hat hoffentlich geklappt wir werden es sehen==
 - [ ] Wasserwaage auf rechten Bildschirm
@@ -64,6 +65,9 @@
 # was schönes
 - [ ] Monblume weiter malen
 - [ ] Becorns basteln
+- [ ] soon departed auf +70% spielen 
+- [ ] mir die neuen Chor Stücke anschauen 
+- [ ] 
 
 
 
