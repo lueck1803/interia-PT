@@ -63,4 +63,3 @@
 - [ ] Monblume weiter malen
 - [ ] Becorns basteln
 
-<span style="color:hotpink">ganz <u>schön</u> viel zu tun</span>

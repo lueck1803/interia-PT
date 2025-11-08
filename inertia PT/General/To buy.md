@@ -1,6 +1,4 @@
 
-Ich kaufe gar nix mehr...
-
 # non food
 - [x] Silikonbackpinsel 
 - [ ] kleinen Schneebesen 
