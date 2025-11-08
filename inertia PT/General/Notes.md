@@ -43,5 +43,5 @@ Tage prodiktiv gewesen:
 - mehrfach checken ob ich auch wirklich alles dabei habe
 
 # neue notizen
-- <span style="color:red"><u>test</u></span>
+- test
 - 
