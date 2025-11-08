@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "828e296d1920faf7",
+    "id": "48e3eea3b725c2a7",
     "type": "split",
     "children": [
       {
-        "id": "10f9a014d78678fa",
+        "id": "70b8d7cde0017e62",
         "type": "tabs",
         "children": [
           {
-            "id": "90505bdf3c9c2e83",
+            "id": "b744bc88e6c68e94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Masterthesis/To Do (Masterthesis).md",
+                "file": "intertia PT/Masterthesis/To Do (Masterthesis).md",
                 "mode": "source",
                 "source": false
               },
@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "5a6f3f299180c190",
+            "id": "646947c9e1516b39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Notes.md",
+                "file": "intertia PT/General/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -36,12 +36,26 @@
             }
           },
           {
-            "id": "65c857da0eb9547d",
+            "id": "093711a8ce328796",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/To buy.md",
+                "file": "intertia PT/General/Therapie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Therapie"
+            }
+          },
+          {
+            "id": "a23ac7fef108dc10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intertia PT/General/To buy.md",
                 "mode": "source",
                 "source": false
               },
@@ -50,47 +64,34 @@
             }
           },
           {
-            "id": "816b1b729c9d85d0",
+            "id": "2e5e1b805fdbc571",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/To do.md",
+                "file": "intertia PT/General/To do.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "To do"
             }
-          },
-          {
-            "id": "003f828d36974a05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/Therapie.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Therapie"
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
-        "id": "a4f640ad1697d6a7",
+        "id": "53bf07123b7ce6b3",
         "type": "tabs",
         "children": [
           {
-            "id": "a8a2afeba15f108f",
+            "id": "3d56a71c082afdf1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Masterthesis/To Do (Masterthesis).md",
-                "mode": "preview",
+                "file": "intertia PT/Masterthesis/To Do (Masterthesis).md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -103,15 +104,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0382d5b134e64d40",
+    "id": "9e41494b33d76f06",
     "type": "split",
     "children": [
       {
-        "id": "7841b1de314beeae",
+        "id": "0d8cd0c3e92a0455",
         "type": "tabs",
         "children": [
           {
-            "id": "c5a03990ea9533f0",
+            "id": "39be1d18c17c2bd3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -124,7 +125,7 @@
             }
           },
           {
-            "id": "75ee3e200dfd822c",
+            "id": "732b40e8191547e0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -141,7 +142,7 @@
             }
           },
           {
-            "id": "883285134750185a",
+            "id": "ce7f84d6c729cc52",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -154,39 +155,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 300
   },
   "right": {
-    "id": "660840a6f354a5d8",
+    "id": "d5dca57be45dbd82",
     "type": "split",
     "children": [
       {
-        "id": "aad4a2543fe24638",
+        "id": "790bb5af1438ac20",
         "type": "tabs",
         "children": [
           {
-            "id": "17dda84d8559da3d",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Masterthesis/To Do (Masterthesis).md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of To Do (Masterthesis)"
-            }
-          },
-          {
-            "id": "5ea1a5f2c36439a0",
+            "id": "5ec54e647c48900b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Do.md",
-                "collapseAll": true,
+                "file": "intertia PT/General/Therapie.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -195,25 +181,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for To Do"
+              "title": "Backlinks for Therapie"
             }
           },
           {
-            "id": "9009ff6c0136133b",
+            "id": "0a44cc795710a2e5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To Do.md",
+                "file": "intertia PT/General/Therapie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from To Do"
+              "title": "Outgoing links from Therapie"
             }
           },
           {
-            "id": "ba14959295147ec6",
+            "id": "1d063bccb0bc5ff3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -226,12 +212,38 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "9747515623843a26",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "intertia PT/General/Therapie.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Therapie"
+            }
+          },
+          {
+            "id": "b9ff92e87bf0bac7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,31 +253,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "90505bdf3c9c2e83",
+  "active": "093711a8ce328796",
   "lastOpenFiles": [
-    "General/To do.md",
-    "Masterthesis/To Do (Masterthesis).md",
-    "General/Therapie.md",
-    "General/To buy.md",
-    "General/Notes.md",
-    "General/To buy (conflict 2025-11-06-16-57-37).md",
-    "General/To buy (conflict 2025-11-06-16-32-36).md",
-    "General/To do (conflict 2025-11-06-12-31-54).md",
-    "To Do.md",
-    "Masterthesis/pictures/box-algo/Pasted image 20251024224645.png",
-    "Masterthesis/pictures/box-algo",
-    "Masterthesis/pictures",
-    "Masterthesis",
-    "General",
-    "Pasted image 20251103235225.png",
-    "Pasted image 20251103233523.png",
-    "Pasted image 20251103233452.png",
-    "pictures/box-algo",
-    "pictures",
-    "pictures/box-algo/Pasted image 20251024224645.png",
-    "Welcome.md"
+    "intertia PT/General/To do.md",
+    "intertia PT/General/To buy.md",
+    "intertia PT/General/Therapie.md",
+    "intertia PT/General/Notes.md",
+    "intertia PT/Masterthesis/To Do (Masterthesis).md"
   ]
 }

@@ -1,33 +1,19 @@
 {
   "main": {
-    "id": "b05eea85ff0c2f3b",
+    "id": "613c0a322a1b3934",
     "type": "split",
     "children": [
       {
-        "id": "c38115b0bfba3bd2",
+        "id": "1c67fa7df3ef3da2",
         "type": "tabs",
         "children": [
           {
-            "id": "4ff5450d00a11a3d",
+            "id": "86e9f2f25bc6c3f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Masterthesis/To Do.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "To Do"
-            }
-          },
-          {
-            "id": "b3e81465d4bc9d3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/Notes.md",
+                "file": "intertia PT/General/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -36,26 +22,12 @@
             }
           },
           {
-            "id": "e22e7e991ae5bfe2",
+            "id": "e4a19daad3278f6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/To do.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "To do"
-            }
-          },
-          {
-            "id": "1ac7efa142b98047",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Therapie.md",
+                "file": "intertia PT/General/Therapie.md",
                 "mode": "source",
                 "source": false
               },
@@ -64,31 +36,59 @@
             }
           },
           {
-            "id": "1a9dd99b123a7598",
+            "id": "91d52fc159d17a55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/To buy.md",
+                "file": "intertia PT/General/To buy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "To buy"
             }
+          },
+          {
+            "id": "a86fd0ee8856acd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intertia PT/General/To do.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "To do"
+            }
+          },
+          {
+            "id": "973fb149873f48f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intertia PT/Masterthesis/To Do (Masterthesis).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "To Do (Masterthesis)"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6354372fcfc35466",
+    "id": "0f85c5bd31103743",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "a059e96126977165",
+        "id": "1be56482def0318d",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -101,7 +101,7 @@
         }
       },
       {
-        "id": "e90d2f20a94b3350",
+        "id": "a2d40e62f82ca967",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -118,7 +118,7 @@
         }
       },
       {
-        "id": "969e56f4fb7a3a9e",
+        "id": "c104a6d06fd4340f",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -133,7 +133,7 @@
         }
       },
       {
-        "id": "9e7b7db8253a352a",
+        "id": "97480811dad0109b",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -146,17 +146,17 @@
     "currentTab": 0
   },
   "right": {
-    "id": "9474bde3e033c790",
+    "id": "2e48ffd441023cff",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "bffbe6f98dc7298c",
+        "id": "7544c8de5ca68a83",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "To Do.md",
-            "collapseAll": true,
+            "file": "intertia PT/General/Therapie.md",
+            "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
@@ -169,12 +169,11 @@
         }
       },
       {
-        "id": "d4e0d9abe416747e",
+        "id": "686ca09a1c8dd963",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "To Do.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -183,12 +182,11 @@
         }
       },
       {
-        "id": "18a3979e4c37bb6c",
+        "id": "849b94495e0b645d",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Masterthesis/To Do.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -198,10 +196,11 @@
         }
       }
     ],
-    "currentTab": 2
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -211,15 +210,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "e22e7e991ae5bfe2",
+  "active": "e4a19daad3278f6e",
   "lastOpenFiles": [
-    "Masterthesis/To Do.md",
-    "General/Notes.md",
-    "General/To do.md",
-    "Therapie.md",
-    "General/To buy.md",
-    "General/To buy (conflict 2025-11-06-16-32-36).md",
-    "Masterthesis",
-    "General"
+    "intertia PT/General/To do.md",
+    "intertia PT/General/Therapie.md",
+    "intertia PT/Masterthesis/To Do (Masterthesis).md",
+    "intertia PT/General/To buy.md",
+    "intertia PT/General/Notes.md"
   ]
 }
