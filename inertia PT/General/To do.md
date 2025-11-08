@@ -18,14 +18,14 @@
 	- [x] schälen
 	- [x] schneiden
 	- [x] frittieren
-- [ ] Konto checken 
+- [x] Konto checken 
 - [ ] staubsaugen 
 - [ ] restliche Paprika ernten
-- [ ] Bettwäsche wechseln 
+- [x] Bettwäsche wechseln 
 - [ ] neuen Schlafanzug 
 - [x] git am pc gescheit einrichten und Accounts trennen 
 - [x] git in obsidian am Handy einrichten ==hat hoffentlich geklappt wir werden es sehen==
-- [ ] Wasserwaage auf rechten Bildschirm
+- [x] Wasserwaage auf rechten Bildschirm
 - [ ] git (richtige ssh keys) und Obsidian mit git am unirechner einrichten 
 - [ ] 
 
@@ -67,7 +67,7 @@
 - [ ] Becorns basteln
 - [ ] soon departed auf +70% spielen 
 - [ ] mir die neuen Chor Stücke anschauen 
-- [ ] 
+- [ ] <span style="color:gold">ghostbusters runterladen</span>
 
 
 
