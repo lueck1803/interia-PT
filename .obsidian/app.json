@@ -20,5 +20,6 @@
     "insert-current-time",
     "insert-current-date",
     "obsidian-latex-suite:latex-suite-box-equation"
-  ]
+  ],
+  "showUnsupportedFiles": true
 }
