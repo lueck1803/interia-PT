@@ -5,7 +5,6 @@
 
 # Meditation 
 - 
-==test==
 # Beziehung 
 - 
 # Familie 

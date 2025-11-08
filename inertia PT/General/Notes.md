@@ -1,7 +1,7 @@
 # fast notes
-- 
-==notes== 
+
 # Arbeit
+-  ==hello==
 - 
 # Tage infolge Produktiv
 Tage prodiktiv gewesen:
