@@ -5,6 +5,7 @@
 
 # Meditation 
 - 
+git test
 
 # Beziehung 
 - 
