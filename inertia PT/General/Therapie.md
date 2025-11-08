@@ -1,5 +1,5 @@
 # Ich
-- 
+- habe mich gerne und ich bin wertvoll ganz egal was Arooj denkt und sagt
 # Schlaf
 - kann ich <span style="color:red">mittlerweile</span> ganz <u>gut</u>
 # Meditation 
