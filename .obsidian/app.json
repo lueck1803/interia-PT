@@ -15,11 +15,10 @@
     "editor:toggle-blockquote",
     "editor:configure-toolbar",
     "editor:fold-all",
-    "cursor-position-history:previous-cursor-position",
-    "cursor-position-history:cursor-position-forward",
     "insert-current-time",
     "insert-current-date",
-    "obsidian-latex-suite:latex-suite-box-equation"
+    "obsidian-latex-suite:latex-suite-box-equation",
+    "obsidian-wrap-with-shortcuts:wrap-with-shortcut-w1762526781522"
   ],
   "showUnsupportedFiles": true
 }
