@@ -258,7 +258,7 @@ Find the B-spline representation of a 1-D curve.
 - [ ] this is a test note $\sqrt{x}$ 
 $$\frac{ \partial f }{ \partial x }
 $$
-
+$\partial \Delta$
 $\frac{ \partial f }{ \partial 2}$
 
 $x^{2}\frac{ \partial g(x) }{ \partial x }$

@@ -43,7 +43,4 @@ Tage prodiktiv gewesen:
 - mehrfach checken ob ich auch wirklich alles dabei habe
 
 # neue notizen
-- <span style="color:red"><u>test</u></span>
-- <span style="color:green">dddd</span>
-- <span style="color:blue">test</span>
-- <span style="color:HotPink">gold</span> 
+- 
