@@ -41,3 +41,7 @@ Tage prodiktiv gewesen:
 - <span style="color:orange">Zeitblindheit</span> 
 - muss Gedanken sofort notieren aus Angst/dem Wissen das sofort wieder zu vergessen 
 - mehrfach checken ob ich auch wirklich alles dabei habe
+
+# neue notizen
+- test
+- 
