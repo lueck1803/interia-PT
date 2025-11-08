@@ -64,4 +64,8 @@
 
 # test
 - [ ] test
-- [ ] 
+- [ ] test git
+- [ ] I hope it works now
+- [ ] $$
+x^{2}y^{3}
+$$
