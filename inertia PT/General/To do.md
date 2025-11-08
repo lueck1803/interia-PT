@@ -67,7 +67,8 @@
 - [ ] Becorns basteln
 - [ ] soon departed auf +70% spielen 
 - [ ] mir die neuen Chor Stücke anschauen 
-- [ ] <span style="color:gold">ghostbusters runterladen</span>
+- [x] <span style="color:gold">ghostbusters runterladen</span>
+- [ ] <span style="color:coral">paartherapie S3 runterladen</span>
 
 
 
