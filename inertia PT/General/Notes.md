@@ -45,3 +45,5 @@ Tage prodiktiv gewesen:
 # neue notizen
 - <span style="color:red"><u>test</u></span>
 - <span style="color:green">dddd</span>
+- Color
+- <span style="color:red"></span>
