@@ -18,7 +18,7 @@
 	- [x] schälen
 	- [x] schneiden
 	- [x] frittieren
-- [ ] Konto checken 
+- [x] Konto checken 
 - [ ] staubsaugen 
 - [ ] restliche Paprika ernten
 - [x] Bettwäsche wechseln 
