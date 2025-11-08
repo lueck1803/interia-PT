@@ -1,5 +1,6 @@
 {
   "mobileToolbarCommands": [
+    "unicode-search:search-unicode-chars",
     "editor:toggle-bold",
     "editor:toggle-italics",
     "editor:toggle-code",
@@ -14,11 +15,10 @@
     "editor:toggle-blockquote",
     "editor:configure-toolbar",
     "editor:fold-all",
-    "unicode-search:search-unicode-chars",
     "cursor-position-history:previous-cursor-position",
     "cursor-position-history:cursor-position-forward",
-    "obsidian-latex-suite:latex-suite-box-equation",
     "insert-current-time",
-    "insert-current-date"
+    "insert-current-date",
+    "obsidian-latex-suite:latex-suite-box-equation"
   ]
 }
