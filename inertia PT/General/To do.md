@@ -21,8 +21,8 @@
 - [x] Konto checken 
 - [ ] staubsaugen 
 - [ ] restliche Paprika ernten
-- [x] Bettwäsche wechseln 
-- [ ] neuen Schlafanzug 
+- [ ] Bettwäsche wechseln 
+- [x] neuen Schlafanzug 
 - [x] git am pc gescheit einrichten und Accounts trennen 
 - [x] git in obsidian am Handy einrichten ==hat hoffentlich geklappt wir werden es sehen==
 - [x] Wasserwaage auf rechten Bildschirm
