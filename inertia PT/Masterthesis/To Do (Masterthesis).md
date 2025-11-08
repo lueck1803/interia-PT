@@ -286,5 +286,5 @@ flowchart TB
 # New Note
 1. First 
 2. Second 
-3. $part$
+3. $\frac{ \partial y }{ \partial x }$ 
 4. 
