@@ -25,6 +25,8 @@
 - [x] git am pc gescheit einrichten und Accounts trennen 
 - [x] git in obsidian am Handy einrichten ==hat hoffentlich geklappt wir werden es sehen==
 - [ ] Wasserwaage auf rechten Bildschirm
+- [ ] git (richtige ssh keys) und Obsidian mit git am unirechner einrichten 
+- [ ] 
 
 # Masterarbeit 
 - [ ] susceptibility 
