@@ -31,3 +31,4 @@ Tage prodiktiv gewesen:
  {trigger: "Brk", replacement: "\\Braket{$0} $1", options: "mA"},
 
 $\Braket{x^{2}}$
+$\Braket{\int \frac{ \partial r }{ \partial t }^{2} \, dx}$
