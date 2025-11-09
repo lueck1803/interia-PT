@@ -29,4 +29,5 @@ Tage prodiktiv gewesen:
 
 # Latex Suite
  {trigger: "Brk", replacement: "\\Braket{$0} $1", options: "mA"},
- 
+
+$\Braket{x^{2}}$
