@@ -17,4 +17,4 @@ Tage prodiktiv gewesen:
   `{bash} pdftk A=A.pdf B=B.pdf shuffle A Bend-1 output Dokument_Name.pdf`
 - Alle Bilddateien (pdf, jpg), mit der passenden Dateiendung (\*.ext) werden in ein Dokument zusammengefügt.
   `{bash} pdftk *.jpg cat output Dokument_Name.pdf`
-  
+- #663399
