@@ -1051,7 +1051,7 @@
           "activeLineNrColor": "--text-muted"
         },
         "inlineCode": {
-          "backgroundColor": "#663399",
+          "backgroundColor": "#1E4230",
           "textColor": "#FBFBFB"
         },
         "prompts": {
@@ -1073,7 +1073,7 @@
             "see": "#53dfdd"
           }
         },
-        "editorActiveLineColor": "#B22222",
+        "editorActiveLineColor": "#9EEAE130",
         "languageSpecificColors": {}
       },
       "light": {
