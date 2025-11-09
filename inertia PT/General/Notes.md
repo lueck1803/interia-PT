@@ -32,3 +32,5 @@ Tage prodiktiv gewesen:
 
 $\Braket{x^{2}}$
 $\Braket{\int \frac{ \partial r }{ \partial t }^{2} \, dx}$
+
+$x^{2}$
