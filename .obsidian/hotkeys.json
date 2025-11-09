@@ -48,11 +48,27 @@
       "key": "C"
     }
   ],
+  "editor:toggle-highlight": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "app:go-forward": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
   "cursor-position-history:cursor-position-forward": [
     {
       "modifiers": [
         "Alt",
-        "Ctrl"
+        "Mod"
       ],
       "key": "ArrowRight"
     }
@@ -61,7 +77,15 @@
     {
       "modifiers": [
         "Alt",
-        "Ctrl"
+        "Mod"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Alt"
       ],
       "key": "ArrowLeft"
     }

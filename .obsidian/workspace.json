@@ -238,7 +238,8 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -256,7 +257,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a23ac7fef108dc10",
+  "active": "b9ff92e87bf0bac7",
   "lastOpenFiles": [
     "inertia PT/General/Notes.md",
     "inertia PT/General/To do.md",
