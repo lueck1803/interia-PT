@@ -5,9 +5,11 @@
 /.obsidian/plugins/cursor-position-history/cursor-position-history.json
 /.obsidian/plugins/obsidian-git/obsidian_askpass.sh
 #/.obsidian/plugins
-/.obsidian/plugins/
-/.obsidian/plugins
-/.obsidian/plugins
-/.obsidian/plugins
-/.obsidian/plugins
-/.obsidian/plugins
+/.obsidian/plugins/unicode-search
+/.obsidian/plugins/show-whitespace-cm6
+/.obsidian/plugins/obsidian-latex-suite
+/.obsidian/plugins/obsidian-html-tags-autocomplete
+/.obsidian/plugins/obsidian-git
+/.obsidian/plugins/obsidian-completr
+/.obsidian/plugins/cursor-position-history
+/.obsidian/plugins/auto-close-tags
