@@ -13,5 +13,8 @@ Tage prodiktiv gewesen:
 	- Prise Salz ⟹wirkt auf die elektrische Ladung der Proteine, die stoßen sich weniger ab
 
 # Pdftk
-- Gerade und ungerade Seiten eines Dokuments zusammen fügen.
+- Gerade (`A.pdf`) und ungerade Seiten (`B.pdf`) eines Dokuments zusammen fügen.
+  `{bash} pdftk A=A.pdf B=B.pdf shuffle A Bend-1 output Dokument_Name.pdf`
+- Alle Bilddateien (pdf, jpg), mit der passenden Dateiendung (\*.ext) werden in ein Dokument zusammengefügt.
+  `{bash} pdftk *.jpg cat output Dokument_Name.pdf`
   
