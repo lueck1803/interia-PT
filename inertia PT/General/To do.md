@@ -56,7 +56,7 @@
 - [ ] Bauverein einheften 
 - [ ] AOK verdienst melden 
 - [ ] Rundfunkbeitrag 
-- [ ] Patientenakte anschauen ⟹ wie viele Seiten sind das? Doppelseitig? Lohnt sich das zur Digitalisierung den Drucker zu kaufen? Alleine wie genervt ich von dem Drucker bin.. und wie viel nervige Zeit es kostet Sachen einzuscannen und dann ist das nicht gerade und schön. Auch das Scannen an den pc ist ne Katastrophe 
+- [ ] Patientenakte anschauen ⟹ wie viele Seiten sind das? Doppelseitig? Lohnt sich das zur Digitalisierung den Drucker zu kaufen? Alleine wie genervt ich von dem Drucker bin.. und wie viel nervige Zeit es kostet Sachen einzuscannen und dann ist das nicht gerade und schön. Auch das Scannen an den pc ist ne Katastrophe mit dem hp
 # wenn ich lust und zeit habe
 - [ ] Schreibtischauflage
 - [ ] Akustikgitarre Saiten wechseln
