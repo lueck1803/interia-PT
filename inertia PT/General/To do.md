@@ -90,3 +90,4 @@
 
 # Test 
 <span style="color:gold">test</span>
+<span style="color:DodgerBlue">test</span>
