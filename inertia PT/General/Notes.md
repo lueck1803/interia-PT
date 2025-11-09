@@ -19,6 +19,10 @@ Tage prodiktiv gewesen:
   `{bash} pdftk *.jpg cat output Dokument_Name.pdf`
 - #663399
 
+# git
+- wenn Dateien der `.gitignore` hinzugefügt werden, müssen sie auch aus dem chache entfernt werden
+  `{git} git rm --cached .obsidian/hotkeys.json`
+- 
 
 
 
