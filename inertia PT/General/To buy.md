@@ -21,7 +21,12 @@
 	- [ ] vom buttlers
 	- [ ] Depot 
 
-
+<span style="color:red">Text</span>
 ## <span striggertyle="color:gold">Test Equation</span>
+
 $\Braket{x^{2}}$ $\Braket{}$
- {: "Brk", replacement: "\\Braket{$0} $1", options: "mA"},
+ {trigger: "Brk", replacement: "\\Braket{$0} $1", options: "mA"},
+ $$
+\Braket{x^{2}} 
+$$
+$\Braket{}$
