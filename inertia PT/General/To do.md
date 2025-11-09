@@ -62,6 +62,9 @@
 - [ ] Sparkassen App+push tan
 - [ ] maus reparieren 
 - [ ] Klodeckel
+- [ ] Ackerbohnen säen
+	- [ ] ahl
+	- [ ] Balkon 
 
 # was schönes
 - [ ] Monblume weiter malen
