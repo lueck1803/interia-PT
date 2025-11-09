@@ -15,4 +15,5 @@ Tage prodiktiv gewesen:
 # pdftk commands
 - Verbinde und mixe gerade und ungerade Seiten zu einem Dokument:
   `{bash}pdftk A=A.pdf B=B.pdf shuffle A Bend-1 output Dokument_name.pdf`
-- 
+- Verbindet all Dokumente/Bilder (mit der jeweiligen Dateiendung \*.ext) in einem Ordner in eine einzige Datei
+  `{bash} pdftk *.ext cat output Dokument_name.pdf`
