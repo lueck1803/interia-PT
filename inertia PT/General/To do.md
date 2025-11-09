@@ -70,6 +70,7 @@
 	- [ ] Behälter für carnivoren 
 	- [ ] aufhängbaren Behälter für Pflanzen 
 	- [ ] Schaufel 
+	- [ ] mini outdoor Gewächshaus 
 
 # was schönes
 - [ ] Monblume weiter malen
