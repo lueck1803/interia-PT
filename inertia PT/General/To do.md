@@ -31,7 +31,7 @@
 - [ ] Avocado 🥑 essen
 - [ ] auberginen + tofu
 - [ ] Spülmaschine ausräumen 
-- [ ] Erbsen kochen 
+- [x] Erbsen kochen 
 - [ ] grünen Stift zum schreiben bringen
 - [ ] 
 
