@@ -23,3 +23,5 @@
 
 
 
+## <span style="color:gold">Test Equation</span>
+$\Braket{x^{2}}$ 
