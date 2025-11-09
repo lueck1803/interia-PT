@@ -13,11 +13,11 @@
 - [ ] Kartons wegräumen 
 - [ ] wann ist der Vortrag im hessischen Landesmuseum 
 - [ ] Toilette putzen
-- [x] Kartoffeln
-	- [x] waschen
-	- [x] schälen
-	- [x] schneiden
-	- [x] frittieren
+- [ ] Kartoffeln
+	- [ ] waschen
+	- [ ] schälen
+	- [ ] schneiden
+	- [ ] frittieren
 - [x] Konto checken 
 	- <span style="color:red">⟹noch kein Geld von Oktober auf dem Konto</span>
 - [ ] staubsaugen 
@@ -29,6 +29,8 @@
 - [x] Wasserwaage auf rechten Bildschirm
 - [ ] git (richtige ssh keys) und Obsidian mit git am unirechner einrichten 
 - [ ] Avocado 🥑 essen
+- [ ] auberginen + tofu
+- [ ] 
 
 # Masterarbeit 
 - [ ] susceptibility 
