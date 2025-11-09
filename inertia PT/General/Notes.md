@@ -20,9 +20,12 @@ Tage prodiktiv gewesen:
 - #663399
 
 # git
+- Comment in `.gitignore` with # 
+- Ausnahmen mit `!`
 - wenn Dateien der `.gitignore` hinzugefügt werden, müssen sie auch aus dem chache entfernt werden
   `{git} git rm --cached .obsidian/hotkeys.json`
-- 
+- - Wenn dies für alle Unterordner gemacht werden soll, dann:
+  `{git} git rm -r --cached .obsidian/plugins/`
 
 
 
