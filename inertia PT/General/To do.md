@@ -30,6 +30,7 @@
 - [ ] git (richtige ssh keys) und Obsidian mit git am unirechner einrichten 
 - [ ] Avocado 🥑 essen
 - [ ] auberginen + tofu
+- [ ] Spülmaschine ausräumen 
 - [ ] 
 
 # Masterarbeit 
