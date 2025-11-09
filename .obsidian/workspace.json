@@ -77,7 +77,8 @@
               "title": "To Do (Masterthesis)"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "53bf07123b7ce6b3",
@@ -170,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "intertia PT/General/Therapie.md",
+                "file": "inertia PT/General/To buy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Therapie"
+              "title": "Outline of To buy"
             }
           },
           {
@@ -237,8 +238,7 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -256,11 +256,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b744bc88e6c68e94",
+  "active": "a23ac7fef108dc10",
   "lastOpenFiles": [
     "inertia PT/General/Notes.md",
-    "inertia PT/Masterthesis/To Do (Masterthesis).md",
     "inertia PT/General/To do.md",
+    "inertia PT/Masterthesis/To Do (Masterthesis).md",
     "inertia PT/General/To buy.md",
     "inertia PT/General/Therapie.md",
     "conflict-files-obsidian-git.md"
