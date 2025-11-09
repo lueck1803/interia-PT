@@ -85,8 +85,6 @@
 - [ ] mir die neuen Chor Stücke anschauen 
 - [x] <span style="color:gold">ghostbusters runterladen</span>
 - [x] <span style="color:coral">paartherapie S3 runterladen</span>
-# test
-- test <span style="color:red">test</span>
-- 
+
 
 
