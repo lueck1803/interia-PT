@@ -2,9 +2,9 @@
   "obsidian-git",
   "obsidian-latex-suite",
   "unicode-search",
-  "cursor-position-history",
   "codeblock-customizer",
   "auto-close-tags",
   "obsidian-wrap-with-shortcuts",
-  "show-whitespace-cm6"
+  "show-whitespace-cm6",
+  "cursor-position-history"
 ]
