@@ -34,3 +34,6 @@ $\Braket{x^{2}}$
 $\Braket{\int \frac{ \partial r }{ \partial t }^{2} \, dx}$
 
 $x^{2}$
+
+$\Braket{\frac{x}{y}^{2}\cdot x^{2}}$
+
