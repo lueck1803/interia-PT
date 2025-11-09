@@ -32,7 +32,7 @@
 - [ ] auberginen + tofu
 - [ ] Spülmaschine ausräumen 
 - [x] Erbsen kochen 
-- [ ] grünen Stift zum schreiben bringen
+- [ ] grünen Stift zum Schreiben bringen
 - [ ] 
 
 # Masterarbeit 
