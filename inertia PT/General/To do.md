@@ -73,6 +73,7 @@
 	- [ ] aufhängbaren Behälter für Pflanzen 
 	- [ ] Schaufel 
 	- [ ] mini outdoor Gewächshaus 
+- [ ] dusche dampfen
 
 # was schönes
 - [ ] Monblume weiter malen
