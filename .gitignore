@@ -8,6 +8,7 @@
 /.obsidian/plugins/unicode-search
 /.obsidian/plugins/show-whitespace-cm6
 /.obsidian/plugins/obsidian-latex-suite
+!/.obsidian/plugins/obsidian-latex-suite/data.json
 /.obsidian/plugins/obsidian-html-tags-autocomplete
 /.obsidian/plugins/obsidian-git
 /.obsidian/plugins/obsidian-completr
