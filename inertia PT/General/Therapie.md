@@ -44,3 +44,4 @@
 - muss Gedanken sofort notieren aus Angst/dem Wissen das sofort wieder zu vergessen 
 - mehrfach checken ob ich auch wirklich alles dabei habe
 
+# neues Thema 
