@@ -21,7 +21,7 @@ Tage prodiktiv gewesen:
 
 # git
 - wenn Dateien der `.gitignore` hinzugefügt werden, müssen sie auch aus dem chache entfernt werden
-  `{git} git rm --cached /.obsidian/hotkeys.json`
+  `{git} git rm --cached .obsidian/hotkeys.json`
 - 
 
 
