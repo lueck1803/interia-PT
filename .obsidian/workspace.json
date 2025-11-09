@@ -77,7 +77,8 @@
               "title": "To Do (Masterthesis)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "53bf07123b7ce6b3",
@@ -256,10 +257,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b744bc88e6c68e94",
+  "active": "646947c9e1516b39",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "inertia PT/General/To do.md",
+    "conflict-files-obsidian-git.md",
     "inertia PT/Masterthesis/To Do (Masterthesis).md",
     "inertia PT/General/Therapie.md",
     "inertia PT/General/To buy.md",
