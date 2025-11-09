@@ -27,6 +27,3 @@ Tage prodiktiv gewesen:
 - - Wenn dies für alle Unterordner gemacht werden soll, dann:
   `{git} git rm -r --cached .obsidian/plugins/`
 
-
-
-<span style="color:gold">test</span>
