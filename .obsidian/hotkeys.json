@@ -51,7 +51,8 @@
   "cursor-position-history:cursor-position-forward": [
     {
       "modifiers": [
-        "Alt"
+        "Alt",
+        "Ctrl"
       ],
       "key": "ArrowRight"
     }
@@ -59,7 +60,8 @@
   "cursor-position-history:previous-cursor-position": [
     {
       "modifiers": [
-        "Alt"
+        "Alt",
+        "Ctrl"
       ],
       "key": "ArrowLeft"
     }
