@@ -10,9 +10,7 @@
 - [ ] CPU 
 - [ ] thunderbolt extension card
 - [ ] 2x32gb Arbeitsspeicher 
-- [ ] Drucker
-	- [x] Canon Pixma TS9550a 
-	- [ ] auffülbare Patronen 
+- [ ] Canon Pixma TS9550a + auffülbare Patronen 
 - [ ] Akustik Gitarre 
 - [ ] Gesangsmikrofon
 - [ ] Drucker https://www.voelkner.de/checkout/step2.html
@@ -25,8 +23,3 @@
 
 
 
-## <span style="color:gold">Test Equation</span>
-$\Braket{x^{2}}$ $\Braket{}$
-
-## <span style="color:gold">Test Equation</span>
-$\Braket{x^{2}}$ $\Braket{}$
