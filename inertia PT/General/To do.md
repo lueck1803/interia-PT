@@ -32,6 +32,8 @@
 - [ ] auberginen + tofu
 - [ ] Spülmaschine ausräumen 
 - [ ] Erbsen kochen 
+- [ ] grünen Stift zum schreiben bringen
+- [ ] 
 
 # Masterarbeit 
 - [ ] susceptibility 
