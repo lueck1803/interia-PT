@@ -1829,7 +1829,7 @@
           "categories": [
             {
               "abbreviation": "Cc",
-              "included": false
+              "included": true
             },
             {
               "abbreviation": "Cf",
@@ -1856,6 +1856,166 @@
     "initialized": true,
     "version": "0.7.0",
     "codepoints": [
+      {
+        "codepoint": "\u0000",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "\u0001",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "\u0002",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "\u0003",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "\u0004",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "\u0005",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "\u0006",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "\u0007",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "\b",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "\t",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "\n",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "\u000b",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "\f",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "\r",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "\u000e",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "\u000f",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "\u0010",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "\u0011",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "\u0012",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "\u0013",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "\u0014",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "\u0015",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "\u0016",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "\u0017",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "\u0018",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "\u0019",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "\u001a",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "\u001b",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "\u001c",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "\u001d",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "\u001e",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "\u001f",
+        "name": "<control>",
+        "category": "Cc"
+      },
       {
         "codepoint": "!",
         "name": "exclamation mark",
@@ -2325,6 +2485,171 @@
         "codepoint": "~",
         "name": "tilde",
         "category": "Sm"
+      },
+      {
+        "codepoint": "",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "",
+        "name": "<control>",
+        "category": "Cc"
+      },
+      {
+        "codepoint": "",
+        "name": "<control>",
+        "category": "Cc"
       },
       {
         "codepoint": "¡",
