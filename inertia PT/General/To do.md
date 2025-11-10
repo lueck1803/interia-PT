@@ -1,15 +1,6 @@
 # tägliches
-- [x] Wäsche checken 
-- [x] sliksong 
-- [x] Test sync Handy
-- [x] Kirchererbsen kochen
-- [x] Spülmaschine anstellen
-- [x] wäsche zusammenlegen
-- [x] Mittagessen 
-- [x] Akte abholen
 - [ ] Bart schneiden
 - [x] Spülmaschine ausräumen
-- [x] ==Aldi== 
 - [ ] Kartons wegräumen 
 - [ ] wann ist der Vortrag im hessischen Landesmuseum 
 - [ ] Toilette putzen
@@ -27,10 +18,10 @@
 - [x] git am pc gescheit einrichten und Accounts trennen 
 - [x] git in obsidian am Handy einrichten ==hat hoffentlich geklappt wir werden es sehen==
 - [x] Wasserwaage auf rechten Bildschirm
-- [ ] git (richtige ssh keys) und Obsidian mit git am unirechner einrichten 
+- [x] git (richtige ssh keys) und Obsidian mit git am unirechner einrichten 
 - [ ] Avocado 🥑 essen
 - [ ] auberginen + tofu
-- [ ] Spülmaschine ausräumen 
+- [x] Spülmaschine ausräumen 
 - [x] Erbsen kochen 
 - [ ] Erbsen in den Kühlschrank 
 - [ ] grünen Stift zum Schreiben bringen
