@@ -1,17 +1,24 @@
 # tägliches
 ## Küche
+- Arbeitsplatte
+	- [ ] saugen
+	- [ ] wischen 
+- Kartoffeln
+	- [ ] waschen
+	- [ ] schälen
+	- [ ] schneiden
+	- [ ] frittieren
+## Bad
 
-## 
+## technisches
+
+Wäsche und 
+## sonstiges
 - [ ] Bart schneiden
 - [x] Spülmaschine ausräumen
 - [ ] Kartons wegräumen 
 - [ ] wann ist der Vortrag im hessischen Landesmuseum 
 - [ ] Toilette putzen
-- [ ] Kartoffeln
-	- [ ] waschen
-	- [ ] schälen
-	- [ ] schneiden
-	- [ ] frittieren
 - [x] Konto checken 
 	- <span style="color:red">⟹noch kein Geld von Oktober auf dem Konto</span>
 - [ ] staubsaugen 
