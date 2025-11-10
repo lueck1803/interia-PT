@@ -32,8 +32,9 @@
 - [ ] auberginen + tofu
 - [ ] Spülmaschine ausräumen 
 - [x] Erbsen kochen 
+- [ ] Erbsen in den Kühlschrank 
 - [ ] grünen Stift zum Schreiben bringen
-- [ ] 
+- [ ] carnivoren Wasser
 
 # Masterarbeit 
 - [ ] susceptibility 
