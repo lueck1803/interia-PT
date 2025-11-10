@@ -19,7 +19,9 @@
 - [ ] Bart schneiden
 - [ ] Toilette putzen
 ## technisches
-
+- Obsidian 
+	- [ ] text wrapper size in shortcut einbauen 
+	- [ ] 
 
 ## Wäsche, Kleidung und Stoffe
 - [ ] Bettwäsche wechseln
