@@ -61,7 +61,8 @@
 ## mental 
 - [ ] Notizen zu *why you can't finish simple tasks* machen
 # Arbeit
-- [ ] Hybrid Connector ⟹ <span style="color:gold">habe keinen Zugriff</span>
+- [ ] Hybrid Connector 
+	- [x] ⟹ <span style="color:gold">habe keinen Zugriff</span>
 - [ ] heylogin 
 	- [ ] wie ich jemandem meinen "contact" senden kann damit dieser mir Passwörter geben kann
 	- [ ] so bereit stellen damit es auf der Webseite gut aussieht 
@@ -93,11 +94,15 @@
 - [ ] dusche dampfen
 
 # was schönes
+## Malen und Basteln 
 - [ ] Monblume weiter malen
 - [ ] Becorns basteln
-
+## Musik
 - [ ] soon departed auf +70% spielen 
 - [ ] mir die neuen Chor Stücke anschauen 
+# Lesen und Hören 
+- [ ] Universum in einem einzigen Atom 
+## Filme, Serien und Dokus
 - [x] <span style="color:gold">ghostbusters runterladen</span>
 - [x] <span style="color:coral">paartherapie S3 runterladen</span>
 
