@@ -100,6 +100,8 @@ Five strategies that are simple, practical and rooted in how your brain works:
 	- By speaking while your body is moving, You're engaging both sound and motion.
 	- Your body feels the action, your ears hear the words and your <span style="font-size:100%;color:green;">brain links them together</span>.
 	- This dual input is called ==***sensorimotor attention***==, makes it much harder for the action to slip away unnoticed.
+		- <span style="font-size:100%;color:green;">↳</span> Instead of drifting into autopilot you're holding the task in conscious awareness to finish the task.
+2. Point and confirm: This one 
 
 
 
