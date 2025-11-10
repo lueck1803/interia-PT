@@ -8,7 +8,7 @@ Aussage des Vaters von Friedemann:
 > [!Aussage ]
 > "Ich halte es für bedenklich, dass du jeden Abend versackst!"
 ### <span style="color:DodgerBlue;font-size:100%;">Sachohr</span>
-Es steckt ja eine Behauptung darin: ==Dass ich abends versacke.==
+Es steckt ja eine Behauptung darin: <span style="color:DodgerBlue;font-size:100%;">Dass ich abends versacke</span>.
 #### Mögliche Antworten/Reaktionen:
 - "Vater, was verstehst du unter Versacken?"
 	- "Meinst du Alkohol?" "Oder was meinst du da?"
