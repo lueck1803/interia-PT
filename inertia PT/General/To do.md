@@ -23,7 +23,7 @@
 - [ ] auberginen + tofu
 - [x] Spülmaschine ausräumen 
 - [x] Erbsen kochen 
-- [ ] Erbsen in den Kühlschrank 
+- [x] Erbsen in den Kühlschrank 
 - [ ] grünen Stift zum Schreiben bringen
 - [x] carnivoren Wasser
 - [ ] 
