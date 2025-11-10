@@ -98,7 +98,7 @@ Five strategies that are simple, practical and rooted in how your brain works:
 	- <span style="font-size:100%;color:DodgerBlue;">Ex:</span> When you turn off the stove: 
 	  "I am turning off the stove!"
 	- By speaking while your body is moving, You're engaging both sound and motion.
-	- Your body feels the action, your ears hear the words and your brain links them together.
+	- Your body feels the action, your ears hear the words and your <span style="font-size:100%;color:green;">brain links them together</span>.
 
 
 
