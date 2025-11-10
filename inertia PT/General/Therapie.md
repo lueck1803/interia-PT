@@ -1,3 +1,8 @@
+
+# Kommunikation 
+- <span style="color:red">3s Pause</span> before Response to regain your <span style="color:green">emotional control</span> 
+## Friedemann schulz von Thun 
+Was ich in mein Journal geschrieben habe
 # Ich
 - habe mich gerne und <span style="color:DarkTurquoise">ich bin wertvoll</span> ganz egal was <span style="color:gold">Arooj</span> denkt und sagt
 # Schlaf
