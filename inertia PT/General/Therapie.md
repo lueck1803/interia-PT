@@ -57,7 +57,7 @@ Der <span style="color:red;font-size:100%;">andere möchte</span> einen nicht nu
 ## Achtsamkeit
 ### why you can't finish simple tasks
 https://youtu.be/kQtV5IycoEo?si=qeQa8RoThrwcRFXN
-### reason
+#### reason
 - ADHD or stress and distraction ⟹ the finishing process falls through the cracks
 - the brain never fully encoded the act of finishing
 	- start and finishing a task involve different brain processes 
@@ -80,7 +80,7 @@ https://youtu.be/kQtV5IycoEo?si=qeQa8RoThrwcRFXN
 	- <span style="font-size:100%;color:red;">↳</span> each switch drains focus from the task at hand
 - there is attention fragmentation, even when nothing urgent is happening we carry <span style="font-size:100%;color:hotpink;">background noise</span> in our heads. The mental load of daily life.
 - <span style="font-size:100%;color:gold;">stress and overload</span> when stress hormones stay high the brains ability to encode and complete tasks weakens.
-### Paradox
+#### Paradox
 
 > [!Paradox]
 > The more routine a task becomes the less conscious attention you give it.
@@ -135,6 +135,9 @@ Five strategies that are simple, practical and rooted in how your brain works:
 	- That brief pause acts like a consolidation moment for your working memory.
 	- It interrupts the rush from one task to the next, and gives your brain time to register what's been completed.
 	- Without that pause your mind may jump ahead too quickly leaving steps unfinished.
+	- <span style="font-size:100%;color:lawngreen;">↳</span> with the buffer you create space for your brain to lock in the closure before you move on.
+
+### 
 
 
 
