@@ -56,7 +56,25 @@ Der <span style="color:red;font-size:100%;">andere möchte</span> einen nicht nu
 - ich liebe <span style="color:hotpink">Meditation</span> 
 ## Achtsamkeit
 ### why you can't finish simple tasks
-- https://youtu.be/kQtV5IycoEo?si=qeQa8RoThrwcRFXN
+https://youtu.be/kQtV5IycoEo?si=qeQa8RoThrwcRFXN
+### reason
+- ADHD or stress and distraction ⟹ the finishing process falls through the cracks
+- the brain never fully encoded the act of finishing
+	- start and finishing a task involve different brain processes 
+	- brain is quite good at initiating activities
+	- maintaining attention long enough to complete them, here the things get complicated
+- working memory can only so much at once
+	- if something interrupts and the attention gets pulled to something else, your're working memory drops the original task before you finished it
+	- it thinks you finished it, because you started the sequence but the follow through never happend
+	- the task was abandoned mid stream
+- the <span style="color:DodgerBlue;font-size:100%;">prefrontal cortex</span> is like your project manager.
+	- <span style="color:green;font-size:100%;">↳</span>it helps you focus, sequence steps and even see tasks through.
+	- <span style="color:red;font-size:100%;">↳ but</span> when it gets overloaded, by mental health issues or too many distractions, its ability to track where you are in the sequence breaks down.
+- the <span style="color:HotPink;font-size:100%;">basal ganglia</span> deep inside your brain is like your autopilot system. 
+	- <span style="color:green;font-size:100%;">↳</span>It's excellent at helping you initiate routine actions
+	- <span style="font-size:100%;color:red;">↳</span> but autopilot isn't wired to guarantee that you'll finish the action
+- <span style="font-size:100%;color:orange;">Without enough</span> <span style="font-size:100%;color:red;">attention</span> from your <span style="font-size:100%;color:DodgerBlue;">prefrontal cortex</span> the sequence get cut short. Your brain logs the start, but the completion never happens.
+- 
 ### Bodyscan (was an der Tafel steht)
 
 
