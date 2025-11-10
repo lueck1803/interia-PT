@@ -9,28 +9,27 @@
 	- [ ] schneiden
 	- [ ] frittieren
 ## Bad
-
+- [ ] Bart schneiden
 ## technisches
 
 ## Wäsche, Kleidung und Stoffe
 - [ ] Bettwäsche wechseln
+- [x] neuen Schlafanzug 
+- [ ] Toilette putzen
+- [ ] Avocado 🥑 essen
+- [ ] auberginen + tofu
 ## sonstiges
-- [ ] Bart schneiden
 - [x] Spülmaschine ausräumen
 - [ ] Kartons wegräumen 
 - [ ] wann ist der Vortrag im hessischen Landesmuseum 
-- [ ] Toilette putzen
 - [x] Konto checken 
 	- <span style="color:red">⟹noch kein Geld von Oktober auf dem Konto</span>
 - [ ] staubsaugen 
 - [ ] restliche Paprika ernten 
-- [x] neuen Schlafanzug 
 - [x] git am pc gescheit einrichten und Accounts trennen 
 - [x] git in obsidian am Handy einrichten ==hat hoffentlich geklappt wir werden es sehen==
 - [x] Wasserwaage auf rechten Bildschirm
 - [x] git (richtige ssh keys) und Obsidian mit git am unirechner einrichten 
-- [ ] Avocado 🥑 essen
-- [ ] auberginen + tofu
 - [x] Spülmaschine ausräumen 
 - [x] Erbsen kochen 
 - [x] Erbsen in den Kühlschrank 
