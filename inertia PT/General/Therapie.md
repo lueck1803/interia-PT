@@ -74,7 +74,9 @@ https://youtu.be/kQtV5IycoEo?si=qeQa8RoThrwcRFXN
 	- <span style="color:green;font-size:100%;">↳</span>It's excellent at helping you initiate routine actions
 	- <span style="font-size:100%;color:red;">↳</span> but autopilot isn't wired to guarantee that you'll finish the action
 - <span style="font-size:100%;color:orange;">Without enough</span> <span style="font-size:100%;color:red;">attention</span> from your <span style="font-size:100%;color:DodgerBlue;">prefrontal cortex</span> the sequence get cut short. Your brain logs the start, but the completion never happens.
-###### <span style="font-size:100%;color:hotpink;"><u>Test</u></span>
+	- <span style="font-size:100%;color:red;">↳</span> that creates an open loop. The task is <span style="font-size:100%;color:coral;">hanging in the background incomplete</span>
+	- <span style="font-size:100%;color:red;">↳</span> later on you feel unsettled or second guess yourself, because you never marked it off as done.
+
 
 ### Bodyscan (was an der Tafel steht)
 
