@@ -94,23 +94,29 @@ You are not standing there focused on turning off the stove. You're already plan
 
 Five strategies that are simple, practical and rooted in how your brain works:
 1. <span style="font-size:100%;color:red;">Anchor</span> tasks to your <span style="font-size:100%;color:red;">senses</span>.
-	- Narrate the action as you do it:
-	- When you turn off the stove: 
-	  "I am turning off the stove!"
+	- Narrate the action as you do it!
+	- <u>Example:</u>
+		- When you turn off the stove: 
+		  "I am turning off the stove!"
 	- By speaking while your body is moving, You're engaging both sound and motion.
 	- Your body feels the action, your ears hear the words and your <span style="font-size:100%;color:green;">brain links them together</span>.
 	- This dual input is called ==***sensorimotor attention***==, makes it much harder for the action to slip away unnoticed.
 		- <span style="font-size:100%;color:green;">↳</span> Instead of drifting into autopilot you're holding the task in conscious awareness to finish the task.
 2. <span style="font-size:100%;color:gold;">Point and confirm</span>: This one takes sensory anchoring a step further by adding an <span style="font-size:100%;color:gold;">intentional gesture</span>
-	- After you turn something off:
-		- <span style="font-size:100%;color:green;">↳</span>physically point at it and ==say "***off***"==
-	- Close a cabinet door: 
-		- <span style="font-size:100%;color:green;">↳</span>Touch the door and ==say "closed"==
+	- <u>Examples:</u>
+		- After you turn something off:
+			- <span style="font-size:100%;color:green;">↳</span>physically point at it and ==say "***off***"==
+		- Close a cabinet door: 
+			- <span style="font-size:100%;color:green;">↳</span>Touch the door and ==say "closed"==
 	- The active pointing or touching creates a <span style="font-size:100%;color:gold;">closure signal</span>, a moment that tells your brain: <span style="font-size:100%;color:gold;">This is done!</span>
 3. Use <span style="font-size:100%;color:cyan;">Anchor Objects</span>: Use your environment as a memory aid.
-	- After turning of the stove you might place a dish towel across the knobs.
-	- After locking the door you can put a sticky note on the frame that you only remove once the lock is checked.
-	- The works as visual anchors 
+	- <u>Examples:</u>
+		- After turning of the stove you might place a dish towel across the knobs.
+		- After locking the door you can put a sticky note on the frame that you only remove once the lock is checked.
+	- These props works as visual anchors, physical cues that confirm that the task is complete.
+	- Instead of relying only on your working memory you've externalised the reminder in your surroundings
+	- Anchor objects <span style="font-size:100%;color:cyan;">reduce mental load</span> and give you a visible receipt that the job was finished.
+4. Building a shutdown ritual
 
 
 
