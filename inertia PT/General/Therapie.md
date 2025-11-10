@@ -139,7 +139,12 @@ Five strategies that are simple, practical and rooted in how your brain works:
 
 #### Why does this works?
 They <span style="font-size:100%;color:gold;">reduce the reliance on the working memory</span>, which is short lived and easily distracted.
-Instead these actions recruit stronger encoding systems that hold on to the task more securely.
+Instead these actions recruit stronger encoding systems that hold on to the task more securely:
+- <span style="font-size:100%;color:red;">Narration</span> uses language.
+- <span style="font-size:100%;color:gold;">Gestures</span> use motor and sensory networks
+- Anchor objects externalize memory into your environment
+- Shutdown rituals turn completion into a habit
+- Paus buffers give your brain time to register closure.
 
 
 
