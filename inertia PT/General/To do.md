@@ -24,7 +24,9 @@
 		-  <span style="color:red;font-size:120%">test</span>
 		- <span style="color:green;font-size:130%;">test</span>
 	- [x] quiet outline drag heading testen
-	- [ ] was macht autovervollständigung in der dataprotect knowledge base?
+	- [x] was macht autovervollständigung in der dataprotect knowledge base? 
+	- [ ] ⟹completr
+	- [ ] remove .obsidian/app.json
 
 ## Wäsche, Kleidung und Stoffe
 - [ ] Bettwäsche wechseln
