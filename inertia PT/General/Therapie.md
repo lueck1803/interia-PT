@@ -87,7 +87,7 @@ https://youtu.be/kQtV5IycoEo?si=qeQa8RoThrwcRFXN
 
 You are not standing there focused on turning off the stove. You're already planing your next move. And that's exactly when the final step can get dropped.
 
-### How do you train your brain to actually finish what you start?
+#### How do you train your brain to actually finish what you start?
 
 > [!Solution]
 > Give your brain better instructions. Layering cues and rituals that lock in completion.
@@ -137,7 +137,9 @@ Five strategies that are simple, practical and rooted in how your brain works:
 	- Without that pause your mind may jump ahead too quickly leaving steps unfinished.
 	- <span style="font-size:100%;color:lawngreen;">↳</span> with the buffer you create space for your brain to lock in the closure before you move on.
 
-### 
+#### Why does this works?
+They <span style="font-size:100%;color:gold;">reduce the reliance on the working memory</span>, which is short lived and easily distracted.
+Instead these actions recruit stronger encoding systems that hold on to the task more securely.
 
 
 
