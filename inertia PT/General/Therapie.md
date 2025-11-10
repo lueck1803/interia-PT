@@ -4,11 +4,15 @@
 ## Friedemann schulz von Thun 
 https://www.youtube.com/watch?v=jPAjmlkXf48&t=4659s
 
-Aussage des Vaters von Friedemann: 
-> [!Aussage]
+Aussage des Vaters von Friedemann:
+> [!Aussage ]
 > "Ich halte es für bedenklich, dass du jeden Abend versackst!"
-
-
+### <span style="color:DodgerBlue;font-size:100%;">Sachohr</span>
+Es steckt ja eine Behauptung darin: ==Dass ich abends versacke.==
+- "Vater, was verstehst du unter Versacken?"
+	- "Meinst du Alkohol?" "Oder was meinst du da?"
+- "Ich könnte dir mal erklären, wie ich die Abende verbringe"
+<span style="color:DodgerBlue;font-size:100%;">rein sachlich</span>
 
 # Ich
 - habe mich gerne und <span style="color:DarkTurquoise">ich bin wertvoll</span> ganz egal was <span style="color:gold">Arooj</span> denkt und sagt
