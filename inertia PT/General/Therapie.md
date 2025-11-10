@@ -95,7 +95,10 @@ You are not standing there focused on turning off the stove. You're already plan
 Five strategies that are simple, practical and rooted in how your brain works:
 1. <span style="font-size:100%;color:red;">Anchor</span> tasks to your <span style="font-size:100%;color:red;">senses</span>.
 	- Narrate the action as you do it:
-	  <span style="font-size:100%;color:DodgerBlue;">Ex:</span>
+	- <span style="font-size:100%;color:DodgerBlue;">Ex:</span> When you turn off the stove: 
+	  "I am turning off the stove!"
+	- By speaking while your body is moving, You're engaging both sound and motion.
+	- Your body feels the action, your ears hear the words and your brain links them together.
 
 
 
