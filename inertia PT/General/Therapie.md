@@ -62,8 +62,10 @@ https://youtu.be/kQtV5IycoEo?si=qeQa8RoThrwcRFXN
 - the brain never fully encoded the act of finishing
 	- start and finishing a task involve different brain processes 
 	- brain is quite good at initiating activities
-	- maintaining attention alon
-- 
+	- maintaining attention long enough to complete them, here the things get complicated
+- working memory can only so much at once
+	- if something interrupts and the attention gets pulled to something else, your're working memory drops the original task before you finished it
+	- it thinks you finished it, because you started the sequence but the follow through never happend
 ### Bodyscan (was an der Tafel steht)
 
 
