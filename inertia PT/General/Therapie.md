@@ -9,7 +9,6 @@ Aussage des Vaters von Friedemann:
 > "Ich halte es für bedenklich, dass du jeden Abend versackst!"
 ### <span style="color:DodgerBlue;font-size:100%;">Sachohr</span>
 Es steckt ja eine Behauptung darin: ==Dass ich abends versacke.==
-
 #### Mögliche Antworten/Reaktionen:
 - "Vater, was verstehst du unter Versacken?"
 	- "Meinst du Alkohol?" "Oder was meinst du da?"
@@ -22,6 +21,18 @@ Damit höre ich, was der <span style="color:orange;font-size:100%;">Sender</span
 - Vielleicht ist das das <span style="color:orange;font-size:100%;">emphatische</span> Ohr
 #### Mögliche Antworten/Reaktionen:
 - "Mensch Papa, machst du dir Sorgen über mich, oder bist du sauer auf mich?"
+- "Erzähl mir mal, was in dir vorgeht!"
+
+### <span style="color:BlueViolet;font-size:100%;">Beziehungsohr</span>
+Das ist das <span style="color:BlueViolet;font-size:100%;">empfindliche</span> Ohr, was immer mitkriegt:
+- Wie steht der Andere zu mir ?
+- Was hält er von mir?
+- Ist da ein Vorwurf drin?
+- Eine Kränkung, eine Beleidigung?
+- Finde ich mich wertgeschätzt, geachtet oder niederträchtig behandelt?
+#### Mögliche Antworten/Reaktionen:
+- "Ne Papa, so nicht mit mir! Ich bin zwar noch nicht volljährig, aber du kommst hier rein, ohne anzuklopfen, ohne guten Morgen, gleich mit einem "
+
 # Ich
 - habe mich gerne und <span style="color:DarkTurquoise">ich bin wertvoll</span> ganz egal was <span style="color:gold">Arooj</span> denkt und sagt
 # Schlaf
