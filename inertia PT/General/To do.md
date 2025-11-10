@@ -13,6 +13,8 @@
 	- [x] anstellen 
 	- [x] Regeneriersalz
 	- [x] Klarspüler 
+- [x] Erbsen kochen 
+- [x] Erbsen in den Kühlschrank
 ## Bad
 - [ ] Bart schneiden
 - [ ] Toilette putzen
@@ -33,10 +35,7 @@
 - [x] git am pc gescheit einrichten und Accounts trennen 
 - [x] git in obsidian am Handy einrichten ==hat hoffentlich geklappt wir werden es sehen==
 - [x] Wasserwaage auf rechten Bildschirm
-- [x] git (richtige ssh keys) und Obsidian mit git am unirechner einrichten 
-- [x] Spülmaschine ausräumen 
-- [x] Erbsen kochen 
-- [x] Erbsen in den Kühlschrank 
+- [x] git (richtige ssh keys) und Obsidian mit git am unirechner einrichten  
 - [ ] grünen Stift zum Schreiben bringen
 - [x] carnivoren Wasser
 
@@ -96,6 +95,7 @@
 # was schönes
 - [ ] Monblume weiter malen
 - [ ] Becorns basteln
+
 - [ ] soon departed auf +70% spielen 
 - [ ] mir die neuen Chor Stücke anschauen 
 - [x] <span style="color:gold">ghostbusters runterladen</span>
