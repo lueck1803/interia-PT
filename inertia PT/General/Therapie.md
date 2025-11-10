@@ -125,7 +125,16 @@ Five strategies that are simple, practical and rooted in how your brain works:
 			4. lock the door
 		-  If you repeat a routine in the same way your brains habit system located in your  <span style="font-size:100%;color:hotpink;">basal ganglia</span> starts to automate the sequence for you.
 		- <span style="font-size:100%;color:lawngreen;">↳</span> you don't have to rely as heavily on working memory or willpower to remember each step. Instead the <span style="font-size:100%;color:MediumSpringGreen;">habit loop</span> itself carries you through to completion. And over time thiskind of ritual turns follow-through into something that you do automatically even when you're stressed or distracted.
-5. Insert a Paus
+5. Insert a <span style="font-size:100%;color:Chartreuse;">Pause Buffer</span>:
+	- Take just 10 seconds to stop and scan.
+	- <u>Example:</u>
+		- In the kitchen look around:
+		- Are the cabinets shut?
+		- Is the stove off?
+		- Is the sink still running?
+	- That brief pause acts like a consolidation moment for your working memory.
+	- It interrupts the rush from one task to the next, and gives your brain time to register what's been completed.
+	- Without that pause your mind may jump ahead too quickly leaving steps unfinished.
 
 
 
