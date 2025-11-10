@@ -15,6 +15,7 @@
 - [ ] Gesangsmikrofon
 - [ ] Drucker https://www.voelkner.de/checkout/step2.html
 	- Gutscheincode: TV9XS6Q3ZF
+- [ ] singer simple model 3232
 
 # Pflanzen 
 - schöne eckige Glassschüssel für die carnivoren 
