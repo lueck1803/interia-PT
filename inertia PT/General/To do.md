@@ -21,7 +21,9 @@
 ## technisches
 - Obsidian 
 	- [ ] text wrapper size in shortcut einbauen 
-	- [ ] 
+		-  
+		-  <span style="color:red;"></span>
+	- [ ] quiet outline drag heading testen
 
 ## Wäsche, Kleidung und Stoffe
 - [ ] Bettwäsche wechseln
@@ -103,11 +105,13 @@
 ## Musik
 - [ ] soon departed auf +70% spielen 
 - [ ] mir die neuen Chor Stücke anschauen 
-# Lesen und Hören 
+## Lesen und Hören 
 - [ ] Universum in einem einzigen Atom 
 ## Filme, Serien und Dokus
 - [x] <span style="color:gold">ghostbusters runterladen</span>
 - [x] <span style="color:coral">paartherapie S3 runterladen</span>
+
+
 
 
 
