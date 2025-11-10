@@ -3,6 +3,9 @@
 - <span style="color:red">3s Pause</span> before Response to regain your <span style="color:green">emotional control</span> 
 ## Friedemann schulz von Thun 
 Was ich in mein Journal geschrieben habe
+
+
+
 # Ich
 - habe mich gerne und <span style="color:DarkTurquoise">ich bin wertvoll</span> ganz egal was <span style="color:gold">Arooj</span> denkt und sagt
 # Schlaf
@@ -13,11 +16,14 @@ Was ich in mein Journal geschrieben habe
 # Achtsamkeit und Meditation 
 ## Meditation 
 - ich liebe <span style="color:hotpink">Meditation</span> 
-
 ## Achtsamkeit
 ### why you can't finish simple tasks
 - https://youtu.be/kQtV5IycoEo?si=qeQa8RoThrwcRFXN
 ### Bodyscan (was an der Tafel steht)
+
+
+
+
 # Beziehung 
 - Arooj ist mir zum Glück mittlerweile echt <span style="color:coral">pups egal</span>
 # Familie 
@@ -58,4 +64,4 @@ Was ich in mein Journal geschrieben habe
 - muss Gedanken sofort notieren aus Angst/dem Wissen das sofort wieder zu vergessen 
 - mehrfach checken ob ich auch wirklich alles dabei habe
 
-# neues Thema 
+
