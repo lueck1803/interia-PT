@@ -95,7 +95,7 @@ You are not standing there focused on turning off the stove. You're already plan
 Five strategies that are simple, practical and rooted in how your brain works:
 1. <span style="font-size:100%;color:red;">Anchor</span> tasks to your <span style="font-size:100%;color:red;">senses</span>.
 	- Narrate the action as you do it:
-	- <span style="font-size:100%;color:DodgerBlue;">Ex:</span> When you turn off the stove: 
+	- When you turn off the stove: 
 	  "I am turning off the stove!"
 	- By speaking while your body is moving, You're engaging both sound and motion.
 	- Your body feels the action, your ears hear the words and your <span style="font-size:100%;color:green;">brain links them together</span>.
@@ -106,7 +106,11 @@ Five strategies that are simple, practical and rooted in how your brain works:
 		- <span style="font-size:100%;color:green;">↳</span>physically point at it and ==say "***off***"==
 	- Close a cabinet door: 
 		- <span style="font-size:100%;color:green;">↳</span>Touch the door and ==say "closed"==
-	- The active pointing or touching creates a <span style="font-size:100%;color:gold;">closure signal</span>, a moment t
+	- The active pointing or touching creates a <span style="font-size:100%;color:gold;">closure signal</span>, a moment that tells your brain: <span style="font-size:100%;color:gold;">This is done!</span>
+3. Use <span style="font-size:100%;color:cyan;">Anchor Objects</span>: Use your environment as a memory aid.
+	- After turning of the stove you might place a dish towel across the knobs.
+	- After locking the door you can put a sticky note on the frame that you only remove once the lock is checked.
+	- The works as visual anchors 
 
 
 
