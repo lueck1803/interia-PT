@@ -8,18 +8,22 @@
 	- [ ] schälen
 	- [ ] schneiden
 	- [ ] frittieren
+- Spülmaschine
+	- [x] ausräumen
+	- [x] anstellen 
+	- [x] Regeneriersalz
+	- [x] Klarspüler 
 ## Bad
 - [ ] Bart schneiden
+- [ ] Toilette putzen
 ## technisches
 
 ## Wäsche, Kleidung und Stoffe
 - [ ] Bettwäsche wechseln
 - [x] neuen Schlafanzug 
-- [ ] Toilette putzen
 - [ ] Avocado 🥑 essen
 - [ ] auberginen + tofu
 ## sonstiges
-- [x] Spülmaschine ausräumen
 - [ ] Kartons wegräumen 
 - [ ] wann ist der Vortrag im hessischen Landesmuseum 
 - [x] Konto checken 
