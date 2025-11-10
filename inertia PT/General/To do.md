@@ -33,7 +33,7 @@
 - [ ] Kartons wegräumen 
 - [ ] wann ist der Vortrag im hessischen Landesmuseum 
 - [x] Konto checken 
-	- <span style="color:red">⟹noch kein Geld von Oktober auf dem Konto</span>
+	- [ ] <span style="color:red">⟹noch kein Geld von Oktober auf dem Konto</span>
 - [ ] staubsaugen 
 - [ ] restliche Paprika ernten 
 - [x] git am pc gescheit einrichten und Accounts trennen 
