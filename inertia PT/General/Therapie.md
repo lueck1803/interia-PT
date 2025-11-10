@@ -67,9 +67,12 @@ https://youtu.be/kQtV5IycoEo?si=qeQa8RoThrwcRFXN
 	- if something interrupts and the attention gets pulled to something else, your're working memory drops the original task before you finished it
 	- it thinks you finished it, because you started the sequence but the follow through never happend
 	- the task was abandoned mid stream
-- the <span style="color:DodgerBlue;font-size:100%;">prefrontal cortex</span> is like your project manager, it helps you focus, sequence steps and even see tasks through.
+- the <span style="color:DodgerBlue;font-size:100%;">prefrontal cortex</span> is like your project manager.
+	- <span style="color:green;font-size:100%;">↳</span>it helps you focus, sequence steps and even see tasks through.
 	- <span style="color:red;font-size:100%;">↳ but</span> when it gets overloaded, by mental health issues or too many distractions, its ability to track where you are in the sequence breaks down.
-- the <span style="color:DodgerBlue;font-size:100%;">basal ganglia</span> <span style="color:$0;font-size:100%;"></span>
+- the <span style="color:DodgerBlue;font-size:100%;">basal ganglia</span> deep inside your brain is like your autopilot system. 
+	- <span style="color:green;font-size:100%;">↳</span>It's excellent at helping you initiate routine actions
+	- 
 ### Bodyscan (was an der Tafel steht)
 
 
