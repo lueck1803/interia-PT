@@ -21,7 +21,7 @@
 ## technisches
 - Obsidian 
 	- [ ] text wrapper size in shortcut einbauen 
-		-  <span style="color:red;font-size:100%">test</span>
+		-  <span style="color:red;font-size:120%">test</span>
 	- [ ] quiet outline drag heading testen
 
 ## Wäsche, Kleidung und Stoffe
@@ -44,7 +44,7 @@
 - [x] carnivoren Wasser
 
 
-# Masterarbeit 
+# Masterarbeit
 - [ ] susceptibility 
 	- [ ] L extract
 	- [ ] berechnen 
@@ -59,10 +59,10 @@
 	- [ ] Theorie 
 - [ ] Code fertig aufräumen 
 
-# Gesundheit 
-## körperlich 
+# Gesundheit
+## körperlich
 
-## mental 
+## mental
 - [ ] Notizen zu *why you can't finish simple tasks* machen
 # Arbeit
 - [ ] Hybrid Connector 
@@ -98,18 +98,27 @@
 - [ ] dusche dampfen
 
 # was schönes
-## Malen und Basteln 
+## Malen und Basteln
 - [ ] Monblume weiter malen
 - [ ] Becorns basteln
 ## Musik
 - [ ] soon departed auf +70% spielen 
 - [ ] mir die neuen Chor Stücke anschauen 
-## Lesen und Hören 
+## Lesen und Hören
 - [ ] Universum in einem einzigen Atom 
 ## Filme, Serien und Dokus
 - [x] <span style="color:gold">ghostbusters runterladen</span>
 - [x] <span style="color:coral">paartherapie S3 runterladen</span>
 
+# test
+## test1
+text1
+### test11
+text11
+### test2
+text2
+#### test21
+text 21
 
 
 
@@ -120,3 +129,5 @@
 
 
 
+### test12
+text12
