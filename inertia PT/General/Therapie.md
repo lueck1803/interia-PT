@@ -2,7 +2,11 @@
 # Kommunikation 
 - <span style="color:red">3s Pause</span> before Response to regain your <span style="color:green">emotional control</span> 
 ## Friedemann schulz von Thun 
-Was ich in mein Journal geschrieben habe
+https://www.youtube.com/watch?v=jPAjmlkXf48&t=4659s
+
+Aussage des Vaters von Friedemann: 
+> [!Aussage]
+> "Ich halte es für bedenklich, dass du jeden Abend versackst!"
 
 
 
