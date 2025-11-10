@@ -25,7 +25,7 @@ Tage prodiktiv gewesen:
 - wenn Dateien der `.gitignore` hinzugefügt werden, müssen sie auch aus dem chache entfernt werden
   `{git} git rm --cached .obsidian/hotkeys.json`
 - - Wenn dies für alle Unterordner gemacht werden soll, dann:
-  `{git} git rm -r --cached .obsidian/plugins/`
+  `{git} git rm -r --cached .obsidian/plugins/\\*`
 
 # Latex Suite
  {trigger: "Brk", replacement: "\\Braket{$0} $1", options: "mA"},
