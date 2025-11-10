@@ -21,8 +21,7 @@
 ## technisches
 - Obsidian 
 	- [ ] text wrapper size in shortcut einbauen 
-		-  
-		-  <span style="color:red;"></span>
+		-  <span style="color:red;font-size:100%">test</span>
 	- [ ] quiet outline drag heading testen
 
 ## Wäsche, Kleidung und Stoffe
