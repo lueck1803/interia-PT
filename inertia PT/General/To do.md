@@ -66,6 +66,7 @@
 
 ## mental
 - [ ] Notizen zu *why you can't finish simple tasks* machen
+- [x] Notizen zur Kommunikation Friedemann schulz von Thun 
 # Arbeit
 - [ ] Hybrid Connector 
 	- [x] ⟹ <span style="color:gold">habe keinen Zugriff</span>
