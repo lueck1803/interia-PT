@@ -27,7 +27,7 @@ Tage prodiktiv gewesen:
 - - Wenn dies für alle Unterordner gemacht werden soll, dann:
   `{git} git rm -r --cached .obsidian/plugins/\\*`
 
-test
+
 # Latex Suite
  {trigger: "Brk", replacement: "\\Braket{$0} $1", options: "mA"},
  
