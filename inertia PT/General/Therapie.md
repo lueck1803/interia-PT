@@ -116,7 +116,14 @@ Five strategies that are simple, practical and rooted in how your brain works:
 	- These props works as visual anchors, physical cues that confirm that the task is complete.
 	- Instead of relying only on your working memory you've externalised the reminder in your surroundings
 	- Anchor objects <span style="font-size:100%;color:cyan;">reduce mental load</span> and give you a visible receipt that the job was finished.
-4. Building a shutdown ritual
+4. Building a <span style="font-size:100%;color:MediumSpringGreen;">shutdown ritual</span>: Turn them into a part of a fixed sequence.
+	- <u>Example:</u>
+		- Every time you leave the house, you might follow the same order:
+			1. keys
+			2. lights
+			3. stove
+			4. lock the door
+		-  If you repeat a routine in the same way 
 
 
 
