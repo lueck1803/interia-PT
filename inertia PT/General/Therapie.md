@@ -70,10 +70,11 @@ https://youtu.be/kQtV5IycoEo?si=qeQa8RoThrwcRFXN
 - the <span style="color:DodgerBlue;font-size:100%;">prefrontal cortex</span> is like your project manager.
 	- <span style="color:green;font-size:100%;">↳</span>it helps you focus, sequence steps and even see tasks through.
 	- <span style="color:red;font-size:100%;">↳ but</span> when it gets overloaded, by mental health issues or too many distractions, its ability to track where you are in the sequence breaks down.
-- the <span style="color:DodgerBlue;font-size:100%;">basal ganglia</span> deep inside your brain is like your autopilot system. 
+- the <span style="color:HotPink;font-size:100%;">basal ganglia</span> deep inside your brain is like your autopilot system. 
 	- <span style="color:green;font-size:100%;">↳</span>It's excellent at helping you initiate routine actions
 	- <span style="font-size:100%;color:red;">↳</span> but autopilot isn't wired to guarantee that you'll finish the action
-- <span style="font-size:100%;color:orange;">Without enough</span> <span style="font-size:100%;color:red;">attention</span> 
+- <span style="font-size:100%;color:orange;">Without enough</span> <span style="font-size:100%;color:red;">attention</span> from your <span style="font-size:100%;color:DodgerBlue;">prefrontal cortex</span> the sequence get cut short. Your brain logs the start, but the completion never happens.
+- 
 ### Bodyscan (was an der Tafel steht)
 
 
