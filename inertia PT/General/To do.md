@@ -12,7 +12,8 @@
 
 ## technisches
 
-Wäsche und 
+## Wäsche, Kleidung und Stoffe
+- [ ] Bettwäsche wechseln
 ## sonstiges
 - [ ] Bart schneiden
 - [x] Spülmaschine ausräumen
@@ -22,8 +23,7 @@ Wäsche und
 - [x] Konto checken 
 	- <span style="color:red">⟹noch kein Geld von Oktober auf dem Konto</span>
 - [ ] staubsaugen 
-- [ ] restliche Paprika ernten
-- [ ] Bettwäsche wechseln 
+- [ ] restliche Paprika ernten 
 - [x] neuen Schlafanzug 
 - [x] git am pc gescheit einrichten und Accounts trennen 
 - [x] git in obsidian am Handy einrichten ==hat hoffentlich geklappt wir werden es sehen==
