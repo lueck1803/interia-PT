@@ -9,11 +9,19 @@ Aussage des Vaters von Friedemann:
 > "Ich halte es für bedenklich, dass du jeden Abend versackst!"
 ### <span style="color:DodgerBlue;font-size:100%;">Sachohr</span>
 Es steckt ja eine Behauptung darin: ==Dass ich abends versacke.==
+
+#### Mögliche Antworten/Reaktionen:
 - "Vater, was verstehst du unter Versacken?"
 	- "Meinst du Alkohol?" "Oder was meinst du da?"
 - "Ich könnte dir mal erklären, wie ich die Abende verbringe"
 <span style="color:DodgerBlue;font-size:100%;">rein sachlich</span>
-
+### <span style="color:orange;font-size:100%;">Selbstkundgabe Ohr</span>
+Damit höre ich, was der <span style="color:orange;font-size:100%;">Sender</span> von <span style="color:orange;font-size:100%;">sich selbst preisgibt</span>. 
+- Ausgesprochen oder unausgesprochen.
+- zwischen den Zeilen
+- Vielleicht ist das das <span style="color:orange;font-size:100%;">emphatische</span> Ohr
+#### Mögliche Antworten/Reaktionen:
+- "Mensch Papa, machst du dir Sorgen über mich, oder bist du sauer auf mich?"
 # Ich
 - habe mich gerne und <span style="color:DarkTurquoise">ich bin wertvoll</span> ganz egal was <span style="color:gold">Arooj</span> denkt und sagt
 # Schlaf
