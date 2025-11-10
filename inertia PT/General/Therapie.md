@@ -142,9 +142,10 @@ They <span style="font-size:100%;color:gold;">reduce the reliance on the working
 Instead these actions recruit stronger encoding systems that hold on to the task more securely:
 - <span style="font-size:100%;color:red;">Narration</span> uses language.
 - <span style="font-size:100%;color:gold;">Gestures</span> use motor and sensory networks
-- Anchor objects externalize memory into your environment
-- Shutdown rituals turn completion into a habit
-- Paus buffers give your brain time to register closure.
+- <span style="font-size:100%;color:cyan;">Anchor objects</span> externalize memory into your environment
+- <span style="font-size:100%;color:MediumSpringGreen;">Shutdown rituals</span> turn completion into a habit
+- <span style="font-size:100%;color:LawnGreen;">Pause buffers</span> give your brain time to register closure.
+These don't just cover up distraction, they retrain your brain to complete the loop more consistently. 
 
 
 
