@@ -3,7 +3,7 @@
     {
       "id": "w1762526781522",
       "name": "Color",
-      "startTag": "<span style=\"color:red;font-size:100%\">",
+      "startTag": "<span style=\"color:red;font-size:100%;\">",
       "endTag": "</span>"
     },
     {
