@@ -82,6 +82,19 @@ https://youtu.be/kQtV5IycoEo?si=qeQa8RoThrwcRFXN
 - <span style="font-size:100%;color:gold;">stress and overload</span> when stress hormones stay high the brains ability to encode and complete tasks weakens.
 ### Paradox
 
+> [!Paradox]
+> The more routine a task becomes the less conscious attention you give it.
+
+You are not standing there focused on turning off the stove. You're already planing your next move. And that's exactly when the final step can get dropped.
+
+### How do you train your brain to actually finish what you start?
+
+> [!Solution]
+> Give your brain better instructions.
+
+- layering cues and rituals that lock in completion
+
+
 
 ### Bodyscan (was an der Tafel steht)
 
