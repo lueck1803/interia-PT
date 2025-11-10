@@ -42,6 +42,12 @@
 	- [ ] proposal aufräumen 
 	- [ ] Theorie 
 - [ ] Code fertig aufräumen 
+
+# Gesundheit 
+## körperlich 
+
+## mental 
+- [ ] Notizen zu *why you can't finish simple tasks* machen
 # Arbeit
 - [ ] Hybrid Connector ⟹ <span style="color:gold">habe keinen Zugriff</span>
 - [ ] heylogin 
