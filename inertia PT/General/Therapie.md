@@ -2,13 +2,17 @@
 - habe mich gerne und <span style="color:DarkTurquoise">ich bin wertvoll</span> ganz egal was <span style="color:gold">Arooj</span> denkt und sagt
 # Schlaf
 - kann ich <span style="color:red">mittlerweile</span> ganz <u>gut</u>
-# Meditation 
-- ich liebe <span style="color:hotpink">Meditation</span> 
 
 # ADHD
-## why you can't finish simple tasks
+
+# Achtsamkeit und Meditation 
+## Meditation 
+- ich liebe <span style="color:hotpink">Meditation</span> 
+
+## Achtsamkeit
+### why you can't finish simple tasks
 - https://youtu.be/kQtV5IycoEo?si=qeQa8RoThrwcRFXN
-- 
+### Bodyscan (was an der Tafel steht)
 # Beziehung 
 - Arooj ist mir zum Glück mittlerweile echt <span style="color:coral">pups egal</span>
 # Familie 
