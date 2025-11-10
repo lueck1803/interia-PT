@@ -41,7 +41,9 @@ Der <span style="color:red;font-size:100%;">andere möchte</span> einen nicht nu
 - "Wie sollte ich diese Zeit sinnvoll nutzen?"
 - "offenbar engagierst du dich für mich!"
 - "Was ist der Appell?"
-	- "Da"
+	- "Dass ich früher ins Bett gehe?"
+	- ↳ "Ja, aber das muss ja für etwas gut sein?"
+	- ↳"Erzähl mal, was hast du da im Sinn?"
 
 # Ich
 - habe mich gerne und <span style="color:DarkTurquoise">ich bin wertvoll</span> ganz egal was <span style="color:gold">Arooj</span> denkt und sagt
