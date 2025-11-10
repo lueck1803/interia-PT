@@ -1,4 +1,7 @@
 # tägliches
+## Küche
+
+## 
 - [ ] Bart schneiden
 - [x] Spülmaschine ausräumen
 - [ ] Kartons wegräumen 
@@ -26,7 +29,7 @@
 - [x] Erbsen in den Kühlschrank 
 - [ ] grünen Stift zum Schreiben bringen
 - [x] carnivoren Wasser
-- [ ] 
+
 
 # Masterarbeit 
 - [ ] susceptibility 
