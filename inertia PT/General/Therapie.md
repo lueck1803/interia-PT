@@ -76,9 +76,11 @@ https://youtu.be/kQtV5IycoEo?si=qeQa8RoThrwcRFXN
 - <span style="font-size:100%;color:orange;">Without enough</span> <span style="font-size:100%;color:red;">attention</span> from your <span style="font-size:100%;color:DodgerBlue;">prefrontal cortex</span> the sequence get cut short. Your brain logs the start, but the completion never happens.
 	- <span style="font-size:100%;color:red;">↳</span> that creates an open loop. The task is <span style="font-size:100%;color:coral;">hanging in the background incomplete</span>
 	- <span style="font-size:100%;color:red;">↳</span> later on you feel unsettled or second guess yourself, because you never marked it off as done.
-- we are in a task switching culture. Our brains weren't designed for constant interruptions of phones, emails and notifications.
+- We are in a <span style="font-size:100%;color:cyan;">task switching culture</span>. Our brains weren't designed for constant interruptions of phones, emails and notifications.
 	- <span style="font-size:100%;color:red;">↳</span> each switch drains focus from the task at hand
-- there is attention fragmentation, even when nothing urgent is happening we carry <span style="font-size:100%;color:hotpink;">background noise</span> in our heads 
+- there is attention fragmentation, even when nothing urgent is happening we carry <span style="font-size:100%;color:hotpink;">background noise</span> in our heads. The mental load of daily life.
+- <span style="font-size:100%;color:gold;">stress and overload</span> when stress hormones stay high the brains ability to encode and complete tasks weakens.
+### Paradox
 
 
 ### Bodyscan (was an der Tafel steht)
