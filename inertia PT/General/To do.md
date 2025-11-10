@@ -34,7 +34,7 @@
 - [x] Erbsen kochen 
 - [ ] Erbsen in den Kühlschrank 
 - [ ] grünen Stift zum Schreiben bringen
-- [ ] carnivoren Wasser
+- [x] carnivoren Wasser
 - [ ] 
 
 # Masterarbeit 
