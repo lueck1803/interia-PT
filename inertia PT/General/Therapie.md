@@ -31,7 +31,10 @@ Das ist das <span style="color:BlueViolet;font-size:100%;">empfindliche</span> O
 - Eine Kränkung, eine Beleidigung?
 - Finde ich mich wertgeschätzt, geachtet oder niederträchtig behandelt?
 #### Mögliche Antworten/Reaktionen:
-- "Ne Papa, so nicht mit mir! Ich bin zwar noch nicht volljährig, aber du kommst hier rein, ohne anzuklopfen, ohne guten Morgen, gleich mit einem "
+- "Ne Papa, so nicht mit mir! Ich bin zwar noch nicht volljährig, aber du kommst hier rein, ohne anzuklopfen, ohne guten Morgen, gleich mit einem Vorhalt, so nicht mit mir!"
+
+### <span style="color:red;font-size:100%;">Apellohr</span>
+Der <span style="color:red;font-size:100%;">andere möchte</span> einen nicht nur erreichen, sondern auch <span style="color:red;font-size:100%;">bei ***einem*** etwas erreichen</span>.
 
 # Ich
 - habe mich gerne und <span style="color:DarkTurquoise">ich bin wertvoll</span> ganz egal was <span style="color:gold">Arooj</span> denkt und sagt
