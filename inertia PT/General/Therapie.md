@@ -56,7 +56,14 @@ Der <span style="color:red;font-size:100%;">andere möchte</span> einen nicht nu
 - ich liebe <span style="color:hotpink">Meditation</span> 
 ## Achtsamkeit
 ### why you can't finish simple tasks
-- https://youtu.be/kQtV5IycoEo?si=qeQa8RoThrwcRFXN
+https://youtu.be/kQtV5IycoEo?si=qeQa8RoThrwcRFXN
+### reason
+- ADHD or stress and distraction ⟹ the finishing process falls through the cracks
+- the brain never fully encoded the act of finishing
+	- start and finishing a task involve different brain processes 
+	- brain is quite good at initiating activities
+	- maintaining attention alon
+- 
 ### Bodyscan (was an der Tafel steht)
 
 
