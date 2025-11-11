@@ -28,7 +28,9 @@
 		​⟹completr
 	- [ ] remove .obsidian/app.json
 	- [ ] check the git version on mac, how it is installed and update it
-	- [ ] deinstall the old git version in windows
+	- [x] deinstall the old git version in windows 
+	      <span style="color:gold">⟹nicht nötig</span>
+	- [ ] 
 
 ## Wäsche, Kleidung und Stoffe
 - [ ] Bettwäsche wechseln
