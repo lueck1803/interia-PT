@@ -120,5 +120,3 @@ choco list | findstr -i "kee*"
 ```PowerShell
 gc .\myfile.txt | scb
 ```
-
-<span style="color:gold;font-size:100%;">test</span>
