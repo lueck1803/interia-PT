@@ -5,6 +5,9 @@
 - [ ] 
 # Lebensmittel 
 - [ ] Leinsamen 
+- [ ] Toast
+- [ ] Pesto
+- [ ] Thunfisch
 # längerfristig 
 - [ ] Grafikkarte 
 - [ ] CPU 
