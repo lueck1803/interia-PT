@@ -121,5 +121,3 @@ choco list | findstr -i "kee*"
 gc .\myfile.txt | scb
 ```
 
-
-<span style="color:red;font-size:350%;">test</span>
