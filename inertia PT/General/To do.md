@@ -27,6 +27,8 @@
 	- [x] was macht autovervollständigung in der dataprotect knowledge base? 
 		​⟹completr
 	- [ ] remove .obsidian/app.json
+	- [ ] check the git version on mac, how it is installed and update it
+	- [ ] deinstall the old git version in windows
 
 ## Wäsche, Kleidung und Stoffe
 - [ ] Bettwäsche wechseln
