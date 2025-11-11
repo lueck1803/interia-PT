@@ -132,9 +132,3 @@ text12
 ### test11
 text11
 
-# Test
-<span style="color:gold;font-size:100%;">test</span>
-
-Test <span style="font-size:100%;color: hotpink;">grün</span>
-
-<span style="color:cyan;font-size:100%;">test blau</span>
