@@ -27,7 +27,9 @@ Tage prodiktiv gewesen:
 - - Wenn dies für alle Unterordner gemacht werden soll, dann:
   `{git} git rm -r --cached .obsidian/plugins/\\*`
 
-
+# YouTube 
+Wenn man bei der YouTube app ein Video ab einem Zeitpunkt verlinken möchte 
+'youtubelink=MMmSSs'
 # Latex Suite
  {trigger: "Brk", replacement: "\\Braket{$0} $1", options: "mA"},
  
