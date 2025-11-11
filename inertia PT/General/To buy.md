@@ -5,6 +5,10 @@
 - [ ] 
 # Lebensmittel 
 - [ ] Leinsamen 
+- [ ] Toast
+- [ ] Pesto
+- [ ] Thunfisch
+- [ ] Fusilli
 # längerfristig 
 - [ ] Grafikkarte 
 - [ ] CPU 
