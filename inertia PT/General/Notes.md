@@ -26,6 +26,27 @@ Tage prodiktiv gewesen:
   `{git} git rm --cached .obsidian/hotkeys.json`
 - - Wenn dies für alle Unterordner gemacht werden soll, dann:
   `{git} git rm -r --cached .obsidian/plugins/\\*`
+## What is git fetch?[](https://about.gitlab.com/blog/git-pull-vs-git-fetch-whats-the-difference/#what-is-git-fetch)
+
+The git fetch command retrieves the latest commit history from the remote repository, but it does not affect the local working directory. Even after fetching remote changes, they are not reflected in the local branch. It is primarily used when you want to retrieve the latest status from the remote repository and review the changes before they are reflected in the local repository. To apply the retrieved changes to the local branch, you need to manually run git merge or [git rebase](https://docs.gitlab.com/ee/topics/git/git_rebase.html).
+
+## What is git pull?[](https://about.gitlab.com/blog/git-pull-vs-git-fetch-whats-the-difference/#what-is-git-pull)
+
+The git pull command combines `git fetch` and `git merge` (or `git rebase`) into a single command. This allows you to fetch changes from the remote repository and automatically integrate them into the current local branch.
+
+While git fetch retrieves changes from the remote repository without applying them to the local branch, running git pull automatically integrates the changes from the remote repository into the local branch.
+
+Git pull is suitable for quickly reflecting remote changes in the local branch, but it can lead to conflicts, so caution is needed, especially when working with multiple people.
+
+## When to use git fetch[](https://about.gitlab.com/blog/git-pull-vs-git-fetch-whats-the-difference/#when-to-use-git-fetch)
+
+Git fetch is a command used to retrieve the latest information from a remote repository. The retrieved information is not directly reflected in the local branch. Using git pull will reflect all remote branches, including incorrect or problematic ones, in the local branch.
+
+When changes are made simultaneously on both remote and local branches, or when there are new users on the team, it is safer to use git fetch to retrieve the remote branch contents first and then perform merge or rebase.
+
+## When to use git pull[](https://about.gitlab.com/blog/git-pull-vs-git-fetch-whats-the-difference/#when-to-use-git-pull)
+
+Git pull is a command that performs more processes compared to git fetch. Git pull can perform both git fetch and additionally execute git merge or git rebase. For this reason, git pull is recommended when you want to quickly reflect changes from the remote repository in the local branch.
 
 # YouTube 
 Wenn man bei der YouTube app ein Video ab einem Zeitpunkt verlinken möchte 
