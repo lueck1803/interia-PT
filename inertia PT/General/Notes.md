@@ -58,7 +58,40 @@ $\Braket{\int \frac{ \partial r }{ \partial t }^{2} \, dx}$
 $\Braket{\frac{x}{y}^{2}\cdot x^{2}}$
 
 # Bash / zsh
-`ls -l *.ps | grep May`
+
+## grep and find
+_The Major difference is **FIND** is for searching files and directories using filters while **GREP** is for searching a pattern inside a file or searching process(es)_
+
+**FIND** is an command for searching file(s) and folder(s) using filters such as size , access time , modification time.  
+The find command lists all of the files within a directory and its sub-directories that match a set of filters.  
+This command is most commonly used to find all of the files that have a certain name.
+
+To find all of the files named theFile.txt in your current directory and all of its sub-directories, enter:
+```Bash
+find . -name theFile.txt -print
+```
+
+To look in your current directory and its sub-directories for all of the files that end in the extension .txt , enter:  
+
+```Bash
+find . -name "*.txt" -print
+```
+
+**GREP** :(Globally search a Regular Expression and Print)
+
+Searches files for a specified string or expression.
+
+Grep searches for lines containing a specified pattern and, by default, writes them to the standard output.
+
+```Bash
+grep myText theFile.txt
+```
+
+Result : Grep will print out each line contain the word _myText_.
+
+`{bash} ls -l *.ps | grep May`
+
+## ls
 
 # PowerShell
 ## find string after a command
