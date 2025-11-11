@@ -76,6 +76,7 @@
 	- [ ] wie ich jemandem meinen "contact" senden kann damit dieser mir Passwörter geben kann
 	- [ ] so bereit stellen damit es auf der Webseite gut aussieht 
 - [ ] standard powershell tutorial + notizen machen
+- [ ] Pentesting Websiteeintrag <span style="color:red;font-size:120%;">Priorität</span>
 # Papierkram
 - [x] Patientenakte abholen/besorgen
 - [ ] wbs legal einheften
