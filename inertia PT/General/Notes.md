@@ -29,7 +29,7 @@ Tage prodiktiv gewesen:
 
 # YouTube 
 Wenn man bei der YouTube app ein Video ab einem Zeitpunkt verlinken möchte 
-'youtubelink=MMmSSs'
+`youtubelink=MMmSSs`
 # Latex Suite
  {trigger: "Brk", replacement: "\\Braket{$0} $1", options: "mA"},
  
