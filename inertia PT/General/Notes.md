@@ -36,4 +36,17 @@ Wenn man bei der YouTube app ein Video ab einem Zeitpunkt verlinken möchte
 $\Braket{\int \frac{ \partial r }{ \partial t }^{2} \, dx}$
 $\Braket{\frac{x}{y}^{2}\cdot x^{2}}$
 
+# PowerShell
+## find string after a command
+```PowerShell
+ COMMAND | Where-object PROPERTY -match "string"
+```
+```PowerShell
+choco list | findstr -i "kee*"
+```
+# copy content of a file on the clipboard
+```PowerShell
+gc .\myfile.txt | scb
+```
+
 
