@@ -131,5 +131,3 @@ text 21
 text12
 ### test11
 text11
-
-<span style="color:orange;font-size:100%;">test</span>
