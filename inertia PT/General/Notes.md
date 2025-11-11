@@ -57,6 +57,9 @@ Wenn man bei der YouTube app ein Video ab einem Zeitpunkt verlinken möchte
 $\Braket{\int \frac{ \partial r }{ \partial t }^{2} \, dx}$
 $\Braket{\frac{x}{y}^{2}\cdot x^{2}}$
 
+# Bash / zsh
+`ls -l *.ps | grep May`
+
 # PowerShell
 ## find string after a command
 ```PowerShell
