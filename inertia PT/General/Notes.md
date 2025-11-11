@@ -27,6 +27,7 @@ Tage prodiktiv gewesen:
   `{git} git rm --cached .obsidian/hotkeys.json`
 - - Wenn dies für alle Unterordner gemacht werden soll, dann:
   `{git} git rm -r --cached .obsidian/plugins/\\*`
+- `{git} git config --global --edit`
 ## What is git fetch?[](https://about.gitlab.com/blog/git-pull-vs-git-fetch-whats-the-difference/#what-is-git-fetch)
 
 The git fetch command retrieves the latest commit history from the remote repository, but it does not affect the local working directory. Even after fetching remote changes, they are not reflected in the local branch. It is primarily used when you want to retrieve the latest status from the remote repository and review the changes before they are reflected in the local repository. To apply the retrieved changes to the local branch, you need to manually run git merge or [git rebase](https://docs.gitlab.com/ee/topics/git/git_rebase.html).
