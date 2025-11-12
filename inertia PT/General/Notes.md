@@ -52,8 +52,7 @@ Git pull is a command that performs more processes compared to git fetch. Git pu
 
 # YouTube 
 Wenn man bei der YouTube app ein Video ab einem Zeitpunkt verlinken möchte 
-`youtubelinkt`+`?t=MMmSSs`⟹`youtubelink`+`?t=17m18s` ⟹https://youtu.be/Yz9Bj9kEtKc?si=umUGQ2rElxZL_YgD 
-https://youtu.be/Yz9Bj9kEtKc?t=17m18s
+`youtubelinkt`+`?t=MMmSSs`⟹`youtubelink`+`?t=17m18s` ⟹ https://youtu.be/Yz9Bj9kEtKc?si=umUGQ2rElxZL_YgD?t=17m18s
 Mann muss die Zeit wohl in Sekunden umrechnen 🤷 und ohne Angabe der Zeiteinheit.
 `youtubelinkt`+`?t=Sekunden`
 17m 18s ⟹ 17 \* 60 + 18 = 1038
@@ -63,6 +62,7 @@ Und man muss den ganzen Murks bis zum ersten Fragezeichen entfernen:
 https://youtu.be/Yz9Bj9kEtKc?si=umUGQ2rElxZL_YgD
 dh. `si=umUGQ2rElxZL_YgD` 
 Ne geht auch mit dem `?t=MMmSSs` Format. Das Problem ist der Murks hinter dem ersten Fragezeichen.
+https://youtu.be/Yz9Bj9kEtKc?t=17m18s
 
 # Latex Suite
  {trigger: "Brk", replacement: "\\Braket{$0} $1", options: "mA"},
