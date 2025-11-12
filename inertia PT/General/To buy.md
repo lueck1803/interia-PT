@@ -9,6 +9,7 @@
 - [ ] Pesto
 - [ ] Thunfisch
 - [ ] Fusilli
+- [ ] nuss mix
 # längerfristig 
 - [ ] Grafikkarte 
 - [ ] CPU 
