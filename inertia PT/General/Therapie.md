@@ -192,5 +192,6 @@ These don't just cover up distraction, they retrain your brain to complete the l
 - <span style="color:orange">Zeitblindheit</span> 
 - muss Gedanken sofort notieren aus Angst/dem Wissen das sofort wieder zu vergessen 
 - mehrfach checken ob ich auch wirklich alles dabei habe
+- ich fange einfach Tätigkeiten an da sie mir ins Auge fallen, obwohl ich die letzte noch nicht ansatzweise abgeschlossen habe. <br> ⟹das führt dazu dass ich mehrere Tätigkeiten sn
 
 
