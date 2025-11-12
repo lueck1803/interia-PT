@@ -53,6 +53,7 @@ Git pull is a command that performs more processes compared to git fetch. Git pu
 # YouTube 
 Wenn man bei der YouTube app ein Video ab einem Zeitpunkt verlinken möchte 
 `youtubelink=MMmSSs`
+Mann muss die Zeit wohl in Sekunden umrechnen 
 # Latex Suite
  {trigger: "Brk", replacement: "\\Braket{$0} $1", options: "mA"},
  
