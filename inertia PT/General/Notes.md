@@ -132,3 +132,8 @@ choco list | findstr -i "kee*"
 gc .\myfile.txt | scb
 ```
 
+# PW manager
+Wechsel von heylogin zu keypass als Standard autofill
+
+> [!Navigate]
+> Keepass ⟹three dots ⟹settings⟹app settings ⟹password entry access ⟹autofill service ⟹autofill service enable
