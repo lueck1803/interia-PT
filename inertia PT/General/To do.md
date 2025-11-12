@@ -81,6 +81,9 @@
 	- [ ] so bereit stellen damit es auf der Webseite gut aussieht 
 - [ ] standard powershell tutorial + notizen machen
 - [ ] Pentesting Websiteeintrag <span style="color:red;font-size:120%;">Priorität</span>
+- [ ] demo tenant einrichten 
+- [ ] Outlook task planner zeug eintragen was mir Mischa aufgetragen und nicht selbst schon eingetragen hat 
+- [ ] 
 # Papierkram
 - [x] Patientenakte abholen/besorgen
 - [ ] wbs legal einheften
