@@ -52,10 +52,11 @@ Git pull is a command that performs more processes compared to git fetch. Git pu
 
 # YouTube 
 Wenn man bei der YouTube app ein Video ab einem Zeitpunkt verlinken möchte 
-`youtubelink=MMmSSs`⟹`youtubelink=17m18s` ⟹ https://youtu.be/Yz9Bj9kEtKc?si=umUGQ2rElxZL_YgD=17m18s
+`youtubelinkt`+`t=MMmSSs`⟹`youtubelink`+`t=17m18s` ⟹ https://youtu.be/Yz9Bj9kEtKc?si=umUGQ2rElxZL_YgD=17m18s
 Mann muss die Zeit wohl in Sekunden umrechnen 🤷 und ohne Angabe der Zeiteinheit.
-17m 18s ⟹ 17 \* 60 =
-https://youtu.be/Yz9Bj9kEtKc?si=umUGQ2rElxZL_YgD=17m18s
+17m 18s ⟹ 17 \* 60 + 18 = 1038
+https://youtu.be/Yz9Bj9kEtKc?t=
+
 # Latex Suite
  {trigger: "Brk", replacement: "\\Braket{$0} $1", options: "mA"},
  
