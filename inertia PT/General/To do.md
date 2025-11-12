@@ -68,7 +68,7 @@
 - [ ] Code fertig aufräumen 
 
 # Gesundheit
-- [ ] beim nächsten Arzt Besuch 
+- [ ] beim nächsten Arzt Besuch bei Herrn lojko die Patienten akte wieder mitnehmen 
 ## körperlich
 
 ## mental
