@@ -58,6 +58,8 @@ Mann muss die Zeit wohl in Sekunden umrechnen 🤷 und ohne Angabe der Zeiteinhe
 17m 18s ⟹ 17 \* 60 + 18 = 1038
 `youtubelinkt`+`?t=1038`
 https://youtu.be/Yz9Bj9kEtKc?t=1038
+Und man muss den ganzen Murks bis zum ersten Fragezeichen entfernen:
+https://youtu.be/Yz9Bj9kEtKc?si=umUGQ2rElxZL_YgD
 
 # Latex Suite
  {trigger: "Brk", replacement: "\\Braket{$0} $1", options: "mA"},
