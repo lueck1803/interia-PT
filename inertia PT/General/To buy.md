@@ -10,6 +10,8 @@
 - [ ] Thunfisch
 - [ ] Fusilli
 - [ ] nuss mix
+- [ ] hummus 
+- [ ] 
 # längerfristig 
 - [ ] Grafikkarte 
 - [ ] CPU 
