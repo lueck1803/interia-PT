@@ -82,7 +82,8 @@
 	- [ ] so bereit stellen damit es auf der Webseite gut aussieht 
 - [ ] standard powershell tutorial + notizen machen
 - [ ] Pentesting Websiteeintrag <span style="color:red;font-size:120%;">Priorität</span>
-- [ ] demo tenant einrichten 
+- [x] demo tenant einrichten 
+	- [x] pw in heylogin eintragen 
 - [ ] Outlook task planner zeug eintragen was mir Mischa aufgetragen und nicht selbst schon eingetragen hat 
 - [ ] 
 # Papierkram
