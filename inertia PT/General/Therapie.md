@@ -193,6 +193,6 @@ These don't just cover up distraction, they retrain your brain to complete the l
 - muss Gedanken sofort notieren aus Angst/dem Wissen das sofort wieder zu vergessen 
 - mehrfach checken ob ich auch wirklich alles dabei habe
 - ich fange einfach Tätigkeiten an da sie mir ins Auge fallen, obwohl ich die letzte noch nicht ansatzweise abgeschlossen habe. <br> ⟹das führte dazu dass ich mehrere Tätigkeiten angefangen aber nicht beendet habe und dann vor einem Berg an unerledigten Sachen stand und vom Chaos in meinem Kopf überfordert war<br> ⟹depressiv und Energie los
-	- Beispiel: heute morgen komme ich aus der Dusche und fange fast an die Spülmaschine auszuräumen und die Nudeln in den Kühlschrank zu packen obwohl ich noch nicht angezogen war.⟹ habe ich dann mit nem Schmunzeln registriert und 
+	- Beispiel: heute morgen komme ich aus der Dusche und fange fast an die Spülmaschine auszuräumen und die Nudeln in den Kühlschrank zu packen obwohl ich noch nicht angezogen war.⟹ habe ich dann mit nem Schmunzeln registriert und mich erstmal angezogen 
 
 
