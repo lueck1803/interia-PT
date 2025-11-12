@@ -106,6 +106,7 @@
 	- [ ] Schaufel 
 	- [ ] mini outdoor Gewächshaus 
 - [ ] dusche dampfen
+- [ ] Uhr reparieren 
 
 # was schönes
 ## Malen und Basteln
