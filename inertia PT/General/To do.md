@@ -55,6 +55,7 @@
 - [x] git (richtige ssh keys) und Obsidian mit git am unirechner einrichten  
 - [x] grünen Stift zum Schreiben bringen
 - [x] carnivoren Wasser
+- [ ] stoffhandschuh flicken 
 
 
 # Masterarbeit
