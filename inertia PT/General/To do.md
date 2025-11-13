@@ -56,6 +56,7 @@
 - [x] grünen Stift zum Schreiben bringen
 - [x] carnivoren Wasser
 - [ ] stoffhandschuh flicken 
+- [ ] sparschäler kleben
 
 
 # Masterarbeit
