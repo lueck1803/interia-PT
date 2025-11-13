@@ -1,7 +1,7 @@
 # tägliches
 ## Küche
 - Arbeitsplatte
-	- [ ] saugen
+	- [x] saugen
 	- [ ] wischen 
 - Kartoffeln
 	- [ ] waschen
@@ -22,14 +22,14 @@
 - [ ] Toilette putzen
 ## technisches
 - Obsidian 
-	- [ ] text wrapper size in shortcut einbauen 
+	- [x] text wrapper size in shortcut einbauen 
 		-  <span style="color:red;font-size:120%">test</span>
 		- <span style="color:green;font-size:130%;">test</span>
 	- [x] quiet outline drag heading testen
 	- [x] was macht autovervollständigung in der dataprotect knowledge base? 
 		​⟹completr
 	- [ ] remove .obsidian/app.json
-	- [ ] check the git version on mac, how it is installed and update it
+	- [x] check the git version on mac, how it is installed and update it
 	- [x] deinstall the old git version in windows 
 	      <span style="color:gold">⟹nicht nötig</span>
 	- [ ] 
@@ -89,7 +89,7 @@
 - [ ] Pentesting Websiteeintrag <span style="color:red;font-size:120%;">Priorität</span>
 - [x] demo tenant einrichten 
 	- [x] pw in heylogin eintragen 
-- [ ] Outlook task planner zeug eintragen was mir Mischa aufgetragen und nicht selbst schon eingetragen hat 
+- [x] Outlook task planner zeug eintragen was mir Mischa aufgetragen und nicht selbst schon eingetragen hat 
 - [ ] 
 # Papierkram
 - [x] Patientenakte abholen/besorgen
@@ -107,7 +107,9 @@
 - [ ] neuen Drucker aufbauen 
 
 # Ahl
-- [ ] Maronen in den 
+- [ ] Maronen in den Wald setzen
+- [ ] Holz holen
+- [ ] Papa zeigen wie er gerade und ungerade Seiten eines scans merged
 # wenn ich lust und zeit habe
 - [ ] Schreibtischauflage
 - [ ] Akustikgitarre Saiten wechseln
