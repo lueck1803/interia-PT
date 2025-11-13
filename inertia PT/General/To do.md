@@ -15,6 +15,8 @@
 	- [x] Klarspüler 
 - [x] Erbsen kochen 
 - [x] Erbsen in den Kühlschrank
+- [ ] Medikament bestellen 
+- [ ] Medikament abholen 
 ## Bad
 - [ ] Bart schneiden
 - [ ] Toilette putzen
@@ -33,16 +35,19 @@
 	- [ ] 
 
 ## Wäsche, Kleidung und Stoffe
-- [ ] Bettwäsche wechseln
+- [x] Bettwäsche wechseln
+	- [x] Kopfkissen und Bettdecke 
+	- [ ] Spannbettlaken 
 - [x] neuen Schlafanzug 
 - [ ] Avocado 🥑 essen
 - [ ] auberginen + tofu
 ## sonstiges
 - [ ] Kartons wegräumen 
-- [ ] wann ist der Vortrag im hessischen Landesmuseum 
+- [x] wann ist der Vortrag im hessischen Landesmuseum 
+	- war ein toller Vortrag und ich habe Laura kennengelernt 
 - [x] Konto checken 
 	- [ ] <span style="color:red">⟹noch kein Geld von Oktober auf dem Konto</span>
-- [ ] staubsaugen 
+- [x] staubsaugen 
 - [ ] restliche Paprika ernten 
 - [x] git am pc gescheit einrichten und Accounts trennen 
 - [x] git in obsidian am Handy einrichten ==hat hoffentlich geklappt wir werden es sehen==
@@ -90,12 +95,19 @@
 - [x] Patientenakte abholen/besorgen
 - [ ] wbs legal einheften
 - [ ] Bauverein einheften 
-- [ ] AOK verdienst melden 
+- AOK verdienst melden 
+	- haben sich gemeldet ich sollte die Gehaltsabrechnungen September und Oktober einreichen 
+	- [x] Robert schreiben 
+	- [ ] BAT schreiben?
+	- [ ] Gehaltsabrechnungen an AOK weiterleiten 
 - [ ] Rundfunkbeitrag 
-- [ ] Patientenakte anschauen ⟹ wie viele Seiten sind das? Doppelseitig? Lohnt sich das zur Digitalisierung den Drucker zu kaufen? Alleine wie genervt ich von dem Drucker bin.. und wie viel nervige Zeit es kostet Sachen einzuscannen und dann ist das nicht gerade und schön. Auch das Scannen an den pc ist ne Katastrophe mit dem hp
+- [x] Patientenakte anschauen ⟹ wie viele Seiten sind das? Doppelseitig? Lohnt sich das zur Digitalisierung den Drucker zu kaufen? Alleine wie genervt ich von dem Drucker bin.. und wie viel nervige Zeit es kostet Sachen einzuscannen und dann ist das nicht gerade und schön. Auch das Scannen an den pc ist ne Katastrophe mit dem hp
 - [ ] Drucker in ebay Kleinanzeigen stellen 
 - [ ] alten Drucker abbauen 
 - [ ] neuen Drucker aufbauen 
+
+# Ahl
+- [ ] Maronen in den 
 # wenn ich lust und zeit habe
 - [ ] Schreibtischauflage
 - [ ] Akustikgitarre Saiten wechseln
