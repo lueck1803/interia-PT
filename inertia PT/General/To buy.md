@@ -6,12 +6,13 @@
 # Lebensmittel 
 - [ ] Leinsamen 
 - [ ] Toast
-- [ ] Pesto
-- [ ] Thunfisch
-- [ ] Fusilli
-- [ ] nuss mix
+- [x] Pesto
+- [x] Thunfisch
+- [x] Fusilli
+- [x] nuss mix
 - [ ] hummus 
-- [ ] 
+- [x] pirnen
+- [x] Maronen 
 # längerfristig 
 - [ ] Grafikkarte 
 - [ ] CPU 
