@@ -133,6 +133,9 @@
 ## Malen und Basteln
 - [ ] Monblume weiter malen
 - [ ] Becorns basteln
+## Pflanzen 
+- [ ] kiwi aussäen 
+- [ ] maracuja aussäen 
 ## Musik
 - [ ] soon departed auf +70% spielen 
 - [ ] mir die neuen Chor Stücke anschauen 
