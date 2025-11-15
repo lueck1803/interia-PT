@@ -5,7 +5,7 @@
 - [ ] 
 # Lebensmittel 
 - [ ] Leinsamen 
-- [ ] Toast
+- [x] Toast
 - [x] Pesto
 - [x] Thunfisch
 - [x] Fusilli
