@@ -208,4 +208,13 @@ Ich habe die Gewissheit dass ich einen guten Kompass habe, richtig bin, etwas ka
 
 Ich finde schon Orte wo ich hingehöre.
 
-Im realistischsten Fall gehts  genauso wie mir 🤷‍♂️
+Im realistischsten und unvoreingenommensten Fall gehts Arooj genauso wie mir 🤷‍♂️.
+
+Sie ist mir ja sehr sehr ähnlich.
+
+Aber ich habe häufig genug versucht Brücken zu bauen. Irgendwann sind die Steine auch mal aufgebraucht.
+Das schlimmste dabei war ja, dass meine Gutmütig- und Herzigkeit von ihr noch als etwas schlechtes, niederträchtiges und böses ausgelegt wurde. Das hat mich am meisten verletzt.
+Ich weiß, dass diese Zuschreibungen nie für mich gegolten haben. Ich habe da anderen zu viel Macht und Deutungshoheit über mich gegeben.
+Das ist aber jetzt vorbei.
+
+
