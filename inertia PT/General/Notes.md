@@ -217,4 +217,4 @@ Das schlimmste dabei war ja, dass meine Gutmütig- und Herzigkeit von ihr noch a
 Ich weiß, dass diese Zuschreibungen nie für mich gegolten haben. Ich habe da anderen zu viel Macht und Deutungshoheit über mich gegeben.
 Das ist aber jetzt vorbei.
 
-
+ich versuche mich durch Meditation innerlich mit Wärme und Geborgenheit zu füllen und 
