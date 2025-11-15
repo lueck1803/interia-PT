@@ -137,3 +137,47 @@ Wechsel von heylogin zu keypass als Standard autofill
 
 > [!Navigate]
 > Keepass ⟹three dots ⟹settings⟹app settings ⟹password entry access ⟹autofill service ⟹autofill service enable
+
+# Nachricht an Maria 
+Meditation ist diese Woche eher hinten runter gefallen.
+Ich hab für meine Verhältnisse sehr viel gearbeitet.
+
+Und ja gerade da hätte es mir gut getan.
+
+Ich merke auch wie sehr es mir fehlt.
+Ich glaube Montag habe ich meditiert.
+
+Ich war dafür Mittwoch morgens laufen. Das ist ein wenig wie Meditation für mich. 
+
+Irgendwie war so viel los in meinem Kopf. 
+
+Gerade da wäre es gut gewesen.🤷‍♂️
+
+Ich war dann auch etwas krank aber zum Glück nicht wirklich 
+
+Da ich das gut mit schlaf und Achtsamkeit gemanagt habe. 
+
+Ich war halt so voller Tatendrang.
+Da war es
+
+
+....
+
+Da waren die letzten zwei Wochen ein paar Entscheidungen und momente da hab ich Energie für aufwenden müssen, um klar zu bleiben und mich zu positionieren.
+
+Und um nicht wieder in das alte Grübeln zu verfallen 
+
+Das war genug kognitive Arbeit, da hatte ich dann leider nicht mehr die muse jeden Tag zu meditieren.
+
+Auch wenn es mir wohl gerade dabei geholfen hätte. 
+
+Aber ob bleibe da standhsft und dabei. 
+
+Das Laufen ist auch eine Form der Meditation und Achtsamkeit.
+
+Ich mache schon so vieles besser und anders.
+
+Das zu reflektieren und zu verarbeiten..
+Da fiel es mir schwer meinen Geist zu leeren...
+
+Gerade wenn alte Gedankengänge und Muster wieder hoch kommen
