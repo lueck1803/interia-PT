@@ -162,7 +162,14 @@ Ich war halt so voller Tatendrang.
 Und hab da in meinem Job auch Verantwortung übernommen. Mittwoch war ich dann noch bei nem Vortrag zu Abwehrmechanismen von Pflanzen, das war sehr interessant.
 Die Frau hat dabei auch das Schöllkraut in ihrer Forschung erwähnt. Das hat mich sehr gefreut, da Otmar das hier in Ahl ja eingeführt hat, um es auf Wunden zu tun und gegen Warzen.
 Zumindest die Antimikrobielle Wirkung und die Verhinderung von Biofilmbildung haben die nachgewiesen.
-Ich habe auch vie
+Ich habe auch Lob von meinem Chef bekommen.
+Nachdem Vortrag habe ich mit einer noch über 2h vor dem hessischen Landesmuseum in der Kälte über alles Mögliche geredet... 
+Das war im Endeffekt auch viel zu verarbeiten.
+
+Es geht so viel durch meinen Kopf und Körper. Letzte Woche hatte sich auch spontan ergeben, dass mein Psychiater nicht mehr da ist/aufhört und da musste ich mir einen neuen suchen... hatte ganz andere Sachen zu tun...
+Das habe ich letzte Woche zum Glück hinbekommen, halt in Offenbach. Dafür bin ich letzte woche zwei mal nach offenbach gefahren, musste meine Patientenakte und alles besorgen.
+Dabei ist mir auch wieder sehr viel durch den kopf und Körper gegangen, hatte das Gefühl ich müsste mich wieder erklären und rechtfertigen, ob ich wirklich ADHS habe.
+Damit hatte ich viel, das 
 
 
 ....
