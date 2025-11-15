@@ -200,4 +200,12 @@ Jetzt waren da heute wieder Gedanken bezüglich Arooj...
 
 Sehr viel Einsamkeit. 
 Die Sorge wie der nächste Monat wird. 
-Wieder nich
+Wieder nicht ganz zu wissen wo ich hingehöre. 🤷
+
+Ich habe mich aber entschieden, dass ich mein Feuer in mir schüre, mit mir und in mir etwas wachsen lasse, was mich warm hält und antreibt.
+Egal ob ich im Endeffekt alleine bin. 
+Ich habe die Gewissheit dass ich einen guten Kompass habe, richtig bin, etwas kann, gewisse Dinge gerne mache und Lust habe die Dinge richtig und gut zu machen.
+
+Ich finde schon Orte wo ich hingehöre.
+
+Im realistischsten Fall gehts  genauso wie mir 🤷‍♂️
