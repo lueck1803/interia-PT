@@ -169,12 +169,10 @@ Das war im Endeffekt auch viel zu verarbeiten.
 Es geht so viel durch meinen Kopf und Körper. Letzte Woche hatte sich auch spontan ergeben, dass mein Psychiater nicht mehr da ist/aufhört und da musste ich mir einen neuen suchen... hatte ganz andere Sachen zu tun...
 Das habe ich letzte Woche zum Glück hinbekommen, halt in Offenbach. Dafür bin ich letzte woche zwei mal nach offenbach gefahren, musste meine Patientenakte und alles besorgen.
 Dabei ist mir auch wieder sehr viel durch den kopf und Körper gegangen, hatte das Gefühl ich müsste mich wieder erklären und rechtfertigen, ob ich wirklich ADHS habe.
-Damit hatte ich viel, das 
+Damit hatte ich viel, was ich zu verarbeiten und zu recht zu rücken hatte, dass es mich nicht wieder aus der Bahn wirft.
+Das habe ich aber recht gut gemeistert. Diesen Mittwoch musste ich dann nochmal nach Offenbach, um meine Patientenakte abzugeben und entgültig mein Medikament zu bekommen.
 
-
-....
-
-Da waren die letzten zwei Wochen ein paar Entscheidungen und momente da hab ich Energie für aufwenden müssen, um klar zu bleiben und mich zu positionieren.
+Da waren die letzten zwei Wochen also paar Entscheidungen und momente da hab ich Energie für aufwenden müssen, um klar zu bleiben und mich zu positionieren.
 
 Und um nicht wieder in das alte Grübeln zu verfallen 
 
@@ -182,7 +180,7 @@ Das war genug kognitive Arbeit, da hatte ich dann leider nicht mehr die muse jed
 
 Auch wenn es mir wohl gerade dabei geholfen hätte. 
 
-Aber ob bleibe da standhsft und dabei. 
+Aber ich bleibe da standhaft und dabei. 
 
 Das Laufen ist auch eine Form der Meditation und Achtsamkeit.
 
@@ -191,4 +189,8 @@ Ich mache schon so vieles besser und anders.
 Das zu reflektieren und zu verarbeiten..
 Da fiel es mir schwer meinen Geist zu leeren...
 
-Gerade wenn alte Gedankengänge und Muster wieder hoch kommen
+Gerade wenn alte Gedankengänge und Muster wieder hoch kommen.
+
+Jetzt waren da heute wieder Gedanken bezüglich Arooj...
+
+Viel und sehr viel Einsa$eit$
