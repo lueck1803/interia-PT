@@ -158,12 +158,21 @@ Ich war dann auch etwas krank aber zum Glück nicht wirklich
 Da ich das gut mit schlaf und Achtsamkeit gemanagt habe. 
 
 Ich war halt so voller Tatendrang.
-Da war es
 
+Und hab da in meinem Job auch Verantwortung übernommen. Mittwoch war ich dann noch bei nem Vortrag zu Abwehrmechanismen von Pflanzen, das war sehr interessant.
+Die Frau hat dabei auch das Schöllkraut in ihrer Forschung erwähnt. Das hat mich sehr gefreut, da Otmar das hier in Ahl ja eingeführt hat, um es auf Wunden zu tun und gegen Warzen.
+Zumindest die Antimikrobielle Wirkung und die Verhinderung von Biofilmbildung haben die nachgewiesen.
+Ich habe auch Lob von meinem Chef bekommen.
+Nachdem Vortrag habe ich mit einer noch über 2h vor dem hessischen Landesmuseum in der Kälte über alles Mögliche geredet... 
+Das war im Endeffekt auch viel zu verarbeiten.
 
-....
+Es geht so viel durch meinen Kopf und Körper. Letzte Woche hatte sich auch spontan ergeben, dass mein Psychiater nicht mehr da ist/aufhört und da musste ich mir einen neuen suchen... hatte ganz andere Sachen zu tun...
+Das habe ich letzte Woche zum Glück hinbekommen, halt in Offenbach. Dafür bin ich letzte woche zwei mal nach offenbach gefahren, musste meine Patientenakte und alles besorgen.
+Dabei ist mir auch wieder sehr viel durch den kopf und Körper gegangen, hatte das Gefühl ich müsste mich wieder erklären und rechtfertigen, ob ich wirklich ADHS habe.
+Damit hatte ich viel, was ich zu verarbeiten und zu recht zu rücken hatte, dass es mich nicht wieder aus der Bahn wirft.
+Das habe ich aber recht gut gemeistert. Diesen Mittwoch musste ich dann nochmal nach Offenbach, um meine Patientenakte abzugeben und entgültig mein Medikament zu bekommen.
 
-Da waren die letzten zwei Wochen ein paar Entscheidungen und momente da hab ich Energie für aufwenden müssen, um klar zu bleiben und mich zu positionieren.
+Da waren die letzten zwei Wochen also paar Entscheidungen und momente da hab ich Energie für aufwenden müssen, um klar zu bleiben und mich zu positionieren.
 
 Und um nicht wieder in das alte Grübeln zu verfallen 
 
@@ -171,7 +180,7 @@ Das war genug kognitive Arbeit, da hatte ich dann leider nicht mehr die muse jed
 
 Auch wenn es mir wohl gerade dabei geholfen hätte. 
 
-Aber ob bleibe da standhsft und dabei. 
+Aber ich bleibe da standhaft und dabei. 
 
 Das Laufen ist auch eine Form der Meditation und Achtsamkeit.
 
@@ -180,4 +189,39 @@ Ich mache schon so vieles besser und anders.
 Das zu reflektieren und zu verarbeiten..
 Da fiel es mir schwer meinen Geist zu leeren...
 
-Gerade wenn alte Gedankengänge und Muster wieder hoch kommen
+Gerade wenn alte Gedankengänge und Muster wieder hoch kommen.
+
+Ich habe dem Papa den Scanner an seinem Drucker eingerichtet, damit der unter Linux läuft, was ich ihm auf seinem Laptop installiert habe. Das habe ich ihm noch gezeigt. 
+Das freut mich, wenn es klappt und ihm das Freude macht.
+
+Es ist auch schön, wenn meine Eltern und ich uns jetzt endgültig einig sind bzgl meiner schwester und ich nicht mehr die Sorge haben muss, dass es von einem auf den anderen Tag doch wieder kippt.
+
+Jetzt waren da heute wieder Gedanken bezüglich Arooj...
+
+Sehr viel Einsamkeit. 
+Die Sorge wie der nächste Monat wird. 
+Wieder nicht ganz zu wissen wo ich hingehöre. 🤷
+
+Ich habe mich aber entschieden, dass ich mein Feuer in mir schüre, mit mir und in mir etwas wachsen lasse, was mich warm hält und antreibt.
+Egal ob ich im Endeffekt alleine bin. 
+Ich habe die Gewissheit dass ich einen guten Kompass habe, richtig bin, etwas kann, gewisse Dinge gerne mache und Lust habe die Dinge richtig und gut zu machen.
+
+Ich finde schon Orte wo ich hingehöre.
+
+Im realistischsten und unvoreingenommensten Fall gehts Arooj genauso wie mir 🤷‍♂️.
+
+Sie ist mir ja sehr sehr ähnlich.
+
+Aber ich habe häufig genug versucht Brücken zu bauen. Irgendwann sind die Steine auch mal aufgebraucht.
+Das schlimmste dabei war ja, dass meine Gutmütig- und Herzigkeit von ihr noch als etwas schlechtes, niederträchtiges und böses ausgelegt wurde. Das hat mich am meisten verletzt.
+Ich weiß, dass diese Zuschreibungen nie für mich gegolten haben. Ich habe da anderen zu viel Macht und Deutungshoheit über mich gegeben.
+Das ist aber jetzt vorbei.
+
+ich versuche mich durch Meditation innerlich mit Wärme und Geborgenheit zu füllen, um das endgültig hinter mir zu lassen.
+
+ich weiß nicht was in Arooj vorgeht und ich kann es nicht herausfinden. 
+An mir liegt es nicht, dass sie diese eigenartigen Unwahrheiten über mich in ihrem Kopf hat.
+
+Es sind nicht meine.
+
+LG Lukas
