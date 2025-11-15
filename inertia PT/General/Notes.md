@@ -191,6 +191,13 @@ Da fiel es mir schwer meinen Geist zu leeren...
 
 Gerade wenn alte Gedankengänge und Muster wieder hoch kommen.
 
+Ich habe dem Papa den Scanner an seinem Drucker eingerichtet, damit der unter Linux läuft, was ich ihm auf seinem Laptop installiert habe. Das habe ich ihm noch gezeigt. 
+Das freut mich, wenn es klappt und ihm das Freude macht.
+
+Es ist auch schön, wenn meine Eltern und ich uns jetzt endgültig einig sind bzgl meiner schwester und ich nicht mehr die Sorge haben muss, dass es von einem auf den anderen Tag doch wieder kippt.
+
 Jetzt waren da heute wieder Gedanken bezüglich Arooj...
 
-Viel und sehr viel Einsa$eit$
+Sehr viel Einsamkeit. 
+Die Sorge wie der nächste Monat wird. 
+Wieder nich
