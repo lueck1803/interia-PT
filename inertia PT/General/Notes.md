@@ -158,7 +158,11 @@ Ich war dann auch etwas krank aber zum Glück nicht wirklich
 Da ich das gut mit schlaf und Achtsamkeit gemanagt habe. 
 
 Ich war halt so voller Tatendrang.
-Da war es
+
+Und hab da in meinem Job auch Verantwortung übernommen. Mittwoch war ich dann noch bei nem Vortrag zu Abwehrmechanismen von Pflanzen, das war sehr interessant.
+Die Frau hat dabei auch das Schöllkraut in ihrer Forschung erwähnt. Das hat mich sehr gefreut, da Otmar das hier in Ahl ja eingeführt hat, um es auf Wunden zu tun und gegen Warzen.
+Zumindest die Antimikrobielle Wirkung und die Verhinderung von Biofilmbildung haben die nachgewiesen.
+Ich habe auch vie
 
 
 ....
