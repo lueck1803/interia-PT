@@ -217,4 +217,7 @@ Das schlimmste dabei war ja, dass meine Gutmütig- und Herzigkeit von ihr noch a
 Ich weiß, dass diese Zuschreibungen nie für mich gegolten haben. Ich habe da anderen zu viel Macht und Deutungshoheit über mich gegeben.
 Das ist aber jetzt vorbei.
 
-ich versuche mich durch Meditation innerlich mit Wärme und Geborgenheit zu füllen und 
+ich versuche mich durch Meditation innerlich mit Wärme und Geborgenheit zu füllen, um das endgültig hinter mir zu lassen.
+
+ich weiß nicht was in Arooj vorgeht und ich kann es nicht herausfinden. 
+An mir liegt es nicht, dass sie diese 
