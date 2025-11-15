@@ -220,4 +220,8 @@ Das ist aber jetzt vorbei.
 ich versuche mich durch Meditation innerlich mit Wärme und Geborgenheit zu füllen, um das endgültig hinter mir zu lassen.
 
 ich weiß nicht was in Arooj vorgeht und ich kann es nicht herausfinden. 
-An mir liegt es nicht, dass sie diese 
+An mir liegt es nicht, dass sie diese eigenartigen Unwahrheiten über mich in ihrem Kopf hat.
+
+Es sind nicht meine.
+
+LG Lukas
