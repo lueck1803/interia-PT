@@ -10,7 +10,7 @@
 - [x] Thunfisch
 - [x] Fusilli
 - [x] nuss mix
-- [ ] hummus 
+- [x] hummus 
 - [x] pirnen
 - [x] Maronen 
 # längerfristig 
