@@ -5,6 +5,7 @@
 - [ ] 
 # Lebensmittel 
 - [ ] Leinsamen 
+- [ ] Gelbflossen Thun in Olivenöl
 - [x] Toast
 - [x] Pesto
 - [x] Thunfisch
