@@ -30,4 +30,12 @@
 	- [ ] vom buttlers
 	- [ ] Depot 
 
+# Nähen
+- [ ] Schneidermatte 
+- [ ] Rollschneider 
+- [ ] singer 3232
+- [ ] tweat für Weste 
+- [ ] Pauspapier
+- [ ] 
+
 
