@@ -100,13 +100,13 @@
 - AOK verdienst melden 
 	- haben sich gemeldet ich sollte die Gehaltsabrechnungen September und Oktober einreichen 
 	- [x] Robert schreiben 
-	- [ ] BAT schreiben?
+	- [x] BAT schreiben?
 	- [ ] Gehaltsabrechnungen an AOK weiterleiten 
 - [ ] Rundfunkbeitrag 
 - [x] Patientenakte anschauen ⟹ wie viele Seiten sind das? Doppelseitig? Lohnt sich das zur Digitalisierung den Drucker zu kaufen? Alleine wie genervt ich von dem Drucker bin.. und wie viel nervige Zeit es kostet Sachen einzuscannen und dann ist das nicht gerade und schön. Auch das Scannen an den pc ist ne Katastrophe mit dem hp
 - [ ] Drucker in ebay Kleinanzeigen stellen 
-- [ ] alten Drucker abbauen 
-- [ ] neuen Drucker aufbauen 
+- [x] alten Drucker abbauen 
+- [x] neuen Drucker aufbauen 
 
 # Ahl
 - [ ] Maronen in den Wald setzen
@@ -128,6 +128,7 @@
 	- [ ] mini outdoor Gewächshaus 
 - [ ] dusche dampfen
 - [ ] Uhr reparieren 
+- [ ] Sauerteig auffrischen 
 
 # was schönes
 ## Malen und Basteln
