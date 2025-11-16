@@ -8,6 +8,7 @@
 - [ ] Gelbflossen Thun in Olivenöl
 - [ ] Kartoffeln 
 - [ ] Zwiebeln 
+- [ ] Test 
 - [x] Toast
 - [x] Pesto
 - [x] Thunfisch
