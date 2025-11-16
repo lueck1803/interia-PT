@@ -4,10 +4,10 @@
 	- [x] saugen
 	- [ ] wischen 
 - Kartoffeln
-	- [ ] waschen
-	- [ ] schälen
-	- [ ] schneiden
-	- [ ] frittieren
+	- [x] waschen
+	- [x] schälen
+	- [x] schneiden
+	- [x] frittieren
 - Spülmaschine
 	- [x] ausräumen
 	- [x] anstellen 
@@ -15,8 +15,10 @@
 	- [x] Klarspüler 
 - [x] Erbsen kochen 
 - [x] Erbsen in den Kühlschrank
-- [ ] Medikament bestellen 
-- [ ] Medikament abholen 
+- [x] Medikament bestellen 
+- [x] Medikament abholen 
+- [ ] Avocado 🥑 essen
+- [ ] auberginen + tofu
 ## Bad
 - [ ] Bart schneiden
 - [ ] Toilette putzen
@@ -37,10 +39,8 @@
 ## Wäsche, Kleidung und Stoffe
 - [x] Bettwäsche wechseln
 	- [x] Kopfkissen und Bettdecke 
-	- [ ] Spannbettlaken 
+	- [x] Spannbettlaken 
 - [x] neuen Schlafanzug 
-- [ ] Avocado 🥑 essen
-- [ ] auberginen + tofu
 ## sonstiges
 - [ ] Kartons wegräumen 
 - [x] wann ist der Vortrag im hessischen Landesmuseum 

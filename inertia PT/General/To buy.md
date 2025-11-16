@@ -18,10 +18,10 @@
 - [ ] CPU 
 - [ ] thunderbolt extension card
 - [ ] 2x32gb Arbeitsspeicher 
-- [ ] Canon Pixma TS9550a + auffülbare Patronen 
+- [x] Canon Pixma TS9550a + auffülbare Patronen 
 - [ ] Akustik Gitarre 
 - [ ] Gesangsmikrofon
-- [ ] Drucker https://www.voelkner.de/checkout/step2.html
+- [x] Drucker https://www.voelkner.de/checkout/step2.html
 	- Gutscheincode: TV9XS6Q3ZF
 - [ ] singer simple model 3232
 
