@@ -139,9 +139,9 @@
 - [ ] maracuja aussäen 
 - [ ] root grow stimulants 
 	- [ ] 350mg tablet aspirin in wasser 
-	- [ ] honig in heißem Wasser verrühren 
-	- [ ] 5 tropfen Apfelessig in auf eine halbe Tasse Wasser
-	- [ ] 
+	- [ ] honig in heißem Wasser verrühren ⟹nur rein dippen
+	- [ ] 5 tropfen Apfelessig in auf eine halbe Tasse Wasser ⟹ nur dippen 
+	- [ ] Bananenschalen (bio) wasser 24h einweichen 
 ## Musik
 - [ ] soon departed auf +70% spielen 
 - [ ] mir die neuen Chor Stücke anschauen 
