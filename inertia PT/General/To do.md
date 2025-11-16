@@ -137,6 +137,11 @@
 ## Pflanzen 
 - [ ] kiwi aussäen 
 - [ ] maracuja aussäen 
+- [ ] root grow stimulants 
+	- [ ] 350mg tablet aspirin in wasser 
+	- [ ] honig in heißem Wasser verrühren 
+	- [ ] 5 tropfen Apfelessig in auf eine halbe Tasse Wasser
+	- [ ] 
 ## Musik
 - [ ] soon departed auf +70% spielen 
 - [ ] mir die neuen Chor Stücke anschauen 
