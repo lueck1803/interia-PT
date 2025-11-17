@@ -7,7 +7,8 @@
 - [x] Zähne putzen
 - [ ] Duschen
 - [ ] Duolingo
-- [ ] Konto
+- [x] Konto
+	- ⟹noch kein Geld bekommen
 - [ ] Spazieren
 - [ ] Aldi
 - [x] Sofa Decken
@@ -19,7 +20,8 @@
 - [ ] Folien
 - [ ] Essen Kochen
 - [ ] Meditation
-- [ ] E-Mail an Arooj entwerfen
+- [x] E-Mail an Arooj entwerfen
+	- ⟹hab ich mit angefangen und ein Google Doc erstellt
 - [ ] Klarspüler clip tauschen 
 # tägliches
 ## Küche
@@ -170,6 +172,11 @@
 ## Musik
 - [ ] soon departed auf +70% spielen 
 - [ ] mir die neuen Chor Stücke anschauen 
+- [ ] awakening:
+	- [ ] Teil bis zur Melodie lernen
+	- [ ] Alles bis dahin auf 60% perfektionieren und dann auf 70% hoch 
+	- [ ] pull off hammer on tabbing solo anschauen <span style="color:red;font-size:100%;">Transition</span> + <span style="color:red;font-size:100%;">Solo A</span>
+	- [ ] melodie solo anfang <span style="color:red;font-size:100%;">Solo B</span>
 ## Lesen und Hören
 - [ ] Universum in einem einzigen Atom 
 ## Filme, Serien und Dokus
