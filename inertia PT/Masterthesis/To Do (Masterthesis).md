@@ -173,7 +173,23 @@ Find the B-spline representation of a 1-D curve.
 	- [ ] create a column $L_{\text{evalbox}}$  
 - [ ] plot $\chi$
 - [ ] determine $\gamma$ 
+- [ ] 
+$L_{yHalf} = sqrt((N\cdot\pi\cdot\sigma^2)/(4*\text{boxRatio}\cdot fillRatio))/2$
+variable 	LxHalf equal ${boxRatio}*${LyHalf}
+variable 	phi equal ${atomNumber}*PI*${sigma}^2/(4*${boxRatio}*(2*${LyHalf})^2)
 
+print 		"Ly_half ${LyHalf}"
+print 		"phi ${phi}"
+
+#====================================================================================
+# Create Simulation Box and Atoms
+#====================================================================================
+units		lj								# dimensionless
+atom_style	hybrid sphere dipole			# spheres with dipole moment/vector
+dimension	2								# dimension of the simulation
+
+# box boundaries xlo,xhi,ylo,yhi,zlo,zhi L_y=sqrt(N Pi sigma²/(20 phi))
+region 	box block -${LxHalf} ${LxHalf} -${LyHalf} ${LyHalf} -0.5 0.5	
 # Simulate
 <span style="font-size:120%;color:green"> Atm there is enough simulation data</span>
 - [ ] 224k
