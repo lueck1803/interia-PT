@@ -225,3 +225,23 @@ An mir liegt es nicht, dass sie diese eigenartigen Unwahrheiten über mich in ih
 Es sind nicht meine.
 
 LG Lukas
+
+# Kontaktaufnahme mit Arooj 
+
+Ich hab auch jetzt endgültig beschlossen irgendwie Kontakt mit Arooj aufzunehmen.
+
+Muss das noch irgendwie planen und mir für eine eventuelle E-Mail einen guten und nicht zu langen Text zu überlegen.
+
+Der auch sehr klar ist.
+
+Für Ideen und Unterstützung bin ich offen
+Ich darf die Kontaktaufnahme aber auch nicht mit zu viel überfrachten
+
+
+- Ich habe ja in Vergangenheit den "Fehler" gemacht zu viel zu erklären und zu viel zu reden. 
+
+- Zu wenig Ruhe im Gespräch gehabt, dem Gespräch die Chance zugegeben zu atmen und ihr die Chance zu geben sich auch mal erklären zu müssen. 
+
+- (Jetzt gebe ich mir wieder zu sehr die Verantwortung, das ist auch Aroojs Art in den Themen zu springen und nicht erstmal eins abzuhaken, in dem man Konsens und Dissens klar macht und dann erst weiter geht... Das habe ich ja versucht...Also den Punkt streichen, dass "ich ... Nicht ... Genug". Ist ganz klar nicht meine alleinige Verantwortung.)
+- So was muss auch knapp ohne Übererklären angesprochen werden.
+- 
