@@ -41,6 +41,7 @@
 	- [x] Kopfkissen und Bettdecke 
 	- [x] Spannbettlaken 
 - [x] neuen Schlafanzug 
+- [ ] Schlafanzughose flicken
 ## sonstiges
 - [ ] Kartons wegräumen 
 - [x] wann ist der Vortrag im hessischen Landesmuseum 
