@@ -74,6 +74,8 @@
 - [ ] evaluate binder for 28k particles with halfstddev and compare the plot with stdDev
 	
 # Box Algo
+## Evaluate 
+- [ ] Save the box size of the evaluated boxes
 
 ## finite-size-scaling_phase-peak-pit-height-tune-algo 
 new branch ⟹ fss_ppphta_ebox-fit-in-pp
