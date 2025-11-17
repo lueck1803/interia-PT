@@ -2,11 +2,24 @@
 - [ ] Spülmaschine
 - [ ] Krafttraining
 - [ ] Staubsaugen
+- [ ] Tastatur wischen
 - [ ] Bart
 - [ ] Zähne putzen
 - [ ] Duschen
+- [ ] Duolingo
 - [ ] Konto
-- [ ] Spazier
+- [ ] Spazieren
+- [ ] Aldi
+- [ ] Sofa Decken
+- [ ] Zeug abheften
+- [ ] Tisch aufräumen
+- [ ] susceptibility
+- [ ] Kartons
+- [ ] Fotos vom alten Drucker
+- [ ] Folien
+- [ ] Essen Kochen
+- [ ] Meditation
+- [ ] E-Mail an Arooj entwerfen
 # tägliches
 ## Küche
 - Arbeitsplatte
