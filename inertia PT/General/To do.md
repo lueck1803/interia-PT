@@ -1,5 +1,5 @@
 - [x] Essen
-- [ ] Spülmaschine
+- [x] Spülmaschine
 - [ ] Krafttraining
 - [ ] Staubsaugen
 - [ ] Tastatur wischen
