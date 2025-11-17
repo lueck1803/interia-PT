@@ -1,3 +1,12 @@
+- [ ] Essen
+- [ ] Spülmaschine
+- [ ] Krafttraining
+- [ ] Staubsaugen
+- [ ] Bart
+- [ ] Zähne putzen
+- [ ] Duschen
+- [ ] Konto
+- [ ] Spazier
 # tägliches
 ## Küche
 - Arbeitsplatte
