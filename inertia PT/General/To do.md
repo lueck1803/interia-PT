@@ -1,4 +1,4 @@
-- [ ] Essen
+- [x] Essen
 - [ ] Spülmaschine
 - [ ] Krafttraining
 - [ ] Staubsaugen
