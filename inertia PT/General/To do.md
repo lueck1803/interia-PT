@@ -1,10 +1,10 @@
 - [x] Essen
 - [x] Spülmaschine
-- [ ] Krafttraining
+- [x] Krafttraining
 - [ ] Staubsaugen
 - [ ] Tastatur wischen
 - [ ] Bart
-- [ ] Zähne putzen
+- [x] Zähne putzen
 - [ ] Duschen
 - [ ] Duolingo
 - [ ] Konto
