@@ -174,23 +174,12 @@ Find the B-spline representation of a 1-D curve.
 - [ ] plot $\chi$
 - [ ] determine $\gamma$ 
 - [ ] 
-$\text{boxRatio}=10$
+$\text{boxRatio}=R=10$
 $\text{fillRatio}=\phi=0.5$
-$L_{yHalf} = \sqrt{\left( \frac{N\cdot\pi\cdot\sigma^2}{(4*\text{boxRatio}\cdot \text{fillRatio})} \right)}/2$
-$L_{xHalf} = \text{boxRatio}\cdot L_{yHalf}$
-$\phi = \frac{N*\pi*\sigma^2}{(4*\text{boxRatio}*(2*{L_{yHalf})^2)$
-
-print 		"Ly_half ${LyHalf}"
-print 		"phi ${phi}"
-
-#====================================================================================
-# Create Simulation Box and Atoms
-#====================================================================================
-units		lj								# dimensionless
-atom_style	hybrid sphere dipole			# spheres with dipole moment/vector
-dimension	2								# dimension of the simulation
-
-# box boundaries xlo,xhi,ylo,yhi,zlo,zhi L_y=sqrt(N Pi sigma²/(20 phi))
+$L_{yHalf} = \sqrt{\left( \frac{N\cdot\pi\cdot\sigma^2}{(4\cdot R \cdot \phi)} \right)}/2$
+$L_{xHalf} = R\cdot L_{yHalf}$
+$\phi = \frac{N \cdot \pi \cdot \sigma^2}{4\cdot R\cdot2\cdot L_{yHalf}^2}$
+### box boundaries xlo,xhi,ylo,yhi,zlo,zhi L_y=sqrt(N Pi sigma²/(20 phi))
 region 	box block -${LxHalf} ${LxHalf} -${LyHalf} ${LyHalf} -0.5 0.5	
 # Simulate
 <span style="font-size:120%;color:green"> Atm there is enough simulation data</span>
