@@ -2,15 +2,15 @@
 - [x] Spülmaschine
 - [x] Krafttraining
 - [ ] Staubsaugen
-- [ ] Tastatur wischen
+- [x] Tastatur wischen
 - [ ] Bart
 - [x] Zähne putzen
 - [ ] Duschen
-- [ ] Duolingo
+- [x] Duolingo
 - [x] Konto
 	- ⟹noch kein Geld bekommen
 - [ ] Spazieren
-- [ ] Aldi
+- [x] Aldi
 - [x] Sofa Decken
 - [ ] Zeug abheften
 - [ ] Tisch aufräumen
