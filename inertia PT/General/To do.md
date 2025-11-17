@@ -20,6 +20,7 @@
 - [ ] Essen Kochen
 - [ ] Meditation
 - [ ] E-Mail an Arooj entwerfen
+- [ ] Klarspüler clip tauschen 
 # tägliches
 ## Küche
 - Arbeitsplatte
@@ -152,6 +153,7 @@
 - [ ] dusche dampfen
 - [ ] Uhr reparieren 
 - [ ] Sauerteig auffrischen 
+- [ ] Klarspüler clip zurecht schneiden/schleifen 
 
 # was schönes
 ## Malen und Basteln

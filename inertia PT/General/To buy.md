@@ -2,7 +2,7 @@
 # non food
 - [x] Silikonbackpinsel 
 - [ ] kleinen Schneebesen 
-- [ ] 
+- [ ] Papierklammern 
 # Lebensmittel 
 - [ ] Leinsamen 
 - [ ] Gelbflossen Thun in Olivenöl
