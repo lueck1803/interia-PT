@@ -174,7 +174,9 @@ Find the B-spline representation of a 1-D curve.
 - [ ] plot $\chi$
 - [ ] determine $\gamma$ 
 - [ ] 
-$L_{yHalf} = sqrt((N\cdot\pi\cdot\sigma^2)/(4*\text{boxRatio}\cdot fillRatio))/2$
+$\text{boxRatio}=10$
+$\text{fillRatio}=\phi=0.5$
+$L_{yHalf} =  \frac{sqrt\left(N\cdot\pi\cdot\sigma^2\right)}{(4*\text{boxRatio}\cdot \text{fillRatio}) /2}$
 variable 	LxHalf equal ${boxRatio}*${LyHalf}
 variable 	phi equal ${atomNumber}*PI*${sigma}^2/(4*${boxRatio}*(2*${LyHalf})^2)
 
