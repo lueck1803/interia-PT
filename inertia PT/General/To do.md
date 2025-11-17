@@ -10,7 +10,7 @@
 - [ ] Konto
 - [ ] Spazieren
 - [ ] Aldi
-- [ ] Sofa Decken
+- [x] Sofa Decken
 - [ ] Zeug abheften
 - [ ] Tisch aufräumen
 - [ ] susceptibility
