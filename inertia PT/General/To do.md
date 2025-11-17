@@ -14,7 +14,7 @@
 - [x] Sofa Decken
 - [ ] Zeug abheften
 - [ ] Tisch aufräumen
-- [ ] susceptibility
+- [x] susceptibility
 - [ ] Kartons
 - [ ] Fotos vom alten Drucker
 - [ ] Folien
