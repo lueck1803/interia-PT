@@ -244,4 +244,52 @@ Ich darf die Kontaktaufnahme aber auch nicht mit zu viel überfrachten
 
 - (Jetzt gebe ich mir wieder zu sehr die Verantwortung, das ist auch Aroojs Art in den Themen zu springen und nicht erstmal eins abzuhaken, in dem man Konsens und Dissens klar macht und dann erst weiter geht... Das habe ich ja versucht...Also den Punkt streichen, dass "ich ... Nicht ... Genug". Ist ganz klar nicht meine alleinige Verantwortung.)
 - So was muss auch knapp ohne Übererklären angesprochen werden.
-- 
+- Sehr lieb danke.
+
+Ob ich "bereit" bin weiß ich nicht 100%.
+
+Aber das wird dann ja nie sein.
+
+Die Kontaktaufnahme wäre ja eh nicht sofort/heute/morgen.
+
+Ich will das ja gut durchdenken.
+
+Und mir Zeit lassen, um bereit zu sein. 
+
+Ich würde gerne daraufhin arbeiten und daran feilen, um eben eine linearität hinzubringen und nicht mehr zu sehr in die Schwankungen/extreme zu rutschen.
+
+Das hilft ja hoffentlich in erster Linie mir, um noch stabiler zu werden. 
+
+Ich möchte gerne Schritt für Schritt bereit werden.
+
+Vielleicht steht am Ende des Prozesses aber auch dass ich doch keinen Kontakt aufnehme.
+
+Ziel wäre Ende diesen/Anfang nächsten Monats.
+
+Vielleicht ist Arooj ja beim Adventskaffeekränzechen des bot. Gartens.
+
+Ich vermute aber langsam dass sie die Veranstaltungen meidet da ich da hingehe🤷‍♂️.
+
+Vielleicht hat sie aber auch extrem viel zu tun. 
+(Was sehr wahrscheinlich ist. Arooj hat den Hang zum Perfektionismus. Das ist ihre Coping strategie. Überorgansieren (gar nicht wertend) und alles tun.) 
+
+Ich gehe auch davon aus dass meine Angst unbegründet ist dass sie jemanden neues hat. 
+
+Ihre Aussagen im Frühjahr "dass sie bald mit dem Dating anfängt und auf der Suche ist".
+War zum einen um mich zu verletzen und um mich wegzustoßen.
+
+Meine Einschätzung ist, dass sie wie ich, nicht so ist.🤷‍♂️
+
+In ihr sehr viel vorgeht und mich auch vermisst und an mich denkt, sonst hätte sie sich nicht so verhalten...
+
+Ich sollte mir dies bezüglich innerlich gewiss sein, dies aber gar nicht nach außen tragen und an sprechen. Das kommt dann eher wie ein Vorwurf rüber bzw. Blockiert es sie.
+
+Aber ja ich weiß nicht was sie wirklich in ihrer Freizeit macht und was ihr Stand ist.🤷‍♂️
+
+Das gilt es herauszufinden.
+
+Ich darf mir meiner selbst und meiner heuristik mit ihr schon gewiss sein. 
+
+Diese Gewissheit wird ein eventuelles Gespräch auch tragen. 
+
+Arooj hat mir ja bevor sie die Sachen geholt hat, ein Gespräch mit jemandem drittes zugesagt
