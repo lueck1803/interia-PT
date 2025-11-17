@@ -293,3 +293,7 @@ Ich darf mir meiner selbst und meiner heuristik mit ihr schon gewiss sein.
 Diese Gewissheit wird ein eventuelles Gespräch auch tragen. 
 
 Arooj hat mir ja bevor sie die Sachen geholt hat, ein Gespräch mit jemandem drittes zugesagt
+
+-  mich nicht erklären, nicht entschuldigen (zumindest zu viel), nicht über die Vergangenheit reden
+	- bei ihr und bei uns sein, über das schöne, gemeinsame, was mich freut (zb ihre Forschung), die Zukunft und was ich gelernt habe/wir beide gelernt haben
+	
