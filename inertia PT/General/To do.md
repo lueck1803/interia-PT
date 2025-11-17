@@ -7,7 +7,8 @@
 - [x] Zähne putzen
 - [ ] Duschen
 - [ ] Duolingo
-- [ ] Konto
+- [x] Konto
+	- ⟹noch kein Geld bekommen
 - [ ] Spazieren
 - [ ] Aldi
 - [x] Sofa Decken
@@ -19,7 +20,8 @@
 - [ ] Folien
 - [ ] Essen Kochen
 - [ ] Meditation
-- [ ] E-Mail an Arooj entwerfen
+- [x] E-Mail an Arooj entwerfen
+	- ⟹hab ich mit angefangen und ein Google Doc erstellt
 - [ ] Klarspüler clip tauschen 
 # tägliches
 ## Küche
