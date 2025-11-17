@@ -170,6 +170,11 @@
 ## Musik
 - [ ] soon departed auf +70% spielen 
 - [ ] mir die neuen Chor Stücke anschauen 
+- [ ] awakening:
+	- [ ] Teil bis zur Melodie lernen
+	- [ ] Alles bis dahin auf 60% perfektionieren und dann auf 70% hoch 
+	- [ ] pull off hammer on tabbing solo anschauen <span style="color:red;font-size:100%;">Transition</span>
+	- [ ] melodie solo anfang
 ## Lesen und Hören
 - [ ] Universum in einem einzigen Atom 
 ## Filme, Serien und Dokus
