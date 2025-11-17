@@ -4,10 +4,11 @@
 - [ ] kleinen Schneebesen 
 - [ ] Papierklammern 
 # Lebensmittel 
-- [ ] Leinsamen 
-- [ ] Gelbflossen Thun in Olivenöl
-- [ ] Kartoffeln 
-- [ ] Zwiebeln 
+- [x] Leinsamen 
+- [x] Gelbflossen Thun in Olivenöl
+- [x] Käse 
+- [x] Kartoffeln 
+- [x] Zwiebeln 
 - [x] Toast
 - [x] Pesto
 - [x] Thunfisch
