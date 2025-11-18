@@ -314,6 +314,11 @@ flowchart TB
 	- if you dont have inertia
 	- They didnt rule out the influence of inertia?
 - mechanical balance of the interface - modeled by the *dynamic stress tensor* $\mathbb{\Sigma}$ 
-- no contradiction to the groups work?
-- where is a parallelization problem?
-- what exactly the identify as the binodal?
+- My questions
+	- no contradiction to the groups work?⟹yes
+	- where is a parallelization problem?
+		- ⟹only for strictly hard spheres 
+		- WCA isn't about strict hard spheres than I understood it correct
+		- what exactly the identify as the binodal?
+			- ⟹ When there are two separated phases
+			- but since you don't have a free energy this is 
