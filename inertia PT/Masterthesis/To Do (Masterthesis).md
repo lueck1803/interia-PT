@@ -302,4 +302,6 @@ flowchart TB
 - competition between the time scale of reorientation and collision
 - overdamped ⟹ no reason for bouncing back
 - underdamped ⟹ the bounce back
-- Reentrance effekt for higher 
+- Reentrance effekt for higher Pe with higher masses 
+  ![[Pasted image 20251118121845.png]] (Hecht2021)
+- Something (Weaks-chanderler potential) is hard to parallelize 
