@@ -137,7 +137,7 @@ Wechsel von heylogin zu keypass als Standard autofill
 
 > [!Navigate]
 > Keepass ⟹three dots ⟹settings⟹app settings ⟹password entry access ⟹autofill service ⟹autofill service enable
-
+|
 # Nachricht an Maria 
 Meditation ist diese Woche eher hinten runter gefallen.
 Ich hab für meine Verhältnisse sehr viel gearbeitet.
@@ -296,4 +296,40 @@ Arooj hat mir ja bevor sie die Sachen geholt hat, ein Gespräch mit jemandem dri
 
 -  mich nicht erklären, nicht entschuldigen (zumindest zu viel), nicht über die Vergangenheit reden
 	- bei ihr und bei uns sein, über das schöne, gemeinsame, was mich freut (zb ihre Forschung), die Zukunft und was ich gelernt habe/wir beide gelernt haben
-	
+# Nachricht an fredin
+Ich kann auch den nächsten Abschnitt, da habe ich aber den Übergang noch nicht wirklich geübt.
+Also nicht so dass ich es auf 70% spielen könnte.
+
+Der Bedarf auch noch etwas Arbeit damit der richtig klingt.
+
+Insbesondere die Position meiner rechten hat damit die gemuteten teile besser klingen.
+Und etwas entspannter in der linken Hand.
+
+Den darauf folgenden Abschnitt kann ich nicht.
+Hab ich mir schon mal angeschaut, hat grundsätzliche Ähnlichkeiten zum Intro.
+Aber ist rhythmisch etwas anders.
+Ich hab's schlicht noch nicht geübt.
+Hatte ja eh immer Probleme mir die Reihenfolgen und Übergänge zu merken.
+Das war immer mein kryptonite.
+
+Dann folgt ne kurze Melodie die Ist einfach und die kann ich auch.
+
+Es wiederholt sich dann alles mehrfach.
+
+Im Prinzip kann ich daher schon so 60% vom Stück.
+Aber halt nicht ansatzweise auf voller Geschwindigkeit.
+So auf 80%+ kann ich teile auch komplett sauber spielen.
+
+Da folgt dann noch ein wildes zweistimmiges Gitarren Extremum.
+In mehreren Stufen 😅
+Die Technik dafür kann ich. Das hört sich dadurch schneller und schwerer an als es ist. 
+Es ist halt aber auch trotzdem extrem schnell und auch nicht wenig.
+Das schere ist das in langsam zu üben bis man es auswendig kann. 
+Denn in langsam hört es sich halt nicht so an wie im Stück.
+
+Das ist im allgemeinen das Problem an dem Stück 🫣.
+
+Der tapping teil vor dem melodischen solo, sind halt 32tl bei 155 bpm.
+Das repetitive ist anstrengend, deshalb hab ich generell nicht so Lust tapping zu üben.
+Wobei da glaube ich nur alibi getappt wird.
+Das ist hauptsächlich Arbeit mit der linken Hand.
