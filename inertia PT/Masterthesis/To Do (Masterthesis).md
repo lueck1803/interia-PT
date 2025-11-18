@@ -321,4 +321,4 @@ flowchart TB
 		- WCA isn't about strict hard spheres than I understood it correct
 		- what exactly the identify as the binodal?
 			- ⟹ When there are two separated phases
-			- but since you don't have a free energy this is 
+			- but since you don't have a free energy this is speculative / not accurate
