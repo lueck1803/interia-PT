@@ -305,3 +305,4 @@ flowchart TB
 - Reentrance effekt for higher Pe with higher masses 
   ![[Pasted image 20251118121845.png]] (Hecht2021)
 - Something (Weaks-chanderler potential) is hard to parallelize 
+- $\mathcal{S}=$ gives us a measure for how much can particles overlap?
