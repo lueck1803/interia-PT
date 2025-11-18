@@ -310,3 +310,6 @@ flowchart TB
 - Coexisting phases in non equilibrium systems are the binodals ⟹ when you start in a uniformal regime you don't see the binodal
 - in equilibrium you don't have a free energy
 - reentrance disappears, when the stiffness $\mathcal{S}$ ? Question from Benno
+	- you need both stiffness and inertia?
+	- if you dont have inertia
+	- They didnt rule out the influence of inertia?
