@@ -330,7 +330,12 @@ flowchart TB
 		``` python
 # use:: fix ID group-ID langevin/lh Tstart Tstop gamma_t seed alpha(=10*gamma_r/sigma^2/gamma_t) omega <yes/no> zero <yes/no>
 fix 	noise all langevin/lh 1.0 1.0 1.0 §seed 10 omega yes zero yes	# add Langevin thermostat (noise+friction)
-````
+`````
+		``` python
+cocompute	erot all erotate/sphere
+ththermo_style	custom step temp epair c_erot etotal press
+ttthermo		5000
+`````
 	  ![[Pasted image 20251118151512.png]]
 		- $\gamma_{t}=1$
 		- $\gamma_{r}$ 
