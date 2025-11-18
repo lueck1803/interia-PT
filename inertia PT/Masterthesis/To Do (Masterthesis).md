@@ -325,4 +325,4 @@ flowchart TB
 - $\text{St}\equiv \frac{\tau_{M}}{\tau_{R}}$ $\tau_{M}\equiv \frac{m}{\zeta}$ $\zeta=\gamma_{t}$
 	- $\zeta$ translational drag coefficient  
 	- $\tau_{R}$ represents characteristic reorientation/persistence time (or inverse rotational diffusion) $\tau_{R}=\frac{1}{D_{R}}$ $D_{R}=\frac{k_{B}T_{b}}{\gamma_{r}}$ 
-	- $St \equiv $
+	- $St \equiv \frac{m}{\gamma_{t}} \cdot \frac{1}{\tau_{R}} = \frac{m}{\gamma_{t}} \cdot \frac{k_{B}T_{b}}{\gamma_{r}}$ 
