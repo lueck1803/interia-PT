@@ -327,3 +327,6 @@ flowchart TB
 	- $\tau_{R}$ represents characteristic reorientation/persistence time (or inverse rotational diffusion) $\tau_{R}=\frac{1}{D_{R}}$, $D_{R}=\frac{k_{B}T_{b}}{\gamma_{r}}$, $[D]=\frac{m^{2}}{s}$
 	- $St \equiv \tau_{M} \cdot \frac{1}{\tau_{R}} = \frac{m}{\gamma_{t}} \cdot \frac{k_{B}T_{b}}{\gamma_{r}}$ , $[St]=kg \cdot \frac{m^{2}}{s}$ 
 	- What are $\gamma_{t}$ , $\gamma_{r}$ and $T_{b}$ in my case? <span style="color:orange;font-size:100%;">lammps script</span> 
+		- $\gamma_{t}=1$
+		- $\gamma_{r}$ 
+			- Since $\alpha=10$
