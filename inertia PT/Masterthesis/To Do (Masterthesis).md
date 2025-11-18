@@ -322,6 +322,7 @@ flowchart TB
 		- what exactly the identify as the binodal?
 			- ⟹ When there are two separated phases
 			- but since you don't have a free energy this is speculative / not accurate
-- $\text{St}\equiv \frac{\tau_{M}}{\tau_{R}}$ $\tau_{M}\equiv \frac{m}{\zeta}$ 
+- $\text{St}\equiv \frac{\tau_{M}}{\tau_{R}}$ $\tau_{M}\equiv \frac{m}{\zeta}$ $\zeta=\gamma_{t}$
 	- $\zeta$ translational drag coefficient  
-	- $\tau_{R}$ represents characteristic reorientation/persistence time (or inverse rotational diffusion) $\tau_{R}=\frac{1}{D_{R}}$ $D_{R}=$
+	- $\tau_{R}$ represents characteristic reorientation/persistence time (or inverse rotational diffusion) $\tau_{R}=\frac{1}{D_{R}}$ $D_{R}=\frac{k_{B}T_{b}}{\gamma_{r}}$ 
+	- $St \equiv $
