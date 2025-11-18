@@ -297,4 +297,9 @@ flowchart TB
 2. Second 
 3. $\frac{ \partial y }{ \partial x }$ 
 4. $t_{7}$ ❃☩⚔☠✠⤭✼⛥꙳
-5. 
+
+# MIPS
+- competition between the time scale of reorientation and collision
+- overdamped ⟹ no reason for bouncing back
+- underdamped ⟹ the bounce back
+- Reentrance effekt for higher 

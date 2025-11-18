@@ -333,3 +333,5 @@ Der tapping teil vor dem melodischen solo, sind halt 32tl bei 155 bpm.
 Das repetitive ist anstrengend, deshalb hab ich generell nicht so Lust tapping zu üben.
 Wobei da glaube ich nur alibi getappt wird.
 Das ist hauptsächlich Arbeit mit der linken Hand.
+
+#
