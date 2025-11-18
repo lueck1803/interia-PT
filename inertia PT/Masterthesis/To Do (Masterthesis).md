@@ -322,3 +322,4 @@ flowchart TB
 		- what exactly the identify as the binodal?
 			- ⟹ When there are two separated phases
 			- but since you don't have a free energy this is speculative / not accurate
+- $\text{St}\equiv$
