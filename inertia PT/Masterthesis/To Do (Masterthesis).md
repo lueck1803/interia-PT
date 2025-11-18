@@ -322,7 +322,7 @@ flowchart TB
 		- what exactly the identify as the binodal?
 			- ⟹ When there are two separated phases
 			- but since you don't have a free energy this is speculative / not accurate
-- $\text{St}\equiv \frac{\tau_{M}}{\tau_{R}}$, $\tau_{M}\equiv \frac{m}{\zeta}$, $\zeta=\gamma_{t}$ 
+- $\text{St}\equiv \frac{\tau_{M}}{\tau_{R}}$, $\tau_{M}\equiv \frac{m}{\zeta}$, $\zeta=\gamma_{t}$, $[\tau_{M}]=s=\frac{kg}{\frac{kg}{s}}$ ⟹$[\gamma_{t}]=\frac{kg}{s}$ 
 	- $\zeta$ translational drag coefficient  $[\gamma]=1$
 	- $\tau_{R}$ represents characteristic reorientation/persistence time (or inverse rotational diffusion) $\tau_{R}=\frac{1}{D_{R}}$, $D_{R}=\frac{k_{B}T_{b}}{\gamma_{r}}$, $[D_{t}]=\frac{m^{2}}{s}$ $[D_{R}]=\frac{1}{s}$ $\gamma_{r,\text{sphere}}=8 \pi \eta R^{3}$, $\eta$ is the dynamic viscosity, $[\eta]=\frac{kg}{m s}$, $[k_{B}]=\frac{J}{K}$ 
 	- $St \equiv \tau_{M} \cdot \frac{1}{\tau_{R}} =\frac{m}{\gamma_{t}} \cdot D_{R}= \frac{m}{\gamma_{t}} \cdot \frac{k_{B}T_{b}}{\gamma_{r}}$ , $[St]=kg \cdot \frac{1}{s}$ 
