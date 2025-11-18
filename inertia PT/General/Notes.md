@@ -5,7 +5,7 @@
 # Tage infolge Produktiv
 Tage prodiktiv gewesen:
 ||||/ ||||/ ||||/ ||||/
-||
+|||
 
 # Backen und kochen
 - <span style="color:gold">ei steif schlagen</span> 
@@ -137,7 +137,7 @@ Wechsel von heylogin zu keypass als Standard autofill
 
 > [!Navigate]
 > Keepass ⟹three dots ⟹settings⟹app settings ⟹password entry access ⟹autofill service ⟹autofill service enable
-|
+
 # Nachricht an Maria 
 Meditation ist diese Woche eher hinten runter gefallen.
 Ich hab für meine Verhältnisse sehr viel gearbeitet.
