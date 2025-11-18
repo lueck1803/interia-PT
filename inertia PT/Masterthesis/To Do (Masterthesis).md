@@ -313,3 +313,5 @@ flowchart TB
 	- you need both stiffness and inertia?
 	- if you dont have inertia
 	- They didnt rule out the influence of inertia?
+- mechanical balance of the interface - modeled by the *dynamic stress tensor* $\mathbb{\Sigma}$ 
+	- 
