@@ -314,4 +314,6 @@ flowchart TB
 	- if you dont have inertia
 	- They didnt rule out the influence of inertia?
 - mechanical balance of the interface - modeled by the *dynamic stress tensor* $\mathbb{\Sigma}$ 
-	- 
+- no contradiction to the groups work?
+- where is a parallelization problem?
+- what exactly the identify as the binodal?
