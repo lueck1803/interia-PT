@@ -305,6 +305,8 @@ flowchart TB
 - Reentrance effekt for higher Pe with higher masses 
   ![[Pasted image 20251118121845.png]] (Hecht2021)
 - Something (Weaks-chanderler potential) is hard to parallelize 
+## Feng(25-04) Theory from the anomalous phase behavior of inertial active Brownian particles
 - $\mathcal{S}=\frac{\varepsilon}{\zeta U_{0}\sigma}$ gives us a measure for how much can particles overlap?
 - Coexisting phases in non equilibrium systems are the binodals ⟹ when you start in a uniformal regime you don't see the binodal
-- in equ
+- in equilibrium you don't have a free energy
+- reentrance disappears, when the stiffness $\mathcal{S}$ ? Question from Benno
