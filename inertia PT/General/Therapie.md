@@ -159,7 +159,9 @@ These don't just cover up distraction, they retrain your brain to complete the l
 	- emotionale Sicherheit 
 	- nicht tun:
 		- sofort Lösung anbieten 
-	- 
+		- minimieren: Problem nicht klein reden.
+		- ablenken: Gefühle wollen gefühlt werden. Ignorierte Gefühle schreien, gefühlte Gefühle flüstern. Raum geben. Was bereitet dir Sorgen? Aussprechen lassen was sie beschäftigt. Ihre Echten Gefühle verstehen. Körperliche Berührung hilft. (Wenn sie sie zulässt) Aktiviert parasymathicus 
+		- 
 # Familie 
 - 
 # Psychiater
