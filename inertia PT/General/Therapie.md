@@ -160,7 +160,7 @@ These don't just cover up distraction, they retrain your brain to complete the l
 	- nicht tun:
 		- sofort Lösung anbieten 
 		- minimieren: Problem nicht klein reden.
-		- ablenken: Gefühle wollen gefühlt werden. Ignorierte Gefühle schreien, gefühlte Gefühle flüstern. Raum geben. Was bereitet dir Sorgen? Aussprechen lassen was sie beschäftigt. Ihre Echten Gefühle verstehen. Körperliche Berührung hilft. (Wenn sie sie zulässt) Aktiviert parasymathicus 
+		- ablenken: Gefühle wollen gefühlt werden. Ignorierte Gefühle schreien, gefühlte Gefühle flüstern. Raum geben. Was bereitet dir Sorgen? Aussprechen lassen was sie beschäftigt. Ihre Echten Gefühle verstehen. Körperliche Berührung hilft. (Wenn sie sie zulässt) Aktiviert parasympathicus, insbesondere wenn man selbst Ruhe ausstrahlt. Gelassenheit wirkt ansteckend und Beruhigend. Hat ja funktioniert (mit sehr schwer schwerer Anstrengung meinerseits) an dem Sonntag nach dem Konflikt mit dem Label. Eigene Anspannung verstärkt den Stress. (Ist eine große Last die auf Männern lastet...)
 		- 
 # Familie 
 - 
