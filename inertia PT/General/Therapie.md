@@ -155,6 +155,11 @@ These don't just cover up distraction, they retrain your brain to complete the l
 
 # Beziehung 
 - Arooj ist mir zum Glück mittlerweile echt <span style="color:coral">pups egal</span>
+- https://youtu.be/M89JdPgsgwg?si=Z2nvtOUVKNpVSWIH
+	- emotionale Sicherheit 
+	- nicht tun:
+		- sofort Lösung anbieten 
+	- 
 # Familie 
 - 
 # Psychiater
@@ -195,6 +200,7 @@ These don't just cover up distraction, they retrain your brain to complete the l
 - ich fange einfach Tätigkeiten an da sie mir ins Auge fallen, obwohl ich die letzte noch nicht ansatzweise abgeschlossen habe. <br> ⟹das führte dazu dass ich mehrere Tätigkeiten angefangen aber nicht beendet habe und dann vor einem Berg an unerledigten Sachen stand und vom Chaos in meinem Kopf überfordert war<br> ⟹depressiv und Energie los
 	- Beispiel: heute morgen komme ich aus der Dusche und fange fast an die Spülmaschine auszuräumen und die Nudeln in den Kühlschrank zu packen obwohl ich noch nicht angezogen war.⟹ habe ich dann mit nem Schmunzeln registriert und mich erstmal angezogen 
 - ich hab's auch nicht so mit ⁉️ vergessen was ich schreiben wollte 😂 ⟹<span style="font-size:100%;color: orange;">Reihenfolgen</span>
-- 
+
+
 
 
