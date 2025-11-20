@@ -334,4 +334,11 @@ Das repetitive ist anstrengend, deshalb hab ich generell nicht so Lust tapping z
 Wobei da glaube ich nur alibi getappt wird.
 Das ist hauptsächlich Arbeit mit der linken Hand.
 
-#
+# yt Kommentare
+5. Doch sehr möglich... Therapeuten und Ärzte sind auch nur Menschen. Die können zum Teil mit Menschen wie sie es ist nicht so viel anfangen. Da sie zu viel durchdenken und nicht handlungsarm sind. 
+
+Gleichzeitig schwer depressiv und auf der anderen Seite so reflektiert und agitiert.
+
+Das passt nicht so in die ICD X Schubladen, nach denen man lernt zu diagnostizieren.
+
+Ich verstehe ihre Zurückhaltung aus ihrer Erfahrung zu 100%.
