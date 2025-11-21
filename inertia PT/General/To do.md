@@ -76,6 +76,8 @@
 	- [ ] <span style="color:red">⟹noch kein Geld von Oktober auf dem Konto</span>
 - [x] staubsaugen 
 - [ ] restliche Paprika ernten 
+	- bis jetzt hängen noch ein paar draußen. 
+	- bin ge
 - [x] git am pc gescheit einrichten und Accounts trennen 
 - [x] git in obsidian am Handy einrichten ==hat hoffentlich geklappt wir werden es sehen==
 - [x] Wasserwaage auf rechten Bildschirm
@@ -141,35 +143,39 @@
 - [ ] Maronen in den Wald setzen
 - [ ] Holz holen
 - [x] Papa zeigen wie er gerade und ungerade Seiten eines scans merged
-	- hat mit scan Gear viel besser geklappt 
+	- hat mit scan Gear viel besser geklappt als mit pdftk
 # wenn ich lust und zeit habe
 - [ ] Schreibtischauflage
 - [ ] Akustikgitarre Saiten wechseln
-- [ ] Sparkassen App+push tan
+- [x] Sparkassen App+push tan
 - [ ] maus reparieren 
+	- geht momentan wieder
 - [ ] Klodeckel
 - [ ] Ackerbohnen säen
 	- [ ] ahl
 	- [ ] Balkon 
 - aus Destilliertem Wasserbehälter
 	- [ ] Behälter für carnivoren 
+		- ich hab diese Glaskaraffe 
 	- [ ] aufhängbaren Behälter für Pflanzen 
 	- [ ] Schaufel 
 	- [ ] mini outdoor Gewächshaus 
 - [ ] dusche dampfen
 - [ ] Uhr reparieren 
 - [ ] Sauerteig auffrischen 
-- [ ] Klarspüler clip zurecht schneiden/schleifen 
+- [x] Klarspüler clip zurecht schneiden/schleifen 
+	- hat ganz gut geklappt mit der kleinen Akkuflex 
 
 # was schönes
 ## Malen und Basteln
 - [ ] Monblume weiter malen
 - [ ] Becorns basteln
 ## Pflanzen 
-- [ ] kiwi aussäen 
-- [ ] maracuja aussäen 
+- [x] kiwi aussäen 
+- [x] maracuja aussäen 
 - [ ] root grow stimulants 
 	- [ ] 350mg tablet aspirin in wasser 
+		- die Stecklinge haben sich stark verfärbt, man sieht die Wirkung der Säure. Ob das gut ist🤷
 	- [ ] honig in heißem Wasser verrühren ⟹nur rein dippen
 	- [ ] 5 tropfen Apfelessig in auf eine halbe Tasse Wasser ⟹ nur dippen 
 	- [ ] Bananenschalen (bio) wasser 24h einweichen 
@@ -187,14 +193,4 @@
 - [x] <span style="color:gold">ghostbusters runterladen</span>
 - [x] <span style="color:coral">paartherapie S3 runterladen</span>
 
-# test quiet outline drag-drop
-## test1
-text1
-### test2
-text2
-#### test21
-text 21
-## test12
-text12
-### test11
-text11
+
