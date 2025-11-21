@@ -33,6 +33,8 @@
 - schöne eckige Glassschüssel für die carnivoren 
 	- [ ] vom buttlers
 	- [ ] Depot 
+	-  ich hab diese Glaskaraffe
+- [ ] carnivoren set
 
 # Nähen
 - [ ] Schneidermatte 
