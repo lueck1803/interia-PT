@@ -335,6 +335,14 @@ Wobei da glaube ich nur alibi getappt wird.
 Das ist hauptsächlich Arbeit mit der linken Hand.
 ## 25-11-21
 Ich hab sie gelöscht da die Frage unnötig war, so wie euch zu fragen wie ihr diesen oder jenen Song findet. Keine Ahnung was ich damit bezwecken will. Ebenso dass und wieso ich euch meine Gitarrenaufnahmen geschickt habe.🤷 Weiß nicht was da nicht mit mir stimmt.
+Will ich euch irgendwelche Musik aufzwingen? Ne eigentlich nicht. 
+Daher denke ich lieber vorher drüber nach ob ich unnötig kommuniziere und etwas Frage. 
+Was ist der Zweck und meine Absicht.
+Möchte keine Leute in unnötige Kommunikation zwingen.
+Ich bin doch wahrscheinlich einfach nur einsam.
+Und will etwas in mir umgehen und mich ablenken.
+
+Naja prinzipiell habe ich das fragen wollen, ob euch das gefallen könnte da Freddie beispielweise die harsh vocals bei den unleash the archers songs nicht gefallen hat.
 # yt Kommentare
 5. Doch sehr möglich... Therapeuten und Ärzte sind auch nur Menschen. Die können zum Teil mit Menschen wie sie es ist nicht so viel anfangen. Da sie zu viel durchdenken und nicht handlungsarm sind. 
 
