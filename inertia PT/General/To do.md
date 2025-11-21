@@ -22,8 +22,8 @@
 - [ ] Meditation
 - [x] E-Mail an Arooj entwerfen
 	- ⟹hab ich mit angefangen und ein Google Doc erstellt
-- [ ] Klarspüler clip tauschen 
-	- [ ] Clip mit akkuflex anfertigen 
+- [x] Klarspüler clip tauschen 
+	- [x] Clip mit akkuflex anfertigen 
 # tägliches
 ## Küche
 - Arbeitsplatte

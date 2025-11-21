@@ -333,7 +333,8 @@ Der tapping teil vor dem melodischen solo, sind halt 32tl bei 155 bpm.
 Das repetitive ist anstrengend, deshalb hab ich generell nicht so Lust tapping zu üben.
 Wobei da glaube ich nur alibi getappt wird.
 Das ist hauptsächlich Arbeit mit der linken Hand.
-
+## 25-11-21
+Ich hab sie gelöscht da die Frage unnötig war, so wie euch zu fragen wie ihr diesen oder jenen Song findet. Keine Ahnung was ich damit bezwecken will. Ebenso dass und wieso ich euch meine Gitarrenaufnahmen geschickt habe.🤷 Weiß nicht was da nicht mit mir stimmt.
 # yt Kommentare
 5. Doch sehr möglich... Therapeuten und Ärzte sind auch nur Menschen. Die können zum Teil mit Menschen wie sie es ist nicht so viel anfangen. Da sie zu viel durchdenken und nicht handlungsarm sind. 
 
