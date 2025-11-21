@@ -12,13 +12,13 @@
 - [ ] Spazieren
 - [x] Aldi
 - [x] Sofa Decken
-- [ ] Zeug abheften
+- [x] Zeug abheften
 - [ ] Tisch aufräumen
 - [x] susceptibility
 - [ ] Kartons
 - [ ] Fotos vom alten Drucker
 - [ ] Folien
-- [ ] Essen Kochen
+- [x] Essen Kochen
 - [ ] Meditation
 - [x] E-Mail an Arooj entwerfen
 	- ⟹hab ich mit angefangen und ein Google Doc erstellt
@@ -44,7 +44,7 @@
 - [x] Medikament bestellen 
 - [x] Medikament abholen 
 - [ ] Avocado 🥑 essen
-- [ ] auberginen + tofu
+- [x] auberginen + tofu
 ## Bad
 - [ ] Bart schneiden
 - [ ] Toilette putzen
@@ -82,16 +82,16 @@
 - [x] git (richtige ssh keys) und Obsidian mit git am unirechner einrichten  
 - [x] grünen Stift zum Schreiben bringen
 - [x] carnivoren Wasser
-- [ ] stoffhandschuh flicken 
-- [ ] sparschäler kleben
+- [x] stoffhandschuh flicken 
+- [x] sparschäler kleben
 
 
 # Masterarbeit
-- [ ] susceptibility 
-	- [ ] L extract
-	- [ ] berechnen 
-	- [ ] exportieren 
-	- [ ] exponent berechnen 
+- [x] susceptibility 
+	- [x] L extract
+	- [x] berechnen 
+	- [x] exportieren 
+	- [x] exponent berechnen 
 - [ ] Folien 
 	- [ ] mit Ergebnissen fertig machen 
 	- [ ] Benno schicken 
@@ -112,7 +112,7 @@
 - [ ] Hybrid Connector 
 	- [x] ⟹ <span style="color:gold">habe keinen Zugriff</span>
 - [ ] heylogin 
-	- [ ] wie ich jemandem meinen "contact" senden kann damit dieser mir Passwörter geben kann
+	- [x] wie ich jemandem meinen "contact" senden kann damit dieser mir Passwörter geben kann
 	- [ ] so bereit stellen damit es auf der Webseite gut aussieht 
 - [ ] standard powershell tutorial + notizen machen
 - [ ] Pentesting Websiteeintrag <span style="color:red;font-size:120%;">Priorität</span>
@@ -122,13 +122,15 @@
 - [ ] 
 # Papierkram
 - [x] Patientenakte abholen/besorgen
-- [ ] wbs legal einheften
-- [ ] Bauverein einheften 
+- [x] wbs legal einheften
+- [x] Bauverein einheften 
 - AOK verdienst melden 
 	- haben sich gemeldet ich sollte die Gehaltsabrechnungen September und Oktober einreichen 
 	- [x] Robert schreiben 
 	- [x] BAT schreiben?
-	- [ ] Gehaltsabrechnungen an AOK weiterleiten 
+	- [x] Gehaltsabrechnungen an AOK weiterleiten
+	- [ ] ist die auch korrekt?
+	- [ ] ist ein Brief in der Post?
 - [ ] Rundfunkbeitrag 
 - [x] Patientenakte anschauen ⟹ wie viele Seiten sind das? Doppelseitig? Lohnt sich das zur Digitalisierung den Drucker zu kaufen? Alleine wie genervt ich von dem Drucker bin.. und wie viel nervige Zeit es kostet Sachen einzuscannen und dann ist das nicht gerade und schön. Auch das Scannen an den pc ist ne Katastrophe mit dem hp
 - [ ] Drucker in ebay Kleinanzeigen stellen 
@@ -138,7 +140,8 @@
 # Ahl
 - [ ] Maronen in den Wald setzen
 - [ ] Holz holen
-- [ ] Papa zeigen wie er gerade und ungerade Seiten eines scans merged
+- [x] Papa zeigen wie er gerade und ungerade Seiten eines scans merged
+	- hat mit scan Gear viel besser geklappt 
 # wenn ich lust und zeit habe
 - [ ] Schreibtischauflage
 - [ ] Akustikgitarre Saiten wechseln
