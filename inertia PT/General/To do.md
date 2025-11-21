@@ -5,7 +5,7 @@
 - [x] Tastatur wischen
 - [ ] Bart
 - [x] Zähne putzen
-- [ ] Duschen
+- [x] Duschen
 - [x] Duolingo
 - [x] Konto
 	- ⟹noch kein Geld bekommen
@@ -23,6 +23,7 @@
 - [x] E-Mail an Arooj entwerfen
 	- ⟹hab ich mit angefangen und ein Google Doc erstellt
 - [ ] Klarspüler clip tauschen 
+	- [ ] Clip mit akkuflex anfertigen 
 # tägliches
 ## Küche
 - Arbeitsplatte
