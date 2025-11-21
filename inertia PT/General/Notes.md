@@ -343,6 +343,14 @@ Ich bin doch wahrscheinlich einfach nur einsam.
 Und will etwas in mir umgehen und mich ablenken.
 
 Naja prinzipiell habe ich das fragen wollen, ob euch das gefallen könnte da Freddie beispielweise die harsh vocals bei den unleash the archers songs nicht gefallen hat.
+Der Song Apex kommt ja ohne diese aus. Da reichte ja Freddies "ok" aus, um da auch nicht weiter nach zu fragen/zu bohren.
+Und im Endeffekt habe ich dann auch wieder sehr viel über mich geredet da ich dann geschrieben habe, was mir an dem Song im Vergleich zur Akustik Version fehlt.
+Total ungefragt und mit welchem Zweck.
+Will ich wieder Leute überzeugen?
+Unnötige Kommunikation. Nur weil ich alleine bin und Arooj nicht mehr nerven und voll labern kann.
+Missbrauche ich euch. 
+Muss einfach mal lernen alleine klar zu kommen und mir klar überlegen warum ich etwas tue und sage. Kontrolle über mich und meine Absichten habe. 
+Und nicht einfach drauf los etwas tue und sage
 # yt Kommentare
 5. Doch sehr möglich... Therapeuten und Ärzte sind auch nur Menschen. Die können zum Teil mit Menschen wie sie es ist nicht so viel anfangen. Da sie zu viel durchdenken und nicht handlungsarm sind. 
 
