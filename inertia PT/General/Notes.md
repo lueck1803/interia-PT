@@ -350,7 +350,9 @@ Will ich wieder Leute überzeugen?
 Unnötige Kommunikation. Nur weil ich alleine bin und Arooj nicht mehr nerven und voll labern kann.
 Missbrauche ich euch. 
 Muss einfach mal lernen alleine klar zu kommen und mir klar überlegen warum ich etwas tue und sage. Kontrolle über mich und meine Absichten habe. 
-Und nicht einfach drauf los etwas tue und sage
+Und nicht einfach drauf los etwas tue und sage. 
+Muss besser lernen wann ich die Grenzen anderer überschreite und deren Bedürfnisse richtig lesen. 
+
 # yt Kommentare
 5. Doch sehr möglich... Therapeuten und Ärzte sind auch nur Menschen. Die können zum Teil mit Menschen wie sie es ist nicht so viel anfangen. Da sie zu viel durchdenken und nicht handlungsarm sind. 
 
