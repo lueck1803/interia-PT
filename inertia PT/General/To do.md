@@ -73,11 +73,12 @@
 - [x] wann ist der Vortrag im hessischen Landesmuseum 
 	- war ein toller Vortrag und ich habe Laura kennengelernt 
 - [x] Konto checken 
-	- [ ] <span style="color:red">⟹noch kein Geld von Oktober auf dem Konto</span>
+	- [ ] <span style="color:red">⟹noch kein Geld von Oktober auf dem Konto</span> 
+	- [ ] 21.11 immer noch kein Geld
 - [x] staubsaugen 
 - [ ] restliche Paprika ernten 
 	- bis jetzt hängen noch ein paar draußen. 
-	- bin ge
+	- bin gespannt wie sie die Kälte vertragen 
 - [x] git am pc gescheit einrichten und Accounts trennen 
 - [x] git in obsidian am Handy einrichten ==hat hoffentlich geklappt wir werden es sehen==
 - [x] Wasserwaage auf rechten Bildschirm
