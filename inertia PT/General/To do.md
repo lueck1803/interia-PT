@@ -28,6 +28,7 @@
 - [ ] weste waschen
 - [ ] hybrid connector
 - [ ] Folien
+- [ ] to do aufräumen
 
 # tägliches
 ## Küche
