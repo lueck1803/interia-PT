@@ -23,9 +23,9 @@
 - [x] Klarspüler clip tauschen 
 	- [x] Clip mit akkuflex anfertigen 
 - [ ] Paprika verarbeiten 
-- [ ] Nähmaschine im Aldi checken
-- [ ] Spazieren
-- [ ] weste waschen
+- [x] Nähmaschine im Aldi checken
+- [x] Spazieren
+- [x] weste waschen
 - [ ] hybrid connector
 - [ ] Folien
 - [ ] to do aufräumen
