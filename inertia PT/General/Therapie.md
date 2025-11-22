@@ -204,5 +204,203 @@ These don't just cover up distraction, they retrain your brain to complete the l
 - ich hab's auch nicht so mit ⁉️ vergessen was ich schreiben wollte 😂 ⟹<span style="font-size:100%;color: orange;">Reihenfolgen</span>
 
 
+# "relativ früh harte Musik gehört "
+
+Auch aus nostalgischen Gründen ist das immer noch mein lieblings Song.
+
+Das war einfach mein Lieblingslied mit 12/13 🫣🤭.
+
+Ich mag die bassline die kommt sehr gut raus.
+
+Und die tolle Einlage von Marco.
+Der Song passte auch so verdammt gut zum Buch "die Elfen", was ich damals gelesen habe.
+Find's faszinierend, dass du so früh schon relativ "harte" Musik gerne gehört hast 😅
+Klar, das ist noch relativ melodisch, aber weit entfernt  von "Hey Ho, spann den Wagen an" oder  von beliebigen Kinderserienintros, was Kinder ein paar Jahre vorher halt so mögen 😂
+Relativ "harte" Musik?🤭
+
+Ich hab zu der Zeit noch ganz andere Sachen gehört 🫣
+Da war das eher soft 🍦.
+Ich glaube es war auch eher 13/14.
+
+Ich bin mir da mit dem Alter nicht immer so ganz sicher...
+
+Ja nightwish war etwas später.
+
+Das Album once ist ja von 2004.
+Das macht mehr Sinn.
+Ich war halt immer 2 Jahre jünger als die anderen.
+
+Und in der Zeit ist so viel passiert/ging es so schnell.
+Ich hab damals ja schon Slipknot gehört.
+
+Deren erstes Album kam '98 raus. 
+
+Iowa '01
+Und ich hab mit 
+subliminal verses '04 
+damit anfangen
+Limp bizkit deren album 
+Chocolate starfish and the hot dog flavored water '00 raus kam kannte ich da definitiv schon.
+
+Die kannte ich seit der 6. Klasse.
+Ja hmm. 
+
+Also Freunde aus meiner Klasse hatten ältere Geschwister.
+
+Und die Leute aus meinem Dorf mit denen ich mehr zu tun hatte ab der 5./6. Klasse waren 1-2 Jahre älter als ich und hatten zum Teil nochmal ältere Geschwister.
+
+Durch die habe ich in der 5. Klasse dann halt "böhse Onkelz" gehört
+"hey ho spann den Wagen an" ist ja so was was man in der grund/vorgrundschulzeit gehört hat.
+Mit 12 war ich ja in der 6. Klasse
+Ich hab mit 12 ja auch das erste Mal von Alkohol gekotzt 🤣
+Nightwish ist ja sprachlich gesehen eher sehr sehr sehr soft.
+
+Da kommt ja nicht einmal fuck for.
+
+Da stand ja nicht mal
+
+"Parental 
+Advisory
+Explicit Content"
+
+Auf den Album Covers, also "weich".
+
+Wir haben uns beim Song "Hot Dog" von limp bizkit immer den Spaß gemacht die "fuck's" mit zu zählen.
+Naja durch die Kirche ist man von klein auf mit Mord und Totschlag konfrontiert.
+Meine Schwester die 7 Jahre älter ist hat ja immer Backstreet boys und David Hasselhoff gehört.
+
+In den Ferienlagern waren immer die Schlager und FFH Musik angesagt.
+
+Davon musste man sich ja irgendwie emanzipieren/abgrenzen.
+Ich glaub ich hab das aber auch gebraucht.
+
+Ich hatte eine sehr schlechte Beziehung zu meiner Mutter. 
+Sie hat mir ja immer die Schuld gegeben wenn es mal Probleme in der Schule oder auf dem Schulweg gab.
+"Ich war ne schwere Geburt" hat sie mir immer gesagt.
+Ich hab sie gehasst.
+
+Ich hab mit 15/16 angefangen ihr zu vergeben und hab versucht drüber zu stehen.
+
+Was meine Schwester angeht.
+
+Da dachte ich ja bis '21 noch ich war als Kind böse und an allem schuld. 
+
+Kam mir schon etwas verarscht vor als mir dann mein Vater gesagt hat, dass sie immer die aggressive und eifersüchtig war die auf mich los ist.
+Warum wurde ich dann immer als der Böse dargestellt.
+Ich hab mich ja anscheinend nur gewehrt.
+
+War auf dem Schulweg und sonst auch immer so... Ich hab eigentlich selbst nie Stress angefangen.
+Es war aber ne Zeit lang jeden Tag etwas. 
+
+Wenn ich mir überlege wie meine Mutter heute noch ist...
+Die war früher ja schlimmer und ich hab es als Kind nicht mehr ausgehalten ihr extremes gejammert und Katastrophisieren...
+Ich bin auch schon Recht früh "abgehauen".
+Das war aber nicht so ganz aus nicht aufgehoben sein in der Familie.
+Gut das war ich auch nicht.
+
+Es war eher so ein süßer Gedanke nach heiler Welt.
+Da bin ich mit meiner Watschelente los gegangen und wollte zu dem laufen nachdem ich meinen Kuschelhase benannt habe.
+Da bin ich dann auch einfach über die Hauptstraße gelaufen bei uns.
+
+Die war damals noch sehr stark befahren.
+Erst ende '94 ist die Kinzigtalbrücke (A66) freigegeben worden.
+Daran kann ich mich noch erinnern 😵‍💫.
+Das war ein riesen Spektakel.
+Da war ich 4,5
+Ich hab halt auch früh als Kind sexuelle "Übergriffe" erlebt.
+Das kam mir damals "normal" vor. 
+
+Von gleichaltrigen und älteren. Insbesondere auch weiblichen.
+
+Ich hab das alles als nicht so schlimm wahrgenommen. Bis heute. 
+Es hat definitiv was mit mir gemacht.
+
+Viel ertragen, Klappe halten, keine Grenzen für sich kennen, selbst Erniedrigung um Anerkennung zu bekommen und nicht ausgeschlossen zu werden, Teil von etwas zu sein. 
+Auch durch extreme Dinge Anerkennung zu bekommen.
+Schmerzen zu ertragen und Gewalt zu erfahren um Anerkennung zu bekommen.
+Lieblingslied von nightwish möchte ich betonen.
+
+Ich hatte damals kein einzelnes Lieblingslied.
+
+Von jeder Band aber schon
+Die Tage an denen ich keine Gewalt auf dem Schulweg erlebt habe, waren die Ausnahme.
+
+Die körperliche Gewalt war gar nicht das Problem.
+
+Eher die psychische.
+
+Dass ich schon als Grundschüler auf mich alleine gestellt war. 
+
+Ich hatte ja keinen Rückhalt meiner Eltern wenn es zu Problemen mit anderen kam.
+
+Ich hab das von mir aus nie erzählt, da meine Mutter auf Probleme immer mit noch mehr Problemen reagiert hat. 
+Das war überhaupt keine Hilfe.
+
+Mein Vater "stell dich nicht so an, du musst dich halt schlauer verhalten"
+Also musste ich irgendwie meine Dinge alleine regeln.
+Ich wusste immer wenn was passiert bin ich alleine und niemand glaubt mir.
+Ich hab ja auch im Bubenturnen Erniedrigung und Gewalt erfahren.
+
+Das war für mich normal.
+
+Ich hab das als normal empfunden erniedrigt zu werden wenn man sich ungelenk/behindert anstellt.
+
+Ich war halt da immer die Oma.
+
+Ich hab meine Namen aber immer mit "stolz" getragen und mich nicht dagegen gewehrt.
+
+Ich habe auch strafen immer sehr pflichtbewusst angenommen.
+
+Ich konnte da durch sehr früh 50 Liegestütze 🤣
+Ich merke halt schon wie klar eigentlich auch damals war dass ich ADHS hatte.
+
+Daher hab ich auch häufig Gewalt und Strafen erfahren.
+
+Ich hatte es halt auch "verdient". So habe ich es zumindest gesehen und hab das immer so mit "Ergebenheit" angenommen.
+
+Hat man so ja auch in der Kirche gelernt 🤷‍♂️🤣.
+Also so hatte ich es verstanden.
+Ich hab mich aber auch schon früh nicht wohl in meinem Körper und mich hässlich gefühlt.
+(Ich weiß heute dass es mit dem ADHS zusammenhängt, meiner Familiensituation und vielleicht auch durch die frühkindlichen sexuellen "Erfahrungen")
+
+Ich denke das körperliche hat mir nicht geschadet.
+Eher dieses Gefühl durch mein Körpergefühl und das immer wieder hören dass ich ja behindert sei - wegen meiner motorischen Probleme - hat bei mir das Gefühl ausgelöst eh nix zu können.
+Da habe ich mich dann schon sehr in Natur und Wissenschaftsbegeisterung zurück gezogen und ins Tagträumen.
+
+Ich weiß aber heute auch dass meine motorischen Probleme die ich erst so langsam richtig auflösen kann viel mit dem ADHS zusammen hängen.
+Das ist aber auch der Grund warum Chor nix mehr für mich ist...
+
+Das ist psychisch und körperlich zu viel für mich.
+Zu viel in Reaktionen anderer als Urteil über mich rein interpretieren.
+Meine Körperwahrnehmung die ich jeden Tag und in jeder Situation aufs neue finden und sammeln muss. 
+
+Auch keine gute Beziehung zu meiner Stimme.
+
+Die im Chor einfach nicht so matched und das schwierige Feedback bei gefühlt 1000 anderen stimmen.
+Da bin ich dann zu verspannt.
+Da pass ich nicht so hin
+Ich finde es halt echt nicht ganz so fair und nett von Arooj dass sie  obwohl sie zum Teil weiß wie es mir ergangen ist, diese Behauptungen über mich aufstellt/aufgestellt hat.
+
+Sie weiß doch eigentlich wie sehr ich dann doch in diese Rechtfertigungen rein rutsche und meine Schuld sehe, obwohl ich das nicht so gemacht habe. 
+
+Und wie viel harte Anstrengung es für mich ist es durchzustehen nicht people zu pleasen, zu erklären und rechtfertigen.
+Es dann so als etwas böses dargestellt wird...
+Mit dem ich manipuliere...
+
+Und es dann auch so in ein licht rückt als hätte ich psychische oder physische Gewalt begangen...
+Die einzige psychische "Gewalt" die ich begangen habe, war dass ich selbst so traurig, depressiv, ängstlich, leicht umzustoßen und zukunftsängstlich war.
+
+Das ist aber auch erst im studium immer mehr geworden und auch in der Beziehung mit Arooj.
+Ich war früher nicht so. 
+
+Es sind aber schon ein paar Sachen hängen geblieben.
+
+Gerade im Zivildienst und am Anfang des Studiums die gesagt wurden.
+Das habe ich dann irgendwann geglaubt.
+
+
+
+
+
 
 
