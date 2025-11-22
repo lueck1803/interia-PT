@@ -9,7 +9,6 @@
 - [x] Duolingo
 - [x] Konto
 	- ⟹noch kein Geld bekommen
-- [ ] Spazieren
 - [x] Aldi
 - [x] Sofa Decken
 - [x] Zeug abheften
@@ -17,7 +16,6 @@
 - [x] susceptibility
 - [ ] Kartons
 - [ ] Fotos vom alten Drucker
-- [ ] Folien
 - [x] Essen Kochen
 - [ ] Meditation
 - [x] E-Mail an Arooj entwerfen
@@ -26,6 +24,12 @@
 	- [x] Clip mit akkuflex anfertigen 
 - [ ] Paprika verarbeiten 
 - [ ] Nähmaschine im Aldi checken
+- [ ] Spazieren
+- [ ] weste waschen
+- [ ] hybrid connector
+- [ ] Folien
+- [ ] to do aufräumen
+
 # tägliches
 ## Küche
 - Arbeitsplatte
