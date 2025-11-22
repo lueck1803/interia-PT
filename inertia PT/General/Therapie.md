@@ -399,6 +399,34 @@ Gerade im Zivildienst und am Anfang des Studiums die gesagt wurden.
 Das habe ich dann irgendwann geglaubt.
 
 
+Ich hab mich schon immer Schuldig gefühlt wenn ich ein Geschenk von meinem Vater bekommen habe...
+Einfach so. - meistens als Belohnung dafür dass ich irgendwas gemacht habe oder geholfen habe. 
+Das war also eigentlich nicht einfach so...
+
+Auch wenn ich ne OP im Krankenhaus hatte...
+
+Das waren eigentlich Dinge die OK waren...
+Dass ich da was bekommen habe...
+Den hass meiner Schwester und das gejammere meiner Mutter das mein Vater Geld ausgegeben hat. 
+Hätte ich mir dann aber echt lieber erspart und dann nix bekommen.
+Es waren ja häufig so kleine Lego-Bausätze 🤷‍♂️.
+
+Ich habe halt meinem Vater schon immer bei allem geholfen...
+
+Holz machen, mauern, bohren, Reparaturen, Apfelernte, Kartoffelernte...
+
+Andere haben fürs Rasenmähen etc immer Geld bekommen.
+
+Habe ich nie und wollte ich auch nicht.
+Hab das als selbstverständlich angesehen und gerne gemacht.
+
+Wenn ich dann mal was geschenkt bekommen habe🤷‍♂️.
+
+Musste ich mich für rechtfertigten...
+Und hab mich auch noch schuldig gefühlt dass mein Vater "Ärger" bekommen hat. 
+Den hat das natürlich nicht interessiert.
+Warum auch.. ist ja sein Geld und ich hab ja auch immer etwas getan gehabt..
+
 
 
 
