@@ -24,6 +24,8 @@
 	- ⟹hab ich mit angefangen und ein Google Doc erstellt
 - [x] Klarspüler clip tauschen 
 	- [x] Clip mit akkuflex anfertigen 
+- [ ] Paprika verarbeiten 
+- [ ] Nähmaschine im Aldi checken
 # tägliches
 ## Küche
 - Arbeitsplatte
@@ -76,7 +78,7 @@
 	- [ ] <span style="color:red">⟹noch kein Geld von Oktober auf dem Konto</span> 
 	- [ ] 21.11 immer noch kein Geld
 - [x] staubsaugen 
-- [ ] restliche Paprika ernten 
+- [x] restliche Paprika ernten 
 	- bis jetzt hängen noch ein paar draußen. 
 	- bin gespannt wie sie die Kälte vertragen 
 - [x] git am pc gescheit einrichten und Accounts trennen 
