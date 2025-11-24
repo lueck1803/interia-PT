@@ -17,16 +17,16 @@
 - [ ] Kartons
 - [ ] Fotos vom alten Drucker
 - [x] Essen Kochen
-- [ ] Meditation
+- [x] Meditation
 - [x] E-Mail an Arooj entwerfen
 	- ⟹hab ich mit angefangen und ein Google Doc erstellt
 - [x] Klarspüler clip tauschen 
 	- [x] Clip mit akkuflex anfertigen 
-- [ ] Paprika verarbeiten 
+- [x] Paprika verarbeiten 
 - [x] Nähmaschine im Aldi checken
 - [x] Spazieren
 - [x] weste waschen
-- [ ] hybrid connector
+- [x] hybrid connector
 - [ ] Folien
 - [ ] to do aufräumen
 - [x] MFA für HRZ und PKM einrichten
@@ -80,8 +80,9 @@
 - [x] wann ist der Vortrag im hessischen Landesmuseum 
 	- war ein toller Vortrag und ich habe Laura kennengelernt 
 - [x] Konto checken 
-	- [ ] <span style="color:red">⟹noch kein Geld von Oktober auf dem Konto</span> 
-	- [ ] 21.11 immer noch kein Geld
+	- <span style="color:red">⟹noch kein Geld von Oktober auf dem Konto</span> 
+	- 21.11 immer noch kein Geld
+	- 24.11 volles Geld erhalten 
 - [x] staubsaugen 
 - [x] restliche Paprika ernten 
 	- bis jetzt hängen noch ein paar draußen. 
@@ -119,13 +120,13 @@
 - [x] Notizen zu *why you can't finish simple tasks* machen
 - [x] Notizen zur Kommunikation Friedemann schulz von Thun 
 # Arbeit
-- [ ] Hybrid Connector 
+- [x] Hybrid Connector 
 	- [x] ⟹ <span style="color:gold">habe keinen Zugriff</span>
 - [ ] heylogin 
 	- [x] wie ich jemandem meinen "contact" senden kann damit dieser mir Passwörter geben kann
 	- [ ] so bereit stellen damit es auf der Webseite gut aussieht 
 - [ ] standard powershell tutorial + notizen machen
-- [ ] Pentesting Websiteeintrag <span style="color:red;font-size:120%;">Priorität</span>
+- [x] Pentesting Websiteeintrag <span style="color:red;font-size:120%;">Priorität</span>
 - [x] demo tenant einrichten 
 	- [x] pw in heylogin eintragen 
 - [x] Outlook task planner zeug eintragen was mir Mischa aufgetragen und nicht selbst schon eingetragen hat 
@@ -149,7 +150,7 @@
 
 # Ahl
 - [ ] Maronen in den Wald setzen
-- [ ] Holz holen
+- [x] Holz holen
 - [x] Papa zeigen wie er gerade und ungerade Seiten eines scans merged
 	- hat mit scan Gear viel besser geklappt als mit pdftk
 # wenn ich lust und zeit habe
