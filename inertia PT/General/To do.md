@@ -29,6 +29,7 @@
 - [ ] hybrid connector
 - [ ] Folien
 - [ ] to do aufräumen
+- [x] MFA für HRZ und PKM einrichten
 
 # tägliches
 ## Küche
