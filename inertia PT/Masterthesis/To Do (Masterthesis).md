@@ -6,9 +6,9 @@
 - [ ] Browser Uni aufräumen
 - clean the proposal
 - sort the introduction and theorie
-- explain the algorythm at it's current state and it's flaws and also the ways to refine it
+- explain the algorithm at it's current state and it's flaws and also the ways to refine it
 - [ ] clean the folder **sqaureboxEvaluation**
-- make clear snapshots with plots with the latest algo. ==am Windows PC==
+- make / clear snapshots with plots with the latest algo. ==am Windows PC==
 	- **new folder**
 	- **clear naming**
 	- **neat** / **oversee-able**
@@ -67,7 +67,7 @@
 		- [ ] 0.065
 		- [ ] 0.068
 		- [ ] 0.07
--  <span style="font-size:120%;color:orange">write down the scaling formula for the order parameter</span>
+- [x]  <span style="font-size:120%;color:orange">write down the scaling formula for the order parameter</span>
 	- <span style="font-size:120%;color:orange">determine $\beta$</span>
 - [ ] git checkout to the ***last*** **phase-peak-pit-height-tune-algo**
 - [ ] compare the box placement for stdDev and halfstdDev
