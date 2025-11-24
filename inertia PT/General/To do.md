@@ -195,6 +195,8 @@
 	- [ ] Alles bis dahin auf 60% perfektionieren und dann auf 70% hoch 
 	- [ ] pull off hammer on tabbing solo anschauen <span style="color:red;font-size:100%;">Transition</span> + <span style="color:red;font-size:100%;">Solo A</span>
 	- [ ] melodie solo anfang <span style="color:red;font-size:100%;">Solo B</span>
+- [ ] neue Boxen auf Sofa neben Router 
+- [ ] pod go neben sofa stellen und dort an den strom anschließen 
 ## Lesen und Hören
 - [ ] Universum in einem einzigen Atom 
 ## Filme, Serien und Dokus
