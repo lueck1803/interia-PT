@@ -13,7 +13,7 @@
 	- **clear naming**
 	- **neat** / **oversee-able**
 	- 112k
-		- [ ] avg max
+		- [x] avg max
 			<!-- - [ ] 0.06 -->
 			- [x] 0.065
 			<!-- - [ ] 0.067 -->
