@@ -19,10 +19,12 @@
 - [x] Maronen 
 - [ ] Nutella 
 - [ ] Toast 
-- [ ] Fussili
-- [ ] Lokosschade
+- [x] Fussili
+- [x] Lokosschade
 - [ ] Hafermilch 
-- [ ] Dosentomaten 
+- [x] Dosentomaten 
+- [x] Pesto 
+- [ ] 
 # Technik
 - [x] Logitech Z207
 - [ ] Grafikkarte 
