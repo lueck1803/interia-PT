@@ -17,6 +17,12 @@
 - [x] hummus 
 - [x] pirnen
 - [x] Maronen 
+- [ ] Nutella 
+- [ ] Toast 
+- [ ] Fussili
+- [ ] Lokosschade
+- [ ] Hafermilch 
+- [ ] Dosentomaten 
 # Technik
 - [x] Logitech Z207
 - [ ] Grafikkarte 
