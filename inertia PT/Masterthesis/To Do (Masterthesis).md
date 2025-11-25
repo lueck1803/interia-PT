@@ -74,6 +74,9 @@
 - [ ] evaluate binder for 28k particles with halfstddev and compare the plot with stdDev
 	
 # Box Algo
+## peak pit width tuning
+- [ ] did a new strange branch... from phase-peak tune...
+- [ ] need to branch it...
 ## Evaluate 
 - [ ] Save the box size of the evaluated boxes
 
