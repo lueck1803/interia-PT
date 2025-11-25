@@ -18,10 +18,10 @@
 - [x] pirnen
 - [x] Maronen 
 - [ ] Nutella 
-- [ ] Toast 
+- [x] Toast 
 - [x] Fussili
 - [x] Lokosschade
-- [ ] Hafermilch 
+- [x] Hafermilch 
 - [x] Dosentomaten 
 - [x] Pesto 
 - [ ] 
