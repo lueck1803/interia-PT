@@ -61,8 +61,12 @@
 - [ ] Avocado 🥑 essen
 - [x] auberginen + tofu
 -  Hülsenfrüchte Tofu
-	- [ ] Hülsenfrüchte über Nacht einweichen 
-	- [ ] erstes Wasser ab
+	- [x] Hülsenfrüchte über Nacht einweichen 
+	- [ ] erstes Wasser abgießen 
+	- [ ] mixen und würzen
+	- [ ] mit genug Wasser aufkochen 
+	- [ ] etwas abkühlen lassen
+	- [ ] in Dose füllen und in den Kühlschrank 
 ## Bad
 - [x] Bart schneiden
 - [ ] Toilette putzen
