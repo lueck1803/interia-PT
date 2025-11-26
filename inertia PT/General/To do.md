@@ -1,9 +1,11 @@
+- [ ] Erbsen kochen 
+- [ ] Sonnentau ausgraben und umsetzen 
 - [x] Essen
 - [x] Spülmaschine
 - [x] Krafttraining
-- [ ] Staubsaugen
+- [x] Staubsaugen
 - [x] Tastatur wischen
-- [ ] Bart
+- [x] Bart
 - [x] Zähne putzen
 - [x] Duschen
 - [x] Duolingo
@@ -15,7 +17,8 @@
 - [ ] Tisch aufräumen
 - [x] susceptibility
 - [ ] Kartons
-- [ ] Fotos vom alten Drucker
+- [x] Fotos vom alten Drucker
+	- muss ich nicht, ich gebe ihn Bilge 
 - [x] Essen Kochen
 - [x] Meditation
 - [x] E-Mail an Arooj entwerfen
@@ -30,7 +33,7 @@
 - [ ] Folien
 - [ ] to do aufräumen
 - [x] MFA für HRZ und PKM einrichten
-- [ ] müll runter 
+- [x] müll runter 
 - [ ] 
 
 # tägliches
@@ -55,8 +58,9 @@
 - [ ] Avocado 🥑 essen
 - [x] auberginen + tofu
 ## Bad
-- [ ] Bart schneiden
+- [x] Bart schneiden
 - [ ] Toilette putzen
+- [ ] Toilettendeckel/sitz tauschen 
 ## technisches
 - Obsidian 
 	- [x] text wrapper size in shortcut einbauen 
@@ -190,6 +194,7 @@
 	- [ ] honig in heißem Wasser verrühren ⟹nur rein dippen
 	- [ ] 5 tropfen Apfelessig in auf eine halbe Tasse Wasser ⟹ nur dippen 
 	- [ ] Bananenschalen (bio) wasser 24h einweichen 
+- [ ] carnivoren umsetzen 
 ## Musik
 - [ ] soon departed auf +70% spielen 
 - [ ] mir die neuen Chor Stücke anschauen 
