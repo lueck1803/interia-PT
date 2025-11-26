@@ -253,14 +253,15 @@ region 	box block -${LxHalf} ${LxHalf} -${LyHalf} ${LyHalf} -0.5 0.5
 # Report
 <span style="color:red" > finish the Slides today </span>
 - [ ] Slides:
-	- [ ] 112k different m: .06, .065, .067, .068, .069
+	- [ ] 112k different m: .06, .065, .067, .068, ~~.069~~ ⟹.07
 		- [ ] pictures of Δy Density Distribution 
 		- [ ] pictures for avg 
-		- [ ] pictures for peak
+		- [ ] pictures for peak 
+		      <span style="color:gold;font-size:100%;">⟹ the peak evaluation is depreciated for now!</span>
 		- [ ] square size max
 		- [ ] square size half
 - [ ] add the current results for CP and $\nu$ 
-- [ ] Fitting $\mathcal{B}$ ⟹ CP:
+- [x] Fitting $\mathcal{B}$ ⟹ CP:
 	- [ ] show CP in ledgend
 	- [ ] max evalbox size
 		- [ ] replot the non cut out plot with legend and higher smoothing
@@ -269,6 +270,8 @@ region 	box block -${LxHalf} ${LxHalf} -${LyHalf} ${LyHalf} -0.5 0.5
 		- [x] replot cut out with legend
 - [x] Fitting $\nu$ 
 - [x] Fitting $\beta$
+- [x] Fitting $\gamma$ 
+- [ ] 
 
 # Test note
 - [ ] this is a test note $\sqrt{x}$ 
