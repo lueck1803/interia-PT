@@ -267,8 +267,8 @@ region 	box block -${LxHalf} ${LxHalf} -${LyHalf} ${LyHalf} -0.5 0.5
 	- [ ] half evalbox size
 		- [x] replot non cut out with legend
 		- [x] replot cut out with legend
-- [ ] Fitting $\nu$ 
-- [ ] Fitting $\beta$
+- [x] Fitting $\nu$ 
+- [x] Fitting $\beta$
 
 # Test note
 - [ ] this is a test note $\sqrt{x}$ 
