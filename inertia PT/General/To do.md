@@ -60,7 +60,9 @@
 - [x] Medikament abholen 
 - [ ] Avocado 🥑 essen
 - [x] auberginen + tofu
-- [ ] mal wieder Hülsenfrüchte Tofu machen
+-  Hülsenfrüchte Tofu
+	- [ ] Hülsenfrüchte über Nacht einweichen 
+	- [ ] erstes Wasser ab
 ## Bad
 - [x] Bart schneiden
 - [ ] Toilette putzen
