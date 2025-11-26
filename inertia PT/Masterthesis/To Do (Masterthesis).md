@@ -77,7 +77,7 @@
 ## peak pit width tuning
 - [x] did a new strange branch... from phase-peak tune...
 - [x] need to branch it...
-- [ ] did a combination of height and width mul variation in combination with an alternation in varying this value. Also increased the change 
+- [ ] did a combination of height and width mul variation in combination with an alternation in varying this value. Also increased the reduction of the width to get less loop breaks / faster results
 ## Evaluate 
 - [x] reeval at 224k seed 05000 m 0.067
 - [x] Save the box size of the evaluated boxes
