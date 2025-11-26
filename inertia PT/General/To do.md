@@ -2,7 +2,7 @@
 - [x] Sonnentau ausgraben und umsetzen 
 - [ ] Bettwäsche wechseln 
 - [x] alten canon Drucker aus dem Handy entfernen 
-- [ ] Canon Drucker mit Laptop verbinden 
+- [x] Canon Drucker mit Laptop verbinden 
 - [x] Essen
 - [x] Spülmaschine
 - [x] Krafttraining
