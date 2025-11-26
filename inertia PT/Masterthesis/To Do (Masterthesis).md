@@ -246,9 +246,11 @@ region 	box block -${LxHalf} ${LxHalf} -${LyHalf} ${LyHalf} -0.5 0.5
 - [ ] add dependency to create-simulation - dependency of production run to equilibration run
 
 # Read
-- [ ] 
+- [ ] Feng2025~Theory for the anomalous phase behavior of inertial active Brownian particles
+	- [ ] + Supplement
+
 # Thesis
-- [ ] 
+- [ ] gescheiten Titel überlegen
 
 # Report
 <span style="color:red" > finish the Slides today </span>
