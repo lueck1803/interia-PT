@@ -3,7 +3,10 @@
 - use <span style="color:red;font-size:100%;">elicitation</span>: make statements instead of questions ⟹if the person needs to correct you, it gives you more information than by a question and more willingly/without any pressure 
 	- need to <span style="font-size:100%;color:red;">correct</span> a record 
 	- making a <span style="font-size:100%;color:red;">statement</span> afterwards: feels like they volunteering information 
-	- <span style="font-size:100%;color:red;">bracketing</span> 
+	- no questions no security alarms 
+	- reacting with <span style="font-size:100%;color:red;">disbelief</span>: you getting even more information out
+	- <span style="font-size:100%;color:red;">bracketing</span> : giving a series like between march and may or between 39 and 59
+	- how to start or continue a conversation on elifo
 - <span style="color:red">3s Pause</span> before Response to regain your <span style="color:green">emotional control</span> 
 - don't over explain. Be sure that your message is clear 
 ## Friedemann schulz von Thun 
