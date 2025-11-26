@@ -78,6 +78,7 @@
 - [ ] did a new strange branch... from phase-peak tune...
 - [ ] need to branch it...
 ## Evaluate 
+- [ ] reeval at 224k seed 05000 m 0.067
 - [ ] Save the box size of the evaluated boxes
 
 ## finite-size-scaling_phase-peak-pit-height-tune-algo 
