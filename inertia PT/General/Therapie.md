@@ -55,6 +55,31 @@ Der <span style="color:red;font-size:100%;">andere möchte</span> einen nicht nu
 # Achtsamkeit und Meditation 
 ## Meditation 
 - ich liebe <span style="color:hotpink">Meditation</span> 
+### Erkenntnisse
+#### 25-11-26
+Hallo Maria,
+ich habe deine Worte "manchmal hat man auch keine Lust [zu meditieren]" von gestern Abend etwas erforscht.
+
+Das hatte ich ja vereint, dass es das nicht war.
+
+Jetzt würde ich der Aussage schon zu stimmen, und sie mit etwas Kontext ergänzen bzw. das Wort "Lust" zu spezifizieren.
+
+Wenn es mir gut geht und ich eben unter Tatendrang bin, dann wollte ich das gute Gefühl, dass mich selbstwirksam fühlen nicht "abdämpfen".
+Mir sozusagen das zu "nehmen", in dem ich mich reguliere und mir damit etwas auferlege, nachdem Motto "ist mir doch lange genug nicht gut gegangen, ich muss jetzt die Zeit nutzen in der es mir gut geht und dabei produktiv sein, warum soll ich mir jetzt wieder etwas 'missgönnen', das habe ich ja mein Lebenlang gemacht" bzw. "ich kann mir das gerade nicht leisten, ich weiß nicht wie es mir in ein paar stunden oder morgen geht, jetzt muss ich die Zeit nutzen, um mir was gutes (langfristig oder auch kurzfristig) zu tun.
+
+Obwohl ich gleichzeitig sehr lust hatte zu meditieren und ich weiß dass es mir gut tut.
+
+Und mir insbesondere die Regulation der Hochs extrem hilft / helfen würde, eben weniger bis keine Tiefs mehr zu haben.
+Das ist ja gerade das Hauptproblem bei ADHS / Borderline.
+Dass man immer auch gerade bei den Hochs auf die Bremse treten muss, damit es einem dauerhaft besser geht.
+
+und gegen diesen Drang und auch die innere stimme, die zum einen etwas gutes für einen will, aber auch noch anteile hat "du musst die zeit für etwas produktives nutzen, du hast genug zeit 'verschwendet' / warst lange genug nicht in der Lage etwas zu tun / krank, du kannst es dir nicht leisten 'müsiggang' zuüben".
+
+Ich weiß das genau eben der Müsiggang (nicht negativ gemeint), wieder langsam und Achtsamkeit hineinzubringen sehr wichtig ist, um eben den Überblick zu behalten, dass es mir dauerhaft besser geht und ich mich die Gesundheit spüre.
+Und gerade da ist die Meditation wichtig.
+
+Und diesen Schalter umzulegen, braucht noch Zeit. Prinzipiell weiß ich es, hab ich es verstanden.
+Es ist aber genau diese Schwierigkeit auch dem guten Tatendrang erstmal zu widerstehen.
 ## Achtsamkeit
 ### why you can't finish simple tasks
 https://youtu.be/kQtV5IycoEo?si=qeQa8RoThrwcRFXN
