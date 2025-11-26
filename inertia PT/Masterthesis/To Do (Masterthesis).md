@@ -75,11 +75,12 @@
 	
 # Box Algo
 ## peak pit width tuning
-- [ ] did a new strange branch... from phase-peak tune...
-- [ ] need to branch it...
+- [x] did a new strange branch... from phase-peak tune...
+- [x] need to branch it...
+- [ ] did a combination of height and width mul variation
 ## Evaluate 
-- [ ] reeval at 224k seed 05000 m 0.067
-- [ ] Save the box size of the evaluated boxes
+- [x] reeval at 224k seed 05000 m 0.067
+- [x] Save the box size of the evaluated boxes
 
 ## finite-size-scaling_phase-peak-pit-height-tune-algo 
 new branch ⟹ fss_ppphta_ebox-fit-in-pp
