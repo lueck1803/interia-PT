@@ -256,7 +256,7 @@ region 	box block -${LxHalf} ${LxHalf} -${LyHalf} ${LyHalf} -0.5 0.5
 	- [ ] 112k different m: .06, .065, .067, .068, ~~.069~~ ⟹.07
 		- [ ] pictures of Δy Density Distribution 
 		- [ ] pictures for avg 
-		- [ ] pictures for peak 
+		- [x] pictures for peak 
 		      <span style="color:gold;font-size:100%;">⟹ the peak evaluation is depreciated for now!</span>
 		- [ ] square size max
 		- [ ] square size half
