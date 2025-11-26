@@ -6,7 +6,10 @@
 	- no questions no security alarms 
 	- reacting with <span style="font-size:100%;color:red;">disbelief</span>: you getting even more information out
 	- <span style="font-size:100%;color:red;">bracketing</span> : giving a series like between march and may or between 39 and 59
-	- how to start or continue a conversation on elifo
+	- how to start or continue a conversation on elicitation:
+		- "so..." And start a little recap: "so you have been doing this for three years ", "so this are not the best job of getting things done for you "
+		- "I bet..": "i bet that was interesting ", "i bet there were still some challenges there", " I bet you overcame a whole a lot to get at this point"
+		- 
 - <span style="color:red">3s Pause</span> before Response to regain your <span style="color:green">emotional control</span> 
 - don't over explain. Be sure that your message is clear 
 ## Friedemann schulz von Thun 
