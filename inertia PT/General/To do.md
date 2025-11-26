@@ -1,5 +1,6 @@
 - [ ] Erbsen kochen 
 - [ ] Sonnentau ausgraben und umsetzen 
+- [ ] Bettwäsche wechseln 
 - [x] Essen
 - [x] Spülmaschine
 - [x] Krafttraining
