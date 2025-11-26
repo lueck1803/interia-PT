@@ -1,5 +1,7 @@
 
 # Kommunikation 
+- use <span style="color:red;font-size:100%;">elicitation</span>: make statements instead of questions ⟹if the person needs to correct you, it gives you more information than by a question and more willingly/without any pressure 
+- 
 - <span style="color:red">3s Pause</span> before Response to regain your <span style="color:green">emotional control</span> 
 - don't over explain. Be sure that your message is clear 
 ## Friedemann schulz von Thun 
