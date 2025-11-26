@@ -9,7 +9,7 @@
 	- how to start or continue a conversation on elicitation:
 		- "so..." And start a little recap: "so you have been doing this for three years ", "so this are not the best job of getting things done for you "
 		- "I bet..": "i bet that was interesting ", "i bet there were still some challenges there", " I bet you overcame a whole a lot to get at this point"
-		- 
+	- the more sensitive the information is that you need, the less questions you need to be asking 
 - <span style="color:red">3s Pause</span> before Response to regain your <span style="color:green">emotional control</span> 
 - don't over explain. Be sure that your message is clear 
 ## Friedemann schulz von Thun 
