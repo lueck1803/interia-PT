@@ -60,6 +60,7 @@
 - [x] Medikament abholen 
 - [ ] Avocado 🥑 essen
 - [x] auberginen + tofu
+- [ ] mal wieder Hülsenfrüchte Tofu machen
 ## Bad
 - [x] Bart schneiden
 - [ ] Toilette putzen
