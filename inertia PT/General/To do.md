@@ -67,6 +67,7 @@
 	- [ ] mit genug Wasser aufkochen 
 	- [ ] etwas abkühlen lassen
 	- [ ] in Dose füllen und in den Kühlschrank 
+- [ ] von alter Pfanne griff abmontieren um sie als Brottopf zu benutzen 
 ## Bad
 - [x] Bart schneiden
 - [ ] Toilette putzen
