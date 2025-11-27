@@ -41,6 +41,8 @@
 - [ ] Schlagbohrmaschine 
 	- [ ] vielleicht tut es der Schlafakkuschrauber vom Aldi
 
+# Haushalt
+- [ ] Nach Gorenje WA 7439 schauen
 # Musik
 - [ ] Akustik Gitarre 
 - [ ] Gesangsmikrofon
