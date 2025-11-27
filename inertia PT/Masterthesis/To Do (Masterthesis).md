@@ -244,6 +244,7 @@ region 	box block -${LxHalf} ${LxHalf} -${LyHalf} ${LyHalf} -0.5 0.5
 		- [x] 5 eq
 		- [ ] 5 pr
 - [ ] add dependency to create-simulation - dependency of production run to equilibration run
+- [ ] ask why the equilibration run is still so slow in comparison to the production run by $ts=1^{-4}$ 
 
 # Read
 - [ ] Feng2025~Theory for the anomalous phase behavior of inertial active Brownian particles
