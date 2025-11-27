@@ -38,7 +38,7 @@
 	- Gutscheincode: TV9XS6Q3ZF
 # Werkzeug 
 - [ ] Schlagbohrmaschine 
-	- [ ] vielleicht tut es der s
+	- [ ] vielleicht tut es der Schlafakkuschrauber vom Aldi
 
 # Musik
 - [ ] Akustik Gitarre 
