@@ -39,7 +39,7 @@
 	- Gutscheincode: TV9XS6Q3ZF
 # Werkzeug 
 - [ ] Schlagbohrmaschine 
-	- [x] vielleicht tut es der Schlagakkuschrauber vom Aldi
+	- [ ] vielleicht tut es der Schlagakkuschrauber vom Aldi
 
 # Haushalt
 - [ ] Nach Gorenje WA 7439 schauen
