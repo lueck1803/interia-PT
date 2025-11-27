@@ -1,6 +1,6 @@
-- [ ] Erbsen kochen 
+- [x] Erbsen kochen 
 - [x] Sonnentau ausgraben und umsetzen 
-- [ ] Bettwäsche wechseln 
+- [x] Bettwäsche wechseln 
 - [x] alten canon Drucker aus dem Handy entfernen 
 - [x] Canon Drucker mit Laptop verbinden 
 - [x] Essen
@@ -37,13 +37,13 @@
 - [ ] to do aufräumen
 - [x] MFA für HRZ und PKM einrichten
 - [x] müll runter 
-- [ ] 
+- [ ] welcher Pfannenglasdeckel ist Ofenfest?
 
 # tägliches
 ## Küche
 - Arbeitsplatte
 	- [x] saugen
-	- [ ] wischen 
+	- [x] wischen 
 - Kartoffeln
 	- [x] waschen
 	- [x] schälen
@@ -161,7 +161,8 @@
 	- [ ] ist ein Brief in der Post?
 - [ ] Rundfunkbeitrag 
 - [x] Patientenakte anschauen ⟹ wie viele Seiten sind das? Doppelseitig? Lohnt sich das zur Digitalisierung den Drucker zu kaufen? Alleine wie genervt ich von dem Drucker bin.. und wie viel nervige Zeit es kostet Sachen einzuscannen und dann ist das nicht gerade und schön. Auch das Scannen an den pc ist ne Katastrophe mit dem hp
-- [ ] Drucker in ebay Kleinanzeigen stellen 
+- [x] Drucker in ebay Kleinanzeigen stellen 
+	- gebe den Drucker Bilge 
 - [x] alten Drucker abbauen 
 - [x] neuen Drucker aufbauen 
 
@@ -208,7 +209,7 @@
 	- [ ] honig in heißem Wasser verrühren ⟹nur rein dippen
 	- [ ] 5 tropfen Apfelessig in auf eine halbe Tasse Wasser ⟹ nur dippen 
 	- [ ] Bananenschalen (bio) wasser 24h einweichen 
-- [ ] carnivoren umsetzen 
+- [x] carnivoren umsetzen 
 ## Musik
 - [ ] soon departed auf +70% spielen 
 - [ ] mir die neuen Chor Stücke anschauen 

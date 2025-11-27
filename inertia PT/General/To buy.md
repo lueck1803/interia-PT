@@ -47,7 +47,9 @@
 - schöne eckige Glassschüssel für die carnivoren 
 	- [ ] vom buttlers
 	- [ ] Depot 
-	-  ich hab diese Glaskaraffe
+	-  ich hab diese Glaskaraffe⟹da ist jetzt die rote sarazenia drin
+- [ ] Rindenmulch
+- [ ] Quarzsand 
 - [x] carnivoren set
 
 # Nähen
