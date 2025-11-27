@@ -45,7 +45,7 @@
 - [ ] duschen
 - [ ] um Teig kümmern
 - [ ] Wäsche zusammen legen
-- [ ] 
+- [ ] Tastatur wischen
 
 # tägliches
 ## Küche
