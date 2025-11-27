@@ -254,6 +254,7 @@ echo "Stage 3 jobs submitted: $jid1 → $jid2 → $jid3"
 ```
 
 -  Jeder Job wird zugewiesen, z.B. jid1, jid2, ... und der folgende Job muss auf das OK des vorherigen warten, d. h. dass er abgeschlossen ist. Das wird gemacht mit `--dependency=afterok`.
+	- There has to be the possibility to set up equilibration and production at the same time where the 
 - [ ] ask why the equilibration run is still so slow in comparison to the production run by $ts=1^{-4}$ 
 
 # Read
