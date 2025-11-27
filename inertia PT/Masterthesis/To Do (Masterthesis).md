@@ -250,7 +250,7 @@ region 	box block -${LxHalf} ${LxHalf} -${LyHalf} ${LyHalf} -0.5 0.5
 	- [ ] + Supplement
 
 # Thesis
-- [ ] gescheiten Titel überlegen
+- [ ] gescheiten Titel überlegen ⟹ criticauniversality of underdamped brownian particalesnon equilibrium 
 
 # Report
 <span style="color:red" > finish the Slides today </span>
