@@ -189,6 +189,9 @@
 - [ ] dusche dampfen
 - [ ] Uhr reparieren 
 - [ ] Sauerteig auffrischen 
+- Fermentieren
+	- [ ] Knoblauch 
+	- [ ] Gemüse 
 - [x] Klarspüler clip zurecht schneiden/schleifen 
 	- hat ganz gut geklappt mit der kleinen Akkuflex 
 

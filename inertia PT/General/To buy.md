@@ -26,7 +26,7 @@
 - [x] Hafermilch 
 - [x] Dosentomaten 
 - [x] Pesto 
-- [ ] 
+- [ ] Roggenmehl 
 # Technik
 - [x] Logitech Z207
 - [ ] Grafikkarte 
@@ -36,6 +36,9 @@
 - [x] Canon Pixma TS9550a + auffülbare Patronen 
 - [x] Drucker https://www.voelkner.de/checkout/step2.html
 	- Gutscheincode: TV9XS6Q3ZF
+# Werkzeug 
+- [ ] Schlagbohrmaschine 
+	- [ ] vielleicht tut es der s
 
 # Musik
 - [ ] Akustik Gitarre 
