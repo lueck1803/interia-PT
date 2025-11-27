@@ -3,6 +3,8 @@
 - [x] Silikonbackpinsel 
 - [ ] kleinen Schneebesen 
 - [ ] Papierklammern 
+- [ ] gärkorb
+
 # Lebensmittel 
 - [x] Leinsamen 
 - [x] Gelbflossen Thun in Olivenöl
