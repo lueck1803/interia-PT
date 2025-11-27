@@ -252,7 +252,8 @@ jid2=$(sbatch --parsable --dependency=afterok:$jid1 impact_sol${NUM}2.sh)
 jid3=$(sbatch --parsable --dependency=afterok:$jid2 impact_sol${NUM}_3.sh)
 echo "Stage 3 jobs submitted: $jid1 → $jid2 → $jid3"
 ```
-- Jeder Job wird zugewiese, z.B. jid1, jid2, ... und der folgende Job muss auf das OK des vorherigen warten, d. h. dass er abgeschlossen ist. Das wird gemacht mit --dependency=afterok.
+
+-  Jeder Job wird zugewiesen, z.B. jid1, jid2, ... und der folgende Job muss auf das OK des vorherigen warten, d. h. dass er abgeschlossen ist. Das wird gemacht mit `--dependency=afterok`.
 - [ ] ask why the equilibration run is still so slow in comparison to the production run by $ts=1^{-4}$ 
 
 # Read
