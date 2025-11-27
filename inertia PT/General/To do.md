@@ -1,3 +1,6 @@
+- In Kühlschrank
+	- [ ] Nudeln
+	- [ ] Erbsen
 - [x] Erbsen kochen 
 - [x] Sonnentau ausgraben und umsetzen 
 - [x] Bettwäsche wechseln 
@@ -38,6 +41,7 @@
 - [x] MFA für HRZ und PKM einrichten
 - [x] müll runter 
 - [ ] welcher Pfannenglasdeckel ist Ofenfest?
+- [ ] passendes Gärkorbset suchen
 
 # tägliches
 ## Küche
