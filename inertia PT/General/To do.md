@@ -1,6 +1,6 @@
 - In Kühlschrank
-	- [ ] Nudeln
-	- [ ] Erbsen
+	- [x] Nudeln
+	- [x] Erbsen
 - [x] Erbsen kochen 
 - [x] Sonnentau ausgraben und umsetzen 
 - [x] Bettwäsche wechseln 
@@ -42,6 +42,10 @@
 - [x] müll runter 
 - [ ] welcher Pfannenglasdeckel ist Ofenfest?
 - [ ] passendes Gärkorbset suchen
+- [ ] duschen
+- [ ] um Teig kümmern
+- [ ] Wäsche zusammen legen
+- [ ] 
 
 # tägliches
 ## Küche
