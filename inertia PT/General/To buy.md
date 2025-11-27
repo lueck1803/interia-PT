@@ -3,7 +3,8 @@
 - [x] Silikonbackpinsel 
 - [ ] kleinen Schneebesen 
 - [ ] Papierklammern 
-- [ ] gärkorb
+- [ ] Gärkorb
+- [ ] Schmortopf (wie es den mal im Aldi gab unteranderem zum Brotbacken)
 
 # Lebensmittel 
 - [x] Leinsamen 
