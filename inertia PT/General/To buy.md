@@ -43,6 +43,7 @@
 
 # Haushalt
 - [ ] Nach Gorenje WA 7439 schauen
+- [ ] Glasdose (für Kichererbsen tofu)
 # Musik
 - [ ] Akustik Gitarre 
 - [ ] Gesangsmikrofon
