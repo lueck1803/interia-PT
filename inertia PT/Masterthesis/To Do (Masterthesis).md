@@ -243,7 +243,7 @@ region 	box block -${LxHalf} ${LxHalf} -${LyHalf} ${LyHalf} -0.5 0.5
 		- [ ] 4 pr
 		- [x] 5 eq
 		- [ ] 5 pr
-- [ ] add dependency to create-simulation - dependency of production run to equilibration run
+- [x] add dependency to create-simulation - dependency of production run to equilibration run
 	-  Hier ein Beispiel: 
 ```{SLURM}
 #!/bin/bash
@@ -255,6 +255,7 @@ echo "Stage 3 jobs submitted: $jid1 → $jid2 → $jid3"
 
 -  Jeder Job wird zugewiesen, z.B. jid1, jid2, ... und der folgende Job muss auf das OK des vorherigen warten, d. h. dass er abgeschlossen ist. Das wird gemacht mit `--dependency=afterok`.
 	- There has to be the possibility to set up equilibration and production at the same time where the number of cores for the equilibration run will be divided by 8 (make sure that its an integer)
+	- <span style="font-size:200%;color:red;"></span>
 - [ ] ask why the equilibration run is still so slow in comparison to the production run by $ts=1^{-4}$ 
 
 # Read
