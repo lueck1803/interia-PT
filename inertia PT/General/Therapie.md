@@ -189,6 +189,7 @@ These don't just cover up distraction, they retrain your brain to complete the l
 
 
 # Beziehung 
+- Arooj
 - Arooj ist mir zum Glück mittlerweile echt <span style="color:coral">pups egal</span>
 - https://youtu.be/M89JdPgsgwg?si=Z2nvtOUVKNpVSWIH
 	- emotionale Sicherheit 
