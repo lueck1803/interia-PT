@@ -13,7 +13,7 @@
 - <span style="color:red">3s Pause</span> before Response to regain your <span style="color:green">emotional control</span> 
 - don't over explain. Be sure that your message is clear 
 ## Friedemann schulz von Thun 
-https://www.youtube.com/watch?v=jPAjmlkXf48&t=4659s
+https://www.youtube.com/watch?v=jPAjmlkXf48&t=33m00s
 
 Aussage des Vaters von Friedemann:
 > [!Aussage ]
