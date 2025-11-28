@@ -197,7 +197,8 @@
 	- [ ] mini outdoor Gewächshaus 
 - [ ] dusche dampfen
 - [ ] Uhr reparieren 
-- [ ] Sauerteig auffrischen 
+- [x] Sauerteig auffrischen 
+      <span style="font-size:100%;color:gold;">⟹Egal in irgendein Fladenbrot hauen und dann egal</span> Ist <span style="font-size:100%;color:red;">Ablenkung</span> Wenn ich leckeres Brot gehe, dann gehe ich zum Bäcker und stopfe mein Gehirn nicht mit unwichtigem Zeug voll
 - Fermentieren
 	- [ ] Knoblauch 
 	- [ ] Gemüse 
@@ -226,8 +227,8 @@
 	- [ ] Alles bis dahin auf 60% perfektionieren und dann auf 70% hoch 
 	- [ ] pull off hammer on tabbing solo anschauen <span style="color:red;font-size:100%;">Transition</span> + <span style="color:red;font-size:100%;">Solo A</span>
 	- [ ] melodie solo anfang <span style="color:red;font-size:100%;">Solo B</span>
-- [ ] neue Boxen auf Sofa neben Router 
-- [ ] pod go neben sofa stellen und dort an den strom anschließen 
+- [x] neue Boxen auf Sofa neben Router 
+- [x] pod go neben sofa stellen und dort an den strom anschließen 
 ## Lesen und Hören
 - [ ] Universum in einem einzigen Atom 
 ## Filme, Serien und Dokus

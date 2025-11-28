@@ -3,8 +3,10 @@
 - [x] Silikonbackpinsel 
 - [ ] kleinen Schneebesen 
 - [ ] Papierklammern 
-- [ ] Gärkorb
-- [ ] Schmortopf (wie es den mal im Aldi gab unteranderem zum Brotbacken)
+- [x] Gärkorb
+      ⟹<span style="font-size:100%;color:gold;">ne unwichtig</span> <span style="font-size:100%;color:red;">Ablenkung</span>
+- [x] Schmortopf (wie es den mal im Aldi gab unteranderem zum Brotbacken)
+      ⟹<span style="font-size:100%;color:gold;">auch egal</span> <span style="font-size:100%;color:red;">Ablenkung</span>
 
 # Lebensmittel 
 - [x] Leinsamen 
