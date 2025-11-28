@@ -247,6 +247,7 @@ region 	box block -${LxHalf} ${LxHalf} -${LyHalf} ${LyHalf} -0.5 0.5
 - [ ] add some something like a progress bar / time estimation
 - [ ] a checker which simulations are finished 
 - [ ] a little GUI, where you can see all the data you already have
+- [ ] modify it that it does not run on the cluster... it need to connect via sftp to do the stuff... would be better...
 - [x] add dependency to create-simulation - dependency of production run to equilibration run
 	-  Hier ein Beispiel: 
 ```{SLURM}
