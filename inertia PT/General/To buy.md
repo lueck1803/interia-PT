@@ -13,7 +13,11 @@
 - [ ] Nutella 
 - [ ] schmelzkäse
 - [ ] obst
-- [ ] 
+- [ ] 550iger mehl
+- [ ] Pier 
+- [ ] frische Hefe 
+- [ ] Tomaten
+- [ ] Advocado 
 - [x] Leinsamen 
 - [x] Gelbflossen Thun in Olivenöl
 - [x] Käse 
