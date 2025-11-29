@@ -9,15 +9,15 @@
       ⟹<span style="font-size:100%;color:gold;">auch egal</span> <span style="font-size:100%;color:red;">Ablenkung</span>
 
 # Lebensmittel 
-- [ ] nuss mix
-- [ ] Nutella 
-- [ ] schmelzkäse
-- [ ] obst
-- [ ] 550iger mehl
-- [ ] Pier 
-- [ ] frische Hefe 
-- [ ] Tomaten
-- [ ] Advocado 
+- [x] nuss mix
+- [x] Nutella 
+- [x] schmelzkäse
+- [x] obst
+- [x] 550iger mehl
+- [x] Pier 
+- [x] frische Hefe 
+- [x] Tomaten
+- [x] Advocado 
 - [x] Leinsamen 
 - [x] Gelbflossen Thun in Olivenöl
 - [x] Käse 
