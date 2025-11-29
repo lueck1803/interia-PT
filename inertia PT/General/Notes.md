@@ -3,9 +3,9 @@
 # Arbeit
 -  
 # Tage infolge Produktiv
-Tage prodiktiv gewesen:
+Tage produktiv gewesen:
 ||||/ ||||/ ||||/ ||||/
-||||/ ||||/ ||||
+||||/ ||||/ ||||/ 
 
 # Backen und kochen
 - <span style="color:gold">ei steif schlagen</span> 
