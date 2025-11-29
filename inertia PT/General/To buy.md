@@ -9,6 +9,8 @@
       ⟹<span style="font-size:100%;color:gold;">auch egal</span> <span style="font-size:100%;color:red;">Ablenkung</span>
 
 # Lebensmittel 
+- [ ] nuss mix
+- [ ] Nutella 
 - [x] Leinsamen 
 - [x] Gelbflossen Thun in Olivenöl
 - [x] Käse 
@@ -18,18 +20,17 @@
 - [x] Pesto
 - [x] Thunfisch
 - [x] Fusilli
-- [x] nuss mix
 - [x] hummus 
 - [x] pirnen
 - [x] Maronen 
-- [ ] Nutella 
 - [x] Toast 
 - [x] Fussili
 - [x] Lokosschade
 - [x] Hafermilch 
 - [x] Dosentomaten 
 - [x] Pesto 
-- [ ] Roggenmehl 
+- [x] Roggenmehl 
+- [ ] 
 # Technik
 - [x] Logitech Z207
 - [ ] Grafikkarte 
