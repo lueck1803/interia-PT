@@ -11,6 +11,9 @@
 # Lebensmittel 
 - [ ] nuss mix
 - [ ] Nutella 
+- [ ] schmelzkäse
+- [ ] obst
+- [ ] 
 - [x] Leinsamen 
 - [x] Gelbflossen Thun in Olivenöl
 - [x] Käse 
