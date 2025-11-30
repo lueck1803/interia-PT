@@ -192,45 +192,66 @@ These don't just cover up distraction, they retrain your brain to complete the l
 - ich möchte eine ehrliche offene Partnerschaft auf Augenhöhe, ich wünsche mir dass man für einander da ist, sich versteht, sich vergibt und für die Träume des anderen einsteht. Ich möchte eine Familie und Kinder. Dafür möchte ich alles tun.
 - Ja so sehe ich es ja auch.🙏
 
-- Es kamen da nur diese Gedanken/Gefühl 😢 gestern als ich drüber nachgedacht.
+Es kamen da nur diese Gedanken/Gefühl 😢 gestern als ich drüber nachgedacht.
 
-- Es sind halt die zwei Seiten der Medaille und ich kann das manchmal nicht auseinander halten😢.
+Es sind halt die zwei Seiten der Medaille und ich kann das manchmal nicht auseinander halten😢.
 
-- Es ist auch meistens eher noch "ich bin nicht gut genug"
-  Habe nicht 100% meine Gefühle unter Kontrolle wenn sie mir Vorwürfe macht oder zurückweisend ist. 
+Es ist auch meistens eher noch "ich bin nicht gut genug"
+Habe nicht 100% meine Gefühle unter Kontrolle wenn sie mir Vorwürfe macht oder zurückweisend ist. 
 
-- Ich dann eben nicht so stark über mir stehe wie ich das die meiste Zeit bin wenn ich versöhnlich und im großen und ganzen denke.
-  Da habe ich den Überblick über alles was war. 
-  Bin in mir ruhend, beruhigend und habe das Gefühl das ich alles was kommt ertragen und auf mich nehmen kann.
-  Da ich nicht bei meinem Schmerz bin, sondern bei ihr, ich hab so großes Mitgefühl für sie, ich spüre dann wie sie sich gefühlt haben muss bei diesen und jenen Momenten.
-  Ich fühle das alles gleichzeitig.
-  Ich kenn sie ja sehr gut.
-  Es tut mir auch so leid dass ich nicht so sein konnte wie ich es ja selbst wollte.
-  Ich hätte auch gerne gewisse Dinge getan.
-  Es war halt so schwer herauszufinden was mit mir ist und wie ich funktioniere. 
-  Mir ging es körperlich auch richtig schlecht. Es geht mir auch immer noch ab und zu körperlich schlecht. Da habe ich es aber geschafft es auf sehr selten zu reduzieren.
-  Ist halt auch nicht ganz so einfach mit den Medikamenten.
-- Ich fühle mich aber so schuldig, dass es mir nicht gut genug ging. Ich nicht so gut an unseren und ihren Träumen arbeiten konnte.
-- Aber manchmal ist sie auch so unglaublich stur und interpretiert alles als nein...
-  Auch wenn es nur ein Realismus check ist oder ich erst Mal überlegen, planen und mir mit etwas Zeit lassen will, denn manchmal kommen die besseren Ideen erst mit der Zeit. 
-- Das ist für sie dann aber bremsen, geizig oder ein nein...
-- Und ich fühle mich dann auch schlecht und denke ich bin jetzt nicht schnell genug...
-- Dabei lässt sie sich mit manchen Entscheidungen auch Zeit...
-- Ich hab's echt nicht verstanden warum ich dafür dann diese Unzufriedenheit und Verachtung erfahren habe. 
-- Ich hab mir beim aussuchen der Teller die sie dann plötzlich wollte auch viel Zeit gelassen und mir voll viel Mühe gegeben...
-- Die teller meiner Oma sind mit der Zeit mehr und mehr kaputt gegangen, ich wollte neue und ähnliche.
-- Dann hab ich mich über zwei Wochen damit beschäftigt. Hab dann an nem Tag noch Läden abgeklappert. 
-- Hab Arooj diese Teller gezeigt auch wenn die nicht so sind wie die von meiner Oma. Dann sind wir nochmal zusammen hin, haben noch nach den kleinen Tellern geschaut, ner Lampe für die Küche, und nach nem Klo Deckel (Arooj have hätte am liebsten den einen klo Deckel gekauft der war recht teuer glaube fast 60€ und hatte eine Funktion weniger als einer der ein ganzes Stück günstiger war, ich wollte halt die Funktion verstehen - ich fand die wichtig - und hab mir bei so ner Entscheidung lieber Zeit gelassen... Ist bei der Toilette auch nicht so einfach einen anzubringen.. sie muss es dann ja nicht machen und kann das nicht absehen, aber ich spüre dann diese Ungeduld und als würde es mir um das Geld gehen... Und ja warum sollte man es nicht optimieren...)
-- Auch mit dem Bett...
-- Aber auch mit den Wäsche Körben..
-- Ich kam mir dann vor als wäre ich kein "Macher"... Ja ich fang halt nicht draus los an...
-- Und rede halt vorher gerne drüber und plane...
-- Als wäre das was schlechtes...
-- Ich hab nach Neujahr auch den Staubsauger repariert...
-- Wir hatten uns vorher gemeinsam um den Kabeleinzug gekümmert.
-- Und dann ist Arooj beim saugen, da war sie auch etwas aggro.. ich war halt krank an Silvester und sie ist halt am 1.1 zu ihrer Familie gefahren und wollte dann aufräumen... Sie macht das manchmal in so einer Art 🥴, da kommt man sich dann vor als wollte man es selbst nicht sauber haben.
-- Sie räumt dann rum und ist dann noch sauer. 
-- Ich hab den Schlauch gekürzt als sie weg war und hab den wieder angeklebt. Hält bis heute. 
+Ich dann eben nicht so stark über mir stehe wie ich das die meiste Zeit bin wenn ich versöhnlich und im großen und ganzen denke.
+Da habe ich den Überblick über alles was war. 
+Bin in mir ruhend, beruhigend und habe das Gefühl das ich alles was kommt ertragen und auf mich nehmen kann.
+Da ich nicht bei meinem Schmerz bin, sondern bei ihr, ich hab so großes Mitgefühl für sie, ich spüre dann wie sie sich gefühlt haben muss bei diesen und jenen Momenten.
+Ich fühle das alles gleichzeitig.
+
+Ich kenn sie ja sehr gut.
+
+Es tut mir auch so leid dass ich nicht so sein konnte wie ich es ja selbst wollte.
+Ich hätte auch gerne gewisse Dinge getan.
+Es war halt so schwer herauszufinden was mit mir ist und wie ich funktioniere. 
+Mir ging es körperlich auch richtig schlecht.
+Es geht mir auch immer noch ab und zu körperlich schlecht.
+Da habe ich es aber geschafft es auf sehr selten zu reduzieren.
+
+Ist halt auch nicht ganz so einfach mit den Medikamenten.
+
+Ich fühle mich aber so schuldig, dass es mir nicht gut genug ging.
+Ich nicht so gut an unseren und ihren Träumen arbeiten konnte.
+
+Aber manchmal ist sie auch so unglaublich stur und interpretiert alles als nein...
+Auch wenn es nur ein Realismus check ist oder ich erst Mal überlegen, planen und mir mit etwas Zeit lassen will, denn manchmal kommen die besseren Ideen erst mit der Zeit. 
+
+Das ist für sie dann aber bremsen, geizig oder ein nein...
+
+Und ich fühle mich dann auch schlecht und denke ich bin jetzt nicht schnell genug...
+
+Dabei lässt sie sich mit manchen Entscheidungen auch Zeit...
+
+Ich hab's echt nicht verstanden warum ich dafür dann diese Unzufriedenheit und Verachtung erfahren habe. 
+
+Ich hab mir beim aussuchen der Teller die sie dann plötzlich wollte auch viel Zeit gelassen und mir voll viel Mühe gegeben...
+
+Die teller meiner Oma sind mit der Zeit mehr und mehr kaputt gegangen, ich wollte neue und ähnliche.
+
+Dann hab ich mich über zwei Wochen damit beschäftigt. Hab dann an nem Tag noch Läden abgeklappert. 
+Hab Arooj diese Teller gezeigt auch wenn die nicht so sind wie die von meiner Oma. Dann sind wir nochmal zusammen hin, haben noch nach den kleinen Tellern geschaut, ner Lampe für die Küche, und nach nem Klo Deckel (Arooj have hätte am liebsten den einen klo Deckel gekauft der war recht teuer glaube fast 60€ und hatte eine Funktion weniger als einer der ein ganzes Stück günstiger war, ich wollte halt die Funktion verstehen - ich fand die wichtig - und hab mir bei so ner Entscheidung lieber Zeit gelassen... Ist bei der Toilette auch nicht so einfach einen anzubringen.. sie muss es dann ja nicht machen und kann das nicht absehen, aber ich spüre dann diese Ungeduld und als würde es mir um das Geld gehen... Und ja warum sollte man es nicht optimieren...)
+
+Auch mit dem Bett...
+Aber auch mit den Wäsche Körben..
+
+Ich kam mir dann vor als wäre ich kein "Macher"... Ja ich fang halt nicht draus los an...
+Und rede halt vorher gerne drüber und plane...
+Als wäre das was schlechtes...
+
+Ich hab nach Neujahr auch den Staubsauger repariert...
+Wir hatten uns vorher gemeinsam um den Kabeleinzug gekümmert.
+Und dann ist Arooj beim saugen, da war sie auch etwas aggro.. ich war halt krank an Silvester und sie ist halt am 1.1 zu ihrer Familie gefahren und wollte dann aufräumen... Sie macht das manchmal in so einer Art 🥴, da kommt man sich dann vor als wollte man es selbst nicht sauber haben.
+Sie räumt dann rum und ist dann noch sauer. 
+
+Ich hab den Schlauch gekürzt als sie weg war und hab den wieder angeklebt.
+
+Hält bis heute. 
 Und ich hab noch nen neuen Staubsauger in der Zeit im Aldi gekauft.
 Obwohl ich krank war. Eigentlich bis sie wieder kam.
 
