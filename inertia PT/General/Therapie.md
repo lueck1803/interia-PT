@@ -230,8 +230,7 @@ These don't just cover up distraction, they retrain your brain to complete the l
 - Wir hatten uns vorher gemeinsam um den Kabeleinzug gekümmert.
 - Und dann ist Arooj beim saugen, da war sie auch etwas aggro.. ich war halt krank an Silvester und sie ist halt am 1.1 zu ihrer Familie gefahren und wollte dann aufräumen... Sie macht das manchmal in so einer Art 🥴, da kommt man sich dann vor als wollte man es selbst nicht sauber haben.
 - Sie räumt dann rum und ist dann noch sauer. 
-- Ich hab den Schlauch gekürzt als sie weg war und hab den wieder angeklebt.
-Hält bis heute. 
+- Ich hab den Schlauch gekürzt als sie weg war und hab den wieder angeklebt. Hält bis heute. 
 Und ich hab noch nen neuen Staubsauger in der Zeit im Aldi gekauft.
 Obwohl ich krank war. Eigentlich bis sie wieder kam.
 
