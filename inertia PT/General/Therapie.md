@@ -190,6 +190,159 @@ These don't just cover up distraction, they retrain your brain to complete the l
 
 # Beziehung 
 - ich möchte eine ehrliche offene Partnerschaft auf Augenhöhe, ich wünsche mir dass man für einander da ist, sich versteht, sich vergibt und für die Träume des anderen einsteht. Ich möchte eine Familie und Kinder. Dafür möchte ich alles tun.
+- Ja so sehe ich es ja auch.🙏
+
+Es kamen da nur diese Gedanken/Gefühl 😢 gestern als ich drüber nachgedacht.
+
+Es sind halt die zwei Seiten der Medaille und ich kann das manchmal nicht auseinander halten😢.
+
+Es ist auch meistens eher noch "ich bin nicht gut genug"
+Habe nicht 100% meine Gefühle unter Kontrolle wenn sie mir Vorwürfe macht oder zurückweisend ist. 
+
+Ich dann eben nicht so stark über mir stehe wie ich das die meiste Zeit bin wenn ich versöhnlich und im großen und ganzen denke.
+Da habe ich den Überblick über alles was war. 
+Bin in mir ruhend, beruhigend und habe das Gefühl das ich alles was kommt ertragen und auf mich nehmen kann.
+Da ich nicht bei meinem Schmerz bin, sondern bei ihr, ich hab so großes Mitgefühl für sie, ich spüre dann wie sie sich gefühlt haben muss bei diesen und jenen Momenten.
+Ich fühle das alles gleichzeitig.
+
+Ich kenn sie ja sehr gut.
+
+Es tut mir auch so leid dass ich nicht so sein konnte wie ich es ja selbst wollte.
+Ich hätte auch gerne gewisse Dinge getan.
+Es war halt so schwer herauszufinden was mit mir ist und wie ich funktioniere. 
+Mir ging es körperlich auch richtig schlecht.
+Es geht mir auch immer noch ab und zu körperlich schlecht.
+Da habe ich es aber geschafft es auf sehr selten zu reduzieren.
+
+Ist halt auch nicht ganz so einfach mit den Medikamenten.
+
+Ich fühle mich aber so schuldig, dass es mir nicht gut genug ging.
+Ich nicht so gut an unseren und ihren Träumen arbeiten konnte.
+
+Aber manchmal ist sie auch so unglaublich stur und interpretiert alles als nein...
+Auch wenn es nur ein Realismus check ist oder ich erst Mal überlegen, planen und mir mit etwas Zeit lassen will, denn manchmal kommen die besseren Ideen erst mit der Zeit. 
+
+Das ist für sie dann aber bremsen, geizig oder ein nein...
+
+Und ich fühle mich dann auch schlecht und denke ich bin jetzt nicht schnell genug...
+
+Dabei lässt sie sich mit manchen Entscheidungen auch Zeit...
+
+Ich hab's echt nicht verstanden warum ich dafür dann diese Unzufriedenheit und Verachtung erfahren habe. 
+
+Ich hab mir beim aussuchen der Teller die sie dann plötzlich wollte auch viel Zeit gelassen und mir voll viel Mühe gegeben...
+
+Die teller meiner Oma sind mit der Zeit mehr und mehr kaputt gegangen, ich wollte neue und ähnliche.
+
+Dann hab ich mich über zwei Wochen damit beschäftigt. Hab dann an nem Tag noch Läden abgeklappert. 
+Hab Arooj diese Teller gezeigt auch wenn die nicht so sind wie die von meiner Oma. Dann sind wir nochmal zusammen hin, haben noch nach den kleinen Tellern geschaut, ner Lampe für die Küche, und nach nem Klo Deckel (Arooj have hätte am liebsten den einen klo Deckel gekauft der war recht teuer glaube fast 60€ und hatte eine Funktion weniger als einer der ein ganzes Stück günstiger war, ich wollte halt die Funktion verstehen - ich fand die wichtig - und hab mir bei so ner Entscheidung lieber Zeit gelassen... Ist bei der Toilette auch nicht so einfach einen anzubringen.. sie muss es dann ja nicht machen und kann das nicht absehen, aber ich spüre dann diese Ungeduld und als würde es mir um das Geld gehen... Und ja warum sollte man es nicht optimieren...)
+
+Auch mit dem Bett...
+Aber auch mit den Wäsche Körben..
+
+Ich kam mir dann vor als wäre ich kein "Macher"... Ja ich fang halt nicht draus los an...
+Und rede halt vorher gerne drüber und plane...
+Als wäre das was schlechtes...
+
+Ich hab nach Neujahr auch den Staubsauger repariert...
+Wir hatten uns vorher gemeinsam um den Kabeleinzug gekümmert.
+Und dann ist Arooj beim saugen, da war sie auch etwas aggro.. ich war halt krank an Silvester und sie ist halt am 1.1 zu ihrer Familie gefahren und wollte dann aufräumen... Sie macht das manchmal in so einer Art 🥴, da kommt man sich dann vor als wollte man es selbst nicht sauber haben.
+Sie räumt dann rum und ist dann noch sauer. 
+
+Ich hab den Schlauch gekürzt als sie weg war und hab den wieder angeklebt.
+
+Hält bis heute. 
+Und ich hab noch nen neuen Staubsauger in der Zeit im Aldi gekauft.
+Obwohl ich krank war. Eigentlich bis sie wieder kam.
+
+Ich wollte dann ja auch mit ihr sprechen, das hat auch geklappt, war aber voll aufgezwungen so hat sich das angefühlt und das Thema Bilder hab ich mir dann auch nicht getraut anzusprechen wie angespannt sie da wirkte...
+Hat schon auch was gemacht dass sie da 4 Tage bei ihrer Familie war. 
+
+Ich weiß gar nicht warum ich mich eigentlich so schlecht und Schuldig fühle...
+
+Ich bin nicht schlecht.
+Ich hab echt alles probiert und gemacht und mich immer wieder nicht genug gefühlt.
+Und sie hat auch für diese Atmosphäre gesorgt...
+
+Ich hab regelmäßig über Themen sprechen wollen...
+War ihr aber dann so als wäre ich schwierig und bräuchte das.
+
+Ich glaube sie hat einfach gar keine Ahnung wie schätzenswert ich bin. 
+
+Ist ja auch total wirr bei ihr...
+
+So sehr wie sie mich dann gerne hat und allen sagt wie toll ich bin und bzgl ihrer Freundinnen sagt, was die alles falsch machen und sie froh ist das wir uns haben und das so unkompliziert ist. 
+
+Zack kurz darauf ist es anders...😵‍💫
+Was stimmt denn nun...
+
+Und ich vergesse dann immer was ich alles Gutes tue und bin. 
+
+Und bin nur am mich erklären und rechtfertigen statt dass ich gerade zu mir stehe...
+
+Und dann werde ich für das erklären noch gehasst.
+Dass ich ja manipuliere und mich gerne reden höre 😭😵‍💫.
+Ich immer Ausreden habe. 
+
+Und was sollte eigentlich all ihr Verhalten wegen ihren Sachen.
+
+Ich dachte am Ende wirklich ich hätte was falsch gemacht, wäre anstrengend und das Problem.
+
+Nur weil ich halt mal Grenzen gesetzt habe und auch mal wütend war. 
+
+Dann auch nicht verstanden habe was das Foto von ihrem Regenschirm sollte...
+Ich komplett verwirrt war in der Woche.
+Sie zwingt mir den Termin auf.
+Ist dann noch sauer "weil ich mich angeblich gar nicht mehr melde". Geht dann einfach in die Wohnung und stellt es dann noch da als wäre ich selbst Schuld und noch daran Schuld dass ihre Freundin mit Kind warten musste... Warum auch immer die wegen dem Kram überhaupt du 3. Kamen 😵‍💫....
+Im Endeffekt war es das Beste das ich nicht da war...
+Ich wäre gestorben...
+Als bräuchte sie Schutz vor mir gefährlichem Mensch.
+Und dann habe ich noch narrative über die Nachbarin erzählt...
+Ne habe ich nicht.
+Dazu habe ich mich dann aber nicht mehr gerechtfertigt.
+
+Und dann will ich mich am liebsten umbringen...
+Das war echt keine schöne Zeit. 
+
+Und ich bin so krank und vermisse sie so sehr und fühle mich noch schuldig.
+
+Ich denke mir dass ich sie aufgehalten und behindert habe. 
+Sie jetzt endlich frei ist und ihr Leben genießen kann. 
+Ich sie nur belastet habe. 
+
+Kein aktives Leben leben zu können.😵‍💫
+
+Sie jetzt bestimmt jemanden anderes hat. 
+Total glücklich ist und ne Familie gründet.
+Wo ich ja auch das Problem war ...
+
+Wenn ich ihr ne Mail schreibe...
+Ne...
+Bringt doch nix. Jedes Wort ist zu viel.
+
+Jedes Wort ist falsch und wird als Vorwurf gesehen egal wie. 
+
+Und dann werde ich eh wieder unterwürfig, schwach, bettle und habe schuldgefühle.
+
+Daher werde ich nie bereit sein.🤷‍♂️
+Danke 🥰🙏
+Danke dass ihr für mich da seid.
+
+Und ich nicht an allem schuld und schlecht bin.😭
+Ich muss einfach einsehen dass ich zu lange zu nett war, meine Grenzen nicht gewahrt habe, nicht klar genug geblieben bin bzgl Aroojs Fehlverhalten und meinen Wert nicht gesehen habe
+Sie ist doch nicht Frau genug, um dauerhaft dazu zu stehen dass sie was falsch gemacht hat und mich dann doch vermisst.
+
+Zwei Mal hatte sie jetzt so nen wenige Tage andauernden Moment.
+Aber muss ich dafür immer sauer sein und bestimmt...
+Gibt's nix dazwischen...?
+Ich weiß ja eh nicht was in und bei ihr abgeht.
+
+Ich kann jedenfalls nicht auf sie zu gehen.
+Mail schreiben mache ich nicht.
+
+Keine Ahnung ob sie auf der Adventsfeier vom bot. Garten ist. 
+Egal 🤷‍♂️ ich gehe trotzdem hin und halte halt Abstand
+Mit mir zusammen Musik machen wollte sie und dann auch wieder nicht...
 - Arooj ist mir zum Glück mittlerweile echt <span style="color:coral">pups egal</span>
 - https://youtu.be/M89JdPgsgwg?si=Z2nvtOUVKNpVSWIH
 	- emotionale Sicherheit 
