@@ -1,4 +1,55 @@
 
+# Tägliches Mantra
+- <span style="font-size:150%;color:DodgerBlue;">Lao Tzu</span> - <span style="font-size:200%;color:lawngreen;">The Art of not Trying</span>
+	- Gehe mit der Entropie
+- Dienst <u>an</u> der <span style="font-size:100%;color:red;">Sache</span>
+- <span style="font-size:150%;color:coral;">Bewege</span> Dich!
+- Stress?
+   ⟹ Bewegung und Meditation 
+   <span style="font-size:100%;color:red;"> =</span><span style="font-size:100%;color:red;">❌</span><span style="font-size:100%;color:red;">⟹</span> Ablenkung
+```mermaid
+--- 
+config:
+ theme: 'forest'
+ themeVariables: 
+  primaryColor: '#BB2528'   
+  primaryTextColor: '#fff' 
+  primaryBorderColor: '#7C0000' 
+  lineColor: '#F8B229' 
+  secondaryColor: '#006100' 
+  tertiaryColor: '#fff'
+---
+flowchart TB
+%% Nodes %%
+	a[Stress]
+	b[Bewegung] 
+	c[Meditation]
+	d[Ablenkung]
+	e@{ shape: sm-circ, label: "Small start" }
+%% Edges %%
+	a --> e
+	e --> b
+	e --> c
+	a -- <span style="font-size:150%;color:red;">X</span> ---> d
+%% With extra "-" the edges are getting longer and the node is shifting to another node level%%
+	
+	%% a-->SubRoles %%
+	
+	%% subgraph SubRoles [Sub Roles] %%
+		%% direction LR %%
+		%% b[Playbook admins] %%
+		%% c[Playbook managers] %%
+		%% d[Playbook global viewers] %%
+		%% b-->c %%
+		%% c-->d %%
+	%% end %%
+```
+- <span style="font-size:100%;color:red;">Weniger</span> Kommunikation ⟹ Dafür besser und klarer
+- Die <span style="font-size:100%;color:DodgerBlue;">Aufmerksamkeitslenkung</span> und die <span style="font-size:100%;color:lawngreen;">Macht über die Deutung des eigenen Lebens</span> sind die zentralen Faktoren meiner <span style="font-size:100%;color:red;">Freiheit</span>.
+- <span style="font-size:100%;color:red;">Defy</span> Depression fuelling micro habits
+- <span style="font-size:100%;color:red;">Ordnung</span> im Gehirn herstellen
+- Pause <span style="font-size:120%;color:red;">3 s</span> before you response ⟹ regain your emotional control
+- 
 # Kommunikation 
 - use <span style="color:red;font-size:100%;">elicitation</span>: make statements instead of questions ⟹if the person needs to correct you, it gives you more information than by a question and more willingly/without any pressure 
 	- need to <span style="font-size:100%;color:red;">correct</span> a record 
@@ -185,13 +236,24 @@ These don't just cover up distraction, they retrain your brain to complete the l
 
 
 
-### Bodyscan (was an der Tafel steht)
+### Bodyscan 
 #### 1. Befriending your body
 ADHD symptoms worsen by stress ⟹ <span style="font-size:100%;color:gold;">connect with your body</span>
 #### 2. Self-compassion
 Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngreen;"><u>care</u> for yourself</span>, <span style="font-size:100%;color:red;"><u>not</u></span> being <u>hard</u> 
 ⟹<span style="font-size:120%;color:gold;">self-forgiveness</span>
-#### 3. 
+#### 3. Remind yourself
+- Intention
+- feel of ugency
+- interest, urgency, degree of challenge, novelty
+- values
+- goals
+- better life for me and my beloved ones
+- Pflicht des Augenblicks: schöne, wahre, Gute
+#### 4. <span style="font-size:100%;color:red;">Re</span>focus
+1. <span style="font-size:100%;color:orange;">Body connection</span>
+2. <span style="font-size:100%;color:red;">Imagine</span> <span style="font-size:100%;color:DodgerBlue;">Accomplishment</span>
+3. <span style="font-size:100%;color:lawngreen;"><u>Just</u></span> the next smallest step
 
 
 
