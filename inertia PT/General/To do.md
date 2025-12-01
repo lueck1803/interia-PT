@@ -47,9 +47,11 @@
 - [x] Wäsche zusammen legen
 - [x] Tastatur wischen
 - [x] Fladenbrot mit Sauerteig 
-- [ ] Bad saugen und wischen
+- [ ] Bad 
+	- [x] saugen
+	- [ ] wischen
 - [ ] bei SHG anmelden 
-- [ ] Mischa Stunden schicken 
+- [x] Mischa Stunden schicken 
 - [ ] Georgios nochmal schreiben
 - [x] Tafel abschreiben 
 - [ ] Weihnachtsmarkt Pilzgericht nach kochen 
