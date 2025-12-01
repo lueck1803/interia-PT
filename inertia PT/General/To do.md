@@ -52,6 +52,7 @@
 - [ ] Mischa Stunden schicken 
 - [ ] Georgios nochmal schreiben
 - [ ] Tafel abschreiben 
+- [ ] Weihnachtsmarkt Pilzgericht nach kochen 
 
 # tägliches
 ## Küche
