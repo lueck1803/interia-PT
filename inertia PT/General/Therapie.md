@@ -4,12 +4,15 @@
 	- Gehe mit der Entropie
 - Dienst <u>an</u> der <span style="font-size:100%;color:red;">Sache</span>
 - <span style="font-size:150%;color:coral;">Bewege</span> Dich!
-- Stress? ⟹ Bewegung und Meditation 
+- Stress?
+   ⟹ Bewegung und Meditation 
+   
+   
+- 
 ```mermaid
 --- 
 config:
- theme: 'elk'
- 
+ theme: 'forest'
  themeVariables: 
   primaryColor: '#BB2528'   
   primaryTextColor: '#fff' 
