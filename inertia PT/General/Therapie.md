@@ -1,4 +1,10 @@
 
+# Tägliches Mantra
+- <span style="font-size:150%;color:DodgerBlue;">Lao Tzu</span> - <span style="font-size:200%;color:lawngreen;">The Art of not Trying</span>
+	- Gehe mit der Entropie
+- Dienst <u>an</u> der <span style="font-size:100%;color:red;">Sache</span>
+- <span style="font-size:150%;color:coral;">Bewege</span> Dich!
+- Wenn Stress auf kommt
 # Kommunikation 
 - use <span style="color:red;font-size:100%;">elicitation</span>: make statements instead of questions ⟹if the person needs to correct you, it gives you more information than by a question and more willingly/without any pressure 
 	- need to <span style="font-size:100%;color:red;">correct</span> a record 

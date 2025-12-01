@@ -51,7 +51,7 @@
 - [ ] bei SHG anmelden 
 - [ ] Mischa Stunden schicken 
 - [ ] Georgios nochmal schreiben
-- [ ] Tafel abschreiben 
+- [x] Tafel abschreiben 
 - [ ] Weihnachtsmarkt Pilzgericht nach kochen 
 - [ ] adventssfeier checken 
 
