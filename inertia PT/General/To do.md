@@ -53,6 +53,7 @@
 - [ ] Georgios nochmal schreiben
 - [ ] Tafel abschreiben 
 - [ ] Weihnachtsmarkt Pilzgericht nach kochen 
+- [ ] adventssfeier checken 
 
 # tägliches
 ## Küche
