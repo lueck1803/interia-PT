@@ -41,11 +41,13 @@
 - [x] MFA für HRZ und PKM einrichten
 - [x] müll runter 
 - [ ] welcher Pfannenglasdeckel ist Ofenfest?
-- [ ] passendes Gärkorbset suchen<br>⟹<span style="font-size:100%;color:gold;">ne unwichtig</span> <span style="font-size:100%;color:red;">Ablenkung</span>
+- [x] passendes Gärkorbset suchen<br>⟹<span style="font-size:100%;color:gold;">ne unwichtig</span> <span style="font-size:100%;color:red;">Ablenkung</span>
 - [x] duschen
 - [x] um Teig kümmern
 - [x] Wäsche zusammen legen
 - [x] Tastatur wischen
+- [ ] Fladenbrot mit Sauerteig 
+- [ ] Bad saugen und wischen
 
 # tägliches
 ## Küche
@@ -69,7 +71,7 @@
 - [ ] Avocado 🥑 essen
 - [x] auberginen + tofu
 -  Hülsenfrüchte Tofu
-	- [x] Hülsenfrüchte über Nacht einweichen 
+	- [ ] Hülsenfrüchte über Nacht einweichen 
 	- [ ] erstes Wasser abgießen 
 	- [ ] mixen und würzen
 	- [ ] mit genug Wasser aufkochen 
@@ -78,6 +80,8 @@
 - [ ] von alter Pfanne griff abmontieren um sie als Brottopf zu benutzen 
 ## Bad
 - [x] Bart schneiden
+- [ ] Bart Halsregion rasieren
+- [ ] saugen und wischen
 - [ ] Toilette putzen
 - [ ] Toilettendeckel/sitz tauschen 
 ## technisches
