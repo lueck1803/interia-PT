@@ -7,17 +7,21 @@
 - Stress? ⟹ Bewegung und Meditation 
 ```mermaid
 flowchart TB
-	a[Stress] 
-	a-->SubRoles
+	a[Stress]
+	b[Bewegung] 
+	c[Meditation]
+	d[Ablenkung]
 	
-	subgraph SubRoles [Sub Roles]
-		direction LR
-		b[Playbook admins]
-		c[Playbook managers]
-		d[Playbook global viewers]
-		b-->c
-		c-->d
-	end
+	%% a-->SubRoles %%
+	
+	%% subgraph SubRoles [Sub Roles] %%
+		%% direction LR %%
+		%% b[Playbook admins] %%
+		%% c[Playbook managers] %%
+		%% d[Playbook global viewers] %%
+		%% b-->c %%
+		%% c-->d %%
+	%% end %%
 ```
 # Kommunikation 
 - use <span style="color:red;font-size:100%;">elicitation</span>: make statements instead of questions ⟹if the person needs to correct you, it gives you more information than by a question and more willingly/without any pressure 
