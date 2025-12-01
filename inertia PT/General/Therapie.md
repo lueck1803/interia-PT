@@ -6,6 +6,10 @@
 - <span style="font-size:150%;color:coral;">Bewege</span> Dich!
 - Stress? ⟹ Bewegung und Meditation 
 ```mermaid
+--- 
+config: 
+	theme: 'forest' 
+---
 flowchart TB
 %% Nodes %%
 	a[Stress]
@@ -17,7 +21,8 @@ flowchart TB
 	a --> e
 	e --> b
 	e --> c
-	a -x-> d
+	a -- <span style="font-size:150%;color:red;">X</span> ---> d
+%% With extra "-" the edges are getting longer and the node is shifting to another node level%%
 	
 	%% a-->SubRoles %%
 	
