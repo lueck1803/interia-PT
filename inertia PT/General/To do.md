@@ -46,8 +46,12 @@
 - [x] um Teig kümmern
 - [x] Wäsche zusammen legen
 - [x] Tastatur wischen
-- [ ] Fladenbrot mit Sauerteig 
+- [x] Fladenbrot mit Sauerteig 
 - [ ] Bad saugen und wischen
+- [ ] bei SHG anmelden 
+- [ ] Mischa Stunden schicken 
+- [ ] Georgios nochmal schreiben
+- [ ] Tafel abschreiben 
 
 # tägliches
 ## Küche

@@ -57,7 +57,7 @@
 # Musik
 - [ ] Akustik Gitarre 
 - [ ] Gesangsmikrofon
-- [ ] aux Verlängerungskabel 
+- [ ] aux Verlängerungskabel  (3m oder reichen 2m ? Ja ich gehe davon aus, dass es ein 1,8m Kabel ist)
 # Pflanzen 
 - schöne eckige Glassschüssel für die carnivoren 
 	- [ ] vom buttlers
