@@ -7,10 +7,17 @@
 - Stress? ⟹ Bewegung und Meditation 
 ```mermaid
 flowchart TB
+%% Nodes %%
 	a[Stress]
 	b[Bewegung] 
 	c[Meditation]
 	d[Ablenkung]
+	e@{ shape: sm-circ, label: "Small start" }
+%% Edges %%
+	a --> e
+	e --> b
+	e --> c
+	a --> d
 	
 	%% a-->SubRoles %%
 	
