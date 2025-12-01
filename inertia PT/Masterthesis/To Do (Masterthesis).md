@@ -74,6 +74,8 @@
 - [ ] evaluate binder for 28k particles with halfstddev and compare the plot with stdDev
 	
 # Box Algo
+- [ ] put the box evaluation on the cluster and evaluate the data there
+- [ ] ask kayro for rights to push to upstream
 ## peak pit width tuning
 - [x] did a new strange branch... from phase-peak tune...
 - [x] need to branch it...

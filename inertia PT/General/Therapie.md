@@ -186,6 +186,8 @@ These don't just cover up distraction, they retrain your brain to complete the l
 
 
 ### Bodyscan (was an der Tafel steht)
+#### 1. Befriending your body
+ADHD symptoms worsen by stress ⟹ conntect with your body
 
 
 # Beziehung 
