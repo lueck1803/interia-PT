@@ -37,15 +37,15 @@
 - [x] weste waschen
 - [x] hybrid connector
 - [ ] Folien
-- [ ] to do aufräumen
+- [ ] to do aufräumen 
 - [x] MFA für HRZ und PKM einrichten
 - [x] müll runter 
 - [ ] welcher Pfannenglasdeckel ist Ofenfest?
-- [ ] passendes Gärkorbset suchen
-- [ ] duschen
-- [ ] um Teig kümmern
-- [ ] Wäsche zusammen legen
-- [ ] Tastatur wischen
+- [ ] passendes Gärkorbset suchen <br>⟹<span style="font-size:100%;color:gold;">ne unwichtig</span> <span style="font-size:100%;color:red;">Ablenkung</span>
+- [x] duschen
+- [x] um Teig kümmern
+- [x] Wäsche zusammen legen
+- [x] Tastatur wischen
 
 # tägliches
 ## Küche
