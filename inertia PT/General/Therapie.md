@@ -4,7 +4,21 @@
 	- Gehe mit der Entropie
 - Dienst <u>an</u> der <span style="font-size:100%;color:red;">Sache</span>
 - <span style="font-size:150%;color:coral;">Bewege</span> Dich!
-- Wenn Stress auf kommt
+- Stress? ⟹ Bewegung und Meditation 
+```mermaid
+flowchart TB
+	a[Stress] 
+	a-->SubRoles
+	
+	subgraph SubRoles [Sub Roles]
+		direction LR
+		b[Playbook admins]
+		c[Playbook managers]
+		d[Playbook global viewers]
+		b-->c
+		c-->d
+	end
+```
 # Kommunikation 
 - use <span style="color:red;font-size:100%;">elicitation</span>: make statements instead of questions ⟹if the person needs to correct you, it gives you more information than by a question and more willingly/without any pressure 
 	- need to <span style="font-size:100%;color:red;">correct</span> a record 
