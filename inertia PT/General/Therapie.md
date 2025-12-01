@@ -187,7 +187,12 @@ These don't just cover up distraction, they retrain your brain to complete the l
 
 ### Bodyscan (was an der Tafel steht)
 #### 1. Befriending your body
-ADHD symptoms worsen by stress ⟹ conntect with your body
+ADHD symptoms worsen by stress ⟹ <span style="font-size:100%;color:gold;">connect with your body</span>
+#### 2. Self-compassion
+Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngreen;"><u>care</u> for yourself</span>, <span style="font-size:100%;color:red;"><u>not</u></span> being <u>hard</u> 
+⟹<span style="font-size:120%;color:gold;">self-forgiveness</span>
+#### 3. 
+
 
 
 # Beziehung 
