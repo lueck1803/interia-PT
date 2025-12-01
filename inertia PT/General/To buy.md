@@ -57,6 +57,7 @@
 # Musik
 - [ ] Akustik Gitarre 
 - [ ] Gesangsmikrofon
+- [ ] aux Verlängerungskabel 
 # Pflanzen 
 - schöne eckige Glassschüssel für die carnivoren 
 	- [ ] vom buttlers
