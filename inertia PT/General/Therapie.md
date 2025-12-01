@@ -7,8 +7,16 @@
 - Stress? ⟹ Bewegung und Meditation 
 ```mermaid
 --- 
-config: 
-	theme: 'forest' 
+config:
+ theme: 'elk'
+ 
+ themeVariables: 
+  primaryColor: '#BB2528'   
+  primaryTextColor: '#fff' 
+  primaryBorderColor: '#7C0000' 
+  lineColor: '#F8B229' 
+  secondaryColor: '#006100' 
+  tertiaryColor: '#fff'
 ---
 flowchart TB
 %% Nodes %%
