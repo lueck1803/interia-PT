@@ -41,7 +41,8 @@
 - [x] MFA für HRZ und PKM einrichten
 - [x] müll runter 
 - [ ] welcher Pfannenglasdeckel ist Ofenfest?
-- [ ] passendes Gärkorbset suchen <br>⟹<span style="font-size:100%;color:gold;">ne unwichtig</span> <span style="font-size:100%;color:red;">Ablenkung</span>
+- [ ] passendes Gärkorbset suchen
+	⟹<span style="font-size:100%;color:gold;">ne unwichtig</span> <span style="font-size:100%;color:red;">Ablenkung</span>
 - [x] duschen
 - [x] um Teig kümmern
 - [x] Wäsche zusammen legen
