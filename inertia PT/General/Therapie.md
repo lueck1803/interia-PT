@@ -185,13 +185,24 @@ These don't just cover up distraction, they retrain your brain to complete the l
 
 
 
-### Bodyscan (was an der Tafel steht)
+### Bodyscan 
 #### 1. Befriending your body
 ADHD symptoms worsen by stress ⟹ <span style="font-size:100%;color:gold;">connect with your body</span>
 #### 2. Self-compassion
 Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngreen;"><u>care</u> for yourself</span>, <span style="font-size:100%;color:red;"><u>not</u></span> being <u>hard</u> 
 ⟹<span style="font-size:120%;color:gold;">self-forgiveness</span>
-#### 3. 
+#### 3. Remind yourself
+- Intention
+- feel of ugency
+- interest, urgency, degree of challenge, novelty
+- values
+- goals
+- better life for me and my beloved ones
+- Pflicht des Augenblicks: schöne, wahre, Gute
+#### 4. <span style="font-size:100%;color:red;">Re</span>focus
+1. <span style="font-size:100%;color:orange;">Body connection</span>
+2. <span style="font-size:100%;color:red;">Imagine</span> <span style="font-size:100%;color:DodgerBlue;">Accomplishment</span>
+3. <span style="font-size:100%;color:lawngreen;"><u>Just</u></span> the next smallest step
 
 
 
