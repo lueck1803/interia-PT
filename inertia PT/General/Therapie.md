@@ -63,7 +63,7 @@ flowchart TB
 	- eingebunden sein in eine Gemeinschaft
 	- eine tolle Partnerschaft und Familie!
 	- Kinder
-	- Die Welt z
+	- Die Welt zu einem besseren Ort machen 
 
 # Issues
 - Vom <span style="font-size:100%;color:gold;">"Butterfly effect Denken"</span> wegkommen.
