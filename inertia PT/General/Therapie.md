@@ -49,6 +49,12 @@ flowchart TB
 - <span style="font-size:100%;color:red;">Defy</span> Depression fuelling micro habits
 - <span style="font-size:100%;color:red;">Ordnung</span> im Gehirn herstellen
 - Pause <span style="font-size:120%;color:red;">3 s</span> before you response ⟹ regain your emotional control
+
+# Issues
+- Vom <span style="font-size:100%;color:gold;">"Butterfly effect Denken"</span> wegkommen.
+- 
+
+Das ist  seit Jahren ein großes Problem von mir
 # Kommunikation 
 - use <span style="color:red;font-size:100%;">elicitation</span>: make statements instead of questions ⟹if the person needs to correct you, it gives you more information than by a question and more willingly/without any pressure 
 	- need to <span style="font-size:100%;color:red;">correct</span> a record 
