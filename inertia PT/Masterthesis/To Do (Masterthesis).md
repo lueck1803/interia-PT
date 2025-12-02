@@ -379,3 +379,5 @@ ttthermo		5000
 DOI: 10.1103/PhysRevLett.102.158103
 - chiral molecules
 - microfluidic channel 
+- shear two opposite planes against each other ⟹ shear on microscale chiral objects in between
+- 
