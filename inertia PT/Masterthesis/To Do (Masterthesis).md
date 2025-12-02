@@ -293,7 +293,7 @@ echo "Stage 3 jobs submitted: $jid1 → $jid2 → $jid3"
 - [x] Fitting $\nu$ 
 - [x] Fitting $\beta$
 - [x] Fitting $\gamma$ 
-- [ ] 
+- [ ] jfkasjkfjlsje $x^{2}e$
 
 # Test note
 - [ ] this is a test note $\sqrt{x}$ 
