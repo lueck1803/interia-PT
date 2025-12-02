@@ -275,7 +275,10 @@ echo "Stage 3 jobs submitted: $jid1 → $jid2 → $jid3"
 # Report
 <span style="color:red" > finish the Slides today </span>
 - L corresponds to the particle number $\#N$ through: 
-- 
+- $L_{yHalf} = \sqrt{\left( \frac{N\cdot\pi\cdot\sigma^2}{(4\cdot R \cdot \phi)} \right)}/2$
+- $L_{xHalf} = R\cdot L_{yHalf}$
+$\phi = \frac{N \cdot \pi \cdot \sigma^2}{4\cdot R\cdot2\cdot L_{yHalf}^2}$
+- describe $M=\frac{\tau_{M}}{\tau_{R}}$ which resembles our mass "m"
 - [ ] Slides:
 	- [ ] 112k different m: .06, .065, .067, .068, ~~.069~~ ⟹.07
 		- [ ] pictures of Δy Density Distribution 
