@@ -461,6 +461,7 @@ Keine Ahnung ob sie auf der Adventsfeier vom bot. Garten ist.
 Egal 🤷‍♂️ ich gehe trotzdem hin und halte halt Abstand
 Mit mir zusammen Musik machen wollte sie und dann auch wieder nicht...
 - Arooj ist mir zum Glück mittlerweile echt <span style="color:coral">pups egal</span>
+## Umgang mit weiblichem Partner 
 - https://youtu.be/M89JdPgsgwg?si=Z2nvtOUVKNpVSWIH
 	- emotionale Sicherheit 
 	- <span style="font-size:100%;color:red;">nicht tun:</span>

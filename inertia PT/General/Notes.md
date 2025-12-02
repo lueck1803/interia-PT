@@ -355,6 +355,15 @@ Muss einfach mal lernen alleine klar zu kommen und mir klar überlegen warum ich
 Und nicht einfach drauf los etwas tue und sage. 
 Muss besser lernen wann ich die Grenzen anderer überschreite und deren Bedürfnisse richtig lesen. 
 
+## 25-12-02
+Und mir tut dann auch so vieles so sehr leid, auch wenn ich nix falsches gemacht habe. 
+
+Mir tut es ja schon leid wenn ich mal laut, launisch oder auch nur bestimmt war.
+
+Mir tut auch Micro "Fehlverhalten" leid. Auch wenn sie das auch macht. 
+
+Manchmal hatte sie dann auch so das Gefühl so schlecht behandelt zu werden, hat dabei aber null auf ihr micro Verhalten geachtet.
+
 # yt Kommentare
 5. Doch sehr möglich... Therapeuten und Ärzte sind auch nur Menschen. Die können zum Teil mit Menschen wie sie es ist nicht so viel anfangen. Da sie zu viel durchdenken und nicht handlungsarm sind. 
 
