@@ -274,6 +274,8 @@ echo "Stage 3 jobs submitted: $jid1 → $jid2 → $jid3"
 
 # Report
 <span style="color:red" > finish the Slides today </span>
+- L corresponds to the particle number $\#N$ through: 
+- 
 - [ ] Slides:
 	- [ ] 112k different m: .06, .065, .067, .068, ~~.069~~ ⟹.07
 		- [ ] pictures of Δy Density Distribution 
