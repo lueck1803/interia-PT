@@ -134,9 +134,17 @@ Der <span style="color:red;font-size:100%;">andere möchte</span> einen nicht nu
   Ich muss auch nicht zu allem etwas sagen. Mein Wert hängt nicht davon ab!
 - Ich habe es verdient gut behandelt zu werden und mich selbst gut zu behandeln.
 - Ich habe es verdient tolle Menschen um mich und ein tolles Leben zu haben, so wie einen Abschluss zu machen.
-- 
+- Ich habe ein Recht darauf ein sorgenfreies Leben leben zu dürfen.
+- Es gibt keinen Grund mich provozieren zu lassen.
+- Ich mache mich unabhängig von meinen Eltern, ich kann das.
+- Es gibt allen Grund geliebt zu werden.
+- Ich habe es verdient tollen Sex zu haben, denn ich sehe sehr gut aus und bin ein toller Type.
+  ⟹ Ich kann stolz auf meinen Körper sein und muss mich für nichts schämen.
+  ⟹Ich muss meinen Körper nur besser pflegen, mich selbst mehr lieben, selbst sicherer auftreten und das ausstrahlen.
+- Ich werde geliebt, ich werde von mir selbst so sehr geliebt, ich muss nicht um Liebe betteln.
+  Wer mich nicht respektiert und mich nicht gut und auf Augenhöhe behandelt, hat meine Zei
 # Schlaf
-- kann ich <span style="color:red">mittlerweile</span> ganz <u>gut</u>
+- kann ich <span style="color:red">mittlerweile</span> ganz <u>gut</u> ⟹ <span style="font-size:150%;color:red;">Naja</span> sei ehrlich! da hast du noch viel Arbeit vor dir
 
 # ADHD
 
