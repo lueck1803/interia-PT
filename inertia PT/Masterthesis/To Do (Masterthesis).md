@@ -1,3 +1,9 @@
+# unsorted tasks
+- [ ] algo changes function and performance test
+- [ ] plot binder cumulant with the new evaluated data
+- [ ] continue with slides
+- [ ] reeval the exponents
+
 # Important guidline to fokus on
 - <span style="font-size:120%;color:red">Don't touch the box algo anymore!</span>
 - <span style="font-size:120%;color:red">determine the Phase transition point</span>
@@ -8,6 +14,7 @@
 - sort the introduction and theorie
 - explain the algorithm at it's current state and it's flaws and also the ways to refine it
 - [ ] clean the folder **sqaureboxEvaluation**
+- [ ] renaming max to half and half to forth...
 - make / clear snapshots with plots with the latest algo. ==am Windows PC==
 	- **new folder**
 	- **clear naming**
@@ -76,6 +83,7 @@
 # Box Algo
 - [ ] put the box evaluation on the cluster and evaluate the data there
 - [ ] ask kayro for rights to push to upstream
+- [ ] kann den prozess beschleunigen, in dem ich das überprüfen der phase width aus filter new peak pit auslagere und distdata-evalbox, get_peak_pit, sowie filter peak_pit nur laufen lasse, wenn height_mul geändert wurde. 
 ## peak pit width tuning
 - [x] did a new strange branch... from phase-peak tune...
 - [x] need to branch it...
@@ -274,6 +282,15 @@ echo "Stage 3 jobs submitted: $jid1 → $jid2 → $jid3"
 
 # Report
 <span style="color:red" > finish the Slides today </span>
+- L corresponds to the particle number $\#N$ through: 
+- $L_{yHalf} = \sqrt{\left( \frac{N\cdot\pi\cdot\sigma^2}{(4\cdot R \cdot \phi)} \right)}/2$
+- $L_{xHalf} = R\cdot L_{yHalf}$
+- $\phi = \frac{N \cdot \pi \cdot \sigma^2}{4\cdot R\cdot2\cdot L_{yHalf}^2}$
+- describe $M=\frac{\tau_{M}}{\tau_{R}}$ which resembles our mass "m"
+## Slides
+### Vertical Split
+- Why is the resolution of the snapshots of the half sized boxes worse
+- $\left< \text{NP} \right> - \left< \text{NP}^{2} \right>$ 
 - [ ] Slides:
 	- [ ] 112k different m: .06, .065, .067, .068, ~~.069~~ ⟹.07
 		- [ ] pictures of Δy Density Distribution 
@@ -293,7 +310,7 @@ echo "Stage 3 jobs submitted: $jid1 → $jid2 → $jid3"
 - [x] Fitting $\nu$ 
 - [x] Fitting $\beta$
 - [x] Fitting $\gamma$ 
-- [ ] 
+- [ ] $\mathbb{M}=\frac{\tau_{d}}{\tau_{p}}$
 
 # Test note
 - [ ] this is a test note $\sqrt{x}$ 
