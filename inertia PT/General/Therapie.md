@@ -50,8 +50,11 @@ flowchart TB
 - <span style="font-size:100%;color:red;">Ordnung</span> im Gehirn herstellen
 - Pause <span style="font-size:120%;color:red;">3 s</span> before you response ⟹ regain your emotional control
 - Ich möchte im Hier und Jetzt sein und an den konkreten Aufgaben arbeiten, die bei mir anstehen!
-- Die Notwendigkeit des Augenblicks erkennen!
-- <span style="font-size:100%;color:red;">Du</span> zum ich werden
+- <span style="font-size:100%;color:red;">Am Du</span> zum ich werden.
+- <span style="font-size:120%;color:red;">Tugenden:</span> Klugheit, Gerechtigkeit, Tapferkeit, Maß.
+- Tu was du <span style="font-size:100%;color:red;">sollst</span> und sei <span style="font-size:100%;color:red;">ganz</span> in dem was du tust!
+- Versuche die Notwendigkeit/<span style="font-size:100%;color:lawngreen;">Pflicht des Augenblicks</span> erkennen!
+- <span style="font-size:120%;color:red;">Selbsttranszendenz:</span> das Wahre, das Gute und das Schöne
 
 # Issues
 - Vom <span style="font-size:100%;color:gold;">"Butterfly effect Denken"</span> wegkommen.
@@ -257,7 +260,7 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 - values
 - goals
 - better life for me and my beloved ones
-- Pflicht des Augenblicks: schöne, wahre, Gute
+- <span style="font-size:100%;color:DodgerBlue;">Pflicht des Augenblicks:</span> <span style="font-size:100%;color:gold;">Das Wahre, das Schöne und das Gute</span>
 #### 4. <span style="font-size:100%;color:red;">Re</span>focus
 1. <span style="font-size:100%;color:orange;">Body connection</span>
 2. <span style="font-size:100%;color:red;">Imagine</span> <span style="font-size:100%;color:DodgerBlue;">Accomplishment</span>
