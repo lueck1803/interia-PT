@@ -57,6 +57,8 @@
 - [ ] Weihnachtsmarkt Pilzgericht nach kochen 
 - [x] adventssfeier checken 
       ⟹ war ich leider viiiiel zu spät die Mail war ja schon vom 25.10 und seitdem auch die Anmeldung offen... Es gab zu viele Anfragen. Aber naja mach dir nix draus Luk und katastrophiere nicht.😒
+- [ ] unter dem Bett aufräumen 
+- [ ] Keyboard von hinten holen 
 
 # tägliches
 ## Küche
