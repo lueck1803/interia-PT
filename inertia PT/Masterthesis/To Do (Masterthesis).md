@@ -77,7 +77,7 @@
 # Box Algo
 - [ ] put the box evaluation on the cluster and evaluate the data there
 - [ ] ask kayro for rights to push to upstream
-- [ ] kann den prozess beschleunigen, in dem ich das überprüfen der phase width aus filter new peak pit auslagere und nur filter peak_pit sowie density 
+- [ ] kann den prozess beschleunigen, in dem ich das überprüfen der phase width aus filter new peak pit auslagere und distdata-evalbox, get_peak_pit, sowie filter peak_pit nur laufen lasse, wenn height_mul geändert wurde. 
 ## peak pit width tuning
 - [x] did a new strange branch... from phase-peak tune...
 - [x] need to branch it...
