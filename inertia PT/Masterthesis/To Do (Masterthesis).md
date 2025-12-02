@@ -293,7 +293,7 @@ echo "Stage 3 jobs submitted: $jid1 → $jid2 → $jid3"
 - [x] Fitting $\nu$ 
 - [x] Fitting $\beta$
 - [x] Fitting $\gamma$ 
-- [ ] 
+- [ ] $\mathbb{M}=\frac{\tau_{d}}{\tau_{p}}$
 
 # Test note
 - [ ] this is a test note $\sqrt{x}$ 
