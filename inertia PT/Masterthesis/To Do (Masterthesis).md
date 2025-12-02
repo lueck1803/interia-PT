@@ -373,3 +373,9 @@ ttthermo		5000
 		- $\gamma_{r}$ 
 			- Since $\alpha=\frac{10 \gamma_{r}}{\sigma^{2}\gamma_{t}}=10$
 			- $\gamma_{r}=1 \cdot \sigma^{2}\gamma_{t}=1$  
+
+# JC
+## 25-12-2 Separation of Microscale Chiral Objects by Shear Flow
+DOI: 10.1103/PhysRevLett.102.158103
+- chiral molecules
+- microfluidic channel 
