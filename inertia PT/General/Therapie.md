@@ -126,6 +126,15 @@ Der <span style="color:red;font-size:100%;">andere möchte</span> einen nicht nu
 - Ich werde anderen nicht mehr hinterher laufen
 - Ich wahre meine Grenzen
 - Ich lebe im hier und jetzt und genieße das Leben in vollen Zügen, ich bin voll da
+- Ich gehe raus unter Leute und bin gelassen
+- ich kann meine Ängste überwinden, wenn ich im Hier und Jetzt bin
+- Ich bin stolz, aufrecht, stark, selbstbewusst, strahle und sehe gut aus. Es gibt keinen Grund gebückt zu gehen
+- Ich weiß sehr viel und kann mit meinem Wissen glänzen, wenn ich in mir Ruhe, mich nicht stresse und auf mich vertraue
+- Ich kann darauf vertrauen, dass die Worte und das Wissen kommt, wenn ich es brauche und will.
+  Ich muss auch nicht zu allem etwas sagen. Mein Wert hängt nicht davon ab!
+- Ich habe es verdient gut behandelt zu werden und mich selbst gut zu behandeln.
+- Ich habe es verdient tolle Menschen um mich und ein tolles Leben zu haben, so wie einen Abschluss zu machen.
+- 
 # Schlaf
 - kann ich <span style="color:red">mittlerweile</span> ganz <u>gut</u>
 
