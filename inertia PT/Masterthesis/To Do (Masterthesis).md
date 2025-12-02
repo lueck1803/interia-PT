@@ -282,7 +282,7 @@ echo "Stage 3 jobs submitted: $jid1 → $jid2 → $jid3"
 ## Slides
 ### Vertical Split
 - Why is the resolution of the snapshots of the half sized boxes worse
-- $lr$
+- $\left< \text{NP} \right> - \left< \text{NP}^{2} \right>$ 
 - [ ] Slides:
 	- [ ] 112k different m: .06, .065, .067, .068, ~~.069~~ ⟹.07
 		- [ ] pictures of Δy Density Distribution 
