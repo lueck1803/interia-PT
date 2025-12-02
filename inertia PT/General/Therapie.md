@@ -55,6 +55,9 @@ flowchart TB
 - Tu was du <span style="font-size:100%;color:red;">sollst</span> und sei <span style="font-size:100%;color:red;">ganz</span> in dem was du tust!
 - Versuche die Notwendigkeit/<span style="font-size:100%;color:lawngreen;">Pflicht des Augenblicks</span> erkennen!
 - <span style="font-size:120%;color:red;">Selbsttranszendenz:</span> das Wahre, das Gute und das Schöne
+- Sagen was <u>ist</u> und nicht sagen, was sein sollte.
+-<span style="font-size:100%;color:DodgerBlue;"> We are adults</span> and we can learn and build up the skills to <span style="font-size:100%;color:red;">not avoid</span>, but to <span style="font-size:100%;color:lawngreen;">face</span> and <span style="font-size:100%;color:cyan;">solve</span> our problems!
+- Follow your ADHD! - It's a super power!
 
 # Issues
 - Vom <span style="font-size:100%;color:gold;">"Butterfly effect Denken"</span> wegkommen.
@@ -119,6 +122,10 @@ Der <span style="color:red;font-size:100%;">andere möchte</span> einen nicht nu
 
 # Ich
 - habe mich gerne und <span style="color:DarkTurquoise">ich bin wertvoll</span> ganz egal was <span style="color:gold">Arooj</span> denkt und sagt
+- Ich habe meinen <span style="font-size:100%;color:red;">Wert</span> und were mich nicht mehr unterwürfig zeigen
+- Ich werde anderen nicht mehr hinterher laufen
+- Ich wahre meine Grenzen
+- Ich lebe im hier und jetzt und genieße das Leben in vollen Zügen, ich bin voll da
 # Schlaf
 - kann ich <span style="color:red">mittlerweile</span> ganz <u>gut</u>
 
