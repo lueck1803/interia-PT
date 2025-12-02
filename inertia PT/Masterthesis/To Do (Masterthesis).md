@@ -377,7 +377,9 @@ ttthermo		5000
 # JC
 ## 25-12-2 Separation of Microscale Chiral Objects by Shear Flow
 DOI: 10.1103/PhysRevLett.102.158103
+This is old from 2009
 - chiral molecules
+- switched the gene off of the bacteria for motility (Dennis asked if a ethic commission approved this🤭)
 - microfluidic channel 
 - shear two opposite planes against each other ⟹ shear on microscale chiral objects in between
 - bacterias drift perpendicular to the shear plane
