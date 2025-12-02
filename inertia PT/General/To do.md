@@ -50,7 +50,7 @@
 - [ ] Bad 
 	- [x] saugen
 	- [ ] wischen
-- [ ] bei SHG anmelden 
+- [x] bei SHG anmelden 
 - [x] Mischa Stunden schicken 
 - [ ] Georgios nochmal schreiben
 - [x] Tafel abschreiben 

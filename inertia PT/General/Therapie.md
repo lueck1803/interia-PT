@@ -49,6 +49,30 @@ flowchart TB
 - <span style="font-size:100%;color:red;">Defy</span> Depression fuelling micro habits
 - <span style="font-size:100%;color:red;">Ordnung</span> im Gehirn herstellen
 - Pause <span style="font-size:120%;color:red;">3 s</span> before you response ⟹ regain your emotional control
+- Ich möchte im Hier und Jetzt sein und an den konkreten Aufgaben arbeiten, die bei mir anstehen!
+- <span style="font-size:100%;color:red;">Am Du</span> zum ich werden.
+- <span style="font-size:120%;color:red;">Tugenden:</span> Klugheit, Gerechtigkeit, Tapferkeit, Maß.
+- Tu was du <span style="font-size:100%;color:red;">sollst</span> und sei <span style="font-size:100%;color:red;">ganz</span> in dem was du tust!
+- Versuche die Notwendigkeit/<span style="font-size:100%;color:lawngreen;">Pflicht des Augenblicks</span> erkennen!
+- <span style="font-size:120%;color:red;">Selbsttranszendenz:</span> das Wahre, das Gute und das Schöne
+- Sagen was <u>ist</u> und nicht sagen, was sein sollte.
+- <span style="font-size:100%;color:DodgerBlue;"> We are adults</span> and we can learn and build up the skills to <span style="font-size:100%;color:red;">not avoid</span>, but to <span style="font-size:100%;color:lawngreen;">face</span> and <span style="font-size:100%;color:cyan;">solve</span> our problems!
+- Follow your ADHD! - It's a super power!
+- Sei <span style="font-size:100%;color:red;">dankbar!</span> Erinnere dich täglich an die Dinge für die du dankbar bist!
+- Denke an deine langfristigen Ziele: 
+	- eingebunden sein in eine Gemeinschaft
+	- eine tolle Partnerschaft und Familie!
+	- Kinder
+	- Die Welt zu einem besseren Ort machen!
+	- Dienst an der Gesellschaft
+- Nicht an der Vergangenheit festhalten.
+- Sachverhalte nicht mehr übererklären. Weniger ist mehr. Lass deine Worte wirken. Kommuniziere klar, präzise und selbstbewusst.
+
+# Issues
+- Vom <span style="font-size:100%;color:gold;">"Butterfly effect Denken"</span> wegkommen.
+- 
+
+Das ist  seit Jahren ein großes Problem von mir
 # Kommunikation 
 - use <span style="color:red;font-size:100%;">elicitation</span>: make statements instead of questions ⟹if the person needs to correct you, it gives you more information than by a question and more willingly/without any pressure 
 	- need to <span style="font-size:100%;color:red;">correct</span> a record 
@@ -107,8 +131,33 @@ Der <span style="color:red;font-size:100%;">andere möchte</span> einen nicht nu
 
 # Ich
 - habe mich gerne und <span style="color:DarkTurquoise">ich bin wertvoll</span> ganz egal was <span style="color:gold">Arooj</span> denkt und sagt
+- Ich habe meinen <span style="font-size:100%;color:red;">Wert</span> und were mich nicht mehr unterwürfig zeigen
+- Ich werde anderen nicht mehr hinterher laufen
+- Ich wahre meine Grenzen
+- Ich lebe im hier und jetzt und genieße das Leben in vollen Zügen, ich bin voll da
+- Ich gehe raus unter Leute und bin gelassen
+- ich kann meine Ängste überwinden, wenn ich im Hier und Jetzt bin
+- Ich bin stolz, aufrecht, stark, selbstbewusst, strahle und sehe gut aus. Es gibt keinen Grund gebückt zu gehen
+- Ich weiß sehr viel und kann mit meinem Wissen glänzen, wenn ich in mir Ruhe, mich nicht stresse und auf mich vertraue
+- Ich kann darauf vertrauen, dass die Worte und das Wissen kommt, wenn ich es brauche und will.
+  Ich muss auch nicht zu allem etwas sagen. Mein Wert hängt nicht davon ab!
+- Ich habe es verdient gut behandelt zu werden und mich selbst gut zu behandeln.
+- Ich habe es verdient tolle Menschen um mich und ein tolles Leben zu haben, so wie einen Abschluss zu machen.
+- Ich habe ein Recht darauf ein sorgenfreies Leben leben zu dürfen.
+- Es gibt keinen Grund mich provozieren zu lassen.
+- Ich mache mich unabhängig von meinen Eltern, ich kann das.
+- Es gibt allen Grund geliebt zu werden.
+- Ich habe es verdient tollen Sex zu haben, denn ich sehe sehr gut aus und bin ein toller Type.
+  ⟹ Ich kann stolz auf meinen Körper sein und muss mich für nichts schämen.
+  ⟹Ich muss meinen Körper nur besser pflegen, mich selbst mehr lieben, selbst sicherer auftreten und das ausstrahlen.
+- Ich werde geliebt, ich werde von mir selbst so sehr geliebt, ich muss nicht um Liebe betteln.
+  Wer mich nicht respektiert und mich nicht gut und auf Augenhöhe behandelt, hat meine Zeit und meine Gedanken nicht verdient!
+- Ich bin dankbar dafür, was ich habe, dass mich meine Eltern immer unterstützt haben, auch wenn sie massiv soziale und emotionale Defizite haben
+- Ich bin dankbar, dass ich einen so tollen Freund wie den Mischa habe und will meinen Job sehr gut machen.
+- Ich bin dankbar, dass ich so tolle Freunde wie Fredin habe, die mir soooo viel zugehört haben. 😍❤️
+- Ich bin dankbar, dass ich einen so tollen Prof. wie Benno habe, der Wissen nicht hierarchisch sieht und immer lösungsorientiert ist. Ebenso bin ich froh, dass ich einen so tollen Betreuer wie Aritra habe.
 # Schlaf
-- kann ich <span style="color:red">mittlerweile</span> ganz <u>gut</u>
+- kann ich <span style="color:red">mittlerweile</span> ganz <u>gut</u> ⟹ <span style="font-size:150%;color:red;">Naja</span> sei ehrlich! da hast du noch viel Arbeit vor dir
 
 # ADHD
 
@@ -248,7 +297,7 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 - values
 - goals
 - better life for me and my beloved ones
-- Pflicht des Augenblicks: schöne, wahre, Gute
+- <span style="font-size:100%;color:DodgerBlue;">Pflicht des Augenblicks:</span> <span style="font-size:100%;color:gold;">Das Wahre, das Schöne und das Gute</span>
 #### 4. <span style="font-size:100%;color:red;">Re</span>focus
 1. <span style="font-size:100%;color:orange;">Body connection</span>
 2. <span style="font-size:100%;color:red;">Imagine</span> <span style="font-size:100%;color:DodgerBlue;">Accomplishment</span>
