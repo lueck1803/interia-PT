@@ -8,6 +8,7 @@
 - sort the introduction and theorie
 - explain the algorithm at it's current state and it's flaws and also the ways to refine it
 - [ ] clean the folder **sqaureboxEvaluation**
+- [ ] renaming max to half and half to forth...
 - make / clear snapshots with plots with the latest algo. ==am Windows PC==
 	- **new folder**
 	- **clear naming**
