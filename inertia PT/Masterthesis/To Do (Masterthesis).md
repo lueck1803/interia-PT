@@ -378,6 +378,7 @@ ttthermo		5000
 ## 25-12-2 Separation of Microscale Chiral Objects by Shear Flow
 DOI: 10.1103/PhysRevLett.102.158103
 This is old from 2009
+![](Pasted%20image%2020251202122408.png)![](Pasted%20image%2020251202122436.png)
 - chiral molecules
 - switched the gene off of the bacteria for motility (Dennis asked if a ethic commission approved this🤭)
 - microfluidic channel 
@@ -385,4 +386,4 @@ This is old from 2009
 - bacterias drift perpendicular to the shear plane
 - Net drift results from the preferential alignment of helices with streamlines, with a direction that depends on the chirality of the helix and the sign of the shear rate. 
 - separation efficiency $\eta = \frac{|N_{L}-N_{R}|}{N_{L}+N_{R}}$  
-- 
+- The flow around the particle is approximated linear $u(y)=\frac{vy}{H}$ 
