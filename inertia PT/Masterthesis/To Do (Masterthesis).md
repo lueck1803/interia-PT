@@ -380,7 +380,7 @@ DOI: 10.1103/PhysRevLett.102.158103
 This is old from 2009
 ![](Pasted%20image%2020251202122408.png)![](Pasted%20image%2020251202122436.png)
 - chiral molecules
-- switched the gene off of the bacteria for motility (Dennis asked if a ethic commission approved this🤭)
+- switched the gene off of the bacteria for motility (Dennis asked if a ethic commission approved this🤭), the bacteria was also mutated that it does not split, but in stead grow and get a spiral structure (all controled by protein)
 - microfluidic channel 
 - shear two opposite planes against each other ⟹ shear on microscale chiral objects in between
 - bacterias drift perpendicular to the shear plane
