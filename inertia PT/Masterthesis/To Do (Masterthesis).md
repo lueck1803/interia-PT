@@ -1,4 +1,8 @@
-# general
+# unsorted tasks
+- [ ] algo changes function and performance test
+- [ ] plot binder cumulant with the new evaluated data
+- [ ] continue with slides
+- [ ] reeval the exponents
 
 # Important guidline to fokus on
 - <span style="font-size:120%;color:red">Don't touch the box algo anymore!</span>
