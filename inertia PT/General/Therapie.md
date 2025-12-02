@@ -56,8 +56,14 @@ flowchart TB
 - Versuche die Notwendigkeit/<span style="font-size:100%;color:lawngreen;">Pflicht des Augenblicks</span> erkennen!
 - <span style="font-size:120%;color:red;">Selbsttranszendenz:</span> das Wahre, das Gute und das Schöne
 - Sagen was <u>ist</u> und nicht sagen, was sein sollte.
--<span style="font-size:100%;color:DodgerBlue;"> We are adults</span> and we can learn and build up the skills to <span style="font-size:100%;color:red;">not avoid</span>, but to <span style="font-size:100%;color:lawngreen;">face</span> and <span style="font-size:100%;color:cyan;">solve</span> our problems!
+- <span style="font-size:100%;color:DodgerBlue;"> We are adults</span> and we can learn and build up the skills to <span style="font-size:100%;color:red;">not avoid</span>, but to <span style="font-size:100%;color:lawngreen;">face</span> and <span style="font-size:100%;color:cyan;">solve</span> our problems!
 - Follow your ADHD! - It's a super power!
+- Sei <span style="font-size:100%;color:red;">dankbar!</span> Erinnere dich täglich an die Dinge für die du dankbar bist!
+- Denke an deine langfristigen Ziele: 
+	- eingebunden sein in eine Gemeinschaft
+	- eine tolle Partnerschaft und Familie!
+	- Kinder
+	- Die Welt z
 
 # Issues
 - Vom <span style="font-size:100%;color:gold;">"Butterfly effect Denken"</span> wegkommen.
@@ -142,7 +148,11 @@ Der <span style="color:red;font-size:100%;">andere möchte</span> einen nicht nu
   ⟹ Ich kann stolz auf meinen Körper sein und muss mich für nichts schämen.
   ⟹Ich muss meinen Körper nur besser pflegen, mich selbst mehr lieben, selbst sicherer auftreten und das ausstrahlen.
 - Ich werde geliebt, ich werde von mir selbst so sehr geliebt, ich muss nicht um Liebe betteln.
-  Wer mich nicht respektiert und mich nicht gut und auf Augenhöhe behandelt, hat meine Zei
+  Wer mich nicht respektiert und mich nicht gut und auf Augenhöhe behandelt, hat meine Zeit und meine Gedanken nicht verdient!
+- Ich bin dankbar dafür, was ich habe, dass mich meine Eltern immer unterstützt haben, auch wenn sie massiv soziale und emotionale Defizite haben
+- Ich bin dankbar, dass ich einen so tollen Freund wie den Mischa habe und will meinen Job sehr gut machen.
+- Ich bin dankbar, dass ich so tolle Freunde wie Fredin habe, die mir soooo viel zugehört haben. 😍❤️
+- Ich bin dankbar, dass ich einen so tollen Prof. wie Benno habe, der Wissen nicht hierarchisch sieht und immer lösungsorientiert ist. Ebenso bin ich froh, dass ich einen so tollen Betreuer wie Aritra habe.
 # Schlaf
 - kann ich <span style="color:red">mittlerweile</span> ganz <u>gut</u> ⟹ <span style="font-size:150%;color:red;">Naja</span> sei ehrlich! da hast du noch viel Arbeit vor dir
 
