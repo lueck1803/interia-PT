@@ -1,5 +1,6 @@
 # fast notes
-- 
+- latex suite:
+  {trigger: "|", replacement: "|$0|$1", options: "mA"},
 # Arbeit
 -  
 # Tage infolge Produktiv

@@ -382,4 +382,5 @@ DOI: 10.1103/PhysRevLett.102.158103
 - shear two opposite planes against each other ⟹ shear on microscale chiral objects in between
 - bacterias drift perpendicular to the shear plane
 - Net drift results from the preferential alignment of helices with streamlines, with a direction that depends on the chirality of the helix and the sign of the shear rate. 
-- separation efficiency $\eta = \frac{|N_{L}-N_{R}|}{N_{L}+N_{R}}$ 
+- separation efficiency $\eta = \frac{|N_{L}-N_{R}|}{N_{L}+N_{R}}$  
+- 
