@@ -49,6 +49,9 @@ flowchart TB
 - <span style="font-size:100%;color:red;">Defy</span> Depression fuelling micro habits
 - <span style="font-size:100%;color:red;">Ordnung</span> im Gehirn herstellen
 - Pause <span style="font-size:120%;color:red;">3 s</span> before you response ⟹ regain your emotional control
+- Ich möchte im Hier und Jetzt sein und an den konkreten Aufgaben arbeiten, die bei mir anstehen!
+- Die Notwendigkeit des Augenblicks erkennen!
+- <span style="font-size:100%;color:red;">Du</span> zum ich werden
 
 # Issues
 - Vom <span style="font-size:100%;color:gold;">"Butterfly effect Denken"</span> wegkommen.
