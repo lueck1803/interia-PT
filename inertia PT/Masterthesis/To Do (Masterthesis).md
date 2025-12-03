@@ -108,11 +108,11 @@
 - did a combination of height and width mul variation in combination with an alternation in varying this value. Also increased the reduction of the width to get less loop breaks / faster results
 - changed bins from 500 ⟹ 600
 - [ ] the best result for placing the squares would be to average only over the peaks in the standard deviation range of the highest peak (part of the other branch)
-## Evaluate 
+## Evaluate
 - [x] reeval at 224k seed 05000 m 0.067
 - [x] Save the box size of the evaluated boxes
 
-## finite-size-scaling_phase-peak-pit-height-tune-algo 
+## finite-size-scaling_phase-peak-pit-height-tune-algo
 new branch ⟹ fss_ppphta_ebox-fit-in-pp
 - [ ] ==clean the code from old unused stuff== delete old code
 	- [x] ==make a backup before cleaning==
@@ -135,7 +135,7 @@ new branch ⟹ fss_ppphta_ebox-fit-in-pp
 	- [ ] adjust sorboxes ⟸ because there are no lists of squareboxes anymore
 - [ ] add a dilute vs dense eval boxes counter to quality management
 
-# Jupyter 
+# Jupyter
 - [ ] test new code / cleaned code, after square_box split was moved to  box_to_rectangle
 - [ ] compare the densities / particle numbers of squarebox split and not split
 - [ ] **Dict to csv**
@@ -372,7 +372,8 @@ flowchart TB
 - Reentrance effekt for higher Pe with higher masses 
   ![[Pasted image 20251118121845.png]] (Hecht2021)
 - Something (Weaks-chanderler potential) is hard to parallelize 
-## Feng(25-04) Theory from the anomalous phase behavior of inertial active Brownian particles
+# JC
+## 25-11-28: Feng(25-04) Theory from the anomalous phase behavior of inertial active Brownian particles
 - $\mathcal{S}=\frac{\varepsilon}{\zeta U_{0}\sigma}$ gives us a measure for how much can particles overlap?
 - Coexisting phases in non equilibrium systems are the binodals ⟹ when you start in a uniformal regime you don't see the binodal
 - in equilibrium you don't have a free energy
@@ -409,8 +410,7 @@ ttthermo		5000
 			- Since $\alpha=\frac{10 \gamma_{r}}{\sigma^{2}\gamma_{t}}=10$
 			- $\gamma_{r}=1 \cdot \sigma^{2}\gamma_{t}=1$  
 
-# JC
-## 25-12-2 Separation of Microscale Chiral Objects by Shear Flow
+## 25-12-2: Marcos2009~Separation of Microscale Chiral Objects by Shear Flow
 DOI: 10.1103/PhysRevLett.102.158103
 This is old from 2009
 ![](Pasted%20image%2020251202122408.png)![](Pasted%20image%2020251202122436.png)
