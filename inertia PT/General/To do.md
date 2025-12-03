@@ -4,6 +4,7 @@
 - [ ] Kabel kaufen 
 - [ ] getrocknete chilis weg packen 
 - [ ] Kichererbsen tofu 
+- [ ] Briefkasten checken
 - In Kühlschrank
 	- [x] Nudeln
 	- [x] Erbsen
