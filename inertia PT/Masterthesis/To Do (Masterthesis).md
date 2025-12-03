@@ -11,8 +11,7 @@
 		- [ ] <u>max:</u>
 	      before:
 	      ![](Pasted%20image%2020251203120842.png)
-	      ![](Pasted%20image%2020251203112355.png)
-	      now:
+	      now: value slightly changed ⟹change at 5th digit.
 	      ![](Pasted%20image%2020251203120657.png)
 		- [ ] <u>half:</u>
 		    before:
