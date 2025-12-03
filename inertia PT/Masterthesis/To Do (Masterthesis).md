@@ -16,7 +16,9 @@
 		- [ ] <u>half:</u>
 		    before:
 		    ![](Pasted%20image%2020251203112537.png)
-		    now:
+		    now: value also slightly changed ⟹change at 5th digit.
+		    here it actually took only the half of time
+		    ![](Pasted%20image%2020251203220005.png)
 	- [x] remove distData_evalbox before the while loop ⟹ not necessary since new_ysb_Dist is True before the while loop
 	      ⟹function test valid! 
 		      
