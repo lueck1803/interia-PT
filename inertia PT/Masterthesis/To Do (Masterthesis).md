@@ -394,11 +394,11 @@ flowchart TB
 	- $\tau_{R}$ represents characteristic reorientation/persistence time (or inverse rotational diffusion) $\tau_{R}=\frac{1}{D_{R}}$, $D_{R}=\frac{k_{B}T_{b}}{\gamma_{r}}$, $[D_{t}]=\frac{m^{2}}{s}$ $[D_{R}]=\frac{1}{s}$ $\gamma_{r,\text{sphere}}=8 \pi \eta R^{3}$, $\eta$ is the dynamic viscosity, $[\eta]=\frac{kg}{m s}$, $[k_{B}]=\frac{J}{K}$ 
 	- $St \equiv \tau_{M} \cdot \frac{1}{\tau_{R}} =\frac{m}{\gamma_{t}} \cdot D_{R}= \frac{m}{\gamma_{t}} \cdot \frac{k_{B}T_{b}}{\gamma_{r}}$ , $[St]=kg \cdot \frac{1}{s}$ 
 	- What are $\gamma_{t}$ , $\gamma_{r}$ and $T_{b}$ in my case? <span style="color:orange;font-size:100%;">lammps script</span>  
-		``` python
-# use:: fix ID group-ID langevin/lh Tstart Tstop gamma_t seed alpha(=10*gamma_r/sigma^2/gamma_t) omega <yes/no> zero <yes/no>
+		```python
+uuuse:: fix ID group-ID langevin/lh Tstart Tstop gamma_t seed alpha(=10*gamma_r/sigma^2/gamma_t) omega <yes/no> zero <yes/no>
 fix 	noise all langevin/lh 1.0 1.0 1.0 §seed 10 omega yes zero yes	# add Langevin thermostat (noise+friction)
 `````
-		``` python
+		```python
 cocompute	erot all erotate/sphere
 ththermo_style	custom step temp epair c_erot etotal press
 ttthermo		5000
