@@ -12,7 +12,7 @@
 	      before:
 	      ![](Pasted%20image%2020251203112355.png)
 	      now:
-		- [ ] half:
+		- [ ] <u>half:</u>
 		    before:
 		    ![](Pasted%20image%2020251203112537.png)
 		    now:
