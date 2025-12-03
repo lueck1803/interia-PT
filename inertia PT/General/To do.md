@@ -1,3 +1,9 @@
+- [ ]  oxana schreiben wegen Weihnachtsfeier 
+- [ ] checken wann das Essen mit Benno ist
+- [ ] pc uni checken
+- [ ] Kabel kaufen 
+- [ ] getrocknete chilis weg packen 
+- [ ] Kichererbsen tofu 
 - In Kühlschrank
 	- [x] Nudeln
 	- [x] Erbsen
