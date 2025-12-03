@@ -8,14 +8,14 @@
       ![](Pasted%20image%2020251203111646.png)
       with the <span style="font-size:100%;color:red;">same result</span>!
 	- [ ] longterm test for 112k 0.0680 "06000" max and half
-		- [ ] max:
+		- [ ] <u>max:</u>
 	      before:
 	      ![](Pasted%20image%2020251203112355.png)
 	      now:
 		- [ ] half:
-		      before:
-		      ![](Pasted%20image%2020251203112537.png)
-		      now:
+		    before:
+		    ![](Pasted%20image%2020251203112537.png)
+		    now:
 		      
 	      
 - [ ] plot binder cumulant with the new evaluated data
