@@ -160,6 +160,7 @@
 - [x] Notizen zu *why you can't finish simple tasks* machen
 - [x] Notizen zur Kommunikation Friedemann schulz von Thun 
 # Arbeit
+- [ ] mit einem älteren Checkpoint in der VM verbinden. ist es der richtige? Wie geht das?
 - [x] Hybrid Connector 
 	- [x] ⟹ <span style="color:gold">habe keinen Zugriff</span>
 - [ ] heylogin 
