@@ -7,6 +7,7 @@
       to:
       ![](Pasted%20image%2020251203111646.png)
       with the <span style="font-size:100%;color:red;">same result</span>!
+	- [ ] longterm test for 112k m
 - [ ] plot binder cumulant with the new evaluated data
 - [ ] continue with slides
 - [ ] reeval the exponents
