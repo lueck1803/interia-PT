@@ -17,8 +17,10 @@
 		    before:
 		    ![](Pasted%20image%2020251203112537.png)
 		    now:
+	- [x] remove distData_evalbox before the while loop ⟹ not necessary since new_ysb_Dist is True before the while loop
+	      ⟹function test valid!
 		      
-	      
+	  
 - [ ] plot binder cumulant with the new evaluated data
 - [ ] continue with slides
 - [ ] reeval the exponents
