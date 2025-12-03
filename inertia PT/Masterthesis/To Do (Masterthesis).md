@@ -1,5 +1,12 @@
 # unsorted tasks
-- [ ] algo changes function and performance test
+- [x] algo changes function and performance test
+      ⟹little bugs: Naming of `peakPits` was wrong and the parameter `mainbox` was missing
+      ⟹<span style="font-size:100%;color:red;">time reduction by almost a half</span>
+      from:
+      ![](Pasted%20image%2020251203111544.png)
+      to:
+      ![](Pasted%20image%2020251203111646.png)
+      with the <span style="font-size:100%;color:red;">same result</span>!
 - [ ] plot binder cumulant with the new evaluated data
 - [ ] continue with slides
 - [ ] reeval the exponents
