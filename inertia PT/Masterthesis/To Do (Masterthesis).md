@@ -10,8 +10,10 @@
 	- [ ] longterm test for 112k 0.0680 "06000" max and half
 		- [ ] <u>max:</u>
 	      before:
+	      ![](Pasted%20image%2020251203120842.png)
 	      ![](Pasted%20image%2020251203112355.png)
 	      now:
+	      ![](Pasted%20image%2020251203120657.png)
 		- [ ] <u>half:</u>
 		    before:
 		    ![](Pasted%20image%2020251203112537.png)
