@@ -395,8 +395,8 @@ flowchart TB
 	- $St \equiv \tau_{M} \cdot \frac{1}{\tau_{R}} =\frac{m}{\gamma_{t}} \cdot D_{R}= \frac{m}{\gamma_{t}} \cdot \frac{k_{B}T_{b}}{\gamma_{r}}$ , $[St]=kg \cdot \frac{1}{s}$ 
 	- What are $\gamma_{t}$ , $\gamma_{r}$ and $T_{b}$ in my case? <span style="color:orange;font-size:100%;">lammps script</span>  
 		```python
-uuuse:: fix ID group-ID langevin/lh Tstart Tstop gamma_t seed alpha(=10*gamma_r/sigma^2/gamma_t) omega <yes/no> zero <yes/no>
-fix 	noise all langevin/lh 1.0 1.0 1.0 §seed 10 omega yes zero yes	# add Langevin thermostat (noise+friction)
+uu# use:: fix ID group-ID langevin/lh Tstart Tstop gamma_t seed alpha(=10*gamma_r/sigma^2/gamma_t) omega <yes/no> zero <yes/no> 
+ ffix 	noise all langevin/lh 1.0 1.0 1.0 §seed 10 omega yes zero yes	# add Langevin thermostat (noise+friction)
 `````
 		```python
 cocompute	erot all erotate/sphere
