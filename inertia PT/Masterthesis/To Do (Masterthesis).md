@@ -21,7 +21,7 @@
 		    ![](Pasted%20image%2020251203220005.png)
 	- [x] remove distData_evalbox before the while loop ⟹ not necessary since new_ysb_Dist is True before the while loop
 	      ⟹function test valid! 
-		      
+- [ ] Why are the values increasing for 112k and 224k for higher inertia? do I need to change something with the values? maybe test with smaller initial height ⟹halfstdDev
 	  
 - [ ] plot binder cumulant with the new evaluated data
 - [ ] continue with slides
