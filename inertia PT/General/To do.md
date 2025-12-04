@@ -54,7 +54,7 @@
 - [x] Paprika verarbeiten 
 - [x] Nähmaschine im Aldi checken
 - [x] Spazieren
-- [x] weste waschen
+- x] weste waschen
 - [x] hybrid connector
 - [ ] Folien
 - [ ] to do aufräumen
