@@ -1,10 +1,21 @@
 - [ ]  oxana schreiben wegen Weihnachtsfeier 
+	- [ ] mache ich heute persönlich 
 - [ ] checken wann das Essen mit Benno ist
-- [ ] pc uni checken
-- [ ] Kabel kaufen 
+- [ ] Nähmaschinenpreis checken
+- [ ] Hülse auf boxen Bändel kleben 
+- [ ] sport vielleicht laufen
+- [ ] 1h coreview 
+- [ ] Weihnachtsmarkt Pilzgericht nach kochen 
+- [ ] wintersun sadness and hate
+- [ ] Küche aufräumen 
+- [x] pc uni checken
+- [x] Kabel kaufen
+	- ⟹war im Mediamarkt 😂 zu teuer
 - [ ] getrocknete chilis weg packen 
-- [ ] Kichererbsen tofu 
-- [ ] Briefkasten checken
+- [x] Kichererbsen tofu 
+	- ⟹perfekt geworden 
+- [x] Briefkasten checken
+	- ⟹waren die Nadel zum Tinte befüllen drin
 - In Kühlschrank
 	- [x] Nudeln
 	- [x] Erbsen
@@ -61,7 +72,6 @@
 - [x] Mischa Stunden schicken 
 - [ ] Georgios nochmal schreiben
 - [x] Tafel abschreiben 
-- [ ] Weihnachtsmarkt Pilzgericht nach kochen 
 - [x] adventssfeier checken 
       ⟹ war ich leider viiiiel zu spät die Mail war ja schon vom 25.10 und seitdem auch die Anmeldung offen... Es gab zu viele Anfragen. Aber naja mach dir nix draus Luk und katastrophiere nicht.😒
 - [ ] unter dem Bett aufräumen 
