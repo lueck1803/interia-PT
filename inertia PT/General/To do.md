@@ -5,6 +5,7 @@
 - [ ] Hülse auf boxen Bändel kleben 
 - [ ] sport vielleicht laufen
 - [ ] 1h coreview 
+- [ ] informieren wie man die android policies ändert
 - [ ] Weihnachtsmarkt Pilzgericht nach kochen 
 - [ ] wintersun sadness and hate
 - [ ] vor dem Schlafen Meditieren 
