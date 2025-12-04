@@ -10,6 +10,7 @@
 - [ ] wintersun sadness and hate
 - [ ] vor dem Schlafen Meditieren 
 - [ ] Küche aufräumen 
+- [ ] Einkaufschiphalter fixen
 - [x] pc uni checken
 - [x] Kabel kaufen
 	- ⟹war im Mediamarkt 😂 zu teuer
@@ -54,7 +55,7 @@
 - [x] Paprika verarbeiten 
 - [x] Nähmaschine im Aldi checken
 - [x] Spazieren
-- x] weste waschen
+- [x] weste waschen
 - [x] hybrid connector
 - [ ] Folien
 - [ ] to do aufräumen
