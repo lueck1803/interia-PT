@@ -427,3 +427,9 @@ This is old from 2009
 - Net drift results from the preferential alignment of helices with streamlines, with a direction that depends on the chirality of the helix and the sign of the shear rate. 
 - separation efficiency $\eta = \frac{|N_{L}-N_{R}|}{N_{L}+N_{R}}$  
 - The flow around the particle is approximated linear $u(y)=\frac{vy}{H}$ 
+
+# AMEP
+## 25-12-04 Introduction meeting
+- color coding is recommended because it is generalized 
+	- ⟹for example: If you use AMEP with FFMPG to generate animations you can see from the color of the particle, see the structure factor
+- 
