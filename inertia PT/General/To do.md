@@ -7,6 +7,7 @@
 - [ ] 1h coreview 
 - [ ] Weihnachtsmarkt Pilzgericht nach kochen 
 - [ ] wintersun sadness and hate
+- [ ] vor dem Schlafen Meditieren 
 - [ ] Küche aufräumen 
 - [x] pc uni checken
 - [x] Kabel kaufen
