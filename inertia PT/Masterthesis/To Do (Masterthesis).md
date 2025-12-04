@@ -432,4 +432,5 @@ This is old from 2009
 ## 25-12-04 Introduction meeting
 - color coding is recommended because it is generalized 
 	- ⟹for example: If you use AMEP with FFMPG to generate animations you can see from the color of the particle, see the structure factor
+-  with the <span style="font-size:100%;color:red;">API Reference</span> you can search the documentary of all used/integrated packages
 - 
