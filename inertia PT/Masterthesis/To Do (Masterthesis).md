@@ -26,6 +26,7 @@
 - [ ] plot binder cumulant with the new evaluated data
 - [ ] continue with slides
 - [ ] reeval the exponents
+- [ ] changed that `nbins` is dependend on the width of the simulation box factor 
 
 # Important guidline to fokus on
 - <span style="font-size:120%;color:red">Don't touch the box algo anymore!</span>
