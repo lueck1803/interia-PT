@@ -335,6 +335,10 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 		- bin sehr kompetent und habe viel wissen, allerdings durch meine Kommunikation geht das leider etwas verloren und kommt anders rüber
 		- klarer
 		- prägnanter
+	- Ronja 
+		- 35 
+		- medikinet
+		- Aud
 - Thema Kommunikation
 	- ich möchte lernen klarer zu kommunizieren
 	- 
