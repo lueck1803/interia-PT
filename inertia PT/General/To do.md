@@ -1,7 +1,8 @@
 - [ ]  oxana schreiben wegen Weihnachtsfeier 
 	- [ ] mache ich heute persönlich 
+	- [ ] hab ich bin
 - [ ] checken wann das Essen mit Benno ist
-- [ ] Nähmaschinenpreis checken
+- [x] Nähmaschinenpreis checken
 - [ ] Hülse auf boxen Bändel kleben 
 - [ ] sport vielleicht laufen
 - [ ] 1h coreview 
