@@ -12,6 +12,7 @@
 - [ ] vor dem Schlafen Meditieren 
 - [ ] Küche aufräumen 
 - [ ] Glasmüll weg
+- [ ] aok neues Bild hochladen 
 - [x] Einkaufschiphalter fixen
 - [x] pc uni checken
 - [x] Kabel kaufen
