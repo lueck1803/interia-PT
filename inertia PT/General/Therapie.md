@@ -319,6 +319,10 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 		- ⟹kann ich gut nachvollziehen, was Andreas bzgl medikation sagt
 		  ⟹hängt auch stark mit dem Schlaf zusammen
 		- ⟹ musste mir kurzfristig einen neuen Psychiater suchen und das hat gut geklappt.
+	- Erik bzgl. soziale Interaktion:
+		- bei mir geht die Konzentration nicht runter
+		- ich kann eher nicht immer so gaaanz kontrollieren, was ich sage und bin etwas zu aufgedreht
+		- 
 	- mein Them Kommunikation:
 		- Überkommunikation
 		- bin sehr kompetent und habe viel wissen, allerdings durch meine Kommunikation geht das leider etwas verloren und kommt anders rüber
