@@ -338,7 +338,12 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 	- Ronja 
 		- 35 
 		- medikinet
-		- Aud
+			- auch probleme damit
+		- AuDHD:
+			- würde ich nicht drauf gehen ⟹ habe ich mich schon selbst intensiv beschäftigt. Das ADHD füllt das alles schon ganz gut aus
+	- Jakob:
+		- folge die Paartherapie ⟹ irgendwas mit ADHS
+		- irgendwas mit Loch
 - Thema Kommunikation
 	- ich möchte lernen klarer zu kommunizieren
 	- 
