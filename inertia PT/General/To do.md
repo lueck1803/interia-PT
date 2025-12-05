@@ -1,8 +1,8 @@
 - [ ]  oxana schreiben wegen Weihnachtsfeier 
-	- [ ] mache ich heute persönlich 
-	- [ ] hab ich bin
+	- [x] mache ich heute persönlich 
+		- hab ich nicht geschafft 
 - [ ] checken wann das Essen mit Benno ist
-- [x] Nähmaschinenpreis checken
+- [ ] Nähmaschinenpreis checken
 - [ ] Hülse auf boxen Bändel kleben 
 - [ ] sport vielleicht laufen
 - [ ] 1h coreview 
@@ -11,7 +11,8 @@
 - [ ] wintersun sadness and hate
 - [ ] vor dem Schlafen Meditieren 
 - [ ] Küche aufräumen 
-- [ ] Einkaufschiphalter fixen
+- [ ] Glasmüll weg
+- [x] Einkaufschiphalter fixen
 - [x] pc uni checken
 - [x] Kabel kaufen
 	- ⟹war im Mediamarkt 😂 zu teuer
