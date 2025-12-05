@@ -351,7 +351,13 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 	-  Tipp: Negativer Hyperfokus!
 	-  3s Zeit nehmen
 	- kein Mann frau ding
-	- akkumulation von problemen über die Zeit und dann wird es einem so a
+	- akkumulation von problemen über die Zeit und dann wird es einem so als großer Berg dargestellt,⟹ tinas lösung ist gut
+	- geht nicht um den Schwamm und um die Lösungen
+	- Tonlage: 
+		- niemals mit ADHS entschuldigen, das funktioniert nicht, dann wird das einem auf dauer zur last gelegt
+		- Zeit für sich selbst nehmen. 
+		- die sache von sich selbst trennen.
+		- da ist ja auch vieles bei deiner partnerin und das hat nichts mit deinem wert zu tun
 # Beziehung 
 - ich möchte eine ehrliche offene Partnerschaft auf Augenhöhe, ich wünsche mir dass man für einander da ist, sich versteht, sich vergibt und für die Träume des anderen einsteht. Ich möchte eine Familie und Kinder. Dafür möchte ich alles tun.
 - Ja so sehe ich es ja auch.🙏
