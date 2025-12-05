@@ -315,7 +315,9 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 	  ⟹ ich habe dadurch sehr viel gelernt 
 	- Medikament: Ritalin Adult 
 		- vorher 2x20 mg genommen 
-		  ⟹jetzt nur noch 1x20mg morgens
+		  ⟹jetzt nur noch 1x20mg morgens ⟹ reicht mir vollkommen und klappt auch mit dem Schlafen ganz gut
+		- ⟹kann ich gut nachvollziehen, was Andreas bzgl medikation sagt
+		  ⟹hängt auch stark mit dem Schlaf zusammen
 		- ⟹ musste mir kurzfristig einen neuen Psychiater suchen und das hat gut geklappt.
 	- mein Them Kommunikation:
 		- Überkommunikation
