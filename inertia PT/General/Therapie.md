@@ -305,6 +305,26 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 
 
 
+
+## Wolkenflieger
+### 25-12-05
+- Lukas:
+	- Diagnose seit juli 24
+	- 35 jahre alte
+	- ich bin regelmäßig bei den Treffen dabei und darüber sehr dankbar
+	  ⟹ ich habe dadurch sehr viel gelernt 
+	- Medikament: Ritalin Adult 
+		- vorher 2x20 mg genommen 
+		  ⟹jetzt nur noch 1x20mg morgens
+		- ⟹ musste mir kurzfristig einen neuen Psychiater suchen und das hat gut geklappt.
+	- mein Them Kommunikation:
+		- Überkommunikation
+		- bin sehr kompetent und habe viel wissen, allerdings durch meine Kommunikation geht das leider etwas verloren und kommt anders rüber
+		- klarer
+		- prägnanter
+- Thema Kommunikation
+	- ich möchte lernen klarer zu kommunizieren
+	- 
 # Beziehung 
 - ich möchte eine ehrliche offene Partnerschaft auf Augenhöhe, ich wünsche mir dass man für einander da ist, sich versteht, sich vergibt und für die Träume des anderen einsteht. Ich möchte eine Familie und Kinder. Dafür möchte ich alles tun.
 - Ja so sehe ich es ja auch.🙏
