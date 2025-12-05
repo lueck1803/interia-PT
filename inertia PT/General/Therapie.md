@@ -322,7 +322,10 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 	- Erik bzgl. soziale Interaktion:
 		- bei mir geht die Konzentration nicht runter
 		- ich kann eher nicht immer so gaaanz kontrollieren, was ich sage und bin etwas zu aufgedreht
-		- 
+	- Stimmlage:
+		- Verteidigungssatz macht etwas nur schlimmer
+		- kenne ich sehr gut ⟹ problem ist dabei, dass man sich zusehr von der Aussage / Frage / Vorwurf einfangen/fesseln lässt und da man die perfektionistische neigung hat (ängstliches kreisen uu)
+		- lautstärke kann ansteigen
 	- mein Them Kommunikation:
 		- Überkommunikation
 		- bin sehr kompetent und habe viel wissen, allerdings durch meine Kommunikation geht das leider etwas verloren und kommt anders rüber
