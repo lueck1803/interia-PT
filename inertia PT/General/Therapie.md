@@ -360,6 +360,8 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 		- da ist ja auch vieles bei deiner partnerin und das hat nichts mit deinem wert zu tun
 	- Wie clemens es sagt: 
 		- ADHS ist häufig verknüpft mit Perfektionismus
+	- Benina:
+		- klarer sagen was man wirklich sagen wollte, es kommt nicht immer das an obwohl man es dachte das man das doch klar gesagt hat.
 # Beziehung 
 - ich möchte eine ehrliche offene Partnerschaft auf Augenhöhe, ich wünsche mir dass man für einander da ist, sich versteht, sich vergibt und für die Träume des anderen einsteht. Ich möchte eine Familie und Kinder. Dafür möchte ich alles tun.
 - Ja so sehe ich es ja auch.🙏
