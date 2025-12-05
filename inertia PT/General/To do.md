@@ -2,7 +2,7 @@
 	- [x] mache ich heute persönlich 
 		- hab ich nicht geschafft 
 - [ ] checken wann das Essen mit Benno ist
-- [ ] Nähmaschinenpreis checken
+- [x] Nähmaschinenpreis checken
 - [ ] Hülse auf boxen Bändel kleben 
 - [ ] sport vielleicht laufen
 - [ ] 1h coreview 
