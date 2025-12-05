@@ -26,6 +26,7 @@
 - [ ] plot binder cumulant with the new evaluated data
 - [ ] continue with slides
 - [ ] reeval the exponents
+- [ ] changed that `nbins` is dependend on the width of the simulation box factor `nbins=boxwidth*0.5` before 0.3 derived from 600 bins for 224k particles with width ~ 2000  
 
 # Important guidline to fokus on
 - <span style="font-size:120%;color:red">Don't touch the box algo anymore!</span>
