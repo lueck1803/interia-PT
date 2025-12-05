@@ -311,7 +311,12 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 - Lukas:
 	- Diagnose seit juli 24
 	- 35 jahre alte
-	- ich bi
+	- ich bin regelmäßig bei den Treffen dabei und darüber sehr dankbar
+	  ⟹ ich habe dadurch sehr viel gelernt 
+	- Medikament: Ritalin Adult 
+		- vorher 2x20 mg genommen 
+		  ⟹jetzt nur noch 1x20mg morgens
+		- ⟹ musste mir kurzfristig einen neuen Psychiater suchen und das hat gut geklappt.
 	- mein Them Kommunikation:
 		- Überkommunikation
 		- bin sehr kompetent und habe viel wissen, allerdings durch meine Kommunikation geht das leider etwas verloren und kommt anders rüber
