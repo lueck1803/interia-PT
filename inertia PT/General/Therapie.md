@@ -315,16 +315,53 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 	  ⟹ ich habe dadurch sehr viel gelernt 
 	- Medikament: Ritalin Adult 
 		- vorher 2x20 mg genommen 
-		  ⟹jetzt nur noch 1x20mg morgens
+		  ⟹jetzt nur noch 1x20mg morgens ⟹ reicht mir vollkommen und klappt auch mit dem Schlafen ganz gut
+		- ⟹kann ich gut nachvollziehen, was Andreas bzgl medikation sagt
+		  ⟹hängt auch stark mit dem Schlaf zusammen
 		- ⟹ musste mir kurzfristig einen neuen Psychiater suchen und das hat gut geklappt.
+	- Erik bzgl. soziale Interaktion:
+		- bei mir geht die Konzentration nicht runter
+		- ich kann eher nicht immer so gaaanz kontrollieren, was ich sage und bin etwas zu aufgedreht
+	- Christian (später auch Tina) Stimmlage:
+		- Verteidigungssatz macht etwas nur schlimmer
+		- kenne ich sehr gut ⟹ problem ist dabei, dass man sich zusehr von der Aussage / Frage / Vorwurf einfangen/fesseln lässt und da man die perfektionistische neigung hat (ängstliches kreisen um sich selbst), ist man sofort in der Verteidigungshaltung
+		  gibt der aussage des anderen gar keinen Raum lässt diese nicht wirken
+		  das gegenüber fühlt sich nicht so wahrgenom
+		- lautstärke kann ansteigen
+		- im nachhinein so viel arbeit die scherben wieder aufzukehren... 
+		  ⟹ich hab es ja nicht so gemeint
 	- mein Them Kommunikation:
 		- Überkommunikation
 		- bin sehr kompetent und habe viel wissen, allerdings durch meine Kommunikation geht das leider etwas verloren und kommt anders rüber
 		- klarer
 		- prägnanter
+	- Ronja 
+		- 35 
+		- medikinet
+			- auch probleme damit
+		- AuDHD:
+			- würde ich nicht drauf gehen ⟹ habe ich mich schon selbst intensiv beschäftigt. Das ADHD füllt das alles schon ganz gut aus
+	- Jakob:
+		- folge die Paartherapie ⟹ irgendwas mit ADHS
+		- irgendwas mit Loch
+		- fühlt die Aussagen von seiner Frau als angriff in seine Autonomie
 - Thema Kommunikation
 	- ich möchte lernen klarer zu kommunizieren
-	- 
+- Christian:
+	-  Tipp: Negativer Hyperfokus!
+	-  3s Zeit nehmen
+	- kein Mann frau ding
+	- akkumulation von problemen über die Zeit und dann wird es einem so als großer Berg dargestellt,⟹ tinas lösung ist gut
+	- geht nicht um den Schwamm und um die Lösungen
+	- Tonlage: 
+		- niemals mit ADHS entschuldigen, das funktioniert nicht, dann wird das einem auf dauer zur last gelegt
+		- Zeit für sich selbst nehmen. 
+		- die sache von sich selbst trennen.
+		- da ist ja auch vieles bei deiner partnerin und das hat nichts mit deinem wert zu tun
+	- Wie clemens es sagt: 
+		- ADHS ist häufig verknüpft mit Perfektionismus
+	- Benina:
+		- klarer sagen was man wirklich sagen wollte, es kommt nicht immer das an obwohl man es dachte das man das doch klar gesagt hat.
 # Beziehung 
 - ich möchte eine ehrliche offene Partnerschaft auf Augenhöhe, ich wünsche mir dass man für einander da ist, sich versteht, sich vergibt und für die Träume des anderen einsteht. Ich möchte eine Familie und Kinder. Dafür möchte ich alles tun.
 - Ja so sehe ich es ja auch.🙏
