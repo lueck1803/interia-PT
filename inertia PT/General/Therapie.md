@@ -344,7 +344,7 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 	- Jakob:
 		- folge die Paartherapie ⟹ irgendwas mit ADHS
 		- irgendwas mit Loch
-		- fühlt die Aussagen von seiner Frau als angriff in seine autonomie
+		- fühlt die Aussagen von seiner Frau als angriff in seine Autonomie
 - Thema Kommunikation
 	- ich möchte lernen klarer zu kommunizieren
 	- 
