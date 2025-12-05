@@ -311,7 +311,9 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 - Lukas:
 	- Diagnose seit juli 24
 	- 35 jahre alte
+	- ich bi
 	- mein Them Kommunikation:
+		- Überkommunikation
 		- bin sehr kompetent und habe viel wissen, allerdings durch meine Kommunikation geht das leider etwas verloren und kommt anders rüber
 		- klarer
 		- prägnanter
