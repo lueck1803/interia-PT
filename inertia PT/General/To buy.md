@@ -38,6 +38,7 @@
 - [x] Pesto 
 - [x] Roggenmehl 
 - [ ] Vitamin B12
+- [ ] Hafermilch 
 # Technik
 - [x] Logitech Z207
 - [ ] Grafikkarte 

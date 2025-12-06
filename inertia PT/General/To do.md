@@ -6,13 +6,15 @@
 - [ ] Hülse auf boxen Bändel kleben 
 - [ ] sport vielleicht laufen
 - [ ] 1h coreview 
-- [ ] informieren wie man die android policies ändert
-- [ ] Weihnachtsmarkt Pilzgericht nach kochen 
+- [x] informieren wie man die android policies ändert
+- [x] Weihnachtsmarkt Pilzgericht nach kochen 
 - [ ] wintersun sadness and hate
 - [ ] vor dem Schlafen Meditieren 
 - [ ] Küche aufräumen 
 - [ ] Glasmüll weg
 - [ ] aok neues Bild hochladen 
+- [ ] Schnittlauch umsetzen 
+- [ ] Kaffeemaschine entkalken 
 - [x] Einkaufschiphalter fixen
 - [x] pc uni checken
 - [x] Kabel kaufen
