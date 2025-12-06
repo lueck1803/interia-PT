@@ -2,7 +2,7 @@
 	- [x] mache ich heute persönlich 
 		- hab ich nicht geschafft 
 - [ ] checken wann das Essen mit Benno ist
-- [x] Nähmaschinenpreis checken
+- [ ] Nähmaschinenpreis checken
 - [ ] Hülse auf boxen Bändel kleben 
 - [ ] sport vielleicht laufen
 - [ ] 1h coreview 
@@ -14,7 +14,8 @@
 - [ ] Glasmüll weg
 - [ ] aok neues Bild hochladen 
 - [ ] Schnittlauch umsetzen 
-- [ ] Kaffeemaschine entkalken 
+- [x] Kaffeemaschine entkalken 
+- [ ] Waschmaschinen Waschpulverfach reinigen 
 - [x] Einkaufschiphalter fixen
 - [x] pc uni checken
 - [x] Kabel kaufen
