@@ -37,7 +37,7 @@
 - [x] Dosentomaten 
 - [x] Pesto 
 - [x] Roggenmehl 
-- [ ] 
+- [ ] Vitamin B12
 # Technik
 - [x] Logitech Z207
 - [ ] Grafikkarte 
