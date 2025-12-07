@@ -3,6 +3,7 @@
 		- hab ich nicht geschafft 
 - [ ] checken wann das Essen mit Benno ist
 - [x] Nähmaschinenpreis checken
+	- ⟹montag kaufen
 - [ ] Hülse auf boxen Bändel kleben 
 - [ ] sport vielleicht laufen
 - [ ] 1h coreview 
@@ -13,11 +14,10 @@
 - [ ] Küche aufräumen 
 - [ ] Glasmüll weg
 - [ ] aok neues Bild hochladen 
-- [ ] Schnittlauch umsetzen 
+- [x] Schnittlauch umsetzen 
 	- nach drinnen nehmen
 - [ ] Schneidermatte + Rollschneider + Aux Kabel zusammen bestellen
 - [ ] Klapptisch von hinten als Nähtisch unter das Bett stellen
-- [ ] Zeug vor Bad wegräumen
 - [ ] unter dem Bett aufräumen
 - [ ] Chilis schneiden
 - [ ] nochmal Pilzgericht machen
@@ -32,15 +32,15 @@
 - [ ] Chilis schneiden 
 - [ ] nochmal Pilzgericht machen
 - [ ] Bettwäsche wechseln 
-- [ ] Bettdecke waschen 
+- [x] Bettdecke waschen 
 - [ ] Kühlschrank putzen und abtauen
 - [x] Kaffeemaschine entkalken 
-- [ ] Waschmaschinen Waschpulverfach reinigen 
+- [x] Waschmaschinen Waschpulverfach reinigen 
 - [x] Einkaufschiphalter fixen
 - [x] pc uni checken
 - [x] Kabel kaufen
 	- ⟹war im Mediamarkt 😂 zu teuer
-- [ ] getrocknete chilis weg packen 
+- [x] getrocknete chilis weg packen 
 - [x] Kichererbsen tofu 
 	- ⟹perfekt geworden 
 - [x] Briefkasten checken
