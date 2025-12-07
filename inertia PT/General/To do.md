@@ -14,6 +14,13 @@
 - [ ] Glasmüll weg
 - [ ] aok neues Bild hochladen 
 - [ ] Schnittlauch umsetzen 
+	- nach drinnen nehmen
+- [ ] Schneidermatte + Rollschneider + Aux Kabel zusammen bestellen
+- [ ] Klapptisch von hinten als Nähtisch unter das Bett stellen
+- [ ] Zeug vor Bad wegräumen
+- [ ] unter dem Bett aufräumen
+- [ ] Chilis schneiden
+- [ ] nochmal Pilzgericht machen
 - [ ] ride on spirit ⟹ solo üben
 - [ ] staubsaugen
 - [ ] müll runter
