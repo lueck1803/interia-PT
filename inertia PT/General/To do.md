@@ -25,6 +25,14 @@
 - [ ] staubsaugen
 - [ ] müll runter
 - [ ] erde umgraben
+- [ ] schneidematte + Rollschneider + aux Kabel zusammen bestellen 
+- [ ] Klapptisch von hinten als nähtisch unter das Bett stellen 
+- [ ] Zeug vor dem Bad wegräumen 
+- [ ] unter dem Bett aufräumen 
+- [ ] Chilis schneiden 
+- [ ] nochmal Pilzgericht machen
+- [ ] Bettwäsche wechseln 
+- [ ] Bettdecke waschen 
 - [x] Kaffeemaschine entkalken 
 - [ ] Waschmaschinen Waschpulverfach reinigen 
 - [x] Einkaufschiphalter fixen

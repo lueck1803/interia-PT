@@ -8,9 +8,9 @@
     },
     {
       "id": "w1762526973803",
-      "name": "small",
-      "startTag": "<small>",
-      "endTag": "</small>"
+      "name": "Soft linebreak",
+      "startTag": "<br>",
+      "endTag": ""
     },
     {
       "id": "underline",
