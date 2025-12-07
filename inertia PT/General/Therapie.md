@@ -791,6 +791,9 @@ Und hab mich auch noch schuldig gefühlt dass mein Vater "Ärger" bekommen hat.
 Den hat das natürlich nicht interessiert.
 Warum auch.. ist ja sein Geld und ich hab ja auch immer etwas getan gehabt..
 
+# Bonelli
+## YT Kommentar 25-12-7
+
 
 
 
