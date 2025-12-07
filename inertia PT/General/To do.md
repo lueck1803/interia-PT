@@ -33,6 +33,7 @@
 - [ ] nochmal Pilzgericht machen
 - [ ] Bettwäsche wechseln 
 - [ ] Bettdecke waschen 
+- [ ] Kühlschrank putzen und abtauen
 - [x] Kaffeemaschine entkalken 
 - [ ] Waschmaschinen Waschpulverfach reinigen 
 - [x] Einkaufschiphalter fixen
