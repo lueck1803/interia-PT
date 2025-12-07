@@ -33,7 +33,7 @@
 - [ ] Zeug vor dem Bad wegräumen 
 - [ ] Brokkoli verarbeiten 
 - [x] Pesto wegräumen 
-- [ ] Bettwäsche wechseln 
+- [x] Bettwäsche wechseln 
 - [x] Bettdecke waschen 
 - [ ] Kühlschrank putzen und abtauen
 - [x] Kaffeemaschine entkalken 
