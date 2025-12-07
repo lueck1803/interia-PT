@@ -14,6 +14,7 @@
 - [ ] vor dem Schlafen Meditieren 
 - [ ] Küche aufräumen 
 - [ ] Glasmüll weg
+	- ⟹war total voll, muss ich morgen nochmal probieren 
 - [ ] aok neues Bild hochladen 
 - [x] Schnittlauch umsetzen 
 	- nach drinnen nehmen
@@ -25,13 +26,11 @@
 - [ ] ride on spirit ⟹ solo üben
 - [ ] staubsaugen
 - [ ] müll runter
-- [ ] erde umgraben
+	- ⟹gelber Sack wäre noch frei
+- [x] erde umgraben
 - [ ] schneidematte + Rollschneider + aux Kabel zusammen bestellen 
 - [ ] Klapptisch von hinten als nähtisch unter das Bett stellen 
 - [ ] Zeug vor dem Bad wegräumen 
-- [ ] unter dem Bett aufräumen 
-- [ ] Chilis schneiden 
-- [ ] nochmal Pilzgericht machen
 - [ ] Bettwäsche wechseln 
 - [x] Bettdecke waschen 
 - [ ] Kühlschrank putzen und abtauen
