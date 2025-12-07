@@ -15,6 +15,9 @@
 - [ ] aok neues Bild hochladen 
 - [ ] Schnittlauch umsetzen 
 - [ ] ride on spirit ⟹ solo üben
+- [ ] staubsaugen
+- [ ] müll runter
+- [ ] erde umgraben
 - [x] Kaffeemaschine entkalken 
 - [ ] Waschmaschinen Waschpulverfach reinigen 
 - [x] Einkaufschiphalter fixen
