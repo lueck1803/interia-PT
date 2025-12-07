@@ -14,6 +14,7 @@
 - [ ] Glasmüll weg
 - [ ] aok neues Bild hochladen 
 - [ ] Schnittlauch umsetzen 
+- [ ] ride on spirit ⟹ solo üben
 - [x] Kaffeemaschine entkalken 
 - [ ] Waschmaschinen Waschpulverfach reinigen 
 - [x] Einkaufschiphalter fixen
