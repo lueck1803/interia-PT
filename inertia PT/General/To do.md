@@ -32,7 +32,7 @@
 - [ ] Klapptisch von hinten als nähtisch unter das Bett stellen 
 - [ ] Zeug vor dem Bad wegräumen 
 - [ ] Brokkoli verarbeiten 
-- [ ] Pesto wegräumen 
+- [x] Pesto wegräumen 
 - [ ] Bettwäsche wechseln 
 - [x] Bettdecke waschen 
 - [ ] Kühlschrank putzen und abtauen
