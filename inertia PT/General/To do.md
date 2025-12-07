@@ -7,6 +7,7 @@
 - [ ] Hülse auf boxen Bändel kleben 
 - [ ] sport vielleicht laufen
 - [ ] 1h coreview 
+- [x] Dusche schrubben 
 - [x] informieren wie man die android policies ändert
 - [x] Weihnachtsmarkt Pilzgericht nach kochen 
 - [ ] wintersun sadness and hate
@@ -137,10 +138,11 @@
 - [ ] von alter Pfanne griff abmontieren um sie als Brottopf zu benutzen 
 ## Bad
 - [x] Bart schneiden
-- [ ] Bart Halsregion rasieren
+- [x] Bart Halsregion rasieren
 - [ ] saugen und wischen
 - [ ] Toilette putzen
 - [ ] Toilettendeckel/sitz tauschen 
+- [x] Dusche schrubben 
 ## technisches
 - Obsidian 
 	- [x] text wrapper size in shortcut einbauen 
