@@ -156,6 +156,7 @@ Der <span style="color:red;font-size:100%;">andere möchte</span> einen nicht nu
 - Ich bin dankbar, dass ich einen so tollen Freund wie den Mischa habe und will meinen Job sehr gut machen.
 - Ich bin dankbar, dass ich so tolle Freunde wie Fredin habe, die mir soooo viel zugehört haben. 😍❤️
 - Ich bin dankbar, dass ich einen so tollen Prof. wie Benno habe, der Wissen nicht hierarchisch sieht und immer lösungsorientiert ist. Ebenso bin ich froh, dass ich einen so tollen Betreuer wie Aritra habe.
+
 # Schlaf
 - kann ich <span style="color:red">mittlerweile</span> ganz <u>gut</u> ⟹ <span style="font-size:150%;color:red;">Naja</span> sei ehrlich! da hast du noch viel Arbeit vor dir
 
@@ -559,6 +560,27 @@ Und das war leider nicht wenig.
 Darf ich nicht vergessen.
 
 Da muss ich weiter an meinem stolz arbeiten
+
+## zu meinen Analysen 
+💯
+Ich weiß dass du das nicht böse nimmst.
+Ich hab ja auch nix böses gesagt und erst Recht nicht gemeint.😉
+
+Und Check einfach für dich was davon wahr ist. 
+
+Ich will dich ja hier auch nicht erklären.
+Insbesondere mich damit nicht über dich stellen 
+
+Arooj hat auf meine Erklärungen/Analysen/Hilfestellungen ja so extrem allergisch reagiert.
+Sie hat ja da immer behauptet ich wollte sie kontrollieren oder mich über sie stellen.
+BS!
+Ich wollte in erster Linie verstehen, mir helfen und damit uns. Auch wenn es nach hinten los ging. 
+
+Dass sie darauf so reagiert hat, sagt eher dass ich Recht hatte.
+Denn die Wahrheit ist die größte Beleidigung.
+
+War im Hinblick auf sie vielleicht nicht schlau.
+Aber 🤷‍♂️, so bin ich halt, warum sollte ich irgendwie Drumherum reden
 
 # Familie 
 - 
