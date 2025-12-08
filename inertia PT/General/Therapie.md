@@ -796,6 +796,35 @@ Warum auch.. ist ja sein Geld und ich hab ja auch immer etwas getan gehabt..
 https://www.youtube.com/watch?v=gOr9PYTv2P4&t=1908s
 Ich kann das Dilemma sehr nachvollziehen, auch aus eigener Erfahrung in mehrfacher Hinsicht. Daher finde ich unser jetziges System einfach immer noch das BESTE, nach Stand der Wissenschaft, der Trendentwicklung in der Psychologie und Psychiatrie und auch der gesellschaftlichen Entwicklung. Ich weiß aus meinen eigenen Psychiatrieaufenthalten - zum Glück nur kurz - wie schwierig die Gradwanderung zwischen förderlichen und unförderlichen Zwangsentscheidungen/Handlungen ist. Da Böswilligkeit oder dem system etwas negatives und makelbehaftetes unterstellen zu wollen, liegt mir fern. Es arbeiten da halt auch nur Menschen, die auch nur studiert und etwas gelernt haben und auch mit den vielen äußeren Zwängen des Systems und ihren eigenen Limits zu kämpfen haben. Ich weiß dass mir gewisse Zwangsmaßnahmen - Zeit auf der Geschlossenen, auch mit den vielen Einschränkungen drumherum und dem Gefühl jetzt irgendwie als "Täter" behandelt zu werden, dabei war es nur Eigenschutz - sehr gut getan haben und mir das auch durch Demut und durch diese für mich als "strafe" (die keine war) empfundene Maßnahme, schon währenddessen klar wurde. Ich weiß allerdings auch wie unschön es ist Antipsychotika / Neuroleptika zu bekommen, wenn es kontraindiziert ist - war einfach "nur" eine stress und durch schwere depressionen induzierte depersonalisations/derealisations/dissoziations erfahrung. Ich bin ja auf eigenen Wunsch ins Krankenhaus gegangen, - beim ersten mal ganz klar und bewusst und beim zweiten mal war ich in der Rückschau schon in der Notaufnahme im dissoziierten Zustand. Ich habe dort auch Patienten mit Psychose erlebt, die aufgrund von Zwangsmaßnahmen dann eine Zeit "verschwunden" waren, da sie fixiert werden mussten. Ich habe auch sehr junge Leute erlebt, die durch das angesprochene Cannabis psychotisch wurden und bei denen die Zwangsmaßnahmen extrem wichtig waren und geholfen haben. Das Cannabis ist heutzutage ja so stark, dass es überhaupt nicht mehr zu vergleichen ist, mit dem was in den 60igern und 70igern konsumiert wurde und auch nicht mit dem was ich in meinem frühen Erwachsenenalter mal probiert habe. Dann habe ich Straftäter in der eigenen Nachbarschaft - ich war auch Leidtragender - erlebt, bei denen die Zwangsmaßnahmen zu gering ausfielen. Das erlebt man ja auch immer wieder in den Medien durch Fälle die zb. (abgelehnte) Asylbewerber betreffen - Aschaffenburg, Brokstedt, uvm. Und dann gibt es wieder Einzelfälle bei denen Menschen viel zu lange und trotz der Bemühungen der Familien "zu Unrecht" auf Jahre in der Forensik gehalten werden. Ich habe auch Stigmatisierung durch erhaltene Fehldiagnosen - vorläufige Entlassbriefe - erlebt, die auch trotz der Revidierungen in mir lange nachgehallt und auch so nie ganz getilgt werden können. Es ist und bleibt dennoch das beste System was wir haben! Und ich bin dankbar dafür. Es tut sich ja auch etwas. Wir irren uns empor, wie Harald Lesch zu sagen pflegt. Wir Menschen sind nunmal fehlbar, also auch unsere Systeme. Das ist aber auch ok. Das gehört zur Demut dazu. Danke für Ihre Arbeit. - Bitte verzeiht mir meine Rechtschreibfehler, ich achte nicht so gerne auf Groß/Kleinschreibung. Und für korrekte Zeichensetzung bin ich bei YT auch etwas zu faul xD, ich weiß ich trage damit zur Unkultur bei, ich gelobe Besserung -
 
+# Einzel Themen/Ereignisse 
+## Nähmaschine 
+
+
+### 25-12-08 Chat mit Bilge
+[8.12., 10:53] Lukas Walter: Ich hab mir auch heute morgen auch die Nähmaschine gekauft
+[8.12., 10:53] Lukas Walter: Jetzt hab ich nen Grund unter dem Bett aufzuräumen und mir da ne neue Näh/Bastelecke einzurichten 🥲
+[8.12., 11:23] Lukas Walter: Ich glaube das hätte ich sonst wahrscheinlich ewig nicht gemacht.
+
+So werde ich den letzten Schmutz von Arooj der auf mir lastet los.
+[8.12., 11:23] Lukas Walter: Mit der Nähmaschine habe ich mich auch von dieser Wunde befreit.
+[8.12., 11:31] Lukas Walter: Daran hab ich aber gar nicht gedacht...
+
+War nochmal mehr gut dass ich die gekauft habe. 
+
+Ich wollte mir die ganze Zeit schon den hirnfurz ausreden.
+
+Hab dann gewartet und gedacht na also entweder ist sie weg oder der Preis wird gesenkt.
+Wenn der Preis gesenkt wird kaufe ich sie mir. 🤷‍♂️ (Ist auch irgendwie in mir, sonst darf ich es mir nicht gönnen, aber ist auch schlau, da ich 20€ gespart habe und genuuug Zeit hatte mir zu überlegen ob ich die wirklich "brauche" oder nur eine Lücke füllen will...)
+
+Ich hab ja eh vor mehr achtsam/bewusst zu tun und fern von Ablenkungen sowie wieder etwas schaffendes und da ist das ein Schritt. 
+
+Ein Schritt in die Freiheit.
+
+Und historische Kleidung machen wollte ich schon die letzten Jahre. 
+
+Aber da war zu viel Chaos in mir und ich wäre das wohl eh nur angegangen wenn ich Arooj 1000 mal um Hilfe angebettelt hätte.
+Dann hätte ich es aber wahrscheinlich gar nicht gemacht sondern sie ka
+
 
 
 
