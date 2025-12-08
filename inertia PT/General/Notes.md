@@ -374,3 +374,8 @@ Gleichzeitig schwer depressiv und auf der anderen Seite so reflektiert und agiti
 Das passt nicht so in die ICD X Schubladen, nach denen man lernt zu diagnostizieren.
 
 Ich verstehe ihre Zurückhaltung aus ihrer Erfahrung zu 100%.
+
+# Kinder Namen 
+## Mädchen 
+- Alva
+- Maja 
