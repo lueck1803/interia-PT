@@ -859,7 +859,51 @@ Und historische Kleidung machen wollte ich schon die letzten Jahre.
 Aber da war zu viel Chaos in mir und ich wäre das wohl eh nur angegangen wenn ich Arooj 1000 mal um Hilfe angebettelt hätte.
 Dann hätte ich es aber wahrscheinlich gar nicht gemacht sondern sie ka
 
+[8.12., 12:08] Bilge Ulusoy: Wieso Ausreden? Ist doch super dass Du sie jetzt hast!
+[8.12., 12:26] Lukas Walter: Ja warum wohl wollte ich es mir "ausreden"?
 
+Nur ein weiteres Gerät rum stehen?
+Brauche ich es wirklich?
+Also benutze ich es dann? 
+Hab ich nicht eigentlich anders zu tun? 
+Geld Verschwendung, ich sollte lieber auf mein Geld achten, ich hab mir das jetzt nicht verdient - und dafür gibt's gute Gründe, ist nix depressives.
+
+Ich lenke mich nur von den wichtigen Dingen ab.
+
+Ist es nur um dann etwas zu haben weswegen ich mit Arooj Kontakt haben kann. 
+
+Mache ich das nur um eine Lücke zu füllen - Nähmaschine meiner Mutter und die von Arooj.
+
+Will ich mir wirklich was nähen oder sind auch das nur hirn furze.
+
+Versuche ich mich mit dem Kauf von Dingen kurzfristig glücklich zu machen.
+
+Alles berechtigte Fragen.
+Um ehrlich zu mir zu sein und mich nicht zu belügen!
+
+Ich bin damit schwanger gegangen.
+
+Und der Gedanke ist dann mehr und mehr in mir gewachsen, insbesondere als Nadine mir ihr genahtes gezeigt hat und die Nähmaschine ihrer Oma.
+
+Das ist aber auch alles Dinge die ich reflektieren MUSSTE.
+
+Mein Vater wollte mir als die Nähmaschine gerade im Aldi war und ich das Wochenende kam um für die Holz zu holen 100€ dazu geben.
+
+Das hab ich direkt abgelehnt.
+
+Und das war gut.
+
+Ich hab mich vorhin als ich die gekauft hatte aber echt kurz leer und depressiv gefühlt.
+
+"War das jetzt wieder nur ein Kauf um Leere zu füllen"
+
+Und das war es nicht. 
+
+Ich hab mir das gut überlegt.
+
+Hatte aber ein Energietief in das ich mich nicht habe rein ziehen lassen.
+
+Das Ausreden wollen war gut!
 
 
 
