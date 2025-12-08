@@ -4,6 +4,7 @@
 - [ ] checken wann das Essen mit Benno ist
 - [x] Nähmaschinenpreis checken
 	- ⟹montag kaufen
+	- ⟹<span style="font-size:100%;color:red;">gekauft yeah</span> 🥰🥰🥰🥰
 - [ ] Hülse auf boxen Bändel kleben 
 - [ ] sport vielleicht laufen
 - [ ] 1h coreview 
