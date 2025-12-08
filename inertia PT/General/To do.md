@@ -5,7 +5,7 @@
 - [x] Nähmaschinenpreis checken
 	- ⟹montag kaufen
 	- ⟹<span style="font-size:100%;color:red;">gekauft yeah</span> 🥰🥰🥰🥰
-- [ ] Hülse auf boxen Bändel kleben 
+- [x] Hülse auf boxen Bändel kleben 
 - [ ] sport vielleicht laufen
 - [ ] 1h coreview 
 - [x] Dusche schrubben 
@@ -20,8 +20,8 @@
 - [x] Schnittlauch umsetzen 
 	- nach drinnen nehmen
 - [ ] Schneidermatte + Rollschneider + Aux Kabel zusammen bestellen
-- [ ] Klapptisch von hinten als Nähtisch unter das Bett stellen
-- [ ] unter dem Bett aufräumen
+- [x] Klapptisch von hinten als Nähtisch unter das Bett stellen
+- [x] unter dem Bett aufräumen
 - [ ] Chilis schneiden
 - [ ] nochmal Pilzgericht machen
 - [ ] ride on spirit ⟹ solo üben
@@ -30,7 +30,7 @@
 	- ⟹gelber Sack wäre noch frei
 - [x] erde umgraben
 - [ ] schneidematte + Rollschneider + aux Kabel zusammen bestellen 
-- [ ] Klapptisch von hinten als nähtisch unter das Bett stellen 
+- [x] Klapptisch von hinten als nähtisch unter das Bett stellen 
 - [ ] Zeug vor dem Bad wegräumen 
 - [ ] Brokkoli verarbeiten 
 - [x] Pesto wegräumen 
