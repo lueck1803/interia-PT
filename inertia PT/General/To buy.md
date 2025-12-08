@@ -38,7 +38,7 @@
 - [x] Pesto 
 - [x] Roggenmehl 
 - [ ] Vitamin B12
-- [ ] Hafermilch 
+- [x] Hafermilch 
 # Technik
 - [x] Logitech Z207
 - [ ] Grafikkarte 
@@ -54,7 +54,8 @@
 
 # Haushalt
 - [ ] Nach Gorenje WA 7439 schauen
-- [ ] Glasdose (für Kichererbsen tofu)
+- [x] Glasdose (für Kichererbsen tofu)
+	- ⟹brauche ich nicht, ich nehme die Brotform 
 # Musik
 - [ ] Akustik Gitarre 
 - [ ] Gesangsmikrofon
@@ -71,7 +72,8 @@
 # Nähen
 - [ ] Schneidermatte 
 - [ ] Rollschneider 
-- [ ] singer simple model 3232
+- [x] singer simple model 3232
+	- ⟹yeah 🥰🥰🥰🥰
 - [ ] tweat für Weste 
 - [ ] Pauspapier
 - [ ] 
