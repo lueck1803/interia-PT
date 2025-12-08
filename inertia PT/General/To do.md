@@ -106,7 +106,7 @@
 - [x] Tafel abschreiben 
 - [x] adventssfeier checken 
       ⟹ war ich leider viiiiel zu spät die Mail war ja schon vom 25.10 und seitdem auch die Anmeldung offen... Es gab zu viele Anfragen. Aber naja mach dir nix draus Luk und katastrophiere nicht.😒
-- [ ] unter dem Bett aufräumen 
+- [x] unter dem Bett aufräumen 
 - [ ] Keyboard von hinten holen 
 
 # tägliches
@@ -156,8 +156,7 @@
 	- [ ] remove .obsidian/app.json
 	- [x] check the git version on mac, how it is installed and update it
 	- [x] deinstall the old git version in windows 
-	      <span style="color:gold">⟹nicht nötig</span>
-	- [ ] 
+		- <span style="color:gold">⟹nicht nötig</span>
 
 ## Wäsche, Kleidung und Stoffe
 - [x] Bettwäsche wechseln
@@ -262,6 +261,7 @@
 	- [ ] Schaufel 
 	- [ ] mini outdoor Gewächshaus 
 - [ ] dusche dampfen
+	- ⟹Dusche habe ich aber geschrubbt
 - [ ] Uhr reparieren 
 - [x] Sauerteig auffrischen 
       <span style="font-size:100%;color:gold;">⟹Egal in irgendein Fladenbrot hauen und dann egal</span> Ist <span style="font-size:100%;color:red;">Ablenkung</span> Wenn ich leckeres Brot gehe, dann gehe ich zum Bäcker und stopfe mein Gehirn nicht mit unwichtigem Zeug voll
@@ -281,6 +281,7 @@
 - [ ] root grow stimulants 
 	- [ ] 350mg tablet aspirin in wasser 
 		- die Stecklinge haben sich stark verfärbt, man sieht die Wirkung der Säure. Ob das gut ist🤷
+		- sind verreckt 
 	- [ ] honig in heißem Wasser verrühren ⟹nur rein dippen
 	- [ ] 5 tropfen Apfelessig in auf eine halbe Tasse Wasser ⟹ nur dippen 
 	- [ ] Bananenschalen (bio) wasser 24h einweichen 
