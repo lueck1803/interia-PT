@@ -526,6 +526,40 @@ Mit mir zusammen Musik machen wollte sie und dann auch wieder nicht...
 		- minimieren: Problem nicht klein reden.
 		- ablenken: Gefühle wollen gefühlt werden. Ignorierte Gefühle schreien, gefühlte Gefühle flüstern. Raum geben. Was bereitet dir Sorgen? Aussprechen lassen was sie beschäftigt. Ihre Echten Gefühle verstehen. Körperliche Berührung hilft. (Wenn sie sie zulässt) Aktiviert parasympathicus, insbesondere wenn man selbst Ruhe ausstrahlt. Gelassenheit wirkt ansteckend und Beruhigend. Hat ja funktioniert (mit sehr schwer schwerer Anstrengung meinerseits) an dem Sonntag nach dem Konflikt mit dem Label. Eigene Anspannung verstärkt den Stress. (Ist eine große Last die auf Männern lastet...). Dann lieber sagen "ich merke dass ich selbst gerade gestresst bin, bitte gib mir 15 min, dann bin ich richtig für dich da.". Konflikte werden weniger persönlich, wenn man die emotionale Sensibilität von Frauen versteht.
 		- emotionale Sicherheit ist erlernbar 
+## 25-12-07 
+### chat mit bilge zu Angi 
+
+Ist nicht nur ein Gefühl 😉.
+
+Ich sage das ja schon obwohl ich nur Bruchteile mitbekommen habe. 
+
+Es geht gar nicht gegen sie.
+
+Es ist halt nicht was du willst.
+
+Und im Prinzip war dir das auch die ganze Zeit klar. 
+
+Du musstest dich halt selbst finden.
+
+Und Tayybas Aussage bzgl.
+Du machst wieder den gleichen Fehler.
+War halt Gold richtig. 
+Und naja manchmal muss man seiner Frau halt auch zu hören und glauben.
+
+Das versuche ich bei Arooj ja auch.
+
+Ist hart. Aber man sollte immer überprüfen was an den Aussagen wahr ist. 
+
+Und Arooj kennt mich ja auch gut.
+
+Ich musste leider auch viel Schmutz von ihren Aussagen weg filtern.
+
+Und das war leider nicht wenig.
+
+Darf ich nicht vergessen.
+
+Da muss ich weiter an meinem stolz arbeiten
+
 # Familie 
 - 
 # Psychiater
