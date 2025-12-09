@@ -364,6 +364,16 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 	- Benina:
 		- klarer sagen was man wirklich sagen wollte, es kommt nicht immer das an obwohl man es dachte das man das doch klar gesagt hat.
 # Beziehung 
+- ich hätte arooj auf Händen tragen müssen und auch wollen
+- ich war zu sehr in meinen gestörten Vorstellungen und hab mich davon beeinflussen lassen. Da ist zu viel zerstörerisches. Ein falsches Bild von Sexualität an mich ran getragen worden 
+- ich war da leider an manchen Stellen nicht respektvoll genug
+- das hat nicht meinen Werten entsprochen 
+- aber genau dafür habe ich mich auch verachtet 
+- die Normalisierung von gewisser Sexualität die an mich heran getragen wurde, ist nicht normal und entspricht nicht meinen Werten 
+- ich dachte aber es wäre normal 
+- so wurde halt mit mir umgegangen und so habe ich es erfahren 
+
+
 - ich möchte eine ehrliche offene Partnerschaft auf Augenhöhe, ich wünsche mir dass man für einander da ist, sich versteht, sich vergibt und für die Träume des anderen einsteht. Ich möchte eine Familie und Kinder. Dafür möchte ich alles tun.
 - Ja so sehe ich es ja auch.🙏
 
