@@ -16,6 +16,7 @@
 - [ ] Küche aufräumen 
 - [ ] Glasmüll weg
 	- ⟹war total voll, muss ich morgen nochmal probieren 
+	- ⟹immer noch voll 12-09
 - [ ] aok neues Bild hochladen 
 - [x] Schnittlauch umsetzen 
 	- nach drinnen nehmen
