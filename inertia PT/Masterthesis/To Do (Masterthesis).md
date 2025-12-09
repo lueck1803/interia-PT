@@ -105,6 +105,7 @@
 - [ ] evaluate binder for 28k particles with halfstddev and compare the plot with stdDev
 	
 # Box Algo
+- [ ] make an exception handling for the case if dense/dilute boxes are n
 - [ ] put the box evaluation on the cluster and evaluate the data there
 - [ ] ask kayro for rights to push to upstream
 - [ ] kann den prozess beschleunigen, in dem ich das überprüfen der phase width aus filter new peak pit auslagere und distdata-evalbox, get_peak_pit, sowie filter peak_pit nur laufen lasse, wenn height_mul geändert wurde. 
