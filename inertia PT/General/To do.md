@@ -27,8 +27,9 @@
 - [ ] nochmal Pilzgericht machen
 - [ ] ride on spirit ⟹ solo üben
 - [ ] staubsaugen
-- [ ] müll runter
-	- ⟹gelber Sack wäre noch frei
+- [x] müll runter
+	- [x] ⟹gelber Sack wäre noch frei
+	- [x] Biomüll
 - [x] erde umgraben
 - [ ] schneidematte + Rollschneider + aux Kabel zusammen bestellen 
 - [x] Klapptisch von hinten als nähtisch unter das Bett stellen 
