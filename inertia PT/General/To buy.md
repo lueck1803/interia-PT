@@ -23,7 +23,7 @@
 - [x] Käse 
 - [x] Kartoffeln 
 - [x] Zwiebeln 
-- [x] Toast
+- [ ] Toast
 - [x] Pesto
 - [x] Thunfisch
 - [x] Fusilli
@@ -38,6 +38,7 @@
 - [x] Pesto 
 - [x] Roggenmehl 
 - [ ] Vitamin B12
+- [ ] Parmesan zum reiben
 - [x] Hafermilch 
 # Technik
 - [x] Logitech Z207
