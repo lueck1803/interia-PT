@@ -23,7 +23,9 @@
 - [x] Käse 
 - [x] Kartoffeln 
 - [x] Zwiebeln 
-- [ ] Toast
+- [x] Toast
+- [ ] scharfer Senf 
+- [ ] chipolte soße
 - [x] Pesto
 - [x] Thunfisch
 - [x] Fusilli
