@@ -25,7 +25,7 @@
 - [x] Zwiebeln 
 - [x] Toast
 - [ ] scharfer Senf 
-- [ ] chipolte soße
+- [x] chipolte soße
 - [x] Pesto
 - [x] Thunfisch
 - [x] Fusilli
@@ -39,7 +39,7 @@
 - [x] Dosentomaten 
 - [x] Pesto 
 - [x] Roggenmehl 
-- [ ] Vitamin B12
+- [x] Vitamin B12
 - [ ] Parmesan zum reiben
 - [x] Hafermilch 
 # Technik
