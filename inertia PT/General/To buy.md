@@ -40,7 +40,7 @@
 - [x] Pesto 
 - [x] Roggenmehl 
 - [x] Vitamin B12
-- [ ] Parmesan zum reiben
+- [x] Parmesan zum reiben
 - [x] Hafermilch 
 # Technik
 - [x] Logitech Z207
