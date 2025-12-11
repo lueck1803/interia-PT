@@ -12,7 +12,15 @@ Meine Fragen dazu sind:
 	- was du dazu trägst
 	- welche Farben du überhaupt magst
 	- zu welchem Anlass du es trägst - da du Freddie damit überraschen wolltest, dachte ich dass du es zu Weihnachten tragen möchtest
-	- ⟹dann wahrscheinlich rot bzw
+	- ⟹dann wahrscheinlich rot bzw. Grün
+- beim färben musst du bedenken - ich gehe mal von batik farben aus -, dass das etwas Zeit in Anspruch nimmt. 
+	- Farbe besorgen 
+	- vorarbeiten dass du keine sauerrei machst 
+	- wirken und hängen lassen
+	- mehrere Wäschegänge mit der Hand bis keine Farbe mehr raus geht
+	- fixieren, wirken lassen
+	- wieder waschen und dann in die Waschmaschine 
+	- aufpassen mit welcher j
 # fast notes
 - latex suite:
   {trigger: "|", replacement: "|$0|$1", options: "mA"},
