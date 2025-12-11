@@ -20,7 +20,8 @@ Meine Fragen dazu sind:
 	- mehrere Wäschegänge mit der Hand bis keine Farbe mehr raus geht
 	- fixieren, wirken lassen
 	- wieder waschen und dann in die Waschmaschine 
-	- aufpassen mit welcher j
+	- aufpassen mit welcher Kleidung du es zusammen wäscht, kann trotz allem noch abfärben 
+- wie wäre es alternativ mit Verzierungen mit Applikationen?
 # fast notes
 - latex suite:
   {trigger: "|", replacement: "|$0|$1", options: "mA"},
