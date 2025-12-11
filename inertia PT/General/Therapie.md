@@ -364,6 +364,7 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 	- Benina:
 		- klarer sagen was man wirklich sagen wollte, es kommt nicht immer das an obwohl man es dachte das man das doch klar gesagt hat.
 # Beziehung 
+- 25-12-10/11: Arooj hat mich auf Spotify blockiert 
 ## Narzissmus 
 https://www.ardaudiothek.de/episode/urn:ard:episode:6a15c06b35e2aff6/
 
