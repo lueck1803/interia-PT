@@ -3,6 +3,16 @@ Also die Frage ist doch obsolet. Insbesondere in dieser verhaltenen Art. Du kenn
 Selbstverständlich werde ich dich nach meinem Vermögen beraten und das ist selbstverständlich immer ehrlich, denn sonst ist das ja sinnlos.🤷
 Ich kann gar nicht anders. 😁
 Danke jedenfalls dass du mich wählst und das Gefühl hast, dass ich dir da weiterhelfen kann. 🥰🙏
+
+Meine Fragen dazu sind:
+- hattest du es denn schonmal an? 
+- gefällst du dir darin nicht? 
+- würdest du mir Fotos von dir in dem Kleidungsstück schicken? Denn das bräuchte ich schon. 
+- eine mögliche Färbung hängt natürlich ganz davon ab, 
+	- was du dazu trägst
+	- welche Farben du überhaupt magst
+	- zu welchem Anlass du es trägst - da du Freddie damit überraschen wolltest, dachte ich dass du es zu Weihnachten tragen möchtest
+	- ⟹dann wahrscheinlich rot bzw
 # fast notes
 - latex suite:
   {trigger: "|", replacement: "|$0|$1", options: "mA"},
