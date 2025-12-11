@@ -1,3 +1,8 @@
+# Nachricht an Nadine 
+Also die Frage ist doch obsolet. Insbesondere in dieser verhaltenen Art. Du kennst mich doch mittlerweile hoffentlich gut genug. 😁🫣😅😶‍🌫️🫂
+Selbstverständlich werde ich dich nach meinem Vermögen beraten und das ist selbstverständlich immer ehrlich, denn sonst ist das ja sinnlos.🤷
+Ich kann gar nicht anders. 😁
+Danke jedenfalls dass du mich wählst und das Gefühl hast, dass ich dir da weiterhelfen kann. 🥰🙏
 # fast notes
 - latex suite:
   {trigger: "|", replacement: "|$0|$1", options: "mA"},
