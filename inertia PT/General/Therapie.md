@@ -364,6 +364,15 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 	- Benina:
 		- klarer sagen was man wirklich sagen wollte, es kommt nicht immer das an obwohl man es dachte das man das doch klar gesagt hat.
 # Beziehung 
+## Narzissmus 
+https://www.ardaudiothek.de/episode/urn:ard:episode:6a15c06b35e2aff6/
+
+Joa also schon ziemlich Arooj.
+Joa 🤷‍♂️ dazu sag ich mal nix🤭.
+
+Ich denke es spricht sehr für sich selbst.
+
+---
 - ich hätte arooj auf Händen tragen müssen und auch wollen
 - ich war zu sehr in meinen gestörten Vorstellungen und hab mich davon beeinflussen lassen. Da ist zu viel zerstörerisches. Ein falsches Bild von Sexualität an mich ran getragen worden 
 - ich war da leider an manchen Stellen nicht respektvoll genug
