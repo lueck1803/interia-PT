@@ -373,6 +373,10 @@ Joa 🤷‍♂️ dazu sag ich mal nix🤭.
 
 Ich denke es spricht sehr für sich selbst.
 
+### Beziehung mit einem Narzissten
+https://youtu.be/fSQcxS6re_s?si=3XryOperKEyY2tls
+
+
 ---
 - ich hätte arooj auf Händen tragen müssen und auch wollen
 - ich war zu sehr in meinen gestörten Vorstellungen und hab mich davon beeinflussen lassen. Da ist zu viel zerstörerisches. Ein falsches Bild von Sexualität an mich ran getragen worden 
