@@ -1,6 +1,6 @@
 
 # non food
-- [ ] Mundspülung 
+- [x] Mundspülung 
 - [x] Silikonbackpinsel 
 - [ ] kleinen Schneebesen 
 - [ ] Papierklammern 
