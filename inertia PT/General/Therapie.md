@@ -423,6 +423,74 @@ Mir wurde es als etwas normales suggeriert und vom Umfeld vorgelebt. Als etwas b
 Angekämpft habe ich dagegen kognitiv immer.
 In emotional und körperlich schwachen Momenten oder aus trotz gegenüber deinem ungerechten Verhalten ist meine kognitive Schutzmauer dünner geworden.
 
+Aber ja ich weiß eh nicht ob ich überhaupt schreiben sollte.
+
+Ich bekomme eh nur ne Zurückweisung. In Vergangenheit kam ich damit sehr gut klar und hab mich davon nicht beirren lassen.
+
+Ich habs dann ja seit Mai/Juni sein gelassen.  
+
+Ich hab auch einfach zu viel Mitgefühl.
+
+sie schämt sich ja für ihr Mitgefühl.
+
+auch wenn sie immer mal wieder welches hat heraus blitzen lassen.
+
+Ich hatte ihr Montag über Spotify mal die Pumuckl Folge mit dem Pudding geschickt.
+Die hat sie immer so geliebt.
+Da ich die gehört hatte, habe ich halt an sie gedacht.
+
+Donnerstag habe ich dann gesehen, dass sie mich auf spotify blockiert hat.🤷‍♀️
+
+Ich weiß nicht, was ich getan habe, dass sie überhaupt diese Wut entwickelt hat.
+Dieses Schwanken zwischen Zuneigung, Kontakt Suche und Mitgefühl zu Wut und Abwertung.
+Das war ja im September/Oktober so ein Hin-undHer bei ihr.
+
+ich bin mittlerweile auch recht gut davon überzeugt, dass Arooj eine narzisstische Persönlichkeitsstörung hat, das passt sehr gut gerade zu ihrem Gesamtverhalten.
+Ich habe lange genug versucht sie "zu heilen", "ihr zu helfen".
+
+Es ist immer eine kräftezehrende Arbeit durch ihre Mauer zu ihr hervor zu dringen.
+Ne... das mache ich nicht mehr. Ich hab auch nicht mehr die Energie.
+
+Sie muss etwas tun, das wird sie nicht.
+
+Sie hat im Mai und am Sonntag bevor sie die Sachen abgeholt hat, nachdem ich sie mal richtig angekackt habe, hart und klar zu ihr war, den Moment gehabt, dass sie gemerkt hat "ich brauche Hilfe, ich muss was ändern", da sie dann mal nen Moment kapiert, dass es vielleicht angemessen wäre, sich zu entschuldigen hat für ihre Eskapaden.
+Das habe ich ihr dann nur schwer abgekauft.
+
+Ich bin das aber nicht... ich bin kein wütender Mensch. Ich hasse es wütend zu sein und "auf die Kacke zu hauen".
+Ich bin auch der Meinung, dass es das überhaupt nicht braucht.
+
+Aber wenn man ihr mit Logik und Empathie kommt... kannste vergessen.
+
+Als die Nachbarin zu ihr geschrieben hat, dass sie es nicht cool fand, dass sie einfach in die wohnung ist, hat sie sich auch erstmal für ihre ehrliche Meinung bedankt und dann nach ner weile bestimmt gesagt, dass es ihr recht sei.
+
+Sie ist fähig normal zu kommunizieren und herzlich zu sein, wenn diese Mauer durchbrochen ist.
+Aber dazu muss man diese erstmal durchdringen und dabei allen Minen ausweichen, um ja nix kaputt zu machen.
+Gutes zureden und die schuld auf sich nehmen...
+bloß keine kritik.
+jo... das ist natürlich irgendwie manipulativ.
+Aber sie braucht das wohl. Denn sie verträgt die Wahrheit so als ganzes nicht.
+Außer mit Wut und Angriff gepaart...
+
+Wütend werde ich nicht mehr sein. bin ich nicht und wozu auch.
+Das war ich zwecks ihres verwirrendem Verhalten genug. 
+
+Ich würde es ja wirklich gerne mit offener ruhiger und vorsichtiger Kommunikation versuchen.
+Ich kann mittlerweile auch wieder sehr gut Vorwürfe aushalten. Ich würde sie mir anhören, ihr raum geben und ruhig dazu etwas sagen.
+Denn ich weiß ja mittlerweile, dass Vorwürfe nur ihr Mittel sind, um ihre unsicherheiten zu überdecken.
+Ich muss also gar nicht selbst angreifen, sondern diese einfach nur hinnehmen.
+
+Wenn ich das richtig verstanden habe, ist sie davon verletzt gewesen, dass ich ihr Spiel nicht mitgespielt habe...
+
+Ich habe mich nicht von ihr provozieren lassen.
+Ich bin nicht auf Angriff gegangen bei ihren letzten Drohungen und Verdrehungen.
+
+Ich habe nicht um sie gebettelt um sie gekämpft.
+Das hat sie erwartet.
+
+stattdessen bin ich ihr aus dem weg gegangen und hab versucht dem Ganzen nachzukommen und zu überleben.
+
+
+
 
 
 
