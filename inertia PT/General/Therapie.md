@@ -404,6 +404,28 @@ Ich habe deinen Frust '24 und Anfang '25 sehr verstanden. Ich war doch selbst so
 Am Ende war ich dann auch immer für alles und jeden Konflikt verantwortlich. Mir hat bei eine Portion Selbstkritik gefehlt.
 Gut wie auch, ich hab ja immer geredet, mich für alles entschuldigt und erklärt, du hattest gar nicht die Chance zu reden.🤷‍♂️
 
++im Mai hast du gesagt du brauchst viel Zeit.
+
+Das habe ich besser verstanden.
+Ich habe dir und auch mir die Zeit gegeben und gebe sie dir weiterhin.
+
+Ich habe dir auch wirklich kaum Luft gelassen deine Gedanken und Emotionen zu beruhigen.
+
+*Naja... Gut mir hast du diese Luft auch nicht gelassen, mir manchmal ganz schön viel Druck gemacht und dabei überhaupt nicht hingehört was ich sage, stattdessen das gehört was du hören wolltes*
+<span style="font-size:100%;color:cyan;">⟹ Laut Freddie weglassen</span>
+
+ +es tut mir sehr leid dich verletzt zu haben. 
+Daran was ich getan habe ist nichts "normal" oder zu rechtfertigen. Ich kann es nun vollständig nachvollziehen, wie sehr es dich verletzt hat. 
+Ich habe mir damit ja selbst geschadet, mich vor mir selbst geschämt und mich verachtet.
+
+Ich musste es auch körperlich und emotional begreifen wie sehr ich mir und dir damit geschadet habe. 
+Mir wurde es als etwas normales suggeriert und vom Umfeld vorgelebt. Als etwas befreiendes. Was es nicht ist.
+Angekämpft habe ich dagegen kognitiv immer.
+In emotional und körperlich schwachen Momenten oder aus trotz gegenüber deinem ungerechten Verhalten ist meine kognitive Schutzmauer dünner geworden.
+
+
+
+
 ## 25-12-10/11: Arooj hat mich auf Spotify blockiert 
 ## Narzissmus 
 https://www.ardaudiothek.de/episode/urn:ard:episode:6a15c06b35e2aff6/
