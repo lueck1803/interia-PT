@@ -1,5 +1,5 @@
 - [x] Canon am Laptop installieren
-- [ ] Lotos set durchführen
+- [x] Lotos set durchführen
 - [x] oxana schreiben wegen Weihnachtsfeier 
 	- [x] mache ich heute persönlich 
 		- hab ich nicht geschafft 
