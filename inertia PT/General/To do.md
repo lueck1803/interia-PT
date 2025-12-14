@@ -12,7 +12,7 @@
 - [ ] sport vielleicht laufen
 - [ ] 1h coreview 
 - [ ] Wiki Eintrag für glue 
-- [ ] mintfarbene Jogginghose flicken
+- [x] mintfarbene Jogginghose flicken
 - [ ] gelben Pulli flicken
 - [x] Dusche schrubben 
 - [x] informieren wie man die android policies ändert
