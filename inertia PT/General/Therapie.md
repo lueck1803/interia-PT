@@ -489,6 +489,81 @@ Das hat sie erwartet.
 
 stattdessen bin ich ihr aus dem weg gegangen und hab versucht dem Ganzen nachzukommen und zu überleben.
 
+ich muss meine Abhängigkeit ihr gegenüber in den Griff bekommen.
+
+Ich muss auch einfach noch leiden. Lernen durch Schmerz. Das ist meine Schule.
+
+Sie muss halt auch lernen...
+
+Wenn sie der Ansicht ist, dass ich gefährlich bin und dass eine Folge Pumuckl für sie gefährlich ist.🤷‍♀️
+Dann muss sie halt weiterhin in ihrer narzisstischen Schutzumschlagwelt leben.
+In dieser Welt bin ich böse und gefährlich, sonst hat sie ja etwas falsch gemacht oder irgendwelches Fehlverhalten gezeigt.
+Das geht bei ihr aber nur in kurzen Momenten. Dann schämt sie sich und das kompensiert sie mit Wut. 🤷‍♀️
+
+Ich hab sie zu häufig versucht zu beschützen in dem ich der Kühler ihres Motors war. 
+Das hat sie aber alles vergessen und diese Momente am besten noch abgespeichert, dass ich ihr da was schlechtes eingeredet habe...
+und ansonsten alle schlechten Momente gespeichert.
+
+Jetzt muss sie vielleicht einfach heiß laufen und mal die Konsequenzen spüren.
+Ich würde es ja gerne anders machen...
+Ich würde ihr gerne schreiben...
+Aber ich hatte genug Hass und Verachtung in meinem Leben zu spüren bekommen.
+Dessen bin ich überdrüssig.
+
+Ich muss meine Sucht/Vermissen/Abhängigkeit bzgl Arooj in den Griff bekommen nur so kann ich beziehungsfähig werden und eine Familie haben.
+
+Arooj wollte doch plötzlich alles nicht mehr und hat alles verachtet, was ihr zwei Wochen davor noch total wichtig war...
+
+Sie hat mich noch gefragt, ob ich nicht mal mit ihr nach Japan will.😵‍💫😵‍💫
+Da hat sie zu viel Studio Ghibli geschaut...
+
+Das mit der NPS ist auch überhaupt nicht böse und dämonisierend gemeint.
+
+Das ist halt ihre Traumafolgestörung.
+So geht sie damit um.
+
+Es ist halt so dass sie die Dinge verdreht und sich die Welt zurecht dreht, damit sie in ihren Augen passt, da sie es nicht anders erträgt.
+
+Nur mit genug Leidensdruck, kommt sie drauf, dass sie ein Problem hat und macht vielleicht ne Therapie oder ist ehrlich zu sich.
+
+Deshalb schrieb ich ja "ich lass dir Zeit"... denn das braucht sie anscheinend, - habe ich jetzt so gelernt - aber ob ich ihr das schreiben sollte...
+puuh
+
+Ach wenn ich ehrlich mit mir bin... 
+ich kann es eh nicht lassen....
+das quält mich zu sehr...
+
+ich schreib das und wenn sie dann die emails blockiert oder die polizei bei mir vorbei kommt...
+hmm ja ok... ne ich lass es lieber xD
+
+keine lust am ende als krank und gefährlich dargestellt zu werden... ne... reicht mir.
+ich hab schon genug das gefühl dass die leute denken ich bin total gestört xD
+und ein Täter der schlecht zu frauen ist...😵‍💫
+
+Man kann sie emotional wohl nur erreichen wenn man sie in eine emotionale Situation aus der Kindheit bringt die sie kennt. 
+
+Da die Person mit NPS dann Mitgefühl haben kann.
+
+Ja exakt das habe ich bei ihr erlebt.
+Ich habe da in Vergangenheit immer im trüben gestochert, irgendwann hat es klick gemacht. Ich wusste aber nicht dass es damit zu tun hat.
+
+Ich würde sie gerne emotional erreichen.
+
+Ich glaube nicht dass ich das mit einer Mail erreichen kann. 
+
+Wenn ich sie sehen würde ja. Da ist sie ganz anders. 
+
+Das ist aber jetzt das letzte Mal auf dem MMA gewesen.
+
+Aber ja... Es tut mir auch irgendwie leid dass ich im September keine Kapazitäten und Energie hatte um die Emotionen die Arooj ja plötzlich wieder hatte und ihre verletztlichkeit wieder irgendwie auffangen zu können, zu ordnen und für sie da zu sein. 
+
+Ich war zu sehr am Ende, als dass ich auf ihr Verhalten mit "ich bin da, lass es raus, es ist OK, ich verurteile dich nicht, hier ist dein schutz Raum" reagieren hätte können.🤷‍♂️
+
+Kann auch nicht über allem drüber stehen. Wusste auch nicht ob ich richtig liege mit meinen Einschätzungen.
+
+Ist auch einfach mal Zeit dass sie lernt ihre Mauer selbst herunterzulassen und zu kommunizieren was sie fühlt. 
+
+Ich muss nicht immer alles mit gutem Willen erraten..
 
 
 
