@@ -1,4 +1,5 @@
-- [x]  oxana schreiben wegen Weihnachtsfeier 
+- [ ] Canon am Laptop installieren
+- [x] oxana schreiben wegen Weihnachtsfeier 
 	- [x] mache ich heute persönlich 
 		- hab ich nicht geschafft 
 	- hat sich erledigt, ich war nicht da
