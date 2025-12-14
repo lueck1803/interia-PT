@@ -1,6 +1,7 @@
-- [ ]  oxana schreiben wegen Weihnachtsfeier 
+- [x]  oxana schreiben wegen Weihnachtsfeier 
 	- [x] mache ich heute persönlich 
 		- hab ich nicht geschafft 
+	- hat sich erledigt, ich war nicht da
 - [ ] checken wann das Essen mit Benno ist
 - [x] Nähmaschinenpreis checken
 	- ⟹montag kaufen
@@ -8,6 +9,7 @@
 - [x] Hülse auf boxen Bändel kleben 
 - [ ] sport vielleicht laufen
 - [ ] 1h coreview 
+- [ ] Wiki Eintrag für glue 
 - [x] Dusche schrubben 
 - [x] informieren wie man die android policies ändert
 - [x] Weihnachtsmarkt Pilzgericht nach kochen 
