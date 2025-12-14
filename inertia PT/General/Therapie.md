@@ -364,7 +364,47 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 	- Benina:
 		- klarer sagen was man wirklich sagen wollte, es kommt nicht immer das an obwohl man es dachte das man das doch klar gesagt hat.
 # Beziehung 
-- 25-12-10/11: Arooj hat mich auf Spotify blockiert 
+## 25-11-14 erneuter Versuch Email an Arooj 
+Meint ihr es wäre vielleicht ein Anfang, wenn ich Arooj eine Mail schreibe mit:
+
+Hallo liebe Arooj,
+
+Ich habe dich immer noch genauso gerne wie eh und je. 
+
+Ich bin sehr dankbar für die gemeinsame Zeit.
+Insbesondere dafür dass ich durch dich ein anderer Mensch geworden bin, mehr über mich gelernt und zu mir gefunden habe.
+
+Durch deine Ehrlichkeit bzgl deiner Gefühle und Störfaktoren ich zu mir hart und ehrlich sein musste.
+Mich mit meinen Glaubenssätzen, Verletzungen und Abgründen auseinander setzen und mit diesen in den Konflikt treten musste. 
+
+Es tut mir leid dass ich in ein paar  Dingen nicht ehrlich zu dir war, ich war es auch nicht zu mir. Ich war selten ehrlich zu mir. Ich habe mir durch Glaubenssätze Anderer mein Leben und meine Person bestimmen lassen.
+Da waren auch welche von dir dabei. Wobei du in dem du diese ausgesprochen hast, eigentlich nur aus Selbstschutz und Angst meine Schwächen angesprochen hast.
+
+...(Hier breche ich ab, da ich wieder abschweife)
+
+Meine Durcheinander hat sich gelegt, ich hoffe auch du bist etwas zu dir gekommen und hast etwas Ordnung in dir schaffen können.
+
+Ich schätze dich sehr, ganz egal was war und würde mich sehr über ein Gespräch mit dir freuen. Zuletzt warst du dazu ja wie auch im Mai bereit.
+
+Liebe Grüße dein Luk
+Vielleicht noch etwas in der Art hinzuzufügen.
+
+Ich habe dir immer zu gehört und deine Worte ernst genommen, es hat manchmal etwas gebraucht diese in mir wiederhallen zu lassen, um sie umzusetzen.
+
+Ich bin sehr dankbar für die Zeit mit dir und dass du mir immer den Spiegel vor gehalten hast.
+
+Wärst du nicht gewesen, hätte ich mich doch nie diesem Kampf gegen meine innerlichen Geister gestellt.
+
+Ich habe so sehr mit und an mir gelitten da ich uns genügen wollte, umso mehr hat es mich verletzt dass das alles nicht genug war und nicht gewürdigt wurde.
+
+Ich bin doch für uns ins Krankenhaus gegangen.
+Ich hab mich doch intensiv mit Persönlichkeitsstörungen auseinander gesetzt, habe herausgefunden dass ich ADHS habe, habe mich intensiv damit beschäftigt, um uns ein gemeinsames Leben und eine Familie zu ermöglichen.
+
+Ich habe deinen Frust '24 und Anfang '25 sehr verstanden. Ich war doch selbst so frustriert. Es hat mich aber auch sehr verletzt, immer noch nicht genug zu sein/genug zu tun. 
+Am Ende war ich dann auch immer für alles und jeden Konflikt verantwortlich. Mir hat bei eine Portion Selbstkritik gefehlt.
+Gut wie auch, ich hab ja immer geredet, mich für alles entschuldigt und erklärt, du hattest gar nicht die Chance zu reden.🤷‍♂️
+
+## 25-12-10/11: Arooj hat mich auf Spotify blockiert 
 ## Narzissmus 
 https://www.ardaudiothek.de/episode/urn:ard:episode:6a15c06b35e2aff6/
 
