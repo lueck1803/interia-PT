@@ -64,7 +64,7 @@
 # Musik
 - [ ] Akustik Gitarre 
 - [ ] Gesangsmikrofon
-- [ ] aux Verlängerungskabel  (3m oder reichen 2m ? Ja ich gehe davon aus, dass es ein 1,8m Kabel ist) ⟹ vielleicht mal im Saturn vorbei schauen 
+- [x] aux Verlängerungskabel  (3m oder reichen 2m ? Ja ich gehe davon aus, dass es ein 1,8m Kabel ist) ⟹ vielleicht mal im Saturn vorbei schauen 
 # Pflanzen 
 - schöne eckige Glassschüssel für die carnivoren 
 	- [ ] vom buttlers
@@ -76,6 +76,9 @@
 
 # Nähen
 - [x] Schneidermatte 
+- [x] Schneiderkreide
+- [x] Bügelvlies
+- [x] Zeichenhilfen
 - [x] Rollschneider 
 - [x] singer simple model 3232
 	- ⟹yeah 🥰🥰🥰🥰
