@@ -20,13 +20,14 @@
 - [ ] wintersun sadness and hate
 - [ ] vor dem Schlafen Meditieren 
 - [ ] Küche aufräumen 
-- [ ] Glasmüll weg
+- [x] Glasmüll weg
 	- ⟹war total voll, muss ich morgen nochmal probieren 
 	- ⟹immer noch voll 12-09
+	- ⟹12-13 weggebracht
 - [ ] aok neues Bild hochladen 
 - [x] Schnittlauch umsetzen 
 	- nach drinnen nehmen
-- [ ] Schneidermatte + Rollschneider + Aux Kabel zusammen bestellen
+- [x] Schneidermatte + Rollschneider + Aux Kabel zusammen bestellen
 - [x] Klapptisch von hinten als Nähtisch unter das Bett stellen
 - [x] unter dem Bett aufräumen
 - [ ] Chilis schneiden
@@ -37,7 +38,6 @@
 	- [x] ⟹gelber Sack wäre noch frei
 	- [x] Biomüll
 - [x] erde umgraben
-- [ ] schneidematte + Rollschneider + aux Kabel zusammen bestellen 
 - [x] Klapptisch von hinten als nähtisch unter das Bett stellen 
 - [ ] Zeug vor dem Bad wegräumen 
 - [x] Brokkoli verarbeiten 
