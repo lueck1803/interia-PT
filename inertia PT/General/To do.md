@@ -25,6 +25,8 @@
 	- ⟹immer noch voll 12-09
 	- ⟹12-13 weggebracht
 - [ ] aok neues Bild hochladen 
+      ⟹habe das Bild vorher mit Gimp aufgehellt
+      ![](Pasted%20image%2020251215173627.png)
 - [ ] Konto checken
 - [x] Schnittlauch umsetzen 
 	- nach drinnen nehmen
