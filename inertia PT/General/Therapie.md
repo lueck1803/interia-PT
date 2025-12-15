@@ -565,7 +565,34 @@ Ist auch einfach mal Zeit dass sie lernt ihre Mauer selbst herunterzulassen und 
 
 Ich muss nicht immer alles mit gutem Willen erraten..
 
+### 25-12-15
+Ich werde Arooj schreiben.
 
+Ich finde sie hat es verdient.
+
+Sie hat Mitgefühl verdient und verdient verstanden zu werden.
+
+Ich hätte gerne vorher noch mehr Verständnis für sie gehabt und hätte das ganze verhindert.
+
+Auch früher klarer kommunizieren sollen dass ich sie verstehe.
+
+Auch wenn ich das habe...
+
+Sie hat es mir ja eh nicht geglaubt.
+
+Ich vergesse schon wieder dass sie mir stattdessen alles mögliche unterstellt hat, was ja eigentlich mein Grund wäre warum ich rede...
+
+Aber gut...
+Das ist nunmal ihre Persönlichkeitsstörung.
+
+So habe ich das ja immer wieder erlebt.
+
+Da habe ich auch einfach zu viel Druck gemacht mit meinen Klarstellungen.
+Statt dass ich ihr Raum gebe und ihr für eine Zeit ihre Welt lasse.
+
+Ihr die Möglichkeit mit Ruhe und Raum gebe das selbst zu hinterfragen.
+
+Da habe ich zu wenig ihre Herkunft und Erfahrungen berücksichtigt.
 
 
 
