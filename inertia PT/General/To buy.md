@@ -75,12 +75,12 @@
 - [x] carnivoren set
 
 # Nähen
-- [ ] Schneidermatte 
-- [ ] Rollschneider 
+- [x] Schneidermatte 
+- [x] Rollschneider 
 - [x] singer simple model 3232
 	- ⟹yeah 🥰🥰🥰🥰
 - [ ] tweat für Weste 
-- [ ] Pauspapier
+- [x] Pauspapier
 - [ ] 
 
 
