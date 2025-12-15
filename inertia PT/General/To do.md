@@ -9,11 +9,11 @@
 	- ⟹montag kaufen
 	- ⟹<span style="font-size:100%;color:red;">gekauft yeah</span> 🥰🥰🥰🥰
 - [x] Hülse auf boxen Bändel kleben 
-- [ ] sport vielleicht laufen
+- [x] Nähmaschine einrichten und Faden auffädeln 
 - [ ] 1h coreview 
 - [ ] Wiki Eintrag für glue 
 - [x] mintfarbene Jogginghose flicken
-- [ ] gelben Pulli flicken
+- [x] gelben Pulli flicken
 - [x] Dusche schrubben 
 - [x] informieren wie man die android policies ändert
 - [x] Weihnachtsmarkt Pilzgericht nach kochen 
@@ -40,7 +40,7 @@
 - [ ] schneidematte + Rollschneider + aux Kabel zusammen bestellen 
 - [x] Klapptisch von hinten als nähtisch unter das Bett stellen 
 - [ ] Zeug vor dem Bad wegräumen 
-- [ ] Brokkoli verarbeiten 
+- [x] Brokkoli verarbeiten 
 - [x] Pesto wegräumen 
 - [x] Bettwäsche wechseln 
 - [x] Bettdecke waschen 
@@ -80,7 +80,7 @@
 - [x] Zeug abheften
 - [ ] Tisch aufräumen
 - [x] susceptibility
-- [ ] Kartons
+- [x] Kartons
 - [x] Fotos vom alten Drucker
 	- muss ich nicht, ich gebe ihn Bilge 
 - [x] Essen Kochen
