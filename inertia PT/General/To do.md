@@ -11,7 +11,7 @@
 - [x] Hülse auf boxen Bändel kleben 
 - [x] Nähmaschine einrichten und Faden auffädeln 
 - [ ] 1h coreview 
-- [ ] Wiki Eintrag für glue 
+- [x] Wiki Eintrag für glue 
 - [x] mintfarbene Jogginghose flicken
 - [x] gelben Pulli flicken
 - [x] Dusche schrubben 
@@ -24,7 +24,7 @@
 	- ⟹war total voll, muss ich morgen nochmal probieren 
 	- ⟹immer noch voll 12-09
 	- ⟹12-13 weggebracht
-- [ ] aok neues Bild hochladen 
+- [x] aok neues Bild hochladen 
       ⟹habe das Bild vorher mit Gimp aufgehellt
       ![](Pasted%20image%2020251215173627.png)
 - [ ] Konto checken
