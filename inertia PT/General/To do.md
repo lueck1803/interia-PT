@@ -19,12 +19,13 @@
 - [x] Weihnachtsmarkt Pilzgericht nach kochen 
 - [ ] wintersun sadness and hate
 - [ ] vor dem Schlafen Meditieren 
-- [ ] Küche aufräumen 
+- [x] Küche aufräumen 
 - [x] Glasmüll weg
 	- ⟹war total voll, muss ich morgen nochmal probieren 
 	- ⟹immer noch voll 12-09
 	- ⟹12-13 weggebracht
 - [ ] aok neues Bild hochladen 
+- [ ] Konto checken
 - [x] Schnittlauch umsetzen 
 	- nach drinnen nehmen
 - [x] Schneidermatte + Rollschneider + Aux Kabel zusammen bestellen
