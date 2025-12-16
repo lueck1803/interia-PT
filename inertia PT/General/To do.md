@@ -121,6 +121,16 @@
 - [ ] Keyboard von hinten holen 
 
 # tägliches
+## Wohnbereich 
+- [ ] Esstisch wischen 
+- [ ] Sofa saugen 
+- [ ] Boden saugen
+- [ ] Boden wischen 
+## Schlafbereich 
+- [ ] Bettwäsche wechseln 
+- [ ] Boden saugen 
+- [ ] Klamottenfach aufräumen 
+
 ## Küche
 - Arbeitsplatte
 	- [x] saugen
@@ -256,6 +266,7 @@
 - [x] Papa zeigen wie er gerade und ungerade Seiten eines scans merged
 	- hat mit scan Gear viel besser geklappt als mit pdftk
 # wenn ich lust und zeit habe
+- [ ] Fenster putzen 
 - [ ] Schreibtischauflage
 - [ ] Akustikgitarre Saiten wechseln
 - [x] Sparkassen App+push tan
