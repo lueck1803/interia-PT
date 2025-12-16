@@ -368,11 +368,19 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 	- Benina:
 		- klarer sagen was man wirklich sagen wollte, es kommt nicht immer das an obwohl man es dachte das man das doch klar gesagt hat.
 # Beziehung 
+
 ## 25-12-16
 Wenn Arooj der Ansicht ist, ich bin <span style="font-size:100%;color:red;">nur eine Option</span> und sie könnte mich immer wieder weg werfen da ich eh wieder zurück komme, dann kann das nicht funktionieren.
 So wie sie mich zu letzt behandelt hat, lasse ich mich nicht mehr behandeln.
 Da gibt's auch nix zu rechtfertigen und Mitgefühl/Mitleid mit ihr zu haben. 
 Sie hat ja auch keines mit mir und auch keinerlei Nachsicht.
+
+Ich würde niemals wollen dass meine Kinder in den Kontakt mit diesem ideologischen Gift kommt.
+
+Ich hätte niemals zugelassen dass unseren Kindern die Haare abgeschnitten werden wegen dieser widerlichen Ideologie.
+
+Man kann diesen Menschen nicht trauen, sie haben uns ständig etwas vor gelogen.
+
 ## 25-12-14 erneuter Versuch Email an Arooj 
 Meint ihr es wäre vielleicht ein Anfang, wenn ich Arooj eine Mail schreibe mit:
 
