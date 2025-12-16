@@ -67,6 +67,10 @@ flowchart TB
 	- Dienst an der Gesellschaft
 - Nicht an der Vergangenheit festhalten.
 - Sachverhalte nicht mehr übererklären. Weniger ist mehr. Lass deine Worte wirken. Kommuniziere klar, präzise und selbstbewusst.
+- Wenn Arooj der Ansicht ist, ich bin <span style="font-size:100%;color:red;">nur eine Option</span> und sie könnte mich immer wieder weg werfen da ich eh wieder zurück komme, dann kann das nicht funktionieren.
+	- So wie sie mich zu letzt behandelt hat, lasse ich mich nicht mehr behandeln.
+	- Da gibt's auch nix zu rechtfertigen und Mitgefühl/Mitleid mit ihr zu haben. 
+	- Sie hat ja auch keines mit mir und auch keinerlei Nachsicht.
 
 # Issues
 - Vom <span style="font-size:100%;color:gold;">"Butterfly effect Denken"</span> wegkommen.
