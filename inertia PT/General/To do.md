@@ -28,7 +28,7 @@
 - [ ] zero Trust Assessment+maester.dev
 - [ ] Folien für master Thesis 
 - [ ] Fritteuse in Spülmaschine und weg packen 
-- [ ] to do aufrä
+- [ ] to do aufräumen 
 - [x] Küche aufräumen 
 - [x] Glasmüll weg
 	- ⟹war total voll, muss ich morgen nochmal probieren 
@@ -43,10 +43,11 @@
 - [x] Schneidermatte + Rollschneider + Aux Kabel zusammen bestellen
 - [x] Klapptisch von hinten als Nähtisch unter das Bett stellen
 - [x] unter dem Bett aufräumen
-- [ ] Chilis schneiden
-- [ ] nochmal Pilzgericht machen
+- [x] Chilis schneiden
+	- sind tot und stehen draußen 
+	- hab jetzt die aus dem Büro
+- [x] nochmal Pilzgericht machen
 - [ ] ride on spirit ⟹ solo üben
-- [ ] staubsaugen
 - [x] müll runter
 	- [x] ⟹gelber Sack wäre noch frei
 	- [x] Biomüll
@@ -120,7 +121,7 @@
 - [x] Fladenbrot mit Sauerteig 
 - [ ] Bad 
 	- [x] saugen
-	- [ ] wischen
+	- [x] wischen
 - [x] bei SHG anmelden 
 - [x] Mischa Stunden schicken 
 - [ ] Georgios nochmal schreiben
@@ -196,7 +197,7 @@
 - [x] neuen Schlafanzug 
 - [x] Schlafanzughose flicken
 ## sonstiges
-- [ ] Kartons wegräumen 
+- [x] Kartons wegräumen 
 - [x] wann ist der Vortrag im hessischen Landesmuseum 
 	- war ein toller Vortrag und ich habe Laura kennengelernt 
 - [x] Konto checken 
