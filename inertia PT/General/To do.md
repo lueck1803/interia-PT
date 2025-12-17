@@ -29,6 +29,7 @@
 - [ ] Folien für master Thesis 
 - [ ] Fritteuse in Spülmaschine und weg packen 
 - [ ] to do aufräumen 
+- [ ] bot. Garten Schriften lesen 
 - [x] Küche aufräumen 
 - [x] Glasmüll weg
 	- ⟹war total voll, muss ich morgen nochmal probieren 
