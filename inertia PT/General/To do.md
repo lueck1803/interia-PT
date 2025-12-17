@@ -18,7 +18,17 @@
 - [x] informieren wie man die android policies ändert
 - [x] Weihnachtsmarkt Pilzgericht nach kochen 
 - [ ] wintersun sadness and hate
-- [ ] vor dem Schlafen Meditieren 
+- [ ] Meditieren 
+- [ ] laufen 
+- [ ] Staubsaugen 
+- [ ] Küche aufräumen 
+- [ ] Bestellung auspacken 
+	- [ ] aux Kabel ausprobieren 
+- [ ] ms Security weiter machen 
+- [ ] zero Trust Assessment+maester.dev
+- [ ] Folien für master Thesis 
+- [ ] Fritteuse in Spülmaschine und weg packen 
+- [ ] to do aufrä
 - [x] Küche aufräumen 
 - [x] Glasmüll weg
 	- ⟹war total voll, muss ich morgen nochmal probieren 
