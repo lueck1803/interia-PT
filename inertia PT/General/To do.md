@@ -21,13 +21,15 @@
 - [ ] Meditieren 
 - [ ] laufen 
 - [ ] Staubsaugen 
-- [ ] Küche aufräumen 
+- [x] Küche aufräumen 
 - [ ] Bestellung auspacken 
 	- [ ] aux Kabel ausprobieren 
 - [ ] ms Security weiter machen 
 - [ ] zero Trust Assessment+maester.dev
 - [ ] Folien für master Thesis 
-- [ ] Fritteuse in Spülmaschine und weg packen 
+- [ ] Fritteuse 
+	- [x] in Spülmaschine
+	- [ ] und weg packen 
 - [ ] to do aufräumen 
 - [ ] bot. Garten Schriften lesen 
 - [x] Küche aufräumen 
