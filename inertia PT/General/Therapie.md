@@ -368,6 +368,11 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 	- Benina:
 		- klarer sagen was man wirklich sagen wollte, es kommt nicht immer das an obwohl man es dachte das man das doch klar gesagt hat.
 # Beziehung 
+## 25-12-16 Ronja
+1. Weiß gerade gar nicht was ich schreiben soll
+2. Will niemanden überfordern 
+3. Bin ja jemand der offen ist und gerne alles erzählt, kein Blatt vor den Mund nimmt und dem auch nicht so wirklich was peinlich ist, aber eigentlich will ich Arooj ausklammern. Möchte nicht dass es um sie geht, das ist weird. Auf der anderen Seite hat sie ein Drittel meines Lebens bestimmt und "sie" bestimmt es bis heute besser sie macht es aus und macht mich aus.
+4. Ich will auch nicht dependent sein ganz unabhängig davon dass ich gar nicht weiß wie der Kontakt sein wird und was ich davon erwarte / möchte. Kognitiv möchte ich einfach mal jemanden neues kennen lernen, mich austauschen, Freundschaft schließen und mich an neuem bereichern. Ich weiß aber gar nicht ob ich das kann und was mein Körper/mein Unterbewusstsein will. Ich hoffe ich kann mich genug bremsen. Ich will nicht zu viel sein und will herauszufinden was ich will, was ich für ein Mensch bin. Ich möchte achtsamer sein. Daher bin ich froh dass sie sich so zeit lässt. Vielleicht ist sie da weiser als ich oder sie handelt einfach nach ihrem Gefühl. Es ist jedenfalls gut. Ich brauche das. Und irgendwie glaube ich es ist besser wenn sie gar nicht schreibt oder erst viel später 🫣. Ich glaube ich brauche noch Zeit und muss noch ein ganzes Stück erwachsener werden.
 
 ## 25-12-16
 Wenn Arooj der Ansicht ist, ich bin <span style="font-size:100%;color:red;">nur eine Option</span> und sie könnte mich immer wieder weg werfen da ich eh wieder zurück komme, dann kann das nicht funktionieren.
