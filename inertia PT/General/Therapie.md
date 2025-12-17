@@ -377,7 +377,7 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 ### Arooj:
 - ihre Behauptungen dass meine Vorwürfe und Erklärungen ihr Gegenüber, zb dass ihre Familie einen keil zwischen uns getrieben hat nur ist weil ich es angeblich nicht wahr haben kann verlassen zu werden, ist eine Lüge und Projektion.
 - ziemlichicher Quatsch das ganze auf etwas egoistisches/ narzisstisches meinerseits zu projizieren obwohl ich ja nur die Wahrheit beleuchten wollte.
-- sie muss es halt selbst auf die Reihe bekommen zu wissen was sie möchte und das klae
+- sie muss es halt selbst auf die Reihe bekommen zu wissen was sie möchte und das klar kommunizieren lernen. Jo am Ende hab ich sie ja von Anfang an immer nur manipuliert 
 ## 25-12-16
 Wenn Arooj der Ansicht ist, ich bin <span style="font-size:100%;color:red;">nur eine Option</span> und sie könnte mich immer wieder weg werfen da ich eh wieder zurück komme, dann kann das nicht funktionieren.
 So wie sie mich zu letzt behandelt hat, lasse ich mich nicht mehr behandeln.
