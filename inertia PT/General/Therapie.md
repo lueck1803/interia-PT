@@ -368,7 +368,122 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 	- Benina:
 		- klarer sagen was man wirklich sagen wollte, es kommt nicht immer das an obwohl man es dachte das man das doch klar gesagt hat.
 # Beziehung 
-## 25-12-16 Ronja
+## 25-12-18 Arooj 
+Als Arooj ‘23 durch das eingerede ihrer Mutter und Schwester so einen Druck wegen Nachwuchs verspürt hat, habe ich ihr auch nochmal gesagt dass sie was Konflikte angeht erstmal selbst erwachsen werden muss, ich kann keine zwei Kinder erziehen. (Wortlaut war anders, eher indirekter und nicht in einer Botschaft)
+
+Das war ja der Grund für die Trennung auch wenn sie das nie zugeben würde. Sie hat ja stattdessen eine andere Geschichte gespinnt.
+Abwertung und mich als Manipulator dargestellt.
+
+Typische narzisstische Krise.
+Dass das der Grund war, kann ich mir auch vorstellen 😅 "kann keine zwei Kinder erziehen" - da fühlt sie sich natürlich nicht auf Augenhöhe 🙈
+Wenn das wirklich deine Meinung ist, hättest du dich nicht längst trennen müssen? 😅
+Ne.... Hätte ich nicht.
+
+Denn ich weiß ja was ich an ihr habe. 
+
+Ich habe auch nicht gesagt zwei Kinder erziehen...
+
+Im Endeffekt bedeutet es aber das. 
+
+Das war ja eine viel breitere Argumentationskette...
+
+Habe ich euch aber auch schon gesagt. 
+
+1. Lassen wir uns nicht unter Druck setzen, Arooj war zu dem Zeitpunkt noch jung genug, ist sie auch immer noch. Wir müssen keinen Vorstellungen von ihrer Mutter und Schwester genügen, sie ist ja nicht umsonst ausgezogen.
+
+2. Wollten wir beide ganz sicher nicht dass unsere Kinder zusammen mit denen ihrer Schwester aufwachsen. Nur weil sie so eine Abgrenzung zur Außenwelt und daher keine Freunde hat, muss ihre Schwester her halten. Das sind auch so Vorstellungen ihrer Familie. Alles schön zusammen, nur nix nach draußen, denn draußen ist böse. Am besten sollten wir noch bei denen einziehen und deren Haus mit abbezahlen.
+Hätte Arooj keine 3 Monate ausgehalten - wie dieses Jahr auch...
+
+3. Ich wollte meinen Abschluss machen und sie auch. Ich hab ihr gesagt "arbeite mal ne Weile Vollzeit und dann weißt du wie und ob das geht, lass uns an einem gescheiten Rhythmus arbeiten. 
+
+4. So wie Arooj noch immer nicht kritikfähig ist und dann bei kleinen Problemen Zeug in sich rein frisst. Das auf akkumuliert und dann auf einmal die Bombe platzt, sich eventuell mit Leuten an legt, das geht nicht wenn man so viele Aufgaben zu erfüllen hat. Man muss funktionieren und sich aufeinander verlassen können.
+
+5. Da haben wir noch massiv aneinander zu arbeiten. 
+
+6. Außerdem musste ich ja herausfinden was mit mir nicht stimmt.
+
+
+Also... Ich hab das nicht so gesagt.
+
+Ja ich habe zu der Zeit auch ein paar Dinge etwas unsensibel gesagt, aber da gehören auch zwei dazu. 
+
+Sie muss sich halt schon auch etwas ändern und fähig sein nachzugeben.
+
+Das war ja das Problem
+Habe ich lange genug gemacht, dass ich auf sie zu gegangen bin, um ihre Mauern abzubauen. 
+
+Sie braucht das halt leider auch🤷‍♂️.
+Zumindest wenn es in angemessener Zeit geschehen soll.
+
+Aber vielleicht war ich da auch zu schnell, ungeduldig, bedürftig und emotional abhängig.
+Definitiv.
+
+Daher lasse ich ihr jetzt einfach die Zeit🤷‍♂️.
+
+
+Aber ich schaue mich nach anderen Menschen um, um ein gesundes Umfeld aufzubauen.
+
+Und selbst gesund zu werden. 
+
+Ich hab da ja eh keine Absichten zb was da jetzt Ronja angeht.
+Aber mal schauen.
+
+Ewig warten kann ich auf Arooj nicht.
+
+Ich glaube auch nicht so ganz daran dass sie wirklich in der Lage ist so tiefe Erkenntnis zu erlangen.
+
+Zumindest nicht wenn ich immer wieder auf sie zu gehe
+Bevor ich an Arooj etwas zu kritisieren habe, habe ich an mir genug Baustellen....
+
+Ich stehe da in nichts nach
+Prinzipiell kann und muss ich Arooj ja schon ein bisschen entgegen kommen.
+In dem ich ein paar Dinge klar stelle.
+
+- meine Position zu den Bildern, dass ich verstehe was es mit ihr gemacht hat, dass mir das wirklich leid tut. Ich das bereue. Ich das schon immer nicht wollte, wie ich das in Vergangenheit schon gesagt habe.
+Dass ich damit aber Probleme hatte und nicht so ganz wusste wo ich stehe und wie ich das schaffe. 
+
+Ich das aber jetzt seit einer ganzen Weile und dauerhaft geschafft habe. 
+Da ich da sehr stark am zusammen Spiel Kopf, Herz und Bauch gearbeitet habe. 
+
+Nicht nur deshalb. 
+
+Überhaupt wegen meinem Durcheinander.
+
+Und das mein Umgang damit auch Teil meines allgemeinen durcheinanders ist. 
+
+
+- ich jetzt besser verstanden habe, was ihre Bedürfnisse sind bei Gesprächen 
+
+- ich so viel ruhiger geworden bin, mehr in mir Ruhe 
+
+- klarer im Kopf bin, meinen Kompass ausgerichtet habe, in vielen Situationen viel ruhiger und gelassener bin. 
+
+- meine Sachen auf die Reihe bekomme. 
+
+---
+Wobei alles ab Punkt 4 etwas ist, was ich eher zeigen möchte/kann, statt zu reden. 
+Ja jedenfalls den ersten Punkt, sowie den zweiten gemischt mit dem 3. Punkt könnte ich ihr knapp ausformuliert zu sammen mit.
+
+Dass sie sich Zeit lassen kann um sich zu sortieren, ich da bin, die Tür offen steht und ich keinen Groll hege.
+Bei dieser Formulierung bräuchte ich Hilfe. 
+
+Da wäre es schon wichtig, jedes Wort mit bedacht zu wählen und ja keine Kritik an ihr zu äußern. (Wobei ich mir da auch wieder denke, warum ich immer so vorsichtig sein muss, wenn sie sich alles leisten kann und sie ihr Verhalten eh wieder vergisst und alles zurecht legt. Darauf habe ich eigentlich auch gar keine Lust mehr) 
+
+Ich kann was die Formulierung angeht, aber auch Mal Chat gpt oder le chat fragen. ^^
+
+Und mir überlegen wie viel Zeit ich noch verstreichen lasse.
+
+Aber am besten mache ich einfach gar nix. 
+
+Kümmere mich um mich.
+
+Versuche meine emotionale Abhängigkeit komplett anzubauen.
+Denn die hat in einer Beziehung, ganz unabhängig mit wem nix verloren.
+
+Ich brauche ja auch noch Zeit 🤷‍♂️.
+
+Die habe ich mir in Vergangenheit nie gegeben.
+## 25-12-17 Ronja
 1. Weiß gerade gar nicht was ich schreiben soll
 2. Will niemanden überfordern 
 3. Bin ja jemand der offen ist und gerne alles erzählt, kein Blatt vor den Mund nimmt und dem auch nicht so wirklich was peinlich ist, aber eigentlich will ich Arooj ausklammern. Möchte nicht dass es um sie geht, das ist weird. Auf der anderen Seite hat sie ein Drittel meines Lebens bestimmt und "sie" bestimmt es bis heute besser sie macht es aus und macht mich aus.
