@@ -20,10 +20,12 @@
 - [ ] wintersun sadness and hate
 - [ ] Meditieren 
 - [ ] laufen 
-- [ ] Staubsaugen 
+- [x] Staubsaugen 
+- [ ] Sofa saugen
 - [x] Küche aufräumen 
-- [ ] Bestellung auspacken 
-	- [ ] aux Kabel ausprobieren 
+- [x] Bestellung auspacken 
+	- [x] aux Kabel ausprobieren 
+	- ⟹perfekt so ist es echt wunderbar. Dummerweise habe ich ausversehen zwei bestellt
 - [ ] ms Security weiter machen 
 - [ ] zero Trust Assessment+maester.dev
 - [ ] Folien für master Thesis 
@@ -51,6 +53,7 @@
 	- hab jetzt die aus dem Büro
 - [x] nochmal Pilzgericht machen
 - [ ] ride on spirit ⟹ solo üben
+	- [x] mal damit angefangen 
 - [x] müll runter
 	- [x] ⟹gelber Sack wäre noch frei
 	- [x] Biomüll
