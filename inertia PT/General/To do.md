@@ -43,6 +43,7 @@
       ⟹habe das Bild vorher mit Gimp aufgehellt
       ![](Pasted%20image%2020251215173627.png)
 - [ ] Konto checken
+	- [ ] Gehaltsabrechnung checken und fragen was mit September ist
 - [x] Schnittlauch umsetzen 
 	- nach drinnen nehmen
 - [x] Schneidermatte + Rollschneider + Aux Kabel zusammen bestellen
