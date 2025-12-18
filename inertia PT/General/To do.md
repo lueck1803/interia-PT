@@ -21,17 +21,19 @@
 - [ ] Meditieren 
 - [ ] laufen 
 - [x] Staubsaugen 
-- [ ] Sofa saugen
+- [x] Sofa saugen
 - [x] Küche aufräumen 
 - [x] Bestellung auspacken 
 	- [x] aux Kabel ausprobieren 
 	- ⟹perfekt so ist es echt wunderbar. Dummerweise habe ich ausversehen zwei bestellt
 - [ ] ms Security weiter machen 
 - [ ] zero Trust Assessment+maester.dev
+	- [ ] zero trust assessment hat nicht geklappt 
+	- [x] maester dev hat geklappt 
 - [ ] Folien für master Thesis 
 - [ ] Fritteuse 
 	- [x] in Spülmaschine
-	- [ ] und weg packen 
+	- [x] und weg packen 
 - [ ] to do aufräumen 
 - [ ] bot. Garten Schriften lesen 
 - [x] Küche aufräumen 
