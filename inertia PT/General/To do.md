@@ -20,16 +20,20 @@
 - [ ] wintersun sadness and hate
 - [ ] Meditieren 
 - [ ] laufen 
-- [ ] Staubsaugen 
+- [x] Staubsaugen 
+- [x] Sofa saugen
 - [x] Küche aufräumen 
-- [ ] Bestellung auspacken 
-	- [ ] aux Kabel ausprobieren 
+- [x] Bestellung auspacken 
+	- [x] aux Kabel ausprobieren 
+	- ⟹perfekt so ist es echt wunderbar. Dummerweise habe ich ausversehen zwei bestellt
 - [ ] ms Security weiter machen 
 - [ ] zero Trust Assessment+maester.dev
+	- [ ] zero trust assessment hat nicht geklappt 
+	- [x] maester dev hat geklappt 
 - [ ] Folien für master Thesis 
 - [ ] Fritteuse 
 	- [x] in Spülmaschine
-	- [ ] und weg packen 
+	- [x] und weg packen 
 - [ ] to do aufräumen 
 - [ ] bot. Garten Schriften lesen 
 - [x] Küche aufräumen 
@@ -41,6 +45,7 @@
       ⟹habe das Bild vorher mit Gimp aufgehellt
       ![](Pasted%20image%2020251215173627.png)
 - [ ] Konto checken
+	- [ ] Gehaltsabrechnung checken und fragen was mit September ist
 - [x] Schnittlauch umsetzen 
 	- nach drinnen nehmen
 - [x] Schneidermatte + Rollschneider + Aux Kabel zusammen bestellen
@@ -51,6 +56,7 @@
 	- hab jetzt die aus dem Büro
 - [x] nochmal Pilzgericht machen
 - [ ] ride on spirit ⟹ solo üben
+	- [x] mal damit angefangen 
 - [x] müll runter
 	- [x] ⟹gelber Sack wäre noch frei
 	- [x] Biomüll

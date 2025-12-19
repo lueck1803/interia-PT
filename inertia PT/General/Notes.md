@@ -392,6 +392,17 @@ Mir tut auch Micro "Fehlverhalten" leid. Auch wenn sie das auch macht.
 Manchmal hatte sie dann auch so das Gefühl so schlecht behandelt zu werden, hat dabei aber null auf ihr micro Verhalten geachtet.
 
 # yt Kommentare
+24:46 the explanation why the positron is going with a higher probability rate to plus than to minus has nothing to do with "the spin is almost already facing the plus end of the machine".
+What do you even mean by that? 
+
+You are talking about your sketched arrows?
+
+I know what you mean, but for people who are not into it it's ambiguous.
+
+Maybe you should have explained that the vector of the spin which is pointing in the minus z direction has a component of the to the 60° (=180°-120°) tilted plus direction (north pole) cos(60°)=0.5.
+
+This is the reason of the 25% landing at the minus (south pole) and 75% at the plus (north pole), if the spin of the positron is through the entanglement minus (down) - the opposite of the electronn which had a plus (up) spin. 
+
 5. Doch sehr möglich... Therapeuten und Ärzte sind auch nur Menschen. Die können zum Teil mit Menschen wie sie es ist nicht so viel anfangen. Da sie zu viel durchdenken und nicht handlungsarm sind. 
 
 Gleichzeitig schwer depressiv und auf der anderen Seite so reflektiert und agitiert.
