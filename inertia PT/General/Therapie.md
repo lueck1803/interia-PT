@@ -368,6 +368,81 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 	- Benina:
 		- klarer sagen was man wirklich sagen wollte, es kommt nicht immer das an obwohl man es dachte das man das doch klar gesagt hat.
 # Beziehung 
+## 25-12-19 Mutter, Arooj 
+Ziemlich lustig...
+
+Meine Mutter rufte mich gerade an. 
+Das letzte Mal als sie mich angerufen hat, war als mein Vater unter dem Traktor lag. 
+Also sie ruft mich eigentlich nie an, insbesondere nicht zu so einer Zeit 😅.
+
+Wenn dann schreibt sie aus "diesem Grund" (den Grund erkläre ich gleich)...
+
+Ich dachte natürlich erstmal "oh nein, es ist etwas passiert" (war aber jetzt nicht überdramatisiert, eher "OK gut dann ist es halt so, ich höre mal was sie zu sagen hat und habe selbst aber keine emotionale Reaktion")
+
+Es war zum Glück nix.
+
+Sie wollte nur wissen ob es mir gut geht. 
+Da hatte sie wohl wieder mal ein schlechtes Gefühl oder vielleicht schlecht geträumt.
+Das meine ich mit Grund aus dem sie schreibt, sie hat dann irgendwie eine Angst und dann fragt sie, es geht ihr dabei aber nur um ihre Angst. Naja ich nehme es nicht persönlich.
+
+Ich hab halt gefragt ob alles bei ihr gut ist und gesagt dass der Anruf sehr ungewöhnlich ist und ob denn etwas passiert sei. 
+
+Sie meinte dann "nein, wir haben nur die Hühner geschlachtet" 🤣.
+
+Ich: "naja dann ist ja doch etwas passiert. Je nach Perspektive schlimm oder weniger schlimm"
+
+Das süße ist. Ich meinte dann "oh jetzt vermisst der Papa aber die Hühner"
+Sie dann "jaaa" in so einer ganz gerührten kindlichen Stimme die ich nicht von ihr kenne 🤭. So hat eher Arooj gesprochen wenn sie diese Art von Mitgefühl oder Emotion bzgl gerührtheit (positiv aber etwas melancholisch) gezeigt hat.
+
+Sie meinte er ist jetzt etwas aus der Ordnung, denn jetzt fehlt ihm der tägliche Routine Gang.
+
+Er hat halt immer nach dem Mittagessen ganz fröhlich die Essensreste hingebracht. Auch mit so ner Komponente, dass er dazu neigte was für die Hühner aufzuheben🥰.
+So Aussagen wie "oh ihr solltet mal sehen wie sich die Hühner darauf stürzen werden". Er hat halt immer so die Reste in die Salatsoße rein getan. (Bei meinen Eltern gibt's immer Salat dazu. Klar kommt ja aus dem Garten) 
+
+Ich mag seine Freude darüber. Arooj hat das auch immer sehr gemocht.
+
+ Der älteste Sohn meiner Schwester hat dann auch immer gesagt, wenn er keinen Hunger mehr hatte. "Das ist für die Hühnern [sic!]" (das n ist Absicht).
+
+Schon sehr süß. 
+
+Ja jetzt wird ihm das fehlen, auch mit den Hühnern zu singen.🥲🥹
+
+Ich hab ihn gerne. 
+Jetzt hat er aber eine Last weniger und kann dann mehr spazieren gehen. Ich hoffe es jedenfalls.
+Hätte ich gerne Arooj erzählt.
+
+Sie hätte es gefreut 🤷‍♂️.
+
+Sie mag meinen Papa genauso wie ich.🤷‍♂️
+Ich kann aber nix dafür dass sie ihr Herz so verschließt.
+
+Eigentlich weiß sie was sie an mir hat und wie sehr sie das alles liebt.
+
+Umso mehr taten ihre Worte und Verachtung weh.
+
+Ich denke daher dass es nicht die Wahrheit war, sondern ihr Schmerz.
+
+Kindlicher trotz.
+
+Typisch 🤷‍♂️
+Aber passt halt zum Bild ihrer Störung.
+
+Und zu meiner Aussage dass es dann eben häufig so war als würde man ein Kind erziehen
+Letztes Jahr hat sie ja auch meine Eltern zum sommer Kaffeekränzchen des bot. Gartens eingeladen und nicht ihre Familie 🤷‍♂️.
+
+Aber gut ich bin ja wieder Schuld gewesen dass wir nicht so häufig bei ihrer Familie waren, wie bei meiner....
+
+Alles klar.
+Hat ja nix damit zu tun, wie Arooj selbst zu ihrer Familie und deren tägliche/s Aussagen/ Verhalten steht und was ihre Familie für einschneidende Aktionen/Aussagen gebracht haben.
+Ich kann nicht mehr immer und immer wieder Energie da rein stecken die Realität und das Ist möglichst getreu darzustellen. 
+
+Ich kann nix dafür dass bei ihr immer wieder ein Shift im narrativ entsteht.
+
+Ich hab keine Kraft mehr für ihre Unbeständigkeit.
+
+Auch wenn das sehr sehr sehr schmerzt und ich weiß wie sehr es ihr schmerzt, weshalb es ja noch mehr schmerzt.
+
+Es ist ihre Entscheidung. Ich muss damit (über)leben.
 ## 25-12-18 Arooj 
 Als Arooj ‘23 durch das eingerede ihrer Mutter und Schwester so einen Druck wegen Nachwuchs verspürt hat, habe ich ihr auch nochmal gesagt dass sie was Konflikte angeht erstmal selbst erwachsen werden muss, ich kann keine zwei Kinder erziehen. (Wortlaut war anders, eher indirekter und nicht in einer Botschaft)
 
