@@ -3,6 +3,7 @@
 - <span style="font-size:150%;color:DodgerBlue;">Lao Tzu</span> - <span style="font-size:200%;color:lawngreen;">The Art of not Trying</span>
 	- Gehe mit der Entropie
 - Dienst <u>an</u> der <span style="font-size:100%;color:red;">Sache</span>
+- Motivation <span style="font-size:150%;color:lawngreen;">⟸</span> Handlung <br> Motivation <span style="font-size:150%;color:red;">↛</span> Handlung
 - <span style="font-size:150%;color:coral;">Bewege</span> Dich!
 - Stress?
    ⟹ Bewegung und Meditation 
