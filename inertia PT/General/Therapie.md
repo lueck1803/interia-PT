@@ -4,6 +4,18 @@
 	- Gehe mit der Entropie
 - Dienst <u>an</u> der <span style="font-size:100%;color:red;">Sache</span>
 - Motivation <span style="font-size:150%;color:lawngreen;">⟸</span> Handlung <br> Motivation <span style="font-size:150%;color:red;">↛</span> Handlung
+- keine Pornos schauen 
+	- widerspricht deinen Werten
+	- deinem Frauenbild ⟸ keine Objektivierung 
+	- ist eine riesige Zeitverschwendung 
+	- du verlierst dich 
+	- es geht dir danach schlecht
+	- du machst dein Testosteron Level kaputt
+	- du reagierst dann schneller erregt wenn du schöne Frauen siehst
+	- du über stimulierst dich
+	- du blickst danach auf dich herab
+	- du hast so viele schöne andere Sachen die du tun kannst. 
+	- es widerspricht der Regel
 - <span style="font-size:150%;color:coral;">Bewege</span> Dich!
 - Stress?
    ⟹ Bewegung und Meditation 
