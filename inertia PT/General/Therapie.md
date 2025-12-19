@@ -4,6 +4,7 @@
 	- Gehe mit der Entropie
 - Dienst <u>an</u> der <span style="font-size:100%;color:red;">Sache</span>
 - Motivation <span style="font-size:150%;color:lawngreen;">⟸</span> Handlung <br> Motivation <span style="font-size:150%;color:red;">↛</span> Handlung
+- sei ganz in dem was du tust<br>⤷nur eine Sache gleichzeitig 
 - keine Pornos schauen 
 	- widerspricht deinen Werten
 	- deinem Frauenbild ⟸ keine Objektivierung 
@@ -15,7 +16,12 @@
 	- du über stimulierst dich
 	- du blickst danach auf dich herab
 	- du hast so viele schöne andere Sachen die du tun kannst. 
-	- es widerspricht der Regel
+	- es widerspricht der Regel, dass du nur eine Sache gleichzeitig machen möchtest
+	- du bist dann nicht voll bei dir
+	- du willst echten Sex haben, und dabei voll bei der anderen Person und im Moment sein
+	- es zerstört dein Bild von dem was dich erregt
+	- mache lieber mehr sport, um dein Testosteron Level anzuheben 
+	- so hast du auch weniger Drang dich bei innerer Unruhe anzufassen und zu stimulieren 
 - <span style="font-size:150%;color:coral;">Bewege</span> Dich!
 - Stress?
    ⟹ Bewegung und Meditation 
