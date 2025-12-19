@@ -250,6 +250,9 @@
 - [x] Notizen zu *why you can't finish simple tasks* machen
 - [x] Notizen zur Kommunikation Friedemann schulz von Thun 
 # Arbeit
+- [ ] <span style="font-size:100%;color:red">mich gut in Coreview einarbeiten, da ich ab nächsten jahr mehr mit coreview zusammenarbeiten werde</span>
+- [ ] bräuchten Soft fail bei den workflows
+- [ ] if closes in den Workflows anschauen
 - [ ] mit einem älteren Checkpoint in der VM verbinden. ist es der richtige? Wie geht das?
 - [x] Hybrid Connector 
 	- [x] ⟹ <span style="color:gold">habe keinen Zugriff</span>
