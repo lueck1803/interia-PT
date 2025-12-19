@@ -19,7 +19,8 @@
 - [x] Weihnachtsmarkt Pilzgericht nach kochen 
 - [ ] wintersun sadness and hate
 - [ ] Meditieren 
-- [ ] laufen 
+- [ ] laufen
+- [ ] Ist geld vom november auf dem konto?
 - [x] Staubsaugen 
 - [x] Sofa saugen
 - [x] Küche aufräumen 
