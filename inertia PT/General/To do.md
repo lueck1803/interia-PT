@@ -1,5 +1,4 @@
 - [x] Canon am Laptop installieren
-- [ ] Jack Wolfskin Schuhe Schnürsenkel reparieren 
 - [x] Lotos set durchführen
 - [x] oxana schreiben wegen Weihnachtsfeier 
 	- [x] mache ich heute persönlich 
@@ -208,6 +207,8 @@
 	- [x] Spannbettlaken 
 - [x] neuen Schlafanzug 
 - [x] Schlafanzughose flicken
+- [ ] Jack Wolfskin Schuhe Schnürsenkel reparieren
+- [ ] graue hose Knopf reparieren 
 ## sonstiges
 - [x] Kartons wegräumen 
 - [x] wann ist der Vortrag im hessischen Landesmuseum 
