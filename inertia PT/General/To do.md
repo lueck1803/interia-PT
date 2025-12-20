@@ -1,4 +1,5 @@
 - [x] Canon am Laptop installieren
+- [ ] Jack Wolfskin Schuhe Schnürsenkel reparieren 
 - [x] Lotos set durchführen
 - [x] oxana schreiben wegen Weihnachtsfeier 
 	- [x] mache ich heute persönlich 
