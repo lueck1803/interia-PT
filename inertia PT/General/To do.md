@@ -29,10 +29,11 @@
 	- ⟹perfekt so ist es echt wunderbar. Dummerweise habe ich ausversehen zwei bestellt
 - [ ] ms Security weiter machen 
 - [ ] zero Trust Assessment+maester.dev
-	- [ ] zero trust assessment hat nicht geklappt 
+	- [ ] zero trust assessment hat
+	- [ ] nicht geklappt 
 	- [x] maester dev hat geklappt 
 - [ ] Folien für master Thesis 
-- [ ] Fritteuse 
+- [x] Fritteuse 
 	- [x] in Spülmaschine
 	- [x] und weg packen 
 - [ ] to do aufräumen 
