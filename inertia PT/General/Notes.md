@@ -47,6 +47,8 @@ Tage produktiv gewesen:
 - Alle Bilddateien (pdf, jpg), mit der passenden Dateiendung (\*.ext) werden in ein Dokument zusammengefügt.
   `{bash} pdftk *.ext cat output Dokument_Name.pdf`
 - <span style="font-size:100%;color: orange;">Scanner Software unter Linux</span> ⟹Scan Gear <br>PdfTK unnötig, da hier bereits Shuffle Funktion integriert ist 
+# Signal 
+- Video sending problem:
 
 # git
 - Comment in `.gitignore` with # 
