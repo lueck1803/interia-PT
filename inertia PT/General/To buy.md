@@ -53,9 +53,11 @@
 - [x] Canon Pixma TS9550a + auffülbare Patronen 
 - [x] Drucker https://www.voelkner.de/checkout/step2.html
 	- Gutscheincode: TV9XS6Q3ZF
+- [ ] 2m USB-C Kabel
 # Werkzeug 
 - [ ] Schlagbohrmaschine 
 	- [ ] vielleicht tut es der Schlagakkuschrauber vom Aldi
+	- [ ] momentan nix kaufen
 
 # Haushalt
 - [ ] Nach Gorenje WA 7439 schauen
