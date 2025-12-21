@@ -426,7 +426,11 @@ Ich verstehe ihre Zurückhaltung aus ihrer Erfahrung zu 100%.
 3. Take up leaver is clearly visible
 4. Faden muss im Guide right above the needle sein.
 5. Den Faden nach links über den Metallhaken der Einfädelhilfe legen
-6. 
+6. Dann den Hebel der Einfädelhilfe runter drücken
+   ↳<span style="font-size:100%;color:DodgerBlue;">Soweit, dass die Nadel korrekt umfasst wird und der Greiferhaken durch das Nadelöhr geht!</span>
+   <span style="font-size:100%;color:red;">Vorsicht</span> keine Gewalt, falls es hakt, lieber nochmal schauen, ob die Nadel in der höchsten Position ist
+7. Dann den Faden mit etwas Zug nach hinten in den Greifer einführen
+8. Den Hebel der Einfädelhilfe loslassen.
 ## Spulengehäuse und Greifer wieder einsetzen 
 <span style="font-size:100%;color:red;">Vorsicht Ölig</span> ⟹ Tuch und papunterlage bereit halten 
 1. Nadel in höchste Position, so dass die Schiene des Greifertreibers wie ein sich füllender Halbmond steht
