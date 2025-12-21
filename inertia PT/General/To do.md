@@ -1,3 +1,8 @@
+- [ ] wintersun sadness and hate
+- [ ] Meditieren 
+- [ ] laufen
+- [ ] Ist geld vom november auf dem konto?
+- [ ] 1h coreview 
 - [x] Canon am Laptop installieren
 - [x] Lotos set durchführen
 - [x] oxana schreiben wegen Weihnachtsfeier 
@@ -10,17 +15,12 @@
 	- ⟹<span style="font-size:100%;color:red;">gekauft yeah</span> 🥰🥰🥰🥰
 - [x] Hülse auf boxen Bändel kleben 
 - [x] Nähmaschine einrichten und Faden auffädeln 
-- [ ] 1h coreview 
 - [x] Wiki Eintrag für glue 
 - [x] mintfarbene Jogginghose flicken
 - [x] gelben Pulli flicken
 - [x] Dusche schrubben 
 - [x] informieren wie man die android policies ändert
 - [x] Weihnachtsmarkt Pilzgericht nach kochen 
-- [ ] wintersun sadness and hate
-- [ ] Meditieren 
-- [ ] laufen
-- [ ] Ist geld vom november auf dem konto?
 - [x] Staubsaugen 
 - [x] Sofa saugen
 - [x] Küche aufräumen 
