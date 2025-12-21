@@ -3,6 +3,9 @@
 - [ ] laufen
 - [ ] Ist geld vom november auf dem konto?
 - [ ] 1h coreview 
+- [ ] Konto checken
+	- [x] Gehaltsabrechnung checken und fragen was mit September ist
+	- [ ] Gehalt von November ist noch nicht da 25-12-21
 - [x] Canon am Laptop installieren
 - [x] Lotos set durchführen
 - [x] oxana schreiben wegen Weihnachtsfeier 
@@ -27,12 +30,6 @@
 - [x] Bestellung auspacken 
 	- [x] aux Kabel ausprobieren 
 	- ⟹perfekt so ist es echt wunderbar. Dummerweise habe ich ausversehen zwei bestellt
-- [ ] ms Security weiter machen 
-- [ ] zero Trust Assessment+maester.dev
-	- [ ] zero trust assessment hat
-	- [ ] nicht geklappt 
-	- [x] maester dev hat geklappt 
-- [ ] Folien für master Thesis 
 - [x] Fritteuse 
 	- [x] in Spülmaschine
 	- [x] und weg packen 
@@ -46,8 +43,6 @@
 - [x] aok neues Bild hochladen 
       ⟹habe das Bild vorher mit Gimp aufgehellt
       ![](Pasted%20image%2020251215173627.png)
-- [ ] Konto checken
-	- [ ] Gehaltsabrechnung checken und fragen was mit September ist
 - [x] Schnittlauch umsetzen 
 	- nach drinnen nehmen
 - [x] Schneidermatte + Rollschneider + Aux Kabel zusammen bestellen
@@ -84,25 +79,7 @@
 - In Kühlschrank
 	- [x] Nudeln
 	- [x] Erbsen
-- [x] Erbsen kochen 
-- [x] Sonnentau ausgraben und umsetzen 
-- [x] Bettwäsche wechseln 
-- [x] alten canon Drucker aus dem Handy entfernen 
-- [x] Canon Drucker mit Laptop verbinden 
-- [x] Essen
-- [x] Spülmaschine
-- [x] Krafttraining
-- [x] Staubsaugen
-- [x] Tastatur wischen
-- [x] Bart
-- [x] Zähne putzen
-- [x] Duschen
-- [x] Duolingo
-- [x] Konto
-	- ⟹noch kein Geld bekommen
-- [x] Aldi
-- [x] Sofa Decken
-- [x] Zeug abheften
+- [x] 
 - [ ] Tisch aufräumen
 - [x] susceptibility
 - [x] Kartons
@@ -119,27 +96,13 @@
 - [x] Spazieren
 - [x] weste waschen
 - [x] hybrid connector
-- [ ] Folien
 - [ ] to do aufräumen
 - [x] MFA für HRZ und PKM einrichten
 - [x] müll runter 
 - [ ] welcher Pfannenglasdeckel ist Ofenfest?
-- [x] passendes Gärkorbset suchen<br>⟹<span style="font-size:100%;color:gold;">ne unwichtig</span> <span style="font-size:100%;color:red;">Ablenkung</span>
-- [x] duschen
-- [x] um Teig kümmern
-- [x] Wäsche zusammen legen
-- [x] Tastatur wischen
-- [x] Fladenbrot mit Sauerteig 
 - [ ] Bad 
 	- [x] saugen
 	- [x] wischen
-- [x] bei SHG anmelden 
-- [x] Mischa Stunden schicken 
-- [ ] Georgios nochmal schreiben
-- [x] Tafel abschreiben 
-- [x] adventssfeier checken 
-      ⟹ war ich leider viiiiel zu spät die Mail war ja schon vom 25.10 und seitdem auch die Anmeldung offen... Es gab zu viele Anfragen. Aber naja mach dir nix draus Luk und katastrophiere nicht.😒
-- [x] unter dem Bett aufräumen 
 - [ ] Keyboard von hinten holen 
 
 # tägliches
@@ -218,17 +181,7 @@
 	- 21.11 immer noch kein Geld
 	- 24.11 volles Geld erhalten 
 - [x] staubsaugen 
-- [x] restliche Paprika ernten 
-	- bis jetzt hängen noch ein paar draußen. 
-	- bin gespannt wie sie die Kälte vertragen 
-- [x] git am pc gescheit einrichten und Accounts trennen 
-- [x] git in obsidian am Handy einrichten ==hat hoffentlich geklappt wir werden es sehen==
-- [x] Wasserwaage auf rechten Bildschirm
-- [x] git (richtige ssh keys) und Obsidian mit git am unirechner einrichten  
-- [x] grünen Stift zum Schreiben bringen
-- [x] carnivoren Wasser
-- [x] stoffhandschuh flicken 
-- [x] sparschäler kleben
+
 
 
 # Masterarbeit
@@ -257,6 +210,12 @@
 - [ ] <span style="font-size:100%;color:red">mich gut in Coreview einarbeiten, da ich ab nächsten jahr mehr mit coreview zusammenarbeiten werde</span>
 - [ ] bräuchten Soft fail bei den workflows
 - [ ] if closes in den Workflows anschauen
+- [ ] ms Security weiter machen 
+- [ ] Georgios nochmal schreiben
+- [ ] zero Trust Assessment+maester.dev
+	- [ ] zero trust assessment hat
+	- [ ] nicht geklappt 
+	- [x] maester dev hat geklappt 
 - [ ] mit einem älteren Checkpoint in der VM verbinden. ist es der richtige? Wie geht das?
 - [x] Hybrid Connector 
 	- [x] ⟹ <span style="color:gold">habe keinen Zugriff</span>
@@ -351,4 +310,47 @@
 - [x] <span style="color:gold">ghostbusters runterladen</span>
 - [x] <span style="color:coral">paartherapie S3 runterladen</span>
 
+# Alt
+- [x] restliche Paprika ernten 
+	- bis jetzt hängen noch ein paar draußen. 
+	- bin gespannt wie sie die Kälte vertragen 
+- [x] git am pc gescheit einrichten und Accounts trennen 
+- [x] git in obsidian am Handy einrichten ==hat hoffentlich geklappt wir werden es sehen==
+- [x] Wasserwaage auf rechten Bildschirm
+- [x] git (richtige ssh keys) und Obsidian mit git am unirechner einrichten  
+- [x] grünen Stift zum Schreiben bringen
+- [x] carnivoren Wasser
+- [x] stoffhandschuh flicken 
+- [x] sparschäler kleben
+- [x] passendes Gärkorbset suchen<br>⟹<span style="font-size:100%;color:gold;">ne unwichtig</span> <span style="font-size:100%;color:red;">Ablenkung</span>
+- [x] duschen
+- [x] um Teig kümmern
+- [x] Wäsche zusammen legen
+- [x] Tastatur wischen
+- [x] Fladenbrot mit Sauerteig 
+- [x] Erbsen kochen 
+- [x] Sonnentau ausgraben und umsetzen 
+- [x] Bettwäsche wechseln 
+- [x] alten canon Drucker aus dem Handy entfernen 
+- [x] Canon Drucker mit Laptop verbinden 
+- [x] Essen
+- [x] Spülmaschine
+- [x] Krafttraining
+- [x] Staubsaugen
+- [x] Tastatur wischen
+- [x] Bart
+- [x] Zähne putzen
+- [x] Duschen
+- [x] Duolingo
+- [x] Konto
+	- ⟹noch kein Geld bekommen
+- [x] Aldi
+- [x] Sofa Decken
+- [x] Zeug abheften
+- [x] bei SHG anmelden 
+- [x] Mischa Stunden schicken 
+- [x] Tafel abschreiben 
+- [x] adventssfeier checken 
+      ⟹ war ich leider viiiiel zu spät die Mail war ja schon vom 25.10 und seitdem auch die Anmeldung offen... Es gab zu viele Anfragen. Aber naja mach dir nix draus Luk und katastrophiere nicht.😒
+- [x] unter dem Bett aufräumen 
 
