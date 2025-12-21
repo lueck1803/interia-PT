@@ -423,6 +423,10 @@ Ich verstehe ihre Zurückhaltung aus ihrer Erfahrung zu 100%.
 ## Einfädelhilfe 
 1. Presserfoot nach oben
 2. Nadel in oberste Position bringen
+3. Take up leaver is clearly visible
+4. Faden muss im Guide right above the needle sein.
+5. Den Faden nach links über den Metallhaken der Einfädelhilfe legen
+6. 
 ## Spulengehäuse und Greifer wieder einsetzen 
 <span style="font-size:100%;color:red;">Vorsicht Ölig</span> ⟹ Tuch und papunterlage bereit halten 
 1. Nadel in höchste Position, so dass die Schiene des Greifertreibers wie ein sich füllender Halbmond steht
