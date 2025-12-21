@@ -418,3 +418,9 @@ Ich verstehe ihre Zurückhaltung aus ihrer Erfahrung zu 100%.
 ## Mädchen 
 - Alva
 - Maja 
+
+# Nähmaschine 
+## Spulengehäuse und Greifer wieder einsetzen 
+1. Nadel in höchste Position, so dass die Schiene des Greifertreibers wie ein sich füllender Halbmond steht
+2. Dann den Greifer mit der Spitze nach unten auf der gegenüberliegenden Seite der Schiene aus 1. einsetzen 
+3. 
