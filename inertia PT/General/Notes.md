@@ -425,7 +425,8 @@ Ich verstehe ihre Zurückhaltung aus ihrer Erfahrung zu 100%.
 2. Nadel in oberste Position bringen
 3. Der Hebel der den Faden nach oben führt, sollte klar zu sehen sein. 
    (Take up leaver is clearly visible)
-4. Faden muss in  sein.
+4. Faden muss in der Führung direkt über der Nadel sein. 
+   (Guide right above the needle)
 5. Den Faden nach links über den Metallhaken der Einfädelhilfe legen
 6. Dann den Hebel der Einfädelhilfe runter drücken
    ↳<span style="font-size:100%;color:DodgerBlue;">Soweit, dass die Nadel korrekt umfasst wird und der Greiferhaken durch das Nadelöhr geht!</span>
