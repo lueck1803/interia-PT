@@ -54,6 +54,7 @@
 - [x] singer simple model 3232
 	- ⟹yeah 🥰🥰🥰🥰
 - [ ] tweat für Weste 
+- [ ] Nähmaschinen öl
 - [ ] 
 
 
