@@ -421,10 +421,11 @@ Ich verstehe ihre Zurückhaltung aus ihrer Erfahrung zu 100%.
 
 # Nähmaschine 
 ## Einfädelhilfe 
-1. Presserfoot nach oben
+1. Nähfuß (Presser foot) nach oben
 2. Nadel in oberste Position bringen
-3. Take up leaver is clearly visible
-4. Faden muss im Guide right above the needle sein.
+3. Der Hebel der den Faden nach oben führt, sollte klar zu sehen sein. 
+   (Take up leaver is clearly visible)
+4. Faden muss in  sein.
 5. Den Faden nach links über den Metallhaken der Einfädelhilfe legen
 6. Dann den Hebel der Einfädelhilfe runter drücken
    ↳<span style="font-size:100%;color:DodgerBlue;">Soweit, dass die Nadel korrekt umfasst wird und der Greiferhaken durch das Nadelöhr geht!</span>
