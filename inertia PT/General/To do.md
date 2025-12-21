@@ -1,5 +1,5 @@
 # unsortiert
-- [ ] Shortcut obsidian unter windows und anderen für toggl 
+- [ ] Shortcut obsidian unter windows und anderen für toggl checkbox/bullet list
 - [ ] wintersun sadness and hate
 - [ ] Meditieren 
 - [ ] laufen
