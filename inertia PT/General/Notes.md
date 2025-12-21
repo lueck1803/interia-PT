@@ -420,6 +420,7 @@ Ich verstehe ihre Zurückhaltung aus ihrer Erfahrung zu 100%.
 - Maja 
 
 # Nähmaschine 
+## 
 ## Spulengehäuse und Greifer wieder einsetzen 
 <span style="font-size:100%;color:red;">Vorsicht Ölig</span> ⟹ Tuch und papunterlage bereit halten 
 1. Nadel in höchste Position, so dass die Schiene des Greifertreibers wie ein sich füllender Halbmond steht
