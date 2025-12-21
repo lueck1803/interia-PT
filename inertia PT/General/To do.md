@@ -1,3 +1,5 @@
+# unsortiert
+- [ ] Shortcut obsidian unter windows und anderen für toggl 
 - [ ] wintersun sadness and hate
 - [ ] Meditieren 
 - [ ] laufen
@@ -6,96 +8,14 @@
 - [ ] Konto checken
 	- [x] Gehaltsabrechnung checken und fragen was mit September ist
 	- [ ] Gehalt von November ist noch nicht da 25-12-21
-- [x] Canon am Laptop installieren
-- [x] Lotos set durchführen
-- [x] oxana schreiben wegen Weihnachtsfeier 
-	- [x] mache ich heute persönlich 
-		- hab ich nicht geschafft 
-	- hat sich erledigt, ich war nicht da
 - [ ] checken wann das Essen mit Benno ist
-- [x] Nähmaschinenpreis checken
-	- ⟹montag kaufen
-	- ⟹<span style="font-size:100%;color:red;">gekauft yeah</span> 🥰🥰🥰🥰
-- [x] Hülse auf boxen Bändel kleben 
-- [x] Nähmaschine einrichten und Faden auffädeln 
-- [x] Wiki Eintrag für glue 
-- [x] mintfarbene Jogginghose flicken
-- [x] gelben Pulli flicken
-- [x] Dusche schrubben 
-- [x] informieren wie man die android policies ändert
-- [x] Weihnachtsmarkt Pilzgericht nach kochen 
-- [x] Staubsaugen 
-- [x] Sofa saugen
-- [x] Küche aufräumen 
-- [x] Bestellung auspacken 
-	- [x] aux Kabel ausprobieren 
-	- ⟹perfekt so ist es echt wunderbar. Dummerweise habe ich ausversehen zwei bestellt
-- [x] Fritteuse 
-	- [x] in Spülmaschine
-	- [x] und weg packen 
 - [ ] to do aufräumen 
 - [ ] bot. Garten Schriften lesen 
-- [x] Küche aufräumen 
-- [x] Glasmüll weg
-	- ⟹war total voll, muss ich morgen nochmal probieren 
-	- ⟹immer noch voll 12-09
-	- ⟹12-13 weggebracht
-- [x] aok neues Bild hochladen 
-      ⟹habe das Bild vorher mit Gimp aufgehellt
-      ![](Pasted%20image%2020251215173627.png)
-- [x] Schnittlauch umsetzen 
-	- nach drinnen nehmen
-- [x] Schneidermatte + Rollschneider + Aux Kabel zusammen bestellen
-- [x] Klapptisch von hinten als Nähtisch unter das Bett stellen
-- [x] unter dem Bett aufräumen
-- [x] Chilis schneiden
-	- sind tot und stehen draußen 
-	- hab jetzt die aus dem Büro
-- [x] nochmal Pilzgericht machen
+- [ ] Kühlschrank putzen und abtauen
+- [ ] Zeug vor dem Bad wegräumen 
+- [ ] Tisch aufräumen
 - [ ] ride on spirit ⟹ solo üben
 	- [x] mal damit angefangen 
-- [x] müll runter
-	- [x] ⟹gelber Sack wäre noch frei
-	- [x] Biomüll
-- [x] erde umgraben
-- [x] Klapptisch von hinten als nähtisch unter das Bett stellen 
-- [ ] Zeug vor dem Bad wegräumen 
-- [x] Brokkoli verarbeiten 
-- [x] Pesto wegräumen 
-- [x] Bettwäsche wechseln 
-- [x] Bettdecke waschen 
-- [ ] Kühlschrank putzen und abtauen
-- [x] Kaffeemaschine entkalken 
-- [x] Waschmaschinen Waschpulverfach reinigen 
-- [x] Einkaufschiphalter fixen
-- [x] pc uni checken
-- [x] Kabel kaufen
-	- ⟹war im Mediamarkt 😂 zu teuer
-- [x] getrocknete chilis weg packen 
-- [x] Kichererbsen tofu 
-	- ⟹perfekt geworden 
-- [x] Briefkasten checken
-	- ⟹waren die Nadel zum Tinte befüllen drin
-- In Kühlschrank
-	- [x] Nudeln
-	- [x] Erbsen
-- [x] 
-- [ ] Tisch aufräumen
-- [x] susceptibility
-- [x] Kartons
-- [x] Fotos vom alten Drucker
-	- muss ich nicht, ich gebe ihn Bilge 
-- [x] Essen Kochen
-- [x] Meditation
-- [x] E-Mail an Arooj entwerfen
-	- ⟹hab ich mit angefangen und ein Google Doc erstellt
-- [x] Klarspüler clip tauschen 
-	- [x] Clip mit akkuflex anfertigen 
-- [x] Paprika verarbeiten 
-- [x] Nähmaschine im Aldi checken
-- [x] Spazieren
-- [x] weste waschen
-- [x] hybrid connector
 - [ ] to do aufräumen
 - [x] MFA für HRZ und PKM einrichten
 - [x] müll runter 
@@ -281,6 +201,8 @@
 
 # was schönes
 ## Malen und Basteln
+- [x] Näh und Bastelecke einrichten 
+	- <span style="font-size:100%;color:red;">yeahy</span> 🥳🎉
 - [ ] Monblume weiter malen
 - [ ] Becorns basteln
 ## Pflanzen 
@@ -353,4 +275,85 @@
 - [x] adventssfeier checken 
       ⟹ war ich leider viiiiel zu spät die Mail war ja schon vom 25.10 und seitdem auch die Anmeldung offen... Es gab zu viele Anfragen. Aber naja mach dir nix draus Luk und katastrophiere nicht.😒
 - [x] unter dem Bett aufräumen 
+- [x] Nähmaschinenpreis checken
+	- ⟹montag kaufen
+	- ⟹<span style="font-size:100%;color:red;">gekauft yeah</span> 🥰🥰🥰🥰
+- [x] Hülse auf boxen Bändel kleben 
+- [x] Nähmaschine einrichten und Faden auffädeln 
+- [x] Wiki Eintrag für glue 
+- [x] mintfarbene Jogginghose flicken
+- [x] gelben Pulli flicken
+- [x] Dusche schrubben 
+- [x] informieren wie man die android policies ändert
+- [x] Weihnachtsmarkt Pilzgericht nach kochen 
+- [x] Staubsaugen 
+- [x] Sofa saugen
+- [x] Küche aufräumen 
+- [x] Bestellung auspacken 
+	- [x] aux Kabel ausprobieren 
+	- ⟹perfekt so ist es echt wunderbar. Dummerweise habe ich ausversehen zwei bestellt
+- [x] Fritteuse 
+	- [x] in Spülmaschine
+	- [x] und weg packen 
+- [x] Canon am Laptop installieren
+- [x] Lotos set durchführen
+- [x] oxana schreiben wegen Weihnachtsfeier 
+	- [x] mache ich heute persönlich 
+		- hab ich nicht geschafft 
+	- hat sich erledigt, ich war nicht da
+- [x] Küche aufräumen 
+- [x] Glasmüll weg
+	- ⟹war total voll, muss ich morgen nochmal probieren 
+	- ⟹immer noch voll 12-09
+	- ⟹12-13 weggebracht
+- [x] aok neues Bild hochladen 
+      ⟹habe das Bild vorher mit Gimp aufgehellt
+      ![](Pasted%20image%2020251215173627.png)
+- [x] Schnittlauch umsetzen 
+	- nach drinnen nehmen
+- [x] Schneidermatte + Rollschneider + Aux Kabel zusammen bestellen
+- [x] Klapptisch von hinten als Nähtisch unter das Bett stellen
+- [x] unter dem Bett aufräumen
+- [x] Chilis schneiden
+	- sind tot und stehen draußen 
+	- hab jetzt die aus dem Büro
+- [x] nochmal Pilzgericht machen
+- [x] müll runter
+	- [x] ⟹gelber Sack wäre noch frei
+	- [x] Biomüll
+- [x] erde umgraben
+- [x] Klapptisch von hinten als nähtisch unter das Bett stellen 
+- [x] Brokkoli verarbeiten 
+- [x] Pesto wegräumen 
+- [x] Bettwäsche wechseln 
+- [x] Bettdecke waschen 
+- [x] Kaffeemaschine entkalken 
+- [x] Waschmaschinen Waschpulverfach reinigen 
+- [x] Einkaufschiphalter fixen
+- [x] pc uni checken
+- [x] Kabel kaufen
+	- ⟹war im Mediamarkt 😂 zu teuer
+- [x] getrocknete chilis weg packen 
+- [x] Kichererbsen tofu 
+	- ⟹perfekt geworden 
+- [x] Briefkasten checken
+	- ⟹waren die Nadel zum Tinte befüllen drin
+- In Kühlschrank
+	- [x] Nudeln
+	- [x] Erbsen
+- [x] susceptibility
+- [x] Kartons
+- [x] Fotos vom alten Drucker
+	- muss ich nicht, ich gebe ihn Bilge 
+- [x] Essen Kochen
+- [x] Meditation
+- [x] E-Mail an Arooj entwerfen
+	- ⟹hab ich mit angefangen und ein Google Doc erstellt
+- [x] Klarspüler clip tauschen 
+	- [x] Clip mit akkuflex anfertigen 
+- [x] Paprika verarbeiten 
+- [x] Nähmaschine im Aldi checken
+- [x] Spazieren
+- [x] weste waschen
+- [x] hybrid connector
 
