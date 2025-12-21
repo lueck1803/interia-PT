@@ -17,8 +17,6 @@
 - [ ] ride on spirit ⟹ solo üben
 	- [x] mal damit angefangen 
 - [ ] to do aufräumen
-- [x] MFA für HRZ und PKM einrichten
-- [x] müll runter 
 - [ ] welcher Pfannenglasdeckel ist Ofenfest?
 - [ ] Bad 
 	- [x] saugen
@@ -203,6 +201,9 @@
 ## Malen und Basteln
 - [x] Näh und Bastelecke einrichten 
 	- <span style="font-size:100%;color:red;">yeahy</span> 🥳🎉
+- [ ] Nähmaschine ersteinrichtung
+	- [ ] Auspacken und Aufstellen 
+	- [ ] 
 - [ ] Monblume weiter malen
 - [ ] Becorns basteln
 ## Pflanzen 
@@ -356,4 +357,6 @@
 - [x] Spazieren
 - [x] weste waschen
 - [x] hybrid connector
+- [x] MFA für HRZ und PKM einrichten
+- [x] müll runter 
 
