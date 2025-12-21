@@ -1,6 +1,5 @@
 # unsortiert
-- [ ] Bild in notes rein hauen
-	- [ ] ![](Pasted%20image%2020251221172346.png)
+- [x] Bild in notes rein hauen
 - [ ] Shortcut obsidian unter windows und anderen für toggl checkbox/bullet list
 - [ ] wintersun sadness and hate
 - [ ] Meditieren 

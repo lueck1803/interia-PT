@@ -49,6 +49,7 @@ Tage produktiv gewesen:
 - <span style="font-size:100%;color: orange;">Scanner Software unter Linux</span> ⟹Scan Gear <br>PdfTK unnötig, da hier bereits Shuffle Funktion integriert ist 
 # Signal 
 - Video sending problem:
+  ![](Pasted%20image%2020251221172346.png)
 
 # git
 - Comment in `.gitignore` with # 
