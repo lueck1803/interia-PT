@@ -434,9 +434,9 @@ Ich verstehe ihre Zurückhaltung aus ihrer Erfahrung zu 100%.
 7. Dann den Faden mit etwas Zug nach hinten in den Greifer einführen
 8. Den Hebel der Einfädelhilfe loslassen.
 ## Spulengehäuse und Greifer wieder einsetzen 
-<span style="font-size:100%;color:red;">Vorsicht Ölig</span> ⟹ Tuch und papunterlage bereit halten 
-1. Nadel in höchste Position, so dass die Schiene des Greifertreibers wie ein sich füllender Halbmond steht
+<span style="font-size:100%;color:red;">Vorsicht Ölig</span> ⟹ Tuch und Pappunterlage bereit halten 
+1. Nadel in höchste Position, so dass die Schiene des Greifertreibers wie ein sichfüllender Halbmond steht.
 2. Dann den Greifer mit der Spitze nach unten auf der gegenüberliegenden Seite der Schiene aus 1. einsetzen 
-3. Nun den Greiferbahndeckel mit dem nupsi nach unten in die passende Lücke des Greifertreibers einpassen 
+3. Nun den Greiferbahndeckel mit dem Nupsi nach unten in die passende Lücke des Greifertreibers einpassen 
 4. Den Greiferbahndeckel festhalten und die linke, dann die rechte Deckelhalterung einrasten.
 5. Die Unterfadenkapsel einsetzen 
