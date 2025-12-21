@@ -202,8 +202,9 @@
 - [x] Näh und Bastelecke einrichten 
 	- <span style="font-size:100%;color:red;">yeahy</span> 🥳🎉
 - [ ] Nähmaschine ersteinrichtung
-	- [ ] Auspacken und Aufstellen 
-	- [ ] 
+	- [x] Auspacken und Aufstellen 
+	- [x] Faden aufspulen
+	- [ ] erste test nähte
 - [ ] Monblume weiter malen
 - [ ] Becorns basteln
 ## Pflanzen 
