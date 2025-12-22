@@ -187,7 +187,8 @@ Der <span style="color:red;font-size:100%;">andere möchte</span> einen nicht nu
 
 # Perfektionismus 
 
-## 25-12-22 pre und post rechtfertigende Gedankengänge am Beispiel Fabi 
+## 25-12-22 
+### pre und post rechtfertigende Gedankengänge am Beispiel Fabi 
 
 Ich hatte ihr davor mal geschrieben als ich dieses Buch gekauft habe, da ich weiß wie sehr sie Pinguine mag. 
 
@@ -260,6 +261,51 @@ Mir ist das über dieses Jahr hinweg so klar geworden 😅😵‍💫🤯.
 Ist echt krass wie der Perfektionismus wirkt und wie nahe der mit dem Narzissmus verwandt ist. 
 
 Ist das ängstliche Kreisen um sich selbst vs. Das selbsterhöhende kreisen um sich selbst.
+
+### an LinaNarzisse
+@LinaNarzisse hast du dich mal mit der Gegenüberstellung Perfektionismus vs. Narzissmus auseinander gesetzt?
+
+Ich habe seit/durch meine/r Kindheit eindeutig einen Perfektionismus entwickelt und mich im Zuge meiner ADHS Diagnose damit auseinander gesetzt.
+
+Damit meine ich die pathologische Form und nicht den Perfektionismus an der Sache und am Werk, der ist ja je nach Sachverhalt ausschließlich gut und erstrebenswert.
+
+Über diese Auseinandersetzung (juni/July  '24) bin ich auf Raphael Bonelli gestoßen da er sich damit intensiv beschäftigt und den Vergleich sehr gut herausgearbeitet hat. 
+
+Die Erkenntnisse waren für mich erschreckend und dadurch schmerzhaft, haben aber umso mehr Einsichten gebracht und geholfen.
+
+Es ist phänomenal wie er das so einfach und gut auf den Punkt gebracht hat. 
+
+Es zeigt auch auf, mit welchen doppelten Standards gesellschaftlich auf Narzissten vs. Perfektionisten geblickt wird, dabei sind sie sich unglaublich nahe und auch beide nicht im ähnlichen Maße in der Wirkung auf sich und ihr Umfeld.
+
+Der Perfektionismus wird nahe zu als ausschließlich positiv betrachtet und mit perfektionisten wird so nachsichtig und liebevoll umgegangen.
+"Mach doch mal weniger, sei nicht zu hart zu dir, sei nicht so ein people pleaser, 80% ist auch gut genug, du denkst zu viel an andere"
+
+Dabei ist die Kontrollwirkung bzw. Das Bedürfnis nach Kontrolle auf das soziale Umfeld ebenso hoch. 
+Und manipuliert wird auch, man nimmt es genauso wenig war und kann es immer noch als was gutes verkaufen.
+
+Und in die Opferrolle begibt man sich auch noch😂.
+
+Es dreht sich dann auch alles nur um einen selbst.
+Und dabei will man genau das VERMEIDEN!
+
+Es ist faszinierend.
+
+Nem Perfektionisten würde aber kaum jemand vorwerfen "du bist so egoistisch und denkst nur an dich".
+Eher "du denkst zu viel an andere".
+
+Es ist viel versteckter und subtiler, was es so perfide macht. 
+
+Die Erkenntnis hat mir echt extrem viel mentale Arbeit beschert, aber so viel gebracht, das hätte keine Psychotherapie.
+
+Ich bin so viel feier dadurch geworden.
+
+Meine Perspektive auf den "Narzissmus" hat sich so sehr gewandelt.
+
+Es ist eher erschreckend wie die Gesellschaft und auch leider die Psychotherapie damit umgeht, also mit zweierlei Maß misst.
+
+Raphael Bonelli ist einer der wenigen die das klar und realistisch betrachten.
+
+
 
 
 
