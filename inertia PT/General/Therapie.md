@@ -511,6 +511,32 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 	- Benina:
 		- klarer sagen was man wirklich sagen wollte, es kommt nicht immer das an obwohl man es dachte das man das doch klar gesagt hat.
 # Beziehung 
+## 25-12-22
+### Bilge, Reflexion über Herzschmerz/Vermissen
+[22.12.25, 12:38:51] Bilge Ulusoy: Allegemein. Herzschmerz.
+
+[22.12.25, 13:29:50] Lukas Walter: habe ich da ja schon.
+
+das ist ja die essenz.
+
+alles weitere musst du ja mit dir ausmachen.
+
+es sind ja deine Gedanken und gefühle die du erforschen musst.
+
+kann ich für dich nicht übernehmen und du sollst auch nicht meine Gedanken übernehmen.
+
+Es sind Denkanstöße.
+
+Mir ist beim “Vermissen” nur immer aufgefallen:
+- wann passiert es
+- ⁠was sind die Gedanken dabei
+- ⁠wie fühle ich mich
+- ⁠und ich habe für mich versucht meine Zuneigung zu arooj klar realistisch zu trennen von Gefühlen der Leere, Einsamkeit und depressivität. Meine Zugneigung zu “stealman’en”. 
+- ⁠um mich in den momenten der traurigkeit eben unabhängig von arooj zu machen
+
+das ist total befreiend.
+dadurch übernimmt man verantwortung für sich selbst und lernt vom gedanken und den gefühlen jemandem anderen die Verantwortung für seine Gefühle zugeben abstand zunehmen
+
 ## 25-12-19 Mutter, Arooj 
 Ziemlich lustig...
 
