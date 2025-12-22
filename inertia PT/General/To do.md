@@ -36,6 +36,7 @@
 - [ ] Klamottenfach aufräumen 
 
 ## Küche
+- [ ] Ingwer schälen und portioniert einfrieren 
 - Arbeitsplatte
 	- [x] saugen
 	- [x] wischen 
