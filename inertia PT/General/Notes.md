@@ -419,6 +419,28 @@ Was alleine eine Entwicklung in der kanonengießerei an Handwerkskunst entwickel
 
 Und er sagt es gab kaum Erfindungen im europäischen Mittelalter.😂
 
+Ich will nicht die Errungenschaften in der Medizin, Mathematik und Astronomie in den Gebieten die von den Muslimen erobert wurden klein reden. 
+-> die haben da aber mehrheitlich Schaden angerichtet in den Ländern. 
+
+Aber die Tatsachen so hart zu verdrehen.
+
+Da kann man nur so zu einem verqueren oder sollte ich sagen Queeren Weltbild kommen.
+
+26:30 da Sklavenhandel und Haltung ein großes Ding der Menschheitsgeschichte ist😵‍💫.
+Das hat 0% mit Europa zu tun.
+
+Sklavenhaltung ist Teil des Islams, sie islamischer Staat.
+
+Erst die Engländer haben Gesetze gegen Sklaverei eingesetzt.
+Auch das ist eine europäische Errungenschaft.
+
+Überall wo die Briten dann waren wurde erstmal die Sklaverei verboten.
+
+Echt ich komme mir hier vor wie ein supremacist, aber bei dieser Realitätsferne gibt's kaum nen Satz den man stehen lassen kann. 
+
+Gut was rege ich mich auf bei unserem verwokten Schulsystem und dem Geschichtsunterricht, da wird der Herr wohl noch als gebildeter 1er Abiturient bezeichnet.
+
+
 24:00 und was ist mit dem ostafrikanischen Sklavenhandel?
 Steht dem transatlantischen nicht wirklich nach.🤷
 
@@ -430,14 +452,6 @@ Nur immer echt nicht so deren Ding ihre edlen Orientalen realistisch zu betracht
 
 Das osmanische Reich war auch eine Sklavenhalter Gesellschaft, da waren besonders slavische volker beliebt bei denen man sich bedient hat.
 
-
-
-Ich will nicht die Errungenschaften in der Medizin, Mathematik und Astronomie in den Gebieten die von den Muslimen erobert wurden klein reden. 
--> die haben da aber mehrheitlich Schaden angerichtet in den Ländern. 
-
-Aber die Tatsachen so hart zu verdrehen.
-
-Da kann man nur so zu einem verqueren oder sollte ich sagen Queeren Weltbild kommen.
 
 24:46 the explanation why the positron is going with a higher probability rate to plus than to minus has nothing to do with "the spin is almost already facing the plus end of the machine".
 What do you even mean by that? 
