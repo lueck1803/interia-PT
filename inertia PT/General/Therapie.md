@@ -512,6 +512,14 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 		- klarer sagen was man wirklich sagen wollte, es kommt nicht immer das an obwohl man es dachte das man das doch klar gesagt hat.
 # Beziehung 
 ## 25-12-22
+### Trennung
+Die war unbedingt notwendig:
+- für mich:
+	- da ich aus dem Schutzumschlag der beziehung raus musste
+	- selbstständig und erwachsen werden musste
+	- meine Probleme und Störungen mal für mich allein klären und sortieren musste
+	- das ging halt nur durch schmerz und auf mich alleine gestellt sein
+- 
 ### Bilge, Reflexion über Herzschmerz/Vermissen
 [22.12.25, 12:38:51] Bilge Ulusoy: Allegemein. Herzschmerz.
 
