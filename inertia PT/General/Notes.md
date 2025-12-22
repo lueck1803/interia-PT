@@ -395,6 +395,37 @@ Mir tut auch Micro "Fehlverhalten" leid. Auch wenn sie das auch macht.
 Manchmal hatte sie dann auch so das Gefühl so schlecht behandelt zu werden, hat dabei aber null auf ihr micro Verhalten geachtet.
 
 # yt Kommentare
+
+18:00 Lüge!
+Das sind die standard Mythen über das finstere Mittelalter.
+Es wurde im Mittelalter kaum was erfunden 😂.
+1000 Jahre und kaum Erfindungen 😂.
+Schaue er sich Mal nur die Entwicklung der Rüstungen an. 
+
+Und ja klar all die Erfindungen kamen von den Moslems und den Chinesen 😅.
+
+Total Banane.
+
+Diese Idealisierung von Gruppen die massive Expansionskriege geführt und Afrikaner und Europäer versklavt haben.
+
+Wenn das mal kein Rassismus ist.
+
+Ja das Schwarzpulver wurde zu erst in Asien erfunden, aber dort wurde das Potential gar nicht ausgenutzt und ausgeschöpft.
+
+Erst in Europa wurde die Waffentechnik überhaupt entwickelt.
+Deshalb konnten die ganze Eroberung der Welt stattfinden.
+
+Was alleine eine Entwicklung in der kanonengießerei an Handwerkskunst entwickelt wurde. 
+
+Und er sagt es gab kaum Erfindungen im europäischen Mittelalter.😂
+
+Ich will nicht die Errungenschaften in der Medizin, Mathematik und Astronomie in den Gebieten die von den Muslimen erobert wurden klein reden. 
+-> die haben da aber mehrheitlich Schaden angerichtet in den Ländern. 
+
+Aber die Tatsachen so hart zu verdrehen.
+
+Da kann man nur so zu einem verqueren oder sollte ich sagen Queeren Weltbild kommen.
+
 24:46 the explanation why the positron is going with a higher probability rate to plus than to minus has nothing to do with "the spin is almost already facing the plus end of the machine".
 What do you even mean by that? 
 
