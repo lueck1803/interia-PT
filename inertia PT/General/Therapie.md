@@ -185,6 +185,84 @@ Der <span style="color:red;font-size:100%;">andere möchte</span> einen nicht nu
 
 # ADHD
 
+# Perfektionismus 
+
+## 25-12-22 pre und post rechtfertigende Gedankengänge am Beispiel Fabi 
+
+Ich hatte ihr davor mal geschrieben als ich dieses Buch gekauft habe, da ich weiß wie sehr sie Pinguine mag. 
+
+Sie ist halt ne Freundin von Arooj.
+Aber wir kennen uns ja genauso lange und haben uns immer gut verstanden.
+Sie war hier auch häufiger zum Nähen und basteln.
+
+Ich hatte jetzt auch überhaupt nicht im Gedanken über Arooj zu reden. 
+
+Ich hab bei den Pinguinen einfach an sie gedacht und mehr nicht. 
+
+Das mit der Nähmaschine hatte ich erwähnt da ich weiß dass sie auch eine neuere hat. 
+
+Nadine zb hat eine von ihrer Oma, die hat die ganzen stichmuster gar nicht.
+
+Ich kenne sonst auch keinen anderen Menschen der näht.
+
+Ich muss es nicht rechtfertigen, warum ich ihr geschrieben habe. 
+Ich weiß es ging mir um die Sache und es wäre auch dabei geblieben.
+
+Im Sommer hatte ich kurz mit ihr über ihren Status geschrieben, da sie im Urlaub war.
+
+Sie schaut sich auch regelmäßig meinen Status an. 
+Da ist es eigentlich auch irgendwie zu rechtfertigen, dass man Kontakt haben darf🤷‍♂️.
+
+Ich laber sie ja nicht mit Arooj zu. 
+
+Würde auch nicht kommen.
+
+Ich wollte es mal ausgesprochen haben. 
+
+Auch um dir zu zeigen:
+
+Ich hab auch so Gedanken (eine Zusammenfassung mehrerer Tage), die sind normal, ich gehe damit möglichst realistisch um und versuche mich in guter Attribution.
+
+
+Es ist wichtig die Gedanken: was der andere denken könnte und sich dann selbst zu rechtfertigen, dabei in Frage zu stellen und sich dann wohlmöglich dabei zu ertappen "oh ich hab ja doch andere Absichten".
+
+Zu reflektieren und da ein anderes Handlungsmuster zu entwickeln.
+
+Die Gedanken sind per se auch nicht schlimm.
+Man bereitet sich damit ja nur auf eventuelle "Angriffe" (Aussagen und Fragen) vor und versucht sich dabei selbst zu überprüfen "stimmt das eigentlich?" Und sich einen möglichen Dialog zu überlegen und die Gefühle zu erproben.
+
+Ich mache das schon seit ich ein Kind bin. 
+Das war immer einer guter und sicherer Umgang, denn so konnte ich meine Gefühle verarbeiten und hab die dann in den Situationen nicht raus lassen müssen. 
+
+Außerdem hatte ich mir damit ja schon Szenarien überlegt und mich entschieden, was ich will oder was ich nicht will. 
+
+Wichtig ist dass man nicht in die falle läuft, sich selbst zu zweifeln.
+
+Es ist ja auch kein Beweis dafür nur weil man denkt was der andere denken könnte dass man dadurch die eigentlichen eigenen Absichten offenbart.
+
+Ich finde man darf es denken.
+
+Man sollte es nur nicht aussprechen in einer Situation, insbesondere nicht als vorherige Entschuldigung und als strip tease der eigenen Gedanken nach dem Motto "siehe her ich hab schon für dich drüber nach gedacht, hier ist die Logik, es kann also nicht sein wie du eventuell denkst, was ich denke, ich denke so nicht, das sind meine eigentlichen Absichten, glaub mir und übernehme meine Absichten"
+🤣😅🤣 Ist echt crazy.
+Aber so ist das tatsächlich...
+Und ich hab so was aber auch schon gemacht.
+Also vorher schon mit geliefert bevor jemand reagiert, was überhaupt meine Absichten sind und anderen quasi vorgelegt was sie denken "sollten" - so war das natürlich nie gemeint oder gedacht, aber es ist exakt die Wirkung.
+
+In abgeschwächter Version ist das auch die Wirkung von so entschuldigenden und erklärenden Nachschüben.
+Wie sie zu letzt von dir gefallen sind. (Wie gesagt ich hab das auch immer gemacht und versuche das abzulegen)
+
+Und die sind so krass es klingt auch eine "Denkanweisung" an jemand anderen.
+Man liefert mit "denk bitte so über mich". 
+Dabei liefert man eigentlich seine eigene Unsicherheit.
+
+Mir ist das über dieses Jahr hinweg so klar geworden 😅😵‍💫🤯.
+
+Ist echt krass wie der Perfektionismus wirkt und wie nahe der mit dem Narzissmus verwandt ist. 
+
+Ist das ängstliche Kreisen um sich selbst vs. Das selbsterhöhende kreisen um sich selbst.
+
+
+
 # Achtsamkeit und Meditation 
 ## Meditation 
 - ich liebe <span style="color:hotpink">Meditation</span> 
