@@ -8,7 +8,8 @@
 - [ ] 1h coreview 
 - [ ] Konto checken
 	- [x] Gehaltsabrechnung checken und fragen was mit September ist
-	- [ ] Gehalt von November ist noch nicht da 25-12-21
+	- [x] Gehalt von November ist noch nicht da 25-12-21
+		- 25-12-22 geld da
 - [ ] checken wann das Essen mit Benno ist
 - [ ] to do aufräumen 
 - [ ] bot. Garten Schriften lesen 
