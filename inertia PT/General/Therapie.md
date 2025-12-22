@@ -519,7 +519,13 @@ Die war unbedingt notwendig:
 	- selbstständig und erwachsen werden musste
 	- meine Probleme und Störungen mal für mich allein klären und sortieren musste
 	- das ging halt nur durch schmerz und auf mich alleine gestellt sein
-- 
+	- mal unabhängig von arooj sein
+	- die last von ihren problemen und issues los zu sein, nicht immer die psychische belastung und druck ihrer famile mit anhören zu müssen
+- für arooj:
+	- sie wollte eh immer mal ganz alleine für sich leben
+	- sie musste auch mal ihre glaubenssätze sortieren
+	- ihren schmerz wegen der bilder verarbeiten
+	- und auch mal die last los werden, die ich mit meiner perspektivlosigkeit für sie war
 ### Bilge, Reflexion über Herzschmerz/Vermissen
 [22.12.25, 12:38:51] Bilge Ulusoy: Allegemein. Herzschmerz.
 
