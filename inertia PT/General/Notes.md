@@ -419,6 +419,19 @@ Was alleine eine Entwicklung in der kanonengießerei an Handwerkskunst entwickel
 
 Und er sagt es gab kaum Erfindungen im europäischen Mittelalter.😂
 
+24:00 und was ist mit dem ostafrikanischen Sklavenhandel?
+Steht dem transatlantischen nicht wirklich nach.🤷
+
+Die Korsaren die europäische Schiffe nicht wegen der Waren sondern der Menschen überfallen haben. 
+
+Will ja nicht relativen...
+
+Nur immer echt nicht so deren Ding ihre edlen Orientalen realistisch zu betrachten.
+
+Das osmanische Reich war auch eine Sklavenhalter Gesellschaft, da waren besonders slavische volker beliebt bei denen man sich bedient hat.
+
+
+
 Ich will nicht die Errungenschaften in der Medizin, Mathematik und Astronomie in den Gebieten die von den Muslimen erobert wurden klein reden. 
 -> die haben da aber mehrheitlich Schaden angerichtet in den Ländern. 
 
