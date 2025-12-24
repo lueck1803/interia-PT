@@ -498,3 +498,7 @@ Ich verstehe ihre Zurückhaltung aus ihrer Erfahrung zu 100%.
 3. Nun den Greiferbahndeckel mit dem Nupsi nach unten in die passende Lücke des Greifertreibers einpassen 
 4. Den Greiferbahndeckel festhalten und die linke, dann die rechte Deckelhalterung einrasten.
 5. Die Unterfadenkapsel einsetzen 
+
+# Socken 
+Nehme 2 mal 12 M auf
+
