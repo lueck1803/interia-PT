@@ -502,3 +502,4 @@ Ich verstehe ihre Zurückhaltung aus ihrer Erfahrung zu 100%.
 # Socken 
 Nehme 2 mal 12 M auf
 
+R 
