@@ -553,6 +553,9 @@ Darauf kann ich dann halt auch verzichten.
 Für was lebe ich eigentlich und wie soll ich dann irgendwie Motivation für meine Aufgaben finden.
 
 Ich muss überleben. Das haben sie mir ja auch auferlegt, also tue ich es und das geht nur in dem ich auf mich höre und mich schütze.
+
+Ich kann es mir wirklich nicht leisten noch mehr runter gemacht zu werden. 
+Ich darf da nicht traurig sein, ich darf nicht Arooj vermissen, ich werde als schwach und 
 ## 25-12-22
 ### Trennung
 Die war unbedingt notwendig:
