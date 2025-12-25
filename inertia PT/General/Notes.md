@@ -508,5 +508,9 @@ https://www.youtube.com/watch?v=-ElLBXAooWY&t=404s
 - [x] 12 M pro seite zweite Socke
 ## erste Runde 
 - [x] beide Socken erste Reihe Rechts
-- [ ] beide Socken zweite Reihe Rechts verschränkt 
-- [ ] 
+- [x] beide Socken zweite Reihe Rechts verschränkt .
+## Zunahme
+Zunahme nach der 1. Und vor der letzten Masche auf jeder Nadel, aus dem Querfaden.
+Dann eine Runde rechts. 
+
+Z
