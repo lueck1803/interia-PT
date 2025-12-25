@@ -545,7 +545,12 @@ Das gilt ja auch für die Beziehung mit Arooj. Da haben sie sich heraus halten w
 So richtig nehmen sie mich und die Situation immer noch nicht ernst. 
 Das ist an ihrer Betroffenheit, dem fehlenden Einfühlungsvermögen, mir vorzuwerfen ich würde mich ja "anstellen", sollte mich nicht so haben oder "nicht so sein".
 Mir auch zum Vorwurf/Vorhalt zu machen, dass ja so viel Essen da sei und sie mich ja eigentlich erwartet hätten etc.
-Mein Wohlergehen ist egal und es wird als etwas egoistisches dargstellt, dabei denke ich ja auch an mein Umfeld, darüberhinaus und versuche weiter zu denken.
+Mein Wohlergehen ist egal und es wird als etwas egoistisches dargestellt, dabei denke ich ja auch an mein Umfeld, darüberhinaus und versuche weiter zu denken.
+Bis in den März, April und Mai hinein habe ich echt noch sehr fiese Aussagen von meinem Vater hören müssen.
+Bzgl. Julia hat es auch erst rund um den Geburtstag meiner Mutter klick gemacht, als sie so wirklich selbst betroffen waren. Im Endeffekt wurde mir indirekt für Weihnachten die Verantwortung gegeben "ihr seid erwachsen und müsst das unter euch klären", härter hätten sie mir wirklich nicht noch schaden können und weiter hineintreiben.
+Ich bin echt am Ende und auch dafür das auszusprechen wurde ich noch fertig gemacht und verantwortlich für deren befinden, ich sollte so etwas lassen, da ich denen damit nicht gut tue.
+Darauf kann ich dann halt auch verzichten.
+Für was lebe ich eigentlich und wie soll ich dann irgendwie 
 ## 25-12-22
 ### Trennung
 Die war unbedingt notwendig:
