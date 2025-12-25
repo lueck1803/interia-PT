@@ -536,7 +536,12 @@ Damit hätte ich meinen Eltern nur Kummer bereitet.
 Helfen können sie mir eh nicht. Als Hilfe möglich war und ich diese gebraucht hätte, haben sie sich dieser verweigert bzw es schlimmer gemacht.
 
 Jetzt geht's nicht anders, ich muss darauf hören was geht und was nicht geht.
-Habe mich zu lange verbogen
+Habe mich zu lange verbogen.
+
+Ich habe versucht meinen Eltern zu verdeutlichen, wie wichtig mir Arooj und die Beziehung zu Arooj ist. Ebenso wie sehr ich und wir als ganze Familie unter der Situation mit und der Barriere mit meiner Schwester Julia leiden. 
+Ich habe versucht (bei letzterem schon länger) das Problem aufzuklären, herauszuarbeiten und anzugehen, mir wurden dabei aber immer Steine in den Weg gelegt, ich wurde nicht ernst genommen, herunter und lächerlich gemacht oder gar als das Problem heraus gestellt.
+
+Das gilt ja auch für die Beziehung mit Arooj. Da haben sie sich heraus halten wollen, mein Vater hat aber immer wieder Partei f
 ## 25-12-22
 ### Trennung
 Die war unbedingt notwendig:
