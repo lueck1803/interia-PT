@@ -555,7 +555,9 @@ Für was lebe ich eigentlich und wie soll ich dann irgendwie Motivation für mei
 Ich muss überleben. Das haben sie mir ja auch auferlegt, also tue ich es und das geht nur in dem ich auf mich höre und mich schütze.
 
 Ich kann es mir wirklich nicht leisten noch mehr runter gemacht zu werden. 
-Ich darf da nicht traurig sein, ich darf nicht Arooj vermissen, ich werde als schwach und 
+Ich darf da nicht traurig sein, ich darf nicht Arooj vermissen, ich werde als schwach und unmännlich bezeichnet, weil ich Arooj vermisse und traurig bin und dann auch noch dafür verantwortlich gemacht, dass ich eine schlechte Stimmung verbreite.
+Dann bin ich lieber für mich alleine und darf ab und zu traurig sein und Arooj vermissen. Daran ist nix schwaches und nix böses und nicht schlechtes zu vermissen und gerne zu haben, was man wirklich schätz und traurig darüber sein, wie es gelaufen ist und nichts tun konnte. Alles was ich versucht habe, mich zu verstehen und alles besser zu machen, hatte nicht geholfen. Und es hat so weh getan für die Versuche um Arooj zu kämpfen noch als böse und manipulativ dargestellt zu werden und dann von meinen Eltern dafür noch die gesamte schuld daran zu bekommen, dass sie weg ist. 
+Und dann noch für die Situation mit meiner Schwester verantwortlich gemacht zu werden. 
 ## 25-12-22
 ### Trennung
 Die war unbedingt notwendig:
