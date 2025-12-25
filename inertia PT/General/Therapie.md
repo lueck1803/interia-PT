@@ -639,6 +639,34 @@ Ist mir egal was andere über mich denken und meine Handlungen bewerten.
 Ich habe jedenfalls keine Lust auf diese Art von Menschen die so voller Verbitterung und spalterischem handeln sind. 
 
 Das zeigt mir auch wieder einen Punkt warum ich mich mich doch lieber fern von Arooj, ihrer Familie und dieser Kultur des Zwietrachts halten möchte.
+
+<u>Freddie</u> Ich finde bei so nem Foto von ner Pflanze (die sie geschenkt hat) ist doch nix dabei 💁‍♂️ Könnte das etwas kulturelles sein, dass man das nicht direkt sagt, wenn man das nicht möchte?
+
+<u>wieder ich</u> Ich denke es ist gerade die Verletzung wegen der Freundschaftsaufkündigung letztes Jahr. 
+
+Ich gehe davon aus dass es nichts mit mir zu tun hat.
+
+Sie denkt vielleicht eher "pakistanisch", dass ich etwas damit zu tun gehabt haben könnte, denn wir haben ja über alles geredet und bei denen entscheiden Frauen ja nicht frei, ist ja alles durch die Familie gesteuert und Intrigen 🤷‍♂️.
+(Wirklich kein Rassismus oder irgendwelche Annahme. Tatsachenbeschreibung die Arooj auch so bestätigen würde) 
+
+Dabei hat Arooj ganz alleine und im Affekt gehandelt.
+
+Ich hätte sie versucht von so einem Schritt abzuhalten.
+
+Mit mir hat sie "relativ" wenig kommuniziert dies bezüglich.
+
+Sie hat schon viel dazu gesagt, aber viel von ihren "starken“/strickten Handlungen hat sie im Hintergrund gemacht.
+
+Auch all ihre Rückforderungen 🤷‍♂️.
+
+Davon habe ich zum Teil erst später erfahren.
+
+Ist ja so ähnlich überzogen wie sie sich bei mir verhalten hat. (Kränkungsgetrieben eben)
+
+Ich hätte versucht dass alles etwas zu glätten.
+Und sie aufzufangen.
+
+Ich denke sie wollte nicht daran erinnert werden und hat die Pflanze zu "irgendeiner" degradiert.
 ## 25-12-22
 ### Trennung
 Die war unbedingt notwendig:
