@@ -503,3 +503,6 @@ Ich verstehe ihre Zurückhaltung aus ihrer Erfahrung zu 100%.
 Nehme 2 mal 12 M auf jeder Nadel pro Socke/Garnrolle auf:
 https://www.youtube.com/watch?v=-ElLBXAooWY&t=404s
 
+## Maschenaufnahme 
+- [x] 12 M pro seite erste Socke 
+- [ ] 12 M pro seite zweite Socke
