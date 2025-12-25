@@ -90,6 +90,13 @@ flowchart TB
 	- So wie sie mich zu letzt behandelt hat, lasse ich mich nicht mehr behandeln.
 	- Da gibt's auch nix zu rechtfertigen und Mitgefühl/Mitleid mit ihr zu haben. 
 	- Sie hat ja auch keines mit mir und auch keinerlei Nachsicht.
+- Ich ändere nichts an meinem Charakter und meiner Art.
+
+- Ich bin Brückenbauer und ich bin froh ein solcher zu sein. 
+
+- Ist mir egal was andere über mich denken und meine Handlungen bewerten.
+- Ich habe jedenfalls keine Lust auf die Art von Menschen die so voller Verbitterung und spalterischem handeln sind. 
+- Das zeigt mir auch wieder einen Punkt warum ich mich mich doch lieber fern von Arooj, ihrer Familie und dieser Kultur des Zwietrachts halten möchte.
 
 # Issues
 - Vom <span style="font-size:100%;color:gold;">"Butterfly effect Denken"</span> wegkommen.
@@ -511,7 +518,8 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 	- Benina:
 		- klarer sagen was man wirklich sagen wollte, es kommt nicht immer das an obwohl man es dachte das man das doch klar gesagt hat.
 # Beziehung 
-## 25-12-25 Eltern 
+## 25-12-25 
+### Eltern 
 Meine Eltern haben mich eben angerufen.
 
 Ein bisschen traurig und "vorwurfsvoll" bzw eher lockend mit Dingen die es ja zu essen gibt/was noch da ist. 🤷‍♂️
@@ -559,6 +567,78 @@ Ich darf da nicht traurig sein, ich darf nicht Arooj vermissen, ich werde als sc
 Dann bin ich lieber für mich alleine und darf ab und zu traurig sein und Arooj vermissen. Daran ist nix schwaches und nix böses und nicht schlechtes zu vermissen und gerne zu haben, was man wirklich schätz und traurig darüber sein, wie es gelaufen ist und nichts tun konnte. Alles was ich versucht habe, mich zu verstehen und alles besser zu machen, hatte nicht geholfen. Und es hat so weh getan für die Versuche um Arooj zu kämpfen noch als böse und manipulativ dargestellt zu werden und dann von meinen Eltern dafür noch die gesamte schuld daran zu bekommen, dass sie weg ist. 
 Und dann noch für die Situation mit meiner Schwester verantwortlich gemacht zu werden. Ich versuche ja nur zu überleben. 
 Ich weiß, dass ich dafür kein verständnis bekomme, aber ich will dafür nicht auch noch Schuldzuweisungen.
+
+### Bilge/tayyba/ Pakis
+Hat mir bilge geschickt:
+[25.12., 16:44] Bilge Ulusoy: Ich schick Dir einfach was ich Gustav geschickt habe. Ist gerade einfacher.
+[25.12., 16:44] Bilge Ulusoy: Sie hatte vorhin nochmal angerufen und gestraft ob ich eher kommen möchte. Sie hat Essen gemacht und wir könnten zusammen essen sagte sie.
+
+Hab gesagt dass ich mich gleich auf den Weg mache. 
+
+Bin dann gegen 14:00 Uhr angekommen. Sie war gerade auf dem Weg nach draußen mit den Kindern. Wollte ein Spaziergang machen mit den Kids.
+
+Auf der Hälfte des Weges hatte Leyla keine Lust mehr und wurde quengelig. Sie ist dann mit Leyla nach Hause. Ich habe die Runde mit İleyna noch zu Ende gemacht (ca 20min).
+
+Wieder bei ihr angekommen wartete ich in der Türschwelle. Als sie dann da war fragte ich ob ich reinkommen darf. Sie sagte „ja klar“.
+
+Sie sagte zu İleyna „zeig Baba mal die Wohnung“. İleyna hat mich durch jedes Zimmer geführt.
+
+Zwischendurch sagte sie auch etwas (sinngemäß), dass es gut sei, dass ich gerade da bin. Dann könnte sie nämlich etwas ins Auto bringen.
+
+Ich griff es später wieder auf und sagte ihr ich könne ihr helfen bei den Dingen. Sie lehnte es ab und meinte sie macht es einfach morgen.
+
+Danach haben wir uns alle aufs Sofa gesetzt und die Kinder haben in einem „Kritzel Kratzel“ Buch gemalt. Leyla war sehr anhänglich und Tayyba sagte mindestens zwei mal wie müde und kaputt sie sei und sie auf jeden Fall erstmal einen Kaffee trinken möchte. Sie fragte sie ob ich auch einen Kaffee nehmen würde. Habe gesagt ja gerne. Bitte schwarz. Sie zeigte mir eine Pflanzen basierte high Protein Milch und fragte ob ich diese dazu möchte. Ich lehnte dankend ab.
+
+Tayyba sagte dann „Wegen Deiner Diät? Die Kinder meinten die wäre vorbei“ und lächelte. Ich erklärte ihr, dass ich jetzt über Weihnachten pausieren würde, mir aber ohnehin angewöhnt habe, Kaffee schwarz zu trinken.
+
+Wir setzten uns an den Tisch und sie bot mir etwas von der Pizza an die sie mit den Kindern gebacken hatte. Ich aß ein wenig und danach holte ich die Kuchen aus der Tasche und sagte ich habe die beiden gebacken. Marmor und Käsekuchen. Sie schien zufrieden. Die Kinder haben sich gefreut und haben gefragt ob ich den heute gebacken habe. Ich erklärte den beiden, dass ich die Kuchen gestern zusammen mit Lukas [ein Freund von mir] gebacken hätte.
+
+So aßen wir alle ein bisschen Kuchen. Und genossen unsere Getränke.
+
+Tayyba knüpfte an das Thema an und sagte mir, ich solle Lukas bitte mitteilen, dass er ihr keine Fotos von irgendwelchen Blumen schicken braucht. Das interessiert sie nicht. Ich habe ihr daraufhin gesagt, dass er zeigen wollte, dass er sie aufgepäppelte hat. Sie blieb standhaft und sagte „ja trotzdem. Sag ihm das bitte“. Ich sagte ihr, dass ich das tun werde.
+
+Nach dem Essen fingen die Kinder an zu spielen und bezogen mich ein. Ich machte mit und hab zwischendurch den Tisch etwas abgeräumt und die Sachen in die Küche gebracht.
+
+Wir spielten ein wenig verstecken. War lustig. Tayyba schien auch zufrieden zu sein. Ich fragte sie ob sie etwas Kuchen bei sich behalten möchte für die morgige Fahrt [sie fährt mit den Kindern über das Wochenende weg, Fr-So]. Sie sagte ja. Aber nur ein bisschen. Im Gegenzug bot sie mir auch Pizza und Salat an den ich mitnehmen könnte. Ich bedankte mich und sagte ja. Nur bisschen.
+
+Ich sagte den Kindern, dass ich gleich gehen müsse und so packte sie die Sachen ein.
+
+Ich ging zu Tür und bat die Kinder zu kommen, damit ich mich verabschieden könne. Das taten sie auch. Ich verabschiedete mich per Handzeichen und lächeln von Tayyba und ging.
+
+Bedauerlicherweise musste ich erneut klopfen weil ich mein Handy vergessen habe. Sie öffnete die Tür und ich bat İleyna mir mein Handy zu holen, was sie auch tat. Ich verabschiedete mich erneut und zog die Tür hinter mir zu ohne mich nochmal umzudrehen.
+
+Das ganze „Treffen“ hat gute zwei Stunden gedauert. Es war sehr schmerzhaft für mich sie zu sehen und zu wissen sie ist nicht mehr emotional verbunden.
+Mich verletzt diese Aussagen, ich habe ihr nur ein Foto von der kalanchoe geschickt, die wieder mal blüht, die sie mal Arooj geschenkt hat🤷‍♂️.
+Da habe ich halt an sie gedacht.
+
+Sie hat darauf mit 👍 reagiert.
+
+Das hätte sie mir auch selbst schreiben können.
+
+Und ich finde es nicht in Ordnung dass sie ihren Groll mit Arooj an mir auslässt, was auch immer da los ist. 
+Ich hab ihr nix getan.🤷‍♂️
+Sie will wahrscheinlich nicht an Arooj erinnert werden 🤷‍♂️.
+
+Gut kann ich nicht wissen. 
+
+Dieses Botschafter spielen, ist typisch Paki 🤷‍♂️.
+Hat nichts mit mir zu tun. 
+
+Ist ihre Welt des Grolls und ihre eigenartigen negativen Gedankenwelten.
+
+"Irgendwelche Bilder von irgendwelchen Pflanzen"
+
+Spricht ja sehr stark für ihre Problematik und ihre Verbitterung 🤷‍♂️.
+Oder wie seht ihr das? 
+
+Ich ändere nichts an meinem Charakter und meiner Art.
+
+Ich bin Brückenbauer und ich bin froh ein solcher zu sein. 
+
+Ist mir egal was andere über mich denken und meine Handlungen bewerten.
+Ich habe jedenfalls keine Lust auf diese Art von Menschen die so voller Verbitterung und spalterischem handeln sind. 
+
+Das zeigt mir auch wieder einen Punkt warum ich mich mich doch lieber fern von Arooj, ihrer Familie und dieser Kultur des Zwietrachts halten möchte.
 ## 25-12-22
 ### Trennung
 Die war unbedingt notwendig:
