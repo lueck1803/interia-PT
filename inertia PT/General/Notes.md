@@ -505,4 +505,5 @@ https://www.youtube.com/watch?v=-ElLBXAooWY&t=404s
 
 ## Maschenaufnahme 
 - [x] 12 M pro seite erste Socke 
-- [ ] 12 M pro seite zweite Socke
+- [x] 12 M pro seite zweite Socke
+- [ ] 
