@@ -506,4 +506,7 @@ https://www.youtube.com/watch?v=-ElLBXAooWY&t=404s
 ## Maschenaufnahme 
 - [x] 12 M pro seite erste Socke 
 - [x] 12 M pro seite zweite Socke
+## erste Runde 
+- [x] beide Socken erste Reihe Rechts
+- [ ] beide Socken zweite Reihe Rechts verschränkt 
 - [ ] 
