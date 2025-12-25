@@ -1,5 +1,6 @@
 # unsortiert
-- [x] Bild in notes rein hauen
+- [ ] rotkohl verarbeiten
+- [ ] Brokkoli verarbeiten
 - [ ] Shortcut obsidian unter windows und anderen für toggl checkbox/bullet list
 - [ ] wintersun sadness and hate
 - [ ] Meditieren 
