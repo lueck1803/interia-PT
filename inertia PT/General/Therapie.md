@@ -511,6 +511,32 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 	- Benina:
 		- klarer sagen was man wirklich sagen wollte, es kommt nicht immer das an obwohl man es dachte das man das doch klar gesagt hat.
 # Beziehung 
+## 25-12-25 Eltern 
+Meine Eltern haben mich eben angerufen.
+
+Ein bisschen traurig und "vorwurfsvoll" bzw eher lockend mit Dingen die es ja zu essen gibt/was noch da ist. 🤷‍♂️
+
+Was nicht geht, geht nicht 
+
+Die haben wirklich nix davon wenn ich da bin und denen alles versaue.
+
+Und mir geht's auch nur schlechter.
+
+Hier geht's mir momentan einfach besser. 
+Muss nach dem gehen was ich weiß und auf Sicht fahren.🤷‍♂️
+
+.
+Ich denke dabei ja auch an meine Eltern.
+
+Hätte niemandem etwas gebracht wenn ich mich heute morgen gezwungen hätte, dann übermüdet und dadurch geistig angeschlagen mit dem Schatten auf mir dort hingefahren wäre und total empfänglich für die Emotionen gewesen wäre. 
+
+Da wäre ich nur total zerstört wieder nach Hause oder gar nicht mehr nach Hause gefahren und hätte dort nur Schaden angerichtet.
+
+Damit hätte ich meinen Eltern nur Kummer bereitet.
+Helfen können sie mir eh nicht. Als Hilfe möglich war und ich diese gebraucht hätte, haben sie sich dieser verweigert bzw es schlimmer gemacht.
+
+Jetzt geht's nicht anders, ich muss darauf hören was geht und was nicht geht.
+Habe mich zu lange verbogen
 ## 25-12-22
 ### Trennung
 Die war unbedingt notwendig:
