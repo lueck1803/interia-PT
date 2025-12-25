@@ -500,6 +500,6 @@ Ich verstehe ihre Zurückhaltung aus ihrer Erfahrung zu 100%.
 5. Die Unterfadenkapsel einsetzen 
 
 # Socken 
-Nehme 2 mal 12 M auf
+Nehme 2 mal 12 M auf jeder Nadel pro Socke/Garnrolle auf:
+https://www.youtube.com/watch?v=-ElLBXAooWY&t=404s
 
-r rv 
