@@ -550,7 +550,9 @@ Bis in den März, April und Mai hinein habe ich echt noch sehr fiese Aussagen vo
 Bzgl. Julia hat es auch erst rund um den Geburtstag meiner Mutter klick gemacht, als sie so wirklich selbst betroffen waren. Im Endeffekt wurde mir indirekt für Weihnachten die Verantwortung gegeben "ihr seid erwachsen und müsst das unter euch klären", härter hätten sie mir wirklich nicht noch schaden können und weiter hineintreiben.
 Ich bin echt am Ende und auch dafür das auszusprechen wurde ich noch fertig gemacht und verantwortlich für deren befinden, ich sollte so etwas lassen, da ich denen damit nicht gut tue.
 Darauf kann ich dann halt auch verzichten.
-Für was lebe ich eigentlich und wie soll ich dann irgendwie 
+Für was lebe ich eigentlich und wie soll ich dann irgendwie Motivation für meine Aufgaben finden.
+
+Ich muss überleben. Das haben sie mir ja auch auferlegt, also tue ich es und das geht nur in dem ich auf mich höre und mich schütze.
 ## 25-12-22
 ### Trennung
 Die war unbedingt notwendig:
