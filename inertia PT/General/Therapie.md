@@ -541,7 +541,11 @@ Habe mich zu lange verbogen.
 Ich habe versucht meinen Eltern zu verdeutlichen, wie wichtig mir Arooj und die Beziehung zu Arooj ist. Ebenso wie sehr ich und wir als ganze Familie unter der Situation mit und der Barriere mit meiner Schwester Julia leiden. 
 Ich habe versucht (bei letzterem schon länger) das Problem aufzuklären, herauszuarbeiten und anzugehen, mir wurden dabei aber immer Steine in den Weg gelegt, ich wurde nicht ernst genommen, herunter und lächerlich gemacht oder gar als das Problem heraus gestellt.
 
-Das gilt ja auch für die Beziehung mit Arooj. Da haben sie sich heraus halten wollen, mein Vater hat aber immer wieder Partei f
+Das gilt ja auch für die Beziehung mit Arooj. Da haben sie sich heraus halten wollen, mein Vater hat aber immer wieder Partei für Arooj ergriffen und mir auch noch die Schuld gegeben. Mich lächerlich gemacht, ich sollte mich nicht so anstellen und sie könnten ja nichts machen, mir Druck gemacht und mich runter gemacht.
+So richtig nehmen sie mich und die Situation immer noch nicht ernst. 
+Das ist an ihrer Betroffenheit, dem fehlenden Einfühlungsvermögen, mir vorzuwerfen ich würde mich ja "anstellen", sollte mich nicht so haben oder "nicht so sein".
+Mir auch zum Vorwurf/Vorhalt zu machen, dass ja so viel Essen da sei und sie mich ja eigentlich erwartet hätten etc.
+Mein Wohlergehen ist egal und es wird als etwas egoistisches dargstellt, dabei denke ich ja auch an mein Umfeld, darüberhinaus und versuche weiter zu denken.
 ## 25-12-22
 ### Trennung
 Die war unbedingt notwendig:
