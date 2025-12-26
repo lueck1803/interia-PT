@@ -15,7 +15,9 @@ Ich war dieses Jahr so häufig ziemlich kaputt und kurz davor mir das Leben zu n
 
 So gut wie jetzt ging es mir seit Jahren nicht mehr. 
 
-Ich bin endlich mal fast dauerhaft klar im Kopf und komme innerlich zur
+Ich bin endlich mal fast dauerhaft klar im Kopf und komme innerlich zur Ruhe. 
+
+Ich bin nicht böse und bin kein Täter oder gefährlich, auch wenn sie mich das hat glauben lassen wollen.
 
 ## Nachricht an Nadine 
 Also die Frage ist doch obsolet. Insbesondere in dieser verhaltenen Art. Du kennst mich doch mittlerweile hoffentlich gut genug. 😁🫣😅😶‍🌫️🫂
