@@ -116,6 +116,33 @@ Das ist  seit Jahren ein großes Problem von mir
 	- the more sensitive the information is that you need, the less questions you need to be asking 
 - <span style="color:red">3s Pause</span> before Response to regain your <span style="color:green">emotional control</span> 
 - don't over explain. Be sure that your message is clear 
+- Ich musste meinen Wert kennen lernen und lernen Grenzen aufzuzeigen. Dass ich Jahre lang zu viel mit gemacht habe. 
+Ich hatte viele Barrieren in mir zu überwinden, um wieder zu heilen. Zu merken dass ich mir viel zu lange meine Deutungshoheit über mich, meine Taten und Identität habe nehmen lassen.
+Wie es sein konnte dass ich jedesmal nach einem ihrer Phasen an meiner Integrität und meinen guten Absichten gezweifelt hatte.
+Ich habe tatsächlich immer wieder gedacht, dass irgendwas an mir böse sein muss. 
+Das hat mich total krank gemacht.
+
+Es ist ein wunder dass ich noch lebe. 
+
+Und trotzdem habe ich diese starke emotionale Bindung zu ihr. Es ist wie eine Sucht/Abhängigkeit. 
+
+Ich war dieses Jahr so häufig ziemlich kaputt und kurz davor mir das Leben zu nehmen.
+
+So gut wie jetzt ging es mir seit Jahren nicht mehr. 
+
+Ich bin endlich mal fast dauerhaft klar im Kopf und komme innerlich zur Ruhe. 
+
+Ich bin nicht böse und bin kein Täter oder gefährlich, auch wenn sie mich das hat glauben lassen wollen.
+
+Ich habe sie so unglaublich gerne, insbesondere deshalb weil wir uns beide im Alltag so super verstanden haben, so viel gemeinsam haben uns in vielen Dingen so ähnlich sind, uns auch blind und schweigend verstanden haben, immer über all die Jahre unsere alltägliche Freude bewahrt haben.
+
+Die Beziehung zu ihrer Familie ist aber nicht gesund und schadet ihr so häufig und wenn es mal die falsche Dosis Kritik, ein falsches Wort oder gar nur  eine falsche Formulierung oder einfach ihr innerer Glaubenssatz meine Worte negativ verstehen zu wollen und sie ist in eine langanhaltende Wut verfallen die innerlich schlummerte und dann nicht mehr aufzuhalten war.
+
+Daran bin ich einfach verbrannt und hatte irgendwann all meine Energie und meinen Lebensmut verloren.
+
+Ich habe mir immer Kinder mit ihr gewünscht, aber dafür hätte sie diese Phasen in den Griff bekommen und dafür in Therapie gehen müssen, darüberhinaus hätte die Hierarchie klar sein müssen, dass wir uns nicht durch übergriffiges Verhalten ihrer Familie hätten beeinflussen lassen und die keinerlei Zugriff auf unsere Kinder hätten haben dürfen, so lange wir nicht dabei sind. 
+1. Schlechter Einfluss 
+2. Kann man denen einfach nicht vertrauen, wie die Vergangenheit gezeigt hat. Ich hätte nicht gewollt dass die einfach in einem unbeobachteten Moment die Haare vom Kind abrasiern, weil die aus dem Mutterleib kommen und unrein sind. Arooj hat immer gesagt ja auf keinen Fall, aber dann hat sich das Gift ihrer Familie doch immer wieder eingeschlichen und sie hat Aussagen übernommen und wurde weich geklopft. Geht nicht...
 ## Friedemann schulz von Thun 
 https://www.youtube.com/watch?v=jPAjmlkXf48&t=33m00s
 

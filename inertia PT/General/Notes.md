@@ -27,7 +27,7 @@ Daran bin ich einfach verbrannt und hatte irgendwann all meine Energie und meine
 
 Ich habe mir immer Kinder mit ihr gewünscht, aber dafür hätte sie diese Phasen in den Griff bekommen und dafür in Therapie gehen müssen, darüberhinaus hätte die Hierarchie klar sein müssen, dass wir uns nicht durch übergriffiges Verhalten ihrer Familie hätten beeinflussen lassen und die keinerlei Zugriff auf unsere Kinder hätten haben dürfen, so lange wir nicht dabei sind. 
 1. Schlechter Einfluss 
-2. Kann man denen einfach nicht vertrauen, wie die Vergangenheit gezeigt hat. Ich hätte nicht gewollt dass die einfach in einem unbeobachteten Moment die Haare vom Kind abrasiern, weil die aus dem Mutterleib kommen und unrein sind. Arooj hat immer gesagt ja auf keinen Fall, aber dann hat sich das Gift ihrer Familie doch immer wieder eingeschlichen und sie hat Aussagen 
+2. Kann man denen einfach nicht vertrauen, wie die Vergangenheit gezeigt hat. Ich hätte nicht gewollt dass die einfach in einem unbeobachteten Moment die Haare vom Kind abrasiern, weil die aus dem Mutterleib kommen und unrein sind. Arooj hat immer gesagt ja auf keinen Fall, aber dann hat sich das Gift ihrer Familie doch immer wieder eingeschlichen und sie hat Aussagen übernommen und wurde weich geklopft. Geht nicht...
 
 ## Nachricht an Nadine 
 Also die Frage ist doch obsolet. Insbesondere in dieser verhaltenen Art. Du kennst mich doch mittlerweile hoffentlich gut genug. 😁🫣😅😶‍🌫️🫂
