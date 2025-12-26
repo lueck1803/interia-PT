@@ -518,6 +518,9 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 	- Benina:
 		- klarer sagen was man wirklich sagen wollte, es kommt nicht immer das an obwohl man es dachte das man das doch klar gesagt hat.
 # Beziehung 
+## 25-12-26
+- Arooj hat überhaupt nicht berücksichtigt dass ich erst '24 ADHS diagnostiziert bekommen habe und dann logischerweise erstmal in eine Identitätskrise gekommen bin. 
+- und ihr problematisches Verhalten hat sie überhaupt nicht berücksichtigt 
 ## 25-12-25 
 ### Eltern 
 Meine Eltern haben mich eben angerufen.
