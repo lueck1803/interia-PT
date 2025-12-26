@@ -98,6 +98,10 @@ flowchart TB
 - Ich habe jedenfalls keine Lust auf die Art von Menschen die so voller Verbitterung und spalterischem handeln sind. 
 - Das zeigt mir auch wieder einen Punkt warum ich mich mich doch lieber fern von Arooj, ihrer Familie und dieser Kultur des Zwietrachts halten möchte.
 
+- Es ist aber auch mal genug dass ich Aroojs Fehlverhalten und mein Leid darunter klein rede und sie in Schutz nehme.
+
+Sie nimmt mich nicht in Schutz 
+
 # Issues
 - Vom <span style="font-size:100%;color:gold;">"Butterfly effect Denken"</span> wegkommen.
 - 
