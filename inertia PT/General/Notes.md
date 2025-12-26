@@ -19,6 +19,10 @@ Ich bin endlich mal fast dauerhaft klar im Kopf und komme innerlich zur Ruhe.
 
 Ich bin nicht böse und bin kein Täter oder gefährlich, auch wenn sie mich das hat glauben lassen wollen.
 
+Ich habe sie so unglaublich gerne, insbesondere deshalb weil wir uns beide im Alltag so super verstanden haben, so viel gemeinsam haben uns in vielen Dingen so ähnlich sind, uns auch blind und schweigend verstanden haben, immer über all die Jahre unsere alltägliche Freude bewahrt haben.
+
+Die Beziehung zu ihrer Familie ist aber nicht gesund und schadet ihr so häufig und wenn es mal die falsche Dosis Kritik, ein falsches Wort oder gar nur  eine falsche Formulierung oder einfach ihr innerer Glaubenssatz meine Worte negativ verstehen zu wollen und sie ist in eine langanhaltende Wut verfallen die inne
+
 ## Nachricht an Nadine 
 Also die Frage ist doch obsolet. Insbesondere in dieser verhaltenen Art. Du kennst mich doch mittlerweile hoffentlich gut genug. 😁🫣😅😶‍🌫️🫂
 Selbstverständlich werde ich dich nach meinem Vermögen beraten und das ist selbstverständlich immer ehrlich, denn sonst ist das ja sinnlos.🤷
