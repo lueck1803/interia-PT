@@ -3,7 +3,19 @@
 ## 25-12-26 Anna-Sophia 
 Ich musste meinen Wert kennen lernen und lernen Grenzen aufzuzeigen. Dass ich Jahre lang zu viel mit gemacht habe. 
 Ich hatte viele Barrieren in mir zu überwinden, um wieder zu heilen. Zu merken dass ich mir viel zu lange meine Deutungshoheit über mich, meine Taten und Identität habe nehmen lassen.
-Wie es sein konnte das
+Wie es sein konnte dass ich jedesmal nach einem ihrer Phasen an meiner Integrität und meinen guten Absichten gezweifelt hatte.
+Ich habe tatsächlich immer wieder gedacht, dass irgendwas an mir böse sein muss. 
+Das hat mich total krank gemacht.
+
+Es ist ein wunder dass ich noch lebe. 
+
+Und trotzdem habe ich diese starke emotionale Bindung zu ihr. Es ist wie eine Sucht/Abhängigkeit. 
+
+Ich war dieses Jahr so häufig ziemlich kaputt und kurz davor mir das Leben zu nehmen.
+
+So gut wie jetzt ging es mir seit Jahren nicht mehr. 
+
+Ich bin endlich mal fast dauerhaft klar im Kopf und komme innerlich zur
 
 ## Nachricht an Nadine 
 Also die Frage ist doch obsolet. Insbesondere in dieser verhaltenen Art. Du kennst mich doch mittlerweile hoffentlich gut genug. 😁🫣😅😶‍🌫️🫂
