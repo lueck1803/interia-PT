@@ -544,5 +544,5 @@ https://www.youtube.com/watch?v=-ElLBXAooWY&t=404s
 Zunahme nach der 1. Und vor der letzten Masche auf jeder Nadel, aus dem Querfaden.
 Dann eine Runde rechts. 
 
-Z12  R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 
+Z12  R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z1
 
