@@ -547,5 +547,5 @@ Dann eine Runde rechts.
 Z12  R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12
 
 ## Reihen nach Spickel 49 ~ 12,25 cm
-R12  R12 R1
+R12  R12 R12 R
 
