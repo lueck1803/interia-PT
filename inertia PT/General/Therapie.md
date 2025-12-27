@@ -566,6 +566,33 @@ In dem Zustand in dem ich selbst Donnerstag noch war, wäre es mir wohl richtig 
 So war ich die letzten Tage recht produktiv.
 Und habe mir auch selbst gut getan
 
+[27.12., 17:21] Bilge Ulusoy: Gute Erkenntnis!
+
+Wieso hat es „gereicht“? Vorwürfe?
+
+[27.12., 17:35] Lukas Walter: Ja in der Stimmung meiner Mutter alleine wie sie am Telefon war.
+So ein depressives Seufzen und mit mir hat sie nicht geredet, direkt das Telefon meinem Vater gegeben und er hat mir indirekt auch Vorhalte gemacht, dass die den Kartoffelsalat alleine essen "mussten" /gegessen haben. 
+
+Ich hab mich aber auch bewusst dazu entschieden, die Situation zu erklären. Gar nicht um mich zu rechtfertigen, sondern damit sie sich nicht schlecht fühlen.
+
+Sie hatten dann Verständnis dafür gezeigt, hatten sie davor auch Und waren froh dass es mir besser geht. Aber so ganz glaube natürlich nicht.
+
+Da ist schon tiefes Verständnis für überhaupt die Situation und auch wieder Druck.
+
+Ich hab auch gerade letzteres dafür genannt dass ich nicht gekommen bin. 
+
+Ich konnte gestern und heute immerhin arbeiten.
+
+Ich hätte gar nix geschafft wenn ich da gewesen wäre, mir wäre es schlechter gegangen alleine durch die Atmosphäre mit meinen Eltern und deren Aussagen, das fehlen von Arooj ganz zu schweigen.
+
+Und vielleicht wäre ich dann noch gar nicht wieder zurück....
+
+Ne hätte mich total raus gerissen.
+
+Und wenn ich Donnerstag zum Mittagessen gekommen wäre, so kurz nachdem meine Schwester und deren Familie weg gewesen wäre...
+Erstmal wäre ich dann körperlich nicht fit gewesen da ich zu wenig geschlafen hätte und dann noch die Situation...
+
+Ich bin da auch nicht gerne ohne Arooj 🤷‍♂️.
 ## 25-12-26
 - Arooj hat überhaupt nicht berücksichtigt dass ich erst '24 ADHS diagnostiziert bekommen habe und dann logischerweise erstmal in eine Identitätskrise gekommen bin. 
 - und ihr problematisches Verhalten hat sie überhaupt nicht berücksichtigt 
