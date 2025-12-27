@@ -633,7 +633,19 @@ Das Gefühl das jetzt fast ein Jahr anhielt, dass ich schuldig und anstrengend b
 
 Die verstehen gar nicht wie mich deren Worte am aus dem Loch kommen gehindert haben.
 
+### Arooj 
+Ich habe Anna-Sophia auch geantwortet.
 
+Ganz ohne weiter etwas zu Arooj zu sagen.
+Hab auf ihre Aussage nur mit Herz ❤️ reagiert.
+
+Ich sehe das ja genauso wie du Nadine.
+Und es war gut dass ich meine Emotionen und Gedanken anders verarbeitet habe. 
+
+Ich möchte ja auch echt nicht schlecht über Arooj reden. 
+
+Ich sehe ja auch ihren Kontrollverlust in ihrem Handeln und den Wunsch sich zu schützen auf ihre Art.
+Aber es bedeutet nicht dass ich mich deshalb selbstaufgebe vor lauter Mitgefühl
 ## 25-12-26
 - Arooj hat überhaupt nicht berücksichtigt dass ich erst '24 ADHS diagnostiziert bekommen habe und dann logischerweise erstmal in eine Identitätskrise gekommen bin. 
 - und ihr problematisches Verhalten hat sie überhaupt nicht berücksichtigt 
