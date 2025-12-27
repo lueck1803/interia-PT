@@ -593,6 +593,47 @@ Und wenn ich Donnerstag zum Mittagessen gekommen wäre, so kurz nachdem meine Sc
 Erstmal wäre ich dann körperlich nicht fit gewesen da ich zu wenig geschlafen hätte und dann noch die Situation...
 
 Ich bin da auch nicht gerne ohne Arooj 🤷‍♂️.
+
+[27.12., 17:43] Bilge Ulusoy: Danke für die Nachricht. 
+
+Kann ich voll- und ganz nachvollziehen.
+
+Mir ging es ähnlich (Bezugnehmend auf bei meinen Eltern sein ohne Tayyba). Zum Glück haben sie das Haus verkauft und ich muss nicht mehr dort hin zurück. Nun haben sie eine andere Wohnung wo Tayyba nie drin war. Weder alleine. Noch mit mir. 
+
+Ich mag diesen Druck nicht. „Wir mussten alleine essen“. Ja. Pech?! Halt weniger machen oder einfach essen und dankbar sein für das Essen. Meine Güte. 🤬
+[27.12., 18:03] Lukas Walter: Ja danke.
+
+Ich finde auch das unterschwellige schlechte Gewissen machen dumm. 
+
+Daher bin ich froh nicht da gewesen zu sein. 
+
+Hat echt Zeit gebraucht das so in Worten zu realisieren was das mit mir gemacht hat. 
+
+Ich hab das ja schon früher wahrgenommen daher war ich nicht gerne da vor Arooj.
+[27.12., 18:04] Lukas Walter: Ich hab auch gesagt "ist doch gut dann hattet ihr mehr für euch und genug zu essen und musstet nix neues kochen"
+
+Ich mag auch die Ambivalenz nicht zwischen zur last fallen und einem etwas aufzwingen.
+[27.12., 18:11] Lukas Walter: Ich würde jetzt nicht sagen zum Glück haben sie das Haus verkauft - weil jemand da war den ich sehr gut kenne und mit dem was verbinde.
+
+Das ist nicht so schön, wie du das empfindest. Kommt mir zumindest wie ein Makel vor (anhand deiner Ausdrucksweise).
+
+Ich verbinde damit ja nichts negatives dass Arooj da war. 
+
+Ich hätte sie eher zu Tode vermisst und wäre in einer total abhängigen und mich schuldig fühlenden Haltung gewesen.
+
+Gestern Abend hatte ich auch kurz dieses Gefühl, aber zum Glück geschafft mit etwas Wut und anderer Perspektive umzukehren.
+
+Hätte ich bei meinen Eltern nicht geschafft.
+
+Da mein Vater mir ja lange die Schuld daran gegeben hat das Arooj weg ist. 
+
+Gar keine Lust mehr darauf. 
+
+Das Gefühl das jetzt fast ein Jahr anhielt, dass ich schuldig und anstrengend bin, kommt nicht von ungefähr.
+
+Die verstehen gar nicht wie mich deren Worte am aus dem Loch kommen gehindert haben.
+
+
 ## 25-12-26
 - Arooj hat überhaupt nicht berücksichtigt dass ich erst '24 ADHS diagnostiziert bekommen habe und dann logischerweise erstmal in eine Identitätskrise gekommen bin. 
 - und ihr problematisches Verhalten hat sie überhaupt nicht berücksichtigt 
