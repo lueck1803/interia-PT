@@ -1,11 +1,12 @@
 # unsortiert
 - [ ] rotkohl verarbeiten
+- [ ] tesaabroller schärfen
 - [x] Brokkoli verarbeiten
 - [ ] Shortcut obsidian unter windows und anderen für toggl checkbox/bullet list
 - [ ] wintersun sadness and hate
 - [ ] Meditieren 
 - [ ] laufen
-- [ ] Ist geld vom november auf dem konto?
+- [x] Ist geld vom november auf dem konto?
 - [ ] 1h coreview 
 - [ ] Konto checken
 	- [x] Gehaltsabrechnung checken und fragen was mit September ist
@@ -214,7 +215,14 @@
 - [ ] Becorns basteln
 ## Pflanzen 
 - [x] kiwi aussäen 
+	- [ ] pikieren 
 - [x] maracuja aussäen 
+- [ ] apfel Keimlinge umsetzen 
+- [ ] habanero Pflanze säen
+- [ ] loch für Bioabfall neben Oregano graben
+- [ ] Schnittlauch dahin wo Basilikum war
+- [ ] Melisse bei Erdbeeren entfernen 
+	- [ ] dort nach physalis Pflanzen suchen
 - [ ] root grow stimulants 
 	- [ ] 350mg tablet aspirin in wasser 
 		- die Stecklinge haben sich stark verfärbt, man sieht die Wirkung der Säure. Ob das gut ist🤷
