@@ -220,6 +220,7 @@
 - [ ] apfel Keimlinge umsetzen 
 - [ ] habanero Pflanze säen
 - [ ] loch für Bioabfall neben Oregano graben
+- [ ] zitrone umsetzen 
 - [ ] Schnittlauch dahin wo Basilikum war
 - [ ] Melisse bei Erdbeeren entfernen 
 	- [ ] dort nach physalis Pflanzen suchen
