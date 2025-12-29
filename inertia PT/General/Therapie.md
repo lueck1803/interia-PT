@@ -225,9 +225,14 @@ Der <span style="color:red;font-size:100%;">andere möchte</span> einen nicht nu
 
 ## Improve Focus Attentional blinks
 [Huberman attentional blinks ](https://youtu.be/LAwBdRR4wQk?t=19m40s)  
-- searching waldo ⟹ when you find him your brain celebrates a little bit, you pause ⟹ in this moment your attention is drawn away ⟹ you are not able to see another waldo sitting right next to it ⟹because you are over focusing on 
+- searching waldo ⟹ when you find him your brain celebrates a little bit, you pause ⟹ in this moment your attention is drawn away ⟹ you are not able to see another waldo sitting right next to it ⟹because you are over focusing on something
 	- ↳<span style="font-size:100%;color:DodgerBlue;">attentional blink</span>
-	- <span style="font-size:100%;color:red;">ADHD</span> ⟹ you have these attentional blinks <span style="font-size:100%;color:coral;">more often</span>
+	- <span style="font-size:100%;color:red;">ADHD</span>
+		- ⟹can focus on things they care much about 
+		- ↳ so maybe they have these attentional blinks <span style="font-size:100%;color:coral;">more often</span> 
+		- They <span style="font-size:100%;color:lawngreen;">need</span> this property we call <span style="font-size:100%;color:lawngreen;">open monitoring</span>.
+			- <span style="font-size:100%;color:pink;">Panoramic vision</span> 
+			- ↳can be trained 
 - The rate of blinking is controlled by dopamine
 	- ⟹
 
