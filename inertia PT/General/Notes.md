@@ -549,3 +549,5 @@ Z12  R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12
 ## Reihen nach Spickel 49 ~ 12,25 cm
 R12  R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R
 
+<span style="font-size:100%;color:dodgerblue;">Bilge</span> lernt <span style="font-size:150%;color:cyan;">Obsidian </span>😅⟹
+
