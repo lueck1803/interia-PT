@@ -223,8 +223,8 @@ Der <span style="color:red;font-size:100%;">andere möchte</span> einen nicht nu
 
 # ADHD
 
-## Improve Focus Intentional blinks
-[Huberman Intentional blinks ](https://youtu.be/LAwBdRR4wQk?t=19m40s)  
+## Improve Focus Attentional blinks
+[Huberman attentional blinks ](https://youtu.be/LAwBdRR4wQk?t=19m40s)  
 
 # Perfektionismus 
 
