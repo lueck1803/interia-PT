@@ -249,6 +249,12 @@ Der <span style="color:red;font-size:100%;">andere möchte</span> einen nicht nu
 		- focus for a minute on an object very close to their eyes, they where allowed to blink.
 		- then on something further away
 		- before they did some sort of physical movements with the kids
+	- eyelids are there 
+		- to regulate the amount of information going into your nervous system
+		- to regulate how long you are bringing in information
+		- in what bins
+			- ↳ how widely or finely you are bining time is set by how often you blink
+			- ↳ how widely or specific grabbing attention from the world is set by wether you are seeing things very specific (squinting) or 
 
 # Perfektionismus 
 
