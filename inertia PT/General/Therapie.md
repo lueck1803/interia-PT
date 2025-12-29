@@ -231,10 +231,13 @@ Der <span style="color:red;font-size:100%;">andere möchte</span> einen nicht nu
 		- ⟹can focus on things they care much about 
 		- ↳ so maybe they have these attentional blinks <span style="font-size:100%;color:coral;">more often</span> 
 		- They <span style="font-size:100%;color:lawngreen;">need</span> this property we call <span style="font-size:100%;color:lawngreen;">open monitoring</span>.
-			- <span style="font-size:100%;color:pink;">Panoramic vision</span> 
+			- Can be accessed through <span style="font-size:100%;color:pink;">Panoramic vision</span> 
+			- ↳Can recognise multiple targets
 			- ↳can be trained 
-- The rate of blinking is controlled by dopamine
-	- ⟹
+- Right after a blink we <span style="font-size:100%;color:red;">reset</span> our <span style="font-size:100%;color:violet;">perception of time</span>
+- The <span style="font-size:100%;color:red;">rate</span> of blinking is <span style="font-size:100%;color:cyan;">controlled by dopamine</span>
+	- ⟹dopamine is controlling blinks
+	- ↳blinks are related to attention and focus
 
 # Perfektionismus 
 
