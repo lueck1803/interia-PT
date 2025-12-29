@@ -242,7 +242,13 @@ Der <span style="color:red;font-size:100%;">andere möchte</span> einen nicht nu
 	- <span style="font-size:100%;color:red;">↳</span> fortunately it is something you <span style="font-size:100%;color:lawngreen;">can control</span> 
 	- blinking and dopamine are inextricably linked, they are working together to control your attention
 - <span style="font-size:100%;color:red;">⟹</span> improve the ability of focus by training/learning <span style="font-size:100%;color:red;">how often to blink and when and how to keep their visual focus on a given target</span> 
-- a short period of focusing on a visual target allowed this school children to focus on other types of information
+- a short period of ***focusing on a visual target*** 
+	- allowed this school children to ***focus on other types of information***
+	- <u>significant component:</u> controlling the shutters on their eyes
+	- <u>method: </u>
+		- focus for a minute on an object very close to their eyes, they where allowed to blink.
+		- then on something further away
+		- before they did some sort of physical movements with the kids
 
 # Perfektionismus 
 
