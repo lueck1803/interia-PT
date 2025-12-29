@@ -223,7 +223,7 @@ Der <span style="color:red;font-size:100%;">andere möchte</span> einen nicht nu
 
 # ADHD
 
-## Improve Focus Attentional blinks
+## Improve Focus: Attentional blinks
 [Huberman attentional blinks ](https://youtu.be/LAwBdRR4wQk?t=19m40s)  
 - searching waldo ⟹ when you find him your brain celebrates a little bit, you pause ⟹ in this moment your attention is drawn away ⟹ you are not able to see another waldo sitting right next to it ⟹because you are over focusing on something
 	- ↳<span style="font-size:100%;color:DodgerBlue;">attentional blink</span>
@@ -258,7 +258,7 @@ Der <span style="color:red;font-size:100%;">andere möchte</span> einen nicht nu
 - omega 3 fatty acids
 - Phosphatidylserine
 	- PS has been studied for its potential in improving memory, learning, and concentration. Supplementation with PS has been shown to have no effect in enhancing cognitive performance in the elderly and individuals with cognitive decline
-	- 
+
 
 # Perfektionismus 
 
