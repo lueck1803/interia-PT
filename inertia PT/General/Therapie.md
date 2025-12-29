@@ -254,7 +254,9 @@ Der <span style="color:red;font-size:100%;">andere möchte</span> einen nicht nu
 		- to regulate how long you are bringing in information
 		- in what bins
 			- ↳ how widely or finely you are bining time is set by how often you blink
-			- ↳ how widely or specific grabbing attention from the world is set by wether you are seeing things very specific (squinting) or 
+			- ↳ how widely or specific grabbing attention from the world is set by wether you are seeing things very specificly (squinting) like a cross hair or you are in this panoramic whole environment, fish eye lence or wide angle mode
+- omega 3 fatty acids
+- phosphordidale sterin
 
 # Perfektionismus 
 
