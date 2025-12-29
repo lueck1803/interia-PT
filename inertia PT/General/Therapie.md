@@ -236,8 +236,12 @@ Der <span style="color:red;font-size:100%;">andere möchte</span> einen nicht nu
 			- ↳can be trained 
 - Right after a blink we <span style="font-size:100%;color:red;">reset</span> our <span style="font-size:100%;color:violet;">perception of time</span>
 - The <span style="font-size:100%;color:red;">rate</span> of blinking is <span style="font-size:100%;color:cyan;">controlled by dopamine</span>
-	- ⟹dopamine is controlling blinks
+	- ⟹dopamine is controlling attention
 	- ↳blinks are related to attention and focus
+	- ↳you constantly modulating and updating your perception of time
+	- <span style="font-size:100%;color:red;">↳</span> fortunately it is something you <span style="font-size:100%;color:lawngreen;">can control</span> 
+	- blinking and dopamine are inextricably linked, they are working together to control your attention
+- 
 
 # Perfektionismus 
 
