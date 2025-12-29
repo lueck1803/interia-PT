@@ -4,8 +4,6 @@
 - [x] Brokkoli verarbeiten
 - [ ] Shortcut obsidian unter windows und anderen für toggl checkbox/bullet list
 - [ ] wintersun sadness and hate
-- [ ] Meditieren 
-- [ ] laufen
 - [x] Ist geld vom november auf dem konto?
 - [ ] 1h coreview 
 - [ ] Konto checken
@@ -219,7 +217,7 @@
 - [x] maracuja aussäen 
 - [ ] apfel Keimlinge umsetzen 
 - [ ] habanero Pflanze säen
-- [ ] loch für Bioabfall neben Oregano graben
+- [x] loch für Bioabfall neben Oregano graben
 - [ ] zitrone umsetzen 
 - [ ] Schnittlauch dahin wo Basilikum war
 - [ ] Melisse bei Erdbeeren entfernen 
