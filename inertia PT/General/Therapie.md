@@ -256,7 +256,9 @@ Der <span style="color:red;font-size:100%;">andere möchte</span> einen nicht nu
 			- ↳ how widely or finely you are bining time is set by how often you blink
 			- ↳ how widely or specific grabbing attention from the world is set by wether you are seeing things very specificly (squinting) like a cross hair or you are in this panoramic whole environment, fish eye lence or wide angle mode
 - omega 3 fatty acids
-- phosphordidale sterin
+- Phosphatidylserine
+	- PS has been studied for its potential in improving memory, learning, and concentration. Supplementation with PS has been shown to have no effect in enhancing cognitive performance in the elderly and individuals with cognitive decline
+	- 
 
 # Perfektionismus 
 
