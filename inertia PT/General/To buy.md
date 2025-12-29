@@ -10,6 +10,7 @@
 # Lebensmittel 
 - [ ] scharfer Senf 
 - [ ] Knoblauch 
+- [ ] gehackte Tomaten mit Kräuter 
 
 # Technik
 - [x] Logitech Z207
