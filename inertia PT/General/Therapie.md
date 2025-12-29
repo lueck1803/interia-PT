@@ -549,6 +549,8 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 	- Benina:
 		- klarer sagen was man wirklich sagen wollte, es kommt nicht immer das an obwohl man es dachte das man das doch klar gesagt hat.
 # Beziehung 
+
+[Bonelli: Kopf Herz und Bauch - kurz](https://youtu.be/_8aKhwJzTTM?si=8olx0XTKGQmNcbdZ)
 ## 25-12-27
 ### Familie 
 Hab mal meine Eltern angerufen.
