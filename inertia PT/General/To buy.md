@@ -9,6 +9,7 @@
 
 # Lebensmittel 
 - [ ] scharfer Senf 
+- [ ] Knoblauch 
 
 # Technik
 - [x] Logitech Z207
