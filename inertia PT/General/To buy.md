@@ -9,11 +9,11 @@
 
 # Lebensmittel 
 - [ ] scharfer Senf 
-- [ ] Knoblauch 
-- [ ] gehackte Tomaten mit Kräuter 
-- [ ] Toast 
+- [x] Knoblauch 
+- [x] gehackte Tomaten mit Kräuter 
+- [x] Toast 
 - [ ] Krautsalat 
-- [ ] nussmix
+- [x] nussmix
 
 # Technik
 - [x] Logitech Z207
