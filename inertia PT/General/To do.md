@@ -239,6 +239,10 @@
 - [ ] the dream and the waking
 	- [ ] lead vom Anfang auf 90% perfekt ⟹100%
 	- [ ] main melody + text sync
+	- [ ] Übergang main Melodie ⟹verse Melodie 
+	- [ ] text sync Chorus vor zweiter main Melodie 
+	- [ ] Übergang main Melodie ⟹"tremolo" picking (auf 100%)
+	- [ ] Stakkato 
 - [ ] mir die neuen Chor Stücke anschauen 
 - [ ] awakening:
 	- [ ] Teil bis zur Melodie lernen
