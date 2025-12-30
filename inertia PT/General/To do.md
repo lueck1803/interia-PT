@@ -1,7 +1,8 @@
 # unsortiert
 - [ ] rotkohl verarbeiten
 - [ ] tesaabroller schärfen
-- [x] Brokkoli verarbeiten
+- [ ] Waffenbrüder Gitarre und Text
+- [ ] fresh fur lead Gitarre 
 - [ ] Shortcut obsidian unter windows und anderen für toggl checkbox/bullet list
 - [ ] wintersun sadness and hate
 - [x] Ist geld vom november auf dem konto?
@@ -232,6 +233,12 @@
 - [x] carnivoren umsetzen 
 ## Musik
 - [ ] soon departed auf +70% spielen 
+- [ ] Waffenbrüder Gitarre und Text
+	- [ ] Text stimme richtig üben
+- [ ] fresh fur lead Gitarre
+- [ ] the dream and the waking
+	- [ ] lead vom Anfang auf 90% perfekt ⟹100%
+	- [ ] main melody + text sync
 - [ ] mir die neuen Chor Stücke anschauen 
 - [ ] awakening:
 	- [ ] Teil bis zur Melodie lernen
