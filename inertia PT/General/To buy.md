@@ -11,6 +11,8 @@
 - [ ] scharfer Senf 
 - [ ] Knoblauch 
 - [ ] gehackte Tomaten mit Kräuter 
+- [ ] Toast 
+- [ ] Krautsalat 
 
 # Technik
 - [x] Logitech Z207
