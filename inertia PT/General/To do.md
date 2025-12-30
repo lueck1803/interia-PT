@@ -126,6 +126,37 @@
 - [x] Notizen zu *why you can't finish simple tasks* machen
 - [x] Notizen zur Kommunikation Friedemann schulz von Thun 
 # Arbeit
+## Frisör Queueing System 
+Ein queueing system für den Frisör
+Scannst du qr Code
+Dann bist du der nächste in der Reihenfolge.
+
+Musst halt noch angeben was du möchtest. 
+
+Augenbrauen etc.
+Und dann kannst du halt auch wieder gehen wenn viel los ist. 
+
+Es wird dir ungefähr die Zeit angezeigt bis du dran bist.
+Und je nachdem was du brauchst musst du eben länger warten. 
+
+Eventuell kannst du noch den jeweiligen Frisör buchen.
+
+Also angeben ob du gerne einen bestimmten hättest.
+Macht man halt ein Abo Modell und das wird durch den Frisör bezahlt.
+
+Nicht viel 1-2€ pro Mitarbeiter pro Monat.
+Dadurch steigert sich halt die Kundenzufriedenheit immens.
+
+Da es kein Gerangel gibt "wer war zu erst" oder "oh jetzt habe ich so lange gewartet und komme trotzdem nicht dran" oder "oh mir wurde gesagt sie können nachher nochmal kommen und dann ist man aber aus der queue draußen"
+So was geht auch für Nagelstudios oder massage Salons.
+
+Die halt keine Termine machen
+- [ ] Programmiersprache?
+	- [ ] java
+	- [ ] python 
+- [ ] android studio 
+- [ ] 
+## DATAPROTECT 
 - [ ] <span style="font-size:100%;color:red">mich gut in Coreview einarbeiten, da ich ab nächsten jahr mehr mit coreview zusammenarbeiten werde</span>
 - [ ] bräuchten Soft fail bei den workflows
 - [ ] if closes in den Workflows anschauen
