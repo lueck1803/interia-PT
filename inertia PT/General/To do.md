@@ -12,20 +12,18 @@
 	- [x] Gehaltsabrechnung checken und fragen was mit September ist
 	- [x] Gehalt von November ist noch nicht da 25-12-21
 		- 25-12-22 geld da
-- [ ] checken wann das Essen mit Benno ist
 - [ ] to do aufräumen 
-- [ ] bot. Garten Schriften lesen 
 - [ ] Kühlschrank putzen und abtauen
 - [ ] Zeug vor dem Bad wegräumen 
 - [ ] Tisch aufräumen
-- [ ] ride on spirit ⟹ solo üben
-	- [x] mal damit angefangen 
 - [ ] to do aufräumen
 - [ ] welcher Pfannenglasdeckel ist Ofenfest?
 - [ ] Bad 
 	- [x] saugen
 	- [x] wischen
 - [ ] Keyboard von hinten holen 
+- [x] bot. Garten Schriften lesen 
+- [x] checken wann das Essen mit Benno ist
 
 # tägliches
 ## Wohnbereich 
@@ -246,6 +244,8 @@
 	- [ ] Übergang main Melodie ⟹"tremolo" picking (auf 100%)
 	- [ ] Stakkato 
 - [ ] soon departed auf +70% spielen 
+- [ ] ride on spirit ⟹ solo üben
+	- [x] mal damit angefangen 
 - [ ] awakening:
 	- [ ] Teil bis zur Melodie lernen
 	- [ ] Alles bis dahin auf 60% perfektionieren und dann auf 70% hoch 
