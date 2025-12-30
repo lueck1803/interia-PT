@@ -155,7 +155,26 @@ Die halt keine Termine machen
 	- [ ] java
 	- [ ] python 
 - [ ] android studio 
-- [ ] 
+
+Kotlin und Java für Android, Swift für iOS, während Frameworks wie Flutter (Dart) und React Native (JavaScript/TypeScript) Apps für beide Plattformen mit einer einzigen Codebasis ermöglichen. 
+Native Entwicklung (Spezifisch für eine Plattform)
+Android:
+Kotlin: Googles bevorzugte, moderne Sprache für Android, prägnanter und sicherer als Java.
+Java: Etabliert, vielseitig und stabil; eine solide Basis für viele Android-Apps.
+iOS (Apple):
+Swift: Apples moderne, leistungsstarke und sichere Sprache für alle Apple-Plattformen.
+Objective-C: Der ältere Vorgänger von Swift, wird aber noch in älteren Projekten verwendet. 
+Plattformübergreifende Entwicklung (Cross-Platform)
+Flutter (Dart): Entwickelt von Google, ermöglicht schnelles Erstellen von Apps für Android, iOS, Web und Desktop mit einer einzigen Codebasis und bietet native Performance.
+React Native (JavaScript/TypeScript): Ermöglicht die Entwicklung nativer Apps mit Webtechnologien.
+C#/.NET (Xamarin): Ermöglicht die Entwicklung von Apps für verschiedene Betriebssysteme. 
+Weitere Sprachen
+Python: Einfach zu erlernen, ideal für schnelle Prototypen und einfache Apps (z.B. mit Kivy).
+C++: Wird oft für performancekritische Teile, Spiele oder wenn native Performance über Plattformen hinweg benötigt wird, eingesetzt. 
+Entscheidungshilfe:
+Für große Reichweite (Android): Beginne mit Kotlin.
+Für Apple-Nutzer: Swift ist der Standard.
+Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (JavaScript) sind gute Optionen. 
 ## DATAPROTECT 
 - [ ] <span style="font-size:100%;color:red">mich gut in Coreview einarbeiten, da ich ab nächsten jahr mehr mit coreview zusammenarbeiten werde</span>
 - [ ] bräuchten Soft fail bei den workflows
