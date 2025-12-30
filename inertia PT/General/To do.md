@@ -222,6 +222,13 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 	- hat mit scan Gear viel besser geklappt als mit pdftk
 # wenn ich lust und zeit habe
 - [ ] Fenster putzen 
+- Carcassonne 
+	- [ ] Eclipse Updaten
+	- [ ] java updaten
+	- [ ] funktioniert das Spiel noch? Testen 
+	- [ ] klassenaufbau verstehen 
+	- [ ] peer to peer host system 
+	- [ ] karten erweitern 
 - [ ] Schreibtischauflage
 - [ ] Akustikgitarre Saiten wechseln
 - [x] Sparkassen App+push tan
