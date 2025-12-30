@@ -93,9 +93,6 @@
 	- [x] Kopfkissen und Bettdecke 
 	- [x] Spannbettlaken 
 - [x] neuen Schlafanzug 
-- [x] Schlafanzughose flicken
-- [x] Jack Wolfskin Schuhe Schnürsenkel reparieren
-- [x] graue hose Knopf reparieren 
 ## sonstiges
 - [x] Kartons wegräumen 
 - [x] wann ist der Vortrag im hessischen Landesmuseum 
@@ -213,6 +210,9 @@
 	- [ ] erste test nähte
 - [ ] Monblume weiter malen
 - [ ] Becorns basteln
+- [x]  Schlafanzughose flicken
+- [x] Jack Wolfskin Schuhe Schnürsenkel reparieren
+- [x] graue hose Knopf reparieren 
 # Pflanzen 
 - [x] kiwi aussäen 
 	- [ ] pikieren 

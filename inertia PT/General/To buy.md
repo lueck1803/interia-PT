@@ -16,21 +16,23 @@
 - [x] nussmix
 
 # Technik
-- [x] Logitech Z207
+- [ ] 2m USB-C Kabel
 - [ ] Grafikkarte 
 - [ ] CPU 
 - [ ] thunderbolt extension card
 - [ ] 2x32gb Arbeitsspeicher 
+- [x] Logitech Z207
 - [x] Canon Pixma TS9550a + auffülbare Patronen 
 - [x] Drucker https://www.voelkner.de/checkout/step2.html
 	- Gutscheincode: TV9XS6Q3ZF
-- [ ] 2m USB-C Kabel
 # Werkzeug 
 - [ ] Schlagbohrmaschine 
 	- [x] vielleicht tut es der Schlagakkuschrauber vom Aldi
 	- ⟹ momentan nicht kaufen, unnötig
 
 # Haushalt
+- [ ] Mikrowellen geeignete Schüssel 
+- [ ] braune tasse innen blau (tedi/buttlers)
 - [ ] Nach Gorenje WA 7439 schauen
 - [x] Glasdose (für Kichererbsen tofu)
 	- ⟹brauche ich nicht, ich nehme die Brotform 
