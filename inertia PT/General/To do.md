@@ -232,7 +232,7 @@
 	- [ ] Bananenschalen (bio) wasser 24h einweichen 
 - [x] carnivoren umsetzen 
 ## Musik
-- [ ] soon departed auf +70% spielen 
+- [ ] Gitarre putzen 
 - [ ] Waffenbrüder Gitarre und Text
 	- [ ] Text stimme richtig üben
 - [ ] fresh fur lead Gitarre
@@ -243,12 +243,13 @@
 	- [ ] text sync Chorus vor zweiter main Melodie 
 	- [ ] Übergang main Melodie ⟹"tremolo" picking (auf 100%)
 	- [ ] Stakkato 
-- [ ] mir die neuen Chor Stücke anschauen 
+- [ ] soon departed auf +70% spielen 
 - [ ] awakening:
 	- [ ] Teil bis zur Melodie lernen
 	- [ ] Alles bis dahin auf 60% perfektionieren und dann auf 70% hoch 
 	- [ ] pull off hammer on tabbing solo anschauen <span style="color:red;font-size:100%;">Transition</span> + <span style="color:red;font-size:100%;">Solo A</span>
 	- [ ] melodie solo anfang <span style="color:red;font-size:100%;">Solo B</span>
+- [ ] mir die neuen Chor Stücke anschauen 
 - [x] neue Boxen auf Sofa neben Router 
 - [x] pod go neben sofa stellen und dort an den strom anschließen 
 ## Lesen und Hören
