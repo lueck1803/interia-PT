@@ -12,7 +12,7 @@
 - [x] Knoblauch 
 - [x] gehackte Tomaten mit Kräuter 
 - [x] Toast 
-- [ ] Krautsalat 
+- [x] Krautsalat 
 - [x] nussmix
 
 # Technik
