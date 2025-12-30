@@ -1,6 +1,7 @@
 # unsortiert
 - [ ] rotkohl verarbeiten
 - [ ] tesaabroller schärfen
+- [ ] Aldi Tasche reparieren 
 - [ ] Waffenbrüder Gitarre und Text
 - [ ] fresh fur lead Gitarre 
 - [ ] Shortcut obsidian unter windows und anderen für toggl checkbox/bullet list
@@ -93,8 +94,8 @@
 	- [x] Spannbettlaken 
 - [x] neuen Schlafanzug 
 - [x] Schlafanzughose flicken
-- [ ] Jack Wolfskin Schuhe Schnürsenkel reparieren
-- [ ] graue hose Knopf reparieren 
+- [x] Jack Wolfskin Schuhe Schnürsenkel reparieren
+- [x] graue hose Knopf reparieren 
 ## sonstiges
 - [x] Kartons wegräumen 
 - [x] wann ist der Vortrag im hessischen Landesmuseum 
@@ -168,7 +169,7 @@
 	- gebe den Drucker Bilge 
 - [x] alten Drucker abbauen 
 - [x] neuen Drucker aufbauen 
-
+ 
 # Ahl
 - [ ] Maronen in den Wald setzen
 - [x] Holz holen
@@ -202,8 +203,8 @@
 - [x] Klarspüler clip zurecht schneiden/schleifen 
 	- hat ganz gut geklappt mit der kleinen Akkuflex 
 
-# was schönes
-## Malen und Basteln
+# Nähen, Malen, Basteln und Reparieren 
+- [ ]  Aldi Tasche reparieren
 - [x] Näh und Bastelecke einrichten 
 	- <span style="font-size:100%;color:red;">yeahy</span> 🥳🎉
 - [ ] Nähmaschine ersteinrichtung
@@ -212,7 +213,7 @@
 	- [ ] erste test nähte
 - [ ] Monblume weiter malen
 - [ ] Becorns basteln
-## Pflanzen 
+# Pflanzen 
 - [x] kiwi aussäen 
 	- [ ] pikieren 
 - [x] maracuja aussäen 
@@ -231,11 +232,12 @@
 	- [ ] 5 tropfen Apfelessig in auf eine halbe Tasse Wasser ⟹ nur dippen 
 	- [ ] Bananenschalen (bio) wasser 24h einweichen 
 - [x] carnivoren umsetzen 
-## Musik
+# Musik
 - [ ] Gitarre putzen 
 - [ ] Waffenbrüder Gitarre und Text
 	- [ ] Text stimme richtig üben
 - [ ] fresh fur lead Gitarre
+	- [ ] Anfang 
 - [ ] the dream and the waking
 	- [ ] lead vom Anfang auf 90% perfekt ⟹100%
 	- [ ] main melody + text sync
@@ -252,9 +254,9 @@
 - [ ] mir die neuen Chor Stücke anschauen 
 - [x] neue Boxen auf Sofa neben Router 
 - [x] pod go neben sofa stellen und dort an den strom anschließen 
-## Lesen und Hören
+# Lesen und Hören
 - [ ] Universum in einem einzigen Atom 
-## Filme, Serien und Dokus
+# Filme, Serien und Dokus
 - [x] <span style="color:gold">ghostbusters runterladen</span>
 - [x] <span style="color:coral">paartherapie S3 runterladen</span>
 
