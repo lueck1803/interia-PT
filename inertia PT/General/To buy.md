@@ -13,6 +13,7 @@
 - [ ] gehackte Tomaten mit Kräuter 
 - [ ] Toast 
 - [ ] Krautsalat 
+- [ ] nussmix
 
 # Technik
 - [x] Logitech Z207
