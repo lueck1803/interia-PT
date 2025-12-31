@@ -553,6 +553,14 @@ R12  R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R1
 
 ## new try / Nadine
 
+### Maschenaufnahme
+- [x] 12 M pro seite erste Socke 
+- [x] 12 M pro seite zweite Socke
+### erste Runde
+- [x] beide Socken erste Reihe Rechts
+- [x] beide Socken zweite Reihe Rechts verschränkt .
+### Zunahme
+Z12 R
 
 
 
