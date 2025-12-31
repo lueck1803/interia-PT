@@ -202,7 +202,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] Outlook task planner zeug eintragen was mir Mischa aufgetragen und nicht selbst schon eingetragen hat 
 - [ ] 
 # Papierkram
-- [ ] AOK KK Karte und Zeug einheften
+- [x] AOK KK Karte und Zeug einheften
 - [x] Patientenakte abholen/besorgen
 - [x] wbs legal einheften
 - [x] Bauverein einheften 
