@@ -36,13 +36,13 @@
 - [ ] Boden saugen
 - [ ] Boden wischen 
 ## Schlafbereich 
-- [ ] Bettwäsche wechseln 
+- [x] Bettwäsche wechseln 
 - [x] Boden saugen 
 - [x] Klamottenfach aufräumen 
 
 ## Küche
 - [ ] Ingwer schälen und portioniert einfrieren
-- [ ] cambert Tomaten Essen machen 
+- [ ] Camembert Tomaten Essen machen 
 - Arbeitsplatte
 	- [x] saugen
 	- [x] wischen 
