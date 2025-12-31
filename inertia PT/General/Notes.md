@@ -1,6 +1,6 @@
 
 # Nachrichten an Leute
-## 25-12-26 Anna-Sophia 
+## 25-12-26 Anna-Sophia
 Ich musste meinen Wert kennen lernen und lernen Grenzen aufzuzeigen. Dass ich Jahre lang zu viel mit gemacht habe. 
 Ich hatte viele Barrieren in mir zu überwinden, um wieder zu heilen. Zu merken dass ich mir viel zu lange meine Deutungshoheit über mich, meine Taten und Identität habe nehmen lassen.
 Wie es sein konnte dass ich jedesmal nach einem ihrer Phasen an meiner Integrität und meinen guten Absichten gezweifelt hatte.
@@ -29,7 +29,7 @@ Ich habe mir immer Kinder mit ihr gewünscht, aber dafür hätte sie diese Phase
 1. Schlechter Einfluss 
 2. Kann man denen einfach nicht vertrauen, wie die Vergangenheit gezeigt hat. Ich hätte nicht gewollt dass die einfach in einem unbeobachteten Moment die Haare vom Kind abrasiern, weil die aus dem Mutterleib kommen und unrein sind. Arooj hat immer gesagt ja auf keinen Fall, aber dann hat sich das Gift ihrer Familie doch immer wieder eingeschlichen und sie hat Aussagen übernommen und wurde weich geklopft. Geht nicht...
 
-## Nachricht an Nadine 
+## Nachricht an Nadine
 Also die Frage ist doch obsolet. Insbesondere in dieser verhaltenen Art. Du kennst mich doch mittlerweile hoffentlich gut genug. 😁🫣😅😶‍🌫️🫂
 Selbstverständlich werde ich dich nach meinem Vermögen beraten und das ist selbstverständlich immer ehrlich, denn sonst ist das ja sinnlos.🤷
 Ich kann gar nicht anders. 😁
@@ -78,7 +78,7 @@ Tage produktiv gewesen:
 - Alle Bilddateien (pdf, jpg), mit der passenden Dateiendung (\*.ext) werden in ein Dokument zusammengefügt.
   `{bash} pdftk *.ext cat output Dokument_Name.pdf`
 - <span style="font-size:100%;color: orange;">Scanner Software unter Linux</span> ⟹Scan Gear <br>PdfTK unnötig, da hier bereits Shuffle Funktion integriert ist 
-# Signal 
+# Signal
 - Video sending problem:
   ![](Pasted%20image%2020251221172346.png)
 
@@ -112,7 +112,7 @@ When changes are made simultaneously on both remote and local branches, or when 
 
 Git pull is a command that performs more processes compared to git fetch. Git pull can perform both git fetch and additionally execute git merge or git rebase. For this reason, git pull is recommended when you want to quickly reflect changes from the remote repository in the local branch.
 
-# YouTube 
+# YouTube
 Wenn man bei der YouTube app ein Video ab einem Zeitpunkt verlinken möchte 
 `youtubelinkt`+`?t=MMmSSs`⟹`youtubelink`+`?t=17m18s` ⟹ https://youtu.be/Yz9Bj9kEtKc?si=umUGQ2rElxZL_YgD?t=17m18s
 Mann muss die Zeit wohl in Sekunden umrechnen 🤷 und ohne Angabe der Zeiteinheit.
@@ -200,7 +200,7 @@ Wechsel von heylogin zu keypass als Standard autofill
 > [!Navigate]
 > Keepass ⟹three dots ⟹settings⟹app settings ⟹password entry access ⟹autofill service ⟹autofill service enable
 
-# Nachricht an Maria 
+# Nachricht an Maria
 Meditation ist diese Woche eher hinten runter gefallen.
 Ich hab für meine Verhältnisse sehr viel gearbeitet.
 
@@ -288,7 +288,7 @@ Es sind nicht meine.
 
 LG Lukas
 
-# Kontaktaufnahme mit Arooj 
+# Kontaktaufnahme mit Arooj
 
 Ich hab auch jetzt endgültig beschlossen irgendwie Kontakt mit Arooj aufzunehmen.
 
@@ -503,13 +503,13 @@ Das passt nicht so in die ICD X Schubladen, nach denen man lernt zu diagnostizie
 
 Ich verstehe ihre Zurückhaltung aus ihrer Erfahrung zu 100%.
 
-# Kinder Namen 
-## Mädchen 
+# Kinder Namen
+## Mädchen
 - Alva
 - Maja 
 
-# Nähmaschine 
-## Einfädelhilfe 
+# Nähmaschine
+## Einfädelhilfe
 1. Nähfuß (Presser foot) nach oben
 2. Nadel in oberste Position bringen
 3. Der Hebel der den Faden nach oben führt, sollte klar zu sehen sein. 
@@ -522,7 +522,7 @@ Ich verstehe ihre Zurückhaltung aus ihrer Erfahrung zu 100%.
    <span style="font-size:100%;color:red;">Vorsicht</span> keine Gewalt, falls es hakt, lieber nochmal schauen, ob die Nadel in der höchsten Position ist
 7. Dann den Faden mit etwas Zug nach hinten in den Greifer einführen
 8. Den Hebel der Einfädelhilfe loslassen.
-## Spulengehäuse und Greifer wieder einsetzen 
+## Spulengehäuse und Greifer wieder einsetzen
 <span style="font-size:100%;color:red;">Vorsicht Ölig</span> ⟹ Tuch und Pappunterlage bereit halten 
 1. Nadel in höchste Position, so dass die Schiene des Greifertreibers wie ein sichfüllender Halbmond steht.
 2. Dann den Greifer mit der Spitze nach unten auf der gegenüberliegenden Seite der Schiene aus 1. einsetzen 
@@ -530,26 +530,29 @@ Ich verstehe ihre Zurückhaltung aus ihrer Erfahrung zu 100%.
 4. Den Greiferbahndeckel festhalten und die linke, dann die rechte Deckelhalterung einrasten.
 5. Die Unterfadenkapsel einsetzen 
 
-# Socken 
+# Socken
 Nehme 2 mal 12 M auf jeder Nadel pro Socke/Garnrolle auf:
 https://www.youtube.com/watch?v=-ElLBXAooWY&t=404s
 
 ## frist try/freddie¿
 ⟹zu viele maschen aufgenommen 35 auf beiden Socken 
-## Maschenaufnahme 
+### Maschenaufnahme
 - [x] 12 M pro seite erste Socke 
 - [x] 12 M pro seite zweite Socke
-## erste Runde 
+### erste Runde
 - [x] beide Socken erste Reihe Rechts
 - [x] beide Socken zweite Reihe Rechts verschränkt .
-## Zunahme
+### Zunahme
 Zunahme nach der 1. Und vor der letzten Masche auf jeder Nadel, aus dem Querfaden.
 Dann eine Runde rechts. 
 
 Z12  R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12
 
-## Reihen nach Spickel 49 ~ 12,25 cm
+### Reihen nach Spickel 49 ~ 12,25 cm
 R12  R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R1
+
+## new try / Nadine
+
 
 
 
