@@ -1,11 +1,11 @@
 # unsortiert
 - [ ] rotkohl verarbeiten
-- [ ] bett beziehen 
-- [ ] Lotos in Teich 
+- [x] bett beziehen 
+- [x] Lotos in Teich 
 - [ ] ingwer schälen und einfrieren 
-- [ ] Fahrrad Lampe Fest schrauben 
+- [x] Fahrrad Lampe Fest schrauben 
 - [ ] tesaabroller schärfen
-- [ ] Aldi Tasche reparieren 
+- [x] Aldi Tasche reparieren 
 - [ ] Waffenbrüder Gitarre und Text
 - [ ] fresh fur lead Gitarre 
 - [ ] Shortcut obsidian unter windows und anderen für toggl checkbox/bullet list
