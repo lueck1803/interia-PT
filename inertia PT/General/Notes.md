@@ -560,7 +560,7 @@ R12  R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R1
 - [x] beide Socken erste Reihe Rechts
 - [x] beide Socken zweite Reihe Rechts verschränkt .
 ### Zunahme
-Z12 R12 Z12 R12 Z1
+Z12 R12 Z12 R12 Z12 R1
 
 
 
