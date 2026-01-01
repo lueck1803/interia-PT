@@ -1,5 +1,6 @@
 # unsortiert
 - [ ] rotkohl verarbeiten
+- [ ] über Schlafmaske nähen 
 - [x] bett beziehen 
 - [x] Lotos in Teich 
 - [ ] ingwer schälen und einfrieren 
@@ -277,6 +278,10 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] kiwi aussäen 
 	- [ ] pikieren 
 - [x] maracuja aussäen 
+- [ ] Löcher in Thunfischdosen bohren und einpflanzen:
+	- [ ] kiwi
+	- [ ] Apfelpflanzen 
+	- [ ] maracuja Pflanzen 
 - [ ] apfel Keimlinge umsetzen 
 - [ ] habanero Pflanze säen
 - [x] loch für Bioabfall neben Oregano graben
