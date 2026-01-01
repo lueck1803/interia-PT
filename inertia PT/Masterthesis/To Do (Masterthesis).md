@@ -100,7 +100,7 @@
 		- [ ] 0.07
 - [x]  <span style="font-size:120%;color:orange">write down the scaling formula for the order parameter</span>
 	- <span style="font-size:120%;color:orange">determine $\beta$</span>
-- [ ] git checkout to the ***last*** **phase-peak-pit-height-tune-algo**
+- [x] git checkout to the ***last*** **phase-peak-pit-height-tune-algo**
 - [ ] compare the box placement for stdDev and halfstdDev
 - [ ] evaluate binder for 28k particles with halfstddev and compare the plot with stdDev
 	
@@ -116,7 +116,7 @@
 - [x] need to branch it...
 - did a combination of height and width mul variation in combination with an alternation in varying this value. Also increased the reduction of the width to get less loop breaks / faster results
 - changed bins from 500 ⟹ 600 ⟹ $\text{nbins} = \text{boxwidth} \cdot 0.5$ (so it depends on the system size)
-- atm the pit/peak height isn't altered (at least it has no direct effect) for overlapping boxes only if there are no dense/dilute boxes in 
+- atm the pit/peak height isn't altered (at least it has no direct effect) for overlapping boxes only if there are no dense/dilute boxes left, since the pit/peak height was altered but the density distribution is not reevaluated
 - [ ] the best result for placing the squares would be to average only over the peaks in the standard deviation range of the highest peak (part of the other branch)
 ## Evaluate
 - [x] reeval at 224k seed 05000 m 0.067
