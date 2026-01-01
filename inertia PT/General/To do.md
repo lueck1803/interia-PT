@@ -1,6 +1,6 @@
 # unsortiert
 - [ ] rotkohl verarbeiten
-- [ ] über Schlafmaske nähen 
+- [x] über Schlafmaske nähen 
 - [x] bett beziehen 
 - [x] Lotos in Teich 
 - [ ] ingwer schälen und einfrieren 
@@ -262,7 +262,8 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 	- hat ganz gut geklappt mit der kleinen Akkuflex 
 
 # Nähen, Malen, Basteln und Reparieren 
-- [ ]  Aldi Tasche reparieren
+- [x]  Aldi Tasche reparieren
+- [ ] 
 - [x] Näh und Bastelecke einrichten 
 	- <span style="font-size:100%;color:red;">yeahy</span> 🥳🎉
 - [ ] Nähmaschine ersteinrichtung
