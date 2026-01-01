@@ -1,6 +1,8 @@
 
 # Tägliches Mantra
 - <span style="font-size:100%;color:red;">ich kämpfe jetzt erst Recht und lass mich nicht mehr runter ziehen. Ich will kämpfen und jetzt erst Recht um meinem Vater, meiner Schwester und der verräterischen, vertrauensunwürdigen und untreuen Arooj zu zeigen. Ich kann was, ich bin nicht schwach!</span>
+- Arooj, mein Vater und meine Schwester haben mich genug schlecht gemacht 
+- Benno hat lange genug in mich vertraut. Ich will liefern!
 - <span style="font-size:150%;color:DodgerBlue;">Lao Tzu</span> - <span style="font-size:200%;color:lawngreen;">The Art of not Trying</span>
 	- Gehe mit der Entropie
 - Dienst <u>an</u> der <span style="font-size:100%;color:red;">Sache</span>
