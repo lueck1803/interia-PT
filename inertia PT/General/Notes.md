@@ -530,6 +530,24 @@ Ich verstehe ihre Zurückhaltung aus ihrer Erfahrung zu 100%.
 4. Den Greiferbahndeckel festhalten und die linke, dann die rechte Deckelhalterung einrasten.
 5. Die Unterfadenkapsel einsetzen 
 
+## needle stuck
+If your Singer Simple 3232 needle is stuck, it's usually due to a thread jam, incorrect bobbin/threading, bent needle, or buttonhole lever setting; check for lint, remove threads from the bobbin area, ensure bobbin is loaded correctly, and if the needle won't move, try lifting the presser foot and gently turning the handwheel towards you to free it, and then inspect the needle for bends. 
+### Quick Fixes (If the machine still moves slightly)
+1. <u>Buttonhole Lever:</u> Make sure the small lever next to the needle is fully up; lower it only when making buttonholes.
+2. <u>Presser Foot:</u> Lift the presser foot to relieve tension and move fabric gently.
+3. <u>Handwheel:</u> Turn the handwheel towards you (counter-clockwise) to raise the needle and dislodge jams.
+4. <u>Reverse Button:</u> Press the reverse button a couple of times to reset the machine's functions. 
+### For a Full Jam (Needle completely stuck) 
+1. <u>Lift Presser Foot: </u>Lift it up to create slack.
+2. <u>Remove Fabric:</u> Gently wiggle and pull fabric out, clipping threads if needed with small scissors.
+3. <u>Clear Underneath:</u> Remove the needle plate and bobbin case; use tweezers to pull out any tangled threads from the bobbin area and feed dogs.
+4. <u>Inspect Needle:</u> Check if the needle is bent, dull, or broken; a bent needle often causes jams and needs replacing.
+5. <u>Re-thread & Re-install:</u> Re-thread the machine carefully, ensuring the bobbin thread goes through its tension spring correctly. 
+### Prevention Tips
+1. <u>Long Thread Tails:</u> Leave about 6 inches of thread above the needle and bobbin when starting to prevent threads from getting sucked into the bobbin case.
+2. <u>Gentle Thread Cutting: </u>Pull fabric gently with both hands to cut threads, not just by tugging the thread from the needle hole, to avoid bending the needle.
+3. <u>Clean Regularly: </u>Remove lint and dust from the bobbin area and feed dogs often. 
+
 # Socken
 Nehme 2 mal 12 M auf jeder Nadel pro Socke/Garnrolle auf:
 https://www.youtube.com/watch?v=-ElLBXAooWY&t=404s
