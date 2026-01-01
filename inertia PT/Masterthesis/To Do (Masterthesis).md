@@ -115,7 +115,7 @@
 - [x] did a new strange branch... from phase-peak tune...
 - [x] need to branch it...
 - did a combination of height and width mul variation in combination with an alternation in varying this value. Also increased the reduction of the width to get less loop breaks / faster results
-- changed bins from 500 ⟹ 600
+- changed bins from 500 ⟹ 600 ⟹ $nbins = \text{boxwidth} \cdot 0.5$ 
 - [ ] the best result for placing the squares would be to average only over the peaks in the standard deviation range of the highest peak (part of the other branch)
 ## Evaluate
 - [x] reeval at 224k seed 05000 m 0.067
