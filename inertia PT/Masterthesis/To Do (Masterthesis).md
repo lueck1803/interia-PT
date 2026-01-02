@@ -1,6 +1,7 @@
 # unsorted tasks
 - [ ] Quellen für Folien
-- [ ] Exponenten neu auswerten -> neu abspeichern
+- [ ] Exponenten neu auswerten -> neu/getrennt abspeichern 
+- [ ] Gescheiten Titel für die Thesis
 - [x] algo changes function and performance test
       ⟹little bugs: Naming of `peakPits` was wrong and the parameter `mainbox` was missing
       ⟹<span style="font-size:100%;color:red;">time reduction by almost a half</span>
