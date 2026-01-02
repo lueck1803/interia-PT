@@ -227,7 +227,15 @@ mit den anderen Nadeln vergleichen Öse und Länge der Nadel ⟹ eventuell Läng
 <span style="font-size:130%;color:red;">⟹</span>  lenke dich nicht ab und mache die Dinge die du eigentlich tun sollst/willst 
 
 Ich bin wertvoll und habe ja trotzdem etwas sinnvolles gemacht.
+Außerdem wusste ich es ja vorher, ich habe das absehen können. Ich hätte mich nur stoppen müssen. 
+Und das hätte ich mit Achtsamkeit hinbekommen.🤷
+Ich habe also die Fähigkeit etwas zu ändern und die Kontrolle über mich. 
+Im Gegensatz dazu was ich in diesen Momenten immer gefühlt und daher auch gedacht habe. 
 
+Außerdem habe ich daraus wieder etwas gelernt. Über mich, da ich dieses Gefühl seit langem nicht mehr hatte und ich konnte daran wachsen.🥳❤️
+
+Darüber hinaus habe ich es geschafft die singer nadel die dabei war wieder zurichten und dann mit dem Feuerzeug zu härten.
+Und es hat geklappt 🎆🥳❤️
 # Schlaf
 - kann ich <span style="color:red">mittlerweile</span> ganz <u>gut</u> ⟹ <span style="font-size:150%;color:red;">Naja</span> sei ehrlich! da hast du noch viel Arbeit vor dir
 
