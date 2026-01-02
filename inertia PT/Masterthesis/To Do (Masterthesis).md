@@ -7,6 +7,8 @@
       ⟹ Aber das konsequent zu ändern 😵‍💫
 - [ ] Binder cumulant plots bzw überhaupt die x Achsenbeschriftung ... m ist ja falsch. das muss ja $M=\frac{\tau_{M}}{\tau_{R}}$ sein
 - [ ] Feng2025 - Critical Motility-Induced Phase Separation in Three Dimensions is Consistent with Ising Universality
+- [ ] Schreibe den Order paramter absofort als:
+      $\mathcal{O}\equiv \left< \rho_{dense} \right>_{L} \left<  \right>$
 
 # old unsorted tasks
 - [x] algo changes function and performance test
