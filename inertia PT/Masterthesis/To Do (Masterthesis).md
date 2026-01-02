@@ -203,7 +203,7 @@ Find the B-spline representation of a 1-D curve.
 - [ ] apply the optimization⟹decide by the optimization error which box size to choose
 - [x] evaluate the derivative of the binder cumulant
 ## order parameter
-- [x] determine order parameter $\rho_\text{dense}-\rho_\text{dilute}$ ==Feng2025==
+- [x] determine order parameter $\Braket{\rho_\text{dense}}_{L}-\Braket{\rho_\text{dilute}}_{L}$ ==Feng2025==
       ![[Pasted image 20251103233523.png]]
 - [ ] plot it
 - [ ] write down the scaling function for the orderparameter
