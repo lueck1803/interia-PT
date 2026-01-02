@@ -27,6 +27,7 @@
 - [x] Drucker https://www.voelkner.de/checkout/step2.html
 	- Gutscheincode: TV9XS6Q3ZF
 # Werkzeug 
+- [ ] unbedingt handelektrodremel
 - [ ] Schlagbohrmaschine 
 	- [x] vielleicht tut es der Schlagakkuschrauber vom Aldi
 	- ⟹ momentan nicht kaufen, unnötig
