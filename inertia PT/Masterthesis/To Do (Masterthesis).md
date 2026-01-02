@@ -5,7 +5,7 @@
 - [ ] Thesis aufräumen/ neu erstellen
 - [ ] Die Benennung "max" und "half" stört mich immer noch...
       ⟹ Aber das konsequent zu ändern 😵‍💫
-- [ ] Binder cumulant plots bzw überhaupt die x Achsenbeschriftung ... m ist ja falsch. das muss ja $M=$
+- [ ] Binder cumulant plots bzw überhaupt die x Achsenbeschriftung ... m ist ja falsch. das muss ja $M=\frac{\tau_{M}}{\tau_{R}}$
 # old unsorted tasks
 - [x] algo changes function and performance test
       ⟹little bugs: Naming of `peakPits` was wrong and the parameter `mainbox` was missing
