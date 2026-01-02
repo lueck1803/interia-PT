@@ -53,6 +53,7 @@
 - [ ] Quarzsand 
 
 # Nähen
+- [ ] Universal Nähmaschinennadeln
 - [x] Schneidermatte 
 - [x] Schneiderkreide
 - [x] Bügelvlies
