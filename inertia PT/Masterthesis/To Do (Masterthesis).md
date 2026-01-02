@@ -5,8 +5,9 @@
 - [ ] Thesis aufräumen/ neu erstellen
 - [ ] Die Benennung "max" und "half" stört mich immer noch...
       ⟹ Aber das konsequent zu ändern 😵‍💫
-	- [ ] $▢_{max}$ $-sqaur$
+	- [ ] $▢_{max}$ $\square_{max}$ 
 	- [ ]  $▢_{half}$ $\square_{half}$ 
+	- [ ] passe abgespeicherten dateinamen an für die plots, muss extra parameter werden
 - [ ] Binder cumulant plots bzw überhaupt die x Achsenbeschriftung ... m ist ja falsch. das muss ja $M=\frac{\tau_{M}}{\tau_{R}}$ sein
 - [ ] Feng2025 - Critical Motility-Induced Phase Separation in Three Dimensions is Consistent with Ising Universality
 - [ ] Schreibe den Order paramter absofort als:
