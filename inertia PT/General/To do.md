@@ -265,6 +265,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x]  Aldi Tasche reparieren
 - [ ] das Problem mit der 90iger Universal Nadel raus finden.
 	- mit den anderen Nadeln vergleichen Öse und Länge der Nadel ⟹ eventuell Länge abschleifen 
+	- ist die Nadel zentriert?
 - [x] Schlafmaske reparieren 
 - [x] Näh und Bastelecke einrichten 
 	- <span style="font-size:100%;color:red;">yeahy</span> 🥳🎉
