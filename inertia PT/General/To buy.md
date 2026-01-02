@@ -1,6 +1,7 @@
 
 # non food
 - [ ] kleinen Schneebesen 
+- [ ] Mehrfachsteckdose für nähtisch
 - [ ] Papierklammern 
 - [x] Gärkorb
       ⟹<span style="font-size:100%;color:gold;">ne unwichtig</span> <span style="font-size:100%;color:red;">Ablenkung</span>
