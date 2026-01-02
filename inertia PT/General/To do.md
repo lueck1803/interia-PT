@@ -1,6 +1,6 @@
 # unsortiert
 - [ ] rotkohl verarbeiten
-- [ ] 
+- [ ] zip tight knoten lernen 
 - [x] über Schlafmaske nähen 
 - [x] bett beziehen 
 - [x] Lotos in Teich 
