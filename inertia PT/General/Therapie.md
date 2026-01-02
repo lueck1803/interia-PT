@@ -220,6 +220,13 @@ Der <span style="color:red;font-size:100%;">andere möchte</span> einen nicht nu
 - Ich bin dankbar, dass ich einen so tollen Freund wie den Mischa habe und will meinen Job sehr gut machen.
 - Ich bin dankbar, dass ich so tolle Freunde wie Fredin habe, die mir soooo viel zugehört haben. 😍❤️
 - Ich bin dankbar, dass ich einen so tollen Prof. wie Benno habe, der Wissen nicht hierarchisch sieht und immer lösungsorientiert ist. Ebenso bin ich froh, dass ich einen so tollen Betreuer wie Aritra habe.
+## Attribution und mich fertig machen
+mit den anderen Nadeln vergleichen Öse und Länge der Nadel ⟹ eventuell Länge abschleifen <br> ⟹hat geklappt <span style="font-size:100%;color:coral;">hab sie dann aber mit dem hammer zerstört als ich beim zweiten mal probiert habe die Öse mit einem Nagel etwas zu vergrößern. Sie ist dadurch gebrochen an der Öse. ich wusste es habe, es aber trotzdem gemacht, konnte es nicht lassen</span> <span style="font-size:100%;color:red;">ist aber nicht schlimm, ich habe daraus etwas gelernt</span> ich hatte dabei das erste Mal wieder das Gefühl "oh mein Gott ich habe etwas falsch gemacht und war kurz davor mich da weiter fertig und runter zu machen siehe PC etc." ⟹ der Fehler war nicht 100% bei mir und achtsam zu sein
+
+<span style="font-size:130%;color:red;">⟹</span> sei ganz bei dir und ganz in dem was du machst.
+<span style="font-size:130%;color:red;">⟹</span>  lenke dich nicht ab und mache die Dinge die du eigentlich tun sollst/willst 
+
+Ich bin wertvoll und habe ja trotzdem etwas sinnvolles gemacht.
 
 # Schlaf
 - kann ich <span style="color:red">mittlerweile</span> ganz <u>gut</u> ⟹ <span style="font-size:150%;color:red;">Naja</span> sei ehrlich! da hast du noch viel Arbeit vor dir

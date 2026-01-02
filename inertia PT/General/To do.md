@@ -269,7 +269,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 	- [ ] Lampe vorne am Rand anbringen 
 	- [x] hab sie mit Kabelbindern angebracht 
 - [ ] das Problem mit der 90iger Universal Nadel raus finden.
-	- mit den anderen Nadeln vergleichen Öse und Länge der Nadel ⟹ eventuell Länge abschleifen <br> ⟹hat geklappt <span style="font-size:100%;color:coral;">hab sie dann aber mit dem hammer zerstört als ich beim zweiten mal probiert habe die Öse mit einem Nagel etwas zu vergrößern. Sie ist dadurch gebrochen an der Öse. ich wusste es habe, es aber trotzdem gemacht, konnte es nicht lassen</span> <span style="font-size:100%;color:red;">ist aber nicht schlimm, ich habe daraus etwas gelernt</span> ich hatte dabei das erste Mal wieder das Gefühl "oh mein Gott ich habe etwas falsch gemacht und war kurz davor mich da weiter fertig und runter zu machen siehe PC etc."
+	- mit den anderen Nadeln vergleichen Öse und Länge der Nadel ⟹ eventuell Länge abschleifen <br> ⟹hat geklappt <span style="font-size:100%;color:coral;">hab sie dann aber mit dem hammer zerstört als ich beim zweiten mal probiert habe die Öse mit einem Nagel etwas zu vergrößern. Sie ist dadurch gebrochen an der Öse. ich wusste es habe, es aber trotzdem gemacht, konnte es nicht lassen</span> <span style="font-size:100%;color:red;">ist aber nicht schlimm, ich habe daraus etwas gelernt</span> ich hatte dabei das erste Mal wieder das Gefühl "oh mein Gott ich habe etwas falsch gemacht und war kurz davor mich da weiter fertig und runter zu machen siehe PC etc." ⟹ der Fehler war nicht 100% bei mir und achtsam zu sein
 	- ist die Nadel zentriert?
 - [x] Schlafmaske reparieren 
 - [x] Näh und Bastelecke einrichten 
