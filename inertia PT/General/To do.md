@@ -263,6 +263,9 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 
 # Nähen, Malen, Basteln und Reparieren 
 - [x]  Aldi Tasche reparieren
+- [ ] Leuchtstoffröhrenlampen 
+	- [ ] Kabel für Lampe finden ⟹Lampe drehen 
+	- [ ] Lampe vorne am Rand anbringen 
 - [ ] das Problem mit der 90iger Universal Nadel raus finden.
 	- mit den anderen Nadeln vergleichen Öse und Länge der Nadel ⟹ eventuell Länge abschleifen 
 	- ist die Nadel zentriert?
