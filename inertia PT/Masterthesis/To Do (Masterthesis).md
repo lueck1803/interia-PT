@@ -3,6 +3,8 @@
 - [ ] Exponenten neu auswerten -> neu/getrennt abspeichern / backup der alten 
 - [ ] Gescheiten Titel für die Thesis
 - [ ] Thesis aufräumen/ neu erstellen
+- [ ] Die Benennung "max" und "half" stört mich immer noch...
+      ⟹ Aber das konsequent zu ändern 😵‍💫
 # old unsorted tasks
 - [x] algo changes function and performance test
       ⟹little bugs: Naming of `peakPits` was wrong and the parameter `mainbox` was missing
