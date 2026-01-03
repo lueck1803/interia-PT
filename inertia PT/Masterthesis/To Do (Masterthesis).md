@@ -1,5 +1,6 @@
 # unsorted tasks
 - [ ] Quellen für Folien
+- [ ] Tu Design für Folien 
 - [ ] Exponenten neu auswerten -> neu/getrennt abspeichern / backup der alten 
 - [ ] Gescheiten Titel für die Thesis
 - [ ] Thesis aufräumen/ neu erstellen
