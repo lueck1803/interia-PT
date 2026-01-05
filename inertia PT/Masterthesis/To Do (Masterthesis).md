@@ -11,7 +11,7 @@
 	- [ ] passe abgespeicherten dateinamen an für die plots, muss extra parameter werden
 - [ ] Binder cumulant plots bzw überhaupt die x Achsenbeschriftung ... m ist ja falsch. das muss ja $M=\frac{\tau_{M}}{\tau_{R}}$ sein
 - [ ] Feng2025 - Critical Motility-Induced Phase Separation in Three Dimensions is Consistent with Ising Universality
-- [ ] Schreibe den Order paramter absofort als:
+- [ ] Schreibe den Order parameter ab sofort als:
       $\mathcal{O}\equiv \left< \rho_{dense} \right>_{L} - \left< \rho_{dilute} \right>_{L}$ 
 
 # old unsorted tasks
