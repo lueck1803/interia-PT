@@ -1,5 +1,7 @@
 # unsortiert
 - [ ] rotkohl verarbeiten
+- [ ] Spülmaschine 
+- [ ] wer ist morgen mit jc dran?
 - [ ] fragen was mit der Abrechnung vom September ist bzw schauen ob was kam 
 - [ ] zip tight knoten lernen 
 - [x] über Schlafmaske nähen 
