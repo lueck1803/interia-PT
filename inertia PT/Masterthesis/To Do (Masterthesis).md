@@ -1,6 +1,7 @@
 # unsorted tasks
 - [ ] Quellen für Folien
 - [ ] müsste noch den data collapse machen 😒
+- [ ] Folie für die Verteilung von $\rho$ um die Kurtigkeit zu meiner Verteilung z
 - [x] Tu Design für Folien 
 - [ ] Exponenten neu auswerten -> neu/getrennt abspeichern / backup der alten 
 - [ ] Gescheiten Titel für die Thesis
