@@ -1,9 +1,10 @@
 # unsorted tasks
+- [ ] Exponenten neu auswerten -> neu/getrennt abspeichern / backup der alten 
+	- [ ] ⟹und gescheit in die Folien packen
 - [ ] Quellen für Folien
 - [ ] müsste noch den data collapse machen 😒
 	- [ ] Folie für die Verteilung von $\rho$ um die Kurtigkeit zu meiner Verteilung zu zeigen, dass $0<\mathcal{B}<1$ für meine Verteilung ist.
 - [x] Tu Design für Folien 
-- [ ] Exponenten neu auswerten -> neu/getrennt abspeichern / backup der alten 
 - [ ] Gescheiten Titel für die Thesis
 - [ ] Thesis aufräumen/ neu erstellen
 - [ ] Die Benennung "max" und "half" stört mich immer noch...
