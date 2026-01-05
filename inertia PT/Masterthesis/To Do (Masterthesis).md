@@ -1,7 +1,7 @@
 # unsorted tasks
 - [ ] Quellen für Folien
 - [ ] müsste noch den data collapse machen 😒
-- [ ] Folie für die Verteilung von $\rho$ um die Kurtigkeit zu meiner Verteilung z
+	- [ ] Folie für die Verteilung von $\rho$ um die Kurtigkeit zu meiner Verteilung zu zeigen, dass $0<\mathcal{B}<1$ für meine Verteilung ist.
 - [x] Tu Design für Folien 
 - [ ] Exponenten neu auswerten -> neu/getrennt abspeichern / backup der alten 
 - [ ] Gescheiten Titel für die Thesis
