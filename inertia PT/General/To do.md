@@ -1,10 +1,11 @@
 # unsortiert
 - [ ] rotkohl verarbeiten
+- [ ] fragen was mit der Abrechnung vom September ist bzw schauen ob was kam 
 - [ ] zip tight knoten lernen 
 - [x] über Schlafmaske nähen 
 - [x] bett beziehen 
 - [x] Lotos in Teich 
-- [ ] ingwer schälen und einfrieren 
+- [x] ingwer schälen und einfrieren 
 - [x] Fahrrad Lampe Fest schrauben 
 - [ ] tesaabroller schärfen
 - [x] Aldi Tasche reparieren 
