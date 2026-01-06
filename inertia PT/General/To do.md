@@ -1,6 +1,7 @@
 # unsortiert
 - [ ] rotkohl verarbeiten
 - [ ] Spülmaschine 
+- [ ] Handschuh flicken
 - [ ] wer ist morgen mit jc dran?
 - [ ] fragen was mit der Abrechnung vom September ist bzw schauen ob was kam 
 - [ ] zip tight knoten lernen 
@@ -266,6 +267,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 	- hat ganz gut geklappt mit der kleinen Akkuflex 
 
 # Nähen, Malen, Basteln und Reparieren 
+- [ ] Handschuh flicken
 - [x]  Aldi Tasche reparieren
 - [ ] Leuchtstoffröhrenlampen 
 	- [ ] Kabel für Lampe finden ⟹Lampe drehen 
