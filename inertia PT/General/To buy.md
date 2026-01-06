@@ -1,4 +1,4 @@
-
+- [ ] metall+Kunststoff Trinkhalme Aldi falls billiger 
 # non food
 - [ ] kleinen Schneebesen 
 - [ ] Mehrfachsteckdose für nähtisch
@@ -9,6 +9,10 @@
       ⟹<span style="font-size:100%;color:gold;">auch egal</span> <span style="font-size:100%;color:red;">Ablenkung</span>
 
 # Lebensmittel 
+- [x] Müsli 
+	- gab's nicht hab Schokochips gekauft 
+- [x] Hafermilch 
+- [ ] Bananen 
 - [ ] scharfer Senf 
 - [x] Knoblauch 
 - [x] gehackte Tomaten mit Kräuter 
