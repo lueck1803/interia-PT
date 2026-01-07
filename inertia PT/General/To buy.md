@@ -13,6 +13,9 @@
 	- gab's nicht hab Schokochips gekauft 
 - [x] Hafermilch 
 - [ ] Bananen 
+- [ ] Zwiebeln 
+	- [ ] gelb
+	- [ ] rot
 - [ ] scharfer Senf 
 - [x] Knoblauch 
 - [x] gehackte Tomaten mit Kräuter 
