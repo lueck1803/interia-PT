@@ -1,5 +1,15 @@
 # unsortiert
 - [ ] rotkohl verarbeiten
+- [ ] Camembert essen kochen
+	- Camembert+Rostrinden Käse verwenden 
+- [ ] Duolingo 
+	- [ ] französisch 
+	- [ ] türkisch 
+	- [ ] türkisch abschreiben 
+- [ ] Küche aufräumen 
+- [ ] staubsaugen 
+- [ ] Apfel essen 
+- [ ] Zähne nochmal putzen 
 - [x] Brokkoli waschen 
 - [x] Brokkoli kochen 
 - [x] Spülmaschine 
@@ -20,7 +30,7 @@
 - [ ] Shortcut obsidian unter windows und anderen für toggl checkbox/bullet list
 - [ ] wintersun sadness and hate
 - [x] Ist geld vom november auf dem konto?
-- [ ] 1h coreview 
+- [x] 1h coreview 
 - [ ] Konto checken
 	- [x] Gehaltsabrechnung checken und fragen was mit September ist
 	- [x] Gehalt von November ist noch nicht da 25-12-21
@@ -211,6 +221,10 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] Outlook task planner zeug eintragen was mir Mischa aufgetragen und nicht selbst schon eingetragen hat 
 - [ ] 
 # Papierkram
+- [ ] Rundfunkbeitrag 
+- Stromablesung 
+	- [ ] Termin 26-01-09
+	- [ ] online eintragen 
 - [x] AOK KK Karte und Zeug einheften
 - [x] Patientenakte abholen/besorgen
 - [x] wbs legal einheften
@@ -222,7 +236,6 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 	- [x] Gehaltsabrechnungen an AOK weiterleiten
 	- [ ] ist die auch korrekt?
 	- [ ] ist ein Brief in der Post?
-- [ ] Rundfunkbeitrag 
 - [x] Patientenakte anschauen ⟹ wie viele Seiten sind das? Doppelseitig? Lohnt sich das zur Digitalisierung den Drucker zu kaufen? Alleine wie genervt ich von dem Drucker bin.. und wie viel nervige Zeit es kostet Sachen einzuscannen und dann ist das nicht gerade und schön. Auch das Scannen an den pc ist ne Katastrophe mit dem hp
 - [x] Drucker in ebay Kleinanzeigen stellen 
 	- gebe den Drucker Bilge 
