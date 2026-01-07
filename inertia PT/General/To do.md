@@ -1,7 +1,10 @@
 # unsortiert
 - [ ] rotkohl verarbeiten
-- [ ] Spülmaschine 
-- [ ] Handschuh flicken
+- [x] Brokkoli waschen 
+- [x] Brokkoli kochen 
+- [x] Spülmaschine 
+- [x] Handschuh flicken
+- [x] weiße nahtschere schleifen 
 - [ ] wer ist morgen mit jc dran?
 - [ ] fragen was mit der Abrechnung vom September ist bzw schauen ob was kam 
 - [ ] zip tight knoten lernen 
