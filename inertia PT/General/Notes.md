@@ -575,7 +575,8 @@ Z12  R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12
 ### Reihen nach Spickel 49 ~ 12,25 cm
 R12  R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 (Zunahme 1M socke 1 am Ende)
 
-R (Zunahme 1M Socke 1 am Ende)
+R (Zunahme 1M Socke 1 am Ende) 12 
+R1
 
 ## new try / Nadine
 
