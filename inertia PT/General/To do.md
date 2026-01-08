@@ -1,5 +1,6 @@
 # unsortiert
 - [ ] rotkohl verarbeiten
+- [ ] Basilikum aussäen 
 - [ ] Camembert essen kochen
 	- Camembert+Rostrinden Käse verwenden 
 - [ ] Duolingo 
