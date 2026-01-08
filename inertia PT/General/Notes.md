@@ -554,6 +554,12 @@ https://www.youtube.com/watch?v=-ElLBXAooWY&t=404s
 
 ## frist try/freddie¿
 ⟹zu viele maschen aufgenommen 35 auf beiden Socken 
+Ne auf der ersten sind es je 35
+Auf der zweiten 35 und 37
+
+-> auf der zweiten schiebe ich eine Masche rüber so dass 36 und 36
+
+Auf der ersten nehme ich jeweils noch eine Masche mittig auf
 ### Maschenaufnahme
 - [x] 12 M pro seite erste Socke 
 - [x] 12 M pro seite zweite Socke
@@ -567,7 +573,9 @@ Dann eine Runde rechts.
 Z12  R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12
 
 ### Reihen nach Spickel 49 ~ 12,25 cm
-R12  R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R1
+R12  R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 (Zunahme 1M socke 1 am Ende)
+
+R (Zunahme 1M Socke 1 am Ende)
 
 ## new try / Nadine
 
@@ -583,7 +591,7 @@ Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12
 Ich bleibe dabei
 
 ### Reihen nach Spickel 
-R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R1
+R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R
 
 
 
