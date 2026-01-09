@@ -260,6 +260,8 @@ Und es hat geklappt 🎆🥳❤️
 - Kian:
 	- wann merkt man es ist die richtige dosis? unterschied?
 	- länger als 30 min konzentration
+- ruth:
+	- was sie beschreibt ist ADHS "typisch frau"
 ### 25-12-05
 - Lukas:
 	- Diagnose seit juli 24
