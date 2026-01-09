@@ -280,6 +280,7 @@ Und es hat geklappt 🎆🥳❤️
 	- leider keine kinder, daher kann ich nicht zu 100% mitreden
 	- wie alt ist der älteste?
 	- Wie genau war die rosenkohl situation? ⟹ auf der Arbeit wird man ja auch so häufig unterbrochen ⟹ zb. büro
+- Beim Nachschießen nimmst du dann aber etwas unretardiertes?
 ### 25-12-05
 - Lukas:
 	- Diagnose seit juli 24
