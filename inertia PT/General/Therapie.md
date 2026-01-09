@@ -268,6 +268,12 @@ Und es hat geklappt 🎆🥳❤️
 	- ist mNn etwas schwieriges, der Autismusbegriff wurde über die Jahrzehnte immer mehr aufgeweicht.
 	- Ebenso Hochsensibilität und Hochbegabung
 	- meiner Meinung nachlässt sich das alles recht gut mit ADHS beschreiben/erklären 
+- Kein Bock Themen
+	- geht allen so
+	- Festen Zeitpunkt
+	- ne feste Zeitdauer
+	- und dann wird das einfach gemacht
+	- 
 ### 25-12-05
 - Lukas:
 	- Diagnose seit juli 24
