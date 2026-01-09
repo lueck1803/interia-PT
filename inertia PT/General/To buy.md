@@ -1,4 +1,13 @@
-- [ ] metall+Kunststoff Trinkhalme Aldi falls billiger 
+- [ ] metall+Kunststoff Trinkhalme Aldi falls billiger
+- [ ] Bananen 
+- [ ] Zwiebeln 
+	- [ ] gelb
+	- [ ] rot
+- [ ] Müsli 
+- [ ] Hafermilch 
+- [ ] Fusili 
+- [ ] bier
+
 # non food
 - [ ] kleinen Schneebesen 
 - [ ] Mehrfachsteckdose für nähtisch
@@ -11,11 +20,6 @@
 # Lebensmittel 
 - [x] Müsli 
 	- gab's nicht hab Schokochips gekauft 
-- [x] Hafermilch 
-- [ ] Bananen 
-- [ ] Zwiebeln 
-	- [ ] gelb
-	- [ ] rot
 - [ ] scharfer Senf 
 - [x] Knoblauch 
 - [x] gehackte Tomaten mit Kräuter 

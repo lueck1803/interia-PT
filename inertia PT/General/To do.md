@@ -1,16 +1,24 @@
 # unsortiert
 - [ ] rotkohl verarbeiten
-- [ ] Basilikum aussäen 
-- [ ] Camembert essen kochen
-	- Camembert+Rostrinden Käse verwenden 
+- [ ] Loch im grünen Shirt flicken 
+- [ ] Bettwäsche wechseln 
+- [x] Decke waschen 
+- [ ] Zählerstand eintragen 
+- [ ] Erbsen kochen
+- [ ] Töpfe in Spülmaschine 
+- [ ] custom action bauen 
+- [x] staubsaugen 
+- [x] Basilikum aussäen 
+- [x] Camembert essen kochen
+	- Camembert+Rotrinden Käse verwenden 
 - [ ] Duolingo 
 	- [ ] französisch 
 	- [ ] türkisch 
 	- [ ] türkisch abschreiben 
-- [ ] Küche aufräumen 
-- [ ] staubsaugen 
+- [x] Küche aufräumen 
+- [x] staubsaugen 
 - [ ] Apfel essen 
-- [ ] Zähne nochmal putzen 
+- [x] Zähne nochmal putzen 
 - [x] Brokkoli waschen 
 - [x] Brokkoli kochen 
 - [x] Spülmaschine 
@@ -309,10 +317,11 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] kiwi aussäen 
 	- [ ] pikieren 
 - [x] maracuja aussäen 
-- [ ] Löcher in Thunfischdosen bohren und einpflanzen:
+- [x] Löcher in Thunfischdosen bohren und einpflanzen:
 	- [ ] kiwi
-	- [ ] Apfelpflanzen 
-	- [ ] maracuja Pflanzen 
+		- angefangen 
+	- [x] Apfelpflanzen 
+	- [x] maracuja Pflanzen 
 - [ ] apfel Keimlinge umsetzen 
 - [ ] habanero Pflanze säen
 - [x] loch für Bioabfall neben Oregano graben
