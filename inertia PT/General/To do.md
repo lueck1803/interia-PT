@@ -292,7 +292,8 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 	- hat ganz gut geklappt mit der kleinen Akkuflex 
 
 # Nähen, Malen, Basteln und Reparieren 
-- [ ] Handschuh flicken
+- [ ] Winterschuhe braun sole kleben
+- [x] Handschuh flicken
 - [x]  Aldi Tasche reparieren
 - [ ] Leuchtstoffröhrenlampen 
 	- [ ] Kabel für Lampe finden ⟹Lampe drehen 
