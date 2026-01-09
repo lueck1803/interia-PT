@@ -1,8 +1,8 @@
 - [ ] metall+Kunststoff Trinkhalme Aldi falls billiger
-- [ ] Bananen 
-- [ ] Zwiebeln 
-	- [ ] gelb
-	- [ ] rot
+- [x] Bananen 
+- [x] Zwiebeln 
+	- [x] gelb
+	- [x] rot
 - [ ] Müsli 
 - [ ] Hafermilch 
 - [ ] Fusili 

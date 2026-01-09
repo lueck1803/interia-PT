@@ -2,6 +2,7 @@
 - [ ] rotkohl verarbeiten
 - [ ] Loch im grünen Shirt flicken 
 - [ ] Bettwäsche wechseln 
+- [ ] wie geht's den Kartoffeln?
 - [x] Decke waschen 
 - [ ] Zählerstand eintragen 
 - [ ] Erbsen kochen
@@ -292,7 +293,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 	- hat ganz gut geklappt mit der kleinen Akkuflex 
 
 # Nähen, Malen, Basteln und Reparieren 
-- [ ] Winterschuhe braun sole kleben
+- [ ] Winterschuhe braun sole Körben 
 - [x] Handschuh flicken
 - [x]  Aldi Tasche reparieren
 - [ ] Leuchtstoffröhrenlampen 
