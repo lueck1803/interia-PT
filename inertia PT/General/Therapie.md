@@ -259,7 +259,7 @@ Und es hat geklappt 🎆🥳❤️
 	- richtige dosierung Medikament?
 - Kian:
 	- wann merkt man es ist die richtige dosis? unterschied?
-	- länger als 
+	- länger als 30 min konzentration
 ### 25-12-05
 - Lukas:
 	- Diagnose seit juli 24
