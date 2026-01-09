@@ -322,7 +322,8 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 		- angefangen 
 	- [x] Apfelpflanzen 
 	- [x] maracuja Pflanzen 
-- [ ] apfel Keimlinge umsetzen 
+- [x] apfel Keimlinge umsetzen 
+- [ ] Basilikum säen
 - [ ] habanero Pflanze säen
 - [x] loch für Bioabfall neben Oregano graben
 - [ ] zitrone umsetzen 
