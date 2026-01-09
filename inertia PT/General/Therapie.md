@@ -267,7 +267,7 @@ Und es hat geklappt 🎆🥳❤️
 - Autismus Diagnose:
 	- ist mNn etwas schwieriges, der Autismusbegriff wurde über die Jahrzehnte immer mehr aufgeweicht.
 	- Ebenso Hochsensibilität und Hochbegabung
-	- meiner Meinung nachlässt sich das alles recht gut mit ADHS beschreiben und erklären 
+	- meiner Meinung nachlässt sich das alles recht gut mit ADHS beschreiben/erklären 
 ### 25-12-05
 - Lukas:
 	- Diagnose seit juli 24
