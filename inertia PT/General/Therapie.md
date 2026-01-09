@@ -262,6 +262,8 @@ Und es hat geklappt 🎆🥳❤️
 	- länger als 30 min konzentration
 - ruth:
 	- was sie beschreibt ist ADHS "typisch frau"
+- songül:
+	- Achtsamkeit und Meditation
 ### 25-12-05
 - Lukas:
 	- Diagnose seit juli 24
