@@ -2,7 +2,8 @@
 - [ ] rotkohl verarbeiten
 - [ ] Loch im grünen Shirt flicken 
 - [ ] Bettwäsche wechseln 
-- [ ] wie geht's den Kartoffeln?
+- [x] wie geht's den Kartoffeln?
+	- [ ] sieht ganz gut aus
 - [x] Decke waschen 
 - [ ] Zählerstand eintragen 
 - [ ] Erbsen kochen
