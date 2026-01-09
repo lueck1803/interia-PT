@@ -1623,6 +1623,9 @@ Aber 🤷‍♂️, so bin ich halt, warum sollte ich irgendwie Drumherum reden
 # Familie
 - 
 # Psychiater
+## Medikamente
+- zwei wöchige Medikationspause 
+## Erst Vorstellung
 - körperlich sehr häufig gestresst 
 	- ein Gefühl im ganzen Körper
 	- fahrig
