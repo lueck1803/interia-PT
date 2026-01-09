@@ -271,9 +271,12 @@ Und es hat geklappt 🎆🥳❤️
 - Kein Bock Themen
 	- geht allen so
 	- Festen Zeitpunkt
-	- ne feste Zeitdauer
+	- ne feste Zeitdauer ich mach jetzt einfach 1h 
 	- und dann wird das einfach gemacht
-	- 
+	- echte Pausen machen 
+	- kein muss
+- kian hat da doch schon einen guten maßnahmen katalog
+- 
 ### 25-12-05
 - Lukas:
 	- Diagnose seit juli 24
