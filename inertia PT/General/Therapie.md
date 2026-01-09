@@ -250,6 +250,16 @@ Und es hat geklappt 🎆🥳❤️
 	- regelmäßig hier
 	- 20 mg ritalin adult 1 mal täglich
 	- hab 2 wochen Medikationspause gemacht ⟹ war super
+	- hab gemerkt, wie sehr schlaf hilft
+	- mein Problem momentan nachts nach 1h wach zu werden 
+- Simon:
+	- wie motivation?
+- Nadine:
+	- autismus / Hochsensibel
+	- richtige dosierung Medikament?
+- Kian:
+	- wann merkt man es ist die richtige dosis? unterschied?
+	- länger als 
 ### 25-12-05
 - Lukas:
 	- Diagnose seit juli 24
