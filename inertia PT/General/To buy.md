@@ -5,8 +5,8 @@
 	- [x] rot
 - [ ] Müsli 
 - [ ] Hafermilch 
-- [ ] Fusili 
-- [ ] bier
+- [x] Fusili 
+- [x] bier
 
 # non food
 - [ ] kleinen Schneebesen 
