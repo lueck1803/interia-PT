@@ -276,7 +276,10 @@ Und es hat geklappt 🎆🥳❤️
 	- echte Pausen machen 
 	- kein muss
 - kian hat da doch schon einen guten maßnahmen katalog
-- 
+- Kati:
+	- leider keine kinder, daher kann ich nicht zu 100% mitreden
+	- wie alt ist der älteste?
+	- Wie genau war die rosenkohl situation? ⟹ auf der Arbeit wird man ja auch so häufig unterbrochen ⟹ zb. büro
 ### 25-12-05
 - Lukas:
 	- Diagnose seit juli 24
