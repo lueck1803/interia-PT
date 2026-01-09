@@ -3,7 +3,7 @@
 - [ ] Loch im grünen Shirt flicken 
 - [ ] Bettwäsche wechseln 
 - [x] wie geht's den Kartoffeln?
-	- [ ] sieht ganz gut aus
+	- [ ] ⟹ sieht ganz gut aus
 - [x] Decke waschen 
 - [ ] Zählerstand eintragen 
 - [ ] Erbsen kochen

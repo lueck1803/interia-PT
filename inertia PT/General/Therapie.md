@@ -111,7 +111,7 @@ Sie nimmt mich nicht in Schutz
 - 
 
 Das ist  seit Jahren ein großes Problem von mir
-# Kommunikation 
+# Kommunikation
 - use <span style="color:red;font-size:100%;">elicitation</span>: make statements instead of questions ⟹if the person needs to correct you, it gives you more information than by a question and more willingly/without any pressure 
 	- need to <span style="font-size:100%;color:red;">correct</span> a record 
 	- making a <span style="font-size:100%;color:red;">statement</span> afterwards: feels like they volunteering information 
@@ -151,7 +151,7 @@ Daran bin ich einfach verbrannt und hatte irgendwann all meine Energie und meine
 Ich habe mir immer Kinder mit ihr gewünscht, aber dafür hätte sie diese Phasen in den Griff bekommen und dafür in Therapie gehen müssen, darüberhinaus hätte die Hierarchie klar sein müssen, dass wir uns nicht durch übergriffiges Verhalten ihrer Familie hätten beeinflussen lassen und die keinerlei Zugriff auf unsere Kinder hätten haben dürfen, so lange wir nicht dabei sind. 
 1. Schlechter Einfluss 
 2. Kann man denen einfach nicht vertrauen, wie die Vergangenheit gezeigt hat. Ich hätte nicht gewollt dass die einfach in einem unbeobachteten Moment die Haare vom Kind abrasiern, weil die aus dem Mutterleib kommen und unrein sind. Arooj hat immer gesagt ja auf keinen Fall, aber dann hat sich das Gift ihrer Familie doch immer wieder eingeschlichen und sie hat Aussagen übernommen und wurde weich geklopft. Geht nicht...
-## Friedemann schulz von Thun 
+## Friedemann schulz von Thun
 https://www.youtube.com/watch?v=jPAjmlkXf48&t=33m00s
 
 Aussage des Vaters von Friedemann:
@@ -242,6 +242,69 @@ Und es hat geklappt 🎆🥳❤️
 
 # ADHD
 
+## Wolkenflieger
+### 26-01-09
+- Ich 
+	- 35  
+	- Diagnose Julie '24
+	- regelmäßig hier
+	- 20 mg ritalin adult 1 mal täglich
+	- hab 2 wochen Medikationspause gemacht ⟹ war super
+### 25-12-05
+- Lukas:
+	- Diagnose seit juli 24
+	- 35 jahre alte
+	- ich bin regelmäßig bei den Treffen dabei und darüber sehr dankbar
+	  ⟹ ich habe dadurch sehr viel gelernt 
+	- Medikament: Ritalin Adult 
+		- vorher 2x20 mg genommen 
+		  ⟹jetzt nur noch 1x20mg morgens ⟹ reicht mir vollkommen und klappt auch mit dem Schlafen ganz gut
+		- ⟹kann ich gut nachvollziehen, was Andreas bzgl medikation sagt
+		  ⟹hängt auch stark mit dem Schlaf zusammen
+		- ⟹ musste mir kurzfristig einen neuen Psychiater suchen und das hat gut geklappt.
+	- Erik bzgl. soziale Interaktion:
+		- bei mir geht die Konzentration nicht runter
+		- ich kann eher nicht immer so gaaanz kontrollieren, was ich sage und bin etwas zu aufgedreht
+	- Christian (später auch Tina) Stimmlage:
+		- Verteidigungssatz macht etwas nur schlimmer
+		- kenne ich sehr gut ⟹ problem ist dabei, dass man sich zusehr von der Aussage / Frage / Vorwurf einfangen/fesseln lässt und da man die perfektionistische neigung hat (ängstliches kreisen um sich selbst), ist man sofort in der Verteidigungshaltung
+		  gibt der aussage des anderen gar keinen Raum lässt diese nicht wirken
+		  das gegenüber fühlt sich nicht so wahrgenom
+		- lautstärke kann ansteigen
+		- im nachhinein so viel arbeit die scherben wieder aufzukehren... 
+		  ⟹ich hab es ja nicht so gemeint
+	- mein Them Kommunikation:
+		- Überkommunikation
+		- bin sehr kompetent und habe viel wissen, allerdings durch meine Kommunikation geht das leider etwas verloren und kommt anders rüber
+		- klarer
+		- prägnanter
+	- Ronja 
+		- 35 
+		- medikinet
+			- auch probleme damit
+		- AuDHD:
+			- würde ich nicht drauf gehen ⟹ habe ich mich schon selbst intensiv beschäftigt. Das ADHD füllt das alles schon ganz gut aus
+	- Jakob:
+		- folge die Paartherapie ⟹ irgendwas mit ADHS
+		- irgendwas mit Loch
+		- fühlt die Aussagen von seiner Frau als angriff in seine Autonomie
+- Thema Kommunikation
+	- ich möchte lernen klarer zu kommunizieren
+- Christian:
+	-  Tipp: Negativer Hyperfokus!
+	-  3s Zeit nehmen
+	- kein Mann frau ding
+	- akkumulation von problemen über die Zeit und dann wird es einem so als großer Berg dargestellt,⟹ tinas lösung ist gut
+	- geht nicht um den Schwamm und um die Lösungen
+	- Tonlage: 
+		- niemals mit ADHS entschuldigen, das funktioniert nicht, dann wird das einem auf dauer zur last gelegt
+		- Zeit für sich selbst nehmen. 
+		- die sache von sich selbst trennen.
+		- da ist ja auch vieles bei deiner partnerin und das hat nichts mit deinem wert zu tun
+	- Wie clemens es sagt: 
+		- ADHS ist häufig verknüpft mit Perfektionismus
+	- Benina:
+		- klarer sagen was man wirklich sagen wollte, es kommt nicht immer das an obwohl man es dachte das man das doch klar gesagt hat.
 ## Improve Focus: Attentional blinks
 [Huberman attentional blinks ](https://youtu.be/LAwBdRR4wQk?t=19m40s)  
 - searching waldo ⟹ when you find him your brain celebrates a little bit, you pause ⟹ in this moment your attention is drawn away ⟹ you are not able to see another waldo sitting right next to it ⟹because you are over focusing on something
@@ -279,10 +342,10 @@ Und es hat geklappt 🎆🥳❤️
 	- PS has been studied for its potential in improving memory, learning, and concentration. Supplementation with PS has been shown to have no effect in enhancing cognitive performance in the elderly and individuals with cognitive decline
 
 
-# Perfektionismus 
+# Perfektionismus
 
-## 25-12-22 
-### pre und post rechtfertigende Gedankengänge am Beispiel Fabi 
+## 25-12-22
+### pre und post rechtfertigende Gedankengänge am Beispiel Fabi
 
 Ich hatte ihr davor mal geschrieben als ich dieses Buch gekauft habe, da ich weiß wie sehr sie Pinguine mag. 
 
@@ -403,8 +466,8 @@ Raphael Bonelli ist einer der wenigen die das klar und realistisch betrachten.
 
 
 
-# Achtsamkeit und Meditation 
-## Meditation 
+# Achtsamkeit und Meditation
+## Meditation
 - ich liebe <span style="color:hotpink">Meditation</span> 
 ### Erkenntnisse
 #### 25-11-26
@@ -526,7 +589,7 @@ These don't just cover up distraction, they retrain your brain to complete the l
 
 
 
-### Bodyscan 
+### Bodyscan
 #### 1. Befriending your body
 ADHD symptoms worsen by stress ⟹ <span style="font-size:100%;color:gold;">connect with your body</span>
 #### 2. Self-compassion
@@ -548,67 +611,11 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 
 
 
-## Wolkenflieger
-### 25-12-05
-- Lukas:
-	- Diagnose seit juli 24
-	- 35 jahre alte
-	- ich bin regelmäßig bei den Treffen dabei und darüber sehr dankbar
-	  ⟹ ich habe dadurch sehr viel gelernt 
-	- Medikament: Ritalin Adult 
-		- vorher 2x20 mg genommen 
-		  ⟹jetzt nur noch 1x20mg morgens ⟹ reicht mir vollkommen und klappt auch mit dem Schlafen ganz gut
-		- ⟹kann ich gut nachvollziehen, was Andreas bzgl medikation sagt
-		  ⟹hängt auch stark mit dem Schlaf zusammen
-		- ⟹ musste mir kurzfristig einen neuen Psychiater suchen und das hat gut geklappt.
-	- Erik bzgl. soziale Interaktion:
-		- bei mir geht die Konzentration nicht runter
-		- ich kann eher nicht immer so gaaanz kontrollieren, was ich sage und bin etwas zu aufgedreht
-	- Christian (später auch Tina) Stimmlage:
-		- Verteidigungssatz macht etwas nur schlimmer
-		- kenne ich sehr gut ⟹ problem ist dabei, dass man sich zusehr von der Aussage / Frage / Vorwurf einfangen/fesseln lässt und da man die perfektionistische neigung hat (ängstliches kreisen um sich selbst), ist man sofort in der Verteidigungshaltung
-		  gibt der aussage des anderen gar keinen Raum lässt diese nicht wirken
-		  das gegenüber fühlt sich nicht so wahrgenom
-		- lautstärke kann ansteigen
-		- im nachhinein so viel arbeit die scherben wieder aufzukehren... 
-		  ⟹ich hab es ja nicht so gemeint
-	- mein Them Kommunikation:
-		- Überkommunikation
-		- bin sehr kompetent und habe viel wissen, allerdings durch meine Kommunikation geht das leider etwas verloren und kommt anders rüber
-		- klarer
-		- prägnanter
-	- Ronja 
-		- 35 
-		- medikinet
-			- auch probleme damit
-		- AuDHD:
-			- würde ich nicht drauf gehen ⟹ habe ich mich schon selbst intensiv beschäftigt. Das ADHD füllt das alles schon ganz gut aus
-	- Jakob:
-		- folge die Paartherapie ⟹ irgendwas mit ADHS
-		- irgendwas mit Loch
-		- fühlt die Aussagen von seiner Frau als angriff in seine Autonomie
-- Thema Kommunikation
-	- ich möchte lernen klarer zu kommunizieren
-- Christian:
-	-  Tipp: Negativer Hyperfokus!
-	-  3s Zeit nehmen
-	- kein Mann frau ding
-	- akkumulation von problemen über die Zeit und dann wird es einem so als großer Berg dargestellt,⟹ tinas lösung ist gut
-	- geht nicht um den Schwamm und um die Lösungen
-	- Tonlage: 
-		- niemals mit ADHS entschuldigen, das funktioniert nicht, dann wird das einem auf dauer zur last gelegt
-		- Zeit für sich selbst nehmen. 
-		- die sache von sich selbst trennen.
-		- da ist ja auch vieles bei deiner partnerin und das hat nichts mit deinem wert zu tun
-	- Wie clemens es sagt: 
-		- ADHS ist häufig verknüpft mit Perfektionismus
-	- Benina:
-		- klarer sagen was man wirklich sagen wollte, es kommt nicht immer das an obwohl man es dachte das man das doch klar gesagt hat.
-# Beziehung 
+# Beziehung
 
 [Bonelli: Kopf Herz und Bauch - kurz](https://youtu.be/_8aKhwJzTTM?si=8olx0XTKGQmNcbdZ)
 ## 25-12-27
-### Familie 
+### Familie
 Hab mal meine Eltern angerufen.
 
 Wollte ich eigentlich schon gestern/vorgestern mal machen.
@@ -691,7 +698,7 @@ Das Gefühl das jetzt fast ein Jahr anhielt, dass ich schuldig und anstrengend b
 
 Die verstehen gar nicht wie mich deren Worte am aus dem Loch kommen gehindert haben.
 
-### Arooj 
+### Arooj
 Ich habe Anna-Sophia auch geantwortet.
 
 Ganz ohne weiter etwas zu Arooj zu sagen.
@@ -707,8 +714,8 @@ Aber es bedeutet nicht dass ich mich deshalb selbstaufgebe vor lauter Mitgefühl
 ## 25-12-26
 - Arooj hat überhaupt nicht berücksichtigt dass ich erst '24 ADHS diagnostiziert bekommen habe und dann logischerweise erstmal in eine Identitätskrise gekommen bin. 
 - und ihr problematisches Verhalten hat sie überhaupt nicht berücksichtigt 
-## 25-12-25 
-### Eltern 
+## 25-12-25
+### Eltern
 Meine Eltern haben mich eben angerufen.
 
 Ein bisschen traurig und "vorwurfsvoll" bzw eher lockend mit Dingen die es ja zu essen gibt/was noch da ist. 🤷‍♂️
@@ -896,7 +903,7 @@ Mir ist beim “Vermissen” nur immer aufgefallen:
 das ist total befreiend.
 dadurch übernimmt man verantwortung für sich selbst und lernt vom gedanken und den gefühlen jemandem anderen die Verantwortung für seine Gefühle zugeben abstand zunehmen
 
-## 25-12-19 Mutter, Arooj 
+## 25-12-19 Mutter, Arooj
 Ziemlich lustig...
 
 Meine Mutter rufte mich gerade an. 
@@ -971,7 +978,7 @@ Ich hab keine Kraft mehr für ihre Unbeständigkeit.
 Auch wenn das sehr sehr sehr schmerzt und ich weiß wie sehr es ihr schmerzt, weshalb es ja noch mehr schmerzt.
 
 Es ist ihre Entscheidung. Ich muss damit (über)leben.
-## 25-12-18 Arooj 
+## 25-12-18 Arooj
 Als Arooj ‘23 durch das eingerede ihrer Mutter und Schwester so einen Druck wegen Nachwuchs verspürt hat, habe ich ihr auch nochmal gesagt dass sie was Konflikte angeht erstmal selbst erwachsen werden muss, ich kann keine zwei Kinder erziehen. (Wortlaut war anders, eher indirekter und nicht in einer Botschaft)
 
 Das war ja der Grund für die Trennung auch wenn sie das nie zugeben würde. Sie hat ja stattdessen eine andere Geschichte gespinnt.
@@ -1108,7 +1115,7 @@ Ich hätte niemals zugelassen dass unseren Kindern die Haare abgeschnitten werde
 
 Man kann diesen Menschen nicht trauen, sie haben uns ständig etwas vor gelogen.
 
-## 25-12-14 erneuter Versuch Email an Arooj 
+## 25-12-14 erneuter Versuch Email an Arooj
 Meint ihr es wäre vielleicht ein Anfang, wenn ich Arooj eine Mail schreibe mit:
 
 Hallo liebe Arooj,
@@ -1340,8 +1347,8 @@ Da habe ich zu wenig ihre Herkunft und Erfahrungen berücksichtigt.
 
 
 
-## 25-12-10/11: Arooj hat mich auf Spotify blockiert 
-## Narzissmus 
+## 25-12-10/11: Arooj hat mich auf Spotify blockiert
+## Narzissmus
 https://www.ardaudiothek.de/episode/urn:ard:episode:6a15c06b35e2aff6/
 
 Joa also schon ziemlich Arooj.
@@ -1519,7 +1526,7 @@ Keine Ahnung ob sie auf der Adventsfeier vom bot. Garten ist.
 Egal 🤷‍♂️ ich gehe trotzdem hin und halte halt Abstand
 Mit mir zusammen Musik machen wollte sie und dann auch wieder nicht...
 - Arooj ist mir zum Glück mittlerweile echt <span style="color:coral">pups egal</span>
-## Umgang mit weiblichem Partner 
+## Umgang mit weiblichem Partner
 - https://youtu.be/M89JdPgsgwg?si=Z2nvtOUVKNpVSWIH
 	- emotionale Sicherheit 
 	- <span style="font-size:100%;color:red;">nicht tun:</span>
@@ -1527,8 +1534,8 @@ Mit mir zusammen Musik machen wollte sie und dann auch wieder nicht...
 		- minimieren: Problem nicht klein reden.
 		- ablenken: Gefühle wollen gefühlt werden. Ignorierte Gefühle schreien, gefühlte Gefühle flüstern. Raum geben. Was bereitet dir Sorgen? Aussprechen lassen was sie beschäftigt. Ihre Echten Gefühle verstehen. Körperliche Berührung hilft. (Wenn sie sie zulässt) Aktiviert parasympathicus, insbesondere wenn man selbst Ruhe ausstrahlt. Gelassenheit wirkt ansteckend und Beruhigend. Hat ja funktioniert (mit sehr schwer schwerer Anstrengung meinerseits) an dem Sonntag nach dem Konflikt mit dem Label. Eigene Anspannung verstärkt den Stress. (Ist eine große Last die auf Männern lastet...). Dann lieber sagen "ich merke dass ich selbst gerade gestresst bin, bitte gib mir 15 min, dann bin ich richtig für dich da.". Konflikte werden weniger persönlich, wenn man die emotionale Sensibilität von Frauen versteht.
 		- emotionale Sicherheit ist erlernbar 
-## 25-12-07 
-### chat mit bilge zu Angi 
+## 25-12-07
+### chat mit bilge zu Angi
 
 Ist nicht nur ein Gefühl 😉.
 
@@ -1561,7 +1568,7 @@ Darf ich nicht vergessen.
 
 Da muss ich weiter an meinem stolz arbeiten
 
-## zu meinen Analysen 
+## zu meinen Analysen
 💯
 Ich weiß dass du das nicht böse nimmst.
 Ich hab ja auch nix böses gesagt und erst Recht nicht gemeint.😉
@@ -1582,7 +1589,7 @@ Denn die Wahrheit ist die größte Beleidigung.
 War im Hinblick auf sie vielleicht nicht schlau.
 Aber 🤷‍♂️, so bin ich halt, warum sollte ich irgendwie Drumherum reden
 
-# Familie 
+# Familie
 - 
 # Psychiater
 - körperlich sehr häufig gestresst 
@@ -1848,11 +1855,11 @@ Den hat das natürlich nicht interessiert.
 Warum auch.. ist ja sein Geld und ich hab ja auch immer etwas getan gehabt..
 
 # Bonelli
-## YT Kommentar 25-12-7 
+## YT Kommentar 25-12-7
 https://www.youtube.com/watch?v=gOr9PYTv2P4&t=1908s
 Ich kann das Dilemma sehr nachvollziehen, auch aus eigener Erfahrung in mehrfacher Hinsicht. Daher finde ich unser jetziges System einfach immer noch das BESTE, nach Stand der Wissenschaft, der Trendentwicklung in der Psychologie und Psychiatrie und auch der gesellschaftlichen Entwicklung. Ich weiß aus meinen eigenen Psychiatrieaufenthalten - zum Glück nur kurz - wie schwierig die Gradwanderung zwischen förderlichen und unförderlichen Zwangsentscheidungen/Handlungen ist. Da Böswilligkeit oder dem system etwas negatives und makelbehaftetes unterstellen zu wollen, liegt mir fern. Es arbeiten da halt auch nur Menschen, die auch nur studiert und etwas gelernt haben und auch mit den vielen äußeren Zwängen des Systems und ihren eigenen Limits zu kämpfen haben. Ich weiß dass mir gewisse Zwangsmaßnahmen - Zeit auf der Geschlossenen, auch mit den vielen Einschränkungen drumherum und dem Gefühl jetzt irgendwie als "Täter" behandelt zu werden, dabei war es nur Eigenschutz - sehr gut getan haben und mir das auch durch Demut und durch diese für mich als "strafe" (die keine war) empfundene Maßnahme, schon währenddessen klar wurde. Ich weiß allerdings auch wie unschön es ist Antipsychotika / Neuroleptika zu bekommen, wenn es kontraindiziert ist - war einfach "nur" eine stress und durch schwere depressionen induzierte depersonalisations/derealisations/dissoziations erfahrung. Ich bin ja auf eigenen Wunsch ins Krankenhaus gegangen, - beim ersten mal ganz klar und bewusst und beim zweiten mal war ich in der Rückschau schon in der Notaufnahme im dissoziierten Zustand. Ich habe dort auch Patienten mit Psychose erlebt, die aufgrund von Zwangsmaßnahmen dann eine Zeit "verschwunden" waren, da sie fixiert werden mussten. Ich habe auch sehr junge Leute erlebt, die durch das angesprochene Cannabis psychotisch wurden und bei denen die Zwangsmaßnahmen extrem wichtig waren und geholfen haben. Das Cannabis ist heutzutage ja so stark, dass es überhaupt nicht mehr zu vergleichen ist, mit dem was in den 60igern und 70igern konsumiert wurde und auch nicht mit dem was ich in meinem frühen Erwachsenenalter mal probiert habe. Dann habe ich Straftäter in der eigenen Nachbarschaft - ich war auch Leidtragender - erlebt, bei denen die Zwangsmaßnahmen zu gering ausfielen. Das erlebt man ja auch immer wieder in den Medien durch Fälle die zb. (abgelehnte) Asylbewerber betreffen - Aschaffenburg, Brokstedt, uvm. Und dann gibt es wieder Einzelfälle bei denen Menschen viel zu lange und trotz der Bemühungen der Familien "zu Unrecht" auf Jahre in der Forensik gehalten werden. Ich habe auch Stigmatisierung durch erhaltene Fehldiagnosen - vorläufige Entlassbriefe - erlebt, die auch trotz der Revidierungen in mir lange nachgehallt und auch so nie ganz getilgt werden können. Es ist und bleibt dennoch das beste System was wir haben! Und ich bin dankbar dafür. Es tut sich ja auch etwas. Wir irren uns empor, wie Harald Lesch zu sagen pflegt. Wir Menschen sind nunmal fehlbar, also auch unsere Systeme. Das ist aber auch ok. Das gehört zur Demut dazu. Danke für Ihre Arbeit. - Bitte verzeiht mir meine Rechtschreibfehler, ich achte nicht so gerne auf Groß/Kleinschreibung. Und für korrekte Zeichensetzung bin ich bei YT auch etwas zu faul xD, ich weiß ich trage damit zur Unkultur bei, ich gelobe Besserung -
 
-# Einzel Themen/Ereignisse 
+# Einzel Themen/Ereignisse
 
 ## Folienerstellen, Versuch konzentriert im hier und jetzt zu arbeiten, Suche nach Aroojs Thesis Folien
 
@@ -1882,7 +1889,7 @@ Jetzt ist mir das gar nicht bzw. so für ein halbe Minute bis maximal 2 min pass
 Dabei nehme ich seit fast 2 Wochen kein Medikament. 🤯🥳
 
 
-## Nähmaschine 
+## Nähmaschine
 
 
 ### 25-12-08 Chat mit Bilge
