@@ -210,6 +210,7 @@ Für große Reichweite (Android): Beginne mit Kotlin.
 Für Apple-Nutzer: Swift ist der Standard.
 Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (JavaScript) sind gute Optionen. 
 ## DATAPROTECT 
+- [ ] power shell kurs für visual studio code
 - [ ] <span style="font-size:100%;color:red">mich gut in Coreview einarbeiten, da ich ab nächsten jahr mehr mit coreview zusammenarbeiten werde</span>
 - [ ] bräuchten Soft fail bei den workflows
 - [ ] if closes in den Workflows anschauen
