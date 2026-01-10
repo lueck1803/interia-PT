@@ -1,13 +1,13 @@
 # unsortiert
 - [ ] rotkohl verarbeiten
-- [ ] Loch im grünen Shirt flicken 
-- [ ] Bettwäsche wechseln 
+- [x] Loch im grünen Shirt flicken 
+- [x] Bettwäsche wechseln 
 - [x] wie geht's den Kartoffeln?
-	- [ ] ⟹ sieht ganz gut aus
+	- [x] ⟹ sieht ganz gut aus
 - [x] Decke waschen 
-- [ ] Zählerstand eintragen 
-- [ ] Erbsen kochen
-- [ ] Töpfe in Spülmaschine 
+- [x] Zählerstand eintragen 
+- [x] Erbsen kochen
+- [x] Töpfe in Spülmaschine 
 - [ ] custom action bauen 
 - [x] staubsaugen 
 - [x] Basilikum aussäen 
