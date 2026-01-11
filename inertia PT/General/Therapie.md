@@ -1630,7 +1630,11 @@ Aber 🤷‍♂️, so bin ich halt, warum sollte ich irgendwie Drumherum reden
 - ich würde gerne mal elvanse ausprobieren
 - Keine Charakterveränderung
 - mph ist langzeitwirkung
-- 
+- mir ging es ganz gut und ich kam gut klar. Ich war aber auch die meiste Zeit alleine
+- wenn ich dann unter Leuten war, war ging meine Aufmerksamkeit echt in den Keller, da habe ich dann echt Schwierigkeiten gehabt meine executive Funktionen aufrecht zu erhalten 
+- extrem schlechtes kurzzeit Gedächtnis gehabt 
+- da hat das Medikament dann echt gezeigt wie sehr es mir solche Situationen erleichtert hat und ich mich dann einfach normal fühlen konnte. Nicht extrem viel Energie darauf verwenden musste die auswelt Geräusche auszublenden.
+- ist ja alles durch die Achtsamkeit und das achten auf s hlextrem viel
 ## Erst Vorstellung
 - körperlich sehr häufig gestresst 
 	- ein Gefühl im ganzen Körper
