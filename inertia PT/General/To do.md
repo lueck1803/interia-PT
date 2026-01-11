@@ -235,8 +235,8 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 # Papierkram
 - [ ] Rundfunkbeitrag 
 - Stromablesung 
-	- [ ] Termin 26-01-09
-	- [ ] online eintragen 
+	- [x] Termin 26-01-09
+	- [x] online eintragen 
 - [x] AOK KK Karte und Zeug einheften
 - [x] Patientenakte abholen/besorgen
 - [x] wbs legal einheften
