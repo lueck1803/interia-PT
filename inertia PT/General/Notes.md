@@ -1,4 +1,4 @@
-<span style="font-size:100%;color:red;">test</span>
+
 # Nachrichten an Leute
 ## 25-12-26 Anna-Sophia
 Ich musste meinen Wert kennen lernen und lernen Grenzen aufzuzeigen. Dass ich Jahre lang zu viel mit gemacht habe. 
