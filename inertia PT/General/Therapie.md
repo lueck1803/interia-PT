@@ -643,6 +643,7 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 
 
 # Beziehung
+[Bonelli: Beziehungsanleitung](https://youtu.be/-z5bdX7DOxQ?si=ULYuX_eM5V5Yu0XX)
 
 [Bonelli: Kopf Herz und Bauch - kurz](https://youtu.be/_8aKhwJzTTM?si=8olx0XTKGQmNcbdZ)
 ## 25-12-27
