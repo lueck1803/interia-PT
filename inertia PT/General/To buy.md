@@ -1,17 +1,18 @@
 - [ ] metall+Kunststoff Trinkhalme Aldi falls billiger
+- [ ] Haferflocken
+- [ ] Müsli 
 - [x] Bananen 
 - [x] Zwiebeln 
 	- [x] gelb
 	- [x] rot
-- [ ] Müsli 
-- [ ] Hafermilch 
+- [x] Hafermilch 
 - [x] Fusili 
 - [x] bier
 
 # non food
 - [ ] kleinen Schneebesen 
 - [ ] Mehrfachsteckdose für nähtisch
-- [ ] Papierklammern 
+- [x] Papierklammern 
 - [x] Gärkorb
       ⟹<span style="font-size:100%;color:gold;">ne unwichtig</span> <span style="font-size:100%;color:red;">Ablenkung</span>
 - [x] Schmortopf (wie es den mal im Aldi gab unteranderem zum Brotbacken)
