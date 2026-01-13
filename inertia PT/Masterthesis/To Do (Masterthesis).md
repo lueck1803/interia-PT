@@ -481,4 +481,8 @@ Stokes-Einstein relation $D=\mu k_BT$
 - P.2; **Underdamped Langevin model.**:
    Owing to the strong non-equilibrium nature of the system, the diffusion and damping constants are not related by the Stokes-Einstein relation
   
-- The long-time diffusion coefficient of passive particles is independent of inertia and is related to the friction coefficient via the Stokes−Einstein relation. However, for actively moving particles we find an explicit dependence on the moment of inertia (with no explicit dependence on the total mass M) 
+- P.5-6 **Discussion:**
+   The long-time diffusion coefficient of passive particles is independent of inertia and is related to the friction coefficient via the Stokes−Einstein relation. However, for actively moving particles we find an explicit dependence on the moment of inertia (with no explicit dependence on the total mass M) 
+
+### [Lei2020|]()
+- P
