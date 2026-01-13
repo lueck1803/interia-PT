@@ -1,5 +1,6 @@
 # unsorted tasks
 - [ ] what is my peclet number for my current simulations?
+		- [ ] $Pe=\frac{v_{0}}{D_{r}\sigma}\propto \frac{\tau_{p}}{\tau_{c}\varphi}$ 
 - [ ] Exponenten neu auswerten -> neu/getrennt abspeichern / backup der alten 
 	- [ ] ⟹und gescheit in die Folien packen
 - [ ] Quellen für Folien
