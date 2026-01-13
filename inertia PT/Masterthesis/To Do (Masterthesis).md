@@ -487,4 +487,4 @@ Stokes-Einstein relation $D=\frac{k_BT}{6 \pi \eta r}$ with $\gamma=\frac{\zeta}
 ### [Lei2020|]()
 - P.2 Result ⟹ **Model**:
 	 For simplicity, we set $\gamma_{t}=\frac{\gamma_{r}}{\sigma^2}$ 
-- 
+- E44D0A
