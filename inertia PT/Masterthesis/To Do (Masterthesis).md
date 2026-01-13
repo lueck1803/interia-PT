@@ -485,4 +485,6 @@ Stokes-Einstein relation $D=\mu k_BT$
    The long-time diffusion coefficient of passive particles is independent of inertia and is related to the friction coefficient via the Stokes−Einstein relation. However, for actively moving particles we find an explicit dependence on the moment of inertia (with no explicit dependence on the total mass M) 
 
 ### [Lei2020|]()
-- P
+- P.2 Result ⟹ **Model**:
+	 For simplicity, we set $\gamma_{t}=\frac{\gamma_{r}}{\sigma^2}$ 
+- 
