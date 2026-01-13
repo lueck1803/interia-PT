@@ -475,11 +475,11 @@ This is old from 2009
 ### Supplement
 diffusion coefficients ($D_r$ and $D_t$) and friction coefficients ($γ_r$ and $γ_t$) are not related by the Stokes-Einstein relation. Thus, for simplicity, we choose $γ_t = γ_r/σ^2$ .
 
-Stokes-Einstein relation $D=\mu k_BT$ 
+Stokes-Einstein relation $D=\frac{k_BT}{6 \pi \eta r}$ with $\gamma=\frac{\zeta}{m}$
 
 ### [Scholz2018 | Inertial delay of self-propelled particles | Nature Communications](https://www.nature.com/articles/s41467-018-07596-x)
 - P.2; **Underdamped Langevin model.**:
-   Owing to the strong non-equilibrium nature of the system, the diffusion and damping constants are not related by the Stokes-Einstein relation
+   Owing to the strong non-equilibrium nature of the system, the <span style="font-size:100%;color:green;">diffusion and damping constants</span> are <span style="font-size:100%;color:red;">not related</span> by the Stokes-Einstein relation
   
 - P.5-6 **Discussion:**
    The long-time diffusion coefficient of passive particles is independent of inertia and is related to the friction coefficient via the Stokes−Einstein relation. However, for actively moving particles we find an explicit dependence on the moment of inertia (with no explicit dependence on the total mass M) 
