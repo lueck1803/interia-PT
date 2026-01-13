@@ -1,4 +1,5 @@
 # unsorted tasks
+- [ ] what is my peclet number for my current simulations?
 - [ ] Exponenten neu auswerten -> neu/getrennt abspeichern / backup der alten 
 	- [ ] ⟹und gescheit in die Folien packen
 - [ ] Quellen für Folien
