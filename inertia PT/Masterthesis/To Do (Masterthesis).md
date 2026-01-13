@@ -172,7 +172,7 @@ new branch ⟹ fss_ppphta_ebox-fit-in-pp
 - [ ] test new code / cleaned code, after square_box split was moved to  box_to_rectangle
 - [ ] compare the densities / particle numbers of squarebox split and not split
 - [ ] **Dict to csv**
-    ``` python
+    ```python
     import csv  
     
     cars = [     {"Brand": "Toyota", "Model": "Corolla", "Year": 2020},     {"Brand": "Honda", "Model": "Civic", "Year": 2019},     {"Brand": "Ford", "Model": "Focus", "Year": 2018} ]  
@@ -188,7 +188,7 @@ new branch ⟹ fss_ppphta_ebox-fit-in-pp
 			     writer = csv.DictWriter(file, fieldnames=fieldnames)
 			     writer.writeheader()  # Write header row    
 			     writer.writerows(cars)  # Write data rows   
-        ``` 
+    ``` 
 
 - [ ] https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html
 	- [ ] https://pandas.pydata.org/docs/reference/api/pandas.unique.html
@@ -430,20 +430,20 @@ flowchart TB
 	- $\tau_{R}$ represents characteristic reorientation/persistence time (or inverse rotational diffusion) $\tau_{R}=\frac{1}{D_{R}}$, $D_{R}=\frac{k_{B}T_{b}}{\gamma_{r}}$, $[D_{t}]=\frac{m^{2}}{s}$ $[D_{R}]=\frac{1}{s}$ $\gamma_{r,\text{sphere}}=8 \pi \eta R^{3}$, $\eta$ is the dynamic viscosity, $[\eta]=\frac{kg}{m s}$, $[k_{B}]=\frac{J}{K}$ 
 	- $St \equiv \tau_{M} \cdot \frac{1}{\tau_{R}} =\frac{m}{\gamma_{t}} \cdot D_{R}= \frac{m}{\gamma_{t}} \cdot \frac{k_{B}T_{b}}{\gamma_{r}}$ , $[St]=kg \cdot \frac{1}{s}$ 
 	- What are $\gamma_{t}$ , $\gamma_{r}$ and $T_{b}$ in my case? <span style="color:orange;font-size:100%;">lammps script</span>  
-		```python
-uu# use:: fix ID group-ID langevin/lh Tstart Tstop gamma_t seed alpha(=10*gamma_r/sigma^2/gamma_t) omega <yes/no> zero <yes/no> 
- ffix 	noise all langevin/lh 1.0 1.0 1.0 §seed 10 omega yes zero yes	# add Langevin thermostat (noise+friction)
-`````
-		```python
-cocompute	erot all erotate/sphere
-ththermo_style	custom step temp epair c_erot etotal press
-ttthermo		5000
-`````
-	  ![[Pasted image 20251118151512.png]]
-		- $\gamma_{t}=1$
-		- $\gamma_{r}$ 
-			- Since $\alpha=\frac{10 \gamma_{r}}{\sigma^{2}\gamma_{t}}=10$
-			- $\gamma_{r}=1 \cdot \sigma^{2}\gamma_{t}=1$  
+```python
+# use:: fix ID group-ID langevin/lh Tstart Tstop gamma_t seed alpha(=10*gamma_r/sigma^2/gamma_t) omega <yes/no> zero <yes/no> 
+fix 	noise all langevin/lh 1.0 1.0 1.0 §seed 10 omega yes zero yes	# add Langevin thermostat (noise+friction)
+``` 
+```python
+compute	erot all erotate/sphere
+thermo_style	custom step temp epair c_erot etotal press
+thermo		5000
+```
+![[Pasted image 20251118151512.png]]
+- $\gamma_{t}=1$
+- $\gamma_{r}$ 
+	- Since $\alpha=\frac{10 \gamma_{r}}{\sigma^{2}\gamma_{t}}=10$
+	- $\gamma_{r}=1 \cdot \sigma^{2}\gamma_{t}=1$  
 
 ## 25-12-2: Marcos2009~Separation of Microscale Chiral Objects by Shear Flow
 DOI: 10.1103/PhysRevLett.102.158103
