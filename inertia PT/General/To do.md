@@ -344,8 +344,12 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 	- [ ] Bananenschalen (bio) wasser 24h einweichen 
 - [x] carnivoren umsetzen 
 # Musik
-- [ ] Gitarre putzen 
+- [ ] füsilier alles üben
+- [ ] fresh fur 
+	- [ ] lead guitar 
+	- [ ] gesang die töne in guitar pro versuchen zu treffen 
 - [ ] Waffenbrüder Gitarre und Text
+	- [ ] solo üben
 	- [ ] Text stimme richtig üben
 - [ ] fresh fur lead Gitarre
 	- [ ] Anfang 
