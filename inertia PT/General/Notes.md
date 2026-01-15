@@ -576,11 +576,13 @@ Dann eine Runde rechts.
 
 Z12  R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12
 
-### Reihen nach Spickel 49 ~ 12,25 cm
+### Reihen nach Spickel 49 ~ 12,25 cm müssten 57~ 14,25cm werden für 46/47 
 R12  R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 (Zunahme 1M socke 1 am Ende)
 
 R (Zunahme 1M Socke 1 am Ende) 12 
-R12 R12 R12 R12 R12 R12 R12 R12 R12 R1
+R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 
+30 Reihen 
+R
 
 ## new try / Nadine
 
