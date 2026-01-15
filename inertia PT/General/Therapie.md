@@ -645,8 +645,13 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 # Beziehung
 [Bonelli Inneres Kind, der Narzisst im anderen](https://youtu.be/srNXcvQlDaU?si=5QZNF1Xy4umic2Ur)
 Arooj hat genau das wieder gemacht worüber ich mich ‘24 bzgl des Verhaltens des Vaters als Momo gestorben ist aufgeregt habe. Die Fremdbeschuldigung um von den eigenen Fehlern abzulenken. Mich zum Täter/Narzissten erklären und 0% Schuld bei sich zu sehen, das zeigt den wahren Narzissten. Du hast mich fertig gemacht. Ich war am Ende. Du bist was das angeht 1:1 wie dein Vater. Und da an dieser Stelle bist du einfach böse. Statt das zu erkennen und zu ändern, verkehrst und verdrehst du alles und ich bin der 100% Narzisst, damit du 0% Verantwortung trägst. Wie dein Vater. Und genau darüber habe ich mich '24, als das schmutzige Verhalten deiner Familie wieder geschehen ist und sich wieder das Übel des Verhaltens deiner in die offenbart hat. 
-Das hast du nie eins
-Dir kann man Buch
+Das hast du nie eingestehen können und das hat mich total fertig gemacht. Am Ende war ich immer der Böse.
+Das ist das krankhafte an deiner Familie.
+Dir und deiner Familie kann man nicht vertrauen. Ihr werdet narzisstisch gekränkt, so wie das häufig bei Muslimen ist, und ihr zerstört alles um euch herum. Viel Spaß dabei!
+Das habe ich klar gesagt ist untragbar mit Kindern und einer gemeinsamen finanziellen Zukunft. Aber das wolltest du nicht sehen! Stattdessen mich zum bösen gemacht und es auf die Pornographie geschoben. Du bist so ein spast.
+
+Dieses ganze assoziale Verhalten. Immer und immer wieder. 
+Nachdem ich
 
 
 [Bonelli: Beziehungsanleitung](https://youtu.be/-z5bdX7DOxQ?si=ULYuX_eM5V5Yu0XX)
