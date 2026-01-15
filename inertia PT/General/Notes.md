@@ -1,5 +1,8 @@
 
 # Nachrichten an Leute
+
+## 26-01-14
+Ja und ich hatte dir auch gesagt es wäre besser dass du möchtest dass ihr erstmal ein Gespräch führt bevor es um solche Entscheidungen geht oder du hättest sagen können, dass du das noch nicht sagen kannst
 ## 25-12-26 Anna-Sophia
 Ich musste meinen Wert kennen lernen und lernen Grenzen aufzuzeigen. Dass ich Jahre lang zu viel mit gemacht habe. 
 Ich hatte viele Barrieren in mir zu überwinden, um wieder zu heilen. Zu merken dass ich mir viel zu lange meine Deutungshoheit über mich, meine Taten und Identität habe nehmen lassen.
