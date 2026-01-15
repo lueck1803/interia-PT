@@ -644,7 +644,10 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 
 # Beziehung
 [Bonelli Inneres Kind, der Narzisst im anderen](https://youtu.be/srNXcvQlDaU?si=5QZNF1Xy4umic2Ur)
-Arooj hat genau das wieder gemacht worüber ich mich ‘24
+Arooj hat genau das wieder gemacht worüber ich mich ‘24 bzgl des Verhaltens des Vaters als Momo gestorben ist aufgeregt habe. Die Fremdbeschuldigung um von den eigenen Fehlern abzulenken. Mich zum Täter/Narzissten erklären und 0% Schuld bei sich zu sehen, das zeigt den wahren Narzissten. Du hast mich fertig gemacht. Ich war am Ende
+
+
+
 [Bonelli: Beziehungsanleitung](https://youtu.be/-z5bdX7DOxQ?si=ULYuX_eM5V5Yu0XX)
 
 [Bonelli: Kopf Herz und Bauch - kurz](https://youtu.be/_8aKhwJzTTM?si=8olx0XTKGQmNcbdZ)
