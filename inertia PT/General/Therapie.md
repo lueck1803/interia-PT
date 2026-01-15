@@ -651,7 +651,8 @@ Dir und deiner Familie kann man nicht vertrauen. Ihr werdet narzisstisch gekrän
 Das habe ich klar gesagt ist untragbar mit Kindern und einer gemeinsamen finanziellen Zukunft. Aber das wolltest du nicht sehen! Stattdessen mich zum bösen gemacht und es auf die Pornographie geschoben. Du bist so ein spast.
 
 Dieses ganze assoziale Verhalten. Immer und immer wieder. 
-Nachdem ich
+Nachdem ich deine Sachen zusammen gepackt hatte, hab ich dir genau das wieder gesagt dass du dich so verhalten hast und was machst du, verhältst dich wieder genauso 😂. Du bestätigst das immer und immer wieder. 
+Danke dass du mich blockiert hast und <span style="font-size:100%;color: lawngreen;">mich damit</span> <span style="font-size:100%;color:red;">vor dir</span> <span style="font-size:100%;color: lawngreen;">geschützt hast</span>
 
 
 [Bonelli: Beziehungsanleitung](https://youtu.be/-z5bdX7DOxQ?si=ULYuX_eM5V5Yu0XX)
