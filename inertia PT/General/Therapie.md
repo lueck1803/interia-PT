@@ -643,6 +643,8 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 
 
 # Beziehung
+[Bonelli Inneres Kind, der Narzisst im anderen](https://youtu.be/srNXcvQlDaU?si=5QZNF1Xy4umic2Ur)
+Arooj hat genau das wieder gemacht worüber ich mich ‘24
 [Bonelli: Beziehungsanleitung](https://youtu.be/-z5bdX7DOxQ?si=ULYuX_eM5V5Yu0XX)
 
 [Bonelli: Kopf Herz und Bauch - kurz](https://youtu.be/_8aKhwJzTTM?si=8olx0XTKGQmNcbdZ)
