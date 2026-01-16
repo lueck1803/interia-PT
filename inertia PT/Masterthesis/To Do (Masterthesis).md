@@ -1,5 +1,5 @@
 # unsorted tasks
-- [ ] 
+- [ ] use the model of hecht2021 ![](Pasted%20image%2020260116194755.png)
 - [ ] understand the **time scales**
 	- [ ] three different regimes
 - [ ] folie mit Suvendus Phasendiagramm vor den Binder cumulant Interpolations ⟹ werte raus schreiben 
