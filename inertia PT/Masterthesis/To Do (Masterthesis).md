@@ -476,7 +476,7 @@ This is old from 2009
 ### Supplement
 diffusion coefficients ($D_r$ and $D_t$) and friction coefficients ($γ_r$ and $γ_t$) are not related by the Stokes-Einstein relation. Thus, for simplicity, we choose $γ_t = γ_r/σ^2$ .
 
-Stokes-Einstein relation $D=\frac{k_BT}{6 \pi \eta r}$ with $\gamma=\frac{\zeta}{m}$
+Stokes-Einstein relation $D=\frac{k_BT}{6 \pi \eta r}$ with $\tau=\frac{\gamma}{m}$ the relaxation or persis
 
 ### [Scholz2018 | Inertial delay of self-propelled particles | Nature Communications](https://www.nature.com/articles/s41467-018-07596-x)
 - P.2; **Underdamped Langevin model.**:
