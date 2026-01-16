@@ -516,7 +516,7 @@ LAMMPS:
 Where this defines the selfpropulsion force $F_{i}=f_{p}e_{i}$ with the Magnitude $f_{p}=42.4264$ 
 $f_{p}=\gamma_{t}v_{0}$ 
 $\frac{\sigma}{\sqrt{ D_{r}D_{t} }}=1$ 
-$\varepsilon $
+$\frac{\varepsilon}{k_{B}T}=10$ ![](Pasted%20image%2020260117000418.png)
 $Pe=\frac{42.4264}{\sqrt{ 2 }}\sim 30$
 
 ## Buchkapitel [book:BookChapter](https://doi.org/10.48550/arXiv.2102.13007)
