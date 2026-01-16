@@ -510,8 +510,8 @@ Stokes-Einstein relation $D=\frac{k_BT}{6 \pi \eta r}$ with $\tau=\frac{\gamma}{
 ## Buchkapitel [book:BookChapter](https://doi.org/10.48550/arXiv.2102.13007)
 ### The different time scales
 1. The motion of  ABP is initially diffusive with a diffusion coefficient $D$ for $t\ll \frac{D}{v_{0}^2}$. 
-2. For $\frac{D}{v_{0}^2}\ll t\ll \tau_{p}$ a balistic regime comes about which represents directed motion due to activity of the particle. 
-3. Finally for $t\gg \tau_{p}$, the motion is again diffusive with an "active Diffusion coefficient" $D_{A}=D+\frac{l_{p}^2}{2\tau p}$
+2. For $\frac{D}{v_{0}^2}\ll t\ll \tau_{p}$ a ballistic regime comes about which represents directed motion due to activity of the particle. 
+3. Finally for $t\gg \tau_{p}$, the motion is again diffusive with an "active Diffusion coefficient" $D_{A}=D+\frac{l_{p}^2}{2\tau_{p}}$ 
 ![](Pasted%20image%2020260116152453.png)
 - The initial directed motion takes place over a distance $l_{p}=\frac{v_{0}}{D}$ for a persistence time $\tau_{p}=\frac{1}{D_{R}}$ 
 - $\Braket{\vec{r}_{i}(t)-\vec{r}_{i}(0)}=l_{p}\left( 1-e^{-t / \tau_{p}} \right)$ the average displacement of a ABP
