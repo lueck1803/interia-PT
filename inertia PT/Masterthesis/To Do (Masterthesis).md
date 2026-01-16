@@ -510,8 +510,9 @@ Stokes-Einstein relation $D=\frac{k_BT}{6 \pi \eta r}$ with $\tau=\frac{\gamma}{
 ## Buchkapitel [book:BookChapter](https://doi.org/10.48550/arXiv.2102.13007)
 ### The different time scales
 1. The motion of  ABP is initially diffusive with a diffusion coefficient $D$ for $t\ll \frac{D}{v_{0}^2}$. 
-2. For $\frac{D}{v_{0}^2}\ll t\ll \tau_{p}$ a balance regime comes about which represents directed motion due to activity of the particle. 
-Finally for $t\gg \tau_{p}$, the motion is again diffusive with an "active Diffusion coefficient" $D_{A}=D+\frac{l_{p}^2}{2\tau p}$
+2. For $\frac{D}{v_{0}^2}\ll t\ll \tau_{p}$ a balistic regime comes about which represents directed motion due to activity of the particle. 
+3. Finally for $t\gg \tau_{p}$, the motion is again diffusive with an "active Diffusion coefficient" $D_{A}=D+\frac{l_{p}^2}{2\tau p}$
+![](Pasted%20image%2020260116152453.png)
 
 ### The Péclet number
 
