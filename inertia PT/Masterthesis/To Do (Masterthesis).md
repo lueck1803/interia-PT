@@ -514,6 +514,7 @@ Stokes-Einstein relation $D=\frac{k_BT}{6 \pi \eta r}$ with $\tau=\frac{\gamma}{
 3. Finally for $t\gg \tau_{p}$, the motion is again diffusive with an "active Diffusion coefficient" $D_{A}=D+\frac{l_{p}^2}{2\tau p}$
 ![](Pasted%20image%2020260116152453.png)
 
+
 ### The Péclet number
 
 - The relative importance of activity in comparison with diffusion can be characterized by the **Péclet number**:
