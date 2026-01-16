@@ -508,6 +508,8 @@ Stokes-Einstein relation $D=\frac{k_BT}{6 \pi \eta r}$ with $\tau=\frac{\gamma}{
 -  $\tau_{p} = \frac{1}{D_{r}}$ 
 
 ⟹ $Pe \propto \frac{\tau_{p}}{\tau}$
+⟹ $Pe = \frac{v_{0}}{\sqrt{ 2D_{r}D_{t} }}$, $D_{t}=\frac{k_{B}T}{\gamma_{t}}$, $D_{r}=\frac{k_{B}T}{\gamma_{r}}$ 
+
 ## Buchkapitel [book:BookChapter](https://doi.org/10.48550/arXiv.2102.13007)
 ### The different time scales
 1. The motion of  ABP is initially diffusive with a diffusion coefficient $D$ for $t\ll \frac{D}{v_{0}^2}$. 
