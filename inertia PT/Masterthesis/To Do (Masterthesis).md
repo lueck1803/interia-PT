@@ -516,7 +516,7 @@ Stokes-Einstein relation $D=\frac{k_BT}{6 \pi \eta r}$ with $\tau=\frac{\gamma}{
 - The initial directed motion takes place over a distance $l_{p}=\frac{v_{0}}{D}$ for a persistence time $\tau_{p}=\frac{1}{D_{R}}$ 
 - $\Braket{\vec{r}_{i}(t)-\vec{r}_{i}(0)}=l_{p}\left( 1-e^{-t / \tau_{p}} \right)$ the average displacement of a ABP
 - An ABP moves on average over a distance $l_{p}$ along its initial orientation $\vec{p}(0)$ before it's orientation is randomized, which rationalizes the term "persistence length" for $l_{p}$ 
-- $\Braket{\left( \vec{r}_{i}(t)-\vec{r}_{i}(0) \right)^{2}}=2l_{p}^{2}\left( 1-e^{-t / \tau_{p}} \right)$ 
+- $\Braket{\left( \vec{r}_{i}(t)-\vec{r}_{i}(0) \right)^{2}}=2l_{p}^{2}\left( \frac{t}{\tau_{p}}-1+e^{-t / \tau_{p}} \right) +4Dt$ the mean square displacement of a ABP
 
 ### The Péclet number
 
