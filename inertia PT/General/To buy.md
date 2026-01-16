@@ -1,6 +1,7 @@
 - [ ] metall+Kunststoff Trinkhalme Aldi falls billiger
-- [ ] Haferflocken
+- [x] Haferflocken
 - [ ] Müsli 
+- [ ] Wattestäbchen 
 - [x] Bananen 
 - [x] Zwiebeln 
 	- [x] gelb
