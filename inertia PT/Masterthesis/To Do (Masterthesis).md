@@ -500,13 +500,14 @@ Stokes-Einstein relation $D=\frac{k_BT}{6 \pi \eta r}$ with $\tau=\frac{\gamma}{
 
 # What is my $Pe$ ?
 - $Pe=\frac{v_{0}}{D_{r}\sigma}\propto \frac{\tau_{p}}{\tau_{c}\varphi}$ 
-- 
 Stokes-Einstein relation $D=\frac{k_BT}{6 \pi \eta r}$ with $\tau=\frac{\gamma}{m}$ the relaxation or persistence time. For spherical particles of radius $r$ Stokes' law gives $\gamma = 6 \pi \eta r$. 
 - $\gamma_{t}=1$
 - $\gamma_{r}$ 
 	- Since $\alpha=\frac{10 \gamma_{r}}{\sigma^{2}\gamma_{t}}=10$
 	- $\gamma_{r}=1 \cdot \sigma^{2}\gamma_{t}=1$  
 -  $\tau_{p} = \frac{1}{D_{r}}$ 
+
+⟹ $Pe \propto \frac{\tau_{p}}{\tau}$
 ## Buchkapitel [book:BookChapter](https://doi.org/10.48550/arXiv.2102.13007)
 ### The different time scales
 1. The motion of  ABP is initially diffusive with a diffusion coefficient $D$ for $t\ll \frac{D}{v_{0}^2}$. 
@@ -521,4 +522,4 @@ Stokes-Einstein relation $D=\frac{k_BT}{6 \pi \eta r}$ with $\tau=\frac{\gamma}{
 ### The Péclet number
 
 - The relative importance of activity in comparison with diffusion can be characterized by the **Péclet number**:
-- $Pe=v_{0}\sqrt{ 2DD_{R} }$ ,$D=\frac{4}{3}R^2D_{R}$ $Pe=\frac{\sqrt{ \frac{3}{2} }v_{0}}{\sigma D_{R}}$ or $Pe=\frac{v_{0}\sigma}{\sqrt{ 6 }D}$
+- $Pe=v_{0}\sqrt{ 2DD_{R} }$ ,$D=\frac{4}{3}R^2D_{R}$, $Pe=\frac{\sqrt{ \frac{3}{2} }v_{0}}{\sigma D_{R}}$ or $Pe=\frac{v_{0}\sigma}{\sqrt{ 6 }D}$
