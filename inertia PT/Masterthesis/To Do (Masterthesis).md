@@ -513,7 +513,9 @@ Stokes-Einstein relation $D=\frac{k_BT}{6 \pi \eta r}$ with $\tau=\frac{\gamma}{
 $Pe = \frac{v_{0}}{\sqrt{ 2D_{r}D_{t} }}$, $D_{t}=\frac{k_{B}T}{\gamma_{t}}$, $D_{r}=\frac{k_{B}T}{\gamma_{r}}$ 
 LAMMPS: 
 ![](Pasted%20image%2020260116235234.png)
-
+Where this defines the selfpropulsion force $F_{i}=f_{p}e_{i}$ with the Magnitude $f_{p}=42.4264$ 
+$f_{p}=\gamma_{t}v_{0}$ 
+$Pe=$
 
 ## Buchkapitel [book:BookChapter](https://doi.org/10.48550/arXiv.2102.13007)
 ### The different time scales
