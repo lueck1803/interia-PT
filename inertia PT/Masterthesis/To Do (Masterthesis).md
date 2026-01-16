@@ -481,6 +481,8 @@ Stokes-Einstein relation $D=\frac{k_BT}{6 \pi \eta r}$ with $\tau=\frac{\gamma}{
 - $\gamma_{r}$ 
 	- Since $\alpha=\frac{10 \gamma_{r}}{\sigma^{2}\gamma_{t}}=10$
 	- $\gamma_{r}=1 \cdot \sigma^{2}\gamma_{t}=1$  
+-  $\tau_{p} = \frac{1}{D_{r}}$ 
+- $Pe=$
 
 ### [Scholz2018 | Inertial delay of self-propelled particles | Nature Communications](https://www.nature.com/articles/s41467-018-07596-x)
 - P.2; **Underdamped Langevin model.**:
