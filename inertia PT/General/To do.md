@@ -211,6 +211,7 @@ Für große Reichweite (Android): Beginne mit Kotlin.
 Für Apple-Nutzer: Swift ist der Standard.
 Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (JavaScript) sind gute Optionen. 
 ## DATAPROTECT 
+- [ ] coreview reports
 - [ ] power shell kurs für visual studio code
 - [ ] die<span style="font-size:100%;color:red;"> wichtigsten 5-10  </span> <span style="font-size:100%;color: lawngreen;">sinnvollen</span> policies auf gängigkeit überprüfen damit wir sie deployen können
 - [ ] <span style="font-size:100%;color:red">mich gut in Coreview einarbeiten, da ich ab nächsten jahr mehr mit coreview zusammenarbeiten werde</span>
