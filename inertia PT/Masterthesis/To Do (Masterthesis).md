@@ -500,6 +500,7 @@ Stokes-Einstein relation $D=\frac{k_BT}{6 \pi \eta r}$ with $\tau=\frac{\gamma}{
 - E44D0A
 
 # What is my $Pe$ ?
+![](Pasted%20image%2020260116235151.png)
 - $Pe=\frac{v_{0}}{D_{r}\sigma}\propto \frac{\tau_{p}}{\tau_{c}\varphi}$ [Mandal2019](https://doi.org/10.1103/physrevlett.123.228001) with the persistence time $\tau_{p}=\frac{1}{D_{r}}$, the packing fraction $\varphi$ and the Mean time between collisions $\tau_{c}=\frac{\pi \sigma}{4v_{0}\varphi}$ 
 Stokes-Einstein relation $D=\frac{k_BT}{6 \pi \eta r}$ with $\tau=\frac{\gamma}{m}$ the relaxation or persistence time. For spherical particles of radius $r$ Stokes' law gives $\gamma = 6 \pi \eta r$. 
 - $\gamma_{t}=1$
@@ -509,7 +510,10 @@ Stokes-Einstein relation $D=\frac{k_BT}{6 \pi \eta r}$ with $\tau=\frac{\gamma}{
 -  $\tau_{p} = \frac{1}{D_{r}}$ 
 
 ⟹ $Pe \propto \frac{\tau_{p}}{\tau}$
-$Pe = \frac{v_{0}}{\sqrt{ 2D_{r}D_{t} }}$, $D_{t}=\frac{k_{B}T}{\gamma_{t}}$, $D_{r}=\frac{k_{B}T}{\gamma_{r}}$ ⟹ $$
+$Pe = \frac{v_{0}}{\sqrt{ 2D_{r}D_{t} }}$, $D_{t}=\frac{k_{B}T}{\gamma_{t}}$, $D_{r}=\frac{k_{B}T}{\gamma_{r}}$ 
+LAMMPS: 
+![](Pasted%20image%2020260116235234.png)
+
 
 ## Buchkapitel [book:BookChapter](https://doi.org/10.48550/arXiv.2102.13007)
 ### The different time scales
