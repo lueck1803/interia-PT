@@ -518,6 +518,7 @@ $f_{p}=\gamma_{t}v_{0}$
 $\frac{\sigma}{\sqrt{ D_{r}D_{t} }}=1$ 
 $\frac{\varepsilon}{k_{B}T}=10$ ![](Pasted%20image%2020260117000418.png)
 $Pe=\frac{42.4264}{\sqrt{ 2 }}\sim 30$
+Kann aber laut Phasendiagramm von Suvendu nicht sein...
 
 ## Buchkapitel [book:BookChapter](https://doi.org/10.48550/arXiv.2102.13007)
 ### The different time scales
