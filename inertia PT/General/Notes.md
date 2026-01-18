@@ -47,6 +47,17 @@ Und da ist echt noch viel Luft nach oben.
 
 Und ich hab meine Pflichten zu erfüllen.
 
+Ich bin aber auch neugierig, ob ich es nicht schaffen kann meine Grenzen zu wahren.
+Aber ich glaube ich bin noch nicht so weit.
+
+---
+Hi Daniel,
+
+Ich musste erstmal überlegen welcher Daniel. Ich bin aber selbst drauf gekommen.
+
+So wie du es schreibst eröffnen sich, aber beantworten sich auch gleichzeitig viele Fragen.
+
+
 ## 26-01-14
 Ja und ich hatte dir auch gesagt es wäre besser dass du möchtest dass ihr erstmal ein Gespräch führt bevor es um solche Entscheidungen geht oder du hättest sagen können, dass du das noch nicht sagen kannst
 ## 25-12-26 Anna-Sophia
