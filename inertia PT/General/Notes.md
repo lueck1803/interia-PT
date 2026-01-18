@@ -53,7 +53,9 @@ Aber ich glaube ich bin noch nicht so weit.
 ---
 Hi Daniel,
 
-Ich musste erstmal überlegen welcher Daniel. Ich bin aber selbst drauf gekommen.
+Ich musste erstmal überlegen welcher Daniel. Ich bin dann aber gestern doch recht schnell drauf gekommen.
+
+Und seitdem am überlegen was und ob ich antworten soll.
 
 So wie du es schreibst eröffnen sich, aber beantworten sich auch gleichzeitig viele Fragen.
 
