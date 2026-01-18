@@ -36,7 +36,16 @@ Hat viel heraufbefördert, mich aber zum Glück nicht emotional belastet, eher K
 
 Obwohl ich echt gut durchgeschlafen habe, bin ich heute echt träge und nicht so agil.
 
-Ich bin nicht der Typ der 
+Ich bin nicht der Typ der nicht antwortet, ich weiß das lässt mich nicht los und irgendwie fühle ich mich dann auch als schlechten Menschen.
+
+Ich möchte aber nicht geistig in diese Sphären abtauchen.
+Ich hab genug von geistigen menschlichen Abgründen.
+Das frisst zu viel Kapazität von mir.
+
+Ich will Ordnung in meinem Leben und in mir drin. 
+Und da ist echt noch viel Luft nach oben. 
+
+Und ich hab meine Pflichten zu erfüllen.
 
 ## 26-01-14
 Ja und ich hatte dir auch gesagt es wäre besser dass du möchtest dass ihr erstmal ein Gespräch führt bevor es um solche Entscheidungen geht oder du hättest sagen können, dass du das noch nicht sagen kannst
