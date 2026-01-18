@@ -1,5 +1,42 @@
 
 # Nachrichten an Leute
+## 26-01-18
+Hmm gestern hat mir jemand geschrieben den ich aus dem Krankenhaus kenne. 
+
+Musste erst rätseln wer das ist, da er sich nur als Daniel vorgestellt hat. 
+
+Er hat zusammen mit einer die auch damals zusammen mit uns auf der Station war ein Kind. 
+
+Sind '24 zusammen nach Heppenheim gezogen.
+
+Ich hatte mich mit seiner Partnerin in der Klinik und danach sehr gut verstanden. 
+Arooj und ich waren auch zu Besuch.
+Bei deren Einweihungsfeier '24 war ich nicht, zu paralysiert.
+
+Ich hatte mit ihm jetzt nie so viel Gesprächsbasis.
+
+Aufgrund seiner Nachricht kann offenbart er schon so viele Infos die ich nicht mehr nachfragen muss.
+
+Dass er jetzt ausgerechnet mir schreibt.
+Ist auch selbst erklärend. Er weiß dass ich mit seiner Partnerin gut konnte, vielleicht will er Rat oder Vermittlung.
+Prinzipiell wird das der Grund sein. 
+Auf anderer Ebene verbindet uns nur der Aufenthalt in der Klinik und seine (vermutlich Ex) Partnerin.
+
+Er ist der Typ Mann der so häufig ist. Relativ schlichtes Gemüt, mit dem typischen Klischee Interessen Spektrum, auf das ich nicht so Bock habe. Generell hat die beiden auf geistiger Ebene eher nicht viel verbunden.
+Sie hat intellektuell eher auf ihn herabgeblickt 🫣, was ich ihr gesagt habe dass das nicht gut ist. 
+
+Ich hab schon zu viel "Mann" gerade in meinem aktuellen Umgang (Mischa und Bilge).
+
+Geistig hab ich auch gerade gar keine Kapazitäten. Das hätte ich ihm auch gerne so mitgeteilt.
+
+Ich versuche mich jetzt schon von bilge etwas zurück zu ziehen, da es mir zu viele Kapazitäten genommen hat. 
+
+Der Chat gestern mit Sandra der so auch nicht in meinen Plan gepasst hat, war energetisch nicht ganz spurlos an mir vorbei gegangen.
+Hat viel heraufbefördert, mich aber zum Glück nicht emotional belastet, eher Klarheit gebracht.
+
+Obwohl ich echt gut durchgeschlafen habe, bin ich heute echt träge und nicht so agil.
+
+Ich bin nicht der Typ der 
 
 ## 26-01-14
 Ja und ich hatte dir auch gesagt es wäre besser dass du möchtest dass ihr erstmal ein Gespräch führt bevor es um solche Entscheidungen geht oder du hättest sagen können, dass du das noch nicht sagen kannst
