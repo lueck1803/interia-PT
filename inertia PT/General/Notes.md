@@ -66,6 +66,9 @@ Und statt, dass ich dir die oben erwähnten Fragen stelle, würde ich dich bitte
 Vielleicht als zentrale Frage, die wörtlich und ernst gemeint ist und nicht als Vorwurf:
 "Was hast du dir dabei gedacht mir zu schreiben? Was ist deine Vorstellung und Erwartung?"
 
+Liebe Grüße 
+Lukas
+
 
 ## 26-01-14
 Ja und ich hatte dir auch gesagt es wäre besser dass du möchtest dass ihr erstmal ein Gespräch führt bevor es um solche Entscheidungen geht oder du hättest sagen können, dass du das noch nicht sagen kannst
