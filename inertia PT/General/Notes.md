@@ -15,7 +15,7 @@ Bei deren Einweihungsfeier '24 war ich nicht, zu paralysiert.
 
 Ich hatte mit ihm jetzt nie so viel Gesprächsbasis.
 
-Aufgrund seiner Nachricht kann offenbart er schon so viele Infos die ich nicht mehr nachfragen muss.
+Aufgrund seiner Nachricht offenbart er schon so viele Infos die ich nicht mehr nachfragen muss.
 
 Dass er jetzt ausgerechnet mir schreibt.
 Ist auch selbst erklärend. Er weiß dass ich mit seiner Partnerin gut konnte, vielleicht will er Rat oder Vermittlung.
