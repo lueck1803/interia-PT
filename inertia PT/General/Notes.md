@@ -1,6 +1,7 @@
 
 # Nachrichten an Leute
 ## 26-01-18
+
 Hmm gestern hat mir jemand geschrieben den ich aus dem Krankenhaus kenne. 
 
 Musste erst rätseln wer das ist, da er sich nur als Daniel vorgestellt hat. 
