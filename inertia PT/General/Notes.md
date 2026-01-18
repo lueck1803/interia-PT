@@ -1,6 +1,7 @@
 
 # Nachrichten an Leute
 ## 26-01-18
+#
 ### Sandra possible Answer in discord 
 After reading this, I think I was too judgy to myself with my retrospection yesterday.
 
@@ -83,6 +84,16 @@ Und ich hab meine Pflichten zu erfüllen.
 
 Ich bin aber auch neugierig, ob ich es nicht schaffen kann meine Grenzen zu wahren.
 Aber ich glaube ich bin noch nicht so weit.
+
+---
+Generell hat die beiden auf geistiger Ebene eher nicht viel verbunden.
+Sie hat intellektuell eher auf ihn herabgeblickt 🫣, was ich ihr gesagt habe dass das nicht gut ist. 
+
+Sie hat da auch dran gearbeitet. 
+
+Aber 🤷‍♂️.
+'22 war in in der Klinik.
+'23 haben sie glaube ich das Kind bekommen. Alles etwas zu schnell.
 
 ---
 Hi Daniel,
