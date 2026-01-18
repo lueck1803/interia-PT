@@ -57,7 +57,14 @@ Ich musste erstmal überlegen welcher Daniel. Ich bin dann aber gestern doch rec
 
 Und seitdem am überlegen was und ob ich antworten soll.
 
-So wie du es schreibst eröffnen sich, aber beantworten sich auch gleichzeitig viele Fragen.
+So wie du es schreibst eröffnen sich, aber es beantworten sich auch gleichzeitig viele Fragen.
+
+Zeit und Kapazitäten habe ich momentan nicht mich zu treffen. 
+
+Und statt, dass ich dir die oben erwähnten Fragen stelle, würde ich dich bitten diese von dir aus ohne die Fragen zu beantworten.
+
+Vielleicht als zentrale Frage, die wörtlich und ernst gemeint ist und nicht als Vorwurf:
+"Was hast du dir dabei gedacht mir zu schreiben? Was ist deine Vorstellung und Erwartung?"
 
 
 ## 26-01-14
