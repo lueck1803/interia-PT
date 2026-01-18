@@ -1,7 +1,31 @@
 
 # Nachrichten an Leute
 ## 26-01-18
-#
+### nicht versendete Nachricht an flo
+Es gibt definitiv Songs bei denen ich "Unbehagen/ Zweifel“ verspüre, ob hier nicht gerade eine spur Glorifizierung drin steckt.
+
+Im Kontext des Liedes und wenn man weiß welchen Ursprung dieses hat, verschwindet das auch ohne dass man die Intention der Band kennt die sie äußeren.
+
+Für deutsche löst das deskriptive im militärischen schon häufig das Gefühl aus dass das falsch, glorifizierend und am besten direkt Nazi Ideologie ist. 
+
+Für manche ist es auch schon falsch Soldatenschicksale zu beschreiben um dem Leid des Individuums welche in ihrer schieren masse nicht mal eine Zahl sind, irgendwie einen Nachhall zu geben. 
+
+Im ersten Weltkrieg waren Hundert Menschen ja nichts. 
+
+Und so sind die Feldherren auf allen Seiten damit umgegangen.
+
+Ich finde auch dass heutzutage viel zu herablassend über Soldaten dieser Zeit geredet wird. 
+
+Mit dem Blick und den Informationen von heute ist das immer alles ganz klar und einfach.
+
+Auch wenn der 1. WK zeitlich so weit entfernt scheint.
+
+Die Spuren sind noch sehr gut in der Landschaft zu sehen.
+
+In den Gebieten der Westfront werden auf dem Acker immer noch Granaten gefunden.
+
+Und im Hinblick auf zb der Ukraine oder aber noch extremer im Sudan, wo man sich auch an Zahlen gewöhnt 
+
 ### Sandra possible Answer in discord 
 After reading this, I think I was too judgy to myself with my retrospection yesterday.
 
