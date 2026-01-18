@@ -149,8 +149,7 @@ Ich musste erstmal überlegen welcher Daniel. Ich bin dann aber gestern doch rec
 
 Zeit und Kapazitäten habe ich momentan nicht mich zu treffen. 
 
-Mir eröffnen sich aus deiner Nachricht direkt einige Fragen 
-eröffnen sich, aber es beantworten sich auch gleichzeitig viele Fragen.
+Mir eröffnen sich aus deiner Nachricht direkt einige Fragen.
 Magst du mir nicht, statt dass ich dich das alles Frage, einfach erzählen, was passiert ist?
 
 Liebe Grüße 
