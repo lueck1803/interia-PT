@@ -142,6 +142,19 @@ Alternativ könnte ich die Formulierung des vorletzten Absatzes umschreiben in:
 
 "Magst du mir nicht, statt dass ich dich das alles Frage, einfach erzählen, was passiert ist?"
 
+---
+Hi Daniel,
+
+Ich musste erstmal überlegen welcher Daniel. Ich bin dann aber gestern doch recht schnell drauf gekommen.
+
+Zeit und Kapazitäten habe ich momentan nicht mich zu treffen. 
+
+Mir eröffnen sich aus deiner Nachricht direkt einige Fragen 
+eröffnen sich, aber es beantworten sich auch gleichzeitig viele Fragen.
+Magst du mir nicht, statt dass ich dich das alles Frage, einfach erzählen, was passiert ist?
+
+Liebe Grüße 
+Lukas
 
 ## 26-01-14
 Ja und ich hatte dir auch gesagt es wäre besser dass du möchtest dass ihr erstmal ein Gespräch führt bevor es um solche Entscheidungen geht oder du hättest sagen können, dass du das noch nicht sagen kannst
