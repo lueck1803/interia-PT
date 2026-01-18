@@ -1,7 +1,40 @@
 
 # Nachrichten an Leute
 ## 26-01-18
+### Sandra possible Answer in discord 
+After reading this, I think I was too judgy to myself with my retrospection yesterday.
 
+"Haunted by guilt"😆 
+
+I tried to manage the situation and
+Over explained, as always.
+Very energy consuming.
+
+I am a bit curious about what you think now about the situation.
+
+I wanted to hunt less and had more fun in helping people.
+
+I tried to offer you conversations about topics beside this hunting topic and away from these invisible issues that came about. I wanted to be honest and don't dumb you.
+
+I was annoyed by these issues that came about through this game. 
+
+Arooj was eager to get more XP.
+I think this was ok. 
+She wanted to have success. That's her. She is following her goals.
+
+That's good. 
+
+I was also too slow for this game at some point, because I was annoyed, but she wanted me to stay and play with her.
+
+I said to her that it's ok when she's playing with others.
+
+Later she pulled me in again, I was also a bit curious and eager to overcome my blockages. It worked for a while.
+I played with her and her polish friends.
+I kept up with it and got better.
+But I had other goals in life that I was struggling with.
+
+I was stressed and troubled about that she was able to still meet these goals.
+### Thema Daniel 
 Hmm gestern hat mir jemand geschrieben den ich aus dem Krankenhaus kenne. 
 
 Musste erst rätseln wer das ist, da er sich nur als Daniel vorgestellt hat. 
