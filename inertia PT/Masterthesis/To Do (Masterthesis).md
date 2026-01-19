@@ -1,10 +1,11 @@
 # unsorted tasks
 - [ ] use the model of hecht2021 ![](Pasted%20image%2020260116194755.png)
-- [ ] understand the **time scales**
-	- [ ] three different regimes
+	- [ ] 
+- [x] understand the **time scales**
+	- [x] three different regimes
 - [ ] folie mit Suvendus Phasendiagramm vor den Binder cumulant Interpolations ⟹ werte raus schreiben 
-- [ ] what is my peclet number for my current simulations?
-	 - [ ] $Pe=\frac{v_{0}}{D_{r}\sigma}\propto \frac{\tau_{p}}{\tau_{c}\varphi}$ 
+- [x] what is my peclet number for my current simulations?
+	 - [x] $Pe=\frac{v_{0}}{D_{r}\sigma}\propto \frac{\tau_{p}}{\tau_{c}\varphi}$ 
 - [ ] Exponenten neu auswerten -> neu/getrennt abspeichern / backup der alten 
 	- [ ] ⟹und gescheit in die Folien packen
 - [ ] Quellen für Folien
