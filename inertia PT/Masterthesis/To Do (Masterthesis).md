@@ -1,6 +1,6 @@
 # unsorted tasks
 - [ ] use the model of hecht2021 ![](Pasted%20image%2020260116194755.png)
-	- [ ] $m d \frac{\vec{v}_{i}}{dt} = -\gamma_{t}\vec{v}_{i}+\gamma_{t}v_{0}\hat{p}_{i}-\sum^{N}_{\begin{matrix}j=1\\ j\ne i\end{matrix}}$ 
+	- [ ] $m d \frac{\vec{v}_{i}}{dt} = -\gamma_{t}\vec{v}_{i}+\gamma_{t}v_{0}\hat{p}_{i}-\sum \lim^{N}_{\begin{matrix}j=1\\ j\ne i\end{matrix}}$ 
 - [x] understand the **time scales**
 	- [x] three different regimes
 - [ ] folie mit Suvendus Phasendiagramm vor den Binder cumulant Interpolations ⟹ werte raus schreiben 
