@@ -221,7 +221,7 @@ Tage produktiv gewesen:
 ||||/ ||||/ ||||/ ||||/
 ||||/ ||||/ ||||/ ||||/
 ||||/ ||||/ ||||/ ||||/
-||||/ ||
+||||/ |||
 
 
 # Backen und kochen
@@ -736,7 +736,7 @@ R12  R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 (Zu
 R (Zunahme 1M Socke 1 am Ende) 12 
 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 
 30 Reihen 
-R12 R
+R12 R1
 
 ## new try / Nadine
 
