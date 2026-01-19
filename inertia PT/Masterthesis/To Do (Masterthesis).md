@@ -1,7 +1,7 @@
 # unsorted tasks
 - [ ] use the model of hecht2021 ![](Pasted%20image%2020260116194755.png)
-	- [ ] $$m  \frac{d\vec{v}_{i}}{dt} = -\gamma_{t}\vec{v}_{i}+\gamma_{t}v_{0}\hat{p}_{i}-\sum \limits^{N}_{\begin{matrix}j=1\\ j\ne i\end{matrix}}\nabla_{\vec{r}_{i}}u(r_{ij})+\sqrt{ 2k_{B}T_{b}\gamma_{t} }\vec{\xi_{i}}$$ 
-	- [ ] $$
+	- $$m  \frac{d\vec{v}_{i}}{dt} = -\gamma_{t}\vec{v}_{i}+\gamma_{t}v_{0}\hat{p}_{i}-\sum \limits^{N}_{\begin{matrix}j=1\\ j\ne i\end{matrix}}\nabla_{\vec{r}_{i}}u(r_{ij})+\sqrt{ 2k_{B}T_{b}\gamma_{t} }\vec{\xi_{i}}$$ 
+	- $$
 I \frac{d\omega_{i}}{dt} = - \gamma_{r}\omega_{i} + \sqrt{ 2k_{B}T_{b}\gamma_{r} }\eta_{i}
 $$
 - [x] understand the **time scales**
