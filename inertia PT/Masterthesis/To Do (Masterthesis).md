@@ -540,3 +540,14 @@ Laut Mandal2019 P. 2 ist die kritische $Pe \ge 20$
 
 - The relative importance of activity in comparison with diffusion can be characterized by the **Péclet number**:
 - $Pe=v_{0}\sqrt{ 2DD_{R} }$ ,$D=\frac{4}{3}R^2D_{R}$, $Pe=\frac{\sqrt{ \frac{3}{2} }v_{0}}{\sigma D_{R}}$ or $Pe=\frac{v_{0}\sigma}{\sqrt{ 6 }D}$
+
+# Critical Exponents
+## Correlations Length $\xi$
+is the overall driving factor for the behavior at a continuous phase transition (2. Order). At the phase transition fluctuations grow large until no distinction between two phases is possible.  
+⟹The correlation goes to infinity. In the vicinity of the phase transition point it exhibits a power law,  
+⟹$ξ(X)∼|X-X_C |^{-ν},ν=1$ for 2D Ising model
+
+## Scaling relations and Universality 
+Critical Exponents aren't independent, the six critical exponents are connected by four scaling relations. [Herrmann_CompPhys_2021](https://doi.org/10.1017/9781108882316)
+- $\alpha + 2\beta + \gamma =2$ (Rushbooke)
+- 
