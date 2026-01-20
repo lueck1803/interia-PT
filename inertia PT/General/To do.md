@@ -1,6 +1,6 @@
 # unsortiert
 - [ ] rotkohl verarbeiten
-- [ ] Lohnabrechnungen für die AOK hochladen 
+- [x] Lohnabrechnungen für die AOK hochladen 
 - [ ] coreview <span style="font-size:100%;color:red;">reports</span>
 - [x] Loch im grünen Shirt flicken 
 - [x] Bettwäsche wechseln 
