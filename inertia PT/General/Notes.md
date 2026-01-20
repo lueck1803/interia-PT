@@ -1,14 +1,5 @@
 
 # Nachrichten an Leute
-Sie ist halt auch nicht so "einfach". Ich hatte mit ihr keine Probleme. 
-Ich weiß warum sie im Krankenhaus war. 
-
-Sie ist schon sehr intelligent. Und dadurch auch etwas arrogant, die kommt wahrscheinlich auch durch die Umstände. Ein bisschen narzisstische Persönlichkeitsstörung als Traumafolgereaktion hat sie sicherlich.
-
-Sie hat es halt schon immer raushängen lassen, dass er eigentlich etwas zu dumm ist. 
-Das ist so die Tatsachenbeschreibung nicht meine Beurteilung von ihm...
-
-Wenn sie mit mir geredet hat, ist sie halt nie an einen Punkt gestoßen, wo ich nicht mit reden konnte.
 ## 26-01-18
 ### nicht versendete Nachricht an flo
 Es gibt definitiv Songs bei denen ich "Unbehagen/ Zweifel“ verspüre, ob hier nicht gerade eine spur Glorifizierung drin steckt.
@@ -745,7 +736,7 @@ R12  R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 (Zu
 R (Zunahme 1M Socke 1 am Ende) 12 
 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 
 30 Reihen 
-R12 R1
+R12 R12 R
 
 ## new try / Nadine
 
