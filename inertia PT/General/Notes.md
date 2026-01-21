@@ -1,6 +1,26 @@
 
 # Nachrichten an Leute
 
+## 26-01-21
+das bezieht sich darauf, dass er nunmal auch kognitiv irgendwie etwas stark auf dem schlauch steht.
+
+ich war ja emotional all die Jahre etwas "förder bedürftig". 
+
+das schlimme ist, ich kann mir alles merken was bei ihm / denen passiert ist. er erzählt mir von nem Ereignis und ich kann dann ihm all die positiven Sachen auflisten, die vergisst er einfach.
+
+er vergisst einfach die positive entwicklung.
+
+ja gut. ich verstehe das. Das ist auch Teil der Krankheit in der er da steckt. 
+Es ist Angst, kognitive und emotionale Überlastung, da macht das Gehirn die krätsche.
+Er hat auch zu lange SSRIS (Antidepressiva) genommen. Das Zeug ist Gift und auch noch wirkungslos.
+Durch den fehlenden schlaf all die Jahre war ich auch nicht so geistig fit. Das hat aber eher mein ADHS und damit mein Kurzzeitgedächtnis beeinflusst.
+
+Mein Langzeitgedächtnis ist sehr sehr fit. Zu fit.
+Ich ärgere mich etwas
+
+
+## 26-01-19
+
 Sie ist halt auch nicht so "einfach". Ich hatte mit ihr keine Probleme. 
 Ich weiß warum sie im Krankenhaus war. 
 
