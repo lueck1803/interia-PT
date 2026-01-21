@@ -18,6 +18,30 @@ Durch den fehlenden schlaf all die Jahre war ich auch nicht so geistig fit. Das 
 Mein Langzeitgedächtnis ist sehr sehr fit. Zu fit.
 Ich ärgere mich etwas
 
+---
+
+Sie hat aber eine ähnliche Problematik wie Arooj.
+Das eine sagen und das andere meinen. Und sich auch widersprüchlich verhalten.
+Vorwürfe machen, die haltlos sind, bei denen sie denkt das wäre aufjedenfall so und wenn man sie dran erinnert, das war aber so und so, dann "oh ok". 
+Sie spiegelt auch ihr Verhalten/ihre Innenwelt/ Ihre Annahmen auf das Gegenüber.
+Und da bringen Logik, Wahrheit und Erklärungen gar nix.
+Sie sieht auch Dinge als feindselig an, die es definitiv nicht sind.
+
+-> das führt dann zu kognitivem und emotionalem Chaos. Wie bei mir mit Arooj.
+
+Normal ist da nix.
+
+Und Bilge hat eine massive Rejection Sensitivity Disorder.
+Hab ich Montag ja selbst feststellen dürfen.
+
+(Ist aber auch logisch wenn man in einer Partnerschaft mit einer Person ist, die eine solche Störung hat. Ich hab damit ja auch zu kämpfen gehabt und es jetzt über das letzte halbe Jahr in den Griff bekommen.)
+
+Er setzt dann da aufgrund der Emotionen kognitiv aus.
+
+Er ist in einer dependenten Beziehung zu ihr, was Emotionen angeht.
+
+Bei Arooj hatte ich das ja auch, wenn Ihre Ablehnung zu groß und zu absolut wurde, sie so irrational überreagiert hat, wie letztes Jahr.
+
 
 ## 26-01-19
 
