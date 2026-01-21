@@ -10,8 +10,6 @@ das schlimme ist, ich kann mir alles merken was bei ihm / denen passiert ist. er
 
 er sieht dann so die positive entwicklung nicht. Es ist aber schon besser geworden. Ich hab ihn endlich dazu gebracht mal alles aufzuschreiben, damit er sich das selbst anschauen kann.
 
-Am Wochenende hab ich ihm während nem Sa
-
 ja gut. ich verstehe das. Das ist auch Teil der Krankheit in der er da steckt. 
 Es ist Angst, kognitive und emotionale Überlastung, da macht das Gehirn die krätsche.
 Er hat auch zu lange SSRIS (Antidepressiva) genommen. Das Zeug ist Gift und auch noch wirkungslos.
