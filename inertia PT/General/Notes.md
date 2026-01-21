@@ -6,9 +6,11 @@ das bezieht sich darauf, dass er nunmal auch kognitiv irgendwie etwas stark auf 
 
 ich war ja emotional all die Jahre etwas "förder bedürftig". 
 
-das schlimme ist, ich kann mir alles merken was bei ihm / denen passiert ist. er erzählt mir von nem Ereignis und ich kann dann ihm all die positiven Sachen auflisten, die vergisst er einfach.
+das schlimme ist, ich kann mir alles merken was bei ihm / denen passiert ist. er erzählt mir von nem Ereignis und ich kann dann ihm all die positiven Sachen auflisten, die übersieht er einfach - das liegt an der Psyche, negative Attribution, aber selbst wenn ich ihm das erklärt habe, bis zum nächsten mal/ nächsten ereignis vergisst er es dann.
 
-er vergisst einfach die positive entwicklung.
+er sieht dann so die positive entwicklung nicht. Es ist aber schon besser geworden. Ich hab ihn endlich dazu gebracht mal alles aufzuschreiben, damit er sich das selbst anschauen kann.
+
+Am Wochenende hab ich ihm während nem Sa
 
 ja gut. ich verstehe das. Das ist auch Teil der Krankheit in der er da steckt. 
 Es ist Angst, kognitive und emotionale Überlastung, da macht das Gehirn die krätsche.
