@@ -42,6 +42,13 @@ Er ist in einer dependenten Beziehung zu ihr, was Emotionen angeht.
 
 Bei Arooj hatte ich das ja auch, wenn Ihre Ablehnung zu groß und zu absolut wurde, sie so irrational überreagiert hat, wie letztes Jahr.
 
+---
+Kritik und Wahrheit verträgt sie gar nicht. Nur in ganz kleinen Häppchen
+
+Arooj hat im Mai als ich bei Bilge war nicht umsonst zu mir gesagt "sie ist nicht wie Tayyba"
+
+Naja doch
+
 
 ## 26-01-19
 
