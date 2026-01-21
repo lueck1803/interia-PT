@@ -18,6 +18,10 @@ Durch den fehlenden schlaf all die Jahre war ich auch nicht so geistig fit. Das 
 Mein Langzeitgedächtnis ist sehr sehr fit. Zu fit.
 Ich ärgere mich etwas
 
+Am Wochenende hab ich ihm während nem Spaziergang bei gebracht, wie man ein Gespräch bzw. seine Frau mit dem Vier-Ohren Modell analysieren kann. Das was bei mir automatisch immer gleichzeitig im Kopf anspringt, wenn er wieder von nem ereignis erzählt und ich ihm erkläre, wie er das positiv deuten kann/sollte.
+Es hat ja auch massiv etwas gebracht bisher und ich hatte mit all meinen Einschätzungen bzgl. Tayyba auf lang oder kurz recht. 
+Ja gut, ich kenne ja auch Arooj... Da war ich mir leider über die Jahre emotional nie sicher, ob das stimmt, was ich kognitiv analysiert habe.
+
 ---
 
 Sie hat aber eine ähnliche Problematik wie Arooj.
