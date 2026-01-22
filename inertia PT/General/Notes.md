@@ -814,7 +814,11 @@ Der spickel würde nach 15,75 /16 cm beginnen und nicht jetzt.
 Ich hab quasi den Spickel vergessen und zu weit gestrickt über die Ferse hinaus.
 
 57 Reihen nach Spickelbeginn bedeutet inklusive Ferse!
-Spickelbeginn sollte nach 15,75 cm sein
+Spickelbeginn sollte nach 15,75 cm sein.
+
+Um von 4M auf 32 zu kommen, es werden je 2 pro zwei Reihen zugenommen 
+28:2= 14 Zunahmen -> 28 Reihen 
+28
 
 ## new try / Nadine
 
