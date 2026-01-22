@@ -553,4 +553,35 @@ Critical Exponents aren't independent, the six critical exponents are connected 
 - $\gamma = \beta(\delta-1)$ (Widom)
 - $\gamma=(2-\eta)\nu$ (Fisher)
 - $2-\alpha=d\nu$ (Josephson)
-- 
+
+# Reports
+## Bennos Answer to my report slides 26-01-22
+Hi Lukas, 
+
+Thanks a lot for preparing the report! This is quite useful to see where you are. 
+
+Slide 5, bottom right; inside the green frames, the particle distribution looks patterned. Is this true? 
+
+Slide 11: The different curves seem to meet in one point (roughly), which is nice! The results on slides 13 and 14 are probably useless, right? 
+
+Slides 19, 20: The susceptibilities do not show any peaks. Why is that? Aren't you crossing a phase transition line? What is the idea here? What are the values of the fixed parameters? 
+
+Slide 28: This is nice; the results for the critical point seem to be similar in all cases. 
+
+Slide 30: I am not sure I understand the difference between the left and the right plot. In either case, the determined exponent for correlation length (\nu) looks unusually large! (For overdamped ABPs \nu ~ 1.5 I think and for the 2D Ising model it is 1). 
+
+Slides 32. 33: Why is \beta negative? How do you interpret this? Can this be correct? (It is 1/8 for the 2D Ising case; and ~1/2 for ABPs perhaps) 
+
+Slide 35: The obtained coefficient for \gamma is quite small. Why is that? Why is it that small (<1/4) compared to the Ising case (7/4) and the case of overdamped ABPs (2.2)? 
+
+The obtained results would mean that the scaling relation (\gamma + 2\beta = 2\nu ) is very strongly violated. It could be violated, perhaps, but probably not that strong. 
+
+In view of the obtained very unusual results for the critical exponents, it would probably be good to check results for the overdamped case too and compare with known literature results. 
+
+  
+
+@Aritra and Suvendu: What is your take on the report and obtained results? I am somewhat sceptical if this is all correct, I must say, but I guess you have discussed this with Lukas. 
+
+Best wishes
+
+Benno
