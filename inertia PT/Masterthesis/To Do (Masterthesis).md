@@ -594,7 +594,7 @@ Thanks a lot for preparing the report! This is quite useful to see where you are
 
 - Slide 35: The obtained coefficient for \gamma is quite small. Why is that? Why is it that small (<1/4) compared to the Ising case (7/4) and the case of overdamped ABPs (2.2)? 
 	- My answer for that was:
-	  ⟹because I wasn't able to 
+	  ⟹because I wasn't able to transform a simple equation as I see... so shameful. I wasn't present in this moment. The same issue for $\beta$
 
 The obtained results would mean that the scaling relation (\gamma + 2\beta = 2\nu ) is very strongly violated. It could be violated, perhaps, but probably not that strong. 
 
