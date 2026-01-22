@@ -1,4 +1,5 @@
 # unsorted tasks
+- [ ] Slides Numbering!
 - [ ] use the model of hecht2021 ![](Pasted%20image%2020260116194755.png)
 	- $$m  \frac{d\vec{v}_{i}}{dt} = -\gamma_{t}\vec{v}_{i}+\gamma_{t}v_{0}\hat{p}_{i}-\sum \limits^{N}_{\begin{matrix}j=1\\ j\ne i\end{matrix}}\nabla_{\vec{r}_{i}}u(r_{ij})+\sqrt{ 2k_{B}T_{b}\gamma_{t} }\vec{\xi_{i}}$$ 
 	- $$
@@ -555,6 +556,7 @@ Critical Exponents aren't independent, the six critical exponents are connected 
 - $2-\alpha=d\nu$ (Josephson)
 
 # Reports
+
 ## Bennos Answer to my report slides 26-01-22
 Hi Lukas, 
 
@@ -564,7 +566,9 @@ Thanks a lot for preparing the report! This is quite useful to see where you are
 	- [ ] Send Ovito pictures from ⟹ isn't necessary, this is the exact snapshot like in the picture above. This comes from the resolution of the particles, which is somehow different when depicting them with a smaller evaluation box size. I recognised this earlier and was confused by, but didn't investigated this depiction problem, since there were more important tasks and I am affected enough by such distractions
 
 
-Slide 11: The different curves seem to meet in one point (roughly), which is nice! The results on slides 13 and 14 are probably useless, right? 
+- Slide 11: The different curves seem to meet in one point (roughly), which is nice! The results on slides 13 and 14 are probably useless, right? 
+	- You mean 14 and 16 ? the Cut Out of the binder plots?
+	  Yes, I showed them 
 
 
 Slides 19, 20: The susceptibilities do not show any peaks. Why is that? Aren't you crossing a phase transition line? What is the idea here? What are the values of the fixed parameters? 
