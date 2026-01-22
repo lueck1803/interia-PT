@@ -801,8 +801,10 @@ R12  R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 (Zu
 R (Zunahme 1M Socke 1 am Ende) 12 
 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 
 30 Reihen 
-R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R1
+R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12
 15,5cm÷50 =0.31
+
+Um auf 28cm zukommen wäre es jetzt gut mit der ferse anzufangen für die 24 Reihen veranschlagt sind.
 
 ## new try / Nadine
 
