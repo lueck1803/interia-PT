@@ -561,10 +561,11 @@ Hi Lukas, 
 Thanks a lot for preparing the report! This is quite useful to see where you are. 
 
 - Slide 5, bottom right; inside the green frames, the particle distribution looks patterned. Is this true? 
-	- [ ] Send Ovito pictures from ⟹ isn't necessary, this is the exact snapshot like in the picture above
+	- [ ] Send Ovito pictures from ⟹ isn't necessary, this is the exact snapshot like in the picture above. This comes from the resolution of the particles, which is somehow different when depicting them with a smaller evaluation box size. I recognised this earlier and was confused by, but didn't investigated this depiction problem, since there were more important tasks and I am affected enough by such distractions
 
 
 Slide 11: The different curves seem to meet in one point (roughly), which is nice! The results on slides 13 and 14 are probably useless, right? 
+
 
 Slides 19, 20: The susceptibilities do not show any peaks. Why is that? Aren't you crossing a phase transition line? What is the idea here? What are the values of the fixed parameters? 
 
