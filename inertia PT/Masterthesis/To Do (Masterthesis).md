@@ -574,19 +574,23 @@ Thanks a lot for preparing the report! This is quite useful to see where you are
 - Slides 19, 20: The susceptibilities do not show any peaks. Why is that? Aren't you crossing a phase transition line? What is the idea here? What are the values of the fixed parameters? 
 	- That's true an Explanation is found in [Maggi2021](https://doi.org/10.1039/d0sm02162h) . 
 	  *⟹Due to the fact that it is obtained by averaging over the evaluation boxes in the dense and dilute phase.*
+		- Fig 2 c) of [Maggi2021](https://doi.org/10.1039/d0sm02162h) 
+		  ![](Pasted%20image%2020260122174204.png)
+		  Here it was discussed:  
+		  *Note also that the $\chi$ in Fig. 2(c) does not show the typical peak as in the Ising model. This is due to the fact that the $\chi$ is obtained here by averaging the values of Nb in both the dense and dilute phases. In the ESI† we show that the $\chi$ (computed in the same way) for the lattice gas displays a similar s-shaped curve a  way) for the lattice gas displays a similar s-shaped curve as a function of the inverse temperature and scales with $\gamma= 7/4$.* 
 	- I compared them with the Fig 1. b) of [Feng2025, P.2](https://doi.org/10.48550/ARXIV.2502.09069) , where I took also the expression for susceptibility. My plots are looking quite similar and I didn't find a further discussion about the missing peak in the paper and it's supplement material. They discussed the value for it's exponent $\gamma$ only. 
-	- Fig 2 c) of [Maggi2021](https://doi.org/10.1039/d0sm02162h) 
-	  ![](Pasted%20image%2020260122174204.png)
-	  Here it was discussed:  
-	  *Note also that the $\chi$ in Fig. 2(c) does not show the typical peak as in the Ising model. This is due to the fact that the $\chi$ is obtained here by averaging the values of Nb in both the dense and dilute phases. In the ESI† we show that the $\chi$ (computed in the same way) for the lattice gas displays a similar s-shaped curve a  way) for the lattice gas displays a similar s-shaped curve as a function of the inverse temperature and scales with $\gamma= 7/4$.* 
 		- Fig2 b) of Feng2025 ![](Pasted%20image%2020260122172821.png)
 
 
-Slide 28: This is nice; the results for the critical point seem to be similar in all cases. 
+- Slide 28: This is nice; the results for the critical point seem to be similar in all cases. 
+	- Thanks
 
-Slide 30: I am not sure I understand the difference between the left and the right plot. In either case, the determined exponent for correlation length (\nu) looks unusually large! (For overdamped ABPs \nu ~ 1.5 I think and for the 2D Ising model it is 1). 
+- Slide 30: I am not sure I understand the difference between the left and the right plot. In either case, the determined exponent for correlation length (\nu) looks unusually large! (For overdamped ABPs \nu ~ 1.5 I think and for the 2D Ising model it is 1). 
+	- Yes this is something I worried about and we have to investigate. I guess there is some mistake.
 
-Slides 32. 33: Why is \beta negative? How do you interpret this? Can this be correct? (It is 1/8 for the 2D Ising case; and ~1/2 for ABPs perhaps) 
+- Slides 32. 33: Why is \beta negative? How do you interpret this? Can this be correct? (It is 1/8 for the 2D Ising case; and ~1/2 for ABPs perhaps) 
+	- No it isn't negative. This was a mistake. I forgot to take into account that. 
+	  $m=-\frac{\beta}{\nu}$
 
 Slide 35: The obtained coefficient for \gamma is quite small. Why is that? Why is it that small (<1/4) compared to the Ising case (7/4) and the case of overdamped ABPs (2.2)? 
 
