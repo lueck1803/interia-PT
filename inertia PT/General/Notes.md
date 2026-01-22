@@ -804,9 +804,11 @@ R12 R12 R12 R12 R12 R12 R12 R12 R12 R12
 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12
 15,5cm÷50 =0.31
 
+Aktuelle Gesamtlänge sind 20.5cm. gestreckt sind es eher 21.5 cm. Am Fuß sind
 Um auf 28cm zukommen wäre es jetzt gut mit der ferse anzufangen für die 24 Reihen veranschlagt sind. 
 
-24 × .31=7,
+24 × .31=7.44
+
 
 ## new try / Nadine
 
