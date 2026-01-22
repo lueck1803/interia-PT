@@ -551,11 +551,12 @@ is the overall driving factor for the behavior at a continuous phase transition 
 
 ## Scaling relations and Universality 
 Critical Exponents aren't independent, the six critical exponents are connected by four scaling relations. [Herrmann_CompPhys_2021](https://doi.org/10.1017/9781108882316)
-- $\alpha + 2\beta + \gamma =2$ (Rushbooke)
+- $\alpha + 2\beta + \gamma =2$ (Rushbrooke)
 - $\gamma = \beta(\delta-1)$ (Widom)
 - $\gamma=(2-\eta)\nu$ (Fisher)
 - $2-\alpha=d\nu$ (Josephson)
-
+### Hyperscaling relation
+Rushbrook and Josphson ⟹ 
 # Reports
 
 ## Bennos Answer to my report slides 26-01-22
