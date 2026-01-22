@@ -573,8 +573,10 @@ Thanks a lot for preparing the report! This is quite useful to see where you are
 
 - Slides 19, 20: The susceptibilities do not show any peaks. Why is that? Aren't you crossing a phase transition line? What is the idea here? What are the values of the fixed parameters? 
 	- That's true I missed the peaks myself and wondered about it too.
-	- I compared them with the Fig 1. b) of [Feng2025, P.2](https://doi.org/10.48550/ARXIV.2502.09069)  , where I took also the expression for susceptibility. My plots are looking quite similar and I didn't find a further discussion about the missing peak in the paper and it's supplement material. They discussed the value for it's exponent $\gamma$ only. So I focussed not to worry about it further and tried to the report
-	  ![](Pasted%20image%2020260122172821.png)
+	- I compared them with the Fig 1. b) of [Feng2025, P.2](https://doi.org/10.48550/ARXIV.2502.09069)  , where I took also the expression for susceptibility. My plots are looking quite similar and I didn't find a further discussion about the missing peak in the paper and it's supplement material. They discussed the value for it's exponent $\gamma$ only. So I focussed not to worry about it further and tried to finish the report
+	- Fig2 b) of Feng2025 ![](Pasted%20image%2020260122172821.png)
+	- Fig 2 b) of [Maggi2021](https://doi.org/10.1039/d0sm02162h)
+	  ![](Pasted%20image%2020260122174204.png)
 
 
 Slide 28: This is nice; the results for the critical point seem to be similar in all cases. 
