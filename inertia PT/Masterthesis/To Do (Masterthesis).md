@@ -590,9 +590,11 @@ Thanks a lot for preparing the report! This is quite useful to see where you are
 
 - Slides 32. 33: Why is \beta negative? How do you interpret this? Can this be correct? (It is 1/8 for the 2D Ising case; and ~1/2 for ABPs perhaps) 
 	- No it isn't negative. This was a mistake. I forgot to take into account that. 
-	  $m=-\frac{\beta}{\nu}$
+	  $m=-\frac{\beta}{\nu}$ So if m is negative, than $\beta$ is positive. Sorry for that.
 
-Slide 35: The obtained coefficient for \gamma is quite small. Why is that? Why is it that small (<1/4) compared to the Ising case (7/4) and the case of overdamped ABPs (2.2)? 
+- Slide 35: The obtained coefficient for \gamma is quite small. Why is that? Why is it that small (<1/4) compared to the Ising case (7/4) and the case of overdamped ABPs (2.2)? 
+	- My answer for that was:
+	  ⟹because I wasn't able to 
 
 The obtained results would mean that the scaling relation (\gamma + 2\beta = 2\nu ) is very strongly violated. It could be violated, perhaps, but probably not that strong. 
 
