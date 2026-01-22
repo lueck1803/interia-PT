@@ -560,7 +560,9 @@ Hi Lukas, 
 
 Thanks a lot for preparing the report! This is quite useful to see where you are. 
 
-Slide 5, bottom right; inside the green frames, the particle distribution looks patterned. Is this true? 
+- Slide 5, bottom right; inside the green frames, the particle distribution looks patterned. Is this true? 
+	- [ ] Send Ovito pictures from ⟹ isn't necessary, this is the exact snapshot like in the picture above
+
 
 Slide 11: The different curves seem to meet in one point (roughly), which is nice! The results on slides 13 and 14 are probably useless, right? 
 
