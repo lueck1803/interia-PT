@@ -572,7 +572,9 @@ Thanks a lot for preparing the report! This is quite useful to see where you are
 
 
 - Slides 19, 20: The susceptibilities do not show any peaks. Why is that? Aren't you crossing a phase transition line? What is the idea here? What are the values of the fixed parameters? 
-	- That's true I missed the peaks myself. I compared them with 
+	- That's true I missed the peaks myself and wondered about it too.
+	- I compared them with the Fig 1. b) of [Feng2025, P.2]()  , where I took also the expression for susceptibility. My plots are looking 
+	  ![](Pasted%20image%2020260122172821.png)
 
 
 Slide 28: This is nice; the results for the critical point seem to be similar in all cases. 
