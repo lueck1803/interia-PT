@@ -811,8 +811,10 @@ Um auf 28cm zukommen wäre es jetzt gut mit der ferse anzufangen für die 24 Rei
 
 ich hab viel zu lange gestrickt <span style="font-size:100%;color:red;">ich hab das mit dem Spickel missverstanden</span>
 Der spickel würde nach 15,75 /16 cm beginnen und nicht jetzt.
-Ich hab quasi den Spickel vergessen 
+Ich hab quasi den Spickel vergessen und zu weit gestrickt über die Ferse hinaus.
 
+57 Reihen nach Spickelbeginn bedeutet inklusive Ferse!
+Spickelbeginn sollte nach 15,75 cm sein
 
 ## new try / Nadine
 
