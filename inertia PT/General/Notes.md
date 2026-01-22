@@ -809,6 +809,10 @@ Um auf 28cm zukommen wäre es jetzt gut mit der ferse anzufangen für die 24 Rei
 
 24 × .31=7.44
 
+ich hab viel zu lange gestrickt <span style="font-size:100%;color:red;">ich hab das mit dem Spickel missverstanden</span>
+Der spickel würde nach 15,75 /16 cm beginnen und nicht jetzt.
+Ich hab quasi den Spickel vergessen 
+
 
 ## new try / Nadine
 
