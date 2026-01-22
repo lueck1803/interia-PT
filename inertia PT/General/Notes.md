@@ -837,7 +837,7 @@ stimmt auch <span style="font-size:100%;color:red;">nicht</span> es sind ja<span
 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12
 ⟹30M
 Ich bleibe dabei
-
+26 M zuna
 ### Reihen nach ~~Spickel~~ Fußspitze 
 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R
 
