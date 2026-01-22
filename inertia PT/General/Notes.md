@@ -819,6 +819,7 @@ Ich hab quasi den Spickel vergessen und zu weit gestrickt über die Ferse hinaus
 Spickelbeginn sollte nach 15,75 cm sein.
 
 Um von 4M auf 32 zu kommen, es werden je 2 pro zwei Reihen zugenommen 
+stimmt auch nicht es sind ja <span style="font-size:100%;color:red;"> 36 M</span>
 28:2= 14 Zunahmen -> 28 Reihen 
 28×.31 = 8.68 cm 
 15,75 - 8.68 ~ 7 Reihen besser 8
