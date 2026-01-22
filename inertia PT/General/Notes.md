@@ -796,7 +796,9 @@ Dann eine Runde rechts.
 Z12  R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12
 
 ### Reihen nach Spickel 49 ~ 12,25 cm müssten 57~ 14,25cm werden für 46/47 
-R12  R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 (Zunahme 1M socke 1 am Ende)
+R12  R12 R12 R12 R12 R12 R12 R12 
+<span style="font-size:100%;color:red;">bis hier hätte gereicht</span>
+R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 (Zunahme 1M socke 1 am Ende)
 
 R (Zunahme 1M Socke 1 am Ende) 12 
 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 
@@ -818,7 +820,9 @@ Spickelbeginn sollte nach 15,75 cm sein.
 
 Um von 4M auf 32 zu kommen, es werden je 2 pro zwei Reihen zugenommen 
 28:2= 14 Zunahmen -> 28 Reihen 
-28
+28×.31 = 8.68 cm 
+15,75 - 8.68 ~ 7 Reihen besser 8
+
 
 ## new try / Nadine
 
