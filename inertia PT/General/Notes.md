@@ -837,9 +837,10 @@ stimmt auch <span style="font-size:100%;color:red;">nicht</span> es sind ja<span
 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12
 ⟹30M
 Ich bleibe dabei
-26 M zuna
+26 M Zunahme ~ 8.06 + .31 cm ~ 8.37
 ### Reihen nach ~~Spickel~~ Fußspitze 
 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R
 
+20×
 
 
