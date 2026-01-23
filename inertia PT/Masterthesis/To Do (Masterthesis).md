@@ -480,6 +480,9 @@ This is old from 2009
 	- infos are in **User Guide** on the AMEP Page
 	  
 # Papers
+## Mukhopadhyay2025 - Active adaptolates featuring motilityinduced percolating structures with an adaptive packing geometry
+
+![](images/Papers/Mukhopadhyay2025-Fig3-a.png)
 ## Mandal2019~Motility-Induced Temperature Difference in Coexisting Phases
 
 ### Supplement
