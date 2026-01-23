@@ -579,7 +579,7 @@ Thanks a lot for preparing the report! This is quite useful to see where you are
 	- That's true an Explanation is found in [Maggi2021](https://doi.org/10.1039/d0sm02162h) . 
 	  *⟹Due to the fact that it is obtained by averaging over the evaluation boxes in the dense and dilute phase.*
 		- Fig 2 c) of [Maggi2021](https://doi.org/10.1039/d0sm02162h) 
-		  ![](Pasted%20image%2020260122174204.png)
+		  ![](images/Report/Maggi2021-Fig2c.png)
 		  Here it was discussed:  
 		  *Note also that the $\chi$ in Fig. 2(c) does not show the typical peak as in the Ising model. This is due to the fact that the $\chi$ is obtained here by averaging the values of Nb in both the dense and dilute phases. In the ESI† we show that the $\chi$ (computed in the same way) for the lattice gas displays a similar s-shaped curve a  way) for the lattice gas displays a similar s-shaped curve as a function of the inverse temperature and scales with $\gamma= 7/4$.* 
 	- I compared them with the Fig 1. b) of [Feng2025, P.2](https://doi.org/10.48550/ARXIV.2502.09069) , where I took also the expression for susceptibility. My plots are looking quite similar and I didn't find a further discussion about the missing peak in the paper and it's supplement material. They discussed the value for it's exponent $\gamma$ only. 
