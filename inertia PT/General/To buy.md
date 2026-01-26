@@ -1,7 +1,9 @@
+- [ ] regenerier salz
+- [ ] destilliertes Wasser 
+- [ ] Wattestäbchen 
 - [ ] metall+Kunststoff Trinkhalme Aldi falls billiger
 - [x] Haferflocken
 - [ ] Müsli 
-- [ ] Wattestäbchen 
 - [x] Bananen 
 - [x] Zwiebeln 
 	- [x] gelb
