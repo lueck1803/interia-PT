@@ -1,5 +1,7 @@
-- [ ] regenerier salz
-- [ ] destilliertes Wasser 
+- [x] regenerier salz
+	- ⟹5 mal
+- [x] destilliertes Wasser 
+	- 2 mal
 - [ ] Wattestäbchen 
 - [ ] metall+Kunststoff Trinkhalme Aldi falls billiger
 - [x] Haferflocken
