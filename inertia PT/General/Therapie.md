@@ -1640,7 +1640,7 @@ Aber 🤷‍♂️, so bin ich halt, warum sollte ich irgendwie Drumherum reden
 - Probleme mit dem sehen. 
 	- verschwommen 
 	- schwindel
-	- festgefahrener Blick 
+	- festgefahrener Blick / Fokus 
 - ich würde gerne mal <span style="font-size:100%;color:red;">elvanse</span> ausprobieren
 - zwei wöchige Medikationspause hat gut getan ⟹ Leute in der SHG machen das gar nicht ⟹ einmal jährlich absetzen wohl noch alte "doktrin"
 - wäre es möglich 
