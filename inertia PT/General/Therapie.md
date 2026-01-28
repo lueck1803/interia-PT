@@ -1639,11 +1639,12 @@ Aber 🤷‍♂️, so bin ich halt, warum sollte ich irgendwie Drumherum reden
 ## Medikamente
 - Probleme mit dem sehen. 
 	- verschwommen 
-	- sch
+	- schwindel
+	- festgefahrener Blick 
+- ich würde gerne mal <span style="font-size:100%;color:red;">elvanse</span> ausprobieren
 - zwei wöchige Medikationspause hat gut getan ⟹ Leute in der SHG machen das gar nicht ⟹ einmal jährlich absetzen wohl noch alte "doktrin"
 - wäre es möglich 
 - Methylphenidat macht nicht abhängig wäre wohl so, dass wenn es jetzt zu gelassen würde kein btm mehr sein
-- ich würde gerne mal <span style="font-size:100%;color:red;">elvanse</span> ausprobieren
 - Keine Charakterveränderung
 - mph ist langzeitwirkung
 - mir ging es ganz gut und ich kam gut klar. Ich war aber auch die meiste Zeit alleine
