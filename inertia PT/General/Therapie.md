@@ -1637,6 +1637,9 @@ Aber 🤷‍♂️, so bin ich halt, warum sollte ich irgendwie Drumherum reden
 - 
 # Psychiater
 ## Medikamente
+- Probleme mit dem sehen. 
+	- verschwommen 
+	- sch
 - zwei wöchige Medikationspause hat gut getan ⟹ Leute in der SHG machen das gar nicht ⟹ einmal jährlich absetzen wohl noch alte "doktrin"
 - wäre es möglich 
 - Methylphenidat macht nicht abhängig wäre wohl so, dass wenn es jetzt zu gelassen würde kein btm mehr sein
