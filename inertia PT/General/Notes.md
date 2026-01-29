@@ -893,6 +893,8 @@ stimmt auch <span style="font-size:100%;color:red;">nicht</span> es sind ja<span
 Nach Freddies Anprobe habe ich mich dazu entschieden einfach die Ferse zu stricken da die Socke so wie sie ist sehr gut passt.
 
 36 M ÷ 3 = 12
+
+Mache die ferse von diesem Video:
 ## new try / Nadine
 
 ### Maschenaufnahme
