@@ -894,7 +894,11 @@ Nach Freddies Anprobe habe ich mich dazu entschieden einfach die Ferse zu strick
 
 36 M ÷ 3 = 12
 
-Mache die ferse von diesem Video:
+Mache die **Rauten**ferse von diesem Video:
+https://www.youtube.com/watch?v=Vm5MCu8UzkI
+
+Da Freddie einen großen Fuß hat mache ich die mit 10 Zunahmen.
+
 ## new try / Nadine
 
 ### Maschenaufnahme
