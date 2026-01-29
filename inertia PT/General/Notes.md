@@ -915,7 +915,7 @@ Da Freddie einen großen Fuß hat mache ich die mit 10 Zunahmen.
 		4. 4.M rechts
 	2. noch 17M auf der nadel rechts
 	3. socken1 ✅ socken2 ✅
-	4. Vorderseite rechts 
+	4. Vorderseite rechts ✅
 
 
 ## new try / Nadine
