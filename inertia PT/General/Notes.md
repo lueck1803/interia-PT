@@ -906,7 +906,7 @@ Da Freddie einen großen Fuß hat mache ich die mit 10 Zunahmen.
 	4. **links**geneigte Zunahme aus dem Querfaden
 	5. 17M rechts abstricken
 	6. socken1 ✅ socken2✅
-	7. Auf der vorderseite beide Socken rechte Maschen stricken ✅
+	7. Auf der vorderseite beide Socken rechte Maschen stricken ✅✅
 2. rechts bis zur 17.M 
 	1. dann muster für die Verstärkung über die aktuell 4M
 		1. 1.M abheben
@@ -914,7 +914,8 @@ Da Freddie einen großen Fuß hat mache ich die mit 10 Zunahmen.
 		3. 3.M abheben
 		4. 4.M rechts
 	2. noch 17M auf der nadel rechts
-	3. socken1 ✅ socken2 
+	3. socken1 ✅ socken2 ✅
+	4. Vorderseite rechts 
 
 
 ## new try / Nadine
