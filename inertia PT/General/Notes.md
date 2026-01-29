@@ -1,5 +1,24 @@
 
 # Nachrichten an Leute
+
+## 26-01-29
+### Nadine
+ja also kann nebenwirkung vom Medikament sein und ist eine.
+
+Hatte ich aber auch vorher schon gerade im zusammenhang mit migräne.
+
+Manchmal wenn ich zu wenig bzw. nix gegessen habe, nicht so gut geschlafen habe (90% meiner Tage, selbst wenn ich mal durchgeschlafen haben sollte) oder zum falschen zeitpunkt nen kaffee oder nen kaffee zu viel getrunken habe.
+
+Aber auch einfach nur weil ich so in nem gestressten /steifen zustand bin.
+Muss sich für mich gar nicht so gestresst "anfühlen".
+Ich bin das häufig schon so gewohnt.
+ 
+Ist so ne Mischung aus so vielem, liegt aber jedenfalls nicht daran dass ich ne Brille bräuchte.
+
+Es wird besser werden je mehr ich bei mir bin, auf mich achte, gut zu mir bin und alles schritt für schritt geregelter wird.
+
+Es war auch einfach einiges zu viel für meine Persönlichkeit in schieflage die letzten 6 Jahre.
+Auch definitiv einmal zu viel so was mit Arooj.
 ## 26-01-28
 ### flo
 Ich hab mich dann doch mal mit dem pretti Fall auseinander gesetzt.😮‍💨
