@@ -888,6 +888,11 @@ stimmt auch <span style="font-size:100%;color:red;">nicht</span> es sind ja<span
 15,75 - 8.68 ~ 7 Reihen besser 8
 
 4M × 2 -> 8 Reihen -> 8×.31=2.48 cm
+
+### Ferse
+Nach Freddies Anprobe habe ich mich dazu entschieden einfach die Ferse zu stricken da die Socke so wie sie ist sehr gut passt.
+
+
 ## new try / Nadine
 
 ### Maschenaufnahme
