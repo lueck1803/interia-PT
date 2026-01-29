@@ -1,5 +1,49 @@
 
 # Nachrichten an Leute
+## 26-01-28
+### flo
+Ich hab mich dann doch mal mit dem pretti Fall auseinander gesetzt.😮‍💨
+
+Joa. Ich denke meine Aussage bzgl ICE ~ Wehrsportgruppe der 90iger 
+War schon sehr zutreffend.
+
+Ich hab so das mulmige Gefühl ICE könnte zu einer Art SA oder Revolutionsgarden werden🤷‍♂️.
+
+Dafür hab ich dann aber doch zu viel Vertrauen in die USA dass das nicht ganz so kommt.
+
+Die Republikaner sind ja nicht alle so maga treu.
+
+Ich hab mir natürlich auch erstmal gedacht:
+"Joa eigentlich was erwartbares in den USA von der Polizei/Behörden erschossen zu werden, zu mal er ja auch bewaffnet war"
+
+Sind nunmal die USA da ist es etwas dumm mit ner Waffe auf so etwas zu gehen.
+Aber auch total legal. Da sind die Reps auch wieder etwas Doppelmoralisch 🤷‍♂️ in ihrer Argumentation.
+
+Trump hat da ja mittlerweile auch zurückgerudert.
+Gut bei ihm ist das ja Tagesform abhängig 🤭😅.
+
+Naja 10 Schüsse und dann auch noch in den Rücken. Ist dann selbst für die USA überzogen.
+
+Das kommt halt davon wenn man die Leute so rekrutiert 🤷‍♂️.
+
+Da werden Feindbilder und Ängste aufgebaut.
+
+Bei renee good bin ich mir gar nicht so sicher. 
+Ist natürlich überzogen zu schießen.
+Auf dem Video was ich gesehen habe, hat sie den Typ auch erst an/umgefahren. Und dann wurde geschossen.
+
+Prinzipiell sind die Amis bzgl ICE und der Abschiebungen ja doch recht gespalten.
+
+Leidliches Thema.
+
+Überhaupt was Trump betrifft.
+
+Zum einen ist das was mit Maduro gemacht wurde völkerrechtlich shit. 
+Und ändert an der Drogenproblematik in den USA 0. Die haben ja ein viel größeres Fentanyl und insgesamt Schmerzmittel Problem.
+
+Auf der anderen Seite ist der Sozialismus auch scheiße und man kann nur hoffen dass es den Menschen in Venezuela besser gehen wird.
+
+Ich würde mir ja wünschen dass das gleiche mit Putin gemacht würde.
 
 ## 26-01-21
 das bezieht sich darauf, dass er nunmal auch kognitiv irgendwie etwas stark auf dem schlauch steht.
