@@ -899,8 +899,9 @@ https://www.youtube.com/watch?v=Vm5MCu8UzkI
 
 Da Freddie einen großen Fuß hat mache ich die mit 10 Zunahmen.
 
-1. Da 36M -> rechts stricken bis zur 17.M 
-	1. ✅ erste Socke
+1. Da 36M 
+	1. -> rechts stricken bis zur 17.M, dann eine rechtsgeneigte Zunahme aus dem Querfaden 
+
 
 ## new try / Nadine
 
