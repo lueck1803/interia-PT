@@ -905,7 +905,7 @@ Da Freddie einen großen Fuß hat mache ich die mit 10 Zunahmen.
 	3. 2M rechts ⟹es müssen noch 17M auf der Nadel sein
 	4. **links**geneigte Zunahme aus dem Querfaden
 	5. 17M rechts abstricken
-	6. socken1 ✅ socken2
+	6. socken1 ✅ socken2✅
 
 
 ## new try / Nadine
