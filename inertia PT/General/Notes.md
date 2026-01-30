@@ -934,7 +934,11 @@ Alle ungeraden Reihen  sind zu oder Abnahme Runden.
 	4. vor der 17M rosa büro klammer 
 	5. linksgeneigte zunahme
 	6. rechts bis zum Ende
-3. Vorderseite rechts 
+3. Vorderseite rechts ✅✅
+4. Verstärkungsrunde 
+	1. erste Socke
+		1. rechts bis zur 17.M 
+		2. 
 
 
 ## new try / Nadine
