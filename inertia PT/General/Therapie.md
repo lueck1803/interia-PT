@@ -1650,6 +1650,7 @@ Aber 🤷‍♂️, so bin ich halt, warum sollte ich irgendwie Drumherum reden
 		- Sport 
 		- Achtsamkeit 
 		- Meditation 
+		- journaling 
 	- ich merke aber das mein Körper schon noch eine echt große Hürde ist. Ich merke wie sehr mir dann das Medikament einerseits hilft andererseits aber auch wieder Probleme macht
 - zwei wöchige Medikationspause hat gut getan ⟹ Leute in der SHG machen das gar nicht ⟹ einmal jährlich absetzen wohl noch alte "doktrin"
 - wäre es möglich 
