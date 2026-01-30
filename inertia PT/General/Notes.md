@@ -947,7 +947,7 @@ Alle ungeraden Reihen  sind zu oder Abnahme Runden.
 	2. zweite socke das gleiche ✅
 	3. Vorderseite rechts ✅✅
 #### weitere Zunahmen
-- 3. Zunahme ✅
+- 3. Zunahme ✅ ✅ + Vorderseite
 
 
 ## new try / Nadine
