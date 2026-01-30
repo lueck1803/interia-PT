@@ -899,6 +899,7 @@ https://www.youtube.com/watch?v=Vm5MCu8UzkI
 
 Da Freddie einen großen Fuß hat mache ich die mit 10 Zunahmen.
 
+#### 1. Zunahme
 1. Da 36M 
 	1. -> rechts stricken bis zur 17.M
 	2. dann eine **rechts**geneigte Zunahme aus dem Querfaden 
@@ -916,7 +917,11 @@ Da Freddie einen großen Fuß hat mache ich die mit 10 Zunahmen.
 	2. noch 17M auf der nadel rechts
 	3. socken1 ✅ socken2 ✅
 	4. Vorderseite rechts ✅✅
-3. 
+#### 2. Zunahme
+Dies ist die 3. Reihe. 
+Alle ungeraden Reihen  sind zu oder Abnahme Runden.
+1. ->rechts stricken bis zur 17. M
+2. 
 
 
 ## new try / Nadine
