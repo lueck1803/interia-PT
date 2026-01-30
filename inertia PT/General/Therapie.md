@@ -1648,8 +1648,9 @@ Aber 🤷‍♂️, so bin ich halt, warum sollte ich irgendwie Drumherum reden
 		- lese momentan Fritz Künkel 
 		- Raphael Bonelli so oder so
 		- Sport 
-		- ac
-	- ich merke aber
+		- Achtsamkeit 
+		- Meditation 
+	- ich merke aber das mein Körper schon noch eine echt große Hürde ist. Ich merke wie sehr mir dann das Medikament einerseits hilft andererseits aber auch wieder Probleme macht
 - zwei wöchige Medikationspause hat gut getan ⟹ Leute in der SHG machen das gar nicht ⟹ einmal jährlich absetzen wohl noch alte "doktrin"
 - wäre es möglich 
 - Methylphenidat macht nicht abhängig wäre wohl so, dass wenn es jetzt zu gelassen würde kein btm mehr sein
