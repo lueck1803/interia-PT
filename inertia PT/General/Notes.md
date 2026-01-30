@@ -925,6 +925,8 @@ Alle ungeraden Reihen  sind zu oder Abnahme Runden.
 3. 4M rechts
 4. vor der 17M gelbe büro klammer 
 5. linksgeneigte zunahme
+6. rechts bis zum Ende
+7. 
 
 
 ## new try / Nadine
