@@ -920,8 +920,11 @@ Da Freddie einen großen Fuß hat mache ich die mit 10 Zunahmen.
 #### 2. Zunahme
 Dies ist die 3. Reihe. 
 Alle ungeraden Reihen  sind zu oder Abnahme Runden.
-1. ->rechts stricken bis zur 17. M
-2. 
+1. ->rechts stricken bis zur 17. M blaue büroklammer eingefügt
+2. rechtsgeneigte zunahme
+3. 4M rechts
+4. vor der 17M gelbe büro klammer 
+5. linksgeneigte zunahme
 
 
 ## new try / Nadine
