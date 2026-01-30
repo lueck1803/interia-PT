@@ -1,4 +1,7 @@
 # unsorted tasks
+- [x] Kayro nach ABP Daten fragen
+- [x] Leif nach Lammps skript fragen
+- [ ] Auswertung von 
 - [ ] Slides Numbering!
 - [ ] Darstellungs/Auflösungsproblem bei plot mit den kleineren Kästchen klären
 - [ ] use the model of hecht2021 ![](Pasted%20image%2020260116194755.png)
