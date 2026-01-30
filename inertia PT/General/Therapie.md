@@ -1641,7 +1641,7 @@ Aber 🤷‍♂️, so bin ich halt, warum sollte ich irgendwie Drumherum reden
 	- verschwommen 
 	- schwindel
 	- festgefahrener Blick / Fokus 
-- ich würde gerne mal <span style="font-size:100%;color:red;">elvanse</span> ausprobieren
+- ich würde gerne mal <span style="font-size:100%;color:red;">elvanse</span> ausprobieren oder <span style="font-size:100%;color:green;">concerta</span>
 - zwei wöchige Medikationspause hat gut getan ⟹ Leute in der SHG machen das gar nicht ⟹ einmal jährlich absetzen wohl noch alte "doktrin"
 - wäre es möglich 
 - Methylphenidat macht nicht abhängig wäre wohl so, dass wenn es jetzt zu gelassen würde kein btm mehr sein
@@ -1650,7 +1650,7 @@ Aber 🤷‍♂️, so bin ich halt, warum sollte ich irgendwie Drumherum reden
 - mir ging es ganz gut und ich kam gut klar. Ich war aber auch die meiste Zeit alleine
 - wenn ich dann unter Leuten war, war ging meine Aufmerksamkeit echt in den Keller, da habe ich dann echt Schwierigkeiten gehabt meine executive Funktionen aufrecht zu erhalten 
 - extrem schlechtes kurzzeit Gedächtnis gehabt 
-- da hat das Medikament dann echt gezeigt wie sehr es mir solche Situationen erleichtert hat und ich mich dann einfach normal fühlen konnte. Nicht extrem viel Energie darauf verwenden musste die auswelt Geräusche auszublenden.
+- da hat das Medikament dann echt gezeigt wie sehr es mir solche Situationen erleichtert hat und ich mich dann einfach normal fühlen konnte. Nicht extrem viel Energie darauf verwenden musste die außenwelt Geräusche auszublenden.
 - ist ja alles durch die Achtsamkeit und das achten auf schlaf extrem viel besser geworden, auch wenn ich nachts extrem unzuverlässig und schlecht schlafe 
 - ne zweite Dosis zu nehmen habe ich festgestellt hilft mir besser zu schlafen und nicht in so ein Moment zu fallen in dem ich total gefroren habe
 - mir hat auch geholfen mich endlich von der Trennung meiner langjährigen Partnerin zu erholen. Ich OK und gut bin. Und so vieles was sie mir vorgeworfen hat einfach nicht stimmt
