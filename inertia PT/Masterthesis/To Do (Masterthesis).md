@@ -1,4 +1,15 @@
 # unsorted tasks
+- [x] create-sim auf general modifizieren 
+- [ ] Folien autor titel oben entfernen
+- [ ] lammps skript anpassen
+- [ ] simulationen für 
+	- [ ] 14k
+		- [ ] Pe=5,10,15,20,25,30,35
+	- [ ] 28k
+		- [ ] Pe=5,10,15,20,25,30,35
+	- [ ] 56k
+		- [ ] Pe=5,10,15,20,25,30,35
+- [x] suvendu schreiben
 - [x] Kayro nach ABP Daten fragen
 - [x] Leif nach Lammps skript fragen
 - [ ] Auswertung von $\nu$ überprüfen, eventuell Aritra fragen, ob ich nen fehler gemacht haben könnte.
