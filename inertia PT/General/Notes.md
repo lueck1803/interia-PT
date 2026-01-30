@@ -938,7 +938,11 @@ Alle ungeraden Reihen  sind zu oder Abnahme Runden.
 4. Verstärkungsrunde 
 	1. erste Socke
 		1. rechts bis zur 17.M 
-		2. 
+		2. 1.M rechts
+		3. 2.M abheben
+		4. 3.M rechts
+		5. 4. M abheben
+		6. 5. M rechts
 
 
 ## new try / Nadine
