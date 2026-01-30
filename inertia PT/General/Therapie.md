@@ -1642,6 +1642,14 @@ Aber 🤷‍♂️, so bin ich halt, warum sollte ich irgendwie Drumherum reden
 	- schwindel
 	- festgefahrener Blick / Fokus 
 - ich würde gerne mal <span style="font-size:100%;color:red;">elvanse</span> ausprobieren oder <span style="font-size:100%;color:green;">concerta</span>
+	- warum ich bin halt doch schon ziemlich fertig manchmal 
+	- würde einfach gerne wissen ob ich es besser vertrage/wie der Effekt ist. 
+	- ich hab schon viel geschafft durch selbstherapie: 
+		- lese momentan Fritz Künkel 
+		- Raphael Bonelli so oder so
+		- Sport 
+		- ac
+	- ich merke aber
 - zwei wöchige Medikationspause hat gut getan ⟹ Leute in der SHG machen das gar nicht ⟹ einmal jährlich absetzen wohl noch alte "doktrin"
 - wäre es möglich 
 - Methylphenidat macht nicht abhängig wäre wohl so, dass wenn es jetzt zu gelassen würde kein btm mehr sein
