@@ -1,7 +1,9 @@
 # unsorted tasks
 - [x] Kayro nach ABP Daten fragen
 - [x] Leif nach Lammps skript fragen
-- [ ] Auswertung von 
+- [ ] Auswertung von $\nu$ überprüfen, eventuell Aritra fragen, ob ich nen fehler gemacht haben könnte.
+	- [ ] ob er ideen im allgemeinen hat
+- [ ] Proposal schreiben!
 - [ ] Slides Numbering!
 - [ ] Darstellungs/Auflösungsproblem bei plot mit den kleineren Kästchen klären
 - [ ] use the model of hecht2021 ![](Pasted%20image%2020260116194755.png)
