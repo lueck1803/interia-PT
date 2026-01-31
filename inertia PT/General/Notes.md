@@ -955,7 +955,8 @@ Alle ungeraden Reihen  sind zu oder Abnahme Runden.
 	- 4.M abheben
 	- 5.M rechts
 	- 6.M abheben
-	- zweite Socke das Gleiche
+	- zweite Socke das Gleiche ✅
+	- 
 
 
 ## new try / Nadine
