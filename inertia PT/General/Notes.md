@@ -960,8 +960,8 @@ Alle ungeraden Reihen  sind zu oder Abnahme Runden.
 - 4. Zunahme ✅✅ + Vorderseite ✅✅
 - 4.Verstärkung: rechts,abheben,rechts,abheben,rechts,abheben,rechts ✅✅ +Vorderseite ✅✅
 - 5. Zunahme ✅✅+Vorderseite ✅✅
-- 5. Verstärkung: r,a,r,a,r,a,r,a ✅✅ + Vorderseite 
-- 
+- 5. Verstärkung: r,a,r,a,r,a,r,a ✅✅ + Vorderseite ✅✅
+- 6. Zunahme: ✅
 
 
 ## new try / Nadine
