@@ -958,7 +958,7 @@ Alle ungeraden Reihen  sind zu oder Abnahme Runden.
 	- zweite Socke das Gleiche ✅
 	- Vorderseite ✅✅
 - 4. Zunahme ✅✅ + Vorderseite ✅✅
-- 4.Verstärkung: rechts,abheben,rechts,abheben,rechts,abheben,rechts ✅✅ +Vorderseite 
+- 4.Verstärkung: rechts,abheben,rechts,abheben,rechts,abheben,rechts ✅✅ +Vorderseite ✅
 
 
 ## new try / Nadine
