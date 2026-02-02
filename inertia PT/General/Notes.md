@@ -466,6 +466,11 @@ The `ls` command has a variety of options to customize its output:
 - `-d` - List directories themselves, not their contents
 - `-F` - Append indicator (one of */=@|) to entries
 
+## rm 
+```bash
+ls | grep -P "dump*100000.txt" | xargs -d"\n" rm
+```
+
 ## column
 # PowerShell
 ## find string after a command
