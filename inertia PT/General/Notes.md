@@ -468,7 +468,7 @@ The `ls` command has a variety of options to customize its output:
 
 ## rm 
 ```bash
-ls | grep -P "dump*100000.txt" | xargs -d"\n" rm
+ls | grep -P "dump.*[1-9]00000\.txt" | xargs -d"\n" rm
 ```
 
 ## column
