@@ -470,6 +470,7 @@ The `ls` command has a variety of options to customize its output:
 ```bash
 ls | grep -P "dump.*[1-9]00000\.txt" | xargs -d"\n" rm
 ```
+So gold wert und es funktionert ❤️😍
 
 ## column
 # PowerShell
