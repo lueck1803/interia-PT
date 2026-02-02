@@ -1,5 +1,6 @@
 # unsorted tasks
 - [x] create-sim auf general modifizieren 
+- [ ] traj time step setzen mit `traj.dt=<dt>
 - [ ] create sim so modifizieren, dass restart etc mit -ow klar kommt
 - [ ] Folien autor titel oben entfernen
 - [ ] lammps skript anpassen
