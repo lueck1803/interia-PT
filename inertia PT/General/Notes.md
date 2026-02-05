@@ -970,7 +970,7 @@ Alle ungeraden Reihen  sind zu oder Abnahme Runden.
 - 5. Verstärkung: r,a,r,a,r,a,r,a ✅✅ + Vorderseite ✅✅
 - 6. Zunahme: ✅✅ +Vorderseite ✅✅
 - 6. Verstärkung: r,a,r,a,r,a,r,a,r ✅✅ + Vorderseite ✅✅
-- 7. Zunahme 
+- 7. Zunahme ✅
 
 
 ## new try / Nadine
