@@ -975,7 +975,7 @@ Alle ungeraden Reihen  sind zu oder Abnahme Runden.
 - 8. Zunahme ✅
 
 Einen Socken zurück... / Aufgemacht da sich der Knoten geöffnet hat. 
-Rautenferse vermutlich 8 maschen zwischen den Zunahme Maschen 
+Rautenferse vermutlich 12 maschen zwischen den Zunahme Maschen 
 
 
 ## new try / Nadine
