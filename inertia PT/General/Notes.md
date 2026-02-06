@@ -977,7 +977,7 @@ Alle ungeraden Reihen  sind zu oder Abnahme Runden.
 Einen Socken zurück... / Aufgemacht da sich der Knoten geöffnet hat. 
 Rautenferse vermutlich 12 maschen zwischen den Zunahme Maschen
 - 6.Verstärkungsreihe ✅ + Vorderseite✅
-- 7. Zunahme: 
+- 7. Zunahme: ✅ + Vorderseite 
 
 
 ## new try / Nadine
