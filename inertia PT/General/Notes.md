@@ -974,6 +974,9 @@ Alle ungeraden Reihen  sind zu oder Abnahme Runden.
 - 7. Verstärkung ✅✅+Vorderseite ✅✅
 - 8. Zunahme ✅
 
+Einen Socken zurück... / Aufgemacht da sich der Knoten geöffnet hat. 
+Rautenferse vermutlich 8 maschen zwischen den Zunahme Maschen 
+
 
 ## new try / Nadine
 
