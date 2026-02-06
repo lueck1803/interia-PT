@@ -978,7 +978,7 @@ Einen Socken zurück... / Aufgemacht da sich der Knoten geöffnet hat.
 Rautenferse vermutlich 12 maschen zwischen den Zunahme Maschen
 - 6.Verstärkungsreihe ✅ + Vorderseite✅
 - 7. Zunahme: ✅ + Vorderseite ✅
-- 7. Verstärkungsreihe ✅ + Vorderseite 
+- 7. Verstärkungsreihe ✅ + Vorderseite ✅
 
 
 ## new try / Nadine
