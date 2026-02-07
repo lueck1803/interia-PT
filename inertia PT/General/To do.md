@@ -1,4 +1,5 @@
 # unsortiert
+- [ ] Gitarren putzen 
 - [x] rotkohl verarbeiten
 - [x] Lohnabrechnungen für die AOK hochladen 
 - [ ] coreview <span style="font-size:100%;color:red;">reports</span>
