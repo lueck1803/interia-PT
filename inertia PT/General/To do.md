@@ -10,6 +10,7 @@
 - [ ] Krafttraining
 - [ ] Understanding data import lesen
 - [ ] 
+- [ ] Wäsche abhängen und zusammen legen
 - [ ] 56k pe 25 kopieren und auswerten
 - [ ] binder cumulant anschauen
 - [ ] exponenten anschauen
