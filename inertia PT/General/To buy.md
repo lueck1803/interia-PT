@@ -1,3 +1,4 @@
+- [ ] Toast 
 - [x] regenerier salz
 	- ⟹5 mal
 - [x] destilliertes Wasser 
