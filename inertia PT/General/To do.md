@@ -1,8 +1,24 @@
 # unsortiert
-- [ ] Gitarren putzen 
+- [ ] Müll runter
+- [ ] Gesicht waschen
+- [ ] Klamotten weg räumen
+- [ ] Staubsaugen
+- [ ] Waschenbecken putzen
+	- [ ] Bad
+	- [ ] Küche
+- [ ] Spülmaschine ausräumen
+- [ ] Krafttraining
+- [ ] Understanding data import lesen
+- [ ] 
+- [ ] 56k pe 25 kopieren und auswerten
+- [ ] binder cumulant anschauen
+- [ ] exponenten anschauen
+- [ ] report updaten
+- [ ] fresh fur spielen
+- [x] Gitarren putzen 
 - [x] rotkohl verarbeiten
 - [x] Lohnabrechnungen für die AOK hochladen 
-- [ ] coreview <span style="font-size:100%;color:red;">reports</span>
+- [x] coreview <span style="font-size:100%;color:red;">reports</span>
 - [x] Loch im grünen Shirt flicken 
 - [x] Bettwäsche wechseln 
 - [x] wie geht's den Kartoffeln?
