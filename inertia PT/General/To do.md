@@ -1,5 +1,6 @@
 # unsortiert
 - [ ] Müll runter
+- [ ] Laufen gehen
 - [ ] Gesicht waschen
 - [ ] Klamotten weg räumen
 - [ ] Staubsaugen
@@ -9,9 +10,11 @@
 - [ ] Spülmaschine ausräumen
 - [ ] Krafttraining
 - [ ] Understanding data import lesen
-- [ ] 
+- [ ] MS Sentinel weiter verstehen
+	- [ ] ausprobieren, was in le chat steht
+- [ ] security awareness
 - [ ] Wäsche abhängen und zusammen legen
-- [ ] 56k pe 25 kopieren und auswerten
+- [ ] 56k PE 25 kopieren und auswerten
 - [ ] binder cumulant anschauen
 - [ ] exponenten anschauen
 - [ ] report updaten
