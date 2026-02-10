@@ -4,7 +4,7 @@
 - [x] destilliertes Wasser 
 	- 2 mal
 - [x] Wattestäbchen 
-- [ ] metall+Kunststoff Trinkhalme Aldi falls billiger
+- [x] metall+Kunststoff Trinkhalme Aldi falls billiger
 - [x] Haferflocken
 - [ ] Müsli 
 - [x] Bananen 
