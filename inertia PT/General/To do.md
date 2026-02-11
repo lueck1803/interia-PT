@@ -13,7 +13,10 @@
 - [ ] Support Chat bei coreview Wegen den report entries fragen 
 - [ ] Mischa entlasten und nicht noch mehr Arbeit machen 
 - [ ] mehr mit den Tasks arbeiten 
-- [ ] 
+- [ ] robert wegen pentesting schreiben 
+- [ ] coreview Training 
+- [ ] occident secure score fertig testen
+- [ ] komax reports zum Vergleich 
 - [ ] MS Sentinel weiter verstehen
 	- [ ] ausprobieren, was in le chat steht
 - [ ] security awareness
