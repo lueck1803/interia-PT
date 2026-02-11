@@ -1,22 +1,23 @@
 # unsortiert
 - [ ] Müll runter
 - [ ] Laufen gehen
-- [ ] Gesicht waschen
+- [x] Gesicht waschen
 - [ ] Klamotten weg räumen
 - [ ] Staubsaugen
 - [ ] Waschenbecken putzen
 	- [ ] Bad
 	- [ ] Küche
-- [ ] Spülmaschine ausräumen
+- [x] Spülmaschine ausräumen
 - [ ] Krafttraining
 - [ ] Understanding data import lesen
 - [ ] Support Chat bei coreview Wegen den report entries fragen 
-- [ ] Mischa 
+- [ ] Mischa entlasten und nicht noch mehr Arbeit machen 
+- [ ] mehr mit den Tasks arbeiten 
 - [ ] MS Sentinel weiter verstehen
 	- [ ] ausprobieren, was in le chat steht
 - [ ] security awareness
 - [ ] Wäsche abhängen und zusammen legen
-- [ ] 56k PE 25 kopieren und auswerten
+- [x] 56k PE 25 kopieren und auswerten
 - [ ] binder cumulant anschauen
 - [ ] exponenten anschauen
 - [ ] report updaten
