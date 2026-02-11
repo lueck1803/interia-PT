@@ -11,6 +11,7 @@
 - [ ] Krafttraining
 - [ ] Understanding data import lesen
 - [ ] Support Chat bei coreview Wegen den report entries fragen 
+- [ ] Mischa 
 - [ ] MS Sentinel weiter verstehen
 	- [ ] ausprobieren, was in le chat steht
 - [ ] security awareness
