@@ -13,9 +13,13 @@
 - [ ] Support Chat bei coreview Wegen den report entries fragen 
 - [ ] Mischa entlasten und nicht noch mehr Arbeit machen 
 - [ ] mehr mit den Tasks arbeiten 
+- [ ] 
 - [ ] MS Sentinel weiter verstehen
 	- [ ] ausprobieren, was in le chat steht
 - [ ] security awareness
+- [ ] custom action bauen:
+	- [ ] auto Archive
+	- [ ] remove cancel calendar entries from today on
 - [ ] Wäsche abhängen und zusammen legen
 - [x] 56k PE 25 kopieren und auswerten
 - [ ] binder cumulant anschauen
@@ -34,7 +38,6 @@
 - [x] Zählerstand eintragen 
 - [x] Erbsen kochen
 - [x] Töpfe in Spülmaschine 
-- [ ] custom action bauen 
 - [x] staubsaugen 
 - [x] Basilikum aussäen 
 - [x] Camembert essen kochen
