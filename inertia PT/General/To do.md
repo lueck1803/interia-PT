@@ -4,6 +4,8 @@
 - [ ] konto checken 
 - [ ] Duschen 
 - [ ] friseur 
+- [ ] yoga
+- [ ] aldi
 - [ ] Staubsaugen
 - [ ] Waschenbecken putzen
 	- [ ] Bad
