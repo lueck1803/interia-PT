@@ -1,4 +1,8 @@
 - [ ] Toast 
+- [ ] Hafermilch 
+- [ ] Fusilli
+- [ ] Knoblauch pesto
+- [ ] nusskati
 - [x] regenerier salz
 	- ⟹5 mal
 - [x] destilliertes Wasser 
