@@ -720,6 +720,34 @@ Manchmal hatte sie dann auch so das Gefühl so schlecht behandelt zu werden, hat
 
 # yt Kommentare
 
+## 26-02-12 hannah spiers
+The truth is somewhere in between.
+
+I think the identity part and victim of ADHD and also the softening of borders/ strict criteria for diagnosis is bad and has to be revoked.
+
+But at all an ADHD diagnosis is something that can really help to understand and treat oneself better so it leads to an improvement.
+
+I am also something in between if a "better" or other parenting/nurture would have lead to other development.
+
+For myself I would say something in between 😅.
+
+Of course behavioral therapy has a much greater impact than medication can have. That's a fact. I speak here for myself.
+
+One thing really isn't true.
+
+Even if methamphetamine and the "adhd treatments" methylphenidate and lisdexamphetamine are chemically related, they are so much different in their effect.
+
+Maybe think at Contergan/thalidomid the stereoisomere was responsible for the inuteral body development disorders.
+
+Here are the differences much bigger. 
+
+I speak from experience that methylphenidate doesn't make someone addicted.🤷
+
+Not even close.
+I easily make medication breaks for several weeks.
+
+----
+
 18:00 Lüge!
 Das sind die standard Mythen über das finstere Mittelalter.
 Es wurde im Mittelalter kaum was erfunden 😂.
