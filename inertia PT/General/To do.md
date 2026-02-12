@@ -1,13 +1,13 @@
 # unsortiert
 - [ ] Müll runter
 - [ ] Laufen gehen
-- [x] Gesicht waschen
-- [ ] Klamotten weg räumen
+- [ ] konto checken 
+- [ ] Duschen 
+- [ ] friseur 
 - [ ] Staubsaugen
 - [ ] Waschenbecken putzen
 	- [ ] Bad
 	- [ ] Küche
-- [x] Spülmaschine ausräumen
 - [ ] Krafttraining
 - [ ] Understanding data import lesen
 - [ ] Support Chat bei coreview Wegen den report entries fragen 
