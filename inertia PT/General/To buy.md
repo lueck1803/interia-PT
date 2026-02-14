@@ -21,6 +21,7 @@
 
 # non food
 - [ ] kleinen Schneebesen 
+- [ ] metallspülkorb
 - [ ] Mehrfachsteckdose für nähtisch
 - [x] Papierklammern 
 - [x] Gärkorb
