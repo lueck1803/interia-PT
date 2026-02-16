@@ -1,6 +1,19 @@
 
 # Nachrichten an Leute
 
+## 26-02-16 Flo
+
+Und irgendwer spielt Bass.
+
+Das kann ich aber auch machen statt die Rhythmus gitarre.
+
+Da gibt's nämlich eh ein paar rhythmisch anstrengende stellen, davon würde ich mich dann auch gerne etwas befreien.
+
+Vocals sind da schon genug.
+
+Wobei hier nix wirklich anstrengendes ist im Vergleich zu smoke of many fire (da gibt's echt viel mehr verschiedene intonations variationen).
+
+
 ## 26-01-29
 ### Nadine
 ja also kann nebenwirkung vom Medikament sein und ist eine.
