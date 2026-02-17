@@ -1,5 +1,6 @@
 
 # Tägliches Mantra
+- Sachlich sein aber heißt : <span style="font-size:100%;color:limegreen;">Der Ichhaftigkeit des anderen niemals dienstbar sein.</span>
 - <span style="font-size:100%;color:red;">ich kämpfe jetzt erst Recht und lass mich nicht mehr runter ziehen. Ich will kämpfen und jetzt erst Recht um meinem Vater, meiner Schwester und der verräterischen, vertrauensunwürdigen und untreuen Arooj zu zeigen. Ich kann was, ich bin nicht schwach!</span>
 - sie hat <span style="font-size:100%;color: green;">weaponized victim hood</span> gegen mich benutzt 
 - Arooj, mein Vater und meine Schwester haben mich genug schlecht gemacht 
