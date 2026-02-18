@@ -240,6 +240,8 @@ Für Apple-Nutzer: Swift ist der Standard.
 Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (JavaScript) sind gute Optionen. 
 ## DATAPROTECT 
 - [ ] MS Sentinel einarbeiten
+	- [ ] ein paar eingaben testen
+- [ ] MS Secure 
 - [ ] Support anfragen an Coreview bzw. im Demo tenant testen:
 	- [ ] license pool
 	- [ ] audit add on
