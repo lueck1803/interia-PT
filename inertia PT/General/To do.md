@@ -239,21 +239,27 @@ Für große Reichweite (Android): Beginne mit Kotlin.
 Für Apple-Nutzer: Swift ist der Standard.
 Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (JavaScript) sind gute Optionen. 
 ## DATAPROTECT 
+- [ ] MS Sentinel einarbeiten
+- [ ] Support anfragen an Coreview bzw. im Demo tenant testen:
+	- [ ] license pool
+	- [ ] audit add on
 - [ ] LDAP ENCRYPT Mischa die version mit OMA URI schicken
-- [ ] VM umstellen 
-- [ ] coreview reports
+	- [ ] in der VM testen
+- [x] VM umstellen 
+- [x] coreview reports
 - [ ] power shell kurs für visual studio code
 - [x] die<span style="font-size:100%;color:red;"> wichtigsten 5-10  </span> <span style="font-size:100%;color: lawngreen;">sinnvollen</span> policies auf gängigkeit überprüfen damit wir sie deployen können
 - [ ] <span style="font-size:100%;color:red">mich gut in Coreview einarbeiten, da ich ab nächsten jahr mehr mit coreview zusammenarbeiten werde</span>
 - [ ] bräuchten Soft fail bei den workflows
 - [ ] if closes in den Workflows anschauen
 - [ ] ms Security weiter machen 
-- [ ] Georgios nochmal schreiben
+- [x] Georgios nochmal schreiben
+	- [ ] der antwortet nicht
 - [ ] zero Trust Assessment+maester.dev
 	- [ ] zero trust assessment hat
 	- [ ] nicht geklappt 
 	- [x] maester dev hat geklappt 
-- [ ] mit einem älteren Checkpoint in der VM verbinden. ist es der richtige? Wie geht das?
+- [x] mit einem älteren Checkpoint in der VM verbinden. ist es der richtige? Wie geht das?
 - [x] Hybrid Connector 
 	- [x] ⟹ <span style="color:gold">habe keinen Zugriff</span>
 - [ ] heylogin 
