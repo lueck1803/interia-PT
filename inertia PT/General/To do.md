@@ -241,7 +241,8 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 ## DATAPROTECT 
 - [ ] MS Sentinel einarbeiten
 	- [ ] ein paar eingaben testen
-- [ ] Call mit ninja one
+- [ ] Call mit ninja one vereinbaren
+	- [ ] für eine Einführung
 - [ ] MS Secure score abschließen
 	- [ ] welche policies nehmen wir und welche nicht?
 	- [ ] alle gescheit testen
