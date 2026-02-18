@@ -30,7 +30,11 @@ Du siehst aber, zum Maß halten, in dem jeweils einer oder beide Frequenz und Qu
 Fühl dich doch auch bitte nicht gestresst oder unter Druck.
 Gerade das hast du ja selbst den Sonntag nach dem wir uns kennengelernt haben geschrieben.
 
-Letzte Woche als ich angesprochen habe, dass wir mal die Handbremse ziehen sollten, habe ich ja immer tempo raus genommen in dem ich zn
+Letzte Woche als ich angesprochen habe, dass wir mal die Handbremse ziehen sollten, habe ich ja immer tempo raus genommen in dem ich zb erst einen Tag später gelesen und geantwortet habe. 
+
+Und ich habe mich damit auch voll OK gefühlt da du das selbst geschrieben hattest dass ich mir Zeit lassen kann/soll.
+Offenbar brauchst du das auch dass der andere etwas tempo raus nimmt.
+
 # Nachrichten an Leute
 
 ## 26-02-16 Flo
