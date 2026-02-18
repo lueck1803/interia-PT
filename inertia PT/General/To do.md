@@ -13,7 +13,7 @@
 - [ ] robert wegen pentesting schreiben 
 - [ ] coreview Training 
 - [ ] occident secure score fertig testen
-- [ ] komax reports zum Vergleich neu
+- [x] komax reports zum Vergleich neu
 - [ ] MS Sentinel weiter verstehen
 	- [ ] ausprobieren, was in le chat steht
 - [ ] security awareness
