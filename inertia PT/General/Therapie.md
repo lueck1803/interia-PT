@@ -1639,6 +1639,7 @@ Aber 🤷‍♂️, so bin ich halt, warum sollte ich irgendwie Drumherum reden
 - 
 # Psychiater
 ## Medikamente
+-  26-02-18: war erfolgreich den Arzt zu überzeugen. Ab morgen nehme ich Elvanse 😱
 - Probleme mit dem sehen. 
 	- verschwommen 
 	- schwindel
