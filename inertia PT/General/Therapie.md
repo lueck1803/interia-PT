@@ -1,6 +1,7 @@
 
 # Tägliches Mantra
 - Sachlich sein aber heißt : <span style="font-size:100%;color:limegreen;">Der Ichhaftigkeit des anderen niemals dienstbar sein.</span>
+- Man mache sich klar, daß die <span style="font-size:100%;color: orange;">Bedrohung des Ich-Ideals für uns  alle unerträglicher ist, als die Bedrohung unseres Lebens</span> . Wer sich  in seinem Ich-Ideal bedroht fühlt, benimmt sich wie ein Mensch in  Notwehr . Er fragt nicht nach den späteren Folgen, sondern er  schlägt blindlings um sich. Wer nur ein einziges Mittel kennt, das  ihn im Augenblick der Ich-gefahr retten kann, der wendet dieses  Mittel an, wenn es ihn auch später mit den denkbar schwersten Folgen belastet.
 - <span style="font-size:100%;color:red;">ich kämpfe jetzt erst Recht und lass mich nicht mehr runter ziehen. Ich will kämpfen und jetzt erst Recht um meinem Vater, meiner Schwester und der verräterischen, vertrauensunwürdigen und untreuen Arooj zu zeigen. Ich kann was, ich bin nicht schwach!</span>
 - sie hat <span style="font-size:100%;color: green;">weaponized victim hood</span> gegen mich benutzt 
 - Arooj, mein Vater und meine Schwester haben mich genug schlecht gemacht 
