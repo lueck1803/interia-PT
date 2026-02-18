@@ -29,6 +29,8 @@ Du siehst aber, zum Maß halten, in dem jeweils einer oder beide Frequenz und Qu
 
 Fühl dich doch auch bitte nicht gestresst oder unter Druck.
 Gerade das hast du ja selbst den Sonntag nach dem wir uns kennengelernt haben geschrieben.
+
+Letzte Woche als ich angesprochen habe, dass wir mal die Handbremse ziehen sollten, habe ich ja immer tempo raus genommen in dem ich zn
 # Nachrichten an Leute
 
 ## 26-02-16 Flo
