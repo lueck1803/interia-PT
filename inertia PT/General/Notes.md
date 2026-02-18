@@ -23,7 +23,12 @@ Und auch nicht den eigenen Anteil an der Situation 😅.
 Ich hab dein Handydetox jetzt ja auch nicht persönlich genommen. 
 Habe darauf Rücksicht genommen und es selbst als Einhaltung eines Maß was ich zu vor schon angesprochen habe, wahrgenommen.
 
-Du hast 
+Du hast jetzt ja auch wieder viel geschrieben. Da kannst du auch mit ner entsprechenden Antwort rechnen. 
+
+Du siehst aber, zum Maß halten, in dem jeweils einer oder beide Frequenz und Quantität reduzieren, können beide beitragen 🫂.
+
+Fühl dich doch auch bitte nicht gestresst oder unter Druck.
+Gerade 
 # Nachrichten an Leute
 
 ## 26-02-16 Flo
