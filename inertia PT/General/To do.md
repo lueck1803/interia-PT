@@ -241,7 +241,13 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 ## DATAPROTECT 
 - [ ] MS Sentinel einarbeiten
 	- [ ] ein paar eingaben testen
-- [ ] MS Secure 
+- [ ] MS Secure score abschließen
+	- [ ] welche policies nehmen wir und welche nicht?
+	- [ ] alle gescheit testen
+	- [ ] und die letzten nicht funktionierenden fixen
+- [ ] Research Exchange Hybrid abbauen
+	- [ ] muss wirklich save sein, dass man das <span style="font-size:100%;color:red;">wegwerfen kann</span> 
+	- [ ] geht um die Abschaltung von Zug
 - [ ] Support anfragen an Coreview bzw. im Demo tenant testen:
 	- [ ] license pool
 	- [ ] audit add on
