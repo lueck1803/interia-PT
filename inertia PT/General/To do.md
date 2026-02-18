@@ -7,16 +7,16 @@
 - [ ] yoga
 - [ ] Krafttraining
 - [ ] Understanding data import lesen
-- [ ] Support Chat bei coreview Wegen den report entries fragen 
+- [x] Support Chat bei coreview Wegen den report entries fragen 
 - [ ] Mischa entlasten und nicht noch mehr Arbeit machen 
 - [ ] mehr mit den Tasks arbeiten 
 - [ ] robert wegen pentesting schreiben 
-- [ ] coreview Training 
+- [x] coreview Training 
 - [ ] occident secure score fertig testen
 - [x] komax reports zum Vergleich neu
 - [ ] MS Sentinel weiter verstehen
 	- [ ] ausprobieren, was in le chat steht
-- [ ] security awareness
+- [x] security awareness
 - [ ] custom action bauen:
 	- [ ] auto Archive
 	- [ ] remove cancel calendar entries from today on
