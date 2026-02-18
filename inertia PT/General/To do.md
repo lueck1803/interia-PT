@@ -1,15 +1,10 @@
 # unsortiert
-- [ ] Müll runter
+- [x] Müll runter
+- [ ] drucker saugen 
 - [ ] Laufen gehen
 - [ ] konto checken 
-- [ ] Duschen 
 - [ ] friseur 
 - [ ] yoga
-- [ ] aldi
-- [ ] Staubsaugen
-- [ ] Waschenbecken putzen
-	- [ ] Bad
-	- [ ] Küche
 - [ ] Krafttraining
 - [ ] Understanding data import lesen
 - [ ] Support Chat bei coreview Wegen den report entries fragen 
@@ -25,7 +20,7 @@
 - [ ] custom action bauen:
 	- [ ] auto Archive
 	- [ ] remove cancel calendar entries from today on
-- [ ] Wäsche abhängen und zusammen legen
+- [x] Wäsche abhängen und zusammen legen
 - [x] 56k PE 25 kopieren und auswerten
 - [ ] binder cumulant anschauen
 - [ ] exponenten anschauen
