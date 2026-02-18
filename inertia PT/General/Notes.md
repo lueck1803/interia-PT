@@ -16,7 +16,14 @@ Dein Vater hat wegen dir getrunken und deine Mutter...
 
 Ich kenne das ja auch. Und es fühlt sich an als wäre man der Sache oder dem anderen ausgeliefert.
 
-Man sieht die euge
+Man sieht die eigene Selbstwirksamkeit nicht. 
+
+Und auch nicht den eigenen Anteil an der Situation 😅.
+
+Ich hab dein Handydetox jetzt ja auch nicht persönlich genommen. 
+Habe darauf Rücksicht genommen und es selbst als Einhaltung eines Maß was ich zu vor schon angesprochen habe, wahrgenommen.
+
+Du hast 
 # Nachrichten an Leute
 
 ## 26-02-16 Flo
