@@ -1,4 +1,12 @@
+Das arme wölkchen ist meinen Nachrichten ja völlig ausgeliefert ^^.
 
+Finde den Fehler ^^.
+
+Und ja richtige Reaktion!
+Es erwartet ja niemand dass du das sofort liest und sofort antwortest.
+Der Druck ist ganz alleine in dir.
+
+Diese indirekte Schuldzuweisung "deine Nachrichten treiben mich in den nächsten handydetox", erinner
 # Nachrichten an Leute
 
 ## 26-02-16 Flo
