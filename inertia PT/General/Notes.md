@@ -28,7 +28,7 @@ Du hast jetzt ja auch wieder viel geschrieben. Da kannst du auch mit ner entspre
 Du siehst aber, zum Maß halten, in dem jeweils einer oder beide Frequenz und Quantität reduzieren, können beide beitragen 🫂.
 
 Fühl dich doch auch bitte nicht gestresst oder unter Druck.
-Gerade 
+Gerade das hast du ja selbst den Sonntag nach dem wir uns kennengelernt haben geschrieben.
 # Nachrichten an Leute
 
 ## 26-02-16 Flo
