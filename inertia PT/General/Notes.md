@@ -6,7 +6,17 @@ Und ja richtige Reaktion!
 Es erwartet ja niemand dass du das sofort liest und sofort antwortest.
 Der Druck ist ganz alleine in dir.
 
-Diese indirekte Schuldzuweisung "deine Nachrichten treiben mich in den nächsten handydetox", erinner
+Diese indirekte Schuldzuweisung "deine Nachrichten treiben mich in den nächsten Handydetox", nehme ich natürlich nicht persönlich und auch nicht ernst.
+
+Ich weiß ja woher das kommt.
+Deine Mutter und dein Vater haben dich ja auch immer für ihr Verhalten verantwortlich gemacht.
+Dein Vater hat wegen dir getrunken und deine Mutter...
+
+😉🫂 Alles gut. 
+
+Ich kenne das ja auch. Und es fühlt sich an als wäre man der Sache oder dem anderen ausgeliefert.
+
+Man sieht die euge
 # Nachrichten an Leute
 
 ## 26-02-16 Flo
