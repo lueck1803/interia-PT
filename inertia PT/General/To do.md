@@ -1,11 +1,14 @@
 # unsortiert
-- [x] Müll runter
+- [ ] Maria antworten 
+- [ ] Fragebogen 
+	- [ ] ausfüllen 
+	- [ ] scannen 
+	- [ ] absenden
 - [ ] drucker saugen 
 - [ ] Laufen gehen
 - [ ] konto checken 
 - [ ] friseur 
 - [ ] yoga
-- [ ] Krafttraining
 - [ ] Understanding data import lesen
 - [x] Support Chat bei coreview Wegen den report entries fragen 
 - [ ] Mischa entlasten und nicht noch mehr Arbeit machen 
