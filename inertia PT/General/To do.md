@@ -371,10 +371,10 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] graue hose Knopf reparieren 
 # Pflanzen 
 - [ ] Bohnenkraut einpflanzen 
-- [ ] zitrusgewächse umpflanzen 
-	- [ ] limequat 
-	- [ ] Kumquat 
-	- [ ] calamondinorange
+- [x] zitrusgewächse umpflanzen 
+	- [x] limequat 
+	- [x] Kumquat 
+	- [x] calamondinorange
 - [x] Sellerie einpflanzen 
 - [x] Erdbeeren Pflegen
 - [x] vogelmiere bei Pfefferminze entfernen 
