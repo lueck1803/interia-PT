@@ -1,3 +1,16 @@
+
+# Nachrichten an Leute
+
+## 26-02-19 Julia 
+Ich kläre meine Nachricht von gestern dann doch nochmal ein bisschen auf: 
+1. Ich bin mir bewusst dass du weißt dass du keine Schuld trägst und du weißt dass die Worte deiner Mutter Quatsch sind
+2. Es ist ein Unterschied ob man das kognitiv verstanden hat und ob man das emotional auch präsent in seinem Wesen aufgenommen hat und dann auch umsetzen kann. 
+3.  Es gibt nunmal auch Muster die man unbewusst übernimmt, die sich in früher Kindheit eingeprägt haben. Dazu zählen nunmal auch gewisse Denkmuster und Floskeln, auch wenn man es kognitiv anders meint. 
+4. Selbstwirksamkeit leidet da auch
+5. Ich spreche da ja aus eigener Erfahrung und weiß wie schwer es ist da Muster loszulassen.
+6. Es ist nicht schön, wenn du grundsätzlich abgelenkt bist, da du antworten erwartest, dass ist ein intensives Abhängigkeitsgefühl. Ich kenne das. Das paralysiert einen.
+
+## 26-02-18 Julia 
 Das arme wölkchen ist meinen Nachrichten ja völlig ausgeliefert ^^.
 
 Finde den Fehler ^^.
@@ -34,8 +47,6 @@ Letzte Woche als ich angesprochen habe, dass wir mal die Handbremse ziehen sollt
 
 Und ich habe mich damit auch voll OK gefühlt da du das selbst geschrieben hattest dass ich mir Zeit lassen kann/soll.
 Offenbar brauchst du das auch dass der andere etwas tempo raus nimmt.
-
-# Nachrichten an Leute
 
 ## 26-02-16 Flo
 
