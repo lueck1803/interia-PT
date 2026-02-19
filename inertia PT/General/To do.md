@@ -1,9 +1,9 @@
 # unsortiert
 - [ ] Maria antworten 
-- [ ] Fragebogen 
-	- [ ] ausfüllen 
-	- [ ] scannen 
-	- [ ] absenden
+- [x] Fragebogen 
+	- [x] ausfüllen 
+	- [x] scannen 
+	- [x] absenden
 - [ ] drucker saugen 
 - [ ] Laufen gehen
 - [ ] konto checken 
