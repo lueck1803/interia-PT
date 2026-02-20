@@ -1639,6 +1639,17 @@ Aber 🤷‍♂️, so bin ich halt, warum sollte ich irgendwie Drumherum reden
 - 
 # Psychiater
 ## Medikamente
+- Gestern war ein Traum und auch heute Vertrage ich es super.
+	Nebenwirkungen nicht vorhanden Gegenüber dem mph.
+	Und den Tag über konstant Energie.
+
+	Abends war ich auch zum perfekten Zeitpunkt müde.
+
+	Interferiert auch nicht mit dem Sport.
+
+	Mit mph ist mein Herzschlag beim Sport deutlicher zu spüren gewesen.
+
+Gestern null.
 - erster Tag elvanse war ein Traum
 -  26-02-18: war erfolgreich den Arzt zu überzeugen. Ab morgen nehme ich Elvanse 😱
 - Probleme mit dem sehen. 
