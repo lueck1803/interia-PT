@@ -1,4 +1,7 @@
 # unsorted tasks
+- [ ] To solve the problem that there are boxes in too narrow areas
+	- [ ] it must be necessary that there are at least two peaks / pits 
+	- [ ] 
 - [x] create-sim auf general modifizieren 
 - [ ] traj time step setzen mit `traj.dt=<dt>
 - [ ] create sim so modifizieren, dass restart etc mit -ow klar kommt
