@@ -97,6 +97,9 @@ $$
 - [ ] reeval the exponents
 - [ ] changed that `nbins` is dependend on the width of the simulation box factor `nbins=boxwidth*0.5` before 0.3 derived from 600 bins for 224k particles with width ~ 2000  
 
+# Masterplot
+multiply the data: binder cumulant, order parameter,  susceptibility 
+with the scaling factors
 # Important guidline to fokus on
 - <span style="font-size:120%;color:red">Don't touch the box algo anymore!</span>
 - <span style="font-size:120%;color:red">determine the Phase transition point</span>
