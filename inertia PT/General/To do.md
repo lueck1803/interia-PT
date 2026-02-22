@@ -364,7 +364,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 	- [x] Auspacken und Aufstellen 
 	- [x] Faden aufspulen
 	- [x] erste test nähte
-	- [ ] Knopfautomatik 
+	- [x] Knopfautomatik 
 - [ ] Monblume weiter malen
 - [ ] Becorns basteln
 - [x]  Schlafanzughose flicken
