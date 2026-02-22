@@ -17,7 +17,6 @@
 	  ![](0.0_23.447361.png)
 	  In comparison to a higher threshold (here the half of the standard deviation):
 	  ![](0.0_23.447361%201.png)
-- [ ] 
 - [x] create-sim auf general modifizieren 
 - [ ] traj time step setzen mit `traj.dt=<dt>
 - [ ] create sim so modifizieren, dass restart etc mit -ow klar kommt
