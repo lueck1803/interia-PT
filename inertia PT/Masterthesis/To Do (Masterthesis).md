@@ -1,4 +1,6 @@
 # unsorted tasks
+- [ ] copy general plot to the non plot script
+- [ ] masterplot below the general plots
 - [ ] To solve the problem that there are boxes in too narrow areas
 	- [x] it must be necessary that there are at least two peaks / pits 
 	- This filter I already have for the pits
@@ -106,15 +108,16 @@ multiply the data of the observable (binder cumulant, order parameter,  suscepti
 $$, where $\zeta_{\mathcal{O}}$ is the critical exponent associated with the observable $\mathcal{O}$, $F_{\mathcal{O}}$ is a universal finite-size scaling function and $\omega$ is the power of the (subleading) correction-to-scaling exponent.
 
 ![](Pasted%20image%2020260222131207.png)
+- use the correct $M_{C}$ and correct exponents
 - plot the orderparameter
 	- [x] max
 	- [ ] half
-- [ ] add L to the ledgend
-- [ ] plot bindercumulant
-	- [ ] max
+- [x] add L to the ledgend
+- plot bindercumulant
+	- [x] max
 	- [ ] half
-- [ ] plot $\chi$
-	- [ ] max
+- plot $\chi$
+	- [x] max
 	- [ ] half
 # Important guidline to fokus on
 - <span style="font-size:120%;color:red">Don't touch the box algo anymore!</span>
