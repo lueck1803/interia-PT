@@ -1,5 +1,13 @@
 
 # Nachrichten an Leute
+## 26-02-22 Fredin (Nachricht abgebrochen)
+ich frag mich immer warum, mich das so schwach macht, ich so ein "kleiner Luk" werde, wenn ich an Arooj denke.
+
+Ich fühle mich dann auch schuldig, nicht genug zu sein, zu ich-haft, unreif, unsortiert, nicht fokussiert genug, energielos gewesen zu sein, ich fühle mich dann schlecht und niederträchtig für all meine Unzulänglichkeiten, schlechten Angewohnheiten und Gedankengänge. 
+
+Daran habe ich immer viel gearbeitet. Und so drunter gelitten, wie negativ ich missverstanden wurde.
+Es dann da auch häufig kein 
+
 
 ## 26-02-19 Julia 
 Ich kläre meine Nachricht von gestern dann doch nochmal ein bisschen auf: 
