@@ -363,7 +363,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [ ] Nähmaschine ersteinrichtung
 	- [x] Auspacken und Aufstellen 
 	- [x] Faden aufspulen
-	- [ ] erste test nähte
+	- [x] erste test nähte
 - [ ] Monblume weiter malen
 - [ ] Becorns basteln
 - [x]  Schlafanzughose flicken
