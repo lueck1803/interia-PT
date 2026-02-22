@@ -101,7 +101,9 @@ $$
 multiply the data of the observable (binder cumulant, order parameter,  susceptibility) with the scaling factors of the observable. $L^{\zeta_{\mathcal{O}}/\nu}$ 
 
 > [!NOTE] Maggi21
-> Using the finite-size scaling ansatz, we assume that a generic observable $\mathcal{O}$ near the critical 
+> Using the finite-size scaling ansatz, we assume that a generic observable $\mathcal{O}$ near the critical point behaves as $$
+\mathcal{O}=L^{\zeta_{\mathcal{O}}/\nu}\left[ F_{\mathcal{O}}\left( L \xi^{-1} \right) + O \left( L^{-\omega},\xi^{-\omega} \right)  \right] 
+$$, where $\zeta_{\mathcal{O}}$
 
 # Important guidline to fokus on
 - <span style="font-size:120%;color:red">Don't touch the box algo anymore!</span>
