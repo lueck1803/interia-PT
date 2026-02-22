@@ -8,10 +8,15 @@
 	- stdHalf:
 	  ![](box_sqSi23_frame_144000000.png)
 	  ![](Pasted%20image%2020260222122153.png)
-	  you see the magenta square in the second row from above, which shouldn't be there
+	  you see the magenta (dilute) square in the second row from above, which shouldn't be there
 	- peakheightmul = 1.05 and pitheightmul = .95
 	  ![](box_sqSi23_frame_144000000%201.png)
-	  
+	  ![](Pasted%20image%2020260222122327.png)
+	  here it is replaced by a green (dense) one
+	  This is caused be the splitting of the horizontal density distribution with a lower threshold for the deviation from the mean value for the pit height and peak height.
+	  ![](0.0_23.447361.png)
+	  In comparison to a higher threshold (here the half of the standard deviation):
+	  ![](0.0_23.447361%201.png)
 - [ ] 
 - [x] create-sim auf general modifizieren 
 - [ ] traj time step setzen mit `traj.dt=<dt>
