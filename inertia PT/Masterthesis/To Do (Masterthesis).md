@@ -3,6 +3,16 @@
 	- [x] it must be necessary that there are at least two peaks / pits 
 	- This filter I already have for the pits
 	- [x] The actual square box must be inside the outer box
+- [ ] For better results I switched from pit/peak height multiplier of stdDev/stdHalf to peakheightmul = 1.05 and pitheightmul = .95
+      Comparisson:
+	- stdHalf:
+	  ![](box_sqSi23_frame_144000000.png)
+	  ![](Pasted%20image%2020260222122153.png)
+	  you see the magenta square in the second row from above, which shouldn't be there
+	- peakheightmul = 1.05 and pitheightmul = .95
+	  ![](box_sqSi23_frame_144000000%201.png)
+	  
+- [ ] 
 - [x] create-sim auf general modifizieren 
 - [ ] traj time step setzen mit `traj.dt=<dt>
 - [ ] create sim so modifizieren, dass restart etc mit -ow klar kommt
