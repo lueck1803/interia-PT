@@ -106,6 +106,7 @@ multiply the data of the observable (binder cumulant, order parameter,  suscepti
 $$, where $\zeta_{\mathcal{O}}$ is the critical exponent associated with the observable $\mathcal{O}$, $F_{\mathcal{O}}$ is a universal finite-size scaling function and $\omega$ is the power of the (subleading) correction-to-scaling exponent.
 
 ![](Pasted%20image%2020260222131207.png)
+
 # Important guidline to fokus on
 - <span style="font-size:120%;color:red">Don't touch the box algo anymore!</span>
 - <span style="font-size:120%;color:red">determine the Phase transition point</span>
