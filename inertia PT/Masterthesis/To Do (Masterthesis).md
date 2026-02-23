@@ -1,8 +1,9 @@
 # unsorted tasks
 - [ ] copy general plot to the non plot script
 - [ ] masterplot below the general plots
-- [ ] add a "post filter" for the pits and peaks
-	- [ ] it should throw out all values within the standard dev
+- [x] add a "post filter" for the pits and peaks
+	- it should throw out all values within the standard dev
+	- <span style="font-size:100%;color:red;">⟹seems to have nice results</span>
 - [ ] To solve the problem that there are boxes in too narrow areas
 	- [x] it must be necessary that there are at least two peaks / pits 
 	- This filter I already have for the pits
