@@ -1,6 +1,7 @@
 # unsorted tasks
 - [x] copy general plot to the non plot script
 - [ ] migrate scripts on the cluster 
+- [ ] automate show exponent value in masterplot 
 - [ ] masterplot below the general plots
 - [x] add a "post filter" for the pits and peaks
 	- it should throw out all values within the standard dev
