@@ -1,5 +1,6 @@
 # unsorted tasks
-- [ ] copy general plot to the non plot script
+- [x] copy general plot to the non plot script
+- [ ] migrate scripts on the cluster 
 - [ ] masterplot below the general plots
 - [x] add a "post filter" for the pits and peaks
 	- it should throw out all values within the standard dev
