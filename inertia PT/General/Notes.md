@@ -1078,7 +1078,7 @@ Rautenferse vermutlich 12 maschen zwischen den Zunahme Maschen
 - 8. Zunahme ✅ + Vorderseite ✅
 
 Wieder zusammen führen 
-- 8. Verstärkungsreihe 
+- 8. Verstärkungsreihe ✅
 
 
 ## new try / Nadine
