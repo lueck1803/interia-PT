@@ -1,6 +1,7 @@
 # unsorted tasks
 - [x] copy general plot to the non plot script
-- [ ] if stddev is smaller than a certain value 
+- [ ] if stddev is smaller than a certain value don't restrict to two pits 
+	- [ ] found another solution
 - [ ] migrate scripts on the cluster 
 - [ ] automate show exponent value in masterplot 
 - [ ] masterplot below the general plots
