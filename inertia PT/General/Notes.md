@@ -1081,8 +1081,15 @@ Wieder zusammen führen
 - 8. Verstärkungsreihe ✅✅ + Vorderseite ✅✅
 - 9. Zunahme ✅✅ + Vorderseite ✅✅
 - 9. Verstärkungsreihe ✅✅ + Vorderseite ✅✅
+- 10. Zunahme ✅✅ + Vorderseite ✅✅
 - 10. Verstärkungsreihe ✅✅ + Vorderseite ✅✅
-- 
+### Abnahmen
+#### 1. Abnahme 
+1. 1. M wie zum rechts stricken abheben 
+2.  2. M rechts stricken 
+3. 1. M die abgehoben wurde über die zu letzt gestrickte drüber ziehen 
+4. Rechts stricken bis 2 M vor dem markierer.
+5. Die letzten beiden rechts zusammen stricken 
 
 
 ## new try / Nadine
