@@ -1,5 +1,7 @@
 # unsorted tasks
 - [x] copy general plot to the non plot script
+- [ ] add the values used for the masterplots into the slides
+- [ ] adjust masterplot template so that it reads the header from the csv file
 - [ ] if stddev is smaller than a certain value don't restrict to two pits 
 	- [ ] found another solution
 - [ ] migrate scripts on the cluster 
