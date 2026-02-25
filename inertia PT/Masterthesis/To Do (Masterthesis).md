@@ -118,14 +118,14 @@ $$, where $\zeta_{\mathcal{O}}$ is the critical exponent associated with the obs
 - use the correct $M_{C}$ and correct exponents
 - plot the orderparameter
 	- [x] max
-	- [ ] half
+	- [x] half
 - [x] add L to the ledgend
 - plot bindercumulant
 	- [x] max
-	- [ ] half
+	- [x] half
 - plot $\chi$
 	- [x] max
-	- [ ] half
+	- [x] half
 # Important guidline to fokus on
 - <span style="font-size:120%;color:red">Don't touch the box algo anymore!</span>
 - <span style="font-size:120%;color:red">determine the Phase transition point</span>
