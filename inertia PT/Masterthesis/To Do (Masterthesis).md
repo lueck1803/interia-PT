@@ -3,7 +3,6 @@
 - [ ] if stddev is smaller than a certain value don't restrict to two pits 
 	- [ ] found another solution
 - [ ] migrate scripts on the cluster 
-- [ ] automate show exponent value in masterplot 
 - [ ] masterplot below the general plots
 - [x] add a "post filter" for the pits and peaks
 	- it should throw out all values within the standard dev
@@ -119,10 +118,12 @@ $$, where $\zeta_{\mathcal{O}}$ is the critical exponent associated with the obs
 - plot the orderparameter
 	- [x] max
 	- [x] half
+		- [ ] replot with the lowest two $L$ 
 - [x] add L to the ledgend
 - plot bindercumulant
 	- [x] max
 	- [x] half
+		- [ ] replot with the lowest two $L$ 
 - plot $\chi$
 	- [x] max
 	- [x] half
