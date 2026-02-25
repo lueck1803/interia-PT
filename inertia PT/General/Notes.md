@@ -1081,7 +1081,8 @@ Wieder zusammen führen
 - 8. Verstärkungsreihe ✅✅ + Vorderseite ✅✅
 - 9. Zunahme ✅✅ + Vorderseite ✅✅
 - 9. Verstärkungsreihe ✅✅ + Vorderseite ✅✅
-- 10. Verstärkungsreihe ✅
+- 10. Verstärkungsreihe ✅✅ + Vorderseite ✅✅
+- 
 
 
 ## new try / Nadine
