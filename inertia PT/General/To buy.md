@@ -21,7 +21,7 @@
 
 # non food
 - [ ] kleinen Schneebesen 
-- [ ] Plastik Plättchen zum tür öffnen 
+- [ ] Plastik Plättchen zum tür öffnen -> pet Flasche 
 - [x] metallspülkorb
 - [ ] Mehrfachsteckdose für nähtisch
 - [x] Papierklammern 
