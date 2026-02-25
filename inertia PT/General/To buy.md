@@ -10,7 +10,7 @@
 - [x] Wattestäbchen 
 - [x] metall+Kunststoff Trinkhalme Aldi falls billiger
 - [x] Haferflocken
-- [ ] Müsli 
+- [x] Müsli 
 - [x] Bananen 
 - [x] Zwiebeln 
 	- [x] gelb
