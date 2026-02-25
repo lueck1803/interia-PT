@@ -115,6 +115,7 @@ $$, where $\zeta_{\mathcal{O}}$ is the critical exponent associated with the obs
 
 ![](Pasted%20image%2020260222131207.png)
 - use the correct $M_{C}$ and correct exponents
+- [ ] automate show exponent value in masterplot 
 - plot the orderparameter
 	- [x] max
 	- [x] half
