@@ -1091,7 +1091,7 @@ Wieder zusammen führen
 4. Rechts stricken bis 2 M vor dem markierer.
 5. Die letzten beiden rechts zusammen stricken 
 #### Abnahmen 
-- 1. Abnahme ✅
+- 1. Abnahme ✅✅ + Vorderseite 
 
 
 
