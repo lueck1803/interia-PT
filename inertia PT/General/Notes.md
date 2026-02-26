@@ -1093,7 +1093,7 @@ Wieder zusammen führen
 #### Abnahmen 
 - 1. Abnahme ✅✅ + Vorderseite ✅✅
 - 1. Verstärkung (A) ✅✅ + Vorderseite ✅✅
-- 2. Abnahme 
+- 2. Abnahme ✅✅ + Vorderseite ✅
 
 
 
