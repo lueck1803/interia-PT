@@ -1084,7 +1084,7 @@ Wieder zusammen führen
 - 10. Zunahme ✅✅ + Vorderseite ✅✅
 - 10. Verstärkungsreihe ✅✅ + Vorderseite ✅✅
 ### Abnahmen
-##### Abnahme 
+##### die Abnahme 
 1. 1. M wie zum rechts stricken abheben 
 2.  2. M rechts stricken 
 3. 1. M die abgehoben wurde über die zu letzt gestrickte drüber ziehen 
@@ -1093,7 +1093,8 @@ Wieder zusammen führen
 #### Abnahmen 
 - 1. Abnahme ✅✅ + Vorderseite ✅✅
 - 1. Verstärkung (A) ✅✅ + Vorderseite ✅✅
-- 2. Abnahme ✅✅ + Vorderseite ✅
+- 2. Abnahme ✅✅ + Vorderseite ✅✅
+- 2. Verstärkung (r) 
 
 
 
