@@ -1092,7 +1092,7 @@ Wieder zusammen führen
 5. Die letzten beiden rechts zusammen stricken 
 #### Abnahmen 
 - 1. Abnahme ✅✅ + Vorderseite ✅✅
-- 1. Verstärkung (A) 
+- 1. Verstärkung (A) ✅✅ + Vorderseite ✅
 
 
 
