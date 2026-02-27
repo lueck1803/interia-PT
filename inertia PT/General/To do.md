@@ -364,7 +364,8 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] kiwi aussäen 
 	- [ ] pikieren 
 - [x] maracuja aussäen 
-- [x] Löcher in Thunfischdosen bohren und einpflanzen:
+- [x] Löcher in Thunfi
+- [ ] schdosen bohren und einpflanzen:
 	- [ ] kiwi
 		- angefangen 
 	- [x] Apfelpflanzen 
