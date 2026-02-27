@@ -164,7 +164,8 @@
 	- [ ] Merck 
 	- [ ] Landschaftsgartenbau 
 	- [ ] kitas
-	- [ ] schu
+	- [ ] Schulen 
+	- [ ] Forst 
 ## Frisör Queueing System 
 Ein queueing system für den Frisör
 Scannst du qr Code
