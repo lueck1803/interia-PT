@@ -9,13 +9,11 @@
 - [ ] konto checken 
 - [ ] friseur 
 - [ ] yoga
-- 
 - [x] Wäsche abhängen und zusammen legen
 - [x] 56k PE 25 kopieren und auswerten
 - [ ] binder cumulant anschauen
 - [ ] exponenten anschauen
 - [ ] report updaten
-- [ ] fresh fur spielen
 - [x] Gitarren putzen 
 - [x] rotkohl verarbeiten
 - [x] Lohnabrechnungen für die AOK hochladen 
@@ -38,27 +36,12 @@
 	- [ ] türkisch abschreiben 
 - [x] Küche aufräumen 
 - [x] staubsaugen 
-- [ ] Apfel essen 
-- [x] Zähne nochmal putzen 
-- [x] Brokkoli waschen 
-- [x] Brokkoli kochen 
-- [x] Spülmaschine 
-- [x] Handschuh flicken
-- [x] weiße nahtschere schleifen 
-- [ ] wer ist morgen mit jc dran?
+- [ ] Apfel essen  
 - [ ] fragen was mit der Abrechnung vom September ist bzw schauen ob was kam 
 - [ ] zip tight knoten lernen 
-- [x] über Schlafmaske nähen 
-- [x] bett beziehen 
-- [x] Lotos in Teich 
-- [x] ingwer schälen und einfrieren 
-- [x] Fahrrad Lampe Fest schrauben 
+
 - [ ] tesaabroller schärfen
 - [x] Aldi Tasche reparieren 
-- [ ] Waffenbrüder Gitarre und Text
-- [ ] fresh fur lead Gitarre 
-- [ ] Shortcut obsidian unter windows und anderen für toggl checkbox/bullet list
-- [ ] wintersun sadness and hate
 - [x] Ist geld vom november auf dem konto?
 - [x] 1h coreview 
 - [ ] Konto checken
@@ -74,7 +57,7 @@
 - [ ] Bad 
 	- [x] saugen
 	- [x] wischen
-- [ ] Keyboard von hinten holen 
+- [x] Keyboard von hinten holen 
 - [x] bot. Garten Schriften lesen 
 - [x] checken wann das Essen mit Benno ist
 
@@ -236,6 +219,20 @@ Für große Reichweite (Android): Beginne mit Kotlin.
 Für Apple-Nutzer: Swift ist der Standard.
 Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (JavaScript) sind gute Optionen. 
 ## DATAPROTECT 
+- [x] Support Chat bei coreview Wegen den report entries fragen 
+- [ ] Understanding data import lesen
+- [ ] Mischa entlasten und nicht noch mehr Arbeit machen 
+- [ ] mehr mit den Tasks arbeiten 
+- [x] robert wegen pentesting schreiben 
+- [x] coreview Training 
+- [ ] occident secure score fertig testen
+- [x] komax reports zum Vergleich neu
+- [ ] MS Sentinel weiter verstehen
+	- [ ] ausprobieren, was in le chat steht
+- [x] security awareness
+- [ ] custom action bauen:
+	- [ ] auto Archive
+	- [ ] remove cancel calendar entries from today on
 - [ ] MS Sentinel einarbeiten
 	- [ ] ein paar eingaben testen
 - [ ] Call mit ninja one vereinbaren
