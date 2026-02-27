@@ -7,7 +7,7 @@
 - [ ] drucker saugen 
 - [x] Laufen gehen
 - [ ] konto checken 
-- [ ] friseur 
+- [x] friseur 
 - [ ] yoga
 - [x] Wäsche abhängen und zusammen legen
 - [x] 56k PE 25 kopieren und auswerten
@@ -39,7 +39,6 @@
 - [ ] Apfel essen  
 - [ ] fragen was mit der Abrechnung vom September ist bzw schauen ob was kam 
 - [ ] zip tight knoten lernen 
-
 - [ ] tesaabroller schärfen
 - [x] Aldi Tasche reparieren 
 - [x] Ist geld vom november auf dem konto?
@@ -48,18 +47,12 @@
 	- [x] Gehaltsabrechnung checken und fragen was mit September ist
 	- [x] Gehalt von November ist noch nicht da 25-12-21
 		- 25-12-22 geld da
-- [ ] to do aufräumen 
 - [ ] Kühlschrank putzen und abtauen
 - [ ] Zeug vor dem Bad wegräumen 
 - [ ] Tisch aufräumen
 - [ ] to do aufräumen
 - [ ] welcher Pfannenglasdeckel ist Ofenfest?
-- [ ] Bad 
-	- [x] saugen
-	- [x] wischen
 - [x] Keyboard von hinten holen 
-- [x] bot. Garten Schriften lesen 
-- [x] checken wann das Essen mit Benno ist
 
 # tägliches
 ## Wohnbereich 
@@ -73,7 +66,6 @@
 - [x] Klamottenfach aufräumen 
 
 ## Küche
-- [ ] Ingwer schälen und portioniert einfrieren
 - [ ] Camembert Tomaten Essen machen 
 - Arbeitsplatte
 	- [x] saugen
@@ -101,7 +93,6 @@
 	- [ ] mit genug Wasser aufkochen 
 	- [ ] etwas abkühlen lassen
 	- [ ] in Dose füllen und in den Kühlschrank 
-- [ ] von alter Pfanne griff abmontieren um sie als Brottopf zu benutzen 
 ## Bad
 - [x] Bart schneiden
 - [x] Bart Halsregion rasieren
