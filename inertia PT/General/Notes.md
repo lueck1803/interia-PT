@@ -424,7 +424,13 @@ Meine Fragen dazu sind:
   {trigger: "|", replacement: "|$0|$1", options: "mA"},
 - ![](Pasted%20image%2020251205205458.png)
 # Arbeit
-- [ ]  
+-  Lebenslauf hinzufügen:
+	- Arbeit an Schule
+	- Arbeit bei DATAPROTECT 
+- Bewerbung:
+	- nterra
+	- telespatio
+	- Merck 
 # Tage infolge Produktiv
 Tage produktiv gewesen:
 ||||/ ||||/ ||||/ ||||/
