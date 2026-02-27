@@ -1,5 +1,6 @@
 # unsortiert
 - [x] Maria antworten 
+- [ ] bios Batterie tauschen 
 - [x] Fragebogen 
 	- [x] ausfüllen 
 	- [x] scannen 
@@ -153,6 +154,7 @@
 - [x] Notizen zu *why you can't finish simple tasks* machen
 - [x] Notizen zur Kommunikation Friedemann schulz von Thun 
 # Arbeit
+## Arbeitssuche 
 - [ ]  Lebenslauf hinzufügen:
 	- [ ] Arbeit an Schule
 	- [ ] Arbeit bei DATAPROTECT 
@@ -160,6 +162,9 @@
 	- [ ] nterra
 	- [ ] telespatio
 	- [ ] Merck 
+	- [ ] Landschaftsgartenbau 
+	- [ ] kitas
+	- [ ] schu
 ## Frisör Queueing System 
 Ein queueing system für den Frisör
 Scannst du qr Code
@@ -364,8 +369,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] kiwi aussäen 
 	- [ ] pikieren 
 - [x] maracuja aussäen 
-- [x] Löcher in Thunfi
-- [ ] schdosen bohren und einpflanzen:
+- [x] Löcher in Thunfischdosen bohren und einpflanzen:
 	- [ ] kiwi
 		- angefangen 
 	- [x] Apfelpflanzen 
