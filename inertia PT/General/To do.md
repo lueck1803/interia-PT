@@ -9,20 +9,7 @@
 - [ ] konto checken 
 - [ ] friseur 
 - [ ] yoga
-- [ ] Understanding data import lesen
-- [x] Support Chat bei coreview Wegen den report entries fragen 
-- [ ] Mischa entlasten und nicht noch mehr Arbeit machen 
-- [ ] mehr mit den Tasks arbeiten 
-- [ ] robert wegen pentesting schreiben 
-- [x] coreview Training 
-- [ ] occident secure score fertig testen
-- [x] komax reports zum Vergleich neu
-- [ ] MS Sentinel weiter verstehen
-	- [ ] ausprobieren, was in le chat steht
-- [x] security awareness
-- [ ] custom action bauen:
-	- [ ] auto Archive
-	- [ ] remove cancel calendar entries from today on
+- 
 - [x] Wäsche abhängen und zusammen legen
 - [x] 56k PE 25 kopieren und auswerten
 - [ ] binder cumulant anschauen
@@ -185,13 +172,20 @@
 - [ ] Code fertig aufräumen 
 
 # Gesundheit
-- [ ] beim nächsten Arzt Besuch bei Herrn lojko die Patienten akte wieder mitnehmen 
+- [x] beim nächsten Arzt Besuch bei Herrn lojko die Patienten akte wieder mitnehmen 
 ## körperlich
 
 ## mental
 - [x] Notizen zu *why you can't finish simple tasks* machen
 - [x] Notizen zur Kommunikation Friedemann schulz von Thun 
 # Arbeit
+- [ ]  Lebenslauf hinzufügen:
+	- [ ] Arbeit an Schule
+	- [ ] Arbeit bei DATAPROTECT 
+- [ ] Bewerbung:
+	- [ ] nterra
+	- [ ] telespatio
+	- [ ] Merck 
 ## Frisör Queueing System 
 Ein queueing system für den Frisör
 Scannst du qr Code
