@@ -10,7 +10,7 @@
 - [x] Wattestäbchen 
 - [x] metall+Kunststoff Trinkhalme Aldi falls billiger
 - [x] Haferflocken
-- [ ] Müsli 
+- [x] Müsli 
 - [x] Bananen 
 - [x] Zwiebeln 
 	- [x] gelb
@@ -21,7 +21,7 @@
 
 # non food
 - [ ] kleinen Schneebesen 
-- [ ] Plastik Plättchen zum tür öffnen 
+- [ ] Plastik Plättchen zum tür öffnen -> pet Flasche 
 - [x] metallspülkorb
 - [ ] Mehrfachsteckdose für nähtisch
 - [x] Papierklammern 

@@ -1,4 +1,17 @@
+# Geschäftliche Nachrichten 
+Dear Spatial Business Integration Team,
 
+I am a physicist with a bachelor's degree and I am currently writing my master thesis in the field of soft condensed matter.
+I have very good programming experiences in Python, Java and C++.
+I am also well educated in biology, agriculture and forestry.
+Optics, image editing and data processing are also part of my knowledge base.
+
+I am searching for 80h/m work student job.
+
+I look forward to your reply.
+
+Kind regards 
+Lukas Walter 
 # Nachrichten an Leute
 ## 26-02-22 Fredin (Nachricht abgebrochen)
 ich frag mich immer warum, mich das so schwach macht, ich so ein "kleiner Luk" werde, wenn ich an Arooj denke.
@@ -411,7 +424,7 @@ Meine Fragen dazu sind:
   {trigger: "|", replacement: "|$0|$1", options: "mA"},
 - ![](Pasted%20image%2020251205205458.png)
 # Arbeit
-- [ ]  
+- 
 # Tage infolge Produktiv
 Tage produktiv gewesen:
 ||||/ ||||/ ||||/ ||||/
@@ -1081,8 +1094,24 @@ Wieder zusammen führen
 - 8. Verstärkungsreihe ✅✅ + Vorderseite ✅✅
 - 9. Zunahme ✅✅ + Vorderseite ✅✅
 - 9. Verstärkungsreihe ✅✅ + Vorderseite ✅✅
+- 10. Zunahme ✅✅ + Vorderseite ✅✅
 - 10. Verstärkungsreihe ✅✅ + Vorderseite ✅✅
+### Abnahmen
+##### die Abnahme 
+1. 1. M wie zum rechts stricken abheben 
+2.  2. M rechts stricken 
+3. 1. M die abgehoben wurde über die zu letzt gestrickte drüber ziehen 
+4. Rechts stricken bis 2 M vor dem markierer.
+5. Die letzten beiden rechts zusammen stricken 
+#### Abnahmen 
+- 1. Abnahme ✅✅ + Vorderseite ✅✅
+- 1. Verstärkung (A) ✅✅ + Vorderseite ✅✅
+- 2. Abnahme ✅✅ + Vorderseite ✅✅
+- 2. Verstärkung (r) ✅✅ + Vorderseite ✅✅
+- 3. Abnahme ✅✅ + Vorderseite ✅✅
+- 3. Verstärkung (A)✅✅ + Vorderseite ✅
 - 
+
 
 
 ## new try / Nadine

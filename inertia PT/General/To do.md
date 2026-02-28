@@ -1,5 +1,6 @@
 # unsortiert
 - [x] Maria antworten 
+- [ ] bios Batterie tauschen 
 - [x] Fragebogen 
 	- [x] ausfüllen 
 	- [x] scannen 
@@ -7,89 +8,34 @@
 - [ ] drucker saugen 
 - [x] Laufen gehen
 - [ ] konto checken 
-- [ ] friseur 
+- [x] friseur 
 - [ ] yoga
-- [ ] Understanding data import lesen
-- [x] Support Chat bei coreview Wegen den report entries fragen 
-- [ ] Mischa entlasten und nicht noch mehr Arbeit machen 
-- [ ] mehr mit den Tasks arbeiten 
-- [ ] robert wegen pentesting schreiben 
-- [x] coreview Training 
-- [ ] occident secure score fertig testen
-- [x] komax reports zum Vergleich neu
-- [ ] MS Sentinel weiter verstehen
-	- [ ] ausprobieren, was in le chat steht
-- [x] security awareness
-- [ ] custom action bauen:
-	- [ ] auto Archive
-	- [ ] remove cancel calendar entries from today on
 - [x] Wäsche abhängen und zusammen legen
 - [x] 56k PE 25 kopieren und auswerten
 - [ ] binder cumulant anschauen
 - [ ] exponenten anschauen
 - [ ] report updaten
-- [ ] fresh fur spielen
-- [x] Gitarren putzen 
-- [x] rotkohl verarbeiten
-- [x] Lohnabrechnungen für die AOK hochladen 
-- [x] coreview <span style="font-size:100%;color:red;">reports</span>
-- [x] Loch im grünen Shirt flicken 
-- [x] Bettwäsche wechseln 
-- [x] wie geht's den Kartoffeln?
-	- [x] ⟹ sieht ganz gut aus
-- [x] Decke waschen 
-- [x] Zählerstand eintragen 
-- [x] Erbsen kochen
-- [x] Töpfe in Spülmaschine 
-- [x] staubsaugen 
-- [x] Basilikum aussäen 
 - [x] Camembert essen kochen
 	- Camembert+Rotrinden Käse verwenden 
 - [ ] Duolingo 
 	- [ ] französisch 
 	- [ ] türkisch 
 	- [ ] türkisch abschreiben 
-- [x] Küche aufräumen 
-- [x] staubsaugen 
-- [ ] Apfel essen 
-- [x] Zähne nochmal putzen 
-- [x] Brokkoli waschen 
-- [x] Brokkoli kochen 
-- [x] Spülmaschine 
-- [x] Handschuh flicken
-- [x] weiße nahtschere schleifen 
-- [ ] wer ist morgen mit jc dran?
+- [ ] Apfel essen  
 - [ ] fragen was mit der Abrechnung vom September ist bzw schauen ob was kam 
 - [ ] zip tight knoten lernen 
-- [x] über Schlafmaske nähen 
-- [x] bett beziehen 
-- [x] Lotos in Teich 
-- [x] ingwer schälen und einfrieren 
-- [x] Fahrrad Lampe Fest schrauben 
 - [ ] tesaabroller schärfen
 - [x] Aldi Tasche reparieren 
-- [ ] Waffenbrüder Gitarre und Text
-- [ ] fresh fur lead Gitarre 
-- [ ] Shortcut obsidian unter windows und anderen für toggl checkbox/bullet list
-- [ ] wintersun sadness and hate
 - [x] Ist geld vom november auf dem konto?
 - [x] 1h coreview 
 - [ ] Konto checken
 	- [x] Gehaltsabrechnung checken und fragen was mit September ist
 	- [x] Gehalt von November ist noch nicht da 25-12-21
 		- 25-12-22 geld da
-- [ ] to do aufräumen 
 - [ ] Kühlschrank putzen und abtauen
 - [ ] Zeug vor dem Bad wegräumen 
 - [ ] Tisch aufräumen
-- [ ] to do aufräumen
-- [ ] welcher Pfannenglasdeckel ist Ofenfest?
-- [ ] Bad 
-	- [x] saugen
-	- [x] wischen
-- [ ] Keyboard von hinten holen 
-- [x] bot. Garten Schriften lesen 
-- [x] checken wann das Essen mit Benno ist
+- [x] Keyboard von hinten holen 
 
 # tägliches
 ## Wohnbereich 
@@ -103,7 +49,6 @@
 - [x] Klamottenfach aufräumen 
 
 ## Küche
-- [ ] Ingwer schälen und portioniert einfrieren
 - [ ] Camembert Tomaten Essen machen 
 - Arbeitsplatte
 	- [x] saugen
@@ -131,7 +76,6 @@
 	- [ ] mit genug Wasser aufkochen 
 	- [ ] etwas abkühlen lassen
 	- [ ] in Dose füllen und in den Kühlschrank 
-- [ ] von alter Pfanne griff abmontieren um sie als Brottopf zu benutzen 
 ## Bad
 - [x] Bart schneiden
 - [x] Bart Halsregion rasieren
@@ -185,13 +129,25 @@
 - [ ] Code fertig aufräumen 
 
 # Gesundheit
-- [ ] beim nächsten Arzt Besuch bei Herrn lojko die Patienten akte wieder mitnehmen 
+- [x] beim nächsten Arzt Besuch bei Herrn lojko die Patienten akte wieder mitnehmen 
 ## körperlich
 
 ## mental
 - [x] Notizen zu *why you can't finish simple tasks* machen
 - [x] Notizen zur Kommunikation Friedemann schulz von Thun 
 # Arbeit
+## Arbeitssuche 
+- [ ]  Lebenslauf hinzufügen:
+	- [ ] Arbeit an Schule
+	- [ ] Arbeit bei DATAPROTECT 
+- [ ] Bewerbung:
+	- [ ] nterra
+	- [ ] telespatio
+	- [ ] Merck 
+	- [ ] Landschaftsgartenbau 
+	- [ ] kitas
+	- [ ] Schulen 
+	- [ ] Forst 
 ## Frisör Queueing System 
 Ein queueing system für den Frisör
 Scannst du qr Code
@@ -242,6 +198,21 @@ Für große Reichweite (Android): Beginne mit Kotlin.
 Für Apple-Nutzer: Swift ist der Standard.
 Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (JavaScript) sind gute Optionen. 
 ## DATAPROTECT 
+- [x] Support Chat bei coreview Wegen den report entries fragen 
+- [x] coreview <span style="font-size:100%;color:red;">reports</span>
+- [ ] Understanding data import lesen
+- [ ] Mischa entlasten und nicht noch mehr Arbeit machen 
+- [ ] mehr mit den Tasks arbeiten 
+- [x] robert wegen pentesting schreiben 
+- [x] coreview Training 
+- [ ] occident secure score fertig testen
+- [x] komax reports zum Vergleich neu
+- [ ] MS Sentinel weiter verstehen
+	- [ ] ausprobieren, was in le chat steht
+- [x] security awareness
+- [ ] custom action bauen:
+	- [ ] auto Archive
+	- [ ] remove cancel calendar entries from today on
 - [ ] MS Sentinel einarbeiten
 	- [ ] ein paar eingaben testen
 - [ ] Call mit ninja one vereinbaren
@@ -286,6 +257,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [ ] 
 # Papierkram
 - [ ] Rundfunkbeitrag 
+- [x] Lohnabrechnungen für die AOK hochladen 
 - Stromablesung 
 	- [x] Termin 26-01-09
 	- [x] online eintragen 
@@ -347,7 +319,8 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 	- hat ganz gut geklappt mit der kleinen Akkuflex 
 
 # Nähen, Malen, Basteln und Reparieren 
-- [ ] Winterschuhe braun sole Körben 
+- [ ] Winterschuhe braun sole kleben 
+- [x] Loch im grünen Shirt flicken 
 - [x] Handschuh flicken
 - [x]  Aldi Tasche reparieren
 - [ ] Leuchtstoffröhrenlampen 

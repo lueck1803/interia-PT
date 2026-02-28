@@ -1,12 +1,8 @@
 # unsorted tasks
 - [x] copy general plot to the non plot script
-- [ ] add the values used for the masterplots into the slides
-- [ ] adjust masterplot template so that it reads the header from the csv file
-- [ ] replot $\mathcal{B}$ of the "ABP" with the general plot template
 - [ ] if stddev is smaller than a certain value don't restrict to two pits 
 	- [ ] found another solution
 - [ ] migrate scripts on the cluster 
-- [ ] masterplot below the general plots
 - [x] add a "post filter" for the pits and peaks
 	- it should throw out all values within the standard dev
 	- <span style="font-size:100%;color:red;">⟹seems to have nice results</span>
@@ -119,18 +115,20 @@ $$, where $\zeta_{\mathcal{O}}$ is the critical exponent associated with the obs
 ![](Pasted%20image%2020260222131207.png)
 - use the correct $M_{C}$ and correct exponents
 - [ ] automate show exponent value in masterplot 
+- [ ] masterplot below the general plots
+- [ ] add the values used for the masterplots into the slides
+- [ ] adjust masterplot template so that it reads the header from the csv file
+- [ ] replot $\mathcal{B}$ of the "ABP" with the general plot template
 - plot the orderparameter
 	- [x] max
-	- [x] half
-		- [ ] replot with the lowest two $L$ 
+	- [ ] half
 - [x] add L to the ledgend
 - plot bindercumulant
 	- [x] max
-	- [x] half
-		- [ ] replot with the lowest two $L$ 
+	- [ ] half
 - plot $\chi$
 	- [x] max
-	- [x] half
+	- [ ] half
 # Important guidline to fokus on
 - <span style="font-size:120%;color:red">Don't touch the box algo anymore!</span>
 - <span style="font-size:120%;color:red">determine the Phase transition point</span>
