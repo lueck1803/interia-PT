@@ -1639,6 +1639,7 @@ Aber 🤷‍♂️, so bin ich halt, warum sollte ich irgendwie Drumherum reden
 - 
 # Psychiater
 ## Medikamente
+- Elvanse ist etwas sanft. Gerade morgens fehlt mir der Push die Paralyse zu überwinden. Ich denke aber dass das im Prinzip ganz gut ist. Denn körperlich vertrage ich es wirklich sehr gut, auch wenn ich jetzt einige niedergeschlagene, energielose und depressive Momente hatte. Gerade morgens bin erstaunlich müde und tendiere dazu mehrfach wegzudösen, obwohl ich wirklich sehr gut geschlafen habe. Im Vergleich zu vorher
 - Gestern war ein Traum und auch heute Vertrage ich es super.
 	Nebenwirkungen nicht vorhanden Gegenüber dem mph.
 	Und den Tag über konstant Energie.
