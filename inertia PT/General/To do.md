@@ -1,11 +1,11 @@
 # unsortiert
 - [x] Maria antworten 
-- [ ] bios Batterie tauschen 
+- [x] bios Batterie tauschen 
 - [x] Fragebogen 
 	- [x] ausfüllen 
 	- [x] scannen 
 	- [x] absenden
-- [ ] drucker saugen 
+- [x] drucker saugen 
 - [x] Laufen gehen
 - [ ] konto checken 
 - [x] friseur 
