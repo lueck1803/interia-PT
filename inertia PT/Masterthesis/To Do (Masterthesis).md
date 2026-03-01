@@ -1,6 +1,7 @@
 # unsorted tasks
 - [x] copy general plot to the non plot script
 - [ ] 28k with new algo and stdHalf as start value from .07 to .09. compare the bindercumulant results
+- [ ] 3.5 k with stdhalf reevaluate 
 - [x] check how the 3.5 k data looks like
 - [ ] what can I change with the inner filter to get better results?
 - [ ] auf alten algo zurück setzen 🤷
