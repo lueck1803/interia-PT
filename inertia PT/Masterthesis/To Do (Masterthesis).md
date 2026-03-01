@@ -1,6 +1,7 @@
 # unsorted tasks
 - [x] copy general plot to the non plot script
-- [ ] check how the 3.5 k data looks like
+- [ ] 28k with new algo and stdHalf as start value from .07 to .09. 
+- [x] check how the 3.5 k data looks like
 - [ ] what can I change with the inner filter to get better results?
 - [ ] auf alten algo zurück setzen 🤷
 - [ ] if stddev is smaller than a certain value don't restrict to two pits 
