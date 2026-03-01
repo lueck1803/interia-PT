@@ -1,6 +1,9 @@
 
 # Tägliches Mantra
 - Sachlich sein aber heißt : <span style="font-size:100%;color:limegreen;">Der Ichhaftigkeit des anderen niemals dienstbar sein.</span>
+- **Julia:** Ich kann nur wiedergeben, was ich in Therapien und Büchern gelernt habe. 
+	- Dass man, wenn es Richtung Burnout geht, durchaus alles runterfahren sollte. Jede Routine, jeden Reiz, jede Aktivität. Und ganz langsam wieder hochfahren und sich neu ordnen. 
+	- Und wenn es eher Richtung Depression geht, dann gibt's nichts Wichtigeres als neue Reize. Rausgehen und lernen, dass neue Eindrücke gut tun und es das schädlichste ist, daheim zu versauern und dem Hirn keine neuen Anreize zu bieten innerhalb der eigenen vier Wände als den eigenen rasenden Verstand, der eine reine Abwärtsspirale ist. Das müssen nicht immer Menschen sein. Oder eben doch eine Aktivität wie Fotografieren. Mit jemandem reden. Und merken, dass man davor mehr Angst hatte als nötig und man sich besser fühlt als gedacht.  
 - Man mache sich klar, daß die <span style="font-size:100%;color: orange;">Bedrohung des Ich-Ideals für uns  alle unerträglicher ist, als die Bedrohung unseres Lebens</span> . Wer sich  in seinem Ich-Ideal bedroht fühlt, benimmt sich wie ein Mensch in  Notwehr . Er fragt nicht nach den späteren Folgen, sondern er  schlägt blindlings um sich. Wer nur ein einziges Mittel kennt, das  ihn im Augenblick der Ich-gefahr retten kann, der wendet dieses  Mittel an, wenn es ihn auch später mit den denkbar schwersten Folgen belastet.
 - <span style="font-size:100%;color:red;">ich kämpfe jetzt erst Recht und lass mich nicht mehr runter ziehen. Ich will kämpfen und jetzt erst Recht um meinem Vater, meiner Schwester und der verräterischen, vertrauensunwürdigen und untreuen Arooj zu zeigen. Ich kann was, ich bin nicht schwach!</span>
 - sie hat <span style="font-size:100%;color: green;">weaponized victim hood</span> gegen mich benutzt 
