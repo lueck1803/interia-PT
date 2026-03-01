@@ -67,7 +67,7 @@
 - [x] Erbsen in den Kühlschrank
 - [x] Medikament bestellen 
 - [x] Medikament abholen 
-- [ ] Avocado 🥑 essen
+- [x] Avocado 🥑 essen
 - [x] auberginen + tofu
 -  Hülsenfrüchte Tofu
 	- [ ] Hülsenfrüchte über Nacht einweichen 
