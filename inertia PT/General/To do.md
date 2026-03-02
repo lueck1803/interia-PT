@@ -142,10 +142,12 @@
 	- [x] Krabbelstube "kleine Entdecker*
 	- [ ] quatschmacher 
 		- waren nicht da
-	- [ ] internationale lern und Spielstube 
+	- [x] internationale lern und Spielstube 
 		- ska E-Mail Adresse Bewerbung schreiben 
 		- bewerbungen@ska-darmstadt.de
 	- [ ] flugis Abenteuerland 
+		- flyer bekommen 
+		- Bewerbung online (Nina Büttner)
 - Schulen
 	- [ ] Lio 
 	- [ ] Ello
