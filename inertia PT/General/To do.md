@@ -154,6 +154,10 @@
 		- [ ] herr Keller auf skifreizei bis Ende der Woche
 		- [ ] Email schreiben: ich würde gerne auch etwas mehr arbeiten als beim letzten Mal
 	- [ ] Ello
+		- [ ] coors ist der zuständige 
+		- [ ] Email ans Sekretariat (Adresse auf der Website )
+	- [ ] Mädchenschule 
+		- [ ] 
 - [ ]  Lebenslauf hinzufügen:
 	- [ ] Arbeit an Schule
 	- [ ] Arbeit bei DATAPROTECT 
