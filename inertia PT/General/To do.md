@@ -178,7 +178,7 @@
 	- [x] Bernhard-Adelung-Schule (integrierte Gesamtschule)
 		- Gespräch mit Jamil (auch Physiker)
 		- SSV Daten hinterlassen
-		- Möglichkeit auf auf TVH Vertrag (spätestens ab Sommer)
+		- Möglichkeit auf TVH Vertrag (spätestens ab Sommer)
 -  Lebenslauf hinzufügen:
 	- [ ] Arbeit an Schule
 	- [ ] Arbeit bei DATAPROTECT 
