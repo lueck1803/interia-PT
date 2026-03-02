@@ -280,6 +280,11 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] Outlook task planner zeug eintragen was mir Mischa aufgetragen und nicht selbst schon eingetragen hat 
 - [ ] 
 # Papierkram
+- [ ] AOK
+	- januar 258.28
+	- Februar 346.76
+	- Warum wurde der Betrag um fast 100€ erhöht und ich wurde darüber nicht informiert
+	- 292.28
 - [ ] Rundfunkbeitrag 
 - [x] Lohnabrechnungen für die AOK hochladen 
 - Stromablesung 
