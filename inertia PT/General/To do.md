@@ -143,6 +143,8 @@
 	- [ ] quatschmacher 
 		- waren nicht da
 	- [ ] internationale lern und Spielstube 
+		- ska E-Mail Adresse Bewerbung schreiben 
+		- bewerbungen@ska-darmstadt.de
 - Schulen
 	- [ ] Lio 
 	- [ ] Ello
