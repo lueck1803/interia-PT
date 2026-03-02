@@ -151,6 +151,8 @@
 		- ⤷steht auf Flyer 
 - Schulen
 	- [ ] Lio 
+		- [ ] herr Keller auf skifreizei bis Ende der Woche
+		- [ ] Email schreiben: ich würde gerne auch etwas mehr arbeiten als beim letzten Mal
 	- [ ] Ello
 - [ ]  Lebenslauf hinzufügen:
 	- [ ] Arbeit an Schule
