@@ -1,7 +1,7 @@
 # unsortiert
 - [x] Maria antworten 
 - [x] grüne Hirschsocke flicken 
-- [ ] Test
+- [ ] <span style="font-size:100%;color: orange;">definitiv Semesterbeitrag überweisen, damit ich das Deutschlandticket habe</span>
 - [x] aok anrufen
 - [x] ärzte ohne grenzen kündigen
 	- puuh gerade noch rechtzeitig.
