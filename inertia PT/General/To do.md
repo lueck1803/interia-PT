@@ -138,6 +138,14 @@
 - [x] Notizen zur Kommunikation Friedemann schulz von Thun 
 # Arbeit
 ## Arbeitssuche 
+- Kitas 
+	- [x] Krabbelstube "kleine Entdecker*
+	- [ ] quatschmacher 
+		- waren nicht da
+	- [ ] internationale lern und Spielstube 
+- Schulen
+	- [ ] Lio 
+	- [ ] Ello
 - [ ]  Lebenslauf hinzufügen:
 	- [ ] Arbeit an Schule
 	- [ ] Arbeit bei DATAPROTECT 
