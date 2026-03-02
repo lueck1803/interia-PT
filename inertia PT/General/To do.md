@@ -166,10 +166,17 @@
 		- coors ist der zuständige 
 		- [x] Email ans Sekretariat (Adresse auf der Website )
 	- [x] Kyritzschule (y gesprochen als ü) Grundschule
-		- [ ] mit Frau Jonas gesprochen 
-		- [ ] warte bis 12:30 auf den stellv. Schulleiter 
-		- [ ] sms von Lisa Mank (Konrektorin) und dann darauf reagieren.
+		- mit Frau Jonas gesprochen 
+		- warte bis 12:30 auf den stellv. Schulleiter 
+		- sms von Lisa Mank (Konrektorin) und dann darauf reagieren.
+		- habe dort jetzt bereits einen Termin zum Arbeiten
 	- [ ] Mädchenschule ist wo?
+	- [x] Christian-Morgenstern-Grundschule
+		- habe meine Kontaktdaten hinterlassen für SSV
+	- [x] Bernhard-Adelung-Schule (integrierte Gesamtschule)
+		- Gespräch mit Jamil (auch Physiker)
+		- SSV Daten hinterlassen
+		- Möglichkeit auf auf TVH Vertrag (spätestens ab Sommer)
 - [ ]  Lebenslauf hinzufügen:
 	- [ ] Arbeit an Schule
 	- [ ] Arbeit bei DATAPROTECT 
