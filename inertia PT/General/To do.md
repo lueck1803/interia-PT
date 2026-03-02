@@ -285,6 +285,8 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 	- Februar 346.76
 	- Warum wurde der Betrag um fast 100€ erhöht und ich wurde darüber nicht informiert
 	- 292.28, ist der angepasste betrag. deshalb wurde mir rückwirkend Geld abgebucht
+	- habe weitere Email adresse eingetragen
+	- und eingestellt, dass ich Benachrichtigungen wieder per post erhalte
 - [ ] Rundfunkbeitrag 
 - [x] Lohnabrechnungen für die AOK hochladen 
 - Stromablesung 
