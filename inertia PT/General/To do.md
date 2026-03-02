@@ -2,7 +2,10 @@
 - [x] Maria antworten 
 - [x] grüne Hirschsocke flicken 
 - [x] aok anrufen
-- [ ] ärzte ohne grenzen kündigen
+- [x] ärzte ohne grenzen kündigen
+	- [x] puuh gerade noch rechtzeitig.
+	- [ ] wird am 5.3. abgebucht, aber ich erhalte das geld zurück.
+	- [ ] regelmäßig konto checken
 - [ ] dpg kündigen
 - [ ] jean-lueck aufräumen
 - [x] bios Batterie tauschen 
