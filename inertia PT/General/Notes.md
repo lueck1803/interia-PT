@@ -13,6 +13,21 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+## 26-03-02 Julia 
+Hey Julia, 
+
+Da du mich offenbar in WhatsApp blockiert hast, was ich wirklich schade finde. Da ich deine Situation vollkommen respektiere und auch auf deine Wünsche eingegangen bin, was die Kommunikation angeht.
+
+Ich wusste nicht dass es dir so schlecht geht.🫂
+
+Ich habe vollstes Verständnis.
+
+Ich habe es ja auch relativ frühzeitig angesprochen dass mir das Schreiben zu viel war.
+
+Schade dass das so gekommen ist. 
+Ich schrieb ja, dass ich keine Energie ziehen will und du bitte auf dich und deine Bedürfnisse achten sollst.
+
+Wusste auch nicht dass es dir mit Elvanse vom einmal nehmen, langfristig so schlecht geht.
 ## 26-02-22 Fredin (Nachricht abgebrochen)
 ich frag mich immer warum, mich das so schwach macht, ich so ein "kleiner Luk" werde, wenn ich an Arooj denke.
 
