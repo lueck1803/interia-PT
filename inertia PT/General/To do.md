@@ -1,6 +1,7 @@
 # unsortiert
 - [x] Maria antworten 
 - [ ] grüne Hirschsocke flicken 
+- [ ] jean-lueck aufräumen
 - [x] bios Batterie tauschen 
 - [x] Fragebogen 
 	- [x] ausfüllen 
