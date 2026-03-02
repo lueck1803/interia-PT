@@ -158,17 +158,18 @@
 		- Bewerbung online (Nina Büttner)
 		- ⤷steht auf Flyer 
 - Schulen
-	- [ ] Lio 
-		- [ ] herr Keller auf skifreizei bis Ende der Woche
-		- [ ] Email schreiben: ich würde gerne auch etwas mehr arbeiten als beim letzten Mal
-	- [ ] Ello
-		- [ ] coors ist der zuständige 
-		- [ ] Email ans Sekretariat (Adresse auf der Website )
-	- [ ] Kyritzschule (y gesprochen als ü) Grundschule
+	- [x] Lio 
+		- herr Keller auf skifreizei bis Ende der Woche
+		- Email schreiben: ich würde gerne auch etwas mehr arbeiten als beim letzten Mal
+		- [x] Email geschrieben
+	- [x] Ello
+		- coors ist der zuständige 
+		- [x] Email ans Sekretariat (Adresse auf der Website )
+	- [x] Kyritzschule (y gesprochen als ü) Grundschule
 		- [ ] mit Frau Jonas gesprochen 
 		- [ ] warte bis 12:30 auf den stellv. Schulleiter 
 		- [ ] sms von Lisa Mank (Konrektorin) und dann darauf reagieren.
-	- [ ] Mädchenschule ist wo
+	- [ ] Mädchenschule ist wo?
 - [ ]  Lebenslauf hinzufügen:
 	- [ ] Arbeit an Schule
 	- [ ] Arbeit bei DATAPROTECT 
