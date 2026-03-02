@@ -3,9 +3,9 @@
 - [x] grüne Hirschsocke flicken 
 - [x] aok anrufen
 - [x] ärzte ohne grenzen kündigen
-	- [x] puuh gerade noch rechtzeitig.
-	- [ ] wird am 5.3. abgebucht, aber ich erhalte das geld zurück.
-	- [ ] regelmäßig konto checken
+	- puuh gerade noch rechtzeitig.
+	- [x] wird am 5.3. abgebucht, aber ich erhalte das geld zurück.
+	- [ ] <span style="font-size:100%;color:red;">regelmäßig konto checken</span>
 - [ ] dpg kündigen
 - [ ] jean-lueck aufräumen
 - [x] bios Batterie tauschen 
@@ -294,7 +294,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 	- Warum wurde der Betrag um fast 100€ erhöht und ich wurde darüber nicht informiert
 	- 292.28, ist der angepasste betrag. deshalb wurde mir rückwirkend Geld abgebucht
 	- habe weitere Email adresse eingetragen
-	- und eingestellt, dass ich Benachrichtigungen wieder per post erhalte
+	- <span style="font-size:100%;color:limegreen;">und eingestellt, dass ich Benachrichtigungen wieder per post erhalte</span>
 - [ ] Rundfunkbeitrag 
 - [x] Lohnabrechnungen für die AOK hochladen 
 - Stromablesung 
