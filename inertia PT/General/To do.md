@@ -148,6 +148,7 @@
 	- [ ] flugis Abenteuerland 
 		- flyer bekommen 
 		- Bewerbung online (Nina Büttner)
+		- ⤷steht auf Flyer 
 - Schulen
 	- [ ] Lio 
 	- [ ] Ello
