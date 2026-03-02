@@ -156,9 +156,11 @@
 	- [ ] Ello
 		- [ ] coors ist der zuständige 
 		- [ ] Email ans Sekretariat (Adresse auf der Website )
-	- [ ] Kyritzschule (y gesprochen als ü) Mädchenschule 
+	- [ ] Kyritzschule (y gesprochen als ü) Grundschule
 		- [ ] mit Frau Jonas gesprochen 
 		- [ ] warte bis 12:30 auf den stellv. Schulleiter 
+		- [ ] sms von Lisa Mank (Konrektorin) und dann darauf reagieren.
+	- [ ] Mädchenschule ist wo
 - [ ]  Lebenslauf hinzufügen:
 	- [ ] Arbeit an Schule
 	- [ ] Arbeit bei DATAPROTECT 
