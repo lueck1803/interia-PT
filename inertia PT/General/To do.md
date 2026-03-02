@@ -156,7 +156,7 @@
 	- [ ] Ello
 		- [ ] coors ist der zuständige 
 		- [ ] Email ans Sekretariat (Adresse auf der Website )
-	- [ ] Mädchenschule 
+	- [ ] Kyritzschule (y gesprochen als ü) Mädchenschule 
 		- [ ] mit Frau Jonas gesprochen 
 		- [ ] warte bis 12:30 auf den stellv. Schulleiter 
 - [ ]  Lebenslauf hinzufügen:
