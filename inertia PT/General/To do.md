@@ -147,6 +147,7 @@
 - [x] Notizen zur Kommunikation Friedemann schulz von Thun 
 # Arbeit
 ## Arbeitssuche 
+- definitiv noch bei Aldi/Rewe vorbei schauen
 - Kitas 
 	- [x] Krabbelstube "kleine Entdecker*
 	- [ ] quatschmacher 
@@ -178,9 +179,10 @@
 		- Gespräch mit Jamil (auch Physiker)
 		- SSV Daten hinterlassen
 		- Möglichkeit auf auf TVH Vertrag (spätestens ab Sommer)
-- [ ]  Lebenslauf hinzufügen:
+-  Lebenslauf hinzufügen:
 	- [ ] Arbeit an Schule
 	- [ ] Arbeit bei DATAPROTECT 
+	- [ ] Stärken 
 - [ ] Bewerbung:
 	- [ ] nterra
 	- [ ] telespatio
