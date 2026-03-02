@@ -1,6 +1,9 @@
 # unsortiert
 - [x] Maria antworten 
-- [ ] grüne Hirschsocke flicken 
+- [x] grüne Hirschsocke flicken 
+- [x] aok anrufen
+- [ ] ärzte ohne grenzen kündigen
+- [ ] dpg kündigen
 - [ ] jean-lueck aufräumen
 - [x] bios Batterie tauschen 
 - [x] Fragebogen 
@@ -9,7 +12,8 @@
 	- [x] absenden
 - [x] drucker saugen 
 - [x] Laufen gehen
-- [ ] konto checken 
+- [x] konto checken
+	- ich war heute 500€ im minus
 - [x] friseur 
 - [ ] yoga
 - [x] Wäsche abhängen und zusammen legen
