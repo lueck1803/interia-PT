@@ -297,6 +297,8 @@ module load anaconda3
 
 /home/lwalter/.conda/envs/phasetransition/bin/jupyter-notebook --no-browser --port=8081
 ```
+
+![[Pasted image 20260303143705.png]]
 # Evaluate
 ## Determine CP
 linear approximation optimization with aritras interpolation method
