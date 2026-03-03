@@ -1,5 +1,8 @@
 # unsortiert
 - [x] Maria antworten 
+- [ ] python auf cluster laufen lassen
+	- wie mache ich das nochmal. Steht das in 
+- [ ] nach push und pull request bei kayro fragen
 - [x] grüne Hirschsocke flicken 
 - [ ] <span style="font-size:100%;color: orange;">definitiv Semesterbeitrag überweisen, damit ich das Deutschlandticket habe</span>
 - [x] aok anrufen
