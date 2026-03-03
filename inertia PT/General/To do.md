@@ -1,6 +1,5 @@
 # unsortiert
 - [x] Maria antworten 
-- [x] <span style="font-size:100%;color:limegreen;">green</span> <span style="font-size:100%;color:red;">red</span> <span style="font-size:100%;color:gold;">gold</span>
 - [x] Fahrradkette ölen
 - [x] python auf cluster laufen lassen
 	- ❌wie mache ich das nochmal. Steht das in meinem Latex glossar
