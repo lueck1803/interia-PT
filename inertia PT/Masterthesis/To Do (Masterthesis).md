@@ -278,6 +278,25 @@ new branch ⟹ fss_ppphta_ebox-fit-in-pp
 - [ ] https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html
 	- [ ] https://pandas.pydata.org/docs/reference/api/pandas.unique.html
 - [x] sort determine CP
+## Juypter on cluster
+
+### sbatch script
+```bash
+#!/bin/bash -l
+
+#SBATCH --chdir /home/lwalter
+#SBATCH --partition=standard
+##SBATCH --partition=gpu
+##SBATCH --nodelist=cpu11
+#SBATCH --nodes=1
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=1
+#SBATCH --job-name="amep"
+
+module load anaconda3
+
+/home/lwalter/.conda/envs/phasetransition/bin/jupyter-notebook --no-browser --port=8081
+```
 # Evaluate
 ## Determine CP
 linear approximation optimization with aritras interpolation method
