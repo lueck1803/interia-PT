@@ -1,5 +1,6 @@
 # unsortiert
 - [x] Maria antworten 
+- [ ] <span style="font-size:100%;color:limegreen;">green</span> <span style="font-size:100%;color:red;">red</span>
 - [x] Fahrradkette ölen
 - [x] python auf cluster laufen lassen
 	- ❌wie mache ich das nochmal. Steht das in meinem Latex glossar
