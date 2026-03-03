@@ -469,6 +469,8 @@ Tage produktiv gewesen:
 # Signal
 - Video sending problem:
   ![](Pasted%20image%2020251221172346.png)
+# jupyter 
+https://wiki.pkm.physik.tu-darmstadt.de/doku.php/agliebchen:cluster?s[]=jupyter
 # ssh
 https://security.stackexchange.com/questions/20706/what-is-the-difference-between-authorized-keys-and-known-hosts-file-for-ssh
 ## SSH: Configuration, Keys and Passwords
