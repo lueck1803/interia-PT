@@ -14,6 +14,11 @@ Kind regards
 Lukas Walter 
 # Nachrichten an Leute
 ## 26-03-02 Julia 
+Ich hatte auch gedacht dass unser Austausch auf Augenhöhe ist und dieser dir etwas gebracht hat.
+
+
+Ich dachte auch nicht dass es an unserem Austausch lag. Den wir ja schon reduziert haben.
+
 Hey Julia, 
 
 Da du mich offenbar in WhatsApp blockiert hast, was ich wirklich schade finde. Da ich deine Situation vollkommen respektiere und auch auf deine Wünsche eingegangen bin, was die Kommunikation angeht.
