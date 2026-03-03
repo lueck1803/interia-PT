@@ -472,8 +472,9 @@ Tage produktiv gewesen:
 # jupyter 
 https://wiki.pkm.physik.tu-darmstadt.de/doku.php/agliebchen:cluster?s[]=jupyter
 # ssh
-
-
+```bash
+ssh -v -L portIn:cpuXX:portOut 192.168.211.2 -N
+```
 
 https://security.stackexchange.com/questions/20706/what-is-the-difference-between-authorized-keys-and-known-hosts-file-for-ssh
 ## SSH: Configuration, Keys and Passwords
