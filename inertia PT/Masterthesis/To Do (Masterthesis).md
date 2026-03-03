@@ -1,5 +1,6 @@
 # unsorted tasks
 - [x] copy general plot to the non plot script
+- [ ] wiki eintrag für jupyter on cluster verbessern
 - [ ] reset to the old algo from 1.1 or 2.2. and compare the behavior of the placement of 28k (snapshots)
 - [x] 28k with new algo and stdHalf as start value from .07 to .09. compare the bindercumulant results
 - [x] 3.5 k with stdhalf reevaluate 
@@ -299,6 +300,8 @@ module load anaconda3
 ```
 
 ![[Pasted image 20260303143705.png]]
+![[Pasted image 20260303172550.png]]
+![[Pasted image 20260303172607.png]]
 # Evaluate
 ## Determine CP
 linear approximation optimization with aritras interpolation method
