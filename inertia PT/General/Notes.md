@@ -469,7 +469,109 @@ Tage produktiv gewesen:
 # Signal
 - Video sending problem:
   ![](Pasted%20image%2020251221172346.png)
+# ssh
+## SSH: Configuration, Keys and Passwords
 
+To make using ssh easier, there are several tricks of the trade. For example, using ssh keys will remove the password prompt.
+
+### Login Without Using Your Password
+
+<note warning> If you lose your private key, anyone could access your computer with it. So be careful! Always ensure that your private key is not accessible for other users! </note>
+
+In your ~/.ssh/ directory create a public/private key pair by typing the commands
+
+$ cd ~/.ssh
+~/.ssh$ ssh-keygen -t ecdsa -b 521
+
+DO NOT use `rsa` or `dsa`, because they are “basically breakable” encryptions.
+
+DO NOT use `ed25519`, because it is fairly new and wont work on some machines.
+
+Note from Markus: Actually this statement is in principle correct, but your PCs are all new enough so you can easily use ed25519. Discussion on [StackOverflow](https://security.stackexchange.com/questions/50878/ecdsa-vs-ecdh-vs-ed25519-vs-curve25519 "https://security.stackexchange.com/questions/50878/ecdsa-vs-ecdh-vs-ed25519-vs-curve25519") and [here](http://safecurves.cr.yp.to/ "http://safecurves.cr.yp.to/").
+
+Keep the standard filenames by keeping the name field empty and hitting `ENTER`. You can enter a passphrase or skip this step by just pressing `ENTER` again.
+
+<blockquote> Key pairs with empty passphrases are not accepted for logging onto the login server of the institute. Howerver they are accepted by your work computer if you access it directly via VPN. It is still highly recommended to put a pass phrase. On modern desktop systems you will unlock the key once when you need it, so you need to tpye your passphrase only once (keywords: ssh-agent and gnome-keyring). </blockquote>
+
+The last command will create a private key, called id_ecdsa, and a public key, called id_ecdsa.pub. You should ensure that only you can access your private key! Use the command
+
+~/.ssh$ chmod 600 id_ecdsa
+
+to change the access to the private key accordingly.
+
+Now, you have to copy your public key to the remote machine where you want to login. In our network, the remote machine has the same Home directory as your machine where you are logged in currently, because the same Home directory is used on all computers. For this reason you can just append your public key to your authorized_keys file in your .ssh directory by using the command:
+
+~/.ssh$ cat id_ecdsa.pub >> authorized_keys
+
+If you want to use the same method for a computer where you do not have the same Home directory, you can use the command
+
+~/.ssh$ ssh-copy-id -i id_ecdsa.pub user@remote-machine
+
+### SSH Connection Configuration
+
+You can use the file **~/.ssh/config** to configure your ssh connections.
+
+#### Forwarding Graphical Output
+
+The command
+
+$ ssh -Y [USERNAME]@[REMOTEHOST]
+
+establishes a connection to a remote host, logging in with the username, and enabling X11 forwarding (graphical output like gnuplot windows are forwarded).
+
+Now you can create an entry in your ~/.ssh/config file like
+
+Host [CONNECTIONNAME]
+  HostName [REMOTEHOST]
+  User [USERNAME]
+  ForwardX11 yes
+
+Here,
+
+- Host is a freely chosen name,
+    
+- HostName specifies the computer you want to connect to,
+    
+- User specifies the user you want to use for login,
+    
+- ForwardX11 specifies whether X11 output is forwarded or not.
+    
+
+#### Keep the SSH Connection Alive
+
+Remote hosts usually close the ssh connection after a certain time of inactivity. This is especially annoying, when using a terminal based editor.
+
+To prevent connection loss, instruct the ssh client to send a sign-of-life signal to the server once in a while. Add the following lines to your config file.
+
+Host *
+  ServerAliveInterval 240
+
+/* Furthermore, it is possible to enable a ForwardAgent that can be used to pipe traffic through a jump host to another target.
+
+##### Example
+
+The user egon wants to connect to his computer sol from remote, but sol is only available in the local network. Thus, he has to use the jump host pollux with the full domain name pollux.physik.uni-freiburg.de.
+
+A ~/.ssh/config file on egon's remote computer could look like:
+
+Host pollux
+  HostName pollux.tu-darmstadt.de
+  User egon
+  ForwardAgent yes
+  ForwardX11 yes
+
+Host sol
+  HostName sol
+  User egon
+  ForwardAgent yes
+  ForwardX11 yes
+  ProxyCommand ssh pollux -l %r -W %h:%p
+
+Now, egon can connect to his computer sol by simply using the command
+
+$ ssh sol
+
+on his remote computer. However, he still has to enter two passwords, first, for the jump host pollux, and, second, for his computer sol. */
 # git
 - Comment in `.gitignore` with # 
 - Ausnahmen mit `!`
