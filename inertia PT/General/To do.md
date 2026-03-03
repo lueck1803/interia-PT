@@ -1,7 +1,9 @@
 # unsortiert
 - [x] Maria antworten 
 - [ ] python auf cluster laufen lassen
-	- wie mache ich das nochmal. Steht das in 
+	- wie mache ich das nochmal. Steht das in meinem Latex glossar
+	- in meinem blauen notiz Buch 
+	- oder in element im Chat mit arooj
 - [ ] nach push und pull request bei kayro fragen
 - [x] grüne Hirschsocke flicken 
 - [ ] <span style="font-size:100%;color: orange;">definitiv Semesterbeitrag überweisen, damit ich das Deutschlandticket habe</span>
