@@ -1,5 +1,6 @@
 # unsorted tasks
 - [x] copy general plot to the non plot script
+- [ ] wiki eintrag für jupyter on cluster verbessern
 - [ ] reset to the old algo from 1.1 or 2.2. and compare the behavior of the placement of 28k (snapshots)
 - [x] 28k with new algo and stdHalf as start value from .07 to .09. compare the bindercumulant results
 - [x] 3.5 k with stdhalf reevaluate 
@@ -278,6 +279,36 @@ new branch ⟹ fss_ppphta_ebox-fit-in-pp
 - [ ] https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html
 	- [ ] https://pandas.pydata.org/docs/reference/api/pandas.unique.html
 - [x] sort determine CP
+## Juypter on cluster
+
+### sbatch script
+```bash
+#!/bin/bash -l
+
+#SBATCH --chdir /home/lwalter
+#SBATCH --partition=standard
+##SBATCH --partition=gpu
+##SBATCH --nodelist=cpu11
+#SBATCH --nodes=1
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=1
+#SBATCH --job-name="amep"
+
+module load anaconda3
+
+/home/lwalter/.conda/envs/phasetransition/bin/jupyter-notebook --no-browser --port=8081
+```
+
+![[Pasted image 20260303143705.png]]
+![[Pasted image 20260303172550.png]]
+![[Pasted image 20260303172607.png]]
+```bash
+ssh -v -L portIn:cpuXX:portOut 192.168.211.2 -N
+```
+
+```bash
+ssh -v -L 8891:cpu11:8081 192.168.211.2 -N
+```
 # Evaluate
 ## Determine CP
 linear approximation optimization with aritras interpolation method
