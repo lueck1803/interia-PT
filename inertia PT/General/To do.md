@@ -1,10 +1,17 @@
 # unsortiert
 - [x] Maria antworten 
+<<<<<<< HEAD
 - [ ] Fahrradkette ölen
 - [ ] python auf cluster laufen lassen
 	- wie mache ich das nochmal. Steht das in meinem Latex glossar
 	- in meinem blauen notiz Buch 
 	- oder in element im Chat mit arooj
+=======
+- [x] python auf cluster laufen lassen
+	- ❌wie mache ich das nochmal. Steht das in meinem Latex glossar
+	- ❌in meinem blauen notiz Buch 
+	- ✅oder in element im Chat mit arooj, Lukas Hecht und auf dem cluster
+>>>>>>> 9aa1583ee4f66bc487f0b402d409b9388bf2bf97
 - [ ] nach push und pull request bei kayro fragen
 - [x] grüne Hirschsocke flicken 
 - [ ] <span style="font-size:100%;color: orange;">definitiv Semesterbeitrag überweisen, damit ich das Deutschlandticket habe</span>
