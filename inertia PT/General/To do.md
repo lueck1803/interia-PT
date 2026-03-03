@@ -1,6 +1,6 @@
 # unsortiert
 - [x] Maria antworten 
-- [ ] Fahrradkette ölen
+- [x] Fahrradkette ölen
 - [x] python auf cluster laufen lassen
 	- ❌wie mache ich das nochmal. Steht das in meinem Latex glossar
 	- ❌in meinem blauen notiz Buch 
