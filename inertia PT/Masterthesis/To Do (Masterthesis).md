@@ -302,10 +302,12 @@ module load anaconda3
 ![[Pasted image 20260303143705.png]]
 ![[Pasted image 20260303172550.png]]
 ![[Pasted image 20260303172607.png]]
+``
 ```bash
 ssh -v -L portIn:cpuXX:portOut 192.168.211.2 -N
 ```
-
+- `portIn` is the port received by the browser with `localhost:portIn` or `127.0.0.1:portIn`
+- `portOut` is the port used to forward from the sending host 
 ```bash
 ssh -v -L 8891:cpu11:8081 192.168.211.2 -N
 ```
