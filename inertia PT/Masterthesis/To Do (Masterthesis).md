@@ -302,7 +302,7 @@ module load anaconda3
 ![[Pasted image 20260303143705.png]]
 ![[Pasted image 20260303172550.png]]
 ![[Pasted image 20260303172607.png]]
-``
+`jupyter-lab --no-browser --port=portOut`
 ```bash
 ssh -v -L portIn:cpuXX:portOut 192.168.211.2 -N
 ```
