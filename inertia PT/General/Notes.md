@@ -13,7 +13,10 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
-## 2
+## 26-03-04 kayro
+Wenn man sich mit der cpu02 mit ssh cpu02 verbindet und dort die env aufruft und dann `jupyter-lab --no-browser --port=8081` startet, muss man dann `ssh -L 8080:cpu02:8081 192.168.211.2 -N` oder `ssh -L 8080:127.0.0.1:8081 192.168.211.2 -N` aufrufen?
+also local host oder cpu02?
+mit dem queueing system ist es ja dann `cpuXX`
 
 ## 26-03-02 Julia 
 Ich hatte auch gedacht dass unser Austausch auf Augenhöhe ist und dieser dir etwas gebracht hat.
