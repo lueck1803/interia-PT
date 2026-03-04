@@ -309,6 +309,13 @@ ssh -v -L portIn:cpuXX:portOut 192.168.211.2 -N
 ```bash
 ssh -v -L 8891:cpu11:8081 192.168.211.2 -N
 ```
+
+`-v`is only for debugging, you can omit it.
+## Connect to CPU2
+You have to be logged-in to the cluster first.
+```bash
+ssh cpu02
+```
 # Evaluate
 ## Determine CP
 linear approximation optimization with aritras interpolation method
