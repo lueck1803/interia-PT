@@ -1,5 +1,6 @@
 # unsortiert
 - [ ] pc in Uni checken
+- [ ] nach
 - [ ] Bettwäsche wechseln 
 - [ ] VSS Formular ausfüllen
 	- [ ] Versicherungszeiten AOK runterladen
