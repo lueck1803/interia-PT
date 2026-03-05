@@ -1,6 +1,8 @@
 # unsortiert
 - [x] pc in Uni checken
-- [ ] nach Kartoffeln schauen und was mit den eingekochten Ackerbohnen kochen 
+- [x] nach Kartoffeln schauen
+	- sehen gut aus und ich habe ein paar von hinten geholt
+- [ ] und was mit den eingekochten Ackerbohnen kochen 
 - [x] Bettwäsche wechseln 
 - [ ] VSS Formular ausfüllen
 	- [ ] Versicherungszeiten AOK runterladen
