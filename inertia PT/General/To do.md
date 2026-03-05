@@ -1,6 +1,6 @@
 # unsortiert
 - [ ] pc in Uni checken
-- [ ] nach
+- [ ] nach Kartoffeln schauen und was mit den eingekochten Ackerbohnen kochen 
 - [ ] Bettwäsche wechseln 
 - [ ] VSS Formular ausfüllen
 	- [ ] Versicherungszeiten AOK runterladen
