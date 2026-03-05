@@ -435,7 +435,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] loch für Bioabfall neben Oregano graben
 - [ ] zitrone umsetzen 
 - [ ] Schnittlauch dahin wo Basilikum war
-- [ ] Melisse bei Erdbeeren entfernen 
+- [x] Melisse bei Erdbeeren entfernen 
 	- [ ] dort nach physalis Pflanzen suchen
 - [ ] root grow stimulants 
 	- [ ] 350mg tablet aspirin in wasser 
