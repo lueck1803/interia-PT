@@ -1,7 +1,4 @@
 # unsortiert
- <span style="font-size:100%;color:coral;">sync</span>
- <span style="font-size:100%;color:limegreen;">sync test</span>
- <span style="font-size:100%;color:DodgerBlue;">snyc tester</span>
 - [x] Maria antworten 
 - [ ] Bettwäsche wechseln 
 - [x] Fahrradkette ölen
