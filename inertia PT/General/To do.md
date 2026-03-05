@@ -4,6 +4,7 @@
 - [ ] VSS Formular ausfüllen
 	- [ ] Versicherungszeiten AOK runterladen
 - [ ] Lebenslauf
+	- [ ] Arbeit am Staatstheater Darmstadt hinzufügen
 - [ ] Tisch aufräumen
 - [ ] <span style="font-size:100%;color: orange;">definitiv Semesterbeitrag überweisen, damit ich das Deutschlandticket habe</span>
 - [x] Fahrradkette ölen
