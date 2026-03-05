@@ -1,6 +1,7 @@
 # unsortiert
 - [ ] pc in Uni checken
 - [ ] Bettwäsche wechseln 
+- [ ] Test 
 - [x] Fahrradkette ölen
 - [x] python auf cluster laufen lassen
 	- ❌ wie mache ich das nochmal. Steht das in meinem Latex glossar
