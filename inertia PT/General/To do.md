@@ -5,6 +5,11 @@
 	- [ ] Versicherungszeiten AOK runterladen
 - [ ] Lebenslauf
 	- [ ] Arbeit am Staatstheater Darmstadt hinzufügen
+	- [ ] Wann habe ich im MPA gearbeitet
+	- [ ] Wann habe ich bei Birkl gearbeitet
+	- [ ] Von wann bis wann war ich genau Tutor
+	- [ ] wann war ich tutor für mathe für maschbauer 
+	- [ ] wann habe ich für mathis gearbeitet
 - [ ] Tisch aufräumen
 - [ ] <span style="font-size:100%;color: orange;">definitiv Semesterbeitrag überweisen, damit ich das Deutschlandticket habe</span>
 - [x] Fahrradkette ölen
