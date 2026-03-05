@@ -434,7 +434,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] habanero Pflanze säen
 - [x] loch für Bioabfall neben Oregano graben
 - [ ] zitrone umsetzen 
-- [ ] Schnittlauch dahin wo Basilikum war
+- [x] Schnittlauch dahin wo Basilikum war
 - [x] Melisse bei Erdbeeren entfernen 
 	- [ ] dort nach physalis Pflanzen suchen
 - [ ] root grow stimulants 
@@ -475,6 +475,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] pod go neben sofa stellen und dort an den strom anschließen 
 # Lesen und Hören
 - [ ] Universum in einem einzigen Atom 
+- [ ] Einführung in die Charakterkunde 
 # Filme, Serien und Dokus
 - [x] <span style="color:gold">ghostbusters runterladen</span>
 - [x] <span style="color:coral">paartherapie S3 runterladen</span>
