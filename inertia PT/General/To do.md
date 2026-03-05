@@ -413,7 +413,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] Jack Wolfskin Schuhe Schnürsenkel reparieren
 - [x] graue hose Knopf reparieren 
 # Pflanzen 
-- [ ] salat aussäen 
+- [ ] salat aussäen
 - [x] Bohnenkraut einpflanzen 
 - [x] zitrusgewächse umpflanzen 
 	- [x] limequat 
