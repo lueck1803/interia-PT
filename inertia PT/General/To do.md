@@ -2,6 +2,7 @@
  <span style="font-size:100%;color:coral;">sync</span>
  <span style="font-size:100%;color:limegreen;">sync test</span>
 - [x] Maria antworten 
+- [ ] Bettwäsche wechseln 
 - [x] Fahrradkette ölen
 - [x] python auf cluster laufen lassen
 	- ❌ wie mache ich das nochmal. Steht das in meinem Latex glossar
