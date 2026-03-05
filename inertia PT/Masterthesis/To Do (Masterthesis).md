@@ -320,6 +320,11 @@ You have to be logged-in to the cluster first.
 ```bash
 ssh cpu02
 ```
+Connect to Jupyter-lab via:
+```bash
+ssh -L 3733:127.0.0.1:8082 192.168.211.2 -N
+```
+The current working python environment is 
 # Evaluate
 ## Determine CP
 linear approximation optimization with aritras interpolation method
