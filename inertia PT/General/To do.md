@@ -39,7 +39,7 @@
 	- [ ] türkisch 
 	- [ ] türkisch abschreiben 
 - [ ] Apfel essen  
-- [ ] fragen was mit der Abrechnung vom September ist bzw schauen ob was kam 
+- [x] fragen was mit der Abrechnung vom September ist bzw schauen ob was kam 
 - [ ] zip tight knoten lernen 
 - [ ] tesaabroller schärfen
 - [x] Aldi Tasche reparieren 
