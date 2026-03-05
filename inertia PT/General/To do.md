@@ -3,7 +3,8 @@
 - [ ] Bettwäsche wechseln 
 - [ ] VSS Formular ausfüllen
 	- [ ] Versicherungszeiten AOK runterladen
-	- [ ] Studienbescheinigung
+	- [x] Studienbescheinigung
+	- [ ] brauche noch die vom nächsten Semester 
 - [ ] Lebenslauf
 	- [ ] Arbeit am Staatstheater Darmstadt hinzufügen
 	- [ ] Wann habe ich im MPA gearbeitet
