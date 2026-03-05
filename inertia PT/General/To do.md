@@ -3,6 +3,8 @@
 - [ ] Bettwäsche wechseln 
 - [ ] VSS Formular ausfüllen
 	- [ ] Versicherungszeiten AOK runterladen
+	- [ ] Studienbescheinigung
+	- [ 
 - [ ] Lebenslauf
 	- [ ] Arbeit am Staatstheater Darmstadt hinzufügen
 	- [ ] Wann habe ich im MPA gearbeitet
