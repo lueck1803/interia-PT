@@ -1,6 +1,18 @@
 # unsortiert
 - [ ] pc in Uni checken
 - [ ] Bettwäsche wechseln 
+- [ ] VSS Formular ausfüllen
+	- [ ] Versicherungszeiten AOK runterladen
+	- [ ] Studienbescheinigung
+- [ ] Lebenslauf
+	- [ ] Arbeit am Staatstheater Darmstadt hinzufügen
+	- [ ] Wann habe ich im MPA gearbeitet
+	- [ ] Wann habe ich bei Birkl gearbeitet
+	- [ ] Von wann bis wann war ich genau Tutor
+	- [ ] wann war ich tutor für mathe für maschbauer 
+	- [ ] wann habe ich für mathis gearbeitet (21-23)
+- [ ] Tisch aufräumen
+- [ ] <span style="font-size:100%;color: orange;">definitiv Semesterbeitrag überweisen, damit ich das Deutschlandticket habe</span>
 - [x] Fahrradkette ölen
 - [x] python auf cluster laufen lassen
 	- ❌ wie mache ich das nochmal. Steht das in meinem Latex glossar
@@ -8,7 +20,6 @@
 	- ✅ oder in element im Chat mit arooj, Lukas Hecht und auf dem cluster
 - [x] nach push und pull request bei kayro fragen
 - [x] grüne Hirschsocke flicken 
-- [ ] <span style="font-size:100%;color: orange;">definitiv Semesterbeitrag überweisen, damit ich das Deutschlandticket habe</span>
 - [x] aok anrufen
 - [x] ärzte ohne grenzen kündigen
 	- puuh gerade noch rechtzeitig.
@@ -51,7 +62,6 @@
 		- 25-12-22 geld da
 - [ ] Kühlschrank putzen und abtauen
 - [ ] Zeug vor dem Bad wegräumen 
-- [ ] Tisch aufräumen
 - [x] Keyboard von hinten holen 
 
 # tägliches
