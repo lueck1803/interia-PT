@@ -281,7 +281,7 @@ new branch ⟹ fss_ppphta_ebox-fit-in-pp
 - [x] sort determine CP
 ## Juypter on cluster
 the reason why it didn't find amep was that I choose the <span style="font-size:100%;color:red;">wrong folder depth</span>.
-`amep/` instead of `amep/amep`
+I choose `amep/amep` instead of 
 
 ### sbatch script
 ```bash

@@ -1,5 +1,4 @@
 # unsortiert
-- [x] Maria antworten 
 - [ ] pc in Uni checken
 - [ ] Bettwäsche wechseln 
 - [x] Fahrradkette ölen
