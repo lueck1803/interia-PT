@@ -9,7 +9,7 @@
 	- [ ] Wann habe ich bei Birkl gearbeitet
 	- [ ] Von wann bis wann war ich genau Tutor
 	- [ ] wann war ich tutor für mathe für maschbauer 
-	- [ ] wann habe ich für mathis gearbeitet
+	- [ ] wann habe ich für mathis gearbeitet (21-23)
 - [ ] Tisch aufräumen
 - [ ] <span style="font-size:100%;color: orange;">definitiv Semesterbeitrag überweisen, damit ich das Deutschlandticket habe</span>
 - [x] Fahrradkette ölen
