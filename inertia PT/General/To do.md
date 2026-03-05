@@ -1,8 +1,6 @@
 # unsortiert
 - [x] pc in Uni checken
-- [x] nach Kartoffeln schauen
-	- sehen gut aus und ich habe ein paar von hinten geholt
-- [ ] und was mit den eingekochten Ackerbohnen kochen 
+- [ ] nach Kartoffeln schauen und was mit den eingekochten Ackerbohnen kochen 
 - [x] Bettwäsche wechseln 
 - [ ] VSS Formular ausfüllen
 	- [ ] Versicherungszeiten AOK runterladen
@@ -416,6 +414,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] graue hose Knopf reparieren 
 # Pflanzen 
 - [x] Bohnenkraut einpflanzen 
+- [ ] salat aus
 - [x] zitrusgewächse umpflanzen 
 	- [x] limequat 
 	- [x] Kumquat 
