@@ -1259,7 +1259,8 @@ Wieder zusammen führen
 ## Schaft
 Markierungen raus nehmen
 1. r 36M ✅✅✅✅
-2. ✅✅
+2. ✅✅✅✅
+3. 
 
 
 ## new try / Nadine
