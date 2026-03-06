@@ -3,7 +3,7 @@
 - [ ] nach Kartoffeln schauen und was mit den eingekochten Ackerbohnen kochen 
 - [x] Bettwäsche wechseln 
 - [ ] VSS Formular ausfüllen
-	- [ ] Versicherungszeiten AOK runterladen
+	- [x] Versicherungszeiten AOK runterladen
 	- [x] Studienbescheinigung
 	- [ ] brauche noch die vom nächsten Semester 
 - [ ] Lebenslauf
