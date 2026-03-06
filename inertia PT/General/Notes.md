@@ -1254,7 +1254,7 @@ Wieder zusammen führen
 - 7. Verstärkung (A) ✅✅ + Vorderseite ✅✅
 - 8. Abnahme ✅✅ + Vorderseite ✅✅
 - 8. Verstärkung (r) ✅✅ + Vorderseite ✅✅
-- 9. Abnahme
+- 9. Abnahme ✅✅ + Vorderseite 
 
 
 
