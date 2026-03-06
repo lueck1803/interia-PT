@@ -1257,7 +1257,8 @@ Wieder zusammen führen
 - 9. Abnahme ✅✅ + Vorderseite ✅✅
 - 9. Verstärkung (A) ✅✅  + Vorderseite ✅✅
 Markierungen raus nehmen
-1. r 36M ✅✅✅
+1. r 36M ✅✅✅✅
+2. 
 
 
 ## new try / Nadine
