@@ -1256,9 +1256,10 @@ Wieder zusammen führen
 - 8. Verstärkung (r) ✅✅ + Vorderseite ✅✅
 - 9. Abnahme ✅✅ + Vorderseite ✅✅
 - 9. Verstärkung (A) ✅✅  + Vorderseite ✅✅
+## Schaft
 Markierungen raus nehmen
 1. r 36M ✅✅✅✅
-2. 
+2. ✅✅
 
 
 ## new try / Nadine
