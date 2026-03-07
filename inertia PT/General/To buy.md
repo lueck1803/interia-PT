@@ -1,5 +1,5 @@
-- [ ] Toast 
-- [ ] Marmelade 
+- [x] Toast 
+- [x] Marmelade 
 - [x] Hafermilch 
 - [x] Fusilli
 - [x] regenerier salz
