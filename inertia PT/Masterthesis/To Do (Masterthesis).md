@@ -119,7 +119,9 @@ $$
 - [ ] Date of submission
 
 ## to do
-- Folien durch gehen und damit 
+- [ ] Folien durch gehen und damit den groben fahrplan / struktur machen
+- [ ] Damit meine Arbeit beschreiben strickt anhand der Folien
+- [ ] 
 
 ## latex
 
