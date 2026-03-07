@@ -120,8 +120,12 @@ $$
 
 ## to do
 - [ ] Folien durch gehen und damit den groben fahrplan / struktur machen
-- [ ] Damit meine Arbeit beschreiben strickt anhand der Folien
-- [ ] 
+- [ ] Damit meine Arbeit beschreiben. strickt anhand der Folien
+- [ ] Probleme des Algorithms beschreiben 
+- [ ] Dann meine Introduction passend dazu schreiben
+- [ ] Dann den theoretical background
+- [ ] dann das create simulation program
+- [ ] create simulation program auf dem 
 
 ## latex
 
