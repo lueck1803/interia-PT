@@ -2,8 +2,6 @@
 - [ ] Marmelade 
 - [x] Hafermilch 
 - [x] Fusilli
-- [x] Knoblauch pesto
-- [x] nusskati
 - [x] regenerier salz
 	- ⟹5 mal
 - [x] destilliertes Wasser 
