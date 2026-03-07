@@ -5,7 +5,7 @@
 	- [ ] oberen Teil 
 		- [ ] rest entfernen 
 		- [ ] durchbohren 
-	- [ ] gelbes seil durch und Kn
+	- [ ] gelbes seil durch und Knoten unten machen
 - [x] nach Kartoffeln schauen und was mit den eingekochten Ackerbohnen kochen 
 	- die Kartoffeln sind noch sehr gut bis auf ein paar weiße Stellen 
 	- Essen ist sehr lecker geworden.
