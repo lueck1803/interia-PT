@@ -116,6 +116,10 @@ $$
 ## general
 - [ ] gescheiten Titel überlegen ⟹ criticality/universality of underdamped brownian particles non equilibrium 
 - [ ] Unterschrift ändern
+- [ ] Date of
+
+## latex
+
 # Masterplot
 multiply the data of the observable (binder cumulant, order parameter,  susceptibility) with the scaling factors of the observable. $L^{\zeta_{\mathcal{O}}/\nu}$ 
 
