@@ -2,7 +2,7 @@
 - [x] pc in Uni checken
 - [ ] bio Müll runter
 - [x] tastatur wischen
-- [ ] paprika säen
+- [x] paprika säen
 - [ ] nochmal Chili  
 - [x] nach Kartoffeln schauen und was mit den eingekochten Ackerbohnen kochen 
 	- die Kartoffeln sind noch sehr gut bis auf ein paar weiße Stellen 
