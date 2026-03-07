@@ -1,6 +1,8 @@
 # unsorted tasks
 - [x] copy general plot to the non plot script
 - [ ] wiki eintrag für jupyter on cluster verbessern
+- [ ] wiki eintrag für create simulation programm
+- [ ] fork von AMEP erstellen
 - [ ] reset to the old algo from 1.1 or 2.2. and compare the behavior of the placement of 28k (snapshots)
 - [x] 28k with new algo and stdHalf as start value from .07 to .09. compare the bindercumulant results
 - [x] 3.5 k with stdhalf reevaluate 
@@ -125,7 +127,7 @@ $$
 - [ ] Dann meine Introduction passend dazu schreiben
 - [ ] Dann den theoretical background
 - [ ] dann das create simulation program
-- [ ] create simulation program auf dem 
+- [ ] create simulation program auf dem cluster hochladen und beschreiben
 
 ## latex
 
