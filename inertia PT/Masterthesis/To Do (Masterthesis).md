@@ -115,8 +115,11 @@ $$
 # Thesis
 ## general
 - [ ] gescheiten Titel überlegen ⟹ criticality/universality of underdamped brownian particles non equilibrium 
-- [ ] Unterschrift ändern
-- [ ] Date of
+- [ ] Unterschrift und Datum ändern
+- [ ] Date of submission
+
+## to do
+- Folien durch gehen und damit 
 
 ## latex
 
