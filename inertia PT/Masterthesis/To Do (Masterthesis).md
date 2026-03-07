@@ -1,7 +1,8 @@
 # unsorted tasks
-- [ ] amep forken
 - [x] copy general plot to the non plot script
 - [ ] wiki eintrag für jupyter on cluster verbessern
+- [ ] wiki eintrag für create simulation programm
+- [ ] fork von AMEP erstellen
 - [ ] reset to the old algo from 1.1 or 2.2. and compare the behavior of the placement of 28k (snapshots)
 - [x] 28k with new algo and stdHalf as start value from .07 to .09. compare the bindercumulant results
 - [x] 3.5 k with stdhalf reevaluate 
@@ -112,6 +113,23 @@ $$
 - [ ] continue with slides
 - [ ] reeval the exponents
 - [ ] changed that `nbins` is dependend on the width of the simulation box factor `nbins=boxwidth*0.5` before 0.3 derived from 600 bins for 224k particles with width ~ 2000  
+
+# Thesis
+## general
+- [ ] gescheiten Titel überlegen ⟹ criticality/universality of underdamped brownian particles non equilibrium 
+- [ ] Unterschrift und Datum ändern
+- [ ] Date of submission
+
+## to do
+- [ ] Folien durch gehen und damit den groben fahrplan / struktur machen
+- [ ] Damit meine Arbeit beschreiben. strickt anhand der Folien
+- [ ] Probleme des Algorithms beschreiben 
+- [ ] Dann meine Introduction passend dazu schreiben
+- [ ] Dann den theoretical background
+- [ ] dann das create simulation program
+- [ ] create simulation program auf dem cluster hochladen und beschreiben
+
+## latex
 
 # Masterplot
 multiply the data of the observable (binder cumulant, order parameter,  susceptibility) with the scaling factors of the observable. $L^{\zeta_{\mathcal{O}}/\nu}$ 
@@ -469,9 +487,6 @@ echo "Stage 3 jobs submitted: $jid1 → $jid2 → $jid3"
 # Read
 - [ ] Feng2025~Theory for the anomalous phase behavior of inertial active Brownian particles
 	- [ ] + Supplement
-
-# Thesis
-- [ ] gescheiten Titel überlegen ⟹ criticality/universality of underdamped brownian particles non equilibrium 
 
 # Report
 <span style="color:red" > finish the Slides today </span>

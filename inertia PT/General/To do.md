@@ -1,16 +1,11 @@
 # unsortiert
 - [x] pc in Uni checken
-- [ ] flipflop reparieren 
-	- [ ] runde Scheibe durchbohren unnötig 
-	- [ ] oberen Teil 
-		- [ ] rest entfernen 
-		- [ ] durchbohren 
-	- [ ] gelbes seil durch und Knoten unten machen
+- [ ] tastatur wischen
 - [x] nach Kartoffeln schauen und was mit den eingekochten Ackerbohnen kochen 
 	- die Kartoffeln sind noch sehr gut bis auf ein paar weiße Stellen 
 	- Essen ist sehr lecker geworden.
 	- die eingekochten Bohnen sind sehr gut
-- [ ] Bohnenessen in den Kühlschrank
+- [x] Bohnenessen in den Kühlschrank
 - [x] Bettwäsche wechseln 
 - [ ] VSS Formular ausfüllen
 	- [x] Versicherungszeiten AOK runterladen
@@ -398,6 +393,14 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 	- hat ganz gut geklappt mit der kleinen Akkuflex 
 
 # Nähen, Malen, Basteln und Reparieren 
+- [x] flipflop reparieren 
+	- ~~runde Scheibe durchbohren~~ ⟹ unnötig 
+	- [x] oberen Teil 
+		- [x] rest entfernen 
+		- [x] durchbohren 
+	- [x] gelbes seil durch und Knoten unten machen
+		- habe weißes seil genommen
+	- <span style="font-size:100%;color: limegreen;">⟹perfekt!</span>
 - [ ] Winterschuhe braun sole kleben 
 - [x] Loch im grünen Shirt flicken 
 - [x] Handschuh flicken
