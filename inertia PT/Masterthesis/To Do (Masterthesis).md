@@ -113,8 +113,9 @@ $$
 - [ ] changed that `nbins` is dependend on the width of the simulation box factor `nbins=boxwidth*0.5` before 0.3 derived from 600 bins for 224k particles with width ~ 2000  
 
 # Thesis
+## general
 - [ ] gescheiten Titel überlegen ⟹ criticality/universality of underdamped brownian particles non equilibrium 
-- [ ] 
+- [ ] Unterschrift ändern
 # Masterplot
 multiply the data of the observable (binder cumulant, order parameter,  susceptibility) with the scaling factors of the observable. $L^{\zeta_{\mathcal{O}}/\nu}$ 
 
