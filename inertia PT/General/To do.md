@@ -1,5 +1,11 @@
 # unsortiert
 - [x] pc in Uni checken
+- [ ] flipflop reparieren 
+	- [ ] runde Scheibe durchbohren unnötig 
+	- [ ] oberen Teil 
+		- [ ] rest entfernen 
+		- [ ] durchbohren 
+	- [ ] gelbes seil durch und Kn
 - [x] nach Kartoffeln schauen und was mit den eingekochten Ackerbohnen kochen 
 	- die Kartoffeln sind noch sehr gut bis auf ein paar weiße Stellen 
 	- Essen ist sehr lecker geworden.
