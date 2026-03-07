@@ -1,6 +1,8 @@
 # unsortiert
 - [x] pc in Uni checken
 - [ ] tastatur wischen
+- [ ] paprika säen
+- [ ] nochmal Chili  
 - [x] nach Kartoffeln schauen und was mit den eingekochten Ackerbohnen kochen 
 	- die Kartoffeln sind noch sehr gut bis auf ein paar weiße Stellen 
 	- Essen ist sehr lecker geworden.
