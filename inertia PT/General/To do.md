@@ -1,6 +1,7 @@
 # unsortiert
 - [x] pc in Uni checken
-- [ ] tastatur wischen
+- [ ] bio Müll runter
+- [x] tastatur wischen
 - [ ] paprika säen
 - [ ] nochmal Chili  
 - [x] nach Kartoffeln schauen und was mit den eingekochten Ackerbohnen kochen 
