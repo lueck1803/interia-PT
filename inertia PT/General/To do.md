@@ -1,6 +1,10 @@
 # unsortiert
 - [x] pc in Uni checken
-- [ ] nach Kartoffeln schauen und was mit den eingekochten Ackerbohnen kochen 
+- [x] nach Kartoffeln schauen und was mit den eingekochten Ackerbohnen kochen 
+	- die Kartoffeln sind noch sehr gut bis auf ein paar weiße Stellen 
+	- Essen ist sehr lecker geworden.
+	- die eingekochten Bohnen sind sehr gut
+- [ ] Bohnenessen in den Kühlschrank
 - [x] Bettwäsche wechseln 
 - [ ] VSS Formular ausfüllen
 	- [x] Versicherungszeiten AOK runterladen
