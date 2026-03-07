@@ -1,5 +1,4 @@
 # unsorted tasks
-- [ ] amep forken
 - [x] copy general plot to the non plot script
 - [ ] wiki eintrag für jupyter on cluster verbessern
 - [ ] reset to the old algo from 1.1 or 2.2. and compare the behavior of the placement of 28k (snapshots)
@@ -113,6 +112,9 @@ $$
 - [ ] reeval the exponents
 - [ ] changed that `nbins` is dependend on the width of the simulation box factor `nbins=boxwidth*0.5` before 0.3 derived from 600 bins for 224k particles with width ~ 2000  
 
+# Thesis
+- [ ] gescheiten Titel überlegen ⟹ criticality/universality of underdamped brownian particles non equilibrium 
+- [ ] 
 # Masterplot
 multiply the data of the observable (binder cumulant, order parameter,  susceptibility) with the scaling factors of the observable. $L^{\zeta_{\mathcal{O}}/\nu}$ 
 
@@ -469,9 +471,6 @@ echo "Stage 3 jobs submitted: $jid1 → $jid2 → $jid3"
 # Read
 - [ ] Feng2025~Theory for the anomalous phase behavior of inertial active Brownian particles
 	- [ ] + Supplement
-
-# Thesis
-- [ ] gescheiten Titel überlegen ⟹ criticality/universality of underdamped brownian particles non equilibrium 
 
 # Report
 <span style="color:red" > finish the Slides today </span>
