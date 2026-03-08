@@ -1,5 +1,7 @@
 # unsortiert
 - [x] pc in Uni checken
+- [ ] Chiphalter reparieren 
+- [ ] Beltaine hohe Flöte üben 
 - [ ] bio Müll runter
 - [x] tastatur wischen
 - [x] paprika säen
