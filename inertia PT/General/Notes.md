@@ -1043,6 +1043,9 @@ Ich verstehe ihre Zurückhaltung aus ihrer Erfahrung zu 100%.
 ## Mädchen
 - Alva
 - Maja 
+- Thilda
+## Jungen
+- 
 
 # Nähmaschine
 ## Einfädelhilfe
