@@ -5,7 +5,7 @@
 - [ ] bio Müll runter
 - [x] tastatur wischen
 - [x] paprika säen
-- [ ] nochmal Chili  
+- [x] nochmal Chili  
 - [x] nach Kartoffeln schauen und was mit den eingekochten Ackerbohnen kochen 
 	- die Kartoffeln sind noch sehr gut bis auf ein paar weiße Stellen 
 	- Essen ist sehr lecker geworden.
