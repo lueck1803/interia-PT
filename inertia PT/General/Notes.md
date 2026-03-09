@@ -1283,7 +1283,7 @@ Markierungen raus nehmen
 20. ✅✅✅✅
 ## Bündchen 
 [rechtsverschränkt und links](https://www.youtube.com/watch?v=whRcNAtaUOM&t=8s)
-1. ✅✅
+1. ✅✅✅
 
 
 ## new try / Nadine
