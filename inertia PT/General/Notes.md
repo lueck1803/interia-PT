@@ -1284,7 +1284,7 @@ Markierungen raus nehmen
 ## Bündchen 
 [rechtsverschränkt und links](https://www.youtube.com/watch?v=whRcNAtaUOM&t=8s)
 1. ✅✅✅✅
-2. 
+2. ✅
 
 
 ## new try / Nadine
