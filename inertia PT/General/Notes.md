@@ -1285,7 +1285,7 @@ Markierungen raus nehmen
 [rechtsverschränkt und links](https://www.youtube.com/watch?v=whRcNAtaUOM&t=8s)
 1. ✅✅✅✅
 2. ✅✅✅✅
-3. 
+3. ✅
 
 
 ## new try / Nadine
