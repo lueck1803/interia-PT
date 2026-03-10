@@ -2,6 +2,7 @@
 - [x] pc in Uni checken
 - [ ] Chiphalter reparieren 
 - [ ] Beltaine hohe Flöte üben 
+- [ ] Matratze drehen
 - [ ] bio Müll runter
 - [x] tastatur wischen
 - [x] paprika säen
