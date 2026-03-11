@@ -1298,6 +1298,10 @@ Markierungen raus nehmen
 1. a reverse yarn over
 2. than knit the knit stich
 3. pull the yarn over the knit stich
+4. Do the same to the second one
+5. bind-off the first stich over the second one
+6. Then follow two purl stitches, they don't get a reverse yarn over, they get a regular yarn over.
+7. 
 
 
 
