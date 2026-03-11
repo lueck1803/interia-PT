@@ -1292,7 +1292,7 @@ Markierungen raus nehmen
 7. ✅✅✅✅
 8. ✅✅✅✅
 9. ✅✅✅✅
-10. 
+10. ✅
 
 
 ## new try / Nadine
