@@ -1294,6 +1294,11 @@ Markierungen raus nehmen
 9. ✅✅✅✅
 10. ✅✅✅✅
 ## Abketten
+[surprisingly stretchy bind-off](https://www.youtube.com/watch?v=abBhe-JYmgI&t=2s)
+1. a reverse yarn over
+2. than knit the knit stich
+3. pull the yarn over the knit stich
+
 
 
 
