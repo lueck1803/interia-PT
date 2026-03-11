@@ -1301,7 +1301,11 @@ Markierungen raus nehmen
 4. Do the same to the second one
 5. bind-off the first stich over the second one
 6. Then follow two purl stitches, they don't get a reverse yarn over, they get a regular yarn over.
-7. 
+	1. pull the yarn over
+	2. pull the stitch 
+	3. pass the yarn over the stitch
+	4. than the same with the second one 
+	5. than pass the both yarns over the last stitch
 
 
 
