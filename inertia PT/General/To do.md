@@ -1,6 +1,6 @@
 # unsortiert
 - [x] pc in Uni checken
-- [ ] Sport 
+- [x] Sport 
 - [x] duschen 
 - [ ] Küche aufräumen 
 - [ ] staubsaugen 
