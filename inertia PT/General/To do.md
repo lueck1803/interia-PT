@@ -10,7 +10,7 @@
 - [ ] Matratze drehen
 - [ ] Duolingo türkisch screenshots älter als 25-09-30 vom handy löschen
 - [x] bio Müll runter
-- [x] tastatur wischen
+- [ ] tastatur wischen
 - [x] paprika säen
 - [x] nochmal Chili  
 - [x] nach Kartoffeln schauen und was mit den eingekochten Ackerbohnen kochen 
