@@ -1,5 +1,10 @@
 # unsortiert
 - [x] pc in Uni checken
+- [ ] Sport 
+- [ ] duschen 
+- [ ] Küche aufräumen 
+- [ ] staubsaugen 
+- [ ] Wäsche weg
 - [ ] Chiphalter reparieren 
 - [ ] Beltaine hohe Flöte üben 
 - [ ] Matratze drehen
