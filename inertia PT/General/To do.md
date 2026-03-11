@@ -9,7 +9,7 @@
 - [ ] Beltaine hohe Flöte üben 
 - [ ] Matratze drehen
 - [ ] Duolingo türkisch screenshots älter als 25-09-30 vom handy löschen
-- [ ] bio Müll runter
+- [x] bio Müll runter
 - [x] tastatur wischen
 - [x] paprika säen
 - [x] nochmal Chili  
