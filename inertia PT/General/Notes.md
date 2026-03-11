@@ -1296,16 +1296,17 @@ Markierungen raus nehmen
 ## Abketten
 [surprisingly stretchy bind-off](https://www.youtube.com/watch?v=abBhe-JYmgI&t=2s)
 1. a reverse yarn over
-2. than knit the knit stich
-3. pull the yarn over the knit stich
-4. Do the same to the second one
-5. bind-off the first stich over the second one
-6. Then follow two purl stitches, they don't get a reverse yarn over, they get a regular yarn over.
+	1. than knit the knit stich (rechte Masche)
+	2. pull the yarn over the knit stich
+	3. Do the same to the second one
+	4. bind-off the first stich over the second one
+2. Then follow two purl stitches, they don't get a reverse yarn over, they get a regular yarn over.
 	1. pull the yarn over
-	2. pull the stitch 
+	2. purl (links stricken) the stitch 
 	3. pass the yarn over the stitch
 	4. than the same with the second one 
 	5. than pass the both yarns over the last stitch
+3. 
 
 
 
