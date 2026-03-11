@@ -1306,8 +1306,9 @@ Markierungen raus nehmen
 	3. pass the yarn over the stitch
 	4. than the same with the second one 
 	5. than pass the both yarns over the last stitch
-3. 
 
+Aber da das Bündchen rechtsverschränkt und links ist. 
+Sollte sich rechtes und linkes Abketten direkt folgen und nicht zwei Rechte und zwei linke 
 
 
 
