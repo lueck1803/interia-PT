@@ -1310,6 +1310,7 @@ Markierungen raus nehmen
 Aber da das Bündchen rechtsverschränkt und links ist. 
 Sollte sich rechtes und linkes Abketten direkt folgen und nicht zwei Rechte und zwei linke.
 ⟹ja viel besser 
+<span style="font-size:120%;color: red;">Fertig</span> 🥳
 
 
 
