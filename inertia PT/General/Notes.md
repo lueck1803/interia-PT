@@ -1308,7 +1308,8 @@ Markierungen raus nehmen
 	5. than pass the both yarns over the last stitch
 
 Aber da das Bündchen rechtsverschränkt und links ist. 
-Sollte sich rechtes und linkes Abketten direkt folgen und nicht zwei Rechte und zwei linke 
+Sollte sich rechtes und linkes Abketten direkt folgen und nicht zwei Rechte und zwei linke.
+⟹ja viel besser 
 
 
 
