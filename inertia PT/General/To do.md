@@ -7,16 +7,17 @@
 - [x] Fingernägel 
 - [ ] Nasenhaare 
 - [ ] tastatur wischen
-- [ ] socken fertig
+- [x] socken fertig
+- [ ] Socken an der Spitze vernähen 
+- [ ] Socken einpacken 
 - [ ] Kleidung aufräumen 
 - [ ] Spülmaschine 
-- [ ] Duolingo 
+- [x] Duolingo 
 - [ ] Küche aufräumen 
 - [ ] staubsaugen 
 - [ ] Wäsche weg
 - [ ] heißluftfriteuse weg
 - [ ] Chiphalter reparieren 
-- [ ] Beltaine hohe Flöte üben 
 - [ ] Matratze drehen
 - [ ] Tisch aufräumen
 - [ ] Duolingo türkisch screenshots älter als 25-09-30 vom handy löschen
@@ -481,6 +482,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 	- [ ] Bananenschalen (bio) wasser 24h einweichen 
 - [x] carnivoren umsetzen 
 # Musik
+- [ ] Beltaine hohe Flöte üben 
 - [ ] füsilier alles üben
 - [ ] fresh fur 
 	- [ ] lead guitar 
