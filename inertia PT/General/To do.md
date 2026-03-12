@@ -1,16 +1,22 @@
 # unsortiert
-- [x] pc in Uni checken
-- [x] Sport 
+- [ ] Sport 
 - [x] duschen 
+- [ ] Zähne putzen 
+- [ ] Bart schneiden 
+- [ ] tastatur wischen
+- [ ] socken fertig
+- [ ] Kleidung aufräumen 
+- [ ] Spülmaschine 
+- [ ] Duolingo 
 - [ ] Küche aufräumen 
 - [ ] staubsaugen 
 - [ ] Wäsche weg
 - [ ] Chiphalter reparieren 
 - [ ] Beltaine hohe Flöte üben 
 - [ ] Matratze drehen
+- [ ] Tisch aufräumen
 - [ ] Duolingo türkisch screenshots älter als 25-09-30 vom handy löschen
 - [x] bio Müll runter
-- [ ] tastatur wischen
 - [x] paprika säen
 - [x] nochmal Chili  
 - [x] nach Kartoffeln schauen und was mit den eingekochten Ackerbohnen kochen 
@@ -30,8 +36,7 @@
 	- [ ] Von wann bis wann war ich genau Tutor
 	- [ ] wann war ich tutor für mathe für maschbauer 
 	- [ ] wann habe ich für mathis gearbeitet (21-23)
-- [ ] Tisch aufräumen
-- [ ] <span style="font-size:100%;color: orange;">definitiv Semesterbeitrag überweisen, damit ich das Deutschlandticket habe</span>
+- [x] <span style="font-size:100%;color: orange;">definitiv Semesterbeitrag überweisen, damit ich das Deutschlandticket habe</span>
 - [x] Fahrradkette ölen
 - [x] python auf cluster laufen lassen
 	- ❌ wie mache ich das nochmal. Steht das in meinem Latex glossar
