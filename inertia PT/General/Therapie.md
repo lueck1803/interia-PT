@@ -262,7 +262,7 @@ Der <span style="color:red;font-size:100%;">andere möchte</span> einen nicht nu
 	- um so einen ganzen Text zu lesen hat das Tage oder Wochen gedauert, da ich nach nem Abschnitt schon Pause für mehrere Stunden brauchte
 	- oder irgendwas mit dem ich dachte wieder Energie zu schöpfen, mir irgendwie Dopamin und Ablenkung zu holen
 - Von jedem Geräusch und Gedanken abgelenkt zu werden.
-- 
+- Die Orientierung zu verlieren, da ich direkt vergessen hatte, was ich eben noch gedacht habe oder vor hatte, wenn ich nur das Fenster gewechselt habe.
 
 ## Attribution und mich fertig machen
 mit den anderen Nadeln vergleichen Öse und Länge der Nadel ⟹ eventuell Länge abschleifen <br> ⟹hat geklappt <span style="font-size:100%;color:coral;">hab sie dann aber mit dem hammer zerstört als ich beim zweiten mal probiert habe die Öse mit einem Nagel etwas zu vergrößern. Sie ist dadurch gebrochen an der Öse. ich wusste es habe, es aber trotzdem gemacht, konnte es nicht lassen</span> <span style="font-size:100%;color:red;">ist aber nicht schlimm, ich habe daraus etwas gelernt</span> ich hatte dabei das erste Mal wieder das Gefühl "oh mein Gott ich habe etwas falsch gemacht und war kurz davor mich da weiter fertig und runter zu machen siehe PC etc." ⟹ der Fehler war nicht 100% bei mir und achtsam zu sein

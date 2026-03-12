@@ -122,6 +122,8 @@ $$
 
 ## to do
 - [ ] Folien durch gehen und damit den groben fahrplan / struktur machen
+- [ ] Den Weg vom der ursprünglichen Box eval methode zum Box algo beschreiben.
+	- [ ] Erstes paper, warum haben d
 - [ ] Damit meine Arbeit beschreiben. strickt anhand der Folien
 - [ ] Probleme des Algorithms beschreiben 
 - [ ] Dann meine Introduction passend dazu schreiben
