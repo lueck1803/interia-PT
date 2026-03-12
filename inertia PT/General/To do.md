@@ -3,9 +3,9 @@
 - [x] duschen 
 - [ ] Zähne putzen 
 - [ ] fritz Künkel Kapitel fertig lesen
-- [ ] Bart schneiden 
+- [x] Bart schneiden 
 - [x] Fingernägel 
-- [ ] Nasenhaare 
+- [x] Nasenhaare 
 - [ ] tastatur wischen
 - [x] socken fertig
 - [ ] Socken an der Spitze vernähen 
