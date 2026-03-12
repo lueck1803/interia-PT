@@ -2,6 +2,7 @@
 - [ ] Sport 
 - [x] duschen 
 - [ ] Zähne putzen 
+- [ ] fritz Künkel Kapitel fertig lesen
 - [ ] Bart schneiden 
 - [ ] tastatur wischen
 - [ ] socken fertig
