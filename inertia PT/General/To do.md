@@ -5,6 +5,7 @@
 - [ ] fritz Künkel Kapitel fertig lesen
 - [ ] Augenbrauen rasieren
 - [ ] Laufen gehen
+- [ ] Gesicht waschen 
 - [x] Bart schneiden 
 - [x] Fingernägel 
 - [x] Nasenhaare 
