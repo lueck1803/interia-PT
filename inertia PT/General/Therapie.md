@@ -232,7 +232,25 @@ Der <span style="color:red;font-size:100%;">andere möchte</span> einen nicht nu
 - Diese Schuld hat mich so unruhig gemacht und nahezu dissoziieren lassen.
 - Ich habe mich in jedem Moment runter gemacht und das Gefühl gehabt ich kann es eh nicht machen.
 - ich konnte mich nicht konzentrieren auch nur einen Satz zu schreiben.
-	- dabei habe ich immer w
+	- dabei habe ich immer wieder vergessen was am anfang war
+	- wusste nicht wie ich ihn formulieren sollte
+	- der satz wurde immer länger
+	- mir sind die passenden worte nicht eingefallen
+	- ich habe über gestern und später nach gedacht, ob dieser Satz so überhaupt stimmt
+	- dann etwas gelesen, ob der Inhalt so richtig ist
+	- mich beim lesen verloren
+	- habe mich abgelenkt.
+	- habe angst bekommen und mich runter gemacht
+- habe an meine Schuld und verfehlungen gedacht.
+- konnte nicht schlafen
+- ich habe Ängste gehabt, dass mich arooj ja eh wieder verlassen wird und ich dann auf der Straße landen werde
+- man mich ja eh nicht gebrauchen kann
+- meine Extreme innere Anspannung durch Masturbation versucht herunter zu regulieren.
+	- ⤷ dafür habe ich mich dann wieder schlecht gefühlt und mich vor mir selbst geekelt
+	- ⤷ hatte angst, dass Arooj mich dafür hasst und es wieder streit gibt
+- All die Belastungen und Fehlentscheidungen.
+- Meine Mut- und Energielosigkeit
+- Den Ärger mit Arooj auch schon '23'
 ## Attribution und mich fertig machen
 mit den anderen Nadeln vergleichen Öse und Länge der Nadel ⟹ eventuell Länge abschleifen <br> ⟹hat geklappt <span style="font-size:100%;color:coral;">hab sie dann aber mit dem hammer zerstört als ich beim zweiten mal probiert habe die Öse mit einem Nagel etwas zu vergrößern. Sie ist dadurch gebrochen an der Öse. ich wusste es habe, es aber trotzdem gemacht, konnte es nicht lassen</span> <span style="font-size:100%;color:red;">ist aber nicht schlimm, ich habe daraus etwas gelernt</span> ich hatte dabei das erste Mal wieder das Gefühl "oh mein Gott ich habe etwas falsch gemacht und war kurz davor mich da weiter fertig und runter zu machen siehe PC etc." ⟹ der Fehler war nicht 100% bei mir und achtsam zu sein
 
