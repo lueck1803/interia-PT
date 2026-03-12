@@ -3,6 +3,8 @@
 - [x] duschen 
 - [ ] Zähne putzen 
 - [ ] fritz Künkel Kapitel fertig lesen
+- [ ] Augenbrauen rasieren
+- [ ] Laufen gehen
 - [x] Bart schneiden 
 - [x] Fingernägel 
 - [x] Nasenhaare 
