@@ -4,7 +4,8 @@
 - [ ] Zähne putzen 
 - [ ] fritz Künkel Kapitel fertig lesen
 - [ ] Bart schneiden 
-- [ ] 
+- [x] Fingernägel 
+- [ ] Nasenhaare 
 - [ ] tastatur wischen
 - [ ] socken fertig
 - [ ] Kleidung aufräumen 
