@@ -11,6 +11,7 @@
 - [ ] Küche aufräumen 
 - [ ] staubsaugen 
 - [ ] Wäsche weg
+- [ ] heißluftfriteuse weg
 - [ ] Chiphalter reparieren 
 - [ ] Beltaine hohe Flöte üben 
 - [ ] Matratze drehen
