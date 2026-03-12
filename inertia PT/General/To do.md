@@ -1,8 +1,8 @@
 # unsortiert
 - [ ] Sport 
 - [x] duschen 
-- [ ] Zähne putzen 
-- [ ] fritz Künkel Kapitel fertig lesen
+- [x] Zähne putzen 
+- [x] fritz Künkel Kapitel fertig lesen
 - [x] Augenbrauen rasieren
 - [ ] Laufen gehen
 - [ ] Gesicht waschen 
