@@ -5,11 +5,11 @@
 - [x] fritz Künkel Kapitel fertig lesen
 - [x] Augenbrauen rasieren
 - [ ] Laufen gehen
-- [ ] Gesicht waschen 
+- [x] Gesicht waschen 
 - [x] Bart schneiden 
 - [x] Fingernägel 
 - [x] Nasenhaare 
-- [ ] tastatur wischen
+- [x] tastatur wischen
 - [x] socken fertig
 - [ ] Socken an der Spitze vernähen 
 - [ ] Socken einpacken 
@@ -17,7 +17,7 @@
 - [ ] Spülmaschine 
 - [x] Duolingo 
 - [ ] Küche aufräumen 
-- [ ] staubsaugen 
+- [x] staubsaugen 
 - [ ] Wäsche weg
 - [ ] heißluftfriteuse weg
 - [ ] Chiphalter reparieren 
