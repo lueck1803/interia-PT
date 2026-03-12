@@ -123,7 +123,17 @@ $$
 ## to do
 - [ ] Folien durch gehen und damit den groben fahrplan / struktur machen
 - [ ] Den Weg vom der ursprünglichen Box eval methode zum Box algo beschreiben.
-	- [ ] Erstes paper, warum haben d
+	- [ ] Erstes paper
+		- [ ] warum haben die diesen eingeführt
+		- [ ] was war die Idee 
+		- [ ] was das Vorgehen 
+		- [ ] was ist zu beachten und wichtig
+	- [ ] box-algo
+		- [ ] Warum waren die Veränderungen nötig
+		- [ ] was war die problemstellung bei der ursprünglichen Methode? Also was hat nicht funktioniert?
+		- [ ] Was ist die idee und wie funktioniert er?
+			- [ ] im report schauen
+			- [ ] in den Folien schauen
 - [ ] Damit meine Arbeit beschreiben. strickt anhand der Folien
 - [ ] Probleme des Algorithms beschreiben 
 - [ ] Dann meine Introduction passend dazu schreiben
