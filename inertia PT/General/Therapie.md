@@ -728,7 +728,12 @@ Danke dass du mich blockiert hast und <span style="font-size:100%;color: lawngre
 - Ich habe die Kündigung doch akzeptiert und bin dabei gewesen mit der Situation die letzte Zeit umzugehen. 
 - Ich hatte und habe da viele Schwierigkeiten zu meistern und muss mit meiner Energie haushalten und auch schauen, dass ich nicht abdrifte und es mir schlechter geht. 
 - Das ich meine Ängste reguliere und bei mir bleibe und eben nicht in extreme Angstparalyse, Depression und Selbstmordgedanken rutsche. Ist nicht so einfach. ich bin noch lange nicht gesund. Mir geht es ja schon viel besser. Es bedarf aber viel Achtsamkeit.
-- Ich habe gerade nicht die Kapazitäten mich weiter von dir herunter machen zu lassen. Dass ich nur koste und du in mich Geld und Zeit investiert hast. Das ist absolut nicht der Umgang 
+- Ich habe gerade nicht die Kapazitäten mich weiter von dir herunter machen zu lassen. Dass ich nur koste und du in mich Geld und Zeit investiert hast. Das ist absolut nicht der Umgang der sich hier gehört. Und gibt auch nicht die Tatsachen wieder. Du vergisst sehr sehr gerne deine Anteile an gewissen Situationen und Ereignissen. Dass es nichts hilft dir das zu sagen habe ich verstanden.
+- Ich habe mich doch ruhig verhalten und alles mit mir ausgemacht. 
+- ich habe mich nicht jähzornig oder ähnlich verhalten.
+- ich brauche gerade etwas Distanz und meine Zeit. Insbesondere wenn du dich dann doch wieder so gibst und dann auch noch diese übergriffe dominante Art an den Tag legst. Das muss ich mir gerade nicht geben.
+- Ich habe mich genug entwerten lassen und deinen Launen ausgesetzt. 
+- Was auch die Sachen angeht. Ich hätte dir Mittwoch schon antwo
 ## 25-12-27
 ### Familie
 Hab mal meine Eltern angerufen.
