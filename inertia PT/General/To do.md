@@ -2,6 +2,7 @@
 - [ ] Sport 
 - [ ] vertrag nach Kündigungsfrist durch schauen
 - [ ] was ist die mindst Kündigungsfrist in Deutschland 
+- [ ] AOK Zettel ausfüllen
 - [x] duschen 
 - [x] Zähne putzen 
 - [x] fritz Künkel Kapitel fertig lesen
@@ -18,7 +19,7 @@
 - [x] Kleidung aufräumen 
 - [ ] Spülmaschine 
 - [x] Duolingo 
-- [ ] Küche aufräumen 
+- [x] Küche aufräumen 
 - [x] staubsaugen 
 - [x] Wäsche weg
 - [x] heißluftfriteuse weg
