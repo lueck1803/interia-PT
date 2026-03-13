@@ -495,10 +495,17 @@ Und es hat geklappt 🎆🥳❤️
 	- Wenn Prokrastination im Kern bedeutet unangenehme Gefühle zu vermeiden
 	- Dann sind Menschen die ohnehin stärker mit negativen Emotionen zu kämpfen haben besonders gefährdet. 
 	- Prokrastination korreliert moderat mit Depression, Angst und Stress
-	- Depressionen können dazu führen, dass nichts mehr lohnend wirkt, das Gehirn registriert kaum noch etwas, als erstrebenswertes Ziel. $$\underset{\text{\textcolor{orange}{Motivation sinkt }\downarrow}}{\text{Motivation}}=\frac{\textcolor{green}{Erwartung}\times \overset{\text{\textcolor{orange}{Depression}}}{\textcolor{green}{Wert} \textcolor{red}{ \downarrow}}}{\text{\textcolor{red}{Verzögerung}}}$$
+	- Depressionen können dazu führen, dass nichts mehr lohnend wirkt, das Gehirn registriert kaum noch etwas, als erstrebenswertes Ziel. $$\underset{\text{\textcolor{orange}{Motivation sinkt }\downarrow}}{\text{Motivation}}=\frac{\textcolor{green}{\text{Erwartung}}\times \overset{\text{\textcolor{orange}{Depression}}}{\textcolor{green}{\text{Wert}} \textcolor{red}{ \downarrow}}}{\text{\textcolor{red}{Verzögerung}}}$$
 	- Angst könnte die Erwartung nach unten ziehen. Dein Gehirn prognostiziert, ich werde scheitern, ich bin dem nicht gewachsen. 
 	  $$\underset{\text{\textcolor{orange}{Motivation sinkt }\downarrow}}{\text{Motivation}}=\frac{\overset{\text{\textcolor{orange}{Angst}}}{\text{\textcolor{green}{Erwartung}\textcolor{red}{\downarrow}}}\times {\textcolor{green}{Wert}}}{\text{\textcolor{red}{Verzögerung}}}$$
-	- Der Aversionspfad dominiert sowohl bei Angst  als auch bei Depression
+	- Der Aversionspfad dominiert sowohl bei Angst als auch bei Depression. Das Gehirn bewertet Handlungen häufiger als eine schlechte Investition und wählt Vermeidung stattdessen.
+	- Der Zusammenhang geht in beide Richtungen:
+	  Aversion / negative Emotionen ⇔ Prokrastination
+	- Negative Emotionen erhöhen nicht nur Prokrastination, sondern auch Prokrastination sagt langfristig stärkere negative Emotionen vorraus
+
+> [!NOTE] Zusammenhang geht in beide Richtungen
+> Aversion ⇔ Prokrastination
+
 # Perfektionismus
 
 ## 25-12-22
