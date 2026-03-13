@@ -418,6 +418,7 @@ Und es hat geklappt 🎆🥳❤️
 
 # Prokrastination
 ## [Warum dein Gehirn Prokrastination liebt?](https://youtu.be/hFTxgHzFKqw?is=5vjPjqSLz6xeMs6C)
+- Die eigentliche Aufgabe des Gehirns: <span style="font-size:100%;color: limegreen;">Dein Überleben sichern</span>
 - Prokrastination ist <span style="font-size:100%;color:red;">keine</span> Faulheit, sondern ein emotionales Problem 
 # Perfektionismus
 
