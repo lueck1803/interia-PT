@@ -431,7 +431,7 @@ Und es hat geklappt 🎆🥳❤️
 	- Das ist dein <span style="font-size:100%;color: orange;">Motivationssystem</span>
 > [!NOTE] Temporal Motivation Theory 
 > %% <span style="font-size:105%;color: ;"><b>Motivation</b></span> = <span style="font-size:100%;color: limegreen;">Erwartung</span> ⨉ <span style="font-size:100%;color: limegreen;">Wert</span>  %%
-> $$\text{Motivation}=\frac{\textcolor{green}{Erwartung}\times \textcolor{green}{Wert}}{\text{\textcolor{red}{Impulsiv}}\text{\textcolor{red}{Verzögerung}}}$$
+> $$\text{Motivation}=\frac{\textcolor{green}{Erwartung}\times \textcolor{green}{Wert}}{\text{\textcolor{red}{Impulsivität}}  \times \text{\textcolor{red}{Verzögerung}}}$$
 - ⤷ <span style="font-size:100%;color: Magenta;">Temporal Motivation Theory</span>
 	- ⟹Welche Faktoren bestimmen, wie motiviert wir sind?
 	- Signalisiert eine Handlung, dass sie etwas überlebensrelevantes bringt:
@@ -519,10 +519,15 @@ A-->B-->C-->D-->E-->A
 %% A~~~C %%
 %% A~~~D %%
 ```
-
 > [!NOTE] Zusammenhang geht in beide Richtungen
 > Aversion ⇔ Prokrastination
 
+- Wir müssen noch einen weiter Faktor im Nenner der Gleichung zur temporal motivation theory ergänzen. Der erklärt, warum manche Menschen zu mehr Prokrastination neigen, die <span style="font-size:100%;color: red;">Impulsivität</span> .
+  Wie leicht lässt du dich vom unmittelbaren Reiz umlenken.
+-  $$\text{Motivation}=\frac{\textcolor{green}{Erwartung}\times \textcolor{green}{Wert}}{\text{\textcolor{red}{Impulsivität}}  \times \text{\textcolor{red}{Verzögerung}}}$$
+- Manche Menschen haben ein Nerven System, dass mehr auf das Jetzt ausgerichtet ist. Andere können den unmittelbaren Impulsen leichter widerstehen:
+	1. Höhere Neigung zu negativen Emotionen
+	2. Hö
 # Perfektionismus
 
 ## 25-12-22
