@@ -467,9 +467,14 @@ Und es hat geklappt 🎆🥳❤️
 		- und <span style="font-size:100%;color: red;">Verzögerung</span>
 -  Wenn wir die Temporal Motivation Theory auf Prokrastination anwenden, dann wird klar, warum dein Gehirn sie so sehr liebt.
 	- ⤷ eine schwierige Aufgabe sendet genau die falschen Signale
-	- der **Wert** ist of sehr <span style="font-size:100%;color: red;">abstrakt</span> oder <span style="font-size:100%;color: red;">indirekt</span>
-	- die **Erwartung** <span style="font-size:100%;color: red;">unsicher</span> oder <span style="font-size:100%;color: red;">negativ</span>, weißt nicht wo du anfangen sollst, bist nicht sicher ob du dem gewachsen bist und die Aufgaben erfordern extrem viel Energie
-	- die Verzögerung bis zum Ergebnis ist <span style="font-size:100%;color: red;">riesig</span>
+	- der **<u>Wert</u>** ist of sehr <span style="font-size:100%;color: red;">abstrakt</span> oder <span style="font-size:100%;color: red;">indirekt</span>
+	- die **<u>Erwartung</u>** <span style="font-size:100%;color: red;">unsicher</span> oder <span style="font-size:100%;color: red;">negativ</span>, weißt nicht wo du anfangen sollst, bist nicht sicher ob du dem gewachsen bist und die Aufgaben erfordern extrem viel Energie
+	- die <u>Verzögerung</u> bis zum Ergebnis ist <span style="font-size:100%;color: red;">riesig</span>
+	- ⤷ Hirn bewertet, das ist eine falsche Investition / lohnt sich nicht und sendet Bestrafungssignale aus. 
+	- ⤷ f-MRT Studie ⟹ zwei separate Pfade
+		- Amygdala & Insula ⟹ Wie unangenehm ist die Aufgabe? <span style="font-size:100%;color: red;">Prokrastination</span>
+		- Hippocampus & Caudate ⟹ Wie wertvoll ist das Ergebnis? <span style="font-size:100%;color: limegreen;">Motivation</span>
+	- Negative Gefühle ⟹ Ersatzhandlung
 - Prokrastination ist <span style="font-size:100%;color:red;">keine</span> Faulheit, sondern ein emotionales Problem 
 # Perfektionismus
 
