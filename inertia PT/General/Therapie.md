@@ -515,10 +515,10 @@ E[Gehirn wird <br> pessimistischer 🧠]
 
 A-->B-->C-->D-->E-->A
 
-B~~~E
+%% B~~~E %%
 
-A~~~C
-A~~~D
+%% A~~~C %%
+%% A~~~D %%
 ```
 
 > [!NOTE] Zusammenhang geht in beide Richtungen
