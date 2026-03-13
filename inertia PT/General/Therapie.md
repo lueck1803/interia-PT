@@ -488,7 +488,12 @@ Und es hat geklappt 🎆🥳❤️
 	- Der Kern von Prokrastination ist ein <span style="font-size:100%;color: limegreen;">emotionaler Prozess</span>.
 		- Es ist der Versuch deines Gehirns ein unangenehmes Gefühl los zu werden.
 		- nicht die Aufgabe wird vermieden, <span style="font-size:100%;color: red;">die Gefühle werden vermieden.</span>
-		- primär ein emotionales selbstregulations Problem
+		- primär ein emotionales Selbstregulationsproblem 
+- Warum Prokrastination so universell ist, jeder Mensch kennt es:
+  ⟹Aversion vermeiden ⟹ Belohnung ansteuern ⟹Energie sparen
+- <u>Warum prokrastinieren manche mehr als andere?</u>
+	- Wenn Prokrastination im Kern bedeutet unangenehme Gefühle zu vermeiden
+	- Dann sind Menschen die ohnehin stärker mit negativen Emotionen zu kämpfen haben besonders gefährdet.
 # Perfektionismus
 
 ## 25-12-22
