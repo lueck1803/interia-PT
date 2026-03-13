@@ -720,13 +720,15 @@ Danke dass du mich blockiert hast und <span style="font-size:100%;color: lawngre
 	- im Gespräch mit Leuten bin
 		- oder etwas zu tun habe bei dem ich mich konzentrieren muss
 - dann muss ich am wochende auch nicht verfügbar sein, wo auch immer ich bin und was ich zu tun habe. Ich bin nicht verfügbar.
-- Ich habe momentan mein handy nicht so viel in Benutzung und versuche meine Gesundheit in den Griff zu bekommen.
+- Ich habe momentan mein handy nicht so viel in Benutzung, auch nicht mehr ständig bei mir und gerade da ich versuche meine Gesundheit in den Griff zu bekommen.
 - Mir hier Vorwürfe und dann auf Wohltäter zu machen und mir ein schlechtes Gewissen einreden zu wollen, ist extrem unangebracht.
 - Insbesondere unter den Umständen wie das jetzt hier ablief und welche Behauptungen du gemacht und auch Dinge in Aussicht gestellt hast und meine Positionen dazu nicht mal angehört hast.
 - Selbstverständlich bekommst du den Laptop, den key und das Headset wieder.... Ich muss aber auch nicht springen, wenn es dir gerade passt, insbesondere wenn ich gar nicht kann.
 - Ich verstehe überhaupt nicht, warum du dich jetzt in der Opferrolle empfindest. 
 - Ich habe die Kündigung doch akzeptiert und bin dabei gewesen mit der Situation die letzte Zeit umzugehen. 
-- Ich hatte und habe da viele Schwierigkeiten zu meistern und muss m
+- Ich hatte und habe da viele Schwierigkeiten zu meistern und muss mit meiner Energie haushalten und auch schauen, dass ich nicht abdrifte und es mir schlechter geht. 
+- Das ich meine Ängste reguliere und bei mir bleibe und eben nicht in extreme Angstparalyse, Depression und Selbstmordgedanken rutsche. Ist nicht so einfach. ich bin noch lange nicht gesund. Mir geht es ja schon viel besser. Es bedarf aber viel Achtsamkeit.
+- Ich habe gerade nicht die Kapazitäten mich weiter von dir herunter machen zu lassen. Dass ich nur koste und du in mich Geld und Zeit investiert hast. Das ist absolut nicht der Umgang 
 ## 25-12-27
 ### Familie
 Hab mal meine Eltern angerufen.
