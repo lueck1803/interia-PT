@@ -1,5 +1,7 @@
 # unsortiert
 - [ ] Sport 
+- [ ] vertrag nach Kündigungsfrist durch schauen
+- [ ] was ist die mindst Kündigungsfrist in Deutschland 
 - [x] duschen 
 - [x] Zähne putzen 
 - [x] fritz Künkel Kapitel fertig lesen
