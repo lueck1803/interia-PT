@@ -461,7 +461,15 @@ Und es hat geklappt 🎆🥳❤️
 	- Der dritte Faktor ist die <span style="font-size:100%;color: red;">Verzögerung</span> also wie weit die Belohnung in der Zukunft liegt. 
 		- Unser Belohnungssystem regiert deutlich stärker auf unmittelbare Belohnungen als auf entfernte
 		- Es ist neurobiologisch belegt, dass das Gehirn verliert massiv an Motivation, je weiter die Belohnung in der Zukunft liegt.
-	- Das Gehirn bewertet anhand: von 
+	- Das Gehirn bewertet jede Handlung anhand von:
+		- <span style="font-size:100%;color: limegreen;">Erwartung</span> 
+		- <span style="font-size:100%;color: limegreen;">Wert</span> 
+		- und <span style="font-size:100%;color: red;">Verzögerung</span>
+-  Wenn wir die Temporal Motivation Theory auf Prokrastination anwenden, dann wird klar, warum dein Gehirn sie so sehr liebt.
+	- ⤷ eine schwierige Aufgabe sendet genau die falschen Signale
+	- der **Wert** ist of sehr <span style="font-size:100%;color: red;">abstrakt</span> oder <span style="font-size:100%;color: red;">indirekt</span>
+	- die **Erwartung** <span style="font-size:100%;color: red;">unsicher</span> oder <span style="font-size:100%;color: red;">negativ</span>, weißt nicht wo du anfangen sollst, bist nicht sicher ob du dem gewachsen bist und die Aufgaben erfordern extrem viel Energie
+	- die Verzögerung bis zum Ergebnis ist <span style="font-size:100%;color: red;">riesig</span>
 - Prokrastination ist <span style="font-size:100%;color:red;">keine</span> Faulheit, sondern ein emotionales Problem 
 # Perfektionismus
 
