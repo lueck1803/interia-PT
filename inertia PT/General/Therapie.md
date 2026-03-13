@@ -501,7 +501,9 @@ Und es hat geklappt 🎆🥳❤️
 	- Der Aversionspfad dominiert sowohl bei Angst als auch bei Depression. Das Gehirn bewertet Handlungen häufiger als eine schlechte Investition und wählt Vermeidung stattdessen.
 	- Der Zusammenhang geht in beide Richtungen:
 	  Aversion / negative Emotionen ⇔ Prokrastination
-	- Negative Emotionen erhöhen nicht nur Prokrastination, sondern auch Prokrastination sagt langfristig stärkere negative Emotionen vorraus
+	- Negative Emotionen erhöhen nicht nur Prokrastination, sondern auch Prokrastination sagt langfristig stärkere negative Emotionen voraus
+	- Was paradox ist, denn <span style="font-size:100%;color: red;">kurzfristig</span> fühlt sich Prokrastination erleichternd an.
+	- Prokrastination folgt damit einer Logik die man auch aus der Angstforschung kennt.
 
 > [!NOTE] Zusammenhang geht in beide Richtungen
 > Aversion ⇔ Prokrastination
