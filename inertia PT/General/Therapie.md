@@ -531,8 +531,14 @@ A-->B-->C-->D-->E-->A
 - Beide Faktoren multiplizieren sich gegenseitig:
   je weiter weg die Belohnung und je stärker der Sog des unmittelbaren, je stärker die Impulsivität desto weniger Chancen hat die Aufgabe
 - Impulsivität ist zum Teil 
-	- Genetisch veranlagt: mache Menschen sind von Natur aus impulsiver als andere
-	- Sie wird auch durch die Umwelt geprägt, wer in einem chaotischen Umfeld aufwächst in dem Belohnungen unzuverlässig sind
+	- <span style="font-size:100%;color: dodgerblue;">Genetisch</span> 🧬 veranlagt: mache Menschen sind von Natur aus impulsiver als andere
+	- Sie wird auch durch die <span style="font-size:100%;color: dodgerblue;">Umwelt</span> 🌍geprägt, wer in einem chaotischen Umfeld aufwächst in dem Belohnungen unzuverlässig sind, lernt Belohnungen stärker abzuwerten, je weiter sie in der Zukunft liegen.
+	- Als auch von Moment zu Moment. Ist von der <span style="font-size:100%;color: dodgerblue;">Tagesform</span> 📊 und Zeit 🕑 abhängig. 
+		- Schlafmangel
+		- Stress
+		- Erschöpfung
+- Das Betrifft nicht nur Impulsivität, sondern auch unsere Beziehungsmuster unseren Bindungsstil, wird durch frühe Erfahrungen und unser Umfeld geprägt.
+- 
 # Perfektionismus
 
 ## 25-12-22
