@@ -13,7 +13,7 @@
 - [x] socken fertig
 - [ ] Socken an der Spitze vernähen 
 - [ ] Socken einpacken 
-- [ ] Kleidung aufräumen 
+- [x] Kleidung aufräumen 
 - [ ] Spülmaschine 
 - [x] Duolingo 
 - [ ] Küche aufräumen 
