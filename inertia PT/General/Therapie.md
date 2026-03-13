@@ -423,7 +423,9 @@ Und es hat geklappt 🎆🥳❤️
 	- ⚡Habe ich genug Energie?
 	- ⚠️Droht Gefahr?
 - Dafür macht es <span style="font-size:100%;color: red;">durchgehend Vorhersagen</span>
-	- Dabei ist das oberste Gebot <span style="font-size:100%;color: red;">Energiesparsamkeit</span>
+	- Dabei ist das oberste Gebot <span style="font-size:100%;color: red;">Energiesparsamkeit</span> 
+	- Ein Organismus der verschwenderisch mit Energie umgeht, der überlebt nicht lange
+	- <span style="font-size:100%;color: DodgerBlue;">Lohnt sich diese Handlung?</span> je nachdem wie die Antwort ausfällt, sendet es Belohnungssignale oder Bestrafungssignale aus
 - Prokrastination ist <span style="font-size:100%;color:red;">keine</span> Faulheit, sondern ein emotionales Problem 
 # Perfektionismus
 
