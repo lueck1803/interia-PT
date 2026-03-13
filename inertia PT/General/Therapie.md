@@ -741,7 +741,11 @@ Danke dass du mich blockiert hast und <span style="font-size:100%;color: lawngre
 	- ich hatte mich auch gefragt, warum ich denn nicht die tätigkeit für robert hätte erledigen können. 🤷‍♂️
 	  Aber gut in dir schien da eh etwas zu arbeiten und zu kochen, was ich nicht in Erfahrung bringen konnte.
 	- da war sehr vieles unklar.
-	- meine Entgegnungen auf deine Aussagen
+	- meine Entgegnungen auf deine Aussagen von unserem ersten Gespräch, hast du ja nicht mal wirklich in Betracht gezogen.
+	- mir ist zur situation mit herrn pauer dann auch noch etwas eingefallen, was du hast hinten herunterfallen lassen.
+	- ich habs dann aber auf mich beruhen lassen.
+	- die ganze Erzählung die du mir abgeliefert hast, musste ich auch erstmal verarbeiten und einordnen.
+	- ich hätte gerne auch noch ein paar sachen aufgeräumt und abgeschlossen. wofür mir die erste zeit noch die energie gefehlt hat. ich musste mich ja erstmal um meine situation kümmern und wie es weiter geht. da hatte ich wirklich genug zu tun.
 ## 25-12-27
 ### Familie
 Hab mal meine Eltern angerufen.
