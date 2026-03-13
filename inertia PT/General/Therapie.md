@@ -1,7 +1,7 @@
 
 # Tägliches Mantra
 - Sachlich sein aber heißt : <span style="font-size:100%;color:limegreen;">Der Ichhaftigkeit des anderen niemals dienstbar sein.</span>
-- Prokrastination ist <span style="font-size:100%;color:red;">keine</span> Faulheit, 
+- Prokrastination ist <span style="font-size:100%;color:red;">keine</span> Faulheit, sondern ein emotionales Problem 
 - Fritz Künkel §17 der sinn des Lebens. Wichtigstes Kapitel 
 - **Julia:** Ich kann nur wiedergeben, was ich in Therapien und Büchern gelernt habe:
 	- Dass man, wenn es Richtung Burnout geht, durchaus alles runterfahren sollte. Jede Routine, jeden Reiz, jede Aktivität. Und ganz langsam wieder hochfahren und sich neu ordnen. 
@@ -417,7 +417,8 @@ Und es hat geklappt 🎆🥳❤️
 	- PS has been studied for its potential in improving memory, learning, and concentration. Supplementation with PS has been shown to have no effect in enhancing cognitive performance in the elderly and individuals with cognitive decline
 
 # Prokrastination
-[Warum dein Gehirn Prokrastination liebt?](https://youtu.be/hFTxgHzFKqw?is=5vjPjqSLz6xeMs6C)
+## [Warum dein Gehirn Prokrastination liebt?](https://youtu.be/hFTxgHzFKqw?is=5vjPjqSLz6xeMs6C)
+- Prokrastination ist <span style="font-size:100%;color:red;">keine</span> Faulheit, sondern ein emotionales Problem 
 # Perfektionismus
 
 ## 25-12-22
