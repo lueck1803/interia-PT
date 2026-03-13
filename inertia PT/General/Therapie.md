@@ -691,7 +691,6 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 
 
 # Beziehung
-## 2026-03-13
 
 [Bonelli Inneres Kind, der Narzisst im anderen](https://youtu.be/srNXcvQlDaU?si=5QZNF1Xy4umic2Ur)
 Arooj hat genau das wieder gemacht worüber ich mich ‘24 bzgl des Verhaltens des Vaters als Momo gestorben ist aufgeregt habe. Die Fremdbeschuldigung um von den eigenen Fehlern abzulenken. Mich zum Täter/Narzissten erklären und 0% Schuld bei sich zu sehen, das zeigt den wahren Narzissten. Du hast mich fertig gemacht. Ich war am Ende. Du bist was das angeht 1:1 wie dein Vater. Und da an dieser Stelle bist du einfach böse. Statt das zu erkennen und zu ändern, verkehrst und verdrehst du alles und ich bin der 100% Narzisst, damit du 0% Verantwortung trägst. Wie dein Vater. Und genau darüber habe ich mich '24, als das schmutzige Verhalten deiner Familie wieder geschehen ist und sich wieder das Übel des Verhaltens deiner in die offenbart hat. 
@@ -708,6 +707,21 @@ Danke dass du mich blockiert hast und <span style="font-size:100%;color: lawngre
 [Bonelli: Beziehungsanleitung](https://youtu.be/-z5bdX7DOxQ?si=ULYuX_eM5V5Yu0XX)
 
 [Bonelli: Kopf Herz und Bauch - kurz](https://youtu.be/_8aKhwJzTTM?si=8olx0XTKGQmNcbdZ)
+
+## 26-03-13
+- Ich muss mich nicht rechtfertigen wenn ich nicht ans telefon gehe/gehen kann.
+	- ob mein handy lautlos ist
+	- ob ich gerade auf der Toilette bin
+	- ob ich gerade koche
+	- esse 
+	- die hände schmutzig sind
+	- etwas trage
+	- im straßenverkehr
+	- im Gespräch mit Leuten bin
+		- oder etwas zu tun habe bei dem ich mich konzentrieren muss
+- dann muss ich am wochende auch nicht verfügbar sein, wo auch immer ich bin und was ich zu tun habe. Ich bin nicht verfügbar.
+- Ich habe momentan mein handy nicht so viel in Benutzung und versuche meine Gesundheit in den Griff zu bekommen.
+- Mir hier Vorwürfe zu machen und dann auf Wohltäter zu und mir ein schlechtes Gewissen einreden zu wollen, ist extrem unangebracht
 ## 25-12-27
 ### Familie
 Hab mal meine Eltern angerufen.
