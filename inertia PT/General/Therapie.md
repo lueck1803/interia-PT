@@ -495,7 +495,7 @@ Und es hat geklappt 🎆🥳❤️
 	- Wenn Prokrastination im Kern bedeutet unangenehme Gefühle zu vermeiden
 	- Dann sind Menschen die ohnehin stärker mit negativen Emotionen zu kämpfen haben besonders gefährdet. 
 	- Prokrastination korreliert moderat mit Depression, Angst und Stress
-	- $$\underset{\text{Motivation sinkt }\downarrow}{\text{Motivation}}=\frac{\textcolor{green}{Erwartung}\times \overset{\text{Depression } \downarrow}{\textcolor{green}{Wert}}}{\text{\textcolor{red}{Verzögerung}}}$$
+	- $$\underset{\text{\textcolor{orange}{Motivation sinkt }\downarrow}}{\text{Motivation}}=\frac{\textcolor{green}{Erwartung}\times \overset{\text{\textcolor{orange}{Depression}}}{\textcolor{green}{Wert} \textcolor{red}{ \downarrow}}}{\text{\textcolor{red}{Verzögerung}}}$$
 # Perfektionismus
 
 ## 25-12-22
