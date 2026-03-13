@@ -559,7 +559,18 @@ A-->B-->C-->D-->E-->A
 	- Deshalb zerlege große Projekte in kleine Etappen mit eigenen Fristen 
 	- jeder Zwischenschritt reduziert den Verzögerungsfaktor
 5. Ablenkungsquellen entfernen
-	- das adressiert direkt die Impulsivität, denn die Anziehungskraft des Jetzt ist umso stärker
+	- das adressiert direkt die Impulsivität, denn die Anziehungskraft des Jetzt ist umso stärker je mehr verlockende Alternativen im Jetzt verfügbar sind
+	- je weniger Ablenkungen es in der Umgebung gibt desto weniger muss dein Gehirn überhaupt gegen Impulse ankämpfen
+	- handy in einen anderen Raum und Benachrichtigungen aus
+6. Routinen aufbauen
+	- jeden Tag zur gleichen Zeit am gleichen Ort mit der gleichen Aufgabe anfangen
+	- Routinen reduzieren Impulsivität, weil sie Entscheidungen automatisieren
+	- dein Gehirn muss nicht jedes mal neu bewerten
+		- **Lohnt sich das?** 
+		- Es folgt einfach dem bewerten Muster
+7. Implementation Intentions
+	- Wenn dann Pläne
+	- statt ich sollte morgen daran arbeiten, setzt du dir eine klare Intention
 # Perfektionismus
 
 ## 25-12-22
