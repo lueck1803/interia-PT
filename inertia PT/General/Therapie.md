@@ -474,7 +474,11 @@ Und es hat geklappt 🎆🥳❤️
 	- ⤷ f-MRT Studie ⟹ zwei separate Pfade
 		- Amygdala & Insula ⟹ Wie unangenehm ist die Aufgabe? <span style="font-size:100%;color: red;">Prokrastination</span>
 		- Hippocampus & Caudate ⟹ Wie wertvoll ist das Ergebnis? <span style="font-size:100%;color: limegreen;">Motivation</span>
-	- Negative Gefühle ⟹ Ersatzhandlung
+- Negative Gefühle ⟹ Ersatzhandlung
+	- Prokrastination ⟹ zwei Dinge gleichzeitig
+	- ⤷ Aversionspfad beruhigt sich, das Unbehagen fällt weg ⟹ <span style="font-size:100%;color: red;">Schmerz ↓</span>
+	- ⤷ Ersatzhandlung fühlt sich gut an ⟹<span style="font-size:100%;color: limegreen;">Belohnung ↑</span>
+	- In einer Handlung die doppelte Belohnung
 - Prokrastination ist <span style="font-size:100%;color:red;">keine</span> Faulheit, sondern ein emotionales Problem 
 # Perfektionismus
 
