@@ -443,7 +443,12 @@ Und es hat geklappt 🎆🥳❤️
 		- Wird das klappen?
 		- Bin ich dem gewachsen?
 		- Ist das realistisch?
-	- ⤷ das ist die Erwartung, die Vorhersage des Gehirns, ob die wertvolle Belohnung auch tatsächlich erreicht wird und ob es sich daher lohnt unsere kostbare Energie hier zu investieren.
+	- ⤷ das ist die Erwartung, die Vorhersage des Gehirns, <span style="font-size:100%;color: orange;">ob die wertvolle Belohnung auch tatsächlich erreicht wird und ob es sich daher lohnt unsere kostbare Energie hier zu investieren.</span>
+	- Je mehr beides gegeben ist, ein wertvolles Resultat und die Erwartung, dieses Resultat auch wirklich kommen wird, desto stärker ist das Belohnungssignal, das dein Gehirn sendet.
+
+> [!NOTE] Temporal Motivation Theory 
+> <span style="font-size:105%;color: ;"><b>Motivation</b></span> = <span style="font-size:100%;color: limegreen;">Erwartung</span> ⨉ <span style="font-size:100%;color: limegreen;">Wert</span>
+
 - Prokrastination ist <span style="font-size:100%;color:red;">keine</span> Faulheit, sondern ein emotionales Problem 
 # Perfektionismus
 
