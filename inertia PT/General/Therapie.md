@@ -430,7 +430,7 @@ Und es hat geklappt 🎆🥳❤️
 		- oder ❌ <span style="font-size:100%;color: red;">Bestrafungssignale</span> aus
 	- Das ist dein <span style="font-size:100%;color: orange;">Motivationssystem</span>
 > [!NOTE] Temporal Motivation Theory 
-> <span style="font-size:105%;color: ;"><b>Motivation</b></span> = <span style="font-size:100%;color: limegreen;">Erwartung</span> ⨉ <span style="font-size:100%;color: limegreen;">Wert</span> 
+> %% <span style="font-size:105%;color: ;"><b>Motivation</b></span> = <span style="font-size:100%;color: limegreen;">Erwartung</span> ⨉ <span style="font-size:100%;color: limegreen;">Wert</span>  %%
 > $$\text{Motivation}=\frac{\textcolor{green}{Erwartung}\times \textcolor{green}{Wert}}{\text{\textcolor{red}{Verzögerung}}}$$
 - ⤷ <span style="font-size:100%;color: Magenta;">Temporal Motivation Theory</span>
 	- ⟹Welche Faktoren bestimmen, wie motiviert wir sind?
@@ -458,9 +458,10 @@ Und es hat geklappt 🎆🥳❤️
 			- Stress
 			- Angst
 			- Überforderung
-	- 
-
-
+	- Der dritte Faktor ist die <span style="font-size:100%;color: red;">Verzögerung</span> also wie weit die Belohnung in der Zukunft liegt. 
+		- Unser Belohnungssystem regiert deutlich stärker auf unmittelbare Belohnungen als auf entfernte
+		- Es ist neurobiologisch belegt, dass das Gehirn verliert massiv an Motivation, je weiter die Belohnung in der Zukunft liegt.
+	- Das Gehirn bewertet anhand: von 
 - Prokrastination ist <span style="font-size:100%;color:red;">keine</span> Faulheit, sondern ein emotionales Problem 
 # Perfektionismus
 
