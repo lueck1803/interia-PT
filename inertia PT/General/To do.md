@@ -1,5 +1,6 @@
 # unsortiert
 - [ ] Sport 
+- [ ] Duschen 
 - [ ] vertrag nach Kündigungsfrist durch schauen
 - [ ] was ist die mindst Kündigungsfrist in Deutschland 
 - [ ] AOK Zettel ausfüllen
@@ -17,7 +18,7 @@
 - [ ] Socken an der Spitze vernähen 
 - [ ] Socken einpacken 
 - [x] Kleidung aufräumen 
-- [ ] Spülmaschine 
+- [x] Spülmaschine 
 - [x] Duolingo 
 - [x] Küche aufräumen 
 - [x] staubsaugen 
