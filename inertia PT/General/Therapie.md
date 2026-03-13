@@ -538,7 +538,15 @@ A-->B-->C-->D-->E-->A
 		- Stress
 		- Erschöpfung
 - Das Betrifft nicht nur Impulsivität, sondern auch unsere Beziehungsmuster unseren Bindungsstil, wird durch frühe Erfahrungen und unser Umfeld geprägt.
-- 
+
+### Was können wir tun?
+1. Deinen Körper stärken:
+	1. Schlaf
+	2. Bewegung
+	3. Ernährung
+	⟹ All die Bewertungen deines Gehirns basieren auf dem Energiehaushalt deines Körpers. Je leerer dein Energiehaushalt, desto mehr Aufgaben werden als zu teuer und nicht lohnend bewertet. Dein Körper ist das Fundament auf dem die gesamte Gleichung steht
+2. Anfangen mit absurd kleinen Schritten:
+   Prokrastination ist Vermeidungsverhalten, genau wie bei Angststörungen und mit die wirksamste Intervention gegen Vermeidungsverhalten ist <span style="font-size:100%;color: limegreen;">Exposition</span>
 # Perfektionismus
 
 ## 25-12-22
