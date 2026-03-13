@@ -546,7 +546,12 @@ A-->B-->C-->D-->E-->A
 	3. Ernährung
 	⟹ All die Bewertungen deines Gehirns basieren auf dem Energiehaushalt deines Körpers. Je leerer dein Energiehaushalt, desto mehr Aufgaben werden als zu teuer und nicht lohnend bewertet. Dein Körper ist das Fundament auf dem die gesamte Gleichung steht
 2. Anfangen mit absurd kleinen Schritten:
-   Prokrastination ist Vermeidungsverhalten, genau wie bei Angststörungen und mit die wirksamste Intervention gegen Vermeidungsverhalten ist <span style="font-size:100%;color: limegreen;">Exposition</span>
+	- Prokrastination ist Vermeidungsverhalten, genau wie bei Angststörungen und mit die wirksamste Intervention gegen Vermeidungsverhalten ist <span style="font-size:100%;color: limegreen;">Exposition</span>. Sich dem was man vermeidet in kleinen machbaren Schritten immer mehr auszusetzen.
+	- Was wäre so klein, dass du es machen kannst, ohne gelähmt zu sein?
+	- So den Teufelskreis durchbrechen und dann ganz langsam immer etwas größer werden in deinem Vorhaben, je mehr Erfolgserlebnisse du gesammelt hast.
+3. Dir das Ergebnis konkret vorstellen
+	- Episodic future thinking
+	- 
 # Perfektionismus
 
 ## 25-12-22
