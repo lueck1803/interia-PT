@@ -440,6 +440,10 @@ Und es hat geklappt 🎆🥳❤️
 	- Dann markiert dein Gehirn diese Handlungen als lohnenswert/wertvoll und belohnt dich dafür mich <span style="font-size:100%;color: limegreen;">Motivation</span>, <span style="font-size:100%;color: limegreen;">Vorfreude</span> und <span style="font-size:100%;color: limegreen;">Antrieb</span>
 	- ⤷ nach dem Motto <span style="font-size:100%;color: limegreen;">gute Investition, mach das öfter</span>
 	- Damit sich die Investition aber richtig lohnt, muss nicht nur der Wert von dieser Handlung hoch sein, das Gehirn muss auch eine <span style="font-size:100%;color: limegreen;">positive Prognose</span> haben.
+		- Wird das klappen?
+		- Bin ich dem gewachsen?
+		- Ist das realistisch?
+	- ⤷ das ist die Erwartung, die Vorhersage des Gehirns, ob die wertvolle Belohnung auch tatsächlich erreicht wird und ob es sich daher lohnt unsere kostbare Energie hier zu investieren.
 - Prokrastination ist <span style="font-size:100%;color:red;">keine</span> Faulheit, sondern ein emotionales Problem 
 # Perfektionismus
 
