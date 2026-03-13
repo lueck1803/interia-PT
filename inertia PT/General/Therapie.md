@@ -506,7 +506,7 @@ Und es hat geklappt 🎆🥳❤️
 	- Prokrastination folgt damit einer Logik die man auch aus der Angstforschung kennt.
 ```mermaid
 flowchart TB
-
+%% graph %% LR
 A[Negative <br> Emotionen 😰]
 B[Vermeidung 🏃]
 C[kurzfristige <br> Erleichterung 😌]
