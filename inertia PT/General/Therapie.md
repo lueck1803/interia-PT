@@ -551,7 +551,8 @@ A-->B-->C-->D-->E-->A
 	- So den Teufelskreis durchbrechen und dann ganz langsam immer etwas größer werden in deinem Vorhaben, je mehr Erfolgserlebnisse du gesammelt hast.
 3. Dir das Ergebnis konkret vorstellen
 	- Episodic future thinking
-	- 
+	- Du stellst dir möglichst lebendig und detailliert vor wie es sich anfühlt die Aufgabe abgeschlossen zu haben.
+	- Das reduziert Prokrastination wahrscheinlich, weil die Ergebnis greifbare
 # Perfektionismus
 
 ## 25-12-22
