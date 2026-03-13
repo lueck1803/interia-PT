@@ -525,9 +525,14 @@ A-->B-->C-->D-->E-->A
 - Wir müssen noch einen weiter Faktor im Nenner der Gleichung zur temporal motivation theory ergänzen. Der erklärt, warum manche Menschen zu mehr Prokrastination neigen, die <span style="font-size:100%;color: red;">Impulsivität</span> .
   Wie leicht lässt du dich vom unmittelbaren Reiz umlenken.
 -  $$\text{Motivation}=\frac{\textcolor{green}{Erwartung}\times \textcolor{green}{Wert}}{\text{\textcolor{red}{Impulsivität}}  \times \text{\textcolor{red}{Verzögerung}}}$$
-- Manche Menschen haben ein Nerven System, dass mehr auf das Jetzt ausgerichtet ist. Andere können den unmittelbaren Impulsen leichter widerstehen:
+- Manche Menschen haben ein Nerven System, dass mehr auf das Jetzt ausgerichtet ist. Andere können den unmittelbaren Impulsen leichter widerstehen und sich auf das fernere fokussieren. Menschen mit ADHS fällt genau das besonders schwer.
 	1. Höhere Neigung zu negativen Emotionen
-	2. Hö
+	2. Höhere Neigung zur Impulsivität 
+- Beide Faktoren multiplizieren sich gegenseitig:
+  je weiter weg die Belohnung und je stärker der Sog des unmittelbaren, je stärker die Impulsivität desto weniger Chancen hat die Aufgabe
+- Impulsivität ist zum Teil 
+	- Genetisch veranlagt: mache Menschen sind von Natur aus impulsiver als andere
+	- Sie wird auch durch die Umwelt geprägt, wer in einem chaotischen Umfeld aufwächst in dem Belohnungen unzuverlässig sind
 # Perfektionismus
 
 ## 25-12-22
