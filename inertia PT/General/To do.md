@@ -18,8 +18,8 @@
 - [x] Duolingo 
 - [ ] Küche aufräumen 
 - [x] staubsaugen 
-- [ ] Wäsche weg
-- [ ] heißluftfriteuse weg
+- [x] Wäsche weg
+- [x] heißluftfriteuse weg
 - [ ] Chiphalter reparieren 
 - [ ] Matratze drehen
 - [ ] Tisch aufräumen
@@ -418,6 +418,10 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 	- hat ganz gut geklappt mit der kleinen Akkuflex 
 
 # Nähen, Malen, Basteln und Reparieren 
+- [ ] neue Saiten auf Akustik 
+	- [ ] Griffbrett säubern
+	- [ ] Klinkenanschluss wieder anbringen 
+		- [ ] dafür mutter und u scheibe suchen/besorgen 
 - [x] flipflop reparieren 
 	- ~~runde Scheibe durchbohren~~ ⟹ unnötig 
 	- [x] oberen Teil 
