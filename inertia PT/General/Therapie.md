@@ -550,9 +550,16 @@ A-->B-->C-->D-->E-->A
 	- Was wäre so klein, dass du es machen kannst, ohne gelähmt zu sein?
 	- So den Teufelskreis durchbrechen und dann ganz langsam immer etwas größer werden in deinem Vorhaben, je mehr Erfolgserlebnisse du gesammelt hast.
 3. Dir das Ergebnis konkret vorstellen
-	- Episodic future thinking
-	- Du stellst dir möglichst lebendig und detailliert vor wie es sich anfühlt die Aufgabe abgeschlossen zu haben.
-	- Das reduziert Prokrastination wahrscheinlich, weil die Ergebnis greifbare
+	- <span style="font-size:100%;color: cyan;">Episodic future thinking</span>
+	- Du stellst dir möglichst <span style="font-size:100%;color: limegreen;">lebendig</span> und <span style="font-size:100%;color: limegreen;">detailliert</span> vor wie es sich <span style="font-size:100%;color: limegreen;">anfühlt</span> die Aufgabe <span style="font-size:100%;color: limegreen;">abgeschlossen</span> zu haben.
+	- Das reduziert Prokrastination wahrscheinlich, weil die Ergebnis greifbarer wirkt und die Belohnung psychologisch näher rückt.
+4. Zwischenfristen setzen
+	- eine Deadline in drei Monaten ist für dein Gehirn fast nicht existent.
+	- Aber eine Deadline morgen, da reagiert es.
+	- Deshalb zerlege große Projekte in kleine Etappen mit eigenen Fristen 
+	- jeder Zwischenschritt reduziert den Verzögerungsfaktor
+5. Ablenkungsquellen entfernen
+	- das adressiert direkt die Impulsivität, denn die Anziehungskraft des Jetzt ist umso stärker
 # Perfektionismus
 
 ## 25-12-22
