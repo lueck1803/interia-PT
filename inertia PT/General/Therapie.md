@@ -446,8 +446,18 @@ Und es hat geklappt 🎆🥳❤️
 		- Bin ich dem gewachsen?
 		- Ist das realistisch?
 	- ⤷ das ist die Erwartung, die Vorhersage des Gehirns, <span style="font-size:100%;color: orange;">ob die wertvolle Belohnung auch tatsächlich erreicht wird und ob es sich daher lohnt unsere kostbare Energie hier zu investieren.</span>
-	- Je mehr beides gegeben ist, ein wertvolles Resultat und die Erwartung, dieses Resultat auch wirklich kommen wird, desto stärker ist das Belohnungssignal, das dein Gehirn sendet.
-	- <span style="font-size:100%;color: red;">Kippt</span> aber auch nur einer der beiden <span style="font-size:100%;color: red;">Faktoren</span>, wehrt sich dein Gehirn 
+	- Je mehr beides gegeben ist, ein wertvolles Resultat und die Erwartung, dieses Resultat auch wirklich kommen wird, <span style="font-size:100%;color: limegreen;">desto stärker ist das Belohnungssignal</span>, das dein Gehirn sendet.
+	- <span style="font-size:100%;color: red;">Kippt</span> aber auch nur einer der beiden <span style="font-size:100%;color: red;">Faktoren</span>, <span style="font-size:100%;color: red;">wehrt sich dein Gehirn</span>
+		- Erscheint der <span style="font-size:100%;color: red;">Wert</span> zu niedrig, entzieht es Energie:
+			- Unlust
+			- Desinteresse
+			- Langeweile
+			- Müdigkeit
+		- Ist die <span style="font-size:100%;color: red;">Erwartung</span> pessimistisch, du fühlst dich der Herausforderung nicht gewachsen, mobilisiert dein Körper<span style="font-size:100%;color: orange;"> zwar oft zusätzliche Energie</span>, aber diese Energie <span style="font-size:100%;color: red;">fließt</span> dann nicht in die Aufgabe, sondern <span style="font-size:100%;color: red;">in den Impuls ihr auszuweichen</span>.
+			- Stress
+			- Angst
+			- Überforderung
+	- 
 
 
 - Prokrastination ist <span style="font-size:100%;color:red;">keine</span> Faulheit, sondern ein emotionales Problem 
