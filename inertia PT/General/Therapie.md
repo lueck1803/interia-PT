@@ -570,7 +570,16 @@ A-->B-->C-->D-->E-->A
 		- Es folgt einfach dem bewerten Muster
 7. Implementation Intentions
 	- Wenn dann Pläne
-	- statt ich sollte morgen daran arbeiten, setzt du dir eine klare Intention
+	- statt ich sollte morgen daran arbeiten, setzt du dir eine klare Intention.
+	- Wenn es neun Uhr ist, dann öffne ich das Dokument und schreibe den ersten Absatz
+	- **Warum funktioniert das?** Weil du die Entscheidung vorweg nimmst
+	- Was keine offene Entscheidung mehr ist, bietet weniger offene Angriffspunkte für Impulse.
+8. Emotional stabilisieren
+	- das ist vielleicht der wichtigste Punkt
+	- grundsätzlich dafür sorgen, dass es dir emotional gut geht
+		- Stress reduzieren
+		- Wohlbefinden stärken
+	- Denn wenn Prokrastination ein emotionales Selbstregulationsproblem ist, dann ist die nachhaltigste Lösung für viele ein besserer Umgang mit deinen Emotionen
 # Perfektionismus
 
 ## 25-12-22
