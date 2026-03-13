@@ -505,7 +505,15 @@ Und es hat geklappt 🎆🥳❤️
 	- Was paradox ist, denn <span style="font-size:100%;color: red;">kurzfristig</span> fühlt sich Prokrastination erleichternd an.
 	- Prokrastination folgt damit einer Logik die man auch aus der Angstforschung kennt.
 ```mermaid
-T
+flowchart TB
+
+A[Negative <br> Emotionen 😰]
+B[Vermeidung 🏃]
+C[kurzfristige <br> Erleichterung 😌]
+D[keine <br> korrigierenden <br> Erfahrungen 🚫]
+E[Gehirn wird <br> pessimistischer 🧠]
+
+A-->B-->C-->D-->E-->A
 	
 ```
 
