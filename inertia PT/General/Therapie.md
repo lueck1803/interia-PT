@@ -733,7 +733,15 @@ Danke dass du mich blockiert hast und <span style="font-size:100%;color: lawngre
 - ich habe mich nicht jähzornig oder ähnlich verhalten.
 - ich brauche gerade etwas Distanz und meine Zeit. Insbesondere wenn du dich dann doch wieder so gibst und dann auch noch diese übergriffe dominante Art an den Tag legst. Das muss ich mir gerade nicht geben.
 - Ich habe mich genug entwerten lassen und deinen Launen ausgesetzt. 
-- Was auch die Sachen angeht. Ich hätte dir Mittwoch schon antwo
+- Was auch die Sachen angeht. Ich hätte dir Mittwoch schon antworten können, dass ich am Wochenende nicht kann. Ich habe deshalb erstmal gefragt, worum es denn geht.
+	- laut unserem letzten Gespräch hieß es auch noch, dass du dich wieder meldest, wenn support bedarf im nächsten Monat besteht.
+	- für mich hat sich das erstmal angehört, als ging es nur um eine kurzfristige Sache und wenn wieder bedarf ist, dann kommst du wieder auf mich zu.
+	- das wollte ich am mittwoch/dienstag schreiben, da sich mir die frage aufgetan hat. Ich hatte aber keine Kapazitäten und wusste nicht wie ich es formulieren soll.
+	- es ging auch erstmal um das fehlende Geld.
+	- ich hatte mich auch gefragt, warum ich denn nicht die tätigkeit für robert hätte erledigen können. 🤷‍♂️
+	  Aber gut in dir schien da eh etwas zu arbeiten und zu kochen, was ich nicht in Erfahrung bringen konnte.
+	- da war sehr vieles unklar.
+	- meine Entgegnungen auf deine Aussagen
 ## 25-12-27
 ### Familie
 Hab mal meine Eltern angerufen.
