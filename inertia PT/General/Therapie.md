@@ -480,6 +480,15 @@ Und es hat geklappt 🎆🥳❤️
 	- ⤷ Ersatzhandlung fühlt sich gut an ⟹<span style="font-size:100%;color: limegreen;">Belohnung ↑</span>
 	- In einer Handlung die doppelte Belohnung
 - Prokrastination ist <span style="font-size:100%;color:red;">keine</span> Faulheit, sondern ein emotionales Problem 
+	- Die meisten Leute glauben sie prokrastinieren, weil sie 
+		- zu faul 
+		- zu undiszipliniert sind
+		- oder sich einfach nicht genug zusammen reißen
+	- <span style="font-size:100%;color: orange;">nichts davon trifft den Kern</span>
+	- Der Kern von Prokrastination ist ein <span style="font-size:100%;color: limegreen;">emotionaler Prozess</span>.
+		- Es ist der Versuch deines Gehirns ein unangenehmes Gefühl los zu werden.
+		- nicht die Aufgabe wird vermieden, <span style="font-size:100%;color: red;">die Gefühle werden vermieden.</span>
+		- primär ein emotionales selbstregulations Problem
 # Perfektionismus
 
 ## 25-12-22
