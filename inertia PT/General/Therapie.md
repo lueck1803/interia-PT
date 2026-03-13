@@ -431,7 +431,7 @@ Und es hat geklappt 🎆🥳❤️
 	- Das ist dein <span style="font-size:100%;color: orange;">Motivationssystem</span>
 > [!NOTE] Temporal Motivation Theory 
 > %% <span style="font-size:105%;color: ;"><b>Motivation</b></span> = <span style="font-size:100%;color: limegreen;">Erwartung</span> ⨉ <span style="font-size:100%;color: limegreen;">Wert</span>  %%
-> $$\text{Motivation}=\frac{\textcolor{green}{Erwartung}\times \textcolor{green}{Wert}}{\text{\textcolor{red}{Verzögerung}}}$$
+> $$\text{Motivation}=\frac{\textcolor{green}{Erwartung}\times \textcolor{green}{Wert}}{\text{\textcolor{red}{Impulsiv}}\text{\textcolor{red}{Verzögerung}}}$$
 - ⤷ <span style="font-size:100%;color: Magenta;">Temporal Motivation Theory</span>
 	- ⟹Welche Faktoren bestimmen, wie motiviert wir sind?
 	- Signalisiert eine Handlung, dass sie etwas überlebensrelevantes bringt:
@@ -516,7 +516,6 @@ E[Gehirn wird <br> pessimistischer 🧠]
 A-->B-->C-->D-->E-->A
 
 %% B~~~E %%
-
 %% A~~~C %%
 %% A~~~D %%
 ```
