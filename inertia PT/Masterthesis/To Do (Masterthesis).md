@@ -731,7 +731,7 @@ Critical Exponents aren't independent, the six critical exponents are connected 
 - $\gamma=(2-\eta)\nu$ (Fisher)
 - $2-\alpha=d\nu$ (Josephson)
 ### Hyperscaling relation
-Rushbrook and Josphson ⟹ $2-(2-2\beta-\gamma)=d\nu$ with $d=2$  ⟹ $2\nu= 2\beta+\gamma$ 
+Rushbrooke and Josphson ⟹ $2-(2-2\beta-\gamma)=d\nu$ with $d=2$  ⟹ $2\nu= 2\beta+\gamma$ 
 # Reports
 
 ## Bennos Answer to my report slides 26-01-22
