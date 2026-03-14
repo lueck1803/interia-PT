@@ -1,6 +1,7 @@
 
 # Tägliches Mantra
 - Sachlich sein aber heißt : <span style="font-size:100%;color:limegreen;">Der Ichhaftigkeit des anderen niemals dienstbar sein.</span>
+- <span style="font-size:100%;color: Mediumpurple;">erobere deine größte Angst</span> und du wirst nicht glauben was für Türen für dich aufgehen.
 - Prokrastination ist <span style="font-size:100%;color:red;">keine</span> Faulheit, <span style="font-size:100%;color:dodgerblue;">sondern ein emotionales Problem </span>
 - Fritz Künkel §17 der sinn des Lebens. Wichtigstes Kapitel 
 - **Julia:** Ich kann nur wiedergeben, was ich in Therapien und Büchern gelernt habe:
