@@ -136,7 +136,7 @@ $$
 - [ ] Date of submission
 
 ## to do
-- [ ] liste die paper bzgl. der universality class auf 
+- [ ] liste die paper bzgl. der universality class auf <span style="font-size:100%;color: limegreen;">einiges in Dittrich aufgelistet</span>
 - [ ] Folien durch gehen und damit den groben fahrplan / struktur machen
 - [ ] Den Weg vom der ursprünglichen Box eval methode zum Box algo beschreiben.
 	- [ ] Erstes paper
