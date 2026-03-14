@@ -119,8 +119,16 @@ $$
 ## toc
 - [ ] Motivation / Introduction
 - [ ] basics / Phasetransition
-- [ ] Recent challenges
-- [ ] current papers / researches:
+- [ ] Recent challenges (current papers / researches)
+	- [ ] what are the recent discoveries concerting the universality class
+		- [ ] siebert
+		- [ ] dittrich
+		- [ ] maggi
+		- [ ] Feng
+	- [ ] inertia
+		- [ ] mandal
+		- [ ] hecht
+		- [ ] 
 ## general
 - [ ] gescheiten Titel überlegen ⟹ criticality/universality of underdamped brownian particles non equilibrium 
 - [ ] Unterschrift und Datum ändern
