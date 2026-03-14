@@ -115,6 +115,12 @@ $$
 - [ ] changed that `nbins` is dependend on the width of the simulation box factor `nbins=boxwidth*0.5` before 0.3 derived from 600 bins for 224k particles with width ~ 2000  
 
 # Thesis
+
+## toc
+- [ ] Motivation / Introduction
+- [ ] basics / Phasetransition
+- [ ] Recent challenges
+- [ ] current papers / researches:
 ## general
 - [ ] gescheiten Titel überlegen ⟹ criticality/universality of underdamped brownian particles non equilibrium 
 - [ ] Unterschrift und Datum ändern
