@@ -128,10 +128,11 @@ $$
 	- [ ] inertia
 		- [ ] mandal
 		- [ ] hecht
-		- [ ] 
+		- [ ] Su2021
+		- [ ] Feng2025
 ## general
 - [ ] gescheiten Titel überlegen ⟹ criticality/universality of underdamped brownian particles non equilibrium 
-- [ ] Unterschrift und Datum ändern
+- [x] Unterschrift und Datum ändern
 - [ ] Date of submission
 
 ## to do
