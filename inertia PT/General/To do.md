@@ -1,11 +1,13 @@
 # unsortiert
 - [x] Sport 
 - [ ] tremolo blocken und Gitarre stimmen
+- [ ] mgla anschauen
+- [ ] swamphell lead komplett lernen auch anfang vom solo. perfekt auf 50% spielen
 - [ ] Duschen 
 - [ ] vertrag nach Kündigungsfrist durch schauen
 - [ ] was ist die mindst Kündigungsfrist in Deutschland 
 - [ ] AOK Zettel ausfüllen
-- [ ] Toilette putzen 
+- [x] Toilette putzen 
 - [x] duschen 
 - [x] Zähne putzen 
 - [x] fritz Künkel Kapitel fertig lesen
