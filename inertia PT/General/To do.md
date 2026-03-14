@@ -1,5 +1,6 @@
 # unsortiert
-- [ ] Sport 
+- [x] Sport 
+- [ ] tremolo blocken und Gitarre stimmen
 - [ ] Duschen 
 - [ ] vertrag nach Kündigungsfrist durch schauen
 - [ ] was ist die mindst Kündigungsfrist in Deutschland 
