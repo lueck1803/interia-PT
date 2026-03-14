@@ -136,6 +136,7 @@ $$
 - [ ] Date of submission
 
 ## to do
+- [ ] liste die paper bzgl. der universality class auf 
 - [ ] Folien durch gehen und damit den groben fahrplan / struktur machen
 - [ ] Den Weg vom der ursprünglichen Box eval methode zum Box algo beschreiben.
 	- [ ] Erstes paper
