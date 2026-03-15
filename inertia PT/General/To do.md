@@ -1,9 +1,10 @@
 # unsortiert
 - [x] Sport 
-- [ ] tremolo blocken und Gitarre stimmen
+- [x] tremolo blocken und Gitarre stimmen
+- [ ] floyd rose stimmtutorial
 - [ ] mgla anschauen
 - [ ] swamphell lead komplett lernen auch anfang vom solo. perfekt auf 50% spielen
-- [ ] Duschen 
+- [x] Duschen 
 - [ ] vertrag nach Kündigungsfrist durch schauen
 - [ ] was ist die mindst Kündigungsfrist in Deutschland 
 - [ ] AOK Zettel ausfüllen
