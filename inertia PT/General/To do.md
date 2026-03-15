@@ -2,12 +2,12 @@
 - [x] Sport 
 - [x] tremolo blocken und Gitarre stimmen
 - [ ] floyd rose stimmtutorial
-- [ ] mgla anschauen
-- [ ] swamphell lead komplett lernen auch anfang vom solo. perfekt auf 50% spielen
+- [x] mgla anschauen
+- [x] swamphell lead komplett lernen auch anfang vom solo. perfekt auf 50% spielen
 	- [x] Anfang inklusive erster blast beat
-- [ ] Nudeln weg
-- [ ] Erbsen weg
-- [ ] Äpfel trocknen 
+- [x] Nudeln weg
+- [x] Erbsen weg
+- [x] Äpfel trocknen 
 - [x] Duschen 
 - [ ] vertrag nach Kündigungsfrist durch schauen
 - [ ] was ist die mindst Kündigungsfrist in Deutschland 
