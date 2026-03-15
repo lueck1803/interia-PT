@@ -13,7 +13,56 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
-## 26-03-15 wr
+## 26-03-15 Arthur 
+Ein Beispiel.
+
+Beim Intro sweep habe ich bisher nie das Ende gespielt.
+
+Wusste gar nicht dass es da ein Ende gibt. 
+
+Ich war zu sehr fixiert in hast, verkrampft und im Stress das pattern möglichst schnell zu spielen statt langsam auf jede Bewegung zu achten. 
+
+Jetzt schaue ich mir das aber schön in Ruhe an und dann ist auch der übergang zum nächsten gar kein Problem.
+
+Du hattest letztens bei Countless skies zu Recht angemerkt "ich warte noch auf den kompletten Song".
+
+Ja dazu habe ich es nie geschafft 😅.
+
+Bei quasi keinem Song.
+
+Mir hat die Motivation gefehlt auch Teile zu üben die mich jetzt nicht so angefixt haben.
+
+Dann wohl möglich noch Rhythmen die viel Arbeit machen dass sie in meinen Kopf gehen. 
+
+Für langsam und auf den groove achten hatte ich nie die Muse.
+
+Es muss sich ja direkt so anhören wie im song.
+
+Statt dass ich mich Mal drauf einlasse.
+
+Und sobald dann andere Instrumente an sind. 😵‍💫😵
+
+Irritiert.
+
+Irgendwas anders.
+
+Übergänge...
+
+Ich verstehe mich so langsam besser und bekomme das in den Griff.
+
+Darauf achte ich jetzt und es läuft wunderbar.
+
+Dann verkrampfe ich auch nicht und es tut nix weh.
+
+Und ja das ist mein Problem zu 100%.
+
+Dann sind nur ein paar Kleinigkeiten anders, zb ich bin bei dir und dann fehlt mir diese und jene Orientierung und stellen die kleine Unsicherheiten bringen mich raus.
+
+Daher versuche ich jetzt von vorherein es gar nicht zu Unsicherheiten kommen zu lassen und mich möglichst direkt auf die anderen Instrumente und den Rhythmus einzulassen.
+
+Insbesondere die Übergänge.
+
+Die tatsächlichen Längen der Takte, Wiederholungen und der Reihenfolgen genau anzuschauen und direkt zu üben und nicht hastig Fragmente.
 ## 26-03-04 kayro
 Wenn man sich mit der cpu02 mit ssh cpu02 verbindet und dort die env aufruft und dann `jupyter-lab --no-browser --port=8081` startet, muss man dann `ssh -L 8080:cpu02:8081 192.168.211.2 -N` oder `ssh -L 8080:127.0.0.1:8081 192.168.211.2 -N` aufrufen?
 also local host oder cpu02?
