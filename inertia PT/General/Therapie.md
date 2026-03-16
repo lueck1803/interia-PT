@@ -10,7 +10,8 @@
 	- sie ist dadurch unberechenbar 
 	- auf ihre Familie kann man sich nicht verlassen 
 	- Kinder mit ihr wären aufgrund ihres unberechenbaren Verhaltens und ihrem bestehenden Kontakt mit ihrer Familie unmöglich.
-	- das geht nur wenn sie verlässlich dazu bereit gewesen wäre, so wie das auch die meiste Zeit klar zwischen uns war, die Kinder von ihrer Familie fernhält. Da sie aber immer wieder von ihrer Familie bearbeitet wurde
+	- das geht nur wenn sie verlässlich dazu bereit gewesen wäre, so wie das auch die meiste Zeit klar zwischen uns war, die Kinder von ihrer Familie fernhält. Da sie aber immer wieder von ihrer Familie bearbeitet wurde und sich in die Angelegenheiten hat mit rein ziehen lassen und diese immer wieder Probleme gemacht haben, ist sie nicht verlässlich. Dafür gab es auch '24 wieder genug Beispiele 
+	- ihre Unfähigkeit einen gesunden Gesamtüberblick auf unser Zusammenleben zu haben und nachsichtig zu sein. Sie ging immer in die extreme
 - Fritz Künkel §17 der sinn des Lebens. Wichtigstes Kapitel 
 - **Julia:** Ich kann nur wiedergeben, was ich in Therapien und Büchern gelernt habe:
 	- Dass man, wenn es Richtung Burnout geht, durchaus alles runterfahren sollte. Jede Routine, jeden Reiz, jede Aktivität. Und ganz langsam wieder hochfahren und sich neu ordnen. 
