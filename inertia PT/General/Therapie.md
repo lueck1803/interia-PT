@@ -1888,6 +1888,47 @@ Aber 🤷‍♂️, so bin ich halt, warum sollte ich irgendwie Drumherum reden
 ### 26-03-16
 Bekomme 20mg große Packung. 
 Mit der Option die Kapsel zu öffnen und zu halbieren, um 30mg zu nehmen.
+
+<span style="font-size:100%;color:red;">habe auf das Rezept geschaut</span>
+Mein Arzt hat wohl nen Fehler gemacht.
+
+Oder sich doch umentschieden 🤣.
+
+Ich bekomme jetzt doch ne höhere Dosis 😅
+Die Dosiserhöhung war seine Initiative.
+Und Eigentlich war abgesprochen dass ich weiter 20 mg nehme und mal ne Woche teste eine weitere Kapsel zu öffnen und die Hälfte zusätzlich zu nehmen. 
+
+Als Test. 
+Ich aber standard auf 20 mg bleibe.
+
+Vielleicht dachte er dass ich dann nicht hinkomme, wenn ich dann doch dauerhaft 30 nehme bzw. Nicht hinkomme mit der Zeit wenn ich häufiger 20 mg anbreche. Also halbiere.
+
+Jetzt habe ich mit 30 mg natürlich nen noch größeren Vorrat.
+
+Aber um wieder auf 20 mg zu kommen, muss ich ja jetzt tatsächlich mit der Feinwaage herumhantieren 😅.
+
+Ne Tablette zu dritteln ist schwerer.🤷‍♂️
+
+Das ist auch morgens voll kompliziert 🫣
+
+Ohje ich sehe mich schon wie ein kokser zu werden und morgens ne Line durch die Nase zu ziehen 🤣.
+
+Und eigentlich wollte ich gar keine Dosiserhöhung.
+
+Ich bin eigentlich Recht zu frieden auch wenn ich finde dass es etwas stärker sein könnte.
+
+Wollte das aber erstmal nicht anrühren 🤷‍♂️.
+
+Egal🤣. Irgendwie lustig
+In der Kapsel ist wohl ein pulver.
+
+Man kann die aufschrauben.
+
+Das ist anders als bei den beiden medis davor.
+
+Bei denen waren zwei verschiedene Sorten Kügelchen drin. Die zeitlich versetzt wirken.
+
+Das konnte man daher nicht aufteilen.
 ### älter
 - Elvanse ist etwas sanft. Gerade morgens fehlt mir der Push die Paralyse zu überwinden. Ich denke aber dass das im Prinzip ganz gut ist. Denn körperlich vertrage ich es wirklich sehr gut, auch wenn ich jetzt einige niedergeschlagene, energielose und depressive Momente hatte. Gerade morgens bin erstaunlich müde und tendiere dazu mehrfach wegzudösen, obwohl ich wirklich sehr gut geschlafen habe. Im Vergleich zu vorher. Ich fühle mich wirklich ausgeruht, auch geistig. Bin morgens aber dennoch benebelt und depressiv, auch noch nach 2h nachdem ich das Medikament genommen habe. 🤷 Das mag aber vielleicht auch an den aktuellen Ereignissen liegen die etwas Unordnung in mir hervorgerufen haben.
 - Gestern war ein Traum und auch heute Vertrage ich es super.
