@@ -1,16 +1,20 @@
 # unsortiert
+- [ ] Medikament abholen+ nachfragen wie ich die aufteilen kann
+- [ ] Spülmaschine 
+- [ ] staubsaugen 
+- [ ] Toilette putzen 
+- [ ] Tisch aufräumen
+- [ ] swamphell üben
+- [ ] Teil bzgl weg zur Kästchen methode und von dort zu meiner methode fertig schreiben. Nochmal in report schauen was ich da schon geschrieben habe
 - [x] Sport 
 - [x] tremolo blocken und Gitarre stimmen
-- [ ] Medikament abholen+ nachfragen wie ich die aufteilen kann
 - [ ] floyd rose stimmtutorial
-- [ ] Spülmaschine 
 - [ ] mgla anschauen
 - [x] swamphell lead komplett lernen auch anfang vom solo. perfekt auf 50% spielen
 	- [x] Anfang inklusive erster blast beat
 - [ ] vertrag nach Kündigungsfrist durch schauen
 - [ ] was ist die mindst Kündigungsfrist in Deutschland 
 - [ ] AOK Zettel ausfüllen
-- [ ] Toilette putzen 
 - [x] fritz Künkel Kapitel fertig lesen
 - [ ] Laufen gehen
 - [ ] Fingernägel 
@@ -18,10 +22,8 @@
 - [x] socken fertig
 - [ ] Socken an der Spitze vernähen 
 - [ ] Socken einpacken 
-- [ ] staubsaugen 
 - [ ] Chiphalter reparieren 
 - [ ] Matratze drehen
-- [ ] Tisch aufräumen
 - [ ] Duolingo türkisch screenshots älter als 25-09-30 vom handy löschen
 - [ ] VSS Formular ausfüllen
 	- [x] Versicherungszeiten AOK runterladen
