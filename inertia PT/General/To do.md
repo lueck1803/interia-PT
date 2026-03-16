@@ -4,6 +4,7 @@
 - [ ] staubsaugen 
 - [ ] Toilette putzen 
 - [ ] Tisch aufräumen
+- [ ] Neue Handtücher 
 - [ ] swamphell üben
 - [ ] adhs Ängste Video 
 - [ ] Teil bzgl weg zur Kästchen methode und von dort zu meiner methode fertig schreiben. Nochmal in report schauen was ich da schon geschrieben habe
