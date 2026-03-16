@@ -57,7 +57,6 @@
 - [ ] zip tight knoten lernen 
 - [ ] tesaabroller schärfen
 - [x] Ist geld vom november auf dem konto?
-- [x] 1h coreview 
 - [ ] Konto checken
 	- [x] Gehaltsabrechnung checken und fragen was mit September ist
 	- [x] Gehalt von November ist noch nicht da 25-12-21
