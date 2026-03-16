@@ -1,7 +1,7 @@
 # unsortiert
 - [x] Medikament abholen+ nachfragen wie ich die aufteilen kann
 - [x] Spülmaschine 
-- [ ] staubsaugen 
+- [x] staubsaugen 
 - [ ] Wasser in Gießkannen+Behälter putzen 
 - [x] Toilette putzen 
 - [ ] Tisch aufräumen
