@@ -63,7 +63,6 @@
 		- 25-12-22 geld da
 - [ ] Kühlschrank putzen und abtauen
 - [ ] Zeug vor dem Bad wegräumen 
-- [x] Keyboard von hinten holen 
 
 # tägliches
 ## Wohnbereich 
