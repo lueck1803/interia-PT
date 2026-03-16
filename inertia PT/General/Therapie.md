@@ -6,8 +6,11 @@
 - meine <span style="font-size:100%;color:red;">Ängste</span> sind ganz selbstverständlich und hängen stark mit dem <span style="font-size:100%;color:red;">ADHS</span> zusammen. Sei deshalb <span style="font-size:100%;color: limegreen;">nicht so hart zu dir</span>!
 - ich habe mich gegenüber Arooj immer klar ausgedrückt was meinen Zustand angeht, was unsere Beziehung angeht war ich auch klar. 
 	- ich lag immer vollkommen richtig bzgl meiner Sorge wegen ihrem impulsiven Scheuklappenverhalten, mit dem sie immer alles einreißt
-	- Beispiele habe ich genug, ebenso genauso viele die nicht mich betreffen sondern mit anderen waren. Ich muss
+	- Beispiele habe ich genug, ebenso genauso viele die nicht mich betreffen sondern mit anderen waren. Ich muss diese aber auch nicht mehr auflisten, habe ich viel zu häufig gemacht 
 	- sie ist dadurch unberechenbar 
+	- auf ihre Familie kann man sich nicht verlassen 
+	- Kinder mit ihr wären aufgrund ihres unberechenbaren Verhaltens und ihrem bestehenden Kontakt mit ihrer Familie unmöglich.
+	- das geht nur wenn sie verlässlich dazu bereit gewesen wäre, so wie das auch die meiste Zeit klar zwischen uns war, die Kinder von ihrer Familie fernhält. Da sie aber immer wieder von ihrer Familie bearbeitet wurde
 - Fritz Künkel §17 der sinn des Lebens. Wichtigstes Kapitel 
 - **Julia:** Ich kann nur wiedergeben, was ich in Therapien und Büchern gelernt habe:
 	- Dass man, wenn es Richtung Burnout geht, durchaus alles runterfahren sollte. Jede Routine, jeden Reiz, jede Aktivität. Und ganz langsam wieder hochfahren und sich neu ordnen. 
