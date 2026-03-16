@@ -1,6 +1,13 @@
 
 # Tägliches Mantra
 - Sachlich sein aber heißt : <span style="font-size:100%;color:limegreen;">Der Ichhaftigkeit des anderen niemals dienstbar sein.</span>
+- ich kann ein sehr guter Lehrer und Betreuer sein, 
+	- da ich sehr gut auf die individuellen Persönlichkeiten eingehen kann. 
+	- Ich bin gut darin Perspektiven wechseln 
+	- ich habe ein sehr breites allgemein wissen 
+	- ich habe viel zu geben
+	- ich habe ein breites psychologisches Wissen 
+	- habe selbst sehr viel durchgemacht und damit eine gute Expertise um Leute zu motivieren 
 - <span style="font-size:100%;color: Mediumpurple;">erobere deine größte Angst</span> und du wirst nicht glauben was für Türen für dich aufgehen.
 - Prokrastination ist <span style="font-size:100%;color:red;">keine</span> Faulheit, <span style="font-size:100%;color:dodgerblue;">sondern ein emotionales Problem </span>
 - meine <span style="font-size:100%;color:red;">Ängste</span> sind ganz selbstverständlich und hängen stark mit dem <span style="font-size:100%;color:red;">ADHS</span> zusammen. Sei deshalb <span style="font-size:100%;color: limegreen;">nicht so hart zu dir</span>!
