@@ -1,6 +1,7 @@
 # unsortiert
 - [x] Sport 
 - [x] tremolo blocken und Gitarre stimmen
+- [ ] Medikament abholen+ nachfragen wie ich die aufteilen kann
 - [ ] floyd rose stimmtutorial
 - [ ] Spülmaschine 
 - [ ] mgla anschauen
