@@ -1,12 +1,13 @@
 # unsortiert
-- [ ] Medikament abholen+ nachfragen wie ich die aufteilen kann
-- [ ] Spülmaschine 
+- [x] Medikament abholen+ nachfragen wie ich die aufteilen kann
+- [x] Spülmaschine 
 - [ ] staubsaugen 
-- [ ] Toilette putzen 
+- [ ] Wasser in Gießkannen+Behälter putzen 
+- [x] Toilette putzen 
 - [ ] Tisch aufräumen
 - [ ] Neue Handtücher 
 - [ ] swamphell üben
-- [ ] adhs Ängste Video 
+- [x] adhs Ängste Video 
 - [ ] Teil bzgl weg zur Kästchen methode und von dort zu meiner methode fertig schreiben. Nochmal in report schauen was ich da schon geschrieben habe
 - [x] Sport 
 - [x] tremolo blocken und Gitarre stimmen
