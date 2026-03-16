@@ -3,6 +3,8 @@
 - Sachlich sein aber heißt : <span style="font-size:100%;color:limegreen;">Der Ichhaftigkeit des anderen niemals dienstbar sein.</span>
 - <span style="font-size:100%;color: Mediumpurple;">erobere deine größte Angst</span> und du wirst nicht glauben was für Türen für dich aufgehen.
 - Prokrastination ist <span style="font-size:100%;color:red;">keine</span> Faulheit, <span style="font-size:100%;color:dodgerblue;">sondern ein emotionales Problem </span>
+- meine <span style="font-size:100%;color:red;">Ängste</span> sind ganz selbstverständlich und hängen stark mit dem <span style="font-size:100%;color:red;">ADHS</span> zusammen. Sei deshalb <span style="font-size:100%;color: limegreen;">nicht so hart zu dir</span>!
+- 
 - Fritz Künkel §17 der sinn des Lebens. Wichtigstes Kapitel 
 - **Julia:** Ich kann nur wiedergeben, was ich in Therapien und Büchern gelernt habe:
 	- Dass man, wenn es Richtung Burnout geht, durchaus alles runterfahren sollte. Jede Routine, jeden Reiz, jede Aktivität. Und ganz langsam wieder hochfahren und sich neu ordnen. 
