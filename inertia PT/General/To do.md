@@ -4,6 +4,7 @@
 - [ ] Blätter Physik kopieren 
 - [ ] Stunden eintragen 
 - [ ] maya grobs Persönlichkeitstest 
+- [ ] Kaffeebehälter ausleeren 
 - [x] Spülmaschine 
 - [x] staubsaugen 
 - [x] Wasser in Gießkannen+Behälter putzen 
