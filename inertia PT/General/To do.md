@@ -2,7 +2,7 @@
 - [x] Medikament abholen+ nachfragen wie ich die aufteilen kann
 - [ ] Bericht Englisch 3. 4. Und Physik 
 - [x] Blätter Physik kopieren 
-- [ ] Stunden eintragen 
+- [x] Stunden eintragen 
 - [ ] maya grobs Persönlichkeitstest 
 - [x] Kaffeebehälter ausleeren 
 - [x] Spülmaschine 
