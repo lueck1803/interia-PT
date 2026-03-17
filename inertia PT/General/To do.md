@@ -1,9 +1,9 @@
 # unsortiert
 - [x] Medikament abholen+ nachfragen wie ich die aufteilen kann
-- [ ] Bericht Englisch 3. 4. Und Physik 
+- [x] Bericht Englisch 3. 4. Und Physik 
 - [x] Blätter Physik kopieren 
 - [x] Stunden eintragen 
-- [ ] maya grobs Persönlichkeitstest 
+- [ ] Myers–Briggs Persönlichkeitstest 
 - [x] Kaffeebehälter ausleeren 
 - [x] Spülmaschine 
 - [x] staubsaugen 
