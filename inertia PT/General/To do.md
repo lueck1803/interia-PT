@@ -3,6 +3,7 @@
 - [ ] Bericht Englisch 3. 4. Und Physik 
 - [ ] Blätter Physik kopieren 
 - [ ] Stunden eintragen 
+- [ ] maya grobs Persönlichkeitstest 
 - [x] Spülmaschine 
 - [x] staubsaugen 
 - [x] Wasser in Gießkannen+Behälter putzen 
