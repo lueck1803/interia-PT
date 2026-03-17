@@ -4,6 +4,7 @@
 - [x] Blätter Physik kopieren 
 - [x] Stunden eintragen 
 - [ ] Myers–Briggs Persönlichkeitstest 
+- [ ] Nach der Schule - die integrierte Gesamtschule ist schon ein anderes Kaliber an Herausforderung xD - kam Arthur vorbei und wir haben zusammen Swamphell von Kalmah geprobt, war sehr nett.
 - [x] Kaffeebehälter ausleeren 
 - [x] Spülmaschine 
 - [x] staubsaugen 
