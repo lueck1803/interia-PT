@@ -2,7 +2,7 @@
 - [x] Medikament abholen+ nachfragen wie ich die aufteilen kann
 - [x] Spülmaschine 
 - [x] staubsaugen 
-- [ ] Wasser in Gießkannen+Behälter putzen 
+- [x] Wasser in Gießkannen+Behälter putzen 
 - [x] Toilette putzen 
 - [ ] Tisch aufräumen
 - [x] Neue Handtücher 
