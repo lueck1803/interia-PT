@@ -3,7 +3,16 @@
 - [x] Bericht Englisch 3. 4. Und Physik 
 - [x] Blätter Physik kopieren 
 - [x] Stunden eintragen 
-- [ ] Myers–Briggs Persönlichkeitstest 
+- [x] Myers–Briggs Persönlichkeitstest 
+	- ich hatte mal diesen hier gemacht:
+	  https://www.16personalities.com/de/kostenloser-personlichkeitstest
+	  Der scheint darauf aufzubauen.
+	- Es kam Aktivist, also ENFP heraus
+	- [ ] mal etwas genauer damit beschäftigen, was das bedeutet
+	- [ ] https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator#/media/File:MyersBriggsTypes.svg
+	      lesen
+
+Ich hatte mich aber offenbar nicht so mit den Details beschäftigt, ich nur was da raus kam
 - [ ] Nach der Schule - die integrierte Gesamtschule ist schon ein anderes Kaliber an Herausforderung xD - kam Arthur vorbei und wir haben zusammen Swamphell von Kalmah geprobt, war sehr nett.
 - [x] Kaffeebehälter ausleeren 
 - [x] Spülmaschine 
