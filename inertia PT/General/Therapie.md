@@ -4,6 +4,9 @@
 - Arthur 
 	- <span style="font-size:100%;color:red;">keine zwei Nachrichten auf einmal</span>
 	- Logistik klären und Stimmung
+	- gib mir Raum an der Unterhaltung teilzunehmen 
+	- was ist deine Intention an mich (Arthur)
+		- 
 - ich kann ein sehr guter Lehrer und Betreuer sein, 
 	- da ich sehr gut auf die individuellen Persönlichkeiten eingehen kann. 
 	- Ich bin gut darin Perspektiven wechseln 
