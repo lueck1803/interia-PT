@@ -1,10 +1,10 @@
 # unsortiert
 - [x] Medikament abholen+ nachfragen wie ich die aufteilen kann
 - [ ] Bericht Englisch 3. 4. Und Physik 
-- [ ] Blätter Physik kopieren 
+- [x] Blätter Physik kopieren 
 - [ ] Stunden eintragen 
 - [ ] maya grobs Persönlichkeitstest 
-- [ ] Kaffeebehälter ausleeren 
+- [x] Kaffeebehälter ausleeren 
 - [x] Spülmaschine 
 - [x] staubsaugen 
 - [x] Wasser in Gießkannen+Behälter putzen 
