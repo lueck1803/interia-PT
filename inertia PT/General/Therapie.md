@@ -1,6 +1,9 @@
 
 # Tägliches Mantra
 - Sachlich sein aber heißt : <span style="font-size:100%;color:limegreen;">Der Ichhaftigkeit des anderen niemals dienstbar sein.</span>
+- Arthur 
+	- <span style="font-size:100%;color:red;">keine zwei Nachrichten auf einmal</span>
+	- Logistik klären und Stimmung
 - ich kann ein sehr guter Lehrer und Betreuer sein, 
 	- da ich sehr gut auf die individuellen Persönlichkeiten eingehen kann. 
 	- Ich bin gut darin Perspektiven wechseln 
