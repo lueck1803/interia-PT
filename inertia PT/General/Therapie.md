@@ -368,7 +368,7 @@ Und es hat geklappt 🎆🥳❤️
 - lose confidence in themselves and become self-critical. Although they’re caring individuals, _Fe_ can also make them _too_ ~={pink}concerned with other people’s feelings.=~
 - make decisions **based on other people’s needs and expectations**. 💯
 - catering to other people and seeking their approval ~={red}creates an inner conflict=~ in ENFPs.
-- 
+- They ~={red}can’t stand =~being ~={red}inauthentic=~, yet their shadow _Fe_ ~={orange}pushes them to please others=~.
 # Schlaf
 - kann ich <span style="color:red">mittlerweile</span> ganz <u>gut</u> ⟹ <span style="font-size:150%;color:red;">Naja</span> sei ehrlich! da hast du noch viel Arbeit vor dir
 
