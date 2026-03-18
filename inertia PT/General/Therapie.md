@@ -332,7 +332,15 @@ Und es hat geklappt 🎆🥳❤️
 ### Introverted Feeling (Fi)
 - Thanks to the auxiliary ENFP function, _introverted feeling (Fi)_, they are **authentic people with strong moral values**
 - tend to **trust their feelings and follow their moral beliefs** when making decisions
-- [ ] highly individualistic, and with each decision they make, their goal remains the same—**staying true to themselves**. <span style="font-size:100%;color:red;">hmm</span>
+- highly individualistic, and with each decision they make, their goal remains the same—**staying true to themselves**. <span style="font-size:100%;color:red;">hmm</span> 🤔
+- refine their opinions and make thought-out decisions after exploring all the possibilities. 
+- anything but pushovers: they simply take time to make informed judgments.
+- non-conformist attitude: They prefer marching to the beat of their own drums instead of acting based on their family’s expectations or social norms.
+- Because of their tolerance and focus on authenticity, ENFPs are true **free spirits who avoid putting themselves (and others!) in boxes.**
+### Extraverted Thinking (Te)
+- tertiary ENFP cognitive function, meaning that ENFPs don’t have access to it until they mature, whether by aging or through self-development.
+- Through _Ne_, ENFPs gain dozens of insights and ideas every day. Because of this, ENFPs are often **inspired to try something new**, whether it’s a dish, a business project, or a musical instrument. <span style="font-size:100%;color:red;">ja definitiv</span>
+- 
 # Schlaf
 - kann ich <span style="color:red">mittlerweile</span> ganz <u>gut</u> ⟹ <span style="font-size:150%;color:red;">Naja</span> sei ehrlich! da hast du noch viel Arbeit vor dir
 
