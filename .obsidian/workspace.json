@@ -205,7 +205,8 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -223,9 +224,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d56a71c082afdf1",
+  "active": "b9ff92e87bf0bac7",
   "lastOpenFiles": [
     "inertia PT/Masterthesis/To Do (Masterthesis).md",
+    "conflict-files-obsidian-git.md",
     "inertia PT/Vertretrungslehrer/Rechtliches.md",
     "inertia PT/Vertretrungslehrer",
     "inertia PT/General/To do.md",
@@ -251,7 +253,6 @@
     "inertia PT/Masterthesis/images/Report/Exponent_determination",
     "inertia PT/Masterthesis/images/Report",
     "inertia PT/Masterthesis/images/box-algo/phase_width_filter_outsourcing",
-    "inertia PT/Masterthesis/images/JC/25-12-02",
-    "conflict-files-obsidian-git.md"
+    "inertia PT/Masterthesis/images/JC/25-12-02"
   ]
 }
