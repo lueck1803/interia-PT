@@ -1,12 +1,18 @@
 # unsortiert
 - [x] Medikament abholen+ nachfragen wie ich die aufteilen kann
+- [ ] Maracuja umsetzen
+- [ ] Notizen zu "deine Gedanken lügen" ab 2:05:47
+- [x] Bericht Englisch 3. 4. Und Physik 
+- [x] Blätter Physik kopieren 
+- [x] Stunden eintragen 
+- [x] Kaffeebehälter ausleeren 
 - [x] Spülmaschine 
 - [x] staubsaugen 
-- [ ] Wasser in Gießkannen+Behälter putzen 
+- [x] Wasser in Gießkannen+Behälter putzen 
 - [x] Toilette putzen 
 - [ ] Tisch aufräumen
 - [x] Neue Handtücher 
-- [ ] swamphell üben
+- [ ] ~={purple}swamphell=~ üben
 - [x] adhs Ängste Video 
 - [ ] Teil bzgl weg zur Kästchen methode und von dort zu meiner methode fertig schreiben. Nochmal in report schauen was ich da schon geschrieben habe
 - [x] Sport 

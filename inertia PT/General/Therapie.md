@@ -1,6 +1,11 @@
 
 # Tägliches Mantra
 - Sachlich sein aber heißt : <span style="font-size:100%;color:limegreen;">Der Ichhaftigkeit des anderen niemals dienstbar sein.</span>
+- Arthur 
+	- <span style="font-size:100%;color:red;">keine zwei Nachrichten auf einmal</span>
+	- Logistik klären und Stimmung
+	- gib mir Raum an der Unterhaltung teilzunehmen 
+	- was ist deine Intention an mich (Arthur). Was willst du mit der Nachricht von mir?
 - ich kann ein sehr guter Lehrer und Betreuer sein, 
 	- da ich sehr gut auf die individuellen Persönlichkeiten eingehen kann. 
 	- Ich bin gut darin Perspektiven wechseln 
@@ -298,6 +303,77 @@ Außerdem habe ich daraus wieder etwas gelernt. Über mich, da ich dieses Gefüh
 
 Darüber hinaus habe ich es geschafft die singer nadel die dabei war wieder zurichten und dann mit dem Feuerzeug zu härten.
 Und es hat geklappt 🎆🥳❤️
+
+## Myers–Briggs Persönlichkeitstest
+- ich hatte mal diesen hier gemacht:
+	  https://www.16personalities.com/de/kostenloser-personlichkeitstest
+	  Der scheint darauf aufzubauen.
+	- Es kam Aktivist, also ENFP heraus
+	- [ ] mal etwas genauer damit beschäftigen, was das bedeutet
+	- [ ] https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator#/media/File:MyersBriggsTypes.svg
+	      lesen
+	- Bei dem E am Anfang kann ich mich nicht so entscheiden. Eigentlich habe ich von mir immer das Bild, dass ich I wäre. Aber da habe ich wohl die Realität verleugnen wollen und auch gegen mich gearbeitet.
+	  Da ich ein paar dieser Eigenschaften als “negativ” wahrnehme. Also ich möchte eigentlich nicht im “center of attention” stehen. Vielleicht empfand ich das immer als Makel, egozentrisch, narzisstisch und es wurde mir als Makel angelastet. Ich habe das aber auch nicht mit Absicht getan und tue es heute auch nicht mit Absicht, ärgere mich eher darüber. 
+		- **steht aber auch hier:**
+		- Menschen mit dem Persönlichkeitstyp ENFP (Aktivisten) sind richtige Freigeister – aufgeschlossen, offenherzig und weltoffen. Dank ihrer lebhaften, optimistischen Einstellung zum Leben fallen ENFPs in jeder Menge auf. *Aber obwohl sie der Mittelpunkt jeder Party sein können, geht es ihnen nicht nur darum, sich zu amüsieren. Solche Persönlichkeiten sind sehr tiefgründig und haben ein starkes Verlangen nach sinnvollen, emotionalen Beziehungen zu anderen*.
+	- nach wikipedia wäre ich auch eher J
+	- Ich mag auch keine “fast-paced environment”, das überfordert mich eher. Ist aber auch von der Situation abhängig und ich weiß nicht, ob man ein Festival als eine solche Umgebung bezeichnen kann, denn da ist man eigentlich vom “fast-paced” ausgenommen und kann alles um sich herum fließen lassen und mitschwimmen.
+### Primary **ENFPs** Cognitive functions
+#### <span style="font-size:100%;color:red;">Extraverted Intuition (Ne): </span> trifft zu 💯% zu
+- **abstract thinking** over concrete thinking. It also makes them focus more on the future than the present moment.
+		- see the world as a place filled with boundless opportunities. Besides making them curious and energetic, _Ne_ also pushes ENFPs to explore things **outside of their comfort zones**
+		- **excellent brainstormers** and **natural-born idea generators**: They take great pleasure in bouncing off ideas, daydreaming, and discussing theoretical concepts, even if they have no real-world application.
+		- This ability to think creatively also makes ENFPs open-minded and non-judgmental, as they’re able to see **multiple points of view at once**. They also naturally see the ways in which everything in life is interconnected.
+		- supportive and empathetic
+		- Instead of intuitively feeling other people’s emotions, ENFPs tend to show [cognitive empathy](https://www.inc.com/justin-bariso/there-are-actually-3-types-of-empathy-heres-how-they-differ-and-how-you-can-develop-them-all.html). They take time to hear others out and see things from their perspective.
+			- **Cognitive empathy** is the ability to understand how a person feels and what they might be thinking. Cognitive empathy makes us better communicators, because it helps us relay information in a way that best reaches the other person. 
+			- **Emotional empathy** (also known as affective empathy) is the ability to share the feelings of another person. Some have described it as “your pain in my heart.” This type of empathy helps you build emotional connections with others. 
+			- **Compassionate empathy** (also known as empathic concern) goes beyond simply understanding others and sharing their feelings; it moves us to take action, to help however we can.
+			- würde eher sagen ich hätte **Compassionate empathy**
+#### Introverted Feeling (Fi)
+- Thanks to the auxiliary ENFP function, _introverted feeling (Fi)_, they are **authentic people with strong moral values**
+- tend to **trust their feelings and follow their moral beliefs** when making decisions
+- highly individualistic, and with each decision they make, their goal remains the same—**staying true to themselves**. <span style="font-size:100%;color:red;">hmm</span> 🤔
+- refine their opinions and make thought-out decisions after exploring all the possibilities. 
+- anything but pushovers: they simply take time to make informed judgments.
+- non-conformist attitude: They prefer marching to the beat of their own drums instead of acting based on their family’s expectations or social norms.
+- Because of their tolerance and focus on authenticity, ENFPs are true **free spirits who avoid putting themselves (and others!) in boxes.**
+#### Extraverted Thinking (Te)
+- tertiary ENFP cognitive function, meaning that ENFPs don’t have access to it until they mature, whether by aging or through self-development.
+- Through _Ne_, ENFPs gain dozens of insights and ideas every day. Because of this, ENFPs are often **inspired to try something new**, whether it’s a dish, a business project, or a musical instrument. <span style="font-size:100%;color:red;">ja definitiv</span>
+- Yet, there’s one issue that many ENFPs will relate to: no matter how driven they are, <span style="font-size:100%;color:red;">their plans and dreams don’t always become a reality</span>. In fact, even when they have the resources, some ENFPs leave their ideas unrealized.
+	- The **answer is simple**: <span style="font-size:100%;color:orange;">their minds are always bustling with ideas, and ENFPs are prone to quickly abandoning their plans for something new.</span>
+	- It is for this reason that _Te_, which ~={green}focuses on <b>organization</b>, <b>structure</b>, and <b>efficiency</b>,is crucial for ENFPs.=~ As ENFPs develop their Te, they finally learn to follow through with their plans, leading them to a much happier, more fulfilling life.
+#### Introverted Sensing (Si)
+- ~={cyan}**abstract thinkers with a visionary mindset**=~—they don’t see the world for what it is but instead see what it _could_ be. ~={orange}Den Nebensatz bezweifle ich allerdings!=~
+- _introverted sensing (Si)_, the function ~={red}mostly associated with the past and recalling details=~, is the~={red} inferior=~ ENFP cognitive function. 💯
+- it primarily works in the background, which makes it difficult to spot this cognitive function in ENFPs
+- _Si_ ~={red}limits=~ the possibilities that _Ne_ generates. Essentially, _Si_ helps ENFPs ~={green}realize which options are worth pursuing=~ and which aren’t by allowing them to tap into their past experiences
+- while ENFPs are big-picture thinkers, _Si_ enables them to focus on details, giving them a ~={pink}**perfectionist streak**=~
+	- This is especially prominent when they’re learning something new or working on a project.
+### Shadow ENFP Cognitive Functions
+#### Introverted Intuition (Ni)
+- ~={orange}takes over=~ their primary function, _Ne_, ~={red}under extreme stress.=~
+- open-minded, easy-going individuals. However, when their shadow kicks in, ENFPs can become rather **close-minded**, **skeptical**, and **judgmental**.
+- ~={red}aren’t used to following their intuition=~, as they typically trust their feelings and morals.
+- However, in their shadow, ENFPs ~={red}make false connections between events=~ and get hunches that **aren’t always correct**.
+	- In such states, many ENFPs~={red} struggle with the feeling that something bad is going to happen,=~ which makes them lose their optimistic attitude.
+		- So true!!!
+	- ENFPs often become distrustful of other people. They can also become ~={orange}quite self-righteous,=~ as they **trust their intuition blindly** and ~={yellow}disregard other people’s opinions.=~
+		- hmm kann sein.... 
+	- with an activated shadow often behave similarly to [unhealthy INFJs](https://mypersonality.net/blog/article/unhealthy-infj). That’s because their shadow functions are the same as the primary [INFJ cognitive functions](https://mypersonality.net/blog/article/infj-cognitive-functions), leading them to display many of the unhealthy traits seen in INFJs.
+#### Extraverted Feeling (Fe)
+- independent thinkers who trust their own judgments. However, their second shadow function, _extraverted feeling (Fe)_, ~={orange}can make them **doubt themselves and turn to others for validation**.=~
+-  _Fe_ makes ENFPs insecure about their ability to make decisions. This leads them to adopt a [mob mentality](https://www.webmd.com/mental-health/what-is-a-mob-mentality). This isn’t comfortable for ENFPs, who are naturally used to going against the flow.
+- lose confidence in themselves and become self-critical. Although they’re caring individuals, _Fe_ can also make them _too_ ~={pink}concerned with other people’s feelings.=~
+- make decisions **based on other people’s needs and expectations**. 💯
+- catering to other people and seeking their approval ~={red}creates an inner conflict=~ in ENFPs.
+- They ~={red}can’t stand =~being ~={red}inauthentic=~, yet their shadow _Fe_ ~={orange}pushes them to please others=~.
+- Ultimately, this can lead them to become ~={Gold}disappointed in themselves.=~
+#### Introverted Thinking (Ti)
+- Besides helping ENFPs turn their dreams into reality, ~={Tomato}_Te_=~ also helps them **organize their thoughts and ideas**. To do so, they share them with other people or otherwise express them, as _Te_ is an extraverted function.
+- when ENFPs use their shadow _Ti_, they ~={red}tend to withdraw from other people=~
+- 
 # Schlaf
 - kann ich <span style="color:red">mittlerweile</span> ganz <u>gut</u> ⟹ <span style="font-size:150%;color:red;">Naja</span> sei ehrlich! da hast du noch viel Arbeit vor dir
 

@@ -13,6 +13,16 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+## 26-03-18 Arthur
+je mehr ich das lese, was du mir geschickt hast, desto mehr stimme ich dem bis auf Kleinigkeiten zu und da komme ich dann nach erstem kritischen denken auch dazu, dass das nicht ganz unwahr ist.
+
+ich finde, dass insbesondere die shadow cognitive functions zu treffen.
+
+_independent thinkers who trust their own judgments. However, their second shadow function, extraverted feeling (Fe), can make them doubt themselves and turn to others for validation._
+
+die hast du ja zu genüge mitbekommen
+
+Danke dass du mich darauf nochmal aufmerksam gemacht hast. Als ich den damals gemacht habe, hatte ich nicht so die Energie mich im detail damit zu beschäftigen❤️
 ## 26-03-15 Arthur 
 Ein Beispiel.
 
@@ -636,6 +646,21 @@ on his remote computer. However, he still has to enter two passwords, first, for
 # git
 - Comment in `.gitignore` with # 
 - Ausnahmen mit `!`
+- If you want to ignore whole folder, except some specific files, then write:
+	```
+	MyFolder/*
+	!MyFolder/CoolFile.txt
+	```
+	You can also ignore **folders** like
+	```
+	!src/main/resources/archetype-resources/**/*
+	```
+	you can also ignore **nested folder with patterns** like  
+	
+	```
+	!**/src/test/resources/**/*
+	```
+	
 - wenn Dateien der `.gitignore` hinzugefügt werden, müssen sie auch aus dem chache entfernt werden
   `{git} git rm --cached .obsidian/hotkeys.json`
 - - Wenn dies für alle Unterordner gemacht werden soll, dann:
