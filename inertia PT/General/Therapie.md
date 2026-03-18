@@ -369,6 +369,7 @@ Und es hat geklappt 🎆🥳❤️
 - make decisions **based on other people’s needs and expectations**. 💯
 - catering to other people and seeking their approval ~={red}creates an inner conflict=~ in ENFPs.
 - They ~={red}can’t stand =~being ~={red}inauthentic=~, yet their shadow _Fe_ ~={orange}pushes them to please others=~.
+- Ultimately, this can lead them to become ~={Coral}disappointed in themselves.=~
 # Schlaf
 - kann ich <span style="color:red">mittlerweile</span> ganz <u>gut</u> ⟹ <span style="font-size:150%;color:red;">Naja</span> sei ehrlich! da hast du noch viel Arbeit vor dir
 
