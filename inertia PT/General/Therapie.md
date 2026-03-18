@@ -343,6 +343,9 @@ Und es hat geklappt 🎆🥳❤️
 - Yet, there’s one issue that many ENFPs will relate to: no matter how driven they are, <span style="font-size:100%;color:red;">their plans and dreams don’t always become a reality</span>. In fact, even when they have the resources, some ENFPs leave their ideas unrealized.
 	- The **answer is simple**: <span style="font-size:100%;color:orange;">their minds are always bustling with ideas, and ENFPs are prone to quickly abandoning their plans for something new.</span>
 	- It is for this reason that _Te_, which ~={green}focuses on <b>organization</b>, <b>structure</b>, and <b>efficiency</b>,is crucial for ENFPs.=~ As ENFPs develop their Te, they finally learn to follow through with their plans, leading them to a much happier, more fulfilling life.
+### Introverted Sensing (Si)
+- ~={cyan}**abstract thinkers with a visionary mindset**=~—they don’t see the world for what it is but instead see what it _could_ be. ~={orange}Den Nebensatz bezweifle ich allerdings!=~
+- _introverted sensing (Si)_, the function ~={red}mostly associated with the past and recalling details=~, is the inferior ENFP cognitive function.
 # Schlaf
 - kann ich <span style="color:red">mittlerweile</span> ganz <u>gut</u> ⟹ <span style="font-size:150%;color:red;">Naja</span> sei ehrlich! da hast du noch viel Arbeit vor dir
 
