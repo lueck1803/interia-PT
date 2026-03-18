@@ -12,7 +12,7 @@
 - [x] Toilette putzen 
 - [ ] Tisch aufräumen
 - [x] Neue Handtücher 
-- [ ] swamphell üben
+- [ ] ~={purple}swamphell=~ üben
 - [x] adhs Ängste Video 
 - [ ] Teil bzgl weg zur Kästchen methode und von dort zu meiner methode fertig schreiben. Nochmal in report schauen was ich da schon geschrieben habe
 - [x] Sport 
