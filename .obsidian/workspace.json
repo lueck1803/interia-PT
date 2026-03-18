@@ -176,8 +176,8 @@
             "state": {
               "type": "quiet-outline",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "quiet-outline"
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
             }
           },
           {
@@ -211,12 +211,11 @@
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-history-view"
+              "icon": "history",
+              "title": "History"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -234,7 +233,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "3d56a71c082afdf1",
+  "active": "3f031af91d30bcc3",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "inertia PT/Masterthesis/To Do (Masterthesis).md",
