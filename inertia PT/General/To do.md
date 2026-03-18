@@ -22,6 +22,7 @@
 	- Extraverted Intuition (Ne):
 		- **abstract thinking** over concrete thinking. It also makes them focus more on the future than the present moment.
 		- see the world as a place filled with boundless opportunities. Besides making them curious and energetic, _Ne_ also pushes ENFPs to explore things **outside of their comfort zones**
+		- **excellent brainstormers** and **natural-born idea generators**: They take great pleasure in bouncing off ideas, daydreaming, and discussing theoretical concepts, even if they have no real-world application.
 		- 
 - [x] Kaffeebehälter ausleeren 
 - [x] Spülmaschine 
