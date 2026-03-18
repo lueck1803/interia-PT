@@ -204,9 +204,18 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "9fc684233921c9de",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -224,7 +233,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9ff92e87bf0bac7",
+  "active": "b744bc88e6c68e94",
   "lastOpenFiles": [
     "inertia PT/Masterthesis/To Do (Masterthesis).md",
     "conflict-files-obsidian-git.md",
