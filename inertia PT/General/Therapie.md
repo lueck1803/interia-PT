@@ -367,6 +367,7 @@ Und es hat geklappt 🎆🥳❤️
 -  _Fe_ makes ENFPs insecure about their ability to make decisions. This leads them to adopt a [mob mentality](https://www.webmd.com/mental-health/what-is-a-mob-mentality). This isn’t comfortable for ENFPs, who are naturally used to going against the flow.
 - lose confidence in themselves and become self-critical. Although they’re caring individuals, _Fe_ can also make them _too_ ~={pink}concerned with other people’s feelings.=~
 - make decisions **based on other people’s needs and expectations**. 💯
+- catering to other people and seeking their approval ~={red}creates an inner conflict=~ in ENFPs.
 - 
 # Schlaf
 - kann ich <span style="color:red">mittlerweile</span> ganz <u>gut</u> ⟹ <span style="font-size:150%;color:red;">Naja</span> sei ehrlich! da hast du noch viel Arbeit vor dir
