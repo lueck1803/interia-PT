@@ -303,6 +303,36 @@ Außerdem habe ich daraus wieder etwas gelernt. Über mich, da ich dieses Gefüh
 
 Darüber hinaus habe ich es geschafft die singer nadel die dabei war wieder zurichten und dann mit dem Feuerzeug zu härten.
 Und es hat geklappt 🎆🥳❤️
+
+## Myers–Briggs Persönlichkeitstest 
+- ich hatte mal diesen hier gemacht:
+	  https://www.16personalities.com/de/kostenloser-personlichkeitstest
+	  Der scheint darauf aufzubauen.
+	- Es kam Aktivist, also ENFP heraus
+	- [ ] mal etwas genauer damit beschäftigen, was das bedeutet
+	- [ ] https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator#/media/File:MyersBriggsTypes.svg
+	      lesen
+	- Bei dem E am Anfang kann ich mich nicht so entscheiden. Eigentlich habe ich von mir immer das Bild, dass ich I wäre. Aber da habe ich wohl die Realität verleugnen wollen und auch gegen mich gearbeitet.
+	  Da ich ein paar dieser Eigenschaften als “negativ” wahrnehme. Also ich möchte eigentlich nicht im “center of attention” stehen. Vielleicht empfand ich das immer als Makel, egozentrisch, narzisstisch und es wurde mir als Makel angelastet. Ich habe das aber auch nicht mit Absicht getan und tue es heute auch nicht mit Absicht, ärgere mich eher darüber. 
+		- **steht aber auch hier:**
+		- Menschen mit dem Persönlichkeitstyp ENFP (Aktivisten) sind richtige Freigeister – aufgeschlossen, offenherzig und weltoffen. Dank ihrer lebhaften, optimistischen Einstellung zum Leben fallen ENFPs in jeder Menge auf. *Aber obwohl sie der Mittelpunkt jeder Party sein können, geht es ihnen nicht nur darum, sich zu amüsieren. Solche Persönlichkeiten sind sehr tiefgründig und haben ein starkes Verlangen nach sinnvollen, emotionalen Beziehungen zu anderen*.
+	- nach wikipedia wäre ich auch eher J
+	- Ich mag auch keine “fast-paced environment”, das überfordert mich eher. Ist aber auch von der Situation abhängig und ich weiß nicht, ob man ein Festival als eine solche Umgebung bezeichnen kann, denn da ist man eigentlich vom “fast-paced” ausgenommen und kann alles um sich herum fließen lassen und mitschwimmen.
+### <span style="font-size:100%;color:red;">Extraverted Intuition (Ne): </span> trifft zu 💯% zu
+- **abstract thinking** over concrete thinking. It also makes them focus more on the future than the present moment.
+		- see the world as a place filled with boundless opportunities. Besides making them curious and energetic, _Ne_ also pushes ENFPs to explore things **outside of their comfort zones**
+		- **excellent brainstormers** and **natural-born idea generators**: They take great pleasure in bouncing off ideas, daydreaming, and discussing theoretical concepts, even if they have no real-world application.
+		- This ability to think creatively also makes ENFPs open-minded and non-judgmental, as they’re able to see **multiple points of view at once**. They also naturally see the ways in which everything in life is interconnected.
+		- supportive and empathetic
+		- Instead of intuitively feeling other people’s emotions, ENFPs tend to show [cognitive empathy](https://www.inc.com/justin-bariso/there-are-actually-3-types-of-empathy-heres-how-they-differ-and-how-you-can-develop-them-all.html). They take time to hear others out and see things from their perspective.
+			- **Cognitive empathy** is the ability to understand how a person feels and what they might be thinking. Cognitive empathy makes us better communicators, because it helps us relay information in a way that best reaches the other person. 
+			- **Emotional empathy** (also known as affective empathy) is the ability to share the feelings of another person. Some have described it as “your pain in my heart.” This type of empathy helps you build emotional connections with others. 
+			- **Compassionate empathy** (also known as empathic concern) goes beyond simply understanding others and sharing their feelings; it moves us to take action, to help however we can.
+			- würde eher sagen ich hätte **Compassionate empathy**
+### Introverted Feeling (Fi)
+- Thanks to the auxiliary ENFP function, _introverted feeling (Fi)_, they are **authentic people with strong moral values**
+- tend to **trust their feelings and follow their moral beliefs** when making decisions
+- [ ] highly individualistic, and with each decision they make, their goal remains the same—**staying true to themselves**. <span style="font-size:100%;color:red;">hmm</span>
 # Schlaf
 - kann ich <span style="color:red">mittlerweile</span> ganz <u>gut</u> ⟹ <span style="font-size:150%;color:red;">Naja</span> sei ehrlich! da hast du noch viel Arbeit vor dir
 
