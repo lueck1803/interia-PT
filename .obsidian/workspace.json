@@ -211,7 +211,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -229,7 +229,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "829e0f549c936301",
+  "active": "b9ff92e87bf0bac7",
   "lastOpenFiles": [
     "inertia PT/General/Therapie.md",
     "inertia PT/General/Notes.md",
