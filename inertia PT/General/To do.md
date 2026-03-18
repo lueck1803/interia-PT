@@ -1,8 +1,8 @@
 # unsortiert
 - [x] Medikament abholen+ nachfragen wie ich die aufteilen kann
 - [ ] Maracuja umsetzen
-- [ ] Notizen zu "deine Gedanken lügen" ab 2:05:47
-- [ ] ~={purple}Test=~
+- [ ] Notizen zu "deine ~={DeepSkyBlue}~={MediumSpringGreen}Gedanken=~=~ lügen" ab 2:05:47
+- [ ] ~={green}Test=~
 - [x] Bericht Englisch 3. 4. Und Physik 
 - [x] Blätter Physik kopieren 
 - [x] Stunden eintragen 
