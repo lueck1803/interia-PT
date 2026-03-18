@@ -15,6 +15,9 @@
 	      lesen
 	- Bei dem E am Anfang kann ich mich nicht so entscheiden. Eigentlich habe ich von mir immer das Bild, dass ich I wäre. Aber da habe ich wohl die Realität verleugnen wollen und auch gegen mich gearbeitet.
 	  Da ich ein paar dieser Eigenschaften als “negativ” wahrnehme. Also ich möchte eigentlich nicht im “center of attention” stehen. Vielleicht empfand ich das immer als Makel, egozentrisch, narzisstisch und es wurde mir als Makel angelastet. Ich habe das aber auch nicht mit Absicht getan und tue es heute auch nicht mit Absicht, ärgere mich eher darüber. 
+		- **steht aber auch hier:**
+		- Menschen mit dem Persönlichkeitstyp ENFP (Aktivisten) sind richtige Freigeister – aufgeschlossen, offenherzig und weltoffen. Dank ihrer lebhaften, optimistischen Einstellung zum Leben fallen ENFPs in jeder Menge auf. *Aber obwohl sie der Mittelpunkt jeder Party sein können, geht es ihnen nicht nur darum, sich zu amüsieren. Solche Persönlichkeiten sind sehr tiefgründig und haben ein starkes Verlangen nach sinnvollen, emotionalen Beziehungen zu anderen*.
+	- nach wikipedia wäre ich auch eher J
 	- Ich mag auch keine “fast-paced environment”, das überfordert mich eher. Ist aber auch von der Situation abhängig und ich weiß nicht, ob man ein Festival als eine solche Umgebung bezeichnen kann, denn da ist man eigentlich vom “fast-paced” ausgenommen und kann alles um sich herum fließen lassen und mitschwimmen.
 	- Extraverted Intuition (Ne):
 		- **abstract thinking** over concrete thinking. It also makes them focus more on the future than the present moment.
