@@ -19,11 +19,13 @@
 		- Menschen mit dem Persönlichkeitstyp ENFP (Aktivisten) sind richtige Freigeister – aufgeschlossen, offenherzig und weltoffen. Dank ihrer lebhaften, optimistischen Einstellung zum Leben fallen ENFPs in jeder Menge auf. *Aber obwohl sie der Mittelpunkt jeder Party sein können, geht es ihnen nicht nur darum, sich zu amüsieren. Solche Persönlichkeiten sind sehr tiefgründig und haben ein starkes Verlangen nach sinnvollen, emotionalen Beziehungen zu anderen*.
 	- nach wikipedia wäre ich auch eher J
 	- Ich mag auch keine “fast-paced environment”, das überfordert mich eher. Ist aber auch von der Situation abhängig und ich weiß nicht, ob man ein Festival als eine solche Umgebung bezeichnen kann, denn da ist man eigentlich vom “fast-paced” ausgenommen und kann alles um sich herum fließen lassen und mitschwimmen.
-	- Extraverted Intuition (Ne):
+	- <span style="font-size:100%;color:red;">Extraverted Intuition (Ne): </span> trifft zu 💯% zu
 		- **abstract thinking** over concrete thinking. It also makes them focus more on the future than the present moment.
 		- see the world as a place filled with boundless opportunities. Besides making them curious and energetic, _Ne_ also pushes ENFPs to explore things **outside of their comfort zones**
 		- **excellent brainstormers** and **natural-born idea generators**: They take great pleasure in bouncing off ideas, daydreaming, and discussing theoretical concepts, even if they have no real-world application.
-		- 
+		- This ability to think creatively also makes ENFPs open-minded and non-judgmental, as they’re able to see **multiple points of view at once**. They also naturally see the ways in which everything in life is interconnected.
+		- supportive and empathetic
+		- Instead of intuitively feeling other people’s emotions, ENFPs tend to show [cognitive empathy](https://www.inc.com/justin-bariso/there-are-actually-3-types-of-empathy-heres-how-they-differ-and-how-you-can-develop-them-all.html). They take time to hear others out and see things from their perspective.
 - [x] Kaffeebehälter ausleeren 
 - [x] Spülmaschine 
 - [x] staubsaugen 
