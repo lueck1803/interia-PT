@@ -355,7 +355,12 @@ Und es hat geklappt 🎆🥳❤️
 #### Introverted Intuition (Ni)
 - ~={orange}takes over=~ their primary function, _Ne_, ~={red}under extreme stress.=~
 - open-minded, easy-going individuals. However, when their shadow kicks in, ENFPs can become rather **close-minded**, **skeptical**, and **judgmental**.
-- 
+- ~={red}aren’t used to following their intuition=~, as they typically trust their feelings and morals.
+- However, in their shadow, ENFPs ~={red}make false connections between events=~ and get hunches that **aren’t always correct**.
+	- In such states, many ENFPs~={red} struggle with the feeling that something bad is going to happen,=~ which makes them lose their optimistic attitude.
+		- So true!!!
+	- ENFPs often become distrustful of other people. They can also become quite self-righteous, as they **trust their intuition blindly** and disregard other people’s opinions.
+		- hmm kann sein.... 
 # Schlaf
 - kann ich <span style="color:red">mittlerweile</span> ganz <u>gut</u> ⟹ <span style="font-size:150%;color:red;">Naja</span> sei ehrlich! da hast du noch viel Arbeit vor dir
 
