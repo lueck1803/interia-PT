@@ -381,7 +381,43 @@ Und es hat geklappt 🎆🥳❤️
 -  _Ti_ simply tricks ENFPs into believing that they can only pull through by being rational, logical, and factual—the third shadow function is called “the trickster” for a reason!
 #### Extraverted Sensing (Se)
 - **~={DeepSkyBlue}somewhat absent-minded=~**. Most of the time, they’re in their heads, brainstorming new ideas or dreaming of traveling the world.
-- 
+- This isn’t just because _Ne_ is their primary function. _Extraverted sensing (Se)_, which is responsible for being in tune with the external world, is their least developed function. Because of this, ENFPs tend to ~={MediumSpringGreen}not be very grounded in reality.=~
+- This isn’t just because _Ne_ is their primary function. _Extraverted sensing (Se)_, which is responsible for being in tune with the external world, is their least developed function. Because of this, ENFPs tend to not be very grounded in reality.
+- ENFPs **don’t typically indulge in overeating or laziness**. Instead, they can become reckless, make hasty decisions, and participate in dangerous activities, such as reckless driving, just to get their blood pumping. ~={green}eher weniger=~
+### Personality Traits of a Healthy ENFP
+The **signature ENFP personality traits** include:
+
+- **Open-mindedness.** ENFPs are anything but judgemental. They embrace [differences](https://mypersonality.net/blog/article/enfp-a-enfp-t) between people and are open to hearing different opinions.
+- **Creativity.** ENFPs have very active and creative minds. Their heads are full of original ideas, and they tend to think outside of the box.
+- **Talkativeness.** ENFPs are very communicative and find inspiration in meeting new people and exchanging ideas.
+- **Future-oriented mindset.** ENFPs are dreamers—they enjoy fantasizing about the future. It’s simply not in the ENFP’s nature to dwell on the past.
+- **Spontaneous attitude.** Instead of planning, ENFPs prefer to just let things happen.
+
+### ENFPs as Friends
+
+If you’re looking to build a long-lasting friendship with an ENFP, here’s exactly how to do it:
+
+- Openly share your ideas and ideas—ENFPs love dreaming with their friends.
+- Introduce them to your hobbies, interests, and passions.
+- Try to maintain a balance between light-hearted and deep, meaningful conversations.
+- Take care of their needs, as ENFPs are very generous but can become upset if their generosity isn’t reciprocated.
+
+### ENFPs as Parents
+Growing up with an ENFP parent (or two)? Here’s how to maintain a strong child-parent bond regardless of your age:
+
+- Be open with them—instead of judging you for your actions or decisions, they’ll appreciate your honesty.
+- If you need more consistency, boundaries, or a more structured routine, ask for it.
+- Spend time doing something creative or discussing ideas to create a stronger bond.
+- Show initiative to share your day-to-day life experiences—while ENFP parents value your independence, they still want to be involved in your life.
+
+### ENFPs in Relationships
+
+If an ENFP has caught your interest, here’s how to make a relationship with them work:
+
+- Give them space, as ENFPs need freedom and can’t stand being controlled
+- Keep your relationship fresh by planning exciting dates rather than staying in every weekend.
+- Help them deal with daily responsibilities such as paying bills, doing laundry, etc. instead of expecting them to be more practical.
+- Include them in your future plans and let them contribute with their ideas.
 
 # Schlaf
 - kann ich <span style="color:red">mittlerweile</span> ganz <u>gut</u> ⟹ <span style="font-size:150%;color:red;">Naja</span> sei ehrlich! da hast du noch viel Arbeit vor dir
