@@ -375,7 +375,14 @@ Und es hat geklappt 🎆🥳❤️
 - when ENFPs use their shadow _Ti_, they ~={red}tend to withdraw from other people=~.
    Instead, they turn inwards in an attempt to organize their thoughts. This often leads them~={Tomato} to sink into self-isolation=~ and become overly focused on facts.
 -  may also~={orange} act =~completely ~={Gold}out of character=~ with those around them. They ~={pink}can become **cold**, **calculated**, and **reserved**.=~
+- can become much harsher in their communication.
+- ENFPs who are deep in their _Ti_ can even insult other people and justify this by claiming that they’re just “spitting facts.”
+- they likely don’t mean anything bad.
+-  _Ti_ simply tricks ENFPs into believing that they can only pull through by being rational, logical, and factual—the third shadow function is called “the trickster” for a reason!
+#### Extraverted Sensing (Se)
+- **~={DeepSkyBlue}somewhat absent-minded=~**. Most of the time, they’re in their heads, brainstorming new ideas or dreaming of traveling the world.
 - 
+
 # Schlaf
 - kann ich <span style="color:red">mittlerweile</span> ganz <u>gut</u> ⟹ <span style="font-size:150%;color:red;">Naja</span> sei ehrlich! da hast du noch viel Arbeit vor dir
 
