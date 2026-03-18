@@ -372,7 +372,8 @@ Und es hat geklappt 🎆🥳❤️
 - Ultimately, this can lead them to become ~={Gold}disappointed in themselves.=~
 #### Introverted Thinking (Ti)
 - Besides helping ENFPs turn their dreams into reality, ~={Tomato}_Te_=~ also helps them **organize their thoughts and ideas**. To do so, they share them with other people or otherwise express them, as _Te_ is an extraverted function.
-- when ENFPs use their shadow _Ti_, they ~={red}tend to withdraw from other people=~
+- when ENFPs use their shadow _Ti_, they ~={red}tend to withdraw from other people=~.
+   Instead, they turn inwards in an attempt to organize their thoughts. This often leads them to sink into self-isolation and become overly focused on facts.
 - 
 # Schlaf
 - kann ich <span style="color:red">mittlerweile</span> ganz <u>gut</u> ⟹ <span style="font-size:150%;color:red;">Naja</span> sei ehrlich! da hast du noch viel Arbeit vor dir
