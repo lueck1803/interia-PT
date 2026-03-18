@@ -304,7 +304,7 @@ Außerdem habe ich daraus wieder etwas gelernt. Über mich, da ich dieses Gefüh
 Darüber hinaus habe ich es geschafft die singer nadel die dabei war wieder zurichten und dann mit dem Feuerzeug zu härten.
 Und es hat geklappt 🎆🥳❤️
 
-## Myers–Briggs Persönlichkeitstest 
+## Myers–Briggs Persönlichkeitstest
 - ich hatte mal diesen hier gemacht:
 	  https://www.16personalities.com/de/kostenloser-personlichkeitstest
 	  Der scheint darauf aufzubauen.
@@ -318,7 +318,8 @@ Und es hat geklappt 🎆🥳❤️
 		- Menschen mit dem Persönlichkeitstyp ENFP (Aktivisten) sind richtige Freigeister – aufgeschlossen, offenherzig und weltoffen. Dank ihrer lebhaften, optimistischen Einstellung zum Leben fallen ENFPs in jeder Menge auf. *Aber obwohl sie der Mittelpunkt jeder Party sein können, geht es ihnen nicht nur darum, sich zu amüsieren. Solche Persönlichkeiten sind sehr tiefgründig und haben ein starkes Verlangen nach sinnvollen, emotionalen Beziehungen zu anderen*.
 	- nach wikipedia wäre ich auch eher J
 	- Ich mag auch keine “fast-paced environment”, das überfordert mich eher. Ist aber auch von der Situation abhängig und ich weiß nicht, ob man ein Festival als eine solche Umgebung bezeichnen kann, denn da ist man eigentlich vom “fast-paced” ausgenommen und kann alles um sich herum fließen lassen und mitschwimmen.
-### <span style="font-size:100%;color:red;">Extraverted Intuition (Ne): </span> trifft zu 💯% zu
+### Primary **ENFPs** Cognitive functions
+#### <span style="font-size:100%;color:red;">Extraverted Intuition (Ne): </span> trifft zu 💯% zu
 - **abstract thinking** over concrete thinking. It also makes them focus more on the future than the present moment.
 		- see the world as a place filled with boundless opportunities. Besides making them curious and energetic, _Ne_ also pushes ENFPs to explore things **outside of their comfort zones**
 		- **excellent brainstormers** and **natural-born idea generators**: They take great pleasure in bouncing off ideas, daydreaming, and discussing theoretical concepts, even if they have no real-world application.
@@ -329,7 +330,7 @@ Und es hat geklappt 🎆🥳❤️
 			- **Emotional empathy** (also known as affective empathy) is the ability to share the feelings of another person. Some have described it as “your pain in my heart.” This type of empathy helps you build emotional connections with others. 
 			- **Compassionate empathy** (also known as empathic concern) goes beyond simply understanding others and sharing their feelings; it moves us to take action, to help however we can.
 			- würde eher sagen ich hätte **Compassionate empathy**
-### Introverted Feeling (Fi)
+#### Introverted Feeling (Fi)
 - Thanks to the auxiliary ENFP function, _introverted feeling (Fi)_, they are **authentic people with strong moral values**
 - tend to **trust their feelings and follow their moral beliefs** when making decisions
 - highly individualistic, and with each decision they make, their goal remains the same—**staying true to themselves**. <span style="font-size:100%;color:red;">hmm</span> 🤔
@@ -337,20 +338,24 @@ Und es hat geklappt 🎆🥳❤️
 - anything but pushovers: they simply take time to make informed judgments.
 - non-conformist attitude: They prefer marching to the beat of their own drums instead of acting based on their family’s expectations or social norms.
 - Because of their tolerance and focus on authenticity, ENFPs are true **free spirits who avoid putting themselves (and others!) in boxes.**
-### Extraverted Thinking (Te)
+#### Extraverted Thinking (Te)
 - tertiary ENFP cognitive function, meaning that ENFPs don’t have access to it until they mature, whether by aging or through self-development.
 - Through _Ne_, ENFPs gain dozens of insights and ideas every day. Because of this, ENFPs are often **inspired to try something new**, whether it’s a dish, a business project, or a musical instrument. <span style="font-size:100%;color:red;">ja definitiv</span>
 - Yet, there’s one issue that many ENFPs will relate to: no matter how driven they are, <span style="font-size:100%;color:red;">their plans and dreams don’t always become a reality</span>. In fact, even when they have the resources, some ENFPs leave their ideas unrealized.
 	- The **answer is simple**: <span style="font-size:100%;color:orange;">their minds are always bustling with ideas, and ENFPs are prone to quickly abandoning their plans for something new.</span>
 	- It is for this reason that _Te_, which ~={green}focuses on <b>organization</b>, <b>structure</b>, and <b>efficiency</b>,is crucial for ENFPs.=~ As ENFPs develop their Te, they finally learn to follow through with their plans, leading them to a much happier, more fulfilling life.
-### Introverted Sensing (Si)
+#### Introverted Sensing (Si)
 - ~={cyan}**abstract thinkers with a visionary mindset**=~—they don’t see the world for what it is but instead see what it _could_ be. ~={orange}Den Nebensatz bezweifle ich allerdings!=~
 - _introverted sensing (Si)_, the function ~={red}mostly associated with the past and recalling details=~, is the~={red} inferior=~ ENFP cognitive function. 💯
 - it primarily works in the background, which makes it difficult to spot this cognitive function in ENFPs
 - _Si_ ~={red}limits=~ the possibilities that _Ne_ generates. Essentially, _Si_ helps ENFPs ~={green}realize which options are worth pursuing=~ and which aren’t by allowing them to tap into their past experiences
 - while ENFPs are big-picture thinkers, _Si_ enables them to focus on details, giving them a ~={pink}**perfectionist streak**=~
 	- This is especially prominent when they’re learning something new or working on a project.
-	- 
+### Shadow ENFP Cognitive Functions
+#### Introverted Intuition (Ni)
+- ~={orange}takes over=~ their primary function, _Ne_, ~={red}under extreme stress.=~
+- open-minded, easy-going individuals. However, when their shadow kicks in, ENFPs can become rather **close-minded**, **skeptical**, and **judgmental**.
+- 
 # Schlaf
 - kann ich <span style="color:red">mittlerweile</span> ganz <u>gut</u> ⟹ <span style="font-size:150%;color:red;">Naja</span> sei ehrlich! da hast du noch viel Arbeit vor dir
 
