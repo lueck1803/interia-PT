@@ -363,7 +363,11 @@ Und es hat geklappt 🎆🥳❤️
 		- hmm kann sein.... 
 	- with an activated shadow often behave similarly to [unhealthy INFJs](https://mypersonality.net/blog/article/unhealthy-infj). That’s because their shadow functions are the same as the primary [INFJ cognitive functions](https://mypersonality.net/blog/article/infj-cognitive-functions), leading them to display many of the unhealthy traits seen in INFJs.
 #### Extraverted Feeling (Fe)
-- independent thinkers who trust their own judgments. However, their second shadow function, _extraverted feeling (Fe)_, can make them **doubt themselves and turn to others for validation**.
+- independent thinkers who trust their own judgments. However, their second shadow function, _extraverted feeling (Fe)_, ~={orange}can make them **doubt themselves and turn to others for validation**.=~
+-  _Fe_ makes ENFPs insecure about their ability to make decisions. This leads them to adopt a [mob mentality](https://www.webmd.com/mental-health/what-is-a-mob-mentality). This isn’t comfortable for ENFPs, who are naturally used to going against the flow.
+- lose confidence in themselves and become self-critical. Although they’re caring individuals, _Fe_ can also make them _too_ ~={pink}concerned with other people’s feelings.=~
+- make decisions **based on other people’s needs and expectations**. 
+- 
 # Schlaf
 - kann ich <span style="color:red">mittlerweile</span> ganz <u>gut</u> ⟹ <span style="font-size:150%;color:red;">Naja</span> sei ehrlich! da hast du noch viel Arbeit vor dir
 
