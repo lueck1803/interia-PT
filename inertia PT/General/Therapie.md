@@ -419,6 +419,13 @@ If an ENFP has caught your interest, here’s how to make a relationship with th
 - Help them deal with daily responsibilities such as paying bills, doing laundry, etc. instead of expecting them to be more practical.
 - Include them in your future plans and let them contribute with their ideas.
 
+### Key Takeaways
+Hopefully, by now you have a better understanding of _why_ ENFPs are the **spontaneous**, **carefree dreamers** that they are.
+
+Even more, with the help of ENFP cognitive functions, we can learn to **understand and accept all parts of this personality type**. And yes, this means coming to terms with the fact that sometimes ENFPs may get too distracted to finish what they started!
+
+Although learning cognitive functions can seem difficult at first, it’s definitely worth the time. And especially so if you want to get to know _all_ the quirks of this personality type!
+
 # Schlaf
 - kann ich <span style="color:red">mittlerweile</span> ganz <u>gut</u> ⟹ <span style="font-size:150%;color:red;">Naja</span> sei ehrlich! da hast du noch viel Arbeit vor dir
 
