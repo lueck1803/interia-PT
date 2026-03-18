@@ -13,6 +13,10 @@
 	- [ ] mal etwas genauer damit beschäftigen, was das bedeutet
 	- [ ] https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator#/media/File:MyersBriggsTypes.svg
 	      lesen
+	- [ ] Bei dem E am Anfang kann ich mich nicht so entscheiden. Eigentlich habe ich von mir immer das Bild, dass ich I wäre. Aber da habe ich wohl die Realität verleugnen wollen und auch gegen mich gearbeitet.
+Da ich ein paar dieser Eigenschaften als “negativ” wahrnehme. Also ich möchte eigentlich nicht im “center of attention” stehen. Vielleicht empfand ich das immer als Makel, egozentrisch, narzisstisch und es wurde mir als Makel angelastet. Ich habe das aber auch nicht mit Absicht getan und tue es heute auch nicht mit Absicht, ärgere mich eher darüber.
+
+Ich mag auch keine “fast-paced environment”, das überfordert mich eher. Ist aber auch von der Situation abhängig und ich weiß nicht, ob man ein Festival als eine solche Umgebung bezeichnen kann, denn da ist man eigentlich vom “fast-paced” ausgenommen und kann alles um sich herum fließen lassen und mitschwimmen.
 - [x] Kaffeebehälter ausleeren 
 - [x] Spülmaschine 
 - [x] staubsaugen 
