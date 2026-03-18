@@ -1,6 +1,6 @@
 # unsortiert
 - [x] Medikament abholen+ nachfragen wie ich die aufteilen kann
-- [ ] Maracuja ~={MediumSpringGreen}umsetzen=~ 
+- [ ] Maracuja umsetzen
 - [ ] Notizen zu "deine Gedanken lügen" ab 2:05:47
 - [x] Bericht Englisch 3. 4. Und Physik 
 - [x] Blätter Physik kopieren 
