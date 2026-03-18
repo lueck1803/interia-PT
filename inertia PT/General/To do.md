@@ -1,21 +1,10 @@
 # unsortiert
-- [x] Medikament abholen+ nachfragen wie ich die aufteilen kann
 - [ ] Maracuja umsetzen
+- [ ] Antwort von ksk?
 - [ ] Notizen zu "deine ~={ForestGreen}Gedanken=~ lügen" ab 2:05:47
-- [x] Bericht Englisch 3. 4. Und Physik 
-- [x] Blätter Physik kopieren 
-- [x] Stunden eintragen 
-- [x] Kaffeebehälter ausleeren 
-- [x] Spülmaschine 
-- [x] staubsaugen 
-- [x] Wasser in Gießkannen+Behälter putzen 
-- [x] Toilette putzen 
 - [ ] Tisch aufräumen
-- [x] Neue Handtücher 
-- [ ] ~={purple}swamphell=~ üben
-- [x] adhs Ängste Video 
+- [ ] ~={purple}swamphell=~ üben 
 - [ ] Teil bzgl weg zur Kästchen methode und von dort zu meiner methode fertig schreiben. Nochmal in report schauen was ich da schon geschrieben habe
-- [x] Sport 
 - [x] tremolo blocken und Gitarre stimmen
 - [ ] floyd rose stimmtutorial
 - [ ] mgla anschauen
@@ -26,7 +15,6 @@
 - [ ] AOK Zettel ausfüllen
 - [x] fritz Künkel Kapitel fertig lesen
 - [ ] Laufen gehen
-- [ ] Fingernägel 
 - [x] tastatur wischen
 - [x] socken fertig
 - [ ] Socken an der Spitze vernähen 
