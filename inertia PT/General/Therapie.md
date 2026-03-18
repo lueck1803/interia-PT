@@ -345,7 +345,12 @@ Und es hat geklappt 🎆🥳❤️
 	- It is for this reason that _Te_, which ~={green}focuses on <b>organization</b>, <b>structure</b>, and <b>efficiency</b>,is crucial for ENFPs.=~ As ENFPs develop their Te, they finally learn to follow through with their plans, leading them to a much happier, more fulfilling life.
 ### Introverted Sensing (Si)
 - ~={cyan}**abstract thinkers with a visionary mindset**=~—they don’t see the world for what it is but instead see what it _could_ be. ~={orange}Den Nebensatz bezweifle ich allerdings!=~
-- _introverted sensing (Si)_, the function ~={red}mostly associated with the past and recalling details=~, is the inferior ENFP cognitive function.
+- _introverted sensing (Si)_, the function ~={red}mostly associated with the past and recalling details=~, is the~={red} inferior=~ ENFP cognitive function. 💯
+- it primarily works in the background, which makes it difficult to spot this cognitive function in ENFPs
+- _Si_ ~={red}limits=~ the possibilities that _Ne_ generates. Essentially, _Si_ helps ENFPs ~={green}realize which options are worth pursuing=~ and which aren’t by allowing them to tap into their past experiences
+- while ENFPs are big-picture thinkers, _Si_ enables them to focus on details, giving them a ~={pink}**perfectionist streak**=~
+	- This is especially prominent when they’re learning something new or working on a project.
+	- 
 # Schlaf
 - kann ich <span style="color:red">mittlerweile</span> ganz <u>gut</u> ⟹ <span style="font-size:150%;color:red;">Naja</span> sei ehrlich! da hast du noch viel Arbeit vor dir
 
