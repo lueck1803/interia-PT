@@ -210,8 +210,7 @@
               "title": "History"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -229,7 +228,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bb9334a791c6d363",
+  "active": "d0ad413062ea7ff2",
   "lastOpenFiles": [
     "inertia PT/Masterthesis/To Do (Masterthesis).md",
     "conflict-files-obsidian-git.md",
