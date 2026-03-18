@@ -82,7 +82,8 @@
               "title": "To Do (Masterthesis)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "53bf07123b7ce6b3",
@@ -215,7 +216,8 @@
               "title": "History"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -233,10 +235,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "3f031af91d30bcc3",
+  "active": "b9ff92e87bf0bac7",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "inertia PT/Masterthesis/To Do (Masterthesis).md",
+    "conflict-files-obsidian-git.md",
     "inertia PT/Vertretrungslehrer/Rechtliches.md",
     "inertia PT/Vertretrungslehrer",
     "inertia PT/General/To do.md",
