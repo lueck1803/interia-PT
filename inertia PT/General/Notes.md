@@ -646,6 +646,21 @@ on his remote computer. However, he still has to enter two passwords, first, for
 # git
 - Comment in `.gitignore` with # 
 - Ausnahmen mit `!`
+- If you want to ignore whole folder, except some specific files, then write:
+	```
+	MyFolder/*
+	!MyFolder/CoolFile.txt
+	```
+	You can also ignore **folders** like
+	```
+	!src/main/resources/archetype-resources/**/*
+	```
+	you can also ignore **nested folder with patterns** like  
+	
+	```
+	!**/src/test/resources/**/*
+	```
+	
 - wenn Dateien der `.gitignore` hinzugefügt werden, müssen sie auch aus dem chache entfernt werden
   `{git} git rm --cached .obsidian/hotkeys.json`
 - - Wenn dies für alle Unterordner gemacht werden soll, dann:
