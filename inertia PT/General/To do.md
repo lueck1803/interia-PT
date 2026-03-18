@@ -26,6 +26,10 @@
 		- This ability to think creatively also makes ENFPs open-minded and non-judgmental, as they’re able to see **multiple points of view at once**. They also naturally see the ways in which everything in life is interconnected.
 		- supportive and empathetic
 		- Instead of intuitively feeling other people’s emotions, ENFPs tend to show [cognitive empathy](https://www.inc.com/justin-bariso/there-are-actually-3-types-of-empathy-heres-how-they-differ-and-how-you-can-develop-them-all.html). They take time to hear others out and see things from their perspective.
+			- **Cognitive empathy** is the ability to understand how a person feels and what they might be thinking. Cognitive empathy makes us better communicators, because it helps us relay information in a way that best reaches the other person. 
+			- **Emotional empathy** (also known as affective empathy) is the ability to share the feelings of another person. Some have described it as “your pain in my heart.” This type of empathy helps you build emotional connections with others. 
+			- **Compassionate empathy** (also known as empathic concern) goes beyond simply understanding others and sharing their feelings; it moves us to take action, to help however we can.
+			- würde eher sagen ich hätte **Compassionate empathy**
 - [x] Kaffeebehälter ausleeren 
 - [x] Spülmaschine 
 - [x] staubsaugen 
