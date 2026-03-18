@@ -342,7 +342,7 @@ Und es hat geklappt 🎆🥳❤️
 - Through _Ne_, ENFPs gain dozens of insights and ideas every day. Because of this, ENFPs are often **inspired to try something new**, whether it’s a dish, a business project, or a musical instrument. <span style="font-size:100%;color:red;">ja definitiv</span>
 - Yet, there’s one issue that many ENFPs will relate to: no matter how driven they are, <span style="font-size:100%;color:red;">their plans and dreams don’t always become a reality</span>. In fact, even when they have the resources, some ENFPs leave their ideas unrealized.
 	- The **answer is simple**: <span style="font-size:100%;color:orange;">their minds are always bustling with ideas, and ENFPs are prone to quickly abandoning their plans for something new.</span>
-	- It is for this reason that _Te_, which focuses on **organization**, **structure**, and **efficiency**,is crucial for ENFPs. As ENFPs develop their Te, they finally learn to follow through with their plans, leading them to a much happier, more fulfilling life.
+	- It is for this reason that _Te_, which<span style="font-size:100%;color:limegreen;"> focuses on **organization**, **structure**, and **efficiency**,is crucial for ENFPs</span>. As ENFPs develop their Te, they finally learn to follow through with their plans, leading them to a much happier, more fulfilling life.
 # Schlaf
 - kann ich <span style="color:red">mittlerweile</span> ganz <u>gut</u> ⟹ <span style="font-size:150%;color:red;">Naja</span> sei ehrlich! da hast du noch viel Arbeit vor dir
 
