@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "53bf07123b7ce6b3",
@@ -217,7 +217,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -235,15 +235,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "b9ff92e87bf0bac7",
+  "active": "9fc684233921c9de",
   "lastOpenFiles": [
+    "inertia PT/General/Notes.md",
     "inertia PT/Masterthesis/To Do (Masterthesis).md",
     "conflict-files-obsidian-git.md",
     "inertia PT/Vertretrungslehrer/Rechtliches.md",
     "inertia PT/Vertretrungslehrer",
     "inertia PT/General/To do.md",
     "inertia PT/General/To buy.md",
-    "inertia PT/General/Notes.md",
     "Pasted image 20260303172607.png",
     "Pasted image 20260303172550.png",
     "Pasted image 20260303143705.png",
