@@ -1,4 +1,5 @@
-- [x] Toast 
+- [ ] Toast 
+- [ ] Margarine 
 - [x] Marmelade 
 - [x] Hafermilch 
 - [x] Fusilli
