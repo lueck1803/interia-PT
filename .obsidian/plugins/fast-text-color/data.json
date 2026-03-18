@@ -34,7 +34,7 @@
         {
           "color": "#ff6347",
           "id": "Tomato",
-          "keybind": "",
+          "keybind": "T",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -92,7 +92,7 @@
         {
           "color": "#ffd700",
           "id": "Gold",
-          "keybind": "",
+          "keybind": "A",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -208,7 +208,7 @@
         {
           "color": "#00fa9a",
           "id": "MediumSpringGreen",
-          "keybind": "",
+          "keybind": "M",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -266,7 +266,7 @@
         {
           "color": "#00bfff",
           "id": "DeepSkyBlue",
-          "keybind": "",
+          "keybind": "S",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -353,7 +353,7 @@
         {
           "color": "#ff1493",
           "id": "DeepPink",
-          "keybind": "",
+          "keybind": "D",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -382,7 +382,7 @@
         {
           "color": "#228b22",
           "id": "ForestGreen",
-          "keybind": "",
+          "keybind": "F",
           "italic": false,
           "bold": false,
           "cap_mode": {
