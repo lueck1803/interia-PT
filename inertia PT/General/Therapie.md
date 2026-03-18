@@ -369,7 +369,11 @@ Und es hat geklappt 🎆🥳❤️
 - make decisions **based on other people’s needs and expectations**. 💯
 - catering to other people and seeking their approval ~={red}creates an inner conflict=~ in ENFPs.
 - They ~={red}can’t stand =~being ~={red}inauthentic=~, yet their shadow _Fe_ ~={orange}pushes them to please others=~.
-- Ultimately, this can lead them to become ~={Coral}disappointed in themselves.=~
+- Ultimately, this can lead them to become ~={Gold}disappointed in themselves.=~
+#### Introverted Thinking (Ti)
+- Besides helping ENFPs turn their dreams into reality, ~={Tomato}_Te_=~ also helps them **organize their thoughts and ideas**. To do so, they share them with other people or otherwise express them, as _Te_ is an extraverted function.
+- when ENFPs use their shadow _Ti_, they ~={red}tend to withdraw from other people=~
+- 
 # Schlaf
 - kann ich <span style="color:red">mittlerweile</span> ganz <u>gut</u> ⟹ <span style="font-size:150%;color:red;">Naja</span> sei ehrlich! da hast du noch viel Arbeit vor dir
 
