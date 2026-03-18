@@ -1,5 +1,5 @@
-- [ ] Toast 
-- [ ] Margarine 
+- [ ] ~={orange}Toast=~ 
+- [ ] ~={Tomato}Margarine=~ 
 - [x] Marmelade 
 - [x] Hafermilch 
 - [x] Fusilli
@@ -14,9 +14,7 @@
 - [x] Zwiebeln 
 	- [x] gelb
 	- [x] rot
-- [x] Hafermilch 
 - [x] Fusili 
-- [x] bier
 
 # non food
 - [ ] kleinen Schneebesen 
