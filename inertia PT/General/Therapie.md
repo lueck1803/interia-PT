@@ -359,8 +359,11 @@ Und es hat geklappt 🎆🥳❤️
 - However, in their shadow, ENFPs ~={red}make false connections between events=~ and get hunches that **aren’t always correct**.
 	- In such states, many ENFPs~={red} struggle with the feeling that something bad is going to happen,=~ which makes them lose their optimistic attitude.
 		- So true!!!
-	- ENFPs often become distrustful of other people. They can also become quite self-righteous, as they **trust their intuition blindly** and disregard other people’s opinions.
+	- ENFPs often become distrustful of other people. They can also become ~={orange}quite self-righteous,=~ as they **trust their intuition blindly** and ~={yellow}disregard other people’s opinions.=~
 		- hmm kann sein.... 
+	- with an activated shadow often behave similarly to [unhealthy INFJs](https://mypersonality.net/blog/article/unhealthy-infj). That’s because their shadow functions are the same as the primary [INFJ cognitive functions](https://mypersonality.net/blog/article/infj-cognitive-functions), leading them to display many of the unhealthy traits seen in INFJs.
+#### Extraverted Feeling (Fe)
+
 # Schlaf
 - kann ich <span style="color:red">mittlerweile</span> ganz <u>gut</u> ⟹ <span style="font-size:150%;color:red;">Naja</span> sei ehrlich! da hast du noch viel Arbeit vor dir
 
