@@ -15,21 +15,23 @@
               "state": {
                 "file": "inertia PT/General/To do.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "To do"
             }
           },
           {
-            "id": "646947c9e1516b39",
+            "id": "91c5f5002ccdaa69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "inertia PT/General/Notes.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Notes"
@@ -43,7 +45,8 @@
               "state": {
                 "file": "inertia PT/General/To buy.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "To buy"
@@ -57,7 +60,8 @@
               "state": {
                 "file": "inertia PT/General/Therapie.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Therapie"
@@ -71,34 +75,30 @@
               "state": {
                 "file": "inertia PT/Masterthesis/To Do (Masterthesis).md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "To Do (Masterthesis)"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "53bf07123b7ce6b3",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "3d56a71c082afdf1",
+            "id": "ef8266abb257b559",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inertia PT/Masterthesis/To Do (Masterthesis).md",
-                "mode": "preview",
-                "source": false
+                "file": "inertia PT/Masterthesis/Answer-26-01-22.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "To Do (Masterthesis)"
+              "title": "Answer-26-01-22"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 226.5
   },
   "right": {
     "id": "d5dca57be45dbd82",
@@ -166,7 +166,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3f031af91d30bcc3",
+            "id": "d0ad413062ea7ff2",
             "type": "leaf",
             "state": {
               "type": "quiet-outline",
@@ -186,21 +186,6 @@
             }
           },
           {
-            "id": "9747515623843a26",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "inertia PT/Masterthesis/To Do (Masterthesis).md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of To Do (Masterthesis)"
-            }
-          },
-          {
             "id": "1d063bccb0bc5ff3",
             "type": "leaf",
             "state": {
@@ -216,40 +201,17 @@
             }
           },
           {
-            "id": "99d81333e6636fa6",
+            "id": "829e0f549c936301",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "file": "inertia PT/General/To do.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for To do"
-            }
-          },
-          {
-            "id": "bdbb42737e727cb5",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "inertia PT/General/To do.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from To do"
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -267,13 +229,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "646947c9e1516b39",
+  "active": "829e0f549c936301",
   "lastOpenFiles": [
-    "inertia PT/Masterthesis/To Do (Masterthesis).md",
     "inertia PT/General/Therapie.md",
-    "inertia PT/General/To buy.md",
     "inertia PT/General/Notes.md",
     "inertia PT/General/To do.md",
-    "conflict-files-obsidian-git.md"
+    "inertia PT/General/To buy.md",
+    "conflict-files-obsidian-git.md",
+    "inertia PT/Vertretrungslehrer/Rechtliches.md",
+    "inertia PT/Vertretrungslehrer",
+    "inertia PT/Masterthesis/To Do (Masterthesis).md",
+    "Pasted image 20260303172607.png",
+    "Pasted image 20260303172550.png",
+    "Pasted image 20260303143705.png",
+    "inertia PT/Masterthesis/Answer-26-01-22.md",
+    "inertia PT/General/test.md",
+    "box_sqSi23_frame_144000000.png",
+    "box_sqSi23_frame_144000000 1.png",
+    "Pasted image 20260222131207.png",
+    "Pasted image 20260222122327.png",
+    "Pasted image 20260222122153.png",
+    "0.0_23.447361.png",
+    "0.0_23.447361 1.png",
+    "inertia PT/Masterthesis/images/Papers",
+    "Users/lukaswalter/Library/CloudStorage/Dropbox/Lukarooj/Physik/MA.md",
+    "Users/lukaswalter/Library/CloudStorage/Dropbox/Lukarooj/Physik",
+    "Users/lukaswalter/Library/CloudStorage/Dropbox/Lukarooj",
+    "Users/lukaswalter/Library/CloudStorage/Dropbox",
+    "Users/lukaswalter/Library/CloudStorage",
+    "Users/lukaswalter/Library",
+    "Users/lukaswalter",
+    "Users",
+    "inertia PT/General/Images/ToDo"
   ]
 }
