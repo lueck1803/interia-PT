@@ -1,0 +1,16 @@
+{
+  "wrapperTags": [
+    {
+      "id": "w1772726120504",
+      "name": "color",
+      "startTag": "<span style=\"font-size:100%;color:red;\">",
+      "endTag": "</span>"
+    },
+    {
+      "id": "underline",
+      "name": "Underline",
+      "startTag": "<u>",
+      "endTag": "</u>"
+    }
+  ]
+}
