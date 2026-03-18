@@ -1,0 +1,28 @@
+{
+  "mobileToolbarCommands": [
+    "unicode-search:search-unicode-chars",
+    "editor:cycle-list-checklist",
+    "editor:delete-paragraph",
+    "fast-text-color:change-text-color",
+    "editor:indent-list",
+    "obsidian-wrap-with-shortcuts:wrap-with-shortcut-w1762526973803",
+    "editor:unindent-list",
+    "editor:undo",
+    "editor:redo",
+    "editor:toggle-bold",
+    "obsidian-wrap-with-shortcuts:wrap-with-shortcut-underline",
+    "editor:toggle-italics",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:toggle-numbered-list",
+    "editor:set-heading",
+    "editor:configure-toolbar",
+    "editor:insert-callout",
+    "editor:swap-line-up",
+    "editor:swap-line-down",
+    "editor:toggle-strikethrough"
+  ],
+  "useMarkdownLinks": true,
+  "tabSize": 4
+}
