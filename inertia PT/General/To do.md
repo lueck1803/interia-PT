@@ -6,6 +6,7 @@
 - [ ] Masterarbeit
 - [ ] Wäsche aufhängen
 - [ ] Spülmaschine 
+- [ ] Bettwäsche wechseln 
 - [ ] Notizen zu "deine ~={ForestGreen}Gedanken=~ lügen" ab 2:05:47
 - [ ] ~={purple}swamphell=~ üben 
 - [ ] Teil bzgl weg zur Kästchen methode und von dort zu meiner methode fertig schreiben. Nochmal in report schauen was ich da schon geschrieben habe
