@@ -4,7 +4,7 @@
 - [ ] ~={Tomato}Antwort von ksk?=~
 - [ ] Tisch aufräumen
 - [ ] Masterarbeit
-- [ ] Wäsche aufhängen
+- [x] Wäsche aufhängen
 - [ ] Spülmaschine 
 - [ ] Bettwäsche wechseln 
 - [ ] Notizen zu "deine ~={ForestGreen}Gedanken=~ lügen" ab 2:05:47
