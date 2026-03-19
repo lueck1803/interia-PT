@@ -13,6 +13,15 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+## 26-02-19 Arthur 
+Irgendwie hab ich immer noch nen Knoten im Kopf. 
+
+Das intro "kann" ich jetzt zumindest alleine auf 60% den Rest auch. 
+
+Auch wenn ich mir mit den Übergängen manchmal noch etwas schwer tue.
+Da es ja drei verschiedene Melodien sind die verknoten sich noch etwas.
+
+Diesen rhythmischen Teil der vor dem prechorus ist, hab ich jetzt jetzt und mehr raus.
 ## 26-03-18 Arthur
 je mehr ich das lese, was du mir geschickt hast, desto mehr stimme ich dem bis auf Kleinigkeiten zu und da komme ich dann nach erstem kritischen denken auch dazu, dass das nicht ganz unwahr ist.
 
