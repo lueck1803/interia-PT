@@ -5,7 +5,7 @@
 - [ ] Tisch aufräumen
 - [ ] Masterarbeit
 - [x] Wäsche aufhängen
-- [ ] Spülmaschine 
+- [x] Spülmaschine 
 - [ ] Bettwäsche wechseln 
 - [ ] Notizen zu "deine ~={ForestGreen}Gedanken=~ lügen" ab 2:05:47
 - [x] ~={purple}swamphell=~ üben 
