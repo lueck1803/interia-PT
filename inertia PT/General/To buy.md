@@ -1,5 +1,5 @@
 - [ ] ~={orange}Toast=~ 
-- [ ] ~={Tomato}Margarine=~ 
+- [x] ~={Tomato}Margarine=~ 
 - [ ] pesto
 - [ ] Hafermilch 
 - [ ] Schmelzkäse Scheiben 
