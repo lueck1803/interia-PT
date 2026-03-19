@@ -1,5 +1,5 @@
 # unsortiert
-- [ ] Aldi 
+- [x] Aldi 
 - [ ] Maracuja umsetzen
 - [ ] ~={Tomato}Antwort von ksk?=~
 - [ ] Tisch aufräumen
