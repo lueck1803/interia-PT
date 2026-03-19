@@ -1,8 +1,10 @@
 # unsortiert
+- [ ] Aldi 
 - [ ] Maracuja umsetzen
 - [ ] ~={Tomato}Antwort von ksk?=~
-- [ ] Notizen zu "deine ~={ForestGreen}Gedanken=~ lügen" ab 2:05:47
 - [ ] Tisch aufräumen
+- [ ] Masterarbeit 
+- [ ] Notizen zu "deine ~={ForestGreen}Gedanken=~ lügen" ab 2:05:47
 - [ ] ~={purple}swamphell=~ üben 
 - [ ] Teil bzgl weg zur Kästchen methode und von dort zu meiner methode fertig schreiben. Nochmal in report schauen was ich da schon geschrieben habe
 - [x] tremolo blocken und Gitarre stimmen
