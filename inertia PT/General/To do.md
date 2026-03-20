@@ -13,6 +13,7 @@
 	- [ ] ich kann auch keinen jahrgangs gerechten Unterricht machen
 	- [ ] und insbesondere nicht an dieser Schule
 	- [ ] die Physikräume sind schrecklich 
+	- [ ] 
 - [x] Stunden eintragen
 - [x] Bericht 
 	- [x] deu 6a
@@ -21,7 +22,7 @@
 - [ ] Maracuja umsetzen
 - [ ] ~={Tomato}Antwort von ksk?=~
 	- [ ] habe bei Sparkasse angerufen. Kann ich selbst machen 
-	- [ ] 
+	- [ ] ~={red}war ja schon zurück gebucht... Am 17.3=~
 - [ ] Tisch aufräumen
 - [ ] Masterarbeit
 - [x] Wäsche aufhängen
