@@ -21,6 +21,7 @@
 - [ ] Maracuja umsetzen
 - [ ] ~={Tomato}Antwort von ksk?=~
 	- [ ] habe bei Sparkasse angerufen. Kann ich selbst machen 
+	- [ ] 
 - [ ] Tisch aufräumen
 - [ ] Masterarbeit
 - [x] Wäsche aufhängen
