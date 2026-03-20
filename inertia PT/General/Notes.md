@@ -13,7 +13,28 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+## 26-03-20 
 
+### Marietta 
+Autisten haben schon eher festgefahrene Denkstrukturen und klare Einteilungen/Schubladen im Kopf.
+Und Vorstellungen wie etwas zu sein hat.
+
+Autisten haben deshalb auch häufig sehr rigide Anforderungen ans Essen, was Konsistenz angeht.
+Essen dann auch gerne möglichst das gleiche.
+Und dann sollte bei der Zubereitung möglichst keine Abweichung sein. 
+
+Das ist aber auch nur häufig unter autisten, aber keine notwendige Bedingung.
+
+Was rigidität angeht bin ich mir bei dir auch nicht so sicher.
+
+Du hast dich ja auch ziemlich geöffnet die letzten Jahre.
+
+### Arthur
+Ja das ist richtig, ist auch erstmal wichtiger, dass die Gitarre sitzt.
+Ich wollte mir nur etwas Unsicherheit vorweg nehmen, ob das machbar ist und nicht ein Ausschlusskriterium.
+
+Auch insgesamt einen besseren Überblick über die Songstruktur zu bekommen. Der Text, der bei Spotify angezeigt wird ist nicht so 100% synchronisiert.
+Ursprünglich hatte ich mir den 
 ## 26-02-19 Arthur 
 ### 1
 Irgendwie hab ich immer noch nen Knoten im Kopf. 
