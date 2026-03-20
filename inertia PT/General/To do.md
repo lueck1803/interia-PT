@@ -13,14 +13,15 @@
 	- [ ] ich kann auch keinen jahrgangs gerechten Unterricht machen
 	- [ ] und insbesondere nicht an dieser Schule
 	- [ ] die Physikräume sind schrecklich 
-	- [ ] 
+	- [ ] ~={green}nicht so negativ in die Zukunft blicken, was ich nicht kann. Dazu neigt meine Persönlichkeit =~
+	- [ ] ~={ForestGreen}auf die Vergangenheit positiv schauen, was ich alles geschafft habe=~.
 - [x] Stunden eintragen
 - [x] Bericht 
 	- [x] deu 6a
 	- [x] phy
 	- [x] deu 8b
 - [ ] Maracuja umsetzen
-- [ ] ~={Tomato}Antwort von ksk?=~
+- [x] ~={Tomato}Antwort von ksk?=~
 	- [ ] habe bei Sparkasse angerufen. Kann ich selbst machen 
 	- [ ] ~={red}war ja schon zurück gebucht... Am 17.3=~
 - [ ] Tisch aufräumen
