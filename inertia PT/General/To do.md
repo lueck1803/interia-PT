@@ -14,12 +14,13 @@
 	- [ ] und insbesondere nicht an dieser Schule
 	- [ ] die Physikräume sind schrecklich 
 - [x] Stunden eintragen
-- [ ] Bericht 
-	- [ ] deu 6a
-	- [ ] phy
-	- [ ] deu 8b
+- [x] Bericht 
+	- [x] deu 6a
+	- [x] phy
+	- [x] deu 8b
 - [ ] Maracuja umsetzen
 - [ ] ~={Tomato}Antwort von ksk?=~
+	- [ ] habe bei Sparkasse angerufen. Kann ich selbst machen 
 - [ ] Tisch aufräumen
 - [ ] Masterarbeit
 - [x] Wäsche aufhängen
