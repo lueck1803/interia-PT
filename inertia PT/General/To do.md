@@ -1,13 +1,18 @@
 # unsortiert
 - [x] Aldi 
 - [ ] mütze suchen
-- [ ] mir überlegen was ich anderes mache. Lehrer werde ich nicht
+- [ ] Laptop aufräumen 
+	- [ ] Zeug aus Obsidian raus machen was von mir ist
+- [ ] mir überlegen was ich anders mache. Lehrer werde ich nicht
 	- [ ] sind zu viele Namen 
 	- [ ] zu viele Persönlichkeiten
+	- [ ] ich möchte nicht die Aufsicht über so viele Leute haben 
+	- [ ] zu viele Dinge gleichzeitig zu kontrollieren 
 	- [ ] zu viele Sorgen 
 	- [ ] dann fühle ich mich im Unterricht auch nicht
 	- [ ] ich kann auch keinen jahrgangs gerechten Unterricht machen
 	- [ ] und insbesondere nicht an dieser Schule
+	- [ ] die Physikräume sind schrecklich 
 - [x] Stunden eintragen
 - [ ] Bericht 
 	- [ ] deu 6a
