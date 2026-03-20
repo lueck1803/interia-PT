@@ -6,7 +6,9 @@
 	- [ ] zu viele Persönlichkeiten
 	- [ ] zu viele Sorgen 
 	- [ ] dann fühle ich mich im Unterricht auch nicht
-- [x] Stunden eintragen 
+	- [ ] ich kann auch keinen jahrgangs gerechten Unterricht machen
+	- [ ] und insbesondere nicht an dieser Schule
+- [x] Stunden eintragen
 - [ ] Bericht 
 	- [ ] deu 6a
 	- [ ] phy
