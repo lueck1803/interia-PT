@@ -2,6 +2,15 @@
 - [x] Aldi 
 - [ ] mütze suchen
 - [ ] mir überlegen was ich anderes mache. Lehrer werde ich nicht
+	- [ ] sind zu viele Namen 
+	- [ ] zu viele Persönlichkeiten
+	- [ ] zu viele Sorgen 
+	- [ ] dann fühle ich mich im Unterricht auch nicht
+- [x] Stunden eintragen 
+- [ ] Bericht 
+	- [ ] deu 6a
+	- [ ] phy
+	- [ ] deu 8b
 - [ ] Maracuja umsetzen
 - [ ] ~={Tomato}Antwort von ksk?=~
 - [ ] Tisch aufräumen
