@@ -1,5 +1,7 @@
 # unsortiert
 - [x] Aldi 
+- [ ] mütze suchen
+- [ ] mir überlegen was ich anderes mache. Lehrer werde ich nicht
 - [ ] Maracuja umsetzen
 - [ ] ~={Tomato}Antwort von ksk?=~
 - [ ] Tisch aufräumen
