@@ -1,7 +1,7 @@
 # unsortiert
 - [x] Aldi 
 - [x] mütze suchen
-- [ ] Laptop aufräumen 
+- [x] Laptop aufräumen 
 	- [ ] Zeug aus Obsidian raus machen was von mir ist
 - [ ] mir überlegen was ich anders mache. Lehrer werde ich nicht
 	- [ ] sind zu viele Namen 

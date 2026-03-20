@@ -13,7 +13,13 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
-## 26-02-19 Arthur 
+## 26-03-20 Arthur
+Ja das ist richtig, ist auch erstmal wichtiger, dass die Gitarre sitzt.
+Ich wollte mir nur etwas Unsicherheit vorweg nehmen, ob das machbar ist und nicht ein Ausschlusskriterium.
+
+Auch insgesamt einen besseren Überblick über die Songstruktur zu bekommen. Der Text, der bei Spotify angezeigt wird ist nicht so 100% synchronisiert.
+Ursprünglich hatte ich mir den 
+## 26-03-19 Arthur 
 ### 1
 Irgendwie hab ich immer noch nen Knoten im Kopf. 
 
