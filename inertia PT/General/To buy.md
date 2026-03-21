@@ -1,5 +1,5 @@
-- [ ] Kalk Stop tabs
-- [ ] toast
+- [x] Kalk Stop tabs
+- [x] toast
 - [ ] hummus 
 - [ ] Hafermilch 
 
