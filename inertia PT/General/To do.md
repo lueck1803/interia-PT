@@ -523,7 +523,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] neue Boxen auf Sofa neben Router 
 - [x] pod go neben sofa stellen und dort an den strom anschließen 
 - [ ] mal ne flying V anschauen 
-	- [ ] # ESP SV-STD WH
+	- [ ] ESP SV-STD WH
 # Lesen und Hören
 - [ ] Universum in einem einzigen Atom 
 - [ ] Einführung in die Charakterkunde 
