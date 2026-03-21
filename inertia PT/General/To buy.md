@@ -1,7 +1,7 @@
 - [x] Kalk Stop tabs
 - [x] toast
-- [ ] hummus 
-- [ ] Hafermilch 
+- [x] hummus 
+- [x] Hafermilch 
 
 # non food
 - [ ] kleinen Schneebesen 
