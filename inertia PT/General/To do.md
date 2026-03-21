@@ -16,6 +16,9 @@
 	- [ ] die Physikräume sind schrecklich 
 	- [ ] ~={green}nicht so negativ in die Zukunft blicken, was ich nicht kann. Dazu neigt meine Persönlichkeit =~
 	- [ ] ~={ForestGreen}auf die Vergangenheit positiv schauen, was ich alles geschafft habe=~.
+	- [ ] ~={red} wie bringe ich Physik mit einfachen Mitteln bei=~
+	- [ ] ~={Tomato}wie bringe ich Ordnung in mein Tafelbild=~
+	- [ ] 
 - [x] Stunden eintragen
 - [x] Bericht 
 	- [x] deu 6a
