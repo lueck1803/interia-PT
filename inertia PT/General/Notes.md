@@ -1473,6 +1473,7 @@ R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 
 		- mère
 		- complètement
 		- après
+		- je préfère
 	- à, ù: Primarily distinguishes homonyms: a (has) vs à (to/at), ou (or) vs où (where).
 - Tréma (ë, ï, ü, ÿ): Placed over a vowel to show it is pronounced separately from the preceding vowel, rather than forming a single sound. Examples: Noël (no-el), naïve (na-eev).
 - Cédille (ç): Used only under 'c' before 'a', 'o', or 'u' to make it sound like 's' (e.g., garçon). 
