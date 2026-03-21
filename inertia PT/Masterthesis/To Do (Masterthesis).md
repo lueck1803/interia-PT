@@ -1,6 +1,6 @@
 # unsorted tasks
 - [x] copy general plot to the non plot script
-- [ ] wiki eintrag für jupyter on cluster verbessern
+- [ ] ~={Crimson}wiki=~ eintrag für jupyter on cluster verbessern
 - [ ] wiki eintrag für create simulation programm
 - [ ] fork von AMEP erstellen
 - [ ] reset to the old algo from 1.1 or 2.2. and compare the behavior of the placement of 28k (snapshots)

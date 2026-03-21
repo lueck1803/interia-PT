@@ -1,7 +1,7 @@
 # unsortiert
 - [x] duschen
 - [x] essen
-- [ ] ~={DeepPink}Waschbecken=~ Küche 
+- [ ] Waschbecken Küche 
 - [ ] Matratze drehen
 - [x] Sofa saugen
 - [x] Walnuss pflanzen umsetzen 
