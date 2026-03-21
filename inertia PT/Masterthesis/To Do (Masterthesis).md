@@ -812,9 +812,9 @@ $$
 	- the particle then moves at constant speed $v$ in the new direction
 	  $$
 \mathbf{r}_{i} (t+\Delta t) = \mathbf{r}_{i}(t)+ v \Delta t \begin{pmatrix}
-\cos \Theta
+\cos \mathbf{\Theta}_{i}(t) \\
+\sin \mathbf{\Theta}_{i}(t)
 \end{pmatrix}
 $$
-
-
+- $\langle \mathbf{\Theta}_{i} \rangle _{\left| r_{i}-r_{j} \right| <r}$ denotes the average direction of the velocities of particles (including )
 
