@@ -1,6 +1,7 @@
 # unsortiert
 - [ ] duschen
 - [ ] Matratze drehen
+- [ ] Sofa saugen
 - [ ] gitarre putzen 
 - [ ] Laptop Tastatur 
 - [ ] küche aufräumen +putzen
