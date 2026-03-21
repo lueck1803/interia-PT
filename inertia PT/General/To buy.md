@@ -68,7 +68,7 @@
 	- war ein sehr guter "Fehler" Da ich es ja gebrauchen konnte, als ich zu Arthur ging im januar 2026
 - [ ] Akustik Gitarre 
 - [ ] Gesangsmikrofon
-- [ ] Ibanez EJK1000 E-Jack
+- [ ] Ibanez EJK1000 E-Jack oder Floyd Rose RGKEYIT "The Key" Tool
 # Pflanzen 
 - [x] carnivoren set
 - schöne eckige Glassschüssel für die carnivoren 
