@@ -797,6 +797,6 @@ Benno
 - ~={MediumSpringGreen}collective motion=~
 	- at ~={orange}high density=~ 
 	- or ~={yellow}low noise on the alignment=~
-- it assumes that ~={cyan}flocking=~ is due to the combination
+- it assumes that ~={Teal}flocking=~ is due to the combination
 
 

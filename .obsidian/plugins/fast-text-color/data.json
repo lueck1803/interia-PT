@@ -119,6 +119,35 @@
           "className": "ftc-color-builtin-orange"
         },
         {
+          "color": "#8b4513",
+          "id": "Brown",
+          "keybind": "",
+          "italic": false,
+          "bold": false,
+          "cap_mode": {
+            "states": [
+              "normal",
+              "all_caps",
+              "small_caps"
+            ],
+            "state": "normal",
+            "index": 0
+          },
+          "line_mode": {
+            "states": [
+              "none",
+              "underline",
+              "overline",
+              "line-through"
+            ],
+            "state": "none",
+            "index": 0
+          },
+          "useCssColorVariable": false,
+          "colorVariable": "--color-base-00",
+          "className": "ftc-color-builtin-Brown"
+        },
+        {
           "color": "#ffd700",
           "id": "Gold",
           "keybind": "A",
@@ -264,9 +293,9 @@
           "className": "ftc-color-builtin-MediumSpringGreen"
         },
         {
-          "color": "#000000",
-          "id": "cyan",
-          "keybind": "C",
+          "color": "#008080",
+          "id": "Teal",
+          "keybind": "",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -288,9 +317,9 @@
             "state": "none",
             "index": 0
           },
-          "useCssColorVariable": true,
-          "colorVariable": "--color-cyan",
-          "className": "ftc-color-builtin-cyan"
+          "useCssColorVariable": false,
+          "colorVariable": "--color-base-00",
+          "className": "ftc-color-builtin-Teal"
         },
         {
           "color": "#1e90ff",
@@ -380,6 +409,35 @@
           "className": "ftc-color-builtin-purple"
         },
         {
+          "color": "#9400d3",
+          "id": "DarkViolet",
+          "keybind": "",
+          "italic": false,
+          "bold": false,
+          "cap_mode": {
+            "states": [
+              "normal",
+              "all_caps",
+              "small_caps"
+            ],
+            "state": "normal",
+            "index": 0
+          },
+          "line_mode": {
+            "states": [
+              "none",
+              "underline",
+              "overline",
+              "line-through"
+            ],
+            "state": "none",
+            "index": 0
+          },
+          "useCssColorVariable": false,
+          "colorVariable": "--color-base-00",
+          "className": "ftc-color-builtin-DarkViolet"
+        },
+        {
           "color": "#000000",
           "id": "pink",
           "keybind": "I",
@@ -436,35 +494,6 @@
           "useCssColorVariable": false,
           "colorVariable": "--color-base-00",
           "className": "ftc-color-builtin-DeepPink"
-        },
-        {
-          "color": "#9400d3",
-          "id": "DarkViolet",
-          "keybind": "",
-          "italic": false,
-          "bold": false,
-          "cap_mode": {
-            "states": [
-              "normal",
-              "all_caps",
-              "small_caps"
-            ],
-            "state": "normal",
-            "index": 0
-          },
-          "line_mode": {
-            "states": [
-              "none",
-              "underline",
-              "overline",
-              "line-through"
-            ],
-            "state": "none",
-            "index": 0
-          },
-          "useCssColorVariable": false,
-          "colorVariable": "--color-base-00",
-          "className": "ftc-color-builtin-DarkViolet"
         }
       ],
       "name": "builtin"
