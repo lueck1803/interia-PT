@@ -1457,10 +1457,15 @@ R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 
 24. ✅✅✅✅
 25. ✅✅
 
-# Vertretungsunterricht 
 
-## Bernhard Adelung Schule 
-### Zeiten
-- 1.-2.: 7:55 - 9:25
-- 3.-4.: 9:45 - 11:15
-- 5.-6.: 12:20 - 13:05
+# Französisch
+## accents 
+- Accent Aigu (é): Only on 'e'. Produces a closed "eh" sound (like café or été). Often used in the past participle of -er verbs (mangé).
+- Accent Grave (è, à, ù):
+	- è: Produces an open "ay" or ä sound like:
+		- frère 
+		- très
+		- mère
+	- à, ù: Primarily distinguishes homonyms: a (has) vs à (to/at), ou (or) vs où (where).
+- Tréma (ë, ï, ü, ÿ): Placed over a vowel to show it is pronounced separately from the preceding vowel, rather than forming a single sound. Examples: Noël (no-el), naïve (na-eev).
+- Cédille (ç): Used only under 'c' before 'a', 'o', or 'u' to make it sound like 's' (e.g., garçon). 
