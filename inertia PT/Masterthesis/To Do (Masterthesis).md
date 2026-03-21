@@ -798,5 +798,8 @@ Benno
 	- at ~={orange}high density=~ 
 	- or ~={yellow}low noise on the alignment=~
 - it assumes that ~={Teal}flocking=~ is due to the combination
+	- any kind of self propulsion
+	- and effective alignment
+- Velocity of each particle is constant ~={Crimson}⟹=~ 
 
 
