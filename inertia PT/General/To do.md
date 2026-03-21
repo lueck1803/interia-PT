@@ -1,7 +1,8 @@
 # unsortiert
-- [ ] duschen
+- [x] duschen
 - [ ] Matratze drehen
 - [ ] Sofa saugen
+- [ ] Walnuss pflanzen umsetzen 
 - [x] Basilikum aussäen 
 - [ ] gitarre putzen 
 - [ ] Laptop Tastatur 
