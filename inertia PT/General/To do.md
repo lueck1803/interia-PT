@@ -2,6 +2,7 @@
 - [ ] duschen
 - [ ] gitarre putzen 
 - [ ] Laptop Tastatur 
+- [ ] kalmah riff von they will return takt 127 3. pekka kokko
 - [x] Laptop aufräumen 
 	- [ ] Zeug aus Obsidian raus machen was von mir ist
 - [ ] mir überlegen was ich anders mache. Lehrer werde ich nicht
@@ -521,6 +522,8 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [ ] mir die neuen Chor Stücke anschauen 
 - [x] neue Boxen auf Sofa neben Router 
 - [x] pod go neben sofa stellen und dort an den strom anschließen 
+- [ ] mal ne flying V anschauen 
+	- [ ] # ESP SV-STD WH
 # Lesen und Hören
 - [ ] Universum in einem einzigen Atom 
 - [ ] Einführung in die Charakterkunde 
