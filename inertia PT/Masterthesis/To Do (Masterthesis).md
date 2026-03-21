@@ -791,6 +791,8 @@ Benno
 ## Vicsek model
 - collective motion and swarming 
 - ~={DeepPink}minimal=~ and describes a kind of universality
-- 
+- point-like self-propelled particles
+	- evolve at ~={DeepSkyBlue}constant speed=~
+	- ~={purple}align their velocity=~ with their neighbours
 
 
