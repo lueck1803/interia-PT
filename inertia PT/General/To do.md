@@ -1,14 +1,14 @@
 # unsortiert
 - [x] duschen
-- [ ] essen
+- [x] essen
 - [ ] Waschbecken Küche 
 - [ ] Matratze drehen
 - [x] Sofa saugen
-- [ ] Walnuss pflanzen umsetzen 
+- [x] Walnuss pflanzen umsetzen 
 - [x] Basilikum aussäen 
 - [x] gitarre putzen 
 - [x] Laptop Tastatur 
-- [ ] küche aufräumen +putzen
+- [x] küche aufräumen +putzen
 - [x] tisch saugen
 - [ ] kalmah riff von they will return takt 127 3. pekka kokko
 - [x] Laptop aufräumen 
@@ -35,8 +35,8 @@
 	- [x] deu 8b
 - [ ] Maracuja umsetzen
 - [x] ~={Tomato}Antwort von ksk?=~
-	- [ ] habe bei Sparkasse angerufen. Kann ich selbst machen 
-	- [ ] ~={red}war ja schon zurück gebucht... Am 17.3=~
+	- [x] habe bei Sparkasse angerufen. Kann ich selbst machen 
+	- [x] ~={red}war ja schon zurück gebucht... Am 17.3=~
 - [ ] Tisch aufräumen
 - [ ] Masterarbeit
 - [x] Wäsche aufhängen
@@ -80,7 +80,7 @@
 - [x] ärzte ohne grenzen kündigen
 	- puuh gerade noch rechtzeitig.
 	- [x] wird am 5.3. abgebucht, aber ich erhalte das geld zurück.
-	- [ ] <span style="font-size:100%;color:red;">regelmäßig konto checken</span>
+	- [x] <span style="font-size:100%;color:red;">regelmäßig konto checken</span>
 - [ ] dpg kündigen
 - [ ] jean-lueck aufräumen
 - [x] konto checken
