@@ -16,9 +16,9 @@
 	- [ ] die Physikräume sind schrecklich 
 	- [ ] ~={green}nicht so negativ in die Zukunft blicken, was ich nicht kann. Dazu neigt meine Persönlichkeit =~
 	- [ ] ~={ForestGreen}auf die Vergangenheit positiv schauen, was ich alles geschafft habe=~.
-	- [ ] ~={red} wie bringe ich Physik mit einfachen Mitteln bei=~
+	- [ ] ~={red}wie bringe ich Physik mit einfachen Mitteln bei=~
 	- [ ] ~={Tomato}wie bringe ich Ordnung in mein Tafelbild=~
-	- [ ] 
+	- [ ] ~={Crimson}Ordnung in meine Gedanken und Worte bringen, weniger ist mehr=~ 
 - [x] Stunden eintragen
 - [x] Bericht 
 	- [x] deu 6a
@@ -489,6 +489,11 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] carnivoren umsetzen 
 # Musik
 - [ ] Beltaine hohe Flöte üben 
+- [ ] die dünneren jazz saiten auf die schwarze gitarre machen
+- [ ] neue Saiten auf Akustik 
+	- [ ] Griffbrett säubern
+	- [ ] Klinkenanschluss wieder anbringen 
+		- [ ] dafür mutter und u scheibe suchen/besorgen 
 - [ ] füsilier alles üben
 - [ ] fresh fur 
 	- [ ] lead guitar 
