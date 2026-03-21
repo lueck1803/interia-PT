@@ -793,6 +793,10 @@ Benno
 - ~={DeepPink}minimal=~ and describes a kind of universality
 - point-like self-propelled particles
 	- evolve at ~={DeepSkyBlue}constant speed=~
-	- ~={purple}align their velocity=~ with their neighbours
+	- ~={purple}align their velocity=~ with their neighbours' one in presence of noise
+- ~={MediumSpringGreen}collective motion=~
+	- at ~={orange}high density=~ 
+	- or ~={yellow}low noise on the alignment=~
+- it assumes that ~={cyan}flocking=~ is due to the combination
 
 
