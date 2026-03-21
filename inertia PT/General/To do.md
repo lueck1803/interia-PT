@@ -1,14 +1,15 @@
 # unsortiert
 - [x] duschen
+- [ ] essen
 - [ ] Waschbecken Küche 
 - [ ] Matratze drehen
-- [ ] Sofa saugen
+- [x] Sofa saugen
 - [ ] Walnuss pflanzen umsetzen 
 - [x] Basilikum aussäen 
-- [ ] gitarre putzen 
-- [ ] Laptop Tastatur 
+- [x] gitarre putzen 
+- [x] Laptop Tastatur 
 - [ ] küche aufräumen +putzen
-- [ ] tisch saugen
+- [x] tisch saugen
 - [ ] kalmah riff von they will return takt 127 3. pekka kokko
 - [x] Laptop aufräumen 
 	- [ ] Zeug aus Obsidian raus machen was von mir ist
