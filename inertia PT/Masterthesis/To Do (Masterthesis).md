@@ -817,5 +817,5 @@ $$
 \end{pmatrix}
 $$
 - $\langle \mathbf{\Theta}_{i} \rangle _{\left| r_{i}-r_{j} \right| <r}$ denotes the average direction of the velocities of particles (including particle $i$) within a circle of radius $r$ surrounding particle $i$. 
-- The average normalized velocity acts as the order parameter for this system and is given by $v_{a} = \frac{1}{Nv} \left| \sum_{i=1}^{N} v_{i}\right|$ 
+- The average normalized velocity acts as the order parameter for this system and is given by $$v_{a} = \frac{1}{Nv} \left| \sum_{i=1}^{N} v_{i}\right|$$ 
 

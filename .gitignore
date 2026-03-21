@@ -8,7 +8,6 @@
 /.obsidian/plugins/*
 #/.obsidian/plugins/unicode-search
 #/.obsidian/plugins/show-whitespace-cm6
-#/.obsidian/plugins/obsidian-latex-suite
 #/.obsidian/plugins/obsidian-html-tags-autocomplete
 #/.obsidian/plugins/obsidian-git
 #/.obsidian/plugins/obsidian-completr
@@ -20,3 +19,4 @@
 #!/.obsidian/plugins/codeblock-customizer
 /.obsidian/app.json
 !/.obsidian/plugins/fast-text-color/
+!/.obsidian/plugins/obsidian-latex-suite
