@@ -1,6 +1,7 @@
 # unsortiert
-- [x] Aldi 
-- [x] mütze suchen
+- [ ] duschen
+- [ ] gitarre putzen 
+- [ ] Laptop Tastatur 
 - [x] Laptop aufräumen 
 	- [ ] Zeug aus Obsidian raus machen was von mir ist
 - [ ] mir überlegen was ich anders mache. Lehrer werde ich nicht
