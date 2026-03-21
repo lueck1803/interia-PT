@@ -1,6 +1,6 @@
 # unsorted tasks
 - [x] copy general plot to the non plot script
-- [ ] ~={Crimson}wiki=~ eintrag für jupyter on cluster verbessern
+- [ ] wiki eintrag für jupyter on cluster verbessern
 - [ ] wiki eintrag für create simulation programm
 - [ ] fork von AMEP erstellen
 - [ ] reset to the old algo from 1.1 or 2.2. and compare the behavior of the placement of 28k (snapshots)
@@ -35,7 +35,7 @@
 	  In comparison to a higher threshold (here the half of the standard deviation):
 	  ![](0.0_23.447361%201.png)
 - [x] create-sim auf general modifizieren 
-- [ ] traj time step setzen mit `traj.dt=<dt>
+- [ ] traj time step setzen mit `traj.dt=<dt>`
 - [ ] create sim so modifizieren, dass restart etc mit -ow klar kommt
 - [ ] Folien autor titel oben entfernen
 - [ ] lammps skript anpassen
@@ -720,6 +720,7 @@ Laut Mandal2019 P. 2 ist die kritische $Pe \ge 20$
 - The relative importance of activity in comparison with diffusion can be characterized by the **Péclet number**:
 - $Pe=v_{0}\sqrt{ 2DD_{R} }$ ,$D=\frac{4}{3}R^2D_{R}$, $Pe=\frac{\sqrt{ \frac{3}{2} }v_{0}}{\sigma D_{R}}$ or $Pe=\frac{v_{0}\sigma}{\sqrt{ 6 }D}$
 
+
 # Critical Exponents
 ## Correlations Length $\xi$
 is the overall driving factor for the behavior at a continuous phase transition (2. Order). At the phase transition fluctuations grow large until no distinction between two phases is possible.  
@@ -789,5 +790,7 @@ Benno
 # Glossar
 ## Vicsek model
 - collective motion and swarming 
-- minimal and describes a kind of universality
+- ~={DeepPink}minimal=~ and describes a kind of universality
 - 
+
+
