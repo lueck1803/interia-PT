@@ -790,3 +790,4 @@ Benno
 ## Vicsek model
 - collective motion and swarming 
 - ~={DeepPink}minimal=~ and describes a kind of universality
+- 
