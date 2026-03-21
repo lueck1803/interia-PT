@@ -2,6 +2,7 @@
 - [ ] duschen
 - [ ] Matratze drehen
 - [ ] Sofa saugen
+- [x] Basilikum aussäen 
 - [ ] gitarre putzen 
 - [ ] Laptop Tastatur 
 - [ ] küche aufräumen +putzen
