@@ -1,7 +1,10 @@
 # unsortiert
 - [ ] duschen
+- [ ] Matratze drehen
 - [ ] gitarre putzen 
 - [ ] Laptop Tastatur 
+- [ ] küche aufräumen +putzen
+- [ ] tisch saugen
 - [ ] kalmah riff von they will return takt 127 3. pekka kokko
 - [x] Laptop aufräumen 
 	- [ ] Zeug aus Obsidian raus machen was von mir ist
@@ -52,7 +55,6 @@
 - [ ] Socken an der Spitze vernähen 
 - [ ] Socken einpacken 
 - [ ] Chiphalter reparieren 
-- [ ] Matratze drehen
 - [ ] Duolingo türkisch screenshots älter als 25-09-30 vom handy löschen
 - [ ] VSS Formular ausfüllen
 	- [x] Versicherungszeiten AOK runterladen
