@@ -1485,5 +1485,10 @@ R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 
 - certain categories:
 	- ~={DarkViolet}masculine=~
 		- les saisons 
-		- 
-	- 
+		- les jours
+		- les langues
+		- les fruit and les légumes (if there is ~={Crimson}no=~ e at the end)
+	- ~={ForestGreen}feminine=~
+		- les magasins
+		- les émotions
+		- les sciences et autres disciplines
