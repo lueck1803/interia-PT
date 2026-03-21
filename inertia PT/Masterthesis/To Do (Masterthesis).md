@@ -800,6 +800,13 @@ Benno
 - it assumes that ~={Teal}flocking=~ is due to the combination
 	- any kind of self propulsion
 	- and effective alignment
-- Velocity of each particle is constant ~={Crimson}⟹=~ 
+- Velocity of each particle is constant ~={Crimson}⟹=~ net momentum of the system is not conserved during collisions
+- individual $i$ described by
+	- position $\mathbf{r}_{i}(t)$
+	- the angle direction of its velocity $\mathbf{\Theta}_{i}(t)$ at time $t$
+- Discrete time evolution of one particle
+	- $$
+
+$$
 
 
