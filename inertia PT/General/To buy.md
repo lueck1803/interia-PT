@@ -1,23 +1,4 @@
-- [x] ~={orange}Toast=~ 
-- [x] ~={Tomato}Margarine=~ 
-- [x] pesto
-- [x] Hafermilch 
-- [x] Schmelzkäse Scheiben 
-- [x] Marmelade 
-- [x] Hafermilch 
-- [x] Fusilli
-- [x] regenerier salz
-	- ⟹5 mal
-- [x] destilliertes Wasser 
-	- 2 mal
-- [x] metall+Kunststoff Trinkhalme Aldi falls billiger
-- [x] Haferflocken
-- [x] Müsli 
-- [x] Bananen 
-- [x] Zwiebeln 
-	- [x] gelb
-	- [x] rot
-- [x] Fusili 
+- [ ] Kalk Stop tabs
 
 # non food
 - [ ] kleinen Schneebesen 
