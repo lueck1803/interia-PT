@@ -65,6 +65,7 @@
 # Musik
 - [x] aux Verlängerungskabel  (3m oder reichen 2m ? Ja ich gehe davon aus, dass es ein 1,8m Kabel ist) ⟹ vielleicht mal im Saturn vorbei schauen 
 	- ⟹leider zweimal gekauft ausversehen
+	- war ein sehr guter "Fehler" Da ich es ja gebrauchen konnte, als ich zu Arthur ging im januar 2026
 - [ ] Akustik Gitarre 
 - [ ] Gesangsmikrofon
 # Pflanzen 
