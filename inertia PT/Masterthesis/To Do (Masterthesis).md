@@ -785,3 +785,8 @@ In view of the obtained very unusual results for the critical exponents, it woul
 Best wishes
 
 Benno
+
+# Glossar
+## Vicsek model
+- collective motion and swarming 
+- ~={DeepPink}minimal=~ and describes a kind of universality
