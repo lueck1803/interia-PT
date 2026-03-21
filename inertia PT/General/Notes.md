@@ -1,5 +1,5 @@
 # Geschäftliche Nachrichten 
-Dear Spatial Business Integration Team,
+Dear Spatial Business ~={Crimson}Integration=~ Team,
 
 I am a physicist with a bachelor's degree and I am currently writing my master thesis in the field of soft condensed matter.
 I have very good programming experiences in Python, Java and C++.

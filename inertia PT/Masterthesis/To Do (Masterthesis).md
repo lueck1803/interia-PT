@@ -788,6 +788,6 @@ Benno
 
 # Glossar
 ## Vicsek model
-- collective motion and ~={Crimson}swarming=~ 
-- ~={DeepPink}minimal=~ and describes a kind of universality
+- collective motion and swarming 
+- minimal and describes a kind of universality
 - 
