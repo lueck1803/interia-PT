@@ -809,7 +809,12 @@ Benno
 	  $$
 \mathbf{\Theta}_{i}(t+\Delta t)  = \langle \mathbf{\Theta}_{i} \rangle _{\left| r_{i}-r_{j} \right| <r} + \eta_{i}(t)
 $$
-	- the particle then moves at constant speed $v$ in the new di
+	- the particle then moves at constant speed $v$ in the new direction
+	  $$
+\mathbf{r}_{i} (t+\Delta t) = \mathbf{r}_{i}(t)+ v \Delta t \begin{pmatrix}
+\cos \Theta
+\end{pmatrix}
+$$
 
 
 
