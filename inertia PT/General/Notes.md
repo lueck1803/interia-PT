@@ -1546,3 +1546,8 @@ R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 
 		- besonders wichtig, die Phase im Mutterleib während der Entwicklung des Fötus
 		- Zeitliche Steuerung der Pubertät. Früheres Einsetzen, insbesondere bei Mädchen (da Östrogen)
 	- Stoffwechselsystem:
+		- Typ 2 Diabetes
+		- Übergewicht
+### In welchen Verpackungen spielt BPA überhaupt eine Rolle?
+- PET Flaschen enthalten ~={Crimson}kein=~ BPA
+- 
