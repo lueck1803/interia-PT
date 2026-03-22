@@ -1532,5 +1532,10 @@ R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 
 - Nein ist nicht unbedenklich
 - Grund: chemische Struktur
 - BPA kann im menschlichen Körper wie ein Hormonimitator / Hormondoppelgänger wirken
-- Hormonsystem: ~={Crimson}Schlüssel-Schloß-Prinzip=~
-- 
+- Hormonsystem: 
+	- ~={Crimson}Schlüssel-Schloß-Prinzip=~
+	- Hormon ist Schlüssel, der bestimmten Prozess auslöst
+- BPA ist dem weiblichen Geschlechtshormon Östrogen so ähnlich, dass es an die körpereigenen Rezeptoren andocken kann und entsprechende Signale auslösen kann
+	- ~={Crimson}⤷=~ ~={red}Endokrine Disruptoren=~ 
+	- nicht besonders große Mengen nötig, um eine Wirkung zu entfalten
+	- Toxikologie: Die Dosis macht das Gift
