@@ -1550,4 +1550,6 @@ R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 
 		- Übergewicht
 ### In welchen Verpackungen spielt BPA überhaupt eine Rolle?
 - PET Flaschen enthalten ~={Crimson}kein=~ BPA
-- 
+- ~={red}Epoxidlacke=~ werden als Schutz häufig auf der ~={Crimson}Innenseite von Metalldosen=~ verwendet.
+	- ⤷ Aluminium der Getränkedose kommt mit dem Getränk gar nicht in Kontakt
+	- Weißblechkonserven
