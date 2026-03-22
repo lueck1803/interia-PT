@@ -1553,4 +1553,6 @@ R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 
 - ~={red}Epoxidlacke=~ werden als Schutz häufig auf der ~={Crimson}Innenseite von Metalldosen=~ verwendet.
 	- ⤷ Aluminium der Getränkedose kommt mit dem Getränk gar nicht in Kontakt
 	- Weißblechkonserven. Weißblech ist ein dünnes kaltgewalztes Stahlblech, dessen Oberfläche meist mit Zinn beschichtet ist
-	- Getränkedosen sind aus Aluminium oder Weißblech, bei letzterem ist nur der Deckel aus Aluminium
+	- Getränkedosen sind aus Aluminium oder Weißblech, bei letzterem ist nur der Deckel aus Aluminium:
+		- Die Innenlackierung dient als Korrosionsschutz und somit zur Vermeidung von Geschmacksveränderungen des Inhalts. Aus der Innenbeschichtung eines Großteils der Dosen löst sich das potentiell gesundheitsschädigende Bisphenol A (BPA), das in der Folge auf den Inhalt übergeht und diesen kontaminieren kann.
+		- Studien zeigen, dass in realen Getränken, die bis zum Ablauf des Mindesthaltbarkeitsdatums in Dosen aufbewahrt wurden (z. B. Energy-Drinks, Cola), BPA-Konzentrationen unterhalb der Nachweisgrenze lagen. Selbst in Dosen mit BPA-haltiger Beschichtung war kein übertragbares BPA messbar.
