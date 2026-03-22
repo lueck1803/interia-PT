@@ -16,7 +16,7 @@ Lukas Walter
 ## 26-03-22
 ### Timo Daum
 Hi Timo,
-Ja also  war auch mein natürlicher Umgang im Allgemeinen damit, das letzte Jahrzehnt, dass ich mich Schritt für Schritt zurückgezogen habe.
+Ja also das war auch mein natürlicher Umgang im Allgemeinen damit, das letzte Jahrzehnt, dass ich mich Schritt für Schritt zurückgezogen habe.
 
 Bei mir war denke ich mit der Hauptgrund, dass ich es mir nicht verdient habe.
 Ich glaube ADHS technisch habe ich da gar kein Problem mit.
@@ -59,7 +59,7 @@ ich stelle das zumindest permanent fest. Was jetzt Ursache und was Wirkung ist, 
 Wenn man man klar und Ok mit sich ist und die Situation als positiv empfindet, dann geht so vieles.
 Daher kann man sich die Fragen stellen, was man tun kann, damit man sich besser fühlt. Sich "sicherer", also angenommener. Sie die anderen überhaupt der Grund dafür, dass man sich angenommen fühlt oder liegt das nicht erstmal bei einem selbst sich in der Situation anzunehmen. 
 Muss ich gerade interagieren, muss ich jetzt etwas sagen, was muss ich mit meinen Worten und Gesten bewirken? Wenn das muss kleiner wird, dann wird auch der Stress und die Überlastung kleiner.
-Zumindest merke ich das bei mir extrem. Ich versuche in den Situationen mein MUSS runter zu schrauben. 
+Zumindest merke ich das bei mir extrem. Ich versuche in den Situationen mein MUSS, meine Erwartungen an mich runter zu schrauben. 
 Daran zu denken, dass ich möglichst erstmal da sein darf so wie ich bin. Mich von dem ganze MUSS befreien, um dann die Freiheit zu nutzen, was will ich denn sagen oder tun.
 
 Wenn es dann mal zu viel wird, darf man sich auch immer nen kurzen Moment gönnen. Auf Toilette gehen, wir ja gesellschaftlich gar nicht in Frage gestellt. Wenn man diese Situation für sich nutzen kann, um mal wieder runter zu kommen.
