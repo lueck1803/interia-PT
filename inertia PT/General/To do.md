@@ -2,14 +2,14 @@
 - [x] duschen
 - [x] essen
 - [ ] Waschbecken Küche 
-- [ ] Ohrenstöpsel und Konzertticket bereit legen+Be'Lakor shirt
-- [ ] guitar pro tabs schließen bis auf swamphell und exercise in futility 
+- [x] Ohrenstöpsel und Konzertticket bereit legen+Be'Lakor shirt
+- [x] guitar pro tabs schließen bis auf swamphell und exercise in futility 
 	- [x] laptop 
-	- [ ] PC 
+	- [x] PC 
 - [x] nochmal über weiße Gitarre putzen. Insbesondere Knöpfe 
-- [ ] Wäsche zusammen legen
+- [x] Wäsche zusammen legen
 - [x] Muskateller salbei umsetzen 
-- [ ] Matratze drehen
+- [x] Matratze drehen
 - [x] Gesicht waschen 
 - [x] Laptop aufräumen 
 	- [ ] Zeug aus Obsidian raus machen was von mir ist
@@ -33,7 +33,7 @@
 	- [x] deu 6a
 	- [x] phy
 	- [x] deu 8b
-- [ ] Maracuja umsetzen
+- [x] Maracuja umsetzen
 - [x] ~={Tomato}Antwort von ksk?=~
 	- [x] habe bei Sparkasse angerufen. Kann ich selbst machen 
 	- [x] ~={red}war ja schon zurück gebucht... Am 17.3=~
@@ -41,7 +41,7 @@
 - [ ] Masterarbeit
 - [x] Wäsche aufhängen
 - [x] Spülmaschine 
-- [ ] Bettwäsche wechseln 
+- [x] Bettwäsche wechseln 
 - [ ] Notizen zu "deine ~={ForestGreen}Gedanken=~ lügen" ab 2:05:47
 - [x] ~={purple}swamphell=~ üben 
 - [ ] Teil bzgl weg zur Kästchen methode und von dort zu meiner methode fertig schreiben. Nochmal in report schauen was ich da schon geschrieben habe
