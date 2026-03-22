@@ -1527,5 +1527,10 @@ R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 
 			- Schutz und Korrosionsbeschichtungen
 			- Bodenbeschichtungen in Industriehallen
 			- Straßenmarkierungen zb. Farbige Fahrradstreifen
-			- ganz andere Anwendung: Thermopapier vom Kssen
-		- 
+- ganz andere Anwendung: früher Thermopapier vom Kassenbon, als Entwickler Chemikalie in der Papierbeschichtung
+### Ist der Stoff dann unbedenklich nur, weil es kein Weichmacher ist?
+- Nein ist nicht unbedenklich
+- Grund: chemische Struktur
+- BPA kann im menschlichen Körper wie ein Hormonimitator / Hormondoppelgänger wirken
+- Hormonsystem: ~={Crimson}Schlüssel-Schloß-Prinzip=~
+- 
