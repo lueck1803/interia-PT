@@ -13,6 +13,64 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+## 26-03-22
+### Timo Daum
+Hi Timo,
+Ja also  war auch mein natürlicher Umgang im Allgemeinen damit, das letzte Jahrzehnt, dass ich mich Schritt für Schritt zurückgezogen habe.
+
+Bei mir war denke ich mit der Hauptgrund, dass ich es mir nicht verdient habe.
+Ich glaube ADHS technisch habe ich da gar kein Problem mit.
+
+Kommt wohl eher darauf an wie ich da auf mich selbst blicke.
+Ich habe auch ne ziemliche Angststörung entwickelt.
+
+Abends essen gehen, war ich jetzt aufgrund meiner Umstände länger nicht mehr.
+Da habe ich jetzt also auch keinen Vergleich.
+Da weiß ich nur, dass es eher die Konstellation war, mit wem gehen wir essen.
+Es war eher eine "Angst" oder der Blick auf mich die Problematik. Rede ich zu viel, wie wirke ich, sage ich etwas falsches...
+Mir gingen auch zu viele andere belastende Gedanken durch den Kopf, dass ich nicht im Moment und entspannt war.
+
+Ich zweifle daher auch immer nochmal daran, ob ich überhaupt ADHS habe oder nicht doch ne Angststörung. Ich weiß aber dass ich das schon von Kind an habe, mir die Medis helfen und die "Ängste" sehr stark Hand-in-Hand mit dem ADHS gehen.
+
+Prinzipiell zu viel selbst monitoring und wie "muss" ich sein, damit ich sein darf.
+______
+
+Ich denke es geht nicht um den Spezialfall Abends Essen gehen.
+
+Was ich für mich herausgefunden habe ist, dass es ganz unterschiedliche Situationen sein können.
+
+Denn manchmal kann man ja sehr sehr gut filtern und hört nur das was gerade im Fokus liegt und manchmal sind eben die Filter unten und hört daher das Gespräch, was am anderen Ende des Raums ist oder ist fast taub vom Hintergrundrauschen.
+
+Das hängt daher extrem von der aktuellen "psychischen" bzw. der Geisteshaltung zur Situation ab und lässt sich daher sehr gut mit dem mindset steuern. 
+Was natürlich nicht heißt, dass man selbst Schuld daran ist und jetzt alles wunderbar unter Kontrolle hat.
+
+Wenn man das Gefühl hat, dass man nicht die Kontrolle hat, neigt man dann dazu erstmal so etwas ganz zu meiden.
+
+Von mir ausgehend ist dann daher der "Algorithmus":
+1. möglichst mental mit einer guten Verfassung rein gehen, so dass genug Energie für Filter da ist. Sich also nen Tag wählen an dem man vorher genügend Puffer hat. Letzteren Luxus muss man natürlich haben und es gibt da viele Abhängigkeiten. Ist daher nur der Best case.
+
+2. wenn man da genug Mitspracherecht hat, sich vielleicht ein ruhigeres Restaurant zu suchen, zu einer ruhigeren Zeit und einen ruhigeren Platz. Was man davon beeinflussen und abstufen kann. Man muss ja nicht unbedingt in einem stark belebten Restaurant essen. Eine ganz crazy Idee: man holt sich etwas zu essen / bestellt sich etwas und setzt sich an einen ruhigen Ort. Das wäre halt eine extreme Alternative.
+
+3. Das was man noch am meisten beeinflussen kann. Was stresst einen? Was geht im inneren vor, dass man gerade in dieser Situation nicht die Filter hat? Klar die Uhrzeit und man hatte schon nen langen Tag hinter sich.
+Oft gehts in anderen Situationen ja trotzdem.
+Vielleicht hat man gewisse Gedankengänge aufgrund der Leute mit denen man Essen geht. Was sind die inneren Zweifel oder Glaubenssätze die einen permanent beschäftigen? Da habe ich echt gemerkt, dass die in mir hochkommen und mir in Stress Situationen Kapazitäten für Filter rauben.
+Ein Großteil der ADHS Symptome werden ja dadurch ausgelöst/verstärkt, das dem Ganzen ein verstecktes Emotionsregulationsproblem unterliegt. 
+ich stelle das zumindest permanent fest. Was jetzt Ursache und was Wirkung ist, ist nicht so 100% klar. Sie verstärken sich gegenseitig.
+Wenn man man klar und Ok mit sich ist und die Situation als positiv empfindet, dann geht so vieles.
+Daher kann man sich die Fragen stellen, was man tun kann, damit man sich besser fühlt. Sich "sicherer", also angenommener. Sie die anderen überhaupt der Grund dafür, dass man sich angenommen fühlt oder liegt das nicht erstmal bei einem selbst sich in der Situation anzunehmen. 
+Muss ich gerade interagieren, muss ich jetzt etwas sagen, was muss ich mit meinen Worten und Gesten bewirken? Wenn das muss kleiner wird, dann wird auch der Stress und die Überlastung kleiner.
+Zumindest merke ich das bei mir extrem. Ich versuche in den Situationen mein MUSS runter zu schrauben. 
+Daran zu denken, dass ich möglichst erstmal da sein darf so wie ich bin. Mich von dem ganze MUSS befreien, um dann die Freiheit zu nutzen, was will ich denn sagen oder tun.
+
+Wenn es dann mal zu viel wird, darf man sich auch immer nen kurzen Moment gönnen. Auf Toilette gehen, wir ja gesellschaftlich gar nicht in Frage gestellt. Wenn man diese Situation für sich nutzen kann, um mal wieder runter zu kommen.
+
+Es sind ja häufig Aussagen oder Handlungen anderer die einen innerlich aufwühlen können.
+Vielleicht hat man da schon vorher Erwartungen und kann sich in dem Fall (nicht) Handlungen / (nicht) Reaktionen zurecht legen.
+
+Meistens kennt man ja die Leute mit denen man Essen geht und daher vielleicht auch Triggerpunkte bei einem selbst.
+
+ja ganz schön viel xD.
+Und eher eine allgemeine Strategie.
 ## 26-03-20 
 
 ### Marietta 
