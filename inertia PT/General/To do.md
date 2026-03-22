@@ -8,7 +8,7 @@
 	- [ ] PC 
 - [x] nochmal über weiße Gitarre putzen. Insbesondere Knöpfe 
 - [ ] Wäsche zusammen legen
-- [ ] Muskateller salbei umsetzen 
+- [x] Muskateller salbei umsetzen 
 - [ ] Matratze drehen
 - [x] Gesicht waschen 
 - [x] Laptop aufräumen 
