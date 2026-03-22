@@ -1519,4 +1519,13 @@ R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 
 			- BPA gilt als ~={Brown}Weichmacher=~
 			- wird aber zur Herstellung von ganz ~={DeepPink}besonders hartem Kunststoff=~ eingesetzt
 	- ~={Gold}Epoxidharze=~
-		- ein Kunstharz ist ein meist dickflüssiger Stoff, der durch eine chemische Reaktion Substanz (Härter / curing agent) zu einem festen widerstandsfähigen Kunststoff aushärtet 
+		- ein Kunstharz ist ein meist dickflüssiger Stoff, der durch eine chemische Reaktion zu einem festen widerstandsfähigen Kunststoff aushärtet. Meistens durch den Zusatz einer weiteren chemischen Substanz, dem Härter / curing agent ausgelöst. Zwei Komponenten Kleber
+		- Auf Basis von BPA lassen sich solche Harze herstellen.
+		- auf Basis solcher Harze werden entweder Epoxidlacke oder Kleber formuliert
+		- Verwendung:
+			- Faserverstärkte Kunststoffe
+			- Schutz und Korrosionsbeschichtungen
+			- Bodenbeschichtungen in Industriehallen
+			- Straßenmarkierungen zb. Farbige Fahrradstreifen
+			- ganz andere Anwendung: Thermopapier vom Kssen
+		- 
