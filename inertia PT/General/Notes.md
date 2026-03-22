@@ -1565,4 +1565,3 @@ R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 
 - Polycarbonat Recycling Code 
 	- 7 +PC
 	- 7+PCT ⟹anderer Kunststoff, aus der Polyester Familie = BPA frei 
-	- 
