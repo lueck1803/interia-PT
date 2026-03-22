@@ -1558,3 +1558,5 @@ R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 
 		- Studien zeigen, dass in realen Getränken, die bis zum Ablauf des Mindesthaltbarkeitsdatums in Dosen aufbewahrt wurden (z. B. Energy-Drinks, Cola), BPA-Konzentrationen unterhalb der Nachweisgrenze lagen. Selbst in Dosen mit BPA-haltiger Beschichtung war kein übertragbares BPA messbar.
 		- Konservendosen:
 			- Heutige Dosen sind auf der Innenseite gewöhnlich mit Kunststoff auf Basis von Polyester, Epoxydharzen oder Organosolen überzogen. Vor der Einführung des Kunststoffüberzugs war das Umfüllen des Inhalts in andere Gefäße erforderlich, da nach Luftzutritt durch Öffnen das Metall der Doseninnenseite mit dem ggf. sauren Doseninhalt reagierte. Epoxy-Systeme stehen in der Kritik, weil sie geringe Mengen Bisphenol A (Bisphenol-A-Problematik) und andere Stoffe in den Konserveninhalt emittieren. Die European Chemicals Agency hat Bisphenol A 2017 als „besonders besorgniserregenden Stoff“ eingestuft.
+- Was bringt die Beschichtung überhaupt?
+	- Korrosionsschutz gegen Säuren
