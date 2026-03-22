@@ -1501,4 +1501,18 @@ R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 
 ### Was ist BPA dann?
 - Kunststoffe sind Polymere und deren Ausgangsstoffe sind Monomere, die zu langen Ketten zusammen gesetzt werden.
 - ein solches ~={Tomato}Monomer=~ ist Bisphenol-A
-- Besonders wi
+- Besonders ~={green}wichtig=~ ist BPA bei ~={ForestGreen}zwei Stoffgruppen=~:
+	- ~={DeepSkyBlue}Polycarbonat=~
+		- besonders harter und stabiler Kunststoff
+		- hervorragende Transparenz - fast Glas ähnlich
+		- schlagfest 
+		- hitzebeständig
+		- Für Gegenstände die besonders robust sein müssen:
+			- wiederverwendbare Trinkflaschen
+			- CDs
+			- große Wasserkanister
+			- Schutzabdeckungen im Maschinenbau
+			- Flugzeughauben (zb. Segelflug)
+			- Medizinische 
+		- gilt als technischer Hochleistungskunstoff
+		- Ironie:
