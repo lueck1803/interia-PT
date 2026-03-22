@@ -1539,3 +1539,10 @@ R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 
 	- ~={Crimson}⤷=~ ~={red}Endokrine Disruptoren=~ 
 	- nicht besonders große Mengen nötig, um eine Wirkung zu entfalten
 	- Toxikologie: Die Dosis macht das Gift
+	- ⤷ bei endokrinen Disruptoren ist das komplexer, denn hier können wirklich sehr geringe Mengen (bei Gift ja eigentlich auch...) schon Wirkungen auslösen
+- Drei ~={Gold}mögliche Wirkungen=~:
+	- bestimme Entzündungsreaktionen
+	- Fortpflanzung und Entwicklung: 
+		- besonders wichtig, die Phase im Mutterleib während der Entwicklung des Fötus
+		- Zeitliche Steuerung der Pubertät. Früheres Einsetzen, insbesondere bei Mädchen (da Östrogen)
+	- Stoffwechselsystem:
