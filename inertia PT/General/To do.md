@@ -2,6 +2,7 @@
 - [x] duschen
 - [x] essen
 - [ ] Waschbecken Küche 
+- [ ] 
 - [ ] Muskateller salbei umsetzen 
 - [ ] Matratze drehen
 - [x] Sofa saugen
