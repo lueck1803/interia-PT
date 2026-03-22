@@ -2,7 +2,7 @@
 - [x] duschen
 - [x] essen
 - [ ] Waschbecken Küche 
-- [ ] 
+- [ ] nochmal über weiße Gitarre putzen. Insbesondere Knöpfe 
 - [ ] Muskateller salbei umsetzen 
 - [ ] Matratze drehen
 - [x] Sofa saugen
