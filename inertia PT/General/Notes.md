@@ -1507,7 +1507,7 @@ R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 
 		- hervorragende Transparenz - fast Glas ähnlich
 		- schlagfest 
 		- hitzebeständig
-		- Für Gegenstände die besonders robust sein müssen:
+		- Für Gegenstände die ~={DarkViolet}besonders robust=~ sein müssen:
 			- wiederverwendbare Trinkflaschen
 			- CDs
 			- große Wasserkanister
@@ -1515,4 +1515,8 @@ R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 
 			- Flugzeughauben (zb. Segelflug)
 			- Medizinische 
 		- gilt als technischer Hochleistungskunstoff
-		- Ironie:
+		- ~={DeepPink}Ironie:=~ 
+			- BPA gilt als ~={Brown}Weichmacher=~
+			- wird aber zur Herstellung von ganz ~={DeepPink}besonders hartem Kunststoff=~ eingesetzt
+	- ~={Gold}Epoxidharze=~
+		- ein Kunstharz ist ein meist dickflüssiger Stoff, der durch eine chemische Reaktion Substanz (Härter / curing agent) zu einem festen widerstandsfähigen Kunststoff aushärtet 
