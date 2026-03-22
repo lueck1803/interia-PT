@@ -1495,6 +1495,10 @@ R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 
 		- les sciences et autres disciplines
 # Chemie
 ## BPA
-- ist kein Weichmacher
+### ist ~={Crimson}kein=~ Weichmacher
 - ~={DeepSkyBlue}Weichmacher=~ ist ein ~={MediumSpringGreen}Zusatzstoff=~ der einem Kunststoff ~={Crimson}nachträglich=~ hinzugefügt wird, um ihn weicher oder flexibler zu machen
-	- typische Beispiele sind die ~={purple}Phthalate=~, die zb. in PVC eingesetzt werden
+	- typische Beispiele sind die ~={purple}Phthalate=~, die zb. in ~={Teal}PVC=~ eingesetzt werden, diese Stoffe sind ~={red}nicht=~ ~={orange}fest im Material gebunden=~, sondern liegen wie ein Zusatz vor und können daher relativ leicht wieder heraus wandern.
+### Was ist BPA dann?
+- Kunststoffe sind Polymere und deren Ausgangsstoffe sind Monomere, die zu langen Ketten zusammen gesetzt werden.
+- ein solches ~={Tomato}Monomer=~ ist Bisphenol-A
+- Besonders wi
