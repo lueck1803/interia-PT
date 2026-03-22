@@ -1552,4 +1552,5 @@ R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 
 - PET Flaschen enthalten ~={Crimson}kein=~ BPA
 - ~={red}Epoxidlacke=~ werden als Schutz häufig auf der ~={Crimson}Innenseite von Metalldosen=~ verwendet.
 	- ⤷ Aluminium der Getränkedose kommt mit dem Getränk gar nicht in Kontakt
-	- Weißblechkonserven
+	- Weißblechkonserven. Weißblech ist ein dünnes kaltgewalztes Stahlblech, dessen Oberfläche meist mit Zinn beschichtet ist
+	- Getränkedosen sind aus Aluminium oder Weißblech, bei letzterem ist nur der Deckel aus Aluminium
