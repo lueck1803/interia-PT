@@ -2,17 +2,12 @@
 - [x] duschen
 - [x] essen
 - [ ] Waschbecken Küche 
+- [ ] guitar pro tabs schließen bis auf swamphell und exercise in futility 
 - [ ] nochmal über weiße Gitarre putzen. Insbesondere Knöpfe 
+- [ ] Wäsche zusammen legen
 - [ ] Muskateller salbei umsetzen 
 - [ ] Matratze drehen
-- [x] Sofa saugen
-- [x] Walnuss pflanzen umsetzen 
-- [x] Basilikum aussäen 
-- [x] gitarre putzen 
-- [x] Laptop Tastatur 
-- [x] küche aufräumen +putzen
-- [x] tisch saugen
-- [ ] kalmah riff von they will return takt 127 3. pekka kokko
+- [ ] Gesicht waschen 
 - [x] Laptop aufräumen 
 	- [ ] Zeug aus Obsidian raus machen was von mir ist
 - [ ] mir überlegen was ich anders mache. Lehrer werde ich nicht
