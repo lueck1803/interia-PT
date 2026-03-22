@@ -1493,3 +1493,8 @@ R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 
 		- les magasins
 		- les émotions
 		- les sciences et autres disciplines
+# Chemie
+## BPA
+- ist kein Weichmacher
+- ~={DeepSkyBlue}Weichmacher=~ ist ein ~={MediumSpringGreen}Zusatzstoff=~ der einem Kunststoff ~={Crimson}nachträglich=~ hinzugefügt wird, um ihn weicher oder flexibler zu machen
+	- typische Beispiele sind die ~={purple}Phthalate=~, die zb. in PVC eingesetzt werden
