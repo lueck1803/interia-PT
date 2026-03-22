@@ -2,9 +2,9 @@
 - [x] duschen
 - [x] essen
 - [ ] Waschbecken Küche 
-- [ ] 
+- [ ] Ohrenstöpsel und Konzertticket bereit legen+Be'Lakor shirt
 - [ ] guitar pro tabs schließen bis auf swamphell und exercise in futility 
-	- [x] lapohrentop 
+	- [x] laptop 
 	- [ ] PC 
 - [x] nochmal über weiße Gitarre putzen. Insbesondere Knöpfe 
 - [ ] Wäsche zusammen legen
