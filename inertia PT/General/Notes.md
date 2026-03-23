@@ -13,6 +13,11 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+### 26-03-23
+Hallo Lisa, 
+Gab's die letzte Woche/zur Zeit keinen Vertretungsbedarf?
+
+Ich habe mich gefragt, ob ich etwas falsches gesagt oder gemacht habe? 
 ## 26-03-22
 ### Timo Daum
 Hi Timo,
