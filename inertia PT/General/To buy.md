@@ -1,4 +1,6 @@
 - [ ] kalamata oliven
+- [ ] grüne Erbsen 
+- [ ] Pesto 
 - [x] Kalk Stop tabs
 - [x] toast
 - [x] hummus 
