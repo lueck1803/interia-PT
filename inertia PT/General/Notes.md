@@ -14,6 +14,21 @@ Kind regards
 Lukas Walter 
 # Nachrichten an Leute
 ### 26-03-23
+#### fredin
+Danke. 🙏
+Dass du so gut von mir denkst.
+
+Es ist mein permanentes Microverhalten, was ich sage und tue ohne aktiv darüber nach gedacht zu haben. 
+Das passiert ja ständig.
+
+Ich habe zu wenig Kontrolle über mich und die Situationen.
+
+Das gilt aber für alles. 
+Da ist zu viel in mir, was falsch und verstört ist.
+
+
+Du denkst aber zu gut von mir.
+#### lisa
 Hallo Lisa, 
 Gab's die letzte Woche/zur Zeit keinen Vertretungsbedarf?
 
