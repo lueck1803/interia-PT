@@ -14,6 +14,7 @@ Kind regards
 Lukas Walter 
 # Nachrichten an Leute
 ### 26-03-24
+#### Arthur 1
 Ok danke für die Rückmeldung.
 
 Letzte Woche Dienstag hast du ja bereits ähnliches gesagt. 
@@ -29,6 +30,24 @@ Ja du hast Recht, dass die Leute der Prozess nicht sonderlich interessiert.
 Das macht mir dann aber ja noch mehr Druck, dass nur die Performance im Moment und das Endergebnis zählt, so als hätte ich nichts gemacht.
 
 Das lähmt mich ein wenig.
+#### Arthur 2
+Du hast auch damit Recht, dass die Leute der Prozess nicht sonderlich interessiert.
+
+Das hat /macht mir dann aber ja noch mehr Druck (gemacht), dass nur die Performance im Moment und das Endergebnis zählt, so als hätte ich nichts gemacht.
+
+Das lähmt mich ein wenig.
+
+Ich möchte mich dahingehend verbessern dass ich dazu in der Lage bin, dass das Ergebnis/die Performance im Moment stimmt. 
+
+Dazu muss ich offenbar meine Verunsicherungen abbauen.
+
+Ich habe daran gearbeitet und bin dabei daran zu arbeiten. (den Prozess wollte ich nicht als abgeschlossen bezeichnen, da habe ich nicht auf meine Formulierung geachtet, es war auch wieder eine Rechtfertigung)
+
+Wie du richtig erkannt hast, haben meine Mittel dafür bisher nicht ausgereicht, um sicherer zu werden. 
+
+Das Fragen nach Feedback fällt mir offenbar auch schwer.
+
+Daher sind meine Äußerungen die zu dieser Konversation geführt haben, auch mit dem Gesamteindruck ausgefallen "das Gefühl zu haben, irgendwo hinein zu passen und daher nicht überlebensfähig zu sein".
 ### 26-03-23
 #### fredin
 Danke. 🙏
