@@ -31,6 +31,28 @@ Ich habe versucht und versuche den Umständen entsprechend dem gerecht zu werden
   
 Ich werde, wie ich bereits in Vergangenheit geschildert habe, erst mit der Zeit wieder Herr über mich und meine Situation. Ich hatte in Vergangenheit keine Basis, wie ich aus dieser Situation heraus kommen sollte.   
 Die Situation und mich habe ich nicht verstanden. "Einfach machen" hat auch eher das Gegenteil bewirkt.
+
+---
+Hallo Benno,
+
+wäre es möglich, dass wir zusammen mit dem Studienbüro sprechen könnten?
+
+Ich war so verunsichert über die Anforderungen, denen ich versucht habe in meinem Zustand gerecht zu werden.  
+Ich konnte meinen Zustand immerhin soweit verbessern, dass ich mich sortieren, die nächsten Schritte wagen, Ergebnisse liefern und diese in Form des Reports zu verfassen.  
+
+Den Rückmeldungen bin ich nachgekommen, im Prozess die Auswertungsmethode anhand eines über-dämpften ABP Systems zu überprüfen, habe ich mich wieder verrannt, was mich dann wieder mehr verunsichert und meinen Mut geraubt hat, weshalb es mir schwer fiel etwas zusammen zu schreiben.   
+  
+Nach Rücksprache mit Aritra, dem ich das Problem und was für dessen Lösung nötig wäre geschildert habe, bin ich dran mein Proposal zusammen zu schreiben.  
+  
+Ich habe versuche den Umständen entsprechend dem gerecht zu werden. 
+
+Ich habe in der Zwischenzeit auf ein anderes Medikament gewechselt (seit dem 18.02) und es wurde eine Dosiserhöhung (16.03) vorgenommen. Den Unterschied, was die Verträglichkeit und Wirkung angeht, hätte ich mir vorher gar nicht vorstellen können, dass ich mich danach zu fragen getraut habe, so kurz nach einem erzwungenen Arztwechsel, ist erstaunlich. Seitdem habe ich endlich einen Rhythmus auf den ich mich verlassen kann, was viel zu meiner inneren Ordnung bei getragen hat.
+
+Liebe Grüße
+
+Lukas Walter
+
+
 #### Arthur 1
 Ok danke für die Rückmeldung.
 
