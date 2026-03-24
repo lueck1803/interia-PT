@@ -1,6 +1,6 @@
 # unsortiert
 - [ ] ~={Crimson}AOK Zettel ausfüllen + hochladen=~ 
-	- [ ] ausfüllen
+	- [x] ausfüllen 
 	- [ ] Studienbescheinigung runterladen
 - [ ] Zeug Angi vorbeibringen
 - [ ] Küche aufräumen
