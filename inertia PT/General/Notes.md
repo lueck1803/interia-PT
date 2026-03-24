@@ -13,6 +13,22 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+### 26-03-24
+Ok danke für die Rückmeldung.
+
+Letzte Woche Dienstag hast du ja bereits ähnliches gesagt. 
+
+Das ist offenbar ein Formulierungsproblem.
+"Daran habe ich gearbeitet und bin noch dran. Das ist noch eine Baustelle." (Ich habe auch etwas Angst zu viel zu schreiben)
+Ich schreibe das, da ich 
+
+Das hilft mir sehr. Daran werde ich arbeiten.
+
+Ja du hast Recht, dass die Leute der Prozess nicht sonderlich interessiert.
+
+Das macht mir dann aber ja noch mehr Druck, dass nur die Performance im Moment und das Endergebnis zählt, so als hätte ich nichts gemacht.
+
+Das lähmt mich ein wenig.
 ### 26-03-23
 #### fredin
 Danke. 🙏
