@@ -1,8 +1,9 @@
 # unsortiert
-- [ ] ~={Crimson}AOK Zettel ausfüllen + hochladen=~ 
+- [x] ~={Crimson}AOK Zettel ausfüllen + hochladen=~ 
 	- [x] ausfüllen 
 	- [x] Studienbescheinigung runterladen
 - [ ] Zeug Angi vorbeibringen
+	- [ ] mit ihr Termin für 26-03-25 6:30 pm ausgemacht
 - [ ] Küche aufräumen
 - [ ] Bei Schulen vorbei schauen
 - [ ] Konto checken
