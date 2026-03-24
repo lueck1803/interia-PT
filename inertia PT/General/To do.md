@@ -5,6 +5,7 @@
 - [ ] Zeug Angi vorbeibringen
 	- [ ] mit ihr Termin für 26-03-25 6:30 pm ausgemacht
 - [ ] Küche aufräumen
+- [ ] Wetterstation Batterien tauschen
 - [ ] Bei Schulen vorbei schauen
 - [ ] Konto checken
 - [ ] Mischa wegen den Gehaltsabrechnungen Dez + Januar schreiben, sowie Februar. 
