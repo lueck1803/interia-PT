@@ -1,16 +1,10 @@
 # unsortiert
-- [x] duschen
-- [x] essen
+- [ ] AOK Zettel ausfüllen
 - [ ] Waschbecken Küche 
-- [x] Ohrenstöpsel und Konzertticket bereit legen+Be'Lakor shirt
+
 - [x] guitar pro tabs schließen bis auf swamphell und exercise in futility 
 	- [x] laptop 
 	- [x] PC 
-- [x] nochmal über weiße Gitarre putzen. Insbesondere Knöpfe 
-- [x] Wäsche zusammen legen
-- [x] Muskateller salbei umsetzen 
-- [x] Matratze drehen
-- [x] Gesicht waschen 
 - [x] Laptop aufräumen 
 	- [ ] Zeug aus Obsidian raus machen was von mir ist
 - [ ] mir überlegen was ich anders mache. Lehrer werde ich nicht
@@ -52,7 +46,6 @@
 	- [x] Anfang inklusive erster blast beat
 - [ ] vertrag nach Kündigungsfrist durch schauen
 - [ ] was ist die mindst Kündigungsfrist in Deutschland 
-- [ ] AOK Zettel ausfüllen
 - [x] fritz Künkel Kapitel fertig lesen
 - [ ] Laufen gehen
 - [x] tastatur wischen
