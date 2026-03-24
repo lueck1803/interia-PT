@@ -1,5 +1,12 @@
 # unsortiert
-- [ ] AOK Zettel ausfüllen
+- [ ] ~={Crimson}AOK Zettel ausfüllen + hochladen=~ 
+- [ ] Zeug Angi vorbeibringen
+- [ ] Küche aufräumen
+- [ ] Bei Schulen vorbei schauen
+- [ ] Konto checken
+- [ ] Mischa wegen den Gehaltsabrechnungen Dez + Januar schreiben, sowie Februar. 
+	- [ ] Schauen ob ich noch zugriff mit lueck.walter@gmail.com habe
+	- [ ] Dann wegen den Stunden Seit 20.2. Da ich keinen Zugriff mehr auf Toggle hatte.
 - [ ] Waschbecken Küche 
 
 - [x] guitar pro tabs schließen bis auf swamphell und exercise in futility 
