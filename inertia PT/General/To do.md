@@ -5,6 +5,7 @@
 - [ ] Bei Schulen vorbei schauen
 - [ ] Konto checken
 - [ ] Mischa wegen den Gehaltsabrechnungen Dez + Januar schreiben, sowie Februar. 
+	- [ ] nochmal Vertrag wegen Kündigungsfrist und allgemein wegen Kündigungsfrist schauen
 	- [ ] Schauen ob ich noch zugriff mit lueck.walter@gmail.com habe
 	- [ ] Dann wegen den Stunden Seit 20.2. Da ich keinen Zugriff mehr auf Toggle hatte.
 - [ ] Waschbecken Küche 
