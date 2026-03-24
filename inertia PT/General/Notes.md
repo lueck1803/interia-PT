@@ -14,6 +14,23 @@ Kind regards
 Lukas Walter 
 # Nachrichten an Leute
 ### 26-03-24
+
+#### Email Benno
+Hallo Benno,
+
+wäre es möglich, dass wir zusammen mit dem Studienbüro sprechen könnten?
+
+Ich war so verunsichert über die Anforderungen, denen ich versucht habe in meinem Zustand gerecht zu werden.  
+Ich konnte meinen Zustand immerhin soweit verbessern, dass ich mich sortieren, die nächsten Schritte wagen und Ergebnisse liefern und diese in Form des Reports zu verfassen.  
+
+Den Rückmeldungen bin ich nachgekommen, im Prozess die Auswertungsmethode anhand eines über-dämpften ABP Systems zu überprüfen, habe ich mich wieder verrannt, was mich dann wieder mehr verunsichert und meinen Mut geraubt hat, weshalb es mir schwer fiel etwas zusammen zu schreiben.   
+  
+Nach Rücksprache mit Aritra, dem ich das Problem geschildert habe und was dessen Lösung bedarf, bin ich dran mein Proposal zusammen zu schreiben.  
+  
+Ich habe versucht und versuche den Umständen entsprechend dem gerecht zu werden.   
+  
+Ich werde, wie ich bereits in Vergangenheit geschildert habe, erst mit der Zeit wieder Herr über mich und meine Situation. Ich hatte in Vergangenheit keine Basis, wie ich aus dieser Situation heraus kommen sollte.   
+Die Situation und mich habe ich nicht verstanden. "Einfach machen" hat auch eher das Gegenteil bewirkt.
 #### Arthur 1
 Ok danke für die Rückmeldung.
 
