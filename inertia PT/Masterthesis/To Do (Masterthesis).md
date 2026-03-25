@@ -5,7 +5,14 @@
 - [ ] fork von AMEP erstellen
 - [ ] box algo code parallelize
 - [ ] finish / reinvestigate approach of july 2025 where 
-	- [ ] the peaks are filtered after the  one-sided stan height 
+	- [ ] the peaks are filtered after the one-sided standard deviation of the  height of the highest peak inside the rectangle box
+	- [ ] and afterwards after the standard deviation of the x-position around the highest peak
+	- [ ] and than the average of these peaks are calculated
+	- [ ] this approach is independent of the size of the outer rectangle box
+	- [ ] if the threshold for the peaks and pits are high, the total number of eval boxes are reduced, but not the quality of the placement is affected
+	- [ ] but there must be still a filter for 
+		- [ ] if the the eval square box is intersecting with the outer rectangle
+		- [ ] 
 - [ ] reset to the old algo from 1.1 or 2.2. and compare the behavior of the placement of 28k (snapshots)
 - [x] 28k with new algo and stdHalf as start value from .07 to .09. compare the bindercumulant results
 - [x] 3.5 k with stdhalf reevaluate 
