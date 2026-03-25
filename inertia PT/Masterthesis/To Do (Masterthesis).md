@@ -5,7 +5,7 @@
 - [ ] fork von AMEP erstellen
 - [ ] box algo code parallelize
 - [ ] finish / reinvestigate approach of july 2025 where 
-	- [ ] the peaks are filtered after the one-sided standard deviation of the  height of the highest peak inside the rectangle box
+	- [ ] the peaks are filtered after the one-sided standard deviation of the  height of the highest peak inside the rectangle box (the center of the standard deviation isn't the average height but the peak or the second moment with $c=\text{peak}$)
 	- [ ] and afterwards after the standard deviation of the x-position around the highest peak
 	- [ ] and than the average of these peaks are calculated
 	- [ ] this approach is independent of the size of the outer rectangle box
