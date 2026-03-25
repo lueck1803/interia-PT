@@ -14,6 +14,9 @@
 		- [ ] if the the eval square box is intersecting with the outer rectangle
 		- [ ] if dense and dilute boxes are overlapping, the threshold value for the width of the outer rectangle box is reduced
 			- [ ] or we are going back to the oldest approach that the rectangle box for the dilute phase is depending on the rectangle box of the dense phase. This avoids always the overlapping of the dilute and dense square boxes and also the overlapping of dense and dense and dilute and dilute boxes
+			1. here the best approach is to use the stdv for the threshold for peak/pit
+			2. the threshold is raised if the rectangle boxes are too narrow so that the square boxes aren't able fit in
+			3. the threshold is lowered if there are to few square boxes. (which shouldn't be the case)
 - [ ] reset to the old algo from 1.1 or 2.2. and compare the behavior of the placement of 28k (snapshots)
 - [x] 28k with new algo and stdHalf as start value from .07 to .09. compare the bindercumulant results
 - [x] 3.5 k with stdhalf reevaluate 
