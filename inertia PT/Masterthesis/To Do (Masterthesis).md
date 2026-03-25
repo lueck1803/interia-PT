@@ -3,6 +3,9 @@
 - [ ] wiki eintrag für jupyter on cluster verbessern
 - [ ] wiki eintrag für create simulation programm
 - [ ] fork von AMEP erstellen
+- [ ] box algo code parallelize
+- [ ] finish / reinvestigate approach of july 2025 where 
+	- [ ] the peaks are filtered after the  one-sided stan height 
 - [ ] reset to the old algo from 1.1 or 2.2. and compare the behavior of the placement of 28k (snapshots)
 - [x] 28k with new algo and stdHalf as start value from .07 to .09. compare the bindercumulant results
 - [x] 3.5 k with stdhalf reevaluate 
