@@ -2,8 +2,8 @@
 - [x] ~={Crimson}AOK Zettel ausfüllen + hochladen=~ 
 	- [x] ausfüllen 
 	- [x] Studienbescheinigung runterladen
-- [ ] Zeug Angi vorbeibringen
-	- [ ] mit ihr Termin für 26-03-25 6:30 pm ausgemacht
+- [x] Zeug Angi vorbeibringen
+	- [x] mit ihr Termin für 26-03-25 6:30 pm ausgemacht
 - [x] Küche aufräumen
 - [x] Wetterstation Batterien tauschen
 - [ ] Bei Schulen vorbei schauen
