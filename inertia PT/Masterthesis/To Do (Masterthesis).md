@@ -17,6 +17,7 @@
 			1. here the best approach is to use the stdv for the threshold for peak/pit
 			2. the threshold is raised if the rectangle boxes are too narrow so that the square boxes aren't able fit in
 			3. the threshold is lowered if there are to few square boxes. (which shouldn't be the case)
+			- here is no quality management or overlapping / collision management necessary
 - [ ] reset to the old algo from 1.1 or 2.2. and compare the behavior of the placement of 28k (snapshots)
 - [x] 28k with new algo and stdHalf as start value from .07 to .09. compare the bindercumulant results
 - [x] 3.5 k with stdhalf reevaluate 
