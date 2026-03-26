@@ -6,6 +6,7 @@
 - 3.-4.: 9:45 - 11:15
 - 5.-6.: 12:20 - 13:05
 
+6c armin,vergün, peyda,said 
 # Doppelbesetzung 
 Die Doppelbesetzung in Schulen bezeichnet den Einsatz von zwei pädagogischen Fachkräften (Lehrer, Sonderpädagogen, Sozialarbeiter oder Assistenten) in einer Unterrichtsstunde. Sie dient der individuellen Förderung, Inklusion und besseren Betreuung, besonders in Kernfächern wie Deutsch, Mathe oder Englisch, wird jedoch oft durch Lehrermangel eingeschränkt. 
 
