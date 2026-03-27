@@ -6,8 +6,10 @@
 	- [x] mit ihr Termin für 26-03-25 6:30 pm ausgemacht
 - [x] Küche aufräumen
 - [ ] ksk app contactless pay notification anstellen 
-- [ ] laptop tastatur wischen
+- [x] laptop tastatur wischen
 - [ ] bennos mail lesen
+- [ ] rasieren
+- [ ] Wäsche zusammen legen 
 - [ ] Termin mit seib glaszis ausmachen 
 - [ ] D-Ticket auf handy
 - [x] walnuss Pflanzen umsetzen 
