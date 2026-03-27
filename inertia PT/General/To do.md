@@ -12,7 +12,7 @@
 - [ ] D-Ticket auf handy
 - [ ] walnuss Pflanzen umsetzen 
 - [ ] Duschen 
-- [ ] 
+- [ ] staub saugen 
 - [ ] aldi
 - [ ] Bart 
 - [ ] Küche aufräumen 
