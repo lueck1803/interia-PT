@@ -9,6 +9,11 @@
 - [ ] bennos mail lesen
 - [ ] Termin mit seib glaszis ausmachen 
 - [ ] D-Ticket auf handy
+- [ ] walnuss Pflanzen umsetzen 
+- [ ] Duschen 
+- [ ] aldi
+- [ ] Bart 
+- [ ] Küche aufräumen 
 - [x] Wetterstation Batterien tauschen
 - [ ] Bei Schulen vorbei schauen
 - [ ] Konto checken
