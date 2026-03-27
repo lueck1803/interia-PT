@@ -15,8 +15,10 @@
 - [ ] staub saugen 
 - [ ] kraft Sport 
 - [ ] Toilette putzen 
-- [ ] Gitarre putzen 
+- [x] Gitarre putzen 
 - [ ] aldi
+	- [ ] Milchmäuse oder so kaufen um einige davon mit dem Teller zurück zu geben
+- [ ] was mit Gemüse und Tofu kochen
 - [ ] Bart 
 - [ ] Küche aufräumen 
 - [ ] müll runter 
