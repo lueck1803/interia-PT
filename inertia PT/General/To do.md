@@ -17,6 +17,7 @@
 - [ ] staub saugen 
 - [ ] kraft Sport 
 - [ ] Toilette putzen 
+- [ ] Gyros+pita aus Gefriertruhe essen
 - [x] Gitarre putzen 
 - [ ] aldi
 	- [ ] Milchmäuse oder so kaufen um einige davon mit dem Teller zurück zu geben

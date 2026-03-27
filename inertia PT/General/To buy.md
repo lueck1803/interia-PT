@@ -3,6 +3,7 @@
 - [ ] Pesto 
 - [ ] nusskati 
 - [ ] Marmelade 
+- [ ] hummus
 - [x] Kalk Stop tabs
 - [x] toast
 - [x] hummus 
