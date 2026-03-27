@@ -13,7 +13,21 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
-### 26-03-24
+## 26-03-27
+### Arthur (schicke ich nicht ab, da ich schon zu viel antworten gebe)
+Hast du Tipps beim Übergang auf triolen?
+
+Ich glaube bei mir liegt es aber noch dran dass ich beim triolen Teil noch etwas zu unsicher bin und mein Kurzzeitgedächtnis etwas zu schlecht ist. 
+
+Ich meinem Körper nicht so ganz das Vertrauen gebe.
+
+Und zu sehr denke ich müsste aktiv die Kontrolle haben.
+
+Ich hab gemerkt dass es da hilft alles ohne hinzuschauen zu üben.
+So zusagen eine Kontrollebene weg zu nehmen und mich mehr auf das Gefühl zu verlassen darauf zu vertrauen dass die Finger den weg finden. 
+
+Ich gehe aber auch mal davon aus dass ich den Übergang einfach erst nochmal langsamer üben muss.
+## 26-03-24
 
 #### Email Benno
 Hallo Benno,
