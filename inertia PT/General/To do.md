@@ -10,7 +10,7 @@
 - [ ] bennos mail lesen
 - [ ] Termin mit seib glaszis ausmachen 
 - [ ] D-Ticket auf handy
-- [ ] walnuss Pflanzen umsetzen 
+- [x] walnuss Pflanzen umsetzen 
 - [ ] Duschen 
 - [ ] staub saugen 
 - [ ] kraft Sport 
@@ -19,7 +19,8 @@
 - [ ] aldi
 	- [ ] Milchmäuse oder so kaufen um einige davon mit dem Teller zurück zu geben
 - [ ] was mit Gemüse und Tofu kochen
-- [ ] Bart 
+	- [ ] erst was mit den bohnen im Glas 
+- [x] Bart 
 - [ ] Küche aufräumen 
 - [ ] müll runter 
 - [ ] nadines socken weiter
