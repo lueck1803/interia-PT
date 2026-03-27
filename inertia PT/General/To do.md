@@ -13,6 +13,9 @@
 - [ ] walnuss Pflanzen umsetzen 
 - [ ] Duschen 
 - [ ] staub saugen 
+- [ ] kraft Sport 
+- [ ] Toilette putzen 
+- [ ] Gitarre putzen 
 - [ ] aldi
 - [ ] Bart 
 - [ ] Küche aufräumen 
