@@ -14,6 +14,8 @@
 - [ ] aldi
 - [ ] Bart 
 - [ ] Küche aufräumen 
+- [ ] müll runter 
+- [ ] nadines socken weiter
 - [x] Wetterstation Batterien tauschen
 - [ ] Bei Schulen vorbei schauen
 - [ ] Konto checken
