@@ -1,9 +1,9 @@
-- [ ] kalamata oliven
+- [x] kalamata oliven
 - [ ] grüne Erbsen 
 - [ ] Pesto 
-- [ ] nusskati 
-- [ ] Marmelade 
-- [ ] hummus
+- [x] nusskati 
+- [x] Marmelade 
+- [x] hummus
 - [x] Kalk Stop tabs
 - [x] toast
 - [x] hummus 
