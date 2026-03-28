@@ -157,7 +157,7 @@ $$
 	- [ ] forth
 	- [ ] fifth
 	and compare the Binder cumulants since this is also a change of the probing system size.
-- [ ] change the algo to:
+- [ ] change the algo in ~={DeepPink}need to eliminate the phase contributions=~ to:
 	- [ ] finish / reinvestigate approach of july 2025 where 
 		- [ ] the peaks are filtered after the one-sided standard deviation of the  height of the highest peak inside the rectangle box (the center of the standard deviation isn't the average height but the peak or the second moment with $c=\text{peak}$)
 		- [ ] and afterwards after the standard deviation of the x-position around the highest peak
