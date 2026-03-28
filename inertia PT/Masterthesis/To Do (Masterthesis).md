@@ -695,7 +695,8 @@ P_{L}(m)=
 \end{cases}
 $$
 - $M:=\frac{S}{L}$ and $A= \frac{S\left( \left< m \right> +1  \right)}{2}$ we get
-	- **(I)**  $L \le S - A = \frac{S}{2} \left( 1-\left< m \right> \right)$ ⟹ $A \le \frac{S}{L}$ 
+	- **(I)**  $L \le S - A = \frac{S}{2} \left( 1-\left< m \right> \right)$ ⟹ $L \le S - \frac{S\left( \left< m \right>+1 \right)}{2} =2S$ 
+	  ⤷$\frac{S}{L}=M \ge S \frac{\left( \left< m \right>+1 \right)}{2}$ 
 
 ## [Mukhopadhyay2025](https://doi.org/10.1038/s42005-025-02265-0) - Active adaptolates featuring motilityinduced percolating structures with an adaptive packing geometry
 
