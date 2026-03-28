@@ -669,6 +669,13 @@ This is old from 2009
 	- infos are in **User Guide** on the AMEP Page
 	  
 # Papers
+## M.Rovere1993~Simulation studies of gas-liquid transitions in two dimensions via a subsystem-block-density distribution analysis
+### 4. low temperature limit of the cumulants in the 2D-Ising model
+- 2D-Ising model on a square lattice in the groundstate at constant magnetization $\left< m \right> = -1 + 2 \left< \rho \right>$
+- The groundstate (or configuration of minimum free energy, respectively) is easily identified by the property of minimal interface energy of the states with spins pointing in opposite directions.
+- Let us denote the linear extension perpendicular to the interface of the area with positive spins by A. $$
+$$
+
 ## [Mukhopadhyay2025](https://doi.org/10.1038/s42005-025-02265-0) - Active adaptolates featuring motilityinduced percolating structures with an adaptive packing geometry
 
 ![](images/Papers/Mukhopadhyay2025-Fig3-a.png)
