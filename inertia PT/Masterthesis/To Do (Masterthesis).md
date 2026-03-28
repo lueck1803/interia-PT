@@ -149,6 +149,15 @@ $$
 - [ ] gescheiten Titel überlegen ⟹ criticality/universality of underdamped brownian particles non equilibrium 
 - [x] Unterschrift und Datum ändern
 - [ ] Date of submission
+## outlook
+- [ ] evaluating 112k and 224k with different box sizes
+	- [ ] max
+	- [ ] half
+	- [ ] third
+	- [ ] forth
+	- [ ] fifth
+	and compare the Binder cumulants since this is also a change of the probing system size.
+- [ ] change the algo to 
 
 ## to do
 - [ ] liste die paper bzgl. der universality class auf <span style="font-size:100%;color: limegreen;">einiges in Dittrich aufgelistet</span>
