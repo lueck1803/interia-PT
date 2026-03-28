@@ -679,15 +679,19 @@ $$
 - probability $P_{L}(m)$ for having the magnetization $m$ in subsystems of size $L \times L$ is for case
 	- **(I)** $L \le S - A = \frac{S}{2} \left( 1-\left< m \right> \right)$
 	  $$
-P_{L}(m)= \begin{cases}
-\frac{2}{S}  &m=-1+\frac{2i}{L}; {i=1,2,\dots,L-1}\\  
+P_{L}(m)=
+\begin{cases}
+\frac{2}{S}  &m=-1+\frac{2i}{L}; \quad \{i=1,2,\dots,L-1\}\\  
 \left( A-L+1 \right)/S  &m=+1 \\
 (S-A-L+1) /S &m=-1
 \end{cases}
 $$
 	- **(II)** $L>S-A$ $$
+P_{L}(m)=
 \begin{cases}
-m=1-\frac{2(S-A)}{L}\\
+\frac{2}{S} &m=-1+\frac{2i}{L};  \{i=S-A+1,\dots,L-1\}   \\
+ \left( L-S+A+1 \right) /S &  m=1-\frac{2(S-A)}{L}\\
+ (A-L+1) /S & m=1\\
 \end{cases}
 $$
 
