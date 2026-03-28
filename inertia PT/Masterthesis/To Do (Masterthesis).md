@@ -820,7 +820,7 @@ Benno
 	- position $\mathbf{r}_{i}(t)$
 	- the angle direction of its velocity $\mathbf{\Theta}_{i}(t)$ at time $t$
 - Discrete time evolution of one particle
-	- At each time step $\Delta t$ each agent aligns with its neighbours within a given distance $\mathbf{r}$ with an uncertainty due to a noise $\eta_{i}(t)$ 
+	- At each time step $\Delta t$ each agent aligns with its neighbors within a given distance $\mathbf{r}$ with an uncertainty due to a noise $\eta_{i}(t)$ 
 	  $$
 \mathbf{\Theta}_{i}(t+\Delta t)  = \langle \mathbf{\Theta}_{i} \rangle _{\left| r_{i}-r_{j} \right| <r} + \eta_{i}(t)
 $$
