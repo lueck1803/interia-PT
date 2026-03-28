@@ -1,8 +1,8 @@
 - [x] kalamata oliven
 - [ ] grüne Erbsen 
 - [ ] Pesto 
-- [ ] toast
-- [ ] müsli
+- [x] toast
+- [x] müsli
 - [x] nusskati 
 - [x] Marmelade 
 - [x] hummus
