@@ -157,7 +157,21 @@ $$
 	- [ ] forth
 	- [ ] fifth
 	and compare the Binder cumulants since this is also a change of the probing system size.
-- [ ] change the algo to 
+- [ ] change the algo to:
+	- [ ] finish / reinvestigate approach of july 2025 where 
+		- [ ] the peaks are filtered after the one-sided standard deviation of the  height of the highest peak inside the rectangle box (the center of the standard deviation isn't the average height but the peak or the second moment with $c=\text{peak}$)
+		- [ ] and afterwards after the standard deviation of the x-position around the highest peak
+		- [ ] and than the average of these peaks are calculated
+		- [ ] this approach is independent of the size of the outer rectangle box
+		- [ ] if the threshold for the peaks and pits are high, the total number of eval boxes are reduced, but not the quality of the placement is affected
+		- [ ] but there must be still a filter for 
+			- [ ] if the the eval square box is intersecting with the outer rectangle
+			- [ ] if dense and dilute boxes are overlapping, the threshold value for the width of the outer rectangle box is reduced
+				- [ ] or we are going back to the oldest approach that the rectangle box for the dilute phase is depending on the rectangle box of the dense phase. This avoids always the overlapping of the dilute and dense square boxes and also the overlapping of dense and dense and dilute and dilute boxes
+				1. here the best approach is to use the stdv for the threshold for peak/pit
+				2. the threshold is raised if the rectangle boxes are too narrow so that the square boxes aren't able fit in
+				3. the threshold is lowered if there are to few square boxes. (which shouldn't be the case)
+				- here is no quality management or overlapping / collision management necessary
 
 ## to do
 - [ ] liste die paper bzgl. der universality class auf <span style="font-size:100%;color: limegreen;">einiges in Dittrich aufgelistet</span>
