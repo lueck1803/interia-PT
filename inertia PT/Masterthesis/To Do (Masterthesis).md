@@ -674,6 +674,14 @@ This is old from 2009
 - 2D-Ising model on a square lattice in the groundstate at constant magnetization $\left< m \right> = -1 + 2 \left< \rho \right>$
 - The groundstate (or configuration of minimum free energy, respectively) is easily identified by the property of minimal interface energy of the states with spins pointing in opposite directions.
 - Let us denote the linear extension perpendicular to the interface of the area with positive spins by A. $$
+A= \frac{S\left( \left< m \right> +1  \right)}{2}
+$$
+- probability $P_{L}(m)$ for having the magnetization $m$ in subsystems of size $L \times L$ is for case
+	- **(I)** $L \le S - A = \frac{S}{2} \left( 1-\left< m \right> \right)$
+	  $$
+P_{L}(m)= \begin{cases}
+\frac{2}{S} \hfill m=-1+\frac{2i}{L}; {i=1,2,}\\ 
+\end{cases}
 $$
 
 ## [Mukhopadhyay2025](https://doi.org/10.1038/s42005-025-02265-0) - Active adaptolates featuring motilityinduced percolating structures with an adaptive packing geometry
