@@ -1643,6 +1643,9 @@ R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 
  ⃝◢  ⃞ ⃞ ⃞ ◣ ⃝ ⃞  ~={blue}3=~
 ⃞ ⃞ ⃞ ⃞ ⃞ ⃞  ◣ ⃝   ~={Crimson}1=~
 
+### Lochmuster Blumen
+
+
 # Französisch
 ## accents 
 - Accent Aigu (é): Only on 'e'. Produces a closed "eh" sound like:
