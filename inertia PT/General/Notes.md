@@ -1653,7 +1653,7 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
  ⃞ ⃞ ⃞ ⃞ ⃞  ⃞ ⃞ ⃞ ⃞ ⃞ | ⃞ ⃞ ⃞+ ~={Tomato}11=~
  ⃞ ⃞ ⃞ ⃞ ⃞ ◣ ⃝ ⃞ ⃝◢  | ⃞ ⃞ ⃞+ ~={DarkViolet}9=~
  ⃞ ⃞ ⃞ ⃞ ⃞ ◣ ⃝ ⃞ ⃝◢  | ⃞ ⃞ ⃞+ ~={pink}7=~
- ⃞ ⃞ ⃞ ⃞  ◣ ⃝ ⃞ ⃞ ⃞ ⃝|◢  ⃞ ⃞+ ~={MediumSpringGreen}5=~
+ ◢ ⃞ ⃞ ⃞  ◣ ⃝ ⃞ ⃞ ⃞ ⃝|◢  ⃞ ⃞+ ~={MediumSpringGreen}5=~
  ⃞ ⃞ ⃞ ⃞ ⃞ ◣ ⃝ ⃞ ⃝◢ | ⃞ ⃞ ⃞+ ~={blue}3=~
  ⃞ ⃞ ⃞ ⃞ ⃞  ⃞ ⃞ ⃞ ⃞ ⃞| ⃞ ⃞ ⃞+  ~={Crimson}1=~
 ⭡ Mustersatz.                    ⭡
