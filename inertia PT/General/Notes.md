@@ -1607,22 +1607,25 @@ Sollte sich rechtes und linkes Abketten direkt folgen und nicht zwei Rechte und 
 - [x] beide Socken zweite Reihe Rechts verschränkt .
 ### Zunahme
 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12
-⟹30M
+⟹30M (auf der gesamten Socke 60M)
+18 Runden
 Ich bleibe dabei
-26 M Zunahme ~ 8.06 + .31 cm ~ 8.37
+~~(26 M Zunahme ~ 8.06 + .31 cm ~ 8.37)~~
 ### Reihen nach ~~Spickel~~ Fußspitze 
 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R
 
-20×
+20× + 18 von der Zunahme = 38
 
-<span style="font-size:100%;color:red;">mache auch ne rautenferse</span>
-### fuß
-21. ✅✅✅✅
-22. ✅✅✅✅
-23. ✅✅✅✅
-24. ✅✅✅✅
-25. ✅✅
-
+<span style="font-size:100%;color:red;">mache auch ne rautenferse</span> ~={purple}NE=~
+### ~~fuß~~ Reihen seit Anschlag (soll 15cm)
+39. ✅✅✅✅
+40. ✅✅✅✅
+41. ✅✅✅✅
+42. ✅✅✅✅
+43. ✅✅
+~={DeepSkyBlue}Ich mache =~ ~={DeepPink}keinen=~ ~={DeepSkyBlue}Spickel, dafür mache ich ein =~ ~={Gold}Lochmuster=~ 
+### Lochmuster ab Reihe 43
+| | | | | |̆ ◣
 
 # Französisch
 ## accents 
