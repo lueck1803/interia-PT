@@ -1633,8 +1633,9 @@ R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 
  ⃞ = rechte Masche
  gerade Reihen glatt rechts!
 
-◣ ⃝ ⃞ ⃞ ⃞ ⃝ ▲
-⃞ ⃝◢   ⃞ ◣ ⃝ ⃞ ⃞  ~={MediumSpringGreen}5=~
+ ⃞  ⃞  ◣ ⃝ ⃞ ⃞ ⃞ ⃞
+◣ ⃝ ⃞ ⃞ ⃞ ⃝ ▲ ⃝    ~={pink}7=~
+⃞ ⃝◢ ⃞ ◣ ⃝ ⃞ ⃞  ~={MediumSpringGreen}5=~
  ⃝◢  ⃞ ⃞ ⃞ ◣ ⃝ ⃞  ~={blue}3=~
 ⃞ ⃞ ⃞ ⃞ ⃞ ⃞  ◣ ⃝   ~={Crimson}1=~
 
