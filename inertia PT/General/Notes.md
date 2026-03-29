@@ -1625,6 +1625,12 @@ R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 
 43. ✅✅
 ~={DeepSkyBlue}Ich mache =~ ~={DeepPink}keinen=~ ~={DeepSkyBlue}Spickel, dafür mache ich ein =~ ~={Gold}Lochmuster=~ 
 ### Lochmuster ab Reihe 43
+⃝ = Wickelmasche
+◣ = 2M abheben und rechts zusammen stricken (SSK)
+◢ = 2M rechts zusammen stricken (k2tog)
+ ⃞ = rechte Masche
+ gerade Reihen glatt rechts!
+
  ⃝◢  ⃞ ⃞ ⃞ ◣ ⃝ ⃞  ~={blue}3=~
 ⃞ ⃞ ⃞ ⃞ ⃞ ⃞  ◣ ⃝  ~={Crimson}1=~
 
