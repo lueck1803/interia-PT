@@ -20,8 +20,8 @@
 - [ ] Toilette putzen 
 - [ ] Gyros+pita aus Gefriertruhe essen
 - [x] Gitarre putzen 
-- [ ] aldi
-	- [ ] Milchmäuse oder so kaufen um einige davon mit dem Teller zurück zu geben
+- [x] aldi
+	- [x] Milchmäuse oder so kaufen um einige davon mit dem Teller zurück zu geben
 - [ ] was mit Gemüse und Tofu kochen
 	- [ ] erst was mit den bohnen im Glas 
 - [x] Bart 
