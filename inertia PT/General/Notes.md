@@ -1622,8 +1622,8 @@ R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 
 40. ✅✅✅✅
 41. ✅✅✅✅
 42. ✅✅✅✅
-43. ✅✅
-~={DeepSkyBlue}Ich mache =~ ~={DeepPink}keinen=~ ~={DeepSkyBlue}Spickel, dafür mache ich ein =~ ~={Gold}Lochmuster=~ 
+43. ✅✅ ~={blue}3=~
+~={DeepSkyBlue}Ich mache =~ ~={DeepPink}keinen=~ ~={DeepSkyBlue}Spickel, dafür mache ich ein =~ ~={Gold}Lochmuster=~ ~={purple}Blumenmuster=~
 ### Lochmuster ab Reihe 43
 ⃝ = Wickelmasche
 ◣ = ~~2M abheben und rechts (verschränkt) zusammen stricken (SSK) oder~~
@@ -1634,6 +1634,7 @@ R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 
  ⃞ = rechte Masche
  gerade Reihen glatt rechts!
 
+#### Traumfänger/herzähnlich
  ⃞ ⃝▲ ⃝ ◣ ⃝ ⃞ ⃞ ~={DeepPink}15=~
 ◣ ⃝ ⃞  ⃞ ⃞ ⃝◢  ⃞ ~={Teal}13=~
  ⃞ ◣ ⃝ ⃞ ⃝◢  ⃞ ⃞ ~={Tomato}11=~
@@ -1643,7 +1644,7 @@ R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 
  ⃝◢  ⃞ ⃞ ⃞ ◣ ⃝ ⃞  ~={blue}3=~
 ⃞ ⃞ ⃞ ⃞ ⃞ ⃞  ◣ ⃝   ~={Crimson}1=~
 
-### Lochmuster Blumen
+#### Lochmuster ~={purple}Blumen=~
 ◣ ⃝ ⃞ ⃝◢ ⃞ ⃞ ⃞ ⃞ ⃞ ◣ ⃝ ⃞+~={ForestGreen}19=~
 ◣ ⃝ ⃞ ⃝◢ ⃞ ⃞ ⃞ ⃞ ⃞ ◣ ⃝ ⃞+~={Gold}17=~
  ⃝ ⃞ ⃞ ⃞ ⃝◢  ⃞ ⃞ ⃞  ◣ ⃝ ⃞ ⃞+~={DeepPink}15=~
