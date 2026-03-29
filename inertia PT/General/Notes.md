@@ -1622,7 +1622,7 @@ R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 
 40. ✅✅✅✅
 41. ✅✅✅✅
 42. ✅✅✅✅
-43. ✅✅ ~={blue}3=~
+43. ✅✅ (~={blue}3 3 3=~) 
 ~={DeepSkyBlue}Ich mache =~ ~={DeepPink}keinen=~ ~={DeepSkyBlue}Spickel, dafür mache ich ein =~ ~={Gold}Lochmuster=~ ~={purple}Blumenmuster=~
 Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit ist.
 ### Lochmuster ab Reihe 43
