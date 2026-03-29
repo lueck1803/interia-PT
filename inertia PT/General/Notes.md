@@ -1623,7 +1623,7 @@ R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 
 41. ✅✅✅✅
 42. ✅✅✅✅
 43. ✅✅
-
+~={DeepSkyBlue}Ich mache =~ ~={DeepPink}keinen=~ ~={DeepSkyBlue}Spickel, dafür mache ich ein =~ ~={Gold}Lochmuster=~ 
 
 # Französisch
 ## accents 
