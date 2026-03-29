@@ -4,11 +4,7 @@
 - [ ] Pesto 
 - [x] toast
 - [x] müsli
-- [x] nusskati 
-- [x] Marmelade 
 - [x] hummus
-- [x] Kalk Stop tabs
-- [x] toast
 - [x] hummus 
 - [x] Hafermilch 
 
