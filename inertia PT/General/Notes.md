@@ -1614,15 +1614,15 @@ Ich bleibe dabei
 ### Reihen nach ~~Spickel~~ Fußspitze 
 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R
 
-20×
+20× + 18 von der Zunahme = 38
 
-<span style="font-size:100%;color:red;">mache auch ne rautenferse</span>
-### fuß
-21. ✅✅✅✅
-22. ✅✅✅✅
-23. ✅✅✅✅
-24. ✅✅✅✅
-25. ✅✅
+<span style="font-size:100%;color:red;">mache auch ne rautenferse</span> ~={purple}NE=~
+### ~~fuß~~ Reihen seit Anschlag 
+39. ✅✅✅✅
+40. ✅✅✅✅
+41. ✅✅✅✅
+42. ✅✅✅✅
+43. ✅✅
 
 
 # Französisch
