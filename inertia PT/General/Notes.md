@@ -1617,7 +1617,7 @@ R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 
 20× + 18 von der Zunahme = 38
 
 <span style="font-size:100%;color:red;">mache auch ne rautenferse</span> ~={purple}NE=~
-### ~~fuß~~ Reihen seit Anschlag (soll 15cm) laut Anleitung von Victoria (21cm bis Ferse)
+### fuß Reihen seit Anschlag (soll 15cm) laut Anleitung von Victoria (21cm bis Ferse)
 ~={DeepSkyBlue}Ich mache =~ ~={DeepPink}keinen=~ ~={DeepSkyBlue}Spickel, dafür mache ich ein =~ ~={Gold}Lochmuster=~ ~={purple}Blumenmuster=~
 Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit ist.
 39. ✅✅✅✅
