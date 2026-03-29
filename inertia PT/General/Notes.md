@@ -1626,7 +1626,7 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 42. ✅✅✅✅
 43. ✅✅ (~={blue}3 3 3=~) (~={blue}3 3 3=~)
 44. ✅✅✅✅
-45. ✅✅
+45. ✅✅ (~={MediumSpringGreen}5 =~)
 
 ### Lochmuster ab Reihe 43
 ⃝ = Wickelmasche
