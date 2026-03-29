@@ -1624,6 +1624,7 @@ R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 
 42. ✅✅✅✅
 43. ✅✅ ~={blue}3=~
 ~={DeepSkyBlue}Ich mache =~ ~={DeepPink}keinen=~ ~={DeepSkyBlue}Spickel, dafür mache ich ein =~ ~={Gold}Lochmuster=~ ~={purple}Blumenmuster=~
+Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit ist.
 ### Lochmuster ab Reihe 43
 ⃝ = Wickelmasche
 ◣ = ~~2M abheben und rechts (verschränkt) zusammen stricken (SSK) oder~~
@@ -1645,16 +1646,16 @@ R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 
 ⃞ ⃞ ⃞ ⃞ ⃞ ⃞  ◣ ⃝   ~={Crimson}1=~
 
 #### Lochmuster ~={purple}Blumen=~
-◣ ⃝ ⃞ ⃝◢ ⃞ ⃞ ⃞ ⃞ ⃞ ◣ ⃝ ⃞+~={ForestGreen}19=~
-◣ ⃝ ⃞ ⃝◢ ⃞ ⃞ ⃞ ⃞ ⃞ ◣ ⃝ ⃞+~={Gold}17=~
- ⃝ ⃞ ⃞ ⃞ ⃝◢  ⃞ ⃞ ⃞  ◣ ⃝ ⃞ ⃞+~={DeepPink}15=~
- ◣ ⃝ ⃞ ⃝◢ ⃞ ⃞ ⃞ ⃞ ⃞ ◣ ⃝ ⃞+~={Teal}13=~
- ⃞ ⃞ ⃞ ⃞ ⃞  ⃞ ⃞ ⃞ ⃞ ⃞ ⃞ ⃞ ⃞+ ~={Tomato}11=~
- ⃞ ⃞ ⃞ ⃞ ⃞ ◣ ⃝ ⃞ ⃝◢  ⃞ ⃞ ⃞+ ~={DarkViolet}9=~
- ⃞ ⃞ ⃞ ⃞ ⃞ ◣ ⃝ ⃞ ⃝◢  ⃞ ⃞ ⃞+ ~={pink}7=~
- ⃞ ⃞ ⃞ ⃞  ◣ ⃝ ⃞ ⃞ ⃞ ⃝◢  ⃞ ⃞+ ~={MediumSpringGreen}5=~
- ⃞ ⃞ ⃞ ⃞ ⃞ ◣ ⃝ ⃞ ⃝◢  ⃞ ⃞ ⃞+ ~={blue}3=~
- ⃞ ⃞ ⃞ ⃞ ⃞  ⃞ ⃞ ⃞ ⃞ ⃞ ⃞ ⃞ ⃞+  ~={Crimson}1=~
+◣ ⃝ ⃞ ⃝◢ ⃞ ⃞  ⃞  ⃞  ⃞ | ◣ ⃝ ⃞+~={ForestGreen}19=~
+◣ ⃝ ⃞ ⃝◢ ⃞ ⃞  ⃞  ⃞  ⃞ | ◣ ⃝ ⃞+~={Gold}17=~
+ ⃝ ⃞ ⃞ ⃞ ⃝◢  ⃞ ⃞ ⃞ ◣ | ⃝ ⃞ ⃞+~={DeepPink}15=~
+ ◣ ⃝ ⃞ ⃝◢ ⃞ ⃞ ⃞  ⃞ ⃞ | ◣ ⃝ ⃞+~={Teal}13=~
+ ⃞ ⃞ ⃞ ⃞ ⃞  ⃞ ⃞ ⃞ ⃞ ⃞ | ⃞ ⃞ ⃞+ ~={Tomato}11=~
+ ⃞ ⃞ ⃞ ⃞ ⃞ ◣ ⃝ ⃞ ⃝◢  | ⃞ ⃞ ⃞+ ~={DarkViolet}9=~
+ ⃞ ⃞ ⃞ ⃞ ⃞ ◣ ⃝ ⃞ ⃝◢  | ⃞ ⃞ ⃞+ ~={pink}7=~
+ ⃞ ⃞ ⃞ ⃞  ◣ ⃝ ⃞ ⃞ ⃞ ⃝|◢  ⃞ ⃞+ ~={MediumSpringGreen}5=~
+ ⃞ ⃞ ⃞ ⃞ ⃞ ◣ ⃝ ⃞ ⃝◢ | ⃞ ⃞ ⃞+ ~={blue}3=~
+ ⃞ ⃞ ⃞ ⃞ ⃞  ⃞ ⃞ ⃞ ⃞ ⃞| ⃞ ⃞ ⃞+  ~={Crimson}1=~
 ⭡ Mustersatz.                    ⭡
 # Französisch
 ## accents 
