@@ -1625,7 +1625,8 @@ R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 
 43. ✅✅
 ~={DeepSkyBlue}Ich mache =~ ~={DeepPink}keinen=~ ~={DeepSkyBlue}Spickel, dafür mache ich ein =~ ~={Gold}Lochmuster=~ 
 ### Lochmuster ab Reihe 43
-| | | | | |̆ ◣ ⃝
+ ⃝◢  ⃞ ⃞ ⃞ ◣ ⃝ ⃞  ~={blue}3=~
+⃞ ⃞ ⃞ ⃞ ⃞ ⃞  ◣ ⃝  ~={Crimson}1=~
 
 # Französisch
 ## accents 
