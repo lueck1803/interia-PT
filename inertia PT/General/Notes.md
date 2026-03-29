@@ -1649,10 +1649,10 @@ R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 
  ⃞ ◣ ⃝ ⃞ ⃝◢  ⃞ ⃞  +~={Tomato}11=~
  ⃞ ⃞ ◣ ⃝ ⃞ ⃞ ⃞ ⃞  + ~={DarkViolet}9=~
 ◣ ⃝ ⃞ ⃞ ⃞ ⃝▲ ⃝    + ~={pink}7=~
-⃞ ⃝◢ ⃞ ◣ ⃝ ⃞ ⃞   + ~={MediumSpringGreen}5=~
- ⃝◢  ⃞ ⃞ ⃞ ◣ ⃝ ⃞ + ~={blue}3=~
- ⃞ ⃞ ⃞ ⃞ ⃞ ◣ ⃝ ⃞ ⃝◢  ⃞ ⃞ ⃞+  ~={Crimson}1=~
-
+⃞ ⃞ ⃞ ⃞  ◣ ⃝ ⃞ ⃞ ⃞ ⃝◢  ⃞ ⃞+ ~={MediumSpringGreen}5=~
+ ⃞ ⃞ ⃞ ⃞ ⃞ ◣ ⃝ ⃞ ⃝◢  ⃞ ⃞ ⃞+ ~={blue}3=~
+ ⃞ ⃞ ⃞ ⃞ ⃞  ⃞ ⃞ ⃞ ⃞ ⃞ ⃞ ⃞ ⃞+  ~={Crimson}1=~
+⭡ Mustersatz.                    ⭡
 # Französisch
 ## accents 
 - Accent Aigu (é): Only on 'e'. Produces a closed "eh" sound like:
