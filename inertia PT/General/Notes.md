@@ -1608,8 +1608,9 @@ Sollte sich rechtes und linkes Abketten direkt folgen und nicht zwei Rechte und 
 ### Zunahme
 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12
 ⟹30M
+18 Runden
 Ich bleibe dabei
-26 M Zunahme ~ 8.06 + .31 cm ~ 8.37
+~~(26 M Zunahme ~ 8.06 + .31 cm ~ 8.37)~~
 ### Reihen nach ~~Spickel~~ Fußspitze 
 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R
 
