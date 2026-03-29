@@ -1617,15 +1617,16 @@ R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 
 20× + 18 von der Zunahme = 38
 
 <span style="font-size:100%;color:red;">mache auch ne rautenferse</span> ~={purple}NE=~
-### ~~fuß~~ Reihen seit Anschlag (soll 15cm)
+### ~~fuß~~ Reihen seit Anschlag (soll 15cm) laut Anleitung von Victoria (21cm bis Ferse)
+~={DeepSkyBlue}Ich mache =~ ~={DeepPink}keinen=~ ~={DeepSkyBlue}Spickel, dafür mache ich ein =~ ~={Gold}Lochmuster=~ ~={purple}Blumenmuster=~
+Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit ist.
 39. ✅✅✅✅
 40. ✅✅✅✅
 41. ✅✅✅✅
 42. ✅✅✅✅
 43. ✅✅ (~={blue}3 3 3=~) (~={blue}3 3 3=~)
-44. 
-~={DeepSkyBlue}Ich mache =~ ~={DeepPink}keinen=~ ~={DeepSkyBlue}Spickel, dafür mache ich ein =~ ~={Gold}Lochmuster=~ ~={purple}Blumenmuster=~
-Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit ist.
+44. ✅
+
 ### Lochmuster ab Reihe 43
 ⃝ = Wickelmasche
 ◣ = ~~2M abheben und rechts (verschränkt) zusammen stricken (SSK) oder~~
@@ -1635,17 +1636,6 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 3 M rechts zusammenstricken.
  ⃞ = rechte Masche
  gerade Reihen glatt rechts!
-
-#### Traumfänger/herzähnlich
- ⃞ ⃝▲ ⃝ ◣ ⃝ ⃞ ⃞ ~={DeepPink}15=~
-◣ ⃝ ⃞  ⃞ ⃞ ⃝◢  ⃞ ~={Teal}13=~
- ⃞ ◣ ⃝ ⃞ ⃝◢  ⃞ ⃞ ~={Tomato}11=~
- ⃞ ⃞ ◣ ⃝ ⃞ ⃞ ⃞ ⃞ ~={DarkViolet}9=~
-◣ ⃝ ⃞ ⃞ ⃞ ⃝▲ ⃝   ~={pink}7=~
-⃞ ⃝◢ ⃞ ◣ ⃝ ⃞ ⃞  ~={MediumSpringGreen}5=~
- ⃝◢  ⃞ ⃞ ⃞ ◣ ⃝ ⃞  ~={blue}3=~
-⃞ ⃞ ⃞ ⃞ ⃞ ⃞  ◣ ⃝   ~={Crimson}1=~
-
 #### Lochmuster ~={purple}Blumen=~
 ◣ ⃝ ⃞ ⃝◢ ⃞ ⃞  ⃞  ⃞  ⃞ | ◣ ⃝ ⃞+~={ForestGreen}19=~
 ◣ ⃝ ⃞ ⃝◢ ⃞ ⃞  ⃞  ⃞  ⃞ | ◣ ⃝ ⃞+~={Gold}17=~
@@ -1658,6 +1648,15 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
  ⃞ ⃞ ⃞ ⃞ ⃞ ◣ ⃝ ⃞ ⃝◢ | ⃞ ⃞ ⃞+ ~={blue}3=~
  ⃞ ⃞ ⃞ ⃞ ⃞  ⃞ ⃞ ⃞ ⃞ ⃞| ⃞ ⃞ ⃞+  ~={Crimson}1=~
 ⭡ Mustersatz.                    ⭡
+#### Traumfänger/herzähnlich
+ ⃞ ⃝▲ ⃝ ◣ ⃝ ⃞ ⃞ ~={DeepPink}15=~
+◣ ⃝ ⃞  ⃞ ⃞ ⃝◢  ⃞ ~={Teal}13=~
+ ⃞ ◣ ⃝ ⃞ ⃝◢  ⃞ ⃞ ~={Tomato}11=~
+ ⃞ ⃞ ◣ ⃝ ⃞ ⃞ ⃞ ⃞ ~={DarkViolet}9=~
+◣ ⃝ ⃞ ⃞ ⃞ ⃝▲ ⃝   ~={pink}7=~
+⃞ ⃝◢ ⃞ ◣ ⃝ ⃞ ⃞  ~={MediumSpringGreen}5=~
+ ⃝◢  ⃞ ⃞ ⃞ ◣ ⃝ ⃞  ~={blue}3=~
+⃞ ⃞ ⃞ ⃞ ⃞ ⃞  ◣ ⃝   ~={Crimson}1=~
 # Französisch
 ## accents 
 - Accent Aigu (é): Only on 'e'. Produces a closed "eh" sound like:
