@@ -5,7 +5,7 @@
 - [x] Zeug Angi vorbeibringen
 	- [x] mit ihr Termin für 26-03-25 6:30 pm ausgemacht
 - [x] Küche aufräumen
-- [ ] uhren umstellen 
+- [x] uhren umstellen 
 - [ ] ksk app contactless pay notification anstellen 
 - [x] laptop tastatur wischen
 - [ ] bennos mail lesen
