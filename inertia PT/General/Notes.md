@@ -1628,7 +1628,7 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 ### Lochmuster ab Reihe 43
 ⃝ = Wickelmasche
 ◣ = ~~2M abheben und rechts (verschränkt) zusammen stricken (SSK) oder~~
-1 Masche abheben, 1 Masche rechts, die abgehobene Masche überziehen
+1 M rechts abheben, die folgende M rechts stricken und die abgehobene M darüberziehen
 ◢ = 2M links von der zweiten Masche einstechen und rechts zusammen stricken (k2tog)
 ▲ = 1 Masche abheben, 2 Maschen rechts zusammenstricken, die abgehobene Masche überziehen oder
 3 M rechts zusammenstricken.
