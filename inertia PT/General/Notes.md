@@ -1617,7 +1617,7 @@ R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 
 20× + 18 von der Zunahme = 38
 
 <span style="font-size:100%;color:red;">mache auch ne rautenferse</span> ~={purple}NE=~
-### ~~fuß~~ Reihen seit Anschlag 
+### ~~fuß~~ Reihen seit Anschlag (soll 15cm)
 39. ✅✅✅✅
 40. ✅✅✅✅
 41. ✅✅✅✅
