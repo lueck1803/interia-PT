@@ -1629,7 +1629,8 @@ R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 
 ◣ = ~~2M abheben und rechts (verschränkt) zusammen stricken (SSK) oder~~
 1 Masche abheben, 1 Masche rechts, die abgehobene Masche überziehen
 ◢ = 2M links von der zweiten Masche einstechen und rechts zusammen stricken (k2tog)
-▲ = 1 Masche abheben, 2 Maschen rechts zusammenstricken, die abgehobene Masche überziehen
+▲ = 1 Masche abheben, 2 Maschen rechts zusammenstricken, die abgehobene Masche überziehen oder
+3 M rechts zusammenstricken.
  ⃞ = rechte Masche
  gerade Reihen glatt rechts!
 
