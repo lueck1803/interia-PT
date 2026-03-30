@@ -20,8 +20,8 @@
 - [ ] Termin mit seib glaszis ausmachen 
 - [ ] D-Ticket auf handy
 - [x] Duschen 
-- [ ] staub saugen 
-- [ ] wischen 
+- [x] staub saugen 
+- [x] wischen 
 - [ ] kraft Sport 
 - [x] Toilette putzen 
 - [ ] Gyros+pita aus Gefriertruhe essen
