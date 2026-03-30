@@ -8,13 +8,17 @@
 - [x] uhren umstellen 
 - [ ] ksk app contactless pay notification anstellen 
 - [ ] Glasmüll weg 
+- [ ] Backbleche fertig spülen 
+	- [ ] Ofen putzen 
+	- [ ] Backbleche wegräumen 
+- [ ] Esstisch wischen 
 - [x] laptop tastatur wischen
 - [ ] bennos mail lesen
 - [x] rasieren
 - [x] Wäsche zusammen legen 
 - [ ] Termin mit seib glaszis ausmachen 
 - [ ] D-Ticket auf handy
-- [ ] Duschen 
+- [x] Duschen 
 - [ ] staub saugen 
 - [ ] kraft Sport 
 - [ ] Toilette putzen 
