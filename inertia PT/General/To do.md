@@ -7,13 +7,13 @@
 - [x] Küche aufräumen
 - [x] uhren umstellen 
 - [ ] ksk app contactless pay notification anstellen 
+- [ ] Glasmüll weg 
 - [x] laptop tastatur wischen
 - [ ] bennos mail lesen
-- [ ] rasieren
+- [x] rasieren
 - [x] Wäsche zusammen legen 
 - [ ] Termin mit seib glaszis ausmachen 
 - [ ] D-Ticket auf handy
-- [x] walnuss Pflanzen umsetzen 
 - [ ] Duschen 
 - [ ] staub saugen 
 - [ ] kraft Sport 
