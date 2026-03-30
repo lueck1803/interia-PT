@@ -13,6 +13,15 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+## 26-03-30
+Hallo Lisa,
+danke für das Gespräch.
+
+Und danke auch dass ihr mir dann gesagt habt, an welchem Tag das "Boxereignis" war. 
+
+Dass ihr mir auf die Sprünge geholfen habt, an welchem 
+
+Ich konnte mich daraufhin auch wieder an die Gesamtsituation, so wie die jeweilige Situation bzw.  eine weitere erinnern die ungeschickt war und als solche gedeutet werden konnte/könnte.
 ## 26-03-27
 ### Arthur (schicke ich nicht ab, da ich schon zu viel antworten gebe)
 Hast du Tipps beim Übergang auf triolen?
