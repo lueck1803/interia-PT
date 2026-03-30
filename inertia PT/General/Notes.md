@@ -1644,7 +1644,7 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 51. ✅✅ ~={Tomato}11=~ ~={Tomato}11=~
 52. ✅✅ ~={Crimson}eigentlich hätte ich noch ne reihe dazwischen machen müssen=~ (~={ForestGreen}13 13 13=~) (~={ForestGreen}13 13 13=~)
 53. ✅✅✅✅
-54. ✅✅
+54. ✅✅(~={Crimson}15 15 15=~) (~={Crimson}=~)
 
 ### Lochmuster ab Reihe 43
 ⃝ = Wickelmasche
