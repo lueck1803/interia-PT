@@ -7,7 +7,8 @@
 - [x] Küche aufräumen
 - [x] uhren umstellen 
 - [ ] ksk app contactless pay notification anstellen 
-- [ ] Glasmüll weg 
+- [ ] Glasmüll weg
+- [ ] küchenuhr checken 
 - [ ] Backbleche fertig spülen 
 	- [ ] Ofen putzen 
 	- [ ] Backbleche wegräumen 
