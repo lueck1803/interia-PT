@@ -11,7 +11,7 @@
 - [ ] Backbleche fertig spülen 
 	- [ ] Ofen putzen 
 	- [ ] Backbleche wegräumen 
-- [ ] Esstisch wischen 
+- [x] Esstisch wischen 
 - [x] laptop tastatur wischen
 - [ ] bennos mail lesen
 - [x] rasieren
@@ -20,6 +20,7 @@
 - [ ] D-Ticket auf handy
 - [x] Duschen 
 - [ ] staub saugen 
+- [ ] wischen 
 - [ ] kraft Sport 
 - [ ] Toilette putzen 
 - [ ] Gyros+pita aus Gefriertruhe essen
