@@ -7,7 +7,7 @@
 - [x] Küche aufräumen
 - [x] uhren umstellen 
 - [ ] ksk app contactless pay notification anstellen 
-- [ ] Glasmüll weg
+- [x] Glasmüll weg
 - [ ] küchenuhr checken 
 - [ ] Backbleche fertig spülen 
 	- [ ] Ofen putzen 
@@ -23,7 +23,7 @@
 - [ ] staub saugen 
 - [ ] wischen 
 - [ ] kraft Sport 
-- [ ] Toilette putzen 
+- [x] Toilette putzen 
 - [ ] Gyros+pita aus Gefriertruhe essen
 - [x] Gitarre putzen 
 - [x] aldi
@@ -32,8 +32,8 @@
 	- [ ] erst was mit den bohnen im Glas 
 - [x] Bart 
 - [ ] Küche aufräumen 
-- [ ] müll runter 
-- [ ] nadines socken weiter
+- [x] müll runter 
+- [x] nadines socken weiter
 - [x] Wetterstation Batterien tauschen
 - [ ] Bei Schulen vorbei schauen
 - [ ] Konto checken
