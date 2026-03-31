@@ -1,3 +1,5 @@
+# fast notes
+- 
 # Geschäftliche Nachrichten 
 Dear Spatial Business ~={Crimson}Integration=~ Team,
 
@@ -720,10 +722,6 @@ Meine Fragen dazu sind:
 	- wieder waschen und dann in die Waschmaschine 
 	- aufpassen mit welcher Kleidung du es zusammen wäscht, kann trotz allem noch abfärben 
 - wie wäre es alternativ mit Verzierungen mit Applikationen?
-# fast notes
-- latex suite:
-  {trigger: "|", replacement: "|$0|$1", options: "mA"},
-- ![](Pasted%20image%2020251205205458.png)
 # Arbeit
 - 
 # Tage infolge Produktiv
@@ -980,7 +978,8 @@ a = s + " is a message"
 # the line above is the highlighted line
 ```
 # Latex Suite
- {trigger: "Brk", replacement: "\\Braket{$0} $1", options: "mA"},
+- {trigger: "|", replacement: "|$0|$1", options: "mA"},
+ - {trigger: "Brk", replacement: "\\Braket{$0} $1", options: "mA"},
  
 $\Braket{\int \frac{ \partial r }{ \partial t }^{2} \, dx}$
 $\Braket{\frac{x}{y}^{2}\cdot x^{2}}$
@@ -1847,3 +1846,5 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 - Polycarbonat Recycling Code 
 	- 7 +PC
 	- 7+PCT ⟹anderer Kunststoff, aus der Polyester Familie = BPA frei 
+# Philosophie 
+- ![](Pasted%20image%2020251205205458.png)
