@@ -670,7 +670,16 @@ flowchart TB
 		- github copilot - you can upgrade it with TU account
 	- visual studio code (installable on ubuntu)
 		- codex plugin
-		- showed how use it and it produced the whole code for plotting 
+		- showed how use it and it produced the whole code for plotting and fitting
+		- you only have to check it
+		- ![[Pasted image 20260331123047.png]]
+		- he uploaded a handwritten note ~={LightBlue}he did it with antigravity=~
+		  ![[Pasted image 20260331123310.png]]
+		- and it translated it into latex code 
+		  ![[Pasted image 20260331123341.png]]
+		- it also did the stability analysis and the coding for him
+		  ![[Pasted image 20260331123450.png]]
+		- 
 - me:
 	- if you want it more confidential
 		- use the european ones like mistral, which are more confidential with the data
