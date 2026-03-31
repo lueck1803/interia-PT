@@ -2,14 +2,14 @@
 - [ ] ~={Crimson}Wie schaffe ich es immer aroused zu sein?=~
 - [ ] ~={Crimson}Tisch aufräumen!=~
 - [ ] bennos mail lesen
-- [ ] reifen Druck checken
+- [ ] Reifendruck checken
 - [ ] Aldi neben an checken wegen
 	- [ ] pesto
 	- [ ] Erbsen 
 	- falls nicht vorhanden in den ~={LawnGreen}Aldi neben Mömax =~
 - [ ] ~={Magenta}hessenbox=~ vom laptop entfernen
 - [ ] check for new mac os update - the next newer than Sonoma
-- ~={LawnGreen}browser=~ aufräumen
+- [x] ~={LawnGreen}browser=~ aufräumen
 - [ ] Aritra fragen wie er genau alles in visual studio code eingerichtet hat
 - [ ] emails aufräumen
 	- [ ] jean-lueck
@@ -22,12 +22,9 @@
 	- [ ] Ofen putzen 
 	- [ ] Backbleche wegräumen  
 - [ ] Termin mit seib glaszis ausmachen 
-- [ ] D-Ticket auf handy
-- [x] Duschen 
-- [x] staub saugen 
+- [ ] D-Ticket auf handy 
 - [ ] kraft Sport 
 - [ ] Gyros+pita aus Gefriertruhe essen
-- [x] Gitarre putzen 
 - [ ] was mit Gemüse und Tofu kochen
 	- [ ] erst was mit den bohnen im Glas 
 - [ ] Bei Schulen vorbei schauen
@@ -37,6 +34,9 @@
 	- [ ] Schauen ob ich noch zugriff mit lueck.walter@gmail.com habe
 	- [ ] Dann wegen den Stunden Seit 20.2. Da ich keinen Zugriff mehr auf Toggle hatte.
 - [ ] Waschbecken Küche 
+- [x] Gitarre putzen 
+- [x] Duschen 
+- [x] staub saugen
 - [x] müll runter 
 - [x] Küche aufräumen
 - [x] Esstisch wischen 
@@ -45,7 +45,6 @@
 - [x] laptop tastatur wischen
 - [x] Wäsche zusammen legen
 - [x] Toilette putzen 
-- [ ] 
 - [x] guitar pro tabs schließen bis auf swamphell und exercise in futility 
 	- [x] laptop 
 	- [x] PC 
