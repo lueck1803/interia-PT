@@ -1780,7 +1780,9 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 
 - *Sans doute parce qu'il souriait beaucoup et parlait peu. Sans doute parce qu'il semblait échapper à l'agitation ordinaire des mortels, surtout des mortels parisiens, ne bougeant jamais, telle une branche greffée sur son tabouret, ne rangeant jamais son étal devant qui que ce soit, et disparaissant on ne sait où entre minuit et huit heures du matin.*
 	- Vielleicht, weil er viel lächelte und wenig sprach. Vielleicht, weil er dem alltäglichen Trubel der Sterblichen, insbesondere der Pariser, zu entfliehen schien; er rührte sich nie, wie ein Zweig, der fest auf seinem Stamm sitzt, räumte nie vor irgendjemandem seinen Platz auf und verschwand spurlos zwischen Mitternacht und acht Uhr morgens.
-- Tous les jours donc, je faisais les courses et les repas. Je n'achetais que des boîtes de conserve. Si je les achetais tous les jours, ce n'était pas pour qu'elles soient fraîches, non mais parce que mon père, il ne me laissait l
+- *Tous les jours donc, je faisais les courses et les repas. Je~={Crimson} n'=~achetais ~={Crimson}que=~ des boîtes de conserve. Si je les achetais tous les jours, ce n'était pas pour qu'elles soient fraîches, non mais parce que mon père, il ne me laissait l'argent que pour une journée, et puis c'était plus facile à cuisiner.*
+	- Also ging ich jeden Tag einkaufen und bereitete die Mahlzeiten zu. Ich kaufte ~={Crimson}ausschließlich=~ Konserven. Dass ich sie täglich kaufte, lag nicht daran, dass sie frisch waren, nein, sondern daran, dass mein Vater mir nur genug Geld für einen Tag gab, und außerdem war es einfacher zu kochen.
+- 
 # Chemie
 ## BPA
 ### ist ~={Crimson}kein=~ Weichmacher
