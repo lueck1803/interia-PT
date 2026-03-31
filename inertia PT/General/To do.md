@@ -4,6 +4,7 @@
 - [ ] bennos mail lesen
 - [ ] Reifendruck checken
 - [ ] Spülmaschine ausräumen
+- [ ] Erbsen 
 - [ ] Aldi neben an checken wegen
 	- [ ] pesto
 	- [ ] Erbsen 
