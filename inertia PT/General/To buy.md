@@ -1,6 +1,6 @@
 - [ ] Backpapier
 - [ ] Hafermilch 
-- [ ] fusili
+- [ ] Fusilli
 - [ ] grüne Erbsen 
 - [ ] Pesto 
 - [x] toast
