@@ -3,35 +3,6 @@
     {
       "colors": [
         {
-          "color": "#dc143c",
-          "id": "Crimson",
-          "keybind": "",
-          "italic": false,
-          "bold": false,
-          "cap_mode": {
-            "states": [
-              "normal",
-              "all_caps",
-              "small_caps"
-            ],
-            "state": "normal",
-            "index": 0
-          },
-          "line_mode": {
-            "states": [
-              "none",
-              "underline",
-              "overline",
-              "line-through"
-            ],
-            "state": "none",
-            "index": 0
-          },
-          "useCssColorVariable": false,
-          "colorVariable": "--color-base-00",
-          "className": "ftc-color-builtin-Crimson"
-        },
-        {
           "color": "#000000",
           "id": "red",
           "keybind": "R",
@@ -63,7 +34,7 @@
         {
           "color": "#ff6347",
           "id": "Tomato",
-          "keybind": "T",
+          "keybind": "",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -119,38 +90,9 @@
           "className": "ftc-color-builtin-orange"
         },
         {
-          "color": "#8b4513",
-          "id": "Brown",
-          "keybind": "",
-          "italic": false,
-          "bold": false,
-          "cap_mode": {
-            "states": [
-              "normal",
-              "all_caps",
-              "small_caps"
-            ],
-            "state": "normal",
-            "index": 0
-          },
-          "line_mode": {
-            "states": [
-              "none",
-              "underline",
-              "overline",
-              "line-through"
-            ],
-            "state": "none",
-            "index": 0
-          },
-          "useCssColorVariable": false,
-          "colorVariable": "--color-base-00",
-          "className": "ftc-color-builtin-Brown"
-        },
-        {
           "color": "#ffd700",
           "id": "Gold",
-          "keybind": "A",
+          "keybind": "",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -206,35 +148,6 @@
           "className": "ftc-color-builtin-yellow"
         },
         {
-          "color": "#228b22",
-          "id": "ForestGreen",
-          "keybind": "F",
-          "italic": false,
-          "bold": false,
-          "cap_mode": {
-            "states": [
-              "normal",
-              "all_caps",
-              "small_caps"
-            ],
-            "state": "normal",
-            "index": 0
-          },
-          "line_mode": {
-            "states": [
-              "none",
-              "underline",
-              "overline",
-              "line-through"
-            ],
-            "state": "none",
-            "index": 0
-          },
-          "useCssColorVariable": false,
-          "colorVariable": "--color-base-00",
-          "className": "ftc-color-builtin-ForestGreen"
-        },
-        {
           "color": "#000000",
           "id": "green",
           "keybind": "G",
@@ -264,9 +177,9 @@
           "className": "ftc-color-builtin-green"
         },
         {
-          "color": "#00fa9a",
-          "id": "MediumSpringGreen",
-          "keybind": "M",
+          "color": "#000000",
+          "id": "cyan",
+          "keybind": "C",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -288,13 +201,13 @@
             "state": "none",
             "index": 0
           },
-          "useCssColorVariable": false,
-          "colorVariable": "--color-base-00",
-          "className": "ftc-color-builtin-MediumSpringGreen"
+          "useCssColorVariable": true,
+          "colorVariable": "--color-cyan",
+          "className": "ftc-color-builtin-cyan"
         },
         {
-          "color": "#008080",
-          "id": "Teal",
+          "color": "#00fa9a",
+          "id": "MediumSpringGreen",
           "keybind": "",
           "italic": false,
           "bold": false,
@@ -319,7 +232,7 @@
           },
           "useCssColorVariable": false,
           "colorVariable": "--color-base-00",
-          "className": "ftc-color-builtin-Teal"
+          "className": "ftc-color-builtin-MediumSpringGreen"
         },
         {
           "color": "#1e90ff",
@@ -353,7 +266,7 @@
         {
           "color": "#00bfff",
           "id": "DeepSkyBlue",
-          "keybind": "S",
+          "keybind": "",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -409,35 +322,6 @@
           "className": "ftc-color-builtin-purple"
         },
         {
-          "color": "#9400d3",
-          "id": "DarkViolet",
-          "keybind": "",
-          "italic": false,
-          "bold": false,
-          "cap_mode": {
-            "states": [
-              "normal",
-              "all_caps",
-              "small_caps"
-            ],
-            "state": "normal",
-            "index": 0
-          },
-          "line_mode": {
-            "states": [
-              "none",
-              "underline",
-              "overline",
-              "line-through"
-            ],
-            "state": "none",
-            "index": 0
-          },
-          "useCssColorVariable": false,
-          "colorVariable": "--color-base-00",
-          "className": "ftc-color-builtin-DarkViolet"
-        },
-        {
           "color": "#000000",
           "id": "pink",
           "keybind": "I",
@@ -469,7 +353,7 @@
         {
           "color": "#ff1493",
           "id": "DeepPink",
-          "keybind": "D",
+          "keybind": "",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -496,8 +380,8 @@
           "className": "ftc-color-builtin-DeepPink"
         },
         {
-          "color": "#4137ff",
-          "id": "RoyalBlue",
+          "color": "#228b22",
+          "id": "ForestGreen",
           "keybind": "",
           "italic": false,
           "bold": false,
@@ -522,11 +406,11 @@
           },
           "useCssColorVariable": false,
           "colorVariable": "--color-base-00",
-          "className": "ftc-color-builtin-RoyalBlue"
+          "className": "ftc-color-builtin-ForestGreen"
         },
         {
-          "color": "#87cefa",
-          "id": "LightBlue",
+          "color": "#ffffff",
+          "id": "test",
           "keybind": "",
           "italic": false,
           "bold": false,
@@ -551,7 +435,7 @@
           },
           "useCssColorVariable": false,
           "colorVariable": "--color-base-00",
-          "className": "ftc-color-builtin-LightBlue"
+          "className": "ftc-color-builtin-test"
         }
       ],
       "name": "builtin"
@@ -768,7 +652,7 @@
   "themeIndex": 0,
   "version": "3",
   "interactiveDelimiters": true,
-  "useKeybindings": false,
+  "useKeybindings": true,
   "useNodeRebuilding": false,
   "colorCodeSection": true
 }
