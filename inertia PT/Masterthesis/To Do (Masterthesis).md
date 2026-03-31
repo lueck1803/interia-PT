@@ -649,9 +649,16 @@ flowchart TB
 	- but if you use it for the form, writing errors, translation and shortening only
 	- check your calculations
 	- doing analytical stuff
-	- che
+	- checked an old paper of him if everything is correct:
+		- this didnt work for the whole paper, because it didnt understand some approximations
+		- but if you use it for sections step by step and check it, it works quite well
 - kayro:
-	- quite good for 
+	- quite good for analytics if you have some insight what is the outcome of it
+- aritra:
+	- gemini Nano bana pro:
+		- good for image generation
+		  ![[Pasted image 20260331120941.png]]
+	- 
 
 ## 25-11-28: Feng(25-04) Theory from the anomalous phase behavior of inertial active Brownian particles
 - $\mathcal{S}=\frac{\varepsilon}{\zeta U_{0}\sigma}$ gives us a measure for how much can particles overlap?
