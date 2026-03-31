@@ -4,6 +4,7 @@
 - [ ] grüne Erbsen 
 - [ ] Pesto 
 - [ ] Bananen 
+- [ ] Brausetabletten rot
 - [x] toast
 - [x] müsli
 - [x] hummus
