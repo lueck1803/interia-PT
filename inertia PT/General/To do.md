@@ -21,7 +21,6 @@
 - [x] Duschen 
 - [x] staub saugen 
 - [ ] kraft Sport 
-- [x] Toilette putzen 
 - [ ] Gyros+pita aus Gefriertruhe essen
 - [x] Gitarre putzen 
 - [ ] was mit Gemüse und Tofu kochen
@@ -40,7 +39,8 @@
 - [x] nadines socken weiter
 - [x] laptop tastatur wischen
 - [x] Wäsche zusammen legen
-
+- [x] Toilette putzen 
+- [ ] 
 - [x] guitar pro tabs schließen bis auf swamphell und exercise in futility 
 	- [x] laptop 
 	- [x] PC 
