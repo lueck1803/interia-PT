@@ -1,6 +1,8 @@
 # Vertretungsunterricht 
 
 ## Bernhard Adelung Schule 
+### Raumplan 
+~={red}Hier Bild einfügen =~
 ### Zeiten
 - 1.-2.: 7:55 - 9:25
 - 3.-4.: 9:45 - 11:15

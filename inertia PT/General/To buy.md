@@ -1,12 +1,14 @@
-- [x] kalamata oliven
-- [ ] Backpapier 
+- [ ] Backpapier
+- [ ] Hafermilch 
+- [ ] Fusilli
 - [ ] grüne Erbsen 
 - [ ] Pesto 
+- [ ] Bananen 
+- [ ] Brausetabletten rot
 - [x] toast
 - [x] müsli
 - [x] hummus
-- [x] hummus 
-- [x] Hafermilch 
+- [x] kalamata oliven
 
 # non food
 - [ ] kleinen Schneebesen 

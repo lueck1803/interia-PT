@@ -2,14 +2,21 @@
 - [ ] ~={Crimson}Wie schaffe ich es immer aroused zu sein?=~
 - [ ] ~={Crimson}Tisch aufräumen!=~
 - [ ] bennos mail lesen
-- [ ] hessenbox vom laptop entfernen
+- [ ] Reifendruck checken
+- [ ] Spülmaschine ausräumen
+- [ ] Erbsen kochen
+- [ ] Aldi neben an checken wegen
+	- [ ] pesto
+	- [ ] Erbsen 
+	- falls nicht vorhanden in den ~={LawnGreen}Aldi neben Mömax =~
+- [ ] ~={Magenta}hessenbox=~ vom laptop entfernen
 - [ ] check for new mac os update - the next newer than Sonoma
-- [ ] browser aufräumen
+- [x] ~={LawnGreen}browser=~ aufräumen
 - [ ] Aritra fragen wie er genau alles in visual studio code eingerichtet hat
 - [ ] emails aufräumen
 	- [ ] jean-lueck
 	- [ ] lukasludwigwalter
-- [ ] Email von der walther gruppe entfernen
+- [x] Email von der walther gruppe entfernen
 - [ ] ksk app contactless pay notification anstellen 
 - [ ] nochmal über thunderbolt karte nachdenken
 - [ ] maus reparieren
@@ -17,12 +24,9 @@
 	- [ ] Ofen putzen 
 	- [ ] Backbleche wegräumen  
 - [ ] Termin mit seib glaszis ausmachen 
-- [ ] D-Ticket auf handy
-- [x] Duschen 
-- [x] staub saugen 
+- [ ] D-Ticket auf handy 
 - [ ] kraft Sport 
 - [ ] Gyros+pita aus Gefriertruhe essen
-- [x] Gitarre putzen 
 - [ ] was mit Gemüse und Tofu kochen
 	- [ ] erst was mit den bohnen im Glas 
 - [ ] Bei Schulen vorbei schauen
@@ -32,6 +36,9 @@
 	- [ ] Schauen ob ich noch zugriff mit lueck.walter@gmail.com habe
 	- [ ] Dann wegen den Stunden Seit 20.2. Da ich keinen Zugriff mehr auf Toggle hatte.
 - [ ] Waschbecken Küche 
+- [x] Gitarre putzen 
+- [x] Duschen 
+- [x] staub saugen
 - [x] müll runter 
 - [x] Küche aufräumen
 - [x] Esstisch wischen 
@@ -40,7 +47,6 @@
 - [x] laptop tastatur wischen
 - [x] Wäsche zusammen legen
 - [x] Toilette putzen 
-- [ ] 
 - [x] guitar pro tabs schließen bis auf swamphell und exercise in futility 
 	- [x] laptop 
 	- [x] PC 
@@ -91,7 +97,6 @@
 - [x] socken fertig
 - [ ] Socken an der Spitze vernähen 
 - [ ] Socken einpacken 
-- [ ] Chiphalter reparieren 
 - [ ] Duolingo türkisch screenshots älter als 25-09-30 vom handy löschen
 - [ ] VSS Formular ausfüllen
 	- [x] Versicherungszeiten AOK runterladen
@@ -422,7 +427,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] Papa zeigen wie er gerade und ungerade Seiten eines scans merged
 	- hat mit scan Gear viel besser geklappt als mit pdftk
 # wenn ich lust und zeit habe
-- [ ] Fenster putzen 
+- [x] Fenster putzen 
 - Carcassonne 
 	- [ ] Eclipse Updaten
 	- [ ] java updaten
@@ -438,7 +443,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [ ] Klodeckel
 - [ ] Ackerbohnen säen
 	- [ ] ahl
-	- [ ] Balkon 
+	- [x] Balkon 
 - aus Destilliertem Wasserbehälter
 	- [ ] Behälter für carnivoren 
 		- ich hab diese Glaskaraffe 
@@ -447,7 +452,6 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 	- [ ] mini outdoor Gewächshaus 
 - [ ] dusche dampfen
 	- ⟹Dusche habe ich aber geschrubbt
-- [ ] Uhr reparieren 
 - [x] Sauerteig auffrischen 
       <span style="font-size:100%;color:gold;">⟹Egal in irgendein Fladenbrot hauen und dann egal</span> Ist <span style="font-size:100%;color:red;">Ablenkung</span> Wenn ich leckeres Brot gehe, dann gehe ich zum Bäcker und stopfe mein Gehirn nicht mit unwichtigem Zeug voll
 - Fermentieren
@@ -457,6 +461,9 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 	- hat ganz gut geklappt mit der kleinen Akkuflex 
 
 # Nähen, Malen, Basteln und Reparieren 
+- [ ] Uhr reparieren 
+- [ ] Chiphalter reparieren 
+	- metall 2 Komponenten Kleber verwenden 
 - [ ] neue Saiten auf Akustik 
 	- [ ] Griffbrett säubern
 	- [ ] Klinkenanschluss wieder anbringen 
