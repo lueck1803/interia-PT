@@ -636,7 +636,10 @@ flowchart TB
 - certain obvious tasks
 	- shorten a text
 	- proof it for language
-	- 
+	- we have to proof it always
+	- ask llm to look for coherence
+	- there are many non obvious hallucination 
+		- especially if you are not familiar with the subject 
 
 
 ## 25-11-28: Feng(25-04) Theory from the anomalous phase behavior of inertial active Brownian particles
