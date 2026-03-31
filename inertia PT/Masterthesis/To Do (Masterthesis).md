@@ -661,6 +661,12 @@ flowchart TB
 		- better than chat gpt
 		- you can upload an image you already have and it can manipulates it quite well
 		- but the out come is much better if you give it good context
+	- click the button - that they don't use your da
+- me:
+	- if you want it more confidential
+		- use the european ones like mistral, which are more confidential with the data
+		- or the TU 
+	- if something is already in the internet it doesn't matter, because it was already scraped by the american and they don't care on the creative commons
 
 ## 25-11-28: Feng(25-04) Theory from the anomalous phase behavior of inertial active Brownian particles
 - $\mathcal{S}=\frac{\varepsilon}{\zeta U_{0}\sigma}$ gives us a measure for how much can particles overlap?
