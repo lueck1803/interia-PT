@@ -658,7 +658,9 @@ flowchart TB
 	- gemini Nano bana pro:
 		- good for image generation
 		  ![[Pasted image 20260331120941.png]]
-	- 
+		- better than chat gpt
+		- you can upload an image you already have and it can manipulates it quite well
+		- but the out come is much better if you give it good context
 
 ## 25-11-28: Feng(25-04) Theory from the anomalous phase behavior of inertial active Brownian particles
 - $\mathcal{S}=\frac{\varepsilon}{\zeta U_{0}\sigma}$ gives us a measure for how much can particles overlap?
