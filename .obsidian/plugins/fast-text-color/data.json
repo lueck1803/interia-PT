@@ -264,6 +264,35 @@
           "className": "ftc-color-builtin-green"
         },
         {
+          "color": "#7cfc00",
+          "id": "LawnGreen",
+          "keybind": "",
+          "italic": false,
+          "bold": false,
+          "cap_mode": {
+            "states": [
+              "normal",
+              "all_caps",
+              "small_caps"
+            ],
+            "state": "normal",
+            "index": 0
+          },
+          "line_mode": {
+            "states": [
+              "none",
+              "underline",
+              "overline",
+              "line-through"
+            ],
+            "state": "none",
+            "index": 0
+          },
+          "useCssColorVariable": false,
+          "colorVariable": "--color-base-00",
+          "className": "ftc-color-builtin-LawnGreen"
+        },
+        {
           "color": "#00fa9a",
           "id": "MediumSpringGreen",
           "keybind": "M",
@@ -378,6 +407,64 @@
           "useCssColorVariable": false,
           "colorVariable": "--color-base-00",
           "className": "ftc-color-builtin-DeepSkyBlue"
+        },
+        {
+          "color": "#87cefa",
+          "id": "LightBlue",
+          "keybind": "",
+          "italic": false,
+          "bold": false,
+          "cap_mode": {
+            "states": [
+              "normal",
+              "all_caps",
+              "small_caps"
+            ],
+            "state": "normal",
+            "index": 0
+          },
+          "line_mode": {
+            "states": [
+              "none",
+              "underline",
+              "overline",
+              "line-through"
+            ],
+            "state": "none",
+            "index": 0
+          },
+          "useCssColorVariable": false,
+          "colorVariable": "--color-base-00",
+          "className": "ftc-color-builtin-LightBlue"
+        },
+        {
+          "color": "#4137ff",
+          "id": "RoyalBlue",
+          "keybind": "",
+          "italic": false,
+          "bold": false,
+          "cap_mode": {
+            "states": [
+              "normal",
+              "all_caps",
+              "small_caps"
+            ],
+            "state": "normal",
+            "index": 0
+          },
+          "line_mode": {
+            "states": [
+              "none",
+              "underline",
+              "overline",
+              "line-through"
+            ],
+            "state": "none",
+            "index": 0
+          },
+          "useCssColorVariable": false,
+          "colorVariable": "--color-base-00",
+          "className": "ftc-color-builtin-RoyalBlue"
         },
         {
           "color": "#000000",
@@ -496,8 +583,8 @@
           "className": "ftc-color-builtin-DeepPink"
         },
         {
-          "color": "#4137ff",
-          "id": "RoyalBlue",
+          "color": "#ffffff",
+          "id": "Magenta",
           "keybind": "",
           "italic": false,
           "bold": false,
@@ -522,36 +609,7 @@
           },
           "useCssColorVariable": false,
           "colorVariable": "--color-base-00",
-          "className": "ftc-color-builtin-RoyalBlue"
-        },
-        {
-          "color": "#87cefa",
-          "id": "LightBlue",
-          "keybind": "",
-          "italic": false,
-          "bold": false,
-          "cap_mode": {
-            "states": [
-              "normal",
-              "all_caps",
-              "small_caps"
-            ],
-            "state": "normal",
-            "index": 0
-          },
-          "line_mode": {
-            "states": [
-              "none",
-              "underline",
-              "overline",
-              "line-through"
-            ],
-            "state": "none",
-            "index": 0
-          },
-          "useCssColorVariable": false,
-          "colorVariable": "--color-base-00",
-          "className": "ftc-color-builtin-LightBlue"
+          "className": "ftc-color-builtin-Magenta"
         }
       ],
       "name": "builtin"
