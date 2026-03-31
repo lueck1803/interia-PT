@@ -940,10 +940,9 @@ https://youtu.be/Yz9Bj9kEtKc?t=17m18s
 import numpy
 import math
 
-print("hello world")
-
-# th is the highlighted line
-
+s = "hello world"
+a = s + " is a message"
+# the line above is the highlighted line
 ```
 # Latex Suite
  {trigger: "Brk", replacement: "\\Braket{$0} $1", options: "mA"},
