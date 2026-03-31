@@ -1,7 +1,7 @@
 # unsorted tasks
 - [x] copy general plot to the non plot script
 - [ ] wiki eintrag für jupyter on cluster verbessern
-- [ ] set up visual studio code for amep
+- [ ] set up visual studio code for amep auch am uni rechner
 	- [ ] fix all branching 
 	- [ ] and sort git hub
 	- [ ] 
@@ -648,6 +648,7 @@ flowchart TB
 	- llm are much better for coding, were it is really reliable
 	- doing simulations
 	- but for text production there is an order of magnitude in quality
+	- doesn't read documen
 - Benno:
 	- if you dont use it for text quality / content
 	- but if you use it for the form, writing errors, translation and shortening only
