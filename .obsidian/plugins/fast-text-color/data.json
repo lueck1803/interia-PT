@@ -583,7 +583,7 @@
           "className": "ftc-color-builtin-DeepPink"
         },
         {
-          "color": "#ffffff",
+          "color": "#ff00ff",
           "id": "Magenta",
           "keybind": "",
           "italic": false,
