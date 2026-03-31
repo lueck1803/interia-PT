@@ -3,10 +3,11 @@
 - [ ] ~={Crimson}Tisch aufräumen!=~
 - [ ] bennos mail lesen
 - [ ] browser aufräumen
-- [ ] Aritra fragen 
+- [ ] Aritra fragen wie er genau alles in visual studio code eingerichtet hat
 - [ ] emails aufräumen
 	- [ ] jean-lueck
 	- [ ] lukasludwigwalter
+- [ ] Email von der walther gruppe entfernen
 - [ ] ksk app contactless pay notification anstellen 
 - [ ] nochmal über thunderbolt karte nachdenken
 - [ ] maus reparieren

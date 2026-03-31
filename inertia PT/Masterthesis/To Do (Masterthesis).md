@@ -4,7 +4,9 @@
 - [ ] set up visual studio code for amep auch am uni rechner
 	- [ ] fix all branching 
 	- [ ] and sort git hub
-	- [ ] 
+	- [ ] use llm to get the code sorted
+	- [ ] and plan the coding
+	- [ ] re-evaluating the 
 - [ ] wiki eintrag für create simulation programm
 - [ ] fork von AMEP erstellen
 - [ ] box algo code parallelize
@@ -648,7 +650,7 @@ flowchart TB
 	- llm are much better for coding, were it is really reliable
 	- doing simulations
 	- but for text production there is an order of magnitude in quality
-	- doesn't read documen
+	- doesn't read documentation by his own any more
 - Benno:
 	- if you dont use it for text quality / content
 	- but if you use it for the form, writing errors, translation and shortening only
@@ -659,6 +661,7 @@ flowchart TB
 		- but if you use it for sections step by step and check it, it works quite well
 	- there is no way to fighting it away
 	- it feels very uncomfortable if you did this for years and the llms do it much better in much shorter time
+	- human like counter part who you can ask
 - kayro:
 	- quite good for analytics if you have some insight what is the outcome of it
 - aritra:
