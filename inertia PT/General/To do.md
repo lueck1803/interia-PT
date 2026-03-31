@@ -3,6 +3,7 @@
 - [ ] ~={Crimson}Tisch aufräumen!=~
 - [ ] bennos mail lesen
 - [ ] hessenbox vom laptop entfernen
+- [ ] check for new mac os update - the 
 - [ ] browser aufräumen
 - [ ] Aritra fragen wie er genau alles in visual studio code eingerichtet hat
 - [ ] emails aufräumen
