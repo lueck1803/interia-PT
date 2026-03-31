@@ -97,7 +97,6 @@
 - [x] socken fertig
 - [ ] Socken an der Spitze vernähen 
 - [ ] Socken einpacken 
-- [ ] Chiphalter reparieren 
 - [ ] Duolingo türkisch screenshots älter als 25-09-30 vom handy löschen
 - [ ] VSS Formular ausfüllen
 	- [x] Versicherungszeiten AOK runterladen
@@ -428,7 +427,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] Papa zeigen wie er gerade und ungerade Seiten eines scans merged
 	- hat mit scan Gear viel besser geklappt als mit pdftk
 # wenn ich lust und zeit habe
-- [ ] Fenster putzen 
+- [x] Fenster putzen 
 - Carcassonne 
 	- [ ] Eclipse Updaten
 	- [ ] java updaten
@@ -444,7 +443,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [ ] Klodeckel
 - [ ] Ackerbohnen säen
 	- [ ] ahl
-	- [ ] Balkon 
+	- [x] Balkon 
 - aus Destilliertem Wasserbehälter
 	- [ ] Behälter für carnivoren 
 		- ich hab diese Glaskaraffe 
@@ -453,7 +452,6 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 	- [ ] mini outdoor Gewächshaus 
 - [ ] dusche dampfen
 	- ⟹Dusche habe ich aber geschrubbt
-- [ ] Uhr reparieren 
 - [x] Sauerteig auffrischen 
       <span style="font-size:100%;color:gold;">⟹Egal in irgendein Fladenbrot hauen und dann egal</span> Ist <span style="font-size:100%;color:red;">Ablenkung</span> Wenn ich leckeres Brot gehe, dann gehe ich zum Bäcker und stopfe mein Gehirn nicht mit unwichtigem Zeug voll
 - Fermentieren
@@ -463,6 +461,9 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 	- hat ganz gut geklappt mit der kleinen Akkuflex 
 
 # Nähen, Malen, Basteln und Reparieren 
+- [ ] Uhr reparieren 
+- [ ] Chiphalter reparieren 
+	- metall 2 Komponenten Kleber verwenden 
 - [ ] neue Saiten auf Akustik 
 	- [ ] Griffbrett säubern
 	- [ ] Klinkenanschluss wieder anbringen 
