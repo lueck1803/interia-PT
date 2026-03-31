@@ -2,36 +2,28 @@
 - [ ] ~={Crimson}Wie schaffe ich es immer aroused zu sein?=~
 - [ ] ~={Crimson}Tisch aufräumen!=~
 - [ ] bennos mail lesen
+- [ ] browser aufräumen
 - [ ] Aritra fragen 
-- [x] Küche aufräumen
-- [ ] job news letter deabonnieren
+- [ ] emails aufräumen
+	- [ ] jean-lueck
+	- [ ] lukasludwigwalter
 - [ ] ksk app contactless pay notification anstellen 
 - [ ] nochmal über thunderbolt karte nachdenken
 - [ ] maus reparieren
 - [x] Backbleche fertig spülen 
 	- [ ] Ofen putzen 
 	- [ ] Backbleche wegräumen 
-- [x] Esstisch wischen 
-- [x] laptop tastatur wischen
 - [x] Wäsche zusammen legen 
 - [ ] Termin mit seib glaszis ausmachen 
 - [ ] D-Ticket auf handy
 - [x] Duschen 
 - [x] staub saugen 
-- [x] wischen 
 - [ ] kraft Sport 
 - [x] Toilette putzen 
 - [ ] Gyros+pita aus Gefriertruhe essen
 - [x] Gitarre putzen 
-- [x] aldi
-	- [x] Milchmäuse oder so kaufen um einige davon mit dem Teller zurück zu geben
 - [ ] was mit Gemüse und Tofu kochen
 	- [ ] erst was mit den bohnen im Glas 
-- [x] Bart 
-- [ ] Küche aufräumen 
-- [x] müll runter 
-- [x] nadines socken weiter
-- [x] Wetterstation Batterien tauschen
 - [ ] Bei Schulen vorbei schauen
 - [ ] Konto checken
 - [ ] Mischa wegen den Gehaltsabrechnungen Dez + Januar schreiben, sowie Februar. 
@@ -39,6 +31,13 @@
 	- [ ] Schauen ob ich noch zugriff mit lueck.walter@gmail.com habe
 	- [ ] Dann wegen den Stunden Seit 20.2. Da ich keinen Zugriff mehr auf Toggle hatte.
 - [ ] Waschbecken Küche 
+- [x] müll runter 
+- [x] Küche aufräumen
+- [x] Esstisch wischen 
+- [x] wischen 
+- [x] nadines socken weiter
+- [x] laptop tastatur wischen
+
 
 - [x] guitar pro tabs schließen bis auf swamphell und exercise in futility 
 	- [x] laptop 
@@ -700,3 +699,8 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 	- [x] Studienbescheinigung runterladen
 - [x] Zeug Angi vorbeibringen
 	- [x] mit ihr Termin für 26-03-25 6:30 pm ausgemacht
+- [x] aldi
+	- [x] Milchmäuse oder so kaufen um einige davon mit dem Teller zurück zu geben
+- [x] Wetterstation Batterien tauschen
+- [x] job news letter deabonnieren
+- [ ] 
