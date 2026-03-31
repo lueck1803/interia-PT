@@ -1,24 +1,18 @@
 # unsortiert
-- [x] ~={Crimson}AOK Zettel ausfüllen + hochladen=~ 
-	- [x] ausfüllen 
-	- [x] Studienbescheinigung runterladen
-- [x] Zeug Angi vorbeibringen
-	- [x] mit ihr Termin für 26-03-25 6:30 pm ausgemacht
+- [ ] ~={Crimson}Wie schaffe ich es immer aroused zu sein?=~
+- [ ] ~={Crimson}Tisch aufräumen!=~
+- [ ] bennos mail lesen
+- [ ] Aritra fragen 
 - [x] Küche aufräumen
-- [x] uhren umstellen 
 - [ ] job news letter deabonnieren
 - [ ] ksk app contactless pay notification anstellen 
 - [ ] nochmal über thunderbolt karte nachdenken
 - [ ] maus reparieren
-- [x] Glasmüll weg
-- [x] küchenuhr checken 
 - [x] Backbleche fertig spülen 
 	- [ ] Ofen putzen 
 	- [ ] Backbleche wegräumen 
 - [x] Esstisch wischen 
 - [x] laptop tastatur wischen
-- [ ] bennos mail lesen
-- [x] rasieren
 - [x] Wäsche zusammen legen 
 - [ ] Termin mit seib glaszis ausmachen 
 - [ ] D-Ticket auf handy
@@ -701,4 +695,8 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] hybrid connector
 - [x] MFA für HRZ und PKM einrichten
 - [x] müll runter 
-
+- [x] ~={Crimson}AOK Zettel ausfüllen + hochladen=~ 
+	- [x] ausfüllen 
+	- [x] Studienbescheinigung runterladen
+- [x] Zeug Angi vorbeibringen
+	- [x] mit ihr Termin für 26-03-25 6:30 pm ausgemacht
