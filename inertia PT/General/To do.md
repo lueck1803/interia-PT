@@ -2,19 +2,19 @@
 - [ ] ~={Crimson}Wie schaffe ich es immer aroused zu sein?=~
 - [ ] ~={Crimson}Tisch aufräumen!=~
 - [ ] bennos mail lesen
-- [ ] reife
+- [ ] reifen Druck checken
 - [ ] Aldi neben an checken wegen
 	- [ ] pesto
 	- [ ] Erbsen 
 	- falls nicht vorhanden in den ~={LawnGreen}Aldi neben Mömax =~
 - [ ] ~={Magenta}hessenbox=~ vom laptop entfernen
 - [ ] check for new mac os update - the next newer than Sonoma
-- [ ] ~={LawnGreen}browser=~ aufräumen
+- ~={LawnGreen}browser=~ aufräumen
 - [ ] Aritra fragen wie er genau alles in visual studio code eingerichtet hat
 - [ ] emails aufräumen
 	- [ ] jean-lueck
 	- [ ] lukasludwigwalter
-- [ ] Email von der walther gruppe entfernen
+- [x] Email von der walther gruppe entfernen
 - [ ] ksk app contactless pay notification anstellen 
 - [ ] nochmal über thunderbolt karte nachdenken
 - [ ] maus reparieren
