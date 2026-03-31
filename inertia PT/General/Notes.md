@@ -863,7 +863,10 @@ on his remote computer. However, he still has to enter two passwords, first, for
 
 ## restore a file
 ### git revert
-With git 
+With `git revert` it is possible to revert / undo a whole git commit.
+```git
+git revert <Commit-ID>
+```
 ### Reverting a File to a Previous Commit
 To revert a file to a specific version from a previous commit:
 
