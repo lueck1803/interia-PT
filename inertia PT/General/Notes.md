@@ -1647,7 +1647,7 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 54. ✅✅(~={Crimson}15 15 15=~) (~={Crimson}15 15 15=~)
 55. ✅✅✅✅
 56. ✅✅(~={Gold}17 17 17=~) (~={Gold}17 17 17=~)
-57. ✅
+57. ✅✅
 
 ### Lochmuster ab Reihe 43
 ⃝ = Wickelmasche
