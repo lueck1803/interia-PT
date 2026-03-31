@@ -3,6 +3,7 @@
 - [ ] Fusilli
 - [ ] grüne Erbsen 
 - [ ] Pesto 
+- [ ] Bananen 
 - [x] toast
 - [x] müsli
 - [x] hummus
