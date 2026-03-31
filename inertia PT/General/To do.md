@@ -9,6 +9,7 @@
 - [ ] job news letter deabonnieren
 - [ ] ksk app contactless pay notification anstellen 
 - [ ] nochmal über thunderbolt karte nachdenken
+- [ ] maus reparieren
 - [x] Glasmüll weg
 - [x] küchenuhr checken 
 - [x] Backbleche fertig spülen 
