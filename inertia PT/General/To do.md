@@ -15,8 +15,7 @@
 - [ ] maus reparieren
 - [x] Backbleche fertig spülen 
 	- [ ] Ofen putzen 
-	- [ ] Backbleche wegräumen 
-- [x] Wäsche zusammen legen 
+	- [ ] Backbleche wegräumen  
 - [ ] Termin mit seib glaszis ausmachen 
 - [ ] D-Ticket auf handy
 - [x] Duschen 
@@ -40,7 +39,7 @@
 - [x] wischen 
 - [x] nadines socken weiter
 - [x] laptop tastatur wischen
-
+- [x] Wäsche zusammen legen
 
 - [x] guitar pro tabs schließen bis auf swamphell und exercise in futility 
 	- [x] laptop 
