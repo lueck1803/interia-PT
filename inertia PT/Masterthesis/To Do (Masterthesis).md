@@ -6,7 +6,7 @@
 	- [ ] and sort git hub
 	- [ ] use llm to get the code sorted
 	- [ ] and plan the coding
-	- [ ] re-evaluating the 
+	- [ ] re-evaluating the concept 
 - [ ] wiki eintrag für create simulation programm
 - [ ] fork von AMEP erstellen
 - [ ] box algo code parallelize
