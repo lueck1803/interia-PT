@@ -661,7 +661,16 @@ flowchart TB
 		- better than chat gpt
 		- you can upload an image you already have and it can manipulates it quite well
 		- but the out come is much better if you give it good context
-	- click the button - that they don't use your da
+	- click the button - that they don't use your data for training
+		- but don't trust it
+	- agentic planning/programming
+		- codex open AI
+		- anthropic claude code
+		- antigravity google
+		- github copilot - you can upgrade it with TU account
+	- visual studio code (installable on ubuntu)
+		- codex plugin
+		- 
 - me:
 	- if you want it more confidential
 		- use the european ones like mistral, which are more confidential with the data
