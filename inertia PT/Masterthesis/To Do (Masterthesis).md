@@ -1,6 +1,10 @@
 # unsorted tasks
 - [x] copy general plot to the non plot script
 - [ ] wiki eintrag für jupyter on cluster verbessern
+- [ ] set up visual studio code for amep
+	- [ ] fix all branching 
+	- [ ] and git hub
+	- [ ] 
 - [ ] wiki eintrag für create simulation programm
 - [ ] fork von AMEP erstellen
 - [ ] box algo code parallelize
