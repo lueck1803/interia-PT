@@ -1775,6 +1775,7 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 		- les magasins
 		- les émotions
 		- les sciences et autres disciplines
+
 # Chemie
 ## BPA
 ### ist ~={Crimson}kein=~ Weichmacher
@@ -1849,3 +1850,4 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 	- 7+PCT ⟹anderer Kunststoff, aus der Polyester Familie = BPA frei 
 # Philosophie 
 - ![](Pasted%20image%2020251205205458.png)
+
