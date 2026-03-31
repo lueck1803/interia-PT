@@ -1,10 +1,11 @@
-- [ ] Backpapier
-- [ ] Hafermilch 
-- [ ] Fusilli
+- [x] Backpapier
+- [x] Hafermilch 
+- [x] Fusilli
 - [ ] grüne Erbsen 
-- [ ] Pesto 
-- [ ] Bananen 
-- [ ] Brausetabletten rot
+- [x] Pesto 
+- [x] Bananen 
+	- [x] statt dessen Äpfel 
+- [x] Brausetabletten rot
 - [x] toast
 - [x] müsli
 - [x] hummus
