@@ -3,6 +3,7 @@
 - [ ] ~={Crimson}Tisch aufräumen!=~
 - [ ] bennos mail lesen
 - [ ] Reifendruck checken
+- [ ] Spülmaschine ausräumen
 - [ ] Aldi neben an checken wegen
 	- [ ] pesto
 	- [ ] Erbsen 
