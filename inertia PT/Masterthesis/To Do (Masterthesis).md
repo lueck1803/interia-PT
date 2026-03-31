@@ -639,8 +639,19 @@ flowchart TB
 	- we have to proof it always
 	- ask llm to look for coherence
 	- there are many non obvious hallucination 
-		- especially if you are not familiar with the subject 
-
+		- especially if you are not familiar with the subject you can be tricked
+- Dennis:
+	- llm are much better for coding, were it is really reliable
+	- doing simulations
+	- but for text production there is an order of magnitude in quality
+- Benno:
+	- if you dont use it for text quality / content
+	- but if you use it for the form, writing errors, translation and shortening only
+	- check your calculations
+	- doing analytical stuff
+	- che
+- kayro:
+	- quite good for 
 
 ## 25-11-28: Feng(25-04) Theory from the anomalous phase behavior of inertial active Brownian particles
 - $\mathcal{S}=\frac{\varepsilon}{\zeta U_{0}\sigma}$ gives us a measure for how much can particles overlap?
