@@ -1782,7 +1782,8 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 	- Vielleicht, weil er viel lächelte und wenig sprach. Vielleicht, weil er dem alltäglichen Trubel der Sterblichen, insbesondere der Pariser, zu entfliehen schien; er rührte sich nie, wie ein Zweig, der fest auf seinem Stamm sitzt, räumte nie vor irgendjemandem seinen Platz auf und verschwand spurlos zwischen Mitternacht und acht Uhr morgens.
 - *Tous les jours donc, je faisais les courses et les repas. Je~={Crimson} n'=~achetais ~={Crimson}que=~ des boîtes de conserve. Si je les achetais tous les jours, ce n'était pas pour qu'elles soient fraîches, non mais parce que mon père, il ne me laissait l'argent que pour une journée, et puis c'était plus facile à cuisiner.*
 	- Also ging ich jeden Tag einkaufen und bereitete die Mahlzeiten zu. Ich kaufte ~={Crimson}ausschließlich=~ Konserven. Dass ich sie täglich kaufte, lag nicht daran, dass sie frisch waren, nein, sondern daran, dass mein Vater mir nur genug Geld für einen Tag gab, und außerdem war es einfacher zu kochen.
-- 
+- *je crois que nous aurions mis un an ou deux à faire une conversation d'heure si nous n' avions pas rencontré Brigitte Bardot.*
+	- Ich glaube, wir hätten ein oder zwei Jahre gebraucht, um ein einstündiges Gespräch zu führen, wenn wir Brigitte Bardot nicht kennengelernt hätten.
 # Chemie
 ## BPA
 ### ist ~={Crimson}kein=~ Weichmacher
