@@ -4,7 +4,7 @@
 - [ ] bennos mail lesen
 - [ ] ~={Magenta}hessenbox=~ vom laptop entfernen
 - [ ] check for new mac os update - the next newer than Sonoma
-- [ ] browser aufräumen
+- [ ] ~={LawnGreen}browser=~ aufräumen
 - [ ] Aritra fragen wie er genau alles in visual studio code eingerichtet hat
 - [ ] emails aufräumen
 	- [ ] jean-lueck
