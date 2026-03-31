@@ -866,16 +866,28 @@ on his remote computer. However, he still has to enter two passwords, first, for
 To revert a file to a specific version from a previous commit:
 
 ****Check the commit history:**** Use __git log__ to view the commit history of the file and identify the commit hash.
-
+```git
 git log <filename>
-
-****Revert the file:**** Use git checkout or git restore to replace the current version of the file with the version from the specified commit.
-
+```
+**Revert the file:** Use git checkout or git restore to replace the current version of the file with the version from the specified commit.
+```git
 git checkout <commit-hash> <filename>
-
+```
 or
+```git
+git restore --source=<commit-hash> <filename>
+```
+**Commit the change:** After reverting the file, stage and commit the changes to record the reversion.
+```git
+git commit -m "Revert <filename> to <commit-hash>"
+```
+To revert ****style.css**** to a previous commit (for example, commit hash ****a1b2c3d****):
 
-git restore --source=<commit-hash> <filename></filename>
+```git
+git log style.css  
+git checkout a1b2c3d style.css  
+git commit -m "Revert style.css to a1b2c3d"
+```
 
 ## .gitignore
 - Comment in `.gitignore` with # 
