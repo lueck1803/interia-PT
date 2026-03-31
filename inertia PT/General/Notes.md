@@ -1786,6 +1786,9 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 	- Ich glaube, wir hätten ein oder zwei Jahre gebraucht, um ein einstündiges Gespräch zu führen, wenn wir Brigitte Bardot nicht kennengelernt hätten.
 - Les femmes veulent vérifier si elle est aussi bien qu'on le dit; les hommes ne pensent plus ils on le discursif qui s'est coincé dans la fermeture de la braquette.
 	- Frauen wollen überprüfen, ob sie wirklich so gut ist, wie behauptet wird; Männer denken nicht mehr nach, ihr Diskurs ist im Reißverschluss stecken geblieben.
+- *ses yeux rigolent en contemplant la Bardot, par-dessus les savons et les pinces à linge*
+	- Seine Augen huschten über sein Gesicht, als er Bardot über die Seifen und Wäscheklammern hinweg ansah.
+	- Seine Augen lachten, als er Bardot über die Seifen und Wäscheklammern hinweg ansah.
 # Chemie
 ## BPA
 ### ist ~={Crimson}kein=~ Weichmacher
