@@ -6,10 +6,11 @@
 	- [x] mit ihr Termin für 26-03-25 6:30 pm ausgemacht
 - [x] Küche aufräumen
 - [x] uhren umstellen 
+- [ ] job news letter deabonnieren
 - [ ] ksk app contactless pay notification anstellen 
 - [x] Glasmüll weg
-- [ ] küchenuhr checken 
-- [ ] Backbleche fertig spülen 
+- [x] küchenuhr checken 
+- [x] Backbleche fertig spülen 
 	- [ ] Ofen putzen 
 	- [ ] Backbleche wegräumen 
 - [x] Esstisch wischen 
