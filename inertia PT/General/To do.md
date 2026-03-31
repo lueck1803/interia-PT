@@ -2,6 +2,7 @@
 - [ ] ~={Crimson}Wie schaffe ich es immer aroused zu sein?=~
 - [ ] ~={Crimson}Tisch aufräumen!=~
 - [ ] bennos mail lesen
+- [ ] hessenbox vom laptop entfernen
 - [ ] browser aufräumen
 - [ ] Aritra fragen wie er genau alles in visual studio code eingerichtet hat
 - [ ] emails aufräumen
