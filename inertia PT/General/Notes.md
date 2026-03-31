@@ -1785,6 +1785,7 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 - *je crois que nous aurions mis un an ou deux à faire une conversation d'heure si nous n' avions pas rencontré Brigitte Bardot.*
 	- Ich glaube, wir hätten ein oder zwei Jahre gebraucht, um ein einstündiges Gespräch zu führen, wenn wir Brigitte Bardot nicht kennengelernt hätten.
 - Les femmes veulent vérifier si elle est aussi bien qu'on le dit; les hommes ne pensent plus ils on le discursif qui s'est coincé dans la fermeture de la braquette.
+	- Frauen wollen überprüfen, ob sie wirklich so gut ist, wie behauptet wird; Männer denken nicht mehr nach, ihr Diskurs ist im Reißverschluss stecken geblieben.
 # Chemie
 ## BPA
 ### ist ~={Crimson}kein=~ Weichmacher
