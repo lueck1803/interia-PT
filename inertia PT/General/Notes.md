@@ -922,7 +922,7 @@ https://youtu.be/Yz9Bj9kEtKc?t=17m18s
 # Obsidian
 ## disabling plugins on mobile while keeping them active on desktop?
 - if you access the .obsidian folder and then the plugin folder you can click on one of the plugins and access the **manifest.json**. When you click on that file, you will see an option that says "isDesktopOnly": false
-```json
+```json hl:9
 {
 	"id": "obsidian-journey-plugin",
 	"name": "Journey",
@@ -933,6 +933,17 @@ https://youtu.be/Yz9Bj9kEtKc?t=17m18s
 	"authorUrl": "https://publish.obsidian.md/alexisrondeau",
 	"isDesktopOnly": false
 }
+```
+## codeblock customizer
+- you can highlight certain lines in the header of a code block, where you also specify the language
+``` Python hl:5
+import numpy
+import math
+
+print("hello world")
+
+# th is the highlighted line
+
 ```
 # Latex Suite
  {trigger: "Brk", replacement: "\\Braket{$0} $1", options: "mA"},
