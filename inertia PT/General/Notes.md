@@ -860,6 +860,24 @@ $ ssh sol
 
 on his remote computer. However, he still has to enter two passwords, first, for the jump host pollux, and, second, for his computer sol. */
 # git
+
+## restore a file
+### Reverting a File to a Previous Commit
+To revert a file to a specific version from a previous commit:
+
+****Check the commit history:**** Use __git log__ to view the commit history of the file and identify the commit hash.
+
+git log <filename>
+
+****Revert the file:**** Use git checkout or git restore to replace the current version of the file with the version from the specified commit.
+
+git checkout <commit-hash> <filename>
+
+or
+
+git restore --source=<commit-hash> <filename></filename>
+
+## .gitignore
 - Comment in `.gitignore` with # 
 - Ausnahmen mit `!`
 - If you want to ignore whole folder, except some specific files, then write:

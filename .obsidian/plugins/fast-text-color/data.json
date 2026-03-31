@@ -3,6 +3,35 @@
     {
       "colors": [
         {
+          "color": "#dc143c",
+          "id": "Crimson",
+          "keybind": "",
+          "italic": false,
+          "bold": false,
+          "cap_mode": {
+            "states": [
+              "normal",
+              "all_caps",
+              "small_caps"
+            ],
+            "state": "normal",
+            "index": 0
+          },
+          "line_mode": {
+            "states": [
+              "none",
+              "underline",
+              "overline",
+              "line-through"
+            ],
+            "state": "none",
+            "index": 0
+          },
+          "useCssColorVariable": false,
+          "colorVariable": "--color-base-00",
+          "className": "ftc-color-builtin-Crimson"
+        },
+        {
           "color": "#000000",
           "id": "red",
           "keybind": "R",
@@ -34,7 +63,7 @@
         {
           "color": "#ff6347",
           "id": "Tomato",
-          "keybind": "",
+          "keybind": "T",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -90,9 +119,38 @@
           "className": "ftc-color-builtin-orange"
         },
         {
+          "color": "#8b4513",
+          "id": "Brown",
+          "keybind": "",
+          "italic": false,
+          "bold": false,
+          "cap_mode": {
+            "states": [
+              "normal",
+              "all_caps",
+              "small_caps"
+            ],
+            "state": "normal",
+            "index": 0
+          },
+          "line_mode": {
+            "states": [
+              "none",
+              "underline",
+              "overline",
+              "line-through"
+            ],
+            "state": "none",
+            "index": 0
+          },
+          "useCssColorVariable": false,
+          "colorVariable": "--color-base-00",
+          "className": "ftc-color-builtin-Brown"
+        },
+        {
           "color": "#ffd700",
           "id": "Gold",
-          "keybind": "",
+          "keybind": "A",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -148,6 +206,35 @@
           "className": "ftc-color-builtin-yellow"
         },
         {
+          "color": "#228b22",
+          "id": "ForestGreen",
+          "keybind": "F",
+          "italic": false,
+          "bold": false,
+          "cap_mode": {
+            "states": [
+              "normal",
+              "all_caps",
+              "small_caps"
+            ],
+            "state": "normal",
+            "index": 0
+          },
+          "line_mode": {
+            "states": [
+              "none",
+              "underline",
+              "overline",
+              "line-through"
+            ],
+            "state": "none",
+            "index": 0
+          },
+          "useCssColorVariable": false,
+          "colorVariable": "--color-base-00",
+          "className": "ftc-color-builtin-ForestGreen"
+        },
+        {
           "color": "#000000",
           "id": "green",
           "keybind": "G",
@@ -177,38 +264,9 @@
           "className": "ftc-color-builtin-green"
         },
         {
-          "color": "#000000",
-          "id": "cyan",
-          "keybind": "C",
-          "italic": false,
-          "bold": false,
-          "cap_mode": {
-            "states": [
-              "normal",
-              "all_caps",
-              "small_caps"
-            ],
-            "state": "normal",
-            "index": 0
-          },
-          "line_mode": {
-            "states": [
-              "none",
-              "underline",
-              "overline",
-              "line-through"
-            ],
-            "state": "none",
-            "index": 0
-          },
-          "useCssColorVariable": true,
-          "colorVariable": "--color-cyan",
-          "className": "ftc-color-builtin-cyan"
-        },
-        {
           "color": "#00fa9a",
           "id": "MediumSpringGreen",
-          "keybind": "",
+          "keybind": "M",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -233,6 +291,35 @@
           "useCssColorVariable": false,
           "colorVariable": "--color-base-00",
           "className": "ftc-color-builtin-MediumSpringGreen"
+        },
+        {
+          "color": "#008080",
+          "id": "Teal",
+          "keybind": "",
+          "italic": false,
+          "bold": false,
+          "cap_mode": {
+            "states": [
+              "normal",
+              "all_caps",
+              "small_caps"
+            ],
+            "state": "normal",
+            "index": 0
+          },
+          "line_mode": {
+            "states": [
+              "none",
+              "underline",
+              "overline",
+              "line-through"
+            ],
+            "state": "none",
+            "index": 0
+          },
+          "useCssColorVariable": false,
+          "colorVariable": "--color-base-00",
+          "className": "ftc-color-builtin-Teal"
         },
         {
           "color": "#1e90ff",
@@ -266,7 +353,7 @@
         {
           "color": "#00bfff",
           "id": "DeepSkyBlue",
-          "keybind": "",
+          "keybind": "S",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -322,6 +409,35 @@
           "className": "ftc-color-builtin-purple"
         },
         {
+          "color": "#9400d3",
+          "id": "DarkViolet",
+          "keybind": "",
+          "italic": false,
+          "bold": false,
+          "cap_mode": {
+            "states": [
+              "normal",
+              "all_caps",
+              "small_caps"
+            ],
+            "state": "normal",
+            "index": 0
+          },
+          "line_mode": {
+            "states": [
+              "none",
+              "underline",
+              "overline",
+              "line-through"
+            ],
+            "state": "none",
+            "index": 0
+          },
+          "useCssColorVariable": false,
+          "colorVariable": "--color-base-00",
+          "className": "ftc-color-builtin-DarkViolet"
+        },
+        {
           "color": "#000000",
           "id": "pink",
           "keybind": "I",
@@ -353,7 +469,7 @@
         {
           "color": "#ff1493",
           "id": "DeepPink",
-          "keybind": "",
+          "keybind": "D",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -380,8 +496,8 @@
           "className": "ftc-color-builtin-DeepPink"
         },
         {
-          "color": "#228b22",
-          "id": "ForestGreen",
+          "color": "#4137ff",
+          "id": "RoyalBlue",
           "keybind": "",
           "italic": false,
           "bold": false,
@@ -406,11 +522,11 @@
           },
           "useCssColorVariable": false,
           "colorVariable": "--color-base-00",
-          "className": "ftc-color-builtin-ForestGreen"
+          "className": "ftc-color-builtin-RoyalBlue"
         },
         {
-          "color": "#ffffff",
-          "id": "test",
+          "color": "#87cefa",
+          "id": "LightBlue",
           "keybind": "",
           "italic": false,
           "bold": false,
@@ -435,7 +551,7 @@
           },
           "useCssColorVariable": false,
           "colorVariable": "--color-base-00",
-          "className": "ftc-color-builtin-test"
+          "className": "ftc-color-builtin-LightBlue"
         }
       ],
       "name": "builtin"
@@ -652,7 +768,7 @@
   "themeIndex": 0,
   "version": "3",
   "interactiveDelimiters": true,
-  "useKeybindings": true,
+  "useKeybindings": false,
   "useNodeRebuilding": false,
   "colorCodeSection": true
 }
