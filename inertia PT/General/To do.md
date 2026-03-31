@@ -3,11 +3,12 @@
 - [ ] ~={Crimson}Tisch aufräumen!=~
 - [ ] bennos mail lesen
 - [ ] Reifendruck checken
-- [ ] Spülmaschine ausräumen
+- [x] Spülmaschine ausräumen
 - [ ] Erbsen kochen
-- [ ] Aldi neben an checken wegen
-	- [ ] pesto
+- [x] Aldi neben an checken wegen
+	- [x] pesto
 	- [ ] Erbsen 
+		- [ ] Erbsen gab's keine
 	- falls nicht vorhanden in den ~={LawnGreen}Aldi neben Mömax =~
 - [ ] ~={Magenta}hessenbox=~ vom laptop entfernen
 - [ ] check for new mac os update - the next newer than Sonoma
@@ -50,8 +51,9 @@
 - [x] guitar pro tabs schließen bis auf swamphell und exercise in futility 
 	- [x] laptop 
 	- [x] PC 
-- [x] Laptop aufräumen 
+- [x] dpag Laptop aufräumen 
 	- [ ] Zeug aus Obsidian raus machen was von mir ist
+	- [x] Laptop zurück gebracht 
 - [ ] mir überlegen was ich anders mache. Lehrer werde ich nicht
 	- [ ] sind zu viele Namen 
 	- [ ] zu viele Persönlichkeiten
