@@ -6,6 +6,7 @@
 - [ ] check for new mac os update - the next newer than Sonoma
 - [ ] browser aufräumen
 - [ ] Aritra fragen wie er genau alles in visual studio code eingerichtet hat
+- [ ] ~={LightBlue}test=~
 - [ ] emails aufräumen
 	- [ ] jean-lueck
 	- [ ] lukasludwigwalter
