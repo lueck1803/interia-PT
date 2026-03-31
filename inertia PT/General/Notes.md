@@ -1776,6 +1776,11 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 		- les émotions
 		- les sciences et autres disciplines
 
+## Monsieur Ibrahim et les fleurs du Coran
+
+- Sans doute parce qu'il souriait beaucoup et parlait peu. Sans doute parce qu'il semblait échapper à l'agitation ordinaire des mortels, surtout des mortels parisiens, ne bougeant jamais, telle une branche greffée sur son tabouret, ne rangeant jamais son étal devant qui que ce soit, et disparaissant on ne sait où entre minuit et huit heures du matin.
+	- Vielleicht, weil er viel lächelte und wenig sprach. Vielleicht, weil er dem alltäglichen Trubel der Sterblichen, insbesondere der Pariser, zu entfliehen schien; er rührte sich nie, wie ein Zweig, der fest auf seinem Stamm sitzt, räumte nie vor irgendjemandem seinen Platz auf und verschwand spurlos zwischen Mitternacht und acht Uhr morgens.
+- 
 # Chemie
 ## BPA
 ### ist ~={Crimson}kein=~ Weichmacher
