@@ -652,6 +652,8 @@ flowchart TB
 	- checked an old paper of him if everything is correct:
 		- this didnt work for the whole paper, because it didnt understand some approximations
 		- but if you use it for sections step by step and check it, it works quite well
+	- there is no way to fighting it away
+	- it feels very uncomfortable if you did this for years and the llms do it much better in much shorter time
 - kayro:
 	- quite good for analytics if you have some insight what is the outcome of it
 - aritra:
@@ -668,6 +670,7 @@ flowchart TB
 		- anthropic claude code
 		- antigravity google
 		- github copilot - you can upgrade it with TU account
+	- claude is much better for analytic stuff like stability analysis
 	- visual studio code (installable on ubuntu)
 		- codex plugin
 		- showed how use it and it produced the whole code for plotting and fitting
