@@ -8,6 +8,7 @@
 - [x] uhren umstellen 
 - [ ] job news letter deabonnieren
 - [ ] ksk app contactless pay notification anstellen 
+- [ ] nochmal über thunderbolt karte nachdenken
 - [x] Glasmüll weg
 - [x] küchenuhr checken 
 - [x] Backbleche fertig spülen 

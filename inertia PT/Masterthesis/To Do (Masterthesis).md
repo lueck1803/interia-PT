@@ -670,7 +670,7 @@ flowchart TB
 		- github copilot - you can upgrade it with TU account
 	- visual studio code (installable on ubuntu)
 		- codex plugin
-		- 
+		- showed how use it and it produced the whole code for plotting 
 - me:
 	- if you want it more confidential
 		- use the european ones like mistral, which are more confidential with the data
