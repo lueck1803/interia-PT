@@ -2,6 +2,7 @@
 - [ ] ~={Crimson}Wie schaffe ich es immer aroused zu sein?=~
 - [ ] ~={Crimson}Tisch aufräumen!=~
 - [ ] bennos mail lesen
+- [ ] ~={DeepSkyBlue}Test=~
 - [ ] hessenbox vom laptop entfernen
 - [ ] check for new mac os update - the next newer than Sonoma
 - [ ] browser aufräumen
