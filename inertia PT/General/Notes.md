@@ -15,6 +15,11 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+## 26-04-01
+Hallo Benno, 
+
+Vielen Dank für die Nachricht.
+
 ## 26-03-30
 Hallo Lisa,
 danke für das Gespräch.
