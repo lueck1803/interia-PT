@@ -1732,8 +1732,8 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
  +⃞ ⃞ ⃞  ◣ ⃝ ⃞ ⃝◢  |  ⃞ ⃞ ⃞ ⃞ ◣ ⃝ ⃞ ⃝◢  | ⃞ ⃞ ⃞+ ~={pink}7=~
  +⃞ ⃞ ◣ ⃝ ⃞ ⃞ ⃞ ⃝ | ◢ ⃞  ⃞  ◣ ⃝ ⃞ ⃞ ⃞ ⃝|◢  ⃞ ⃞+ ~={MediumSpringGreen}5=~
  +⃞ ⃞ ⃞ ◣ ⃝ ⃞ ⃝◢  |  ⃞ ⃞  ⃞ ⃞ ◣ ⃝ ⃞ ⃝◢ | ⃞ ⃞ ⃞+ ~={blue}3=~
-+⃞ ⃞ ⃞ ⃞ ⃞ ⃞ ⃞ ⃞ ⃞ |  ⃞ ⃞  ⃞ ⃞  ⃞ ⃞ ⃞ ⃞ ⃞| ⃞ ⃞ ⃞+  ~={Crimson}1=~
-                              ⭡ Mustersatz.                    ⭡
++⃞ ⃞ ⃞ ⃞ ⃞ ⃞ ⃞ ⃞ ⃞ | ⃞ ⃞ ⃞ ⃞ ⃞ ⃞ ⃞ ⃞ ⃞| ⃞ ⃞ ⃞ ⃞ ⃞ ⃞ ⃞ ⃞ ⃞| ⃞ ⃞ ⃞+  ~={Crimson}1=~
+                              ⭡ Mustersatz.                ⭡
 #### Lochmuster ~={purple}Blumen=~
 ◣ ⃝ ⃞ ⃝◢ ⃞ ⃞  ⃞  ⃞  ⃞ | ◣ ⃝ ⃞+~={ForestGreen}19=~
 ◣ ⃝ ⃞ ⃝◢ ⃞ ⃞  ⃞  ⃞  ⃞ | ◣ ⃝ ⃞+~={Gold}17=~
