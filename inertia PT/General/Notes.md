@@ -26,9 +26,9 @@ Ich habe etwas Zeit gebraucht um meine Gedanken zu sortieren und meine Emotionen
 Im Februar konnte ich leider auch kein Maß halten in der Kommunikation. Was mich leider wieder durch Überregulation in den Rückzug von der Kommunikation geworfen hat. 
 
 Ich wollte Dir/Euch ersparen, in endlose Erklärungen zu verfallen, die dann wieder zu Selbstabwertungen führen.
-Ich habe mich letzte Woche genug geschämt dir zu schreiben und dann dem Studienbüro um mich dann in Erklärungen zu verlieren die ich dringend vermeiden wollte.
+Ich habe mich letzte Woche genug geschämt dir zu schreiben und da um ein gemeinsames Gespräch bzw. Hilfe mit dem Studienbüro zu bitten,  dann dem Studienbüro um mich dann in Erklärungen zu verlieren die ich dringend vermeiden wollte.
 
-Die Zeit habe ich genutzt, um den waagen Vorsatz den ich die letzten Jahre zu häufig hatte, in mir konkret werden zu lassen, so dass dieser auch in mir glaubhaft, realistisch und kein Druck und Paralyse erzeugendes Vorhaben ist. 
+Die Zeit habe ich genutzt, um den wagen Vorsatz den ich die letzten Jahre zu häufig hatte, in mir konkret werden zu lassen, so dass dieser auch in mir glaubhaft, realistisch und kein Druck und Paralyse erzeugendes Vorhaben ist. 
 
 Kayro hat mir gestern geschrieben, dass am 21.4. eine Lücke im Group Meeting war für die er mich mit einem Project Report eingetragen hat. 
 
