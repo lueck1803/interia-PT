@@ -20,7 +20,9 @@ Hallo Benno,
 
 Vielen Dank für die Nachricht.
 Es tut mir leid, dass ich erst jetzt antworte.
-Ich habe etwas Zeit gebraucht um  sortieren und
+Ich habe etwas Zeit gebraucht um meine Gedanken sortieren und meine Emotionen zu regulieren.
+
+Im Fe
 ## 26-03-30
 Hallo Lisa,
 danke für das Gespräch.
