@@ -1712,6 +1712,7 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 60. ✅✅~={Crimson}1=~ ~={Crimson}1=~
 ~={Gold}**ab hier Blumen mod**=~
 61. ✅✅(~={blue}+3 3 +=~) (~={blue}+3 3 +=~)
+62. 
 
 ### Lochmuster ab Reihe 43
 ⃝ = Wickelmasche
