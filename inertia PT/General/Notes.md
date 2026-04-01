@@ -27,7 +27,8 @@ Im Februar konnte ich leider auch kein Maß halten in der Kommunikation. Was mic
 
 Ich wollte Dir/Euch ersparen, in endlose Erklärungen zu verfallen, die dann wieder zu Selbstabwertungen führen.
 Ich habe mich letzte Woche genug geschämt dir zu schreiben und damit um ein gemeinsames Gespräch bzw. Hilfe mit dem Studienbüro zu bitten, was nach meiner emotionalen Einschätzung zu viel von mir verlangt war, zusammen mit der Aussicht dann dem Studienbüro bzw. Frau Seib-Glaszis zu schreiben, um mich dann in Erklärungen zu verlieren die ich die ganze Zeit dringend vermeiden wollte.
-Im Februar habe ich versucht mein Problem bzgl. Studienbüro anzudeuten bzw. zu beschreiben, da war ich aber auch zu wage und unkonkret. 
+Im Januar/Februar habe ich versucht mein Problem bzgl. Studienbüro zu beschreiben, dass ich eben nicht jetzt wieder anfange mich mit Simulationen zu verlieren, da war ich aber auch zu wage und unkonkret. 
+War zu 
 
 Die Zeit habe ich genutzt, um den wagen Vorsatz den ich die letzten Jahre zu häufig hatte, in mir konkret werden zu lassen, so dass dieser auch in mir glaubhaft, realistisch und kein Druck und Paralyse erzeugendes Vorhaben ist. 
 
