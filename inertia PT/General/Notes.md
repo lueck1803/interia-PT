@@ -1709,7 +1709,7 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 57. ✅✅✅✅
 58. ✅✅ (~={ForestGreen}19 19 19=~) (~={ForestGreen}19 19 19=~)
 59. ✅✅✅✅
-60. 
+60. ✅✅
 
 ### Lochmuster ab Reihe 43
 ⃝ = Wickelmasche
