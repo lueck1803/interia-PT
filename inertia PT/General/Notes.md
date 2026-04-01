@@ -20,9 +20,23 @@ Hallo Benno,
 
 Vielen Dank für die Nachricht.
 Es tut mir leid, dass ich erst jetzt antworte.
-Ich habe etwas Zeit gebraucht um meine Gedanken sortieren und meine Emotionen zu regulieren.
+Ich habe etwas Zeit gebraucht um meine Gedanken zu sortieren und meine Emotionen zu regulieren.
 
-Im Februar konnte ich leider auch kein Maß halten in der Kommunikation. Was mich leider wieder in die Überregulation in den Rückzug von der Kommunikation gefuhrt hat. zurück zwischen Überkommunikation und totalen
+Im Februar konnte ich leider auch kein Maß halten in der Kommunikation. Was mich leider wieder durch Überregulation in den Rückzug von der Kommunikation geworfen hat. 
+
+Ich wollte Dir/Euch ersparen, in endlose Erklärungen zu verfallen, die dann wieder zu Selbstabwertungen führen.
+Ich habe mich letzte Woche genug geschämt dir zu schreiben und dann dem Studienbüro um mich dann in Erklärungen zu verlieren die ich dringend vermeiden wollte.
+
+Die Zeit habe ich genutzt, um den waagen Vorsatz den ich die letzten Jahre zu häufig hatte, in mir konkret werden zu lassen, so dass dieser auch in mir glaubhaft, realistisch und kein Druck und Paralyse erzeugendes Vorhaben ist. 
+
+Kayro hat mir gestern geschrieben, dass am 21.4. eine Lücke im Group Meeting war für die er mich mit einem Project Report eingetragen hat. 
+
+Mein konkreter Plan wäre es jetzt an diesem Tag meinen Proposal Talk zu halten und entsprechend davor meine schriftliche Ausarbeitung des Proposals abgegeben zu haben. 
+
+Wenn du damit einverstanden wärst und das selbst für realistisch hältst, würde ich das so als Vorschlag an das Studienbüro weitergeben, so wie dies Kayro anzukündigen?
+
+Viele Grüße 
+Lukas 
 ## 26-03-30
 Hallo Lisa,
 danke für das Gespräch.
