@@ -16,6 +16,7 @@ Kind regards
 Lukas Walter 
 # Nachrichten an Leute
 ## 26-04-01
+### Benno2 
 Hallo Benno, 
 
 Vielen Dank für die Nachricht.
@@ -37,6 +38,37 @@ Wenn du damit einverstanden wärst und das selbst für realistisch hältst, wür
 
 Viele Grüße 
 Lukas 
+
+### Benno 2
+Hallo Benno,
+
+vielen lieben Dank für die Nachricht. Es tut mir leid, dass ich erst so spät antworte. Ich habe seit zwei Wochen einen Husten, der mir zusätzlich Energie raubt.
+
+Ich habe mich leider sehr geschämt wieder in diese Situation gekommen zu sein, da ist meine Angst zur selbsterfüllenden Prophezeiung geworden. 
+
+Die Scham dir diese Mail letzte Woche geschickt zu haben, war auch recht groß, dass ich mich wieder zu sehr in den Gedanken verloren habe, mich für die Situation zu erklären und die Angst mich darin zu verlieren.
+
+ich bin es extrem leid bzw. schäme ich mich dafür immer "Ausreden" und Erklärungen haben zu müssen. 
+
+Das habe ich explizit anders machen wollen und das hat zum Teil auch funktioniert. Und ich bin erstaunt darüber, dass ich es von einem ehrlich gesagt negativem Tempo im letzten Jahr auf über 100 in der Zeit ab September geschafft habe.
+
+Ich hätte nicht gedacht überhaupt in der Lage zu sein, 80h zu arbeiten und dann noch etwas für die Masterarbeit zu machen.
+
+Ich wollte nicht wieder unkontrolliert viel und häufig schreiben, wie das im Februar der Fall war. Da hatte ich in der Überkommunikation kein Maß und keine Kontrolle, was mich leider ziemlich herunter gezogen, wieder die Erfahrung zu machen, dass ich offenbar nicht in der Lage bin ein gesundes Maß zu halten bzgl. meiner Kommunikation. Was dazu geführt hat, dass ich mich zu sehr zurück gezogen habe.  
+Entweder kommuniziere ich zu wenig oder zu viel.  
+Kognitiv war mir bewusst, dass ich nicht übermäßig in die andere Richtung regulieren sollte. Meine Emotionen und meine wiederkehrenden selbst abwertenden fatalistischen Gedanken entsprechend zu sortieren, dass ich da energetisch nicht zu sehr aus dem Rhythmus falle, um meine Exekutivfunktionen aufrecht zu erhalten und das zu tun, was in dem Moment das Gebot der Stunde ist, dafür war ich noch nicht so weit.
+
+Stattdessen habe ich die letzten Tage versucht meine Gedanken zu sortieren, meine Emotionen zu ordnen, mich entsprechend zu regulieren, um die Situation realistisch zu bewerten und dann auch konkreter und klarer meinen Plan, der in mir selbst noch reifen musste und an dem ich arbeiten musste, um an ihn zu glauben, um dann auch wirklich eine Frist nennen zu können, bzw. überhaupt erst mal im Gefühl zu haben, dass dieser von mir umsetzbar ist.
+
+Ich bin mir über all das bewusst, was du schreibst und 
+
+Kayro hat mir gestern geschrieben, dass ihm aufgefallen ist, dass am 21.4. eine Lücke wäre im Group Meeting und er mich dort für einen Project Report eingetragen hat.
+
+Mein Plan wäre jetzt, dass ich an diesem Tag meinen Proposal Talk halte und entsprechend zu einem vorherigen Datum das schriftliche Proposal abgegeben habe.
+
+Viele Grüße
+
+Lukas
 ## 26-03-30
 Hallo Lisa,
 danke für das Gespräch.
