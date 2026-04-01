@@ -27,10 +27,10 @@ Im Februar konnte ich leider auch kein Maß halten in der Kommunikation. Was mic
 
 Ich wollte Dir/Euch ersparen, in endlose Erklärungen zu verfallen, die dann wieder zu Selbstabwertungen führen.
 Ich habe mich letzte Woche genug geschämt dir zu schreiben und damit um ein gemeinsames Gespräch bzw. Hilfe mit dem Studienbüro zu bitten, was nach meiner emotionalen Einschätzung zu viel von mir verlangt war, zusammen mit der Aussicht dann dem Studienbüro bzw. Frau Seib-Glaszis zu schreiben, um mich dann in Erklärungen zu verlieren die ich die ganze Zeit dringend vermeiden wollte.
-Im Januar/Februar habe ich versucht mein Problem bzgl. Studienbüro zu beschreiben, dass ich eben nicht jetzt wieder anfange mich mit Simulationen zu verlieren, da war ich aber auch zu wage und unkonkret. 
+Im Januar/Februar habe ich versucht mein Problem bzgl. Studienbüro zu beschreiben, dass ich eben nicht jetzt wieder anfange mich mit Simulationen zu verlieren, da war ich aber auch zu vage und unkonkret. 
 Und zu sehr paralysiert zwischen meinen eigenen Anforderungen an mich, um genug zu haben für eine Ausarbeitung, der Angst vor der konkreten Ausführung dieser und der Notwendigkeit eine Prüfungsleistung zu bestehen.
 
-Die Zeit habe ich genutzt, um den wagen Vorsatz den ich die letzten Jahre zu häufig hatte, in mir konkret werden zu lassen, so dass dieser auch in mir glaubhaft, realistisch und kein Druck und Paralyse erzeugendes Vorhaben ist. 
+Die Zeit habe ich genutzt, um den vagen Vorsatz den ich die letzten Jahre zu häufig hatte, in mir konkret werden zu lassen, so dass dieser auch in mir glaubhaft, realistisch und kein Druck und Paralyse erzeugendes Vorhaben ist. 
 
 Kayro hat mir gestern geschrieben, dass am 21.4. eine Lücke im Group Meeting war für die er mich mit einem Project Report eingetragen hat. 
 
@@ -41,7 +41,28 @@ Wenn du damit einverstanden wärst und das selbst für realistisch hältst, wür
 Viele Grüße 
 Lukas 
 
-### 
+### Benno 2 
+Hallo Benno, 
+
+Vielen Dank für die Nachricht.
+Es tut mir leid, dass ich erst jetzt antworte.
+Ich habe etwas Zeit gebraucht um meine Gedanken zu sortieren und meine Emotionen zu regulieren.
+
+Im Februar konnte ich leider auch kein Maß halten in der Kommunikation. Was mich leider wieder durch Überregulation in den Rückzug von der Kommunikation geworfen hat. 
+
+Ich wollte Dir/Euch ersparen, in endlose Erklärungen zu verfallen, die dann wieder zu Selbstabwertungen führen.
+Ich habe mich letzte Woche genug geschämt dir zu schreiben und dann dem Studienbüro um mich dann in Erklärungen zu verlieren die ich dringend vermeiden wollte.
+
+Die Zeit habe ich genutzt, um den waagen Vorsatz den ich die letzten Jahre zu häufig hatte, in mir konkret werden zu lassen, so dass dieser auch in mir glaubhaft, realistisch und kein Druck und Paralyse erzeugendes Vorhaben ist. 
+
+Kayro hat mir gestern geschrieben, dass am 21.4. eine Lücke im Group Meeting war für die er mich mit einem Project Report eingetragen hat. 
+
+Mein konkreter Plan wäre es jetzt an diesem Tag meinen Proposal Talk zu halten und entsprechend davor meine schriftliche Ausarbeitung des Proposals abgegeben zu haben. 
+
+Wenn du damit einverstanden wärst und das selbst für realistisch hältst, würde ich das so als Vorschlag an das Studienbüro weitergeben, so wie dies Kayro anzukündigen?
+
+Viele Grüße 
+Lukas
 
 ### Benno 1
 Hallo Benno,
