@@ -1726,7 +1726,7 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 +⃞ ⃞ ⃞|◣ ⃝ ⃞ ⃝◢ ⃞ ⃞  ⃞  ⃞  ⃞ | ◣ ⃝ ⃞+~={ForestGreen}19=~
 +⃞ ⃞ ⃞|◣ ⃝ ⃞ ⃝◢ ⃞ ⃞  ⃞  ⃞  ⃞ | ◣ ⃝ ⃞+~={Gold}17=~
  +⃞ ⃞ ⃞ |⃝ ⃞ ⃞ ⃞ ⃝◢  ⃞ ⃞ ⃞ ◣ | ⃝ ⃞ ⃞+~={DeepPink}15=~
- +⃞ ⃞  ⃞ | ◣ ⃝ ⃞ ⃝◢ ⃞ ⃞ ⃞  ⃞ ⃞ | ◣ ⃝ ⃞+~={Teal}13=~
+ +⃞  ⃝  ◣ | ◣ ⃝ ⃞ ⃝◢ ⃞ ⃞ ⃞  ⃞ ⃞ | ◣ ⃝ ⃞+~={Teal}13=~
  +⃞ ⃞ ⃞ |  ⃞ ⃞ ⃞ ⃞ ⃞  ⃞ ⃞ ⃞ ⃞ ⃞ | ⃞ ⃞ ⃞+ ~={Tomato}11=~
  +⃞ ⃞ ⃞ |  ⃞ ⃞ ⃞ ⃞ ⃞ ◣ ⃝ ⃞ ⃝◢  | ⃞ ⃞ ⃞+ ~={DarkViolet}9=~
  +⃞ ⃞ ⃞ |  ⃞ ⃞ ⃞ ⃞ ⃞ ◣ ⃝ ⃞ ⃝◢  | ⃞ ⃞ ⃞+ ~={pink}7=~
