@@ -16,7 +16,7 @@ Kind regards
 Lukas Walter 
 # Nachrichten an Leute
 ## 26-04-01
-### Benno2 
+### Benno3 
 Hallo Benno, 
 
 Vielen Dank für die Nachricht.
@@ -28,7 +28,7 @@ Im Februar konnte ich leider auch kein Maß halten in der Kommunikation. Was mic
 Ich wollte Dir/Euch ersparen, in endlose Erklärungen zu verfallen, die dann wieder zu Selbstabwertungen führen.
 Ich habe mich letzte Woche genug geschämt dir zu schreiben und damit um ein gemeinsames Gespräch bzw. Hilfe mit dem Studienbüro zu bitten, was nach meiner emotionalen Einschätzung zu viel von mir verlangt war, zusammen mit der Aussicht dann dem Studienbüro bzw. Frau Seib-Glaszis zu schreiben, um mich dann in Erklärungen zu verlieren die ich die ganze Zeit dringend vermeiden wollte.
 Im Januar/Februar habe ich versucht mein Problem bzgl. Studienbüro zu beschreiben, dass ich eben nicht jetzt wieder anfange mich mit Simulationen zu verlieren, da war ich aber auch zu wage und unkonkret. 
-War zu 
+Und zu sehr paralysiert zwischen meinen eigenen Anforderungen an mich, um genug zu haben für eine Ausarbeitung, der Angst vor der konkreten Ausführung dieser und der Notwendigkeit eine Prüfungsleistung zu bestehen.
 
 Die Zeit habe ich genutzt, um den wagen Vorsatz den ich die letzten Jahre zu häufig hatte, in mir konkret werden zu lassen, so dass dieser auch in mir glaubhaft, realistisch und kein Druck und Paralyse erzeugendes Vorhaben ist. 
 
@@ -41,7 +41,9 @@ Wenn du damit einverstanden wärst und das selbst für realistisch hältst, wür
 Viele Grüße 
 Lukas 
 
-### Benno 2
+### 
+
+### Benno 1
 Hallo Benno,
 
 vielen lieben Dank für die Nachricht. Es tut mir leid, dass ich erst so spät antworte. Ich habe seit zwei Wochen einen Husten, der mir zusätzlich Energie raubt.
