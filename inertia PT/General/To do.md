@@ -1,10 +1,11 @@
 # unsortiert
 - [ ] ~={Crimson}Wie schaffe ich es immer aroused zu sein?=~
 - [ ] ~={Crimson}Tisch aufräumen!=~
-- [ ] bennos mail lesen
+- [ ] Vokabeln ab Seite 19 eintragen 
+- [x] bennos mail lesen
 - [ ] Reifendruck checken
 - [x] Spülmaschine ausräumen
-- [ ] Erbsen kochen
+- [x] Erbsen kochen
 - [x] Aldi neben an checken wegen
 	- [x] pesto
 	- [ ] Erbsen 
