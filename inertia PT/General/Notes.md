@@ -22,7 +22,7 @@ Vielen Dank für die Nachricht.
 Es tut mir leid, dass ich erst jetzt antworte.
 Ich habe etwas Zeit gebraucht um meine Gedanken sortieren und meine Emotionen zu regulieren.
 
-Im Februar konnte ich 
+Im Februar konnte ich leider auch kein Maß halten in der Kommunikation. Was mich leider wieder in die Überregulation in den Rückzug von der Kommunikation gefuhrt hat. zurück zwischen Überkommunikation und totalen
 ## 26-03-30
 Hallo Lisa,
 danke für das Gespräch.
