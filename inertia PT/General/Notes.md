@@ -1710,7 +1710,7 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 58. ✅✅ (~={ForestGreen}19 19 19=~) (~={ForestGreen}19 19 19=~)
 59. ✅✅✅✅
 60. ✅✅~={Crimson}1=~ ~={Crimson}1=~
-61. ✅✅(~={blue}+3 =~)
+61. ✅✅(~={blue}+3 3 3+=~) (~={blue}=~)
 
 ### Lochmuster ab Reihe 43
 ⃝ = Wickelmasche
@@ -1733,7 +1733,7 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
  +⃞  ⃞ ⃞ ◣ ⃝ ⃞ ⃞ ⃞ ⃝ | ◢ ⃞ ⃞  ◣ ⃝ ⃞ ⃞ ⃞ ⃝|◢ ⃞  ⃞  ◣ ⃝ ⃞ ⃞ ⃞ ⃝|◢  ⃞ ⃞+ ~={MediumSpringGreen}5=~
  +⃞ ⃞ ⃞ ⃞ ◣ ⃝ ⃞ ⃝◢ | ⃞ ⃞ ⃞ ⃞ ◣ ⃝ ⃞ ⃝◢ | ⃞ ⃞ ⃞ ⃞ ◣ ⃝ ⃞ ⃝◢ | ⃞ ⃞ ⃞+ ~={blue}3=~
 +⃞ ⃞ ⃞ ⃞ ⃞ ⃞ ⃞ ⃞ ⃞ | ⃞ ⃞ ⃞ ⃞ ⃞ ⃞ ⃞ ⃞ ⃞| ⃞ ⃞ ⃞ ⃞ ⃞ ⃞ ⃞ ⃞ ⃞| ⃞ ⃞ ⃞+  ~={Crimson}1=~
-                              ⭡ Mustersatz.                ⭡
+                                       ⭡ Mustersatz.                ⭡
 #### Lochmuster ~={purple}Blumen=~
 ◣ ⃝ ⃞ ⃝◢ ⃞ ⃞  ⃞  ⃞  ⃞ | ◣ ⃝ ⃞+~={ForestGreen}19=~
 ◣ ⃝ ⃞ ⃝◢ ⃞ ⃞  ⃞  ⃞  ⃞ | ◣ ⃝ ⃞+~={Gold}17=~
