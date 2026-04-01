@@ -16,6 +16,10 @@ Kind regards
 Lukas Walter 
 # Nachrichten an Leute
 ## 26-04-01
+### arthur
+Wenn du dir im Herbst die türkische Band ansiehst, wirst du wohl auch microtonale musik hören.
+
+Die verwenden ja auch ne Zaz so weit ich gehört habe. Die Bünde sind da auch zum teil microtonal aufgeteilt.
 ### Benno3 
 Hallo Benno, 
 
