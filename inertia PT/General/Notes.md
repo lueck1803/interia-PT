@@ -1723,17 +1723,17 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
  gerade Reihen glatt rechts!
 
 #### Lochmuster ~={purple}Blumen=~ ~={Gold}mod=~
-+⃞ ⃝◢ ⃞ ⃞ ⃞ ⃞ | ◣ ⃝ ⃞ ⃝◢ ⃞ ⃞  ⃞  ⃞ | ◣ ⃝ ⃞+~={ForestGreen}19=~
-+⃞ ⃝◢ ⃞ ⃞ ⃞ ⃞ | ◣ ⃝ ⃞ ⃝◢ ⃞ ⃞  ⃞  ⃞ | ◣ ⃝ ⃞+~={Gold}17=~
++⃞ ⃝◢ ⃞ ⃞ ⃞ ⃞ | ◣ ⃝ ⃞ ⃝◢ ⃞ ⃞ ⃞  ⃞ | ◣ ⃝ ⃞+~={ForestGreen}19=~
++⃞ ⃝◢ ⃞ ⃞ ⃞ ⃞ | ◣ ⃝ ⃞ ⃝◢ ⃞ ⃞ ⃞  ⃞ | ◣ ⃝ ⃞+~={Gold}17=~
  +⃞ ⃞ ⃝◢ ⃞ ⃞  ◣ |⃝ ⃞ ⃞ ⃞ ⃝◢  ⃞ ⃞ ◣ | ⃝ ⃞ ⃞+~={DeepPink}15=~
  +⃞ ⃝◢ ⃞ ⃞  ⃞ ⃞ | ◣ ⃝ ⃞ ⃝◢ ⃞ ⃞  ⃞ ⃞ | ◣ ⃝ ⃞+~={Teal}13=~
- +⃞ ⃞ ⃞  ⃞  ⃞ ⃞ ⃞ |  ⃞ ⃞ ⃞ ⃞ ⃞  ⃞  ⃞ ⃞ ⃞ | ⃞ ⃞ ⃞+ ~={Tomato}11=~
+ +⃞ ⃞ ⃞  ⃞ ⃞ ⃞ |  ⃞ ⃞ ⃞ ⃞ ⃞  ⃞  ⃞ ⃞ ⃞ | ⃞ ⃞ ⃞+ ~={Tomato}11=~
  +⃞ ⃞ ⃞  ◣ ⃝ ⃞ ⃝◢  |  ⃞ ⃞ ⃞ ⃞ ◣ ⃝ ⃞ ⃝◢  | ⃞ ⃞ ⃞+ ~={DarkViolet}9=~
  +⃞ ⃞ ⃞  ◣ ⃝ ⃞ ⃝◢  |  ⃞ ⃞ ⃞ ⃞ ◣ ⃝ ⃞ ⃝◢  | ⃞ ⃞ ⃞+ ~={pink}7=~
  +⃞ ⃞ ◣ ⃝ ⃞ ⃞ ⃞ ⃝ | ◢ ⃞  ⃞  ◣ ⃝ ⃞ ⃞ ⃞ ⃝|◢  ⃞ ⃞+ ~={MediumSpringGreen}5=~
  +⃞ ⃞ ⃞ ◣ ⃝ ⃞ ⃝◢  |  ⃞ ⃞  ⃞ ⃞ ◣ ⃝ ⃞ ⃝◢ | ⃞ ⃞ ⃞+ ~={blue}3=~
-+⃞ ⃞ ⃞ ⃞ ⃞ ⃞ ⃞ ⃞ |  ⃞ ⃞  ⃞ ⃞  ⃞ ⃞ ⃞ ⃞ ⃞| ⃞ ⃞ ⃞+  ~={Crimson}1=~
-                ⭡ Mustersatz.                    ⭡
++⃞ ⃞ ⃞ ⃞ ⃞ ⃞ ⃞ ⃞ ⃞ |  ⃞ ⃞  ⃞ ⃞  ⃞ ⃞ ⃞ ⃞ ⃞| ⃞ ⃞ ⃞+  ~={Crimson}1=~
+                              ⭡ Mustersatz.                    ⭡
 #### Lochmuster ~={purple}Blumen=~
 ◣ ⃝ ⃞ ⃝◢ ⃞ ⃞  ⃞  ⃞  ⃞ | ◣ ⃝ ⃞+~={ForestGreen}19=~
 ◣ ⃝ ⃞ ⃝◢ ⃞ ⃞  ⃞  ⃞  ⃞ | ◣ ⃝ ⃞+~={Gold}17=~
