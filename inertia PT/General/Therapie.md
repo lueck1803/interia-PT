@@ -9,8 +9,8 @@
 	- was ist deine Intention an mich (Arthur). Was willst du mit der Nachricht von mir?
 - ich kann ein sehr guter Lehrer und Betreuer sein, 
 	- da ich sehr gut auf die individuellen Persönlichkeiten eingehen kann. 
-	- Ich bin gut darin Perspektiven wechseln 
-	- ich habe ein sehr breites allgemein wissen 
+	- Ich bin gut darin Perspektiven zu wechseln 
+	- ich habe ein sehr breites Allgemeinwissen 
 	- ich habe viel zu geben
 	- ich habe ein breites psychologisches Wissen 
 	- habe selbst sehr viel durchgemacht und damit eine gute Expertise um Leute zu motivieren 
