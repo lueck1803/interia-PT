@@ -1,12 +1,12 @@
+- [ ] toast
+- [ ] grüne Erbsen 
 - [x] Backpapier
 - [x] Hafermilch 
 - [x] Fusilli
-- [ ] grüne Erbsen 
 - [x] Pesto 
 - [x] Bananen 
 	- [x] statt dessen Äpfel 
 - [x] Brausetabletten rot
-- [ ] toast
 - [x] müsli
 - [x] hummus
 - [x] kalamata oliven
