@@ -6,7 +6,7 @@
 - [x] Bananen 
 	- [x] statt dessen Äpfel 
 - [x] Brausetabletten rot
-- [x] toast
+- [ ] toast
 - [x] müsli
 - [x] hummus
 - [x] kalamata oliven
