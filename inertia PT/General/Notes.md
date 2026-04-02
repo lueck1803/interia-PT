@@ -15,6 +15,54 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+## 26-04-02
+### fredin
+Ne Arooj hat ja schon genau so Haushalt gemacht.
+
+Es hat sich dann halt irgendwie entwickelt dass Arooj immer die Toilette geputzt hat. 
+
+Sie hatte auch als einzige die Dusche geputzt.
+
+Die Fenster habe ich dafür gemacht, die Waschbecken (Küche und Bad) mit Scheuermilch geputzt,  die Spiegel  in der Wohnung.
+Etc.
+
+Ich hab halt so wie sie auch, immer spontan nach Lust, bedarf und Situation geputzt.
+
+Staubsaugen und wischen etc.
+
+Es hatte sich dann in einer Zeit nur so ergeben dass sie dann immer die Toilette geputzt hat. 
+
+Hatte ja nix damit zu tun dass ich da keine Lust darauf hatte oder mir zu fein dafür war.
+
+Sie hätte auch gerne gehabt jedes Mal den Tisch zu wischen nach dem Essen. 
+Ich hätte das auch gerne...
+Auch immer alles sofort wegräumen
+Ich hatte ja zu manchen Zeiten für gar nix Energie.
+
+Dieses spontane sauber machen nach Impuls, Lust und Energie hatten wir ja beide. 
+
+Sie wollte dann aus irgendwelchen Gründen feste Tage an dem wir genau das eine machen, bzw. Die Person die dafür eingetragen ist.
+
+Was für mich aber total unlogisch ist. Und mir auch total die Lust und Freude nimmt. Manchmal staubsauge ich jeden zweiten Tag. 
+Und warum soll ich nen Tag warten bis ich dann das Waschbecken putze, wenn ich gerade jetzt Lust darauf habe und auch dann wenn eigentlich sie dran wäre. 
+Das ist total unentspannt. Ich finde das hätte für mehr Kommunikation/Ärger/Diskussion gesorgt.
+Ich hab ihr auch immer gesagt, wenn du möchtest dass ich etwas mache, dann sag mir das, dann mache ich das einfach, aber zwing mich nicht es jetzt sofort zu machen, weil es dir danach ist.
+
+
+Es ist bei ihr dieses verquere unfair Gefühl gewesen was sie nicht gegen gecheckt hat mit der Realität.
+
+Es ging da auch nie um die Sachen...
+Sie hat ihre Emotionen damit über eine Sache ausgedrückt mit der sie vermeintlich Druck machen konnte.
+
+Es waren aber immer andere versteckte Gründe.
+Die musste ich dann immer erst erforschen.
+
+Das sind einfach Muster die sie von ihrer Familie hat. 
+
+Ist da haar genau so 
+
+Mir hat das weh getan alles so persönlich zu nehmen.
+Statt mit Nachsicht an die Dinge zu gehen.
 ## 26-04-01
 ### arthur
 Wenn du dir im Herbst die türkische Band ansiehst, wirst du wohl auch microtonale musik hören.
