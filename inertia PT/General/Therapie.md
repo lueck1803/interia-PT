@@ -965,6 +965,23 @@ Danke dass du mich blockiert hast und <span style="font-size:100%;color: lawngre
 
 [Bonelli: Kopf Herz und Bauch - kurz](https://youtu.be/_8aKhwJzTTM?si=8olx0XTKGQmNcbdZ)
 
+## 26-04-02
+Es wird aber deutlich weniger, dass ich diese Momente habe, in denen ich an diese Momente und das Gefühl von "ich bin schuld/ich war nicht gut genug", Trauer darüber dass ich nicht konnte wie ich wollte. 
+
+Es wird aber noch Millionen Momente geben in denen ich sie vermisse und mir denke, dass sie hier her gehört und ich diese mit ihr teilen möchte.
+
+Ich weiß ja dass es ihr immer genau so ging wenn sie irgendwo war und ich nicht dabei sein konnte. 
+
+Sie wollte mich ja eigentlich überall mit hinnehmen.
+
+Ich hätte gerne immer die Energie gehabt und mich nicht so social awkward gefühlt.
+
+Sie wusste doch warum ich mich so gefühlt habe und war doch daran dass zu ergründen.
+
+Ja es war quälend langsam.
+Das weiß ich.
+
+Ihre Entwicklung war ja auch quälend langsam in bestimmten Bereichen
 ## 26-03-13
 - Ich muss mich nicht rechtfertigen wenn ich nicht ans telefon gehe/gehen kann.
 	- ob mein handy lautlos ist
