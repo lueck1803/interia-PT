@@ -15,6 +15,21 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+## 26-04-03
+### Arthur
+Ich hab mich jetzt nach längerer Pause wieder an das Solo 2 heran probiert.
+
+Der Übergang zu den triolen klappt jetzt ganz gut und ich bin auch wieder 5% schneller
+
+Hier falls du es dir mal anhören und sage magst, ob du da ne Verbesserung wahrnimmst?
+
+Ich hab's übrigens im Stehen gespielt 😃
+
+---
+Hab's mir jetzt nochmal mit etwas zeitlichem Abstand angehört
+ohje der Anfang ist extrem langsam xD.
+Muss ich aber momentan noch, da Die Triolen im Verhältnis recht schnell sind.
+ich merke auch, dass ich mich dann bei den Triolen verspielt habe.
 ## 26-04-02
 ### fredin
 Ne Arooj hat ja schon genau so Haushalt gemacht.
