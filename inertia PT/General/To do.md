@@ -2,7 +2,7 @@
 - [ ] ~={Crimson}Wie schaffe ich es immer aroused zu sein?=~
 - [ ] ~={Crimson}Tisch aufräumen!=~
 - [x] Vokabeln ab Seite 19 eintragen 
-- [ ] Tisch absenken 
+- [x] Tisch absenken 
 - [x] bennos mail lesen
 - [ ] Reifendruck checken
 - [x] Spülmaschine ausräumen
