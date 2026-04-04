@@ -7,11 +7,11 @@
 - [ ] Reifendruck checken
 - [x] kraft Sport 
 - [ ] einkaufschip clip mit metallkleber kleben
-- [ ] Essen wegräumen
+- [x] Essen wegräumen
 - [x] Duschen
 - [x] zähne putzen
 - [x] rasieren
-- [ ] Aldi
+- [x] Aldi
 - [x] Staubsaugen
 - [x] Aldi neben an checken wegen
 	- [x] pesto
