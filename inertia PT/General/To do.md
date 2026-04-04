@@ -12,8 +12,7 @@
 - [ ] zähne putzen
 - [ ] rasieren
 - [ ] Aldi
-- [x] Spülmaschine ausräumen
-- [x] Erbsen kochen
+- [ ] Staubsaugen
 - [x] Aldi neben an checken wegen
 	- [x] pesto
 	- [ ] Erbsen 
@@ -21,18 +20,13 @@
 	- falls nicht vorhanden in den ~={LawnGreen}Aldi neben Mömax =~
 - [ ] ~={Magenta}hessenbox=~ vom laptop entfernen
 - [ ] check for new mac os update - the next newer than Sonoma
-- [x] ~={LawnGreen}browser=~ aufräumen
 - [ ] Aritra fragen wie er genau alles in visual studio code eingerichtet hat
 - [ ] emails aufräumen
 	- [ ] jean-lueck
 	- [ ] lukasludwigwalter
-- [x] Email von der walther gruppe entfernen
 - [ ] ksk app contactless pay notification anstellen 
 - [ ] nochmal über thunderbolt karte nachdenken
 - [ ] maus reparieren
-- [x] Backbleche fertig spülen 
-	- [ ] Ofen putzen 
-	- [ ] Backbleche wegräumen  
 - [x] Termin mit seib glaszis ausmachen 
 - [ ] D-Ticket auf handy 
 - [ ] Gyros+pita aus Gefriertruhe essen
@@ -46,8 +40,6 @@
 	- [ ] Dann wegen den Stunden Seit 20.2. Da ich keinen Zugriff mehr auf Toggle hatte.
 - [ ] Waschbecken Küche 
 - [x] Gitarre putzen 
-- [x] Duschen 
-- [x] staub saugen
 - [x] müll runter 
 - [x] Küche aufräumen
 - [x] Esstisch wischen 
