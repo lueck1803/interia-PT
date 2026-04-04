@@ -1,5 +1,5 @@
-- [ ] toast
-- [ ] Schmelzkäse 
+- [x] toast
+- [x] Schmelzkäse 
 - [ ] grüne Erbsen 
 - [x] Backpapier
 - [x] Hafermilch 
