@@ -1434,6 +1434,23 @@ Manchmal hatte sie dann auch so das Gefühl so schlecht behandelt zu werden, hat
 
 ## [Zwangsheirat mitten in Deutschland](https://youtu.be/-57H2OkeyjA?is=UZgWrw6xrhDndE8W)
 ### 26-04-04
+@an61149 ja richtig.
+
+Ich weiß allerdings aus eigener Erfahrung, dass sie teilweise die ebenso oder stärkere Treiber sind. 
+Indoktrination hin oder her. Das gilt ja genau so für Männer, dass sie indoktriniert werden, aber denen wird nicht die Eigenverantwortung abgesprochen.
+Das ist schon etwas sexistisch 😅.
+
+Mütter und Schwestern sind zum Teil genauso radikal.
+Da sie es ihrer Tochter oder Schwester nicht gönnen, da sie selbst sich der Familie unterworfen haben und sie ebenso als unzüchtig oder ehrbeschmutzend bewerten.
+
+Die Männer alleine können das gar nicht tragen. Außerdem sind die Männer in den meisten Familien gar nicht so mächtig. Die Frauen haben da auch sehr häufig "die Hosen an".
+Auch Gewalt wird sehr häufig von Müttern ausgeübt.
+Der soziale Druck durch Schwestern, Cousinen und Tanten ist immense.
+
+Frauen sind definitiv ebenso Täter.
+
+Das Patriarchat ist ein Mythos. Man kann das zwar als patriarchales system bezeichnen, da Männer eine stärker nach außen gerichtete Rolle haben und als höher gestellt positioniert werden. Das ist zb im Islam nunmal auch die gottgegebene Stellung. Die Frauen nehmen das so aber als verteidigenswürdige Lebensweise an da sie sich als gottgefällig und moralisch überlegen sehen. Im Islam ist der Überlegenheitsgedanke sehr präsent.
+
 @Jonne610 ja definitiv.
 Ich finde einen sachlichen Umgang damit extrem wichtig.
 
