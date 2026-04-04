@@ -5,14 +5,14 @@
 - [x] Tisch absenken 
 - [x] bennos mail lesen
 - [ ] Reifendruck checken
-- [ ] kraft Sport 
+- [x] kraft Sport 
 - [ ] einkaufschip clip mit metallkleber kleben
 - [ ] Essen wegräumen
-- [ ] Duschen
-- [ ] zähne putzen
-- [ ] rasieren
+- [x] Duschen
+- [x] zähne putzen
+- [x] rasieren
 - [ ] Aldi
-- [ ] Staubsaugen
+- [x] Staubsaugen
 - [x] Aldi neben an checken wegen
 	- [x] pesto
 	- [ ] Erbsen 
