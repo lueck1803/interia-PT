@@ -1,10 +1,17 @@
 # unsortiert
 - [ ] ~={Crimson}Wie schaffe ich es immer aroused zu sein?=~
-- [ ] ~={Crimson}Tisch aufräumen!=~
+- [x] ~={Crimson}Tisch aufräumen!=~
 - [x] Vokabeln ab Seite 19 eintragen 
 - [x] Tisch absenken 
 - [x] bennos mail lesen
 - [ ] Reifendruck checken
+- [ ] kraft Sport 
+- [ ] einkaufschip clip mit metallkleber kleben
+- [ ] Essen wegräumen
+- [ ] Duschen
+- [ ] zähne putzen
+- [ ] rasieren
+- [ ] Aldi
 - [x] Spülmaschine ausräumen
 - [x] Erbsen kochen
 - [x] Aldi neben an checken wegen
@@ -26,11 +33,10 @@
 - [x] Backbleche fertig spülen 
 	- [ ] Ofen putzen 
 	- [ ] Backbleche wegräumen  
-- [ ] Termin mit seib glaszis ausmachen 
+- [x] Termin mit seib glaszis ausmachen 
 - [ ] D-Ticket auf handy 
-- [ ] kraft Sport 
 - [ ] Gyros+pita aus Gefriertruhe essen
-- [ ] was mit Gemüse und Tofu kochen
+- [x] was mit Gemüse und Tofu kochen
 	- [ ] erst was mit den bohnen im Glas 
 - [ ] Bei Schulen vorbei schauen
 - [ ] Konto checken
