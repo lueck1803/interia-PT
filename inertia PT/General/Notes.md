@@ -1432,6 +1432,26 @@ Manchmal hatte sie dann auch so das Gefühl so schlecht behandelt zu werden, hat
 
 # yt Kommentare
 
+## 
+@Jonne610 ja definitiv.
+Ich finde einen sachlichen Umgang damit extrem wichtig.
+
+Wir haben unsere Werte und Gesetze, die sich die Generationen vor uns erkämpft haben und auf deren Einhaltung müssen wir pochen.
+
+Wenn dann jemand mit Rassismus Vorwürfen kommt, die absolut lächerlich sind, dann darf man sich davon nicht einschüchtern lassen. 
+
+Im Grunde ist die falsch verstandene Toleranz das rassistische Verhalten.
+
+Es gibt genug Menschen die aus den Kulturkreisen nach Deutschland gekommen sind, um vor solchen Strukturen fern und sicher zu sein. 
+
+Die lassen wir seit Jahren im Stich.
+
+Das negative Verhalten einiger nicht gerade weniger wirkt sich extrem negativ auf das Bild Aller mit entsprechendem Migrationshintergrund aus. 
+
+Die gilt es mit konsequentem Handeln zu beschützen.
+
+Was arrangierte Ehen und den perfiden Familiären Strukturen dahinter angeht, habe ich selbst über 10 Jahre intensive Erfahrungen hinter mir.
+
 ## 26-02-12 hannah spiers
 The truth is somewhere in between.
 
