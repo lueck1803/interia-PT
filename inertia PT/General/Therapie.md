@@ -1,6 +1,7 @@
 
 # Tägliches Mantra
 - Sachlich sein aber heißt : <span style="font-size:100%;color:limegreen;">Der Ichhaftigkeit des anderen niemals dienstbar sein.</span>
+- morgens erstmal ~={DeepSkyBlue}Tale of House Hoslow=~ hören
 - Arooj hat mich behandelt wie Dreck, als wäre ich böse und manipulativ 
 - Arthur 
 	- <span style="font-size:100%;color:red;">keine zwei Nachrichten auf einmal</span>
