@@ -5,6 +5,7 @@
 - [x] Tisch absenken 
 - [x] bennos mail lesen
 - [ ] Reifendruck checken
+- [ ] ~={Teal}test=~
 - [x] Tastatur und Gitarre wischen
 - [x] Küche aufräumen
 - [x] Wäsche anstellen 
