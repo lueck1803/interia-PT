@@ -5,7 +5,7 @@
 - [x] Tisch absenken 
 - [x] bennos mail lesen
 - [ ] Reifendruck checken
-- [ ] Tastatur und Gitarre wischen
+- [x] Tastatur und Gitarre wischen
 - [ ] Küche aufräumen
 - [x] Wäsche anstellen 
 - [x] kraft Sport 
