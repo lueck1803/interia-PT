@@ -2079,3 +2079,13 @@ momentan habe ich mich an die tiefen Saiten gewöhnt. Außerdem übe ich damit s
 
 auf den höheren saiten rutsche ich dann auch zwischen 7. und 6. Bund hin und her.
 dadurch muss ich zu sehr aufpassen keinen Slide zu produzieren. 
+
+ich musst auch erstmal "verstehen", dass die Noten bis auf zwei stellen exakt gleich lang sind.
+
+  
+
+egal ob ein Ton zweimal gespielt wird und ob mehrfach zwischen zwei Tönen hin und her gesprungen wird.
+
+  
+
+ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
