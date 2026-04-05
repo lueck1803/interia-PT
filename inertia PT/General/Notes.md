@@ -2066,3 +2066,26 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 # Philosophie 
 - ![](Pasted%20image%2020251205205458.png)
 
+# Musik
+## Kalmah
+### swamphell
+#### solo2 triolen
+![[Pasted image 20260405133801.png]]
+![[Pasted image 20260405133826.png]]
+
+bei der stelle bin ich mir nur nicht sicher, ob ich es auf den tiefen oder den hohen Saiten spielen soll.
+
+momentan habe ich mich an die tiefen Saiten gewöhnt. Außerdem übe ich damit strecht und die hand sauber mit zu führen.
+
+auf den höheren saiten rutsche ich dann auch zwischen 7. und 6. Bund hin und her.
+dadurch muss ich zu sehr aufpassen keinen Slide zu produzieren. 
+
+ich musst auch erstmal "verstehen", dass die Noten bis auf zwei stellen exakt gleich lang sind.
+
+  
+
+egal ob ein Ton zweimal gespielt wird und ob mehrfach zwischen zwei Tönen hin und her gesprungen wird.
+
+  
+
+ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
