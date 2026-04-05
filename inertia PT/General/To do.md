@@ -6,7 +6,7 @@
 - [x] bennos mail lesen
 - [ ] Reifendruck checken
 - [x] Tastatur und Gitarre wischen
-- [ ] Küche aufräumen
+- [x] Küche aufräumen
 - [x] Wäsche anstellen 
 - [x] kraft Sport 
 - [ ] Lattenrost einstellen 
