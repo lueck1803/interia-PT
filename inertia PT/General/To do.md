@@ -5,6 +5,7 @@
 - [x] Tisch absenken 
 - [x] bennos mail lesen
 - [ ] Reifendruck checken
+- [ ] Test 
 - [x] Wäsche anstellen 
 - [x] kraft Sport 
 - [ ] Lattenrost einstellen 
