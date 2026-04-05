@@ -7,8 +7,8 @@
 - [ ] Reifendruck checken
 - [x] kraft Sport 
 - [ ] Lattenrost einstellen 
-	- [ ] 
-- [ ] 
+	- [ ] Kameraaufnahme 
+- [ ] Steckdosenleiste unter dem Bett umsetzen 
 - [ ] einkaufschip clip mit metallkleber kleben
 - [x] Essen wegräumen
 - [x] Duschen
