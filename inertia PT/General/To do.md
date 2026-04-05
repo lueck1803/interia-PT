@@ -7,6 +7,8 @@
 - [ ] Reifendruck checken
 - [x] kraft Sport 
 - [ ] Lattenrost einstellen 
+	- [ ] 
+- [ ] 
 - [ ] einkaufschip clip mit metallkleber kleben
 - [x] Essen wegräumen
 - [x] Duschen
