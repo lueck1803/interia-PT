@@ -10,9 +10,10 @@
 - [x] Wäsche anstellen 
 - [x] kraft Sport 
 - [ ] Lattenrost einstellen 
-	- [ ] Kameraaufnahme 
+	- [ ] Kameraaufnahme von unten, während ich drauf liege, um zusehen, was sich wie bewegt.
 - [ ] Steckdosenleiste unter dem Bett umsetzen 
 - [ ] einkaufschip clip mit metallkleber kleben
+	- [ ] erst versuchen teile anzuschleifen
 - [x] Essen wegräumen
 - [x] Duschen
 - [x] zähne putzen
