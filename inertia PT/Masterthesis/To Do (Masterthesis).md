@@ -137,6 +137,30 @@ $$
 
 # Thesis
 
+## to do
+- [ ] ~={Magenta}explain the meaning of the binder cumulant as the deviation of the gaussian shape=~
+- [ ] liste die paper bzgl. der universality class auf <span style="font-size:100%;color: limegreen;">einiges in Dittrich aufgelistet</span>
+- [ ] vom siebert den einstieg in den box algo schreiben. bzw. unter <span style="font-size:100%;color: cyan;">Evaluation methods to determine critical points in non-equilibrium systems</span>
+- [ ] Folien durch gehen und damit den groben fahrplan / struktur machen
+- [ ] Den Weg vom der ursprünglichen Box eval methode zum Box algo beschreiben.
+	- [ ] Erstes paper
+		- [ ] warum haben die diesen eingeführt
+		- [ ] was war die Idee 
+		- [ ] was das Vorgehen 
+		- [ ] was ist zu beachten und wichtig
+	- [ ] box-algo
+		- [ ] Warum waren die Veränderungen nötig
+		- [ ] was war die problemstellung bei der ursprünglichen Methode? Also was hat nicht funktioniert?
+		- [ ] Was ist die idee und wie funktioniert er?
+			- [ ] im report schauen
+			- [ ] in den Folien schauen
+- [ ] Damit meine Arbeit beschreiben. strickt anhand der Folien
+- [ ] Probleme des Algorithms beschreiben 
+- [ ] Dann meine Introduction passend dazu schreiben
+- [ ] Dann den theoretical background
+- [ ] dann das create simulation program
+- [ ] create simulation program auf dem cluster hochladen und beschreiben
+
 ## toc
 - [ ] Motivation / Introduction
 - [ ] basics / Phasetransition
@@ -179,28 +203,6 @@ $$
 				3. the threshold is lowered if there are to few square boxes. (which shouldn't be the case)
 				- here is no quality management or overlapping / collision management necessary
 
-## to do
-- [ ] liste die paper bzgl. der universality class auf <span style="font-size:100%;color: limegreen;">einiges in Dittrich aufgelistet</span>
-- [ ] vom siebert den einstieg in den box algo schreiben. bzw. unter <span style="font-size:100%;color: cyan;">Evaluation methods to determine critical points in non-equilibrium systems</span>
-- [ ] Folien durch gehen und damit den groben fahrplan / struktur machen
-- [ ] Den Weg vom der ursprünglichen Box eval methode zum Box algo beschreiben.
-	- [ ] Erstes paper
-		- [ ] warum haben die diesen eingeführt
-		- [ ] was war die Idee 
-		- [ ] was das Vorgehen 
-		- [ ] was ist zu beachten und wichtig
-	- [ ] box-algo
-		- [ ] Warum waren die Veränderungen nötig
-		- [ ] was war die problemstellung bei der ursprünglichen Methode? Also was hat nicht funktioniert?
-		- [ ] Was ist die idee und wie funktioniert er?
-			- [ ] im report schauen
-			- [ ] in den Folien schauen
-- [ ] Damit meine Arbeit beschreiben. strickt anhand der Folien
-- [ ] Probleme des Algorithms beschreiben 
-- [ ] Dann meine Introduction passend dazu schreiben
-- [ ] Dann den theoretical background
-- [ ] dann das create simulation program
-- [ ] create simulation program auf dem cluster hochladen und beschreiben
 
 ## latex
 
