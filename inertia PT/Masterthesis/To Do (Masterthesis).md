@@ -644,7 +644,8 @@ flowchart TB
 	- checking for translations and formulations
 	- learning language
 	- In past to find out how to do/solve things.
-		- for example, I worked for 
+		- I had to use it for work a lot, since my 
+		- give an overview for a new field I have to explore. simple step by step guides
 	- if you use google as a search engine than you always stumble about the small summaries
 		- I read them always but I found so often mistakes
 	- I recognized extrem sycophancy 
@@ -653,8 +654,9 @@ flowchart TB
 		- it finds arguments for it, so some people may think that their opinion is true
 	- I have a friend who use it frequently for psychological advises
 		- analyse conversations with people and what happend today
-		- I can say in total that these psychological advises are quite good
-		- but here it al
+		- I can say in total that these psychological advises are quite good. studies show that its much better than have no advise and it tends to be 
+		- but here it also tends to sychophancy
+		- 
 ### Benno
 - check if calculations are right
 ### Blackboard
