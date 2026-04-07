@@ -4,6 +4,7 @@
 - morgens erstmal ~={DeepSkyBlue}Tale of House Hoslow=~ hören
 	- bzw ein ganzes Album von ~={purple}Bloody Valkyria=~
 - Arooj hat mich behandelt wie Dreck, als wäre ich böse und manipulativ 
+- ~={Crimson}Limerenz=~ zu Arooj beenden 
 - Arthur 
 	- <span style="font-size:100%;color:red;">keine zwei Nachrichten auf einmal</span>
 	- Logistik klären und Stimmung
