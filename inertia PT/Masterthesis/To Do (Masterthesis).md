@@ -643,6 +643,7 @@ flowchart TB
 	- I didn't use it that much in past, but try to be more open
 		- but I'am always careful and skeptical 
 		- in some chases it produces errors in texts or code that weren't there before
+		- and I had no brain capacity to check it, and made me insecure about mistakes
 	- checking for translations and formulations
 	- learning language
 	- In past to find out how to do/solve things.
