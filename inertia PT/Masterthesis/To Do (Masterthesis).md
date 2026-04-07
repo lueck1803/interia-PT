@@ -643,7 +643,8 @@ flowchart TB
 	- I didn't use it that much in past, but try to be more open
 		- but I'am always careful and skeptical 
 		- since it made me insecure, because of it seams in the form and from the formulations quiet sensible, but in the details were so many flaws.
-			- this created a great insecurity in me, since I cannot 
+			- this created a great insecurity in me, since I cannot trust in it and have to check twice
+			- and also have to check what I have already written and thought trough, since I do not know and cannot check every particular change and makes it more vague why it works or why not, its so much trust and guessing in some points
 		- in some chases it produces errors in texts or code that weren't there before
 		- and I had no brain capacity to check it, and made me insecure about mistakes
 	- checking for translations and formulations

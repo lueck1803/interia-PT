@@ -16,7 +16,25 @@ Kind regards
 Lukas Walter 
 # Nachrichten an Leute
 ## 26-04-07
-### 
+### Flo
+ich hab mir die melodie vorgesummt/gesungen, um die Töne zu finden.
+
+und habe dann an der Gitarre durch probiert. Ich habe mich jetzt nicht explizit nach einer Tonleiter orientiert. Aber so ungefähr habe ich mittlerweile im Gefühl, welche Töne zu einer imaginierten Tonleiter passen. also welche Abstände
+
+lag also nicht am instrument.
+
+Ich habs in Vergangenheit auch schon mit dem keyboard gemacht.
+
+Es gab nur irgendwann nen Punkt bei dem ich das Gefühl hatte, gar keinen plan zu haben.
+Da ich dann häufig nicht weiß ob der ton jetzt höher oder tiefer ist, außer es ist wirklich klar...
+
+Ich hab mich wirklich stark an meiner Vorgesummten melodie orientiert und das hat echt gut geklappt.
+
+Du hattest das mir ja auch sehr häufig im Chor vorgemacht und zu letzt als ich dich um Hilfe bei Fresh fur gebeten habe.
+
+Es ist wirklich der Punkt, dass ich so sehr erstaunt darüber bin, dass ich dann doch orientierung dahinein bringen konnte, die Töne am instrument zu finden.
+
+Mit meiner Stimme und in meinem Kopf, war ich offenbar ziemlich genau an der Melodie
 ## 26-04-03
 ### Arthur
 Ich hab mich jetzt nach längerer Pause wieder an das Solo 2 heran probiert.
