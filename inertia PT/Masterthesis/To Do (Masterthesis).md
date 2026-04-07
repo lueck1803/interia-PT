@@ -638,6 +638,9 @@ flowchart TB
   ![[Pasted image 20251118121845.png]] (Hecht2021)
 - Something (Weaks-chanderler potential) is hard to parallelize 
 # JC / group meeting
+## 26-04-07
+- intention: exchange about the own usage
+	- 
 ## 26-03-31 LLM Discussion
 - take over so much work which was work for a week before
 - we cannot avoid it
