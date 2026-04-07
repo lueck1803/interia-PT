@@ -9,7 +9,7 @@
 	- ~={LawnGreen}anschauen=~ um sie loszuwerden 
 		- anschauen und wahrnehmen 
 		- nicht darin verlieren 
-	- 
+	- ist dieser Gedanke 
 - Arthur 
 	- <span style="font-size:100%;color:red;">keine zwei Nachrichten auf einmal</span>
 	- Logistik klären und Stimmung
