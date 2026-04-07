@@ -1005,5 +1005,9 @@ $$
 	- the amplitude of the noise on the alignment
 	- the ratio of the travel distance $v\Delta t$ to the interaction range $r$ 
 # LLM
-## TU
+## TUDaGPT
+![[Pasted image 20260407132230.png]]
+![[Pasted image 20260407132257.png]]
+![[Pasted image 20260407132320.png]]![[Pasted image 20260407132336.png]]
+
 
