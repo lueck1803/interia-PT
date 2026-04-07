@@ -2,11 +2,12 @@
 - [ ] ~={Crimson}Wie schaffe ich es immer aroused zu sein?=~
 - [x] ~={Crimson}Tisch aufräumen!=~
 - [ ] Vokabeln ab Seite 26 eintragen 
+- [ ] ecr kollo
 - [x] Tisch absenken 
 - [x] bennos mail lesen
 - [ ] Reifendruck checken
-- [ ] Tastatur wischen
-- [ ] Gitarre wischen
+- [x] Tastatur wischen
+- [x] Gitarre wischen
 - [x] Küche aufräumen
 - [x] Wäsche anstellen 
 - [x] kraft Sport 
