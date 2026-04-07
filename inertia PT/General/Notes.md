@@ -1453,6 +1453,26 @@ Manchmal hatte sie dann auch so das Gefühl so schlecht behandelt zu werden, hat
 # yt Kommentare
 
 ## 26-04-07 
+9:47 ja natürlich kommt er zu dir und fragt dich, weil es natürlich interessant ist warum du dich dafür interessierst.
+
+Und du viel interessanter bist als alte Männer die über die NVA erzählen, da das nach deiner Erzählung ja mehrere gemacht haben. 
+
+Du bist halt etwas anderes und "neues".
+
+Das selbe habe ich erlebt wenn ich auf ne Veranstaltung gegangen bin auf der hauptsächlich Türkisch stämmige waren oder neu in einem Verein war in dem hauptsächlich Senioren sind.
+
+Und wenn man dann noch interessante Fragen stellt dann sind Leute an einem interessiert.
+
+Ich verstehe Leute nicht die alles immer in ihrem opfernarrativ auslegen.
+
+Ich bin so häufig schon gefragt worden von Kindern in der Schule ob ich Deutscher bin.
+
+Obwohl ich aussehe "wie ein deutscher" und eindeutig Muttersprachler bin. 
+
+Da kam so häufig die Frage "wo kommst du her?" Und nachdem ich meinen Wohnort genannt habe, wurde die frage präzisiert.
+
+Na und? Ganz normale Neugierde, da Menschen aus gewissen Gründen verwirrt sind.
+
 15:05 bester Punkt, so sehe ich das auch.
 
 Die Problematik mit den Crashtest Dummies gibt's an so vielen Stellen und es ist gut dass man es erkannt hat. 
