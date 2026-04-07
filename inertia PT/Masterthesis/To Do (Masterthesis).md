@@ -640,7 +640,8 @@ flowchart TB
 # JC / group meeting
 ## 26-04-07
 - <u>intention:</u> exchange about the own usage
-	- I don't use it that much
+	- I didn't use it that much in past, but try to be more open
+		- but I'am always careful and skeptical 
 	- checking for translations and formulations
 	- learning language
 	- In past to find out how to do/solve things.
@@ -662,13 +663,12 @@ flowchart TB
 ### Blackboard
 - <u>analytical:</u>
 	- check analytical calculations
-	- get ideas of analytical 
+	- get ideas of analytical derivations
 - <u>write papers:</u>
 	- spell & language checking
 	- rewriting language style & coherence
 	- 
 - <u>Coding:</u>
-### Blackboard
 
 ## 26-03-31 LLM Discussion
 - take over so much work which was work for a week before
