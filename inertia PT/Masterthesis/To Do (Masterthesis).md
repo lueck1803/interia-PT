@@ -644,7 +644,7 @@ flowchart TB
 	- checking for translations and formulations
 	- learning language
 	- In past to find out how to do/solve things.
-		- I had to use it for work a lot, since my 
+		- I had to use it for work a lot, since my employer/principal expected it from me
 		- give an overview for a new field I have to explore. simple step by step guides
 	- if you use google as a search engine than you always stumble about the small summaries
 		- I read them always but I found so often mistakes
@@ -656,9 +656,18 @@ flowchart TB
 		- analyse conversations with people and what happend today
 		- I can say in total that these psychological advises are quite good. studies show that its much better than have no advise and it tends to be 
 		- but here it also tends to sychophancy
-		- 
+	- summarize a video
 ### Benno
 - check if calculations are right
+### Blackboard
+- <u>analytical:</u>
+	- check analytical calculations
+	- get ideas of analytical 
+- <u>write papers:</u>
+	- spell & language checking
+	- rewriting language style & coherence
+	- 
+- <u>Coding:</u>
 ### Blackboard
 
 ## 26-03-31 LLM Discussion
