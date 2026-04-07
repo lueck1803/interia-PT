@@ -7,6 +7,7 @@
 - ~={Crimson}Limerenz=~ zu Arooj beenden 
 - negative Gedanken:
 	- ~={LawnGreen}anschauen=~ um sie loszuwerden 
+		- anschauen 
 	- 
 - Arthur 
 	- <span style="font-size:100%;color:red;">keine zwei Nachrichten auf einmal</span>
