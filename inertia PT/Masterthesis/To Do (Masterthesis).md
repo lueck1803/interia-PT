@@ -638,6 +638,50 @@ flowchart TB
   ![[Pasted image 20251118121845.png]] (Hecht2021)
 - Something (Weaks-chanderler potential) is hard to parallelize 
 # JC / group meeting
+## 26-04-07
+- <u>intention:</u> exchange about the own usage
+	- I didn't use it that much in past, but try to be more open
+		- but I'am always careful and skeptical 
+		- since it made me insecure, because of it seams in the form and from the formulations quiet sensible, but in the details were so many flaws.
+			- this created a great insecurity in me, since I cannot trust in it and have to check twice
+			- and also have to check what I have already written and thought trough, since I do not know and cannot check every particular change and makes it more vague why it works or why not, its so much trust and guessing in some points
+		- in some chases it produces errors in texts or code that weren't there before
+		- and I had no brain capacity to check it, and made me insecure about mistakes
+	- checking for translations and formulations
+	- learning language
+	- In past to find out how to do/solve things.
+		- I had to use it for work a lot, since my employer/principal expected it from me
+		- give an overview for a new field I have to explore. simple step by step guides
+	- if you use google as a search engine than you always stumble about the small summaries
+		- I read them always but I found so often mistakes
+	- I recognized extrem sycophancy 
+		- when friends use them and try to argue with it
+		- if you ask for "if something is true", it tends to say "yes"
+		- it finds arguments for it, so some people may think that their opinion is true
+	- I have a friend who use it frequently for psychological advises
+		- analyse conversations with people and what happend today
+		- I can say in total that these psychological advises are quite good. studies show that its much better than have no advise and it tends to be 
+		- but here it also tends to sychophancy
+	- summarize a video
+### Benno
+- check if calculations are right
+### leif
+- stopped using chatgpt, since it is to agreeable
+- especially for coding
+	- how to make code more efficient
+	- debugging
+### kayro
+- you need to know how to code, since you need to check it quite thoroughly 
+### Blackboard
+- <u>analytical:</u>
+	- check analytical calculations
+	- get ideas of analytical derivations
+- <u>write papers:</u>
+	- spell & language checking
+	- rewriting language style & coherence
+	- quickly write bullet points
+- <u>Coding:</u>
+
 ## 26-03-31 LLM Discussion
 - take over so much work which was work for a week before
 - we cannot avoid it
@@ -960,5 +1004,10 @@ $$
 	- the density of particles
 	- the amplitude of the noise on the alignment
 	- the ratio of the travel distance $v\Delta t$ to the interaction range $r$ 
-~
+# LLM
+## TUDaGPT
+![[Pasted image 20260407132230.png]]
+![[Pasted image 20260407132257.png]]
+![[Pasted image 20260407132320.png]]![[Pasted image 20260407132336.png]]
+
 
