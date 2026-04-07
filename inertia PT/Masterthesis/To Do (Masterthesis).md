@@ -642,6 +642,7 @@ flowchart TB
 - <u>intention:</u> exchange about the own usage
 	- I didn't use it that much in past, but try to be more open
 		- but I'am always careful and skeptical 
+		- in some chases it produces errors in texts or code that weren't there before
 	- checking for translations and formulations
 	- learning language
 	- In past to find out how to do/solve things.
@@ -660,6 +661,13 @@ flowchart TB
 	- summarize a video
 ### Benno
 - check if calculations are right
+### leif
+- stopped using chatgpt, since it is to agreeable
+- especially for coding
+	- how to make code more efficient
+	- debugging
+### kayro
+- you need to know how to code, since you need to check it quite thoroughly 
 ### Blackboard
 - <u>analytical:</u>
 	- check analytical calculations
@@ -667,7 +675,7 @@ flowchart TB
 - <u>write papers:</u>
 	- spell & language checking
 	- rewriting language style & coherence
-	- 
+	- quickly write bullet points
 - <u>Coding:</u>
 
 ## 26-03-31 LLM Discussion
