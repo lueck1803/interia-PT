@@ -9,7 +9,30 @@
 	- ~={LawnGreen}anschauen=~ um sie loszuwerden 
 		- anschauen und wahrnehmen 
 		- nicht darin verlieren 
-	- ist dieser Gedanke 
+	- ~={DeepSkyBlue}Frage=~: ~={red}ist dieser Gedanke hilfreich?=~
+		- sich selbst wieder das Steuer an deiner Gedanken bringen
+		- wenn du dich wegen deiner Gedanken schlecht fühlst, dann hast du ihnen schon längst das Steuer überlassen 
+		- mit dem Stellen der Frage macht man automatisch ~={Gold}einen Schritt zurück=~ und schaust dir diesen Gedanken objektiv an
+		- ⟹bewegt sich automatisch vom ~={Tomato}Bereich des Gehirns=~ mit dem man mit den Gedanken ~={Tomato}fest steckt=~
+		- ⤷hin zu dem ~={MediumSpringGreen}Bereich der bestimmt=~, was als ~={MediumSpringGreen}nächstes gedacht=~ wird
+		- Erlaubnis diese Gedanken gehen zu lassen
+	- Gedanken wie laufende DVD
+		- hat sie Kratzer oder nicht? 
+		- ⤷dazu muss man sie anhalten und aus dem DVD Laufwerk herausholen und sich anschauen 
+		- dann ist er angehalten, die dvd draußen 
+		- dann bist du im hier und jetzt 
+		- dann kannst du dich entscheiden welchen Gedanken / welche DVD du als nächstes einlegen möchtest
+		- ⤷nützlichen und bestärkenden Gedanken 
+		- ins Handeln kommen und etwas an deiner Situation verbessern 
+	- ständiges Wiederholen und Trainieren, jedesmal wenn ein solcher Gedanke kommt 
+		- ernsthaft die Frage mit ~={Crimson}nein=~ beantworten 
+		- dadurch werden diese Gedanken verschwinden 
+		- wenn du das oft genug gemacht hast, dann wird das ganz leicht 
+		- ⤷Aussortieren der Gedanken wird etwas ganz automatisches
+	- ich ~={Crimson}bin nicht=~ meine negativen Gedanken 
+	- nicht dazu verpflichtet diese Gedanken zu denken
+		- ich habe ihnen nur irgendwann mal das Steuer überlassen
+		- Steuer über meine Gedanken und über mein Leben zurück holen 
 - Arthur 
 	- <span style="font-size:100%;color:red;">keine zwei Nachrichten auf einmal</span>
 	- Logistik klären und Stimmung
@@ -2365,6 +2388,35 @@ https://www.youtube.com/watch?v=gOr9PYTv2P4&t=1908s
 Ich kann das Dilemma sehr nachvollziehen, auch aus eigener Erfahrung in mehrfacher Hinsicht. Daher finde ich unser jetziges System einfach immer noch das BESTE, nach Stand der Wissenschaft, der Trendentwicklung in der Psychologie und Psychiatrie und auch der gesellschaftlichen Entwicklung. Ich weiß aus meinen eigenen Psychiatrieaufenthalten - zum Glück nur kurz - wie schwierig die Gradwanderung zwischen förderlichen und unförderlichen Zwangsentscheidungen/Handlungen ist. Da Böswilligkeit oder dem system etwas negatives und makelbehaftetes unterstellen zu wollen, liegt mir fern. Es arbeiten da halt auch nur Menschen, die auch nur studiert und etwas gelernt haben und auch mit den vielen äußeren Zwängen des Systems und ihren eigenen Limits zu kämpfen haben. Ich weiß dass mir gewisse Zwangsmaßnahmen - Zeit auf der Geschlossenen, auch mit den vielen Einschränkungen drumherum und dem Gefühl jetzt irgendwie als "Täter" behandelt zu werden, dabei war es nur Eigenschutz - sehr gut getan haben und mir das auch durch Demut und durch diese für mich als "strafe" (die keine war) empfundene Maßnahme, schon währenddessen klar wurde. Ich weiß allerdings auch wie unschön es ist Antipsychotika / Neuroleptika zu bekommen, wenn es kontraindiziert ist - war einfach "nur" eine stress und durch schwere depressionen induzierte depersonalisations/derealisations/dissoziations erfahrung. Ich bin ja auf eigenen Wunsch ins Krankenhaus gegangen, - beim ersten mal ganz klar und bewusst und beim zweiten mal war ich in der Rückschau schon in der Notaufnahme im dissoziierten Zustand. Ich habe dort auch Patienten mit Psychose erlebt, die aufgrund von Zwangsmaßnahmen dann eine Zeit "verschwunden" waren, da sie fixiert werden mussten. Ich habe auch sehr junge Leute erlebt, die durch das angesprochene Cannabis psychotisch wurden und bei denen die Zwangsmaßnahmen extrem wichtig waren und geholfen haben. Das Cannabis ist heutzutage ja so stark, dass es überhaupt nicht mehr zu vergleichen ist, mit dem was in den 60igern und 70igern konsumiert wurde und auch nicht mit dem was ich in meinem frühen Erwachsenenalter mal probiert habe. Dann habe ich Straftäter in der eigenen Nachbarschaft - ich war auch Leidtragender - erlebt, bei denen die Zwangsmaßnahmen zu gering ausfielen. Das erlebt man ja auch immer wieder in den Medien durch Fälle die zb. (abgelehnte) Asylbewerber betreffen - Aschaffenburg, Brokstedt, uvm. Und dann gibt es wieder Einzelfälle bei denen Menschen viel zu lange und trotz der Bemühungen der Familien "zu Unrecht" auf Jahre in der Forensik gehalten werden. Ich habe auch Stigmatisierung durch erhaltene Fehldiagnosen - vorläufige Entlassbriefe - erlebt, die auch trotz der Revidierungen in mir lange nachgehallt und auch so nie ganz getilgt werden können. Es ist und bleibt dennoch das beste System was wir haben! Und ich bin dankbar dafür. Es tut sich ja auch etwas. Wir irren uns empor, wie Harald Lesch zu sagen pflegt. Wir Menschen sind nunmal fehlbar, also auch unsere Systeme. Das ist aber auch ok. Das gehört zur Demut dazu. Danke für Ihre Arbeit. - Bitte verzeiht mir meine Rechtschreibfehler, ich achte nicht so gerne auf Groß/Kleinschreibung. Und für korrekte Zeichensetzung bin ich bei YT auch etwas zu faul xD, ich weiß ich trage damit zur Unkultur bei, ich gelobe Besserung -
 
 # Einzel Themen/Ereignisse
+
+## 26-04-07 Normans Geburtstag 
+Mein Neffe der Normen (der jüngste) hat heute Geburtstag.
+
+Ich habe gerade mit meinen Eltern, etwas länger telefoniert.
+
+Ich hab ihnen auch von der Situation mit der Grundschule erzählt.
+
+Fanden sie auch gut wie ich die Situation "gelöst" habe. 
+Also dass ich dann nochmal hin bin und die Sache klar gestellt habe, nachdem ich mich wieder erinnert habe.
+
+Ich habe hauptsächlich angerufen um zu fragen, was ich machen soll wegen dem Geburtstag von Norman.
+
+Meine Eltern hatten kurz bevor ich angerufen habe, dort angerufen und mit ihm gesprochen.
+
+Ich habe mich jetzt dazu entschieden, meine Schwester anzurufen und zu probieren mit Norman zu fragen, ob ich ihn sprechen kann und ihm gratulieren kann. 
+
+Ich hab mir echt schwer getan. Da ich nicht absehen kann, ob ich der Situation gewachsen bin.
+
+ Aber ich denke dass ich es jetzt einfach tun werde, da ich ja wegen Norman anrufe und wegen nichts anderem.
+
+Meine Mutter hatte kurz vor Ende des Telefonats gesagt "ruf doch an, dann brauchst du kein schlechtes Gewissen haben".
+
+Das habe ich korrigiert.
+Denn ein schlechtes Gewissen haben brauche ich in keinem Fall.
+Schlechtes Gewissen sollte niemals der Grund sein, um anzurufen.
+
+Ich rufe nicht wegen mir an oder weil ich mir Gedanken mache, was Julia denken könnte.
+Ich rufe ausschließlich wegen Norman an.
 
 ## Folienerstellen, Versuch konzentriert im hier und jetzt zu arbeiten, Suche nach Aroojs Thesis Folien
 
