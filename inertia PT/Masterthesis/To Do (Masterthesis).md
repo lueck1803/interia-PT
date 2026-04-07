@@ -642,6 +642,8 @@ flowchart TB
 - <u>intention:</u> exchange about the own usage
 	- I didn't use it that much in past, but try to be more open
 		- but I'am always careful and skeptical 
+		- since it made me insecure, because of it seams in the form and from the formulations quiet sensible, but in the details were so many flaws.
+			- this created a great insecurity in me, since I cannot 
 		- in some chases it produces errors in texts or code that weren't there before
 		- and I had no brain capacity to check it, and made me insecure about mistakes
 	- checking for translations and formulations
