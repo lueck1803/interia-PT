@@ -1453,6 +1453,39 @@ Manchmal hatte sie dann auch so das Gefühl so schlecht behandelt zu werden, hat
 # yt Kommentare
 
 ## 26-04-07 
+15:05 bester Punkt, so sehe ich das auch.
+
+Die Problematik mit den Crashtest Dummies gibt's an so vielen Stellen und es ist gut dass man es erkannt hat. 
+
+Aber so Leute kommen halt nicht auf den Gedanken dass man es einfach nicht besser wusste...
+Und es ganz sicher keine patriarchiale Verschwörung gab.
+
+Ich meine man hat es durch die Statistiken herausgefunden, da man festgestellt hat... Oh irgendwie sind die Airbags und Gurte bei Frauen nicht so super...
+
+Früher gab's keine Crashtests, keine Knautschzone etc.
+
+Das man überhaupt ne Puppe rein gesetzt hat, war ja ne Entwicklung.
+
+Und aus eigener Erfahrung kann ich berichten, dass Ingenieure meist einfach Etwas beim ersten Mal konzipieren dass es für sie passt.
+
+Dann nimmt man halt ne Puppe die so groß und schwer ist wie man selbst bzw. Macht die schalter und Griffe da hin dass man selbst gut dran kommt.
+
+Erst im nächsten Schritt versucht man es zu standardisieren.
+
+Und vorher haben erstmal mehr Männer Autos gefahren.
+Außerdem wirkt sich die Durchschnittsgröße der Männer auch auf die gesamt Durchschnittsgröße aus.
+
+Da denkt man ja nicht dran dass Frauen im Schnitt kleiner sind und dass dies eventuell so große Effekte auf die Schutzwirkung von Sicherheitsgurt und Airbag hat, dass es sich auf die Statistik auswirkt.
+
+Es ist noch gar nicht so lange her dass es keine Sicherheitsgurte gab...
+Und Airbags, habe ich ja noch erlebt dass das üblich wurde.
+
+Und warum sollte man ne Puppe mit Brüsten und anderen Körperform machen?
+Da würde einem ja eher mal direkt anderes unterstellt.
+
+Das Medikamente lange nur an Männern getestet wurden, ist studientechnisch Extrem logisch....
+
+Zur Erinnerung... Die Doppelblindtestung und auch die heutige strenge Form der medikamentenzulassungsstudien ist wirklich noch gar nicht so lange Usus..
 
 ## [Zwangsheirat mitten in Deutschland](https://youtu.be/-57H2OkeyjA?is=UZgWrw6xrhDndE8W)
 ### 26-04-04
