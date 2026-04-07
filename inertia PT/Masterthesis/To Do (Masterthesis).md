@@ -639,8 +639,13 @@ flowchart TB
 - Something (Weaks-chanderler potential) is hard to parallelize 
 # JC / group meeting
 ## 26-04-07
-- intention: exchange about the own usage
-	- 
+- <u>intention:</u> exchange about the own usage
+	- I don't use it that much
+	- In past to find out how to do/solve things.
+### Benno
+- check if calculations are right
+### Blackboard
+
 ## 26-03-31 LLM Discussion
 - take over so much work which was work for a week before
 - we cannot avoid it
