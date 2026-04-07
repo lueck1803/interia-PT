@@ -641,7 +641,11 @@ flowchart TB
 ## 26-04-07
 - <u>intention:</u> exchange about the own usage
 	- I don't use it that much
+	- checking for translations and 
 	- In past to find out how to do/solve things.
+		- for example, I worked for 
+	- if you use google as a search engine than you always stumble about the small summaries
+	- 
 ### Benno
 - check if calculations are right
 ### Blackboard
