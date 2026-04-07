@@ -641,11 +641,20 @@ flowchart TB
 ## 26-04-07
 - <u>intention:</u> exchange about the own usage
 	- I don't use it that much
-	- checking for translations and 
+	- checking for translations and formulations
+	- learning language
 	- In past to find out how to do/solve things.
 		- for example, I worked for 
 	- if you use google as a search engine than you always stumble about the small summaries
-	- 
+		- I read them always but I found so often mistakes
+	- I recognized extrem sycophancy 
+		- when friends use them and try to argue with it
+		- if you ask for "if something is true", it tends to say "yes"
+		- it finds arguments for it, so some people may think that their opinion is true
+	- I have a friend who use it frequently for psychological advises
+		- analyse conversations with people and what happend today
+		- I can say in total that these psychological advises are quite good
+		- but here it al
 ### Benno
 - check if calculations are right
 ### Blackboard
