@@ -18,8 +18,6 @@
 - [ ] einkaufschip clip mit metallkleber kleben
 	- [ ] erst versuchen teile anzuschleifen
 - [x] Essen wegräumen
-- [x] Duschen
-- [x] zähne putzen
 - [x] rasieren
 - [x] Aldi
 - [x] Staubsaugen
@@ -89,7 +87,6 @@
 - [x] ~={Tomato}Antwort von ksk?=~
 	- [x] habe bei Sparkasse angerufen. Kann ich selbst machen 
 	- [x] ~={red}war ja schon zurück gebucht... Am 17.3=~
-- [ ] Tisch aufräumen
 - [ ] Masterarbeit
 - [x] Wäsche aufhängen
 - [x] Spülmaschine 
