@@ -2141,9 +2141,11 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 	- Le professeur ~={Teal}lui=~ a permis ~={MediumSpringGreen}d'=~aller aux toilettes.
 - Demander ~={DeepSkyBlue}à=~ qn ~={MediumSpringGreen}de=~ faire qc
 	- Le patron a demandé ~={DeepSkyBlue}au=~ client ~={MediumSpringGreen}de=~ partir.
-	- Le patron a demandé ~={DeepSkyBlue}le=~ ~={MediumSpringGreen}de=~ partir.
+	- Le patron ~={DeepSkyBlue}lui=~ a demandé ~={MediumSpringGreen}de=~ partir.
 - Conseiller ~={DeepSkyBlue}à=~ qn ~={MediumSpringGreen}de=~ faire qc
 	- Je conseille ~={DeepSkyBlue}à=~ tout le monde ~={MediumSpringGreen}de=~ regarder mes videos.
+	- Je ~={Teal}leur=~ conseille ~={MediumSpringGreen}de=~ regarder mes videos.
+
 
 
 
