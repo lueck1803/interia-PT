@@ -2064,6 +2064,15 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 | vous                            | vous                               |
 | ils / elles                     | leur                               |
 
+### Empathic pronouns
+
+| subject pronouns | de moi                        |
+| ---------------- | ----------------------------- |
+|                  |                               |
+| tu               | de toi                        |
+| il / elle / on   | de lui / d'elle / de soi / en |
+
+
 ### À + Noun
 - ~={DeepSkyBlue}parler à qn=~
 	- Je parle ~={DeepSkyBlue}à=~ ma mère.
@@ -2085,7 +2094,13 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 	- On parle ~={MediumSpringGreen}de=~ ta soeur.
 - ~={MediumSpringGreen}jouer d'un instrument=~
 	- Elle joue ~={MediumSpringGreen}du=~ saxophone.
-- 
+- ~={MediumSpringGreen}discuter de qc=~
+	- Nous discutons ~={MediumSpringGreen}du=~ problème.
+- ~={MediumSpringGreen}se souvenir de qc=~
+	- Je ne me souviens plus ~={MediumSpringGreen}de=~ ton oncle.
+- ~={MediumSpringGreen}avoir besoin de qc=~
+	- Vous avez besoin ~={MediumSpringGreen}d'=~une voiture.
+
 
 
 
