@@ -1,5 +1,5 @@
 - [x] toast
-- [ ] hummus
+- [x] hummus
 - [ ] grüne Erbsen 
 - [ ] Rosmarin samen winterhart 
 - [x] Schmelzkäse 
