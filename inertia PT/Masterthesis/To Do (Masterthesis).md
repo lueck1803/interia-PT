@@ -973,7 +973,18 @@ Benno
 ## renormalization group (RG)
 The renormalization group is intimately related to scale invariance and conformal invariance, symmetries in which a system appears the same at all scales (~={LightBlue}self-similarity=~), where under the fixed point of the renormalization group flow the field theory is conformally invariant.
 
+To be more concrete, consider a magnetic system (e.g., the Ising model), in which the J coupling denotes the trend of neighbor spins to be aligned. The configuration of the system is the result of the tradeoff between the ordering J term and the disordering effect of temperature.
+For many models of this kind there are three fixed points:
 
+1. T = 0 and J → ∞. This means that, at the largest size, temperature becomes unimportant, i.e., the disordering factor vanishes. Thus, in large scales, the system appears to be ordered. We are in a ferromagnetic phase.
+2. T → ∞ and J → 0. Exactly the opposite; here, temperature dominates, and the system is disordered at large scales.
+3. A nontrivial point between them, **T = Tc and J = Jc.** In this point, changing the scale does not change the physics, because the ~={Gold}system is in a fractal state=~. It corresponds to the Curie phase transition, and is also called a ~={Tomato}critical point=~.
+### Elementary theory
+In more technical terms, let us assume that we have a theory described by a certain function 
+Z
+{\displaystyle Z} of the state variables 
+{$s_{i}$} and a certain set of coupling constants {$J_{k}$}. 
+This function may be a partition function, an action, a Hamiltonian, etc. It must contain the whole description of the physics of the system.
 ## Vicsek model
 - collective motion and swarming 
 - ~={DeepPink}minimal=~ and describes a kind of universality
