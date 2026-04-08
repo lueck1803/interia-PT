@@ -2066,17 +2066,26 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 
 ### À + Noun
 - ~={DeepSkyBlue}parler à qn=~
-	- Je parle à ma mère.
+	- Je parle ~={DeepSkyBlue}à=~ ma mère.
 	- je ~={Teal}lui=~ parle
 - ~={DeepSkyBlue}jouer à un jeu / un sport=~
-	- Il joue au tennis.
+	- Il joue ~={DeepSkyBlue}au=~ tennis.
 	- Il ~={Teal}y=~ joue.
 - ~={DeepSkyBlue}plaire à qn=~
-	- Cette chanson plaît à tous mes amis.
+	- Cette chanson plaît ~={DeepSkyBlue}à=~ tous mes amis.
+	- Cette chanson ~={Teal}leur=~ plaît.
 - ~={DeepSkyBlue}répondre à qn / qc=~
-	- Le professeur répond ~={purple}aux=~ questions.
+	- Le professeur répond ~={DeepSkyBlue}aux=~ questions.
+	- Le professeur ~={Teal}y=~  répond.
 - ~={DeepSkyBlue}s'attendre à qc=~ - to expect something
-	- Je m'attendais à un cadeau. - I was expecting a gift.
+	- Je m'attendais ~={DeepSkyBlue}à=~ un cadeau. - I was expecting a gift.
+	- Je m'~={Teal}y=~ attendais. - I was expecting it.
+### De + Noun
+- ~={MediumSpringGreen}parler de qn/qc=~ - Speak ~={MediumSpringGreen}about=~ something.
+	- On parle ~={MediumSpringGreen}de=~ ta soeur.
+- ~={MediumSpringGreen}jouer d'un instrument=~
+	- Elle joue ~={MediumSpringGreen}du=~ saxophone.
+- 
 
 
 
