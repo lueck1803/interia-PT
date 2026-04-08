@@ -983,7 +983,11 @@ For many models of this kind there are three fixed points:
 In more technical terms, let us assume that we have a theory described by a certain function Z of the state variables {$s_{i}$} and a certain set of coupling constants {$J_{k}$}. 
 This function may be a partition function, an action, a Hamiltonian, etc. It must contain the whole description of the physics of the system.
 
-Now we consider a certain blocking transformation of the state variables $\{s_{i}\}$. The number of $\tilde{s}_{i}$ must be less than the number of $s_{i}$ . Now let us try to rewrite the Z function _only_ in terms of the $\tilde{s}_{i}$. If this is achievable by a certain change in the parameters, $\{J_{k}\}\rightarrow\{\tilde{J}_{k}\}$, then the theory is said to be **renormalizable**.
+Now we consider a certain blocking transformation of the state variables $\{s_{i}\}\rightarrow\{\tilde{s}_{i}\}$. The number of $\tilde{s}_{i}$ must be less than the number of $s_{i}$ . Now let us try to rewrite the Z function _only_ in terms of the $\tilde{s}_{i}$. If this is achievable by a certain change in the parameters, $\{J_{k}\}\rightarrow\{\tilde{J}_{k}\}$, then the theory is said to be **renormalizable**.
+
+The change in the parameters is implemented by a certain beta function: $\{\tilde{J}_{k}\}=\beta(\{J_{k}\})$, which is said to induce a **renormalization group flow** (or **RG flow**) on the J-space. The values of J under the flow are called **running couplings**.
+
+The most important information in the RG flow are its **fixed points**.
 ## Vicsek model
 - collective motion and swarming 
 - ~={DeepPink}minimal=~ and describes a kind of universality
