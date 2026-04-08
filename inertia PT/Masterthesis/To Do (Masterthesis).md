@@ -998,6 +998,10 @@ Consider a certain observable A of a physical system undergoing an RG transforma
 | always decreases           | **irrelevant**                   |
 | other                      | **marginal**                     |
 A _relevant_ observable is needed to describe the macroscopic behaviour of the system. _Irrelevant_ observables are not needed. _Marginal_ observables may or may not need to be taken into account. A remarkable broad fact is that _most observables are irrelevant_, i.e., _the macroscopic physics is dominated by only a few observables in most systems_.
+
+The coincidence of the critical exponents (i.e., the exponents of the reduced-temperature dependence of several quantities near a second order phase transition) in very disparate phenomena, such as magnetic systems, superfluid transition (Lambda transition), alloy physics, etc. So in general, thermodynamic features of a system near a phase transition depend *only on a small number of variables*, such as the **dimensionality** and **symmetry**, but are *insensitive to details of the underlying microscopic properties of the system.*
+
+
 ## Vicsek model
 - collective motion and swarming 
 - ~={DeepPink}minimal=~ and describes a kind of universality
