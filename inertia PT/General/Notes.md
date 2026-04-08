@@ -2157,7 +2157,7 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 	- What were you expecting?
 ### Stacking
 - Elle a essayé ~={MediumSpringGreen}d'=~apprendre ~={DeepSkyBlue}à=~ nager.
-- J'ai décidé ~={MediumSpringGreen}de=~ demander ~={DeepSkyBlue}à=~ Claire ~={MediumSpringGreen}de=~ m'aider ~={DeepSkyBlue}à=~
+- J'ai décidé ~={MediumSpringGreen}de=~ demander ~={DeepSkyBlue}à=~ Claire ~={MediumSpringGreen}de=~ m'aider ~={DeepSkyBlue}à=~ apprendre ~={DeepSkyBlue}à=~ skier.
 
 
 
