@@ -980,11 +980,10 @@ For many models of this kind there are three fixed points:
 2. T → ∞ and J → 0. Exactly the opposite; here, temperature dominates, and the system is disordered at large scales.
 3. A nontrivial point between them, **T = Tc and J = Jc.** In this point, changing the scale does not change the physics, because the ~={Gold}system is in a fractal state=~. It corresponds to the Curie phase transition, and is also called a ~={Tomato}critical point=~.
 ### Elementary theory
-In more technical terms, let us assume that we have a theory described by a certain function 
-Z
-{\displaystyle Z} of the state variables 
-{$s_{i}$} and a certain set of coupling constants {$J_{k}$}. 
+In more technical terms, let us assume that we have a theory described by a certain function Z of the state variables {$s_{i}$} and a certain set of coupling constants {$J_{k}$}. 
 This function may be a partition function, an action, a Hamiltonian, etc. It must contain the whole description of the physics of the system.
+
+Now we consider a certain blocking transformation of the state variables $\{s_{i}\}$. The number of $\tilde{s}_{i}$ must be less than the number of $s_{i}$ . Now let us try to rewrite the Z function _only_ in terms of the $\tilde{s}_{i}$. If this is achievable by a certain change in the parameters, $\{J_{k}\}\rightarrow\{\tilde{J}_{k}\}$, then the theory is said to be **renormalizable**.
 ## Vicsek model
 - collective motion and swarming 
 - ~={DeepPink}minimal=~ and describes a kind of universality
