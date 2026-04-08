@@ -1,4 +1,4 @@
-- [ ] toast
+- [x] toast
 - [ ] hummus
 - [ ] grüne Erbsen 
 - [ ] Rosmarin samen winterhart 
