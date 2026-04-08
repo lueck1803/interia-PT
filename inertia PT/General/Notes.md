@@ -2133,7 +2133,14 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 	- J'ai décidé ~={ForestGreen}de quitter=~ mon copain.
 
 ### ~={DeepSkyBlue}À=~ qn ~={MediumSpringGreen}de=~ faire qc
-- Dire ~={DeepSkyBlue}à=~ qn 
+- Dire ~={DeepSkyBlue}à=~ qn ~={MediumSpringGreen}de=~ faire qc
+	- Ma mère di ~={DeepSkyBlue}à=~ mon frère ~={MediumSpringGreen}de=~ nettoyer sa chambre.
+- Permettre ~={DeepSkyBlue}à=~ qn ~={MediumSpringGreen}de=~ faire qc
+	- Le professuer a permis ~={DeepSkyBlue}à=~ sophie ~={MediumSpringGreen}d'=~aller aux toilettes.
+- Demander ~={DeepSkyBlue}à=~ qn ~={MediumSpringGreen}de=~ faire qc
+	- Le patron a demandé ~={DeepSkyBlue}au=~ client ~={MediumSpringGreen}de=~ partir.
+- Conseiller ~={DeepSkyBlue}à=~ qn ~={MediumSpringGreen}de=~ faire qc
+	- 
 
 
 
