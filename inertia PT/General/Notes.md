@@ -2112,7 +2112,16 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 - ~={Gold}Commencer à faire qc=~
 	- J'ai commencé ~={Gold}à apprendre=~ le français.
 - ~={Gold}aider qn à faire qc=~
-	- Il aide mes parents à 
+	- Il aide mes parents ~={Gold}à déménager=~.
+- ~={Gold}apprende à faire qc=~
+	- Je veux apprendre ~={Gold}à skier=~.
+- ~={Gold}Encourager qn à faire qc=~
+	- Mes parents m'encouragent ~={Gold}à travailler=~ dur.
+- ~={Gold}Continuer à faire qc=~
+	- On va continuer~={Gold} à étudier=~.
+### ~={ForestGreen}De + infinitive=~
+- ~={ForestGreen}choisir de faire qc=~
+	- 
 
 
 
