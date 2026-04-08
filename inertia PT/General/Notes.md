@@ -2052,6 +2052,7 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 		- les magasins
 		- les émotions
 		- les sciences et autres disciplines
+## Verbs followed by À and DE []()
 
 ## Monsieur Ibrahim et les fleurs du Coran
 
