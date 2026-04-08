@@ -2064,13 +2064,16 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 | vous                            | vous                               |
 | ils / elles                     | leur                               |
 
-### Empathic pronouns
+### Emphatic pronouns
 
-| subject pronouns | de moi                        |
+| subject pronouns | ~={purple}emphatic pronouns   |
 | ---------------- | ----------------------------- |
-|                  |                               |
+| je               | de moi                        |
 | tu               | de toi                        |
 | il / elle / on   | de lui / d'elle / de soi / en |
+| nous             | de nous                       |
+| vous             | de vous                       |
+| ils / elles      | d'eux / d'elles               |
 
 
 ### À + Noun
@@ -2092,14 +2095,21 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 ### De + Noun
 - ~={MediumSpringGreen}parler de qn/qc=~ - Speak ~={MediumSpringGreen}about=~ something.
 	- On parle ~={MediumSpringGreen}de=~ ta soeur.
+	- On parle ~={purple}d'elle=~.
 - ~={MediumSpringGreen}jouer d'un instrument=~
 	- Elle joue ~={MediumSpringGreen}du=~ saxophone.
+	- Elle ~={purple}en=~ joue.
 - ~={MediumSpringGreen}discuter de qc=~
 	- Nous discutons ~={MediumSpringGreen}du=~ problème.
+	- Nous ~={purple}en=~ discutons.
 - ~={MediumSpringGreen}se souvenir de qc=~
 	- Je ne me souviens plus ~={MediumSpringGreen}de=~ ton oncle.
+	- Je ne me souviens plus ~={purple}de lui=~.
 - ~={MediumSpringGreen}avoir besoin de qc=~
 	- Vous avez besoin ~={MediumSpringGreen}d'=~une voiture.
+	- Vous ~={purple}en=~ aves besoin.
+
+
 
 
 
