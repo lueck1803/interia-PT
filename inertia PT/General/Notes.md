@@ -2063,8 +2063,9 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 - ~={DeepSkyBlue}répondre à qn / qc=~
 	- Le professeur répond ~={purple}aux=~ questions.
 - ~={DeepSkyBlue}s'attendre à qc=~ - to expect something
-	- Je m'attendais à un cadeau. - I was expecting a gift
-- 
+	- Je m'attendais à un cadeau. - I was expecting a gift.
+### Indirect object pronouns (COI)
+
 
 ## Monsieur Ibrahim et les fleurs du Coran
 
