@@ -2053,22 +2053,31 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 		- les émotions
 		- les sciences et autres disciplines
 ## Verbs followed by À and DE [ Verbs Followed by à and de](https://www.youtube.com/watch?v=x_Pif-Vcb7c&t=20s)
+### Indirect object pronouns (COI)
+
+| ~={DeepSkyBlue}subject pronouns | ~={Teal}indirect object pronouns=~ |
+| ------------------------------- | ---------------------------------- |
+| je                              | me                                 |
+| tu                              | te                                 |
+| il / elle / on                  | lui / y                            |
+| nous                            | nous                               |
+| vous                            | vous                               |
+| ils / elles                     | leur                               |
+
 ### À + Noun
 - ~={DeepSkyBlue}parler à qn=~
 	- Je parle à ma mère.
+	- je ~={Teal}lui=~ parle
 - ~={DeepSkyBlue}jouer à un jeu / un sport=~
 	- Il joue au tennis.
+	- Il ~={Teal}y=~ joue.
 - ~={DeepSkyBlue}plaire à qn=~
 	- Cette chanson plaît à tous mes amis.
 - ~={DeepSkyBlue}répondre à qn / qc=~
 	- Le professeur répond ~={purple}aux=~ questions.
 - ~={DeepSkyBlue}s'attendre à qc=~ - to expect something
 	- Je m'attendais à un cadeau. - I was expecting a gift.
-### Indirect object pronouns (COI)
 
-| subject pronouns | indirect object pro |
-| ---------------- | ------------------- |
-|                  |                     |
 
 
 ## Monsieur Ibrahim et les fleurs du Coran
