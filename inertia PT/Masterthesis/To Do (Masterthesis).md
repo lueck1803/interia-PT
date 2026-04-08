@@ -970,6 +970,8 @@ Best wishes
 Benno
 
 # Glossar
+## renormalization group (RG)
+The renormalization group is intimately related to scale invariance and conformal invariance, symmetries in which a system appears the same at all scales (self-similarity), where under the fixed point of the renormalization group flow the field theory is conformally invariant.
 ## Vicsek model
 - collective motion and swarming 
 - ~={DeepPink}minimal=~ and describes a kind of universality
