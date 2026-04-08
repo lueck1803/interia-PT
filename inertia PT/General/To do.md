@@ -6,7 +6,7 @@
 - [ ] Reifendruck checken
 - [ ] Erbsen kochen
 - [ ] Küche wischen
-- [x] Tastatur wischen
+- [ ] Tastatur wischen
 - [x] Gitarre wischen
 - [x] Küche aufräumen
 - [x] Wäsche anstellen 

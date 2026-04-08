@@ -1001,7 +1001,7 @@ A _relevant_ observable is needed to describe the macroscopic behaviour of the
 
 The coincidence of the critical exponents (i.e., the exponents of the reduced-temperature dependence of several quantities near a second order phase transition) in very disparate phenomena, such as magnetic systems, superfluid transition (Lambda transition), alloy physics, etc. So in general, thermodynamic features of a system near a phase transition depend *only on a small number of variables*, such as the **dimensionality** and **symmetry**, but are *insensitive to details of the underlying microscopic properties of the system.*
 
-
+This coincidence of critical exponents for ostensibly (angeblich) quite different physical systems, called universality, is easily explained using the renormalization group, by demonstrating that the differences in phenomena among the individual fine-scale components are determined by irrelevant observables, while the relevant observables are shared in common. Hence *many macroscopic phenomena* may be grouped into a **small set of universality classes**, specified by the shared sets of relevant observables.
 ## Vicsek model
 - collective motion and swarming 
 - ~={DeepPink}minimal=~ and describes a kind of universality
