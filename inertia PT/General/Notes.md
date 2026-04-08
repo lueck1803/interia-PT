@@ -2052,7 +2052,7 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 		- les magasins
 		- les émotions
 		- les sciences et autres disciplines
-## Verbs followed by À and DE [# Verbs Followed by à and de](https://www.youtube.com/watch?v=x_Pif-Vcb7c&t=20s)
+## Verbs followed by À and DE [ Verbs Followed by à and de](https://www.youtube.com/watch?v=x_Pif-Vcb7c&t=20s)
 ### À + Noun
 - ~={DeepSkyBlue}parler à qn=~
 	- Je parle à ma mère.
@@ -2060,7 +2060,11 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 	- Il joue au tennis.
 - ~={DeepSkyBlue}plaire à qn=~
 	- Cette chanson plaît à tous mes amis.
-- ~={DeepSkyBlue}=~
+- ~={DeepSkyBlue}répondre à qn / qc=~
+	- Le professeur répond ~={purple}aux=~ questions.
+- ~={DeepSkyBlue}s'attendre à qc=~ - to expect something
+	- Je m'attendais à un cadeau. - I was expecting a gift
+- 
 
 ## Monsieur Ibrahim et les fleurs du Coran
 

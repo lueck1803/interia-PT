@@ -440,7 +440,7 @@
         {
           "color": "#4137ff",
           "id": "RoyalBlue",
-          "keybind": "V",
+          "keybind": " ",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -826,7 +826,7 @@
   "themeIndex": 0,
   "version": "3",
   "interactiveDelimiters": true,
-  "useKeybindings": false,
+  "useKeybindings": true,
   "useNodeRebuilding": false,
   "colorCodeSection": true
 }
