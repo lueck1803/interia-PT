@@ -3,8 +3,9 @@
 - [x] ~={Crimson}Tisch aufräumen!=~
 - [ ] Vokabeln ab Seite 26 eintragen 
 - [x] Tisch absenken 
-- [x] bennos mail lesen
 - [ ] Reifendruck checken
+- [ ] Erbsen kochen
+- [ ] Küche wischen
 - [x] Tastatur wischen
 - [x] Gitarre wischen
 - [x] Küche aufräumen
@@ -35,7 +36,8 @@
 	- [ ] lukasludwigwalter
 - [ ] ksk app contactless pay notification anstellen 
 - [ ] nochmal über thunderbolt karte nachdenken
-- [ ] maus reparieren
+- [x] maus reparieren
+	- Offenbar reicht es, wenn man ~={red}rein pustet=~ und damit die elektrischen Ladungen durch die Luftfeuchtigkeit reduziert
 - [x] Termin mit seib glaszis ausmachen 
 - [ ] D-Ticket auf handy 
 - [ ] Gyros+pita aus Gefriertruhe essen
