@@ -988,6 +988,16 @@ Now we consider a certain blocking transformation of the state variables $\{s_{
 The change in the parameters is implemented by a certain beta function: $\{\tilde{J}_{k}\}=\beta(\{J_{k}\})$, which is said to induce a **renormalization group flow** (or **RG flow**) on the J-space. The values of J under the flow are called **running couplings**.
 
 The most important information in the RG flow are its **fixed points**.
+
+### Relevant and irrelevant operators and universality classes
+Consider a certain observable A of a physical system undergoing an RG transformation. The magnitude of the observable as the length scale of the system goes from small to large determines the importance of the observable(s) for the scaling law:
+
+| _**If its magnitude**_ ... | _**then the observable is**_ ... |
+| -------------------------- | -------------------------------- |
+| always increases           | **relevant**                     |
+| always decreases           | **irrelevant**                   |
+| other                      | **marginal**                     |
+A _relevant_ observable is needed to describe the macroscopic behaviour of the system. _Irrelevant_ observables are not needed. _Marginal_ observables may or may not need to be taken into account. A remarkable broad fact is that _most observables are irrelevant_, i.e., _the macroscopic physics is dominated by only a few observables in most systems_.
 ## Vicsek model
 - collective motion and swarming 
 - ~={DeepPink}minimal=~ and describes a kind of universality
