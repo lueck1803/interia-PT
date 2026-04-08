@@ -2066,6 +2066,10 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 	- Je m'attendais à un cadeau. - I was expecting a gift.
 ### Indirect object pronouns (COI)
 
+| subject pronouns | indirect object pro |
+| ---------------- | ------------------- |
+|                  |                     |
+
 
 ## Monsieur Ibrahim et les fleurs du Coran
 
