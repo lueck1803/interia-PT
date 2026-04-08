@@ -2,7 +2,6 @@
 - [ ] ~={Crimson}Wie schaffe ich es immer aroused zu sein?=~
 - [x] ~={Crimson}Tisch aufräumen!=~
 - [ ] Vokabeln ab Seite 26 eintragen 
-- [ ] ecr Kolloquium poll in der Email durchführen 
 - [x] Tisch absenken 
 - [x] bennos mail lesen
 - [ ] Reifendruck checken

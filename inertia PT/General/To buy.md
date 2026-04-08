@@ -1,6 +1,8 @@
-- [x] toast
-- [x] Schmelzkäse 
+- [ ] toast
+- [ ] hummus
 - [ ] grüne Erbsen 
+- [ ] Rosmarin samen winterhart 
+- [x] Schmelzkäse 
 - [x] Backpapier
 - [x] Hafermilch 
 - [x] Fusilli
@@ -9,7 +11,6 @@
 	- [x] statt dessen Äpfel 
 - [x] Brausetabletten rot
 - [x] müsli
-- [x] hummus
 - [x] kalamata oliven
 
 # non food
