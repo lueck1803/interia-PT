@@ -411,7 +411,7 @@
         {
           "color": "#87cefa",
           "id": "LightBlue",
-          "keybind": "",
+          "keybind": "L",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -440,7 +440,7 @@
         {
           "color": "#4137ff",
           "id": "RoyalBlue",
-          "keybind": "",
+          "keybind": "V",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -498,7 +498,7 @@
         {
           "color": "#9400d3",
           "id": "DarkViolet",
-          "keybind": "",
+          "keybind": "V",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -585,7 +585,7 @@
         {
           "color": "#ff00ff",
           "id": "Magenta",
-          "keybind": "",
+          "keybind": "M",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -826,7 +826,7 @@
   "themeIndex": 0,
   "version": "3",
   "interactiveDelimiters": true,
-  "useKeybindings": false,
+  "useKeybindings": true,
   "useNodeRebuilding": false,
   "colorCodeSection": true
 }
