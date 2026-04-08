@@ -2159,12 +2159,6 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 - Elle a essayé ~={MediumSpringGreen}d'=~apprendre ~={DeepSkyBlue}à=~ nager.
 - J'ai décidé ~={MediumSpringGreen}de=~ demander ~={DeepSkyBlue}à=~ Claire ~={MediumSpringGreen}de=~ m'aider ~={DeepSkyBlue}à=~ apprendre ~={DeepSkyBlue}à=~ skier.
 
-
-
-
-
-
-
 ## Monsieur Ibrahim et les fleurs du Coran
 
 - *Sans doute parce qu'il souriait beaucoup et parlait peu. Sans doute parce qu'il semblait échapper à l'agitation ordinaire des mortels, surtout des mortels parisiens, ne bougeant jamais, telle une branche greffée sur son tabouret, ne rangeant jamais son étal devant qui que ce soit, et disparaissant on ne sait où entre minuit et huit heures du matin.*
