@@ -3,8 +3,9 @@
 - [x] ~={Crimson}Tisch aufräumen!=~
 - [ ] Vokabeln ab Seite 26 eintragen 
 - [x] Tisch absenken 
-- [x] bennos mail lesen
 - [ ] Reifendruck checken
+- [ ] Erbsen kochen
+- [ ] Küche wischen
 - [x] Tastatur wischen
 - [x] Gitarre wischen
 - [x] Küche aufräumen
@@ -17,8 +18,6 @@
 - [ ] einkaufschip clip mit metallkleber kleben
 	- [ ] erst versuchen teile anzuschleifen
 - [x] Essen wegräumen
-- [x] Duschen
-- [x] zähne putzen
 - [x] rasieren
 - [x] Aldi
 - [x] Staubsaugen
@@ -35,7 +34,8 @@
 	- [ ] lukasludwigwalter
 - [ ] ksk app contactless pay notification anstellen 
 - [ ] nochmal über thunderbolt karte nachdenken
-- [ ] maus reparieren
+- [x] maus reparieren
+	- Offenbar reicht es, wenn man ~={red}rein pustet=~ und damit die elektrischen Ladungen durch die Luftfeuchtigkeit reduziert
 - [x] Termin mit seib glaszis ausmachen 
 - [ ] D-Ticket auf handy 
 - [ ] Gyros+pita aus Gefriertruhe essen
@@ -87,7 +87,6 @@
 - [x] ~={Tomato}Antwort von ksk?=~
 	- [x] habe bei Sparkasse angerufen. Kann ich selbst machen 
 	- [x] ~={red}war ja schon zurück gebucht... Am 17.3=~
-- [ ] Tisch aufräumen
 - [ ] Masterarbeit
 - [x] Wäsche aufhängen
 - [x] Spülmaschine 
