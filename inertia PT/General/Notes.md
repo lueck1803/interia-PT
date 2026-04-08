@@ -2146,11 +2146,18 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 	- Je conseille ~={DeepSkyBlue}à=~ tout le monde ~={MediumSpringGreen}de=~ regarder mes videos.
 	- Je ~={Teal}leur=~ conseille ~={MediumSpringGreen}de=~ regarder mes videos.
 
-### Questions: à + question word / de + question word
+### Questions: ~={DeepSkyBlue}à + question word=~ /~={MediumSpringGreen} de + question word=~
 - ~={MediumSpringGreen}De quoi=~ parles-tu? / ~={MediumSpringGreen}De quoi=~ est-ce que tu parles?
 	- What are you talking about?
 - ~={MediumSpringGreen}De quoi=~ avons-nous besoins? / ~={MediumSpringGreen}De quoi=~ est-ce que nous avons besoins?
-- 
+	- What do we need?
+- ~={DeepSkyBlue}À qui=~ parles-tu? / ~={DeepSkyBlue}À qui=~ est-ce que tu parles?
+	- Who are you talking to?
+- ~={DeepSkyBlue}À quoi=~ vous attendiez-vous? / ~={DeepSkyBlue}À quoi=~ est-ce que vous attendiez?
+	- What were you expecting?
+### Stacking
+- Elle a essayé ~={MediumSpringGreen}d'=~apprendre ~={DeepSkyBlue}à=~ nager.
+- J'ai décidé ~={MediumSpringGreen}de=~ demander ~={DeepSkyBlue}à=~ Claire ~={MediumSpringGreen}de=~ m'aider ~={DeepSkyBlue}à=~
 
 
 
