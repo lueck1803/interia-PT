@@ -1,6 +1,10 @@
 
 # Tägliches Mantra
 - Sachlich sein aber heißt : <span style="font-size:100%;color:limegreen;">Der Ichhaftigkeit des anderen niemals dienstbar sein.</span>
+- Deine Zeit ist wertvoll, nutze sie auch dementsprechend und verschwende sie nicht. Zeit kommt nicht wieder zurück, sie kann nur einmal verbracht werden. 
+	- das bedeutet auch dass Schlaf kostbar und wundervoll ist
+	- respektiere dich selbst in dem du deine Zeit sinnvoll nutzt und dir etwas gutes tust
+	- stell dir immer die Frage "Tut dir das gut und ist das Hilfreich?"
 - morgens erstmal ~={DeepSkyBlue}Tale of House Hoslow=~ hören
 	- bzw ein ganzes Album von ~={purple}Bloody Valkyria=~
 - Arooj hat mich behandelt wie Dreck, als wäre ich böse und manipulativ 
