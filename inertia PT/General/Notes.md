@@ -2092,7 +2092,8 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 - ~={DeepSkyBlue}s'attendre à qc=~ - to expect something
 	- Je m'attendais ~={DeepSkyBlue}à=~ un cadeau. - I was expecting a gift.
 	- Je m'~={Teal}y=~ attendais. - I was expecting it.
-###~={MediumSpringGreen} De + Noun=~ / ~={purple}De +  emphatic pronouns=~
+
+### ~={MediumSpringGreen} De + Noun=~ / ~={purple}De +  emphatic pronouns=~
 - ~={MediumSpringGreen}parler de qn/qc=~ - Speak ~={MediumSpringGreen}about=~ something.
 	- On parle ~={MediumSpringGreen}de=~ ta soeur.
 	- On parle ~={purple}d'elle=~.
@@ -2121,7 +2122,18 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 	- On va continuer~={Gold} à étudier=~.
 ### ~={ForestGreen}De + infinitive=~
 - ~={ForestGreen}choisir de faire qc=~
-	- 
+	- Nous avons choisi ~={ForestGreen}de vendre=~ la maison.
+- ~={ForestGreen}essayer de faire qc=~
+	- Elle a essayé ~={ForestGreen}de faire=~ ses devoirs.
+- ~={ForestGreen}arréter de faire qc=~
+	- Il a arrêté ~={ForestGreen}de fumer=~ l'année dernière.
+- ~={ForestGreen}refuser de faire qc=~
+	- Ils refusent ~={ForestGreen}de travailler=~.
+- ~={ForestGreen}décider de faire qc=~
+	- J'ai décidé ~={ForestGreen}de quitter=~ mon copain.
+
+### ~={DeepSkyBlue}À=~ qn ~={MediumSpringGreen}de=~ faire qc
+- Dire ~={DeepSkyBlue}à=~ qn 
 
 
 
