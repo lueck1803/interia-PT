@@ -2146,6 +2146,12 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 	- Je conseille ~={DeepSkyBlue}à=~ tout le monde ~={MediumSpringGreen}de=~ regarder mes videos.
 	- Je ~={Teal}leur=~ conseille ~={MediumSpringGreen}de=~ regarder mes videos.
 
+### Questions: à + question word / de + question word
+- ~={MediumSpringGreen}De quoi=~ parles-tu? / ~={MediumSpringGreen}De quoi=~ est-ce que tu parles?
+	- What are you talking about?
+- ~={MediumSpringGreen}De quoi=~ avons-nous besoins? / ~={MediumSpringGreen}De quoi=~ est-ce que nous avons besoins?
+- 
+
 
 
 
