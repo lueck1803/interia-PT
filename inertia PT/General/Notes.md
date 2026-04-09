@@ -1451,6 +1451,18 @@ Mir tut auch Micro "Fehlverhalten" leid. Auch wenn sie das auch macht.
 Manchmal hatte sie dann auch so das Gefühl so schlecht behandelt zu werden, hat dabei aber null auf ihr micro Verhalten geachtet.
 
 # yt Kommentare
+## 26-04-09
+Man muss da schon genau sein. Ich habe das auch zu erst fälschlich gleichgesetzt und dachte an Hand des Titels, dass es sich auch um E-Roller handelt.
+
+Aber nein. Es ist ganz essentiell dass es die Cityroller/Tretroller sind. Daher auch die ganzen Millenium/ end 90iger - 00er Anekdoten.
+
+Es dreht sich ja auch um den Vergleich mit Skateboards und Inlinern (K2).
+Der Rechner am Anfang, Scooter und das Sony Ericsson am Ende. 
+
+Das muss man einfach erlebt haben.
+
+Außerdem man erkennt doch klar dass es sich um einen Tretroller handelt.
+Seitwann können E-Roller fliegen? Die sind doch viel zu schwer. Das ergibt aerodynamisch keinen Sinn. Das weiß doch jeder dass dafür die Bromance nicht ausreicht.
 
 ## 26-04-07 
 9:47 ja natürlich kommt er zu dir und fragt dich, weil es natürlich interessant ist warum du dich dafür interessierst.
