@@ -3,7 +3,7 @@
 - [x] ~={Crimson}Tisch aufräumen!=~
 - [x] Vokabeln ab Seite 26 eintragen 
 - [x] Tisch absenken 
-- [ ] Reifendruck checken
+- [x] Reifendruck checken
 - [x] Erbsen kochen
 - [ ] Küche wischen
 - [x] Tastatur wischen

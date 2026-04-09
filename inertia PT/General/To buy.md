@@ -1,7 +1,7 @@
 - [x] toast
 - [x] hummus
 - [ ] grüne Erbsen 
-- [ ] Rosmarin samen winterhart 
+- [x] Rosmarin samen winterhart 
 - [x] Schmelzkäse 
 - [x] Backpapier
 - [x] Hafermilch 
