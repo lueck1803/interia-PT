@@ -521,10 +521,10 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] Erdbeeren Pflegen
 - [x] vogelmiere bei Pfefferminze entfernen 
 - [x] kiwi aussäen 
-	- [ ] pikieren 
+	- [x] pikieren 
 - [x] maracuja aussäen 
 - [x] Löcher in Thunfischdosen bohren und einpflanzen:
-	- [ ] kiwi
+	- [x] kiwi
 		- angefangen 
 	- [x] Apfelpflanzen 
 	- [x] maracuja Pflanzen 
