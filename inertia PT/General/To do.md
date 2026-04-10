@@ -9,7 +9,7 @@
 - [x] Wäsche anstellen
 - [ ] spazieren
 - [ ] Wäsche zusammenlegen
-- [ ] staubsaugen
+- [x] staubsaugen
 - [ ] Küche wischen
 - [x] Tastatur wischen
 - [x] Gitarre wischen
