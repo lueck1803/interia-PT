@@ -2527,6 +2527,10 @@ Das Ausreden wollen war gut!
 
 # Shadow Work
 ![[Pasted image 20260410181148.png]]
+- ~={RoyalBlue}Persona:=~ 
+	- your social ~={RoyalBlue}mask=~
+	- you show to the people around you
+	- it reflects how you want to be precieved 
 - Integrating the suppressed part of yourself and make it a conscious part of yourself
 - 
 
