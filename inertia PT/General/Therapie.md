@@ -2540,8 +2540,9 @@ Das Ausreden wollen war gut!
 	- it ***~={RoyalBlue}isn't=~*** your true self ⟹ but still an important part of you
 	- it is who you ~={RoyalBlue}wish to be=~
 - ~={ForestGreen}Shadow:=~
+	- your ~={ForestGreen}repressed self=~
 	- everything you ~={ForestGreen}don't want to be=~
-	- 
+	- contains a
 - ~={Crimson}Ego:=~
 - Integrating the suppressed part of yourself and make it a conscious part of yourself
 - if you haven't integrated your shadow yet
@@ -2550,6 +2551,10 @@ Das Ausreden wollen war gut!
 	- ~={Teal}Carl Jung:=~ In order to discover and realize your unique potential in life, you have to ~={red}get rid of=~ your ~={RoyalBlue}persona=~.
 		- Seems strange, since if your persona is everything that is good and right and everything that you want to be in life, ~={Gold}Why would you reject that? Why would you "fight" that?=~
 		- ⤷ it would ~={red}never=~ be ~={red}natural=~ to maintain that ~={RoyalBlue}mask=~
+		- ⤷ If you are living a life as your persona you are already fighting yourself all the time by trying to wear this mask.
+	- ~={Teal}Carl Jung:=~ I am to have a dark side if I am to be whole. - Ich muss eine dunkle Seite haben, um vollständig zu sein.
+	- ~={LawnGreen}Happiness=~ does not come from being good the whole time, but it ~={LawnGreen}comes from embracing your whole self.=~ Even the parts of you, you don't like.
+	- 
 
 
 
