@@ -2526,7 +2526,9 @@ Hatte aber ein Energietief in das ich mich nicht habe rein ziehen lassen.
 Das Ausreden wollen war gut!
 
 # Shadow Work
+![[Pasted image 20260410181148.png]]
 - Integrating the suppressed part of yourself and make it a conscious part of yourself
+- 
 
 
 
