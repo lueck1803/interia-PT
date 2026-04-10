@@ -2547,9 +2547,15 @@ Das Ausreden wollen war gut!
 	- everything that is ~={ForestGreen}in conflict=~ with your persona falls into your shadow 
 	- traits, thoughts, qualities and emotions that you ~={ForestGreen}try to hide from the world=~  or ~={ForestGreen}feel ashamed of=~  
 	- These shadow traits ~={ForestGreen}*aren't actually bad*=~ they're just **~={ForestGreen}undeveloped=~** 
-	- ~={underline}Example:=~
+	- <u>Example:</u>
 		- naturally a cautious person
 		- it shows up differently depending on how much you've nurtured it
+		- <u>very best</u> this means 
+			- you're ***very careful and analytical***
+			- you can make plans that help you reach your goals
+		- <u>worst</u>:
+			- you're overly fearful and risk averse 
+			- you ~={Magenta}avoid responsibilities=~
 - ~={Crimson}Ego:=~
 - Integrating the suppressed part of yourself and make it a conscious part of yourself
 - if you haven't integrated your shadow yet

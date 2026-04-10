@@ -295,7 +295,7 @@
         {
           "color": "#00fa9a",
           "id": "MediumSpringGreen",
-          "keybind": "M",
+          "keybind": "P",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -411,7 +411,7 @@
         {
           "color": "#87cefa",
           "id": "LightBlue",
-          "keybind": "L",
+          "keybind": "I",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -469,7 +469,7 @@
         {
           "color": "#000000",
           "id": "purple",
-          "keybind": "P",
+          "keybind": "L",
           "italic": false,
           "bold": false,
           "cap_mode": {
