@@ -2545,8 +2545,9 @@ Das Ausreden wollen war gut!
 - ~={Crimson}Ego:=~
 - Integrating the suppressed part of yourself and make it a conscious part of yourself
 - if you haven't integrated your shadow yet
-	- ⤷ ~={RoyalBlue}Persona=~ ⟹ ~={Crimson}Ego=~: Ego is identifying with your 
-	- 
+	- ⤷ ~={RoyalBlue}Persona=~ ⟹ ~={Crimson}Ego=~: Ego is identifying with your Persona.
+	- By becoming ~={orange}too attached=~ to  who you ~={purple}want to be=~, or who you think you ~={pink}should be=~ ~={red}⟹=~ ~={red}rejecting who you really are=~ 😥
+	- Carl Jung
 
 
 
