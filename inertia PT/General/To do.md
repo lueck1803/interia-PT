@@ -11,7 +11,7 @@
 - [x] Küche aufräumen
 - [x] Wäsche anstellen 
 - [x] kraft Sport 
-- [x] Lattenrost einstellen 
+- [ ] Lattenrost einstellen 
 	- [ ] Kameraaufnahme von unten, während ich drauf liege, um zusehen, was sich wie bewegt.
 	- [ ] ist jetzt besser, ohne Kamera. Hab die Halter größtenteils an die äußere Position gemacht 
 - [ ] Steckdosenleiste unter dem Bett umsetzen 
