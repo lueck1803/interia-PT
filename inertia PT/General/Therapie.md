@@ -2577,7 +2577,7 @@ Das Ausreden wollen war gut!
 			- thinking ⇔ feeling
 			- sensation ⇔ intuition
 			- ⤷ ***Myers-Briggs-type indicators***
-			- 
+	- 
 - Integrating the suppressed part of yourself and make it a conscious part of yourself
 - if you haven't integrated your shadow yet
 	- ⤷ ~={RoyalBlue}Persona=~ ⟹ ~={Crimson}Ego=~: Ego is identifying with your Persona.
