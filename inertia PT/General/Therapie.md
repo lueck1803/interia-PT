@@ -8,6 +8,7 @@
 - morgens erstmal ~={DeepSkyBlue}Tale of House Hoslow=~ hören
 	- bzw ein ganzes Album von ~={purple}Bloody Valkyria=~
 - Arooj hat mich behandelt wie Dreck, als wäre ich böse und manipulativ 
+- 
 - ~={Crimson}Limerenz=~ zu Arooj beenden 
 - negative Gedanken:
 	- ~={LawnGreen}anschauen=~ um sie loszuwerden 
@@ -2524,6 +2525,8 @@ Hatte aber ein Energietief in das ich mich nicht habe rein ziehen lassen.
 
 Das Ausreden wollen war gut!
 
+# Shadow Work
+- Integrating the suppressed part of yourself and make it a conscious part of yourself
 
 
 
