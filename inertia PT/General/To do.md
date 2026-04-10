@@ -7,6 +7,7 @@
 - [x] Erbsen kochen
 - [ ] Bettwäsche wechseln
 - [x] Wäsche anstellen
+	- [x] aufhängen 
 - [ ] spazieren
 - [ ] Wäsche zusammenlegen
 - [x] staubsaugen
