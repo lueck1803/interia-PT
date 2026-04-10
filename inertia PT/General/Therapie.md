@@ -2533,12 +2533,20 @@ Das Ausreden wollen war gut!
 	- it reflects how you ~={RoyalBlue}want to be perceived =~
 	- the image you ~={RoyalBlue}project outwards=~
 	- It allows to adept and fit into society
-	- it is formed by:
-		- what you learned is acceptable 
-		- what it means to be a good person
-		- can hide the less desirable parts of you
+	- it is ~={RoyalBlue}formed=~ by:
+		- what you learned is ~={RoyalBlue}acceptable=~ 
+		- what it means to be a ~={RoyalBlue}good person=~
+		- can ~={RoyalBlue}hide=~ the less desirable parts of you
+	- it ***~={RoyalBlue}isn't=~*** your true self ⟹ but still an important part of you
+	- it is who you ~={RoyalBlue}wish to be=~
+- ~={ForestGreen}Shadow:=~
+	- everything you ~={ForestGreen}don't want to be=~
+	- 
+- ~={Crimson}Ego:=~
 - Integrating the suppressed part of yourself and make it a conscious part of yourself
-- 
+- if you haven't integrated your shadow yet
+	- ⤷ ~={RoyalBlue}Persona=~ ⟹ ~={Crimson}Ego=~: Ego is identifying with your 
+	- 
 
 
 
