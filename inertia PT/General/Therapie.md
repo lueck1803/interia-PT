@@ -2566,7 +2566,13 @@ Das Ausreden wollen war gut!
 	- ~={ForestGreen}sum total of all the negative qualities you try to hide from yourself and others=~
 		- ⤷ ~={DeepPink}whether or not it's good or bad=~
 - ~={Crimson}Ego:=~
-	- 
+	- is the ~={Crimson}conscious part of your psyche=~ 
+	- which ~={Crimson}mediates=~ between all other parts conscious or unconscious
+	- makes ~={Crimson}executive decisions=~
+	- the ~={Crimson}voice in your head=~ that holds all your values, beliefs and your life experiences
+	- your ego can develop a ~={Crimson}certain thinking style=~ 
+		- ⟹ *~={underline}conscious attitude=~* 
+		- breaks down the way that your ego selects and makes decisions 
 - Integrating the suppressed part of yourself and make it a conscious part of yourself
 - if you haven't integrated your shadow yet
 	- ⤷ ~={RoyalBlue}Persona=~ ⟹ ~={Crimson}Ego=~: Ego is identifying with your Persona.
