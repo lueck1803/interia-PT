@@ -5,6 +5,10 @@
 - [x] Tisch absenken 
 - [x] Reifendruck checken
 - [x] Erbsen kochen
+- [ ] Bettwäsche wechseln
+- [ ] Wäsche anstellen
+- [ ] spazieren
+- [ ] staubsaugen
 - [ ] Küche wischen
 - [x] Tastatur wischen
 - [x] Gitarre wischen
