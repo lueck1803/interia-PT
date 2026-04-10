@@ -2530,7 +2530,13 @@ Das Ausreden wollen war gut!
 - ~={RoyalBlue}Persona:=~ 
 	- your social ~={RoyalBlue}mask=~
 	- you show to the people around you
-	- it reflects how you want to be precieved 
+	- it reflects how you ~={RoyalBlue}want to be perceived =~
+	- the image you ~={RoyalBlue}project outwards=~
+	- It allows to adept and fit into society
+	- it is formed by:
+		- what you learned is acceptable 
+		- what it means to be a good person
+		- can hide the less desirable parts of you
 - Integrating the suppressed part of yourself and make it a conscious part of yourself
 - 
 
