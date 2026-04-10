@@ -2547,7 +2547,9 @@ Das Ausreden wollen war gut!
 - if you haven't integrated your shadow yet
 	- ⤷ ~={RoyalBlue}Persona=~ ⟹ ~={Crimson}Ego=~: Ego is identifying with your Persona.
 	- By becoming ~={orange}too attached=~ to  who you ~={purple}want to be=~, or who you think you ~={pink}should be=~ ~={red}⟹=~ ~={red}rejecting who you really are=~ 😥
-	- Carl Jung
+	- ~={Teal}Carl Jung:=~ In order to discover and realize your unique potential in life, you have to ~={red}get rid of=~ your ~={RoyalBlue}persona=~.
+		- Seems strange, since if your persona is everything that is good and right and everything that you want to be in life, ~={Gold}Why would you reject that? Why would you "fight" that?=~
+		- ⤷ it would ~={red}never=~ be ~={red}natural=~ to maintain that ~={RoyalBlue}mask=~
 
 
 
