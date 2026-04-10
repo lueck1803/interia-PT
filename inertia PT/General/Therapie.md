@@ -2554,8 +2554,12 @@ Das Ausreden wollen war gut!
 			- you're ***very careful and analytical***
 			- you can make plans that help you reach your goals
 		- <u>worst</u>:
-			- you're overly fearful and risk averse 
+			- you're <span style="font-size:100%;color:Magenta;"><u>overly</u> fearful and risk averse</span> 
 			- you ~={Magenta}avoid responsibilities=~
+			- even when it's important for your growth
+			- ⤷ ~={Gold}This totally describes me / is my problem=~ 😥
+		- ⤷ these are just ~={ForestGreen}two sides=~ of the same trait, depending on how much you've developed it
+		- ⤷ it shows how ~={Gold}authentic personality traits=~  become ~={ForestGreen}destructive shadow traits=~
 - ~={Crimson}Ego:=~
 - Integrating the suppressed part of yourself and make it a conscious part of yourself
 - if you haven't integrated your shadow yet
