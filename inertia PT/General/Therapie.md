@@ -2559,8 +2559,14 @@ Das Ausreden wollen war gut!
 			- even when it's important for your growth
 			- ⤷ ~={Gold}This totally describes me / is my problem=~ 😥
 		- ⤷ these are just ~={ForestGreen}two sides=~ of the same trait, depending on how much you've developed it
-		- ⤷ it shows how ~={Gold}authentic personality traits=~  become ~={ForestGreen}destructive shadow traits=~
+		- ⤷ it shows how ~={Gold}authentic personality traits=~  become ~={ForestGreen}*destructive* shadow traits=~
+			- if they are prevented from maturing
+			- never have the chance to live them
+			- and learn how to control them
+	- ~={ForestGreen}sum total of all the negative qualities you try to hide from yourself and others=~
+		- ⤷ ~={DeepPink}whether or not it's good or bad=~
 - ~={Crimson}Ego:=~
+	- 
 - Integrating the suppressed part of yourself and make it a conscious part of yourself
 - if you haven't integrated your shadow yet
 	- ⤷ ~={RoyalBlue}Persona=~ ⟹ ~={Crimson}Ego=~: Ego is identifying with your Persona.
@@ -2571,7 +2577,7 @@ Das Ausreden wollen war gut!
 		- ⤷ If you are living a life as your persona you are already fighting yourself all the time by trying to wear this mask.
 	- ~={Teal}Carl Jung:=~ I am to have a dark side if I am to be whole. - Ich muss eine dunkle Seite haben, um vollständig zu sein.
 	- ~={LawnGreen}Happiness=~ does not come from being good the whole time, but it ~={LawnGreen}comes from embracing your whole self.=~ Even the parts of you, you don't like.
-	- 
+- When you deny the existence of your shadow it tends to become more powerful and can start to take control of your life
 
 
 
