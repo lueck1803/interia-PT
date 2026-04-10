@@ -1,5 +1,5 @@
 # fast notes
-- test test
+- 
 # Geschäftliche Nachrichten 
 Dear Spatial Business ~={Crimson}Integration=~ Team,
 
