@@ -5,7 +5,7 @@
 - [x] Tisch absenken 
 - [x] Reifendruck checken
 - [x] Erbsen kochen
-- [ ] Bettwäsche wechseln
+- [x] Bettwäsche wechseln
 - [x] Wäsche anstellen
 	- [x] aufhängen 
 - [ ] spazieren
