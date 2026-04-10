@@ -6,8 +6,9 @@
 - [x] Reifendruck checken
 - [x] Erbsen kochen
 - [ ] Bettwäsche wechseln
-- [ ] Wäsche anstellen
+- [x] Wäsche anstellen
 - [ ] spazieren
+- [ ] Wäsche zusammenlegen
 - [ ] staubsaugen
 - [ ] Küche wischen
 - [x] Tastatur wischen
