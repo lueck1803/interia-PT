@@ -2572,7 +2572,12 @@ Das Ausreden wollen war gut!
 	- the ~={Crimson}voice in your head=~ that holds all your values, beliefs and your life experiences
 	- your ego can develop a ~={Crimson}certain thinking style=~ 
 		- ⟹ *~={underline}conscious attitude=~* 
-		- breaks down the way that your ego selects and makes decisions 
+		- breaks down the way that your ego selects and makes decisions into ~={Crimson}four psychological functions=~ and each one is like a spectrum
+			- introversion ⇔ extraversion
+			- thinking ⇔ feeling
+			- sensation ⇔ intuition
+			- ⤷ ***Myers-Briggs-type indicators***
+			- 
 - Integrating the suppressed part of yourself and make it a conscious part of yourself
 - if you haven't integrated your shadow yet
 	- ⤷ ~={RoyalBlue}Persona=~ ⟹ ~={Crimson}Ego=~: Ego is identifying with your Persona.
