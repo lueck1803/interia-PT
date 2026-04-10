@@ -2546,7 +2546,7 @@ Das Ausreden wollen war gut!
 	- all the thing *~={ForestGreen}you deem=~* are ~={ForestGreen}bad=~
 	- everything that is ~={ForestGreen}in conflict=~ with your persona falls into your shadow 
 	- traits, thoughts, qualities and emotions that you ~={ForestGreen}try to hide from the world=~  or ~={ForestGreen}feel ashamed of=~  
-	- These shadow traits aren't actually bad they're under developed
+	- These ~={underline}shadow=~ traits~={underline} ~={ForestGreen}*aren't actually bad*=~ =~they're ~={ForestGreen}under developed=~
 - ~={Crimson}Ego:=~
 - Integrating the suppressed part of yourself and make it a conscious part of yourself
 - if you haven't integrated your shadow yet
