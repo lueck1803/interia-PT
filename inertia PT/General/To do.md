@@ -9,6 +9,7 @@
 - [x] Wäsche anstellen
 	- [x] aufhängen 
 - [ ] spazieren
+- [ ] ~={MediumSpringGreen}Test=~ 
 - [ ] Wäsche zusammenlegen
 - [ ] gelben Pulli flicken 
 - [ ] in vodafone konto einloggen
