@@ -11,6 +11,7 @@
 - [ ] spazieren
 - [ ] Wäsche zusammenlegen
 - [ ] gelben Pulli flicken 
+- [ ] Reifen aufpumpen 
 - [x] staubsaugen
 - [ ] Küche wischen
 - [x] Tastatur wischen

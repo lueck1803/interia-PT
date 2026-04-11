@@ -1,6 +1,11 @@
 
 # Tägliches Mantra
 - Sachlich sein aber heißt : <span style="font-size:100%;color:limegreen;">Der Ichhaftigkeit des anderen niemals dienstbar sein.</span>
+- ich ~={Crimson}will=~ mein Abschluss schaffen!
+- ich ~={LawnGreen}kann=~ meinen Abschluss schaffen 
+- ich ~={ForestGreen}werde=~ meinen Abschluss schaffen 
+- geh raus unter Leute
+- sei im hier und jetzt und vergammele keine Zeit allein zu Hause 
 - Deine ~={MediumSpringGreen}Zeit ist wertvoll=~, nutze sie auch dementsprechend und verschwende sie nicht. ~={Tomato}Zeit kommt nicht wieder zurück=~, sie kann nur einmal verbracht werden. 
 	- das bedeutet auch dass Schlaf kostbar und wundervoll ist
 	- respektiere dich selbst in dem du deine Zeit sinnvoll nutzt und dir etwas gutes tust
