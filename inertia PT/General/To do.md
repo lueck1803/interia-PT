@@ -10,6 +10,7 @@
 	- [x] aufhängen 
 - [ ] spazieren
 - [ ] Wäsche zusammenlegen
+- [ ] ~={RoyalBlue}test=~
 - [ ] gelben Pulli flicken 
 - [x] staubsaugen
 - [ ] Küche wischen
