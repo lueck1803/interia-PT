@@ -1,5 +1,5 @@
 # fast notes
--  in the dark daniel ketchum
+
 # Geschäftliche Nachrichten 
 Dear Spatial Business ~={Crimson}Integration=~ Team,
 

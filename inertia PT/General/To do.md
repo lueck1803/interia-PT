@@ -12,6 +12,8 @@
 - [ ] Wäsche zusammenlegen
 - [ ] gelben Pulli flicken 
 - [ ] in vodafone konto einloggen
+- [ ] Reifen aufpumpen
+- [ ] Einkaufswagen wegbringen
 - [x] staubsaugen
 - [ ] Küche wischen
 - [x] Tastatur wischen
