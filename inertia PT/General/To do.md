@@ -10,7 +10,6 @@
 	- [x] aufhängen 
 - [ ] spazieren
 - [ ] Wäsche zusammenlegen
-- [ ] test
 - [ ] gelben Pulli flicken 
 - [x] staubsaugen
 - [ ] Küche wischen
