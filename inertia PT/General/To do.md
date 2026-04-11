@@ -11,6 +11,7 @@
 - [ ] ~={underline}spazieren=~
 - [ ] ~={MediumSpringGreen}Test=~ 
 - [ ] ~={purple}Test=~
+- [ ] Text
 - [ ] Wäsche zusammenlegen
 - [ ] gelben Pulli flicken 
 - [ ] in vodafone konto einloggen
