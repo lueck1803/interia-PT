@@ -10,6 +10,7 @@
 	- [x] aufhängen 
 - [ ] spazieren
 - [ ] ~={MediumSpringGreen}Test=~ 
+- [ ] Test
 - [ ] Wäsche zusammenlegen
 - [ ] gelben Pulli flicken 
 - [ ] in vodafone konto einloggen
