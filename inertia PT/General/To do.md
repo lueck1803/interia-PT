@@ -8,9 +8,9 @@
 - [x] Bettwäsche wechseln
 - [x] Wäsche anstellen
 	- [x] aufhängen 
-- [ ] spazieren
+- [ ] ~={underline}spazieren=~
 - [ ] ~={MediumSpringGreen}Test=~ 
-- [ ] Test
+- [ ] ~={purple}Test=~
 - [ ] Wäsche zusammenlegen
 - [ ] gelben Pulli flicken 
 - [ ] in vodafone konto einloggen
