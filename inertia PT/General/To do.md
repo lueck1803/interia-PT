@@ -11,7 +11,7 @@
 - [ ] spazieren
 - [ ] Wäsche zusammenlegen
 - [ ] gelben Pulli flicken 
-- [ ] Reifen aufpumpen 
+- [ ] in vodafone konto einloggen
 - [x] staubsaugen
 - [ ] Küche wischen
 - [x] Tastatur wischen
