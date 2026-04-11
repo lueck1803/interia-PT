@@ -10,6 +10,7 @@
 	- [x] aufhängen 
 - [ ] spazieren
 - [ ] Wäsche zusammenlegen
+- [ ] gelben Pulli flicken 
 - [x] staubsaugen
 - [ ] Küche wischen
 - [x] Tastatur wischen
