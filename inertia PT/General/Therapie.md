@@ -2631,8 +2631,18 @@ A-->B-->C-->D-->A
 - I have ~={DeepSkyBlue}self trust=~
 - I have ~={Gold}confidence=~ 
 - I have ~={LightBlue}determination=~ - Entschlossenheit und Zielstrebigkeit 
-- I have ~={DeepPink}courage=~ 
+- I have ~={DeepPink}courage=~
+- I am resilient 
 ## Thoughts
+
+> [!Hint]
+> affirmations ⟹ act as *temporary* thoughts 
+> 
+> Can ~={LawnGreen}shift mindset=~ to seek out new experiences 
+> MUST  be ~={red}followed by action=~
+> 
+> Give you the push to step out of your comfort zone
+> ⤷ Confront your fears
 
 
 - it's your ~={Crimson}Navigation=~ 
