@@ -2610,13 +2610,20 @@ flowchart TB
 %% flowchart LR
 A[Thoughts]
 B[Actions]
-C[~={ForestGreen}positive=~ Experiences]
+C[<span style="font-size:100%;color:ForestGreen;">positive</span> Experiences]
 D[Beliefs /<br> Self-Concept]
 
 A-->B-->C-->D-->A
 
 %% A~~~C %%
 %% A~~~D %%
+```
+```mermaid
+flowchart LR
+    a <--> d
+    a <--> b
+    b <--> c
+    d <--> c
 ```
 ## what I am
 - I have ~={ForestGreen}discipline=~ 
