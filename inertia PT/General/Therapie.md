@@ -2612,7 +2612,7 @@ Das Ausreden wollen war gut!
 - it's your ~={Crimson}Navigation=~ 
 	- lead you to seek out certain experiences
 	- while avoiding others 
-	- ⤷give
+	- ⤷give you directions to stear towards 
 - subconsciousness 
 	- has it's patterns 
 	- wants to avoid changes
