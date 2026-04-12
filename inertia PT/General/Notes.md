@@ -2343,3 +2343,14 @@ egal ob ein Ton zweimal gespielt wird und ob mehrfach zwischen zwei Tönen hin u
   
 
 ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
+
+# Gespräch Seib-Glaszis 
+- nicht nur das ADHS 
+- 10 Jahre Beziehung 
+	- über Jahre das gleiche durchgemacht 
+	- 23 Trennung, ich war wieder so dumm darum zu kämpfen 
+	- 25 dann wieder
+	- ich war emotional so ausgebrannt 
+- das gleiche habe ich seit Jahren mit meiner Schwester durch gemacht das ist ja Weihnachten 24 wieder eskaliert 
+- ich hab ein 3/4 Jahr gebraucht um wirklich in mir aufzunehmen dass ich nicht böse und manipulativ bin
+- im Herbst ist es dann mit meiner expartnerin noch eskaliert
