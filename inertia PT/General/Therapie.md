@@ -2672,10 +2672,18 @@ Das Ausreden wollen war gut!
 		- anxiety, barely left the house
 		- ⤷~={red}force=~ yourself
 		- ⤷~={red}big=~ events for come out
-		- 
+		- ⤷every single time ~={green}without fail=~ ⟹ end up having a ~={red}bad time=~
 		- ⤷to much 
 		- ⤷~={red}overwhelming thoughts=~
-- ~={LawnGreen}Therefore=~
+		- ⤷come home all these thoughts going through my head 
+			- I just cannot do this
+			- I tried and I failed
+			- I can't do this and I will never be able to do this
+		- I get stuck in this cycle where I start ~={red}feeding myself=~ so many of these
+			- thoughts
+			- and limiting beliefs
+		- because it was a bad experience 
+- ~={LawnGreen}Therefore=~ do 
 - 
 
 
