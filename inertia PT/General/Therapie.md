@@ -2687,6 +2687,9 @@ Das Ausreden wollen war gut!
 - collect ~={LawnGreen}positive experiences=~
 	- ⤷positive beliefs
 		- positive self-image
-- comfort Zone
+- Whats the ~={blue}difference=~ between positive and negative experiences?
+- ~={red}comfort Zone=~
+	- Life what ~={Gold}you live=~, is what is within this comfort zone/circle
+	- Life what you want to live is outside of 
 
 
