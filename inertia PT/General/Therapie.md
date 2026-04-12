@@ -50,7 +50,7 @@
 	- nicht dazu verpflichtet diese Gedanken zu denken
 		- ich habe ihnen nur irgendwann mal das Steuer überlassen
 		- Steuer über meine Gedanken und über mein Leben zurück holen 
-- Arthur 
+- <u>Arthur</u> 
 	- <span style="font-size:100%;color:red;">keine zwei Nachrichten auf einmal</span>
 	- Logistik klären und Stimmung
 	- gib mir Raum an der Unterhaltung teilzunehmen 
