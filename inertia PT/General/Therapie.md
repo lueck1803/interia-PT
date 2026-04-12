@@ -2639,7 +2639,7 @@ Das Ausreden wollen war gut!
 - If you affirm yourself that you are
 	- you are comfortable and capable
 	- yet you live your life avoiding uncomfortable situations and let your insecurities and fears make all your decisions
-	- ⤷ you are ~={red}not going to believe=~ it you are not going to change
+	- ⤷ you are ~={red}not going to believe=~ it, if you are ~={green}not going to change=~
 - ~={Gold}Tools that accompanying actions=~
 	- affirmations can temporarily shift your mindset
 	- Aid you seek out these experiences
@@ -2659,12 +2659,23 @@ Das Ausreden wollen war gut!
 	- ⤷negative experiences
 		- ⤷lead to negative beliefs
 			- ⤷negative self-image
+- ⤷ If you affirm to yourself that you are capable and confident, than go out to an event, film a video or take an opportunity
+	- ⤷ Do something that ~={red}requires that mind set=~ and you ~={LawnGreen}will gave a positive experience=~ from it
+	- ⤷ which than proves to yourself that you are confident and that you are capable, this is how the loop works
 - ~={Crimson}not as simple:=~ 
 	- just ~={orange}making you=~ do everything that you want 
 	- as ~={orange}knowing=~ what you want and just going after that
 	- ⤷ often ~={red}can backfire=~ 
 		- ⤷you will fail  
 			- ⤷you will worse after that than before
+	- <u>Example:</u>
+		- anxiety, barely left the house
+		- ⤷~={red}force=~ yourself
+		- ⤷~={red}big=~ events for come out
+		- 
+		- ⤷to much 
+		- ⤷~={red}overwhelming thoughts=~
+- ~={LawnGreen}Therefore=~
 - 
 
 
