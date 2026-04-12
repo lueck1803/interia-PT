@@ -8,6 +8,7 @@
 - [x] Bettwäsche wechseln
 - [x] Wäsche anstellen
 	- [x] aufhängen 
+- [ ] bunt gestreiftes longsleeve, rechte achsel flicken 
 - [ ] spazieren
 - [ ] was ist das für ein Ordner "User" im vault?
 	- [ ] löschen 
