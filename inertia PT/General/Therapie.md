@@ -2603,6 +2603,10 @@ Das Ausreden wollen war gut!
 	- ~={LawnGreen}Happiness=~ does not come from being good the whole time, but it ~={LawnGreen}comes from embracing your whole self.=~ Even the parts of you, you don't like.
 - When you deny the existence of your shadow it tends to become more powerful and can start to take control of your life
 # new self concept 
+
+```mermaid
+
+```
 ## what I am
 - I have ~={ForestGreen}discipline=~ 
 - I can exercise ~={Tomato}continuity=~ 
@@ -2688,12 +2692,16 @@ Das Ausreden wollen war gut!
 	- ⤷positive beliefs
 		- positive self-image
 - Whats the ~={blue}difference=~ between positive and negative experiences?
-### <span style="font-size:100%;color:OrangeRe;">comfort Zone</span>
+### <span style="font-size:100%;color:OrangeRed;">comfort Zone</span>
 - Life what ~={Gold}you live=~, is what is ~={Gold}within=~ this comfort zone/circle
 - Life what you ~={LawnGreen}want=~ to live is ~={LawnGreen}outside=~ of this comfort zone/circle
 - Your comfort zone is ~={blue}adapted=~ to the ~={LightBlue}life you are living=~ 
 	- thing that you are ~={blue}regularly do=~, are ~={Gold}within=~ your comfort zone
 		- ⤷ feel easy and natural to you 
 	- things that you ~={red}don't do=~ or you have ~={red}difficult=~ time doing, are ~={LawnGreen}outside=~ of it
+- Think of your comfort zone ~={DeepPink}like a muscle=~ 
+	- If you don't exercise it
+	- if you don't push it
+	- ⤷ it's not going to grow
 
 

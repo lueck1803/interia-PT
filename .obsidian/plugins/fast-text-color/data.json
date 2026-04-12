@@ -34,7 +34,7 @@
         {
           "color": "#ff0000",
           "id": "RedRed",
-          "keybind": "",
+          "keybind": "Q",
           "italic": false,
           "bold": false,
           "cap_mode": {
