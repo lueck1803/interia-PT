@@ -9,6 +9,8 @@
 - [x] Wäsche anstellen
 	- [x] aufhängen 
 - [ ] spazieren
+- [ ] was ist das für ein Ordner "User" im vault?
+	- [ ] löschen 
 - [ ] Wäsche zusammenlegen
 - [ ] gelben Pulli flicken 
 - [ ] in vodafone konto einloggen
