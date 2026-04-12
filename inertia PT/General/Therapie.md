@@ -2683,9 +2683,10 @@ Das Ausreden wollen war gut!
 			- thoughts
 			- and limiting beliefs
 		- because it was a bad experience 
-- ~={LawnGreen}What you can do differently?=~
-	- collect positive experiences
-		- ⤷positive beliefs
-			- 
+## <span style="font-size:100%;color:lawngreen;">What you can do differently?</span>
+- collect ~={LawnGreen}positive experiences=~
+	- ⤷positive beliefs
+		- positive self-image
+- comfort Zone
 
 

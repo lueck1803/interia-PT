@@ -855,7 +855,7 @@
   "themeIndex": 0,
   "version": "3",
   "interactiveDelimiters": true,
-  "useKeybindings": false,
+  "useKeybindings": true,
   "useNodeRebuilding": false,
   "colorCodeSection": true
 }

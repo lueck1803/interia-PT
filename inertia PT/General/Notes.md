@@ -2088,7 +2088,7 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 | ils / elles      | d'eux / d'elles               |
 
 
-### ~={DeepSkyBlue}À + Noun=~ /   ~={Teal}À + indirect object pronouns=~ 
+### <span style="font-size:100%;color:DeepSkyBlue;">À + Noun</span> /   <span style="font-size:100%;color:teal;">À + indirect object pronouns </span>
 - ~={DeepSkyBlue}parler à qn=~
 	- Je parle ~={DeepSkyBlue}à=~ ma mère.
 	- je ~={Teal}lui=~ parle
