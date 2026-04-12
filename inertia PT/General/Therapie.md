@@ -1,6 +1,12 @@
 
 # Tägliches Mantra
 - Sachlich sein aber heißt : <span style="font-size:100%;color:limegreen;">Der Ichhaftigkeit des anderen niemals dienstbar sein.</span>
+- have ~={ForestGreen}discipline=~ 
+- I can exercise ~={Tomato}continuity=~ 
+- I have ~={DeepSkyBlue}self trust=~
+- I have ~={Gold}confidence=~ 
+- I have ~={LightBlue}determination=~ - Entschlossenheit und Zielstrebigkeit 
+- I have ~={DeepPink}courage=~ 
 - ich ~={Crimson}will=~ mein Abschluss schaffen!
 - ich ~={LawnGreen}kann=~ meinen Abschluss schaffen 
 - ich ~={ForestGreen}werde=~ meinen Abschluss schaffen 
@@ -2600,7 +2606,7 @@ Das Ausreden wollen war gut!
 - I can exercise ~={Tomato}continuity=~ 
 - I have ~={DeepSkyBlue}self trust=~
 - I have ~={Gold}confidence=~ 
-- ~={LightBlue}determination=~ - Entschlossenheit und Zielstrebigkeit 
+- I have ~={LightBlue}determination=~ - Entschlossenheit und Zielstrebigkeit 
 - I have ~={DeepPink}courage=~ 
 
 
