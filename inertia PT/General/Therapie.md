@@ -2613,7 +2613,13 @@ B[Actions]
 C[<span style="font-size:100%;color:ForestGreen;">positive</span> Experiences]
 D[Beliefs /<br> Self-Concept]
 
-A-->B-->C-->D-->A
+A<-->B<-->C<-->D<-->A
+%% D-->A
+A-->B
+C-->B
+D-->C %%
+%% <-->C<-->D<-->A %%
+
 
 %% A~~~C %%
 %% A~~~D %%
