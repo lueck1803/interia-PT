@@ -2594,6 +2594,7 @@ Das Ausreden wollen war gut!
 	- ~={Teal}Carl Jung:=~ I am to have a dark side if I am to be whole. - Ich muss eine dunkle Seite haben, um vollständig zu sein.
 	- ~={LawnGreen}Happiness=~ does not come from being good the whole time, but it ~={LawnGreen}comes from embracing your whole self.=~ Even the parts of you, you don't like.
 - When you deny the existence of your shadow it tends to become more powerful and can start to take control of your life
+#
 
 
 
