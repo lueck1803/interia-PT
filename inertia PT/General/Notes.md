@@ -1143,6 +1143,66 @@ s = "hello world"
 a = s + " is a message"
 # the line above is the highlighted line
 ```
+# Mermaid
+```mermaid
+flowchart LR
+    a <--> d
+    a <--> b
+    b <--> c
+    d <--> c
+```
+```mermaid
+flowchart TB
+%% flowchart LR
+A[Negative <br> Emotionen 😰]
+B[Vermeidung 🏃]
+C[kurzfristige <br> Erleichterung 😌]
+D[keine <br> korrigierenden <br> Erfahrungen 🚫]
+E[Gehirn wird <br> pessimistischer 🧠]
+
+A-->B-->C-->D-->E-->A
+
+%% B~~~E %%
+%% A~~~C %%
+%% A~~~D %%
+```
+```mermaid
+--- 
+config:
+ theme: 'forest'
+ themeVariables: 
+  primaryColor: '#BB2528'   
+  primaryTextColor: '#fff' 
+  primaryBorderColor: '#7C0000' 
+  lineColor: '#F8B229' 
+  secondaryColor: '#006100' 
+  tertiaryColor: '#fff'
+---
+flowchart TB
+%% Nodes %%
+	a[Stress]
+	b[Bewegung] 
+	c[Meditation]
+	d[Ablenkung]
+	e@{ shape: sm-circ, label: "Small start" }
+%% Edges %%
+	a --> e
+	e --> b
+	e --> c
+	a -- <span style="font-size:150%;color:red;">X</span> ---> d
+%% With extra "-" the edges are getting longer and the node is shifting to another node level%%
+	
+	%% a-->SubRoles %%
+	
+	%% subgraph SubRoles [Sub Roles] %%
+		%% direction LR %%
+		%% b[Playbook admins] %%
+		%% c[Playbook managers] %%
+		%% d[Playbook global viewers] %%
+		%% b-->c %%
+		%% c-->d %%
+	%% end %%
+```
 # Latex Suite
 - {trigger: "|", replacement: "|$0|$1", options: "mA"},
  - {trigger: "Brk", replacement: "\\Braket{$0} $1", options: "mA"},

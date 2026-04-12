@@ -2606,31 +2606,25 @@ Das Ausreden wollen war gut!
 # new self concept 
 
 ```mermaid
-%% flowchart TB
-flowchart LR
+flowchart TB
+%% flowchart LR
 A[Thoughts]
 B[Actions]
 C[<span style="font-size:100%;color:ForestGreen;">positive</span> Experiences]
 D[Beliefs /<br> Self-Concept]
 
-%% A-->B-->C-->D-->A %%
-D-->A
-A-->B
-C-->D
-C-->B
+A-->B-->C-->D-->A
+%% D-->A %%
+%% A-->B %%
+%% C-->B %%
+%% D-->C %%
 %% <-->C<-->D<-->A %%
 
 
 %% A~~~C %%
 %% A~~~D %%
 ```
-```mermaid
-flowchart LR
-    a <--> d
-    a <--> b
-    b <--> c
-    d <--> c
-```
+
 ## what I am
 - I have ~={ForestGreen}discipline=~ 
 - I can exercise ~={Tomato}continuity=~ 
