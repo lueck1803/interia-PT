@@ -1,16 +1,18 @@
 
 # Tägliches Mantra
 - Sachlich sein aber heißt : <span style="font-size:100%;color:limegreen;">Der Ichhaftigkeit des anderen niemals dienstbar sein.</span>
-- have ~={ForestGreen}discipline=~ 
-- I can exercise ~={Tomato}continuity=~ 
-- I have ~={DeepSkyBlue}self trust=~
-- I have ~={Gold}confidence=~ 
-- I have ~={LightBlue}determination=~ - Entschlossenheit und Zielstrebigkeit 
-- I have ~={DeepPink}courage=~ 
+- ~={Crimson}Dont't=~ let your insecurities and fears make all your decisions
+- <u>Affirmations:</u>
+	- I have ~={ForestGreen}discipline=~ 
+	- I can exercise ~={Tomato}continuity=~ 
+	- I have ~={DeepSkyBlue}self trust=~
+	- I have ~={Gold}confidence=~ 
+	- I have ~={LightBlue}determination=~ - Entschlossenheit und Zielstrebigkeit 
+	- I have ~={DeepPink}courage=~ 
 - ich ~={Crimson}will=~ mein Abschluss schaffen!
 - ich ~={LawnGreen}kann=~ meinen Abschluss schaffen 
 - ich ~={ForestGreen}werde=~ meinen Abschluss schaffen 
-- geh raus unter Leute
+- geh ~={purple}raus unter Leute=~
 - sei im hier und jetzt und vergammele keine Zeit allein zu Hause 
 - Deine ~={MediumSpringGreen}Zeit ist wertvoll=~, nutze sie auch dementsprechend und verschwende sie nicht. ~={Tomato}Zeit kommt nicht wieder zurück=~, sie kann nur einmal verbracht werden. 
 	- das bedeutet auch dass Schlaf kostbar und wundervoll ist
@@ -2624,7 +2626,12 @@ Das Ausreden wollen war gut!
 	- ⤷ It must be followed by action
 - If you affirm yourself that you are
 	- you are comfortable and capable
-	- yet you live
+	- yet you live your life avoiding uncomfortable situations and let your insecurities and fears make all your decisions
+	- ⤷ you are not going to believe it you are not going to change
+- ~={Gold}Tools that accompanying actions=~
+	- affirmations can temporarily shift your mindset
+	- Aid you seek out these experiences
+	- That will actua
 ## Actions
 
 
