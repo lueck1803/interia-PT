@@ -2596,8 +2596,9 @@ Das Ausreden wollen war gut!
 - When you deny the existence of your shadow it tends to become more powerful and can start to take control of your life
 # new self concept 
 ## what I am
-- I have discipline 
-- I can excer
+- I have ~={ForestGreen}discipline=~ 
+- I can exercise ~={Tomato}continuity=~ 
+- 
 
 
 
