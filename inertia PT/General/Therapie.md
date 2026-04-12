@@ -2612,12 +2612,19 @@ Das Ausreden wollen war gut!
 - it's your ~={Crimson}Navigation=~ 
 	- lead you to seek out certain experiences
 	- while avoiding others 
-	- ⤷give you directions to stear towards 
+	- ⤷give you directions to steer towards 
 - subconsciousness 
 	- has it's patterns 
 	- wants to avoid changes
 	- habits that tend to repeat 
 	- ⤷hard to break out of
+- Affirmations are very popular, when it comes to Manifestations and self-concept
+	- frequently misunderstood
+	- you can not sustain yourself on affirmations alone 
+	- ⤷ It must be followed by action
+- If you affirm yourself that you are
+	- you are comfortable and capable
+	- yet you live
 ## Actions
 
 
