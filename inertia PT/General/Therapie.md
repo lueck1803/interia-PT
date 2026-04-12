@@ -2598,7 +2598,7 @@ Das Ausreden wollen war gut!
 ## what I am
 - I have ~={ForestGreen}discipline=~ 
 - I can exercise ~={Tomato}continuity=~ 
-- 
+- I have self trust
 
 
 
