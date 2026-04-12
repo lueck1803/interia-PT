@@ -2631,7 +2631,12 @@ Das Ausreden wollen war gut!
 - ~={Gold}Tools that accompanying actions=~
 	- affirmations can temporarily shift your mindset
 	- Aid you seek out these experiences
-	- That will actua
+	- That will actually contribute to a new belief
+	- That will lead to change
+	- ⤷ If you affirm to yourself that you are capable and confident, than go out to an event, film a video or take an opportunity
+	- ⤷ Do something that ~={red}requires that mind set=~ and you ~={LawnGreen}will gave a positive experience=~ from it
+	- ⤷ which than proves to yourself that you are confident and that you are capable
+	- 
 ## Actions
 
 
