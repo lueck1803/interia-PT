@@ -2610,8 +2610,8 @@ Das Ausreden wollen war gut!
 - I have ~={DeepPink}courage=~ 
 ## Thoughts
 - it's your ~={Crimson}Navigation=~ 
-	- lead out certain experiences
-	- while avoiding 
+	- lead you to seeout certain experiences
+	- while avoiding others 
 - subconsciousness 
 	- has it's patterns 
 	- wants to avoid changes
