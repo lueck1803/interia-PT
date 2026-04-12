@@ -2613,8 +2613,15 @@ Das Ausreden wollen war gut!
 ## Thoughts
 
 > [!NOTE]
-> affirmations ⟹ 
+> affirmations ⟹ act as *temporary* thoughts 
 > 
+> Can ~={LawnGreen}shift mindset=~ to seek out new experiences 
+> MUST  be ~={red}followed by action=~
+> 
+> Give you the push to step out of your comfort zone
+> ⤷Con
+
+
 
 - it's your ~={Crimson}Navigation=~ 
 	- lead you to seek out certain experiences
