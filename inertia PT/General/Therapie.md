@@ -1,7 +1,7 @@
 
 # Tägliches Mantra
 - Sachlich sein aber heißt : <span style="font-size:100%;color:limegreen;">Der Ichhaftigkeit des anderen niemals dienstbar sein.</span>
-- ~={Crimson}Dont't=~ let your insecurities and fears make all your decisions
+- ~={Crimson}Don't=~ let your insecurities and fears make all your decisions
 - <u>Affirmations:</u>
 	- I have ~={ForestGreen}discipline=~ 
 	- I can exercise ~={Tomato}continuity=~ 
@@ -21,7 +21,6 @@
 - morgens erstmal ~={DeepSkyBlue}Tale of House Hoslow=~ hören
 	- bzw ein ganzes Album von ~={purple}Bloody Valkyria=~
 - Arooj hat mich behandelt wie Dreck, als wäre ich böse und manipulativ 
-- 
 - ~={Crimson}Limerenz=~ zu Arooj beenden 
 - negative Gedanken:
 	- ~={LawnGreen}anschauen=~ um sie loszuwerden 
@@ -88,7 +87,8 @@
 - Dienst <u>an</u> der <span style="font-size:100%;color:red;">Sache</span>
 - Motivation <span style="font-size:150%;color:lawngreen;">⟸</span> Handlung <br> Motivation <span style="font-size:150%;color:red;">↛</span> Handlung
 - sei ganz in dem was du tust<br>⤷nur eine Sache gleichzeitig 
-- keine Pornos schauen 
+- ~={RedRed}keine Pornos=~ schauen 
+	- es macht Unordnung in deinem Kopf
 	- widerspricht deinen Werten
 	- deinem Frauenbild ⟸ keine Objektivierung 
 	- ist eine riesige Zeitverschwendung 
