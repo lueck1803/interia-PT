@@ -2609,7 +2609,8 @@ Das Ausreden wollen war gut!
 - I have ~={LightBlue}determination=~ - Entschlossenheit und Zielstrebigkeit 
 - I have ~={DeepPink}courage=~ 
 ## Thoughts
-- it's 
+- it's your ~={Crimson}Navigation=~ 
+	- 
 - subconsciousness 
 	- has it's patterns 
 	- wants to avoid changes
