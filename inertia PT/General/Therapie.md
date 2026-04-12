@@ -2600,7 +2600,8 @@ Das Ausreden wollen war gut!
 - I can exercise ~={Tomato}continuity=~ 
 - I have ~={DeepSkyBlue}self trust=~
 - I have ~={Gold}confidence=~ 
-- ~={LightBlue}determination=~ - Entschlossenheit 
+- ~={LightBlue}determination=~ - Entschlossenheit und Zielstrebigkeit 
+- I have
 
 
 
