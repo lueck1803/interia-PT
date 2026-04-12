@@ -2608,7 +2608,9 @@ Das Ausreden wollen war gut!
 - I have ~={Gold}confidence=~ 
 - I have ~={LightBlue}determination=~ - Entschlossenheit und Zielstrebigkeit 
 - I have ~={DeepPink}courage=~ 
+## Thoughts
 
+##
 
 
 
