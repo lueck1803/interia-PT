@@ -2354,3 +2354,5 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 - das gleiche habe ich seit Jahren mit meiner Schwester durch gemacht das ist ja Weihnachten 24 wieder eskaliert 
 - ich hab ein 3/4 Jahr gebraucht um wirklich in mir aufzunehmen dass ich nicht böse und manipulativ bin
 - im Herbst ist es dann mit meiner expartnerin noch eskaliert
+- ich hab mir selbstverständlich an allem die Schuld gegeben 
+- ist ja klar 
