@@ -2064,7 +2064,8 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 		- les magasins
 		- les émotions
 		- les sciences et autres disciplines
-## Verbs followed by À and DE [ Verbs Followed by à and de](https://www.youtube.com/watch?v=x_Pif-Vcb7c&t=20s)
+## Verbs followed by À and DE 
+[ Verbs Followed by à and de](https://www.youtube.com/watch?v=x_Pif-Vcb7c&t=20s)
 ### Indirect object pronouns (COI)
 
 | ~={DeepSkyBlue}subject pronouns | ~={Teal}indirect object pronouns=~ |
@@ -2105,7 +2106,7 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 	- Je m'attendais ~={DeepSkyBlue}à=~ un cadeau. - I was expecting a gift.
 	- Je m'~={Teal}y=~ attendais. - I was expecting it.
 
-### ~={MediumSpringGreen} De + Noun=~ / ~={purple}De +  emphatic pronouns=~
+###  <span style="font-size:100%;color:mediumspringgreen;">De + Noun</span> / <span style="font-size:100%;color:MediumPurple;">De +  emphatic pronouns</span>
 - ~={MediumSpringGreen}parler de qn/qc=~ - Speak ~={MediumSpringGreen}about=~ something.
 	- On parle ~={MediumSpringGreen}de=~ ta soeur.
 	- On parle ~={purple}d'elle=~.
@@ -2121,7 +2122,7 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 - ~={MediumSpringGreen}avoir besoin de qc=~
 	- Vous avez besoin ~={MediumSpringGreen}d'=~une voiture.
 	- Vous ~={purple}en=~ aves besoin.
-### ~={Gold}À + infinitive=~
+### <span style="font-size:100%;color:gold;">À + infinitive</span>
 - ~={Gold}Commencer à faire qc=~
 	- J'ai commencé ~={Gold}à apprendre=~ le français.
 - ~={Gold}aider qn à faire qc=~
@@ -2132,7 +2133,7 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 	- Mes parents m'encouragent ~={Gold}à travailler=~ dur.
 - ~={Gold}Continuer à faire qc=~
 	- On va continuer~={Gold} à étudier=~.
-### ~={ForestGreen}De + infinitive=~
+### <span style="font-size:100%;color:forestgreen;">De + infinitive</span>
 - ~={ForestGreen}choisir de faire qc=~
 	- Nous avons choisi ~={ForestGreen}de vendre=~ la maison.
 - ~={ForestGreen}essayer de faire qc=~
@@ -2144,7 +2145,7 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 - ~={ForestGreen}décider de faire qc=~
 	- J'ai décidé ~={ForestGreen}de quitter=~ mon copain.
 
-### ~={DeepSkyBlue}À=~ qn ~={MediumSpringGreen}de=~ faire qc
+### <span style="font-size:100%;color:deepskyblue;">À</span> qn <span style="font-size:100%;color:MediumSpringGreen;">de</span> faire qc
 - Dire ~={DeepSkyBlue}à=~ qn ~={MediumSpringGreen}de=~ faire qc
 	- Ma mère dit ~={DeepSkyBlue}à=~ mon frère ~={MediumSpringGreen}de=~ nettoyer sa chambre.
 	- Ma mère ~={Teal}lui=~ dit ~={MediumSpringGreen}de=~ nettoyer sa chambre.
@@ -2158,7 +2159,7 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 	- Je conseille ~={DeepSkyBlue}à=~ tout le monde ~={MediumSpringGreen}de=~ regarder mes videos.
 	- Je ~={Teal}leur=~ conseille ~={MediumSpringGreen}de=~ regarder mes videos.
 
-### Questions: ~={DeepSkyBlue}à + question word=~ /~={MediumSpringGreen} de + question word=~
+### Questions: <span style="font-size:100%;color:DeepSkyBlue;">à + question</span> word / <span style="font-size:100%;color:MediumSpringGreen;">de + question</span> word
 - ~={MediumSpringGreen}De quoi=~ parles-tu? / ~={MediumSpringGreen}De quoi=~ est-ce que tu parles?
 	- What are you talking about?
 - ~={MediumSpringGreen}De quoi=~ avons-nous besoins? / ~={MediumSpringGreen}De quoi=~ est-ce que nous avons besoins?
