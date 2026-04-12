@@ -2601,7 +2601,7 @@ Das Ausreden wollen war gut!
 - I have ~={DeepSkyBlue}self trust=~
 - I have ~={Gold}confidence=~ 
 - ~={LightBlue}determination=~ - Entschlossenheit und Zielstrebigkeit 
-- I have
+- I have ~={DeepPink}courage=~ 
 
 
 
