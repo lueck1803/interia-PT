@@ -2616,7 +2616,8 @@ Das Ausreden wollen war gut!
 - subconsciousness 
 	- has it's patterns 
 	- wants to avoid changes
-	- habits that ten
+	- habits that tend to repeat 
+	- ⤷hard to break out of
 ## Actions
 
 
