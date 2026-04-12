@@ -8,15 +8,15 @@
 - [x] Bettwäsche wechseln
 - [x] Wäsche anstellen
 	- [x] aufhängen 
-- [ ] bunt gestreiftes longsleeve, rechte achsel flicken 
+- [x] bunt gestreiftes longsleeve, rechte achsel flicken 
 - [ ] spazieren
 - [ ] was ist das für ein Ordner "User" im vault?
 	- [ ] löschen 
-- [ ] Wäsche zusammenlegen
-- [ ] gelben Pulli flicken 
+- [x] Wäsche zusammenlegen
+- [x] gelben Pulli flicken 
 - [ ] in vodafone konto einloggen
 - [ ] Reifen aufpumpen
-- [ ] Einkaufswagen wegbringen
+- [x] Einkaufswagen wegbringen
 - [x] staubsaugen
 - [ ] Küche wischen
 - [x] Tastatur wischen
