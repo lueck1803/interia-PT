@@ -2619,7 +2619,7 @@ Das Ausreden wollen war gut!
 > MUST  be ~={red}followed by action=~
 > 
 > Give you the push to step out of your comfort zone
-> ⤷Con
+> ⤷ Confront your fears
 
 
 
@@ -2650,6 +2650,12 @@ Das Ausreden wollen war gut!
 	- ⤷ which than proves to yourself that you are confident and that you are capable, this is how the loop works
 	- 
 ## Actions
+- Actions are what ~={red}determine=~ whether you collect ~={orange}positive or negative experiences=~
+- ⤷ feeds back to your self-concept
+- Actions that lead to 
+	- ⤷positive experiences
+		- ⤷lead to beliefs experiences
+			- ⤷positive self-image
 
 
 
