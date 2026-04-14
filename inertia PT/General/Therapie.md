@@ -7,7 +7,17 @@
 	- you will be ~={yellow}surprised=~ how~={LawnGreen} quickly=~ you ~={DeepSkyBlue}get used to=~ these ~={red}difficult things=~
 	- often it's that ~={Crimson}initial fear=~
 	- if you do anything ~={Teal}10 times=~ it ~={RedRed}no longer feel scary=~
-	- this works because it gives you ~={LimeGreen}positive experiences=~
+	- this works because it gives you ~={LimeGreen}positive experiences=~ ⟹ ~={DeepSkyBlue}I can do this thing that used to be scary or difficult=~
+		- ~={LawnGreen}you absorb this belief=~ that something that felt scary before feels normal and not scary anymore
+		- over time your ~={Magenta}comfort zone expands=~ 
+		- you ~={Tomato}no longer=~ have this ~={Tomato}fear=~ that was ~={red}holding you back=~
+		- you ~={RedRed}don't=~ want to ~={yellow}set you up for failure=~! ~={RedRed}Don't=~ set a ~={orange}goal=~ that is ~={orange}too high=~! That you will likely fail
+			- creates ~={RedRed}negative=~ experiences
+			- this feeds in your ~={Crimson}limiting beliefs=~ and ~={red}insecurities=~ 
+	- stretch your comfort zone, ~={green}growing=~ it ~={blue}like a muscle=~:
+		- push the boat enough that it feels challenging
+		- but not impossible
+		- also ~={DeepSkyBlue}continuity=~ is important
 - Sachlich sein aber heißt : <span style="font-size:100%;color:limegreen;">Der Ichhaftigkeit des anderen niemals dienstbar sein.</span>
 - ~={Crimson}Don't=~ let your insecurities and fears make all your decisions
 - <u>Affirmations:</u>
@@ -2756,6 +2766,8 @@ A-->B-->C-->D-->A
 	- over time your ~={Magenta}comfort zone expands=~ 
 	- you ~={Tomato}no longer=~ have this ~={Tomato}fear=~ that was ~={red}holding you back=~
 	- you ~={RedRed}don't=~ want to ~={yellow}set you up for failure=~! ~={RedRed}Don't=~ set a ~={orange}goal=~ that is ~={orange}too high=~! That you will likely fail
-		- creates nega
+		- creates ~={RedRed}negative=~ experiences
+		- this feeds in your ~={Crimson}limiting beliefs=~ and ~={red}insecurities=~ 
+	- 
 
 
