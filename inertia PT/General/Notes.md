@@ -2353,5 +2353,15 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 - das gleiche habe ich seit Jahren mit meiner Schwester durch gemacht das ist ja Weihnachten 24 wieder eskaliert 
 - ich hab ein 3/4 Jahr gebraucht um wirklich in mir aufzunehmen dass ich nicht böse und manipulativ bin
 - im Herbst ist es dann mit meiner expartnerin noch eskaliert
+- das gleiche Problem hatte ich auch mit Suvendu meinem vorherigen Betreuer. Ich hab zum Teil nicht mehr gewusst was die Wahrheit ist. Ich bin aus den Gesprächen raus gegangen und dachte ich hab mit ner Wand geredet und danach war ich der dumme und inkompetente
 - ich hab mir selbstverständlich an allem die Schuld gegeben 
 - ist ja klar 
+- ich hab lange gebraucht um mir wieder zu glauben. Ich hab die Probleme und Fehler bei mir gesucht.
+- mit Benno hatte ich davor ja auch schon versucht darüber zu reden. Was total nach hinten los gegangen ist, da ich schon durch meine Partnerschaft und meine Familie so extrem vorbelastet war. Ich bin ja '22 extra in die Klinik da ich nicht mehr weiter wusste. Warum ich so durcheinander bin.
+- erst als ich '24 erfahren habe durch zino dass Nicholas die gleichen Probleme mit Suvendu hatte, bin ich erst langsam wieder aufgewacht und weg von meiner Schuld gekommen. Aber dann ging es privat weiter. Ich bin wirklich so kaputt gewesen. Meine Energie ist so extrem unten am Boden. Wer glaubt mir denn? Es nimmt mich doch keiner ernst. Mir wurde immer nur gesagt ich soll mich zusammen reißen und das nicht so zu Herzen nehmen. Wenn ich jemandem davon erzähle wird mir dann nur unterstellt ich würde Leute schlecht reden. 
+- ich muss mich erklären und ich muss meine Glaubwürdigkeit unter Beweis stellen. Und ich bin der jenige der komplett den Lebensmut und die Energie verloren hat und zu nix im Stande ist und nicht voran kommt, was mir dann auch noch vorgeworfen wird🤯
+- Es gibt zu häufig die Situation dass ich das runterspiele und die Fehler bei mir suche und auch natürlich finde.
+- Und mich nicht ernst nehme. Mir eher noch Faulheit vor werfe.
+- Es fühlt sich so an als wäre ich faul.
+- Aber das ist so wenn man nur Chaos im Kopf hat, den Lebenssinn/ziele und seine eigene Daseinsberechtigung verloren hat.
+- ich weiß auch gar nicht mehr ob ich wirklich ADHS habe. Dass ich so extrem durch bin, war früher nicht so. Das ist ne Traumafolgestörung 
