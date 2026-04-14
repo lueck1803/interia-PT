@@ -2751,7 +2751,11 @@ A-->B-->C-->D-->A
 - you will be ~={yellow}surprised=~ how~={LawnGreen} quickly=~ you ~={DeepSkyBlue}get used to=~ these ~={red}difficult things=~
 - often it's that ~={RedRed}initial fear=~
 - if you do anything ~={Teal}10 times=~ it ~={Crimson}no longer feel scary=~
-- this works because it gives you ~={LimeGreen}positive experiences=~ 
-- you absorb this belief that something that felt scary be
+- this works because it gives you ~={LimeGreen}positive experiences=~ ⟹ ~={DeepSkyBlue}I can do this thing that used to be scary or difficult=~
+	- ~={LawnGreen}you absorb this belief=~ that something that felt scary before feels normal and not scary anymore
+	- over time your ~={Magenta}comfort zone expands=~ 
+	- you ~={Tomato}no longer=~ have this ~={Tomato}fear=~ that was ~={red}holding you back=~
+	- you ~={RedRed}don't=~ want to ~={yellow}set you up for failure=~! ~={RedRed}Don't=~ set a ~={orange}goal=~ that is ~={orange}too high=~! That you will likely fail
+		- creates nega
 
 
