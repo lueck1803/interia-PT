@@ -1,12 +1,12 @@
 - [ ] grüne Erbsen 
 - [ ] tomaten
 - [ ] Johannisbeermarmelade 
+- [ ] Hafermilch 
 - [x] toast
 - [x] hummus
 - [x] Rosmarin samen winterhart 
 - [x] Schmelzkäse 
 - [x] Backpapier
-- [x] Hafermilch 
 - [x] Fusilli
 - [x] Pesto 
 - [x] Bananen 
