@@ -5,7 +5,7 @@
 - [x] Johannisbeermarmelade 
 - [x] Hafermilch 
 	- gab nur die "ohne Zucker "
-- [ ] hummus
+- [x] hummus
 - [x] Bananen
 - [ ] grüne Erbsen 
 - [x] toast
