@@ -2729,9 +2729,9 @@ A-->B-->C-->D-->A
 	- you can end up ~={Orchid}hurting=~ yourself 
 	- and be ~={Gold}worse off=~ than before
 - It is something you want to do ~={LawnGreen}gradually=~ ~={orange}⟹=~ ~={red}⟹=~ ~={RedRed}⟹=~ ~={LimeGreen}⟹=~ 
-	- push yourself enough that it's ~={LimeGreen}challenging=~ 
-	- but not so much that it ~={red}hurt's=~
-	- If you do this ~={MediumSpringGreen}over time=~, if you ~={RoyalBlue}continuously challenge=~ yourself 
+	- push yourself ~={LightBlue}enough=~ that it's ~={LimeGreen}challenging=~ 
+	- but ~={red}not=~ so much that it ~={red}hurt's=~
+	- If you do this ~={MediumSpringGreen}over time=~, if you ~={DeepSkyBlue}continuously challenge=~ yourself 
 	- ~={ForestGreen}⤷=~ than your ~={ForestGreen}comfort zone will grow=~
 	- ~={LimeGreen}⤷=~ things will than ~={LimeGreen}fall into your comfort zone=~ that used to be outside of it
 	- ~={RedRed}⤷ =~things that used to ~={RedRed}seem impossible=~ you can actually do ~={red}with a bit of a push=~
