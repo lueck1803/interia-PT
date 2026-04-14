@@ -2365,4 +2365,4 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 - Es fühlt sich so an als wäre ich faul.
 - Aber das ist so wenn man nur Chaos im Kopf hat, den Lebenssinn/ziele und seine eigene Daseinsberechtigung verloren hat.
 - ich weiß auch gar nicht mehr ob ich wirklich ADHS habe. Dass ich so extrem durch bin, war früher nicht so. Das ist ne Traumafolgestörung 
-- ich habe immer viel zu große Schritte gemacht und mich dann zu viel gezwungen
+- ich habe immer viel zu große Schritte gemacht und mich dann zu zu viel gezwungen und durch den druck bin ich immer wieder gescheitert, statt die dosis klein und langsam zu erhöhen
