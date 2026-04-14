@@ -1,7 +1,7 @@
 # unsortiert
 - [ ] ~={Crimson}Wie schaffe ich es immer aroused zu sein?=~
 - [x] ~={Crimson}Tisch aufräumen!=~
-- [ ] Wasserkocher entkalken 
+- [x] Wasserkocher entkalken 
 - [x] Pflanzen gießen 
 - [x] in den aldi
 - [x] Vokabeln ab Seite 26 eintragen 
