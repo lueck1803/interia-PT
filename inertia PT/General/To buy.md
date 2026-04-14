@@ -2,9 +2,8 @@
 - [ ] tomaten
 - [ ] Johannisbeermarmelade 
 - [ ] Hafermilch 
-- [ ] hummus
-- [ ] banan
 - [x] toast
+- [ ] hummus
 - [x] Rosmarin samen winterhart 
 - [x] Schmelzkäse 
 - [x] Backpapier
