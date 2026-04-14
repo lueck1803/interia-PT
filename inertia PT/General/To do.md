@@ -1,7 +1,7 @@
 # unsortiert
 - [ ] ~={Crimson}Wie schaffe ich es immer aroused zu sein?=~
 - [x] ~={Crimson}Tisch aufräumen!=~
-- [ ] in den aldi
+- [x] in den aldi
 - [x] Vokabeln ab Seite 26 eintragen 
 - [x] Tisch absenken 
 - [x] Reifendruck checken
@@ -10,7 +10,7 @@
 - [x] Wäsche anstellen
 	- [x] aufhängen 
 - [x] bunt gestreiftes longsleeve, rechte achsel flicken 
-- [ ] spazieren
+- [x] spazieren
 - [x] was ist das für ein Ordner "User" im vault?
 	- [x] löschen 
 	- War nur am Handy / vielleicht noch am mac?
