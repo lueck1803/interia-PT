@@ -2786,5 +2786,8 @@ A-->B-->C-->D-->A
 		- no competition 
 		- no timeline 
 		- you can take one step at a time
+- keep in mind that it takes more effort at first, but gradually becomes easier 
+	- think of it like a computer game, where you start small and gain experience in small steps and level by level
+	- 
 
 
