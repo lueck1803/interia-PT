@@ -496,7 +496,7 @@
           "className": "ftc-color-builtin-LightBlue"
         },
         {
-          "color": "#4137ff",
+          "color": "#4169ff",
           "id": "RoyalBlue",
           "keybind": "I",
           "italic": false,
@@ -942,7 +942,7 @@
   "themeIndex": 0,
   "version": "3",
   "interactiveDelimiters": true,
-  "useKeybindings": false,
+  "useKeybindings": true,
   "useNodeRebuilding": false,
   "colorCodeSection": true
 }

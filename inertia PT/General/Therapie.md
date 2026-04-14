@@ -1,7 +1,7 @@
 
 # Tägliches Mantra
 - You can only ~={red}change=~ ~={LawnGreen}gradually=~
-	- push your comfort zone only so far you are capable of
+	- ~={DeepPink}push your comfort zone=~ only so far ~={LightBlue}you are capable of=~
 	- ~={blue}do it this step=~ so often until it becomes ~={LimeGreen}easy=~ and ~={LimeGreen}normal=~
 	- only then move on to the next step and don't push it to far
 - Sachlich sein aber heißt : <span style="font-size:100%;color:limegreen;">Der Ichhaftigkeit des anderen niemals dienstbar sein.</span>
