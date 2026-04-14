@@ -24,7 +24,26 @@
 	- its ~={LawnGreen}perfectly fine=~ to ~={blue}start small=~ ⟹ start with the smallest possible step, for where you at now
 	- keep in mind that it takes more effort at first, but gradually becomes easier 
 		- think of it like a ~={DeepPink}computer game=~, where you start small and gain experience in small steps and level by level
-		- ⤷ so ~={Gold}break=~ ~={ForestGreen}your goals=~ ~={DeepSkyBlue}into levels
+		- ⤷ so ~={Gold}break=~ ~={ForestGreen}your goals=~ ~={DeepSkyBlue}into levels=~ 
+```mermaid
+flowchart TB
+%% flowchart LR
+A[Thoughts]
+B[Actions]
+C[<span style="font-size:100%;color:ForestGreen;">positive</span> Experiences]
+D[Beliefs /<br> Self-Concept]
+
+A-->B-->C-->D-->A
+%% D-->A %%
+%% A-->B %%
+%% C-->B %%
+%% D-->C %%
+%% <-->C<-->D<-->A %%
+
+
+%% A~~~C %%
+%% A~~~D %%
+```
 - Sachlich sein aber heißt : <span style="font-size:100%;color:limegreen;">Der Ichhaftigkeit des anderen niemals dienstbar sein.</span>
 - ~={Crimson}Don't=~ let your insecurities and fears make all your decisions
 - <u>Affirmations:</u>
@@ -2796,6 +2815,27 @@ A-->B-->C-->D-->A
 ## <span style="font-size:100%;color:gold;">thoughts & actions</span> summary
 - you have your ~={LawnGreen}vision=~
 - you have your ~={blue}qualities=~
-- you also have the list of qualities you want to develop in yourself
+- you also have the ~={MediumSpringGreen}list of qualities=~ ~={Orchid}you want to develop=~ in yourself
+- ~={underline}Example:=~ you want to create a ~={Gold}confident self-concept=~
+```mermaid
+flowchart TB
+%% flowchart LR
+A[Thoughts]
+B[Actions]
+C[<span style="font-size:100%;color:ForestGreen;">positive</span> Experiences]
+D[Beliefs /<br> Self-Concept]
+
+A-->B-->C-->D-->A
+%% D-->A %%
+%% A-->B %%
+%% C-->B %%
+%% D-->C %%
+%% <-->C<-->D<-->A %%
+
+
+%% A~~~C %%
+%% A~~~D %%
+```
+	- starting with ~={Teal}thoughts=~
 
 
