@@ -2863,6 +2863,8 @@ A-->B-->C-->D-->A
 		- remember the feedback loop especially when you don't like yourself concept that you're currently stuck in.
 		- ⤷ this ~={RedRed}isn't about=~ ~={orange}changing=~ your personality
 		- ⤷ it's about ~={LimeGreen}developing=~ your personality
-		- C.G. Jung: ""
+		- C.G. Jung: "The qualities that you admire in other people indicate the untapped talents and potentials within yourself"
+			- ⤷if you didn't have these things within you, that want to be integrated, that want to be developed in yourself, then it wouldn't resonate, you wouldn't care
+			- ⤷there is a part of you that wants that as well, by ~={LawnGreen}using that as inspiration=~ it can help you develop parts of your personality that maybe up until now ~={Crimson}you've neglected=~
 
 
