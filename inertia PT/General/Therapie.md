@@ -57,6 +57,14 @@ A-->B-->C-->D-->A
 		- This give you the ~={Gold}temporary mindset=~ ~={RedRed}to take action=~
 		- ⤷ this ~={RedRed}isn't about=~ ~={orange}changing=~ your personality
 		- ⤷ it's about ~={LimeGreen}developing=~ your personality
+		- C.G. Jung: "The qualities that you admire in other people indicate the untapped talents and potentials within yourself"
+			- ⤷if you didn't have these things within you, that want to be integrated, that want to be developed in yourself, then it wouldn't resonate, you wouldn't care
+			- ⤷there is a part of you that wants that as well, by ~={LawnGreen}using that as inspiration=~ it can help you develop parts of your personality that maybe up until now ~={Crimson}you've neglected=~
+			- ⤷ There is some ~={LimeGreen}suppressed desire=~ within yourself that wants this and ~={red}if you don't let it out=~ then it's going to ~={Tomato}live in the back of your mind=~ and it's going to~={RedRed} make you resentful=~, it's going to make you ~={RedRed}self-sabotage=~ 
+			- ⤷ really try to pay attention to these kind of things 
+			- ⤷ create your dream life / your ~={LawnGreen}dream vision=~ ⟹ thinking of it as a dream allows you to create a vision that ~={green}isn't bound or restricted=~ by your current insecurities and limiting beliefs
+				- ⤷ it's your current fears and limiting beliefs that keep you in the life you're living right now!
+				- the person who lives this dream life their qualities that you currently lack is how you develop this version of yourself
 - Sachlich sein aber heißt : <span style="font-size:100%;color:limegreen;">Der Ichhaftigkeit des anderen niemals dienstbar sein.</span>
 - ~={Crimson}Don't=~ let your insecurities and fears make all your decisions
 - <u>Affirmations:</u>
@@ -2870,6 +2878,12 @@ A-->B-->C-->D-->A
 			- ⤷ really try to pay attention to these kind of things 
 			- ⤷ create your dream life / your ~={LawnGreen}dream vision=~ ⟹ thinking of it as a dream allows you to create a vision that ~={green}isn't bound or restricted=~ by your current insecurities and limiting beliefs
 				- ⤷ it's your current fears and limiting beliefs that keep you in the life you're living right now!
-				- the person who lives this dream li
+				- the person who lives this dream life their qualities that you currently lack is how you develop this version of yourself
+	- create your new self-concept:
+		- start with your vision, your dream life and then compare it to your life now 
+		- where are you holding yourself back?
+		- if you were dropped now into your dream life: where would you fail?
+		- ⤷ this will show you what qualities you need to develop in yourself in order to live that in order to reach those things and then write down one to three of these qualities that you need in order to a
+## my vision and my list of qualities that I want to develop to reach this vision
 
 
