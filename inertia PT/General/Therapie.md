@@ -2728,7 +2728,7 @@ A-->B-->C-->D-->A
 	- ~={DeepPink}having a set back=~, 
 	- you can end up ~={Orchid}hurting=~ yourself 
 	- and be ~={Gold}worse off=~ than before
-- It is something you want to do ~={LawnGreen}gradually=~
+- It is something you want to do ~={LawnGreen}gradually=~ ~={orange}⟹=~ ~={red}⟹=~ ~={RedRed}⟹=~ ~={LimeGreen}⟹=~ 
 	- push yourself enough that it's ~={LimeGreen}challenging=~ 
 	- but not so much that it ~={red}hurt's=~
 	- If you do this ~={MediumSpringGreen}over time=~, if you ~={RoyalBlue}continuously challenge=~ yourself 
