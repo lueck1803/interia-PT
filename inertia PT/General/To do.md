@@ -1,6 +1,7 @@
 # unsortiert
 - [ ] ~={Crimson}Wie schaffe ich es immer aroused zu sein?=~
 - [x] ~={Crimson}Tisch aufräumen!=~
+- [ ] in den aldi
 - [x] Vokabeln ab Seite 26 eintragen 
 - [x] Tisch absenken 
 - [x] Reifendruck checken
