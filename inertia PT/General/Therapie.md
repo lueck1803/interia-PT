@@ -2816,7 +2816,6 @@ A-->B-->C-->D-->A
 - you have your ~={LawnGreen}vision=~
 - you have your ~={blue}qualities=~
 - you also have the ~={MediumSpringGreen}list of qualities=~ ~={Orchid}you want to develop=~ in yourself
-- ~={underline}Example:=~ you want to create a ~={Gold}confident self-concept=~
 ```mermaid
 flowchart TB
 %% flowchart LR
@@ -2836,6 +2835,13 @@ A-->B-->C-->D-->A
 %% A~~~C %%
 %% A~~~D %%
 ```
-	- starting with ~={Teal}thoughts=~
+- ~={underline}Example:=~ you want to create a ~={Gold}confident self-concept=~
+	- starting with ~={Teal}thoughts=~:
+		- you can use affirmations for confidence
+			- I am confident and capable
+			- I am happy with my life and living it the way I want
+			- I am okay no matter what other people think of me
+		- ~={blue}⤷ consistently=~ repeat them to yourself
+		- ~={LightBlue}most of our thoughts run automatically=~ over and over, they become a habit, it's through this constant repetition and that's exactly what you want to do as well, but in a positive way
 
 
