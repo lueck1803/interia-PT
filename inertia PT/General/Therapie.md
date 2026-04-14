@@ -2724,6 +2724,10 @@ A-->B-->C-->D-->A
 	- But it's important to ~={yellow}match=~ the exercise to your ~={RedRed}fitness level=~
 	- ⤷ if it is way ~={orange}beyond=~ the fitness level you are at you ~={Tomato}fail=~ and you ~={Magenta}give up=~
 	- ⤷ ~={DeepPink}decide=~ exercises ~={Orchid}isn't=~ for me
-- Same is happening with our ~={red}comfort zone=~. If your ~={pink}push yourself=~ too far, than you can end up ~={DeepPink}having a set back=~
+- Same is happening with our ~={red}comfort zone=~. If your ~={pink}push yourself=~ too far, than you can end up
+	- ~={DeepPink}having a set back=~, 
+	- you can end up ~={Orchid}hurting=~ yourself 
+	- and be ~={Gold}worse off=~ than before
+- It is something you want to do ~={LawnGreen}gradually=~ 
 
 
