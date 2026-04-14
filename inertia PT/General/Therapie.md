@@ -2909,6 +2909,10 @@ A-->B-->C-->D-->A
 		- do they have different handwriting?
 	- ⤷these things can help you change into a different head space, because it's a break from your current routine 
 	- ⤷ it brings this image of who you want to be closer to the foreground of your mind 
+- Having a dream self-concept can help you ~={LimeGreen}develop=~ more into the person that will bring you closer to your unique potential in life who you are underneath that doesn't change. 
+- ⤷ It still expressed through these facets of your personality which are all developed differently 
+	- if you are currently lacking in discipline and confidence then developing these qualities in yourself will only ~={DeepPink}bring you closer to=~ ~={LawnGreen}your true self=~ 
+	- because you won't be holding yourself back because of fears and inse
 ## my vision and my list of qualities that I want to develop to reach this vision
 
 
