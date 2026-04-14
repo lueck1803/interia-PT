@@ -2897,7 +2897,17 @@ A-->B-->C-->D-->A
 	- all your fears and insecurities aside 
 	- if you gave this your all your absolute focus unwavering dedication 
 	- could you achieve this?
-	- ⤷
+	- ⤷ probably! ~={RedRed}so why don't you?=~
+	- ⤷ that's where you will find the work you need to do
+- Creating a bit of a character around it. 
+	- Who you are now is habit
+	- ⤷ a habit is something you can change! at any time!
+	- ⤷ask yourself this dream version of you: ~={DeepSkyBlue}What do they do?=~
+		- Do they wake up early?
+		- do they wear their hair in a certain way? 
+		- do they have different handwriting?
+	- ⤷these things can help you change into a different head space, because it's a break from your current routine 
+	- ⤷ it brings this image of who you wa
 ## my vision and my list of qualities that I want to develop to reach this vision
 
 
