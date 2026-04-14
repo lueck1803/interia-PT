@@ -264,6 +264,64 @@
           "className": "ftc-color-builtin-ForestGreen"
         },
         {
+          "color": "#7cfc00",
+          "id": "LawnGreen",
+          "keybind": "Q",
+          "italic": false,
+          "bold": false,
+          "cap_mode": {
+            "states": [
+              "normal",
+              "all_caps",
+              "small_caps"
+            ],
+            "state": "normal",
+            "index": 0
+          },
+          "line_mode": {
+            "states": [
+              "none",
+              "underline",
+              "overline",
+              "line-through"
+            ],
+            "state": "none",
+            "index": 0
+          },
+          "useCssColorVariable": false,
+          "colorVariable": "--color-base-00",
+          "className": "ftc-color-builtin-LawnGreen"
+        },
+        {
+          "color": "#14cd32",
+          "id": "LimeGreen",
+          "keybind": "F",
+          "italic": false,
+          "bold": false,
+          "cap_mode": {
+            "states": [
+              "normal",
+              "all_caps",
+              "small_caps"
+            ],
+            "state": "normal",
+            "index": 0
+          },
+          "line_mode": {
+            "states": [
+              "none",
+              "underline",
+              "overline",
+              "line-through"
+            ],
+            "state": "none",
+            "index": 0
+          },
+          "useCssColorVariable": false,
+          "colorVariable": "--color-base-00",
+          "className": "ftc-color-builtin-LimeGreen"
+        },
+        {
           "color": "#000000",
           "id": "green",
           "keybind": "0",
@@ -291,35 +349,6 @@
           "useCssColorVariable": true,
           "colorVariable": "--color-green",
           "className": "ftc-color-builtin-green"
-        },
-        {
-          "color": "#7cfc00",
-          "id": "LawnGreen",
-          "keybind": "W",
-          "italic": false,
-          "bold": false,
-          "cap_mode": {
-            "states": [
-              "normal",
-              "all_caps",
-              "small_caps"
-            ],
-            "state": "normal",
-            "index": 0
-          },
-          "line_mode": {
-            "states": [
-              "none",
-              "underline",
-              "overline",
-              "line-through"
-            ],
-            "state": "none",
-            "index": 0
-          },
-          "useCssColorVariable": false,
-          "colorVariable": "--color-base-00",
-          "className": "ftc-color-builtin-LawnGreen"
         },
         {
           "color": "#00fa9a",
