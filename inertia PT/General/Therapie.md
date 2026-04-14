@@ -2721,5 +2721,8 @@ A-->B-->C-->D-->A
 	- If you don't exercise it
 	- if you don't push it
 	- ⤷ it's not going to grow
+	- But it's important to ~={yellow}match=~ the exercise to your ~={RedRed}fitness level=~
+	- ⤷ if it is way ~={orange}beyond=~ the fitness level you are at you ~={Tomato}fail=~ and you ~={Magenta}give up=~
+	- ⤷decide exercises isn't 
 
 
