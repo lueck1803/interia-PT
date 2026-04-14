@@ -1,6 +1,7 @@
 - [x] Tomaten
 	- [x] Packung große gekauft da nur 3,5€/kg
 - [x] stattdessen Avocado 🥑 
+- [x] geschrotete Leinsamen bevor es demnächst wieder keine mehr gibt
 - [ ] Johannisbeermarmelade 
 - [ ] Hafermilch 
 - [ ] hummus
