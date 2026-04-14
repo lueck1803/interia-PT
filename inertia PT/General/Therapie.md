@@ -44,6 +44,16 @@ A-->B-->C-->D-->A
 %% A~~~C %%
 %% A~~~D %%
 ```
+-  ~={underline}Example:=~ you want to create a ~={Gold}confident self-concept=~
+	- starting with ~={Teal}thoughts=~:
+		- you can use affirmations for confidence
+			- I am confident and capable
+			- I am happy with my life and living it the way I want
+			- I am okay no matter what other people think of me
+		- ~={blue}⤷ consistently=~ repeat them to yourself
+		- ~={LightBlue}**most** of our thoughts run *automatically*=~ over and over, they become a habit, it's through this ~={purple}constant repetition=~ and that's exactly what you want to do as well, but ~={LawnGreen}in a positive way=~
+		- you want to do it ~={Tomato}intentionally=~ ⟹ you are ~={MediumSpringGreen}feeding yourself=~ the ~={Gold}thoughts=~ ~={blue}that you want=~
+		- use these affirmations and ~={Gold}say them out loud=~ ⟹ so that they become a part of your ~={LimeGreen}mantra=~
 - Sachlich sein aber heißt : <span style="font-size:100%;color:limegreen;">Der Ichhaftigkeit des anderen niemals dienstbar sein.</span>
 - ~={Crimson}Don't=~ let your insecurities and fears make all your decisions
 - <u>Affirmations:</u>
@@ -2842,6 +2852,8 @@ A-->B-->C-->D-->A
 			- I am happy with my life and living it the way I want
 			- I am okay no matter what other people think of me
 		- ~={blue}⤷ consistently=~ repeat them to yourself
-		- ~={LightBlue}most of our thoughts run automatically=~ over and over, they become a habit, it's through this constant repetition and that's exactly what you want to do as well, but in a positive way
+		- ~={LightBlue}**most** of our thoughts run *automatically*=~ over and over, they become a habit, it's through this ~={purple}constant repetition=~ and that's exactly what you want to do as well, but ~={LawnGreen}in a positive way=~
+		- you want to do it ~={Tomato}intentionally=~ ⟹ you are ~={MediumSpringGreen}feeding yourself=~ the ~={Gold}thoughts=~ ~={blue}that you want=~
+		- use these affirmations and  ~={Gold}say them out loud=~ ⟹ so that they become a part of your ~={LimeGreen}mantra=~ 
 
 
