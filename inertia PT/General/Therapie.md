@@ -2735,6 +2735,8 @@ A-->B-->C-->D-->A
 	- ~={ForestGreen}⤷=~ than your ~={ForestGreen}comfort zone will grow=~
 	- ~={LimeGreen}⤷=~ things will than ~={LimeGreen}fall into your comfort zone=~ that used to be outside of it
 	- ~={RedRed}⤷ =~things that used to ~={RedRed}seem impossible=~ you can actually do ~={red}with a bit of a push=~
-- write down a ~={Tomato}list of all the thing that I am scared to do=~, that feel like that they are ~={Gold}outside of my comfort zone=~, arrange this list from ~={LawnGreen}easiest\smallest=~ ⟹ ~={Crimson}hardest=~and started at the very top of it 
+- write down a ~={Tomato}list of all the thing that I am scared to do=~, that feel like that they are ~={Gold}outside of my comfort zone=~, arrange this list from ~={LawnGreen}easiest\smallest=~ ⟹ ~={Crimson}hardest=~and started at the very top of it.
+- ~={Teal}do it until=~ it becomes ~={LawnGreen}easy=~ until it becomes normal
+	- ⤷ then and only then do the next step / thing on the list
 
 
