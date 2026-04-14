@@ -5,7 +5,7 @@
         {
           "color": "#dc143c",
           "id": "Crimson",
-          "keybind": "C",
+          "keybind": "1",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -34,7 +34,7 @@
         {
           "color": "#ff0000",
           "id": "RedRed",
-          "keybind": "Q",
+          "keybind": "2",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -63,7 +63,7 @@
         {
           "color": "#000000",
           "id": "red",
-          "keybind": "R",
+          "keybind": "3",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -92,7 +92,7 @@
         {
           "color": "#ff6347",
           "id": "Tomato",
-          "keybind": "T",
+          "keybind": "4",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -121,7 +121,7 @@
         {
           "color": "#000000",
           "id": "orange",
-          "keybind": "O",
+          "keybind": "5",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -150,7 +150,7 @@
         {
           "color": "#8b4513",
           "id": "Brown",
-          "keybind": "W",
+          "keybind": "6",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -179,7 +179,7 @@
         {
           "color": "#ffd700",
           "id": "Gold",
-          "keybind": "A",
+          "keybind": "7",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -208,7 +208,7 @@
         {
           "color": "#000000",
           "id": "yellow",
-          "keybind": "Y",
+          "keybind": "8",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -237,7 +237,7 @@
         {
           "color": "#228b22",
           "id": "ForestGreen",
-          "keybind": "F",
+          "keybind": "9",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -266,7 +266,7 @@
         {
           "color": "#000000",
           "id": "green",
-          "keybind": "G",
+          "keybind": "0",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -295,7 +295,7 @@
         {
           "color": "#7cfc00",
           "id": "LawnGreen",
-          "keybind": "N",
+          "keybind": "Q",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -324,7 +324,7 @@
         {
           "color": "#00fa9a",
           "id": "MediumSpringGreen",
-          "keybind": "P",
+          "keybind": "W",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -353,7 +353,7 @@
         {
           "color": "#008080",
           "id": "Teal",
-          "keybind": "E",
+          "keybind": "R",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -382,7 +382,7 @@
         {
           "color": "#1e90ff",
           "id": "blue",
-          "keybind": "B",
+          "keybind": "T",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -411,7 +411,7 @@
         {
           "color": "#00bfff",
           "id": "DeepSkyBlue",
-          "keybind": "S",
+          "keybind": "Z",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -440,7 +440,7 @@
         {
           "color": "#87cefa",
           "id": "LightBlue",
-          "keybind": "I",
+          "keybind": "U",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -469,7 +469,7 @@
         {
           "color": "#4137ff",
           "id": "RoyalBlue",
-          "keybind": "K",
+          "keybind": "I",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -498,7 +498,7 @@
         {
           "color": "#000000",
           "id": "pink",
-          "keybind": "I",
+          "keybind": "O",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -527,7 +527,7 @@
         {
           "color": "#000000",
           "id": "purple",
-          "keybind": "L",
+          "keybind": "P",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -556,7 +556,7 @@
         {
           "color": "#ba55d3",
           "id": "Orchid",
-          "keybind": "H",
+          "keybind": "Ü",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -585,7 +585,7 @@
         {
           "color": "#9400d3",
           "id": "DarkViolet",
-          "keybind": "V",
+          "keybind": "A",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -614,7 +614,7 @@
         {
           "color": "#ff1493",
           "id": "DeepPink",
-          "keybind": "D",
+          "keybind": "S",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -643,7 +643,7 @@
         {
           "color": "#ff00ff",
           "id": "Magenta",
-          "keybind": "M",
+          "keybind": "D",
           "italic": false,
           "bold": false,
           "cap_mode": {
@@ -672,7 +672,7 @@
         {
           "color": "#ffffff",
           "id": "underline",
-          "keybind": "U",
+          "keybind": "M",
           "italic": false,
           "bold": false,
           "cap_mode": {
