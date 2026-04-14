@@ -4,7 +4,10 @@
 	- ~={DeepPink}push your comfort zone=~ only so far ~={LightBlue}you are capable of=~
 	- ~={blue}do it this step=~ so often until it becomes ~={LimeGreen}easy=~ and ~={LimeGreen}normal=~
 	- only then move on to the next step and don't push it to far
-	- you will be ~={yellow}surprised=~ how~={LawnGreen} quickly=~ ~={DeepSkyBlue}get used to=~ these ~={red}difficult things=~
+	- you will be ~={yellow}surprised=~ how~={LawnGreen} quickly=~ you ~={DeepSkyBlue}get used to=~ these ~={red}difficult things=~
+	- often it's that ~={Crimson}initial fear=~
+	- if you do anything ~={Teal}10 times=~ it ~={RedRed}no longer feel scary=~
+	- this works because it gives you ~={LimeGreen}positive experiences=~
 - Sachlich sein aber heißt : <span style="font-size:100%;color:limegreen;">Der Ichhaftigkeit des anderen niemals dienstbar sein.</span>
 - ~={Crimson}Don't=~ let your insecurities and fears make all your decisions
 - <u>Affirmations:</u>
@@ -2745,5 +2748,10 @@ A-->B-->C-->D-->A
 	- ⤷ then and ~={RedRed}only then=~ do the ~={green}next step / thing=~ on the list
 - grew the comfort zone gradually over time in this way
 - This may take time but it's the only way you can change!
+- you will be ~={yellow}surprised=~ how~={LawnGreen} quickly=~ you ~={DeepSkyBlue}get used to=~ these ~={red}difficult things=~
+- often it's that ~={RedRed}initial fear=~
+- if you do anything ~={Teal}10 times=~ it ~={Crimson}no longer feel scary=~
+- this works because it gives you ~={LimeGreen}positive experiences=~ 
+- you absorb this belief that something that felt scary be
 
 
