@@ -2,7 +2,7 @@
 - [ ] ~={Crimson}Wie schaffe ich es immer aroused zu sein?=~
 - [x] ~={Crimson}Tisch aufräumen!=~
 - [ ] Wasserkocher entkalken 
-- [ ] Pflanzen gießen 
+- [x] Pflanzen gießen 
 - [x] in den aldi
 - [x] Vokabeln ab Seite 26 eintragen 
 - [x] Tisch absenken 
@@ -19,7 +19,7 @@
 - [x] Wäsche zusammenlegen
 - [x] gelben Pulli flicken 
 - [ ] in vodafone konto einloggen
-- [ ] Reifen aufpumpen
+- [x] Reifen aufpumpen
 - [x] Einkaufswagen wegbringen
 - [x] staubsaugen
 - [ ] Küche wischen
