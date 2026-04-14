@@ -15,9 +15,10 @@
 			- creates ~={RedRed}negative=~ experiences
 			- this feeds in your ~={Crimson}limiting beliefs=~ and ~={red}insecurities=~ 
 	- stretch your comfort zone, ~={green}growing=~ it ~={blue}like a muscle=~:
-		- push the boat enough that it feels challenging
-		- but not impossible
+		- push the boat enough that it feels ~={pink}challenging=~
+		- but ~={Crimson}not=~ impossible
 		- also ~={DeepSkyBlue}continuity=~ is important
+		- if you keep setting the same goals for yourself and repeatedly failing at them then that is to high 
 - Sachlich sein aber heißt : <span style="font-size:100%;color:limegreen;">Der Ichhaftigkeit des anderen niemals dienstbar sein.</span>
 - ~={Crimson}Don't=~ let your insecurities and fears make all your decisions
 - <u>Affirmations:</u>
