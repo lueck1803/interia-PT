@@ -2776,6 +2776,7 @@ A-->B-->C-->D-->A
 		- positive self-image
 - Whats the ~={blue}difference=~ between positive and negative experiences?
 ### <span style="font-size:100%;color:OrangeRed;">comfort Zone</span>
+![[Images/Therapie/Self-concept/comfort-zone.png]]
 - Life what ~={Gold}you live=~, is what is ~={Gold}within=~ this comfort zone/circle
 - Life what you ~={LawnGreen}want=~ to live is ~={LawnGreen}outside=~ of this comfort zone/circle
 - Your comfort zone is ~={blue}adapted=~ to the ~={LightBlue}life you are living=~ 
@@ -2907,7 +2908,7 @@ A-->B-->C-->D-->A
 		- do they wear their hair in a certain way? 
 		- do they have different handwriting?
 	- ⤷these things can help you change into a different head space, because it's a break from your current routine 
-	- ⤷ it brings this image of who you wa
+	- ⤷ it brings this image of who you want to be closer to the foreground of your mind 
 ## my vision and my list of qualities that I want to develop to reach this vision
 
 
