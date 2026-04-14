@@ -9,7 +9,7 @@
 	- if you do anything ~={Teal}10 times=~ it ~={RedRed}no longer feel scary=~
 	- this works because it gives you ~={LimeGreen}positive experiences=~ ⟹ ~={DeepSkyBlue}I can do this thing that used to be scary or difficult=~
 		- ~={LawnGreen}you absorb this belief=~ that something that felt scary before feels normal and not scary anymore
-		- over time your ~={Magenta}comfort zone expands=~ 
+		- over time your ~={Magenta}comfort zone expands=~ ![[Images/Therapie/Self-concept/comfort-zone.png]]
 		- you ~={Tomato}no longer=~ have this ~={Tomato}fear=~ that was ~={red}holding you back=~
 		- you ~={RedRed}don't=~ want to ~={yellow}set you up for failure=~! ~={RedRed}Don't=~ set a ~={orange}goal=~ that is ~={orange}too high=~! That you will likely fail
 			- creates ~={RedRed}negative=~ experiences
