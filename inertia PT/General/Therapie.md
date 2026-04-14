@@ -1,5 +1,9 @@
 
 # Tägliches Mantra
+- You can only ~={red}change=~ ~={LawnGreen}gradually=~
+	- push your comfort zone only so far you are capable of
+	- ~={blue}do it this step=~ so often until it becomes ~={LimeGreen}easy=~ and ~={LimeGreen}normal=~
+	- only then move on to the next step and don't push it to far
 - Sachlich sein aber heißt : <span style="font-size:100%;color:limegreen;">Der Ichhaftigkeit des anderen niemals dienstbar sein.</span>
 - ~={Crimson}Don't=~ let your insecurities and fears make all your decisions
 - <u>Affirmations:</u>
@@ -2736,7 +2740,9 @@ A-->B-->C-->D-->A
 	- ~={LimeGreen}⤷=~ things will than ~={LimeGreen}fall into your comfort zone=~ that used to be outside of it
 	- ~={RedRed}⤷ =~things that used to ~={RedRed}seem impossible=~ you can actually do ~={red}with a bit of a push=~
 - write down a ~={Tomato}list of all the thing that I am scared to do=~, that feel like that they are ~={Gold}outside of my comfort zone=~, arrange this list from ~={LawnGreen}easiest\smallest=~ ⟹ ~={Crimson}hardest=~and started at the very top of it.
-- ~={Teal}do it until=~ it becomes ~={LawnGreen}easy=~ until it becomes normal
-	- ⤷ then and only then do the next step / thing on the list
+- ~={Teal}do it until=~ it becomes ~={LawnGreen}easy=~ until it becomes ~={LawnGreen}normal=~
+	- ⤷ then and ~={RedRed}only then=~ do the ~={green}next step / thing=~ on the list
+- grew the comfort zone gradually over time in this way
+- This may take time but it's the only way you can change!
 
 
