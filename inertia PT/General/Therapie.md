@@ -2879,11 +2879,17 @@ A-->B-->C-->D-->A
 			- ⤷ create your dream life / your ~={LawnGreen}dream vision=~ ⟹ thinking of it as a dream allows you to create a vision that ~={green}isn't bound or restricted=~ by your current insecurities and limiting beliefs
 				- ⤷ it's your current fears and limiting beliefs that keep you in the life you're living right now!
 				- the person who lives this dream life their qualities that you currently lack is how you develop this version of yourself
-	- create your new self-concept:
-		- start with your vision, your dream life and then compare it to your life now 
-		- where are you holding yourself back?
-		- if you were dropped now into your dream life: where would you fail?
-		- ⤷ this will show you what qualities you need to develop in yourself in order to live that in order to reach those things and then write down one to three of these qualities that you need in order to a
+		- create your new self-concept:
+			- start with your vision, your dream life and then compare it to your life now 
+			- where are you holding yourself back?
+			- if you were dropped now into your dream life: where would you fail?
+			- ⤷ this will show you what qualities you need to develop in yourself in order to live that in order to reach those things and then write down one to three of these qualities that you need in order to achieve these goals
+				- consistency 
+				- discipline
+				- resilience
+			- whatever seems most important to you and your vision
+	- you want to ~={DeepSkyBlue}tap into=~ this ~={LawnGreen}subconscious feedback loop=~ and develop these qualities in yourself through affirmations and ~={LimeGreen}collecting positive experiences=~ 
+	- ⤷ repe
 ## my vision and my list of qualities that I want to develop to reach this vision
 
 
