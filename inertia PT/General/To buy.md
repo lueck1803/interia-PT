@@ -1,10 +1,10 @@
-- [ ] Tomaten
-	- [ ] Packung große gekauft da nur 3,5€/kg
-- [ ] stattdessen Avocado 🥑 
+- [x] Tomaten
+	- [x] Packung große gekauft da nur 3,5€/kg
+- [x] stattdessen Avocado 🥑 
 - [ ] Johannisbeermarmelade 
 - [ ] Hafermilch 
 - [ ] hummus
-- [ ] Bananen
+- [x] Bananen
 - [ ] grüne Erbsen 
 - [x] toast
 - [x] Rosmarin samen winterhart 
