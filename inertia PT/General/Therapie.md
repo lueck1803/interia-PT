@@ -19,6 +19,9 @@
 		- but ~={Crimson}not=~ impossible
 		- also ~={DeepSkyBlue}continuity=~ is important
 		- if you keep setting the same goals for yourself and repeatedly failing at them then that is to high 
+			- ⟹ you're hurting yourself by doing this, because you are creating all these bad experiences
+			- developing even more insecurities around it
+	- its ~={LawnGreen}perfectly fine=~ to ~={blue}start small=~ ⟹ start with the smallest possible step, for where you at now
 - Sachlich sein aber heißt : <span style="font-size:100%;color:limegreen;">Der Ichhaftigkeit des anderen niemals dienstbar sein.</span>
 - ~={Crimson}Don't=~ let your insecurities and fears make all your decisions
 - <u>Affirmations:</u>
@@ -2773,5 +2776,15 @@ A-->B-->C-->D-->A
 		- push the boat enough that it feels challenging
 		- but not impossible
 		- also ~={DeepSkyBlue}continuity=~ is important
+		- if you keep setting the same goals for yourself and repeatedly failing at them then that is to high 
+			- ⟹ you're hurting yourself by doing this, because you are creating all these bad experiences
+			- developing even more insecurities around it
+	- its ~={LawnGreen}perfectly fine=~ to ~={blue}start small=~ 
+		- ⟹ start with the smallest possible step, for where you at now 
+		- ⟹ path to change / the path to grow
+		- eventually realizing your full potential as a person
+		- no competition 
+		- no timeline 
+		- you can take one step at a time
 
 
