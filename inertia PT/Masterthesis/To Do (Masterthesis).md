@@ -308,6 +308,7 @@ $$, where $\zeta_{\mathcal{O}}$ is the critical exponent associated with the obs
 - [ ] evaluate binder for 28k particles with halfstddev and compare the plot with stdDev
 	
 # Box Algo
+ich frage mich, ob ich nicht, wenn ich die ~={yellow}kästchen kleiner=~ mache und mehr und ~={orange}mehr auf die peaks/pits=~ schiebe und den ~={LawnGreen}interfaces ausweiche=~, ob ich dann nicht den ~={DeepPink}fluktuationen ausweiche=~?
 - [ ] ich muss definitiv die peaks filtern um die mitte des größten peaks. das würde die ergebnisse definitiv verbessern
 - [ ] make an exception handling for the case if there are no dense/dilute boxes
 - [ ] put the box evaluation on the cluster and evaluate the data there
