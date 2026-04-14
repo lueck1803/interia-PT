@@ -10,8 +10,9 @@
 	- [x] aufhängen 
 - [x] bunt gestreiftes longsleeve, rechte achsel flicken 
 - [ ] spazieren
-- [ ] was ist das für ein Ordner "User" im vault?
-	- [ ] löschen 
+- [x] was ist das für ein Ordner "User" im vault?
+	- [x] löschen 
+	- War nur am Handy / vielleicht noch am mac?
 - [x] Wäsche zusammenlegen
 - [x] gelben Pulli flicken 
 - [ ] in vodafone konto einloggen
