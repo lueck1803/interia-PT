@@ -1,6 +1,8 @@
+- [ ] grüne Erbsen 
+- [ ] tomaten
+- [ ] Johannisbeermarmelade 
 - [x] toast
 - [x] hummus
-- [ ] grüne Erbsen 
 - [x] Rosmarin samen winterhart 
 - [x] Schmelzkäse 
 - [x] Backpapier
