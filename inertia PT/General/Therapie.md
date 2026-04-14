@@ -2857,5 +2857,6 @@ A-->B-->C-->D-->A
 		- you want to do it ~={Tomato}intentionally=~ ⟹ you are ~={MediumSpringGreen}feeding yourself=~ the ~={Gold}thoughts=~ ~={blue}that you want=~
 		- use these affirmations and  ~={Gold}say them out loud=~ ⟹ so that they become a part of your ~={LimeGreen}mantra=~ 
 		- This give you the ~={Gold}temporary mindset=~ ~={RedRed}to take action=~ 
+		- Place yourself into 
 
 
