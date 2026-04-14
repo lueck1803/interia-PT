@@ -206,7 +206,7 @@
           "className": "ftc-color-builtin-Gold"
         },
         {
-          "color": "#000000",
+          "color": "#ffff46",
           "id": "yellow",
           "keybind": "8",
           "italic": false,
@@ -230,7 +230,7 @@
             "state": "none",
             "index": 0
           },
-          "useCssColorVariable": true,
+          "useCssColorVariable": false,
           "colorVariable": "--color-yellow",
           "className": "ftc-color-builtin-yellow"
         },
