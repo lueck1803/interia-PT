@@ -14,6 +14,16 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+## 26-04-14
+### Lisa (Konrektorin )
+Hallo Lisa,
+
+ich hoffe ihr konntet euch in der zweiten Ferienwoche etwas erholen.
+Kamt ihr schon dazu mit Bahran/dem Schüler zu sprechen?
+Und wenn ja habt ihr eine Entscheidung getroffen ob ich wieder kommen darf/ noch eine Chance bekomme?
+
+Liebe Grüße 
+Lukas
 ## 26-04-07
 ### Flo
 ich hab mir die melodie vorgesummt/gesungen, um die Töne zu finden.
