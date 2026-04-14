@@ -1,4 +1,5 @@
 - [ ] Tomaten
+	- [ ] zu teuer stattdessen Avocado 🥑 
 - [ ] Johannisbeermarmelade 
 - [ ] Hafermilch 
 - [ ] hummus
