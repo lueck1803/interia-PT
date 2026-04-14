@@ -54,6 +54,7 @@ A-->B-->C-->D-->A
 		- ~={LightBlue}**most** of our thoughts run *automatically*=~ over and over, they become a habit, it's through this ~={purple}constant repetition=~ and that's exactly what you want to do as well, but ~={LawnGreen}in a positive way=~
 		- you want to do it ~={Tomato}intentionally=~ ⟹ you are ~={MediumSpringGreen}feeding yourself=~ the ~={Gold}thoughts=~ ~={blue}that you want=~
 		- use these affirmations and ~={Gold}say them out loud=~ ⟹ so that they become a part of your ~={LimeGreen}mantra=~
+		- This give you the ~={Gold}temporary mindset=~ ~={RedRed}to take action=~
 - Sachlich sein aber heißt : <span style="font-size:100%;color:limegreen;">Der Ichhaftigkeit des anderen niemals dienstbar sein.</span>
 - ~={Crimson}Don't=~ let your insecurities and fears make all your decisions
 - <u>Affirmations:</u>
@@ -2855,5 +2856,6 @@ A-->B-->C-->D-->A
 		- ~={LightBlue}**most** of our thoughts run *automatically*=~ over and over, they become a habit, it's through this ~={purple}constant repetition=~ and that's exactly what you want to do as well, but ~={LawnGreen}in a positive way=~
 		- you want to do it ~={Tomato}intentionally=~ ⟹ you are ~={MediumSpringGreen}feeding yourself=~ the ~={Gold}thoughts=~ ~={blue}that you want=~
 		- use these affirmations and  ~={Gold}say them out loud=~ ⟹ so that they become a part of your ~={LimeGreen}mantra=~ 
+		- This give you the ~={Gold}temporary mindset=~ ~={RedRed}to take action=~ 
 
 
