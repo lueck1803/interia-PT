@@ -1,5 +1,4 @@
 # fast notes
-~={RoyalBlue}test=~
 # Geschäftliche Nachrichten 
 Dear Spatial Business ~={Crimson}Integration=~ Team,
 
