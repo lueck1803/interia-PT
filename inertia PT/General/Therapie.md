@@ -2867,6 +2867,9 @@ A-->B-->C-->D-->A
 			- ⤷if you didn't have these things within you, that want to be integrated, that want to be developed in yourself, then it wouldn't resonate, you wouldn't care
 			- ⤷there is a part of you that wants that as well, by ~={LawnGreen}using that as inspiration=~ it can help you develop parts of your personality that maybe up until now ~={Crimson}you've neglected=~
 			- ⤷ There is some ~={LimeGreen}suppressed desire=~ within yourself that wants this and ~={red}if you don't let it out=~ then it's going to ~={Tomato}live in the back of your mind=~ and it's going to~={RedRed} make you resentful=~, it's going to make you ~={RedRed}self-sabotage=~ 
-			- ⤷ really try to pay attention to the
+			- ⤷ really try to pay attention to these kind of things 
+			- ⤷ create your dream life / your ~={LawnGreen}dream vision=~ ⟹ thinking of it as a dream allows you to create a vision that ~={green}isn't bound or restricted=~ by your current insecurities and limiting beliefs
+				- ⤷ it's your current fears and limiting beliefs that keep you in the life you're living right now!
+				- the person who lives this dream li
 
 
