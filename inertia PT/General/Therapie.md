@@ -2768,6 +2768,9 @@ A-->B-->C-->D-->A
 	- you ~={RedRed}don't=~ want to ~={yellow}set you up for failure=~! ~={RedRed}Don't=~ set a ~={orange}goal=~ that is ~={orange}too high=~! That you will likely fail
 		- creates ~={RedRed}negative=~ experiences
 		- this feeds in your ~={Crimson}limiting beliefs=~ and ~={red}insecurities=~ 
-	- 
+	- stretch your comfort zone, ~={green}growing=~ it ~={blue}like a muscle=~:
+		- push the boat enough that it feels challenging
+		- but not impossible
+		- also ~={DeepSkyBlue}continuity=~ is important
 
 
