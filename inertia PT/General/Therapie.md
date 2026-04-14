@@ -2866,6 +2866,7 @@ A-->B-->C-->D-->A
 		- C.G. Jung: "The qualities that you admire in other people indicate the untapped talents and potentials within yourself"
 			- ⤷if you didn't have these things within you, that want to be integrated, that want to be developed in yourself, then it wouldn't resonate, you wouldn't care
 			- ⤷there is a part of you that wants that as well, by ~={LawnGreen}using that as inspiration=~ it can help you develop parts of your personality that maybe up until now ~={Crimson}you've neglected=~
-			- 
+			- ⤷ There is some ~={LimeGreen}suppressed desire=~ within yourself that wants this and ~={red}if you don't let it out=~ then it's going to ~={Tomato}live in the back of your mind=~ and it's going to~={RedRed} make you resentful=~, it's going to make you ~={RedRed}self-sabotage=~ 
+			- ⤷ really try to pay attention to the
 
 
