@@ -55,6 +55,8 @@ A-->B-->C-->D-->A
 		- you want to do it ~={Tomato}intentionally=~ ⟹ you are ~={MediumSpringGreen}feeding yourself=~ the ~={Gold}thoughts=~ ~={blue}that you want=~
 		- use these affirmations and ~={Gold}say them out loud=~ ⟹ so that they become a part of your ~={LimeGreen}mantra=~
 		- This give you the ~={Gold}temporary mindset=~ ~={RedRed}to take action=~
+		- ⤷ this ~={RedRed}isn't about=~ ~={orange}changing=~ your personality
+		- ⤷ it's about ~={LimeGreen}developing=~ your personality
 - Sachlich sein aber heißt : <span style="font-size:100%;color:limegreen;">Der Ichhaftigkeit des anderen niemals dienstbar sein.</span>
 - ~={Crimson}Don't=~ let your insecurities and fears make all your decisions
 - <u>Affirmations:</u>
@@ -2857,6 +2859,10 @@ A-->B-->C-->D-->A
 		- you want to do it ~={Tomato}intentionally=~ ⟹ you are ~={MediumSpringGreen}feeding yourself=~ the ~={Gold}thoughts=~ ~={blue}that you want=~
 		- use these affirmations and  ~={Gold}say them out loud=~ ⟹ so that they become a part of your ~={LimeGreen}mantra=~ 
 		- This give you the ~={Gold}temporary mindset=~ ~={RedRed}to take action=~ 
-		- Place yourself into 
+		- <u>Example: </u>Place yourself into the mindset of a fictional character and almost pretend to be this character ⟹ encourage you to seek out those experiences that someone who has these qualities would do
+		- remember the feedback loop especially when you don't like yourself concept that you're currently stuck in.
+		- ⤷ this ~={RedRed}isn't about=~ ~={orange}changing=~ your personality
+		- ⤷ it's about ~={LimeGreen}developing=~ your personality
+		- C.G. Jung: ""
 
 
