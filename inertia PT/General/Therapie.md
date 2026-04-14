@@ -2889,7 +2889,15 @@ A-->B-->C-->D-->A
 				- resilience
 			- whatever seems most important to you and your vision
 	- you want to ~={DeepSkyBlue}tap into=~ this ~={LawnGreen}subconscious feedback loop=~ and develop these qualities in yourself through affirmations and ~={LimeGreen}collecting positive experiences=~ 
-	- ⤷ repe
+	- ⤷ repeat this again and again
+	- ⤷ over time this will feed back into the beliefs you have and into your self-concept
+	- ⤷ you then will be someone who is disciplined because they have all these experiences to prove it or someone who is resilient because the have overcome all these challenges 
+	- ⤷ it will be a part of who you are
+- Ask yourself ~={RedRed}honestly=~: ~={LawnGreen}What is your dream?=~
+	- all your fears and insecurities aside 
+	- if you gave this your all your absolute focus unwavering dedication 
+	- could you achieve this?
+	- ⤷
 ## my vision and my list of qualities that I want to develop to reach this vision
 
 
