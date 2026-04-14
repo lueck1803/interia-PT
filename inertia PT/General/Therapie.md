@@ -2732,6 +2732,8 @@ A-->B-->C-->D-->A
 	- push yourself enough that it's ~={LimeGreen}challenging=~ 
 	- but not so much that it ~={red}hurt's=~
 	- If you do this ~={MediumSpringGreen}over time=~, if you ~={RoyalBlue}continuously challenge=~ yourself 
-	- ~={Crimson}⤷=~ than your ~={ForestGreen}comfort zone will grow=~
+	- ~={ForestGreen}⤷=~ than your ~={ForestGreen}comfort zone will grow=~
+	- ~={LimeGreen}⤷=~ things will than ~={LimeGreen}fall into your comfort zone=~ that used to be outside of it
+	- ~={RedRed}⤷ =~things that used to ~={RedRed}seem impossible=~ you can actually do ~={red}with a bit of a push=~
 
 
