@@ -57,7 +57,7 @@ A-->B-->C-->D-->A
 		- This give you the ~={Gold}temporary mindset=~ ~={RedRed}to take action=~
 		- ⤷ this ~={RedRed}isn't about=~ ~={orange}changing=~ your personality
 		- ⤷ it's about ~={LimeGreen}developing=~ your personality
-		- C.G. Jung: "The qualities that you admire in other people indicate the untapped talents and potentials within yourself"
+		- <u>C.G. Jung:</u> "The qualities that you admire in other people indicate the untapped talents and potentials within yourself"
 			- ⤷if you didn't have these things within you, that want to be integrated, that want to be developed in yourself, then it wouldn't resonate, you wouldn't care
 			- ⤷there is a part of you that wants that as well, by ~={LawnGreen}using that as inspiration=~ it can help you develop parts of your personality that maybe up until now ~={Crimson}you've neglected=~
 			- ⤷ There is some ~={LimeGreen}suppressed desire=~ within yourself that wants this and ~={red}if you don't let it out=~ then it's going to ~={Tomato}live in the back of your mind=~ and it's going to~={RedRed} make you resentful=~, it's going to make you ~={RedRed}self-sabotage=~ 
@@ -65,6 +65,22 @@ A-->B-->C-->D-->A
 			- ⤷ create your dream life / your ~={LawnGreen}dream vision=~ ⟹ thinking of it as a dream allows you to create a vision that ~={green}isn't bound or restricted=~ by your current insecurities and limiting beliefs
 				- ⤷ it's your current fears and limiting beliefs that keep you in the life you're living right now!
 				- the person who lives this dream life their qualities that you currently lack is how you develop this version of yourself
+	- you want to ~={DeepSkyBlue}tap into=~ this ~={LawnGreen}subconscious feedback loop=~ and develop these qualities in yourself through affirmations and ~={LimeGreen}collecting positive experiences=~ 
+		- ⤷ repeat this again and again
+		- ⤷ over time this will feed back into the beliefs you have and into your self-concept
+		- ⤷ you then will be someone who is disciplined because they have all these experiences to prove it or someone who is resilient because the have overcome all these challenges 
+		- ⤷ it will be a part of who you are
+	- Ask yourself ~={RedRed}honestly=~: ~={LawnGreen}What is your dream?=~
+		- all your fears and insecurities aside 
+		- if you gave this your all your absolute focus unwavering dedication 
+		- could you achieve this?
+		- ⤷ probably! ~={RedRed}so why don't you?=~
+		- ⤷ that's where you will find the work you need to do
+	- Having a dream self-concept can help you ~={LimeGreen}develop=~ more into the person that will bring you closer to your unique potential in life who you are underneath that doesn't change. 
+	- ⤷ It still expressed through these facets of your personality which are all developed differently 
+		- if you are currently lacking in discipline and confidence then developing these qualities in yourself will only ~={DeepPink}bring you closer to=~ ~={LawnGreen}your true self=~ 
+		- because you won't be holding yourself back because of fears and insecurities
+	- you are not stuck as anyone self you can change at any time
 - Sachlich sein aber heißt : <span style="font-size:100%;color:limegreen;">Der Ichhaftigkeit des anderen niemals dienstbar sein.</span>
 - ~={Crimson}Don't=~ let your insecurities and fears make all your decisions
 - <u>Affirmations:</u>
@@ -2872,7 +2888,7 @@ A-->B-->C-->D-->A
 		- remember the feedback loop especially when you don't like yourself concept that you're currently stuck in.
 		- ⤷ this ~={RedRed}isn't about=~ ~={orange}changing=~ your personality
 		- ⤷ it's about ~={LimeGreen}developing=~ your personality
-		- C.G. Jung: "The qualities that you admire in other people indicate the untapped talents and potentials within yourself"
+		- <u>C.G. Jung: </u>"The qualities that you admire in other people indicate the untapped talents and potentials within yourself"
 			- ⤷if you didn't have these things within you, that want to be integrated, that want to be developed in yourself, then it wouldn't resonate, you wouldn't care
 			- ⤷there is a part of you that wants that as well, by ~={LawnGreen}using that as inspiration=~ it can help you develop parts of your personality that maybe up until now ~={Crimson}you've neglected=~
 			- ⤷ There is some ~={LimeGreen}suppressed desire=~ within yourself that wants this and ~={red}if you don't let it out=~ then it's going to ~={Tomato}live in the back of your mind=~ and it's going to~={RedRed} make you resentful=~, it's going to make you ~={RedRed}self-sabotage=~ 
@@ -2912,7 +2928,8 @@ A-->B-->C-->D-->A
 - Having a dream self-concept can help you ~={LimeGreen}develop=~ more into the person that will bring you closer to your unique potential in life who you are underneath that doesn't change. 
 - ⤷ It still expressed through these facets of your personality which are all developed differently 
 	- if you are currently lacking in discipline and confidence then developing these qualities in yourself will only ~={DeepPink}bring you closer to=~ ~={LawnGreen}your true self=~ 
-	- because you won't be holding yourself back because of fears and inse
+	- because you won't be holding yourself back because of fears and insecurities
+- you are not stuck as anyone self you can change at any time
 ## my vision and my list of qualities that I want to develop to reach this vision
 
 
