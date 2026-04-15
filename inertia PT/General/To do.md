@@ -1,5 +1,5 @@
 # unsortiert
-- [ ] Stunden eintragen
+- [x] Stunden eintragen
 - [ ] Spülmaschine 
 - [x] müll runter 
 - [ ] Lisa mank SMS schreiben
