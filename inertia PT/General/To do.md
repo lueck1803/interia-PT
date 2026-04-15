@@ -1,7 +1,7 @@
 # unsortiert
 - [ ] Stunden eintragen
 - [ ] Spülmaschine 
-- [ ] müll runter 
+- [x] müll runter 
 - [ ] Lisa mank SMS schreiben
 - [ ] ~={Crimson}Wie schaffe ich es immer aroused zu sein?=~
 - [x] ~={Crimson}Tisch aufräumen!=~
