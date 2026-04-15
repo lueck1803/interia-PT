@@ -1,7 +1,34 @@
 # fast notes
 # Geschäftliche Nachrichten 
 
-## 
+## Christian-Morgenstern-Schule
+Liebes Team der Christian-Morgenstern-Schule,
+
+ich war heute nach meinem Einsatz an der Bernhard-Adelung-Schule bei Ihnen, um nach einer Einstellung als VSS Kraft zu fragen. 
+
+Dabei hatte ich ein kurzes Gespräch mit der Konrektorin Frau Behrenroth, die mir dazu riet eine E-Mail zu schreiben, um ein Gesprächstermin auszumachen.
+
+Zu mir und meinem Anliegen:
+
+Ich heiße Lukas Walter und schreibe zur Zeit meine Masterarbeit in Physik am Institut der kondensierten Materie.
+
+Ich habe bereits von Januar '24 bis Januar '25 an der Justus-Liebig Schule als VSS Kraft gearbeitet und dabei viele wertvolle Erfahrungen gesammelt.
+
+An der Universität habe ich viele Jahre als Übungsleiter für Mathematik und Physik Lehrveranstaltungen für verschiedenste Fachbereiche und als Experimentbetreuer im Grundpraktikum der Physik gelehrt.  
+Ich habe zu Beginn Lehramt an Gymnasium mit den Fächern Mathematik und Physik studiert, bis ich zum Bachelor/Master Studiengang Physik gewechselt bin. 
+
+Nachdem ich im letzten Jahr bis Februar diesen Jahres in der IT gearbeitet habe, bin ich seit Anfang März wieder als Vertretungskraft aktiv, da sich bei mir das Bewusstsein gefestigt hat, dass ich im Bereich der Kinder- und Jugendpädagogik meine Stärken und meine Persönlichkeit sehr gut entfalten und am wirksamsten einsetzen kann.  
+Momentan bin ich vorwiegend an der Bernhard-Adelung-Schule (BAS) eingesetzt. 
+
+In meiner Jugend war ich in der katholischen Gemeinde, sowie in Schauspielvereinen meines Geburtsorts sehr aktiv, habe dort Gruppenleiterkurse belegt und war als Obermessdiener, Ferien- und Zeltlagerbetreuer in der Kinder- und Jugendbetreuung eingebunden.  
+  
+In meiner Freizeit bin ich seit 2022 im Chor der Mathematik Fachschaft aktiv, beteilige mich an den Musikabenden der Fachschaft Physik  und Mathematik und musiziere an verschiedensten Instrumenten mit Freunden in verschiedensten Musik Genres.
+
+Ich würde mich daher freuen, mit Ihnen ins Gespräch zu kommen, ob und wie ich Sie im Rahmen der verlässlichen Schule unterstützen kann.
+
+Freundliche Grüße
+
+Lukas Walter
 
 ## ernst-elias-niebergall-Schule
 Liebes Team der Ernst-Elias-Niebergall-Schule,
