@@ -2,6 +2,7 @@
 - [ ] Stunden eintragen
 - [ ] Spülmaschine 
 - [ ] müll runter 
+- [ ] Lisa mank SMS schreieb
 - [ ] ~={Crimson}Wie schaffe ich es immer aroused zu sein?=~
 - [x] ~={Crimson}Tisch aufräumen!=~
 - [x] Wasserkocher entkalken 
