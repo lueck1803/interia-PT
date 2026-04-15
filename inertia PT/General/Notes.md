@@ -15,6 +15,68 @@ Kind regards
 Lukas Walter 
 # Nachrichten an Leute
 ## 26-04-15 
+Ich wollte noch etwas ergänzen zum Unterricht mit der 5c.
+
+Glordi war diesmal ja nicht da, daher bin ich gespannt wie es nächstes Mal wird.
+
+Ich hab mal die Gelegenheit genutzt mit einem Teil der Klasse zu sprechen.
+
+Warum es denn beim letzten Mal so extrem eskaliert ist.
+
+Die waren dann wirklich sehr ruhig und handzahm.
+
+Es wurde später dann zwar mal etwas unruhiger, aber es war wenigstens eine Basis da. 
+
+Ich habe den Jungs zu gehört, die haben sich gegenseitig zur Ruhe ermahnt und sich ausreden lassen. 
+
+Sie meinten dass ich beim ersten Mal bei einer Kleinigkeit - während der Klasse in die Luft treten - direkt zum Schulleiter gegangen bin. (Natürlich war das nicht der einzige Grund, aber ich hab dafür Verständnis)
+ 
+Ich habe so heraus gehört dass es insgesamt um das Maß der Sanktionen geht und der Klasse das Verständnis dafür fehlt, was sanktionswürdiges Verhalten ist.
+
+Das Gefühl unfair behandelt zu werden, baut sich zu einem Klassenklima auf. Die Klasse hat einen wirklich guten Zusammenhalt. Was es dadurch so extrem schwer macht, wenn sich dieses Gefühl im Klassenkollektiv über die Zeit anstaut bzw. aufaddiert.
+
+Sie haben mir unteranderem erzählt dass wohl das Problem bei Glordi sei, dass er am meisten ermahnt wird, es aber nicht immer er ist der laut ist und andere auch etwas machen.(Geht ihm bei allen anderen Lehrern auch so)
+
+Ich habe dazu entgegent, dass ich ihm bereits gesagt habe, dass es nie gegegen ihn persönlich geht, er alles immer sofort persönlich nimmt und leider auch mit am auffälligsten ist, was das Verhalten angeht, da er sobald man sich gerade herum gedreht hat und schon wieder irgendwo anders im Raum ist.
+
+Es ist offenbar auch ein Eindruck von ihm, dass er glaubt immer als einziges ermahnt zu werden.
+
+Dabei habe ich beim letzten Mal an allen Ecken zu kämpfen gehabt. Und ich habe andere genauso häufig ermahnt.
+
+Vielleicht kann es sinnvoll sein, ihn gezielt weniger zu ermahnen, auch wenn er gerade in dem Moment wieder auffällig ist. 
+Das schaukelt sich bei ihm hoch und er hat das Gefühl ausgeliefert zu sein und keinen Spielraum zu haben etwas verändern, da es ihn eh immer trifft.
+Ich denke dass er da wirklich nicht so viel für kann, dass er so extrem unruhig ist. 
+Als ich ihn das erste Mal hatte, ist es deutlich geworden, dass er da selbst darunter leidet.
+
+Ich werde daher, falls er beim nächsten Mal da sein sollte nochmal mit ihm Einzeln sprechen.
+
+Ich hatte zwar schon beim ersten Mal als ich die Klasse hatte, ihm versucht klar zu machen dass es nichts persönliches gegen ihn ist und er einfach darauf achten soll, was er tut. Er fühlt sich sehr schnell unfair behandelt.
+Mir scheint, genau das der Punkt zu sein bei dem man ihn bekommen kann. 
+Dass es eben nicht darum geht dass sich alle gegen ihn verschworen haben und er lernt momentane Ermahnungen von seiner Person zu trennen.
+
+Die Klasse hat im allgemeinen einen sehr großen Bewegungsdrang und große innere Unruhe.
+
+Vielleicht lässt sich auch etwas tun, wenn man der Klasse in der Mitte der Doppelstunde 15min gibt, sich mal zu bewegen /sich auszutoben, um damit ihre innere Unruhe herauszulassen.
+
+Beim nächsten Mal haben sie gesagt dass sie sich noch etwas besser verhalten werden.
+
+Ich bin mal gespannt 😅.
+Ich werde es erst glauben, wenn ich es sehe. 
+
+Mir scheint es aber momentan das bessere Mittel zu sein, auf sie zu zu gehen, sie ernst zu nehmen, als mit Sanktionen zu kommen.
+
+Sanktionen scheinen die Kinder eher mehr anzustacheln. Sie haben zumindest auch das als deren Problem mit Frau Ruthemayer aufgezeigt.
+
+Vielleicht findet sich da ein Mittelweg.
+
+Ich stehe jedenfalls mit Frau Ruthemayer im guten Austausch.
+Wir versuchen uns beim nächsten Mal noch etwas mehr und besser abzustimmen.
+
+Ich werde ihr dann auch davon berichten, was ich mit "meinem Teil" der Klasse eruiert habe. 
+
+Ich denke es ist möglich in kleinen Schritten eine gewisse Klassenordnung und Disziplin aufzubauen.
+
+Der Klassenzusammenhalt kann da jedenfalls ein Angriffspunkt sein.
 ## 26-04-14
 ### Lisa (Konrektorin )
 Hallo Lisa,
