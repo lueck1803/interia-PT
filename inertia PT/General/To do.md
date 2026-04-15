@@ -7,7 +7,7 @@
 	- [ ] den Namen der Frau habe ich wieder vergessen mit der ich gesprochen habe
 - [ ] ernst niedergall Schule
 	- [ ] heute pädagogischer Tag
-	- [ ] 
+	- [ ] Frau mai auch eine m
 - [x] Pflanzen gießen 
 - [x] in den aldi
 - [x] Vokabeln ab Seite 26 eintragen 
