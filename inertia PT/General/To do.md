@@ -1,14 +1,17 @@
 # unsortiert
+- [ ] Stunden eintragen
+- [ ] Spülmaschine 
+- [ ] müll runter 
 - [ ] ~={Crimson}Wie schaffe ich es immer aroused zu sein?=~
 - [x] ~={Crimson}Tisch aufräumen!=~
 - [x] Wasserkocher entkalken 
 - [ ] Email an Christian Morgenstern Schule schreiben 
-	- [ ] war dort mir wurde gesagt ich soll eine Email schreiben
-	- [ ] den Namen der Frau habe ich wieder vergessen mit der ich gesprochen habe
+	- war dort mir wurde gesagt ich soll eine Email schreiben
+	- den Namen der Frau habe ich wieder vergessen mit der ich gesprochen habe
 - [ ] ernst niedergall Schule
-	- [ ] heute pädagogischer Tag
-	- [ ] Frau mai auch eine Mail schreiben 
-- [x] Pflanzen gießen 
+	- heute pädagogischer Tag
+	- Frau mai auch eine Mail schreiben 
+- [ ] Pflanzen gießen 
 - [x] in den aldi
 - [x] Vokabeln ab Seite 26 eintragen 
 - [x] Tisch absenken 
@@ -27,7 +30,7 @@
 - [ ] in vodafone konto einloggen
 - [x] Reifen aufpumpen
 - [x] Einkaufswagen wegbringen
-- [x] staubsaugen
+- [ ] staubsaugen
 - [ ] Küche wischen
 - [x] Tastatur wischen
 - [x] Gitarre wischen
@@ -43,8 +46,6 @@
 	- [ ] erst versuchen teile anzuschleifen
 - [x] Essen wegräumen
 - [x] rasieren
-- [x] Aldi
-- [x] Staubsaugen
 - [x] Aldi neben an checken wegen
 	- [x] pesto
 	- [ ] Erbsen 
@@ -73,7 +74,6 @@
 	- [ ] Dann wegen den Stunden Seit 20.2. Da ich keinen Zugriff mehr auf Toggle hatte.
 - [ ] Waschbecken Küche 
 - [x] Gitarre putzen 
-- [x] müll runter 
 - [x] Küche aufräumen
 - [x] Esstisch wischen 
 - [x] wischen 
@@ -102,7 +102,6 @@
 	- [ ] ~={red}wie bringe ich Physik mit einfachen Mitteln bei=~
 	- [ ] ~={Tomato}wie bringe ich Ordnung in mein Tafelbild=~
 	- [ ] ~={Crimson}Ordnung in meine Gedanken und Worte bringen, weniger ist mehr=~ 
-- [x] Stunden eintragen
 - [x] Bericht 
 	- [x] deu 6a
 	- [x] phy
@@ -113,7 +112,6 @@
 	- [x] ~={red}war ja schon zurück gebucht... Am 17.3=~
 - [ ] Masterarbeit
 - [x] Wäsche aufhängen
-- [x] Spülmaschine 
 - [x] Bettwäsche wechseln 
 - [ ] Notizen zu "deine ~={ForestGreen}Gedanken=~ lügen" ab 2:05:47
 - [x] ~={purple}swamphell=~ üben 
