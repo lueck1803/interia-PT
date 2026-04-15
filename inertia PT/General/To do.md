@@ -6,10 +6,10 @@
 - [ ] ~={Crimson}Wie schaffe ich es immer aroused zu sein?=~
 - [x] ~={Crimson}Tisch aufräumen!=~
 - [x] Wasserkocher entkalken 
-- [ ] Email an Christian Morgenstern Schule schreiben 
+- [x] Email an Christian Morgenstern Schule schreiben 
 	- war dort mir wurde gesagt ich soll eine Email schreiben
 	- den Namen der Frau habe ich wieder vergessen mit der ich gesprochen habe
-- [ ] ernst niedergall Schule
+- [x] Email an ernst niebergall Schule
 	- heute pädagogischer Tag
 	- Frau mai auch eine Mail schreiben 
 - [ ] Pflanzen gießen 
