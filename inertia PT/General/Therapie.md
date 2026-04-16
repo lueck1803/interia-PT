@@ -962,7 +962,7 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 	- ~={Gold}things will get much easier=~ and we ~={red}won't=~ exhaust ourselves so much
 - ⤷ <u>this means: </u>
 	- working ~={LawnGreen}smart=~ instead of working ~={RedRed}hard=~ 
-	- by ~={blue}setting=~ our ~={blue}sails correctly=~ and navigating 
+	- by ~={blue}setting=~ our ~={blue}sails correctly=~ and ~={DeepSkyBlue}navigating diligently=~
 	- 
 ## Meditation
 - ich liebe <span style="color:hotpink">Meditation</span> 
