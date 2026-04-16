@@ -2572,6 +2572,13 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 		- ja hatte ich, definitiv
 		- mein problem war allerdings, dass ich so viele ~={Crimson}Muss=~ und ~={Crimson}ich kann nicht=~ und ich brauche das, um gut genug zu sein, aber eigentlich kann ich das eh nicht
 	- weil wenn der inhalt dich halbwegs interessiert, dann wird wirst du schneller arbeiten, dann wird dir das ganze mehr spaß machen und dann wird die qualität höher, weil du gewissenhafter an die sache heran gehst.
-	- gut ich hab mich nach all den glaubenssätzen einfach nicht bereit dafür gefühlt
-	- und den ganzen sozialen issues
-	- 
+		- gut ich hab mich nach all den glaubenssätzen einfach nicht bereit dafür gefühlt
+		- und den ganzen sozialen issues
+	- und ja was ist dann wenn es ~={orange}dazu wenig Literatur gibt?=~
+		- ⤷ wunderbar
+		- dann kannst du die einleitung schreiben, was das für ein wichtiges forschungsuntefangen ist und das man hier neue wissenschaftliche gebiete erschließt und das hier dringender forschungsbedarf besteht
+		- ⤷ klasse, dann ist deine Arbeit ja noch origineller
+		- es ist daher ~={yellow}völlig egal, wie viel literatur=~ es zu dem thema gibt
+		- ⤷ ist sogar interessanter wenn es wenig literatur gibt
+			- macht nicht nur spaß
+			- sach
