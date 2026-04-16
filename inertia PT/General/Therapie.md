@@ -976,7 +976,9 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 	- it's actually ~={Orchid}necessary to overstimulate=~ the muscles
 	- ⤷ By breaking down the muscles during a lifting session using ~={Crimson}progressive=~ ~={Gold}overload=~ they'll come back ~={LawnGreen}=~ ~={Crimson}overtime=~.
 	- ⤷ One ~={LawnGreen}necessary ingredient=~ when it comes to this process that many beginning lifters tend to overlook, which is ~={LawnGreen}rest=~.
-	- When we repeatedly ~={Crimson}overburden=~ the muscles, we will eventually be unable to continue our training, as they don't get enough time to heal 
+	- When we repeatedly ~={Crimson}overburden=~ the muscles, we will eventually be ~={orange}unable to continue our training=~, as they don't get enough ~={DeepSkyBlue}time to heal=~. 
+	- Even though our intention was making ourselves stronger, we have actually become weaker, ~={RedRed}chronic exhaustion=~ leads to a ~={DeepPink}lower immune system=~ and also makes us more ~={red}prone to depression=~
+- ~={gray}Why do people do this?=~
 
 ## Meditation
 - ich liebe <span style="color:hotpink">Meditation</span> 

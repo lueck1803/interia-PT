@@ -726,6 +726,35 @@
           "useCssColorVariable": false,
           "colorVariable": "--color-base-00",
           "className": "ftc-color-builtin-underline"
+        },
+        {
+          "color": "#a9a9a9",
+          "id": "gray",
+          "keybind": "",
+          "italic": false,
+          "bold": false,
+          "cap_mode": {
+            "states": [
+              "normal",
+              "all_caps",
+              "small_caps"
+            ],
+            "state": "normal",
+            "index": 0
+          },
+          "line_mode": {
+            "states": [
+              "none",
+              "underline",
+              "overline",
+              "line-through"
+            ],
+            "state": "none",
+            "index": 0
+          },
+          "useCssColorVariable": false,
+          "colorVariable": "--color-base-00",
+          "className": "ftc-color-builtin-gray"
         }
       ],
       "name": "builtin"
@@ -942,7 +971,7 @@
   "themeIndex": 0,
   "version": "3",
   "interactiveDelimiters": true,
-  "useKeybindings": false,
+  "useKeybindings": true,
   "useNodeRebuilding": false,
   "colorCodeSection": true
 }
