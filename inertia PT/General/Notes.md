@@ -2546,3 +2546,53 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 - ich weiß auch gar nicht mehr ob ich wirklich ADHS habe. Dass ich so extrem durch bin, war früher nicht so. Das ist ne Traumafolgestörung 
 - ich habe immer viel zu große Schritte gemacht und mich dann zu zu viel gezwungen und durch den druck bin ich immer wieder gescheitert, statt die dosis klein und langsam zu erhöhen
 - ich hab mich zu sehr gezwungen und druck gemacht ohne selbst daran zu glauben, aufgrund meiner Erfahrungen die ich gemacht habe. ich habe meine Erfahrungen zu meinen Glaubenssätzen gemacht
+
+# Wissenschaftliche Abschlussarbeiten in kurzer Zeit schreiben
+
+- 1,5h arbeiten 
+- 1,5h Pause machen
+- so ~={Crimson}wenig zeit vor dem Bildschirm wie möglich=~
+- vor dem Bildschirm so wenig rum eieren wie möglich
+- auf garkeinen Fall den Rechner hochfahren und ~={Tomato}mal so ein bisschen herum recherchieren=~ ⟹ schlechteste Idee die man haben kann
+	- ~={RedRed}⤷=~ vom hundertsten ins tausendste kommen
+	- nach einer Forschungsfrage in der Literatur zu suchen ~={red}nimmt kein Ende=~
+	- es gibt endlos mögliche Forschungsfragen
+- woher soll ich denn wissen, ob es zu einem bestimmten Thema literatur gibt?
+	- wird von ghostwritern empfohlen: nimm ein Thema zu dem schon sehr viel geschrieben wurde ⟹ ist bei mir aber obsolet 
+	- ⤷ keine gute empfehlung/kein freund von
+		- ⟹ ist bei mir aber eh obsolet, denn das Thema hab ich und die Arbeit habe ich schon gemacht
+		- wenn das eine vernünftige und ein originelle Arbeit sein soll
+		- die Kunst ist es in sehr kurzer Zeit eine ~={LawnGreen}argumentativ möglichst saubere Arbeit=~ abzuliefern, die dann ~={MediumSpringGreen}auch noch originell=~ ist.
+- ~={Gold}Wie macht man das?=~
+	- in dem man eine Forschungsfrage stellt (sollte die oberste Priorität sein), die dich interessiert
+		- auch zu spät ....
+	- nicht wo gibts literatur für, das und jenes, sondern was interessiert dich
+	- welche forschungsfrage wird dazu führen, dass dir diese Arbeit am wenigsten auf die nerven geht?
+	- das du dir halbwegs vorstellen kannst, dass dich der Inhalt dieser Arbeit wirklich interessiert
+		- ja hatte ich, definitiv
+		- mein problem war allerdings, dass ich so viele ~={Crimson}Muss=~ und ~={Crimson}ich kann nicht=~ und ich brauche das, um gut genug zu sein, aber eigentlich kann ich das eh nicht
+	- weil wenn der inhalt dich halbwegs interessiert, dann wird wirst du schneller arbeiten, dann wird dir das ganze mehr spaß machen und dann wird die qualität höher, weil du gewissenhafter an die sache heran gehst.
+		- gut ich hab mich nach all den glaubenssätzen einfach nicht bereit dafür gefühlt
+		- und den ganzen sozialen issues
+	- und ja was ist dann wenn es ~={orange}dazu wenig Literatur gibt?=~
+		- ⤷ wunderbar
+		- dann kannst du die einleitung schreiben, was das für ein wichtiges forschungsuntefangen ist und das man hier neue wissenschaftliche gebiete erschließt und das hier dringender forschungsbedarf besteht
+		- ⤷ klasse, dann ist deine Arbeit ja noch origineller
+		- es ist daher ~={yellow}völlig egal, wie viel literatur=~ es zu dem thema gibt
+		- ⤷ ist sogar interessanter wenn es wenig literatur gibt
+			- macht nicht nur spaß
+			- schafft auch platz
+			- gibt dir mehr dinge zu schreiben
+			- weil du kannst Dinge pro und kontra argumentieren
+			- du musst selber nachdenken
+	- Wenn das ein Thema ist, was dich interessiert, dann fällt dir das super leicht, zumindest fällt es dir dann leichtER
+- so ~={Gold}wenig zeit wie möglich vor dem Rechner=~ verbringen
+	- bevor man den computer auch nur hochfährt / die tastatur betätige
+	- kennt man die Forschungsfrage
+	- vorher konstruieren, beim spazieren, wäsche aufhängen und andere dinge tun
+	- Dabei die Gliederung schon erstellt
+	- ⤷ man muss eben nur wissen, wie man an die Sache heran geht
+		- und das weiß ich eigentlich auch.
+		- ich habe es ja bei der schwerpunktsprüfung geschafft
+		- mein problem war und ist meine emotionale situation
+	- 

@@ -2931,5 +2931,63 @@ A-->B-->C-->D-->A
 	- because you won't be holding yourself back because of fears and insecurities
 - you are not stuck as anyone self you can change at any time
 ## my vision and my list of qualities that I want to develop to reach this vision
+- ich will ruhig und besonnen sein
+- ich will erfolgreich sein
+- ich möchte meine Abschlussarbeit schaffen
+- ich möchte eine Familie gründen
+- ich möchte wertschätzung in meiner Arbeit haben
+- ich möchte sozial eingebunden sein
+- ich möchte meine zeit zu 95% sinnvoll nutzen
+- ich möchte mich nicht mehr fertig machen
+- ich möchte nicht mehr gammeln und herum eiern
+- ich möchte mich klar und präzise ausdrücken
+- ich möchte mich nicht mehr ablenken
+- im hier und jetzt sein
+- ich möchte gut schlafen können
+- ich möchte sportlich sein
+- ich möchte tolle zeit mit tollen menschen verbringen
+- menschen die mich mögen und lieben
+- ich möchte lieben
+- ich möchte keine verwirrten gedanken haben
+- sondern ganz klar wissen was ich will und dem hinterher sein
+- ich möchte gut zu mir sein und auf meinen körper achten
+- ich möchte meine Gefühle und Gedanken im Griff haben
+- ich möchte möglichst viel Zeit draußen in der Natur und unter Leuten verbringen und nicht vor dem Rechner und in der Bude
+- ich bin es wert und bin wertvoll
+- ich habe gutes Essen, sauberes Wasser, gute frische Luft, angenehme Temperaturen, ein sauberes Umfeld, gute und passende Kleidung, liebende Menschen und Körperpflege (rechtzeitig auf Toilette gehen, zähne putzen, rasieren und Duschen) verdient
+- ich will gut aussehen gepflegte haare und eine gepflegte und gesunde haut
+- ich will mein Leben und meine Aufgaben im griff haben
+- ich will mich klar und deutlich ausdrücken können
+- ich möchte keine Wortfindungsstörungen mehr haben
+- ich möchte gut Englisch, Französisch und Türkisch sprechen können
+- ich will mich klar und prägnant ausdrücken können
+- ich will nichts mehr aufschieben
+- ~={ForestGreen}Wie schaffe ich das?=~
+	- Meditation
+	- Bewegung
+	- Ohrenstöpsel
+	- keinen unnötigen Medienkonsum, ich verpasse nichts und vermisse nichts, denn das ist Zeitverschwendung
+	- mich in den ~={LawnGreen}aroused state=~ bringen
+		- ~={red}Angst=~ offenbar brauche ich das
+		- Bewegung
+- ~={RedRed}Was steht mir im Wege?=~
+	- meine emotionale situation
+	- mein Durcheinander im kopf
+	- meine Ablenkungen
+	- die mentale Paralyse
+	- meine Exekutivfunktionen
+	- mein fehlender Schlaf
+	- nicht ausreichend auf meinen Körper und meine Bedürfnisse hören
+	- meine Ängste
+	- mein mentales abdriften und doom scrollen
+	- meine negativen Glaubenssätze und habits
+	- zu leichtes Absacken und versacken, wenn ich "Pausen mache", ich mache keine echten Pausen, sondern mentale Fluchten und Zerstreuung, statt voll im hier und jetzt zu sein und meinem Kopf und Körper wirklich Pause, Ordnung und Heilung zu geben
+	- Ich schaffe es nicht in einem gesunden ~={RedRed}aroused=~ state zu sein, entweder zu viel oder zu wenig
+- dabei habe ich das in Vergangenheit schon sehr sehr gut geschafft! 
+	- Siehe Schwerpunktsprüfung.
+	- Das ging aber auch nur durch Angst und Druck und sehr viel selbst Geiselung
+	- danach bin ich wieder in ein krasses emotionales Loch gefallen
+- ⤷ ich vermisse Arooj, sie hat mir schon wirklich sehr gut getan und sehr gut zu mir gepasst, ich habe leider nur nicht auf sie hören können
+	
 
 
