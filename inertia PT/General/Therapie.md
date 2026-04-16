@@ -959,8 +959,8 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 - when we ~={RedRed}finally=~ ~={LawnGreen}give in=~ and ~={MediumSpringGreen}accept=~ that forcing our way up simply cannot be done:
 	- we ~={LawnGreen}let go=~ and ~={MediumSpringGreen}start to flow along=~ 
 	- when we find some how a way to ~={LawnGreen}work with the nature=~ ~={red}instead of against it=~ 
-	- things will get much easier and we won't exhaust ours3lway that much
-- working smart instead of working hard
+	- ~={Gold}things will get much easier=~ and we ~={red}won't=~ exhaust ourselves so much
+- ⤷ <u>this means: </u>working ~={LawnGreen}smart=~ instead of working ~={RedRed}hard=~ 
 ## Meditation
 - ich liebe <span style="color:hotpink">Meditation</span> 
 ### Erkenntnisse
