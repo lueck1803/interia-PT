@@ -1,6 +1,8 @@
 # unsortiert
 - [x] Stunden eintragen
 - [ ] Spülmaschine 
+- [ ] Vorderrad Bremse
+- [ ] Klingel 
 - [x] müll runter 
 - [ ] Lisa mank SMS schreiben
 - [ ] ~={Crimson}Wie schaffe ich es immer aroused zu sein?=~
