@@ -1041,7 +1041,14 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 - The main ~={Gold}reason=~ for this seems to be ~={RedRed}fear=~:
 	- ⟹ The fear ~={red}not having all this stuff=~
 	- ⤷ ~={RedRed}diminishes=~ ~={LightBlue}who they are=~
-	- It's an ego thing ⟹ having more means 
+	- It's an ~={RedRed}ego thing=~ ⟹ having more means: ~={RedRed}I am more=~.
+	- We also fear that we won't ~={yellow}have enough=~ ~={Orchid}in the future=~.
+	- ~={RedRed}⤷=~ the ~={Orchid}future=~ is ~={RedRed}uncertain=~ 
+		- ⟹ we can ~={RedRed}die=~ tomorrow 
+		- ⟹ everything we own can be ~={RedRed}taken away=~ from us in an instant.
+		- 
+"*Whoever knows ~={LawnGreen}contentment=~ will be at ~={DeepSkyBlue}peace forever=~*"
+- ⤷ But we can only know when we have enough if we realize that the value we attribute to external things is based on delusion.
 
 ## Meditation
 - ich liebe <span style="color:hotpink">Meditation</span> 
