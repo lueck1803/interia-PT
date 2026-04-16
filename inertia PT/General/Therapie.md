@@ -945,6 +945,7 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 - but no matter what we do, there are always natural laws that we must take into account 
 - lao tzu observed that nature has it's own ways of doing things 
 - living in this world we see that nature manifests itself in a certain order
+	- some
 - working smart instead of working hard
 ## Meditation
 - ich liebe <span style="color:hotpink">Meditation</span> 
