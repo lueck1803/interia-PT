@@ -2962,7 +2962,9 @@ A-->B-->C-->D-->A
 - ich möchte gut Englisch, Französisch und Türkisch sprechen können
 - ich will mich klar und prägnant ausdrücken können
 - ich will nichts mehr aufschieben
-- ich 
+- ich mache mich nicht mehr fertig und stresse mich, wenn mein Kopf hängt und mir Worte nicht ein fallen. Ich beruhige mich dann, atme tief ein und aus und fokussiere mich auf das Wesentliche und nur eine Sache 
+- ich kann alles schaffen
+
 - ~={ForestGreen}Wie schaffe ich das?=~
 	- Meditation
 	- Bewegung
@@ -2989,6 +2991,16 @@ A-->B-->C-->D-->A
 	- Das ging aber auch nur durch Angst und Druck und sehr viel selbst Geiselung
 	- danach bin ich wieder in ein krasses emotionales Loch gefallen
 - ⤷ ich vermisse Arooj, sie hat mir schon wirklich sehr gut getan und sehr gut zu mir gepasst, ich habe leider nur nicht auf sie hören können
+	- das ist vollkommen okay, aber ich akzeptiere die Situation wie sie ist
+	- entweder werde ich sie bald wieder treffen und wir können dann reden und sie kommt auf mich zu. 
+		- Irgendwann wird das eh passieren 
+		- und wenn es passiert, unter welchen Umständen auch immer, dann will und werde ich ganz bei mir sein
+		- das wäre natürlich schön und vielleicht können wir uns dann ja aussprechen 
+	- oder aber ich finde jemanden anderes
+	- momentan ist das aber unwichtig 
+	- ich brauche keinen anderen Menschen, ich muss auf eigenen Beinen stehen und das kann ich auch. 
+	- ganz egal was passiert, ob mit oder ohne Arooj 
+	- 
 	
 
 
