@@ -954,7 +954,8 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 	- ⤷ all is bound to the ~={pink}natural laws we cannot control =~
 - if we force things we put ourselves into a position in which the ~={Orchid}universe starts to work against us=~
 	- this happens when we swim against the stream 
-	- ⤷ what we can do for a while but we wouldn't last long 
+	- ⤷ what we ~={yellow}can do for a while=~ but we ~={Orchid}wouldn't last long =~
+	- 
 - working smart instead of working hard
 ## Meditation
 - ich liebe <span style="color:hotpink">Meditation</span> 
