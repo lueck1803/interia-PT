@@ -2549,4 +2549,9 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 
 # Wissenschaftliche Abschlussarbeiten in kurzer Zeit schreiben
 
+- 1,5h arbeiten 
+- 1,5h Pause machen
+- so wenig zeit vor dem Bildschirm wie möglich
+- vor dem Bildschirm so wenig rum eieren wie möglich
+- auf garkeinen Fall den Rechner hochfahren und mal so ein bisschen herum recherchieren ⟹ schlechteste Idee die man haben kann
 - 

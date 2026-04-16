@@ -137,6 +137,12 @@ $$
 
 # Thesis
 
+## tasks
+1. video zu wissenschaftliche Abschlussarbeiten schauen
+2. Verlauf von vorherige Arbeiten zur Idee von meinem algo
+3. -> mein Algo
+4. mei
+
 ## to do
 - [ ] ~={Magenta}explain the meaning of the binder cumulant as the deviation of the gaussian shape=~
 - [ ] liste die paper bzgl. der universality class auf <span style="font-size:100%;color: limegreen;">einiges in Dittrich aufgelistet</span>
