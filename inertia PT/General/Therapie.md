@@ -1035,6 +1035,8 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 - ⤷ But~={MediumTurquoise} when we always aim for getting more don't we forget to live?=~
 - Our ~={orange}needs=~ come with ~={DeepSkyBlue}natural limits=~.
 - We ~={Crimson}only=~ need ~={DeepSkyBlue}enough food=~ to stay energized during the day, and we ~={Crimson}only=~ need ~={DeepSkyBlue}enough water=~ to stay hydrated.
+- ~={RedRed}Too much is harmful=~
+- Taoist sage Zhuangzi invigorates 
 
 ## Meditation
 - ich liebe <span style="color:hotpink">Meditation</span> 
