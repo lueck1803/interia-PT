@@ -942,7 +942,7 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 - live more effortlessly with less stress and anxiety 
 - live a rich life, enjoy it to the fullest with minimum interference of the natural course 
 ### 1) Don't force anything 
-- *The master does ~={Gold}not force virtue=~ ~={red}on others=~, thus she is able to accomplish her task. The ordinary person who uses force, will find that they accomplish nothing.* 
+- *The master does ~={Gold}not force virtue=~ ~={red}on others=~, thus ~={LawnGreen}she is able to accomplish=~ her task. The ordinary person ~={red}who uses force=~, will find that they ~={red}accomplish nothing=~.* 
 - when we force we go against the natural flow of things, which most likely gets us in trouble.
 - often times a fallacy we make is thinking we can force the unenforceable, believing that when we will push hard enough, we'll get where we want to go
 - for ~={LimeGreen}some things=~ pushing hard consistently indeed leads to results 
@@ -970,6 +970,11 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 	- ⤷ so that the ~={LawnGreen}wind=~ of the universe ~={green}keeps pushing ourselves forward=~ 
 ### 2) Don't over burden yourself 
 - *Those who~={yellow} stand on tiptoes=~ do ~={orange}not stand firmly=~. Those who ~={yellow}rush ahead=~ ~={orange}don't get very far=~. Those who ~={yellow}try to outshine=~ others ~={orange}dim their own lights=~.*
+- people are willing to ~={Gold}push themselves=~ ~={red}too far=~ 
+- ~={Gold}pushing boundaries=~ ~={green}isn't wrong in itself=~, as it's the ~={LawnGreen}way to grow.=~
+	- If we look at strength training
+	- it's actually ~={Orchid}necessary to overstimulate=~ the muscles
+	- ⤷ breaking down the muscles during a lifting session 
 
 ## Meditation
 - ich liebe <span style="color:hotpink">Meditation</span> 
