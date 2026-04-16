@@ -12,7 +12,7 @@
 - [x] Email an ernst niebergall Schule
 	- heute pädagogischer Tag
 	- Frau mai auch eine Mail schreiben 
-- [ ] Pflanzen gießen 
+- [x] Pflanzen gießen 
 - [x] in den aldi
 - [x] Vokabeln ab Seite 26 eintragen 
 - [x] Tisch absenken 
