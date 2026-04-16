@@ -1085,7 +1085,14 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 - For most people, this is where the fear of death really lies and this what they cling to.
 - Thus the true fear of death lies in the idea of "*~={red}losing who we think we are=~*". 
 - That's why in war, soldiers fear the idea of "*~={Tomato}not dying in honor=~*" more than dying itself.
-- But by clinging to the idea of ourselves and the world around us, we deny the nature of the universe, which is that change is the only constant.
+- But by clinging to the idea of ourselves and the world around us, we deny the nature of the universe, which is that ~={Magenta}change is the only constant.=~
+- The story we tell ourselves about ourselves today will lose its accuracy tomorrow.
+- The same goes for the story we tell ourselves about the world. 
+- When we cling to one thing, we resist another.
+- What ~={red}we resist will stick=~, but ~={LimeGreen}what we accept we move beyond.=~
+
+⟹ The ability to ~={LawnGreen}let go=~ and ~={blue}go with the flow=~ and to ~={MediumSpringGreen}be flexible operator=~ in a chaotic universe, is what ~={Gold}makes us disciples of life=~.
+
 
 ## Meditation
 - ich liebe <span style="color:hotpink">Meditation</span> 
