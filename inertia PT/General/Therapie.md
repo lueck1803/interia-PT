@@ -1074,7 +1074,11 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 - The ~={red}fear of death=~ manifests within us in ways that are ~={RedRed}very subtle=~.
 - Many people claim that they don't fear death, because they don't fear this imagined idea of what death is. 
 	- ⤷ But this mere idea rarely resembles truth, as we cannot possibly imagine what it is "*not to be*".
-	- There's something however that lies quite close to the experience of complete annihilation.
+- There's something however that lies ~={Gold}quite close=~ to the experience of complete ~={Tomato}annihilation=~, which is "*~={MediumSpringGreen}losing what we cling to=~*".
+	- ⤷ If we ~={Crimson}cling to=~ our ~={Crimson}beauty=~ ⟹ we are ~={red}afraid of aging=~
+	- ⤷ we may ~={Crimson}cling to=~ our ~={Crimson}reputation=~, so we are always ~={red}hyper-vigilant=~ when it comes to what what other ~={red}people say or think=~ about us.
+	- ⤷ We may ~={Crimson}cling to=~ our ~={Crimson}wealth=~, so we're always ~={red}busy defending it=~.
+- 
 
 ## Meditation
 - ich liebe <span style="color:hotpink">Meditation</span> 
