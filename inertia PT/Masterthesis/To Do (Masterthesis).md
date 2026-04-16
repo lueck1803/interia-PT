@@ -149,7 +149,9 @@ $$
 9. titel + abstract
 10. create simulation programm in den anhang
 11. quellen
-12. Vortrag
+12. zinos thesis lesen, um abzuchecken
+13. -> arbeit aritra schicken
+14. Vortrag
 
 ## to do
 - [ ] ~={Magenta}explain the meaning of the binder cumulant as the deviation of the gaussian shape=~

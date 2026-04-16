@@ -2551,7 +2551,12 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 
 - 1,5h arbeiten 
 - 1,5h Pause machen
-- so wenig zeit vor dem Bildschirm wie möglich
+- so ~={Crimson}wenig zeit vor dem Bildschirm wie möglich=~
 - vor dem Bildschirm so wenig rum eieren wie möglich
-- auf garkeinen Fall den Rechner hochfahren und mal so ein bisschen herum recherchieren ⟹ schlechteste Idee die man haben kann
-- 
+- auf garkeinen Fall den Rechner hochfahren und ~={Tomato}mal so ein bisschen herum recherchieren=~ ⟹ schlechteste Idee die man haben kann
+	- ~={RedRed}⤷=~ vom hundertsten ins tausendste kommen
+	- nach einer Forschungsfrage in der Literatur zu suchen ~={red}nimmt kein Ende=~
+	- es gibt endlos mögliche Forschungsfragen
+- woher soll ich denn wissen, ob es zu einem bestimmten Thema literatur gibt?
+	- wird von ghostwritern empfohlen: nimm ein Thema zu dem schon sehr viel geschrieben wurde ⟹ ist bei mir aber obsolet 
+	- ⤷ keine gute empfehlung/kein freund von
