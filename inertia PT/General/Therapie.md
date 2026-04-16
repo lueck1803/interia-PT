@@ -2967,6 +2967,9 @@ A-->B-->C-->D-->A
 	- Bewegung
 	- Ohrenstöpsel
 	- keinen unnötigen Medienkonsum, ich verpasse nichts und vermisse nichts, denn das ist Zeitverschwendung
+	- mich in den ~={LawnGreen}aroused state=~ bringen
+		- ~={red}Angst=~ offenbar brauche ich das
+		- Bewegung
 - ~={RedRed}Was steht mir im Wege?=~
 	- meine emotionale situation
 	- mein Durcheinander im kopf
@@ -2978,12 +2981,13 @@ A-->B-->C-->D-->A
 	- meine Ängste
 	- mein mentales abdriften und doom scrollen
 	- meine negativen Glaubenssätze und habits
-	- zu
-	- dabei habe ich das in Vergangenheit schon sehr sehr gut geschafft! 
-		- Siehe Schwerpunktsprüfung.
-		- Das ging aber auch nur durch Angst und Druck und sehr viel selbst Geiselung
-		- danach bin ich wieder in ein krasses emotionales Loch gefallen
-	- ⤷ ich vermisse Arooj, sie hat mir schon wirklich sehr gut getan und sehr gut zu mir gepasst, ich habe leider nur nicht auf sie hören können
+	- zu leichtes Absacken und versacken, wenn ich "Pausen mache", ich mache keine echten Pausen, sondern mentale Fluchten und Zerstreuung, statt voll im hier und jetzt zu sein und meinem Kopf und Körper wirklich Pause, Ordnung und Heilung zu geben
+	- Ich schaffe es nicht in einem gesunden ~={RedRed}aroused=~ state zu sein, entweder zu viel oder zu wenig
+- dabei habe ich das in Vergangenheit schon sehr sehr gut geschafft! 
+	- Siehe Schwerpunktsprüfung.
+	- Das ging aber auch nur durch Angst und Druck und sehr viel selbst Geiselung
+	- danach bin ich wieder in ein krasses emotionales Loch gefallen
+- ⤷ ich vermisse Arooj, sie hat mir schon wirklich sehr gut getan und sehr gut zu mir gepasst, ich habe leider nur nicht auf sie hören können
 	
 
 

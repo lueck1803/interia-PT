@@ -2595,3 +2595,4 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 		- und das weiß ich eigentlich auch.
 		- ich habe es ja bei der schwerpunktsprüfung geschafft
 		- mein problem war und ist meine emotionale situation
+	- 
