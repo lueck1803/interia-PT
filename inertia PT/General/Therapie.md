@@ -1093,7 +1093,6 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 
 ⟹ The ability to ~={LawnGreen}let go=~ and ~={blue}go with the flow=~ and to ~={MediumSpringGreen}be flexible operator=~ in a chaotic universe, is what ~={Gold}makes us disciples of life=~.
 
-
 ## Meditation
 - ich liebe <span style="color:hotpink">Meditation</span> 
 ### Erkenntnisse
