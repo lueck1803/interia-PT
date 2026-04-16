@@ -989,7 +989,9 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 - ⤷ but it makes us ~={RedRed}weak=~ and ~={RedRed}vulnerable=~ ~={Gold}as well=~
 - <u>Another example:</u>
 	- people who take out a ~={LightBlue}mortgage=~ that's just ~={red}slightly affordable=~
-	- ⤷ as long as they keep earning what they earn, working stressful jobs
+	- ⤷ as long as they keep earning what they earn, ~={Tomato}working stressful jobs=~ 
+	- ⤷ lead to a ~={LimeGreen}big house=~ in a ~={RoyalBlue}short term=~, but this situation requires these people always stay on the ~={Crimson}hamster wheel=~, and ~={DeepPink}never=~ go ~={DeepPink}below=~ a ~={RoyalBlue}certain income=~.
+	- ⤷ ~={RedRed}chained=~ to a payment obligation and cannot afford to take on a job that's less stressful, if that decreases their income.
 
 ## Meditation
 - ich liebe <span style="color:hotpink">Meditation</span> 
