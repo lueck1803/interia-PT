@@ -956,7 +956,7 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 	- this happens when we swim against the stream 
 	- ⤷ what we ~={yellow}can do for a while=~ but we ~={Orchid}wouldn't last long =~
 	- ⤷ as it's ~={Magenta}highly exhausting=~ 
-- when we ~={RedRed}finally=~ ~={LawnGreen}give in=~ and ~={LimeGreen}except=~ 
+- when we ~={RedRed}finally=~ ~={LawnGreen}give in=~ and ~={LimeGreen}accept=~ that forcing our way up simply cannot be done 
 - working smart instead of working hard
 ## Meditation
 - ich liebe <span style="color:hotpink">Meditation</span> 
