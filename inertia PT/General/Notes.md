@@ -76,7 +76,51 @@ Lukas Walter
 # Nachrichten an Leute
 
 ## 26-04-16
-### Jamil 
+### 2 Jamil
+Ich würde auch gerne, wenn es möglich ist, jemandem eine zeitlang über die Schulter schauen.
+
+An der Lio habe ich zwar auch für 2 Monate eine Physik Klasse komplett ersetzt, da war ein Lehrer länger ausgefallen. Bevor ich die klasse übernahm, hatte auch schon eine Weile gar kein Unterricht statt gefunden.
+
+Da bin ich auch ohne richtiges Briefing über die Struktur an der Schule ins kalte Wasser geworfen worden.
+
+Ich hab dann die Lehrpläne studiert und das dortige Arsenal durchstöbert.
+
+Mir beim Kollegium die Infos zusammen gesucht die ich brauchte und zum Teil erst mit der Zeit kamen.
+
+Ich habe auch viel Aufbauarbeit und Dialogarbeit geleistet, so dass ich den Stand der Klasse herausgefunden habe. 
+
+Ich habe dann auch mit meinen Mitteln und dem Material was ich erstellt habe, in kurzer Zeit viele Wochenunterrichtsausfall aufgeholt.
+Die Vorbereitungen, die Orga und die Gespräche mit dem Kollegium habe ich in meiner Freizeit gemacht.
+
+Zu dem Zeitpunkt hatte ich gerade mal 1,5 Monate mit einem Einsatztag die Woche dort unterrichtet.
+
+Da wäre es dann doch nochmal gut, wenn ich einem erfahrenen Lehrer wenigstens eine Zeit über die Schulter schauen kann. 
+Auch was Klausuren erstellen an geht. 
+
+An der Uni habe ich zwar sehr viele Übungen korrigiert, an vielen Klausurkorrekturen teilgenommen, Übungsblätter geplant, reviewed und auch bei der Klausurenkonzeption mitgewirkt.
+
+Da war ich aber nie vollkommen alleine. 
+
+Ich würde auch gerne nochmal etwas Einsichten darüber haben, welche Häppchen die Schüler so aufnehmen können und was dazu an der Tafel stehen muss.
+
+Auch was Heftführung angeht.
+
+Die zwei Mal die ich bisher an der BAS Physik unterrichtet habe, haben ganz gut funktioniert.
+
+Da habe ich die unmittelbare Zeit an dem Tag, das was ich früher da war und die Pausen genutzt, um mich nochmal durch die Sachen zu denken.
+
+Als ich den Unterricht gehalten habe, der schon vorbereitet war und bereits die Arbeitsblätter ausgedruckt waren, habe ich mir nur etwas perspektivisch und ein Tafelbild überlegen müssen. 
+Was ich dann zusammen mit dem Standpunkt der Klasse entwickelt habe, um sie dann die Arbeitsblätter machen zu lassen. 
+
+Als ich dann 1h eine 9. Klasse vertreten habe, habe ich mir zu erst den Lehrplan angeschaut, etwa geschätzt was sie können könnten, mir überlegt was ich an die Tafel schreibe und habe mir Aufgaben überlegt.
+
+Das lief im Verhältnis auch ganz gut, auch wenn die Zeit da noch etwas knapper war, da ich erst nicht in den Raum kam und die Klasse dann in Bio musste. 
+
+Da habe ich mir auch behelfsmäßig Gegenstände gesucht, um ein paar Dinge zu demonstrieren.
+Um dann überhaupt die einfachste Aufgabe mit der Klasse rechnen zu können, musste ich aber auch erstmal elementare Dinge nachholen.
+
+Mir war auch nicht mehr so ganz bewusst, dass elementare Termumformung, wohl nicht so bekannt ist in der 9. Klasse.
+### 1 Jamil 
 Ich würde auch gerne, wenn es möglich ist, wem ne Zeitlang über die Schulter schauen.
 
 An der Lio habe ich zwar auch für 2 Monate eine Physik Klasse komplett ersetzt, da war ein Lehrer länger ausgefallen. Bevor ich die klasse übernahm, hatte auch schon eine Weile gar kein Unterricht statt gefunden.
