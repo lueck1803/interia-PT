@@ -1088,8 +1088,58 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 
 
 # Beziehung
+## 26-04-16
+Es war OK und verständlich dass Arooj gegangen ist. 
+Ich musste lernen auf eigenen Füßen zu stehen.
+Mich emotional unabhängig zu machen.
+Wach werden. 
+Meine Probleme klar und hart zu erkennen.
+Selbst schwimmen müssen und nicht in der Hoffnung immer weiter mit Stützrädern fahren zu können. 
+Weiterhin in meinem Schutzumschlag leben zu können und dem ich mich gebettet und zurück gezogen habe und der von Arooj gepflegt wurde.
 
-[Bonelli Inneres Kind, der Narzisst im anderen](https://youtu.be/srNXcvQlDaU?si=5QZNF1Xy4umic2Ur)
+Ich war nicht überlebensfähig.
+
+Und ich bin noch auf dem Weg dahin. 
+
+Das war richtig von Arooj.
+
+Sie ist da ihrem Instinkt und Bauchgefühl gefolgt.
+
+Ich hab mir so häufig gedacht dass ich noch viel mehr auf Arooj hören will. 
+
+Es war schon schön sich gegenseitig zu bereichern, auf sich gegenseitig zu hören, das war schon immer die richtige Mitte ❤️.
+
+
+Ich wäre nie aufgewacht... 
+Ach wer weiß... 
+Wenn es nicht immer diese Unterbrechungen mit dem Stress gegeben hätte. 
+Gut die gab's ja auch sehr viel wegen mir und meinem inneren Chaos 
+
+Ich hatte oft genug die Momente in denen ich wach geworden bin. 
+Das waren aber immer Momente in denen ich auch viel Angst wahrgenommen habe, Panik und Stress.
+Das ist dann zu viel geworden, ich bin dann unter diesem Stress, sehr angespannt und ungemütlich gewesen. War nicht gut für mein Umfeld.
+Und hab mich dann selbst dafür fertig gemacht dass es nicht vorher ging und warum ich nicht vorher wach wurde.
+Dadurch bin ich auch wieder in die Abwärtsspirale gerutscht.
+
+Ne das musste crashen mit mir.
+
+Daher habe ich mich auf die Suche begeben und bin ins Krankenhaus.
+
+Und das Arooj wiederholt gegangen ist, ist auch OK.
+
+Denn '23 hat nicht gereicht den Limerenz Status den ich zu Arooj und überhaupt meinen ganzen Gedanken und Emotionen hatte zu überwinden.
+
+Ich brauchte den Fall und das auf dem Boden aufschlagen.
+
+Das auf mich alleine gestellt sein und das wieder laufen lernen.
+
+Auch wenn ich immer noch humple.
+
+Hmm ja es tut mir schon ein wenig leid dass ich nicht immer bei mir sein konnte und diese Ängste hatte. 
+
+Aber ist OK.
+
+## [Bonelli Inneres Kind, der Narzisst im anderen](https://youtu.be/srNXcvQlDaU?si=5QZNF1Xy4umic2Ur)
 Arooj hat genau das wieder gemacht worüber ich mich ‘24 bzgl des Verhaltens des Vaters als Momo gestorben ist aufgeregt habe. Die Fremdbeschuldigung um von den eigenen Fehlern abzulenken. Mich zum Täter/Narzissten erklären und 0% Schuld bei sich zu sehen, das zeigt den wahren Narzissten. Du hast mich fertig gemacht. Ich war am Ende. Du bist was das angeht 1:1 wie dein Vater. Und da an dieser Stelle bist du einfach böse. Statt das zu erkennen und zu ändern, verkehrst und verdrehst du alles und ich bin der 100% Narzisst, damit du 0% Verantwortung trägst. Wie dein Vater. Und genau darüber habe ich mich '24, als das schmutzige Verhalten deiner Familie wieder geschehen ist und sich wieder das Übel des Verhaltens deiner in die offenbart hat. 
 Das hast du nie eingestehen können und das hat mich total fertig gemacht. Am Ende war ich immer der Böse.
 Das ist das krankhafte an deiner Familie.

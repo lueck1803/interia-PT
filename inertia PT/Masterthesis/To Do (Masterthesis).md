@@ -153,7 +153,35 @@ $$
 13. zinos thesis lesen, um abzuchecken
 14. -> arbeit aritra schicken
 15. Vortrag
-
+## talk
+### intro
+- what is active matter?
+	- descriptions von dem paper what's active matter - > anhand den verschiedenen Definitionen - non equilibrium 
+	- verschiedenste Bilder 
+		- flocking
+		- Regime?
+		- pattern building 
+- einfachste Modelle 
+	- abp / abp+?
+	- Formeln immer trocken Modelle ⟹ fluid fließt in noise term und Reibung ein, sowie Interactions 
+- overdamped normal Fall warum? (Auch in die Thesis )
+	- regime? Ne 
+	- Teilchen in der Regel klein und leicht im Vergleich zum ReibungsWiderstand 
+- what is mips, how does it occurs in case of real basic active matter
+- underdamped
+	- bisherige Forschung 
+	- Warum interessant? ~={RedRed}(Thesis)=~
+	- was ist anders bei Mips Erklärung und Bild von suvendus paper
+	- Kuriositäten ~={RedRed}(Thesis)=~
+		- Kühlschrank ~={RedRed}(Thesis)=~
+		- suvendus Erkenntnis mit der Temperatur ~={RedRed}(Thesis)=~
+		- ~={Gold} nur=~  ~={RedRed}(Thesis)=~ paper mit den density distributions -> schulter ⟹habe ich ja auch gesehen 
+- phase transition 
+- what are critical exponents 
+	- when are they relevant 
+	- universality
+	- renormalization group (nicht im Vortrag )
+- lammps 
 ## to do
 - [ ] ~={Magenta}explain the meaning of the binder cumulant as the deviation of the gaussian shape=~
 - [ ] liste die paper bzgl. der universality class auf <span style="font-size:100%;color: limegreen;">einiges in Dittrich aufgelistet</span>
