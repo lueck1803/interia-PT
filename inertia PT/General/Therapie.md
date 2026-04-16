@@ -2962,6 +2962,7 @@ A-->B-->C-->D-->A
 - ich möchte gut Englisch, Französisch und Türkisch sprechen können
 - ich will mich klar und prägnant ausdrücken können
 - ich will nichts mehr aufschieben
+- ich 
 - ~={ForestGreen}Wie schaffe ich das?=~
 	- Meditation
 	- Bewegung
