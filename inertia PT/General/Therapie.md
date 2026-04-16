@@ -944,9 +944,9 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 - for ~={LimeGreen}some things=~ pushing hard consistently indeed leads to results 
 - but no matter what we do, there are always natural laws that we must take into account 
 - lao tzu observed that nature has it's own ways of doing things 
-- living in this world we see that nature manifests itself in a certain order
+- living in this world we see that nature manifests itself in a ~={DeepSkyBlue}certain order=~:
 	- some things are big and heavy
-	- some are small and 
+	- some are small and light
 - working smart instead of working hard
 ## Meditation
 - ich liebe <span style="color:hotpink">Meditation</span> 
