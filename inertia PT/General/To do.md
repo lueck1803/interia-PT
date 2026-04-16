@@ -1,6 +1,7 @@
 # unsortiert
 - [ ] simon nach seinen Folien fragen 
-- [ ] bei den faulbä
+- [ ] bei den Faulbäumen vorbei gehen 
+	- ⟹glaube die stehen am Weg hinter der Eissporthalle 
 - [ ] Vorderrad Bremse checken/einstellen/tauschen 
 - [ ] Klingel checken
 - [ ] mit Benno sprechen 
