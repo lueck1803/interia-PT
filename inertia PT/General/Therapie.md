@@ -1014,6 +1014,12 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 		- there's always drama going on
 	- ⤷ When this ~={MediumSpringGreen}manager is away=~ for a few weeks, ~={LawnGreen}everything seems to go smoothly=~
  "*A ~={ForestGreen}good leader=~ doesn't control but ~={ForestGreen}**operates** from the background=~. She ~={DeepSkyBlue}lets people do things themselves=~ and intervenes only sparingly.*"
+- There's a ~={blue}difference=~ between
+	- ~={green}delegating=~ and ~={Tomato}controlling=~ 
+	- ~={green}leading=~ and ~={Tomato}imposing=~
+	- ~={green}Leading=~ and ~={green}delegating=~ can be ~={blue}done softly=~ and ~={MediumTurquoise}without much interference=~ 
+		- ⟹~={green}Letting things go with the flow.=~
+	- ~={Tomato}Controlling=~ and ~={Tomato}imposing=~ often go together with ~={RedRed}force.=~
 - 
 
 ## Meditation
