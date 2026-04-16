@@ -960,7 +960,10 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 	- we ~={LawnGreen}let go=~ and ~={MediumSpringGreen}start to flow along=~ 
 	- when we find some how a way to ~={LawnGreen}work with the nature=~ ~={red}instead of against it=~ 
 	- ~={Gold}things will get much easier=~ and we ~={red}won't=~ exhaust ourselves so much
-- ⤷ <u>this means: </u>working ~={LawnGreen}smart=~ instead of working ~={RedRed}hard=~ 
+- ⤷ <u>this means: </u>
+	- working ~={LawnGreen}smart=~ instead of working ~={RedRed}hard=~ 
+	- by ~={blue}setting=~ our ~={blue}sails correctly=~ 
+	- 
 ## Meditation
 - ich liebe <span style="color:hotpink">Meditation</span> 
 ### Erkenntnisse
