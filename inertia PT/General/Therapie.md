@@ -3,6 +3,7 @@
 - nichts ~={red}erzwingen=~ ~={yellow}folge=~ dem ~={green}flow=~
 	- ⤷ es fügt sich alles wenn ich im Moment bin
 	- ⤷ mein Handeln wird anstrengungslos/mühelos sein
+	- ⤷ messerschafer 
 - You can only ~={red}change=~ ~={LawnGreen}gradually=~
 	- ~={DeepPink}push your comfort zone=~ only so far ~={LightBlue}you are capable of=~
 	- ~={blue}do it this step=~ so often until it becomes ~={LimeGreen}easy=~ and ~={LimeGreen}normal=~
