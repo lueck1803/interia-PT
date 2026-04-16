@@ -983,7 +983,13 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 	- By ~={RedRed}pushing=~ themselves ~={RedRed}too hard=~, they've put themselves in a ~={Magenta}fragile position=~.
 	- Lao Tzu would describe this as ~={Magenta}standing on tiptoes=~, as he argues that when we stand on out tiptoes ~={red}we don't stand firmly=~.
 - There always ~={LimeGreen}needs to be a balance=~
-	- between action and inaction; between
+	- between ~={pink}action=~ and ~={purple}inaction=~
+	- between the ~={pink}effort=~ we put time into things and the time we let the ~={purple}body=~ and ~={purple}mind recover=~
+- ~={orange}Stretching=~ ourselves ~={orange}beyond our means=~ may get ~={Teal}more work done=~ in the ~={RoyalBlue}short term=~
+- ⤷ but it makes us ~={RedRed}weak=~ and ~={RedRed}vulnerable=~ ~={Gold}as well=~
+- <u>Another example:</u>
+	- people who take out a ~={LightBlue}mortgage=~ that's just ~={red}slightly affordable=~
+	- ⤷ as long as they keep earning what they earn, working stressful jobs
 
 ## Meditation
 - ich liebe <span style="color:hotpink">Meditation</span> 
