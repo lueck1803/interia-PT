@@ -1,6 +1,8 @@
-- [ ] nussetti 
-- [ ] äpfel
-- [ ] burger
+- [x] nussetti 
+- [x] äpfel
+- [x] burger
+- [x] toast 
+- [x] pizza 
 - [x] Tomaten
 	- [x] Packung große gekauft da nur 3,5€/kg
 - [x] stattdessen Avocado 🥑 

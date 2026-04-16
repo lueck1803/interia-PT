@@ -3,6 +3,8 @@
 - [ ] Spülmaschine 
 - [ ] Vorderrad Bremse checken/einstellen/tauschen 
 - [ ] Klingel checken
+- [ ] mit Benno sprechen 
+- [ ] Briefkasten leeren 
 - [x] müll runter 
 - [ ] Lisa mank SMS schreiben
 - [ ] ~={Crimson}Wie schaffe ich es immer aroused zu sein?=~
