@@ -1062,7 +1062,13 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 ### 5) <span style="font-size:100%;color:red;">Don't </span><span style="font-size:100%;color:Violet;">cling to life</span>
 "*I have heard that those who ~={LawnGreen}celebrates life=~ walk ~={DeepSkyBlue}safely=~ ~={Orchid}among the wild animals=~. When they go into ~={Orchid}battle=~, they ~={DeepSkyBlue}remain unharmed=~.*"
 
-- There is a ~={blue}difference=~ betwe
+- There is a ~={blue}difference=~ between ~={LawnGreen}celebrating life=~ and ~={Tomato}clinging to life=~.
+	- If you ~={Tomato}cling to life=~ there's ~={RedRed}nothing=~ ~={LawnGreen}to celebrate=~.
+		- ⤷ Life has become immensely ~={RedRed}serious=~ and even ~={RedRed}painful=~.
+		- ⤷ We're ~={RedRed}anxious=~ because we ~={orange}see death=~, the mother of all fears, in ~={orange}every corner=~.
+		- ⤷ The fear of death is what makes us cling to life.
+
+"*Those who are ~={RedRed}stiff=~ and ~={RedRed}rigid=~ are the disciples (Schüler) of death. Those who are soft and yielding are the disciples of life.*"
 
 ## Meditation
 - ich liebe <span style="color:hotpink">Meditation</span> 
