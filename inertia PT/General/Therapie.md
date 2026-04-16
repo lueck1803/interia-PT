@@ -996,8 +996,8 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 		- often it's ~={RedRed}not=~ because they ~={MediumSpringGreen}need=~ it
 		- but rather to ~={red}show off=~ to other people
 		- ⤷ This comes with a ~={RedRed}price=~
-- "*The ~={RedRed}more=~ wealth we~={blue} possess=~, the ~={RedRed}harder=~ it is ~={blue}to protect=~.*"
-- "*When one fills a ~={RedRed}cup to the brim=~, it becomes quite ~={DeepPink}difficult to carry it around=~.*"
+ "*The ~={RedRed}more=~ wealth we~={blue} possess=~, the ~={RedRed}harder=~ it is ~={blue}to protect=~.*"
+ "*When one fills a ~={RedRed}cup to the brim=~, it becomes quite ~={DeepPink}difficult to carry it around=~.*"
 - If we take Lao Tzu's wisdom to heart, ~={LawnGreen}we want to stand firmly=~ ~={LimeGreen}with two feet on the ground=~ with everything we do.
 ### 3) <span style="font-size:100%;color:red;">Stop</span> <span style="font-size:100%;color:DodgerBlue;">controlling</span> the world
 "*Do you want to rule the world and control it? I don't think it can ever be done. The world is a sacred vessel and it can not be controlled. You will ~={red}only make it worse=~ ~={yellow}if you try=~. It may ~={MediumTurquoise}slip through your fingers=~ and ~={DeepPink}disappear=~.*"
@@ -1009,8 +1009,12 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 - ~={red}Today's problems=~ can become ~={LimeGreen}tomorrow's blessings=~
 - <u>Example:</u>
 	- We can see this in the workplace often, as there's a certain ~={LightBlue}manager=~ who ~={red}excessively tries to control all processes=~, and only causes ~={Magenta}stress=~ and ~={Orchid}division=~ ~={yellow}within the team.=~
-		- Deadlines aren't being met, coworkers hate
-	- ⤷ 
+		- Deadlines aren't being met
+		- coworkers hate each other
+		- there's always drama going on
+	- ⤷ When this ~={MediumSpringGreen}manager is away=~ for a few weeks, ~={LawnGreen}everything seems to go smoothly=~
+ "*A ~={ForestGreen}good leader=~ doesn't control but ~={ForestGreen}**operates** from the background=~. She ~={DeepSkyBlue}lets people do things themselves=~ and intervenes only sparingly.*"
+- 
 
 ## Meditation
 - ich liebe <span style="color:hotpink">Meditation</span> 
