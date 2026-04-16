@@ -1004,7 +1004,13 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 
 - Have you ever observed that ~={LimeGreen}many=~ of our ~={red}problems=~ ~={DeepSkyBlue}solve themselves=~?
 - Intervening isn't always necessary.
-- Moreover in many cases ~={DarkViolet}intervention=~ only ~={Magenta}creates more problems=~.
+- Moreover in many cases ~={Gold}intervention=~ only ~={RedRed}creates more problems=~.
+- Everything is in motion, which means that ~={MediumSpringGreen}circumstances=~ ~={DeepSkyBlue}change all the time=~ 
+- ~={red}Today's problems=~ can become ~={LimeGreen}tomorrow's blessings=~
+- <u>Example:</u>
+	- We can see this in the workplace often, as there's a certain ~={LightBlue}manager=~ who ~={red}excessively tries to control all processes=~, and only causes ~={Magenta}stress=~ and ~={Orchid}division=~ ~={yellow}within the team.=~
+		- Deadlines aren't being met, coworkers hate
+	- ⤷ 
 
 ## Meditation
 - ich liebe <span style="color:hotpink">Meditation</span> 
