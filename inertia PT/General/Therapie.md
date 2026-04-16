@@ -955,7 +955,7 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 - if we force things we put ourselves into a position in which the ~={Orchid}universe starts to work against us=~
 	- this happens when we swim against the stream 
 	- ⤷ what we ~={yellow}can do for a while=~ but we ~={Orchid}wouldn't last long =~
-	- 
+	- ⤷ as it's highl
 - working smart instead of working hard
 ## Meditation
 - ich liebe <span style="color:hotpink">Meditation</span> 
