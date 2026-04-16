@@ -2562,5 +2562,16 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 	- ⤷ keine gute empfehlung/kein freund von
 		- ⟹ ist bei mir aber eh obsolet, denn das Thema hab ich und die Arbeit habe ich schon gemacht
 		- wenn das eine vernünftige und ein originelle Arbeit sein soll
-		- die Kunst ist es in sehr kurzer Zeit eine argumentativ möglichst saubere Arbeit abzuliefern, die dann auch noch originell ist.
-- Wie macht man d
+		- die Kunst ist es in sehr kurzer Zeit eine ~={LawnGreen}argumentativ möglichst saubere Arbeit=~ abzuliefern, die dann ~={MediumSpringGreen}auch noch originell=~ ist.
+- ~={Gold}Wie macht man das?=~
+	- in dem man eine Forschungsfrage stellt (sollte die oberste Priorität sein), die dich interessiert
+		- auch zu spät ....
+	- nicht wo gibts literatur für, das und jenes, sondern was interessiert dich
+	- welche forschungsfrage wird dazu führen, dass dir diese Arbeit am wenigsten auf die nerven geht?
+	- das du dir halbwegs vorstellen kannst, dass dich der Inhalt dieser Arbeit wirklich interessiert
+		- ja hatte ich, definitiv
+		- mein problem war allerdings, dass ich so viele ~={Crimson}Muss=~ und ~={Crimson}ich kann nicht=~ und ich brauche das, um gut genug zu sein, aber eigentlich kann ich das eh nicht
+	- weil wenn der inhalt dich halbwegs interessiert, dann wird wirst du schneller arbeiten, dann wird dir das ganze mehr spaß machen und dann wird die qualität höher, weil du gewissenhafter an die sache heran gehst.
+	- gut ich hab mich nach all den glaubenssätzen einfach nicht bereit dafür gefühlt
+	- und den ganzen sozialen issues
+	- 
