@@ -978,7 +978,12 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 	- ⤷ One ~={LawnGreen}necessary ingredient=~ when it comes to this process that many beginning lifters tend to overlook, which is ~={LawnGreen}rest=~.
 	- When we repeatedly ~={Crimson}overburden=~ the muscles, we will eventually be ~={orange}unable to continue our training=~, as they don't get enough ~={DeepSkyBlue}time to heal=~. 
 	- Even though our intention was making ourselves stronger, we have actually become weaker, ~={RedRed}chronic exhaustion=~ leads to a ~={DeepPink}lower immune system=~ and also makes us more ~={red}prone to depression=~
-- ~={gray}Why do people do this?=~
+- ~={LightBlue}Why do people do this?=~
+	- It's because they want to ~={Gold}gain=~ (muscle, wealth, status or any other goal) ~={Tomato}very quickly=~
+	- By ~={RedRed}pushing=~ themselves ~={RedRed}too hard=~, they've put themselves in a ~={Magenta}fragile position=~.
+	- Lao Tzu would describe this as ~={Magenta}standing on tiptoes=~, as he argues that when we stand on out tiptoes ~={red}we don't stand firmly=~.
+- There always ~={LimeGreen}needs to be a balance=~
+	- between action and inaction; between
 
 ## Meditation
 - ich liebe <span style="color:hotpink">Meditation</span> 

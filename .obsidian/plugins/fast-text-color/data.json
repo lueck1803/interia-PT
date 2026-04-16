@@ -728,9 +728,9 @@
           "className": "ftc-color-builtin-underline"
         },
         {
-          "color": "#a9a9a9",
+          "color": "#808080",
           "id": "gray",
-          "keybind": "",
+          "keybind": "F",
           "italic": false,
           "bold": false,
           "cap_mode": {
