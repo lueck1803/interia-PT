@@ -141,7 +141,15 @@ $$
 1. video zu wissenschaftliche Abschlussarbeiten schauen
 2. Verlauf von vorherige Arbeiten zur Idee von meinem algo
 3. -> mein Algo
-4. mei
+4. verwendete formeln + meine simulationen - aus dem report holen
+5. meine aktuellen ergebnisse
+6. problematik!
+7. ausblick
+8. theorie - wirklich auf die Arbeit zu geschnitten
+9. titel + abstract
+10. create simulation programm in den anhang
+11. quellen
+12. Vortrag
 
 ## to do
 - [ ] ~={Magenta}explain the meaning of the binder cumulant as the deviation of the gaussian shape=~
