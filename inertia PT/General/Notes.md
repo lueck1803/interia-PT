@@ -2560,3 +2560,7 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 - woher soll ich denn wissen, ob es zu einem bestimmten Thema literatur gibt?
 	- wird von ghostwritern empfohlen: nimm ein Thema zu dem schon sehr viel geschrieben wurde ⟹ ist bei mir aber obsolet 
 	- ⤷ keine gute empfehlung/kein freund von
+		- ⟹ ist bei mir aber eh obsolet, denn das Thema hab ich und die Arbeit habe ich schon gemacht
+		- wenn das eine vernünftige und ein originelle Arbeit sein soll
+		- die Kunst ist es in sehr kurzer Zeit eine argumentativ möglichst saubere Arbeit abzuliefern, die dann auch noch originell ist.
+- Wie macht man d
