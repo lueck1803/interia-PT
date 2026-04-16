@@ -1,14 +1,28 @@
 # unsortiert
-- [x] Stunden eintragen
-- [x] Spülmaschine 
 - [ ] Vorderrad Bremse checken/einstellen/tauschen 
 - [ ] Klingel checken
 - [ ] mit Benno sprechen 
 - [ ] Briefkasten leeren 
-- [ ] 
-- [x] müll runter 
+- [ ] Video von Einzelgänger zu lao tzu schauen 
+- [ ] meditieren 
+- [ ] Nachricht an jamil abschicken 
 - [ ] Lisa mank SMS schreiben
+- [ ] tägliches Mantra aufräumen 
 - [ ] ~={Crimson}Wie schaffe ich es immer aroused zu sein?=~
+	- [ ] Angst 
+	- [ ] Sport 
+	- [ ] guter Schlaf 
+	- [ ] voll bei mir sein
+	- [ ] nur eine Sache gleichzeitig 
+	- [ ] kein Medienkonsum
+	- [ ] Achtsamkeit 
+	- [ ] Körperpflege 
+	- [ ] frische Luft
+	- [ ] mich und mein Leben im Griff haben
+- [ ] mich mal nach nem anderen file Browser (handy) umschauen 
+- [x] Stunden eintragen
+- [x] Spülmaschine 
+- [x] müll runter 
 - [x] ~={Crimson}Tisch aufräumen!=~
 - [x] Wasserkocher entkalken 
 - [x] Email an Christian Morgenstern Schule schreiben 

@@ -2964,6 +2964,15 @@ A-->B-->C-->D-->A
 - ich will nichts mehr aufschieben
 - ich mache mich nicht mehr fertig und stresse mich, wenn mein Kopf hängt und mir Worte nicht ein fallen. Ich beruhige mich dann, atme tief ein und aus und fokussiere mich auf das Wesentliche und nur eine Sache 
 - ich kann alles schaffen
+- ich will Lehrer werden, denn das kann ich gut und es erfüllt mich
+- ich will sicherer werden 
+	- in meinem Auftreten 
+	- meinem Handeln 
+	- meinen Bewegungen 
+	- in meinen nächsten Schritten
+	- über meine Identität 
+	- meine Wirkung nach außen
+	- mein gutes Aussehen 
 
 - ~={ForestGreen}Wie schaffe ich das?=~
 	- Meditation
@@ -2997,10 +3006,22 @@ A-->B-->C-->D-->A
 		- und wenn es passiert, unter welchen Umständen auch immer, dann will und werde ich ganz bei mir sein
 		- das wäre natürlich schön und vielleicht können wir uns dann ja aussprechen 
 	- oder aber ich finde jemanden anderes
-	- momentan ist das aber unwichtig 
+	- momentan ist das aber unwichtig
 	- ich brauche keinen anderen Menschen, ich muss auf eigenen Beinen stehen und das kann ich auch. 
-	- ganz egal was passiert, ob mit oder ohne Arooj 
-	- 
+	- ⤷ ganz egal was passiert, ob mit oder ohne Arooj 
+	- wichtig ist, dass 
+		- es mir gut geht
+		- ich meine Abschlussarbeit schaffe
+		- ich immer im Kopf habe, was wichtig ist
+		- ich auf Kontinuität achte
+		- ich noch stabiler werde 
+		- immer meine Ziele verfolge
+		- achtsam auf meinen Körper höre
+		- ich gut zu mir bin
+		- sicherer werde in allem
+	- wenn das alles passt, dann wird sich schon alles richten.
+		- Gehe mit dem Fluss der Dinge und der Entropie ⟹ Stelle dich nicht dagegen 
+		- hab Vertrauen 
 	
 
 
