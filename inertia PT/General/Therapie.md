@@ -935,7 +935,8 @@ Raphael Bonelli ist einer der wenigen die das klar und realistisch betrachten.
 # Achtsamkeit und Meditation
 ## Lao Tzu | 5 lessons 
 https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
-- working smart in
+- live 
+- working smart instead of working hard
 ## Meditation
 - ich liebe <span style="color:hotpink">Meditation</span> 
 ### Erkenntnisse
