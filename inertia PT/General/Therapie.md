@@ -937,7 +937,8 @@ Raphael Bonelli ist einer der wenigen die das klar und realistisch betrachten.
 https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 - live more effortlessly with less stress and anxiety 
 - live a rich life, enjoy it to the fullest with minimum interference of the natural course 
-### 1) 
+### 1) Don't force anything 
+- 
 - working smart instead of working hard
 ## Meditation
 - ich liebe <span style="color:hotpink">Meditation</span> 
