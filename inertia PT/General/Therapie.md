@@ -958,6 +958,7 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 	- ⤷ as it's ~={Magenta}highly exhausting=~ 
 - when we ~={RedRed}finally=~ ~={LawnGreen}give in=~ and ~={MediumSpringGreen}accept=~ that forcing our way up simply cannot be done:
 	- we ~={LawnGreen}let go=~ and ~={MediumSpringGreen}start to flow along=~ 
+	- when we find some how a 
 - working smart instead of working hard
 ## Meditation
 - ich liebe <span style="color:hotpink">Meditation</span> 
