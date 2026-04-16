@@ -1048,7 +1048,15 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 		- ⟹ everything we own can be ~={RedRed}taken away=~ from us in an instant.
 		- 
 "*Whoever knows ~={LawnGreen}contentment=~ will be at ~={DeepSkyBlue}peace forever=~*"
-- ⤷ But we can only know when we have enough if we realize that the value we attribute to external things is based on delusion.
+- ⤷ But we can only know when we have enough if we realize that the ~={Gold}value=~ we ~={MediumTurquoise}attribute to external things=~ is based on ~={RedRed}delusion=~.
+- ⤷ ~={LawnGreen}We aren't what we have=~, as ~={RedRed}none=~ of these ~={MediumTurquoise}possessions are within our control=~.
+- ⟹ This includes ~={RedRed}even=~ ~={MediumTurquoise}our own bodies=~.
+
+⟹having an ~={RedRed}excess=~ of external things eventually ~={red}becomes a burden=~:
+"*The ~={RedRed}things=~ you own end up ~={RedRed}owning you.=~*"
+
+- as with the mouse, there's only so much we can take.
+- of course it's not a bad idea to have for example, a nice house and money in the bank, as long as we don't become slaves to
 
 ## Meditation
 - ich liebe <span style="color:hotpink">Meditation</span> 
