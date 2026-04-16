@@ -938,7 +938,7 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 - live more effortlessly with less stress and anxiety 
 - live a rich life, enjoy it to the fullest with minimum interference of the natural course 
 ### 1) Don't force anything 
-- the master does not force virtue on others, thus she is able to accomplish her task. The ordinary person who uses force, will find that 
+- *the master does not force virtue on others, thus she is able to accomplish her task. The ordinary person who uses force, will find that they accomplish nothing* 
 - working smart instead of working hard
 ## Meditation
 - ich liebe <span style="color:hotpink">Meditation</span> 
