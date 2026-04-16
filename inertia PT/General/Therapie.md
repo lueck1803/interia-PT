@@ -1056,7 +1056,13 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 "*The ~={RedRed}things=~ you own end up ~={RedRed}owning you.=~*"
 
 - as with the mouse, there's only so much we can take.
-- of course it's not a bad idea to have for example, a nice house and money in the bank, as long as we don't become slaves to
+- of course it's not a bad idea to have for example, a nice house and money in the bank, as long as we ~={LawnGreen}don't become slaves to what we own=~.
+- ⟹ ~={MediumSpringGreen}moderation is the key=~
+
+### 5) <span style="font-size:100%;color:red;">Don't </span><span style="font-size:100%;color:Violet;">cling to life</span>
+"*I have heard that those who ~={LawnGreen}celebrates life=~ walk ~={DeepSkyBlue}safely=~ ~={Orchid}among the wild animals=~. When they go into ~={Orchid}battle=~, they ~={DeepSkyBlue}remain unharmed=~.*"
+
+- There is a ~={blue}difference=~ betwe
 
 ## Meditation
 - ich liebe <span style="color:hotpink">Meditation</span> 
