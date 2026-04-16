@@ -3,6 +3,8 @@
 - [x] stattdessen Avocado 🥑 
 - [x] geschrotete Leinsamen bevor es demnächst wieder keine mehr gibt
 - [x] Johannisbeermarmelade 
+- [ ] nussetti 
+- [ ] Pizza 
 - [x] Hafermilch 
 	- gab nur die "ohne Zucker "
 - [x] hummus
