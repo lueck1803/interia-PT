@@ -1,5 +1,6 @@
 # unsortiert
 - [ ] simon nach seinen Folien fragen 
+- [ ] bei den faulbä
 - [ ] Vorderrad Bremse checken/einstellen/tauschen 
 - [ ] Klingel checken
 - [ ] mit Benno sprechen 
