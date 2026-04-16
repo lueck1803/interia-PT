@@ -952,7 +952,7 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 	- the way we learn 
 	- the way our bodies function 
 	- ⤷ all is bound to the ~={pink}natural laws we cannot control =~
-- if we force things we put ourselves into a position 
+- if we force things we put ourselves into a position in which the universe 
 - working smart instead of working hard
 ## Meditation
 - ich liebe <span style="color:hotpink">Meditation</span> 
