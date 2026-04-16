@@ -2938,6 +2938,22 @@ A-->B-->C-->D-->A
 - ich möchte wertschätzung in meiner Arbeit haben
 - ich möchte sozial eingebunden sein
 - ich möchte meine zeit zu 95% sinnvoll nutzen
-- ich möchte mich nicht mehr fertig
+- ich möchte mich nicht mehr fertig machen
+- ich möchte nicht mehr gammeln und herum eiern
+- ich möchte mich klar und präzise ausdrücken
+- ich möchte mich nicht mehr ablenken
+- im hier und jetzt sein
+- ich möchte gut schlafen können
+- ich möchte sportlich sein
+- ich möchte tolle zeit mit tollen menschen verbringen
+- menschen die mich mögen und lieben
+- ich möchte lieben
+- ich möchte keine verwirrten gedanken haben
+- sondern ganz klar wissen was ich will und dem hinterher sein
+- ich möchte gut zu mir sein und auf meinen körper achten
+- ich möchte meine Gefühle und Gedanken im Griff haben
+- ich möchte möglichst viel Zeit draußen in der Natur und unter Leuten verbringen und nicht vor dem Rechner und in der Bude
+- ich bin es wert und bin wertvoll
+- ich habe gutes Essen, sauberes Wasser, gute frische Luft, angenehme Temperaturen, ein sauberes Umfeld, gute und passende Kleidung 
 
 
