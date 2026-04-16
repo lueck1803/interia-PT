@@ -938,7 +938,7 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 - live more effortlessly with less stress and anxiety 
 - live a rich life, enjoy it to the fullest with minimum interference of the natural course 
 ### 1) Don't force anything 
-- 
+- the master does not force virtue in
 - working smart instead of working hard
 ## Meditation
 - ich liebe <span style="color:hotpink">Meditation</span> 
