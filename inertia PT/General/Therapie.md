@@ -1078,7 +1078,14 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 	- ⤷ If we ~={Crimson}cling to=~ our ~={Crimson}beauty=~ ⟹ we are ~={red}afraid of aging=~
 	- ⤷ we may ~={Crimson}cling to=~ our ~={Crimson}reputation=~, so we are always ~={red}hyper-vigilant=~ when it comes to what what other ~={red}people say or think=~ about us.
 	- ⤷ We may ~={Crimson}cling to=~ our ~={Crimson}wealth=~, so we're always ~={red}busy defending it=~.
-- 
+- Now an aging body, a bad reputation, or poverty, do not equal death, as we can still live, and live well, while enduring these things.
+- However, it may ~={Crimson}equal the death of=~
+	- our self-image
+	- the story we tell about ourselves
+- For most people, this is where the fear of death really lies and this what they cling to.
+- Thus the true fear of death lies in the idea of "*~={red}losing who we think we are=~*". 
+- That's why in war, soldiers fear the idea of "*~={Tomato}not dying in honor=~*" more than dying itself.
+- But by clinging to the idea of ourselves and the world around us, we deny the nature of the universe, which is that change is the only constant.
 
 ## Meditation
 - ich liebe <span style="color:hotpink">Meditation</span> 
