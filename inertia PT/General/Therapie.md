@@ -1,5 +1,6 @@
 
 # Tägliches Mantra
+- nichts ~={red}erzwingen=~ ~={yellow}folge=~ dem ~={green}flow=~
 - You can only ~={red}change=~ ~={LawnGreen}gradually=~
 	- ~={DeepPink}push your comfort zone=~ only so far ~={LightBlue}you are capable of=~
 	- ~={blue}do it this step=~ so often until it becomes ~={LimeGreen}easy=~ and ~={LimeGreen}normal=~
