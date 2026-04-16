@@ -997,7 +997,9 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 		- but rather to ~={red}show off=~ to other people
 		- ⤷ This comes with a ~={RedRed}price=~
 - "*The ~={RedRed}more=~ wealth we~={blue} possess=~, the ~={RedRed}harder=~ it is ~={blue}to protect=~.*"
-- 
+- "*When one fills a ~={RedRed}cup to the brim=~, it becomes quite ~={DeepPink}difficult to carry it around=~.*"
+- If we take Lao Tzu's wisdom to heart, ~={LawnGreen}we want to stand firmly=~ ~={LimeGreen}with two feet on the ground=~ with everything we do.
+### 3) Stop controlling the world
 
 ## Meditation
 - ich liebe <span style="color:hotpink">Meditation</span> 
