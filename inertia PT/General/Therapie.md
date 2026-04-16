@@ -992,6 +992,10 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 	- ⤷ as long as they keep earning what they earn, ~={Tomato}working stressful jobs=~ 
 	- ⤷ lead to a ~={LimeGreen}big house=~ in a ~={RoyalBlue}short term=~, but this situation requires these people always stay on the ~={Crimson}hamster wheel=~, and ~={DeepPink}never=~ go ~={DeepPink}below=~ a ~={RoyalBlue}certain income=~.
 	- ⤷ ~={RedRed}chained=~ to a payment obligation and cannot afford to take on a job that's less stressful, if that decreases their income.
+	- ~={DeepSkyBlue}And Why?=~
+		- often it's ~={RedRed}not=~ because they ~={MediumSpringGreen}need=~ it
+		- but rather to ~={red}show off=~ to other people
+		- ⤷ This comes with a ~={RedRed}price=~
 
 ## Meditation
 - ich liebe <span style="color:hotpink">Meditation</span> 
