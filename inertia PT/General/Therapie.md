@@ -964,10 +964,11 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 	- we ~={LawnGreen}let go=~ and ~={MediumSpringGreen}start to flow along=~ 
 	- when we find some how a way to ~={LawnGreen}work with the nature=~ ~={red}instead of against it=~ 
 	- ~={Gold}things will get much easier=~ and we ~={red}won't=~ exhaust ourselves so much
-- ⤷ <u>this means: </u>
-	- working ~={LawnGreen}smart=~ instead of working ~={RedRed}hard=~ 
-	- by ~={blue}setting=~ our ~={blue}sails correctly=~ and ~={DeepSkyBlue}navigating diligently=~
-	- ⤷ so that the ~={LawnGreen}wind=~ of the universe ~={green}keeps pushing ourselves forward=~ 
+	
+⟹ <u>this means: </u>
+- working ~={LawnGreen}smart=~ instead of working ~={RedRed}hard=~ 
+- by ~={blue}setting=~ our ~={blue}sails correctly=~ and ~={DeepSkyBlue}navigating diligently=~
+- ⤷ so that the ~={LawnGreen}wind=~ of the universe ~={green}keeps pushing ourselves forward=~ 
 ### 2) <span style="font-size:100%;color:red;">Don't</span> <span style="font-size:100%;color:MediumSpringGreen;">over burden</span> yourself 
 "*Those who~={yellow} stand on tiptoes=~ do ~={orange}not stand firmly=~. Those who ~={yellow}rush ahead=~ ~={orange}don't get very far=~. Those who ~={yellow}try to outshine=~ others ~={orange}dim their own lights=~.*"
 - people are willing to ~={Gold}push themselves=~ ~={red}too far=~ 
@@ -998,7 +999,8 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 		- ⤷ This comes with a ~={RedRed}price=~
  "*The ~={RedRed}more=~ wealth we~={blue} possess=~, the ~={RedRed}harder=~ it is ~={blue}to protect=~.*"
  "*When one fills a ~={RedRed}cup to the brim=~, it becomes quite ~={DeepPink}difficult to carry it around=~.*"
-- If we take Lao Tzu's wisdom to heart, ~={LawnGreen}we want to stand firmly=~ ~={LimeGreen}with two feet on the ground=~ with everything we do.
+ 
+⟹ If we take Lao Tzu's wisdom to heart, ~={LawnGreen}we want to stand firmly=~ ~={LimeGreen}with two feet on the ground=~ with everything we do.
 ### 3) <span style="font-size:100%;color:red;">Stop</span> <span style="font-size:100%;color:DodgerBlue;">controlling</span> the world
 "*Do you want to rule the world and control it? I don't think it can ever be done. The world is a sacred vessel and it can not be controlled. You will ~={red}only make it worse=~ ~={yellow}if you try=~. It may ~={MediumTurquoise}slip through your fingers=~ and ~={DeepPink}disappear=~.*"
 
@@ -1020,7 +1022,12 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 	- ~={green}Leading=~ and ~={green}delegating=~ can be ~={blue}done softly=~ and ~={MediumTurquoise}without much interference=~ 
 		- ⟹~={green}Letting things go with the flow.=~
 	- ~={Tomato}Controlling=~ and ~={Tomato}imposing=~ often go together with ~={RedRed}force.=~
-- 
+- In practice we might want to  ~={DeepSkyBlue}take a step back =~a bit more often ~={Gold}before we intervene=~.
+- In many cases the ~={LimeGreen}natural course=~ will make things work out just fine.
+
+ ⟹~={DeepSkyBlue}Trusting the universe=~ so that ~={LawnGreen}we can let go of control=~
+### 4) <span style="font-size:100%;color:LimeGreen;">Enough is enough</span>
+"*Those who know they have enough are truly wealthy.*"
 
 ## Meditation
 - ich liebe <span style="color:hotpink">Meditation</span> 
