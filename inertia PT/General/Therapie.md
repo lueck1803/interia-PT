@@ -933,7 +933,7 @@ Raphael Bonelli ist einer der wenigen die das klar und realistisch betrachten.
 
 
 # Achtsamkeit und Meditation
-## Lao Tzu
+## Lao Tzu | 5 lessons 
 https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 - 
 ## Meditation
