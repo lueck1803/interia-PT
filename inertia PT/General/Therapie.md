@@ -981,7 +981,7 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 - ~={LightBlue}Why do people do this?=~
 	- It's because they want to ~={Gold}gain=~ (muscle, wealth, status or any other goal) ~={Tomato}very quickly=~
 	- By ~={RedRed}pushing=~ themselves ~={RedRed}too hard=~, they've put themselves in a ~={Magenta}fragile position=~.
-	- Lao Tzu would describe this as ~={Magenta}standing on tiptoes=~, as he argues that when we stand on out tiptoes ~={red}we don't stand firmly=~.
+	- Lao Tzu would describe this *as ~={Magenta}standing on tiptoes=~*, as he argues that when *we stand on out tiptoes ~={red}we don't stand firmly=~*.
 - There always ~={LimeGreen}needs to be a balance=~
 	- between ~={pink}action=~ and ~={purple}inaction=~
 	- between the ~={pink}effort=~ we put time into things and the time we let the ~={purple}body=~ and ~={purple}mind recover=~
@@ -996,6 +996,8 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 		- often it's ~={RedRed}not=~ because they ~={MediumSpringGreen}need=~ it
 		- but rather to ~={red}show off=~ to other people
 		- ⤷ This comes with a ~={RedRed}price=~
+- "*The ~={RedRed}more=~ wealth we~={blue} possess=~, the ~={RedRed}harder=~ it is ~={blue}to protect=~.*"
+- 
 
 ## Meditation
 - ich liebe <span style="color:hotpink">Meditation</span> 
