@@ -964,7 +964,7 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 	- working ~={LawnGreen}smart=~ instead of working ~={RedRed}hard=~ 
 	- by ~={blue}setting=~ our ~={blue}sails correctly=~ and ~={DeepSkyBlue}navigating diligently=~
 	- ⤷ so that the ~={LawnGreen}wind=~ of the universe ~={green}keeps pushing ourselves forward=~ 
-### 2) 
+### 2) Don't over burde
 ## Meditation
 - ich liebe <span style="color:hotpink">Meditation</span> 
 ### Erkenntnisse
