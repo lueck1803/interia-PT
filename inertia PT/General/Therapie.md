@@ -940,7 +940,7 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 ### 1) Don't force anything 
 - *The master does not force virtue on others, thus she is able to accomplish her task. The ordinary person who uses force, will find that they accomplish nothing.* 
 - when we force we go against the natural flow of things, which most likely gets us in trouble.
-- often times a fallacy we make is thinking we can force the unenforceable, believing that when we will push hard enough 
+- often times a fallacy we make is thinking we can force the unenforceable, believing that when we will push hard enough, we'
 - working smart instead of working hard
 ## Meditation
 - ich liebe <span style="color:hotpink">Meditation</span> 
