@@ -140,18 +140,19 @@ $$
 ## tasks
 1. video zu wissenschaftliche Abschlussarbeiten schauen
 2. Verlauf von vorherige Arbeiten zur Idee von meinem algo
-3. -> mein Algo
-4. verwendete formeln + meine simulationen - aus dem report holen
-5. meine aktuellen ergebnisse
-6. problematik!
-7. ausblick
-8. theorie - wirklich auf die Arbeit zu geschnitten
-9. titel + abstract
-10. create simulation programm in den anhang
-11. quellen
-12. zinos thesis lesen, um abzuchecken
-13. -> arbeit aritra schicken
-14. Vortrag
+3. Gliederung
+4. -> mein Algo
+5. verwendete formeln + meine simulationen - aus dem report holen
+6. meine aktuellen ergebnisse
+7. problematik!
+8. ausblick
+9. theorie - wirklich auf die Arbeit zu geschnitten
+10. titel + abstract
+11. create simulation programm in den anhang
+12. quellen
+13. zinos thesis lesen, um abzuchecken
+14. -> arbeit aritra schicken
+15. Vortrag
 
 ## to do
 - [ ] ~={Magenta}explain the meaning of the binder cumulant as the deviation of the gaussian shape=~

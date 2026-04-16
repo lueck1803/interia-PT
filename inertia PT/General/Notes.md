@@ -2590,3 +2590,5 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 	- bevor man den computer auch nur hochfährt / die tastatur betätige
 	- kennt man die Forschungsfrage
 	- vorher konstruieren, beim spazieren, wäsche aufhängen und andere dinge tun
+	- Dabei die Gliederung schon erstellt
+	- ⤷ man muss eben nur wissen, wie man an die Ac

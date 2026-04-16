@@ -2954,6 +2954,18 @@ A-->B-->C-->D-->A
 - ich möchte meine Gefühle und Gedanken im Griff haben
 - ich möchte möglichst viel Zeit draußen in der Natur und unter Leuten verbringen und nicht vor dem Rechner und in der Bude
 - ich bin es wert und bin wertvoll
-- ich habe gutes Essen, sauberes Wasser, gute frische Luft, angenehme Temperaturen, ein sauberes Umfeld, gute und passende Kleidung 
+- ich habe gutes Essen, sauberes Wasser, gute frische Luft, angenehme Temperaturen, ein sauberes Umfeld, gute und passende Kleidung, liebende Menschen und Körperpflege (rechtzeitig auf Toilette gehen, zähne putzen, rasieren und Duschen) verdient
+- ich will gut aussehen gepflegte haare und eine gepflegte und gesunde haut
+- ich will mein Leben und meine Aufgaben im griff haben
+- ich will mich klar und deutlich ausdrücken können
+- ich möchte keine Wortfindungsstörungen mehr haben
+- ich möchte gut Englisch, Französisch und Türkisch sprechen können
+- ich will mich klar und prägnant ausdrücken können
+- ich will nichts mehr aufschieben
+- ~={ForestGreen}Wie schaffe ich das?=~
+	- Meditation
+	- Bewegung
+	- Ohrenstöpsel
+	- keinen unnötigen Medienkonsum, ich verpasse nichts und vermisse nichts, denn das ist Zeitverschwendung
 
 
