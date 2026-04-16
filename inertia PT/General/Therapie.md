@@ -946,7 +946,7 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 - lao tzu observed that nature has it's own ways of doing things 
 - living in this world we see that nature manifests itself in a ~={DeepSkyBlue}certain order=~:
 	- some things are big and heavy ⇔ some are small and light
-	- some things take ages to grow ⇔other things
+	- some things take ages to grow ⇔other things are born and die on the same day
 - working smart instead of working hard
 ## Meditation
 - ich liebe <span style="color:hotpink">Meditation</span> 
