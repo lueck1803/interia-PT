@@ -1,8 +1,8 @@
 # unsortiert
 - [x] Stunden eintragen
 - [ ] Spülmaschine 
-- [ ] Vorderrad Bremse
-- [ ] Klingel 
+- [ ] Vorderrad Bremse checken/einstellen/tauschen 
+- [ ] Klingel checken
 - [x] müll runter 
 - [ ] Lisa mank SMS schreiben
 - [ ] ~={Crimson}Wie schaffe ich es immer aroused zu sein?=~
