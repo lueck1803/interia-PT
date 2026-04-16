@@ -942,7 +942,7 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 - when we force we go against the natural flow of things, which most likely gets us in trouble.
 - often times a fallacy we make is thinking we can force the unenforceable, believing that when we will push hard enough, we'll get where we want to go
 - for ~={LimeGreen}some things=~ pushing hard consistently indeed leads to results 
-- but no matter what wir
+- but no matter what we do, there are always natural laws that we
 - working smart instead of working hard
 ## Meditation
 - ich liebe <span style="color:hotpink">Meditation</span> 
