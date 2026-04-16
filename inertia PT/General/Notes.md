@@ -2546,3 +2546,7 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 - ich weiß auch gar nicht mehr ob ich wirklich ADHS habe. Dass ich so extrem durch bin, war früher nicht so. Das ist ne Traumafolgestörung 
 - ich habe immer viel zu große Schritte gemacht und mich dann zu zu viel gezwungen und durch den druck bin ich immer wieder gescheitert, statt die dosis klein und langsam zu erhöhen
 - ich hab mich zu sehr gezwungen und druck gemacht ohne selbst daran zu glauben, aufgrund meiner Erfahrungen die ich gemacht habe. ich habe meine Erfahrungen zu meinen Glaubenssätzen gemacht
+
+# Wissenschaftliche Abschlussarbeiten in kurzer Zeit schreiben
+
+- 
