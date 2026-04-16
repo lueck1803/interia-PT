@@ -409,6 +409,35 @@
           "className": "ftc-color-builtin-Teal"
         },
         {
+          "color": "#48d1cc",
+          "id": "MediumTurquoise",
+          "keybind": "G",
+          "italic": false,
+          "bold": false,
+          "cap_mode": {
+            "states": [
+              "normal",
+              "all_caps",
+              "small_caps"
+            ],
+            "state": "normal",
+            "index": 0
+          },
+          "line_mode": {
+            "states": [
+              "none",
+              "underline",
+              "overline",
+              "line-through"
+            ],
+            "state": "none",
+            "index": 0
+          },
+          "useCssColorVariable": false,
+          "colorVariable": "--color-base-00",
+          "className": "ftc-color-builtin-MediumTurquoise"
+        },
+        {
           "color": "#1e90ff",
           "id": "blue",
           "keybind": "T",
@@ -755,35 +784,6 @@
           "useCssColorVariable": false,
           "colorVariable": "--color-base-00",
           "className": "ftc-color-builtin-gray"
-        },
-        {
-          "color": "#48d1cc",
-          "id": "MediumTurquoise",
-          "keybind": "G",
-          "italic": false,
-          "bold": false,
-          "cap_mode": {
-            "states": [
-              "normal",
-              "all_caps",
-              "small_caps"
-            ],
-            "state": "normal",
-            "index": 0
-          },
-          "line_mode": {
-            "states": [
-              "none",
-              "underline",
-              "overline",
-              "line-through"
-            ],
-            "state": "none",
-            "index": 0
-          },
-          "useCssColorVariable": false,
-          "colorVariable": "--color-base-00",
-          "className": "ftc-color-builtin-MediumTurquoise"
         }
       ],
       "name": "builtin"

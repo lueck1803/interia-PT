@@ -942,7 +942,7 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 - live more effortlessly with less stress and anxiety 
 - live a rich life, enjoy it to the fullest with minimum interference of the natural course 
 ### 1) <span style="font-size:100%;color:red;">Don't</span> <span style="font-size:100%;color:MediumTurquoise;">force anything</span> 
-- *The master does ~={Gold}not force virtue=~ ~={red}on others=~, thus ~={LawnGreen}she is able to accomplish=~ her task. The ordinary person ~={red}who uses force=~, will find that they ~={red}accomplish nothing=~.* 
+"*The master does ~={Gold}not force virtue=~ ~={red}on others=~, thus ~={LawnGreen}she is able to accomplish=~ her task. The ordinary person ~={red}who uses force=~, will find that they ~={red}accomplish nothing=~.* "
 - when we force we go against the natural flow of things, which most likely gets us in trouble.
 - often times a fallacy we make is thinking we can force the unenforceable, believing that when we will push hard enough, we'll get where we want to go
 - for ~={LimeGreen}some things=~ pushing hard consistently indeed leads to results 
@@ -969,7 +969,7 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 	- by ~={blue}setting=~ our ~={blue}sails correctly=~ and ~={DeepSkyBlue}navigating diligently=~
 	- ⤷ so that the ~={LawnGreen}wind=~ of the universe ~={green}keeps pushing ourselves forward=~ 
 ### 2) <span style="font-size:100%;color:red;">Don't</span> <span style="font-size:100%;color:MediumSpringGreen;">over burden</span> yourself 
-- *Those who~={yellow} stand on tiptoes=~ do ~={orange}not stand firmly=~. Those who ~={yellow}rush ahead=~ ~={orange}don't get very far=~. Those who ~={yellow}try to outshine=~ others ~={orange}dim their own lights=~.*
+"*Those who~={yellow} stand on tiptoes=~ do ~={orange}not stand firmly=~. Those who ~={yellow}rush ahead=~ ~={orange}don't get very far=~. Those who ~={yellow}try to outshine=~ others ~={orange}dim their own lights=~.*"
 - people are willing to ~={Gold}push themselves=~ ~={red}too far=~ 
 - ~={Gold}pushing boundaries=~ ~={green}isn't wrong in itself=~, as it's the ~={LawnGreen}way to grow.=~
 	- If we look at strength training
@@ -1000,7 +1000,11 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 - "*When one fills a ~={RedRed}cup to the brim=~, it becomes quite ~={DeepPink}difficult to carry it around=~.*"
 - If we take Lao Tzu's wisdom to heart, ~={LawnGreen}we want to stand firmly=~ ~={LimeGreen}with two feet on the ground=~ with everything we do.
 ### 3) <span style="font-size:100%;color:red;">Stop</span> <span style="font-size:100%;color:DodgerBlue;">controlling</span> the world
-- "*Do you want to rule the world and control it? I don't think it can ever be done. The world is a sacred vessel and it can not be controlled. *"
+"*Do you want to rule the world and control it? I don't think it can ever be done. The world is a sacred vessel and it can not be controlled. You will ~={red}only make it worse=~ ~={yellow}if you try=~. It may ~={MediumTurquoise}slip through your fingers=~ and ~={DeepPink}disappear=~.*"
+
+- Have you ever observed that ~={LimeGreen}many=~ of our ~={red}problems=~ ~={DeepSkyBlue}solve themselves=~?
+- Intervening isn't always necessary.
+- Moreover in many cases ~={DarkViolet}intervention=~ only ~={Magenta}creates more problems=~.
 
 ## Meditation
 - ich liebe <span style="color:hotpink">Meditation</span> 
