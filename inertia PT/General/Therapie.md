@@ -1027,7 +1027,14 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 
  ⟹~={DeepSkyBlue}Trusting the universe=~ so that ~={LawnGreen}we can let go of control=~
 ### 4) <span style="font-size:100%;color:LimeGreen;">Enough is enough</span>
-"*Those who know they have enough are truly wealthy.*"
+"*Those who ~={MediumSpringGreen}know they have enough=~ are ~={LawnGreen}truly wealthy.=~*"
+
+- As we tend to overburden ourselves, we also have this nasty feature of ~={RedRed}gathering much more than we need=~ 
+- We see that the wealthy try to get wealthier.
+- For them increasing their possessions is life.
+- ⤷ But~={MediumTurquoise} when we always aim for getting more don't we forget to live?=~
+- Our ~={orange}needs=~ come with ~={DeepSkyBlue}natural limits=~.
+- We ~={Crimson}only=~ need ~={DeepSkyBlue}enough food=~ to stay energized during the day, and we ~={Crimson}only=~ need ~={DeepSkyBlue}enough water=~ to stay hydrated.
 
 ## Meditation
 - ich liebe <span style="color:hotpink">Meditation</span> 
