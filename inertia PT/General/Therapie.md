@@ -951,7 +951,8 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 	- the way we grow from infants to adults 
 	- the way we learn 
 	- the way our bodies function 
-	- all is bound to the natural laws we cannot control 
+	- ⤷ all is bound to the ~={pink}natural laws we cannot control =~
+	- 
 - working smart instead of working hard
 ## Meditation
 - ich liebe <span style="color:hotpink">Meditation</span> 
