@@ -948,7 +948,7 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 	- some things are big and heavy ⇔ some are small and light
 	- some things take ages to grow ⇔other things are born and die on the same day
 - humans are ~={pink}bound to the flow of nature=~ as well 
-	- 
+	- the way we grow from infants to a
 - working smart instead of working hard
 ## Meditation
 - ich liebe <span style="color:hotpink">Meditation</span> 
