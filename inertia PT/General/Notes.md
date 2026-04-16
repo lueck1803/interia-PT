@@ -2581,4 +2581,12 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 		- es ist daher ~={yellow}völlig egal, wie viel literatur=~ es zu dem thema gibt
 		- ⤷ ist sogar interessanter wenn es wenig literatur gibt
 			- macht nicht nur spaß
-			- sach
+			- schafft auch platz
+			- gibt dir mehr dinge zu schreiben
+			- weil du kannst Dinge pro und kontra argumentieren
+			- du musst selber nachdenken
+	- Wenn das ein Thema ist, was dich interessiert, dann fällt dir das super leicht, zumindest fällt es dir dann leichtER
+- so ~={Gold}wenig zeit wie möglich vor dem Rechner=~ verbringen
+	- bevor man den computer auch nur hochfährt / die tastatur betätige
+	- kennt man die Forschungsfrage
+	- vorher konstruieren, beim spazieren, wäsche aufhängen und andere dinge tun

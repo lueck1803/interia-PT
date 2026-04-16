@@ -2931,5 +2931,13 @@ A-->B-->C-->D-->A
 	- because you won't be holding yourself back because of fears and insecurities
 - you are not stuck as anyone self you can change at any time
 ## my vision and my list of qualities that I want to develop to reach this vision
+- ich will ruhig und besonnen sein
+- ich will erfolgreich sein
+- ich möchte meine Abschlussarbeit schaffen
+- ich möchte eine Familie gründen
+- ich möchte wertschätzung in meiner Arbeit haben
+- ich möchte sozial eingebunden sein
+- ich möchte meine zeit zu 95% sinnvoll nutzen
+- ich möchte mich nicht mehr fertig
 
 
