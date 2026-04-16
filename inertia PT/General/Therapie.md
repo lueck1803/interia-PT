@@ -1068,7 +1068,13 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 		- ⤷ We're ~={RedRed}anxious=~ because we ~={orange}see death=~, the mother of all fears, in ~={orange}every corner=~.
 		- ⤷ The fear of death is what makes us cling to life.
 
-"*Those who are ~={RedRed}stiff=~ and ~={RedRed}rigid=~ are the disciples (Schüler) of death. Those who are soft and yielding are the disciples of life.*"
+"*Those who are ~={RedRed}stiff=~ and ~={RedRed}rigid=~ are the disciples (Schüler) of death. Those who are ~={LawnGreen}soft=~ and ~={LawnGreen}yielding=~ are the disciples of life.*"
+
+- Those who ~={ForestGreen}don't=~ ~={green}cling to life=~ therefore ~={LawnGreen}aren't a threat=~, because they ~={LawnGreen}aren't fearful=~ and wild animals ~={MediumTurquoise}don't see the need to attack them=~.
+- The ~={red}fear of death=~ manifests within us in ways that are ~={RedRed}very subtle=~.
+- Many people claim that they don't fear death, because they don't fear this imagined idea of what death is. 
+	- ⤷ But this mere idea rarely resembles truth, as we cannot possibly imagine what it is "*not to be*".
+	- There's something however that lies quite close to the experience of complete annihilation.
 
 ## Meditation
 - ich liebe <span style="color:hotpink">Meditation</span> 
