@@ -1036,7 +1036,12 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 - Our ~={orange}needs=~ come with ~={DeepSkyBlue}natural limits=~.
 - We ~={Crimson}only=~ need ~={DeepSkyBlue}enough food=~ to stay energized during the day, and we ~={Crimson}only=~ need ~={DeepSkyBlue}enough water=~ to stay hydrated.
 - ~={RedRed}Too much is harmful=~
-- Taoist sage Zhuangzi invigorates 
+- Taoist sage Zhuangzi invigorates this argument, by telling us about the mouse that only takes a bellyful of water when drinking at the pond. A mouse naturally refrains from over-encumbering itself, as drinking too much will take its toll on the body.
+- Nevertheless, humans often ~={RedRed}accumulate more=~ than they need. 
+- The main ~={Gold}reason=~ for this seems to be ~={RedRed}fear=~:
+	- ⟹ The fear ~={red}not having all this stuff=~
+	- ⤷ ~={RedRed}diminishes=~ ~={LightBlue}who they are=~
+	- It's an ego thing ⟹ having more means 
 
 ## Meditation
 - ich liebe <span style="color:hotpink">Meditation</span> 
