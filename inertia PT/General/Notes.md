@@ -2591,4 +2591,7 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 	- kennt man die Forschungsfrage
 	- vorher konstruieren, beim spazieren, wäsche aufhängen und andere dinge tun
 	- Dabei die Gliederung schon erstellt
-	- ⤷ man muss eben nur wissen, wie man an die Ac
+	- ⤷ man muss eben nur wissen, wie man an die Sache heran geht
+		- und das weiß ich eigentlich auch.
+		- ich habe es ja bei der schwerpunktsprüfung geschafft
+		- mein problem war und ist meine emotionale situation
