@@ -74,6 +74,15 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+## 26-04-17
+### Jamil 
+Hallo Jamil,
+
+es folgt ein längerer Text bzgl. TVH und meiner Unterrichtserfahrung.
+
+Ich erwarte nicht dass es alles gelesen wird.
+
+Vielleicht hilft es, um eine Entscheidung zu fällen bzw. Dementsprechend zu planen.
 
 ## 26-04-16
 ### 2 Jamil
