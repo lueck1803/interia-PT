@@ -24,6 +24,9 @@
 	- [ ] frische Luft
 	- [ ] mich und mein Leben im Griff haben
 - [ ] mich mal nach nem anderen file Browser (handy) umschauen 
+- [ ] ~={MediumSpringGreen}Nähgruppe/Club/Treff=~ suchen
+- [ ] ~={DeepSkyBlue}Strickgruppe/Club/Treff=~ suchen
+- [ ] Zeug vom Zettel an der 
 - [x] Stunden eintragen
 - [x] Spülmaschine 
 - [x] müll runter 
