@@ -2865,6 +2865,7 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 > [!caution] Arbeitszeit begrenzen
 > ⟹ ~={RedRed}Adrenalin=~
 > ⟹ ~={LawnGreen}Bereitschaft=~
-> ⟹ ~={DeepSkyBlue}wisst besser was ihr jetzt und da=~
+> ⟹ ~={DeepSkyBlue}wisst besser was ihr jetzt und dann am nächsten Tag schreiben sollt=~
+> ⟹ ~={RedRed}kein=~ herum ~={DeepPink}Geeiere=~ 
 
 
