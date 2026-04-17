@@ -2914,11 +2914,18 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 	3. ⤷ auf Mitte des Mausrads drücken 
 		- ⟹ wird ein neuer Tab geöffnet
 		- ⤷ in 5s 20 Tabs geöffnet
-	4. ⤷ lest ihr den Titel 
+	4. ⤷ lest ihr den ~={DeepSkyBlue}Titel=~ 
 		1. ⟹ ~={RedRed}nicht relevant=~
-			- ⤷ ~={LawnGreen}schließt=~ den Tab
-		2. ⤷ ~={MediumSpringGreen}Abstrakt=~ lesen
-			- 
+		2. ⤷ ~={LawnGreen}schließt=~ den Tab
+	5. ⤷ ~={MediumSpringGreen}Abstrakt=~ lesen
+		- Ihr ~={MediumSpringGreen}lest=~ es ~={Crimson}nicht=~
+		- Ihr ~={RedRed}überfliegt=~ es
+		- Ihr ~={DeepSkyBlue}scannt=~ das alles
+			- ~={DeepPink}Wortgruppen=~
+			- schaut auf ~={LimeGreen}bestimmte Wörter=~
+				- ~={LawnGreen}passt das?=~
+				- ~={red}passt das nicht?=~
+				- 
 
 
 

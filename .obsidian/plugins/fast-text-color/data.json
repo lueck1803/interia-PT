@@ -61,7 +61,7 @@
           "className": "ftc-color-builtin-RedRed"
         },
         {
-          "color": "#000000",
+          "color": "#ff2800",
           "id": "red",
           "keybind": "3",
           "italic": false,
@@ -85,7 +85,7 @@
             "state": "none",
             "index": 0
           },
-          "useCssColorVariable": true,
+          "useCssColorVariable": false,
           "colorVariable": "--color-red",
           "className": "ftc-color-builtin-red"
         },
