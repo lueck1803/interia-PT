@@ -2769,7 +2769,7 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 > 	- ⤷ Adrenalin
 > 	- ⤷ Klarheit, was geschrieben werden soll
 > 	- ⤷ Schnelligkeit
-> - ~={RoyalBlue}Literaturrecherche=~ mit Google Scholar
+> - Literaturrecherche mit ~={Gold}Google Scholar=~
 
 - 1,5h arbeiten 
 - 1,5h Pause machen
@@ -2908,7 +2908,17 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 > ⟹ ~={DeepSkyBlue}wisst besser was ihr jetzt und dann am nächsten Tag schreiben sollt=~
 > ⟹ ~={RedRed}kein=~ herum ~={DeepPink}Geeiere=~ 
 > ⟹ erhöht die Schnelligkeit
-
+- Literaturrecherche mit ~={Gold}Google Scholar=~
+	1. Suchbegriffe eingeben
+	2. ⤷ 20 Suchergebnisse
+	3. ⤷ auf Mitte des Mausrads drücken 
+		- ⟹ wird ein neuer Tab geöffnet
+		- ⤷ in 5s 20 Tabs geöffnet
+	4. ⤷ lest ihr den Titel 
+		1. ⟹ ~={RedRed}nicht relevant=~
+			- ⤷ ~={LawnGreen}schließt=~ den Tab
+		2. ⤷ ~={MediumSpringGreen}Abstrakt=~ lesen
+			- 
 
 
 
