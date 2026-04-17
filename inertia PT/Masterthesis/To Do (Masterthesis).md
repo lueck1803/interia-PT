@@ -266,7 +266,7 @@ $$
 # <span style="font-size:100%;color:LimeGreen;">Latex Formel Sammlung</span>
 - $Q_L(T)=\frac{\Braket{\mathcal{O}_L^2}_L^2}{\Braket{\mathcal{O}_L^4}_L}$ 
 - $\Braket{\dots}_L$ 
-- $\mathcal{H}_{\text{Ising}}=-\sum_{l\ne l'}^{} J_{ll'} S_{l}S_{l'}-H\sum_{l}^{}S_{l}$ \limits
+- $\mathcal{H}_{\text{Ising}}=-\sum_{l\ne l'}^{} J_{ll'} S_{l}S_{l'}-H\sum_{l}^{}S_{l}$ 
 - $\mathcal{H}_{\text{Ising}}=-\sum\limits\limits_{l\ne l'}^{} J_{ll'} S_{l}S_{l'}-H\sum\limits_{l}^{}S_{l}$ 
 - $\sum\limits_{i=1}^{N}$ 
 
