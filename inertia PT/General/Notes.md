@@ -75,6 +75,148 @@ Kind regards
 Lukas Walter 
 # Nachrichten an Leute
 ## 26-04-17
+### Nadine 
+Sehr nett von dir 🥰🫂🙏.
+
+Das ist Problem wohnt mir ja inne.
+Da ist niemand anderes für verantwortlich.
+Die letzten 3 Wochen hast du mich ja auch nicht "abgelenkt".
+
+Gut ich war halt leider echt lange krank nach Kanonenfieber und auch noch so komisch krank.
+
+Hab schlecht geschlafen und bin emotional wieder durcheinander gekommen.
+
+Aber das ist nicht deine Verantwortung.
+
+Du hast es ja letztes Jahr als du deine Prüfungen hattest und auch in der Zeit als du deine Thesis geschrieben hast, auch geschafft dich nicht ablenken zu lassen. 
+
+Prokrastination ist ein emotionales Problem.
+
+Und mir hat das jetzt schon geholfen mich zu motivieren und zu aktivieren.
+
+Wieder etwas worauf ich mich freuen kann, wofür es sich lohnt jetzt bis Dienstag noch mal alles zu geben und das aufzuholen was ich die letzten Monate und Jahre nicht geschafft habe🤷‍♂️.
+
+Ich hatte aber auch keine Perspektive.
+Nix worauf ich hinarbeiten kann, da ich das Gefühl hatte, dass es eh sinnlos ist. 
+Da ich intrinisch und von meinem sein her nicht zu Dingen in der Lage bin, ich mich nicht auf mich und meinen Körper verlassen kann.
+
+Und ich das wichtigste verloren habe.
+
+Alle träume sinnlos sind, da ich sie eh nicht umsetzen kann und auch nicht umsetzen werde, da das einfach so eine Eigenschaft von mir ist. 
+
+Ich habe zu sehr in meinem Kopf, meiner Vorstellung und Träumen gelebt. Worunter ich so extrem gelitten habe. 
+Und Arooj dann ja auch.
+Ich mir so einen Druck gemacht habe und dadurch noch paralysierter wurde.
+
+Das Arooj darunter gelitten hat und mir Vorwürfe gemacht hat, hat es für mich nur noch schlimmer gemacht.
+
+Es wurde alles zur selbsterfüllenden Prophezeiung.
+
+Dabei weiß ich aus Erfahrung, dass ich ihn kurzer Zeit viel schaffen. Kann.
+
+Warum es sonst nicht geht/ging und wie ich es triggern kann.
+Daran leide Ich ja schon seit mindestens 15 Jahren. 
+
+Ich wollte unbedingt davon los kommen, dass ich Angst brauche, um so viel zu schaffen.
+
+Aber Angst ist wohl bis heute mein erstes und bestes ADHS Medikament...🤷‍♂️😓😵‍💫
+
+Ich hasse es🤷‍♂️.
+Ich wollte es für die Masterarbeit änders machen. 
+
+Habe ich mir nach meiner Schwerpunktsprüfung '21 geschworen.
+
+Aber durch den Druck den ich mir damit gemacht habe, habe ich alles nur schlimmer gemacht und ich bin erst so abgestürzt.
+
+Ich musste es aber🤷‍♂️ sonst hätte ich so viel nicht erfahren.
+
+Am meisten tut mir dabei leid, dass ich Arooj darunter doch verloren habe🤷‍♂️😓😢😭.
+
+Obwohl ich so viel getan habe. 
+
+Ich vermisse sie. Emotional nicht mehr so sehr.
+
+Meine Limerenz ist auf 0%.
+
+Aber kognitiv, also bewusst und rational vermisse ich sie schon. 
+
+Ich schätze sie wirklich sehr. Und das tut mir am meisten leid dass sie da so ein falsches Bild von mir hat🤷‍♂️. Das ist mir auch extrem unverständlich. Emotional ist es aber OK. 
+
+Ich schätze ihre vielen Qualitäten die im kleinen liegen.
+Dass wir uns so gewohnt und vertraut waren. 
+Die meiste Zeit so wertschätzend und gegenseitig unterstützend.
+Die vielen gemeinsamen Interessen.
+
+Ich hätte wirklich so gerne mit ihr zusammen genäht.
+
+Ich wollte halt endlich mal meine Blockade überwinden.
+Herausfinden was das Problem ist und wie ich es lösen kann.
+
+Ich war ja nicht dazu in der Lage solche Dinge zu tun. 
+
+Und sie wusste dass ich auf dem Weg bin das zu ergründen und zu verstehen.
+
+Sie war bei meinem Diagnose Prozess dabei. 
+Wusste was ich da selbst alles gestemmt, erreicht und mir gegen widerstände erkämpft habe.
+Sie hat auch meine Entwicklung gesehen.
+Das war am Anfang halt schleichend.
+Gab auch viel zu verarbeiten und zu ergründen.
+
+Und sie wusste was ihr Umgang mit mir macht in solchen Situationen, die sie so ohne Möglichkeit es zu bremsen eskalieren lässt.
+
+Gut, sie hat nunmal auch ihre troubles.
+
+Ich hätte jedenfalls gerne zusammen mit ihr was geplant und genäht.
+
+Ich glaube aber auch dass es von ihrer Seite aus gar nicht möglich gewesen wäre. 
+Habe ich in Vergangenheit schon erlebt, wenn ich etwas mit ihr zusammen machen wollte.
+Sie hat es nicht so mit Kooperation und gemeinsam Entscheidungen treffen.
+Sie kommt mit Kritik, Gegenvorschlägen und gemeinsam abwägen manchmal nicht so gut klar. 
+
+Haben mir aber auch schon andere berichtet. Zb Marietta bzgl PMA.
+
+Und ich habe es bei ihren Proben für ihre Auftritte gemerkt.
+Wenn sie mit anderen "kooperiert" hat. Eigentlich muss schon größtenteils das gemacht werden was sie sagt und will.
+Ansonsten wird's auch sehr schnell kritisch.
+Sie hat auch echt schnell negative Meinungen über Leute. 
+
+Das habe ich ja schon häufiger in vielen Aspekten über meine lange Beobachtungszeit die ich mit ihr hatte, erlebt.
+
+Das Problem hat sie ja auch mit ihren "Freunden". 
+Da gab's regelmäßig Phasen mit Kontaktabbruch.
+
+Ich hab diese Befürchtungen ja auch in der Zukunft gehabt, wie es mit Kindern wäre und wenn wir uns im Ort aus dem ich komme engagieren werden.
+
+Ich wusste aus meiner Erfahrung mit den Nachbarn und der AkaFlieg, dass ich wenn sich bei ihr nichts ändert da extrem viel Moderationsarbeit im Hintergrund mit ihr und auch offen zwischen ihr und anderen haben werde. 
+
+Ich hab es ja zu letzt '24 gesehen als sie kurz davor war extrem stress mit ihrem Büro Partner zu bekommen.
+
+Da habe ich auch viel Moderationsarbeit leisten müssen und sie beraten.
+
+Das wäre echt eskaliert.
+
+Sie ist dann ja in einer Nacht und Nebelaktion in ein anderes Büro. Was sie nur mit der Frau abgesprochen hat die mit ihr in dem Büro jetzt ist. 
+
+Das sind alles Dinge an denen ich mit ihr über Jahre gearbeitet habe. 
+
+Aber im Endeffekt so richtig gefruchtet hat es nicht.
+Es ist leicht besser geworden.
+Aber eine innere Erkenntnis, dass sie da ein Problem hat...
+
+Ich denke wirklich dass es etwas narzisstisches ist.
+Eine narzisstische Persönlichkeitsstörung vom verdeckten Typ.
+
+Da kann man nur etwas gegen machen, wenn man es akzeptiert, anerkennt und damit dann aktiv selbstreflektierend und offen umgeht.
+
+Es ist daher gut dass es vorbei ist. 
+Denn ich hab da tatsächlich zu viel Energie mit verschwendet die letzten 12 Jahre. 
+
+Es war nicht ich der Energie gekostet hat. Das habe ich leider am Ende geglaubt.
+
+Ich kenne meine Baustellen und aufgrund dieser habe ich so darunter gelitten.
+
+Ich bin zum Glück so weit dass ich mir wieder eine Zukunft und dann auch eine Beziehung, Partnerschaft und Familie vorstellen kann.
+
 ### Jamil 
 Hallo Jamil,
 
