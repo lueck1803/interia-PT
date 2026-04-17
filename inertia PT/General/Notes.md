@@ -2796,4 +2796,10 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 	- Wenn du eine These hast, dann musst du dir vorher überlegen: 
 		- ~={LimeGreen}Wie strukturiere ich die Arbeit, um diese These argumentativ bestmöglich zu untermauern?=~
 		- Oder wenn es eine ~={Gold}Forschungsfrage=~ ist, überlegst du dir, ~={DeepPink}welche Gliederung eignet sich am besten dafür, um diese Forschungsfrage bestmöglich zu beantworten?=~
-		- Wenn du gar keine Ahnung
+		- Wenn du ~={RedRed}gar keine Ahnung von all dem=~ hast:
+			- Dann setzt du dich ~={RedRed}nicht=~ ~={orange}vor den Rechner und verbringst dort 8h=~.
+			- sondern dann lädst du dir irgendwelche YT Videos runter oder hörst dir YT Videos an.
+			- wie man das macht, um einen ~={DeepPink}groben Eindruck=~ zu bekommen.
+			- Dann ~={RedRed}hörst du dir das an=~ ~={DeepSkyBlue}beim Wäsche aufhängen=~!
+			- Es gibt so viele Tätigkeiten die die Leute tagsüber machen, anstatt Musik zu hören, hör dir doch einfach diesen Kram an, dann ~={DarkViolet}sparst du Zeit=~, dann ist das alles schneller. 
+- ⤷ Wenn du deinen Computer an machst, dann hast du schon alles parat und kannst 
