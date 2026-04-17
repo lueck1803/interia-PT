@@ -2949,6 +2949,10 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 	- ⤷ Was ist überhaupt richtig??
 	- Ein Mensch der mit der ~={Gold}Tastatur geübt=~ ist, kann ~={LawnGreen}halb so schnell schreiben=~, ~={DeepSkyBlue}wie er reden=~ kann
 	- ⤷ nur noch ~={LawnGreen}Feinjustage=~
+	- Auf ~={MediumTurquoise}Rechtschreibung=~ prüfen lassen
+	- ~={MediumSpringGreen}Übersetzungen=~, wenn man die ~={Magenta}Sprache kann=~
+	- ~={RedRed}⟹=~Man merkt es bei den Texten
+		- Prompt 
 
 
 
