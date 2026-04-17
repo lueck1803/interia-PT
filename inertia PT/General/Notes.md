@@ -2802,4 +2802,9 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 			- wie man das macht, um einen ~={DeepPink}groben Eindruck=~ zu bekommen.
 			- Dann ~={RedRed}hörst du dir das an=~ ~={DeepSkyBlue}beim Wäsche aufhängen=~!
 			- Es gibt so viele Tätigkeiten die die Leute tagsüber machen, anstatt Musik zu hören, hör dir doch einfach diesen Kram an, dann ~={DarkViolet}sparst du Zeit=~, dann ist das alles schneller. 
-- ⤷ Wenn du deinen Computer an machst, dann hast du schon alles parat und kannst 
+- ⤷ Wenn du deinen Computer an machst, dann hast ~={MediumSpringGreen}du schon alles parat=~ und ~={DeepSkyBlue}kannst es runter schreiben!=~
+- Die ~={Crimson}einschränkende Sache=~:
+	- du musst dazu ~={MediumTurquoise}mindestens 10 Studien gelesen haben=~, um überhaupt erstmal zu verstehen, was in diesem Wissenschaftsbereich überhaupt vor sich geht
+	- oder du musst ein ~={RoyalBlue}philosophisches Werk gelesen=~ haben
+	- ⤷ während dem Lesen markieren und kommentieren, dann musst du nachher nur noch durch blättern und 
+	- oder wie in meinem Fall Messungen, Simulationen, Auswertungen  gemacht und Code geschrieben haben.
