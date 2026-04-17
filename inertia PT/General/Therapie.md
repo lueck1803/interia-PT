@@ -968,6 +968,7 @@ https://youtu.be/GJBotFAbxDk?is=cWNX1cUWkRjb1BpC
 - ⤷ so that the ~={LawnGreen}wind=~ of the universe ~={green}keeps pushing ourselves forward=~ 
 ### 2) <span style="font-size:100%;color:red;">Don't</span> <span style="font-size:100%;color:MediumSpringGreen;">over burden</span> yourself 
 "*Those who~={yellow} stand on tiptoes=~ do ~={orange}not stand firmly=~. Those who ~={yellow}rush ahead=~ ~={orange}don't get very far=~. Those who ~={yellow}try to outshine=~ others ~={orange}dim their own lights=~.*"
+
 - people are willing to ~={Gold}push themselves=~ ~={red}too far=~ 
 - ~={Gold}pushing boundaries=~ ~={green}isn't wrong in itself=~, as it's the ~={LawnGreen}way to grow.=~
 	- If we look at strength training
