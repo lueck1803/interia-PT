@@ -155,7 +155,10 @@ $$
 		- renormalization group (nicht im Vortrag)
 			- nochmal verstehen ⟹ den ~={DeepPink}abgetippten Wikiartikel=~ 
 			- Kommen ~={RedRed}durch die RG=~ die Fixpunkte in das System oder sind die nicht schon da? 
-			- ⤷ also 
+			- ⤷ also der ~={Tomato}Fixpunkt um den Phase transition=~ point ist doch eigentlich immer da?
+			- ⟹ Skaleninvarianz am phase transition point
+			- ⤷ deshalb ~={LawnGreen}funktionieren=~ solche Sachen wie die Analyse des Binder Cumulant
+		- Für die Theorie dazu einfach nach den VL von ~={Magenta}Prof. Sutapa Roy =~richten https://www.youtube.com/results?search_query=Dynamics+of+Confined+Fluids+close+to+Phase+Transitions+%7C+Prof+Sutapa+Roy+%7C+
 - lammps 
 1. titel + abstract
 2. create simulation programm in den anhang
