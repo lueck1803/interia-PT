@@ -2826,5 +2826,10 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 		- Es geht darum das ~={MediumSpringGreen}hochwertig=~ 
 		- und ~={blue}zeiteffizient=~ zu machen
 		- ~={RedRed}⤷=~ jaaa ich weiß doch... mit der ~={Orchid}Einstellung habe ich ja IMMER gelebt=~ aber ich habe mich halt auch ~={Crimson}ständig gestresst=~ und ~={Tomato}fertig gemacht=~.
-		- 
+		- Du willst ja deine restliche Lebenszeit auch nutzen.
+			- ~={RedRed}⤷=~ joa... welche Lebenszeit... es war eher Leidenszeit... und nutzen... überleben
+- ~={Magenta}Text to Speech Programm=~
+	- Speist den Text ein
+	- dann hört man sich das ganze an. Wieder beim Wäsche aufhängen oder wobei auch immer
+	- ⤷ hat zino ja auch gemacht.
 
