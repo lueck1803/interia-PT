@@ -1,17 +1,14 @@
 # unsortiert
 - [ ] ~={DeepSkyBlue}ADHS Event=~ im Mai anmelden
 - [ ] simon nach seinen Folien fragen 
-- [ ] bei den Faulbäumen vorbei gehen 
-	- ⟹glaube die stehen am Weg hinter der Eissporthalle 
 - [ ] Vorderrad Bremse checken/einstellen/tauschen 
 - [ ] Klingel checken
 - [ ] mit Benno sprechen 
 - [ ] Briefkasten leeren 
-- [ ] Video von Einzelgänger zu lao tzu schauen 
 - [ ] meditieren 
-- [ ] Nachricht an jamil abschicken 
 - [ ] Lisa mank SMS schreiben
 - [ ] tägliches Mantra aufräumen 
+- [ ] Spülmaschine 
 - [ ] ~={Crimson}Wie schaffe ich es immer aroused zu sein?=~
 	- [ ] Angst 
 	- [ ] Sport 
@@ -26,9 +23,15 @@
 - [ ] mich mal nach nem anderen file Browser (handy) umschauen 
 - [ ] ~={MediumSpringGreen}Nähgruppe/Club/Treff=~ suchen
 - [ ] ~={DeepSkyBlue}Strickgruppe/Club/Treff=~ suchen
-- [ ] Zeug vom Zettel an der 
+- [ ] ~={green}Sachen auf die ich Lust=~ habe, die mir Freude machen vom Zettel an der abschreiben in Therapie
+- [ ] staubsaugen
+- [ ] Küche wischen
+- [x] bei den Faulbäumen vorbei gehen 
+	- ⟹glaube die stehen am Weg hinter der Eissporthalle 
+	- ⟹gibts keine Faulbäume ~={Crimson}⟹=~ das ist ein ~={Teal}gewöhnlicher Spindelstrauch=~
+- [x] Video von Einzelgänger zu lao tzu schauen 
+- [x] Nachricht an jamil abschicken 
 - [x] Stunden eintragen
-- [x] Spülmaschine 
 - [x] müll runter 
 - [x] ~={Crimson}Tisch aufräumen!=~
 - [x] Wasserkocher entkalken 
@@ -57,8 +60,6 @@
 - [ ] in vodafone konto einloggen
 - [x] Reifen aufpumpen
 - [x] Einkaufswagen wegbringen
-- [ ] staubsaugen
-- [ ] Küche wischen
 - [x] Tastatur wischen
 - [x] Gitarre wischen
 - [x] Küche aufräumen
