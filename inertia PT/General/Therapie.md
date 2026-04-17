@@ -107,7 +107,7 @@ A-->B-->C-->D-->A
 	- bzw ein ganzes Album von ~={purple}Bloody Valkyria=~
 - Arooj hat mich behandelt wie Dreck, als wäre ich böse und manipulativ 
 - ~={Crimson}Limerenz=~ zu Arooj beenden 
-- negative Gedanken:
+- ~={DeepSkyBlue}negative Gedanken=~:
 	- ~={LawnGreen}anschauen=~ um sie loszuwerden 
 		- anschauen und wahrnehmen 
 		- nicht darin verlieren 
@@ -267,14 +267,11 @@ flowchart TB
 - Das zeigt mir auch wieder einen Punkt warum ich mich mich doch lieber fern von Arooj, ihrer Familie und dieser Kultur des Zwietrachts halten möchte.
 
 - Es ist aber auch mal genug dass ich Aroojs Fehlverhalten und mein Leid darunter klein rede und sie in Schutz nehme.
-
-Sie nimmt mich nicht in Schutz 
+	- ⤷ Sie nimmt mich nicht in Schutz 
 
 # Issues
 - Vom <span style="font-size:100%;color:gold;">"Butterfly effect Denken"</span> wegkommen.
-- 
-
-Das ist  seit Jahren ein großes Problem von mir
+- Das ist  seit Jahren ein großes Problem von mir
 # Kommunikation
 - use <span style="color:red;font-size:100%;">elicitation</span>: make statements instead of questions ⟹if the person needs to correct you, it gives you more information than by a question and more willingly/without any pressure 
 	- need to <span style="font-size:100%;color:red;">correct</span> a record 
