@@ -2970,7 +2970,12 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 			- ⤷ musst jede einzelne Studie bei Google Scholar eh erstmal suchen
 			- ~={RedRed}⤷ Was bringt dir das?=~ dann gibt direkt den Suchbegriff ein
 			- Manchmal denkt es sich die Referenzen komplett aus und Manchmal ~={orange}gibts die Studien schon=~, aber der ~={MediumTurquoise}Name=~ ist ~={RedRed}falsch=~ oder die ~={blue}Autoren=~ sind ~={RedRed}falsch=~
-	- ⟹ Wenn die Arbeit halbwegs taugen soll, dann bringt Chat
+	- ⟹ Wenn die Arbeit halbwegs taugen soll, dann bringt ChatGPT nichts außer für jemanden, der sich mit dem ~={green}Schreibprozess=~ ~={red}extrem schwer tut=~ 
+	- ⟹wird aber auch ~={RedRed}keine=~ ~={LimeGreen}Denkarbeit=~ ~={Tomato}abnehmen=~
+		- ⤷ reine Verschriftlichung
+		- ein bisschen wie ein Diktiergerät. Das Diktiergerät macht aber keine Fehler... xD und Halluziniert
+		- Für ~={MediumTurquoise}allgemeine Informationen=~
+	- ⟹ ~={RedRed}Nicht=~ ~={DeepPink}zitierfähig=~
 
 
 
