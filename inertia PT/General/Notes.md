@@ -85,9 +85,9 @@ Da bin ich ohne richtiges Briefing über die Struktur der Unterrichtsorganisatio
 
 Ich hab dann die Lehrpläne studiert und das dortige Arsenal durchstöbert.
 
-Ich habe mir beim Kollegium die Infos zusammen gesucht die ich brauchte (wo ich was finde) und die ich zum Teil auch erst mit der Zeit bekommen habe. Ich habe dann auch erst spät da ich es selbst herausgefunden habe mit der Fachbereichsleitung für Naturwissenschaften gesprochen. Die wurden damit auch nur von der Schulleitung nicht vorab informiert. 
+Ich habe mir beim Kollegium die Infos zusammen gesucht die ich brauchte (wo ich was finde) und die ich zum Teil auch erst mit der Zeit bekommen habe. Ich habe dann auch erst spät da ich es selbst herausgefunden habe mit der Fachbereichsleitung für Naturwissenschaften gesprochen. Die wurden damit auch nur von der Schulleitung nicht vorab informiert und waren selbst auch im dunklen wie lange der Lehrer weg ist. Der Bereichsleiter der Physik war zu dieser Zeit nicht da.
 
-Ich habe auch viel Aufbauarbeit und Dialogarbeit geleistet, so dass ich den Stand der Klasse herausgefunden habe. 
+Ich habe dann viel Aufbauarbeit und Dialogarbeit geleistet, so dass ich den Stand der Klasse herausgefunden habe. 
 
 Ich habe dann auch mit meinen Mitteln und dem Material was ich erstellt habe, in kurzer Zeit viele Wochenunterrichtsausfall aufgeholt.
 Die Vorbereitungen, die Orga und die Gespräche mit dem Kollegium habe ich in meiner Freizeit gemacht.
