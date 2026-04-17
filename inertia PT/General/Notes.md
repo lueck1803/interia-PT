@@ -2774,6 +2774,7 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 > - Das ~={MediumViolet}Schreiben selbst=~ 
 > 	- ⤷ das Verbringen vor dem Bildschirm 
 > 	- ⤷ ist dann nur noch ~={RedRed}das Runterschreiben=~
+> - möglichst ~={red}Keine=~ ~={pink}LLMs=~ benutzen
 
 - 1,5h arbeiten 
 - 1,5h Pause machen
@@ -2965,7 +2966,11 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 		- ~={MediumSpringGreen}ChatGPT=~ 
 			- nennt dir 10 Studien
 			- 5 oder 7 ~={RedRed}hat er sich ausgedacht=~
-			- ⤷ dann musst du nachhake
+			- ⤷ dann musst du nachhaken
+			- ⤷ musst jede einzelne Studie bei Google Scholar eh erstmal suchen
+			- ~={RedRed}⤷ Was bringt dir das?=~ dann gibt direkt den Suchbegriff ein
+			- Manchmal denkt es sich die Referenzen komplett aus und Manchmal ~={orange}gibts die Studien schon=~, aber der ~={MediumTurquoise}Name=~ ist ~={RedRed}falsch=~ oder die ~={blue}Autoren=~ sind ~={RedRed}falsch=~
+	- ⟹ Wenn die Arbeit halbwegs taugen soll, dann bringt Chat
 
 
 
