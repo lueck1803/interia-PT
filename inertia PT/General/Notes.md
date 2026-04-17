@@ -79,13 +79,13 @@ Lukas Walter
 ### 2 Jamil
 Ich würde auch gerne, wenn es möglich ist, jemandem eine zeitlang über die Schulter schauen.
 
-An der Lio habe ich zwar auch für 2 Monate eine Physik Klasse komplett ersetzt, da war ein Lehrer länger ausgefallen. Bevor ich die klasse übernahm, hatte auch schon eine Weile gar kein Unterricht statt gefunden.
+An der Lio habe ich zwar auch für 2 Monate eine Physik Klasse komplett ersetzt, da war ein Lehrer länger ausgefallen. Bevor ich die Klasse übernahm, hatte auch schon eine Weile gar kein Unterricht statt gefunden.
 
-Da bin ich auch ohne richtiges Briefing über die Struktur an der Schule ins kalte Wasser geworfen worden.
+Da bin ich ohne richtiges Briefing über die Struktur der Unterrichtsorganisation (dass zb an einem Tag Optik und am anderen Tag E-Lehre gemacht wurde) an der Schule ins kalte Wasser geworfen worden.
 
 Ich hab dann die Lehrpläne studiert und das dortige Arsenal durchstöbert.
 
-Mir beim Kollegium die Infos zusammen gesucht die ich brauchte und zum Teil erst mit der Zeit kamen.
+Ich habe mir beim Kollegium die Infos zusammen gesucht die ich brauchte (wo ich was finde) und die ich zum Teil auch erst mit der Zeit bekommen habe. Ich habe mit der 
 
 Ich habe auch viel Aufbauarbeit und Dialogarbeit geleistet, so dass ich den Stand der Klasse herausgefunden habe. 
 
