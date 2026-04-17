@@ -135,7 +135,7 @@ $$
 - [ ] reeval the exponents
 - [ ] changed that `nbins` is dependend on the width of the simulation box factor `nbins=boxwidth*0.5` before 0.3 derived from 600 bins for 224k particles with width ~ 2000  
 
-# Thesis
+# <span style="font-size:100%;color:Crimson;">Thesis</span>
 ~={LimeGreen}Wie strukturiere ich die Arbeit, um diese These argumentativ bestmöglich zu untermauern?=~
 ~={DeepPink}Welche Gliederung eignet sich am besten dafür, um diese Forschungsfrage bestmöglich zu beantworten?=~
 ## tasks
@@ -263,7 +263,9 @@ $$
 				- here is no quality management or overlapping / collision management necessary
 
 
-## latex
+# <span style="font-size:100%;color:LimeGreen;">Latex Formel Sammlung</span>
+- $Q_L(T)=\frac{\Braket{\mathcal{O}_L^2}_L^2}{\Braket{\mathcal{O}_L^4}_L}$ 
+- $\Braket{\dots}_L$ 
 
 # Masterplot
 multiply the data of the observable (binder cumulant, order parameter,  susceptibility) with the scaling factors of the observable. $L^{\zeta_{\mathcal{O}}/\nu}$ 
