@@ -2770,6 +2770,8 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 > 	- ⤷ Klarheit, was geschrieben werden soll
 > 	- ⤷ Schnelligkeit
 > - Literaturrecherche mit ~={Gold}Google Scholar=~
+> - Das Schreiben selbst
+> 	- das Verbringen vor dem Bildschirm ist dann nur noch ~={RedRed}das Runterschreiben=~
 
 - 1,5h arbeiten 
 - 1,5h Pause machen
@@ -2925,7 +2927,14 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 			- schaut auf ~={LimeGreen}bestimmte Wörter=~
 				- ~={LawnGreen}passt das?=~
 				- ~={red}passt das nicht?=~
-				- 
+	6. ⤷ ~={Magenta}wegklicken=~, was ihr nicht mehr braucht
+	7. ⤷ ~10 tabs übrig 
+		- ⟹ damit könnt ihr schonmal etwas anfangen
+		- ⟹ Ihr habt ja so oder so die Struktur im Kopf
+		- ⤷ ladet die euch runter
+		- ⤷ Text-to-speech
+- Das Schreiben selbst, das Verbringen vor dem Bildschirm ist dann nur noch ~={RedRed}das Runterschreiben=~
+
 
 
 
