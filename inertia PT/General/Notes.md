@@ -2810,12 +2810,21 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 		- ~={Crimson}⤷=~ *das habe ich ja immer fleißig beim Paper lesen gemacht*
 		- ~={RedRed}⤷ =~oder wie in meinem Fall Messungen, Simulationen, Auswertungen  gemacht und Code geschrieben haben.
 	- Durch diese ~={Gold}Zitat Kompilation=~ hast du den ~={LightBlue}exegetischen Teil=~ schonmal durch
+
+> [!info] Exegese
+> Exegese (griech. "Auslegung, Erläuterung") ist die ==wissenschaftliche Interpretation und Erklärung von Texten, primär biblischer oder juristischer==. Ziel ist es, durch historische, literarische und theologische Methoden herauszuarbeiten, was der Verfasser in seiner Situation dem Empfänger mitteilen wollte. Sie unterscheidet sich von der Eisegese, bei der eigener Sinn in Texte hineingelesen wird
+
 - Man kann ~={red}in der Bahn lesen=~.
 	- ~={Crimson}⤷ =~gut habe ich immer gemacht.... mein problem war immer ~={RedRed}meine Erkrankung=~...
 	- anstatt in der Bahn auf TikTok zu scrollen kannst du auch lesen. 
 	  ~={RedRed}⤷=~ Wenn man sich konzentrieren kann
-	- 
+	- Wenn du nicht geübt bist in der Bahn zu lesen, dann wirst du halt nach der 10. Bahnfahrt die Übung darin haben
+		- ~={RedRed}⤷=~ außer man hat ADHS und ist sonst wie psychisch krank
+		- ich habe ja wirklich massiv darunter gelitten nicht im hier und jetzt sein zu können 
+		- immer traurig und bereuend in der Vergangenheit oder ängstlich in der Zukunft zu sein.
+	- ⤷ ~={green}Du sparst unglaublich viel Zeit=~
+		- Es geht darum das ~={MediumSpringGreen}hochwertig=~ 
+		- und ~={blue}zeiteffizient=~ zu machen
+		- ~={RedRed}⤷=~ jaaa ich weiß doch... mit der ~={Orchid}Einstellung habe ich ja IMMER gelebt=~ aber ich habe mich halt auch ~={Crimson}ständig gestresst=~ und ~={Tomato}fertig gemacht=~.
+		- 
 
-
-> [!info] Exegese
-> Exegese (griech. "Auslegung, Erläuterung") ist die ==wissenschaftliche Interpretation und Erklärung von Texten, primär biblischer oder juristischer==. Ziel ist es, durch historische, literarische und theologische Methoden herauszuarbeiten, was der Verfasser in seiner Situation dem Empfänger mitteilen wollte. Sie unterscheidet sich von der Eisegese, bei der eigener Sinn in Texte hineingelesen wird
