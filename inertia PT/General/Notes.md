@@ -2806,5 +2806,16 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 - Die ~={Crimson}einschränkende Sache=~:
 	- du musst dazu ~={MediumTurquoise}mindestens 10 Studien gelesen haben=~, um überhaupt erstmal zu verstehen, was in diesem Wissenschaftsbereich überhaupt vor sich geht
 	- oder du musst ein ~={RoyalBlue}philosophisches Werk gelesen=~ haben
-	- ⤷ während dem Lesen markieren und kommentieren, dann musst du nachher nur noch durch blättern und 
-	- oder wie in meinem Fall Messungen, Simulationen, Auswertungen  gemacht und Code geschrieben haben.
+	- ⤷ ~={LawnGreen}während dem Lesen=~ ~={Orchid}markieren=~ und ~={pink}kommentieren=~, dann musst du nachher nur noch durch blättern und zitieren. 
+		- ~={Crimson}⤷=~ *das habe ich ja immer fleißig beim Paper lesen gemacht*
+		- ~={RedRed}⤷ =~oder wie in meinem Fall Messungen, Simulationen, Auswertungen  gemacht und Code geschrieben haben.
+	- Durch diese ~={Gold}Zitat Kompilation=~ hast du den ~={LightBlue}exegetischen Teil=~ schonmal durch
+- Man kann ~={red}in der Bahn lesen=~.
+	- ~={Crimson}⤷ =~gut habe ich immer gemacht.... mein problem war immer ~={RedRed}meine Erkrankung=~...
+	- anstatt in der Bahn auf TikTok zu scrollen kannst du auch lesen. 
+	  ~={RedRed}⤷=~ Wenn man sich konzentrieren kann
+	- 
+
+
+> [!info] Exegese
+> Exegese (griech. "Auslegung, Erläuterung") ist die ==wissenschaftliche Interpretation und Erklärung von Texten, primär biblischer oder juristischer==. Ziel ist es, durch historische, literarische und theologische Methoden herauszuarbeiten, was der Verfasser in seiner Situation dem Empfänger mitteilen wollte. Sie unterscheidet sich von der Eisegese, bei der eigener Sinn in Texte hineingelesen wird
