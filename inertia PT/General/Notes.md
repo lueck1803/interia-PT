@@ -2844,5 +2844,16 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 	- ~={MediumTurquoise}Tag frei=~ genommen die ~={purple}Arbeit zu schreiben=~
 	- Dann ~={Magenta}schreibt ihr nicht einfach drauf los=~
 	- Stellt euch einen ~={RedRed}Wecker=~ ~={MediumSpringGreen}bis wann ihr arbeiten =~ ~={RedRed}dürft=~ 
-	- Was dann nämlich passieren wird ist, es wird ~={LawnGreen}automatisch=~ einen artifiziellen ~={RedRed}Zeitdruck=~ geben ⟹ das ihr ~={RedRed}nicht=~ den ganzen Tag herum einern könnt
+	- Was dann nämlich passieren wird ist, es wird ~={LawnGreen}automatisch=~ einen artifiziellen ~={RedRed}Zeitdruck=~ geben 
+		- ⟹ das ihr ~={RedRed}nicht=~ den ganzen Tag herum einern könnt
+		- Denn ~={orange}irgendwann=~ ~={RedRed}ist Schluss=~
+			- spätestens 18 uhr
+			- am besten 15 Uhr
+			- xD xD total unrealistisch!
+		- ⤷ Danach ~={RedRed}dürft ihr nicht=~ ~={Tomato}arbeiten=~
+		- Was passiert, wenn ihr euch theoretisch bist 12 uhr nachts Zeit nehmt?
+			- Ihr habt ~={RedRed}zu viel Zeit=~
+			- die ~={red}ersten 3h=~ werden ~={DeepPink}Geeier sein=~
+			- es wird ~={RedRed}kein=~ ~={DeepSkyBlue}effizientes Arbeiten=~ sein
+	- ⤷ ~={Gold}Wenn=~ es dann 18 Uhr ist und ihr wollt weiter schreiben, dann schreibt ihr trotzdem nicht weiter, dann schreibt ihr nicht, erst am nächsten Tag wieder
 
