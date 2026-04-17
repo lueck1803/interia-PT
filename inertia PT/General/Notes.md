@@ -2793,4 +2793,7 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 		- und das weiß ich eigentlich auch.
 		- ich habe es ja bei der schwerpunktsprüfung geschafft
 		- mein problem war und ist meine emotionale situation
-	- 
+	- Wenn du eine These hast, dann musst du dir vorher überlegen: 
+		- ~={LimeGreen}Wie strukturiere ich die Arbeit, um diese These argumentativ bestmöglich zu untermauern?=~
+		- Oder wenn es eine ~={Gold}Forschungsfrage=~ ist, überlegst du dir, ~={DeepPink}welche Gliederung eignet sich am besten dafür, um diese Forschungsfrage bestmöglich zu beantworten?=~
+		- Wenn du gar keine Ahnung

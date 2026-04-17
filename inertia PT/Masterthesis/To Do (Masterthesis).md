@@ -136,7 +136,8 @@ $$
 - [ ] changed that `nbins` is dependend on the width of the simulation box factor `nbins=boxwidth*0.5` before 0.3 derived from 600 bins for 224k particles with width ~ 2000  
 
 # Thesis
-
+~={LimeGreen}Wie strukturiere ich die Arbeit, um diese These argumentativ bestmöglich zu untermauern?=~
+~={DeepPink}Welche Gliederung eignet sich am besten dafür, um diese Forschungsfrage bestmöglich zu beantworten?=~
 ## tasks
 1. video zu wissenschaftliche Abschlussarbeiten schauen
 2. Verlauf von vorherige Arbeiten zur Idee von meinem algo
