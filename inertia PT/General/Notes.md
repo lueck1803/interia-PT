@@ -2831,8 +2831,16 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 
 
 > [!attention] *Ungenutze Zeit* effizient nutzen
-> - ⟹ Während dem Wäsche machen, kochen, Sport, Spazieren, Bahnfahren...
-> ⟹ YT Videos oder Podcasts zu dem Thema hören
+> - ⟹ Während dem 
+> 	- Wäsche machen,
+> 	- kochen, 
+> 	- Sport,
+> 	- Spazieren,
+> 	- Gartenarbeit
+> 	- Bahnfahren...
+> - ⟹ YT Videos oder Podcasts zu dem Thema ~={RedRed}hören=~
+> - Dafür ~={DeepSkyBlue}Text-to-Speech Programme=~ nutzen
+> - Bahnfahrten und andere ~={DeepPink}Wartezeiten=~ ~={LawnGreen}zum Lesen nutzen=~
 
 
 - ~={Magenta}Text to Speech Programm=~
