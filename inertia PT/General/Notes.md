@@ -2770,8 +2770,9 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 > 	- ⤷ Klarheit, was geschrieben werden soll
 > 	- ⤷ Schnelligkeit
 > - Literaturrecherche mit ~={Gold}Google Scholar=~
-> - Das Schreiben selbst
-> 	- das Verbringen vor dem Bildschirm ist dann nur noch ~={RedRed}das Runterschreiben=~
+> - Das ~={MediumViolet}Schreiben selbst=~ 
+> 	- ⤷ das Verbringen vor dem Bildschirm 
+> 	- ⤷ ist dann nur noch ~={RedRed}das Runterschreiben=~
 
 - 1,5h arbeiten 
 - 1,5h Pause machen
@@ -2934,6 +2935,7 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 		- ⤷ ladet die euch runter
 		- ⤷ Text-to-speech
 - Das Schreiben selbst, das Verbringen vor dem Bildschirm ist dann nur noch ~={RedRed}das Runterschreiben=~
+- ChatGPT bringt einem geübten Ghostwriter eigentlich nichts
 
 
 

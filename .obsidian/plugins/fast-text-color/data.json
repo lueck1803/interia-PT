@@ -670,6 +670,35 @@
           "className": "ftc-color-builtin-DarkViolet"
         },
         {
+          "color": "#c815ff",
+          "id": "MediumViolet",
+          "keybind": "E",
+          "italic": false,
+          "bold": false,
+          "cap_mode": {
+            "states": [
+              "normal",
+              "all_caps",
+              "small_caps"
+            ],
+            "state": "normal",
+            "index": 0
+          },
+          "line_mode": {
+            "states": [
+              "none",
+              "underline",
+              "overline",
+              "line-through"
+            ],
+            "state": "none",
+            "index": 0
+          },
+          "useCssColorVariable": false,
+          "colorVariable": "--color-base-00",
+          "className": "ftc-color-builtin-MediumViolet"
+        },
+        {
           "color": "#ff1493",
           "id": "DeepPink",
           "keybind": "S",
