@@ -85,7 +85,7 @@ Da bin ich ohne richtiges Briefing über die Struktur der Unterrichtsorganisatio
 
 Ich hab dann die Lehrpläne studiert und das dortige Arsenal durchstöbert.
 
-Ich habe mir beim Kollegium die Infos zusammen gesucht die ich brauchte (wo ich was finde) und die ich zum Teil auch erst mit der Zeit bekommen habe. Ich habe mit der 
+Ich habe mir beim Kollegium die Infos zusammen gesucht die ich brauchte (wo ich was finde) und die ich zum Teil auch erst mit der Zeit bekommen habe. Ich habe dann auch erst spät da ich es selbst herausgefunden habe mit der 
 
 Ich habe auch viel Aufbauarbeit und Dialogarbeit geleistet, so dass ich den Stand der Klasse herausgefunden habe. 
 
