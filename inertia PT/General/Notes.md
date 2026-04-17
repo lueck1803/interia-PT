@@ -2952,7 +2952,20 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 	- Auf ~={MediumTurquoise}Rechtschreibung=~ prüfen lassen
 	- ~={MediumSpringGreen}Übersetzungen=~, wenn man die ~={Magenta}Sprache kann=~
 	- ~={RedRed}⟹=~Man merkt es bei den Texten
-		- Prompt 
+		- <u>Prompt:</u>  "Gehe ins Detail bezüglich ***X***"
+		- ⟹ Dann wird halt ~={red}irgendwas=~ zu X erzählt
+		- ⟹ ~={RedRed}keinen=~ ~={blue}Roten Faden=~
+		- ⟹ ~={red}nicht=~ ~={green}spezifisch und konkret=~
+			- ⤷ häufig nur ~={Tomato}Allgemeinplätze reproduziert=~
+			- ⟹ bringt nichts
+	- ~={purple}Quellenrecherche?=~
+		- benutze lieber ~={Gold}Google Scholar=~
+		- geht schneller
+		- ist korrekter und sicherer
+		- ~={MediumSpringGreen}ChatGPT=~ 
+			- nennt dir 10 Studien
+			- 5 oder 7 ~={RedRed}hat er sich ausgedacht=~
+			- ⤷ dann musst du nachhake
 
 
 
