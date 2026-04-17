@@ -2828,6 +2828,13 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 		- ~={RedRed}⤷=~ jaaa ich weiß doch... mit der ~={Orchid}Einstellung habe ich ja IMMER gelebt=~ aber ich habe mich halt auch ~={Crimson}ständig gestresst=~ und ~={Tomato}fertig gemacht=~.
 		- Du willst ja deine restliche Lebenszeit auch nutzen.
 			- ~={RedRed}⤷=~ joa... welche Lebenszeit... es war eher Leidenszeit... und nutzen... überleben
+
+
+> [!attention] *Ungenutze Zeit* effizient nutzen
+> - ⟹ Während dem Wäsche machen, kochen, Sport, Spazieren, Bahnfahren...
+> ⟹ YT Videos oder Podcasts zu dem Thema hören
+
+
 - ~={Magenta}Text to Speech Programm=~
 	- ⤷ hat zino ja auch gemacht.
 		- Er hat hat ja ein ~={RedRed}Abo abgeschlossen=~ bei dem einem ~={MediumSpringGreen}paper zusammen gefasst=~ und ~={pink}vorgelesen=~ werden.
@@ -2863,9 +2870,11 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 		- ~={RedRed}⤷=~ Dann ~={DeepPink}wisst=~ ihr ~={LawnGreen}noch besser=~ was ihr ~={DeepSkyBlue}am nächsten Tag schreiben wollt=~.
 
 > [!caution] Arbeitszeit begrenzen
+> ⟹ ~={Gold}Zeitdruck=~
 > ⟹ ~={RedRed}Adrenalin=~
 > ⟹ ~={LawnGreen}Bereitschaft=~
 > ⟹ ~={DeepSkyBlue}wisst besser was ihr jetzt und dann am nächsten Tag schreiben sollt=~
 > ⟹ ~={RedRed}kein=~ herum ~={DeepPink}Geeiere=~ 
+> ⟹ erhöht die Schnelligkeit
 
 
