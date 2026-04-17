@@ -2748,10 +2748,19 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 # Wissenschaftliche Abschlussarbeiten in kurzer Zeit schreiben
 
 
-> [!attention] Vorstrukturieren + K
+> [!attention] Vorstrukturieren + Kreativ Prozess
 > - Wenig Zeit vor dem PC
-> - Interessante Forschungsfrage
-> - 
+> - ~={blue}Interessante Forschungsfrage=~
+> - ~={LawnGreen}Ruhezeiten=~ sind extrem wichtig
+> 	- ⤷ Diese für die Sortierung des Gehirns nutzen
+> 	- ⤷ Strukturierung 
+> 	- ⤷ Kreativ Prozess
+> - ~={DeepPink}Gliederung=~ durchdenken ⟹Wie ~={LawnGreen}beantwortet=~ die Gliederung ~={MediumSpringGreen}am besten=~ meine ~={DeepSkyBlue}Forschungsfrage=~
+> - ~={RedRed}Arbeitszeit begrenzen=~
+> 	- ⤷ Zeitdruck
+> 	- ⤷ Adrenalin
+> 	- ⤷ Klarheit, was geschrieben werden soll
+> 	- 
 
 - 1,5h arbeiten 
 - 1,5h Pause machen
