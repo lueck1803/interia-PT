@@ -148,12 +148,21 @@ $$
 7. problematik!
 8. ausblick
 9. theorie - wirklich auf die Arbeit zu geschnitten
-10. titel + abstract
-11. create simulation programm in den anhang
-12. quellen
-13. zinos thesis lesen, um abzuchecken
-14. -> arbeit aritra schicken
-15. Vortrag
+	1. phase transition 
+	2. what are critical exponents 
+		- when are they relevant 
+		- universality
+		- renormalization group (nicht im Vortrag)
+			- nochmal verstehen ⟹ den ~={DeepPink}abgetippten Wikiartikel=~ 
+			- Kommen ~={RedRed}durch die RG=~ die Fixpunkte in das System oder sind die nicht schon da? 
+			- ⤷ also 
+- lammps 
+1. titel + abstract
+2. create simulation programm in den anhang
+3. quellen
+4. zinos thesis lesen, um abzuchecken
+5. -> arbeit aritra schicken
+6. Vortrag
 ## talk
 ### intro
 - what is active matter?
