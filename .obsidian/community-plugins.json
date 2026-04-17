@@ -16,5 +16,6 @@
   "line-commands",
   "table-editor-obsidian",
   "obsidian-git",
-  "dataview"
+  "dataview",
+  "obsidian-list-callouts"
 ]

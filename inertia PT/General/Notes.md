@@ -2747,6 +2747,12 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 
 # Wissenschaftliche Abschlussarbeiten in kurzer Zeit schreiben
 
+
+> [!attention] Vorstrukturieren + K
+> - Wenig Zeit vor dem PC
+> - Interessante Forschungsfrage
+> - 
+
 - 1,5h arbeiten 
 - 1,5h Pause machen
 - so ~={Crimson}wenig zeit vor dem Bildschirm wie möglich=~
@@ -2884,5 +2890,7 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 > ⟹ ~={DeepSkyBlue}wisst besser was ihr jetzt und dann am nächsten Tag schreiben sollt=~
 > ⟹ ~={RedRed}kein=~ herum ~={DeepPink}Geeiere=~ 
 > ⟹ erhöht die Schnelligkeit
+
+
 
 
