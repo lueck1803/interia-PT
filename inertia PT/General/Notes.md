@@ -2829,7 +2829,12 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 		- Du willst ja deine restliche Lebenszeit auch nutzen.
 			- ~={RedRed}⤷=~ joa... welche Lebenszeit... es war eher Leidenszeit... und nutzen... überleben
 - ~={Magenta}Text to Speech Programm=~
+	- ⤷ hat zino ja auch gemacht.
+		- Er hat hat ja ein ~={RedRed}Abo abgeschlossen=~ bei dem einem ~={MediumSpringGreen}paper zusammen gefasst=~ und ~={pink}vorgelesen=~ werden.
 	- Speist den Text ein
 	- dann hört man sich das ganze an. Wieder beim Wäsche aufhängen oder wobei auch immer
-	- ⤷ hat zino ja auch gemacht.
+	- Die ~={Tomato}Schwierigkeit=~ dabei ist, dass man ~={DeepPink}aufpassen muss=~, sonst ~={Tomato}versteht man es nicht=~.
+		- ~={LawnGreen}⤷=~ Dann ~={MediumSpringGreen}hörst=~ du es dir halt ~={MediumSpringGreen}dreimal=~ ~={MediumSpringGreen}an=~
+		- während du ~={MediumTurquoise}ganz andere Dinge machst=~ 
+- Schreib die Arbeit erst, wenn du 1a vorbereitet bist
 
