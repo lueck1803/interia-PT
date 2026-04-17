@@ -2836,5 +2836,13 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 	- Die ~={Tomato}Schwierigkeit=~ dabei ist, dass man ~={DeepPink}aufpassen muss=~, sonst ~={Tomato}versteht man es nicht=~.
 		- ~={LawnGreen}⤷=~ Dann ~={MediumSpringGreen}hörst=~ du es dir halt ~={MediumSpringGreen}dreimal=~ ~={MediumSpringGreen}an=~
 		- während du ~={MediumTurquoise}ganz andere Dinge machst=~ 
-- Schreib die Arbeit erst, wenn du 1a vorbereitet bist
+- ~={RedRed}Schreib=~ die Arbeit ~={RedRed}erst=~, wenn du ~={MediumTurquoise}1a vorbereitet bist=~
+	- ⤷ gut das bin ich ja jetzt definitiv!
+	- Und es ist ja auch ~={red}nur=~ das Proposal
+- Nochmal ~={RedRed}nicht=~ ~={orange}herum eiern=~
+	- es ist 9 uhr morgens
+	- ~={MediumTurquoise}Tag frei=~ genommen die ~={purple}Arbeit zu schreiben=~
+	- Dann ~={Magenta}schreibt ihr nicht einfach drauf los=~
+	- Stellt euch einen ~={RedRed}Wecker=~ ~={MediumSpringGreen}bis wann ihr arbeiten =~ ~={RedRed}dürft=~ 
+	- Was dann nämlich passieren wird ist, es wird ~={LawnGreen}automatisch=~ einen artifiziellen ~={RedRed}Zeitdruck=~ geben ⟹ das ihr ~={RedRed}nicht=~ den ganzen Tag herum einern könnt
 
