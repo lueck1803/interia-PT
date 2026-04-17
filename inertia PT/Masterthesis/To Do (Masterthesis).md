@@ -269,6 +269,8 @@ $$
 - $\mathcal{H}_{\text{Ising}}=-\sum_{l\ne l'}^{} J_{ll'} S_{l}S_{l'}-H\sum_{l}^{}S_{l}$ 
 - $\mathcal{H}_{\text{Ising}}=-\sum\limits\limits_{l\ne l'}^{} J_{ll'} S_{l}S_{l'}-H\sum\limits_{l}^{}S_{l}$ 
 - $\sum\limits_{i=1}^{N}$ 
+- \href{https://journals.aps.org/pre/abstract/10.1103/PhysRevE.98.030601#supplemental}{supplement material}
+- \url{https://journals.aps.org/pre/abstract/10.1103/PhysRevE.98.030601#supplemental}
 
 # Masterplot
 multiply the data of the observable (binder cumulant, order parameter,  susceptibility) with the scaling factors of the observable. $L^{\zeta_{\mathcal{O}}/\nu}$ 
