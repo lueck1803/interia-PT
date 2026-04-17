@@ -2746,6 +2746,7 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 - ich hab mich zu sehr gezwungen und druck gemacht ohne selbst daran zu glauben, aufgrund meiner Erfahrungen die ich gemacht habe. ich habe meine Erfahrungen zu meinen Glaubenssätzen gemacht
 
 # Wissenschaftliche Abschlussarbeiten in kurzer Zeit schreiben
+[ Wissenschaftliche Abschlussarbeiten in wenigen Tagen schreiben | Ratschläge eines Ghostwriters](https://www.youtube.com/watch?v=Q0WtySMMg-g&list=WL&index=31)
 
 
 > [!attention] Vorstrukturieren + Kreativ Prozess
@@ -2935,7 +2936,15 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 		- ⤷ ladet die euch runter
 		- ⤷ Text-to-speech
 - Das Schreiben selbst, das Verbringen vor dem Bildschirm ist dann nur noch ~={RedRed}das Runterschreiben=~
-- ChatGPT bringt einem geübten Ghostwriter eigentlich nichts
+
+- ~={MediumSpringGreen}ChatGPT=~ 
+	- ~={red}bringt=~ einem ~={MediumViolet}geübten=~ Ghostwriter eigentlich ~={RedRed}nichts=~
+	- ja kann Sachen verschriftlichen
+		- vielleicht wenn man selbst wenig schreibt, kann das helfen
+	- ~={RedRed}⤷=~ Wer aber geübt im Schreiben ist, für den ~={RedRed}dauert es viel länger=~ 
+		- sich irgendeinen ~={RedRed}mittelmäßigen Text=~ schreiben zu lassen
+		- und den dann ~={Magenta}umzuschreiben=~
+	- ⤷ musst den TEx
 
 
 
