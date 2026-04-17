@@ -89,13 +89,14 @@ Ich habe mir beim Kollegium die Infos zusammen gesucht die ich brauchte (wo ich 
 
 Ich habe dann viel Aufbauarbeit und Dialogarbeit geleistet, so dass ich den Stand der Klasse herausgefunden habe. 
 
-Ich habe dann auch mit meinen Mitteln und dem Material was ich erstellt habe, in kurzer Zeit viele Wochenunterrichtsausfall aufgeholt.
+Ich habe mit meinen Mitteln und dem Material was ich erstellt habe, in kurzer Zeit viele Wochen Unterrichtsausfall aufgeholt.
 Die Vorbereitungen, die Orga und die Gespräche mit dem Kollegium habe ich in meiner Freizeit gemacht.
 
 Zu dem Zeitpunkt hatte ich gerade mal 1,5 Monate mit einem Einsatztag die Woche dort unterrichtet.
 
 Da wäre es dann doch nochmal gut, wenn ich einem erfahrenen Lehrer wenigstens eine Zeit über die Schulter schauen kann. 
-Auch was Klausuren erstellen an geht. 
+
+Auch was die Erstellung von Klausuren angeht. 
 
 An der Uni habe ich zwar sehr viele Übungen korrigiert, an vielen Klausurkorrekturen teilgenommen, Übungsblätter geplant, reviewed und auch bei der Klausurenkonzeption mitgewirkt.
 
@@ -103,23 +104,25 @@ Da war ich aber nie vollkommen alleine.
 
 Ich würde auch gerne nochmal etwas Einsichten darüber haben, welche Häppchen die Schüler so aufnehmen können und was dazu an der Tafel stehen muss.
 
-Auch was Heftführung angeht.
+Auch was Heftführung und Wissenssicherung angeht.
 
 Die zwei Mal die ich bisher an der BAS Physik unterrichtet habe, haben ganz gut funktioniert.
 
-Da habe ich die unmittelbare Zeit an dem Tag, das was ich früher da war und die Pausen genutzt, um mich nochmal durch die Sachen zu denken.
+Da habe ich die unmittelbare Zeit an dem Tag, die Zeit die ich vor Unterrichtsbeginn da war und die Pausen genutzt, um mich nochmal durch die Sachen zu denken.
 
 Als ich den Unterricht gehalten habe, der schon vorbereitet war und bereits die Arbeitsblätter ausgedruckt waren, habe ich mir nur etwas perspektivisch und ein Tafelbild überlegen müssen. 
-Was ich dann zusammen mit dem Standpunkt der Klasse entwickelt habe, um sie dann die Arbeitsblätter machen zu lassen. 
+Was ich dann zusammen mit dem Wissensstand der Klasse entwickelt habe, um sie dann die Arbeitsblätter machen zu lassen. 
 
 Als ich dann 1h eine 9. Klasse vertreten habe, habe ich mir zu erst den Lehrplan angeschaut, etwa geschätzt was sie können könnten, mir überlegt was ich an die Tafel schreibe und habe mir Aufgaben überlegt.
 
-Das lief im Verhältnis auch ganz gut, auch wenn die Zeit da noch etwas knapper war, da ich erst nicht in den Raum kam und die Klasse dann in Bio musste. 
+Das lief im Verhältnis auch ganz gut, auch wenn die Zeit da noch etwas knapper war, da ich erst nicht in den Raum kam und die Klasse Anschluss in Bio musste. 
 
-Da habe ich mir auch behelfsmäßig Gegenstände gesucht, um ein paar Dinge zu demonstrieren.
-Um dann überhaupt die einfachste Aufgabe mit der Klasse rechnen zu können, musste ich aber auch erstmal elementare Dinge nachholen.
+Da habe ich mir auch behelfsmäßig Gegenstände gesucht, um das Hebelgesetz (einseitiger und zweiseitiger Hebel) zu demonstrieren.
+Um dann überhaupt die einfachste Aufgabe, die ich mir überlegt habe, mit der Klasse rechnen zu können, musste ich aber auch erstmal elementare Dinge nachholen.
 
 Mir war auch nicht mehr so ganz bewusst, dass elementare Termumformung, wohl nicht so bekannt ist in der 9. Klasse.
+
+Ich habe dabei auch ein paar "taktische Fehler" gemacht. Also eine leicht andere Reihenfolge wählen sollen. Aber gut, besser als kein Unterricht.
 ### 1 Jamil 
 Ich würde auch gerne, wenn es möglich ist, wem ne Zeitlang über die Schulter schauen.
 
