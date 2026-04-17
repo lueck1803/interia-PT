@@ -2855,5 +2855,16 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 			- Ihr habt ~={RedRed}zu viel Zeit=~
 			- die ~={red}ersten 3h=~ werden ~={DeepPink}Geeier sein=~
 			- es wird ~={RedRed}kein=~ ~={DeepSkyBlue}effizientes Arbeiten=~ sein
-	- ⤷ ~={Gold}Wenn=~ es dann 18 Uhr ist und ihr wollt weiter schreiben, dann schreibt ihr trotzdem nicht weiter, dann schreibt ihr nicht, erst am nächsten Tag wieder
+	- ⤷ ~={Gold}Wenn=~ es dann ~={Gold}18 Uhr=~ ist 
+		- und ~={LimeGreen}ihr wollt weiter schreiben=~, 
+		- dann schreibt ihr ~={RedRed}trotzdem=~ ~={RedRed}***nicht***=~ weiter, 
+		- dann schreibt ihr ~={Magenta}erst am nächsten Tag=~ wieder
+		- ~={RedRed}⟹=~ das wird in euch ~={RedRed}Adrenalin=~  induzieren und so eine ~={LawnGreen}Bereitschaft=~ 
+		- ~={RedRed}⤷=~ Dann ~={DeepPink}wisst=~ ihr ~={LawnGreen}noch besser=~ was ihr ~={DeepSkyBlue}am nächsten Tag schreiben wollt=~.
+
+> [!caution] Arbeitszeit begrenzen
+> ⟹ ~={RedRed}Adrenalin=~
+> ⟹ ~={LawnGreen}Bereitschaft=~
+> ⟹ ~={DeepSkyBlue}wisst besser was ihr jetzt und da=~
+
 
