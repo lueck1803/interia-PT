@@ -150,6 +150,7 @@ $$
 9. theorie - wirklich auf die Arbeit zu geschnitten
 	1. phase transition 
 	2. what are critical exponents 
+		- Für die Theorie dazu einfach nach den VL von ~={Magenta}Prof. Sutapa Roy =~richten [Link zur Playlist]( https://www.youtube.com/results?search_query=Dynamics+of+Confined+Fluids+close+to+Phase+Transitions+%7C+Prof+Sutapa+Roy+%7C+)
 		- when are they relevant 
 		- universality
 		- renormalization group (nicht im Vortrag)
@@ -158,14 +159,14 @@ $$
 			- ⤷ also der ~={Tomato}Fixpunkt um den Phase transition=~ point ist doch eigentlich immer da?
 			- ⟹ Skaleninvarianz am phase transition point
 			- ⤷ deshalb ~={LawnGreen}funktionieren=~ solche Sachen wie die Analyse des Binder Cumulant
-		- Für die Theorie dazu einfach nach den VL von ~={Magenta}Prof. Sutapa Roy =~richten https://www.youtube.com/results?search_query=Dynamics+of+Confined+Fluids+close+to+Phase+Transitions+%7C+Prof+Sutapa+Roy+%7C+
-- lammps 
-1. titel + abstract
-2. create simulation programm in den anhang
-3. quellen
-4. zinos thesis lesen, um abzuchecken
-5. -> arbeit aritra schicken
-6. Vortrag
+		- 
+	- lammps 
+10. titel + abstract
+11. create simulation programm in den anhang
+12. quellen
+13. zinos thesis lesen, um abzuchecken
+14. -> arbeit aritra schicken
+15. Vortrag
 ## talk
 ### intro
 - what is active matter?
