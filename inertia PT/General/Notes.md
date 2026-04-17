@@ -2944,7 +2944,11 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 	- ~={RedRed}⤷=~ Wer aber geübt im Schreiben ist, für den ~={RedRed}dauert es viel länger=~ 
 		- sich irgendeinen ~={RedRed}mittelmäßigen Text=~ schreiben zu lassen
 		- und den dann ~={Magenta}umzuschreiben=~
-	- ⤷ musst den TEx
+	- ⤷ musst den Text erstmal lesen
+	- ⤷ Welche Elemente des Textes du drin lässt
+	- ⤷ Was ist überhaupt richtig??
+	- Ein Mensch der mit der ~={Gold}Tastatur geübt=~ ist, kann ~={LawnGreen}halb so schnell schreiben=~, ~={DeepSkyBlue}wie er reden=~ kann
+	- ⤷ nur noch ~={LawnGreen}Feinjustage=~
 
 
 
