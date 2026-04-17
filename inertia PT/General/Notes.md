@@ -2755,12 +2755,21 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 > 	- ⤷ Diese für die Sortierung des Gehirns nutzen
 > 	- ⤷ Strukturierung 
 > 	- ⤷ Kreativ Prozess
-> - ~={DeepPink}Gliederung=~ durchdenken ⟹Wie ~={LawnGreen}beantwortet=~ die Gliederung ~={MediumSpringGreen}am besten=~ meine ~={DeepSkyBlue}Forschungsfrage=~
+> - ~={DeepSkyBlue}Brain Leerlaufzeiten=~ nutzen
+> 	- ~={RedRed}Wartezeiten=~ zb. Bahnfahrten zum Lesen ~={Magenta}nutzen=~
+> 	- ~={LimeGreen}Inhalte=~ während Haushalt und Sport ~={LimeGreen}hören=~
+> 		- ~={MediumSpringGreen}Text-to-Speech=~ Programme 
+> 		- YT-Videos herunterladen
+> 		- Podcasts
+> 		- Zinos Paper Abo
+> - ~={DeepPink}Gliederung=~ durchdenken 
+> 	- ~={Magenta}⟹=~Wie ~={LawnGreen}beantwortet=~ die Gliederung ~={MediumSpringGreen}am besten=~ meine ~={DeepSkyBlue}Forschungsfrage=~
 > - ~={RedRed}Arbeitszeit begrenzen=~
 > 	- ⤷ Zeitdruck
 > 	- ⤷ Adrenalin
 > 	- ⤷ Klarheit, was geschrieben werden soll
-> 	- 
+> 	- ⤷ Schnelligkeit
+> - ~={RoyalBlue}Literaturrecherche=~ mit Google Scholar
 
 - 1,5h arbeiten 
 - 1,5h Pause machen
