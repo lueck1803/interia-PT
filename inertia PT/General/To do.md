@@ -1,3 +1,6 @@
+# proposal
+- [ ] Lukas Hecht active refigerator lesen/überfliegen und von llm zusammenfassen lassen
+- [ ] mandal lesen und von llm zusammenfassen lassen -> was kam da bei seiner temperatur raus.
 # unsortiert
 - [ ] ~={DeepSkyBlue}ADHS Event=~ im Mai anmelden
 - [ ] Pflanzen gießen 
