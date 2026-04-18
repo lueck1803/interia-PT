@@ -1,6 +1,5 @@
 # unsortiert
 - [ ] ~={DeepSkyBlue}ADHS Event=~ im Mai anmelden
-- [ ] arthur fragen was er von asagraum hält
 - [ ] Hantelbank fest Schrauben 
 - [ ] simon nach seinen Folien fragen 
 - [ ] Vorderrad Bremse checken/einstellen/tauschen 
@@ -28,6 +27,7 @@
 - [ ] ~={green}Sachen auf die ich Lust=~ habe, die mir Freude machen vom Zettel an der abschreiben in Therapie
 - [ ] staubsaugen
 - [ ] Küche wischen
+- [ ] arthur fragen was er von asagraum hält
 - [x] bei den Faulbäumen vorbei gehen 
 	- ⟹glaube die stehen am Weg hinter der Eissporthalle 
 	- ⟹gibts keine Faulbäume ~={Crimson}⟹=~ das ist ein ~={Teal}gewöhnlicher Spindelstrauch=~
