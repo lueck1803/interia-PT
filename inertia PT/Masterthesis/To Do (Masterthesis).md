@@ -145,6 +145,7 @@ $$
 1. ~~video zu wissenschaftliche Abschlussarbeiten schauen~~
 2. Verlauf von vorherige Arbeiten zur Idee von meinem algo
 	1. fast fertig
+	2. tabelle mit allen exponenten die in den papern bestimmt wurden
 3. inertia vorherige Arbeiten: (zu recent challenges)
 	1. mandal
 	2. hecht
