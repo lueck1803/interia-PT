@@ -1,5 +1,6 @@
-# important ~={red}remarks=~
-- SI Siebert2018
+# important <span style="font-size:100%;color:tomato;">remarks</span>
+- SI Siebert2018 Fig S4 b) ⟹ mit Original subsystem Methode haben sie auch nen crossing point gefunden, der mit dem der abgeänderten Methode übereinstimmt. Der spread der intersections ist nur größer.
+- 
 # unsorted tasks
 - [x] copy general plot to the non plot script
 - [ ] wiki eintrag für jupyter on cluster verbessern
