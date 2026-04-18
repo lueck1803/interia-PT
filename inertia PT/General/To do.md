@@ -1,5 +1,6 @@
 # unsortiert
 - [ ] ~={DeepSkyBlue}ADHS Event=~ im Mai anmelden
+- [ ] Pflanzen gießen 
 - [ ] Hantelbank fest Schrauben 
 - [ ] simon nach seinen Folien fragen 
 - [ ] Vorderrad Bremse checken/einstellen/tauschen 
