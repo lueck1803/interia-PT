@@ -139,15 +139,21 @@ $$
 ~={LimeGreen}Wie strukturiere ich die Arbeit, um diese These argumentativ bestmöglich zu untermauern?=~
 ~={DeepPink}Welche Gliederung eignet sich am besten dafür, um diese Forschungsfrage bestmöglich zu beantworten?=~
 ## tasks
-1. video zu wissenschaftliche Abschlussarbeiten schauen
+1. ~~video zu wissenschaftliche Abschlussarbeiten schauen~~
 2. Verlauf von vorherige Arbeiten zur Idee von meinem algo
-3. Gliederung
-4. -> mein Algo
-5. verwendete formeln + meine simulationen - aus dem report holen
-6. meine aktuellen ergebnisse
-7. problematik!
-8. ausblick
-9. theorie - wirklich auf die Arbeit zu geschnitten
+	1. fast fertig
+3. inertia vorherige Arbeiten: (zu recent challenges)
+	1. mandal
+	2. hecht
+	3. Su
+	4. Feng
+4. Gliederung
+5. -> mein Algo
+6. verwendete formeln + meine simulationen - aus dem report holen
+7. meine aktuellen ergebnisse
+8. problematik!
+9. ausblick
+10. theorie - wirklich auf die Arbeit zu geschnitten
 	1. phase transition 
 	2. what are critical exponents 
 		- Für die Theorie dazu einfach nach den VL von ~={Magenta}Prof. Sutapa Roy =~richten [Link zur Playlist]( https://www.youtube.com/results?search_query=Dynamics+of+Confined+Fluids+close+to+Phase+Transitions+%7C+Prof+Sutapa+Roy+%7C+)
@@ -161,12 +167,12 @@ $$
 			- ⤷ deshalb ~={LawnGreen}funktionieren=~ solche Sachen wie die Analyse des Binder Cumulant
 		- 
 	- lammps 
-10. titel + abstract
-11. create simulation programm in den anhang
-12. quellen
-13. zinos thesis lesen, um abzuchecken
-14. -> arbeit aritra schicken
-15. Vortrag
+11. titel + abstract
+12. create simulation programm in den anhang
+13. quellen
+14. zinos thesis lesen, um abzuchecken
+15. -> arbeit aritra schicken
+16. Vortrag
 ## talk
 ### intro
 - what is active matter?
@@ -183,7 +189,13 @@ $$
 	- Teilchen in der Regel klein und leicht im Vergleich zum ReibungsWiderstand 
 - what is mips, how does it occurs in case of real basic active matter
 - underdamped
+	- als motivation/introduction
 	- bisherige Forschung 
+		- inertia vorherige Arbeiten: (zu recent challenges)
+		- mandal
+		- hecht
+		- Su
+		- Feng
 	- Warum interessant? ~={RedRed}(Thesis)=~
 	- was ist anders bei Mips Erklärung und Bild von suvendus paper
 	- Kuriositäten ~={RedRed}(Thesis)=~
