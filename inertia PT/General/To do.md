@@ -1,5 +1,6 @@
 # unsortiert
 - [ ] ~={DeepSkyBlue}ADHS Event=~ im Mai anmelden
+- [ ] arthur fragen was er von asagraum hält
 - [ ] Hantelbank fest Schrauben 
 - [ ] simon nach seinen Folien fragen 
 - [ ] Vorderrad Bremse checken/einstellen/tauschen 
