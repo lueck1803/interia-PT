@@ -3,9 +3,7 @@
 - [ ] mandal lesen und von llm zusammenfassen lassen -> was kam da bei seiner temperatur raus.
 # unsortiert
 - [ ] ~={DeepSkyBlue}ADHS Event=~ im Mai anmelden
-- [x] Erbsen kochen
-	- ⟹keine grünen Erbsen mehr da 
-	- ⤷ koche die letzten grünen Erbsen zusammen mit Kichererbsen
+- [ ] Wasserhahn Küche silkonölen
 - [ ] Pflanzen gießen 
 - [ ] Hantelbank fest Schrauben 
 - [ ] simon nach seinen Folien fragen 
@@ -38,6 +36,9 @@
 - [x] bei den Faulbäumen vorbei gehen 
 	- ⟹glaube die stehen am Weg hinter der Eissporthalle 
 	- ⟹gibts keine Faulbäume ~={Crimson}⟹=~ das ist ein ~={Teal}gewöhnlicher Spindelstrauch=~
+- [x] Erbsen kochen
+	- ⟹keine grünen Erbsen mehr da 
+	- ⤷ koche die letzten grünen Erbsen zusammen mit Kichererbsen
 - [x] Video von Einzelgänger zu lao tzu schauen 
 - [x] Nachricht an jamil abschicken 
 - [x] Stunden eintragen
