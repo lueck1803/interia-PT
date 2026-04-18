@@ -3,6 +3,7 @@
 - [ ] mandal lesen und von llm zusammenfassen lassen -> was kam da bei seiner temperatur raus.
 # unsortiert
 - [ ] ~={DeepSkyBlue}ADHS Event=~ im Mai anmelden
+- [ ] Erbsen kochen
 - [ ] Pflanzen gießen 
 - [ ] Hantelbank fest Schrauben 
 - [ ] simon nach seinen Folien fragen 
@@ -52,7 +53,6 @@
 - [x] Vokabeln ab Seite 26 eintragen 
 - [x] Tisch absenken 
 - [x] Reifendruck checken
-- [x] Erbsen kochen
 - [x] Bettwäsche wechseln
 - [x] Wäsche anstellen
 	- [x] aufhängen 
