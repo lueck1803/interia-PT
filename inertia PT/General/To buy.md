@@ -48,6 +48,8 @@
 
 # Technik
 - [ ] 2m USB-C Kabel
+- [ ] neuen großen Bildschirm...
+- [ ] am besten nen neuen Rechner...
 - [ ] Grafikkarte 
 - [ ] CPU 
 - [ ] thunderbolt extension card

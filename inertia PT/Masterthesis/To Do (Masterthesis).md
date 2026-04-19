@@ -149,6 +149,7 @@ $$
 - [ ] exponent tabelle separat 
 - [ ] was ich zum vergleich des CP zwischen alter und mod methode geschrieben habe, in den normalen text und bilder der beiden $Q_{L}$ nebeneinander
 	- [ ] ⟹ es zeigt sich aber beim Lesen der SI, dass für die alte Methode wohl das maximum von $Q_{L}$ stark von der *overall packing fraction* abhängt. Aber wurde es getestet, ob das auch für die veränderte Methode gilt?
+	- [ ] In der SI im Abschnitt ~={yellow}**QUALITATIVE JUSTIFICATION FOR CROSSING OF CUMULANTS**=~ wird nochmal stark die Wichtigkeit betont
 
 1. ~~video zu wissenschaftliche Abschlussarbeiten schauen~~
 2. Verlauf von vorherige Arbeiten zur Idee von meinem algo
