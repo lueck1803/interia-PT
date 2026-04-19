@@ -1,4 +1,5 @@
 - [ ] simulation anstellen für 112k m=0.04 und einem box ratio von 1:3
+- [ ] 
 # important <span style="font-size:100%;color:tomato;">remarks</span>
 - ~={Magenta}SI Siebert2018 Fig S4 b)=~ ⟹ mit Original subsystem Methode haben sie auch nen crossing point gefunden, der mit dem der abgeänderten Methode übereinstimmt. Der spread der intersections ist nur größer.
 - ~={DeepSkyBlue}SI Siebert p2 Qualitative justification right side last paragraph:=~
