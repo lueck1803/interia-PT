@@ -152,6 +152,8 @@ $$
 ~={DeepPink}Welche Gliederung eignet sich am besten dafür, um diese Forschungsfrage bestmöglich zu beantworten?=~
 ## tasks
 ### general
+- [ ] check the snapshots for m=0.05 for 112k 
+- [ ] wie sehen die snapshots für 112k nach 10% aus?
 - [ ] check if everywhere non-equilibrium is written
 ### seperate sections
 #### history of evaluation methods
