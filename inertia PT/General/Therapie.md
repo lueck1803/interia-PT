@@ -2850,7 +2850,7 @@ Gedanken, die ich mir zu meiner Task gemacht habe
 	- ich wurde aber auch nicht ernst genommen
 	- Es wurde sich dann halt schon ziemlich lächerlich darüber gemacht, als es zum beispiel auch um das fahrrad ging. Arooj hat mich dann schon ernst genommen. aber war auch irgendwie herblassend zu mir
 	- ~={DeepPink}von suvendu habe ich auch immer die Aussage am anfang gehört, wenn ich fragen zu etwas hatte, dass das unwichtig wäre. =~
-	- ~={MediumTurquoise}ja ok=~ aber genau das kann ich ja nicht einschätzen, wenn das in einem text steht und will 
+	- ~={MediumTurquoise}ja ok=~ aber genau das kann ich ja nicht einschätzen, wenn das in einem text steht und will ich das nicht selbst einschätzen dürfen. Außerdem wenn ich dann das Gefühl habe einen ~={RedRed}Text nicht zu verstehen=~... was hilft es mir dann? Am Ende hat das auch häufig nicht gestimmt
 
 ## 26-04-07 Normans Geburtstag 
 Mein Neffe der Normen (der jüngste) hat heute Geburtstag.
