@@ -4,9 +4,7 @@
 	- "*For systems in the Ising universality class, critical correlations grow isotropically. Thus, the growth of the correlation length ξ is limited by the smaller linear dimension 2L in the chosen geometry.*" 
 	- ~={Crimson}⤷ =~falls man davon ausgeht, dass das system zur ising universality class gehört
 	- "*and when ξ is distinctly smaller than $2l$, the typical length scale $w$ of interfacial fluctuations in the  $d = 2$ Ising model is, from capillary wave theory and exact solutions: $w \propto \sqrt{ 2 l \xi }$, where the prefactor is of the order unity.*"
-	- $
-w \propto \sqrt{ 2 l \xi }$
-$$ , where the prefactor is of the order unity
+	- $w \propto \sqrt{ 2 l \xi }$ , where the prefactor is of the order unity
 	- "This equation implies that for $ξ ≪ 2l$ the 'measurements' of the density in the subboxes cannot be affected by interfacial fluctuations, and it is reasonable to assume that the fluctuations in the liquid subboxes are independent from the fluctuations in the vapor subboxes."
 
 > [!NOTE] "Order Unity" Regime
