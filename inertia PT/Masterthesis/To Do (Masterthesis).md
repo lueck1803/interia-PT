@@ -142,6 +142,9 @@ $$
 ~={LimeGreen}Wie strukturiere ich die Arbeit, um diese These argumentativ bestmöglich zu untermauern?=~
 ~={DeepPink}Welche Gliederung eignet sich am besten dafür, um diese Forschungsfrage bestmöglich zu beantworten?=~
 ## tasks
+
+- [ ] tabelle
+
 1. ~~video zu wissenschaftliche Abschlussarbeiten schauen~~
 2. Verlauf von vorherige Arbeiten zur Idee von meinem algo
 	1. fast fertig
