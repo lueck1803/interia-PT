@@ -33,6 +33,15 @@
 - [ ] staubsaugen
 - [ ] Küche wischen
 - [ ] arthur fragen was er von asagraum hält
+- [ ] Benq bildschirm austauschen.... ich vertrag den echt nicht...
+	- [ ] warum hab ich da all die jahre eigentlich nicht auf mich und meinen körper gehört
+	- [ ] ich hatte immer im Kopf stell dich nicht so an.... 
+	- [ ] ⟹ wenn man immer unterdrückt, dass man Bedürfnisse hat und unter gewissen umständen nicht arbeiten kann, dann achtet man darauf einfach nicht und zwingt sich immer weiter darein. ich hab immer das Gefühl gehabt, dass ich mich nur anstelle.
+	- [ ] deshalb konnte ich auch keine Entscheidungen treffen und mich nicht für mich einsetzen.
+	- [ ] ich habe meinen körperlichen Signalen, meinem Befinden und meiner Wahrnehmung einfach nicht mehr getraut
+	- [ ] ich hab mich dann nur noch fertig gemacht bzgl. meiner Entscheidungen
+	- [ ] ich wurde aber auch nicht ernst genommen
+	- [ ] Es wurde sich dann halt schon ziemlich läc
 - [x] bei den Faulbäumen vorbei gehen 
 	- ⟹glaube die stehen am Weg hinter der Eissporthalle 
 	- ⟹gibts keine Faulbäume ~={Crimson}⟹=~ das ist ein ~={Teal}gewöhnlicher Spindelstrauch=~
