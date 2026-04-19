@@ -2849,6 +2849,8 @@ Gedanken, die ich mir zu meiner Task gemacht habe
 	- ich hab mich dann nur noch fertig gemacht bzgl. meiner Entscheidungen
 	- ich wurde aber auch nicht ernst genommen
 	- Es wurde sich dann halt schon ziemlich lächerlich darüber gemacht, als es zum beispiel auch um das fahrrad ging. Arooj hat mich dann schon ernst genommen. aber war auch irgendwie herblassend zu mir
+	- ~={DeepPink}von suvendu habe ich auch immer die Aussage am anfang gehört, wenn ich fragen zu etwas hatte, dass das unwichtig wäre. =~
+	- ~={MediumTurquoise}ja ok=~ aber genau das kann ich ja nicht einschätzen, wenn das in einem text steht und will 
 
 ## 26-04-07 Normans Geburtstag 
 Mein Neffe der Normen (der jüngste) hat heute Geburtstag.

@@ -1,6 +1,8 @@
 # important <span style="font-size:100%;color:tomato;">remarks</span>
 - ~={Magenta}SI Siebert2018 Fig S4 b)=~ ⟹ mit Original subsystem Methode haben sie auch nen crossing point gefunden, der mit dem der abgeänderten Methode übereinstimmt. Der spread der intersections ist nur größer.
-- SI Siebert p2 Qualitative justification right side 
+- ~={DeepSkyBlue}SI Siebert p2 Qualitative justification right side last paragraph:=~
+	- "*For systems in the Ising universality class, critical correlations grow isotropically. Thus, the growth of the correlation length ξ is limited by the smaller linear dimension 2l in the chosen geometry.*" 
+	- ~={Crimson}⤷ =~falls man davon ausgeht, dass das system zur ising universality class gehört
 # unsorted tasks
 - [x] copy general plot to the non plot script
 - [ ] wiki eintrag für jupyter on cluster verbessern
