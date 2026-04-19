@@ -2838,6 +2838,18 @@ Ich kann das Dilemma sehr nachvollziehen, auch aus eigener Erfahrung in mehrfach
 
 # Einzel Themen/Ereignisse
 
+## 26-04-19 Mein Augen und Kopfschmerz / Migräne Problem mit meinem Bildschirm
+Gedanken, die ich mir zu meiner Task gemacht habe
+- [ ] Benq bildschirm austauschen.... ich vertrag den echt nicht...
+	- warum hab ich da all die jahre eigentlich nicht auf mich und meinen körper gehört
+	- ich hatte immer im Kopf stell dich nicht so an.... 
+	- ⟹ wenn man immer unterdrückt, dass man Bedürfnisse hat und unter gewissen umständen nicht arbeiten kann, dann achtet man darauf einfach nicht und zwingt sich immer weiter darein. ich hab immer das Gefühl gehabt, dass ich mich nur anstelle.
+	- deshalb konnte ich auch keine Entscheidungen treffen und mich nicht für mich einsetzen.
+	- ich habe meinen körperlichen Signalen, meinem Befinden und meiner Wahrnehmung einfach nicht mehr getraut
+	- ich hab mich dann nur noch fertig gemacht bzgl. meiner Entscheidungen
+	- ich wurde aber auch nicht ernst genommen
+	- Es wurde sich dann halt schon ziemlich lächerlich darüber gemacht, als es zum beispiel auch um das fahrrad ging. Arooj hat mich dann schon ernst genommen. aber war auch irgendwie herblassend zu mir
+
 ## 26-04-07 Normans Geburtstag 
 Mein Neffe der Normen (der jüngste) hat heute Geburtstag.
 

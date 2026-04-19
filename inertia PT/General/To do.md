@@ -41,7 +41,7 @@
 	- [ ] ich habe meinen körperlichen Signalen, meinem Befinden und meiner Wahrnehmung einfach nicht mehr getraut
 	- [ ] ich hab mich dann nur noch fertig gemacht bzgl. meiner Entscheidungen
 	- [ ] ich wurde aber auch nicht ernst genommen
-	- [ ] Es wurde sich dann halt schon ziemlich läc
+	- [ ] Es wurde sich dann halt schon ziemlich lächerlich darüber gemacht, als es zum beispiel auch um das fahrrad ging. Arooj hat mich dann schon ernst genommen. aber war auch irgendwie herblassend zu mir
 - [x] bei den Faulbäumen vorbei gehen 
 	- ⟹glaube die stehen am Weg hinter der Eissporthalle 
 	- ⟹gibts keine Faulbäume ~={Crimson}⟹=~ das ist ein ~={Teal}gewöhnlicher Spindelstrauch=~
