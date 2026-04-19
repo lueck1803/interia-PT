@@ -142,8 +142,12 @@ $$
 ~={LimeGreen}Wie strukturiere ich die Arbeit, um diese These argumentativ bestmöglich zu untermauern?=~
 ~={DeepPink}Welche Gliederung eignet sich am besten dafür, um diese Forschungsfrage bestmöglich zu beantworten?=~
 ## tasks
-
-- [ ] tabelle
+### general
+- [ ] check if everywhere non-equilibrium is written
+### seperate sections
+#### history of evaluation methods
+- [ ] exponent tabelle separat 
+- [ ] was ich zum vergleich des CP zwischen alter und mod methode geschrieben habe, in den normalen text und bilder der beiden $Q_{L}$ nebeneinander
 
 1. ~~video zu wissenschaftliche Abschlussarbeiten schauen~~
 2. Verlauf von vorherige Arbeiten zur Idee von meinem algo
