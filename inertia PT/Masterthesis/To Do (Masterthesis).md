@@ -14,7 +14,8 @@
 
 > [!NOTE] "Order Unity" Regime
 > The "Order Unity" Regime: Classical Capillary Wave Theory (CWT) applies to large wavelengths (small $q$). Microscopic CWT extends this to shorter wavelengths where the wavelength $\lambda$ is on the order of inter-atomic distances (or when wavevector $q \approx 2 \frac{\pi}{a_{0}}$, with being the particle size).
-
+- Warum habe ich eigentlich keine PE von 200 oder 150 genommen???
+  ![[../../Pasted image 20260420205452.png]]
 # unsorted tasks
 - [x] copy general plot to the non plot script
 - [ ] wiki eintrag für jupyter on cluster verbessern
