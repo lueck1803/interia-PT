@@ -1,4 +1,21 @@
 # proposal
+- [ ] Simulation checken
+- [ ] talk fertig vorbereiten 
+- [ ] Text für Überleitung/Entwicklung zu meiner methode fertig schreiben 
+- [ ] die mod methode was ich Benno erklärt habe fertig beschreiben - also mit deren Annahmen über die distributionen und dass deren Methode die Zwischenbereiche der regime nicht genauer betrachtet.
+- [ ] deren Evaluation mit der originalen block density nicht rein nehmen 
+- [ ] dann den Übergang zu meiner methode beschreiben und begründen.
+- [ ] die snapshots aus dem report nehmen 
+- [ ] die Beschreibung der Methode aus den Folien nehmen 
+- [ ] die results rein  - dort auch die Begründung des fehlenden peaks in $\chi$ von Maggi rein 
+- [ ] auch die masterplots 
+- [ ] und was ich bisher bei den ABP hab
+- [ ] dann das Problem beschreiben was ich als Missverständnis hatte, das Problem mit dem Ratio 
+- [ ] Ausblick - Vergleich mit ABP und Simulationen mit anderem box Ratio, die ursprüngliche Methode verwenden und vergleichen 
+- [ ] über die pdf schauen die ich Benno als Antwort geschickt hatte
+- [ ] intro schreiben dazu die von der llm zusammengefassten Ergebnisse von lukas und Suvendu erwähnen 
+- [ ] abstract
+- [ ] Titel anpassen?
 - [ ] Lukas Hecht active refigerator lesen/überfliegen und von llm zusammenfassen lassen
 - [ ] mandal lesen und von llm zusammenfassen lassen -> was kam da bei seiner temperatur raus.
 # unsortiert
