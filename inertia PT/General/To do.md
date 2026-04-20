@@ -1,5 +1,5 @@
 # proposal
-- [ ] Simulation checken
+- [x] Simulation checken
 - [ ] talk fertig vorbereiten 
 - [ ] Text für Überleitung/Entwicklung zu meiner methode fertig schreiben 
 - [ ] die mod methode was ich Benno erklärt habe fertig beschreiben - also mit deren Annahmen über die distributionen und dass deren Methode die Zwischenbereiche der regime nicht genauer betrachtet.

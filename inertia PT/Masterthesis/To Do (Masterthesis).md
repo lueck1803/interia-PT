@@ -1,5 +1,8 @@
-- [ ] simulation anstellen für 112k m=0.04 und einem box ratio von 1:3
+- [x] simulation anstellen für 112k m=0.04 und einem box ratio von 1:3
+	- [ ] auf den ersten 20 bildern sieht es nicht danach aus, dass dadurch eine mehr zusammenhängende Struktur entsteht. Jetzt ist die Zerteilung nur mehr in y Richtung. Es ist also schon so  die richtige Entscheidung gewesen damals
 - [ ] $p_{\text{subbox}}=L^{\beta/\nu} \hat{p}\left\{ \left( \rho-\rho_{\text{crit}} \right)L^{\beta/\nu},L^{1/\nu}\tau \right\}$ mit $\tau=1-\frac{T}{T_{c}}$
+- [ ] $p_{\text{subbox}}^\text{liquid}(\rho)\propto \exp \left\{ -\left( \rho-\rho_{\text{liquid}}^\text{coex} \right)^{2}L^{2} / \left( 2k_{B}T\chi_{\text{eff}}^{L} \right) \right\}$
+- [ ] $p_{\text{subbox}}^\text{vapor}(\rho)\propto \exp \left\{ -\left( \rho-\rho_{\text{vapor}}^\text{coex} \right)^{2}L^{2} / \left( 2k_{B}T\chi_{\text{eff}}^{L} \right) \right\}$
 # important <span style="font-size:100%;color:tomato;">remarks</span>
 - ~={Magenta}SI Siebert2018 Fig S4 b)=~ ⟹ mit Original subsystem Methode haben sie auch nen crossing point gefunden, der mit dem der abgeänderten Methode übereinstimmt. Der spread der intersections ist nur größer.
 - ~={DeepSkyBlue}SI Siebert p2 Qualitative justification right side last paragraph:=~
@@ -11,7 +14,9 @@
 
 > [!NOTE] "Order Unity" Regime
 > The "Order Unity" Regime: Classical Capillary Wave Theory (CWT) applies to large wavelengths (small $q$). Microscopic CWT extends this to shorter wavelengths where the wavelength $\lambda$ is on the order of inter-atomic distances (or when wavevector $q \approx 2 \frac{\pi}{a_{0}}$, with being the particle size).
-
+- Warum habe ich eigentlich keine PE von 200 oder 150 genommen???
+  ![[../../Pasted image 20260420205452.png]]
+- Es ist so oder so etwas unbegreiflich, warum wir keine höhere péclet Zahl zb. 150 verwendet haben, dann
 # unsorted tasks
 - [x] copy general plot to the non plot script
 - [ ] wiki eintrag für jupyter on cluster verbessern
@@ -200,6 +205,10 @@ $$
 15. -> arbeit aritra schicken
 16. Vortrag
 ## talk
+### text memory
+- *For underdamped Brownian particles.*
+  *Inertia is the control parameter.*
+  *The measured quantity is the density fluctuation of the particles inside boxes placed at the peaks and pits of the horizontal density distribution of the simulation boxes*
 ### intro
 - what is active matter?
 	- descriptions von dem paper what's active matter - > anhand den verschiedenen Definitionen - non equilibrium 
