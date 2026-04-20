@@ -203,6 +203,11 @@ $$
 15. -> arbeit aritra schicken
 16. Vortrag
 ## talk
+For underdamped Brownian particles.
+
+Inertia is the control parameter.
+
+The measured quantity is the density fluctuation of the particles inside boxes placed at the peaks and pits of the horizontal density distribution of the simulation boxes
 ### intro
 - what is active matter?
 	- descriptions von dem paper what's active matter - > anhand den verschiedenen Definitionen - non equilibrium 
