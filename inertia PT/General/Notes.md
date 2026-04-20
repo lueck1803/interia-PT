@@ -1279,7 +1279,13 @@ Tage produktiv gewesen:
 - hoher Becher statt breite Schüssel 
 - Metall Schüssel statt Plastik, wegen dem fett was an Plastik besser haftet.⟹Fett ist der Feind von Steifem Eiweiß 
 - Prise Salz ⟹wirkt auf die elektrische Ladung der Proteine, die stoßen sich weniger ab
-
+# Gartenarbeit und Pflanzen 
+- gekaufte Pflanzen <u>vor dem Umtopfen 
+</u>entweder 
+	- 1/3 der Wurzel abschneiden 
+	- unten ein Kreuz reinschneiden 
+	- oder den Ballen aufreißen 
+- 
 # Pdftk
 - Gerade (`A.pdf`) und ungerade Seiten (`B.pdf`) eines Dokuments zusammen fügen.
   `{bash} pdftk A=A.pdf B=B.pdf shuffle A Bend-1 output Dokument_Name.pdf`
