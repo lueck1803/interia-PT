@@ -1,4 +1,5 @@
-- [ ] simulation anstellen für 112k m=0.04 und einem box ratio von 1:3
+- [x] simulation anstellen für 112k m=0.04 und einem box ratio von 1:3
+	- [ ] auf den ersten 20 bildern sieht es nicht danach aus, dass dadurch eine mehr zusammenhängende Struktur entsteht. Jetzt ist die zerteilung mehr in 
 - [ ] $p_{\text{subbox}}=L^{\beta/\nu} \hat{p}\left\{ \left( \rho-\rho_{\text{crit}} \right)L^{\beta/\nu},L^{1/\nu}\tau \right\}$ mit $\tau=1-\frac{T}{T_{c}}$
 # important <span style="font-size:100%;color:tomato;">remarks</span>
 - ~={Magenta}SI Siebert2018 Fig S4 b)=~ ⟹ mit Original subsystem Methode haben sie auch nen crossing point gefunden, der mit dem der abgeänderten Methode übereinstimmt. Der spread der intersections ist nur größer.
