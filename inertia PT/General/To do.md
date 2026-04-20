@@ -11,11 +11,12 @@
 - [ ] auch die masterplots 
 - [ ] und was ich bisher bei den ABP hab
 - [ ] dann das Problem beschreiben was ich als Missverständnis hatte, das Problem mit dem Ratio 
-- [ ] Ausblick - Vergleich mit ABP und Simulationen mit anderem box Ratio, die ursprüngliche Methode verwenden und vergleichen 
+- [ ] Ausblick - Vergleich mit ABP und Simulationen mit anderem box Ratio, die ursprüngliche Methode verwenden und vergleichen sowie meine Anpassung an meinen algo erwähnen so dass die Platzierung noch besser wird.
 - [ ] über die pdf schauen die ich Benno als Antwort geschickt hatte
 - [ ] intro schreiben dazu die von der llm zusammengefassten Ergebnisse von lukas und Suvendu erwähnen 
 - [ ] abstract
 - [ ] Titel anpassen?
+- [ ] angepasste Bedienungsanleitung für create sim anhängen! Da wurden ja ein paar Veränderungen gemacht zb auch heute mit den Skripten 
 - [ ] Lukas Hecht active refigerator lesen/überfliegen und von llm zusammenfassen lassen
 - [ ] mandal lesen und von llm zusammenfassen lassen -> was kam da bei seiner temperatur raus.
 # unsortiert
