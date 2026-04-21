@@ -213,9 +213,9 @@ $$
 	4. I guess the easiest way to say what's wrong with me "that i try to explain what's wrong with me and why i so often can't"
 3. At least I can say I am not healthy in many ways and I am recovering too slowly.
 	1. But I am done with not meeting my obligations and test the patience of all again and again 
-	2. I said that I will give my proposal defense talk today so I hold some despite having not handed I my proposal.
-	3. At least consider 
-4. 
+	2. I said that I will give my proposal defense talk today so I give some despite having not handed in I my proposal and despite I am even not finished with the preparation of this talk.
+	3. At least consider this as a wrap up of my "work" and than saying farewell.
+4. One thing I can say that I have learned and I hope finally I 
 
 5. What is active matter?
 	1. Drei Zitate aus dem paper what is active matter 
