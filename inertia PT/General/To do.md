@@ -1,6 +1,16 @@
 # proposal
 - [x] Simulation checken
+- [ ] prepare back up slides for questions 
+	- [ ] one for the reasoning why to avoid interfaces is important 
+		- [ ] picture of the local density distribution 
+		- [ ] picture of the density distribution of the block density 
+		- [ ] the not crossing of Q of ising model
+		- [ ] comparison of the crossing of abp between block density distribution and modified Block-Distribution 
+- [ ] ask nandita for help for wrapping things up or how much to say to certain things 
+- [x] leif nach abp fragen
+	- [ ] hab ich bekommen -> Simulationen starten 
 - [ ] talk fertig vorbereiten 
+- [ ] talk text in PowerPoint Notizen notieren 
 - [ ] Text für Überleitung/Entwicklung zu meiner methode fertig schreiben 
 - [ ] Vortrag stark reduzieren 
 - [ ] den Text den ich für den Talk aufgeschrieben habe fürs proposal verwenden 
@@ -25,6 +35,18 @@
 # unsortiert
 - [ ] unbedingt konto und briefkasten checken
 - [ ] cake for cake meeting 
+- [ ] rasieren 
+- [ ] staubsaugen 
+- [ ] sofa saugen 
+- [ ] Tisch wischen 
+- [ ] Toilette putzen 
+- [ ] Boden wischen 
+- [ ] Wäsche zusammen legen 
+- [ ] Mieterhöhung unterschreiben 
+- [ ] CV fertig schreiben 
+- [ ] Toilettendeckel tauschen 
+- [ ] bei Kinder Betreuung bewerben 
+- [ ] Email an Schulen gingen raus?
 - [ ] nachricht von jamil lesen
 - [ ] ~={DeepSkyBlue}ADHS Event=~ im Mai anmelden
 - [ ] Wasserhahn Küche silkonölen
@@ -33,8 +55,8 @@
 - [ ] simon nach seinen Folien fragen 
 - [ ] Vorderrad Bremse checken/einstellen/tauschen 
 - [ ] Klingel checken
-- [ ] mit Benno sprechen 
-- [ ] Briefkasten leeren 
+- [x] mit Benno sprechen 
+- [x] Briefkasten leeren 
 - [ ] meditieren 
 - [ ] Lisa mank SMS schreiben
 - [ ] tägliches Mantra aufräumen 
