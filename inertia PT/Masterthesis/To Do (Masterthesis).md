@@ -283,8 +283,9 @@ $$
 	6. scaling theory
 		1. generalization of the features near the CP
 		2. depiction of the singular part of the free energy with a power law $$
-f_{\text{sing}}=
+f_{\text{sing}}(\tau,h)=|\tau|^{2-\alpha} \hat{f}_{\pm}\left( \frac{h}{|t|^{\beta \delta}} \right)
 $$
+		3. ⟹critical exponents are not independent -> scaling relations
 10. Mention the behavior of $\chi$ in Maggi21
 ### text memory
 - *For underdamped Brownian particles.*
