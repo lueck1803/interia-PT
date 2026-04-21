@@ -4,6 +4,7 @@
 - [ ] Text für Überleitung/Entwicklung zu meiner methode fertig schreiben 
 - [ ] Vortrag stark reduzieren 
 - [ ] den Text den ich für den Talk aufgeschrieben habe fürs proposal verwenden 
+- [ ] Florian meinte auch dass bei höhere pe ein Übergang 1. Ordnung wäre. Eigentlich logisch, daher gut dass ich nicht mit 150 pe simuliert habe. Mal schauen was da raus gekommen ist
 - [ ] die mod methode was ich Benno erklärt habe fertig beschreiben - also mit deren Annahmen über die distributionen und dass deren Methode die Zwischenbereiche der regime nicht genauer betrachtet.
 - [ ] deren Evaluation mit der originalen block density nicht rein nehmen 
 - [ ] dann den Übergang zu meiner methode beschreiben und begründen.
