@@ -265,8 +265,11 @@ $$
 		2. <u>Landau</u>: expansion of the free energy density near a continuous PT in terms of an order parameter
 		3. what is happening in the vicinity of a continuous phase transition?
 			2. small changes in values of external field lead to large changes in order parameter or there are large fluctuations associated with it 
-			3. the correlation length $\xi$ - the length on which interactions correlate, the same yields for fluctuations - goes to infinity at the phase transition point
-			4. mean field theory crashes
+			3. the correlation length $\xi$ - the length on which interactions correlate, the same yields for fluctuations - goes to infinity at the critical point point
+			4. equilibrium: response and fluctuations are infinitely connected: fluctuation-dissipation theorem
+			5. therefore other quantities like the susceptibility $\chi$ goes to infinity
+			6. Description of these quantities by power law in terms of reduced control parameter $\tau=$
+			7. mean field theory crashes
 10. Mention the behavior of $\chi$ in Maggi21
 ### text memory
 - *For underdamped Brownian particles.*
