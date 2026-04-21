@@ -268,8 +268,10 @@ $$
 			3. the correlation length $\xi$ - the length on which interactions correlate, the same yields for fluctuations - goes to infinity at the critical point point
 			4. equilibrium: response and fluctuations are infinitely connected: fluctuation-dissipation theorem
 			5. therefore other quantities like the susceptibility $\chi$ goes to infinity
-			6. Description of these quantities by power law in terms of reduced control parameter $\tau=$
+			6. Description of these quantities by power law in terms of reduced control parameter $\tau=1-\frac{T}{T_{c}}$ 
 			7. mean field theory crashes
+			8. $\xi \propto |\tau|^{-\nu}$
+			9. order parameter $M_{S}\propto |\tau|^{\beta}$$\mathcal{O}$
 10. Mention the behavior of $\chi$ in Maggi21
 ### text memory
 - *For underdamped Brownian particles.*
