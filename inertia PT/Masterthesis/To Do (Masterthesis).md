@@ -216,7 +216,8 @@ $$
 	2. I said that I will give my proposal defense talk today so I give some despite having not handed in I my proposal and despite I am even not finished with the preparation of this talk.
 	3. At least consider this as a wrap up of my "work" and than saying farewell.
 4. One thing I can say that I have learned and I hope finally I have finally embodied somehow in my emotions and my existence.
-	1. Don't be lead/dr by fear and
+	1. Don't be driven by fear and anxiety, instead be leaded by interest and fascination 
+	2. 
 
 5. What is active matter?
 	1. Drei Zitate aus dem paper what is active matter 
