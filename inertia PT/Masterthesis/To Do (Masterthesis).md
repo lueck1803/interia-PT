@@ -205,6 +205,14 @@ $$
 15. -> arbeit aritra schicken
 16. Vortrag
 ## talk
+
+1. What is active matter?
+	1. Drei Zitate aus dem paper what is active matter 
+	2. Active brownian particles 
+2. Why interia? What's the matter with intertia?🤣
+	1. Why not intertia?
+		1. Overdamped equations are much easier?
+		2. Where is the justification 
 ### text memory
 - *For underdamped Brownian particles.*
   *Inertia is the control parameter.*
