@@ -265,7 +265,7 @@ $$
 		2. <u>Landau</u>: expansion of the free energy density near a continuous PT in terms of an order parameter
 		3. what is happening in the vicinity of a continuous phase transition?
 			1. mean field theory crashes
-			2. the correlation length - the distance where a 
+			2. the correlation length - the length on which interactions correlate, the same yields for fluctuations - goes to infinity 
 			3. at the CP 
 10. Mention the behavior of $\chi$ in Maggi21
 ### text memory
