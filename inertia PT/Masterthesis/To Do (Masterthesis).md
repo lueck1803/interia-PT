@@ -275,12 +275,16 @@ $$
 			10. susceptibility $\chi \propto |\tau|^{\gamma}$
 			11. other quantities like the compressibility $\kappa$ or the specific heat $C$ 
 		4. there are mean field values for these exponents, but you never find them in experiments
-			1. moreover fascinating it appeared universality of these exponents found in experiments
-			2. they are the same for physically complete different systems
-			3. the exponents found for the Ising magnet and the liquid gas transition are the same
-			4. also for the xy magnet model and a superfluid
+			1. moreover fascinating it appeared universality of these exponents found in experiments and the scale invariance
+			2. systems. with the same symmetry + same numbers of order paramter ⟹same values for the exponents
+			3. they are the same for physically complete different systems
+			4. the exponents found for the Ising magnet and the liquid gas transition are the same
+			5. also for the xy magnet model and a superfluid
 	6. scaling theory
-		1. generalization of the f 
+		1. generalization of the features near the CP
+		2. depiction of the singular part of the free energy with a power law $$
+f_{\text{sing}}=
+$$
 10. Mention the behavior of $\chi$ in Maggi21
 ### text memory
 - *For underdamped Brownian particles.*
