@@ -276,7 +276,7 @@ $$
 			11. other quantities like the specific heat $C$ or the compressibility $\kappa$
 		4. there are mean field values for these exponents, but you never find them in experiments
 			1. moreover fascinating it appeared universality of these exponents found in experiments and the scale invariance
-			2. systems. with the same symmetry + same numbers of order paramter ⟹same values for the exponents
+			2. systems. with the same symmetry + same numbers of order paramter + interaction range ⟹same values for the exponents
 			3. they are the same for physically complete different systems
 			4. the exponents found for the Ising magnet and the liquid gas transition are the same
 			5. also for the xy magnet model and a superfluid
@@ -286,6 +286,9 @@ $$
 f_{\text{sing}}(\tau,h)=|\tau|^{2-\alpha} \hat{f}_{\pm}\left( \frac{h}{|t|^{\beta \delta}} \right)
 $$
 		3. ⟹critical exponents are not independent -> scaling relations
+	7. finite systems where you can't assume that they are thermodynamically large, like in our simulations
+		1. the correlation length which is the indicator/reason of the singular behavior of other quantities, is 
+		2. The singularities are rounded off 
 10. Mention the behavior of $\chi$ in Maggi21
 ### text memory
 - *For underdamped Brownian particles.*
