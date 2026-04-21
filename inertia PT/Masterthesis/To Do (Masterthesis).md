@@ -217,7 +217,10 @@ $$
 			2. Low Reynolds Number Regime: micrometer-sized particles in a liquid (colloids), the motion occurs at very low Reynolds numbers, where viscous forces (drag) dissipate energy much faster than the inertia can maintain motion.
 			3. Time Scale Separation: Overdamping is justified when looking at long-time behavior, specifically for times $t \gg \frac{m}{\gamma}$(where $\gamma$ is the friction coefficient). The rapid inertial relaxation means that the particle reaches a diffusive regime almost immediately, rendering the acceleration irrelevant
 			4. Negligible Memory Effects: In viscous, dense fluids, collisions with solvent molecules occur on such a fast timescale that the particle's velocity "forgets" its previous state almost instantly, making the position the only relevant variable to describe long-term behavior
-	2. 
+		3. Applicable Scenarios: Microscale colloids in liquids, biological agents inside cells, and simulations where short-time ballistic behavior is not the focus.
+	2. Why inertia?
+		1. Failure Cases: Overdamping fails for macroscopic particles, microparticles in gases (low viscosity), or during the very early "ballistic" phase of a particle's motion where the trajectory is not yet dominated by collisions.
+		2. 
 ### text memory
 - *For underdamped Brownian particles.*
   *Inertia is the control parameter.*
