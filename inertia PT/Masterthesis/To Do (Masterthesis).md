@@ -205,7 +205,7 @@ $$
 15. -> arbeit aritra schicken
 16. Vortrag
 ## talk
-1. Thank you for having me. Sorry I have constant brain fog these days so don't be mean about me, that I need to read what I want to say.
+1. Thank you for having me. Sorry I have constant brain fog - my brain is so full and empty at the same time - these days so don't be mean about me, that I need to read what I want to say.
 2. I often really don't know what is wrong with me.
 	1. But that's wrong,
 	2. The problem is i know what's wrong with me most of the time. 😅
@@ -218,28 +218,52 @@ $$
 	4. At least consider this as a wrap up of my "work" and than saying farewell.
 4. One thing I can say that I have learned and I hope finally I have finally embodied somehow in my emotions and my existence.
 	1. Don’t be driven by fear and anxiety; instead, be led by curiosity and fascination
-	2. And bother too much about "how should I do this, this is to much I don't"
+	2. And bother too much about "how should I do this, this is to much I don't know where to start." 
+	3. Just do it and start somewhere 
+	4. And don't focus to much on things you believe you can't do.
 5. So now to my actual talk 
-	1. My topic of my work is: 
-	2. 
+	1. The topic of my work is: 
+	2. Finite size scaling analysis of underdamped Brownian particles
+6. 
 
-6. What is active matter?
+7. What is active matter?
 	1. Drei Zitate aus dem paper what is active matter 
 	2. Active brownian particles 
-7. Why interia? What's the matter with intertia?🤣
+8. Why interia? What's the matter with intertia?🤣
 	1. Why not intertia?
 		1. Overdamped equations are much easier?
 		2. Where is the justification:
 			1. We observe particles from several nm to several micrometer 
 			2. Low Reynolds Number Regime: micrometer-sized particles in a liquid (colloids), the motion occurs at very low Reynolds numbers, where viscous forces (drag) dissipate energy much faster than the inertia can maintain motion.
 			3. Time Scale Separation: Overdamping is justified when looking at long-time behavior, specifically for times $t \gg \frac{m}{\gamma}$(where $\gamma$ is the friction coefficient). The rapid inertial relaxation means that the particle reaches a diffusive regime almost immediately, rendering the acceleration irrelevant
-			4. Negligible Memory Effects: In viscous, dense fluids, collisions with solvent molecules occur on such a fast timescale that the particle's velocity "forgets" its previous state almost instantly, making the position the only relevant variable to describe long-term behavior
 		3. Applicable Scenarios: Microscale colloids in liquids, biological agents inside cells, and simulations where short-time ballistic behavior is not the focus.
 	2. Why inertia?
 		1. Failure Cases: Overdamping fails for macroscopic particles, microparticles in gases (low viscosity), or during the very early "ballistic" phase of a particle's motion where the trajectory is not yet dominated by collisions.
 		2. Interesting cases: 
-			1. Refrigerator 
-			2. Phase transitions
+			1. Phase transitions
+			2. Active Refrigerator 
+9. What is critical phenomena and finite size scaling analysis ~={MediumTurquoise} Mal in die Folien von nico von letztem Jahr schauen=~
+	1. What's a phase transition?
+	2. A change in order parameter in dependency of a control parameter?
+	3. What is an order parameter?
+	4. Some usually extensive physical quantity. It depends on the system you want to describe and how you classify order in a phase transition.
+		1. <u>Liquid gas transition</u>: the change in density in dependency of the temperature 
+		2. <u>Ferromagnetism</u>: change of magnetization in dependency of temperature and an external field
+		3. <u>MIPS in Active matter </u> the density distribution of the particles - the average density difference between the dense and the dilute phase, in dependency of  different parameters,
+			1. the packing fraction, 
+			2. for **abp** the activity strength or péclet number. 
+			3. other particle models like AOUP, the persistence time of the self-propulsion speed is tuned.   
+			4. On top of it you can apply various interactions 
+			5. Or in my case turning the particles mass and therefore the inertia up from overdamped to underdamped regime.
+		4. Phase transitions can be classified 
+			1. Mainly in first and second order phase transition 
+			2. First discontinuous change of the microscopic quantity 
+			3. Second order continues change 
+			4. <u>Ehrenfest</u>: order of the lowest derivative of the gibbs enthalpy G that has a discontinuity while crossing the coexistence curve
+	5. Critical phenomena 
+		1. As it names states it concerns about critical and therefore continuous phase transitions
+		2. <u>Landau</u>: expansion of the free energy density near a continuous PT in terms of an order parameter
+10. Mention the behavior of $\chi$ in Maggi21
 ### text memory
 - *For underdamped Brownian particles.*
   *Inertia is the control parameter.*

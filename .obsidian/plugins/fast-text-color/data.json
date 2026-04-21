@@ -1029,7 +1029,7 @@
   "themeIndex": 0,
   "version": "3",
   "interactiveDelimiters": true,
-  "useKeybindings": true,
+  "useKeybindings": false,
   "useNodeRebuilding": false,
   "colorCodeSection": true
 }
