@@ -289,7 +289,7 @@ $$
 	7. finite systems where you can't assume that they are thermodynamically large, like in our simulations
 		1. the correlation length which is the indicator/reason of the singular behavior of other quantities, is limited by the systems minimal expanse $L$. At the CP the correlation length can be maximal equal to it $\xi \approx L$
 		2. The singularities are rounded off -> this is described by scaling functions $\hat{f}\left( \frac{\xi}{L} \right)$ as function of the correlation length
-		3. so quantities near a CP are displayed by a power law with its exponent multiplied by the scaling function $\mathcal{O}(\tau) = |\tau|^{\zeta_{\mathcal{O}}}\hat{f}\left( \frac{\xi}{L} \right)$
+		3. so quantities near a CP are displayed by a power law with its exponent multiplied by the scaling function $\mathcal{O}(\tau,L) = |\tau|^{-\zeta_{\mathcal{O}}}\hat{f}\left( \frac{\xi}{L} \right)$⟹$\mathcal{O}(\tau,L) = L^{-\zeta_{\mathcal{O}}/\nu}\tilde{f}\left( |\tau|\left( \frac{L}{\xi} \right)^{1/\nu} \right)$ 
 10. Mention the behavior of $\chi$ in Maggi21
 ### text memory
 - *For underdamped Brownian particles.*
