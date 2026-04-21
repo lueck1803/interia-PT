@@ -1,5 +1,9 @@
 # Vertretungsunterricht 
 
+# Aufgsbbenideen
+## DAZ
+- übersetzt ein Gedicht aus eurer Muttersprache auf Deutsch. Ohne Google-Übersetzer 
+
 ## Bernhard Adelung Schule 
 ### Raumplan 
 ~={red}Hier Bild einfügen =~
