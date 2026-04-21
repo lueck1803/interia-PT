@@ -213,6 +213,7 @@ $$
 	4. I guess the easiest way to say what's wrong with me "that i try to explain what's wrong with me and why i so often can't"
 3. At least I can say I am not healthy in many ways and I am recovering too slowly.
 	1. But I am done with not meeting my obligations 
+	2. Saying sorry, trying to explain my 
 4. 
 
 5. What is active matter?
