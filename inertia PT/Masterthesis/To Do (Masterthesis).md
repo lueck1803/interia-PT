@@ -218,7 +218,7 @@ $$
 	4. At least consider this as a wrap up of my "work" and than saying farewell.
 4. One thing I can say that I have learned and I hope finally I have finally embodied somehow in my emotions and my existence.
 	1. Don’t be driven by fear and anxiety; instead, be led by curiosity and fascination
-	2. And bother too much about "how "
+	2. And bother too much about "how should I do this, the"
 5. So now to my actual talk 
 	1. My topic of my work is: 
 	2. 
