@@ -287,8 +287,9 @@ f_{\text{sing}}(\tau,h)=|\tau|^{2-\alpha} \hat{f}_{\pm}\left( \frac{h}{|t|^{\bet
 $$
 		3. ⟹critical exponents are not independent -> scaling relations
 	7. finite systems where you can't assume that they are thermodynamically large, like in our simulations
-		1. the correlation length which is the indicator/reason of the singular behavior of other quantities, is 
-		2. The singularities are rounded off 
+		1. the correlation length which is the indicator/reason of the singular behavior of other quantities, is limited by the systems minimal expanse $L$. At the CP the correlation length can be maximal equal to it $\xi \approx L$
+		2. The singularities are rounded off -> this is described by scaling functions $\hat{f}\left( \frac{\xi}{L} \right)$
+		3. 
 10. Mention the behavior of $\chi$ in Maggi21
 ### text memory
 - *For underdamped Brownian particles.*
