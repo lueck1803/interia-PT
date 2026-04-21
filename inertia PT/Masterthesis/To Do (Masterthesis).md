@@ -206,11 +206,13 @@ $$
 16. Vortrag
 ## talk
 1. Thank you for having me 
+2. I often really don't know what is wrong with me.
+	1. Oh yes of course I know 
 
-2. What is active matter?
+3. What is active matter?
 	1. Drei Zitate aus dem paper what is active matter 
 	2. Active brownian particles 
-3. Why interia? What's the matter with intertia?🤣
+4. Why interia? What's the matter with intertia?🤣
 	1. Why not intertia?
 		1. Overdamped equations are much easier?
 		2. Where is the justification:
