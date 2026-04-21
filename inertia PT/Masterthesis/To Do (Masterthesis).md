@@ -205,14 +205,14 @@ $$
 15. -> arbeit aritra schicken
 16. Vortrag
 ## talk
-1. Thank you for having me 
+1. Thank you for having me. 
 2. I often really don't know what is wrong with me.
 	1. But that's wrong,
 	2. The problem is i know what's wrong with me most of the time. 😅
 	3. But it's too hard for me to explain in few words 
 	4. I guess the easiest way to say what's wrong with me "that i try to explain what's wrong with me and why i so often can't"
 3. At least I can say I am not healthy in many ways and I am recovering too slowly.
-	1. But I am done with not meeting my obligations and test the patien
+	1. But I am done with not meeting my obligations and test the patience of all again and again 
 	2. Saying sorry, trying to explain my 
 4. 
 
