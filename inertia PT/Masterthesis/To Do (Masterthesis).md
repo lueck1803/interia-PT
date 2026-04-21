@@ -271,7 +271,11 @@ $$
 			6. Description of these quantities by power law in terms of reduced control parameter $\tau=1-\frac{T}{T_{c}}$ 
 			7. mean field theory crashes
 			8. $\xi \propto |\tau|^{-\nu}$
-			9. order parameter $M_{S}\propto |\tau|^{\beta}$$\mathcal{O}$
+			9. order parameter $\mathcal{O}=$$M_{S}\propto |\tau|^{\beta}$
+			10. susceptibility $\chi \propto |\tau|^{\gamma}$
+			11. other quantities like the compressibility $\kappa$ or the specific heat $C$ 
+		4. there are mean field values for these exponents, but you never find them in experiments
+			1. moreover fascinating 
 10. Mention the behavior of $\chi$ in Maggi21
 ### text memory
 - *For underdamped Brownian particles.*
