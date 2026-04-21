@@ -214,7 +214,7 @@ $$
 		1. Overdamped equations are much easier?
 		2. Where is the justification:
 			1. We observe particles from several nm to several micrometer 
-			2. 
+			2. Low Reynolds Number Regime: 
 ### text memory
 - *For underdamped Brownian particles.*
   *Inertia is the control parameter.*
