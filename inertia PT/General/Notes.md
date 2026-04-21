@@ -2426,7 +2426,8 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 ~={Gold}**ab hier Blumen mod**=~
 61. ✅✅(~={blue}+3 3 +=~) (~={blue}+3 3 +=~)
 62. ✅✅✅✅
-63. ✅✅(~={MediumSpringGreen}+5=~)
+63. ✅✅(~={MediumSpringGreen}+55+=~) 
+64. 
 
 ### Lochmuster ab Reihe 43
 ⃝ = Wickelmasche
