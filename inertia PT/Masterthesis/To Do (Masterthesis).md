@@ -212,7 +212,8 @@ $$
 2. Why interia? What's the matter with intertia?🤣
 	1. Why not intertia?
 		1. Overdamped equations are much easier?
-		2. Where is the justification 
+		2. Where is the justification:
+			1. We observe particles 
 ### text memory
 - *For underdamped Brownian particles.*
   *Inertia is the control parameter.*
