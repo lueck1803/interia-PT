@@ -275,7 +275,10 @@ $$
 			10. susceptibility $\chi \propto |\tau|^{\gamma}$
 			11. other quantities like the compressibility $\kappa$ or the specific heat $C$ 
 		4. there are mean field values for these exponents, but you never find them in experiments
-			1. moreover fascinating 
+			1. moreover fascinating it appeared universality of these exponents found in experiments
+			2. they are the same for physically complete different systems
+			3. the exponents found for the Ising magnet and the liquid gas transition are the same
+			4. also for the x-y heißberg magnet and a superfluid
 10. Mention the behavior of $\chi$ in Maggi21
 ### text memory
 - *For underdamped Brownian particles.*
