@@ -205,7 +205,7 @@ $$
 15. -> arbeit aritra schicken
 16. Vortrag
 ## talk
-1. Thank you for having me. 
+1. Thank you for having me. Sorry I have constant brain fog these days so don't be mean about me, that I need to read what I want to say.
 2. I often really don't know what is wrong with me.
 	1. But that's wrong,
 	2. The problem is i know what's wrong with me most of the time. 😅
@@ -213,7 +213,7 @@ $$
 	4. I guess the easiest way to say what's wrong with me "that i try to explain what's wrong with me and why i so often can't"
 3. At least I can say I am not healthy in many ways and I am recovering too slowly.
 	1. But I am done with not meeting my obligations and test the patience of all again and again 
-	2. Saying sorry, trying to explain my 
+	2. I said that I hold my proposal defense talk so I hold some despite having not handed I my proposal 
 4. 
 
 5. What is active matter?
