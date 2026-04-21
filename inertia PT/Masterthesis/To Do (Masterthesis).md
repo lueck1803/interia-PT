@@ -219,7 +219,8 @@ $$
 4. One thing I can say that I have learned and I hope finally I have finally embodied somehow in my emotions and my existence.
 	1. Don’t be driven by fear and anxiety; instead, be led by curiosity and fascination
 5. So now to my actual talk 
-	1. My topic of my
+	1. My topic of my work is: 
+	2. 
 
 6. What is active matter?
 	1. Drei Zitate aus dem paper what is active matter 
