@@ -1,8 +1,9 @@
 # proposal
 - [x] Simulation checken
-- [ ] cake for cake meeting 
 - [ ] talk fertig vorbereiten 
 - [ ] Text für Überleitung/Entwicklung zu meiner methode fertig schreiben 
+- [ ] Vortrag stark reduzieren 
+- [ ] den Text den ich für den Talk aufgeschrieben habe fürs proposal verwenden 
 - [ ] die mod methode was ich Benno erklärt habe fertig beschreiben - also mit deren Annahmen über die distributionen und dass deren Methode die Zwischenbereiche der regime nicht genauer betrachtet.
 - [ ] deren Evaluation mit der originalen block density nicht rein nehmen 
 - [ ] dann den Übergang zu meiner methode beschreiben und begründen.
@@ -22,6 +23,7 @@
 - [ ] mandal lesen und von llm zusammenfassen lassen -> was kam da bei seiner temperatur raus.
 # unsortiert
 - [ ] unbedingt konto und briefkasten checken
+- [ ] cake for cake meeting 
 - [ ] nachricht von jamil lesen
 - [ ] ~={DeepSkyBlue}ADHS Event=~ im Mai anmelden
 - [ ] Wasserhahn Küche silkonölen
