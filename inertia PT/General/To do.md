@@ -20,6 +20,8 @@
 - [ ] Lukas Hecht active refigerator lesen/überfliegen und von llm zusammenfassen lassen
 - [ ] mandal lesen und von llm zusammenfassen lassen -> was kam da bei seiner temperatur raus.
 # unsortiert
+- [ ] unbedingt konto und briefkasten checken
+- [ ] nachricht von jamil lesen
 - [ ] ~={DeepSkyBlue}ADHS Event=~ im Mai anmelden
 - [ ] Wasserhahn Küche silkonölen
 - [ ] Pflanzen gießen 

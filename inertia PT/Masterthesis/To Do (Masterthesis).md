@@ -263,6 +263,7 @@ $$
 	5. Critical phenomena 
 		1. As it names states it concerns about critical and therefore continuous phase transitions
 		2. <u>Landau</u>: expansion of the free energy density near a continuous PT in terms of an order parameter
+		3. what is happening in the vicinity of a continuous phase transition?
 10. Mention the behavior of $\chi$ in Maggi21
 ### text memory
 - *For underdamped Brownian particles.*
