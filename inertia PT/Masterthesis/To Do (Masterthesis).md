@@ -207,12 +207,18 @@ $$
 ## talk
 1. Thank you for having me 
 2. I often really don't know what is wrong with me.
-	1. Oh yes of course I know 
+	1. But that's wrong,
+	2. The problem is i know what's wrong with me most of the time. 😅
+	3. But it's too hard for me to explain in few words 
+	4. I guess the easiest way to say what's wrong with me "that i try to explain what's wrong with me and why i so often can't"
+3. At least I can say I am not healthy in many ways and I am recovering too slowly.
+	1. But I am done with not meeting my
+4. 
 
-3. What is active matter?
+5. What is active matter?
 	1. Drei Zitate aus dem paper what is active matter 
 	2. Active brownian particles 
-4. Why interia? What's the matter with intertia?🤣
+6. Why interia? What's the matter with intertia?🤣
 	1. Why not intertia?
 		1. Overdamped equations are much easier?
 		2. Where is the justification:
