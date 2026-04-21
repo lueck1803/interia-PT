@@ -205,11 +205,12 @@ $$
 15. -> arbeit aritra schicken
 16. Vortrag
 ## talk
+1. Thank you for having me 
 
-1. What is active matter?
+2. What is active matter?
 	1. Drei Zitate aus dem paper what is active matter 
 	2. Active brownian particles 
-2. Why interia? What's the matter with intertia?🤣
+3. Why interia? What's the matter with intertia?🤣
 	1. Why not intertia?
 		1. Overdamped equations are much easier?
 		2. Where is the justification:
@@ -222,7 +223,7 @@ $$
 		1. Failure Cases: Overdamping fails for macroscopic particles, microparticles in gases (low viscosity), or during the very early "ballistic" phase of a particle's motion where the trajectory is not yet dominated by collisions.
 		2. Interesting cases: 
 			1. Refrigerator 
-			2. Phase tran
+			2. Phase transitions
 ### text memory
 - *For underdamped Brownian particles.*
   *Inertia is the control parameter.*
