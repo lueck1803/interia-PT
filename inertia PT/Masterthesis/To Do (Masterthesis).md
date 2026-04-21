@@ -263,6 +263,33 @@ $$
 	5. Critical phenomena 
 		1. As it names states it concerns about critical and therefore continuous phase transitions
 		2. <u>Landau</u>: expansion of the free energy density near a continuous PT in terms of an order parameter
+		3. what is happening in the vicinity of a continuous phase transition?
+			2. small changes in values of external field lead to large changes in order parameter or there are large fluctuations associated with it 
+			3. the correlation length $\xi$ - the length on which interactions correlate, the same yields for fluctuations - goes to infinity at the critical point point
+			4. equilibrium: response and fluctuations are infinitely connected: fluctuation-dissipation theorem
+			5. therefore other quantities like the susceptibility $\chi$ goes to infinity
+			6. Description of these quantities by power law in terms of reduced control parameter $\tau=1-\frac{T}{T_{c}}$ 
+			7. mean field theory crashes
+			8. $\xi \propto |\tau|^{-\nu}$
+			9. order parameter $\mathcal{O}=$$M_{S}\propto |\tau|^{\beta}$
+			10. susceptibility $\chi \propto |\tau|^{\gamma}$
+			11. other quantities like the specific heat $C$ or the compressibility $\kappa$
+		4. there are mean field values for these exponents, but you never find them in experiments
+			1. moreover fascinating it appeared universality of these exponents found in experiments and the scale invariance
+			2. systems. with the same symmetry + same numbers of order paramter + interaction range ⟹same values for the exponents
+			3. they are the same for physically complete different systems
+			4. the exponents found for the Ising magnet and the liquid gas transition are the same
+			5. also for the xy magnet model and a superfluid
+	6. scaling theory
+		1. generalization of the features near the CP
+		2. depiction of the singular part of the free energy with a power law $$
+f_{\text{sing}}(\tau,h)=|\tau|^{2-\alpha} \hat{f}_{\pm}\left( \frac{h}{|t|^{\beta \delta}} \right)
+$$
+		3. ⟹critical exponents are not independent -> scaling relations
+	7. finite systems where you can't assume that they are thermodynamically large, like in our simulations
+		1. the correlation length which is the indicator/reason of the singular behavior of other quantities, is limited by the systems minimal expanse $L$. At the CP the correlation length can be maximal equal to it $\xi \approx L$
+		2. The singularities are rounded off -> this is described by scaling functions $\hat{f}\left( \frac{\xi}{L} \right)$ as function of the correlation length
+		3. so quantities near a CP are displayed by a power law with its exponent multiplied by the scaling function $\mathcal{O}(\tau,L) = |\tau|^{-\zeta_{\mathcal{O}}}\hat{f}\left( \frac{\xi}{L} \right)$⟹$\mathcal{O}(\tau,L) = L^{-\zeta_{\mathcal{O}}/\nu}\tilde{f}\left( |\tau|\left( \frac{L}{\xi} \right)^{1/\nu} \right)$ 
 10. Mention the behavior of $\chi$ in Maggi21
 ### text memory
 - *For underdamped Brownian particles.*
