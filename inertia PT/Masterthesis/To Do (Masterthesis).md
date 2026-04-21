@@ -221,7 +221,8 @@ $$
 	2. Why inertia?
 		1. Failure Cases: Overdamping fails for macroscopic particles, microparticles in gases (low viscosity), or during the very early "ballistic" phase of a particle's motion where the trajectory is not yet dominated by collisions.
 		2. Interesting cases: 
-			1. Re
+			1. Refrigerator 
+			2. Phase tran
 ### text memory
 - *For underdamped Brownian particles.*
   *Inertia is the control parameter.*
