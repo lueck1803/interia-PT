@@ -220,7 +220,8 @@ $$
 		3. Applicable Scenarios: Microscale colloids in liquids, biological agents inside cells, and simulations where short-time ballistic behavior is not the focus.
 	2. Why inertia?
 		1. Failure Cases: Overdamping fails for macroscopic particles, microparticles in gases (low viscosity), or during the very early "ballistic" phase of a particle's motion where the trajectory is not yet dominated by collisions.
-		2. 
+		2. Interesting cases: 
+			1. Re
 ### text memory
 - *For underdamped Brownian particles.*
   *Inertia is the control parameter.*
