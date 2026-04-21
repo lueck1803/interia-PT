@@ -215,7 +215,8 @@ $$
 		2. Where is the justification:
 			1. We observe particles from several nm to several micrometer 
 			2. Low Reynolds Number Regime: micrometer-sized particles in a liquid (colloids), the motion occurs at very low Reynolds numbers, where viscous forces (drag) dissipate energy much faster than the inertia can maintain motion.
-			3. Time Scale Separation: Overdamping is justified when looking at long-time behavior, specifically for times $$(where $\gamma$ is the friction coefficient). The rapid inertial relaxation means that the particle reaches a diffusive regime almost immediately, rendering the acceleration irrelevant
+			3. Time Scale Separation: Overdamping is justified when looking at long-time behavior, specifically for times $t \gg \frac{m}{\gamma}$(where $\gamma$ is the friction coefficient). The rapid inertial relaxation means that the particle reaches a diffusive regime almost immediately, rendering the acceleration irrelevant
+			4. Negligible Memory Effects: In viscous, dense fluids, collisions with solvent molecules occur on such a fast timescale that the particle's velocity "forgets" its previous state almost instantly, making the position the only relevant variable to describe long-term behavior
 ### text memory
 - *For underdamped Brownian particles.*
   *Inertia is the control parameter.*
