@@ -213,7 +213,7 @@ $$
 	1. Why not intertia?
 		1. Overdamped equations are much easier?
 		2. Where is the justification:
-			1. We observe particles from nm to micrometer 
+			1. We observe particles from several nm to several micrometer 
 			2. 
 ### text memory
 - *For underdamped Brownian particles.*
