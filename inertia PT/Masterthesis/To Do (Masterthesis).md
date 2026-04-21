@@ -273,7 +273,7 @@ $$
 			8. $\xi \propto |\tau|^{-\nu}$
 			9. order parameter $\mathcal{O}=$$M_{S}\propto |\tau|^{\beta}$
 			10. susceptibility $\chi \propto |\tau|^{\gamma}$
-			11. other quantities like the compressibility $\kappa$ or the specific heat $C$ 
+			11. other quantities like the specific heat $C$ or the compressibility $\kappa$
 		4. there are mean field values for these exponents, but you never find them in experiments
 			1. moreover fascinating it appeared universality of these exponents found in experiments and the scale invariance
 			2. systems. with the same symmetry + same numbers of order paramter ⟹same values for the exponents
