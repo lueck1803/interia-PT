@@ -1,5 +1,9 @@
 # proposal
 - [x] Simulation checken
+- [ ] Kästchen Methode mit com schreiben 
+- [ ] Simulation mit PE 50 mit 3.5k Teilchen 
+- [ ] Simulation mit PE 50 mit 7k Teilchen 
+- [ ] Simulation mit PE 50 mit 14k Teilchen 
 - [ ] Begründung für die starke Abhängigkeit des Bindercumlants von der system size bei den kleineren kästchen
 	- [ ] ich denke es liegt daran, dass die statistik eine stark andere ist. je kleiner die system größe und je kleiner die kästchen, desto weniger teilchen sind in den kästchen und somit verändert das die statistik stark.
 	- [ ] begründung dazu gabs in rovere1990 und binder1981
