@@ -1,5 +1,9 @@
 - [ ] schokomüsli
 - [ ] bananen
+- türke
+	- [ ] weiße bohnen 
+	- [ ] kalamata oliven 
+	- [ ] grüne erbsen
 - [x] nussetti 
 - [x] äpfel
 - [x] burger
