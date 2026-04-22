@@ -80,7 +80,7 @@
 - [ ] ~={DeepSkyBlue}ADHS Event=~ im Mai anmelden
 - [ ] Wasserhahn Küche silkonölen
 - [x] Pflanzen gießen 
-- [ ] Hantelbank fest Schrauben 
+- [x] Hantelbank fest Schrauben 
 - [ ] simon nach seinen Folien fragen 
 - [ ] Vorderrad Bremse checken/einstellen/tauschen 
 - [ ] Klingel checken
@@ -88,8 +88,8 @@
 - [x] Briefkasten leeren 
 - [ ] meditieren 
 - [ ] Lisa mank SMS schreiben
+	- nicht nötig, da ich jetzt an der BAS bin
 - [ ] tägliches Mantra aufräumen 
-- [ ] Spülmaschine 
 - [ ] ~={Crimson}Wie schaffe ich es immer aroused zu sein?=~
 	- [ ] Angst 
 	- [ ] Sport 
