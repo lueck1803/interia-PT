@@ -1,6 +1,7 @@
 # To-Do 
 - Unterrichtsmaterialien 5 und 6 Klasse Englisch 
 - und deutsch suchen 
+- lernen schneller und kleiner an der Tafel zu schreiben
 # Vertretungsunterricht 
 
 # Aufgaben-Ideen
