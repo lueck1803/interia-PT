@@ -44,8 +44,8 @@
 # unsortiert
 - [ ] unbedingt konto und briefkasten checken
 - [ ] jamil mein bsc Zeugnis schicken 
-- [ ] Benno Mail schreiben 
-- [ ] lotus Wasser tauschen 
+- [x] Benno Mail schreiben 
+- [x] lotus Wasser tauschen 
 - [ ] Biomüll runter
 - [ ] abp anstellen
 - [ ] Spülmaschine ausräumen 
@@ -63,14 +63,17 @@
 - [ ] Boden wischen 
 - [ ] Wäsche zusammen legen 
 - [ ] Mieterhöhung unterschreiben 
+- [ ] und Papierkram
 - [ ] CV fertig schreiben 
 - [ ] Toilettendeckel tauschen 
-- [ ] bei Kinder Betreuung bewerben 
+- [x] bei Kinder Betreuung bewerben 
+	- [ ] ⟹muss ich nicht mehr, ok vielleicht wäre das für die Sommerferien gut
 - [ ] Email an Schulen gingen raus?
-- [ ] nachricht von jamil lesen
+	- [ ] ⟹muss ich nicht mehr, 
+- [x] nachricht von jamil lesen
 - [ ] ~={DeepSkyBlue}ADHS Event=~ im Mai anmelden
 - [ ] Wasserhahn Küche silkonölen
-- [ ] Pflanzen gießen 
+- [x] Pflanzen gießen 
 - [ ] Hantelbank fest Schrauben 
 - [ ] simon nach seinen Folien fragen 
 - [ ] Vorderrad Bremse checken/einstellen/tauschen 
