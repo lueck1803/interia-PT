@@ -40,7 +40,8 @@
 - [ ] Spülmaschine ausräumen 
 - [ ] gießen
 - [ ] Stunden eintragen 
-- [ ] Mail von poppinga
+- [ ] Mail von Poppinga wegen jhv lesen 
+- [ ] schauen wie ich mein Tablet Update
 - [ ] cake for cake meeting 
 - [ ] rasieren 
 - [ ] staubsaugen 
