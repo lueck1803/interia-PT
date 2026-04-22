@@ -42,6 +42,7 @@
 - [ ] Stunden eintragen 
 - [ ] Mail von Poppinga wegen jhv lesen 
 - [ ] schauen wie ich mein Tablet Update
+- [ ] lernen 
 - [ ] cake for cake meeting 
 - [ ] rasieren 
 - [ ] staubsaugen 
