@@ -50,6 +50,7 @@
 # unsortiert
 - [ ] unbedingt konto und briefkasten checken
 - [ ] jamil mein bsc Zeugnis schicken 
+- [ ] rote okra stecken 
 - [x] Benno Mail schreiben 
 - [x] lotus Wasser tauschen 
 - [ ] Biomüll runter
