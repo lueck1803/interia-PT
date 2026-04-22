@@ -34,6 +34,8 @@
 - [ ] mandal lesen und von llm zusammenfassen lassen -> was kam da bei seiner temperatur raus.
 # unsortiert
 - [ ] unbedingt konto und briefkasten checken
+- [ ] jamil mein bsc Zeugnis schicken 
+- [ ] Benno Mail schreiben 
 - [ ] cake for cake meeting 
 - [ ] rasieren 
 - [ ] staubsaugen 
