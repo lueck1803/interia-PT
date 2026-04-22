@@ -37,6 +37,7 @@
 - [ ] jamil mein bsc Zeugnis schicken 
 - [ ] Benno Mail schreiben 
 - [ ] lotus Wasser tauschen 
+- [ ] Biomüll runter
 - [ ] abp anstellen
 - [ ] Spülmaschine ausräumen 
 - [ ] gießen
