@@ -7,6 +7,14 @@
 		- [ ] the not crossing of Q of ising model
 		- [ ] comparison of the crossing of abp between block density distribution and modified Block-Distribution 
 - [ ] ask nandita for help for wrapping things up or how much to say to certain things 
+- talk
+	- backup folien
+	- stark reduzieren
+	- wo setze ich den fokus?
+		- auf die problematik der methode
+		- erklären
+		- und die Begründung, warum ich diese gewählt habe
+		- meine methode gut erklären
 - [x] leif nach abp fragen
 	- [ ] hab ich bekommen -> Simulationen starten 
 - [ ] talk fertig vorbereiten 
