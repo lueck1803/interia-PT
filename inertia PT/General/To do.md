@@ -54,20 +54,20 @@
 - [x] lotus Wasser tauschen 
 - [ ] Biomüll runter
 - [ ] abp anstellen
-- [ ] Spülmaschine ausräumen 
+- [x] Spülmaschine ausräumen 
 - [ ] gießen
-- [ ] Stunden eintragen 
+- [x] Stunden eintragen 
 - [ ] Mail von Poppinga wegen jhv lesen 
 - [ ] schauen wie ich mein Tablet Update
 - [ ] lernen schneller und kleiner an der Tafel zu schreiben
 - [ ] cake for cake meeting 
-- [ ] rasieren 
+- [x] rasieren 
 - [ ] staubsaugen 
 - [ ] sofa saugen 
 - [ ] Tisch wischen 
 - [ ] Toilette putzen 
 - [ ] Boden wischen 
-- [ ] Wäsche zusammen legen 
+- [x] Wäsche zusammen legen 
 - [ ] Mieterhöhung unterschreiben 
 - [ ] und Papierkram
 - [ ] CV fertig schreiben 
