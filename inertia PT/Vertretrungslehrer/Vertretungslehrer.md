@@ -12,8 +12,8 @@
 Code für den iPad Koffer 
 008 150
 ### Raumplan 
-~={red}Hier Bild einfügen =~
 
+![](BAS-Raumverteilung-25-26.jpeg)
 ### Zeiten
 - 1.-2.: 7:55 - 9:25
 - 3.-4.: 9:45 - 11:15
