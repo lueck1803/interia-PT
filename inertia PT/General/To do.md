@@ -1,9 +1,17 @@
 # proposal
 - [x] Simulation checken
 - [ ] Kästchen Methode mit com schreiben 
-- [ ] Simulation mit PE 50 mit 3.5k Teilchen 
-- [ ] Simulation mit PE 50 mit 7k Teilchen 
-- [ ] Simulation mit PE 50 mit 14k Teilchen 
+	- [ ] code so schreiben dass ich vieles von dem Code den ich habe weiter verwenden kann
+	- [ ] modularer machen 
+	- [ ] zb das Kästchen zeigen 
+	- [ ] evaluate für com Methode 
+- [ ] Ergebnisse mit meiner Methode vergleichen 
+- [x] Simulation mit PE 50 mit 3.5k Teilchen 
+- [x] Simulation mit PE 50 mit 7k Teilchen 
+- [x] Simulation mit PE 40 mit 3.5k Teilchen 
+- [x] Simulation mit PE 45 mit 3.5k Teilchen 
+- [x] Simulation mit PE 40 mit 7k Teilchen 
+- [x] Simulation mit PE 45 mit 7k Teilchen 
 - [ ] Begründung für die starke Abhängigkeit des Bindercumlants von der system size bei den kleineren kästchen
 	- [ ] ich denke es liegt daran, dass die statistik eine stark andere ist. je kleiner die system größe und je kleiner die kästchen, desto weniger teilchen sind in den kästchen und somit verändert das die statistik stark.
 	- [ ] begründung dazu gabs in rovere1990 und binder1981
