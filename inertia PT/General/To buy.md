@@ -1,3 +1,5 @@
+- [ ] schokomüsli
+- [ ] bananen
 - [x] nussetti 
 - [x] äpfel
 - [x] burger
