@@ -2,9 +2,10 @@
 - [x] Simulation checken
 - [ ] Begründung für die starke Abhängigkeit des Bindercumlants von der system size bei den kleineren kästchen
 	- [ ] ich denke es liegt daran, dass die statistik eine stark andere ist. je kleiner die system größe und je kleiner die kästchen, desto weniger teilchen sind in den kästchen und somit verändert das die statistik stark.
-	- [ ] begründung dazu gabs in rovere1990
+	- [ ] begründung dazu gabs in rovere1990 und binder1981
 - [ ] warum benutzen manche $Q_{L}$ und nicht $\mathcal{B}$?
 - [ ] RESULTS OF THE ORIGINAL SUBSYSTEM METHOD lesen
+- [ ] siebert2018 + SI - nicht alle systemgrößen verwendbar
 - [ ] prepare back up slides for questions 
 	- [ ] one for the reasoning why to avoid interfaces is important 
 		- [ ] picture of the local density distribution 
