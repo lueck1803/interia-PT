@@ -14,7 +14,7 @@
 		- auf die problematik der ursprünglichen methode eingehen
 		- warum so viel wert auf das Auslassen der Grenzflächen gelegt wurde
 		- erklären warum ich diese nicht verwenden konnte
-		- local density distribution zeigen, dass ich das nicht einfach fitten kann, mit der distribution 
+		- local density distribution zeigen, dass ich das nicht einfach fitten kann, mit der distribution von rovere1990 *The gas-liquid transition of the two-dimensional Lennard-Jones fluid* vergleichen.
 		- meine methode gut erklären
 - [x] leif nach abp fragen
 	- [ ] hab ich bekommen -> Simulationen starten 
