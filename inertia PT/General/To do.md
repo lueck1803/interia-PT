@@ -11,9 +11,10 @@
 	- backup folien
 	- stark reduzieren
 	- wo setze ich den fokus?
-		- auf die problematik der methode
-		- erklären
-		- und die Begründung, warum ich diese gewählt habe
+		- auf die problematik der ursprünglichen methode eingehen
+		- warum so viel wert auf das Auslassen der Grenzflächen gelegt wurde
+		- erklären warum ich diese nicht verwenden konnte
+		- local density distribution zeigen, dass ich das nicht einfach fitten kann, mit der distribution 
 		- meine methode gut erklären
 - [x] leif nach abp fragen
 	- [ ] hab ich bekommen -> Simulationen starten 
