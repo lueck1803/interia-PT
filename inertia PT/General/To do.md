@@ -40,6 +40,7 @@
 - [ ] Spülmaschine ausräumen 
 - [ ] gießen
 - [ ] Stunden eintragen 
+- [ ] Mail von poppinga
 - [ ] cake for cake meeting 
 - [ ] rasieren 
 - [ ] staubsaugen 
