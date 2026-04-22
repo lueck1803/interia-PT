@@ -36,7 +36,10 @@
 - [ ] unbedingt konto und briefkasten checken
 - [ ] jamil mein bsc Zeugnis schicken 
 - [ ] Benno Mail schreiben 
-- [ ] abp anste
+- [ ] abp anstellen
+- [ ] Spülmaschine ausräumen 
+- [ ] gießen
+- [ ] Stunden eintragen 
 - [ ] cake for cake meeting 
 - [ ] rasieren 
 - [ ] staubsaugen 
