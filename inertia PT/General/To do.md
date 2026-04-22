@@ -36,7 +36,7 @@
 - [ ] unbedingt konto und briefkasten checken
 - [ ] jamil mein bsc Zeugnis schicken 
 - [ ] Benno Mail schreiben 
-- [ ] lotus 
+- [ ] lotus Wasser tauschen 
 - [ ] abp anstellen
 - [ ] Spülmaschine ausräumen 
 - [ ] gießen
