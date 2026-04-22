@@ -13,8 +13,8 @@
   "better-export-pdf",
   "callout-copy-buttons",
   "fast-text-color",
-  "line-commands",
   "table-editor-obsidian",
   "obsidian-git",
-  "dataview"
+  "dataview",
+  "line-commands"
 ]
