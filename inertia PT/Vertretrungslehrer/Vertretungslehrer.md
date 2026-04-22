@@ -1,10 +1,12 @@
 # Vertretungsunterricht 
 
-# Aufgsbbenideen
+# Aufgabenideen
 ## DAZ
 - übersetzt ein Gedicht aus eurer Muttersprache auf Deutsch. Ohne Google-Übersetzer 
 
 ## Bernhard Adelung Schule 
+Code für den iPad Koffer 
+008 150
 ### Raumplan 
 ~={red}Hier Bild einfügen =~
 ### Zeiten
