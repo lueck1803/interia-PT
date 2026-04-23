@@ -71,7 +71,7 @@
 - [ ] Essen mit Kartoffeln machen 
 - [ ] Handtücher Küche tauschen 
 - [ ] Bettwäsche wechseln 
-- [ ] Rosmarin klein schneiden 
+- [ ] alten Rosmarin klein schneiden 
 - [ ] sobald ich den Vertrag unterschrieben habe, karte für psychedelic festival kaufen 
 - [x] Benno Mail schreiben 
 - [x] lotus Wasser tauschen 
@@ -84,13 +84,13 @@
 - [x] Mail von Poppinga wegen jhv lesen 
 - [ ] schauen wie ich mein Tablet Update
 - [ ] lernen schneller und kleiner an der Tafel zu schreiben
-- [ ] cake for cake meeting 
+- [x] cake for cake meeting 
 - [x] rasieren 
-- [ ] staubsaugen 
+- [x] staubsaugen 
 - [ ] sofa saugen 
 - [ ] Tisch wischen 
 - [x] Toilette putzen 
-- [ ] Boden wischen 
+- [x] Boden wischen 
 - [x] Wäsche zusammen legen 
 - [ ] Mieterhöhung unterschreiben 
 - [ ] und Papierkram
