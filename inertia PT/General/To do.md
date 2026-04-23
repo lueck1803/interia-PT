@@ -63,6 +63,9 @@
 # unsortiert
 - [ ] unbedingt konto und briefkasten checken
 - [ ] Pflänzchen umsetzen 
+- [ ] im Sekretariat bot. Garten 
+	- [ ] Sonntagsdienst 
+	- [ ] und Dienst zum Helfen 
 - [ ] pflanzen aus der Sonne stellen und eventuell Pflanzen ein packen mit zu den Eltern 
 - [ ] jamil mein bsc Zeugnis + cv schicken 
 - [ ] Essen mit Kartoffeln machen 
