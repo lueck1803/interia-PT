@@ -61,7 +61,7 @@
 - [ ] mandal lesen und von llm zusammenfassen lassen -> was kam da bei seiner temperatur raus.
 # unsortiert
 - [ ] unbedingt konto und briefkasten checken
-- [ ] jamil mein bsc Zeugnis schicken 
+- [ ] jamil mein bsc Zeugnis + cv schicken 
 - [ ] rote okra stecken 
 - [x] Benno Mail schreiben 
 - [x] lotus Wasser tauschen 
@@ -70,7 +70,7 @@
 - [x] Spülmaschine ausräumen 
 - [ ] gießen
 - [x] Stunden eintragen 
-- [ ] Mail von Poppinga wegen jhv lesen 
+- [x] Mail von Poppinga wegen jhv lesen 
 - [ ] schauen wie ich mein Tablet Update
 - [ ] lernen schneller und kleiner an der Tafel zu schreiben
 - [ ] cake for cake meeting 
@@ -78,7 +78,7 @@
 - [ ] staubsaugen 
 - [ ] sofa saugen 
 - [ ] Tisch wischen 
-- [ ] Toilette putzen 
+- [x] Toilette putzen 
 - [ ] Boden wischen 
 - [x] Wäsche zusammen legen 
 - [ ] Mieterhöhung unterschreiben 
