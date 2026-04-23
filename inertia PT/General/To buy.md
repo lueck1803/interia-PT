@@ -1,6 +1,7 @@
 - [ ] schokomüsli
 - [ ] bananen
 - [ ] Margarine 
+- [ ] toast
 - türke
 	- [ ] weiße bohnen 
 	- [ ] kalamata oliven 
