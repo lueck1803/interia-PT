@@ -6,7 +6,7 @@
 	- [ ] zb das Kästchen zeigen 
 	- [ ] evaluate für com Methode 
 - [ ] Ergebnisse mit meiner Methode vergleichen 
-- [ ] PE 150 erwähnen, dass es hier
+- [ ] PE 150 erwähnen, dass es hier 
 - [x] Simulation mit PE 50 mit 3.5k Teilchen 
 - [x] Simulation mit PE 50 mit 7k Teilchen 
 - [x] Simulation mit PE 40 mit 3.5k Teilchen 
