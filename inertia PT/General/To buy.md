@@ -2,6 +2,7 @@
 - [ ] bananen
 - [ ] Margarine 
 - [ ] toast
+- [ ] hummus
 - türke
 	- [ ] weiße bohnen 
 	- [ ] kalamata oliven 

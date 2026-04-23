@@ -63,12 +63,14 @@
 - [ ] unbedingt konto und briefkasten checken
 - [ ] jamil mein bsc Zeugnis + cv schicken 
 - [ ] rote okra stecken 
+- [ ] Essen mit Kartoffeln machen 
 - [x] Benno Mail schreiben 
 - [x] lotus Wasser tauschen 
 - [ ] Biomüll runter
 - [ ] abp anstellen
 - [x] Spülmaschine ausräumen 
 - [ ] gießen
+- [ ] spülkorb sauber machen
 - [x] Stunden eintragen 
 - [x] Mail von Poppinga wegen jhv lesen 
 - [ ] schauen wie ich mein Tablet Update
