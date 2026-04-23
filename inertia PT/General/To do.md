@@ -63,6 +63,7 @@
 # unsortiert
 - [ ] unbedingt konto und briefkasten checken
 - [ ] Pflänzchen umsetzen 
+- [ ] pflanzen aus der Sonne stellen und eventuell Pflanzen ein packen mit zu den Eltern 
 - [ ] jamil mein bsc Zeugnis + cv schicken 
 - [ ] Essen mit Kartoffeln machen 
 - [ ] Handtücher Küche tauschen 
