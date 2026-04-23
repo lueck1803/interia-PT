@@ -61,7 +61,7 @@
 - [ ] mandal lesen und von llm zusammenfassen lassen -> was kam da bei seiner temperatur raus.
 # unsortiert
 - [ ] unbedingt konto und briefkasten checken
-- [ ] pfl
+- [ ] Pflänzchen umsetzen 
 - [ ] jamil mein bsc Zeugnis + cv schicken 
 - [ ] Essen mit Kartoffeln machen 
 - [ ] Handtücher Küche tauschen 
