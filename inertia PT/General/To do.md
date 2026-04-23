@@ -63,6 +63,7 @@
 # unsortiert
 - [ ] unbedingt konto und briefkasten checken
 - [ ] Pflänzchen umsetzen 
+- [ ] 23
 - [ ] im Sekretariat bot. Garten 
 	- [ ] Sonntagsdienst 
 	- [ ] und Dienst zum Helfen 
