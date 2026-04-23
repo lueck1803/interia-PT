@@ -62,8 +62,11 @@
 # unsortiert
 - [ ] unbedingt konto und briefkasten checken
 - [ ] jamil mein bsc Zeugnis + cv schicken 
-- [ ] rote okra stecken 
 - [ ] Essen mit Kartoffeln machen 
+- [ ] Handtücher Küche tauschen 
+- [ ] Bettwäsche wechseln 
+- [ ] Rosmarin klein schneiden 
+- [ ] sobald ich den Vertrag unterschrieben habe, karte für psychedelic festival kaufen 
 - [x] Benno Mail schreiben 
 - [x] lotus Wasser tauschen 
 - [ ] Biomüll runter
