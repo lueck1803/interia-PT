@@ -63,7 +63,7 @@
 # unsortiert
 - [ ] unbedingt konto und briefkasten checken
 - [ ] Pflänzchen umsetzen 
-- [ ] 23
+- [ ] 13.-21.6.2026 woche der bot. Gärten
 - [ ] im Sekretariat bot. Garten 
 	- [ ] Sonntagsdienst 
 	- [ ] und Dienst zum Helfen 
