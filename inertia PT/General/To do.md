@@ -1,5 +1,6 @@
 # proposal
 - [x] Simulation checken
+- [ ] simulationen auf CPU02 checken, wenn fertig auf /data kopieren
 - [ ] Kästchen Methode mit com schreiben 
 	- [ ] code so schreiben dass ich vieles von dem Code den ich habe weiter verwenden kann
 	- [ ] modularer machen 
@@ -62,6 +63,8 @@
 - [ ] mandal lesen und von llm zusammenfassen lassen -> was kam da bei seiner temperatur raus.
 # unsortiert
 - [ ] unbedingt konto und briefkasten checken
+- [ ] Kleiderschrank reparieren
+- [ ] simulationen auf CPU02 checken, wenn fertig auf /data kopieren
 - [ ] Pflänzchen umsetzen 
 - [ ] 13.-21.6.2026 woche der bot. Gärten
 - [ ] im Sekretariat bot. Garten 
