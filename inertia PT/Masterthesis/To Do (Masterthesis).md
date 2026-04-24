@@ -683,6 +683,12 @@ $\phi = \frac{N \cdot \pi \cdot \sigma^2}{4\cdot R\cdot2\cdot L_{yHalf}^2}$
 ### box boundaries xlo,xhi,ylo,yhi,zlo,zhi L_y=sqrt(N Pi sigma²/(20 phi))
 region 	box block -${LxHalf} ${LxHalf} -${LyHalf} ${LyHalf} -0.5 0.5	
 # Simulate
+## current create-sim command
+```shell
+create-simulation_mod_p.sh -er -pr "equilibrateMaster_mod_p.in" "productionMaster_mod_p.in" "PE,55" 3500 "m" -3 .04 .04 .01 . 05000 -ts 4 -ss -sc 8
+
+```
+## other
 ![](Pasted%20image%2020251211005701.png)
 <span style="font-size:120%;color:green"> Atm there is enough simulation data</span>
 - [ ] 224k
