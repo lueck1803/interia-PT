@@ -55,12 +55,30 @@
 # Deutsch
 ## sich gut ausdrücken können
 - man wird mehr ernst genommen, man wirkt kompetenter, es wird einem zugehört
+- Der Unterschied zwischen ~={RedRed}Unterschicht=~ und ~={Gold}gehobenem Verhalten=~ 
+	- eure herkunft ~={RedRed}ist egal=~ ~={LawnGreen}wirklich=~
+	- was zählt ist wie ihr herüber kommt und euch verhaltet
 - Beruf und Erfolg
 - man kann seine Gefühle und Gedanken besser ausdrücken
-- 
+	- auf der Straße
+	- im konflikt
+	- bei Diskussionen und meinungsverschiedenheiten
+	- Beziehung: 
+		- partner
+		- Familie
+		- freunde
+	- die eigene Psyche
+	- Beim arzt
+	- Arbeitgeber
+	- Kunst: Musik - Texte schreiben
+	- Internet/social media
+	- 
 # Vertretungsunterricht 
 
 # Aufgaben-Ideen
+## Deutsch
+### schreibt einen Songtext
+- Rap
 ## DAZ
 - übersetzt ein Gedicht aus eurer Muttersprache auf Deutsch. Ohne Google-Übersetzer 
 
