@@ -44,9 +44,20 @@
 			- man muss grundsätzlich anzweifeln, was die LLMs herausgeben
 ### Wozu braucht man Mathematik? Beispiele
 ### Alltag
+- <u>Statistiken: </u>
+	- es werden einem täglich statistiken um die ohren gehauen
+	- von politik, aktivisten/influenzern, journalisten, medizin/ärzte und wirtschaft/verkäufern
+	- Pandemie, 
 ### Abschluss
 ### Studium
 ### Beruf
+
+# Deutsch
+## sich gut ausdrücken können
+- man wird mehr ernst genommen, man wirkt kompetenter, es wird einem zugehört
+- Beruf und Erfolg
+- man kann seine Gefühle und Gedanken besser ausdrücken
+- 
 # Vertretungsunterricht 
 
 # Aufgaben-Ideen
