@@ -577,6 +577,14 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] Outlook task planner zeug eintragen was mir Mischa aufgetragen und nicht selbst schon eingetragen hat 
 - [ ] 
 # Papierkram
+- [ ] Lebenslauf / CV
+	- [ ] Arbeit am Staatstheater Darmstadt hinzufügen
+	- [ ] Wann habe ich im MPA gearbeitet
+	- [ ] Wann habe ich bei Birkl gearbeitet
+	- [ ] Von wann bis wann war ich genau Tutor
+	- [ ] wann war ich tutor für mathe für maschbauer 
+	- [ ] wann habe ich für mathis gearbeitet (21-23)
+	- [ ] Zellenwartlehrgang einscannen
 - [ ] AOK
 	- januar 258.28
 	- Februar 346.76
