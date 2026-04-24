@@ -2838,6 +2838,27 @@ Ich kann das Dilemma sehr nachvollziehen, auch aus eigener Erfahrung in mehrfach
 
 # Einzel Themen/Ereignisse
 
+## 26-04-24 gestern Arooj bei der jhv vom bot. garten gesehen
+
+<u>Nachricht an fredin:</u>
+ich bin echt erstaunt, wie gut es mir geht, obwohl ich arooj gestern gesehen habe.
+Als ich sie im Februar online im Vortrag gesehen habe, war bei mir ja erstmal einige Tage etwas chaos im kopf und ich habe sie extrem vermisst.
+
+gestern Abend hatte ich zu hause zwar für Sekunden bis max ne minute so ansätze von schwachen momenten.
+
+in denen ich mich wert und nutzlos gefühlt habe und dass alles schöne was ich gerne erlebt hätte zusammen gebrochen ist.
+ich auch gerne so eingebunden wäre und wie das Forscherpaar, was gestern den Vortrag gehalten hat so ein eingespieltes Team sein, was sich gegenseitig befördert, mit ideen ansteckt, für einander da ist, wenn der andere unterstützung braucht und nicht gut geht (waren wir ja nach unseren möglichkeiten meistens) und zusammen die Welt entdeckt.
+ich habe mich auch ein kleines bisschen schuldig gefühlt, dass es an mir lag, da ich so energielos und ängstlich war.
+
+Aber das ist quatsch mit der Schuld. Ich war was meine energielosigkeit und ängste angeht offen und ehrlich. Ich habe nach meinen maßstäben. meinem wissen und durchblick über meine Situation und meinen Nebel im Kopf, alles mir mögliche getan um das zu ergründen, was mit mir los ist, da ordnung rein zu bringen und meinen Weg zu finden.
+ich habe da eine immense Leistung vollbracht, gegen alle Widerstände so viel herauszufinden und mich da heraus zu holen.
+
+Ich verstehe Arooj dass sie nicht mehr konnte und auch emotional verwirrt und aufgrund ihrer emotionalen Verwirrung auch wütend war. Ich hatte genug momente in denen ich auch wütend war, auch auf sie.
+
+Es ist unter dem Wissen, was sie eigentlich hatte aber echt nicht fair gewesen, mir diese unterstellungen und vorwürfe zu machen. mir diese Last aufzubürden, warum ich angeblich so viel rede und was meine wirklichen absichten seien. Sie wusste ganz genau was es mit mir macht, wenn man mir so viele Vorwürfe, unterstellungen macht und behauptungen über die Vergangenheit macht. Sie wusste ja auch wie sehr ich unter der Situation mit meiner schwester leide. letztes Jahr im Mai oder so hat sie dann gemeint, dass ihr das nicht klar war. naja ist ok. ich glaube ihr das.
+
+Ich bin echt happy und stolz darauf, dass ich gestern dann so gut damit umgehen konnte und auch einigermaßen schlafen konnte, auch wenn ich mich direkt erstmal krank gefühlt habe nachdem ich unter leuten war... und mein körper im bett durch das Fahrrad fahren und den sport extrem unruhig war.
+
 ## 26-04-19 Mein Augen und Kopfschmerz / Migräne Problem mit meinem Bildschirm
 Gedanken, die ich mir zu meiner Task gemacht habe
 - [ ] Benq bildschirm austauschen.... ich vertrag den echt nicht...
