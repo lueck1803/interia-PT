@@ -42,18 +42,32 @@
 			- man muss dazu in der lage sein diese überprüfen 
 			- und verstehen zu können
 			- man muss grundsätzlich anzweifeln, was die LLMs herausgeben
+- Religiösen Führern zu glauben?
 ### Wozu braucht man Mathematik? Beispiele
 ### Alltag
 - <u>Statistiken: </u>
 	- es werden einem täglich statistiken um die ohren gehauen
 	- von politik, aktivisten/influenzern, journalisten, medizin/ärzte und wirtschaft/verkäufern
 	- Pandemie, 
+- <u>Planung:</u>
+	- Reisen
+	- Hausbau
+	- Renovierung
+	- Umzüge
+	- Käufen:
+		- Möbel
+		- Küche
+		- Technische Geräte
+	- Kosten
+	- Essenzubereitung
+	- Events
+	- Finanzierung
 ### Abschluss
 ### Studium
 ### Beruf
 
-# Deutsch
-## sich gut ausdrücken können
+## Deutsch
+### sich gut ausdrücken können
 - man wird mehr ernst genommen, man wirkt kompetenter, es wird einem zugehört
 - Der Unterschied zwischen ~={RedRed}Unterschicht=~ und ~={Gold}gehobenem Verhalten=~ 
 	- eure herkunft ~={RedRed}ist egal=~ ~={LawnGreen}wirklich=~
@@ -80,7 +94,7 @@
 - Um sich zu sortieren und strukturieren zu können
 - Eine gute Sprachkenntnis, also auch einen guten Wortschatz zu haben, ist wichtig um seine Gedanken ausdrücken zu können
 - Unterschied ob gut integriert oder jemand auf dem man herabblickt und bei dem Leute sagen dass sie abgeschoben werden sollen
-- Religösen Führern zu glauben
+- Religiösen Führern zu glauben?
 
 # Vertretungsunterricht 
 
