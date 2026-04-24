@@ -1,6 +1,8 @@
 # proposal
 - [x] Simulation checken
 - [ ] simulationen auf CPU02 checken, wenn fertig auf /data kopieren
+- [ ] Simulation mit PE 30 mit niedrigerer Masse 
+	- [ ] 0.02
 - [ ] Kästchen Methode mit com schreiben 
 	- [ ] code so schreiben dass ich vieles von dem Code den ich habe weiter verwenden kann
 	- [ ] modularer machen 
