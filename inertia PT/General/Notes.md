@@ -1,4 +1,5 @@
 # fast notes
+- Biraz Türkçe biliyorum ama şu sıralar pratik yapmadığım için pek bilmiyorum.
 # Geschäftliche Nachrichten 
 
 ## Christian-Morgenstern-Schule
