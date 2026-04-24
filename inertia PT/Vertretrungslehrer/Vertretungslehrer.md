@@ -73,6 +73,8 @@
 ### Abschluss
 ### Studium
 ### Beruf
+- für die meisten Berufe braucht man Kenntnisse und Verständnis in Physik oder anderen Natur- bzw. Ingenieurwissenschaften
+- Auch wenn man bspw. Arzt werden will
 
 ## Deutsch
 ### sich gut ausdrücken können
