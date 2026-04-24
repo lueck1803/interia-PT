@@ -48,7 +48,13 @@
 - <u>Statistiken: </u>
 	- es werden einem täglich statistiken um die ohren gehauen
 	- von politik, aktivisten/influenzern, journalisten, medizin/ärzte und wirtschaft/verkäufern
-	- Pandemie, 
+	- Pandemie
+	- Studien
+	- Kriminalitätsstatistik
+	- vor Gericht
+	- Käufe
+	- Gefahrenabschätzung
+	- Medizin
 - <u>Planung:</u>
 	- Reisen
 	- Hausbau
