@@ -587,6 +587,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 	- [ ] wann war ich tutor für mathe für maschbauer 
 	- [ ] wann habe ich für mathis gearbeitet (21-23)
 	- [ ] Zellenwartlehrgang einscannen
+	- [ ] zweispaltig machen
 - [ ] AOK
 	- januar 258.28
 	- Februar 346.76
