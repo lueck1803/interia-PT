@@ -589,6 +589,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 	- [ ] Zellenwartlehrgang einscannen
 	- [ ] zweispaltig machen
 	- [ ] Wann war das Försterpraktikum genau?
+	- [ ] wann war mein Praktikum in der Revo Goldschmidt
 - [ ] AOK
 	- januar 258.28
 	- Februar 346.76
