@@ -77,6 +77,22 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+## 26-04-24
+### Arthur 
+Bin zu sloppy unterwegs gewesen eben.
+Ich hab gar nicht erst ne Aufnahme probiert.
+Bin zu schnell hoch gegangen mit der Geschwindigkeit.
+Hatte schon direkt so ne sloppy Neigung in der linken Hand, die schnell spielen wollte. 
+Da neige ich dann nochmal schneller zu werden als das Timing.
+Wie so ein Backstein am Schuh wenn man versucht vorsichtig aufs Gaspedal zu drücken.
+Ich muss erst nochmal extra langsam üben.
+Eine Art Strafrunde.
+Ich darf auch nicht im Sitzen spielen da liegt mein arm auf der Gitarre auf und das Handgelenk bewegt sich nicht sauber mit. 
+
+Ne sonst wird das nie was mit den 100% wenn ich jetzt zu schnell spiele und unsauber werde.
+Ich hab's mir extra abtrainiert.
+
+Beim solo muss ich permanent sauber bleiben sonst skippe ich töne und das Timing geht futsch.
 ## 26-04-17
 ### Nadine 
 Sehr nett von dir 🥰🫂🙏.
