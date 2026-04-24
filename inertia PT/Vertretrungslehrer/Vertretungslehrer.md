@@ -2,6 +2,16 @@
 - Unterrichtsmaterialien 5 und 6 Klasse Englisch 
 - und deutsch suchen 
 - lernen schneller und kleiner an der Tafel zu schreiben
+
+# Motivation
+## Mathematik
+### allgemeine Motivation
+- hilft ~={Crimson}extrem=~ um die Welt zu verstehen
+- Sehr große Hilfe um die Wahrheit herauszufinden
+- um selbstwirksamkeit zu üben
+- Verträge zu verstehen
+- Grafiken, Diagramme und Darstellungen
+### Wozu braucht man Mathematik? Beispiele
 # Vertretungsunterricht 
 
 # Aufgaben-Ideen
