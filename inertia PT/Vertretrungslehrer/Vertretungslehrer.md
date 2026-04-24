@@ -70,15 +70,25 @@
 	- die eigene Psyche
 	- Beim arzt
 	- Arbeitgeber
-	- Kunst: Musik - Texte schreiben
+	- Kunst: 
+		- Musik - Texte schreiben - wenn sie gut sein sollen und man sich ausdrücken möchte
+		- Romane
+		- Comics
+		- Filmdrehbücher/Dokumentationen
 	- Internet/social media
-	- 
+- Präsentationen / Vorträge
+- Um sich zu sortieren und strukturieren zu können
+- Eine gute Sprachkenntnis, also auch einen guten Wortschatz zu haben, ist wichtig um seine Gedanken ausdrücken zu können
+- Unterschied ob gut integriert oder jemand auf dem man herabblickt und bei dem Leute sagen dass sie abgeschoben werden sollen
+- Religösen Führern zu glauben
+
 # Vertretungsunterricht 
 
 # Aufgaben-Ideen
 ## Deutsch
 ### schreibt einen Songtext
-- Rap
+- Für Gesang or Rap
+- 
 ## DAZ
 - übersetzt ein Gedicht aus eurer Muttersprache auf Deutsch. Ohne Google-Übersetzer 
 
