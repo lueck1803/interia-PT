@@ -10,7 +10,21 @@
 - Sehr große Hilfe um die Wahrheit herauszufinden
 - um selbstwirksamkeit zu üben
 - Verträge zu verstehen
-- Grafiken, Diagramme und Darstellungen
+- Grafiken, Diagramme, Darstellungen und Karten zu verstehen
+- kann ich jemandem Glauben, sagt jemand die Wahrheit? 
+	- Vertrauen ist gut
+	- Kontrolle ist besser
+	- ⟹ Dazu muss man aber in der Lage sein.
+	- ⟹ dafür hilft Mathematik
+- Sachverhalte und Beziehungen in kurzer Form auszudrücken
+- Technologie verstehen
+- Im Alltag
+- Beruf, insbesondere Handwerk, aber auch alle anderen Berufe profitieren von einem Grundverständnis in der Mathematik, denn man muss immer Verträge unterschreiben und einkaufen. Außerdem wird man meistens einen Vorgesetzten haben. 
+- Wissen ist Macht und demnach ist unwissenheit ohnmacht und hilflosigkeit
+- Es wird immer situationen geben, in denen
+	- es keinen strom gibt
+	- kein internet
+	- kein smartphone oder anderes digitales endgerät
 ### Wozu braucht man Mathematik? Beispiele
 # Vertretungsunterricht 
 
