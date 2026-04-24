@@ -57,6 +57,8 @@
 
 # Technik
 - [ ] 2m USB-C Kabel
+- [ ] Gute Kamera bzw. besseres Handy
+	- [ ] damit ich mich bei tätigkeiten filmen kann ⟹ für die Schule
 - [ ] neuen großen Bildschirm...
 - [ ] am besten nen neuen Rechner...
 - [ ] Grafikkarte 
