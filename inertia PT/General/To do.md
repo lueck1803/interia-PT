@@ -585,11 +585,11 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 	- [ ] Wann habe ich bei Birkl gearbeitet
 	- [ ] Von wann bis wann war ich genau Tutor
 	- [ ] wann war ich tutor für mathe für maschbauer 
-	- [ ] wann habe ich für mathis gearbeitet (21-23)
+	- [x] wann habe ich für mathis gearbeitet (21-23)
 	- [ ] Zellenwartlehrgang einscannen
 	- [ ] zweispaltig machen
-	- [ ] Wann war das Försterpraktikum genau?
-	- [ ] wann war mein Praktikum in der Revo Goldschmidt
+	- [x] Wann war das Försterpraktikum genau?
+	- [x] wann war mein Praktikum in der Revo Goldschmidt
 - [ ] AOK
 	- januar 258.28
 	- Februar 346.76
