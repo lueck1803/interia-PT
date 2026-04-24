@@ -25,7 +25,28 @@
 	- es keinen strom gibt
 	- kein internet
 	- kein smartphone oder anderes digitales endgerät
+	- keine LLMs ("KI"): chatgpt
+	- zb. kein Geld um es zu bezahlen
+	- oder Ausfall, aus diversen Gründen: 
+		- Anschläge
+		- Regierungskrise
+		- finanz- und wirtschaftskrise
+		- hohe preise
+		- Pandemie
+		- krieg
+	- und selbst wenn das alles geht und vorhanden ist
+		- ⟹ muss ich in der lage sein es zu verstehen 
+		- suchmaschinen anfragen stellen zu können
+		- mit suchmaschinen ergebnissen etwas anfangen zu können
+		- LLMs zb. chatgpt gibt noch extrem viele falsche ergebnisse
+			- man muss dazu in der lage sein diese überprüfen 
+			- und verstehen zu können
+			- man muss grundsätzlich anzweifeln, was die LLMs herausgeben
 ### Wozu braucht man Mathematik? Beispiele
+### Alltag
+### Abschluss
+### Studium
+### Beruf
 # Vertretungsunterricht 
 
 # Aufgaben-Ideen
