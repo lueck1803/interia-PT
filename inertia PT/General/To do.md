@@ -63,6 +63,7 @@
 - [ ] mandal lesen und von llm zusammenfassen lassen -> was kam da bei seiner temperatur raus.
 # unsortiert
 - [ ] unbedingt konto und briefkasten checken
+- [ ] papa nachdem selfie stick fragen, den ihm arooj geschenkt hat
 - [ ] Versuch dich mal an einer ~={LawnGreen}ganzen Aufnahme von so 70%=~. Lass Solo2 dann erstmal weg (spiel zu dem Punkt Rhythm oder so).
 - [ ] Kleiderschrank reparieren
 - [ ] simulationen auf CPU02 checken, wenn fertig auf /data kopieren

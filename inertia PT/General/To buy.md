@@ -58,7 +58,10 @@
 # Technik
 - [ ] 2m USB-C Kabel
 - [ ] Gute Kamera bzw. besseres Handy
-	- [ ] damit ich mich bei tätigkeiten filmen kann ⟹ für die Schule
+	- damit ich mich bei Tätigkeiten filmen kann ⟹ für die Schule
+	- Lehrvideos machen kann
+	- Tolle Tier, Pflanzen und naturaufnahmen machen kann
+	- stativ/selfie stick
 - [ ] neuen großen Bildschirm...
 - [ ] am besten nen neuen Rechner...
 - [ ] Grafikkarte 
