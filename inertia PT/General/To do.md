@@ -580,11 +580,11 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [ ] 
 # Papierkram
 - [ ] Lebenslauf / CV
-	- [ ] Arbeit am Staatstheater Darmstadt hinzufügen
-	- [ ] Wann habe ich im MPA gearbeitet
-	- [ ] Wann habe ich bei Birkl gearbeitet
-	- [ ] Von wann bis wann war ich genau Tutor
-	- [ ] wann war ich tutor für mathe für maschbauer 
+	- [x] Arbeit am Staatstheater Darmstadt hinzufügen
+	- [x] Wann habe ich im MPA gearbeitet
+	- [x] Wann habe ich bei Birkl gearbeitet
+	- [x] Von wann bis wann war ich genau Tutor
+	- [x] wann war ich tutor für mathe für maschbauer 
 	- [x] wann habe ich für mathis gearbeitet (21-23)
 	- [ ] Zellenwartlehrgang einscannen
 	- [ ] zweispaltig machen
