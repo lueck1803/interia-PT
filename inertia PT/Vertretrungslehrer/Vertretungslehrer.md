@@ -68,6 +68,8 @@
 	- Essenzubereitung
 	- Events
 	- Finanzierung
+	- Nähen/Kleidung entwerfen
+	- Kreativität
 ### Abschluss
 ### Studium
 ### Beruf
@@ -101,7 +103,13 @@
 - Eine gute Sprachkenntnis, also auch einen guten Wortschatz zu haben, ist wichtig um seine Gedanken ausdrücken zu können
 - Unterschied ob gut integriert oder jemand auf dem man herabblickt und bei dem Leute sagen dass sie abgeschoben werden sollen
 - Religiösen Führern zu glauben?
-
+### Warum ist Rechtschreibung und Grammatik wichtig?
+- damit man das Geschriebene zum Teil überhaupt und im besten fall direkt/schnell verstehen kann
+- Satzbau ist wichtig, um sich korrekt und verständlich ausdrücken zu können
+- sich vielfältig ausdrücken zu können
+- um sich sortieren zu können
+- Es eröffnet neue Welten
+- Wie man wahrgenommen wird
 # Vertretungsunterricht 
 
 # Aufgaben-Ideen
