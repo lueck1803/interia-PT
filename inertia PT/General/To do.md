@@ -75,6 +75,7 @@
 	- [ ] und Dienst zum Helfen 
 - [ ] pflanzen aus der Sonne stellen und eventuell Pflanzen ein packen mit zu den Eltern 
 - [ ] jamil mein bsc Zeugnis + cv schicken 
+	- [ ] kann sein dass er auch das Zeugnis braucht ⟹ einscannen
 - [ ] Essen mit Kartoffeln machen 
 - [ ] Handtücher Küche tauschen 
 - [ ] Bettwäsche wechseln 
