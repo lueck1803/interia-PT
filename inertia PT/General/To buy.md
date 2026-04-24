@@ -1,4 +1,4 @@
-- [ ] schokomüsli
+- [x] schokomüsli
 - [x] bananen
 - [ ] Margarine 
 - [x] toast
