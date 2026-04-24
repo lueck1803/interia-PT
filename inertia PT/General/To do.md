@@ -3,6 +3,9 @@
 - [ ] simulationen auf CPU02 checken, wenn fertig auf /data kopieren
 - [ ] Simulation mit PE 30 mit niedrigerer Masse 
 	- [ ] 0.02
+- [ ] simulation mit PE 35 mit 
+	- [ ] 1:10 ratio
+	- [ ] 1:5 ratio
 - [ ] Kästchen Methode mit com schreiben 
 	- [ ] code so schreiben dass ich vieles von dem Code den ich habe weiter verwenden kann
 	- [ ] modularer machen 
