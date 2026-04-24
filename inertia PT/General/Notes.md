@@ -1,5 +1,7 @@
 # fast notes
-- Biraz Türkçe biliyorum ama şu sıralar pratik yapmadığım için pek bilmiyorum.
+- Biraz Türkçe konusabiliyorum ama şu sıralar pratik yapmadığım için pek bilmiyorum.
+- Biraz Türkçe konusabiliyorum ama şu anda bu konuda yeterli pratiğe sahip değilim.
+- alıştırma - Übung
 # Geschäftliche Nachrichten 
 
 ## Christian-Morgenstern-Schule
