@@ -68,7 +68,8 @@
 - [ ] Pflänzchen umsetzen 
 - [ ] 13.-21.6.2026 woche der bot. Gärten
 - [ ] im Sekretariat bot. Garten 
-	- [ ] Sonntagsdienst 
+	- [ ] Sonntagsdienst ~={RedRed} erst überlegen, wann ich nen Dienst machen möchte=~
+		- Für die Sonntagsdienste können Sie sich für zwei Schichten eintragen (09:00–12:30 Uhr und 12:30–16:00 Uhr). An folgenden Terminen suchen wir aktuell noch Unterstützung: 10. Mai, 7. Juni, 5. Juli, 2. August, 6. September und 4. Oktober.
 	- [ ] und Dienst zum Helfen 
 - [ ] pflanzen aus der Sonne stellen und eventuell Pflanzen ein packen mit zu den Eltern 
 - [ ] jamil mein bsc Zeugnis + cv schicken 
