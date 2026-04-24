@@ -1,7 +1,7 @@
 - [ ] schokomüsli
-- [ ] bananen
+- [x] bananen
 - [ ] Margarine 
-- [ ] toast
+- [x] toast
 - [ ] hummus
 - türke
 	- [ ] weiße bohnen 
