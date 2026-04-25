@@ -1,6 +1,8 @@
 # proposal
 - [x] Simulation checken
 - [ ] simulationen auf CPU02 checken, wenn fertig auf /data kopieren
+- [ ] 1:3 pe 30 112k m 0.02 auf cluster abbrechen und mit 128 kernen auf cpu02 laufen lassen
+	- [ ] vergleichen mit 1:10
 - [ ] cancel all pending simulations
 	- [ ] instead simulate the masses 0.02 and 0.03 for all former data if this full connected mips is maintained even for 1:10 ratio
 - [ ] Simulation mit PE 30 mit niedrigerer Masse 
