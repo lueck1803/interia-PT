@@ -10,6 +10,8 @@
 	- [ ] erkläre, dass box Ratio 1:3 das bessere ist. Statistik subbox Größe. Warum wir aber 1:5 gewählt haben (mandal2019) und dann 1:10 gegangen sind. Den klaren Vergleich dass 1:3 doch besser für MIPS ist, hatten wir nicht. Ist aber auch einleuchtend. Denn für die System size ist ja durch die kleinste Ausdehnung in eine Richtung gegeben und das ist nunmal die y Richtung. Und mit 1:10 bzw. 1:5 erhöht man die Einschränkung und damit die finite size Effekte
 - [ ] cancel all pending simulations
 	- [ ] instead simulate the masses 0.02 and 0.03 for all former data if this full connected mips is maintained even for 1:10 ratio
+- [ ] wenn ich abp Simulationen mit script von Leif mache, dann auch im 1:3 ratio
+- [ ] mache keine "near" abp Simulationen da die zu lange dauern wegen der extrem niedrigen step size
 - [ ] Simulation mit PE 30 mit niedrigerer Masse 
 	- [x] 0.02
 	- ~={RedRed}⟹ Bingo!=~
