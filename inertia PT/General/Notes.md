@@ -77,6 +77,32 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+## 26-04-25
+### Arthur 
+Ja richtig, mache ich ja auch.
+Gerade bei etwas bei dem ich neu bin. 
+
+Ich hab das Intro ja schon auf 70% gespielt.
+
+Gestern hab ich auch erstmal bei 50% angefangen.
+5% Schritte sind vollkommen in Ordnung. Das war auch gut so. 
+Ich hab auf den Stufen auch mehrmals gespielt.
+
+Ich war aber bei 50% schon am sloppy spielen. 
+Die linke Hand war in den Bewegungen einfach dazu geneigt die roll offs über mehr saiten zu machen als ich spiele.
+Und die töne die ich präzise mit den kuppen greife hab ich mit dem roll off bzw. Barre gegriffen.
+
+Da war viel Willenskraft nötig um mich davon abzuhalten.
+
+Viel schlimmer war, dass ich Beim Picking dazu geneigt habe, nicht sauber zwischen sweep und alternate picking zu trennen.
+Darauf hatte ich extra geachtet in letzter Zeit.
+Kam wie ich auch schon schrieb dadurch dass ich im Sitzen angefangen habe zu spielen.
+
+Ich war zu unruhig gestern und hab mir nicht die nötige mentale Vorbereitungsphase gegeben.
+
+Das habe ich gemerkt und deshalb frühzeitig aufgehört bevor ich mir mit dem Ziel jetzt schnell was aufzunehmen die Sauberkeit wieder nehme die ich mir aufgebaut habe, und die Werte/meine Selbstvorgaben Überboard werfe.
+
+Lieber einen Tag Pause einlegen dann geht's beim nächsten Mal viel besser.
 ## 26-04-24
 ### Arthur 
 Bin zu sloppy unterwegs gewesen eben.
