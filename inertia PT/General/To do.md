@@ -6,7 +6,7 @@
 - [ ] Simulation mit PE 30 mit niedrigerer Masse 
 	- [x] 0.02
 	- ~={RedRed}⟹ Bingo!=~
-	- [ ] repeat with 1:10 ratio
+	- [x] repeat with 1:10 ratio
 - [ ] simulation mit PE 35 mit 
 	- [x] 1:10 ratio
 	- [x] 1:5 ratio
