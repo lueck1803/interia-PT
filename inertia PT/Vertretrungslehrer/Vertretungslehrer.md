@@ -135,6 +135,8 @@
 - nen Plan und ne Zeichnung machen 
 - Bewegungen im Kopf und verbal mit anderen durchgehen (zb beim Tragen)
 - Vorbereitung ist die halbe Arbeit 
+- nach getaner Arbeit 
+	- alles 
 
 # Vertretungsunterricht 
 
