@@ -136,7 +136,9 @@
 - Bewegungen im Kopf und verbal mit anderen durchgehen (zb beim Tragen)
 - Vorbereitung ist die halbe Arbeit 
 - nach getaner Arbeit 
-	- alles 
+	- Werkzeuge sauber machen und pflegen 
+	- alles wieder an seinen Platz 
+	- Aufräumen 
 
 # Vertretungsunterricht 
 
