@@ -1,6 +1,7 @@
 # proposal
 - [x] Simulation checken
 - [ ] simulationen auf CPU02 checken, wenn fertig auf /data kopieren
+- [ ] für 1:3 ratio neues Jupiter Python Script anlegen 
 - [ ] 1:3 pe 30 112k m 0.02 auf cluster abbrechen und mit 128 kernen auf cpu02 laufen lassen
 	- [ ] vergleichen mit 1:10
 - [ ] bevor ich dann von dem Kram etwas auswerte schreibe ich das ~={DeepSkyBlue}scheiß Proposal fertig=~ und bereite den ~={purple}schmutzigen talk=~ vor 
