@@ -112,6 +112,22 @@
 - um sich sortieren zu können
 - Es eröffnet neue Welten
 - Wie man wahrgenommen wird
+
+# Arbeitslehre 
+## Grundsätzliches
+- Arbeitssicherheit/Schutz 
+- erst ~={RedRed}denken=~ dann ~={LawnGreen}tun=~
+- wenn man sich nicht sicher ist ~={RedRed} Fragen=~
+- Reihenfolgen beachten 
+- lieber jemanden dazu holen, nicht alles alleine probieren 
+- Ruhe bewahren 
+- mit Geduld, sich Zeit lassen und lieber nen Schritt zurück und überdenken kann man die meisten Probleme lösen
+	- denn hat man erstmal etwas versemmelt
+	- ist es teuer 
+	- dauert um etwas neues zu besorgen 
+	- ist gefährlich 
+	- 
+
 # Vertretungsunterricht 
 
 # Aufgaben-Ideen
