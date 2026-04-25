@@ -220,10 +220,10 @@
 - [x] VSS Formular ausfüllen
 	- [x] Versicherungszeiten AOK runterladen
 	- [x] Studienbescheinigung
-	- [ ] brauche noch die vom nächsten Semester 
+	- [x] brauche noch die vom nächsten Semester 
 - [ ] Lebenslauf
-	- [ ] Arbeit am Staatstheater Darmstadt hinzufügen
-	- [ ] Wann habe ich im MPA gearbeitet
+	- [x] Arbeit am Staatstheater Darmstadt hinzufügen
+	- [x] Wann habe ich im MPA gearbeitet
 	- [ ] Wann habe ich bei Birkl gearbeitet
 	- [ ] Von wann bis wann war ich genau Tutor
 	- [ ] wann war ich tutor für mathe für maschbauer 
