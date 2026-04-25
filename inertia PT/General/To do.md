@@ -149,7 +149,7 @@
 - [ ] ~={DeepSkyBlue}Strickgruppe/Club/Treff=~ suchen
 - [ ] ~={green}Sachen auf die ich Lust=~ habe, die mir Freude machen vom Zettel an der abschreiben in Therapie
 - [ ] staubsaugen
-- [ ] Küche wischen
+- [x] Küche wischen
 - [ ] arthur fragen was er von asagraum hält
 - [ ] Benq bildschirm austauschen.... ich vertrag den echt nicht...
 	- [ ] warum hab ich da all die jahre eigentlich nicht auf mich und meinen körper gehört
