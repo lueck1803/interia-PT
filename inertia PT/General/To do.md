@@ -10,7 +10,7 @@
 	- [ ] dafür all die Funktionen wieder verwenden 
 	- [ ] aber eine neue saubere evaluate funktion
 	- [ ] und saubere eval frame funktion schreiben 
-	- [ ] schiebe com wie in maggi auf $x=\frac{L_{x}3}{4}$ dort die zwei dense boxen und $$
+	- [ ] schiebe com wie in maggi auf $x=\frac{L_{x}3}{4}$ dort die zwei dense boxen und $x=L_{y} \frac{1}{4}$ 
 - [ ] Vergleich 3.5k
 	- [ ] pe 30 und pe 35 
 	- [ ] 1:3, 1:5, 1:10
