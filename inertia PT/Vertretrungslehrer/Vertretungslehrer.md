@@ -116,6 +116,12 @@
 # Arbeitslehre 
 ## Grundsätzliches
 - Arbeitssicherheit/Schutz 
+	- Schutzkleidung 
+	- Ausbildung an der Maschine 
+	- auf umstehende achten und warnen
+	- absperren
+	- Bedienungsanleitung lesen 
+	- auf Spezifikationen der Maschinen und des Materials achten 
 - erst ~={RedRed}denken=~ dann ~={LawnGreen}tun=~
 - wenn man sich nicht sicher ist ~={RedRed} Fragen=~
 - Reihenfolgen beachten 
@@ -128,7 +134,7 @@
 	- ist gefährlich 
 - nen Plan und ne Zeichnung machen 
 - Bewegungen im Kopf und verbal mit anderen durchgehen (zb beim Tragen)
-- 
+- Vorbereitung ist die halbe Arbeit 
 
 # Vertretungsunterricht 
 
