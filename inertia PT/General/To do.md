@@ -3,6 +3,14 @@
 - [ ] simulationen auf CPU02 checken, wenn fertig auf /data kopieren
 - [ ] 1:3 pe 30 112k m 0.02 auf cluster abbrechen und mit 128 kernen auf cpu02 laufen lassen
 	- [ ] vergleichen mit 1:10
+- [ ] bevor ich dann von dem Kram etwas auswerte schreibe ich das ~={DeepSkyBlue}scheiß Proposal fertig=~ und bereite den ~={purple}schmutzigen talk=~ vor 
+- [ ] wenn mache ich die Auswertung und die abp Simulationen nebenbei 
+- [ ] algo anpassen und vergleichen, aufräumen, insbesondere auf GitHub hochgeladen 
+- [ ] com Methode machen 
+	- [ ] dafür all die Funktionen wieder verwenden 
+	- [ ] aber eine neue saubere evaluate funktion
+	- [ ] und saubere eval frame funktion schreiben 
+	- [ ] schiebe com wie in maggi auf $x=\frac{L_{x}3}{4}$ dort die zwei dense boxen und 
 - [ ] Vergleich 3.5k
 	- [ ] pe 30 und pe 35 
 	- [ ] 1:3, 1:5, 1:10
