@@ -6,7 +6,7 @@
 - [ ] Vergleich 3.5k
 	- [ ] pe 30 und pe 35 
 	- [ ] 1:3, 1:5, 1:10
-	- [ ] m 0.04
+	- [ ] m 0.04 und m 0.02 bzw m 0.01
 - [ ] cancel all pending simulations
 	- [ ] instead simulate the masses 0.02 and 0.03 for all former data if this full connected mips is maintained even for 1:10 ratio
 - [ ] Simulation mit PE 30 mit niedrigerer Masse 
