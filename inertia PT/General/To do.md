@@ -553,6 +553,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 # Ahl
 - [ ] Maronen in den Wald setzen
 - [ ] Kartoffeln stecken 
+- [ ] Teich planen 
 - [x] Holz holen
 - [x] Papa zeigen wie er gerade und ungerade Seiten eines scans merged
 	- hat mit scan Gear viel besser geklappt als mit pdftk
@@ -842,4 +843,3 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 	- [x] Milchmäuse oder so kaufen um einige davon mit dem Teller zurück zu geben
 - [x] Wetterstation Batterien tauschen
 - [x] job news letter deabonnieren
-- [ ] 
