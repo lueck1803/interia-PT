@@ -126,7 +126,9 @@
 	- ist es teuer 
 	- dauert um etwas neues zu besorgen 
 	- ist gefährlich 
-- nen Plan und ne Zeichnung jeden
+- nen Plan und ne Zeichnung machen 
+- Bewegungen im Kopf und verbal mit anderen durchgehen (zb beim Tragen)
+- 
 
 # Vertretungsunterricht 
 
