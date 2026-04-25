@@ -72,19 +72,20 @@
 - [ ] mandal lesen und von llm zusammenfassen lassen -> was kam da bei seiner temperatur raus.
 # unsortiert
 - [ ] unbedingt konto und briefkasten checken
+- [ ] Bart und Nasenhaare schneiden 
 - [ ] papa nachdem selfie stick fragen, den ihm arooj geschenkt hat
 - [ ] Versuch dich mal an einer ~={LawnGreen}ganzen Aufnahme von so 70%=~. Lass Solo2 dann erstmal weg (spiel zu dem Punkt Rhythm oder so).
-- [ ] Kleiderschrank reparieren
+- [x] Kleiderschrank reparieren
 - [ ] simulationen auf CPU02 checken, wenn fertig auf /data kopieren
 - [ ] Pflänzchen umsetzen 
 - [ ] 13.-21.6.2026 woche der bot. Gärten
-- [ ] im Sekretariat bot. Garten 
-	- [ ] Sonntagsdienst ~={RedRed} erst überlegen, wann ich nen Dienst machen möchte=~
+- [x] im Sekretariat bot. Garten 
+	- [x] Sonntagsdienst ~={RedRed} erst überlegen, wann ich nen Dienst machen möchte=~
 		- Für die Sonntagsdienste können Sie sich für zwei Schichten eintragen (09:00–12:30 Uhr und 12:30–16:00 Uhr). An folgenden Terminen suchen wir aktuell noch Unterstützung: 10. Mai, 7. Juni, 5. Juli, 2. August, 6. September und 4. Oktober.
 	- [ ] und Dienst zum Helfen 
-- [ ] pflanzen aus der Sonne stellen und eventuell Pflanzen ein packen mit zu den Eltern 
-- [ ] jamil mein bsc Zeugnis + cv schicken 
-	- [ ] kann sein dass er auch das Zeugnis braucht ⟹ einscannen
+- [x] pflanzen aus der Sonne stellen und eventuell Pflanzen ein packen mit zu den Eltern 
+- [x] jamil mein bsc Zeugnis + cv schicken 
+	- [x] kann sein dass er auch das Zeugnis braucht ⟹ einscannen
 - [ ] Essen mit Kartoffeln machen 
 - [ ] Handtücher Küche tauschen 
 - [ ] Bettwäsche wechseln 
@@ -111,7 +112,7 @@
 - [x] Wäsche zusammen legen 
 - [ ] Mieterhöhung unterschreiben 
 - [ ] und Papierkram
-- [ ] CV fertig schreiben 
+- [x] CV fertig schreiben 
 - [ ] Toilettendeckel tauschen 
 - [x] bei Kinder Betreuung bewerben 
 	- [ ] ⟹muss ich nicht mehr, ok vielleicht wäre das für die Sommerferien gut
@@ -119,6 +120,7 @@
 	- [ ] ⟹muss ich nicht mehr, 
 - [x] nachricht von jamil lesen
 - [ ] ~={DeepSkyBlue}ADHS Event=~ im Mai anmelden
+	- [ ] glaube nicht dass ich zum AOK ding möchte
 - [ ] Wasserhahn Küche silkonölen
 - [x] Pflanzen gießen 
 - [x] Hantelbank fest Schrauben 
