@@ -126,7 +126,7 @@
 	- ist es teuer 
 	- dauert um etwas neues zu besorgen 
 	- ist gefährlich 
-	- 
+- nen Plan und ne Zeichnung jeden
 
 # Vertretungsunterricht 
 
