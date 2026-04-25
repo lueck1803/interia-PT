@@ -1,11 +1,15 @@
 # proposal
 - [x] Simulation checken
 - [ ] simulationen auf CPU02 checken, wenn fertig auf /data kopieren
+- [ ] cancel all pending simulations
+	- [ ] instead simulate the masses 0.02 and 0.03 for all former data if this full connected mips is maintained even for 1:10 ratio
 - [ ] Simulation mit PE 30 mit niedrigerer Masse 
-	- [ ] 0.02
+	- [x] 0.02
+	- ~={RedRed}⟹ Bingo!=~
+	- [ ] repeat with 1:10 ratio
 - [ ] simulation mit PE 35 mit 
-	- [ ] 1:10 ratio
-	- [ ] 1:5 ratio
+	- [x] 1:10 ratio
+	- [x] 1:5 ratio
 - [ ] Kästchen Methode mit com schreiben 
 	- [ ] code so schreiben dass ich vieles von dem Code den ich habe weiter verwenden kann
 	- [ ] modularer machen 
