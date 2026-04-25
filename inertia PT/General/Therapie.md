@@ -4,6 +4,9 @@
 	- ⤷ es fügt sich alles wenn ich im Moment bin
 	- ⤷ mein Handeln wird anstrengungslos/mühelos sein
 	- ⤷ messerschafer Verstand und Konzentration 
+- ~={RedRed} aufhören=~ 
+	- am Bart zu kauen und den die ganze Zeit zu berühren 
+	- ins Gesicht zu greifen 
 - You can only ~={red}change=~ ~={LawnGreen}gradually=~
 	- ~={DeepPink}push your comfort zone=~ only so far ~={LightBlue}you are capable of=~
 	- ~={blue}do it this step=~ so often until it becomes ~={LimeGreen}easy=~ and ~={LimeGreen}normal=~
