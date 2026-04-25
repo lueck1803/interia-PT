@@ -224,10 +224,10 @@
 - [ ] Lebenslauf
 	- [x] Arbeit am Staatstheater Darmstadt hinzufügen
 	- [x] Wann habe ich im MPA gearbeitet
-	- [ ] Wann habe ich bei Birkl gearbeitet
-	- [ ] Von wann bis wann war ich genau Tutor
-	- [ ] wann war ich tutor für mathe für maschbauer 
-	- [ ] wann habe ich für mathis gearbeitet (21-23)
+	- [x] Wann habe ich bei Birkl gearbeitet
+	- [x] Von wann bis wann war ich genau Tutor
+	- [x] wann war ich tutor für mathe für maschbauer 
+	- [x] wann habe ich für mathis gearbeitet (21-23)
 - [x] python auf cluster laufen lassen
 	- ❌ wie mache ich das nochmal. Steht das in meinem Latex glossar
 	- ❌ in meinem blauen notiz Buch 
@@ -242,10 +242,6 @@
 - [x] konto checken
 	- ich war heute 500€ im minus
 - [ ] yoga
-- [x] 56k PE 25 kopieren und auswerten
-- [ ] binder cumulant anschauen
-- [ ] exponenten anschauen
-- [ ] report updaten
 - [x] Camembert essen kochen
 	- Camembert+Rotrinden Käse verwenden 
 - [x] fragen was mit der Abrechnung vom September ist bzw schauen ob was kam 
@@ -260,6 +256,7 @@
 - [ ] Zeug vor dem Bad wegräumen 
 
 # tägliches
+
 ## Wohnbereich 
 - [ ] Esstisch wischen 
 - [ ] Sofa saugen 
@@ -452,7 +449,9 @@ Entscheidungshilfe:
 Für große Reichweite (Android): Beginne mit Kotlin.
 Für Apple-Nutzer: Swift ist der Standard.
 Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (JavaScript) sind gute Optionen. 
+
 ## DATAPROTECT 
+
 - [x] Support Chat bei coreview Wegen den report entries fragen 
 - [x] coreview <span style="font-size:100%;color:red;">reports</span>
 - [ ] Understanding data import lesen
@@ -553,6 +552,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
  
 # Ahl
 - [ ] Maronen in den Wald setzen
+- [ ] Kartoffeln stecken 
 - [x] Holz holen
 - [x] Papa zeigen wie er gerade und ungerade Seiten eines scans merged
 	- hat mit scan Gear viel besser geklappt als mit pdftk
