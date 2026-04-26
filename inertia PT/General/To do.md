@@ -587,8 +587,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 	- [ ] die kleinen in die alten Töpfe 
 - [ ] erde im Wald für Bäume verwenden 
 - [ ] mit dem Lehm und Sand was für Bienen machen 
-- [ ] der b
-
+- [ ] der Boden ist gut für nen teich
 - [x] Kartoffeln stecken 
 - [ ] Teich planen 
 - [x] Holz holen
