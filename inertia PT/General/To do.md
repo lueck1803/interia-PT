@@ -572,6 +572,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 # Ahl
 - [ ] Maronen in den Wald setzen
 - [ ] Gedanken machen welche heimischen Blüh Pflanzen ich auf die beiden Grasflächen im Hof anpflanze. ⟹robinga
+- [ ] Sand Nistkasten 
 - [x] Kartoffeln stecken 
 - [ ] Teich planen 
 - [x] Holz holen
