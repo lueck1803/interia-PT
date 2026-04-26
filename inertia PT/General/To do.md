@@ -91,6 +91,7 @@
 # unsortiert
 - [ ] unbedingt konto und briefkasten checken
 - [ ] um die Kiwis kümmern 
+- [ ] Steckling vom hasel ziehen 
 - [x] Bart und Nasenhaare schneiden 
 - [ ] papa nachdem selfie stick fragen, den ihm arooj geschenkt hat
 - [ ] Versuch dich mal an einer ~={LawnGreen}ganzen Aufnahme von so 70%=~. Lass Solo2 dann erstmal weg (spiel zu dem Punkt Rhythm oder so).
