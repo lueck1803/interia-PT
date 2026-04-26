@@ -571,7 +571,8 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
  
 # Ahl
 - [ ] Maronen in den Wald setzen
-- [ ] Kartoffeln stecken 
+- [ ] Gedanken machen 
+- [x] Kartoffeln stecken 
 - [ ] Teich planen 
 - [x] Holz holen
 - [x] Papa zeigen wie er gerade und ungerade Seiten eines scans merged
