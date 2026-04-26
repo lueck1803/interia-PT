@@ -583,6 +583,8 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 	- [ ] Mistgabel 
 	- [ ] mammutbaum am Rand befreien 
 	- [ ] nochmal Wasser mitbringen 
+	- [ ] die drei großen Mammutbäume eingraben
+	- [ ] die kleinen in die alten Töpfe 
 - [x] Kartoffeln stecken 
 - [ ] Teich planen 
 - [x] Holz holen
