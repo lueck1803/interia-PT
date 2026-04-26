@@ -2,6 +2,7 @@
 - Unterrichtsmaterialien 5 und 6 Klasse Englisch 
 - und deutsch suchen 
 - lernen schneller und kleiner an der Tafel zu schreiben
+- ~={Crimson}Schulsozialarbeit=~ fragen ob ich mal bei deren Aktivitäten teilhaben kann
 
 # Motivation
 ## Mathematik
