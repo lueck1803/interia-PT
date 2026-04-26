@@ -37,7 +37,8 @@
 	- Lehrvideos machen kann
 	- Tolle Tier, Pflanzen und naturaufnahmen machen kann
 	- stativ/selfie stick
-	- vlog kam
+	- vlog kamera? Eine kleine wäre schon gut für Videoaufnahmen 
+	- eine für Fotos 
 - [ ] neuen großen Bildschirm...
 - [ ] am besten nen neuen Rechner...
 - [ ] Grafikkarte 
