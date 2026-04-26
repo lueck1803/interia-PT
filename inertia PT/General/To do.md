@@ -578,6 +578,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [ ] Gedanken machen welche heimischen Blüh Pflanzen ich auf die beiden Grasflächen im Hof anpflanze. ⟹robinga
 - [ ] Sand Nistkasten machen
 - [ ] Lehm Steilwand 
+- [ ] Brombeer im Gehege entfernen
 - [x] Kartoffeln stecken 
 - [ ] Teich planen 
 - [x] Holz holen
