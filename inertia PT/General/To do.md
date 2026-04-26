@@ -91,6 +91,9 @@
 # unsortiert
 - [ ] unbedingt konto und briefkasten checken
 - [ ] um die Kiwis kümmern 
+- [ ] Forest and gardening vlog 
+- [ ] Forest pond
+- [ ] welche kameras hat der robinga?
 - [ ] Steckling vom hasel ziehen 
 - [x] Bart und Nasenhaare schneiden 
 - [ ] papa nachdem selfie stick fragen, den ihm arooj geschenkt hat
