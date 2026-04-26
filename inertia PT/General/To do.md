@@ -579,6 +579,8 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [ ] Sand Nistkasten machen
 - [ ] Lehm Steilwand 
 - [ ] Brombeer im Gehege entfernen
+	- [ ] Motorsense 
+	- [ ] Mistgabel 
 - [x] Kartoffeln stecken 
 - [ ] Teich planen 
 - [x] Holz holen
