@@ -146,7 +146,8 @@
 ## Deutsch
 ### schreibt einen Songtext
 - Für Gesang or Rap
-- 
+## Argumentation und Debatten 
+- schreibt eine Argumentation aus Sicht und pro einer positiven eurer Wahl die ihr ablehnt
 ## DAZ
 - übersetzt ein Gedicht aus eurer Muttersprache auf Deutsch. Ohne Google-Übersetzer 
 
