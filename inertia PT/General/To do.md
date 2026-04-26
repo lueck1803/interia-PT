@@ -585,6 +585,10 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 	- [ ] nochmal Wasser mitbringen 
 	- [ ] die drei großen Mammutbäume eingraben
 	- [ ] die kleinen in die alten Töpfe 
+- [ ] erde im Wald für Bäume verwenden 
+- [ ] mit dem Lehm und Sand was für Bienen machen 
+- [ ] der b
+
 - [x] Kartoffeln stecken 
 - [ ] Teich planen 
 - [x] Holz holen
