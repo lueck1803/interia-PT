@@ -581,6 +581,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [ ] Brombeer im Gehege entfernen
 	- [ ] Motorsense 
 	- [ ] Mistgabel 
+	- [ ] mammutbaum
 - [x] Kartoffeln stecken 
 - [ ] Teich planen 
 - [x] Holz holen
