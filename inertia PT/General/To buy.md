@@ -1,17 +1,17 @@
 - [x] schokomüsli
 - [x] bananen
-- [ ] destilliertes Wasser 
+- [x] destilliertes Wasser 
 - [ ] Margarine 
 - [ ] gewürz Ketchup 
-- [x] toast
 - [ ] hummus
+- [x] toast
 - türke
 	- [ ] weiße bohnen 
 	- [ ] kalamata oliven 
 	- [ ] grüne erbsen
 - [ ] grüne Erbsen 
-- [ ] kleine faltbare Tragetasche dm/Müller/Rossmann 
-- [ ] cd deo
+- [x] kleine faltbare Tragetasche dm/Müller/Rossmann 
+- [x] cd deo
 
 # non food
 - [ ] kleinen Schneebesen 
