@@ -2,7 +2,7 @@
 # Tägliches Mantra
 - ~={MediumTurquoise}kleine=~ ~={LawnGreen}konkrete=~ Schritte 
 - wenn die Angst/ das Gefühl sagt "Dreh dich um und Lauf weg":
-	- 
+	- ⟹~={Crimson} nicht=~ mehr willen
 - nichts ~={red}erzwingen=~ ~={yellow}folge=~ dem ~={green}flow=~
 	- ⤷ es fügt sich alles wenn ich im Moment bin
 	- ⤷ mein Handeln wird anstrengungslos/mühelos sein
