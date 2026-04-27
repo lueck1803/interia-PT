@@ -1,9 +1,10 @@
+- [ ] tofu
 - [x] schokomüsli
 - [x] bananen
 - [x] destilliertes Wasser 
 - [x] Margarine 
-- [ ] gewürz Ketchup 
-- [ ] hummus
+- [x] gewürz Ketchup 
+- [x] hummus
 - [x] toast
 - türke
 	- [ ] weiße bohnen 
