@@ -2,6 +2,7 @@
 - [x] bananen
 - [ ] destilliertes Wasser 
 - [ ] Margarine 
+- [ ] gewürz Ketchup 
 - [x] toast
 - [ ] hummus
 - türke
