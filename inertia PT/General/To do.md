@@ -91,7 +91,11 @@
 - [ ] Lukas Hecht active refigerator lesen/überfliegen und von llm zusammenfassen lassen
 - [ ] mandal lesen und von llm zusammenfassen lassen -> was kam da bei seiner temperatur raus.
 # unsortiert
-- [ ] unbedingt konto und briefkasten checken
+- [x] unbedingt konto und briefkasten checken
+- [ ] Mischa schreiben:
+	- [ ] noch kein Geld von Februar 
+	- [ ] Gehaltsabrechnung dez-feb
+- [ ] ich hab auch noch kein Geld vom Schulamt bekommen 
 - [ ] jamils Email lesen + Stundenplan abspeichern 
 - [ ] Waschbecken Küche 
 - [ ] to do proposal in andere Datei 
