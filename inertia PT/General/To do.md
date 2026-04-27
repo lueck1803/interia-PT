@@ -125,7 +125,7 @@
 - [ ] Bettwäsche wechseln 
 - [ ] alten Rosmarin klein schneiden 
 - [ ] sobald ich den Vertrag unterschrieben habe, karte für psychedelic festival kaufen 
-- [ ] Biomüll runter
+- [x] Biomüll runter
 - [ ] abp anstellen
 - [ ] spülkorb sauber machen
 - [ ] schauen wie ich mein Tablet Update
