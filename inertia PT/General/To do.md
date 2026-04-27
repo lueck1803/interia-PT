@@ -106,7 +106,7 @@
 - [ ] Forest and gardening vlog 
 - [ ] Forest pond
 - [ ] welche kameras hat der robinga?
-- [ ] Steckling vom hasel ziehen 
+- [x] Steckling vom hasel ziehen 
 - [x] Bart und Nasenhaare schneiden 
 - [ ] papa nachdem selfie stick fragen, den ihm arooj geschenkt hat
 - [ ] Versuch dich mal an einer ~={LawnGreen}ganzen Aufnahme von so 70%=~. Lass Solo2 dann erstmal weg (spiel zu dem Punkt Rhythm oder so).
@@ -585,6 +585,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 	- [ ] zaun setzen 
 - [ ] Gedanken machen welche heimischen Blüh Pflanzen ich auf die beiden Grasflächen im Hof anpflanze. ⟹robinga
 - [ ] Faulbäume Pflanzen 
+- [ ] nach Granatapfel
 - [ ] Sand Nistkasten machen
 - [ ] Lehm Steilwand 
 - [x] Brombeer im Gehege entfernen
