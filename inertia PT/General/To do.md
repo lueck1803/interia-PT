@@ -578,6 +578,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] neuen Drucker aufbauen 
  
 # Ahl
+- [ ] nach Granatapfelpflanzen schauen 
 - [ ] Maronen in den Wald setzen
 	- [ ] zu erst umsetzen und wachsen lassen
 	- [ ] Bereich aussuchen 
@@ -585,7 +586,6 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 	- [ ] zaun setzen 
 - [ ] Gedanken machen welche heimischen Blüh Pflanzen ich auf die beiden Grasflächen im Hof anpflanze. ⟹robinga
 - [ ] Faulbäume Pflanzen 
-- [ ] nach Granatapfel
 - [ ] Sand Nistkasten machen
 - [ ] Lehm Steilwand 
 - [x] Brombeer im Gehege entfernen
