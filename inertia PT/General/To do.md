@@ -92,6 +92,7 @@
 - [ ] mandal lesen und von llm zusammenfassen lassen -> was kam da bei seiner temperatur raus.
 # unsortiert
 - [ ] unbedingt konto und briefkasten checken
+- [ ] jamils Email lesen + Stundenplan abspeichern 
 - [ ] Waschbecken Küche 
 - [ ] to do proposal in andere Datei 
 - [ ] alte to do zu alt sortieren 

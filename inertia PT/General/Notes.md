@@ -77,6 +77,15 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+## 26-04-27
+### Arthur (nicht abgesendet )
+Ja mache ich auch bzw. In dem Fall da ich das schon häufig genug gespielt habe, reichen 5% Schritte.
+Ich habe mit 50% begonnen.
+
+Bereits da war ich schon sloppy unterwegs.
+Unsauber gegriffen.
+
+Habe Barré-Roll-offs über zu viele Saiten 
 ## 26-04-25
 ### Arthur 
 Ja richtig, mache ich ja auch.

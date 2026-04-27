@@ -9,6 +9,7 @@
 	- [ ] kalamata oliven 
 	- [ ] grüne erbsen
 - [ ] grüne Erbsen 
+- [ ] kleine faltbare Tragetasche dm/Müller/Rossmann 
 
 # non food
 - [ ] kleinen Schneebesen 
