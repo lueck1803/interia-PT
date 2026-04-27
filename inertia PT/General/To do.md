@@ -92,6 +92,9 @@
 - [ ] mandal lesen und von llm zusammenfassen lassen -> was kam da bei seiner temperatur raus.
 # unsortiert
 - [ ] unbedingt konto und briefkasten checken
+- [ ] Waschbecken Küche 
+- [ ] to do proposal in andere Datei 
+- [ ] alte to do zu alt sortieren 
 - [ ] Bürostuhl dampfen
 - [ ] sofa dampfen 
 - [ ] um die Kiwis kümmern 
@@ -114,31 +117,25 @@
 - [x] jamil mein bsc Zeugnis + cv schicken 
 	- [x] kann sein dass er auch das Zeugnis braucht ⟹ einscannen
 - [ ] Essen mit Kartoffeln machen 
-- [ ] Handtücher Küche tauschen 
 - [ ] Bettwäsche wechseln 
 - [ ] alten Rosmarin klein schneiden 
 - [ ] sobald ich den Vertrag unterschrieben habe, karte für psychedelic festival kaufen 
 - [ ] Biomüll runter
 - [ ] abp anstellen
-- [ ] gießen
 - [ ] spülkorb sauber machen
 - [ ] schauen wie ich mein Tablet Update
 - [ ] lernen schneller und kleiner an der Tafel zu schreiben
 - [ ] sofa saugen 
 - [ ] Wäsche zusammen legen 
-- [x] Mieterhöhung unterschreiben 
 - [ ] und Papierkram
 - [ ] Toilettendeckel tauschen 
 - [x] bei Kinder Betreuung bewerben 
 	- [ ] ⟹muss ich nicht mehr, ok vielleicht wäre das für die Sommerferien gut
 - [ ] Email an Schulen gingen raus?
 	- [ ] ⟹muss ich nicht mehr, 
-- [x] nachricht von jamil lesen
 - [x] ~={DeepSkyBlue}ADHS Event=~ im Mai anmelden
 	- glaube nicht dass ich zum AOK ding möchte
 - [ ] Wasserhahn Küche silkonölen
-- [x] Pflanzen gießen 
-- [x] Hantelbank fest Schrauben 
 - [ ] simon nach seinen Folien fragen 
 - [ ] Vorderrad Bremse checken/einstellen/tauschen 
 - [ ] Klingel checken
@@ -161,7 +158,6 @@
 - [ ] ~={MediumSpringGreen}Nähgruppe/Club/Treff=~ suchen
 - [ ] ~={DeepSkyBlue}Strickgruppe/Club/Treff=~ suchen
 - [ ] ~={green}Sachen auf die ich Lust=~ habe, die mir Freude machen vom Zettel an der abschreiben in Therapie
-- [ ] arthur fragen was er von asagraum hält
 - [ ] Benq bildschirm austauschen.... ich vertrag den echt nicht...
 	- [ ] warum hab ich da all die jahre eigentlich nicht auf mich und meinen körper gehört
 	- [ ] ich hatte immer im Kopf stell dich nicht so an.... 
@@ -211,7 +207,6 @@
 	- [ ] nochmal Vertrag wegen Kündigungsfrist und allgemein wegen Kündigungsfrist schauen
 	- [ ] Schauen ob ich noch zugriff mit lueck.walter@gmail.com habe
 	- [ ] Dann wegen den Stunden Seit 20.2. Da ich keinen Zugriff mehr auf Toggle hatte.
-- [ ] Waschbecken Küche 
 - [ ] nadines socken weiter
 - [x] dpag Laptop aufräumen 
 	- [ ] Zeug aus Obsidian raus machen was von mir ist
