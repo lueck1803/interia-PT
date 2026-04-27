@@ -1,7 +1,7 @@
 - [x] schokomüsli
 - [x] bananen
 - [x] destilliertes Wasser 
-- [ ] Margarine 
+- [x] Margarine 
 - [ ] gewürz Ketchup 
 - [ ] hummus
 - [x] toast
