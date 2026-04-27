@@ -92,6 +92,8 @@
 - [ ] mandal lesen und von llm zusammenfassen lassen -> was kam da bei seiner temperatur raus.
 # unsortiert
 - [ ] unbedingt konto und briefkasten checken
+- [ ] Bürostuhl dampfen
+- [ ] sofa dampfen 
 - [ ] um die Kiwis kümmern 
 - [ ] Forest and gardening vlog 
 - [ ] Forest pond
