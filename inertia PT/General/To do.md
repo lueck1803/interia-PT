@@ -575,6 +575,10 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
  
 # Ahl
 - [ ] Maronen in den Wald setzen
+	- [ ] zu erst umsetzen und wachsen lassen
+	- [ ] Bereich aussuchen 
+	- [ ] Bereich ein kleines bisschen von Gestrüpp frei machen ~={DeepSkyBlue} nicht alles=~
+	- [ ] zaun setzen 
 - [ ] Gedanken machen welche heimischen Blüh Pflanzen ich auf die beiden Grasflächen im Hof anpflanze. ⟹robinga
 - [ ] Faulbäume Pflanzen 
 - [ ] Sand Nistkasten machen
