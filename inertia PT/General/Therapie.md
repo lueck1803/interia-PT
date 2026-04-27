@@ -6,7 +6,7 @@
 	- hinschauen was die Wand eigentlich ist
 	- die Wand machbar machen 
 	- aufteilen in ~={MediumTurquoise}kleine=~ ~={LawnGreen}konkrete=~ Schritte 
-	- am Ende entsteht das Leben was du willst
+	- am Ende entsteht das Leben was du willst nicht aus einem großen Umbruch, sondern hunderten kleinen Schritten in die richtige Richtung 
 - nichts ~={red}erzwingen=~ ~={yellow}folge=~ dem ~={green}flow=~
 	- ⤷ es fügt sich alles wenn ich im Moment bin
 	- ⤷ mein Handeln wird anstrengungslos/mühelos sein
