@@ -123,7 +123,7 @@
 - [ ] lernen schneller und kleiner an der Tafel zu schreiben
 - [ ] sofa saugen 
 - [ ] Wäsche zusammen legen 
-- [ ] Mieterhöhung unterschreiben 
+- [x] Mieterhöhung unterschreiben 
 - [ ] und Papierkram
 - [ ] Toilettendeckel tauschen 
 - [x] bei Kinder Betreuung bewerben 
