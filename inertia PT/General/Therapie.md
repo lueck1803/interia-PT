@@ -3,7 +3,7 @@
 - ~={MediumTurquoise}kleine=~ ~={LawnGreen}konkrete=~ Schritte 
 - wenn die Angst/ das Gefühl sagt "Dreh dich um und Lauf weg":
 	- ⟹~={Crimson} nicht=~ mehr Willenskraft und Motivation 
-	- stehen bleiben, wenn der
+	- stehen bleiben, wenn der Impuls sagt"dreh um"
 	- hinschauen was die Wand eigentlich ist
 	- 
 - nichts ~={red}erzwingen=~ ~={yellow}folge=~ dem ~={green}flow=~
