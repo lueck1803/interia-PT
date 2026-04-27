@@ -123,7 +123,7 @@
 	- [x] kann sein dass er auch das Zeugnis braucht ⟹ einscannen
 - [ ] Essen mit Kartoffeln machen 
 - [ ] Bettwäsche wechseln 
-- [ ] alten Rosmarin klein schneiden 
+- [x] alten Rosmarin klein schneiden 
 - [ ] sobald ich den Vertrag unterschrieben habe, karte für psychedelic festival kaufen 
 - [x] Biomüll runter
 - [ ] abp anstellen
