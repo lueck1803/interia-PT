@@ -1,6 +1,6 @@
 
 # Tägliches Mantra
-- wenn die Angst/ das Gefühl sagt "Dreh dich um und Lauf weg": (https://youtu.be/8yLrWOtOrzg?is=n-0HyFCSUyBjW_vu)
+- wenn die Angst/ das Gefühl sagt "Dreh dich um und Lauf weg": [dein Ziel s](https://youtu.be/8yLrWOtOrzg?is=n-0HyFCSUyBjW_vu)
 	- ⟹~={Crimson} nicht=~ mehr Willenskraft und Motivation 
 	- stehen bleiben, wenn der Impuls sagt "dreh um"
 	- hinschauen was die Wand eigentlich ist
