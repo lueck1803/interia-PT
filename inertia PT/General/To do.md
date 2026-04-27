@@ -576,16 +576,18 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 # Ahl
 - [ ] Maronen in den Wald setzen
 - [ ] Gedanken machen welche heimischen Blüh Pflanzen ich auf die beiden Grasflächen im Hof anpflanze. ⟹robinga
+- [ ] Faulbäume Pflanzen 
 - [ ] Sand Nistkasten machen
 - [ ] Lehm Steilwand 
-- [ ] Brombeer im Gehege entfernen
-	- [ ] Motorsense 
-	- [ ] Mistgabel 
-	- [ ] mammutbaum am Rand befreien 
-	- [ ] nochmal Wasser mitbringen 
-	- [ ] die drei großen Mammutbäume eingraben
-	- [ ] die kleinen in die alten Töpfe 
-- [ ] erde im Wald für Bäume verwenden 
+- [x] Brombeer im Gehege entfernen
+	- [x] Motorsense 
+	- [x] Mistgabel 
+	- [x] mammutbaum am Rand befreien 
+	- [x] nochmal Wasser mitbringen 
+	- [x] die drei großen Mammutbäume eingraben
+	- [x] die kleinen in die alten Töpfe 
+	- [x] erde im Wald für Bäume verwenden 
+- [ ] Brombeeren an Böschung zum holzplatz entfernen 
 - [ ] mit dem Lehm und Sand was für Bienen machen 
 - [ ] der Boden ist gut für nen teich
 - [x] Kartoffeln stecken 
