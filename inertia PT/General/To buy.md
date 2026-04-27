@@ -10,6 +10,7 @@
 	- [ ] grüne erbsen
 - [ ] grüne Erbsen 
 - [ ] kleine faltbare Tragetasche dm/Müller/Rossmann 
+- [ ] cd deo
 
 # non food
 - [ ] kleinen Schneebesen 
