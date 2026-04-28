@@ -1,5 +1,6 @@
 # unsortiert
 - [x] unbedingt konto und briefkasten checken
+- [ ] ich will meine Arbeit Publikations fähig machen
 - [ ] personality tabs am laptop fertig lesen und schließen
 	- [ ] was ist das nächste macos nach meinem was sind die issues? 
 	- [ ] ⤷ updaten
@@ -496,6 +497,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 	- gebe den Drucker Bilge 
 - [x] alten Drucker abbauen 
 - [x] neuen Drucker aufbauen 
+- [ ] 
  
 # Ahl
 - [ ] nach Granatapfelpflanzen schauen 
