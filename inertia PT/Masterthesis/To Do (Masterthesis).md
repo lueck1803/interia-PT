@@ -955,7 +955,8 @@ flowchart TB
 	- melting temperature
 	- temperature-dependent heat capacities
 	- and critical exponents. 
-- ~={Gold}infer=~ the ~={LawnGreen}ferromagnetic phase transition of the Ising model,=~ including temperature dependent heat capacity and critical exponents, despite never having seen samples from the transition region
+- ~={Gold}infer=~ the ~={LawnGreen}ferromagnetic phase transition of the Ising model,=~ including temperature dependent heat capacity and critical exponents, despite ~={DeepPink}never having seen samples from the transition region=~
+- 
 
 
 

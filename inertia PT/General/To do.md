@@ -3,6 +3,8 @@
 - [ ] personality tabs am laptop fertig lesen und schließen
 	- [ ] was ist das nächste macos nach meinem was sind die issues? 
 	- [ ] ⤷ updaten
+- [ ] machine learning
+	- [ ] understa
 - [ ] Kette fetten 
 - [ ] Mischa schreiben:
 	- [ ] noch kein Geld von Februar 
