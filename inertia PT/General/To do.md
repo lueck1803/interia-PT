@@ -28,9 +28,9 @@
 	- [x] loss function article lesen
 	- [ ] das google paper lesen
 - [x] Kette fetten 
-- [ ] Mischa schreiben:
-	- [ ] noch kein Geld von Februar 
-	- [ ] Gehaltsabrechnung dez-feb
+- [x] Mischa schreiben:
+	- [x] noch kein Geld von Februar 
+	- [x] Gehaltsabrechnung dez-feb
 - [ ] ich hab auch noch kein Geld vom Schulamt bekommen 
 - [x] Apfelbäume mit dunklen Blättern in kleine Töpfe setzen 
 - [x] Äpfel waschen 
