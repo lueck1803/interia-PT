@@ -3041,7 +3041,17 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 ## loss function
 In mathematical optimization and decision theory, a loss function or cost function (sometimes also called an error function) is a function that maps an event or values of one or more variables onto a real number intuitively representing some "cost" associated with the event.
 
-- minimize the loss function
+- ~={Magenta}minimize=~ the loss function
+- An objective function is either a loss function or its opposite (in specific domains, variously called a reward function, a profit function, a utility function, a fitness function, etc.), in which case it is to be maximized. 
+- <u>statistics:</u> parameter estimation
+	- the event in question is some function of the ~={RedRed}difference=~ between ~={orange}estimated=~ and ~={MediumTurquoise}true values=~ for an instance of data.
+- <u>Quadratic loss function</u>:
+	- least square technique
+	- more mathematically tractable 
+		- ⟸ property of the variance
+		- 
+	- 
+	- 
 
 
 
