@@ -2,6 +2,7 @@
 # unsortiert
 - [x] unbedingt konto und briefkasten checken
 - [x] Tafel wischen (~={LawnGreen} brauche ich für Tafelbilder=~)
+- [ ] jamil nach kopierercode fragen 
 - [ ] Lehrplan Realschule lesen
 	- [ ] deutsch 5. Klasse
 	- [ ] ethik 5. Klasse
