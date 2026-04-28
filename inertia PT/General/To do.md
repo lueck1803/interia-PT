@@ -1,7 +1,7 @@
 # proposal
 - [x] Simulation checken
 - [ ] simulation 1:10 pe 30 3500 m 0.005 verlängern, da es aussieht als könnte es nach 32kk steps stabil sein?
-- [ ] 
+- [ ] Simulation 1:3 und 1:10 pe 32.5 112k
 - [ ] `create-simulation_mod_p.sh -er -pr "equilibrateMaster_mod_p.in" "productionMaster_mod_p.in" "PE,30" 112000 "m" -4 .0005 .0005 .005 . 05000 -ts 4 -ss -cl -sc 64 -br 10 `
 - [ ] überprüfen ob 28e30 irgendwann angefangen ist zu laufen, da 
       ![[../../Pasted image 20260428113150.png]]
