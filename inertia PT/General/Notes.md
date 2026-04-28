@@ -3082,6 +3082,8 @@ $$
 	- This optimal decision, $a^{*}$ is known as the Bayes (decision) Rule - it minimises the average loss over all possible states of nature $\theta$, over all possible (probability-weighted) data outcomes.
 	- ~={RedRed}advantage=~ of the Bayesian approach is
 		- only need to choose the ~={DeepSkyBlue}optimal action=~ under the actual observed data to obtain a uniformly optimal one
+		- ~={gray}whereas choosing the actual frequentist optimal decision rule as a function of all possible observations, is a much more difficult problem.=~
+	- the Bayes Rule reflects ~={Gold}consideration of loss outcomes=~ ~={red}under different states of nature=~, $\theta$
 
 
 
