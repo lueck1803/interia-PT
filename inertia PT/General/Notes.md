@@ -3037,7 +3037,11 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 		- ein bisschen wie ein Diktiergerät. Das Diktiergerät macht aber keine Fehler... xD und Halluziniert
 		- Für ~={MediumTurquoise}allgemeine Informationen=~
 	- ⟹ ~={RedRed}Nicht=~ ~={DeepPink}zitierfähig=~
+# machine learning
+## loss function
+In mathematical optimization and decision theory, a loss function or cost function (sometimes also called an error function) is a function that maps an event or values of one or more variables onto a real number intuitively representing some "cost" associated with the event.
 
+- minimize the loss function
 
 
 
