@@ -3076,7 +3076,12 @@ $$
 $$
 		- $M(\mathbf{x})$ is known as the _predictive likelihood_ wherein $\theta$ has been "integrated out" 
 		- $\pi^{*}\left( \theta|\mathbf{x} \right)$  is the posterior distribution
-		- 
+		- and the order of integration has been changed.
+	- One then should choose the action $a^{*}$ which minimizes this expected loss, which is referred to as Bayes Risk. 
+	- In the latter equation, the integrand inside $dx$ is known as the Posterior Risk, and minimising it with respect to decision $a$ also minimizes the overall Bayes Risk.
+	- This optimal decision, $a^{*}$ is known as the Bayes (decision) Rule - it minimises the average loss over all possible states of nature $\theta$, over all possible (probability-weighted) data outcomes.
+	- ~={RedRed}advantage=~ of the Bayesian approach is
+		- only need to choose the ~={DeepSkyBlue}optimal action=~ under the actual observed data to obtain a uniformly optimal one
 
 
 
