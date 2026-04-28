@@ -165,6 +165,7 @@
 	- was sind die Probleme?
 	- was hat das mit der Wirtschaft zu tun? 
 	- was ist das Ding mit dem Wirtschaftswachstum?
+- wirtschaftliche und finanzielle Lösungen?
 ## Deutsch
 ### schreibt einen Songtext
 - Für Gesang or Rap
