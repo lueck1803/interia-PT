@@ -3056,7 +3056,10 @@ $$ for some constant $C$. Also known as the **squared error loss (SEL)**
 ### constructing loss and objective functions (scoring rule)
 - determined by the problem formulation
 - the decision maker’s preference must be represented by a scalar-valued function (called also utility function) in a form suitable for optimization
-- most usable objective functions — quadratic and additive — are determined by a few ~={MediumTurquoise}indifference points=~ 
+- most usable objective functions — quadratic and additive — are determined by a few ~={MediumTurquoise}indifference points=~. constructing these objective functions from either ordinal or cardinal data that were elicited through computer-assisted interviews with decision makers
+### Expected loss
+- loss function some times a ~={Orchid}random quantity=~ ⟸ depends on the outcome of a random variable $X$
+- 
 
 
 
