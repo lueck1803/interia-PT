@@ -3095,7 +3095,10 @@ R(\theta,\hat{\theta})=E_{\theta}\left[ (\theta-\hat{\theta})^{2} \right]
 $$
 	- an estimator found by minimizing the mean squared error estimates the posteriors distribution's mean
 - ~={underline}Example2:=~
-	- in density estimation the unknown parameter is probability density itself
+	- in ~={ForestGreen}density estimation=~ the unknown parameter is probability density itself
+	- the ~={MediumTurquoise}loss function =~is typically chosen to be ~={MediumTurquoise}a norm=~ in an appropriate function space $$
+\mathcal{L}(f,\hat{f})=\left\Vert  f- \hat{f}\right\Vert ^{2}_{2}
+$$
 
 
 
