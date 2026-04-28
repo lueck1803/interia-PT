@@ -3099,6 +3099,9 @@ $$
 	- the ~={MediumTurquoise}loss function =~is typically chosen to be ~={MediumTurquoise}a norm=~ in an appropriate function space $$
 \mathcal{L}(f,\hat{f})=\left\Vert  f- \hat{f}\right\Vert ^{2}_{2}
 $$
+	- risk function becomes the mean integrated squared error $$
+R(f,\hat{f})=E\left( \lVert f-\hat{f} \rVert^{2}  \right)
+$$
 
 
 
