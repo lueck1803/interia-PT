@@ -3072,7 +3072,7 @@ $$
 		- the integral is evaluated over the entire support of $X$
 - ~={underline}*Bayes Risk*=~
 	- The expectation is calculated by using the prior distribution $\pi^{*}$ of the parameter $\theta$: $$
-\rho (\pi^{*},a)=\int_{\Theta}\int_{X}\mathcal{L}(\theta,a())
+\rho (\pi^{*},a)=\int_{\Theta}\int_{X}\mathcal{L}(\theta,a(\mathbb{X}))dP\left( \mathbb{x}|\theta \right)d\pi^{*}(\theta)=\int_{\mathbb{X}} 
 $$
 	- 
 
