@@ -964,14 +964,17 @@ flowchart TB
 - <u>forward process</u>
 	- applying gaussian noise until for example an image vanishes
 	- In machine learning, specifically within Diffusion Models, the forward process (or forward diffusion) is a fixed, non-learnable procedure that gradually degrades data quality by adding noise until it becomes indistinguishable from Gaussian noise.
+	- from this you get the noise protocol to get a certain for example image from noise
 	- we try to learn $\epsilon$ by applying gaussian noise to a langevin equation until its completely gaussian
 	- $\mathcal{L}(\theta)=E_{x_{0}\sim p(x),t} \left[ \left|| s_{\theta}(x,t)-\nabla_{x} \log p_{t}(x_{t}|x_{0})   \right||^2 \right]$
 	- $x_{t}=\sqrt{ 1-\beta_{t} }x_{0}+\sqrt{ \beta_{t} }\epsilon$ it's an langevin equation
 	- ⤷ $p_{t}(x_{t}|x_{0})=\mathcal{N}(\sqrt{ 1-\beta_{t} }x_{0},\beta_{t})$
-	- ⤷ $\nabla_{x}$
+	- ⤷ $\nabla_{x}\log p_{t}(x_{t}|x_{0})= \frac{\sqrt{ 1-\beta_{t} }x_{0}-x_{t}}{\beta_{t}}$
+	- $\nabla_{x}\log p_{t}(x_{t}|x_{0})=-$
 - like a decryption problem:
 	- it's like if you know the signal to decrypting the key
 	- or decrypting without knowing the key
+	- but you cannot use it for decrypting, because you would have to train for ex. 10k encryptions with the same encryption key
 ## 26-04-07
 - <u>intention:</u> exchange about the own usage
 	- I didn't use it that much in past, but try to be more open
