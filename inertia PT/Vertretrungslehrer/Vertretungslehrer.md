@@ -1,8 +1,24 @@
+Kunst 5b, 5c, 5d: Hier bist du mit Simone Rothemeyer doppelt gesetzt. Bitte diesen Donnerstag, 30.04., in der 5./6. Stunde schonmal dazugehen.
+
+Katrin Mair ([katrin.mair@darmstadt.de](katrin.mair@darmstadt.de)) macht hier eine Übergabe mit euch beiden.
+
+  
+
+AL 9ab, 9cd: Findet erst ab dem 25.05. wieder statt, da zur Zeit Intensivwochen sind. Auch hier kannst du dich mit Katrin Mair abstimmen, bzgl. des Unterrichts.
+
+Du lernst sie am Donnerstag ja kennen.
+
+05c Deutsch und 05 Ethik  
+Die beiden Kurse übernimmst du von Tabea Weingärtner ([tabea.weingaertner@outlook.com](mailto:tabea.weingaertner@outlook.com)). Hier kannst du dir Infos und Material geben lassen.
+
+05a Deutsch: Hier bist du 3 Stunden doppelt gesetzt zum Hospitieren, damit du schauen kannst, wie du den Unterricht in der 05c gestalten könntest.
 # To-Do 
 - Unterrichtsmaterialien 5 und 6 Klasse Englisch 
 - und deutsch suchen 
 - lernen schneller und kleiner an der Tafel zu schreiben
 - ~={Crimson}Schulsozialarbeit=~ fragen ob ich mal bei deren Aktivitäten teilhaben kann
+
+
 
 # Motivation
 ## Mathematik
@@ -183,7 +199,7 @@
 ## DAZ
 - übersetzt ein Gedicht aus eurer Muttersprache auf Deutsch. Ohne Google-Übersetzer 
 
-## Bernhard Adelung Schule 
+# Bernhard Adelung Schule (BAS)
 Code für den iPad Koffer 
 008 150
 ### Raumplan 

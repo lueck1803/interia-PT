@@ -3,8 +3,9 @@
 - [x] unbedingt konto und briefkasten checken
 - [x] Tafel wischen (~={LawnGreen} brauche ich für Tafelbilder=~)
 - [ ] Lehrplan Realschule lesen
-	- [ ] deutsch
-	- [ ] ethik
+	- [ ] deutsch 5. Klasse
+	- [ ] ethik 5. Klasse
+	- [ ] Arbeitslehre 9. Klasse
 - [ ] Fensterbänke wischen 
 - [ ] socken flicken 
 	- [ ] Ketchup 
