@@ -17,6 +17,108 @@
 - Warum habe ich eigentlich keine PE von 200 oder 150 genommen???
   ![[../../Pasted image 20260420205452.png]]
 - Es ist so oder so etwas unbegreiflich, warum wir keine höhere péclet Zahl zb. 150 verwendet haben, dann
+
+# proposal tasks (moved)
+- [x] Simulation checken
+- [ ] simulation 1:10 pe 30 3500 m 0.005 verlängern, da es aussieht als könnte es nach 32kk steps stabil sein?
+- [ ] Simulation 1:3 und 1:10 pe 32.5 112k
+- [ ] `create-simulation_mod_p.sh -er -pr "equilibrateMaster_mod_p.in" "productionMaster_mod_p.in" "PE,30" 112000 "m" -4 .0005 .0005 .005 . 05000 -ts 4 -ss -cl -sc 64 -br 10 `
+- [ ] überprüfen ob 28e30 irgendwann angefangen ist zu laufen, da 
+      ![[../../Pasted image 20260428113150.png]]
+      falls nicht:
+      ` create-simulation_mod_p.sh -er -pr "equilibrateMaster_mod_p.in" "productionMaster_mod_p.in" "PE,30" 28000 "m" -3 .02 .03 .01 . 05000 -ts 4 -ss -cl -sc 32
+`
+- [ ] simulationen auf CPU02 checken, wenn fertig auf /data kopieren
+- [ ] für 1:3 ratio neues Jupiter Python Script anlegen 
+- [ ] 1:3 pe 30 112k m 0.02 auf cluster abbrechen und mit 128 kernen auf cpu02 laufen lassen
+	- [ ] vergleichen mit 1:10
+	- [ ] 1:3 sieht beim t=1kk noch aufgeteilt in zwei Bereiche aus, das ist ein gutes Zeichen, liegt also nicht unbedingt am ratio dass es aufgetrennt ist. bei N=3.5k  ist es direkt ein slab. Bei N=7k, quasi auch, über den zeitverlauf zerteilt es sich aber auch wieder, aber nur schwach. Das ist beruhigend. Es liegt also eher am jeweiligen run und es ist wahrscheinlich eine niedrigere masse notwendig. Die Zerteilung ist eventuell nur am anfang
+	- [ ] 1:3 mit m=0.01 simulieren
+- [x] alle 128k simulationen killen, da da ich 112k brauche...
+- [ ] bevor ich dann von dem Kram etwas auswerte schreibe ich das ~={DeepSkyBlue}scheiß Proposal fertig=~ und bereite den ~={purple}schmutzigen talk=~ vor 
+- [ ] wenn mache ich die Auswertung und die abp Simulationen nebenbei 
+- [ ] algo anpassen und vergleichen, aufräumen, insbesondere auf GitHub hochgeladen 
+- [ ] com Methode machen 
+	- [ ] dafür all die Funktionen wieder verwenden 
+	- [ ] aber eine neue saubere evaluate funktion
+	- [ ] und saubere eval frame funktion schreiben 
+	- [ ] schiebe com wie in maggi auf $x=\frac{L_{x}3}{4}$ dort die fest die zwei dense boxen und entsprechend auf$x=\frac{L_{x} }{4}$ die zwei dilute boxen
+- [ ] Vergleich 3.5k
+	- [ ] pe 30 und pe 35 
+	- [ ] 1:3, 1:5, 1:10
+	- [ ] m 0.04 und m 0.02 bzw m 0.01
+	- [ ] erkläre, dass box Ratio 1:3 das bessere ist. Statistik subbox Größe. Warum wir aber 1:5 gewählt haben (mandal2019) und dann 1:10 gegangen sind. Den klaren Vergleich dass 1:3 doch besser für MIPS ist, hatten wir nicht. Ist aber auch einleuchtend. Denn für die System size ist ja durch die kleinste Ausdehnung in eine Richtung gegeben und das ist nunmal die y Richtung. Und mit 1:10 bzw. 1:5 erhöht man die Einschränkung und damit die finite size Effekte
+- [ ] cancel all pending simulations
+	- [ ] instead simulate the masses 0.02 and 0.03 for all former data if this full connected mips is maintained even for 1:10 ratio
+- [ ] wenn ich abp Simulationen mit script von Leif mache, dann auch im 1:3 ratio
+- [ ] mache keine "near" abp Simulationen da die zu lange dauern wegen der extrem niedrigen step size
+- [ ] Simulation mit PE 30 mit niedrigerer Masse 
+	- [x] 0.02
+	- ~={RedRed}⟹ Bingo!=~
+	- [x] repeat with 1:10 ratio
+- [ ] simulation mit PE 35 mit 
+	- [x] 1:10 ratio
+	- [x] 1:5 ratio
+- [ ] Kästchen Methode mit com schreiben 
+	- [ ] code so schreiben dass ich vieles von dem Code den ich habe weiter verwenden kann
+	- [ ] modularer machen 
+	- [ ] zb das Kästchen zeigen 
+	- [ ] evaluate für com Methode 
+- [ ] Ergebnisse mit meiner Methode vergleichen 
+- [ ] PE 150 erwähnen, dass es hier MIPS sofort entsteht 
+- [x] Simulation mit PE 50 mit 3.5k Teilchen 
+- [x] Simulation mit PE 50 mit 7k Teilchen 
+- [x] Simulation mit PE 40 mit 3.5k Teilchen 
+- [x] Simulation mit PE 45 mit 3.5k Teilchen 
+- [x] Simulation mit PE 40 mit 7k Teilchen 
+- [x] Simulation mit PE 45 mit 7k Teilchen 
+- [ ] Begründung für die starke Abhängigkeit des Bindercumlants von der system size bei den kleineren kästchen
+	- [ ] ich denke es liegt daran, dass die statistik eine stark andere ist. je kleiner die system größe und je kleiner die kästchen, desto weniger teilchen sind in den kästchen und somit verändert das die statistik stark.
+	- [ ] begründung dazu gabs in rovere1990 und binder1981
+- [ ] warum benutzen manche $Q_{L}$ und nicht $\mathcal{B}$?
+- [ ] RESULTS OF THE ORIGINAL SUBSYSTEM METHOD lesen
+- [ ] siebert2018 + SI - nicht alle systemgrößen verwendbar
+- [ ] prepare back up slides for questions 
+	- [ ] one for the reasoning why to avoid interfaces is important 
+		- [ ] picture of the local density distribution 
+		- [ ] picture of the density distribution of the block density 
+		- [ ] the not crossing of Q of ising model
+		- [ ] comparison of the crossing of abp between block density distribution and modified Block-Distribution 
+- [ ] ask nandita for help for wrapping things up or how much to say to certain things 
+- talk
+	- backup folien
+	- stark reduzieren
+	- wo setze ich den fokus?
+		- auf die problematik der ursprünglichen methode eingehen
+		- warum so viel wert auf das Auslassen der Grenzflächen gelegt wurde
+		- erklären warum ich diese nicht verwenden konnte
+		- local density distribution zeigen, dass ich das nicht einfach fitten kann, mit der distribution von rovere1990 *The gas-liquid transition of the two-dimensional Lennard-Jones fluid* vergleichen.
+		- meine methode gut erklären
+- [x] leif nach abp fragen
+	- [ ] hab ich bekommen -> Simulationen starten 
+- [ ] talk fertig vorbereiten 
+- [ ] talk text in PowerPoint Notizen notieren 
+- [ ] Text für Überleitung/Entwicklung zu meiner methode fertig schreiben 
+- [ ] Vortrag stark reduzieren 
+- [ ] den Text den ich für den Talk aufgeschrieben habe fürs proposal verwenden 
+- [ ] Florian meinte auch dass bei höhere pe ein Übergang 1. Ordnung wäre. Eigentlich logisch, daher gut dass ich nicht mit 150 pe simuliert habe. Mal schauen was da raus gekommen ist
+- [ ] die mod methode was ich Benno erklärt habe fertig beschreiben - also mit deren Annahmen über die distributionen und dass deren Methode die Zwischenbereiche der regime nicht genauer betrachtet.
+- [ ] deren Evaluation mit der originalen block density nicht rein nehmen 
+- [ ] dann den Übergang zu meiner methode beschreiben und begründen.
+- [ ] die snapshots aus dem report nehmen 
+- [ ] die Beschreibung der Methode aus den Folien nehmen 
+- [ ] die results rein  - dort auch die Begründung des fehlenden peaks in $\chi$ von Maggi rein 
+- [ ] auch die masterplots 
+- [ ] und was ich bisher bei den ABP hab
+- [ ] dann das Problem beschreiben was ich als Missverständnis hatte, das Problem mit dem Ratio 
+- [ ] Ausblick - Vergleich mit ABP und Simulationen mit anderem box Ratio, die ursprüngliche Methode verwenden und vergleichen sowie meine Anpassung an meinen algo erwähnen so dass die Platzierung noch besser wird.
+- [ ] über die pdf schauen die ich Benno als Antwort geschickt hatte
+- [ ] intro schreiben dazu die von der llm zusammengefassten Ergebnisse von lukas und Suvendu erwähnen 
+- [ ] abstract
+- [ ] Titel anpassen?
+- [ ] angepasste Bedienungsanleitung für create sim anhängen! Da wurden ja ein paar Veränderungen gemacht zb auch heute mit den Skripten 
+- [ ] Lukas Hecht active refigerator lesen/überfliegen und von llm zusammenfassen lassen
+- [ ] mandal lesen und von llm zusammenfassen lassen -> was kam da bei seiner temperatur raus.
 # unsorted tasks
 - [x] copy general plot to the non plot script
 - [ ] wiki eintrag für jupyter on cluster verbessern
@@ -843,6 +945,9 @@ flowchart TB
   ![[Pasted image 20251118121845.png]] (Hecht2021)
 - Something (Weaks-chanderler potential) is hard to parallelize 
 # JC / group meeting
+## 25-04-28 palash
+**Inferring phase transitions and critical exponents from limited observations with thermodynamic maps**:
+- 
 ## 26-04-07
 - <u>intention:</u> exchange about the own usage
 	- I didn't use it that much in past, but try to be more open
