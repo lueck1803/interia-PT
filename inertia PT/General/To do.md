@@ -2,6 +2,11 @@
 - [x] Simulation checken
 - [ ] simulation 1:10 pe 30 3500 m 0.005 verlängern, da es aussieht als könnte es nach 32kk steps stabil sein?
 - [ ] `create-simulation_mod_p.sh -er -pr "equilibrateMaster_mod_p.in" "productionMaster_mod_p.in" "PE,30" 112000 "m" -4 .0005 .0005 .005 . 05000 -ts 4 -ss -cl -sc 64 -br 10 `
+- [ ] überprüfen ob 28e30 irgendwann angefangen ist zu laufen, da 
+      ![[../../Pasted image 20260428113150.png]]
+      falls nicht:
+      ` create-simulation_mod_p.sh -er -pr "equilibrateMaster_mod_p.in" "productionMaster_mod_p.in" "PE,30" 28000 "m" -3 .02 .03 .01 . 05000 -ts 4 -ss -cl -sc 32
+`
 - [ ] simulationen auf CPU02 checken, wenn fertig auf /data kopieren
 - [ ] für 1:3 ratio neues Jupiter Python Script anlegen 
 - [ ] 1:3 pe 30 112k m 0.02 auf cluster abbrechen und mit 128 kernen auf cpu02 laufen lassen
