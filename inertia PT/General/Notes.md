@@ -3068,7 +3068,13 @@ $$
 		- $\theta$ fixed but possibly unknown state of nature
 		- $X$ vector of observations stochastically drawn from a population
 		- $E_{\theta}$ the expectation over all population values of $X$
-		- $dP_{\theta}$  probability measure over the event space of $X$ parame
+		- $dP_{\theta}$  probability measure over the event space of $X$ parametrized by $\theta$
+		- the integral is evaluated over the entire support of $X$
+- ~={underline}*Bayes Risk*=~
+	- The expectation is calculated by using the prior distribution $\pi^{*}$ of the parameter $\theta$: $$
+\rho (\pi^{*},a)=\int_{\Theta}\int_{X}\mathcal{L}(\theta,a())
+$$
+	- 
 
 
 
