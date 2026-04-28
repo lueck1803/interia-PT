@@ -3111,6 +3111,15 @@ The forward process generates training targets for the reverse process, teaching
 - ~={underline}Fixed Markov Chain:=~ It is a stochastic process where each step depends only on the previous one. It starts with clean data $x_{0}$ and adds small amounts of Gaussian noise over $T$ timesteps, producing a sequence $x_{1},\dots,x_{T}$.
 - ~={underline}Gaussian noise Addition:=~ The noise added is typically sampled from a standard normal distribution $\mathcal{N}(0,\mathbf{I})$
 - ~={underline}Variance Schedule=~ $(\beta_{t})$: The amount of noise added at each step $t$ is controlled by a variance schedule $\beta_{1},\dots,\beta_{T}$. These values are typically small, ensuring a smooth transition from structure to noise.
-- ~={underline}Endpoint property:=~  After sufficient steps (), the final noisy image effectively becomes a sample from an isotropic Gaussian distribution. 
+- ~={underline}Endpoint property:=~  After sufficient steps ($T \to \infty$), the final noisy image $x_{T}$ effectively becomes a sample from an isotropic Gaussian distribution. 
+
+### Mathematical Formulation
+The forward process is defined as: $$
+q(x_{t}|x_{t-1})=\mathcal{N}(x_{1};\sqrt{ 1-\beta_{t} }x_{t-1},\beta_{t}\mathbf{I})
+$$
+A key efficiency advantage is that $x_{t}$ can be sampled directly at any timestep $t$
+from $x_{0}$ without iterating through all previous steps: $$
+x_{t}=\sqrt{ \tilde{\alpha}_{t} }x_{0}+\sqrt{ 1-\tilde{\alpha}_{t} }
+$$
 
 
