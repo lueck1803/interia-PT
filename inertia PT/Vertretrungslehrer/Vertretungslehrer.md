@@ -171,6 +171,10 @@
 	- was ist das Ding mit dem Wirtschaftswachstum?
 - welche wirtschaftlichen und finanziellen Lösungen wurden genannt?
 - welche Vor- und Nachteile hat der afrikanische Kontinent?
+- ~={MediumTurquoise} wir sind so arm, weil ihr so reich seid=~
+	- stimmt das? 
+	- wie funktioniert Wirtschaft 
+	- und unser Geld System 
 ## Deutsch
 ### schreibt einen Songtext
 - Für Gesang or Rap
