@@ -947,7 +947,14 @@ flowchart TB
 # JC / group meeting
 ## 25-04-28 palash
 **Inferring phase transitions and critical exponents from limited observations with thermodynamic maps**:
-- 
+
+
+### general
+- <u>forward process</u>
+	- applying gaussian noise until for example an image vanishes
+- like a decryption problem:
+	- it's like if you know the signal to decrypting the key
+	- or decrypting without knowing the key
 ## 26-04-07
 - <u>intention:</u> exchange about the own usage
 	- I didn't use it that much in past, but try to be more open
