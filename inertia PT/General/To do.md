@@ -1,7 +1,7 @@
 - ich~={RedRed} will meine Arbeit Publikations fähig machen=~
 # unsortiert
 - [x] unbedingt konto und briefkasten checken
-- [ ] ich will meine Arbeit Publikations fähig machen
+- [ ] Fensterbänke wischen 
 - [ ] personality tabs am laptop fertig lesen und schließen
 	- [ ] was ist das nächste macos nach meinem was sind die issues? 
 	- [ ] ⤷ updaten
