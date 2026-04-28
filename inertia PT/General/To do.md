@@ -2,6 +2,9 @@
 # unsortiert
 - [x] unbedingt konto und briefkasten checken
 - [ ] Fensterbänke wischen 
+- [ ] socken flicken 
+	- [ ] Ketchup 
+	- [ ] fila
 - [ ] personality tabs am laptop fertig lesen und schließen
 	- [ ] was ist das nächste macos nach meinem was sind die issues? 
 	- [ ] ⤷ updaten
@@ -11,7 +14,7 @@
 	- [ ] read: Feedforward neural network
 	- [ ] loss function article lesen
 	- [ ] das google paper lesen
-- [ ] Kette fetten 
+- [x] Kette fetten 
 - [ ] Mischa schreiben:
 	- [ ] noch kein Geld von Februar 
 	- [ ] Gehaltsabrechnung dez-feb
@@ -502,7 +505,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
  
 # Ahl
 - [ ] nach Granatapfelpflanzen schauen 
-- [ ] Fahrrad auspacken 
+- [ ] Fahrrad auspacken und fahren 
 - [ ] Maronen in den Wald setzen
 	- [ ] zu erst umsetzen und wachsen lassen
 	- [ ] Bereich aussuchen 
