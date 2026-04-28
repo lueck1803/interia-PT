@@ -947,11 +947,17 @@ flowchart TB
 # JC / group meeting
 ## 25-04-28 palash
 **Inferring phase transitions and critical exponents from limited observations with thermodynamic maps**:
+- characterizing generic attributes of phase transitions from very limited observations 
+- Our approach is called thermodynamic maps 
+- combines statistical mechanics and molecular simulations with score-based generative models. 
+- 
+
 
 
 ### general
 - <u>forward process</u>
 	- applying gaussian noise until for example an image vanishes
+	- In machine learning, specifically within Diffusion Models, the forward process (or forward diffusion) is a fixed, non-learnable procedure that gradually degrades data quality by adding noise until it becomes indistinguishable from Gaussian noise.
 - like a decryption problem:
 	- it's like if you know the signal to decrypting the key
 	- or decrypting without knowing the key
