@@ -12,17 +12,19 @@ Die beiden Kurse übernimmst du von Tabea Weingärtner ([tabea.weingaertner@outl
 05a Deutsch: Hier bist du 3 Stunden doppelt gesetzt zum Hospitieren, damit du schauen kannst, wie du den Unterricht in der 05c gestalten könntest.
 
 Ich übernehme:
-- Kunst: 
+- ~={underline}Kunst: =~
 	- 5b, 5c, 5d
-	- Abstimmung mit Katrin Mair
-- Arbeitslehre (ab 25.05): 
+	- Abstimmung mit Katrin Mair ([katrin.mair@darmstadt.de](katrin.mair@darmstadt.de)) 
+- ~={underline}Arbeitslehre (ab 25.05): =~
 	- 9ab, 9cd
-	- Abstimmung mit Katrin Mair
-- Deutsch:
+	- Abstimmung mit Katrin Mair 
+- ~={underline}Deutsch:=~
 	- 5c
-	- Abstimmung Tabea Weingärtner
+	- Abstimmung Tabea Weingärtner [tabea.weingaertner@outlook.com](mailto:tabea.weingaertner@outlook.com)
 	- 5a zum Hospitieren doppelt besetzt
-- Ethik
+- ~={underline}Ethik:=~
+	- 5c
+	- Abstimmung mit Tabea Weingärtner 
 # To-Do 
 - Unterrichtsmaterialien 5 und 6 Klasse Englisch 
 - und deutsch suchen 
