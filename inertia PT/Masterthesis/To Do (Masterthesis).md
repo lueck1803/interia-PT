@@ -964,6 +964,8 @@ flowchart TB
 - <u>forward process</u>
 	- applying gaussian noise until for example an image vanishes
 	- In machine learning, specifically within Diffusion Models, the forward process (or forward diffusion) is a fixed, non-learnable procedure that gradually degrades data quality by adding noise until it becomes indistinguishable from Gaussian noise.
+	- we try to learn $\epsilon$ by applying gaussian noise to a langevin equation until its completely gaussian
+	- $\mathcal{L}(\theta)=E_{x_{0}\sim p(x),t} \left[  \right]$
 - like a decryption problem:
 	- it's like if you know the signal to decrypting the key
 	- or decrypting without knowing the key
