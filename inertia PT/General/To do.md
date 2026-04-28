@@ -8,6 +8,7 @@
 	- [ ] under stand score function
 	- [ ] read: Feedforward neural network
 	- [ ] loss function article lesen
+	- [ ] das google paper lesen
 - [ ] Kette fetten 
 - [ ] Mischa schreiben:
 	- [ ] noch kein Geld von Februar 
