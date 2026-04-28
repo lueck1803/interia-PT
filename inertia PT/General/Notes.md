@@ -3108,6 +3108,9 @@ In machine learning, specifically within Diffusion Models, the forward process (
 
 The forward process generates training targets for the reverse process, teaching the model to turn Gaussian noise back into structured data, such as images. 
 ### Key concepts of the Forward Process
-- Fixed Markov Chain: It is a stochastic process where each step depends only on the previous one. It starts with clean data $x_{0}$ and adds small amounts of Gaussian noise over $T$ timesteps, producing a sequence $x_{1},\dot{}$.
+- ~={underline}Fixed Markov Chain:=~ It is a stochastic process where each step depends only on the previous one. It starts with clean data $x_{0}$ and adds small amounts of Gaussian noise over $T$ timesteps, producing a sequence $x_{1},\dots,x_{T}$.
+- ~={underline}Gaussian noise Addition:=~ The noise added is typically sampled from a standard normal distribution $\mathcal{N}(0,\mathbf{I})$
+- ~={underline}Variance Schedule=~ $(\beta_{t})$: The amount of noise added at each step $t$ is controlled by a variance schedule $\beta_{1},\dots,\beta_{T}$. These values are typically small, ensuring a smooth transition from structure to noise.
+- ~={underline}Endpoint property:=~  After sufficient steps (), the final noisy image effectively becomes a sample from an isotropic Gaussian distribution. 
 
 
