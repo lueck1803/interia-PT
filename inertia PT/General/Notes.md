@@ -3063,8 +3063,12 @@ $$ for some constant $C$. Also known as the **squared error loss (SEL)**
 - ~={underline}*Frequentist expected loss*=~
 	- expected value with respect to the ~={blue}probability distribution=~ $P_{\theta}$ of the observed data $X$
 	- **risk function** $R$ of the decision rule $\delta$ and the parameter $\theta$. $$
-R(\theta,\delta)= 
-$$
+R(\theta,\delta)= E_{\theta}\mathcal{L}(\theta,\delta(X))=\int_{X}\mathcal{L}\left( \theta,\delta(x) \right) dP_{\theta}(x)
+$$ 
+		- $\theta$ fixed but possibly unknown state of nature
+		- $X$ vector of observations stochastically drawn from a population
+		- $E_{\theta}$ the expectation over all population values of $X$
+		- $dP_{\theta}$  probability measure over the event space of $X$ parame
 
 
 
