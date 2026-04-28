@@ -1,3 +1,4 @@
+- ich~={RedRed} will meine Arbeit Publikations fähig machen=~
 # unsortiert
 - [x] unbedingt konto und briefkasten checken
 - [ ] ich will meine Arbeit Publikations fähig machen

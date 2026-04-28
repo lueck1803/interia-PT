@@ -4,7 +4,7 @@
 - [ ] $p_{\text{subbox}}^\text{liquid}(\rho)\propto \exp \left\{ -\left( \rho-\rho_{\text{liquid}}^\text{coex} \right)^{2}L^{2} / \left( 2k_{B}T\chi_{\text{eff}}^{L} \right) \right\}$
 - [ ] $p_{\text{subbox}}^\text{vapor}(\rho)\propto \exp \left\{ -\left( \rho-\rho_{\text{vapor}}^\text{coex} \right)^{2}L^{2} / \left( 2k_{B}T\chi_{\text{eff}}^{L} \right) \right\}$
 # important <span style="font-size:100%;color:tomato;">remarks</span>
-- [ ] ich~={RedRed} will meine Arbeit Publikations fähig machen=~
+- ich~={RedRed} will meine Arbeit Publikations fähig machen=~
 - ~={Magenta}SI Siebert2018 Fig S4 b)=~ ⟹ mit Original subsystem Methode haben sie auch nen crossing point gefunden, der mit dem der abgeänderten Methode übereinstimmt. Der spread der intersections ist nur größer.
 - ~={DeepSkyBlue}SI Siebert p2 Qualitative justification right side last paragraph:=~
 	- "*For systems in the Ising universality class, critical correlations grow isotropically. Thus, the growth of the correlation length ξ is limited by the smaller linear dimension 2L in the chosen geometry.*" 
