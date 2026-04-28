@@ -144,6 +144,27 @@
 # Vertretungsunterricht 
 
 # Aufgaben-Ideen
+## GL
+### [Afrika als Innovationstreiber](https://youtu.be/3wfQ4W2__bg?is=rmGkoRRJMD2YX_xF)
+- welche Probleme hatten die Leute? 
+- was war die Lösung?
+- und am wichtigsten, welche Ausbildungen haben sie dafür benötigt und wie haben sie es erreicht diese zu bekommen?
+- was war der innere Antrieb der Leute?
+	- Interesse
+	- Problemlösung 
+	- Faszination 
+- welche Probleme wollt ihr lösen? 
+- was ist eurer Antrieb?
+- Vor- und Nachteile von Migration?
+- was wurde über Sklaverei und Kolonialismus berichtet?
+	- wie wurde es dargestellt? 
+	- geframed?
+	- Hinweise auf die ganze Geschichte, die etwas zu kurz kommt?
+- listet alle erwähnten Berufe auf
+- was ist die demografische Dividende?
+	- was sind die Probleme?
+	- was hat das mit der Wirtschaft zu tun? 
+	- was ist das Ding mit dem Wirtschaftswachstum?
 ## Deutsch
 ### schreibt einen Songtext
 - Für Gesang or Rap

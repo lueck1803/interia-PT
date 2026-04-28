@@ -96,6 +96,8 @@
 	- [ ] noch kein Geld von Februar 
 	- [ ] Gehaltsabrechnung dez-feb
 - [ ] ich hab auch noch kein Geld vom Schulamt bekommen 
+- [ ] Apfelbäume mit dunklen Blättern in kleine Töpfe setzen 
+- [ ] Äpfel waschen 
 - [ ] jamils Email lesen + Stundenplan abspeichern 
 - [ ] Waschbecken Küche 
 - [ ] to do proposal in andere Datei 
