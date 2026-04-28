@@ -3129,8 +3129,9 @@ $$
 The forward process acts as the "teacher" for training the model. By observing how the data gradually corrupts, a neural network is trained (using Mean Squared Error) to predict the noise added at each step. Once trained, the model can reverse this process by removing noise iteratively to generate new data, starting from pure random noise. 
 
 ### Common Noise Schedules
-- ~={underline}Linear Schedule: =~ $\beta_{t}$ increases linearly from a small value (e.g., $10^{-4}$) to a larger value (e.g., 
-) over 
- steps.
+- ~={underline}Linear Schedule: =~ $\beta_{t}$ increases linearly from a small value (e.g., $10^{-4}$) to a larger value (e.g., $0.02$) over $T$ steps.
+- ~={underline}Cosine Schedule:=~  Often provides better results by decreasing the signal strength more slowly than linear schedules, particularly in the later steps.
+
+The forward process is crucial for generating training data in diffusion models, serving as a vital step before the model learns to reverse the distortion to create, for example, high-fidelity images.
 
 
