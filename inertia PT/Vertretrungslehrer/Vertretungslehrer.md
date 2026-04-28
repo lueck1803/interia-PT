@@ -2,8 +2,6 @@ Kunst 5b, 5c, 5d: Hier bist du mit Simone Rothemeyer doppelt gesetzt. Bitte dies
 
 Katrin Mair ([katrin.mair@darmstadt.de](katrin.mair@darmstadt.de)) macht hier eine Übergabe mit euch beiden.
 
-  
-
 AL 9ab, 9cd: Findet erst ab dem 25.05. wieder statt, da zur Zeit Intensivwochen sind. Auch hier kannst du dich mit Katrin Mair abstimmen, bzgl. des Unterrichts.
 
 Du lernst sie am Donnerstag ja kennen.
@@ -12,12 +10,36 @@ Du lernst sie am Donnerstag ja kennen.
 Die beiden Kurse übernimmst du von Tabea Weingärtner ([tabea.weingaertner@outlook.com](mailto:tabea.weingaertner@outlook.com)). Hier kannst du dir Infos und Material geben lassen.
 
 05a Deutsch: Hier bist du 3 Stunden doppelt gesetzt zum Hospitieren, damit du schauen kannst, wie du den Unterricht in der 05c gestalten könntest.
+
+Ich übernehme:
+- Kunst: 
+	- 5b, 5c, 5d
+	- Abstimmung mit Katrin Mair
+- Arbeitslehre (ab 25.05): 
+	- 9ab, 9cd
+	- Abstimmung mit Katrin Mair
+- Deutsch:
+	- 5c
+	- Abstimmung Tabea Weingärtner
+	- 5a zum Hospitieren doppelt besetzt
+- Ethik
 # To-Do 
 - Unterrichtsmaterialien 5 und 6 Klasse Englisch 
 - und deutsch suchen 
 - lernen schneller und kleiner an der Tafel zu schreiben
 - ~={Crimson}Schulsozialarbeit=~ fragen ob ich mal bei deren Aktivitäten teilhaben kann
 
+# Bernhard Adelung Schule (BAS)
+Code für den iPad Koffer 
+008 150
+### Raumplan 
+
+![](BAS-Raumverteilung-25-26.jpeg)
+### Zeiten
+- 1.-2.: 7:55 - 9:25
+- 3.-4.: 9:45 - 11:15
+- 5. 11:35-12:20
+- 6. 12:20 - 13:05
 
 
 # Motivation
@@ -199,19 +221,6 @@ Die beiden Kurse übernimmst du von Tabea Weingärtner ([tabea.weingaertner@outl
 ## DAZ
 - übersetzt ein Gedicht aus eurer Muttersprache auf Deutsch. Ohne Google-Übersetzer 
 
-# Bernhard Adelung Schule (BAS)
-Code für den iPad Koffer 
-008 150
-### Raumplan 
-
-![](BAS-Raumverteilung-25-26.jpeg)
-### Zeiten
-- 1.-2.: 7:55 - 9:25
-- 3.-4.: 9:45 - 11:15
-- 5. 11:35-12:20
-- 6.: 12:20 - 13:05
-
-6c armin,vergün, peyda,said 
 # Begriffssammlung 
 ## Doppelbesetzung 
 Die Doppelbesetzung in Schulen bezeichnet den Einsatz von zwei pädagogischen Fachkräften (Lehrer, Sonderpädagogen, Sozialarbeiter oder Assistenten) in einer Unterrichtsstunde. Sie dient der individuellen Förderung, Inklusion und besseren Betreuung, besonders in Kernfächern wie Deutsch, Mathe oder Englisch, wird jedoch oft durch Lehrermangel eingeschränkt. 
