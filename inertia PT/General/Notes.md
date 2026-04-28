@@ -3084,6 +3084,13 @@ $$
 		- only need to choose the ~={DeepSkyBlue}optimal action=~ under the actual observed data to obtain a uniformly optimal one
 		- ~={gray}whereas choosing the actual frequentist optimal decision rule as a function of all possible observations, is a much more difficult problem.=~
 	- the Bayes Rule reflects ~={Gold}consideration of loss outcomes=~ ~={red}under different states of nature=~, $\theta$
+- ~={underline}Example:=~
+	- scalar parameter $\theta$ 
+	- decision function whose output $\hat{\theta}$ is an estimate of $\theta$
+	- quadratic loss function $$
+\mathcal{L}(\theta,\hat{\theta})= (\theta,\hat{\theta})^{2}
+$$
+
 
 
 
