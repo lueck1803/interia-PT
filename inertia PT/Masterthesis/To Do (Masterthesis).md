@@ -950,7 +950,12 @@ flowchart TB
 - characterizing generic attributes of phase transitions from very limited observations 
 - Our approach is called thermodynamic maps 
 - combines statistical mechanics and molecular simulations with score-based generative models. 
-- 
+- learning the temperature dependence of arbitrary thermodynamic observables across a wide range of temperatures
+- calculating phase transition attributes such as 
+	- melting temperature
+	- temperature-dependent heat capacities
+	- and critical exponents. 
+- ~={Gold}infer=~ the ~={LawnGreen}ferromagnetic phase transition of the Ising model,=~ including temperature dependent heat capacity and critical exponents, despite never having seen samples from the transition region
 
 
 

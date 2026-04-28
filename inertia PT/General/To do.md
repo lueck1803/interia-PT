@@ -1,5 +1,8 @@
 # unsortiert
 - [x] unbedingt konto und briefkasten checken
+- [ ] personality tabs am laptop fertig lesen und schließen
+	- [ ] was ist das nächste macos nach meinem was sind die issues? 
+	- [ ] ⤷ updaten
 - [ ] Kette fetten 
 - [ ] Mischa schreiben:
 	- [ ] noch kein Geld von Februar 
