@@ -7,13 +7,15 @@
 	- [ ] Ketchup 
 	- [ ] fila
 - [ ] personality tabs am laptop fertig lesen und schließen
-	- [ ] was ist das nächste macos nach meinem was sind die issues? 
+- [ ] was ist das nächste macos nach meinem was sind die issues? 
 	- [ ] ⤷ updaten
+	- [ ] macOs sequoia: **Fenster-Kacheln:** Verbessertes organisieren von Fenstern durch einfaches Ziehen an den Bildschirmrand.
+	- [ ] sicherheitshalber warten bis nachdem proposal
 - [ ] machine learning
-	- [ ] understand forward process
+	- [x] understand forward process
 	- [ ] under stand score function
 	- [ ] read: Feedforward neural network
-	- [ ] loss function article lesen
+	- [x] loss function article lesen
 	- [ ] das google paper lesen
 - [x] Kette fetten 
 - [ ] Mischa schreiben:
@@ -21,7 +23,7 @@
 	- [ ] Gehaltsabrechnung dez-feb
 - [ ] ich hab auch noch kein Geld vom Schulamt bekommen 
 - [x] Apfelbäume mit dunklen Blättern in kleine Töpfe setzen 
-- [ ] Äpfel waschen 
+- [x] Äpfel waschen 
 - [ ] jamils Email lesen + Stundenplan abspeichern 
 - [ ] Waschbecken Küche 
 - [x] to do proposal in andere Datei 
