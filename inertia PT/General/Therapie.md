@@ -1,5 +1,6 @@
 
 # Tägliches Mantra
+- viele kleine Schritte: Dominostein kann viel bewegen
 - wenn die Angst/ das Gefühl sagt "Dreh dich um und Lauf weg": [dein Ziel stirbt leise](https://youtu.be/8yLrWOtOrzg?is=n-0HyFCSUyBjW_vu)
 	- ⟹~={Crimson} nicht=~ mehr Willenskraft und Motivation 
 	- stehen bleiben, wenn der Impuls sagt "dreh um"
