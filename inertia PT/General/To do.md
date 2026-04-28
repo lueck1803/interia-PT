@@ -19,15 +19,16 @@
 	- [ ] noch kein Geld von Februar 
 	- [ ] Gehaltsabrechnung dez-feb
 - [ ] ich hab auch noch kein Geld vom Schulamt bekommen 
-- [ ] Apfelbäume mit dunklen Blättern in kleine Töpfe setzen 
+- [x] Apfelbäume mit dunklen Blättern in kleine Töpfe setzen 
 - [ ] Äpfel waschen 
 - [ ] jamils Email lesen + Stundenplan abspeichern 
 - [ ] Waschbecken Küche 
-- [ ] to do proposal in andere Datei 
+- [x] to do proposal in andere Datei 
 - [ ] alte to do zu alt sortieren 
 - [ ] Bürostuhl dampfen
 - [ ] sofa dampfen 
 - [ ] um die Kiwis kümmern 
+- [ ] Pflänzchen umsetzen 
 - [ ] Forest and gardening vlog 
 - [ ] Forest pond
 - [ ] welche kameras hat der robinga?
@@ -37,7 +38,6 @@
 - [ ] Versuch dich mal an einer ~={LawnGreen}ganzen Aufnahme von so 70%=~. Lass Solo2 dann erstmal weg (spiel zu dem Punkt Rhythm oder so).
 - [x] Kleiderschrank reparieren
 - [ ] simulationen auf CPU02 checken, wenn fertig auf /data kopieren
-- [ ] Pflänzchen umsetzen 
 - [ ] 13.-21.6.2026 woche der bot. Gärten
 - [x] im Sekretariat bot. Garten 
 	- [x] Sonntagsdienst ~={RedRed} erst überlegen, wann ich nen Dienst machen möchte=~
