@@ -4,7 +4,10 @@
 	- [ ] was ist das nächste macos nach meinem was sind die issues? 
 	- [ ] ⤷ updaten
 - [ ] machine learning
-	- [ ] understa
+	- [ ] understand forward process
+	- [ ] under stand score function
+	- [ ] read: Feedforward neural network
+	- [ ] loss function article lesen
 - [ ] Kette fetten 
 - [ ] Mischa schreiben:
 	- [ ] noch kein Geld von Februar 
