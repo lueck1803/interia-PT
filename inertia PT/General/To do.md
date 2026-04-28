@@ -6,6 +6,7 @@
 	- [ ] vergleichen mit 1:10
 	- [ ] 1:3 sieht beim t=1kk noch aufgeteilt in zwei Bereiche aus, das ist ein gutes Zeichen, liegt also nicht unbedingt am ratio dass es aufgetrennt ist. bei N=3.5k  ist es direkt ein slab. Bei N=7k, quasi auch, über den zeitverlauf zerteilt es sich aber auch wieder, aber nur schwach. Das ist beruhigend. Es liegt also eher am jeweiligen run und es ist wahrscheinlich eine niedrigere masse notwendig. Die Zerteilung ist eventuell nur am anfang
 	- [ ] 1:3 mit m=0.01 simulieren
+- [ ] alle 128k simulationen killen, da da ich 112k brauche...
 - [ ] bevor ich dann von dem Kram etwas auswerte schreibe ich das ~={DeepSkyBlue}scheiß Proposal fertig=~ und bereite den ~={purple}schmutzigen talk=~ vor 
 - [ ] wenn mache ich die Auswertung und die abp Simulationen nebenbei 
 - [ ] algo anpassen und vergleichen, aufräumen, insbesondere auf GitHub hochgeladen 
