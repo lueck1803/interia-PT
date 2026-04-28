@@ -145,7 +145,11 @@
 
 # Aufgaben-Ideen
 ## GL
-### [Afrika als Innovationstreiber](https://youtu.be/3wfQ4W2__bg?is=rmGkoRRJMD2YX_xF)
+### [Afrika als Innovationstreiber](https://youtu.be/3wfQ4W2__bg?is=rmGkoRRJMD2YX_xF) (Arbeitsblatt dazu erstellen)
+#### to do
+- [ ] (~={DeepSkyBlue}Arbeitsblatt=~ dazu erstellen)
+- [ ] video bzgl Kolonialisierung, Geschichte Sklaverei und den geographischen Nachteilen Afrikas schauen, um das woke framing etwas zu relativieren
+#### mögliche Fragen
 - welche Probleme hatten die Leute? 
 - was war die Lösung?
 - und am wichtigsten, welche Ausbildungen haben sie dafür benötigt und wie haben sie es erreicht diese zu bekommen?
@@ -165,7 +169,8 @@
 	- was sind die Probleme?
 	- was hat das mit der Wirtschaft zu tun? 
 	- was ist das Ding mit dem Wirtschaftswachstum?
-- wirtschaftliche und finanzielle Lösungen?
+- welche wirtschaftlichen und finanziellen Lösungen wurden genannt?
+- welche Vor- und Nachteile hat der afrikanische Kontinent?
 ## Deutsch
 ### schreibt einen Songtext
 - Für Gesang or Rap
