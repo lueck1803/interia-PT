@@ -3119,7 +3119,18 @@ q(x_{t}|x_{t-1})=\mathcal{N}(x_{1};\sqrt{ 1-\beta_{t} }x_{t-1},\beta_{t}\mathbf{
 $$
 A key efficiency advantage is that $x_{t}$ can be sampled directly at any timestep $t$
 from $x_{0}$ without iterating through all previous steps: $$
-x_{t}=\sqrt{ \tilde{\alpha}_{t} }x_{0}+\sqrt{ 1-\tilde{\alpha}_{t} }
+x_{t}=\sqrt{ \tilde{\alpha}_{t} }x_{0}+\sqrt{ 1-\tilde{\alpha}_{t} }\epsilon
 $$
+- Where $\epsilon \sim \mathcal{N}(0,\mathbf{I})$
+- $\alpha_{t}=1-\beta_{t}$
+- $\tilde{\alpha}_{t}=\prod ^{t}_{i=1}\alpha_{i}$
+
+### Purpose in Generative Models
+The forward process acts as the "teacher" for training the model. By observing how the data gradually corrupts, a neural network is trained (using Mean Squared Error) to predict the noise added at each step. Once trained, the model can reverse this process by removing noise iteratively to generate new data, starting from pure random noise. 
+
+### Common Noise Schedules
+- ~={underline}Linear Schedule: =~ $\beta_{t}$ increases linearly from a small value (e.g., $10^{-4}$) to a larger value (e.g., 
+) over 
+ steps.
 
 
