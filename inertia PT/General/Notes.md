@@ -3084,13 +3084,18 @@ $$
 		- only need to choose the ~={DeepSkyBlue}optimal action=~ under the actual observed data to obtain a uniformly optimal one
 		- ~={gray}whereas choosing the actual frequentist optimal decision rule as a function of all possible observations, is a much more difficult problem.=~
 	- the Bayes Rule reflects ~={Gold}consideration of loss outcomes=~ ~={red}under different states of nature=~, $\theta$
-- ~={underline}Example:=~
+- ~={underline}Example1:=~
 	- scalar parameter $\theta$ 
 	- decision function whose output $\hat{\theta}$ is an estimate of $\theta$
 	- quadratic loss function $$
 \mathcal{L}(\theta,\hat{\theta})= (\theta,\hat{\theta})^{2}
 $$
-
+	- the risk function becomes the mean squared error of the estimate $$
+R(\theta,\hat{\theta})=E_{\theta}\left[ (\theta-\hat{\theta})^{2} \right] 
+$$
+	- an estimator found by minimizing the mean squared error estimates the posteriors distribution's mean
+- ~={underline}Example2:=~
+	- in density estimation the unknown parameter is probability density itself
 
 
 
