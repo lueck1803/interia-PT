@@ -3103,5 +3103,11 @@ $$
 R(f,\hat{f})=E\left( \lVert f-\hat{f} \rVert^{2}  \right)
 $$
 
+## Diffusion model
+In machine learning, specifically within Diffusion Models, the forward process (or forward diffusion) is a fixed, non-learnable procedure that gradually degrades data quality by adding noise until it becomes indistinguishable from Gaussian noise. 
+
+The forward process generates training targets for the reverse process, teaching the model to turn Gaussian noise back into structured data, such as images. 
+### Key concepts of the Forward Process
+- Fixed Markov Chain: It is a stochastic process where each step depends only on the previous one. It starts with clean data $x_{0}$ and adds small amounts of Gaussian noise over $T$ timesteps, producing a sequence $x_{1},\dot{}$.
 
 
