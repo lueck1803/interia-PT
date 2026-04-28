@@ -3059,7 +3059,12 @@ $$ for some constant $C$. Also known as the **squared error loss (SEL)**
 - most usable objective functions — quadratic and additive — are determined by a few ~={MediumTurquoise}indifference points=~. constructing these objective functions from either ordinal or cardinal data that were elicited through computer-assisted interviews with decision makers
 ### Expected loss
 - loss function some times a ~={Orchid}random quantity=~ ⟸ depends on the outcome of a random variable $X$
-- 
+- ~={DeepSkyBlue}expected value=~ of the loss function
+- ~={underline}*Frequentist expected loss*=~
+	- expected value with respect to the ~={blue}probability distribution=~ $P_{\theta}$ of the observed data $X$
+	- **risk function** $R$ of the decision rule $\delta$ and the parameter $\theta$. $$
+R(\theta,\delta)= 
+$$
 
 
 
