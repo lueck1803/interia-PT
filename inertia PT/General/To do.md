@@ -1,7 +1,7 @@
 - ich~={RedRed} will meine Arbeit Publikations fähig machen=~
 # unsortiert
 - [x] unbedingt konto und briefkasten checken
-- [ ] Tafel wischen (~={LawnGreen} brauche ich für Tafelbilder=~)
+- [x] Tafel wischen (~={LawnGreen} brauche ich für Tafelbilder=~)
 - [ ] Fensterbänke wischen 
 - [ ] socken flicken 
 	- [ ] Ketchup 
