@@ -2,6 +2,9 @@
 # unsortiert
 - [x] unbedingt konto und briefkasten checken
 - [x] Tafel wischen (~={LawnGreen} brauche ich für Tafelbilder=~)
+- [ ] Lehrplan Realschule lesen
+	- [ ] deutsch
+	- [ ] ethik
 - [ ] Fensterbänke wischen 
 - [ ] socken flicken 
 	- [ ] Ketchup 
