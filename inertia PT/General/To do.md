@@ -34,7 +34,7 @@
 - [ ] ich hab auch noch kein Geld vom Schulamt bekommen 
 - [x] Apfelbäume mit dunklen Blättern in kleine Töpfe setzen 
 - [x] Äpfel waschen 
-- [ ] jamils Email lesen + Stundenplan abspeichern 
+- [x] jamils Email lesen + Stundenplan abspeichern 
 - [ ] Waschbecken Küche 
 - [x] to do proposal in andere Datei 
 - [ ] alte to do zu alt sortieren 
