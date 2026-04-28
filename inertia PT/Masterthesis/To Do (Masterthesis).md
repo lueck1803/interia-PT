@@ -970,7 +970,7 @@ flowchart TB
 	- $x_{t}=\sqrt{ 1-\beta_{t} }x_{0}+\sqrt{ \beta_{t} }\epsilon$ it's an langevin equation
 	- ⤷ $p_{t}(x_{t}|x_{0})=\mathcal{N}(\sqrt{ 1-\beta_{t} }x_{0},\beta_{t})$
 	- ⤷ $\nabla_{x}\log p_{t}(x_{t}|x_{0})= \frac{\sqrt{ 1-\beta_{t} }x_{0}-x_{t}}{\beta_{t}}$
-	- $\nabla_{x}\log p_{t}(x_{t}|x_{0})=-$
+	- $\nabla_{x}\log p_{t}(x_{t}|x_{0})=-\frac{\epsilon}{\beta_{t}}$ 
 - like a decryption problem:
 	- it's like if you know the signal to decrypting the key
 	- or decrypting without knowing the key
