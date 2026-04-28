@@ -101,6 +101,7 @@
 - [ ] mandal lesen und von llm zusammenfassen lassen -> was kam da bei seiner temperatur raus.
 # unsortiert
 - [x] unbedingt konto und briefkasten checken
+- [ ] Kette fetten 
 - [ ] Mischa schreiben:
 	- [ ] noch kein Geld von Februar 
 	- [ ] Gehaltsabrechnung dez-feb
@@ -590,6 +591,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
  
 # Ahl
 - [ ] nach Granatapfelpflanzen schauen 
+- [ ] 
 - [ ] Maronen in den Wald setzen
 	- [ ] zu erst umsetzen und wachsen lassen
 	- [ ] Bereich aussuchen 
