@@ -46,6 +46,9 @@ Code für den iPad Koffer
 
 
 # Motivation
+## allgemein
+- wie geht ihr mit Langeweile um? 
+	- seid ihr religiös ⟹ betet ihr? ⟹langweilt ihr euch beim Beten?
 ## Mathematik
 ### allgemeine Motivation
 - hilft ~={Crimson}extrem=~ um die Welt zu verstehen
@@ -181,9 +184,11 @@ Code für den iPad Koffer
 	- Werkzeuge sauber machen und pflegen 
 	- alles wieder an seinen Platz 
 	- Aufräumen 
-
-# Vertretungsunterricht 
-
+## Gespräch mit Katrin Mair
+- auf dem Stundenplan steht Küche 
+	- dh es wird zur Zeit gekocht?
+	- was wurde bisher gekocht?
+	- wie geht's weiter?
 # Aufgaben-Ideen
 ## GL
 ### [Afrika als Innovationstreiber](https://youtu.be/3wfQ4W2__bg?is=rmGkoRRJMD2YX_xF) (Arbeitsblatt dazu erstellen)
