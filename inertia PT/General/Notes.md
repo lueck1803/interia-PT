@@ -3047,13 +3047,16 @@ In mathematical optimization and decision theory, a loss function or cost functi
 	- the event in question is some function of the ~={RedRed}difference=~ between ~={orange}estimated=~ and ~={MediumTurquoise}true values=~ for an instance of data.
 - <u>Quadratic loss function</u>:
 	- least square technique
-	- more mathematically tractable (folgsam, fügsam, geschmeidig, lenkbar, )
+	- more mathematically tractable (folgsam, fügsam, geschmeidig, lenkbar, nachgiebig)
 		- ⟸ property of the variance
 		- ⟸<u>symmetric:</u> an error above the target causes the ~={yellow}same loss=~ as the same magnitude of error below the target
 	- if target is $t$ then the *quadratic loss* function is $$
 \lambda(x)=C(t-x)^{2}
 $$ for some constant $C$. Also known as the **squared error loss (SEL)**
-	- 
+### constructing loss and objective functions (scoring rule)
+- determined by the problem formulation
+- the decision maker’s preference must be represented by a scalar-valued function (called also utility function) in a form suitable for optimization
+- 
 
 
 
