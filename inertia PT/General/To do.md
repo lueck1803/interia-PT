@@ -4,6 +4,7 @@
 - [x] Tafel wischen (~={LawnGreen} brauche ich für Tafelbilder=~)
 - [x] jamil nach kopierercode fragen 
 - [ ] Dokument von kayro ausfüllen 
+- [ ] Stunden Mittwoch 29. Eintragen. Etwas für die ersten zwei Stunden eintragen 
 - [ ] Stundenplan als Foto einscannen und in obsidian
 - [ ] Lehrplan Realschule lesen
 	- [ ] deutsch 5. Klasse
@@ -12,9 +13,9 @@
 - [ ] Tabea Weingärtner [tabea.weingaertner@outlook.com](mailto:tabea.weingaertner@outlook.com) schreiben nach Infos fragen, wegen 
 	- [ ] Ethik
 	- [ ] Deutsch
-- [ ] Mit Katrin Mair abstimmen wegen 
-	- [ ] Kunst 
-	- [ ] Arbeitslehre
+- [x] Mit Katrin Mair abstimmen wegen 
+	- [x] Kunst 
+	- [x] Arbeitslehre
 - [ ] Fensterbänke wischen 
 - [ ] socken flicken 
 	- [ ] Ketchup 
