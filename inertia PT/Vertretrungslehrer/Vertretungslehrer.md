@@ -191,6 +191,11 @@ Code für den iPad Koffer
 	- wie geht's weiter?
 # Aufgaben-Ideen
 ## GL
+### [neuestes vom Neandertaler](https://www.ardsounds.de/episode/urn:ard:episode:e6c45df3f342e2ee/)
+- Kinder link oder Datei geben 
+- auf ihren Privatgeräten oder an den Tablets anhören 
+- raus schreiben 
+- Gespräch in der Gruppe
 ### [Afrika als Innovationstreiber](https://youtu.be/3wfQ4W2__bg?is=rmGkoRRJMD2YX_xF) (Arbeitsblatt dazu erstellen)
 #### to do
 - [ ] (~={DeepSkyBlue}Arbeitsblatt=~ dazu erstellen)
