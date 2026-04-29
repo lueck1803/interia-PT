@@ -4,7 +4,7 @@
 - [x] Tafel wischen (~={LawnGreen} brauche ich für Tafelbilder=~)
 - [x] jamil nach kopierercode fragen 
 - [ ] Dokument von kayro ausfüllen 
-- [ ] Stundenplan einscannen und 
+- [ ] Stundenplan als Foto einscannen und in obsidian 
 - [ ] Lehrplan Realschule lesen
 	- [ ] deutsch 5. Klasse
 	- [ ] ethik 5. Klasse
