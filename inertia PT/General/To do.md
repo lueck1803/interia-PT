@@ -3,9 +3,9 @@
 - [x] unbedingt konto und briefkasten checken
 - [x] Tafel wischen (~={LawnGreen} brauche ich für Tafelbilder=~)
 - [x] jamil nach kopierercode fragen 
-- [ ] Dokument von kayro ausfüllen 
+- [x] Dokument von kayro ausfüllen 
 - [ ] Stunden Mittwoch 29. Eintragen. Etwas für die ersten zwei Stunden eintragen 
-- [ ] Stundenplan als Foto einscannen und in obsidian
+- [x] Stundenplan als Foto einscannen und in obsidian
 - [ ] Lehrplan Realschule lesen
 	- [ ] deutsch 5. Klasse
 	- [ ] ethik 5. Klasse
