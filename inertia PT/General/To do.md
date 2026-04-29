@@ -3,7 +3,7 @@
 - [x] unbedingt konto und briefkasten checken
 - [x] Tafel wischen (~={LawnGreen} brauche ich für Tafelbilder=~)
 - [x] jamil nach kopierercode fragen 
-- [ ] 
+- [ ] Dokument von kayro ausfüllen 
 - [ ] Lehrplan Realschule lesen
 	- [ ] deutsch 5. Klasse
 	- [ ] ethik 5. Klasse
