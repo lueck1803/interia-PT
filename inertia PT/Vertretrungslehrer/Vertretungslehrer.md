@@ -30,7 +30,7 @@ Ich übernehme:
 - und deutsch suchen 
 - lernen schneller und kleiner an der Tafel zu schreiben
 - ~={Crimson}Schulsozialarbeit=~ fragen ob ich mal bei deren Aktivitäten teilhaben kann
-- [ ] jamil nach kopierercode fragen 
+- [x] jamil nach kopierercode fragen 
 
 # Bernhard Adelung Schule (BAS)
 Code für den iPad Koffer 
