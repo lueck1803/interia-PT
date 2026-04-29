@@ -191,7 +191,7 @@ Code für den iPad Koffer
 	- wie geht's weiter?
 # Aufgaben-Ideen
 ## GL
-### [neuestes vom Neandertaler](https://www.ardsounds.de/episode/urn:ard:episode:e6c45df3f342e2ee/)
+### [neuestes vom Neandertaler](https://www.ardsounds.de/episode/urn:ard:episode:e6c45df3f342e2ee/)(Arbeitsblatt erstellen)
 - Kinder link oder Datei geben 
 - auf ihren Privatgeräten oder an den Tablets anhören 
 - raus schreiben 
