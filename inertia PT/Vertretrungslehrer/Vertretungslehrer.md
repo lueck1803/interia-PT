@@ -37,14 +37,18 @@ Code für den iPad Koffer
 008 150
 Kopiercode
 1803
-### Raumplan 
-
-![](BAS-Raumverteilung-25-26.jpeg)
 ### Zeiten
 - 1.-2.: 7:55 - 9:25
 - 3.-4.: 9:45 - 11:15
 - 5. 11:35-12:20
 - 6. 12:20 - 13:05
+## Stundenplan
+![](Pasted%20image%2020260429141731.png)
+![](Pasted%20image%2020260429141814.png)
+### Raumplan 
+
+![](BAS-Raumverteilung-25-26.jpeg)
+
 
 
 # Motivation
