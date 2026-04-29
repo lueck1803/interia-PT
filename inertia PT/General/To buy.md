@@ -1,3 +1,5 @@
+- [ ] toast
+- [ ] grüne Erbsen 
 - [ ] tofu
 - [x] schokomüsli
 - [x] bananen
@@ -5,12 +7,10 @@
 - [x] Margarine 
 - [x] gewürz Ketchup 
 - [x] hummus
-- [x] toast
 - türke
 	- [ ] weiße bohnen 
 	- [ ] kalamata oliven 
 	- [ ] grüne erbsen
-- [ ] grüne Erbsen 
 - [x] kleine faltbare Tragetasche dm/Müller/Rossmann 
 - [x] cd deo
 
