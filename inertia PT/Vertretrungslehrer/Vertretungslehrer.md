@@ -35,6 +35,8 @@ Ich übernehme:
 # Bernhard Adelung Schule (BAS)
 Code für den iPad Koffer 
 008 150
+Kopiercode
+1803
 ### Raumplan 
 
 ![](BAS-Raumverteilung-25-26.jpeg)
