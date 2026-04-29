@@ -4,7 +4,7 @@
 - [x] Tafel wischen (~={LawnGreen} brauche ich für Tafelbilder=~)
 - [x] jamil nach kopierercode fragen 
 - [x] Dokument von kayro ausfüllen 
-- [ ] Stunden Mittwoch 29. Eintragen. Etwas für die ersten zwei Stunden eintragen 
+- [x] Stunden Mittwoch 29. Eintragen. Etwas für die ersten zwei Stunden eintragen 
 - [x] Stundenplan als Foto einscannen und in obsidian
 - [ ] Lehrplan Realschule lesen
 	- [ ] deutsch 5. Klasse
