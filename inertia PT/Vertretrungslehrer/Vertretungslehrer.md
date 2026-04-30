@@ -78,7 +78,9 @@ Ich übernehme:
 	- die ersten 15 min nutzen
 	- text im Buch heraus nehmen
 - [ ] eventuell Jugendbuch mit 5c in Deutsch 
-- 
+- Und dann hatten wir jetzt ein bisschen Wortarten wiederholt: Nomen, Verben konjugieren im Präsenz, Präteritum und Futur, aber das noch nicht intensiv.
+	- [ ] dazu Übungsblätter suchen 
+	- [ ] bzw. unterricht überlegen
 ## Ethik
 - [ ] ethik lehrplan
 	- [ ] was kommt nach moral
