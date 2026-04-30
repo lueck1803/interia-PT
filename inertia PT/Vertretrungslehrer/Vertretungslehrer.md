@@ -54,9 +54,17 @@ Kopiercode
 	- Mo:
 		- vermutlich übernehme ich die 3./4. am Montag 5a
 		- eventuell montag klassenrat 5b
-	- Di: 3./4. 5b
+	- Di: 
+		- 3./4. 5b
+	- Fr: 
+		- 3./4. 5b
 ![](Pasted%20image%2020260429141731.png)
 ![](Pasted%20image%2020260429141814.png)
+## Deutsch
+- bis zur 7. klasse allgemein keine Rechtschreibung bewerten.
+- schönschreibe Heft:
+	- die ersten 15 min nutzen
+	- text im Buch heraus nehmen
 ### Raumplan 
 
 ![](BAS-Raumverteilung-25-26.jpeg)
