@@ -34,6 +34,7 @@ Ich übernehme:
 	- [ ] Kletterschein
 	- [ ] Sportschein
 	- [ ] Trampolinschein
+- [ ] Sekretariat Mailingliste eintragen lassen
 - [x] jamil nach kopierercode fragen 
 
 # Bernhard Adelung Schule (BAS)
