@@ -22,6 +22,7 @@ Ich übernehme:
 	- 5c
 	- Abstimmung Tabea Weingärtner [tabea.weingaertner@outlook.com](mailto:tabea.weingaertner@outlook.com)
 	- 5a zum Hospitieren doppelt besetzt
+	- Wir haben Märchen gemacht, mit eins selbst schreiben in der Gruppe- haben sie richtig gut gemacht! Und dann hatten wir jetzt ein bisschen Wortarten wiederholt: Nomen, Verben konjugieren im Präsenz, Präteritum und Futur, aber das noch nicht intensiv.
 - ~={underline}Ethik:=~
 	- 5c
 	- Abstimmung mit Tabea Weingärtner 
