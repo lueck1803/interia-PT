@@ -25,7 +25,7 @@ Ich übernehme:
 - ~={underline}Ethik:=~
 	- 5c
 	- Abstimmung mit Tabea Weingärtner 
-	- 
+	- dieses Halbjahr bisher **Moral** als Thema, haben da auch mit dem **Buch** etwas gearbeitet, bzw. die SuS haben sich zu zweit ein Buch geteilt. Und letzte Stunde hatte ich die **Arbeit zurückgegeben**
 # To-Do 
 - Unterrichtsmaterialien 5 und 6 Klasse Englisch 
 - und deutsch suchen 
