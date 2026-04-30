@@ -8,7 +8,7 @@
 - [x] Stundenplan als Foto einscannen und in obsidian
 - [ ] abschreiben was auf dem Zettel steht was ich in Kunst auf geschrieben habe
 - [ ] frau kaya wegen den Unterrichtsmaterialien schreiben  - E-Mail bekomme ich von jamil
-- [ ] eventuell Jugendbuch 
+- [ ] eventuell Jugendbuch mit 5c in Deutsch 
 - [ ] dem Hausmeister ne Mail wegen Kunstschrank Schlüssel
 - [ ] Lehrplan Realschule lesen
 	- [ ] deutsch 5. Klasse
