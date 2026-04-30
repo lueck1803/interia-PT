@@ -29,6 +29,8 @@ Ich übernehme:
 - Unterrichtsmaterialien 5 und 6 Klasse Englisch 
 - und deutsch suchen 
 - lernen schneller und kleiner an der Tafel zu schreiben
+- [ ] Schlüssel für Lehrerparkplatz geben lassen da dieser für die gartenag passt 
+- [ ] Hausmeister Schlüssel für Kunstschrank 
 - ~={Crimson}Schulsozialarbeit=~ fragen ob ich mal bei deren Aktivitäten teilhaben kann
 - Quereinstieg:
 	- Lehrkräfte Akademie
@@ -37,13 +39,13 @@ Ich übernehme:
 	- [ ] Kletterschein
 	- [ ] Sportschein
 	- [ ] Trampolinschein
-- [ ] Sekretariat Mailingliste eintragen lassen
+- [x] Sekretariat Mailingliste eintragen lassen
 - [x] jamil nach kopierercode fragen 
 
 # Bernhard Adelung Schule (BAS)
-Code für den iPad Koffer 
-008 150
-Kopiercode
+**Code für den iPad Koffer** 
+008 150 
+**Kopiercode**
 1803
 ### Zeiten
 - 1. 7:55 - 8:40
