@@ -110,6 +110,12 @@ Ich übernehme:
 	- [ ] ein film / ausschnitt aus einer diskussion zeigen
 - [ ] Ethik Arbeit anschauen
 ## Kunst
+- Kinder brauchen ein Anfang und ein Ende
+- Am ende jeder hinter hochgestellten Stuhl stellen und Endbesprechung machen
+- Wir schweigen in Worten und mit dem Körper
+- niemals könnt ihr vorher gehen
+- Note für Muttertagskarte
+- Ein Teil kann ihre Karte fertig machen und Rest fängt Fische Bilder an, Vorder und hintergrund
 
 # Motivation
 ## allgemein
