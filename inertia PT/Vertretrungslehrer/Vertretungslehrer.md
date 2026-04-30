@@ -91,6 +91,7 @@ Ich übernehme:
 		- ~={green} man sollte an politischen debatten erst teilnehmen, wenn man die position der gegner so artikulieren kann, dass die gegner diese artikulation akzeptieren=~
 		- ⤷ erst dann die politische Gegenseite so verstanden hat, dass man darüber reden kann, wer eigentlich recht hat
 		- ⤷es geht dabei nicht darum die andere Seite zu übernehmen, sondern erstmal auf ein level zu kommen
+	- die günstigste Variante des Gegners annehmen. ~={Gold}The benefit of the doubt.=~
 - [ ] ethik lehrplan
 	- [ ] was kommt nach moral
 	- [ ] arbeitsblätter dazu
