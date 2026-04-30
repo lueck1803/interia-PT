@@ -19,7 +19,15 @@
 	- [ ] was kommt nach moral
 	- [ ] arbeitsblätter dazu
 	- [ ] Arbeitsblatt zu Kohlbergs Theorie der Moralentwicklung, vielleicht ein video schauen
-	- [ ] kommunikation
+	- [ ] Ebenen der kommunikation nach friede mann schulz von thun
+	- [ ] zur Moral eine Debatte führen
+	- [ ] mir ein kontroverses Thema heraussuchen, jeweils eine Gruppe dafür und eine Gruppe dagegen
+	- [ ] moralisch debattieren / argumentieren
+	- [ ] ist es in ordnung fleisch zu essen
+	- [ ] Tierversuche
+	- [ ] Ist Entwicklungshilfe gut oder sogar nötig?
+	- [ ] medizinische studien:
+		- [ ] ist es ethisch
 - [ ] abschreiben was auf dem Zettel steht was ich in Kunst auf geschrieben habe
 - [ ] frau kaya wegen den Unterrichtsmaterialien schreiben  - E-Mail bekomme ich von jamil
 - [ ] eventuell Jugendbuch mit 5c in Deutsch 
