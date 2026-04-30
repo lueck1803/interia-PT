@@ -29,7 +29,8 @@ Ich übernehme:
 - Unterrichtsmaterialien 5 und 6 Klasse Englisch 
 - und deutsch suchen 
 - lernen schneller und kleiner an der Tafel zu schreiben
-- Schlüssel für Lehrerparkplatz da dieser für die gartenag passt 
+- [ ] Schlüssel für Lehrerparkplatz geben lassen da dieser für die gartenag passt 
+- [ ] Hausmeister Schlüssel für Kunstschrank 
 - ~={Crimson}Schulsozialarbeit=~ fragen ob ich mal bei deren Aktivitäten teilhaben kann
 - Scheine machen:
 	- [ ] Kletterschein
