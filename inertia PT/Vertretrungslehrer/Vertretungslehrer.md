@@ -82,6 +82,9 @@ Ich übernehme:
 	- [ ] dazu Übungsblätter suchen 
 	- [ ] bzw. unterricht überlegen
 ## Ethik
+- [ ] ideologische Turing Test
+	- [ ] ~={underline}Turning Test der 60iger: =~sitzt hinter einer Wand und soll entscheiden ob man mit einer KI oder einem menschen auf der anderen Seite der wand spricht ⟹ wenn man nicht mehr unterscheiden kann, dann hat die KI den Test bestanden und ihr wird menschliche intelligenz zu gesprochen
+	- [ ] ~={underline}ideologischer Turing test=~: ich meinem gegner erklären soll, was ~={underline}er denkt=~, so dass sagen kann ~={underline}genauso denke ich=~
 - [ ] ethik lehrplan
 	- [ ] was kommt nach moral
 	- [ ] arbeitsblätter dazu
