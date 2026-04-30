@@ -7,9 +7,9 @@
 - [x] Stunden Mittwoch 29. Eintragen. Etwas für die ersten zwei Stunden eintragen 
 - [x] Stundenplan als Foto einscannen und in obsidian
 - [ ] abschreiben was auf dem Zettel steht was ich in Kunst auf geschrieben habe
-- [ ] frau kaya wegen den Unterrichtsmaterialien schreiben 
-- [ ] dem Hausmeister ne Mail wegen Kunstschrank Schlüssel 
-- [ 
+- [ ] frau kaya wegen den Unterrichtsmaterialien schreiben  - E-Mail bekomme ich von jamil
+- [ ] eventuell Jugendbuch 
+- [ ] dem Hausmeister ne Mail wegen Kunstschrank Schlüssel
 - [ ] Lehrplan Realschule lesen
 	- [ ] deutsch 5. Klasse
 	- [ ] ethik 5. Klasse
