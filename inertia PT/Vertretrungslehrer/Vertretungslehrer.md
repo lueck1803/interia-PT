@@ -30,6 +30,9 @@ Ich übernehme:
 - und deutsch suchen 
 - lernen schneller und kleiner an der Tafel zu schreiben
 - ~={Crimson}Schulsozialarbeit=~ fragen ob ich mal bei deren Aktivitäten teilhaben kann
+- Quereinstieg:
+	- Lehrkräfte Akademie
+	- Studienseminar
 - Scheine machen:
 	- [ ] Kletterschein
 	- [ ] Sportschein
@@ -55,7 +58,7 @@ Kopiercode
 		- vermutlich übernehme ich die 3./4. am Montag 5a
 		- eventuell montag klassenrat 5b
 	- Di: 
-		- 3./4. 5b
+		- 3./4. 5b (R23)
 	- Fr: 
 		- 3./4. 5b
 ![](Pasted%20image%2020260429141731.png)
