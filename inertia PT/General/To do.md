@@ -8,6 +8,7 @@
 - [x] Stundenplan als Foto einscannen und in obsidian
 - [ ] okra rot stecken 
 - [ ] okra grün in Töpfen 
+- [ ] Versmaß verstehen 
 - [ ] abschreiben was auf dem Zettel steht was ich in Kunst auf geschrieben habe
 - [ ] frau kaya wegen den Unterrichtsmaterialien schreiben  - E-Mail bekomme ich von jamil
 - [ ] eventuell Jugendbuch mit 5c in Deutsch 
