@@ -111,7 +111,7 @@ Ich übernehme:
 - [ ] Ethik Arbeit anschauen
 ## Kunst
 - Kinder brauchen ein Anfang und ein Ende
-- Am ende jeder hinter hochgestellten Stuhl stellen und Endbesprechung machen
+- Am ende jeder hinter hochgestellten Stuhl stellen und Endbesprechung machen (5 min vor Schluss, wenn alles aufgeräumt ist)
 - Wir schweigen in Worten und mit dem Körper
 - niemals könnt ihr vorher gehen
 - Note für Muttertagskarte
