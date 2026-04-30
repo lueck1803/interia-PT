@@ -15,6 +15,11 @@
 - [ ] Und dann hatten wir jetzt ein bisschen Wortarten wiederholt: Nomen, Verben konjugieren im Präsenz, Präteritum und Futur, aber das noch nicht intensiv.
 	- [ ] dazu Übungsblätter suchen 
 	- [ ] bzw. unterricht überlegen
+- [ ] ethik lehrplan
+	- [ ] was kommt nach moral
+	- [ ] arbeitsblätter dazu
+	- [ ] Arbeitsblatt zu Kohlbergs Theorie der Moralentwicklung, vielleicht ein video schauen
+	- [ ] kommunikation
 - [ ] abschreiben was auf dem Zettel steht was ich in Kunst auf geschrieben habe
 - [ ] frau kaya wegen den Unterrichtsmaterialien schreiben  - E-Mail bekomme ich von jamil
 - [ ] eventuell Jugendbuch mit 5c in Deutsch 
