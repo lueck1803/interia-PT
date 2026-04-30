@@ -50,7 +50,11 @@ Kopiercode
 - 5. 11:35-12:20
 - 6. 12:20 - 13:05
 ## Stundenplan
-- KW 19: vermutlich übernehme ich die 3./4. 
+- KW 19: 
+	- Mo:
+		- vermutlich übernehme ich die 3./4. am Montag 5a
+		- eventuell montag klassenrat 5b
+	- Di: 3./4. 5b
 ![](Pasted%20image%2020260429141731.png)
 ![](Pasted%20image%2020260429141814.png)
 ### Raumplan 
