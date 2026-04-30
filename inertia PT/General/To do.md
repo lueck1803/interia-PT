@@ -20,7 +20,7 @@
 	- [ ] deutsch 5. Klasse
 	- [ ] ethik 5. Klasse
 	- [ ] Arbeitslehre 9. Klasse
-- [ ] Tabea Weingärtner [tabea.weingaertner@outlook.com](mailto:tabea.weingaertner@outlook.com) schreiben nach Infos fragen, wegen 
+- [x] Tabea Weingärtner [tabea.weingaertner@outlook.com](mailto:tabea.weingaertner@outlook.com) schreiben nach Infos fragen, wegen 
 	- [ ] Ethik
 	- [ ] Deutsch
 - [x] Mit Katrin Mair abstimmen wegen 
