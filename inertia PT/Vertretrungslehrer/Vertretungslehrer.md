@@ -84,7 +84,11 @@ Ich übernehme:
 ## Ethik
 - [ ] ideologische Turing Test
 	- [ ] ~={underline}Turning Test der 60iger: =~sitzt hinter einer Wand und soll entscheiden ob man mit einer KI oder einem menschen auf der anderen Seite der wand spricht ⟹ wenn man nicht mehr unterscheiden kann, dann hat die KI den Test bestanden und ihr wird menschliche intelligenz zu gesprochen
-	- [ ] ~={underline}ideologischer Turing test=~: ich meinem gegner erklären soll, was ~={underline}er denkt=~, so dass sagen kann ~={underline}genauso denke ich=~
+	- [ ] ~={underline}ideologischer Turing test=~: ich meinem gegner erklären soll, was ~={underline}er denkt=~, so dass sagen kann ~={underline}genauso denke ich=~ ⟹ ideologischer turing test bestanden 
+		- [ ] ⟹ sollte man immer versuchen, bevor man sich auf eine debatte einlässt
+		- [x] ~={RedRed}wir neigen immer dazu die andere Seite zu dämonisieren und als korrupt, verblödet oder bösartig darzustellen=~
+		- ~={LightBlue}wenig verständnis dafür, dass Vielleicht die moralischen und politischen Überzeugungen der gegenseite oder als solche wahrgenommen Gegenseite vielleicht gar nicht so übel sein können=~
+		- ~={green} man sollte an politischen debatten erst teilnehmen, wenn man die position der gegner so artikulieren kann, dass die gegner diese artikulation akzeptieren=~
 - [ ] ethik lehrplan
 	- [ ] was kommt nach moral
 	- [ ] arbeitsblätter dazu
