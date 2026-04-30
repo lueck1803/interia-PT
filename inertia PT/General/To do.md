@@ -30,17 +30,20 @@
 	- [ ] Ist Entwicklungshilfe gut oder sogar nötig?
 	- [ ] sterbehilfe
 	- [ ] Ist die Forschung zu Menschenrassen überhaupt vertretbar?
-	- [ ] Sprechverbote:
+	- [ ] Sprechverbote/Tabus:
 		- [ ] N-Wort
 		- [ ] Z-Wort
 		- [ ] stattbehindert -> benachteiligt
 		- [ ] weitere Beispiele
+		- [ ] dürfen bestimmte Menschen nur bestimmte Worte sagen
+	- [ ] darf man die AfD wählen? darf man Vertretern der AfD eine "Bühne bieten"? Ist rechts sein teil es demokratischen Spektrums? Ist es Links sein? was ist das überhaupt?
 	- [ ] medizinische studien:
 		- [ ] ist es ethisch vertretbar einer gruppe ein Placebo zu geben
 		- [ ] Wann ist das ok, wann ist das nicht ok?
 	- [ ] ein film / ausschnitt aus einer diskussion zeigen
+- [ ] Ethik Arbeit anschauen
 - [ ] abschreiben was auf dem Zettel steht was ich in Kunst auf geschrieben habe
-- [ ] frau kaya wegen den Unterrichtsmaterialien schreiben  - E-Mail bekomme ich von jamil
+- [x] frau kaya wegen den Unterrichtsmaterialien schreiben  - E-Mail bekomme ich von jamil
 - [ ] eventuell Jugendbuch mit 5c in Deutsch 
 - [ ] dem Hausmeister ne Mail wegen Kunstschrank Schlüssel
 - [ ] Lehrplan Realschule lesen

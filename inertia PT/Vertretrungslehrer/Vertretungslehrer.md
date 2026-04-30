@@ -56,6 +56,11 @@ Ich übernehme:
 - 4. 10:30 - 11:15
 - 5. 11:35 - 12:20
 - 6. 12:20 - 13:05
+## Raumplan 
+
+![](BAS-Raumverteilung-25-26.jpeg)
+
+
 ## Stundenplan
 - KW 19: 
 	- Mo:
@@ -72,11 +77,37 @@ Ich übernehme:
 - schönschreibe Heft:
 	- die ersten 15 min nutzen
 	- text im Buch heraus nehmen
-### Raumplan 
-
-![](BAS-Raumverteilung-25-26.jpeg)
-
-
+- [ ] eventuell Jugendbuch mit 5c in Deutsch 
+- 
+## Ethik
+- [ ] ethik lehrplan
+	- [ ] was kommt nach moral
+	- [ ] arbeitsblätter dazu
+	- [ ] Arbeitsblatt zu Kohlbergs Theorie der Moralentwicklung, vielleicht ein video schauen
+	- [ ] Ebenen der kommunikation nach friede mann schulz von thun
+	- [ ] zur Moral eine Debatte führen
+	- [ ] mir ein kontroverses Thema heraussuchen, jeweils eine Gruppe dafür und eine Gruppe dagegen
+	- [ ] moralisch debattieren / argumentieren
+	- [ ] ist es in ordnung fleisch zu essen
+	- [ ] Tierversuche
+	- [ ] schwangerschaftsabbrüche
+	- [ ] leihmutterschaft
+	- [ ] Ist Entwicklungshilfe gut oder sogar nötig?
+	- [ ] sterbehilfe
+	- [ ] Ist die Forschung zu Menschenrassen überhaupt vertretbar?
+	- [ ] Sprechverbote/Tabus:
+		- [ ] N-Wort
+		- [ ] Z-Wort
+		- [ ] stattbehindert -> benachteiligt
+		- [ ] weitere Beispiele
+		- [ ] dürfen bestimmte Menschen nur bestimmte Worte sagen
+	- [ ] darf man die AfD wählen? darf man Vertretern der AfD eine "Bühne bieten"? Ist rechts sein teil es demokratischen Spektrums? Ist es Links sein? was ist das überhaupt?
+	- [ ] medizinische studien:
+		- [ ] ist es ethisch vertretbar einer gruppe ein Placebo zu geben
+		- [ ] Wann ist das ok, wann ist das nicht ok?
+	- [ ] ein film / ausschnitt aus einer diskussion zeigen
+- [ ] Ethik Arbeit anschauen
+## Kunst
 
 # Motivation
 ## allgemein
