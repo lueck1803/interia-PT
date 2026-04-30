@@ -46,7 +46,7 @@
 - [ ] abschreiben was auf dem Zettel steht was ich in Kunst auf geschrieben habe
 - [x] frau kaya wegen den Unterrichtsmaterialien schreiben  - E-Mail bekomme ich von jamil
 - [ ] eventuell Jugendbuch mit 5c in Deutsch 
-- [ ] dem Hausmeister ne Mail wegen Kunstschrank Schlüssel
+- [ ] dem Hausmeister ne Mail wegen Kunstschrank Schlüssel (daniel.mroczek@darms)
 - [ ] Lehrplan Realschule lesen
 	- [ ] deutsch 5. Klasse
 	- [ ] ethik 5. Klasse
