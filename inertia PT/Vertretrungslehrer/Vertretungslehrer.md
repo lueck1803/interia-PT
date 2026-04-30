@@ -25,6 +25,7 @@ Ich übernehme:
 - ~={underline}Ethik:=~
 	- 5c
 	- Abstimmung mit Tabea Weingärtner 
+	- 
 # To-Do 
 - Unterrichtsmaterialien 5 und 6 Klasse Englisch 
 - und deutsch suchen 
