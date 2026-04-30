@@ -28,6 +28,13 @@
 	- [ ] schwangerschaftsabbrüche
 	- [ ] leihmutterschaft
 	- [ ] Ist Entwicklungshilfe gut oder sogar nötig?
+	- [ ] sterbehilfe
+	- [ ] Ist die Forschung zu Menschenrassen überhaupt vertretbar?
+	- [ ] Sprechverbote:
+		- [ ] N-Wort
+		- [ ] Z-Wort
+		- [ ] stattbehindert -> benachteiligt
+		- [ ] weitere Beispiele
 	- [ ] medizinische studien:
 		- [ ] ist es ethisch vertretbar einer gruppe ein Placebo zu geben
 		- [ ] Wann ist das ok, wann ist das nicht ok?
