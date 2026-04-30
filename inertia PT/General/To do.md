@@ -6,6 +6,7 @@
 - [x] Dokument von kayro ausfüllen 
 - [x] Stunden Mittwoch 29. Eintragen. Etwas für die ersten zwei Stunden eintragen 
 - [x] Stundenplan als Foto einscannen und in obsidian
+- [ ] okra rot stecken 
 - [ ] abschreiben was auf dem Zettel steht was ich in Kunst auf geschrieben habe
 - [ ] frau kaya wegen den Unterrichtsmaterialien schreiben  - E-Mail bekomme ich von jamil
 - [ ] eventuell Jugendbuch mit 5c in Deutsch 
