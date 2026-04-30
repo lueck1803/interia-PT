@@ -30,6 +30,10 @@ Ich übernehme:
 - und deutsch suchen 
 - lernen schneller und kleiner an der Tafel zu schreiben
 - ~={Crimson}Schulsozialarbeit=~ fragen ob ich mal bei deren Aktivitäten teilhaben kann
+- Scheine machen:
+	- [ ] Kletterschein
+	- [ ] Sportschein
+	- [ ] Trampolinschein
 - [x] jamil nach kopierercode fragen 
 
 # Bernhard Adelung Schule (BAS)
