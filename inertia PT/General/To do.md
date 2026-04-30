@@ -25,9 +25,13 @@
 	- [ ] moralisch debattieren / argumentieren
 	- [ ] ist es in ordnung fleisch zu essen
 	- [ ] Tierversuche
+	- [ ] schwangerschaftsabbrüche
+	- [ ] leihmutterschaft
 	- [ ] Ist Entwicklungshilfe gut oder sogar nötig?
 	- [ ] medizinische studien:
-		- [ ] ist es ethisch
+		- [ ] ist es ethisch vertretbar einer gruppe ein Placebo zu geben
+		- [ ] Wann ist das ok, wann ist das nicht ok?
+	- [ ] ein film / ausschnitt aus einer diskussion zeigen
 - [ ] abschreiben was auf dem Zettel steht was ich in Kunst auf geschrieben habe
 - [ ] frau kaya wegen den Unterrichtsmaterialien schreiben  - E-Mail bekomme ich von jamil
 - [ ] eventuell Jugendbuch mit 5c in Deutsch 
