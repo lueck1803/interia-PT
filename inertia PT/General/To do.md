@@ -15,7 +15,7 @@
 - [ ] Und dann hatten wir jetzt ein bisschen Wortarten wiederholt: Nomen, Verben konjugieren im Präsenz, Präteritum und Futur, aber das noch nicht intensiv.
 	- [ ] dazu Übungsblätter suchen 
 	- [ ] bzw. unterricht überlegen
-- [ ] Kunst: Vorder und hintergrund. Beispiele und material suchen. Wie wird 
+- [ ] Kunst: Vorder und hintergrund. Beispiele und material suchen. Wie wird das richtig gemacht
 - [ ] ethik lehrplan
 	- [ ] was kommt nach moral
 	- [ ] arbeitsblätter dazu

@@ -116,6 +116,7 @@ Ich übernehme:
 - niemals könnt ihr vorher gehen
 - Note für Muttertagskarte
 - Ein Teil kann ihre Karte fertig machen und Rest fängt Fische Bilder an, Vorder und hintergrund
+- Immer alles vorher ausprobieren
 
 # Motivation
 ## allgemein
