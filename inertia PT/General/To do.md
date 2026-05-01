@@ -8,6 +8,7 @@
 - [x] Stundenplan als Foto einscannen und in obsidian
 - [x] okra rot stecken 
 - [ ] wischen insbesondere beim Bett
+- [ ] in Schule gehen, mir Deutsch und Ethik Buch anschauen 
 - [ ] Spülmaschine 
 - [ ] okra grün in Töpfen 
 - [ ] Versmaß verstehen (Videos auf yt)
