@@ -6,7 +6,9 @@
 - [x] Dokument von kayro ausfüllen 
 - [x] Stunden Mittwoch 29. Eintragen. Etwas für die ersten zwei Stunden eintragen 
 - [x] Stundenplan als Foto einscannen und in obsidian
-- [ ] okra rot stecken 
+- [x] okra rot stecken 
+- [ ] wischen insbesondere beim Bett
+- [ ] Spülmaschine 
 - [ ] okra grün in Töpfen 
 - [ ] Versmaß verstehen (Videos auf yt)
 	- [ ] jambus
