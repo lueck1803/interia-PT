@@ -127,6 +127,8 @@ Ich übernehme:
 - Note für Muttertagskarte
 - Ein Teil kann ihre Karte fertig machen und Rest fängt Fische Bilder an, Vorder und hintergrund
 - Immer alles vorher ausprobieren
+## Garten AG
+- Teich anlegen?
 
 # Motivation
 ## allgemein
