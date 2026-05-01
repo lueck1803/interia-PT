@@ -96,6 +96,9 @@ Ich übernehme:
 - ihr hattet Streit mit einem Freund?
 - Eure Eltern haben euch etwas verboten?
 - Eure Eltern, die Lehrer und die Schule stellen euch Regeln und Grenzen auf?
+- ihr wurdet beleidigt oder angerempelt
+- wie habt ihr euch dabei gefühlt?
+- lernen die Positionen, Argumente und auch unqualifizierte Äußerungen anderer auszuhalten 
 - Situation mit dem Wort "nega" erklären 
 	- argumentiert dafür warum ich das sagen darf
 	- argumentiert dagegen dass ich das sagen darf
