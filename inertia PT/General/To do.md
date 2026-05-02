@@ -10,7 +10,6 @@
 - [x] wischen insbesondere beim Bett
 - [x] Berglinsen aus Vorratsschrank austragen 
 - [ ] Knoblauchrauke suchen und ausgraben 
-- [ ] Bärlauch bei dem Merck Gebäude ausgraben
 - [ ] [Change your life now](https://youtu.be/pFhMzPxbY4E?is=o7W8uMv3Vc7oasP8) Notizen machen
 - [ ] [fix your adhd morning](https://youtu.be/gsVYI-l_6G8?is=BUHdgIGMxlNq8KT8) was dazu aufschreiben 
 - [ ] Waffenbrüder soloi
