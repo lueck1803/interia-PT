@@ -7,11 +7,16 @@
 - [x] Stunden Mittwoch 29. Eintragen. Etwas für die ersten zwei Stunden eintragen 
 - [x] Stundenplan als Foto einscannen und in obsidian
 - [x] okra rot stecken 
-- [ ] wischen insbesondere beim Bett
+- [x] wischen insbesondere beim Bett
+- [ ] Berglinsen aus Vorratsschrank austragen 
+- [ ] Knoblauchrauke suchen und ausgraben 
+- [ ] Bärlauch bei dem Merck Gebäude ausgraben
+- [ ] [Change your life now](https://youtu.be/pFhMzPxbY4E?is=o7W8uMv3Vc7oasP8) Notizen machen
+- [ ] [fix your adhd morning](https://youtu.be/gsVYI-l_6G8?is=BUHdgIGMxlNq8KT8) was dazu aufschreiben 
 - [ ] Waffenbrüder soloi
-- [ ] in Schule gehen, mir Deutsch und Ethik Buch anschauen 
-- [ ] Spülmaschine 
-- [ ] okra grün in Töpfen 
+- [ ] in Schule gehen, mir Deutsch und Ethik Buch anschauen ⟹ geht nicht, da die Tür auch unten abgeschlossen ist und zwar mit einem anderen Schlüssel
+- [x] Spülmaschine 
+- [x] okra grün in Töpfen 
 - [ ] Versmaß verstehen (Videos auf yt)
 	- [ ] jambus
 	- [ ] trochäus 
@@ -47,7 +52,7 @@
 		- [ ] Wann ist das ok, wann ist das nicht ok?
 	- [ ] ein film / ausschnitt aus einer diskussion zeigen
 - [ ] Ethik Arbeit anschauen
-- [ ] abschreiben was auf dem Zettel steht was ich in Kunst auf geschrieben habe
+- [x] abschreiben was auf dem Zettel steht was ich in Kunst auf geschrieben habe
 - [x] frau kaya wegen den Unterrichtsmaterialien schreiben  - E-Mail bekomme ich von jamil
 - [ ] eventuell Jugendbuch mit 5c in Deutsch 
 - [ ] dem Hausmeister ne Mail wegen Kunstschrank Schlüssel (daniel.mroczek@darmstadt.de)
@@ -56,8 +61,8 @@
 	- [ ] ethik 5. Klasse
 	- [ ] Arbeitslehre 9. Klasse
 - [x] Tabea Weingärtner [tabea.weingaertner@outlook.com](mailto:tabea.weingaertner@outlook.com) schreiben nach Infos fragen, wegen 
-	- [ ] Ethik
-	- [ ] Deutsch
+	- [x] Ethik
+	- [x] Deutsch
 - [x] Mit Katrin Mair abstimmen wegen 
 	- [x] Kunst 
 	- [x] Arbeitslehre
@@ -122,9 +127,9 @@
 - [ ] und Papierkram
 - [ ] Toilettendeckel tauschen 
 - [x] bei Kinder Betreuung bewerben 
-	- [ ] ⟹muss ich nicht mehr, ok vielleicht wäre das für die Sommerferien gut
-- [ ] Email an Schulen gingen raus?
-	- [ ] ⟹muss ich nicht mehr, 
+	- ⟹muss ich nicht mehr, ok vielleicht wäre das für die Sommerferien gut
+- [x] Email an Schulen gingen raus?
+	- ⟹muss ich nicht mehr, 
 - [x] ~={DeepSkyBlue}ADHS Event=~ im Mai anmelden
 	- glaube nicht dass ich zum AOK ding möchte
 - [ ] Wasserhahn Küche silkonölen
@@ -195,7 +200,7 @@
 	- [ ] erst was mit den bohnen im Glas 
 - [x] Bei Schulen vorbei schauen
 - [ ] Konto checken
-- [ ] Mischa wegen den Gehaltsabrechnungen Dez + Januar schreiben, sowie Februar. 
+- [x] Mischa wegen den Gehaltsabrechnungen Dez + Januar schreiben, sowie Februar. 
 	- [ ] nochmal Vertrag wegen Kündigungsfrist und allgemein wegen Kündigungsfrist schauen
 	- [ ] Schauen ob ich noch zugriff mit lueck.walter@gmail.com habe
 	- [ ] Dann wegen den Stunden Seit 20.2. Da ich keinen Zugriff mehr auf Toggle hatte.
@@ -230,12 +235,12 @@
 - [ ] Laufen gehen
 - [ ] Freddies Socken an der Spitze vernähen 
 - [ ] Socken einpacken 
-- [ ] Duolingo türkisch screenshots älter als 25-09-30 vom handy löschen
+- [x] Duolingo türkisch screenshots älter als 25-09-30 vom handy löschen
 - [x] VSS Formular ausfüllen
 	- [x] Versicherungszeiten AOK runterladen
 	- [x] Studienbescheinigung
 	- [x] brauche noch die vom nächsten Semester 
-- [ ] Lebenslauf
+- [x] Lebenslauf
 	- [x] Arbeit am Staatstheater Darmstadt hinzufügen
 	- [x] Wann habe ich im MPA gearbeitet
 	- [x] Wann habe ich bei Birkl gearbeitet
@@ -262,7 +267,7 @@
 - [ ] zip tight knoten lernen 
 - [ ] tesaabroller schärfen
 - [x] Ist geld vom november auf dem konto?
-- [ ] Konto checken
+- [x] Konto checken
 	- [x] Gehaltsabrechnung checken und fragen was mit September ist
 	- [x] Gehalt von November ist noch nicht da 25-12-21
 		- 25-12-22 geld da
@@ -282,7 +287,7 @@
 - [x] Klamottenfach aufräumen 
 
 ## Küche
-- [ ] Camembert Tomaten Essen machen 
+- [x] Camembert Tomaten Essen machen 
 - Arbeitsplatte
 	- [x] saugen
 	- [x] wischen 
