@@ -2849,7 +2849,62 @@ https://www.youtube.com/watch?v=gOr9PYTv2P4&t=1908s
 Ich kann das Dilemma sehr nachvollziehen, auch aus eigener Erfahrung in mehrfacher Hinsicht. Daher finde ich unser jetziges System einfach immer noch das BESTE, nach Stand der Wissenschaft, der Trendentwicklung in der Psychologie und Psychiatrie und auch der gesellschaftlichen Entwicklung. Ich weiß aus meinen eigenen Psychiatrieaufenthalten - zum Glück nur kurz - wie schwierig die Gradwanderung zwischen förderlichen und unförderlichen Zwangsentscheidungen/Handlungen ist. Da Böswilligkeit oder dem system etwas negatives und makelbehaftetes unterstellen zu wollen, liegt mir fern. Es arbeiten da halt auch nur Menschen, die auch nur studiert und etwas gelernt haben und auch mit den vielen äußeren Zwängen des Systems und ihren eigenen Limits zu kämpfen haben. Ich weiß dass mir gewisse Zwangsmaßnahmen - Zeit auf der Geschlossenen, auch mit den vielen Einschränkungen drumherum und dem Gefühl jetzt irgendwie als "Täter" behandelt zu werden, dabei war es nur Eigenschutz - sehr gut getan haben und mir das auch durch Demut und durch diese für mich als "strafe" (die keine war) empfundene Maßnahme, schon währenddessen klar wurde. Ich weiß allerdings auch wie unschön es ist Antipsychotika / Neuroleptika zu bekommen, wenn es kontraindiziert ist - war einfach "nur" eine stress und durch schwere depressionen induzierte depersonalisations/derealisations/dissoziations erfahrung. Ich bin ja auf eigenen Wunsch ins Krankenhaus gegangen, - beim ersten mal ganz klar und bewusst und beim zweiten mal war ich in der Rückschau schon in der Notaufnahme im dissoziierten Zustand. Ich habe dort auch Patienten mit Psychose erlebt, die aufgrund von Zwangsmaßnahmen dann eine Zeit "verschwunden" waren, da sie fixiert werden mussten. Ich habe auch sehr junge Leute erlebt, die durch das angesprochene Cannabis psychotisch wurden und bei denen die Zwangsmaßnahmen extrem wichtig waren und geholfen haben. Das Cannabis ist heutzutage ja so stark, dass es überhaupt nicht mehr zu vergleichen ist, mit dem was in den 60igern und 70igern konsumiert wurde und auch nicht mit dem was ich in meinem frühen Erwachsenenalter mal probiert habe. Dann habe ich Straftäter in der eigenen Nachbarschaft - ich war auch Leidtragender - erlebt, bei denen die Zwangsmaßnahmen zu gering ausfielen. Das erlebt man ja auch immer wieder in den Medien durch Fälle die zb. (abgelehnte) Asylbewerber betreffen - Aschaffenburg, Brokstedt, uvm. Und dann gibt es wieder Einzelfälle bei denen Menschen viel zu lange und trotz der Bemühungen der Familien "zu Unrecht" auf Jahre in der Forensik gehalten werden. Ich habe auch Stigmatisierung durch erhaltene Fehldiagnosen - vorläufige Entlassbriefe - erlebt, die auch trotz der Revidierungen in mir lange nachgehallt und auch so nie ganz getilgt werden können. Es ist und bleibt dennoch das beste System was wir haben! Und ich bin dankbar dafür. Es tut sich ja auch etwas. Wir irren uns empor, wie Harald Lesch zu sagen pflegt. Wir Menschen sind nunmal fehlbar, also auch unsere Systeme. Das ist aber auch ok. Das gehört zur Demut dazu. Danke für Ihre Arbeit. - Bitte verzeiht mir meine Rechtschreibfehler, ich achte nicht so gerne auf Groß/Kleinschreibung. Und für korrekte Zeichensetzung bin ich bei YT auch etwas zu faul xD, ich weiß ich trage damit zur Unkultur bei, ich gelobe Besserung -
 
 # Einzel Themen/Ereignisse
-## 26-05-02 Nadines Kleid (Beratung - Gedanken an Strickjacke)
+## 26-05-02 
+### zum screenshot zu Aroojs Nachricht vom 2025-06-24
+⁨📷⁩ ⁨Bin gerade am abschreiben von alten Duolingo screenshots. Hab ich für französisch lange nicht mehr gemacht.
+
+Da hab ich gerade den hier dazwischen gefunden.
+
+so ein bisschen habe ich mich dafür "schuldig gemacht" ihr auf diese Frage und die Frage "ob ich beim PMA dabei bin" nicht zu antworten.
+
+War keine Arroganz oder dass ich absichtlich gemein sein wollte.
+
+ich wusste einfach nicht was ich schreiben soll, ob sie es wirklich wissen will, was ich schreiben darf, was zu viel ist und was ok ist.
+was sie wirklich möchte...
+ich wusste es nicht.
+
+ne zu kurze antwort wäre unehrlich gewesen und etwas um einen schein zu wahren.
+ich wollte auch nicht wieder ungewollt vorwurfsvoll sein...
+ich wollte auch nicht zu viel verletzlichkeit zeigen, keine ahnung was sie daraus gemacht hätte...
+
+wollte auch nicht zu viele Fragen stellen.
+
+ich war zu durcheinander, auch was sie angeht und was in ihr vorgeht.
+ich hatte die Monate davor viel zu viel geschrieben.
+
+sie hätte ja auch mehr schreiben können. 
+
+mir tut es aber auch leid, dass ich so verletzt und durcheinander war und ihr deshalb gar nicht geantwortet habe.
+
+es tut mir so leid, ich war so scheiße. 
+Auch die Monate danach...
+
+ich habe keine Ahnung warum ich im Juli und August so war...
+ich konnte ihr dann auch nicht gescheit auf ihre nachrichten im August antworten.
+
+Und von ihren Nachrichten im September war ich nur noch verwirrt...
+
+ich war auch einfach nur ein kleines Kind was meine Reaktionen angeht.⁩
+
+ich weiß aber auch gar nicht, ob ich wirklich hätte irgendwas besser machen können...
+
+ja ich hätte ruhig, mit einem drüberstehenden Blick, vermittelnd und liebevoll fragend reagieren können.
+
+Aber dann wäre ich glaube ich total dissoziiert, da ich wieder meine verwirrten, aufgewühlten und widerstrebenden Gefühle hätte verdrängen müssen, um rolle mit väterlicher Nachsicht einzunehmen, die Energie hätte ich kurz aufbringen können und dann wäre ich eingebrochen. 
+ist mir zu häufig passiert.
+ich kann nicht immer über allem drüber stehen und verständnisvoll sein.
+zumindest ging es früher nicht lang gut, da ich zu mir nicht so verständnisvoll war.
+
+aber ja doch.
+
+ich bin mir sicher, wenn ich geordneter gewesen wäre und nicht so dämlich verletzt.
+nicht so ein hin und her in mir gewesen wäre.
+klar bewusst über mein ungutes inneres Chaos und das positive, was ich hatte und bin und was ich will.
+
+ja.
+Aber das war ich nicht und weiß gar nicht ob ich das heute bin und je sein werde.
+ich hab immer mal meine wachen momente. oft aber auch nicht.
+### Nadines Kleid (Beratung - Gedanken an Strickjacke)
 hmm jetzt vermisse ich ein ganz kleines bisschen Arooj. 🤷‍♀️
 
 Sie hat es wohl nicht schätzen können, was sie an mir hat.
