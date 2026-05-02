@@ -8,7 +8,7 @@
 - [x] Stundenplan als Foto einscannen und in obsidian
 - [x] okra rot stecken 
 - [x] wischen insbesondere beim Bett
-- [ ] Berglinsen aus Vorratsschrank austragen 
+- [x] Berglinsen aus Vorratsschrank austragen 
 - [ ] Knoblauchrauke suchen und ausgraben 
 - [ ] Bärlauch bei dem Merck Gebäude ausgraben
 - [ ] [Change your life now](https://youtu.be/pFhMzPxbY4E?is=o7W8uMv3Vc7oasP8) Notizen machen
