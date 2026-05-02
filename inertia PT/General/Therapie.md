@@ -2904,6 +2904,24 @@ klar bewusst über mein ungutes inneres Chaos und das positive, was ich hatte un
 ja.
 Aber das war ich nicht und weiß gar nicht ob ich das heute bin und je sein werde.
 ich hab immer mal meine wachen momente. oft aber auch nicht.
+
+----
+
+
+-----
+Und es hätte auch nix gebracht.
+
+Ich war einfach noch nicht so weit. Ich musste und muss da nunmal weiter durch.
+
+Es hätte sich bei mir nicht genug geändert und es wäre wie davor gewesen. 🤷‍♂️ 
+
+Nicht mal wegen ihr, sondern wegen mir.
+
+Ich hab's gebraucht. Und ich brauche es auch. 
+
+Es war richtig von ihr zu gehen.
+
+Für uns beide.
 ### Nadines Kleid (Beratung - Gedanken an Strickjacke)
 hmm jetzt vermisse ich ein ganz kleines bisschen Arooj. 🤷‍♀️
 
