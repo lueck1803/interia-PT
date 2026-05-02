@@ -2906,9 +2906,11 @@ Aber das war ich nicht und weiß gar nicht ob ich das heute bin und je sein werd
 ich hab immer mal meine wachen momente. oft aber auch nicht.
 
 ----
-
+Kurz hab ich gedacht, sie hätte dir gerade jetzt geschrieben 😅
+Unabhängig davon, wie du heute denkst, wie du hättest handeln sollen: Du hast dich damals so gut es dir zu dem Zeitpunkt nach deinem Wissen und Möglichkeiten eben ging gehandelt - und das reicht 🫂
 
 -----
+Ja richtig, danke.
 Und es hätte auch nix gebracht.
 
 Ich war einfach noch nicht so weit. Ich musste und muss da nunmal weiter durch.
