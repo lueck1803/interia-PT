@@ -2877,6 +2877,8 @@ Ich kannte auch da meinen Wert nicht. Und sie hat den auch immer wieder vergesse
 Das verstehe ich bis heute nicht, warum sie die auf einen Schlag so ins Gegenteil verkehren kann.
 
 Das hat mich wirklich nachhaltig zerstört.
+
+Das muss ich mir auch immer wieder vor Augen führen
 ## 26-05-02 
 ### zum screenshot zu Aroojs Nachricht vom 2025-06-24
 ⁨📷⁩ ⁨Bin gerade am abschreiben von alten Duolingo screenshots. Hab ich für französisch lange nicht mehr gemacht.
