@@ -11,9 +11,7 @@
 	- [ ] weiße bohnen 
 	- [ ] kalamata oliven 
 	- [ ] grüne erbsen
-- [x] kleine faltbare Tragetasche dm/Müller/Rossmann 
-- [x] cd deo
-
+- [ ] Unterhosen 
 # non food
 - [ ] kleinen Schneebesen 
 - [ ] Plastik Plättchen zum tür öffnen -> pet Flasche 
