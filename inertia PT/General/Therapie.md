@@ -2864,7 +2864,7 @@ Arooj ging es da ja auch so.
 
 Sie hat mich ja auch total vermisst als sie "alleine" (für sie gefühlt alleine) in Polen war und mich dann so gerne dabei gehabt hätte.
 
-Das war es dann ja so unfair gemacht dass sie mich diesbezüglich pathalogisiert hat.
+Das war es dann ja was es so unfair gemacht dass sie mich diesbezüglich pathalogisiert hat.
 Ne, es ist ganz normal, jemanden zu vermissen 🫂
 Gerade Arooj
 Ich kannte auch da meinen Wert nicht. Und sie hat den auch immer wieder vergessen, sonst hätte sie mich nicht so abgewertet, was meine Bindung zu ihr angeht.
