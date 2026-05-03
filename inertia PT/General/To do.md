@@ -1,6 +1,7 @@
 - ich~={RedRed} will meine Arbeit Publikations fähig machen=~
 # unsortiert
 - [ ] Knoblauchrauke suchen und ausgraben 
+- [ ] Gitarre mit tremolo auf Eb stimmen
 - [x] physalis ausgraben 
 - [x] aufjedenfall den Bärlauch ausgraben ~={RedRed} aufpassen wegen der scheiße=~
 - [ ] sync Konflikte löschen 
