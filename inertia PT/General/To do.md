@@ -2,6 +2,7 @@
 # unsortiert
 - [ ] Knoblauchrauke suchen und ausgraben 
 - [ ] Gitarre mit tremolo auf Eb stimmen
+- [ ] graues longsleeve unten flicken 
 - [x] physalis ausgraben 
 - [x] aufjedenfall den Bärlauch ausgraben ~={RedRed} aufpassen wegen der scheiße=~
 - [ ] sync Konflikte löschen 
