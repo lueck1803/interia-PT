@@ -2866,9 +2866,12 @@ Sie hat mich ja auch total vermisst als sie "alleine" (für sie gefühlt alleine
 
 Das war es dann ja was es so unfair gemacht dass sie mich diesbezüglich pathalogisiert hat.
 
+-
 Nadine:
 Ne, es ist ganz normal, jemanden zu vermissen 🫂
 Gerade Arooj
+-
+
 Ich kannte auch da meinen Wert nicht. Und sie hat den auch immer wieder vergessen, sonst hätte sie mich nicht so abgewertet, was meine Bindung zu ihr angeht.
 
 Das verstehe ich bis heute nicht, warum sie die auf einen Schlag so ins Gegenteil verkehren kann.
