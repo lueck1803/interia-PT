@@ -2850,7 +2850,28 @@ Ich kann das Dilemma sehr nachvollziehen, auch aus eigener Erfahrung in mehrfach
 
 # Einzel Themen/Ereignisse
 ## 26-05-03
+Mein Bedürfnis mich bei Arooj zu melden, um alles wieder zu reparieren ist schon immer mal sehr groß.
 
+Ein Zeichen dass ich noch achtsamer bei mir und im hier und jetzt sein muss.
+Mehr Aufmerksamkeit dahin stecken dass ich für mich und durch die Tätigkeiten die ich tue alleine Kraft schöpfe.
+
+Nicht so viel von geteilten Freude abhängig bin.
+Aber eigentlich ist das doch gar kein Problem.
+
+Es ist völlig normal dass geteilte Freude viel schöner ist. 
+
+Arooj ging es da ja auch so.
+
+Sie hat mich ja auch total vermisst als sie "alleine" (für sie gefühlt alleine) in Polen war und mich dann so gerne dabei gehabt hätte.
+
+Das war es dann ja so unfair gemacht dass sie mich diesbezüglich pathalogisiert hat.
+Ne, es ist ganz normal, jemanden zu vermissen 🫂
+Gerade Arooj
+Ich kannte auch da meinen Wert nicht. Und sie hat den auch immer wieder vergessen, sonst hätte sie mich nicht so abgewertet, was meine Bindung zu ihr angeht.
+
+Das verstehe ich bis heute nicht, warum sie die auf einen Schlag so ins Gegenteil verkehren kann.
+
+Das hat mich wirklich nachhaltig zerstört.
 ## 26-05-02 
 ### zum screenshot zu Aroojs Nachricht vom 2025-06-24
 ⁨📷⁩ ⁨Bin gerade am abschreiben von alten Duolingo screenshots. Hab ich für französisch lange nicht mehr gemacht.
