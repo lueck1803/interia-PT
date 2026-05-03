@@ -1,8 +1,8 @@
 - ich~={RedRed} will meine Arbeit Publikations fähig machen=~
 # unsortiert
 - [ ] Knoblauchrauke suchen und ausgraben 
-- [ ] physalis ausgraben 
-- [ ] aufjedenfall den Bärlauch ausgraben ~={RedRed} aufpassen wegen der scheiße=~
+- [x] physalis ausgraben 
+- [x] aufjedenfall den Bärlauch ausgraben ~={RedRed} aufpassen wegen der scheiße=~
 - [ ] sync Konflikte löschen 
 - [ ] [Change your life now](https://youtu.be/pFhMzPxbY4E?is=o7W8uMv3Vc7oasP8) Notizen machen
 - [ ] [fix your adhd morning](https://youtu.be/gsVYI-l_6G8?is=BUHdgIGMxlNq8KT8) was dazu aufschreiben 
