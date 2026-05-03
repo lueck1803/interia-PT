@@ -1,21 +1,10 @@
 - ich~={RedRed} will meine Arbeit Publikations fähig machen=~
 # unsortiert
-- [x] unbedingt konto und briefkasten checken
-- [x] Tafel wischen (~={LawnGreen} brauche ich für Tafelbilder=~)
-- [x] jamil nach kopierercode fragen 
-- [x] Dokument von kayro ausfüllen 
-- [x] Stunden Mittwoch 29. Eintragen. Etwas für die ersten zwei Stunden eintragen 
-- [x] Stundenplan als Foto einscannen und in obsidian
-- [x] okra rot stecken 
-- [x] wischen insbesondere beim Bett
-- [x] Berglinsen aus Vorratsschrank austragen 
 - [ ] Knoblauchrauke suchen und ausgraben 
 - [ ] [Change your life now](https://youtu.be/pFhMzPxbY4E?is=o7W8uMv3Vc7oasP8) Notizen machen
 - [ ] [fix your adhd morning](https://youtu.be/gsVYI-l_6G8?is=BUHdgIGMxlNq8KT8) was dazu aufschreiben 
 - [ ] Waffenbrüder solo
 - [ ] in Schule gehen, mir Deutsch und Ethik Buch anschauen ⟹ geht nicht, da die Tür auch unten abgeschlossen ist und zwar mit einem anderen Schlüssel
-- [x] Spülmaschine 
-- [x] okra grün in Töpfen 
 - [ ] Versmaß verstehen (Videos auf yt)
 	- [ ] jambus
 	- [ ] trochäus 
@@ -51,20 +40,13 @@
 		- [ ] Wann ist das ok, wann ist das nicht ok?
 	- [ ] ein film / ausschnitt aus einer diskussion zeigen
 - [ ] Ethik Arbeit anschauen
-- [x] abschreiben was auf dem Zettel steht was ich in Kunst auf geschrieben habe
-- [x] frau kaya wegen den Unterrichtsmaterialien schreiben  - E-Mail bekomme ich von jamil
 - [ ] eventuell Jugendbuch mit 5c in Deutsch 
 - [ ] dem Hausmeister ne Mail wegen Kunstschrank Schlüssel (daniel.mroczek@darmstadt.de)
 - [ ] Lehrplan Realschule lesen
 	- [ ] deutsch 5. Klasse
 	- [ ] ethik 5. Klasse
 	- [ ] Arbeitslehre 9. Klasse
-- [x] Tabea Weingärtner [tabea.weingaertner@outlook.com](mailto:tabea.weingaertner@outlook.com) schreiben nach Infos fragen, wegen 
-	- [x] Ethik
-	- [x] Deutsch
-- [x] Mit Katrin Mair abstimmen wegen 
-	- [x] Kunst 
-	- [x] Arbeitslehre
+
 - [ ] Fensterbänke wischen 
 - [ ] socken flicken 
 	- [ ] Ketchup 
@@ -259,17 +241,9 @@
 - [ ] jean-lueck aufräumen
 - [x] konto checken
 	- ich war heute 500€ im minus
-- [ ] yoga
-- [x] Camembert essen kochen
-	- Camembert+Rotrinden Käse verwenden 
-- [x] fragen was mit der Abrechnung vom September ist bzw schauen ob was kam 
+- [ ] yoga 
 - [ ] zip tight knoten lernen 
 - [ ] tesaabroller schärfen
-- [x] Ist geld vom november auf dem konto?
-- [x] Konto checken
-	- [x] Gehaltsabrechnung checken und fragen was mit September ist
-	- [x] Gehalt von November ist noch nicht da 25-12-21
-		- 25-12-22 geld da
 - [ ] Kühlschrank putzen und abtauen
 - [ ] Zeug vor dem Bad wegräumen 
 
@@ -750,6 +724,33 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] <span style="color:coral">paartherapie S3 runterladen</span>
 
 # Alt
+- [x] Camembert essen kochen
+	- Camembert+Rotrinden Käse verwenden 
+- [x] fragen was mit der Abrechnung vom September ist bzw schauen ob was kam
+- [x] Ist geld vom november auf dem konto?
+- [x] Konto checken
+	- [x] Gehaltsabrechnung checken und fragen was mit September ist
+	- [x] Gehalt von November ist noch nicht da 25-12-21
+		- 25-12-22 geld da
+- [x] Tabea Weingärtner [tabea.weingaertner@outlook.com](mailto:tabea.weingaertner@outlook.com) schreiben nach Infos fragen, wegen 
+	- [x] Ethik
+	- [x] Deutsch
+- [x] Mit Katrin Mair abstimmen wegen 
+	- [x] Kunst 
+	- [x] Arbeitslehre
+- [x] abschreiben was auf dem Zettel steht was ich in Kunst auf geschrieben habe
+- [x] frau kaya wegen den Unterrichtsmaterialien schreiben  - E-Mail bekomme ich von jamil
+- [x] Spülmaschine 
+- [x] okra grün in Töpfen 
+- [x] unbedingt konto und briefkasten checken
+- [x] Tafel wischen (~={LawnGreen} brauche ich für Tafelbilder=~)
+- [x] jamil nach kopierercode fragen 
+- [x] Dokument von kayro ausfüllen 
+- [x] Stunden Mittwoch 29. Eintragen. Etwas für die ersten zwei Stunden eintragen 
+- [x] Stundenplan als Foto einscannen und in obsidian
+- [x] okra rot stecken 
+- [x] wischen insbesondere beim Bett
+- [x] Berglinsen aus Vorratsschrank austragen 
 - [x] restliche Paprika ernten 
 	- bis jetzt hängen noch ein paar draußen. 
 	- bin gespannt wie sie die Kälte vertragen 
