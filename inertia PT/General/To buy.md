@@ -57,6 +57,7 @@
 - [ ] Schlagbohrmaschine 
 	- [x] vielleicht tut es der Schlagakkuschrauber vom Aldi
 	- ⟹ momentan nicht kaufen, unnötig
+	- Sobald ich das erste richtige Geld von der Schule bekomme.
 
 # Haushalt
 - [ ] Mikrowellen geeignete Schüssel 
