@@ -113,6 +113,7 @@ Ich übernehme:
 - Anwesenheit
 - Märchen habt ihr gemacht und auch dazu eins selbst geschrieben. 
 	- Ich Möchte mal einige hören, wer es mir vorträgt, bekommt ein bonus eingetragen 
+- Blätter zeigen lassen, die zuletzt in Deutsch gemacht wurden
 - paul D:
 	- Seite 93 Aufgabe 1
 	- Seite 95 Aufgabe 2

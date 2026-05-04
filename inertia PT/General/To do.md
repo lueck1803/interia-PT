@@ -4,8 +4,8 @@
 - [ ] Stundenplan in den Kalender eintragen 
 - [ ] habe ich einen eigenen Lernplan im Schulportal?
 - [ ] mir nen planer für die Notengebung anlegen
-- [ ] Material von Mero einscannen
-- [ ] Material von Tabea 
+- [x] Material von Mero einscannen
+- [x] Material von Tabea 
 - [ ] Knoblauchrauke suchen und ausgraben 
 - [ ] Gitarre mit tremolo auf Eb stimmen
 - [ ] graues longsleeve unten flicken 
