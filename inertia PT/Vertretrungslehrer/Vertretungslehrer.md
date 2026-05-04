@@ -44,6 +44,8 @@ Ich übernehme:
 - [ ] wie funktioniert das mit der Strichliste?
 
 ## Orga:
+- [ ] Mein Unterricht bei ***nicht*** Vertretungsunterricht:
+	- [ ] 4. Mai, Klasse 5c Deutsch. Konnte meinen Unterricht nicht eintragen, da keine Lerngruppe eingetragen ist.
 - [ ] Wie muss die Dokumentation für die Klassen/ den Unterricht geführt werden?
 	- [ ] Noten - wie setzen die sich genau zusammen? Was darf ich?
 	- [ ] Kopfnoten
@@ -223,6 +225,11 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
 - Immer alles vorher ausprobieren
 ## Garten AG
 - Teich anlegen?
+
+## Klassenkonferenz
+### 26-05-04 (14:30 - 16:30)
+- ab nächstem Schuljahr nur noch über die Schul-ID möglich die Noten direkt eintragen ohne Umweg des ENC 
+- 
 
 # Motivation
 ## allgemein
