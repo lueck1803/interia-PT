@@ -28,6 +28,10 @@ Ich übernehme:
 	- Abstimmung mit Tabea Weingärtner 
 	- dieses Halbjahr bisher **Moral** als Thema, haben da auch mit dem **Buch** etwas gearbeitet, bzw. die SuS haben sich zu zweit ein Buch geteilt. Und letzte Stunde hatte ich die **Arbeit zurückgegeben**
 # To-Do 
+- [ ] Deutsch:
+	- [ ] haben wir einen L Schüler in der 5c?
+	- [ ] wie sieht es mit den Bewertungen der Rechtschreibung aus? 
+	- [ ] Was hat sich da entwickelt?
 - Unterrichtsmaterialien 5 und 6 Klasse Englisch 
 - und deutsch suchen 
 - lernen schneller und kleiner an der Tafel zu schreiben
