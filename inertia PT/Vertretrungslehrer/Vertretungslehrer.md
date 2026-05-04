@@ -87,7 +87,9 @@ Ich übernehme:
 - Und dann hatten wir jetzt ein bisschen Wortarten wiederholt: Nomen, Verben konjugieren im Präsenz, Präteritum und Futur, aber das noch nicht intensiv.
 	- [ ] dazu Übungsblätter suchen 
 	- [ ] bzw. unterricht überlegen
-### 26-05-04
+
+### Timeline
+#### 26-05-04
 - Begrüßung
 - Anwesenheit
 - Märchen habt ihr gemacht und auch dazu eins selbst geschrieben. 
@@ -96,10 +98,20 @@ Ich übernehme:
 	- Seite 93 Aufgabe 1
 	- Seite 95 Aufgabe 2
 	- Seite 96 Alle Aufgaben
-	- Seite 97
+	- Seite 97 Aufgabe 7
+
+#### Bisher
+- Märchen:
+	- es wurde eins selbst geschrieben in der Gruppe
+	- ~={red}Klassenarbeit=~
+- ein bisschen Wortarten wiederholt: Nomen, Verben konjugieren im Präsenz, Präteritum und Futur, aber das noch nicht intensiv.
 ### Material
 - P.A.U.L. D., ist das Deutsch Buch, dazu gibt es viel Material
 ### Glossar
+#### Jambus
+#### Trochäus
+
+#### Reimschema
 #### Stabreim 
 Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benachbarte, betonte Wörter mit demselben Anlaut (Konsonant oder Vokal) beginnen. Er war die metrische Basis der alten germanischen Dichtung und verbindet Klang mit Bedeutung. Heute dient er oft als einprägsames Stilmittel in Slogans oder festen Wendungen (z.B. „Milch macht müde Männer munter“).
 ## Ethik
