@@ -38,10 +38,11 @@ Ich übernehme:
 
 ## Allgemein Fragen zum Unterricht:
 - [ ] Anwesenheit immer im Schulportal eintragen?
+	- [ ] geht momewohl nicht, wenn 
 - [ ] Wie organisiert ihr die Noten: Anita fragen, die mich in Deutsch unterstützt
 - [ ] Wo werden die Noten eingetragen?
 - [ ] was sind Maßnahmen?
-- [ ] wie funktioniert das mit der Strichliste?
+- [ ] wie funktioniert das mit der Strichliste? rote, orange und gelbe karte
 
 ## Orga:
 - [ ] Mein Unterricht bei ***nicht*** Vertretungsunterricht:
@@ -234,6 +235,8 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
 - ab nächstem Schuljahr nur noch über die Schul-ID möglich die Noten direkt eintragen ohne Umweg des ENC 
 - insbesondere im schüler/eltern kontakt
 - Nutzung der email ist verpflichtend
+### Organisation des Nachschreibens von Klassenarbeiten
+- 
 
 # Motivation
 ## allgemein
