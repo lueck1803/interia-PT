@@ -261,7 +261,10 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
 #### Verschiedenes
 - 11. Juni Weinsalon, 17 Uhr Centralstation
 - Abschlussgrillen/feier Interesse? ⟹ noch keinen Termin
-- 
+- Schulhofbälle sollen in den Säcken bleiben: 
+	- immer den ganzen Sack mitnehmen
+	- die Bälle nicht an Schüler einzeln herausgeben
+	- die sind dafür gedacht, dass man in den Bürgerpark geht und die als Lehrer mit nimmt.
 # Motivation
 ## allgemein
 - wie geht ihr mit Langeweile um? 
