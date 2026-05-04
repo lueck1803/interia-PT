@@ -230,7 +230,7 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
 - Teich anlegen?
 
 ## Klassenkonferenz
-### 26-05-04 (14:30 - 16:30)
+### 26-05-04 (14:30 - 16:30) Gesamtkonferenz
 #### Dienstliche Email
 - https://digitale-schule.hessen.de/digitale-infrastruktur-und-verwaltung/e-mail-adressen-fuer-schulen
 - Dienstliche Email Adresse einrichten, nötig für die Noteneintragung. Muss eventuell über die Service Hotline laufen

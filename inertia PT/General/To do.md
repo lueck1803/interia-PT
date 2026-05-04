@@ -3,13 +3,14 @@
 - [x] laptop tastatur wischen
 - [ ] Wäsche zusammen legen 
 - [x] schauen ob ich die Aufgaben von heute im neuen Buch finde
-	- [ ] nein
+	- [ ] nein, die Aufgaben sind anders
 - [ ] Stundenplan in den Kalender eintragen 
 - [ ] habe ich einen eigenen Lernplan im Schulportal?
 - [ ] mir nen planer für die Notengebung anlegen
 - [ ] Excel-Tabelle für noten, Anwesenheit, Anmerkungen, mündliche Mitarbeit 
+	- [ ] 
 - [ ] googlen wie man die klassen Führung organisiert 
-- [ ] Zeug von Mero und Tabea wieder in deren Fach legen
+- [x] Zeug von Mero und Tabea wieder in deren Fach legen
 - [x] Material von Mero einscannen
 - [x] Material von Tabea 
 - [ ] Knoblauchrauke suchen und ausgraben 
