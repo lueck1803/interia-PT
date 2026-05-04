@@ -72,7 +72,6 @@
 - [ ] Pflänzchen umsetzen 
 - [ ] papa nachdem selfie stick fragen, den ihm arooj geschenkt hat
 - [ ] Versuch dich mal an einer ~={LawnGreen}ganzen Aufnahme von so 70%=~. Lass Solo2 dann erstmal weg (spiel zu dem Punkt Rhythm oder so).
-- [x] Kleiderschrank reparieren
 - [ ] simulationen auf CPU02 checken, wenn fertig auf /data kopieren
 - [ ] 13.-21.6.2026 woche der bot. Gärten
 - [x] im Sekretariat bot. Garten 
@@ -90,7 +89,6 @@
 - [ ] Wäsche zusammen legen 
 - [ ] und Papierkram
 - [ ] Toilettendeckel tauschen 
-
 - [ ] Wasserhahn Küche silkonölen
 - [ ] simon nach seinen Folien fragen 
 - [ ] Vorderrad Bremse checken/einstellen/tauschen 
@@ -123,7 +121,6 @@
 	- [ ] ich hab mich dann nur noch fertig gemacht bzgl. meiner Entscheidungen
 	- [ ] ich wurde aber auch nicht ernst genommen
 	- [ ] Es wurde sich dann halt schon ziemlich lächerlich darüber gemacht, als es zum beispiel auch um das fahrrad ging. Arooj hat mich dann schon ernst genommen. aber war auch irgendwie herblassend zu mir
-
 - [x] Tisch absenken 
 - [ ] in vodafone konto einloggen
  
@@ -137,22 +134,13 @@
 	- [ ] lukasludwigwalter
 - [ ] ksk app contactless pay notification anstellen 
 - [ ] nochmal über thunderbolt karte nachdenken
-- [x] maus reparieren
-	- Offenbar reicht es, wenn man ~={red}rein pustet=~ und damit die elektrischen Ladungen durch die Luftfeuchtigkeit reduziert
-- [x] Termin mit seib glaszis ausmachen 
 - [ ] Gyros+pita aus Gefriertruhe essen
-- [x] was mit Gemüse und Tofu kochen
-	- [ ] erst was mit den bohnen im Glas 
-- [x] Bei Schulen vorbei schauen
 - [ ] Konto checken
 - [x] Mischa wegen den Gehaltsabrechnungen Dez + Januar schreiben, sowie Februar. 
 	- [ ] nochmal Vertrag wegen Kündigungsfrist und allgemein wegen Kündigungsfrist schauen
 	- [ ] Schauen ob ich noch zugriff mit lueck.walter@gmail.com habe
 	- [ ] Dann wegen den Stunden Seit 20.2. Da ich keinen Zugriff mehr auf Toggle hatte.
 - [ ] nadines socken weiter
-- [x] dpag Laptop aufräumen 
-	- [ ] Zeug aus Obsidian raus machen was von mir ist
-	- [x] Laptop zurück gebracht 
 - [ ] mir überlegen was ich anders mache. Lehrer werde ich nicht
 	- [ ] sind zu viele Namen 
 	- [ ] zu viele Persönlichkeiten
@@ -168,9 +156,6 @@
 	- [ ] ~={red}wie bringe ich Physik mit einfachen Mitteln bei=~
 	- [ ] ~={Tomato}wie bringe ich Ordnung in mein Tafelbild=~
 	- [ ] ~={Crimson}Ordnung in meine Gedanken und Worte bringen, weniger ist mehr=~ 
-- [x] ~={Tomato}Antwort von ksk?=~
-	- [x] habe bei Sparkasse angerufen. Kann ich selbst machen 
-	- [x] ~={red}war ja schon zurück gebucht... Am 17.3=~
 - [ ] Notizen zu "deine ~={ForestGreen}Gedanken=~ lügen" ab 2:05:47
 - [ ] Teil bzgl weg zur Kästchen methode und von dort zu meiner methode fertig schreiben. Nochmal in report schauen was ich da schon geschrieben habe
 - [ ] floyd rose stimmtutorial
@@ -180,12 +165,8 @@
 - [ ] Laufen gehen
 - [ ] Freddies Socken an der Spitze vernähen 
 - [ ] Socken einpacken 
-
-
 - [ ] dpg kündigen
 - [ ] jean-lueck aufräumen
-- [x] konto checken
-	- ich war heute 500€ im minus
 - [ ] yoga 
 - [ ] zip tight knoten lernen 
 - [ ] tesaabroller schärfen
@@ -672,6 +653,26 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] <span style="color:coral">paartherapie S3 runterladen</span>
 
 # Alt
+- [x] Kleiderschrank reparieren
+- [x] maus reparieren
+	- Offenbar reicht es, wenn man ~={red}rein pustet=~ und damit die elektrischen Ladungen durch die Luftfeuchtigkeit reduziert
+- [x] Termin mit seib glaszis ausmachen 
+- [x] was mit Gemüse und Tofu kochen
+	- [ ] erst was mit den bohnen im Glas 
+- [x] Bei Schulen vorbei schauen
+- [x] dpag Laptop aufräumen 
+	- [ ] Zeug aus Obsidian raus machen was von mir ist
+	- [x] Laptop zurück gebracht 
+- [x] ~={Tomato}Antwort von ksk?=~
+	- [x] habe bei Sparkasse angerufen. Kann ich selbst machen 
+	- [x] ~={red}war ja schon zurück gebucht... Am 17.3=~
+- [x] konto checken
+	- ich war heute 500€ im minus
+- [x] pflanzen aus der Sonne stellen und eventuell Pflanzen ein packen mit zu den Eltern 
+- [x] jamil mein bsc Zeugnis + cv schicken 
+	- [x] kann sein dass er auch das Zeugnis braucht ⟹ einscannen
+- [x] alten Rosmarin klein schneiden 
+- [x] Biomüll runter
 - [x] Lattenrost einstellen 
 	- [x] Kameraaufnahme von unten, während ich drauf liege, um zusehen, was sich wie bewegt.
 		- ⟹ sieht ganz gut aus
