@@ -254,6 +254,12 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
 	- man kann es für die Eltern einsehbar machen
 - bisher keinen eignen Eltern Account, da zu viel admin aufwand, so lange keine Inhalte eingetragen werden, die schülersensibel sind
 - Klausurenplaner eventuell mit in Verbindlichkeit
+
+#### Schulkiosk
+- in der zweiten Pause geschlossen, da zu wenig Umsätze
+
+#### Verschiedenes
+- 
 # Motivation
 ## allgemein
 - wie geht ihr mit Langeweile um? 
