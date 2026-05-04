@@ -4,6 +4,7 @@
 - [ ] Stundenplan in den Kalender eintragen 
 - [ ] habe ich einen eigenen Lernplan im Schulportal?
 - [ ] mir nen planer für die Notengebung anlegen
+- [ ] Zeug von Mero und Tabea wieder in deren Fach legen
 - [x] Material von Mero einscannen
 - [x] Material von Tabea 
 - [ ] Knoblauchrauke suchen und ausgraben 
