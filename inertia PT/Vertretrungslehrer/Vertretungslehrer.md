@@ -28,21 +28,28 @@ Ich übernehme:
 	- Abstimmung mit Tabea Weingärtner 
 	- dieses Halbjahr bisher **Moral** als Thema, haben da auch mit dem **Buch** etwas gearbeitet, bzw. die SuS haben sich zu zweit ein Buch geteilt. Und letzte Stunde hatte ich die **Arbeit zurückgegeben**
 # To-Do 
-- [ ] Deutsch:
-	- [ ] haben wir einen L Schüler (Förderschwerpunkt Lernen) in der 5c?
-	- [ ] wie sieht es mit den Bewertungen der Rechtschreibung aus? 
-	- [ ] Was hat sich da entwickelt?
-	- [ ] ~={DeepSkyBlue}Klassenarbeit=~ Deutsch zu ~={MediumTurquoise}Zeitformen von Verben=~
-- [ ] Anwesenheit immer im Schulportal eintragen?
-- [ ] Wo werden die Noten eingetragen?
+## Deutsch:
+- [ ] haben wir einen L Schüler (Förderschwerpunkt Lernen) in der 5c?
+- [ ] wie sieht es mit den Bewertungen der Rechtschreibung aus? 
+- [ ] Was hat sich da entwickelt?
+- [ ] ~={DeepSkyBlue}Klassenarbeit=~ Deutsch zu ~={MediumTurquoise}Zeitformen von Verben=~
+
 - [ ] Wo ist das Bücherregal für Ethik?
 - [ ] Browser profil für Schule anlegen
+## Allgemein Fragen zum Unterricht:
+- [ ] Anwesenheit immer im Schulportal eintragen?
+- [ ] Wie organisiert ihr die Noten: Anita fragen, die mich in Deutsch unterstützt
+- [ ] Wo werden die Noten eingetragen?
+
+- Orga:
+	- [x] Hausmeister Schlüssel für Kunstschrank 
+	- [x] Sekretariat Mailingliste eintragen lassen
+	- [x] jamil nach kopierercode fragen 
 - Unterrichtsmaterialien 5 und 6 Klasse Englisch und deutsch suchen 
 	- ⟹gibt nen Bücherschrank, dort sind jede Menge Materialien 
 - lernen schneller und kleiner an der Tafel zu schreiben
 - Schlüssel für Lehrerparkplatz geben lassen da dieser für die Gartenag passt 
 	- [ ] hab im Sekretariat nachgefragt, gab keinen mehr, muss auf Hausmeister warten
-- [x] Hausmeister Schlüssel für Kunstschrank 
 - ~={Crimson}Schulsozialarbeit=~ fragen ob ich mal bei deren Aktivitäten teilhaben kann
 - Quereinstieg:
 	- Lehrkräfte Akademie
@@ -51,8 +58,7 @@ Ich übernehme:
 	- [ ] Kletterschein
 	- [ ] Sportschein
 	- [ ] Trampolinschein
-- [x] Sekretariat Mailingliste eintragen lassen
-- [x] jamil nach kopierercode fragen 
+
 
 # Bernhard Adelung Schule (BAS)
 **Code für den iPad Koffer** 

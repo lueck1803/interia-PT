@@ -2,6 +2,7 @@
 # unsortiert
 - [ ] laptop tastatur wischen
 - [ ] habe ich einen eigenen Lernplan im Schulportal?
+- [ ] mir nen planer für die Notengebung anlegen
 - [ ] Material von Mero einscannen
 - [ ] Material von Tabea 
 - [ ] Knoblauchrauke suchen und ausgraben 
