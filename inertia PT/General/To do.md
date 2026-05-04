@@ -7,13 +7,15 @@
 - [ ] jamil ne mail oder whatsapp
 	- [ ] schul-ID / dienstmail ?
 	- [ ] mein Unterricht heute
+- [ ] Deutsch Schulbuch Material anschauen
 - [ ] Wäsche zusammen legen 
 - [ ] kartoffeln zu bereiten
 - [ ] konto heute checken
 - [ ] mir ein aktuelles deutsch schulbuch besorgen
 - [x] schauen ob ich die Aufgaben von heute im neuen Buch finde
 	- [ ] nein, die Aufgaben sind anders
-- [ ] Stundenplan in den Kalender eintragen 
+- [ ] Stundenplan in den Kalender eintragen
+	- [ ] kann man den exportieren?
 - [ ] habe ich einen eigenen Lernplan im Schulportal?
 - [ ] mir nen planer für die Notengebung anlegen
 - [ ] Excel-Tabelle für noten, Anwesenheit, Anmerkungen, mündliche Mitarbeit 
@@ -61,7 +63,9 @@
 		- [ ] Wann ist das ok, wann ist das nicht ok?
 	- [ ] ein film / ausschnitt aus einer diskussion zeigen
 - [ ] Ethik Arbeit anschauen
-- [ ] eventuell Jugendbuch mit 5c in Deutsch 
+- [x] eventuell Jugendbuch mit 5c in Deutsch 
+	- [ ] ⟹ ist verworfen, da wir nicht so viel Zeit haben, wir machen Grammatik
+	- [ ] "Herr der Diebe" hat 400 Seiten, ist zu lang
 - [x] dem Hausmeister ne Mail wegen Kunstschrank Schlüssel (daniel.mroczek@darmstadt.de)
 	- [ ] noch ne Mail wegen parkplatzschlüssel, da es im Sekretariat keinen mehr zu geben scheint
 - [ ] Lehrplan Realschule lesen
