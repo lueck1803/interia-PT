@@ -28,23 +28,12 @@ Ich übernehme:
 	- Abstimmung mit Tabea Weingärtner 
 	- dieses Halbjahr bisher **Moral** als Thema, haben da auch mit dem **Buch** etwas gearbeitet, bzw. die SuS haben sich zu zweit ein Buch geteilt. Und letzte Stunde hatte ich die **Arbeit zurückgegeben**
 # To-Do 
-## Deutsch:
-- [ ] haben wir einen L Schüler (Förderschwerpunkt Lernen) in der 5c?
-- [ ] wie sieht es mit den Bewertungen der Rechtschreibung aus? 
-- [ ] Was hat sich da entwickelt?
-- [ ] ~={DeepSkyBlue}Klassenarbeit=~ Deutsch zu ~={MediumTurquoise}Zeitformen von Verben=~
-- [ ] buch durch arbeiten
-
-
-## Allgemein Fragen zum Unterricht:
-- [ ] Anwesenheit immer im Schulportal eintragen?
-	- [ ] geht momentan wohl nicht, wenn es mein Unterricht ist, vielleicht weil ich wohl noch nicht umgestellt bin von VSS auf TVH
-- [ ] Wie organisiert ihr die Noten: Anita fragen, die mich in Deutsch unterstützt
-- [ ] Wo werden die Noten eingetragen?
-- [ ] was sind Maßnahmen?
-- [ ] wie funktioniert das mit der Strichliste? rote, orange und gelbe karte
 
 ## Orga:
+- [ ] Anwesenheit immer im Schulportal eintragen?
+	- [ ] geht momentan wohl nicht, wenn es mein Unterricht ist, vielleicht weil ich wohl noch nicht umgestellt bin von VSS auf TVH
+- [ ] Schul-ID und Dienst-Email einrichten
+	- [ ] Sie haben ihr persönliches Einrichtungsschreiben* vorliegen
 - [ ] Mein Unterricht bei ***nicht*** Vertretungsunterricht:
 	- [ ] 4. Mai, Klasse 5c Deutsch. Konnte meinen Unterricht nicht eintragen, da keine Lerngruppe eingetragen ist.
 - [ ] Wie muss die Dokumentation für die Klassen/ den Unterricht geführt werden?
@@ -57,6 +46,19 @@ Ich übernehme:
 - [ ] Browser profil für Schule anlegen
 - Schlüssel für Lehrerparkplatz geben lassen da dieser für die Gartenag passt 
 	- [ ] hab im Sekretariat nachgefragt, gab keinen mehr, muss auf Hausmeister warten
+## Deutsch:
+- [ ] haben wir einen L Schüler (Förderschwerpunkt Lernen) in der 5c?
+- [ ] wie sieht es mit den Bewertungen der Rechtschreibung aus? 
+- [ ] Was hat sich da entwickelt?
+- [ ] ~={DeepSkyBlue}Klassenarbeit=~ Deutsch zu ~={MediumTurquoise}Zeitformen von Verben=~
+- [ ] buch durch arbeiten
+
+
+## Allgemein Fragen zum Unterricht:
+- [ ] Wie organisiert ihr die Noten: Anita fragen, die mich in Deutsch unterstützt
+- [ ] Wo werden die Noten eingetragen?
+- [ ] was sind Maßnahmen?
+- [ ] wie funktioniert das mit der Strichliste? rote, orange und gelbe karte
 
 ## Perspektive / Fortbildung
 - Unterrichtsmaterialien 5 und 6 Klasse Englisch und deutsch suchen 
@@ -241,6 +243,7 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
 - am besten im Nachmittagsbereich, damit es weh tut
 - bei 3 mal Nachschreiben notwendig Attest?
 - Frau nemati schreibt generell nachmittags nach: seitdem hat sie kaum bis keine Fehlzeiten mehr zu den Klausuren, die wollen partout nicht nachmittags kommen
+- wird wohl ein Mischung aus festem Team und Springer für die Aufsicht
 
 # Motivation
 ## allgemein
