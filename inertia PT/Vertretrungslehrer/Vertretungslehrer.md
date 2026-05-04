@@ -247,12 +247,13 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
 
 #### Schulportal
 - Es wird wohl alles am Ende des Schuljahrs gelöscht, was in "mein Unterricht" steht, daher alles eh selbst in Excel eintragen
+	- 
 - es soll Nutzungsregeln für: *mein Unterricht*, *Vertretungsplan* und *Kalender* geben
 	- Diese Module sollen eventuell Verbindlich genutzt werden
 - Notenkommunikation mit den Eltern über das Schulportal.
 	- man kann es für die Eltern einsehbar machen
 - bisher keinen eignen Eltern Account, da zu viel admin aufwand, so lange keine Inhalte eingetragen werden, die schülersensibel sind
-- Klausure
+- Klausurenplaner eventuell mit in Verbindlichkeit
 # Motivation
 ## allgemein
 - wie geht ihr mit Langeweile um? 

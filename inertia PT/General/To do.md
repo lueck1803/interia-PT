@@ -4,6 +4,9 @@
 - [ ] wenn *mein Unterricht* für die 5c freigeschaltet ist:
 	- [ ] Anwesenheit eintragen: Glordi und Finlay lange abwesend
 	- [ ] Aufgabe aus Buch eintragen, was nicht erledigt als Hausaufgabe
+- [ ] jamil ne mail oder whatsapp
+	- [ ] schul-ID / dienstmail ?
+	- [ ] mein Unterricht heute
 - [ ] Wäsche zusammen legen 
 - [ ] kartoffeln zu bereiten
 - [ ] konto heute checken
@@ -16,9 +19,6 @@
 - [ ] Excel-Tabelle für noten, Anwesenheit, Anmerkungen, mündliche Mitarbeit 
 	- [ ] notenverwaltung mit excel überlegen ob ich mir das kaufe oder ob ich mir das selbst erstelle
 - [ ] googlen wie man die klassen Führung organisiert 
-- [x] Zeug von Mero und Tabea wieder in deren Fach legen
-- [x] Material von Mero einscannen
-- [x] Material von Tabea 
 - [ ] Knoblauchrauke suchen und ausgraben 
 - [ ] Gitarre mit tremolo auf Eb stimmen
 - [ ] graues longsleeve unten flicken 
@@ -63,6 +63,7 @@
 - [ ] Ethik Arbeit anschauen
 - [ ] eventuell Jugendbuch mit 5c in Deutsch 
 - [x] dem Hausmeister ne Mail wegen Kunstschrank Schlüssel (daniel.mroczek@darmstadt.de)
+	- [ ] noch ne Mail wegen parkplatzschlüssel, da es im Sekretariat keinen mehr zu geben scheint
 - [ ] Lehrplan Realschule lesen
 	- [ ] deutsch 5. Klasse
 	- [ ] ethik 5. Klasse
@@ -672,6 +673,9 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] <span style="color:coral">paartherapie S3 runterladen</span>
 
 # Alt
+- [x] Zeug von Mero und Tabea wieder in deren Fach legen
+- [x] Material von Mero einscannen
+- [x] Material von Tabea 
 - [x] Kleiderschrank reparieren
 - [x] maus reparieren
 	- Offenbar reicht es, wenn man ~={red}rein pustet=~ und damit die elektrischen Ladungen durch die Luftfeuchtigkeit reduziert
