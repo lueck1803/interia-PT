@@ -4,6 +4,7 @@
 - [ ] Wäsche zusammen legen 
 - [ ] kartoffeln zu bereiten
 - [ ] konto heute checken
+- [ ] mir ein aktuelles deutsch schulbuch besorgen
 - [x] schauen ob ich die Aufgaben von heute im neuen Buch finde
 	- [ ] nein, die Aufgaben sind anders
 - [ ] Stundenplan in den Kalender eintragen 

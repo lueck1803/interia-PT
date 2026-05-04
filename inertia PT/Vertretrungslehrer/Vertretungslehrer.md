@@ -245,6 +245,10 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
 - Frau nemati schreibt generell nachmittags nach: seitdem hat sie kaum bis keine Fehlzeiten mehr zu den Klausuren, die wollen partout nicht nachmittags kommen
 - wird wohl ein Mischung aus festem Team und Springer für die Aufsicht
 
+#### Schulportal
+- Es wird wohl alles am Ende des Schuljahrs gelöscht, was in "mein Unterricht" steht, daher alles eh selbst in Excel eintragen
+- es soll Nutzungsregeln für: *mein Unterricht*, *Vertretungsplan* und *Kalender* geben
+	- Diese Module sollen eventuell Verbindlich genutzt werden
 # Motivation
 ## allgemein
 - wie geht ihr mit Langeweile um? 
