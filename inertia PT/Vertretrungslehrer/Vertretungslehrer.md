@@ -87,7 +87,10 @@ Ich übernehme:
 - Und dann hatten wir jetzt ein bisschen Wortarten wiederholt: Nomen, Verben konjugieren im Präsenz, Präteritum und Futur, aber das noch nicht intensiv.
 	- [ ] dazu Übungsblätter suchen 
 	- [ ] bzw. unterricht überlegen
+### 26-05-04
+- 
 ### Material
+- P.A.U.L. D., ist das Deutsch Buch, dazu gibt es viel Material
 ### Glossar
 #### Stabreim 
 Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benachbarte, betonte Wörter mit demselben Anlaut (Konsonant oder Vokal) beginnen. Er war die metrische Basis der alten germanischen Dichtung und verbindet Klang mit Bedeutung. Heute dient er oft als einprägsames Stilmittel in Slogans oder festen Wendungen (z.B. „Milch macht müde Männer munter“).
