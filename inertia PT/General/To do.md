@@ -2,7 +2,8 @@
 # unsortiert
 - [x] laptop tastatur wischen
 - [ ] Wäsche zusammen legen 
-- [ ] schauen ob ich die Aufgaben von heute im neuen Buch finde
+- [x] schauen ob ich die Aufgaben von heute im neuen Buch finde
+	- [ ] nein
 - [ ] Stundenplan in den Kalender eintragen 
 - [ ] habe ich einen eigenen Lernplan im Schulportal?
 - [ ] mir nen planer für die Notengebung anlegen
