@@ -1,6 +1,6 @@
 - ich~={RedRed} will meine Arbeit Publikations fähig machen=~
 # unsortiert
-- [x] laptop tastatur wischen
+- [ ] spülmaschine anstellen
 - [ ] wenn *mein Unterricht* für die 5c freigeschaltet ist:
 	- [ ] Anwesenheit eintragen: Glordi und Finlay lange abwesend
 	- [ ] Aufgabe aus Buch eintragen, was nicht erledigt als Hausaufgabe
@@ -8,6 +8,7 @@
 	- [ ] schul-ID / dienstmail ?
 	- [ ] mein Unterricht heute
 - [ ] Deutsch Schulbuch Material anschauen
+- [ ] Mich nach Unternehmen umschauen, was ich nach dem Master mache?
 - [ ] Wäsche zusammen legen 
 - [ ] kartoffeln zu bereiten
 - [ ] konto heute checken

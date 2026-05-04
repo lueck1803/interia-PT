@@ -259,6 +259,8 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
 - in der zweiten Pause geschlossen, da zu wenig Umsätze
 
 #### Verschiedenes
+- 11. Juni Weinsalon, 17 Uhr Centralstation
+- Abschlussgrillen/feier Interesse? ⟹ noch keinen Termin
 - 
 # Motivation
 ## allgemein
