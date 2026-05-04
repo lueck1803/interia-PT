@@ -228,8 +228,12 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
 
 ## Klassenkonferenz
 ### 26-05-04 (14:30 - 16:30)
+#### Dienstliche Email
+- https://digitale-schule.hessen.de/digitale-infrastruktur-und-verwaltung/e-mail-adressen-fuer-schulen
+- Dienstliche Email Adresse einrichten, nötig für die Noteneintragung. Muss eventuell über die Service Hotline laufen
 - ab nächstem Schuljahr nur noch über die Schul-ID möglich die Noten direkt eintragen ohne Umweg des ENC 
-- 
+- insbesondere im schüler/eltern kontakt
+- Nutzung der email ist verpflichtend
 
 # Motivation
 ## allgemein
