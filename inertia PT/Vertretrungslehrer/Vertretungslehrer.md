@@ -89,7 +89,14 @@ Ich übernehme:
 	- [ ] bzw. unterricht überlegen
 ### 26-05-04
 - Begrüßung
-- Märchen 
+- Anwesenheit
+- Märchen habt ihr gemacht und auch dazu eins selbst geschrieben. 
+	- Ich Möchte mal einige hören, wer es mir vorträgt, bekommt ein bonus eingetragen 
+- paul D:
+	- Seite 93 Aufgabe 1
+	- Seite 95 Aufgabe 2
+	- Seite 96 Alle Aufgaben
+	- Seite 97
 ### Material
 - P.A.U.L. D., ist das Deutsch Buch, dazu gibt es viel Material
 ### Glossar
