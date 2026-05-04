@@ -237,7 +237,7 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
 - ab nächstem Schuljahr nur noch über die Schul-ID möglich die Noten direkt eintragen ohne Umweg des ENC 
 - insbesondere im schüler/eltern kontakt
 - Nutzung der email ist verpflichtend
-### Organisation des Nachschreibens von Klassenarbeiten
+#### Organisation des Nachschreibens von Klassenarbeiten
 - wöchentlicher Termin für das Nachschreiben von Klausuren 
 - gesammelt mit Betreuung von Lehrkräften die dafür eingetragen sind
 - am besten im Nachmittagsbereich, damit es weh tut
