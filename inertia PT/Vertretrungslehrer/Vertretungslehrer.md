@@ -38,7 +38,7 @@ Ich übernehme:
 
 ## Allgemein Fragen zum Unterricht:
 - [ ] Anwesenheit immer im Schulportal eintragen?
-	- [ ] geht momewohl nicht, wenn 
+	- [ ] geht momentan wohl nicht, wenn es mein Unterricht ist, vielleicht weil ich wohl noch nicht umgestellt bin von VSS auf TVH
 - [ ] Wie organisiert ihr die Noten: Anita fragen, die mich in Deutsch unterstützt
 - [ ] Wo werden die Noten eingetragen?
 - [ ] was sind Maßnahmen?
@@ -236,7 +236,10 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
 - insbesondere im schüler/eltern kontakt
 - Nutzung der email ist verpflichtend
 ### Organisation des Nachschreibens von Klassenarbeiten
-- 
+- wöchentlicher Termin für das Nachschreiben von Klausuren 
+- gesammelt mit Betreuung von Lehrkräften die dafür eingetragen sind
+- am besten im Nachmittagsbereich, damit es weh tut
+- bei 3 mal nachschreiben 
 
 # Motivation
 ## allgemein
