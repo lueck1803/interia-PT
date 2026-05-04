@@ -68,14 +68,12 @@
 - [ ] ich hab auch noch kein Geld vom Schulamt bekommen 
 
 - [ ] Waschbecken Küche 
-- [ ] alte to do zu alt sortieren 
+- [x] alte to do zu alt sortieren 
 - [ ] Bürostuhl dampfen
 - [ ] sofa dampfen 
 - [ ] um die Kiwis kümmern 
 - [ ] Pflänzchen umsetzen 
-- [ ] Forest and gardening vlog 
-- [ ] Forest pond
-- [ ] welche kameras hat der robinga?
+
 
 - [ ] papa nachdem selfie stick fragen, den ihm arooj geschenkt hat
 - [ ] Versuch dich mal an einer ~={LawnGreen}ganzen Aufnahme von so 70%=~. Lass Solo2 dann erstmal weg (spiel zu dem Punkt Rhythm oder so).
@@ -102,12 +100,7 @@
 - [ ] Wäsche zusammen legen 
 - [ ] und Papierkram
 - [ ] Toilettendeckel tauschen 
-- [x] bei Kinder Betreuung bewerben 
-	- ⟹muss ich nicht mehr, ok vielleicht wäre das für die Sommerferien gut
-- [x] Email an Schulen gingen raus?
-	- ⟹muss ich nicht mehr, 
-- [x] ~={DeepSkyBlue}ADHS Event=~ im Mai anmelden
-	- glaube nicht dass ich zum AOK ding möchte
+
 - [ ] Wasserhahn Küche silkonölen
 - [ ] simon nach seinen Folien fragen 
 - [ ] Vorderrad Bremse checken/einstellen/tauschen 
@@ -140,24 +133,10 @@
 	- [ ] ich hab mich dann nur noch fertig gemacht bzgl. meiner Entscheidungen
 	- [ ] ich wurde aber auch nicht ernst genommen
 	- [ ] Es wurde sich dann halt schon ziemlich lächerlich darüber gemacht, als es zum beispiel auch um das fahrrad ging. Arooj hat mich dann schon ernst genommen. aber war auch irgendwie herblassend zu mir
-- [x] bei den Faulbäumen vorbei gehen 
-	- ⟹glaube die stehen am Weg hinter der Eissporthalle 
-	- ⟹gibts keine Faulbäume ~={Crimson}⟹=~ das ist ein ~={Teal}gewöhnlicher Spindelstrauch=~
-- [x] Erbsen kochen
-	- ⟹keine grünen Erbsen mehr da 
-	- ⤷ koche die letzten grünen Erbsen zusammen mit Kichererbsen
-- [x] Email an Christian Morgenstern Schule schreiben 
-	- war dort mir wurde gesagt ich soll eine Email schreiben
-	- den Namen der Frau habe ich wieder vergessen mit der ich gesprochen habe
-- [x] Email an ernst niebergall Schule
-	- heute pädagogischer Tag
-	- Frau mai auch eine Mail schreiben 
+
 - [x] Tisch absenken 
 - [ ] in vodafone konto einloggen
-- [x] Lattenrost einstellen 
-	- [x] Kameraaufnahme von unten, während ich drauf liege, um zusehen, was sich wie bewegt.
-		- ⟹ sieht ganz gut aus
-	- [x] ist jetzt besser, ohne Kamera. Hab die Halter größtenteils an die äußere Position gemacht 
+ 
 - [ ] Steckdosenleiste unter dem Bett umsetzen 
 - [ ] einkaufschip clip mit metallkleber kleben
 - [ ] ~={Magenta}hessenbox=~ vom laptop entfernen
@@ -211,27 +190,8 @@
 - [ ] Laufen gehen
 - [ ] Freddies Socken an der Spitze vernähen 
 - [ ] Socken einpacken 
-- [x] Duolingo türkisch screenshots älter als 25-09-30 vom handy löschen
-- [x] VSS Formular ausfüllen
-	- [x] Versicherungszeiten AOK runterladen
-	- [x] Studienbescheinigung
-	- [x] brauche noch die vom nächsten Semester 
-- [x] Lebenslauf
-	- [x] Arbeit am Staatstheater Darmstadt hinzufügen
-	- [x] Wann habe ich im MPA gearbeitet
-	- [x] Wann habe ich bei Birkl gearbeitet
-	- [x] Von wann bis wann war ich genau Tutor
-	- [x] wann war ich tutor für mathe für maschbauer 
-	- [x] wann habe ich für mathis gearbeitet (21-23)
-- [x] python auf cluster laufen lassen
-	- ❌ wie mache ich das nochmal. Steht das in meinem Latex glossar
-	- ❌ in meinem blauen notiz Buch 
-	- ✅ oder in element im Chat mit arooj, Lukas Hecht und auf dem cluster
-- [x] nach push und pull request bei kayro fragen
-- [x] ärzte ohne grenzen kündigen
-	- puuh gerade noch rechtzeitig.
-	- [x] wird am 5.3. abgebucht, aber ich erhalte das geld zurück.
-	- [x] <span style="font-size:100%;color:red;">regelmäßig konto checken</span>
+
+
 - [ ] dpg kündigen
 - [ ] jean-lueck aufräumen
 - [x] konto checken
@@ -641,6 +601,9 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] Jack Wolfskin Schuhe Schnürsenkel reparieren
 - [x] graue hose Knopf reparieren 
 # Pflanzen 
+- [ ] Forest and gardening vlog 
+- [ ] Forest pond
+- [ ] welche kameras hat der robinga?
 - [ ] salat aussäen.
 - [ ] aus Wasserbehältern pflanzbehalter für Maronen machen und umsetzen 
 - [x] Bohnenkraut einpflanzen 
@@ -719,10 +682,53 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] <span style="color:coral">paartherapie S3 runterladen</span>
 
 # Alt
+- [x] Lattenrost einstellen 
+	- [x] Kameraaufnahme von unten, während ich drauf liege, um zusehen, was sich wie bewegt.
+		- ⟹ sieht ganz gut aus
+	- [x] ist jetzt besser, ohne Kamera. Hab die Halter größtenteils an die äußere Position gemacht
+- [x] nach push und pull request bei kayro fragen
+- [x] ärzte ohne grenzen kündigen
+	- puuh gerade noch rechtzeitig.
+	- [x] wird am 5.3. abgebucht, aber ich erhalte das geld zurück.
+	- [x] <span style="font-size:100%;color:red;">regelmäßig konto checken</span>
+- [x] Duolingo türkisch screenshots älter als 25-09-30 vom handy löschen
+- [x] VSS Formular ausfüllen
+	- [x] Versicherungszeiten AOK runterladen
+	- [x] Studienbescheinigung
+	- [x] brauche noch die vom nächsten Semester 
+- [x] Lebenslauf
+	- [x] Arbeit am Staatstheater Darmstadt hinzufügen
+	- [x] Wann habe ich im MPA gearbeitet
+	- [x] Wann habe ich bei Birkl gearbeitet
+	- [x] Von wann bis wann war ich genau Tutor
+	- [x] wann war ich tutor für mathe für maschbauer 
+	- [x] wann habe ich für mathis gearbeitet (21-23)
+- [x] python auf cluster laufen lassen
+	- ❌ wie mache ich das nochmal. Steht das in meinem Latex glossar
+	- ❌ in meinem blauen notiz Buch 
+	- ✅ oder in element im Chat mit arooj, Lukas Hecht und auf dem cluster
+- [x] bei den Faulbäumen vorbei gehen 
+	- ⟹glaube die stehen am Weg hinter der Eissporthalle 
+	- ⟹gibts keine Faulbäume ~={Crimson}⟹=~ das ist ein ~={Teal}gewöhnlicher Spindelstrauch=~
+- [x] Erbsen kochen
+	- ⟹keine grünen Erbsen mehr da 
+	- ⤷ koche die letzten grünen Erbsen zusammen mit Kichererbsen
+- [x] Email an Christian Morgenstern Schule schreiben 
+	- war dort mir wurde gesagt ich soll eine Email schreiben
+	- den Namen der Frau habe ich wieder vergessen mit der ich gesprochen habe
+- [x] Email an ernst niebergall Schule
+	- heute pädagogischer Tag
+	- Frau mai auch eine Mail schreiben 
+- [x] bei Kinder Betreuung bewerben 
+	- ⟹muss ich nicht mehr, ok vielleicht wäre das für die Sommerferien gut
+- [x] Email an Schulen gingen raus?
+	- ⟹muss ich nicht mehr, 
+- [x] ~={DeepSkyBlue}ADHS Event=~ im Mai anmelden
+	- glaube nicht dass ich zum AOK ding möchte
 - [x] Apfelbäume mit dunklen Blättern in kleine Töpfe setzen 
 - [x] Äpfel waschen 
 - [x] jamils Email lesen + Stundenplan abspeichern 
-- [x] to do proposal in andere Datei 
+- [x] to do proposal in andere Datei  
 - [x] Kette fetten 
 - [x] Mischa schreiben:
 	- [x] noch kein Geld von Februar 
