@@ -2,6 +2,7 @@
 # unsortiert
 - [ ] spülmaschine anstellen
 - [ ] sitzplan 5c in obsidian 
+- [ ] Glasmüll weg
 - [ ] usb Stick passend formatieren 
 - [ ] wenn *mein Unterricht* für die 5c freigeschaltet ist:
 	- [ ] Anwesenheit eintragen: Glordi und Finlay lange abwesend
