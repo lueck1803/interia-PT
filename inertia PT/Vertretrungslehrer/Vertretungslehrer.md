@@ -42,6 +42,9 @@ Ich übernehme:
 - [ ] Wo werden die Noten eingetragen?
 
 ## Orga:
+- [ ] Wie muss die Dokumentation für die Klassen/ den Unterricht geführt werden?
+	- [ ] Noten - wie setzen die sich genau zusammen? Was darf ich?
+	- [ ] Kopfnoten
 - [x] Hausmeister Schlüssel für Kunstschrank 
 - [x] Sekretariat Mailingliste eintragen lassen
 - [x] jamil nach kopierercode fragen 
