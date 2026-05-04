@@ -28,6 +28,9 @@ Ich übernehme:
 	- Abstimmung mit Tabea Weingärtner 
 	- dieses Halbjahr bisher **Moral** als Thema, haben da auch mit dem **Buch** etwas gearbeitet, bzw. die SuS haben sich zu zweit ein Buch geteilt. Und letzte Stunde hatte ich die **Arbeit zurückgegeben**
 # To-Do 
+## Maßregeln
+- konsequent das mit den Karten durchziehen 
+- bei rot Brief an die Eltern/anrufen 
 
 ## Orga:
 - [ ] Anwesenheit immer im Schulportal eintragen?
