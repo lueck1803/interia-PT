@@ -239,7 +239,8 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
 - wöchentlicher Termin für das Nachschreiben von Klausuren 
 - gesammelt mit Betreuung von Lehrkräften die dafür eingetragen sind
 - am besten im Nachmittagsbereich, damit es weh tut
-- bei 3 mal nachschreiben 
+- bei 3 mal Nachschreiben notwendig Attest?
+- Frau nemati schreibt generell nachmittags nach: seitdem hat sie kaum bis keine Fehlzeiten mehr zu den Klausuren, die wollen partout nicht nachmittags kommen
 
 # Motivation
 ## allgemein
