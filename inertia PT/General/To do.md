@@ -3,9 +3,6 @@
 - [ ] Knoblauchrauke suchen und ausgraben 
 - [ ] Gitarre mit tremolo auf Eb stimmen
 - [ ] graues longsleeve unten flicken 
-- [x] physalis ausgraben 
-- [x] aufjedenfall den Bärlauch ausgraben ~={RedRed} aufpassen wegen der scheiße=~
-- [x] sync Konflikte löschen 
 - [ ] [Change your life now](https://youtu.be/pFhMzPxbY4E?is=o7W8uMv3Vc7oasP8) Notizen machen
 - [ ] [fix your adhd morning](https://youtu.be/gsVYI-l_6G8?is=BUHdgIGMxlNq8KT8) was dazu aufschreiben 
 - [ ] Waffenbrüder solo
@@ -67,16 +64,10 @@
 	- [ ] read: Feedforward neural network
 	- [x] loss function article lesen
 	- [ ] das google paper lesen
-- [x] Kette fetten 
-- [x] Mischa schreiben:
-	- [x] noch kein Geld von Februar 
-	- [x] Gehaltsabrechnung dez-feb
+
 - [ ] ich hab auch noch kein Geld vom Schulamt bekommen 
-- [x] Apfelbäume mit dunklen Blättern in kleine Töpfe setzen 
-- [x] Äpfel waschen 
-- [x] jamils Email lesen + Stundenplan abspeichern 
+
 - [ ] Waschbecken Küche 
-- [x] to do proposal in andere Datei 
 - [ ] alte to do zu alt sortieren 
 - [ ] Bürostuhl dampfen
 - [ ] sofa dampfen 
@@ -85,8 +76,7 @@
 - [ ] Forest and gardening vlog 
 - [ ] Forest pond
 - [ ] welche kameras hat der robinga?
-- [x] Steckling vom hasel ziehen 
-- [x] Bart und Nasenhaare schneiden 
+
 - [ ] papa nachdem selfie stick fragen, den ihm arooj geschenkt hat
 - [ ] Versuch dich mal an einer ~={LawnGreen}ganzen Aufnahme von so 70%=~. Lass Solo2 dann erstmal weg (spiel zu dem Punkt Rhythm oder so).
 - [x] Kleiderschrank reparieren
@@ -729,6 +719,19 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] <span style="color:coral">paartherapie S3 runterladen</span>
 
 # Alt
+- [x] Apfelbäume mit dunklen Blättern in kleine Töpfe setzen 
+- [x] Äpfel waschen 
+- [x] jamils Email lesen + Stundenplan abspeichern 
+- [x] to do proposal in andere Datei 
+- [x] Kette fetten 
+- [x] Mischa schreiben:
+	- [x] noch kein Geld von Februar 
+	- [x] Gehaltsabrechnung dez-feb
+- [x] physalis ausgraben 
+- [x] aufjedenfall den Bärlauch ausgraben ~={RedRed} aufpassen wegen der scheiße=~
+- [x] sync Konflikte löschen 
+- [x] Steckling vom hasel ziehen 
+- [x] Bart und Nasenhaare schneiden 
 - [x] Camembert essen kochen
 	- Camembert+Rotrinden Käse verwenden 
 - [x] fragen was mit der Abrechnung vom September ist bzw schauen ob was kam
