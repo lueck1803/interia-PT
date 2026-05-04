@@ -1,6 +1,6 @@
 - ich~={RedRed} will meine Arbeit Publikations fähig machen=~
 # unsortiert
-- [ ] laptop tastatur wischen
+- [x] laptop tastatur wischen
 - [ ] Stundenplan in den Kalender eintragen 
 - [ ] habe ich einen eigenen Lernplan im Schulportal?
 - [ ] mir nen planer für die Notengebung anlegen
