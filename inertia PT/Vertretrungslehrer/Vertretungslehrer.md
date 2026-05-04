@@ -247,7 +247,7 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
 
 #### Schulportal
 - Es wird wohl alles am Ende des Schuljahrs gelöscht, was in "mein Unterricht" steht, daher alles eh selbst in Excel eintragen
-	- 
+	- ⟹wie wird archiviert?
 - es soll Nutzungsregeln für: *mein Unterricht*, *Vertretungsplan* und *Kalender* geben
 	- Diese Module sollen eventuell Verbindlich genutzt werden
 - Notenkommunikation mit den Eltern über das Schulportal.
