@@ -118,6 +118,7 @@ Ich übernehme:
 	- Seite 95 Aufgabe 2
 	- Seite 96 Alle Aufgaben
 	- Seite 97 Aufgabe 7
+- Meros Sammlung: die ersten 4 Seiten 20 mal kopieren
 
 #### Bisher
 - Märchen:
