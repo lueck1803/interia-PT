@@ -88,7 +88,8 @@ Ich übernehme:
 	- [ ] dazu Übungsblätter suchen 
 	- [ ] bzw. unterricht überlegen
 ### 26-05-04
-- 
+- Begrüßung
+- Märchen 
 ### Material
 - P.A.U.L. D., ist das Deutsch Buch, dazu gibt es viel Material
 ### Glossar

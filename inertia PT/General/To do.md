@@ -1,6 +1,7 @@
 - ich~={RedRed} will meine Arbeit Publikations fähig machen=~
 # unsortiert
 - [ ] laptop tastatur wischen
+- [ ] habe ich einen eigenen Lernplan im Schulportal?
 - [ ] Material von Mero einscannen
 - [ ] Material von Tabea 
 - [ ] Knoblauchrauke suchen und ausgraben 
