@@ -1,6 +1,7 @@
 - ich~={RedRed} will meine Arbeit Publikations fähig machen=~
 # unsortiert
 - [ ] spülmaschine anstellen
+- [ ] sitzplan 5c in obsidian 
 - [ ] usb Stick passend formatieren 
 - [ ] wenn *mein Unterricht* für die 5c freigeschaltet ist:
 	- [ ] Anwesenheit eintragen: Glordi und Finlay lange abwesend
