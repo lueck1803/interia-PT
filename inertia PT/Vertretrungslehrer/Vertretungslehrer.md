@@ -32,8 +32,8 @@ Ich übernehme:
 	- [ ] haben wir einen L Schüler (Förderschwerpunkt Lernen) in der 5c?
 	- [ ] wie sieht es mit den Bewertungen der Rechtschreibung aus? 
 	- [ ] Was hat sich da entwickelt?
-- Unterrichtsmaterialien 5 und 6 Klasse Englisch 
-- und deutsch suchen 
+- Unterrichtsmaterialien 5 und 6 Klasse Englisch und deutsch suchen 
+	- ⟹gibt nen Bücherschrank, dort sind jede Menge Materialien 
 - lernen schneller und kleiner an der Tafel zu schreiben
 - Schlüssel für Lehrerparkplatz geben lassen da dieser für die Gartenag passt 
 	- [ ] hab im Sekretariat nachgefragt, gab keinen mehr, muss auf Hausmeister warten
@@ -78,6 +78,7 @@ Ich übernehme:
 ![](Pasted%20image%2020260429141731.png)
 ![](Pasted%20image%2020260429141814.png)
 ## Deutsch
+
 - bis zur 7. klasse allgemein keine Rechtschreibung bewerten.
 - schönschreibe Heft:
 	- die ersten 15 min nutzen
@@ -86,7 +87,9 @@ Ich übernehme:
 - Und dann hatten wir jetzt ein bisschen Wortarten wiederholt: Nomen, Verben konjugieren im Präsenz, Präteritum und Futur, aber das noch nicht intensiv.
 	- [ ] dazu Übungsblätter suchen 
 	- [ ] bzw. unterricht überlegen
-### Stabreim 
+### Material
+### Glossar
+#### Stabreim 
 Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benachbarte, betonte Wörter mit demselben Anlaut (Konsonant oder Vokal) beginnen. Er war die metrische Basis der alten germanischen Dichtung und verbindet Klang mit Bedeutung. Heute dient er oft als einprägsames Stilmittel in Slogans oder festen Wendungen (z.B. „Milch macht müde Männer munter“).
 ## Ethik
 - [ ] ideologischer Turing Test
