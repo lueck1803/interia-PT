@@ -1,5 +1,8 @@
 - ich~={RedRed} will meine Arbeit Publikations fähig machen=~
 # unsortiert
+- [ ] laptop tastatur wischen
+- [ ] Material von Mero einscannen
+- [ ] Material von Tabea 
 - [ ] Knoblauchrauke suchen und ausgraben 
 - [ ] Gitarre mit tremolo auf Eb stimmen
 - [ ] graues longsleeve unten flicken 
