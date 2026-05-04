@@ -1,6 +1,7 @@
 - ich~={RedRed} will meine Arbeit Publikations fähig machen=~
 # unsortiert
 - [ ] spülmaschine anstellen
+- [ ] usb Stick passend formatieren 
 - [ ] wenn *mein Unterricht* für die 5c freigeschaltet ist:
 	- [ ] Anwesenheit eintragen: Glordi und Finlay lange abwesend
 	- [ ] Aufgabe aus Buch eintragen, was nicht erledigt als Hausaufgabe
