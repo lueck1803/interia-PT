@@ -33,23 +33,28 @@ Ich übernehme:
 - [ ] wie sieht es mit den Bewertungen der Rechtschreibung aus? 
 - [ ] Was hat sich da entwickelt?
 - [ ] ~={DeepSkyBlue}Klassenarbeit=~ Deutsch zu ~={MediumTurquoise}Zeitformen von Verben=~
+- [ ] buch durch arbeiten
 
-- [ ] Wo ist das Bücherregal für Ethik?
-- [ ] Browser profil für Schule anlegen
+
 ## Allgemein Fragen zum Unterricht:
 - [ ] Anwesenheit immer im Schulportal eintragen?
 - [ ] Wie organisiert ihr die Noten: Anita fragen, die mich in Deutsch unterstützt
 - [ ] Wo werden die Noten eingetragen?
 
-- Orga:
-	- [x] Hausmeister Schlüssel für Kunstschrank 
-	- [x] Sekretariat Mailingliste eintragen lassen
-	- [x] jamil nach kopierercode fragen 
+## Orga:
+- [x] Hausmeister Schlüssel für Kunstschrank 
+- [x] Sekretariat Mailingliste eintragen lassen
+- [x] jamil nach kopierercode fragen 
+- [ ] Wo ist das Bücherregal für Ethik?
+- [ ] Browser profil für Schule anlegen
+- Schlüssel für Lehrerparkplatz geben lassen da dieser für die Gartenag passt 
+	- [ ] hab im Sekretariat nachgefragt, gab keinen mehr, muss auf Hausmeister warten
+
+## Perspektive / Fortbildung
 - Unterrichtsmaterialien 5 und 6 Klasse Englisch und deutsch suchen 
 	- ⟹gibt nen Bücherschrank, dort sind jede Menge Materialien 
 - lernen schneller und kleiner an der Tafel zu schreiben
-- Schlüssel für Lehrerparkplatz geben lassen da dieser für die Gartenag passt 
-	- [ ] hab im Sekretariat nachgefragt, gab keinen mehr, muss auf Hausmeister warten
+
 - ~={Crimson}Schulsozialarbeit=~ fragen ob ich mal bei deren Aktivitäten teilhaben kann
 - Quereinstieg:
 	- Lehrkräfte Akademie
