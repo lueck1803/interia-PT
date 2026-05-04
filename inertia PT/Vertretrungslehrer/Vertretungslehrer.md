@@ -33,6 +33,10 @@ Ich übernehme:
 	- [ ] wie sieht es mit den Bewertungen der Rechtschreibung aus? 
 	- [ ] Was hat sich da entwickelt?
 	- [ ] ~={DeepSkyBlue}Klassenarbeit=~ Deutsch zu ~={MediumTurquoise}Zeitformen von Verben=~
+- [ ] Anwesenheit immer im Schulportal eintragen?
+- [ ] Wo werden die Noten eingetragen?
+- [ ] Wo ist das Bücherregal für Ethik?
+- [ ] Browser profil für Schule anlegen
 - Unterrichtsmaterialien 5 und 6 Klasse Englisch und deutsch suchen 
 	- ⟹gibt nen Bücherschrank, dort sind jede Menge Materialien 
 - lernen schneller und kleiner an der Tafel zu schreiben
@@ -109,18 +113,19 @@ Ich übernehme:
 - ein bisschen Wortarten wiederholt: Nomen, Verben konjugieren im Präsenz, Präteritum und Futur, aber das noch nicht intensiv.
 ### Material
 - P.A.U.L. D., ist das Deutsch Buch, dazu gibt es viel Material
-	- Die Wunderbare Welt der Wörter: 
-	- Nomen und Artikel: 92
-	- Verben: 103
-		- Zeitformen: 107
-			- Präsenz: 107
-			- Präteritum: 109
-			- Perfekt: 110
-			- Plusquamperfekt: 112
-			- Futur 1 und 2: 113
-	- Adjektive: 116
-	- Pronomen: 119
-	- Präpositionen: 122
+	- Die Wunderbare Welt der Wörter: 90
+		- Nomen und Artikel: 92
+		- Verben: 103
+			- Zeitformen: 107
+				- Präsenz: 107
+				- Präteritum: 109
+				- Perfekt: 110
+				- Plusquamperfekt: 112
+				- Futur 1 und 2: 113
+		- Adjektive: 116
+		- Pronomen: 119
+		- Präpositionen: 122
+		- Das habe ich gelernt, das kann ich: 124
 ### Glossar
 #### Jambus
 #### Trochäus
