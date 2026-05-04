@@ -40,6 +40,8 @@ Ich übernehme:
 - [ ] Anwesenheit immer im Schulportal eintragen?
 - [ ] Wie organisiert ihr die Noten: Anita fragen, die mich in Deutsch unterstützt
 - [ ] Wo werden die Noten eingetragen?
+- [ ] was sind Maßnahmen?
+- [ ] wie funktioniert das mit der Strichliste?
 
 ## Orga:
 - [ ] Wie muss die Dokumentation für die Klassen/ den Unterricht geführt werden?
@@ -119,7 +121,21 @@ Ich übernehme:
 	- Seite 95 Aufgabe 2
 	- Seite 96 Alle Aufgaben
 	- Seite 97 Aufgabe 7
+- das Buch was die Klasse nutzt ist älter
 - Meros Sammlung: die ersten 4 Seiten 20 mal kopieren
+
+- gemacht: 
+	- 211 nr 5
+	- 212 nr 1+2
+	-  Rest Hausaufgabe 
+- Mitarbeit:
+	- noble, sara, daisy, ömer, lisa marie gut
+	- hasenat und sherin haben hefte draußen gehabt, haben aber nichts gemacht 
+	- rest Katastrophe:
+		- finlay: bewirft mich und andere 
+		- anas
+		- rayan und glordi bewerfen delsa
+		- massin, finlay und rayan sind am Fenster und rufen Beleidigungen 
 
 #### Bisher
 - Märchen:
