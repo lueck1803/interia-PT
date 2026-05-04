@@ -29,14 +29,15 @@ Ich übernehme:
 	- dieses Halbjahr bisher **Moral** als Thema, haben da auch mit dem **Buch** etwas gearbeitet, bzw. die SuS haben sich zu zweit ein Buch geteilt. Und letzte Stunde hatte ich die **Arbeit zurückgegeben**
 # To-Do 
 - [ ] Deutsch:
-	- [ ] haben wir einen L Schüler in der 5c?
+	- [ ] haben wir einen L Schüler (Förderschwerpunkt Lernen) in der 5c?
 	- [ ] wie sieht es mit den Bewertungen der Rechtschreibung aus? 
 	- [ ] Was hat sich da entwickelt?
 - Unterrichtsmaterialien 5 und 6 Klasse Englisch 
 - und deutsch suchen 
 - lernen schneller und kleiner an der Tafel zu schreiben
-- [ ] Schlüssel für Lehrerparkplatz geben lassen da dieser für die gartenag passt 
-- [ ] Hausmeister Schlüssel für Kunstschrank 
+- Schlüssel für Lehrerparkplatz geben lassen da dieser für die Gartenag passt 
+	- [ ] hab im Sekretariat nachgefragt, gab keinen mehr, muss auf Hausmeister warten
+- [x] Hausmeister Schlüssel für Kunstschrank 
 - ~={Crimson}Schulsozialarbeit=~ fragen ob ich mal bei deren Aktivitäten teilhaben kann
 - Quereinstieg:
 	- Lehrkräfte Akademie
