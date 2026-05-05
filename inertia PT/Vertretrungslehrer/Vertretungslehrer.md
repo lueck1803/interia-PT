@@ -249,6 +249,10 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
   Woher wissen wir, dass die Welt wirklich so ist, wie wir sie erleben? Könnte es sein, dass unser ganzes Leben eine Illusion ist? Mit diesen Fragen beschäftigt sich das philosophische Gedankenexperiment «Gehirn im Tank». Der Erfinder behauptet, es sei undenkbar, dass wir uns radikal täuschen.
 - [Gerechte Welt?](https://www.youtube.com/watch?v=7bwM_atwgyc)
   Fast die Hälfte aller Menschen leben in Armut. Täglich sterben bis zu 25'000 Kinder an deren Folgen. Was tun? Wozu sind wir moralisch verpflichtet? Mit diesen Fragen beschäftigt sich das Gedankenexperiment «Kind im Teich». Der Erfinder meint, es sei unsere Pflicht, mehr zu spenden.
+- [Ist Liebe eine Entscheidung?](https://www.youtube.com/watch?v=eqr75CUQUL8)
+  Lässt sich Liebe begründen? Und macht sie blind? Ein Ausflug ins philosophische Wunderland der Liebe.
+- [Gibt Erfolg immer recht?](https://www.youtube.com/watch?v=f-xme0sHTu8)
+  Das philosophische Gedankenexperiment «Gauguin» Der Maler Paul Gauguin verliess seine Familie, um sich der Kunst zu widmen. Mit Erfolg. Aber Rechtfertigt der Erfolg auch sein Verhalten? Und welche Rolle spielt der Zufall für die Moral? Mit diesen Fragen beschäftigt sich das philosophische Gedankenexperiment «Gauguin».
 - 
   
 ## Kunst
