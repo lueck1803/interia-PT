@@ -242,11 +242,15 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
 - Teich anlegen?
 
 ## Islam 
+### sklaven:
+https://en.wikipedia.org/wiki/Abeed
 ### Aisha:
 https://www.gew-hb.de/aktuelles/detailseite/aisha-eine-spurensuche
 
 [The Age of Aisha](https://youtu.be/ElM597LzxB8?si=h1d37uASqSBImuB0):
-- hadith mentioned by sahih bukhari & sahih muslim: married with 6 and consumed with 9
+- hadith mentioned by ~={red}sahih bukhari & sahih muslim=~: married with 6 and consumed with 9
+	- selbe hadithen die erzählen, ~={LawnGreen}wie=~ 5 mal am Tag gebetet werden soll
+	- sahih/saheeh: authentic
 - es war niemals "normal" so junge Mädchen zu heiraten 
 - [**sahih bukhari 3:48:805**](https://hadithcollection.com/sahihbukhari/sahih-bukhari-book-48-witnesses/sahih-bukhari-volume-003-book-048-hadith-number-805):
   Narated By Urwa bin Al-Musayyab, Alqama bin Waqqas and Ubaidullah bin Abdullah : About the story of ‘Aisha and their narrations were similar attesting each other, when the liars said what they invented about ‘Aisha, and the Divine Inspiration was delayed, Allah’s Apostle sent for ‘Ali and Usama to consult them in divorcing his wife (i.e. ‘Aisha). Usama said, “Keep your wife, as we know nothing about her except good.”~={yellow} Buraira said, “I cannot accuse her of any defect *except that she is still a young girl* who sleeps, neglecting her family’s dough which the domestic goats come to eat =~(i.e. she was too simpleminded to deceive her husband).” Allah’s Apostle said, “Who can help me to take revenge over the man who has harmed me by defaming the reputation of my family? By Allah, I have not known about my family-anything except good, and they mentioned (i.e. accused) a man about whom I did not know anything except good.”
@@ -256,8 +260,6 @@ https://www.gew-hb.de/aktuelles/detailseite/aisha-eine-spurensuche
   And you are truly ˹a man˺ of outstanding character.
 - [sahih bukhari 7:62:163](https://hadithcollection.com/sahihbukhari/sahih-bukhari-book-62-wedlock-marriage-nikah/sahih-bukhari-volume-007-book-062-hadith-number-163):
   Narrated By ‘Aisha : The Prophet was screening me with his Rida’ (garment covering the upper part of the body) while I was looking at the Ethiopians who were playing in the courtyard of the mosque. (I continued watching) till I was satisfied. So you may deduce from this event how a little girl (who has not reached the age of puberty) who is eager to enjoy amusement should be treated in this respect.
-  
-
 
 ### Origin of hijab:
 https://youtu.be/i8YluwJXB8k?is=Cq-FOdJ9UuRt3Far
