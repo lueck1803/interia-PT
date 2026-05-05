@@ -242,10 +242,14 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
 - Teich anlegen?
 
 ## Islam 
-Aisha:
+### Aisha:
 https://www.gew-hb.de/aktuelles/detailseite/aisha-eine-spurensuche
 
-Origin of hijab:
+[The Age of Aisha](https://youtu.be/ElM597LzxB8?si=h1d37uASqSBImuB0):
+
+
+
+### Origin of hijab:
 https://youtu.be/i8YluwJXB8k?is=Cq-FOdJ9UuRt3Far
 
 [Sahih Bukhari 1:4:148](https://hadithcollection.com/sahihbukhari/sahih-bukhari-book-04-ablutions-wudu/sahih-bukhari-volume-001-book-004-hadith-number-148)
@@ -270,7 +274,7 @@ Narrated By Anas : Umar said, “I agreed with Allah in three things,” or said
 ~={yellow}Perhaps, if he were to divorce you ˹all˺, his Lord would replace you with better wives who are submissive ˹to Allah˺, faithful ˹to Him˺, devout, repentant, dedicated to worship and fasting—previously married or virgins.=~
 
 [sahih bukhari 6:60:318](https://hadithcollection.com/sahihbukhari/sahih-bukhari-book-60-prophetic-commentary-on-the-quran-tafseer-of-the-prophet-PBUH/sahih-bukhari-volume-006-book-060-hadith-number-318)
-
+Narrated By ‘Aisha : Sauda (the wife of the Prophet) went out to answer the call of nature after it was made obligatory (for all the Muslims ladies) to observe the veil. She was a fat huge lady, and everybody who knew her before could recognize her. So ‘Umar bin Al-Khattab saw her and said, “O Sauda! By Allah, you cannot hide yourself from us, so think of a way by which you should not be recognized on going out. Sauda returned while Allah’s Apostle was in my house taking his supper and a bone covered with meat was in his hand. She entered and said, “O Allah’s Apostle! I went out to answer the call of nature and ‘Umar said to me so-and-so.” Then Allah inspired him (the Prophet) and when the state of inspiration was over and the bone was still in his hand as he had not put in down, he said (to Sauda), “You (women) have been allowed to go out for your needs.”
 
 ## Klassenkonferenz
 ### 26-05-04 (14:30 - 16:30) Gesamtkonferenz
