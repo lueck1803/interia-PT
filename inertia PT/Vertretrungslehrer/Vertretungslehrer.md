@@ -79,6 +79,7 @@ Ich übernehme:
 
 
 # Bernhard Adelung Schule (BAS)
+Sekretariat
 **Code für den iPad Koffer** 
 008 150 
 **Kopiercode**
