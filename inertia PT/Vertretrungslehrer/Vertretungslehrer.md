@@ -258,7 +258,7 @@ Narated By ‘Aisha : The wives of the Prophet used to go to Al-Manasi, a vast o
 ⟹ Mohammed hat seine Frauen verschleiert 
 
 Sahih bukari 8:74:257
-Sahih 
+Sahih muslim 26:53
 
 ## Klassenkonferenz
 ### 26-05-04 (14:30 - 16:30) Gesamtkonferenz
