@@ -268,6 +268,11 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
 - Teich anlegen?
 
 ## Islam 
+
+### [Who ever kills an innocent person...](https://www.youtube.com/watch?v=yfqduwXVSgQ)
+- Quran 5:32:
+  That is why We ordained for the Children of Israel that whoever takes a life—unless as a punishment for murder or mischief in the land—it will be as if they killed all of humanity; and whoever saves a life, it will be as if they saved all of humanity.1 ˹Although˺ Our messengers already came to them with clear proofs, many of them still transgressed afterwards through the land.
+
 ### sklaven:
 https://en.wikipedia.org/wiki/Abeed
 The primary Arabic word for "slave" or "servant" is ʿabd (plural: ʿabīd or ʿibād), pronounced [ʕabd] and written as عبد. It is a versatile term that can refer to a legal slave, a servant, or a worshipper of God, often highlighting the concept of servitude. 
