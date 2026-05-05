@@ -1,4 +1,6 @@
 - [ ] toast
+- [ ] schoko chips
+- [ ] hafer
 - [ ] grüne Erbsen 
 - [ ] tofu
 - [x] schokomüsli
