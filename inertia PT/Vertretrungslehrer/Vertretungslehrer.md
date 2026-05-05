@@ -311,7 +311,11 @@ Narrated By ‘Aisha : Sauda (the wife of the Prophet) went out to answer the ca
 	- men are being in charge of where the religion/the faith goes 
 	- ⤷ it's a matter of dominance ~={RedRed}not=~ relationship, of wellness, of what the woman actually wants
 	- Islam is a system of pure submission, everything is done to serve submission
-- pressure
+- pressure of conversation from men, families and muslim environment
+- humble and obedient muslim wife
+- according to the ~={LimeGreen}quran=~ itself chapter~={LimeGreen} 4:34=~:
+	- men are in charge of women and man may advise women if they fear, only fear arrogance of the women. Then separate them in beds as punishment  and finally beat them if the women do not obey 
+- 
 ## Klassenkonferenz
 ### 26-05-04 (14:30 - 16:30) Gesamtkonferenz
 #### Dienstliche Email
