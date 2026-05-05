@@ -96,6 +96,10 @@ Ich übernehme:
 
 
 ## Stundenplan
+Arbeitsstunden KW 19:
+- 4.5.:
+- deu 5/6
+- 
 - KW 19: 
 	- Mo:
 		- vermutlich übernehme ich die 3./4. am Montag 5a
