@@ -31,7 +31,7 @@ Ich übernehme:
 ## Maßregeln
 - konsequent das mit den Karten durchziehen 
 - bei rot Brief an die Eltern/anrufen 
-- [ ] gegenstand/Kuscheltier 
+- [ ] Gegenstand/Kuscheltier/Stab, der der ihn in der Hand hat, ist mit reden dran?
 
 ## Orga:
 - [ ] Anwesenheit immer im Schulportal eintragen?
