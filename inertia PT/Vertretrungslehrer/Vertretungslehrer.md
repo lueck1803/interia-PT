@@ -267,6 +267,9 @@ https://www.gew-hb.de/aktuelles/detailseite/aisha-eine-spurensuche
   And you are truly ˹a man˺ of outstanding character.
 - [sahih bukhari 7:62:163](https://hadithcollection.com/sahihbukhari/sahih-bukhari-book-62-wedlock-marriage-nikah/sahih-bukhari-volume-007-book-062-hadith-number-163):
   Narrated By ‘Aisha : The Prophet was screening me with his Rida’ (garment covering the upper part of the body) while I was looking at the Ethiopians who were playing in the courtyard of the mosque. (I continued watching) till I was satisfied. So you may deduce from this event how a little girl (who has not reached the age of puberty) who is eager to enjoy amusement should be treated in this respect.
+- [Sahih Bukhari 7:62:64](https://hadithcollection.com/sahihbukhari/sahih-bukhari-book-62-wedlock-marriage-nikah/sahih-bukhari-volume-007-book-062-hadith-number-064)
+  Narrated By ‘Aisha : That the Prophet married her when she was six years old and he consummated his marriage when she was nine years old, and then she remained with him for nine years (i.e., till his death).
+- 
 
 ### Origin of hijab:
 https://youtu.be/i8YluwJXB8k?is=Cq-FOdJ9UuRt3Far
