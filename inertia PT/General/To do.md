@@ -1,12 +1,11 @@
 - ich~={RedRed} will meine Arbeit Publikations fähig machen=~
 # unsortiert
 - [ ] spülmaschine ausräumen 
+- [ ] noch mal ausprobieren, wie man nur gewisse seiten einer pdf vom usb stick drucken kann
 - [ ] Zeug in Kursmappe eintragen
-- [ ] deutsch blatt splitten 
 - [ ] stunden für heute und gestern aufschreiben wegen ssv falls der Vertrag ab gestern gilt 
 - [ ] sitzplan 5c in obsidian 
 - [ ] Glasmüll weg
-- [x] usb Stick passend formatieren 
 - [ ] wenn *mein Unterricht* für die 5c freigeschaltet ist:
 	- [ ] Anwesenheit eintragen: Glordi und Finlay lange abwesend
 	- [ ] Aufgabe aus Buch eintragen, was nicht erledigt als Hausaufgabe
