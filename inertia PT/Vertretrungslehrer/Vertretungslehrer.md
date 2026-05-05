@@ -303,6 +303,9 @@ Narrated By Anas : Umar said, “I agreed with Allah in three things,” or said
 [sahih bukhari 6:60:318](https://hadithcollection.com/sahihbukhari/sahih-bukhari-book-60-prophetic-commentary-on-the-quran-tafseer-of-the-prophet-PBUH/sahih-bukhari-volume-006-book-060-hadith-number-318)
 Narrated By ‘Aisha : Sauda (the wife of the Prophet) went out to answer the call of nature after it was made obligatory (for all the Muslims ladies) to observe the veil. She was a fat huge lady, and everybody who knew her before could recognize her. So ‘Umar bin Al-Khattab saw her and said, “O Sauda! By Allah, you cannot hide yourself from us, so think of a way by which you should not be recognized on going out. Sauda returned while Allah’s Apostle was in my house taking his supper and a bone covered with meat was in his hand. She entered and said, “O Allah’s Apostle! I went out to answer the call of nature and ‘Umar said to me so-and-so.” Then Allah inspired him (the Prophet) and when the state of inspiration was over and the bone was still in his hand as he had not put in down, he said (to Sauda), “You (women) have been allowed to go out for your needs.”
 
+### Women:
+[ Women, Do NOT Convert to Islam!](https://www.youtube.com/watch?v=hYhHclt-TxQ)
+- 
 ## Klassenkonferenz
 ### 26-05-04 (14:30 - 16:30) Gesamtkonferenz
 #### Dienstliche Email
