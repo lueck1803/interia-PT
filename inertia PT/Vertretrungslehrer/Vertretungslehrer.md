@@ -253,7 +253,7 @@ Narated By ‘Aisha : The wives of the Prophet used to go to Al-Manasi, a vast o
 ⟹ Umar freund von Mohamed und ein Anhänger des Islam 
 ⟹ umar hat Mohammed angewiesen seine frauen zu verschleiern 
 ⟹ das wollte Mohammed erst nicht 
-⟹umar wollte das allah
+⟹umar wollte das Allah die verse von al-hijab offen
 ⟹er hat sich dann aber dazu entschieden es doch zu tun
 
 ⟹ allah hat aufgrund der a
