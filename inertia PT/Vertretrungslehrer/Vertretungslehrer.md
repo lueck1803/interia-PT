@@ -257,6 +257,7 @@ Narated By ‘Aisha : The wives of the Prophet used to go to Al-Manasi, a vast o
 ⟹ allah hat die verse von al-hijab - komplette Körperbedeckung, die die Augen ausschließt - offenbart 
 ⟹ Mohammed hat seine Frauen verschleiert 
 
+8:74:257
 
 ## Klassenkonferenz
 ### 26-05-04 (14:30 - 16:30) Gesamtkonferenz
