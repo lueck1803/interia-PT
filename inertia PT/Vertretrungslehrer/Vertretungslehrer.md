@@ -252,7 +252,11 @@ https://www.gew-hb.de/aktuelles/detailseite/aisha-eine-spurensuche
   Narated By Urwa bin Al-Musayyab, Alqama bin Waqqas and Ubaidullah bin Abdullah : About the story of ‘Aisha and their narrations were similar attesting each other, when the liars said what they invented about ‘Aisha, and the Divine Inspiration was delayed, Allah’s Apostle sent for ‘Ali and Usama to consult them in divorcing his wife (i.e. ‘Aisha). Usama said, “Keep your wife, as we know nothing about her except good.”~={yellow} Buraira said, “I cannot accuse her of any defect *except that she is still a young girl* who sleeps, neglecting her family’s dough which the domestic goats come to eat =~(i.e. she was too simpleminded to deceive her husband).” Allah’s Apostle said, “Who can help me to take revenge over the man who has harmed me by defaming the reputation of my family? By Allah, I have not known about my family-anything except good, and they mentioned (i.e. accused) a man about whom I did not know anything except good.”
 - [quaran 33:21](https://quran.com/al-ahzab/21):
   Indeed, in the Messenger of Allah you have an excellent example for whoever has hope in Allah and the Last Day, and remembers Allah often.
-- 
+- [quaran 68:4](https://quran.com/al-qalam/4):
+  And you are truly ˹a man˺ of outstanding character.
+- [sahih bukhari 7:62:163](https://hadithcollection.com/sahihbukhari/sahih-bukhari-book-62-wedlock-marriage-nikah/sahih-bukhari-volume-007-book-062-hadith-number-163):
+  Narrated By ‘Aisha : The Prophet was screening me with his Rida’ (garment covering the upper part of the body) while I was looking at the Ethiopians who were playing in the courtyard of the mosque. (I continued watching) till I was satisfied. So you may deduce from this event how a little girl (who has not reached the age of puberty) who is eager to enjoy amusement should be treated in this respect.
+  
 
 
 ### Origin of hijab:
