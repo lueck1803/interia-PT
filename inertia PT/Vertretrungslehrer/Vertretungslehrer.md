@@ -241,6 +241,12 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
 ## Garten AG
 - Teich anlegen?
 
+## Islam 
+Aisha:
+https://www.gew-hb.de/aktuelles/detailseite/aisha-eine-spurensuche
+
+
+
 ## Klassenkonferenz
 ### 26-05-04 (14:30 - 16:30) Gesamtkonferenz
 #### Dienstliche Email
