@@ -250,6 +250,10 @@ https://youtu.be/i8YluwJXB8k?is=Cq-FOdJ9UuRt3Far
 
 [Sahih Bukhari 1:4:148](https://hadithcollection.com/sahihbukhari/sahih-bukhari-book-04-ablutions-wudu/sahih-bukhari-volume-001-book-004-hadith-number-148)
 Narated By ‘Aisha : The wives of the Prophet used to go to Al-Manasi, a vast open place (near Baqia at Medina) to answer the call of nature at night. ‘Umar used to say to the Prophet “Let your wives be veiled,” but Allah’s Apostle did not do so. One night Sauda bint Zam’a the wife of the Prophet went out at ‘Isha’ time and she was a tall lady. ‘Umar addressed her and said, “I have recognized you, O Sauda.” He said so, as he desired eagerly that the verses of Al-Hijab (the observing of veils by the Muslim women) may be revealed. So Allah revealed the verses of “Al-Hijab” (A complete body cover excluding the eyes).
+⟹ Umar freund von Mohamed und ein Anhänger des Islam 
+⟹ umar hat Mohammed angewiesen seine frauen zu verschleiern 
+⟹ das wollte Mohammed erst nicht 
+⟹er hat sich dann aber dazu entschieden es doch zu tun
 
 ⟹ allah hat aufgrund der a
 
