@@ -244,6 +244,11 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
 ## Islam 
 ### sklaven:
 https://en.wikipedia.org/wiki/Abeed
+The primary Arabic word for "slave" or "servant" is ʿabd (plural: ʿabīd or ʿibād), pronounced [ʕabd] and written as عبد. It is a versatile term that can refer to a legal slave, a servant, or a worshipper of God, often highlighting the concept of servitude. 
+
+The term is usually used in the Arab world and is used as a slur for black people and it dates back to the Arab slave trade. In recent decades, usage of the word has become controversial due to its racist connotations and origins, particularly among the Arab diaspora.
+
+
 ### Aisha:
 https://www.gew-hb.de/aktuelles/detailseite/aisha-eine-spurensuche
 
@@ -251,6 +256,8 @@ https://www.gew-hb.de/aktuelles/detailseite/aisha-eine-spurensuche
 - hadith mentioned by ~={red}sahih bukhari & sahih muslim=~: married with 6 and consumed with 9
 	- selbe hadithen die erzählen, ~={LawnGreen}wie=~ 5 mal am Tag gebetet werden soll
 	- sahih/saheeh: authentic
+	- wenn man sich nur auf den Koran beruft, kann man nicht wissen wie man 5 mal am Tag beten soll ⟹ ist nicht im koran beschrieben
+	- diese sagen auch ⟹ sie war bei der heirat 6 und 9 als sie die Ehe "vollzogen haben"
 - es war niemals "normal" so junge Mädchen zu heiraten 
 - [**sahih bukhari 3:48:805**](https://hadithcollection.com/sahihbukhari/sahih-bukhari-book-48-witnesses/sahih-bukhari-volume-003-book-048-hadith-number-805):
   Narated By Urwa bin Al-Musayyab, Alqama bin Waqqas and Ubaidullah bin Abdullah : About the story of ‘Aisha and their narrations were similar attesting each other, when the liars said what they invented about ‘Aisha, and the Divine Inspiration was delayed, Allah’s Apostle sent for ‘Ali and Usama to consult them in divorcing his wife (i.e. ‘Aisha). Usama said, “Keep your wife, as we know nothing about her except good.”~={yellow} Buraira said, “I cannot accuse her of any defect *except that she is still a young girl* who sleeps, neglecting her family’s dough which the domestic goats come to eat =~(i.e. she was too simpleminded to deceive her husband).” Allah’s Apostle said, “Who can help me to take revenge over the man who has harmed me by defaming the reputation of my family? By Allah, I have not known about my family-anything except good, and they mentioned (i.e. accused) a man about whom I did not know anything except good.”
