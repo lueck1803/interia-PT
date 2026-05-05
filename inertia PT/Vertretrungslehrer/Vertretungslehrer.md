@@ -230,6 +230,10 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
 		- [ ] Wann ist das ok, wann ist das nicht ok?
 	- [ ] ein film / ausschnitt aus einer diskussion zeigen
 - [ ] Ethik Arbeit anschauen
+### Gedankenexperimente
+- [Schleier des Nichtwissens](https://www.youtube.com/watch?v=1cGYwwSg3fc)
+  Wie soll ein Staat aufgebaut sein? Wieviel Gleichheit braucht es dazu? Und was ist überhaupt Gerechtigkeit? Mit diesen Fragen beschäftigt sich das philosophische Gedankenexperiment «Schleier des Nichtwissens». Sein Erfinder behauptet, Ungleichheit könne gerecht sein – sofern alle davon profitieren.
+- 
 ## Kunst
 - Kinder brauchen ein Anfang und ein Ende
 - Am ende jeder hinter hochgestellten Stuhl stellen und Endbesprechung machen (5 min vor Schluss, wenn alles aufgeräumt ist)
