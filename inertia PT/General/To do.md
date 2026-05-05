@@ -2,6 +2,7 @@
 # unsortiert
 - [x] spülmaschine anstellen
 - [ ] deutsch blatt splitten 
+- [ ] stunden für heute und gestern aufschreiben wegeb
 - [ ] sitzplan 5c in obsidian 
 - [ ] Glasmüll weg
 - [x] usb Stick passend formatieren 
