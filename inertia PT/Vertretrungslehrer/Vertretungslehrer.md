@@ -32,6 +32,11 @@ Ich übernehme:
 - konsequent das mit den Karten durchziehen 
 - bei rot Brief an die Eltern/anrufen 
 - [ ] Gegenstand/Kuscheltier/Stab, der der ihn in der Hand hat, ist mit reden dran?
+	- Probier es einfach aus. Klasse 7?
+	An meiner vorherigen Schule (bin erst seit knapp 2 Jahren an der BAS) habe ich das immer gemacht in Klasse 5-8 ungefähr.
+	Hier habe ich es noch nicht ausprobiert, da ich bis auf eine kleine Französisch-Gruppe in der 7, nur 9 und 10 unterrichte und da mache ich das nicht mehr.
+	Ich würde es ausprobieren, könnte mir vorstellen, dass es gut klappt und für die Schüler sich damit gut fühlen, wenn klar ist, wer gerade dran ist.
+	Und falls es nicht gut klappt, dann eben nicht. Es kommt auch auf die Klasse an.
 
 ## Orga:
 - [ ] Anwesenheit immer im Schulportal eintragen?
