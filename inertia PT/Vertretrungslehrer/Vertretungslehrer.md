@@ -281,6 +281,8 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
 	- pro human christian values
 	- same values that drove white americans to fight other white americans in the civil war
 - white people aren't better than anyone else, but they are not worse 
+- native americans enslaved each other
+- the ottoman empire enslaved people on all o
 
 ## Islam 
 
