@@ -254,9 +254,7 @@ Narated By ‘Aisha : The wives of the Prophet used to go to Al-Manasi, a vast o
 ⟹ umar hat Mohammed angewiesen seine frauen zu verschleiern 
 ⟹ das wollte Mohammed erst nicht 
 ⟹ umar wollte das Allah die verse von al-hijab offenbart
-⟹er hat sich dann aber dazu entschieden es doch zu tun
-
-⟹ allah hat aufgrund der a
+⟹ allah hat die ver
 
 
 ## Klassenkonferenz
