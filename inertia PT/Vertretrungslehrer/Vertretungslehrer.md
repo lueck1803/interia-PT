@@ -247,6 +247,11 @@ https://www.gew-hb.de/aktuelles/detailseite/aisha-eine-spurensuche
 
 [The Age of Aisha](https://youtu.be/ElM597LzxB8?si=h1d37uASqSBImuB0):
 - hadith mentioned by sahih bukhari & sahih muslim: married with 6 and consumed with 9
+- es war niemals "normal" so junge Mädchen zu heiraten 
+- [**sahih bukhari 3:48:805**](https://hadithcollection.com/sahihbukhari/sahih-bukhari-book-48-witnesses/sahih-bukhari-volume-003-book-048-hadith-number-805):
+  Narated By Urwa bin Al-Musayyab, Alqama bin Waqqas and Ubaidullah bin Abdullah : About the story of ‘Aisha and their narrations were similar attesting each other, when the liars said what they invented about ‘Aisha, and the Divine Inspiration was delayed, Allah’s Apostle sent for ‘Ali and Usama to consult them in divorcing his wife (i.e. ‘Aisha). Usama said, “Keep your wife, as we know nothing about her except good.”~={yellow} Buraira said, “I cannot accuse her of any defect *except that she is still a young girl* who sleeps, neglecting her family’s dough which the domestic goats come to eat =~(i.e. she was too simpleminded to deceive her husband).” Allah’s Apostle said, “Who can help me to take revenge over the man who has harmed me by defaming the reputation of my family? By Allah, I have not known about my family-anything except good, and they mentioned (i.e. accused) a man about whom I did not know anything except good.”
+- [quaran 33:21](https://quran.com/al-ahzab/21):
+  Indeed, in the Messenger of Allah you have an excellent example for whoever has hope in Allah and the Last Day, and remembers Allah often.
 - 
 
 
