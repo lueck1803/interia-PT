@@ -267,6 +267,9 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
 ## Garten AG
 - Teich anlegen?
 
+## Schwarze/Sklaverei/N-Wort
+- Die weißen waren nicht die die die Sklaverei erfunden haben, sie waren aber die ersten die sie verboten/abgeschafft haben.
+
 ## Islam 
 
 ### [Who ever kills an innocent person...](https://www.youtube.com/watch?v=yfqduwXVSgQ)
