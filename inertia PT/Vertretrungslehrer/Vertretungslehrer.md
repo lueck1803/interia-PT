@@ -98,8 +98,11 @@ Ich übernehme:
 ## Stundenplan
 Arbeitsstunden KW 19:
 - 4.5.:
-- deu 5/6
-- 
+	- deu 5/6
+- 5.5.:
+	- deu 1/2
+	- span 3/4 7b lea
+	- eth 5/6
 - KW 19: 
 	- Mo:
 		- vermutlich übernehme ich die 3./4. am Montag 5a
