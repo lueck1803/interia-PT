@@ -274,8 +274,13 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
 	- schwarze haben schwarze versklavt um sie an weiße zu verkaufen
 - before:
 	- trans saharian slave trade (arab slavers sold black slaves): millions of black africans across the sahara 
-	- islamic slave trade
-	- babarian/cosarian slave trade
+	- east african islamic slave trade:
+	- barbary/cosarian slave trade (arab and african raiders): captured and sold over a million white christian europeans
+- trans atlantic slave trade: they had the technology to commit evil on an industrial scale
+- 1807 abolish of slave trade: 
+	- pro human christian values
+	- same values that drove white americans to fight other white americans in the civil war
+- white people aren't be
 
 ## Islam 
 
