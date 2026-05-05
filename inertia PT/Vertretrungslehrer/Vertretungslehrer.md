@@ -270,8 +270,14 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
 ## Islam 
 
 ### [Who ever kills an innocent person...](https://www.youtube.com/watch?v=yfqduwXVSgQ)
-- Quran 5:32:
+- **Quran 5:32:**
   That is why We ordained for the Children of Israel that whoever takes a life—unless as a punishment for murder or mischief in the land—it will be as if they killed all of humanity; and whoever saves a life, it will be as if they saved all of humanity.1 ˹Although˺ Our messengers already came to them with clear proofs, many of them still transgressed afterwards through the land.
+  
+  <u>andere übersetzung:</u>
+  Because of that, We decreed upon the Children of Israel that ~={yellow}whoever kills a soul unless for a soul or for corruption [done] in the land - it is as if he had slain mankind entirely.=~ And whoever saves one - it is as if he had saved mankind entirely. And our messengers had certainly come to them with clear proofs. Then indeed many of them, [even] after that, throughout the land, were transgressors.
+- **Quran 5:33:**
+  Indeed, the penalty for those who wage war against Allah and His Messenger and strive upon earth [to cause] corruption is none but that they be killed or crucified or that their hands and feet be cut off from opposite sides or that they be exiled from the land. That is for them a disgrace in this world; and for them in the Hereafter is a great punishment,
+  
 
 ### sklaven:
 https://en.wikipedia.org/wiki/Abeed
