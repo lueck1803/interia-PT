@@ -305,7 +305,13 @@ Narrated By ‘Aisha : Sauda (the wife of the Prophet) went out to answer the ca
 
 ### Women:
 [ Women, Do NOT Convert to Islam!](https://www.youtube.com/watch?v=hYhHclt-TxQ)
-- 
+- muslim women are not allowed to marry non muslim man 
+	- ⤷ but it's the other way around
+	- ⤷ under the condition the turn them slowly into muslims
+	- men are being in charge of where the religion/the faith goes 
+	- ⤷ it's a matter of dominance ~={RedRed}not=~ relationship, of wellness, of what the woman actually wants
+	- Islam is a system of pure submission, everything is done to serve submission
+- pressure
 ## Klassenkonferenz
 ### 26-05-04 (14:30 - 16:30) Gesamtkonferenz
 #### Dienstliche Email
