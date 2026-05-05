@@ -3,15 +3,16 @@
 - [ ] spülmaschine ausräumen 
 - [ ] noch mal ausprobieren, wie man nur gewisse seiten einer pdf vom usb stick drucken kann
 - [ ] Zeug in Kursmappe eintragen
-- [ ] stunden für heute und gestern aufschreiben wegen ssv falls der Vertrag ab gestern gilt 
+	- [ ] notieren wie die Stunden abliefen
+- [x] stunden für heute und gestern aufschreiben wegen ssv falls der Vertrag ab gestern gilt 
 - [ ] sitzplan 5c in obsidian 
 - [ ] Glasmüll weg
 - [ ] wenn *mein Unterricht* für die 5c freigeschaltet ist:
 	- [ ] Anwesenheit eintragen: Glordi und Finlay lange abwesend
 	- [ ] Aufgabe aus Buch eintragen, was nicht erledigt als Hausaufgabe
-- [ ] jamil ne mail oder whatsapp
-	- [ ] schul-ID / dienstmail ?
-	- [ ] mein Unterricht heute
+- [x] jamil ne mail oder whatsapp
+	- [x] schul-ID / dienstmail ?
+	- [x] mein Unterricht heute
 - [ ] Deutsch Schulbuch Material anschauen
 - [ ] Mich nach Unternehmen umschauen, was ich nach dem Master mache?
 - [ ] Wäsche zusammen legen 
