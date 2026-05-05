@@ -2,7 +2,7 @@
 # unsortiert
 - [x] spülmaschine anstellen
 - [ ] deutsch blatt splitten 
-- [ ] stunden für heute und gestern aufschreiben wegeb
+- [ ] stunden für heute und gestern aufschreiben wegen ssv falls der Vertrag ab gestern gilt 
 - [ ] sitzplan 5c in obsidian 
 - [ ] Glasmüll weg
 - [x] usb Stick passend formatieren 
