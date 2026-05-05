@@ -269,6 +269,13 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
 
 ## Schwarze/Sklaverei/N-Wort
 - Die weißen waren nicht die die die Sklaverei erfunden haben, sie waren aber die ersten die sie verboten/abgeschafft haben.
+- Der Grund dafür, dass es in den Orten in denen es auf der Welt keine Sklaverei gibt - es gibt viele Orte auf der welt in der es Sklaverei gibt, zb. Afrikanische Länder oder die arabischen Staaten - ist da es das britsche Empire abgeschafft hat.
+- trans atlantic slave trade:
+	- schwarze haben schwarze versklavt um sie an weiße zu verkaufen
+- before:
+	- trans saharian slave trade (arab slavers sold black slaves): millions of black africans across the sahara 
+	- islamic slave trade
+	- babarian/cosarian slave trade
 
 ## Islam 
 
