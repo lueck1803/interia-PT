@@ -280,7 +280,7 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
 - 1807 abolish of slave trade: 
 	- pro human christian values
 	- same values that drove white americans to fight other white americans in the civil war
-- white people aren't be
+- white people aren't better than anyone else, but they are not worse 
 
 ## Islam 
 
