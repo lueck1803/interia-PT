@@ -248,7 +248,7 @@ https://www.gew-hb.de/aktuelles/detailseite/aisha-eine-spurensuche
 Origin of hijab:
 https://youtu.be/i8YluwJXB8k?is=Cq-FOdJ9UuRt3Far
 
-Sahih Bukhari
+Sahih Bukhari 1:4:148
 
 ## Klassenkonferenz
 ### 26-05-04 (14:30 - 16:30) Gesamtkonferenz
