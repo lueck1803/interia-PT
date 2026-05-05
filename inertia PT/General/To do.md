@@ -1,6 +1,6 @@
 - ich~={RedRed} will meine Arbeit Publikations fähig machen=~
 # unsortiert
-- [x] spülmaschine anstellen
+- [ ] spülmaschine ausrä
 - [ ] deutsch blatt splitten 
 - [ ] stunden für heute und gestern aufschreiben wegen ssv falls der Vertrag ab gestern gilt 
 - [ ] sitzplan 5c in obsidian 
