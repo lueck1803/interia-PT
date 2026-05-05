@@ -1,9 +1,10 @@
 - ich~={RedRed} will meine Arbeit Publikations fähig machen=~
 # unsortiert
-- [ ] spülmaschine anstellen
+- [x] spülmaschine anstellen
+- [ ] deutsch blatt splitten 
 - [ ] sitzplan 5c in obsidian 
 - [ ] Glasmüll weg
-- [ ] usb Stick passend formatieren 
+- [x] usb Stick passend formatieren 
 - [ ] wenn *mein Unterricht* für die 5c freigeschaltet ist:
 	- [ ] Anwesenheit eintragen: Glordi und Finlay lange abwesend
 	- [ ] Aufgabe aus Buch eintragen, was nicht erledigt als Hausaufgabe
