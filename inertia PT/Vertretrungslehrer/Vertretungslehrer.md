@@ -246,7 +246,8 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
 https://www.gew-hb.de/aktuelles/detailseite/aisha-eine-spurensuche
 
 [The Age of Aisha](https://youtu.be/ElM597LzxB8?si=h1d37uASqSBImuB0):
-
+- hadith mentioned by sahih bukhari & sahih muslim: married with 6 and consumed with 9
+- 
 
 
 ### Origin of hijab:
