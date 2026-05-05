@@ -233,7 +233,16 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
 ### Gedankenexperimente
 - [Schleier des Nichtwissens](https://www.youtube.com/watch?v=1cGYwwSg3fc)
   Wie soll ein Staat aufgebaut sein? Wieviel Gleichheit braucht es dazu? Und was ist überhaupt Gerechtigkeit? Mit diesen Fragen beschäftigt sich das philosophische Gedankenexperiment «Schleier des Nichtwissens». Sein Erfinder behauptet, Ungleichheit könne gerecht sein – sofern alle davon profitieren.
+- [MENSCHENFLEISCH](https://www.youtube.com/watch?v=QBBY04zTaXI&list=PL1u-zzk6SurZrva064nEiJX8-IFb5cNd7&index=2)
+  Stellen Sie sich vor: Aliens überfallen die Erde, nehmen uns Menschen gefangen und verspeisen das Fleisch unserer Kinder. Warum finden wir das falsch, obwohl wir mit Tieren dasselbe machen? Diese Frage stellt das philosophische Gedankenexperiment «Menschenfleisch».
+- [STRASSENBAHN](https://www.youtube.com/watch?v=MhOJp1DcabM&list=PL1u-zzk6SurZrva064nEiJX8-IFb5cNd7&index=3)
+  Was ist schlimmer: Fünf Menschen sterben lassen oder einen Menschen töten? Dürfen Menschenleben gegeneinander abgewogen werden? Um diese ethischen Fragen dreht sich das Gedankenexperiment «Strassenbahn», das uns die zwei wichtigsten Theorien der Moral näher bringt: Utilitarismus und Pflichtethik.
+- [Abtreibung](https://www.youtube.com/watch?v=8lZCmSZhIPo&list=PL1u-zzk6SurZrva064nEiJX8-IFb5cNd7&index=4)
+  Ungewollte Schwangerschaft – was tun? Was ist höher zu gewichten: die Selbstbestimmung der schwangeren Frau oder das Leben des Kindes? Um diese Fragen kreist das Gedankenexperiment «Geiger». Die Erfinderin argumentiert für die Selbstbestimmung der schwangeren Frau – und spricht von Notwehr.
+- [DAS SCHIFF DES THESEUS](https://www.youtube.com/watch?v=9zl8j7eq-Is)
+  Wer bin ich? Warum bin ich ich? Und wie kann ich mich selbst bleiben, wenn ich mich doch ständig verändere? Mit diesen Fragen beschäftigt sich eines der bekanntesten Gedankenexperimente der Philosophie: Das Schiff des Theseus.
 - 
+  
 ## Kunst
 - Kinder brauchen ein Anfang und ein Ende
 - Am ende jeder hinter hochgestellten Stuhl stellen und Endbesprechung machen (5 min vor Schluss, wenn alles aufgeräumt ist)
