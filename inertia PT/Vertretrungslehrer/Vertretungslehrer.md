@@ -239,8 +239,16 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
   Was ist schlimmer: Fünf Menschen sterben lassen oder einen Menschen töten? Dürfen Menschenleben gegeneinander abgewogen werden? Um diese ethischen Fragen dreht sich das Gedankenexperiment «Strassenbahn», das uns die zwei wichtigsten Theorien der Moral näher bringt: Utilitarismus und Pflichtethik.
 - [Abtreibung](https://www.youtube.com/watch?v=8lZCmSZhIPo&list=PL1u-zzk6SurZrva064nEiJX8-IFb5cNd7&index=4)
   Ungewollte Schwangerschaft – was tun? Was ist höher zu gewichten: die Selbstbestimmung der schwangeren Frau oder das Leben des Kindes? Um diese Fragen kreist das Gedankenexperiment «Geiger». Die Erfinderin argumentiert für die Selbstbestimmung der schwangeren Frau – und spricht von Notwehr.
-- [DAS SCHIFF DES THESEUS](https://www.youtube.com/watch?v=9zl8j7eq-Is)
+- [DAS SCHIFF DES THESEUS - Bin ich im Alter noch die selbe Person?](https://www.youtube.com/watch?v=9zl8j7eq-Is)
   Wer bin ich? Warum bin ich ich? Und wie kann ich mich selbst bleiben, wenn ich mich doch ständig verändere? Mit diesen Fragen beschäftigt sich eines der bekanntesten Gedankenexperimente der Philosophie: Das Schiff des Theseus.
+- [Materie oder Geist](https://www.youtube.com/watch?v=3Me1YDYK6tw)
+  Ist alles nur Materie und unser Geist letztlich nichts anderes als das Gehirn? Mit dieser Frage beschäftigt sich das Gedankenexperiment «Mary». Es möchte zeigen, dass unser bewusstes Erleben nicht auf physikalische Prozesse reduziert werden kann. Der Geist ist mehr als das Gehirn. Doch stimmt das?
+- [Existiert Gott](https://www.youtube.com/watch?v=TwnWnl3kf1I)
+  Können Sie beweisen, dass Gott existiert? Können Sie es widerlegen? Und woran sollte man glauben, wenn Gott weder beweis- noch widerlegbar ist? Diese Fragen stellt das Gedankenexperiment «Teekanne». Es möchte zeigen, dass die Nichtwiderlegbarkeit Gottes noch kein Grund ist, an ihn zu glauben.
+- [Gibt es Realität?](https://www.youtube.com/watch?v=6fYdfa_czw8)
+  Woher wissen wir, dass die Welt wirklich so ist, wie wir sie erleben? Könnte es sein, dass unser ganzes Leben eine Illusion ist? Mit diesen Fragen beschäftigt sich das philosophische Gedankenexperiment «Gehirn im Tank». Der Erfinder behauptet, es sei undenkbar, dass wir uns radikal täuschen.
+- [Gerechte Welt?](https://www.youtube.com/watch?v=7bwM_atwgyc)
+  Fast die Hälfte aller Menschen leben in Armut. Täglich sterben bis zu 25'000 Kinder an deren Folgen. Was tun? Wozu sind wir moralisch verpflichtet? Mit diesen Fragen beschäftigt sich das Gedankenexperiment «Kind im Teich». Der Erfinder meint, es sei unsere Pflicht, mehr zu spenden.
 - 
   
 ## Kunst
