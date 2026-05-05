@@ -1,6 +1,7 @@
 - [ ] toast
 - [ ] schoko chips
-- [ ] hafer
+- [ ] hafermilch
+- [ ] schoki
 - [ ] grüne Erbsen 
 - [ ] tofu
 - [x] schokomüsli
