@@ -3,6 +3,7 @@
 - [ ] hafermilch
 - [ ] schoki
 - [ ] grüne Erbsen 
+- [ ] Chipotle mayo
 - [ ] tofu
 - [x] schokomüsli
 - [x] bananen
