@@ -257,9 +257,14 @@ Narated By ‘Aisha : The wives of the Prophet used to go to Al-Manasi, a vast o
 ⟹ allah hat die verse von al-hijab - komplette Körperbedeckung, die die Augen ausschließt - offenbart 
 ⟹ Mohammed hat seine Frauen verschleiert 
 
-Sahih bukari 8:74:257
+Sahih bukhari 8:74:257
 Sahih muslim 26:5398
 Sahih muslim 26:5397
+
+**Sahih bukhar 6:60:10:**
+Narrated By Anas : Umar said, “I agreed with Allah in three things,” or said, “My Lord agreed with me in three things. I said, ‘O Allah’s Apostle! Would that you took the station of Abraham as a place of prayer.’ I also said, ‘O Allah’s Apostle! Good and bad persons visit you! Would that you ordered the Mothers of the believers to cover themselves with veils.’ So the Divine Verses of Al-Hijab (i.e. veiling of the women) were revealed. I came to know that the Prophet had blamed some of his wives so I entered upon them and said, ‘You should either stop (troubling the Prophet) or else Allah will give His Apostle better wives than you.’ When I came to one of his wives, she said to me, ‘O ‘Umar! Does Allah’s Apostle haven’t what he could advise his wives with, that you try to advise them?’ ” Thereupon Allah revealed:
+
+“It may be, if he divorced you (all) his Lord will give him instead of you, wives better than you Muslims (who submit to Allah)…” (66.5)
 
 ## Klassenkonferenz
 ### 26-05-04 (14:30 - 16:30) Gesamtkonferenz
