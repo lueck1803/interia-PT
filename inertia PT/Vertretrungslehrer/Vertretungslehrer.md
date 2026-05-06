@@ -624,3 +624,21 @@ Kooperation: Erfordert enge Absprache und ein "Stimmen der Chemie".
 Struktur: Oft schwer finanzierbar, was die Umsetzung in inklusiven Settings erschwert. 
 
 Im Rahmen der Lehrerausbildung wird die Doppelbesetzung auch genutzt, um LiV (Lehrer im Vorbereitungsdienst) durch Mentoren zu begleiten. 
+
+# Konversationen
+
+## 26-05-06
+Vielen Dank für die Wertschätzung.
+
+Ich hatte ja bereits gestern mit ihm gesprochen und ihn daraufhin gewiesen dass er auch die kleinen Steinchen nicht in die Richtung anderer zu werfen hat, ob absichtlich oder nicht, wenn diese ins Auge gehen richten diese ebenso Schaden an.
+
+Ich denke aber auch dass es sinnvoll ist, wenn sie ihn auch nochmal angesprechen.
+
+Vielleicht fühlen sich dann alle Parteien gesehen. 
+
+Die Mädchen schienen für den Moment verstanden zu haben, wie solche Dynamiken ablaufen, sie selbst es in der Hand haben diese Kaskaden zu unterbrechen und ansonsten selbst die Leidtragenden ihres Verhaltens sind. 
+
+Freundliche Grüße 
+Lukas 
+wir nicht überall gleichzeitig sein können, auch nur eine beschränkte Aufmerksamkeit und Informationen haben,  ihr Anliegen wahrgenommen wird, 
+
