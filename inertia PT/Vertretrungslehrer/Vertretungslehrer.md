@@ -207,7 +207,7 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
 		- ~={green} man sollte an politischen debatten erst teilnehmen, wenn man die position der gegner so artikulieren kann, dass die gegner diese artikulation akzeptieren=~
 		- ⤷ erst dann die politische Gegenseite so verstanden hat, dass man darüber reden kann, wer eigentlich recht hat
 		- ⤷ es geht dabei nicht darum die andere Seite zu übernehmen, sondern erstmal auf ein level zu kommen
-	- die günstigste Variante des Gegners annehmen. ~={Gold}The benefit of the doubt.=~
+	- die günstigste Variante des Gegners annehmen. ~={Gold}The benefit of the doubt.=~ <span style="font-size:100%;color:gold;">The benefit of the doubt.</span>
 - ihr seid im Internet und auf social Media unterwegs?
 - ihr hattet Streit mit einem Freund?
 - Eure Eltern haben euch etwas verboten?
