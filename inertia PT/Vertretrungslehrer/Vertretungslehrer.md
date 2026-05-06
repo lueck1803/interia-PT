@@ -100,7 +100,7 @@ Ich übernehme:
 - 6. 12:20 - 13:05
 ## Raumplan 
 
-![](BAS-Raumverteilung-25-26.jpeg)
+![](Images/BAS/BAS-Raumverteilung-25-26.jpeg)
 
 
 ## Stundenplan
@@ -124,8 +124,13 @@ Arbeitsstunden KW 19:
 		- 3./4. 5b (R23)
 	- Fr: 
 		- 3./4. 5b
-![](Pasted%20image%2020260429141731.png)
+![](Images/BAS/Pasted%20image%2020260429141731.png)
 ![](Pasted%20image%2020260429141814.png)
+
+## Sitzpläne
+### 5c
+
+![[../../2026-05-04 13.08.30.jpg]]
 ## Deutsch
 
 - bis zur 7. klasse allgemein keine Rechtschreibung bewerten.
@@ -136,7 +141,6 @@ Arbeitsstunden KW 19:
 - Und dann hatten wir jetzt ein bisschen Wortarten wiederholt: Nomen, Verben konjugieren im Präsenz, Präteritum und Futur, aber das noch nicht intensiv.
 	- [ ] dazu Übungsblätter suchen 
 	- [ ] bzw. unterricht überlegen
-
 ### Timeline
 #### 26-05-04
 - Begrüßung
