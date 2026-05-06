@@ -1,7 +1,8 @@
 - ich~={RedRed} will meine Arbeit Publikations fähig machen=~
 # unsortiert
-- [ ] spülmaschine ausräumen 
-- [ ] noch mal ausprobieren, wie man nur gewisse seiten einer pdf vom usb stick drucken kann
+- [x] spülmaschine ausräumen 
+- [x] noch mal ausprobieren, wie man nur gewisse seiten einer pdf vom usb stick drucken kann
+	- [ ] ne geht nicht
 - [ ] Zeug in Kursmappe eintragen
 	- [ ] notieren wie die Stunden abliefen
 - [x] stunden für heute und gestern aufschreiben wegen ssv falls der Vertrag ab gestern gilt 
