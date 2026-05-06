@@ -100,7 +100,7 @@ Ich übernehme:
 - 6. 12:20 - 13:05
 ## Raumplan 
 
-![](BAS-Raumverteilung-25-26.jpeg)
+![](Images/BAS/BAS-Raumverteilung-25-26.jpeg)
 
 
 ## Stundenplan
@@ -124,8 +124,13 @@ Arbeitsstunden KW 19:
 		- 3./4. 5b (R23)
 	- Fr: 
 		- 3./4. 5b
-![](Pasted%20image%2020260429141731.png)
-![](Pasted%20image%2020260429141814.png)
+![](Images/BAS/Pasted%20image%2020260429141731.png)
+![](Images/BAS/Pasted%20image%2020260429141814.png)
+
+## Sitzpläne
+### 5c
+
+![[Images/BAS/2026-05-04 13.08.30.jpg]]
 ## Deutsch
 
 - bis zur 7. klasse allgemein keine Rechtschreibung bewerten.
@@ -136,7 +141,6 @@ Arbeitsstunden KW 19:
 - Und dann hatten wir jetzt ein bisschen Wortarten wiederholt: Nomen, Verben konjugieren im Präsenz, Präteritum und Futur, aber das noch nicht intensiv.
 	- [ ] dazu Übungsblätter suchen 
 	- [ ] bzw. unterricht überlegen
-
 ### Timeline
 #### 26-05-04
 - Begrüßung
@@ -196,14 +200,14 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
 ## Ethik
 - [ ] ideologischer Turing Test
 	- ~={underline}Turning Test der 60iger: =~sitzt hinter einer Wand und soll entscheiden ob man mit einer KI oder einem menschen auf der anderen Seite der wand spricht ⟹ wenn man nicht mehr unterscheiden kann, dann hat die KI den Test bestanden und ihr wird menschliche intelligenz zu gesprochen
-	- ~={underline}ideologischer Turing test=~: ich meinem gegner erklären soll, was ~={underline}er denkt=~, so dass sagen kann ~={underline}genauso denke ich=~ ⟹ ideologischer turing test bestanden 
+	- ~={underline}ideologischer Turing test=~: meinem Debattengegner erklären, was ~={underline}er denkt=~ bzw. was dessen Positionen sind und wie er zu diesen kommt, so dass dieser sagen kann ~={underline}genauso denke ich=~ ⟹ ideologischer turing test bestanden 
 		- ⟹ sollte man immer versuchen, bevor man sich auf eine debatte einlässt
 		- ~={RedRed}wir neigen immer dazu die andere Seite zu dämonisieren und als korrupt, verblödet oder bösartig darzustellen=~
 		- ~={LightBlue}wenig verständnis dafür, dass Vielleicht die moralischen und politischen Überzeugungen der gegenseite oder als solche wahrgenommen Gegenseite vielleicht gar nicht so übel sein können=~
 		- ~={green} man sollte an politischen debatten erst teilnehmen, wenn man die position der gegner so artikulieren kann, dass die gegner diese artikulation akzeptieren=~
 		- ⤷ erst dann die politische Gegenseite so verstanden hat, dass man darüber reden kann, wer eigentlich recht hat
 		- ⤷ es geht dabei nicht darum die andere Seite zu übernehmen, sondern erstmal auf ein level zu kommen
-	- die günstigste Variante des Gegners annehmen. ~={Gold}The benefit of the doubt.=~
+	- die günstigste Variante des Gegners annehmen. ~={Gold}The benefit of the doubt.=~ <span style="font-size:100%;color:gold;">The benefit of the doubt.</span>
 - ihr seid im Internet und auf social Media unterwegs?
 - ihr hattet Streit mit einem Freund?
 - Eure Eltern haben euch etwas verboten?
