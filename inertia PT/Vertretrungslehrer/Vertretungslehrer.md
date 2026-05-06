@@ -125,12 +125,12 @@ Arbeitsstunden KW 19:
 	- Fr: 
 		- 3./4. 5b
 ![](Images/BAS/Pasted%20image%2020260429141731.png)
-![](Pasted%20image%2020260429141814.png)
+![](Images/BAS/Pasted%20image%2020260429141814.png)
 
 ## Sitzpläne
 ### 5c
 
-![[../../2026-05-04 13.08.30.jpg]]
+![[Images/BAS/2026-05-04 13.08.30.jpg]]
 ## Deutsch
 
 - bis zur 7. klasse allgemein keine Rechtschreibung bewerten.
