@@ -1,5 +1,5 @@
 - [x] toast
-- [ ] schoko chips
+- [x] schoko chips
 - [ ] hafermilch
 - [x] schoki
 - [x] Nusskati 
