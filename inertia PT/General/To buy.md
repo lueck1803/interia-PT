@@ -1,8 +1,8 @@
-- [ ] toast
+- [x] toast
 - [ ] schoko chips
 - [ ] hafermilch
 - [x] schoki
-- [ ] Nusskati 
+- [x] Nusskati 
 - [ ] grüne Erbsen 
 - [ ] Chipotle mayo
 - [ ] tofu
