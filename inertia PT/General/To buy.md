@@ -1,6 +1,6 @@
+- [ ] hafermilch
 - [x] toast
 - [x] schoko chips
-- [ ] hafermilch
 - [x] schoki
 - [x] Nusskati 
 - [ ] grüne Erbsen 
