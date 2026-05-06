@@ -2,6 +2,7 @@
 - [ ] schoko chips
 - [ ] hafermilch
 - [ ] schoki
+- [ ] Nusskati 
 - [ ] grüne Erbsen 
 - [ ] Chipotle mayo
 - [ ] tofu
