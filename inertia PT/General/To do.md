@@ -5,19 +5,16 @@
 	- [ ] ne geht nicht
 - [ ] Zeug in Kursmappe eintragen
 	- [ ] notieren wie die Stunden abliefen
-- [x] stunden für heute und gestern aufschreiben wegen ssv falls der Vertrag ab gestern gilt 
 - [ ] sitzplan 5c in obsidian 
 - [ ] Glasmüll weg
 - [ ] wenn *mein Unterricht* für die 5c freigeschaltet ist:
 	- [ ] Anwesenheit eintragen: Glordi und Finlay lange abwesend
 	- [ ] Aufgabe aus Buch eintragen, was nicht erledigt als Hausaufgabe
-- [x] jamil ne mail oder whatsapp
-	- [x] schul-ID / dienstmail ?
-	- [x] mein Unterricht heute
 - [ ] Deutsch Schulbuch Material anschauen
+	- [ ] hab ich wieder in den Schrank getan 🫣
 - [ ] Mich nach Unternehmen umschauen, was ich nach dem Master mache?
-- [ ] Wäsche zusammen legen 
-- [ ] kartoffeln zu bereiten
+- [x] Wäsche zusammen legen 
+- [x] kartoffeln zu bereiten
 - [ ] konto heute checken
 - [ ] mir ein aktuelles deutsch schulbuch besorgen
 - [x] schauen ob ich die Aufgaben von heute im neuen Buch finde
@@ -70,10 +67,10 @@
 		- [ ] ist es ethisch vertretbar einer gruppe ein Placebo zu geben
 		- [ ] Wann ist das ok, wann ist das nicht ok?
 	- [ ] ein film / ausschnitt aus einer diskussion zeigen
-- [ ] Ethik Arbeit anschauen
+- [x] Ethik Arbeit anschauen
 - [x] eventuell Jugendbuch mit 5c in Deutsch 
-	- [ ] ⟹ ist verworfen, da wir nicht so viel Zeit haben, wir machen Grammatik
-	- [ ] "Herr der Diebe" hat 400 Seiten, ist zu lang
+	- ⟹ ist verworfen, da wir nicht so viel Zeit haben, wir machen Grammatik
+	- "Herr der Diebe" hat 400 Seiten, ist zu lang
 - [x] dem Hausmeister ne Mail wegen Kunstschrank Schlüssel (daniel.mroczek@darmstadt.de)
 	- [ ] noch ne Mail wegen parkplatzschlüssel, da es im Sekretariat keinen mehr zu geben scheint
 - [ ] Lehrplan Realschule lesen
@@ -685,6 +682,10 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] <span style="color:coral">paartherapie S3 runterladen</span>
 
 # Alt
+- [x] stunden für heute und gestern aufschreiben wegen ssv falls der Vertrag ab gestern gilt 
+- [x] jamil ne mail oder whatsapp
+	- [x] schul-ID / dienstmail ?
+	- [x] mein Unterricht heute
 - [x] Zeug von Mero und Tabea wieder in deren Fach legen
 - [x] Material von Mero einscannen
 - [x] Material von Tabea 

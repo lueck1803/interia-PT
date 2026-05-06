@@ -111,6 +111,11 @@ Arbeitsstunden KW 19:
 	- deu 1/2
 	- span 3/4 7b lea
 	- eth 5/6
+- 6.5: 
+	- kunst 3/4 rot
+	- kunst 5/6 rot
+
+---
 - KW 19: 
 	- Mo:
 		- vermutlich übernehme ich die 3./4. am Montag 5a
