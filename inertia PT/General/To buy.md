@@ -1,7 +1,7 @@
 - [ ] toast
 - [ ] schoko chips
 - [ ] hafermilch
-- [ ] schoki
+- [x] schoki
 - [ ] Nusskati 
 - [ ] grüne Erbsen 
 - [ ] Chipotle mayo
