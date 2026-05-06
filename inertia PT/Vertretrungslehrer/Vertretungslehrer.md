@@ -200,7 +200,7 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
 ## Ethik
 - [ ] ideologischer Turing Test
 	- ~={underline}Turning Test der 60iger: =~sitzt hinter einer Wand und soll entscheiden ob man mit einer KI oder einem menschen auf der anderen Seite der wand spricht ⟹ wenn man nicht mehr unterscheiden kann, dann hat die KI den Test bestanden und ihr wird menschliche intelligenz zu gesprochen
-	- ~={underline}ideologischer Turing test=~: meinem Debattengegner erklären, was ~={underline}er denkt=~, so dass dieser sagen kann ~={underline}genauso denke ich=~ ⟹ ideologischer turing test bestanden 
+	- ~={underline}ideologischer Turing test=~: meinem Debattengegner erklären, was ~={underline}er denkt=~ bzw. was dessen Positionen sind und wie er zu diesen kommt, so dass dieser sagen kann ~={underline}genauso denke ich=~ ⟹ ideologischer turing test bestanden 
 		- ⟹ sollte man immer versuchen, bevor man sich auf eine debatte einlässt
 		- ~={RedRed}wir neigen immer dazu die andere Seite zu dämonisieren und als korrupt, verblödet oder bösartig darzustellen=~
 		- ~={LightBlue}wenig verständnis dafür, dass Vielleicht die moralischen und politischen Überzeugungen der gegenseite oder als solche wahrgenommen Gegenseite vielleicht gar nicht so übel sein können=~
