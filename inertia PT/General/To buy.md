@@ -4,7 +4,7 @@
 - [x] schoki
 - [x] Nusskati 
 - [ ] grüne Erbsen 
-- [ ] Chipotle mayo
+- [x] Chipotle mayo
 - [ ] tofu
 - [x] schokomüsli
 - [x] bananen
