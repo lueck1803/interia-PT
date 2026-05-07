@@ -150,7 +150,9 @@ Handschriftliche Anmerkung:
 | der (Baum) | dem (Baum)  | den (Bäume)~={DeepSkyBlue}n=~  |
 | die (Maus) | der (Maus)  | den (Mäuse)~={DeepSkyBlue}n=~  |
 | das (Kind) | dem (Kind)  | den (Kinder)~={DeepSkyBlue}n=~ |
-
+**Kurzform passt wunderbar im Kasten unter: 3. Fall**
+<u>sg:</u> der/das -> dem       die    -> der
+<u>pl:</u> die -> den +n
  
 #### 26-05-04
 - Begrüßung
