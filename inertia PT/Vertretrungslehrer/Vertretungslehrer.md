@@ -145,11 +145,11 @@ Arbeitsstunden KW 19:
 ##### 26-05-07
 Handschriftliche Anmerkung:
 
-| Nominativ  | Dativ (sg.) | Dativ (pl)                     |
-| ---------- | ----------- | ------------------------------ |
-| der (Baum) | dem (Baum)  | den (Bäume)~={DeepSkyBlue}n=~  |
-| die (Maus) | der (Maus)  | den (Mäuse)~={DeepSkyBlue}n=~  |
-| das (Kind) | dem (Kind)  | den (Kinder)~={DeepSkyBlue}n=~ |
+| Nominativ  | Dativ (sg.) | Dativ (pl)                     | Genitiv (sg.)                       |
+| ---------- | ----------- | ------------------------------ | ----------------------------------- |
+| der (Baum) | dem (Baum)  | den (Bäume)~={DeepSkyBlue}n=~  | des (Baum)~={MediumTurquoise}(e)s=~ |
+| das (Kind) | dem (Kind)  | den (Kinder)~={DeepSkyBlue}n=~ | des (Kind)~={MediumTurquoise}(e)s=~ |
+| die (Maus) | der (Maus)  | den (Mäuse)~={DeepSkyBlue}n=~  | der Ma                              |
 **Kurzform passt wunderbar im Kasten unter: 3. Fall**
 <u>sg:</u> der/das -> dem       die    -> der
 <u>pl:</u> die -> den +n
