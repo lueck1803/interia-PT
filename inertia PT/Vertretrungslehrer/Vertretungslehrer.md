@@ -145,11 +145,11 @@ Arbeitsstunden KW 19:
 ##### 26-05-07
 Handschriftliche Anmerkung:
 
-| Nominativ  | Genitiv (sg.)                       | Genitiv (pl.) | Dativ (sg.) | Dativ (pl)                     | Akkusativ (sg) |
-| ---------- | ----------------------------------- | ------------- | ----------- | ------------------------------ | -------------- |
-| der (Baum) | des (Baum)~={MediumTurquoise}(e)s=~ | der (Bäume)   | dem (Baum)  | den (Bäume)~={DeepSkyBlue}n=~  | den (Baum)     |
-| das (Kind) | des (Kind)~={MediumTurquoise}(e)s=~ | der (Kinder)  | dem (Kind)  | den (Kinder)~={DeepSkyBlue}n=~ |                |
-| die (Maus) | der (Maus)                          | der (Mäuse)   | der (Maus)  | den (Mäuse)~={DeepSkyBlue}n=~  |                |
+| Nominativ  | Nominativ (pl) | Genitiv (sg.)                       | Genitiv (pl.) | Dativ (sg.) | Dativ (pl)                     | Akkusativ (sg) | Akkusativ (pl) |
+| ---------- | -------------- | ----------------------------------- | ------------- | ----------- | ------------------------------ | -------------- | -------------- |
+| der (Baum) | die (Bäume)    | des (Baum)~={MediumTurquoise}(e)s=~ | der (Bäume)   | dem (Baum)  | den (Bäume)~={DeepSkyBlue}n=~  | den (Baum)     | die (Bäume)    |
+| das (Kind) | die (Kinder)   | des (Kind)~={MediumTurquoise}(e)s=~ | der (Kinder)  | dem (Kind)  | den (Kinder)~={DeepSkyBlue}n=~ | das (Kind)     | die (Kinder)   |
+| die (Maus) | die (Mäuse)    | der (Maus)                          | der (Mäuse)   | der (Maus)  | den (Mäuse)~={DeepSkyBlue}n=~  | die (Maus)     | die (Mäuse)    |
 ~={MediumTurquoise}Genitiv=~
 <u>sg:</u> der/das -> des +(e)s     die -> der
 <u>pl:</u> die -> der 
