@@ -144,9 +144,14 @@ Arbeitsstunden KW 19:
 ### Timeline
 ##### 26-05-07
 Handschriftliche Anmerkung:
-|Nominativ|Dativ (sg.)| Dativ (pl)|
-|--
-der 
+
+| Nominativ  | Dativ (sg.) | Dativ (pl)                    |
+| ---------- | ----------- | ----------------------------- |
+| der (Baum) | dem (Baum)  | den (Bäume)~={DeepSkyBlue}n=~ |
+| die (Maus) | der (Maus)  | den (Mäuse)~={DeepSkyBlue}n=~ |
+| das ()     |             |                               |
+
+ 
 #### 26-05-04
 - Begrüßung
 - Anwesenheit
