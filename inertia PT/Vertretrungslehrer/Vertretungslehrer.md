@@ -145,14 +145,21 @@ Arbeitsstunden KW 19:
 ##### 26-05-07
 Handschriftliche Anmerkung:
 
-| Nominativ  | Dativ (sg.) | Dativ (pl)                     | Genitiv (sg.)                       |
-| ---------- | ----------- | ------------------------------ | ----------------------------------- |
-| der (Baum) | dem (Baum)  | den (Bäume)~={DeepSkyBlue}n=~  | des (Baum)~={MediumTurquoise}(e)s=~ |
-| das (Kind) | dem (Kind)  | den (Kinder)~={DeepSkyBlue}n=~ | des (Kind)~={MediumTurquoise}(e)s=~ |
-| die (Maus) | der (Maus)  | den (Mäuse)~={DeepSkyBlue}n=~  | der Ma                              |
+| Nominativ  | Genitiv (sg.)                       | Genitiv (pl.) | Dativ (sg.) | Dativ (pl)                     |
+| ---------- | ----------------------------------- | ------------- | ----------- | ------------------------------ |
+| der (Baum) | des (Baum)~={MediumTurquoise}(e)s=~ | der (Bäume)   | dem (Baum)  | den (Bäume)~={DeepSkyBlue}n=~  |
+| das (Kind) | des (Kind)~={MediumTurquoise}(e)s=~ | der (Kinder)  | dem (Kind)  | den (Kinder)~={DeepSkyBlue}n=~ |
+| die (Maus) | der (Maus)                          | der (Mäuse)   | der (Maus)  | den (Mäuse)~={DeepSkyBlue}n=~  |
+~={MediumTurquoise}Genitiv=~
+<u>sg:</u> der/das -> des +(e)s     die -> der
+<u>pl:</u> die -> der 
+
+~={DeepSkyBlue}Dativ=~
 **Kurzform passt wunderbar im Kasten unter: 3. Fall**
 <u>sg:</u> der/das -> dem       die    -> der
 <u>pl:</u> die -> den +n
+
+~={Gold}Akuss=~
  
 #### 26-05-04
 - Begrüßung
