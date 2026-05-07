@@ -1352,6 +1352,10 @@ Tage produktiv gewesen:
 - Alle Bilddateien (pdf, jpg), mit der passenden Dateiendung (\*.ext) werden in ein Dokument zusammengefügt.
   `{bash} pdftk *.ext cat output Dokument_Name.pdf`
 - <span style="font-size:100%;color: orange;">Scanner Software unter Linux</span> ⟹Scan Gear <br>PdfTK unnötig, da hier bereits Shuffle Funktion integriert ist 
+- Pdf in Einzelseiten
+  `{bash} pdftk document.pdf burst`
+- Extract pages
+  `{bash} pdftk full-pdf.pdf cat pStart-pEnd output outfile_pStart-pEnd.pdf`
 # Signal
 - Video sending problem:
   ![](Pasted%20image%2020251221172346.png)
