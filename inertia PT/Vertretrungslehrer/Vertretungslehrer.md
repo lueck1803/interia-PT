@@ -145,11 +145,11 @@ Arbeitsstunden KW 19:
 ##### 26-05-07
 Handschriftliche Anmerkung:
 
-| Nominativ  | Genitiv (sg.)                       | Genitiv (pl.) | Dativ (sg.) | Dativ (pl)                     |
-| ---------- | ----------------------------------- | ------------- | ----------- | ------------------------------ |
-| der (Baum) | des (Baum)~={MediumTurquoise}(e)s=~ | der (Bäume)   | dem (Baum)  | den (Bäume)~={DeepSkyBlue}n=~  |
-| das (Kind) | des (Kind)~={MediumTurquoise}(e)s=~ | der (Kinder)  | dem (Kind)  | den (Kinder)~={DeepSkyBlue}n=~ |
-| die (Maus) | der (Maus)                          | der (Mäuse)   | der (Maus)  | den (Mäuse)~={DeepSkyBlue}n=~  |
+| Nominativ  | Genitiv (sg.)                       | Genitiv (pl.) | Dativ (sg.) | Dativ (pl)                     | Akkusativ (sg) |
+| ---------- | ----------------------------------- | ------------- | ----------- | ------------------------------ | -------------- |
+| der (Baum) | des (Baum)~={MediumTurquoise}(e)s=~ | der (Bäume)   | dem (Baum)  | den (Bäume)~={DeepSkyBlue}n=~  | den (Baum)     |
+| das (Kind) | des (Kind)~={MediumTurquoise}(e)s=~ | der (Kinder)  | dem (Kind)  | den (Kinder)~={DeepSkyBlue}n=~ |                |
+| die (Maus) | der (Maus)                          | der (Mäuse)   | der (Maus)  | den (Mäuse)~={DeepSkyBlue}n=~  |                |
 ~={MediumTurquoise}Genitiv=~
 <u>sg:</u> der/das -> des +(e)s     die -> der
 <u>pl:</u> die -> der 
@@ -159,7 +159,10 @@ Handschriftliche Anmerkung:
 <u>sg:</u> der/das -> dem       die    -> der
 <u>pl:</u> die -> den +n
 
-~={Gold}Akuss=~
+~={Gold}Akkusativ=~
+<u>sg:</u> der -> den 
+
+in den anderen Fällen bleibt der Artikel erhalten
  
 #### 26-05-04
 - Begrüßung
