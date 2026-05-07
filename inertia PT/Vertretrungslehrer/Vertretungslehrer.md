@@ -142,6 +142,11 @@ Arbeitsstunden KW 19:
 	- [ ] dazu Übungsblätter suchen 
 	- [ ] bzw. unterricht überlegen
 ### Timeline
+##### 26-05-07
+Handschriftliche Anmerkung:
+|Nominativ|Dativ (sg.)| Dativ (pl)|
+|--
+der 
 #### 26-05-04
 - Begrüßung
 - Anwesenheit
