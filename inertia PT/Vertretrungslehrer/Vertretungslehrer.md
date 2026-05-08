@@ -150,8 +150,19 @@ Arbeitsstunden KW 19:
 	- abdulrahman
 	- marvellous
 	- kevin
+	- pavlo
+	- elena
 - ok mitgemacht:
-	- 
+	- naz
+	- hajar
+	- precious
+	- dunja
+- sehr gut mitgemacht:
+	- yasemin
+	- amlia
+	- neue
+	- die neben neuer
+
 ##### 26-05-07
 Handschriftliche Anmerkung:
 
