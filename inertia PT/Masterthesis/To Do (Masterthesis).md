@@ -1443,15 +1443,31 @@ $$
 		- ideal:
 			- sie kommen gerne
 			- sie arbeiten selbstständig
-			- interaktion mit nachbarn (kurzreichweitige WW), next neighbor interaction
+			- ich kann vertrauen,
+				- wenn ich mich umdrehe
+				- ich aus der klasse gehe
+				- einzelperson wegschicke
+				- die kinder in anderen situationen sind
+					- schulhof
+					- zu hause
+					- freizeit
+			- sie denken weiter
+			- kommen mit fragen zu einem 
+
+- Modellierung:
+	- interaktion mit nachbarn (kurzreichweitige WW), next neighbor interaction
 				- nicht vom arbeiten abhalten (neutral)
 				- stören nachbarn aktiv (negativ)
 				- beruhigen nachbarn (positiv)
 				- befördern nachbarn zum lernen (sehr positiv)
 				- helfen nachbarn bei gewissen aufgabenstellungen (extrem positiv)
-			- WW in teilgruppe: 
+	- WW in teilgruppe: 
 				- explizite freunde
 				- lose schulhoffreunde
 				- Kernklasse
 				- fachunterricht klasse
-				- 
+				- jahrgang
+				- schule
+	- WW zwischen teilgruppen
+	- perkolation
+	- lossfunction
