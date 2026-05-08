@@ -144,7 +144,7 @@ Arbeitsstunden KW 19:
 	- [ ] dazu Übungsblätter suchen 
 	- [ ] bzw. unterricht überlegen
 ### Timeline
-##### 26-05-08 Vertretung fr kaya
+##### 26-05-08 5a Vertretung fr kaya
 - ok mitgemacht:
 	- naz
 	- hajar
