@@ -1443,4 +1443,15 @@ $$
 		- ideal:
 			- sie kommen gerne
 			- sie arbeiten selbstständig
-			- sie halten den nachbarn 
+			- interaktion mit nachbarn (kurzreichweitige WW), next neighbor interaction
+				- nicht vom arbeiten abhalten (neutral)
+				- stören nachbarn aktiv (negativ)
+				- beruhigen nachbarn (positiv)
+				- befördern nachbarn zum lernen (sehr positiv)
+				- helfen nachbarn bei gewissen aufgabenstellungen (extrem positiv)
+			- WW in teilgruppe: 
+				- explizite freunde
+				- lose schulhoffreunde
+				- Kernklasse
+				- fachunterricht klasse
+				- 
