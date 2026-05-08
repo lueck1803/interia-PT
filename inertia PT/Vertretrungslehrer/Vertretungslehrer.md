@@ -145,6 +145,11 @@ Arbeitsstunden KW 19:
 	- [ ] bzw. unterricht überlegen
 ### Timeline
 ##### 26-05-08 Vertretung fr kaya
+- ok mitgemacht:
+	- naz
+	- hajar
+	- precious
+	- dunja
 - gut mit gemacht: 
 	- yasser
 	- abdulrahman
@@ -152,11 +157,6 @@ Arbeitsstunden KW 19:
 	- kevin
 	- pavlo
 	- elena
-- ok mitgemacht:
-	- naz
-	- hajar
-	- precious
-	- dunja
 - sehr gut mitgemacht:
 	- yasemin
 	- amlia
