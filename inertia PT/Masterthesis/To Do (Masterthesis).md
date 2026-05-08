@@ -1381,4 +1381,4 @@ $$
 ![[Pasted image 20260407132320.png]]![[Pasted image 20260407132336.png]]
 
 
-# 
+# Forschungsidee
