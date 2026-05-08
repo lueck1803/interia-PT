@@ -1434,5 +1434,6 @@ $$
 				- krach
 				- energieverbrauch durch arbeit
 				- schlechte bewertungen
+				- sprachbarrieren
 - videoaufzeichnungen vom verhalten einer klasse, des ablaufs einer schulstunde
 - 
