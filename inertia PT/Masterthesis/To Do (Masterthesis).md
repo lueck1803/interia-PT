@@ -1385,8 +1385,18 @@ $$
 - phasenübergänge in Lernumgebungen
 	- beobachtetes system: Klasse zb. 5c an der BAS
 	- schüler sind aktive materie
+		- 
 	- phasenübergang: chaos -> ruhe
-	- perkolation: brände eindämmen
-	- 
-	- 
+		- physikalisch optimale methode: wie schafft man es ruhe in ein system hineinzubringen, dass chaotisch ist:
+			- schulklasse
+	- perkolation: 
+		- brände eindämmen: Vertrauens 
+	- Lehrerkeimzelle für phasenübergänge, um lokal die energie zu minimieren
+	- Energieminimierung:
+		- lehrer will energie minimieren: 
+			- was ist dessen messgröße für guten Unterricht
+			- ruhe in der klasse
+			- der schein, dass alle mitarbeiten
+			- ein guter schnitt in der klassenarbeit
+		- schüler wollen eigene Energie minimieren
 - videoaufzeichnungen
