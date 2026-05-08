@@ -129,10 +129,10 @@ Arbeitsstunden KW 19:
 
 ## Sitzpläne
 ### 5a
-~={RedRed}eintragen=~
+![](Sitzplan_5a.jpeg)
 ### 5c
 
-![[Images/BAS/2026-05-04 13.08.30.jpg]]
+![[Sitzplan_5c.jpg]]
 ## Deutsch
 
 - bis zur 7. klasse allgemein keine Rechtschreibung bewerten.
