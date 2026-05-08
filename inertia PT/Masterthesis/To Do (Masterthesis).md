@@ -1386,7 +1386,7 @@ $$
 	- beobachtetes system: Klasse zb. 5c an der BAS
 	- schüler sind aktive materie
 		- 
-	- phasenübergang: chaos -> ruhe
+	- phasenübergang: chaos -> ruhe -> produktive atmosphäre 
 		- physikalisch optimale methode: wie schafft man es ruhe in ein system hineinzubringen, dass chaotisch ist:
 			- schulklasse
 			- staaten
@@ -1414,6 +1414,8 @@ $$
 				- demotiviert/ich kann es nicht
 			- energie quelle: 
 				- motivation
+					- intrinsich
+					- extrinsich 
 				- Bedürfnisse erfüllt
 					- toilette
 					- essen
@@ -1436,4 +1438,9 @@ $$
 				- schlechte bewertungen
 				- sprachbarrieren
 - videoaufzeichnungen vom verhalten einer klasse, des ablaufs einer schulstunde
-- 
+- ziel: phasenübergang zur positv bestärkenden arbeitsatmosphäre: systeme: schulklasse, schule, stadt, staat, region, krieg, paniksituation
+	- klasse:
+		- ideal:
+			- sie kommen gerne
+			- sie arbeiten selbstständig
+			- sie halten den nachbarn 
