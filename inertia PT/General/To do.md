@@ -1,6 +1,7 @@
 - ich~={RedRed} will meine Arbeit Publikations fähig machen=~
 # unsortiert
 - [x] spülmaschine ausräumen 
+- [ ] Regenjacke blau reinigen - textilreiniger
 - [x] noch mal ausprobieren, wie man nur gewisse seiten einer pdf vom usb stick drucken kann
 	- [ ] ne geht nicht
 - [ ] Zeug in Kursmappe eintragen
