@@ -1382,3 +1382,11 @@ $$
 
 
 # Forschungsidee
+- phasenübergänge in Lernumgebungen
+	- beobachtetes system: Klasse zb. 5c an der BAS
+	- schüler sind aktive materie
+	- phasenübergang: chaos -> ruhe
+	- perkolation: brände eindämmen
+	- 
+	- 
+- videoaufzeichnungen
