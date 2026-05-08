@@ -1392,7 +1392,11 @@ $$
 			- staaten
 			- menschenmengen
 	- perkolation: 
-		- brände eindämmen: Vertrauens 
+		- brände eindämmen (negativ) - das keine störungen entstehen:
+			- Vertrauensherde schaffen
+		- schüler stecken sich mit motivation an 
+		- helfen sich gegenseitig und begeistern sich
+		- wollen sich in der gruppe vor störquellen beschützen und sich gegenseitig postiv verstärken
 	- Lehrerkeimzelle für phasenübergänge, um lokal die energie zu minimieren
 	- Energieminimierung:
 		- lehrer will energie minimieren: 
@@ -1421,6 +1425,7 @@ $$
 							- durch lehrer
 							- eltern
 							- mitschüler
+						- psychisch stabil
 				- angst vor bestrafung
 			- energie kosten:
 				- zwang 
