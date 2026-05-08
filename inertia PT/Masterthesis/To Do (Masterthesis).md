@@ -1410,11 +1410,24 @@ $$
 				- demotiviert/ich kann es nicht
 			- energie quelle: 
 				- motivation
-				- bedürfnisse erfüllt
-					- toilettes
+				- Bedürfnisse erfüllt
+					- toilette
 					- essen
 					- trinken
 					- fühlen sich gut
-					- 
+						- gutes familienklima
+						- gutes klassen setting
+						- fühlen sich wertgeschätzt
+							- durch lehrer
+							- eltern
+							- mitschüler
+				- angst vor bestrafung
+			- energie kosten:
+				- zwang 
+				- angst vor bestrafung
+				- demotivation
+				- krach
+				- energieverbrauch durch arbeit
+				- schlechte bewertungen
 - videoaufzeichnungen vom verhalten einer klasse, des ablaufs einer schulstunde
 - 
