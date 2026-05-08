@@ -128,6 +128,8 @@ Arbeitsstunden KW 19:
 ![](Images/BAS/Pasted%20image%2020260429141814.png)
 
 ## Sitzpläne
+### 5a
+~={RedRed}eintragen=~
 ### 5c
 
 ![[Images/BAS/2026-05-04 13.08.30.jpg]]
@@ -142,6 +144,25 @@ Arbeitsstunden KW 19:
 	- [ ] dazu Übungsblätter suchen 
 	- [ ] bzw. unterricht überlegen
 ### Timeline
+##### 26-05-08 Vertretung fr kaya
+- gut mit gemacht: 
+	- yasser
+	- abdulrahman
+	- marvellous
+	- kevin
+	- pavlo
+	- elena
+- ok mitgemacht:
+	- naz
+	- hajar
+	- precious
+	- dunja
+- sehr gut mitgemacht:
+	- yasemin
+	- amlia
+	- semanur
+	- Polina
+
 ##### 26-05-07
 Handschriftliche Anmerkung:
 
