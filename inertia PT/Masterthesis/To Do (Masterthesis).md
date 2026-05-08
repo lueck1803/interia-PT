@@ -1407,7 +1407,7 @@ $$
 		- schüler wollen eigene Energie minimieren
 			- wollen spaß haben -> gibt Energie
 			- energieschwelle/potentialbarriere: 
-				- motivation
+				- motivationsbarriere
 				- störgeräusche
 				- aktive physische störungen
 				- unkonzentriert
@@ -1452,7 +1452,14 @@ $$
 					- zu hause
 					- freizeit
 			- sie denken weiter
-			- kommen mit fragen zu einem 
+			- kommen mit "positiven"/konstruktiven fragen zu einem 
+				- keine destruktiven fragen und themen:
+					- streit 
+					- probleme
+					- jemand hat mich gestört
+				- ich beantworte gerne bereichernde fragen, wenn die motivation in einem anderen erzeugen
+			- neutrale Fragen:
+				- orga
 
 - Modellierung:
 	- interaktion mit nachbarn (kurzreichweitige WW), next neighbor interaction
@@ -1471,3 +1478,5 @@ $$
 	- WW zwischen teilgruppen
 	- perkolation
 	- lossfunction
+	- energie verbrauchsminimierung
+	- 
