@@ -1389,6 +1389,8 @@ $$
 	- phasenübergang: chaos -> ruhe
 		- physikalisch optimale methode: wie schafft man es ruhe in ein system hineinzubringen, dass chaotisch ist:
 			- schulklasse
+			- staaten
+			- menschenmengen
 	- perkolation: 
 		- brände eindämmen: Vertrauens 
 	- Lehrerkeimzelle für phasenübergänge, um lokal die energie zu minimieren
@@ -1399,4 +1401,20 @@ $$
 			- der schein, dass alle mitarbeiten
 			- ein guter schnitt in der klassenarbeit
 		- schüler wollen eigene Energie minimieren
-- videoaufzeichnungen
+			- wollen spaß haben -> gibt Energie
+			- energieschwelle/potentialbarriere: 
+				- motivation
+				- störgeräusche
+				- aktive physische störungen
+				- unkonzentriert
+				- demotiviert/ich kann es nicht
+			- energie quelle: 
+				- motivation
+				- bedürfnisse erfüllt
+					- toilettes
+					- essen
+					- trinken
+					- fühlen sich gut
+					- 
+- videoaufzeichnungen vom verhalten einer klasse, des ablaufs einer schulstunde
+- 
