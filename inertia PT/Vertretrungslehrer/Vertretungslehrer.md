@@ -160,8 +160,8 @@ Arbeitsstunden KW 19:
 - sehr gut mitgemacht:
 	- yasemin
 	- amlia
-	- neue
-	- die neben neuer
+	- semanur
+	- Polina
 
 ##### 26-05-07
 Handschriftliche Anmerkung:
