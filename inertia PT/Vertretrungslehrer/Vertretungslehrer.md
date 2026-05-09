@@ -737,4 +737,3 @@ wir nicht überall gleichzeitig sein können, auch nur eine beschränkte Aufmerk
 	- Ich möchte Ideologien bekämpfen und Menschen zum Selbstdenken und Handeln befördern.
 
 	- Ich hatte eine tolle Klassenlehrerin, die bei mir viel bewirkt und befördert hat, sowie immer an alle geglaubt hat.
-	- ~={LawnGreen} Test=~
