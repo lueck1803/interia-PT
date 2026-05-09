@@ -132,10 +132,10 @@ Arbeitsstunden KW 19:
 
 ## Sitzpläne
 ### 5a
-![](Sitzplan_5a.jpeg)
+~={RedRed}eintragen=~
 ### 5c
 
-![[Sitzplan_5c.jpg]]
+![[Images/BAS/2026-05-04 13.08.30.jpg]]
 ## Deutsch
 
 - bis zur 7. klasse allgemein keine Rechtschreibung bewerten.
@@ -147,12 +147,7 @@ Arbeitsstunden KW 19:
 	- [ ] dazu Übungsblätter suchen 
 	- [ ] bzw. unterricht überlegen
 ### Timeline
-##### 26-05-08 5a Vertretung fr kaya
-- ok mitgemacht:
-	- naz
-	- hajar
-	- precious
-	- dunja
+##### 26-05-08 Vertretung fr kaya
 - gut mit gemacht: 
 	- yasser
 	- abdulrahman
@@ -160,6 +155,11 @@ Arbeitsstunden KW 19:
 	- kevin
 	- pavlo
 	- elena
+- ok mitgemacht:
+	- naz
+	- hajar
+	- precious
+	- dunja
 - sehr gut mitgemacht:
 	- yasemin
 	- amlia
