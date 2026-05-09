@@ -1,16 +1,18 @@
 - ich~={RedRed} will meine Arbeit Publikations fähig machen=~
 # unsortiert
 - [x] spülmaschine ausräumen 
+- [ ] staub saugen
 - [ ] Regenjacke blau reinigen - textilreiniger
+- [ ] gießen 
 - [x] noch mal ausprobieren, wie man nur gewisse seiten einer pdf vom usb stick drucken kann
 	- [ ] ne geht nicht
-- [ ] Zeug in Kursmappe eintragen
-	- [ ] notieren wie die Stunden abliefen
-- [ ] sitzplan 5c in obsidian 
+- [x] Zeug in Kursmappe eintragen
+	- [x] notieren wie die Stunden abliefen
+- [x] sitzplan 5c in obsidian 
 - [ ] Glasmüll weg
-- [ ] wenn *mein Unterricht* für die 5c freigeschaltet ist:
-	- [ ] Anwesenheit eintragen: Glordi und Finlay lange abwesend
-	- [ ] Aufgabe aus Buch eintragen, was nicht erledigt als Hausaufgabe
+- [x] wenn *mein Unterricht* für die 5c freigeschaltet ist:
+	- [x] Anwesenheit eintragen: Glordi und Finlay lange abwesend
+	- [x] Aufgabe aus Buch eintragen, was nicht erledigt als Hausaufgabe
 - [ ] Deutsch Schulbuch Material anschauen
 	- [ ] hab ich wieder in den Schrank getan 🫣
 - [ ] Mich nach Unternehmen umschauen, was ich nach dem Master mache?

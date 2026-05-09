@@ -91,6 +91,9 @@ Ich übernehme:
 008 150 
 **Kopiercode**
 1803
+**First login teacher pc**:
+lukas.walter
+Start123
 ### Zeiten
 - 1. 7:55 - 8:40
 - 2. 8:40 - 9:25
@@ -688,4 +691,29 @@ Die Mädchen schienen für den Moment verstanden zu haben, wie solche Dynamiken 
 Freundliche Grüße 
 Lukas 
 wir nicht überall gleichzeitig sein können, auch nur eine beschränkte Aufmerksamkeit und Informationen haben,  ihr Anliegen wahrgenommen wird, 
+
+# Strategie für effizienten Unterricht 
+
+- wenn es schnell möglich ist ruhe zu schaffen:
+	- dann mündlich Aufgabe und allgemeines erklären 
+	- möglichst kurz und prägnant 
+- wenn nicht möglich 
+	- Aufgabe prägnant und schnell an die Tafel schreiben 
+	- percolation Theorie anwenden 
+		- unruhe herde schnell eindämmen 
+		- für ein spreading von ruhe und lern förder Atmosphären schaffen 
+	- Phasenübergang: Chaos -> Arbeitsatmosphäre 
+- mich nicht auf Diskussionen einlassen 
+- Leute zum Arbeiten bewegen 
+- Leute nach Vertrauenswürdigkeit Freiheiten geben und klar kommunizieren 
+- ~={RedRed} keine=~ Zeit unnötig in der Schule vergammmeln
+- nicht zu viel mit Lehrern verquatschen
+- sich nicht verplappern
+- nicht zu viel über sich selbst erzählen 
+- effizient in den Pausen Stunden notieren ⟸ dabei nicht ablenken lassen
+- kurz, treffend und freundlich antworten 
+- nicht zu viel unnötig mit den Schülern Zeit verquatschen 
+- jeden Moment für Innere Ruhe nutzen 
+- auf die Lautstärke beim Reden achten 
+- Priorität ~={RedRed} proposal=~
 

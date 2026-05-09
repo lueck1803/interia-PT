@@ -83,8 +83,19 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+## 26-05-08
+Ach du meine Güte.
+
+Mega witzig 🤣🤣😅🤣🤣😅🤣.
+
+Dann hab ich Tayyba ja doch irgendwie richtig eingeschätzt.
+
+Heute war der Scheidungstermin.
+
+Es kam folgende Sprachnachricht
+Die Psyche von Menschen ist hoch interessant und weird 🤣🤭
 ## 26-04-27
-### Arthur (nicht abgesendet )
+### Arthur (nicht abgesendet)
 Ja mache ich auch bzw. In dem Fall da ich das schon häufig genug gespielt habe, reichen 5% Schritte.
 Ich habe mit 50% begonnen.
 
