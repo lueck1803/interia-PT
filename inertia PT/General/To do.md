@@ -5,7 +5,7 @@
 - [x] Sitzplan erneut rein 
 - [ ] blatt mit denksport physik für licht und schatten erstellen
 - [ ] tinte auffüllen
-- [ ] aufschreiben dass frontal/Gesprächsunterricht mit den mei Klasse nicht funktioniert 
+- [ ] aufschreiben dass frontal/Gesprächsunterricht mit den meisten Klassen nicht funktioniert 
 - [x] jamil wegen schulcloud fragen
 - [ ] anita wegen Deutsch schreiben 
 - [ ] staub saugen
