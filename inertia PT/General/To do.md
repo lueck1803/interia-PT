@@ -1,7 +1,7 @@
 - ich~={RedRed} will meine Arbeit Publikations fähig machen=~
 # unsortiert
 - [x] spülmaschine ausräumen 
-- [ ] Stunden eintragen Freitag und heute
+- [x] Stunden eintragen Freitag und heute
 - [x] Sitzplan erneut rein 
 - [ ] blatt mit denksport physik für licht und schatten erstellen
 - [ ] tinte auffüllen
