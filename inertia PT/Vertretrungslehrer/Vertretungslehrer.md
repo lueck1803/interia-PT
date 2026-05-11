@@ -252,6 +252,17 @@ in den anderen Fällen bleibt der Artikel erhalten
 #### Stabreim 
 Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benachbarte, betonte Wörter mit demselben Anlaut (Konsonant oder Vokal) beginnen. Er war die metrische Basis der alten germanischen Dichtung und verbindet Klang mit Bedeutung. Heute dient er oft als einprägsames Stilmittel in Slogans oder festen Wendungen (z.B. „Milch macht müde Männer munter“).
 ## Ethik
+### 26-05-12
+- SRF Kultur:
+	- MENSCHENFLEISCH
+	- STRASSENBAHN
+	- Abtreibung
+	- Gibt Erfolg immer recht?
+	- Gerechte Welt?
+	- Existiert Gott
+	- Gibt es Realität?
+	- DAS SCHIFF DES THESEUS - Bin ich im Alter noch die selbe Person?
+### 26-05-05
 - [ ] ideologischer Turing Test
 	- ~={underline}Turning Test der 60iger: =~sitzt hinter einer Wand und soll entscheiden ob man mit einer KI oder einem menschen auf der anderen Seite der wand spricht ⟹ wenn man nicht mehr unterscheiden kann, dann hat die KI den Test bestanden und ihr wird menschliche intelligenz zu gesprochen
 	- ~={underline}ideologischer Turing test=~: meinem Debattengegner erklären, was ~={underline}er denkt=~ bzw. was dessen Positionen sind und wie er zu diesen kommt, so dass dieser sagen kann ~={underline}genauso denke ich=~ ⟹ ideologischer turing test bestanden 
@@ -590,7 +601,7 @@ Narrated By ‘Aisha : Sauda (the wife of the Prophet) went out to answer the ca
 - Es eröffnet neue Welten
 - Wie man wahrgenommen wird
 
-# Arbeitslehre 
+## Arbeitslehre 
 ## Grundsätzliches
 - Arbeitssicherheit/Schutz 
 	- Schutzkleidung 
