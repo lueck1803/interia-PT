@@ -262,9 +262,9 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
 	- STRASSENBAHN
 	- GEIGER - Abtreibung
 	- KIND IM TEICH - Gerechte Welt?
-	- Gibt Erfolg immer recht?
-	- Existiert Gott
-	- Gibt es Realität?
+	- GAUGUIN - Gibt Erfolg immer recht?
+	- TEEKANNE - Existiert Gott
+	- GEHIRN IM TANK - Gibt es Realität?
 	- DAS SCHIFF DES THESEUS - Bin ich im Alter noch die selbe Person?
 ### 26-05-05
 - [ ] ideologischer Turing Test
@@ -327,7 +327,7 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
   Wer bin ich? Warum bin ich ich? Und wie kann ich mich selbst bleiben, wenn ich mich doch ständig verändere? Mit diesen Fragen beschäftigt sich eines der bekanntesten Gedankenexperimente der Philosophie: Das Schiff des Theseus.
 - [MARY - Materie oder Geist](https://www.youtube.com/watch?v=3Me1YDYK6tw)
   Ist alles nur Materie und unser Geist letztlich nichts anderes als das Gehirn? Mit dieser Frage beschäftigt sich das Gedankenexperiment «Mary». Es möchte zeigen, dass unser bewusstes Erleben nicht auf physikalische Prozesse reduziert werden kann. Der Geist ist mehr als das Gehirn. Doch stimmt das?
-- [Existiert Gott](https://www.youtube.com/watch?v=TwnWnl3kf1I)
+- [TEEKANNE - Existiert Gott](https://www.youtube.com/watch?v=TwnWnl3kf1I)
   Können Sie beweisen, dass Gott existiert? Können Sie es widerlegen? Und woran sollte man glauben, wenn Gott weder beweis- noch widerlegbar ist? Diese Fragen stellt das Gedankenexperiment «Teekanne». Es möchte zeigen, dass die Nichtwiderlegbarkeit Gottes noch kein Grund ist, an ihn zu glauben.
 - [GEHIRN IM TANK - Gibt es Realität?](https://www.youtube.com/watch?v=6fYdfa_czw8)
   Woher wissen wir, dass die Welt wirklich so ist, wie wir sie erleben? Könnte es sein, dass unser ganzes Leben eine Illusion ist? Mit diesen Fragen beschäftigt sich das philosophische Gedankenexperiment «Gehirn im Tank». Der Erfinder behauptet, es sei undenkbar, dass wir uns radikal täuschen.
