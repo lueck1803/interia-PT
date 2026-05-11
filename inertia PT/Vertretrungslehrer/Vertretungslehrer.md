@@ -260,12 +260,13 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
 - SRF Kultur:
 	- MENSCHENFLEISCH
 	- STRASSENBAHN
+	- Schleier des Nichtwissens - Kann Ungleichheit gerecht sein?
 	- GEIGER - Abtreibung
+	- TEEKANNE - Existiert Gott?
 	- KIND IM TEICH - Gerechte Welt?
-	- GAUGUIN - Gibt Erfolg immer recht?
-	- TEEKANNE - Existiert Gott
-	- GEHIRN IM TANK - Gibt es Realität?
 	- DAS SCHIFF DES THESEUS - Bin ich im Alter noch die selbe Person?
+	- GAUGUIN - Gibt Erfolg immer recht?
+	- GEHIRN IM TANK - Gibt es Realität?
 ### 26-05-05
 - [ ] ideologischer Turing Test
 	- ~={underline}Turning Test der 60iger: =~sitzt hinter einer Wand und soll entscheiden ob man mit einer KI oder einem menschen auf der anderen Seite der wand spricht ⟹ wenn man nicht mehr unterscheiden kann, dann hat die KI den Test bestanden und ihr wird menschliche intelligenz zu gesprochen
@@ -315,7 +316,7 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
 	- [ ] ein film / ausschnitt aus einer diskussion zeigen
 - [ ] Ethik Arbeit anschauen
 ### Gedankenexperimente
-- [Schleier des Nichtwissens - Kann un](https://www.youtube.com/watch?v=1cGYwwSg3fc)
+- [Schleier des Nichtwissens - Kann Ungleichheit gerecht sein?](https://www.youtube.com/watch?v=1cGYwwSg3fc)
   Wie soll ein Staat aufgebaut sein? Wieviel Gleichheit braucht es dazu? Und was ist überhaupt Gerechtigkeit? Mit diesen Fragen beschäftigt sich das philosophische Gedankenexperiment «Schleier des Nichtwissens». Sein Erfinder behauptet, Ungleichheit könne gerecht sein – sofern alle davon profitieren.
 - [MENSCHENFLEISCH](https://www.youtube.com/watch?v=QBBY04zTaXI&list=PL1u-zzk6SurZrva064nEiJX8-IFb5cNd7&index=2)
   Stellen Sie sich vor: Aliens überfallen die Erde, nehmen uns Menschen gefangen und verspeisen das Fleisch unserer Kinder. Warum finden wir das falsch, obwohl wir mit Tieren dasselbe machen? Diese Frage stellt das philosophische Gedankenexperiment «Menschenfleisch».
@@ -337,7 +338,8 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
   Lässt sich Liebe begründen? Und macht sie blind? Ein Ausflug ins philosophische Wunderland der Liebe.
 - [GAUGUIN - Gibt Erfolg immer recht?](https://www.youtube.com/watch?v=f-xme0sHTu8)
   Das philosophische Gedankenexperiment «Gauguin» Der Maler Paul Gauguin verliess seine Familie, um sich der Kunst zu widmen. Mit Erfolg. Aber Rechtfertigt der Erfolg auch sein Verhalten? Und welche Rolle spielt der Zufall für die Moral? Mit diesen Fragen beschäftigt sich das philosophische Gedankenexperiment «Gauguin».
-- 
+- [Die Illusion des Freien Willens](https://www.youtube.com/watch?v=T8xqZp5a_Wo)
+- [Gavagai - Sprachen verstehen](https://www.youtube.com/watch?v=JfPJIAewi_8) Die Sprache hat ihre Tücken. Missverständnisse lauern überall. Können wir jemals sicher sein, andere Menschen richtig zu verstehen? Um diese Frage kreist das Gedankenexperiment «Gavagai». Sein Erfinder glaubt, für ein gelingendes Verstehen braucht es Wohlwollen.
   
 ## Kunst
 - Kinder brauchen ein Anfang und ein Ende
