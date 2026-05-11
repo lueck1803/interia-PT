@@ -4,7 +4,8 @@
 - [ ] Stunden eintragen Freitag und heute
 - [ ] Sitzplan erneut rein 
 - [ ] aufschreiben dass frontal/Gesprächsunterricht mit der Klasse nicht funktioniert 
-- [ ] jamil wegen schulcloud fragen
+- [x] jamil wegen schulcloud fragen
+- [ ] anita wegen Deutsch schreiben 
 - [ ] staub saugen
 - [x] Regenjacke blau reinigen - textilreiniger
 - [x] noch mal ausprobieren, wie man nur gewisse seiten einer pdf vom usb stick drucken kann
