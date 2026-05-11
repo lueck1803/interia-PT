@@ -315,7 +315,7 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
 	- [ ] ein film / ausschnitt aus einer diskussion zeigen
 - [ ] Ethik Arbeit anschauen
 ### Gedankenexperimente
-- [Schleier des Nichtwissens](https://www.youtube.com/watch?v=1cGYwwSg3fc)
+- [Schleier des Nichtwissens - Kann un](https://www.youtube.com/watch?v=1cGYwwSg3fc)
   Wie soll ein Staat aufgebaut sein? Wieviel Gleichheit braucht es dazu? Und was ist überhaupt Gerechtigkeit? Mit diesen Fragen beschäftigt sich das philosophische Gedankenexperiment «Schleier des Nichtwissens». Sein Erfinder behauptet, Ungleichheit könne gerecht sein – sofern alle davon profitieren.
 - [MENSCHENFLEISCH](https://www.youtube.com/watch?v=QBBY04zTaXI&list=PL1u-zzk6SurZrva064nEiJX8-IFb5cNd7&index=2)
   Stellen Sie sich vor: Aliens überfallen die Erde, nehmen uns Menschen gefangen und verspeisen das Fleisch unserer Kinder. Warum finden wir das falsch, obwohl wir mit Tieren dasselbe machen? Diese Frage stellt das philosophische Gedankenexperiment «Menschenfleisch».
