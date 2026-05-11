@@ -3,6 +3,7 @@
 - [x] spülmaschine ausräumen 
 - [x] Stunden eintragen Freitag und heute
 - [x] Sitzplan erneut rein 
+- [ ] vertretungsunterricht eintragen
 - [ ] blatt mit denksport physik für licht und schatten erstellen
 - [ ] tinte auffüllen
 - [ ] aufschreiben dass frontal/Gesprächsunterricht mit den meisten Klassen nicht funktioniert 
