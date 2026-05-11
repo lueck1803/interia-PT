@@ -3,6 +3,7 @@
 - [x] spülmaschine ausräumen 
 - [ ] Stunden eintragen Freitag und heute
 - [ ] Sitzplan erneut rein 
+- [ ] tinte auffüllen
 - [ ] aufschreiben dass frontal/Gesprächsunterricht mit der Klasse nicht funktioniert 
 - [x] jamil wegen schulcloud fragen
 - [ ] anita wegen Deutsch schreiben 
