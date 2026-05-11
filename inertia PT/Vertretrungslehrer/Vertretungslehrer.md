@@ -267,6 +267,7 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
 	- DAS SCHIFF DES THESEUS - Bin ich im Alter noch die selbe Person?
 	- GAUGUIN - Gibt Erfolg immer recht?
 	- GEHIRN IM TANK - Gibt es Realität?
+	- Gavagai - Sprachen verstehen/Missverständnisse
 ### 26-05-05
 - [ ] ideologischer Turing Test
 	- ~={underline}Turning Test der 60iger: =~sitzt hinter einer Wand und soll entscheiden ob man mit einer KI oder einem menschen auf der anderen Seite der wand spricht ⟹ wenn man nicht mehr unterscheiden kann, dann hat die KI den Test bestanden und ihr wird menschliche intelligenz zu gesprochen
@@ -339,7 +340,8 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
 - [GAUGUIN - Gibt Erfolg immer recht?](https://www.youtube.com/watch?v=f-xme0sHTu8)
   Das philosophische Gedankenexperiment «Gauguin» Der Maler Paul Gauguin verliess seine Familie, um sich der Kunst zu widmen. Mit Erfolg. Aber Rechtfertigt der Erfolg auch sein Verhalten? Und welche Rolle spielt der Zufall für die Moral? Mit diesen Fragen beschäftigt sich das philosophische Gedankenexperiment «Gauguin».
 - [Die Illusion des Freien Willens](https://www.youtube.com/watch?v=T8xqZp5a_Wo)
-- [Gavagai - Sprachen verstehen](https://www.youtube.com/watch?v=JfPJIAewi_8) Die Sprache hat ihre Tücken. Missverständnisse lauern überall. Können wir jemals sicher sein, andere Menschen richtig zu verstehen? Um diese Frage kreist das Gedankenexperiment «Gavagai». Sein Erfinder glaubt, für ein gelingendes Verstehen braucht es Wohlwollen.
+- [Gavagai - Sprachen verstehen/Missverständnisse](https://www.youtube.com/watch?v=JfPJIAewi_8) Die Sprache hat ihre Tücken. Missverständnisse lauern überall. Können wir jemals sicher sein, andere Menschen richtig zu verstehen? Um diese Frage kreist das Gedankenexperiment «Gavagai». Sein Erfinder glaubt, für ein gelingendes Verstehen braucht es Wohlwollen.
+- [GROSSVATERPARADOX -  Sind Zeitreisen denkbar?](https://www.youtube.com/watch?v=RXk-RUKv6G8&t=1s) Zeitreisen sind ein alter Menschheitstraum. Einige moderne Physiker halten sie sogar für möglich. Aber Vorsicht: Es lauern überall Widersprüche und Paradoxien, wie das berüchtigte «Grossvaterparadox». Ein Gedankenexperiment für Scharfsinnige.
   
 ## Kunst
 - Kinder brauchen ein Anfang und ein Ende
