@@ -123,6 +123,9 @@ Arbeitsstunden KW 19:
 	- kunst 5b 5/6
 - 8.5.
 	- deu 1/2 5a
+- 11.5
+	- phy 3./4. 8d
+	- 
 ---
 - KW 19: 
 	- Mo:
