@@ -118,7 +118,11 @@ Arbeitsstunden KW 19:
 	- kunst 3/4 rot
 	- kunst 5/6 rot
 - 7.5.
-	- 
+	- deu 5a 2.
+	- deut 5c 4
+	- kunst 5b 5/6
+- 8.5.
+	- deu 1/2 5a
 ---
 - KW 19: 
 	- Mo:
