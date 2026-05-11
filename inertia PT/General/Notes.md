@@ -94,6 +94,26 @@ Heute war der Scheidungstermin.
 
 Es kam folgende Sprachnachricht
 Die Psyche von Menschen ist hoch interessant und weird 🤣🤭
+
+----
+
+Ich finde den Übergang von Refrain zu ruhig jetzt recht einfach.
+
+Ohne den Switch auf clean ist der Übergang Recht fließend.
+
+Ich hab aber noch ein bisschen Probleme die Rhythmus gitarre durch den ruhigen part komplett durchzuhalten ohne gegen Ende nicht doch rauszufallen.
+
+Aber ist aber nur ne Sache von noch mehr Sicherheit bekommen.
+
+Ich bin am Anfang alleine durch das einsetzen der lead rausgefallen 😅.
+
+Ging mir auch am Anfang beim Übergang im Refrain so, wenn der Text anfängt.
+
+Gestern Abend hab ich dann nur noch zum Lied geübt.
+
+Ist einfacher für die Übergänge die jetzt intuitiver sind und insgesamt für die Einsätze.
+
+Der Song ist viel geiler als er für mich in Vergangenheit schien.
 ## 26-04-27
 ### Arthur (nicht abgesendet)
 Ja mache ich auch bzw. In dem Fall da ich das schon häufig genug gespielt habe, reichen 5% Schritte.
