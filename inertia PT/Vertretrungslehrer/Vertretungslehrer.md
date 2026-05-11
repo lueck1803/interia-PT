@@ -125,7 +125,7 @@ Arbeitsstunden KW 19:
 	- deu 1/2 5a
 - 11.5
 	- phy 3./4. 8d
-	- 
+	- phy 5/6 7c
 ---
 - KW 19: 
 	- Mo:
