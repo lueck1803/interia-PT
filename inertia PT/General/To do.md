@@ -2,7 +2,8 @@
 # unsortiert
 - [x] spülmaschine ausräumen 
 - [ ] Stunden eintragen Freitag und heute
-- [ ] Sitzplan erneut rein 
+- [x] Sitzplan erneut rein 
+- [ ] blatt mit denksport physik für licht und schatten erstellen
 - [ ] tinte auffüllen
 - [ ] aufschreiben dass frontal/Gesprächsunterricht mit der Klasse nicht funktioniert 
 - [x] jamil wegen schulcloud fragen
