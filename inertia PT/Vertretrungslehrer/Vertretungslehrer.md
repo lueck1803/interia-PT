@@ -272,7 +272,7 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
 - chaas
 
 ⟹nachsitzen klassenraum 13 aufräumen. Kreide herum geworfen 
-
+Haben dann aufgeräumt 
 - SRF Kultur:
 	- STRASSENBAHN
 	- Schleier des Nichtwissens - Kann Ungleichheit gerecht sein?
