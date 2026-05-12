@@ -256,9 +256,10 @@ in den anderen Fällen bleibt der Artikel erhalten
 Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benachbarte, betonte Wörter mit demselben Anlaut (Konsonant oder Vokal) beginnen. Er war die metrische Basis der alten germanischen Dichtung und verbindet Klang mit Bedeutung. Heute dient er oft als einprägsames Stilmittel in Slogans oder festen Wendungen (z.B. „Milch macht müde Männer munter“).
 ## Ethik
 ### Verbindliche Unterrichtsinhalte/Aufgaben: 
-- „Mal OBEN – mal UNTEN“ → - Wahrnehmungsspiele zu diesen Positionen durch- führen / dabei die Körperwahrnehmung und die Gefühle verbalisieren. OBEN ist nicht immer ange- nehmer als UNTEN 
-- „OBEN – UNTEN - POSITIONEN“ → - Lehrer – Schüler / Chef - Angestellter / Mann – Frau / Gott – Mensch / Arme – Reiche / Eltern – Kind / etc. identifizieren und besprechen - Abhängigkeiten als Grunderfahrung des Menschen erkennen/Abhängigkeiten als Ausdruck von Macht- verhältnissen erkennen - Perspektivenwechsel vornehmen und besprechen (Rollenspiel) 
-- „Positionen auf gleicher → - Beispiele suchen (Freunde / Geschäftspartner / etc.) Augenhöhe“ - Rücksicht und Empathie als Grund für den Verzicht auf OBEN-Positionen erkennen
+- „Mal OBEN – mal UNTEN“ → - Wahrnehmungsspiele zu diesen Positionen durchführen / dabei die Körperwahrnehmung und die Gefühle verbalisieren. OBEN ist nicht immer angenehmer als UNTEN 
+- „OBEN – UNTEN - POSITIONEN“ → - Lehrer – Schüler / Chef - Angestellter / Mann – Frau / Gott – Mensch / Arme – Reiche / Eltern – Kind / etc. identifizieren und besprechen - Abhängigkeiten als Grunderfahrung des Menschen erkennen/Abhängigkeiten als Ausdruck von Machtverhältnissen erkennen - Perspektivenwechsel vornehmen und besprechen (Rollenspiel) 
+- „Positionen auf gleicher Augenhöhe“ → 
+	- Beispiele suchen (Freunde / Geschäftspartner / etc.)  - Rücksicht und Empathie als Grund für den Verzicht auf OBEN-Positionen erkennen
 ### 26-05-12
 - SRF Kultur:
 	- MENSCHENFLEISCH
