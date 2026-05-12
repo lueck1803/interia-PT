@@ -267,7 +267,7 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
 	- Rücksicht und Empathie als Grund für den Verzicht auf OBEN-Positionen erkennen
 ### 26-05-12
 - SRF Kultur:
-	- MENSCHENFLEISCH
+	- MENSCHENFLEISCH ⟹ ~={Crimson}geht nicht im Schulwlan=~
 	- STRASSENBAHN
 	- Schleier des Nichtwissens - Kann Ungleichheit gerecht sein?
 	- GEIGER - Abtreibung
