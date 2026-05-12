@@ -85,6 +85,7 @@ Ich übernehme:
 
 
 # Bernhard Adelung Schule (BAS)
+![[../../Pasted image 20260512184228.png]]
 **Sekretariat:**
 06151-13 480 700
 **Code für den iPad Koffer** 
