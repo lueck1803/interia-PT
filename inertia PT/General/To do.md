@@ -6,6 +6,7 @@
 - [ ] mappe für ethik ausfüllen 
 - [ ] fragen ob ich für Ethik Hausarbeit und Vortrag als note verwenden kann
 - [ ] paper von aritra runter laden und ausdrucken 
+- [ ] wann war meine Ausbildung zum Rettungshelfer und was war meine Note
 - [x] anita für kursmappe deutsch freigeben
 - [ ] blatt mit denksport physik für licht und schatten erstellen
 - [ ] tinte auffüllen
