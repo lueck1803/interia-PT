@@ -790,5 +790,5 @@ wir nicht überall gleichzeitig sein können, auch nur eine beschränkte Aufmerk
 - ich habe mich da auch unglücklich ausgedrückt 
 - sie ist halt nunmal so, das hat aber auch etwas Gutes.
 - ich finde damit kann man arbeiten 
-- mir ist es wichtiger dass sie sich verstanden und gehört fühlt und ich es dann mit ihr einfacher habe. Die Klasse hat genug Kinder die nicht so 
+- mir ist es wichtiger dass sie sich verstanden und gehört fühlt und ich es dann mit ihr einfacher habe. Die Klasse hat genug Kinder die nicht schwer dazu zu bringen sind überhaupt etwas zu machen 
 - 
