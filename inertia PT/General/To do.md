@@ -2,9 +2,10 @@
 # unsortiert
 - [x] spülmaschine ausräumen 
 - [ ] VSS Zettel von letzter Woche ausfüllen 
+- [ ] nach der ID für die dienst email adresse fragen
 - [ ] Unterlagen für den Vertrag ausfüllen 
 - [ ] mappe für ethik ausfüllen 
-- [ ] fragen ob ich für Ethik Hausarbeit und Vortrag als note verwenden kann
+- [x] fragen ob ich für Ethik Hausarbeit und Vortrag als note verwenden kann
 - [ ] paper von aritra runter laden und ausdrucken 
 - [ ] wann war meine Ausbildung zum Rettungshelfer und was war meine Note
 - [x] anita für kursmappe deutsch freigeben
