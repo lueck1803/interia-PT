@@ -173,7 +173,10 @@ Arbeitsstunden KW 19:
 	- amlia
 	- semanur
 	- Polina
-
+##### 26-05-12
+Zu spät:
+- glordi 
+- massin
 ##### 26-05-07
 Handschriftliche Anmerkung:
 
