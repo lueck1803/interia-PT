@@ -791,4 +791,5 @@ wir nicht überall gleichzeitig sein können, auch nur eine beschränkte Aufmerk
 - sie ist halt nunmal so, das hat aber auch etwas Gutes.
 - ich finde damit kann man arbeiten 
 - mir ist es wichtiger dass sie sich verstanden und gehört fühlt und ich es dann mit ihr einfacher habe. Die Klasse hat genug Kinder die schwer dazu zu bringen sind überhaupt etwas zu machen 
-- auf Dauer habe ich mehr davon, wenn ich 
+- auf Dauer habe ich mehr davon, wenn ich ihr Wohlwollen habe und sie auch auf lange Sicht kritikfähiger wird, auch was ihre eigene Arbeitsleistung angeht.
+- es ist auch gut, wenn man ein paar durchsetzungsstarke Schüler hat (das ist sie definitiv), die man einsetzen kann, um Konflikte zu beruhigen und um anderen bei den Aufgaben zu helfen 
