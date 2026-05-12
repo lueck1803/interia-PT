@@ -2,6 +2,7 @@
 # unsortiert
 - [x] spülmaschine ausräumen 
 - [ ] paper von aritra runter laden und ausdrucken 
+- [ ] anita für kursmappe deutsch freigeben
 - [ ] blatt mit denksport physik für licht und schatten erstellen
 - [ ] tinte auffüllen
 - [ ] tuner schwarze Gitarre feststellen 
