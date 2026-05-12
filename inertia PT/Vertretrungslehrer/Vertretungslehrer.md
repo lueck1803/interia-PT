@@ -267,16 +267,17 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
 	- Rücksicht und Empathie als Grund für den Verzicht auf OBEN-Positionen erkennen
 ### 26-05-12
 - SRF Kultur:
-	- MENSCHENFLEISCH ⟹ ~={Crimson}geht nicht im Schulwlan=~
 	- STRASSENBAHN
 	- Schleier des Nichtwissens - Kann Ungleichheit gerecht sein?
 	- GEIGER - Abtreibung
 	- TEEKANNE - Existiert Gott?
 	- KIND IM TEICH - Gerechte Welt?
 	- DAS SCHIFF DES THESEUS - Bin ich im Alter noch die selbe Person?
-	- GAUGUIN - Gibt Erfolg immer recht?
 	- GEHIRN IM TANK - Gibt es Realität?
 	- Gavagai - Sprachen verstehen/Missverständnisse
+	- MENSCHENFLEISCH ⟹ ~={Crimson}geht nicht im Schulwlan=~
+	- GAUGUIN - Gibt Erfolg immer recht? ⟹ ~={Crimson}geht nicht im Schulwlan=~
+	
 ### 26-05-05
 - [ ] ideologischer Turing Test
 	- ~={underline}Turning Test der 60iger: =~sitzt hinter einer Wand und soll entscheiden ob man mit einer KI oder einem menschen auf der anderen Seite der wand spricht ⟹ wenn man nicht mehr unterscheiden kann, dann hat die KI den Test bestanden und ihr wird menschliche intelligenz zu gesprochen
