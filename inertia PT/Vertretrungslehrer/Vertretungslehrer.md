@@ -784,3 +784,10 @@ wir nicht überall gleichzeitig sein können, auch nur eine beschränkte Aufmerk
 
 	- Ich hatte eine tolle Klassenlehrerin, die bei mir viel bewirkt und befördert hat, sowie immer an alle geglaubt hat.
 	- mich immer fragen ~={DeepSkyBlue} ist das hilfreich=~ und ~={RedRed}konstruktiv=~ im aktuellen Moment?
+	
+- ich möchte ein Vertrauensverhältnis aufbauen 
+- ich bin mir bewusst dass Missverständnisse entstehen können 
+- ich habe mich da auch unglücklich ausgedrückt 
+- sie ist halt nunmal so, das hat aber auch etwas Gutes.
+- ich finde damit kann man arbeiten 
+- mir ist es wichtiger dass sie sich verstanden und gehört fühlt und ich es dann mit ihr einfacher habe. Die Klasse hat genug Kinder
