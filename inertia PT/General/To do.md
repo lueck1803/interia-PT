@@ -1,7 +1,7 @@
 - ich~={RedRed} will meine Arbeit Publikations fähig machen=~
 # unsortiert
 - [x] spülmaschine ausräumen 
-- [ ] VSS Zettel von letzter Woche ausfüllen 
+- [x] VSS Zettel von letzter Woche ausfüllen 
 - [ ] nach der ID für die dienst email adresse fragen
 - [ ] Unterlagen für den Vertrag ausfüllen 
 - [ ] mappe für ethik ausfüllen 
