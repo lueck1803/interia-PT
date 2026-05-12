@@ -3,7 +3,7 @@
 - [x] spülmaschine ausräumen 
 - [x] VSS Zettel von letzter Woche ausfüllen 
 - [ ] nach der ID für die dienst email adresse fragen
-- [ ] Unterlagen für den Vertrag ausfüllen 
+- [x] Unterlagen für den Vertrag ausfüllen 
 - [ ] mappe für ethik ausfüllen 
 - [x] fragen ob ich für Ethik Hausarbeit und Vortrag als note verwenden kann
 - [ ] paper von aritra runter laden und ausdrucken 
@@ -22,7 +22,6 @@
 - [ ] mir ein aktuelles deutsch schulbuch besorgen
 - [ ] Stundenplan in den Kalender eintragen
 	- [ ] kann man den exportieren?
-- [ ] habe ich einen eigenen Lernplan im Schulportal?
 - [ ] mir nen planer für die Notengebung anlegen
 - [ ] Excel-Tabelle für noten, Anwesenheit, Anmerkungen, mündliche Mitarbeit 
 	- [ ] notenverwaltung mit excel überlegen ob ich mir das kaufe oder ob ich mir das selbst erstelle
