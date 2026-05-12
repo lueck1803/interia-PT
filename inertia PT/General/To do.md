@@ -1,6 +1,10 @@
 - ich~={RedRed} will meine Arbeit Publikations fähig machen=~
 # unsortiert
 - [x] spülmaschine ausräumen 
+- [ ] VSS Zettel von letzter Woche ausfüllen 
+- [ ] Unterlagen für den Vertrag ausfüllen 
+- [ ] mappe für ethik ausfüllen 
+- [ ] fragen ob ich für Ethik Hausarbeit und Vortrag als note verwenden kann
 - [ ] paper von aritra runter laden und ausdrucken 
 - [x] anita für kursmappe deutsch freigeben
 - [ ] blatt mit denksport physik für licht und schatten erstellen
