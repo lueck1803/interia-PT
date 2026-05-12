@@ -1,6 +1,7 @@
 - ich~={RedRed} will meine Arbeit Publikations fähig machen=~
 # unsortiert
 - [x] spülmaschine ausräumen 
+- [ ] paper von aritra runter laden und ausdrucken 
 - [ ] blatt mit denksport physik für licht und schatten erstellen
 - [ ] tinte auffüllen
 - [ ] tuner schwarze Gitarre feststellen 
