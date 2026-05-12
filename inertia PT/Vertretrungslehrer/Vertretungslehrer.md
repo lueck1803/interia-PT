@@ -791,4 +791,4 @@ wir nicht überall gleichzeitig sein können, auch nur eine beschränkte Aufmerk
 - sie ist halt nunmal so, das hat aber auch etwas Gutes.
 - ich finde damit kann man arbeiten 
 - mir ist es wichtiger dass sie sich verstanden und gehört fühlt und ich es dann mit ihr einfacher habe. Die Klasse hat genug Kinder die schwer dazu zu bringen sind überhaupt etwas zu machen 
-- 
+- auf Dauer habe ich mehr davon, wenn ich 
