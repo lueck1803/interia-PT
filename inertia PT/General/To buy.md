@@ -1,4 +1,5 @@
 - [ ] hafermilch
+- [ ] Schmelzkäse Scheiben 
 - [x] toast
 - [x] schoko chips
 - [x] schoki
