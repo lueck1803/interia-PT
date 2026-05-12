@@ -266,7 +266,13 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
 	- Beispiele suchen (Freunde / Geschäftspartner / etc.)  
 	- Rücksicht und Empathie als Grund für den Verzicht auf OBEN-Positionen erkennen
 ### 26-05-12
-- aless
+- alessio
+- rayan
+- massin
+- chaas
+
+⟹nachsitzen klassenraum 13 aufräumen. Kreide herum geworfen 
+
 - SRF Kultur:
 	- STRASSENBAHN
 	- Schleier des Nichtwissens - Kann Ungleichheit gerecht sein?
