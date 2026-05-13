@@ -1,7 +1,7 @@
 - [ ] hafermilch
 - [ ] Schmelzkäse Scheiben 
 - [ ] grüne Oliven 
-- [x] toast
+- [ ] toast
 - [x] schoko chips
 - [x] schoki
 - [x] Nusskati 

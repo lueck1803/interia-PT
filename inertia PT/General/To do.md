@@ -1,6 +1,8 @@
 - ich~={RedRed} will meine Arbeit Publikations fähig machen=~
 # unsortiert
-- [x] spülmaschine ausräumen 
+- [ ] spülmaschine ausräumen 
+- [ ] 60°C Wäsche aufhängen 
+- [ ] tvh Vertrag Zeug einheften 
 - [ ] auf ergänzung der Kursliste in Ethik achten.
 - [x] VSS Zettel von letzter Woche ausfüllen 
 - [ ] nach der ID für die dienst email adresse fragen
