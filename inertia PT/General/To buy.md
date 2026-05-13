@@ -1,8 +1,8 @@
 - [ ] hafermilch
 - [ ] Schmelzkäse Scheiben 
-- [ ] grüne Oliven 
-- [ ] toast
-- [ ] Pesto 
+- [x] grüne Oliven 
+- [x] toast
+- [x] Pesto 
 - [x] schoko chips
 - [x] schoki
 - [x] Nusskati 
