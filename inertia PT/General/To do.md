@@ -2,7 +2,9 @@
 # unsortiert
 - [ ] spülmaschine ausräumen 
 - [ ] kurz staubsaugen 
-- [ ] tieferes basin für Lotus 
+- [ ] weiße Gitarre putzen 
+- [ ] Laptop Tastatur 
+- [ ] Computer Tastatur wischen 
 - [ ] 60°C Wäsche aufhängen 
 - [ ] tvh Vertrag Zeug einheften 
 - [ ] auf ergänzung der Kursliste in Ethik achten.
@@ -607,6 +609,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] Jack Wolfskin Schuhe Schnürsenkel reparieren
 - [x] graue hose Knopf reparieren 
 # Pflanzen 
+- [ ] tieferes basin für Lotus 
 - [ ] Forest and gardening vlog 
 - [ ] Forest pond
 - [ ] welche kameras hat der robinga?
