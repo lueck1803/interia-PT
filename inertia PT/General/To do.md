@@ -1,6 +1,7 @@
 - ich~={RedRed} will meine Arbeit Publikations fähig machen=~
 # unsortiert
 - [ ] spülmaschine ausräumen 
+- [ ] kurz staubsaugen 
 - [ ] tieferes basin für Lotus 
 - [ ] 60°C Wäsche aufhängen 
 - [ ] tvh Vertrag Zeug einheften 
