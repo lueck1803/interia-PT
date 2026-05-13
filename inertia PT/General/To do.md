@@ -15,7 +15,7 @@
 - [x] anita für kursmappe deutsch freigeben
 - [ ] blatt mit denksport physik für licht und schatten erstellen
 - [ ] tinte auffüllen
-- [ ] tuner schwarze Gitarre feststellen 
+- [x] tuner schwarze Gitarre feststellen 
 - [ ] aufschreiben dass frontal/Gesprächsunterricht mit den meisten Klassen nicht funktioniert 
 - [x] wenn *mein Unterricht* für die 5c freigeschaltet ist:
 	- [x] Anwesenheit eintragen: Glordi und Finlay lange abwesend

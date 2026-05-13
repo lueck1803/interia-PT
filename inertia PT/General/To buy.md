@@ -2,6 +2,7 @@
 - [ ] Schmelzkäse Scheiben 
 - [ ] grüne Oliven 
 - [ ] toast
+- [ ] Pesto 
 - [x] schoko chips
 - [x] schoki
 - [x] Nusskati 
