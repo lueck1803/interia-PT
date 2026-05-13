@@ -1,5 +1,5 @@
-- [ ] hafermilch
-- [ ] Schmelzkäse Scheiben 
+- [x] hafermilch
+- [x] Schmelzkäse Scheiben 
 - [x] grüne Oliven 
 - [x] toast
 - [x] Pesto 
