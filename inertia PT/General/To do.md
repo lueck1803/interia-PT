@@ -10,6 +10,7 @@
 - [ ] Laptop Tastatur 
 - [ ] Computer Tastatur wischen 
 - [ ] 60°C Wäsche aufhängen 
+- [ ] Gedanken zu klaren Antworten 
 - [ ] tvh Vertrag Zeug einheften 
 - [ ] auf ergänzung der Kursliste in Ethik achten.
 - [ ] nach der ID für die dienst email adresse fragen
