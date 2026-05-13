@@ -1,6 +1,8 @@
 - ich~={RedRed} will meine Arbeit Publikations fähig machen=~
 # unsortiert
 - [x] spülmaschine ausräumen 
+- [ ] auf ergänzung der Kursliste in Ethik achten.
+	- [ ] ist Lisa Marie bei mir in Ethik?
 - [x] VSS Zettel von letzter Woche ausfüllen 
 - [ ] nach der ID für die dienst email adresse fragen
 - [x] Unterlagen für den Vertrag ausfüllen 
