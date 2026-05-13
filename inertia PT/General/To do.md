@@ -66,6 +66,18 @@
 			- [ ] warum gibt es da kulturelle Unterschiede?
 		- [ ] warum glaube ich exakt das?
 			- [ ] geboren als?
+		- [ ] kann ich alles wissen?
+		- [ ] muss ich alles wissen? 
+		- [ ] Genitalverstümmelung!
+			- [ ] wenn Gott den Menschen erschaffen hat
+			- [ ] warum entfernt man Dinge am Körper?
+		- [ ] Viren und Bakterien?
+		- [ ] Elektronen und Atome
+		- [ ] Gase
+		- [ ] Vakuum
+		- [ ] Messgeräte 
+		- [ ] Fitness tracker 
+		- [ ] computer /CPU 
 		- [ ] 
 - [ ] tvh Vertrag Zeug einheften 
 - [ ] auf ergänzung der Kursliste in Ethik achten.
