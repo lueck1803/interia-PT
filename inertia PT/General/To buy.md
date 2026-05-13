@@ -20,6 +20,7 @@
 	- [ ] kalamata oliven 
 	- [ ] grüne erbsen
 - [ ] Unterhosen 
+- [ ] neue Wanderschuhe
 # non food
 - [ ] kleinen Schneebesen 
 - [ ] Plastik Plättchen zum tür öffnen -> pet Flasche 
