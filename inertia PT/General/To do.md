@@ -15,7 +15,49 @@
 	- [ ] Kriterien zu den eigenen Gedanken 
 	- [ ] Straßenbahn 
 		- [ ] autonomes fahren
+			- [ ] bremsen versagen 
 		- [ ] kleines Kind mit Vater vs schwangere Frau
+		- [ ] ausweichen beim Wildwechsel
+			- [ ] machen viele Menschen falsch 
+		- [ ] Autonome Kampfdrohnen 
+		- [ ] Kollateralschäden im krieg oder bei Terroranschlägen
+		- [ ] Rettungsdienst bei Blaulichtfahrt 
+		- [ ] Polizei Verfolgungsjagd 
+	- [ ] kind im Teich 
+		- [ ] Charity paradoxon
+			- [ ] ⟹ Abhängigkeiten
+			- [ ] Zerstörung der lokalen Wirtschaft 
+			- [ ] hilfe zur Selbsthilfe 
+			- [ ] Charity ist ineffizient 
+			- [ ] Hilfe bzw Handel auf Augenhöhe 
+		- [ ] Mitgefühl mit obdachlosen
+			- [ ] ⟹helfe ich da wirklich 
+			- [ ] mache ich das nur fürs gute Gefühl 
+			- [ ] wofür gibt dieser das Geld aus?
+		- [ ] Sozialhilfe 
+	- [ ] Geiger/Abtreibung 
+		- [ ] wie kam es zur Schwangerschaft?
+		- [ ] Beispiel wirklich mit Schwangerschaft vergleichbar?
+		- [ ] berühmter Geiger 
+			- [ ] hat ja schon gelebt 
+			- [ ] ist nicht wirklich mehr wert 
+		- [ ] Kompromiss?
+		- [ ] wann ist ein Embryo "Leben"?
+		- [ ] was sind Faktoren die bei ungewollten Schwangerschaften wichtig sind? 
+		- [ ] wie kann mit ungewollten Schwangerschaften umgegangen werden?
+		- [ ] was ist mehr "wert" das ungeborene ? (Zellhaufen) Oder die Selbstbestimmung der Frau. Es sind ja nicht nur 9 Monate, es ist ja ein ganzes Leben 
+	- [ ] Menschenfleisch 
+		- [ ] muss nicht immer etwas sterben damit man selbst leben kann?
+		- [ ] wie sieht es mit vegetarischer 
+		- [ ] wie mit Veganer Ernährung aus? 
+		- [ ] ist es besser kuh oder Hühner Fleisch zu essen? 
+		- [ ] 1 kuh vs viele Hühner?
+		- [ ] Weidehaltung?
+		- [ ] Tierhaltung im allgemeinen?
+		- [ ] eier/Hühnerhaltung/Küken schreddern/aktuelle Situation wirklich besser? Video vom hr zeigen 
+		- [ ] schächtung?
+		- [ ] Menschenfleisch im Notfall? 
+			- [ ] Flugzeug Absturz in den Anden 
 		- [ ] 
 - [ ] tvh Vertrag Zeug einheften 
 - [ ] auf ergänzung der Kursliste in Ethik achten.
