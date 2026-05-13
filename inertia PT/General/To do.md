@@ -10,7 +10,13 @@
 - [ ] Laptop Tastatur 
 - [ ] Computer Tastatur wischen 
 - [ ] 60°C Wäsche aufhängen 
-- [ ] Gedanken zu klaren Antworten 
+- [ ] Gedanken zu klaren Antworten zu den Ethik Gedankenexperimenten aufschreiben 
+	- [ ] Stichpunkte die mir bei der Beschreibung der videos wichtig sind
+	- [ ] Kriterien zu den eigenen Gedanken 
+	- [ ] Straßenbahn 
+		- [ ] autonomes fahren
+		- [ ] kleines Kind mit Vater vs schwangere Frau
+		- [ ] 
 - [ ] tvh Vertrag Zeug einheften 
 - [ ] auf ergänzung der Kursliste in Ethik achten.
 - [ ] nach der ID für die dienst email adresse fragen
