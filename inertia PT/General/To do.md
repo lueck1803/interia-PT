@@ -4,6 +4,7 @@
 - [ ] zähne putzen 
 - [ ] Duschen 
 - [ ] spülmaschine ausräumen 
+- [ ] Markierung an schulSchlüssel machen 
 - [ ] kurz staubsaugen 
 - [ ] weiße Gitarre putzen 
 - [ ] Laptop Tastatur 
