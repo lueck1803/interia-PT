@@ -1,7 +1,7 @@
 - ich~={RedRed} will meine Arbeit Publikations fähig machen=~
 # unsortiert
 - [ ] spülmaschine ausräumen 
-- [ ] zähne 
+- [ ] zähne putzen 
 - [ ] kurz staubsaugen 
 - [ ] weiße Gitarre putzen 
 - [ ] Laptop Tastatur 
