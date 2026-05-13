@@ -93,6 +93,7 @@
 		- [ ] verschiedene Begriffe von Zeit 
 		- [ ] Himmelsrichtungen 
 		- [ ] Video von nano bzw 42 zu Sprachen 
+		- [ ] hab ich das runtergeladen?
 - [ ] tvh Vertrag Zeug einheften 
 - [ ] auf ergänzung der Kursliste in Ethik achten.
 - [ ] nach der ID für die dienst email adresse fragen
