@@ -85,7 +85,6 @@ Ich übernehme:
 
 
 # Bernhard Adelung Schule (BAS)
-![[Images/BAS/Noten-Fristen-Jahrgang-5-BAS-2026.png]]
 **Sekretariat:**
 06151-13 480 700
 **Code für den iPad Koffer** 
@@ -267,15 +266,6 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
 	- Beispiele suchen (Freunde / Geschäftspartner / etc.)  
 	- Rücksicht und Empathie als Grund für den Verzicht auf OBEN-Positionen erkennen
 ### 26-05-12
-- alessio
-- rayan
-- massin
-- chaas
-
-⟹nachsitzen klassenraum 13 aufräumen. Kreide herum geworfen 
-⟹Haben dann aufgeräumt daher obsolet 
-~={RedRed}Bonus=~ für declihan, elif, dareen, Alisa 
-
 - SRF Kultur:
 	- STRASSENBAHN
 	- Schleier des Nichtwissens - Kann Ungleichheit gerecht sein?
@@ -286,7 +276,7 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
 	- GEHIRN IM TANK - Gibt es Realität?
 	- Gavagai - Sprachen verstehen/Missverständnisse
 	- MENSCHENFLEISCH ⟹ ~={Crimson}geht nicht im Schulwlan=~
-	- GAUGUIN - Gibt Erfolg immer recht? ⟹ ~={Crimson}geht nicht im Schulwlan=~
+	
 	
 ### 26-05-05
 - [ ] ideologischer Turing Test
@@ -785,12 +775,3 @@ wir nicht überall gleichzeitig sein können, auch nur eine beschränkte Aufmerk
 
 	- Ich hatte eine tolle Klassenlehrerin, die bei mir viel bewirkt und befördert hat, sowie immer an alle geglaubt hat.
 	- mich immer fragen ~={DeepSkyBlue} ist das hilfreich=~ und ~={RedRed}konstruktiv=~ im aktuellen Moment?
-	
-- ich möchte ein Vertrauensverhältnis aufbauen 
-- ich bin mir bewusst dass Missverständnisse entstehen können 
-- ich habe mich da auch unglücklich ausgedrückt 
-- sie ist halt nunmal so, das hat aber auch etwas Gutes.
-- ich finde damit kann man arbeiten 
-- mir ist es wichtiger dass sie sich verstanden und gehört fühlt und ich es dann mit ihr einfacher habe. Die Klasse hat genug Kinder die schwer dazu zu bringen sind überhaupt etwas zu machen 
-- auf Dauer habe ich mehr davon, wenn ich ihr Wohlwollen habe und sie auch auf lange Sicht kritikfähiger wird, auch was ihre eigene Arbeitsleistung angeht.
-- es ist auch gut, wenn man ein paar durchsetzungsstarke Schüler hat (das ist sie definitiv), die man einsetzen kann, um Konflikte zu beruhigen und um anderen bei den Aufgaben zu helfen 
