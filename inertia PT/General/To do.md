@@ -58,6 +58,14 @@
 		- [ ] schächtung?
 		- [ ] Menschenfleisch im Notfall? 
 			- [ ] Flugzeug Absturz in den Anden 
+	- [ ] Teekanne 
+		- [ ] glaube/mache ich alles was man mir sagt wenn etwas begründet wird mit "weil Gott!"
+		- [ ] Buchreligionen 
+		- [ ] religiöse Kleidung 
+			- [ ] warum so und nicht anders?
+			- [ ] warum gibt es da kulturelle Unterschiede?
+		- [ ] warum glaube ich exakt das?
+			- [ ] geboren als?
 		- [ ] 
 - [ ] tvh Vertrag Zeug einheften 
 - [ ] auf ergänzung der Kursliste in Ethik achten.
