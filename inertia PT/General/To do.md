@@ -78,7 +78,21 @@
 		- [ ] Messgeräte 
 		- [ ] Fitness tracker 
 		- [ ] computer /CPU 
-		- [ ] 
+		- [ ] Chatgpt/large language model
+		- [ ] Mikroskope
+		- [ ] studien
+		- [ ] Nachrichten 
+	- [ ] gibt es Realität 
+		- [ ] was sind Schmerzen /wie entstehen diese?
+		- [ ] wenn jemand etwas nicht schreien kann, empfindet es Schmerzen 
+		- [ ] finden Dinge statt, wenn ich sie nicht sehe? 
+		- [ ] kann ich dem überhaupt trauen was ich sehe?
+		- [ ] wie stieh es mit meiner Erinnerung aus?
+	- [ ] Sprachen 
+		- [ ] Farben haben in verschiedenen Sprachen verschiedene Bedeutungen 
+		- [ ] verschiedene Begriffe von Zeit 
+		- [ ] Himmelsrichtungen 
+		- [ ] Video von nano bzw 42 zu Sprachen 
 - [ ] tvh Vertrag Zeug einheften 
 - [ ] auf ergänzung der Kursliste in Ethik achten.
 - [ ] nach der ID für die dienst email adresse fragen
