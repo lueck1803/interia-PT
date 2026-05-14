@@ -19,7 +19,9 @@
 		- [ ] simulation br10-pe30 128k
 			- [ ] m=0.005 ⟹ fragmentiert
 	- [ ] br3-pe30
-		- [ ] 
+		- [ ] 112k
+			- [ ] m=0.005 fragmentiert, wächst gegen Ende der Laufzeit zusammen
+			- [ ] ⟹verlängern
 - [ ] neue Simulationen anstellen
 	- [ ] simulation br10-pe30 3.5k verlängern
 		- [ ] m=0.0001 
