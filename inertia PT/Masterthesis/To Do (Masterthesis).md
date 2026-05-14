@@ -38,11 +38,6 @@
 - [ ] what is active matter lesen 
 - [ ] Auswertungscode für original Kästchenmethode schreiben 
 
-
-
-- [x] simulation anstellen für 112k m=0.04 und einem box ratio von 1:3
-	- [ ] auf den ersten 20 bildern sieht es nicht danach aus, dass dadurch eine mehr zusammenhängende Struktur entsteht. Jetzt ist die Zerteilung nur mehr in y Richtung. Es ist also schon so  die richtige Entscheidung gewesen damals
-
 # important <span style="font-size:100%;color:tomato;">remarks</span>
 - ich~={RedRed} will meine Arbeit Publikations fähig machen=~
 - ~={Magenta}SI Siebert2018 Fig S4 b)=~ ⟹ mit Original subsystem Methode haben sie auch nen crossing point gefunden, der mit dem der abgeänderten Methode übereinstimmt. Der spread der intersections ist nur größer.
