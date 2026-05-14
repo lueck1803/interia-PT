@@ -9,6 +9,10 @@
 		- [ ] m=0.01
 			- dafür sieht das bereits sehr gut aus und ist durchgelaufen
 			- es spaltet sich aber über die Zeit auf
+	- [ ] simulation br10-pe30 28k
+		- [ ] m=0.005
+			- [ ] sieht gut aus, ist aber noch fragmentiert
+			- [ ] ⟹ m=0.0005 gestartet
 - [ ] neue Simulationen anstellen
 	- [ ] simulation br10-pe30 3.5k verlängern
 		- [ ] m=0.0001 
@@ -18,6 +22,8 @@
 		- [ ] m=0.0005 gestartet
 	- [ ] simulation br10-pe30 14k
 		- [ ] m=0.005 verlängert bzw erstmal zu ende laufen lassen...
+	- [ ] simulation br10-pe30 28k
+		- [ ] m=0.0005
 - [ ] gliederung
 - [ ] Talk text 
 	- [ ] ⟹ Gliederung 
