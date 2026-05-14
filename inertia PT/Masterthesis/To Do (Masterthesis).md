@@ -7,7 +7,9 @@
 	- [ ] simulation br10-pe30 3.5k verlängern
 		- [ ] m=0.0001 
 		- [ ] m=0.0005 
-	- [ ] simulation
+	- [ ] simulation br10-pe30 7k 
+		- [ ] m=0.005 verlängert
+		- [ ] m=0.0005 gestartet
 - [ ] gliederung
 - [ ] Talk text 
 	- [ ] ⟹ Gliederung 
