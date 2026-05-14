@@ -6,7 +6,14 @@
 - [ ] Talk text 
 	- [ ] ⟹ Gliederung 
 	- [ ] ⟹ Einleitung
-	- [ ] ⟹ stark kürzen
+	- [ ] ⟹ stark kürzen für den Talk
+- [ ] Hecht refigerator lesen
+- [ ] Suvendus paper nochmal lesen
+- [ ] Siebert fertig lesen
+	- [ ] paper 
+	- [ ] SI
+- [ ] Suvendus paper
+- [ ] Auswertungscode für original Kästchenmethode schreiben 
 
 
 
