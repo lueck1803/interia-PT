@@ -13,6 +13,10 @@
 		- [ ] m=0.005
 			- [ ] sieht gut aus, ist aber noch fragmentiert
 			- [ ] ⟹ m=0.0005 gestartet
+	- [ ] simulation br10-pe30 56k
+		- [ ] m=0.005 ⟹ fragmentiert
+	- [ ] simulation br10-pe30 128k
+		- [ ] m=0.005 ⟹ fragmentiert
 - [ ] neue Simulationen anstellen
 	- [ ] simulation br10-pe30 3.5k verlängern
 		- [ ] m=0.0001 
