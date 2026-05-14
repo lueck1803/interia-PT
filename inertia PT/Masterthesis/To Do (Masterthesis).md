@@ -1,3 +1,15 @@
+
+# current tasks
+- [ ] simulationen checken
+- [ ] neue Simulationen anstellen
+- [ ] gliederung
+- [ ] Talk text 
+	- [ ] ⟹ Gliederung 
+	- [ ] ⟹ Einleitung
+	- [ ] ⟹ stark kürzen
+
+
+
 - [x] simulation anstellen für 112k m=0.04 und einem box ratio von 1:3
 	- [ ] auf den ersten 20 bildern sieht es nicht danach aus, dass dadurch eine mehr zusammenhängende Struktur entsteht. Jetzt ist die Zerteilung nur mehr in y Richtung. Es ist also schon so  die richtige Entscheidung gewesen damals
 
@@ -504,6 +516,9 @@ $$
 - $\mathcal{H}_{\text{Ising}}=-\sum\limits\limits_{l\ne l'}^{} J_{ll'} S_{l}S_{l'}-H\sum\limits_{l}^{}S_{l}$ 
 - $\sum\limits_{i=1}^{N}$ 
 - \href{https://journals.aps.org/pre/abstract/10.1103/PhysRevE.98.030601\#supplemental}{supplement material} 
+- $p_{\text{subbox}}=L^{\beta/\nu} \hat{p}\left\{ \left( \rho-\rho_{\text{crit}} \right)L^{\beta/\nu},L^{1/\nu}\tau \right\}$ mit $\tau=1-\frac{T}{T_{c}}$
+- $p_{\text{subbox}}^\text{liquid}(\rho)\propto \exp \left\{ -\left( \rho-\rho_{\text{liquid}}^\text{coex} \right)^{2}L^{2} / \left( 2k_{B}T\chi_{\text{eff}}^{L} \right) \right\}$
+- $p_{\text{subbox}}^\text{vapor}(\rho)\propto \exp \left\{ -\left( \rho-\rho_{\text{vapor}}^\text{coex} \right)^{2}L^{2} / \left( 2k_{B}T\chi_{\text{eff}}^{L} \right) \right\}$
 
 # Masterplot
 multiply the data of the observable (binder cumulant, order parameter,  susceptibility) with the scaling factors of the observable. $L^{\zeta_{\mathcal{O}}/\nu}$ 
