@@ -525,6 +525,9 @@ Und es hat geklappt 🎆🥳❤️
 - kann ich <span style="color:red">mittlerweile</span> ganz <u>gut</u> ⟹ <span style="font-size:150%;color:red;">Naja</span> sei ehrlich! da hast du noch viel Arbeit vor dir
 
 # ADHD
+## Dopamin hacken 
+### [Dopamin hacken](https://youtu.be/pR_x6o6TZTA?is=xpUy3Rlt3ntqfkD7)
+
 ## [Wie ADHS Ängste auslöst](https://youtu.be/H7elTgbLE1g?is=3E0sjKJN_6yesU8e)
 
 

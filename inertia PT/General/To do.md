@@ -87,9 +87,7 @@
 	- [ ] read: Feedforward neural network
 	- [x] loss function article lesen
 	- [ ] das google paper lesen
-- [ ] ich hab auch noch kein Geld vom Schulamt bekommen 
 - [ ] Waschbecken Küche 
-- [x] alte to do zu alt sortieren 
 - [ ] Bürostuhl dampfen
 - [ ] sofa dampfen 
 - [ ] um die Kiwis kümmern 
