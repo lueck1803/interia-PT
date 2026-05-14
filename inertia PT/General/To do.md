@@ -2,12 +2,9 @@
 # unsortiert
 - [ ] spülmaschine ausräumen 
 - [ ] Markierung an schulSchlüssel machen 
-- [ ] 
-- [x] srf Kultur videos runterladen 
 - [ ] tvh Vertrag Zeug einheften 
 - [ ] auf ergänzung der Kursliste in Ethik achten.
 - [ ] nach der ID für die dienst email adresse fragen
-- [x] paper von aritra runter laden und ausdrucken 
 - [ ] wann war meine Ausbildung zum Rettungshelfer und was war meine Note
 - [ ] blatt mit denksport physik für licht und schatten erstellen
 - [ ] tinte Drucker auffüllen
