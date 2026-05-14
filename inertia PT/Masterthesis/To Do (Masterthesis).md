@@ -22,14 +22,23 @@
 		- [ ] 112k
 			- [ ] m=0.005 fragmentiert, wächst gegen Ende der Laufzeit zusammen
 			- [x] ⟹verlängern
+			- [x] seed 04000 starten
 		- [ ] 56k
 			- [ ] m=0.005 fragmentiert, wächst gegen Ende der Laufzeit zusammen
 			- [x] ⟹verlängern
-			- [ ] seed 04000 sta
+			- [x] seed 04000 starten
 		- [ ] 28k
 			- [ ] m=0.005 hängt bereits zu beginn wunderbar zusammen
 		- [ ] 14k
 			- [ ] m=0.005 hängt bereits zu beginn wunderbar zusammen
+		- [ ] 7k
+			- [ ] m=0.005 hängt bereits zu beginn wunderbar zusammen
+			      neigt zur fragmentierung, sieht aber gut aus
+				- [ ] gilt für beide seeds
+		- [ ]  3.5k
+			- [ ] m=0.005 hängt bereits zu beginn wunderbar zusammen
+			      neigt zur fragmentierung, sieht aber gut aus
+				- [ ] gilt für beide seeds
 - [ ] neue Simulationen anstellen
 	- [ ] simulation br10-pe30 3.5k verlängern
 		- [ ] m=0.0001 
