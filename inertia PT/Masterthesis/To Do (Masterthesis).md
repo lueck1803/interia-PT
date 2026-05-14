@@ -2,6 +2,10 @@
 # current tasks
 - [ ] simulationen checken
 - [ ] neue Simulationen anstellen
+	- [ ] simulation br10-pe30 3.5k verlängern
+		- [ ] m=0.0001 
+		- [ ] m=0.0005 
+	- [ ] simulation
 - [ ] gliederung
 - [ ] Talk text 
 	- [ ] ⟹ Gliederung 
