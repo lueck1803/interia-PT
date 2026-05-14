@@ -3,8 +3,12 @@
 - [ ] simulationen checken
 	- [ ] simulation br10-pe30 7k m=0.005 
 		- sieht gut aus, ab frame 32, daher verlängert
-	- [ ] simulation br10-pe30 14k m=0.005
-		- gar nicht beendet....
+	- [ ] simulation br10-pe30 14k 
+		- [ ] m=0.005
+			- gar nicht beendet....
+		- [ ] m=0.01
+			- dafür sieht das bereits sehr gut aus und ist durchgelaufen
+			- es spaltet sich aber über die Zeit auf
 - [ ] neue Simulationen anstellen
 	- [ ] simulation br10-pe30 3.5k verlängern
 		- [ ] m=0.0001 
