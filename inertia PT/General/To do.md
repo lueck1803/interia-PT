@@ -54,7 +54,7 @@
 		- [ ] 1 kuh vs viele Hühner?
 		- [ ] Weidehaltung?
 		- [ ] Tierhaltung im allgemeinen?
-		- [ ] eier/Hühnerhaltung/Küken schreddern/aktuelle Situation wirklich besser? Video vom hr zeigen 
+		- [ ] eier/Hühnerhaltung/Küken schreddern/aktuelle Situation wirklich besser? Video vom hr zeigen [Küken schreddern](https://youtu.be/cPbyXoVK0JM?is=CaBiPjPQJR-WnBak) 
 		- [ ] schächtung?
 		- [ ] Menschenfleisch im Notfall? 
 			- [ ] Flugzeug Absturz in den Anden 
@@ -94,6 +94,7 @@
 		- [ ] Himmelsrichtungen 
 		- [ ] Video von nano bzw 42 zu Sprachen 
 		- [ ] hab ich das runtergeladen?
+- [ ] srf Kultur videos runterladen 
 - [ ] tvh Vertrag Zeug einheften 
 - [ ] auf ergänzung der Kursliste in Ethik achten.
 - [ ] nach der ID für die dienst email adresse fragen
