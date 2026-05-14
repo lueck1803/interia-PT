@@ -1,8 +1,6 @@
 - [x] simulation anstellen für 112k m=0.04 und einem box ratio von 1:3
 	- [ ] auf den ersten 20 bildern sieht es nicht danach aus, dass dadurch eine mehr zusammenhängende Struktur entsteht. Jetzt ist die Zerteilung nur mehr in y Richtung. Es ist also schon so  die richtige Entscheidung gewesen damals
-- [ ] $p_{\text{subbox}}=L^{\beta/\nu} \hat{p}\left\{ \left( \rho-\rho_{\text{crit}} \right)L^{\beta/\nu},L^{1/\nu}\tau \right\}$ mit $\tau=1-\frac{T}{T_{c}}$
-- [ ] $p_{\text{subbox}}^\text{liquid}(\rho)\propto \exp \left\{ -\left( \rho-\rho_{\text{liquid}}^\text{coex} \right)^{2}L^{2} / \left( 2k_{B}T\chi_{\text{eff}}^{L} \right) \right\}$
-- [ ] $p_{\text{subbox}}^\text{vapor}(\rho)\propto \exp \left\{ -\left( \rho-\rho_{\text{vapor}}^\text{coex} \right)^{2}L^{2} / \left( 2k_{B}T\chi_{\text{eff}}^{L} \right) \right\}$
+
 # important <span style="font-size:100%;color:tomato;">remarks</span>
 - ich~={RedRed} will meine Arbeit Publikations fähig machen=~
 - ~={Magenta}SI Siebert2018 Fig S4 b)=~ ⟹ mit Original subsystem Methode haben sie auch nen crossing point gefunden, der mit dem der abgeänderten Methode übereinstimmt. Der spread der intersections ist nur größer.
