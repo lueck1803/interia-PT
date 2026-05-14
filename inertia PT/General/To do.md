@@ -99,11 +99,11 @@
 		- [ ] Warum bin ich in meinen Körper geboren worden?
 		- [ ] Ist das nicht eigentlich eine Lotterie?
 		- [ ] Computerspiele gespielt?: da respawnt man ja auch immer wieder neu und sieht die Welt aus der Perspektive eines spielers
-- [ ] srf Kultur videos runterladen 
+- [x] srf Kultur videos runterladen 
 - [ ] tvh Vertrag Zeug einheften 
 - [ ] auf ergänzung der Kursliste in Ethik achten.
 - [ ] nach der ID für die dienst email adresse fragen
-- [ ] paper von aritra runter laden und ausdrucken 
+- [x] paper von aritra runter laden und ausdrucken 
 - [ ] wann war meine Ausbildung zum Rettungshelfer und was war meine Note
 - [ ] blatt mit denksport physik für licht und schatten erstellen
 - [ ] tinte Drucker auffüllen
