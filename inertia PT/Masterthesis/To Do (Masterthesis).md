@@ -13,15 +13,23 @@
 		- [ ] simulation br10-pe30 28k
 			- [ ] m=0.005
 				- [ ] sieht gut aus, ist aber noch fragmentiert
-				- [ ] ⟹ m=0.0005 gestartet
+				- [x] ⟹ m=0.0005 gestartet
 		- [ ] simulation br10-pe30 56k
-			- [ ] m=0.005 ⟹ fragmentiert
+			- [x] m=0.005 ⟹ fragmentiert
 		- [ ] simulation br10-pe30 128k
-			- [ ] m=0.005 ⟹ fragmentiert
+			- [x] m=0.005 ⟹ fragmentiert
 	- [ ] br3-pe30
 		- [ ] 112k
 			- [ ] m=0.005 fragmentiert, wächst gegen Ende der Laufzeit zusammen
-			- [ ] ⟹verlängern
+			- [x] ⟹verlängern
+		- [ ] 56k
+			- [ ] m=0.005 fragmentiert, wächst gegen Ende der Laufzeit zusammen
+			- [x] ⟹verlängern
+			- [ ] seed 04000 sta
+		- [ ] 28k
+			- [ ] m=0.005 hängt bereits zu beginn wunderbar zusammen
+		- [ ] 14k
+			- [ ] m=0.005 hängt bereits zu beginn wunderbar zusammen
 - [ ] neue Simulationen anstellen
 	- [ ] simulation br10-pe30 3.5k verlängern
 		- [ ] m=0.0001 
