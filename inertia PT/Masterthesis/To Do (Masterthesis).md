@@ -1,6 +1,8 @@
 
 # current tasks
 - [ ] simulationen checken
+	- [ ] simulation br10-pe30 7k m=0.005 
+		- sieht gut aus, ab frame 32, daher verlängert
 - [ ] neue Simulationen anstellen
 	- [ ] simulation br10-pe30 3.5k verlängern
 		- [ ] m=0.0001 
