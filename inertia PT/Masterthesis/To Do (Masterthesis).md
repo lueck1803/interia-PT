@@ -2,6 +2,9 @@
 # current tasks
 - [ ] simulationen checken
 	- [ ] br10-pe30
+		- [ ] 3.5k 
+			- [ ] m=0.0001
+			      bleibt auch bei verlängerung auf die doppelte simulationszeit bei einer aufspaltung in größtenteils zwei bereiche, die sich aber schon sehr nahe kommen und auch ab und an verschmelzen
 		- [ ] simulation br10-pe30 7k m=0.005 
 			- sieht gut aus, ab frame 32, daher verlängert
 		- [ ] simulation br10-pe30 14k 
