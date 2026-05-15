@@ -3,8 +3,9 @@
 - [ ] simulationen checken
 	- [ ] br10-pe30
 		- [ ] 3.5k 
-			- [ ] m=0.0001
+			- [ ] m=0.0001=10^-4
 			      bleibt auch bei verlängerung auf die doppelte simulationszeit bei einer aufspaltung in größtenteils zwei bereiche, die sich aber schon sehr nahe kommen und auch ab und an verschmelzen
+				- ⟹ m=10^-5 gestartet
 		- [ ] simulation br10-pe30 7k m=0.005 
 			- sieht gut aus, ab frame 32, daher verlängert
 		- [ ] simulation br10-pe30 14k 
@@ -43,9 +44,10 @@
 			      neigt zur fragmentierung, sieht aber gut aus
 				- [ ] gilt für beide seeds
 - [ ] neue Simulationen anstellen
-	- [ ] simulation br10-pe30 3.5k verlängern
-		- [ ] m=0.0001 
-		- [ ] m=0.0005 
+	- [x] simulation br10-pe30 3.5k verlängern
+		- [x] m=0.0001 
+		- [x] m=0.0005 
+		- [ ] ⟹ m=10^-5 gestartet
 	- [ ] simulation br10-pe30 7k 
 		- [ ] m=0.005 verlängert
 		- [ ] m=0.0005 gestartet
