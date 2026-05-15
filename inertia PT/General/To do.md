@@ -1,7 +1,7 @@
 - ich~={RedRed} will meine Arbeit Publikations fähig machen=~
 # unsortiert
 - [x] Stecklinge checken und Wasser tauschen 
-- [ ] 
+- [ ] Vitamin D besorgen 
 - [ ] ENC Kurzanleitung lesen
 - [ ] Markierung an schulSchlüssel machen 
 - [ ] tvh Vertrag Zeug einheften 
