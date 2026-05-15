@@ -11,7 +11,7 @@
 				- sieht gut aus, ab frame 32, daher verlängert
 			- m=0.0005 
 				- perfekt
-				- starte bei 3.5k daher mit 
+				- starte bei 3.5k daher mit m=1x10^-4 nen neuen seed, vielleicht reicht das bzw ist gut genug
 		- [ ] simulation br10-pe30 14k 
 			- [ ] m=0.005
 				- gar nicht beendet....
