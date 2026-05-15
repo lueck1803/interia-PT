@@ -1,6 +1,5 @@
 - ich~={RedRed} will meine Arbeit Publikations fähig machen=~
 # unsortiert
-- [ ] spülmaschine ausräumen 
 - [ ] Stecklinge checken und Wasser tauschen 
 - [ ] Markierung an schulSchlüssel machen 
 - [ ] tvh Vertrag Zeug einheften 
