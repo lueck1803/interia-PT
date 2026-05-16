@@ -6,6 +6,7 @@
 			- [ ] m=0.0001=10^-4
 			      bleibt auch bei verlängerung auf die doppelte simulationszeit bei einer aufspaltung in größtenteils zwei bereiche, die sich aber schon sehr nahe kommen und auch ab und an verschmelzen
 				- ⟹ m=10^-5 gestartet
+				- [ ] m=10^-5 zweite simulation auf cpu2 mit seed 04000  gestartet
 		- [ ] simulation br10-pe30 7k 
 			- [ ] m=0.005 
 				- sieht gut aus, ab frame 32, daher verlängert
@@ -32,7 +33,6 @@
 			- [x] ⟹verlängern
 			- [x] seed 04000 starten
 			- [ ] das verlängerte sieht gut aus, ich verlängere es nochmal ~={Gold}verdreifacht=~
-			- [ ] m=10^-5 zweite simulation auf cpu2 mit seed 04000  gestartet
 		- [ ] 56k
 			- [ ] m=0.005 fragmentiert, wächst gegen Ende der Laufzeit zusammen
 			- [x] ⟹verlängern
