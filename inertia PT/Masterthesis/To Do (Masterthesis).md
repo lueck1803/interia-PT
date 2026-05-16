@@ -66,9 +66,9 @@
 - schreiben, dass ich im supplement von Siebert mit der original blockdensity methode es möglich war einen Schnittpunkt zufinden, die Genauigkeit ist nur schlechter ⟹ comparably large uncertainties ⟹ its results corroborate the estimate of the critical point in the manuscript (~={Tomato}corroborate =~ ~={LawnGreen} bestätigen, untermauern, bekräftigen=~)
 - [ ] Hecht refigerator lesen
 - [ ] Suvendus paper nochmal lesen
-- [ ] Siebert fertig lesen
-	- [ ] paper 
-	- [ ] SI
+- [x] Siebert fertig lesen
+	- [x] paper 
+	- [x] SI
 - [ ] Suvendus paper
 - [ ] what is active matter lesen 
 - [ ] Auswertungscode für original Kästchenmethode schreiben 
