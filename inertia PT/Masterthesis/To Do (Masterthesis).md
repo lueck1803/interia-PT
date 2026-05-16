@@ -58,24 +58,12 @@
 			- [ ] m=0.005 hängt bereits zu beginn wunderbar zusammen
 			      neigt zur fragmentierung, sieht aber gut aus
 				- [ ] gilt für beide seeds
-- [ ] neue Simulationen anstellen
-	- [x] simulation br10-pe30 3.5k 
-		- [ ] verlängern
-			- [x] m=0.0001 
-			- [x] m=0.0005 
-		- [x] m=10^-5 gestartet
-	- [ ] simulation br10-pe30 7k 
-		- [ ] m=0.005 verlängert
-		- [x] m=0.0005 gestartet
-	- [ ] simulation br10-pe30 14k
-		- [ ] m=0.005 verlängert bzw erstmal zu ende laufen lassen...
-	- [ ] simulation br10-pe30 28k
-		- [ ] m=0.0005
 - [ ] gliederung
 - [ ] Talk text 
 	- [ ] ⟹ Gliederung 
 	- [ ] ⟹ Einleitung
 	- [ ] ⟹ stark kürzen für den Talk
+- [ ] schreiben, dass ich im supplement von Siebert mit der original blockdensity methode es möglich war einen Schnittpunkt zufinden, die Genauigkeit ist nur schlechter
 - [ ] Hecht refigerator lesen
 - [ ] Suvendus paper nochmal lesen
 - [ ] Siebert fertig lesen
