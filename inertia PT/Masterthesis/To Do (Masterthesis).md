@@ -43,6 +43,8 @@
 			- [ ] m=0.005 hängt bereits zu beginn wunderbar zusammen
 			      neigt zur fragmentierung, sieht aber gut aus
 				- [ ] gilt für beide seeds
+				- [ ] also der 04000 er seed sieht super aus
+				- [ ] verdreifache deren trajektorie, damit ich mehr daten habe
 		- [ ]  3.5k
 			- [ ] m=0.005 hängt bereits zu beginn wunderbar zusammen
 			      neigt zur fragmentierung, sieht aber gut aus
