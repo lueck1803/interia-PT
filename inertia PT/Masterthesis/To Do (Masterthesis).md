@@ -32,6 +32,7 @@
 			- [x] ⟹verlängern
 			- [x] seed 04000 starten
 			- [ ] das verlängerte sieht gut aus, ich verlängere es nochmal ~={Gold}verdreifacht=~
+			- [ ] m=10^-5 zweite simulation auf cpu2 mit seed 04000  gestartet
 		- [ ] 56k
 			- [ ] m=0.005 fragmentiert, wächst gegen Ende der Laufzeit zusammen
 			- [x] ⟹verlängern
