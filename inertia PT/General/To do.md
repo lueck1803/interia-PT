@@ -5,7 +5,7 @@
 - [x] in die kiste schauen mit dem kram für die becorns
 - [x] bettwäsche wechseln
 - [ ] ENC Kurzanleitung lesen
-- [ ] Markierung an schulSchlüssel machen 
+- [x] Markierung an schulSchlüssel machen 
 - [ ] tvh Vertrag Zeug einheften 
 - [ ] auf ergänzung der Kursliste in Ethik achten.
 - [ ] nach der ID für die dienst email adresse fragen
