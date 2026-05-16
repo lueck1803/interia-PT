@@ -42,9 +42,12 @@
 				- [ ] bei diesem seed ist es schon von anfang an zusammen gewachsen
 				- [ ] ⤷ starte seed 03000
 		- [ ] 28k
-			- [ ] m=0.005 hängt bereits zu beginn wunderbar zusammen
+			- [x] m=0.005 hängt bereits zu beginn wunderbar zusammen
+				- [ ] ja ist perfekt ⟹ verdoppeln um mehr daten zu bekommen
+				- [ ] seed 04000 ist auch perfekt ⟹ verlängere diese deshalb nochmal
 		- [ ] 14k
 			- [ ] m=0.005 hängt bereits zu beginn wunderbar zusammen
+				- [ ] perfekt für beide seeds, daher beide simulationen verlängern
 		- [ ] 7k
 			- [ ] m=0.005 hängt bereits zu beginn wunderbar zusammen
 			      neigt zur fragmentierung, sieht aber gut aus
