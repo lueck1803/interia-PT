@@ -36,7 +36,11 @@
 		- [ ] 56k
 			- [ ] m=0.005 fragmentiert, wächst gegen Ende der Laufzeit zusammen
 			- [x] ⟹verlängern
+				- [ ] Verlängerung ist ab 56 zusammen gewachsen
+				- [ ] ⟹nochmal verlängern
 			- [x] seed 04000 starten
+				- [ ] bei diesem seed ist es schon von anfang an zusammen gewachsen
+				- [ ] ⤷ starte seed 03000
 		- [ ] 28k
 			- [ ] m=0.005 hängt bereits zu beginn wunderbar zusammen
 		- [ ] 14k
