@@ -63,7 +63,7 @@
 	- [ ] ⟹ Gliederung 
 	- [ ] ⟹ Einleitung
 	- [ ] ⟹ stark kürzen für den Talk
-- [ ] schreiben, dass ich im supplement von Siebert mit der original blockdensity methode es möglich war einen Schnittpunkt zufinden, die Genauigkeit ist nur schlechter
+- schreiben, dass ich im supplement von Siebert mit der original blockdensity methode es möglich war einen Schnittpunkt zufinden, die Genauigkeit ist nur schlechter ⟹ comparably large uncertainties ⟹ its results corroborate the estimate of the critical point in the manuscript (~={Tomato}corroborate =~ ~={LawnGreen} bestätigen, untermauern, bekräftigen=~)
 - [ ] Hecht refigerator lesen
 - [ ] Suvendus paper nochmal lesen
 - [ ] Siebert fertig lesen
