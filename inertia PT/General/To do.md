@@ -2,7 +2,8 @@
 # unsortiert
 - [x] Stecklinge checken und Wasser tauschen 
 - [ ] Vitamin D besorgen 
-- [ ] in die kiste schauen mit dem kram für die becorns
+- [x] in die kiste schauen mit dem kram für die becorns
+- [ ] bettwäsche wechseln
 - [ ] ENC Kurzanleitung lesen
 - [ ] Markierung an schulSchlüssel machen 
 - [ ] tvh Vertrag Zeug einheften 
