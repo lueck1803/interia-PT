@@ -31,6 +31,7 @@
 			- [ ] m=0.005 fragmentiert, wächst gegen Ende der Laufzeit zusammen
 			- [x] ⟹verlängern
 			- [x] seed 04000 starten
+			- [ ] das verlängerte sieht gut aus, ich verlängere es nochmal ~={Gold}verdreifacht=~
 		- [ ] 56k
 			- [ ] m=0.005 fragmentiert, wächst gegen Ende der Laufzeit zusammen
 			- [x] ⟹verlängern
