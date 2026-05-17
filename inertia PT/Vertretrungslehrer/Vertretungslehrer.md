@@ -164,6 +164,15 @@ Arbeitsstunden KW 19:
 - Ich würde mir wünschen:
 	- Dass ich nicht alles 3 mal einem einzelnen Kind sagen muss
 	- Wenn ihr ne Frage habt, dann stellt sie nach Möglichkeit einmal. Macht es für mich nicht leichter / verzögert den Prozess
+	- Versucht Chaotische Situationen zu vermeiden
+	- nehmt mich ernst, ich nehme euch auch möglichst ernst
+		- wenn ihr das Gefühl habt, dass ich euch nicht ernst nehme, dann sprecht das bitte an.
+		- ihr könnt auch gerne jederzeit mit mir alleine sprechen
+	- versucht Konflikte zu deeskalieren
+	- Unterstützt euch gegenseitig
+	- versucht bei frau Rothemayer etwas kooperativer umzugehen.
+		- sie ist nunmal nicht so flexibel
+		- sie hat ihre festgefahrenen Muster ⟹ einfach akzeptieren und mit machen, umso schneller geht es vorbei
 	- 
 ## Deutsch
 
