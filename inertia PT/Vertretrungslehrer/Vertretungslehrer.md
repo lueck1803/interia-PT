@@ -173,7 +173,15 @@ Arbeitsstunden KW 19:
 	- versucht bei frau Rothemayer etwas kooperativer umzugehen.
 		- sie ist nunmal nicht so flexibel
 		- sie hat ihre festgefahrenen Muster ⟹ einfach akzeptieren und mit machen, umso schneller geht es vorbei
-	- 
+- Eigene Grenzen und Grenzen des anderen
+	- ⤷ wann sind diese überschritten?
+	- was mache ich?
+	- Auswege?
+	- Was ist mein Anteil?
+	- Selbst wenn ich keinen Anteil habe, was ist mein Beitrag die Situation zu lösen?
+	- möglichst energieeffizient
+- sich gegenseitig zuhören. und versuchen die position des anderen so ~={LawnGreen}positiv wie möglich=~ auszulegen
+- ⤷ gilt insbesondere auch für meine Aussagen und Erklärungen beispielsweise ~={RedRed}Opfer Aussage bzgl Sara=~
 ## Deutsch
 
 - bis zur 7. klasse allgemein keine Rechtschreibung bewerten.
