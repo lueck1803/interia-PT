@@ -195,15 +195,16 @@ Arbeitsstunden KW 19:
 - ⤷ gilt insbesondere auch für meine Aussagen und Erklärungen beispielsweise ~={RedRed}Opfer Aussage bzgl Sara=~ (~={DeepSkyBlue}Sara vorher fragen, ob ich das ansprechen darf=~)
 - 
 ## Englisch
-### 2026-05-19
+### 2026-05-18
+
 - Workbook last lesson:
-  ![](Workbook_last.jpg)
+  ![](Images/BAS/Eng/2026-05-18/Workbook_last.jpg)
 - Textbook last lesson
-  ![](Textbook_last.jpg)
+  ![](Images/BAS/Eng/2026-05-18/Textbook_last.jpg)
 - Workbook this lesson
-  ![](Workbook_this.jpg)
+  ![](Images/BAS/Eng/2026-05-18/Workbook_this.jpg)
 - Textbook this lesson
-  ![](Textbook_this.jpg)
+  ![](Images/BAS/Eng/2026-05-18/Textbook_this.jpg)
 ## Deutsch
 
 - bis zur 7. klasse allgemein keine Rechtschreibung bewerten.
