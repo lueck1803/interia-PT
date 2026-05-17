@@ -175,9 +175,15 @@ Arbeitsstunden KW 19:
 		- sie hat ihre festgefahrenen Muster ⟹ einfach akzeptieren und mit machen, umso schneller geht es vorbei
 	- Lautstärke in der Klasse
 	- Trinken und Toilettengänge: 
+		- möglichst in den Pausen
 		- nacheinander 
 		- maximal zu zweit
 		- ~={DeepPink}Namen an die Tafel schreiben -> danach wegwischen!=~ damit es für alle klar ist
+		- wenn ihr gehen wollt, dann 
+			- kurz auf die Tafel schauen, ist die Person da?
+			- wenn ja, dann mir bescheid geben, dass ihr gehen wollt, dann dürft ihr in der Regel auch ohne Diskussion gehen
+			- ist die Person/en auf der Tafel länger weg, dann sagt mir das in dem Fall
+		- Ich sag das auch Frau Urban, bzw. habe ich ihr das ei
 - Eigene Grenzen und Grenzen des anderen
 	- ⤷ wann sind diese überschritten?
 	- was mache ich?
