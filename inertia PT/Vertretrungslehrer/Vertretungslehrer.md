@@ -144,6 +144,8 @@ Arbeitsstunden KW 19:
 ### 5c
 
 ![[Images/BAS/Sitzpläne/Sitzplan_5c.jpg]]
+## Klassenleiter Stunde
+- 
 ## Deutsch
 
 - bis zur 7. klasse allgemein keine Rechtschreibung bewerten.
