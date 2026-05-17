@@ -183,7 +183,7 @@ Arbeitsstunden KW 19:
 			- kurz auf die Tafel schauen, ist die Person da?
 			- wenn ja, dann mir bescheid geben, dass ihr gehen wollt, dann dürft ihr in der Regel auch ohne Diskussion gehen
 			- ist die Person/en auf der Tafel länger weg, dann sagt mir das in dem Fall
-		- Ich sag das auch Frau Urban, bzw. habe ich ihr das ei
+		- Ich sag das auch Frau Urban, bzw. habe ich ihr das schon angekündigt, dann macht sie das vielleicht auch bei euch
 - Eigene Grenzen und Grenzen des anderen
 	- ⤷ wann sind diese überschritten?
 	- was mache ich?
