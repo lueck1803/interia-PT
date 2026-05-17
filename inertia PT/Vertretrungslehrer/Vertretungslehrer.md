@@ -194,6 +194,16 @@ Arbeitsstunden KW 19:
 - sich gegenseitig zuhören. und versuchen die position des anderen so ~={LawnGreen}positiv wie möglich=~ auszulegen
 - ⤷ gilt insbesondere auch für meine Aussagen und Erklärungen beispielsweise ~={RedRed}Opfer Aussage bzgl Sara=~ (~={DeepSkyBlue}Sara vorher fragen, ob ich das ansprechen darf=~)
 - 
+## Englisch
+### 2026-05-19
+- Workbook last lesson:
+  ![](Workbook_last.jpg)
+- Textbook last lesson
+  ![](Textbook_last.jpg)
+- Workbook this lesson
+  ![](Workbook_this.jpg)
+- Textbook this lesson
+  ![](Textbook_this.jpg)
 ## Deutsch
 
 - bis zur 7. klasse allgemein keine Rechtschreibung bewerten.
