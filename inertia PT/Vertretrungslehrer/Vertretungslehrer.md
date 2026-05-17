@@ -145,6 +145,12 @@ Arbeitsstunden KW 19:
 
 ![[Images/BAS/Sitzpläne/Sitzplan_5c.jpg]]
 ## Klassenleiter Stunde
+- Stuhlkreis
+- Probleme besprechen
+- Plastikmännchen (Blumentopf mit Pflanze oben drin) auf dem Pult
+	- ⟹ als  ~={RedRed}Rednergegenstand=~
+- Wie gehts mir eigentlich? / Wie fühle ich mich heute?
+- Was ist am Woche
 - 
 ## Deutsch
 
