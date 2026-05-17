@@ -4,7 +4,7 @@
 - [ ] Vitamin D besorgen 
 - [ ] Spülmaschine ausräumen 
 - [ ] Biomüll runter 
-- [ ] Notizen zu nadines Sprachnachricht bzgl Klassenleiterstunde 
+- [x] Notizen zu nadines Sprachnachricht bzgl Klassenleiterstunde 
 - [x] in die kiste schauen mit dem kram für die becorns
 - [x] bettwäsche wechseln
 - [ ] ENC Kurzanleitung lesen
