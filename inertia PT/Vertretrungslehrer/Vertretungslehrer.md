@@ -150,8 +150,21 @@ Arbeitsstunden KW 19:
 - Plastikmännchen (Blumentopf mit Pflanze oben drin) auf dem Pult
 	- ⟹ als  ~={RedRed}Rednergegenstand=~
 - Wie gehts mir eigentlich? / Wie fühle ich mich heute?
-- Was ist am Woche
-- 
+- Was ist am (verlängerten) Wochenende passiert?
+- Probleme zwischen 
+	- Schülern der Klasse?
+	- mit Schülern aus anderen Klassen?
+- Mobbing?
+- Habt ihr Probleme mit mir? Feedbackrunde für mich / Kritik
+	- jeder darf mal dran was zu mir sagen
+	- was mache ich gut
+	- was könnte ich besser machen
+	- was findet ihr doof
+- Vorschläge, was wir besser/ anders machen könnten, damit wir insgesamt produktiver im Unterricht sind?
+- Ich würde mir wünschen:
+	- Dass ich nicht alles 3 mal einem einzelnen Kind sagen muss
+	- Wenn ihr ne Frage habt, dann stellt sie nach Möglichkeit einmal. Macht es für mich nicht leichter / verzögert den Prozess
+	- 
 ## Deutsch
 
 - bis zur 7. klasse allgemein keine Rechtschreibung bewerten.
