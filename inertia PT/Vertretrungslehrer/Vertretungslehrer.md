@@ -740,6 +740,9 @@ Narrated By ‘Aisha : Sauda (the wife of the Prophet) went out to answer the ca
 	- was wurde bisher gekocht?
 	- wie geht's weiter?
 # Aufgaben-Ideen
+## Physik
+## Demonstration von kinetischer Energie 
+- [ ] Ballkanone besorgen/bauen
 ## GL
 ### [neuestes vom Neandertaler](https://www.ardsounds.de/episode/urn:ard:episode:e6c45df3f342e2ee/)(Arbeitsblatt erstellen)
 - Kinder link oder Datei geben 

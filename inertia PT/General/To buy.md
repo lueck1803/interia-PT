@@ -105,6 +105,4 @@
 - [ ] tweat für Weste 
 - [ ] Nähmaschinen öl
 
-# Unterricht 
-- [ ] Ballkanone 
 
