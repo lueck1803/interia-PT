@@ -1448,7 +1448,13 @@ $$
 	- the amplitude of the noise on the alignment
 	- the ratio of the travel distance $v\Delta t$ to the interaction range $r$ 
 
+## **Non-reciprocal interactions** 
+==occur when the effect Entity A has on Entity B is unequal to the effect Entity B has on Entity A==. This violates Newton’s third law of motion (action and reaction) and the principle of detailed balance, creating dynamic, out-of-equilibrium systems.
+### Why They Matter
 
+- **Active Matter & Biology:** In biological and active matter systems (like cellular components or swarms), non-reciprocal couplings allow for self-organization, regulate system stability, and prevent stagnation. For instance, one organism may actively pursue another while the target ignores the pursuer, driving run-and-chase dynamics.
+- **Physics & Materials:** In photonics and materials science, non-reciprocal systems (such as optical isolators) allow waves or particles to travel in one direction but not the reverse. This enables exotic phenomena like odd elasticity and persistent heat currents, even in thermal equilibrium.
+- **Emergent Behaviors:** These asymmetries often result in unexpected collective states, including non-reciprocal phase transitions, chimera states, and high-dimensional chaos. [[1](https://link.aps.org/doi/10.1103/PhysRevX.14.011029), [2](https://www.ds.mpg.de/4080176/250422_Saha_non-reciprocal), [3](https://www.rieger.uni-saarland.de/Paper/Choi-Noh-Rieger.pdf), [4](https://arxiv.org/abs/2503.20908), [5](https://dgklab.ch.rachip.com/non-reciprocal-systems/), [6](https://physik.univie.ac.at/news/news-detailansicht/news/non-reciprocal-interactions-can-stabilize-dynamical-phases-of-matter/)]
 ## **Non-polar active nematics**
 are ==non-equilibrium active materials made of elongated, symmetric units (like rod-shaped bacteria or vibrated granular rods) that have no distinct "head" or "tail"==. Despite lacking polar directionality, these systems continuously consume energy to generate spontaneous, chaotic flow and self-driven topological defects.
 
