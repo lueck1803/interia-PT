@@ -221,7 +221,12 @@ Arbeitsstunden KW 19:
 	- [ ] dazu Übungsblätter suchen 
 	- [ ] bzw. unterricht überlegen
 ### Timeline
-- 26
+#### 26-05-18
+- Rayan:
+	- generell aufmümpfig
+	- macht im Unterricht nicht mit
+	- stört andere Schüler
+	- be
 ##### 26-05-08 Vertretung fr kaya
 - gut mit gemacht: 
 	- yasser
