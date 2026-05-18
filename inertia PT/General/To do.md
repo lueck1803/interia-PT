@@ -6,6 +6,8 @@
 - [ ] Biomüll runter 
 - [ ] pfeffer nachfüllen 
 - [ ] exercise in futility V üben
+- [ ] Waffenbrüder solo anschauen 
+- [ ] swamphell erstmal verwerfen/verschieben 
 - [x] Notizen zu nadines Sprachnachricht bzgl Klassenleiterstunde 
 - [x] in die kiste schauen mit dem kram für die becorns
 - [x] bettwäsche wechseln
