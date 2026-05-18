@@ -198,7 +198,7 @@ Arbeitsstunden KW 19:
 - finnlay und glordi haben gefehlt 
 
 ## GL
-- 
+- andrej und burak haben mich unterstützt
 ## Englisch
 ### 2026-05-18
 
