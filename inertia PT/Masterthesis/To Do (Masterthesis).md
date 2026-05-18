@@ -1458,7 +1458,19 @@ are ==non-equilibrium active materials made of elongated, symmetric units (like 
 - **Active Turbulence**: The competition between continuous active forcing and viscous dissipation gives rise to a chaotic, swirling flow state known as active turbulence.
 
 ### Topological Defects and Dynamics
-- **Symmetry**: In two-dimensional non-polar nematics, the orientational order breaks at isolated points known as topological defects, which are characterized by their topological charge $k=\pm \frac{1}{2}$
+- **Symmetry**: In two-dimensional non-polar nematics, the orientational order breaks at isolated points known as topological defects, which are characterized by their topological charge $k=\pm \frac{1}{2}$.
+- **Self-Propulsion**: Because the system is active, the $+\frac{1}{2}$ defects (which resemble comets) are inherently self-propelled. They swim through the fluid at a velocity $\mathbf{v}$  scaling with the local active stress gradient. In contrast, the $-\frac{1}{2}$ defects (which are trefoil-shaped) remain essentially stationary.
+- **Creation and Annihilation**: The active turbulence continuously generates and destroys defect pairs. Pairs of $+\frac{1}{2}$ and $-\frac{1}{2}$ defects are created, after which the faster, self-propelled $+\frac{1}{2}$ defects often encounter and annihilate defects of the opposite charge.
+
+### Biological and Synthetic Examples
+
+- **Biophysics**: Non-polar active nematic physics are frequently used to model dense tissues and cell monolayers. In these systems, elongated cells organize into aligned nematic domains, and the chaotic movement of cells is directly governed by defect generation and annihilation.
+- **Microtubule Assays**: A classic _in vitro_ experimental system consists of microtubules and motor proteins (such as kinesin) sandwiched at an oil-water interface, creating an active two-dimensional nematic layer.
+- **Synthetic Systems**: Non-polar active nematics can also be replicated using granular systems, such as vibrated monolayers of elongated rods that exhibit collective alignment and chaotic streaming.
+
+### Theoretical Framework
+
+The hydrodynamic theory for non-polar active nematics relies on the coupled equations for the nematic order tensor $Q_{ij}$ and the velocity field $\mathbf{u}$. The equations are extensions of the passive Beris-Edwards framework, modified to include active stress tensors. The key governing parameters include the friction coefficient $\zeta$ and the active stress coefficient $\alpha$, which controls the transition to chaotic flow. [[1](https://www.nature.com/articles/s41467-018-05666-8)]
 # LLM
 ## TUDaGPT
 ![[Pasted image 20260407132230.png]]
