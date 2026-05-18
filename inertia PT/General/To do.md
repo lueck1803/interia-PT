@@ -1,7 +1,7 @@
 - ich~={RedRed} will meine Arbeit Publikations fähig machen=~
 # unsortiert
 - [ ] oberste Priorität:
-	- [ ] ~={RedRed} Masterarbeit=~
+	- [ ]~={RedRed} Masterarbeit=~
 	- [ ] ~={Gold}Innere Ruhe=~ 
 	- [ ] dauerhaft präsent sein
 	- [ ] die kleinen Dinge (des Alltags) und das was ich bereits tue perfektionieren und vollkommene Sicherheit gewinnen 
