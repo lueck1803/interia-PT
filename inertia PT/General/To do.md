@@ -2,7 +2,8 @@
 # unsortiert
 - [x] Stecklinge checken und Wasser tauschen 
 - [ ] oberste Priorität:
-- [ ] 
+	- [ ] ~={RedRed} Masterarbeit=~
+	- [ ] 
 - [ ] Vitamin D besorgen 
 - [ ] Spülmaschine ausräumen 
 - [ ] Biomüll runter 
