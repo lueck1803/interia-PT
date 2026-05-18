@@ -10,7 +10,7 @@
 	- [ ] ich möchte im Moment glücklich und zu Frieden sein. Denn alles kann im nächsten Moment vorbei sein 
 	- [ ] nutze endlich die Chancen die du so häufig bekommen hast
 	- [ ] ich will ein sehr sehr sehr guter Lehrer werden. Dabei geht es um die Essenz 
-	- [ ] die Dinge mit Ruhe (,Langsamkeit ) 
+	- [ ] die Dinge mit Ruhe (,Langsamkeit ) und der Essenz begehen. Dann hat man Zeit voll bei sich und der Sache zu sein
 - [ ] Notizen zur Shadow work nochmal lesen
 - [ ] lao tzu
 - [ ] Notizen zu wissenschaftlichen Arbeit 
