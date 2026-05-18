@@ -196,6 +196,9 @@ Arbeitsstunden KW 19:
 
 - massin kam wegen des streiks 40 min zu spät, er musste von Kranichstein laufen 
 - finnlay und glordi haben gefehlt 
+
+## GL
+- 
 ## Englisch
 ### 2026-05-18
 
