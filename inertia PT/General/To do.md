@@ -5,6 +5,7 @@
 - [ ] Spülmaschine ausräumen 
 - [ ] Biomüll runter 
 - [ ] pfeffer nachfüllen 
+- [ ] exercise in futility V üben
 - [x] Notizen zu nadines Sprachnachricht bzgl Klassenleiterstunde 
 - [x] in die kiste schauen mit dem kram für die becorns
 - [x] bettwäsche wechseln
