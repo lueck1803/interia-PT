@@ -226,7 +226,11 @@ Arbeitsstunden KW 19:
 	- generell aufmümpfig
 	- macht im Unterricht nicht mit
 	- stört andere Schüler
-	- be
+	- beschimpft mich
+	- geht einfach aus der Klasse raus
+	- heute behauptet, dass ein Mädchen im anderen Raum vapen würde und hat die ganze Klasse aufgehetzt
+	- weiterhin ist er durch den Differenzierungsraum/anderen Raum gegangen und hat rine andere Klasse gestört 
+	- 
 ##### 26-05-08 Vertretung fr kaya
 - gut mit gemacht: 
 	- yasser
