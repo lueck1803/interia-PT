@@ -229,8 +229,9 @@ Arbeitsstunden KW 19:
 	- beschimpft mich
 	- geht einfach aus der Klasse raus
 	- heute behauptet, dass ein Mädchen im anderen Raum vapen würde und hat die ganze Klasse aufgehetzt
-	- weiterhin ist er durch den Differenzierungsraum/anderen Raum gegangen und hat rine andere Klasse gestört 
-	- 
+	- weiterhin ist er durch den Differenzierungsraum/anderen Raum gegangen und hat eine andere Klasse gestört 
+		- deren lehrer ist dann zu uns gekommen 
+	- weiterhin hat er schon mehrfach die Klassentür zu gehalten als ich draußen war
 ##### 26-05-08 Vertretung fr kaya
 - gut mit gemacht: 
 	- yasser
