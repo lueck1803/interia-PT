@@ -4,6 +4,7 @@
 	- [ ] ~={RedRed} Masterarbeit=~
 	- [ ] ~={Gold}Innere Ruhe=~ 
 	- [ ] dauerhaft präsent sein
+	- [ ] die kleinen Dinge (es und das was ich tue 
 - [ ] Vitamin D besorgen 
 - [ ] Spülmaschine ausräumen 
 - [ ] Biomüll runter 
