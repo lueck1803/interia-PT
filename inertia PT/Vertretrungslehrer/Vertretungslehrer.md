@@ -193,6 +193,8 @@ Arbeitsstunden KW 19:
 	- möglichst energieeffizient
 - sich gegenseitig zuhören. und versuchen die position des anderen so ~={LawnGreen}positiv wie möglich=~ auszulegen
 - ⤷ gilt insbesondere auch für meine Aussagen und Erklärungen beispielsweise ~={RedRed}Opfer Aussage bzgl Sara=~ (~={DeepSkyBlue}Sara vorher fragen, ob ich das ansprechen darf=~)
+
+- mess
 ## Englisch
 ### 2026-05-18
 
