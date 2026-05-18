@@ -6,6 +6,7 @@
 	- [ ] dauerhaft präsent sein
 	- [ ] die kleinen Dinge (des Alltags) und das was ich bereits tue perfektionieren und vollkommene Sicherheit gewinnen 
 	- [ ] ⤷daran ist nichts langweiliges es ist ~={MediumSpringGreen}wunder schön=~
+	- [ ] die kleinen und wichtige
 	- [ ] ich will ein sehr sehr sehr guter Lehrer werden. Dabei geht es um die Essenz 
 - [ ] Arthur schreiben 
 - [ ] Vitamin D besorgen 
