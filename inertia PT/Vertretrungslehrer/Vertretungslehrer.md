@@ -241,8 +241,12 @@ Arbeitsstunden KW 19:
 	- Polina
 ##### 26-05-12
 Zu spät:
-- glordi 
 - massin
+
+Nicht da: 
+- finlay
+- sherin 
+- glordi
 ##### 26-05-07
 Handschriftliche Anmerkung:
 
