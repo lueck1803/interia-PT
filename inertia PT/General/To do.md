@@ -4,7 +4,9 @@
 	- [ ] ~={RedRed} Masterarbeit=~
 	- [ ] ~={Gold}Innere Ruhe=~ 
 	- [ ] dauerhaft präsent sein
-	- [ ] die kleinen Dinge (es und das was ich tue 
+	- [ ] die kleinen Dinge (des Alltags) und das was ich bereits tue perfektionieren und vollkommene Sicherheit gewinnen 
+	- [ ] ich will ein sehr sehr sehr guter Lehrer werden. Dabei geht es um die Essenz 
+- [ ] Arthur schreiben 
 - [ ] Vitamin D besorgen 
 - [ ] Spülmaschine ausräumen 
 - [ ] Biomüll runter 
