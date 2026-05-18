@@ -94,6 +94,9 @@ Lina Tongue
 **First login teacher pc**:
 lukas.walter
 Start123
+**Telefon Lehrerzimmer**
+Vorwahl zum raus telefonieren: 01
+(13)-480713
 ### Zeiten
 - 1. 7:55 - 8:40
 - 2. 8:40 - 9:25
