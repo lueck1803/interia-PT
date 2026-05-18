@@ -1,6 +1,8 @@
 - ich~={RedRed} will meine Arbeit Publikations fähig machen=~
 # unsortiert
 - [x] Stecklinge checken und Wasser tauschen 
+- [ ] oberste Priorität:
+- [ ] 
 - [ ] Vitamin D besorgen 
 - [ ] Spülmaschine ausräumen 
 - [ ] Biomüll runter 
