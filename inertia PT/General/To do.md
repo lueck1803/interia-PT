@@ -15,6 +15,7 @@
 - [ ] Notizen zur Shadow work nochmal lesen
 - [ ] Nadine wegen lina Tongues Handy schreiben 
 - [ ] pädagogischer Tag 4h kommen 
+	- [ ] mail von jamil lesen wann es anfängt 
 - [ ] GL einscannen 
 - [ ] lao tzu
 - [ ] Notizen zu wissenschaftlichen Arbeit 
