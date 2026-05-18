@@ -222,7 +222,7 @@ Arbeitsstunden KW 19:
 	- [ ] bzw. unterricht überlegen
 ### Timeline
 #### 26-05-18
-- Rayan:
+- Rayan Buttar:
 	- generell aufmümpfig
 	- macht im Unterricht nicht mit
 	- stört andere Schüler
