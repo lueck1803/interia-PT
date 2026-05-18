@@ -7,7 +7,7 @@
 - [ ] pfeffer nachfüllen 
 - [ ] exercise in futility V üben
 - [ ] Waffenbrüder solo anschauen 
-- [ ] swamphell erstmal verwerfen/verschieben ⟹ Fusilli 2 und Text perfektionieren 
+- [ ] swamphell erstmal verwerfen/verschieben ⟹ Fusilli 2 und Text perfektionieren mit Rede+ Waffenbrüder solo
 - [x] Notizen zu nadines Sprachnachricht bzgl Klassenleiterstunde 
 - [x] in die kiste schauen mit dem kram für die becorns
 - [x] bettwäsche wechseln
