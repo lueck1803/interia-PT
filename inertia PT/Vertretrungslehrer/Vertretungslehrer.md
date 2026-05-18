@@ -204,6 +204,7 @@ Arbeitsstunden KW 19:
 - andrej und burak haben mich unterstützt
 
 - Das ist der Sitzplan. 
+  ![[../../6b-Sitzplan-Verlauf.jpg]]
 
 	Andrej und eine Person saßen auf dem Platz wo laut Sitzplan nur Yazen sitzen sollte.
 
@@ -213,9 +214,9 @@ Arbeitsstunden KW 19:
 
 	Die andere Person hat ihren Stuhl mitgenommen und dabei über den Boden geschleift, statt ihn hochzuheben.
 
-Dabei ist der Rucksack von Lina bis zum Sitzplatz der Person mitgeschleift worden.
+	Dabei ist der Rucksack von Lina bis zum Sitzplatz der Person mitgeschleift worden.
 
-Der Tisch an dem Lina saß, war wie ich versucht habe zu verdeutlichen etwas weiter oben. Nicht auf der Höhe von Oles Tisch.
+	Der Tisch an dem Lina saß, war wie ich versucht habe zu verdeutlichen etwas weiter oben. Nicht auf der Höhe von Oles Tisch.
 ## Englisch
 ### 2026-05-18
 
