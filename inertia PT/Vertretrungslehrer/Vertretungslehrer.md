@@ -194,7 +194,8 @@ Arbeitsstunden KW 19:
 - sich gegenseitig zuhören. und versuchen die position des anderen so ~={LawnGreen}positiv wie möglich=~ auszulegen
 - ⤷ gilt insbesondere auch für meine Aussagen und Erklärungen beispielsweise ~={RedRed}Opfer Aussage bzgl Sara=~ (~={DeepSkyBlue}Sara vorher fragen, ob ich das ansprechen darf=~)
 
-- mess
+- massin kam wegen des streiks 40 min zu spät, er musste von Kranichstein laufen 
+- finnlay und glordi haben gefehlt 
 ## Englisch
 ### 2026-05-18
 
