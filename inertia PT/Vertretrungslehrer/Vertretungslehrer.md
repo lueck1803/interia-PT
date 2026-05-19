@@ -728,19 +728,23 @@ Falls zu viele angemeldet für eine Gruppe, dann machen wir eine zweite Gruppe m
 #### Diese Sommerprojektwoche: ~={DeepSkyBlue}KreAktiv Woche=~ oder AKW
 Finanzierung:
 - Eltern
-- Schüler
+- Schüler - aufgeteilt auf Schüler
 - Kuchenverkauf
 - Förderverein
 - Projekte die nichts kosten (diesesmal)
 
 Plakate/große Liste:
+- Jahrgangsübergreifend ohne 5 und 6
 - Aushang mit Zehn Gruppen
 	- Name
 	- Info über die Gruppe
+		- Kurzbeschreibung
+		- Kosten (pro Schüler)
+		- Jahrgänge (zB. Tennis Eingrenzung Jahrgänge 7-10)
+		- Betreuender Lehrer
 	- Ort: 
 		- am Schulhof
 		- mit Aufsicht
-	- Betreuender Lehrer
 - Liste:
 	- wenn voll dann voll
 		- erst, zweit und dritt Wahl ⟹  nicht nötig
@@ -749,7 +753,7 @@ Plakate/große Liste:
 - Evaluierungsphase
 
 
-#### ~={LawnGreen}**themenbezogen** / Lehrinhaltewoche=~ (Frühjahr)
+#### ~={LawnGreen}**themenbezogen** / Lehrinhaltewoche=~ <span style="font-size:100%;color:lawngreen;"></span>(Frühjahr)
 - vor den Osterferien
 - Jahrgangsübergreifend ⟹ möglichst 5-10
 - ⤷ Präsentation der Ergebnisse 
