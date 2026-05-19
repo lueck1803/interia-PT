@@ -792,7 +792,7 @@ Plakate/große Liste:
 - (aber auch Küche? - Jung hat Klöße gemacht)
 - Währenddessen momentan die Projektprüfungen
 - Präsentation
-#### ~={DeepSkyBlue}Sport und Kreativ=~ (Sommer)
+#### <span style="font-size:100%;color:DeepSkyBlue;">Sport und Kreativ</span> (Sommer)
 - Spaßtage extra?
 - KreAktiv Woche oder AKW 
 - Klassenübergreifend: dieses mal die 5er ausgenommen - separat
