@@ -67,7 +67,10 @@ Plakate/große Liste:
 | Politische Bildung |                         |              |          |       |     |                     |
 | Bibliothek         |                         |              |          |       |     |                     |
 | Kunst / Kultur     |                         |              |          |       |     |                     |
-###### Einschränkungen
+##### Einschränkungen
+- Kein Kampfsport (jeglicher Art)
+	- Dazu zählt auch Bogenschießen
+	- Waffenbau
 
 #### <span style="font-size:100%;color:lawngreen;">themenbezogene / Lehrinhaltewoche</span>(Frühjahr)
 - vor den Osterferien
