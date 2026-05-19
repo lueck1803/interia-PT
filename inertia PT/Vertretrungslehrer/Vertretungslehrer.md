@@ -715,7 +715,14 @@ Double Diamond method
 ### Projektwoche
 400 Schüler $\pm$ 10
 	+ IK Klassen ~28 Kinder
-40 Lehrer (die zur Verfügung stehen)
+40 Lehrer (die zur Verfügung stehen) sind aber 60 Lehrer (gibt Leute die krank sind)
+⟹ Lehrer sind doppelt gesteckt pro Gruppe
+⟹ 20 Gruppen
+⟹ 20 Kinder pro Gruppe
+
+⟹ 20 Themen 
+Falls zu viele angemeldet für eine Gruppe, dann machen wir eine zweite Gruppe mit gleichem Thema auf 
+⤷ -1 Thema
 
 - ~={LawnGreen}**themenbezogen** / Lehrinhaltewoche=~ (Frühjahr)
 	- vor den Osterferien
