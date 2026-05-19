@@ -1,24 +1,39 @@
 - ich~={RedRed} will meine Arbeit Publikations fähig machen=~
 # unsortiert
-- [ ] oberste Priorität:
-	- [ ] ~={RedRed} Masterarbeit=~
-	- [ ] ~={Gold}Innere Ruhe=~ 
-	- [ ] dauerhaft präsent sein
-	- [ ] die kleinen Dinge (des Alltags) und das was ich bereits tue perfektionieren und vollkommene Sicherheit gewinnen 
-	- [ ] ⤷daran ist nichts langweiliges es ist ~={MediumSpringGreen}wunder schön=~
-	- [ ] die kleinen und wichtigen Dinge des Tages zelebrieren und perfektionieren denn das bringt die wahre Freude und ist der sinn des Lebens 
-	- [ ] ich möchte im Moment glücklich und zu Frieden sein. Denn alles kann im nächsten Moment vorbei sein 
-	- [ ] nutze endlich die Chancen die du so häufig bekommen hast
-	- [ ] ich will ein sehr sehr sehr guter Lehrer werden. Dabei geht es um die Essenz 
-	- [ ] die Dinge mit Ruhe (,Langsamkeit ) und der Essenz begehen. Dann hat man Zeit voll bei sich und der Sache zu sein
-	- [ ] Arooj loslassen, mich auf mich konzentrieren und endlich leben 
+- oberste Priorität:
+	- ~={RedRed} Masterarbeit=~
+	- ~={Gold}Innere Ruhe=~ 
+	- dauerhaft präsent sein
+	- die kleinen Dinge (des Alltags) und das was ich bereits tue perfektionieren und vollkommene Sicherheit gewinnen 
+	- ⤷daran ist nichts langweiliges es ist ~={MediumSpringGreen}wunder schön=~
+	- die kleinen und wichtigen Dinge des Tages zelebrieren und perfektionieren denn das bringt die wahre Freude und ist der sinn des Lebens 
+	- ich möchte im Moment glücklich und zu Frieden sein. Denn alles kann im nächsten Moment vorbei sein 
+	- nutze endlich die Chancen die du so häufig bekommen hast
+	- ich will ein sehr sehr sehr guter Lehrer werden. Dabei geht es um die Essenz 
+	- die Dinge mit Ruhe (,Langsamkeit ) und der Essenz begehen. Dann hat man Zeit voll bei sich und der Sache zu sein
+	- Arooj loslassen, mich auf mich konzentrieren und endlich leben 
 - [ ] Notizen zur Shadow work nochmal lesen
-- [x] pädagogischer Tag 4h kommen 
-	- [x] mail von jamil lesen wann es anfängt 
+- [ ] gießen
+- [ ] ethik To-Do löschen 
+- [ ] paper what's active matter lesen 
+- [ ] Simulationen anschauen 
+	- [ ] ~={LimeGreen}Simulationen nutzen um neue Erkenntnisse zu beschreiben =~
+	- [ ] Bilder in die Arbeit rein nehmen 
+	- [ ] Erklärungen in den Mails an Benno verwenden 
+	- [ ] eventuell neue Simulationen für 1:10 anstellen 
+- [ ] mal schnell die original Methode implementieren
+	- [ ] auf 1:3 Daten anwenden 
+	- [ ] mit dem box algo vergleichen 
+- [ ] brett spülen 
+- [ ] spülkorb putzen
+- [ ] Nudeln kochen 
+- [ ] Topf in Spülmaschine 
+- [ ] Dampfdruck topf spülen
+- [ ] Toilette putzen 
+- [ ] Duschwanne schrubben 
 - [ ] lao tzu
 - [ ] Notizen zu wissenschaftlichen Arbeit 
 - [ ] video zum Motivationscoach fertig und Notizen machen 
-- [x] Arthur schreiben 
 - [ ] Vitamin D besorgen 
 - [ ] Biomüll runter 
 - [ ] exercise in futility V üben
@@ -42,8 +57,6 @@
 - [ ] Excel-Tabelle für noten, Anwesenheit, Anmerkungen, mündliche Mitarbeit 
 	- [ ] notenverwaltung mit excel überlegen ob ich mir das kaufe oder ob ich mir das selbst erstelle
 - [ ] googlen wie man die klassen Führung organisiert 
-- [x] Knoblauchrauke suchen und ausgraben 
-	- [x] ja die ist so lecker 
 - [ ] Gitarre mit tremolo auf Eb stimmen
 - [ ] graues longsleeve unten flicken 
 - [ ] [Change your life now](https://youtu.be/pFhMzPxbY4E?is=o7W8uMv3Vc7oasP8) Notizen machen
@@ -123,14 +136,12 @@
 		- Für die Sonntagsdienste können Sie sich für zwei Schichten eintragen (09:00–12:30 Uhr und 12:30–16:00 Uhr). An folgenden Terminen suchen wir aktuell noch Unterstützung: 10. Mai, 7. Juni, 5. Juli, 2. August, 6. September und 4. Oktober.
 	- [ ] und Dienst zum Helfen 
 - [ ] Essen mit Kartoffeln machen 
-- [ ] Bettwäsche wechseln 
 - [ ] sobald ich den Vertrag unterschrieben habe, karte für psychedelic festival kaufen 
 - [ ] abp anstellen
 - [ ] spülkorb sauber machen
 - [ ] schauen wie ich mein Tablet Update
 - [ ] lernen schneller und kleiner an der Tafel zu schreiben
-- [ ] sofa saugen 
-- [ ] Wäsche zusammen legen 
+- [x] sofa saugen 
 - [ ] und Papierkram
 - [ ] Toilettendeckel tauschen 
 - [ ] Wasserhahn Küche silkonölen
@@ -140,6 +151,7 @@
 - [ ] meditieren 
 - [ ] Lisa mank SMS schreiben
 	- nicht nötig, da ich jetzt an der BAS bin
+	- haha sie hat mir am 18.5 ne sms geschrieben 
 - [ ] tägliches Mantra aufräumen 
 - [ ] ~={Crimson}Wie schaffe ich es immer aroused zu sein?=~
 	- [ ] Angst 
@@ -165,12 +177,12 @@
 	- [ ] ich hab mich dann nur noch fertig gemacht bzgl. meiner Entscheidungen
 	- [ ] ich wurde aber auch nicht ernst genommen
 	- [ ] Es wurde sich dann halt schon ziemlich lächerlich darüber gemacht, als es zum beispiel auch um das fahrrad ging. Arooj hat mich dann schon ernst genommen. aber war auch irgendwie herblassend zu mir
-- [x] Tisch absenken 
 - [ ] in vodafone konto einloggen
  
 - [ ] Steckdosenleiste unter dem Bett umsetzen 
 - [ ] einkaufschip clip mit metallkleber kleben
 - [ ] ~={Magenta}hessenbox=~ vom laptop entfernen
+	- ne lass ich erstmal
 - [ ] check for new mac os update - the next newer than Sonoma
 - [ ] Aritra fragen wie er genau alles in visual studio code eingerichtet hat
 - [ ] emails aufräumen
