@@ -739,6 +739,8 @@ Double Diamond method
 	- KreAktiv Woche oder AKW 
 	- Klassenübergreifend: dieses mal die 5er ausgenommen - separat
 	- Herr Jung: deutsches Sportabzeichen
+	- auch Schüler ihre Ideen verwirklichen ⟹ begleitet von Lehrkraft
+	- 
 
 - Jahrgang 8 ⟹ Buddies werden ausgebildet (sind aus der Projektwoche raus)
 	- ⤷ Ebenso die Sanitätsausbildung (5er Jahrgang) ⟹ jetzt extra Tag
