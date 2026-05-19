@@ -726,12 +726,13 @@ Falls zu viele angemeldet für eine Gruppe, dann machen wir eine zweite Gruppe m
 ⤷ -1 Thema
 
 #### Diese Sommerprojektwoche: ~={DeepSkyBlue}KreAktiv Woche=~ oder AKW
+
 Finanzierung:
 - Eltern
 - Schüler - aufgeteilt auf Schüler
 - Kuchenverkauf
 - Förderverein
-- Projekte die nichts kosten (diesesmal)
+- Projekte die nichts kosten (dieses mal)
 
 Plakate/große Liste:
 - Jahrgangsübergreifend ohne 5 und 6
