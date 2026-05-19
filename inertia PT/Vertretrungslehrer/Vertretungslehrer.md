@@ -713,6 +713,8 @@ Double Diamond method
 ### Toilettengänge
 
 ### Projektwoche
+- zweite Projektwoche **themenbezogen**
+- ⤷ präsentation der Ergebnisse ⟹ mit Elternbesuch
 
 ### Handyverbot
 # Motivation
