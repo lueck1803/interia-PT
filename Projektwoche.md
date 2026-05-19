@@ -54,6 +54,16 @@ Plakate/große Liste:
 		- IK (und 5er) + Nachzügler: 3.6
 - Vorlage für Aushang von Maria in A4
 
+#### Themenvorschläge
+
+| Kathegorie        | Aktivität / Einrichtung | Beschreibung | Jahrgang | Preis | Ort | Anmeldung / Kontakt |
+| ----------------- | ----------------------- | ------------ | -------- | ----- | --- | ------------------- |
+| Wissenschaft      |                         |              |          |       |     |                     |
+| Bauernhof / Natur |                         |              |          |       |     |                     |
+| Sport             |                         |              |          |       |     |                     |
+| Naturpädagogik    |                         |              |          |       |     |                     |
+|                   |                         |              |          |       |     |                     |
+
 
 #### <span style="font-size:100%;color:lawngreen;">themenbezogene / Lehrinhaltewoche</span>(Frühjahr)
 - vor den Osterferien
