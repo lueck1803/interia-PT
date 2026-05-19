@@ -1388,6 +1388,9 @@ Best wishes
 Benno
 
 # Glossar
+
+## driven vs. active system
+When comparing **driven** vs. **active** systems, the distinction usually boils down to the source of power and control. ==A **driven system** relies on an external, overarching force to move or guide it. An **active system** generates its own energy or intelligence to self-regulate, adapt, or perform specific actions==
 ## renormalization group (RG)
 The renormalization group is intimately related to scale invariance and conformal invariance, symmetries in which a system appears the same at all scales (~={LightBlue}self-similarity=~), where under the fixed point of the renormalization group flow the field theory is conformally invariant.
 
