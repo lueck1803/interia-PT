@@ -13,21 +13,21 @@
 	- [ ] die Dinge mit Ruhe (,Langsamkeit ) und der Essenz begehen. Dann hat man Zeit voll bei sich und der Sache zu sein
 	- [ ] Arooj loslassen, mich auf mich konzentrieren und endlich leben 
 - [ ] Notizen zur Shadow work nochmal lesen
-- [ ] pädagogischer Tag 4h kommen 
-	- [ ] mail von jamil lesen wann es anfängt 
+- [x] pädagogischer Tag 4h kommen 
+	- [x] mail von jamil lesen wann es anfängt 
 - [ ] lao tzu
 - [ ] Notizen zu wissenschaftlichen Arbeit 
 - [ ] video zum Motivationscoach fertig und Notizen machen 
-- [ ] Arthur schreiben 
+- [x] Arthur schreiben 
 - [ ] Vitamin D besorgen 
 - [ ] Biomüll runter 
 - [ ] exercise in futility V üben
-- [ ] Waffenbrüder solo anschauen 
+- [x] Waffenbrüder solo anschauen 
 - [ ] swamphell erstmal verwerfen/verschieben ⟹ Fusilli 2 und Text perfektionieren mit Rede+ Waffenbrüder solo
 - [ ] ENC Kurzanleitung lesen
 - [ ] tvh Vertrag Zeug einheften 
 - [ ] auf ergänzung der Kursliste in Ethik achten.
-- [ ] nach der ID für die dienst email adresse fragen
+- [x] nach der ID für die dienst email adresse fragen
 - [ ] wann war meine Ausbildung zum Rettungshelfer und was war meine Note
 - [ ] blatt mit denksport physik für licht und schatten erstellen
 - [ ] tinte Drucker auffüllen
@@ -42,8 +42,8 @@
 - [ ] Excel-Tabelle für noten, Anwesenheit, Anmerkungen, mündliche Mitarbeit 
 	- [ ] notenverwaltung mit excel überlegen ob ich mir das kaufe oder ob ich mir das selbst erstelle
 - [ ] googlen wie man die klassen Führung organisiert 
-- [ ] Knoblauchrauke suchen und ausgraben 
-	- [ ] ja die ist so lecker 
+- [x] Knoblauchrauke suchen und ausgraben 
+	- [x] ja die ist so lecker 
 - [ ] Gitarre mit tremolo auf Eb stimmen
 - [ ] graues longsleeve unten flicken 
 - [ ] [Change your life now](https://youtu.be/pFhMzPxbY4E?is=o7W8uMv3Vc7oasP8) Notizen machen
