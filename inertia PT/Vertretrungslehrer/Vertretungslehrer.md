@@ -725,13 +725,21 @@ Double Diamond method
 Falls zu viele angemeldet für eine Gruppe, dann machen wir eine zweite Gruppe mit gleichem Thema auf 
 ⤷ -1 Thema
 
-Diese Sommerprojektwoche:
+###Diese Sommerprojektwoche:
 
 Plakate/große Liste:
 - Aushang mit Zehn Gruppen
-- Ort: 
-- kleiner Zettel name
-- erst, zweit und dritt Wahl
+	- Name
+	- Info über die Gruppe
+	- Ort: 
+		- am Schulhof
+		- mit Aufsicht
+	- Betreuender Lehrer
+- Liste:
+	- wenn voll dann voll
+		- erst, zweit und dritt Wahl ⟹  nicht nötig
+	- Ort:
+		- Hat bestimmter Lehrer der die Liste führt und diese einträgt
 
 
 #### ~={LawnGreen}**themenbezogen** / Lehrinhaltewoche=~ (Frühjahr)
