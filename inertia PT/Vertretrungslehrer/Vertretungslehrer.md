@@ -729,7 +729,7 @@ Double Diamond method
 	- Jahrgangsintern
 		- 4 Klassen des Jahrgangs durchmischt
 	- (aber auch Küche? - Jung hat Klöße gemacht)
-	- war früher vor den Herbsferien
+	- 
 	- Präsentation
 - Sommer ↔ ~={DeepSkyBlue}Sport und Kreativ=~
 	- Spaßtage extra?
