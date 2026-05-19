@@ -3186,3 +3186,5 @@ The forward process acts as the "teacher" for training the model. By observing h
 The forward process is crucial for generating training data in diffusion models, serving as a vital step before the model learns to reverse the distortion to create, for example, high-fidelity images.
 
 
+
+
