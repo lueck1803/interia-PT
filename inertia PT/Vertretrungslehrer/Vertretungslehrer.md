@@ -766,8 +766,8 @@ Plakate/große Liste:
 	- ⤷ von 9 absteigend
 		- 9er und 8er: 1.6
 		- 7er und 6er: 2.6
-		- IK (und 5er) + Nachzügler: 
-- Vorlage für Aushang
+		- IK (und 5er) + Nachzügler: 3.6
+- Vorlage für Aushang von Maria in A4
 
 
 #### ~={LawnGreen}**themenbezogen** / Lehrinhaltewoche=~ <span style="font-size:100%;color:lawngreen;"></span>(Frühjahr)
