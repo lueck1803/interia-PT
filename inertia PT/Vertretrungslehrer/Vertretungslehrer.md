@@ -713,8 +713,15 @@ Double Diamond method
 ### Toilettengänge
 
 ### Projektwoche
-- zweite Projektwoche **themenbezogen**
-- ⤷ präsentation der Ergebnisse ⟹ mit Elternbesuch
+- zweite Projektwoche **themenbezogen** (Frühjahr)
+- ⤷ Präsentation der Ergebnisse 
+	- ⟹ Plakate
+	- ⟹ mit Elternbesuch
+	- ⟹ Kaffee und Kuchen
+- Sommer ↔ Sport und Kreativ
+- Laborwoche (aber auch Küche? - Jung hat Klöße gemacht)
+- Jahrgangsübergreifend?
+- Jahrgang 8 ⟹ Buddies werden ausgebildet 
 
 ### Handyverbot
 # Motivation
