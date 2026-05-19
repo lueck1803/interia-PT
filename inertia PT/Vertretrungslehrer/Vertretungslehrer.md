@@ -719,9 +719,13 @@ Double Diamond method
 	- ⟹ mit Elternbesuch
 	- ⟹ Kaffee und Kuchen
 - Sommer ↔ Sport und Kreativ
-- Laborwoche (aber auch Küche? - Jung hat Klöße gemacht)
+- Laborwoche 
+	- (aber auch Küche? - Jung hat Klöße gemacht)
+	- war früher vor den Herbsferien
 - Jahrgangsübergreifend?
-- Jahrgang 8 ⟹ Buddies werden ausgebildet 
+- Jahrgang 8 ⟹ Buddies werden ausgebildet (wären dann aber aus der Projektwoche raus)
+- ⤷ Ebenso die Sanitätsausbildung (5er Jahrgang)
+- Überlegung, dass diese Ausbildungen  
 
 ### Handyverbot
 # Motivation
