@@ -733,7 +733,7 @@ Double Diamond method
 	- Präsentation
 - Sommer ↔ ~={DeepSkyBlue}Sport und Kreativ=~
 	- Spaßtage extra?
-	- KreAktiv woche oder AKW
+	- KreAktiv Woche oder AKW
 - vor den Osterferien
 	- Jahrgangsübergreifend ⟹ möglichst 5-10
 	- zb Waldtag 
