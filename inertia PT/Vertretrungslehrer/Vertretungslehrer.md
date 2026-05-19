@@ -698,7 +698,10 @@ Narrated By ‘Aisha : Sauda (the wife of the Prophet) went out to answer the ca
 ## Pädagogischer Tag
 
 ### Arbeitsmethode
-- 
+Double Diamond method
+- Fragen - zuhören - Sortieren ↔ Kreieren - Testen - Designen
+- ![](Images/BAS/double-diamond.png)
+- Problemphase ⟹ Lösungsphase
 
 ### Schüler-Eltern-Kontakt
 ### Fehlverhalten
