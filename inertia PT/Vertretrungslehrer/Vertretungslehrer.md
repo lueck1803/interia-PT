@@ -753,13 +753,20 @@ Plakate/große Liste:
 - Evaluierungsphase
 - Kollegen heute noch Projekt ausdenken 
 - Fristen:
-	- Einreichung der Projekte: 28.5
-	- Einwahl: 3.6 (4.6. ist Feiertag)
+	- Einreichung der Projekte: 
+		- 26.5
+		- Aushangszeit: 26.5 - 3.6
+	- Einwahl: 
+		- 3.6 (4.6. ist Feiertag) 
+		- 1.6-3.6
 - Orte:  
 	- Aushang: Mensa Fenster nach außen
 	- Einwahl: Lerntreff/
 - Reihenfolge der Eintragung: 
 	- ⤷ von 9 absteigend
+		- 9er und 8er: 1.6
+		- 7er und 6er: 2.6
+		- IK (und 5er) + Nachzügler: 
 - Vorlage für Aushang
 
 
