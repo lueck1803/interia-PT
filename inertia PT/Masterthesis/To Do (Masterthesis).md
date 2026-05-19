@@ -378,6 +378,12 @@ $$
 15. -> arbeit aritra schicken
 16. Vortrag
 ## talk
+
+- fotos von
+	- bakterien
+	- flocks
+	- janus particles
+
 1. Thank you for having me. Sorry I have constant brain fog - my brain is so full and empty at the same time - these days so don't be mean about me, that I need to read what I want to say.
 2. I often really don't know what is wrong with me.
 	1. But that's wrong,
