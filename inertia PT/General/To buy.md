@@ -2,11 +2,11 @@
 - [x] hafermilch
 - [x] Schmelzkäse Scheiben 
 - [x] grüne Oliven 
-- [x] toast
+- [ ] toast
 - [x] Pesto 
 - [x] schoko chips
 - [x] schoki
-- [x] Nusskati 
+- [ ] Nusskati 
 - [ ] grüne Erbsen 
 - [x] Chipotle mayo
 - [ ] tofu
