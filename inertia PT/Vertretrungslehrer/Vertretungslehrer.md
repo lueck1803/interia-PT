@@ -751,6 +751,13 @@ Plakate/große Liste:
 	- Ort:
 		- Hat bestimmter Lehrer der die Liste führt und diese einträgt
 - Evaluierungsphase
+- Kollegen heute noch Projekt ausdenken 
+- Fristen:
+	- Einreichung der Projekte: 28.5
+	- Einwahl: 3.6 (4.6. ist Feiertag)
+- Orte:  
+	- Einwahl: Lerntreff 
+- Vorlage fürs 
 
 
 #### ~={LawnGreen}**themenbezogen** / Lehrinhaltewoche=~ <span style="font-size:100%;color:lawngreen;"></span>(Frühjahr)
