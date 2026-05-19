@@ -55,15 +55,19 @@ Plakate/große Liste:
 - Vorlage für Aushang von Maria in A4
 
 #### Themenvorschläge
+##### Übersicht / Ideenpool
 
-| Kathegorie        | Aktivität / Einrichtung | Beschreibung | Jahrgang | Preis | Ort | Anmeldung / Kontakt |
-| ----------------- | ----------------------- | ------------ | -------- | ----- | --- | ------------------- |
-| Wissenschaft      |                         |              |          |       |     |                     |
-| Bauernhof / Natur |                         |              |          |       |     |                     |
-| Sport             |                         |              |          |       |     |                     |
-| Naturpädagogik    |                         |              |          |       |     |                     |
-|                   |                         |              |          |       |     |                     |
-
+| Kathegorie         | Aktivität / Einrichtung | Beschreibung | Jahrgang | Preis | Ort | Anmeldung / Kontakt |
+| ------------------ | ----------------------- | ------------ | -------- | ----- | --- | ------------------- |
+| Wissenschaft       |                         |              |          |       |     |                     |
+| Bauernhof / Natur  |                         |              |          |       |     |                     |
+| Sport              |                         |              |          |       |     |                     |
+| Naturpädagogik     |                         |              |          |       |     |                     |
+| Politik / Recht    |                         |              |          |       |     |                     |
+| Politische Bildung |                         |              |          |       |     |                     |
+| Bibliothek         |                         |              |          |       |     |                     |
+| Kunst / Kultur     |                         |              |          |       |     |                     |
+###### Einschränkungen
 
 #### <span style="font-size:100%;color:lawngreen;">themenbezogene / Lehrinhaltewoche</span>(Frühjahr)
 - vor den Osterferien
