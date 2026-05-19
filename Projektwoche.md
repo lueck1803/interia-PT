@@ -70,7 +70,11 @@ Plakate/große Liste:
 ##### Einschränkungen
 - Kein Kampfsport (jeglicher Art)
 	- Dazu zählt auch Bogenschießen
-	- Waffenbau
+	- Waffenbau (Bogenbau)
+- Aktivitäten, die einen (Aufsichts-)schein benötigen bzw. Betreuungsschlüssel benötigen
+	- Trampolinhalle (1 : 15)
+	- Kletterwald
+	- Skaten
 
 #### <span style="font-size:100%;color:lawngreen;">themenbezogene / Lehrinhaltewoche</span>(Frühjahr)
 - vor den Osterferien
