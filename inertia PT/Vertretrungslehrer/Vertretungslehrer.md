@@ -725,7 +725,13 @@ Double Diamond method
 Falls zu viele angemeldet für eine Gruppe, dann machen wir eine zweite Gruppe mit gleichem Thema auf 
 ⤷ -1 Thema
 
-###Diese Sommerprojektwoche:
+#### Diese Sommerprojektwoche: ~={DeepSkyBlue}KreAktiv Woche=~ oder AKW
+Finanzierung:
+- Eltern
+- Schüler
+- Kuchenverkauf
+- Förderverein
+- Projekte die nichts kosten (diesesmal)
 
 Plakate/große Liste:
 - Aushang mit Zehn Gruppen
@@ -740,6 +746,7 @@ Plakate/große Liste:
 		- erst, zweit und dritt Wahl ⟹  nicht nötig
 	- Ort:
 		- Hat bestimmter Lehrer der die Liste führt und diese einträgt
+- Evaluierungsphase
 
 
 #### ~={LawnGreen}**themenbezogen** / Lehrinhaltewoche=~ (Frühjahr)
