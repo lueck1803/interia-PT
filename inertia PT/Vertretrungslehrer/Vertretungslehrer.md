@@ -720,7 +720,12 @@ Double Diamond method
 	- ⟹ Kaffee und Kuchen
 - ~={MediumTurquoise}Laborwoche =~ 
 	- GL bezogen
-		- 
+		- Fächerübergreifend
+		- zb Kartoffel
+			- Klöße machen
+			- Geschichte: Herkunft und Ereignisse
+			- Kunst + Kartoffel
+			- Gedichte - Bezug zu Deutschland
 	- Jahrgangsintern
 		- 4 Klassen des Jahrgangs durchmischt
 	- (aber auch Küche? - Jung hat Klöße gemacht)
@@ -728,9 +733,10 @@ Double Diamond method
 	- Präsentation
 - Sommer ↔ ~={DeepSkyBlue}Sport und Kreativ=~
 	- Spaßtage extra?
-	- 
+	- KreAktiv woche oder AKW
 - vor den Osterferien
 	- Jahrgangsübergreifend ⟹ möglichst 5-10
+	- zb Waldtag 
 
 - Jahrgang 8 ⟹ Buddies werden ausgebildet (wären dann aber aus der Projektwoche raus)
 	- ⤷ Ebenso die Sanitätsausbildung (5er Jahrgang)
