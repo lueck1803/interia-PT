@@ -771,7 +771,7 @@ Plakate/große Liste:
 - Vorlage für Aushang von Maria in A4
 
 
-#### ~={LawnGreen}**themenbezogen** / Lehrinhaltewoche=~ <span style="font-size:100%;color:lawngreen;"></span>(Frühjahr)
+#### <span style="font-size:100%;color:lawngreen;">themenbezogene / Lehrinhaltewoche</span>(Frühjahr)
 - vor den Osterferien
 - Jahrgangsübergreifend ⟹ möglichst 5-10
 - ⤷ Präsentation der Ergebnisse 
@@ -779,7 +779,7 @@ Plakate/große Liste:
 - ⟹ Plakate
 - ⟹ mit Elternbesuch
 - ⟹ Kaffee und Kuchen
-#### ~={MediumTurquoise}Laborwoche =~(war früher vor den Herbstferien)
+#### <span style="font-size:100%;color:MediumTurquoise;">Laborwoche</span> (war früher vor den Herbstferien)
 - GL bezogen
 	- Fächerübergreifend
 	- zb Kartoffel
@@ -800,7 +800,6 @@ Plakate/große Liste:
 - auch Schüler ihre Ideen verwirklichen ⟹ begleitet von Lehrkraft
 - Sammlung/Liste/Pool über was in der Vergangenheit bereits Projekte waren
 	- ⤷Dateispeicher (Schulportal)
-	- 
 
 - Jahrgang 8 ⟹ Buddies werden ausgebildet (sind aus der Projektwoche raus)
 	- ⤷ Ebenso die Sanitätsausbildung (5er Jahrgang) ⟹ jetzt extra Tag
