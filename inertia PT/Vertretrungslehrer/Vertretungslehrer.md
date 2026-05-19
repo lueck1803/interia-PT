@@ -756,8 +756,11 @@ Plakate/große Liste:
 	- Einreichung der Projekte: 28.5
 	- Einwahl: 3.6 (4.6. ist Feiertag)
 - Orte:  
-	- Einwahl: Lerntreff 
-- Vorlage fürs 
+	- Aushang: Mensa Fenster nach außen
+	- Einwahl: Lerntreff/
+- Reihenfolge der Eintragung: 
+	- ⤷ von 9 absteigend
+- Vorlage für Aushang
 
 
 #### ~={LawnGreen}**themenbezogen** / Lehrinhaltewoche=~ <span style="font-size:100%;color:lawngreen;"></span>(Frühjahr)
