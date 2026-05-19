@@ -713,20 +713,28 @@ Double Diamond method
 ### Toilettengänge
 
 ### Projektwoche
-- zweite Projektwoche **themenbezogen** / Lehrin(Frühjahr)
-- ⤷ Präsentation der Ergebnisse 
+- zweite Projektwoche ~={LawnGreen}**themenbezogen** / Lehrinhaltewoche=~ (Frühjahr)
+	- ⤷ Präsentation der Ergebnisse 
 	- ⟹ Plakate
 	- ⟹ mit Elternbesuch
 	- ⟹ Kaffee und Kuchen
-- Sommer ↔ Sport und Kreativ
-- Laborwoche 
+- ~={MediumTurquoise}Laborwoche =~ 
+	- GL bezogen
+		- 
+	- Jahrgangsintern
+		- 4 Klassen des Jahrgangs durchmischt
 	- (aber auch Küche? - Jung hat Klöße gemacht)
 	- war früher vor den Herbsferien
-- Jahrgangsübergreifend?
+	- Präsentation
+- Sommer ↔ ~={DeepSkyBlue}Sport und Kreativ=~
+	- Spaßtage extra?
+	- 
+- vor den Osterferien
+	- Jahrgangsübergreifend ⟹ möglichst 5-10
+
 - Jahrgang 8 ⟹ Buddies werden ausgebildet (wären dann aber aus der Projektwoche raus)
-- ⤷ Ebenso die Sanitätsausbildung (5er Jahrgang)
-- ⤷ Überlegung, dass diese Ausbildungen ausgelagert werden 
-- Spaßtage extra?
+	- ⤷ Ebenso die Sanitätsausbildung (5er Jahrgang)
+	- ⤷ Überlegung, dass diese Ausbildungen ausgelagert werden 
 - 
 
 ### Handyverbot
