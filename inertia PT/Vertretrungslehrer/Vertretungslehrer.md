@@ -713,7 +713,7 @@ Double Diamond method
 ### Toilettengänge
 
 ### Projektwoche
-- zweite Projektwoche **themenbezogen** (Frühjahr)
+- zweite Projektwoche **themenbezogen** / Lehrin(Frühjahr)
 - ⤷ Präsentation der Ergebnisse 
 	- ⟹ Plakate
 	- ⟹ mit Elternbesuch
@@ -726,6 +726,8 @@ Double Diamond method
 - Jahrgang 8 ⟹ Buddies werden ausgebildet (wären dann aber aus der Projektwoche raus)
 - ⤷ Ebenso die Sanitätsausbildung (5er Jahrgang)
 - ⤷ Überlegung, dass diese Ausbildungen ausgelagert werden 
+- Spaßtage extra?
+- 
 
 ### Handyverbot
 
