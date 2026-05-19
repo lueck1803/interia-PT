@@ -703,6 +703,10 @@ Double Diamond method
 - ![](Images/BAS/double-diamond.png)
 - Problemphase ⟹ Lösungsphase
 
+**Carla Sosa**
+- Kein Kontakt mit der SKA
+- Mehr Kontakt Zwischen Nachmittagsbetreuung (SKA-Sozialkritischer Arbeitskreis Darmstadt) und Schule
+
 ### Schüler-Eltern-Kontakt
 ### Fehlverhalten
 
