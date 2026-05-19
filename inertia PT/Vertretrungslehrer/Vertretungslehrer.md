@@ -713,6 +713,7 @@ Double Diamond method
 ### Toilettengänge
 
 ### Projektwoche
+
 400 Schüler $\pm$ 10
 	+ IK Klassen ~28 Kinder
 40 Lehrer (die zur Verfügung stehen) sind aber 60 Lehrer (gibt Leute die krank sind)
@@ -724,36 +725,45 @@ Double Diamond method
 Falls zu viele angemeldet für eine Gruppe, dann machen wir eine zweite Gruppe mit gleichem Thema auf 
 ⤷ -1 Thema
 
-- ~={LawnGreen}**themenbezogen** / Lehrinhaltewoche=~ (Frühjahr)
-	- vor den Osterferien
-	- Jahrgangsübergreifend ⟹ möglichst 5-10
-	- ⤷ Präsentation der Ergebnisse 
-	- zb Waldtag 
-	- ⟹ Plakate
-	- ⟹ mit Elternbesuch
-	- ⟹ Kaffee und Kuchen
-- ~={MediumTurquoise}Laborwoche =~(war früher vor den Herbstferien)
-	- GL bezogen
-		- Fächerübergreifend
-		- zb Kartoffel
-			- Klöße machen
-			- Geschichte: Herkunft und Ereignisse
-			- Kunst + Kartoffel
-			- Gedichte - Bezug zu Deutschland
-	- Jahrgangsintern
-		- 4 Klassen des Jahrgangs durchmischt
-	- (aber auch Küche? - Jung hat Klöße gemacht)
-	- Währenddessen momentan die Projektprüfungen
-	- Präsentation
-- ~={DeepSkyBlue}Sport und Kreativ=~ (Sommer)
-	- Spaßtage extra?
-	- KreAktiv Woche oder AKW 
-	- Klassenübergreifend: dieses mal die 5er ausgenommen - separat
-	- Herr Jung: deutsches Sportabzeichen
-	- auch Schüler ihre Ideen verwirklichen ⟹ begleitet von Lehrkraft
-	- Sammlung/Liste/Pool über was in der Vergangenheit bereits Projekte waren
-		- ⤷Dateispeicher (Schulportal)
-		- 
+Diese Sommerprojektwoche:
+
+Plakate/große Liste:
+- Aushang mit Zehn Gruppen
+- Ort: 
+- kleiner Zettel name
+- erst, zweit und dritt Wahl
+
+
+#### ~={LawnGreen}**themenbezogen** / Lehrinhaltewoche=~ (Frühjahr)
+- vor den Osterferien
+- Jahrgangsübergreifend ⟹ möglichst 5-10
+- ⤷ Präsentation der Ergebnisse 
+- zb Waldtag 
+- ⟹ Plakate
+- ⟹ mit Elternbesuch
+- ⟹ Kaffee und Kuchen
+#### ~={MediumTurquoise}Laborwoche =~(war früher vor den Herbstferien)
+- GL bezogen
+	- Fächerübergreifend
+	- zb Kartoffel
+		- Klöße machen
+		- Geschichte: Herkunft und Ereignisse
+		- Kunst + Kartoffel
+		- Gedichte - Bezug zu Deutschland
+- Jahrgangsintern
+	- 4 Klassen des Jahrgangs durchmischt
+- (aber auch Küche? - Jung hat Klöße gemacht)
+- Währenddessen momentan die Projektprüfungen
+- Präsentation
+#### ~={DeepSkyBlue}Sport und Kreativ=~ (Sommer)
+- Spaßtage extra?
+- KreAktiv Woche oder AKW 
+- Klassenübergreifend: dieses mal die 5er ausgenommen - separat
+- Herr Jung: deutsches Sportabzeichen
+- auch Schüler ihre Ideen verwirklichen ⟹ begleitet von Lehrkraft
+- Sammlung/Liste/Pool über was in der Vergangenheit bereits Projekte waren
+	- ⤷Dateispeicher (Schulportal)
+	- 
 
 - Jahrgang 8 ⟹ Buddies werden ausgebildet (sind aus der Projektwoche raus)
 	- ⤷ Ebenso die Sanitätsausbildung (5er Jahrgang) ⟹ jetzt extra Tag
