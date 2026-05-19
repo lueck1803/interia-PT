@@ -725,7 +725,7 @@ Double Diamond method
 - Jahrgangsübergreifend?
 - Jahrgang 8 ⟹ Buddies werden ausgebildet (wären dann aber aus der Projektwoche raus)
 - ⤷ Ebenso die Sanitätsausbildung (5er Jahrgang)
-- Überlegung, dass diese Ausbildungen  
+- ⤷ Überlegung, dass diese Ausbildungen ausgelagert werden 
 
 ### Handyverbot
 # Motivation
