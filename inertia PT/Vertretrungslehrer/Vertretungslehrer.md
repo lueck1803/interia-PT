@@ -707,7 +707,7 @@ Double Diamond method
 - Kein Kontakt mit der SKA
 - Mehr Kontakt Zwischen Nachmittagsbetreuung (SKA-Sozialkritischer Arbeitskreis Darmstadt) und Schule
 
-### Schüler-Eltern-Kontakt
+### Schüler-Eltern-Kontakt/Kommunikationswege 
 ### Fehlverhalten
 
 ### Toilettengänge
@@ -728,7 +728,8 @@ Double Diamond method
 - ⤷ Überlegung, dass diese Ausbildungen ausgelagert werden 
 
 ### Handyverbot
-# Motivation
+
+### ästhetische Bildung 
 ## allgemein
 - wie geht ihr mit Langeweile um? 
 	- seid ihr religiös ⟹ betet ihr? ⟹langweilt ihr euch beim Beten?
