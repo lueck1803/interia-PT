@@ -694,6 +694,20 @@ Narrated By ‘Aisha : Sauda (the wife of the Prophet) went out to answer the ca
 	- immer den ganzen Sack mitnehmen
 	- die Bälle nicht an Schüler einzeln herausgeben
 	- die sind dafür gedacht, dass man in den Bürgerpark geht und die als Lehrer mit nimmt.
+
+## Pädagogischer Tag
+
+### Arbeitsmethode
+- 
+
+### Schüler-Eltern-Kontakt
+### Fehlverhalten
+
+### Toilettengänge
+
+### Projektwoche
+
+### Handyverbot
 # Motivation
 ## allgemein
 - wie geht ihr mit Langeweile um? 
