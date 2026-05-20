@@ -27,10 +27,11 @@
 	- [ ] mit dem box algo vergleichen 
 - [ ] brett spülen 
 - [ ] spülkorb putzen
-- [ ] Nudeln kochen 
+- [ ] Nudeln in den Kühlschrank 
 - [ ] Topf in Spülmaschine 
 - [ ] Dampfdruck topf spülen
-- [ ] Toilette putzen 
+- [x] Toilette putzen 
+- [ ] Dampfdrucktopf spülen
 - [ ] Duschwanne schrubben 
 - [ ] lao tzu
 - [ ] Notizen zu wissenschaftlichen Arbeit 
