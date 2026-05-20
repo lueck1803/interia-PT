@@ -243,13 +243,13 @@ Arbeitsstunden KW 19:
 Personalpronomen / Possessivpronomen in den Vier Fällen
 ![[Images/BAS/Deu/Personalpronomen.jpg]]
 
-|      |          | Singular           |          |        |          | Plural         |          |
-| ---- | -------- | ------------------ | -------- | ------ | -------- | -------------- | -------- |
-|      | 1. Pers. | 2. Pers.           | 3. Pers. |        | 1. Pers. | 2. Pers.  <br> | 3. Pers. |
-| Nom. | ich      | er  <br>du         | sie      | es     | wir      | ihr  <br>      | sie      |
-| Gen. | meiner   | deiner  <br>seiner | ihrer    | seiner | unser    | euer  <br>     | ihrer    |
-| Dat. | mir      | dir  <br>ihm       | ihr      | ihm    | uns      | euch  <br>     | ihnen    |
-| Akk. | mich     | dich  <br>ihn      | sie      | es     | uns      | euch  <br>sie  |          |
+|      |          | Singular     |        |          |        |          | Plural         |          |
+| ---- | -------- | ------------ | ------ | -------- | ------ | -------- | -------------- | -------- |
+|      | 1. Pers. | 2. Pers.     |        | 3. Pers. |        | 1. Pers. | 2. Pers.  <br> | 3. Pers. |
+| Nom. | ich      | du           | er     | sie      | es     | wir      | ihr  <br>      | sie      |
+| Gen. | meiner   | deiner  <br> | seiner | ihrer    | seiner | unser    | euer  <br>     | ihrer    |
+| Dat. | mir      | dir  <br>    | ihm    | ihr      | ihm    | uns      | euch  <br>     | ihnen    |
+| Akk. | mich     | dich  <br>   | ihn    | sie      | es     | uns      | euch  <br>     | sie      |
 
 #### 26-05-18
 - Rayan Buttar:
