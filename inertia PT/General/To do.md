@@ -15,7 +15,7 @@
 - [ ] Notizen zur Shadow work nochmal lesen
 - [x] Faustregeln auf *Die 4 Fälle* ergänzen.
 - [ ] Kunst Blätter einscannen
-- [ ] Mitarbeit und Anwesenheit der Kinder in Ethik nachtragen
+- [x] Mitarbeit und Anwesenheit der Kinder in Ethik nachtragen
 - [ ] Trinkflasche versuchen zu kleben 
 - [ ] Löcher in schwarzem T-Shirt mit rotem Rand flicken 
 - [x] anita auf Nachrichten und Blätter antworten. Sagen dass ich zu letzt mit denen die fertig waren das andere Blatt begonnen habe. Das werden dann alle bekommen. Wie sieht es mit der Arbeit aus? Die müssen wir eigentlich noch mehr nächste Woche schreiben 
