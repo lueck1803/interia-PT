@@ -239,6 +239,9 @@ Arbeitsstunden KW 19:
 	- [ ] dazu Übungsblätter suchen 
 	- [ ] bzw. unterricht überlegen
 ### Timeline
+#### 26-05-21
+Personalpronomen in den Vier Fällen
+![[Images/BAS/Deu/Personalpronomen.jpg]]
 #### 26-05-18
 - Rayan Buttar:
 	- generell aufmümpfig
