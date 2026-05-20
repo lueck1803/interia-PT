@@ -13,9 +13,10 @@
 	- die Dinge mit Ruhe (,Langsamkeit ) und der Essenz begehen. Dann hat man Zeit voll bei sich und der Sache zu sein
 	- Arooj loslassen, mich auf mich konzentrieren und endlich leben 
 - [ ] Notizen zur Shadow work nochmal lesen
+- [ ] Mitarbeit und Anwesenheit der Kinder in Ethik nachtragen
 - [ ] Trinkflasche versuchen zu kleben 
 - [ ] Löcher in schwarzem T-Shirt mit rotem Rand flicken 
-- [ ] anita auf Nachrichten und Blätter antworten. Sagen dass ich zu letzt mit denen die fertig waren das andere Blatt begonnen habe. Das werden dann alle bekommen. Wie sieht es mit der Arbeit aus? Die müssen wir eigentlich noch mehr nächste Woche schreiben 
+- [x] anita auf Nachrichten und Blätter antworten. Sagen dass ich zu letzt mit denen die fertig waren das andere Blatt begonnen habe. Das werden dann alle bekommen. Wie sieht es mit der Arbeit aus? Die müssen wir eigentlich noch mehr nächste Woche schreiben 
 - [ ] gießen
 - [ ] ethik To-Do löschen 
 - [ ] paper what's active matter lesen 
@@ -44,7 +45,7 @@
 - [ ] swamphell erstmal verwerfen/verschieben ⟹ Fusilli 2 und Text perfektionieren mit Rede+ Waffenbrüder solo
 - [ ] ENC Kurzanleitung lesen
 - [ ] tvh Vertrag Zeug einheften 
-- [ ] auf ergänzung der Kursliste in Ethik achten.
+- [x] auf ergänzung der Kursliste in Ethik achten.
 - [x] nach der ID für die dienst email adresse fragen
 - [ ] wann war meine Ausbildung zum Rettungshelfer und was war meine Note
 - [ ] blatt mit denksport physik für licht und schatten erstellen
