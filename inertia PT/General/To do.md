@@ -14,6 +14,7 @@
 	- Arooj loslassen, mich auf mich konzentrieren und endlich leben 
 - [ ] Notizen zur Shadow work nochmal lesen
 - [ ] Trinkflasche versuchen zu kleben 
+- [ ] Löcher in schwarzem T-Shirt mit rotem Rand flicken 
 - [ ] anita auf Nachrichten und Blätter antworten. Sagen dass ich zu letzt mit denen die fertig waren das andere Blatt begonnen habe. Das werden dann alle bekommen. Wie sieht es mit der Arbeit aus? Die müssen wir eigentlich noch mehr nächste Woche schreiben 
 - [ ] gießen
 - [ ] ethik To-Do löschen 
