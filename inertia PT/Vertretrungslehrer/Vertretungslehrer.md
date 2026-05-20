@@ -1005,7 +1005,8 @@ Plakate/große Liste:
 	- wie funktioniert Wirtschaft 
 	- und unser Geld System 
 ## Deutsch
-Links zu Material
+### Links zu Material
+[Fälle | Aduis](https://www.aduis.de/grammatik-faelle-ab48147)
 ### schreibt einen Songtext
 - Für Gesang or Rap
 ## Argumentation und Debatten 
