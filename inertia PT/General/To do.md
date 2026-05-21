@@ -13,10 +13,15 @@
 	- die Dinge mit Ruhe (,Langsamkeit ) und der Essenz begehen. Dann hat man Zeit voll bei sich und der Sache zu sein
 	- Arooj loslassen, mich auf mich konzentrieren und endlich leben 
 - [ ] Notizen zur Shadow work nochmal lesen
+- [ ] Ethik Blatt mit dem Arbeitsauftrag 
+	- [ ] zu zweit ein Video vorstellen 
+	- [ ] alle Videos schauen 
+	- [ ] zu zwei schriftlich 
+		- [ ] eigenen Titel/Thema des Videos 
 - [x] Faustregeln auf *Die 4 Fälle* ergänzen.
 - [x] Kunst Blätter einscannen
 - [x] Mitarbeit und Anwesenheit der Kinder in Ethik nachtragen
-- [ ] Trinkflasche versuchen zu kleben 
+- [x] Trinkflasche versuchen zu kleben 
 - [ ] Löcher in schwarzem T-Shirt mit rotem Rand flicken 
 - [x] anita auf Nachrichten und Blätter antworten. Sagen dass ich zu letzt mit denen die fertig waren das andere Blatt begonnen habe. Das werden dann alle bekommen. Wie sieht es mit der Arbeit aus? Die müssen wir eigentlich noch mehr nächste Woche schreiben 
 - [ ] gießen
