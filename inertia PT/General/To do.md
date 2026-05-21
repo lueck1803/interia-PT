@@ -18,6 +18,13 @@
 	- [ ] alle Videos schauen 
 	- [ ] zu zwei schriftlich 
 		- [ ] eigenen Titel/Thema des Videos 
+		- [ ] Beschreibung/Nacherzählung des Videos 
+		- [ ] eigene Gedanken dazu
+			- [ ] was hältst/denkst du davon 
+			- [ ] oder was würdest du tun
+			- [ ] hast du aus deiner Familie, Kultur oder Religion Regeln, Weisheiten oder Wegweiser die dir da weiter helfen können oder die Entscheidung abnehmen 
+			- [ ] wie hast du dich beim Schauen gefühlt denkst du jetzt anders?
+			- [ ] überlege dir eine Frage dazu an die Gruppe
 - [x] Faustregeln auf *Die 4 Fälle* ergänzen.
 - [x] Kunst Blätter einscannen
 - [x] Mitarbeit und Anwesenheit der Kinder in Ethik nachtragen
