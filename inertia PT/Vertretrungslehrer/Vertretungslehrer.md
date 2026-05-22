@@ -61,6 +61,11 @@ Ich übernehme:
 - [ ] Was hat sich da entwickelt?
 - [ ] ~={DeepSkyBlue}Klassenarbeit=~ Deutsch zu ~={MediumTurquoise}Zeitformen von Verben=~
 - [ ] buch durch arbeiten
+- [ ] Deutsch Schulbuch Material anschauen
+	- [ ] hab ich wieder in den Schrank getan 🫣
+- [x] eventuell Jugendbuch mit 5c in Deutsch 
+	- ⟹ ist verworfen, da wir nicht so viel Zeit haben, wir machen Grammatik
+	- "Herr der Diebe" hat 400 Seiten, ist zu lang
 
 
 ## Allgemein Fragen zum Unterricht:

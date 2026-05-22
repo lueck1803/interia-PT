@@ -48,18 +48,14 @@
 - [ ] Vitamin D besorgen 
 - [ ] Biomüll runter 
 - [ ] exercise in futility V üben
-- [x] Waffenbrüder solo anschauen 
 - [ ] swamphell erstmal verwerfen/verschieben ⟹ Fusilli 2 und Text perfektionieren mit Rede+ Waffenbrüder solo
 - [ ] ENC Kurzanleitung lesen
 - [ ] tvh Vertrag Zeug einheften 
-- [x] auf ergänzung der Kursliste in Ethik achten.
 - [x] nach der ID für die dienst email adresse fragen
 - [ ] wann war meine Ausbildung zum Rettungshelfer und was war meine Note
 - [ ] blatt mit denksport physik für licht und schatten erstellen
 - [ ] tinte Drucker auffüllen
 - [ ] aufschreiben dass frontal/Gesprächsunterricht mit den meisten Klassen nicht funktioniert 
-- [ ] Deutsch Schulbuch Material anschauen
-	- [ ] hab ich wieder in den Schrank getan 🫣
 - [ ] Mich nach Unternehmen umschauen, was ich nach dem Master mache?
 - [ ] mir ein aktuelles deutsch schulbuch besorgen
 - [ ] Stundenplan in den Kalender eintragen
@@ -82,9 +78,6 @@
 	- [ ] dazu Übungsblätter suchen 
 	- [ ] bzw. unterricht überlegen
 - [ ] Kunst: Vorder und hintergrund. Beispiele und material suchen. Wie wird das richtig gemacht?
-- [x] eventuell Jugendbuch mit 5c in Deutsch 
-	- ⟹ ist verworfen, da wir nicht so viel Zeit haben, wir machen Grammatik
-	- "Herr der Diebe" hat 400 Seiten, ist zu lang
 - [x] dem Hausmeister ne Mail wegen Kunstschrank Schlüssel (daniel.mroczek@darmstadt.de)
 	- [ ] noch ne Mail wegen parkplatzschlüssel, da es im Sekretariat keinen mehr zu geben scheint
 - [ ] Lehrplan Realschule lesen
@@ -125,7 +118,6 @@
 - [ ] spülkorb sauber machen
 - [ ] schauen wie ich mein Tablet Update
 - [ ] lernen schneller und kleiner an der Tafel zu schreiben
-- [x] sofa saugen 
 - [ ] und Papierkram
 - [ ] Toilettendeckel tauschen 
 - [ ] Wasserhahn Küche silkonölen
@@ -133,9 +125,6 @@
 - [ ] Vorderrad Bremse checken/einstellen/tauschen 
 - [ ] Klingel checken
 - [ ] meditieren 
-- [ ] Lisa mank SMS schreiben
-	- nicht nötig, da ich jetzt an der BAS bin
-	- haha sie hat mir am 18.5 ne sms geschrieben 
 - [ ] tägliches Mantra aufräumen 
 - [ ] ~={Crimson}Wie schaffe ich es immer aroused zu sein?=~
 	- [ ] Angst 
@@ -694,6 +683,9 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] <span style="color:coral">paartherapie S3 runterladen</span>
 
 # Alt
+- [x] Lisa mank SMS schreiben
+	- nicht nötig, da ich jetzt an der BAS bin
+	- haha sie hat mir am 18.5 ne sms geschrieben 
 - [x] stunden für heute und gestern aufschreiben wegen ssv falls der Vertrag ab gestern gilt 
 - [x] jamil ne mail oder whatsapp
 	- [x] schul-ID / dienstmail ?
