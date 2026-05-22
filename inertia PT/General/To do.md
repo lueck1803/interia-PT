@@ -13,6 +13,7 @@
 	- die Dinge mit Ruhe (,Langsamkeit ) und der Essenz begehen. Dann hat man Zeit voll bei sich und der Sache zu sein
 	- Arooj loslassen, mich auf mich konzentrieren und endlich leben 
 - [ ] Notizen zur Shadow work nochmal lesen
+- [ ] äpfel waschen 
 - [ ] Ethik Blatt mit dem Arbeitsauftrag 
 	- [ ] zu zweit ein Video vorstellen 
 	- [ ] alle Videos schauen 
