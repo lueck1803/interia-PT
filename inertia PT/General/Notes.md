@@ -1690,11 +1690,25 @@ $\Braket{\frac{x}{y}^{2}\cdot x^{2}}$
 # Bash / zsh
 
 ## Bash history
+
+### Zeile löschen
 Löscht Zeile mit line number aus der history .
 ```Shell
 history -d <line number>
 ```
 
+Wenn Zeile 400 entfernt wird, kann Zeile 402 zu 401 werden. Wenn also 400 und 402 entfernt werden sollen, muss Folgendes getan werden:
+
+history -d 400  
+history -d 401
+
+oder
+
+history -d 402  
+history -d 400
+
+### Gesamte history löschen
+Löscht die gesamte history:
 
 ```Shell
 history -c
