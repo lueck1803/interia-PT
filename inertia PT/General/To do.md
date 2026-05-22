@@ -14,7 +14,7 @@
 	- Arooj loslassen, mich auf mich konzentrieren und endlich leben 
 - [ ] Notizen zur Shadow work nochmal lesen
 - [ ] äpfel waschen 
-- [ ] Tisch nochmal u
+- [ ] Tisch nochmal runter stellen
 - [ ] vertretungsmaterial Englisch scannen
 - [ ] material von Tabea scannen
 - [ ] Ethik Blatt mit dem Arbeitsauftrag erstellen 
