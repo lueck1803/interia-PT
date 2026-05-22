@@ -83,6 +83,29 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+
+## 26-05-22
+### Nadine
+
+#### 1
+https://www.ardmediathek.de/video/fernsehfilm/portraet-einer-jungen-frau-in-flammen/wdr/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtMjhmNDM2MmUtMGVjNy00Y2Y2LWFlMTMtMjE1ZjA1NTY2YjAx
+schaumal, da gibts nen Film, der im 18. Jh spielt.
+
+da ist echt schöne Alltagskleidung gezeigt, nicht der pompöse Kram.
+
+Ich hab den Film jetzt nicht geschaut und glaube ich werde ihn auch nicht schauen, da es ihn momentan nicht im original ton gibt.
+
+Aber mal durchklicken, um mir schöne Kleidung anzuschauen werde ich
+#### 2
+😂 ich hab gerade einfach mal durch geklickt.
+
+Dann war ich irritiert, weil plötzlich eine Frau scheinbar von der Decke hängt - was sie auch tut.
+
+Die steigt auf nen Tritt und hängt sich dann wahrscheinlich an einen Balken.
+Man sieht nur den unteren Abschnitt.
+
+Da hab ich in die Szene kurz rein geschaut.
+Die führen wohl eine Abtreibung mit Pflanzlichen Mitteln durch und sie muss dabei wohl phasenweise hängen.
 ## 26-05-08
 Ach du meine Güte.
 
