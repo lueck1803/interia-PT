@@ -14,6 +14,7 @@
 	- Arooj loslassen, mich auf mich konzentrieren und endlich leben 
 - [ ] Notizen zur Shadow work nochmal lesen
 - [ ] äpfel waschen 
+- [ ] vertretungsmaterial Englisch scannen
 - [ ] Ethik Blatt mit dem Arbeitsauftrag 
 	- [ ] zu zweit ein Video vorstellen 
 	- [ ] alle Videos schauen 
