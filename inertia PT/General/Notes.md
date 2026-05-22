@@ -1689,6 +1689,16 @@ $\Braket{\frac{x}{y}^{2}\cdot x^{2}}$
 
 # Bash / zsh
 
+## Bash history
+Löscht Zeile mit line number aus der history .
+```Shell
+history -d <line number>
+```
+
+
+```Shell
+history -c
+```
 ## Print Path in readable format
 ```bash
 echo "${PATH//:/$'\n'}"
