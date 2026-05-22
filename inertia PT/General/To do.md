@@ -25,14 +25,9 @@
 			- [ ] hast du aus deiner Familie, Kultur oder Religion Regeln, Weisheiten oder Wegweiser die dir da weiter helfen können oder die Entscheidung abnehmen 
 			- [ ] wie hast du dich beim Schauen gefühlt denkst du jetzt anders?
 			- [ ] überlege dir eine Frage dazu an die Gruppe
-- [x] Faustregeln auf *Die 4 Fälle* ergänzen.
-- [x] Kunst Blätter einscannen
-- [x] Mitarbeit und Anwesenheit der Kinder in Ethik nachtragen
-- [x] Trinkflasche versuchen zu kleben 
 - [ ] Löcher in schwarzem T-Shirt mit rotem Rand flicken 
-- [x] anita auf Nachrichten und Blätter antworten. Sagen dass ich zu letzt mit denen die fertig waren das andere Blatt begonnen habe. Das werden dann alle bekommen. Wie sieht es mit der Arbeit aus? Die müssen wir eigentlich noch mehr nächste Woche schreiben 
 - [ ] gießen
-- [ ] ethik To-Do löschen 
+- [ ] gelben Sack wegbringen 
 - [ ] paper what's active matter lesen 
 - [ ] Simulationen anschauen 
 	- [ ] ~={LimeGreen}Simulationen nutzen um neue Erkenntnisse zu beschreiben =~
