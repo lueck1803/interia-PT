@@ -1749,7 +1749,9 @@ So gold wert und es funktioniert ❤️😍
 ## column
 # PowerShell
 ## History location
-
+```PowerShell
+"$ENV:USERPROFILE\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadLine\ConsoleHost_history.txt"
+```
 ## find string after a command
 ```PowerShell
  COMMAND | Where-object PROPERTY -match "string"
