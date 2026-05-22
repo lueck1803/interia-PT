@@ -15,6 +15,7 @@
 - [ ] Notizen zur Shadow work nochmal lesen
 - [ ] äpfel waschen 
 - [ ] vertretungsmaterial Englisch scannen
+- [ ] Et
 - [ ] Ethik Blatt mit dem Arbeitsauftrag 
 	- [ ] zu zweit ein Video vorstellen 
 	- [ ] alle Videos schauen 
