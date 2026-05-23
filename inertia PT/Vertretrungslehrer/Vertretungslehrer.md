@@ -1111,4 +1111,4 @@ Dehierarchisierung
 
 Das ist doch genau der Lehrerberuf .
 
-- gegenseitig helfen 
+- kein aufeinandergegenseitig helfen 
