@@ -1101,7 +1101,7 @@ wir nicht überall gleichzeitig sein können, auch nur eine beschränkte Aufmerk
 	- mich immer fragen ~={DeepSkyBlue} ist das hilfreich=~ und ~={RedRed}konstruktiv=~ im aktuellen Moment?
 ## gerald hüther
 Hat genau mein Konzept hier erklärt.
-[Gerald Hüther]
+[Gerald Hüther](https://youtu.be/KPeTQYdof7Q?is=UfH5tPffwAE-Pwvz)
 
 Als Führungskraft ist man Motivator und möchte sich eigentlich selbst abschaffen.
 
