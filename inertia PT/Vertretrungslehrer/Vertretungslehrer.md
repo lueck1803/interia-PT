@@ -1105,6 +1105,8 @@ Hat genau mein Konzept hier erklärt.
 
 Als Führungskraft ist man Motivator, Inspirateur, Ermöglicher und möchte sich eigentlich selbst abschaffen.
 
-Jeder soll die 
+Jeder soll die Verantwortung für sich selbst übernehmen können.
+
+Dehierarchisierung
 
 Das ist doch genau der Lehrerberuf .
