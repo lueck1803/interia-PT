@@ -1103,6 +1103,6 @@ wir nicht überall gleichzeitig sein können, auch nur eine beschränkte Aufmerk
 Hat genau mein Konzept hier erklärt.
 [Gerald Hüther](https://youtu.be/KPeTQYdof7Q?is=UfH5tPffwAE-Pwvz)
 
-Als Führungskraft ist man Motivator und möchte sich eigentlich selbst abschaffen.
+Als Führungskraft ist man Motivator, Inspirateur, Ermöglicher und möchte sich eigentlich selbst abschaffen.
 
 Das ist doch genau der Lehrerberuf 
