@@ -1099,4 +1099,9 @@ wir nicht überall gleichzeitig sein können, auch nur eine beschränkte Aufmerk
 
 	- Ich hatte eine tolle Klassenlehrerin, die bei mir viel bewirkt und befördert hat, sowie immer an alle geglaubt hat.
 	- mich immer fragen ~={DeepSkyBlue} ist das hilfreich=~ und ~={RedRed}konstruktiv=~ im aktuellen Moment?
-## 
+## gerald hüther
+Hat genau mein Konzept hier erklärt.
+
+Als Führungskraft ist man Motivator und möchte sich eigentlich selbst abschaffen.
+
+Das ist doch genau der Lehrerberuf 
