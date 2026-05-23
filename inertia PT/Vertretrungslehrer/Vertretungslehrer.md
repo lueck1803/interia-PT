@@ -1110,3 +1110,5 @@ Jeder soll die Verantwortung für sich selbst übernehmen können.
 Dehierarchisierung
 
 Das ist doch genau der Lehrerberuf .
+
+- gegenseitig helfen 
