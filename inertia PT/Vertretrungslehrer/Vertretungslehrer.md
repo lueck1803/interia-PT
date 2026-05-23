@@ -1105,4 +1105,4 @@ Hat genau mein Konzept hier erklärt.
 
 Als Führungskraft ist man Motivator, Inspirateur, Ermöglicher und möchte sich eigentlich selbst abschaffen.
 
-Das ist doch genau der Lehrerberuf 
+Das ist doch genau der Lehrerberuf .
