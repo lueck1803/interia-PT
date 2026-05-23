@@ -1112,3 +1112,11 @@ Dehierarchisierung
 Das ist doch genau der Lehrerberuf .
 
 - kein aufeinander aufpassen sondern ein sich gegenseitig helfen, sich in dieser komplexen Welt zurecht zu finden
+- Gänseblümchen auf denen jemand herum tritt können sich nicht entfalten 
+- man kann keinen Menschen verändern, den einzigen den man ~={LimeGreen}verändern kann, ist man selbst =~und das macht man nur dann wenn man will. 
+	- deshalb gibt es nur eine Möglichkeit, wenn ich mir das wünsche weil ich dich mag, damit du noch ein bisschen in deine Kraft kommst.
+	- ich kann dich einladen, ich kann dich ermutigen, ich kann dich inspirieren 
+	- dir etwas zeigen was du bisher noch nicht gesehen hast, dich dazu einladen etwas zu probieren was du dich bisher noch nicht getraut hast 
+- ich sehe wie du dir Mühe gibst, aber ich verstehe nicht warum das mit so einer Anstrengung passiert, geht es nicht auch ganz leicht? Musst du dich denn immer anstrengen wenn du es mir Recht machen willst?
+	- ich musste mich immer anstrengen, wenn ich es anderen Recht machen wollte
+	- kannst du die Person in den Arm nehmen und sagen, bei mir nicht
