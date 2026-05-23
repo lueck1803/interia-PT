@@ -1111,4 +1111,4 @@ Dehierarchisierung
 
 Das ist doch genau der Lehrerberuf .
 
-- kein aufeinandergegenseitig helfen 
+- kein aufeinander aufpassen sondern ein sich gegenseitig helfen, sich in dieser komplexen Welt zurecht zu finden
