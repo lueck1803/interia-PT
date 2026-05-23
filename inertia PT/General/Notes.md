@@ -1748,7 +1748,7 @@ history -c
 ```
 ## Print Path in readable format
 ```bash
-echo "${PATH//:/$'\n'}"
+echo "${PATH//:/'\n'}"
 ```
 ## grep and find
 _The Major difference is **FIND** is for searching files and directories using filters while **GREP** is for searching a pattern inside a file or searching process(es)_
