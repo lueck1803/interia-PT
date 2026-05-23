@@ -84,6 +84,16 @@ Kind regards
 Lukas Walter 
 # Nachrichten an Leute
 
+## 26-05-23
+### Arthur 
+Ich sehe jetzt auch die Schwierigkeit beim füsilier 2.
+
+Die Rhythmus gitarre ist "langsamer" als die vocals.
+
+Sie wird zumindest langsamer gespielt als ich das Gefühl habe spielen zu müssen. 
+
+Geht mir in der 1. Strophe so und in der zweiten ist es durch die harmonics extrem.
+
 ## 26-05-22
 ### Nadine
 
