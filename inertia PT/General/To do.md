@@ -14,7 +14,8 @@
 	- Arooj loslassen, mich auf mich konzentrieren und endlich leben 
 - [ ] Notizen zur Shadow work nochmal lesen
 - [x] äpfel waschen 
-- [ ] Tisch nochmal runter stellen
+- [x] Tisch nochmal runter stellen
+	- [ ] ⤷ nochmal ein Stück runter stellen
 - [x] vertretungsmaterial Englisch scannen
 - [x] material von Tabea scannen
 - [ ] Ethik Blatt mit dem Arbeitsauftrag erstellen 
@@ -31,7 +32,6 @@
 			- [ ] überlege dir eine Frage dazu an die Gruppe
 - [ ] Löcher in schwarzem T-Shirt mit rotem Rand flicken 
 - [ ] gießen
-- [ ] gelben Sack wegbringen 
 - [ ] paper what's active matter lesen 
 - [ ] Simulationen anschauen 
 	- [ ] ~={LimeGreen}Simulationen nutzen um neue Erkenntnisse zu beschreiben =~
@@ -41,18 +41,15 @@
 - [ ] mal schnell die original Methode implementieren
 	- [ ] auf 1:3 Daten anwenden 
 	- [ ] mit dem box algo vergleichen 
-- [ ] brett spülen 
 - [ ] spülkorb putzen
 - [ ] Topf in Spülmaschine 
-- [ ] Dampfdruck topf spülen
 - [ ] Duschwanne schrubben 
 - [ ] lao tzu
 - [ ] Notizen zu wissenschaftlichen Arbeit 
 - [ ] video zum Motivationscoach fertig und Notizen machen 
 - [ ] Vitamin D besorgen 
-- [ ] Biomüll runter 
 - [ ] exercise in futility V üben
-- [ ] swamphell erstmal verwerfen/verschieben ⟹ Fusilli 2 und Text perfektionieren mit Rede+ Waffenbrüder solo
+- [x] swamphell erstmal verwerfen/verschieben ⟹ Fusilli 2 und Text perfektionieren mit Rede+ Waffenbrüder solo
 - [ ] ENC Kurzanleitung lesen
 - [ ] tvh Vertrag Zeug einheften 
 - [x] nach der ID für die dienst email adresse fragen
