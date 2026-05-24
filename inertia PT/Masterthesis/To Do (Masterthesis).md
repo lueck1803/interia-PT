@@ -330,6 +330,12 @@ $$
 # <span style="font-size:100%;color:Crimson;">Thesis</span>
 ~={LimeGreen}Wie strukturiere ich die Arbeit, um diese These argumentativ bestmöglich zu untermauern?=~
 ~={DeepPink}Welche Gliederung eignet sich am besten dafür, um diese Forschungsfrage bestmöglich zu beantworten?=~
+
+## info sammlung
+- largest subfield of active matter is the study of medical applications ~={RoyalBlue}vrugt2025=~
+- Feynman’s suggestion that patients may some day be able to “swallow the surgeon” ~={DeepSkyBlue}Vrugt2025=~
+- 
+
 ## tasks
 ### general
 - [ ] check the snapshots for m=0.05 for 112k 
