@@ -48,7 +48,6 @@
 - [ ] Notizen zu wissenschaftlichen Arbeit 
 - [ ] video zum Motivationscoach fertig und Notizen machen 
 - [ ] Vitamin D besorgen 
-- [ ] exercise in futility V üben
 - [x] swamphell erstmal verwerfen/verschieben ⟹ Fusilli 2 und Text perfektionieren mit Rede+ Waffenbrüder solo
 - [ ] ENC Kurzanleitung lesen
 - [ ] wann war meine Ausbildung zum Rettungshelfer und was war meine Note
@@ -56,7 +55,6 @@
 - [ ] tinte Drucker auffüllen
 - [ ] aufschreiben dass frontal/Gesprächsunterricht mit den meisten Klassen nicht funktioniert 
 - [ ] Mich nach Unternehmen umschauen, was ich nach dem Master mache?
-- [ ] mir ein aktuelles deutsch schulbuch besorgen
 - [ ] Stundenplan in den Kalender eintragen
 	- [ ] kann man den exportieren?
 - [ ] mir nen planer für die Notengebung anlegen
@@ -71,10 +69,6 @@
 	- [ ] jambus
 	- [ ] trochäus 
 	- [ ] Reimschema 
-- [ ] Und dann hatten wir jetzt ein bisschen Wortarten wiederholt: Nomen, Verben konjugieren im Präsenz, Präteritum und Futur, aber das noch nicht intensiv.
-	- [ ] dazu Übungsblätter suchen 
-	- [ ] bzw. unterricht überlegen
-- [x] Kunst: Vorder und hintergrund. Beispiele und material suchen. Wie wird das richtig gemacht?
 - [x] dem Hausmeister ne Mail wegen Kunstschrank Schlüssel (daniel.mroczek@darmstadt.de)
 	- [ ] noch ne Mail wegen parkplatzschlüssel, da es im Sekretariat keinen mehr zu geben scheint
 - [ ] Lehrplan Realschule lesen
