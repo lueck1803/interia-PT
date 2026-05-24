@@ -15,6 +15,7 @@
 - [ ] Notizen zur Shadow work nochmal lesen
 - [ ] windows Hintergrund 
 - [ ] rasieren 
+- [ ] Spülmaschine 
 - [ ] BenQ Bildschirm Text in Therapie Einzelthemen 
 - [ ] die bestimmung von zdf runterladen
 	- [ ] https://www.zdf.de/filme/die-bestimmung---allegiant-movie-100
