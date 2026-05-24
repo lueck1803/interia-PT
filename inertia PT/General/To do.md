@@ -13,16 +13,12 @@
 	- die Dinge mit Ruhe (,Langsamkeit ) und der Essenz begehen. Dann hat man Zeit voll bei sich und der Sache zu sein
 	- Arooj loslassen, mich auf mich konzentrieren und endlich leben 
 - [ ] Notizen zur Shadow work nochmal lesen
-- [ ] windows Hintergrund 
+- [x] windows Hintergrund 
 - [ ] rasieren 
 - [x] Spülmaschine 
-- [ ] BenQ Bildschirm Text in Therapie Einzelthemen 
 - [x] "das weiße band" 
 	- [ ] schauen
 	- [x] lesen
-- [x] Tisch nochmal runter stellen 
-- [x] Tisch nochmal runter stellen
-	- [ ] ⤷ nochmal ein Stück runter stellen
 - [ ] Ethik Blatt mit dem Arbeitsauftrag erstellen 
 	- [ ] zu zweit ein Video vorstellen 
 	- [ ] alle Videos schauen 
@@ -107,7 +103,7 @@
 - [ ] Versuch dich mal an einer ~={LawnGreen}ganzen Aufnahme von so 70%=~. Lass Solo2 dann erstmal weg (spiel zu dem Punkt Rhythm oder so).
 - [ ] simulationen auf CPU02 checken, wenn fertig auf /data kopieren
 - [ ] 13.-21.6.2026 woche der bot. Gärten
-- [x] im Sekretariat bot. Garten 
+- [ ] im Sekretariat bot. Garten 
 	- [x] Sonntagsdienst ~={RedRed} erst überlegen, wann ich nen Dienst machen möchte=~
 		- Für die Sonntagsdienste können Sie sich für zwei Schichten eintragen (09:00–12:30 Uhr und 12:30–16:00 Uhr). An folgenden Terminen suchen wir aktuell noch Unterstützung: 10. Mai, 7. Juni, 5. Juli, 2. August, 6. September und 4. Oktober.
 	- [ ] und Dienst zum Helfen 
@@ -141,7 +137,6 @@
 - [ ] ~={DeepSkyBlue}Strickgruppe/Club/Treff=~ suchen
 - [ ] ~={green}Sachen auf die ich Lust=~ habe, die mir Freude machen vom Zettel an der abschreiben in Therapie
 - [ ] in vodafone konto einloggen
- 
 - [ ] Steckdosenleiste unter dem Bett umsetzen 
 - [ ] einkaufschip clip mit metallkleber kleben
 - [ ] ~={Magenta}hessenbox=~ vom laptop entfernen
@@ -155,10 +150,6 @@
 - [ ] nochmal über thunderbolt karte nachdenken
 - [ ] Gyros+pita aus Gefriertruhe essen
 - [ ] Konto checken
-- [x] Mischa wegen den Gehaltsabrechnungen Dez + Januar schreiben, sowie Februar. 
-	- [ ] nochmal Vertrag wegen Kündigungsfrist und allgemein wegen Kündigungsfrist schauen
-	- [ ] Schauen ob ich noch zugriff mit lueck.walter@gmail.com habe
-	- [ ] Dann wegen den Stunden Seit 20.2. Da ich keinen Zugriff mehr auf Toggle hatte.
 - [ ] nadines socken weiter
 - [ ] mir überlegen was ich anders mache. Lehrer werde ich nicht
 	- [ ] sind zu viele Namen 
@@ -178,10 +169,8 @@
 - [ ] Notizen zu "deine ~={ForestGreen}Gedanken=~ lügen" ab 2:05:47
 - [ ] Teil bzgl weg zur Kästchen methode und von dort zu meiner methode fertig schreiben. Nochmal in report schauen was ich da schon geschrieben habe
 - [ ] floyd rose stimmtutorial
-- [ ] mgla anschauen
 - [ ] vertrag nach Kündigungsfrist durch schauen
 - [ ] was ist die mindst Kündigungsfrist in Deutschland 
-- [ ] Laufen gehen
 - [ ] Freddies Socken an der Spitze vernähen 
 - [ ] Socken einpacken 
 - [ ] dpg kündigen
@@ -673,6 +662,10 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] <span style="color:coral">paartherapie S3 runterladen</span>
 
 # Alt
+- [x] Mischa wegen den Gehaltsabrechnungen Dez + Januar schreiben, sowie Februar. 
+	- [ ] nochmal Vertrag wegen Kündigungsfrist und allgemein wegen Kündigungsfrist schauen
+	- [ ] Schauen ob ich noch zugriff mit lueck.walter@gmail.com habe
+	- [ ] Dann wegen den Stunden Seit 20.2. Da ich keinen Zugriff mehr auf Toggle hatte.
 - [x] Lisa mank SMS schreiben
 	- nicht nötig, da ich jetzt an der BAS bin
 	- haha sie hat mir am 18.5 ne sms geschrieben 
