@@ -36,7 +36,6 @@
 			- [ ] wie hast du dich beim Schauen gefühlt denkst du jetzt anders?
 			- [ ] überlege dir eine Frage dazu an die Gruppe
 - [ ] Löcher in schwarzem T-Shirt mit rotem Rand flicken 
-- [ ] gießen
 - [ ] paper what's active matter lesen 
 - [ ] Simulationen anschauen 
 	- [ ] ~={LimeGreen}Simulationen nutzen um neue Erkenntnisse zu beschreiben =~
@@ -56,8 +55,6 @@
 - [ ] exercise in futility V üben
 - [x] swamphell erstmal verwerfen/verschieben ⟹ Fusilli 2 und Text perfektionieren mit Rede+ Waffenbrüder solo
 - [ ] ENC Kurzanleitung lesen
-- [x] tvh Vertrag Zeug einheften 
-- [x] nach der ID für die dienst email adresse fragen
 - [ ] wann war meine Ausbildung zum Rettungshelfer und was war meine Note
 - [ ] blatt mit denksport physik für licht und schatten erstellen
 - [ ] tinte Drucker auffüllen
@@ -74,8 +71,6 @@
 - [ ] graues longsleeve unten flicken 
 - [ ] [Change your life now](https://youtu.be/pFhMzPxbY4E?is=o7W8uMv3Vc7oasP8) Notizen machen
 - [ ] [fix your adhd morning](https://youtu.be/gsVYI-l_6G8?is=BUHdgIGMxlNq8KT8) was dazu aufschreiben 
-- [x] Waffenbrüder solo
-- [x] in Schule gehen, mir Deutsch und Ethik Buch anschauen ⟹ geht nicht, da die Tür auch unten abgeschlossen ist und zwar mit einem anderen Schlüssel
 - [ ] Versmaß verstehen (Videos auf yt)
 	- [ ] jambus
 	- [ ] trochäus 
@@ -108,8 +103,6 @@
 - [ ] Waschbecken Küche 
 - [ ] Bürostuhl dampfen
 - [ ] sofa dampfen 
-- [ ] um die Kiwis kümmern 
-- [ ] Pflänzchen umsetzen 
 - [ ] papa nachdem selfie stick fragen, den ihm arooj geschenkt hat
 - [ ] Versuch dich mal an einer ~={LawnGreen}ganzen Aufnahme von so 70%=~. Lass Solo2 dann erstmal weg (spiel zu dem Punkt Rhythm oder so).
 - [ ] simulationen auf CPU02 checken, wenn fertig auf /data kopieren
@@ -147,15 +140,6 @@
 - [ ] ~={MediumSpringGreen}Nähgruppe/Club/Treff=~ suchen
 - [ ] ~={DeepSkyBlue}Strickgruppe/Club/Treff=~ suchen
 - [ ] ~={green}Sachen auf die ich Lust=~ habe, die mir Freude machen vom Zettel an der abschreiben in Therapie
-- [ ] Benq bildschirm austauschen.... ich vertrag den echt nicht...
-	- [ ] warum hab ich da all die jahre eigentlich nicht auf mich und meinen körper gehört
-	- [ ] ich hatte immer im Kopf stell dich nicht so an.... 
-	- [ ] ⟹ wenn man immer unterdrückt, dass man Bedürfnisse hat und unter gewissen umständen nicht arbeiten kann, dann achtet man darauf einfach nicht und zwingt sich immer weiter darein. ich hab immer das Gefühl gehabt, dass ich mich nur anstelle.
-	- [ ] deshalb konnte ich auch keine Entscheidungen treffen und mich nicht für mich einsetzen.
-	- [ ] ich habe meinen körperlichen Signalen, meinem Befinden und meiner Wahrnehmung einfach nicht mehr getraut
-	- [ ] ich hab mich dann nur noch fertig gemacht bzgl. meiner Entscheidungen
-	- [ ] ich wurde aber auch nicht ernst genommen
-	- [ ] Es wurde sich dann halt schon ziemlich lächerlich darüber gemacht, als es zum beispiel auch um das fahrrad ging. Arooj hat mich dann schon ernst genommen. aber war auch irgendwie herblassend zu mir
 - [ ] in vodafone konto einloggen
  
 - [ ] Steckdosenleiste unter dem Bett umsetzen 
