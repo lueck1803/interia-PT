@@ -1120,3 +1120,5 @@ Das ist doch genau der Lehrerberuf .
 - ich sehe wie du dir Mühe gibst, aber ich verstehe nicht warum das mit so einer Anstrengung passiert, geht es nicht auch ganz leicht? Musst du dich denn immer anstrengen wenn du es mir Recht machen willst?
 	- ich musste mich immer anstrengen, wenn ich es anderen Recht machen wollte
 	- kannst du die Person in den Arm nehmen und sagen, bei mir nicht
+## stefan marks - scham
+[Scham](https://youtu.be/gk8BL2npgIU?is=XNTBj03D2C0lVQDV)
