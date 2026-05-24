@@ -15,7 +15,7 @@
 - [ ] Notizen zur Shadow work nochmal lesen
 - [ ] windows Hintergrund 
 - [ ] rasieren 
-- [ ] Spülmaschine 
+- [x] Spülmaschine 
 - [ ] BenQ Bildschirm Text in Therapie Einzelthemen 
 - [x] "das weiße band" 
 	- [ ] schauen
