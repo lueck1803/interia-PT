@@ -85,6 +85,11 @@ Lukas Walter
 # Nachrichten an Leute
 
 ## 26-05-24
+
+### marietta
+Falls du mal wieder reden möchtest, melde dich
+
+### arthur
 Hör dir bei Gelegenheit Mal Füsilier 2 - 2025 an. 
 
 Da gibt's ein paar interessante Unterschiede. Zb einen cleanen Background Gesang im Refrain (der fast weiblich klingt)
