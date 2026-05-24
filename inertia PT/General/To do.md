@@ -13,11 +13,9 @@
 	- die Dinge mit Ruhe (,Langsamkeit ) und der Essenz begehen. Dann hat man Zeit voll bei sich und der Sache zu sein
 	- Arooj loslassen, mich auf mich konzentrieren und endlich leben 
 - [ ] Notizen zur Shadow work nochmal lesen
-- [x] äpfel waschen 
+- [ ] "das weiße band" schauen/lesen
 - [x] Tisch nochmal runter stellen
 	- [ ] ⤷ nochmal ein Stück runter stellen
-- [x] vertretungsmaterial Englisch scannen
-- [x] material von Tabea scannen
 - [ ] Ethik Blatt mit dem Arbeitsauftrag erstellen 
 	- [ ] zu zweit ein Video vorstellen 
 	- [ ] alle Videos schauen 
