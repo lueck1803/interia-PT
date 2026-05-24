@@ -371,6 +371,10 @@ in den anderen Fällen bleibt der Artikel erhalten
 #### Stabreim 
 Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benachbarte, betonte Wörter mit demselben Anlaut (Konsonant oder Vokal) beginnen. Er war die metrische Basis der alten germanischen Dichtung und verbindet Klang mit Bedeutung. Heute dient er oft als einprägsames Stilmittel in Slogans oder festen Wendungen (z.B. „Milch macht müde Männer munter“).
 ## Ethik
+
+### Planung 
+Nach der Benotung bzgl Vortrag:
+- full metal jacket, die Anfangsszene ohne den selbstmord in Ethik zeigen. Vielleicht vorher fragen, ob ich das darf....
 ### Verbindliche Unterrichtsinhalte/Aufgaben: 
 - „Mal OBEN – mal UNTEN“ → 
 	- Wahrnehmungsspiele zu diesen Positionen durchführen / dabei die Körperwahrnehmung und die Gefühle verbalisieren. OBEN ist nicht immer angenehmer als UNTEN 
@@ -381,6 +385,7 @@ Der Stabreim (auch Alliteration) ist ein sprachliches Stilmittel, bei dem benach
 - „Positionen auf gleicher Augenhöhe“ → 
 	- Beispiele suchen (Freunde / Geschäftspartner / etc.)  
 	- Rücksicht und Empathie als Grund für den Verzicht auf OBEN-Positionen erkennen
+
 ### 26-05-12
 - SRF Kultur:
 	- STRASSENBAHN
@@ -1122,3 +1127,6 @@ Das ist doch genau der Lehrerberuf .
 	- kannst du die Person in den Arm nehmen und sagen, bei mir nicht
 ## stefan marks - scham
 [Scham](https://youtu.be/gk8BL2npgIU?is=XNTBj03D2C0lVQDV)
+
+
+- full metal jacket, die Anfangsszene ohne den selbstmord in Ethik zeigen. Vielleicht vorher fragen, ob ich das darf....
