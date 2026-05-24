@@ -333,7 +333,8 @@ $$
 
 ## info sammlung
 - largest subfield of active matter is the study of medical applications ~={RoyalBlue}vrugt2025=~
-- Feynman’s suggestion that patients may some day be able to “swallow the surgeon” ~={DeepSkyBlue}Vrugt2025=~
+- Feynman’s suggestion that patients may some day be able to “swallow the surgeon”, which takes the form of a microrobot performing a surgery or delivering drugs, and to the movie Fantastic Voyage that shows a miniature submarine traveling through the body ~={DeepSkyBlue}Vrugt2025=~
+- medical applications, artificial active particles are often referred to as microrobots, microbots, nanorobots, or nanobots.  A major aim is to use them for targeted drug delivery
 - 
 
 ## tasks
