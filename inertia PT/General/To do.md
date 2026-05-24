@@ -13,11 +13,15 @@
 	- die Dinge mit Ruhe (,Langsamkeit ) und der Essenz begehen. Dann hat man Zeit voll bei sich und der Sache zu sein
 	- Arooj loslassen, mich auf mich konzentrieren und endlich leben 
 - [ ] Notizen zur Shadow work nochmal lesen
+- [ ] BenQ Bildschirm Text in Therapie Einzelthemen 
 - [ ] die bestimmung von zdf runterladen
 	- [ ] https://www.zdf.de/filme/die-bestimmung---allegiant-movie-100
 	- [ ] https://www.zdf.de/filme/die-bestimmung---divergent-movie-100
 	- [ ] https://www.zdf.de/filme/pandorum-movie-100
-- [ ] "das weiße band" schauen/lesen
+- [x] "das weiße band" 
+	- [ ] schauen
+	- [x] lesen
+- [x] Tisch nochmal runter stellen 
 - [x] Tisch nochmal runter stellen
 	- [ ] ⤷ nochmal ein Stück runter stellen
 - [ ] Ethik Blatt mit dem Arbeitsauftrag erstellen 
@@ -53,7 +57,7 @@
 - [ ] exercise in futility V üben
 - [x] swamphell erstmal verwerfen/verschieben ⟹ Fusilli 2 und Text perfektionieren mit Rede+ Waffenbrüder solo
 - [ ] ENC Kurzanleitung lesen
-- [ ] tvh Vertrag Zeug einheften 
+- [x] tvh Vertrag Zeug einheften 
 - [x] nach der ID für die dienst email adresse fragen
 - [ ] wann war meine Ausbildung zum Rettungshelfer und was war meine Note
 - [ ] blatt mit denksport physik für licht und schatten erstellen
@@ -71,8 +75,8 @@
 - [ ] graues longsleeve unten flicken 
 - [ ] [Change your life now](https://youtu.be/pFhMzPxbY4E?is=o7W8uMv3Vc7oasP8) Notizen machen
 - [ ] [fix your adhd morning](https://youtu.be/gsVYI-l_6G8?is=BUHdgIGMxlNq8KT8) was dazu aufschreiben 
-- [ ] Waffenbrüder solo
-- [ ] in Schule gehen, mir Deutsch und Ethik Buch anschauen ⟹ geht nicht, da die Tür auch unten abgeschlossen ist und zwar mit einem anderen Schlüssel
+- [x] Waffenbrüder solo
+- [x] in Schule gehen, mir Deutsch und Ethik Buch anschauen ⟹ geht nicht, da die Tür auch unten abgeschlossen ist und zwar mit einem anderen Schlüssel
 - [ ] Versmaß verstehen (Videos auf yt)
 	- [ ] jambus
 	- [ ] trochäus 
@@ -80,7 +84,7 @@
 - [ ] Und dann hatten wir jetzt ein bisschen Wortarten wiederholt: Nomen, Verben konjugieren im Präsenz, Präteritum und Futur, aber das noch nicht intensiv.
 	- [ ] dazu Übungsblätter suchen 
 	- [ ] bzw. unterricht überlegen
-- [ ] Kunst: Vorder und hintergrund. Beispiele und material suchen. Wie wird das richtig gemacht?
+- [x] Kunst: Vorder und hintergrund. Beispiele und material suchen. Wie wird das richtig gemacht?
 - [x] dem Hausmeister ne Mail wegen Kunstschrank Schlüssel (daniel.mroczek@darmstadt.de)
 	- [ ] noch ne Mail wegen parkplatzschlüssel, da es im Sekretariat keinen mehr zu geben scheint
 - [ ] Lehrplan Realschule lesen
