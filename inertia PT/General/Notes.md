@@ -84,6 +84,15 @@ Kind regards
 Lukas Walter 
 # Nachrichten an Leute
 
+## 26-05-24
+Hör dir bei Gelegenheit Mal Füsilier 2 - 2025 an. 
+
+Da gibt's ein paar interessante Unterschiede. Zb einen cleanen Background Gesang im Refrain (der fast weiblich klingt)
+
+Mir ist auch noch etwas zum den vocals vom füsilier 2 aufgefallen, da du ja letztens gefragt hast wie es mir mit rhythm + vocals ergeht.
+
+Die struggels die du erwähnt hast, sehe ich auch.
+
 ## 26-05-23
 ### Arthur 
 Ich sehe jetzt auch die Schwierigkeit beim füsilier 2.
