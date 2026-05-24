@@ -1494,6 +1494,24 @@ are ==non-equilibrium active materials made of elongated, symmetric units (like 
 ### Theoretical Framework
 
 The hydrodynamic theory for non-polar active nematics relies on the coupled equations for the nematic order tensor $Q_{ij}$ and the velocity field $\mathbf{u}$. The equations are extensions of the passive Beris-Edwards framework, modified to include active stress tensors. The key governing parameters include the friction coefficient $\zeta$ and the active stress coefficient $\alpha$, which controls the transition to chaotic flow. [[1](https://www.nature.com/articles/s41467-018-05666-8)]
+
+## mixtures of non-self-propelling scalar active matter
+Mixtures of non-self-propelling scalar active matter refer to ==out-of-equilibrium systems where individual particles lack directional motion (self-propulsion)==. Instead, activity emerges entirely from their asymmetric, nonreciprocal interactions, meaning particles of different species react to one another differently than vice versa. This microscopic violation of action-reaction symmetry drives complex, large-scale dynamical patterns.
+### Core Concepts
+- **Scalar Active Matter:** Systems where the primary variable is the particle density rather than orientation (like aligning polar/nematic groups).
+- **Newton's Third Law Violation:** In isolation, spherical non-self-propelling particles exhibit only anomalous fluctuations. When mixed, their interactions lose reciprocity (e.g., A chases B, but B avoids A), creating dynamic, out-of-equilibrium behavior.
+- **The Non-Reciprocal Cahn-Hilliard (NRCH) Model:** The standard theoretical framework. It modifies the classical equilibrium Cahn-Hilliard equations—which govern phase separation and spinodal decomposition—by adding antisymmetric currents.
+
+### Emergent Phenomena & Phases
+
+- **"Chase and Rest" Phase:** Instead of static, segregated domains, nonreciprocal species create dynamical steady states. For instance, a droplet of one species may continuously trail a shrinking droplet of another.
+- **Traveling Density Bands:** The system can spontaneously generate macroscopic polar order from scalar components. These collective density bands travel in defined directions with an intrinsic wavelength.
+- **Active Smectic Phases:** Alternate moving bands of different species can form an active layered structure that coarsens over time via topological defect annihilation. 
+### Physical Mechanisms
+
+- **Non-conserved dynamics:** The system fundamentally behaves similarly to the complex Ginzburg-Landau equations, driven entirely by the coupling constants that represent active, nonreciprocal energy consumption.
+- **Phase-space compression:** The non-equilibrium nature of the system causes a coupling between densities and fluxes, meaning phase transitions differ drastically from conventional Ostwald ripening. [1](https://www.researchgate.net/publication/341396358_Scalar_Active_Mixtures_The_Non-Reciprocal_Cahn-Hilliard_Model), [2](https://arxiv.org/abs/2005.07101)
+
 # LLM
 ## TUDaGPT
 ![[Pasted image 20260407132230.png]]
