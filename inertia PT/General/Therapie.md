@@ -2890,6 +2890,8 @@ Ich hab die Situation und mich wieder und wieder erklärt.
 
 Meine Schuld ist dadurch immer nur wieder größer geworden.
 Denn hätte ich das nicht gesagt oder getan oder das besser gemacht, dann hätte sie nicht so reagiert...
+
+Es ist
 ## Bildschirm
 - Benq bildschirm austauschen.... ich vertrag den echt nicht...
 	- warum hab ich da all die jahre eigentlich nicht auf mich und meinen körper gehört
