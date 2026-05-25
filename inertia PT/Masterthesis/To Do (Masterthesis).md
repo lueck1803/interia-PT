@@ -1,4 +1,9 @@
 
+- [ ] What is active matter?
+- [ ] 
+
+# guidlines
+- follow the 
 # current tasks
 - [ ] simulationen checken
 	- [ ] br10-pe30
