@@ -3264,6 +3264,9 @@ The forward process is crucial for generating training data in diffusion models,
 # Wortfindungsstörung 😅🫣😁
 
 ## benefit of the doubt 
+
+> "Begünstigung des Zweifels", "Begünstigung im Zweifel" oder "Begünstigung im Zweifelsfall".
+
 In der deutschen Sprache gibt es tatsächlich einige Alternativen zu "Vertrauensvorschuss", die je nach Kontext und Nuance besser passen könnten. Hier ein paar Vorschläge, die mehr Tiefe oder eine andere Perspektive einbringen:
 Alternativen zu "Vertrauensvorschuss"
  1. "Glaube an das Gute"
