@@ -2853,6 +2853,7 @@ Ich kann das Dilemma sehr nachvollziehen, auch aus eigener Erfahrung in mehrfach
 
 # Einzel Themen/Ereignisse
 ## 26-05-25 "neid"?
+### 1
 Hat mich schon ein bisschen "neidisch" gemacht.🤭
 
 Aber eigentlich nicht. 😅
@@ -2921,6 +2922,32 @@ Scham über das eigene Verhalten oder bzgl. anderen Gründen weswegen sie Scham 
 Ich hab's über Jahre probiert etwas daran bei ihr zu verbessern, mit Gutmütigkeit.
 
 Die Intervalle sind kürzer geworden, aber Im Endeffekt sind die Explosionen größer geworden.
+
+### 2
+Ich wäre auch so gerne unter Leuten, Familie und würde Arooj kuscheln.😭😭😭😓😢
+
+So viel zum Thema "Neid".
+
+Was es nicht ist. 
+
+Ich war vor 6 Jahren schon davor es zu beenden.
+
+Hatte den Wunsch auszubrechen.
+
+---
+Weiterführung meiner nicht abgesendeten Abhandlung:
+
+Arooj hat meine Wünsche und Beschreibungen meines Leids, des Problems und was ich gerne ändern würde, aber immer persönlich genommen und irgendwie daraus etwas negatives auf sich bezogen bzw. Nur das negative gehört und gar nicht meinen Lebensdrang.
+
+Der Ärger der daraus entstand und die Energie die ich rein stecken musste um den wieder zu glätten hat mich nur mehr in mein Loch rein getrieben.
+
+Ich wollte '20 dass es nicht mehr so läuft wie davor. 🤷‍♂️
+
+Genau das Gegenteil ist passiert.
+
+Alleine wenn ich daran denke möchte ich nicht mehr leben.
+
+Aber darüber bin ich hinaus...
 ## Bildschirm
 - Benq bildschirm austauschen.... ich vertrag den echt nicht...
 	- warum hab ich da all die jahre eigentlich nicht auf mich und meinen körper gehört
