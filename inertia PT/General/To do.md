@@ -14,6 +14,7 @@
 	- Arooj loslassen, mich auf mich konzentrieren und endlich leben 
 - [ ] Notizen zur Shadow work nochmal lesen
 - [x] windows Hintergrund 
+- [ ] füsilier 2 die lead gitarre üben
 - [ ] rasieren 
 - [x] Spülmaschine 
 - [x] "das weiße band" 
