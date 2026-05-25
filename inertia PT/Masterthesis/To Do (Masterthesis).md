@@ -3,7 +3,7 @@
 - [ ] 
 
 # guidlines
-- follow the 
+- follow the Talk red line
 # current tasks
 - [ ] simulationen checken
 	- [ ] br10-pe30
