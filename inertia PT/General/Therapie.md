@@ -2891,7 +2891,36 @@ Ich hab die Situation und mich wieder und wieder erklärt.
 Meine Schuld ist dadurch immer nur wieder größer geworden.
 Denn hätte ich das nicht gesagt oder getan oder das besser gemacht, dann hätte sie nicht so reagiert...
 
-Es ist
+Es ist schwer da und aus dem "verpfuschten Leben" wieder raus zu kommen.
+Denn ich hab so viel Energie und Zeit dafür verschwendet Dinge gerade zu rücken. 
+Mein ganzes Leben lang.
+
+Ich hab gar keine Lust und Kraft mehr. 
+Wozu sollte ich überhaupt etwas tun, wenn "alles" wofür ich Energie investiert habe, umsonst war. 
+
+Deshalb bin ich froh dass ich es ab Mai letzten Jahres dann versucht habe sein zu lassen das mit Arooj und mir wieder zu flicken.
+
+Ich hab das viel viel viel zu lange getan.
+Es wäre ihre Aufgabe gewesen diesmal.
+
+Denn früher oder später wäre das wieder raus gebrochen und ich hätte von ihr gewollt dass erlösende Worte kommen.
+Damit das Leid nicht umsonst war. Eine Veränderung und Anpassung im Verhalten in solchen Situationen dass es mal von ihr Deeskalationsversuche gibt und sie nicht ihre Wut immer ins unermessliche steigert.
+
+Ich vermisse sie ja schon so sehr und mir tut es so extrem leid dass ich immer so paralysiert mit mir selbst war und sie darunter gelitten hat. 
+
+Ich brauche schon irgendwie ein Gespräch, antworten darauf, ob ihre Aussagen mir gegenüber alle ernst gemeint oder nur in der Wut waren.
+
+Was jetzt wirklich wahr war.
+
+Ob sie mich tatsächlich vermisst hat, warum sie dann häufig so nett war. Was ihre wahre Natur ist. 
+Ob ihr bedauern darüber dass sie schon wieder in diesen Scheuklappen Modus verfallen ist, letztes Jahr im Mai und dann irgendwie auch im Herbst echt waren und dann die scham die sie empfunden hat, durch Wut ersetzt wurde. 
+Dieses Verhalten ist so typisch für ihren Vater...
+
+Scham über das eigene Verhalten oder bzgl. anderen Gründen weswegen sie Scham empfunden hat, wird in Wut nach außen, in dem Fall gegen mich gerichtet.
+
+Ich hab's über Jahre probiert etwas daran bei ihr zu verbessern, mit Gutmütigkeit.
+
+Die Intervalle sind kurzIm Endeffekt 
 ## Bildschirm
 - Benq bildschirm austauschen.... ich vertrag den echt nicht...
 	- warum hab ich da all die jahre eigentlich nicht auf mich und meinen körper gehört
