@@ -2880,7 +2880,7 @@ Und wenn ich um Hilfe fehle, verzweifelt bin, mein Leid schildere und mutlos bin
 Arooj hat so vieles immer als Schuldzuweisung verstanden, auch wenn ich es versucht habe so gut wie möglich zu formulieren.
 Die Beschämung und das beschuldigt werden, war und ist einfach zu tief in ihr drin.
 Und ja ganz raus halten konnte ich das auch nie. Irgendwo muss das Schuldgefühl ja hin. 
-Nen gescheiten Umgang damit habe ich nicht gelernt. Denn entweder habe ich die 
+Nen gescheiten Umgang damit habe ich nicht gelernt. Denn entweder habe ich die Schuld direkt von außen abbekommen oder ich habe sie freiwillig aufgenommen, um Ruhe zu 
 ## Bildschirm
 - Benq bildschirm austauschen.... ich vertrag den echt nicht...
 	- warum hab ich da all die jahre eigentlich nicht auf mich und meinen körper gehört
