@@ -2920,7 +2920,7 @@ Scham über das eigene Verhalten oder bzgl. anderen Gründen weswegen sie Scham 
 
 Ich hab's über Jahre probiert etwas daran bei ihr zu verbessern, mit Gutmütigkeit.
 
-Die Intervalle sind kürzer geworden, aber Im Endeffekt sind die explosion
+Die Intervalle sind kürzer geworden, aber Im Endeffekt sind die Explosionen größer geworden.
 ## Bildschirm
 - Benq bildschirm austauschen.... ich vertrag den echt nicht...
 	- warum hab ich da all die jahre eigentlich nicht auf mich und meinen körper gehört
