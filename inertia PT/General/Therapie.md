@@ -2873,7 +2873,14 @@ Das habe ich erst '24 gelernt, obwohl das permanent mein Lebensbegleiter war und
 Und der Grund warum ich dann Dinge nicht mehr getan, Angst davor hatte und nur noch unter Druck getan habe. 
 Das gerne tun war immer damit verbunden dass ich etwas zu lange oder enthusiastisch, zu laut tue und dann dafür auch wieder Ärger bekommen habe. 
 
+Es war eher so ein generelles Gefühl, warum kann ich das nicht was andere tun. Die machen einfach und ich "sitze da und 'schaue zu' ".
+Ich kann nicht einfach "eine Sache (richtig) machen".
 
+Und wenn ich um Hilfe fehle, verzweifelt bin, mein Leid schildere und mutlos bin, werde ich dafür gehasst.
+Arooj hat so vieles immer als Schuldzuweisung verstanden, auch wenn ich es versucht habe so gut wie möglich zu formulieren.
+Die Beschämung und das beschuldigt werden, war und ist einfach zu tief in ihr drin.
+Und ja ganz raus halten konnte ich das auch nie. Irgendwo muss das Schuldgefühl ja hin. 
+Nen gescheiten Umgang damit habe ich nicht gelernt. Denn entweder habe ich die 
 ## Bildschirm
 - Benq bildschirm austauschen.... ich vertrag den echt nicht...
 	- warum hab ich da all die jahre eigentlich nicht auf mich und meinen körper gehört
