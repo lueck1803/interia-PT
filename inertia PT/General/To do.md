@@ -20,6 +20,7 @@
 - [ ] Notizen zur Shadow work nochmal lesen
 - [ ] Arbeitsblatt "die Fälle am PC korrigieren"
 - [ ] füsilier 2 die lead gitarre üben
+- [ ] 
 - [x] "das weiße band" 
 	- [ ] schauen
 	- [x] lesen
