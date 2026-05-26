@@ -18,6 +18,7 @@
 	- die Dinge mit Ruhe (,Langsamkeit ) und der Essenz begehen. Dann hat man Zeit voll bei sich und der Sache zu sein
 	- Arooj loslassen, mich auf mich konzentrieren und endlich leben 
 - [ ] Notizen zur Shadow work nochmal lesen
+- [ ] Spülmaschine ausräumen 
 - [ ] füsilier 2 die lead gitarre üben
 - [ ] Flasche an einer Stelle nochmal kleben 
 - [ ] Löcher in schwarzem T-Shirt mit rotem Rand flicken 
