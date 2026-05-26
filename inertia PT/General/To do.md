@@ -18,13 +18,14 @@
 	- die Dinge mit Ruhe (,Langsamkeit ) und der Essenz begehen. Dann hat man Zeit voll bei sich und der Sache zu sein
 	- Arooj loslassen, mich auf mich konzentrieren und endlich leben 
 - [ ] Notizen zur Shadow work nochmal lesen
-- [ ] Arbeitsblatt "die Fälle am PC korrigieren"
+- [x] Arbeitsblatt "die Fälle am PC korrigieren"
+- [x] deutsch eintragen und Blatt hochladen 
 - [ ] füsilier 2 die lead gitarre üben
 - [ ] Flasche an einer Stelle nochmal kleben 
 - [x] "das weiße band" 
 	- [ ] schauen
 	- [x] lesen
-- [ ] Ethik Blatt mit dem Arbeitsauftrag erstellen 
+- [x] Ethik Blatt mit dem Arbeitsauftrag erstellen 
 	- [ ] zu zweit ein Video vorstellen 
 	- [ ] alle Videos schauen 
 	- [ ] zu zwei schriftlich 
