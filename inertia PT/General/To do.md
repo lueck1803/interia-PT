@@ -18,10 +18,8 @@
 	- die Dinge mit Ruhe (,Langsamkeit ) und der Essenz begehen. Dann hat man Zeit voll bei sich und der Sache zu sein
 	- Arooj loslassen, mich auf mich konzentrieren und endlich leben 
 - [ ] Notizen zur Shadow work nochmal lesen
-- [x] windows Hintergrund 
+- [ ] Arbeitsblatt "die Fälle am PC korrigieren"
 - [ ] füsilier 2 die lead gitarre üben
-- [ ] rasieren 
-- [x] Spülmaschine 
 - [x] "das weiße band" 
 	- [ ] schauen
 	- [x] lesen
@@ -54,7 +52,6 @@
 - [ ] Notizen zu wissenschaftlichen Arbeit 
 - [ ] video zum Motivationscoach fertig und Notizen machen 
 - [ ] Vitamin D besorgen 
-- [x] swamphell erstmal verwerfen/verschieben ⟹ Fusilli 2 und Text perfektionieren mit Rede+ Waffenbrüder solo
 - [ ] ENC Kurzanleitung lesen
 - [ ] wann war meine Ausbildung zum Rettungshelfer und was war meine Note
 - [ ] blatt mit denksport physik für licht und schatten erstellen
