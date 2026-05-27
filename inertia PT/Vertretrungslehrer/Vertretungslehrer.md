@@ -116,6 +116,8 @@ Vorwahl zum raus telefonieren: 01
 
 
 ## Stundenplan
+![](Images/BAS/Pasted%20image%2020260429141731.png)
+![](Images/BAS/Pasted%20image%2020260429141814.png)
 Arbeitsstunden KW 19:
 - 4.5.:
 	- deu 5/6
@@ -144,9 +146,6 @@ Arbeitsstunden KW 19:
 		- 3./4. 5b (R23)
 	- Fr: 
 		- 3./4. 5b
-![](Images/BAS/Pasted%20image%2020260429141731.png)
-![](Images/BAS/Pasted%20image%2020260429141814.png)
-
 ## Sitzpläne
 ### 5a
 ![[Images/BAS/Sitzpläne/Sitzplan_5a.jpeg]]

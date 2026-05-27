@@ -20,6 +20,7 @@
 - [ ] Notizen zur Shadow work nochmal lesen
 - [ ] Spülmaschine ausräumen 
 - [ ] füsilier 2 die lead gitarre üben
+- [ ] mgla üben
 - [ ] Flasche an einer Stelle nochmal kleben 
 - [ ] Löcher in schwarzem T-Shirt mit rotem Rand flicken 
 - [ ] paper what's active matter lesen 
