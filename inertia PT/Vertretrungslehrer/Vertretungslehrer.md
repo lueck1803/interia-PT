@@ -1,32 +1,3 @@
-Kunst 5b, 5c, 5d: Hier bist du mit Simone Rothemeyer doppelt gesetzt. Bitte diesen Donnerstag, 30.04., in der 5./6. Stunde schonmal dazugehen.
-
-Katrin Mair ([katrin.mair@darmstadt.de](katrin.mair@darmstadt.de)) macht hier eine Übergabe mit euch beiden.
-
-AL 9ab, 9cd: Findet erst ab dem 25.05. wieder statt, da zur Zeit Intensivwochen sind. Auch hier kannst du dich mit Katrin Mair abstimmen, bzgl. des Unterrichts.
-
-Du lernst sie am Donnerstag ja kennen.
-
-05c Deutsch und 05 Ethik  
-Die beiden Kurse übernimmst du von Tabea Weingärtner ([tabea.weingaertner@outlook.com](mailto:tabea.weingaertner@outlook.com)). Hier kannst du dir Infos und Material geben lassen.
-
-05a Deutsch: Hier bist du 3 Stunden doppelt gesetzt zum Hospitieren, damit du schauen kannst, wie du den Unterricht in der 05c gestalten könntest.
-
-Ich übernehme:
-- ~={underline}Kunst: =~
-	- 5b, 5c, 5d
-	- Abstimmung mit Katrin Mair ([katrin.mair@darmstadt.de](katrin.mair@darmstadt.de)) 
-- ~={underline}Arbeitslehre (ab 25.05): =~
-	- 9ab, 9cd
-	- Abstimmung mit Katrin Mair 
-- ~={underline}Deutsch:=~
-	- 5c
-	- Abstimmung Tabea Weingärtner [tabea.weingaertner@outlook.com](mailto:tabea.weingaertner@outlook.com)
-	- 5a zum Hospitieren doppelt besetzt
-	- Wir haben Märchen gemacht, mit eins selbst schreiben in der Gruppe- haben sie richtig gut gemacht! Und dann hatten wir jetzt ein bisschen Wortarten wiederholt: Nomen, Verben konjugieren im Präsenz, Präteritum und Futur, aber das noch nicht intensiv.
-- ~={underline}Ethik:=~
-	- 5c
-	- Abstimmung mit Tabea Weingärtner 
-	- dieses Halbjahr bisher **Moral** als Thema, haben da auch mit dem **Buch** etwas gearbeitet, bzw. die SuS haben sich zu zweit ein Buch geteilt. Und letzte Stunde hatte ich die **Arbeit zurückgegeben**
 # To-Do 
 - [ ] Versmaß verstehen (Videos auf yt)
 	- [ ] jambus
@@ -982,6 +953,37 @@ Plakate/große Liste:
 	- dh es wird zur Zeit gekocht?
 	- was wurde bisher gekocht?
 	- wie geht's weiter?
+
+## Mail von Jamil
+Kunst 5b, 5c, 5d: Hier bist du mit Simone Rothemeyer doppelt gesetzt. Bitte diesen Donnerstag, 30.04., in der 5./6. Stunde schonmal dazugehen.
+
+Katrin Mair ([katrin.mair@darmstadt.de](katrin.mair@darmstadt.de)) macht hier eine Übergabe mit euch beiden.
+
+AL 9ab, 9cd: Findet erst ab dem 25.05. wieder statt, da zur Zeit Intensivwochen sind. Auch hier kannst du dich mit Katrin Mair abstimmen, bzgl. des Unterrichts.
+
+Du lernst sie am Donnerstag ja kennen.
+
+05c Deutsch und 05 Ethik  
+Die beiden Kurse übernimmst du von Tabea Weingärtner ([tabea.weingaertner@outlook.com](mailto:tabea.weingaertner@outlook.com)). Hier kannst du dir Infos und Material geben lassen.
+
+05a Deutsch: Hier bist du 3 Stunden doppelt gesetzt zum Hospitieren, damit du schauen kannst, wie du den Unterricht in der 05c gestalten könntest.
+
+Ich übernehme:
+- ~={underline}Kunst: =~
+	- 5b, 5c, 5d
+	- Abstimmung mit Katrin Mair ([katrin.mair@darmstadt.de](katrin.mair@darmstadt.de)) 
+- ~={underline}Arbeitslehre (ab 25.05): =~
+	- 9ab, 9cd
+	- Abstimmung mit Katrin Mair 
+- ~={underline}Deutsch:=~
+	- 5c
+	- Abstimmung Tabea Weingärtner [tabea.weingaertner@outlook.com](mailto:tabea.weingaertner@outlook.com)
+	- 5a zum Hospitieren doppelt besetzt
+	- Wir haben Märchen gemacht, mit eins selbst schreiben in der Gruppe- haben sie richtig gut gemacht! Und dann hatten wir jetzt ein bisschen Wortarten wiederholt: Nomen, Verben konjugieren im Präsenz, Präteritum und Futur, aber das noch nicht intensiv.
+- ~={underline}Ethik:=~
+	- 5c
+	- Abstimmung mit Tabea Weingärtner 
+	- dieses Halbjahr bisher **Moral** als Thema, haben da auch mit dem **Buch** etwas gearbeitet, bzw. die SuS haben sich zu zweit ein Buch geteilt. Und letzte Stunde hatte ich die **Arbeit zurückgegeben**
 # Aufgaben-Ideen
 ## Physik
 ## Demonstration von kinetischer Energie 
