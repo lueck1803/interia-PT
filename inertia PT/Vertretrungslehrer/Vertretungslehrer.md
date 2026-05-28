@@ -28,7 +28,16 @@ Ich übernehme:
 	- Abstimmung mit Tabea Weingärtner 
 	- dieses Halbjahr bisher **Moral** als Thema, haben da auch mit dem **Buch** etwas gearbeitet, bzw. die SuS haben sich zu zweit ein Buch geteilt. Und letzte Stunde hatte ich die **Arbeit zurückgegeben**
 # To-Do 
-
+- [ ] Versmaß verstehen (Videos auf yt)
+	- [ ] jambus
+	- [ ] trochäus 
+	- [ ] Reimschema 
+- [ ] Stundenplan in den Kalender eintragen
+	- [ ] kann man den exportieren?
+- [ ] mir nen planer für die Notengebung anlegen
+- [ ] Excel-Tabelle für noten, Anwesenheit, Anmerkungen, mündliche Mitarbeit 
+	- [ ] notenverwaltung mit excel überlegen ob ich mir das kaufe oder ob ich mir das selbst erstelle
+- [ ] googlen wie man die klassen Führung organisiert 
 ## Maßregeln
 - konsequent das mit den Karten durchziehen 
 - bei rot Brief an die Eltern/anrufen 

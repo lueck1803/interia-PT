@@ -12,10 +12,10 @@
 	- die kleinen Dinge (des Alltags) und das was ich bereits tue perfektionieren und vollkommene Sicherheit gewinnen 
 	- ⤷daran ist nichts Langweiliges es ist ~={MediumSpringGreen}wunder schön=~
 	- die kleinen und wichtigen Dinge des Tages zelebrieren und perfektionieren denn das bringt die wahre Freude und ist der Sinn des Lebens 
-	- ich möchte im Moment glücklich und zu Frieden sein. Denn alles kann im nächsten Moment vorbei sein 
+	- ich möchte im Moment glücklich und zufrieden sein. Denn alles kann im nächsten Moment vorbei sein 
 	- ~={RedRed}nutze endlich die Chancen=~ die du so häufig bekommen hast
 	- ich will ein sehr sehr sehr guter Lehrer werden. Dabei geht es um die Essenz 
-	- die Dinge mit Ruhe (,Langsamkeit ) und der Essenz begehen. Dann hat man Zeit voll bei sich und der Sache zu sein
+	- die Dinge mit Ruhe, Langsamkeit und der Essenz begehen. Dann hat man Zeit voll bei sich und der Sache zu sein
 	- Arooj loslassen, mich auf mich konzentrieren und endlich leben 
 - [ ] Notizen zur Shadow work nochmal lesen
 - [ ] Spülmaschine ausräumen 
@@ -44,21 +44,10 @@
 - [ ] blatt mit denksport physik für licht und schatten erstellen
 - [ ] tinte Drucker auffüllen
 - [ ] aufschreiben dass frontal/Gesprächsunterricht mit den meisten Klassen nicht funktioniert 
-- [ ] Mich nach Unternehmen umschauen, was ich nach dem Master mache?
-- [ ] Stundenplan in den Kalender eintragen
-	- [ ] kann man den exportieren?
-- [ ] mir nen planer für die Notengebung anlegen
-- [ ] Excel-Tabelle für noten, Anwesenheit, Anmerkungen, mündliche Mitarbeit 
-	- [ ] notenverwaltung mit excel überlegen ob ich mir das kaufe oder ob ich mir das selbst erstelle
-- [ ] googlen wie man die klassen Führung organisiert 
 - [ ] Gitarre mit tremolo auf Eb stimmen
 - [ ] graues longsleeve unten flicken 
 - [ ] [Change your life now](https://youtu.be/pFhMzPxbY4E?is=o7W8uMv3Vc7oasP8) Notizen machen
 - [ ] [fix your adhd morning](https://youtu.be/gsVYI-l_6G8?is=BUHdgIGMxlNq8KT8) was dazu aufschreiben 
-- [ ] Versmaß verstehen (Videos auf yt)
-	- [ ] jambus
-	- [ ] trochäus 
-	- [ ] Reimschema 
 - [x] dem Hausmeister ne Mail wegen Kunstschrank Schlüssel (daniel.mroczek@darmstadt.de)
 	- [ ] noch ne Mail wegen parkplatzschlüssel, da es im Sekretariat keinen mehr zu geben scheint
 - [ ] Lehrplan Realschule lesen
@@ -95,7 +84,7 @@
 - [ ] sobald ich den Vertrag unterschrieben habe, karte für psychedelic festival kaufen 
 - [ ] abp anstellen
 - [ ] spülkorb sauber machen
-- [ ] schauen wie ich mein Tablet Update
+- [ ] schauen wie ich mein Tablet update
 - [ ] lernen schneller und kleiner an der Tafel zu schreiben
 - [ ] und Papierkram
 - [ ] Toilettendeckel tauschen 
