@@ -10,8 +10,8 @@
 	- ~={Crimson}kein=~ YouTube mehr
 	- nur ~={MediumTurquoise}eine Sache zur selben Zeit=~ machen
 	- die kleinen Dinge (des Alltags) und das was ich bereits tue perfektionieren und vollkommene Sicherheit gewinnen 
-	- ⤷daran ist nichts langweiliges es ist ~={MediumSpringGreen}wunder schön=~
-	- die kleinen und wichtigen Dinge des Tages zelebrieren und perfektionieren denn das bringt die wahre Freude und ist der sinn des Lebens 
+	- ⤷daran ist nichts Langweiliges es ist ~={MediumSpringGreen}wunder schön=~
+	- die kleinen und wichtigen Dinge des Tages zelebrieren und perfektionieren denn das bringt die wahre Freude und ist der Sinn des Lebens 
 	- ich möchte im Moment glücklich und zu Frieden sein. Denn alles kann im nächsten Moment vorbei sein 
 	- ~={RedRed}nutze endlich die Chancen=~ die du so häufig bekommen hast
 	- ich will ein sehr sehr sehr guter Lehrer werden. Dabei geht es um die Essenz 
