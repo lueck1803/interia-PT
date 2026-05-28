@@ -20,6 +20,7 @@
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Notizen zur Shadow work nochmal lesen
 - [x] Spülmaschine ausräumen 
+- [ ] aroojs foto aus dem Portemonnaie 
 - [ ] füsilier 2 die lead gitarre üben
 - [ ] mgla üben
 - [ ] Flasche an einer Stelle nochmal kleben 
