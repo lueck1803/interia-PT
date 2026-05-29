@@ -664,6 +664,7 @@ Und es hat geklappt 🎆🥳❤️
 
 ### High masking Autism 
 - conflict resolution 
+- pattern recognition 
 
 ### Nachricht an fredin
 Bei mir ist die Kommunikation zb auffällig.
