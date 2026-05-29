@@ -691,6 +691,11 @@ Und es hat geklappt 🎆🥳❤️
 - put on performance, when you are face to face with people
 	- game time, show time, you are on
 	- you know exactly what so say and how to say it, how to carry yourself in order to make people feel good about them
+	- if you make people feel good about themselves, they will like you. they will maybe overlook maybe these other autistic traits
+	- consequence of this high masking ⟹ you need recovery time
+	- when you are around people every one loves you, but when you are in the safety of your own home, you wont reach out to people 
+	- when you reach out, you are ready to mask again
+	- attentive person 
 ### Nachricht an fredin
 Bei mir ist die Kommunikation zb auffällig.
 
