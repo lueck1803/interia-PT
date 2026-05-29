@@ -685,7 +685,7 @@ Und es hat geklappt 🎆🥳❤️
 	- but either way, we don't know what to do 
 	- not knowing what the expectation is 
 	- even if we figure out what the expectation is we may not know how to deliver it 
-	- 
+	- even if we may summarize that you need comfort, we don't know how to comfort you
 ### Nachricht an fredin
 Bei mir ist die Kommunikation zb auffällig.
 
