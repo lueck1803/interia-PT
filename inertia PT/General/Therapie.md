@@ -674,7 +674,11 @@ Und es hat geklappt 🎆🥳❤️
 	- you don't even know if it's true
 	- but this is how people see me, if it's not just one person in my life, but a bunch of people and it's consistent 
 	- ⤷ pattern recognition ⟹ must be true, even the most logical thinking high masking autists can be tricked into thinking ⟹ one is a mean person 
-	- if enough people told you 
+	- if enough people through out your life told you the same things logically speaking you are going with the majority
+- ⤷ even the most logical thinking autist can struggle who they are and be confident 
+	- because when you consistently being told that you are a list of negative traits
+	- it doesn't matter if its true or not
+	- ⤷truth becomes the majority opinion
 ### Nachricht an fredin
 Bei mir ist die Kommunikation zb auffällig.
 
