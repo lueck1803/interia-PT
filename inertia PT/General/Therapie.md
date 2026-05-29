@@ -683,6 +683,9 @@ Und es hat geklappt 🎆🥳❤️
 - often we ask questions to gather enough informations but people might take it as "cold" & detached because they feel interviewed rather than comforted
 	- keep scanning what your face is saying so we try to deduct what the expectation is
 	- but either way, we don't know what to do 
+	- not knowing what the expectation is 
+	- even if we figure out what the expectation is we may not know how to deliver it 
+	- 
 ### Nachricht an fredin
 Bei mir ist die Kommunikation zb auffällig.
 
@@ -692,7 +695,7 @@ Das kann natürlich auch sein dass meine Filter überfordert sind und ich zu vie
 
 Ist aber eher ein autistische Eigenschaft.
 
-Insgesamt meine Körperkontrolle und mein Körpergefühl auch meine Gleichgewichts Probleme.
+Insgesamt meine Körperkontrolle und mein Körpergefühl auch meine Gleichgewichtsprobleme.
 
 Ich hatte mir da zu letzt immer gesagt dass ich nicht konzentriert genug bin, denn es geht sehr gut wenn ich konzentriert und voll bei mir bin. 
 
@@ -715,6 +718,7 @@ Auch nochmal nachfragen ob die Situation jetzt so oder so zu deuten ist.
 
 Ich kann es auch nur schwer sein lassen dass etwas im raum steht.
 Ich bin schon sehr häufig verunsichert wie jetzt eine Situation zu deuten ist und nerve Leute regelrecht bis es wirklich klar ist. So richtig klar ist es manchmal aber nicht, insbesondere dadurch dass ich zu sehr versucht habe die Situation zu klären.
+bzw. für mich herauszufinden, was die soziale Erwartungshaltung ist.
 
 Das ist gepaart mit einer hohen Empathie und dem Bedürfnis nach Harmonie, so dass ich die Harmonie damit auch zerstören kann.
 Denn ich sehe Leuten etwas an was sie sich selbst nicht eingestehen können oder wollen und es insbesondere in der Situation nicht wollen.
