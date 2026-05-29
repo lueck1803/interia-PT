@@ -672,6 +672,9 @@ Und es hat geklappt 🎆🥳❤️
 	- when describing yourself, you are reciting a script to other people that you aren't even a part of
 	- you don't really resonate with it
 	- you don't even know if it's true
+	- but this is how people see me, if it's not just one person in my life, but a bunch of people and it's consistent 
+	- ⤷ pattern recognition ⟹ must be true, even the most logical thinking high masking autists can be tricked into thinking ⟹ one is a mean person 
+	- if enough people told you 
 ### Nachricht an fredin
 Bei mir ist die Kommunikation zb auffällig.
 
