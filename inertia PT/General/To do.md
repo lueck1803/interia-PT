@@ -18,6 +18,7 @@
 	- die Dinge mit Ruhe, Langsamkeit und der Essenz begehen. Dann hat man Zeit voll bei sich und der Sache zu sein
 	- Arooj loslassen, mich auf mich konzentrieren und endlich leben 
 - [ ] neuen Kalender für Schule erstellen 
+- [ ] meine AuDHD ei
 - [ ] Notizen zur Shadow work nochmal lesen
 - [x] Spülmaschine ausräumen 
 - [ ] aroojs foto aus dem Portemonnaie 
