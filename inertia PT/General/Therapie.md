@@ -662,7 +662,9 @@ Und es hat geklappt 🎆🥳❤️
 
 ## AuDHD
 
-### High masking Autism 
+### High masking Autism  https://www.youtube.com/watch?v=Ad4TSG4RY80&
+
+
 - conflict resolution 
 - pattern recognition 
 
@@ -758,7 +760,9 @@ Das führt bei mir ja zu dem paradoxon Verhalten dass ich mich in Situationen aw
 
 Ich habe die Situation schon sehr genau verstanden, aber eben zu genau und dann daraus schnell schlüsse zu ziehen ist schwer, bzw. Es ist zu komplex für mich das in der adäquaten Zeit zu verbalisieren, dadurch hänge ich manchen Situationen chronisch hinterher.🤭😅
 
-oder ich verstehe die situation, weiß aber trotzdem nicht, was ich jetzt tun soll, also was die andere Person möchte oder braucht, um ihr etwas gutes zu tun, bzw. ihr in der Situation 
+oder ich verstehe die situation, weiß aber trotzdem nicht, was ich jetzt tun soll, also was die andere Person möchte oder braucht, um ihr etwas gutes zu tun, bzw. ihr in der Situation Beistand zu leisten
+
+ich stelle viele Fragen und die wirken, dann als würde ich jemanden verhören oder interviewen.
 
 Reizverarbeitung und Überempfindlichkeit ist eine starke Überschneidung.
 
