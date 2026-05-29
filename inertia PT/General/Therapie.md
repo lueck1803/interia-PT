@@ -679,6 +679,10 @@ Und es hat geklappt 🎆🥳❤️
 	- because when you consistently being told that you are a list of negative traits
 	- it doesn't matter if its true or not
 	- ⤷truth becomes the majority opinion
+
+- often we ask questions to gather enough informations but people might take it as "cold" & detached because they feel interviewed rather than comforted
+	- keep scanning what your face is saying so we try to deduct what the expectation is
+	- but either way, we don't know what to do 
 ### Nachricht an fredin
 Bei mir ist die Kommunikation zb auffällig.
 
