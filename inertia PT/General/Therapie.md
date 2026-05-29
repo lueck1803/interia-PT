@@ -663,6 +663,7 @@ Und es hat geklappt 🎆🥳❤️
 ## AuDHD
 
 ### High masking Autism 
+- conflict resolution 
 
 ### Nachricht an fredin
 Bei mir ist die Kommunikation zb auffällig.
