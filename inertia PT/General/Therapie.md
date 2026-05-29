@@ -686,6 +686,11 @@ Und es hat geklappt 🎆🥳❤️
 	- not knowing what the expectation is 
 	- even if we figure out what the expectation is we may not know how to deliver it 
 	- even if we may summarize that you need comfort, we don't know how to comfort you
+	- what sort of comfort is this person looking for? maybe this form of comfort is offending you
+
+- put on performance, when you are face to face with people
+	- game time, show time, you are on
+	- you know exactly what so say and how to say it, how to carry yourself in order to make people feel good about them
 ### Nachricht an fredin
 Bei mir ist die Kommunikation zb auffällig.
 
