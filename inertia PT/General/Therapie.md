@@ -695,7 +695,8 @@ Und es hat geklappt 🎆🥳❤️
 	- consequence of this high masking ⟹ you need recovery time
 	- when you are around people every one loves you, but when you are in the safety of your own home, you wont reach out to people 
 	- when you reach out, you are ready to mask again
-	- attentive person 
+	- attentive person but also really avoidant
+	- 
 ### Nachricht an fredin
 Bei mir ist die Kommunikation zb auffällig.
 
@@ -757,7 +758,9 @@ Das führt bei mir ja zu dem paradoxon Verhalten dass ich mich in Situationen aw
 
 Ich habe die Situation schon sehr genau verstanden, aber eben zu genau und dann daraus schnell schlüsse zu ziehen ist schwer, bzw. Es ist zu komplex für mich das in der adäquaten Zeit zu verbalisieren, dadurch hänge ich manchen Situationen chronisch hinterher.🤭😅
 
-Reitverarbeitung und Überempfindlichkeit ist eine starke Überschneidung.
+oder ich verstehe die situation, weiß aber trotzdem nicht, was ich jetzt tun soll, also was die andere Person möchte oder braucht, um ihr etwas gutes zu tun, bzw. ihr in der Situation 
+
+Reizverarbeitung und Überempfindlichkeit ist eine starke Überschneidung.
 
 Die aber unterschiedliche Ursachen hat bei ADHS und Autismus.
 # Prokrastination
