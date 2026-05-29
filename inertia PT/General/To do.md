@@ -19,6 +19,7 @@
 	- Arooj loslassen, mich auf mich konzentrieren und endlich leben 
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] meine AuDHD Eigenschaften aufschreiben 
+- [ ] Adverb im englischen aufschreiben 
 - [ ] Notizen zur Shadow work nochmal lesen
 - [x] Spülmaschine ausräumen 
 - [ ] aroojs foto aus dem Portemonnaie 
