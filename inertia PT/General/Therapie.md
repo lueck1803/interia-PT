@@ -660,6 +660,73 @@ Und es hat geklappt 🎆🥳❤️
 - Phosphatidylserine
 	- PS has been studied for its potential in improving memory, learning, and concentration. Supplementation with PS has been shown to have no effect in enhancing cognitive performance in the elderly and individuals with cognitive decline
 
+## AuDHD
+
+### High masking Autism 
+
+### Nachricht an fredin
+Bei mir ist die Kommunikation zb auffällig.
+
+Ich habe häufig kein Gefühl für meine Lautstärke beim Sprechen habe. 
+
+Das kann natürlich auch sein dass meine Filter überfordert sind und ich zu viele Dinge koordinieren muss und deshalb lauter werde. 
+
+Ist aber eher ein autistische Eigenschaft.
+
+Insgesamt meine Körperkontrolle und mein Körpergefühl auch meine Gleichgewichts Probleme.
+
+Ich hatte mir da zu letzt immer gesagt dass ich nicht konzentriert genug bin, denn es geht sehr gut wenn ich konzentriert und voll bei mir bin. 
+
+Das ist aber dennoch keine ADHS "Problematik".
+
+Aber ich war ja bei der Kommunikation.
+
+Ich habe schon eine sehr formelle und zumindest ist mein Eindruck eine detaillierte und präzise Sprache. Auch wenn sie nicht präzise auf das große Ganze, also auch knapp ist.
+
+Ich kann das auch nur sehr schwer ablegen.
+Das geht schon wenn ich merke dass mich Leute nicht verstehen.
+
+
+Ich verstehe schon Ironie.
+Aber habe sehr häufig Probleme Situationen richtig zu lesen. 
+
+Muss fast immer nach dem Kontext fragen und ganz häufig ob ich es richtig verstanden habe. 
+
+Auch nochmal nachfragen ob die Situation jetzt so oder so zu deuten ist.
+
+Ich kann es auch nur schwer sein lassen dass etwas im raum steht.
+Ich bin schon sehr häufig verunsichert wie jetzt eine Situation zu deuten ist und nerve Leute regelrecht bis es wirklich klar ist. So richtig klar ist es manchmal aber nicht, insbesondere dadurch dass ich zu sehr versucht habe die Situation zu klären.
+
+Das ist gepaart mit einer hohen Empathie und dem Bedürfnis nach Harmonie, so dass ich die Harmonie damit auch zerstören kann.
+Denn ich sehe Leuten etwas an was sie sich selbst nicht eingestehen können oder wollen und es insbesondere in der Situation nicht wollen.
+
+Ich kann/konnte nicht locker lassen bis ich dahinter bin. 
+
+Das ist zb. Auch beim (Über)analysieren von Arooj so gewesen und sie zu erklären.
+
+Im Endeffekt hatte ich recht mit meiner Einschätzung und Deutung.
+
+Dadurch dass ich es nicht bei mir halten konnte und ihr Dinge gesagt habe, die ihr nicht klar waren oder die sie nicht zugeben wollte, hab ich sie damit eher wütend gemacht.
+
+Im Nachhinein oder in bestimmten Situationen hat sie dann wie letztes Jahr im Mai gesagt, dass es stimmt und ich sie da besser kenne. 
+
+Es war auch am Ende immer so auch unausgesprochen dass die Einschätzungen gestimmt haben. 
+
+Autismus ist ja entgegen der landläufigen Meinung kein fehlen von Empathie.
+Es ist eher eine Überforderung.
+
+Ich erkenne sehr gut Muster. Insbesondere beim Verhalten von Menschen.
+Die Schüler die ich habe, kann ich sehr schnell einschätzen und verstehe da auch sehr gut die Situationen.
+
+Es ist aber auch eine Überforderung und das in Worte zu fassen ist anstrengend.
+
+Das führt bei mir ja zu dem paradoxon Verhalten dass ich mich in Situationen awkward fühle und sie eben "nicht verstehe", da es mich verunsichert.
+
+Ich habe die Situation schon sehr genau verstanden, aber eben zu genau und dann daraus schnell schlüsse zu ziehen ist schwer, bzw. Es ist zu komplex für mich das in der adäquaten Zeit zu verbalisieren, dadurch hänge ich manchen Situationen chronisch hinterher.🤭😅
+
+Reitverarbeitung und Überempfindlichkeit ist eine starke Überschneidung.
+
+Die aber unterschiedliche Ursachen hat bei ADHS und Autismus.
 # Prokrastination
 ## [Warum dein Gehirn Prokrastination liebt?](https://youtu.be/hFTxgHzFKqw?is=5vjPjqSLz6xeMs6C)
 - Die eigentliche Aufgabe des Gehirns: <span style="font-size:100%;color: limegreen;">Dein Überleben sichern</span>. Es stellt sich im Hintergrund die Fragen.
