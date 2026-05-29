@@ -988,7 +988,7 @@ Ich übernehme:
 ## Physik
 ## Demonstration von kinetischer Energie 
 - [ ] Ballkanone besorgen/bauen
-- [ ] kerbal space program kaufen
+- [x] kerbal space program kaufen
 ## GL
 ### [neuestes vom Neandertaler](https://www.ardsounds.de/episode/urn:ard:episode:e6c45df3f342e2ee/)(Arbeitsblatt erstellen)
 - Kinder link oder Datei geben 
