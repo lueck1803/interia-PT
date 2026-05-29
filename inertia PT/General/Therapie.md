@@ -669,6 +669,9 @@ Und es hat geklappt 🎆🥳❤️
 - conflict resolution + pattern recognition ⟹ look as on the surface as controlling, nit-picky and chronically complaining about everything
 
 - when you describing yourself, it's like you are talking about a script, that is actually memorised from other people. 
+	- when describing yourself, you are reciting a script to other people that you aren't even a part of
+	- you don't really resonate with it
+	- you don't even know if it's true
 ### Nachricht an fredin
 Bei mir ist die Kommunikation zb auffällig.
 
