@@ -666,6 +666,8 @@ Und es hat geklappt 🎆🥳❤️
 - conflict resolution 
 - pattern recognition 
 
+- conflict resolution + pattern recognition ⟹ look as on the surface as controlling, nit-picky and chronically complaining about everything
+
 ### Nachricht an fredin
 Bei mir ist die Kommunikation zb auffällig.
 
