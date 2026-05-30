@@ -23,7 +23,9 @@
 - [ ] nudeln weg
 - [ ] Waschbecken Küche 
 - [ ] saugen
-- [ ] 
+- [ ] balkon kehren
+- [ ] wischen
+- [ ] einkaufschip
 - [ ] deutsch Arbeit 
 	- [ ] Aufgaben vertauschen
 	- [ ] Punktzahl verdoppeln bei fall einsetzen Aufgabe 
