@@ -1,6 +1,7 @@
 
 - [ ] What is active matter?
 - [ ] importance of universality classes for active matter
+- [ ] read kapitel 1 und 2 von jones
 
 # guidlines
 - follow the Talk red line
