@@ -29,7 +29,7 @@
 - [ ] Knoblauch einfrieren 
 - [ ] duschen 
 - [ ] Kochplatten 
-- [ ] Ahorn 
+- [ ] Ahorn umsetzen 
 - [ ] deutsch Arbeit 
 	- [ ] Aufgaben vertauschen
 	- [ ] Punktzahl verdoppeln bei fall einsetzen Aufgabe 
