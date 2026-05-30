@@ -19,6 +19,11 @@
 	- Arooj loslassen, mich auf mich konzentrieren und endlich leben 
 - [ ] neuen Kalender für Schule erstellen 
 - [x] meine AuDHD Eigenschaften aufschreiben 
+- [ ] 30° Wäsche 
+- [ ] nudeln weg
+- [ ] Waschbecken Küche 
+- [ ] saugen
+- [ ] 
 - [ ] deutsch Arbeit 
 	- [ ] Aufgaben vertauschen
 	- [ ] Punktzahl verdoppeln bei fall einsetzen Aufgabe 
