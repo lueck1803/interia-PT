@@ -26,6 +26,9 @@
 - [ ] balkon kehren
 - [ ] wischen
 - [ ] einkaufschip
+- [ ] Knoblauch einfrieren 
+- [ ] duschen 
+- [ ] Kochplatten 
 - [ ] deutsch Arbeit 
 	- [ ] Aufgaben vertauschen
 	- [ ] Punktzahl verdoppeln bei fall einsetzen Aufgabe 
