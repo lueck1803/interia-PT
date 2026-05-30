@@ -30,7 +30,7 @@
 - [ ] aroojs foto aus dem Portemonnaie 
 - [ ] füsilier 2 die lead gitarre üben
 - [ ] mgla üben
-- [ ] Flasche an einer Stelle nochmal kleben 
+- [x] Flasche an einer Stelle nochmal kleben 
 - [ ] paper what's active matter lesen 
 - [ ] Simulationen anschauen 
 	- [ ] ~={LimeGreen}Simulationen nutzen um neue Erkenntnisse zu beschreiben =~
