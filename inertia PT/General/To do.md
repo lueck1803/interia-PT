@@ -21,6 +21,7 @@
 - [x] meine AuDHD Eigenschaften aufschreiben 
 - [ ] deutsch Arbeit 
 	- [ ] Aufgaben vertauschen
+	- [ ] Punktzahl verdoppeln bei fall einsetzen Aufgabe 
 - [ ] Adverb im englischen aufschreiben 
 - [ ] Notizen zur Shadow work nochmal lesen
 - [x] Spülmaschine ausräumen 
