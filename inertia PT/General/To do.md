@@ -18,7 +18,8 @@
 	- die Dinge mit Ruhe, Langsamkeit und der Essenz begehen. Dann hat man Zeit voll bei sich und der Sache zu sein
 	- Arooj loslassen, mich auf mich konzentrieren und endlich leben 
 - [ ] neuen Kalender für Schule erstellen 
-- [ ] meine AuDHD Eigenschaften aufschreiben 
+- [x] meine AuDHD Eigenschaften aufschreiben 
+- [ ] 
 - [ ] Adverb im englischen aufschreiben 
 - [ ] Notizen zur Shadow work nochmal lesen
 - [x] Spülmaschine ausräumen 
