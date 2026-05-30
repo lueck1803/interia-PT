@@ -19,17 +19,18 @@
 	- Arooj loslassen, mich auf mich konzentrieren und endlich leben 
 - [ ] neuen Kalender für Schule erstellen 
 - [x] meine AuDHD Eigenschaften aufschreiben 
-- [ ] 30° Wäsche 
-- [ ] nudeln weg
+- [x] 30° Wäsche 
+- [x] nudeln weg
 - [ ] Waschbecken Küche 
-- [ ] saugen
-- [ ] balkon kehren
-- [ ] wischen
+- [x] Waschbecken Bad
+- [x] saugen
+- [x] balkon kehren
+- [x] wischen
 - [ ] einkaufschip
 - [ ] Knoblauch einfrieren 
-- [ ] duschen 
+- [x] duschen 
 - [ ] Kochplatten 
-- [ ] Ahorn umsetzen 
+- [x] Ahorn umsetzen 
 - [ ] deutsch Arbeit 
 	- [ ] Aufgaben vertauschen
 	- [ ] Punktzahl verdoppeln bei fall einsetzen Aufgabe 
@@ -40,7 +41,7 @@
 - [ ] füsilier 2 die lead gitarre üben
 - [ ] mgla üben
 - [ ] Flasche an einer Stelle nochmal kleben 
-- [ ] Löcher in schwarzem T-Shirt mit rotem Rand flicken 
+- [x] Löcher in schwarzem T-Shirt mit rotem Rand flicken 
 - [ ] paper what's active matter lesen 
 - [ ] Simulationen anschauen 
 	- [ ] ~={LimeGreen}Simulationen nutzen um neue Erkenntnisse zu beschreiben =~
