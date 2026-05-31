@@ -1,4 +1,5 @@
 - ich~={RedRed} will meine Arbeit Publikations fähig machen=~
+- regelmäßig den ~={MediumSpringGreen}Blutdruck=~ messen
 # unsortiert
 - oberste Priorität:
 	- ~={RedRed}Masterarbeit=~
@@ -40,6 +41,7 @@
 - [ ] Waschbecken Küche 
 - [ ] Kochplatten 
 - [ ] Arbeitsplatte saugen und aufräumen
+- [ ] Wasserhahn Küche silkonölen
 - [ ] einkaufschip
 - [ ] Bildschirme tauschen ⟹ großen weg und die zwei kleinen vor mich
 	- [ ] erstmal die Position verändert, da ich keine dp-dp-Kabel habe
@@ -60,7 +62,9 @@
 - [ ] aroojs foto aus dem Portemonnaie 
 - [ ] füsilier 2 die lead gitarre üben
 - [ ] mgla üben
+- [x] Überweisung an Bauverein Nachtrag Mai
 - [x] Flasche an einer Stelle nochmal kleben 
+	- ⟹Flasche dann weggeworfen
 - [ ] paper what's active matter lesen 
 - [ ] Simulationen anschauen 
 	- [ ] ~={LimeGreen}Simulationen nutzen um neue Erkenntnisse zu beschreiben =~
@@ -72,7 +76,7 @@
 	- [ ] mit dem box algo vergleichen 
 - [ ] spülkorb putzen
 - [ ] Topf in Spülmaschine 
-- [ ] Duschwanne schrubben 
+- [x] Duschwanne schrubben 
 - [ ] lao tzu
 - [ ] Notizen zu wissenschaftlichen Arbeit 
 - [ ] video zum Motivationscoach fertig und Notizen machen 
@@ -83,7 +87,7 @@
 - [ ] tinte Drucker auffüllen
 - [ ] aufschreiben dass frontal/Gesprächsunterricht mit den meisten Klassen nicht funktioniert 
 - [ ] Gitarre mit tremolo auf Eb stimmen
-- [ ] graues longsleeve unten flicken 
+- [x] graues longsleeve unten flicken 
 - [ ] [Change your life now](https://youtu.be/pFhMzPxbY4E?is=o7W8uMv3Vc7oasP8) Notizen machen
 - [ ] [fix your adhd morning](https://youtu.be/gsVYI-l_6G8?is=BUHdgIGMxlNq8KT8) was dazu aufschreiben 
 - [x] dem Hausmeister ne Mail wegen Kunstschrank Schlüssel (daniel.mroczek@darmstadt.de)
@@ -93,9 +97,9 @@
 	- [ ] ethik 5. Klasse
 	- [ ] Arbeitslehre 9. Klasse
 - [ ] Fensterbänke wischen 
-- [ ] socken flicken 
-	- [ ] Ketchup 
-	- [ ] fila
+- [x] socken flicken 
+	- [x] Ketchup 
+	- [x] fila
 - [ ] personality tabs am laptop fertig lesen und schließen
 - [ ] was ist das nächste macos nach meinem was sind die issues? 
 	- [ ] ⤷ updaten
@@ -107,7 +111,6 @@
 	- [ ] read: Feedforward neural network
 	- [x] loss function article lesen
 	- [ ] das google paper lesen
-- [ ] Waschbecken Küche 
 - [ ] Bürostuhl dampfen
 - [ ] sofa dampfen 
 - [ ] papa nachdem selfie stick fragen, den ihm arooj geschenkt hat
@@ -120,12 +123,12 @@
 	- [ ] und Dienst zum Helfen 
 - [ ] Essen mit Kartoffeln machen 
 - [ ] sobald ich den Vertrag unterschrieben habe, karte für psychedelic festival kaufen 
+	- [ ] frühstens sobald geld da ist...
 - [ ] abp anstellen
 - [ ] spülkorb sauber machen
 - [ ] schauen wie ich mein Tablet update
 - [ ] lernen schneller und kleiner an der Tafel zu schreiben
 - [ ] Toilettendeckel tauschen 
-- [ ] Wasserhahn Küche silkonölen
 - [ ] simon nach seinen Folien fragen 
 - [ ] Vorderrad Bremse checken/einstellen/tauschen 
 - [ ] Klingel checken
