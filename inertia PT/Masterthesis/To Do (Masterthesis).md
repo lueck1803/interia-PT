@@ -15,9 +15,15 @@
 	- [ ] Vergleich: Pe 30 ratio 1:10 zu 1:3 für verschiedene ~={orange}Seeds=~ und verschiedene ~={yellow}System size=~
 		- [ ] schwierig bei PE 30 und 1:10 eine zusammenhängende dichte Phase zu bekommen. die Masse muss dafür sehr stark reduziert werden
 	- [ ] Hier benennen, dass die Erkenntnis erst später kam
-- [ ] meine veränderte Methode erklären
+- [ ] meine veränderte Methode erklären und die aktuelle Problematik beleuchten
 - [ ] Vergleich der Auswertung der Methoden ist geplant, daher wurde auch dringend versucht die Masse soweit abzusenken, dass eine zusammenhängende dichte Phase entsteht
-- [ ] create sim vollständig 
+- [ ] create sim vollständig beschreiben. Ergänzungen hinzufügen.
+- [ ] Intro:
+	- [ ] phase transition allgemein -> dazu cheung, schwabl, gros
+		- [ ] schauen, was ich dazu schon im report versuch stehen habe
+	- [ ] finite size scaling: hermann, täuber: Buch und meine Mitschrift zur VL
+	- [ ] renormalization group
+	- [ ] critical theorie: critical exponents: täuber: Buch + Mitsch
 
 # guidlines
 - follow the Talk red line
