@@ -24,6 +24,9 @@
 - [ ] Techniken wie man mit Mobbing umgeht
 - [ ] Knoblauch einfrieren 
 - [ ] Kochplatten 
+- [ ] Mündliche Noten
+	- [ ] Deutsch 
+	- [ ] Ethik
 - [x] deutsch Arbeit 
 	- [x] Aufgaben vertauschen
 	- [x] Punktzahl verdoppeln bei fall einsetzen Aufgabe 
