@@ -4,6 +4,8 @@
 	- ~={RedRed}Masterarbeit=~
 	- ~={Gold}Innere Ruhe=~ 
 	- ~={yellow}Meditation=~
+	- ~={Crimson}Andere=~ ~={LawnGreen}Regulationsformen=~ finden
+	- Auf den ~={LightBlue}Körper hören=~
 	- dauerhaft präsent sein
 	- ganz ~={LimeGreen}im hier und jetzt=~ sein
 	- die ~={LightBlue}Pflicht des Augenblicks=~
