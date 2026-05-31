@@ -21,6 +21,8 @@
 	- die Dinge mit Ruhe, Langsamkeit und der Essenz begehen. Dann hat man Zeit voll bei sich und der Sache zu sein
 	- Arooj loslassen, mich auf mich konzentrieren und endlich leben 
 - [ ] neuen Kalender für Schule erstellen 
+- [ ] Kayro und Oles wegen nächster Woche Dienstag Vortrag schreiben
+- [ ] Jamil schreiben dass ich am 9.6 frei brauche
 - [ ] tisch saugen
 - [ ] Platz für Bildschirme finden
 - [ ] in die Uni fahren und schauen ob ich ein Displayport-Displayport Kabel finde bzw. DP-Kabel kaufen...

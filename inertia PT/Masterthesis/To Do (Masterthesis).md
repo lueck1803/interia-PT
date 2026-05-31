@@ -13,8 +13,11 @@
 	- [ ] Bilder von Pe 35 bzw. Pe 40 zeigen für ratio 1:10? habe ich da überhaupt welche?
 	- [ ] darüber schreiben, dass das ratio wichtig ist
 	- [ ] Vergleich: Pe 30 ratio 1:10 zu 1:3 für verschiedene ~={orange}Seeds=~ und verschiedene ~={yellow}System size=~
-	- [ ] Hier benennen, dass das die Erkenntnis 
+		- [ ] schwierig bei PE 30 und 1:10 eine zusammenhängende dichte Phase zu bekommen. die Masse muss dafür sehr stark reduziert werden
+	- [ ] Hier benennen, dass die Erkenntnis erst später kam
 - [ ] meine veränderte Methode erklären
+- [ ] Vergleich der Auswertung der Methoden ist geplant, daher wurde auch dringend versucht die Masse soweit abzusenken, dass eine zusammenhängende dichte Phase entsteht
+- [ ] create sim vollständig 
 
 # guidlines
 - follow the Talk red line
