@@ -1628,6 +1628,15 @@ When changes are made simultaneously on both remote and local branches, or when 
 
 Git pull is a command that performs more processes compared to git fetch. Git pull can perform both git fetch and additionally execute git merge or git rebase. For this reason, git pull is recommended when you want to quickly reflect changes from the remote repository in the local branch.
 
+# Word
+
+## Signature Lines
+
+Es gibt signature lines:
+
+> [!NOTE] signature lines
+> Menu ⟹ Inser ⟹ on the right side Text (category)
+
 # YouTube
 Wenn man bei der YouTube app ein Video ab einem Zeitpunkt verlinken möchte 
 `youtubelinkt`+`?t=MMmSSs`⟹`youtubelink`+`?t=17m18s` ⟹ https://youtu.be/Yz9Bj9kEtKc?si=umUGQ2rElxZL_YgD?t=17m18s
