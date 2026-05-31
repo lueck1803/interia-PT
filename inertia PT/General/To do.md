@@ -34,8 +34,8 @@
 - [ ] Jamil schreiben dass ich am 9.6 frei brauche
 - [ ] tisch saugen
 - [ ] Decken waschen
-- [ ] Platz für Bildschirme finden
-	- [ ] in den Vorratsschrank unten auf den Boden legen, mit Papier gut polstern
+- [x] Platz für Bildschirme finden
+	- [x] in den Vorratsschrank unten auf den Boden legen, mit Papier gut polstern
 - [ ] in die Uni fahren und schauen ob ich ein Displayport-Displayport Kabel finde bzw. DP-Kabel kaufen...
 - [ ] Waschbecken Küche 
 - [ ] Kochplatten 
