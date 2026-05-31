@@ -6,6 +6,10 @@
 	- [ ] Chapter 2 
 		- [ ] 2.1
 		- [ ] 2.2
+- [ ] Intro kapitel zu what is active matter fertig schreiben
+- [ ] Kapitel bzgl der Entwicklung der Methode fertig schreiben
+- [ ] Übergang: Entwicklung der Methode - veränderte Methode:
+	- [ ] erwähnen, welche Änderungen an den Simula
 
 # guidlines
 - follow the Talk red line
