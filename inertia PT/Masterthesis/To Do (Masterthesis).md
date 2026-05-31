@@ -24,7 +24,9 @@
 		- [ ] different regimes
 		- [ ] MIPS
 		- [ ] particles with inertia (kurz erkenntnisse aus papern)
-			- [ ] 
+			- [ ] mandal (worauf referiert er? wo fängt es an?)
+				- [ ] Davon die erklärung zum Unterschied beim Verhalten insbesondere bei MIPS
+				- [ ] Löwen2020 Seite 3 Bild zum Vergleich der Stöße 
 	- [ ] phase transition allgemein -> dazu cheung, schwabl, gros, täuber
 		- [ ] schauen, was ich dazu schon im report versuch stehen habe
 	- [ ] critical theorie: critical exponents: täuber: Buch + Mitschrift; Hermann; stanley1971
