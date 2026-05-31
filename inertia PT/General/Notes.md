@@ -1641,7 +1641,7 @@ Es gibt signature lines:
 
 
 > [!NOTE] Text Box
-> Menu ⟹ Insert ⟹<small>category</small> Text  (<small>on the right side</small>)⟹ Text Box (Dropdown) ⟹ <u>Draw</u> Text Box
+> Menu ⟹ Insert ⟹<small>category</small> Text  (<small>on the right side</small>)⟹ Text Box <small>(Dropdown)</small> ⟹ <u>Draw</u> Text Box
 
 
 # YouTube
