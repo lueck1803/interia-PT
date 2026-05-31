@@ -19,9 +19,11 @@
 	- Arooj loslassen, mich auf mich konzentrieren und endlich leben 
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] tisch saugen
+- [ ] in die Uni fahren und schauen ob ich ein Displayport-Displayport Kabel finde
 - [ ] Waschbecken Küche 
 - [ ] einkaufschip
 - [ ] Bildschirme tauschen ⟹ großen weg und die zwei kleinen vor mich
+	- [ ] erstmal die Position verändert, da ich keine dp-dp-Kabel habe
 - [ ] Techniken wie man mit Mobbing umgeht
 - [ ] Knoblauch einfrieren 
 - [ ] Kochplatten 
