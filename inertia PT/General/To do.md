@@ -73,7 +73,7 @@
 	- [ ] mit dem box algo vergleichen 
 - [ ] spülkorb putzen
 - [ ] Topf in Spülmaschine 
-- [ ] Duschwanne schrubben 
+- [x] Duschwanne schrubben 
 - [ ] lao tzu
 - [ ] Notizen zu wissenschaftlichen Arbeit 
 - [ ] video zum Motivationscoach fertig und Notizen machen 
@@ -94,9 +94,9 @@
 	- [ ] ethik 5. Klasse
 	- [ ] Arbeitslehre 9. Klasse
 - [ ] Fensterbänke wischen 
-- [ ] socken flicken 
-	- [ ] Ketchup 
-	- [ ] fila
+- [x] socken flicken 
+	- [x] Ketchup 
+	- [x] fila
 - [ ] personality tabs am laptop fertig lesen und schließen
 - [ ] was ist das nächste macos nach meinem was sind die issues? 
 	- [ ] ⤷ updaten
@@ -108,7 +108,6 @@
 	- [ ] read: Feedforward neural network
 	- [x] loss function article lesen
 	- [ ] das google paper lesen
-- [ ] Waschbecken Küche 
 - [ ] Bürostuhl dampfen
 - [ ] sofa dampfen 
 - [ ] papa nachdem selfie stick fragen, den ihm arooj geschenkt hat
