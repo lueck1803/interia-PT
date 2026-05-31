@@ -6,6 +6,13 @@
 	- ~={yellow}Meditation=~
 	- ~={Crimson}Andere=~ ~={LawnGreen}Regulationsformen=~ finden
 		- Stim mit Visualisierung aus dem Leben entfernen
+		- Spazieren + Balancieren
+		- schlafen
+		- Meditieren
+		- Yoga
+		- in die Ferne schauen
+		- mich am schönen Erfreuen
+		- Abstand zu Medien und Ablenkung
 	- ~={Magenta}Schlaf=~ ist das ~={ForestGreen}beste Heilmittel=~ 
 	- Auf den ~={LightBlue}Körper hören=~
 	- dauerhaft präsent sein
