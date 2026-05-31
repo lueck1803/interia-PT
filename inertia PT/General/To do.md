@@ -27,11 +27,12 @@
 - [ ] Mündliche Noten
 	- [ ] Deutsch 
 	- [ ] Ethik
-- [x] deutsch Arbeit 
+- deutsch Arbeit 
 	- [x] Aufgaben vertauschen
 	- [x] Punktzahl verdoppeln bei fall einsetzen Aufgabe 
 	- [ ] auf Stick ziehen
-	- [ ] jeweils 11 einseitig drucken + tackern
+	- [ ] jeweils 11 Exemplare A und B
+		- einseitig drucken + tackern
 - [ ] Adverb im englischen aufschreiben 
 - [ ] Notizen zur Shadow work nochmal lesen
 - [ ] aroojs foto aus dem Portemonnaie 
