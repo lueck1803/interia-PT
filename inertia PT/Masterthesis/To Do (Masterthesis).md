@@ -27,11 +27,14 @@
 			- [ ] mandal (worauf referiert er? wo fängt es an?)
 				- [ ] Davon die erklärung zum Unterschied beim Verhalten insbesondere bei MIPS
 				- [ ] Löwen2020 Seite 3 Bild zum Vergleich der Stöße 
+			- [ ] Hecht, das MIPS Phasendiagramm zeigen und dessen Erkenntnis kurz zusammenfassen (zur not ChatGPT verwenden)
+			- [ ] Su2021 zusammenfassen Erkenntnis über das verhalten der local density distribution
 	- [ ] phase transition allgemein -> dazu cheung, schwabl, gros, täuber
 		- [ ] schauen, was ich dazu schon im report versuch stehen habe
 	- [ ] critical theorie: critical exponents: täuber: Buch + Mitschrift; Hermann; stanley1971
-	- [ ] finite size scaling: hermann, täuber: Buch und meine Mitschrift zur VL
 	- [ ] renormalization group
+	- [ ] finite size scaling: hermann; täuber: Buch und meine Mitschrift zur VL; supta Mitschrift
+		- [ ] 
 
 # guidlines
 - follow the Talk red line
