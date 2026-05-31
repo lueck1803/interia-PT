@@ -8,8 +8,13 @@
 		- [ ] 2.2
 - [ ] Intro kapitel zu what is active matter fertig schreiben
 - [ ] Kapitel bzgl der Entwicklung der Methode fertig schreiben
-- [ ] Übergang: Entwicklung der Methode - veränderte Methode:
-	- [ ] erwähnen, welche Änderungen an den Simula
+- [ ] Übergang: Entwicklung der Methode -> meine veränderte Methode:
+	- [ ] erwähnen, welche Änderungen an den Simulationen es ermöglichen die modifizierte Methode doch anzuwenden
+	- [ ] Bilder von Pe 35 bzw. Pe 40 zeigen für ratio 1:10? habe ich da überhaupt welche?
+	- [ ] darüber schreiben, dass das ratio wichtig ist
+	- [ ] Vergleich: Pe 30 ratio 1:10 zu 1:3 für verschiedene ~={orange}Seeds=~ und verschiedene ~={yellow}System size=~
+	- [ ] Hier benennen, dass das die Erkenntnis 
+- [ ] meine veränderte Methode erklären
 
 # guidlines
 - follow the Talk red line
