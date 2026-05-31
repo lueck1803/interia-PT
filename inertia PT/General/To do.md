@@ -28,6 +28,7 @@
 - [ ] einkaufschip
 - [ ] Bildschirme tauschen ⟹ großen weg und die zwei kleinen vor mich
 	- [ ] erstmal die Position verändert, da ich keine dp-dp-Kabel habe
+	- [ ] großen Bildschirm etwas dunkler gemacht - 90%
 - [ ] Techniken wie man mit Mobbing umgeht
 - [ ] Knoblauch einfrieren 
 - [ ] Kochplatten 
