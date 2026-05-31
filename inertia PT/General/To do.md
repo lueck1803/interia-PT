@@ -5,6 +5,7 @@
 	- ~={Gold}Innere Ruhe=~ 
 	- ~={yellow}Meditation=~
 	- ~={Crimson}Andere=~ ~={LawnGreen}Regulationsformen=~ finden
+		- Stim mit Visualisierung aus dem Leben entfernen
 	- ~={Magenta}Schlaf=~ ist das ~={ForestGreen}beste Heilmittel=~ 
 	- Auf den ~={LightBlue}Körper hören=~
 	- dauerhaft präsent sein

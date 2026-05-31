@@ -33,8 +33,9 @@
 		- [ ] schauen, was ich dazu schon im report versuch stehen habe
 	- [ ] critical theorie: critical exponents: täuber: Buch + Mitschrift; Hermann; stanley1971
 	- [ ] renormalization group
-	- [ ] finite size scaling: hermann; täuber: Buch und meine Mitschrift zur VL; supta Mitschrift
-		- [ ] 
+	- [ ] finite size scaling: hermann; täuber: Buch und meine Mitschrift zur VL; sutapa Roy Mitschrift
+		- [ ] grund legender Effekt, tritt wann auf?
+		- [ ] Observable im infinite system -> scaling function ->Y
 
 # guidlines
 - follow the Talk red line
