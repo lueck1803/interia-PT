@@ -345,8 +345,9 @@ in den anderen Fällen bleibt der Artikel erhalten
 		- Das habe ich gelernt, das kann ich: 124
 ### Glossar
 #### warum lesen? 
-- macht man in 
-
+- macht man in erster Linie für sich
+- es eröffnen sich neue Welten 
+- und wenn man sich die Sachen selbst vorstellt statt sie als bilder zu bekommen passiert ganz viel im Gehirn 
 
 #### Jambus
 #### Trochäus
