@@ -1026,6 +1026,9 @@ Ich übernehme:
 	- wie funktioniert Wirtschaft 
 	- und unser Geld System 
 ## Deutsch
+### Satzzeichen 
+Verständlichkeit von Sätzen ohne entsprechende Satzzeichen.
+~={Tomato} Bild vom Einkaufswagen=~
 ### Links zu Material
 [Fälle | Aduis](https://www.aduis.de/grammatik-faelle-ab48147)
 ### schreibt einen Songtext
