@@ -64,7 +64,7 @@
 - [ ] mgla üben
 - [x] Überweisung an Bauverein Nachtrag Mai
 - [x] Flasche an einer Stelle nochmal kleben 
-	- Flasche dann weggeworfen
+	- ⟹Flasche dann weggeworfen
 - [ ] paper what's active matter lesen 
 - [ ] Simulationen anschauen 
 	- [ ] ~={LimeGreen}Simulationen nutzen um neue Erkenntnisse zu beschreiben =~
