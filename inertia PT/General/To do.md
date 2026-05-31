@@ -20,6 +20,7 @@
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Waschbecken Küche 
 - [ ] einkaufschip
+- [ ] Techniken wie man mit Mobbing umgeht
 - [ ] Knoblauch einfrieren 
 - [ ] Kochplatten 
 - [ ] deutsch Arbeit 
