@@ -1,4 +1,5 @@
 - ich~={RedRed} will meine Arbeit Publikations fähig machen=~
+- regelmäßig den ~={MediumSpringGreen}Blutdruck=~ messen
 # unsortiert
 - oberste Priorität:
 	- ~={RedRed}Masterarbeit=~
