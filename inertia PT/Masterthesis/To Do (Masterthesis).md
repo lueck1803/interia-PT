@@ -35,7 +35,10 @@
 	- [ ] renormalization group
 	- [ ] finite size scaling: hermann; täuber: Buch und meine Mitschrift zur VL; sutapa Roy Mitschrift
 		- [ ] grund legender Effekt, tritt wann auf?
-		- [ ] Observable im infinite system -> scaling function ->Y
+		- [ ] Observable im infinite system -> scaling function -> Observable im finite
+		- [ ] Binder cumulant
+		- [ ] wie bekommt man die exponenten
+- ~={RedRed}das war es an Theorie, mehr ist nicht nötig=~
 
 # guidlines
 - follow the Talk red line
