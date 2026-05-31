@@ -1,5 +1,5 @@
 - [ ] Displayport - Displayport Kabel
-- [ ] 4er Pack CR2032 3Vvom dm
+- [ ] 4er Pack CR2032 3V vom dm
 - [ ] Vitamin D 
 - [x] hafermilch
 - [x] Schmelzkäse Scheiben 
