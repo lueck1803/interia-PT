@@ -20,12 +20,13 @@
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Waschbecken Küche 
 - [ ] einkaufschip
+- [ ] Bildschirme tauschen ⟹ großen weg und die zwei kleinen vor mich
 - [ ] Techniken wie man mit Mobbing umgeht
 - [ ] Knoblauch einfrieren 
 - [ ] Kochplatten 
-- [ ] deutsch Arbeit 
-	- [ ] Aufgaben vertauschen
-	- [ ] Punktzahl verdoppeln bei fall einsetzen Aufgabe 
+- [x] deutsch Arbeit 
+	- [x] Aufgaben vertauschen
+	- [x] Punktzahl verdoppeln bei fall einsetzen Aufgabe 
 - [ ] Adverb im englischen aufschreiben 
 - [ ] Notizen zur Shadow work nochmal lesen
 - [ ] aroojs foto aus dem Portemonnaie 
