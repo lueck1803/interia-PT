@@ -1635,7 +1635,7 @@ Git pull is a command that performs more processes compared to git fetch. Git pu
 Es gibt signature lines:
 
 > [!NOTE] signature lines
-> Menu ⟹ Inser ⟹ on the right side Text (category)
+> Menu ⟹ Insert ⟹ <small>category</small> Text  (<small>on the right side</small>) ⟹ Signature Line (Dropdown)
 
 # YouTube
 Wenn man bei der YouTube app ein Video ab einem Zeitpunkt verlinken möchte 
