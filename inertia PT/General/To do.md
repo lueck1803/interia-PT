@@ -30,6 +30,8 @@
 - [x] deutsch Arbeit 
 	- [x] Aufgaben vertauschen
 	- [x] Punktzahl verdoppeln bei fall einsetzen Aufgabe 
+	- [ ] auf Stick ziehen
+	- [ ] einseitig drucken + tackern
 - [ ] Adverb im englischen aufschreiben 
 - [ ] Notizen zur Shadow work nochmal lesen
 - [ ] aroojs foto aus dem Portemonnaie 
