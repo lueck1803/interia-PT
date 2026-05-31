@@ -19,11 +19,17 @@
 - [ ] Vergleich der Auswertung der Methoden ist geplant, daher wurde auch dringend versucht die Masse soweit abzusenken, dass eine zusammenhängende dichte Phase entsteht
 - [ ] create sim vollständig beschreiben. Ergänzungen hinzufügen.
 - [ ] Intro:
-	- [ ] phase transition allgemein -> dazu cheung, schwabl, gros
+	- [ ] active matter: Buchkapitel + dessen Verlinkungen
+		- [ ] active brownian particles + Vergleich zu Ornstein Uhlenbeck
+		- [ ] different regimes
+		- [ ] MIPS
+		- [ ] particles with inertia (kurz erkenntnisse aus papern)
+			- [ ] 
+	- [ ] phase transition allgemein -> dazu cheung, schwabl, gros, täuber
 		- [ ] schauen, was ich dazu schon im report versuch stehen habe
+	- [ ] critical theorie: critical exponents: täuber: Buch + Mitschrift; Hermann; stanley1971
 	- [ ] finite size scaling: hermann, täuber: Buch und meine Mitschrift zur VL
 	- [ ] renormalization group
-	- [ ] critical theorie: critical exponents: täuber: Buch + Mitsch
 
 # guidlines
 - follow the Talk red line
