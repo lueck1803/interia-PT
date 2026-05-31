@@ -5,7 +5,7 @@
 	- ~={Gold}Innere Ruhe=~ 
 	- ~={yellow}Meditation=~
 	- ~={Crimson}Andere=~ ~={LawnGreen}Regulationsformen=~ finden
-	- ~={Magenta}Schlaf=~ ist das ~={ForestGreen}beste=~ Heilmittel
+	- ~={Magenta}Schlaf=~ ist das ~={ForestGreen}beste Heilmittel=~ 
 	- Auf den ~={LightBlue}Körper hören=~
 	- dauerhaft präsent sein
 	- ganz ~={LimeGreen}im hier und jetzt=~ sein
@@ -22,7 +22,8 @@
 	- Arooj loslassen, mich auf mich konzentrieren und endlich leben 
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] tisch saugen
-- [ ] in die Uni fahren und schauen ob ich ein Displayport-Displayport Kabel finde
+- [ ] Platz für Bildschirme finden
+- [ ] in die Uni fahren und schauen ob ich ein Displayport-Displayport Kabel finde bzw. DP-Kabel kaufen...
 - [ ] Waschbecken Küche 
 - [ ] einkaufschip
 - [ ] Bildschirme tauschen ⟹ großen weg und die zwei kleinen vor mich
@@ -36,7 +37,7 @@
 - deutsch Arbeit 
 	- [x] Aufgaben vertauschen
 	- [x] Punktzahl verdoppeln bei fall einsetzen Aufgabe 
-	- [ ] auf Stick ziehen
+	- [x] auf Stick ziehen
 	- [ ] jeweils 11 Exemplare A und B
 		- einseitig drucken + tackern
 - [ ] Adverb im englischen aufschreiben 
