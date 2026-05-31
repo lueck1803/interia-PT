@@ -29,13 +29,14 @@
 - [ ] Platz für Bildschirme finden
 - [ ] in die Uni fahren und schauen ob ich ein Displayport-Displayport Kabel finde bzw. DP-Kabel kaufen...
 - [ ] Waschbecken Küche 
+- [ ] Kochplatten 
+- [ ] Arbeitsplatte saugen und aufräumen
 - [ ] einkaufschip
 - [ ] Bildschirme tauschen ⟹ großen weg und die zwei kleinen vor mich
 	- [ ] erstmal die Position verändert, da ich keine dp-dp-Kabel habe
 	- [ ] großen Bildschirm etwas dunkler gemacht - 90%
 - [ ] Techniken wie man mit Mobbing umgeht
 - [ ] Knoblauch einfrieren 
-- [ ] Kochplatten 
 - [ ] Mündliche Noten
 	- [ ] Deutsch 
 	- [ ] Ethik
