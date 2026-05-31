@@ -34,13 +34,14 @@
 - [ ] Kayro und Oles wegen nächster Woche Dienstag Vortrag schreiben
 - [ ] Jamil schreiben dass ich am 9.6 frei brauche
 - [ ] tisch saugen
-- [ ] Decken waschen
+- [x] Decken waschen
 - [ ] Platz für Bildschirme finden
 	- [ ] in den Vorratsschrank unten auf den Boden legen, mit Papier gut polstern
 - [ ] in die Uni fahren und schauen ob ich ein Displayport-Displayport Kabel finde bzw. DP-Kabel kaufen...
 - [ ] Waschbecken Küche 
 - [ ] Kochplatten 
 - [ ] Arbeitsplatte saugen und aufräumen
+- [ ] Wasserhahn Küche silkonölen
 - [ ] einkaufschip
 - [ ] Bildschirme tauschen ⟹ großen weg und die zwei kleinen vor mich
 	- [ ] erstmal die Position verändert, da ich keine dp-dp-Kabel habe
@@ -61,7 +62,9 @@
 - [ ] aroojs foto aus dem Portemonnaie 
 - [ ] füsilier 2 die lead gitarre üben
 - [ ] mgla üben
+- [x] Überweisung an Bauverein Nachtrag Mai
 - [x] Flasche an einer Stelle nochmal kleben 
+	- Flasche dann weggeworfen
 - [ ] paper what's active matter lesen 
 - [ ] Simulationen anschauen 
 	- [ ] ~={LimeGreen}Simulationen nutzen um neue Erkenntnisse zu beschreiben =~
@@ -84,7 +87,7 @@
 - [ ] tinte Drucker auffüllen
 - [ ] aufschreiben dass frontal/Gesprächsunterricht mit den meisten Klassen nicht funktioniert 
 - [ ] Gitarre mit tremolo auf Eb stimmen
-- [ ] graues longsleeve unten flicken 
+- [x] graues longsleeve unten flicken 
 - [ ] [Change your life now](https://youtu.be/pFhMzPxbY4E?is=o7W8uMv3Vc7oasP8) Notizen machen
 - [ ] [fix your adhd morning](https://youtu.be/gsVYI-l_6G8?is=BUHdgIGMxlNq8KT8) was dazu aufschreiben 
 - [x] dem Hausmeister ne Mail wegen Kunstschrank Schlüssel (daniel.mroczek@darmstadt.de)
@@ -120,12 +123,12 @@
 	- [ ] und Dienst zum Helfen 
 - [ ] Essen mit Kartoffeln machen 
 - [ ] sobald ich den Vertrag unterschrieben habe, karte für psychedelic festival kaufen 
+	- [ ] frühstens sobald geld da ist...
 - [ ] abp anstellen
 - [ ] spülkorb sauber machen
 - [ ] schauen wie ich mein Tablet update
 - [ ] lernen schneller und kleiner an der Tafel zu schreiben
 - [ ] Toilettendeckel tauschen 
-- [ ] Wasserhahn Küche silkonölen
 - [ ] simon nach seinen Folien fragen 
 - [ ] Vorderrad Bremse checken/einstellen/tauschen 
 - [ ] Klingel checken
