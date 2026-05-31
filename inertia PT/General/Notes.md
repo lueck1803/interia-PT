@@ -1637,6 +1637,13 @@ Es gibt signature lines:
 > [!NOTE] signature lines
 > Menu ⟹ Insert ⟹ <small>category</small> Text  (<small>on the right side</small>) ⟹ Signature Line (Dropdown)
 
+## Text Box
+
+
+> [!NOTE] Text Box
+> Menu ⟹ Insert ⟹<small>category</small> Text  (<small>on the right side</small>)⟹ Text Box (Dropdown) ⟹ <u>Draw</u> Text Box
+
+
 # YouTube
 Wenn man bei der YouTube app ein Video ab einem Zeitpunkt verlinken möchte 
 `youtubelinkt`+`?t=MMmSSs`⟹`youtubelink`+`?t=17m18s` ⟹ https://youtu.be/Yz9Bj9kEtKc?si=umUGQ2rElxZL_YgD?t=17m18s
