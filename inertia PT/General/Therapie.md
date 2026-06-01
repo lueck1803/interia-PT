@@ -1360,6 +1360,7 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 
 
 # Beziehung
+## 26-06-01
 ## 26-04-17 zu meinem Zustand und Reflexion zu Arooj 
 Sehr nett von dir 🥰🫂🙏.
 

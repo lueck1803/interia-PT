@@ -1,3 +1,5 @@
+# ENS
+Eintragung der Noten, es gibt ein Video zur Erklärung wie das geht.
 # To-Do 
 - [ ] Versmaß verstehen (Videos auf yt)
 	- [ ] jambus
