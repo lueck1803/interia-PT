@@ -2828,11 +2828,19 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 
 https://www.google.com/search?q=ce+qui+ce+que&oq=ce+qui&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyCQgBEEUYORiABDIHCAIQLhiABDIHCAMQABiABDIHCAQQABiABDIHCAUQLhiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABDIHCAoQABiABDIHCAsQABiABDIHCAwQABiABDIHCA0QABiABDIHCA4QABiABNIBCDMzNjNqMGo3qAIUsAIB8QUeCO3984gm9A&client=ms-android-xiaomi-terr2-rso2&sourceid=chrome-mobile&ie=UTF-8#lfId=ChxjMe
 
-En français, ce qui et ce que se traduisent tous deux par « ce qui » ou « ce que » en allemand (généralement par le pronom « was »). La règle fondamentale repose sur la fonction grammaticale du pronom dans la proposition subordonnée :Ce qui est le sujet du verbe qui suit (il répond à la question « qui/was fait l'action ? »).Ce que (parfois élidé en ce qu') est le complément d'objet direct (COD) du verbe qui suit. Il est généralement suivi d'un autre sujet.
+En français, ce qui et ce que se traduisent tous deux par « ce qui » ou « ce que » en allemand (généralement par le pronom « was »).
+La règle fondamentale repose sur la fonction grammaticale du pronom dans la proposition subordonnée :
+- Ce qui est le sujet du verbe qui suit (il répond à la question « qui/was fait l'action ? »).Ce que (parfois élidé en ce qu') est le complément d'objet direct (COD) du verbe qui suit. Il est généralement suivi d'un autre sujet.
 
-Règle simple et exemples
+<u>Règle simple et exemples</u>
 
-|Forme|Fonction|Règle d'utilisationExempleTraductionCe quiSujetDirectement suivi d'un verbe.Je ne sais pas ce qui se passe.Ich weiß nicht, was passiert.Ce queObjet (COD)Suivi d'un sujet (ex: je, tu, il) et d'un verbe.Je vois ce que tu veux dire.Ich sehe, was du sagen willst.Remarques importantesCes pronoms n'ont pas d'antécédent précis ; ils ne remplacent pas un nom en particulier, mais renvoient à l'ensemble d'une situation, d'une idée ou d'une phrase précédente.Ils ne sont jamais utilisés pour désigner des personnes.
+| Forme  | Fonction    | Règle d'utilisation                              | Exemple                             | Traduction                         |
+| ------ | ----------- | ------------------------------------------------ | ----------------------------------- | ---------------------------------- |
+| Ce qui | Sujet       | Directement suivi d'un verbe.                    | Je ne sais pas **ce qui** se passe. | Ich weiß nicht, **was** passiert.  |
+| Ce que | Objet (COD) | Suivi d'un sujet (ex: je, tu, il) et d'un verbe. | Je vois **ce que** tu veux dire.    | Ich sehe, **was** du sagen willst. |
+Remarques importantes
+- Ces pronoms n'ont pas d'antécédent précis ; ils ne remplacent pas un nom en particulier, mais renvoient à l'ensemble d'une situation, d'une idée ou d'une phrase précédente.
+- Ils ne sont jamais utilisés pour désigner des personnes.
 
 ==La différence entre **ce qui** et **ce que** dépend de leur fonction grammaticale dans la phrase==. Ils se traduisent tous deux par « _what_ » en anglais ou « _das, was_ » en allemand. [1](https://www.schuelerhilfe.de/online-lernen/5-franzoesisch/1537-die-relativpronomen-ce-qui-und-ce-que), [2](https://www.youtube.com/watch?v=QtCzuxFdJ00&t=5)
 
