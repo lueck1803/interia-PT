@@ -1360,7 +1360,24 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 
 
 # Beziehung
-## 26-06-01
+## 26-06-01 Nachricht an fredin auf
+
+Ja was solltet ihr da machen 🤷‍♂️.
+
+Ihr könntet mit ihr Kontakt aufnehmen und mal fragen was bei ihr so geht über ob wir mal reden könnten.
+
+Aber...
+1. Habt ihr selbst genug zu tun. 
+2. Habt ihr euch schon so viel von mir angehört.
+3. Keine Ahnung wie sie reagiert.
+Ich brauche auch selbst einfach Zeit um zu verarbeiten, mich kennenzulernen und meine Aufgaben zu erledigen.
+Ich hab genug an mir zu arbeiten.
+Alleine dass ich immer noch ein wenig in diese Wechsel verfalle von ich vermisse sie und ich will bloß keinen Kontakt mehr haben.
+
+Wobei ich sie ja eher vermisse.
+
+Mein Problem ist eher dass mich die Erinnerungen an die Vergangenheit manchmal überwältigen und sentimental machen.
+Das hat Arooj dann schon häufig missverstanden als Schuldvorwurf.
 ## 26-04-17 zu meinem Zustand und Reflexion zu Arooj 
 Sehr nett von dir 🥰🫂🙏.
 
