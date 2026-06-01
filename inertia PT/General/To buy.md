@@ -1,10 +1,10 @@
+- [ ] toast
 - [ ] Displayport - Displayport Kabel
 - [ ] 4er Pack CR2032 3V vom dm
 - [ ] Vitamin D 
 - [x] hafermilch
 - [x] Schmelzkäse Scheiben 
 - [x] grüne Oliven 
-- [x] toast
 - [x] Pesto 
 - [x] schoko chips
 - [x] schoki
