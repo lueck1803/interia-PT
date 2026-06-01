@@ -1381,6 +1381,8 @@ Wobei ich sie ja eher vermisse.
 
 Mein Problem ist eher dass mich die Erinnerungen an die Vergangenheit manchmal überwältigen und sentimental machen.
 Das hat Arooj dann schon häufig missverstanden als Schuldvorwurf.
+
+Ich muss mich um mich kümmern, mein Leben und mich in den Griff bekommen, ich gar keinen Kopf mehr für Konflikte und auch keine Energie für die Gespräche die kommen müssten.
 ## 26-04-17 zu meinem Zustand und Reflexion zu Arooj 
 Sehr nett von dir 🥰🫂🙏.
 
