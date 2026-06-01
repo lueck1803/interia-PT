@@ -1362,6 +1362,9 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 # Beziehung
 ## 26-06-01 Nachricht an fredin auf
 
+Ich wollte, wir könnten da irgendwie helfen🫂❤️
+
+---
 Ja was solltet ihr da machen 🤷‍♂️.
 
 Ihr könntet mit ihr Kontakt aufnehmen und mal fragen was bei ihr so geht über ob wir mal reden könnten.
