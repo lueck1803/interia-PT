@@ -1036,6 +1036,8 @@ Ich übernehme:
 ### Satzzeichen 
 Verständlichkeit von Sätzen ohne entsprechende Satzzeichen.
 ~={Tomato} Bild vom Einkaufswagen=~
+
+![[Images/BAS/Deu/Einkaufswagen-Frage.png]]
 ### Links zu Material
 [Fälle | Aduis](https://www.aduis.de/grammatik-faelle-ab48147)
 ### schreibt einen Songtext
