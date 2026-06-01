@@ -1,6 +1,6 @@
-- [ ] toast
-- [ ] saft
-- [ ] pizza
+- [x] toast
+- [x] saft
+- [x] pizza
 - [x] hafermilch
 - [x] Schmelzkäse Scheiben 
 - [x] grüne Oliven 
