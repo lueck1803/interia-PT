@@ -1,9 +1,6 @@
 - [ ] toast
 - [ ] saft
 - [ ] pizza
-- [ ] Displayport - Displayport Kabel
-- [ ] 4er Pack CR2032 3V vom dm
-- [ ] Vitamin D 
 - [x] hafermilch
 - [x] Schmelzkäse Scheiben 
 - [x] grüne Oliven 
@@ -26,6 +23,9 @@
 	- [ ] grüne erbsen
 - [ ] Unterhosen 
 - [ ] neue Wanderschuhe
+- [ ] Displayport - Displayport Kabel
+- [ ] 4er Pack CR2032 3V vom dm
+- [ ] Vitamin D 
 # non food
 - [ ] kleinen Schneebesen 
 - [ ] Plastik Plättchen zum tür öffnen -> pet Flasche 
