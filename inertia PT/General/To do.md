@@ -30,7 +30,7 @@
 	- die Dinge mit Ruhe, Langsamkeit und der Essenz begehen. Dann hat man Zeit voll bei sich und der Sache zu sein
 	- Arooj loslassen, mich auf mich konzentrieren und endlich leben 
 - [ ] neuen Kalender für Schule erstellen 
-- [ ] ce qui/ ce que 
+- [ ] ce qui/ ce que korrekt aufschreiben 
 - [ ] foxit reader Mac aufräumen
 - [ ] Kayro und Oles wegen nächster Woche Dienstag Vortrag schreiben
 - [ ] Jamil schreiben dass ich am 9.6 frei brauche
