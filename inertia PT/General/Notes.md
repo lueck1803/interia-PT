@@ -2830,9 +2830,16 @@ https://www.google.com/search?q=ce+qui+ce+que&oq=ce+qui&gs_lcrp=EgZjaHJvbWUqBwgA
 
 En français, ce qui et ce que se traduisent tous deux par « ce qui » ou « ce que » en allemand (généralement par le pronom « was »). La règle fondamentale repose sur la fonction grammaticale du pronom dans la proposition subordonnée :Ce qui est le sujet du verbe qui suit (il répond à la question « qui/was fait l'action ? »).Ce que (parfois élidé en ce qu') est le complément d'objet direct (COD) du verbe qui suit. Il est généralement suivi d'un autre sujet.
 
-Règle simple et exemplesFormeFonctionRègle d'utilisationExempleTraductionCe quiSujetDirectement suivi d'un verbe.Je ne sais pas ce qui se passe.Ich weiß nicht, was passiert.Ce queObjet (COD)Suivi d'un sujet (ex: je, tu, il) et d'un verbe.Je vois ce que tu veux dire.Ich sehe, was du sagen willst.Remarques importantesCes pronoms n'ont pas d'antécédent précis ; ils ne remplacent pas un nom en particulier, mais renvoient à l'ensemble d'une situation, d'une idée ou d'une phrase précédente.Ils ne sont jamais utilisés pour désigner des personnes.
+Règle simple et exemples
 
+|Forme|Fonction|Règle d'utilisationExempleTraductionCe quiSujetDirectement suivi d'un verbe.Je ne sais pas ce qui se passe.Ich weiß nicht, was passiert.Ce queObjet (COD)Suivi d'un sujet (ex: je, tu, il) et d'un verbe.Je vois ce que tu veux dire.Ich sehe, was du sagen willst.Remarques importantesCes pronoms n'ont pas d'antécédent précis ; ils ne remplacent pas un nom en particulier, mais renvoient à l'ensemble d'une situation, d'une idée ou d'une phrase précédente.Ils ne sont jamais utilisés pour désigner des personnes.
 
+==La différence entre **ce qui** et **ce que** dépend de leur fonction grammaticale dans la phrase==. Ils se traduisent tous deux par « _what_ » en anglais ou « _das, was_ » en allemand. [1](https://www.schuelerhilfe.de/online-lernen/5-franzoesisch/1537-die-relativpronomen-ce-qui-und-ce-que), [2](https://www.youtube.com/watch?v=QtCzuxFdJ00&t=5)
+
+- **Ce qui** est le **sujet** de la phrase. Il est toujours suivi d'un verbe.
+    - _Exemple :_ « Je ne sais pas **ce qui** s'est passé. » (Je ne sais pas ce qui est arrivé). [1](https://www.sofatutor.com/franzoesisch/videos/relativpronomen-ce-qui-und-ce-que), [2](https://www.gymglish.com/fr/frantastique-orthographe/grammaire-francaise/les-pronoms-relatifs-ce-qui-ce-que-et-ce-dont), [3](https://learnattack.de/franzoesisch/relativsaetze-mit-ce-qui-und-ce-que), [4](https://www.schuelerhilfe.de/online-lernen/5-franzoesisch/1537-die-relativpronomen-ce-qui-und-ce-que)
+- **Ce que** (ou **ce qu'**) est le **complément d'objet direct (COD)**. Il est généralement suivi d'un sujet et d'un verbe.
+    - _Exemple :_ « Je ne sais pas **ce que** tu dis. » (Je ne sais pas ce que tu racontes). [1](https://www.schuelerhilfe.de/online-lernen/5-franzoesisch/1537-die-relativpronomen-ce-qui-und-ce-que), [2](https://www.gymglish.com/fr/frantastique-orthographe/grammaire-francaise/les-pronoms-relatifs-ce-qui-ce-que-et-ce-dont)
 # Chemie
 ## BPA
 ### ist ~={Crimson}kein=~ Weichmacher
