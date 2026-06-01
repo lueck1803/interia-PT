@@ -2825,6 +2825,9 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 	- Seine Augen huschten über sein Gesicht, als er Bardot über die Seifen und Wäscheklammern hinweg ansah.
 	- Seine Augen lachten, als er Bardot über die Seifen und Wäscheklammern hinweg ansah.
 ## ce qui / ce que
+
+https://www.google.com/search?q=ce+qui+ce+que&oq=ce+qui&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyCQgBEEUYORiABDIHCAIQLhiABDIHCAMQABiABDIHCAQQABiABDIHCAUQLhiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABDIHCAoQABiABDIHCAsQABiABDIHCAwQABiABDIHCA0QABiABDIHCA4QABiABNIBCDMzNjNqMGo3qAIUsAIB8QUeCO3984gm9A&client=ms-android-xiaomi-terr2-rso2&sourceid=chrome-mobile&ie=UTF-8#lfId=ChxjMe
+
 En français, ce qui et ce que se traduisent tous deux par « ce qui » ou « ce que » en allemand (généralement par le pronom « was »). La règle fondamentale repose sur la fonction grammaticale du pronom dans la proposition subordonnée :Ce qui est le sujet du verbe qui suit (il répond à la question « qui/was fait l'action ? »).Ce que (parfois élidé en ce qu') est le complément d'objet direct (COD) du verbe qui suit. Il est généralement suivi d'un autre sujet.
 
 Règle simple et exemplesFormeFonctionRègle d'utilisationExempleTraductionCe quiSujetDirectement suivi d'un verbe.Je ne sais pas ce qui se passe.Ich weiß nicht, was passiert.Ce queObjet (COD)Suivi d'un sujet (ex: je, tu, il) et d'un verbe.Je vois ce que tu veux dire.Ich sehe, was du sagen willst.Remarques importantesCes pronoms n'ont pas d'antécédent précis ; ils ne remplacent pas un nom en particulier, mais renvoient à l'ensemble d'une situation, d'une idée ou d'une phrase précédente.Ils ne sont jamais utilisés pour désigner des personnes.
