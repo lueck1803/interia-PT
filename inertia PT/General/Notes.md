@@ -83,6 +83,27 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+## 26-06-02 Fredin
+ich hab jetzt gestern und heute starke meltdowns gehabt, obwohl ich versucht habe meine Energie in der Schule zu schonen.
+
+Ich bin heute, wie auch gestern extra mit Akkustikohrenstöpseln herum gelaufen.
+Das hat echt viel gebracht.
+Ich packs trotzdem nicht.
+
+Mein Körper ist einfach durch.
+
+ich bin wirklich nicht für die Welt gemacht 😵‍💫
+
+So zerstört habe ich mich die ganze Zeit kaum gefühlt.
+
+ich hab wie gestern den ganzen Nachmittag und frühen Abend geschlafen.
+
+Wirklich logisch gedacht, ich gehöre / passe nicht in diese Welt.
+
+zu dem Entschluss bin ich ja schon länger gekommen - bewusst seit meiner Kindheit. 
+Aber ich muss mich dem jetzt auch endlich mal fügen/ es einsehen.
+
+ich hänge allem immer so geistig hinterher.
 
 ## 26-05-24
 
