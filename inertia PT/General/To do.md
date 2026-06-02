@@ -33,6 +33,7 @@
 - [ ] ömer ein gutes Arbeitsverhalten eintragen 
 - [x] ce qui/ ce que korrekt aufschreiben 
 - [ ] foxit reader Mac aufräumen
+- [ ] Entschuldigung karyna 1.6. und 27.5 -29.5
 - [ ] Kayro und Oles wegen nächster Woche Dienstag Vortrag schreiben
 - [ ] Jamil schreiben dass ich am 9.6 frei brauche
 - [x] tisch saugen
