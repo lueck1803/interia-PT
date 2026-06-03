@@ -10,6 +10,8 @@
 	- [ ] Definition rein
 	- [ ] reviewen
 - [ ] Kapitel bzgl der Entwicklung der Methode fertig schreiben
+- [ ] Beispiele Active matter
+	- [ ] Janus particles Vrugt2025
 - [ ] Übergang: Entwicklung der Methode -> meine veränderte Methode:
 	- [ ] erwähnen, welche Änderungen an den Simulationen es ermöglichen die modifizierte Methode doch anzuwenden
 	- [ ] Bilder von Pe 35 bzw. Pe 40 zeigen für ratio 1:10? habe ich da überhaupt welche?
