@@ -7,6 +7,7 @@
 		- [ ] 2.1
 		- [ ] 2.2
 - [x] Intro kapitel zu what is active matter fertig schreiben
+	- [ ] Definition rein
 	- [ ] reviewen
 - [ ] Kapitel bzgl der Entwicklung der Methode fertig schreiben
 - [ ] Übergang: Entwicklung der Methode -> meine veränderte Methode:
@@ -22,6 +23,7 @@
 - [ ] Intro:
 	- [ ] active matter: Buchkapitel + dessen Verlinkungen
 		- [ ] active brownian particles + Vergleich zu Ornstein Uhlenbeck
+		- [ ] Dry model
 		- [ ] different regimes
 		- [ ] MIPS
 		- [ ] particles with inertia (kurz erkenntnisse aus papern)
