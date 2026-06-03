@@ -30,6 +30,17 @@
 	- die Dinge mit Ruhe, Langsamkeit und der Essenz begehen. Dann hat man Zeit voll bei sich und der Sache zu sein
 	- Arooj loslassen, mich auf mich konzentrieren und endlich leben 
 - [ ] neuen Kalender für Schule erstellen 
+- [ ] Spaziergang 
+- [ ] Wäsche auf Sofa 
+- [ ] Gang beim Drucker saugen
+- [ ] Unterricht für Mathe überlegen 
+- [ ] Note in enc eintragen 
+- [ ] Mitarbeit deutsch eintragen 
+- [ ] Mitarbeit Ethik eintragen 
+- [ ] Sozial+arbeitsverhalten ömer auf 1 falls noch geht 
+- [ ] mündliche Noten Ethik: kombi aus tabea und mir 
+- [ ] Ethik Hausarbeit korrigieren 
+- [ ] nicht abgegebene: höchstens 4
 - [ ] ömer ein gutes Arbeitsverhalten eintragen 
 - [x] ce qui/ ce que korrekt aufschreiben 
 - [ ] foxit reader Mac aufräumen
@@ -51,15 +62,15 @@
 	- [ ] erstmal die Position verändert, da ich keine dp-dp-Kabel habe
 	- [ ] großen Bildschirm etwas dunkler gemacht - 90%
 - [ ] Techniken wie man mit Mobbing umgeht
-- [ ] Knoblauch einfrieren 
+- [x] Knoblauch einfrieren 
 - [ ] Mündliche Noten
 	- [ ] Deutsch 
 	- [ ] Ethik
-- deutsch Arbeit 
+- [x] deutsch Arbeit 
 	- [x] Aufgaben vertauschen
 	- [x] Punktzahl verdoppeln bei fall einsetzen Aufgabe 
 	- [x] auf Stick ziehen
-	- [ ] jeweils 11 Exemplare A und B
+	- [x] jeweils 11 Exemplare A und B
 		- einseitig drucken + tackern
 - [ ] Adverb im englischen aufschreiben 
 - [ ] Notizen zur Shadow work nochmal lesen

@@ -373,6 +373,12 @@ Nach der Benotung bzgl Vortrag:
 	- Beispiele suchen (Freunde / Geschäftspartner / etc.)  
 	- Rücksicht und Empathie als Grund für den Verzicht auf OBEN-Positionen erkennen
 
+### 26-06-03
+Alle die etwas abgegeben haben: 1-2
+
+Alle die nichts abgegeben haben 5
+
+Falls Vortrag gehalten wird, ändert sich das nochmal.
 ### 26-05-12
 - SRF Kultur:
 	- STRASSENBAHN

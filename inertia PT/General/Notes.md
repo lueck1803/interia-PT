@@ -2689,6 +2689,9 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 ⃞ ⃝◢ ⃞ ◣ ⃝ ⃞ ⃞  ~={MediumSpringGreen}5=~
  ⃝◢  ⃞ ⃞ ⃞ ◣ ⃝ ⃞  ~={blue}3=~
 ⃞ ⃞ ⃞ ⃞ ⃞ ⃞  ◣ ⃝   ~={Crimson}1=~
+
+# Englisch 
+## Adverb 
 # Französisch
 ## accents 
 - Accent Aigu (é): Only on 'e'. Produces a closed "eh" sound like:

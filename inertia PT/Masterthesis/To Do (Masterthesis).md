@@ -6,7 +6,8 @@
 	- [ ] Chapter 2 
 		- [ ] 2.1
 		- [ ] 2.2
-- [ ] Intro kapitel zu what is active matter fertig schreiben
+- [x] Intro kapitel zu what is active matter fertig schreiben
+	- [ ] reviewen
 - [ ] Kapitel bzgl der Entwicklung der Methode fertig schreiben
 - [ ] Übergang: Entwicklung der Methode -> meine veränderte Methode:
 	- [ ] erwähnen, welche Änderungen an den Simulationen es ermöglichen die modifizierte Methode doch anzuwenden
