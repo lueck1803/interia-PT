@@ -31,6 +31,12 @@
 	- Arooj loslassen, mich auf mich konzentrieren und endlich leben 
 - [ ] neuen Kalender für Schule erstellen 
 - [x] Spaziergang 
+- [ ] Wort Opferhaltung erklären 
+	- [ ] Opferhaltung ist das Gegenteil von opfer sein
+	- [ ] prinzipiell schlimmer, denn man macht sich selbst emotional zum Opfer 
+	- [ ] dabei ist man es faktisch nicht
+	- [ ] man denkt man sei unterlegen und wird darüber wütend 
+	- [ ] statt dass man ruhig und bei sich bleibt, sich und seine Position stärkt
 - [ ] Wäsche auf Sofa 
 - [ ] Gang beim Drucker saugen
 - [ ] Unterricht für Mathe überlegen 
