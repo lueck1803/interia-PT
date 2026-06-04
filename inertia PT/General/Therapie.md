@@ -2645,7 +2645,8 @@ Aber 🤷‍♂️, so bin ich halt, warum sollte ich irgendwie Drumherum reden
 	- motorische Probleme 
 		- schreiben
 		- laufen 
-		- Koordinat
+		- Koordination von Bewegungen im allgemeinen 
+	- 
 ### 26-03-16
 Bekomme 20mg große Packung. 
 Mit der Option die Kapsel zu öffnen und zu halbieren, um 30mg zu nehmen.
