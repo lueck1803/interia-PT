@@ -2639,13 +2639,13 @@ Aber 🤷‍♂️, so bin ich halt, warum sollte ich irgendwie Drumherum reden
 - ich fühle mich dadurch auch schlapper und schlafe schlechter, bekomme leichter Kopfschmerzen 
 - vielleicht brauche ich jetzt einfach weniger
 - ich bin mir jetzt mittlerweile Recht sicher dass ich AuDHD habe. Den Verdacht hatte ich schon 24, da war aber alles so neu dass ich mich erstmal voll damit befasse
-	- Körperwahrnehmung 
+	- Körperwahrnehmung, wo
 	- Gleichgewicht 
 	- die Art und Weise wie ich mit sozialen Situationen um gehe. Schon seit meiner frühen Kindheit 
 	- motorische Probleme 
 		- schreiben
 		- laufen 
-		- Koordination von Bewegungen im allgemeinen, 
+		- Koordination von Bewegungen im allgemeinen, zu weit , zu ausholend, zu kurz
 	- 
 ### 26-03-16
 Bekomme 20mg große Packung. 
