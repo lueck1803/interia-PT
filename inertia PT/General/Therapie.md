@@ -2645,7 +2645,7 @@ Aber 🤷‍♂️, so bin ich halt, warum sollte ich irgendwie Drumherum reden
 	- motorische Probleme 
 		- schreiben
 		- laufen 
-		- Koordination von Bewegungen im allgemeinen 
+		- Koordination von Bewegungen im allgemeinen, 
 	- 
 ### 26-03-16
 Bekomme 20mg große Packung. 
