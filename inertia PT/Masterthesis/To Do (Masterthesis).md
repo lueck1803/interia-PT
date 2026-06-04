@@ -5,7 +5,8 @@
 	- [ ] dann aber den Übergang dazu warum die kästchen methode
 	- [ ] wie diese funktioniert
 
-- [ ] Entw
+- [ ] Entweder historisch vorgehen, das war unser vorgehen, deshalb sind wir dazu übergegangen das ratio so zu wählen und dann die Methode anzupassen. Schon bereits erwähnen, dass sich später herausgestellt hat, dass das unnötig ist, bzw. der falsche weg war. 
+	- [ ] Oder erst die aktuellen erkenntnisse 
 
 
 - [ ] What is active matter?
