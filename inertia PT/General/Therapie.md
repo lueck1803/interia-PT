@@ -2643,7 +2643,8 @@ Aber 🤷‍♂️, so bin ich halt, warum sollte ich irgendwie Drumherum reden
 		- bin mir nicht bewusst wo sich mein Körper im Raum befindet 
 		- wie laut meine Stimme ist
 		- das ich auf Toilette muss
-			- manchmal extrem 
+			- manchmal extrem häufig 
+			- manchmal fast zu spät
 		- ich etwas essen oder trinken muss 
 	- Gleichgewicht: 
 		- ich übe das seit Jahren 
