@@ -1,3 +1,4 @@
+- [ ] zink tabletten
 - [x] toast
 - [x] saft
 - [x] pizza
