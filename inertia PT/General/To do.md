@@ -38,7 +38,7 @@
 	- [ ] man denkt man sei unterlegen und wird darüber wütend 
 	- [ ] statt dass man ruhig und bei sich bleibt, sich und seine Position stärkt
 - [ ] Wäsche auf Sofa 
-- [ ] Hosentaschen graue ho
+- [ ] Hosentaschen graue Hose vergrößern 
 - [ ] Gang beim Drucker saugen
 - [ ] Unterricht für Mathe überlegen 
 - [ ] Note in enc eintragen 
