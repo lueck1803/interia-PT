@@ -1,8 +1,13 @@
 - [ ] 1. neue erkenntnisse beschreiben unterschied zwischen den verschiedenen PE und box ratios
-	- [ ] sagen dass das ein irrweg war, dass das box ratio es schlimmer gemacht hat, was auch logisch ist warum... Der Gedanke war die vertikale aufspaltung 
+	- [ ] sagen dass das ein irrweg war, dass das box ratio es schlimmer gemacht hat, was auch logisch ist warum... Der Gedanke war die vertikale aufspaltung zu verringern, hat damit aber die horizontale aufspaltung verstärkt, das war damals ein Tipp von einem Doktorand aus der Arbeitsgruppe und um die in siebert erwähnte slab like structure ~={red}siebert2018 zitieren=~ nochmal zu verstärken
 		- [ ] man zwingt das system sozusagen sich aufzuspalten
-		- [ ] 
-	- [ ] dann aber den Übergang dazu warum 
+		- [ ] der grund dafür ist, dass die systemgröße durch die kleinste ausdehung in eine Richtung beschränkt wird und das ist nunmal die y-richtung -> größere Finite size effekte
+	- [ ] dann aber den Übergang dazu warum die kästchen methode
+	- [ ] wie diese funktioniert
+
+- [ ] Entw
+
+
 - [ ] What is active matter?
 - [ ] importance of universality classes for active matter
 - [ ] read jones
