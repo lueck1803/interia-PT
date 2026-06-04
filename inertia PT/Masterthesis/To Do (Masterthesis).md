@@ -6,7 +6,8 @@
 	- [ ] wie diese funktioniert
 
 - [ ] Entweder historisch vorgehen, das war unser vorgehen, deshalb sind wir dazu übergegangen das ratio so zu wählen und dann die Methode anzupassen. Schon bereits erwähnen, dass sich später herausgestellt hat, dass das unnötig ist, bzw. der falsche weg war. 
-	- [ ] Oder erst die aktuellen erkenntnisse 
+	- [ ] Oder erst die aktuellen erkenntnisse und dann erklären, was das vorherige vorgehen war
+	- [ ] ich denke die Mischung: unser vorgehen, was wir vorgefunden haben die gedanken waren
 
 
 - [ ] What is active matter?
