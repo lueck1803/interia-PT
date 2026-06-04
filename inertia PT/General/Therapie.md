@@ -2644,7 +2644,8 @@ Aber 🤷‍♂️, so bin ich halt, warum sollte ich irgendwie Drumherum reden
 	- die Art und Weise wie ich mit sozialen Situationen um gehe. Schon seit meiner frühen Kindheit 
 	- motorische Probleme 
 		- schreiben
-		- 
+		- laufen 
+		- Koordinat
 ### 26-03-16
 Bekomme 20mg große Packung. 
 Mit der Option die Kapsel zu öffnen und zu halbieren, um 30mg zu nehmen.
