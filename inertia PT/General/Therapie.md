@@ -2641,7 +2641,10 @@ Aber 🤷‍♂️, so bin ich halt, warum sollte ich irgendwie Drumherum reden
 - ich bin mir jetzt mittlerweile Recht sicher dass ich AuDHD habe. Den Verdacht hatte ich schon 24, da war aber alles so neu dass ich mich erstmal voll damit befasse
 	- Körperwahrnehmung:
 		- bin mir nicht bewusst wo sich mein Körper im Raum befindet 
-		- wie jetzt
+		- wie laut meine Stimme ist
+		- das ich auf Toilette muss
+			- manchmal extrem 
+		- ich etwas essen oder trinken muss 
 	- Gleichgewicht: 
 		- ich übe das seit Jahren 
 		- hat mit Kraft nicht so viel zu tun
@@ -2652,7 +2655,8 @@ Aber 🤷‍♂️, so bin ich halt, warum sollte ich irgendwie Drumherum reden
 		- Koordination von Bewegungen im allgemeinen, zu weit , zu ausholend, zu kurz
 	- Sprache 
 	- Emotionen und Bedürfnisse erkennen 
-	- 
+	- meine sozialen Interaktionen
+		- es ist eher immer ein erfragen und Optionen ausloten
 ### 26-03-16
 Bekomme 20mg große Packung. 
 Mit der Option die Kapsel zu öffnen und zu halbieren, um 30mg zu nehmen.
