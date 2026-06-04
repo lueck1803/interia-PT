@@ -2626,6 +2626,22 @@ Aber 🤷‍♂️, so bin ich halt, warum sollte ich irgendwie Drumherum reden
 - 
 # Psychiater
 ## Medikamente
+### 26-06-04
+- versucht die 30 mg aufzuteilen:
+	- wasser auflösen 
+	- Spritze 9 ml
+	- 3 teile
+- hat nicht so gut geklappt.
+- ist schon deutlich besser/bequemer morgens im Bett ne Tablette zu nehmen
+- 20 mg reichen bzw sind besser 
+- puls ist hoch und Blutdruck 
+- ist mir am Anfang nicht so aufgefallen, in den letzten 4 Wochen schon. Habe dann mal angefangen zu messen
+- ich fühle mich dadurch auch schlapper und schlafe schlechter, bekomme leichter Kopfschmerzen 
+- vielleicht brauche ich jetzt einfach weniger
+- ich bin mir jetzt mittlerweile Recht sicher dass ich AuDHD habe. Den Verdacht hatte ich schon 24, da war aber alles so neu dass ich mich erstmal voll damit befasse
+	- Körperwahrnehmung 
+	- Gleichgewicht 
+	- die Art und Weise wie ich mit sozialen Situationen um gehe. Schon seit meiner frühen Kindheit 
 ### 26-03-16
 Bekomme 20mg große Packung. 
 Mit der Option die Kapsel zu öffnen und zu halbieren, um 30mg zu nehmen.
