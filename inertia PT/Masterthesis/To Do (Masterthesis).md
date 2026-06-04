@@ -1,4 +1,8 @@
-
+- [ ] 1. neue erkenntnisse beschreiben unterschied zwischen den verschiedenen PE und box ratios
+	- [ ] sagen dass das ein irrweg war, dass das box ratio es schlimmer gemacht hat, was auch logisch ist warum... Der Gedanke war die vertikale aufspaltung 
+		- [ ] man zwingt das system sozusagen sich aufzuspalten
+		- [ ] 
+	- [ ] dann aber den Übergang dazu warum 
 - [ ] What is active matter?
 - [ ] importance of universality classes for active matter
 - [ ] read jones
