@@ -7,7 +7,7 @@
 		- [ ] 2.1
 		- [ ] 2.2
 - [x] Intro kapitel zu what is active matter fertig schreiben
-	- [ ] Definition rein
+	- [x] Definition rein
 	- [ ] reviewen
 - [ ] Kapitel bzgl der Entwicklung der Methode fertig schreiben
 - [ ] Beispiele Active matter
