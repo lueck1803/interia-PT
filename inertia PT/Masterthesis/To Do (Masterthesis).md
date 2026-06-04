@@ -7,7 +7,10 @@
 
 - [ ] Entweder historisch vorgehen, das war unser vorgehen, deshalb sind wir dazu übergegangen das ratio so zu wählen und dann die Methode anzupassen. Schon bereits erwähnen, dass sich später herausgestellt hat, dass das unnötig ist, bzw. der falsche weg war. 
 	- [ ] Oder erst die aktuellen erkenntnisse und dann erklären, was das vorherige vorgehen war
-	- [ ] ich denke die Mischung: unser vorgehen, was wir vorgefunden haben die gedanken waren
+	- [ ] ich denke die Mischung: unser vorgehen, was wir vorgefunden haben, die gedanken waren, und dann schonmal ausblick dass sich das vorgehen als unnötig und kontraproduktiv herausgestellt hat. Verweiß auf die section danach in der die aktuellen erkenntnisse stehen
+	- [ ] dort dann direkt erklären, was der grund dafür ist, dass das ratio kontraproduktiv ist
+	- [ ] bezug auf das phase diagram nehmen, leicht höhere PE gleich besseres ergebnisse
+	- [ ] geht aber auch mit der vorherigen PE mit niedrigerer masse
 
 
 - [ ] What is active matter?
