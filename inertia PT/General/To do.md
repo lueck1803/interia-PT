@@ -29,6 +29,7 @@
 	- ich will ein sehr sehr sehr guter Lehrer werden. Dabei geht es um die Essenz 
 	- die Dinge mit Ruhe, Langsamkeit und der Essenz begehen. Dann hat man Zeit voll bei sich und der Sache zu sein
 	- Arooj loslassen, mich auf mich konzentrieren und endlich leben 
+	- wenn ich keine Zeit verschwende, gibt es auch keinen Grund mich schlecht zu fühlen 
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] allen die eine 1 haben ein Sticker kleben bzw. Etwas hin malen 
 - [ ] trade republic ein loggen und Daten bestätigen 
