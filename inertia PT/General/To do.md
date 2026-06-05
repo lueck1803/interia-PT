@@ -89,7 +89,7 @@
 		- einseitig drucken + tackern
 - [ ] Adverb im englischen aufschreiben 
 - [ ] Notizen zur Shadow work nochmal lesen
-- [ ] aroojs foto aus dem Portemonnaie 
+- [x] aroojs foto aus dem Portemonnaie 
 - [ ] füsilier 2 die lead gitarre üben
 - [ ] mgla üben
 - [x] Überweisung an Bauverein Nachtrag Mai
