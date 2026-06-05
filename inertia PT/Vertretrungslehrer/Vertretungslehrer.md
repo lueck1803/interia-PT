@@ -239,6 +239,7 @@ Die Ortsfragen **Wo?** und **Wohin?** hängen vom verwendeten Fall ab: [1](https
 - **Wohin? (Akkusativ)**  
     Fragt nach einer Richtung oder einem Ziel. Es findet eine Bewegung statt.  
     _Beispiel:_ **Wohin** lege ich das Buch? – Auf den Tisch. (Der Tisch steht hier im Akkusativ: _den Tisch_)
+	Ausnahme
 
 **Arbeit nachbesprechen:**
 #### 1b)
@@ -284,12 +285,12 @@ Der restliche Satz ist wie folgt aufgebaut:
 ##### 5. *Das Mädchen kümmert sich um das Pony.*
 In dem Satz **"Das Mädchen kümmert sich um das Pony."** steht **"Pony"** im **Akkusativ**.
 
-### Warum?
+**Warum?**
 
 - Das Verb **"sich kümmern um"** verlangt den **Akkusativ** für das Objekt, um das man sich kümmert.
 - **"das Pony"** ist hier das **direkte Objekt** (Akkusativobjekt) der Handlung.
 
-### Bestätigung:
+**Bestätigung:**
 
 - **Nominativ:** _Das Pony_ (Subjekt, z. B. _"Das Pony frisst Heu."_)
 - **Akkusativ:** _das Pony_ (Objekt, z. B. _"Sie streichelt das Pony."_)
