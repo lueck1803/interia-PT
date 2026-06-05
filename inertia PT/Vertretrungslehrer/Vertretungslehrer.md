@@ -226,6 +226,18 @@ Arbeitsstunden KW 19:
 	- [ ] dazu Übungsblätter suchen 
 	- [ ] bzw. unterricht überlegen
 ### Timeline
+
+#### 26-06-08
+Arbeit nachbesprechen:
+#### 1b)
+##### 6. *Wir fahren mit dem Schiff zu einer Insel*
+In dem Satz _"Wir fahren mit dem Schiff zu einer Insel"_ steht das Wort "Insel" im **Dativ**. [[1](https://www.verbformen.de/deklination/substantive/Insel.htm), [2](https://berlinoschule.com/prepositions-of-time-and-place/)]
+
+Hier sind die grammatikalischen Gründe:
+
+- **Präposition:** Das Wort "zu" ist eine feste Dativpräposition. Sie verlangt immer den dritten Fall (Wem-Fall).
+- **Artikel:** Der weibliche unbestimmte Artikel "einer" zeigt den Dativ für die Begleiter (Maskulin/Neutrum: einem, Feminin: einer) deutlich an
+
 #### 26-05-21
 Personalpronomen in den Vier Fällen
 ![[Images/BAS/Deu/Personalpronomen.jpg]]
