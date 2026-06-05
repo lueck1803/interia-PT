@@ -31,6 +31,7 @@
 	- Arooj loslassen, mich auf mich konzentrieren und endlich leben 
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] trade republic ein loggen und Daten bestätigen 
+- [ ] Blatt mit Wechselpräposition und Dativ Präpositionen machen
 - [x] Spaziergang 
 - [ ] Wort Opferhaltung erklären 
 	- [ ] Opferhaltung ist das Gegenteil von opfer sein

@@ -231,7 +231,7 @@ Arbeitsstunden KW 19:
 
 Spezielle Ortsfragen: Wo vs. Wohin
 
-Die Ortsfragen **Wo?** und **Wohin?** hängen vom verwendeten Fall ab: [1](https://www.sprachschule-aktiv-muenchen.de/was-sind-praepositionen-und-faelle/), [2](https://www.youtube.com/watch?v=w5mlkqywSqo&t=1)
+##### Die Ortsfragen **Wo?** und **Wohin?** hängen vom verwendeten Fall ab: [1](https://www.sprachschule-aktiv-muenchen.de/was-sind-praepositionen-und-faelle/), [2](https://www.youtube.com/watch?v=w5mlkqywSqo&t=1)
 
 - **Wo? (Dativ)**  
     Fragt nach dem Ort (Ort der Handlung). Es passiert keine Bewegung.  
@@ -239,7 +239,11 @@ Die Ortsfragen **Wo?** und **Wohin?** hängen vom verwendeten Fall ab: [1](https
 - **Wohin? (Akkusativ)**  
     Fragt nach einer Richtung oder einem Ziel. Es findet eine Bewegung statt.  
     _Beispiel:_ **Wohin** lege ich das Buch? – Auf den Tisch. (Der Tisch steht hier im Akkusativ: _den Tisch_)
-	Ausnahme
+	~={blue}Ausnahme=~ Präposition ~={LawnGreen}zu=~
+
+##### Dativ Präpositionen
+
+##### Wechselpräpositionen
 
 **Arbeit nachbesprechen:**
 #### 1b)
@@ -307,8 +311,8 @@ Das Wort „Garten“ steht im **Akkusativ** (dem 4. Fall). [1](https://vs-mater
 
 Der Grund dafür ist die sogenannte **Wechselpräposition** „in“. Bei dieser Präposition entscheidet die Frage nach dem Ort oder der Richtung über den Fall: [1](https://www.scribbr.de/fall-nach-praepositionen/in-dativ-oder-akkusativ/), [2](https://deutsch-mit-anna.de/lektion/dativ/), [3](https://grammatikfragen.de/showthread.php?1411-hei%DFt-es-Trotzdem-bestehe-ich-auf-die-%C4nderung.-oder-Trotzdem-bestehe-ich-auf-der-%C4nderung.), [4](https://de.wikipedia.org/wiki/Akkusativ)
 
-- **Wo? (Ort/Ruhe)** \(\rightarrow \) **Dativ** (z.B. _„Wir sind **im** [in dem] Garten.“_)
-- **Wohin? (Richtung/Ziel)** \(\rightarrow \) **Akkusativ** (z.B. _„Wir gehen **in den** Garten.“_) [1](https://de.pons.com/p/wissensecke/grammatik-to-go/wechselpraepositionen-deutsch), [2](https://www.scribbr.at/fall-nach-praepositionen-at/in-dativ-oder-akkusativ/)
+- **Wo? (Ort/Ruhe)** ⟹ **Dativ** (z.B. _„Wir sind **im** [in dem] Garten.“_)
+- **Wohin? (Richtung/Ziel)** ⟹ **Akkusativ** (z.B. _„Wir gehen **in den** Garten.“_) [1](https://de.pons.com/p/wissensecke/grammatik-to-go/wechselpraepositionen-deutsch), [2](https://www.scribbr.at/fall-nach-praepositionen-at/in-dativ-oder-akkusativ/)
 
 Da die Großeltern sich auf den Garten **zubewegen** (sie kommen dorthin), fragt man nach dem „Wohin?“. Das verlangt den Akkusativ.
 
