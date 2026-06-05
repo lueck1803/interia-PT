@@ -43,9 +43,11 @@
 	- [ ] statt dass man ruhig und bei sich bleibt, sich und seine Position stärkt
 - [ ] Wäsche auf Sofa 
 - [ ] Hosentaschen graue Hose vergrößern 
-- [ ] Gang beim Drucker saugen
+- [x] Gang beim Drucker saugen
 - [ ] Unterricht für Mathe überlegen 
 - [ ] Note in enc eintragen 
+- [ ] Klassenarbeit +/- eintragen 
+	- [ ] mündliche Noten drunter schreiben 
 - [ ] Mitarbeit deutsch eintragen 
 - [ ] Mitarbeit Ethik eintragen 
 - [ ] Sozial+arbeitsverhalten ömer auf 1 falls noch geht 
