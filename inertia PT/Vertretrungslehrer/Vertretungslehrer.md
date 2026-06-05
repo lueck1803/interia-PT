@@ -247,6 +247,14 @@ Zusammenhang im Satz:
 
 - Wer oder was hatte fünf Gänge? -> Das Menü (Nominativ/Wer-Fall)
 - Wen oder was hatte das Menü? -> fünf Gänge (Akkusativ/Wen-Fall) [1](https://www.webstaurantstore.com/blog/2578/full-course-meal.html)
+
+##### 3. *Die Vereine verlegen das Spiel. *
+Das Wort **Spiel** steht im Beispielsatz „Die Vereine verlegen das Spiel“ im **Akkusativ** (dem 4. Fall). Es ist der direkte Akkusativobjekt-Bezug im Satz. [1](https://deutsch.heute-lernen.de/grammatik/der-die-das/spiel/deklination), [2](https://der-artikel.de/das/Spiel.html), [3](https://www.mentorium.de/dativ-akkusativ-unterschied/), [4](https://www.sofatutor.com/deutsch/videos/der-4-fall-akkusativ-2)
+
+Hier ist die genaue Erklärung warum:
+
+- **Die Frage für den Fall:** Man fragt im Deutschen mit „Wen oder was?“ nach dem Akkusativ. In diesem Fall fragt man: _Wen oder was verlegen die Vereine?_ Die Antwort lautet: _das Spiel_. [1](https://www.sofatutor.com/deutsch/videos/der-4-fall-akkusativ-2), [2](https://www.artikelfinder.com/de/das/spiel/), [3](https://der-artikel.de/das/Spiel.html)
+- **Die Funktion im Satz:** Das Verb „verlegen“ (in der Bedeutung von _verschieben_) verlangt zwingend ein Akkusativobjekt, damit der Satz vollständig ist. Die Vereine (das Subjekt im Nominativ) führen die Handlung an dem Spiel (dem Akkusativobjekt) aus.
 ##### 6. *Wir fahren mit dem Schiff zu einer Insel*
 In dem Satz _"Wir fahren mit dem Schiff zu einer Insel"_ steht das Wort "Insel" im **Dativ**. [1](https://www.verbformen.de/deklination/substantive/Insel.htm), [2](https://berlinoschule.com/prepositions-of-time-and-place/)
 
