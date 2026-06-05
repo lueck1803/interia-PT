@@ -48,13 +48,13 @@
 - [ ] Note in enc eintragen 
 - [ ] Klassenarbeit +/- eintragen 
 	- [ ] mündliche Noten drunter schreiben 
-- [ ] Mitarbeit deutsch eintragen 
-- [ ] Mitarbeit Ethik eintragen 
+	- [ ] notenschnitt 
+	- [ ] Unterschrift 
 - [ ] Sozial+arbeitsverhalten ömer auf 1 falls noch geht 
+- [ ] ömer ein gutes Arbeitsverhalten eintragen 
 - [ ] mündliche Noten Ethik: kombi aus tabea und mir 
 - [ ] Ethik Hausarbeit korrigieren 
-- [ ] nicht abgegebene: höchstens 4
-- [ ] ömer ein gutes Arbeitsverhalten eintragen 
+	- [ ] nicht abgegebene: höchstens 4
 - [x] ce qui/ ce que korrekt aufschreiben 
 - [ ] foxit reader Mac aufräumen
 - [x] Entschuldigung karyna 1.6. und 27.5 -29.5
