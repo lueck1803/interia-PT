@@ -1538,7 +1538,13 @@ Ich weiß es aber dennoch nicht...
 
 Ich weiß jedenfalls dass Arooj nicht verantwortlich ist für meine Traumata.
 
-Ja ich 
+Ja ich habe darunter gelitten. Sie aber auch. 
+Die Gründe warum es mir so schlecht ging liegen aber nicht bei ihr. Ja es waren reenforcement loops. Es waren Verstärker.
+Meine familiären Probleme und was vorher war, waren aber auch immer da.
+Meine Krise kommt aus mir selbst.
+Und sie hat ja versucht mit ihren Mitteln zu helfen.
+
+Wir waren halt immer ein wenig außer Phase.
 ## 26-06-01 Nachricht an fredin auf
 
 Ich wollte, wir könnten da irgendwie helfen🫂❤️
