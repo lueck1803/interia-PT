@@ -298,6 +298,8 @@ Der Grund dafür ist die sogenannte **Wechselpräposition** „in“. Bei dieser
 - **Wohin? (Richtung/Ziel)** \(\rightarrow \) **Akkusativ** (z.B. _„Wir gehen **in den** Garten.“_) [1](https://de.pons.com/p/wissensecke/grammatik-to-go/wechselpraepositionen-deutsch), [2](https://www.scribbr.at/fall-nach-praepositionen-at/in-dativ-oder-akkusativ/)
 
 Da die Großeltern sich auf den Garten **zubewegen** (sie kommen dorthin), fragt man nach dem „Wohin?“. Das verlangt den Akkusativ.
+
+##### 8. *Ich helfe der Mutter bei der Hausarbeit.*
 #### 26-05-21
 Personalpronomen in den Vier Fällen
 ![[Images/BAS/Deu/Personalpronomen.jpg]]
