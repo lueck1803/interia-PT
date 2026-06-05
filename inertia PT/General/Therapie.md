@@ -1545,6 +1545,8 @@ Meine Krise kommt aus mir selbst.
 Und sie hat ja versucht mit ihren Mitteln zu helfen.
 
 Wir waren halt immer ein wenig außer Phase.
+
+Und die meisten Probleme sind einfach in mir gewesen 
 ## 26-06-01 Nachricht an fredin auf
 
 Ich wollte, wir könnten da irgendwie helfen🫂❤️
