@@ -231,13 +231,22 @@ Arbeitsstunden KW 19:
 Arbeit nachbesprechen:
 #### 1b)
 ##### 1. *Der Sieger des Spiels erhält einen Pokal.*
-Das Wort „Pokal“ steht in diesem Satz im ==**Akkusativ** (4. Fall)==. Es handelt sich dabei um das direkte Objekt des Satzes. [[1](https://www.dwds.de/wb/Pokalwettbewerb), [2](https://de.wiktionary.org/wiki/Pokal)]
+Das Wort „Pokal“ steht in diesem Satz im ==**Akkusativ** (4. Fall)==. Es handelt sich dabei um das direkte Objekt des Satzes. [1](https://www.dwds.de/wb/Pokalwettbewerb), [2](https://de.wiktionary.org/wiki/Pokal)
 
 **Warum ist das so?**
 
-1. **Die Frage nach dem Fall:** Man kann das Objekt im Satz mit der Frage „Wen oder was erhält der Sieger des Spiels?“ erfragen. Die Antwort lautet: „Einen Pokal“. [[1](https://der-artikel.de/der/Pokal.html), [2](https://www.sofatutor.com/deutsch/videos/der-4-fall-akkusativ-2), [3](https://www.youtube.com/watch?v=sqR3qU_Wnr0)
+1. **Die Frage nach dem Fall:** Man kann das Objekt im Satz mit der Frage „Wen oder was erhält der Sieger des Spiels?“ erfragen. Die Antwort lautet: „Einen Pokal“. [1](https://der-artikel.de/der/Pokal.html), [2](https://www.sofatutor.com/deutsch/videos/der-4-fall-akkusativ-2), [3](https://www.youtube.com/watch?v=sqR3qU_Wnr0)
 2. **Die Funktion im Satz:** Das Verb „erhalten“ verlangt zwingend ein Akkusativobjekt. Das Subjekt (der Sieger) erhält etwas, und die Sache, die man erhält (der Pokal), steht im Akkusativ. [1](https://www.sofatutor.com/deutsch/videos/der-4-fall-akkusativ-2), [2](https://www.verbformen.de/deklination/substantive/Pokal.htm)
 3. **Der Artikel:** Der männliche bestimmte Artikel „der“ verändert sich im Akkusativ zu „den“. Bei der unbestimmten Form „ein“ heißt es folglich „einen“ (maskulin, Akkusativ). [1](https://de.wiktionary.org/wiki/Pokal), [2](https://www.dwds.de/wb/Pokalwettbewerb)
+##### 2. *Das Menü hatte fünf Gänge*
+Das Wort **Gänge** steht im **Akkusativ Plural**.
+
+Der Grund dafür ist einfach: Das Verb _haben_ verlangt immer den Akkusativ (Wen-Fall). Da es sich um den Plural (Mehrzahl) von _Gang_ handelt, lautet die Form _Gänge_. [1](https://de.wiktionary.org/wiki/F%C3%BCnfganggetriebe), [2](https://www.persen.de/media/ntx/persen/sample/23156DA2_Musterseite.pdf?srsltid=AfmBOooyDRD-SEG1_no8IBJz2d5uA5xjR3O_8Jmu16JbVbwEwAD6ID1y), [3](https://deutsch.heute-lernen.de/grammatik/der-die-das/gang/deklination)
+
+Zusammenhang im Satz:
+
+- Wer oder was hatte fünf Gänge? -> Das Menü (Nominativ/Wer-Fall)
+- Wen oder was hatte das Menü? -> fünf Gänge (Akkusativ/Wen-Fall) [1](https://www.webstaurantstore.com/blog/2578/full-course-meal.html)
 ##### 6. *Wir fahren mit dem Schiff zu einer Insel*
 In dem Satz _"Wir fahren mit dem Schiff zu einer Insel"_ steht das Wort "Insel" im **Dativ**. [1](https://www.verbformen.de/deklination/substantive/Insel.htm), [2](https://berlinoschule.com/prepositions-of-time-and-place/)
 
