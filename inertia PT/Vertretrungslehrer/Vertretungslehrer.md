@@ -300,6 +300,51 @@ Der Grund dafür ist die sogenannte **Wechselpräposition** „in“. Bei dieser
 Da die Großeltern sich auf den Garten **zubewegen** (sie kommen dorthin), fragt man nach dem „Wohin?“. Das verlangt den Akkusativ.
 
 ##### 8. *Ich helfe der Mutter bei der Hausarbeit.*
+In dem Satz **"Ich helfe der Mutter bei der Hausarbeit."** stehen die Wörter wie folgt:
+
+- **"der Mutter"** → **Dativ**
+- **"der Hausarbeit"** → **Dativ**
+
+###### Warum?
+
+Das Verb **"helfen"** verlangt immer den **Dativ** für die Person, der geholfen wird.
+
+- **"der Mutter"** ist das **indirekte Objekt** (Dativobjekt), also die Person, der geholfen wird.
+
+Die Präposition **"bei"** verlangt ebenfalls den **Dativ**.
+
+- **"der Hausarbeit"** ist das **Objekt der Präposition "bei"** und steht daher auch im Dativ.
+
+In dem Satz „Ich helfe der Mutter bei der Hausarbeit“ stehen beide Wörter ==im **Dativ** (dem 3. Fall)==. [1](https://www.grundschulkoenig.de/die-4-faelle/?srsltid=AfmBOopWSYOGbQjmONILAl0plv-lYIQnqhNzW1FfYqsGWdHuNR1LBg-C)
+
+- **der Mutter**: Der Dativ wird hier durch das Verb „helfen“ verlangt, das immer den Dativ fordert (Frage: _Wem_ helfe ich? → der Mutter).
+- **der Hausarbeit**: Der Dativ wird durch die Präposition „bei“ ausgelöst, auf die immer der Dativ folgt (Frage: _Bei was_ / _Bei wem_ helfe ich?). [1](https://www.studienkreis.de/deutsch/vier-faelle-kasus-bestimmen/), [2](https://www.elternwissen.com/erziehung-entwicklung/trotzphase/dativ-oder-genitiv-die-vier-faelle-ihrem-kind-richtig-erklaeren/), [3](https://www.perfekt-deutsch.de/wissen/kasus/), [4](https://www.grammatikdeutsch.de/html/falle-info.html), [5](https://www.grundschulkoenig.de/die-4-faelle/?srsltid=AfmBOopWSYOGbQjmONILAl0plv-lYIQnqhNzW1FfYqsGWdHuNR1LBg-C)
+
+- **Nominativ (Wer-Fall)**: _Wer_ hilft hier? → Ich
+- **Akkusativ (Wen-Fall)**: Kommt in diesem Satz nicht vor
+
+##### 9. *Peter sortiert die Briefmarken in sein Album.*
+==In dem Satz „Peter sortiert die Briefmarken in **sein Album**“ stehen die Substantive in folgenden Fällen:==
+
+- **Briefmarken** steht im **Akkusativ** (Wen-Fall)
+- **Album** steht ebenfalls im **Akkusativ** (Wen-Fall)
+
+**Warum ist das so?**
+
+1. **Briefmarken:** Es ist das direkte Objekt (Wen-Fall) des Satzes. Man fragt: _Was_ sortiert Peter? -> _Die Briefmarken_.
+2. **Album:** Nach dem Verb _sortieren_ (bzw. der Richtungsangabe „in“) fragt man mit _Wohin?_. Bei der Frage _Wohin?_ steht das nachfolgende Nomen im Deutschen immer im Akkusativ (z. B. „in _das_ [oder kurz _sein_] Album“). [[1](https://de.scribd.com/doc/216733184/Polnisch-Wort-fur-Wort-pdf)
+
+---
+
+### Warum?
+
+Das Verb **"helfen"** verlangt immer den **Dativ** für die Person, der geholfen wird.
+
+- **"der Mutter"** ist das **indirekte Objekt** (Dativobjekt), also die Person, der geholfen wird.
+
+Die Präposition **"bei"** verlangt ebenfalls den **Dativ**.
+
+- **"der Hausarbeit"** ist das **Objekt der Präposition "bei"** und steht daher auch im Dativ.
 #### 26-05-21
 Personalpronomen in den Vier Fällen
 ![[Images/BAS/Deu/Personalpronomen.jpg]]
