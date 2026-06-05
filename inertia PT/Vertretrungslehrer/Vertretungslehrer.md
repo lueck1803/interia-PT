@@ -230,14 +230,31 @@ Arbeitsstunden KW 19:
 #### 26-06-08
 Arbeit nachbesprechen:
 #### 1b)
+##### 1. *Der Sieger des Spiels erhält einen Pokal.*
+Das Wort „Pokal“ steht in diesem Satz im ==**Akkusativ** (4. Fall)==. Es handelt sich dabei um das direkte Objekt des Satzes. [[1](https://www.dwds.de/wb/Pokalwettbewerb), [2](https://de.wiktionary.org/wiki/Pokal)]
+
+**Warum ist das so?**
+
+1. **Die Frage nach dem Fall:** Man kann das Objekt im Satz mit der Frage „Wen oder was erhält der Sieger des Spiels?“ erfragen. Die Antwort lautet: „Einen Pokal“. [[1](https://der-artikel.de/der/Pokal.html), [2](https://www.sofatutor.com/deutsch/videos/der-4-fall-akkusativ-2), [3](https://www.youtube.com/watch?v=sqR3qU_Wnr0)
+2. **Die Funktion im Satz:** Das Verb „erhalten“ verlangt zwingend ein Akkusativobjekt. Das Subjekt (der Sieger) erhält etwas, und die Sache, die man erhält (der Pokal), steht im Akkusativ. [1](https://www.sofatutor.com/deutsch/videos/der-4-fall-akkusativ-2), [2](https://www.verbformen.de/deklination/substantive/Pokal.htm)
+3. **Der Artikel:** Der männliche bestimmte Artikel „der“ verändert sich im Akkusativ zu „den“. Bei der unbestimmten Form „ein“ heißt es folglich „einen“ (maskulin, Akkusativ). [1](https://de.wiktionary.org/wiki/Pokal), [2](https://www.dwds.de/wb/Pokalwettbewerb)
 ##### 6. *Wir fahren mit dem Schiff zu einer Insel*
-In dem Satz _"Wir fahren mit dem Schiff zu einer Insel"_ steht das Wort "Insel" im **Dativ**. [[1](https://www.verbformen.de/deklination/substantive/Insel.htm), [2](https://berlinoschule.com/prepositions-of-time-and-place/)]
+In dem Satz _"Wir fahren mit dem Schiff zu einer Insel"_ steht das Wort "Insel" im **Dativ**. [1](https://www.verbformen.de/deklination/substantive/Insel.htm), [2](https://berlinoschule.com/prepositions-of-time-and-place/)
 
 Hier sind die grammatikalischen Gründe:
 
 - **Präposition:** Das Wort "zu" ist eine feste Dativpräposition. Sie verlangt immer den dritten Fall (Wem-Fall).
 - **Artikel:** Der weibliche unbestimmte Artikel "einer" zeigt den Dativ für die Begleiter (Maskulin/Neutrum: einem, Feminin: einer) deutlich an
+_Hinweis zur Bewegung:_ Da Sie mit dem Schiff auf eine Insel reisen (Zielort), können Sie alternativ auch die Wechselpräposition "auf" verwenden. In diesem Fall stünde "Insel" im Akkusativ: _"Wir fahren mit dem Schiff auf **die** Insel._"
+##### 7. *Morgen kommen die Großeltern zu uns in den Garten. *
+Das Wort „Garten“ steht im **Akkusativ** (dem 4. Fall). [1](https://vs-material.wegerer.at/deutsch/pdf_d/sprachbetrachtung/faelle/ab_bestimmen_loesung.pdf)
 
+Der Grund dafür ist die sogenannte **Wechselpräposition** „in“. Bei dieser Präposition entscheidet die Frage nach dem Ort oder der Richtung über den Fall: [1](https://www.scribbr.de/fall-nach-praepositionen/in-dativ-oder-akkusativ/), [2](https://deutsch-mit-anna.de/lektion/dativ/), [3](https://grammatikfragen.de/showthread.php?1411-hei%DFt-es-Trotzdem-bestehe-ich-auf-die-%C4nderung.-oder-Trotzdem-bestehe-ich-auf-der-%C4nderung.), [4](https://de.wikipedia.org/wiki/Akkusativ)
+
+- **Wo? (Ort/Ruhe)** \(\rightarrow \) **Dativ** (z.B. _„Wir sind **im** [in dem] Garten.“_)
+- **Wohin? (Richtung/Ziel)** \(\rightarrow \) **Akkusativ** (z.B. _„Wir gehen **in den** Garten.“_) [1](https://de.pons.com/p/wissensecke/grammatik-to-go/wechselpraepositionen-deutsch), [2](https://www.scribbr.at/fall-nach-praepositionen-at/in-dativ-oder-akkusativ/)
+
+Da die Großeltern sich auf den Garten **zubewegen** (sie kommen dorthin), fragt man nach dem „Wohin?“. Das verlangt den Akkusativ.
 #### 26-05-21
 Personalpronomen in den Vier Fällen
 ![[Images/BAS/Deu/Personalpronomen.jpg]]
