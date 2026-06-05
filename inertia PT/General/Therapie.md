@@ -1360,7 +1360,185 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 
 
 # Beziehung
-## 26
+## 26-06-05
+Ich bin am gleichen Punkt an dem ich so häufig war. 
+
+Ich mir gehen Dinge durch den Kopf und insbesondere meinen ganzen Körper, für die ich mich schlecht fühle, an denen ich nicht konnte, ich Angst hatte, ich belastet war, ich von Problemen/Missverständnisses zwischen Arooj und mir belastet war, egal was der Auslöser war. 
+
+Ich mich schuldig gefühlt, zumindest war dass das Gefühl mit dem ich meine Gefühle beschrieben habe. 
+
+Ich kannte kaum ein anderes. Zumindest keines was es besser beschreibt. 
+Es waren dabei so viele Gefühle gleichzeitig.
+Ich war schon immer sehr entfernt von meinen Gefühlen.
+
+Und hab sie daher auch falsch gedeutet/identifiziert.
+
+Es mag sein, dass es daran liegt dass ich vielleicht eben wirklich diese autistischen Züge habe. 
+
+ADHS von dem Ich mir jetzt wirklich sehr sicher bin, dass ich das habe und Autismus haben wirklich große Überschneidungen.
+
+Beim Autismus gibt's Alexithymie - (auch Gefühlsblindheit genannt) ist ein Persönlichkeitsmerkmal, bei dem Betroffene Schwierigkeiten haben, eigene Emotionen wahrzunehmen, von körperlichen Empfindungen zu unterscheiden und in Worte zu fassen.
+
+Es ergibt jedenfalls großen Sinn dass das auf mich zu trifft.
+
+Ich hab Gefühle häufig auch mit so vielem anderen verwechselt.
+
+Und da mir dann gleichzeitig 100te Ereignisse durch den Kopf gingen/gehen ist das sehr überwältigend. 
+Davor habe ich meistens fliehen wollen.
+
+Oder wenn es ganz schlimm wurde, dann ging das fliehen nicht mehr, es ist alles auf mich eingeprasselt hat meinen ganzen Körper durcheinander geworfen, gefroren, geschwitzt, totmüde, hellwach, wütend, traurig, Tatendrang, paralysiert/depressiv, Mitgefühl und Unverständnis, alles gleichzeitig.
+
+Ich hab meine Gedanken und Gefühle kommuniziert, da ich eine Einordnung und Hilfe von außen brauchte. Die ganze Unordnung und Klarheit gleichzeitig, das musste raus. 
+Ich wollte verstanden werden und Verzeihung/Vergebung erfahren. Auch von Arooj Worte wie es ihr in den Situationen ging, wie sie mich von außen gesehen hat, dass es OK ist wie ich war und bin und dass sie vielleicht auch etwas nicht richtig gemacht hat oder was sie versucht hat und es nicht geklappt hat, ihre Blockaden und ihren Schmerz.
+Gar nicht nur dass ich verstanden werden will. 
+
+Es gab Momente da war da hat es auf Gegenseitigkeit beruht. Da hat sie dann tatsächlich ihre Gefühle geöffnet und auch gesagt was ihr leid tut und was sie so gerne möchte, sich wünscht, toll findet und vermisst.
+
+Das war schön, zb im Oktober '23 als wir dann wieder zusammen gekommen sind. 
+
+In anderen Momenten hat sie zu gehört und auch entsprechend einfühlsam reagiert es war alles gut.
+
+Und erst in der Rückschau hat sie das alles total als negativ aufgefasst.
+
+Es gab auch Momente da habe ich dabei mal etwas meine Wut raus gelassen da ich die immer unterdrückt habe. 
+Da sind dann Dinge etwas zu gespitzt aus mir heraus gekommen.
+Aber auch alles nur um meine Gefühle und Gedanken zu sortieren.
+
+Danach ist ja wieder Klarheit und diese zugespitzten Emotionen und Gedanken von denen ich weiß dass sie falsch sind / nicht stimmen bzw. Einfach zu vereinfacht, sind dann mal raus.
+Und belasten mich nicht mehr in ihrer Falschheit.
+Ich hab sie dann ja wieder gerade gerückt und eingeordnet.
+
+Dass mir das durch den Kopf und Körper geht, unteranderem auch weil Leute dieses und jenes sagen.
+
+Ich das aber nicht denken möchte, es in mir aber Dissonanzen erzeugt, die einfach raus müssen damit das nicht mein Wesen und meinen Alltag zerstört und belastet.
+
+Natürlich hat Arooj auch wenn ich es eingeordnet habe, mich entschuldigt habe oder auch wenn ich möglichst versucht habe diese zu gespitzten Gedanken und Emotionen mit Worten so abzurunden wie es nur geht, das trotzdem alles mitgenommen und viel stärker noch als ich es dachte gesagt zu haben.
+
+Mir wird jetzt klar, dass Arooj eigentlich genau das gleiche mit ihren Ausbrüchen auch gemacht hat.
+
+Und im Endeffekt hab ich genau so reagiert wie sie.
+Es waren Einseitigkeiten die sich in ihr angestaut haben und die sie raus lassen musste, die aber gar nicht ihr gesamtblick auf die Dinge sind, nur der momentane emotionale Eindruck.
+
+Ich habe mit Rechtfertigung, Erklärung und gerade rücken reagiert.
+
+Ich wollte ich hätte so reagiert wie ich es in meinen Situationen auch gebraucht hätte. 
+
+Bei Arooj hat danach aber auch die Einordnung und ein Entschuldigung gefehlt dass sie es nicht so gemeint hat. 
+
+Wahrscheinlich weil ich zu sehr mit Panik reagiert habe. 
+
+Ich konnte ihr leider nicht den Komfort geben den sie gebraucht hat. 
+Ich hab es ja probiert in dem ich versucht habe das gerade zurücken und auf sie zuzugehen.
+
+Aber meine Reaktionen darauf waren für sie natürlich Abwehr und Unverständnis.
+Obwohl sie in dem Moment auch nur Verständnis gebraucht hat. 
+
+Ich konnte in den Momenten direkt auch nicht mit Umarmung und einfach zu hören reagieren, weiß gar nicht ob sie ersteres gewollt hätte.
+
+Es hat zu viel Panik bei mir ausgelöst. Da es sich so sehr nach Verdrehung meiner Person und meiner Intention, meiner wenigen positiven Dinge an denen ich hänge angefühlt hat. 
+
+Und auf die Art und Weise direkt die Beziehung in Frage gestellt wurde. 
+So hat es sich zumindest angefühl.
+
+Und da ich ihre zu gespitzten Eindrücke und Gedanken in dem Moment nicht einordnen konnte und nicht die Parallele zu mir gesehen habe, konnte ich ihr nicht das Gefühl geben gehört und wahrgenommen zu werden. 
+
+Obwohl ich genau das wollte, aber zu sehr von den Unwahrheiten überwältigt war. 
+
+Was mich zu sehr in die Situationen meiner Kindheit zurück versetzt hat. 
+
+Arooj selbst konnte die Gefühle und Gedanken ja auch nicht einordnen, die erschienen ihr wie die Realität.
+
+Meine Grenzen waren da aber überschritten dass ich nicht mehr geduldig und auf mich nehmend sein konnte da es eben meine tiefsten Ängste der Kindheit gelöst hat.
+
+Arooj und ich sind uns einfach extrem ähnlich.
+
+Ihr ergeht es ja ähnlich mit dem mental overload bei zu vielen Geräuschen und Eindrücken. Deshalb ist sie auch lieber für sich.
+
+Ihre Kritikunfähigkeit die sie hat, passt auch ins Bild genauso wie ihre hyperfokus Phasen.
+
+'24 habe ich ja auch zu ihr gesagt dass sie wahrscheinlich ADHS hat. Das würde zumindest ihr Verhalten positiv erklären und nicht mit so etwas negativem und abwertendem.
+Hat sie ja für Momente auch angenommen.
+
+Dann aber wieder extrem von sich gewiesen da sie nicht dieses Label haben wollte. Nicht "behindert" sein (das hat sie so nicht gesagt), kein Defekt sein wollte, nicht anders, sondern "normal" sein wollte. Nicht anstrengend und eine Last.
+
+Es hat mich aber schon etwas getroffen dass sie dann doch so  negativ auf ADHS blickt.
+
+Ich wollte ja nur dass sie sich damit beschäftigt, um es ausschließen, sich besser verstehen und ansonsten mich besser verstehen zu können.
+Unsere Beziehung besser wird. 
+
+Aber die Hürde und ihr stolz waren im Endeffekt zu groß. 
+
+Das sie ihre Probleme hat ist ja offensichtlich. Und das hat sie auch immer mal gesehen.
+
+Die Beziehung zu verbessern... Daran hatte sie ja auch nicht wirklich Interesse.
+
+Obwohl ich weiß dass das nicht stimmt. Sie hat auf ihre Art viel getan.
+
+Aber so bald es um ein gemeinsames Gespräch, aushandeln und Kritik ging, da war sie nicht in der Lage dazu.
+
+Ich weiß wirklich nicht was ich aus der Erkenntnis machen soll. 
+
+Ich weiß ich möchte mit ihr sprechen.
+
+Ich möchte ihr zuhören.
+
+Das irgendwie in Worte fassen die nicht zu viel sind und sie nicht überfordern.
+
+Ich weiß jedenfalls dass ich mit Menschen keine so großen Probleme habe. 
+
+Der Großteil der Leute kommt wirklich sehr gut damit klar dass ich häufig mehr Worte brauche und von den meisten Leuten werde ich sehr gut verstanden.
+
+Dass es mit den 5. Klässlern zu Missverständnissen kommt ist klar. 
+
+Denen fehlt der Wortschatz, die kommen mit meiner Ausdrucksweise nicht immer klar, die sind halt einfach auch anderes gewohnt und haben noch lange nicht so viel Entwicklung durchgemacht.
+
+Dafür verstehen die mich aber dennoch extrem gut. 
+
+Auch gerade wenn ich so viel Verständnis habe und sie Zeit haben sich daran zu gewöhnen.
+
+Ich erwarte gar nicht dass ich sofort verstanden werde. Das sind nunmal Kinder. 
+
+Bei den meisten Menschen muss ich gar nicht so viele Worte verwenden.
+Ich merke dass ich auch mit weniger aus komme und mich gar nicht so viel erklären muss. 
+
+Ich merke dass das langsam heilt bei mir.
+
+Arooj und ich haben uns die meiste Zeit ja auch blind verstanden.
+Darum tut es dann ja noch mehr weh.
+
+Und ich weiß dass ich diese Missverständnisse so nie wieder will. Ist mir zu anstrengend und es hat mich kaputt gemacht.
+
+Daher weiß ich nicht was ich machen soll. 
+
+Ich würde schon gerne mit ihr sprechen.
+
+Was dabei rum kommt 🤷‍♂️.
+
+Ich habe aber auch Angst wütend zu werden wenn sie so ablehnend reagiert.
+
+Aber das hat sie nach so langer Zeit eigentlich auch nie gemacht.
+
+Ich weiß dass sie mich gerne hat.
+
+Ich weiß auch dass sie an mir hängt. Dass sie an mir hängt und zu mir eine Bindung hat, hat sie in den Momenten der Wut als Makel empfunden. Der muss ja manipuliert sein.
+Diese Bindung ist eine Last ich will einfach nur weg...
+
+Ja ich kenne das Gefühl. Nur dass ich das nie so in Aktion umgewandelt habe. 
+
+Ich weiß es wirklich nicht was besser ist🤷‍♂️.
+
+Ich habe letztes Jahr so viele Momente gesehen in denen offensichtlich war dass sie mich vermisst und die Bindung schätzt, es aber hinter ihrem stolz nicht hervor kam.
+
+Wenn ich kognitiv ehrlich mit mir bin, dann wünsche ich mir was dieses Verhalten bzgl stolz angeht, seit langem etwas anderes und ich hab da auch irgendwie etwas "besseres" verdient.
+
+Ich sehe aber immer das ganze. Ich sehe auch wie ich war und bin. Was für ein toller Mensch sie sonst ist. 
+Jeder Mensch hat seine "Makel" und das habe ich so akzeptiert.
+
+Ich weiß es aber dennoch nicht...
+
+Ich weiß jedenfalls dass Arooj nicht verantwortlich ist für meine Traumata.
+
+Ja ich 
 ## 26-06-01 Nachricht an fredin auf
 
 Ich wollte, wir könnten da irgendwie helfen🫂❤️
