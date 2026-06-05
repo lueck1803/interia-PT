@@ -30,6 +30,7 @@
 	- die Dinge mit Ruhe, Langsamkeit und der Essenz begehen. Dann hat man Zeit voll bei sich und der Sache zu sein
 	- Arooj loslassen, mich auf mich konzentrieren und endlich leben 
 - [ ] neuen Kalender für Schule erstellen 
+- [ ] allen die eine 1 haben ein Sticker kleben bzw. Etwas hin malen 
 - [ ] trade republic ein loggen und Daten bestätigen 
 - [ ] Blatt mit Wechselpräposition und Dativ Präpositionen machen
 - [x] Spaziergang 
