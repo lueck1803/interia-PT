@@ -268,6 +268,19 @@ Der restliche Satz ist wie folgt aufgebaut:
 
 - **Dem Vater**: Das ist das Dativ-Objekt (3. Fall), denn das Verb _gefallen_ verlangt immer den Dativ (Wem gefällt etwas?).
 - **des Schülers**: Das ist der Genitiv (2. Fall) und zeigt den Besitzer an (Wessen Zeugnis?). [1](https://www.perfekt-deutsch.de/wissen/kasus/)
+
+##### 5. *Das Mädchen kümmert sich um das Pony.*
+In dem Satz **"Das Mädchen kümmert sich um das Pony."** steht **"Pony"** im **Akkusativ**.
+
+### Warum?
+
+- Das Verb **"sich kümmern um"** verlangt den **Akkusativ** für das Objekt, um das man sich kümmert.
+- **"das Pony"** ist hier das **direkte Objekt** (Akkusativobjekt) der Handlung.
+
+### Bestätigung:
+
+- **Nominativ:** _Das Pony_ (Subjekt, z. B. _"Das Pony frisst Heu."_)
+- **Akkusativ:** _das Pony_ (Objekt, z. B. _"Sie streichelt das Pony."_)
 ##### 6. *Wir fahren mit dem Schiff zu einer Insel*
 In dem Satz _"Wir fahren mit dem Schiff zu einer Insel"_ steht das Wort "Insel" im **Dativ**. [1](https://www.verbformen.de/deklination/substantive/Insel.htm), [2](https://berlinoschule.com/prepositions-of-time-and-place/)
 
