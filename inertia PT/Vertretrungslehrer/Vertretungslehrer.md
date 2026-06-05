@@ -228,7 +228,19 @@ Arbeitsstunden KW 19:
 ### Timeline
 
 #### 26-06-08
-Arbeit nachbesprechen:
+
+Spezielle Ortsfragen: Wo vs. Wohin
+
+Die Ortsfragen **Wo?** und **Wohin?** hängen vom verwendeten Fall ab: [1](https://www.sprachschule-aktiv-muenchen.de/was-sind-praepositionen-und-faelle/), [2](https://www.youtube.com/watch?v=w5mlkqywSqo&t=1)
+
+- **Wo? (Dativ)**  
+    Fragt nach dem Ort (Ort der Handlung). Es passiert keine Bewegung.  
+    _Beispiel:_ **Wo** ist das Buch? – Es liegt auf dem Tisch. (Der Tisch steht hier im Dativ: _dem Tisch_). [1](https://www.sprachschule-aktiv-muenchen.de/was-sind-praepositionen-und-faelle/), [2](https://www.superprof.de/blog/10-haeufige-rechtschreibfehler-im-deutschen/), [3](https://dein-sprachcoach.de/dativ-akkusativ/)
+- **Wohin? (Akkusativ)**  
+    Fragt nach einer Richtung oder einem Ziel. Es findet eine Bewegung statt.  
+    _Beispiel:_ **Wohin** lege ich das Buch? – Auf den Tisch. (Der Tisch steht hier im Akkusativ: _den Tisch_)
+
+**Arbeit nachbesprechen:**
 #### 1b)
 ##### 1. *Der Sieger des Spiels erhält einen Pokal.*
 Das Wort „Pokal“ steht in diesem Satz im ==**Akkusativ** (4. Fall)==. Es handelt sich dabei um das direkte Objekt des Satzes. [1](https://www.dwds.de/wb/Pokalwettbewerb), [2](https://de.wiktionary.org/wiki/Pokal)
@@ -332,7 +344,7 @@ In dem Satz „Ich helfe der Mutter bei der Hausarbeit“ stehen beide Wörter =
 **Warum ist das so?**
 
 1. **Briefmarken:** Es ist das direkte Objekt (Wen-Fall) des Satzes. Man fragt: _Was_ sortiert Peter? -> _Die Briefmarken_.
-2. **Album:** Nach dem Verb _sortieren_ (bzw. der Richtungsangabe „in“) fragt man mit _Wohin?_. Bei der Frage _Wohin?_ steht das nachfolgende Nomen im Deutschen immer im Akkusativ (z. B. „in _das_ [oder kurz _sein_] Album“). [[1](https://de.scribd.com/doc/216733184/Polnisch-Wort-fur-Wort-pdf)
+2. **Album:** Nach dem Verb _sortieren_ (bzw. der Richtungsangabe „in“) fragt man mit _Wohin?_. Bei der Frage _Wohin?_ steht das nachfolgende Nomen im Deutschen immer im Akkusativ (z. B. „in _das_ [oder kurz _sein_] Album“). [1](https://de.scribd.com/doc/216733184/Polnisch-Wort-fur-Wort-pdf)
 
 ---
 
