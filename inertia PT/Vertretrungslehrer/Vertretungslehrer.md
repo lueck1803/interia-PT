@@ -255,6 +255,19 @@ Hier ist die genaue Erklärung warum:
 
 - **Die Frage für den Fall:** Man fragt im Deutschen mit „Wen oder was?“ nach dem Akkusativ. In diesem Fall fragt man: _Wen oder was verlegen die Vereine?_ Die Antwort lautet: _das Spiel_. [1](https://www.sofatutor.com/deutsch/videos/der-4-fall-akkusativ-2), [2](https://www.artikelfinder.com/de/das/spiel/), [3](https://der-artikel.de/das/Spiel.html)
 - **Die Funktion im Satz:** Das Verb „verlegen“ (in der Bedeutung von _verschieben_) verlangt zwingend ein Akkusativobjekt, damit der Satz vollständig ist. Die Vereine (das Subjekt im Nominativ) führen die Handlung an dem Spiel (dem Akkusativobjekt) aus.
+
+##### 4. Dem Vater gefällt das Zeugnis des Schülers.
+Das Wort **Zeugnis** steht im **Nominativ** (1. Fall). [1](https://www.sprachnudel.de/woerterbuch/Zeugnis), [2](https://www.worterarbeitung.com/zeugnis/)
+
+**Warum ist das so?**  
+In diesem Satz ist „das Zeugnis“ das **Subjekt**. Es ist derjenige Teil des Satzes, der die Handlung ausführt oder auf den sich das Geschehen bezieht. [1](https://www.perfekt-deutsch.de/wissen/kasus/)
+
+Du kannst danach fragen mit: _Wer oder was gefällt dem Vater? -> Das Zeugnis._
+
+Der restliche Satz ist wie folgt aufgebaut:
+
+- **Dem Vater**: Das ist das Dativ-Objekt (3. Fall), denn das Verb _gefallen_ verlangt immer den Dativ (Wem gefällt etwas?).
+- **des Schülers**: Das ist der Genitiv (2. Fall) und zeigt den Besitzer an (Wessen Zeugnis?). [1](https://www.perfekt-deutsch.de/wissen/kasus/)
 ##### 6. *Wir fahren mit dem Schiff zu einer Insel*
 In dem Satz _"Wir fahren mit dem Schiff zu einer Insel"_ steht das Wort "Insel" im **Dativ**. [1](https://www.verbformen.de/deklination/substantive/Insel.htm), [2](https://berlinoschule.com/prepositions-of-time-and-place/)
 
