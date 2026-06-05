@@ -48,6 +48,7 @@
 - [ ] Unterricht für Mathe überlegen 
 - [ ] Note in enc eintragen 
 - [ ] Klassenarbeit +/- eintragen 
+	- [ ] nein laut Anita gibt's kein ±
 	- [ ] mündliche Noten drunter schreiben 
 	- [ ] notenschnitt 
 	- [ ] Unterschrift 
