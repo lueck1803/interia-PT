@@ -1361,6 +1361,10 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 
 # Beziehung
 ## 26-06-06
+### 4
+*🫂Schön, dass du mit deinen Eltern sprechen konntest ❤️ Natürlich fühlt man sich an sowas schuldig. Manchmal gibt sich das mit der Zeit. Aber du musst dich da wirklich nicht schuldig fühlen diesbezüglich ❤️*
+
+
 ### 3
 Und das muss ich mir verzeihen denn ich hatte nicht wirklich eine Ahnung wie ich den selbstverstärkenden Prozess durchbrechen kann. 
 
