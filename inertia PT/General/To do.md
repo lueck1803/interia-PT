@@ -39,6 +39,8 @@
 
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] allen die eine 1 haben ein Sticker kleben bzw. Etwas hin malen 
+- [ ] 60°C Wäsche 
+- [ ] 
 - [ ] Zählerstand eintragen 
 	- [x] Mail an Bauverein geschickt 
 - [ ] trade republic ein loggen und Daten bestätigen 
