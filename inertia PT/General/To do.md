@@ -46,9 +46,9 @@
 	- [ ] Noten eintragen 
 - [ ] allen die eine 1 haben ein Sticker kleben bzw. Etwas hin malen 
 	- [ ] kopie einer meiner Zeichnungen 
-- [ ] 60°C Wäsche 
+- [x] 60°C Wäsche 
 	- [x] anstellen
-	- [ ] aufhängen 
+	- [x] aufhängen 
 - [ ] Zählerstand eintragen 
 	- [x] Mail an Bauverein geschickt 
 - [ ] trade republic ein loggen und Daten bestätigen 
