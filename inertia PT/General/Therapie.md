@@ -1361,6 +1361,8 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 
 # Beziehung
 ## 26-06-06
+
+##
 Ich hab gestern während einem Spaziergang mit meinen Eltern telefoniert.
 
 Die meinten ich soll Arooj vergessen.
