@@ -38,7 +38,13 @@
 	- Es ist halt eine aktive brownsche Bewegung so eine Psyche 🤷‍♂️ insbesondere wenn die Wege und Denkstrukturen so eingefahren sind.
 
 - [ ] neuen Kalender für Schule erstellen 
+- [ ] wenn ich proposal abgegeben habe, kaufe ich mir ein Ticket für das Festival 
+- [ ] Noten schnitt deutsch 
+	- [ ] wng ausrechnen -> Tabelle+ Klausur 
+	- [ ] Notenschnitt gesamt 
+	- [ ] Noten eintragen 
 - [ ] allen die eine 1 haben ein Sticker kleben bzw. Etwas hin malen 
+	- [ ] kopie einer meiner Zeichnungen 
 - [ ] 60°C Wäsche 
 	- [x] anstellen
 	- [ ] aufhängen 
