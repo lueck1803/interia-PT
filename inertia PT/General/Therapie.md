@@ -1364,7 +1364,17 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 ### 4
 *🫂Schön, dass du mit deinen Eltern sprechen konntest ❤️ Natürlich fühlt man sich an sowas schuldig. Manchmal gibt sich das mit der Zeit. Aber du musst dich da wirklich nicht schuldig fühlen diesbezüglich ❤️*
 
+Danke.
+Ja das lerne ich noch.
 
+Ich hab das zwar schon häufiger verstanden und es war mir auch bewusst.
+
+Ich vergesse das in Momenten und dann in den ganzen anschließenden Phasen in denen ich überwältigt bin von etwas. 
+
+Dann falle ich wieder in die alten Muster.
+
+Dann fühle ich mich schuldig dafür dass ich mich schuldig gefühlt und das vergessen habe bzw. Mich nicht daran gehalten habe, was ich mir vorgenommen habe.
+Es ist halt eine aktive brownsche Bewegung so eine Psyche 🤷‍♂️ insbesondere wenn die Wege und Denkstrukturen so eingefahren sind.
 ### 3
 Und das muss ich mir verzeihen denn ich hatte nicht wirklich eine Ahnung wie ich den selbstverstärkenden Prozess durchbrechen kann. 
 
