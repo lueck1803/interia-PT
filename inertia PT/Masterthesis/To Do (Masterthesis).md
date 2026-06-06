@@ -662,7 +662,7 @@ $$
 - $p_{\text{subbox}}^\text{vapor}(\rho)\propto \exp \left\{ -\left( \rho-\rho_{\text{vapor}}^\text{coex} \right)^{2}L^{2} / \left( 2k_{B}T\chi_{\text{eff}}^{L} \right) \right\}$
 - packing fraction
 	- $\varphi=N\pi\sigma^{2} / (4L_{x}L_{y})$
-	- $\varphi=\frac{N\pi\sigma^{2}}{}$
+	- $\varphi=\frac{N\pi\sigma^{2}}{(4L_{x}L_{y})}$
 
 # Masterplot
 multiply the data of the observable (binder cumulant, order parameter,  susceptibility) with the scaling factors of the observable. $L^{\zeta_{\mathcal{O}}/\nu}$ 
