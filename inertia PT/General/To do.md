@@ -32,7 +32,7 @@
 	- wenn ich keine Zeit verschwende, gibt es auch keinen Grund mich schlecht zu fühlen 
 	- tue alles damit es keinen Grund gibt mich schuldig zu fühlen 
 	- darüber nachzudenken ob ich auch ~={DeepSkyBlue}Autismus=~ habe, ist ~={RedRed}nicht=~ ~={LawnGreen}zielführend=~. Das bringt mich nur in eine ~={RedRed}Opferrolle=~ 
-		- ich habe ja eh keine
+		- nach dem Motto: ich habe ja eh keine Kontrolle über mich
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] allen die eine 1 haben ein Sticker kleben bzw. Etwas hin malen 
 - [ ] Zählerstand eintragen 
