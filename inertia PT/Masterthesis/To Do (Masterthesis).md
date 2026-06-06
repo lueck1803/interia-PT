@@ -14,7 +14,9 @@
 	- [ ] bezug auf das phase diagram nehmen, leicht höhere PE gleich besseres ergebnisse
 	- [ ] geht aber auch mit der vorherigen PE mit niedrigerer masse
 
-- [ ] Lukas hechts skript und arbeit erwähnen
+- [x] Lukas hechts skript und arbeit erwähnen
+
+- [ ] Chapter simulations ~={Crimson}refer to it=~
 
 - [ ] What is active matter?
 - [ ] importance of universality classes for active matter
