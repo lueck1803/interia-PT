@@ -37,13 +37,14 @@
 	- Das sich schuldig fühlen ist ein Teufelskreis. Der mir Selbstwirksamkeit genommen hat und eine selbsterfüllende Prophezeiung war.
 	- Es ist halt eine aktive brownsche Bewegung so eine Psyche 🤷‍♂️ insbesondere wenn die Wege und Denkstrukturen so eingefahren sind.
 	- ~={RedRed}Hör auf=~ ~={yellow}scheiße zu dir zu sein=~, das warst du wahrlich lange genug.
-
+- [ ] Ethik korrigieren
+	- [ ] Noten in ENC eintragen und hochladen
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] wenn ich proposal abgegeben habe, kaufe ich mir ein Ticket für das Festival 
-- [ ] Noten schnitt deutsch 
-	- [ ] wng ausrechnen -> Tabelle+ Klausur 
-	- [ ] Notenschnitt gesamt 
-	- [ ] Noten eintragen 
+- [x] Noten schnitt deutsch 
+	- [x] wng ausrechnen -> Tabelle+ Klausur 
+	- [x] Notenschnitt gesamt 
+	- [x] Noten eintragen 
 - [ ] allen die eine 1 haben ein Sticker kleben bzw. Etwas hin malen 
 	- [ ] kopie einer meiner Zeichnungen 
 - [x] 60°C Wäsche 
