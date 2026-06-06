@@ -49,6 +49,7 @@
 	- [ ] dabei ist man es faktisch nicht
 	- [ ] man denkt man sei unterlegen und wird darüber wütend 
 	- [ ] statt dass man ruhig und bei sich bleibt, sich und seine Position stärkt
+	- [ ] e
 - [ ] Wäsche auf Sofa 
 - [ ] Hosentaschen graue Hose vergrößern 
 - [x] Gang beim Drucker saugen
