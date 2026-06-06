@@ -1361,8 +1361,16 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 
 # Beziehung
 ## 26-06-06
+### 3
 
-##
+### 2
+Um es auf den Punkt zusammen zu fassen, ich fühle mich schuldig dafür, dass ich mir fehlende Selbstwirksamkeit eingeredet und antrainiert habe. 
+
+Ich hatte auch nicht das Gefühl dass ich wirklich Kontrolle über meine Selbstwirksamkeit habe.
+
+Es gab und gibt ja auch gute Gründe dafür, da ich schlicht nicht wusste warum ich so häufig keine Kontrolle über mich und meinen Körper habe
+
+### 1
 Ich hab gestern während einem Spaziergang mit meinen Eltern telefoniert.
 
 Die meinten ich soll Arooj vergessen.
