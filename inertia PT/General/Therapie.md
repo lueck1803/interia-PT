@@ -1360,6 +1360,25 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 
 
 # Beziehung
+## 26-06-06
+Ich hab gestern während einem Spaziergang mit meinen Eltern telefoniert.
+
+Die meinten ich soll Arooj vergessen.
+
+Ebenso haben sie gesagt dass es keinen Grund gibt mich schuldig zu fühlen.
+
+Dafür bin ich dankbar. 
+
+Ich denke aber schon dass es auch kognitiv Gründe gibt dass ich mich schuldig fühlen kann.
+
+Aber ich sollte mich nicht schuldig fühlen, denn dadurch hatte ich so viel Unruhe in mir, ich konnte mich nicht auf die wichtigen Dinge konzentrieren und auf das was ist.
+Ich war gestresst und ungehalten.
+
+Das schuldig fühlen, war eine selbsterfüllende Prophezeiung.
+
+Dadurch hat sich so vieles so sinnlos angefühlt.
+
+"Ich kann ja eh nichts ändern. Ich bin ja eh schon so schuldig und es passiert immer wieder. Es ist schon alles verloren"
 ## 26-06-05
 Ich bin am gleichen Punkt an dem ich so häufig war. 
 
