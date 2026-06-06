@@ -33,6 +33,7 @@
 	- tue alles damit es keinen Grund gibt mich schuldig zu fühlen 
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] allen die eine 1 haben ein Sticker kleben bzw. Etwas hin malen 
+- [ ] Zählerstand eintragen 
 - [ ] trade republic ein loggen und Daten bestätigen 
 - [ ] Blatt mit Wechselpräposition und Dativ Präpositionen machen
 - [x] Spaziergang 
