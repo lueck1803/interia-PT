@@ -34,6 +34,9 @@
 	- darüber nachzudenken ob ich auch ~={DeepSkyBlue}Autismus=~ habe, ist ~={RedRed}nicht=~ ~={LawnGreen}zielführend=~. Das bringt mich nur in eine ~={RedRed}Opferrolle=~ 
 		- nach dem Motto: ich habe ja ~={RedRed}eh=~ ~={red}keine=~ ~={MediumSpringGreen}Kontrolle über mich=~
 		- ⟹ich möchte wieder ~={LawnGreen}Selbstwirksamkeit=~ spüren 
+	- Das sich schuldig fühlen ist ein Teufelskreis.
+
+Der mir Selbstwirksamkeit genommen hat und eine selbsterfüllende Prophezeiung war.
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] allen die eine 1 haben ein Sticker kleben bzw. Etwas hin malen 
 - [ ] Zählerstand eintragen 
