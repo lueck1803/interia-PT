@@ -660,6 +660,9 @@ $$
 - $p_{\text{subbox}}=L^{\beta/\nu} \hat{p}\left\{ \left( \rho-\rho_{\text{crit}} \right)L^{\beta/\nu},L^{1/\nu}\tau \right\}$ mit $\tau=1-\frac{T}{T_{c}}$
 - $p_{\text{subbox}}^\text{liquid}(\rho)\propto \exp \left\{ -\left( \rho-\rho_{\text{liquid}}^\text{coex} \right)^{2}L^{2} / \left( 2k_{B}T\chi_{\text{eff}}^{L} \right) \right\}$
 - $p_{\text{subbox}}^\text{vapor}(\rho)\propto \exp \left\{ -\left( \rho-\rho_{\text{vapor}}^\text{coex} \right)^{2}L^{2} / \left( 2k_{B}T\chi_{\text{eff}}^{L} \right) \right\}$
+- packing fraction
+	- $\varphi=N\pi\sigma^{2} / (4L_{x}L_{y})$
+	- $\varphi=\frac{N\pi\sigma^{2}}{}$
 
 # Masterplot
 multiply the data of the observable (binder cumulant, order parameter,  susceptibility) with the scaling factors of the observable. $L^{\zeta_{\mathcal{O}}/\nu}$ 
