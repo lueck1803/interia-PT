@@ -49,7 +49,13 @@
 	- [ ] dabei ist man es faktisch nicht
 	- [ ] man denkt man sei unterlegen und wird darüber wütend 
 	- [ ] statt dass man ruhig und bei sich bleibt, sich und seine Position stärkt
-	- [ ] e
+	- [ ] Ziel 
+		- [ ] ⟹ ~={LawnGreen}Selbstwirksamkeit=~ finden 
+		- [ ] wenn ihr eure Gefühle, euer Handeln und insbesondere euren ~={DeepSkyBlue}Selbstwert=~ zu sehr ~={orange}von Anderen=~ und deren Worte ~={RedRed}abhängig=~ macht, die im Falle einer Beschimpfung bedeutungslos sind, dann schränkt ihr eure Selbstwirksamkeit ein und könnt nie euer wirkliches Potential entfalten.
+		- [ ] ihr ~={Crimson}gebt den anderen die Macht=~ über eure Gefühle und damit über euch
+		- [ ] ⤷ deshalb nenne ich es ~={LimeGreen}Beschimpfung=~, denn ob ihr ~={Tomato}beleidigt=~ ~={Tomato}seid=~, darüber ~={Gold}habt Ihr alleine die Macht!=~
+		- [ ] ebenso die ~={pink}Deutungshoheit=~ über euch selbst.
+		- [ ] lasst sie euch nicht nehmen
 - [ ] Wäsche auf Sofa 
 - [ ] Hosentaschen graue Hose vergrößern 
 - [x] Gang beim Drucker saugen
