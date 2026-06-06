@@ -35,6 +35,7 @@
 		- nach dem Motto: ich habe ja ~={RedRed}eh=~ ~={red}keine=~ ~={MediumSpringGreen}Kontrolle über mich=~
 		- ⟹ich möchte wieder ~={LawnGreen}Selbstwirksamkeit=~ spüren 
 	- Das sich schuldig fühlen ist ein Teufelskreis. Der mir Selbstwirksamkeit genommen hat und eine selbsterfüllende Prophezeiung war.
+	- Es ist halt eine aktive brownsche Bewegung so eine Psyche 🤷‍♂️ insbesondere wenn die Wege und Denkstrukturen so eingefahren sind.
 
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] allen die eine 1 haben ein Sticker kleben bzw. Etwas hin malen 
