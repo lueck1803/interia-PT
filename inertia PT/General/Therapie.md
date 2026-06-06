@@ -1365,7 +1365,7 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 Und das muss ich mir verzeihen denn ich hatte nicht wirklich eine Ahnung wie ich den selbstverstärkenden Prozess durchbrechen kann. 
 
 Alles was ich versucht habe, hat ja nichts gebracht auf Dauer, ich habe mich jeden Tag resettet gefühlt und dadurch habe ich mich nur mehr gestresst, um es noch härter zu versuchen.
-Das hat mich auf Dauer nur ausgebrannt 
+Das hat mich auf Dauer nur ausgebrannt.
 
 ### 2
 Um es auf den Punkt zusammen zu fassen, ich fühle mich schuldig dafür, dass ich mir fehlende Selbstwirksamkeit eingeredet und antrainiert habe. 
