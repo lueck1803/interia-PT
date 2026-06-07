@@ -40,6 +40,21 @@
 	- Trigger für vollkommene Innere Ruhe ~={RedRed} ich bin absolut wertlos=~
 - [x] Ethik korrigieren
 	- [x] Noten in ENC eintragen und hochladen
+- [ ] Mathe 
+	- [ ] Flächeninhalt 
+		- [ ] Kreis 
+			- [ ] was ist $\pi$?
+			- [ ] Umfang 
+		- [ ] Quadrat 
+		- [ ] Rechteck 
+		- [ ] Trapez 
+		- [ ] Dreieck 
+	- [ ] Volumen 
+		- [ ] Würfel 
+		- [ ] Quader 
+		- [ ] Tetraeder 
+		- [ ] Zylinder 
+		- [ ] Kugel 
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] wenn ich proposal abgegeben habe, kaufe ich mir ein Ticket für das Festival 
 - [ ] allen die eine 1 haben ein Sticker kleben bzw. Etwas hin malen 
