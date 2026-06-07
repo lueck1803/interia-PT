@@ -1375,8 +1375,8 @@ LAMMPS:
 ![](Pasted%20image%2020260116235234.png)
 Where this defines the selfpropulsion force $F_{i}=f_{p}e_{i}$ with the Magnitude $f_{p}=42.4264$ 
 $f_{p}=\gamma_{t}v_{0}$ 
-$\frac{\sigma}{\sqrt{ D_{r}D_{t} }}=1$ Hecht2022
-$\frac{\varepsilon}{k_{B}T}=10$ ![](Pasted%20image%2020260117000418.png)
+$\frac{\sigma}{\sqrt{ D_{r}D_{t} }}=1$ ; $\frac{\varepsilon}{k_{B}T}=10$ [Hecht2022](10.1103/PhysRevLett.129.178001)
+![](Pasted%20image%2020260117000418.png)
 $Pe=\frac{42.4264}{\sqrt{ 2 }}\sim 30$
 Laut Mandal2019 P. 2 ist die kritische $Pe \ge 20$ 
 <span style="font-size:100%;color:red;">Simulationen mit einer deutlich höheren Pe versuchen</span>
