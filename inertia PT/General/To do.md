@@ -44,9 +44,6 @@
 - [ ] wenn ich proposal abgegeben habe, kaufe ich mir ein Ticket für das Festival 
 - [ ] allen die eine 1 haben ein Sticker kleben bzw. Etwas hin malen 
 	- [ ] kopie einer meiner Zeichnungen 
-- [x] 60°C Wäsche 
-	- [x] anstellen
-	- [x] aufhängen 
 - [ ] Zählerstand eintragen 
 	- [x] Mail an Bauverein geschickt 
 - [ ] trade republic ein loggen und Daten bestätigen 
