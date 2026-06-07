@@ -44,7 +44,7 @@
 	- [ ] Flächeninhalt 
 		- [ ] Kreis 
 			- [ ] was ist $\pi$?
-				- [ ] einfachs
+				- [ ] einfachste: Proportionalität zwischen Umfang $$ und Durchmesser $d$
 			- [ ] Umfang 
 		- [ ] Quadrat 
 		- [ ] Rechteck 
