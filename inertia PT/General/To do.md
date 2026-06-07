@@ -44,7 +44,7 @@
 	- [ ] Einheiten umrechnen 
 		- [ ] giancolli?
 		- [ ] $1~\mathrm{in} =2.54~\mathrm{ cm}$ 
-		- [ ] $\pu{ 1 in }$
+		- [ ] $1\frac{\pu{ 1 in }}{\pu{ 2.54cm }}$
 	- [ ] Flächeninhalt 
 		- [ ] Kreis 
 			- [ ] was ist $\pi$?
