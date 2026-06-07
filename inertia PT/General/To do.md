@@ -41,7 +41,9 @@
 - [x] Ethik korrigieren
 	- [x] Noten in ENC eintragen und hochladen
 - [ ] Mathe 
-	- [ ] Einheiten u
+	- [ ] Einheiten umrechnen 
+		- [ ] giancolli?
+		- [ ] 1
 	- [ ] Flächeninhalt 
 		- [ ] Kreis 
 			- [ ] was ist $\pi$?
