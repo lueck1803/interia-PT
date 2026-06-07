@@ -46,7 +46,7 @@
 			- [ ] was ist $\pi$?
 				- [ ] ~={underline}einfachste=~: Proportionalität zwischen Umfang $U$ und Durchmesser $d$
 				- [ ] $\pi=\frac{U}{d}=\frac{U}{2r}$
-				- [ ] Vergleich Flächeninhalt eines Kreises mit dem eines Quadrats
+				- [ ] Vergleich ~={underline}Flächeninhalt=~ eines Kreises mit dem eines Quadrats
 				- [ ] 
 			- [ ] Umfang 
 		- [ ] Quadrat 
