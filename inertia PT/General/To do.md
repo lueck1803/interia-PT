@@ -47,8 +47,7 @@
 				- [ ] ~={underline}einfachste=~: Proportionalität zwischen Umfang $U$ und Durchmesser $d$
 				- [ ] $\pi=\frac{U}{d}=\frac{U}{2r}$
 				- [ ] Vergleich ~={underline}Flächeninhalt=~ eines Kreises mit dem eines Quadrats
-				- [ ] [[01_Pi-Definition_mittels_Flächeninhalt.svg.png]]
-				- [ ] [pi]()
+				- [ ] [[01_Pi-Definit by byion_mittels_Flächeninhalt.svg.png]]
 			- [ ] Umfang 
 		- [ ] Quadrat 
 		- [ ] Rechteck 
