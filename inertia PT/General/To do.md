@@ -43,7 +43,8 @@
 - [ ] Mathe 
 	- [ ] Einheiten umrechnen 
 		- [ ] giancolli?
-		- [ ] $1\math\mathrm{in} =2.54cm$ 
+		- [ ] $1~\mathrm{in} =2.54~\mathrm{ cm}$ 
+		- [ ] $$
 	- [ ] Flächeninhalt 
 		- [ ] Kreis 
 			- [ ] was ist $\pi$?
