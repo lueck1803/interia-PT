@@ -41,12 +41,20 @@
 - [x] Ethik korrigieren
 	- [x] Noten in ENC eintragen und hochladen
 - [ ] Mathe 
-	- [ ] Einheiten umrechnen 
-		- [ ] giancolli?
-		- [ ] $1~\mathrm{in} =2.54~\mathrm{ cm}$ 
-		- [ ] $1=\frac{\pu{ 1 in }}{\pu{ 2.54cm }}$
-		- [ ] $\pu{ 64cm }=\pu{ 64 \cancel{cm} } \cdot \frac{\pu{ 1in }}{\pu{ 2.54\cancel{cm} }}$
-		- [ ] 55 miles per hour mk
+	- Einheiten umrechnen 
+		- giancolli p.12
+		- ~={Gold}Beispiel=~ 
+		- $1~\mathrm{in} =2.54~\mathrm{ cm}$ 
+		- $1=\frac{\pu{ 1 in }}{\pu{ 2.54cm }}$
+		- $\pu{ 64cm }=\pu{ 64 \cancel{cm} } \cdot \frac{\pu{ 1in }}{\pu{ 2.54\cancel{cm} }}$
+		- ~={DeepSkyBlue}Aufgabe=~ 
+		- 55 miles per hour $\pu{ 55 mi//h}$ in $\pu{ km//h }$ and $\pu{ m//s }$ 
+		- $\pu{ 1mi }=\pu{ 5280 ft }$
+		- $\pu{ 1ft }=\pu{ 12in }$
+		- $\pu{ 1m }=\pu{ 100cm }$
+		- $\pu{ 1km }=\pu{ 1000m }$
+		- $\pu{ 1h }=\pu{ 60min }$
+		- $\pu{ 1min }=\pu{ 60s }$
 	- [ ] Flächeninhalt 
 		- [ ] Kreis 
 			- [ ] was ist $\pi$?
