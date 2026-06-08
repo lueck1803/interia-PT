@@ -40,21 +40,21 @@
 	- Trigger für vollkommene Innere Ruhe ~={RedRed} ich bin absolut wertlos=~
 - [x] Ethik korrigieren
 	- [x] Noten in ENC eintragen und hochladen
-- [ ] Mathe Mappe eintragen 
-- [ ] konto checken
-- [ ] deutsch Mappe eintragen 
-- [ ] rasieren 
+- [x] Mathe Mappe eintragen 
+- [x] konto checken
+- [x] deutsch Mappe eintragen 
+- [x] rasieren 
 - [ ] Zähne putzen 
 - [ ] duschen
 - [ ] Essen 
-- [ ] Mathe Unterrichtseintrag rüber schieben 
+- [x] Mathe Unterrichtseintrag rüber schieben 
 - [ ] deutsch Arbeitsblatt zu dativ vs Akkusativ 
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] wenn ich proposal abgegeben habe, kaufe ich mir ein Ticket für das Festival 
 - [ ] Zählerstand eintragen 
 	- [x] Mail an Bauverein geschickt 
 	- [ ] in den Briefkasten schauen 
-		- war noch nix drin
+		- war noch nix drin 8.6.
 - [ ] trade republic ein loggen und Daten bestätigen 
 - [x] Blatt mit Wechselpräposition und Dativ Präpositionen machen
 - [x] Spaziergang 
