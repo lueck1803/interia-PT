@@ -41,7 +41,7 @@
 - [x] Ethik korrigieren
 	- [x] Noten in ENC eintragen und hochladen
 - [ ] Mathe Mappe eintragen 
-- [ ] konto
+- [ ] konto checken
 - [ ] deutsch Mappe eintragen 
 - [ ] rasieren 
 - [ ] Zähne putzen 
@@ -91,7 +91,7 @@
 - [ ] Zählerstand eintragen 
 	- [x] Mail an Bauverein geschickt 
 - [ ] trade republic ein loggen und Daten bestätigen 
-- [ ] Blatt mit Wechselpräposition und Dativ Präpositionen machen
+- [x] Blatt mit Wechselpräposition und Dativ Präpositionen machen
 - [x] Spaziergang 
 - [ ] Wort Opferhaltung erklären 
 	- [ ] Opferhaltung ist das Gegenteil von opfer sein
