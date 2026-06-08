@@ -40,6 +40,14 @@
 	- Trigger für vollkommene Innere Ruhe ~={RedRed} ich bin absolut wertlos=~
 - [x] Ethik korrigieren
 	- [x] Noten in ENC eintragen und hochladen
+- [ ] Mathe Mappe eintragen 
+- [ ] deutsch Mappe eintragen 
+- [ ] rasieren 
+- [ ] Zähne putzen 
+- [ ] duschen
+- [ ] Essen 
+- [ ] Mathe Unterrichtseintrag rüber schieben 
+- [ ] 
 - [ ] Mathe 
 	- Einheiten umrechnen 
 		- giancolli p.12
