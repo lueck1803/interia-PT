@@ -47,7 +47,7 @@
 - [ ] duschen
 - [ ] Essen 
 - [ ] Mathe Unterrichtseintrag rüber schieben 
-- [ ] 
+- [ ] deutsch 
 - [ ] Mathe 
 	- Einheiten umrechnen 
 		- giancolli p.12
