@@ -101,17 +101,17 @@
 - [ ] Hosentaschen graue Hose vergrößern 
 - [x] Gang beim Drucker saugen
 - [ ] Unterricht für Mathe überlegen 
-- [ ] Note in enc eintragen 
-- [ ] Klassenarbeit +/- eintragen 
+- [x] Note in enc eintragen 
+- [x] Klassenarbeit +/- eintragen 
 	- [ ] nein laut Anita gibt's kein ±
 	- [ ] mündliche Noten drunter schreiben 
 	- [ ] notenschnitt 
 	- [ ] Unterschrift 
 - [ ] Sozial+arbeitsverhalten ömer auf 1 falls noch geht 
-- [ ] ömer ein gutes Arbeitsverhalten eintragen 
-- [ ] mündliche Noten Ethik: kombi aus tabea und mir 
-- [ ] Ethik Hausarbeit korrigieren 
-	- [ ] nicht abgegebene: höchstens 4
+- [x] ömer ein gutes Arbeitsverhalten eintragen 
+- [x] mündliche Noten Ethik: kombi aus tabea und mir 
+- [x] Ethik Hausarbeit korrigieren 
+	- [x] nicht abgegebene: höchstens 4
 - [x] ce qui/ ce que korrekt aufschreiben 
 - [ ] foxit reader Mac aufräumen
 - [x] Entschuldigung karyna 1.6. und 27.5 -29.5
@@ -133,9 +133,9 @@
 	- [ ] großen Bildschirm etwas dunkler gemacht - 90%
 - [ ] Techniken wie man mit Mobbing umgeht
 - [x] Knoblauch einfrieren 
-- [ ] Mündliche Noten
-	- [ ] Deutsch 
-	- [ ] Ethik
+- [x] Mündliche Noten
+	- [x] Deutsch 
+	- [x] Ethik
 - [x] deutsch Arbeit 
 	- [x] Aufgaben vertauschen
 	- [x] Punktzahl verdoppeln bei fall einsetzen Aufgabe 
