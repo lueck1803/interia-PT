@@ -663,6 +663,8 @@ $$
 - packing fraction
 	- $\varphi=N\pi\sigma^{2} / (4L_{x}L_{y})$
 	- $\varphi=\frac{N\pi\sigma^{2}}{(4L_{x}L_{y})}$
+- reduced mass measuring the impact of inertia 
+	- $M=\frac{\tau_{d}}{\tau_{p}}$ the Persistence time $\tau_{p}=\frac{1}{D_{r}}$ and the Inertial time $\tau=\frac{m}{\gamma_{t}}$
 
 # Masterplot
 multiply the data of the observable (binder cumulant, order parameter,  susceptibility) with the scaling factors of the observable. $L^{\zeta_{\mathcal{O}}/\nu}$ 
