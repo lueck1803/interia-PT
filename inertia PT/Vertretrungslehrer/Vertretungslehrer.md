@@ -209,6 +209,42 @@ Arbeitsstunden KW 19:
 	Dabei ist der Rucksack von Lina bis zum Sitzplatz der Person mitgeschleift worden.
 
 	Der Tisch an dem Lina saß, war wie ich versucht habe zu verdeutlichen etwas weiter oben. Nicht auf der Höhe von Oles Tisch.
+
+## Mathe
+- Einheiten umrechnen 
+	- giancolli p.12
+	- ~={Gold}Beispiel=~ 
+	- $1~\mathrm{in} =2.54~\mathrm{ cm}$ 
+	- $1=\frac{\pu{ 1 in }}{\pu{ 2.54cm }}$
+	- $\pu{ 64cm }=\pu{ 64 \cancel{cm} } \cdot \frac{\pu{ 1in }}{\pu{ 2.54\cancel{cm} }}= \frac{64}{2.54}\pu{ in }=\pu{ 25.19685 in }$
+	- ~={DeepSkyBlue}Aufgabe=~ 
+	- 55 miles per hour $\pu{ 55 mi//h}$ in $\pu{ km//h }$ and $\pu{ m//s }$ 
+	- $\pu{ 1mi }=\pu{ 5280 ft }$
+	- $\pu{ 1ft }=\pu{ 12in }$
+	- $\pu{ 1m }=\pu{ 100cm }$
+	- $\pu{ 1km }=\pu{ 1000m }$
+	- $\pu{ 1h }=\pu{ 60min }$
+	- $\pu{ 1min }=\pu{ 60s }$
+- [ ] Flächeninhalt 
+	- [ ] Kreis 
+		- [ ] was ist $\pi$?
+			- [ ] ~={underline}einfachste=~: Proportionalität zwischen Umfang $U$ und Durchmesser $d$
+			- [ ] $\pi=\frac{U}{d}=\frac{U}{2r}$
+			- ![[../Vertretrungslehrer/Images/BAS/Mathe/Pi-unrolled-720.gif]]
+			- [ ] Vergleich ~={underline}Flächeninhalt=~ eines Kreises mit dem eines Quadrats
+			- [ ] $\frac{4}{\pi}=\frac{A_{\text{Quadrat}}}{A_{\text{Kreis}}}=\frac{r^{2}}{A_{\text{Kreis}}}$
+			- ![[../Vertretrungslehrer/Images/BAS/Mathe/01_Pi-Definition_mittels_Flächeninhalt.svg.png]]
+		- [ ] Umfang 
+	- [ ] Quadrat 
+	- [ ] Rechteck 
+	- [ ] Trapez 
+	- [ ] Dreieck 
+- [ ] Volumen 
+	- [ ] Würfel 
+	- [ ] Quader 
+	- [ ] Tetraeder 
+	- [ ] Zylinder 
+	- [ ] Kugel 
 ## Englisch
 ### 2026-05-18
 
