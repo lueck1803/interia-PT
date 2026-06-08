@@ -41,13 +41,14 @@
 - [x] Ethik korrigieren
 	- [x] Noten in ENC eintragen und hochladen
 - [ ] Mathe Mappe eintragen 
+- [ ] konto
 - [ ] deutsch Mappe eintragen 
 - [ ] rasieren 
 - [ ] Zähne putzen 
 - [ ] duschen
 - [ ] Essen 
 - [ ] Mathe Unterrichtseintrag rüber schieben 
-- [ ] deutsch 
+- [ ] deutsch Arbeitsblatt zu dativ vs Akkusativ 
 - [ ] Mathe 
 	- Einheiten umrechnen 
 		- giancolli p.12
