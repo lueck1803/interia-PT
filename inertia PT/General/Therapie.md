@@ -4052,6 +4052,47 @@ A-->B-->C-->D-->A
 	- wenn das alles passt, dann wird sich schon alles richten.
 		- Gehe mit dem Fluss der Dinge und der Entropie ⟹ Stelle dich nicht dagegen 
 		- hab Vertrauen 
+# Selbsterkenntnis für Innere Ruhe 
+ich habe die Tage eine super meditative Selbsterkenntnis gehabt.
+Ich glaube das war auch der Trick in meiner Jugend.
+
+Wenn ich einfach akzeptiere und anerkenne, dass ich absolut wertlos, nutzlos, schuld an meinen Schuldgefühlen und eh irgendwie behindert bin und alles egal ist, dann fühle ich mich total befreit.
+
+Dann bin ich auch Immun gegen alles.
+
+Ich bin dann in völliger Ruhe und Klarheit.
+Es zählt nur noch die Tat und der Moment.
+
+Denn dann kann ich die Dinge viel objektiver sehen und es hat alles nix mehr mit mir im negativen Sinne zu tun. 
+
+Ich weiß es hört sich schlimm und selbstverachtend an.
+
+Aber das genaue Gegenteil ist der Fall. 
+Denn ich mache mich ja eher im sonstigen Zustand runter.
+Das passiert so nebenbei da mir meine Gefühle solche Signale senden.
+
+Ich messe diesen Gedanken dann Wert bei, denn im Grunde kämpfe ich dagegen an.
+
+Wenn ich mit Klarheit akzeptiere, ich bin Schuld und habe keinen Wert, dann kann ich wahrnehmen was ist.
+
+Dann ist Zukunft und Vergangenheit unwichtig.
+
+Da diese meinen Wert nicht mehr bestimmen kann.
+
+Das "ich" wertlos bin, ist eigentlich so oder so total im Einklang mit meinem philosophischen Konzept.
+
+Und das passt auch zur Buddhistischen Philosophie.
+
+Da würde es wohl anders ausgedrückt werden. 
+
+Ich meine damit auch in der essenz, dass ich damit meine stofflichkeit akzeptiere, die nur Teil des ganzen ist. 
+
+Eine Ansammlung von Teilchen/Energie. "Ich" bin die emergenz dieser Teilchen.
+Die interessiert meine Vergangenheit und Zukunft nicht. 
+
+Ich bin einfach nur das Ergebnis, was zwar mehr als die Summe der Teilchen ist, aber auch nicht mehr und nicht weniger.
+
+Die Auflösung der Ich-haftigkeit
 	
 
 

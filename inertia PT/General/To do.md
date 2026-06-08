@@ -37,19 +37,48 @@
 	- Das sich schuldig fühlen ist ein Teufelskreis. Der mir Selbstwirksamkeit genommen hat und eine selbsterfüllende Prophezeiung war.
 	- Es ist halt eine aktive brownsche Bewegung so eine Psyche 🤷‍♂️ insbesondere wenn die Wege und Denkstrukturen so eingefahren sind.
 	- ~={RedRed}Hör auf=~ ~={yellow}scheiße zu dir zu sein=~, das warst du wahrlich lange genug.
-- [ ] Ethik korrigieren
-	- [ ] Noten in ENC eintragen und hochladen
+	- Trigger für vollkommene Innere Ruhe ~={RedRed} ich bin absolut wertlos=~
+- [x] Ethik korrigieren
+	- [x] Noten in ENC eintragen und hochladen
+- [ ] Mathe 
+	- Einheiten umrechnen 
+		- giancolli p.12
+		- ~={Gold}Beispiel=~ 
+		- $1~\mathrm{in} =2.54~\mathrm{ cm}$ 
+		- $1=\frac{\pu{ 1 in }}{\pu{ 2.54cm }}$
+		- $\pu{ 64cm }=\pu{ 64 \cancel{cm} } \cdot \frac{\pu{ 1in }}{\pu{ 2.54\cancel{cm} }}= \frac{64}{2.54}\pu{ in }=\pu{ 25.19685 in }$
+		- ~={DeepSkyBlue}Aufgabe=~ 
+		- 55 miles per hour $\pu{ 55 mi//h}$ in $\pu{ km//h }$ and $\pu{ m//s }$ 
+		- $\pu{ 1mi }=\pu{ 5280 ft }$
+		- $\pu{ 1ft }=\pu{ 12in }$
+		- $\pu{ 1m }=\pu{ 100cm }$
+		- $\pu{ 1km }=\pu{ 1000m }$
+		- $\pu{ 1h }=\pu{ 60min }$
+		- $\pu{ 1min }=\pu{ 60s }$
+	- [ ] Flächeninhalt 
+		- [ ] Kreis 
+			- [ ] was ist $\pi$?
+				- [ ] ~={underline}einfachste=~: Proportionalität zwischen Umfang $U$ und Durchmesser $d$
+				- [ ] $\pi=\frac{U}{d}=\frac{U}{2r}$
+				- ![[../Vertretrungslehrer/Images/BAS/Mathe/Pi-unrolled-720.gif]]
+				- [ ] Vergleich ~={underline}Flächeninhalt=~ eines Kreises mit dem eines Quadrats
+				- [ ] $\frac{4}{\pi}=\frac{A_{\text{Quadrat}}}{A_{\text{Kreis}}}=\frac{r^{2}}{A_{\text{Kreis}}}$
+				- ![[../Vertretrungslehrer/Images/BAS/Mathe/01_Pi-Definition_mittels_Flächeninhalt.svg.png]]
+			- [ ] Umfang 
+		- [ ] Quadrat 
+		- [ ] Rechteck 
+		- [ ] Trapez 
+		- [ ] Dreieck 
+	- [ ] Volumen 
+		- [ ] Würfel 
+		- [ ] Quader 
+		- [ ] Tetraeder 
+		- [ ] Zylinder 
+		- [ ] Kugel 
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] wenn ich proposal abgegeben habe, kaufe ich mir ein Ticket für das Festival 
-- [x] Noten schnitt deutsch 
-	- [x] wng ausrechnen -> Tabelle+ Klausur 
-	- [x] Notenschnitt gesamt 
-	- [x] Noten eintragen 
 - [ ] allen die eine 1 haben ein Sticker kleben bzw. Etwas hin malen 
 	- [ ] kopie einer meiner Zeichnungen 
-- [x] 60°C Wäsche 
-	- [x] anstellen
-	- [x] aufhängen 
 - [ ] Zählerstand eintragen 
 	- [x] Mail an Bauverein geschickt 
 - [ ] trade republic ein loggen und Daten bestätigen 
