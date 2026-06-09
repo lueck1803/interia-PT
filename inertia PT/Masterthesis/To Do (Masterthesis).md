@@ -1,5 +1,6 @@
 - [ ] Unterschrift 
 - [ ] Datum eintragen 
+- [ ] welchen time step haben die simulations vom März 2023
 - [ ] 1. neue erkenntnisse beschreiben unterschied zwischen den verschiedenen PE und box ratios
 	- [ ] sagen dass das ein irrweg war, dass das box ratio es schlimmer gemacht hat, was auch logisch ist warum... Der Gedanke war die vertikale aufspaltung zu verringern, hat damit aber die horizontale aufspaltung verstärkt, das war damals ein Tipp von einem Doktorand aus der Arbeitsgruppe und um die in siebert erwähnte slab like structure ~={red}siebert2018 zitieren=~ nochmal zu verstärken
 		- [ ] man zwingt das system sozusagen sich aufzuspalten
