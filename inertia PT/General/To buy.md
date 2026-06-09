@@ -1,6 +1,7 @@
+- [ ] saft
+- [ ] tofu
 - [ ] zink tabletten
 - [x] toast
-- [x] saft
 - [x] pizza
 - [x] hafermilch
 - [x] Schmelzkäse Scheiben 
@@ -11,7 +12,6 @@
 - [x] Nusskati 
 - [ ] grüne Erbsen 
 - [x] Chipotle mayo
-- [ ] tofu
 - [x] schokomüsli
 - [x] bananen
 - [x] destilliertes Wasser 
