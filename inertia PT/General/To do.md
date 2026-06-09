@@ -49,6 +49,7 @@
 	- keine Politik und kein brain rot mehr
 	- 100% Fokus 
 	- Ordnung halten 
+	- mich pflegen, auf mein Äußeres und Auftreten achten
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] großes schneide brett spülen 
 - [ ] alle nicht-Optimierungsthemen bzgl ADHS/Autismus raus. Keine Lust mehr über das nachzudenken was ich nicht kann und was mich hindert. Ich bin kein Opfer
