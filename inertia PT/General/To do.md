@@ -40,10 +40,10 @@
 	- Trigger für vollkommene Innere Ruhe ~={RedRed} ich bin absolut wertlos=~
 	- Verantwortung übernehmen für mich und mein Handeln 
 		- ich wollte das 
+		- 
 - [ ] neuen Kalender für Schule erstellen 
-- [ ] Bart Seiten schneiden 
+- [x] Bart Seiten schneiden 
 - [ ] Gras im Teich kürzen 
-- [ ] friseur 
 - [ ] Schnellkochtopf 
 - [ ] how to add app to accessibility manually 
 - [ ] Sprachaufzeichnung transkribieren 
