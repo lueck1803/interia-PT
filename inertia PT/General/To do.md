@@ -45,6 +45,7 @@
 - [ ] Gras im Teich kürzen 
 - [ ] friseur 
 - [ ] Schnellkochtopf 
+- [ ] how to add app to accessibility manually 
 - [ ] Sprachaufzeichnung transkribieren 
 - [ ] Akteneintrag Esma fertig machen
 - [ ] Friseur 
