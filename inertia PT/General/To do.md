@@ -41,9 +41,17 @@
 	- Verantwortung übernehmen für mich und mein Handeln 
 		- ich wollte das 
 	- keine Lust mehr mich mit ADHS und Autismus im negativen, leidenden und Opfersinn auseinander zu setzen
-	- extrem viel Sport 
+	- extrem viel Sport machen 
+	- meinen Körper kennen und lieben lernen 
+	- nicht mehr wixxen
+	- voller Kraft und Lebensmut sein 
+	- yoga, laufen, Krafttraining jeder Art und Krampfsport, statt nervige Themen die mich nicht voran bringen 
+	- keine Politik und kein brain rot mehr
+	- 100% Fokus 
+	- Ordnung halten 
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] alle nicht Optimierungsthemen bzgl ADHS/Autismus raus. Keine Lust mehr über das nachzudenken was ich nicht kann und was mich hindert. Ich bin kein Opfer
+	- [ ] watch later knallhart aufräumen 
 - [ ] saugen 
 - [x] Bart Seiten schneiden 
 - [ ] Gras im Teich kürzen 
