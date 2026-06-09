@@ -40,7 +40,6 @@
 	- Trigger für vollkommene Innere Ruhe ~={RedRed} ich bin absolut wertlos=~
 	- Verantwortung übernehmen für mich und mein Handeln 
 		- ich wollte das 
-- [ ] duschen
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] wenn ich proposal abgegeben habe, kaufe ich mir ein Ticket für das Festival 
 - [ ] Zählerstand eintragen 
