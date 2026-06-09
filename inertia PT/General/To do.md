@@ -43,6 +43,7 @@
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Sprachaufzeichnung transkribieren 
 - [ ] Akteneintrag Esma fertig machen
+- [ ] Friseur 
 - [ ] wenn ich proposal abgegeben habe, kaufe ich mir ein Ticket für das Festival 
 - [ ] Zählerstand eintragen 
 	- [x] Mail an Bauverein geschickt 
