@@ -44,6 +44,7 @@
 - [ ] Bart Seiten schneiden 
 - [ ] Gras im Teich kürzen 
 - [ ] friseur 
+- [ ] Schnellkochtopf 
 - [ ] Sprachaufzeichnung transkribieren 
 - [ ] Akteneintrag Esma fertig machen
 - [ ] Friseur 
