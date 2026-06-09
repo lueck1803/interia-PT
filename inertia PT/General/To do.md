@@ -51,6 +51,7 @@
 	- Ordnung halten 
 	- mich pflegen, auf mein Äußeres und Auftreten achten
 - [ ] neuen Kalender für Schule erstellen 
+- [ ] ohr eincremen
 - [ ] großes schneide brett spülen 
 - [ ] alle nicht-Optimierungsthemen bzgl ADHS/Autismus raus. Keine Lust mehr über das nachzudenken was ich nicht kann und was mich hindert. Ich bin kein Opfer
 	- [ ] watch later knallhart aufräumen 
@@ -59,7 +60,7 @@
 - [ ] how to add app to accessibility manually 
 - [ ] Sprachaufzeichnung transkribieren 
 - [ ] Akteneintrag Esma fertig machen
-- [ ] Friseur 
+- [x] Friseur 
 - [ ] wenn ich proposal abgegeben habe, kaufe ich mir ein Ticket für das Festival 
 - [ ] Zählerstand eintragen 
 	- [x] Mail an Bauverein geschickt 

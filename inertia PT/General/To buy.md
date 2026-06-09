@@ -1,6 +1,6 @@
 - [ ] saft
 - [ ] tofu
-- [ ] zink tabletten
+- [x] zink tabletten
 - [x] toast
 - [x] pizza
 - [x] hafermilch
@@ -26,7 +26,7 @@
 - [ ] neue Wanderschuhe
 - [ ] Displayport - Displayport Kabel
 - [ ] 4er Pack CR2032 3V vom dm
-- [ ] Vitamin D 
+- [x] Vitamin D 
 # non food
 - [ ] kleinen Schneebesen 
 - [ ] Plastik Plättchen zum tür öffnen -> pet Flasche 
