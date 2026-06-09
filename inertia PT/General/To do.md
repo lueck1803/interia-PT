@@ -50,7 +50,7 @@
 	- 100% Fokus 
 	- Ordnung halten 
 - [ ] neuen Kalender für Schule erstellen 
-- [ ] alle nicht Optimierungsthemen bzgl ADHS/Autismus raus. Keine Lust mehr über das nachzudenken was ich nicht kann und was mich hindert. Ich bin kein Opfer
+- [ ] alle nicht-Optimierungsthemen bzgl ADHS/Autismus raus. Keine Lust mehr über das nachzudenken was ich nicht kann und was mich hindert. Ich bin kein Opfer
 	- [ ] watch later knallhart aufräumen 
 - [ ] saugen 
 - [x] Bart Seiten schneiden 
