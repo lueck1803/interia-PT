@@ -41,6 +41,9 @@
 	- Verantwortung übernehmen für mich und mein Handeln 
 		- ich wollte das 
 - [ ] neuen Kalender für Schule erstellen 
+- [ ] Bart Seiten schneiden 
+- [ ] Gras im Teich kürzen 
+- [ ] friseur 
 - [ ] Sprachaufzeichnung transkribieren 
 - [ ] Akteneintrag Esma fertig machen
 - [ ] Friseur 
