@@ -218,6 +218,7 @@ Arbeitsstunden KW 19:
 - griech. Mikros - klein - eine millionstel
 - 10er potzen
 
+- Aufgabe jeder soll mal die Breite seiner Handfläche, die Breite seines kleinen Fingers und
 
 - Einheiten umrechnen 
 	- giancolli p.12
