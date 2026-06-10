@@ -1,7 +1,7 @@
 - [ ] saft
 - [ ] tofu
 - [x] zink tabletten
-- [x] toast
+- [ ] toast
 - [x] pizza
 - [x] hafermilch
 - [x] Schmelzkäse Scheiben 
