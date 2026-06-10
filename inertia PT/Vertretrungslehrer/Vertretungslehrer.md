@@ -220,7 +220,10 @@ Arbeitsstunden KW 19:
 
 - Aufgabe jeder soll mal die Breite seiner Handfläche, die Breite seines kleinen Fingers und die Länge seines Unterarms ausmessen 
 	- notieren 
-- dann misst jeder mit diesen Maßen die breite und die Länge seines Tisches aus 
+- dann misst jeder mit diesen Maßen die breite und die Länge seines Tisches aus.
+	- und berechnet damit den Flächeninhalt des Tisches 
+	- ist gar nicht so einfach da es kein zehner System ist
+	- in Mathe im Kontext nachlesen wie man da mit im stellen System gerechnet hat 
 
 - Einheiten umrechnen 
 	- giancolli p.12
