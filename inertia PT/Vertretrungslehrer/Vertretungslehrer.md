@@ -212,6 +212,7 @@ Arbeitsstunden KW 19:
 
 ## Mathe
 - Zentimeter deutsche Rechtschreibung 
+- lat. Decem - ze
 - lat. Centum - hundert
 - lat. Milli - tausend 
 - griech. Mikros - klein - eine millionstel
