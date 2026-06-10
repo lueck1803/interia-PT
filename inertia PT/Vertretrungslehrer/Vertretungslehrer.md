@@ -224,6 +224,7 @@ Arbeitsstunden KW 19:
 	- und berechnet damit den Flächeninhalt des Tisches 
 	- ist gar nicht so einfach da es kein zehner System ist
 	- in Mathe im Kontext nachlesen wie man da mit im stellen System gerechnet hat 
+- eigene Körpergröße in foot and inch angeben
 
 - Einheiten umrechnen 
 	- giancolli p.12
