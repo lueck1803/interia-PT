@@ -212,9 +212,9 @@ Arbeitsstunden KW 19:
 
 ## Mathe
 - Zentimeter deutsche Rechtschreibung 
-- lat. Centum hundert
-- lat. Milli tausend 
-- griech. Mikros 
+- lat. Centum - hundert
+- lat. Milli - tausend 
+- griech. Mikros - klein - eine millionstel
 
 
 - Einheiten umrechnen 
