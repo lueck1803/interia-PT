@@ -214,6 +214,7 @@ Arbeitsstunden KW 19:
 - Zentimeter deutsche Rechtschreibung 
 - lat. Centum hundert
 - lat. Milli tausend 
+- griech. Mikros 
 
 
 - Einheiten umrechnen 
