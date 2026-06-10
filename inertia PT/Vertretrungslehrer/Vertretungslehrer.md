@@ -211,7 +211,7 @@ Arbeitsstunden KW 19:
 	Der Tisch an dem Lina saß, war wie ich versucht habe zu verdeutlichen etwas weiter oben. Nicht auf der Höhe von Oles Tisch.
 
 ## Mathe
-- Zentimeter deutsche Rechtschreibung 
+- Zentimeter deutsche Rechtschreibung - Shirin hatte 
 - lat. Decem - zehn
 - lat. Centum - hundert
 - lat. Milli - tausend 
