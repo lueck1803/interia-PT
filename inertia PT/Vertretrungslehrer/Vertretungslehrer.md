@@ -215,6 +215,7 @@ Arbeitsstunden KW 19:
 - lat. Centum - hundert
 - lat. Milli - tausend 
 - griech. Mikros - klein - eine millionstel
+- 10er potzen
 
 
 - Einheiten umrechnen 
