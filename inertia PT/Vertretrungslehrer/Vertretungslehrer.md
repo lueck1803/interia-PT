@@ -212,7 +212,8 @@ Arbeitsstunden KW 19:
 
 ## Mathe
 - Zentimeter deutsche Rechtschreibung 
-- lat. 
+- lat. Centum hundert
+- lat. Milli tausend 
 
 
 - Einheiten umrechnen 
