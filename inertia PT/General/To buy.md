@@ -27,6 +27,7 @@
 - [ ] Displayport - Displayport Kabel
 - [ ] 4er Pack CR2032 3V vom dm
 - [x] Vitamin D 
+- [ ] propylene glycol/Lebensmittelfarbe 
 # non food
 - [ ] kleinen Schneebesen 
 - [ ] Plastik Plättchen zum tür öffnen -> pet Flasche 
