@@ -221,7 +221,8 @@ Arbeitsstunden KW 19:
 		- dabei Natürliche zahlen eine Farbe 
 		- Ganze zahlen eine Farbe
 		- rationale zahlen
-		- "zw"
+		- "zwischen" den rationalen zahlen liegen die irrationalen Zahlen. Da die rationalen Zahlen "dicht" in R liegen:
+			- Die rationalen Zahlen liegen dicht auf der Zahlengerade, das heißt: Jede reelle Zahl (anschaulich: jeder Punkt auf der Zahlengerade) kann beliebig genau durch rationale Zahlen angenähert werden.
 ### knowledge base
 - was ist ein Bruch?
 	- natürliche Zahlen Zahlenstrahl 
@@ -330,6 +331,8 @@ Diese Bedeutung von „rational“ ging aus der mathematischen Bedeutung von „
 ⟹ Dezimalschreibweise ist <u>nicht</u>, die Unterscheidung von ***reellen Zahlen*** $\mathbb{R}$ und rationalen Zahlen $\mathbb{Q}$
 ### ***reelle Zahlen*** $\mathbb{R}$
 rationale zahlen $\mathbb{Q}$ *plus* ***irrationale Zahlen***  
+
+extrem wichtig / notwendig für den Begriff Funktion / den Funktionsbegriff -> kommt aber erst viel später
 
 <u>irrationale Zahlen: </u>
 - können <u>nicht</u> als **ratio also Verhältnis** bzw. Bruch zwei ganzer Zahlen geschrieben werden.
