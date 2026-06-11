@@ -299,8 +299,19 @@ $\mathbb{Z}$ kommt vom Wort Zahl
 ### Woher kommt das Wort **rationale Zahl*** $\mathbb{Q}$
 Sie umfasst alle Zahlen, die sich als Bruch darstellen lassen, der sowohl im Zähler als auch im Nenner ganze Zahlen enthält
 
+Die positiven rationalen Zahlen werden in der Schulmathematik auch Bruchzahlen (oder auch gebrochene Zahlen) genannt. ***Durch ihre Einführung wird die Division auch dann durchführbar, wenn bspw. der Dividend kleiner ist als der Divisor*.** Beispielsweise ist die Divisionsaufgabe 3 : 4 = ? innerhalb der natürlichen oder ganzen Zahlen nicht lösbar.
+
+Der Bruch 3⁄4 beispielsweise stellt dar:
+
+1. die Division 3 : 4 (3 verteilt auf 4, 3 aufgeteilt auf 4, 3 eingeteilt in 4er, 3 geteilt in 4 (gleiche) Teile, 3 dividiert durch 4),
+2. das Ergebnis der Division als eigene (Bruch-)Zahl 3⁄4 (drei Viertel),
+3. den Auftrag: „Teile in 4 Teile, nimm 3“ (drei von vier (Teilen)).
+
+
 $\mathbb{Q}$ kommt vom Wort ***Quotient***
 
+### ***reelle Zahlen*** $\mathbb{R}$
+rationale zahlen $\mathbb{Q}$
 ## Englisch
 ### 2026-05-18
 
