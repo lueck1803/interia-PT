@@ -211,6 +211,12 @@ Arbeitsstunden KW 19:
 	Der Tisch an dem Lina saß, war wie ich versucht habe zu verdeutlichen etwas weiter oben. Nicht auf der Höhe von Oles Tisch.
 
 ## Mathe
+- was ist ein Bruch?
+	- natürliche Zahlen Zahlenstrahl 
+	- ganze Zahlen Zahlenstrahl 
+	- rationale Zahlen Zahlenstrahl 
+	- 
+
 - Zentimeter deutsche Rechtschreibung - Shirin hatte da natürlich Recht, dem habe ich auch nicht widersprochen 
 - lat. Decem - zehn
 - lat. Centum - hundert
