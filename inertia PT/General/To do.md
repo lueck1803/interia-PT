@@ -51,7 +51,8 @@
 	- Ordnung halten 
 	- mich pflegen, auf mein Äußeres und Auftreten achten
 - [ ] neuen Kalender für Schule erstellen 
-- [ ] ohr eincremen
+- [ ] ohr eincremen /Teebaumöl 
+- [ ] Ackerbohnen einfrieren 
 - [ ] Paprika in Thunfischdose umsetzen 
 - [ ] rayans mutter anrufen und sagen dass er sich ein großes Stück verbessert hat.
 - [ ] großes schneide brett spülen 
