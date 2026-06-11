@@ -310,8 +310,14 @@ Der Bruch 3⁄4 beispielsweise stellt dar:
 
 $\mathbb{Q}$ kommt vom Wort ***Quotient***
 
+⟹ Dezimalschreibweise <u>bedeutet nicht</u>, dass es ***reelle Zahlen*** sind
 ### ***reelle Zahlen*** $\mathbb{R}$
-rationale zahlen $\mathbb{Q}$
+rationale zahlen $\mathbb{Q}$ *plus* ***irrationale Zahlen***  
+
+irrationale Zahlen: 
+- zb.
+- In der Dezimalschreibweise werden irrationale Zahlen mit einer <u>nicht-periodischen unendlichen Folge von Dezimalstellen</u> dargestellt (z. B. 0,10110111011110…), d. h., sie sind unendliche nicht-periodische Dezimalbrüche.
+	- dh. Zahlen die <u>nicht</u> $\$
 ## Englisch
 ### 2026-05-18
 
