@@ -211,6 +211,12 @@ Arbeitsstunden KW 19:
 	Der Tisch an dem Lina saß, war wie ich versucht habe zu verdeutlichen etwas weiter oben. Nicht auf der Höhe von Oles Tisch.
 
 ## Mathe
+### timeline
+- natürliche, ganze zahlen, rationale und reelle zahlen 
+	- Eulerdiagramm der Teilmenge anschreiben 
+	- natürliche Zahlen
+		- Symbol 
+### knowledge base
 - was ist ein Bruch?
 	- natürliche Zahlen Zahlenstrahl 
 	- ganze Zahlen Zahlenstrahl 
@@ -1380,7 +1386,8 @@ Das ist doch genau der Lehrerberuf .
 - karyna 
 - Noble 🫳
 
-# Anrufen
+# Maßregeln 
+## Anrufen
 - rayan:
 	- loben aber auch respektlos 
 	- er schwankt 
@@ -1389,7 +1396,7 @@ Das ist doch genau der Lehrerberuf .
 	- hauptstörenfried
 	- Barrikaden aufgebaut 
 	- sehr häufig sexualisierte Aussagen
-- Mohamed 
+- Mohammad 
 	- hauptstörenfried 
 	- Barrikaden aufgebaut 
 - glordi 
@@ -1398,7 +1405,7 @@ Das ist doch genau der Lehrerberuf .
 	- bleibt ewig dem Unterricht fern, wenn er auf Toilette 
 	- sehr häufig sexualisierte Aussagen
 		- wirft rayan ständig vor er würde goonen
-- Shirin 
+- Sherin 
 	- Verhalten schwankt extrem 
 	- Verdacht Chatgpt in Deutscharbeit benutzt zu haben 
 - delsa
@@ -1407,3 +1414,26 @@ Das ist doch genau der Lehrerberuf .
 - Finlay 
 	- Verhalten schwankt extrem 
 	- Verdacht Chatgpt in Deutscharbeit benutzt zu haben
+## Regeln 
+- Name an der Tafel ⟹ 5 Striche  Eltern anrufen 
+- 3 mal Eltern angerufen ⟹ Maßnahme 
+
+## Ansprachen 
+- Warum das Verhalten am Donnerstag?
+	- lag es daran dass ich Mittwoch 3 eurer Tablets ausgeliehen habe?
+- Kapiert es! bei dem Verhalten was ich von euch seid März erlebt habe
+	- es hätte mehrfach ne Klassenkonferenz gegeben 
+	- und die Klassengemeinschaft hätte extrem Ärger bekommen 
+- ihr müsst auch verstehen lernen, dass es Situationen gibt bei denen **beide** Recht haben 
+	- Beispiel **centi** und **Zentimeter** 
+		- Zentimeter ist die deutsche Schreibweise 
+		- centi kommt vom **lateinischen** centum und in **Englisch** ist die Schreibweise centimeter 
+		- ⟹richtig zu hören 
+	- Symbol natürliche Zahlen 
+		- das was ich angeschrieben N mit strich links habe ist die übliche handschriftliche Schreibweise, es gibt aber auch die Schreibweise bzw das ist auch der Unicode Buchstabe ℕ
+		- es gibt auch noch die fett gedruckte Schreibweise $\mathbf{N}$ und die explizit mit Null $\mathbb{N}_{0}$ die explizit ohne Null also nur echt positive Zahlen $\mathbb{N}^{+}$ oder diese $\mathcal{N}$ 
+		- aber erstmal ausrasten 🤣 und reinquatschen während ich rede und etwas anschreibe
+		- zeigt doch gerne auf wenn ihr zb sagen wollt "bei herrn Stühlinger haben wir das aber so gelernt"
+		- dann sage ich etwas dazu, aber gebt mir doch die Möglichkeit 
+		- ich habe nie gesagt dass meine Version die einzige richtige ist. 
+		- von euch kommt "falsch " 🤣
