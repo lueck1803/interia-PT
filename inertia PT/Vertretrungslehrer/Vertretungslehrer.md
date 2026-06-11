@@ -324,8 +324,9 @@ In mathematics, "rational" is often used as a noun abbreviating "rational number
 ### ***reelle Zahlen*** $\mathbb{R}$
 rationale zahlen $\mathbb{Q}$ *plus* ***irrationale Zahlen***  
 
-irrationale Zahlen: 
-- zb. $\pi\approx \pu{ 3.14159}\dots$ oder $\sqrt{ 2 }\approx\pu{ 1.4142135\dots }$ 
+<u>irrationale Zahlen: </u>
+- können <u>nicht</u> als **ratio also Verhältnis** bzw. Bruch zwei ganzer Zahlen geschrieben werden.
+- zb. Kreiszahl $\pi\approx \pu{ 3.14159}\dots$ oder $\sqrt{ 2 }\approx\pu{ 1.4142135\dots }$ die Eulersche Zahl $e=\pu{ 2.71828\dots }$
 - In der Dezimalschreibweise werden irrationale Zahlen mit einer <u>nicht-periodischen unendlichen Folge von Dezimalstellen</u> dargestellt (z. B. 0,10110111011110…), d. h., sie sind unendliche nicht-periodische Dezimalbrüche.
 	- dh. Zahlen die <u>nicht</u> $\frac{1}{7}=0.\overline{142857}$
 	- oder $\frac{1}{3}=0.33\overline{3}$
