@@ -348,7 +348,7 @@ $\mathbb{Z}$ kommt vom Wort Zahl
 
 ### Gruppentheorie 
 - $a\cdot 0=0$
-- Distributionsgesetz $a\cdot$
+- Distributionsgesetz $a\cdot (b+c)=a\cdotb+ac$
 ### Woher kommt das Wort **rationale Zahl*** $\mathbb{Q}$
 Sie umfasst alle Zahlen, die sich als Bruch darstellen lassen, der sowohl im Zähler als auch im Nenner ganze Zahlen enthält
 
