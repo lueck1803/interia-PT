@@ -215,6 +215,7 @@ Arbeitsstunden KW 19:
 	- natürliche Zahlen Zahlenstrahl 
 	- ganze Zahlen Zahlenstrahl 
 	- rationale Zahlen Zahlenstrahl 
+	- bruch Bezeichnungen aufschreiben 
 	- 
 
 - Zentimeter deutsche Rechtschreibung - Shirin hatte da natürlich Recht, dem habe ich auch nicht widersprochen 
