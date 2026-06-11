@@ -357,7 +357,7 @@ damit das gelten kann
 - $0=b-b$
 - $-a\cdot (b-b)= -a\cdot b+(-a)\cdot (-b)=0$
 - da $a,b>0$ muss $(-a)\cdot (-b)=a\cdot b$ sonst ist die Gleichung nicht null
-- bz
+- bzw  $-a\cdot (b-b)= -a\cdot b+(-a)\cdot (-b)=0$
 ### Woher kommt das Wort **rationale Zahl*** $\mathbb{Q}$
 Sie umfasst alle Zahlen, die sich als Bruch darstellen lassen, der sowohl im Zähler als auch im Nenner ganze Zahlen enthält
 
