@@ -1372,3 +1372,8 @@ Das ist doch genau der Lehrerberuf .
 
 
 - full metal jacket, die Anfangsszene ohne den selbstmord in Ethik zeigen. Vielleicht vorher fragen, ob ich das darf....
+
+# wen lasse ich in den Differenzierungsraum 
+- tiberiu
+- dani
+- 
