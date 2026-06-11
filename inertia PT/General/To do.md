@@ -52,8 +52,9 @@
 	- mich pflegen, auf mein Äußeres und Auftreten achten
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] ohr eincremen /Teebaumöl 
+- [ ] Displayschutzfolie wechseln 
 - [ ] Ackerbohnen einfrieren 
-- [ ] Paprika in Thunfischdose umsetzen 
+- [x] Paprika in Thunfischdose umsetzen 
 - [ ] rayans mutter anrufen und sagen dass er sich ein großes Stück verbessert hat.
 - [ ] großes schneide brett spülen 
 - [ ] alle nicht-Optimierungsthemen bzgl ADHS/Autismus raus. Keine Lust mehr über das nachzudenken was ich nicht kann und was mich hindert. Ich bin kein Opfer
