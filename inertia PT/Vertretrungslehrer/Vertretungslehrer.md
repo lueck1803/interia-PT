@@ -316,7 +316,8 @@ Beispiele:
 $-\frac{1}{145}$; $\frac{\sqrt{ 2 }}{\sqrt{ 8 }}=\frac{1}{2}$; $\pu{ 0.3007 }=\frac{3007}{1000}$; $0.\overline{3}=\frac{1}{3}$ 
 
 $\mathbb{Q}$ kommt vom Wort ***Quotient***
-Daher auch ***rationale Zahlen*** das hat nichts mit Vernunft zu tun, sondern im ***Sinne eines Verhältnis zweier Zahlen***. Diese Art der Wort Verwendung entstammt Nachgeordnet 
+Daher auch ***rationale Zahlen*** das hat nichts mit Vernunft zu tun, sondern im ***Sinne eines Verhältnis zweier Zahlen***. Diese Art der Wort Verwendung entstammt Nachgeordnet von der Bezeichnung der **irrationalen Zahlen**, welche nicht mit einem Verhältnis aus zwei Zahlen dargestellt werden können.
+Diese Bedeutung von „rational“ ging aus der mathematischen Bedeutung von „irrational“ hervor – ein Begriff, der erstmals 1551 verwendet wurde –, und zwar im Kontext von „Übersetzungen Euklids (in Anlehnung an dessen eigenwillige Verwendung von *álogos*)“.
 
 
 ⟹ Dezimalschreibweise ist <u>nicht</u>, die Unterscheidung von ***reellen Zahlen*** $\mathbb{R}$ und rationalen Zahlen $\mathbb{Q}$
@@ -331,6 +332,9 @@ rationale zahlen $\mathbb{Q}$ *plus* ***irrationale Zahlen***
 	- oder $\frac{1}{3}=0.33\overline{3}$
 
 Wenngleich umgangssprachlich mit dem Wort irrational etwas assoziiert wird, was gegen die „Ratio“, also gegen die Vernunft gerichtet ist, so bezieht sich hier der Begriff der irrationalen Zahl jedoch auf den Begriff ***„Ratio“ im Sinne*** eines ***Verhältnisses zweier Zahlen***.
+
+
+In mathematics, the irrational numbers are all the real numbers that are not rational numbers; that is, irrational numbers are those that cannot be expressed as the ratio of two integers.
 ## Englisch
 ### 2026-05-18
 
