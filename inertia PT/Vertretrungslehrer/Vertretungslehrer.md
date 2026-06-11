@@ -1455,3 +1455,10 @@ https://www.darmstadt.de/presseportal/pressemitteilungen/einzelansicht/sirenenpr
 
 https://feuerwehr-darmstadt.de/fileadmin/B%C3%BCrgerinfo/Warnung_der_Bev%C3%B6lkerung/Sirenen/Sirenenalarm_Deutsch.pdf
 
+["Probealarm" (Warntag)](https://youtu.be/vhVBTYsKm-o?si=B-XcCwLe1K1QkykF):
+Bei Probealarm gilt immer:
+1 min Dauerton - Entwarnung
+1 min Anschwellend Abschwellend - "Warnung an die Bevölkerung"
+1 min Dauerton - Entwarnung
+
+Deshalb ging die Sirene 3 mal!
