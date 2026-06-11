@@ -315,9 +315,10 @@ $\mathbb{Q}$ kommt vom Wort ***Quotient***
 rationale zahlen $\mathbb{Q}$ *plus* ***irrationale Zahlen***  
 
 irrationale Zahlen: 
-- zb.
+- zb. $\pi\approx \pu{ 3.14159 }\dots$ oder $\sqrt{ 2 }\approx\pu{ 1.4142 }$
 - In der Dezimalschreibweise werden irrationale Zahlen mit einer <u>nicht-periodischen unendlichen Folge von Dezimalstellen</u> dargestellt (z. B. 0,10110111011110…), d. h., sie sind unendliche nicht-periodische Dezimalbrüche.
-	- dh. Zahlen die <u>nicht</u> $\$
+	- dh. Zahlen die <u>nicht</u> $\frac{1}{7}=0.\overline{142857}$
+	- oder $\frac{1}{3}=0.33\overline{3}$
 ## Englisch
 ### 2026-05-18
 
