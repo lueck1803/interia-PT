@@ -216,7 +216,12 @@ Arbeitsstunden KW 19:
 	- Eulerdiagramm der Teilmenge anschreiben 
 	  ![[Images/BAS/Mathe/Eulerdiagramm-Zahlensysteme.png]]
 	- natürliche Zahlen
-		- Symbol 
+		- Symbol Unterschiedliche Darstellung Handschriftlich / unicode
+	- Ein Zahlenstrahl: 
+		- dabei Natürliche zahlen eine Farbe 
+		- Ganze zahlen eine Farbe
+		- rationale zahlen
+		- "zw"
 ### knowledge base
 - was ist ein Bruch?
 	- natürliche Zahlen Zahlenstrahl 
