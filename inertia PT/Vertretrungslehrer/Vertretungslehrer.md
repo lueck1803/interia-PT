@@ -287,7 +287,18 @@ Arbeitsstunden KW 19:
 	- [ ] Tetraeder 
 	- [ ] Zylinder 
 	- [ ] Kugel 
-### Woher komm
+
+### Woher kommt das Wort ***natürliche Zahl*** $\mathbb{N}$
+An intuitive and implicit understanding of natural numbers is developed naturally through using numbers for counting, ordering and basic arithmetic. Within this are two closely related aspects of what a natural number is: the size of a collection; and a position in a sequence.
+
+### Woher kommt das Wort ***Ganze Zahl*** $\mathbb{Z}$ 
+The word integer comes from the Latin integer meaning "whole" or (literally) "untouched", from in ("not") plus tangere ("to touch"). "Entire" derives from the same origin via the French word entier, which means both entire and integer. Historically the term was used for a number that was a multiple of 1,or to the whole part of a mixed number. Only positive integers were considered, making the term synonymous with the natural numbers. The definition of integer expanded over time to include negative numbers as their usefulness was recognized.For example Leonhard Euler in his 1765 Elements of Algebra defined integers to include both positive and negative numbers.
+
+$\mathbb{Z}$ kommt vom Wort Zahl
+
+### Woher kommt das Wort **rationale Zahl*** $\mathbb{Q}$
+
+
 ## Englisch
 ### 2026-05-18
 
