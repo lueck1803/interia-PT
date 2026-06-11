@@ -346,10 +346,12 @@ $\mathbb{Z}$ kommt vom Wort Zahl
 - ich nehme dir 3 mal 20€ Schulden ⟹man wird reicher
 	- $-3\cdot -20 \text{€}=+60\text{€}$ 
 
+### Geschwindigkeit und rückwärts laufende Zeit zb Video 
 ### Gruppentheorie 
 - $a\cdot 0=0$
 - Distributionsgesetz $a\cdot (b+c)=a\cdot b+a\cdot c$
 
+damit das gelten kann 
 - 
 ### Woher kommt das Wort **rationale Zahl*** $\mathbb{Q}$
 Sie umfasst alle Zahlen, die sich als Bruch darstellen lassen, der sowohl im Zähler als auch im Nenner ganze Zahlen enthält
