@@ -343,7 +343,7 @@ $\mathbb{Z}$ kommt vom Wort Zahl
 	- $-3\cdot 20 \text{€}=60\text{€}$ 
 - ich gebe dir 3 mal 20€ Schulden 
 	- $3\cdot -20 \text{€}=-60\text{€}$ 
-- ich nehme dir 3 mal 20€ Schulden 
+- ich nehme dir 3 mal 20€ Schulden ⟹man wird reicher
 	- $-3\cdot -20 \text{€}=+60\text{€}$ 
 ### Woher kommt das Wort **rationale Zahl*** $\mathbb{Q}$
 Sie umfasst alle Zahlen, die sich als Bruch darstellen lassen, der sowohl im Zähler als auch im Nenner ganze Zahlen enthält
