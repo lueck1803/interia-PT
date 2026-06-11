@@ -319,6 +319,7 @@ $\mathbb{Q}$ kommt vom Wort ***Quotient***
 Daher auch ***rationale Zahlen*** das hat nichts mit Vernunft zu tun, sondern im ***Sinne eines Verhältnis zweier Zahlen***. Diese Art der Wort Verwendung entstammt Nachgeordnet von der Bezeichnung der **irrationalen Zahlen**, welche nicht mit einem Verhältnis aus zwei Zahlen dargestellt werden können.
 Diese Bedeutung von „rational“ ging aus der mathematischen Bedeutung von „irrational“ hervor – ein Begriff, der erstmals 1551 verwendet wurde –, und zwar im Kontext von „Übersetzungen Euklids (in Anlehnung an dessen eigenwillige Verwendung von *álogos*)“.
 
+*Although nowadays rational numbers are defined in terms of ratios, the term rational is not a derivation of ratio. On the contrary, it is ratio that is derived from rational: the first use of ratio with its modern meaning was attested in English about 1660, while the use of rational for qualifying numbers appeared almost a century earlier, in 1570. This meaning of rational came from the mathematical meaning of irrational, which was first used in 1551, and it was used in "translations of Euclid (following his peculiar use of ἄλογος)".*
 
 ⟹ Dezimalschreibweise ist <u>nicht</u>, die Unterscheidung von ***reellen Zahlen*** $\mathbb{R}$ und rationalen Zahlen $\mathbb{Q}$
 ### ***reelle Zahlen*** $\mathbb{R}$
@@ -335,6 +336,8 @@ Wenngleich umgangssprachlich mit dem Wort irrational etwas assoziiert wird, was 
 
 
 In mathematics, the irrational numbers are all the real numbers that are not rational numbers; that is, irrational numbers are those that cannot be expressed as the ratio of two integers.
+
+Greek mathematicians termed this ratio of incommensurable magnitudes alogos (ἄλογος), or inexpressible.
 ## Englisch
 ### 2026-05-18
 
