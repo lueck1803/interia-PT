@@ -221,7 +221,7 @@ Tafelbild Überschrift **Zahlensysteme und Einheiten umrechnen**
 		- Symbol Unterschiedliche Darstellung Handschriftlich / unicode
 		- $\mathbb{N}_{0}=\left\{ 0,1,2,3,\dots \right\}=\mathbb{N}\cup \{0\}$  
 		- $\mathbb{N}=\left\{1,2,3,\dots \right\}$
-	- ganze Zahlen
+	- ganze Zahlen/Integer
 		- 
 	- Ein Zahlenstrahl: 
 		- dabei Natürliche zahlen eine Farbe 
