@@ -322,7 +322,7 @@ $\mathbb{Z}$ kommt vom Wort Zahl
 
 
 ### warum ist $-1 \cdot-1=1$?
-
+### Mustererkennung 
 - $2 \cdot 3 =6$
 - $2 \cdot 2=4$   $-1$⟹$-2$
 - $2\cdot 1 =2$
@@ -336,6 +336,7 @@ $\mathbb{Z}$ kommt vom Wort Zahl
 - $0\cdot -3=0$
 - $-1\cdot -3=3$
 - $-2\cdot -3=6$
+### schul
 ### Woher kommt das Wort **rationale Zahl*** $\mathbb{Q}$
 Sie umfasst alle Zahlen, die sich als Bruch darstellen lassen, der sowohl im Zähler als auch im Nenner ganze Zahlen enthält
 
