@@ -222,7 +222,7 @@ Tafelbild Überschrift **Zahlensysteme und Einheiten umrechnen**
 		- $\mathbb{N}_{0}=\left\{ 0,1,2,3,\dots \right\}=\mathbb{N}\cup \{0\}$  
 		- $\mathbb{N}=\left\{1,2,3,\dots \right\}$
 	- ganze Zahlen/Integer
-		- 
+		- erweite
 	- Ein Zahlenstrahl: 
 		- dabei Natürliche zahlen eine Farbe 
 		- Ganze zahlen eine Farbe
