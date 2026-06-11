@@ -320,6 +320,18 @@ The word integer comes from the Latin integer meaning "whole" or (literally) "un
 
 $\mathbb{Z}$ kommt vom Wort Zahl
 
+
+### warum ist $-1 \cdot-1=1$?
+- $2 \cdot 3 =6$
+- $2 \cdot 2=4$   $-1$⟹$-2$
+- $2\cdot 1 =2$
+- $2\cdot 0=0$
+- $2\cdot -1=-2$
+- $2\cdot-2=-4$
+- $2\cdot-3=-6$
+
+- $1\cdot -3=-3$
+- $0\cdot -3=0$
 ### Woher kommt das Wort **rationale Zahl*** $\mathbb{Q}$
 Sie umfasst alle Zahlen, die sich als Bruch darstellen lassen, der sowohl im Zähler als auch im Nenner ganze Zahlen enthält
 
