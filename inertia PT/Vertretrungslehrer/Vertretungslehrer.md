@@ -1497,6 +1497,9 @@ Das ist doch genau der Lehrerberuf .
 		- ich habe nie gesagt dass meine Version die einzige richtige ist. 
 		- von euch kommt "falsch " 🤣
 
+- Nehmt mir auch nicht böse, wenn ich mal nen Namen falsch schreibe.
+- Ich hab manchmal extreme Probleme damit zu wissen, wie man ein Wort schreibt in einem Moment. xD 
+- total verrückt. Ich weiß wie man die 
 # Verhalten in Notfällen
 https://www.sirenen-signale.de/wiki/sirenensignale/europa/deutschland
 
