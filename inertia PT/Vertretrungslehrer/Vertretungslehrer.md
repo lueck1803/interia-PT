@@ -1378,4 +1378,32 @@ Das ist doch genau der Lehrerberuf .
 - dani
 - lisa Marie 
 - karyna 
-- Noble 
+- Noble 🫳
+
+# Anrufen
+- rayan:
+	- loben aber auch respektlos 
+	- er schwankt 
+	- sehr häufig sexualisierte Aussagen 
+- amin:
+	- hauptstörenfried
+	- Barrikaden aufgebaut 
+	- sehr häufig sexualisierte Aussagen
+- Mohamed 
+	- hauptstörenfried 
+	- Barrikaden aufgebaut 
+- glordi 
+	- sein Verhalten war besser
+	- ist jetzt wieder unerträglich 
+	- bleibt ewig dem Unterricht fern, wenn er auf Toilette 
+	- sehr häufig sexualisierte Aussagen
+		- wirft rayan ständig vor er würde goonen
+- Shirin 
+	- Verhalten schwankt extrem 
+	- Verdacht Chatgpt in Deutscharbeit benutzt zu haben 
+- delsa
+	- Verhalten schwankt extrem
+	- Verdacht Chatgpt in Deutscharbeit benutzt zu haben 
+- Finlay 
+	- Verhalten schwankt extrem 
+	- Verdacht Chatgpt in Deutscharbeit benutzt zu haben
