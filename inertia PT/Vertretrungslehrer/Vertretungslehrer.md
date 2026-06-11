@@ -1376,4 +1376,6 @@ Das ist doch genau der Lehrerberuf .
 # wen lasse ich in den Differenzierungsraum 
 - tiberiu
 - dani
-- 
+- lisa Marie 
+- karyna 
+- Noble 
