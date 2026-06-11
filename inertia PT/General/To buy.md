@@ -1,7 +1,7 @@
 - [ ] saft
 - [ ] tofu
-- [x] zink tabletten
 - [ ] toast
+- [ ] Nusskati 
 - [x] pizza
 - [x] hafermilch
 - [x] Schmelzkäse Scheiben 
@@ -9,7 +9,6 @@
 - [x] Pesto 
 - [x] schoko chips
 - [x] schoki
-- [x] Nusskati 
 - [ ] grüne Erbsen 
 - [x] Chipotle mayo
 - [x] schokomüsli
@@ -18,6 +17,7 @@
 - [x] Margarine 
 - [x] gewürz Ketchup 
 - [x] hummus
+- [x] zink tabletten
 - türke
 	- [ ] weiße bohnen 
 	- [ ] kalamata oliven 
@@ -50,6 +50,7 @@
 - [x] nussmix
 
 # Technik
+- [ ] 3d Drucker 
 - [ ] 2m USB-C Kabel
 - [ ] Gute Kamera bzw. besseres Handy
 	- damit ich mich bei Tätigkeiten filmen kann ⟹ für die Schule
