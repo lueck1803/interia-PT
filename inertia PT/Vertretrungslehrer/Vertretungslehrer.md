@@ -1419,7 +1419,9 @@ Das ist doch genau der Lehrerberuf .
 - Finlay 
 	- Verhalten schwankt extrem 
 	- Verdacht Chatgpt in Deutscharbeit benutzt zu haben
-	- extrem schnell fertig, war sich zu 
+	- extrem schnell fertig, war sich zu sicher mit der 1
+	- hat den gleichen Chatgpt Fehler in der Tabelle 
+	- als ich ihn gelobt habe, hatte er ein Lachen und Grinsen im Gesicht was er nicht unterdrücken konnte
 ## Regeln 
 - Name an der Tafel ⟹ 5 Striche  Eltern anrufen 
 - 3 mal Eltern angerufen ⟹ Maßnahme 
