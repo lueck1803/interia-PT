@@ -1411,6 +1411,11 @@ Das ist doch genau der Lehrerberuf .
 - delsa
 	- Verhalten schwankt extrem
 	- Verdacht Chatgpt in Deutscharbeit benutzt zu haben 
+	- verdächtiges Verhalten während Arbeit, erst nix gemacht und dann auf einmal ging es, wolltest dass ich mich fernhalte
+	- dann sind mir typische Chatgpt Fehler aufgefallen, das habe ich überprüft, kam genau dieser Fehler raus 
+	- bei der Nachbesprechung der Aufgabe 1b) warst du komplett planlos als ich von dir eine Begründung wollte, dafür war diese Aufgabe zu gut gelöst.
+	- einige wie Glordi haben die Aufgabe ehrlicherweise zum Teil nicht bearbeitet 
+	- viele hatten da typische /erwartbare Fehler die sind anderen passiert 
 - Finlay 
 	- Verhalten schwankt extrem 
 	- Verdacht Chatgpt in Deutscharbeit benutzt zu haben
