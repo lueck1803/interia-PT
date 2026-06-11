@@ -309,16 +309,21 @@ Der Bruch 3⁄4 beispielsweise stellt dar:
 
 
 $\mathbb{Q}$ kommt vom Wort ***Quotient***
+Daher auch ***rationale Zahlen*** das hat nichts mit Vernunft zu tun, sondern im ***Sinne eines Verhältnis zweier Zahlen***.
+
+In mathematics, "rational" is often used as a noun abbreviating "rational number". The adjective rational sometimes means that the coefficients are rational numbers. For example, a rational point is a point with rational coordinates (i.e., a point whose coordinates are rational numbers); a rational matrix is a matrix of rational numbers, though it sometimes also refers to a matrix whose entries are rational functions; a rational polynomial may be a polynomial with rational coefficients, although the term "polynomial over the rationals" is generally preferred, to avoid confusion between "rational expression" and "rational function" (a polynomial is a rational expression and defines a rational function, even if its coefficients are not rational numbers). However, a rational curve is not a curve defined over the rationals, but a curve which can be parameterized by rational functions.
 
 ⟹ Dezimalschreibweise <u>bedeutet nicht</u>, dass es ***reelle Zahlen*** sind
 ### ***reelle Zahlen*** $\mathbb{R}$
 rationale zahlen $\mathbb{Q}$ *plus* ***irrationale Zahlen***  
 
 irrationale Zahlen: 
-- zb. $\pi\approx \pu{ 3.14159 }\dots$ oder $\sqrt{ 2 }\approx\pu{ 1.4142 }$
+- zb. $\pi\approx \pu{ 3.14159}\dots$ oder $\sqrt{ 2 }\approx\pu{ 1.4142135\dots }$ 
 - In der Dezimalschreibweise werden irrationale Zahlen mit einer <u>nicht-periodischen unendlichen Folge von Dezimalstellen</u> dargestellt (z. B. 0,10110111011110…), d. h., sie sind unendliche nicht-periodische Dezimalbrüche.
 	- dh. Zahlen die <u>nicht</u> $\frac{1}{7}=0.\overline{142857}$
 	- oder $\frac{1}{3}=0.33\overline{3}$
+
+Wenngleich umgangssprachlich mit dem Wort irrational etwas assoziiert wird, was gegen die „Ratio“, also gegen die Vernunft gerichtet ist, so bezieht sich hier der Begriff der irrationalen Zahl jedoch auf den Begriff ***„Ratio“ im Sinne*** eines ***Verhältnisses zweier Zahlen***.
 ## Englisch
 ### 2026-05-18
 
