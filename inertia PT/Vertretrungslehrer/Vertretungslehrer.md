@@ -333,6 +333,7 @@ $\mathbb{Z}$ kommt vom Wort Zahl
 - $2\cdot -3=-6$
 - $1\cdot -3=-3$
 - $0\cdot -3=0$
+- $-1\cdot -3=3$
 - 
 ### Woher kommt das Wort **rationale Zahl*** $\mathbb{Q}$
 Sie umfasst alle Zahlen, die sich als Bruch darstellen lassen, der sowohl im Zähler als auch im Nenner ganze Zahlen enthält
