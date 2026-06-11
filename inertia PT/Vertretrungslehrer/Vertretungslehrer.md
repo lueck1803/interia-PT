@@ -1499,7 +1499,12 @@ Das ist doch genau der Lehrerberuf .
 
 - Nehmt mir auch nicht böse, wenn ich mal nen Namen falsch schreibe.
 - Ich hab manchmal extreme Probleme damit zu wissen, wie man ein Wort schreibt in einem Moment. xD 
-- total verrückt. Ich weiß wie man die 
+- total verrückt. Ich weiß wie man die Wörter schreibt, ich hab die schon 100k mal geschrieben.
+- in manchen Momenten bin ich dann total verunsichert und habe einfach vergessen wie man das schreibt.
+- ich hab dann nur einen Buchstaben vergessen und ich sehe das nicht, bin aber total irritiert daran, dass mir das Wort als Fehler angestrichen wird
+- Engagement habe ich vorhin ***Engagment*** geschrieben und ich war total verunsichert ob mein ganzes Konzept von dem Wort überhaupt noch stimmt xD
+- Deshalb nehmt mir nicht übel, wenn ich Shirin statt Sherin schreibe....
+- Es gibt nunmal auch den Namen Shirin
 # Verhalten in Notfällen
 https://www.sirenen-signale.de/wiki/sirenensignale/europa/deutschland
 
