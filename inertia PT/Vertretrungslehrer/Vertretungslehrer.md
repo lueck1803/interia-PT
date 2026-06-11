@@ -216,7 +216,15 @@ Arbeitsstunden KW 19:
 	- ganze Zahlen Zahlenstrahl 
 	- rationale Zahlen Zahlenstrahl 
 	- bruch Bezeichnungen aufschreiben 
-	- 
+	- Beispiel: Pizza aufteilen 
+		- was ist ein 4tel
+		- was ist ein 8tel
+		- was ist ein 6tel
+	- Bruch größer/ kleiner 
+		- $\frac{1}{6}$ vs $\frac{1}{5}$ 
+		- $\frac{5}{6}$ vs $\frac{4}{5}$ 
+		- $\frac{2}{3}$ vs $\frac{3}{4}$
+		- 
 
 - Zentimeter deutsche Rechtschreibung - Shirin hatte da natürlich Recht, dem habe ich auch nicht widersprochen 
 - lat. Decem - zehn
