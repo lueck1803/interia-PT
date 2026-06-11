@@ -316,11 +316,10 @@ Beispiele:
 $-\frac{1}{145}$; $\frac{\sqrt{ 2 }}{\sqrt{ 8 }}=\frac{1}{2}$; $\pu{ 0.3007 }=\frac{3007}{1000}$; $0.\overline{3}=\frac{1}{3}$ 
 
 $\mathbb{Q}$ kommt vom Wort ***Quotient***
-Daher auch ***rationale Zahlen*** das hat nichts mit Vernunft zu tun, sondern im ***Sinne eines Verhältnis zweier Zahlen***.
+Daher auch ***rationale Zahlen*** das hat nichts mit Vernunft zu tun, sondern im ***Sinne eines Verhältnis zweier Zahlen***. Diese Art der Wort Verwendung entstammt Nachgeordnet 
 
-In mathematics, "rational" is often used as a noun abbreviating "rational number". The adjective rational sometimes means that the coefficients are rational numbers. For example, a rational point is a point with rational coordinates (i.e., a point whose coordinates are rational numbers); a rational matrix is a matrix of rational numbers, though it sometimes also refers to a matrix whose entries are rational functions; a rational polynomial may be a polynomial with rational coefficients, although the term "polynomial over the rationals" is generally preferred, to avoid confusion between "rational expression" and "rational function" (a polynomial is a rational expression and defines a rational function, even if its coefficients are not rational numbers). However, a rational curve is not a curve defined over the rationals, but a curve which can be parameterized by rational functions.
 
-⟹ Dezimalschreibweise <u>bedeutet nicht</u>, dass es ***reelle Zahlen*** sind
+⟹ Dezimalschreibweise ist <u>nicht</u>, die Unterscheidung von ***reellen Zahlen*** $\mathbb{R}$ und rationalen Zahlen $\mathbb{Q}$
 ### ***reelle Zahlen*** $\mathbb{R}$
 rationale zahlen $\mathbb{Q}$ *plus* ***irrationale Zahlen***  
 
