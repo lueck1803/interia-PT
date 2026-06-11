@@ -51,6 +51,7 @@
 	- Ordnung halten 
 	- mich pflegen, auf mein Äußeres und Auftreten achten
 - [ ] neuen Kalender für Schule erstellen 
+- [ ] USB-Stick suchen, auch Bürgerpark
 - [ ] ohr eincremen /Teebaumöl 
 - [ ] Displayschutzfolie wechseln 
 - [ ] Ackerbohnen einfrieren 
