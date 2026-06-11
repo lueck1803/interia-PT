@@ -291,6 +291,8 @@ Arbeitsstunden KW 19:
 ### Woher kommt das Wort ***natürliche Zahl*** $\mathbb{N}$
 An intuitive and implicit understanding of natural numbers is developed naturally through using numbers for counting, ordering and basic arithmetic. Within this are two closely related aspects of what a natural number is: the size of a collection; and a position in a sequence.
 
+$\mathbb{N}_{0}=\left\{ 0,1,2,3,\dots \right\}=\mathbb{N}\cup \{0\}$ 
+$\mathbb{N}$
 ### Woher kommt das Wort ***Ganze Zahl*** $\mathbb{Z}$ 
 The word integer comes from the Latin integer meaning "whole" or (literally) "untouched", from in ("not") plus tangere ("to touch"). "Entire" derives from the same origin via the French word entier, which means both entire and integer. Historically the term was used for a number that was a multiple of 1,or to the whole part of a mixed number. Only positive integers were considered, making the term synonymous with the natural numbers. The definition of integer expanded over time to include negative numbers as their usefulness was recognized.For example Leonhard Euler in his 1765 Elements of Algebra defined integers to include both positive and negative numbers.
 
@@ -307,6 +309,9 @@ Der Bruch 3⁄4 beispielsweise stellt dar:
 2. das Ergebnis der Division als eigene (Bruch-)Zahl 3⁄4 (drei Viertel),
 3. den Auftrag: „Teile in 4 Teile, nimm 3“ (drei von vier (Teilen)).
 
+$$
+\mathbb{Q}=\left\{ \frac{p}{q}:p,q\in\mathbb{Z} \text{ und } q\ne 0 \right\} 
+$$
 
 $\mathbb{Q}$ kommt vom Wort ***Quotient***
 Daher auch ***rationale Zahlen*** das hat nichts mit Vernunft zu tun, sondern im ***Sinne eines Verhältnis zweier Zahlen***.
