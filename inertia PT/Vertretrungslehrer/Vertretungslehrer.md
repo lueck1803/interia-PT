@@ -228,7 +228,9 @@ Arbeitsstunden KW 19:
 		- $\frac{2}{3}$ vs $\frac{3}{5}$ 
 	- gemeinsamer Bruch 
 		- $\frac{2}{3} \cdot \frac{5}{5}= \frac{10}{15}$ 
-		- $\frac{3}{5} \frac{3}{3}$ 
+		- $\frac{3}{5} \cdot \frac{3}{3}=\frac{9}{15}$ 
+	- Addition 
+		- $\frac{2}{3}+\frac{3}{5}=\frac{10}{15}+\frac{9}{15}=\frac{19}{15}$
 
 - Zentimeter deutsche Rechtschreibung - Shirin hatte da natürlich Recht, dem habe ich auch nicht widersprochen 
 - lat. Decem - zehn
