@@ -224,7 +224,7 @@ Arbeitsstunden KW 19:
 		- $\frac{1}{6}$ vs $\frac{1}{5}$ 
 		- $\frac{5}{6}$ vs $\frac{4}{5}$ 
 		- $\frac{2}{3}$ vs $\frac{3}{4}$
-		- 
+		- $\frac{4}{5}$ vs $\frac{3}{4}$ 
 
 - Zentimeter deutsche Rechtschreibung - Shirin hatte da natürlich Recht, dem habe ich auch nicht widersprochen 
 - lat. Decem - zehn
