@@ -355,6 +355,7 @@ damit das gelten kann
 - $a,b>0$
 - Gegenteil von $a$ ⟹ $-a \cdot 0= 0$
 - $0=b-b$
+- $-a\cdot (b-b)$
 ### Woher kommt das Wort **rationale Zahl*** $\mathbb{Q}$
 Sie umfasst alle Zahlen, die sich als Bruch darstellen lassen, der sowohl im Zähler als auch im Nenner ganze Zahlen enthält
 
