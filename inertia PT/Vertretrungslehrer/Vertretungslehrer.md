@@ -219,10 +219,11 @@ Tafelbild Überschrift **Zahlensysteme und Einheiten umrechnen**
 	  ![[Images/BAS/Mathe/Eulerdiagramm-Zahlensysteme.png]]
 	- natürliche Zahlen
 		- Symbol Unterschiedliche Darstellung Handschriftlich / unicode
+		- natürlich im Sinne von
 		- $\mathbb{N}_{0}=\left\{ 0,1,2,3,\dots \right\}=\mathbb{N}\cup \{0\}$  
 		- $\mathbb{N}=\left\{1,2,3,\dots \right\}$
 	- ganze Zahlen/Integer
-		- erweite
+		- Erweiterung der natürlichen Zahlen 
 	- Ein Zahlenstrahl: 
 		- dabei Natürliche zahlen eine Farbe 
 		- Ganze zahlen eine Farbe
