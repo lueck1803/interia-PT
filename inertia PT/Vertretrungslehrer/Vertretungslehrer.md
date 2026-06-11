@@ -220,10 +220,18 @@ Tafelbild Überschrift **Zahlensysteme und Einheiten umrechnen**
 	- natürliche Zahlen
 		- Symbol Unterschiedliche Darstellung Handschriftlich / unicode
 		- natürlich im Sinne von
+			- zählen 
+			- ordnen von Mengen größer/kleiner
+			- Addition und Multiplikation 
 		- $\mathbb{N}_{0}=\left\{ 0,1,2,3,\dots \right\}=\mathbb{N}\cup \{0\}$  
 		- $\mathbb{N}=\left\{1,2,3,\dots \right\}$
 	- ganze Zahlen/Integer
 		- Erweiterung der natürlichen Zahlen 
+		- wozu?
+			- schulden 
+			- Geschwindigkeit 
+			- Richtungsangaben bei Bezugspunkten
+			- 
 	- Ein Zahlenstrahl: 
 		- dabei Natürliche zahlen eine Farbe 
 		- Ganze zahlen eine Farbe
