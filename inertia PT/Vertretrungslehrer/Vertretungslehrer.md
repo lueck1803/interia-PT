@@ -297,7 +297,9 @@ The word integer comes from the Latin integer meaning "whole" or (literally) "un
 $\mathbb{Z}$ kommt vom Wort Zahl
 
 ### Woher kommt das Wort **rationale Zahl*** $\mathbb{Q}$
+Sie umfasst alle Zahlen, die sich als Bruch darstellen lassen, der sowohl im Zähler als auch im Nenner ganze Zahlen enthält
 
+$\mathbb{Q}$ kommt vom Wort ***Quotient***
 
 ## Englisch
 ### 2026-05-18
