@@ -234,7 +234,7 @@ Arbeitsstunden KW 19:
 
 - Zentimeter deutsche Rechtschreibung - Shirin hatte da natürlich Recht, dem habe ich auch nicht widersprochen 
 - lat. Decem - zehn
-- lat. Ce
+- lat. Centum - hundert
 - lat. Milli - tausend 
 - griech. Mikros - klein - eine millionstel
 - 10er potzen
