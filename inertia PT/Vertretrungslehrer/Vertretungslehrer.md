@@ -338,9 +338,13 @@ $\mathbb{Z}$ kommt vom Wort Zahl
 - $-2\cdot -3=6$
 ### schulden
 - ich gebe dir 3 mal 20€ 
-	- $3\cdot \pu{ 20 \€ }=60€$
+	- $3\cdot 20 \text{€}=60\text{€}$ 
 - ich nehme dir 3 mal 20€ weg
-	- 
+	- $-3\cdot 20 \text{€}=60\text{€}$ 
+- ich gebe dir 3 mal 20€ Schulden 
+	- $3\cdot -20 \text{€}=-60\text{€}$ 
+- ich nehme dir 3 mal 20€ Schulden 
+	- $-3\cdot -20 \text{€}=+60\text{€}$ 
 ### Woher kommt das Wort **rationale Zahl*** $\mathbb{Q}$
 Sie umfasst alle Zahlen, die sich als Bruch darstellen lassen, der sowohl im Zähler als auch im Nenner ganze Zahlen enthält
 
