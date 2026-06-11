@@ -1445,3 +1445,13 @@ Das ist doch genau der Lehrerberuf .
 		- dann sage ich etwas dazu, aber gebt mir doch die Möglichkeit 
 		- ich habe nie gesagt dass meine Version die einzige richtige ist. 
 		- von euch kommt "falsch " 🤣
+
+# Verhalten in Notfällen
+https://www.sirenen-signale.de/wiki/sirenensignale/europa/deutschland
+
+https://feuerwehr-wettersbach.de/site/sicherheitstipps/sirenensignale-und-ihre-bedeutung.html
+
+https://www.darmstadt.de/presseportal/pressemitteilungen/einzelansicht/sirenenprobe-2
+
+https://feuerwehr-darmstadt.de/fileadmin/B%C3%BCrgerinfo/Warnung_der_Bev%C3%B6lkerung/Sirenen/Sirenenalarm_Deutsch.pdf
+
