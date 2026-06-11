@@ -212,11 +212,17 @@ Arbeitsstunden KW 19:
 
 ## Mathe
 ### timeline
+Tafelbild Überschrift **Zahlensysteme und Einheiten umrechnen**
+
 - natürliche, ganze zahlen, rationale und reelle zahlen 
 	- Eulerdiagramm der Teilmenge anschreiben 
 	  ![[Images/BAS/Mathe/Eulerdiagramm-Zahlensysteme.png]]
 	- natürliche Zahlen
 		- Symbol Unterschiedliche Darstellung Handschriftlich / unicode
+		- $\mathbb{N}_{0}=\left\{ 0,1,2,3,\dots \right\}=\mathbb{N}\cup \{0\}$  
+		- $\mathbb{N}=\left\{1,2,3,\dots \right\}$
+	- ganze Zahlen
+		- 
 	- Ein Zahlenstrahl: 
 		- dabei Natürliche zahlen eine Farbe 
 		- Ganze zahlen eine Farbe
