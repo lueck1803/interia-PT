@@ -214,6 +214,7 @@ Arbeitsstunden KW 19:
 ### timeline
 - natürliche, ganze zahlen, rationale und reelle zahlen 
 	- Eulerdiagramm der Teilmenge anschreiben 
+	  ![[Images/BAS/Mathe/Eulerdiagramm-Zahlensysteme.png]]
 	- natürliche Zahlen
 		- Symbol 
 ### knowledge base
