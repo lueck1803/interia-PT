@@ -61,7 +61,6 @@
 - [ ] alle nicht-Optimierungsthemen bzgl ADHS/Autismus raus. Keine Lust mehr über das nachzudenken was ich nicht kann und was mich hindert. Ich bin kein Opfer
 	- [ ] watch later knallhart aufräumen 
 - [ ] saugen 
-- [ ] Schnellkochtopf 
 - [ ] how to add app to accessibility manually 
 - [ ] Sprachaufzeichnung transkribieren 
 - [ ] Akteneintrag Esma fertig machen
