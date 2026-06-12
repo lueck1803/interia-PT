@@ -212,6 +212,27 @@ Arbeitsstunden KW 19:
 
 ## Mathe
 ### timeline
+
+#### mo 15.6
+
+- Addition, subtraktion, Multiplikation und Division von Brüchen an schreiben
+- Während die die Aufgabe rechnen:
+	- $1~\mathrm{in} =2.54~\mathrm{ cm}$ 
+	- $1=\frac{\pu{ 1 in }}{\pu{ 2.54cm }}$
+	- $\pu{ 64cm }=\pu{ 64 \cancel{cm} } \cdot \frac{\pu{ 1in }}{\pu{ 2.54\cancel{cm} }}= \frac{64}{2.54}\pu{ in }=\pu{ 25.19685 in }$
+	- ~={DeepSkyBlue}Aufgabe=~ 
+	- 55 miles per hour $\pu{ 55 mi//h}$ in $\pu{ km//h }$ and $\pu{ m//s }$ 
+	- $1~\mathrm{in} =2.54~\mathrm{ cm}$ 
+	- $\pu{ 1mi }=\pu{ 5280 ft }$
+	- $\pu{ 1ft }=\pu{ 12in }$
+	- $\pu{ 1m }=\pu{ 100cm }$
+	- $\pu{ 1km }=\pu{ 1000m }$
+	- $\pu{ 1h }=\pu{ 60min }$
+	- $\pu{ 1min }=\pu{ 60s }$
+	- ~={RedRed}Lösung: =~
+	- $\pu{ 55 mi//h}= $
+
+#### fr 12.6.
 Tafelbild Überschrift **Zahlensysteme und Einheiten umrechnen**
 
 - natürliche, ganze zahlen, rationale und reelle zahlen 
