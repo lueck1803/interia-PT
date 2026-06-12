@@ -238,7 +238,8 @@ Arbeitsstunden KW 19:
 	- $\pu{ 55 mi//h}=55 \cdot 5280 \cdot 12 \cdot 2.54 \pu{\cancel{cm}//h} \cdot \pu{ {1\cancel{m}}//100\cancel{cm} } \cdot \pu{ {1km}//1000\cancel{m} }=55 \cdot 5280 \cdot 12 \cdot 2.54 \cdot \frac{1}{100} \cdot \frac{1}{1000} \pu{km//h}=88.51392\pu{km//h}$ 
 	  ⤷$\pu{ 55 mi//h}=88.51392\pu{km//h}$ 
 	
-	- $\pu{ 55 mi//h}=88513.92\pu{m//\cancel{h}}\cdot \pu{{1\cancel{h}}//60min}= mi//h}=\frac{88513.92}{60}\pu{m//min}$
+	- $\pu{ 55 mi//h}=88513.92\pu{m//\cancel{h}}\cdot \pu{{1\cancel{h}}//60min}=\frac{88513.92}{60}\pu{m//min}$
+	- $\pu{ 55 mi//h}=\frac{88513.92}{60}\pu{m//\cancel{min}} \cdot \pu{ {1\cancel{min}}//60s}=\frac{88513.92}{60\cdot60}\pu{m//s}=\frac{88513.92}{3600}\pu{m//s}=24.5872\pu{m//s}$ 
 	
 
 #### fr 12.6.
