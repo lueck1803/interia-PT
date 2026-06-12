@@ -66,10 +66,7 @@
 - [ ] Sprachaufzeichnung transkribieren 
 - [ ] Akteneintrag Esma fertig machen
 - [ ] wenn ich proposal abgegeben habe, kaufe ich mir ein Ticket für das Festival 
-- [ ] Zählerstand eintragen 
-	- [x] Mail an Bauverein geschickt 
-	- [ ] in den Briefkasten schauen 
-		- war noch nix drin 8.6.
+
 - [ ] Wort Opferhaltung erklären 
 	- [ ] Opferhaltung ist das Gegenteil von opfer sein
 	- [ ] prinzipiell schlimmer, denn man macht sich selbst emotional zum Opfer 
@@ -474,6 +471,11 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] Outlook task planner zeug eintragen was mir Mischa aufgetragen und nicht selbst schon eingetragen hat 
 - [ ] 
 # Papierkram
+- [x] Zählerstand eintragen 
+	- [x] Mail an Bauverein geschickt 
+	- [x] in den Briefkasten schauen 
+		- war noch nix drin 8.6.
+	- [x] 12.6.2026 eingetragen
 - [ ] Lebenslauf / CV
 	- [x] Arbeit am Staatstheater Darmstadt hinzufügen
 	- [x] Wann habe ich im MPA gearbeitet
