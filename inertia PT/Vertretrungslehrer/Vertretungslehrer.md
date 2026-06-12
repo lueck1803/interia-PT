@@ -214,8 +214,14 @@ Arbeitsstunden KW 19:
 ### timeline
 
 #### mo 15.6
-
+- erstmal klären, was vom letzten mal unklar war und $\mathbb{Q}$ anschreiben $$
+\mathbb{Q}=\left\{ \frac{p}{q}:p,q\in\mathbb{Z} \text{ und } q\ne 0 \right\} 
+$$ Fragen was nicht verstanden wurde
 - Addition, subtraktion, Multiplikation und Division von Brüchen an schreiben
+	- Multiplikation $$
+	- Division
+	- Addition
+	- Subtraktion
 - Während die die Aufgabe rechnen:
 	- $1~\mathrm{in} =2.54~\mathrm{ cm}$ 
 	- $1=\frac{\pu{ 1 in }}{\pu{ 2.54cm }}$
