@@ -56,7 +56,6 @@
 - [ ] ohr eincremen /Teebaumöl 
 - [ ] Displayschutzfolie wechseln 
 - [ ] Ackerbohnen einfrieren 
-- [x] Paprika in Thunfischdose umsetzen 
 - [ ] rayans mutter anrufen und sagen dass er sich ein großes Stück verbessert hat.
 - [ ] großes schneide brett spülen 
 - [ ] alle nicht-Optimierungsthemen bzgl ADHS/Autismus raus. Keine Lust mehr über das nachzudenken was ich nicht kann und was mich hindert. Ich bin kein Opfer
@@ -66,7 +65,6 @@
 - [ ] how to add app to accessibility manually 
 - [ ] Sprachaufzeichnung transkribieren 
 - [ ] Akteneintrag Esma fertig machen
-- [x] Friseur 
 - [ ] wenn ich proposal abgegeben habe, kaufe ich mir ein Ticket für das Festival 
 - [ ] Zählerstand eintragen 
 	- [x] Mail an Bauverein geschickt 
