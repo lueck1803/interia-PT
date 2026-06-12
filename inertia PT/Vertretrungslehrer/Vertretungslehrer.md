@@ -234,10 +234,11 @@ Arbeitsstunden KW 19:
 	- $\pu{ 55 mi//h}=55 \cdot 5280\pu{ft//h}$ 
 	- $\pu{ 55 mi//h}=55 \cdot 5280\pu{\cancel{ft}//h} \cdot \pu{ 12 inch//\cancel{ft} }=55 \cdot 5280 \cdot 12 \pu{inch//h}$
 	- $\pu{ 55 mi//h}=55 \cdot 5280 \cdot 12 \pu{\cancel{inch}//h} \cdot \pu{ {2.54cm}// 1 \cancel{inch} }=55 \cdot 5280 \cdot 12 \cdot 2.54 \pu{cm//h}$
-	- $\pu{ 55 mi//h}=55 \cdot 5280 \cdot 12 \cdot 2.54 \pu{\cancel{cm}//h} \cdot \pu{ {1m}//100\cancel{cm} }=55 \cdot 5280 \cdot 12 \cdot 2.54 \cdot \frac{1}{100} \pu{m//h}$ 
+	- $\pu{ 55 mi//h}=55 \cdot 5280 \cdot 12 \cdot 2.54 \pu{\cancel{cm}//h} \cdot \pu{ {1m}//100\cancel{cm} }=55 \cdot 5280 \cdot 12 \cdot 2.54 \cdot \frac{1}{100} \pu{m//h}= \pu{88513.92 m//h}$ 
 	- $\pu{ 55 mi//h}=55 \cdot 5280 \cdot 12 \cdot 2.54 \pu{\cancel{cm}//h} \cdot \pu{ {1\cancel{m}}//100\cancel{cm} } \cdot \pu{ {1km}//1000\cancel{m} }=55 \cdot 5280 \cdot 12 \cdot 2.54 \cdot \frac{1}{100} \cdot \frac{1}{1000} \pu{km//h}=88.51392\pu{km//h}$ 
 	  ⤷$\pu{ 55 mi//h}=88.51392\pu{km//h}$ 
-	- $\pu{ 55 mi//h}=88.51392\pu{m//h}\cdot \pu{  }=$
+	
+	- $\pu{ 55 mi//h}=88513.92\pu{m//\cancel{h}}\cdot \pu{{1\cancel{h}}//60min}= mi//h}=\frac{88513.92}{60}\pu{m//min}$
 	
 
 #### fr 12.6.
