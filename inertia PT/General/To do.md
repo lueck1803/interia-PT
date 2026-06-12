@@ -51,9 +51,12 @@
 	- Ordnung halten 
 	- mich pflegen, auf mein Äußeres und Auftreten achten
 - [ ] neuen Kalender für Schule erstellen 
+- [ ] auf die mail fürs Kaffeekränzchen antworten/bzw anja schreiben 
 - [x] USB-Stick suchen, auch Bürgerpark, Hosen
-	- [ ] war in der langen orangenen Hose
+	- war in der langen orangenen Hose
 - [ ] ohr eincremen /Teebaumöl 
+- hab geld vom Strom zurück bekommen 
+	- [ ] definitiv karten fürs Festival kaufen 🥰🎉
 - [ ] Displayschutzfolie wechseln 
 - [ ] Ackerbohnen einfrieren 
 - [ ] rayans mutter anrufen und sagen dass er sich ein großes Stück verbessert hat.
@@ -475,6 +478,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 	- [x] in den Briefkasten schauen 
 		- war noch nix drin 8.6.
 	- [x] 12.6.2026 eingetragen
+	- hab geld vom Strom zurück bekommen 🎉🥰
 - [ ] Lebenslauf / CV
 	- [x] Arbeit am Staatstheater Darmstadt hinzufügen
 	- [x] Wann habe ich im MPA gearbeitet
