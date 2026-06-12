@@ -217,11 +217,11 @@ Arbeitsstunden KW 19:
 - erstmal klären, was vom letzten mal unklar war und $\mathbb{Q}$ anschreiben $$
 \mathbb{Q}=\left\{ \frac{p}{q}:p,q\in\mathbb{Z} \text{ und } q\ne 0 \right\} 
 $$ Fragen was nicht verstanden wurde
-- Addition, subtraktion, Multiplikation und Division von Brüchen an schreiben
+- Addition, Subtraktion, Multiplikation und Division von Brüchen an schreiben
 	- Multiplikation $\frac{a}{b}\cdot \frac{c}{d}= \frac{ac}{bd}$
-	- Division$\frac{a}{b} : \frac{c}{d}=\frac{\frac{a}{b}}{\frac{c}{d}}=\frac{a}{b} \cdot \frac{d}{c}= \frac{ad}{bc}$
-	- Addition $\frac{a}{b} + \frac{c}{d}= \frac{a}{b}\cdot + \frac{c}{d}=\frac{ad}{bd}+ \frac{cb}{db}$
-	- Subtraktion
+	- Division $\frac{a}{b} : \frac{c}{d}=\frac{\frac{a}{b}}{\frac{c}{d}}=\frac{a}{b} \cdot \frac{d}{c}= \frac{ad}{bc}$
+	- Addition $\frac{a}{b} + \frac{c}{d}= \frac{a}{b}\cdot \frac{d}{d}+ \frac{c}{d}\cdot\frac{b}{b}=\frac{ad}{bd}+ \frac{cb}{db}=\frac{ad+cb}{db}$ 
+	- Subtraktion $\frac{a}{b} - \frac{c}{d}= \frac{a}{b}\cdot \frac{d}{d}- \frac{c}{d}\cdot\frac{b}{b}=\frac{ad}{bd}- \frac{cb}{db}=\frac{ad-cb}{db}$ 
 - Während die die Aufgabe rechnen:
 	- $1~\mathrm{in} =2.54~\mathrm{ cm}$ 
 	- $1=\frac{\pu{ 1 in }}{\pu{ 2.54cm }}$
