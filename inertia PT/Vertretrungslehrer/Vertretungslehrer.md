@@ -230,7 +230,9 @@ Arbeitsstunden KW 19:
 	- $\pu{ 1h }=\pu{ 60min }$
 	- $\pu{ 1min }=\pu{ 60s }$
 	- ~={RedRed}Lösung: =~
-	- $\pu{ 55 mi//h}= $
+	- $\pu{ 55 mi//h}=\pu{ 55 \cancel{mi}//h} \pu{ 5280ft// 1 \cancel{mi}}$
+	- $\pu{ 55 mi//h}=55 \cdot 5280\pu{ft//h}$ 
+	- $\pu{ 55 mi//h}=55 \cdot 5280\pu{\cancel{ft}//h} \cdot \pu{ 12 inch//\cancel{ft} }$ 
 
 #### fr 12.6.
 Tafelbild Überschrift **Zahlensysteme und Einheiten umrechnen**
