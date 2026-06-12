@@ -222,7 +222,7 @@ Arbeitsstunden KW 19:
 	- $\pu{ 64cm }=\pu{ 64 \cancel{cm} } \cdot \frac{\pu{ 1in }}{\pu{ 2.54\cancel{cm} }}= \frac{64}{2.54}\pu{ in }=\pu{ 25.19685 in }$
 	- ~={DeepSkyBlue}Aufgabe=~ 
 	- 55 miles per hour $\pu{ 55 mi//h}$ in $\pu{ km//h }$ and $\pu{ m//s }$ 
-	- $1~\mathrm{in} =2.54~\mathrm{ cm}$ 
+	- $1~\mathrm{inch} =2.54~\mathrm{ cm}$ 
 	- $\pu{ 1mi }=\pu{ 5280 ft }$
 	- $\pu{ 1ft }=\pu{ 12in }$
 	- $\pu{ 1m }=\pu{ 100cm }$
@@ -232,7 +232,8 @@ Arbeitsstunden KW 19:
 	- ~={RedRed}Lösung: =~
 	- $\pu{ 55 mi//h}=\pu{ 55 \cancel{mi}//h} \pu{ 5280ft// 1 \cancel{mi}}$
 	- $\pu{ 55 mi//h}=55 \cdot 5280\pu{ft//h}$ 
-	- $\pu{ 55 mi//h}=55 \cdot 5280\pu{\cancel{ft}//h} \cdot \pu{ 12 inch//\cancel{ft} }$ 
+	- $\pu{ 55 mi//h}=55 \cdot 5280\pu{\cancel{ft}//h} \cdot \pu{ 12 inch//\cancel{ft} }=55 \cdot 5280 \cdot 12 \pu{inch//h}$
+	- $\pu{ 55 mi//h}=55 \cdot 5280 \cdot 12 \pu{\cancel{inch}//h} \cdot \pu{ {2.54cm}// 1 \cancel{inch} }=55 \cdot 5280 \cdot 12 \pu{\cancel{inch}//h} $ 
 
 #### fr 12.6.
 Tafelbild Überschrift **Zahlensysteme und Einheiten umrechnen**
