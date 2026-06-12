@@ -218,9 +218,9 @@ Arbeitsstunden KW 19:
 \mathbb{Q}=\left\{ \frac{p}{q}:p,q\in\mathbb{Z} \text{ und } q\ne 0 \right\} 
 $$ Fragen was nicht verstanden wurde
 - Addition, subtraktion, Multiplikation und Division von Brüchen an schreiben
-	- Multiplikation $$
-	- Division
-	- Addition
+	- Multiplikation $\frac{a}{b}\cdot \frac{c}{d}= \frac{ac}{bd}$
+	- Division$\frac{a}{b} : \frac{c}{d}=\frac{\frac{a}{b}}{\frac{c}{d}}=\frac{a}{b} \cdot \frac{d}{c}= \frac{ad}{bc}$
+	- Addition $\frac{a}{b} + \frac{c}{d}= \frac{a}{b}\cdot + \frac{c}{d}=\frac{ad}{bd}+ \frac{cb}{db}$
 	- Subtraktion
 - Während die die Aufgabe rechnen:
 	- $1~\mathrm{in} =2.54~\mathrm{ cm}$ 
