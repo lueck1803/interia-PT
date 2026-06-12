@@ -51,7 +51,8 @@
 	- Ordnung halten 
 	- mich pflegen, auf mein Äußeres und Auftreten achten
 - [ ] neuen Kalender für Schule erstellen 
-- [ ] USB-Stick suchen, auch Bürgerpark, Hosen
+- [x] USB-Stick suchen, auch Bürgerpark, Hosen
+	- [ ] war in der langen orangenen Hose
 - [ ] ohr eincremen /Teebaumöl 
 - [ ] Displayschutzfolie wechseln 
 - [ ] Ackerbohnen einfrieren 
