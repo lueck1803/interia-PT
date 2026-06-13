@@ -3383,7 +3383,11 @@ Ein Kommentar zum song und zur Band.
 
 Der Song auch wenn vielleicht Textzeilen es vermuten lassen könnten, weder der Text dieses Songs noch die Band Kanonenfieber an sich ist kriegsverherrlichend oder nationalistisch.
 
-Sie beschreibt ungeschönt die Schrecken des 1. Weltkrieges und wie im Fall dieses Lieds das Schicksal von Soldaten und zivilen Opfer des Krieges und soll die Geschichten derer erzählen die in der Namenlosigkeit unter den vielen Millionen Toten und verwun
+Sie beschreibt ungeschönt die Schrecken des 1. Weltkrieges und wie im Fall dieses Lieds das Schicksal von Soldaten und zivilen Opfer des Krieges und soll die Geschichten derer erzählen die in der Namenlosigkeit unter den vielen Millionen Toten und Verwundeten die nur eine Zahl sind. 
+
+Die Texte basieren auf Feldpostbriefen von denen viele Milliarden während des Krieges geschrieben wurden.
+
+Im Lied **Waffenbrüder** von **Kanonenfieber** geht es um das Schicksal zweier Kindheitsfreunde im 1. Weltkrieg.
 
 
 
