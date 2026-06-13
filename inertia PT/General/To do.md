@@ -58,6 +58,7 @@
 	- [ ] backing track
 		- [ ] eventuell Mischung aus Version 1 und 2 zusammenstellen
 		- [ ] jaaa... denn bei version 2 sind lead und rhythm anders aufgeteilt
+		- [ ] ⟹ neue Datei erstellen und dort die Spuren anderes mischen
 - [ ] ohr eincremen /Teebaumöl 
 - [ ] auf die mail fürs Kaffeekränzchen antworten/bzw anja schreiben 
 - [x] USB-Stick suchen, auch Bürgerpark, Hosen
