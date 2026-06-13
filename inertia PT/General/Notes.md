@@ -3381,7 +3381,9 @@ Wenn ihr etwas vom Text verstehen werdet, ist der Text selbst erklärend.
 
 Ein Kommentar zum song und zur Band.
 
-Der Song auch wenn 
+Der Song auch wenn vielleicht Textzeilen es vermuten lassen könnten, weder der Text dieses Songs noch die Band Kanonenfieber an sich ist kriegsverherrlichend oder nationalistisch.
+
+Es beschreibt ungeschönt die Schrecken des 1. Weltkrieges 
 
 
 
