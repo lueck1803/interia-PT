@@ -3374,6 +3374,7 @@ Kontextbeispiele
 - Allgemeine Lebenshaltung:
 "Ich versuche, Menschen erstmal wohlwollend zu betrachten."
 
+# Ansprache zu Waffenbrüder 
 
 
 
