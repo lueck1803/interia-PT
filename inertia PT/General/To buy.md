@@ -1,10 +1,11 @@
-- [x] saft
-- [x] toast
+- [ ] saft
+- [ ] toast
+- [ ] pizza 
 - [x] Nusskati 
-- [ ] burger 
+- [x] burger 
 - [ ] Teebaumöl 
 - [ ] tofu 
-	- [ ] momentan nicht im Sortiment 
+	- momentan nicht im Sortiment 
 - [x] pizza
 - [x] hafermilch
 - [x] Schmelzkäse Scheiben 

@@ -1368,6 +1368,10 @@ Ich übernehme:
 	- 5c
 	- Abstimmung mit Tabea Weingärtner 
 	- dieses Halbjahr bisher **Moral** als Thema, haben da auch mit dem **Buch** etwas gearbeitet, bzw. die SuS haben sich zu zweit ein Buch geteilt. Und letzte Stunde hatte ich die **Arbeit zurückgegeben**
+
+## Vorfälle 
+### Herr Walter Guckt Ärsche 
+- ist eine Behauptung bei der ich in einer Zwickmühle stecke 
 # Aufgaben-Ideen
 ## Physik
 ## Demonstration von kinetischer Energie 

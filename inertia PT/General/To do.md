@@ -1,5 +1,6 @@
 - ich~={RedRed} will meine Arbeit Publikations fähig machen=~
 - regelmäßig den ~={MediumSpringGreen}Blutdruck=~ messen
+- ohr eincremen /Teebaumöl 
 # unsortiert
 - oberste Priorität:
 	- ~={RedRed}Masterarbeit=~
@@ -51,10 +52,17 @@
 	- Ordnung halten 
 	- mich pflegen, auf mein Äußeres und Auftreten achten
 - [ ] neuen Kalender für Schule erstellen 
+- [ ] Waffenbrüder 
+	- [ ] solo perfekt üben
+	- [ ] vocals geil üben
+	- [ ] backing track aufnehmen/ exportieren 
+		- [ ] bass
+		- [ ] und teilweise lead
+	- [ ] lead
+- [ ] ohr eincremen /Teebaumöl 
 - [ ] auf die mail fürs Kaffeekränzchen antworten/bzw anja schreiben 
 - [x] USB-Stick suchen, auch Bürgerpark, Hosen
 	- war in der langen orangenen Hose
-- [ ] ohr eincremen /Teebaumöl 
 - hab geld vom Strom zurück bekommen 
 	- [ ] definitiv karten fürs Festival kaufen 🥰🎉
 - [ ] Displayschutzfolie wechseln 
