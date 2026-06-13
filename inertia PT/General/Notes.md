@@ -3375,7 +3375,13 @@ Kontextbeispiele
 "Ich versuche, Menschen erstmal wohlwollend zu betrachten."
 
 # Ansprache zu Waffenbrüder 
+Ich möchte ein paar Worte verlieren bevor ich anfange.
 
+Wenn ihr etwas vom Text verstehen werdet, ist der Text selbst erklärend.
+
+Ein Kommentar zum song und zur Band.
+
+Der Song auch wenn 
 
 
 
