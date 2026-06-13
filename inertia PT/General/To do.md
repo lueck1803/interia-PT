@@ -55,10 +55,9 @@
 - [ ] Waffenbrüder 
 	- [ ] solo perfekt üben
 	- [ ] vocals geil üben
-	- [ ] backing track aufnehmen/ exportieren 
-		- [ ] bass
-		- [ ] und teilweise lead
-	- [ ] lead
+	- [ ] backing track
+		- [ ] eventuell Mischung aus Version 1 und 2 zusammenstellen
+		- [ ] jaaa... denn bei version 2 sind lead und rhythm anders aufgeteilt
 - [ ] ohr eincremen /Teebaumöl 
 - [ ] auf die mail fürs Kaffeekränzchen antworten/bzw anja schreiben 
 - [x] USB-Stick suchen, auch Bürgerpark, Hosen
