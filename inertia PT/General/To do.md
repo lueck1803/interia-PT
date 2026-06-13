@@ -60,7 +60,8 @@
 		- [ ] jaaa... denn bei version 2 sind lead und rhythm anders aufgeteilt
 		- [ ] ⟹ neue Datei erstellen und dort die Spuren anderes mischen
 	- [ ] oder vielleicht lerne ich einfach die lead von version 2 🤷‍♀️
-	- [ ] bzw. tatsächlich eine Mischung, denn in der Bridge 
+	- [ ] bzw. tatsächlich eine Mischung, denn in der Bridge spiele ich eventuell doch lieber die rhythm bzw. sickfried
+	- [ ] welches solo ich spiele muss ich mir noch überlegen. vielleicht mische ich das aus der alten und der neuen version
 - [ ] ohr eincremen /Teebaumöl 
 - [ ] auf die mail fürs Kaffeekränzchen antworten/bzw anja schreiben 
 - [x] USB-Stick suchen, auch Bürgerpark, Hosen
