@@ -260,8 +260,9 @@ $$ Fragen was nicht verstanden wurde
 - Wie bestimmt man den Flächeninhalt mit Euren Methoden?
 	- Welche Flächeninhaltsberechnungen kennt ihr?
 		- Quadrat, Rechteck
-		- Dreieck
-		- Trapez
+		- Dreieck $A_{\text{Dreieck}=\frac{g \cdot h}{2}}$ 
+		- Parallelogramm $A_{\text{Parallelogramm}}=a \cdot h_{a}=b \cdot h_{b}$ 
+		- Trapez $A_{\text{Trapez}}=\frac{a+c}{2}\cdot h$ 
 		- anmalen und aufrufen wie sich A berechnen lässt
 	- ![[Images/BAS/Mathe/Area_of_a_circle.png]]
 	
