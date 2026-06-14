@@ -277,7 +277,8 @@ $$ Fragen was nicht verstanden wurde
 			- ⟹~={LimeGreen}oder=~ den Flächeninhalt eines Dreiecks und dann damit den halben Flächeninhalt des Kreis bestimmen
 	  ![[Images/BAS/Mathe/Area_of_a_circle.png]]
 	- Allgemeine Formel für den Kreis?
-	- 
+		- $\frac{4}{\pi}=\frac{A_{\text{Quadrat}}}{A_{\text{Kreis}}}=\frac{r^{2}}{A_{\text{Kreis}}}$
+		- 
 	
 
 #### fr 12.6.
