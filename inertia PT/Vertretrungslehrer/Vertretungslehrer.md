@@ -263,8 +263,16 @@ $$ Fragen was nicht verstanden wurde
 		- Dreieck $A_{\text{Dreieck}=\frac{g \cdot h}{2}}$ 
 		- Parallelogramm $A_{\text{Parallelogramm}}=a \cdot h_{a}=b \cdot h_{b}$ 
 		- Trapez $A_{\text{Trapez}}=\frac{a+c}{2}\cdot h$ 
+			- Warum? ⟹ Zusammensetzung aus dem Flächeninhalt zweier Dreiecke 
 		- anmalen und aufrufen wie sich A berechnen lässt
-	- ![[Images/BAS/Mathe/Area_of_a_circle.png]]
+	- Wie schneidet ihr eine Pizza?
+		- ⤷ in Dreiecke
+		- Jedem ein Blatt geben:
+			- Kreis malen $r=\pu{ 10cm }$ Radius
+			- Die Hälfte anmalen
+			- Die **Hälfte** davon soll jeder in gleich große Dreiecke aufteilen
+			- Einschneiden, so dass 
+	  ![[Images/BAS/Mathe/Area_of_a_circle.png]]
 	
 
 #### fr 12.6.
