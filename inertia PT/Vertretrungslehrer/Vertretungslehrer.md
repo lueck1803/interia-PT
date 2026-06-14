@@ -246,6 +246,9 @@ $$ Fragen was nicht verstanden wurde
 	
 	- $\pu{ 55 mi//h}=88513.92\pu{m//\cancel{h}}\cdot \pu{{1\cancel{h}}//60min}=\frac{88513.92}{60}\pu{m//min}$
 	- $\pu{ 55 mi//h}=\frac{88513.92}{60}\pu{m//\cancel{min}} \cdot \pu{ {1\cancel{min}}//60s}=\frac{88513.92}{60\cdot60}\pu{m//s}=\frac{88513.92}{3600}\pu{m//s}=24.5872\pu{m//s}$ 
+
+- Tisch ausmessen
+	- Breite von Finger, Hand und Ellenbogen messen und notieren
 	
 
 #### fr 12.6.
