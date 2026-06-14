@@ -249,6 +249,13 @@ $$ Fragen was nicht verstanden wurde
 
 - Tisch ausmessen
 	- Breite von Finger, Hand und Ellenbogen messen und notieren
+	- Jeder misst mit seinem Maß die Breite, die Länge und die Höhe des Tisches
+	- Bestimmt in seinem Maß den Flächeninhalt der Tischoberfläche
+	- und das Volumen, was von einem gedachten Quader der den Tisch umgibt, eingeschlossen wird
+	- ⤷um rechnen in $\pu{ cm }$, $\pu{ cm^2 }$ bzw. $\pu{ cm^3 }$ 
+
+- Wie bestimmt man den Umfang eines Kreises?
+	- ⟹ Schnur ⟹ausmessen
 	
 
 #### fr 12.6.
