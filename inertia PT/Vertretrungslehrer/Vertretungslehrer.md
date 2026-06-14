@@ -269,10 +269,15 @@ $$ Fragen was nicht verstanden wurde
 		- ⤷ in Dreiecke
 		- Jedem ein Blatt geben:
 			- Kreis malen $r=\pu{ 10cm }$ Radius
-			- Die Hälfte anmalen
+			- Die Hälfte anmalen beliebige Farbe
 			- Die **Hälfte** davon soll jeder in gleich große Dreiecke aufteilen
-			- Einschneiden, so dass 
+			- Einschneiden, so dass die Dreiecke noch zusammen hängen
+			- Die gegenüberliegende Hälfe auch aufteilen und auch einschneiden
+			- ⟹ zusammen setzen und Fläche des Rechtecks ausrechnen
+			- ⟹~={LimeGreen}oder=~ den Flächeninhalt eines Dreiecks und dann damit den halben Flächeninhalt des Kreis bestimmen
 	  ![[Images/BAS/Mathe/Area_of_a_circle.png]]
+	- Allgemeine Formel für den Kreis?
+	- 
 	
 
 #### fr 12.6.
