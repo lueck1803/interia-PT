@@ -3255,6 +3255,349 @@ https://www.youtube.com/watch?v=gOr9PYTv2P4&t=1908s
 Ich kann das Dilemma sehr nachvollziehen, auch aus eigener Erfahrung in mehrfacher Hinsicht. Daher finde ich unser jetziges System einfach immer noch das BESTE, nach Stand der Wissenschaft, der Trendentwicklung in der Psychologie und Psychiatrie und auch der gesellschaftlichen Entwicklung. Ich weiß aus meinen eigenen Psychiatrieaufenthalten - zum Glück nur kurz - wie schwierig die Gradwanderung zwischen förderlichen und unförderlichen Zwangsentscheidungen/Handlungen ist. Da Böswilligkeit oder dem system etwas negatives und makelbehaftetes unterstellen zu wollen, liegt mir fern. Es arbeiten da halt auch nur Menschen, die auch nur studiert und etwas gelernt haben und auch mit den vielen äußeren Zwängen des Systems und ihren eigenen Limits zu kämpfen haben. Ich weiß dass mir gewisse Zwangsmaßnahmen - Zeit auf der Geschlossenen, auch mit den vielen Einschränkungen drumherum und dem Gefühl jetzt irgendwie als "Täter" behandelt zu werden, dabei war es nur Eigenschutz - sehr gut getan haben und mir das auch durch Demut und durch diese für mich als "strafe" (die keine war) empfundene Maßnahme, schon währenddessen klar wurde. Ich weiß allerdings auch wie unschön es ist Antipsychotika / Neuroleptika zu bekommen, wenn es kontraindiziert ist - war einfach "nur" eine stress und durch schwere depressionen induzierte depersonalisations/derealisations/dissoziations erfahrung. Ich bin ja auf eigenen Wunsch ins Krankenhaus gegangen, - beim ersten mal ganz klar und bewusst und beim zweiten mal war ich in der Rückschau schon in der Notaufnahme im dissoziierten Zustand. Ich habe dort auch Patienten mit Psychose erlebt, die aufgrund von Zwangsmaßnahmen dann eine Zeit "verschwunden" waren, da sie fixiert werden mussten. Ich habe auch sehr junge Leute erlebt, die durch das angesprochene Cannabis psychotisch wurden und bei denen die Zwangsmaßnahmen extrem wichtig waren und geholfen haben. Das Cannabis ist heutzutage ja so stark, dass es überhaupt nicht mehr zu vergleichen ist, mit dem was in den 60igern und 70igern konsumiert wurde und auch nicht mit dem was ich in meinem frühen Erwachsenenalter mal probiert habe. Dann habe ich Straftäter in der eigenen Nachbarschaft - ich war auch Leidtragender - erlebt, bei denen die Zwangsmaßnahmen zu gering ausfielen. Das erlebt man ja auch immer wieder in den Medien durch Fälle die zb. (abgelehnte) Asylbewerber betreffen - Aschaffenburg, Brokstedt, uvm. Und dann gibt es wieder Einzelfälle bei denen Menschen viel zu lange und trotz der Bemühungen der Familien "zu Unrecht" auf Jahre in der Forensik gehalten werden. Ich habe auch Stigmatisierung durch erhaltene Fehldiagnosen - vorläufige Entlassbriefe - erlebt, die auch trotz der Revidierungen in mir lange nachgehallt und auch so nie ganz getilgt werden können. Es ist und bleibt dennoch das beste System was wir haben! Und ich bin dankbar dafür. Es tut sich ja auch etwas. Wir irren uns empor, wie Harald Lesch zu sagen pflegt. Wir Menschen sind nunmal fehlbar, also auch unsere Systeme. Das ist aber auch ok. Das gehört zur Demut dazu. Danke für Ihre Arbeit. - Bitte verzeiht mir meine Rechtschreibfehler, ich achte nicht so gerne auf Groß/Kleinschreibung. Und für korrekte Zeichensetzung bin ich bei YT auch etwas zu faul xD, ich weiß ich trage damit zur Unkultur bei, ich gelobe Besserung -
 
 # Einzel Themen/Ereignisse
+
+## 26-06-14 "fahrrad"
+
+### ich
+Wuuuuuaaas🤯
+
+Meine Schwester hat mir geschrieben.
+Auch wenn es nur eine Mitteilung zu meinem Fahrrad und ein Foto ist.
+
+Ich muss nämlich nächste Woche mein Mountainbike holen was seit '22 unausgepackt bei meinen Eltern steht
+
+Ich bin in der Projektwoche der Schule im Mountainbike Projekt eingeteilt worden🫣.
+
+Der entsprechende Lehrer kam auf mich zu und hat mich gefragt und ich ...
+
+Ja okay ich hab ja eigentlich auch ein Fahrrad...
+Und Lust hätte ich auch...
+OK wann ist die Projektwoche nochmal. 
+Oh okay dann muss ich das mal holen gehen...
+
+Habe ich am Freitag meinen Eltern gesagt
+
+Ich wollte wissen ob alles heile ist. 
+
+Da das Rad vom Versand wieder zurück kam 🫣.
+Hatte zu wenig Rückporto bezahlt 😂
+
+### freddie
+Also du hast ein Rad bestellt, wolltest es zurückschicken aber es war zu wenig Porto und deshalb steht das noch bei deinen Eltern?😅
+
+### ich
+Ja und das war auch der Tropfen der das Fass '22 zum Überlaufen gebracht hat. 
+
+Als meine Eltern mir das gesagt haben, wollte ich nicht mehr und bin dann ins Krankenhaus gegangen
+
+Mein MTB hatte ich '21 beim Fahrradladen da meine speichen ständig gebrochen sind. 
+
+Als ich es dann abholen wollte ist es in der Nacht zum nächsten Tag abgebrannt als ich zu meinen Eltern fahren wollte um es abzuholen.
+
+Das Fahrrad was bei meinen Eltern steht hatte ich davor schon in einer anderen Rahmengröße.
+
+Was mir zu groß war. 
+
+Das ist ne Rahmengröße kleiner, aber auch da ist die Rahmengeometrie etwas doof so dass es im stand mit beiden Beinen auf dem Boden etwas unangenehm im Schritt ist. 
+
+Ich hab halt wirklich kurze Beine 🫣.
+Das Rad vorher in L war in einem kleineren Karton.
+
+Das konnte ich zu dem porto zurückschicken.
+
+Bei dem Rad war der Karton größer.
+
+Gewicht und die Länge des Kartons hatte zu den maximal Maßen gepasst.
+
+Ich hatte aber vergessen den Umfang aus zu rechnen 🤷‍♂️.
+
+Es stand deshalb dann wieder bei meinen Eltern.
+
+Und ich hab mich ja eh schon fertig gemacht für alle möglichen Entscheidungen und hab mich gar nicht mehr in der Lage gefühlt noch eine einzige Entscheidung zu treffen. 
+
+Und hatte im Gefühl dass das auch nie wieder wird.
+
+Die Gründe waren berechtigt 🤷‍♂️.
+
+Und ich hatte mir halt in der Zeit davor fest vorgenommen mich "richtig" zu entscheiden.
+
+Das war denke ich der größte Fehler 😅.
+
+Ich wusste noch nicht dass mein Perfektionismus mit dem ich meine Probleme mit Entscheidungen lösen wollte mich immer weiter in die Probleme rein trieb.
+
+Das ist ja soweit gegangen dass ich solche Ängste davor bekommen habe nur mal ne E-Mail zu schreiben oder total überfordert war einen Satz zu schreiben.
+
+Zu viele wenn's abgewogen...
+
+Ich weiß nicht, Arooj war auch nicht wirklich ne Hilfe...
+
+Sie ist eher wütend und pushy geworden darüber dass ich ängstlich und paralysiert wurde. Hat mir Druck in eine andere Richtung gemacht.
+
+Sie hat mir auch glaube ich einfach nicht abgekauft dass ich da wirklich dran verzweifele.
+
+Denn sie kennt mich als den der auf alles irgendwie ne Antwort und ne Lösung hat. 
+Wenn jemand Hilfe braucht bin ich ruhig, beruhigend und habe ne Menge an Lösungsoptionen.
+
+Bei mir ist es aber schleichend ne Katastrophe geworden.
+
+War ja früher nicht so. 
+
+Ich hab mir aber die Glaubenssätze und Standards anderer ungewollt zu meinen gemacht und wollte denen genügen.
+
+Ich hätte da einfach mehr Verständnis und nicht noch mehr Druck gebraucht.
+
+Ich hab mir ja selbst schon extremen gemacht und dann auch irgendwo mein Vater und im Endeffekt auch Arooj.
+
+Mein Vater hat sich darüber lustig gemacht dass ich mir so viele Gedanken um das Fahrrad mache, ich mich zu sehr anstelle.
+
+Ich wollte mich nicht anstellen und auch keine "Ansprüche" haben.
+
+Ich habe meine Entscheidungen auch stark von anderen abhängig gemacht.
+
+Quasi keine Entscheidungen nur für mich und meine Bedürfnisse getroffen.
+
+Ich hab mich immer mit verantwortlich für andere gefühlt.
+Auch sehr extrem bei Kaufentscheidungen 🫣.
+
+Was ich da für einen inneren Druck hatte...
+
+Ich hab mich an manchen Stellen wirklich zu gewissen Dingen verpflichtet gefühlt.
+
+Bevor ich das Rad mit dem L Rahmen bestellt hatte, hatte ich ein Rad bei dem Fahrradladen bestellt in dem mein altes abgebrannt war. 
+
+Denn mein vorheriges war auch daher.
+Der Besitzer kommt aus meinem Dorf und hatte den Laden meine gesamte Jugend in unserem Dorf.
+
+Laden ist gewachsen und irgendwann musste er aus dem Gebäude raus da der Vermieter das nicht mehr wollte.
+
+Also ist er in den Nachbarort.
+
+Und der Laden ist 21 wegen nem E-Bike Akku der geladen wurde abgebrannt.
+
+Ich hatte mich irgendwie verpflichtet gefühlt da ein Rad zu kaufen.
+
+Bzw ich wollte das auch. Einfach weil das zu meinen Werten passt.
+
+Hatte ich dann auch.
+
+'21 war der Fahrradmarkt aber sehr gefragt.
+
+Die sind in ein interims Gebäude gezogen.
+Ich hab dann ein Rad bestellt.
+
+Das gab's in schwarz und in teal 🩵. Ich wollte es in teal.
+
+Kam dann im Januar an, war aber in schwarz.
+Gab glaube ich nur gewisse kontingente.
+
+Ich hab mich entschieden es trotzdem zu nehmen 🤷‍♂️.
+
+Aber ich war mir so unsicher vor Ort mein Vater hat mir Druck gemacht ich soll nicht rum machen, mein Inneres hat auch gesagt ich soll nicht rum machen ich hab es logisch abgewogen, arooj hat mir gesagt ich soll es nicht nehmen da ich mich dann wegen der Farbe ärgern werde. 
+
+Ich wollte einfach nur Sicherheit und Geborgenheit in dem Moment und das mir beide helfen das wir zusammen ne Entscheidung treffen.
+
+Arooj war schon ziemlich angepisst von mir dass ich mich dann aus diesen und jenen Gründen dafür entschieden habe, obwohl ich mir wegen der Farbe unsicher war und damit Abstriche gemacht habe.
+
+Mir war logisch gesehen die Farbe dann auch nicht so wichtig.
+Eigentlich war das total gemein dass Arooj mir dann diese selbsterfüllende Prophezeiung gemacht hat dass ich mich dann schlecht fühlen werde. 
+
+Ich wollte ja eigentlich auch verständlich machen warum ich diese Entscheidung treffe und dass sie logisch abgewägt ist. 
+
+Aber irgendwie hatte Arooj da schon ein Problem damit das nachvollziehen zu können. 
+
+Ich hab ihre Unruhe gespürt und sie hat mir echt nicht die Atmosphäre gegeben die ich brauchte.
+
+So das Gefühl ich treffe jetzt eine falsche Entscheidung.
+
+Ich hab mich dann dafür entschieden es zu kaufen.
+
+Ich hatte auch irgendwie nen großen Druck gespürt der Ladenbesitzer hatte meine Eltern angerufen dass das Rad da wäre und ich es abholen soll...
+Dabei hatte ich keinen Kaufvertrag abgeschlossen und den Druck den er da gemacht hat, den ich über meine Eltern bekommen habe, war total ungerechtfertigt.
+
+Ich hab mich eh ständig schlecht und in der Pflicht gefühlt.
+
+Für mich war es schon ne Verpflichtung dort etwas zu kaufen und auch das. 
+
+Es war aber in meiner Abwägung ok.
+
+
+Arooj hatte sich an dem Wochenende auf dem Weg zu meinen Eltern auch das zweite Mal den Fuß gebrochen.
+
+Dafür habe ich mich ja auch total schuldig gefühlt, obwohl ich 0% dafür konnte.
+Genauso ihren ersten fußbruch 6 Monate davor.
+
+Aber ich habe mich so gefühlt und irgendwie auch wenn sie es nicht gesagt hat, hat sie den Eindruck erweckt...
+
+Ich das Fahrrad jedenfalls gekauft und bin dann damit die 2,5km zu meinen Eltern gefahren.
+
+Irgendwie hab ich mich dann als ich bei meinen Eltern war im Hof angefangen mich fertig zu machen 🫣😵‍💫😓😭.
+
+Da ist dann der ganze Druck der Situation und das Unverständnis von allen Seiten auf mir zusammen gebrochen.
+
+Das war Samstag.
+
+Ich hab das Rad dann Montag zurück gebracht....
+Total dumm...
+
+Es wäre wirklich notwendig und angebracht gewesen dass mein Vater und Arooj mir dabei helfen zu meiner Entscheidung zu stehen und mir sagen dass alles gut ist und ich gut bin. 
+
+Genau das wollte ich auch...
+Darum habe ich gebeten und gefleht.
+
+Ich habe von beiden aber nur Verachtung erfahren...
+
+Arooj hat es auf ihre Art ja gut gemeint.
+
+Ich sollte zu mir und meinen Wünschen stehen und dann auch auf die Farbe achten.
+
+Mein Vater fand das lächerlich.
+Ich rational auch irgendwie.
+
+Ich wollte auch einfach nur Hilfe bei der Entscheidung.
+Denn rational war es für mich klar. Die Entscheidung habe ich getroffen, aber emotional war ich total durch. 
+
+Das wollten die nicht verstehen dass ich emotionalen Rückhalt brauche.
+Ich hab meinen wert zu sehr von meinen Entscheidungen abhängig gemacht.
+Ich hab das auch kommuniziert und herausgeschrien.
+
+Ich war total hilflos und im Panikmodus wegen nichts wichtigem.
+Das hat mir mein Vater auch vermittelt und ich hab mich selbst dafür verachtet und runter gemacht, es überhaupt nicht verstanden warum ich emotional so durch bin und gerade keine Entscheidungen treffen kann.
+
+Aber gesehen hat es keiner. Ich hab's gewusst und gesagt, aber ich konnte mich nicht stoppen.
+
+Wie gesagt zurück gebracht.
+Obwohl ich wusste dass ich mich dafür noch schlechter fühlen werde...🫣
+
+Ich bin den Sonntag total unruhig und gestresst gewesen.
+
+Meine Familie wusste nicht damit umzugehen.
+
+Ich hab es wirklich mehrfach ausgesprochen was ich wirklich brauche.
+Ich wusste das es mir nicht um den Gegenstand ging.
+
+Ich hab das alles ausgesprochen warum ich die Entscheidung getroffen habe, ich sie für richtig halte und dazu stehen möchte, ich mich aber so fühle als hätte ich trotzdem nen riesen Fehler gemacht.
+
+Emotional aufgefangen zu werden war das einzige was ich brauchte und wollte, das wurde total abgeblockt.
+
+Also hat mein Hirn weiter gerast.
+
+Ich hab mich dann so extrem gestresst mir ein anderes Fahrrad kaufen zu müssen...🫣
+
+Eigentlich war ich total froh und zu frieden endlich wieder ein Rad zu haben und einfach fahren zu können.
+
+Das war vollkommen in Ordnung alles.
+Ich wusste das und wollte einfach nur erlöst sein davon und zu frieden sein. 
+
+Ich konnte aber nicht...
+Ich hab gespürt dass es an Arooj lag 🤷‍♂️.
+
+Ich weiß aber auch nicht warum...
+Ich wollte eigentlich einfach nur verstanden werden...
+
+Arooj kam wohl einfach schon wie davor nicht damit klar mir mal emotional Rückhalt und Verständnis zu geben wenn ich mal für mich ne Entscheidung treffen sollte und nicht der starke war "der alles kann und weiß". Das war irgendwie ihr Bild von mir, was nicht mein eigenes von mir war. Und das habe ich auch immer versucht zu kommunizieren. Damit kam Arooj aber nie klar. Ich denke das ist noch ein Grund dafür dass Arooj ne starke narzisstische Komponente hat.🤷‍♂️
+
+Arooj hat auch ein großes Problem damit Verständnis aufzubringen. Daran bin ich so häufig verzweifelt.
+
+Und ich hab's kognitiv und emotional nicht gerafft dass sie es wohl einfach nicht kann🤷‍♂️😓🤯.
+Sie kann es irgendwie einfach nicht. 
+Deshalb verhält sie sich selbst auch so...
+
+Ich bin da ja auch letztes Jahr wieder daran zerbrochen.
+Ich hab's wirklich nicht gerafft dass sie es einfach nicht kann...
+Ich dachte ja irgendwie dass sie es kognitiv nicht verstehen will.
+
+Aber nein da ist etwas psychisch und emotional mit ihr🤷‍♂️. Das habe ich ihr auch häufig genug gesagt und das steht so massiv zwischen uns.
+Und in den paar Momenten sieht sie das auch mal ein...
+
+Aber das war ein Kampf 🫯 den ich nie gewinnen konnte für uns....
+
+Und ich musste es auf dem harten Weg lernen obwohl ich das eigentlich spätestens 21, 22, 23 und auch 24 verstanden hatte 🤣. Emotional kam es nie so richtig durch.
+
+Das war im Januar.
+Im Februar kam dann das Rad mit dem L Rahmen. Da habe ich mir auch ne dumme Entscheidung einreden lassen gegen mein Gefühl.
+Zu der Zeit war ich aber schon komplett am Ende🤷‍♂️.
+
+Zwischenzeitlich wurden mein Vater und ich dann im Februar durch meine Schwester mit Corona angesteckt.
+
+Arooj war "dank" des fußbruchs in DA geblieben und wurde dadurch verschont.
+Meine Mutter auch, denn die war zu der Zeit im Krankenhaus wegen dem Kurzzeit Schlaganfall.
+
+Ich hatte echt Angst um meinen Vater, ich hatte die Befürchtung dass er stirbt wenn er Corona bekommt und meine Mutter war ja zu der Zeit auch echt nicht gesund.
+In der Woche davor hatte sie dort im Krankenhaus noch ne Notoperation wegen ihrem Darm (in der Woche vom 22.februar, ich glaube die op war am 17.). Da wussten wir auch lange nicht ob sie die überlebt. Ihr wurde da super viel Darm entnommen....
+
+
+Naja...
+Wegen dem Verhalten meiner Schwester an dem Wochenende (wir waren da um meinen Vater zu besuchen um ihn zu unterstützen, da meine Mutter ja im Krankenhaus war und er alleine war), fing dann der stress mit meiner Schwester an der ja bis "heute" andauert....
+Da dachte ich ja auch dass ich das schon '23 mit dem Mediationsgespräch geregelt hatte...
+
+Ach und ich hab mich ja auch total fertig wegen meiner Zukunft und meiner Entscheidung für eine geeignete Masterarbeit fertig gemacht.
+
+Das dann im März kurz vor oder nach meinem Geburtstag. Der für mich immer ein Tag des Versagens war. 
+
+Kam dann die Nachricht dass das Fahrrad wieder zurück gekommen ist. 
+Und dann war das Fass übergelaufen.
+
+Ich wollte wirklich nicht mehr. 
+
+Bin dann in die Psychiatrie.
+
+Dort habe ich es aber auch nur 2,5 Wochen ausgehalten da ich mir zu viel Druck gemacht habe. 
+
+Der war nie weg. 
+
+Ich muss schneller heilen und mich in den Griff bekommen.
+
+Ich hab mich über mich selbst lächerlich gemacht...
+
+Und das dann da noch verdacht auf narzisstische Persönlichkeitsstörung in meinem entlassbrief stand obwohl ich mir so extrem viele Gedanken auch um andere gemacht habe und meine Entscheidungen IMMER von den Bedürfnissen anderer abhängig gemacht habe. 
+
+Hat mich entgültig gebrochen.
+
+Ich hab nur noch mehr Druck von meiner Familie und Arooj gespürt.
+
+Ich hab mich wie ein Täter gefühlt.
+In den Wochen danach war ich wirklich die ganze Zeit im permanenten Nebel im Kopf. 
+
+Ich hab dann angefangen zu dissoziieren. Wusste dabei nicht was das ist und dass das wirklich schwere Anzeichen einer akuten schweren Depression sind.
+
+Ich hab mich selbst immer noch runter gemacht dass ich mich ja nur anstelle und mich einfach nur zusammen reißen soll.
+
+Ich glaube am meisten verletzt hat mich dann die jahre darauf dass Arooj nicht so wirklich Verständnis dafür hatte für ihren Anteil und dass ich mir von ihr veränderungen gewünscht hätte. 
+
+Sie hat da keine Schuld dran. Da war ja so viel schief in mir.
+
+Arooj hatte auch extrem viel Mitgefühl und war auch viel für mich da und hat sich liebevoll um mich gesorgt.
+
+Das war aber auch total ambivalent bei ihr.
+
+Sie hat sich dann schon auch schuldig gefühlt. Ich hab es manchmal eventuell auch so rübergebracht, auch wenn ich das nicht habe.... Ich hab es echt immer möglichst vorsichtig ausformuliert.
+
+Und nur geäußert was in der Situation mein Bedürfnis gewesen wäre.
+Was ich mir wünschen würde. 
+
+Ich hab klar gesagt dass sie eben nix für kann und es mir leid tut wenn ich in Momenten ihr für irgendwas die schuld gegeben habe.
+
+Ich hab es halt nicht mehr ausgehalten dass ich mir alles auf meine Schultern gepackt habe. 
+
+Ich hab mich ja auch so schuldig dafür gefühlt dass ich so eine Last bin...
+Obwohl meine Bedürfnisse wirklich nicht so groß und zu viel verlangt waren...
+
+Mich hat es wirklich zerbrochen dass trotz meiner vielen Worte und Erklärungen irgendwie null Verständnis bei Arooj und meiner Familie ankamen...
+
+Sorry 😅...
+
+Aber auf die Frage konnte ich nicht so kurz antworten.
+
+Es schien mir dass das wirklich ne ernst gemeinte versteckte Frage war.
+
+Ich dachte auch ich hätte das schon erzählt.
+
+Aber ja... Ob glaube jetzt ist es verständlich warum das so lange da unausgepackt steht. 
+
+Ich hab wirklich die Freude an dem verloren was mir viel Freude gemacht und mir etwas bedeutet hat. 
+
+Ich bin immer sehr gerne Fahrrad gefahren.
+
 ## 26-05-25 "neid"?
 ### 1
 Hat mich schon ein bisschen "neidisch" gemacht.🤭
