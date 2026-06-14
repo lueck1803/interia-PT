@@ -256,6 +256,14 @@ $$ Fragen was nicht verstanden wurde
 
 - Wie bestimmt man den Umfang eines Kreises?
 	- ⟹ Schnur ⟹ausmessen
+	- Wie lang ist die bei einem 10cm Kreis?
+- Wie bestimmt man den Flächeninhalt mit Euren Methoden?
+	- Welche Flächeninhaltsberechnungen kennt ihr?
+		- Quadrat, Rechteck
+		- Dreieck
+		- Trapez
+		- anmalen und aufrufen wie sich A berechnen lässt
+	- ![[Images/BAS/Mathe/Area_of_a_circle.png]]
 	
 
 #### fr 12.6.
