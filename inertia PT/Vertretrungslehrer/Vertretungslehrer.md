@@ -1406,6 +1406,10 @@ Ich übernehme:
 ## Vorfälle 
 ### Herr Walter Guckt Ärsche 
 - ist eine Behauptung bei der ich in einer Zwickmühle stecke 
+
+## Arzttermine und frei haben 
+[15.6., 14:14] Jamil Hirsch: Okay, dann plane ich dich für Mittwoch raus, Arztbesuch. Grundsätzlich musst du sowas nicht nach- oder Vorarbeiten.
+[15.6., 14:48] Jamil Hirsch: Für das nächste Mal wäre es wichtig, dass du das schriftlich beantragst. Im Schulportal findest du das entsprechende Formular.
 # Aufgaben-Ideen
 ## Physik
 ## Demonstration von kinetischer Energie 
