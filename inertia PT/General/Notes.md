@@ -3392,5 +3392,4 @@ Im Lied **Waffenbrüder** von **Kanonenfieber** geht es um das Schicksal zweier 
 
 # Yoga 
 Chebyjane_yoga
-Ariel rose daily
-Scarlett rose daily
+Bailey strech
