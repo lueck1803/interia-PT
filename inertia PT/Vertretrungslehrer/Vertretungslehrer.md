@@ -275,7 +275,7 @@ $$ Fragen was nicht verstanden wurde
 			- Die gegenüberliegende Hälfe auch aufteilen und auch einschneiden
 			- ⟹ zusammen setzen und Fläche des Rechtecks ausrechnen
 			- ⟹~={LimeGreen}oder=~ den Flächeninhalt eines Dreiecks und dann damit den halben Flächeninhalt des Kreis bestimmen
-		- Wie ~={DeepSkyBlue}lange=~ ist das ~={Gold}Rechteck=~?
+		- Wie ~={DeepSkyBlue}lang=~ ist das ~={Gold}Rechteck=~?
 	  ![[Images/BAS/Mathe/Area_of_a_circle.png]]
 	- Allgemeine Formel für den Kreis?
 		- $\frac{A_{\text{Quadrat}}}{A_{\text{Kreis}}}=\frac{(2r)^{2}}{A_{\text{Kreis}}}=\frac{(2r)^{2}}{k \cdot r^2}=\frac{4 \cancel{r^2}}{k \cdot \cancel{r^2}}=\frac{4}{k}$ und $k$ nennen wir in Folge $\pi$
