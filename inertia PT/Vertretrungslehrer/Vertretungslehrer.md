@@ -83,8 +83,8 @@ Lina Tongue
 lukas.walter
 Start123
 **Telefon Lehrerzimmer**
-Vorwahl zum raus telefonieren: 01
 (13)-480713
+Vorwahl zum raus telefonieren: 01
 **W-lan:**
 - Schüler:
 	- AdE1Ung!
