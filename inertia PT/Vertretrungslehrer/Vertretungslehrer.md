@@ -1,5 +1,8 @@
-# ENS
-Eintragung der Noten, es gibt ein Video zur Erklärung wie das geht.
+- schwimmpässe 
+- Rechnung an Anas Eltern wegen Lerntreff 
+- Bücherrückgabe 
+	- keine Zeugnisse wenn die Bücher nicht zurück gegeben werden können
+	- 
 # To-Do 
 - [ ] Versmaß verstehen (Videos auf yt)
 	- [ ] jambus
