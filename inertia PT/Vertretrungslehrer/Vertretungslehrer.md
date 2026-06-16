@@ -1,8 +1,8 @@
 - schwimmpässe 
 - Rechnung an Anas Eltern wegen Lerntreff 
 - Bücherrückgabe 
-	- keine Zeugnisse wenn die Bücher nicht zurück gegeben werden können
-	- 
+	- keine Zeugnisse wenn die Bücher nicht zurück gegeben werden
+- 
 # To-Do 
 - [ ] Versmaß verstehen (Videos auf yt)
 	- [ ] jambus
