@@ -2,6 +2,7 @@
 - Rechnung an Anas Eltern wegen Lerntreff 
 - Bücherrückgabe 
 	- keine Zeugnisse wenn die Bücher nicht zurück gegeben werden
+- do und fr 5./6. Hitze frei
 
 *aufgrund der hohen Temperaturen und der starken Erwärmung der Klassenräume endet der Unterricht am Donnerstag, den 18.06., und Freitag, den 19.06.26, bereits nach der 4. Stunde um 11:15 Uhr.*
 *Über die Klassenlehrkräfte erhalten die Schülerinnen und Schüler am Mittwoch den Elternbrief.*
