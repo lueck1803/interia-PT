@@ -53,7 +53,7 @@
 	- mich pflegen, auf mein Äußeres und Auftreten achten
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] duschen 
-- [ ] Wäsche aufhängen 
+- [x] Wäsche aufhängen 
 - [ ] Anwesenheit gestern und heute
 - [ ] Waffenbrüder 
 	- [ ] solo perfekt üben
