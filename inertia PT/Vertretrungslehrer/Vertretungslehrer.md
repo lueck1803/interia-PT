@@ -277,6 +277,7 @@ $$ Fragen was nicht verstanden wurde
 			- ⟹~={LimeGreen}oder=~ den Flächeninhalt eines Dreiecks und dann damit den halben Flächeninhalt des Kreis bestimmen
 		- Wie ~={DeepSkyBlue}lang=~ ist das ~={Gold}Rechteck=~?
 	  ![[Images/BAS/Mathe/Area_of_a_circle.png]]
+		- meine Messung: 2 * 12 +6,5=
 	- Allgemeine Formel für den Kreis?
 		- $\frac{A_{\text{Quadrat}}}{A_{\text{Kreis}}}=\frac{(2r)^{2}}{A_{\text{Kreis}}}=\frac{(2r)^{2}}{k \cdot r^2}=\frac{4 \cancel{r^2}}{k \cdot \cancel{r^2}}=\frac{4}{k}$ und $k$ nennen wir in Folge $\pi$
 		- ![[../Vertretrungslehrer/Images/BAS/Mathe/01_Pi-Definition_mittels_Flächeninhalt.svg.png]]
