@@ -266,7 +266,9 @@ Arbeitsstunden KW 19:
 		- quadrat und darin Kreis zeichnen 
 		- ![[../Vertretrungslehrer/Images/BAS/Mathe/01_Pi-Definition_mittels_Flächeninhalt.svg.png]]
 		- $\frac{A_{\text{Quadrat}}}{A_{\text{Kreis}}}=\frac{(2r)^{2}}{A_{\text{Kreis}}}=\frac{(2r)^{2}}{k \cdot r^2}=\frac{4 \cancel{r^2}}{k \cdot \cancel{r^2}}=\frac{4}{k}$ und $k$ nennen wir in Folge $\pi$
-		- 
+		  - ![[Images/BAS/Mathe/Area_of_a_circle.png]]
+		- Wie ~={DeepSkyBlue}lang=~ ist das ~={Gold}Rechteck=~?
+		- meine Messung: 2 * 12 +7,05=
 #### mo 15.6
 - erstmal klären, was vom letzten mal unklar war und $\mathbb{Q}$ anschreiben $$
 \mathbb{Q}=\left\{ \frac{p}{q}:p,q\in\mathbb{Z} \text{ und } q\ne 0 \right\} 
