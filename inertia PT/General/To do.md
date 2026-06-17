@@ -54,6 +54,7 @@
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Ordner für Schule anlegen um Zeug abzuheften
 - [ ] Feuerzeug Gas nachfüllen 
+- [ ] Brokkoli 
 - [ ] Platz im Keller fürs Fahrrad Machen 
 	- bringt nix, da der Aufzug nicht gehen wird
 - [ ] Wäsche aufhängen 
