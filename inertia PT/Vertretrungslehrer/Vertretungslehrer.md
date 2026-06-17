@@ -9,7 +9,8 @@
 - schwimmpässe 
 	- Amin 
 	- delsa
-	- 
+
+- Bücherausleihzettel kopieren
 
 # To-Do 
 - [ ] Versmaß verstehen (Videos auf yt)
@@ -1676,3 +1677,16 @@ Bei Probealarm gilt immer:
 1 min Dauerton - Entwarnung
 
 Deshalb ging die Sirene 3 mal!
+
+
+# Störungen Liste
+- finlay |
+	-  app mit den Buttons 
+	- Handynutzung 
+- Rayan |||
+	- insbesondere die app mit den Buttons 
+- Mohammad |
+	-  app mit den Buttons 
+- glordi 
+	- generelles aufmüpfiges Verhalten, wird Laut und gibt Widerworte wenn ich ihn ermahne
+	- Chips auf dem Boden, hat sie nach mehreren Aufforderungen aber aufgekehrt
