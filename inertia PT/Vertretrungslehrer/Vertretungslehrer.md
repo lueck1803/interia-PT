@@ -236,7 +236,7 @@ Arbeitsstunden KW 19:
 - Umrechnung von inch in cm nochmal hinschreiben
 - Aufgabe mph in km/h und m/s
 - tisch mit Körperteilen ausmessen und Flächeninhalt berechnen 
-- Flächeninhalt Kreis 
+- Flächeninhalt Kreis ⟹ Basteln 
 
 #### mo 15.6
 - erstmal klären, was vom letzten mal unklar war und $\mathbb{Q}$ anschreiben $$
