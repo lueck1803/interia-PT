@@ -6,11 +6,14 @@
 
 *aufgrund der hohen Temperaturen und der starken Erwärmung der Klassenräume endet der Unterricht am Donnerstag, den 18.06., und Freitag, den 19.06.26, bereits nach der 4. Stunde um 11:15 Uhr.*
 *Über die Klassenlehrkräfte erhalten die Schülerinnen und Schüler am Mittwoch den Elternbrief.*
+
 - schwimmpässe 
 	- Amin 
+		- Frau Güldener hatte keinen. Und herr Jung hat mich an Frau Güldener zurück verwiesen 
 	- delsa
+		- nicht Schwimmer 
 
-- Bücherausleihzettel kopieren
+- [x] Bücherausleihzettel kopieren
 
 # To-Do 
 - [ ] Versmaß verstehen (Videos auf yt)
@@ -224,6 +227,16 @@ Arbeitsstunden KW 19:
 
 ## Mathe
 ### timeline
+#### do 18.6 statt Deutsch Mathe
+- Bruchstrich: entspricht geteilt $p:q\leftrightarrow \frac{p}{q}$ 
+- $p:p=\frac{6}{6}=\frac{5}{5} =\frac{p}{p}=\frac{a}{a}=\dots =1$ 
+- Multiplikation 
+- Division von Brüchen 
+- Addition 
+- Umrechnung von inch in cm nochmal hinschreiben
+- Aufgabe mph in km/h und m/s
+- tisch mit Körperteilen ausmessen und Flächeninhalt berechnen 
+- Flächeninhalt Kreis 
 
 #### mo 15.6
 - erstmal klären, was vom letzten mal unklar war und $\mathbb{Q}$ anschreiben $$
