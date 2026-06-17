@@ -238,6 +238,25 @@ Arbeitsstunden KW 19:
 - tisch mit Körperteilen ausmessen und Flächeninhalt berechnen 
 - Flächeninhalt Kreis ⟹ Basteln 
 
+- da nur 45 min Umfang und Flächeninhalte wiederholen ⟹ Kreis
+
+- anmalen
+	- quadrat
+	- Rechteck 
+	- Dreieck $A_{\text{Dreieck}=\frac{g \cdot h}{2}}$ 
+	- Parallelogramm $A_{\text{Parallelogramm}}=a \cdot h_{a}=b \cdot h_{b}$ 
+	- Trapez
+		- $A_{\text{Trapez}}=\frac{a+c}{2}\cdot h$ 
+		- warum? ⟹ Zusammensetzung aus dem Flächeninhalt zweier Dreiecke
+- $U=?$ und $F=?$ ⟹ aufrufen, wie man es berechnet 
+
+- kreis?
+	- Umfang?
+		- Schnur drumherum legen⟹ ausmessen 
+		- macht mal
+			- jeder zeichnet einen Kreis 
+			- legt eine Schnur drum und misst sie aus
+
 #### mo 15.6
 - erstmal klären, was vom letzten mal unklar war und $\mathbb{Q}$ anschreiben $$
 \mathbb{Q}=\left\{ \frac{p}{q}:p,q\in\mathbb{Z} \text{ und } q\ne 0 \right\} 
