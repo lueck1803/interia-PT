@@ -51,7 +51,12 @@
 	- 100% Fokus 
 	- Ordnung halten 
 	- mich pflegen, auf mein Äußeres und Auftreten achten
-- 
+- Schule: 
+	- Konsistenz in den Regeln und Härte
+	- keine Diskussionen 
+	- Regel:
+		- handy auf den Tisch beim aufs Klo gehen
+		- wenn Handy nicht abgegeben wird, Frau Mair anrufen 
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Ordner für Schule anlegen um Zeug abzuheften
 - [ ] Feuerzeug Gas nachfüllen 
