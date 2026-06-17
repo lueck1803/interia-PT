@@ -60,6 +60,7 @@
 - [ ] Waschen 
 	- [ ] Äpfel 
 	- [ ] auberginen
+- [ ] Berglinsen en
 - [ ] Platz im Keller fürs Fahrrad Machen 
 	- bringt nix, da der Aufzug nicht gehen wird
 - [ ] Wäsche aufhängen 
