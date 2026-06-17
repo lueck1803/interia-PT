@@ -1,6 +1,8 @@
 - [ ] saft
 - [ ] toast
 - [ ] pizza 
+- [ ] Zwei klingeln
+- [ ] einen Flaschenhalter 
 - [x] Nusskati 
 - [x] burger 
 - [ ] Teebaumöl 
@@ -26,7 +28,7 @@
 	- [ ] weiße bohnen 
 	- [ ] kalamata oliven 
 	- [ ] grüne erbsen
-- [ ] Unterhosen 
+- [x] Unterhosen 
 - [ ] neue Wanderschuhe
 - [ ] Displayport - Displayport Kabel
 - [ ] 4er Pack CR2032 3V vom dm
