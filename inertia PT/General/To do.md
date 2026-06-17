@@ -79,7 +79,8 @@
 		- klare kurze Anweisungen 
 		- sie müssen vertrauen haben in einen Führer dem man folgt
 - [ ] neuen Kalender für Schule erstellen 
-- [ ] Apfelbaum umsetzen 
+- [x] Apfelbaum umsetzen 
+- [ ] nochmal Steckling vom Baumhasel machen 
 - [ ] Ordner für Schule anlegen um Zeug abzuheften
 - [ ] Feuerzeug Gas nachfüllen 
 - [ ] Brokkoli 
