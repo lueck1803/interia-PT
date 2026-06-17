@@ -1,9 +1,9 @@
-- [ ] saft
-- [ ] toast
+- [x] saft
+- [x] toast
 - [ ] pizza 
 - [ ] Toilettenpapier 
-- [ ] Zwei klingeln
-- [ ] einen Flaschenhalter 
+- [ ] Zwei klingel
+- [x] einen Flaschenhalter 
 - [x] Nusskati 
 - [x] burger 
 - [ ] Teebaumöl 
