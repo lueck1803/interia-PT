@@ -52,7 +52,7 @@
 	- Ordnung halten 
 	- mich pflegen, auf mein Äußeres und Auftreten achten
 - [ ] neuen Kalender für Schule erstellen 
-- [ ] Ordner für Schule
+- [ ] Ordner für Schule anlegen um Zeug abzuheften
 - [ ] Platz im Keller fürs Fahrrad Machen 
 	- bringt nix, da der Aufzug nicht gehen wird
 - [ ] Wäsche aufhängen 
