@@ -1704,3 +1704,41 @@ Deshalb ging die Sirene 3 mal!
 	- generelles aufmüpfiges Verhalten, wird Laut und gibt Widerworte wenn ich ihn ermahne
 	- Chips auf dem Boden, hat sie nach mehreren Aufforderungen aber aufgekehrt
 # Anrufliste 
+- mason
+	- absolut respektlos in letzter Zeit 
+	- hat mich in Mathe jetzt mehrfach mit Papier abgeworfen und hebt es nicht mal auf
+- bela
+	- Papier werfen 
+	- respektlos 
+	- redet ständig rein 
+	- und macht mich nach 
+- yakub
+	- papier werfen
+	- schon 100 Mal gesagt er soll es sein lassen
+	- er sagt immer ja und sobald ich wegschaue macht er es wieder
+	- gibt aber gute Antworten im Unterricht 
+	- er ist wirklich brilliant, einer der schlausten in der Klasse, aber auch einer der Verwegensten, so bald ihm langweilig ist oder er keine Lust hat... Ist es vorbei und er führt das Chaos an.
+- alessio
+	- aber wirft auch mit anderen Papier in der Klasse herum 
+	- man muss es ihm 100 Mal sagen, bis er das dann aufhebt
+	- hat sich stark gebessert ⟹er macht es immerhin mittlerweile 
+	- beteiligt sich auch am Unterricht, auch wenn man ihn etwas zwingen muss, aber es wird
+- ali efe
+	- permanent laute schreie
+	- wirft mit Papier 
+	- nimmt irgendwelche Gegenstände aus Klassenräumen 
+	- hat auch einen Gegenstand (timer im Raum von fr Kerruish zerstört )
+	- aber er macht in Mathe doch ganz gut mit
+- musawer
+	- respektlos 
+	- wirft mit Papier auch nach mir, wenn ich an der Tafel stehe
+	- hat seine Aggressionen nicht im Griff
+	- im Unterricht geistig abwesend und zu nichts zu bewegen. War in Kunst schon so
+- jass
+	- wirft mit Papier 
+	- hört mal für einen Moment auf
+	- macht im nächsten Moment aber weiter
+	- immerhin räumt er die Unordnung zb Papier, Wasser auf dem Boden, Dinge die er kaputt gemacht hat und Kreide auf dem Boden auf
+	- im Unterricht ist er geistig abwesend 
+	- bei ihm liegt es schon stark am Umfeld, ich sehe bei ihm schon die Bestrebungen, dass er das eigentlich nicht möchte, aber er lässt sich hineinziehen, bricht selbst aber nicht aus diesem Kreislauf heraus 
+	- 
