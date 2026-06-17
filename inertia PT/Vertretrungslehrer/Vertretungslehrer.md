@@ -249,6 +249,7 @@ Arbeitsstunden KW 19:
 		- $A_{\text{Trapez}}=\frac{a+c}{2}\cdot h$ 
 		- warum? ⟹ Zusammensetzung aus dem Flächeninhalt zweier Dreiecke
 - $U=?$ und $F=?$ ⟹ aufrufen, wie man es berechnet 
+- was zeichnet die jeweiligen geometrischen Figuren aus? / Was sind deren Eigenschaften?
 
 - kreis?
 	- Umfang?
