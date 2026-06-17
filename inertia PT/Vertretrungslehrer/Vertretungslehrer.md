@@ -257,6 +257,7 @@ Arbeitsstunden KW 19:
 		- macht mal
 			- jeder zeichnet einen Kreis 
 			- legt eine Schnur drum und misst sie aus
+	- Fläche 
 
 #### mo 15.6
 - erstmal klären, was vom letzten mal unklar war und $\mathbb{Q}$ anschreiben $$
