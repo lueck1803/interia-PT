@@ -1,5 +1,7 @@
 - [ ] Unterschrift 
 - [ ] Datum eintragen 
+- [ ] which effect has $\alpha$ in 
+      
 - [x] welchen time step haben die simulations vom März 2023
 - [x] habe ich noch die alten simulationen vom märz 2023?
 	- [x] Japp gefunden auf der Festplatte in der Uni
