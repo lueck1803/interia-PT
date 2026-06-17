@@ -2,7 +2,7 @@
 - [x] toast
 - [ ] pizza 
 - [ ] Toilettenpapier 
-- [ ] Zwei klingel
+- [x] klingel
 - [x] einen Flaschenhalter 
 - [x] Nusskati 
 - [x] burger 

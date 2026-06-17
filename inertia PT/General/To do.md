@@ -51,6 +51,7 @@
 	- 100% Fokus 
 	- Ordnung halten 
 	- mich pflegen, auf mein Äußeres und Auftreten achten
+- 
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Ordner für Schule anlegen um Zeug abzuheften
 - [ ] Feuerzeug Gas nachfüllen 
