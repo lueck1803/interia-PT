@@ -60,9 +60,10 @@
 - [ ] Waschen 
 	- [ ] Äpfel 
 	- [ ] auberginen
-- [ ] Berglinsen en
+- [ ] Berglinsen eintragen 
 - [ ] Platz im Keller fürs Fahrrad Machen 
 	- bringt nix, da der Aufzug nicht gehen wird
+	- trotzdem eintragen 
 - [ ] Wäsche aufhängen 
 - [ ] Waffenbrüder 
 	- [ ] solo perfekt üben
