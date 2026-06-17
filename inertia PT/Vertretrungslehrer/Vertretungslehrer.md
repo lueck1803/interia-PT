@@ -252,12 +252,19 @@ Arbeitsstunden KW 19:
 - was zeichnet die jeweiligen geometrischen Figuren aus? / Was sind deren Eigenschaften?
 
 - kreis?
+	- welche Eigenschaften haben Kreise?
+	- was macht einen Kreis aus?
+	- was definiert einen Kreis?
+	- worin unterscheiden sich Kreise nur?
 	- Umfang?
 		- Schnur drumherum legen⟹ ausmessen 
 		- macht mal
 			- jeder zeichnet einen Kreis 
 			- legt eine Schnur drum und misst sie aus
-	- Fläche 
+	- Fläche?
+		- quadrat und darin Kreis zeichnen 
+		- ![[../Vertretrungslehrer/Images/BAS/Mathe/01_Pi-Definition_mittels_Flächeninhalt.svg.png]]
+			- 
 
 #### mo 15.6
 - erstmal klären, was vom letzten mal unklar war und $\mathbb{Q}$ anschreiben $$
