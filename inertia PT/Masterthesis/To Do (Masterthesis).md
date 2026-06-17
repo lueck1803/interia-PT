@@ -1,7 +1,12 @@
 - [ ] Unterschrift 
 - [ ] Datum eintragen 
 - [ ] which effect has $\alpha$ in 
-      
+```C
+# use:: fix ID group-ID langevin/lh Tstart Tstop gamma_t seed alpha(=10*gamma_r/sigma^2/gamma_t) omega <yes/no> zero <yes/no>
+# fix 	noise all langevin/lh 1.0 1.0 1.0 1 10 omega yes zero yes	# add Langevin thermostat (noise+friction)
+use:: fix ID group-ID langevin/lh Tstart Tstop gamma_t seed alpha(=10*gamma_r/sigma^2/gamma_t) omega <yes/no> zero <yes/no>
+fix 	noise all langevin/lh 1.0 1.0 1.0 §seed 10 omega yes zero yes	# add Langevin thermostat (noise+friction)
+```
 - [x] welchen time step haben die simulations vom März 2023
 - [x] habe ich noch die alten simulationen vom märz 2023?
 	- [x] Japp gefunden auf der Festplatte in der Uni
