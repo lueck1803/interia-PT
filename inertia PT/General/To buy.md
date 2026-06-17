@@ -48,7 +48,7 @@
 # Lebensmittel 
 - [x] Müsli 
 	- gab's nicht hab Schokochips gekauft 
-- [ ] scharfer Senf 
+- [x] scharfer Senf 
 - [x] Knoblauch 
 - [x] gehackte Tomaten mit Kräuter 
 - [x] Toast 
