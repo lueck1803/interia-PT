@@ -52,7 +52,7 @@
 	- Ordnung halten 
 	- mich pflegen, auf mein Äußeres und Auftreten achten
 - [ ] neuen Kalender für Schule erstellen 
-- [ ] duschen 
+- [ ] Platz im Keller fürs Fahrrad Machen 
 - [x] Wäsche aufhängen 
 - [ ] Anwesenheit gestern und heute
 - [ ] Waffenbrüder 
