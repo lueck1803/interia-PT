@@ -53,9 +53,9 @@
 	- mich pflegen, auf mein Äußeres und Auftreten achten
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Platz im Keller fürs Fahrrad Machen 
+	- [ ] bringt nix, da der Aufzug nicht gehen wird
 - [x] tabs Handy browser aufräumen  
 - [x] Wäsche aufhängen 
-- [ ] Anwesenheit gestern und heute
 - [ ] Waffenbrüder 
 	- [ ] solo perfekt üben
 		- [ ]  welches solo ich spiele muss ich mir noch überlegen. vielleicht mische ich das aus der alten und der neuen version
@@ -71,8 +71,6 @@
 	- [ ] 
 - [ ] ohr eincremen /Teebaumöl 
 - [ ] auf die mail fürs Kaffeekränzchen antworten/bzw anja schreiben 
-- [x] USB-Stick suchen, auch Bürgerpark, Hosen
-	- war in der langen orangenen Hose
 - hab geld vom Strom zurück bekommen 
 	- [ ] definitiv karten fürs Festival kaufen 🥰🎉
 - [ ] Displayschutzfolie wechseln 
