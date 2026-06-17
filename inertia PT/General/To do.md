@@ -53,6 +53,7 @@
 	- mich pflegen, auf mein Äußeres und Auftreten achten
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Ordner für Schule anlegen um Zeug abzuheften
+- [ ] Feuerzeug Gas nachfüllen 
 - [ ] Platz im Keller fürs Fahrrad Machen 
 	- bringt nix, da der Aufzug nicht gehen wird
 - [ ] Wäsche aufhängen 
