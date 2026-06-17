@@ -53,7 +53,7 @@
 	- mich pflegen, auf mein Äußeres und Auftreten achten
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Platz im Keller fürs Fahrrad Machen 
-- [x] tabs Handy browser aufräumen 
+- [x] tabs Handy browser aufräumen  
 - [x] Wäsche aufhängen 
 - [ ] Anwesenheit gestern und heute
 - [ ] Waffenbrüder 
