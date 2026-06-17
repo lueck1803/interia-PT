@@ -1,6 +1,7 @@
 - [ ] saft
 - [ ] toast
 - [ ] pizza 
+- [ ] Toilettenpapier 
 - [ ] Zwei klingeln
 - [ ] einen Flaschenhalter 
 - [x] Nusskati 
