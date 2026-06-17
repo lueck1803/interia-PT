@@ -46,16 +46,15 @@
 	- meinen Körper kennen und lieben lernen 
 	- nicht mehr wixxen
 	- voller Kraft und Lebensmut sein 
-	- yoga, laufen, Krafttraining jeder Art und Krampfsport, statt nervige Themen die mich nicht voran bringen 
+	- yoga, laufen, Krafttraining jeder Art und Kampfsport, statt nervige Themen die mich nicht voran bringen 
 	- keine Politik und kein brain rot mehr
 	- 100% Fokus 
 	- Ordnung halten 
 	- mich pflegen, auf mein Äußeres und Auftreten achten
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Platz im Keller fürs Fahrrad Machen 
-	- [ ] bringt nix, da der Aufzug nicht gehen wird
-- [x] tabs Handy browser aufräumen  
-- [x] Wäsche aufhängen 
+	- bringt nix, da der Aufzug nicht gehen wird
+- [ ] Wäsche aufhängen 
 - [ ] Waffenbrüder 
 	- [ ] solo perfekt üben
 		- [ ]  welches solo ich spiele muss ich mir noch überlegen. vielleicht mische ich das aus der alten und der neuen version
@@ -75,7 +74,6 @@
 	- [ ] definitiv karten fürs Festival kaufen 🥰🎉
 - [ ] Displayschutzfolie wechseln 
 - [ ] Ackerbohnen einfrieren 
-- [ ] rayans mutter anrufen und sagen dass er sich ein großes Stück verbessert hat.
 - [ ] großes schneide brett spülen 
 - [ ] alle nicht-Optimierungsthemen bzgl ADHS/Autismus raus. Keine Lust mehr über das nachzudenken was ich nicht kann und was mich hindert. Ich bin kein Opfer
 	- [ ] watch later knallhart aufräumen 
