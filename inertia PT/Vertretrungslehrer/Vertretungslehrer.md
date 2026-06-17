@@ -1703,3 +1703,4 @@ Deshalb ging die Sirene 3 mal!
 - glordi 
 	- generelles aufmüpfiges Verhalten, wird Laut und gibt Widerworte wenn ich ihn ermahne
 	- Chips auf dem Boden, hat sie nach mehreren Aufforderungen aber aufgekehrt
+# Anrufliste 
