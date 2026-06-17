@@ -241,6 +241,7 @@ Arbeitsstunden KW 19:
 - ~={RedRed}als erstes=~ $1:0=\frac{1}{0}=?$
 	- $\ne 0$
 	- $\ne \infty$ 
+	- Division ist die Umkehropera
 
 - da nur 45 min Umfang und Flächeninhalte wiederholen ⟹ Kreis
 
