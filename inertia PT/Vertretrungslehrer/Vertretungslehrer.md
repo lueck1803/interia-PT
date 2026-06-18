@@ -1725,6 +1725,7 @@ Das ist doch genau der Lehrerberuf .
 ## Regeln 
 - Name an der Tafel ⟹ 5 Striche  Eltern anrufen 
 - 3 mal Eltern angerufen ⟹ Maßnahme 
+		- sie müssen vertrauen haben in einen Führer dem man folgt
 
 ## Ansprachen 
 - Warum das Verhalten am Donnerstag?

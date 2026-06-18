@@ -77,18 +77,19 @@
 	- nicht zu viel Reden nicht zu viel bewegen 
 		- keine Nervosität 
 		- klare kurze Anweisungen 
-		- sie müssen vertrauen haben in einen Führer dem man folgt
 - [ ] neuen Kalender für Schule erstellen 
+- [x] anwesenheit mi und do eintragen
+- [ ] Klamotten aufräumen
 - [x] Apfelbaum umsetzen 
 - [ ] nochmal Steckling vom Baumhasel machen 
 - [ ] Ordner für Schule anlegen um Zeug abzuheften
 - [ ] Feuerzeug Gas nachfüllen 
-- [ ] Brokkoli 
-	- [ ] waschen 
-	- [ ] zubereiten 
-- [ ] Waschen 
+- [x] Brokkoli 
+	- [x] waschen 
+	- [x] zubereiten 
+- [x] Waschen 
 	- [ ] Äpfel 
-	- [ ] auberginen
+	- [x] auberginen
 - [ ] Berglinsen eintragen 
 - [ ] Platz im Keller fürs Fahrrad Machen 
 	- bringt nix, da der Aufzug nicht gehen wird
