@@ -82,7 +82,6 @@
 		- [ ] ⟹ neue Datei erstellen und dort die Spuren anderes mischen
 	- [ ] oder vielleicht lerne ich einfach die lead von version 2 🤷‍♀️
 	- [ ] bzw. tatsächlich eine Mischung, denn in der Bridge spiele ich eventuell doch lieber die rhythm bzw. sickfried
-	- [ ] 
 - [ ] ohr eincremen /Teebaumöl 
 - [ ] auf die mail fürs Kaffeekränzchen antworten/bzw anja schreiben 
 - hab geld vom Strom zurück bekommen 
