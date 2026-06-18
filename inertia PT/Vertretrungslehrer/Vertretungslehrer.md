@@ -243,9 +243,10 @@ Arbeitsstunden KW 19:
 	- $\ne \infty$ 
 	- Division ist die Umkehroperation der Multiplikation und das muss stimmen 
 
-- appetizer $\sum_{i=1}^{\infty} n=1+2+3+4+\dots=\infty=-\frac{1}{12}$
+- appetizer $\sum_{i=1}^{\infty} n=1+2+3+4+\dots=\frac{n(n+1)}{2}=\begin{cases} \infty \\ -\frac{1}{12}\end{cases}$
 	- ich könnte es euch erklären aber ihr würdet meine Erklärung nicht verstehen. Dafür braucht ihr noch ein paar Jahre Mathematik. Soll ein Appetitanreger sein etwas aufzupassen in Mathematik 
 	- das hat reale Anwendungen zb in der Quantenfeldtheorie beim Kasimir Effekt 
+	- analytische Fortsetzung der riemannschen zeta Funktion Zetafunktion $\zeta (z):=\sum _{n=1}^{\infty }{\frac {1}{n^{z}}}$ ist absolut konvergent für $\operatorname {Re} (z)>1$ und kann auf $\operatorname {Re} (z)\leq 1$ durch analytische Fortsetzung erweitert werden, wobei sie an der Stelle $z=1$ eine Polstelle besitzt. $z \in \mathbb{C}/\{1\}$ 
 
 - da nur 45 min Umfang und Flächeninhalte wiederholen ⟹ Kreis
 
