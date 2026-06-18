@@ -1803,7 +1803,7 @@ Deshalb ging die Sirene 3 mal!
 	- man muss es ihm 100 Mal sagen, bis er das dann aufhebt
 	- hat sich stark gebessert ⟹er macht es immerhin mittlerweile 
 	- beteiligt sich auch am Unterricht, auch wenn man ihn etwas zwingen muss, aber es wird
-- ali efe
+- ali efe ✅
 	- permanent laute schreie
 	- wirft mit Papier 
 	- nimmt irgendwelche Gegenstände aus Klassenräumen 
