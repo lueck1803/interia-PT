@@ -1792,7 +1792,7 @@ Deshalb ging die Sirene 3 mal!
 	- respektlos 
 	- redet ständig rein 
 	- und macht mich nach 
-- yakub
+- yakub ✅
 	- papier werfen
 	- schon 100 Mal gesagt er soll es sein lassen
 	- er sagt immer ja und sobald ich wegschaue macht er es wieder
