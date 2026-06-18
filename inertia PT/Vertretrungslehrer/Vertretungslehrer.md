@@ -1568,7 +1568,46 @@ Lukas
 wir nicht überall gleichzeitig sein können, auch nur eine beschränkte Aufmerksamkeit und Informationen haben,  ihr Anliegen wahrgenommen wird, 
 
 # Strategie für effizienten Unterricht 
+## meine Regeln
 
+- ~={RedRed} ankündigen=~
+- immer melden dann beantworte ich die Fragen gerne
+- handy auf den Tisch beim aufs Klo gehen
+- wenn Handy nicht abgegeben wird, Frau Mair anrufen 
+- Handy bei Nutzung auf meinen Schreibtisch 
+	- wenn verweigert, dann nehme ich es ab und es wird im Lehrerzimmer angegeben 
+			- Verweigerung ⟹dann Frau Mair anrufen 
+- Toilette Namen anschreiben
+- Bei 5 Notizen die Eltern anrufen
+## [Why Students Test Some Teachers More Than Others](https://www.youtube.com/watch?v=g3bATvV6SHM) 
+- Schule: 
+	- Konsistenz in den Regeln und Härte
+	- keine Diskussionen 
+		- meinen Weg wie ich lehre lasse ich nicht von den Schülern beeinflussen 
+		- ich lasse mich nicht in Frage stellen, insbesondere wenn es nichts mit dem Thema zu tun hat. 
+	- Regel:
+		- ~={RedRed} ankündigen=~
+		- immer melden dann beantworte ich die Fragen gerne
+		- handy auf den Tisch beim aufs Klo gehen
+		- wenn Handy nicht abgegeben wird, Frau Mair anrufen 
+		- Handy bei Nutzung auf meinen Schreibtisch 
+			- wenn verweigert, dann nehme ich es ab und es wird im Lehrerzimmer angegeben 
+			- Verweigerung ⟹dann Frau Mair anrufen 
+	- nicht reagieren 
+		- keine Emotionen zeigen 
+		- kein Sarkasmus 
+		- keine Schwäche zeigen 
+		- nicht unter meine Haut kommen lassen
+	- keine Unruhe
+		- nicht hetzen lassen 
+		- mich nicht unterbrechen lassen
+		- keine Unordnung in meine Reihenfolgen bringen lassen
+		- ich bin hier der Führer der Klasse 
+	- nicht zu viel Reden nicht zu viel bewegen 
+		- keine Nervosität 
+		- klare kurze Anweisungen 
+		- sie müssen vertrauen haben in einen Führer dem man folgt
+## älter
 - wenn es schnell möglich ist ruhe zu schaffen:
 	- dann mündlich Aufgabe und allgemeines erklären 
 	- möglichst kurz und prägnant 
