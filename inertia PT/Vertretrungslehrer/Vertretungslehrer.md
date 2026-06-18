@@ -1798,7 +1798,7 @@ Deshalb ging die Sirene 3 mal!
 	- er sagt immer ja und sobald ich wegschaue macht er es wieder
 	- gibt aber gute Antworten im Unterricht 
 	- er ist wirklich brilliant, einer der schlausten in der Klasse, aber auch einer der Verwegensten, so bald ihm langweilig ist oder er keine Lust hat... Ist es vorbei und er führt das Chaos an.
-- alessio
+- alessio ✅
 	- aber wirft auch mit anderen Papier in der Klasse herum 
 	- man muss es ihm 100 Mal sagen, bis er das dann aufhebt
 	- hat sich stark gebessert ⟹er macht es immerhin mittlerweile 
@@ -1814,7 +1814,7 @@ Deshalb ging die Sirene 3 mal!
 	- wirft mit Papier auch nach mir, wenn ich an der Tafel stehe
 	- hat seine Aggressionen nicht im Griff
 	- im Unterricht geistig abwesend und zu nichts zu bewegen. War in Kunst schon so
-- jass
+- jass ✅
 	- wirft mit Papier 
 	- hört mal für einen Moment auf
 	- macht im nächsten Moment aber weiter
