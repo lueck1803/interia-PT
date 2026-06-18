@@ -1787,8 +1787,8 @@ Deshalb ging die Sirene 3 mal!
 - mason
 	- absolut respektlos in letzter Zeit 
 	- hat mich in Mathe jetzt mehrfach mit Papier abgeworfen und hebt es nicht mal auf
-- bela
-	- Papier werfen 
+- bela ✅
+	- Papier werfen kann 
 	- respektlos 
 	- redet ständig rein 
 	- und macht mich nach 
