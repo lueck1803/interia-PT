@@ -55,6 +55,7 @@
 - [ ] neuen Kalender für Schule erstellen 
 - [x] anwesenheit mi und do eintragen
 - [ ] Klamotten aufräumen
+- [ ] Spülmaschine ausräumen 
 - [x] Apfelbaum umsetzen 
 - [ ] nochmal Steckling vom Baumhasel machen 
 - [ ] Ordner für Schule anlegen um Zeug abzuheften
@@ -65,7 +66,7 @@
 - [x] Waschen 
 	- [ ] Äpfel 
 	- [x] auberginen
-- [ ] Berglinsen eintragen 
+- [x] Berglinsen eintragen 
 - [ ] Platz im Keller fürs Fahrrad Machen 
 	- bringt nix, da der Aufzug nicht gehen wird
 	- trotzdem eintragen 
