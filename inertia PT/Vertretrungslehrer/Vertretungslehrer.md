@@ -243,6 +243,10 @@ Arbeitsstunden KW 19:
 	- $\ne \infty$ 
 	- Division ist die Umkehroperation der Multiplikation und das muss stimmen 
 
+- appetizer $\sum_{i=1}^{\infty} n=1+2+3+4+\dots=-\frac{1}{12}$
+	- ich könnte es euch erklären aber ihr würdet meine Erklärung nicht verstehen. Dafür braucht ihr noch ein paar Jahre Mathematik. Soll ein Appetitanreger sein etwas aufzupassen in Mathematik 
+	- das hat reale Anwendungen zb in der Quantenfeldtheorie beim Kasimir Effekt 
+
 - da nur 45 min Umfang und Flächeninhalte wiederholen ⟹ Kreis
 
 - anmalen
