@@ -1,19 +1,3 @@
-- schwimmpässe 
-- Rechnung an Anas Eltern wegen Lerntreff 
-- Bücherrückgabe 
-	- keine Zeugnisse wenn die Bücher nicht zurück gegeben werden
-- do und fr 5./6. Hitze frei
-
-*aufgrund der hohen Temperaturen und der starken Erwärmung der Klassenräume endet der Unterricht am Donnerstag, den 18.06., und Freitag, den 19.06.26, bereits nach der 4. Stunde um 11:15 Uhr.*
-*Über die Klassenlehrkräfte erhalten die Schülerinnen und Schüler am Mittwoch den Elternbrief.*
-
-- schwimmpässe 
-	- Amin 
-		- Frau Güldener hatte keinen. Und herr Jung hat mich an Frau Güldener zurück verwiesen 
-	- delsa
-		- nicht Schwimmer 
-
-- [x] Bücherausleihzettel kopieren
 
 # To-Do 
 - [ ] Versmaß verstehen (Videos auf yt)
@@ -1551,6 +1535,16 @@ Struktur: Oft schwer finanzierbar, was die Umsetzung in inklusiven Settings ersc
 Im Rahmen der Lehrerausbildung wird die Doppelbesetzung auch genutzt, um LiV (Lehrer im Vorbereitungsdienst) durch Mentoren zu begleiten. 
 
 # Konversationen
+
+## 26-06-19 Burak
+Ich hatte die 5a nicht so häufig. 
+
+Nur in der Doppelbesetzung in Deutsch bei Mero.
+Durch die Feiertage und Stundenplan Änderung hatte ich sie noch weniger.
+
+Das Positive Verhalten ist mir so deutlich die letzten beiden Male aufgefallen.
+
+Er hat Yazan ein Blatt gegeben der sich geweigert hat überhaupt etwas raus zu holen.
 
 ## 26-05-06
 Vielen Dank für die Wertschätzung.
