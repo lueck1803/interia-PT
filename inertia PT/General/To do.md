@@ -56,6 +56,13 @@
 
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] saugen 
+- [ ] Fahrradhelm 
+Handschuhe
+Paprika mitnehmen 
+ 
+schauen Nach
+       den Bäumen im Wald  
+        Granatapfelbüschen
 - [ ] konto checken 
 - [ ] anwesenheit fr eintragen
 - [ ] Klamotten aufräumen
