@@ -58,11 +58,11 @@
 - [ ] saugen 
 - [ ] Fahrradhelm 
 - [ ] Handschuhe
-- [ ] Paprika eingraben 
+- [x] Paprika eingraben 
  - schauen Nach
 	 - [ ] den Bäumen im Wald  
 	 - [x] Granatapfelbüschen
-		 - [ ] haben alle überlebt, außer der im Garten, der wurde viel
+		 - haben alle überlebt, außer der im Garten, der wurde vielleicht mit umgegraben 
 - [ ] konto checken 
 - [ ] anwesenheit fr eintragen
 - [ ] Klamotten aufräumen
