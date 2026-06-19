@@ -26,6 +26,7 @@
 		- ⤷daran ist nichts Langweiliges es ist ~={MediumSpringGreen}wunder schön=~
 	- die kleinen und wichtigen Dinge des Tages zelebrieren und perfektionieren denn das bringt die wahre Freude und ist der Sinn des Lebens 
 	- ich möchte im Moment glücklich und zufrieden sein. Denn alles kann im nächsten Moment vorbei sein 
+	- ich bleibe dabei was ich jetzt tue und lasse mich nicht mehr verunsichern 
 	- ~={RedRed}nutze endlich die Chancen=~ die du so häufig bekommen hast
 	- ich will ein sehr sehr sehr guter Lehrer werden. Dabei geht es um die Essenz 
 	- die Dinge mit Ruhe, Langsamkeit und der Essenz begehen. Dann hat man Zeit voll bei sich und der Sache zu sein
@@ -35,7 +36,7 @@
 	- darüber nachzudenken ob ich auch ~={DeepSkyBlue}Autismus=~ habe, ist ~={RedRed}nicht=~ ~={LawnGreen}zielführend=~. Das bringt mich nur in eine ~={RedRed}Opferrolle=~ 
 		- nach dem Motto: ich habe ja ~={RedRed}eh=~ ~={red}keine=~ ~={MediumSpringGreen}Kontrolle über mich=~
 		- ⟹ich möchte wieder ~={LawnGreen}Selbstwirksamkeit=~ spüren 
-	- Das sich schuldig fühlen ist ein Teufelskreis. Der mir Selbstwirksamkeit genommen hat und eine selbsterfüllende Prophezeiung war.
+	- Das sich schuldig fühlen ist ein Teufelskreis. Der mir Selbstwirksamkeit genommen hat und eine selbsterfüllende Prophezeihung war.
 	- Es ist halt eine aktive brownsche Bewegung so eine Psyche 🤷‍♂️ insbesondere wenn die Wege und Denkstrukturen so eingefahren sind.
 	- ~={RedRed}Hör auf=~ ~={yellow}scheiße zu dir zu sein=~, das warst du wahrlich lange genug.
 	- Trigger für vollkommene Innere Ruhe ~={RedRed} ich bin absolut wertlos=~
