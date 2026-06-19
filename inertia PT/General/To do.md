@@ -30,6 +30,7 @@
 	- ~={RedRed}nutze endlich die Chancen=~ die du so häufig bekommen hast
 	- ich will ein sehr sehr sehr guter Lehrer werden. Dabei geht es um die Essenz 
 	- die Dinge mit Ruhe, Langsamkeit und der Essenz begehen. Dann hat man Zeit voll bei sich und der Sache zu sein
+	- bidere dich nicht mehr an!
 	- Arooj loslassen, mich auf mich konzentrieren und endlich leben 
 	- wenn ich keine Zeit verschwende, gibt es auch keinen Grund mich schlecht zu fühlen 
 	- tue alles damit es keinen Grund gibt mich schuldig zu fühlen 
@@ -42,7 +43,7 @@
 	- Trigger für vollkommene Innere Ruhe ~={RedRed} ich bin absolut wertlos=~
 	- Verantwortung übernehmen für mich und mein Handeln 
 		- ich wollte das 
-	- keine Lust mehr mich mit ADHS und Autismus im negativen, leidenden und Opfersinn auseinander zu setzen
+	- keine Lust mehr mich mit ADHS und Autismus im Negativen, Leidenden und Opfersinn auseinander zu setzen
 	- extrem viel Sport machen 
 	- meinen Körper kennen und lieben lernen 
 	- nicht mehr wixxen
@@ -54,25 +55,17 @@
 	- mich pflegen, auf mein Äußeres und Auftreten achten
 
 - [ ] neuen Kalender für Schule erstellen 
+- [ ] saugen 
 - [ ] konto checken 
-- [x] anwesenheit mi und do eintragen
+- [ ] anwesenheit fr eintragen
 - [ ] Klamotten aufräumen
-- [ ] Spülmaschine ausräumen 
-- [x] Apfelbaum umsetzen 
 - [ ] nochmal Steckling vom Baumhasel machen 
 - [ ] Ordner für Schule anlegen um Zeug abzuheften
 - [ ] Feuerzeug Gas nachfüllen 
-- [x] Brokkoli 
-	- [x] waschen 
-	- [x] zubereiten 
-- [x] Waschen 
-	- [x] Äpfel 
-	- [x] auberginen
-- [x] Berglinsen eintragen 
 - [ ] Platz im Keller fürs Fahrrad Machen 
 	- bringt nix, da der Aufzug nicht gehen wird
-	- trotzdem eintragen 
-- [ ] Wäsche aufhängen 
+	- trotzdem frei räumen
+	- ich schließe das Fahrrad in der Schule in die Fahrradbox bzw mit an mein city rad
 - [ ] Waffenbrüder 
 	- [ ] solo perfekt üben
 		- [ ]  welches solo ich spiele muss ich mir noch überlegen. vielleicht mische ich das aus der alten und der neuen version
@@ -86,15 +79,12 @@
 	- [ ] oder vielleicht lerne ich einfach die lead von version 2 🤷‍♀️
 	- [ ] bzw. tatsächlich eine Mischung, denn in der Bridge spiele ich eventuell doch lieber die rhythm bzw. sickfried
 - [ ] ohr eincremen /Teebaumöl 
-- [ ] auf die mail fürs Kaffeekränzchen antworten/bzw anja schreiben 
 - hab geld vom Strom zurück bekommen 
 	- [ ] definitiv karten fürs Festival kaufen 🥰🎉
 - [ ] Displayschutzfolie wechseln 
 - [ ] Ackerbohnen einfrieren 
-- [ ] großes schneide brett spülen 
 - [ ] alle nicht-Optimierungsthemen bzgl ADHS/Autismus raus. Keine Lust mehr über das nachzudenken was ich nicht kann und was mich hindert. Ich bin kein Opfer
 	- [ ] watch later knallhart aufräumen 
-- [ ] saugen 
 - [ ] how to add app to accessibility manually 
 - [ ] Sprachaufzeichnung transkribieren 
 - [ ] Akteneintrag Esma fertig machen
