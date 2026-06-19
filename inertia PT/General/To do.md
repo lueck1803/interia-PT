@@ -61,7 +61,8 @@
 - [ ] Paprika eingraben 
  - schauen Nach
 	 - [ ] den Bäumen im Wald  
-	 - [ ] Granatapfelbüschen
+	 - [x] Granatapfelbüschen
+		 - [ ] Hessen
 - [ ] konto checken 
 - [ ] anwesenheit fr eintragen
 - [ ] Klamotten aufräumen
