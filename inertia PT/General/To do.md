@@ -53,6 +53,7 @@
 	- mich pflegen, auf mein Äußeres und Auftreten achten
 
 - [ ] neuen Kalender für Schule erstellen 
+- [ ] konto checken 
 - [x] anwesenheit mi und do eintragen
 - [ ] Klamotten aufräumen
 - [ ] Spülmaschine ausräumen 
