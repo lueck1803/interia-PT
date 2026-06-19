@@ -62,7 +62,7 @@
  - schauen Nach
 	 - [ ] den Bäumen im Wald  
 	 - [x] Granatapfelbüschen
-		 - [ ] Hessen
+		 - [ ] haben alle überlebt, außer der im Garten, der wurde viel
 - [ ] konto checken 
 - [ ] anwesenheit fr eintragen
 - [ ] Klamotten aufräumen
