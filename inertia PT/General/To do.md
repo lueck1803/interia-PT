@@ -64,7 +64,7 @@
 	- [x] waschen 
 	- [x] zubereiten 
 - [x] Waschen 
-	- [ ] Äpfel 
+	- [x] Äpfel 
 	- [x] auberginen
 - [x] Berglinsen eintragen 
 - [ ] Platz im Keller fürs Fahrrad Machen 
