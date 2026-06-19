@@ -60,7 +60,8 @@
 - [x] Handschuhe
 - [x] Paprika eingraben 
  - schauen Nach
-	 - [ ] den Bäumen im Wald  
+	 - [x] den Bäumen im Wald  
+		 - den mari
 	 - [x] Granatapfelbüschen
 		 - haben alle überlebt, außer der im Garten, der wurde vielleicht mit umgegraben 
 - [ ] konto checken 
