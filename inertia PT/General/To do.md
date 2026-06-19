@@ -56,8 +56,8 @@
 
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] saugen 
-- [ ] Fahrradhelm 
-- [ ] Handschuhe
+- [x] Fahrradhelm 
+- [x] Handschuhe
 - [x] Paprika eingraben 
  - schauen Nach
 	 - [ ] den Bäumen im Wald  
