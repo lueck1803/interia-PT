@@ -61,7 +61,7 @@
 - [x] Paprika eingraben 
  - schauen Nach
 	 - [x] den Bäumen im Wald  
-		 - den mari
+		 - den Maronen ging es ziemlich scheiße 
 	 - [x] Granatapfelbüschen
 		 - haben alle überlebt, außer der im Garten, der wurde vielleicht mit umgegraben 
 - [ ] konto checken 
