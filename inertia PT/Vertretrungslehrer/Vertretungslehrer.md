@@ -1848,4 +1848,4 @@ Deshalb ging die Sirene 3 mal!
 	- immerhin räumt er die Unordnung zb Papier, Wasser auf dem Boden, Dinge die er kaputt gemacht hat und Kreide auf dem Boden auf
 	- im Unterricht ist er geistig abwesend 
 	- bei ihm liegt es schon stark am Umfeld, ich sehe bei ihm schon die Bestrebungen, dass er das eigentlich nicht möchte, aber er lässt sich hineinziehen, bricht selbst aber nicht aus diesem Kreislauf heraus 
-- 
+- wissam mutter 017632050239
