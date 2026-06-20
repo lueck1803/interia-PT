@@ -99,7 +99,7 @@
 - [ ] wenn ich proposal abgegeben habe, kaufe ich mir ein Ticket für das Festival 
 - [ ] Wäsche auf Sofa 
 - [ ] Batterie Wetterstation
-- [ ] Getränkehalter anbringen 
+- [x] Getränkehalter anbringen 
 - [ ] Fahrradschloss kaufen 
 - [ ] aldi
 - [ ] Marmor Kuchen 
