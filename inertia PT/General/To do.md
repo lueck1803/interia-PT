@@ -103,9 +103,9 @@
 - [ ] Batterie Wetterstation
 - [x] Getränkehalter anbringen 
 - [x] Fahrradschloss kaufen 
-- [ ] aldi
+- [x] aldi
 - [ ] zweiten Getränkehalter zum clippen an den oberen Rahmen 
-- [ ] Marmor Kuchen 
+- [x] Marmor Kuchen 
 - [ ] Wäsche 
 - [ ] Küche 
 - [x] essen
@@ -117,7 +117,7 @@
 - [ ] Kette fetten 
 - [x] Schaltung fertig einstellen
 - [x] rad Trinkflasche suchen
-	- [ ] Spülmaschine 
+	- [x] Spülmaschine 
 - [x] Balkon kehren
 - [ ] Bas Kram aufräumen 
 - [ ] Proposal 
