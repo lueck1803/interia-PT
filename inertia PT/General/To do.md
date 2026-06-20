@@ -112,7 +112,7 @@
 - [ ] Bohnen einfrieren 
 - [ ] Paprikas eingraben 
 - [ ] rad Trinkflasche suchen
-- [ ] Balkon kehren
+- [x] Balkon kehren
 - [ ] Bas Kram aufräumen 
 - [ ] Proposal 
 - [ ] Hosentaschen graue Hose vergrößern 
