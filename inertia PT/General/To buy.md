@@ -1,10 +1,11 @@
-- [x] saft
-- [x] toast
+- [ ] saft
+- [ ] toast
+- [ ] Nusskati 
+- [ ] Sauerkirschen 
 - [ ] pizza 
 - [x] Toilettenpapier 
 - [x] klingel
 - [x] einen Flaschenhalter 
-- [x] Nusskati 
 - [x] burger 
 - [ ] Teebaumöl 
 - [ ] tofu 

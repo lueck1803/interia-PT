@@ -112,6 +112,20 @@
 		- [ ] ebenso die ~={pink}Deutungshoheit=~ über euch selbst.
 		- [ ] lasst sie euch nicht nehmen
 - [ ] Wäsche auf Sofa 
+- [ ] Getränkehalter anbringen 
+- [ ] Fahrradschloss kaufen 
+- [ ] aldi
+- [ ] Marmor Kuchen 
+- [ ] Wäsche 
+- [ ] Küche 
+- [ ] essen
+- [ ] Boden im Bad
+- [ ] duschen + rasieren 
+- [ ] Download rüberschieben 
+- [ ] Bohnen einfrieren 
+- [ ] Balkon kehren
+- [ ] Bas Kram aufräumen 
+- [ ] Proposal 
 - [ ] Hosentaschen graue Hose vergrößern 
 - [ ] foxit reader Mac aufräumen
 - [ ] in die Uni fahren und schauen ob ich ein Displayport-Displayport Kabel finde bzw. DP-Kabel kaufen...
