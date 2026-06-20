@@ -1,8 +1,8 @@
-- [ ] saft
-- [ ] toast
-- [ ] Nusskati 
-- [ ] Sauerkirschen 
-- [ ] pizza 
+- [ ] Backpulver 
+- [x] saft
+- [x] toast
+- [x] Nusskati 
+- [x] pizza 
 - [x] Toilettenpapier 
 - [x] klingel
 - [x] einen Flaschenhalter 
