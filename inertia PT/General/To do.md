@@ -98,6 +98,7 @@
 - [ ] Akteneintrag Esma fertig machen
 - [ ] wenn ich proposal abgegeben habe, kaufe ich mir ein Ticket für das Festival 
 - [ ] Wäsche auf Sofa 
+- [ ] Batterie Wetterstation
 - [ ] Getränkehalter anbringen 
 - [ ] Fahrradschloss kaufen 
 - [ ] aldi
