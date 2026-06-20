@@ -112,7 +112,7 @@
 - [ ] Bohnen einfrieren 
 - [ ] Paprikas eingraben 
 - [ ] Kette fetten 
-- [ ] Schaltung 
+- [ ] Schaltung fertig einstellen pi lllllllllll ol ppl llll ok
 - [x] rad Trinkflasche suchen
 	- [ ] Spülmaschine 
 - [x] Balkon kehren
