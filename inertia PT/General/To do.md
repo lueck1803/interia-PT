@@ -105,7 +105,7 @@
 - [ ] Marmor Kuchen 
 - [ ] Wäsche 
 - [ ] Küche 
-- [ ] essen
+- [x] essen
 - [ ] Boden im Bad
 - [ ] duschen + rasieren 
 - [ ] Download rüberschieben 
