@@ -111,6 +111,8 @@
 - [ ] Download rüberschieben 
 - [ ] Bohnen einfrieren 
 - [ ] Paprikas eingraben 
+- [ ] Kette fetten 
+- [ ] Schaltung 
 - [x] rad Trinkflasche suchen
 	- [ ] Spülmaschine 
 - [x] Balkon kehren
