@@ -64,7 +64,9 @@
 		 - den Maronen ging es ziemlich scheiße 
 	 - [x] Granatapfelbüschen
 		 - haben alle überlebt, außer der im Garten, der wurde vielleicht mit umgegraben 
-- [ ] konto checken 
+- [x] konto checken 
+	- alter ich hab 1900€ bekommen 
+	- ich muss quasi auf das Festival 😍
 - [ ] anwesenheit fr eintragen
 - [ ] Klamotten aufräumen
 - [ ] nochmal Steckling vom Baumhasel machen 
@@ -107,12 +109,12 @@
 - [ ] Küche 
 - [x] essen
 - [ ] Boden im Bad
-- [ ] duschen + rasieren 
+- [x] duschen + rasieren 
 - [ ] Download rüberschieben 
 - [ ] Bohnen einfrieren 
 - [ ] Paprikas eingraben 
 - [ ] Kette fetten 
-- [ ] Schaltung fertig einstellen pi lllllllllll ol ppl llll ok
+- [ ] Schaltung fertig einstellen
 - [x] rad Trinkflasche suchen
 	- [ ] Spülmaschine 
 - [x] Balkon kehren
