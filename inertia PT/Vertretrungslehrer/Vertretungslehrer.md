@@ -1517,6 +1517,21 @@ Verständlichkeit von Sätzen ohne entsprechende Satzzeichen.
 ## DAZ
 - übersetzt ein Gedicht aus eurer Muttersprache auf Deutsch. Ohne Google-Übersetzer 
 
+
+## Ethik
+- Wort Opferhaltung erklären 
+	- Opferhaltung ist das Gegenteil von opfer sein
+	- prinzipiell schlimmer, denn man macht sich selbst emotional zum Opfer 
+	- dabei ist man es faktisch nicht
+	- man denkt man sei unterlegen und wird darüber wütend 
+	- statt dass man ruhig und bei sich bleibt, sich und seine Position stärkt
+	- Ziel 
+		- ⟹ ~={LawnGreen}Selbstwirksamkeit=~ finden 
+		- wenn ihr eure Gefühle, euer Handeln und insbesondere euren ~={DeepSkyBlue}Selbstwert=~ zu sehr ~={orange}von Anderen=~ und deren Worte ~={RedRed}abhängig=~ macht, die im Falle einer Beschimpfung bedeutungslos sind, dann schränkt ihr eure Selbstwirksamkeit ein und könnt nie euer wirkliches Potential entfalten.
+		- ihr ~={Crimson}gebt den anderen die Macht=~ über eure Gefühle und damit über euch
+		- ⤷ deshalb nenne ich es ~={LimeGreen}Beschimpfung=~, denn ob ihr ~={Tomato}beleidigt=~ ~={Tomato}seid=~, darüber ~={Gold}habt Ihr alleine die Macht!=~
+		- ebenso die ~={pink}Deutungshoheit=~ über euch selbst.
+		- lasst sie euch nicht nehmen
 # Begriffssammlung 
 ## Doppelbesetzung 
 Die Doppelbesetzung in Schulen bezeichnet den Einsatz von zwei pädagogischen Fachkräften (Lehrer, Sonderpädagogen, Sozialarbeiter oder Assistenten) in einer Unterrichtsstunde. Sie dient der individuellen Förderung, Inklusion und besseren Betreuung, besonders in Kernfächern wie Deutsch, Mathe oder Englisch, wird jedoch oft durch Lehrermangel eingeschränkt. 
