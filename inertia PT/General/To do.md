@@ -71,7 +71,7 @@
 - [ ] Klamotten aufräumen
 - [ ] nochmal Steckling vom Baumhasel machen 
 - [ ] Ordner für Schule anlegen um Zeug abzuheften
-- [ ] Feuerzeug Gas nachfüllen 
+- [x] Feuerzeug Gas nachfüllen 
 - [ ] Platz im Keller fürs Fahrrad Machen 
 	- bringt nix, da der Aufzug nicht gehen wird
 	- trotzdem frei räumen
