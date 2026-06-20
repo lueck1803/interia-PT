@@ -111,7 +111,8 @@
 - [ ] Download rüberschieben 
 - [ ] Bohnen einfrieren 
 - [ ] Paprikas eingraben 
-- [ ] rad Trinkflasche suchen
+- [x] rad Trinkflasche suchen
+	- [ ] Spülmaschine 
 - [x] Balkon kehren
 - [ ] Bas Kram aufräumen 
 - [ ] Proposal 
