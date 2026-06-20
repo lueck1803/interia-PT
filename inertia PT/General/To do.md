@@ -102,19 +102,20 @@
 - [ ] Wäsche auf Sofa 
 - [ ] Batterie Wetterstation
 - [x] Getränkehalter anbringen 
-- [ ] Fahrradschloss kaufen 
+- [x] Fahrradschloss kaufen 
 - [ ] aldi
+- [ ] zweiten Getränkehalter zum clippen an den oberen Rahmen 
 - [ ] Marmor Kuchen 
 - [ ] Wäsche 
 - [ ] Küche 
 - [x] essen
 - [ ] Boden im Bad
 - [x] duschen + rasieren 
-- [ ] Download rüberschieben 
+- [x] Download rüberschieben 
 - [ ] Bohnen einfrieren 
 - [ ] Paprikas eingraben 
 - [ ] Kette fetten 
-- [ ] Schaltung fertig einstellen
+- [x] Schaltung fertig einstellen
 - [x] rad Trinkflasche suchen
 	- [ ] Spülmaschine 
 - [x] Balkon kehren
