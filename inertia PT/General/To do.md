@@ -110,6 +110,7 @@
 - [ ] duschen + rasieren 
 - [ ] Download rüberschieben 
 - [ ] Bohnen einfrieren 
+- [ ] Paprikas eingraben 
 - [ ] Balkon kehren
 - [ ] Bas Kram aufräumen 
 - [ ] Proposal 
