@@ -83,7 +83,67 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
-## 26-06-
+## 26-06-21 Nadine Urban 
+Mich hat die Wechselhaftigkeit der Kinder im Verhalten gegenüber mir bzw gegenüber dem Situations bezogenen Ich oder vielleicht gegenüber einer Rolle in der ich war irritiert.
+
+Nur am Alter liegt das definitiv nicht. Bei andern Kindern habe ich bisher nicht so eine Sprunghaftigkeit erlebt, die so in die Extreme geht.
+
+Im Einzelnen oder auch in Teilgruppen sind alle der 5c nach nem kurzen Moment extrem freundlich, einsichtig und verständnisvoll.
+
+Als gesamte Klasse sind sie dann zweitweise ab nem Kipppunkt extrem respektlos und versuchen einen auf der persönlichen Ebene irgendmöglich zu Testen und zu schauen ob man einen zum eskalieren bringen kann. 
+
+Es machen dann nicht alle mit, es sind so 3-4 der Kinder. Beim Rest löst das aber auf ein gewisses Maß die Hemmschwelle zur nicht mehr Einhaltung der Ordnung.
+
+Warum ich dir das schreibe ist folgendes:
+Als wir letztens draußen waren und ich bei der dreier Gruppe Mädchen (ohne Daisy) stand und mit denen Ball gespielt habe, hat Sherin mir von sich erzählt - ich glaube meine Eingangsfrage bezog sich auf die Berufswünsche der drei.
+
+Da war sie ganz offen. Ich erinnere mich jetzt auch wieder an Details.
+Sie hat erzählt dass sie von einer Tante oder anderen Verwandte wie ein Diener und darüberhinaus behandelt wurde.
+
+Sie musste sie auch massieren und zwar recht häufig und es gab Tendenzen dass es wohl darüberhinaus ging. Schickanierungen und auch Schläge.
+
+Das hat sie vor Delsa und Hazenat erzählt.
+
+Sie hat dann von sich aus den Kontakt abgebrochen.
+
+Ich hab gesagt, dass das Verhalten absolut schrecklich ist und sie sehr stolz auf sich sein kann, dass sie sich das nicht länger hat gefallen lassen und diese klare und richtige Entscheidung getroffen hat. In ihrem jungen Alter.
+Das ist bemerkenswert.
+
+Ich glaube auch aufgrund dieser Erfahrung springt Sherin gerne mal in diese trotzige "Nö mach ich nicht Haltung" und geht dann über in "und was wenn nicht?"
+Will also wissen was die Konsequenzen sind, um darauf zu kontern, dass es ihr egal ist und ihr die Konsequenzen nichts anhaben kann. 
+
+In diese Spirale bin ich mit ihr eh nicht mehr gegangen, da ich sie in der Hinsicht kenne, das läuft wie ein Programm ab, was im Mitgehen der Spirale nicht dazu führt, was man eigentlich von ihr wollte 🤭.
+
+Ich habe bei ihr meist recht früh davon abgelassen, da sie kurze Zeit später eh wieder anders ist. 
+
+Ich wollte dir diese Geschichte die ich von ihr gehört habe nur mitteilen.
+Falls sie dir das nicht schon erzählt hat.
+
+Ich finde das "erklärt" Sherins Art und Verhalten ganz gut.
+
+Ich bin nur immer wieder echt erstaunt wie die Kinder in einem Moment so vertrauenswürdig und verletzlich sind und in einer anderen Situation sind sie herablassend und versuchen auf der persönlichen Ebene beleidigend zu sein. 🤷😅
+
+Das habe ich jetzt aber schon bei so vielen Kindern erlebt.
+Erst letztens bei Tuba aus der 5d. 😅
+
+Der Wechsel von Montag auf Freitag war bei Tuba schon sehr stark.
+
+Ich glaube diese Pendelbewegung ist eine Art Abwehrreaktion auf das was innerlich in den Kindern vorgeht.
+
+Denn einerseits öffnen die sich auf einer persönlichen Ebene extrem.
+
+Und zu einem anderen Moment schwingt es dem ganzen wieder entgegen.
+
+Mir scheint es manchmal als eine Mischung aus Test "meint er es ernst mit mir, ist er auch dann noch freundlich, lieb und kann mich ihm öffnen, wenn ich gemein war" (ich glaube die kennen dieses konstante Verhalten und die Ehrlichkeit mit der ich auf deren persönliche Fragen zum Teil antworte nicht) und Abwehrreaktion "vielleicht ist er gar nicht so und ich muss es testen ob das wirklich gut aufgehoben war bei ihm, denn eigentlich bin ich ja immer so hart und unnahbar und jetzt habe ich Sachen erzählt, war so freundlich und oh nein auch verletzlich, das macht mir Angst. Vielleicht nutzt er meine Schwächen und Informationen gegen mich" und dann versuchen sie das mit entsprechendem Verhalten zu überkompensieren. 🤷
+
+Ich weiß es nicht so recht.
+
+Vielleicht fühlen die sich auf eine Art "manipuliert", dass sie sich nem Mann gegenüber so öffnen.
+
+Ist jetzt nur so ne Vermutung.
+Ich bin einfach nur wie ich bin. Manipulieren will ich niemanden.
+
+Ich habe habe selbst in meiner Kindheit und Jugend so offene männliche Erwachsene erlebt 
 ## 26-06-02 Fredin
 ich hab jetzt gestern und heute starke meltdowns gehabt, obwohl ich versucht habe meine Energie in der Schule zu schonen.
 
