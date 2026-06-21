@@ -55,7 +55,9 @@
 	- mich pflegen, auf mein Äußeres und Auftreten achten
 
 - [ ] neuen Kalender für Schule erstellen 
-- [ ] saugen 
+- [x] saugen 
+- [ ] überlegen was ich kaufen wollte...
+	- [ ] weitere base ball caps bzw allgemein hüte
 - [x] Fahrradhelm 
 - [x] Handschuhe
 - [x] Paprika eingraben 
