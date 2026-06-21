@@ -55,8 +55,7 @@
 	- mich pflegen, auf mein Äußeres und Auftreten achten
 
 - [ ] neuen Kalender für Schule erstellen 
-- [ ] Wäsche mit kurzen Hosen
-- [ ] Fahrradtasche aussaugen 
+- [x] Fahrradtasche aussaugen 
 - [x] Nudeln kochen 
 	- [x] tortiglioni austragen 
 - [x] Cursor Position plugin ausschalten 
@@ -75,7 +74,7 @@
 	- alter ich hab 1900€ bekommen 
 	- ich muss quasi auf das Festival 😍
 - [ ] anwesenheit fr eintragen
-- [ ] Klamotten aufräumen
+- [x] Klamotten aufräumen
 - [ ] nochmal Steckling vom Baumhasel machen 
 - [ ] Ordner für Schule anlegen um Zeug abzuheften
 - [x] Feuerzeug Gas nachfüllen 
@@ -106,14 +105,12 @@
 - [ ] Sprachaufzeichnung transkribieren 
 - [ ] Akteneintrag Esma fertig machen
 - [ ] wenn ich proposal abgegeben habe, kaufe ich mir ein Ticket für das Festival 
-- [ ] Wäsche auf Sofa 
-- [ ] Batterie Wetterstation
+- [x] Batterie Wetterstation
 - [x] Getränkehalter anbringen 
 - [x] Fahrradschloss kaufen 
 - [x] aldi
 - [ ] zweiten Getränkehalter zum clippen an den oberen Rahmen 
 - [x] Marmor Kuchen 
-- [ ] Wäsche 
 - [ ] Küche 
 - [x] essen
 - [x] Boden im Bad
@@ -135,7 +132,7 @@
 - [ ] Waschbecken Küche 
 - [ ] Kochplatten 
 - [ ] Arbeitsplatte saugen und aufräumen
-- [ ] Wasserhahn Küche silkonölen
+- [x] Wasserhahn Küche silkonölen
 - [ ] einkaufschip
 - [ ] Bildschirme tauschen ⟹ großen weg und die zwei kleinen vor mich
 	- [ ] erstmal die Position verändert, da ich keine dp-dp-Kabel habe
