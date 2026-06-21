@@ -55,7 +55,7 @@
 	- mich pflegen, auf mein Äußeres und Auftreten achten
 
 - [ ] neuen Kalender für Schule erstellen 
-- [x] saugen 
+- [ ] Wäsche mit kurzen Hosen
 - [ ] mtb Schaltung vorne Feinjustierung 
 - [ ] überlegen was ich kaufen wollte...
 	- [ ] weitere base ball caps bzw allgemein hüte
