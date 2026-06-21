@@ -56,8 +56,8 @@
 
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Wäsche mit kurzen Hosen
-- [ ] Nudeln kochen 
-	- [ ] torgitiolloni austragen 
+- [x] Nudeln kochen 
+	- [ ] tortiglioni austragen 
 - [x] Cursor Position plugin ausschalten 
 - [ ] mtb Schaltung vorne Feinjustierung 
 - [ ] überlegen was ich kaufen wollte...
