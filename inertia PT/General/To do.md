@@ -58,7 +58,7 @@
 - [ ] Wäsche mit kurzen Hosen
 - [ ] Fahrradtasche aussaugen 
 - [x] Nudeln kochen 
-	- [ ] tortiglioni austragen 
+	- [x] tortiglioni austragen 
 - [x] Cursor Position plugin ausschalten 
 - [ ] mtb Schaltung vorne Feinjustierung 
 - [ ] überlegen was ich kaufen wollte...
