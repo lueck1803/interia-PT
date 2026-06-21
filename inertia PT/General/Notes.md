@@ -83,6 +83,7 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+## 26-06-
 ## 26-06-02 Fredin
 ich hab jetzt gestern und heute starke meltdowns gehabt, obwohl ich versucht habe meine Energie in der Schule zu schonen.
 
