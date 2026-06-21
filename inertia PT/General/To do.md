@@ -57,6 +57,7 @@
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Wäsche mit kurzen Hosen
 - [ ] Nudeln kochen 
+- [ ] 
 - [ ] mtb Schaltung vorne Feinjustierung 
 - [ ] überlegen was ich kaufen wollte...
 	- [ ] weitere base ball caps bzw allgemein hüte
