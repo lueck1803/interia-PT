@@ -56,6 +56,7 @@
 
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Wäsche mit kurzen Hosen
+- [ ] Nudeln kochen 
 - [ ] mtb Schaltung vorne Feinjustierung 
 - [ ] überlegen was ich kaufen wollte...
 	- [ ] weitere base ball caps bzw allgemein hüte
@@ -112,7 +113,7 @@
 - [ ] Wäsche 
 - [ ] Küche 
 - [x] essen
-- [ ] Boden im Bad
+- [x] Boden im Bad
 - [x] duschen + rasieren 
 - [x] Download rüberschieben 
 - [ ] Bohnen einfrieren 
