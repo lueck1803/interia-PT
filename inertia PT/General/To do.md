@@ -56,6 +56,7 @@
 
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Wäsche mit kurzen Hosen
+- [ ] Fahrradtasche aussaugen 
 - [x] Nudeln kochen 
 	- [ ] tortiglioni austragen 
 - [x] Cursor Position plugin ausschalten 
