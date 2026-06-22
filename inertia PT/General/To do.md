@@ -55,7 +55,9 @@
 	- mich pflegen, auf mein Äußeres und Auftreten achten
 
 - [ ] neuen Kalender für Schule erstellen 
-- [ ] Batterie große Uhr wechseln 
+- [x] Batterie große Uhr wechseln 
+- [ ] zwei Maronen in destilliertewasserflaschen umsetzen 
+- [ ] Walnuss in topf setzen 
 - [x] Fahrradtasche aussaugen 
 - [x] Nudeln kochen 
 	- [x] tortiglioni austragen 
