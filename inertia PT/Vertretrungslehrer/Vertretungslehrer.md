@@ -1042,7 +1042,8 @@ Falls Vortrag gehalten wird, ändert sich das nochmal.
 
 ## Islam 
 ### allah is evil /shaitan
-Because he wants you to sin so he can forgive you
+Because he wants you to sin so he can forgive you.
+He is **dependend**
 
 Sahih Muslim 2748 b
 Abu Ayyub Ansari reported that Allah's Messenger (ﷺ) said:
