@@ -1041,6 +1041,11 @@ Falls Vortrag gehalten wird, ändert sich das nochmal.
 - the ottoman empire enslaved people on all of their theretory
 
 ## Islam 
+### allah is evil /shaitan
+Sahih Muslim 2748 b
+Abu Ayyub Ansari reported that Allah's Messenger (ﷺ) said:
+
+If you were not to commit sins, Allah would have swept you out of existence and would have replaced you by another people who have committed sin, and then asked forgiveness from Allah, and He would have granted them pardon.
 
 ### [Who ever kills an innocent person...](https://www.youtube.com/watch?v=yfqduwXVSgQ)
 - [**Quran 5:32:**](https://legacy.quran.com/5/32-33)
