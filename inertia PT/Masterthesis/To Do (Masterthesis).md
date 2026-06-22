@@ -28,6 +28,8 @@ fix 	noise all langevin/lh 1.0 1.0 1.0 §seed 10 omega yes zero yes	# add Langev
 
 - [x] Lukas hechts skript und arbeit erwähnen
 
+- [ ] in die 1:10 snapshots noch 40 mio und 80 mio reinpacken
+
 - [ ] Chapter simulations ~={Crimson}refer to it=~
 
 - [ ] What is active matter?
