@@ -1058,8 +1058,8 @@ By Him in Whose Hand is my life, if you were not to commit sin, Allah would swee
 
 Hebrew word for God is
 Eljon
-⤷
-El o him
+⤷El o him
+Allah
 
 
 ### [Who ever kills an innocent person...](https://www.youtube.com/watch?v=yfqduwXVSgQ)
