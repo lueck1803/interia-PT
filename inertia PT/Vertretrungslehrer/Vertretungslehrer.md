@@ -1045,7 +1045,7 @@ Falls Vortrag gehalten wird, ändert sich das nochmal.
 Because he wants you to sin so he can forgive you.
 He is **dependent** on you sinning.
 
-Sahih Muslim 2748 b
+**Sahih Muslim 2748 b**
 Abu Ayyub Ansari reported that Allah's Messenger (ﷺ) said:
 
 If you were not to commit sins, Allah would have swept you out of existence and would have replaced you by another people who have committed sin, and then asked forgiveness from Allah, and He would have granted them pardon.
