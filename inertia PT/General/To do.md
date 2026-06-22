@@ -55,7 +55,7 @@
 	- mich pflegen, auf mein Äußeres und Auftreten achten
 
 - [ ] neuen Kalender für Schule erstellen 
-- [ ] Batterie 
+- [ ] Batterie große Uhr wechseln 
 - [x] Fahrradtasche aussaugen 
 - [x] Nudeln kochen 
 	- [x] tortiglioni austragen 
