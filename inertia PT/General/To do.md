@@ -665,7 +665,8 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] Jack Wolfskin Schuhe Schnürsenkel reparieren
 - [x] graue hose Knopf reparieren 
 # Pflanzen 
-- [ ] tieferes basin für Lotus 
+- [x] tieferes basin für Lotus 
+- [ ] herbst neue Maronen stratifizieren 
 - [ ] Forest and gardening vlog 
 - [ ] Forest pond
 - [ ] welche kameras hat der robinga?

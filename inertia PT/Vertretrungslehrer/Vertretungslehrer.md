@@ -1041,6 +1041,9 @@ Falls Vortrag gehalten wird, ändert sich das nochmal.
 - the ottoman empire enslaved people on all of their theretory
 
 ## Islam 
+### scientific mistakes of quran
+https://youtu.be/8yMD99gyr14?is=Sw8-6PzSpEbSlVHi
+
 ### allah is evil /shaitan
 Because he wants you to sin so he can forgive you.
 He is **dependent** on you sinning.
