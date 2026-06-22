@@ -1050,6 +1050,11 @@ Abu Ayyub Ansari reported that Allah's Messenger (ﷺ) said:
 
 If you were not to commit sins, Allah would have swept you out of existence and would have replaced you by another people who have committed sin, and then asked forgiveness from Allah, and He would have granted them pardon.
 
+
+**Sahih Muslim 2749**
+Abu Huraira reported Allah's Messenger (ﷺ) having said:
+
+By Him in Whose Hand is my life, if you were not to commit sin, Allah would sweep you out of existence and He would replace (you by) those people who would commit sin and seek forgiveness from Allah, and He would have pardoned them.
 ### [Who ever kills an innocent person...](https://www.youtube.com/watch?v=yfqduwXVSgQ)
 - [**Quran 5:32:**](https://legacy.quran.com/5/32-33)
   That is why We ordained for the Children of Israel that whoever takes a life—unless as a punishment for murder or mischief in the land—it will be as if they killed all of humanity; and whoever saves a life, it will be as if they saved all of humanity.1 ˹Although˺ Our messengers already came to them with clear proofs, many of them still transgressed afterwards through the land.
