@@ -1057,8 +1057,10 @@ Abu Huraira reported Allah's Messenger (ﷺ) having said:
 By Him in Whose Hand is my life, if you were not to commit sin, Allah would sweep you out of existence and He would replace (you by) those people who would commit sin and seek forgiveness from Allah, and He would have pardoned them.
 
 Hebrew word for God is
+Eljon
+⤷
 El o him
-⤷Eljon
+
 
 ### [Who ever kills an innocent person...](https://www.youtube.com/watch?v=yfqduwXVSgQ)
 - [**Quran 5:32:**](https://legacy.quran.com/5/32-33)
