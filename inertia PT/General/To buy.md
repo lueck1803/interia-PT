@@ -26,6 +26,7 @@
 - [x] gewürz Ketchup 
 - [x] hummus
 - [x] zink tabletten
+- [ ] ventilator 
 - türke
 	- [ ] weiße bohnen 
 	- [ ] kalamata oliven 
