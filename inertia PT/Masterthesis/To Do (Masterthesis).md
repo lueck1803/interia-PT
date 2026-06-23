@@ -1703,7 +1703,4 @@ Mixtures of non-self-propelling scalar active matter refer to ==out-of-equilibri
 	- perkolation
 	- lossfunction
 
-	- <font color="#548dd4">energie</font> <font color="#548dd4">verbrauchsminimierung</font>
-
-
-<font color="#548dd4">Test</font>
+	- energieverbrauchsminimierung
