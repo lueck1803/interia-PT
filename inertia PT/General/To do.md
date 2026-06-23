@@ -45,7 +45,7 @@
 		- ich wollte das 
 	- keine Lust mehr mich mit ADHS und Autismus im Negativen, Leidenden und Opfersinn auseinander zu setzen
 	- extrem viel Sport machen 
-	- meinen Körper kennen und lieben lernen 
+	- meinen <font color="#6425d0">Körper</font> kennen und lieben lernen 
 	- nicht mehr wixxen
 	- voller Kraft und Lebensmut sein 
 	- yoga, laufen, Krafttraining jeder Art und Kampfsport, statt nervige Themen die mich nicht voran bringen 
