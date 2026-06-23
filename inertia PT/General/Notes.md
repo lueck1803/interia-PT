@@ -3467,10 +3467,12 @@ Eine hebbare Definitionslücke ist ein einzelner x-Wert, an dem eine gebrochen-r
 	- Bahnräder haben keine Bremsen 
 - immer in die Pedale treten 
 	- wegen Steilkurve 
-- nur rechts herum
+- nur rechtsherum
 
-# Redewendungen/Zitate 
+# Redewendungen/Zitate
 ## Si vis pacem, para bellum
 - If you want peace, prepare for war
-- „Wenn du (den) <font color="#bb46b9">Frieden</font> willst, <font color="#9bbb59">bereite</font> (den) Krieg vor.“
+„Wenn du (den) <font color="#92d050">Frieden</font> willst, bereite (den) <font color="#245bdb">Krieg</font> vor.“
+
+
 

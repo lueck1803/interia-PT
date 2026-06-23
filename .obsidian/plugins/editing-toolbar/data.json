@@ -26,11 +26,6 @@
       ]
     },
     {
-      "id": "editing-toolbar:editor:clear-formatting",
-      "name": "Editing Toolbar: Clear Formatting",
-      "icon": "lucide-eraser"
-    },
-    {
       "id": "editing-toolbar:toggle-format-brush",
       "name": "Format Brush",
       "icon": "paintbrush"
@@ -1024,7 +1019,7 @@
   "cMenuBottomValue": 4.25,
   "cMenuNumRows": 12,
   "cMenuWidth": 0,
-  "cMenuFontColor": "#00b0f0",
+  "cMenuFontColor": "#245bdb",
   "cMenuBackgroundColor": "#d3f8b6",
   "autohide": false,
   "Iscentered": false,
