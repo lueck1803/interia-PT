@@ -1,3 +1,4 @@
 {
-  "autoFullScreen": true
+  "autoFullScreen": false,
+  "slidingSidebar": true
 }
