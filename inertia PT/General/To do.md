@@ -57,9 +57,11 @@
 - [ ] neuen Kalender für Schule erstellen 
 - [x] Batterie große Uhr wechseln 
 - [ ] zu duckduckgo wechseln 
-- [ ] zwei Maronen in destilliertewasserflaschen umsetzen 
+- [ ] zwei Maronen in destillierteswasserflaschen umsetzen 
 - [ ] Walnuss in topf setzen 
+- [ ] Nudeln kochen 
 - [x] clip Getränkehalter 
+	- [ ] Flasche spülen
 - [x] Fahrradtasche aussaugen 
 - [x] Nudeln kochen 
 	- [x] tortiglioni austragen 
@@ -67,14 +69,6 @@
 - [x] mtb Schaltung vorne Feinjustierung 
 - [ ] überlegen was ich kaufen wollte...
 	- [ ] weitere base ball caps bzw allgemein hüte
-- [x] Fahrradhelm 
-- [x] Handschuhe
-- [x] Paprika eingraben 
- - schauen Nach
-	 - [x] den Bäumen im Wald  
-		 - den Maronen ging es ziemlich scheiße 
-	 - [x] Granatapfelbüschen
-		 - haben alle überlebt, außer der im Garten, der wurde vielleicht mit umgegraben 
 - [x] konto checken 
 	- alter ich hab 1900€ bekommen 
 	- ich muss quasi auf das Festival 😍
