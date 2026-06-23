@@ -3464,3 +3464,4 @@ Eine hebbare Definitionslücke ist ein einzelner x-Wert, an dem eine gebrochen-r
 
 # Radrennbahn 
 - niemals bremsen
+- Bahnräder haben keine bte
