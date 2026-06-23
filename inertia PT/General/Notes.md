@@ -3473,3 +3473,5 @@ Eine hebbare Definitionslücke ist ein einzelner x-Wert, an dem eine gebrochen-r
 ## Si vis pacem, para bellum
 - If you want peace, prepare for war
 - Wer den Frieden sucht, bereite den Krieg (vor)
+
+
