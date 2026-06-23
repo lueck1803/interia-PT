@@ -340,6 +340,11 @@
       "id": "editing-toolbar:editor:clear-formatting",
       "name": "Editing Toolbar: Clear Formatting",
       "icon": "lucide-eraser"
+    },
+    {
+      "id": "unicode-search:search-unicode-chars",
+      "name": "Unicode Search: Search Unicode characters",
+      "icon": "banana"
     }
   ],
   "followingCommands": [
