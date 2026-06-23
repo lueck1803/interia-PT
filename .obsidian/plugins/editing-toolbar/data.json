@@ -345,6 +345,21 @@
       "id": "unicode-search:search-unicode-chars",
       "name": "Unicode Search: Search Unicode characters",
       "icon": "banana"
+    },
+    {
+      "id": "obsidian-heading-shifter:insert-heading-current",
+      "name": "Heading Shifter: Insert Heading at current level",
+      "icon": "header-n"
+    },
+    {
+      "id": "obsidian-heading-shifter:insert-heading-deeper",
+      "name": "Heading Shifter: Insert Heading at one level deeper",
+      "icon": "arrow-down-right"
+    },
+    {
+      "id": "obsidian-heading-shifter:insert-heading-higher",
+      "name": "Heading Shifter: Insert Heading at one level higher",
+      "icon": "arrow-up-left"
     }
   ],
   "followingCommands": [
