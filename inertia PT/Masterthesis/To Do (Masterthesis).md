@@ -1702,5 +1702,8 @@ Mixtures of non-self-propelling scalar active matter refer to ==out-of-equilibri
 	- WW zwischen teilgruppen
 	- perkolation
 	- lossfunction
+
 	- energie verbrauchsminimierung
-	- 
+
+
+<font color="#00b0f0"><font color="#c0504d">Test</font></font>
