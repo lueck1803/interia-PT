@@ -1,5 +1,5 @@
 {
-  "autoFullScreen": false,
-  "slidingSidebar": false,
+  "autoFullScreen": true,
+  "slidingSidebar": true,
   "floatingNavigation": true
 }
