@@ -3472,5 +3472,5 @@ Eine hebbare Definitionslücke ist ein einzelner x-Wert, an dem eine gebrochen-r
 # Redewendungen/Zitate 
 ## Si vis pacem, para bellum
 - If you want peace, prepare for war
-- Wer <font color="#6425d0"><font color="#6425d0"><font color="#6425d0"><font color="#6425d0">den</font> <font color="#6425d0">>"><</font>font color="#6425d0"><font color="#6425d0"><font color="#6425d0"><font color="#6425d0"><font color="#6425d0"><font color="#6425d0"><font </font>color="#6425d0"><font color="#6425d0"><font color="#6425d0">Frieden</font> sucht, <<font color="#6425d0"><font </font></font>color="#6425d0"><mark</f<</font>/font>ont></font> style="background:#d3f8b6"><font</font> color="#6425</font>d0">font</font></mark></font> color="#6425d0"><font color="#6425d0"><font color="#6425d0">bereite</font><font color="#6425d0"><</font>/font></font> den Krieg (vor)</font>
+- Wer den "Frieden sucht, bereite den Krieg (vor)
 
