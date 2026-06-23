@@ -108,7 +108,7 @@
 - [x] Getränkehalter anbringen 
 - [x] Fahrradschloss kaufen 
 - [x] aldi
-- [ ] zweiten Getränkehalter zum clippen an den oberen Rahmen 
+- [x] zweiten Getränkehalter zum clippen an den oberen Rahmen 
 - [x] Marmor Kuchen 
 - [ ] Küche 
 - [x] essen

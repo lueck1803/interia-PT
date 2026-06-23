@@ -1,3 +1,7 @@
+
+<mark style="background:#fff88f">Test</mark>
+
+<mark style="background:rgba(3, 135, 102, 0.2)">Test</mark> 
 # fast notes
 - Biraz Türkçe konusabiliyorum ama şu sıralar pratik yapmadığım için pek bilmiyorum.
 - Biraz Türkçe konusabiliyorum ama şu anda bu konuda yeterli pratiğe sahip değilim.
