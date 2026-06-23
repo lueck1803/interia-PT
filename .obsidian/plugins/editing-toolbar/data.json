@@ -1,7 +1,7 @@
 {
   "lastVersion": "4.0.8",
   "aestheticStyle": "default",
-  "positionStyle": "fixed",
+  "positionStyle": "top",
   "menuCommands": [
     {
       "id": "SubmenuCommands-mqqr28fb5",
@@ -1015,9 +1015,9 @@
   ],
   "mobileCommands": [],
   "enableMultipleConfig": false,
-  "enableTopToolbar": false,
+  "enableTopToolbar": true,
   "enableFollowingToolbar": false,
-  "enableFixedToolbar": true,
+  "enableFixedToolbar": false,
   "appendMethod": "body",
   "shouldShowMenuOnSelect": false,
   "cMenuVisibility": true,
