@@ -1,7 +1,9 @@
 
 <mark style="background:#fff88f">Test</mark>
 
-<mark style="background:rgba(3, 135, 102, 0.2)">Test</mark> 
+<mark style="background:rgba(3, 135, 102, 0.2)">Test</mark>  
+<font color="#ffc000">Test</font>
+
 # fast notes
 - Biraz Türkçe konusabiliyorum ama şu sıralar pratik yapmadığım için pek bilmiyorum.
 - Biraz Türkçe konusabiliyorum ama şu anda bu konuda yeterli pratiğe sahip değilim.
@@ -9,7 +11,7 @@
 
 # Planung
 - Schule mache ich jetzt so lange bis ich meinen Master habe, ich investiere darin nicht mehr so viel zeit
-- der Master ist die Priorität
+- der Master ist die <font color="#ffc000">Priorität</font>
 - Wenn ich den Abschluss habe, dann schaue ich mich nach einem Job um
 - ich möchte definitiv etwas machen bei dem ich konzentriert und in Ruhe arbeiten kann und nicht so viel reden und erklären muss.
 # Geschäftliche Nachrichten 
