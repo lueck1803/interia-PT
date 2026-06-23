@@ -59,7 +59,7 @@
 - [ ] zu duckduckgo wechseln 
 - [ ] zwei Maronen in destillierteswasserflaschen umsetzen 
 - [ ] Walnuss in topf setzen 
-- [ ] Nudeln kochen 
+- [x] Nudeln kochen 
 - [x] clip Getränkehalter 
 	- [ ] Flasche spülen
 - [x] Fahrradtasche aussaugen 
