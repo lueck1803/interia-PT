@@ -3468,3 +3468,7 @@ Eine hebbare Definitionslücke ist ein einzelner x-Wert, an dem eine gebrochen-r
 - immer in die Pedale treten 
 	- wegen Steilkurve 
 - nur rechts herum
+
+# Redewendungen/Zitate 
+## Si vis pacem, para bellum
+
