@@ -59,11 +59,12 @@
 - [ ] zu duckduckgo wechseln 
 - [ ] zwei Maronen in destilliertewasserflaschen umsetzen 
 - [ ] Walnuss in topf setzen 
+- [x] clip Getränkehalter 
 - [x] Fahrradtasche aussaugen 
 - [x] Nudeln kochen 
 	- [x] tortiglioni austragen 
 - [x] Cursor Position plugin ausschalten 
-- [ ] mtb Schaltung vorne Feinjustierung 
+- [x] mtb Schaltung vorne Feinjustierung 
 - [ ] überlegen was ich kaufen wollte...
 	- [ ] weitere base ball caps bzw allgemein hüte
 - [x] Fahrradhelm 
