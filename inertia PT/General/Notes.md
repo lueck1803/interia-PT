@@ -3475,4 +3475,3 @@ Eine hebbare Definitionslücke ist ein einzelner x-Wert, an dem eine gebrochen-r
 „Wenn du (den) <font color="#92d050">Frieden</font> willst, bereite (den) <font color="#00b0f0">Krieg</font> vor.“
 
 
-

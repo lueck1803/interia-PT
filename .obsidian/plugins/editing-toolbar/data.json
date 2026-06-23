@@ -335,6 +335,11 @@
           "icon": "lucide-brackets"
         }
       ]
+    },
+    {
+      "id": "editing-toolbar:editor:clear-formatting",
+      "name": "Editing Toolbar: Clear Formatting",
+      "icon": "lucide-eraser"
     }
   ],
   "followingCommands": [
@@ -1010,8 +1015,8 @@
   ],
   "mobileCommands": [],
   "enableMultipleConfig": false,
-  "enableTopToolbar": true,
-  "enableFollowingToolbar": false,
+  "enableTopToolbar": false,
+  "enableFollowingToolbar": true,
   "enableFixedToolbar": false,
   "appendMethod": "body",
   "shouldShowMenuOnSelect": false,
