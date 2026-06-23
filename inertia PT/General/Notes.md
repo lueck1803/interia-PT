@@ -6,7 +6,7 @@
 # Planung
 - Schule mache ich jetzt so lange bis ich meinen Master habe, ich investiere darin nicht mehr so viel zeit
 - der Master ist die Priorität
-- Wenn ich den Abschluss habe, dann schaue ich mich nach einem Job um
+- Wenn ich den <u>Abschluss</u> habe, dann schaue ich mich nach einem Job um
 - ich möchte definitiv etwas machen bei dem ich konzentriert und in Ruhe arbeiten kann und nicht so viel reden und erklären muss.
 # Geschäftliche Nachrichten 
 
