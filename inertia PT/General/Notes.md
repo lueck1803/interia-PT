@@ -1741,6 +1741,10 @@ Ne geht auch mit dem `?t=MMmSSs` Format. Das Problem ist der Murks hinter dem er
 https://youtu.be/Yz9Bj9kEtKc?t=17m18s
 
 # Obsidian
+## Editing Toolbar
+### Custom colors
+`#dc143c`
+
 ## disabling plugins on mobile while keeping them active on desktop?
 - if you access the .obsidian folder and then the plugin folder you can click on one of the plugins and access the **manifest.json**. When you click on that file, you will see an option that says "isDesktopOnly": false
 ```json hl:9
