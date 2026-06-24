@@ -3416,6 +3416,8 @@ The forward process is crucial for generating training data in diffusion models,
 
 # Wortfindungsstörung 😅🫣😁
 
+Das Wort Misogyn für M
+
 ## benefit of the doubt 
 > [!Note] wortwörtlich 
 > "Begünstigung des Zweifels", "Begünstigung im Zweifel" oder "Begünstigung im Zweifelsfall".
