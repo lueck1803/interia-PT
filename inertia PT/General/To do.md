@@ -57,6 +57,7 @@
 - [ ] neuen Kalender für Schule erstellen 
 - [x] Batterie große Uhr wechseln 
 - [ ] zu duckduckgo wechseln 
+- [ ] Boden wischen
 - [x] zwei Maronen in destillierteswasserflaschen umsetzen 
 - [x] Walnuss in topf setzen 
 - [x] Nudeln kochen 
