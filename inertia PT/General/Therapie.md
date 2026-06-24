@@ -1,6 +1,6 @@
 
 # Tägliches Mantra
-- <font color="#92d050">Ich bin so happy, dass ich diesen Drucker gekauft habe! Optimal für die Schule</font>
+- <font color="#7cfc00">Ich bin so happy, dass ich diesen Drucker gekauft habe! Optimal für die Schule</font>
 - viele kleine Schritte: ~={LawnGreen}Dominostein=~ kann viel bewegen
 - alles was weniger als 2 min dauert, sofort machen 
 - wenn die Angst/ das Gefühl sagt "Dreh dich um und Lauf weg": [dein Ziel stirbt leise](https://youtu.be/8yLrWOtOrzg?is=n-0HyFCSUyBjW_vu)
@@ -9,7 +9,7 @@
 	- hinschauen was die Wand eigentlich ist
 	- die Wand machbar machen 
 	- aufteilen in ~={MediumTurquoise}kleine=~ ~={LawnGreen}konkrete=~ Schritte 
-	- am Ende entsteht das Leben was du willst nicht aus einem großen Umbruch, sondern hunderten kleinen Momenten in denen du dich <font color="#c815ff">entschieden</font> hast dich ~={RedRed} nicht=~ umzudrehen und kleine Schritte in die richtige Richtung zu gehen
+	- am Ende entsteht das Leben was du willst nicht aus einem großen Umbruch, sondern hunderten kleinen Momenten in denen du dich entschieden hast dich ~={RedRed} nicht=~ umzudrehen und kleine Schritte in die richtige Richtung zu gehen
 - nichts ~={red}erzwingen=~ ~={yellow}folge=~ dem ~={green}flow=~
 	- ⤷ es fügt sich alles wenn ich im Moment bin
 	- ⤷ mein Handeln wird anstrengungslos/mühelos sein
