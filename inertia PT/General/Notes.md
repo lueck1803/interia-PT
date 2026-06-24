@@ -1753,13 +1753,15 @@ https://youtu.be/Yz9Bj9kEtKc?t=17m18s
 - Mediumviolet `#c815ff`
 - purple `b088ff`
 - mediumspringgreen `#00fa9a` 
+- `#DC143C` ⟹ medium turquoise `#48d1cc`
 - `#DE7802` ⟹ gold `#ffd700`
 - <font color="#5f497a">test</font> ~={purple}test=~ <font color="#6425d0">test</font> <font color="#b088ff">test</font>
 - ~={blue}test=~ <font color="#245bdb">test</font> <font color="#00b0f0">test</font> <font color="#0070c0">test</font> <font color="#002060">test</font> 
 - ~={MediumTurquoise}test=~ <font color="#31859b">test</font> <font color="#92cddc">test</font> ~={MediumSpringGreen}test=~ ~={LawnGreen}test=~ <font color="#92d050">test</font> <font color="#00fa9a">test</font>
 - <font color="#ffff00">test</font> ~={Gold}test=~ 
 - <font color="#e36c09">test</font> <font color="#de7802">test</font> ~={orange}test=~ ~={pink}test=~ <font color="#d99694">test</font> <font color="#ffd700">test</font>
-- <font color="#c00000">test</font> <font color="#ff0000">test</font> <font color="#dc143c">test</font> ~={red}test=~ ~={RedRed}test=~ ~={Tomato}test=~ <font color="#953734">test</font> <font color="#c0504d">test</font> <font color="#e36c09">test</font> ~={DeepPink}test=~ <font color="#ff1493">test</font> ~={MediumTurquoise}test=~ <font color="#92cddc">test</font> <font color="#31859b">test</font> <font color="#95b3d7">test</font> <font color="#366092">test</font> <font color="#548dd4">tets</font> test
+- <font color="#c00000">test</font> <font color="#ff0000">test</font> <font color="#dc143c">test</font> ~={red}test=~ ~={RedRed}test=~ ~={Tomato}test=~ <font color="#953734">test</font> <font color="#c0504d">test</font> <font color="#e36c09">test</font> ~={DeepPink}test=~ <font color="#ff1493">test</font> ~={MediumTurquoise}test=~ <font color="#92cddc">test</font> <font color="#31859b">test</font> <font color="#95b3d7">test</font> <font color="#366092">test</font> <font color="#548dd4">tets</font> <font color="#00b0f0">test</font> test
+- <font color="#92d050">test</font> ~={LawnGreen}test=~ <font color="#00fa9a">test</font> ~={MediumSpringGreen}test=~ ~={MediumTurquoise}test=~ 
 
 ## disabling plugins on mobile while keeping them active on desktop?
 - if you access the .obsidian folder and then the plugin folder you can click on one of the plugins and access the **manifest.json**. When you click on that file, you will see an option that says "isDesktopOnly": false
