@@ -1535,7 +1535,8 @@ Grundsätzlich gibt es **<u>keine</u> obere Schranke** beim Rechnen mit Prozents
 - Eine Preissenkung um 100 % hieße, dass alles **kostenlos** ist.
 - Negative Zahlen als Prozentsätze machen keinen Sinn.
 
-Prozentsätze, die Anteile bedeuten: Ist eine Menge gegeben (etwa die Bevölkerung Deutschlands, oder ein Sack Reis, oder eine Zellkultur, oder...) und betrachten man einen Teil davon, so liegt der entsprechende Prozentsatz x % zwischen 0 % und 100 % - hier steht dann also
+##### Prozentsätze, die Anteile bedeuten:
+Ist eine Menge gegeben (etwa die Bevölkerung Deutschlands, oder ein Sack Reis, oder eine Zellkultur, oder...) und betrachten man einen Teil davon, so liegt der entsprechende Prozentsatz x % zwischen 0 % und 100 % - hier steht dann also
 0% für "niemand" (oder "nichts"),
 100% für "alle" (oder "alles"),
 50% für "jeder zweite" (oder die Hälfte) usw.
