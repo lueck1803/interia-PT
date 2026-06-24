@@ -3,6 +3,7 @@
 - [ ] Nusskati 
 - [ ] Bolognese soße
 - [ ] Alufolie 
+- [ ] Eiswürfelbehälter 
 - [ ] erde aldi
 - [ ] Wassereis 
 - [ ] Laufschuhe 
