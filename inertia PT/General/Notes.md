@@ -1741,14 +1741,18 @@ Ne geht auch mit dem `?t=MMmSSs` Format. Das Problem ist der Murks hinter dem er
 https://youtu.be/Yz9Bj9kEtKc?t=17m18s
 
 # Obsidian
-## Editing Toolbar
-### ~={LawnGreen}Custom=~ <font color="#92d050">colors</font>
+## Editing <font color="#00b050">Toolbar</font>
+### Custom <font color="#92d050">colors</font>
 - `#dc143c`
 - vorher `#BB46B9` ⟹ jetzt `#ff1493`
 - `#DE7802`
 - `#245BDB`
 - `#6425D0`
-- 
+-  lawn green `#14cd32` 
+- dodgerblue `#1e90ff`
+- Mediumviolet `#c815ff`
+- purple `b088ff`
+- <font color="#5f497a">test</font> ~={purple}test=~ <font color="#6425d0">test</font> 
 
 ## disabling plugins on mobile while keeping them active on desktop?
 - if you access the .obsidian folder and then the plugin folder you can click on one of the plugins and access the **manifest.json**. When you click on that file, you will see an option that says "isDesktopOnly": false
