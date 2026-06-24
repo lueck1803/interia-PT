@@ -62,7 +62,7 @@
 - [ ] Brokkoli kochen
 - [ ] Boden wischen 
 - [ ] Wäsche abhängen und zusammen legen 
-- [ ] Decke
+- [ ] Decke auf dem sofa richten
 - [x] zwei Maronen in destillierteswasserflaschen umsetzen 
 - [x] Walnuss in topf setzen 
 - [x] Nudeln kochen 
