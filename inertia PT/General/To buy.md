@@ -1,5 +1,5 @@
 - [ ] Backpulver 
-- [ ] Bolognese soß
+- [ ] Bolognese soße
 - [ ] erde aldi
 - [ ] Laufschuhe 
 - [x] saft
