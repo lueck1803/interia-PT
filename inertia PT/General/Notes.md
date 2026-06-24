@@ -3494,8 +3494,7 @@ Im Lied **Waffenbrüder** von **Kanonenfieber** geht es um das Schicksal zweier 
 
 
 # Yoga 
-Chebyjane_yoga
-Bailey stretches 
+
 
 # Gespräch mit Gerd
 - bau und leben der rhinogradetia
