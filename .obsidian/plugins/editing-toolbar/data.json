@@ -1,7 +1,7 @@
 {
   "lastVersion": "4.0.8",
   "aestheticStyle": "default",
-  "positionStyle": "following",
+  "positionStyle": "top",
   "menuCommands": [
     {
       "id": "SubmenuCommands-mqqr28fb5",
@@ -1042,8 +1042,8 @@
   ],
   "mobileCommands": [],
   "enableMultipleConfig": false,
-  "enableTopToolbar": false,
-  "enableFollowingToolbar": true,
+  "enableTopToolbar": true,
+  "enableFollowingToolbar": false,
   "enableFixedToolbar": false,
   "appendMethod": "body",
   "shouldShowMenuOnSelect": false,
@@ -1051,7 +1051,7 @@
   "cMenuBottomValue": 4.25,
   "cMenuNumRows": 12,
   "cMenuWidth": 0,
-  "cMenuFontColor": "#548dd4",
+  "cMenuFontColor": "#ffff00",
   "cMenuBackgroundColor": "#d3f8b6",
   "autohide": false,
   "Iscentered": false,

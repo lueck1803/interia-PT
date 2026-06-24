@@ -3487,9 +3487,32 @@ $6?=6+5+4+3+2+1=\frac{6(6+1)}{2}=21$
 Deshalb ist 
 $18+\frac{18}{3}=6?$ korrekt.
 ## Hebbare Definitionslücke 
-Eine hebbare Definitionslücke ist ein einzelner x-Wert, an dem eine gebrochen-rationale Funktion <font color="#548dd4">nicht definiert</font> ist, weil der Nenner null wird.
+Eine hebbare Definitionslücke ist ein einzelner x-Wert, an dem eine <font color="#0070c0">gebrochen-rationale Funktion</font> <font color="#c0504d">nicht definiert</font> ist, weil der <font color="#ff0000">Nenner null wird</font>.
 
-Sie lässt sich „beheben“, indem man den Funktionsterm kürzt. Im Funktionsgraphen sieht diese Lücke wie ein winziges Loch aus.Erkennung und UrsacheEine Definitionslücke entsteht, wenn Sie eine Zahl in eine Funktion einsetzen, die zu einer Division durch Null führt.Eine Definitionslücke ist genau dann hebbar, wenn der x-Wert sowohl den Nenner als auch den Zähler des Bruchs zu null macht. Die Nullstelle kommt also in beiden Teilen vor und kann herausgekürzt werden.BeispielGegeben ist die Funktion:\(f(x) = \frac{x^2 - 1}{x - 1}\)Definitionslücke finden: Setzen Sie den Nenner gleich null: \(x - 1 = 0 \Rightarrow x = 1\) ist die Definitionslücke.Hebbarkeit prüfen: Setzen Sie den x-Wert in den Zähler ein: 1² - 1 = 0. Da sowohl Zähler als auch Nenner null ergeben, ist die Lücke hebbar.Beheben (Kürzen): Sie können den Zähler mithilfe der dritten binomischen Formel faktorisieren: x² - 1 = (x - 1)(x + 1).Der gekürzte Funktionsterm lautet: \(f_{neu}(x) = x + 1\) (für x ≠ 1).Grafische DarstellungIm Gegensatz zu einer Polstelle, bei der sich der Graph einer senkrechten Linie (Asymptote) nähert, ist der Graph an einer hebbaren Definitionslücke ansonsten völlig normal. Er wird lediglich an der entsprechenden x-Koordinate unterbrochen, was grafisch durch einen kleinen offenen Kringel markiert wird.Um diese Lücke stetig zu schließen und den Definitionsbereich zu erweitern, können Sie den Definitionsbereich explizit angeben. 
+Sie lässt sich „beheben“, indem man den <font color="#92d050">Funktionsterm kürzt</font>. Im Funktionsgraphen sieht diese Lücke wie ein <font color="#e36c09">winziges Loch</font> aus.
+
+### Erkennung und Ursache
+Eine Definitionslücke entsteht, wenn Sie eine Zahl in eine Funktion einsetzen, die zu einer Division durch Null führt.
+Eine Definitionslücke ist genau dann <font color="#00b050">hebbar</font>, wenn der <font color="#ffc000">x-Wert</font> sowohl den <font color="#bb46b9">Nenner als auch den Zähler des Bruchs zu null macht</font>. Die <font color="#b2a2c7">Nullstelle kommt also in beiden Teilen</font> vor und kann herausgekürzt werden.
+
+#### Beispiel
+Gegeben ist die Funktion:
+$f(x) = \frac{x^2 - 1}{x - 1}$
+1. Definitionslücke finden: 
+	Setzen Sie den Nenner gleich null: 
+	$x - 1 = 0 \Rightarrow x = 1$
+	ist die Definitionslücke.
+2. Hebbarkeit prüfen: 
+	Setzen Sie den x-Wert in den Zähler ein: 
+	$1² - 1 = 0$
+	Da sowohl Zähler als auch Nenner null ergeben, ist die <font color="#00b050">Lücke hebbar</font>.
+3. Beheben (Kürzen): 
+	Sie können den Zähler mithilfe der dritten binomischen Formel faktorisieren:
+	$x² - 1 = (x - 1)(x + 1)$
+	Der gekürzte Funktionsterm lautet: 
+	$f_{neu}(x) = x + 1 \qquad \text{für } x ≠ 1$
+#### Grafische Darstellung
+Im Gegensatz zu einer Polstelle, bei der sich der Graph einer senkrechten Linie (Asymptote) nähert, ist der Graph an einer hebbaren Definitionslücke ansonsten völlig normal. Er wird <font color="#31859b">lediglich an der entsprechenden x-Koordinate unterbrochen</font>, was grafisch durch einen <font color="#ffff00">kleinen offenen Kringel</font> markiert wird. Um diese Lücke stetig zu schließen und den Definitionsbereich zu erweitern, können Sie den Definitionsbereich explizit angeben. 
 
 # Radrennbahn 
 - niemals bremsen
