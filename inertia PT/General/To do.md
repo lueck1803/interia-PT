@@ -59,6 +59,7 @@
 - [ ] zu duckduckgo wechseln 
 - [ ] Boden wischen
 - [ ] Fahrradsonnenbrille mit silikonöl ölen
+- [ ] Brokkoli kochen
 - [x] zwei Maronen in destillierteswasserflaschen umsetzen 
 - [x] Walnuss in topf setzen 
 - [x] Nudeln kochen 
