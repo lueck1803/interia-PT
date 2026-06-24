@@ -3,10 +3,10 @@
 - ohr eincremen /Teebaumöl 
 # unsortiert
 - oberste Priorität:
-	- ~={RedRed}Masterarbeit=~
-	- ~={Gold}Innere Ruhe=~ 
-	- ~={yellow}Meditation=~
-	- ~={Crimson}Andere=~ ~={LawnGreen}Regulationsformen=~ finden
+	- <font color="#dc143c">Masterarbeit</font>
+	- <font color="#ffd700">Innere Ruhe </font>
+	- <font color="#ffff00">Meditation</font>
+	- <font color="#ff0000">Andere</font> <font color="#92d050">Regulationsformen</font> finden
 		- Stim mit Visualisierung aus dem Leben entfernen
 		- Spazieren + Balancieren
 		- schlafen
@@ -15,11 +15,11 @@
 		- in die Ferne schauen
 		- mich am schönen Erfreuen
 		- Abstand zu Medien und Ablenkung
-	- ~={Magenta}Schlaf=~ ist das ~={ForestGreen}beste Heilmittel=~ 
-	- Auf den ~={LightBlue}Körper hören=~
+	- <font color="#ff1493">Schlaf</font> ist das <font color="#00b050">beste Heilmittel</font> 
+	- Auf den <font color="#8db3e2">Körper hören</font> 
 	- dauerhaft präsent sein
-	- ganz ~={LimeGreen}im hier und jetzt=~ sein
-	- die ~={LightBlue}Pflicht des Augenblicks=~
+	- ganz <font color="#00b050">im hier und jetzt</font> sein
+	- die <font color="#92cddc">Pflicht des Augenblicks</font>
 	- ~={Crimson}kein=~ YouTube mehr
 	- nur ~={MediumTurquoise}eine Sache zur selben Zeit=~ machen
 	- die kleinen Dinge (des Alltags) und das was ich bereits tue perfektionieren und vollkommene Sicherheit gewinnen 
