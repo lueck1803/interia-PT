@@ -1495,7 +1495,8 @@ Hat man 15 % von x zu subtrahieren, so erhält man x - (x mal 0,15), also: x mal
 
 #### Einige Widrigkeiten der Prozentrechnung
 Die folgenden Beispiele sind (zur besseren Veranschaulichung) jeweils als Preiserhöhungen bzw. Preissenkungen formuliert (stattdessen kann man natürlich auch mit anderen Veranschaulichungen arbeiten).
-Hintereinanderschaltung mehrerer Preiserhöhungen.
+
+##### Hintereinanderschaltung mehrerer Preiserhöhungen.
 Erst werden 10 % additiert, dann noch einmal 10 %.
 Insgesamt werden 21 % addiert, nicht etwa 20 %.
 
