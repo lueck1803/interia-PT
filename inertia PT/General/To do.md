@@ -1,6 +1,6 @@
 - ich <font color="#ff0000">will meine Arbeit Publikations fähig machen</font>
 - regelmäßig den <font color="#00fa9a">Blutdruck</font> messen
-ohr eincremen /<font color="#ff1493">Teebaumöl</font> test
+- ohr eincremen /Teebaumöl test
 # unsortiert
 - oberste Priorität:
 	- <font color="#dc143c">Masterarbeit</font>
