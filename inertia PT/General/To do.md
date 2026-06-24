@@ -58,7 +58,7 @@
 - [x] Batterie große Uhr wechseln 
 - [ ] zu duckduckgo wechseln 
 - [ ] Boden wischen
-- [ ] Fahrradsonnenbrille 
+- [ ] Fahrradsonnenbrille mit silikonöl ölen
 - [x] zwei Maronen in destillierteswasserflaschen umsetzen 
 - [x] Walnuss in topf setzen 
 - [x] Nudeln kochen 
