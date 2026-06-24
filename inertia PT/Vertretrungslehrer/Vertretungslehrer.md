@@ -1503,14 +1503,14 @@ Insgesamt werden 21 % addiert, nicht etwa 20 %.
 Beweis: x mal 1,10 mal 1,10 = x mal 1,21
 
 
-Hintereinanderschaltung einer Preiserhöhung und einer Preissenkung.
+##### Hintereinanderschaltung einer Preiserhöhung und einer Preissenkung.
 Erst werden 10 % additiert, dann wird ein Rabatt von 10 % gegeben.
 Der Endpreis beträgt nur 99 % des Anfangspreises.
 
 Beweis: x mal 1,10 mal 0.90 = x mal 0,99.
 
 
-Veränderung des Prozentsatzes.
+##### Veränderung des Prozentsatzes.
 Wird zum Beispiel der Mehrwertsteuersatz von 16% auf 19% erhöht,
 so wird der Faktor 1,16 durch 1,19 ersetzt. Dabei verändert sich der Endpreis um den Faktor 1,19/1,16 = 1,026..., also um 2,6 % (und nicht etwa um 3 %).
 
