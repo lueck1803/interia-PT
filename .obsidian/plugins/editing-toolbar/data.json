@@ -1065,7 +1065,6 @@
   "custom_fc3": "#00FA9A",
   "custom_fc4": "#B088FF",
   "custom_fc5": "#FF1493",
-  "custom_fc6": "#FF1493",
   "isLoadOnMobile": true,
   "horizontalPosition": 0,
   "verticalPosition": 0,
@@ -1180,5 +1179,6 @@
         "icon": "lucide-message-square"
       }
     ]
-  }
+  },
+  "custom_fc6": "#FF1493"
 }
