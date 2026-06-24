@@ -20,7 +20,7 @@
 	- dauerhaft präsent sein
 	- ganz <font color="#00b050">im hier und jetzt</font> sein
 	- die <font color="#92cddc">Pflicht des Augenblicks</font>
-	- ~={Crimson}kein=~ YouTube mehr
+	- <font color="#ff0000">kein</font> YouTube mehr
 	- nur ~={MediumTurquoise}eine Sache zur selben Zeit=~ machen
 	- die kleinen Dinge (des Alltags) und das was ich bereits tue perfektionieren und vollkommene Sicherheit gewinnen 
 		- ⤷daran ist nichts Langweiliges es ist ~={MediumSpringGreen}wunder schön=~
