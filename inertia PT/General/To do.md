@@ -58,7 +58,7 @@
 - [x] Batterie große Uhr wechseln 
 - [ ] zu duckduckgo wechseln 
 - [ ] Boden wischen
-- [ ] Fahrradsonnenbrille mit silikonöl ölen
+- [x] Fahrradsonnenbrille mit silikonöl ölen
 - [ ] Brokkoli kochen
 - [ ] Boden wischen 
 - [ ] Wäsche abhängen und zusammen legen 

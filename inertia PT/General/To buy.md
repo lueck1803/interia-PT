@@ -1,10 +1,11 @@
 - [ ] Backpulver 
+- [ ] toast
+- [ ] Nusskati 
 - [ ] Bolognese soße
 - [ ] erde aldi
+- [ ] Wassereis 
 - [ ] Laufschuhe 
 - [x] saft
-- [x] toast
-- [x] Nusskati 
 - [x] pizza 
 - [x] Toilettenpapier 
 - [x] klingel
