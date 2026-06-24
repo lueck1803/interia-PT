@@ -2,6 +2,7 @@
 - [ ] toast
 - [ ] Nusskati 
 - [ ] Bolognese soße
+- [ ] Alufolie 
 - [ ] erde aldi
 - [ ] Wassereis 
 - [ ] Laufschuhe 
