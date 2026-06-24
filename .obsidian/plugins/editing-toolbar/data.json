@@ -367,6 +367,11 @@
       "id": "editing-toolbar:editor:attach-file",
       "name": "Attach File",
       "icon": "lucide-paperclip"
+    },
+    {
+      "id": "remove-html-tag:remove",
+      "name": "Remove HTML Tag: Remove",
+      "icon": "tag"
     }
   ],
   "followingCommands": [
