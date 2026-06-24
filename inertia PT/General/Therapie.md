@@ -1,6 +1,6 @@
 
 # Tägliches Mantra
-- <font color="#92d050">Ich bin so happy, dass ich diesen Drucker gekauft habe! Optimal für die Schule</font>
+- <font color="#7cfc00">Ich bin so happy, dass ich diesen Drucker gekauft habe! Optimal für die Schule</font>
 - viele kleine Schritte: ~={LawnGreen}Dominostein=~ kann viel bewegen
 - alles was weniger als 2 min dauert, sofort machen 
 - wenn die Angst/ das Gefühl sagt "Dreh dich um und Lauf weg": [dein Ziel stirbt leise](https://youtu.be/8yLrWOtOrzg?is=n-0HyFCSUyBjW_vu)
