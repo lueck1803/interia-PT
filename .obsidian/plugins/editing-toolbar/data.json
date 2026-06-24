@@ -1179,5 +1179,10 @@
         "icon": "lucide-message-square"
       }
     ]
-  }
+  },
+  "custom_fc6": "#FF1493",
+  "custom_fc7": "#FF1493",
+  "custom_fc8": "#FF1493",
+  "custom_fc9": "#FF1493",
+  "custom_fc10": "#FF1493"
 }
