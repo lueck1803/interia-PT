@@ -127,7 +127,8 @@
           "name": "Clear Text Formatting",
           "icon": "eraser"
         }
-      ]
+      ],
+      "menuType": "dropdown"
     },
     {
       "id": "editing-toolbar:editor:swap-line-down",
@@ -1056,7 +1057,7 @@
   "cMenuBottomValue": 4.25,
   "cMenuNumRows": 12,
   "cMenuWidth": 0,
-  "cMenuFontColor": "#7cfc00",
+  "cMenuFontColor": "#c815ff",
   "cMenuBackgroundColor": "#d3f8b6",
   "autohide": false,
   "Iscentered": false,

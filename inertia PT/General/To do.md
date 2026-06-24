@@ -23,7 +23,7 @@
 	- <font color="#ff0000">kein</font> YouTube mehr
 	- nur <font color="#48d1cc">eine Sache zur selben Zeit</font> machen
 	- die kleinen Dinge (des Alltags) und das was ich bereits tue perfektionieren und vollkommene Sicherheit gewinnen 
-		- ⤷daran ist nichts Langweiliges es ist <font color="#00fa9a">wunder schön</font>
+		- ⤷ daran ist nichts Langweiliges es ist <font color="#00fa9a">wunder schön</font>
 	- die kleinen und wichtigen Dinge des Tages zelebrieren und perfektionieren denn das bringt die wahre Freude und ist der Sinn des Lebens 
 	- ich möchte im Moment glücklich und zufrieden sein. Denn alles kann im nächsten Moment vorbei sein 
 	- ich bleibe dabei was ich jetzt tue und lasse mich nicht mehr verunsichern 
