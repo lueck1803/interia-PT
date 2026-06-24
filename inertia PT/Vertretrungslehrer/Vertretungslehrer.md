@@ -1548,7 +1548,7 @@ Von den 100 000 Kranken werden 99 000 als krank erkannt, 1 000 werden irrtümlic
 Von den 79 900 000 Gesunden werden 1%, also 799 000 Personen irrtümlicherweise für krank gehalten.
 Fazit: Insgesamt werden 99 000 + 799 000 Leute (also 898 000 Leute) für krank erklärt - von diesen sind aber nur 99 000 (also etwa 11%) wirklich erkrankt.
 
-Zur Unterscheidung spricht man vom Fehler erster Art (der Prozentsatz der Kranken, die irrtümlicherweise für gesund gehalten werden) und vom Fehler zweiter Art (der Prozentsatz der Gesunden, die irrtümlicherweise für krank gehalten werden): in unserem Beispiel nahmen wir an, dass beide Fehler 1% betragen, in der Praxis werden diese Prozentzahlen aber verschieden sein - nur gilt eben: kein Test ist unfehlbar, es treten immer Fehler erster und zweiter Art auf).
+Zur Unterscheidung spricht man vom **Fehler erster Art** (der Prozentsatz der Kranken, die irrtümlicherweise für gesund gehalten werden) und vom **Fehler zweiter Art** (der Prozentsatz der Gesunden, die irrtümlicherweise für krank gehalten werden): in unserem Beispiel nahmen wir an, dass beide Fehler 1% betragen, in der Praxis werden diese Prozentzahlen aber verschieden sein - nur gilt eben: kein Test ist unfehlbar, es treten immer Fehler erster und zweiter Art auf).
 Zur Beurteilung, ob ein Test sinnvoll ist, spielt das (natürlich immer nur geschätze) Verhältnis der Zahl x der Kranken zur Zahl y der Gesunden eine wesentliche Rolle.
 (In unserem Beispiel war 1% von y wesentlich größer als 99 % von x - in einem solchen Fall macht der Test wenig Sinn; vor allem auch dann, wenn das Testen selbst mögliche Nebenwirkungen haben sollte.)
 ## Physik
