@@ -1,8 +1,8 @@
 - [ ] Backpulver 
-- [ ] toast
-- [ ] Nusskati 
+- [x] toast
+- [x] Nusskati 
 - [x] Bolognese soße
-- [ ] Alufolie 
+- [x] Alufolie 
 - [ ] Eiswürfelbehälter 
 - [ ] erde aldi
 - [ ] Wassereis 
