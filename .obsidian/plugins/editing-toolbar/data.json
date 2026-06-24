@@ -108,6 +108,11 @@
           "icon": "underline-glyph"
         },
         {
+          "id": "editingToolbar-Divider-Line",
+          "name": "Vertical Split",
+          "icon": "vertical-split"
+        },
+        {
           "id": "editing-toolbar:toggle-highlight",
           "name": "Highlight",
           "icon": "highlight-glyph"
