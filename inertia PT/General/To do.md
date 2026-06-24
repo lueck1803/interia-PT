@@ -53,6 +53,7 @@
 	- 100% Fokus 
 	- Ordnung halten 
 	- mich pflegen, auf mein Äußeres und Auftreten achten
+	- <font color="#e36c09">Versündige</font> dich <font color="#ff0000">nicht</font> weiter an dir und deinem Leben
 
 - [ ] neuen Kalender für Schule erstellen 
 - [x] Batterie große Uhr wechseln 

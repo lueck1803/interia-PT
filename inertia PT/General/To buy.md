@@ -5,7 +5,7 @@
 - [x] Alufolie 
 - [ ] Eiswürfelbehälter 
 - [ ] erde aldi
-- [ ] Wassereis 
+- [x] Wassereis 
 - [ ] Laufschuhe 
 - [x] saft
 - [x] pizza 
