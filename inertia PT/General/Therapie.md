@@ -9,7 +9,7 @@
 	- hinschauen was die Wand eigentlich ist
 	- die Wand machbar machen 
 	- aufteilen in ~={MediumTurquoise}kleine=~ ~={LawnGreen}konkrete=~ Schritte 
-	- am Ende entsteht das Leben was du willst nicht aus einem großen Umbruch, sondern hunderten kleinen Momenten in denen du dich entschieden hast dich ~={RedRed} nicht=~ umzudrehen und kleine Schritte in die richtige Richtung zu gehen
+	- am Ende entsteht das Leben was du willst nicht aus einem großen Umbruch, sondern hunderten kleinen Momenten in denen du dich <font color="#c815ff">entschieden</font> hast dich ~={RedRed} nicht=~ umzudrehen und kleine Schritte in die richtige Richtung zu gehen
 - nichts ~={red}erzwingen=~ ~={yellow}folge=~ dem ~={green}flow=~
 	- ⤷ es fügt sich alles wenn ich im Moment bin
 	- ⤷ mein Handeln wird anstrengungslos/mühelos sein
