@@ -58,6 +58,7 @@
 - [x] Batterie große Uhr wechseln 
 - [ ] zu duckduckgo wechseln 
 - [ ] Boden wischen
+- [ ] css datei der editing
 - [x] Fahrradsonnenbrille mit silikonöl ölen
 - [ ] Brokkoli kochen
 - [ ] Boden wischen 
