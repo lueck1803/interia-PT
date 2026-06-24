@@ -1051,7 +1051,7 @@
   "cMenuBottomValue": 4.25,
   "cMenuNumRows": 12,
   "cMenuWidth": 0,
-  "cMenuFontColor": "#ff1493",
+  "cMenuFontColor": "#7cfc00",
   "cMenuBackgroundColor": "#d3f8b6",
   "autohide": false,
   "Iscentered": false,
@@ -1180,6 +1180,5 @@
         "icon": "lucide-message-square"
       }
     ]
-  },
-  "custom_fc6": "#FF1493"
+  }
 }
