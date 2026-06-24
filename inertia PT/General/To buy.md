@@ -1,11 +1,11 @@
-- [ ] Backpulver 
+- [x] Backpulver 
 - [x] toast
 - [x] Nusskati 
 - [x] Bolognese soße
 - [x] Alufolie 
 - [ ] Eiswürfelbehälter 
 - [ ] erde aldi
-- [ ] Wassereis 
+- [x] Wassereis 
 - [ ] Laufschuhe 
 - [x] saft
 - [x] pizza 
