@@ -1514,7 +1514,7 @@ Beweis: x mal 1,10 mal 0.90 = x mal 0,99.
 Wird zum Beispiel der Mehrwertsteuersatz von 16% auf 19% erhöht,
 so wird der Faktor 1,16 durch 1,19 ersetzt. Dabei verändert sich der Endpreis um den Faktor 1,19/1,16 = 1,026..., also um 2,6 % (und nicht etwa um 3 %).
 
-Zur Unterscheidung sagt man: der Prozentsatz erhöht sich um 3 Prozentpunkte (3 = 19-16).
+**Zur Unterscheidung sagt man:** der Prozentsatz erhöht sich um 3 Prozentpunkte (3 = 19-16).
 
 Zweites Beispiel. Man erhalte in einem Geschäft 40 % Rabatt. Wird dieser Rabattsatz auf 30 % gesenkt, so handelt es sich um eine Änderung um 10 Prozentpunkte, der Preis verteuert sich aber mit dem Faktor 0,70/0,60 = 1,167, also um knapp 17 %.
 
