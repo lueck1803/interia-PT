@@ -1489,6 +1489,67 @@ Ich übernehme:
 ### Prozentrechnung 
 https://www.math.uni-bielefeld.de/~sek/biomath/stichw/prozent.htm
 
+Prozentrechnung
+Grundregeln
+15 % von x bedeutet: 15/100 mal x, also: x mal 0,15.
+Hat man 15 % zu x zu addieren, so erhält man x + (x mal 0,15), also: x mal 1,15.
+Hat man 15 % von x zu subtrahieren, so erhält man x - (x mal 0,15), also: x mal 0,85.
+Einige Widrigkeiten der Prozentrechnung
+Die folgenden Beispiele sind (zur besseren Veranschaulichung) jeweils als Preiserhöhungen bzw. Preissenkungen formuliert (stattdessen kann man natürlich auch mit anderen Veranschaulichungen arbeiten).
+Hintereinanderschaltung mehrerer Preiserhöhungen.
+Erst werden 10 % additiert, dann noch einmal 10 %.
+Insgesamt werden 21 % addiert, nicht etwa 20 %.
+
+Beweis: x mal 1,10 mal 1,10 = x mal 1,21
+
+
+Hintereinanderschaltung einer Preiserhöhung und einer Preissenkung.
+Erst werden 10 % additiert, dann wird ein Rabatt von 10 % gegeben.
+Der Endpreis beträgt nur 99 % des Anfangspreises.
+
+Beweis: x mal 1,10 mal 0.90 = x mal 0,99.
+
+
+Veränderung des Prozentsatzes.
+Wird zum Beispiel der Mehrwertsteuersatz von 16% auf 19% erhöht,
+so wird der Faktor 1,16 durch 1,19 ersetzt. Dabei verändert sich der Endpreis um den Faktor 1,19/1,16 = 1,026..., also um 2,6 % (und nicht etwa um 3 %).
+
+Zur Unterscheidung sagt man: der Prozentsatz erhöht sich um 3 Prozentpunkte (3 = 19-16).
+
+Zweites Beispiel. Man erhalte in einem Geschäft 40 % Rabatt. Wird dieser Rabattsatz auf 30 % gesenkt, so handelt es sich um eine Änderung um 10 Prozentpunkte, der Preis verteuert sich aber mit dem Faktor 0,70/0,60 = 1,167, also um knapp 17 %.
+
+Zur Erinnerung: Mit der Bahncard erhielt man vor einigen Jahren 50 % Rabatt, dann wurde der Rabattsatz auf 25 % gesetzt, also um 25 Prozentpunkte verändert. Dabei handelte es sich nicht etwa um eine 25 %-ige Preiserhöhung sondern um eine 50 %-ige! (denn 0,75/0,50 = 1,50).
+
+
+Große Prozentsätze:
+Eine Erhöhung um 100 % heißt, den Preis verdoppeln.
+Eine Erhöhung um 200 % heißt, den Preis verdreifachen.
+Auch noch höhere Prozentsätze spielen manchmal eine Rolle:
+Gerüchteweise kostet eine Viagra-Pille in der Herstellung etwa 10 Cent, Wird sie für 2 EUR verkauft, so handelt es sich um einen Reingewinn von 1900 %.
+(Anmerkung: Hier stand bisher fälschlicherweise 1999 %. Ich bin einem aufmerksamen Leser zu Dank verpflichtet, dass er uns darauf hinwies.)
+Grundsätzlich gibt es keine obere Schranke beim Rechnen mit Prozentsätzen.
+Kleine Prozentsätze:
+Eine Preissenkung um 50 % heißt, den Preis halbieren (Faktor 1-0,50 = 0,50).
+Eine Preissenkung um 75 % heißt, den Preis vierteln (Faktor 1-0,75 = 0,25).
+Eine Preissenkung um 100 % hieße, dass alles kostenlos ist.
+Negative Zahlen als Prozentsätze machen keinen Sinn.
+
+Prozentsätze, die Anteile bedeuten: Ist eine Menge gegeben (etwa die Bevölkerung Deutschlands, oder ein Sack Reis, oder eine Zellkultur, oder...) und betrachten man einen Teil davon, so liegt der entsprechende Prozentsatz x % zwischen 0 % und 100 % - hier steht dann also
+0% für "niemand" (oder "nichts"),
+100% für "alle" (oder "alles"),
+50% für "jeder zweite" (oder die Hälfte) usw.
+.
+
+Das Problem mit großflächigen Tests.
+Ein Test (zum Beispiel ein Krankheitstest) liefere in 99% der Fälle die richtige Antwort, in 1% der Fälle allerdings die falsche Antwort. In Deutschland (80 Millionen Einwohner) seien 100 000 erkrankt, alle Personen werden getestet. Dann ergibt sich folgendes:
+
+Von den 100 000 Kranken werden 99 000 als krank erkannt, 1 000 werden irrtümlicherweise für gesund gehalten.
+Von den 79 900 000 Gesunden werden 1%, also 799 000 Personen irrtümlicherweise für krank gehalten.
+Fazit: Insgesamt werden 99 000 + 799 000 Leute (also 898 000 Leute) für krank erklärt - von diesen sind aber nur 99 000 (also etwa 11%) wirklich erkrankt.
+
+Zur Unterscheidung spricht man vom Fehler erster Art (der Prozentsatz der Kranken, die irrtümlicherweise für gesund gehalten werden) und vom Fehler zweiter Art (der Prozentsatz der Gesunden, die irrtümlicherweise für krank gehalten werden): in unserem Beispiel nahmen wir an, dass beide Fehler 1% betragen, in der Praxis werden diese Prozentzahlen aber verschieden sein - nur gilt eben: kein Test ist unfehlbar, es treten immer Fehler erster und zweiter Art auf).
+Zur Beurteilung, ob ein Test sinnvoll ist, spielt das (natürlich immer nur geschätze) Verhältnis der Zahl x der Kranken zur Zahl y der Gesunden eine wesentliche Rolle.
+(In unserem Beispiel war 1% von y wesentlich größer als 99 % von x - in einem solchen Fall macht der Test wenig Sinn; vor allem auch dann, wenn das Testen selbst mögliche Nebenwirkungen haben sollte.)
 ## Physik
 ### Demonstration von kinetischer Energie 
 - [ ] Ballkanone besorgen/bauen
