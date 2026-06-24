@@ -1051,7 +1051,7 @@
   "cMenuBottomValue": 4.25,
   "cMenuNumRows": 12,
   "cMenuWidth": 0,
-  "cMenuFontColor": "#7cfc00",
+  "cMenuFontColor": "#c815ff",
   "cMenuBackgroundColor": "#d3f8b6",
   "autohide": false,
   "Iscentered": false,
@@ -1066,6 +1066,7 @@
   "custom_fc4": "#B088FF",
   "custom_fc5": "#FF1493",
   "custom_fc6": "#7cfc00",
+  "custom_fc7": "#c815ff",
   "isLoadOnMobile": true,
   "horizontalPosition": 0,
   "verticalPosition": 0,
@@ -1180,6 +1181,5 @@
         "icon": "lucide-message-square"
       }
     ]
-  },
-  "custom_fc7": "#9400D3"
+  }
 }
