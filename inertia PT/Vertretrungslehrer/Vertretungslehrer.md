@@ -1541,7 +1541,7 @@ Ist eine Menge gegeben (etwa die Bevölkerung Deutschlands, oder ein Sack Reis, 
 100% für "alle" (oder "alles"),
 50% für "jeder zweite" (oder die Hälfte) usw.
 
-Das Problem mit großflächigen Tests.
+##### Das Problem mit großflächigen Tests.
 Ein Test (zum Beispiel ein Krankheitstest) liefere in 99% der Fälle die richtige Antwort, in 1% der Fälle allerdings die falsche Antwort. In Deutschland (80 Millionen Einwohner) seien 100 000 erkrankt, alle Personen werden getestet. Dann ergibt sich folgendes:
 
 Von den 100 000 Kranken werden 99 000 als krank erkannt, 1 000 werden irrtümlicherweise für gesund gehalten.
