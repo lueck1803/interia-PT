@@ -83,6 +83,9 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+## 26-06-24 bilge
+Naja also die Sache ist auch die - ich hab's mir gerade nochmal angehört - im Endeffekt hast du sie damit dass du sagtest dass sie gar nicht missbraucht wurde,
+(Nicht abgeschickt )
 ## 26-06-21 Nadine Urban 
 Mich hat die Wechselhaftigkeit der Kinder im Verhalten gegenüber mir bzw gegenüber dem Situations bezogenen Ich oder vielleicht gegenüber einer Rolle in der ich war irritiert.
 
