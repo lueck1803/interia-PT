@@ -1,7 +1,7 @@
 - [ ] Backpulver 
 - [ ] toast
 - [ ] Nusskati 
-- [ ] Bolognese soße
+- [x] Bolognese soße
 - [ ] Alufolie 
 - [ ] Eiswürfelbehälter 
 - [ ] erde aldi
