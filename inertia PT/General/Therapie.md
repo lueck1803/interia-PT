@@ -1,7 +1,7 @@
 
 # Tägliches Mantra
-- ~={LawnGreen}Ich bin so happy, dass ich diesen Drucker gekauft habe! Optimal für die Schule=~
-- viele kleine Schritte: Dominostein kann viel bewegen
+- <font color="#92d050">Ich bin so happy, dass ich diesen Drucker gekauft habe! Optimal für die Schule</font>
+- viele kleine Schritte: ~={LawnGreen}Dominostein=~ kann viel bewegen
 - alles was weniger als 2 min dauert, sofort machen 
 - wenn die Angst/ das Gefühl sagt "Dreh dich um und Lauf weg": [dein Ziel stirbt leise](https://youtu.be/8yLrWOtOrzg?is=n-0HyFCSUyBjW_vu)
 	- ⟹~={Crimson} nicht=~ mehr Willenskraft und Motivation 
