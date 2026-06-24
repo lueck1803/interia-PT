@@ -1485,8 +1485,12 @@ Ich übernehme:
 [15.6., 14:14] Jamil Hirsch: Okay, dann plane ich dich für Mittwoch raus, Arztbesuch. Grundsätzlich musst du sowas nicht nach- oder Vorarbeiten.
 [15.6., 14:48] Jamil Hirsch: Für das nächste Mal wäre es wichtig, dass du das schriftlich beantragst. Im Schulportal findest du das entsprechende Formular.
 # Aufgaben-Ideen
+## Mathe
+### Prozentrechnung 
+https://www.math.uni-bielefeld.de/~sek/biomath/stichw/prozent.htm
+
 ## Physik
-## Demonstration von kinetischer Energie 
+### Demonstration von kinetischer Energie 
 - [ ] Ballkanone besorgen/bauen
 - [x] kerbal space program kaufen
 ## GL

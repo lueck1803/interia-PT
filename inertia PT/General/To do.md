@@ -57,11 +57,11 @@
 - [ ] neuen Kalender für Schule erstellen 
 - [x] Batterie große Uhr wechseln 
 - [ ] zu duckduckgo wechseln 
-- [ ] zwei Maronen in destillierteswasserflaschen umsetzen 
-- [ ] Walnuss in topf setzen 
+- [x] zwei Maronen in destillierteswasserflaschen umsetzen 
+- [x] Walnuss in topf setzen 
 - [x] Nudeln kochen 
 - [x] clip Getränkehalter 
-	- [ ] Flasche spülen
+	- [x] Flasche spülen
 - [x] Fahrradtasche aussaugen 
 - [x] Nudeln kochen 
 	- [x] tortiglioni austragen 
