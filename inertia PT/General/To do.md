@@ -61,13 +61,13 @@
 - [ ] Boden wischen
 - [ ] weiße cappi bleichen
 - [ ] Sofa saugen 
+	- [ ] neue Decke aufs sofa
 - [ ] Freitag letzte Ferienwoche ist Anfangskonferenz 
 - [x] css datei der editing toolbar für die Farben anpassen 
 - [x] Fahrradsonnenbrille mit silikonöl ölen
 - [ ] Brokkoli kochen
 - [ ] Boden wischen 
 - [ ] Wäsche abhängen und zusammen legen 
-- [ ] Decke auf dem sofa richten
 - [x] zwei Maronen in destillierteswasserflaschen umsetzen 
 - [x] Walnuss in topf setzen 
 - [x] Nudeln kochen 
