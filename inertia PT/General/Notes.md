@@ -2204,6 +2204,16 @@ Mir tut auch Micro "Fehlverhalten" leid. Auch wenn sie das auch macht.
 Manchmal hatte sie dann auch so das Gefühl so schlecht behandelt zu werden, hat dabei aber null auf ihr micro Verhalten geachtet.
 
 # yt Kommentare
+## 26-06-25 old Fallout series
+@Whammytap because I liked the first season 🤷. Did I need to play the games by myself to say if a series in MY opinion is good.
+It wasn't meant objectively. I didn't say it is a trve game adaptation.
+
+I liked the story and the way it was presented.
+As far as I know it matched the game lore very well.
+It is one of the best video game life action adaptations ever.
+99% of such tries fail hard.
+
+I can judge this even though I didn't actually  play any of the games by myself thoroughly.
 ## 26-06-24 amann nietzard
 Ist scheiße was collin Fernandes passiert ist, aber das was sie hier betreibt ist totaler Anti-Feminismus...
 
