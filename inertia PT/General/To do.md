@@ -60,6 +60,7 @@
 - [ ] zu duckduckgo wechseln 
 - [ ] Boden wischen
 - [ ] weiße cappi bleichen
+- [ ] Freitag letzte Ferienwoche ist Anfangskonferenz 
 - [x] css datei der editing toolbar für die Farben anpassen 
 - [x] Fahrradsonnenbrille mit silikonöl ölen
 - [ ] Brokkoli kochen
