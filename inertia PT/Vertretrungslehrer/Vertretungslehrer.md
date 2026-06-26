@@ -1042,6 +1042,11 @@ Falls Vortrag gehalten wird, ändert sich das nochmal.
 
 ## Islam 
 
+### Child marriage 
+
+Es gibt keinen Verse im quran der das Heiratsalter nach unten limitiert.
+Weder Pubertät, noch der Schaden am Kind, noch Reife
+
 ### What is the “Islamic Dilemma”?
 The “Islamic Dilemma” is the name of an argument that exposes a foundational error in the Qur’an.
 
