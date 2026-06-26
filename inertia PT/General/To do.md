@@ -62,6 +62,8 @@
 - [ ] Waffenbrüder 
 - [ ] Boden wischen
 - [ ] weiße cappi bleichen
+- [ ] Toilette putzen 
+- [ ] 
 - [ ] Sofa saugen 
 	- [ ] neue Decke aufs sofa
 - [ ] Freitag letzte Ferienwoche ist Anfangskonferenz 
