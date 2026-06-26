@@ -1048,6 +1048,8 @@ Es gibt keinen Verse im quran der das Heiratsalter nach unten limitiert.
 Weder Pubertät, noch der Schaden am Kind, noch Reife.
 Deshalb darf man eine 5 jährige heiraten und mit ihr sex haben.
 
+Surah 4:23 
+
 ### What is the “Islamic Dilemma”?
 The “Islamic Dilemma” is the name of an argument that exposes a foundational error in the Qur’an.
 
