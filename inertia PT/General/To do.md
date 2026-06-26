@@ -74,6 +74,7 @@
 	- [ ] Mütze 
 	- [ ] zwei Unterhemden 
 	- [ ] ein T-Shirt 
+	- [ ] Ohrenstöpsel 
 - [ ] Papiermüll 
 - [ ] gelber Sack 
 - [x] Nudeln kochen
