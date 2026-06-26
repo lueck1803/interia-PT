@@ -62,10 +62,15 @@
 - [x] Waffenbrüder 
 - [ ] Boden wischen
 - [ ] weiße cappi bleichen
-- [ ] Toilette putzen 
+- [x] Toilette putzen 
 - [ ] Tisch aufräumen 
 - [ ] bio müll weg 
-- [ ] auf Webseite nach Bedingungen/Richtlinien 
+- [ ] auf Webseite nach Bedingungen/Richtlinien vom Festival checken 
+	- [ ] darf ich Wasserflasche mitnehmen?
+	- [ ] wenigstens Apfelsaft pet Flasche 
+	- [ ] und Saft
+	- [ ] sonnen Creme 
+	- [ ] Mütze 
 - [ ] Papiermüll 
 - [ ] gelber Sack 
 - [x] Nudeln kochen
