@@ -2204,7 +2204,34 @@ Mir tut auch Micro "Fehlverhalten" leid. Auch wenn sie das auch macht.
 Manchmal hatte sie dann auch so das Gefühl so schlecht behandelt zu werden, hat dabei aber null auf ihr micro Verhalten geachtet.
 
 # yt Kommentare
-## 26-06-
+## 26-06-26 minute physik
+@cosmoframe3466 Nein Scheinkräfte sind eben nicht existent.
+
+Sie wirken für den Beobachter in einem beschleunigten Bezugssystem wie eine Kraft, sind es aber eben nicht. 
+
+Im nicht beschleunigten Bezugssystem/Inertialsystem/Laborsystem ist das auch zu erkennen.
+
+Zu den Scheinkräften eines durch Drehbewegung beschleunigten Bezugssystem (wie die Erde eines ist), gehört zb. die Corrioliskraft.
+
+Die die Drehung von Hoch und Tiefdruck Gebieten oder Meeresströmungen "bewirkt".
+
+
+--- 
+Ein einfaches Beispiel dafür dass die Zentrifugalkraft keine Kraft ist, ist das Fahren mit dem Auto in eine Kurve.
+
+Man bewegt sich scheinbar nach außen aus der Kurve heraus und wird in den Gurt bzw. Die Tür gedrückt.
+
+Dabei lenkt man das Auto in die Kurve, die Reifen übertragen die Kräfte auf das Auto und dieses drückt einen dann über sitz, Gurt und Tür mit in die Kurve.
+
+Ohne diese Kräfte würde man sich geradlinig weiter bewegen. 1. Newtonsches Axiom.
+
+Die Zentripetalkraft wird somit über Straße und Reifen aufgebracht und über das Auto auf einen übertragen.
+
+Für eine Person im Auto kommt es vor als würde eine Kraft einen nach außen aus der kurve bzw. In die Tür drücken.
+
+Es ist aber umgekehrt.
+
+Und das macht einen großen Unterschied.
 ## 26-06-25 old Fallout series
 @Whammytap because I liked the first season 🤷. Did I need to play the games by myself to say if a series in MY opinion is good.
 It wasn't meant objectively. I didn't say it is a trve game adaptation.
