@@ -123,7 +123,7 @@
 	- [ ] bzw. tatsächlich eine Mischung, denn in der Bridge spiele ich eventuell doch lieber die rhythm bzw. sickfried
 - [ ] ohr eincremen /Teebaumöl 
 - hab geld vom Strom zurück bekommen 
-	- [ ] definitiv karten fürs Festival kaufen 🥰🎉
+	- definitiv karten fürs Festival kaufen 🥰🎉
 - [ ] Displayschutzfolie wechseln 
 - [ ] Ackerbohnen einfrieren 
 - [ ] alle nicht-Optimierungsthemen bzgl ADHS/Autismus raus. Keine Lust mehr über das nachzudenken was ich nicht kann und was mich hindert. Ich bin kein Opfer
