@@ -1,5 +1,6 @@
 - [ ] yoghurt 
 - [ ] Bananen 
+- [ ] so ein soja Essen
 - [x] Backpulver 
 - [x] toast
 - [x] Nusskati 
