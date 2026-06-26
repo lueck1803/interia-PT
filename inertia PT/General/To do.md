@@ -71,6 +71,7 @@
 	- [ ] und Saft
 	- [ ] sonnen Creme 
 	- [ ] Mütze 
+	- [ ] zwei Unterhemden 
 - [ ] Papiermüll 
 - [ ] gelber Sack 
 - [x] Nudeln kochen
