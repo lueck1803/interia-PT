@@ -1,4 +1,5 @@
 - [ ] yoghurt 
+- [ ] Bananen 
 - [x] Backpulver 
 - [x] toast
 - [x] Nusskati 
