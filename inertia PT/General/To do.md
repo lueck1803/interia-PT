@@ -59,15 +59,16 @@
 - [x] Batterie große Uhr wechseln 
 - [ ] zu duckduckgo wechseln 
 - [ ] sofa dampfen
-- [ ] Waffenbrüder 
+- [x] Waffenbrüder 
 - [ ] Boden wischen
 - [ ] weiße cappi bleichen
 - [ ] Toilette putzen 
 - [ ] Tisch aufräumen 
 - [ ] bio müll weg 
+- [ ] auf Webseite nach Bedingungen/Richtlinien 
 - [ ] Papiermüll 
 - [ ] gelber Sack 
-- [ ] Nudeln kochen
+- [x] Nudeln kochen
 - [ ] Sofa saugen 
 	- [ ] neue Decke aufs sofa
 - [ ] Freitag letzte Ferienwoche ist Anfangskonferenz 
