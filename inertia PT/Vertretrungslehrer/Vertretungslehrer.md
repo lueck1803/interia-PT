@@ -1041,6 +1041,13 @@ Falls Vortrag gehalten wird, ändert sich das nochmal.
 - the ottoman empire enslaved people on all of their theretory
 
 ## Islam 
+
+### What is the “Islamic Dilemma”?
+The “Islamic Dilemma” is the name of an argument that exposes a foundational error in the Qur’an.
+
+If the Qur’an affirms the Torah and the Injil (Gospel) it contradicts them and is wrong.
+
+If the Torah and the Injil (Gospel) are corrupted then the Qur’an is still false because it affirms it. Both arguments result in an unresolvable error.
 ### scientific mistakes of quran
 https://youtu.be/8yMD99gyr14?is=Sw8-6PzSpEbSlVHi
 
