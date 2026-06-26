@@ -99,9 +99,10 @@
 - [x] konto checken 
 	- alter ich hab 1900€ bekommen 
 	- ich muss quasi auf das Festival 😍
-- [ ] anwesenheit fr eintragen
+- [x] anwesenheit fr eintragen
+	- [x] egal
 - [x] Klamotten aufräumen
-- [ ] nochmal Steckling vom Baumhasel machen 
+- [x] nochmal Steckling vom Baumhasel machen 
 - [ ] Ordner für Schule anlegen um Zeug abzuheften
 - [x] Feuerzeug Gas nachfüllen 
 - [ ] Platz im Keller fürs Fahrrad Machen 
@@ -144,7 +145,7 @@
 - [x] duschen + rasieren 
 - [x] Download rüberschieben 
 - [ ] Bohnen einfrieren 
-- [ ] Paprikas eingraben 
+- [x] Paprikas eingraben 
 - [ ] Kette fetten 
 - [x] Schaltung fertig einstellen
 - [x] rad Trinkflasche suchen
@@ -178,12 +179,12 @@
 - [ ] mal schnell die original Methode implementieren
 	- [ ] auf 1:3 Daten anwenden 
 	- [ ] mit dem box algo vergleichen 
-- [ ] spülkorb putzen
-- [ ] Topf in Spülmaschine 
+- [x] spülkorb putzen
+- [x] Topf in Spülmaschine 
 - [ ] lao tzu
 - [ ] Notizen zu wissenschaftlichen Arbeit 
 - [ ] video zum Motivationscoach fertig und Notizen machen 
-- [ ] Vitamin D besorgen 
+- [x] Vitamin D besorgen 
 - [ ] wann war meine Ausbildung zum Rettungshelfer und was war meine Note
 - [ ] blatt mit denksport physik für licht und schatten erstellen
 - [ ] tinte Drucker auffüllen
@@ -193,7 +194,8 @@
 - [ ] [fix your adhd morning](https://youtu.be/gsVYI-l_6G8?is=BUHdgIGMxlNq8KT8) was dazu aufschreiben 
 - [x] dem Hausmeister ne Mail wegen Kunstschrank Schlüssel (daniel.mroczek@darmstadt.de)
 	- [ ] noch ne Mail wegen parkplatzschlüssel, da es im Sekretariat keinen mehr zu geben scheint
-- [ ] Fensterbänke wischen 
+- [x] Fensterbänke wischen 
+	- [ ] haben andere gemacht 
 - [ ] personality tabs am laptop fertig lesen und schließen
 - [ ] was ist das nächste macos nach meinem was sind die issues? 
 	- [ ] ⤷ updaten
@@ -219,7 +221,7 @@
 - [ ] sobald ich den Vertrag unterschrieben habe, karte für psychedelic festival kaufen 
 	- [ ] frühstens sobald geld da ist...
 - [ ] abp anstellen
-- [ ] spülkorb sauber machen
+- [x] spülkorb sauber machen
 - [ ] schauen wie ich mein Tablet update
 - [ ] lernen schneller und kleiner an der Tafel zu schreiben
 - [ ] Toilettendeckel tauschen 
