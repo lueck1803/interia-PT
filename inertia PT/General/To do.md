@@ -65,6 +65,8 @@
 - [ ] Toilette putzen 
 - [ ] Tisch aufräumen 
 - [ ] bio müll weg 
+- [ ] Papiermüll 
+- [ ] gelber Sack 
 - [ ] Nudeln kochen
 - [ ] Sofa saugen 
 	- [ ] neue Decke aufs sofa
