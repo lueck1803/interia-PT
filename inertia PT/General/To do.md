@@ -58,6 +58,8 @@
 - [ ] neuen Kalender für Schule erstellen 
 - [x] Batterie große Uhr wechseln 
 - [ ] zu duckduckgo wechseln 
+- [ ] sofa dampfen
+- [ ] Waffenbrüder 
 - [ ] Boden wischen
 - [ ] weiße cappi bleichen
 - [ ] Sofa saugen 
@@ -66,7 +68,6 @@
 - [x] css datei der editing toolbar für die Farben anpassen 
 - [x] Fahrradsonnenbrille mit silikonöl ölen
 - [ ] Brokkoli kochen
-- [ ] Boden wischen 
 - [ ] Wäsche abhängen und zusammen legen 
 - [x] zwei Maronen in destillierteswasserflaschen umsetzen 
 - [x] Walnuss in topf setzen 
