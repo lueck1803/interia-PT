@@ -67,11 +67,13 @@
 - [ ] bio müll weg 
 - [ ] auf Webseite nach Bedingungen/Richtlinien vom Festival checken 
 	- [ ] darf ich Wasserflasche mitnehmen?
+	- [ ] am liebsten Thermosflasche 
 	- [ ] wenigstens Apfelsaft pet Flasche 
 	- [ ] und Saft
 	- [ ] sonnen Creme 
 	- [ ] Mütze 
 	- [ ] zwei Unterhemden 
+	- [ ] ein T-Shirt 
 - [ ] Papiermüll 
 - [ ] gelber Sack 
 - [x] Nudeln kochen
@@ -80,7 +82,7 @@
 - [ ] Freitag letzte Ferienwoche ist Anfangskonferenz 
 - [x] css datei der editing toolbar für die Farben anpassen 
 - [x] Fahrradsonnenbrille mit silikonöl ölen
-- [ ] Brokkoli kochen
+- [x] Brokkoli kochen
 - [ ] Wäsche abhängen und zusammen legen 
 - [x] zwei Maronen in destillierteswasserflaschen umsetzen 
 - [x] Walnuss in topf setzen 
@@ -111,6 +113,7 @@
 		- [ ]  welches solo ich spiele muss ich mir noch überlegen. vielleicht mische ich das aus der alten und der neuen version
 		- [ ] ich glaube das solo der alten version gefällt mir besser... 
 		- [ ] das neue ist aber wirklich nahe am original hmm
+	- [ ] klappt jetzt besser mit Text und Gitarre, habe aber noch zu üben
 	- [ ] vocals geil üben
 	- [ ] backing track
 		- [ ] eventuell Mischung aus Version 1 und 2 zusammenstellen
