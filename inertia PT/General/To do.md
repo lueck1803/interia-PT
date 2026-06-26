@@ -64,7 +64,8 @@
 - [ ] weiße cappi bleichen
 - [ ] Toilette putzen 
 - [ ] Tisch aufräumen 
-- [ ] bio müll 
+- [ ] bio müll weg 
+- [ ] Nudeln kochen
 - [ ] Sofa saugen 
 	- [ ] neue Decke aufs sofa
 - [ ] Freitag letzte Ferienwoche ist Anfangskonferenz 
