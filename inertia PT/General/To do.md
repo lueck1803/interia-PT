@@ -63,7 +63,8 @@
 - [ ] Boden wischen
 - [ ] weiße cappi bleichen
 - [ ] Toilette putzen 
-- [ ] 
+- [ ] Tisch aufräumen 
+- [ ] bio müll 
 - [ ] Sofa saugen 
 	- [ ] neue Decke aufs sofa
 - [ ] Freitag letzte Ferienwoche ist Anfangskonferenz 
