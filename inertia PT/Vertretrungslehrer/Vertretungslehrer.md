@@ -1122,6 +1122,16 @@ Surah 3:185 (Sahih International): “Every soul will taste death, and you will 
 
 The Qur’an Affirms the Torah and Gospel as Revelations from Allah
 Some Muslims will say that the Injil is not the Gospels of the New Testament. That it is another book give to Jesus. But that idea falls down immediately you step beyond it.
+
+If the Injil is a separate book where is it? What historical commentator Christian or Roman or Greek referenced this separate book? The Qur’an says it was a book in the hands of Christian in 700. Where is there a copy of this other book or references to it from 200 AD through to now? That is an argument from zero evidence.
+
+The Qur’an declares that the Torah and the Gospel were revealed by Allah. In Surah 3, verses 3-4, it
+
+Surah Aal-E-Imran 3:3-4 “He has revealed to you the Book with truth, verifying that which is before it. And He revealed the Torah and the Gospel before, as guidance for the people, and He sent the Qur’an.”
+
+نَزَّلَ عَلَيْكَ الْكِتَابَ بِالْحَقِّ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ وَأَنزَلَ التَّوْرَاةَ وَالْإِنجِيلَ مِن قَبْلُ هُدًى لِّلنَّاسِ وَأَنزَلَ الْفُرْقَانَ
+
+If Allah revealed the Torah and the Gospel as guidance, how could they have become corrupted? This creates a tension with the belief that Allah’s guidance would mislead people.
 ### scientific mistakes of quran
 https://youtu.be/8yMD99gyr14?is=Sw8-6PzSpEbSlVHi
 
