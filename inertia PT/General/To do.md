@@ -66,6 +66,7 @@
 - [ ] Tisch aufräumen 
 - [ ] bio müll weg 
 - [ ] auf Webseite nach Bedingungen/Richtlinien vom Festival checken 
+	- [ ] vorher nochmal gießen
 	- [ ] ich nehme den aldi Beutel 
 	- [ ] darf ich Wasserflasche mitnehmen?
 		- [ ] letztes Jahr hatte ich das Wacken Horn 
@@ -76,7 +77,8 @@
 	- [ ] Mütze 
 	- [ ] zwei Unterhemden 
 	- [ ] ein T-Shirt 
-	- [ ] Ohrenstöpsel 
+	- [x] Ohrenstöpsel 
+	- [x] kleines handtuch
 - [ ] Papiermüll 
 - [ ] gelber Sack 
 - [x] Nudeln kochen
