@@ -1059,6 +1059,37 @@ The “Islamic Dilemma” is the name of an argument that exposes a foundational
 If the Qur’an affirms the Torah and the Injil (Gospel) it contradicts them and is wrong.
 
 If the Torah and the Injil (Gospel) are corrupted then the Qur’an is still false because it affirms it. Both arguments result in an unresolvable error.
+
+
+Summary of issue
+The core belief is that the Qur’an is Gods word from Gods messengers and is perfect.
+
+But is it?
+
+If the Qur’an is perfect and is Gods word perfectly preserved would it have mistakes? Of course not. If there are errors in the Qur’an it cannot be Gods word.
+
+The Qur’an makes claims. If those claims are true, it could be Gods word. If the Qur’an makes false claims it cannot.
+
+Islam believes that the Qur’an is perfect and therefore is a miracle of God. God though had other plans and left mistakes in the Qur’an that prove it false.
+
+One error destroys this miracle. The Qur’an affirms the Injil (the Gospel). Here is the first mistake of many:
+
+the Injil is the word of God (the Gospels), Islam contradicts it and Islam fails.
+If the Injil (the Gospels) is corrupted, Islam still fails because the Qur’an affirms its authority.
+Both positions of the argument point to the failure of Islam and the failure of Allah’s foresight or power or wisdom. Why has he allowed you to be in this position?
+
+The Qur’an declares you can trust the Injil. But Muslims today do not believe that. Down below we will go into many arguments about why Black is White or Up is Down but look at it clearly, if this is Allah’s word why is it wrong or why is it confusing of why did Allah fail or why does the Qur’an redefine Jesus (the most important question)
+
+The Qur’an Commands Muslims to Acknowledge Previous Revelations
+In Surah 29, verse 46, the Qur’an commands Muslims to say to Christians:
+
+Surah Al-Ankabut 29:46 “We believe in what has been revealed to us and in what has been revealed to you. Our God and your God is one, and to Him we submit.”
+
+وَلَا تُجَادِلُوا أَهْلَ الْكِتَابِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ إِلَّا الَّذِينَ ظَلَمُوا مِنْهُمْ وَقُولُوا آمَنَّا بِالَّذِي أُنزِلَ إِلَيْنَا وَأُنزِلَ إِلَيْكُمْ وَإِلَٰهُنَا وَإِلَٰهُكُمْ وَاحِدٌ وَنَحْنُ لَهُ مُسْلِمُونَ
+
+Despite this command, many Muslims say something different to Christians. They assert, “We don’t believe in your book because it’s been corrupted, and your God is a false God.”
+
+
 ### scientific mistakes of quran
 https://youtu.be/8yMD99gyr14?is=Sw8-6PzSpEbSlVHi
 
