@@ -1176,7 +1176,7 @@ Islam says you can get your own sins forgiven. That is a lie. Your sins separate
 
 Without a solution to your separation from God you will die separated from God.
 
-There is no way past that problem other than Jesus. Why Jesus?Let me explain
+There is no way past that problem other than Jesus. 
 ### scientific mistakes of quran
 https://youtu.be/8yMD99gyr14?is=Sw8-6PzSpEbSlVHi
 
