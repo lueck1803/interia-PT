@@ -61,10 +61,15 @@
 - [ ] sofa dampfen
 - [x] Waffenbrüder 
 - [ ] Boden wischen
-- [ ] weiße cappi bleichen
+- [x] weiße cappi bleichen
+	- [x] ausspülen
+	- [x] zum Abtropfen aufhängen
+	- [ ] zum Trocknen in die sonne hängen
 - [x] Toilette putzen 
 - [ ] Tisch aufräumen 
 - [ ] bio müll weg 
+- [ ] kleine mülleimer neben dem Schreibtisch leeren
+- [ ] T-shirts im schrank aufräumen
 - [ ] auf Webseite nach Bedingungen/Richtlinien vom Festival checken 
 	- [ ] vorher nochmal gießen
 	- [x] ich nehme den aldi Beutel 
@@ -87,7 +92,7 @@
 - [x] css datei der editing toolbar für die Farben anpassen 
 - [x] Fahrradsonnenbrille mit silikonöl ölen
 - [x] Brokkoli kochen
-- [ ] Wäsche abhängen und zusammen legen 
+- [x] Wäsche abhängen und zusammen legen 
 - [x] zwei Maronen in destillierteswasserflaschen umsetzen 
 - [x] Walnuss in topf setzen 
 - [x] Nudeln kochen 
