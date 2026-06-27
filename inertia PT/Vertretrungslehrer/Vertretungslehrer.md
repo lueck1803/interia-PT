@@ -1106,6 +1106,22 @@ Surah 4:171 (Sahih International): “O People of the Scripture, do not commit e
 2. Tawhid versus Trinity
 The Qur’an’s Teaching on God and the Bible’s Teaching on the Trinity
 According to the Bible, God is a Trinity (Father, Son, and Holy Spirit) while the Qur’an denies this. If Muslims follow the Qur’an, they can’t believe in the Bible’s account of the Trinity and Jesus’ death and resurrection. This leads Muslims to reject the Bible because it contradicts the Qur’an’s teachings.
+
+1 Corinthians 8:6 (NIV): “Yet for us there is but one God, the Father, from whom all things came and for whom we live; and there is but one Lord, Jesus Christ, through whom all things came and through whom we live.”
+
+Surah 3:185 (Sahih International): “Every soul will taste death, and you will only be given your [full] compensation on the Day of Resurrection. So he who is drawn away from the Fire and admitted to Paradise has attained [his desire].”
+
+يَا أَهْلَ الْكِتَابِ لَا تَغْلُوا فِي دِينِكُمْ وَلَا تَقُولُوا عَلَى اللّٰهِ إِلَّا الْحَقَّ … وَلَا تَقُولُوا ثَلَاثَةٌ
+
+3. Eternal Life
+John 3:16 (NIV): “For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.”
+
+Surah 3:185 (Sahih International): “Every soul will taste death, and you will only be given your [full] compensation on the Day of Resurrection. So he who is drawn away from the Fire and admitted to Paradise has attained [his desire].”
+
+كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ وَإِنَّمَا تُوَفَّوْنَ أُجُورَكُمْ يَوْمَ الْقِيَامَةِ
+
+The Qur’an Affirms the Torah and Gospel as Revelations from Allah
+Some Muslims will say that the Injil is not the Gospels of the New Testament. That it is another book give to Jesus. But that idea falls down immediately you step beyond it.
 ### scientific mistakes of quran
 https://youtu.be/8yMD99gyr14?is=Sw8-6PzSpEbSlVHi
 
