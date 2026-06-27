@@ -1146,7 +1146,23 @@ In this passage above the Qur’an say the Injil is a physical book in the hands
 
 Here is a link to the further explanation to the injil, What is the Injil?
 
-The Qur’an States Allah’s
+The Qur’an States Allah’s Words Cannot Be Changed
+In Surah 18, verse 27, the Qur’an asserts that no one can change Allah’s
+
+Surah 18, verse 27: “And recite what has been revealed to you of the Book of your Lord. There is none who can change His words, and you shall not find any refuge besides Him.”
+
+وَاتْلُ مَا أُوحِيَ إِلَيْكَ مِن كِتَابِ رَبِّكَ لَا مُبَدِّلَ لِكَلِمَاتِهِ وَلَن تَجِدَ مِن دُونِهِ مُلْتَحَدًا
+
+If no one can change Allah’s words, and the Torah and Gospel are considered Allah’s words, how can Muslims argue that the Bible has been corrupted?
+
+Muslims Are Commanded to Judge by the Gospel
+If the Gospel has been corrupted, why would Allah command Christians to judge by it? The only Gospel Christians have contradicts Islam, so judging by it would lead them to reject Islam.
+
+Surah 5, verse 47, commands Christians to judge by the
+
+Surah Al-Maidah 5:47 “Let the people of the Gospel judge by what Allah hath revealed therein. If any do fail to judge by the light of what Allah hath revealed, they are no better than those who rebel.”
+
+وَلْيَحْكُمْ أَهْلُ الْإِنجِيلِ بِمَا أَنزَلَ اللَّـهُ فِيهِ وَمَن لَّمْ يَحْكُم بِمَا أَنزَلَ اللَّـهُ فَأُولَـٰئِكَ هُمُ الْفَاسِقُونَ
 ### scientific mistakes of quran
 https://youtu.be/8yMD99gyr14?is=Sw8-6PzSpEbSlVHi
 
