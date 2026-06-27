@@ -1163,6 +1163,20 @@ Surah 5, verse 47, commands Christians to judge by the
 Surah Al-Maidah 5:47 “Let the people of the Gospel judge by what Allah hath revealed therein. If any do fail to judge by the light of what Allah hath revealed, they are no better than those who rebel.”
 
 وَلْيَحْكُمْ أَهْلُ الْإِنجِيلِ بِمَا أَنزَلَ اللَّـهُ فِيهِ وَمَن لَّمْ يَحْكُم بِمَا أَنزَلَ اللَّـهُ فَأُولَـٰئِكَ هُمُ الْفَاسِقُونَ
+Conclusion: Either Way, Islam Is False
+Whether the Gospel is the word of God or not, Islam faces a self-destructive contradiction.
+
+If the Gospel is the word of God, Islam is false because it contradicts the core teachings of the Gospel.
+If the Gospel is not the word of God, Islam is false because the Qur’an affirms the authority of the Gospel.
+By affirming scriptures that contradict its core teachings, Islam self-destructs. Muslims who don’t want to believe in a self-destructive religion will need to find a new belief system. Let’s encourage our Muslim friends to obey the Gospel as both the Bible and Qur’an command.
+
+This logical proposition shows in this circumstance that the Qur’an is not perfect. There are 100 other issues with it but that is not the issue. The issue of the Qur’an is it resets who Jesus is. Jesus is the answer. Jesus is Your answer.
+
+Islam says you can get your own sins forgiven. That is a lie. Your sins separate you from God. That is the start of the Gospel message.
+
+Without a solution to your separation from God you will die separated from God.
+
+There is no way past that problem other than Jesus. Why Jesus?Let me explain
 ### scientific mistakes of quran
 https://youtu.be/8yMD99gyr14?is=Sw8-6PzSpEbSlVHi
 
