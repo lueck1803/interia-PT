@@ -67,7 +67,7 @@
 - [ ] bio müll weg 
 - [ ] auf Webseite nach Bedingungen/Richtlinien vom Festival checken 
 	- [ ] vorher nochmal gießen
-	- [ ] ich nehme den aldi Beutel 
+	- [x] ich nehme den aldi Beutel 
 	- darf ich Wasserflasche mitnehmen?
 		- am liebsten Thermosflasche 
 		- [x] letztes Jahr hatte ich das Wacken Horn 
