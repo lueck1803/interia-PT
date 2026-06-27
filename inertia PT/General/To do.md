@@ -70,15 +70,16 @@
 - [ ] bio müll weg 
 - [ ] kleine mülleimer neben dem Schreibtisch leeren
 - [ ] T-shirts im schrank aufräumen
-- [ ] auf Webseite nach Bedingungen/Richtlinien vom Festival checken 
-	- [ ] vorher nochmal gießen
+- auf Webseite nach Bedingungen/Richtlinien vom Festival checken 
+	- [x] vorher nochmal gießen
 	- [x] ich nehme den aldi Beutel 
 	- darf ich Wasserflasche mitnehmen?
 		- am liebsten Thermosflasche 
 		- [x] letztes Jahr hatte ich das Wacken Horn 
-		- [ ] ich kaufe mir ne Saftflasche im Aldi 
+		- ich kaufe mir ne Saftflasche im Aldi 
+		- [x] ich hab mir ne Saftflasche von zu Hause mitgenommen 
 	- [x] sonnen Creme 
-	- [ ] Mütze 
+	- [x] Mütze 
 	- [x] zweites Unterhemd
 	- [x] ein T-Shirt 
 	- [x] Ohrenstöpsel 
