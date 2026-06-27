@@ -75,6 +75,7 @@
 	- [ ] zwei Unterhemden 
 	- [ ] ein T-Shirt 
 	- [ ] Ohrenstöpsel 
+	- [ ] ich kaufe mir ne saftfl
 - [ ] Papiermüll 
 - [ ] gelber Sack 
 - [x] Nudeln kochen
