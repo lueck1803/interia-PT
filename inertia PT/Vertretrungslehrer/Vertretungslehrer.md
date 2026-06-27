@@ -1089,7 +1089,23 @@ Surah Al-Ankabut 29:46 “We believe in what has been revealed to us and in what
 
 Despite this command, many Muslims say something different to Christians. They assert, “We don’t believe in your book because it’s been corrupted, and your God is a false God.”
 
+Contradiction Between Qur’anic Command and Muslim Beliefs About the Bible
+If Muslims are commanded to believe in what has been revealed to Christians (the Bible), why do they claim that the Bible is corrupted? If the Qur’an says that their God and our God are the same, why do they instead assert that the Christian God is false?
 
+These contradictions are across the board and absolute. The Bible agrees with itself 1,000 times. The Quran stands apart.
+
+Here are three that show the complete deviation of the two sets of scripture.
+
+1. Mediator Between God and Man
+1 Timothy 2:5 (NIV): “For there is one God and one mediator between God and mankind, the man Christ Jesus.”
+
+Surah 4:171 (Sahih International): “O People of the Scripture, do not commit excess in your religion or say about Allah except the truth. The Messiah, Jesus, the son of Mary, was but a messenger of Allah … So believe in Allah and His messengers. And do not say, ‘Three’; desist – it is better for you.”
+
+اللّٰهُ لَا إِلٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ … مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ
+
+2. Tawhid versus Trinity
+The Qur’an’s Teaching on God and the Bible’s Teaching on the Trinity
+According to the Bible, God is a Trinity (Father, Son, and Holy Spirit) while the Qur’an denies this. If Muslims follow the Qur’an, they can’t believe in the Bible’s account of the Trinity and Jesus’ death and resurrection. This leads Muslims to reject the Bible because it contradicts the Qur’an’s teachings.
 ### scientific mistakes of quran
 https://youtu.be/8yMD99gyr14?is=Sw8-6PzSpEbSlVHi
 
