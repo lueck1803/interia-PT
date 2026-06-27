@@ -1132,6 +1132,21 @@ Surah Aal-E-Imran 3:3-4 “He has revealed to you the Book with truth, verifying
 نَزَّلَ عَلَيْكَ الْكِتَابَ بِالْحَقِّ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ وَأَنزَلَ التَّوْرَاةَ وَالْإِنجِيلَ مِن قَبْلُ هُدًى لِّلنَّاسِ وَأَنزَلَ الْفُرْقَانَ
 
 If Allah revealed the Torah and the Gospel as guidance, how could they have become corrupted? This creates a tension with the belief that Allah’s guidance would mislead people.
+
+The Injil is not the Christian Gospel
+Surah Al-Ma’idah 5:47 “And let the followers of the Evangel judge according to what Allâh has revealed therein. And indeed those who do not judge according to what Allâh has revealed it is these who are the real disobedient.”
+
+وَلۡيَحۡكُمۡ أَهۡلُ ٱلۡإِنجِيلِ بِمَآ أَنزَلَ ٱللَّهُ فِيهِۚ وَمَن لَّمۡ يَحۡكُمۡ بِمَآ أَنزَلَ ٱللَّهُ فَأُوْلَـٰٓئِكَ هُمُ ٱلۡفَـٰسِقُونَ
+
+Surah Al-Ma’idah 5:48 “And We have revealed to you this perfect Book comprising the truth and wisdom, fulfilling (the prophecies of) the Scripture which was present before it and stands as a guardian over it, then judge between them according to that which Allâh has revealed (of the Qur’ân ), and do not deviate from the truth that has come to you in order to follow their low desires. For each one of you did We prescribe a spiritual law and a well-defined way (- a code in secular matters). And if Allâh had so willed He might have made you all one community (by force), but He wishes to show your perfection (the capacities and capabilities) that He has endowed you with. Therefore vie one with another in (doing) good deeds. To Allâh is the return of you all, then He will inform you as to that wherein you were at variance.”
+
+وَأَنزَلۡنَآ إِلَيۡكَ ٱلۡكِتَـٰبَ بِٱلۡحَقِّ مُصَدِّقٗا لِّمَا بَيۡنَ يَدَيۡهِ مِنَ ٱلۡكِتَـٰبِ وَمُهَيۡمِنًا عَلَيۡهِۖ فَٱحۡكُم بَيۡنَهُم بِمَآ أَنزَلَ ٱللَّهُ وَلَا تَتَّبِعۡ أَهۡوَآءَهُمۡ عَمَّا جَآءَكَ مِنَ ٱلۡحَقِّۚ لِكُلّ ٖ جَعَلۡنَا مِنكُمۡ شِرۡعَةٗ وَمِنۡهَاجٗاۚ وَلَوۡ شَآءَ ٱللَّهُ لَجَعَلَكُمۡ أُمَّةٗ وَٰحِدَةٗ وَلَٰكِن لِّيَبۡلُوَكُمۡ فِي مَآ ءَاتَىٰكُمۡ فَٱسۡتَبِقُواْ ٱلۡخَيۡرَٰتِۚ إِلَى ٱللَّهِ مَرۡجِعُكُمۡ جَمِيعٗا فَيُنَبِّئُكُم بِمَا كُنتُمۡ فِيهِ تَخۡتَلِفُونَ
+
+In this passage above the Qur’an say the Injil is a physical book in the hands of Christians. And then is says explicitly says “do not deviate from the truth that has come to you in order to follow their low desires” so you have to accept that it existed at the time of Muhammad and was publicly held. What could that be historically other than the bible, the Torah and the Gospels.
+
+Here is a link to the further explanation to the injil, What is the Injil?
+
+The Qur’an States Allah’s
 ### scientific mistakes of quran
 https://youtu.be/8yMD99gyr14?is=Sw8-6PzSpEbSlVHi
 
