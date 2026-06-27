@@ -68,15 +68,14 @@
 - [ ] auf Webseite nach Bedingungen/Richtlinien vom Festival checken 
 	- [ ] vorher nochmal gießen
 	- [ ] ich nehme den aldi Beutel 
-	- [ ] darf ich Wasserflasche mitnehmen?
-		- [ ] letztes Jahr hatte ich das Wacken Horn 
-	- [ ] am liebsten Thermosflasche 
-	- [ ] wenigstens Apfelsaft pet Flasche 
-	- [ ] ich kaufe mir ne Saftflasche im Aldi 
+	- darf ich Wasserflasche mitnehmen?
+		- am liebsten Thermosflasche 
+		- [x] letztes Jahr hatte ich das Wacken Horn 
+		- [ ] ich kaufe mir ne Saftflasche im Aldi 
 	- [x] sonnen Creme 
 	- [ ] Mütze 
-	- [ ] zwei Unterhemden 
-	- [ ] ein T-Shirt 
+	- [x] zweites Unterhemd
+	- [x] ein T-Shirt 
 	- [x] Ohrenstöpsel 
 	- [x] kleines handtuch
 - [ ] Papiermüll 
