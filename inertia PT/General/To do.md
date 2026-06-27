@@ -66,16 +66,17 @@
 - [ ] Tisch aufräumen 
 - [ ] bio müll weg 
 - [ ] auf Webseite nach Bedingungen/Richtlinien vom Festival checken 
+	- [ ] ich nehme den aldi Beutel 
 	- [ ] darf ich Wasserflasche mitnehmen?
+		- [ ] letztes Jahr hatte ich das Wacken Horn 
 	- [ ] am liebsten Thermosflasche 
 	- [ ] wenigstens Apfelsaft pet Flasche 
-	- [ ] und Saft
-	- [ ] sonnen Creme 
+	- [ ] ich kaufe mir ne Saftflasche im Aldi 
+	- [x] sonnen Creme 
 	- [ ] Mütze 
 	- [ ] zwei Unterhemden 
 	- [ ] ein T-Shirt 
 	- [ ] Ohrenstöpsel 
-	- [ ] ich kaufe mir ne Saftflasche im Aldi 
 - [ ] Papiermüll 
 - [ ] gelber Sack 
 - [x] Nudeln kochen
