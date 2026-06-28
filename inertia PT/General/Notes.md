@@ -83,6 +83,12 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+## 26-06-28 arthur
+ich hatte die Tage gedacht ohje lead und text geht gar nicht.
+
+gerade bei der Bridge, die in der ersten Version einfacher gehalten war, fand ich das matchen zwischen Text und gitarre echt schwer.
+
+war aber einfach nur, dass ich mir  da zu viel druck gemacht habe
 ## 26-06-24 bilge
 Naja also die Sache ist auch die - ich hab's mir gerade nochmal angehört - im Endeffekt hast du sie damit dass du sagtest dass sie gar nicht missbraucht wurde,
 (Nicht abgeschickt )
