@@ -57,6 +57,7 @@
 
 - [ ] neuen Kalender für Schule erstellen 
 - [x] Batterie große Uhr wechseln 
+- [ ] ventilator im Mediamarkt kaufen/vorher mit Internet vergleichen 
 - [ ] zu duckduckgo wechseln 
 - [ ] sofa dampfen
 - [x] Waffenbrüder 
