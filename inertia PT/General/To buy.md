@@ -1,4 +1,4 @@
-- saft
+- [ ] saft
 - [ ] destilliertes Wasser
 - [x] yoghurt 
 - [x] Bananen 
