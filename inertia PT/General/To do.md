@@ -56,6 +56,7 @@
 	- <font color="#e36c09">Versündige</font> dich <font color="#ff0000">nicht</font> weiter an dir und deinem Leben
 
 - [ ] neuen Kalender für Schule erstellen 
+- [ ] Kaffemaschine entkalken 
 - [x] Rechner in uni neu starten 
 	- ⟹ hab ich jetzt so gelassen
 - [ ] ne fork für mein amep erstellen
