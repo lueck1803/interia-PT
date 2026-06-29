@@ -66,7 +66,9 @@
 	- [ ] beim wechsel zum pm part, mit down stroke anfangen, das ganz klar und einheitlich wiederholen. 
 		- [ ] ruhig am Anfang auch nochmal die schläge beim pm part zählen:
 			- [ ] 4 schläge: 1. lang (achtel) und dann 2 kurz(16tel) 4. lang (achtel)
-			- [ ] kein durcheinander mit dem Pick. ⟹klaren wechselschlag und nic
+			- [ ] kein durcheinander mit dem Pick. ⟹klaren wechselschlag und nicht das Pick über die Saite heben
+		- [ ] bei der weißen Gitarre die Hand ruhig etwas weiter als gewohnt nach vorne, damit es richtig abgedämpft klingt
+	- [ ] beim picking immer das handgelenk richtig mitbewegen
 - [ ] neue kiwis ziehen
 - [ ] Balkontür mit alufolie bekleben
 - [ ] floyed rose richtig blockieren
