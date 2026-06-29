@@ -1,5 +1,5 @@
 - [ ] saft
-- [ ] destilliertes Wasser
+- [x] destilliertes Wasser
 - [x] yoghurt 
 - [x] Bananen 
 - [x] so ein soja Essen

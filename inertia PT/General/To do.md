@@ -57,8 +57,9 @@
 
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Kaffemaschine entkalken 
-- [ ] im Bauhaus nach ventilator schauen
-	- [ ] destilliertes Wasser 
+- [x] im Bauhaus nach ventilator schauen
+	- [x] destilliertes Wasser 
+	- ventilator waren im bh, roller und Hornbach ausverkauft. Im Mömax war ich jetzt nicht
 - [x] Rechner in uni neu starten 
 	- ⟹ hab ich jetzt so gelassen
 - [ ] ne fork für mein amep erstellen
