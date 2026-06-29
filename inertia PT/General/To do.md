@@ -57,6 +57,7 @@
 
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Kaffemaschine entkalken 
+- [ ] uhr Küche wechseln Batterie
 - [x] Nudeln in den Kühlschrank 
 - [x] im Bauhaus nach ventilator schauen
 	- [x] destilliertes Wasser 
