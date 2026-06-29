@@ -58,7 +58,7 @@
 - [ ] neuen Kalender für Schule erstellen 
 - [x] Batterie große Uhr wechseln 
 - [ ] ventilator im Mediamarkt kaufen/vorher mit Internet vergleichen 
-- [ ] füsilier 2 an weißer Gitarre anschauen/üben
+- [x] füsilier 2 an weißer Gitarre anschauen/üben
 - [ ] ganz ganz ganz viel sauberes tremolo picking üben, insbesondere in kombi mit abdämpfen. 
       Wechsel zwischen weißer und schwarzer Gitarre
 - [ ] Waffenbrüder solo
@@ -84,10 +84,10 @@
 - [ ] sofa dampfen
 - [x] Waffenbrüder 
 - [ ] Boden wischen
-- [ ] weiße cappi bleichen
+- [x] weiße cappi bleichen
 	- [x] ausspülen
 	- [x] zum Abtropfen aufhängen
-	- [ ] zum Trocknen in die sonne hängen
+	- [x] zum Trocknen in die sonne hängen
 - [x] Toilette putzen 
 - [ ] Tisch aufräumen 
 - [ ] bio müll weg 
