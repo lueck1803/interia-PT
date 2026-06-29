@@ -61,11 +61,12 @@
 - [x] im Bauhaus nach ventilator schauen
 	- [x] destilliertes Wasser 
 	- ventilator waren im bh, roller und Hornbach ausverkauft. Im Mömax war ich jetzt nicht
+- [x] ventilator im Mediamarkt kaufen/vorher mit Internet vergleichen 
+	- [ ] hab mir jetzt einen bei eBay bestell
 - [x] Rechner in uni neu starten 
 	- ⟹ hab ich jetzt so gelassen
 - [ ] ne fork für mein amep erstellen
 - [x] Batterie große Uhr wechseln 
-- [x] ventilator im Mediamarkt kaufen/vorher mit Internet vergleichen 
 - [x] füsilier 2 an weißer Gitarre anschauen/üben
 - [ ] ganz ganz ganz viel sauberes tremolo picking üben, insbesondere in kombi mit abdämpfen. 
       Wechsel zwischen weißer und schwarzer Gitarre
