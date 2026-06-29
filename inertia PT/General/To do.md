@@ -102,6 +102,7 @@
 - [ ] Tisch aufräumen 
 - [x] bio müll weg 
 	- [ ] steht noch unten habe ich vergessen?
+	- [ ] japp dann bringe ich gleich den anderen Müll noch weg 
 - [ ] kleine mülleimer neben dem Schreibtisch leeren
 - [x] T-shirts im schrank aufräumen
 - auf Webseite nach Bedingungen/Richtlinien vom Festival checken 
