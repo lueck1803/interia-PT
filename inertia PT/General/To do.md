@@ -58,7 +58,7 @@
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Kaffemaschine entkalken 
 - [ ] im Bauhaus nach ventilator schauen
-- [ ] 
+	- [ ] destilliertes Wasser 
 - [x] Rechner in uni neu starten 
 	- ⟹ hab ich jetzt so gelassen
 - [ ] ne fork für mein amep erstellen

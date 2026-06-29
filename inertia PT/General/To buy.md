@@ -1,5 +1,6 @@
-- [x] yoghurt 
+- saft
 - [ ] destilliertes Wasser
+- [x] yoghurt 
 - [x] Bananen 
 - [x] so ein soja Essen
 - [x] Backpulver 
@@ -12,7 +13,6 @@
 - [ ] erde aldi
 - [x] Wassereis 
 - [ ] Laufschuhe 
-- [x] saft
 - [x] pizza 
 - [x] Toilettenpapier 
 - [x] klingel
