@@ -2210,6 +2210,43 @@ Mir tut auch Micro "Fehlverhalten" leid. Auch wenn sie das auch macht.
 Manchmal hatte sie dann auch so das Gefühl so schlecht behandelt zu werden, hat dabei aber null auf ihr micro Verhalten geachtet.
 
 # yt Kommentare
+## 26-06-29
+@Kırımkağanlı berechtigte Frage.
+Im Libanon ist aber nicht überall Krieg.
+
+Die "Palästinenser" (PLO) haben in Vergangenheit auch große Probleme im Libanon gemacht.
+
+Wir sind jedenfalls nicht dafür verantwortlich deren kriminelles Verhalten hier zu ertragen.
+
+Mit der Aufnahme der Libanesen ist auch von deutscher Seite damals einiges schief gelaufen, es gab kaum Möglichkeiten legal zu arbeiten.
+
+Die Entscheidung kriminell zu werden und das über Generationen, wurde von den Leuten dann doch schon selbst getroffen.
+
+Die Leute die sich explizit von ihren Clans lossagen und ein entsprechendes Prüfverfahren durchmachen, könnten bleiben. Das wäre jetzt so ne Überlegung.
+
+Ansonsten, ist es das gleiche nicht Problem für uns wie mit den Straftätern die nach Afghanistan abgeschoben gehören.
+
+Deren Kulturen haben diese Straftäter produziert, das war nicht Deutschland.
+
+Im Gegenteil. Deutschland hat sich mit den lächerlichen Diskussionen über das angeblich diskriminierende Wort "Clankriminalität" wirklich an der Nase herum führen lassen. 
+
+Ich bin der Ansicht, dass ein deutlich härteres Durchgreifen, so Einigen, die eigentlich nichts mit der Kriminalität am Hut haben wollten, verholfen hätte, leichter auf Distanz zu gehen.
+
+Mir ist ziemlich egal wo jemand her kommt. Es sind alle willkommen die einen produktiven Beitrag zu Deutschland beitragen  und auch ein Teil Deutschlands sein wollen.
+
+Wir haben mittlerweile zu viele Konflikte die auf unseren Straßen ausgetragen werden, von Leuten die meinen auch noch Deutschland im Sinnbild für "den Westen" die Schuld an allem zu geben. 
+
+Das Gaza unbewohnbar ist, hat diverse Gründe und der Krieg im Libanon hat wohl auch seine Gründe.
+
+So einfach es klingen mag in Israel den Teufel zu sehen, so falsch ist das. (Ja haben sie nicht gemacht und das unterstelle ich Ihnen auch nicht) 
+
+Es gibt für beide von Ihnen erwähnte Sachverhalte Gründe. Jedenfalls rechtfertigten die nicht das Verhalten dieser Personen in Deutschland 🤷. Erst Recht nicht wenn man Deutschland so verachtet wie die. 
+
+Sollen sie sich ja neue Häuser bauen und am besten die hezbollah und die Hamas bekämpfen.
+
+Ergaunertes Geld haben die ja genug. Das führt sicherlich zu wirtschaftlicher Prosperität vor Ort. 😉
+
+Natürlich wird möglichst alles was geht beschlagnahmt und einbehalten, ich habe aber großes Vertrauen in deren kriminelle Energie dass die rechtzeitig genug bei Seite geschafft haben.
 ## 26-06-26 minute physik
 @cosmoframe3466 Nein Scheinkräfte sind eben nicht existent.
 
