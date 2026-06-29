@@ -59,6 +59,8 @@
 - [x] Batterie große Uhr wechseln 
 - [ ] ventilator im Mediamarkt kaufen/vorher mit Internet vergleichen 
 - [ ] füsilier 2 an weißer Gitarre anschauen/üben
+- [ ] ganz ganz ganz viel sauberes tremolo picking üben, insbesondere in kombi mit abdämpfen. 
+      Wechesel zwischen weißer und schwarzer gitarre
 - [ ] neue kiwis ziehen
 - [ ] Balkontür mit alufolie bekleben
 - [ ] floyed rose richtig blockieren
