@@ -56,6 +56,7 @@
 	- <font color="#e36c09">Versündige</font> dich <font color="#ff0000">nicht</font> weiter an dir und deinem Leben
 
 - [ ] neuen Kalender für Schule erstellen 
+- [ ] Rechner in uni neu starten 
 - [x] Batterie große Uhr wechseln 
 - [ ] ventilator im Mediamarkt kaufen/vorher mit Internet vergleichen 
 - [x] füsilier 2 an weißer Gitarre anschauen/üben
