@@ -58,6 +58,8 @@
 - [ ] neuen Kalender für Schule erstellen 
 - [x] Batterie große Uhr wechseln 
 - [ ] ventilator im Mediamarkt kaufen/vorher mit Internet vergleichen 
+- [ ] neue kiwis ziehen
+- [ ] Balkontür mit alufolie bekleben
 - [ ] zu duckduckgo wechseln 
 - [ ] sofa dampfen
 - [x] Waffenbrüder 
