@@ -56,7 +56,7 @@
 	- <font color="#e36c09">Versündige</font> dich <font color="#ff0000">nicht</font> weiter an dir und deinem Leben
 
 - [ ] neuen Kalender für Schule erstellen 
-- [ ] Kaffemaschine entkalken 
+- [x] Kaffemaschine entkalken 
 - [ ] uhr Küche wechseln Batterie
 - [ ] Spülmaschine ausräumen 
 - [x] Nudeln in den Kühlschrank 
