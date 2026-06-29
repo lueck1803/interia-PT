@@ -72,7 +72,7 @@
 - [ ] Boden wischen
 - [ ] weiße cappi bleichen
 	- [ ] ausspülen
-	- [x] zum Abtropfen aufhängen
+	- [ ] zum Abtropfen aufhängen
 	- [ ] zum Trocknen in die sonne hängen
 - [x] Toilette putzen 
 - [ ] Tisch aufräumen 
