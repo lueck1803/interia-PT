@@ -69,6 +69,10 @@
 			- [ ] kein durcheinander mit dem Pick. ⟹klaren wechselschlag und nicht das Pick über die Saite heben
 		- [ ] bei der weißen Gitarre die Hand ruhig etwas weiter als gewohnt nach vorne, damit es richtig abgedämpft klingt
 	- [ ] beim picking immer das handgelenk richtig mitbewegen
+	- [ ] immer möglichst ohne kraft, präzise und mit der spitze des picks spielen
+		- [ ] gilt insbesondere beim tremolo picking über mehrere saiten
+		- [ ] hand und handgelenk total locker lassen
+		- [ ] aber pick sehr stabil greifen
 - [ ] neue kiwis ziehen
 - [ ] Balkontür mit alufolie bekleben
 - [ ] floyed rose richtig blockieren
