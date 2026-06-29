@@ -58,6 +58,7 @@
 - [ ] neuen Kalender für Schule erstellen 
 - [x] Batterie große Uhr wechseln 
 - [ ] ventilator im Mediamarkt kaufen/vorher mit Internet vergleichen 
+- [ ] füsilier 2 an weißer Gitarre anschauen/üben
 - [ ] neue kiwis ziehen
 - [ ] Balkontür mit alufolie bekleben
 - [ ] floyed rose richtig blockieren
@@ -77,7 +78,7 @@
 - [ ] Tisch aufräumen 
 - [ ] bio müll weg 
 - [ ] kleine mülleimer neben dem Schreibtisch leeren
-- [ ] T-shirts im schrank aufräumen
+- [x] T-shirts im schrank aufräumen
 - auf Webseite nach Bedingungen/Richtlinien vom Festival checken 
 	- [x] vorher nochmal gießen
 	- [x] ich nehme den aldi Beutel 
