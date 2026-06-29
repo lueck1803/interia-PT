@@ -100,7 +100,8 @@
 	- [x] zum Trocknen in die sonne hängen
 - [x] Toilette putzen 
 - [ ] Tisch aufräumen 
-- [ ] bio müll weg 
+- [x] bio müll weg 
+	- [ ] steht noch unten habe ich vergessen?
 - [ ] kleine mülleimer neben dem Schreibtisch leeren
 - [x] T-shirts im schrank aufräumen
 - auf Webseite nach Bedingungen/Richtlinien vom Festival checken 
