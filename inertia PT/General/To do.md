@@ -62,7 +62,8 @@
 	- [x] destilliertes Wasser 
 	- ventilator waren im bh, roller und Hornbach ausverkauft. Im Mömax war ich jetzt nicht
 - [x] ventilator im Mediamarkt kaufen/vorher mit Internet vergleichen 
-	- [ ] hab mir jetzt einen bei eBay bestellt 🫣 (29.6.) 74€. Es hätte einen äquivalenten bei Aldi am 18.
+	- hab mir jetzt einen bei eBay bestellt 🫣 (29.6.) 74€. 
+	- Es hätte einen äquivalenten bei Aldi am 18.6. für 20€ gegeben. Es ist ein Erfolg dass ich mich nicht dafür fertig mache
 - [x] Rechner in uni neu starten 
 	- ⟹ hab ich jetzt so gelassen
 - [ ] ne fork für mein amep erstellen
