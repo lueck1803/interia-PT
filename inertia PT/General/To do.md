@@ -60,7 +60,13 @@
 - [ ] ventilator im Mediamarkt kaufen/vorher mit Internet vergleichen 
 - [ ] füsilier 2 an weißer Gitarre anschauen/üben
 - [ ] ganz ganz ganz viel sauberes tremolo picking üben, insbesondere in kombi mit abdämpfen. 
-      Wechesel zwischen weißer und schwarzer gitarre
+      Wechsel zwischen weißer und schwarzer Gitarre
+- [ ] Waffenbrüder solo
+	- [ ] pick ganz fest halten ⟹ Saiten mit pick spitze spüren
+	- [ ] beim wechsel zum pm part, mit down stroke anfangen, das ganz klar und einheitlich wiederholen. 
+		- [ ] ruhig am Anfang auch nochmal die schläge beim pm part zählen:
+			- [ ] 4 schläge: 1. lang (achtel) und dann 2 kurz(16tel) 4. lang (achtel)
+			- [ ] kein durcheinander mit dem Pick. ⟹klaren wechselschlag und nic
 - [ ] neue kiwis ziehen
 - [ ] Balkontür mit alufolie bekleben
 - [ ] floyed rose richtig blockieren
