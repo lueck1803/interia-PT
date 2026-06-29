@@ -57,6 +57,7 @@
 
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Kaffemaschine entkalken 
+- [ ] Nudeln in den Kühlschrank 
 - [x] im Bauhaus nach ventilator schauen
 	- [x] destilliertes Wasser 
 	- ventilator waren im bh, roller und Hornbach ausverkauft. Im Mömax war ich jetzt nicht
