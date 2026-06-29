@@ -71,8 +71,8 @@
 - [x] Waffenbrüder 
 - [ ] Boden wischen
 - [ ] weiße cappi bleichen
-	- [ ] ausspülen
-	- [ ] zum Abtropfen aufhängen
+	- [x] ausspülen
+	- [x] zum Abtropfen aufhängen
 	- [ ] zum Trocknen in die sonne hängen
 - [x] Toilette putzen 
 - [ ] Tisch aufräumen 
