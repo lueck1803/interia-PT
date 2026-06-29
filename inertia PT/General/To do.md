@@ -57,7 +57,7 @@
 
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Kaffemaschine entkalken 
-- [ ] Nudeln in den Kühlschrank 
+- [x] Nudeln in den Kühlschrank 
 - [x] im Bauhaus nach ventilator schauen
 	- [x] destilliertes Wasser 
 	- ventilator waren im bh, roller und Hornbach ausverkauft. Im Mömax war ich jetzt nicht
@@ -65,7 +65,7 @@
 	- ⟹ hab ich jetzt so gelassen
 - [ ] ne fork für mein amep erstellen
 - [x] Batterie große Uhr wechseln 
-- [ ] ventilator im Mediamarkt kaufen/vorher mit Internet vergleichen 
+- [x] ventilator im Mediamarkt kaufen/vorher mit Internet vergleichen 
 - [x] füsilier 2 an weißer Gitarre anschauen/üben
 - [ ] ganz ganz ganz viel sauberes tremolo picking üben, insbesondere in kombi mit abdämpfen. 
       Wechsel zwischen weißer und schwarzer Gitarre
