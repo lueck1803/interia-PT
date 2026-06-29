@@ -60,6 +60,11 @@
 - [ ] ventilator im Mediamarkt kaufen/vorher mit Internet vergleichen 
 - [ ] neue kiwis ziehen
 - [ ] Balkontür mit alufolie bekleben
+- [ ] floyed rose richtig blockieren
+- [ ] stimmtutorial floyed rose
+- [ ] kaufberatung für gitarre
+	- [ ] mit tremolo
+	- [ ] 8 saiter
 - [ ] zu duckduckgo wechseln 
 - [ ] sofa dampfen
 - [x] Waffenbrüder 
