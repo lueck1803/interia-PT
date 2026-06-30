@@ -59,7 +59,7 @@
 - [ ] Sonnenbrille putzen 
 - [ ] Spülmaschine ausräumen 
 - [ ] schuhe kaufen 
-- [ ] ne fork für mein amep erstellen
+- [x] ne fork für mein amep erstellen
 - [ ] ganz ganz ganz viel sauberes tremolo picking üben, insbesondere in kombi mit abdämpfen. 
       Wechsel zwischen weißer und schwarzer Gitarre
 - [ ] Waffenbrüder solo
