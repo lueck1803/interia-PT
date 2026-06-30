@@ -412,6 +412,9 @@ $$
 ~={LimeGreen}Wie strukturiere ich die Arbeit, um diese These argumentativ bestmöglich zu untermauern?=~
 ~={DeepPink}Welche Gliederung eignet sich am besten dafür, um diese Forschungsfrage bestmöglich zu beantworten?=~
 
+## wording collection
+- What we consider as far enough from the phase transition point, 
+
 ## info sammlung
 - largest subfield of active matter is the study of medical applications ~={RoyalBlue}vrugt2025=~
 - Feynman’s suggestion that patients may some day be able to “swallow the surgeon”, which takes the form of a microrobot performing a surgery or delivering drugs, and to the movie Fantastic Voyage that shows a miniature submarine traveling through the body ~={DeepSkyBlue}Vrugt2025=~
