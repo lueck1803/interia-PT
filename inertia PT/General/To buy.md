@@ -1,4 +1,6 @@
-- [ ] saft
+- [ ] Laufschuhe 
+- [ ] Wanderschuhe 
+- [x] saft
 - [x] destilliertes Wasser
 - [x] yoghurt 
 - [x] Bananen 
@@ -12,7 +14,6 @@
 - [ ] Unterhemden
 - [ ] erde aldi
 - [x] Wassereis 
-- [ ] Laufschuhe 
 - [x] pizza 
 - [x] Toilettenpapier 
 - [x] klingel
@@ -37,13 +38,12 @@
 - [x] gewürz Ketchup 
 - [x] hummus
 - [x] zink tabletten
-- [ ] ventilator 
+- [x] ventilator 
 - türke
 	- [ ] weiße bohnen 
 	- [ ] kalamata oliven 
 	- [ ] grüne erbsen
 - [x] Unterhosen 
-- [ ] neue Wanderschuhe
 - [ ] Displayport - Displayport Kabel
 - [ ] 4er Pack CR2032 3V vom dm
 - [x] Vitamin D 

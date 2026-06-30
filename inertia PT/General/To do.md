@@ -59,7 +59,7 @@
 - [x] Kaffemaschine entkalken 
 - [ ] uhr Küche wechseln Batterie
 - [ ] Spülmaschine ausräumen 
-- [ ] schuhe
+- [ ] schuhe kaufen 
 - [x] Nudeln in den Kühlschrank 
 - [x] im Bauhaus nach ventilator schauen
 	- [x] destilliertes Wasser 
