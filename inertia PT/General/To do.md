@@ -61,7 +61,7 @@
 	- [ ] Vergleich mit rosa Hose: die ist zwar auch eng, aber die ist flexibler und damit kann ich mein Bein besser heben
 	- [ ] ne ist eigentlich genauso 
 	- [ ] und die ist weiter als meine rote glänzende. Ich bin einfach dick geworden 
-	- [ ] Hosen
+	- [ ] Hosentasche der neuen shorts länger machen?
 - [ ] Spülmaschine ausräumen 
 - [ ] schuhe kaufen 
 - [x] ne fork für mein amep erstellen
