@@ -83,6 +83,34 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+## 26-07-01 Mail an Arooj wegen spatz
+Huhu, 
+
+Konnte mich nicht zurück halten dir das mitzuteilen 😅:
+
+Ich hab nen Spatz aus dem Aldi gerettet
+Als ich mein Kram eingepackt habe ist der hinter der Selbstzahlerkasse hervor und gegen die Scheibe geflogen
+Ich hab ihn jetzt aufgesammelt der hatte gar keine Kraft mehr und hat sich kaum bewegt
+Ich hab's jetzt mal abgedunkelt.
+
+Er hockt da ganz ruhig
+Der war voll nett in der Hand.
+
+War ganz ruhig und hat sich ruhig um geschaut. Ein bisschen die Augen geschlossen. Gar nicht gewehrt.
+
+Erst als ich fast oben in der Wohnung war, wollte er mir entwischen.
+
+Ich hab ihn aber ganz sanft festgehalten und beruhigt.
+
+Wäre jetzt nicht gut gewesen wenn er im Treppenhaus herumgeflogen wäre🫣
+
+Das ist wie mit dem Alfred '24❤️
+
+Liebe Grüße 
+Lukas 
+
+
+Hier die Bilder: 
 ## 26-06-28 arthur
 ich hatte die Tage gedacht ohje lead und text geht gar nicht.
 
