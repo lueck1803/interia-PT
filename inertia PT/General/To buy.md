@@ -1,4 +1,4 @@
-- [ ] toast
+- [x] toast
 - [ ] saft
 - [x] Tomaten 
 - [ ] Laufschuhe 
