@@ -2210,6 +2210,23 @@ Mir tut auch Micro "Fehlverhalten" leid. Auch wenn sie das auch macht.
 Manchmal hatte sie dann auch so das Gefühl so schlecht behandelt zu werden, hat dabei aber null auf ihr micro Verhalten geachtet.
 
 # yt Kommentare
+## 26-06-30
+@Fanboy1222 oh dann hast du das osmanische Reich vergessen, das mogulreich, den ostafrikanischen Sklavenhandel, den Sklavenhandel der Korsaren. Die islamische Expansion.
+Den Konflikt mit Israel... Ging und geht von den Arabern aus. Siehe dazu al huseini und die komplette story der nakbah
+
+Der Islam hat in den Regionen in denen er sich ausgebreitet hat nur Rückschritte gebracht.
+
+Und dann stellen sich Muslime immer als Opfer da.
+
+Es ist Unfug "den Westen" als das Übel darzustellen.  Das ist die Geschichtsverdrehung durch die post Modernisten die sich an ihrem Selbsthass ergötzen.
+
+Selbstverständlich und ganz offensichtlich haben die Europäer und deren Folgestaaten die von ihnen gegründet wurden, in etwa mit der Blütezeit des Hoch- und Spätmittelalters Schritt für Schritt die Welt dominiert, zumindest einen starken Einfluss auf alles gehabt und dabei sind auch viele Menschen gestorben und Gräueltaten passiert.
+
+Aber eben nicht nur von Seiten "des Westens". "Der Westen" war am Ende die "dominierende" Kultur. Dafür gab es nunmal geschichtliche Entwicklungen und gute Gründe.
+
+Jetzt so zu tun als wäre "der Westen" böse und hätte nicht das gemacht, was andere vorher auch gemacht haben.
+
+Im Gegenteil "der Westen" hat massiven Fortschritt gebracht und seit 200 Jahren die Sklaverei ABGESCHAFFT in den Ländern in denen er dominiert hat. Davon kann man beim Islam nicht sprechen. Sklaverei ist heute noch realer Bestandteil muslimischer Staaten und integrativer Bestandteil des Koran.
 ## 26-06-29
 @Kırımkağanlı berechtigte Frage.
 Im Libanon ist aber nicht überall Krieg.
