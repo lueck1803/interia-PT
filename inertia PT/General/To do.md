@@ -57,6 +57,7 @@
 
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Sonnenbrille putzen 
+- [ ] grüne Hose 
 - [ ] Spülmaschine ausräumen 
 - [ ] schuhe kaufen 
 - [x] ne fork für mein amep erstellen
