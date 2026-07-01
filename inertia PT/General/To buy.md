@@ -1,6 +1,6 @@
 - [ ] toast
 - [ ] saft
-- [ ] Tomaten 
+- [x] Tomaten 
 - [ ] Laufschuhe 
 - [ ] Wanderschuhe 
 - [x] destilliertes Wasser
