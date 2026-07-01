@@ -1688,6 +1688,8 @@ Zur Unterscheidung spricht man vom **Fehler erster Art** (der Prozentsatz der Kr
 Zur Beurteilung, ob ein Test sinnvoll ist, spielt das (natürlich immer nur geschätze) Verhältnis der Zahl x der Kranken zur Zahl y der Gesunden eine wesentliche Rolle.
 (In unserem Beispiel war 1% von y wesentlich größer als 99 % von x - in einem solchen Fall macht der Test wenig Sinn; vor allem auch dann, wenn das Testen selbst mögliche Nebenwirkungen haben sollte.)
 ## Physik
+
+https://youtube.com/shorts/e6Ot4v6rxKE?si=F8yiHI8InevAKGVY
 ### Demonstration von kinetischer Energie 
 - [ ] Ballkanone besorgen/bauen
 - [x] kerbal space program kaufen
