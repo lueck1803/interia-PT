@@ -57,7 +57,7 @@
 
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Sonnenbrille putzen 
-- [ ] grüne Hose 
+- [ ] grüne Hose zurück bringen, schauen ob es wo anders eine in 50 gibt
 - [ ] Spülmaschine ausräumen 
 - [ ] schuhe kaufen 
 - [x] ne fork für mein amep erstellen
