@@ -58,6 +58,7 @@
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Sonnenbrille putzen 
 - [ ] grüne Hose zurück bringen, schauen ob es wo anders eine in 50 gibt
+	- [ ] Vergleich mit rosa Hose: die ist zwar auch eng, aber die ist flexibler und damit kann ich mein Bein besser heben
 - [ ] Spülmaschine ausräumen 
 - [ ] schuhe kaufen 
 - [x] ne fork für mein amep erstellen
