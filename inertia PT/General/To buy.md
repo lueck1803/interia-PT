@@ -1,12 +1,13 @@
+- [ ] toast
+- [ ] saft
+- [ ] Tomaten 
 - [ ] Laufschuhe 
 - [ ] Wanderschuhe 
-- [ ] saft
 - [x] destilliertes Wasser
 - [x] yoghurt 
 - [x] Bananen 
 - [x] so ein soja Essen
 - [x] Backpulver 
-- [ ] toast
 - [x] Nusskati 
 - [x] Bolognese soße
 - [x] Alufolie 
