@@ -21,8 +21,5 @@
   "languagetool",
   "editing-toolbar",
   "remove-html-tag",
-  "list-to-table",
-  "obsidian-importer",
-  "obsidian-table-to-csv-exporter",
   "markdown-table-editor"
 ]

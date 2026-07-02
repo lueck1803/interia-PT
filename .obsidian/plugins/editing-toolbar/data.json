@@ -146,12 +146,6 @@
       "icon": "lucide-table"
     },
     {
-      "id": "SubmenuCommands-mr3bj38or",
-      "name": "submenu",
-      "icon": "table-2",
-      "SubmenuCommands": []
-    },
-    {
       "id": "SubmenuCommands-luc8efull",
       "name": "submenu",
       "icon": "message-square",

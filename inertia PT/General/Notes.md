@@ -3160,7 +3160,7 @@ Key Insight:
 
 
 When Does Radiation Outperform Convection?
-- High temperatures: Radiation scales with $ T^4 $, so it dominates in furnaces, stars, or solar applications.
+- High temperatures: Radiation scales with $T^4$, so it dominates in furnaces, stars, or solar applications.
 - Vacuum environments: Convection fails without a fluid (e.g., space).
 - Large temperature differences: Radiation becomes significant even at moderate $ T $ if $ \Delta T $ is large.
 Example:
