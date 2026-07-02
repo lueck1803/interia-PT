@@ -59,6 +59,8 @@
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] roten Hartriegel Steckling einpflanzen 
 - [ ] Ventilator aufbauen 
+- [ ] neue Hosen nochmal anprobieren und vergleichen 
+- [ ] Kleiderschrank 
 - [ ] Tisch aufräumen 
 - [ ] Spiegel putzen 
 - [ ] Yogamatten auspacken und ausprobieren 
