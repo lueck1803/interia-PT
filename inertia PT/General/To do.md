@@ -71,7 +71,7 @@
 - [ ] neue Hosen nochmal anprobieren und vergleichen 
 - [ ] Kleiderschrank aufräumen
 - [ ] erde im Sellerie Blumentopf verteilen 
-- [ ] Untersetzer abkehren 
+- [x] Untersetzer abkehren 
 - [ ] Tisch aufräumen 
 - [ ] Spiegel putzen 
 - [ ] Yogamatten auspacken und ausprobieren 
