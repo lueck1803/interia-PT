@@ -60,7 +60,7 @@
 - [ ] roten Hartriegel Steckling einpflanzen 
 - [ ] Ventilator aufbauen 
 - [ ] neue Hosen nochmal anprobieren und vergleichen 
-- [ ] Kleiderschrank 
+- [ ] Kleiderschrank aufräumen
 - [ ] Tisch aufräumen 
 - [ ] Spiegel putzen 
 - [ ] Yogamatten auspacken und ausprobieren 
