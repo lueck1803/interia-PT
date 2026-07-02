@@ -60,7 +60,7 @@
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] rechten flip flop reparieren 
-- [ ] roten Hartriegel Steckling einpflanzen 
+- [x] roten Hartriegel Steckling einpflanzen 
 - [ ] Ventilator aufbauen 
 - [ ] neue Hosen nochmal anprobieren und vergleichen 
 - [ ] Kleiderschrank aufräumen
