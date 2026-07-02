@@ -63,7 +63,7 @@
 - Knoten lernen und üben
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
-- [ ] rechten flip flop reparieren 
+- [x] rechten flip flop reparieren 
 - [x] roten Hartriegel Steckling einpflanzen 
 - [ ] Vater anrufen 
 - [ ] Glas in dem Rosmarin war saubermachen 
