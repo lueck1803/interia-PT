@@ -3126,20 +3126,20 @@ Where:
 - Natural convection (air): 5–25 W/m²·K
 - Forced convection (air): 10–200 W/m²·K
 - Forced convection (water): 100–10,000 W/m²·K
-- $ A $: Surface area in contact with the fluid (m²)
-- $ \Delta T $: Temperature difference between the surface and the fluid (K or °C)
+- $A$: Surface area in contact with the fluid (m²)
+- $\Delta T$: Temperature difference between the surface and the fluid (K or °C)
 Key Insight:
-- Linear dependence on $ \Delta T $.
+- Linear dependence on $\Delta T$.
 - Strongly dependent on fluid flow (higher $ h $ for turbulent flow or higher velocities).
 2. Radiation Heat Transfer Rate
 Formula (Stefan-Boltzmann Law):
 
 Where:
-- $ \dot{Q}_{\text{rad}} $: Heat transfer rate (W)
-- $ \epsilon $: Emissivity (0 to 1, dimensionless)
+- $\dot{Q}_{\text{rad}}$: Heat transfer rate (W)
+- $\epsilon$: Emissivity (0 to 1, dimensionless)
 - 1 = ideal blackbody (perfect emitter/absorber)
 - 0 = perfect reflector (e.g., polished mirror)
-- $ \sigma  5.67 \times 10^{-8} , \text{W/m}^2\text{K}^4 $)
+- $\sigma=5.67 \times 10^{-8} , \text{W/m}^2\text{K}^4$)
 - $ A $: Surface area (m²)
 - $ T_1 $ and $ T_2 $: Absolute temperatures of the two surfaces (K)
 Key Insight:
