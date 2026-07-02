@@ -88,7 +88,7 @@
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Vater anrufen 
-- [ ] Glas in dem Rosmarin war saubermachen 
+- [ ] Stecklinge Gläser G war saubermachen 
 - [ ] Ventilator aufbauen 
 - [ ] neue Hosen nochmal anprobieren und vergleichen 
 - [ ] Kleiderschrank aufräumen
