@@ -66,6 +66,7 @@
 - [ ] rechten flip flop reparieren 
 - [x] roten Hartriegel Steckling einpflanzen 
 - [ ] Vater anrufen 
+- [ ] Glas in dem Rosmarin war saubermachen 
 - [ ] Ventilator aufbauen 
 - [ ] neue Hosen nochmal anprobieren und vergleichen 
 - [ ] Kleiderschrank aufräumen
