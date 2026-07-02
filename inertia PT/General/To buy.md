@@ -53,7 +53,6 @@
 - [ ] propylene glycol/Lebensmittelfarbe 
 - [ ] Werk-/Arbeitstisch zum klappen für Nähecke
 	- wenn es so einen mal wieder im aldi gibt
-- <font color="#b088ff">Test</font>
 # non food
 - [ ] kleinen Schneebesen 
 - [ ] Plastik Plättchen zum tür öffnen -> pet Flasche 
