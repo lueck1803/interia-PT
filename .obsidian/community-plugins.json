@@ -21,5 +21,6 @@
   "languagetool",
   "editing-toolbar",
   "remove-html-tag",
-  "list-to-table"
+  "list-to-table",
+  "obsidian-importer"
 ]
