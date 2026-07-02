@@ -59,6 +59,16 @@
 - mich pflegen, auf mein Äußeres und Auftreten achten
 - <font color="#e36c09">Versündige</font> dich <font color="#ff0000">nicht</font> weiter an dir und deinem Leben
 - <font color="#ff0000">nicht</font> mehr <font color="#ffd700">konsumieren</font> ⟹<font color="#7cfc00">aktiv</font> werden und machen 
+## was will ich lassen 
+- mich über zu erklären 
+- mich zu rechtfertigen 
+- das Gefühl zu haben auf alles antworten zu müssen
+- mehrere Dinge gleichzeitig tun
+- mich von Anderen stressen lassen 
+- ständig etwas hören oder schauen 
+
+## ich möchte die
+
 ## was will ich tun
 - Knoten lernen und üben
 # unsortiert
