@@ -69,6 +69,7 @@
 
 ## wie will ich sein 
 - ich möchte die Sinne beieinander haben
+- von meinen Emotionen und meinem Körper im Griff gehalten werden
 
 ## was will ich tun
 - Knoten lernen und üben
