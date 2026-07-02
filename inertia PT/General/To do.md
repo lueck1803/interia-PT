@@ -96,11 +96,16 @@
 - [ ] Kleiderschrank aufräumen
 - [x] erde im Sellerie Blumentopf verteilen 
 - [ ] Tisch aufräumen 
-- [ ] Spiegel putzen 
+- Spiegel putzen 
+	- [x] Bad 
+	- [ ] Schrank 
+	- [ ] Eingang 
 - [ ] Yogamatten auspacken und ausprobieren 
 - [ ] Balkon aufräumen und kehren 
 - [ ] Duschwanne schrubben 
-- [ ] beide Waschbecken putzen 
+- Waschbecken putzen 
+	- [x] Bad 
+	- [ ] Küche 
 - [ ] Bettwäsche wechseln 
 - [ ] grüne Hose zurück bringen, schauen ob es wo anders eine in 50 gibt
 	- [ ] Vergleich mit rosa Hose: die ist zwar auch eng, aber die ist flexibler und damit kann ich mein Bein besser heben
@@ -109,8 +114,6 @@
 	- [ ] Hosentasche der neuen shorts länger machen?
 - [ ] Spülmaschine ausräumen 
 - [ ] schuhe kaufen 
-- [ ] ganz ganz ganz viel sauberes tremolo picking üben, insbesondere in kombi mit abdämpfen. 
-      Wechsel zwischen weißer und schwarzer Gitarre
 - [ ] neue kiwis ziehen
 - [ ] Balkontür mit alufolie bekleben
 - [ ] zu duckduckgo wechseln 
@@ -118,7 +121,6 @@
 - [ ] Boden wischen
 - [ ] Tisch aufräumen 
 - [ ] Sofa saugen 
-	- [ ] neue Decke aufs sofa
 - [ ] Freitag letzte Ferienwoche ist Anfangskonferenz 
 - [ ] überlegen was ich kaufen wollte...
 	- [ ] weitere base ball caps bzw allgemein hüte
@@ -681,6 +683,8 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 	- [ ] Bananenschalen (bio) wasser 24h einweichen 
 - [x] carnivoren umsetzen 
 # Musik
+- [ ] ganz ganz ganz viel sauberes tremolo picking üben, insbesondere in kombi mit abdämpfen. 
+      Wechsel zwischen weißer und schwarzer Gitarre
 - [ ] füsilier 2 die lead gitarre üben
 - [ ] mgla üben
 - [ ] Gitarre mit tremolo auf Eb stimmen
