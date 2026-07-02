@@ -87,6 +87,7 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
+- [ ] Pfanne spülen
 - [ ] Vater anrufen 
 - [ ] Stecklinge Gläser saubermachen 
 - [ ] Ventilator aufbauen 
