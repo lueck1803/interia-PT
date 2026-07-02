@@ -67,7 +67,8 @@
 - mich von Anderen stressen lassen 
 - ständig etwas hören oder schauen 
 
-## ich möchte die
+## wie will ich sein 
+- ich möchte die Sinne beieinander haben
 
 ## was will ich tun
 - Knoten lernen und üben
