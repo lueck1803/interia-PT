@@ -88,6 +88,7 @@
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Pfanne spülen
+- [ ] Wand im Bad putzen
 - [ ] Vater anrufen 
 - [ ] Stecklinge Gläser saubermachen 
 - [ ] Ventilator aufbauen 
