@@ -73,6 +73,18 @@
 
 ## was will ich tun
 - Knoten lernen und üben
+
+## <font color="#ffc000">Wie schaffe ich es immer aroused zu sein?</font>
+- Angst 
+- Sport 
+- guter Schlaf 
+- voll bei mir sein
+- nur eine Sache gleichzeitig 
+- kein Medienkonsum
+- Achtsamkeit 
+- Körperpflege 
+- frische Luft
+- mich und mein Leben im Griff haben
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Vater anrufen 
@@ -121,22 +133,16 @@
 - [ ] Sprachaufzeichnung transkribieren 
 - [ ] Akteneintrag Esma fertig machen
 - [ ] wenn ich proposal abgegeben habe, kaufe ich mir ein Ticket für das Festival 
-- [ ] Küche 
-- [ ] Kette fetten 
 - [ ] Bas Kram aufräumen 
 - [ ] Proposal 
 - [ ] Hosentaschen graue Hose vergrößern 
 - [ ] foxit reader Mac aufräumen
-- [ ] in die Uni fahren und schauen ob ich ein Displayport-Displayport Kabel finde bzw. DP-Kabel kaufen...
-	- [ ] ich lass die Situation mit dem umgestellten Bildschirm 
 - [ ] Waschbecken Küche 
 - [ ] Kochplatten 
 - [ ] einkaufschip
 - [ ] Techniken wie man mit Mobbing umgeht
 - [ ] Adverb im englischen aufschreiben 
 - [ ] Notizen zur Shadow work nochmal lesen
-- [ ] füsilier 2 die lead gitarre üben
-- [ ] mgla üben
 - [ ] paper what's active matter lesen 
 - [ ] Simulationen anschauen 
 	- [ ] ~={LimeGreen}Simulationen nutzen um neue Erkenntnisse zu beschreiben =~
@@ -153,7 +159,6 @@
 - [ ] blatt mit denksport physik für licht und schatten erstellen
 - [ ] tinte Drucker auffüllen
 - [ ] aufschreiben dass frontal/Gesprächsunterricht mit den meisten Klassen nicht funktioniert 
-- [ ] Gitarre mit tremolo auf Eb stimmen
 - [ ] [Change your life now](https://youtu.be/pFhMzPxbY4E?is=o7W8uMv3Vc7oasP8) Notizen machen
 - [ ] [fix your adhd morning](https://youtu.be/gsVYI-l_6G8?is=BUHdgIGMxlNq8KT8) was dazu aufschreiben 
 - [ ] personality tabs am laptop fertig lesen und schließen
@@ -170,30 +175,16 @@
 - [ ] Bürostuhl dampfen
 - [ ] sofa dampfen 
 - [ ] papa nachdem selfie stick fragen, den ihm arooj geschenkt hat
-- [ ] simulationen auf CPU02 checken, wenn fertig auf /data kopieren
-- [ ] Essen mit Kartoffeln machen 
-- [ ] sobald ich den Vertrag unterschrieben habe, karte für psychedelic festival kaufen 
-	- [ ] frühstens sobald geld da ist...
 - [ ] abp anstellen
 - [ ] schauen wie ich mein Tablet update
 - [ ] lernen schneller und kleiner an der Tafel zu schreiben
 - [ ] Toilettendeckel tauschen 
 - [ ] simon nach seinen Folien fragen 
 - [ ] Vorderrad Bremse checken/einstellen/tauschen 
-- [ ] Klingel checken
+- [ ] Klingel checken 
+	- [ ] bzw. Mit neuer Klingel tauschen
 - [ ] meditieren 
 - [ ] tägliches Mantra aufräumen 
-- [ ] ~={Crimson}Wie schaffe ich es immer aroused zu sein?=~
-	- [ ] Angst 
-	- [ ] Sport 
-	- [ ] guter Schlaf 
-	- [ ] voll bei mir sein
-	- [ ] nur eine Sache gleichzeitig 
-	- [ ] kein Medienkonsum
-	- [ ] Achtsamkeit 
-	- [ ] Körperpflege 
-	- [ ] frische Luft
-	- [ ] mich und mein Leben im Griff haben
 - [ ] mich mal nach nem anderen file Browser (handy) umschauen 
 - [ ] ~={MediumSpringGreen}Nähgruppe/Club/Treff=~ suchen
 - [ ] ~={DeepSkyBlue}Strickgruppe/Club/Treff=~ suchen
@@ -240,6 +231,8 @@
 - [ ] tesaabroller schärfen
 - [ ] Kühlschrank putzen und abtauen
 - [ ] Zeug vor dem Bad wegräumen 
+- MTB 
+	- [ ] Kette fetten 
 
 # tägliches
 
@@ -686,6 +679,9 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 	- [ ] Bananenschalen (bio) wasser 24h einweichen 
 - [x] carnivoren umsetzen 
 # Musik
+- [ ] füsilier 2 die lead gitarre üben
+- [ ] mgla üben
+- [ ] Gitarre mit tremolo auf Eb stimmen
 - [ ] floyd rose stimmtutorial
 - [ ] Versuch dich mal an einer ~={LawnGreen}ganzen Aufnahme von so 70%=~. Lass Solo2 dann erstmal weg (spiel zu dem Punkt Rhythm oder so).
 - [ ] Waffenbrüder 
@@ -759,6 +755,10 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] <span style="color:coral">paartherapie S3 runterladen</span>
 
 # Alt
+- [ ] in die Uni fahren und schauen ob ich ein Displayport-Displayport Kabel finde bzw. DP-Kabel kaufen...
+	- [ ] ich lass die Situation mit dem umgestellten Bildschirm 
+- [ ] sobald ich den Vertrag unterschrieben habe, karte für psychedelic festival kaufen 
+	- [ ] frühstens sobald geld da ist...
 - [ ] 13.-21.6.2026 woche der bot. Gärten
 - [ ] im Sekretariat bot. Garten 
 	- [x] Sonntagsdienst ~={RedRed} erst überlegen, wann ich nen Dienst machen möchte=~
