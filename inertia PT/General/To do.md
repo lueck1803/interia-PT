@@ -49,6 +49,7 @@
 	- keine Lust mehr mich mit ADHS und Autismus im Negativen, Leidenden und Opfersinn auseinander zu setzen
 	- extrem viel Sport machen 
 	- meinen Körper kennen und lieben lernen 
+	- viel körperliche Bewegung 
 	- <font color="#ff0000">nicht</font> mehr wixxen ⟹ meine Energie in sinnvolle und wirklich entspannende Dinge tun
 	- voller Kraft und Lebensmut sein 
 	- yoga, laufen, Krafttraining jeder Art und Kampfsport, statt nervige Themen die mich nicht voran bringen 
