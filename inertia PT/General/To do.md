@@ -122,8 +122,6 @@
 - [ ] Tisch aufräumen 
 - [ ] Sofa saugen 
 - [ ] Freitag letzte Ferienwoche ist Anfangskonferenz 
-- [ ] überlegen was ich kaufen wollte...
-	- [ ] weitere base ball caps bzw allgemein hüte
 - [ ] Ordner für Schule anlegen um Zeug abzuheften
 - [ ] Platz im Keller fürs Fahrrad Machen 
 	- bringt nix, da der Aufzug nicht gehen wird
