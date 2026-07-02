@@ -3256,7 +3256,7 @@ Ich kann das Dilemma sehr nachvollziehen, auch aus eigener Erfahrung in mehrfach
 # psychologisch wissenschaftliche Erkenntnisse 
 ## [Trauma](https://youtu.be/hNtWwLbKH0w?is=YoS4GPxVbE8lOjlK)
 - keine epigenetische Vererbung beim Menschen von psychischen Trauma 
-- <font color="#ffc000">psychische Veranlagung</font> und <font color="#0070c0">Persönlichkeitsstörungen</font> sind <font color="#ff0000">stark heritabel</font> 
+- <font color="#ffc000">psychische Veranlagung</font> und <font color="#0070c0">Persönlichkeitsstörungen</font>, sowie Persönlichkeitsstrukturen sind <font color="#ff0000">stark heritabel</font> 
 # Einzel Themen/Ereignisse
 
 ## 26-06-14 "fahrrad"
