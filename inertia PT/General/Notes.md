@@ -3119,8 +3119,8 @@ The heat transport rate (or heat transfer rate, $ \dot{Q} $) quantifies how much
 Formula:
 
 Where:
-- $ \dot{Q}_{\text{conv}} $: Heat transfer rate (W)
-- $ h $: Convective heat transfer coefficient (W/m²·K)
+- $\dot{Q}_{\text{conv}}$: Heat transfer rate (W)
+- $h$: Convective heat transfer coefficient (W/m²·K)
 - Depends on fluid properties (thermal conductivity, viscosity, density), flow velocity, and geometry.
 - Typical values:
 - Natural convection (air): 5–25 W/m²·K
