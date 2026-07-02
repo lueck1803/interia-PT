@@ -3,6 +3,7 @@
 - ohr eincremen /Teebaumöl test
 # unsortiert
 - oberste Priorität:
+	- <font color="#ff1493">stay away</font> from Islam 
 	- <font color="#dc143c">Masterarbeit</font>
 	- <font color="#ffd700">Innere Ruhe </font>
 	- <font color="#ffff00">Meditation</font>
