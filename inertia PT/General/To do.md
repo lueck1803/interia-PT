@@ -57,6 +57,7 @@
 	- Ordnung halten 
 	- mich pflegen, auf mein Äußeres und Auftreten achten
 	- <font color="#e36c09">Versündige</font> dich <font color="#ff0000">nicht</font> weiter an dir und deinem Leben
+	- <font color="#ff0000">nicht</font> mehr <font color="#ffd700">konsumieren</font> ⟹aktiv werden und machen 
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] rechten flip flop reparieren 
