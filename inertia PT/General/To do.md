@@ -89,11 +89,11 @@
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] alten Klodeckel wegwerfen 
 - [ ] Pfanne spülen
-- [ ] füsilier 2 exportieren 
-	- [ ] nur Bass und Schlagzeug
-		- [ ] mit beiden Reden 
-		- [ ] nur zweite Rede
-	- [ ] alles nur zweite Rede
+- [x] füsilier 2 exportieren 
+	- [x] nur Bass und Schlagzeug
+		- [x] mit beiden Reden 
+		- [x] nur zweite Rede
+	- [x] alles nur zweite Rede
 - [x] Wand im Bad putzen
 - [ ] Vater anrufen 
 - [ ] Stecklinge Gläser saubermachen 
