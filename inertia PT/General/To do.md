@@ -1109,4 +1109,30 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] Wetterstation Batterien tauschen
 - [x] job news letter deabonnieren
 
-# Packliste/to do wanderun
+# Wanderung 26-07-11 mit Freddie
+## Daten/Infos
+- Treffen
+	- am Hbf in DA 
+	- <font color="#ff0000">Uhrzeit?</font>
+	- Ausstieg Bensheim 
+- wo wandern wir? 
+	- Odenwald 
+	- Bensheim 
+	- Geplant sind <u>30 km</u>, von Bensheim nach Zeilhard. Über das Felsenmeer
+## Packliste 
+- [ ] kompakt Kamera <font color="#ff0000">(Aufladen)</font>
+- [ ] Fernglas? Hmm ne ist zu schwer
+	- [ ] vorher ein neues kompaktes kaufen? 
+- [ ] Sonnencreme
+- [ ] Hut
+- [ ] Sonnenbrille
+- [ ] regnet es?⟹ Regenjacke 
+- [ ] railslide Rucksack 🎒 
+- [ ] Müsliriegel 
+- [ ] apfel
+- [ ] Bauchtasche?
+- [ ] Notfall Buch
+- [ ] Messer 
+- [ ] Pflaster 
+- [ ] kleines Handtuch 
+- [ ] isolierflasche 

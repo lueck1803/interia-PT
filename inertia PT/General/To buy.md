@@ -15,6 +15,7 @@
 - [ ] Eiswürfelbehälter 
 - [ ] Unterhemden
 - [ ] erde aldi
+	- wenn <font color="#00b0f0">Aufzug</font> wieder geht
 - [x] Wassereis 
 - [x] pizza 
 - [x] Toilettenpapier 
@@ -50,6 +51,9 @@
 - [ ] 4er Pack CR2032 3V vom dm
 - [x] Vitamin D 
 - [ ] propylene glycol/Lebensmittelfarbe 
+- [ ] Werk-/Arbeitstisch zum klappen für Nähecke
+	- wenn es so einen mal wieder im aldi gibt
+- <font color="#b088ff">Test</font>
 # non food
 - [ ] kleinen Schneebesen 
 - [ ] Plastik Plättchen zum tür öffnen -> pet Flasche 
@@ -60,6 +64,9 @@
       ⟹<span style="font-size:100%;color:gold;">ne unwichtig</span> <span style="font-size:100%;color:red;">Ablenkung</span>
 - [x] Schmortopf (wie es den mal im Aldi gab unteranderem zum Brotbacken)
       ⟹<span style="font-size:100%;color:gold;">auch egal</span> <span style="font-size:100%;color:red;">Ablenkung</span>
+# Outdoor / Natur 
+- [ ] kompaktes aber gutes Fernglas wie das meines Vaters 
+- [ ] gute Kompaktkamera 
 
 # Lebensmittel 
 - [x] Müsli 
