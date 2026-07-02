@@ -3157,6 +3157,7 @@ Typical Magnitude,Moderate (W to kW),Can be very high (kW to MW) at high $ T $
 Example Calculation,$ \dot{Q} = 50 , \text{W/m}^2\text{K} \times 1 , \text{m}^2 \times 20 , \text{K} = 1000 , \text{W} $,$ \dot{Q} = 0.8 \times 5.67 \times 10^{-8} \times 1 , \text{m}^2 \times (500^4 - 300^4) \approx 3.6 , \text{kW} $
 
 
+
 When Does Radiation Outperform Convection?
 - High temperatures: Radiation scales with $ T^4 $, so it dominates in furnaces, stars, or solar applications.
 - Vacuum environments: Convection fails without a fluid (e.g., space).

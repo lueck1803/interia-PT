@@ -146,6 +146,12 @@
       "icon": "lucide-table"
     },
     {
+      "id": "SubmenuCommands-mr3bj38or",
+      "name": "submenu",
+      "icon": "table-2",
+      "SubmenuCommands": []
+    },
+    {
       "id": "SubmenuCommands-luc8efull",
       "name": "submenu",
       "icon": "message-square",
@@ -373,6 +379,16 @@
       "id": "editing-toolbar:editor:attach-file",
       "name": "Attach File",
       "icon": "lucide-paperclip"
+    },
+    {
+      "id": "list-to-table:convert-nested-list-to-table-rows",
+      "name": "List to Table: Convert to table with nested items as rows",
+      "icon": "table"
+    },
+    {
+      "id": "list-to-table:convert-nested-list-to-table-columns",
+      "name": "List to Table: Convert to table with nested items as columns",
+      "icon": "table-2"
     }
   ],
   "followingCommands": [
