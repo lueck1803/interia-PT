@@ -57,6 +57,7 @@
 
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] roten Hartriegel Steckling einpflanzen 
+- [ ] Bettwäsche wechseln 
 - [ ] grüne Hose zurück bringen, schauen ob es wo anders eine in 50 gibt
 	- [ ] Vergleich mit rosa Hose: die ist zwar auch eng, aber die ist flexibler und damit kann ich mein Bein besser heben
 	- [ ] ne ist eigentlich genauso 
