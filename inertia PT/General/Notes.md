@@ -3158,6 +3158,7 @@ Example Calculation,$ \dot{Q} = 50 , \text{W/m}^2\text{K} \times 1 , \text{m}^2 
 
 
 
+
 When Does Radiation Outperform Convection?
 - High temperatures: Radiation scales with $ T^4 $, so it dominates in furnaces, stars, or solar applications.
 - Vacuum environments: Convection fails without a fluid (e.g., space).
