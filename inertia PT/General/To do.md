@@ -60,7 +60,8 @@
 - [ ] Ventilator aufbauen 
 - [ ] Tisch aufräumen 
 - [ ] Spiegel putzen 
-- [ ] Yogamatten auspacken und ausp
+- [ ] Yogamatten auspacken und ausprobieren 
+- [ ] Balkon aufräumen und kehren 
 - [ ] Bettwäsche wechseln 
 - [ ] grüne Hose zurück bringen, schauen ob es wo anders eine in 50 gibt
 	- [ ] Vergleich mit rosa Hose: die ist zwar auch eng, aber die ist flexibler und damit kann ich mein Bein besser heben
