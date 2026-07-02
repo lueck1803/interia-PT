@@ -88,11 +88,11 @@
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Vater anrufen 
-- [ ] Stecklinge Gläser G war saubermachen 
+- [ ] Stecklinge Gläser saubermachen 
 - [ ] Ventilator aufbauen 
 - [ ] neue Hosen nochmal anprobieren und vergleichen 
 - [ ] Kleiderschrank aufräumen
-- [ ] erde im Sellerie Blumentopf verteilen 
+- [x] erde im Sellerie Blumentopf verteilen 
 - [ ] Tisch aufräumen 
 - [ ] Spiegel putzen 
 - [ ] Yogamatten auspacken und ausprobieren 
