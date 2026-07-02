@@ -75,15 +75,12 @@
 - Knoten lernen und üben
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
-- [x] rechten flip flop reparieren 
-- [x] roten Hartriegel Steckling einpflanzen 
 - [ ] Vater anrufen 
 - [ ] Glas in dem Rosmarin war saubermachen 
 - [ ] Ventilator aufbauen 
 - [ ] neue Hosen nochmal anprobieren und vergleichen 
 - [ ] Kleiderschrank aufräumen
 - [ ] erde im Sellerie Blumentopf verteilen 
-- [x] Untersetzer abkehren 
 - [ ] Tisch aufräumen 
 - [ ] Spiegel putzen 
 - [ ] Yogamatten auspacken und ausprobieren 
@@ -100,131 +97,32 @@
 - [ ] schuhe kaufen 
 - [ ] ganz ganz ganz viel sauberes tremolo picking üben, insbesondere in kombi mit abdämpfen. 
       Wechsel zwischen weißer und schwarzer Gitarre
-- [ ] Waffenbrüder solo
-	- [ ] pick ganz fest halten ⟹ Saiten mit pick spitze spüren
-	- [ ] beim wechsel zum pm part, mit down stroke anfangen, das ganz klar und einheitlich wiederholen. 
-		- [ ] ruhig am Anfang auch nochmal die schläge beim pm part zählen:
-			- [ ] 4 schläge: 1. lang (achtel) und dann 2 kurz(16tel) 4. lang (achtel)
-			- [ ] kein durcheinander mit dem Pick. ⟹klaren wechselschlag und nicht das Pick über die Saite heben
-		- [ ] bei der weißen Gitarre die Hand ruhig etwas weiter als gewohnt nach vorne, damit es richtig abgedämpft klingt
-	- [ ] beim picking immer das handgelenk richtig mitbewegen
-	- [ ] immer möglichst ohne kraft, präzise und mit der spitze des picks spielen
-		- [ ] gilt insbesondere beim tremolo picking über mehrere saiten
-		- [ ] hand und handgelenk total locker lassen
-		- [ ] aber pick sehr stabil greifen
 - [ ] neue kiwis ziehen
 - [ ] Balkontür mit alufolie bekleben
-- [ ] floyed rose richtig blockieren
-- [ ] stimmtutorial floyed rose
-- [ ] kaufberatung für gitarre
-	- [ ] mit tremolo
-	- [ ] 8 saiter
 - [ ] zu duckduckgo wechseln 
 - [ ] sofa dampfen
-- [x] Waffenbrüder 
 - [ ] Boden wischen
-- [x] weiße cappi bleichen
-	- [x] ausspülen
-	- [x] zum Abtropfen aufhängen
-	- [x] zum Trocknen in die sonne hängen
-- [x] Toilette putzen 
 - [ ] Tisch aufräumen 
-- [x] bio müll weg 
-	- [ ] steht noch unten habe ich vergessen?
-	- [ ] japp dann bringe ich gleich den anderen Müll noch weg 
-- [ ] kleine mülleimer neben dem Schreibtisch leeren
-- [x] T-shirts im schrank aufräumen
-- auf Webseite nach Bedingungen/Richtlinien vom Festival checken 
-	- [x] vorher nochmal gießen
-	- [x] ich nehme den aldi Beutel 
-	- darf ich Wasserflasche mitnehmen?
-		- am liebsten Thermosflasche 
-		- [x] letztes Jahr hatte ich das Wacken Horn 
-		- ich kaufe mir ne Saftflasche im Aldi 
-		- [x] ich hab mir ne Saftflasche von zu Hause mitgenommen 
-	- [x] sonnen Creme 
-	- [x] Mütze 
-	- [x] zweites Unterhemd
-	- [x] ein T-Shirt 
-	- [x] Ohrenstöpsel 
-	- [x] kleines handtuch
-- [ ] Papiermüll 
-- [ ] gelber Sack 
-- [x] Nudeln kochen
 - [ ] Sofa saugen 
 	- [ ] neue Decke aufs sofa
 - [ ] Freitag letzte Ferienwoche ist Anfangskonferenz 
-- [x] css datei der editing toolbar für die Farben anpassen 
-- [x] Fahrradsonnenbrille mit silikonöl ölen
-- [x] Brokkoli kochen
-- [x] Wäsche abhängen und zusammen legen 
-- [x] zwei Maronen in destillierteswasserflaschen umsetzen 
-- [x] Walnuss in topf setzen 
-- [x] Nudeln kochen 
-- [x] clip Getränkehalter 
-	- [x] Flasche spülen
-- [x] Fahrradtasche aussaugen 
-- [x] Nudeln kochen 
-	- [x] tortiglioni austragen 
-- [x] Cursor Position plugin ausschalten 
-- [x] mtb Schaltung vorne Feinjustierung 
 - [ ] überlegen was ich kaufen wollte...
 	- [ ] weitere base ball caps bzw allgemein hüte
-- [x] konto checken 
-	- alter ich hab 1900€ bekommen 
-	- ich muss quasi auf das Festival 😍
-- [x] anwesenheit fr eintragen
-	- [x] egal
-- [x] Klamotten aufräumen
-- [x] nochmal Steckling vom Baumhasel machen 
 - [ ] Ordner für Schule anlegen um Zeug abzuheften
-- [x] Feuerzeug Gas nachfüllen 
 - [ ] Platz im Keller fürs Fahrrad Machen 
 	- bringt nix, da der Aufzug nicht gehen wird
 	- trotzdem frei räumen
 	- ich schließe das Fahrrad in der Schule in die Fahrradbox bzw mit an mein city rad
-- [ ] Waffenbrüder 
-	- [ ] solo perfekt üben
-		- [ ]  welches solo ich spiele muss ich mir noch überlegen. vielleicht mische ich das aus der alten und der neuen version
-		- [ ] ich glaube das solo der alten version gefällt mir besser... 
-		- [ ] das neue ist aber wirklich nahe am original hmm
-	- [ ] klappt jetzt besser mit Text und Gitarre, habe aber noch zu üben
-	- [ ] vocals geil üben
-	- [ ] backing track
-		- [ ] eventuell Mischung aus Version 1 und 2 zusammenstellen
-		- [ ] jaaa... denn bei version 2 sind lead und rhythm anders aufgeteilt
-		- [ ] ⟹ neue Datei erstellen und dort die Spuren anderes mischen
-	- [ ] oder vielleicht lerne ich einfach die lead von version 2 🤷‍♀️
-	- [ ] bzw. tatsächlich eine Mischung, denn in der Bridge spiele ich eventuell doch lieber die rhythm bzw. sickfried
 - [ ] ohr eincremen /Teebaumöl 
-- hab geld vom Strom zurück bekommen 
-	- definitiv karten fürs Festival kaufen 🥰🎉
 - [ ] Displayschutzfolie wechseln 
-- [ ] Ackerbohnen einfrieren 
 - [ ] alle nicht-Optimierungsthemen bzgl ADHS/Autismus raus. Keine Lust mehr über das nachzudenken was ich nicht kann und was mich hindert. Ich bin kein Opfer
 	- [ ] watch later knallhart aufräumen 
 - [ ] how to add app to accessibility manually 
 - [ ] Sprachaufzeichnung transkribieren 
 - [ ] Akteneintrag Esma fertig machen
 - [ ] wenn ich proposal abgegeben habe, kaufe ich mir ein Ticket für das Festival 
-- [x] Batterie Wetterstation
-- [x] Getränkehalter anbringen 
-- [x] Fahrradschloss kaufen 
-- [x] aldi
-- [x] zweiten Getränkehalter zum clippen an den oberen Rahmen 
-- [x] Marmor Kuchen 
 - [ ] Küche 
-- [x] essen
-- [x] Boden im Bad
-- [x] duschen + rasieren 
-- [x] Download rüberschieben 
-- [ ] Bohnen einfrieren 
-- [x] Paprikas eingraben 
 - [ ] Kette fetten 
-- [x] Schaltung fertig einstellen
-- [x] rad Trinkflasche suchen
-	- [x] Spülmaschine 
-- [x] Balkon kehren
 - [ ] Bas Kram aufräumen 
 - [ ] Proposal 
 - [ ] Hosentaschen graue Hose vergrößern 
@@ -233,12 +131,7 @@
 	- [ ] ich lass die Situation mit dem umgestellten Bildschirm 
 - [ ] Waschbecken Küche 
 - [ ] Kochplatten 
-- [ ] Arbeitsplatte saugen und aufräumen
-- [x] Wasserhahn Küche silkonölen
 - [ ] einkaufschip
-- [ ] Bildschirme tauschen ⟹ großen weg und die zwei kleinen vor mich
-	- [ ] erstmal die Position verändert, da ich keine dp-dp-Kabel habe
-	- [ ] großen Bildschirm etwas dunkler gemacht - 90%
 - [ ] Techniken wie man mit Mobbing umgeht
 - [ ] Adverb im englischen aufschreiben 
 - [ ] Notizen zur Shadow work nochmal lesen
@@ -253,12 +146,9 @@
 - [ ] mal schnell die original Methode implementieren
 	- [ ] auf 1:3 Daten anwenden 
 	- [ ] mit dem box algo vergleichen 
-- [x] spülkorb putzen
-- [x] Topf in Spülmaschine 
 - [ ] lao tzu
 - [ ] Notizen zu wissenschaftlichen Arbeit 
 - [ ] video zum Motivationscoach fertig und Notizen machen 
-- [x] Vitamin D besorgen 
 - [ ] wann war meine Ausbildung zum Rettungshelfer und was war meine Note
 - [ ] blatt mit denksport physik für licht und schatten erstellen
 - [ ] tinte Drucker auffüllen
@@ -266,10 +156,6 @@
 - [ ] Gitarre mit tremolo auf Eb stimmen
 - [ ] [Change your life now](https://youtu.be/pFhMzPxbY4E?is=o7W8uMv3Vc7oasP8) Notizen machen
 - [ ] [fix your adhd morning](https://youtu.be/gsVYI-l_6G8?is=BUHdgIGMxlNq8KT8) was dazu aufschreiben 
-- [x] dem Hausmeister ne Mail wegen Kunstschrank Schlüssel (daniel.mroczek@darmstadt.de)
-	- [ ] noch ne Mail wegen parkplatzschlüssel, da es im Sekretariat keinen mehr zu geben scheint
-- [x] Fensterbänke wischen 
-	- [ ] haben andere gemacht 
 - [ ] personality tabs am laptop fertig lesen und schließen
 - [ ] was ist das nächste macos nach meinem was sind die issues? 
 	- [ ] ⤷ updaten
@@ -284,18 +170,11 @@
 - [ ] Bürostuhl dampfen
 - [ ] sofa dampfen 
 - [ ] papa nachdem selfie stick fragen, den ihm arooj geschenkt hat
-- [ ] Versuch dich mal an einer ~={LawnGreen}ganzen Aufnahme von so 70%=~. Lass Solo2 dann erstmal weg (spiel zu dem Punkt Rhythm oder so).
 - [ ] simulationen auf CPU02 checken, wenn fertig auf /data kopieren
-- [ ] 13.-21.6.2026 woche der bot. Gärten
-- [ ] im Sekretariat bot. Garten 
-	- [x] Sonntagsdienst ~={RedRed} erst überlegen, wann ich nen Dienst machen möchte=~
-		- Für die Sonntagsdienste können Sie sich für zwei Schichten eintragen (09:00–12:30 Uhr und 12:30–16:00 Uhr). An folgenden Terminen suchen wir aktuell noch Unterstützung: 10. Mai, 7. Juni, 5. Juli, 2. August, 6. September und 4. Oktober.
-	- [ ] und Dienst zum Helfen 
 - [ ] Essen mit Kartoffeln machen 
 - [ ] sobald ich den Vertrag unterschrieben habe, karte für psychedelic festival kaufen 
 	- [ ] frühstens sobald geld da ist...
 - [ ] abp anstellen
-- [x] spülkorb sauber machen
 - [ ] schauen wie ich mein Tablet update
 - [ ] lernen schneller und kleiner an der Tafel zu schreiben
 - [ ] Toilettendeckel tauschen 
@@ -808,6 +687,38 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 	- [ ] Bananenschalen (bio) wasser 24h einweichen 
 - [x] carnivoren umsetzen 
 # Musik
+- [ ] Versuch dich mal an einer ~={LawnGreen}ganzen Aufnahme von so 70%=~. Lass Solo2 dann erstmal weg (spiel zu dem Punkt Rhythm oder so).
+- [ ] Waffenbrüder 
+	- [ ] solo perfekt üben
+		- [ ]  welches solo ich spiele muss ich mir noch überlegen. vielleicht mische ich das aus der alten und der neuen version
+		- [ ] ich glaube das solo der alten version gefällt mir besser... 
+		- [ ] das neue ist aber wirklich nahe am original hmm
+	- [ ] klappt jetzt besser mit Text und Gitarre, habe aber noch zu üben
+	- [ ] vocals geil üben
+	- [ ] backing track
+		- [ ] eventuell Mischung aus Version 1 und 2 zusammenstellen
+		- [ ] jaaa... denn bei version 2 sind lead und rhythm anders aufgeteilt
+		- [ ] ⟹ neue Datei erstellen und dort die Spuren anderes mischen
+	- [ ] oder vielleicht lerne ich einfach die lead von version 2 🤷‍♀️
+	- [ ] bzw. tatsächlich eine Mischung, denn in der Bridge spiele ich eventuell doch lieber die rhythm bzw. sickfried
+- [ ] floyed rose richtig blockieren
+- [ ] stimmtutorial floyed rose
+- [ ] kaufberatung für gitarre
+	- [ ] mit tremolo
+	- [ ] 8 saiter
+- [ ] Waffenbrüder solo
+	- [ ] pick ganz fest halten ⟹ Saiten mit pick spitze spüren
+	- [ ] beim wechsel zum pm part, mit down stroke anfangen, das ganz klar und einheitlich wiederholen. 
+		- [ ] ruhig am Anfang auch nochmal die schläge beim pm part zählen:
+			- [ ] 4 schläge: 1. lang (achtel) und dann 2 kurz(16tel) 4. lang (achtel)
+			- [ ] kein durcheinander mit dem Pick. ⟹klaren wechselschlag und nicht das Pick über die Saite heben
+		- [ ] bei der weißen Gitarre die Hand ruhig etwas weiter als gewohnt nach vorne, damit es richtig abgedämpft klingt
+	- [ ] beim picking immer das handgelenk richtig mitbewegen
+	- [ ] immer möglichst ohne kraft, präzise und mit der spitze des picks spielen
+		- [ ] gilt insbesondere beim tremolo picking über mehrere saiten
+		- [ ] hand und handgelenk total locker lassen
+		- [ ] aber pick sehr stabil greifen
+- [ ] Bassline von KF-Maulwurf üben
 - [ ] Beltaine hohe Flöte üben 
 - [ ] die dünneren jazz saiten auf die schwarze gitarre machen
 - [ ] neue Saiten auf Akustik 
@@ -815,9 +726,6 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 	- [ ] Klinkenanschluss wieder anbringen 
 		- [ ] dafür mutter und u scheibe suchen/besorgen 
 - [ ] füsilier alles üben
-- [ ] fresh fur 
-	- [ ] lead guitar 
-	- [ ] gesang die töne in guitar pro versuchen zu treffen 
 - [ ] Waffenbrüder Gitarre und Text
 	- [ ] solo üben
 	- [ ] Text stimme richtig üben
@@ -851,6 +759,16 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] <span style="color:coral">paartherapie S3 runterladen</span>
 
 # Alt
+- [ ] 13.-21.6.2026 woche der bot. Gärten
+- [ ] im Sekretariat bot. Garten 
+	- [x] Sonntagsdienst ~={RedRed} erst überlegen, wann ich nen Dienst machen möchte=~
+		- Für die Sonntagsdienste können Sie sich für zwei Schichten eintragen (09:00–12:30 Uhr und 12:30–16:00 Uhr). An folgenden Terminen suchen wir aktuell noch Unterstützung: 10. Mai, 7. Juni, 5. Juli, 2. August, 6. September und 4. Oktober.
+	- [ ] und Dienst zum Helfen 
+- [ ] Bildschirme tauschen ⟹ großen weg und die zwei kleinen vor mich
+	- [ ] erstmal die Position verändert, da ich keine dp-dp-Kabel habe
+	- [ ] großen Bildschirm etwas dunkler gemacht - 90%
+- hab geld vom Strom zurück bekommen 
+	- definitiv karten fürs Festival kaufen 🥰🎉
 - [x] im Bauhaus nach ventilator schauen
 	- [x] destilliertes Wasser 
 	- ventilator waren im bh, roller und Hornbach ausverkauft. Im Mömax war ich jetzt nicht
