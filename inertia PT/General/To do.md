@@ -49,7 +49,7 @@
 	- keine Lust mehr mich mit ADHS und Autismus im Negativen, Leidenden und Opfersinn auseinander zu setzen
 	- extrem viel Sport machen 
 	- meinen Körper kennen und lieben lernen 
-	- nicht mehr wixxen
+	- <font color="#ff0000">nicht</font> mehr wixxen
 	- voller Kraft und Lebensmut sein 
 	- yoga, laufen, Krafttraining jeder Art und Kampfsport, statt nervige Themen die mich nicht voran bringen 
 	- keine Politik und kein brain rot mehr
@@ -57,7 +57,7 @@
 	- Ordnung halten 
 	- mich pflegen, auf mein Äußeres und Auftreten achten
 	- <font color="#e36c09">Versündige</font> dich <font color="#ff0000">nicht</font> weiter an dir und deinem Leben
-	- <font color="#ff0000">nicht</font> mehr <font color="#ffd700">konsumieren</font> ⟹aktiv werden und machen 
+	- <font color="#ff0000">nicht</font> mehr <font color="#ffd700">konsumieren</font> ⟹<font color="#7cfc00">aktiv</font> werden und machen 
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] rechten flip flop reparieren 
