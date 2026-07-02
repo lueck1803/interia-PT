@@ -3114,9 +3114,11 @@ Remarques importantes
 - **Ce que** (ou **ce qu'**) est le **complément d'objet direct (COD)**. Il est généralement suivi d'un sujet et d'un verbe.
     - _Exemple :_ « Je ne sais pas **ce que** tu dis. » (Je ne sais pas ce que tu racontes). [1](https://www.schuelerhilfe.de/online-lernen/5-franzoesisch/1537-die-relativpronomen-ce-qui-und-ce-que), [2](https://www.gymglish.com/fr/frantastique-orthographe/grammaire-francaise/les-pronoms-relatifs-ce-qui-ce-que-et-ce-dont)
 # Physik
-The heat transport rate (or heat transfer rate, $ \dot{Q} $) quantifies how much thermal energy is transferred per unit time (measured in Watts, W). The formulas differ for convection and radiation, as they depend on distinct physical principles.
-1. Convection Heat Transfer Rate
-Formula:
+The heat transport rate (or heat transfer rate, $\dot{Q}$) quantifies how much thermal energy is transferred per unit time (measured in Watts, W). The formulas differ for convection and radiation, as they depend on distinct physical principles.
+## Convection Heat Transfer Rate
+
+**Formula:**
+
 
 Where:
 - $\dot{Q}_{\text{conv}}$: Heat transfer rate (W)
@@ -3131,7 +3133,9 @@ Where:
 Key Insight:
 - Linear dependence on $\Delta T$.
 - Strongly dependent on fluid flow (higher $ h $ for turbulent flow or higher velocities).
-2. Radiation Heat Transfer Rate
+
+
+### Radiation Heat Transfer Rate
 Formula (Stefan-Boltzmann Law):
 
 Where:
