@@ -3146,7 +3146,8 @@ Key Insight:
 - Non-linear dependence on temperature ($T^4$).
 - Dominates at high temperatures (e.g., sun, industrial furnaces).
 - No medium required—works in a vacuum.
-Comparison of Rates
+
+## Comparison of Rates
 FactorConvectionRadiation
 Dependence Linear ($ Non-linear ($ 
 on ΔT\Delta T $)T_1^4 - T_2^4 $)
