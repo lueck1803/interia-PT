@@ -3117,8 +3117,8 @@ Remarques importantes
 The heat transport rate (or heat transfer rate, $\dot{Q}$) quantifies how much thermal energy is transferred per unit time (measured in Watts, W). The formulas differ for convection and radiation, as they depend on distinct physical principles.
 ## Convection Heat Transfer Rate
 
-**Formula:**
-$\dot{Q}_{\text{conv}} = hA (T_{\text{surface}} - T_{\text{fluid}})= hA (T_{\text{surface}} - T$
+### **Formula:**
+$\dot{Q}_{\text{conv}} = hA (T_{\text{surface}} - T_{\text{fluid}})= hA \cdot \Delta T$
 
 Where:
 - $\dot{Q}_{\text{conv}}$: Heat transfer rate (W)
@@ -3130,14 +3130,15 @@ Where:
 - Forced convection (water): 100–10,000 W/m²·K
 - $A$: Surface area in contact with the fluid (m²)
 - $\Delta T$: Temperature difference between the surface and the fluid (K or °C)
-	- 
-Key Insight:
+
+### Key Insight:
 - Linear dependence on $\Delta T$.
 - Strongly dependent on fluid flow (higher $ h $ for turbulent flow or higher velocities).
 
 
 ### Radiation Heat Transfer Rate
-Formula (Stefan-Boltzmann Law):
+#### Formula (Stefan-Boltzmann Law):
+$\dot{Q}_{\text{rad}}=\epsilon \cdot \sigma \cdot A \cdot \left( T_{1}^{4}-T_{2}^{4} \right)$
 
 Where:
 - $\dot{Q}_{\text{rad}}$: Heat transfer rate (W)
@@ -3147,7 +3148,7 @@ Where:
 - $\sigma=5.67 \times 10^{-8} , \text{W/m}^2\text{K}^4$ *Stefan-Boltzmann-constant* 
 - $A$: Surface area (m²)
 - $T_1$ and $T_2$: Absolute temperatures of the two surfaces (K)
-Key Insight:
+#### Key Insight:
 - Non-linear dependence on temperature ($T^4$).
 - Dominates at high temperatures (e.g., sun, industrial furnaces).
 - No medium required—works in a vacuum.
