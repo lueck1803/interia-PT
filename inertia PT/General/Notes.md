@@ -3118,7 +3118,7 @@ The heat transport rate (or heat transfer rate, $\dot{Q}$) quantifies how much t
 ## Convection Heat Transfer Rate
 
 **Formula:**
-
+$\dot{Q}_{\text{conv}} = hA (T_{\text{surface}} - T_{\text{fluid}})= hA (T_{\text{surface}} - T$
 
 Where:
 - $\dot{Q}_{\text{conv}}$: Heat transfer rate (W)
@@ -3130,6 +3130,7 @@ Where:
 - Forced convection (water): 100–10,000 W/m²·K
 - $A$: Surface area in contact with the fluid (m²)
 - $\Delta T$: Temperature difference between the surface and the fluid (K or °C)
+	- 
 Key Insight:
 - Linear dependence on $\Delta T$.
 - Strongly dependent on fluid flow (higher $ h $ for turbulent flow or higher velocities).
