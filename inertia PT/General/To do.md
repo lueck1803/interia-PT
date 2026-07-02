@@ -89,6 +89,7 @@
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] alten Klodeckel wegwerfen 
 - [ ] Pfanne spülen
+- [ ] Nudeln kochen 
 - [x] füsilier 2 exportieren 
 	- [x] nur Bass und Schlagzeug
 		- [x] mit beiden Reden 
