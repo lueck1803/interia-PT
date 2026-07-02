@@ -1,7 +1,7 @@
 - ich <font color="#ff0000">will meine Arbeit Publikations fähig machen</font>
 - regelmäßig den <font color="#00fa9a">Blutdruck</font> messen
 - ohr eincremen /Teebaumöl test
-# unsortiert
+# Mantra
 - oberste Priorität:
 	- <font color="#ff1493">stay away</font> from Islam 
 	- halte dich von den Problemen <font color="#e36c09">Anderer</font> und der <font color="#31859b">Welt</font> <font color="#ff0000">fern</font> 
@@ -57,8 +57,9 @@
 	- Ordnung halten 
 	- mich pflegen, auf mein Äußeres und Auftreten achten
 	- <font color="#e36c09">Versündige</font> dich <font color="#ff0000">nicht</font> weiter an dir und deinem Leben
-
+# unsortiert
 - [ ] neuen Kalender für Schule erstellen 
+- [ ] rechten flip flop reparieren 
 - [ ] roten Hartriegel Steckling einpflanzen 
 - [ ] Ventilator aufbauen 
 - [ ] neue Hosen nochmal anprobieren und vergleichen 
