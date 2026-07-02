@@ -3149,23 +3149,23 @@ Key Insight:
 
 ## Comparison of Rates
 
-| Factor               | Convection                                                                               | Radiation                                                                                                 |     |
-| :------------------- | :--------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------- | --- |
-| Dependence on ΔT     | Linear ($\Delta T$)                                                                      | Non-linear ($T_1^4 - T_2^4$)                                                                              |     |
-| Dependence on Area   | Linear ($A$)                                                                             | Linear ($A$)                                                                                              |     |
-| Dependence on Medium | Required (fluid)                                                                         | None                                                                                                      |     |
-| Typical Magnitude    | Moderate (W to kW)                                                                       | Can be very high (kW to MW) at high $T$                                                                   |     |
-| Example Calculation  | $\dot{Q} = 50 \text{W/m}^2\text{K} \times 1 \text{m}^2 \times 20\text{K} = 1000\text{W}$ | $\dot{Q} = 0.8 \times 5.67 \times 10^{-8} \times 1\text{m}^2 \times (500^4 - 300^4) \approx 3.6\text{kW}$ |     |
+| Factor               | Convection                                                                               | Radiation                                                                                                 |
+|:-------------------- |:---------------------------------------------------------------------------------------- |:--------------------------------------------------------------------------------------------------------- |
+| Dependence on ΔT     | Linear ($\Delta T$)                                                                      | Non-linear ($T_1^4 - T_2^4$)                                                                              |
+| Dependence on Area   | Linear ($A$)                                                                             | Linear ($A$)                                                                                              |
+| Dependence on Medium | Required (fluid)                                                                         | None                                                                                                      |
+| Typical Magnitude    | Moderate (W to kW)                                                                       | Can be very high (kW to MW) at high $T$                                                                   |
+| Example Calculation  | $\dot{Q} = 50 \text{W/m}^2\text{K} \times 1 \text{m}^2 \times 20\text{K} = 1000\text{W}$ | $\dot{Q} = 0.8 \times 5.67 \times 10^{-8} \times 1\text{m}^2 \times (500^4 - 300^4) \approx 3.6\text{kW}$ |
 
 
 
 When Does Radiation Outperform Convection?
 - High temperatures: Radiation scales with $T^4$, so it dominates in furnaces, stars, or solar applications.
 - Vacuum environments: Convection fails without a fluid (e.g., space).
-- Large temperature differences: Radiation becomes significant even at moderate $ T $ if $ \Delta T $ is large.
+- Large temperature differences: Radiation becomes significant even at moderate $T$ if $\Delta T$ is large.
 Example:
-At 1000 K, a blackbody ($ \epsilon = 1 $) with $ A = 1 , \text{m}^2 $ emits:
-
+At 1000 K, a blackbody ($\epsilon = 1$) with $A = 1  \text{m}^2$ emits:
+$\dot{Q}_{"rad"}=\pu{  }$
 This far exceeds typical convective rates for the same area.
 # Chemie
 ## BPA
