@@ -3165,7 +3165,7 @@ When Does Radiation Outperform Convection?
 - Large temperature differences: Radiation becomes significant even at moderate $T$ if $\Delta T$ is large.
 Example:
 At 1000 K, a blackbody ($\epsilon = 1$) with $A = 1  \text{m}^2$ emits:
-$\dot{Q}_{"rad"}=\pu{  }$
+$\dot{Q}_{rad}=5.67 \cdot 10^{-8}(1000^4-300^4) \approx \pu{ 56.7 kW }$
 This far exceeds typical convective rates for the same area.
 # Chemie
 ## BPA
