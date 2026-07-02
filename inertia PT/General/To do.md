@@ -89,7 +89,7 @@
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] alten Klodeckel wegwerfen 
 - [ ] Pfanne spülen
-- [ ] Wand im Bad putzen
+- [x] Wand im Bad putzen
 - [ ] Vater anrufen 
 - [ ] Stecklinge Gläser saubermachen 
 - [ ] Ventilator aufbauen 
