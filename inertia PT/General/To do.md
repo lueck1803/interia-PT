@@ -87,6 +87,7 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
+- [ ] alten Klodeckel wegwerfen 
 - [ ] Pfanne spülen
 - [ ] Wand im Bad putzen
 - [ ] Vater anrufen 
@@ -580,7 +581,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] Sparkassen App+push tan
 - [ ] maus reparieren 
 	- geht momentan wieder
-- [ ] Klodeckel
+- [x] Klodeckel
 - [ ] Ackerbohnen säen
 	- [ ] ahl
 	- [x] Balkon 
