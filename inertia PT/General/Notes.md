@@ -3152,24 +3152,6 @@ Key Insight:
 
 
 
-FactorConvectionRadiation
-Dependence Linear ($ Non-linear ($ 
-on ΔT\Delta T $)T_1^4 - T_2^4 $)
-Dependence Linear ($ A $)Linear ($ A $)
-on Area
-Dependence Required None
-on Medium(fluid)
-Typical Moderate (W Can be very 
-Magnitudeto kW)high (kW to MW) at high $ T $
-Example $ \dot{Q} = $ \dot{Q} = 
-Calculation50 , \text{W/0.8 \times 
-m}^2\text{K} 5.67 \times 
-\times 1 , 10^{-8} \times 
-\text{m}^2 1 , \text{m}^2 
-\times 20 , \times (500^4 
-\text{K} = - 300^4) 
-1000 , \text{W} \approx 3.6 , 
-$\text{kW} $
 When Does Radiation Outperform Convection?
 - High temperatures: Radiation scales with $ T^4 $, so it dominates in furnaces, stars, or solar applications.
 - Vacuum environments: Convection fails without a fluid (e.g., space).
