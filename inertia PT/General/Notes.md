@@ -3113,6 +3113,66 @@ Remarques importantes
     - _Exemple :_ « Je ne sais pas **ce qui** s'est passé. » (Je ne sais pas ce qui est arrivé). [1](https://www.sofatutor.com/franzoesisch/videos/relativpronomen-ce-qui-und-ce-que), [2](https://www.gymglish.com/fr/frantastique-orthographe/grammaire-francaise/les-pronoms-relatifs-ce-qui-ce-que-et-ce-dont), [3](https://learnattack.de/franzoesisch/relativsaetze-mit-ce-qui-und-ce-que), [4](https://www.schuelerhilfe.de/online-lernen/5-franzoesisch/1537-die-relativpronomen-ce-qui-und-ce-que)
 - **Ce que** (ou **ce qu'**) est le **complément d'objet direct (COD)**. Il est généralement suivi d'un sujet et d'un verbe.
     - _Exemple :_ « Je ne sais pas **ce que** tu dis. » (Je ne sais pas ce que tu racontes). [1](https://www.schuelerhilfe.de/online-lernen/5-franzoesisch/1537-die-relativpronomen-ce-qui-und-ce-que), [2](https://www.gymglish.com/fr/frantastique-orthographe/grammaire-francaise/les-pronoms-relatifs-ce-qui-ce-que-et-ce-dont)
+# Physik
+The heat transport rate (or heat transfer rate, $ \dot{Q} $) quantifies how much thermal energy is transferred per unit time (measured in Watts, W). The formulas differ for convection and radiation, as they depend on distinct physical principles.
+1. Convection Heat Transfer Rate
+Formula:
+
+Where:
+- $ \dot{Q}_{\text{conv}} $: Heat transfer rate (W)
+- $ h $: Convective heat transfer coefficient (W/m²·K)
+- Depends on fluid properties (thermal conductivity, viscosity, density), flow velocity, and geometry.
+- Typical values:
+- Natural convection (air): 5–25 W/m²·K
+- Forced convection (air): 10–200 W/m²·K
+- Forced convection (water): 100–10,000 W/m²·K
+- $ A $: Surface area in contact with the fluid (m²)
+- $ \Delta T $: Temperature difference between the surface and the fluid (K or °C)
+Key Insight:
+- Linear dependence on $ \Delta T $.
+- Strongly dependent on fluid flow (higher $ h $ for turbulent flow or higher velocities).
+2. Radiation Heat Transfer Rate
+Formula (Stefan-Boltzmann Law):
+
+Where:
+- $ \dot{Q}_{\text{rad}} $: Heat transfer rate (W)
+- $ \epsilon $: Emissivity (0 to 1, dimensionless)
+- 1 = ideal blackbody (perfect emitter/absorber)
+- 0 = perfect reflector (e.g., polished mirror)
+- $ \sigma  5.67 \times 10^{-8} , \text{W/m}^2\text{K}^4 $)
+- $ A $: Surface area (m²)
+- $ T_1 $ and $ T_2 $: Absolute temperatures of the two surfaces (K)
+Key Insight:
+- Non-linear dependence on temperature ($ T^4 $).
+- Dominates at high temperatures (e.g., sun, industrial furnaces).
+- No medium required—works in a vacuum.
+Comparison of Rates
+FactorConvectionRadiation
+Dependence Linear ($ Non-linear ($ 
+on ΔT\Delta T $)T_1^4 - T_2^4 $)
+Dependence Linear ($ A $)Linear ($ A $)
+on Area
+Dependence Required None
+on Medium(fluid)
+Typical Moderate (W Can be very 
+Magnitudeto kW)high (kW to MW) at high $ T $
+Example $ \dot{Q} = $ \dot{Q} = 
+Calculation50 , \text{W/0.8 \times 
+m}^2\text{K} 5.67 \times 
+\times 1 , 10^{-8} \times 
+\text{m}^2 1 , \text{m}^2 
+\times 20 , \times (500^4 
+\text{K} = - 300^4) 
+1000 , \text{W} \approx 3.6 , 
+$\text{kW} $
+When Does Radiation Outperform Convection?
+- High temperatures: Radiation scales with $ T^4 $, so it dominates in furnaces, stars, or solar applications.
+- Vacuum environments: Convection fails without a fluid (e.g., space).
+- Large temperature differences: Radiation becomes significant even at moderate $ T $ if $ \Delta T $ is large.
+Example:
+At 1000 K, a blackbody ($ \epsilon = 1 $) with $ A = 1 , \text{m}^2 $ emits:
+
+This far exceeds typical convective rates for the same area.
 # Chemie
 ## BPA
 ### ist ~={Crimson}kein=~ Weichmacher
