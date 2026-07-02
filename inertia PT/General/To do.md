@@ -2,67 +2,70 @@
 - regelmäßig den <font color="#00fa9a">Blutdruck</font> messen
 - ohr eincremen /Teebaumöl test
 # Mantra
-- oberste Priorität:
-	- <font color="#ff1493">stay away</font> from Islam 
-	- halte dich von den Problemen <font color="#e36c09">Anderer</font> und der <font color="#31859b">Welt</font> <font color="#ff0000">fern</font> 
-	- lass dich <font color="#ff0000">nicht</font> triggern, in Dinge hineinziehen und manipulieren 
-	- <font color="#dc143c">Masterarbeit</font>
-	- <font color="#ffd700">Innere Ruhe </font>
-	- <font color="#ffff00">Meditation</font>
-	- <font color="#ff0000">Andere</font> <font color="#92d050">Regulationsformen</font> finden
-		- Stim mit Visualisierung aus dem Leben entfernen
-		- Spazieren + Balancieren
-		- schlafen
-		- Meditieren
-		- Yoga
-		- in die Ferne schauen
-		- mich am schönen Erfreuen
-		- Abstand zu Medien und Ablenkung
-	- <font color="#ff1493">Schlaf</font> ist das <font color="#00b050">beste Heilmittel</font> 
-	- Auf den <font color="#8db3e2">Körper hören</font> 
-	- dauerhaft präsent sein
-	- ganz <font color="#00b050">im hier und jetzt</font> sein
-	- die <font color="#92cddc">Pflicht des Augenblicks</font>
-	- <font color="#ff0000">kein</font> YouTube mehr
-	- nur <font color="#48d1cc">eine Sache zur selben Zeit</font> machen
-	- die kleinen Dinge (des Alltags) und das was ich bereits tue perfektionieren und vollkommene Sicherheit gewinnen 
-		- ⤷ daran ist nichts Langweiliges es ist <font color="#00fa9a">wunder schön</font>
-	- die kleinen und wichtigen Dinge des Tages zelebrieren und perfektionieren denn das bringt die wahre Freude und ist der Sinn des Lebens 
-	- ich möchte im Moment glücklich und zufrieden sein. Denn alles kann im nächsten Moment vorbei sein 
-	- ich bleibe dabei was ich jetzt tue und lasse mich nicht mehr verunsichern 
-	- <font color="#ff0000">nutze endlich die Chancen</font> die du so häufig bekommen hast
-	- ich will ein sehr sehr sehr guter Lehrer werden. Dabei geht es um die Essenz 
-	- die Dinge mit Ruhe, Langsamkeit und der Essenz begehen. Dann hat man Zeit voll bei sich und der Sache zu sein
-	- bidere dich nicht mehr an!
-	- Arooj loslassen, mich auf mich konzentrieren und endlich leben 
-	- wenn ich keine Zeit verschwende, gibt es auch keinen Grund mich schlecht zu fühlen 
-	- tue alles damit es keinen Grund gibt mich schuldig zu fühlen 
-	- darüber nachzudenken ob ich auch ~={DeepSkyBlue}Autismus=~ habe, ist ~={RedRed}nicht=~ ~={LawnGreen}zielführend=~. Das bringt mich nur in eine ~={RedRed}Opferrolle=~ 
-		- nach dem Motto: ich habe ja ~={RedRed}eh=~ ~={red}keine=~ ~={MediumSpringGreen}Kontrolle über mich=~
-		- ⟹ich möchte wieder ~={LawnGreen}Selbstwirksamkeit=~ spüren 
-	- Das sich schuldig fühlen ist ein Teufelskreis. Der mir Selbstwirksamkeit genommen hat und eine selbsterfüllende Prophezeihung war.
-	- Es ist halt eine aktive brownsche Bewegung so eine Psyche 🤷‍♂️ insbesondere wenn die Wege und Denkstrukturen so eingefahren sind.
-	- ~={RedRed}Hör auf=~ ~={yellow}scheiße zu dir zu sein=~, das warst du wahrlich lange genug.
-	- Trigger für vollkommene Innere Ruhe ~={RedRed} ich bin absolut wertlos=~
-	- Verantwortung übernehmen für mich und mein Handeln 
-		- ich wollte das 
-	- keine Lust mehr mich mit ADHS und Autismus im Negativen, Leidenden und Opfersinn auseinander zu setzen
-	- extrem viel Sport machen 
-	- meinen Körper kennen und lieben lernen 
-	- viel körperliche Bewegung 
-	- <font color="#ff0000">nicht</font> mehr wixxen ⟹ meine Energie in sinnvolle und wirklich entspannende Dinge tun
-	- voller Kraft und Lebensmut sein 
-	- yoga, laufen, Krafttraining jeder Art und Kampfsport, statt nervige Themen die mich nicht voran bringen 
-	- keine Politik und kein brain rot mehr
-	- 100% Fokus 
-	- Ordnung halten 
-	- mich pflegen, auf mein Äußeres und Auftreten achten
-	- <font color="#e36c09">Versündige</font> dich <font color="#ff0000">nicht</font> weiter an dir und deinem Leben
-	- <font color="#ff0000">nicht</font> mehr <font color="#ffd700">konsumieren</font> ⟹<font color="#7cfc00">aktiv</font> werden und machen 
+## oberste Priorität:
+- <font color="#ff1493">stay away</font> from Islam 
+- halte dich von den Problemen <font color="#e36c09">Anderer</font> und der <font color="#31859b">Welt</font> <font color="#ff0000">fern</font> 
+- lass dich <font color="#ff0000">nicht</font> triggern, in Dinge hineinziehen und manipulieren 
+- <font color="#dc143c">Masterarbeit</font>
+- <font color="#ffd700">Innere Ruhe </font>
+- <font color="#ffff00">Meditation</font>
+- <font color="#ff0000">Andere</font> <font color="#92d050">Regulationsformen</font> finden
+	- Stim mit Visualisierung aus dem Leben entfernen
+	- Spazieren + Balancieren
+	- schlafen
+	- Meditieren
+	- Yoga
+	- in die Ferne schauen
+	- mich am schönen Erfreuen
+	- Abstand zu Medien und Ablenkung
+- <font color="#ff1493">Schlaf</font> ist das <font color="#00b050">beste Heilmittel</font> 
+- Auf den <font color="#8db3e2">Körper hören</font> 
+- dauerhaft präsent sein
+- ganz <font color="#00b050">im hier und jetzt</font> sein
+- die <font color="#92cddc">Pflicht des Augenblicks</font>
+- <font color="#ff0000">kein</font> YouTube mehr
+- nur <font color="#48d1cc">eine Sache zur selben Zeit</font> machen
+- die kleinen Dinge (des Alltags) und das was ich bereits tue perfektionieren und vollkommene Sicherheit gewinnen 
+	- ⤷ daran ist nichts Langweiliges es ist <font color="#00fa9a">wunder schön</font>
+- die kleinen und wichtigen Dinge des Tages zelebrieren und perfektionieren denn das bringt die wahre Freude und ist der Sinn des Lebens 
+- ich möchte im Moment glücklich und zufrieden sein. Denn alles kann im nächsten Moment vorbei sein 
+- ich bleibe dabei was ich jetzt tue und lasse mich nicht mehr verunsichern 
+- <font color="#ff0000">nutze endlich die Chancen</font> die du so häufig bekommen hast
+- ich will ein sehr sehr sehr guter Lehrer werden. Dabei geht es um die Essenz 
+- die Dinge mit Ruhe, Langsamkeit und der Essenz begehen. Dann hat man Zeit voll bei sich und der Sache zu sein
+- bidere dich nicht mehr an!
+- Arooj loslassen, mich auf mich konzentrieren und endlich leben 
+- wenn ich keine Zeit verschwende, gibt es auch keinen Grund mich schlecht zu fühlen 
+- tue alles damit es keinen Grund gibt mich schuldig zu fühlen 
+- darüber nachzudenken ob ich auch ~={DeepSkyBlue}Autismus=~ habe, ist ~={RedRed}nicht=~ ~={LawnGreen}zielführend=~. Das bringt mich nur in eine ~={RedRed}Opferrolle=~ 
+	- nach dem Motto: ich habe ja ~={RedRed}eh=~ ~={red}keine=~ ~={MediumSpringGreen}Kontrolle über mich=~
+	- ⟹ich möchte wieder ~={LawnGreen}Selbstwirksamkeit=~ spüren 
+- Das sich schuldig fühlen ist ein Teufelskreis. Der mir Selbstwirksamkeit genommen hat und eine selbsterfüllende Prophezeihung war.
+- Es ist halt eine aktive brownsche Bewegung so eine Psyche 🤷‍♂️ insbesondere wenn die Wege und Denkstrukturen so eingefahren sind.
+- ~={RedRed}Hör auf=~ ~={yellow}scheiße zu dir zu sein=~, das warst du wahrlich lange genug.
+- Trigger für vollkommene Innere Ruhe ~={RedRed} ich bin absolut wertlos=~
+- Verantwortung übernehmen für mich und mein Handeln 
+	- ich wollte das 
+- keine Lust mehr mich mit ADHS und Autismus im Negativen, Leidenden und Opfersinn auseinander zu setzen
+- extrem viel Sport machen 
+- meinen Körper kennen und lieben lernen 
+- viel körperliche Bewegung 
+- <font color="#ff0000">nicht</font> mehr wixxen ⟹ meine Energie in sinnvolle und wirklich entspannende Dinge tun
+- voller Kraft und Lebensmut sein 
+- yoga, laufen, Krafttraining jeder Art und Kampfsport, statt nervige Themen die mich nicht voran bringen 
+- keine Politik und kein brain rot mehr
+- 100% Fokus 
+- Ordnung halten 
+- mich pflegen, auf mein Äußeres und Auftreten achten
+- <font color="#e36c09">Versündige</font> dich <font color="#ff0000">nicht</font> weiter an dir und deinem Leben
+- <font color="#ff0000">nicht</font> mehr <font color="#ffd700">konsumieren</font> ⟹<font color="#7cfc00">aktiv</font> werden und machen 
+## was will ich tun
+- Knoten lernen und üben
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] rechten flip flop reparieren 
 - [x] roten Hartriegel Steckling einpflanzen 
+- [ ] Vater anrufen 
 - [ ] Ventilator aufbauen 
 - [ ] neue Hosen nochmal anprobieren und vergleichen 
 - [ ] Kleiderschrank aufräumen
