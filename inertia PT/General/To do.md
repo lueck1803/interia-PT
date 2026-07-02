@@ -56,7 +56,7 @@
 	- <font color="#e36c09">Versündige</font> dich <font color="#ff0000">nicht</font> weiter an dir und deinem Leben
 
 - [ ] neuen Kalender für Schule erstellen 
-- [ ] Sonnenbrille putzen 
+- [ ] roten Hartriegel Steckling einpflanzen 
 - [ ] grüne Hose zurück bringen, schauen ob es wo anders eine in 50 gibt
 	- [ ] Vergleich mit rosa Hose: die ist zwar auch eng, aber die ist flexibler und damit kann ich mein Bein besser heben
 	- [ ] ne ist eigentlich genauso 
@@ -64,7 +64,6 @@
 	- [ ] Hosentasche der neuen shorts länger machen?
 - [ ] Spülmaschine ausräumen 
 - [ ] schuhe kaufen 
-- [x] ne fork für mein amep erstellen
 - [ ] ganz ganz ganz viel sauberes tremolo picking üben, insbesondere in kombi mit abdämpfen. 
       Wechsel zwischen weißer und schwarzer Gitarre
 - [ ] Waffenbrüder solo
