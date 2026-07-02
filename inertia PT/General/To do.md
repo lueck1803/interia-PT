@@ -229,13 +229,12 @@
 	- [ ] ~={Crimson}Ordnung in meine Gedanken und Worte bringen, weniger ist mehr=~ 
 - [ ] Notizen zu "deine ~={ForestGreen}Gedanken=~ lügen" ab 2:05:47
 - [ ] Teil bzgl weg zur Kästchen methode und von dort zu meiner methode fertig schreiben. Nochmal in report schauen was ich da schon geschrieben habe
-- [ ] floyd rose stimmtutorial
 - [ ] vertrag nach Kündigungsfrist durch schauen
 - [ ] was ist die mindst Kündigungsfrist in Deutschland 
 - [ ] Freddies Socken an der Spitze vernähen 
 - [ ] Socken einpacken 
 - [ ] dpg kündigen
-- [ ] jean-lueck aufräumen
+- [ ] jean-lueck@gmx.net aufräumen
 - [ ] yoga 
 - [ ] zip tight knoten lernen 
 - [ ] tesaabroller schärfen
@@ -687,6 +686,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 	- [ ] Bananenschalen (bio) wasser 24h einweichen 
 - [x] carnivoren umsetzen 
 # Musik
+- [ ] floyd rose stimmtutorial
 - [ ] Versuch dich mal an einer ~={LawnGreen}ganzen Aufnahme von so 70%=~. Lass Solo2 dann erstmal weg (spiel zu dem Punkt Rhythm oder so).
 - [ ] Waffenbrüder 
 	- [ ] solo perfekt üben
@@ -718,7 +718,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 		- [ ] gilt insbesondere beim tremolo picking über mehrere saiten
 		- [ ] hand und handgelenk total locker lassen
 		- [ ] aber pick sehr stabil greifen
-- [ ] Bassline von KF-Maulwurf üben
+- [ ] Bassline von **KF- der Maulwurf** üben
 - [ ] Beltaine hohe Flöte üben 
 - [ ] die dünneren jazz saiten auf die schwarze gitarre machen
 - [ ] neue Saiten auf Akustik 
