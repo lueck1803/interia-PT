@@ -3139,7 +3139,7 @@ Where:
 - $\epsilon$: Emissivity (0 to 1, dimensionless)
 - 1 = ideal blackbody (perfect emitter/absorber)
 - 0 = perfect reflector (e.g., polished mirror)
-- $\sigma=5.67 \times 10^{-8} , \text{W/m}^2\text{K}^4$)
+- $\sigma=5.67 \times 10^{-8} , \text{W/m}^2\text{K}^4$)  
 - $ A $: Surface area (m²)
 - $ T_1 $ and $ T_2 $: Absolute temperatures of the two surfaces (K)
 Key Insight:
