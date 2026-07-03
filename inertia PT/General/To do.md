@@ -102,7 +102,7 @@
 	- [ ] füsilier 2 
 	- [ ] Waffenbrüder 
 - [ ] Bettwäsche 
-- [ ] Bettdecke waschen 
+- [x] Bettdecke waschen 
 - [x] füsilier 2 exportieren 
 	- [x] nur Bass und Schlagzeug
 		- [x] mit beiden Reden 
