@@ -91,11 +91,12 @@
 - [x] Pfanne spülen
 - [x] Nudeln kochen 
 	- [ ] Nudeln weg packen
-- [ ] mit Eltern telefonieren 
-- [ ] Garten Gruppe 
-- [ ] Andreas wegen MMA 
+- [x] mit Eltern telefonieren 
+- [x] Garten Gruppe 
+- [x] Andreas wegen MMA 
 - [ ] Dusche schrubben 
-- [ ] Pflanzen gießen
+- [ ] rechte
+- [ ] Pflanzen gießen + Teich 
 - [ ] Spülmaschine auch 
 - [ ] backing track Waffenbrüder zusammen stellen und exportieren 
 - [ ] backing track Arthur schicken 
