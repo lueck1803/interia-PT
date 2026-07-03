@@ -3739,20 +3739,3 @@ Im Gegensatz zu einer Polstelle, bei der sich der Graph einer senkrechten Linie 
 
 
 
-Flowina paradise 
-
-Martina peach 
-
-Brook summers
-
-Miss bell ASMR
-
-Rosy roar
-
-Mother mountain farm
-
-Ame in a van
-
-Andrea ference
-
-Paradise julia
