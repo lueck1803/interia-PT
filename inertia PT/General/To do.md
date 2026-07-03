@@ -95,7 +95,8 @@
 - [x] Garten Gruppe 
 - [x] Andreas wegen MMA 
 - [ ] Dusche schrubben 
-- [ ] rechte
+- [ ] Glasmüll 
+- [ ] rechten flipflop enger machen 
 - [ ] Pflanzen gießen + Teich 
 - [ ] Spülmaschine auch 
 - [ ] backing track Waffenbrüder zusammen stellen und exportieren 
@@ -110,8 +111,7 @@
 		- [x] nur zweite Rede
 	- [x] alles nur zweite Rede
 - [x] Wand im Bad putzen
-- [ ] Vater anrufen 
-- [ ] Stecklinge Gläser saubermachen 
+- [x] Stecklinge Gläser saubermachen 
 - [ ] Ventilator aufbauen 
 - [ ] neue Hosen nochmal anprobieren und vergleichen 
 - [ ] Kleiderschrank aufräumen
