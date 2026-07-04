@@ -88,7 +88,6 @@
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Dusche schrubben 
-- [ ] pflanzen gießen
 - [ ] Glasmüll 
 - [ ] Pflanzen gießen + Teich 
 - [ ] Spülmaschine ausräumen 
