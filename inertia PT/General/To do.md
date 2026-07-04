@@ -95,11 +95,11 @@
 - [ ] papier kram
 - [ ] Maracuja umsetzen 
 - [ ] Kiwi umsetzen 
-- [ ] Maulbeerstecklinge einpflanzen 
+- [x] Maulbeerstecklinge einpflanzen 
 - [ ] Ventilator aufbauen 
 - [ ] neue Hosen nochmal anprobieren und vergleichen 
 - [ ] Kleiderschrank aufräumen
-- [ ] Tisch aufräumen 
+- [x] Tisch aufräumen 
 - [ ] Yogamatten auspacken und ausprobieren 
 - [ ] Balkon aufräumen und kehren 
 - [ ] Duschwanne schrubben 
