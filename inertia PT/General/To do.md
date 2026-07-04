@@ -91,7 +91,7 @@
 - [ ] Glasmüll 
 - [ ] Zeug auf Motten überprüfen 
 - [ ] was mit Zucchini und Auberginen kochen 
-- [ ] Aldi <font color="#00b0f0">vorher Hosen anprobieren</font> 
+- [x] Aldi <font color="#00b0f0">vorher Hosen anprobieren</font> 
 	- [ ] kirscheis 🤭
 	- [ ] Tomatendosen 
 	- [ ] lokosschade
