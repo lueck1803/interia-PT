@@ -94,6 +94,7 @@
 - [ ] Bettwäsche 
 - [ ] papier kram
 - [ ] Maracuja umsetzen 
+- [ ] Kiwi umsetzen 
 - [ ] Ventilator aufbauen 
 - [ ] neue Hosen nochmal anprobieren und vergleichen 
 - [ ] Kleiderschrank aufräumen
