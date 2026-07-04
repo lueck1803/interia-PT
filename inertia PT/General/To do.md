@@ -90,15 +90,15 @@
 - [x] alten Klodeckel wegwerfen 
 - [x] Pfanne spülen
 - [x] Nudeln kochen 
-	- [ ] Nudeln weg packen
+	- [x] Nudeln weg packen
 - [x] mit Eltern telefonieren 
 - [x] Garten Gruppe 
 - [x] Andreas wegen MMA 
 - [ ] Dusche schrubben 
 - [ ] Glasmüll 
-- [ ] rechten flipflop enger machen 
+- [x] rechten flipflop enger machen 
 - [ ] Pflanzen gießen + Teich 
-- [ ] Spülmaschine auch 
+- [ ] Spülmaschine ausr
 - [ ] backing track Waffenbrüder zusammen stellen und exportieren 
 - [ ] backing track Arthur schicken 
 	- [ ] füsilier 2 
