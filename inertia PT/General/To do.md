@@ -95,6 +95,7 @@
 - [ ] papier kram
 - [ ] Maracuja umsetzen 
 - [ ] Kiwi umsetzen 
+- [ ] Maulbeerstecklinge einpflanzen 
 - [ ] Ventilator aufbauen 
 - [ ] neue Hosen nochmal anprobieren und vergleichen 
 - [ ] Kleiderschrank aufräumen
