@@ -93,6 +93,7 @@
 - [ ] Spülmaschine ausräumen 
 - [ ] Bettwäsche 
 - [ ] papier kram
+- [ ] Maracuja umsetzen 
 - [ ] Ventilator aufbauen 
 - [ ] neue Hosen nochmal anprobieren und vergleichen 
 - [ ] Kleiderschrank aufräumen
