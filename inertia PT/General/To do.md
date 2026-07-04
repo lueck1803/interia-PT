@@ -87,22 +87,15 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
-- [x] alten Klodeckel wegwerfen 
-- [x] Pfanne spülen
-- [x] Nudeln kochen 
-	- [x] Nudeln weg packen
-- [x] mit Eltern telefonieren 
-- [x] Garten Gruppe 
-- [x] Andreas wegen MMA 
 - [ ] Dusche schrubben 
 - [ ] Glasmüll 
 - [x] rechten flipflop enger machen 
 - [ ] Pflanzen gießen + Teich 
-- [ ] Spülmaschine ausr
-- [ ] backing track Waffenbrüder zusammen stellen und exportieren 
-- [ ] backing track Arthur schicken 
-	- [ ] füsilier 2 
-	- [ ] Waffenbrüder 
+- [ ] Spülmaschine ausräumen 
+- [x] backing track Waffenbrüder zusammen stellen und exportieren 
+- [x] backing track Arthur schicken 
+	- [x] füsilier 2 
+	- [x] Waffenbrüder 
 - [ ] Bettwäsche 
 - [x] Bettdecke waschen 
 - [x] füsilier 2 exportieren 
