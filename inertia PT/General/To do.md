@@ -92,6 +92,7 @@
 - [ ] Pflanzen gießen + Teich 
 - [ ] Spülmaschine ausräumen 
 - [ ] Bettwäsche 
+- [ ] papier kram
 - [ ] Ventilator aufbauen 
 - [ ] neue Hosen nochmal anprobieren und vergleichen 
 - [ ] Kleiderschrank aufräumen
@@ -110,7 +111,6 @@
 	- [ ] Hosentasche der neuen shorts länger machen?
 - [ ] Spülmaschine ausräumen 
 - [ ] schuhe kaufen 
-- [ ] neue kiwis ziehen
 - [ ] Balkontür mit alufolie bekleben
 - [ ] zu duckduckgo wechseln 
 - [ ] sofa dampfen
