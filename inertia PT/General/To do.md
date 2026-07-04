@@ -89,9 +89,9 @@
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Dusche schrubben 
 - [ ] Glasmüll 
-- [ ] Pflanzen gießen + Teich 
+- [x] Pflanzen gießen + Teich 
 - [ ] Spülmaschine ausräumen 
-- [ ] Bettwäsche 
+- [x] Bettwäsche 
 - [ ] papier kram
 - [ ] Maracuja umsetzen 
 - [ ] Kiwi umsetzen 
