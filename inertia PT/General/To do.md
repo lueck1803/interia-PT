@@ -89,6 +89,15 @@
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Dusche schrubben 
 - [ ] Glasmüll 
+- [ ] Zeug auf Motten überprüfen 
+- [ ] was mit Zucchini und Auberginen kochen 
+- [ ] Aldi <font color="#00b0f0">vorher Hosen anprobieren</font> 
+	- [ ] kirscheis 🤭
+	- [ ] Tomatendosen 
+	- [ ] lokosschade
+	- [ ] Käse 
+	- [x] Nudelsoßen 
+	- [ ] Nudeln 
 - [x] Pflanzen gießen + Teich 
 - [ ] Spülmaschine ausräumen 
 - [x] Bettwäsche 
