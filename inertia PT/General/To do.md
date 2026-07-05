@@ -96,7 +96,7 @@
 - [ ] was mit Zucchini und Auberginen kochen 
 - [ ] papier kram
 - [x] Wäsche waschen 
-	- [ ] aufhängen
+	- [x] aufhängen
 - [ ] Maracuja umsetzen 
 - [ ] Kiwi umsetzen 
 - [ ] Ventilator aufbauen 
