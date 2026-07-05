@@ -94,6 +94,7 @@
 - [ ] was mit Zucchini und Auberginen kochen 
 - [ ] Spülmaschine ausräumen 
 - [ ] papier kram
+- [ ] Wäsche waschen 
 - [ ] Maracuja umsetzen 
 - [ ] Kiwi umsetzen 
 - [ ] Ventilator aufbauen 
