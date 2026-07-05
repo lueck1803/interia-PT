@@ -89,6 +89,7 @@
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Dusche schrubben 
 - [ ] Glasmüll 
+- [ ] Brokkoli kochen
 - [ ] Zeug auf Motten überprüfen 
 - [ ] was mit Zucchini und Auberginen kochen 
 - [ ] Spülmaschine ausräumen 
@@ -104,7 +105,6 @@
 - Waschbecken putzen 
 	- [x] Bad 
 	- [ ] Küche 
-- [ ] Bettwäsche wechseln 
 - [ ] grüne Hose zurück bringen, schauen ob es wo anders eine in 50 gibt
 	- [ ] Vergleich mit rosa Hose: die ist zwar auch eng, aber die ist flexibler und damit kann ich mein Bein besser heben
 	- [ ] ne ist eigentlich genauso 
@@ -112,10 +112,8 @@
 	- [ ] Hosentasche der neuen shorts länger machen?
 - [ ] Spülmaschine ausräumen 
 - [ ] schuhe kaufen 
-- [ ] Balkontür mit alufolie bekleben
 - [ ] zu duckduckgo wechseln 
 - [ ] sofa dampfen
-- [ ] Boden wischen
 - [ ] Tisch aufräumen 
 - [ ] Sofa saugen 
 - [ ] Freitag letzte Ferienwoche ist Anfangskonferenz 
