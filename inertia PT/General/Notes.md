@@ -3737,5 +3737,8 @@ Im Gegensatz zu einer Polstelle, bei der sich der Graph einer senkrechten Linie 
 - If you want peace, prepare for war
 - „Wenn du (den) <font color="#92d050">Frieden</font> willst, bereite (den) <font color="#00b0f0">Krieg</font> vor.“
 
+# Dokus
+## the future is wild 
+
 
 
