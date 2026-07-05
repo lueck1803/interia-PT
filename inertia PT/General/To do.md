@@ -87,19 +87,19 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
-- [ ] Dusche schrubben 
 - [ ] Glasmüll 
 - [ ] Brokkoli kochen
+- [ ] Waffenbrüder nochmal exportieren, da ich das solo der lead auf den rechten lautsprecher geschoben habe
 - [ ] Zeug auf Motten überprüfen 
 - [ ] was mit Zucchini und Auberginen kochen 
-- [ ] Spülmaschine ausräumen 
 - [ ] papier kram
 - [x] Wäsche waschen 
+	- [ ] aufhängen
 - [ ] Maracuja umsetzen 
 - [ ] Kiwi umsetzen 
 - [ ] Ventilator aufbauen 
 - [ ] neue Hosen nochmal anprobieren und vergleichen 
-- [ ] Kleiderschrank aufräumen
+- [x] Kleiderschrank aufräumen
 - [ ] Yogamatten auspacken und ausprobieren 
 - [ ] Balkon aufräumen und kehren 
 - [ ] Duschwanne schrubben 
