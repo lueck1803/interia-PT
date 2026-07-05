@@ -91,7 +91,7 @@
 - [ ] Nudeln weg packen 
 - [x] Brokkoli kochen
 	- [ ] weg packen 
-- [ ] Waffenbrüder nochmal exportieren, da ich das solo der lead auf den rechten lautsprecher geschoben habe
+- [x] Waffenbrüder nochmal exportieren, da ich das solo der lead auf den rechten lautsprecher geschoben habe
 - [ ] Zeug auf Motten überprüfen 
 - [ ] was mit Zucchini und Auberginen kochen 
 - [ ] papier kram
