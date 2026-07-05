@@ -3739,6 +3739,10 @@ Im Gegensatz zu einer Polstelle, bei der sich der Graph einer senkrechten Linie 
 
 # Dokus
 ## the future is wild 
+*Wie heißt die dokureihe aus etwa den 00ern, in der eine möglich evolvierte Tierwelt lange nach dem Menschen erdacht wird?*
+*In dieser kommen Oktopusse in Elefanten Größe vor und auch Oktopusse die sich wie affen von baum zu Baum schwingen.*
 
+Die Dokureihe, nach der du suchst, heißt **"The Future is Wild"** (auf Deutsch oft als **"Die Zukunft ist wild"** oder **"Die Tierwelt der Zukunft"** bekannt). Diese Serie aus den frühen 2000ern zeigt eine spekulative, evolvierte Tierwelt lange nach dem Verschwinden des Menschen – darunter auch riesige Oktopusse in Elefantengröße und baumschwingende Oktopusse, die als "Squibbons" bezeichnet werden
+.
 
 
