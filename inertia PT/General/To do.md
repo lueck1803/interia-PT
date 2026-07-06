@@ -88,7 +88,7 @@
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Glasmüll 
-- [ ] linken flipflop 
+- [x] linken flipflop 
 - [x] Waffenbrüder nochmal exportieren, da ich das solo der lead auf den rechten lautsprecher geschoben habe
 - [ ] Zeug auf Motten überprüfen 
 - [ ] was mit Zucchini und Auberginen kochen 
@@ -96,8 +96,9 @@
 - [ ] Maracuja umsetzen 
 - [ ] Kiwi umsetzen 
 - [x] Ventilator aufbauen 
-- [ ] neue Hosen nochmal anprobieren und vergleichen 
-	- [ ] kurze Hose zurück bringen 
+- [x] neue Hosen nochmal anprobieren und vergleichen 
+	- [x] kurze Hose zurück bringen 
+	- ich behalte die grüne lange hose
 - [ ] Yogamatten auspacken und ausprobieren 
 - [ ] Balkon aufräumen und kehren 
 - [ ] Duschwanne schrubben 
