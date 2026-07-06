@@ -3533,7 +3533,7 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 ### G - generative 
 Bots that generate new "text"
 ### P - pre trained
-Refer to the process how tg
+Refers to the process how the model went through a 
 ### T - transformer 
 ## loss function
 In mathematical optimization and decision theory, a loss function or cost function (sometimes also called an error function) is a function that maps an event or values of one or more variables onto a real number intuitively representing some "cost" associated with the event.
