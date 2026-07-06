@@ -102,7 +102,7 @@
 	- [x] kurze Hose zurück bringen 
 	- ich behalte die grüne lange hose
 - [ ] Yogamatten auspacken und ausprobieren 
-- [ ] Balkon aufräumen und kehren 
+- [x] Balkon aufräumen und kehren 
 - [ ] Duschwanne schrubben 
 - Waschbecken putzen 
 	- [x] Bad 
