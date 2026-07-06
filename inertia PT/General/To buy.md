@@ -1,5 +1,6 @@
 - [x] Mundspülung 
 - [ ] toast
+- [ ] steak 🥩 
 - [ ] saft
 - [x] käse
 - [x] Nudelsoßen 
