@@ -24,6 +24,8 @@ In the product description it is written:
 2 Modi (Normal/Nacht) or how it is called in the english manual normal/sleep mode, but why you cannot change the speed in the sleep mode, which is obviously only for switching of the display after a few seconds.
 
 Did I do something wrong or miss something?
+I could send you a short video.
+
 
 Kind regards
 Lukas
