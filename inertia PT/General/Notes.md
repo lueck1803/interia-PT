@@ -10,7 +10,7 @@
 - ich möchte definitiv etwas machen bei dem ich konzentriert und in Ruhe arbeiten kann und nicht so viel reden und erklären muss.
 # Geschäftliche Nachrichten 
 
-## ebay
+## ebay 26-07-06
 Hi,
 I am writing in english since you are operating from poland?
 
