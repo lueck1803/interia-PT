@@ -1,4 +1,4 @@
-- [ ] toast
+- [x] toast
 - [ ] rinder steak 🥩 
 - [ ] saft
 - [x] käse
