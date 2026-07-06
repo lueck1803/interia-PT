@@ -21,7 +21,8 @@ I have a question concering the night mode. This does not have the expected effe
 I think for night even L1 is too strong.
 
 In the product description it is written: 
-2 Modi (Normal/Nacht)
+2 Modi (Normal/Nacht) 
+or how it is called in the english manual (normal/sleep)
 
 ## Christian-Morgenstern-Schule
 Liebes Team der Christian-Morgenstern-Schule,
