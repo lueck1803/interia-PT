@@ -2855,7 +2855,10 @@ Sollte sich rechtes und linkes Abketten direkt folgen und nicht zwei Rechte und 
 ⟹ja viel besser 
 <span style="font-size:120%;color: red;">Fertig</span> 🥳
 
-
+## Freddie hat die Socken erhalten 26-07-05
+Die socken sind ein wenig ein Desaster geworden xD.
+Socken ohne Zwickel sind komisch.
+Die sehen eher aus wie Überschuhe
 
 ## new try / Nadine
 
