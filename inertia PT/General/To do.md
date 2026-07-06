@@ -88,12 +88,10 @@
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Glasmüll 
-- [ ] dünnere Saiten auf schwarze gitarre machen
+- dünnere Saiten auf schwarze gitarre machen
 	- [ ] light jazz
 - [x] weiße Gitarre Pickup hoch drehen 
-	- [ ] weiße Gitarre teste
-- [x] linken flipflop 
-- [x] Waffenbrüder nochmal exportieren, da ich das solo der lead auf den rechten lautsprecher geschoben habe
+	- [ ] weiße Gitarre testen 
 - [ ] Zeug auf Motten überprüfen 
 - [ ] was mit Zucchini und Auberginen kochen 
 - [ ] papier kram
