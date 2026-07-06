@@ -21,8 +21,12 @@ I have a question concering the night mode. This does not have the expected effe
 I think for night even L1 is too strong.
 
 In the product description it is written: 
-2 Modi (Normal/Nacht) 
-or how it is called in the english manual (normal/sleep)
+2 Modi (Normal/Nacht) or how it is called in the english manual normal/sleep mode, but why you cannot change the speed in the sleep mode, which is obviously only for switching of the display after a few seconds.
+
+Did I do something wrong or miss something?
+
+Kind regards
+Lukas
 
 ## Christian-Morgenstern-Schule
 Liebes Team der Christian-Morgenstern-Schule,
