@@ -89,6 +89,8 @@
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Glasmüll 
 - [ ] dünnere Saiten auf schwarze gitarre machen
+	- [ ] light jazz
+- [ ] weiße Gitarre Pickup hoch drehen 
 - [x] linken flipflop 
 - [x] Waffenbrüder nochmal exportieren, da ich das solo der lead auf den rechten lautsprecher geschoben habe
 - [ ] Zeug auf Motten überprüfen 
