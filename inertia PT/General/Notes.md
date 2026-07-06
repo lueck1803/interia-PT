@@ -10,6 +10,19 @@
 - ich möchte definitiv etwas machen bei dem ich konzentriert und in Ruhe arbeiten kann und nicht so viel reden und erklären muss.
 # Geschäftliche Nachrichten 
 
+## ebay
+Hi,
+I am writing in english since you are operating from poland?
+
+Thank you for the fast delivery and the product.
+
+I have a question concering the night mode. This does not have the expected effect. On contrary it isn't weaker in the night mode as I expected, it switches to speed mode L2 fixed, so it is even "stronger" faster. The only effect is that the display turns off after a few seconds, but you cannot change the speed mode.
+
+I think for night even L1 is too strong.
+
+In the product description it is written: 
+2 Modi (Normal/Nacht)
+
 ## Christian-Morgenstern-Schule
 Liebes Team der Christian-Morgenstern-Schule,
 
