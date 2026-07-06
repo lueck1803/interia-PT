@@ -3535,7 +3535,7 @@ Bots that generate new "text"
 ### P - pre trained
 Refers to how the model went through a process of learning from a massive amount of data and the prefix insinuates that there is more room to fine-tune it on specific tasks with additional training.
 ### T - transformer 
-A transformer is a specific kind of neural network,a
+A transformer is a specific kind of neural network, a machine learning model,
 ## loss function
 In mathematical optimization and decision theory, a loss function or cost function (sometimes also called an error function) is a function that maps an event or values of one or more variables onto a real number intuitively representing some "cost" associated with the event.
 
