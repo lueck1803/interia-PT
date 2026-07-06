@@ -88,20 +88,15 @@
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Glasmüll 
-- [x] Nudeln weg packen 
-- [x] Brokkoli kochen
-	- [x] weg packen 
 - [x] Waffenbrüder nochmal exportieren, da ich das solo der lead auf den rechten lautsprecher geschoben habe
 - [ ] Zeug auf Motten überprüfen 
 - [ ] was mit Zucchini und Auberginen kochen 
 - [ ] papier kram
-- [x] Wäsche waschen 
-	- [x] aufhängen
 - [ ] Maracuja umsetzen 
 - [ ] Kiwi umsetzen 
-- [ ] Ventilator aufbauen 
+- [x] Ventilator aufbauen 
 - [ ] neue Hosen nochmal anprobieren und vergleichen 
-- [x] Kleiderschrank aufräumen
+	- [ ] kurze Hose zurück bringen 
 - [ ] Yogamatten auspacken und ausprobieren 
 - [ ] Balkon aufräumen und kehren 
 - [ ] Duschwanne schrubben 
@@ -116,7 +111,7 @@
 - [ ] schuhe kaufen 
 - [ ] zu duckduckgo wechseln 
 - [ ] sofa dampfen
-- [ ] Tisch aufräumen 
+- [x] Tisch aufräumen 
 - [ ] Sofa saugen 
 - [ ] Freitag letzte Ferienwoche ist Anfangskonferenz 
 - [ ] Ordner für Schule anlegen um Zeug abzuheften
