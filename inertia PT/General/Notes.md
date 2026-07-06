@@ -103,7 +103,12 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
-## fredin 26
+## fredin 26-07-06 (nicht abgeschickt )
+Ist echt schlimm dass ich immer noch diese Gedanken bzgl Arooj habe.
+
+Die sind zwar deutlich weniger geworden, aber kommen je nachdem wieder.
+
+Irgendwie verstehe ich es dann manchmal einfach nicht.
 ## 26-07-01 Mail an Arooj wegen spatz
 Huhu, 
 
