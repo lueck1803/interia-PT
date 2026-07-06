@@ -88,6 +88,7 @@
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Glasmüll 
+- [ ] linken flipflop 
 - [x] Waffenbrüder nochmal exportieren, da ich das solo der lead auf den rechten lautsprecher geschoben habe
 - [ ] Zeug auf Motten überprüfen 
 - [ ] was mit Zucchini und Auberginen kochen 
