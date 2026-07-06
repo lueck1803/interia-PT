@@ -3531,6 +3531,7 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 # LLM / machine learning
 ## GPT
 ### G - generative 
+Bots that gen
 ### P - pre trained
 ### T - transformer 
 ## loss function
