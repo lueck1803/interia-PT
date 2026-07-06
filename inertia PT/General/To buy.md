@@ -13,6 +13,7 @@
 - [x] Backpulver 
 - [x] Nusskati 
 - [x] Bolognese soße
+- [x] Mundspülung 
 - [x] Alufolie 
 - [ ] Eiswürfelbehälter 
 - [ ] Unterhemden
