@@ -3537,6 +3537,7 @@ Refers to how the model went through a process of learning from a massive amount
 ### T - transformer 
 A transformer is a specific kind of neural network, a machine learning model, and it's the core invention underlying the massive progress of AI.
 
+## transformer 
 
 ## loss function
 In mathematical optimization and decision theory, a loss function or cost function (sometimes also called an error function) is a function that maps an event or values of one or more variables onto a real number intuitively representing some "cost" associated with the event.
