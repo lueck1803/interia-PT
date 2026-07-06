@@ -1,8 +1,8 @@
 - [x] Mundspülung 
 - [ ] toast
 - [ ] saft
-- [ ] käse
-- [ ] Nudelsoßen 
+- [x] käse
+- [x] Nudelsoßen 
 - [x] Tomaten 
 - [ ] Laufschuhe 
 - [ ] Wanderschuhe 
