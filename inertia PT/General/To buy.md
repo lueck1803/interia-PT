@@ -2,6 +2,7 @@
 - [ ] hummus
 - [ ] kiwi
 - [ ] saft
+- [ ] Steckerleiste 
 - [x] toast
 - [x] käse
 - [x] Nudelsoßen 

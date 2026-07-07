@@ -96,7 +96,7 @@
 - [ ] lampe im Bad tauschen 
 - [ ] pod go wischen 
 - [ ] für Probe packen 
-- [ ] ba
+- [ ] Bauhaus - Steckerleiste 
 - [ ] Glasmüll 
 - dünnere Saiten auf schwarze gitarre machen
 	- [ ] light jazz
