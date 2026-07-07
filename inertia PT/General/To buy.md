@@ -1,8 +1,8 @@
 - [x] rinder steak 🥩
-- [ ] hafermilch
+- [x] hafermilch
 - [ ] hummus
 - [ ] kiwi
-- [ ] saft
+- [x] saft
 - [ ] Steckerleiste 
 	- [ ] 3 fach
 	- [ ] mehrfach 
