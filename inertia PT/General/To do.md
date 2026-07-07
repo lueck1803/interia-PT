@@ -88,6 +88,7 @@
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] sofa richten
+- [ ] staub saugen 
 - [ ] Glasmüll 
 - dünnere Saiten auf schwarze gitarre machen
 	- [ ] light jazz
