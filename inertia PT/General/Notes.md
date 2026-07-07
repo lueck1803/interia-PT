@@ -3822,3 +3822,7 @@ Die Dokureihe, nach der du suchst, heißt **"The Future is Wild"** (auf Deutsch 
 	- ⟹high performers <font color="#7cfc00">reframe</font> 
 	- control the frame ⟹ control the room
 
+- Separating 
+	- what is happening to you 
+	- from who you are 
+
