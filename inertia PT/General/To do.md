@@ -88,8 +88,8 @@
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Decken auf sofa richten
-- [ ] zwei Paprika umsetzen 
-- [ ] große Paprika in topf bei Schnittlauch setzen 
+- [x] zwei Paprika umsetzen 
+- [x] große Paprika in topf bei Schnittlauch setzen 
 - [ ] Schulgarten vorbei schauen 
 - [ ] staub saugen 
 - [ ] teilweise wischen 
@@ -110,8 +110,8 @@
 - [ ] Zeug auf Motten überprüfen 
 - [ ] was mit Zucchini und Auberginen kochen 
 - [ ] papier kram
-- [ ] Maracuja umsetzen 
-- [ ] Kiwi umsetzen 
+- [x] Maracuja umsetzen 
+- [x] Kiwi umsetzen 
 - [x] Ventilator aufbauen 
 - [x] neue Hosen nochmal anprobieren und vergleichen 
 	- [x] kurze Hose zurück bringen 
