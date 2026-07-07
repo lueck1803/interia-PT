@@ -3815,5 +3815,6 @@ Die Dokureihe, nach der du suchst, heißt **"The Future is Wild"** (auf Deutsch 
 	- when you act calm with compassion <font color="#00b050">you can change the room</font>
 	- like playing tennis 
 		- if you served the ball
-		- it is in their court 
+		- ⟹ it is in their court 
+		- 
 
