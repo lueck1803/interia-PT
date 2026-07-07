@@ -11,7 +11,7 @@
 	- ich kann keinem anderen moralisch mein Versagen zu schreiben. Es interessiert auch niemanden 
 	- die Tatsache dass ich Ausreden erfinde ändert meine faktische Situation nicht
 	- eine Ausrede löst weder meine Probleme noch löst sie mein emotionales Joch in Luft auf 
-	- sie wirft
+	- sie wirft lediglich ein Tuch über meine eiternden wunsen
 - alles was sofort erledigt werden kann erledige sofort 
 	- für alles andere durch denke einen Plan den du ausführen kannst wenn sich die Gelegenheit ergibt 
 	- sobald sich die Gelegenheit ergibt ziehe den Plan emotionslos durch
