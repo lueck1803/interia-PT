@@ -90,6 +90,7 @@
 - [ ] Decken auf sofa richten
 - [ ] zwei Paprika umsetzen 
 - [ ] große Paprika in topf bei Schnittlauch setzen 
+- [ ] Schulgarten vorbei schauen 
 - [ ] staub saugen 
 - [ ] teilweise wischen 
 - [ ] ventilator Karton in Keller 
