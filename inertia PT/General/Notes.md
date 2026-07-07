@@ -3820,5 +3820,5 @@ Die Dokureihe, nach der du suchst, heißt **"The Future is Wild"** (auf Deutsch 
 	- ⟹that is leverage: calm is the way to <font color="#ff0000">stop</font> <font color="#c815ff">being high jacked</font> 
 	- most people <font color="#ff0000">react</font> 
 	- ⟹high performers <font color="#7cfc00">reframe</font> 
-	- control the frame ⟹ 
+	- control the frame ⟹ control the room
 
