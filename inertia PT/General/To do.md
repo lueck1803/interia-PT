@@ -8,7 +8,8 @@
 - keine Ausreden mehr
 	- Verantwortung ist <font color="#92d050">absolut</font> für jeden Beteiligten 
 	- ich bin absolut für mein eigenes scheitern oder Vorankommen verantwortlich 
-	- ich kann keinem 
+	- ich kann keinem anderen moralisch mein Versagen zu schreiben. Es interessiert auch niemanden 
+	- die tars
 - alles was sofort erledigt werden kann erledige sofort 
 	- für alles andere durch denke einen Plan den du ausführen kannst wenn sich die Gelegenheit ergibt 
 	- sobald sich die Gelegenheit ergibt ziehe den Plan emotionslos durch
