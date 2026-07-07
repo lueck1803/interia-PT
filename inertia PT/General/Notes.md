@@ -3300,6 +3300,17 @@ This far exceeds typical convective rates for the same area.
 - ![](Pasted%20image%2020251205205458.png)
 
 # Musik
+## Tuning
+==In der **D-Standard-Stimmung** (D-G-C-F-A-D) wird die Gitarre um einen Ganzton (zwei Halbtöne) tiefer gestimmt als in der Standardstimmung==. [[1](https://guitarwiz.app/articles/d-standard-tuning-guitar/)]
+
+Die Frequenzen der einzelnen Saiten (ausgehend vom weit verbreiteten Kammerton A = 440 Hz) lauten: [[1](https://www.quora.com/What-Hz-432-440-etc-would-you-recommend-for-a-guitarist-who-often-plays-in-D-standard-C-drop-tuning)]
+
+- **6. Saite (tiefes D):** D₂ = 73,42 Hz
+- **5. Saite:** G₂ = 98,00 Hz
+- **4. Saite:** C₃ = 130,81 Hz
+- **3. Saite:** F₃ = 174,61 Hz
+- **2. Saite:** A₃ = 220,00 Hz
+- **1. Saite (hohes D):** D₄ = 293,66 Hz [[1](https://guitartuner.io/tuning/d-standard)]
 ## Kalmah
 ### swamphell
 #### solo2 triolen
