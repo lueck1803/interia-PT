@@ -3811,6 +3811,6 @@ Die Dokureihe, nach der du suchst, heißt **"The Future is Wild"** (auf Deutsch 
 	- act <font color="#00b0f0">once</font> <font color="#92d050">clearly</font> <font color="#e36c09">without emotional baggage</font> 
 	- one clear action 
 	- one clean sentence 
-	- when you finally move <font color="#ffc000">it should set the tone </font> 
-	- 
+	- when you finally move <font color="#ffc000">it should set the <u>tone</u> </font> 
+	- when you act calm with comp
 
