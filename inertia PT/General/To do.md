@@ -93,6 +93,8 @@
 - [ ] ventilator Karton in Keller 
 - [ ] Wäsche abhängen 
 - [ ] Aldi 
+- [ ] lampe im Bad tauschen 
+- [ ] pod go wisch
 - [ ] Glasmüll 
 - dünnere Saiten auf schwarze gitarre machen
 	- [ ] light jazz
