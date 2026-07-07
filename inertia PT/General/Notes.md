@@ -3796,7 +3796,8 @@ Die Dokureihe, nach der du suchst, heißt **"The Future is Wild"** (auf Deutsch 
 - **<u>A</u>** absorb the hit
 	- when pressure hits you may not prevent the first spike 
 	- ⤷but you can control what happens next
-	- you don't take abuse silently, but let it land 
+	- you don't take abuse silently, but let it land without returning fire
+	- 
 - **<u>L</u>** lower the stakes
 	- 
 - **<u>M</u>** move decisively 
