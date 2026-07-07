@@ -3831,3 +3831,4 @@ Die Dokureihe, nach der du suchst, heißt **"The Future is Wild"** (auf Deutsch 
 	- not enduring the storm
 	- realizing:
 	- ⤷the only storm that matters is the one inside of you
+	- calm that storm and the rest gets quieter 
