@@ -3791,6 +3791,7 @@ Die Dokureihe, nach der du suchst, heißt **"The Future is Wild"** (auf Deutsch 
 - ask for <font color="#7cfc00">clarification</font> <font color="#ff0000">before</font> make <font color="#e36c09">assumptions</font> 
 ## CALM
 - **<u>C</u>** control the frame
+	- is this thread real or just loud
 - **<u>A</u>** absorb the hit
 - **<u>L</u>** lower the stakes
 - **<u>M</u>** move decisively 
