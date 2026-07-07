@@ -3,6 +3,9 @@
 - [ ] kiwi
 - [ ] saft
 - [ ] Steckerleiste 
+	- [ ] 3 fach
+	- [ ] mehrfach 
+- [ ] destilliertes Wasser 
 - [x] toast
 - [x] käse
 - [x] Nudelsoßen 
