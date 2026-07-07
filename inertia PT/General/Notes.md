@@ -3827,5 +3827,7 @@ Die Dokureihe, nach der du suchst, heißt **"The Future is Wild"** (auf Deutsch 
 	- from <font color="#00b0f0">who you are </font> 
 - who can conquers the world? 
 	- the one who can conquers the mind
-- recilli
+- resilience is
+	- not enduring the storm
+	- realizing 
 - the only storm that matters is the one inside of you
