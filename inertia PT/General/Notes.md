@@ -3799,7 +3799,7 @@ Die Dokureihe, nach der du suchst, heißt **"The Future is Wild"** (auf Deutsch 
 	- you <u>don't take abuse silently</u>, but <font color="#00fa9a">let it land </font><font color="#c00000">without</font> <font color="#ffff00">returning fire</font>
 	- ⤷then <u>reorient</u>: see the pressure building as raw data ⟹ down shift it
 	- reduce it to physics it's just sound waves not a verdict (Gerichtsurteil)
-	- <font color="#00b050">focus on the message</font> and the intention and
+	- <font color="#ff1493">focus</font> on the <font color="#00b050">message</font> and the <font color="#00b0f0">intention</font>, <font color="#ff0000">without</font> <font color="#ffff00">absorbing the heat</font> 
 - **<u>L</u>** lower the stakes
 	- 
 - **<u>M</u>** move decisively 
