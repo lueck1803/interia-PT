@@ -3809,4 +3809,7 @@ Die Dokureihe, nach der du suchst, heißt **"The Future is Wild"** (auf Deutsch 
 	- ask for <font color="#7cfc00">clarification</font> <font color="#ff0000">before</font> make <font color="#e36c09">assumptions</font> 
 - **<u>M</u>** move decisively 
 	- act <font color="#00b0f0">once</font> <font color="#92d050">clearly</font> <font color="#e36c09">without emotional baggage</font> 
+	- one clear action 
+	- one clear sentence 
+	- when your
 
