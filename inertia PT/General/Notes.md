@@ -3802,7 +3802,7 @@ Die Dokureihe, nach der du suchst, heißt **"The Future is Wild"** (auf Deutsch 
 	- <font color="#ff1493">focus</font> on the <font color="#00b050">message</font> and the <font color="#00b0f0">intention</font>, <font color="#ff0000">without</font> <font color="#ffff00">absorbing the heat</font> ⟹keep beeing present
 	- give the brain those few seconds to get back online
 - **<u>L</u>** lower the stakes
-	- remind yourself this is a conversation or a discussion 
+	- remind yourself this is a conversation or a discussion or an argument↛ there is no bear charging at
 - **<u>M</u>** move decisively 
 	- act <font color="#00b0f0">once</font> <font color="#92d050">clearly</font> <font color="#e36c09">without emotional baggage</font> 
 
