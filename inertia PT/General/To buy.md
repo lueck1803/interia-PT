@@ -1,6 +1,6 @@
 - [x] rinder steak 🥩
 - [x] hafermilch
-- [ ] hummus
+- [x] hummus
 - [ ] kiwi
 - [x] saft
 - [ ] Steckerleiste 
