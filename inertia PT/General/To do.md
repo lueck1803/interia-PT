@@ -12,7 +12,8 @@
 	- die Tatsache dass ich Ausreden erfinde ändert meine faktische Situation nicht
 	- eine Ausrede löst weder meine Probleme noch löst sie mein emotionales Joch in Luft auf 
 	- sie wirft lediglich ein schmutziges Tuch über meine eiternden Wunden 
-	- schwatze so lange du
+	- schwatze so lange du willst, jammere so lange du willst 
+	- an 
 - alles was sofort erledigt werden kann erledige sofort 
 	- für alles andere durch denke einen Plan den du ausführen kannst wenn sich die Gelegenheit ergibt 
 	- sobald sich die Gelegenheit ergibt ziehe den Plan emotionslos durch
