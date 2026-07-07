@@ -105,6 +105,7 @@
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Decken auf sofa richten
+- [ ] entrecôte mit Zwiebeln und Pfeffer braten 
 - [ ] linken flipflop reparieren 
 - [ ] Schulgarten vorbei schauen 
 - [ ] gitarrengurt schwarze Gitarre 
