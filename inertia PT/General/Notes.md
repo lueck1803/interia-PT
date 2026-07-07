@@ -103,6 +103,26 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+## Arthur 2026-07-07
+[7.7., 13:27] Lukas Walter: Wie findest du hier die vocals?
+
+Ich hab versucht es gleichbleibender zu machen.
+
+Beim intro probiere ich gerade noch mit dem Anschlag und der Pickup Wahl.
+
+Das ist hier nicht so gut
+[7.7., 13:29] Lukas Walter: Ok 😅 in der 2. Strophe hat das nicht ganz so geklappt zb. Langemark, habe ich zu stark betont
+[7.7., 13:31] Lukas Walter: Ok und in der Bridge bin ich aus den vocals raus gerutscht.
+Da ich mit der Gitarre aus dem Timing gefallen bin 😅.
+
+Hab ich auch schon besser hinbekommen.
+
+Aber das wird noch.
+[7.7., 13:32] Lukas Walter: Ich bin aber doch erstaunt dass das Timing in der Strophe und die Gitarre jetzt recht gut sitzt.
+[7.7., 13:32] Lukas Walter: Ich hab mit der weißen Gitarre gespielt
+[7.7., 13:43] Lukas Walter: Bridge und solo
+
+Ich bin immer etwas von der Pause vor dem solo überrascht
 ## fredin 26-07-06 (nicht abgeschickt )
 Ist echt schlimm dass ich immer noch diese Gedanken bzgl Arooj habe.
 
