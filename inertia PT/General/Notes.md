@@ -3794,4 +3794,5 @@ Die Dokureihe, nach der du suchst, heißt **"The Future is Wild"** (auf Deutsch 
 - **<u>A</u>** absorb the hit
 - **<u>L</u>** lower the stakes
 - **<u>M</u>** move decisively 
+	- act <font color="#ff0000">once</font> <font color="#92d050">clearly</font> 
 
