@@ -3816,5 +3816,5 @@ Die Dokureihe, nach der du suchst, heißt **"The Future is Wild"** (auf Deutsch 
 	- like playing tennis 
 		- if you served the ball
 		- ⟹ it is in their court 
-		- 
+		- ⤷they have to respond to your calm
 
