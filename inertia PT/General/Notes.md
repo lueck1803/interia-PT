@@ -1919,7 +1919,7 @@ $\Braket{\frac{x}{y}^{2}\cdot x^{2}}$
 
 # MacOS
 - ↖ - fn + ⇽
-- ↗ - fn + 
+- ↗ - fn + ⇾
 
 ## [Auto-resizing columns in Finder](https://forums.realmacsoftware.com/t/auto-resizing-columns-in-finder/52435)
 Just open up Terminal on your Mac, copy in the below, and press return.
