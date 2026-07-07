@@ -3797,7 +3797,7 @@ Die Dokureihe, nach der du suchst, heißt **"The Future is Wild"** (auf Deutsch 
 	- when pressure hits you may not prevent the first spike 
 	- ⤷but you can control what happens next
 	- you <u>don't take abuse silently</u>, but <font color="#00fa9a">let it land </font><font color="#c00000">without</font> <font color="#ffff00">returning fire</font>
-	- ⤷then <u>reorient</u>: see the pressure building as raw da
+	- ⤷then <u>reorient</u>: see the pressure building as raw data ⟹ down shift it
 - **<u>L</u>** lower the stakes
 	- 
 - **<u>M</u>** move decisively 
