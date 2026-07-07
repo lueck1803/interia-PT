@@ -90,6 +90,7 @@
 - [ ] sofa richten
 - [ ] staub saugen 
 - [ ] teilweise wischen 
+- [ ] ventilator Karton in Keller 
 - [ ] Glasmüll 
 - dünnere Saiten auf schwarze gitarre machen
 	- [ ] light jazz
