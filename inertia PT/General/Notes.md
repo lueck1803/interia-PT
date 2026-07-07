@@ -3817,5 +3817,7 @@ Die Dokureihe, nach der du suchst, heißt **"The Future is Wild"** (auf Deutsch 
 		- if you served the ball
 		- ⟹ it is in their court 
 		- ⤷they have to respond to your calm
-	- ⟹that is leverage: calm is the way to <font color="#ff0000">stop</font> <font color="#c815ff">being high jacked</font>
+	- ⟹that is leverage: calm is the way to <font color="#ff0000">stop</font> <font color="#c815ff">being high jacked</font> 
+	- most people react 
+	- 
 
