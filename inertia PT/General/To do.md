@@ -7,7 +7,7 @@
 	- befreie dich oder gehe zu Grunde 
 - keine Ausreden mehr
 	- Verantwortung ist <font color="#92d050">absolut</font> für jeden Beteiligten 
-	- ich bin absolut 
+	- ich bin absolut für mein eigenes scheitern oder Vorankommen verantwortlich 
 - alles was sofort erledigt werden kann erledige sofort 
 	- für alles andere durch denke einen Plan den du ausführen kannst wenn sich die Gelegenheit ergibt 
 	- sobald sich die Gelegenheit ergibt ziehe den Plan emotionslos durch
