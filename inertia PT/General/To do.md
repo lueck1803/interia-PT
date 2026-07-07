@@ -87,6 +87,7 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
+- [ ] sofa richten
 - [ ] Glasmüll 
 - dünnere Saiten auf schwarze gitarre machen
 	- [ ] light jazz
