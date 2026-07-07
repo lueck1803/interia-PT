@@ -89,7 +89,7 @@
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Decken auf sofa richten
 - [ ] zwei Paprika umsetzen 
-- [ ] 
+- [ ] große Paprika in topf bei Schnittlauch setzen 
 - [ ] staub saugen 
 - [ ] teilweise wischen 
 - [ ] ventilator Karton in Keller 
