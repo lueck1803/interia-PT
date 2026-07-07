@@ -94,7 +94,9 @@
 - [ ] Wäsche abhängen 
 - [ ] Aldi 
 - [ ] lampe im Bad tauschen 
-- [ ] pod go wisch
+- [ ] pod go wischen 
+- [ ] für Probe packen 
+- [ ] ba
 - [ ] Glasmüll 
 - dünnere Saiten auf schwarze gitarre machen
 	- [ ] light jazz
