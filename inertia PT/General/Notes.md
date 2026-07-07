@@ -3804,7 +3804,7 @@ Die Dokureihe, nach der du suchst, heißt **"The Future is Wild"** (auf Deutsch 
 - **<u>L</u>** lower the stakes
 	- remind yourself this is a conversation or a discussion or an argument
 	- ↛ there is no bear charging at you
-	- ↛
+	- ↛ not a personal thread 
 - **<u>M</u>** move decisively 
 	- act <font color="#00b0f0">once</font> <font color="#92d050">clearly</font> <font color="#e36c09">without emotional baggage</font> 
 
