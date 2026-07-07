@@ -4,6 +4,8 @@
 # Mantra
 ## oberste Priorität:
 - ich will <font color="#ff0000">kein</font> <font color="#7cfc00">sklave</font> mehr sein
+- keine Ausreden mehr
+- 
 - Verantwortung ist <font color="#92d050">absolut</font> für jeden Beteiligten 
 - <font color="#ff1493">stay away</font> from Islam 
 - halte dich von den Problemen <font color="#e36c09">Anderer</font> und der <font color="#31859b">Welt</font> <font color="#ff0000">fern</font> 
