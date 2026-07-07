@@ -15,7 +15,7 @@
 	- schwatze so lange du willst, jammere so lange du willst 
 	- an der Absolutät meiner Verantwortung ändert sich nichts, niemand wird mich retten, nur ich kann mich retten
 	- Fatalismus beschreibt sämtliche Phänomene, aber diktiert keine konkreten Handlungen, alle Gegebenheiten sind auf inhaltlicher ebene mit dem Fatalismus vereinbar und nicht vereinbar, Fatalismus ist keine gültige Ausflucht
-	- das einzige was zählt
+	- das einzige was zählt ist: wer tut heute 
 - alles was sofort erledigt werden kann erledige sofort 
 	- für alles andere durch denke einen Plan den du ausführen kannst wenn sich die Gelegenheit ergibt 
 	- sobald sich die Gelegenheit ergibt ziehe den Plan emotionslos durch
