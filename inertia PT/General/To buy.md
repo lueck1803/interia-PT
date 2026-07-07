@@ -1,6 +1,8 @@
-- [x] toast
-- [ ] rinder steak 🥩 
+- [ ] rinder steak 🥩
+- [ ] hummus
+- [ ] kiwi
 - [ ] saft
+- [x] toast
 - [x] käse
 - [x] Nudelsoßen 
 - [x] Tomaten 
