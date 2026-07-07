@@ -3,7 +3,7 @@
 - ohr eincremen /Teebaumöl test
 # Mantra
 ## oberste Priorität:
-- ich will <font color="#ff0000">kein</font> <font color="#ff0000">sklave</font> mehr sein
+- ich will <font color="#ff0000">kein</font> <font color="#7cfc00">sklave</font> mehr sein
 - <font color="#ff1493">stay away</font> from Islam 
 - halte dich von den Problemen <font color="#e36c09">Anderer</font> und der <font color="#31859b">Welt</font> <font color="#ff0000">fern</font> 
 - lass dich <font color="#ff0000">nicht</font> triggern, in Dinge hineinziehen und manipulieren 
