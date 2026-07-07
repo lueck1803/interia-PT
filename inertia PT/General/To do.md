@@ -93,7 +93,7 @@
 - [ ] Schulgarten vorbei schauen 
 - [ ] gitarrengurt schwarze Gitarre 
 - [ ] staub saugen 
-- [ ] teilweise wischen 
+- [x] teilweise wischen 
 - [ ] ventilator Karton in Keller 
 - [ ] Wäsche abhängen 
 - [ ] Aldi 
@@ -105,9 +105,10 @@
 	- [ ] destilliertes Wasser 
 - [ ] Glasmüll 
 - dünnere Saiten auf schwarze gitarre machen
-	- [ ] light jazz
+	- [x] light jazz
+	- [ ] rest Saiten abknipsen
 - [x] weiße Gitarre Pickup hoch drehen 
-	- [ ] weiße Gitarre testen 
+	- [x] weiße Gitarre testen 
 - [ ] Zeug auf Motten überprüfen 
 - [ ] was mit Zucchini und Auberginen kochen 
 - [ ] papier kram
