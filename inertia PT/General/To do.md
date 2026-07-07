@@ -91,6 +91,7 @@
 - [x] zwei Paprika umsetzen 
 - [x] große Paprika in topf bei Schnittlauch setzen 
 - [ ] Schulgarten vorbei schauen 
+- [ ] gitarrengurt schwarze Gitarre 
 - [ ] staub saugen 
 - [ ] teilweise wischen 
 - [ ] ventilator Karton in Keller 
