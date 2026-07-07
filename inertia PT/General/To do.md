@@ -95,7 +95,7 @@
 - [ ] staub saugen 
 - [x] teilweise wischen 
 - [ ] ventilator Karton in Keller 
-- [ ] Wäsche abhängen 
+- [x] Wäsche abhängen 
 - [ ] Aldi 
 - [ ] lampe im Bad tauschen 
 - [ ] pod go wischen 
