@@ -1,4 +1,4 @@
-- [ ] rinder steak 🥩
+- [x] rinder steak 🥩
 - [ ] hafermilch
 - [ ] hummus
 - [ ] kiwi
