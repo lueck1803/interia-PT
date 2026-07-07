@@ -14,7 +14,7 @@
 	- sie wirft lediglich ein schmutziges Tuch über meine eiternden Wunden 
 	- schwatze so lange du willst, jammere so lange du willst 
 	- an der Absolutät meiner Verantwortung ändert sich nichts, niemand wird mich retten, nur ich kann mich retten
-	- fatsli
+	- Fatalismus beschreibt sämtliche 
 - alles was sofort erledigt werden kann erledige sofort 
 	- für alles andere durch denke einen Plan den du ausführen kannst wenn sich die Gelegenheit ergibt 
 	- sobald sich die Gelegenheit ergibt ziehe den Plan emotionslos durch
