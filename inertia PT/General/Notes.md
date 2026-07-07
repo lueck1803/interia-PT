@@ -3810,6 +3810,7 @@ Die Dokureihe, nach der du suchst, heißt **"The Future is Wild"** (auf Deutsch 
 - **<u>M</u>** move decisively 
 	- act <font color="#00b0f0">once</font> <font color="#92d050">clearly</font> <font color="#e36c09">without emotional baggage</font> 
 	- one clear action 
-	- one clear sentence 
-	- when you finally move <font color="#ffc000">it should set the time l tone </font> 
+	- one clean sentence 
+	- when you finally move <font color="#ffc000">it should set the tone </font> 
+	- 
 
