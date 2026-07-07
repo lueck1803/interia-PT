@@ -88,6 +88,7 @@
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Decken auf sofa richten
+- [ ] linken flipflop reparieren 
 - [x] zwei Paprika umsetzen 
 - [x] große Paprika in topf bei Schnittlauch setzen 
 - [ ] Schulgarten vorbei schauen 
