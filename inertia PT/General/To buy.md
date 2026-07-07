@@ -1,4 +1,5 @@
 - [ ] rinder steak 🥩
+- [ ] hafermilch
 - [ ] hummus
 - [ ] kiwi
 - [ ] saft
@@ -35,7 +36,6 @@
 - [ ] tofu 
 	- momentan nicht im Sortiment 
 - [x] pizza
-- [x] hafermilch
 - [x] Schmelzkäse Scheiben 
 - [x] grüne Oliven 
 - [x] Pesto 
