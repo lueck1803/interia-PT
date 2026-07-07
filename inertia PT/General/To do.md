@@ -103,7 +103,7 @@
 - [ ] Bauhaus 
 	- [ ] Steckerleiste 
 	- [ ] destilliertes Wasser 
-- [ ] Glasmüll 
+- [x] Glasmüll 
 - dünnere Saiten auf schwarze gitarre machen
 	- [x] light jazz
 	- [ ] rest Saiten abknipsen
