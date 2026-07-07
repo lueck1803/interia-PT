@@ -3787,4 +3787,7 @@ Im Gegensatz zu einer Polstelle, bei der sich der Graph einer senkrechten Linie 
 
 Die Dokureihe, nach der du suchst, heißt **"The Future is Wild"** (auf Deutsch oft als **"Die Zukunft ist wild"** oder **"Die Tierwelt der Zukunft"** bekannt). Diese Serie aus den frühen 2000ern zeigt eine spekulative, evolvierte Tierwelt lange nach dem Verschwinden des Menschen – darunter auch riesige Oktopusse in Elefantengröße und baumschwingende Oktopusse, die als "Squibbons" bezeichnet werden.
 
+# Verhalten/Behavior 
+- ask for <font color="#7cfc00">clarification</font> <font color="#ff0000">before</font> make <font color="#e36c09">assumptions</font> 
+
 
