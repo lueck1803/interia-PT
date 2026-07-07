@@ -64,6 +64,7 @@
 	- wenn es so einen mal wieder im aldi gibt
 - [ ] Staubsauger Bürstenaufsatz 
 - [ ] Basecap/Hut
+- [ ] große flache 
 # non food
 - [ ] kleinen Schneebesen 
 - [ ] Plastik Plättchen zum tür öffnen -> pet Flasche 
