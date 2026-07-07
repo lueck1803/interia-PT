@@ -3790,5 +3790,5 @@ Die Dokureihe, nach der du suchst, heißt **"The Future is Wild"** (auf Deutsch 
 # Verhalten/Behavior 
 - ask for <font color="#7cfc00">clarification</font> <font color="#ff0000">before</font> make <font color="#e36c09">assumptions</font> 
 ## CALM
-- 
+- **C** control the frame
 
