@@ -3805,6 +3805,7 @@ Die Dokureihe, nach der du suchst, heißt **"The Future is Wild"** (auf Deutsch 
 	- remind yourself this is a conversation or a discussion or an argument
 	- ↛ there is no bear charging at you
 	- ↛ not a personal thread 
+	- just because they are triggered doesn't mean you have to be 
 - **<u>M</u>** move decisively 
 	- act <font color="#00b0f0">once</font> <font color="#92d050">clearly</font> <font color="#e36c09">without emotional baggage</font> 
 
