@@ -87,8 +87,8 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
-- [ ] sofa richten
-- [ ] Paprika 
+- [ ] Decken auf sofa richten
+- [ ] Paprika umsetzen 
 - [ ] staub saugen 
 - [ ] teilweise wischen 
 - [ ] ventilator Karton in Keller 
