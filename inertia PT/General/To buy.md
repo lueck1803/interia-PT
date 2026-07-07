@@ -1,7 +1,7 @@
 - [x] rinder steak 🥩
 - [x] hafermilch
 - [x] hummus
-- [ ] kiwi
+- [x] kiwi
 - [x] saft
 - [ ] Steckerleiste 
 	- [ ] 3 fach

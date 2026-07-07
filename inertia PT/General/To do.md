@@ -96,7 +96,6 @@
 - [x] teilweise wischen 
 - [ ] ventilator Karton in Keller 
 - [x] Wäsche abhängen 
-- [ ] Aldi 
 - [ ] lampe im Bad tauschen 
 - [ ] pod go wischen 
 - [ ] für Probe packen 
@@ -124,11 +123,11 @@
 - Waschbecken putzen 
 	- [x] Bad 
 	- [ ] Küche 
-- [ ] grüne Hose zurück bringen, schauen ob es wo anders eine in 50 gibt
-	- [ ] Vergleich mit rosa Hose: die ist zwar auch eng, aber die ist flexibler und damit kann ich mein Bein besser heben
-	- [ ] ne ist eigentlich genauso 
-	- [ ] und die ist weiter als meine rote glänzende. Ich bin einfach dick geworden 
-	- [ ] Hosentasche der neuen shorts länger machen?
+- [x] grüne Hose zurück bringen, schauen ob es wo anders eine in 50 gibt
+	- [x] Vergleich mit rosa Hose: die ist zwar auch eng, aber die ist flexibler und damit kann ich mein Bein besser heben
+	- [x] ne ist eigentlich genauso 
+	- [x] und die ist weiter als meine rote glänzende. Ich bin einfach dick geworden 
+	- [x] Hosentasche der neuen shorts länger machen?
 - [ ] schuhe kaufen 
 - [ ] zu duckduckgo wechseln 
 - [ ] sofa dampfen
