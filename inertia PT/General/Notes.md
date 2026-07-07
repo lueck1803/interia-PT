@@ -3829,5 +3829,5 @@ Die Dokureihe, nach der du suchst, heißt **"The Future is Wild"** (auf Deutsch 
 	- the one who can conquers the mind
 - resilience is
 	- not enduring the storm
-	- realizing 
-- the only storm that matters is the one inside of you
+	- realizing:
+	- ⤷the only storm that matters is the one inside of you
