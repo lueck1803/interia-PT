@@ -3792,9 +3792,9 @@ Die Dokureihe, nach der du suchst, heißt **"The Future is Wild"** (auf Deutsch 
 ## CALM
 - **<u>C</u>** control the frame
 	- is this threat real or just loud?
-	- naming what is actually at stake
+	- control the frame by naming what is actually at stake, label it
 - **<u>A</u>** absorb the hit
-	- 
+	- when press
 - **<u>L</u>** lower the stakes
 - **<u>M</u>** move decisively 
 	- act <font color="#00b0f0">once</font> <font color="#92d050">clearly</font> <font color="#e36c09">without emotional baggage</font> 
