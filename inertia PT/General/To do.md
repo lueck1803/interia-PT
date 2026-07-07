@@ -88,7 +88,8 @@
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Decken auf sofa richten
-- [ ] Paprika umsetzen 
+- [ ] zwei Paprika umsetzen 
+- [ ] 
 - [ ] staub saugen 
 - [ ] teilweise wischen 
 - [ ] ventilator Karton in Keller 
