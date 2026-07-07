@@ -3813,5 +3813,7 @@ Die Dokureihe, nach der du suchst, heißt **"The Future is Wild"** (auf Deutsch 
 	- one clean sentence 
 	- when you finally move <font color="#ffc000">it should set the <u>tone</u> </font> 
 	- when you act calm with compassion <font color="#00b050">you can change the room</font>
-	- like playing 
+	- like playing tennis 
+		- if you served the ball
+		- it is in their court 
 
