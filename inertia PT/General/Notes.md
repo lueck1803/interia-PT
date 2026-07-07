@@ -3792,6 +3792,7 @@ Die Dokureihe, nach der du suchst, heißt **"The Future is Wild"** (auf Deutsch 
 ## CALM
 - **<u>C</u>** control the frame
 	- is this threat real or just loud?
+	- naming what is actually at stake
 - **<u>A</u>** absorb the hit
 	- 
 - **<u>L</u>** lower the stakes
