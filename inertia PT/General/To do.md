@@ -109,6 +109,7 @@
 - [ ] tinte Drucker tauschen/füllen da Streifen zu sehen sind
 	- [ ] alle Patronen auf Nachfüllpack tauschen 
 - [ ] Decken auf sofa richten
+- [ ] karto
 - [ ] entrecôte mit Zwiebeln und Pfeffer braten 
 - [ ] linken flipflop reparieren 
 - [ ] Schulgarten vorbei schauen 
