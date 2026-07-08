@@ -104,6 +104,7 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
+- [ ] lila isolierflasche in die Spülmaschine 
 - [ ] Decken auf sofa richten
 - [ ] entrecôte mit Zwiebeln und Pfeffer braten 
 - [ ] linken flipflop reparieren 
