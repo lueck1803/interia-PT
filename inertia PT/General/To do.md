@@ -104,6 +104,7 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
+- [ ] Spannung vom Spannstab nehmen 
 - [ ] lila isolierflasche in die Spülmaschine 
 - [ ] tinte Drucker tauschen/füllen da Streifen zu sehen sind
 - [ ] Decken auf sofa richten
