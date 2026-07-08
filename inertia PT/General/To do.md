@@ -107,6 +107,7 @@
 - [ ] Spannung vom Spannstab nehmen 
 - [ ] lila isolierflasche in die Spülmaschine 
 - [ ] tinte Drucker tauschen/füllen da Streifen zu sehen sind
+	- [ ] alle Patronen auf Nachfüllpack tauschen 
 - [ ] Decken auf sofa richten
 - [ ] entrecôte mit Zwiebeln und Pfeffer braten 
 - [ ] linken flipflop reparieren 
