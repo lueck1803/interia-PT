@@ -105,7 +105,7 @@
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] lila isolierflasche in die Spülmaschine 
-- [ ] tinte Drucker tauschen/füllen da 
+- [ ] tinte Drucker tauschen/füllen da Streifen zu sehen sind
 - [ ] Decken auf sofa richten
 - [ ] entrecôte mit Zwiebeln und Pfeffer braten 
 - [ ] linken flipflop reparieren 
