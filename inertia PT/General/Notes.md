@@ -1571,7 +1571,7 @@ Meine Fragen dazu sind:
 - 
 # Tage infolge Produktiv
 Tage produktiv gewesen:
-||
+|||
 
 
 
@@ -2316,6 +2316,7 @@ Some wanted their old territories back. But since the 2+4 treaties all claims we
 In the last years with the rise of the AfD more people speak out loud that their ancestors were from these eastern territories.
 
 Like Björn Höcke who's grandparents stayed in Königsberg rather than survive.
+
 ---
 
 Btw. My post you are referring to was not completely serious 😅.
