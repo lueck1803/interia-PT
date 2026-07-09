@@ -2298,6 +2298,7 @@ Mir tut auch Micro "Fehlverhalten" leid. Auch wenn sie das auch macht.
 Manchmal hatte sie dann auch so das Gefühl so schlecht behandelt zu werden, hat dabei aber null auf ihr micro Verhalten geachtet.
 
 # yt Kommentare
+
 ## 26-06-30
 @Fanboy1222 oh dann hast du das osmanische Reich vergessen, das mogulreich, den ostafrikanischen Sklavenhandel, den Sklavenhandel der Korsaren. Die islamische Expansion.
 Den Konflikt mit Israel... Ging und geht von den Arabern aus. Siehe dazu al huseini und die komplette story der nakbah

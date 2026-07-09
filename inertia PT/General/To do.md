@@ -105,7 +105,7 @@
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] äpfel waschen 
-- [ ] Trivium verschieben 
+- [x] reorder presets
 - [ ] Staubsauger Schlauch Verstopfung 
 - [ ] nocturnal fire tab anschauen - bass line 
 - [ ] teller Aldi 29,5 cm
