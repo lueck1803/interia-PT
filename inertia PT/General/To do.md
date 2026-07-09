@@ -107,6 +107,7 @@
 - [ ] äpfel waschen 
 - [ ] Staubsauger Schlauch Verstopfung 
 - [ ] nocturnal fire tab anschauen - bass line 
+- [ ] bei Musikhaus Arnold vorbei schauen wegen Bridge 
 - [x] Paprika einpflanzen 
 - [ ] Duschen
 - [x] gießen 
