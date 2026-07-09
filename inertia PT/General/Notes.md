@@ -2988,7 +2988,19 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 ## Korrekturen in meinem Ausdruck 
 ### 2026-07-09 eBay Antwort 
 
+Hey 👋,
+No a complete refund isn't necessary.
+I keep the product. It meets my expectations in all other cases.
 
+Sending the product back isn't the appropriate solution.
+
+I wanted to know if, I misused the product, had a misunderstanding or a wrong expectation about it's behavior.
+
+Thanks for clarifying this, that my expectation in the behavior of the product was correct and it has probably a malfunction.
+
+I can live with it. 😄
+--
+Ist das Englisch des Textes korrekt?
 
 Dein Englisch ist schon sehr gut und verständlich! Hier sind ein paar kleine Korrekturen und Optimierungen, um es noch natürlicher und flüssiger klingen zu lassen:
 
