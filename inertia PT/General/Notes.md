@@ -1937,6 +1937,18 @@ flowchart TB
 $\Braket{\int \frac{ \partial r }{ \partial t }^{2} \, dx}$
 $\Braket{\frac{x}{y}^{2}\cdot x^{2}}$
 
+# Audacity
+To split an audio clip in [Audacity](https://www.audacityteam.org/), simply ==click on the waveform to position the playhead, and press **Ctrl+I** (Windows) or **Cmd+I** (Mac)==. This instantly cuts the clip in two, allowing you to move, delete, or edit the pieces independently. [1](https://www.audacityteam.org/features/split/), [2](https://filmstro.com/blog/join-and-split-audio-in-audacity/), [3](https://www.swellai.com/blog/how-to-split-audio-on-audacity), [4](https://crumplepop.com/how-to-split-tracks-in-audacity/)
+
+Methods to Split Clips
+
+- **Shortcut Method:** Place the cursor where you want to split and press **Ctrl+I** (Windows) or **Cmd+I** (Mac).
+- **Menu Method:** Click the exact point in your waveform, then navigate to **Edit > Audio Clips > Split**.
+- **Right-Click Method:** Select a region or place your cursor, right-click the waveform, and select **Split Clip**. [1](https://manual.audacityteam.org/man/edit_menu_clip_boundaries.html), [2](https://manual.audacityteam.org/man/audacity_tracks_and_clips.html), [3](https://www.audacityteam.org/features/split/), [4](https://filmstro.com/blog/join-and-split-audio-in-audacity/), [5](https://crumplepop.com/how-to-split-tracks-in-audacity/)
+
+What Happens When You Split
+
+When you split a clip, no audio is deleted. Instead, Audacity creates boundaries that break the track into independent blocks. You will see a small dark line (the split marker) dividing the track. You can then drag the clip headers to slide these segments around. [1](https://www.audacityteam.org/features/split/), [2](https://borisfx.com/blog/how-to-cut-audio-in-audacity-trim-8-steps/)
 # MacOS
 - ↖ - fn + ⇽
 - ↗ - fn + ⇾
@@ -3216,8 +3228,16 @@ Remarques importantes
     - _Exemple :_ « Je ne sais pas **ce que** tu dis. » (Je ne sais pas ce que tu racontes). [1](https://www.schuelerhilfe.de/online-lernen/5-franzoesisch/1537-die-relativpronomen-ce-qui-und-ce-que), [2](https://www.gymglish.com/fr/frantastique-orthographe/grammaire-francaise/les-pronoms-relatifs-ce-qui-ce-que-et-ce-dont)
 # Russisch 
 ## Aussprache o
-Die Aussprache des russischen Buchstaben о hängt ausschließlich von der Betonung ab. Ist das о betont, wird es wie ein kurzes deutsches "o" gesprochen. In unbetonten Silben wird es jedoch zu einem dumpfen "a" reduziert. Dieses Phänomen nennt man Okanje.Eine detaillierte Übersicht der Regeln:Betonungsregeln für das "о"Betont (ó): Klingt wie ein klares, deutsches "o" (z. B. in дом / Haus).Unbetont direkt vor der betonten Silbe: Klingt wie ein kurzes, reduziertes "a" (z. B. собака / Hund wird zu sabaka).In allen anderen unbetonten Silben: Klingt wie ein sehr kurzes, flüchtiges "a" bis "e" (z. B. хорошо / gut wird zu charascho).Ein gutes Beispiel zur Verdeutlichung ist das Wort окно (Fenster): Die erste Silbe ist unbetont, die zweite betont. Gesprochen wird es also wie ah-knó.
+Die Aussprache des russischen Buchstaben о hängt ausschließlich von der Betonung ab. Ist das о betont, wird es wie ein kurzes deutsches "o" gesprochen. In unbetonten Silben wird es jedoch zu einem dumpfen "a" reduziert. Dieses Phänomen nennt man Okanje.
 
+**Eine detaillierte Übersicht der Regeln:**
+Betonungsregeln für das "о"Betont (ó): Klingt wie ein klares, deutsches "o" (z. B. in дом / Haus).Unbetont direkt vor der betonten Silbe: Klingt wie ein kurzes, reduziertes "a" (z. B. собака / Hund wird zu sabaka).In allen anderen unbetonten Silben: Klingt wie ein sehr kurzes, flüchtiges "a" bis "e" (z. B. хорошо / gut wird zu charascho).Ein gutes Beispiel zur Verdeutlichung ist das Wort окно (Fenster): Die erste Silbe ist unbetont, die zweite betont. Gesprochen wird es also wie ah-knó.
+
+Die Aussprache des russischen Buchstaben **о** hängt maßgeblich von der Betonung ab. ==Ist das **о** betont, wird es wie ein kurzes, offenes deutsches „o“ gesprochen. In allen unbetonten Silben wird es jedoch zu einem kurzen **a** reduziert==. [1](https://www.russlandjournal.de/russisch-lernen/das-a-und-o-der-russischen-sprache/), [2](https://russisch-unterricht.de/russisch-aussprache-phonetik-a-o/), [3](https://de.wikipedia.org/wiki/Russische_Phonologie), [4](https://www.youtube.com/watch?v=YdTw_p-oCu8), [5](https://www.russischgratis.com/russischkurs-lektion-02.php)
+
+- **Betont (ó):** Klingt wie in _Boot_ oder _Sonne_, z. B. in **дом** (dom – Haus).
+- **Unbetont (vor der betonten Silbe):** Klingt wie ein kurzes, neutrales „a“, z. B. in **собака** (saba_k_a – Hund).
+- **Unbetont (in allen anderen Positionen):** Klingt noch kürzer, fast wie ein verschlucktes „a“ oder „ä“, z. B. in **много** (_mn_o_ga_ – viel). [1](https://russisch-unterricht.de/russisch-aussprache-phonetik-a-o/), [2](https://www.russischgratis.com/russisch-lesen-lernen-04.php)
 ## zu стол vs стул 
 Bzgl Russisch:
 
