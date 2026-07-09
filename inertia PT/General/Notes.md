@@ -3164,6 +3164,34 @@ Remarques importantes
     - _Exemple :_ « Je ne sais pas **ce qui** s'est passé. » (Je ne sais pas ce qui est arrivé). [1](https://www.sofatutor.com/franzoesisch/videos/relativpronomen-ce-qui-und-ce-que), [2](https://www.gymglish.com/fr/frantastique-orthographe/grammaire-francaise/les-pronoms-relatifs-ce-qui-ce-que-et-ce-dont), [3](https://learnattack.de/franzoesisch/relativsaetze-mit-ce-qui-und-ce-que), [4](https://www.schuelerhilfe.de/online-lernen/5-franzoesisch/1537-die-relativpronomen-ce-qui-und-ce-que)
 - **Ce que** (ou **ce qu'**) est le **complément d'objet direct (COD)**. Il est généralement suivi d'un sujet et d'un verbe.
     - _Exemple :_ « Je ne sais pas **ce que** tu dis. » (Je ne sais pas ce que tu racontes). [1](https://www.schuelerhilfe.de/online-lernen/5-franzoesisch/1537-die-relativpronomen-ce-qui-und-ce-que), [2](https://www.gymglish.com/fr/frantastique-orthographe/grammaire-francaise/les-pronoms-relatifs-ce-qui-ce-que-et-ce-dont)
+# Russisch 
+## Aussprache o
+Die Aussprache des russischen Buchstaben о hängt ausschließlich von der Betonung ab. Ist das о betont, wird es wie ein kurzes deutsches "o" gesprochen. In unbetonten Silben wird es jedoch zu einem dumpfen "a" reduziert. Dieses Phänomen nennt man Okanje.Eine detaillierte Übersicht der Regeln:Betonungsregeln für das "о"Betont (ó): Klingt wie ein klares, deutsches "o" (z. B. in дом / Haus).Unbetont direkt vor der betonten Silbe: Klingt wie ein kurzes, reduziertes "a" (z. B. собака / Hund wird zu sabaka).In allen anderen unbetonten Silben: Klingt wie ein sehr kurzes, flüchtiges "a" bis "e" (z. B. хорошо / gut wird zu charascho).Ein gutes Beispiel zur Verdeutlichung ist das Wort окно (Fenster): Die erste Silbe ist unbetont, die zweite betont. Gesprochen wird es also wie ah-knó.
+
+## zu стол vs стул 
+Bzgl Russisch:
+
+Ich finde ja höchst interessant dass стол im russischen Tisch bedeutet und im deutschen Stuhl.
+
+Da ist es ja auch nicht so dass eine der beiden Sprachen von der anderen etwas geklaut hat und etwas missverstanden hat. 
+
+Ich habe mal nachgeschaut um meine Vermutung zu überprüfen.
+
+Die Wurzel ist die selbe.
+Geht auf indogermanisch von "das Stehende" zurück.
+
+Und hatte im altslawischen die gleiche Bedeutung wie heute im germanisch sprachigen:
+
+Sitz, Thron
+
+Hat dann aber einen Bedeutungswandel zu Tisch durchgemacht.
+
+Im russischen gibt's für das Wort Stuhl das Wort стул, wenn ich mich nicht irre.
+
+Eigentlich recht sinnvoll etwas so ähnliches mit nur einem unterschiedlichen Buchstaben zu bezeichnen.
+
+## гроза 
+
 # Physik
 The heat transport rate (or heat transfer rate, $\dot{Q}$) quantifies how much thermal energy is transferred per unit time (measured in Watts, W). The formulas differ for convection and radiation, as they depend on distinct physical principles.
 ## Convection Heat Transfer Rate
