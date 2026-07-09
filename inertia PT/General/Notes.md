@@ -3231,7 +3231,12 @@ Remarques importantes
 Die Aussprache des russischen Buchstaben о hängt ausschließlich von der Betonung ab. Ist das о betont, wird es wie ein kurzes deutsches "o" gesprochen. In unbetonten Silben wird es jedoch zu einem dumpfen "a" reduziert. Dieses Phänomen nennt man Okanje.
 
 **Eine detaillierte Übersicht der Regeln:**
-Betonungsregeln für das "о"Betont (ó): Klingt wie ein klares, deutsches "o" (z. B. in дом / Haus).Unbetont direkt vor der betonten Silbe: Klingt wie ein kurzes, reduziertes "a" (z. B. собака / Hund wird zu sabaka).In allen anderen unbetonten Silben: Klingt wie ein sehr kurzes, flüchtiges "a" bis "e" (z. B. хорошо / gut wird zu charascho).Ein gutes Beispiel zur Verdeutlichung ist das Wort окно (Fenster): Die erste Silbe ist unbetont, die zweite betont. Gesprochen wird es also wie ah-knó.
+Betonungsregeln für das "о"
+- <u>Betont (ó):</u> Klingt wie ein klares, deutsches "o" (z. B. in дом / Haus).
+- <u>Unbetont direkt vor der betonten Silbe:</u> Klingt wie ein kurzes, reduziertes "a" (z. B. собака / Hund wird zu sabaka).
+- <u>In allen anderen unbetonten Silben:</u> Klingt wie ein sehr kurzes, flüchtiges "a" bis "e" (z. B. хорошо / gut wird zu charascho).
+
+Ein gutes Beispiel zur Verdeutlichung ist das Wort окно (Fenster): Die erste Silbe ist unbetont, die zweite betont. Gesprochen wird es also wie ah-knó.
 
 Die Aussprache des russischen Buchstaben **о** hängt maßgeblich von der Betonung ab. ==Ist das **о** betont, wird es wie ein kurzes, offenes deutsches „o“ gesprochen. In allen unbetonten Silben wird es jedoch zu einem kurzen **a** reduziert==. [1](https://www.russlandjournal.de/russisch-lernen/das-a-und-o-der-russischen-sprache/), [2](https://russisch-unterricht.de/russisch-aussprache-phonetik-a-o/), [3](https://de.wikipedia.org/wiki/Russische_Phonologie), [4](https://www.youtube.com/watch?v=YdTw_p-oCu8), [5](https://www.russischgratis.com/russischkurs-lektion-02.php)
 
