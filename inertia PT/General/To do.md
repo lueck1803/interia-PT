@@ -124,6 +124,8 @@
 	- [ ] alle Patronen auf Nachfüllpack tauschen 
 - Decken auf sofa richten
 	- [ ] ne waschen und Sofa reinigen
+	- [ ] Sofa saugen 
+	- [ ] sofa dampfen
 - [x] Kartoffeln einweichen/putzen 
 - [ ] Staubsaugerbeutel wechseln 
 - [ ] entrecôte mit Zwiebeln und Pfeffer braten 
@@ -145,8 +147,6 @@
 	- [ ] Küche 
 - [ ] schuhe kaufen 
 - [ ] zu duckduckgo wechseln 
-- [ ] sofa dampfen
-- [ ] Sofa saugen 
 - [ ] Freitag letzte Ferienwoche ist Anfangskonferenz 
 - [ ] Ordner für Schule anlegen um Zeug abzuheften
 - [ ] Platz im Keller fürs Fahrrad Machen 
@@ -157,7 +157,7 @@
 - [ ] Displayschutzfolie wechseln 
 - [ ] alle nicht-Optimierungsthemen bzgl ADHS/Autismus raus. Keine Lust mehr über das nachzudenken was ich nicht kann und was mich hindert. Ich bin kein Opfer
 	- [ ] watch later knallhart aufräumen 
-- [ ] how to add app to accessibility manually 
+- [x] how to add app to accessibility manually 
 - [ ] Sprachaufzeichnung transkribieren 
 - [ ] Akteneintrag Esma fertig machen
 - [ ] wenn ich proposal abgegeben habe, kaufe ich mir ein Ticket für das Festival 
