@@ -104,6 +104,8 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
+- [ ] äpfel waschen 
+- [ ] Staubsauger Schlauch Verstopfung 
 - [x] Paprika einpflanzen 
 - [ ] Duschen
 - [x] gießen 
