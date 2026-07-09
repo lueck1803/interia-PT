@@ -107,8 +107,9 @@
 - [ ] äpfel waschen 
 - [ ] Staubsauger Schlauch Verstopfung 
 - [ ] nocturnal fire tab anschauen - bass line 
+- [ ] teller 
 - [ ] die 30 Seiten Abhandlung vom bot. Anschauen und eventuell 2 Seiten auf ein Blatt drucken 
-- [ ] mollement, le filet in franz eintragen 
+- [ ] mollement, le filet, Arbitre in franz eintragen 
 - [ ] bei Musikhaus Arnold vorbei schauen wegen Bridge 
 - [ ] müll 
 	- [ ] Papier 
