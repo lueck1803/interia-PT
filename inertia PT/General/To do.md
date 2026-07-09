@@ -106,6 +106,7 @@
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] äpfel waschen 
 - [ ] Staubsauger Schlauch Verstopfung 
+- [ ] nocturnal fire tab anschauen - bass line 
 - [x] Paprika einpflanzen 
 - [ ] Duschen
 - [x] gießen 
