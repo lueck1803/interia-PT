@@ -108,8 +108,9 @@
 - [ ] Staubsauger Schlauch Verstopfung 
 - [ ] nocturnal fire tab anschauen - bass line 
 - [ ] bei Musikhaus Arnold vorbei schauen wegen Bridge 
+- [ ] russisch aufschreiben, dafür ein Blatt anlegen 
 - [x] Paprika einpflanzen 
-- [ ] Duschen
+- [x] Duschen
 - [x] gießen 
 - [ ] Aldi 
 	- [ ] isolierflasche 
