@@ -104,12 +104,18 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
-- [ ] Spannung vom Spannstab nehmen 
-- [ ] lila isolierflasche in die Spülmaschine 
-- [ ] tinte Drucker tauschen/füllen da Streifen zu sehen sind
+- [x] Paprika einpflanzen 
+- [ ] Duschen
+- [x] gießen 
+- [ ] Aldi 
+	- [ ] isolierflasche 
+	- [ ] Erde 
+- [x] Spannung vom Spannstab nehmen 
+- [x] lila isolierflasche in die Spülmaschine 
+- [x] tinte Drucker tauschen/füllen da Streifen zu sehen sind
 	- [ ] alle Patronen auf Nachfüllpack tauschen 
 - [ ] Decken auf sofa richten
-- [ ] Kartoffeln einweichen/putzen 
+- [x] Kartoffeln einweichen/putzen 
 - [ ] entrecôte mit Zwiebeln und Pfeffer braten 
 - [ ] linken flipflop reparieren 
 - [ ] Schulgarten vorbei schauen 
