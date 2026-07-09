@@ -2298,7 +2298,31 @@ Mir tut auch Micro "Fehlverhalten" leid. Auch wenn sie das auch macht.
 Manchmal hatte sie dann auch so das Gefühl so schlecht behandelt zu werden, hat dabei aber null auf ihr micro Verhalten geachtet.
 
 # yt Kommentare
+## 2026-07-09
+@typrice5479 as there is no dedicated Prussia anymore since it was desintegrated during the NS regime, most people who originate from there don't reveal themselves as prussian.
+There is no Bundesland which is called like that. 
+People from the eastern parts of Germany which belonged to the former Prussia who flew from the red army and as these territories were disbanded, mentioning that their ancestors were "Vertriebene".
+But they stay mostly quiet, since they had hard times, lived in poverty, under the roof and grace of other people and were not always welcome under these circumstances.
 
+They lived from gatherings in the woods, like acorns and may beetles.
+
+They were happy that they survived.
+
+Only a few organized themselves in "Vertriebenen Verbände".
+A famous person is Erika Steinbach.
+
+Some wanted their old territories back. But since the 2+4 treaties all claims were discarded.
+
+In the last years with the rise of the AfD more people speak out loud that their ancestors were from these eastern territories.
+
+Like Björn Höcke who's grandparents stayed in Königsberg rather than survive.
+---
+
+Btw. My post you are referring to was not completely serious 😅.
+Yes the people in the different regions of Germany are actually really different in behavior and temperament.
+It's also true that Prussia dominated the image of Germany after the German unification wars in the 19th century.
+
+But it was a bit of an exaggeration to blame Prussia a bit too much for the happenings in the 20th century.😅
 ## 26-06-30
 @Fanboy1222 oh dann hast du das osmanische Reich vergessen, das mogulreich, den ostafrikanischen Sklavenhandel, den Sklavenhandel der Korsaren. Die islamische Expansion.
 Den Konflikt mit Israel... Ging und geht von den Arabern aus. Siehe dazu al huseini und die komplette story der nakbah
