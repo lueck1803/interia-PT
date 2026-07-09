@@ -65,6 +65,7 @@
 - [ ] Staubsauger Bürstenaufsatz 
 - [ ] Basecap/Hut
 - [ ] große flache Teller 
+- [ ] neue flache Bridge für schwarze Gitarre 
 # non food
 - [ ] kleinen Schneebesen 
 - [ ] Plastik Plättchen zum tür öffnen -> pet Flasche 
