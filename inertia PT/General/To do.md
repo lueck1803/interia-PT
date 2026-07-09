@@ -108,7 +108,7 @@
 - [ ] Staubsauger Schlauch Verstopfung 
 - [ ] nocturnal fire tab anschauen - bass line 
 - [ ] die 30 Seiten Abhandlung vom bot. Anschauen und eventuell 2 Seiten auf ein Blatt drucken 
-- [ ] mollement in franz eintragen 
+- [ ] mollement, le filetein franz eintragen 
 - [ ] bei Musikhaus Arnold vorbei schauen wegen Bridge 
 - [ ] müll 
 	- [ ] Papier 
