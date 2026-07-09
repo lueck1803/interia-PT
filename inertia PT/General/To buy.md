@@ -26,7 +26,7 @@
 - [ ] Unterhemden
 - [x] erde aldi
 	- wenn <font color="#00b0f0">Aufzug</font> wieder geht
-	- ja perfekt, der Aufzug ging gerade wieder als ich die
+	- ja perfekt, der Aufzug ging gerade wieder als ich die Erde kaufen wollte 2026-07-09
 - [x] Wassereis 
 - [x] pizza 
 - [x] Toilettenpapier 
