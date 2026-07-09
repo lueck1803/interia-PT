@@ -122,8 +122,8 @@
 - [x] lila isolierflasche in die Spülmaschine 
 - [x] tinte Drucker tauschen/füllen da Streifen zu sehen sind
 	- [ ] alle Patronen auf Nachfüllpack tauschen 
-- [ ] Decken auf sofa richten
-	- [ ] ne waschen und sie
+- Decken auf sofa richten
+	- [ ] ne waschen und Sofa reinigen
 - [x] Kartoffeln einweichen/putzen 
 - [ ] Staubsaugerbeutel wechseln 
 - [ ] entrecôte mit Zwiebeln und Pfeffer braten 
