@@ -2999,9 +2999,12 @@ I wanted to know if, I misused the product, had a misunderstanding or a wrong ex
 Thanks for clarifying this, that my expectation in the behavior of the product was correct and it has probably a malfunction.
 
 I can live with it. 😄
---
+
+---
 Ist das Englisch des Textes korrekt?
 
+---
+----
 Dein Englisch ist schon sehr gut und verständlich! Hier sind ein paar kleine Korrekturen und Optimierungen, um es noch natürlicher und flüssiger klingen zu lassen:
 
 ---
