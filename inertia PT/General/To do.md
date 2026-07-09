@@ -116,6 +116,7 @@
 	- [ ] alle Patronen auf Nachfüllpack tauschen 
 - [ ] Decken auf sofa richten
 - [x] Kartoffeln einweichen/putzen 
+- [ ] Staubsaugerbeutel wechseln 
 - [ ] entrecôte mit Zwiebeln und Pfeffer braten 
 - [ ] linken flipflop reparieren 
 - [ ] Schulgarten vorbei schauen 
