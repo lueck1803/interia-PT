@@ -3191,7 +3191,17 @@ Im russischen gibt's für das Wort Stuhl das Wort стул, wenn ich mich nicht 
 Eigentlich recht sinnvoll etwas so ähnliches mit nur einem unterschiedlichen Buchstaben zu bezeichnen.
 
 ## гроза 
+Ich hatte gestern mit Arthur kurz das Thema dass die bayrische black Metal Band 
+Groza ihren Namen falsch schreibt und ausspricht und im Endeffekt auch noch nicht richtig übersetzt 🤣.
+Das Wort im russischen/slawischen ist гроза.
+Das o wird wie ein a ausgesprochen, da es in einer unbetonten silbe steht. 
+Es bedeutet Gewitter/Unwetter.
 
+Kann aber auch im Kontext schrecken, grauen oder bedrohlichkeit bedeuten.
+
+Aber eher im übertragenen Sinne.
+
+Die Band verwendet aber ausschließlich diese Bedeutung. Für diese bedeutungen gibt es aber eher andere Worte.
 # Physik
 The heat transport rate (or heat transfer rate, $\dot{Q}$) quantifies how much thermal energy is transferred per unit time (measured in Watts, W). The formulas differ for convection and radiation, as they depend on distinct physical principles.
 ## Convection Heat Transfer Rate
