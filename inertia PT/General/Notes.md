@@ -3171,7 +3171,7 @@ Die Aussprache des russischen Buchstaben о hängt ausschließlich von der Beton
 ## zu стол vs стул 
 Bzgl Russisch:
 
-Ich finde ja höchst interessant dass стол im russischen Tisch bedeutet und im deutschen Stuhl.
+Ich finde ja höchst interessant dass стол im russischen Tisch bedeutet und im Deutschen eine Ähnlichkeit zu Stuhl hat.
 
 Da ist es ja auch nicht so dass eine der beiden Sprachen von der anderen etwas geklaut hat und etwas missverstanden hat. 
 
