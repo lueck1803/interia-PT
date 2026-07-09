@@ -109,24 +109,26 @@
 - [ ] Staubsauger Schlauch Verstopfung 
 - [ ] nocturnal fire tab anschauen - bass line 
 - [ ] teller Aldi 29,5 cm
-- [ ] Gartenbrause im Aldi kaufen 
+- [ ] Gartenbrause im Aldi kaufen?
 - [ ] die 30 Seiten Abhandlung vom bot. Anschauen und eventuell 2 Seiten auf ein Blatt drucken 
 - [ ] mollement, le filet, Arbitre in franz eintragen 
-- [ ] bei Musikhaus Arnold vorbei schauen wegen Bridge 
-- [ ] müll 
-	- [ ] Papier 
-	- [ ] gelber Sack 
+- bei Musikhaus Arnold vorbei schauen wegen Bridge 
+	- ich hab den verstärker anders eingestellt und festgestellt, dass ich einfach anders picken muss... 
+	- viel weniger die Saiten berühren 
+- [x] müll 
+	- [x] Papier 
+	- [x] gelber Sack 
 - [ ] russisch aufschreiben, dafür ein Blatt anlegen 
 - [x] Paprika einpflanzen 
 - [x] Duschen
 - [x] gießen 
-- [ ] Aldi 
-	- [ ] isolierflasche 
-	- [ ] Erde 
+- [x] Aldi 
+	- [x] isolierflasche 
+	- [x] Erde 
 - [x] Spannung vom Spannstab nehmen 
 - [x] lila isolierflasche in die Spülmaschine 
 - [x] tinte Drucker tauschen/füllen da Streifen zu sehen sind
-	- [ ] alle Patronen auf Nachfüllpack tauschen 
+	- [x] alle Patronen auf Nachfüllpack tauschen 
 - Decken auf sofa richten
 	- [ ] ne waschen und Sofa reinigen
 	- [ ] Sofa saugen 
@@ -136,7 +138,7 @@
 - [ ] entrecôte mit Zwiebeln und Pfeffer braten 
 - [ ] linken flipflop reparieren 
 - [ ] Schulgarten vorbei schauen 
-- [ ] staub saugen 
+- [x] staub saugen |
 - [ ] ventilator Karton in Keller 
 - [ ] lampe im Bad tauschen 
 - [ ] Bauhaus 
