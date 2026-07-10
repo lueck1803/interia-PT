@@ -1079,6 +1079,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 	- Geplant sind <u>30 km</u>, von Bensheim nach Zeilhard. Über das Felsenmeer
 ## Packliste 
 - [ ] kompakt Kamera <font color="#ff0000">(Aufladen)</font>
+- [ ] zwei isolierflaschen mit kal
 - [ ] Fernglas? Hmm ne ist zu schwer
 	- [ ] vorher ein neues kompaktes kaufen? 
 - [ ] Sonnencreme
