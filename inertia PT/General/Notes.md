@@ -2298,6 +2298,8 @@ Mir tut auch Micro "Fehlverhalten" leid. Auch wenn sie das auch macht.
 Manchmal hatte sie dann auch so das Gefühl so schlecht behandelt zu werden, hat dabei aber null auf ihr micro Verhalten geachtet.
 
 # yt Kommentare
+## 2026-07-10
+
 ## 2026-07-09
 @typrice5479 as there is no dedicated Prussia anymore since it was desintegrated during the NS regime, most people who originate from there don't reveal themselves as prussian.
 There is no Bundesland which is called like that. 
