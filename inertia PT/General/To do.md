@@ -107,7 +107,12 @@
 - [ ] Kartoffeln 
 	- [ ] schälen
 	- [ ] in die friteuse
-- [ ] 
+- [ ] powerbank laden
+- [ ] powerbank reparieren
+	- [ ] welche ist die defekte?
+	- [ ] löten
+- [ ] entrecôte mit Zwiebeln und Pfeffer braten 
+- [ ] Duschen
 - äpfel waschen 
 	- [x] wässern
 	- [ ] trocknen
@@ -120,25 +125,17 @@
 - [ ] waffenbrüder üben
 - [ ] Staubsauger Schlauch Verstopfung 
 - [ ] nocturnal fire tab anschauen - bass line 
-- [ ] teller Aldi 29,5 cm
 - [ ] Gartenbrause im Aldi kaufen?
 	- [ ] ja
 	- [ ] Adapter 
-- [ ] die 30 Seiten Abhandlung vom bot. Anschauen und eventuell 2 Seiten auf ein Blatt drucken 
-- bei Musikhaus Arnold vorbei schauen wegen Bridge 
-	- ich hab den verstärker anders eingestellt und festgestellt, dass ich einfach anders picken muss... 
-	- viel weniger die Saiten berühren 
 - [ ] russisch aufschreiben, dafür ein Blatt anlegen 
 - Decken auf sofa richten
 	- [ ] ne waschen und Sofa reinigen
 	- [ ] Sofa saugen 
 	- [ ] sofa dampfen
 - [ ] Staubsaugerbeutel wechseln 
-- [ ] entrecôte mit Zwiebeln und Pfeffer braten 
 - [ ] linken flipflop reparieren 
 - [ ] Schulgarten vorbei schauen 
-- [x] staub saugen |
-- [x] ventilator Karton in Keller 
 - [ ] lampe im Bad tauschen 
 - [ ] Bauhaus 
 	- [ ] Steckerleiste 
@@ -163,7 +160,6 @@
 - [ ] Displayschutzfolie wechseln 
 - [ ] alle nicht-Optimierungsthemen bzgl ADHS/Autismus raus. Keine Lust mehr über das nachzudenken was ich nicht kann und was mich hindert. Ich bin kein Opfer
 	- [ ] watch later knallhart aufräumen 
-- [x] how to add app to accessibility manually 
 - [ ] Sprachaufzeichnung transkribieren 
 - [ ] Akteneintrag Esma fertig machen
 - [ ] wenn ich proposal abgegeben habe, kaufe ich mir ein Ticket für das Festival 
@@ -712,6 +708,9 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 	- [ ] Bananenschalen (bio) wasser 24h einweichen 
 - [x] carnivoren umsetzen 
 # Musik
+- bei Musikhaus Arnold vorbei schauen wegen Bridge 
+	- ich hab den verstärker anders eingestellt und festgestellt, dass ich einfach anders picken muss... 
+	- viel weniger die Saiten berühren 
 - [ ] ganz ganz ganz viel sauberes tremolo picking üben, insbesondere in kombi mit abdämpfen. 
       Wechsel zwischen weißer und schwarzer Gitarre
 - [ ] füsilier 2 die lead gitarre üben
