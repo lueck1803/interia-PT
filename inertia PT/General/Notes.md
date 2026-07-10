@@ -3446,6 +3446,7 @@ This far exceeds typical convective rates for the same area.
 - Tonerider (sehr günstig)
 - Wilkinson 
 - Fishman (teuer, aber neues Design ohne Störgeräusche)
+- alan enwhis
 ## Tuning
 ==In der **D-Standard-Stimmung** (D-G-C-F-A-D) wird die Gitarre um einen Ganzton (zwei Halbtöne) tiefer gestimmt als in der Standardstimmung==. [[1](https://guitarwiz.app/articles/d-standard-tuning-guitar/)]
 
