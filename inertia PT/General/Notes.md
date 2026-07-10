@@ -3441,7 +3441,8 @@ This far exceeds typical convective rates for the same area.
 # Musik
 ## guitar pickups
 - Seymour Duncan 
-- 
+- DiMarzio 
+- Tonerider
 ## Tuning
 ==In der **D-Standard-Stimmung** (D-G-C-F-A-D) wird die Gitarre um einen Ganzton (zwei Halbtöne) tiefer gestimmt als in der Standardstimmung==. [[1](https://guitarwiz.app/articles/d-standard-tuning-guitar/)]
 
