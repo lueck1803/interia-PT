@@ -133,7 +133,9 @@
 - [ ] nocturnal fire tab anschauen - bass line 
 - [ ] Gartenbrause im Aldi kaufen?
 	- [x] ja
-	- [ ] schlauc
+	- [ ] Schlauch 
+		- [ ] außen 2,3
+		- [ ] innen 1,85
 	- [ ] Adapter 
 - [ ] russisch aufschreiben, dafür ein Blatt anlegen 
 - Decken auf sofa richten
