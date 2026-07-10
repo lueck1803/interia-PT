@@ -3442,7 +3442,7 @@ This far exceeds typical convective rates for the same area.
 ## guitars
 - solar guitars
 - esp flying v
-- 
+- diamond bolero stf
 ## guitar pickups
 [Guitar brands](https://youtu.be/-BI-Ndom1qY?is=KjpK1ZCiV3NP8VvK)
 - Seymour Duncan 
