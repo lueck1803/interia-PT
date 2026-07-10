@@ -2299,7 +2299,30 @@ Manchmal hatte sie dann auch so das Gefühl so schlecht behandelt zu werden, hat
 
 # yt Kommentare
 ## 2026-07-10
+@VfLenny ja klar kann man. 
 
+Es geht aber um das Verhältnis und darum dass das etwas ist was Monitor nur schwer über sich bringt. 
+
+Und hier werden tatsächlich "recht harmlose" - ja ich finde diese Ansichten auch nicht toll, aber die sind im Vergleich harmlos, was beim Großteil der Muslime halt low level Ansicht ist.
+
+Ich meine der allergrößte Teil der Menschheit sieht Abtreibung als Mord an🤷, außer es wird ein Mädchen abgetrieben 🤮🫩.
+
+Homosexualität... Puuh da wäre bei vielen Muslimen die Aussagen die in dem Video gefallen sind, quasi Befürwortung dessen.
+
+Hier werden echt Dinge über dramatisiert, da das Christentum aus ideologischen Gründen ins linke Feindbild passt.
+
+Ja evangelikale sind jetzt echt nicht das was wir hier gebrauchen können. 
+
+Aber woran liegt das?
+
+1. Gegenbewegung zum Islam 
+2. Eingewanderte Christen sind tendenziell gläubiger
+3. In unsicheren Zeiten sind Leute auf der Suche nach Halt. - dann lieber evangelikale als Muslime 🤷, so leid es mir tut... Ich wünschte es wäre anders. 
+4. Die großen Kirchen haben massiv an Einfluss und vertrauen verloren die letzten Jahre. Das liegt aber auch am extremen schlecht machen. Das Christentum/ die Kirchen werden für Dinge verantwortlich gemacht die sie nicht zu verantworten haben, oder zumindest nicht in dem großen Ausmaß. Hexenverfolgung (waren sie nicht in dem Ausmaß/ ging nicht von den Kirchen aus), Kreuzzüge (waren notwendig) und die vermeintliche Unterdrückung der Frau (eh ja ist schon echt Quatsch, man muss es im Kontext der Zeit sehen und Frauen wurden durch die Kirchen auch befreit, konnten gesellschaftlich aufsteigen und großen Einfluss erlangen). Ja die Kirchen haben sich nicht mit Ruhm bekleckert. Aber im Verhältnis zum Rest der Menschen zu diesen Zeiten, haben sie in Summe eher positiven Einfluss gehabt.
+
+Das Christentum ist der Wegbereiter unserer modernen Gesellschaft.
+
+Über den Islam kann ich nichts positives sagen🤷. Der hat alle Länder runter gewirtschaftet in die er kam 🤷.
 ## 2026-07-09
 @typrice5479 as there is no dedicated Prussia anymore since it was desintegrated during the NS regime, most people who originate from there don't reveal themselves as prussian.
 There is no Bundesland which is called like that. 
