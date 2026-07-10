@@ -104,8 +104,9 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
-- [ ] Wäsche aufhängen 
-- [ ] 
+- [ ] Wäsche 
+	- [ ] nochmal schleudern 
+	- [ ] aufhängen 
 - [ ] Kartoffeln 
 	- [ ] schälen
 	- [ ] in die friteuse
