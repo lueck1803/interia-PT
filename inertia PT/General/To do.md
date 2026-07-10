@@ -105,6 +105,7 @@
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Fahrradreifen aufpumpen+ Klingel 
+- [ ] mtb waschen, ist im Schuppen echt dreckig geworden 
 - [x] neue isolierflasche 
 	- [x] nochmal ausspülen 
 	- [x] testen 
