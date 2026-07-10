@@ -3439,6 +3439,7 @@ This far exceeds typical convective rates for the same area.
 - ![](Pasted%20image%2020251205205458.png)
 
 # Musik
+## 
 ## guitar pickups
 [Guitar brands](https://youtu.be/-BI-Ndom1qY?is=KjpK1ZCiV3NP8VvK)
 - Seymour Duncan 
