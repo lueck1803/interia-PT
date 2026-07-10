@@ -3442,7 +3442,7 @@ This far exceeds typical convective rates for the same area.
 ## guitar pickups
 [Guitar brands](https://youtu.be/-BI-Ndom1qY?is=KjpK1ZCiV3NP8VvK)
 - Seymour Duncan 
-- DiMarzio (tiny midrange scoup that has steve vey )
+- DiMarzio (tiny midrange scoup that has steve vey jon satriani characteristic)
 - Tonerider (sehr günstig)
 - Wilkinson 
 - Fishman (teuer, aber neues Design ohne Störgeräusche)
