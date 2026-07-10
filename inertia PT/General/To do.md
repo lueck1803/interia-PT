@@ -136,7 +136,8 @@
 	- [ ] Schlauch 
 		- [ ] außen 2,3
 		- [ ] innen 1,85
-	- [ ] Adapter 
+	- [x] Adapter 
+		- [ ] gab einen im Schuppen 
 - [ ] russisch aufschreiben, dafür ein Blatt anlegen 
 - Decken auf sofa richten
 	- [ ] ne waschen und Sofa reinigen
