@@ -104,52 +104,52 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
-- [x] Fahrradreifen aufpumpen
 - [ ] Klingel 
+- [ ] Kartoffeln + Soße in den Kühlschrank
 - [ ] mtb waschen, ist im Schuppen echt dreckig geworden 
 - [x] neue isolierflasche 
 	- [x] nochmal ausspülen 
 	- [x] testen 
-	- [ ] top
-- [ ] Wäsche 
-	- [ ] nochmal schleudern 
-	- [ ] aufhängen 
-- [ ] Kartoffeln 
-	- [ ] schälen
-	- [ ] in die friteuse
-- [ ] powerbank laden
+	- [x] top
+- [x] Wäsche 
+	- [x] nochmal schleudern 
+	- [x] aufhängen 
+- [x] Kartoffeln 
+	- [x] schälen
+	- [x] in die friteuse
+- [x] powerbank laden
 - [ ] powerbank reparieren
 	- [ ] welche ist die defekte?
 	- [ ] löten
-- [ ] entrecôte mit Zwiebeln und Pfeffer braten 
+- [x] entrecôte mit Zwiebeln und Pfeffer braten 
 - [x] Duschen
 - äpfel waschen 
 	- [x] wässern
-	- [ ] trocknen
+	- [x] trocknen
 - [ ] Halterung für Trainings gummies/expander
 	- [ ] wie trainiere ich damit richtig
 - [x] reorder presets
 	- [ ] preset auf laptop speichern
 - [ ] dampfdruck kochtopf reinigen
-- [ ] Spülmaschine ausräumen
-- [ ] waffenbrüder üben
+- [x] Spülmaschine ausräumen
+- [x] waffenbrüder üben
 - [ ] Staubsauger Schlauch Verstopfung 
 - [ ] nocturnal fire tab anschauen - bass line 
-- [ ] Gartenbrause im Aldi kaufen?
+- [x] Gartenbrause im Aldi kaufen?
 	- [x] ja
-	- [ ] Schlauch 
-		- [ ] außen 2,3
-		- [ ] innen 1,85
+	- [x] Schlauch 
+		- [x] außen 2,3
+		- [x] innen 1,85
 	- [x] Adapter 
-		- [ ] gab einen im Schuppen 
+		- [x] gab einen im Schuppen 
 - [ ] russisch aufschreiben, dafür ein Blatt anlegen 
 - Decken auf sofa richten
 	- [ ] ne waschen und Sofa reinigen
 	- [ ] Sofa saugen 
 	- [ ] sofa dampfen
 - [ ] Staubsaugerbeutel wechseln 
-- [ ] linken flipflop reparieren 
-- [ ] Schulgarten vorbei schauen 
+- [x] linken flipflop reparieren 
+- [x] Schulgarten vorbei schauen 
 - [ ] lampe im Bad tauschen 
 - [ ] Bauhaus 
 	- [ ] Steckerleiste 
@@ -1088,18 +1088,23 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 ## Packliste 
 - [ ] kompakt Kamera <font color="#ff0000">(Aufladen)</font>
 - [ ] zwei isolierflaschen mit kaltem Wasser 
+	- [ ] yay hab neue gekauft und wasser in den Kühlschrank gestellt
+- [ ] äpfel 
+- [ ] Wechse
+- [ ] Bananen
 - [ ] Fernglas? Hmm ne ist zu schwer
-	- [ ] vorher ein neues kompaktes kaufen? 
+	- [x] vorher ein neues kompaktes kaufen? 
+	- [ ] hab ich jetzt nicht
 - [ ] Sonnencreme
 - [ ] Hut
 - [ ] Sonnenbrille
-- [ ] regnet es?⟹ Regenjacke 
+- [x] regnet es?⟹ Regenjacke 
+	- Nein definitiv nicht! es wird brutal warm
 - [ ] railslide Rucksack 🎒 
-- [ ] Müsliriegel 
-- [ ] apfel
+- [x] Müsliriegel 
+	- hab ich jetzt vergessen zu kaufen 🤷‍♂️
 - [ ] Bauchtasche?
 - [ ] Notfall Buch
 - [ ] Messer 
 - [ ] Pflaster 
 - [ ] kleines Handtuch 
-- [ ] isolierflasche 
