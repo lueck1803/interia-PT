@@ -104,9 +104,9 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
-- [ ] neue isolierflasche 
-	- [ ] nochmal ausspülen 
-	- [ ] testen 
+- [x] neue isolierflasche 
+	- [x] nochmal ausspülen 
+	- [x] testen 
 - [ ] Wäsche 
 	- [ ] nochmal schleudern 
 	- [ ] aufhängen 
@@ -132,7 +132,8 @@
 - [ ] Staubsauger Schlauch Verstopfung 
 - [ ] nocturnal fire tab anschauen - bass line 
 - [ ] Gartenbrause im Aldi kaufen?
-	- [ ] ja
+	- [x] ja
+	- [ ] schlauc
 	- [ ] Adapter 
 - [ ] russisch aufschreiben, dafür ein Blatt anlegen 
 - Decken auf sofa richten
