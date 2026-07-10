@@ -104,11 +104,13 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
-- [ ] Fahrradreifen aufpumpen+ Klingel 
+- [x] Fahrradreifen aufpumpen
+- [ ] Klingel 
 - [ ] mtb waschen, ist im Schuppen echt dreckig geworden 
 - [x] neue isolierflasche 
 	- [x] nochmal ausspülen 
 	- [x] testen 
+	- [ ] top
 - [ ] Wäsche 
 	- [ ] nochmal schleudern 
 	- [ ] aufhängen 
@@ -120,7 +122,7 @@
 	- [ ] welche ist die defekte?
 	- [ ] löten
 - [ ] entrecôte mit Zwiebeln und Pfeffer braten 
-- [ ] Duschen
+- [x] Duschen
 - äpfel waschen 
 	- [x] wässern
 	- [ ] trocknen
