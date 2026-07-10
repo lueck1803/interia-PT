@@ -104,6 +104,9 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
+- [ ] neue isolierflasche 
+	- [ ] nochmal ausspülen 
+	- [ ] testen 
 - [ ] Wäsche 
 	- [ ] nochmal schleudern 
 	- [ ] aufhängen 
