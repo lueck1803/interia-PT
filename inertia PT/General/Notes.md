@@ -3440,11 +3440,12 @@ This far exceeds typical convective rates for the same area.
 
 # Musik
 ## guitar pickups
+[Guitar brands](https://youtu.be/-BI-Ndom1qY?is=KjpK1ZCiV3NP8VvK)
 - Seymour Duncan 
 - DiMarzio 
 - Tonerider (sehr günstig)
 - Wilkinson 
-- Fishman 
+- Fishman (teuer, aber neues Design ohne Störgeräusche)
 ## Tuning
 ==In der **D-Standard-Stimmung** (D-G-C-F-A-D) wird die Gitarre um einen Ganzton (zwei Halbtöne) tiefer gestimmt als in der Standardstimmung==. [[1](https://guitarwiz.app/articles/d-standard-tuning-guitar/)]
 
