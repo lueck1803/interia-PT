@@ -104,47 +104,41 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
-- [ ] äpfel waschen 
+- [ ] Kartoffeln 
+	- [ ] schälen
+	- [ ] in die friteuse
+- [ ] 
+- äpfel waschen 
+	- [x] wässern
+	- [ ] trocknen
 - [ ] Halterung für Trainings gummies/expander
 	- [ ] wie trainiere ich damit richtig
 - [x] reorder presets
+	- [ ] preset auf laptop speichern
+- [ ] dampfdruck kochtopf reinigen
+- [ ] Spülmaschine ausräumen
+- [ ] waffenbrüder üben
 - [ ] Staubsauger Schlauch Verstopfung 
 - [ ] nocturnal fire tab anschauen - bass line 
 - [ ] teller Aldi 29,5 cm
 - [ ] Gartenbrause im Aldi kaufen?
 	- [ ] ja
 	- [ ] Adapter 
-- [ ] pump sprüher ausprobieren 
 - [ ] die 30 Seiten Abhandlung vom bot. Anschauen und eventuell 2 Seiten auf ein Blatt drucken 
 - bei Musikhaus Arnold vorbei schauen wegen Bridge 
 	- ich hab den verstärker anders eingestellt und festgestellt, dass ich einfach anders picken muss... 
 	- viel weniger die Saiten berühren 
-- [x] müll 
-	- [x] Papier 
-	- [x] gelber Sack 
 - [ ] russisch aufschreiben, dafür ein Blatt anlegen 
-- [x] Paprika einpflanzen 
-- [x] Duschen
-- [x] gießen 
-- [x] Aldi 
-	- [x] isolierflasche 
-	- [x] Erde 
-- [x] Spannung vom Spannstab nehmen 
-- [x] lila isolierflasche in die Spülmaschine 
-- [x] tinte Drucker tauschen/füllen da Streifen zu sehen sind
-	- [x] alle Patronen auf Nachfüllpack tauschen 
-	- [ ] Testdruck - herbaraterien
 - Decken auf sofa richten
 	- [ ] ne waschen und Sofa reinigen
 	- [ ] Sofa saugen 
 	- [ ] sofa dampfen
-- [x] Kartoffeln einweichen/putzen 
 - [ ] Staubsaugerbeutel wechseln 
 - [ ] entrecôte mit Zwiebeln und Pfeffer braten 
 - [ ] linken flipflop reparieren 
 - [ ] Schulgarten vorbei schauen 
 - [x] staub saugen |
-- [ ] ventilator Karton in Keller 
+- [x] ventilator Karton in Keller 
 - [ ] lampe im Bad tauschen 
 - [ ] Bauhaus 
 	- [ ] Steckerleiste 
