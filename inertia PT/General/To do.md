@@ -113,6 +113,8 @@
 - [ ] teller Aldi 29,5 cm
 - [ ] Gartenbrause im Aldi kaufen?
 	- [ ] ja
+	- [ ] Adapter 
+- [ ] pump
 - [ ] die 30 Seiten Abhandlung vom bot. Anschauen und eventuell 2 Seiten auf ein Blatt drucken 
 - bei Musikhaus Arnold vorbei schauen wegen Bridge 
 	- ich hab den verstärker anders eingestellt und festgestellt, dass ich einfach anders picken muss... 
