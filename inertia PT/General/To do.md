@@ -104,6 +104,7 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
+- [ ] Fahrradreifen aufpumpen+ Klingel 
 - [x] neue isolierflasche 
 	- [x] nochmal ausspülen 
 	- [x] testen 
