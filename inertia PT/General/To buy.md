@@ -1,3 +1,5 @@
+- [ ] toast
+- [ ] Kartoffel 
 - [x] rinder steak 🥩
 - [x] hafermilch
 - [x] hummus
@@ -7,7 +9,6 @@
 	- [ ] 3 fach
 	- [ ] mehrfach 
 - [ ] destilliertes Wasser 
-- [x] toast
 - [x] käse
 - [x] Nudelsoßen 
 - [x] Tomaten 
