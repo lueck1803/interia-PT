@@ -107,6 +107,7 @@
 - [ ] Klingel 
 - [ ] saugen 
 - [ ] wischen 
+- [ ] destillliertes wasser flasche bohren
 - [x] Kartoffeln + Soße in den Kühlschrank
 - [ ] mtb waschen, ist im Schuppen echt dreckig geworden 
 - [x] neue isolierflasche 
