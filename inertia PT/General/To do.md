@@ -105,6 +105,8 @@
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Klingel 
+- [ ] saugen 
+- [ ] wischen 
 - [x] Kartoffeln + Soße in den Kühlschrank
 - [ ] mtb waschen, ist im Schuppen echt dreckig geworden 
 - [x] neue isolierflasche 
