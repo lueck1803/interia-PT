@@ -22,7 +22,6 @@
 - [x] Bolognese soße
 - [x] Mundspülung 
 - [x] Alufolie 
-- [ ] Eiswürfelbehälter 
 - [ ] Unterhemden
 - [x] erde aldi
 	- wenn <font color="#00b0f0">Aufzug</font> wieder geht
