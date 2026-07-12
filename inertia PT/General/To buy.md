@@ -1,5 +1,5 @@
 - [ ] toast
-- [ ] Kartoffel 
+- [ ] Kartoffeln
 - [x] rinder steak 🥩
 - [x] hafermilch
 - [x] hummus
