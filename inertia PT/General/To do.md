@@ -104,12 +104,6 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
-- [x] Klingel 
-- [x] aus Liste austragen 
-	- [x] Tomaten mark 
-	- [x] Dosentomate
-	- [x] Fusilli 
-- [x] streichcreme eintragen 
 - [ ] daten löschen?
 	- <font color="#ff0000">ja</font> ich lösche sie 
 	- ⟹denn ich <font color="#7cfc00">will</font> <font color="#ffd700">Veränderung</font> 
@@ -122,7 +116,6 @@
 	- ich möchte mit meinem Näheprojekt beginnen 
 	- ich möchte nadines Socken fertig machen 
 	- ich möchte unter Leute gehen 
-- [x] Nudeln kochen 
 - [ ] Hotel buchen 
 - [ ] konto checken 
 - [ ] Kräuter trocknen 
