@@ -116,7 +116,8 @@
 	- ich möchte mit meinem Näheprojekt beginnen 
 	- ich möchte nadines Socken fertig machen 
 	- ich möchte unter Leute gehen 
-- [ ] Hotel buchen 
+- [x] Hotel buchen 
+- [x] Klarspülerdeckelhalter flexen 2x
 - [ ] konto checken 
 - [ ] Kräuter trocknen 
 - [ ] saugen 
