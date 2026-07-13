@@ -3049,6 +3049,28 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 # Englisch 
 ## Adverb 
 ## Korrekturen in meinem Ausdruck 
+### 2026-07-13 Proposal
+We were heavily influenced by the importance to avoid contributions of the interfaces to the measurement of the density fluctuations in the two phases by the following formulations in publications.
+
+---
+#### **Problems with the current sentence:**
+
+- **"influenced by the importance to avoid"** is grammatically awkward (you can't be influenced _by_ an importance _to_ do something)
+- **"contributions of the interfaces"** → should be **"contributions from the interfaces"** or **"interface contributions"**
+- The sentence buries the agent (publications) at the end, making it hard to parse
+
+#### **Improved versions:**
+
+1. **Most direct:** _"The following formulations in publications heavily influenced our emphasis on avoiding interface contributions to the measurement of density fluctuations in the two phases."_
+    
+2. ✅<font color="#00b050">Clearer passive voice: </font>_"We were heavily influenced by publications containing the following formulations, which emphasized the importance of avoiding interface contributions when measuring density fluctuations in the two phases."_
+    
+3. **More concise:** _"Publications with the following formulations strongly influenced our focus on avoiding interface contributions to density fluctuation measurements in both phases."_
+    
+4. **Simplest:** _"We were heavily influenced by the following formulations in publications, which stress the importance of avoiding interface contributions to density fluctuation measurements in both phases."_
+    
+
+**Recommendation:** Use **option 1** for clarity and directness, or **option 2** if you want to keep the passive voice but make it grammatically correct.
 ### 2026-07-09 eBay Antwort 
 
 Hey 👋,
