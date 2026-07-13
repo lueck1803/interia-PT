@@ -105,9 +105,11 @@
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Klingel 
+- [ ] Tomaten mark aus Liste austragen 
+- [ ] daten löschen?
 - [ ] saugen 
 - [ ] wischen 
-- [ ] destillliertes wasser flasche bohren
+- [x] destillliertes wasser flasche bohren
 - [x] Kartoffeln + Soße in den Kühlschrank
 - [ ] mtb waschen, ist im Schuppen echt dreckig geworden 
 - [x] neue isolierflasche 
