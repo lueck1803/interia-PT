@@ -140,7 +140,7 @@
 - [x] powerbank laden
 - [ ] powerbank reparieren
 	- [ ] welche ist die defekte?
-	- [ ] löten
+	- [ ] löt
 - [x] entrecôte mit Zwiebeln und Pfeffer braten 
 - [x] Duschen
 - äpfel waschen 
