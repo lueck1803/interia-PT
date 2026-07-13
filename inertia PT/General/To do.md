@@ -117,7 +117,7 @@
 	- ich will unbedingt ins Handeln kommen, leichter und schneller und möglichst die meiste Zeit 
 	- ich möchte mit meinem Näheprojekt beginnen 
 	- ich möchte nadines Socken fertig machen 
-	- ich möchte über
+	- ich möchte unter Leute gehen 
 - [ ] Nudeln kochen 
 - [ ] Hotel buchen 
 - [ ] konto checken 
