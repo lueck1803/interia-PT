@@ -105,11 +105,11 @@
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
 - [x] Klingel 
-- [ ] aus Liste austragen 
-	- [ ] Tomaten mark 
-	- [ ] Dosentomate
-	- [ ] Fusilli 
-- [ ] streichcreme eintragen 
+- [x] aus Liste austragen 
+	- [x] Tomaten mark 
+	- [x] Dosentomate
+	- [x] Fusilli 
+- [x] streichcreme eintragen 
 - [ ] daten löschen?
 	- <font color="#ff0000">ja</font> ich lösche sie 
 	- ⟹denn ich <font color="#7cfc00">will</font> <font color="#ffd700">Veränderung</font> 
@@ -122,7 +122,7 @@
 	- ich möchte mit meinem Näheprojekt beginnen 
 	- ich möchte nadines Socken fertig machen 
 	- ich möchte unter Leute gehen 
-- [ ] Nudeln kochen 
+- [x] Nudeln kochen 
 - [ ] Hotel buchen 
 - [ ] konto checken 
 - [ ] Kräuter trocknen 
@@ -154,7 +154,7 @@
 	- [ ] wie trainiere ich damit richtig
 - [x] reorder presets
 	- [ ] preset auf laptop speichern
-- [ ] dampfdruck kochtopf reinigen
+- [x] dampfdruck kochtopf reinigen
 - [x] Spülmaschine ausräumen
 - [x] waffenbrüder üben
 - [ ] Staubsauger Schlauch Verstopfung 
