@@ -158,7 +158,7 @@
 - [x] Spülmaschine ausräumen
 - [x] waffenbrüder üben
 - [ ] Staubsauger Schlauch Verstopfung 
-- [ ] nocturnal fire tab anschauen - bass line 
+- [x] nocturnal fire tab anschauen - bass line 
 - [x] Gartenbrause im Aldi kaufen?
 	- [x] ja
 	- [x] Schlauch 
