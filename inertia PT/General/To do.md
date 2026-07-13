@@ -114,6 +114,7 @@
 	- ich weiß dass ich das definitiv kann 
 	- das geht nur ohne das und wenn ich mich ohne nachlässig zu sein, an meine Prinzipien halte
 	- und ohne Rückfall mir tief bewusst darüber werde dass ich ein guter Mensch bin, Glück verdient habe, einzig die Kontrolle und Verantwortung über mich, mein Leben und mein Handeln habe 
+	- ich will unbedingt ins handeln
 - [ ] Nudeln kochen 
 - [ ] Hotel buchen 
 - [ ] konto checken 
