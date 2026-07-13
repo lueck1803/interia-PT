@@ -104,6 +104,8 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
+- [ ] auberginen essen in kühlschrank
+- [ ] nudeln in kühlschrank
 - [ ] daten löschen?
 	- <font color="#ff0000">ja</font> ich lösche sie 
 	- ⟹denn ich <font color="#7cfc00">will</font> <font color="#ffd700">Veränderung</font> 
