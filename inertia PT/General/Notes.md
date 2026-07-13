@@ -3063,7 +3063,7 @@ We were heavily influenced by the importance to avoid contributions of the inter
 
 1. **Most direct:** _"The following formulations in publications heavily influenced our emphasis on avoiding interface contributions to the measurement of density fluctuations in the two phases."_
     
-2. ✅<font color="#00b050">Clearer passive voice: </font>_"We were heavily influenced by publications containing the following formulations, which emphasized the importance of avoiding interface contributions when measuring density fluctuations in the two phases."_
+2. ✅<font color="#00b050">**Clearer passive voice**: </font>_"We were heavily influenced by publications containing the following formulations, which emphasized the importance of avoiding interface contributions when measuring density fluctuations in the two phases."_
     
 3. **More concise:** _"Publications with the following formulations strongly influenced our focus on avoiding interface contributions to density fluctuation measurements in both phases."_
     
