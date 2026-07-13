@@ -116,7 +116,8 @@
 	- und ohne Rückfall mir tief bewusst darüber werde dass ich ein guter Mensch bin, Glück verdient habe, einzig die Kontrolle und Verantwortung über mich, mein Leben und mein Handeln habe 
 - [ ] Nudeln kochen 
 - [ ] Hotel buchen 
-- [ ] konto 
+- [ ] konto checken 
+- [ ] Kräuter trocknen 
 - [ ] saugen 
 - [ ] wischen 
 - [x] destillliertes wasser flasche bohren
