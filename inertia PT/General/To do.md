@@ -104,8 +104,10 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
-- [ ] Klingel 
-- [ ] Tomaten mark aus Liste austragen 
+- [x] Klingel 
+- [ ] aus Liste austragen 
+	- [ ] Tomaten mark 
+	- [ ] 
 - [ ] daten löschen?
 	- <font color="#ff0000">ja</font> ich lösche sie 
 	- ⟹denn ich <font color="#7cfc00">will</font> <font color="#ffd700">Veränderung</font> 
@@ -140,7 +142,7 @@
 - [x] powerbank laden
 - [ ] powerbank reparieren
 	- [ ] welche ist die defekte?
-	- [ ] löt
+	- [ ] löten 
 - [x] entrecôte mit Zwiebeln und Pfeffer braten 
 - [x] Duschen
 - äpfel waschen 
