@@ -107,7 +107,7 @@
 - [x] Klingel 
 - [ ] aus Liste austragen 
 	- [ ] Tomaten mark 
-	- [ ] 
+	- [ ] Dosentomate
 - [ ] daten löschen?
 	- <font color="#ff0000">ja</font> ich lösche sie 
 	- ⟹denn ich <font color="#7cfc00">will</font> <font color="#ffd700">Veränderung</font> 
