@@ -118,12 +118,19 @@
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Kartoffeln machen und steak fertig essen
-- [ ] Freitag Kartoffeln + Steak und Paprika machen
+- Freitag (Essen )
+	- [ ] Kartoffeln 
+	- [ ] Steak (2 x Hüftsteak)
+	- [ ] Paprika 
 - [ ] konto checken 
+- [ ] Duolingo 
 - [ ] Kräuter trocknen 
-- [ ] Küche aufräumen + Spülmaschine 
+- [ ] Küche aufräumen 
+- [x] Spülmaschine anstellen 
+- [ ] Spülmaschine ausräumen 
 - [ ] gießen
-- [ ] marone + Walnuss umsetzen 
+- [ ] marone umsetzen 
+- [ ] Walnuss umsetzen 
 - [ ] Balkon kehren 
 - [x] saugen 
 	- [x] Bad fehlt noch <br> ⤷ vorher alles raus räumen damit ich es gescheit machen kann
