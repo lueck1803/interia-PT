@@ -161,7 +161,7 @@
 	- [ ] sofa dampfen
 - [ ] Bürostuhl dampfen
 - [ ] Staubsaugerbeutel wechseln 
-- [ ] lampe im Bad tauschen 
+- [x] lampe im Bad tauschen 
 - [ ] Bauhaus 
 	- [ ] Steckerleiste 
 	- [ ] destilliertes Wasser 
