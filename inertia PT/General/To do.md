@@ -119,7 +119,7 @@
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Muskateller Salbei einpflanzen 
 - [x] füsilier 2 akustik entfernen 
-- [ ] füsilier 2 akustik  laut
+- [x] füsilier 2 akustik  laut
 - [x] frz
 	- [x] répéter
 	- [x] assurance 
