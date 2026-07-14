@@ -104,8 +104,6 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
-- [x] auberginen essen in kühlschrank
-- [x] nudeln in kühlschrank
 - [x] daten löschen?
 	- <font color="#ff0000">ja</font> ich lösche sie 
 	- ⟹denn ich <font color="#7cfc00">will</font> <font color="#ffd700">Veränderung</font> 
@@ -118,8 +116,6 @@
 	- ich möchte mit meinem Näheprojekt beginnen 
 	- ich möchte nadines Socken fertig machen 
 	- ich möchte unter Leute gehen 
-- [x] Hotel buchen 
-- [x] Klarspülerdeckelhalter flexen 2x
 - [ ] konto checken 
 - [ ] Kräuter trocknen 
 - [ ] saugen 
