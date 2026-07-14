@@ -127,7 +127,11 @@
 - [ ] Balkon kehren 
 - [x] saugen 
 	- [x] Bad fehlt noch <br> ⤷ vorher alles raus räumen damit ich es gescheit machen kann
-- [ ] wischen 
+- wischen 
+	- [ ] Bad 
+	- [ ] Küche 
+	- [ ] Schlafzimmer 
+	- [ ] Wohnbereich 
 - [ ] mtb waschen, ist im Schuppen echt dreckig geworden 
 - [ ] powerbank reparieren
 	- [ ] welche ist die defekte?
@@ -152,7 +156,7 @@
 - [ ] was mit Zucchini und Auberginen kochen 
 - [ ] papier kram
 - [ ] Yogamatten auspacken und ausprobieren 
-- [ ] Duschwanne schrubben 
+- [x] Duschwanne schrubben 
 - Waschbecken putzen 
 	- [x] Bad 
 	- [ ] Küche 
