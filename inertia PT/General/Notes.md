@@ -127,7 +127,7 @@ Da wird eher von der Leichtfertigkeit des Blankoschecks gesprochen und damit ein
 
 Solche Verträge waren nun mal normal zu dieser Zeit. Es sind Kaskaden durch die viele Beteiligte in so etwas hinein rutschen.
 
-Der Begriff Urkatastrophe ist da sehr zu trefffend.
+Der Begriff Urkatastrophe ist da sehr zu treffend.
 ## Arthur 2026-07-07
 [7.7., 13:27] Lukas Walter: Wie findest du hier die vocals?
 
