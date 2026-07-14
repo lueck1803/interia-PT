@@ -103,6 +103,31 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+
+## Fredin 2026-07-14
+Ich würde ja sagen, dass es in der Hölle kaum schlimmer sein kann...
+
+Ich finde es extrem absurd. 
+
+Ich meine, wenn der Krieg ein halbes Jahr gedauert hätte und alle dann gemerkt hätten:
+"ja ne... ist zu grausam das ist total sinnlos, wir einigen uns und lassen es bleiben"
+
+Es wurde aber immer nur extremer getrieben.
+
+
+Aus heutiger Sicht kann man das nicht verstehen. Deshalb ist das auch schwierig aus heutiger Sicht so leichtfertig zu werten und der Meinung zu sein, man hätte jetzt einfach logisch sagen können:
+"das wollen wir uns gegenseitig und uns selbst nicht antun"
+
+Hat dann etwas von nem Anschein eines Ehe/Scheidungsstreits, bei der die Macht wirklich so in den Händen von zwei Parteien ist.
+
+Da steckt aus heutiger Sicht auch viel der Gedanke dahinter, dass es so einfach in der Macht Deutschlands gelegen hätte, den Krieg zu beenden.
+
+Ich finde es schade dass es im deutschen Bewusst nahezu fehlt, dass von deutscher Seite vieles versucht wurde den Krieg zu verhindern.
+Da wird eher von der Leichtfertigkeit des Blankoschecks gesprochen und damit eine direkte Kriegsschuld/Verantwortung ausgesprochen.
+
+Solche Verträge waren nun mal normal zu dieser Zeit. Es sind Kaskaden durch die viele Beteiligte in so etwas hinein rutschen.
+
+Der Begriff Urkatastrophe ist da sehr zu trefffend.
 ## Arthur 2026-07-07
 [7.7., 13:27] Lukas Walter: Wie findest du hier die vocals?
 
