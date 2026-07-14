@@ -133,9 +133,9 @@
 - [x] Spülmaschine anstellen 
 - [ ] Spülmaschine ausräumen 
 - [ ] gießen
-- [ ] marone umsetzen 
-- [ ] Walnuss umsetzen 
-- [ ] Balkon kehren 
+- [x] marone umsetzen 
+- [x] Walnuss umsetzen 
+- [x] Balkon kehren 
 - [x] saugen 
 	- [x] Bad fehlt noch <br> ⤷ vorher alles raus räumen damit ich es gescheit machen kann
 - wischen 
