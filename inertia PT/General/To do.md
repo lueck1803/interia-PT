@@ -106,7 +106,7 @@
 - [ ] neuen Kalender für Schule erstellen 
 - [x] auberginen essen in kühlschrank
 - [x] nudeln in kühlschrank
-- [ ] daten löschen?
+- [x] daten löschen?
 	- <font color="#ff0000">ja</font> ich lösche sie 
 	- ⟹denn ich <font color="#7cfc00">will</font> <font color="#ffd700">Veränderung</font> 
 	- ich möchte mein Wesen weiter und insbesondere stärker und schneller zum Guten und Positiven verändern
