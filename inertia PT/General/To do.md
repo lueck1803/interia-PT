@@ -135,8 +135,8 @@
 - [x] saugen 
 	- [x] Bad fehlt noch <br> ⤷ vorher alles raus räumen damit ich es gescheit machen kann
 - wischen 
-	- [ ] Bad 
-	- [ ] Küche 
+	- [x] Bad 
+	- [x] Küche 
 	- [ ] Schlafzimmer 
 	- [ ] Wohnbereich 
 - [ ] mtb waschen, ist im Schuppen echt dreckig geworden 
