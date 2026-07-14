@@ -122,6 +122,8 @@
 - [ ] konto checken 
 - [ ] Kräuter trocknen 
 - [ ] saugen 
+	- [ ] Bad fehlt noch
+	- ⤷ vorher alles raus räumen damit ich es gescheit machen kann
 - [ ] wischen 
 - [ ] mtb waschen, ist im Schuppen echt dreckig geworden 
 - [ ] powerbank reparieren
