@@ -132,7 +132,7 @@
 - [ ] Küche aufräumen 
 - [x] Spülmaschine anstellen 
 - [ ] Spülmaschine ausräumen 
-- [ ] gießen
+- [x] gießen
 - [x] marone umsetzen 
 - [x] Walnuss umsetzen 
 - [x] Balkon kehren 
