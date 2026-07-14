@@ -117,6 +117,7 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
+- [ ] Muskateller Salbei einpflanzen 
 - [x] frz
 	- [x] répéter
 	- [x] assurance 
