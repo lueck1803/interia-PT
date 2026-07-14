@@ -76,6 +76,19 @@
 - mich pflegen, auf mein Äußeres und Auftreten achten
 - <font color="#e36c09">Versündige</font> dich <font color="#ff0000">nicht</font> weiter an dir und deinem Leben
 - <font color="#ff0000">nicht</font> mehr <font color="#ffd700">konsumieren</font> ⟹<font color="#7cfc00">aktiv</font> werden und machen 
+
+- daten löschen?
+	- <font color="#ff0000">ja</font> ich lösche sie 
+	- ⟹denn ich <font color="#7cfc00">will</font> <font color="#ffd700">Veränderung</font> 
+	- ich möchte mein Wesen weiter und insbesondere stärker und schneller zum Guten und Positiven verändern
+	- ich möchte meine Ziele erreichen 
+	- ich weiß dass ich das definitiv kann 
+	- das geht nur ohne das und wenn ich mich ohne nachlässig zu sein, an meine Prinzipien halte
+	- und ohne Rückfall mir tief bewusst darüber werde dass ich ein guter Mensch bin, Glück verdient habe, einzig die Kontrolle und Verantwortung über mich, mein Leben und mein Handeln habe 
+	- ich will unbedingt ins Handeln kommen, leichter und schneller und möglichst die meiste Zeit 
+	- ich möchte mit meinem Näheprojekt beginnen 
+	- ich möchte nadines Socken fertig machen 
+	- ich möchte unter Leute gehen 
 ## was will ich lassen 
 - mich über zu erklären 
 - mich zu rechtfertigen 
@@ -104,18 +117,8 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
-- [x] daten löschen?
-	- <font color="#ff0000">ja</font> ich lösche sie 
-	- ⟹denn ich <font color="#7cfc00">will</font> <font color="#ffd700">Veränderung</font> 
-	- ich möchte mein Wesen weiter und insbesondere stärker und schneller zum Guten und Positiven verändern
-	- ich möchte meine Ziele erreichen 
-	- ich weiß dass ich das definitiv kann 
-	- das geht nur ohne das und wenn ich mich ohne nachlässig zu sein, an meine Prinzipien halte
-	- und ohne Rückfall mir tief bewusst darüber werde dass ich ein guter Mensch bin, Glück verdient habe, einzig die Kontrolle und Verantwortung über mich, mein Leben und mein Handeln habe 
-	- ich will unbedingt ins Handeln kommen, leichter und schneller und möglichst die meiste Zeit 
-	- ich möchte mit meinem Näheprojekt beginnen 
-	- ich möchte nadines Socken fertig machen 
-	- ich möchte unter Leute gehen 
+- [ ] Kartoffeln machen und steak fertig essen
+- [ ] Freitag Kartoffeln + Steak und Paprika machen
 - [ ] konto checken 
 - [ ] Kräuter trocknen 
 - [ ] saugen 
