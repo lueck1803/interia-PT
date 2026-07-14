@@ -126,7 +126,7 @@
 	- [ ] Steak (2 x Hüftsteak)
 	- [ ] Paprika 
 - [ ] konto checken 
-- [ ] Duolingo 
+- [x] Duolingo 
 - [ ] Kräuter trocknen 
 - [ ] Küche aufräumen 
 - [x] Spülmaschine anstellen 
