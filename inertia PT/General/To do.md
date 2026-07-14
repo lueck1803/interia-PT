@@ -117,6 +117,9 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
+- [ ] frz
+	- [ ] répéter
+	- [ ] assurance 
 - [ ] Kartoffeln machen und steak fertig essen
 - Freitag (Essen )
 	- [ ] Kartoffeln 
