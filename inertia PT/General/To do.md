@@ -141,8 +141,8 @@
 - wischen 
 	- [x] Bad 
 	- [x] Küche 
-	- [ ] Schlafzimmer 
-	- [ ] Wohnbereich 
+	- Schlafzimmer <br> gekippt 
+	- [x] Wohnbereich 
 - [ ] mtb waschen, ist im Schuppen echt dreckig geworden 
 - [ ] powerbank reparieren
 	- [ ] welche ist die defekte?
