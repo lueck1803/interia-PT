@@ -137,6 +137,7 @@
 	- [ ] ne waschen und Sofa reinigen
 	- [ ] Sofa saugen 
 	- [ ] sofa dampfen
+- [ ] Bürostuhl dampfen
 - [ ] Staubsaugerbeutel wechseln 
 - [ ] lampe im Bad tauschen 
 - [ ] Bauhaus 
@@ -164,7 +165,7 @@
 	- [ ] watch later knallhart aufräumen 
 - [ ] Sprachaufzeichnung transkribieren 
 - [ ] Akteneintrag Esma fertig machen
-- [ ] wenn ich proposal abgegeben habe, kaufe ich mir ein Ticket für das Festival 
+- [x] wenn ich proposal abgegeben habe, kaufe ich mir ein Ticket für das Festival 
 - [ ] Bas Kram aufräumen 
 - [ ] Proposal 
 - [ ] Hosentaschen graue Hose vergrößern 
@@ -189,7 +190,6 @@
 - [ ] video zum Motivationscoach fertig und Notizen machen 
 - [ ] wann war meine Ausbildung zum Rettungshelfer und was war meine Note
 - [ ] blatt mit denksport physik für licht und schatten erstellen
-- [ ] tinte Drucker auffüllen
 - [ ] aufschreiben dass frontal/Gesprächsunterricht mit den meisten Klassen nicht funktioniert 
 - [ ] [Change your life now](https://youtu.be/pFhMzPxbY4E?is=o7W8uMv3Vc7oasP8) Notizen machen
 - [ ] [fix your adhd morning](https://youtu.be/gsVYI-l_6G8?is=BUHdgIGMxlNq8KT8) was dazu aufschreiben 
@@ -204,8 +204,6 @@
 	- [ ] read: Feedforward neural network
 	- [x] loss function article lesen
 	- [ ] das google paper lesen
-- [ ] Bürostuhl dampfen
-- [ ] sofa dampfen 
 - [ ] papa nachdem selfie stick fragen, den ihm arooj geschenkt hat
 - [ ] abp anstellen
 - [ ] schauen wie ich mein Tablet update
