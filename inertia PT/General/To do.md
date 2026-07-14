@@ -125,8 +125,8 @@
 - [ ] gießen
 - [ ] marone + Walnuss umsetzen 
 - [ ] Balkon kehren 
-- [ ] saugen 
-	- [ ] Bad fehlt noch <br> ⤷ vorher alles raus räumen damit ich es gescheit machen kann
+- [x] saugen 
+	- [x] Bad fehlt noch <br> ⤷ vorher alles raus räumen damit ich es gescheit machen kann
 - [ ] wischen 
 - [ ] mtb waschen, ist im Schuppen echt dreckig geworden 
 - [ ] powerbank reparieren
@@ -139,8 +139,8 @@
 - [ ] Staubsauger Schlauch Verstopfung 
 - [ ] russisch aufschreiben, dafür ein Blatt anlegen 
 - Decken auf sofa richten
-	- [ ] ne waschen und Sofa reinigen
-	- [ ] Sofa saugen 
+	- [x] Decken waschen 
+	- [x] Sofa saugen 
 	- [ ] sofa dampfen
 - [ ] Bürostuhl dampfen
 - [ ] Staubsaugerbeutel wechseln 
