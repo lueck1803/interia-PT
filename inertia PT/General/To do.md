@@ -118,7 +118,8 @@
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Muskateller Salbei einpflanzen 
-- [ ] füsilier 2 akustik entfernen und einmal laut
+- [x] füsilier 2 akustik entfernen 
+- [ ] füsilier 2 akustik  laut
 - [x] frz
 	- [x] répéter
 	- [x] assurance 
