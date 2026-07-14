@@ -121,9 +121,12 @@
 - [ ] Freitag Kartoffeln + Steak und Paprika machen
 - [ ] konto checken 
 - [ ] Kräuter trocknen 
+- [ ] Küche aufräumen + Spülmaschine 
+- [ ] gießen
+- [ ] marone + Walnuss umsetzen 
+- [ ] Balkon kehren 
 - [ ] saugen 
-	- [ ] Bad fehlt noch
-	- ⤷ vorher alles raus räumen damit ich es gescheit machen kann
+	- [ ] Bad fehlt noch <br> ⤷ vorher alles raus räumen damit ich es gescheit machen kann
 - [ ] wischen 
 - [ ] mtb waschen, ist im Schuppen echt dreckig geworden 
 - [ ] powerbank reparieren
