@@ -119,7 +119,7 @@
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Muskateller Salbei einpflanzen 
 - [ ] eBay Benachrichtigungen die nerven ausstellen 
-- [ ] staubsauger Bürstenaufsatz nach innen geknickte borste
+- [ ] staubsauger Bürstenaufsatz nach innen geknickte Borsten wegschneiden
 - [ ] poisson Verteilung Video schauen 
 - [ ] alles für die Probe vorbereiten 
 	- [ ] pods anschließen 
