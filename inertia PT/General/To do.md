@@ -159,7 +159,7 @@
 	- [x] Decken waschen 
 	- [x] Sofa saugen 
 	- [ ] sofa dampfen
-- [ ] Bürostuhl dampfen
+- [x] Bürostuhl dampfen
 - [ ] Staubsaugerbeutel wechseln 
 - [x] lampe im Bad tauschen 
 - [ ] Bauhaus 
