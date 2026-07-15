@@ -121,10 +121,10 @@
 - [ ] poisson Verteilung Video schauen 
 - [ ] alles für die Probe vorbereiten 
 	- [ ] pods anschließen 
-	- [ ] Positionen e
+	- [ ] Positionen einrichten 
 	- [ ] backing track bereit machen <br> ⤷mit roten Bluetooth boxen testen 
-	- [ ] Tremolo Picking üben
-	- [ ] Text und über
+	- [ ] <font color="#ff0000">Tremolo Picking</font> üben
+	- [ ] Text und Übergänge üben
 - [x] füsilier 2 akustik entfernen 
 - [x] füsilier 2 akustik  laut
 - [x] frz
