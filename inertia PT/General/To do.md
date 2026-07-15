@@ -118,6 +118,8 @@
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Muskateller Salbei einpflanzen 
+- [ ] poisson Verteilung Video schauen 
+- [ ] alles für die Probe vorbere
 - [x] füsilier 2 akustik entfernen 
 - [x] füsilier 2 akustik  laut
 - [x] frz
