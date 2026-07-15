@@ -117,6 +117,7 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
+- [ ] podgo an Verstärker anschließen 
 - [x] normales Chrome Symbol aus Taskleiste entfernen 
 - [x] Muskateller Salbei einpflanzen 
 - [ ] poisson Verteilung Video schauen 
