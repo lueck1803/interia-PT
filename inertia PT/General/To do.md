@@ -137,11 +137,10 @@
 	- [ ] Steak (2 x Hüftsteak)
 	- [ ] Paprika 
 - [ ] konto checken 
-- [x] Duolingo 
-- [ ] Kräuter trocknen 
+- [x] Kräuter trocknen 
 - [ ] Küche aufräumen 
 - [x] Spülmaschine anstellen 
-- [ ] Spülmaschine ausräumen 
+- [x] Spülmaschine ausräumen 
 - [x] gießen
 - [x] marone umsetzen 
 - [x] Walnuss umsetzen 
