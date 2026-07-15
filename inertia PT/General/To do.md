@@ -119,7 +119,12 @@
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Muskateller Salbei einpflanzen 
 - [ ] poisson Verteilung Video schauen 
-- [ ] alles für die Probe vorbere
+- [ ] alles für die Probe vorbereiten 
+	- [ ] pods anschließen 
+	- [ ] Positionen e
+	- [ ] backing track bereit machen <br> ⤷mit roten Bluetooth boxen testen 
+	- [ ] Tremolo Picking üben
+	- [ ] Text und über
 - [x] füsilier 2 akustik entfernen 
 - [x] füsilier 2 akustik  laut
 - [x] frz
