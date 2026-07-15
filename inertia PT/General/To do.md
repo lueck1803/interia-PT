@@ -121,6 +121,7 @@
 	- [ ] 4 bier
 	- [ ] eis
 - [ ] Nudeln essen
+- [ ] normales Chrome Symbol aus Taskleiste entfernen 
 - [ ] Muskateller Salbei einpflanzen 
 - [x] eBay Benachrichtigungen die nerven ausstellen 
 - [x] staubsauger Bürstenaufsatz nach innen geknickte Borsten wegschneiden
