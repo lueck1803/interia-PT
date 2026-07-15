@@ -118,6 +118,8 @@
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Muskateller Salbei einpflanzen 
+- [ ] eBay Benachrichtigungen die nerven ausstellen 
+- [ ] staubsauger
 - [ ] poisson Verteilung Video schauen 
 - [ ] alles für die Probe vorbereiten 
 	- [ ] pods anschließen 
