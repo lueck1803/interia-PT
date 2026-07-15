@@ -119,43 +119,20 @@
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] normales Chrome Symbol aus Taskleiste entfernen 
 - [ ] Muskateller Salbei einpflanzen 
-- [x] eBay Benachrichtigungen die nerven ausstellen 
-- [x] staubsauger Bürstenaufsatz nach innen geknickte Borsten wegschneiden
 - [ ] poisson Verteilung Video schauen 
-- [ ] alles für die Probe vorbereiten 
-	- [ ] pods anschließen 
-	- [ ] Positionen einrichten 
-	- [ ] backing track bereit machen <br> ⤷mit roten Bluetooth boxen testen 
-	- [ ] <font color="#ff0000">Tremolo Picking</font> üben
-	- [ ] Text und Übergänge üben
-	- [ ] duschen 
-	- [x] Zähne putzen 
-- [x] füsilier 2 akustik entfernen 
-- [x] füsilier 2 akustik  laut
-- [x] frz
-	- [x] répéter
-	- [x] assurance 
+- [x] alles für die Probe vorbereiten 
+	- [x] pods anschließen 
+	- [x] Positionen einrichten 
+	- [x] backing track bereit machen <br> ⤷mit roten Bluetooth boxen testen 
+	- [x] <font color="#ff0000">Tremolo Picking</font> üben
+	- [x] Text und Übergänge üben
 - [ ] Kartoffeln machen und steak fertig essen
 - Freitag (Essen )
 	- [ ] Kartoffeln 
 	- [ ] Steak (2 x Hüftsteak)
 	- [ ] Paprika 
 - [ ] konto checken 
-- [x] Kräuter trocknen 
 - [ ] Küche aufräumen 
-- [x] Spülmaschine anstellen 
-- [x] Spülmaschine ausräumen 
-- [x] gießen
-- [x] marone umsetzen 
-- [x] Walnuss umsetzen 
-- [x] Balkon kehren 
-- [x] saugen 
-	- [x] Bad fehlt noch <br> ⤷ vorher alles raus räumen damit ich es gescheit machen kann
-- wischen 
-	- [x] Bad 
-	- [x] Küche 
-	- Schlafzimmer <br> ⤷gekippt 
-	- [x] Wohnbereich 
 - [ ] mtb waschen, ist im Schuppen echt dreckig geworden 
 - [ ] powerbank reparieren
 	- [ ] welche ist die defekte?
@@ -170,9 +147,6 @@
 	- [x] Decken waschen 
 	- [x] Sofa saugen 
 	- [ ] sofa dampfen
-- [x] Bürostuhl dampfen
-- [x] Staubsaugerbeutel wechseln 
-- [x] lampe im Bad tauschen 
 - [ ] Bauhaus 
 	- [ ] Steckerleiste 
 	- [ ] destilliertes Wasser 
@@ -180,7 +154,6 @@
 - [ ] was mit Zucchini und Auberginen kochen 
 - [ ] papier kram
 - [ ] Yogamatten auspacken und ausprobieren 
-- [x] Duschwanne schrubben 
 - Waschbecken putzen 
 	- [x] Bad 
 	- [ ] Küche 
@@ -198,13 +171,11 @@
 	- [ ] watch later knallhart aufräumen 
 - [ ] Sprachaufzeichnung transkribieren 
 - [ ] Akteneintrag Esma fertig machen
-- [x] wenn ich proposal abgegeben habe, kaufe ich mir ein Ticket für das Festival 
 - [ ] Bas Kram aufräumen 
 - [ ] Proposal 
 - [ ] Hosentaschen graue Hose vergrößern 
 - [ ] foxit reader Mac aufräumen
 - [ ] Waschbecken Küche 
-- [x] Kochplatten 
 - [ ] einkaufschip
 - [ ] Techniken wie man mit Mobbing umgeht
 - [ ] Adverb im englischen aufschreiben 
