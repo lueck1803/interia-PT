@@ -117,6 +117,10 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
+- [ ] aldi
+	- [ ] 4 bier
+	- [ ] eis
+- [ ] 
 - [ ] Muskateller Salbei einpflanzen 
 - [x] eBay Benachrichtigungen die nerven ausstellen 
 - [x] staubsauger Bürstenaufsatz nach innen geknickte Borsten wegschneiden
