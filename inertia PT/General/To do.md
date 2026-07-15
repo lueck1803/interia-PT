@@ -118,8 +118,8 @@
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Muskateller Salbei einpflanzen 
-- [ ] eBay Benachrichtigungen die nerven ausstellen 
-- [ ] staubsauger Bürstenaufsatz nach innen geknickte Borsten wegschneiden
+- [x] eBay Benachrichtigungen die nerven ausstellen 
+- [x] staubsauger Bürstenaufsatz nach innen geknickte Borsten wegschneiden
 - [ ] poisson Verteilung Video schauen 
 - [ ] alles für die Probe vorbereiten 
 	- [ ] pods anschließen 
@@ -169,7 +169,7 @@
 	- [x] Sofa saugen 
 	- [ ] sofa dampfen
 - [x] Bürostuhl dampfen
-- [ ] Staubsaugerbeutel wechseln 
+- [x] Staubsaugerbeutel wechseln 
 - [x] lampe im Bad tauschen 
 - [ ] Bauhaus 
 	- [ ] Steckerleiste 
@@ -202,7 +202,7 @@
 - [ ] Hosentaschen graue Hose vergrößern 
 - [ ] foxit reader Mac aufräumen
 - [ ] Waschbecken Küche 
-- [ ] Kochplatten 
+- [x] Kochplatten 
 - [ ] einkaufschip
 - [ ] Techniken wie man mit Mobbing umgeht
 - [ ] Adverb im englischen aufschreiben 
