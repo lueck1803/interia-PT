@@ -117,12 +117,6 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
-- [ ] aldi
-	- [ ] 4 bier
-	- [ ] eis
-	- [ ] Bulgur salat
-	- [ ] Kartoffelsalat essig
-	- [ ] pizza snack 
 - [ ] normales Chrome Symbol aus Taskleiste entfernen 
 - [ ] Muskateller Salbei einpflanzen 
 - [x] eBay Benachrichtigungen die nerven ausstellen 
