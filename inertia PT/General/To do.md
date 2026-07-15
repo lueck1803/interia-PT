@@ -117,8 +117,8 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
-- [ ] normales Chrome Symbol aus Taskleiste entfernen 
-- [ ] Muskateller Salbei einpflanzen 
+- [x] normales Chrome Symbol aus Taskleiste entfernen 
+- [x] Muskateller Salbei einpflanzen 
 - [ ] poisson Verteilung Video schauen 
 - [x] alles für die Probe vorbereiten 
 	- [x] pods anschließen 
