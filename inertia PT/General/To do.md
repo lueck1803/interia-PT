@@ -127,7 +127,8 @@
 	- [ ] backing track bereit machen <br> ⤷mit roten Bluetooth boxen testen 
 	- [ ] <font color="#ff0000">Tremolo Picking</font> üben
 	- [ ] Text und Übergänge üben
-	- [ ] duschen und Zähne putzen 
+	- [ ] duschen 
+	- [x] Zähne putzen 
 - [x] füsilier 2 akustik entfernen 
 - [x] füsilier 2 akustik  laut
 - [x] frz
