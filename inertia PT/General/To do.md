@@ -121,7 +121,8 @@
 	- [ ] 4 bier
 	- [ ] eis
 	- [ ] Bulgur salat
-	- [ ] kartoffelsa
+	- [ ] Kartoffelsalat essig
+	- [ ] pizza snack 
 - [ ] normales Chrome Symbol aus Taskleiste entfernen 
 - [ ] Muskateller Salbei einpflanzen 
 - [x] eBay Benachrichtigungen die nerven ausstellen 
