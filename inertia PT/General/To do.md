@@ -132,6 +132,7 @@
 	- [ ] Jägersoße
 	- [ ] Pfeffer 
 - [ ] neuen Kalender für Schule erstellen 
+- [ ] Spülmaschine ausräumen 
 - [x] zahne putzen
 - [x] backing track auf Stick ziehen 
 - [x] Kartoffeln machen 
@@ -155,6 +156,7 @@
 - [x] weiße Wäsche nochmal schleudern 
 - [ ] weiße Wäsche aufhängen 
 - [x] 60° Wäsche 
+- [ ] 60° Wäsche aufhängen 
 - [ ] Zwiebeln für das Essen schneiden 
 - [x] Pilze waschen 
 - [ ] pilze für das Essen schneiden 
