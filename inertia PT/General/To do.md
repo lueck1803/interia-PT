@@ -129,6 +129,8 @@
 - [ ] Gitarre putzen 
 - [ ] Bettwäsche wechseln 
 - [ ] Flaschen spülen 
+- [ ] Pfanne überprüfen
+- [ ] Topf ⟹ Spülmaschine 
 - [ ] steak essen 
 - [ ] Papierkram 
 - [ ] Sofa absaugen 
