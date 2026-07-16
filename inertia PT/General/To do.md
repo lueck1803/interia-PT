@@ -137,6 +137,7 @@
 - [x] Kartoffeln machen 
 - [x] Krafttraining 
 - [ ] Duolingo 
+- [ ] Teller auf Schüssel 
 - [x] weiße Wäsche waschen 
 - aldi
 	- [x] Kartoffeln 
@@ -155,6 +156,7 @@
 - [ ] weiße Wäsche aufhängen 
 - [ ] 60° Wäsche 
 - [ ] Zwiebeln für das Essen schneiden 
+- [ ] Pilze waschen 
 - [ ] pilze für das Essen schneiden 
 - [x] steak essen 
 - [ ] Papierkram 
