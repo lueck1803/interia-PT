@@ -126,7 +126,7 @@
 - [ ] neuen Kalender für Schule erstellen 
 - [x] zahne putzen
 - [x] backing track auf Stick ziehen 
-- [ ] Kartoffeln machen 
+- [x] Kartoffeln machen 
 - [x] Krafttraining 
 - [ ] Duolingo 
 - [x] weiße Wäsche waschen 
@@ -140,7 +140,7 @@
 - [ ] Flaschen spülen 
 - [ ] Pfanne überprüfen
 - [ ] Topf ⟹ Spülmaschine 
-- [ ] Parkplatzsituation für Eltern Checken 
+- [x] Parkplatzsituation für Eltern Checken 
 - [x] weiße Wäsche waschen 
 - [ ] weiße Wäsche nochmal schleudern 
 - [ ] weiße Wäsche aufhängen 
