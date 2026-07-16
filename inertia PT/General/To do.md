@@ -117,16 +117,10 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
-- [ ] podgo an Verstärker anschließen 
-- [x] normales Chrome Symbol aus Taskleiste entfernen 
-- [x] Muskateller Salbei einpflanzen 
+- [ ] 
+- [x] podgo an Verstärker anschließen 
+	- klappt super habe auch die Einstellungen gemacht 
 - [ ] poisson Verteilung Video schauen 
-- [x] alles für die Probe vorbereiten 
-	- [x] pods anschließen 
-	- [x] Positionen einrichten 
-	- [x] backing track bereit machen <br> ⤷mit roten Bluetooth boxen testen 
-	- [x] <font color="#ff0000">Tremolo Picking</font> üben
-	- [x] Text und Übergänge üben
 - [ ] Kartoffeln machen und steak fertig essen
 - Freitag (Essen )
 	- [ ] Kartoffeln 
@@ -153,7 +147,6 @@
 	- [ ] destilliertes Wasser 
 - [ ] Zeug auf Motten überprüfen 
 - [ ] was mit Zucchini und Auberginen kochen 
-- [ ] papier kram
 - [ ] Yogamatten auspacken und ausprobieren 
 - Waschbecken putzen 
 	- [x] Bad 
