@@ -131,6 +131,7 @@
 - [ ] Flaschen spülen 
 - [ ] Pfanne überprüfen
 - [ ] Topf ⟹ Spülmaschine 
+- [ ] weiße Wäsche waschen 
 - [ ] steak essen 
 - [ ] Papierkram 
 - [ ] Sofa absaugen 
