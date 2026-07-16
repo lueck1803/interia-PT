@@ -128,6 +128,7 @@
 	- [ ] Kartoffelsalat 
 - [ ] Gitarre putzen 
 - [ ] Bettwäsche wechseln 
+- [ ] Flaschen spülen 
 - [ ] steak essen 
 - [ ] Papierkram 
 - [ ] Sofa absaugen 
