@@ -131,7 +131,9 @@
 - [ ] Flaschen spülen 
 - [ ] Pfanne überprüfen
 - [ ] Topf ⟹ Spülmaschine 
-- [ ] weiße Wäsche waschen 
+- [x] weiße Wäsche waschen 
+- [ ] weiße Wäsche nochmal schleudern 
+- [ ] weiße Wäsche aufhängen 
 - [ ] steak essen 
 - [ ] Papierkram 
 - [ ] Sofa absaugen 
