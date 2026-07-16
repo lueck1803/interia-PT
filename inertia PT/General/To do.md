@@ -136,6 +136,7 @@
 - [x] weiße Wäsche waschen 
 - [ ] weiße Wäsche nochmal schleudern 
 - [ ] weiße Wäsche aufhängen 
+- [ ] 60° Wäsche 
 - [ ] steak essen 
 - [ ] Papierkram 
 - [x] Sofa absaugen 
