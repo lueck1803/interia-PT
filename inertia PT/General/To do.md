@@ -133,42 +133,19 @@
 	- [ ] Pfeffer 
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Spülmaschine ausräumen 
-- [x] zahne putzen
-- [x] backing track auf Stick ziehen 
-- [x] Kartoffeln machen 
-- [x] Krafttraining 
 - [ ] Duolingo 
-- [x] Teller auf Schüssel 
-- [x] weiße Wäsche waschen 
-- aldi
-	- [x] Kartoffeln 
-	- ⤷ brauche ich nicht, die reichen 
-	- [x] Hüftsteak 
-	- Kartoffelsalat 
-		- gab es nicht
 - [ ] Gitarre putzen 
 - [ ] Bettwäsche wechseln 
 - [ ] Flaschen spülen 
-- [ ] Pfanne überprüfen
-- [ ] Topf ⟹ Spülmaschine 
-- [x] Parkplatzsituation für Eltern Checken 
-- [x] weiße Wäsche waschen 
-- [x] weiße Wäsche nochmal schleudern 
 - [ ] weiße Wäsche aufhängen 
-- [x] 60° Wäsche 
 - [ ] 60° Wäsche aufhängen 
 - [ ] Zwiebeln für das Essen schneiden 
-- [x] Pilze waschen 
 - [ ] pilze für das Essen schneiden 
-- [x] steak essen 
 - [ ] Papierkram 
-- [x] Sofa absaugen 
 - [ ] Decke aufs sofa
 - [ ] Dampfreiniger Weg 
 - [ ] Balkon gießen 
 - [ ] Schulgarten gießen 
-- [x] podgo an Verstärker anschließen 
-	- klappt super habe auch die Einstellungen gemacht 
 - [ ] poisson Verteilung Video schauen 
 - [ ] konto checken 
 - [ ] Küche aufräumen 
@@ -248,8 +225,6 @@
 - [ ] lernen schneller und kleiner an der Tafel zu schreiben
 - [ ] simon nach seinen Folien fragen 
 - [ ] Vorderrad Bremse checken/einstellen/tauschen 
-- [ ] Klingel checken 
-	- [ ] bzw. Mit neuer Klingel tauschen
 - [ ] meditieren 
 - [ ] tägliches Mantra aufräumen 
 - [ ] mich mal nach nem anderen file Browser (handy) umschauen 
@@ -827,6 +802,8 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] <span style="color:coral">paartherapie S3 runterladen</span>
 
 # Alt
+- [x] podgo an Verstärker anschließen 
+	- klappt super habe auch die Einstellungen gemacht 
 - [ ] in die Uni fahren und schauen ob ich ein Displayport-Displayport Kabel finde bzw. DP-Kabel kaufen...
 	- [ ] ich lass die Situation mit dem umgestellten Bildschirm 
 - [ ] sobald ich den Vertrag unterschrieben habe, karte für psychedelic festival kaufen 
