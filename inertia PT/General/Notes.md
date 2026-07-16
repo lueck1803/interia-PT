@@ -134,7 +134,30 @@ Das war definitiv zu dem Zeitpunkt so, hat mich auch gestört.
 Das lag definitiv am delay in der Soundsituation, durch die vielen Überlagerungen hab ich den Bass nicht richtig gehört 
 
 Ich hatte am Ende auch körperlich neurologische Ausfallerscheinungen, durch das verzerrte Soundfeedback, ich hab dann die Saiten nicht mehr getroffen.
+### 2
+Ich bin auf nem guten Weg dahin.
 
+Und danke. 
+
+Danke auch immer für die Kritik.
+
+Damit nicht zurück halten, falls du das Gefühl hast mich damit zu verletzen oder zu nerven.
+
+Gestern kam es ja kurz auch so rüber als wäre ich von deinem Einwand bzgl intro Waffenbrüder genervt.
+
+Das war ich nicht. 
+
+Ich war wegen dem delay zum backing track den ich auch nicht ganz gehört habe, da auch nicht on time.
+
+Und das ist störend, für dich und mich. 
+
+Ging dann ja. 
+
+Ich finde du bist dann manchmal auch etwas gestresst und hektisch, wenn es darum geht über die Ursache des jeweiligen Problems zu sprechen und warst zwar zurecht genervt dass wir wieder so lange gebraucht haben bis das Setup gepasst hat, als du diesen Unmut heraus gelassen hast, kam das aber mit einem Ton rüber als hätte nur ich mich an Kleinigkeiten gestört und hätte herum gemacht.
+
+Es ging dir da ja genau so und im Endeffekt waren es Punkte die uns beiden aufgefallen sind.
+
+Du hast dich nicht gehört, ich hab mich nicht gehört, wir haben uns lauter gedreht, wir haben den backing track nicht gehört, am Ende war es zu laut dass es mich überlastet hat und ich dagegen anbrüllen musste.
 ## Fredin 2026-07-14
 Ich würde ja sagen, dass es in der Hölle kaum schlimmer sein kann...
 
