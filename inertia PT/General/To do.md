@@ -120,7 +120,7 @@
 - [x] zahne putzen
 - [x] backing track auf Stick ziehen 
 - [ ] Kartoffeln machen 
-- [ ] Krafttraining 
+- [x] Krafttraining 
 - [ ] Duolingo 
 - [x] weiße Wäsche waschen 
 - aldi
