@@ -104,6 +104,7 @@ Kind regards
 Lukas Walter 
 # Nachrichten an Leute
 ## 2026-07-16 Arthur 
+### 1
 Ich war ja zeitweise auch etwas komisch drauf / überreizt/gestresst von der Soundsituation und hab komisches Zeug gehört, das ging dir ja auch so.
 
 Das war blöd mit den roten Bluetooth boxen die sind dafür kacke, gibt hier dann insgesamt zu viele elektromagnetische Interferenzen.
