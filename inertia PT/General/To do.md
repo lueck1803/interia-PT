@@ -138,8 +138,9 @@
 - [ ] weiße Wäsche aufhängen 
 - [ ] steak essen 
 - [ ] Papierkram 
-- [ ] Sofa absaugen 
-- [ ] Sofa nochmal dampfen
+- [x] Sofa absaugen 
+- [ ] Decke aufs sofa
+- [ ] Dampfreiniger Weg 
 - [ ] Balkon gießen 
 - [ ] Schulgarten gießen 
 - [x] podgo an Verstärker anschließen 
