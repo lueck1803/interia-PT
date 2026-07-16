@@ -143,7 +143,7 @@
 - [ ] Topf ⟹ Spülmaschine 
 - [x] Parkplatzsituation für Eltern Checken 
 - [x] weiße Wäsche waschen 
-- [ ] weiße Wäsche nochmal schleudern 
+- [x] weiße Wäsche nochmal schleudern 
 - [ ] weiße Wäsche aufhängen 
 - [ ] 60° Wäsche 
 - [ ] Zwiebeln für das Essen schneiden 
