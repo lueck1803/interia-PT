@@ -133,8 +133,9 @@
 - aldi
 	- [x] Kartoffeln 
 	- ⤷ brauche ich nicht, die reichen 
-	- [ ] Hüftsteak 
-	- [ ] Kartoffelsalat 
+	- [x] Hüftsteak 
+	- Kartoffelsalat 
+		- h
 - [ ] Gitarre putzen 
 - [ ] Bettwäsche wechseln 
 - [ ] Flaschen spülen 
