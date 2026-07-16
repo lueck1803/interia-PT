@@ -103,6 +103,36 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+## 2026-07-16 Arthur 
+Ich war ja zeitweise auch etwas komisch drauf / überreizt/gestresst von der Soundsituation und hab komisches Zeug gehört, das ging dir ja auch so.
+
+Das war blöd mit den roten Bluetooth boxen die sind dafür kacke, gibt hier dann insgesamt zu viele elektromagnetische Interferenzen.
+
+Prinzipiell geht's uns mit den Störgeräuschen die uns auffallen ja ähnlich.
+
+Beim finden der Ursache waren wir uns nicht ganz einig.
+
+Ich fand's eher auch etwas unfair dass du es dann gestern so rüber gebracht hast, dass "die Kleinigkeiten" an denen ich mich aufhalten würde, bei mir lägen.
+An der Soundsituation hast du dich genau so gestört und wir haben die Wechsel nicht nur wegen mir gemacht.
+
+Es war dann auch extrem laut (du machst dich lauter, ich soll den backing track lauter machen und dann mache ich mich auch wieder lauter, dabei will ich es möglichst leise haben), dagegen musste ich dann auch anbrüllen und bin aus der passenden Spannung im vocal trakt gerutscht, dann wird das anstrengend und ich hab insgesamt nicht mehr die geistige Energie.
+
+Manche Dinge sind eben auch keine Kleinigkeit.
+
+Du fandest das mit dem Clean preset ja nicht gut. Und das fand ich wichtig dass wir uns da abstimmen bzw. Wollte ich ja auch wissen wie du es findest.
+Der abrupte Wechsel beim Umschalten in das Clean preset ist mir natürlich auch aufgefallen und ist durchaus unangenehm, das klappt wenn ich es richtig time, aber 3 - 4 Sachen gleichzeitig sind da dann echt hart. Dazu kommt dass ich teilweise Gleichgewichts Probleme habe, weshalb mir das Footswitchen schwer fällt 😅.
+Der Übergang ist mit der delay Einstellung besser.
+Auch wenn ich mit dem delay nicht so zufrieden bin, da der delay dann auch haptik Feedback Probleme in meinem Körper erzeugt 😅.
+
+Es wird alles etwas schwammig und ich rutsch da nur noch leichter aus der Reihenfolge und dem Timing.
+
+Zeitweise hattest du dann das Gefühl ich sei von dir genervt und wäre bzgl deines Vorschlags nicht aufnahmefähig. Dabei bin ich darauf ja eingegangen. 
+Ich wusste tatsächlich nicht warum das an der Stelle bei dir so rüber kam.
+Im Endeffekt habe ich dann gemerkt dass du beim intro raus gebracht wirst weil ich wohl nicht ganz im Timing bin. 
+Das war definitiv zu dem Zeitpunkt so, hat mich auch gestört.
+Das lag definitiv am delay in der Soundsituation, durch die vielen Überlagerungen hab ich den Bass nicht richtig gehört 
+
+Ich hatte am Ende auch körperlich neurologische Ausfallerscheinungen, durch das verzerrte Soundfeedback, ich hab dann die Saiten nicht mehr getroffen.
 
 ## Fredin 2026-07-14
 Ich würde ja sagen, dass es in der Hölle kaum schlimmer sein kann...
