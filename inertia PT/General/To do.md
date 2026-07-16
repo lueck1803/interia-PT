@@ -145,6 +145,7 @@
 - [ ] weiße Wäsche nochmal schleudern 
 - [ ] weiße Wäsche aufhängen 
 - [ ] 60° Wäsche 
+- [ ] Zwiebeln für das Essen schneiden 
 - [ ] steak essen 
 - [ ] Papierkram 
 - [x] Sofa absaugen 
