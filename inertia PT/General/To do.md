@@ -117,7 +117,13 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
-- [ ] 
+- [ ] zahne putzen
+- [ ] Krafttraining 
+- [ ] Kartoffeln machen und steak essen 
+- [x] aldi
+	- [ ] Kartoffeln 
+	- [ ] Hüftsteak 
+	- [ ] Kartoffelsalat 
 - [x] podgo an Verstärker anschließen 
 	- klappt super habe auch die Einstellungen gemacht 
 - [ ] poisson Verteilung Video schauen 
