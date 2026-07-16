@@ -135,7 +135,7 @@
 	- ⤷ brauche ich nicht, die reichen 
 	- [x] Hüftsteak 
 	- Kartoffelsalat 
-		- h
+		- gab es nicht
 - [ ] Gitarre putzen 
 - [ ] Bettwäsche wechseln 
 - [ ] Flaschen spülen 
@@ -147,6 +147,7 @@
 - [ ] weiße Wäsche aufhängen 
 - [ ] 60° Wäsche 
 - [ ] Zwiebeln für das Essen schneiden 
+- [ ] pilze für das Essen schneiden 
 - [ ] steak essen 
 - [ ] Papierkram 
 - [x] Sofa absaugen 
