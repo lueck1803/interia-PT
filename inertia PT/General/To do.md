@@ -116,6 +116,13 @@
 - frische Luft
 - mich und mein Leben im Griff haben
 # unsortiert
+- [ ] MMA
+	- [ ] gitarre im gigbag 
+	- [ ] beide 2,5mm auf 3,5 mm Adapter 
+	- [ ] podgo
+	- [ ] gelbes Gitarrenkabel 
+	- [ ] weißes Gitarrenkabel 
+	- [ ] 
 - [ ] neuen Kalender für Schule erstellen 
 - [x] zahne putzen
 - [x] backing track auf Stick ziehen 
