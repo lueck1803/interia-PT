@@ -118,6 +118,7 @@
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] zahne putzen
+- [x] backing track auf Stick ziehen 
 - [ ] Kartoffeln machen 
 - [ ] Krafttraining 
 - [ ] Duolingo 
@@ -126,6 +127,7 @@
 	- [ ] Hüftsteak 
 	- [ ] Kartoffelsalat 
 - [ ] Gitarre putzen 
+- [ ] Bettwäsche wechseln 
 - [ ] steak essen 
 - [ ] Papierkram 
 - [ ] Sofa absaugen 
