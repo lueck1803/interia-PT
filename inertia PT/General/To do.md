@@ -122,7 +122,7 @@
 	- [ ] podgo
 	- [ ] gelbes Gitarrenkabel 
 	- [ ] weißes Gitarrenkabel 
-	- [ ] 
+	- [ ] be'lakor Shirt 
 - [ ] neuen Kalender für Schule erstellen 
 - [x] zahne putzen
 - [x] backing track auf Stick ziehen 
