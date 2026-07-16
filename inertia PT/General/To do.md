@@ -117,7 +117,7 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
-- [ ] zahne putzen
+- [x] zahne putzen
 - [x] backing track auf Stick ziehen 
 - [ ] Kartoffeln machen 
 - [ ] Krafttraining 
