@@ -122,6 +122,7 @@
 - [ ] Kartoffeln machen 
 - [ ] Krafttraining 
 - [ ] Duolingo 
+- [x] weiße Wäsche waschen 
 - aldi
 	- [ ] Kartoffeln 
 	- [ ] Hüftsteak 
@@ -131,6 +132,7 @@
 - [ ] Flaschen spülen 
 - [ ] Pfanne überprüfen
 - [ ] Topf ⟹ Spülmaschine 
+- [ ] Parkplatzsituation für Eltern Checken 
 - [x] weiße Wäsche waschen 
 - [ ] weiße Wäsche nochmal schleudern 
 - [ ] weiße Wäsche aufhängen 
