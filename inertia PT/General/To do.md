@@ -118,17 +118,24 @@
 # unsortiert
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] zahne putzen
+- [ ] Kartoffeln machen 
 - [ ] Krafttraining 
-- [ ] Kartoffeln machen und steak essen 
-- [x] aldi
+- [ ] Duolingo 
+- aldi
 	- [ ] Kartoffeln 
 	- [ ] Hüftsteak 
 	- [ ] Kartoffelsalat 
+- [ ] Gitarre putzen 
+- [ ] steak essen 
+- [ ] Papierkram 
+- [ ] Sofa absaugen 
+- [ ] Sofa nochmal dampfen
+- [ ] Balkon gießen 
+- [ ] Schulgarten gießen 
 - [x] podgo an Verstärker anschließen 
 	- klappt super habe auch die Einstellungen gemacht 
 - [ ] poisson Verteilung Video schauen 
-- [ ] Kartoffeln machen und steak fertig essen
-- Freitag (Essen )
+- Freitag (Essen)
 	- [ ] Kartoffeln 
 	- [ ] Steak (2 x Hüftsteak)
 	- [ ] Paprika 
