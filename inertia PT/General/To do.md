@@ -116,13 +116,21 @@
 - frische Luft
 - mich und mein Leben im Griff haben
 # unsortiert
-- [ ] MMA
+- MMA
 	- [ ] gitarre im gigbag 
 	- [ ] beide 2,5mm auf 3,5 mm Adapter 
 	- [ ] podgo
 	- [ ] gelbes Gitarrenkabel 
 	- [ ] weißes Gitarrenkabel 
 	- [ ] be'lakor Shirt 
+- Freitag (Essen)
+	- [ ] Kartoffeln 
+	- [ ] Steak (2 x Hüftsteak)
+	- [ ] Paprika 
+	- [ ] Pilze 
+	- [ ] Zwiebeln 
+	- [ ] Jägersoße
+	- [ ] Pfeffer 
 - [ ] neuen Kalender für Schule erstellen 
 - [x] zahne putzen
 - [x] backing track auf Stick ziehen 
@@ -148,7 +156,7 @@
 - [ ] 60° Wäsche 
 - [ ] Zwiebeln für das Essen schneiden 
 - [ ] pilze für das Essen schneiden 
-- [ ] steak essen 
+- [x] steak essen 
 - [ ] Papierkram 
 - [x] Sofa absaugen 
 - [ ] Decke aufs sofa
@@ -158,10 +166,6 @@
 - [x] podgo an Verstärker anschließen 
 	- klappt super habe auch die Einstellungen gemacht 
 - [ ] poisson Verteilung Video schauen 
-- Freitag (Essen)
-	- [ ] Kartoffeln 
-	- [ ] Steak (2 x Hüftsteak)
-	- [ ] Paprika 
 - [ ] konto checken 
 - [ ] Küche aufräumen 
 - [ ] mtb waschen, ist im Schuppen echt dreckig geworden 
