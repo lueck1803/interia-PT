@@ -124,7 +124,8 @@
 - [ ] Duolingo 
 - [x] weiße Wäsche waschen 
 - aldi
-	- [ ] Kartoffeln 
+	- [x] Kartoffeln 
+	- ⤷ brauche ich nicht, die reichen 
 	- [ ] Hüftsteak 
 	- [ ] Kartoffelsalat 
 - [ ] Gitarre putzen 
