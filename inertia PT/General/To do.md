@@ -132,16 +132,16 @@
 	- [ ] Jägersoße
 	- [ ] Pfeffer 
 - [ ] neuen Kalender für Schule erstellen 
-- [ ] sofa nochmal saugen 
+- [x] sofa nochmal saugen 
 - [x] paprika im yoghurt Becher in terra Cotta bottich
 - [ ] weitere Paprika hinter Schnittlauch 
 - [ ] Spülmaschine ausräumen 
-- [ ] Duolingo 
+- [x] Duolingo 
 - [ ] Gitarre putzen 
 - [ ] Bettwäsche wechseln 
 - [ ] Flaschen spülen 
-- [ ] 60° Wäsche schleudern 
-- [ ] 60° Wäsche aufhängen 
+- [x] 60° Wäsche schleudern 
+- [x] 60° Wäsche aufhängen 
 - [ ] Zwiebeln für das Essen schneiden 
 - [ ] pilze für das Essen schneiden 
 - [ ] Papierkram 
