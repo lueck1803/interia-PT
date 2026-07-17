@@ -129,21 +129,23 @@
 	- [x] Paprika 
 	- [x] Pilze 
 	- [x] Zwiebeln 
-	- [ ] Jägersoße
-	- [ ] Pfeffer 
+	- hab ich nicht verwendet:
+		- [ ] Jägersoße
+		- [ ] Pfeffer 
+	- dafür habe ich eine Soße mit Tomatenmark und Wasser gemacht/ den Saft etwas angedickt
 - [ ] neuen Kalender für Schule erstellen 
 - [x] sofa nochmal saugen 
 - [x] paprika im yoghurt Becher in terra Cotta bottich
 - [ ] weitere Paprika hinter Schnittlauch 
-- [ ] Spülmaschine ausräumen 
+- [x] Spülmaschine ausräumen 
 - [x] Duolingo 
-- [ ] Gitarre putzen 
-- [ ] Bettwäsche wechseln 
+- [x] Gitarre putzen 
+- [x] Bettwäsche wechseln 
 - [ ] Flaschen spülen 
 - [x] 60° Wäsche schleudern 
 - [x] 60° Wäsche aufhängen 
-- [ ] Zwiebeln für das Essen schneiden 
-- [ ] pilze für das Essen schneiden 
+- [x] Zwiebeln für das Essen schneiden 
+- [x] pilze für das Essen schneiden 
 - [ ] Papierkram 
 - [x] Decke aufs sofa
 - [ ] Dampfreiniger Weg 
