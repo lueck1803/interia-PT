@@ -124,11 +124,11 @@
 	- [ ] weißes Gitarrenkabel 
 	- [ ] be'lakor Shirt 
 - Freitag (Essen)
-	- [ ] Kartoffeln 
-	- [ ] Steak (2 x Hüftsteak)
-	- [ ] Paprika 
-	- [ ] Pilze 
-	- [ ] Zwiebeln 
+	- [x] Kartoffeln 
+	- [x] Steak (2 x Hüftsteak)
+	- [x] Paprika 
+	- [x] Pilze 
+	- [x] Zwiebeln 
 	- [ ] Jägersoße
 	- [ ] Pfeffer 
 - [ ] neuen Kalender für Schule erstellen 
