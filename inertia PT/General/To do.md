@@ -133,7 +133,7 @@
 	- [ ] Pfeffer 
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] sofa nochmal saugen 
-- [ ] paprika im yoghurt Becher in terra Cotta bottich
+- [x] paprika im yoghurt Becher in terra Cotta bottich
 - [ ] weitere Paprika hinter Schnittlauch 
 - [ ] Spülmaschine ausräumen 
 - [ ] Duolingo 
@@ -145,7 +145,7 @@
 - [ ] Zwiebeln für das Essen schneiden 
 - [ ] pilze für das Essen schneiden 
 - [ ] Papierkram 
-- [ ] Decke aufs sofa
+- [x] Decke aufs sofa
 - [ ] Dampfreiniger Weg 
 - [x] Balkon gießen 
 - [ ] Schulgarten gießen 
