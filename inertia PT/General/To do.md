@@ -132,6 +132,7 @@
 	- [ ] Jägersoße
 	- [ ] Pfeffer 
 - [ ] neuen Kalender für Schule erstellen 
+- [ ] sofa nochmal saugen 
 - [ ] paprika im yoghurt Becher in terra Cotta bottich
 - [ ] weitere Paprika hinter Schnittlauch 
 - [ ] Spülmaschine ausräumen 
@@ -139,7 +140,7 @@
 - [ ] Gitarre putzen 
 - [ ] Bettwäsche wechseln 
 - [ ] Flaschen spülen 
-- [x] weiße Wäsche aufhängen 
+- [ ] 60° Wäsche schleudern 
 - [ ] 60° Wäsche aufhängen 
 - [ ] Zwiebeln für das Essen schneiden 
 - [ ] pilze für das Essen schneiden 
