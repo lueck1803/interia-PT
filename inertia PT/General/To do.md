@@ -132,19 +132,21 @@
 	- [ ] Jägersoße
 	- [ ] Pfeffer 
 - [ ] neuen Kalender für Schule erstellen 
+- [ ] paprika im yoghurt Becher in terra Cotta bottich
+- [ ] weitere Paprika hinter Schnittlauch 
 - [ ] Spülmaschine ausräumen 
 - [ ] Duolingo 
 - [ ] Gitarre putzen 
 - [ ] Bettwäsche wechseln 
 - [ ] Flaschen spülen 
-- [ ] weiße Wäsche aufhängen 
+- [x] weiße Wäsche aufhängen 
 - [ ] 60° Wäsche aufhängen 
 - [ ] Zwiebeln für das Essen schneiden 
 - [ ] pilze für das Essen schneiden 
 - [ ] Papierkram 
 - [ ] Decke aufs sofa
 - [ ] Dampfreiniger Weg 
-- [ ] Balkon gießen 
+- [x] Balkon gießen 
 - [ ] Schulgarten gießen 
 - [ ] poisson Verteilung Video schauen 
 - [ ] konto checken 
