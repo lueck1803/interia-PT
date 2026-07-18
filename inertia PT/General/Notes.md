@@ -103,6 +103,142 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+## 2026-07-18 E-Mail Arooj 
+Hey
+
+🤭Oh typisch Arooj so fleißig, prompt und emsig, dass du direkt ne Briefmarke gekauft hast. 
+
+Ich nehme die dann. 😉
+
+Ich hätte sie dir auch in den Briefkasten geworfen.
+
+3. Person ist Quatsch.
+
+Aber schade dass du offenbar immer noch so viel Abstand zu mir halten musst, dass du jemanden anders schicken musst.
+
+Ich hätte wirklich kein Problem damit dich zu sehen und ehrlich gesagt würde ich dich auch gerne mal wieder sehen, mal so 🤷.
+
+Ich hoffe die Wogen haben sich gelegt. Bei mir haben sie sich jedenfalls definitiv.
+
+Ich bin dir wirklich dankbar dass du so stark warst ,zu dir und deinem Unwohlsein gestanden hast und es durch gezogen hast.
+
+So hart, schmerzhaft, schade es und in der Zeit letztes Jahr unverständlich der Schritt für mich auch war.
+
+Ich hab diese harte Zäsur, den Schmerz, die tiefe Einsamkeit, Ausweglosigkeit und Verlorenheit gebraucht.
+
+Um zu merken, dass ich auf mich allein gestellt bin, ich mich da alleine heraus holen und mein Leben wieder selbst in die Hand nehmen muss und das auch kann. 
+
+Ich war wirklich irgendwas zu tief in der Hilf- und Machtlosigkeit drin und habe mich dieser ergeben, mich dieser unterworfen und mich dann zu sehr von dir emotional abhängig gemacht.
+Überhaupt war ich extrem emotional eingesperrt, auch was meine Familie angeht und hab mich da so extrem vom Urteil meiner Eltern abhängig gemacht und darauf die letzten Jahre irgendwie gewartet dass sie da etwas tun und nicht so indifferent sind, es ihnen scheinbar egal ist und mir sogar noch die Verantwortung zu spielen.
+
+Ich musste lernen mich da emotional komplett zu lösen, mich und meinen Wert und die Deutung der Situation mit meiner Schwester nicht mehr vom Urteil meiner Eltern abhängig zu machen.
+Ich war da noch in meiner Kindbeziehung zu meiner Familie gefangen und hab immer wieder diese Rolle eingenommen.
+
+Ich musste dem endlich entwachsen.
+Seitdem ich zu mir stehe, auch für meine Positionen und für meine Eltern aber auch meine Grenzen ihnen gegenüber einstehe, ist das Verhältnis ganz anders. 
+
+Ich hätte das gerne mit dir zusammen geschafft und auch so vieles mit dir zusammen erlebt.
+
+Ich bin dir wirklich sehr dankbar, dass du über die intensive und wertvolle Zeit die ich mit dir verbringen durfte, immer wieder mein Rückgrat gestärkt hast und mir aus getrieben hast (auch wenn es sehr sehr lange gebraucht hat), dass ich selbst mit mir so abwertend um gehe und für mich und meinen Platz einstehe.
+
+Das habe ich von dir gelernt. Auch wenn du es mir vielleicht nicht glaubst, ich hab es dir zwar auch immer wieder gesagt mich leider auch gleichzeitig darüber immer wieder beschwert, daher war die Botschaft dass ich das als eine hohe Qualität von dir angesehen habe und ich immer sehr zu dir auf geblickt habe nicht so an. 
+Ich hab graduell von dir gelernt und hab mich halt immer auch wieder dagegen gewehrt, im Endeffekt war es mein innerer Kampf gegen meine Glaubenssätze und Scham.
+
+Ohne dass du diesen Cut gemacht hast, wäre ich wohl nie da ansatzweise heraus aufgewacht.
+
+Ich hab immer am besten durch Schmerz gelernt.
+Ich hätte nur länger Qualen gelitten, das wäre nur ein schleichender Tod gewesen, den ich eh sterben musste.
+
+Ich musste lernen wieder auf eigenen Beinen zu stehen.
+
+Es war am Ende wirklich nicht mehr mit mir auszuhalten. Ich habe es ja selbst nicht mit mir ausgehalten.
+Und dass ich dir und auch mir gerne das geben wollte, was du und ich so dringend wollten, es aber in meiner Paralyse nicht konnte, hat das Leid, den Druck und die Paralyse nur noch größer gemacht.
+
+Ich hab dich leiden gesehen, ich hab darunter auch gelitten, nicht so sein zu können wie ich sein wollte. 
+Das weißt du ja auch. Mir hat es immer auch leid getan wie unerträglich ich bei meiner Familie war und auch mit dir in einigen Situationen.
+
+Ich war da extrem gefangen, ich hab um Hilfe gebettelt und sie auch von dir bekommen, ich bin dir dafür wirklich sehr dankbar, du hast dich wirklich sehr auf geopfert, ich hab das auch angenommen und geschätzt, ich konnte leider vieles nicht so schnell umsetzen und verstehen wie ich es wollte. 
+
+Meine Inneren Hürden waren sehr groß, es hat Zeit und viel Erkenntnis durch die Ereignisse der letzten Jahre gebraucht, um daran zu wachsen und sie durchbrechen zu können.
+Da waren zu viele starre Muster durch die ich alleine durch musste. 
+
+Danke dass du so stark geblieben bist und mich letztes Jahr im Frühjahr immer wieder abgewehrt und weggestoßen hast.
+
+Sonst wäre ich nie durch diesen Graben gegangen.
+
+Es tut mir echt leid in welche Rolle ich in der Beziehung die letzten Jahre über die Zeit eingenommen hatte und in welche Rolle dich das gedrängt hat. 
+
+Du hast da irgendwann eine Mutterrolle übernommen. Danke dass du das gemacht hast und für mich da warst. 
+Ich hab meine Rolle der Hilfs- und Orientierungslosigkeit zu lange eingenommen und konnte ihr nicht schnell genug entfliehen.
+
+Das lag an der falschen Prämisse, ich hab das immer für uns schaffen wollen, aber nie für mich. 
+Diese Abhängigkeit, das fehlende für mich stehen, eigenständig, losgelöst von dir etwas tun und ja selbst auch Entscheidungen treffen, was du jahrelang kritisiert hast, ich aber nicht begriffen habe worin die Ursache und die Lösung liegt, eben in dieser emotionalen Abhängigkeit, die ich als etwas positives gedreht habe, auch wenn es mir permanent vor Augen war dass es das nicht ist und mein großes Problem war. 
+Die emotionale Abhängigkeit hatte ich ja auch gegenüber meiner Familie.
+
+Durch den Konflikt mit meiner Schwester ist da ja nur noch mehr Bedeutung und Abhängigkeit für mich in die Beziehung gefallen und damit Last auf dich. 
+Da hattest du am Ende echt ne große Last zu tragen.
+Das war eine tolle Partnerschaft die ich sehr zu schätzen weiß.
+Danke dass du so lange diese Last getragen hast und mir immer etwas Gutes wolltest, trotz alle dem.
+
+Ich weiß zumindest dass du mir immer etwas Gutes wolltest, auch wenn ich das nicht immer so wahrgenommen habe. 
+
+Ich hoffe du weißt auch dass ich dir nichts Böses wollte.
+
+Mit dir habe ich so schön meine
+
+On Sat, 18 Jul 2026, 13:30 Arooj Sajjad, <sajjadarooj63@gmail.com> wrote:
+Hallo Lukas!
+
+vielen Dank für die Info. Ich schlage vor, Du sendest es mir per Post zu. Ich habe soeben eine digitale Briefmarke gekauft:
+
+#PORTO 9TENKEY2
+
+Das ist ein Code für eine Frankierung eines DIN Lang Briefs für bis zu 50g. Sollte der Porto mehr kosten, lass es mich bitte umgehend wissen.
+
+Es würde mich freuen, wenn Du den Code nutzt, um den Brief mit folgender Anschrift überklebt, an mich zu senden:
+
+Weingartenstraße 37
+64297 Darmstadt Eberstadt
+
+Alternativ: Ich könnte eine 3. Person für eine Übergabe beauftragen. Der postalische Versand wäre dennoch der einfachste Weg.
+
+Lass mich gerne wissen, wie Du ihn mir zukommen lassen möchtest.
+
+Vielen Dank nochmal für die Info und Danke im Voraus für Deine Bemühungen und alles Gute weiterhin.
+
+Arooj
+
+Fr. Arooj Sajjad عروج سجاد
+Am 18.07.2026 um 12:59 schrieb Lukas Ludwig Walter:
+Hallo Liebe Arooj,
+
+ich habe eben als ich nach Hause kam in den Briefkasten geschaut.
+
+Da ist ein Brief für dich vom Bundesverwaltungsamt Köln.
+
+Ich war leider seit letzter Woche viel unterwegs und habe seitdem nicht in den Briefkasten geschaut, daher weiß ich nicht seitwann der Brief im Briefkasten lag.
+
+Ich vermute aber dass der erst die letzten Tage kam, da er ganz oben lag.
+
+Ich hoffe es ist alles gut bei dir.
+
+Ich wollte dir so schnell wie möglich Bescheid geben.
+Es steht auch "nicht nachsenden" drauf. 
+
+Wie hättest du gerne dass ich dir den Brief zukommen lasse?
+
+Weißt du worum es geht? 
+Sag Bescheid wie wichtig es ist.
+
+Du kannst gerne anrufen oder ähnliches, wenn es dir nichts ausmacht.
+
+LG Lukas 
+
+Hier das Bild vom Adressfeld 
+
+
+
+
 ## 2026-07-16 Arthur 
 ### 1
 Ich war ja zeitweise auch etwas komisch drauf / überreizt/gestresst von der Soundsituation und hab komisches Zeug gehört, das ging dir ja auch so.
@@ -1650,7 +1786,7 @@ Meine Fragen dazu sind:
 - 
 # Tage infolge Produktiv
 Tage produktiv gewesen:
-||||\ ||
+||||\ |||
 
 
 
