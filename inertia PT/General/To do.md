@@ -118,7 +118,8 @@
 # unsortiert
 - [ ] Salat und Basilikum im Schulgarten säen
 - [ ] salat auf Balkon säen
-- [ ] salatsamen im Keller oder Samenkasten suchen 
+- [ ] salatsamen im Keller oder Samenkasten suchen
+- [ ] rote Beete im Schulgarten ernten
 - MMA
 	- [ ] gitarre im gigbag 
 	- [ ] beide 2,5mm auf 3,5 mm Adapter 
