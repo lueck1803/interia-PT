@@ -116,7 +116,9 @@
 - frische Luft
 - mich und mein Leben im Griff haben
 # unsortiert
-- [ ] Salat 
+- [ ] Salat und Basilikum im Schulgarten säen
+- [ ] salat auf Balkon säen
+- [ ] salatsamen im Keller oder Samenkasten suchen 
 - MMA
 	- [ ] gitarre im gigbag 
 	- [ ] beide 2,5mm auf 3,5 mm Adapter 
