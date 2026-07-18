@@ -151,6 +151,55 @@ Ich hätte nur länger Qualen gelitten, das wäre nur ein schleichender Tod gewe
 
 Ich musste lernen wieder auf eigenen Beinen zu stehen.
 
+Hey
+
+🤭Oh typisch Arooj so fleißig, prompt und emsig, dass du direkt ne Briefmarke gekauft hast. 
+
+Ich nehme die dann. 😉
+
+Ich hätte sie dir auch in den Briefkasten geworfen.
+
+3. Person ist Quatsch.
+
+Aber schade dass du offenbar immer noch so viel Abstand zu mir halten musst, dass du jemanden anders schicken musst.
+
+Ich verstehe das aber und respektiere es.
+
+Ich hätte wirklich kein Problem damit dich zu sehen und ehrlich gesagt würde ich dich auch gerne mal wieder sehen, mal so 🤷.
+
+Ich hoffe die Wogen haben sich gelegt. Bei mir haben sie sich jedenfalls definitiv.
+
+Ich bin dir wirklich dankbar dass du so stark warst ,zu dir und deinem Unwohlsein gestanden hast und es durch gezogen hast.
+
+So hart, schmerzhaft, schade es und in der Zeit letztes Jahr unverständlich der Schritt für mich auch war.
+
+Ich hab diese harte Zäsur, den Schmerz, die tiefe Einsamkeit, Ausweglosigkeit und Verlorenheit gebraucht.
+
+Um zu merken, dass ich auf mich allein gestellt bin, ich mich da alleine heraus holen und mein Leben wieder selbst in die Hand nehmen muss und das auch kann. 
+
+Ich war wirklich irgendwas zu tief in der Hilf- und Machtlosigkeit drin und habe mich dieser ergeben, mich dieser unterworfen und mich dann zu sehr von dir emotional abhängig gemacht.
+Überhaupt war ich extrem emotional eingesperrt, auch was meine Familie angeht und hab mich da so extrem vom Urteil meiner Eltern abhängig gemacht und darauf die letzten Jahre irgendwie gewartet dass sie da etwas tun und nicht so indifferent sind, es ihnen scheinbar egal ist und mir sogar noch die Verantwortung zu spielen.
+
+Ich musste lernen mich da emotional komplett zu lösen, mich und meinen Wert und die Deutung der Situation mit meiner Schwester nicht mehr vom Urteil meiner Eltern abhängig zu machen.
+Ich war da noch in meiner Kindbeziehung zu meiner Familie gefangen und hab immer wieder diese Rolle eingenommen.
+
+Ich musste dem endlich entwachsen.
+Seitdem ich zu mir stehe, auch für meine Positionen und für meine Eltern aber auch meine Grenzen ihnen gegenüber einstehe, ist das Verhältnis ganz anders. 
+
+Ich hätte das gerne mit dir zusammen geschafft und auch so vieles mit dir zusammen erlebt.
+
+Ich bin dir wirklich sehr dankbar, dass du über die intensive und wertvolle Zeit die ich mit dir verbringen durfte, immer wieder mein Rückgrat gestärkt hast und mir aus getrieben hast (auch wenn es sehr sehr lange gebraucht hat), dass ich selbst mit mir so abwertend um gehe und für mich und meinen Platz einstehe.
+
+Das habe ich von dir gelernt. Auch wenn du es mir vielleicht nicht glaubst, ich hab es dir zwar auch immer wieder gesagt mich leider auch gleichzeitig darüber immer wieder beschwert, daher war die Botschaft dass ich das als eine hohe Qualität von dir angesehen habe und ich immer sehr zu dir auf geblickt habe nicht so an. 
+Ich hab graduell von dir gelernt und hab mich halt immer auch wieder dagegen gewehrt, im Endeffekt war es mein innerer Kampf gegen meine Glaubenssätze und Scham.
+
+Ohne dass du diesen Cut gemacht hast, wäre ich wohl nie da ansatzweise heraus aufgewacht.
+
+Ich hab immer am besten durch Schmerz gelernt.
+Ich hätte nur länger Qualen gelitten, das wäre nur ein schleichender Tod gewesen, den ich eh sterben musste.
+
+Ich musste lernen wieder auf eigenen Beinen zu stehen.
+
 Es war am Ende wirklich nicht mehr mit mir auszuhalten. Ich habe es ja selbst nicht mit mir ausgehalten.
 Und dass ich dir und auch mir gerne das geben wollte, was du und ich so dringend wollten, es aber in meiner Paralyse nicht konnte, hat das Leid, den Druck und die Paralyse nur noch größer gemacht.
 
@@ -184,7 +233,10 @@ Ich weiß zumindest dass du mir immer etwas Gutes wolltest, auch wenn ich das ni
 
 Ich hoffe du weißt auch dass ich dir nichts Böses wollte.
 
-Mit dir habe ich so schön meine
+Mit dir habe ich so schön meine Freude an den kleinen Dingen im und am Leben wieder entdecken können. 
+
+Liebe Grüße 
+Lukas
 
 On Sat, 18 Jul 2026, 13:30 Arooj Sajjad, <sajjadarooj63@gmail.com> wrote:
 Hallo Lukas!
