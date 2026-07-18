@@ -116,6 +116,7 @@
 - frische Luft
 - mich und mein Leben im Griff haben
 # unsortiert
+- [ ] Salat 
 - MMA
 	- [ ] gitarre im gigbag 
 	- [ ] beide 2,5mm auf 3,5 mm Adapter 
