@@ -120,40 +120,12 @@
 - [ ] salat auf Balkon säen
 - [ ] salatsamen im Keller oder Samenkasten suchen
 - [ ] rote Beete im Schulgarten ernten
-- MMA
-	- [ ] gitarre im gigbag 
-	- [ ] beide 2,5mm auf 3,5 mm Adapter 
-	- [ ] podgo
-	- [ ] gelbes Gitarrenkabel 
-	- [ ] weißes Gitarrenkabel 
-	- [ ] be'lakor Shirt 
-- Freitag (Essen)
-	- [x] Kartoffeln 
-	- [x] Steak (2 x Hüftsteak)
-	- [x] Paprika 
-	- [x] Pilze 
-	- [x] Zwiebeln 
-	- hab ich nicht verwendet:
-		- [ ] Jägersoße
-		- [ ] Pfeffer 
-	- dafür habe ich eine Soße mit Tomatenmark und Wasser gemacht/ den Saft etwas angedickt
 - [ ] neuen Kalender für Schule erstellen 
-- [x] sofa nochmal saugen 
-- [x] paprika im yoghurt Becher in terra Cotta bottich
 - [ ] weitere Paprika hinter Schnittlauch 
-- [x] Spülmaschine ausräumen 
-- [x] Duolingo 
-- [x] Gitarre putzen 
-- [x] Bettwäsche wechseln 
+- [ ] Duolingo 
 - [ ] Flaschen spülen 
-- [x] 60° Wäsche schleudern 
-- [x] 60° Wäsche aufhängen 
-- [x] Zwiebeln für das Essen schneiden 
-- [x] pilze für das Essen schneiden 
 - [ ] Papierkram 
-- [x] Decke aufs sofa
 - [ ] Dampfreiniger Weg 
-- [x] Balkon gießen 
 - [ ] Schulgarten gießen 
 - [ ] poisson Verteilung Video schauen 
 - [ ] konto checken 
@@ -811,6 +783,16 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] <span style="color:coral">paartherapie S3 runterladen</span>
 
 # Alt
+- Freitag (Essen)
+	- [x] Kartoffeln 
+	- [x] Steak (2 x Hüftsteak)
+	- [x] Paprika 
+	- [x] Pilze 
+	- [x] Zwiebeln 
+	- hab ich nicht verwendet:
+		- [ ] Jägersoße
+		- [ ] Pfeffer 
+	- dafür habe ich eine Soße mit Tomatenmark und Wasser gemacht/ den Saft etwas angedickt
 - [x] podgo an Verstärker anschließen 
 	- klappt super habe auch die Einstellungen gemacht 
 - [ ] in die Uni fahren und schauen ob ich ein Displayport-Displayport Kabel finde bzw. DP-Kabel kaufen...
