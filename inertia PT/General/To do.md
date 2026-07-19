@@ -117,8 +117,9 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [ ] Biomüll weg
-- [ ] Tafel wischen 
-- [ ] Lappen Küche tauschen 
+- [x] Tafel wischen 
+- [x] Lappen Küche tauschen 
+- [ ] Balkonpflanzen gießen 
 - [ ] Salat und Basilikum im Schulgarten säen
 - [ ] salat auf Balkon säen
 - [ ] salatsamen im Keller oder Samenkasten suchen
