@@ -127,7 +127,7 @@
 - [ ] Flaschen spülen 
 - [ ] Papierkram 
 - [ ] Dampfreiniger Weg 
-- [ ] Schulgarten gießen 
+- [x] Schulgarten gießen 
 - [ ] poisson Verteilung Video schauen 
 - [ ] konto checken 
 - [ ] Küche aufräumen 
