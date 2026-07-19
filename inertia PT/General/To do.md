@@ -116,6 +116,7 @@
 - frische Luft
 - mich und mein Leben im Griff haben
 # unsortiert
+- [ ] Biomüll weg
 - [ ] Salat und Basilikum im Schulgarten säen
 - [ ] salat auf Balkon säen
 - [ ] salatsamen im Keller oder Samenkasten suchen
