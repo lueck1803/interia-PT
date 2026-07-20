@@ -177,7 +177,7 @@
 - [x] Essen 
 - [x] paprika vom Essen von Freitag austragen
 - [x] Tastatur wischen
-- [ ] Duschen
+- [x] Duschen
 - [ ] Wäsche abhängen 
 - [ ] Wäsche zusammen legen 
 - [ ] carnivoren Wasser auffüllen 
