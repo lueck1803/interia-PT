@@ -131,19 +131,26 @@
 		- [ ] wie sieht das Verhalten bei höherer PE bei höherer Masse aus? 
 		- [ ] sind die interfaces stable im kritischen bereich?
 	- [ ] simulationen gestartet:
-		- [ ] br 1:10
-			- [ ] 14k 
-				- [ ] PE 35
+		- br 1:10
+			- 14k 
+				- PE 35
+					- [x] M 0.040
+					- [ ] M 0.065
+				- PE 40
+					- [x] M 0.040
+					- [ ] M 0.065
+		- br 1:3
+			- 14k 
+				- PE 35
+					- [ ] <font color="#ff0000">M 0.040</font> (noch nicht gestartet)
 					- [ ] M 0.065
 				- [ ] PE 40
+					- [ ] <font color="#ff0000">M 0.040</font> (noch nicht gestartet)
 					- [ ] M 0.065
-		- [ ] br 1:3
-			- [ ] 14k 
-				- [ ] PE 35
-					- [ ] M 0.065
-		- [ ] br 1:5
-			- [ ] 14k 
-				- [ ] PE 35
+		- br 1:5
+			- 14k 
+				- PE 35
+					- [ ] <font color="#ff0000">M 0.040</font> (noch nicht gestartet)
 					- [ ] M 0.065
 	- [ ] welche snapshots hatte ich denn zuletzt gemacht?
 	- [ ] snapshots von diesen abspeichern 
