@@ -121,7 +121,7 @@
 - [x] Schulgarten gießen 
 - [x] Aldi Tofu 
 - [x] zeug von jasmin drucken
-- [ ] Flaschen spülen 
+- [x] Flaschen spülen 
 - [x] Kartoffeln in Fritteuse 
 - proposal 
 	- [ ] was zu PE schreiben
