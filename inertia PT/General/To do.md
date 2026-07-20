@@ -118,7 +118,8 @@
 # unsortiert
 - [ ] Biomüll weg
 - [ ] Aldi Tofu 
-- [ ] 
+- [ ] Wäsche abhängen 
+- [ ] Wäsche zusammen legen 
 - [x] in Sofaecke saugen 
 - [ ] Spülmaschine ausräumen 
 - [x] Tafel wischen 
