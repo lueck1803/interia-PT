@@ -120,6 +120,7 @@
 - [ ] Aldi Tofu 
 - [ ] Wäsche abhängen 
 - [ ] Wäsche zusammen legen 
+- [ ] carnivoren Wasser auffüllen 
 - [x] in Sofaecke saugen 
 - [ ] Spülmaschine ausräumen 
 - [x] Tafel wischen 
