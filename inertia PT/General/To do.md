@@ -116,8 +116,14 @@
 - frische Luft
 - mich und mein Leben im Griff haben
 # unsortiert
-- [ ] Biomüll weg
+- [x] Biomüll weg
+- [ ] rote Beete im Schulgarten ernten
+- [ ] Schulgarten gießen 
 - [ ] Aldi Tofu 
+- [ ] Flaschen spülen 
+- [ ] Kartoffeln in Fritteuse 
+- [ ] proposal 
+- [ ] Essen 
 - [ ] Wäsche abhängen 
 - [ ] Wäsche zusammen legen 
 - [ ] carnivoren Wasser auffüllen 
@@ -125,16 +131,13 @@
 - [ ] Spülmaschine ausräumen 
 - [x] Tafel wischen 
 - [x] Lappen Küche tauschen 
-- [ ] Schulgarten gießen 
 - [ ] Balkonpflanzen gießen 
 - [ ] Salat und Basilikum im Schulgarten säen
 - [ ] salat auf Balkon säen
 - [ ] salatsamen im Keller oder Samenkasten suchen
-- [ ] rote Beete im Schulgarten ernten
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] weitere Paprika hinter Schnittlauch 
 - [ ] Duolingo 
-- [ ] Flaschen spülen 
 - [ ] Papierkram 
 - [ ] poisson Verteilung Video schauen 
 - [ ] konto checken 
