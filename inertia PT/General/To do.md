@@ -130,6 +130,21 @@
 	- [ ] letzte simulationen anschauen
 		- [ ] wie sieht das Verhalten bei höherer PE bei höherer Masse aus? 
 		- [ ] sind die interfaces stable im kritischen bereich?
+	- [ ] simulationen gestartet:
+		- [ ] br 1:10
+			- [ ] 14k 
+				- [ ] PE 35
+					- [ ] M 0.065
+				- [ ] PE 40
+					- [ ] M 0.065
+		- [ ] br 1:3
+			- [ ] 14k 
+				- [ ] PE 35
+					- [ ] M 0.065
+		- [ ] br 1:5
+			- [ ] 14k 
+				- [ ] PE 35
+					- [ ] M 0.065
 	- [ ] welche snapshots hatte ich denn zuletzt gemacht?
 	- [ ] snapshots von diesen abspeichern 
 		- [ ] ⤷ zu Pe is the main factor hinzufügen und beschreiben 
