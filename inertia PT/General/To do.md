@@ -134,24 +134,27 @@
 		- br 1:10
 			- 14k 
 				- PE 35
-					- [x] M 0.040
-					- [ ] M 0.065
+					- M 0.040 <font color="#92d050">fertig</font>
+					- [x] M 0.065
 				- PE 40
-					- [x] M 0.040
-					- [ ] M 0.065
+					- M 0.040 <font color="#92d050">fertig</font>
+					- [x] M 0.065
 		- br 1:3
 			- 14k 
 				- PE 35
-					- [ ] <font color="#ff0000">M 0.040</font> (noch nicht gestartet)
-					- [ ] M 0.065
-				- [ ] PE 40
-					- [ ] <font color="#ff0000">M 0.040</font> (noch nicht gestartet)
-					- [ ] M 0.065
+					- [ ] M 0.040 <font color="#ff0000">(noch nicht gestartet)</font>
+					- [x] M 0.065
+				- PE 40
+					- [ ] M 0.040 <font color="#ff0000">(noch nicht gestartet)</font>
+					- [ ] M 0.065 <font color="#ff0000">(noch nicht gestartet)</font>
 		- br 1:5
 			- 14k 
 				- PE 35
-					- [ ] <font color="#ff0000">M 0.040</font> (noch nicht gestartet)
-					- [ ] M 0.065
+					- [ ] M 0.040 <font color="#ff0000">(noch nicht gestartet)</font>
+					- [x] M 0.065
+				- PE 40
+					- [ ] M 0.040 <font color="#ff0000">(noch nicht gestartet)</font>
+					- [ ] M 0.065 <font color="#ff0000">(noch nicht gestartet)</font>
 	- [ ] welche snapshots hatte ich denn zuletzt gemacht?
 	- [ ] snapshots von diesen abspeichern 
 		- [ ] ⤷ zu Pe is the main factor hinzufügen und beschreiben 
