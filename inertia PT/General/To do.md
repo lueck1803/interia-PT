@@ -119,7 +119,8 @@
 - [x] Biomüll weg
 - [x] rote Beete im Schulgarten ernten
 - [x] Schulgarten gießen 
-- [ ] Aldi Tofu 
+- [x] Aldi Tofu 
+- [ ] zeugcv
 - [ ] Flaschen spülen 
 - [ ] Kartoffeln in Fritteuse 
 - [ ] proposal 
