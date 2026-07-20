@@ -125,6 +125,7 @@
 - [ ] Spülmaschine ausräumen 
 - [x] Tafel wischen 
 - [x] Lappen Küche tauschen 
+- [ ] Schulgarten gießen 
 - [ ] Balkonpflanzen gießen 
 - [ ] Salat und Basilikum im Schulgarten säen
 - [ ] salat auf Balkon säen
@@ -135,8 +136,6 @@
 - [ ] Duolingo 
 - [ ] Flaschen spülen 
 - [ ] Papierkram 
-- [x] Dampfreiniger Weg 
-- [x] Schulgarten gießen 
 - [ ] poisson Verteilung Video schauen 
 - [ ] konto checken 
 - [ ] Küche aufräumen 
