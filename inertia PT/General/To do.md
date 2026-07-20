@@ -117,6 +117,7 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [ ] Biomüll weg
+- [ ] Spülmaschine ausräumen 
 - [x] Tafel wischen 
 - [x] Lappen Küche tauschen 
 - [ ] Balkonpflanzen gießen 
@@ -129,7 +130,7 @@
 - [ ] Duolingo 
 - [ ] Flaschen spülen 
 - [ ] Papierkram 
-- [ ] Dampfreiniger Weg 
+- [x] Dampfreiniger Weg 
 - [x] Schulgarten gießen 
 - [ ] poisson Verteilung Video schauen 
 - [ ] konto checken 
