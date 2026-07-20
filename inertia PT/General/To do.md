@@ -120,9 +120,9 @@
 - [x] rote Beete im Schulgarten ernten
 - [x] Schulgarten gießen 
 - [x] Aldi Tofu 
-- [ ] zeug von jasmin drucken
+- [x] zeug von jasmin drucken
 - [ ] Flaschen spülen 
-- [ ] Kartoffeln in Fritteuse 
+- [x] Kartoffeln in Fritteuse 
 - [ ] proposal 
 - [ ] Essen 
 - [ ] Wäsche abhängen 
