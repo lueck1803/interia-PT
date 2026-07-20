@@ -131,10 +131,10 @@
 	- [ ] welche snapshots hatte ich denn zuletzt gemacht?
 	- [ ] snapshots von diesen abspeichern 
 		- [ ] ⤷ zu Pe is the main factor hinzufügen und beschreiben 
-		- [ ] 1:5 und 1:3
+		- [ ] 1:5, 1:3 und 1:10 mit höherer PE
 	- [ ] den teil zur elongated box fertig schreiben
 		- [ ] begünstigt aufsplittung
-		- [ ] 
+		- [ ] kleinere finite size größe bei gleichzeitig viel größerem simulationsaufwand
 - [x] Essen 
 - [x] paprika vom Essen von Freitag austragen
 - [ ] Duschen
