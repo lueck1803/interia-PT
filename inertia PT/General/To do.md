@@ -124,7 +124,8 @@
 - [ ] Flaschen spülen 
 - [x] Kartoffeln in Fritteuse 
 - [ ] proposal 
-- [ ] Essen 
+- [x] Essen 
+- [x] paprika vom Essen von Freitag austragen
 - [ ] Wäsche abhängen 
 - [ ] Wäsche zusammen legen 
 - [ ] carnivoren Wasser auffüllen 
