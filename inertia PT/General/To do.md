@@ -176,6 +176,7 @@
 		- [ ] kleinere finite size größe bei gleichzeitig viel größerem simulationsaufwand
 - [x] Essen 
 - [x] paprika vom Essen von Freitag austragen
+- [ ] Tastatur wischen
 - [ ] Duschen
 - [ ] Wäsche abhängen 
 - [ ] Wäsche zusammen legen 
