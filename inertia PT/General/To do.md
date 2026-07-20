@@ -129,7 +129,7 @@
 		- [ ] erwähung des phase diagrams
 	- [ ] letzte simulationen anschauen
 		- [ ] wie sieht das Verhalten bei höherer PE bei höherer Masse aus? 
-		- [ ] 
+		- [ ] sind die interfaces stable im kritischen bereich?
 	- [ ] welche snapshots hatte ich denn zuletzt gemacht?
 	- [ ] snapshots von diesen abspeichern 
 		- [ ] ⤷ zu Pe is the main factor hinzufügen und beschreiben 
