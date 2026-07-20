@@ -124,13 +124,20 @@
 - [ ] Flaschen spülen 
 - [x] Kartoffeln in Fritteuse 
 - proposal 
+	- [ ] was zu PE schreiben
+		- [ ] leichte erhöhung -> stable und connected
+		- [ ] erwähung des phase diagrams
 	- [ ] letzte simulationen anschauen
-	- [ ] welche screen
+	- [ ] welche snapshots hatte ich denn zuletzt gemacht?
 	- [ ] snapshots von diesen abspeichern 
 		- [ ] ⤷ zu Pe is the main factor hinzufügen und beschreiben 
 		- [ ] 1:5 und 1:3
+	- [ ] den teil zur elongated box fertig schreiben
+		- [ ] begünstigt aufsplittung
+		- [ ] 
 - [x] Essen 
 - [x] paprika vom Essen von Freitag austragen
+- [ ] Duschen
 - [ ] Wäsche abhängen 
 - [ ] Wäsche zusammen legen 
 - [ ] carnivoren Wasser auffüllen 
