@@ -117,7 +117,7 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [x] Biomüll weg
-- [ ] rote Beete im Schulgarten ernten
+- [x] rote Beete im Schulgarten ernten
 - [ ] Schulgarten gießen 
 - [ ] Aldi Tofu 
 - [ ] Flaschen spülen 
