@@ -123,7 +123,12 @@
 - [x] zeug von jasmin drucken
 - [ ] Flaschen spülen 
 - [x] Kartoffeln in Fritteuse 
-- [ ] proposal 
+- proposal 
+	- [ ] letzte simulationen anschauen
+	- [ ] welche screen
+	- [ ] snapshots von diesen abspeichern 
+		- [ ] ⤷ zu Pe is the main factor hinzufügen und beschreiben 
+		- [ ] 1:5 und 1:3
 - [x] Essen 
 - [x] paprika vom Essen von Freitag austragen
 - [ ] Wäsche abhängen 
