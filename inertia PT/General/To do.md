@@ -120,7 +120,7 @@
 - [x] rote Beete im Schulgarten ernten
 - [x] Schulgarten gießen 
 - [x] Aldi Tofu 
-- [ ] zeugcv
+- [ ] zeug von jasmin drucken
 - [ ] Flaschen spülen 
 - [ ] Kartoffeln in Fritteuse 
 - [ ] proposal 
