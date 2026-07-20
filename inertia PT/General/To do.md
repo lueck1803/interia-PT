@@ -117,7 +117,9 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [ ] Biomüll weg
-- [ ] in Sofaecke saugen 
+- [ ] Aldi Tofu 
+- [ ] 
+- [x] in Sofaecke saugen 
 - [ ] Spülmaschine ausräumen 
 - [x] Tafel wischen 
 - [x] Lappen Küche tauschen 
