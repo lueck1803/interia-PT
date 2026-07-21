@@ -120,7 +120,12 @@
 - [ ] friseur 
 - [x] rote Beete putzen
 - [ ] rote Beete zubereiten 
-- [ ] Essen mit Tofu, Auberginen, Zucchini und Paprika aus derkochen 
+- [ ] schauen, wann es Steckerleiste im Aldi gibt
+- [ ] Essen mit ... kochen
+	- [x] Tofu
+	- [ ] Auberginen
+	- [ ] Zucchini 
+	- [ ] Paprika aus der Truhe  
 - [x] Arthur wegen my sleeping karma schreiben 
 - [x] Biomüll weg
 - [x] rote Beete im Schulgarten ernten
