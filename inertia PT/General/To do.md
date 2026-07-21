@@ -120,7 +120,7 @@
 - [ ] friseur 
 - [ ] rote Beete putzen
 - [ ] rote Beete zubereiten 
-- [ ] Arthur wegen my sleeping karma schreiben 
+- [x] Arthur wegen my sleeping karma schreiben 
 - [x] Biomüll weg
 - [x] rote Beete im Schulgarten ernten
 - [x] Schulgarten gießen 
