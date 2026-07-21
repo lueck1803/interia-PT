@@ -117,15 +117,16 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [x] Fritteuse reinigen 
+- [x] Pflanzen in Gewächshaus checken
 - [ ] friseur 
 - [x] rote Beete putzen
 - [ ] rote Beete zubereiten 
 - [ ] schauen, wann es Steckerleiste im Aldi gibt
 - [ ] Essen mit ... kochen
 	- [x] Tofu
-	- [ ] Auberginen
-	- [ ] Zucchini 
-	- [ ] Paprika aus der Truhe  
+	- [x] Auberginen
+	- [x] Zucchini 
+	- [x] Paprika aus der Truhe  
 - [x] grüne paprika aus liste austragen
 - [x] Arthur wegen my sleeping karma schreiben 
 - proposal 
@@ -180,7 +181,7 @@
 		- [ ] begünstigt aufsplittung
 		- [ ] kleinere finite size größe bei gleichzeitig viel größerem simulationsaufwand
 - [x] carnivoren Wasser auffüllen 
-- [ ] Spülmaschine ausräumen 
+- [x] Spülmaschine ausräumen 
 - [ ] Balkonpflanzen gießen 
 - [ ] Salat und Basilikum im Schulgarten säen
 - [ ] salat auf Balkon säen
