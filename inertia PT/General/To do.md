@@ -116,21 +116,12 @@
 - frische Luft
 - mich und mein Leben im Griff haben
 # unsortiert
-- [x] Fritteuse reinigen 
-- [x] Pflanzen in Gewächshaus checken
+- [x] Duolingo 
 - [ ] friseur 
 - [ ] gelben Sack
 - [ ] Papier Müll 
-- [x] rote Beete putzen
 - [ ] rote Beete zubereiten 
 - [ ] schauen, wann es Steckerleiste im Aldi gibt
-- [x] Essen mit ... kochen
-	- [x] Tofu
-	- [x] Auberginen
-	- [x] Zucchini 
-	- [x] Paprika aus der Truhe  
-- [x] grüne paprika aus liste austragen
-- [x] Arthur wegen my sleeping karma schreiben 
 - proposal 
 	- [ ] was zu PE schreiben
 		- [ ] leichte erhöhung -> stable und connected
@@ -182,15 +173,12 @@
 	- [ ] den teil zur elongated box fertig schreiben
 		- [ ] begünstigt aufsplittung
 		- [ ] kleinere finite size größe bei gleichzeitig viel größerem simulationsaufwand
-- [x] carnivoren Wasser auffüllen 
-- [x] Spülmaschine ausräumen 
 - [ ] Balkonpflanzen gießen 
 - [ ] Salat und Basilikum im Schulgarten säen
 - [ ] salat auf Balkon säen
 - [ ] salatsamen im Keller oder Samenkasten suchen
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] weitere Paprika hinter Schnittlauch 
-- [ ] Duolingo 
 - [ ] Papierkram 
 - [ ] poisson Verteilung Video schauen 
 - [ ] konto checken 
