@@ -1,8 +1,8 @@
 - [ ] gelbe Zwiebeln 
 - [ ] Steckerleiste (Aldi) 
 - [ ] Dosentomaten 
-- [ ] nusskati
-- toast
+- [ ] Toast
+- [ ] Nusskati 
 - [x] Kartoffeln
 - [x] rinder steak 🥩
 - [x] hafermilch
@@ -23,7 +23,6 @@
 - [x] Bananen 
 - [x] so ein soja Essen
 - [x] Backpulver 
-- [x] Nusskati 
 - [x] Bolognese soße
 - [x] Mundspülung 
 - [x] Alufolie 
