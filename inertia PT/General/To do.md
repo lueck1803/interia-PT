@@ -126,14 +126,8 @@
 	- [ ] Auberginen
 	- [ ] Zucchini 
 	- [ ] Paprika aus der Truhe  
+- [x] grüne paprika aus liste austragen
 - [x] Arthur wegen my sleeping karma schreiben 
-- [x] Biomüll weg
-- [x] rote Beete im Schulgarten ernten
-- [x] Schulgarten gießen 
-- [x] Aldi Tofu 
-- [x] zeug von jasmin drucken
-- [x] Flaschen spülen 
-- [x] Kartoffeln in Fritteuse 
 - proposal 
 	- [ ] was zu PE schreiben
 		- [ ] leichte erhöhung -> stable und connected
@@ -185,17 +179,8 @@
 	- [ ] den teil zur elongated box fertig schreiben
 		- [ ] begünstigt aufsplittung
 		- [ ] kleinere finite size größe bei gleichzeitig viel größerem simulationsaufwand
-- [x] Essen 
-- [x] paprika vom Essen von Freitag austragen
-- [x] Tastatur wischen
-- [x] Duschen
-- [x] Wäsche abhängen 
-- [x] Wäsche zusammen legen 
-- [ ] carnivoren Wasser auffüllen 
-- [x] in Sofaecke saugen 
+- [x] carnivoren Wasser auffüllen 
 - [ ] Spülmaschine ausräumen 
-- [x] Tafel wischen 
-- [x] Lappen Küche tauschen 
 - [ ] Balkonpflanzen gießen 
 - [ ] Salat und Basilikum im Schulgarten säen
 - [ ] salat auf Balkon säen
