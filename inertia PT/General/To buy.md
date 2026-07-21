@@ -1,5 +1,5 @@
 - [ ] gelbe Zwiebeln 
-- [ ] Steckerleiste 
+- [ ] Steckerleiste (Aldi) 
 - [x] toast
 - [x] Kartoffeln
 - [x] rinder steak 🥩
