@@ -121,6 +121,7 @@
 - [ ] gelben Sack
 - [ ] Papier Müll 
 - [ ] rote Beete zubereiten 
+- [ ] Essen in den Kühlschrank
 - [x] nudeln kochen
 - [x] schauen, wann es Steckerleiste im Aldi gibt
       23-07
