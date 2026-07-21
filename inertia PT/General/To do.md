@@ -119,10 +119,12 @@
 - [x] Fritteuse reinigen 
 - [x] Pflanzen in Gewächshaus checken
 - [ ] friseur 
+- [ ] gelben Sack
+- [ ] Papier Müll 
 - [x] rote Beete putzen
 - [ ] rote Beete zubereiten 
 - [ ] schauen, wann es Steckerleiste im Aldi gibt
-- [ ] Essen mit ... kochen
+- [x] Essen mit ... kochen
 	- [x] Tofu
 	- [x] Auberginen
 	- [x] Zucchini 
