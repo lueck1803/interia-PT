@@ -1,7 +1,8 @@
 - [ ] gelbe Zwiebeln 
 - [ ] Steckerleiste (Aldi) 
 - [ ] Dosentomaten 
-- [x] toast
+- [ ] nusskati
+- toast
 - [x] Kartoffeln
 - [x] rinder steak 🥩
 - [x] hafermilch
