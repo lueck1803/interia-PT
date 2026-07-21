@@ -116,9 +116,9 @@
 - frische Luft
 - mich und mein Leben im Griff haben
 # unsortiert
-- [ ] Fritteuse reinigen 
+- [x] Fritteuse reinigen 
 - [ ] friseur 
-- [ ] rote Beete putzen
+- [x] rote Beete putzen
 - [ ] rote Beete zubereiten 
 - [x] Arthur wegen my sleeping karma schreiben 
 - [x] Biomüll weg
