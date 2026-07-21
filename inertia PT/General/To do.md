@@ -121,7 +121,9 @@
 - [ ] gelben Sack
 - [ ] Papier Müll 
 - [ ] rote Beete zubereiten 
-- [ ] schauen, wann es Steckerleiste im Aldi gibt
+- [ ] nudeln kochen
+- [x] schauen, wann es Steckerleiste im Aldi gibt
+      23-07
 - proposal 
 	- [ ] was zu PE schreiben
 		- [ ] leichte erhöhung -> stable und connected
