@@ -103,6 +103,18 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+## 2026-07-21 flo
+Ja nach außen meinte ich...
+
+Die reden Recht wenig darüber wie christlich sie seien.
+
+Ich finde ja auch eher dass Leute wie Krah die die waffen SS verharmlosen und auch höcke der ja recht offen völkisch ist.
+
+Ich hatte mir ja das Gespräch bei ben ungeskripted angehört als es raus kam.
+Ich fand Einordnung hat es nicht gebraucht bei dem 😅.
+
+Er hat sehr sympathisch wirken wollen, aber hat sich schon Recht klar offenbart.
+Ich find's gut wenn man Leute ausreden lässt und in Sicherheit wähnen lässt
 ## 2026-07-18 E-Mail Arooj 
 Hey
 
