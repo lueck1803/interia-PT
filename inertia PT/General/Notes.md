@@ -192,7 +192,36 @@ Die sind der Ansicht dass es viele Ersatzreligionen gibt und den Leuten Selbsttr
 
 Die Hinwendung zu einem übermateriellen Streben.
 
+### 4
+Ich hab natürlich mal bei der AfD zu "die Rechte Ordnung der Liebe" nachgeschaut.
 
+
+Die wollen gerade keinen Gottesstaat.
+
+Die sehen eher dass die Gottlosigkeit, der Materialismus und die angebliche Objektivität der Wissenschaft auf die sich Ideologien wie der Kommunismus, der Nationalsozialismus, aber auch der Neoliberalismus/Libertäre berufen haben und berufen zu den menschenfeindlichsten Systemen geführt haben.
+
+Die sind der Ansicht dass es viele Ersatzreligionen gibt und den Leuten Selbsttranszendenz fehlt. 
+
+Die Hinwendung zu einem übermateriellen Streben.
+
+"Das Wahre, das Gute und das Schöne"
+Soll der Leitstern sein. 
+
+---
+
+Mir fällt es schwer solche Menschen als extrem problematisch einzuschätzen.
+
+Der David Engels und der Christian Machek sind da auf der Veranstaltung.
+
+Ich würde denen prinzipiell schon zu trauen dass zumindest diese AfD Gruppierung als ganzes sich von diesen Verbindungen zum Iran erwehren kann. 
+
+Ich denke dass deren Welt und Menschenbild nicht mit der Ideologie des Islams vereinbar ist. 
+
+Da sie sich ja eher als Gegenentwurf zum sich in Europa ausbreitenden Islam sehen. 
+
+Die Kirchen bieten wie die auch selbst sagen keinen Platz mehr für viele Christen.
+
+Das kann ich so von meiner Beobachtung auch bestätigen.
 ## 2026-07-18 E-Mail Arooj 
 Hey
 
