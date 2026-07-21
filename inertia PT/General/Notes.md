@@ -104,6 +104,7 @@ Kind regards
 Lukas Walter 
 # Nachrichten an Leute
 ## 2026-07-21 flo
+### 1
 Ja nach außen meinte ich...
 
 Die reden Recht wenig darüber wie christlich sie seien.
@@ -115,6 +116,83 @@ Ich fand Einordnung hat es nicht gebraucht bei dem 😅.
 
 Er hat sehr sympathisch wirken wollen, aber hat sich schon Recht klar offenbart.
 Ich find's gut wenn man Leute ausreden lässt und in Sicherheit wähnen lässt
+
+### 2
+Jo aber ich hab mir da tatsächlich erstmal anhören müssen was die AfD Leute da zu sagen haben.
+
+Was die mit ihrer "Rechte Ordnung der Liebe" meinen.
+
+Bzw was die da sagen. 
+
+Das passt halt schon ziemlich zu gläubigen Basis Christen.
+
+Die glauben halt an Gott und an eine göttliche Transzendenz. 🤷‍♂️
+
+Ist zu akzeptieren und voll kommen OK.
+
+Ich finde nicht dass das Menschenfeinde sind und die extrem problematisch sind. 
+
+Die sind mit unserer Verfassung vereinbar.
+
+Das Menschenbild was durch den Islam hier in Moscheen und im Netz verbreitet wird und unter Jugendlichen verbreitet ist, ist es allerdings nicht...
+
+### 3
+Jo hart, was er da über die Verbindungen erzählt.
+
+Kampf gegen die Westliche Dekadenz 
+
+🫣
+
+Ich hab natürlich mal bei der AfD zu "die Rechte Ordnung der Liebe" nachgeschaut.
+
+Der David Engels war da tatsächlich Gastredner.
+
+JD vance wird in deutschen streng christlichen communities schon gefeiert.
+Man muss ihm halt auch seinen Werdegang lassen. Ihm hat der Glaube aus diesen echt krassen Verhältnissen heraus geholt.
+
+Ich mag nicht über Glaube an sich urteilen. Das ist immer irgendwie und irgendwo strange.
+
+Wenn Muslime ihren Glauben auf ne positive spirituelle Art leben und daraus Kraft gewinnen ist das auch voll okay.
+Gibt da ja auch Suffististen die die Frauen nicht wie Menschen zweiter Klasse behandeln.
+
+Gilt auch für Hindus oder Sikhs.
+
+Was die dann manchmal von sich geben mag befremdlich wirken.
+
+---
+Was die Leute auf der AfD Veranstaltung erzählen geht, aber tatsächlich in die Richtung Gottesstaat 🫣🤯.
+
+Man glaubt es echt nicht. 
+
+Es ist echt notwendig sich die original Aussagen anzuhören.
+
+Der eine hält die Säkularisation als Fehler die zum Kommunismus und Nationalsozialismus geführt hat.
+
+Also Ideologien die sich rein auf das weltliche und scheinbar wissenschaftliche beruht haben.
+
+Und im Prinzip hat er ja Recht.
+
+Die schlimmsten und Menschenfeindlichsten Ideologien waren "gottlos".
+
+Das hat bisher keine andere Ideologie geschafft.
+
+Gut vorher gab's aber auch nicht die Mittel dazu...
+1. Gab's vorher nicht diese Bevölkerungsexplosion wie zum Ende des 19. Auf das 20. Jh 
+2. Gab's nicht die industriellen Mittel Menschen in der Menge umzubringen. (Ok in Ruanda haben sie es auch ohne diese geschafft in 100 Tagen 1mio Menschen umzubringen)
+
+### 3
+Ich hab natürlich mal bei der AfD zu "die Rechte Ordnung der Liebe" nachgeschaut.
+
+
+Die wollen gerade keinen Gottesstaat.
+
+Die sehen eher dass die Gottlosigkeit, der Materialismus und die angebliche Objektivität der Wissenschaft auf die sich Ideologien wie der Kommunismus, der Nationalsozialismus, aber auch der Neoliberalismus berufen haben und berufen zu den menschenfeindlichsten Systemen geführt haben.
+
+Die sind der Ansicht dass es viele Ersatzreligionen gibt und den Leuten Selbsttranszendenz fehlt. 
+
+Die Hinwendung zu einem übermateriellen Streben.
+
+
 ## 2026-07-18 E-Mail Arooj 
 Hey
 
