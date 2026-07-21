@@ -116,6 +116,8 @@
 - frische Luft
 - mich und mein Leben im Griff haben
 # unsortiert
+- [ ] Fritteuse reinigen 
+- [ ] friseur 
 - [x] Biomüll weg
 - [x] rote Beete im Schulgarten ernten
 - [x] Schulgarten gießen 
@@ -178,8 +180,8 @@
 - [x] paprika vom Essen von Freitag austragen
 - [x] Tastatur wischen
 - [x] Duschen
-- [ ] Wäsche abhängen 
-- [ ] Wäsche zusammen legen 
+- [x] Wäsche abhängen 
+- [x] Wäsche zusammen legen 
 - [ ] carnivoren Wasser auffüllen 
 - [x] in Sofaecke saugen 
 - [ ] Spülmaschine ausräumen 
