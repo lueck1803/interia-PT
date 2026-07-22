@@ -117,6 +117,7 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [ ] Duolingo 
+- [ ] Lampe im Keller tauschen?
 - [ ] Steinsammlung weg 
 - [ ] Keller saugen 
 - [ ] terra cotta farbenen topf reparieren 
