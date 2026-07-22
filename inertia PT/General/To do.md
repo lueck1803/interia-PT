@@ -120,6 +120,7 @@
 - [ ] Steinsammlung weg 
 - [ ] Keller saugen 
 - [ ] Backbleche
+	- [x] in Wohnung 
 	- [ ] putzen
 	- [ ] in Vorratsschrank 
 - [ ] keller ausmessen ob mtb rein passt 
