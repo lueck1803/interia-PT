@@ -333,6 +333,7 @@
 	- [ ] fotos machen
 	- [ ] Kleinanzeigen 
 	- [ ] verkaufen 
+- [ ] Ceranfeld wegschmeißen / was kann ich damit basteln?
 # tägliches
 
 ## Wohnbereich 
