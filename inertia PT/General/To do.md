@@ -213,7 +213,7 @@
 	- [ ] den teil zur elongated box fertig schreiben
 		- [ ] begünstigt aufsplittung
 		- [ ] kleinere finite size größe bei gleichzeitig viel größerem simulationsaufwand
-- tomaten rankstäbe 
+- tomaten rankstäbe l(5 stäv)
 	- [x] markieren (orangenes duct tape)
 	- [ ] mit in Schulgarten 
 	- [ ] tomaten befestigen 
