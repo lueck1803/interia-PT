@@ -1,5 +1,5 @@
 - [x] gelbe Zwiebeln 
-- [ ] Steckerleiste (Aldi) 
+- [x] Steckerleiste (Aldi) 
 - [x] Dosentomaten 
 - [ ] Toast
 - [ ] Nusskati 
