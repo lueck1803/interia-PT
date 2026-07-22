@@ -121,7 +121,8 @@
 	- [ ] Kommentar fertig schreiben 
 - [ ] bot Garten Ausdrucke lesen 
 - [ ] tapping ⟹ romance is dead zu gp üben
-- [ ] hammer on pull off ⟹ anasasis 
+- [ ] hammer on pull off ⟹ anasasis (xenophontis)
+- [ ] pwd - black out 
 - [ ] friseur 
 - [ ] gelben Sack
 - [ ] Papier Müll 
