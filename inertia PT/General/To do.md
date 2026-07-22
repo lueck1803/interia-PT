@@ -121,9 +121,9 @@
 - [x] Lampe im Keller tauschen
 	- [x] Lampe mit passender Schraube und Dübel befestigen 
 - [x] Regentonne checken
-- [ ] 
+- [ ] samen die ich in der Regentonne gefunden habe, testen 
 - [ ] Steinsammlung weg 
-- [ ] Keller saugen 
+- [x] Keller saugen 
 - [ ] terra cotta farbenen topf reparieren 
 - Backbleche
 	- [x] in Wohnung 
