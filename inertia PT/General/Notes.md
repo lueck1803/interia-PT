@@ -3743,7 +3743,13 @@ Die Band verwendet aber ausschließlich diese Bedeutung. Für diese bedeutungen 
 
 # Biologie 
 ## Evolution und DNA 🧬 
-### RNA - [Ältee]
+### RNA - [Älter als das Leben?]()
+Joa ach. 
+Ich bin Physiker und checke es/komme mit.
+
+Ich denke es kommt auf die Essenz an. Man muss sich ja nicht alle RNA Arten merken.
+
+Kleine Unterschiede 
 
 # Physik
 The heat transport rate (or heat transfer rate, $\dot{Q}$) quantifies how much thermal energy is transferred per unit time (measured in Watts, W). The formulas differ for convection and radiation, as they depend on distinct physical principles.
