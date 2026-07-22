@@ -128,7 +128,7 @@
 	- samen ablösen 
 - [ ] samen in Glasbehälter testen 
 	- [ ] vermutlich Basilikum 
-- [ ] 
+- [ ] Zitronenbasilikum Samen lösen und umfüllen 
 - [ ] Steinsammlung weg 
 - [x] Keller saugen 
 - [ ] terra cotta farbenen topf reparieren 
