@@ -3,7 +3,7 @@
 - [ ] Dosentomaten 
 - [ ] Toast
 - [ ] Nusskati 
-- [ ] Wäschekorb (falls wieder im aldi): hbt - 44cm 
+- [ ] Wäschekorb (falls wieder im aldi): hbt - 60,5 cm 44 cm 35,5 cm
 - [x] Kartoffeln
 - [x] rinder steak 🥩
 - [x] hafermilch
