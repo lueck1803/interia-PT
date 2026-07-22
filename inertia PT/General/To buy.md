@@ -10,6 +10,7 @@
 - [ ] Heißklebepistole 
 - [ ] Schlagbohrmaschine (wenn es im Aldi gibt)
 - [ ] Gewebeband 
+- [ ] salatsamen 
 - [x] Kartoffeln
 - [x] rinder steak 🥩
 - [x] hafermilch
