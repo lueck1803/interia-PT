@@ -186,6 +186,10 @@
 		- [ ] begünstigt aufsplittung
 		- [ ] kleinere finite size größe bei gleichzeitig viel größerem simulationsaufwand
 - [x] Balkonpflanzen gießen 
+- tomaten rankstäbe 
+	- [ ] markieren (orangenes duct tape)
+	- [ ] mit in Schulgarten 
+	- [ ] tomaten befestigen 
 - [ ] Salat und Basilikum im Schulgarten säen
 - [ ] salat auf Balkon säen
 - [ ] salatsamen im Keller oder Samenkasten suchen
