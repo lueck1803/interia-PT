@@ -118,7 +118,8 @@
 # unsortiert
 - [ ] Duolingo 
 - [x] Balkonpflanzen gießen 
-- [ ] Lampe im Keller tauschen
+- [x] Lampe im Keller tauschen
+	- [ ] lamo
 - [ ] Steinsammlung weg 
 - [ ] Keller saugen 
 - [ ] terra cotta farbenen topf reparieren 
