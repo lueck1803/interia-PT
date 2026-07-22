@@ -135,8 +135,8 @@
 	- [ ] abgedämpften teil/ schnellen Teil
 - [ ] pwd - black out 
 - [ ] friseur 
-- [ ] gelben Sack
-- [ ] Papier Müll 
+- [x] gelben Sack
+- [x] Papier Müll 
 - [ ] rote Beete zubereiten 
 - kleinen Drehstuhl 
 	- [ ] Sitzteil zu Eltern mitnehmen 
