@@ -1,6 +1,6 @@
 - [x] gelbe Zwiebeln 
 - [ ] Steckerleiste (Aldi) 
-- [ ] Dosentomaten 
+- [x] Dosentomaten 
 - [ ] Toast
 - [ ] Nusskati 
 - [ ] Wäschekorb 
