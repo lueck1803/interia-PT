@@ -131,8 +131,8 @@
 - keller ausmessen ob mtb rein passt 
 	- [ ] ich hab vorne an der Wand umgeräumt, jetzt sollte Platz sein 
 	- [ ] trotzdem ausmessen 
-		- [ ] 1,37 diagonal von offener Tür bis Wand 
-		- [ ] 1,95 vom regal bis zur Wand ()
+		- [ ] 1,37 diagonal von offener Tür bis Wand (Hochbettgitter)
+		- [ ] 1,95 vom regal bis zur Wand (Hochbettgitter)
 - [ ] Spülmaschine ausräumen 
 - [ ] Notizen zu <font color="#b088ff">Älter als das Leben</font> machen 
 	- [ ] Kommentar fertig schreiben 
