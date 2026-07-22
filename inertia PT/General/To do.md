@@ -122,6 +122,7 @@
 	- [x] Lampe mit passender Schraube und Dübel befestigen 
 - [x] Regentonne checken
 - [ ] Karton zusammenlegen 
+- [ ] Fahrradtasche aussaugen 
 - [ ] samen die ich in der Regentonne gefunden habe, testen 
 - [ ] Steinsammlung weg 
 - [x] Keller saugen 
