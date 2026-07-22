@@ -118,7 +118,7 @@
 # unsortiert
 - [ ] Duolingo 
 - [x] Balkonpflanzen gießen 
-- [ ] Lampe im Keller tauschen?
+- [ ] Lampe im Keller tauschen
 - [ ] Steinsammlung weg 
 - [ ] Keller saugen 
 - [ ] terra cotta farbenen topf reparieren 

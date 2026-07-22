@@ -9,6 +9,7 @@
 	- nicht hellblau 
 - [ ] Heißklebepistole 
 - [ ] Schlagbohrmaschine (wenn es im Aldi gibt)
+- [ ] Gewebeband 
 - [x] Kartoffeln
 - [x] rinder steak 🥩
 - [x] hafermilch
