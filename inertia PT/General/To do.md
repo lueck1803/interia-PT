@@ -136,6 +136,9 @@
 - [ ] gelben Sack
 - [ ] Papier Müll 
 - [ ] rote Beete zubereiten 
+- kleinen Drehstuhl 
+	- [ ] Sitzteil zu Eltern mitnehmen 
+	- [ ] schweißen 
 - [x] Essen in den Kühlschrank
 - [x] nudeln kochen
 - [x] schauen, wann es Steckerleiste im Aldi gibt
