@@ -3744,12 +3744,20 @@ Die Band verwendet aber ausschließlich diese Bedeutung. Für diese bedeutungen 
 # Biologie 
 ## Evolution und DNA 🧬 
 ### RNA - [Älter als das Leben?](https://youtu.be/4eRdmamHBpc?is=lyy2evRfv9D4uZ46)
+
 Joa ach. 
 Ich bin Physiker und checke es/komme mit.
+Man darf ja auch ausdrücklich Pausen machen und zurück spulen 😅.
+Das ist ja keine Schande.
 
 Ich denke es kommt auf die Essenz an. Man muss sich ja nicht alle RNA Arten merken.
 
-Kleine Unterschiede 
+1.
+"Kleine" Unterschiede im Sedimentationswert, entscheiden darüber ob Stoffe schädlich sind oder nicht. Hier im Falle von Antibiotika bzgl der Wirkung auf die ribosome
+
+2. Ribosome dienen der Protein Translation (weiß man vielleicht noch aus dem Bio Unterricht, ich zumindest)
+
+3. RNA und DNA unterscheiden sich in nur wenigen Bestandteilen. Dem Zucker (ohne desoxy), einer Base (U statt T) und der Doppelhelix 
 
 # Physik
 The heat transport rate (or heat transfer rate, $\dot{Q}$) quantifies how much thermal energy is transferred per unit time (measured in Watts, W). The formulas differ for convection and radiation, as they depend on distinct physical principles.

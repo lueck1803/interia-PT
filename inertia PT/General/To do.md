@@ -117,6 +117,7 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [x] Duolingo 
+- [ ] Notizen zu <font color="#b088ff">Älter als das Leben</font> machen
 - [ ] friseur 
 - [ ] gelben Sack
 - [ ] Papier Müll 
