@@ -139,6 +139,7 @@
 - kleinen Drehstuhl 
 	- [ ] Sitzteil zu Eltern mitnehmen 
 	- [ ] schweißen 
+	- [ ] Apfelschneider schweißen 
 - [x] Essen in den Kühlschrank
 - [x] nudeln kochen
 - [x] schauen, wann es Steckerleiste im Aldi gibt
