@@ -326,7 +326,7 @@
 - MTB 
 	- [ ] Kette fetten 
 - Rennrad 
-	- [ ] Lenkerband 
+	- [ ] Lenkerband video schauen 
 	- [ ] Lenkerband 
 	- [ ] fotos machen
 	- [ ] Kleinanzeigen 
