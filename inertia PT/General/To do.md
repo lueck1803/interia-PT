@@ -120,6 +120,8 @@
 - [ ] Notizen zu <font color="#b088ff">Älter als das Leben</font> machen 
 	- [ ] Kommentar fertig schreiben 
 - [ ] bot Garten Ausdrucke lesen 
+- [ ] tapping
+- [ ] 
 - [ ] friseur 
 - [ ] gelben Sack
 - [ ] Papier Müll 
