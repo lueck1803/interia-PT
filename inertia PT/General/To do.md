@@ -325,6 +325,7 @@
 - [ ] Zeug vor dem Bad wegräumen 
 - MTB 
 	- [ ] Kette fetten 
+- [ ] keller Karton Sammlung aufräumen 
 - Rennrad 
 	- [ ] Lenkerband video schauen 
 	- [ ] Lenkerband 
