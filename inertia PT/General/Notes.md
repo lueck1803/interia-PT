@@ -2685,7 +2685,9 @@ Manchmal hatte sie dann auch so das Gefühl so schlecht behandelt zu werden, hat
 
 # yt Kommentare
 ## 2026-07-22
+Sabaton glorifizieren aber ziemlich stark den Krieg.
 
+Ich bin da eher bei der Aufarbeitung des Krieges von Kanonenfieber.
 ## 2026-07-10
 @VfLenny ja klar kann man. 
 
