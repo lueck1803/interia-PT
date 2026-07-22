@@ -120,8 +120,8 @@
 - [ ] Notizen zu <font color="#b088ff">Älter als das Leben</font> machen 
 	- [ ] Kommentar fertig schreiben 
 - [ ] bot Garten Ausdrucke lesen 
-- [ ] tapping
-- [ ] 
+- [ ] tapping ⟹ romance is dead zu gp üben
+- [ ] hammer on pull off ⟹ anasasis 
 - [ ] friseur 
 - [ ] gelben Sack
 - [ ] Papier Müll 
