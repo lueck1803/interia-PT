@@ -117,6 +117,7 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [ ] Duolingo 
+- [ ] wo trifft sich der Fahrradtreff?
 - [x] Balkonpflanzen gießen 
 - [x] Schulgarten gießen 
 - [x] Lampe im Keller tauschen
@@ -142,6 +143,7 @@
 	- [x] trotzdem ausmessen 
 		- 1,37 diagonal von offener Tür bis Wand (Hochbettgitter)
 		- 1,95 vom regal bis zur Wand (Hochbettgitter)
+	- hat wirklich gerade so gepasst 🫣
 - [ ] Spülmaschine ausräumen 
 - [ ] Notizen zu <font color="#b088ff">Älter als das Leben</font> machen 
 	- [ ] Kommentar fertig schreiben 
@@ -228,7 +230,7 @@
 - [ ] poisson Verteilung Video schauen 
 - [ ] konto checken 
 - [ ] Küche aufräumen 
-- [ ] mtb waschen, ist im Schuppen echt dreckig geworden 
+- [x] mtb waschen, ist im Schuppen echt dreckig geworden 
 - [ ] powerbank reparieren
 	- [ ] welche ist die defekte?
 	- [ ] löten 
@@ -239,10 +241,10 @@
 - [ ] Staubsauger Schlauch Verstopfung 
 - [ ] russisch aufschreiben, dafür ein Blatt anlegen 
 - [ ] Bauhaus 
-	- [ ] Steckerleiste 
+	- [x] Steckerleiste (im Aldi eine besorgt )
 	- [ ] destilliertes Wasser 
 - [ ] Zeug auf Motten überprüfen 
-- [ ] was mit Zucchini und Auberginen kochen 
+- [x] was mit Zucchini und Auberginen kochen 
 - [ ] Yogamatten auspacken und ausprobieren 
 - Waschbecken putzen 
 	- [x] Bad 
@@ -251,10 +253,11 @@
 - [ ] zu duckduckgo wechseln 
 - [ ] Freitag letzte Ferienwoche ist Anfangskonferenz 
 - [ ] Ordner für Schule anlegen um Zeug abzuheften
-- [ ] Platz im Keller fürs Fahrrad Machen 
+- [x] Platz im Keller fürs Fahrrad Machen 
 	- bringt nix, da der Aufzug nicht gehen wird
 	- trotzdem frei räumen
 	- ich schließe das Fahrrad in der Schule in die Fahrradbox bzw mit an mein city rad
+	- [x] Fahrrad rein stellen 
 - [ ] ohr eincremen /Teebaumöl 
 - [ ] Displayschutzfolie wechseln 
 - [ ] alle nicht-Optimierungsthemen bzgl ADHS/Autismus raus. Keine Lust mehr über das nachzudenken was ich nicht kann und was mich hindert. Ich bin kein Opfer
@@ -265,7 +268,6 @@
 - [ ] Proposal 
 - [ ] Hosentaschen graue Hose vergrößern 
 - [ ] foxit reader Mac aufräumen
-- [ ] Waschbecken Küche 
 - [ ] einkaufschip
 - [ ] Techniken wie man mit Mobbing umgeht
 - [ ] Adverb im englischen aufschreiben 

@@ -10,16 +10,13 @@
 - [ ] Heißklebepistole 
 - [ ] Schlagbohrmaschine (wenn es im Aldi gibt)
 - [ ] Gewebeband 
-- [ ] salatsamen (Rewe?)
+- [ ] salatsamen (Rewe - gab's da nicht)
 - [x] Kartoffeln
 - [x] rinder steak 🥩
 - [x] hafermilch
 - [x] hummus
 - [x] kiwi
 - [x] saft
-- [ ] Steckerleiste 
-	- [ ] 3 fach
-	- [ ] mehrfach 
 - [ ] destilliertes Wasser 
 - [x] käse
 - [x] Nudelsoßen 
