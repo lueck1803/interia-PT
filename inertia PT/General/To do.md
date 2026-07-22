@@ -116,7 +116,8 @@
 - frische Luft
 - mich und mein Leben im Griff haben
 # unsortiert
-- [x] Duolingo 
+- [ ] Duolingo 
+- [ ] Spülmaschine ausräumen 
 - [ ] Notizen zu <font color="#b088ff">Älter als das Leben</font> machen 
 	- [ ] Kommentar fertig schreiben 
 - [ ] bot Garten Ausdrucke lesen 
@@ -129,7 +130,7 @@
 - [ ] gelben Sack
 - [ ] Papier Müll 
 - [ ] rote Beete zubereiten 
-- [ ] Essen in den Kühlschrank
+- [x] Essen in den Kühlschrank
 - [x] nudeln kochen
 - [x] schauen, wann es Steckerleiste im Aldi gibt
       23-07
@@ -184,7 +185,7 @@
 	- [ ] den teil zur elongated box fertig schreiben
 		- [ ] begünstigt aufsplittung
 		- [ ] kleinere finite size größe bei gleichzeitig viel größerem simulationsaufwand
-- [ ] Balkonpflanzen gießen 
+- [x] Balkonpflanzen gießen 
 - [ ] Salat und Basilikum im Schulgarten säen
 - [ ] salat auf Balkon säen
 - [ ] salatsamen im Keller oder Samenkasten suchen
