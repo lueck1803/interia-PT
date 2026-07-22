@@ -120,7 +120,8 @@
 - [x] Balkonpflanzen gießen 
 - [x] Lampe im Keller tauschen
 	- [x] Lampe mit passender Schraube und Dübel befestigen 
-- [ ] Regentonne aufräumen 
+- [x] Regentonne checken
+- [ ] 
 - [ ] Steinsammlung weg 
 - [ ] Keller saugen 
 - [ ] terra cotta farbenen topf reparieren 
