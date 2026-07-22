@@ -121,6 +121,7 @@
 - [x] Lampe im Keller tauschen
 	- [x] Lampe mit passender Schraube und Dübel befestigen 
 - [x] Regentonne checken
+- [ ] Karton zusammenlegen 
 - [ ] samen die ich in der Regentonne gefunden habe, testen 
 - [ ] Steinsammlung weg 
 - [x] Keller saugen 
