@@ -125,7 +125,8 @@
 	- [x] in Wohnung 
 	- [ ] putzen
 	- [ ] in Vorratsschrank 
-- [ ] keller ausmessen ob mtb rein passt 
+- [x] keller ausmessen ob mtb rein passt 
+	- [ ] unnötig ich hab 
 - [ ] Spülmaschine ausräumen 
 - [ ] Notizen zu <font color="#b088ff">Älter als das Leben</font> machen 
 	- [ ] Kommentar fertig schreiben 
