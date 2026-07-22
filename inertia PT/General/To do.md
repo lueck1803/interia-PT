@@ -214,7 +214,7 @@
 		- [ ] begünstigt aufsplittung
 		- [ ] kleinere finite size größe bei gleichzeitig viel größerem simulationsaufwand
 - tomaten rankstäbe 
-	- [ ] markieren (orangenes duct tape)
+	- [x] markieren (orangenes duct tape)
 	- [ ] mit in Schulgarten 
 	- [ ] tomaten befestigen 
 - [ ] Salat und Basilikum im Schulgarten säen
