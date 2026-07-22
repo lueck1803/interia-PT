@@ -325,7 +325,10 @@
 - [ ] Zeug vor dem Bad wegräumen 
 - MTB 
 	- [ ] Kette fetten 
-
+- Rennrad 
+	- [ ] fotos machen
+	- [ ] Kleinanzeigen 
+	- [ ] verkaufen 
 # tägliches
 
 ## Wohnbereich 
