@@ -326,6 +326,8 @@
 - MTB 
 	- [ ] Kette fetten 
 - Rennrad 
+	- [ ] Lenkerband 
+	- [ ] Lenkerband 
 	- [ ] fotos machen
 	- [ ] Kleinanzeigen 
 	- [ ] verkaufen 
