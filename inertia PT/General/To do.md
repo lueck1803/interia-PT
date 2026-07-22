@@ -119,6 +119,7 @@
 - [ ] Duolingo 
 - [ ] Steinsammlung weg 
 - [ ] Keller saugen 
+- [ ] terra cotta farbenen topf
 - Backbleche
 	- [x] in Wohnung 
 	- [ ] putzen
