@@ -119,7 +119,7 @@
 - [ ] Duolingo 
 - [ ] Steinsammlung weg 
 - [ ] Keller saugen 
-- [ ] Backbleche
+- Backbleche
 	- [x] in Wohnung 
 	- [ ] putzen
 	- [ ] in Vorratsschrank 
