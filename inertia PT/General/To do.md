@@ -124,6 +124,7 @@
 - [ ] Karton zusammenlegen 
 - [ ] Fahrradtasche aussaugen 
 - [ ] samen die ich in der Regentonne gefunden habe, testen 
+	- [ ] das ist a7fhed
 - [ ] Steinsammlung weg 
 - [x] Keller saugen 
 - [ ] terra cotta farbenen topf reparieren 
