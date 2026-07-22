@@ -121,7 +121,9 @@
 	- [ ] Kommentar fertig schreiben 
 - [ ] bot Garten Ausdrucke lesen 
 - [ ] tapping ⟹ romance is dead zu gp üben
-- [ ] hammer on pull off ⟹ anasasis (xenophontis)
+- [ ] ⟹ anasasis (xenophontis)
+	- [ ] hammer on pull off 
+	- [ ] abgedämpften teil
 - [ ] pwd - black out 
 - [ ] friseur 
 - [ ] gelben Sack
