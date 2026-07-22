@@ -8,7 +8,7 @@
 	- BHT - 44 cm x 60,5 cm  x 35,5 cm
 	- nicht hellblau 
 - [ ] Heißklebepistole 
-- [ ] Schlagbohrmaschine 
+- [ ] Schlagbohrmaschine (wenn es im Aldi gibt)
 - [x] Kartoffeln
 - [x] rinder steak 🥩
 - [x] hafermilch
