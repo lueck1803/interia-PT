@@ -118,6 +118,7 @@
 # unsortiert
 - [ ] Duolingo 
 - [x] Balkonpflanzen gießen 
+- [x] Schulgarten gießen 
 - [x] Lampe im Keller tauschen
 	- [x] Lampe mit passender Schraube und Dübel befestigen 
 - [x] Regentonne checken
@@ -216,7 +217,7 @@
 - tomaten rankstäbe (5 Stäbe )
 	- [x] markieren (orangenes duct tape)
 	- [x] mit in Schulgarten 
-	- [ ] tomaten befestigen 
+	- [x] tomaten befestigen 
 - [x] Basilikum im Schulgarten säen
 - [ ] salat auf Balkon säen
 - [x] salatsamen im Keller oder Samenkasten suchen
