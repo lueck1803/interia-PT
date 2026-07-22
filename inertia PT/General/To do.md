@@ -126,6 +126,9 @@
 - [x] samen die ich in der Regentonne gefunden habe, testen 
 	- das ist aufjedenfall kresse
 	- samen ablösen 
+- [ ] samen in Glasbehälter testen 
+	- [ ] vermutlich Basilikum 
+- [ ] 
 - [ ] Steinsammlung weg 
 - [x] Keller saugen 
 - [ ] terra cotta farbenen topf reparieren 
