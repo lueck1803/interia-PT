@@ -2684,6 +2684,8 @@ Mir tut auch Micro "Fehlverhalten" leid. Auch wenn sie das auch macht.
 Manchmal hatte sie dann auch so das Gefühl so schlecht behandelt zu werden, hat dabei aber null auf ihr micro Verhalten geachtet.
 
 # yt Kommentare
+## 2026-07-22
+
 ## 2026-07-10
 @VfLenny ja klar kann man. 
 
