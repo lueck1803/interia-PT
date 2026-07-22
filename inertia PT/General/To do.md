@@ -123,7 +123,7 @@
 - [ ] tapping ⟹ romance is dead zu gp üben
 - [ ] ⟹ anasasis (xenophontis)
 	- [ ] hammer on pull off 
-	- [ ] abgedämpften teil
+	- [ ] abgedämpften teil/ schnellen Teil
 - [ ] pwd - black out 
 - [ ] friseur 
 - [ ] gelben Sack
