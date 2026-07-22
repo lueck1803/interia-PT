@@ -1,8 +1,8 @@
 - [x] gelbe Zwiebeln 
 - [x] Steckerleiste (Aldi) 
 - [x] Dosentomaten 
-- [ ] Toast
-- [ ] Nusskati 
+- [x] Toast
+- [x] Nusskati 
 - [ ] Wäschekorb 
 	- (falls wieder im aldi)
 	- BHT - 44 cm x 60,5 cm  x 35,5 cm
