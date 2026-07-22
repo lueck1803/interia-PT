@@ -119,6 +119,9 @@
 - [ ] Duolingo 
 - [ ] Steinsammlung weg 
 - [ ] Keller saugen 
+- [ ] Backbleche
+	- [ ] putzen
+	- [ ] in Vorratsschrank 
 - [ ] keller ausmessen ob mtb rein passt 
 - [ ] Spülmaschine ausräumen 
 - [ ] Notizen zu <font color="#b088ff">Älter als das Leben</font> machen 
