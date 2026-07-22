@@ -1360,6 +1360,24 @@ Taking a <u>perspective</u> where you <span style="font-size:100%;color:lawngree
 
 
 # Beziehung
+## 2026-07-22 
+Arooj hat schon etwas bösartiges an sich, muss ich leider sagen. 
+
+Ihre Art auf jemanden böse und so unverzeihlich zu sein, hat echt nicht gut getan.
+
+Insbesondere wegen Nichtigkeiten und Missverständnissen ihrerseits, darin etwas Hinterhältiges, Niederträchtiges und einen Nachteil für sich zu sehen.
+
+Über Dinge Wochen und Monate zu brüten, die geklärt oder nie als Problem schienen und dann verquer herauszulassen.
+
+Eigentlich echt eklig...
+
+Bin echt ständig mit dem Gefühl raus gegangen und umher gegangen schlecht zu sein und etwas falsches zu sagen. 
+
+Sie hat es echt nicht verdient wenn ich ihr etwas nettes Schreibe und nette Gedanken an sie verschwende.
+
+Denn das hat sie wirklich nie in den Griff bekommen und hat mich damit massiv kaputt gemacht und es nicht ernst genommen.
+
+Mich sogar noch für schlecht erklärt dass ich es angesprochen habe 
 ## 26-06-06
 ### 4
 *🫂Schön, dass du mit deinen Eltern sprechen konntest ❤️ Natürlich fühlt man sich an sowas schuldig. Manchmal gibt sich das mit der Zeit. Aber du musst dich da wirklich nicht schuldig fühlen diesbezüglich ❤️*
