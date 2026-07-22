@@ -123,8 +123,9 @@
 - [x] Regentonne checken
 - [ ] Karton zusammenlegen 
 - [ ] Fahrradtasche aussaugen 
-- [ ] samen die ich in der Regentonne gefunden habe, testen 
-	- [ ] das ist a7fhed
+- [x] samen die ich in der Regentonne gefunden habe, testen 
+	- das ist aufjedenfall kresse
+	- samen ablösen 
 - [ ] Steinsammlung weg 
 - [x] Keller saugen 
 - [ ] terra cotta farbenen topf reparieren 
