@@ -119,7 +119,7 @@
 - [ ] Duolingo 
 - [x] Balkonpflanzen gießen 
 - [x] Lampe im Keller tauschen
-	- [ ] lamo
+	- [x] Lampe mit passender Schraube und Dübel befestigen 
 - [ ] Steinsammlung weg 
 - [ ] Keller saugen 
 - [ ] terra cotta farbenen topf reparieren 
