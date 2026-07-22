@@ -215,12 +215,12 @@
 		- [ ] kleinere finite size größe bei gleichzeitig viel größerem simulationsaufwand
 - tomaten rankstäbe (5 Stäbe )
 	- [x] markieren (orangenes duct tape)
-	- [ ] mit in Schulgarten 
+	- [x] mit in Schulgarten 
 	- [ ] tomaten befestigen 
-- [ ] Salat und Basilikum im Schulgarten säen
+- [x] Basilikum im Schulgarten säen
 - [ ] salat auf Balkon säen
-- [ ] salatsamen im Keller oder Samenkasten suchen
-	- [ ] das sind Kresse Samen glaube ich...
+- [x] salatsamen im Keller oder Samenkasten suchen
+	- das sind Kresse Samen glaube ich...
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] weitere Paprika hinter Schnittlauch 
 - [ ] Papierkram 
