@@ -212,6 +212,7 @@
 - [ ] Salat und Basilikum im Schulgarten säen
 - [ ] salat auf Balkon säen
 - [ ] salatsamen im Keller oder Samenkasten suchen
+	- [ ] das sind Kresse Samen glaube ich...
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] weitere Paprika hinter Schnittlauch 
 - [ ] Papierkram 
