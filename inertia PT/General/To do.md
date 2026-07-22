@@ -117,7 +117,9 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [ ] Duolingo 
-- [ ] wo trifft sich der Fahrradtreff?
+- [x] wo trifft sich der Fahrradtreff?
+	- Kuppelkirche
+	- 18:30
 - [x] Balkonpflanzen gießen 
 - [x] Schulgarten gießen 
 - [x] Lampe im Keller tauschen
