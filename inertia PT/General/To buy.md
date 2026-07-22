@@ -3,6 +3,7 @@
 - [ ] Dosentomaten 
 - [ ] Toast
 - [ ] Nusskati 
+- [ ] Wäschekorb (falls wieder im aldi): hbt - 
 - [x] Kartoffeln
 - [x] rinder steak 🥩
 - [x] hafermilch
