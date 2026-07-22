@@ -117,6 +117,7 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [ ] Duolingo 
+- [ ] keller ausmessen ob mtb rein passt 
 - [ ] Spülmaschine ausräumen 
 - [ ] Notizen zu <font color="#b088ff">Älter als das Leben</font> machen 
 	- [ ] Kommentar fertig schreiben 
