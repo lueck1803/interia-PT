@@ -1,4 +1,4 @@
-- [ ] gelbe Zwiebeln 
+- [x] gelbe Zwiebeln 
 - [ ] Steckerleiste (Aldi) 
 - [ ] Dosentomaten 
 - [ ] Toast
