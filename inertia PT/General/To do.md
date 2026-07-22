@@ -117,6 +117,7 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [ ] Duolingo 
+- [x] Balkonpflanzen gießen 
 - [ ] Lampe im Keller tauschen?
 - [ ] Steinsammlung weg 
 - [ ] Keller saugen 
@@ -125,8 +126,9 @@
 	- [x] in Wohnung 
 	- [ ] putzen
 	- [ ] in Vorratsschrank 
-- [x] keller ausmessen ob mtb rein passt 
-	- [ ] unnötig ich hab 
+- keller ausmessen ob mtb rein passt 
+	- [ ] ich hab vorne an der Wand umgeräumt, jetzt sollte Platz sein 
+	- [ ] trotzdem ausmessen 
 - [ ] Spülmaschine ausräumen 
 - [ ] Notizen zu <font color="#b088ff">Älter als das Leben</font> machen 
 	- [ ] Kommentar fertig schreiben 
@@ -199,7 +201,6 @@
 	- [ ] den teil zur elongated box fertig schreiben
 		- [ ] begünstigt aufsplittung
 		- [ ] kleinere finite size größe bei gleichzeitig viel größerem simulationsaufwand
-- [x] Balkonpflanzen gießen 
 - tomaten rankstäbe 
 	- [ ] markieren (orangenes duct tape)
 	- [ ] mit in Schulgarten 
