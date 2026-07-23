@@ -122,6 +122,7 @@
 - [ ] Nasenhaare schneiden 
 - [x] Kresse aussäen
 - [x] Paprika zwischen Erdbeeren setzen 
+- [x] Fritteuse weg
 - [ ] https://youtu.be/M4O4L2tL-nk?is=Bm9SNS8mzs6SKPaI <br> aufschreiben 
 - [ ] https://youtu.be/m7U0353WlrQ?is=TmQ2HPznlXkCOWgo <br> aufschreiben 
 - [ ] https://youtu.be/npQ2IORdlvU?is=uOARePu3UtjA5gfw <br> aufschreiben 
@@ -172,10 +173,6 @@
 	- [ ] Sitzteil zu Eltern mitnehmen 
 	- [ ] schweißen 
 	- [ ] Apfelschneider schweißen 
-- [x] Essen in den Kühlschrank
-- [x] nudeln kochen
-- [x] schauen, wann es Steckerleiste im Aldi gibt
-      23-07
 - proposal 
 	- [ ] was zu PE schreiben
 		- [ ] leichte erhöhung -> stable und connected
@@ -231,7 +228,6 @@
 	- [x] markieren (orangenes duct tape)
 	- [x] mit in Schulgarten 
 	- [x] tomaten befestigen 
-- [x] Basilikum im Schulgarten säen
 - [ ] salat auf Balkon säen
 - [x] salatsamen im Keller oder Samenkasten suchen
 	- das sind Kresse Samen glaube ich...
@@ -250,9 +246,6 @@
 	- [ ] preset auf laptop speichern
 - [ ] Staubsauger Schlauch Verstopfung 
 - [ ] russisch aufschreiben, dafür ein Blatt anlegen 
-- [ ] Bauhaus 
-	- [x] Steckerleiste (im Aldi eine besorgt )
-	- [ ] destilliertes Wasser 
 - [ ] Zeug auf Motten überprüfen 
 - [x] was mit Zucchini und Auberginen kochen 
 - [ ] Yogamatten auspacken und ausprobieren 
