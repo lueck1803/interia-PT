@@ -165,11 +165,19 @@
 		- br 1:10
 			- 14k 
 				- PE 35
+				- create-simulation_mod_p.sh -er -pr "equilibrateMaster_mod_p.in" "productionMaster_mod_p.in" "PE,35" 14000 "m" -3 .05 .05 .01 . 05000 -ts 4 -sc 16 -br 10 -ss
+
 					- M 0.040 <font color="#92d050">fertig</font>
+					- [x] M 0.050 <font color="#48d1cc">CPU 02</font> 
+					- [ ] M 0.060 <font color="#48d1cc">CPU 02</font> 
 					- M 0.065 <font color="#48d1cc">CPU 02</font> <font color="#92d050">fertig</font>
+					- [ ] M 0.070 <font color="#48d1cc">CPU 02</font> 
 				- PE 40
 					- M 0.040 <font color="#92d050">fertig</font>
+					- [x] M 0.050 <font color="#48d1cc">CPU 02</font> 
+					- [x] M 0.060 <font color="#48d1cc">CPU 02</font> 
 					- M 0.065 <font color="#48d1cc">CPU 02</font> <font color="#92d050">fertig</font>
+					- [x] M 0.070 <font color="#48d1cc">CPU 02</font> 
 		- br 1:3
 			- 14k 
 				- PE 35
