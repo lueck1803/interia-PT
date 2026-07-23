@@ -123,6 +123,7 @@
 - [ ] toast essen 
 - [ ] konto checken 
 	- [ ] Mischa Bescheid geben ob ich das Geld bekommen habe 
+- [ ] Papierkram 
 - [ ] friseur 
 - MTB 
 	- [ ] im Schulgarten abspritzen 
@@ -158,6 +159,7 @@
 - [ ] Notizen zu <font color="#b088ff">Älter als das Leben</font> machen 
 	- [ ] Kommentar fertig schreiben 
 - [ ] bot Garten Ausdrucke lesen 
+	- [ ] den am Drucker lochen und einheften
 - [x] gelben Sack
 - [x] Papier Müll 
 - [ ] rote Beete zubereiten 
@@ -227,7 +229,6 @@
 		- [ ] kleinere finite size größe bei gleichzeitig viel größerem simulationsaufwand
 - [ ] salat auf Balkon säen
 - [ ] neuen Kalender für Schule erstellen 
-- [ ] Papierkram 
 - [ ] poisson Verteilung Video schauen 
 - [ ] Küche aufräumen 
 - [ ] Halterung für Trainings gummies/expander
