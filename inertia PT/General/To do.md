@@ -163,6 +163,7 @@
 	- [ ] hammer on pull off 
 	- [ ] abgedämpften teil/ schnellen Teil
 - [ ] pwd - black out 
+- [ ] awakening 
 - [ ] friseur 
 - [x] gelben Sack
 - [x] Papier Müll 
