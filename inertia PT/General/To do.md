@@ -118,7 +118,8 @@
 # unsortiert
 - [ ] Duolingo 
 - [ ] Nasenhaare schneiden 
-- [ ] Kresse ausäen
+- [ ] Kresse aussäen
+- [ ] Paprika zwischen Erdbeeren s
 - [x] wo trifft sich der Fahrradtreff?
 	- Kuppelkirche
 	- 18:30
