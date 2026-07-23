@@ -116,19 +116,28 @@
 - frische Luft
 - mich und mein Leben im Griff haben
 # unsortiert
+- [ ] Duolingo 
+- [ ] Nasenhaare schneiden 
+- [ ] Balkonpflanzen gießen 
+- [ ] toast essen 
+- [ ] konto checken 
+	- [ ] Mischa Bescheid geben ob ich das Geld bekommen habe 
+- [ ] friseur 
 - MTB 
+	- [ ] im Schulgarten abspritzen 
 	- [ ] Kette fetten 
 	- [ ] Schaltung hinten einstellen 
 	- [ ] Sattel 
 		- [ ] nach vorne 
 		- [ ] hoch?
 	- [ ] zum radelmal und fragen ob meine Sitzposition passt?
-- [x] Duolingo 
-- [x] Balkonpflanzen gießen 
-- [ ] toast essen 
-- [ ] Gewicht in kabelfach der schwarzen g itarre tun
+- [ ] Fahrradhelm einstellen 
+- schuhe kaufen 
+	- [ ] Laufschuhe 
+	- [ ] Wanderschuhe 
+- [ ] neuen Fahrradhelm kaufen 
+- [ ] Gewicht in kabelfach der schwarzen gitarre tun
 - [ ] linken Gartenhandschuh flicken
-- [ ] Nasenhaare schneiden 
 - [ ] Ticket für *my sleeping karma*
 - [ ] https://youtu.be/M4O4L2tL-nk?is=Bm9SNS8mzs6SKPaI <br> aufschreiben 
 - [ ] https://youtu.be/m7U0353WlrQ?is=TmQ2HPznlXkCOWgo <br> aufschreiben 
@@ -148,7 +157,6 @@
 - [ ] Notizen zu <font color="#b088ff">Älter als das Leben</font> machen 
 	- [ ] Kommentar fertig schreiben 
 - [ ] bot Garten Ausdrucke lesen 
-- [ ] friseur 
 - [x] gelben Sack
 - [x] Papier Müll 
 - [ ] rote Beete zubereiten 
@@ -219,7 +227,6 @@
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Papierkram 
 - [ ] poisson Verteilung Video schauen 
-- [ ] konto checken 
 - [ ] Küche aufräumen 
 - [ ] Halterung für Trainings gummies/expander
 	- [ ] wie trainiere ich damit richtig
@@ -235,7 +242,6 @@
 - Waschbecken putzen 
 	- [x] Bad 
 	- [ ] Küche 
-- [ ] schuhe kaufen 
 - [ ] zu duckduckgo wechseln 
 - [ ] Freitag letzte Ferienwoche ist Anfangskonferenz 
 - [ ] Ordner für Schule anlegen um Zeug abzuheften
@@ -326,8 +332,7 @@
 - [ ] Teil bzgl weg zur Kästchen methode und von dort zu meiner methode fertig schreiben. Nochmal in report schauen was ich da schon geschrieben habe
 - [ ] vertrag nach Kündigungsfrist durch schauen
 - [ ] was ist die mindst Kündigungsfrist in Deutschland 
-- [ ] Freddies Socken an der Spitze vernähen 
-- [ ] Socken einpacken 
+- [x] Freddies Socken an der Spitze vernähen 
 - [ ] dpg kündigen
 - [ ] jean-lueck@gmx.net aufräumen
 - [ ] yoga 

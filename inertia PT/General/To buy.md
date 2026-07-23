@@ -23,6 +23,7 @@
 - [x] Tomaten 
 - [ ] Laufschuhe 
 - [ ] Wanderschuhe 
+- [ ] Fahrradhelm 
 - [x] destilliertes Wasser
 - [x] yoghurt 
 - [x] Bananen 
@@ -74,12 +75,11 @@
 - [ ] Staubsauger Bürstenaufsatz 
 - [ ] Basecap/Hut
 - [ ] große flache Teller 
-- [ ] neue flache Bridge für schwarze Gitarre 
 # non food
 - [ ] kleinen Schneebesen 
 - [ ] Plastik Plättchen zum tür öffnen -> pet Flasche 
 - [x] metallspülkorb
-- [ ] Mehrfachsteckdose für nähtisch
+- [x] Mehrfachsteckdose für nähtisch
 - [x] Papierklammern 
 - [x] Gärkorb
       ⟹<span style="font-size:100%;color:gold;">ne unwichtig</span> <span style="font-size:100%;color:red;">Ablenkung</span>
