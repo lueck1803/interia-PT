@@ -118,7 +118,7 @@
 # unsortiert
 - [x] Duolingo 
 - [ ] toast essen 
-- [ ] Gewicht in kabelfach der schwarzen gitarre tun
+- [ ] Gewicht in kabelfach der schwarzen g  itarre tun
 - [ ] linken Gartenhandschuh flicken
 - [ ] Nasenhaare schneiden 
 - [ ] Ticket für *my sleeping karma*
