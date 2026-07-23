@@ -162,7 +162,7 @@
 - [ ] Notizen zu <font color="#b088ff">Älter als das Leben</font> machen 
 	- [ ] Kommentar fertig schreiben 
 - [ ] bot Garten Ausdrucke lesen 
-	- [ ] den am Drucker lochen und einheften
+	- [x] den am Drucker lochen und einheften
 - [x] gelben Sack
 - [x] Papier Müll 
 - [ ] rote Beete zubereiten 
