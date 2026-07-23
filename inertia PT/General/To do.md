@@ -121,9 +121,12 @@
 - [ ] Nasenhaare schneiden 
 - [ ] Balkonpflanzen gießen 
 - [ ] toast essen 
+- [ ] Kressesamen sieben und in Dose füllen
 - [ ] konto checken 
 	- [ ] Mischa Bescheid geben ob ich das Geld bekommen habe 
-- [ ] Papierkram 
+- Papierkram 
+	- [ ] kassenbons
+	- [ ] Hefter
 - [ ] friseur 
 - MTB 
 	- [ ] im Schulgarten abspritzen 
