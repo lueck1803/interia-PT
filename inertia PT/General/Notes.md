@@ -2462,7 +2462,7 @@ Get-NetAdapter
 Get-NetAdapter -IncludeHidden
 ```
 
-Alternativ:
+### Alternativ:
 
 ```PowerShell
 Get-ComputerInfo | Select-Object -ExpandProperty CsNetworkAdapters
@@ -2480,6 +2480,19 @@ Get-NetAdapter | Format-List *
 ```
 
 
+### **Wi-Fi Adapter aktivieren**
+
+
+```PowerShell
+Get-NetAdapter -Name "Wi-Fi" | Enable-NetAdapter
+```
+
+### **Bypass Confirmation Prompts**
+
+
+```PowerShell
+Enable-NetAdapter -Name "Wi-Fi*" -Confirm:$false
+```
 
 ## History location
 ```PowerShell
