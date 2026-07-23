@@ -118,6 +118,7 @@
 # unsortiert
 - [x] Duolingo 
 - [ ] toast essen 
+- [ ] linken Gartenhandschuh flicken
 - [ ] Nasenhaare schneiden 
 - [x] Kresse aussäen
 - [ ] Paprika zwischen Erdbeeren setzen 
