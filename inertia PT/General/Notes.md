@@ -2442,6 +2442,45 @@ So gold wert und es funktioniert ❤️😍
 
 ## column
 # PowerShell
+
+## PowerShell Version
+
+
+```PowerShell
+$PSVersionTable
+```
+
+
+## Network adapter 
+
+```PowerShell
+Get-NetAdapter
+```
+
+
+```PowerShell
+Get-NetAdapter -IncludeHidden
+```
+
+Alternativ:
+
+```PowerShell
+Get-ComputerInfo | Select-Object -ExpandProperty CsNetworkAdapters
+```
+
+
+```PowerShell
+Get-CimInstance CIM_NetworkAdapter | Where-Object { $null -ne $_.NetConnectionStatus }
+```
+
+
+
+```PowerShell
+Get-NetAdapter | Format-List *
+```
+
+
+
 ## History location
 ```PowerShell
 "$ENV:USERPROFILE\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadLine\ConsoleHost_history.txt"
