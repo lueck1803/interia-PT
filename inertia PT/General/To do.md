@@ -120,6 +120,8 @@
 - [ ] Nasenhaare schneiden 
 - [ ] Kresse aussäen
 - [ ] Paprika zwischen Erdbeeren setzen 
+- [ ] https://youtu.be/M4O4L2tL-nk?is=Bm9SNS8mzs6SKPaI <br> aufschreiben 
+- [ ] https://youtu.be/m7U0353WlrQ?is=TmQ2HPznlXkCOWgo 
 - [x] wo trifft sich der Fahrradtreff?
 	- Kuppelkirche
 	- 18:30
