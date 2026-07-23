@@ -117,6 +117,7 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [ ] Duolingo 
+- [ ] Nasenhaare schneiden 
 - [x] wo trifft sich der Fahrradtreff?
 	- Kuppelkirche
 	- 18:30
