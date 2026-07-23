@@ -119,7 +119,7 @@
 - [ ] Duolingo 
 - [ ] Nasenhaare schneiden 
 - [ ] Kresse aussäen
-- [ ] Paprika zwischen Erdbeeren s
+- [ ] Paprika zwischen Erdbeeren setzen 
 - [x] wo trifft sich der Fahrradtreff?
 	- Kuppelkirche
 	- 18:30
