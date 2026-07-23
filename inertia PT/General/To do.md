@@ -161,7 +161,7 @@
 	- [ ] letzte simulationen anschauen
 		- [ ] wie sieht das Verhalten bei höherer PE bei höherer Masse aus? 
 		- [ ] sind die interfaces stable im kritischen bereich?
-	- [ ] simulationen gestartet:
+	- simulationen gestartet:
 		- br 1:10
 			- 14k 
 				- PE 35
@@ -169,9 +169,9 @@
 
 					- M 0.040 <font color="#92d050">fertig</font>
 					- [x] M 0.050 <font color="#48d1cc">CPU 02</font> 
-					- [ ] M 0.060 <font color="#48d1cc">CPU 02</font> 
+					- [x] M 0.060 <font color="#ff0000">cluster</font> 
 					- M 0.065 <font color="#48d1cc">CPU 02</font> <font color="#92d050">fertig</font>
-					- [ ] M 0.070 <font color="#48d1cc">CPU 02</font> 
+					- [x] M 0.070 <font color="#ff0000">cluster</font> 
 				- PE 40
 					- M 0.040 <font color="#92d050">fertig</font>
 					- [x] M 0.050 <font color="#48d1cc">CPU 02</font> 
