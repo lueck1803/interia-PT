@@ -134,7 +134,7 @@
 	- [x] Lampe mit passender Schraube und Dübel befestigen 
 - [x] Regentonne checken
 - [ ] Karton zusammenlegen 
-- [ ] Fahrradtasche aussaugen 
+- [x] Fahrradtasche aussaugen 
 - [x] samen die ich in der Regentonne gefunden habe, testen 
 	- das ist aufjedenfall kresse
 	- samen ablösen 
