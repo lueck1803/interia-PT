@@ -116,6 +116,7 @@
 - frische Luft
 - mich und mein Leben im Griff haben
 # unsortiert
+- [ ] Eltern schreiben wegen erster Radtour 
 - [ ] Duolingo 
 - [ ] Nasenhaare schneiden 
 - [ ] Balkonpflanzen gießen 
@@ -164,6 +165,7 @@
 	- [ ] Sitzteil zu Eltern mitnehmen 
 	- [ ] schweißen 
 	- [ ] Apfelschneider schweißen 
+- [ ] wo ist meine Handyhalterung fürs Rad? Ahl?
 - proposal 
 	- [ ] was zu PE schreiben
 		- [ ] leichte erhöhung -> stable und connected
