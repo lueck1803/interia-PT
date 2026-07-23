@@ -117,6 +117,7 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [x] Duolingo 
+- [x] Balkonpflanzen gießen 
 - [ ] toast essen 
 - [ ] Gewicht in kabelfach der schwarzen g itarre tun
 - [ ] linken Gartenhandschuh flicken
@@ -128,7 +129,6 @@
 - [x] wo trifft sich der Fahrradtreff?
 	- Kuppelkirche
 	- 18:30
-- [x] Balkonpflanzen gießen 
 - [x] Schulgarten gießen 
 - [ ] Karton zusammenlegen 
 - [ ] Steinsammlung weg 
@@ -214,12 +214,14 @@
 - [ ] poisson Verteilung Video schauen 
 - [ ] konto checken 
 - [ ] Küche aufräumen 
-
 - [ ] Halterung für Trainings gummies/expander
 	- [ ] wie trainiere ich damit richtig
 - prod go preset
 	- [ ] auf laptop speichern
-	- [ ] 
+		- [ ] out
+		- [ ] phones presets
+		- [ ] nach der Anpassung der phones presets diese auch speichern
+	- [ ] presets für phones output anpassen an die Änderungen von den Out presets
 - [ ] Staubsauger Schlauch Verstopfung 
 - [ ] russisch aufschreiben, dafür ein Blatt anlegen 
 - [ ] Yogamatten auspacken und ausprobieren 
