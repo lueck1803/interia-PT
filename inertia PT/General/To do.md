@@ -116,9 +116,9 @@
 - frische Luft
 - mich und mein Leben im Griff haben
 # unsortiert
-- [ ] Duolingo 
+- [x] Duolingo 
 - [ ] Nasenhaare schneiden 
-- [ ] Kresse aussäen
+- [x] Kresse aussäen
 - [ ] Paprika zwischen Erdbeeren setzen 
 - [ ] https://youtu.be/M4O4L2tL-nk?is=Bm9SNS8mzs6SKPaI <br> aufschreiben 
 - [ ] https://youtu.be/m7U0353WlrQ?is=TmQ2HPznlXkCOWgo <br> aufschreiben 
