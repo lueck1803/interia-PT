@@ -236,7 +236,6 @@
 - [x] salatsamen im Keller oder Samenkasten suchen
 	- das sind Kresse Samen glaube ich...
 - [ ] neuen Kalender für Schule erstellen 
-- [ ] weitere Paprika hinter Schnittlauch 
 - [ ] Papierkram 
 - [ ] poisson Verteilung Video schauen 
 - [ ] konto checken 
