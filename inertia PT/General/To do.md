@@ -117,6 +117,7 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [x] Duolingo 
+- [ ] toast essen 
 - [ ] Nasenhaare schneiden 
 - [x] Kresse aussäen
 - [ ] Paprika zwischen Erdbeeren setzen 
