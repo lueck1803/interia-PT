@@ -116,6 +116,13 @@
 - frische Luft
 - mich und mein Leben im Griff haben
 # unsortiert
+- MTB 
+	- [ ] Kette fetten 
+	- [ ] Schaltung hinten einstellen 
+	- [ ] Sattel 
+		- [ ] nach vorne 
+		- [ ] hoch?
+	- [ ] zum radelmal und fragen ob meine Sitzposition passt?
 - [x] Duolingo 
 - [x] Balkonpflanzen gießen 
 - [ ] toast essen 
@@ -328,8 +335,6 @@
 - [ ] tesaabroller schärfen
 - [ ] Kühlschrank putzen und abtauen
 - [ ] Zeug vor dem Bad wegräumen 
-- MTB 
-	- [ ] Kette fetten 
 - [ ] keller Karton Sammlung aufräumen 
 - [ ] powerbank reparieren
 	- [ ] welche ist die defekte?
