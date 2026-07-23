@@ -103,6 +103,12 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+## 2026-07-23
+https://www.n-tv.de/politik/Brosius-Gersdorf-kritisiert-Haltung-der-Union-zur-Leihmutterschaft-Laschet-kontert-id31110162.html?shem=dsdf,sharefoc,agadiscoversdl,,sh/x/discover/m1/4
+
+Ja gut dass sie kein Verfassungsrichter geworden ist. 
+
+Leihmutterschaft ist nichts anderes als Prostitution und dazu deutlich lebensgefährlicher.
 ## 2026-07-21 flo
 ### 1
 Ja nach außen meinte ich...
