@@ -118,6 +118,7 @@
 # unsortiert
 - [ ] Duolingo 
 - [ ] Nasenhaare schneiden 
+- [ ] Kresse ausäen
 - [x] wo trifft sich der Fahrradtreff?
 	- Kuppelkirche
 	- 18:30
