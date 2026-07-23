@@ -155,7 +155,7 @@
 		- 1,37 diagonal von offener Tür bis Wand (Hochbettgitter)
 		- 1,95 vom regal bis zur Wand (Hochbettgitter)
 	- hat wirklich gerade so gepasst 🫣
-- [ ] Spülmaschine ausräumen 
+- [x] Spülmaschine ausräumen 
 - [ ] Notizen zu <font color="#b088ff">Älter als das Leben</font> machen 
 	- [ ] Kommentar fertig schreiben 
 - [ ] bot Garten Ausdrucke lesen 
@@ -246,7 +246,6 @@
 	- [ ] preset auf laptop speichern
 - [ ] Staubsauger Schlauch Verstopfung 
 - [ ] russisch aufschreiben, dafür ein Blatt anlegen 
-- [ ] Zeug auf Motten überprüfen 
 - [x] was mit Zucchini und Auberginen kochen 
 - [ ] Yogamatten auspacken und ausprobieren 
 - Waschbecken putzen 
