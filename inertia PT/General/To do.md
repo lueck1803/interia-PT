@@ -118,7 +118,7 @@
 # unsortiert
 - [x] Duolingo 
 - [ ] toast essen 
-- [ ] Gewicht in kabelfach der schwarzen g  itarre tun
+- [ ] Gewicht in kabelfach der schwarzen g itarre tun
 - [ ] linken Gartenhandschuh flicken
 - [ ] Nasenhaare schneiden 
 - [ ] Ticket für *my sleeping karma*
@@ -141,12 +141,6 @@
 - [ ] Notizen zu <font color="#b088ff">Älter als das Leben</font> machen 
 	- [ ] Kommentar fertig schreiben 
 - [ ] bot Garten Ausdrucke lesen 
-- [ ] tapping ⟹ romance is dead zu gp üben
-- [ ] ⟹ anasasis (xenophontis)
-	- [ ] hammer on pull off 
-	- [ ] abgedämpften teil/ schnellen Teil
-- [ ] pwd - black out 
-- [ ] awakening 
 - [ ] friseur 
 - [x] gelben Sack
 - [x] Papier Müll 
@@ -214,23 +208,18 @@
 	- [ ] den teil zur elongated box fertig schreiben
 		- [ ] begünstigt aufsplittung
 		- [ ] kleinere finite size größe bei gleichzeitig viel größerem simulationsaufwand
-- tomaten rankstäbe (5 Stäbe )
-	- [x] markieren (orangenes duct tape)
-	- [x] mit in Schulgarten 
-	- [x] tomaten befestigen 
 - [ ] salat auf Balkon säen
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] Papierkram 
 - [ ] poisson Verteilung Video schauen 
 - [ ] konto checken 
 - [ ] Küche aufräumen 
-- [ ] powerbank reparieren
-	- [ ] welche ist die defekte?
-	- [ ] löten 
+
 - [ ] Halterung für Trainings gummies/expander
 	- [ ] wie trainiere ich damit richtig
-- [x] reorder presets
-	- [ ] preset auf laptop speichern
+- prod go preset
+	- [ ] auf laptop speichern
+	- [ ] 
 - [ ] Staubsauger Schlauch Verstopfung 
 - [ ] russisch aufschreiben, dafür ein Blatt anlegen 
 - [ ] Yogamatten auspacken und ausprobieren 
@@ -340,6 +329,9 @@
 - MTB 
 	- [ ] Kette fetten 
 - [ ] keller Karton Sammlung aufräumen 
+- [ ] powerbank reparieren
+	- [ ] welche ist die defekte?
+	- [ ] löten 
 - Rennrad 
 	- [ ] Lenkerband video schauen 
 	- [ ] Lenkerband 
@@ -792,6 +784,12 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 	- [ ] Bananenschalen (bio) wasser 24h einweichen 
 - [x] carnivoren umsetzen 
 # Musik
+
+- [ ] tapping ⟹ romance is dead zu gp üben
+- [ ] ⟹ anasasis (xenophontis)
+	- [ ] hammer on pull off 
+	- [ ] abgedämpften teil/ schnellen Teil
+- [ ] pwd - black out 
 - bei Musikhaus Arnold vorbei schauen wegen Bridge 
 	- ich hab den verstärker anders eingestellt und festgestellt, dass ich einfach anders picken muss... 
 	- viel weniger die Saiten berühren 
@@ -873,6 +871,10 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] <span style="color:coral">paartherapie S3 runterladen</span>
 
 # Alt
+- tomaten rankstäbe (5 Stäbe )
+	- [x] markieren (orangenes duct tape)
+	- [x] mit in Schulgarten 
+	- [x] tomaten befestigen 
 - Freitag (Essen)
 	- [x] Kartoffeln 
 	- [x] Steak (2 x Hüftsteak)
