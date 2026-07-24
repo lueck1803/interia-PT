@@ -118,6 +118,7 @@
 # unsortiert
 - [x] Balkonpflanzen gießen 
 - [x] Schulgarten gießen 
+- [ ] Spürkorb spülen 
 - [ ] Staubsaugen
 - [ ] Spülmaschine ausräumen 
 - [x] Duolingo 
