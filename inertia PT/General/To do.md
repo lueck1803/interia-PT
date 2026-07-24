@@ -118,7 +118,7 @@
 # unsortiert
 - [x] Balkonpflanzen gießen 
 - [x] Schulgarten gießen 
-- [ ] mit Zahnbürste Wasserhahn im bad reinigen 
+- [x] mit Zahnbürste Wasserhahn im bad reinigen 
 - [x] Spülkorb spülen 
 - [ ] Staubsaugen
 - [ ] Spülmaschine ausräumen 
