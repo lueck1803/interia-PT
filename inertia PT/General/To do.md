@@ -118,6 +118,8 @@
 # unsortiert
 - [x] Balkonpflanzen gießen 
 - [x] Eltern schreiben wegen erster Radtour 
+- [x] Steckerleiste tauschen
+- [ ] Schulgarten gießen 
 - [ ] Spülmaschine ausräumen 
 - [x] fahrrad zeug weg tun
 - [ ] Fahrradflasche an anderer Stelle anbringen?
@@ -126,7 +128,7 @@
 - [ ] toast essen 
 - [ ] Kressesamen sieben und in Dose füllen
 - [x] konto checken 
-	- [ ] hab irgendwie krass viel geld bekommen zu letzt
+	- hab irgendwie krass viel geld bekommen zu letzt
 	- [x] Mischa Bescheid geben ob ich das Geld bekommen habe 
 - Papierkram 
 	- [ ] kassenbons
@@ -153,7 +155,6 @@
 - [ ] https://youtu.be/M4O4L2tL-nk?is=Bm9SNS8mzs6SKPaI <br> aufschreiben 
 - [ ] https://youtu.be/m7U0353WlrQ?is=TmQ2HPznlXkCOWgo <br> aufschreiben 
 - [ ] https://youtu.be/npQ2IORdlvU?is=uOARePu3UtjA5gfw <br> aufschreiben 
-- [x] Schulgarten gießen 
 - [ ] Karton zusammenlegen 
 - [ ] Steinsammlung weg 
 - [ ] terra cotta farbenen topf reparieren 
