@@ -119,6 +119,7 @@
 - [x] Balkonpflanzen gießen 
 - [x] Eltern schreiben wegen erster Radtour 
 - [x] Steckerleiste tauschen
+- [ ] Sattel vom Rennrad ab
 - [ ] Schulgarten gießen 
 - [ ] Spülmaschine ausräumen 
 - [x] fahrrad zeug weg tun
