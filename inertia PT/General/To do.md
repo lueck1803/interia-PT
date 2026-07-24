@@ -123,7 +123,6 @@
 - [x] Duolingo 
 - [ ] Nasenhaare schneiden 
 - [ ] toast essen 
-
 - Papierkram 
 	- [ ] kassenbons
 	- [ ] Hefter
