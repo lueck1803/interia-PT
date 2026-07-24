@@ -121,6 +121,16 @@
 - [x] mit Zahnbürste Wasserhahn im bad reinigen 
 - [x] Spülkorb spülen 
 - [x] grobes Salz nachfüllen 
+- [ ] Ackerbohnen stecken 
+	- [ ] beim majoran
+	- [ ] zwischen die minze
+	- [ ] in den Kompost topf
+		- [ ] l
+	- [ ] neben den Liebstöckl 
+	- [ ] neben okra
+	- [ ] um die Tomatenpflanze
+	- [ ] neben Lavendel und Salbei 
+	- [ ] bei Erdbeeren 
 - [ ] Staubsaugen
 - [ ] Spülmaschine ausräumen 
 - [x] Duolingo 
