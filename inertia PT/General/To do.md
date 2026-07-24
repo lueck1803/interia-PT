@@ -450,6 +450,21 @@
 - [x] Notizen zu *why you can't finish simple tasks* machen
 - [x] Notizen zur Kommunikation Friedemann schulz von Thun 
 # Arbeit
+- [ ] mir überlegen was ich anders mache. Lehrer werde ich nicht
+	- [ ] sind zu viele Namen 
+	- [ ] zu viele Persönlichkeiten
+	- [ ] ich möchte nicht die Aufsicht über so viele Leute haben 
+	- [ ] zu viele Dinge gleichzeitig zu kontrollieren 
+	- [ ] zu viele Sorgen 
+	- [ ] dann fühle ich mich im Unterricht auch nicht
+	- [ ] ich kann auch keinen jahrgangs gerechten Unterricht machen
+	- [ ] und insbesondere nicht an dieser Schule
+	- [ ] die Physikräume sind schrecklich 
+	- [ ] ~={green}nicht so negativ in die Zukunft blicken, was ich nicht kann. Dazu neigt meine Persönlichkeit =~
+	- [ ] ~={ForestGreen}auf die Vergangenheit positiv schauen, was ich alles geschafft habe=~.
+	- [ ] ~={red}wie bringe ich Physik mit einfachen Mitteln bei=~
+	- [ ] ~={Tomato}wie bringe ich Ordnung in mein Tafelbild=~
+	- [ ] ~={Crimson}Ordnung in meine Gedanken und Worte bringen, weniger ist mehr=~ 
 ## Arbeitssuche 
 - definitiv noch bei Aldi/Rewe vorbei schauen
 - Kitas 
