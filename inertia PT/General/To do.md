@@ -116,24 +116,26 @@
 - frische Luft
 - mich und mein Leben im Griff haben
 # unsortiert
-- [x] Balkonpflanzen gießen 
-- [x] Schulgarten gießen 
-- [x] mit Zahnbürste Wasserhahn im bad reinigen 
-- [x] Spülkorb spülen 
-- [x] grobes Salz nachfüllen 
+- [ ] Balkonpflanzen gießen 
+- [ ] Duolingo 
 - [ ] Ackerbohnen stecken 
 	- [ ] beim majoran
 	- [ ] zwischen die minze
 	- [ ] in den Kompost topf
-		- [ ] l
+		- [ ] Lücken mit Erde auffüllen 
 	- [ ] neben den Liebstöckl 
 	- [ ] neben okra
 	- [ ] um die Tomatenpflanze
 	- [ ] neben Lavendel und Salbei 
 	- [ ] bei Erdbeeren 
+- [ ] teiche auffüllen 
+- [ ] Bauhaus 
+	- [ ] destilliertes Wasser 
+	- [ ] salatsamen 
+- [ ] Olivendosen anbohren 
+- [ ] Maronen in Olivendosen setzen 
 - [ ] Staubsaugen
 - [ ] Spülmaschine ausräumen 
-- [x] Duolingo 
 - [ ] Nasenhaare schneiden 
 - [ ] toast essen 
 - Papierkram 
@@ -165,10 +167,6 @@
 	- [x] den am Drucker lochen und einheften
 - [x] gelben Sack
 - [x] Papier Müll 
-- kleinen Drehstuhl 
-	- [ ] Sitzteil zu Eltern mitnehmen 
-	- [ ] schweißen 
-	- [ ] Apfelschneider schweißen 
 - [ ] wo ist meine Handyhalterung fürs Rad? Ahl?
 - proposal 
 	- [ ] was zu PE schreiben
