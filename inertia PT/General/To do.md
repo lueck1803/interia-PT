@@ -120,11 +120,11 @@
 - [x] Eltern schreiben wegen erster Radtour 
 - [x] Steckerleiste tauschen
 - [ ] Sattel vom Rennrad ab
+	- [ ] gerade nicht nötig
 - [ ] Schulgarten gießen 
 - [ ] Spülmaschine ausräumen 
 - [x] fahrrad zeug weg tun
-- [ ] Fahrradflasche an anderer Stelle anbringen?
-- [ ] Duolingo 
+- [x] Duolingo 
 - [ ] Nasenhaare schneiden 
 - [ ] toast essen 
 - [ ] Kressesamen sieben und in Dose füllen
@@ -139,10 +139,12 @@
 	- [ ] im Schulgarten abspritzen 
 	- [ ] Kette fetten 
 	- [ ] Schaltung hinten einstellen 
-	- [ ] Sattel 
-		- [ ] nach vorne 
-		- [ ] hoch?
+	- [x] Sattel 
+		- [x] nach vorne 
+		- [x] hoch?
 	- [ ] zum radelmal und fragen ob meine Sitzposition passt?
+	- [ ] am Hügel testen wie es sich fährt 
+	- [ ] Fahrradflasche an anderer Stelle anbringen?
 - [ ] Fahrradhelm 
 	- [ ] Band einstellen 
 	- [ ] Filz oder Ähnliches auf Klett machen
@@ -240,7 +242,7 @@
 - [ ] Küche aufräumen 
 - [ ] Halterung für Trainings gummies/expander
 	- [ ] wie trainiere ich damit richtig
-- prod go preset
+- pod go preset
 	- [ ] auf laptop speichern
 		- [ ] out
 		- [ ] phones presets
