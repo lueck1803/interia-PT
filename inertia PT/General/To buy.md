@@ -1,3 +1,4 @@
+- [ ] Vaseline 
 - [x] gelbe Zwiebeln 
 - [x] Steckerleiste (Aldi) 
 - [x] Dosentomaten 
