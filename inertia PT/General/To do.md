@@ -126,7 +126,7 @@
 - [x] Duolingo 
 - [ ] Nasenhaare schneiden 
 - [ ] toast essen 
-- [ ] Kressesamen sieben und in Dose füllen
+- [x] Kressesamen sieben und in Dose füllen
 - [x] konto checken 
 	- hab irgendwie krass viel geld bekommen zu letzt
 	- [x] Mischa Bescheid geben ob ich das Geld bekommen habe 
