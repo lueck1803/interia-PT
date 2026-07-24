@@ -121,6 +121,7 @@
 - [x] Steckerleiste tauschen
 - [x] Sattel vom Rennrad ab (definitiv )
 - [x] Schulgarten gießen 
+- [ ] Staubsaugen
 - [ ] Spülmaschine ausräumen 
 - [x] fahrrad zeug weg tun
 - [x] Duolingo 
