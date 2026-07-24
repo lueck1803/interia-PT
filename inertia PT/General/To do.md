@@ -117,20 +117,13 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [x] Balkonpflanzen gießen 
-- [x] Eltern schreiben wegen erster Radtour 
-- [x] Steckerleiste tauschen
-- [x] Sattel vom Rennrad ab (definitiv )
 - [x] Schulgarten gießen 
 - [ ] Staubsaugen
 - [ ] Spülmaschine ausräumen 
-- [x] fahrrad zeug weg tun
 - [x] Duolingo 
 - [ ] Nasenhaare schneiden 
 - [ ] toast essen 
-- [x] Kressesamen sieben und in Dose füllen
-- [x] konto checken 
-	- hab irgendwie krass viel geld bekommen zu letzt
-	- [x] Mischa Bescheid geben ob ich das Geld bekommen habe 
+
 - Papierkram 
 	- [ ] kassenbons
 	- [ ] Hefter
@@ -161,8 +154,7 @@
 	- [x] den am Drucker lochen und einheften
 - [x] gelben Sack
 - [x] Papier Müll 
-- [x] rote Beete zubereiten 
-	- [x] hab sie roh gegessen 
+
 - kleinen Drehstuhl 
 	- [ ] Sitzteil zu Eltern mitnehmen 
 	- [ ] schweißen 
@@ -335,7 +327,6 @@
 - [ ] Teil bzgl weg zur Kästchen methode und von dort zu meiner methode fertig schreiben. Nochmal in report schauen was ich da schon geschrieben habe
 - [ ] vertrag nach Kündigungsfrist durch schauen
 - [ ] was ist die mindst Kündigungsfrist in Deutschland 
-- [x] Freddies Socken an der Spitze vernähen 
 - [ ] dpg kündigen
 - [ ] jean-lueck@gmx.net aufräumen
 - [ ] yoga 
@@ -897,6 +888,12 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] <span style="color:coral">paartherapie S3 runterladen</span>
 
 # Alt
+- [x] Freddies Socken an der Spitze vernähen 
+- [x] rote Beete zubereiten 
+	- [x] hab sie roh gegessen 
+- [x] konto checken 
+	- hab irgendwie krass viel geld bekommen zu letzt
+	- [x] Mischa Bescheid geben ob ich das Geld bekommen habe 
 - tomaten rankstäbe (5 Stäbe )
 	- [x] markieren (orangenes duct tape)
 	- [x] mit in Schulgarten 
