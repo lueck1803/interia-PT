@@ -1,13 +1,23 @@
 - [ ] Vaseline 
 - [ ] hummus
 - [ ] Schoki 
-- [ ] n
+- [ ] nüsse
+- [ ] Bananen 
+- [ ] Burger 
+- [ ] saft
+- [ ] Nusskati 
+- [ ] Nudelsoßen 
+- [ ] pizza
+- [ ] bier
+- käse
+	- [ ] für Brot 
+	- [ ] Parmesan 
+- [ ] Kartoffeln 
 - [x] gelbe Zwiebeln 
 - [x] Steckerleiste (Aldi) 
 - [x] Dosentomaten 
 - [x] Toast
-- [x] Nusskati 
-- [ ] Wäschekorb 
+- [ ] Wäschekorb/Behälter 
 	- (falls wieder im aldi)
 	- BHT - 44 cm x 60,5 cm  x 35,5 cm
 	- nicht hellblau 
@@ -19,17 +29,13 @@
 - [x] rinder steak 🥩
 - [x] hafermilch
 - [x] kiwi
-- [x] saft
 - [ ] destilliertes Wasser 
-- [x] käse
-- [x] Nudelsoßen 
 - [x] Tomaten 
 - [ ] Laufschuhe 
 - [ ] Wanderschuhe 
 - [ ] Fahrradhelm 
 - [x] destilliertes Wasser
 - [x] yoghurt 
-- [x] Bananen 
 - [x] so ein soja Essen
 - [x] Backpulver 
 - [x] Bolognese soße
@@ -40,28 +46,19 @@
 	- wenn <font color="#00b0f0">Aufzug</font> wieder geht
 	- ja perfekt, der Aufzug ging gerade wieder als ich die Erde kaufen wollte 2026-07-09
 - [x] Wassereis 
-- [x] pizza 
 - [x] Toilettenpapier 
-- [x] klingel
-- [x] einen Flaschenhalter 
-- [x] burger 
 - [ ] Teebaumöl 
 - [ ] tofu 
 	- momentan nicht im Sortiment 
-- [x] pizza
 - [x] Schmelzkäse Scheiben 
 - [x] grüne Oliven 
 - [x] Pesto 
 - [x] schoko chips
-- [x] schoki
 - [ ] grüne Erbsen 
 - [x] Chipotle mayo
 - [x] schokomüsli
-- [x] bananen
-- [x] destilliertes Wasser 
 - [x] Margarine 
 - [x] gewürz Ketchup 
-- [x] hummus
 - [x] zink tabletten
 - [x] ventilator 
 - türke

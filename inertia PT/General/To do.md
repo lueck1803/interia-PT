@@ -120,6 +120,7 @@
 - [x] Schulgarten gießen 
 - [x] mit Zahnbürste Wasserhahn im bad reinigen 
 - [x] Spülkorb spülen 
+- [ ] grobes Salz nachfüllen 
 - [ ] Staubsaugen
 - [ ] Spülmaschine ausräumen 
 - [x] Duolingo 
