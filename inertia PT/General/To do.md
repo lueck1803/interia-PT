@@ -118,8 +118,8 @@
 # unsortiert
 - [x] Balkonpflanzen gießen 
 - [x] Schulgarten gießen 
-- [ ] 
-- [ ] Spülkorb spülen 
+- [ ] mit Zahnbürste Wasserhahn im bad reinigen 
+- [x] Spülkorb spülen 
 - [ ] Staubsaugen
 - [ ] Spülmaschine ausräumen 
 - [x] Duolingo 
