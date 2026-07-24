@@ -76,6 +76,7 @@
 - [ ] Staubsauger Bürstenaufsatz 
 - [ ] Basecap/Hut
 - [ ] große flache Teller 
+- [ ] gravelbike 
 # non food
 - [ ] kleinen Schneebesen 
 - [ ] Plastik Plättchen zum tür öffnen -> pet Flasche 

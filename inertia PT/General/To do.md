@@ -119,6 +119,7 @@
 - [x] Balkonpflanzen gießen 
 - [x] Eltern schreiben wegen erster Radtour 
 - [ ] fahrrad zeug weg tun
+- [ ] fahrrad
 - [ ] Duolingo 
 - [ ] Nasenhaare schneiden 
 - [ ] toast essen 
