@@ -140,7 +140,6 @@
 - [ ] https://youtu.be/M4O4L2tL-nk?is=Bm9SNS8mzs6SKPaI <br> aufschreiben 
 - [ ] https://youtu.be/m7U0353WlrQ?is=TmQ2HPznlXkCOWgo <br> aufschreiben 
 - [ ] https://youtu.be/npQ2IORdlvU?is=uOARePu3UtjA5gfw <br> aufschreiben 
-- [x] Karton zusammenlegen 
 - [ ] Steinsammlung weg 
 - [ ] terra cotta farbenen topf reparieren 
 - Backbleche
@@ -220,7 +219,6 @@
 - [ ] salat auf Balkon säen
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] poisson Verteilung Video schauen 
-- [ ] Küche aufräumen 
 - [ ] Halterung für Trainings gummies/expander
 	- [ ] wie trainiere ich damit richtig
 - pod go preset
@@ -235,7 +233,6 @@
 - Waschbecken putzen 
 	- [x] Bad 
 	- [ ] Küche 
-- [ ] zu duckduckgo wechseln 
 - [ ] Freitag letzte Ferienwoche ist Anfangskonferenz 
 - [ ] Ordner für Schule anlegen um Zeug abzuheften
 - [ ] ohr eincremen /Teebaumöl 
@@ -245,7 +242,6 @@
 - [ ] Sprachaufzeichnung transkribieren 
 - [ ] Akteneintrag Esma fertig machen
 - [ ] Bas Kram aufräumen 
-- [ ] Proposal 
 - [ ] Hosentaschen graue Hose vergrößern 
 - [ ] foxit reader Mac aufräumen
 - [ ] einkaufschip
