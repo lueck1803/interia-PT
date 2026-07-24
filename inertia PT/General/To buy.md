@@ -1,4 +1,7 @@
 - [ ] Vaseline 
+- [ ] hummus
+- [ ] Schoki 
+- [ ] n
 - [x] gelbe Zwiebeln 
 - [x] Steckerleiste (Aldi) 
 - [x] Dosentomaten 
@@ -15,7 +18,6 @@
 - [x] Kartoffeln
 - [x] rinder steak 🥩
 - [x] hafermilch
-- [x] hummus
 - [x] kiwi
 - [x] saft
 - [ ] destilliertes Wasser 
