@@ -118,6 +118,7 @@
 # unsortiert
 - [x] Balkonpflanzen gießen 
 - [x] Eltern schreiben wegen erster Radtour 
+- [ ] Spülmaschine ausräumen 
 - [ ] fahrrad zeug weg tun
 - [ ] Fahrradflasche an anderer Stelle anbringen?
 - [ ] Duolingo 
@@ -139,7 +140,9 @@
 		- [ ] nach vorne 
 		- [ ] hoch?
 	- [ ] zum radelmal und fragen ob meine Sitzposition passt?
-- [ ] Fahrradhelm einstellen 
+- [ ] Fahrradhelm 
+	- [ ] Band einstellen 
+	- [ ] Filz oder Ähnliches auf Klett machen
 - schuhe kaufen 
 	- [ ] Laufschuhe 
 	- [ ] Wanderschuhe 
@@ -158,7 +161,6 @@
 	- [x] in Wohnung 
 	- [ ] putzen
 	- [ ] in Vorratsschrank 
-- [x] Spülmaschine ausräumen 
 - [ ] Notizen zu <font color="#b088ff">Älter als das Leben</font> machen 
 	- [ ] Kommentar fertig schreiben 
 - [ ] bot Garten Ausdrucke lesen 
