@@ -119,7 +119,7 @@
 - [x] Balkonpflanzen gießen 
 - [x] Schulgarten gießen 
 - [ ] 
-- [ ] Spürkorb spülen 
+- [ ] Spülkorb spülen 
 - [ ] Staubsaugen
 - [ ] Spülmaschine ausräumen 
 - [x] Duolingo 
