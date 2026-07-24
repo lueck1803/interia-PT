@@ -120,7 +120,7 @@
 - [x] Eltern schreiben wegen erster Radtour 
 - [x] Steckerleiste tauschen
 - [x] Sattel vom Rennrad ab (definitiv )
-- [ ] Schulgarten gießen 
+- [x] Schulgarten gießen 
 - [ ] Spülmaschine ausräumen 
 - [x] fahrrad zeug weg tun
 - [x] Duolingo 
