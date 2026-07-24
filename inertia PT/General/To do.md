@@ -343,6 +343,10 @@
 - [ ] powerbank reparieren
 	- [ ] welche ist die defekte?
 	- [ ] löten 
+- kleinen Drehstuhl 
+	- [ ] Sitzteil zu Eltern mitnehmen 
+	- [ ] schweißen 
+	- [ ] Apfelschneider schweißen 
 - Rennrad 
 	- [ ] Lenkerband video schauen 
 	- [ ] Lenkerband 
