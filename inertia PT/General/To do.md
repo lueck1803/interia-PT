@@ -118,6 +118,7 @@
 # unsortiert
 - [x] Balkonpflanzen gießen 
 - [x] Schulgarten gießen 
+- [ ] 
 - [ ] Spürkorb spülen 
 - [ ] Staubsaugen
 - [ ] Spülmaschine ausräumen 
@@ -233,7 +234,7 @@
 - [ ] Yogamatten auspacken und ausprobieren 
 - Waschbecken putzen 
 	- [x] Bad 
-	- [ ] Küche 
+	- [x] Küche 
 - [ ] Freitag letzte Ferienwoche ist Anfangskonferenz 
 - [ ] Ordner für Schule anlegen um Zeug abzuheften
 - [ ] ohr eincremen /Teebaumöl 
