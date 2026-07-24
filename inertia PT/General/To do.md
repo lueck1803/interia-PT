@@ -134,16 +134,6 @@
 	- [ ] kassenbons
 	- [ ] Hefter
 - [ ] friseur 
-- MTB 
-	- [ ] im Schulgarten abspritzen 
-	- [ ] Kette fetten 
-	- [ ] Schaltung hinten einstellen 
-	- [x] Sattel 
-		- [x] nach vorne 
-		- [x] hoch?
-	- [ ] zum radelmal und fragen ob meine Sitzposition passt?
-	- [ ] am Hügel testen wie es sich fährt 
-	- [ ] Fahrradflasche an anderer Stelle anbringen?
 - [ ] Fahrradhelm 
 	- [ ] Band einstellen 
 	- [ ] Filz oder Ähnliches auf Klett machen
@@ -362,6 +352,17 @@
 	- [ ] Kleinanzeigen 
 	- [ ] verkaufen 
 - [ ] Ceranfeld wegschmeißen / was kann ich damit basteln?
+
+- MTB 
+	- [x] im Schulgarten abspritzen 
+	- [x] Kette fetten 
+	- [x] Schaltung hinten einstellen 
+	- [x] Sattel 
+		- [x] nach vorne 
+		- [x] hoch?
+	- [ ] zum radelmal und fragen ob meine Sitzposition passt?
+	- [x] am Hügel testen wie es sich fährt 
+	- [x] Fahrradflasche an anderer Stelle anbringen?
 # tägliches
 
 ## Wohnbereich 
