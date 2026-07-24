@@ -140,7 +140,7 @@
 - [ ] https://youtu.be/M4O4L2tL-nk?is=Bm9SNS8mzs6SKPaI <br> aufschreiben 
 - [ ] https://youtu.be/m7U0353WlrQ?is=TmQ2HPznlXkCOWgo <br> aufschreiben 
 - [ ] https://youtu.be/npQ2IORdlvU?is=uOARePu3UtjA5gfw <br> aufschreiben 
-- [ ] Karton zusammenlegen 
+- [x] Karton zusammenlegen 
 - [ ] Steinsammlung weg 
 - [ ] terra cotta farbenen topf reparieren 
 - Backbleche
@@ -153,7 +153,6 @@
 	- [x] den am Drucker lochen und einheften
 - [x] gelben Sack
 - [x] Papier Müll 
-
 - kleinen Drehstuhl 
 	- [ ] Sitzteil zu Eltern mitnehmen 
 	- [ ] schweißen 
