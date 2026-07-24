@@ -116,11 +116,11 @@
 - frische Luft
 - mich und mein Leben im Griff haben
 # unsortiert
+- [x] Balkonpflanzen gießen 
 - [ ] Eltern schreiben wegen erster Radtour 
 - [ ] fahrrad zeug weg tun
 - [ ] Duolingo 
 - [ ] Nasenhaare schneiden 
-- [ ] Balkonpflanzen gießen 
 - [ ] toast essen 
 - [ ] Kressesamen sieben und in Dose füllen
 - [ ] konto checken 
