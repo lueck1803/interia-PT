@@ -117,6 +117,7 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [ ] Eltern schreiben wegen erster Radtour 
+- [ ] fahrrad zeug weg tun
 - [ ] Duolingo 
 - [ ] Nasenhaare schneiden 
 - [ ] Balkonpflanzen gießen 
