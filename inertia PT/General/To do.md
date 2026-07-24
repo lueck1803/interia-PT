@@ -160,7 +160,8 @@
 	- [x] den am Drucker lochen und einheften
 - [x] gelben Sack
 - [x] Papier Müll 
-- [ ] rote Beete zubereiten 
+- [x] rote Beete zubereiten 
+	- [x] hab sie roh gegessen 
 - kleinen Drehstuhl 
 	- [ ] Sitzteil zu Eltern mitnehmen 
 	- [ ] schweißen 
