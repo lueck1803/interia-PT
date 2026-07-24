@@ -117,14 +117,15 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [x] Balkonpflanzen gießen 
-- [ ] Eltern schreiben wegen erster Radtour 
+- [x] Eltern schreiben wegen erster Radtour 
 - [ ] fahrrad zeug weg tun
 - [ ] Duolingo 
 - [ ] Nasenhaare schneiden 
 - [ ] toast essen 
 - [ ] Kressesamen sieben und in Dose füllen
-- [ ] konto checken 
-	- [ ] Mischa Bescheid geben ob ich das Geld bekommen habe 
+- [x] konto checken 
+	- [ ] hab irgendwie krass viel geld bekommen zu letzt
+	- [x] Mischa Bescheid geben ob ich das Geld bekommen habe 
 - Papierkram 
 	- [ ] kassenbons
 	- [ ] Hefter
