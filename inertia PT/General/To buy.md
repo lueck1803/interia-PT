@@ -124,7 +124,7 @@
 	- jetzt 320.24
 - [ ] 2x32gb Arbeitsspeicher - Corsair Vengeance LPX 64GB Kit DDR4 3200 CL1G ~ 125€ 😂🤣
 	- Das ist vorbei, der Preis liegt jetzt bei 600€ 🤣
-- [ ] thunderbolt extension card
+- [ ] asus thunderbolt extension card ~ 90€
 - [x] Logitech Z207
 - [x] Canon Pixma TS9550a + auffülbare Patronen 
 - [x] Drucker https://www.voelkner.de/checkout/step2.html
