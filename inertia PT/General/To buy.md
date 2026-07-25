@@ -25,7 +25,6 @@
 - [ ] Schlagbohrmaschine (wenn es im Aldi gibt)
 - [ ] Gewebeband 
 - [ ] salatsamen (Rewe - gab's da nicht)
-- [x] Kartoffeln
 - [x] rinder steak 🥩
 - [x] hafermilch
 - [x] kiwi
