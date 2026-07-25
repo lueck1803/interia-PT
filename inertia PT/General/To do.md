@@ -133,6 +133,15 @@
 			- [ ] ich nen pc habe mit mehr leistung... also mehr haben ⟹ ich bin besser oder wieder ok/gut
 			- [ ] 
 		- [ ] um den bildschirm zu verwenden
+			- [ ] den ich dann aber eh erstmal für die arbeit gebraucht habe
+		- [ ] zu dem zeitpunkt hatte ich gerade erst die neue Arbeit in aussicht und noch überhaupt keine ahung ob ich das überhaupt schaffe und wie es mit dem geld sein wird, daher konnte ich mir das nicht erlauben. ich hab mir auch so viele gedanken darüber gemacht, ob ich das überhaupt brauche und was ich dann damit mache. nicht dass ich dann doch zocke... 
+		- [ ] und ich habe mir extrem viele gedanken über den Stromverbrauch gemacht 🤣
+		- [ ] unter dem Druck, der energielosigkeit und Angst hätte ich eh keine CPU einbauen und paste drauf machen können
+		- [ ] das wäre so viel aufeinmal gewesen weswegen ich mir dann druck und stress gemacht hätte, was dann auch sehr wahrscheinlich gar nicht funktioniert hätte
+		- [ ] so gut wie es mir jetzt gerade geht, ging es mir nie, ich konnte gar nicht frei denken
+		- [ ] zu dem Zeitpunkt hatte ich den Tisch auch noch nicht so weit unten, wie jetzt, ja die Sitzposition hatte ich schon so verändert und auch die neue Tastatur...
+		- [ ] Ich denke schon, das wäre alles gut gewesen das gemacht zuhaben, aber es ist so gekommen wie es gekommen ist
+		- [ ] ich hätte mir wahr
 - [ ] warum fügt ctrl + v eine ausgeschnittene zeile am PC immer darüber ein ?
 - schuhe kaufen 
 	- [ ] über Laufschuhe informieren
