@@ -3313,7 +3313,8 @@ Ich hätte letztes Jahr für die PC erweiterungen zusammen 790 bzw 800€ ausgeg
 		- hätte nicht so viel Geld ausgegeben
 		- erstmal einen Schritt gemacht und nicht so viele aufeinmal
 		- hätte daran wachsen können und schonmal ein besseres arbeitssetup gehabt. es wäre jedenfalls keine Verschwendung gewesen. lediglich 80-90€ für die Thunderbolt karte und die wären gut investiert gewesen
-		- ein paar zusätzliche kabel die ich dann auch in mei
+		- ein paar zusätzliche kabel die ich dann auch in meine hätte hätte gesamt geld kalkulation eingearbeitet habe, immer mit einer selbstabwertenden konnotation, wären überhaupt kein beinbruch gewesen, denn ehrlicherweise selbst für die graka hätte ich dann neue kabel gebraucht 🤷‍♂️, denn jetzt verwende ich auch nen anderen zweit Bildschirm (den dell)
+		- und zusammen mit Arbeitsspeicher der zu dem Zeitpunkt eh erstmal wichtiger gewesen wäre (aber halt irgendwann im august/juli günstig war, als ich noch keinen )
 ## 26-06-14 "fahrrad"
 
 ### ich
