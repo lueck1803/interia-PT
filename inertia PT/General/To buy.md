@@ -66,11 +66,11 @@
 - [x] zink tabletten
 - [x] ventilator 
 - türke
-	- [ ] weiße bohnen 
-	- [ ] 2 x Ackerbohnen
+	- [x] weiße bohnen 
+	- [x] 2 x Ackerbohnen
 	- [ ] schwarze Oliven
 	- [ ] kalamata oliven 
-	- [ ] grüne erbsen
+	- [x] grüne erbsen
 - [x] Unterhosen 
 - [ ] Displayport - Displayport Kabel
 - [ ] 4er Pack CR2032 3V vom dm
