@@ -2,6 +2,7 @@
 - regelmäßig den <font color="#00fa9a">Blutdruck</font> messen
 - ohr eincremen /Teebaumöl test
 # Mantra
+-  wer am Schlaf spart, 
 ## oberste Priorität:
 - ich will <font color="#ff0000">kein</font> <font color="#7cfc00">sklave</font> mehr sein
 	- befreie dich oder gehe zu Grunde 
