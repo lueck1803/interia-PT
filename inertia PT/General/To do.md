@@ -4,7 +4,9 @@
 # Mantra
 -  wer am <font color="#92d050">Schlaf spart</font>, <font color="#ff0000">zahlt</font> mit dem <font color="#ff0000">ganzen Tag.</font>
 	- Schlafquantität 
-	- Schlafqualität ⟹ genug Tiefschlafphasen
+	- Schlafqualität
+		- ⟹ genug Tiefschlafphasen
+		- ⟹
 ## oberste Priorität:
 - ich will <font color="#ff0000">kein</font> <font color="#7cfc00">sklave</font> mehr sein
 	- befreie dich oder gehe zu Grunde 
