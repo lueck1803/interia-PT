@@ -125,7 +125,14 @@
 - [x] Duolingo 
 - [ ] helle rot töne dem farb muster hinzufügen
 - [ ] therapeutisch aufarbeiten, dass ich letztes Jahr für die PC erweiterungen zusammen 790 bzw 800€ ausgegeben hätte, was in etwa dem Geld entspricht, was ich für den Anwalt raus geschmissen habe. und dieses Jahr kostet der Arbeitsspeicher alleine schon 600 € xD
-	- [ ] aber das ist ok, denn zu dem Zeitpunkt ging es mir eh sehr schlecht, ich habe noch sehr sehr stark unter der situtation mit arooj gelitten, da war das mit dem vollständigen ausszug noch nicht durch. ich konnte zu dem zeitpunkt keine Entscheidungen treffen und 
+	- [ ] aber das ist ok, denn zu dem Zeitpunkt ging es mir eh sehr schlecht, ich habe noch sehr sehr stark unter der situtation mit arooj gelitten, da war das mit dem vollständigen ausszug noch nicht durch. ich konnte zu dem zeitpunkt keine Entscheidungen treffen und hatte auch erst geld für die Tastatur ausgegeben, ich hätte mich dann wieder fertig gemacht und auch gestresst beim Einbau der Sachen und runter gemacht. ich hätte zu dem Zeitpunkt eh keine CPU einbauen können, ohne etwas kaputt zu machen. das war alles unter einer Druck situation. 
+	- [ ] ich muss kaufen, damit
+		- [ ] ich diese PC sache verarbeitet habe
+			- [ ] das der PC überhaupt da ist und so groß
+			- [ ] damit ich das mit der CPU nochmal mache und meine schande damit tilge...
+			- [ ] ich nen pc habe mit mehr leistung... also mehr haben ⟹ ich bin besser oder wieder ok/gut
+			- [ ] 
+		- [ ] um den bildschirm zu verwenden
 - [ ] warum fügt ctrl + v eine ausgeschnittene zeile am PC immer darüber ein ?
 - schuhe kaufen 
 	- [ ] über Laufschuhe informieren
