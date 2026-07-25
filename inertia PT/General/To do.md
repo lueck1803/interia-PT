@@ -124,7 +124,7 @@
 - [ ] Balkonpflanzen gießen 
 - [x] Duolingo 
 - [ ] Thunderbolt karte + 2 x tb ⇔ dp + docking station (WAVLINK Thunderbolt) wie lange ist das Kabel?
-- [ ] 
+	- [ ] oder das von ugreen das kein Netzteil hat 
 - [ ] Thunderbolt erweiterungskarte 
 	- [ ] Thunderboltkarte kaufen
 	- [ ] Bildschirmkabel, welches brauche ich? ist am sinnvollsten?
