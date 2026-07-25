@@ -123,6 +123,7 @@
 # unsortiert
 - [ ] Balkonpflanzen gießen 
 - [x] Duolingo
+- [ ] probieren mit knöchel zu tappen, wie das jassy im video gemacht hat
 - [ ] cityrad bremse
 - [ ] Thunderbolt karte + 2 x tb ⇔ dp + docking station (WAVLINK Thunderbolt) wie lange ist das Kabel (wahrscheinlich 0,5 m)? + silkland thunderbolt kabel
 	- [ ] oder das von ugreen das kein Netzteil hat ⟹ ne das kann unter macos dann keine 2 bildschirme
