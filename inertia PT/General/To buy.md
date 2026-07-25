@@ -32,6 +32,10 @@
 - [ ] destilliertes Wasser 
 - [x] Tomaten 
 - [ ] Laufschuhe 
+	- [ ] Brooks Adrenaline GTS 24 ~ 90€
+	- [ ] Brooks Addiction GTS 15 ~ 76,81€
+	- [ ] Brooks Adrenaline GTS 25 ~ 96 €
+	- [ ] Salomon?
 - [ ] Wanderschuhe 
 - [ ] Fahrradhelm 
 - [x] destilliertes Wasser

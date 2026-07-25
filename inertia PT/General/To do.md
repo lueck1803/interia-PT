@@ -123,7 +123,7 @@
 # unsortiert
 - [ ] Balkonpflanzen gießen 
 - [x] Duolingo 
-- [ ] Ackerbohnen stecken 
+- [ ] Ackerbohnen stecken (<font color="#c00000">muss wohl erst nochmal welche kaufen</font>)
 	- [ ] beim majoran
 	- [ ] zwischen die minze
 	- [ ] in den Kompost topf
