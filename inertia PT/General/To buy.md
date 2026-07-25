@@ -63,6 +63,8 @@
 - [x] ventilator 
 - türke
 	- [ ] weiße bohnen 
+	- [ ] 2 x Ackerbohnen
+	- [ ] schwarze Oliven
 	- [ ] kalamata oliven 
 	- [ ] grüne erbsen
 - [x] Unterhosen 
