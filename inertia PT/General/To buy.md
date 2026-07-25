@@ -114,10 +114,12 @@
 	- eine für Fotos 
 - [ ] neuen großen Bildschirm...
 - [ ] am besten nen neuen Rechner...
-- [ ] Grafikkarte 
-- [ ] CPU 
+- [ ] Grafikkarte - NVIDIA RTX 5060 Ti Ventus 2xOC 16Gb ~ 429€
+	- [ ] 568,88
+- [ ] CPU - AM Ryzen 9 5950 x ~ 235€
+- [ ] 2x32gb Arbeitsspeicher - Corsair Vengeance LPX 64GB Kit DDR4 3200 CL1G ~ 125€ 😂🤣
+	- [ ] Das ist vorbei, der Preis liegt jetzt bei 600€ 🤣
 - [ ] thunderbolt extension card
-- [ ] 2x32gb Arbeitsspeicher 
 - [x] Logitech Z207
 - [x] Canon Pixma TS9550a + auffülbare Patronen 
 - [x] Drucker https://www.voelkner.de/checkout/step2.html
