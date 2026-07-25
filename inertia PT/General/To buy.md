@@ -107,7 +107,7 @@
 - [x] nussmix
 
 # Technik
-- [ ] neuer PC
+- [ ] neuer PC - ne auf keinen Fall - brauche ich nicht
 - [ ] 3d Drucker 
 - [ ] 2m USB-C Kabel
 - [ ] Gute Kamera bzw. besseres Handy

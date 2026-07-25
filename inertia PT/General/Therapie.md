@@ -3277,6 +3277,7 @@ Ich kann das Dilemma sehr nachvollziehen, auch aus eigener Erfahrung in mehrfach
 - <font color="#ffc000">psychische Veranlagung</font> und <font color="#0070c0">Persönlichkeitsstörungen</font>, sowie Persönlichkeitsstrukturen sind <font color="#ff0000">stark heritabel</font> 
 # Einzel Themen/Ereignisse
 
+## 2026-07-25 
 ## 26-06-14 "fahrrad"
 
 ### ich

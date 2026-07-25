@@ -123,6 +123,13 @@
 # unsortiert
 - [ ] Balkonpflanzen gießen 
 - [x] Duolingo 
+- [ ] helle rot töne dem farb muster hinzufügen
+- [ ] therapeutisch aufarbeiten, dass ich letztes Jahr für die PC erweiterungen zusammen 790 bzw 800€ ausgegeben hätte, was in etwa dem Geld entspricht, was ich für den Anwalt raus geschmissen habe. und dieses Jahr kostet der Arbeitsspeicher alleine schon 600 € xD
+- [ ] warum fügt ctrl + v eine ausgeschnittene zeile am PC immer darüber ein ?
+- schuhe kaufen 
+	- [ ] über Laufschuhe informieren
+	- [ ] Laufschuhe 
+	- [ ] Wanderschuhe 
 - [ ] Ackerbohnen stecken (<font color="#c00000">muss wohl erst nochmal welche kaufen</font>)
 	- [ ] beim majoran
 	- [ ] zwischen die minze
@@ -150,9 +157,6 @@
 - [ ] Fahrradhelm 
 	- [ ] Band einstellen 
 	- [ ] Filz oder Ähnliches auf Klett machen
-- schuhe kaufen 
-	- [ ] Laufschuhe 
-	- [ ] Wanderschuhe 
 - [ ] neuen Fahrradhelm kaufen 
 - [ ] Gewicht in kabelfach der schwarzen gitarre tun
 - [ ] linken Gartenhandschuh flicken
