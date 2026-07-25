@@ -68,9 +68,10 @@
 - türke
 	- [x] weiße bohnen 
 	- [x] 2 x Ackerbohnen
-	- [ ] schwarze Oliven
-	- [ ] kalamata oliven 
+	- [x] schwarze Oliven
+	- [x] kalamata oliven 
 	- [x] grüne erbsen
+	- [ ] Paprika Mark 
 - [x] Unterhosen 
 - [ ] Displayport - Displayport Kabel
 - [ ] 4er Pack CR2032 3V vom dm
