@@ -123,6 +123,9 @@
 # unsortiert
 - [ ] Balkonpflanzen gießen 
 - [x] Duolingo 
+- [ ] Thunderbolt erweiterungskarte 
+	- [ ] Thunderboltkarte kaufen
+	- [ ] Bildschirmkabel, welches brauche ich? ist am sinnvollsten?
 - [ ] helle rot töne dem farb muster hinzufügen
 	- [ ] bzw überhaupt eine dieser Spalten überarbeiten/hinzufügen, die sind momentan für mich schon extrem nutzlos
 	- [ ] wie mache ich das?
