@@ -122,7 +122,7 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [ ] Balkonpflanzen gießen 
-- [x] Duolingo 
+- [x] Duolingo
 - [ ] Thunderbolt karte + 2 x tb ⇔ dp + docking station (WAVLINK Thunderbolt) wie lange ist das Kabel?
 	- [ ] oder das von ugreen das kein Netzteil hat 
 - [ ] Thunderbolt erweiterungskarte 
