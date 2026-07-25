@@ -125,7 +125,7 @@
 - [x] Duolingo 
 - [ ] helle rot töne dem farb muster hinzufügen
 - [x] therapeutisch aufarbeiten, dass ich letztes Jahr für die PC erweiterungen zusammen 790 bzw 800€ ausgegeben hätte, was in etwa dem Geld entspricht, was ich für den Anwalt raus geschmissen habe. und dieses Jahr kostet der Arbeitsspeicher alleine schon 600 € xD
-- [ ] warum fügt ctrl + v eine ausgeschnittene zeile am PC immer darüber ein ?
+- [x] warum fügt ctrl + v eine ausgeschnittene zeile am PC immer darüber ein ?
 - schuhe kaufen 
 	- [ ] über Laufschuhe informieren
 	- [ ] Laufschuhe 

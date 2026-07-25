@@ -3279,28 +3279,32 @@ Ich kann das Dilemma sehr nachvollziehen, auch aus eigener Erfahrung in mehrfach
 
 ## 2026-07-25 PC-Erweiterungen / Aufrüstung letztes Jahr nicht gemacht
 Ich hätte letztes Jahr für die PC erweiterungen zusammen 790 bzw 800€ ausgegeben, was in etwa dem Geld entspricht, was ich für den Anwalt raus geschmissen habe. und dieses Jahr kostet der Arbeitsspeicher alleine schon 600 € xD
-	- aber das ist ok, denn zu dem Zeitpunkt ging es mir eh sehr schlecht, ich habe noch sehr sehr stark unter der situtation mit arooj gelitten, da war das mit dem vollständigen ausszug noch nicht durch. ich konnte zu dem zeitpunkt keine Entscheidungen treffen und hatte auch erst geld für die Tastatur ausgegeben, ich hätte mich dann wieder fertig gemacht und auch gestresst beim Einbau der Sachen und runter gemacht. ich hätte zu dem Zeitpunkt eh keine CPU einbauen können, ohne etwas kaputt zu machen. das war alles unter einer Druck situation. 
-	- ich muss kaufen, damit
-		- ich diese PC sache verarbeitet habe
-			- das der PC überhaupt da ist und so groß
-			- damit ich das mit der CPU nochmal mache und meine schande damit tilge...
-			- ich nen pc habe mit mehr leistung... also mehr haben ⟹ ich bin besser oder wieder ok/gut
-			- große ungewissheit, dass wenn ich das jetzt tue es mir besser geht, ich besser arbeiten kann und dann auch meine masterarbeit besser hinbekomme, dabei liegt der kern ja in mir
-			- und sich meine damalige überlegung: erst ne APU und dann später aufrüsten erfüllt wurde und ich damit bestätigt würde.
-			- ja wäre so gewesen klar. aber ich konnte es mir zu dem zeitpunkt einfach nicht gönnen/leisten, die Angst vor der Ausgabe war zu groß. etwas zu kaufen, was ich nicht brauche...
-		- um den bildschirm zu verwenden
-			- den ich dann aber eh erstmal für die arbeit gebraucht habe
-		- zu dem zeitpunkt hatte ich gerade erst die neue Arbeit in aussicht und noch überhaupt keine ahung ob ich das überhaupt schaffe und wie es mit dem geld sein wird, daher konnte ich mir das nicht erlauben. ich hab mir auch so viele gedanken darüber gemacht, ob ich das überhaupt brauche und was ich dann damit mache. nicht dass ich dann doch zocke... 
-		- und ich habe mir extrem viele gedanken über den Stromverbrauch gemacht 🤣
-		- unter dem Druck, der energielosigkeit und Angst hätte ich eh keine CPU einbauen und paste drauf machen können
-		- das wäre so viel aufeinmal gewesen weswegen ich mir dann druck und stress gemacht hätte, was dann auch sehr wahrscheinlich gar nicht funktioniert hätte
-		- so gut wie es mir jetzt gerade geht, ging es mir nie, ich konnte gar nicht frei denken
-		- zu dem Zeitpunkt hatte ich den Tisch auch noch nicht so weit unten, wie jetzt, ja die Sitzposition hatte ich schon so verändert und auch die neue Tastatur...
-		- Ich denke schon, das wäre alles gut gewesen das gemacht zuhaben, aber es ist so gekommen wie es gekommen ist
-		- ich hätte mir wahrscheinlich trotzdem vorwürfe wegen dem Geldausgeben gemacht... ging mit der nähmaschine dann ja auch so
-		      - und die hab ich bisher noch gar nicht richtig benutzt
-		- ich hab mein neues und aktuelles Medikament noch nicht gehabt.
-		- ich war noch lange nicht so weit, dass ich selbst genug war
+- aber das ist ok, denn zu dem Zeitpunkt ging es mir eh sehr schlecht, ich habe noch sehr sehr stark unter der situtation mit arooj gelitten, da war das mit dem vollständigen ausszug noch nicht durch. ich konnte zu dem zeitpunkt keine Entscheidungen treffen und hatte auch erst geld für die Tastatur ausgegeben, ich hätte mich dann wieder fertig gemacht und auch gestresst beim Einbau der Sachen und runter gemacht. ich hätte zu dem Zeitpunkt eh keine CPU einbauen können, ohne etwas kaputt zu machen. das war alles unter einer Druck situation. 
+- ich muss kaufen, damit
+	- ich diese PC sache verarbeitet habe
+		- das der PC überhaupt da ist und so groß
+		- damit ich das mit der CPU nochmal mache und meine schande damit tilge...
+		- ich nen pc habe mit mehr leistung... also mehr haben ⟹ ich bin besser oder wieder ok/gut
+		- große ungewissheit, dass wenn ich das jetzt tue es mir besser geht, ich besser arbeiten kann und dann auch meine masterarbeit besser hinbekomme, dabei liegt der kern ja in mir
+		- und sich meine damalige überlegung: erst ne APU und dann später aufrüsten erfüllt wurde und ich damit bestätigt würde.
+		- ja wäre so gewesen klar. aber ich konnte es mir zu dem zeitpunkt einfach nicht gönnen/leisten, die Angst vor der Ausgabe war zu groß. etwas zu kaufen, was ich nicht brauche...
+	- um den bildschirm zu verwenden
+		- den ich dann aber eh erstmal für die arbeit gebraucht habe
+	- zu dem zeitpunkt hatte ich gerade erst die neue Arbeit in aussicht und noch überhaupt keine ahung ob ich das überhaupt schaffe und wie es mit dem geld sein wird, daher konnte ich mir das nicht erlauben. ich hab mir auch so viele gedanken darüber gemacht, ob ich das überhaupt brauche und was ich dann damit mache. nicht dass ich dann doch zocke... 
+	- und ich habe mir extrem viele gedanken über den Stromverbrauch gemacht 🤣
+	- unter dem Druck, der energielosigkeit und Angst hätte ich eh keine CPU einbauen und paste drauf machen können
+	- das wäre so viel aufeinmal gewesen weswegen ich mir dann druck und stress gemacht hätte, was dann auch sehr wahrscheinlich gar nicht funktioniert hätte
+	- so gut wie es mir jetzt gerade geht, ging es mir nie, ich konnte gar nicht frei denken
+	- zu dem Zeitpunkt hatte ich den Tisch auch noch nicht so weit unten, wie jetzt, ja die Sitzposition hatte ich schon so verändert und auch die neue Tastatur...
+	- Ich denke schon, das wäre alles gut gewesen das gemacht zuhaben, aber es ist so gekommen wie es gekommen ist
+	- ich hätte mir wahrscheinlich trotzdem vorwürfe wegen dem Geldausgeben gemacht... ging mit der nähmaschine dann ja auch so
+		 - und die hab ich bisher noch gar nicht richtig benutzt
+	- ich hab mein neues und aktuelles Medikament noch nicht gehabt.
+	- ich war noch lange nicht so weit, dass ich selbst genug war
+- ich weiß auch immer noch nicht, wie ich richtig am PC / Tisch sitzen muss xD
+	- wie soll ich dass dann mit 3 Bildschirmen machen xD
+- zu dem Zeitpunkt war auch mein Wahnsinnsüberlegung alle 4 Bildschirme zu benutzen, ich muss dann ja den anderen Bildschirm auch noch nutzen und oben drüber anbringen 🤣
+- ich war so am überlegen, ob ich die Thunderboltkarte oder das andere set up kaufen sollte, ich war da so paralyziert. ich hatte ja schon zu viel angst geld für die Thunderboldk
 ## 26-06-14 "fahrrad"
 
 ### ich
