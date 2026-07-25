@@ -125,7 +125,7 @@
 - [x] Duolingo
 - [ ] cityrad bremse
 - [ ] Thunderbolt karte + 2 x tb ⇔ dp + docking station (WAVLINK Thunderbolt) wie lange ist das Kabel?
-	- [ ] oder das von ugreen das kein Netzteil hat 
+	- [ ] oder das von ugreen das kein Netzteil hat ⟹ ne das kann unter macos dann keine 2 bildschirme
 - [ ] Thunderbolt erweiterungskarte 
 	- [ ] Thunderboltkarte kaufen
 	- [ ] Bildschirmkabel, welches brauche ich? ist am sinnvollsten?
