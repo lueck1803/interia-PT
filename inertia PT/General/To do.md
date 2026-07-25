@@ -131,7 +131,9 @@
 			- [ ] das der PC überhaupt da ist und so groß
 			- [ ] damit ich das mit der CPU nochmal mache und meine schande damit tilge...
 			- [ ] ich nen pc habe mit mehr leistung... also mehr haben ⟹ ich bin besser oder wieder ok/gut
-			- [ ] 
+			- [ ] große ungewissheit, dass wenn ich das jetzt tue es mir besser geht, ich besser arbeiten kann und dann auch meine masterarbeit besser hinbekomme, dabei liegt der kern ja in mir
+			- [ ] und sich meine damalige überlegung: erst ne APU und dann später aufrüsten erfüllt wurde und ich damit bestätigt würde.
+			- [ ] ja wäre so gewesen klar. aber ich konnte es mir zu dem zeitpunkt einfach nicht gönnen/leisten, die Angst vor der Ausgabe war zu groß. etwas zu kaufen, wa
 		- [ ] um den bildschirm zu verwenden
 			- [ ] den ich dann aber eh erstmal für die arbeit gebraucht habe
 		- [ ] zu dem zeitpunkt hatte ich gerade erst die neue Arbeit in aussicht und noch überhaupt keine ahung ob ich das überhaupt schaffe und wie es mit dem geld sein wird, daher konnte ich mir das nicht erlauben. ich hab mir auch so viele gedanken darüber gemacht, ob ich das überhaupt brauche und was ich dann damit mache. nicht dass ich dann doch zocke... 
@@ -141,7 +143,10 @@
 		- [ ] so gut wie es mir jetzt gerade geht, ging es mir nie, ich konnte gar nicht frei denken
 		- [ ] zu dem Zeitpunkt hatte ich den Tisch auch noch nicht so weit unten, wie jetzt, ja die Sitzposition hatte ich schon so verändert und auch die neue Tastatur...
 		- [ ] Ich denke schon, das wäre alles gut gewesen das gemacht zuhaben, aber es ist so gekommen wie es gekommen ist
-		- [ ] ich hätte mir wahr
+		- [ ] ich hätte mir wahrscheinlich trotzdem vorwürfe wegen dem Geldausgeben gemacht... ging mit der nähmaschine dann ja auch so
+		      und die hab ich bisher noch gar nicht richtig benutzt
+		- [ ] ich hab mein neues und aktuelles Medikament noch nicht gehabt.
+		- [ ] ich war noch lange nicht so weit, dass ich selbst genug war
 - [ ] warum fügt ctrl + v eine ausgeschnittene zeile am PC immer darüber ein ?
 - schuhe kaufen 
 	- [ ] über Laufschuhe informieren
