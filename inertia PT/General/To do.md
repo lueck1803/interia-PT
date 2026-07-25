@@ -123,10 +123,12 @@
 # unsortiert
 - [ ] Balkonpflanzen gießen 
 - [x] Duolingo 
+- [ ] Thunderbolt karte + 2 x tb ⇔ dp + docking station 
 - [ ] Thunderbolt erweiterungskarte 
 	- [ ] Thunderboltkarte kaufen
 	- [ ] Bildschirmkabel, welches brauche ich? ist am sinnvollsten?
 	- [ ] oder ist es sinnvoller ein Thunderbolt -> Dockingstation zu kaufen
+	- <font color="#7cfc00">hab mich jetzt damit <font color="#ff0000">intensiv</font> beschäftigt!!!!</font>
 - [ ] helle rot töne dem farb muster hinzufügen
 	- [ ] bzw überhaupt eine dieser Spalten überarbeiten/hinzufügen, die sind momentan für mich schon extrem nutzlos
 	- [ ] wie mache ich das?
