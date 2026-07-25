@@ -117,7 +117,7 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [ ] Balkonpflanzen gießen 
-- [ ] Duolingo 
+- [x] Duolingo 
 - [ ] Ackerbohnen stecken 
 	- [ ] beim majoran
 	- [ ] zwischen die minze
