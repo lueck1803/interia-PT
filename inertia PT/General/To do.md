@@ -123,6 +123,7 @@
 # unsortiert
 - [ ] Balkonpflanzen gießen 
 - [x] Duolingo
+- [ ] cityrad bremse
 - [ ] Thunderbolt karte + 2 x tb ⇔ dp + docking station (WAVLINK Thunderbolt) wie lange ist das Kabel?
 	- [ ] oder das von ugreen das kein Netzteil hat 
 - [ ] Thunderbolt erweiterungskarte 
