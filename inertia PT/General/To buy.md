@@ -71,7 +71,8 @@
 	- [x] schwarze Oliven
 	- [x] kalamata oliven 
 	- [x] grüne erbsen
-	- [ ] Paprika Mark 
+	- [x] Paprika Mark süß 
+	- [x] Paprika Mark scharf
 - [x] Unterhosen 
 - [ ] Displayport - Displayport Kabel
 - [ ] 4er Pack CR2032 3V vom dm
