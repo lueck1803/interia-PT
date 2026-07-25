@@ -3304,7 +3304,16 @@ Ich hätte letztes Jahr für die PC erweiterungen zusammen 790 bzw 800€ ausgeg
 - ich weiß auch immer noch nicht, wie ich richtig am PC / Tisch sitzen muss xD
 	- wie soll ich dass dann mit 3 Bildschirmen machen xD
 - zu dem Zeitpunkt war auch mein Wahnsinnsüberlegung alle 4 Bildschirme zu benutzen, ich muss dann ja den anderen Bildschirm auch noch nutzen und oben drüber anbringen 🤣
-- ich war so am überlegen, ob ich die Thunderboltkarte oder das andere set up kaufen sollte, ich war da so paralyziert. ich hatte ja schon zu viel angst geld für die Thunderboldk
+- ich war so am überlegen, ob ich die Thunderboltkarte oder das andere set up kaufen sollte, ich war da so paralyziert. 
+	- ich hatte ja schon zu viel angst geld für die Thunderbolt Karte auszugeben 
+	- wenn ich **jetzt** als ersten Schritt die Thunderbolt kaufe, dann verschwende ich ja Geld, wenn ich dann ja doch die Graka kaufe 🤣
+	- oh und ich hätte ja nochmal geld für HDMI/DP Kabel ausgeben müssen und das wäre ja Verschwendung gewesen, wenn ich dann eh die Graka kaufe xD
+	- ⤷ dabei wäre das vollkommen richtig gewesen
+		- so hätte ich das setup und die positionierung der Bildschirme testen können
+		- hätte nicht so viel Geld ausgegeben
+		- erstmal einen Schritt gemacht und nicht so viele aufeinmal
+		- hätte daran wachsen können und schonmal ein besseres arbeitssetup gehabt. es wäre jedenfalls keine Verschwendung gewesen. lediglich 80-90€ für die Thunderbolt karte und die wären gut investiert gewesen
+		- ein paar zusätzliche kabel die ich dann auch in mei
 ## 26-06-14 "fahrrad"
 
 ### ich
