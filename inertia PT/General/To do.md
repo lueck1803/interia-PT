@@ -122,6 +122,10 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 
+- [ ] Flaschen spülen 
+- [ ] schwamm für spülbürste zuschneiden
+	- [ ] ⤷anbringen
+- [ ] Email von letzter Woche an Arooj schreiben 
 - [x] Tastatur wischen 
 - [x] Zähneputzen
 - [x] duschen
