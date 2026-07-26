@@ -126,6 +126,7 @@
 - [ ] Zähneputzen
 - [ ] duschen 
 - [ ] Spülmaschine 
+- [ ] Sofa Decken ausschütteln
 - [ ] staubsaugen 
 - [ ] Papierkram 
 - [ ] Masterarbeit 
