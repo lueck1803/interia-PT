@@ -247,6 +247,7 @@
 	- [ ] was zu PE schreiben
 		- [ ] leichte erhöhung -> stable und connected
 		- [ ] erwähung des phase diagrams
+		- weird... ich sehe bei PE35 zwischen M .040 und 0.065 keinen signifikanten Unterschied. wenn man die PE wohl so weit erhöht, dann macht die Masse kaum noch etwas aus
 	- [ ] letzte simulationen anschauen
 		- [ ] wie sieht das Verhalten bei höherer PE bei höherer Masse aus? 
 		- [ ] sind die interfaces stable im kritischen bereich?
@@ -262,6 +263,7 @@
 					- M 0.050 <font color="#48d1cc">CPU 02</font> <font color="#92d050">fertig</font>
 					- M 0.060 <font color="#ff0000">cluster</font> <font color="#92d050">fertig</font>
 					- M 0.065 <font color="#48d1cc">CPU 02</font> <font color="#92d050">fertig</font>
+						- weird... ich sehe zwischen M .040 und 0.065 keinen signifikanten Unterschied. wenn man die PE wohl so weit erhöht, dann macht die Masse kaum noch etwas aus
 					- M 0.070 <font color="#ff0000">cluster</font> <font color="#92d050">fertig</font>
 				- PE 40
 					- M 0.040 <font color="#92d050">fertig</font>
