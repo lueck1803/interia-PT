@@ -320,10 +320,9 @@
 					- M 0.060 <font color="#ff0000">cluster</font> <font color="#92d050">fertig</font>
 					- M 0.065 <font color="#ff0000">cluster</font> <font color="#92d050">fertig</font>
 					- M 0.070 <font color="#ff0000">cluster</font> <font color="#92d050">fertig</font>
-	- [ ] welche snapshots hatte ich denn zuletzt gemacht?
-	- [ ] snapshots von diesen abspeichern 
+	- [x] snapshots von diesen abspeichern 
 		- [ ] ⤷ zu Pe is the main factor hinzufügen und beschreiben 
-		- [ ] 1:5, 1:3 und 1:10 mit höherer PE
+		- [x] 1:5, 1:3 und 1:10 mit höherer PE
 	- [ ] den teil zur elongated box fertig schreiben
 		- [ ] begünstigt aufsplittung
 		- [ ] kleinere finite size größe bei gleichzeitig viel größerem simulationsaufwand
