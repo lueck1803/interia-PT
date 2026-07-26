@@ -123,9 +123,8 @@
 # unsortiert
 
 - [ ] Flaschen spülen 
-- [ ] commit and sync hotkeys am laptop einrichten
-- [ ] ~={ForestGreen}test=~
-- [ ] <font color="#b088ff">test</font>
+- [x] commit and sync hotkeys am laptop einrichten
+	- commit+sync und beenden funktioniert am mac nicht so richtig, da sozusagen "beenden" nur das Fenster schließt also den roten Punkt drückt
 - [ ] in die uni fahren und PC checken...
 - [x] schwamm für spülbürste zuschneiden
 	- [x] ⤷anbringen
