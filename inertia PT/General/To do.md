@@ -123,15 +123,20 @@
 # unsortiert
 
 - [ ] Tastatur wischen 
-- [ ] Zähneputzen
-- [ ] duschen 
+- [x] Zähneputzen
+- [x] duschen
+- [ ] kalendereintrag schulgarten gießen
 - [ ] tbkarte + 2x tb->dp kabel bestellen
 	- [ ] 1,5m oder 2m?
 - [ ] laufschuhe bestellen
 - [ ] ticket für my sleeping karma bestellen
 	- [ ] ⤷ arthur bescheid geben
 - [ ] Spülmaschine 
-- [ ] Sofa Decken ausschütteln
+- [ ] Sofa 
+	- [ ] Decken ausschütteln
+	- [ ] ⤷ in die wäsche
+	- [ ] sofa saugen
+	- [ ] neue drauf
 - [ ] staubsaugen 
 - [ ] Papierkram 
 - [ ] Lagerinventur exceltabellen 
