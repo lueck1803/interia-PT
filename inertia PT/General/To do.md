@@ -124,15 +124,6 @@
 - [ ] Balkonpflanzen gießen 
 - [ ] Duolingo
 - [x] Spülmaschine ausräumen 
-- kurz Pause
-	- [x] Duolingo
-	- [x] draußen sitzen
-	- [x] Kaffee fertig trinken
-	- [x] Löcher in Olivendosen bohren
-	- [x] zwei Maronen umsetzen 
-	- [ ] bisschen französisch aufschreiben 
-	- [x] Krafttraining 
-- [x] dann PE40 von 1:10 anschauen und snapshots machen
 - [x] Email von letzter Woche an Arooj schreiben 
 	- Ne Antwort werde ich eh nicht bekommen.
 		Ich lasse mir noch ein paar Tage.
