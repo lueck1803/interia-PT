@@ -14,7 +14,7 @@
 	- [ ] Parmesan 
 - [ ] Kartoffeln 
 - [ ] Rindenmulch 
-- [ ] sand
+- [ ] Sand 
 - [x] gelbe Zwiebeln 
 - [x] Steckerleiste (Aldi) 
 - [x] Dosentomaten 
