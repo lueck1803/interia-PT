@@ -121,7 +121,9 @@
 - frische Luft
 - mich und mein Leben im Griff haben
 # unsortiert
-- [ ] sprühdüse vom wd40 aus Turnbeutel holen
+- [ ] Balkonpflanzen gießen 
+- [ ] Duolingo
+- [x] Spülmaschine ausräumen 
 - kurz Pause
 	- [x] Duolingo
 	- [x] draußen sitzen
@@ -131,22 +133,6 @@
 	- [ ] bisschen französisch aufschreiben 
 	- [x] Krafttraining 
 - [x] dann PE40 von 1:10 anschauen und snapshots machen
-- [ ] noch nen Maulbeersteckling machen 
-- [x] noch nen Haselnuss Steckling machen 
-- [x] Flaschen spülen 
-- [x] pflanze vom shaver aufpeppln 
-	- [x] Erde rein
-	- [x] gießen
-- [x] commit and sync hotkeys am laptop einrichten
-	- commit+sync und beenden funktioniert am mac nicht so richtig, da sozusagen "beenden" nur das Fenster schließt also den roten Punkt drückt
-	- [x] hotkey für pull am pc einrichten
-	- [x] am pc in der uni einrichten
-- [x] in die uni fahren und PC checken...
-	- [x] ok, muss ich wohl jetzt direkt machen, da auch am laptop keine richtige verbindung hergestellt wird
-	- der läuft halt noch...
-	- ok, jetzt geht auch remote wieder.
-- [x] schwamm für spülbürste zuschneiden
-	- [x] ⤷anbringen
 - [x] Email von letzter Woche an Arooj schreiben 
 	- Ne Antwort werde ich eh nicht bekommen.
 		Ich lasse mir noch ein paar Tage.
@@ -159,14 +145,10 @@
 - [x] Tastatur wischen 
 - [x] Zähneputzen
 - [x] duschen
-- [x] kalendereintrag schulgarten gießen
-- [x] tbkarte + 2x tb->dp kabel bestellen
-	- [x] 1,5m oder 2m?
-- [x] hab ich noch ein zweites hdmi kabel?
+
 - [ ] laufschuhe bestellen
 - [ ] ticket für my sleeping karma bestellen
 	- [ ] ⤷ arthur bescheid geben
-- [x] Spülmaschine 
 - [ ] Sofa 
 	- [ ] Decken ausschütteln
 	- [ ] ⤷ in die wäsche
@@ -182,8 +164,7 @@
 - [ ] yoga
 
 
-- [x] Balkonpflanzen gießen 
-- [x] Duolingo
+
 - [ ] schneller schwimmen lernen 
 - [ ] probieren mit knöchel zu tappen, wie das jassy im video gemacht hat
 - [ ] cityrad bremse
@@ -193,22 +174,17 @@
 	- [ ] bzw überhaupt eine dieser Spalten überarbeiten/hinzufügen, die sind momentan für mich schon extrem nutzlos
 	- [ ] wie mache ich das?
 
-- [x] warum fügt ctrl + v eine ausgeschnittene zeile am PC immer darüber ein ?
 - schuhe kaufen 
 	- [ ] über Laufschuhe informieren
 	- [ ] Laufschuhe 
 	- [ ] Wanderschuhe 
 
-- [x] teiche auffüllen 
 - [ ] Bauhaus 
 	- [ ] destilliertes Wasser 
 	- [ ] salatsamen 
 	- [ ] Rindenmulch 
 	- [ ] Sand 
-- [x] Olivendosen anbohren 
-- [x] Maronen in Olivendosen setzen 
 - [ ] Staubsaugen
-- [x] Spülmaschine ausräumen 
 - [x] Nasenhaare schneiden 
 - [ ] toast essen 
 - Papierkram 
@@ -998,6 +974,20 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] <span style="color:coral">paartherapie S3 runterladen</span>
 
 # Alt
+- [x] in die uni fahren und PC checken...
+	- [x] ok, muss ich wohl jetzt direkt machen, da auch am laptop keine richtige verbindung hergestellt wird
+	- der läuft halt noch...
+	- ok, jetzt geht auch remote wieder.
+- [x] schwamm für spülbürste zuschneiden
+	- [x] ⤷anbringen
+- [x] noch nen Maulbeersteckling machen 
+- [x] noch nen Haselnuss Steckling machen 
+- [x] pflanze vom shaver aufpeppln 
+	- [x] Erde rein
+	- [x] gießen
+- [x] kalendereintrag schulgarten gießen
+- [x] tbkarte + 2x tb->dp kabel bestellen
+	- [x] 1,5m oder 2m?
 - [x] therapeutisch aufarbeiten, dass ich letztes Jahr für die PC erweiterungen zusammen 790 bzw 800€ ausgegeben hätte, was in etwa dem Geld entspricht, was ich für den Anwalt raus geschmissen habe. und dieses Jahr kostet der Arbeitsspeicher alleine schon 600 € xD
 - Thunderbolt erweiterungskarte 
 	- [x] Thunderboltkarte kaufen
