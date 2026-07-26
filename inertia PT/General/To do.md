@@ -129,7 +129,7 @@
 	- [x] zwei Maronen umsetzen 
 	- [ ] bisschen französisch aufschreiben 
 	- [x] Krafttraining 
-- [ ] dann PE40 von 1:10 anschauen und snapshots machen
+- [x] dann PE40 von 1:10 anschauen und snapshots machen
 - [ ] noch nen Maulbeersteckling machen 
 - [x] Flaschen spülen 
 - [x] pflanze vom shaver aufpeppln 
@@ -186,33 +186,17 @@
 - [ ] probieren mit knöchel zu tappen, wie das jassy im video gemacht hat
 - [ ] cityrad bremse
 
-- Thunderbolt erweiterungskarte 
-	- [x] Thunderboltkarte kaufen
-	- [x] Bildschirmkabel, welches brauche ich? ist am sinnvollsten?
-	- [x] oder ist es sinnvoller ein Thunderbolt -> Dockingstation zu kaufen ~={RedRed}nein=~
-	- [x] Thunderbolt karte + 2 x tb ⇔ dp + docking station (WAVLINK Thunderbolt) wie lange ist das Kabel (wahrscheinlich 0,5 m)? + silkland thunderbolt kabel
-	- [x] oder das von ugreen das kein Netzteil hat ⟹ ne das kann unter macos dann keine 2 bildschirme
-	- <font color="#7cfc00">hab mich jetzt damit <font color="#ff0000">intensiv</font> beschäftigt!!!!</font>
-	- [x] <font color="#c815ff">eigentlich erstmal nur die tbkarte und 2 x tb->dp kabel bestellen</font> ✅
+
 - [ ] helle rot töne dem farb muster hinzufügen
 	- [ ] bzw überhaupt eine dieser Spalten überarbeiten/hinzufügen, die sind momentan für mich schon extrem nutzlos
 	- [ ] wie mache ich das?
-- [x] therapeutisch aufarbeiten, dass ich letztes Jahr für die PC erweiterungen zusammen 790 bzw 800€ ausgegeben hätte, was in etwa dem Geld entspricht, was ich für den Anwalt raus geschmissen habe. und dieses Jahr kostet der Arbeitsspeicher alleine schon 600 € xD
+
 - [x] warum fügt ctrl + v eine ausgeschnittene zeile am PC immer darüber ein ?
 - schuhe kaufen 
 	- [ ] über Laufschuhe informieren
 	- [ ] Laufschuhe 
 	- [ ] Wanderschuhe 
-- [x] Ackerbohnen stecken (<font color="#c00000">muss wohl erst nochmal welche kaufen</font>)
-	- [x] beim majoran
-	- [x] zwischen die minze
-	- [x] in den Kompost topf
-		- [x] Lücken mit Erde auffüllen 
-	- [x] neben den Liebstöckl 
-	- [x] neben okra
-	- [x] um die Tomatenpflanze
-	- [x] neben Lavendel und Salbei 
-	- [x] bei Erdbeeren 
+
 - [x] teiche auffüllen 
 - [ ] Bauhaus 
 	- [ ] destilliertes Wasser 
@@ -259,8 +243,8 @@
 		- weird... ich sehe bei PE35 und br10 zwischen M .040 und 0.065 ~={RedRed}keinen signifikanten Unterschied=~. wenn man die PE wohl so weit erhöht, dann macht die Masse kaum noch etwas aus
 		- ~={LawnGreen}doch!=~ hier sieht man genau das was ich sehen will!!!! mit M nimmt der density spread in der dilute phase zu
 		- [x] muss mir definitiv mal PE40 von 1:10 anschauen 
-			- [ ] sieht sehr gut aus ✅ mit PE40 wird es mehr ein cluster im vergleich zu PE 35 ⟹ fraktionierung ist fast weg 
-			- [ ] ⤷ probiere mal PE 45 aus
+			- sieht sehr gut aus ✅ mit PE40 wird es mehr ein cluster im vergleich zu PE 35 ⟹ fraktionierung ist fast weg 
+			- [x] ⤷ probiere mal PE 45 aus
 	- [ ] letzte simulationen anschauen
 		- [ ] wie sieht das Verhalten bei höherer PE bei höherer Masse aus? 
 		- [ ] sind die interfaces stable im kritischen bereich?
@@ -288,7 +272,7 @@
 					- M 0.040 <font color="#48d1cc">CPU 02</font> <font color="#92d050">fertig</font> <font color="#c815ff">snapshots</font>
 					- M 0.050 <font color="#48d1cc">CPU 02</font> <font color="#92d050">fertig</font> <font color="#c815ff">snapshots</font>
 					- M 0.060 <font color="#48d1cc">CPU 02</font> <font color="#92d050">fertig</font> <font color="#c815ff">snapshots</font>
-					- M 0.065 <font color="#48d1cc">CPU 02</font> <font color="#92d050">fertig</font>
+					- M 0.065 <font color="#48d1cc">CPU 02</font> <font color="#92d050">fertig</font> <font color="#c815ff">snapshots</font>
 					- M 0.070 <font color="#48d1cc">CPU 02</font> <font color="#92d050">fertig</font> <font color="#c815ff">snapshots</font>				
 					- [x] M 0.080 <font color="#ff0000">cluster</font> 
 					- [x] M 0.090 <font color="#ff0000">cluster</font> 
@@ -1013,6 +997,25 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] <span style="color:coral">paartherapie S3 runterladen</span>
 
 # Alt
+- [x] therapeutisch aufarbeiten, dass ich letztes Jahr für die PC erweiterungen zusammen 790 bzw 800€ ausgegeben hätte, was in etwa dem Geld entspricht, was ich für den Anwalt raus geschmissen habe. und dieses Jahr kostet der Arbeitsspeicher alleine schon 600 € xD
+- Thunderbolt erweiterungskarte 
+	- [x] Thunderboltkarte kaufen
+	- [x] Bildschirmkabel, welches brauche ich? ist am sinnvollsten?
+	- [x] oder ist es sinnvoller ein Thunderbolt -> Dockingstation zu kaufen ~={RedRed}nein=~
+	- [x] Thunderbolt karte + 2 x tb ⇔ dp + docking station (WAVLINK Thunderbolt) wie lange ist das Kabel (wahrscheinlich 0,5 m)? + silkland thunderbolt kabel
+	- [x] oder das von ugreen das kein Netzteil hat ⟹ ne das kann unter macos dann keine 2 bildschirme
+	- <font color="#7cfc00">hab mich jetzt damit <font color="#ff0000">intensiv</font> beschäftigt!!!!</font>
+	- [x] <font color="#c815ff">eigentlich erstmal nur die tbkarte und 2 x tb->dp kabel bestellen</font> ✅
+- [x] Ackerbohnen stecken (<font color="#c00000">muss wohl erst nochmal welche kaufen</font>)
+	- [x] beim majoran
+	- [x] zwischen die minze
+	- [x] in den Kompost topf
+		- [x] Lücken mit Erde auffüllen 
+	- [x] neben den Liebstöckl 
+	- [x] neben okra
+	- [x] um die Tomatenpflanze
+	- [x] neben Lavendel und Salbei 
+	- [x] bei Erdbeeren 
 - [x] Freddies Socken an der Spitze vernähen 
 - [x] rote Beete zubereiten 
 	- [x] hab sie roh gegessen 
