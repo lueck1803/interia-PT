@@ -127,6 +127,9 @@
 - [ ] duschen 
 - [ ] tbkarte + 2x tb->dp kabel bestellen
 	- [ ] 1,5m oder 2m?
+- [ ] laufschuhe bestellen
+- [ ] ticket für my sleeping karma bestellen
+	- [ ] ⤷ arthur bescheid geben
 - [ ] Spülmaschine 
 - [ ] Sofa Decken ausschütteln
 - [ ] staubsaugen 
@@ -135,8 +138,8 @@
 	- [ ] mergen
 	- [ ] am handy die alten aus den Favoriten nehmen
 - [ ] Masterarbeit 
-- [ ] yoga
 - [ ] rad fahren
+- [ ] yoga
 
 
 - [x] Balkonpflanzen gießen 
