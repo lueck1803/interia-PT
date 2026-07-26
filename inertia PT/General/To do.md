@@ -126,6 +126,7 @@
 	- [ ] draußen sitzen
 	- [ ] Kaffee fertig trinken
 	- [ ] Löcher in Olivendosennbohren
+	- [ ] bisschen französisch aufschreiben 
 - [ ] dann PE40 von 1:10 anschauen und snapshots machen
 
 - [x] Flaschen spülen 
