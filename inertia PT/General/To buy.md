@@ -13,6 +13,8 @@
 	- [ ] für Brot 
 	- [ ] Parmesan 
 - [ ] Kartoffeln 
+- [ ] Rindenmulch 
+- [ ] sand
 - [x] gelbe Zwiebeln 
 - [x] Steckerleiste (Aldi) 
 - [x] Dosentomaten 
