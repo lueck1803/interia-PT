@@ -123,6 +123,7 @@
 # unsortiert
 
 - [ ] Flaschen spülen 
+- [ ] commit and sync hotkeys am laptop einrichten
 - [ ] in die uni fahren und PC checken...
 - [x] schwamm für spülbürste zuschneiden
 	- [x] ⤷anbringen
