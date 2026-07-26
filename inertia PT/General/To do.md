@@ -124,7 +124,7 @@
 - kurz Pause
 	- [x] Duolingo
 	- [x] draußen sitzen
-	- [ ] Kaffee fertig trinken
+	- [x] Kaffee fertig trinken
 	- [ ] Löcher in Olivendosen bohren
 	- [ ] bisschen französisch aufschreiben 
 	- [ ] Krafttraining 
