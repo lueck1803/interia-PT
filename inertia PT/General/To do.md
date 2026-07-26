@@ -124,6 +124,7 @@
 
 - [ ] Flaschen spülen 
 - [ ] commit and sync hotkeys am laptop einrichten
+- [ ] ~={ForestGreen}test=~
 - [ ] in die uni fahren und PC checken...
 - [x] schwamm für spülbürste zuschneiden
 	- [x] ⤷anbringen
