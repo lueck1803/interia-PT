@@ -247,7 +247,7 @@
 	- [ ] was zu PE schreiben
 		- [ ] leichte erhöhung -> stable und connected
 		- [ ] erwähung des phase diagrams
-		- weird... ich sehe bei PE35 zwischen M .040 und 0.065 keinen signifikanten Unterschied. wenn man die PE wohl so weit erhöht, dann macht die Masse kaum noch etwas aus
+		- weird... ich sehe bei PE35 und br10 zwischen M .040 und 0.065 ~={RedRed}keinen signifikanten Unterschied=~. wenn man die PE wohl so weit erhöht, dann macht die Masse kaum noch etwas aus
 	- [ ] letzte simulationen anschauen
 		- [ ] wie sieht das Verhalten bei höherer PE bei höherer Masse aus? 
 		- [ ] sind die interfaces stable im kritischen bereich?
