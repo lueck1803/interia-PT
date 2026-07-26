@@ -125,6 +125,7 @@
 	- [ ] Duolingo
 	- [ ] draußen sitzen
 	- [ ] Kaffee fertig trinken
+	- [ ] Löcher in Olivendosennbohren
 - [ ] dann PE40 von 1:10 anschauen und snapshots machen
 
 - [x] Flaschen spülen 
