@@ -189,25 +189,25 @@
 	- [ ] über Laufschuhe informieren
 	- [ ] Laufschuhe 
 	- [ ] Wanderschuhe 
-- [ ] Ackerbohnen stecken (<font color="#c00000">muss wohl erst nochmal welche kaufen</font>)
-	- [ ] beim majoran
-	- [ ] zwischen die minze
-	- [ ] in den Kompost topf
-		- [ ] Lücken mit Erde auffüllen 
-	- [ ] neben den Liebstöckl 
-	- [ ] neben okra
-	- [ ] um die Tomatenpflanze
-	- [ ] neben Lavendel und Salbei 
-	- [ ] bei Erdbeeren 
-- [ ] teiche auffüllen 
+- [x] Ackerbohnen stecken (<font color="#c00000">muss wohl erst nochmal welche kaufen</font>)
+	- [x] beim majoran
+	- [x] zwischen die minze
+	- [x] in den Kompost topf
+		- [x] Lücken mit Erde auffüllen 
+	- [x] neben den Liebstöckl 
+	- [x] neben okra
+	- [x] um die Tomatenpflanze
+	- [x] neben Lavendel und Salbei 
+	- [x] bei Erdbeeren 
+- [x] teiche auffüllen 
 - [ ] Bauhaus 
 	- [ ] destilliertes Wasser 
 	- [ ] salatsamen 
 - [ ] Olivendosen anbohren 
 - [ ] Maronen in Olivendosen setzen 
 - [ ] Staubsaugen
-- [ ] Spülmaschine ausräumen 
-- [ ] Nasenhaare schneiden 
+- [x] Spülmaschine ausräumen 
+- [x] Nasenhaare schneiden 
 - [ ] toast essen 
 - Papierkram 
 	- [ ] kassenbons
