@@ -127,6 +127,7 @@
 	- [ ] Kaffee fertig trinken
 	- [ ] Löcher in Olivendosen bohren
 	- [ ] bisschen französisch aufschreiben 
+	- [ ] Krafttraining 
 - [ ] dann PE40 von 1:10 anschauen und snapshots machen
 
 - [x] Flaschen spülen 
