@@ -126,11 +126,17 @@
 - [ ] Zähneputzen
 - [ ] duschen 
 - [ ] tbkarte + 2x tb->dp kabel bestellen
+	- [ ] 1,5m oder 2m?
 - [ ] Spülmaschine 
 - [ ] Sofa Decken ausschütteln
 - [ ] staubsaugen 
 - [ ] Papierkram 
+- [ ] Lagerinventur exceltabellen 
+	- [ ] mergen
+	- [ ] am handy die alten aus den Favoriten nehmen
 - [ ] Masterarbeit 
+- [ ] yoga
+- [ ] rad fahren
 
 
 - [x] Balkonpflanzen gießen 
