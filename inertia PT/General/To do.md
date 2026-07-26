@@ -128,6 +128,7 @@
 - [x] kalendereintrag schulgarten gießen
 - [ ] tbkarte + 2x tb->dp kabel bestellen
 	- [ ] 1,5m oder 2m?
+- [ ] hab ich noch ein zweites hdmi kabel?
 - [ ] laufschuhe bestellen
 - [ ] ticket für my sleeping karma bestellen
 	- [ ] ⤷ arthur bescheid geben
