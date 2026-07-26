@@ -121,6 +121,7 @@
 - frische Luft
 - mich und mein Leben im Griff haben
 # unsortiert
+- [ ] sprühdüse vom wd40 aus Turnbeutel holen
 - kurz Pause
 	- [x] Duolingo
 	- [x] draußen sitzen
@@ -131,7 +132,7 @@
 	- [x] Krafttraining 
 - [x] dann PE40 von 1:10 anschauen und snapshots machen
 - [ ] noch nen Maulbeersteckling machen 
-- [ ] noch nen Haselnuss Steckling machen 
+- [x] noch nen Haselnuss Steckling machen 
 - [x] Flaschen spülen 
 - [x] pflanze vom shaver aufpeppln 
 	- [x] Erde rein
