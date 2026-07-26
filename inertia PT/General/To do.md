@@ -255,7 +255,7 @@
 		- br 1:10
 			- 14k 
 				- PE 35
-					- M 0.040 <font color="#92d050">fertig</font>
+					- M 0.040 <font color="#48d1cc">CPU 02</font> <font color="#92d050">fertig</font>
 					- M 0.050 <font color="#48d1cc">CPU 02</font> <font color="#92d050">fertig</font>
 					- M 0.060 <font color="#ff0000">cluster</font> <font color="#92d050">fertig</font>
 					- M 0.065 <font color="#48d1cc">CPU 02</font> <font color="#92d050">fertig</font>
