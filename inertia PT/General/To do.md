@@ -121,9 +121,9 @@
 - frische Luft
 - mich und mein Leben im Griff haben
 # unsortiert
-- [ ] kurz Pause
-	- [ ] Duolingo
-	- [ ] draußen sitzen
+- kurz Pause
+	- [x] Duolingo
+	- [x] draußen sitzen
 	- [ ] Kaffee fertig trinken
 	- [ ] Löcher in Olivendosen bohren
 	- [ ] bisschen französisch aufschreiben 
