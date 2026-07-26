@@ -124,6 +124,7 @@
 - [ ] kurz Pause
 	- [ ] Duolingo
 	- [ ] draußen sitzen
+	- [ ] Kaffee fertig trinken
 - [ ] dann PE40 von 1:10 anschauen und snapshots machen
 
 - [x] Flaschen spülen 
