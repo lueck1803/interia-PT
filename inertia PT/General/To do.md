@@ -123,6 +123,7 @@
 # unsortiert
 - [ ] Balkonpflanzen gießen 
 - [x] Duolingo
+- [ ] schneller schwimmen lernen 
 - [ ] probieren mit knöchel zu tappen, wie das jassy im video gemacht hat
 - [ ] cityrad bremse
 - [ ] Thunderbolt karte + 2 x tb ⇔ dp + docking station (WAVLINK Thunderbolt) wie lange ist das Kabel (wahrscheinlich 0,5 m)? + silkland thunderbolt kabel
