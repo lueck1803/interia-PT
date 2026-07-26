@@ -132,7 +132,7 @@
 - [ ] laufschuhe bestellen
 - [ ] ticket für my sleeping karma bestellen
 	- [ ] ⤷ arthur bescheid geben
-- [ ] Spülmaschine 
+- [x] Spülmaschine 
 - [ ] Sofa 
 	- [ ] Decken ausschütteln
 	- [ ] ⤷ in die wäsche
