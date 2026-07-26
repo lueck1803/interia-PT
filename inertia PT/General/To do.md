@@ -123,6 +123,8 @@
 # unsortiert
 
 - [x] Flaschen spülen 
+- [ ] pflanze vom shaver aufpeppln 
+	- [ ] 
 - [x] commit and sync hotkeys am laptop einrichten
 	- commit+sync und beenden funktioniert am mac nicht so richtig, da sozusagen "beenden" nur das Fenster schließt also den roten Punkt drückt
 	- [x] hotkey für pull am pc einrichten
@@ -205,6 +207,8 @@
 - [ ] Bauhaus 
 	- [ ] destilliertes Wasser 
 	- [ ] salatsamen 
+	- [ ] Rindenmulch 
+	- [ ] Sand 
 - [ ] Olivendosen anbohren 
 - [ ] Maronen in Olivendosen setzen 
 - [ ] Staubsaugen
