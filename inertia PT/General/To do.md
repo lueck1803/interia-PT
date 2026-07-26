@@ -122,13 +122,15 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 
-- [ ] Flaschen spülen 
+- [x] Flaschen spülen 
 - [x] commit and sync hotkeys am laptop einrichten
 	- commit+sync und beenden funktioniert am mac nicht so richtig, da sozusagen "beenden" nur das Fenster schließt also den roten Punkt drückt
 	- [x] hotkey für pull am pc einrichten
-	- [ ] am pc in der uni einrichten
-- [ ] in die uni fahren und PC checken...
-	- [ ] ok, muss ich wohl jetzt direkt machen, da auch am laptop keine richtige verbindung hergestellt wird
+	- [x] am pc in der uni einrichten
+- [x] in die uni fahren und PC checken...
+	- [x] ok, muss ich wohl jetzt direkt machen, da auch am laptop keine richtige verbindung hergestellt wird
+	- [ ] der läuft halt noch...
+	- [ ] ok, jetzt geht auch remote wieder.
 - [x] schwamm für spülbürste zuschneiden
 	- [x] ⤷anbringen
 - [x] Email von letzter Woche an Arooj schreiben 
