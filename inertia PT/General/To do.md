@@ -122,10 +122,10 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 
-- [ ] Tastatur wischen 
+- [x] Tastatur wischen 
 - [x] Zähneputzen
 - [x] duschen
-- [ ] kalendereintrag schulgarten gießen
+- [x] kalendereintrag schulgarten gießen
 - [ ] tbkarte + 2x tb->dp kabel bestellen
 	- [ ] 1,5m oder 2m?
 - [ ] laufschuhe bestellen
