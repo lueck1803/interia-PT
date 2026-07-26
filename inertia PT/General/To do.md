@@ -125,6 +125,7 @@
 - [ ] Tastatur wischen 
 - [ ] Zähneputzen
 - [ ] duschen 
+- [ ] tbkarte + 2x tb->dp kabel bestellen
 - [ ] Spülmaschine 
 - [ ] Sofa Decken ausschütteln
 - [ ] staubsaugen 
@@ -137,13 +138,15 @@
 - [ ] schneller schwimmen lernen 
 - [ ] probieren mit knöchel zu tappen, wie das jassy im video gemacht hat
 - [ ] cityrad bremse
-- [ ] Thunderbolt karte + 2 x tb ⇔ dp + docking station (WAVLINK Thunderbolt) wie lange ist das Kabel (wahrscheinlich 0,5 m)? + silkland thunderbolt kabel
-	- [ ] oder das von ugreen das kein Netzteil hat ⟹ ne das kann unter macos dann keine 2 bildschirme
+
 - [ ] Thunderbolt erweiterungskarte 
 	- [ ] Thunderboltkarte kaufen
 	- [ ] Bildschirmkabel, welches brauche ich? ist am sinnvollsten?
 	- [ ] oder ist es sinnvoller ein Thunderbolt -> Dockingstation zu kaufen
+	- [ ] Thunderbolt karte + 2 x tb ⇔ dp + docking station (WAVLINK Thunderbolt) wie lange ist das Kabel (wahrscheinlich 0,5 m)? + silkland thunderbolt kabel
+	- [ ] oder das von ugreen das kein Netzteil hat ⟹ ne das kann unter macos dann keine 2 bildschirme
 	- <font color="#7cfc00">hab mich jetzt damit <font color="#ff0000">intensiv</font> beschäftigt!!!!</font>
+	- [ ] <font color="#c815ff">eigentlich erstmal nur die tbkarte und 2 x tb->dp kabel bestellen</font>
 - [ ] helle rot töne dem farb muster hinzufügen
 	- [ ] bzw überhaupt eine dieser Spalten überarbeiten/hinzufügen, die sind momentan für mich schon extrem nutzlos
 	- [ ] wie mache ich das?
