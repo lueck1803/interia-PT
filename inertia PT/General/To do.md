@@ -123,17 +123,17 @@
 # unsortiert
 
 - [x] Flaschen spülen 
-- [ ] pflanze vom shaver aufpeppln 
-	- [ ] Erde rein
-	- [ ] gießen
+- [x] pflanze vom shaver aufpeppln 
+	- [x] Erde rein
+	- [x] gießen
 - [x] commit and sync hotkeys am laptop einrichten
 	- commit+sync und beenden funktioniert am mac nicht so richtig, da sozusagen "beenden" nur das Fenster schließt also den roten Punkt drückt
 	- [x] hotkey für pull am pc einrichten
 	- [x] am pc in der uni einrichten
 - [x] in die uni fahren und PC checken...
 	- [x] ok, muss ich wohl jetzt direkt machen, da auch am laptop keine richtige verbindung hergestellt wird
-	- [ ] der läuft halt noch...
-	- [ ] ok, jetzt geht auch remote wieder.
+	- der läuft halt noch...
+	- ok, jetzt geht auch remote wieder.
 - [x] schwamm für spülbürste zuschneiden
 	- [x] ⤷anbringen
 - [x] Email von letzter Woche an Arooj schreiben 
@@ -251,22 +251,21 @@
 		- [ ] wie sieht das Verhalten bei höherer PE bei höherer Masse aus? 
 		- [ ] sind die interfaces stable im kritischen bereich?
 	- simulationen gestartet:
+		- create-simulation_mod_p.sh -er -pr "equilibrateMaster_mod_p.in" "productionMaster_mod_p.in" "PE,35" 14000 "m" -3 .05 .05 .01 . 05000 -ts 4 -sc 16 -br 10 -ss
 		- br 1:10
 			- 14k 
 				- PE 35
-				- create-simulation_mod_p.sh -er -pr "equilibrateMaster_mod_p.in" "productionMaster_mod_p.in" "PE,35" 14000 "m" -3 .05 .05 .01 . 05000 -ts 4 -sc 16 -br 10 -ss
-
 					- M 0.040 <font color="#92d050">fertig</font>
-					- [x] M 0.050 <font color="#48d1cc">CPU 02</font> 
-					- [x] M 0.060 <font color="#ff0000">cluster</font> 
+					- M 0.050 <font color="#48d1cc">CPU 02</font> <font color="#92d050">fertig</font>
+					- M 0.060 <font color="#ff0000">cluster</font> <font color="#92d050">fertig</font>
 					- M 0.065 <font color="#48d1cc">CPU 02</font> <font color="#92d050">fertig</font>
-					- [x] M 0.070 <font color="#ff0000">cluster</font> 
+					- M 0.070 <font color="#ff0000">cluster</font> <font color="#92d050">fertig</font>
 				- PE 40
 					- M 0.040 <font color="#92d050">fertig</font>
-					- [x] M 0.050 <font color="#48d1cc">CPU 02</font> 
-					- [x] M 0.060 <font color="#48d1cc">CPU 02</font> 
+					- M 0.050 <font color="#48d1cc">CPU 02</font> <font color="#92d050">fertig</font>
+					- M 0.060 <font color="#48d1cc">CPU 02</font> <font color="#92d050">fertig</font>
 					- M 0.065 <font color="#48d1cc">CPU 02</font> <font color="#92d050">fertig</font>
-					- [x] M 0.070 <font color="#48d1cc">CPU 02</font> 
+					- M 0.070 <font color="#48d1cc">CPU 02</font> <font color="#92d050">fertig</font>
 		- br 1:3
 			- 14k 
 				- PE 35
@@ -284,11 +283,11 @@
 		- br 1:5
 			- 14k 
 				- PE 35
-					- [x] M 0.040 <font color="#ff0000">cluster</font>
-					- [x] M 0.050 <font color="#ff0000">cluster</font>
-					- [x] M 0.060 <font color="#ff0000">cluster</font>
+					- M 0.040 <font color="#ff0000">cluster</font> <font color="#92d050">fertig</font>
+					- M 0.050 <font color="#ff0000">cluster</font> <font color="#92d050">fertig</font>
+					- M 0.060 <font color="#ff0000">cluster</font> <font color="#92d050">fertig</font>
 					- M 0.065 <font color="#48d1cc">CPU 02</font> <font color="#92d050">fertig</font>
-					- [x] M 0.070 <font color="#ff0000">cluster</font>
+					- M 0.070 <font color="#ff0000">cluster</font> <font color="#92d050">fertig</font>
 				- PE 40
 					- M 0.040 <font color="#ff0000">cluster</font> <font color="#92d050">fertig</font>
 					- M 0.050 <font color="#ff0000">cluster</font> <font color="#92d050">fertig</font>
