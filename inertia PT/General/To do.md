@@ -126,7 +126,7 @@
 	- [x] draußen sitzen
 	- [x] Kaffee fertig trinken
 	- [x] Löcher in Olivendosen bohren
-	- [ ] zwei 
+	- [ ] zwei Maronen umsetzen 
 	- [ ] bisschen französisch aufschreiben 
 	- [ ] Krafttraining 
 - [ ] dann PE40 von 1:10 anschauen und snapshots machen
