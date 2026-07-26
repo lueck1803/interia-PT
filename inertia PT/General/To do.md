@@ -125,7 +125,7 @@
 - [ ] Flaschen spülen 
 - [x] commit and sync hotkeys am laptop einrichten
 	- commit+sync und beenden funktioniert am mac nicht so richtig, da sozusagen "beenden" nur das Fenster schließt also den roten Punkt drückt
-	- [ ] hotkey für pull am pc einrichten
+	- [x] hotkey für pull am pc einrichten
 - [ ] in die uni fahren und PC checken...
 	- [ ] ok, muss ich wohl jetzt direkt machen, da auch am laptop keine richtige verbindung hergestellt wird
 - [x] schwamm für spülbürste zuschneiden
