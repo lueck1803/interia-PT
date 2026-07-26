@@ -122,6 +122,9 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 
+- [ ] Flaschen spülen 
+- [ ] schwamm für spülbürste zuschneiden
+	- [ ] ⤷anbringen
 - [x] Tastatur wischen 
 - [x] Zähneputzen
 - [x] duschen
@@ -132,7 +135,7 @@
 - [ ] laufschuhe bestellen
 - [ ] ticket für my sleeping karma bestellen
 	- [ ] ⤷ arthur bescheid geben
-- [ ] Spülmaschine 
+- [x] Spülmaschine 
 - [ ] Sofa 
 	- [ ] Decken ausschütteln
 	- [ ] ⤷ in die wäsche
