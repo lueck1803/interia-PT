@@ -121,6 +121,10 @@
 - frische Luft
 - mich und mein Leben im Griff haben
 # unsortiert
+- [ ] kurz Pause
+	- [ ] Duolingo
+	- [ ] draußen sitzen
+- [ ] dann PE40 von 1:10 anschauen und snapshots machen
 
 - [x] Flaschen spülen 
 - [x] pflanze vom shaver aufpeppln 
