@@ -125,7 +125,15 @@
 - [ ] Flaschen spülen 
 - [ ] schwamm für spülbürste zuschneiden
 	- [ ] ⤷anbringen
-- [ ] Email von letzter Woche an Arooj schreiben 
+- [x] Email von letzter Woche an Arooj schreiben 
+	- Ne Antwort werde ich eh nicht bekommen.
+		Ich lasse mir noch ein paar Tage.
+
+		Im Prinzip weiß ich es ja für mich.🤷‍♂️
+
+		Ist vielleicht besser noch weiter und länger Distanz zu wahren. 
+
+		Ich weiß ja eigentlich dass ich damit dann doch unterbewusst zu viel kämpfe, so dass ich das wichtige aus den Augen verliere
 - [x] Tastatur wischen 
 - [x] Zähneputzen
 - [x] duschen
