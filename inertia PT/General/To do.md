@@ -123,8 +123,9 @@
 # unsortiert
 
 - [ ] Flaschen spülen 
-- [ ] schwamm für spülbürste zuschneiden
-	- [ ] ⤷anbringen
+- [ ] in die uni fahren und PC checken...
+- [x] schwamm für spülbürste zuschneiden
+	- [x] ⤷anbringen
 - [x] Email von letzter Woche an Arooj schreiben 
 	- Ne Antwort werde ich eh nicht bekommen.
 		Ich lasse mir noch ein paar Tage.
@@ -140,7 +141,7 @@
 - [x] kalendereintrag schulgarten gießen
 - [x] tbkarte + 2x tb->dp kabel bestellen
 	- [x] 1,5m oder 2m?
-- [ ] hab ich noch ein zweites hdmi kabel?
+- [x] hab ich noch ein zweites hdmi kabel?
 - [ ] laufschuhe bestellen
 - [ ] ticket für my sleeping karma bestellen
 	- [ ] ⤷ arthur bescheid geben
