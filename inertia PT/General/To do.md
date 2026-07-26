@@ -130,7 +130,7 @@
 	- [ ] bisschen französisch aufschreiben 
 	- [ ] Krafttraining 
 - [ ] dann PE40 von 1:10 anschauen und snapshots machen
-
+- [ ] Maulbeersteckling machen 
 - [x] Flaschen spülen 
 - [x] pflanze vom shaver aufpeppln 
 	- [x] Erde rein
