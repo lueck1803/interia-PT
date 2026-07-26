@@ -126,11 +126,11 @@
 	- [x] draußen sitzen
 	- [x] Kaffee fertig trinken
 	- [x] Löcher in Olivendosen bohren
-	- [ ] zwei Maronen umsetzen 
+	- [x] zwei Maronen umsetzen 
 	- [ ] bisschen französisch aufschreiben 
 	- [ ] Krafttraining 
 - [ ] dann PE40 von 1:10 anschauen und snapshots machen
-- [ ] Maulbeersteckling machen 
+- [ ] noch nen Maulbeersteckling machen 
 - [x] Flaschen spülen 
 - [x] pflanze vom shaver aufpeppln 
 	- [x] Erde rein
