@@ -258,7 +258,9 @@
 		- [ ] erwähung des phase diagrams
 		- weird... ich sehe bei PE35 und br10 zwischen M .040 und 0.065 ~={RedRed}keinen signifikanten Unterschied=~. wenn man die PE wohl so weit erhöht, dann macht die Masse kaum noch etwas aus
 		- ~={LawnGreen}doch!=~ hier sieht man genau das was ich sehen will!!!! mit M nimmt der density spread in der dilute phase zu
-		- muss mir definitiv mal PE40 von 1:10 anschauen
+		- [x] muss mir definitiv mal PE40 von 1:10 anschauen 
+			- [ ] sieht sehr gut aus ✅ mit PE40 wird es mehr ein cluster im vergleich zu PE 35 ⟹ fraktionierung ist fast weg 
+			- [ ] ⤷ probiere mal PE 45 aus
 	- [ ] letzte simulationen anschauen
 		- [ ] wie sieht das Verhalten bei höherer PE bei höherer Masse aus? 
 		- [ ] sind die interfaces stable im kritischen bereich?
@@ -287,10 +289,11 @@
 					- M 0.050 <font color="#48d1cc">CPU 02</font> <font color="#92d050">fertig</font>
 					- M 0.060 <font color="#48d1cc">CPU 02</font> <font color="#92d050">fertig</font>
 					- M 0.065 <font color="#48d1cc">CPU 02</font> <font color="#92d050">fertig</font>
-					- M 0.070 <font color="#48d1cc">CPU 02</font> <font color="#92d050">fertig</font>							
+					- M 0.070 <font color="#48d1cc">CPU 02</font> <font color="#92d050">fertig</font> <font color="#c815ff">snapshots</font>				
 					- [x] M 0.080 <font color="#ff0000">cluster</font> 
 					- [x] M 0.090 <font color="#ff0000">cluster</font> 
 					- [x] M 0.100 <font color="#ff0000">cluster</font> 
+				- PE 4
 		- br 1:3
 			- 14k 
 				- PE 35
