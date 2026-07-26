@@ -128,7 +128,7 @@
 	- [x] Löcher in Olivendosen bohren
 	- [x] zwei Maronen umsetzen 
 	- [ ] bisschen französisch aufschreiben 
-	- [ ] Krafttraining 
+	- [x] Krafttraining 
 - [ ] dann PE40 von 1:10 anschauen und snapshots machen
 - [ ] noch nen Maulbeersteckling machen 
 - [x] Flaschen spülen 
