@@ -121,8 +121,18 @@
 - frische Luft
 - mich und mein Leben im Griff haben
 # unsortiert
-- [ ] Balkonpflanzen gießen 
-- [x] Duolingo
+
+- [ ] Tastatur wischen 
+- [ ] Zähneputzen
+- [ ] duschen 
+- [ ] Spülmaschine 
+- [ ] staubsaugen 
+- [ ] Papierkram 
+- [ ] Masterarbeit 
+
+
+- [x] Balkonpflanzen gießen 
+- [ ] Duolingo
 - [ ] schneller schwimmen lernen 
 - [ ] probieren mit knöchel zu tappen, wie das jassy im video gemacht hat
 - [ ] cityrad bremse
