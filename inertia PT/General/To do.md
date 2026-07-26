@@ -125,7 +125,8 @@
 	- [x] Duolingo
 	- [x] draußen sitzen
 	- [x] Kaffee fertig trinken
-	- [ ] Löcher in Olivendosen bohren
+	- [x] Löcher in Olivendosen bohren
+	- [ ] zwei 
 	- [ ] bisschen französisch aufschreiben 
 	- [ ] Krafttraining 
 - [ ] dann PE40 von 1:10 anschauen und snapshots machen
