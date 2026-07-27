@@ -123,6 +123,7 @@
 # unsortiert 
 <font color="#e36c09">Produktiv?</font>
 - [x] staubsaugen 
+- [ ] Teebaumöl auftragen
 - [ ] Maracuja umsetzen 
 - [ ] Papierkram 
 - [ ] Lagerinventur exceltabellen 
