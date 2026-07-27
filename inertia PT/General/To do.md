@@ -132,7 +132,7 @@
 - [x] Tastatur wischen 
 - [x] Zähneputzen
 - [x] duschen
-- [ ] Aldi (pfand mitnehmen)
+- [x] Aldi (pfand mitnehmen)
 - [x] Schulgarten checken/gießen
 - [x] Stofftaschentücher auffüllen
 - [x] Nudeln kochen
@@ -142,8 +142,8 @@
 - [ ] Topf in Spülmaschine
 - [ ] Spülmaschine anstellen
 - [x] Tagebuchtext in obsidian
-- [ ] Balkonpflanzen gießen 
-- [ ] Duolingo
+- [x] Balkonpflanzen gießen 
+- [x] Duolingo
 - [x] Wäsche schleudern
 - [x] Wäsche aufhängen
 - [x] Spülmaschine ausräumen 
