@@ -3949,6 +3949,8 @@ This far exceeds typical convective rates for the same area.
 - Polycarbonat Recycling Code 
 	- 7 +PC
 	- 7+PCT ⟹anderer Kunststoff, aus der Polyester Familie = BPA frei 
+# Neurologie 
+- frontal lope finishes development around 25
 # Philosophie 
 - ![](Pasted%20image%2020251205205458.png)
 
