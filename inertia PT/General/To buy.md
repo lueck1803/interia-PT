@@ -7,7 +7,7 @@
 - [x] saft
 - [x] Nusskati 
 - [ ] Nudelsoßen 
-- [ ] pizza
+- [x] pizza
 - [x] toast 
 - [x] bier
 - [x] Fusilli 
