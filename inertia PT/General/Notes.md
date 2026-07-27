@@ -3967,7 +3967,7 @@ This far exceeds typical convective rates for the same area.
 - Vergleich mit Schönheitsoperationen im allgemeinen 
 - 
 - Selbstbestimmungsgesetz:
-	- Pflicht zur Therapie ist etwas Gutes. Der ganze Prozess 
+	- Pflicht zur Therapie ist etwas Gutes. Der ganze Prozess ist ein extrem schwerer körperlicher eing
 # Philosophie 
 - ![](Pasted%20image%2020251205205458.png)
 
