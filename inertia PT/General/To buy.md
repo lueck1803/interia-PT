@@ -1,18 +1,18 @@
 - [ ] Vaseline 
 - [ ] hummus
 - [x] Schoki 
-- [ ] nüsse
+- [x] nüsse
 - [ ] Bananen 
 - [ ] Burger 
 - [ ] saft
 - [ ] Nusskati 
 - [ ] Nudelsoßen 
 - [ ] pizza
-- [ ] bier
+- [x] bier
 - [x] Fusilli 
 - [x] Wanderschuhe (aldi)
-- [ ] feilen
-- [ ] Mini-Wasserwaage 
+- [x] feilen
+- [x] Mini-Wasserwaage 
 - [x] Dosentomaten 
 - käse
 	- [ ] für Brot 
