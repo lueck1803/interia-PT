@@ -104,7 +104,98 @@ Kind regards
 Lukas Walter 
 # Nachrichten an Leute
 
-## 
+## 2026-07-27 flo
+Ah also wurde sie jetzt doch aktiv zerstört oder meinst du die "Nachbarbibliothek" von der Andrej spricht?
+---
+Ja safe. Das Christentum hat ja auch extrem viele innere kämpfe insbesondere gegen das immer wieder aufkommende Reform Christentum die als Ketzer verfolgt wurden und dann später eingegliedert wurden 🤭. Zb Franziskaner 
+
+Ich finde es halt immer dann auch sehr "rassistisch" wenn der Islam als vermeintliches Gegenüber so verklärt wird. Ich glaube dass ist der romanitsierung im 19. Jh durch den orientalismus geschuldet.
+
+"Die weißen und edlen Muslime, die uns die Zivilisation der Antike zurück gebracht haben"
+
+"Rassistisch" in dem Sinne da es ähnlich der Verklärung des edlen wilden ist. 
+
+Ich finde immer man sollte möglichst bei einem möglichst sachlichen Blick auf die Dinge sein unter dem Wissen dass man nie wirklich sachlich sein kann.
+
+Es ist einerseits falsch "den Islam" (es kommt immer extrem auf die epoche, den Herrscher und dessen auslegung an zb der Suffismus) in der Zeit zu verteufeln und den Islam bzw dann "die Muslime" als edle und fortschrittliche die das Wissen bewahrt und entwickelt haben zu überhöhen.
+
+Im Detail sieht es halt ganz anders aus. 
+Wie andrej es sagte ja die Schriftkunst war groß und der Umgang mit der Medizin war zum Teil ein anderer. 
+
+Allerdings auch nicht so lange. Der Islam war ganz sicher kein hegemonial des Fortschritts sonst wäre das christliche europäische Mittelalter nicht deutlich vorbei gezogen.
+
+Es ist jedenfalls nicht korrekt dem Islam diese anfänglich bessere kulturelle Entwicklungsstand betreffende Situation der unter dem Islam lebenden Völker zuzuschreiben.
+
+Die Bildungsstätten des Islams haben sich im Vergleich zum Christentum nämlich genau umgekehrt entwickelt.
+
+Die Universitäten die in Europa gegründet wurden waren ja ausschließlich klerikale Bildungsstätten, die sich dann mehr und mehr vom hauptsachlich theologischen Bildungskern diversifiziert haben.
+
+Im Islam war es genau umgekehrt. Da wurde zunächst viel wissenschaftliches Arbeiten in den eroberten Gebieten geduldet und Schritt für Schritt wurde das als unislamisch bewertet und verdrängt.
+
+Die Errungenschaften in der goldenen Zeit des Islams haben eigentlich eher trotz des Islams statt gefunden, als wegen des Islams.
+
+Musik, Kunst, Architektur, Astronomie, Medizin und Mathematik, waren Felder die aus den vom Islam eroberten Völker heraus kultiviert wurden. Zb die Mosaike der Mauren.
+Viel Fortschritt der dem Islam zugesprochen wird ist eigentlich persischen Ursprungs.
+
+Auch die Verallgemeinerung hier dass etwas dem Islam und nicht der Region zugesprochen wird ist eigentlich weird.
+
+Macht man schließlich auch nicht wenn es um europäische oder chinesische Errungenschaften angeht.
+Da steht zu erst italienischer oder niederländischer Maler und dass der Christ war wird vielleicht gar nicht erwähnt oder steht an zweiter Stelle.
+
+Das ist ja gerade das problematische am eurozentrischen Blick der den Islam als monolithschen Block zum Teil verklärt.
+In "der" europäischen Sicht wurden "die" Völker ja auch verallgemeinernd als Sarazenen bezeichnet.
+
+Es wird da sehr häufig ausgelassen dass es eine Eroberung mit Gewalt war, die die kulturelle Vielfalt der Länder nach und nach vereinheitlicht und entdiversifiziert hat.
+
+Am besten konnten sich gegen dieses hegemonial die Perser stellen und mehr Eigenständigkeit bewahren und wurden viel weniger stark arabisiert.
+
+So lange der Islam in den Ländern noch frisch war und noch nicht der Mehrheit der Macht hatte, wurde viel mehr zu gelassen an Diversität und was auch die Duldung der örtlichen Religionen anging. Aus dieser Phase stammen auch die kulturellen Errungenschaften.
+Mit der Zeit wurde das aber sehr stark anders.
+Musik und Kunst die nicht religiös war, wurde mehr und mehr strikter verboten.
+Zum Teil Musikinstrumente ganz.
+
+Der Islam war und ist eine Sklavenhaltergesellschaft 🤷‍♂️.
+
+Die Sklaverei ist dort geregelt. Es wurden Sklaven in Europa erbeutet (Korsaren und später Osmanen) und im ganzen Gebiet gehandelt.
+
+Der ostafrikanische Sklavenhandel war wirklich massiv.
+Das arabische Wort (Abd) für schwarze Menschen ist nicht umsonst gleichbedeutend mit Sklave.
+
+Ich finde es deshalb durchaus schwierig das europäische Mittelalter mit dem Orient im Bezug auf "Fortschritt" zu vergleichen und dann eindeutige Aussagen zu treffen wie "die Muslime waren fortschrittlicher und haben den in der Dunkelheit versunkenen Europäern die glorreiche Antike wieder gebracht"
+
+Gerade dann der Aspekt "die bösen Christen mit ihren Kreuzzügen" dieser Punkt ist ja auch im meme (nicht ohne Grund). Damit wird ja auch die Anfänge eines koloniales Europas suggeriert.
+
+Was ja faktisch nicht stimmt. Mal abgesehen von den diversen Motivationen die zum großen Teil individualistischer und ökonomischer Natur waren, es waren auch verschiedenste Einzelinteressen und Gruppierungen beteiligt (der Templerorden mit "dem kreuzfahrerkreuz" wird ja sehr gerne intensiv damit in Verbindung gebracht), war die ersten Kreuzzüge eine sehr verspätete Abwehrbewegung zur massiven Eroberung von Muslimischen Herrschern begründet.
+
+800 irgendwas wurde Rom geplündert, viele Mittelmeer Inseln waren besetzt, Spanien war  zum Beginn der reconquista in der Mitte des 8 jh größtenteils besetzt.
+
+Das die eigentlichen Ziele (nach außen propagierten) dauerhaft nicht erreicht wurden, es im Endeffekt durch die Plünderung Konstantinopels in einem der späteren Kreuzzüge der fall Byzanz eher beschleunigt wurde und auch widerwertige Massaker (glaube bei der Eroberung Jerusalems?) behangen wurden mal dahingestellt.
+
+Ich hab sehr häufig die Kreuzzüge als eine vereinfacht böse Tat der Christen und der Kirche zugetragen bekommen. Die Eroberungen/Expeditionen in Südamerika durch die conquistadore sind da meiner Meinung nach ein besseres negativ Beispiel, wobei auch die Taten nicht gut geheißen wurden und es zu Verurteilungen kam...
+
+Bei den Kreuzzügen haben Christen und Muslime auch auf beiden Seiten gekämpft. Das war dann ja zum Teil ein großes Durcheinander was die Feindschaften angeht.
+
+Ich finde es immer Schade und schädlich wenn Geschichte so plakativ und nicht differenziert betrachtet wird und ich weiß dass ich es auch nicht getan habe. Ich habe auch vereinfacht und "dem" islam Unrecht getan damit. Das ist leider wie beim in schutznehmen von Andrej erwähnt, auf plakative zuspitzungen und daraus folgende Bewertungen, braucht es erstmal irgendwie Zuspitzungen und Vereinfachungen von der vermeintlich "anderen Seite", um sich dann in der Mitte zu treffen.
+
+wirklich schade finde ich insbesondere dass aus Geschichte (naheliegend) gerne politische Einfachheiten und Schlussfolgerungen gezogen werden.
+
+Ich hab auch lange "die" allmächtige Kirche als Grund für zu viel übel angesehen.
+
+Ich fand es sehr erhellend und menschlich zu lernen dass es differenzierter war.
+
+Ich finde daraus lernt man viel mehr. 
+
+Auch der Vergleich des innerchristlichen Konflikts mit dem innerislamischen Konflikt ist echt erhellend.
+
+Ich meine der 30 jährige Krieg der wirklich eine krasse Katastrophe war und massive Auswirkungen hatte, ist ja oberflächlich schon irgendwie eine Art Glaubenskrieg gewesen. Auch wenn es irgendwie eine "Konsolidierung" (falsches Wort) der vielen kleinen Herrschaftsgebiete war, die vielfältigste Bündnisse schlossen.
+
+Der inner christliche Konflikt hat sich meiner Wahrnehmung nach seitdem nicht mehr in gewalttätigen Konflikten geäußert. Ah okay naja Nordirland wäre ein Gegenbeispiel.
+
+Ich meine aber generell ist zumindest zwischen der evangelischen und katholischen Kirche eher ein zusammenwachsen zu beobachten.
+
+Der über tausendjährige gewalttätige Konflikt zwischen Schiiten und Sunniten kennt aber kein Ende. 
+
+Wirklich "einig" (nicht mal auf politischer Ebene) sind die sich nur wenn es gegen Israel/die Juden/ den Zustand bzgl Gaza  geht.
 ## 2026-07-23
 https://www.n-tv.de/politik/Brosius-Gersdorf-kritisiert-Haltung-der-Union-zur-Leihmutterschaft-Laschet-kontert-id31110162.html?shem=dsdf,sharefoc,agadiscoversdl,,sh/x/discover/m1/4
 
