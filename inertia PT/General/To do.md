@@ -121,6 +121,14 @@
 - frische Luft
 - mich und mein Leben im Griff haben
 # unsortiert
+- [ ] sonnenbrillen wegpacken
+- [ ] Stofftaschentücher auffüllen
+- [ ] Nudeln kochen
+- [ ] Nudeln in den Kühlschrank
+- [x] Wäsche waschen
+- [ ] Topf in Spülmaschine
+- [ ] Spülmaschine anstellen
+- [x] Tagebuchtext in obsidian
 - [ ] Balkonpflanzen gießen 
 - [ ] Duolingo
 - [ ] Wäsche schleudern
