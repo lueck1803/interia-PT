@@ -131,7 +131,6 @@
 - [x] duschen
 - [ ] Aldi (pfand mitnehmen)
 - [ ] Schulgarten checken/gießen
-- [ ] sonnenbrillen wegpacken
 - [x] Stofftaschentücher auffüllen
 - [x] Nudeln kochen
 - [ ] Nudeln in den Kühlschrank
