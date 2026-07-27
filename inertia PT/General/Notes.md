@@ -3953,7 +3953,8 @@ This far exceeds typical convective rates for the same area.
 - frontal lobe finishes development around 25
 
 # Trans 
-- 
+- tattoo regrets
+- entwi
 # Philosophie 
 - ![](Pasted%20image%2020251205205458.png)
 
