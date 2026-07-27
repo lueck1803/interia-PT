@@ -121,7 +121,7 @@
 - frische Luft
 - mich und mein Leben im Griff haben
 # unsortiert
-- [ ] staubsaugen 
+- [x] staubsaugen 
 - [ ] Papierkram 
 - [ ] Lagerinventur exceltabellen 
 	- [ ] mergen
@@ -142,7 +142,7 @@
 - [x] Tagebuchtext in obsidian
 - [ ] Balkonpflanzen gießen 
 - [ ] Duolingo
-- [ ] Wäsche schleudern
+- [x] Wäsche schleudern
 - [ ] Wäsche aufhängen
 - [x] Spülmaschine ausräumen 
 - [x] Email von letzter Woche an Arooj schreiben 
