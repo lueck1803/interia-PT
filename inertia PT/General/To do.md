@@ -238,6 +238,7 @@
 					- M 0.070 <font color="#ff0000">cluster</font> <font color="#92d050">fertig</font> <font color="#c815ff">snapshots</font>
 					- M 0.080 <font color="#ff0000">cluster</font> ✅☑
 					- [x] M 0.085 <font color="#ff0000">cluster</font> 
+					- [x] M 0.088 <font color="#ff0000">cluster</font> 
 					- M 0.090 <font color="#ff0000">cluster</font> ✅ ☑
 					- M 0.100 <font color="#ff0000">cluster</font> ✅☑
 				- PE 40
@@ -251,6 +252,7 @@
 					- M 0.070 <font color="#48d1cc">CPU 02</font> <font color="#92d050">fertig</font> <font color="#c815ff">snapshots</font>				
 					- M 0.080 <font color="#ff0000">cluster</font> ✅☑
 					- M 0.085 <font color="#ff0000">cluster</font> ✅☑
+					- [x] M 0.088 <font color="#ff0000">cluster</font> 
 					- M 0.090 <font color="#ff0000">cluster</font> ✅☑
 					- M 0.100 <font color="#ff0000">cluster</font> ✅☑
 				- PE 45
@@ -262,8 +264,15 @@
 					- M 0.060 <font color="#ff0000">cluster</font> ✅
 					- M 0.070 <font color="#ff0000">cluster</font>  ✅				
 					- M 0.080 <font color="#ff0000">cluster</font> ✅☑
-					- M 0.090 <font color="#ff0000">cluster</font> ✅
-					- M 0.100 <font color="#ff0000">cluster</font> ✅
+					- M 0.090 <font color="#ff0000">cluster</font> ✅			
+					- [x] M 0.085 <font color="#ff0000">cluster</font> 
+					- [x] M 0.088 <font color="#ff0000">cluster</font> 
+					- M 0.100 <font color="#ff0000">cluster</font> ✅☑
+					- [x] M 0.110 <font color="#ff0000">cluster</font> 
+					- [x] M 0.120 <font color="#ff0000">cluster</font> 
+					- [x] M 0.130 <font color="#ff0000">cluster</font> 
+					- [x] M 0.140 <font color="#ff0000">cluster</font> 
+					- [x] M 0.150 <font color="#ff0000">cluster</font> 
 		- br 1:3
 			- 14k 
 				- PE 35
