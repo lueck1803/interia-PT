@@ -288,7 +288,10 @@ Heute war wieder ein sehr chaosreicher "Start" (bis nachmittags hat es gedauert)
 Mit sehr viel Unordnung, nicht Befolgen meiner Vorhaben, Richtlinien, Prinzipien und Routinen, stattdessen dem Folgen von Impulsen.
 
 Ich würde sagen, dies ist sehr stark dem verkürzten nächtlichen Schlaf geschuldet.
-Die Verschlechterung der Schlafqualität durch nächtliches / früh morgendliches Hören (nach Aufwachen, wegen eines Toilettengangs) von YT shit und scrollen durch diesen 
+Die Verschlechterung der Schlafqualität durch nächtliches / früh morgendliches Hören (nach Aufwachen, wegen eines Toilettengangs) von YT shit und scrollen durch diesen.
+Ebenso mit der fehlenden Schlafhygiene, so dass ich statt zu Lesen oder einfach noch besser zu Schlafen noch YT geschaut und Audiothek gehört habe.
+Als eine Art "Kompensation" meiner "Fokussiertheit" und dem Innere Ruhe suchen durch Vermeiden von Ablenkung, was eine Art Nachholprozess ist... 
+Meine Fokussiertheit insbesondere nach der Radtour im Bezug auf die Masterarbeit hätte dabei besser sein können. Aber immerhin habe ich überhaupt etwas gemacht. 
 # Issues
 - Vom <span style="font-size:100%;color:gold;">"Butterfly effect Denken"</span> wegkommen.
 - Das ist  seit Jahren ein großes Problem von mir
