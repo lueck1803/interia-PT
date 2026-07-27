@@ -9,6 +9,7 @@
 - [ ] Nudelsoßen 
 - [ ] pizza
 - [ ] bier
+- [x] Dosentomaten 
 - käse
 	- [ ] für Brot 
 	- [ ] Parmesan 
