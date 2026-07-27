@@ -1,9 +1,9 @@
 - [ ] Vaseline 
-- [ ] hummus
+- [x] hummus
 - [x] Schoki 
 - [x] nüsse
 - [ ] Bananen 
-- [ ] Burger 
+- [x] Burger 
 - [x] saft
 - [x] Nusskati 
 - [ ] Nudelsoßen 
@@ -16,8 +16,8 @@
 - [x] Mini-Wasserwaage 
 - [x] Dosentomaten 
 - käse
-	- [ ] für Brot 
-	- [ ] Parmesan 
+	- [x] für Brot 
+	- [x] Parmesan 
 - [x] Kartoffeln 
 - [ ] Rindenmulch 
 - [ ] Sand 
