@@ -133,7 +133,7 @@
 - [x] Zähneputzen
 - [x] duschen
 - [ ] Aldi (pfand mitnehmen)
-- [ ] Schulgarten checken/gießen
+- [x] Schulgarten checken/gießen
 - [x] Stofftaschentücher auffüllen
 - [x] Nudeln kochen
 - [ ] Nudeln in den Kühlschrank
