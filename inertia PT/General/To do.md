@@ -138,7 +138,7 @@
 - [x] Nudeln kochen
 - [x] Nudeln in den Kühlschrank
 - [x] Wäsche waschen
-- [ ] Olivendose anbohren und marone umsetzen
+- [ ] Olivendose + Käsedose anbohren und zwei maronen umsetzen
 - [x] Topf in Spülmaschine
 - [x] Spülmaschine anstellen
 - [x] Tagebuchtext in obsidian
