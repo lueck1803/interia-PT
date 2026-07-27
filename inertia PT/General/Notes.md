@@ -3954,7 +3954,11 @@ This far exceeds typical convective rates for the same area.
 
 # Trans 
 - tattoo regrets
-- entwi
+- Entwicklung des frontal lobe geht bis 25
+- permanente Veränderung des Körpers 
+- stoppen eines Prozesses - die Pubertät - der Jahre dauert und dessen Weg und Ende sehr wahrscheinlich die Heilung von den dismorphias und disphorien bringt!
+- die Hirnentwicklung sollte man auch mit den gegensätzlichen Hormonen nicht unterbrechen 
+- Vergleich 
 # Philosophie 
 - ![](Pasted%20image%2020251205205458.png)
 
