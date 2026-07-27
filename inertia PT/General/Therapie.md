@@ -282,6 +282,13 @@ flowchart TB
 - Es ist aber auch mal genug dass ich Aroojs Fehlverhalten und mein Leid darunter klein rede und sie in Schutz nehme.
 	- ⤷ Sie nimmt mich nicht in Schutz 
 
+# Tagebuch?
+## 2026-07-27
+Heute war wieder ein sehr chaosreicher "Start" (bis nachmittags hat es gedauert) in den Tag.
+Mit sehr viel Unordnung, nicht Befolgen meiner Vorhaben, Richtlinien, Prinzipien und Routinen, stattdessen dem Folgen von Impulsen.
+
+Ich würde sagen, dies ist sehr stark dem verkürzten nächtlichen Schlaf geschuldet.
+Die Verschlechterung der Schlafqualität durch nächtliches / früh morgendliches Hören (nach Aufwachen, wegen eines Toilettengangs) von YT shit und scrollen durch diesen 
 # Issues
 - Vom <span style="font-size:100%;color:gold;">"Butterfly effect Denken"</span> wegkommen.
 - Das ist  seit Jahren ein großes Problem von mir
