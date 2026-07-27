@@ -3960,7 +3960,7 @@ This far exceeds typical convective rates for the same area.
 - die Hirnentwicklung sollte man auch mit den gegensätzlichen Hormonen nicht unterbrechen 
 - Transition = Leben retten: ist eine Behauptung einer einzigen Studie die so nicht stimmt
 - detransitioning ist ein großes Ding
-- die Einsicht dass man einfach das biologische Geschlecht nicht ändern kann. So lange es keine sience fiction gen Therapie gibt, mit der sich der ganze Körper komplett verändert geht es nicht. 
+- die Einsicht dass man einfach das biologische Geschlecht nicht ändern kann. So lange es keine sience fiction gen Therapie gibt, mit der sich der ganze Körper komplett verändert geht es nicht. Eine 
 - man kann nicht wissen wie sich jemand im anderen Geschlecht fühlt
 - man kann ja nicht mal wissen wie sich eine andere Person im gleichen Geschlecht fühlt
 - was macht überhaupt einen Mann/eine Frau aus, was macht es aus sich als solcher zu fühlen. Ich kann es nicht wissen da ich nicht in den Körper eines anderen wechseln kann 
