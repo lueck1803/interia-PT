@@ -9,11 +9,12 @@
 - [ ] Nudelsoßen 
 - [ ] pizza
 - [ ] bier
+- [x] Fusilli 
 - [x] Dosentomaten 
 - käse
 	- [ ] für Brot 
 	- [ ] Parmesan 
-- [ ] Kartoffeln 
+- [x] Kartoffeln 
 - [ ] Rindenmulch 
 - [ ] Sand 
 - [x] gelbe Zwiebeln 
