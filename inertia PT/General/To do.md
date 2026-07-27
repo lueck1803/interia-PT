@@ -122,7 +122,7 @@
 - mich und mein Leben im Griff haben
 # unsortiert
 - [x] staubsaugen 
-- [ ] Maracuja um
+- [ ] Maracuja umsetzen 
 - [ ] Papierkram 
 - [ ] Lagerinventur exceltabellen 
 	- [ ] mergen
