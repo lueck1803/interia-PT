@@ -4076,14 +4076,17 @@ This far exceeds typical convective rates for the same area.
 	- dead naming paragraph ist schrecklich...
 		- Missbrauch durch Kriminelle 
 		- überzogener rechtlicher Umgang 
-
+- massive wirtschaftliche Interessen der Pharmaindustrie und der plastischen Chirurgie beim Verkauf der Präparate Pubertätsblocker und Hormone 
+	- sonst sind die linken immer gerne dabei beim Schelten auf den Kapitalismus und Lobbyinteressen zb. bei der fossilen energie lobby, hier scheint es egal zu sein
+	- wobei es mir hier alleine um das wohl der einzelperson geht. wenn dis
 Neurobiologie Videos der einen Frau die mit Imp geredet hat.
 
 Vergleich Krebs mit Glechtsdisphorie:
 - das eine ist physischer natur, das andere neurologischer /psychischer Natur. Natürlich hängt neurologie mit physis zusammen. der unterschied liegt definitiv in der Form der gefahr oder des krankhaften charakters
 - Insbesondere sollte man bei dem Vergleich nicht die "krankheiten" vergleichen, sondern die Behandlungen, wenn es bei der Argumentation für oder gegen die Transition geht
 	- Beim Krebs (je nach Art)
-		- chemotherapie vs chirugie 
+		- chemotherapie vs chirugie vs konservativer behandlung bzw. qualitativ gutes leben mit dem krebs statt sich einer qual zu unterziehen die dennoch mit dem tod endet / letzte tage genießen
+		- guter Vergleich Knie - OP: Knie TEP (OP) vs. konservative Schmerz und Bewegungstherapie zb auch in kombi mit wiederaufbau des knorpels 
 # Geschichte 
 Ah also wurde sie jetzt doch aktiv zerstört oder meinst du die "Nachbarbibliothek" von der Andrej spricht?
 ---
