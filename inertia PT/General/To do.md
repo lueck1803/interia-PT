@@ -132,8 +132,8 @@
 - [ ] Aldi (pfand mitnehmen)
 - [ ] Schulgarten checken/gießen
 - [ ] sonnenbrillen wegpacken
-- [ ] Stofftaschentücher auffüllen
-- [ ] Nudeln kochen
+- [x] Stofftaschentücher auffüllen
+- [x] Nudeln kochen
 - [ ] Nudeln in den Kühlschrank
 - [x] Wäsche waschen
 - [ ] Topf in Spülmaschine
