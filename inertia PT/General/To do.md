@@ -133,9 +133,9 @@
 		Ist vielleicht besser noch weiter und länger Distanz zu wahren. 
 
 		Ich weiß ja eigentlich dass ich damit dann doch unterbewusst zu viel kämpfe, so dass ich das wichtige aus den Augen verliere
-- [x] Tastatur wischen 
-- [x] Zähneputzen
-- [x] duschen
+- [ ] Tastatur wischen 
+- [ ] Zähneputzen
+- [ ] duschen
 - [ ] laufschuhe bestellen
 - [ ] ticket für my sleeping karma bestellen
 	- [ ] ⤷ arthur bescheid geben

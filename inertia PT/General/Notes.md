@@ -4052,7 +4052,8 @@ This far exceeds typical convective rates for the same area.
 - extrem klare Gewissheiten sind suspekt und ein Problem 
 - es ist immer gut in einer Phase in der man eine Entwicklung, Krise bzw. einen Findungsprozess durch macht Gegenstimmen zu hören und sich hart damit auseinander zu setzen. Einen Rahmen und ein Umfeld der Stabilität 
 - tattoo regrets
-- Entwicklung des frontal lobe geht bis 25
+- Entwicklung des frontal lobe geht bis 25 
+  ⤷ warten bis Hirnentwicklung abgeschlossen ist
 - permanente Veränderung des Körpers 
 - stoppen eines Prozesses - die Pubertät - der Jahre dauert und dessen Weg und Ende sehr wahrscheinlich die Heilung von den dismorphias und disphorien bringt! Mit der hormongabe und pubertätsblockern stoppt man eine Heilung die sehr wahrscheinlich von alleine gekommen wäre
 - die Hirnentwicklung sollte man auch mit den gegensätzlichen Hormonen nicht unterbrechen 
@@ -4078,7 +4079,8 @@ This far exceeds typical convective rates for the same area.
 		- überzogener rechtlicher Umgang 
 - massive wirtschaftliche Interessen der Pharmaindustrie und der plastischen Chirurgie beim Verkauf der Präparate Pubertätsblocker und Hormone 
 	- sonst sind die linken immer gerne dabei beim Schelten auf den Kapitalismus und Lobbyinteressen zb. bei der fossilen energie lobby, hier scheint es egal zu sein
-	- wobei es mir hier alleine um das wohl der einzelperson geht. wenn dis
+	- wobei es mir hier alleine um das wohl der einzelperson geht. wenn diese natürlich durch die transition aufgewertet wird, dann kann man pharma dankbar sein. hier geht es darum, dass hinter der affirmation auch wirtschaftliche interessen stehen
+
 Neurobiologie Videos der einen Frau die mit Imp geredet hat.
 
 Vergleich Krebs mit Glechtsdisphorie:
