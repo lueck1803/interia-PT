@@ -127,9 +127,10 @@
 - [ ] Teebaumöl auftragen
 - [ ] Maracuja umsetzen 
 - [ ] Papierkram 
-- [ ] Lagerinventur exceltabellen 
-	- [ ] mergen
-	- [ ] am handy die alten aus den Favoriten nehmen
+- Lagerinventur exceltabellen 
+	- mergen
+	- am handy die alten aus den Favoriten nehmen
+	- ⟹<font color="#92cddc">lass ich bleiben</font>
 - [x] Tastatur wischen 
 - [x] Zähneputzen
 - [x] duschen
