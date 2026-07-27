@@ -269,10 +269,10 @@
 					- [x] M 0.088 <font color="#ff0000">cluster</font> 
 					- M 0.100 <font color="#ff0000">cluster</font> ✅☑
 					- [x] M 0.110 <font color="#ff0000">cluster</font> 
-					- [x] M 0.120 <font color="#ff0000">cluster</font> 
-					- [x] M 0.130 <font color="#ff0000">cluster</font> 
-					- [x] M 0.140 <font color="#ff0000">cluster</font> 
-					- [x] M 0.150 <font color="#ff0000">cluster</font> 
+					- [x] M 0.120 <font color="#ff0000">cluster</font>  ❌
+					- [x] M 0.130 <font color="#ff0000">cluster</font> ❌
+					- [x] M 0.140 <font color="#ff0000">cluster</font> ❌
+					- [x] M 0.150 <font color="#ff0000">cluster</font> ❌
 		- br 1:3
 			- 14k 
 				- PE 35
