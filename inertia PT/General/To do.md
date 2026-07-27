@@ -127,10 +127,7 @@
 - [ ] Teebaumöl auftragen
 - [ ] Maracuja umsetzen 
 - [ ] Papierkram 
-- Lagerinventur exceltabellen 
-	- mergen
-	- am handy die alten aus den Favoriten nehmen
-	- ⟹<font color="#92cddc">lass ich bleiben</font>
+
 - [x] Tastatur wischen 
 - [x] Zähneputzen
 - [x] duschen
@@ -984,6 +981,10 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] <span style="color:coral">paartherapie S3 runterladen</span>
 
 # Alt
+- Lagerinventur exceltabellen 
+	- mergen
+	- am handy die alten aus den Favoriten nehmen
+	- ⟹<font color="#92cddc">lass ich bleiben</font>
 - [x] in die uni fahren und PC checken...
 	- [x] ok, muss ich wohl jetzt direkt machen, da auch am laptop keine richtige verbindung hergestellt wird
 	- der läuft halt noch...
