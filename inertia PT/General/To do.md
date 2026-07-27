@@ -143,7 +143,7 @@
 - [ ] Balkonpflanzen gießen 
 - [ ] Duolingo
 - [x] Wäsche schleudern
-- [ ] Wäsche aufhängen
+- [x] Wäsche aufhängen
 - [x] Spülmaschine ausräumen 
 - [x] Email von letzter Woche an Arooj schreiben 
 	- Ne Antwort werde ich eh nicht bekommen.
