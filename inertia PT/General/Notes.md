@@ -4076,7 +4076,14 @@ This far exceeds typical convective rates for the same area.
 	- dead naming paragraph ist schrecklich...
 		- Missbrauch durch Kriminelle 
 		- überzogener rechtlicher Umgang 
+
 Neurobiologie Videos der einen Frau die mit Imp geredet hat.
+
+Vergleich Krebs mit Glechtsdisphorie:
+- das eine ist physischer natur, das andere neurologischer /psychischer Natur. Natürlich hängt neurologie mit physis zusammen. der unterschied liegt definitiv in der Form der gefahr oder des krankhaften charakters
+- Insbesondere sollte man bei dem Vergleich nicht die "krankheiten" vergleichen, sondern die Behandlungen, wenn es bei der Argumentation für oder gegen die Transition geht
+	- Beim Krebs (je nach Art)
+		- chemotherapie vs chirugie 
 # Geschichte 
 Ah also wurde sie jetzt doch aktiv zerstört oder meinst du die "Nachbarbibliothek" von der Andrej spricht?
 ---
