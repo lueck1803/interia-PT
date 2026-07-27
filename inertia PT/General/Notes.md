@@ -3953,6 +3953,11 @@ This far exceeds typical convective rates for the same area.
 - frontal lobe finishes development around 25
 
 # Trans 
+- das wichtigste sollte das Wohl des betreffenden Menschen sein 
+- in der Pubertät/als Jugendlicher hat man sehr häufig extreme und starke Überzeugungen bei denen man 120% sicher ist und sich dann nach ein paar Jahren herausstellt, dass es doch nicht so ist
+- der extreme affirmative Umgang der Transcommunity ist total ist was das angeht total ignorant und schädlich 
+- extrem klare Gewissheiten sind suspekt und ein Problem 
+- es ist immer gut in einer Phase in der man eine Entwicklung, Krise bzw. einen Findungsprozess durch macht Gegenstimmen zu hören und sich hart damit auseinander zu setzen. Einen Rahmen und ein Umfeld der Stabilität 
 - tattoo regrets
 - Entwicklung des frontal lobe geht bis 25
 - permanente Veränderung des Körpers 
@@ -3968,9 +3973,16 @@ This far exceeds typical convective rates for the same area.
 - body positivity 
 - trans = zementierung des Sozialen Geschlechts/der Rollenbilder 
 - man kann nicht wissen ob es einem nach der Transition wirklich besser geht, ob es die ersehnte Heilung vom Schmerz bringt irgendwie im falschen Körper zu sein 
-- hinter vieler Geschlechtsdisphorie steckt auch häufig eine verkappte Homosexualität. Das muss im Einzelfall doch herausgearbeitet werden. Denn das wäre der viel 
+- hinter vieler Geschlechtsdisphorie steckt auch häufig eine verkappte Homosexualität. Das muss im Einzelfall doch herausgearbeitet werden. Denn das wäre der viel einfachere Fall mit dem man umgehen kann/muss, um sich selbst/zu sich und seiner Identität zu finden 
+- Vergleich mit anderen Neurodiversitäten: ADHS, Autismus 
+- starke Korrelation zwischen Autismus und Geschlechtsdisphorie. Auch mit kausaler Komponente 
+	- Autismus verknüpft mit starkem schwarz weiß denken 
+	- ⤷ ich bin irgendwie nicht ganz passend meinem Bild einer Frau ⟹ oh dann muss ich ja ein Mann sein
 - Selbstbestimmungsgesetz:
 	- Pflicht zur Therapie ist etwas Gutes. Der ganze Prozess ist ein extrem schwerer körperlicher Eingriff der einen eventuell bereuen lässt
+	- dead naming paragraph ist schrecklich...
+		- Missbrauch durch Kriminelle 
+		- überzogener rechtlicher Umgang 
 # Philosophie 
 - ![](Pasted%20image%2020251205205458.png)
 
