@@ -1,6 +1,6 @@
 - [ ] Vaseline 
 - [ ] hummus
-- [ ] Schoki 
+- [x] Schoki 
 - [ ] nüsse
 - [ ] Bananen 
 - [ ] Burger 
