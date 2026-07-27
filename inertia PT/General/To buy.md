@@ -8,6 +8,7 @@
 - [ ] Nusskati 
 - [ ] Nudelsoßen 
 - [ ] pizza
+- [ ] toast 
 - [x] bier
 - [x] Fusilli 
 - [x] Wanderschuhe (aldi)
