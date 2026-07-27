@@ -10,6 +10,9 @@
 - [ ] pizza
 - [ ] bier
 - [x] Fusilli 
+- [x] Wanderschuhe (aldi)
+- [ ] feilen
+- [ ] Mini-Wasserwaage 
 - [x] Dosentomaten 
 - käse
 	- [ ] für Brot 
