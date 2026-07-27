@@ -4,11 +4,11 @@
 - [x] nüsse
 - [ ] Bananen 
 - [ ] Burger 
-- [ ] saft
-- [ ] Nusskati 
+- [x] saft
+- [x] Nusskati 
 - [ ] Nudelsoßen 
 - [ ] pizza
-- [ ] toast 
+- [x] toast 
 - [x] bier
 - [x] Fusilli 
 - [x] Wanderschuhe (aldi)
