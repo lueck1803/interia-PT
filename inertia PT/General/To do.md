@@ -136,11 +136,11 @@
 - [x] Schulgarten checken/gießen
 - [x] Stofftaschentücher auffüllen
 - [x] Nudeln kochen
-- [ ] Nudeln in den Kühlschrank
+- [x] Nudeln in den Kühlschrank
 - [x] Wäsche waschen
 - [ ] Olivendose anbohren und marone umsetzen
-- [ ] Topf in Spülmaschine
-- [ ] Spülmaschine anstellen
+- [x] Topf in Spülmaschine
+- [x] Spülmaschine anstellen
 - [x] Tagebuchtext in obsidian
 - [x] Balkonpflanzen gießen 
 - [x] Duolingo
@@ -177,13 +177,13 @@
 - schuhe kaufen 
 	- [ ] über Laufschuhe informieren
 	- [ ] Laufschuhe 
-	- [ ] Wanderschuhe 
+	- [x] Wanderschuhe 
+		- hab jetzt welche vom aldi gekauft 
 - [ ] Bauhaus 
 	- [ ] destilliertes Wasser 
 	- [ ] salatsamen 
 	- [ ] Rindenmulch 
 	- [ ] Sand 
-- [ ] Staubsaugen
 - [x] Nasenhaare schneiden 
 - Papierkram 
 	- [ ] kassenbons
@@ -199,7 +199,7 @@
 - [ ] https://youtu.be/M4O4L2tL-nk?is=Bm9SNS8mzs6SKPaI <br> aufschreiben 
 - [ ] https://youtu.be/m7U0353WlrQ?is=TmQ2HPznlXkCOWgo <br> aufschreiben 
 - [ ] https://youtu.be/npQ2IORdlvU?is=uOARePu3UtjA5gfw <br> aufschreiben 
-- [ ] Steinsammlung weg 
+- [x] Steinsammlung weg 
 - [ ] terra cotta farbenen topf reparieren 
 - Backbleche
 	- [x] in Wohnung 
