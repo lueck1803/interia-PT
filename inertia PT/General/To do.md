@@ -127,7 +127,6 @@
 - [ ] Teebaumöl auftragen
 - [ ] Maracuja umsetzen 
 - [ ] Papierkram 
-
 - [x] Tastatur wischen 
 - [x] Zähneputzen
 - [x] duschen
