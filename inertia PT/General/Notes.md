@@ -3965,9 +3965,12 @@ This far exceeds typical convective rates for the same area.
 - man kann ja nicht mal wissen wie sich eine andere Person im gleichen Geschlecht fühlt
 - was macht überhaupt einen Mann/eine Frau aus, was macht es aus sich als solcher zu fühlen. Ich kann es nicht wissen da ich nicht in den Körper eines anderen wechseln kann 
 - Vergleich mit Schönheitsoperationen im allgemeinen 
-- 
+- body positivity 
+- trans = zementierung des Sozialen Geschlechts/der Rollenbilder 
+- man kann nicht wissen ob es einem nach der Transition wirklich besser geht, ob es die ersehnte Heilung vom Schmerz bringt irgendwie im falschen Körper zu sein 
+- hinter vieler Geschlechtsdisphorie steckt auch häufig eine verkappte Homosexualität. Das muss im Einzelfall doch herausgearbeitet werden. Denn das wäre der viel 
 - Selbstbestimmungsgesetz:
-	- Pflicht zur Therapie ist etwas Gutes. Der ganze Prozess ist ein extrem schwerer körperlicher eing
+	- Pflicht zur Therapie ist etwas Gutes. Der ganze Prozess ist ein extrem schwerer körperlicher Eingriff der einen eventuell bereuen lässt
 # Philosophie 
 - ![](Pasted%20image%2020251205205458.png)
 
