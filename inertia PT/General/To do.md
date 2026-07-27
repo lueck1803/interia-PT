@@ -121,6 +121,16 @@
 - frische Luft
 - mich und mein Leben im Griff haben
 # unsortiert
+- [ ] staubsaugen 
+- [ ] Papierkram 
+- [ ] Lagerinventur exceltabellen 
+	- [ ] mergen
+	- [ ] am handy die alten aus den Favoriten nehmen
+- [x] Tastatur wischen 
+- [x] Zähneputzen
+- [x] duschen
+- [ ] Aldi (pfand mitnehmen)
+- [ ] Schulgarten checken/gießen
 - [ ] sonnenbrillen wegpacken
 - [ ] Stofftaschentücher auffüllen
 - [ ] Nudeln kochen
@@ -143,9 +153,7 @@
 		Ist vielleicht besser noch weiter und länger Distanz zu wahren. 
 
 		Ich weiß ja eigentlich dass ich damit dann doch unterbewusst zu viel kämpfe, so dass ich das wichtige aus den Augen verliere
-- [ ] Tastatur wischen 
-- [ ] Zähneputzen
-- [ ] duschen
+
 - [ ] laufschuhe bestellen
 - [ ] ticket für my sleeping karma bestellen
 	- [ ] ⤷ arthur bescheid geben
@@ -154,13 +162,8 @@
 	- [ ] ⤷ in die wäsche
 	- [ ] sofa saugen
 	- [ ] neue drauf
-- [ ] staubsaugen 
-- [ ] Papierkram 
-- [ ] Lagerinventur exceltabellen 
-	- [ ] mergen
-	- [ ] am handy die alten aus den Favoriten nehmen
-- [ ] Masterarbeit 
-- [ ] rad fahren
+
+- [x] rad fahren
 - [ ] yoga
 - [ ] schneller schwimmen lernen 
 - [ ] probieren mit knöchel zu tappen, wie das jassy im video gemacht hat
