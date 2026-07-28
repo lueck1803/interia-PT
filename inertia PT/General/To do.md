@@ -213,6 +213,7 @@
 - [x] Papier Müll 
 - [ ] wo ist meine Handyhalterung fürs Rad? Ahl?
 - proposal 
+	- [ ] Verhalten der 1:3 und 1:5 simulationen anschauen...
 	- [ ] was zu PE schreiben
 		- [ ] leichte erhöhung -> stable und connected
 		- [ ] erwähung des phase diagrams
