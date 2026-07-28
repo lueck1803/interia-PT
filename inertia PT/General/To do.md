@@ -123,6 +123,11 @@
 # unsortiert 
 <font color="#e36c09">Produktiv?</font>
 - [x] Wanderschuhe anprobieren
+- [ ] DISM /Online /Cleanup-Image /RestoreHealth
+	- [x] DISM reparieren
+	- [ ] iso runterladen
+	- [ ] DISM /Online /Cleanup-Image /RestoreHealth /source:WIM:X:\Sources\Install.wim:1 /LimitAccess
+	- [ ] DISM /Online /Cleanup-Image /RestoreHealth
 - [ ] thunderboltkarte einbauen 
 - [ ] 3. bildschirm anschließen
 - [x] staubsaugen 
