@@ -123,7 +123,7 @@
 # unsortiert 
 <font color="#e36c09">Produktiv?</font>
 - [x] staubsaugen 
-- [ ] Teebaumöl auftragen
+- [x] Teebaumöl auftragen
 - [ ] Maracuja umsetzen 
 - [ ] Papierkram 
 - [x] Tastatur wischen 
@@ -137,9 +137,6 @@
 - [x] Spülmaschine ausräumen
 - [x] Balkonpflanzen gießen 
 - [ ] Duolingo
-- [x] Wäsche schleudern
-- [x] Wäsche aufhängen
-- [x] Spülmaschine ausräumen 
 - [x] Email von letzter Woche an Arooj schreiben 
 	- Ne Antwort werde ich eh nicht bekommen.
 		Ich lasse mir noch ein paar Tage.
@@ -159,7 +156,6 @@
 	- [ ] sofa saugen
 	- [ ] neue drauf
 
-- [x] rad fahren
 - [ ] yoga
 - [ ] schneller schwimmen lernen 
 - [ ] probieren mit knöchel zu tappen, wie das jassy im video gemacht hat
@@ -192,7 +188,6 @@
 - [ ] https://youtu.be/M4O4L2tL-nk?is=Bm9SNS8mzs6SKPaI <br> aufschreiben 
 - [ ] https://youtu.be/m7U0353WlrQ?is=TmQ2HPznlXkCOWgo <br> aufschreiben 
 - [ ] https://youtu.be/npQ2IORdlvU?is=uOARePu3UtjA5gfw <br> aufschreiben 
-- [x] Steinsammlung weg 
 - [ ] terra cotta farbenen topf reparieren 
 - Backbleche
 	- [x] in Wohnung 
@@ -975,6 +970,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] <span style="color:coral">paartherapie S3 runterladen</span>
 
 # Alt
+- [x] Steinsammlung weg 
 - Lagerinventur exceltabellen 
 	- mergen
 	- am handy die alten aus den Favoriten nehmen
