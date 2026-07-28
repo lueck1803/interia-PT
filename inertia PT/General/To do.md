@@ -123,7 +123,6 @@
 # unsortiert 
 <font color="#e36c09">Produktiv?</font>
 - [x] staubsaugen 
-- [x] Balkon aufräumen und kehren 
 - [ ] Teebaumöl auftragen
 - [ ] Maracuja umsetzen 
 - [ ] Papierkram 
