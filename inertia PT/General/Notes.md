@@ -2598,10 +2598,25 @@ Enable-NetAdapter -Name "Wi-Fi*" -Confirm:$false
 ```PowerShell
 choco list | findstr -i "kee*"
 ```
-# copy content of a file on the clipboard
+## copy content of a file on the clipboard
 ```PowerShell
 gc .\myfile.txt | scb
 ```
+
+## DISM
+
+```Powershell
+dism.exe /online /cleanup-image /restorehealth
+```
+### If the error *Error: 0x800f081f* appears
+- download an iso
+- create the folder `md C:\test\offline `
+- mount the correct image
+
+```Powershell
+DISM.exe /Mount-Wim /WimFile:d:\sources\install.wim /index:6 /MountDir:C:\test\offline /ReadOnly
+```
+- with d the 
 
 # PW manager
 Wechsel von heylogin zu keypass als Standard autofill
