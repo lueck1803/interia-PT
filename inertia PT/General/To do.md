@@ -122,6 +122,9 @@
 - mich und mein Leben im Griff haben
 # unsortiert 
 <font color="#e36c09">Produktiv?</font>
+- [ ] Wanderschuhe anprobieren
+- [ ] thunderboltkarte einbauen 
+- [ ] 3. bildschirm anschließen
 - [x] staubsaugen 
 - [x] Teebaumöl auftragen
 - [ ] Maracuja umsetzen 
