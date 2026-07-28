@@ -125,9 +125,12 @@
 - [x] Wanderschuhe anprobieren
 - [ ] DISM /Online /Cleanup-Image /RestoreHealth
 	- [x] DISM <font color="#c71585">reparieren</font>
-	- [ ] iso <font color="#ff69b4">runterladen</font>
+	- [x] iso <font color="#ff69b4">runterladen</font>
 	- [ ] DISM /Online /Cleanup-Image /RestoreHealth /source:WIM:X:\Sources\Install.wim:1 /LimitAccess
 	- [ ] DISM /Online /Cleanup-Image /RestoreHealth
+	- [ ] md C:\test\offline 
+		DISM.exe /Mount-Wim /WimFile:e:\sources\install.wim /index:2 /MountDir:C:\test\offline /ReadOnly
+		Dism.exe /Online /Cleanup-Image /restoreHealth /source:C:\test\offline /loglevel:4
 - [ ] thunderboltkarte einbauen 
 - [ ] 3. bildschirm anschließen
 - [x] staubsaugen 
