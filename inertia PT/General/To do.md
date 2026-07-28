@@ -131,16 +131,12 @@
 - [x] duschen
 - [x] Aldi (pfand mitnehmen)
 - [x] Schulgarten checken/gießen
-- [x] Stofftaschentücher auffüllen
-- [x] Nudeln kochen
-- [x] Nudeln in den Kühlschrank
-- [x] Wäsche waschen
-- [ ] Olivendose + Käsedose anbohren und zwei maronen umsetzen
-- [x] Topf in Spülmaschine
+- [ ] Olivendose + Käsedose anbohren ⟹ <font color="#953734">dafür neue Bohrmaschine nutzen</font>
+- [ ] zwei maronen umsetzen
 - [x] Spülmaschine anstellen
-- [x] Tagebuchtext in obsidian
+- [x] Spülmaschine ausräumen
 - [x] Balkonpflanzen gießen 
-- [x] Duolingo
+- [ ] Duolingo
 - [x] Wäsche schleudern
 - [x] Wäsche aufhängen
 - [x] Spülmaschine ausräumen 
