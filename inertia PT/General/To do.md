@@ -296,7 +296,7 @@
 					- [x] M 0.010 <font color="#ff0000">cluster</font> 
 					- [x] M 0.020 <font color="#ff0000">cluster</font> 
 					- [x] M 0.030 <font color="#ff0000">cluster</font> 
-					- M 0.040 <font color="#ff0000">cluster</font> <font color="#92d050">fertig</font>
+					- M 0.040 <font color="#ff0000">cluster</font> <font color="#92d050">fertig</font>☑
 					- M 0.050 <font color="#ff0000">cluster</font> <font color="#92d050">fertig</font>
 					- M 0.060 <font color="#ff0000">cluster</font> <font color="#92d050">fertig</font>
 					- M 0.065 <font color="#ff0000">cluster</font> <font color="#92d050">fertig</font>			
