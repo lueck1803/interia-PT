@@ -2616,8 +2616,18 @@ dism.exe /online /cleanup-image /restorehealth
 ```Powershell
 DISM.exe /Mount-Wim /WimFile:d:\sources\install.wim /index:6 /MountDir:C:\test\offline /ReadOnly
 ```
-- with d the 
+- with d the location of the iso file
+- and index 6 the windows version here Win11 pro
 
+```Powershell
+DISM /Image:C:\test\offline /Cleanup-Image /RestoreHealth /LimitAccess
+```
+- run the DISM form the mounted image
+
+```Powershell
+DISM.exe /Unmount-Wim /MountDir:C:\test\offline /discard
+```
+- unmount the image
 # PW manager
 Wechsel von heylogin zu keypass als Standard autofill
 
