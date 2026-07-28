@@ -128,6 +128,7 @@
 	- [x] iso <font color="#ff69b4">runterladen</font>
 	- [ ] DISM /Online /Cleanup-Image /RestoreHealth /source:WIM:X:\Sources\Install.wim:1 /LimitAccess
 	- [ ] DISM /Online /Cleanup-Image /RestoreHealth
+	- [ ] <font color="#ff0000">hat nicht funktioniert</font>
 	- [ ] md C:\test\offline 
 		DISM.exe /Mount-Wim /WimFile:e:\sources\install.wim /index:2 /MountDir:C:\test\offline /ReadOnly
 		Dism.exe /Online /Cleanup-Image /restoreHealth /source:C:\test\offline /loglevel:4
