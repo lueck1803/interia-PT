@@ -124,8 +124,8 @@
 <font color="#e36c09">Produktiv?</font>
 - [x] Wanderschuhe anprobieren
 - [ ] DISM /Online /Cleanup-Image /RestoreHealth
-	- [x] DISM reparieren
-	- [ ] iso runterladen
+	- [x] DISM <font color="#c71585">reparieren</font>
+	- [ ] iso <font color="#ff69b4">runterladen</font>
 	- [ ] DISM /Online /Cleanup-Image /RestoreHealth /source:WIM:X:\Sources\Install.wim:1 /LimitAccess
 	- [ ] DISM /Online /Cleanup-Image /RestoreHealth
 - [ ] thunderboltkarte einbauen 
@@ -168,9 +168,9 @@
 - [ ] schneller schwimmen lernen 
 - [ ] probieren mit knöchel zu tappen, wie das jassy im video gemacht hat
 - [ ] cityrad bremse
-- [ ] helle rot töne dem farb muster hinzufügen
-	- [ ] bzw überhaupt eine dieser Spalten überarbeiten/hinzufügen, die sind momentan für mich schon extrem nutzlos
-	- [ ] wie mache ich das?
+- [x] helle rot töne dem farb muster hinzufügen
+	- [x] bzw überhaupt eine dieser Spalten überarbeiten/hinzufügen, die sind momentan für mich schon extrem nutzlos
+	- [x] wie mache ich das?
 - schuhe kaufen 
 	- [ ] über Laufschuhe informieren
 	- [ ] Laufschuhe 
