@@ -139,7 +139,7 @@
 - [x] Spülmaschine anstellen
 - [x] Spülmaschine ausräumen
 - [x] Balkonpflanzen gießen 
-- [ ] Duolingo
+- [x] Duolingo
 - [x] Email von letzter Woche an Arooj schreiben 
 	- Ne Antwort werde ich eh nicht bekommen.
 		Ich lasse mir noch ein paar Tage.
