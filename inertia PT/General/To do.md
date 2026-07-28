@@ -122,7 +122,7 @@
 - mich und mein Leben im Griff haben
 # unsortiert 
 <font color="#e36c09">Produktiv?</font>
-- [ ] Wanderschuhe anprobieren
+- [x] Wanderschuhe anprobieren
 - [ ] thunderboltkarte einbauen 
 - [ ] 3. bildschirm anschließen
 - [x] staubsaugen 
@@ -315,7 +315,7 @@
 		- [ ] nach der Anpassung der phones presets diese auch speichern
 	- [ ] presets für phones output anpassen an die Änderungen von den Out presets
 - [ ] Staubsauger Schlauch Verstopfung 
-- [ ] russisch aufschreiben, dafür ein Blatt anlegen 
+- [x] russisch aufschreiben, dafür ein Blatt anlegen 
 - [ ] Yogamatten auspacken und ausprobieren 
 - Waschbecken putzen 
 	- [x] Bad 
