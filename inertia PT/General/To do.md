@@ -240,8 +240,8 @@
 						- weird... ich sehe zwischen M .040 und 0.065 keinen signifikanten Unterschied. wenn man die PE wohl so weit erhöht, dann macht die Masse kaum noch etwas aus
 					- M 0.070 <font color="#ff0000">cluster</font> <font color="#92d050">fertig</font> <font color="#c815ff">snapshots</font>
 					- M 0.080 <font color="#ff0000">cluster</font> ✅☑
-					- [x] M 0.085 <font color="#ff0000">cluster</font> 
-					- [x] M 0.088 <font color="#ff0000">cluster</font> 
+					- M 0.085 <font color="#ff0000">cluster</font> ✅
+					- M 0.088 <font color="#ff0000">cluster</font> ✅
 					- M 0.090 <font color="#ff0000">cluster</font> ✅ ☑
 					- M 0.100 <font color="#ff0000">cluster</font> ✅☑
 				- PE 40
@@ -255,7 +255,7 @@
 					- M 0.070 <font color="#48d1cc">CPU 02</font> <font color="#92d050">fertig</font> <font color="#c815ff">snapshots</font>				
 					- M 0.080 <font color="#ff0000">cluster</font> ✅☑
 					- M 0.085 <font color="#ff0000">cluster</font> ✅☑
-					- [x] M 0.088 <font color="#ff0000">cluster</font> 
+					- M 0.088 <font color="#ff0000">cluster</font> ✅
 					- M 0.090 <font color="#ff0000">cluster</font> ✅☑
 					- M 0.100 <font color="#ff0000">cluster</font> ✅☑
 				- PE 45
@@ -268,10 +268,10 @@
 					- M 0.070 <font color="#ff0000">cluster</font>  ✅				
 					- M 0.080 <font color="#ff0000">cluster</font> ✅☑
 					- M 0.090 <font color="#ff0000">cluster</font> ✅			
-					- [x] M 0.085 <font color="#ff0000">cluster</font> 
-					- [x] M 0.088 <font color="#ff0000">cluster</font> 
+					- M 0.085 <font color="#ff0000">cluster</font> ✅
+					- M 0.088 <font color="#ff0000">cluster</font> ✅
 					- M 0.100 <font color="#ff0000">cluster</font> ✅☑
-					- [x] M 0.110 <font color="#ff0000">cluster</font> 
+					- M 0.110 <font color="#ff0000">cluster</font> ✅
 					- [x] M 0.120 <font color="#ff0000">cluster</font>  ❌
 					- [x] M 0.130 <font color="#ff0000">cluster</font> ❌
 					- [x] M 0.140 <font color="#ff0000">cluster</font> ❌
@@ -290,7 +290,7 @@
 					- [x] M 0.075 <font color="#ff0000">cluster</font> 
 					- M 0.080 <font color="#ff0000">cluster</font> ✅☑
 					- [x] M 0.085 <font color="#ff0000">cluster</font> 
-					- M 0.090 <font color="#ff0000">cluster</font> ✅
+					- M 0.090 <font color="#ff0000">cluster</font> ✅☑
 					- M 0.100 <font color="#ff0000">cluster</font> ✅
 				- PE 40
 					- [x] M 0.010 <font color="#ff0000">cluster</font> 
