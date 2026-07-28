@@ -291,7 +291,7 @@
 					- M 0.080 <font color="#ff0000">cluster</font> ✅☑
 					- [x] M 0.085 <font color="#ff0000">cluster</font> 
 					- M 0.090 <font color="#ff0000">cluster</font> ✅☑
-					- M 0.100 <font color="#ff0000">cluster</font> ✅
+					- M 0.100 <font color="#ff0000">cluster</font> ✅☑
 				- PE 40
 					- [x] M 0.010 <font color="#ff0000">cluster</font> 
 					- [x] M 0.020 <font color="#ff0000">cluster</font> 
