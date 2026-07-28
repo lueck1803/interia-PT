@@ -43,8 +43,8 @@
 	- [ ] Brooks Addiction GTS 15 ~ 76,81€
 	- [ ] Brooks Adrenaline GTS 25 ~ 96 €
 	- [ ] Salomon?
-- [ ] Wanderschuhe 
-- [ ] Fahrradhelm 
+- [x] Wanderschuhe (Aldi)
+- [ ] Fahrradhelm (wenn es im Aldi gibt?)
 - [x] destilliertes Wasser
 - [x] yoghurt 
 - [x] so ein soja Essen
