@@ -130,12 +130,9 @@
 - [ ] zurück schicken, wenn die docking station am samstag da ist
 	- [ ] die beiden Usb-c -> Thunderbolt kabel 
 	- [ ] das thunderbolt kabel, wenn es denn im briefkasten sein sollte...
+- [ ] Zähneputzen
 - [ ] Duolingo
 - [x] Schulgarten checken/gießen
-- [x] Aldi (pfand mitnehmen)
-	- [x] Bananen 
-	- Tofu (bevor es wieder keinen mehr gibt )
-	- Energie 
 - [ ] Balkonpflanzen gießen 
 - [x] Tastatur wischen 
 - [x] staubsaugen 
@@ -157,7 +154,6 @@
 	- [ ] Hefter
 - [ ] Maracuja umsetzen 
 - [ ] Papierkram 
-- [x] Zähneputzen
 - [ ] Olivendose + Käsedose anbohren ⟹ <font color="#953734">dafür neue Bohrmaschine nutzen</font>
 - [ ] zwei maronen umsetzen
 - [x] Spülmaschine anstellen
@@ -166,7 +162,6 @@
 - [ ] schneller schwimmen lernen 
 - [ ] probieren mit knöchel zu tappen, wie das jassy im video gemacht hat
 - [ ] cityrad bremse
-
 - schuhe kaufen 
 	- [ ] über Laufschuhe informieren
 	- [ ] Laufschuhe 
