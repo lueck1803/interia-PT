@@ -124,48 +124,32 @@
 # unsortiert 
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
+- [ ] usb-c -> dp so verlegen, dass ich den bildschirm gescheit nutzen kann
+- [ ] usb-c > dp mit 3. bildschirm testen, den schonmal hinstellen
 - [ ] briefkasten checken nach thunderbolt kabel?
 - [ ] zurück schicken, wenn die docking station am samstag da ist
 	- [ ] die beiden Usb-c -> Thunderbolt kabel 
-	- [ ] das thunderbolt kabel
-- [x] Duolingo
+	- [ ] das thunderbolt kabel, wenn es denn im briefkasten sein sollte...
+- [ ] Duolingo
 - [x] Schulgarten checken/gießen
 - [x] Aldi (pfand mitnehmen)
 	- [x] Bananen 
 	- Tofu (bevor es wieder keinen mehr gibt )
 	- Energie 
-- [x] Balkonpflanzen gießen 
+- [ ] Balkonpflanzen gießen 
 - [x] Tastatur wischen 
 - [x] staubsaugen 
-- [x] elias gudwis Hörbuch als mp3 aufs Handy ziehen 
-- [ ] Sofa 
-	- [x] Decken ausschütteln
-	- [x] ⤷ in die wäsche
-	- [x] schleudern 
-	- [x] 2. schleudern 
-	- [ ] aufhängen 
-	- [x] sofa saugen
-	- [ ] neue drauf
 - Backbleche
 	- [x] in Wohnung 
 	- [x] putzen
 	- [x] abtrocknen 
 	- [ ] in Vorratsschrank 
 - [x] Ceranfeld 
-- [x] Flaschendeckel Dichtung reinigen 
-	- [x] auch andere überprüfen 
-- [x] Flasche im Kühlschrank tauschen 
-- [x] Küchenhandtücher tauschen 
 - [ ] Krafttraining 
 - [x] rasieren 
 - [x] duschen
 - [ ] Teebaumöl auftragen
-- [ ] <font color="#c71585">thunderboltkarte</font> <font color="#ff69b4">einbauen</font> 
-	- [x] bevor ich den Karton öffne nochmal Video schauen 
-	- gut fährt nach dem Einbau immerhin schonmal hoch ⟹soweit grob nix kaputt gemacht 
-- [ ] 3. bildschirm anschließen
-- [x] Adapter von altem 24" Bildschirm entfernen/nutzen 
-	- [ ] Hauptbildschirm geht damit über HDMI 🥳
+- [ ] 3. bildschirm anschließen ⟹ geht momentan nicht...
 - [ ] Ticket für *my sleeping karma*
 	- [ ] ⤷ arthur bescheid geben
 - Papierkram 
@@ -182,9 +166,7 @@
 - [ ] schneller schwimmen lernen 
 - [ ] probieren mit knöchel zu tappen, wie das jassy im video gemacht hat
 - [ ] cityrad bremse
-- [x] helle rot töne dem farb muster hinzufügen
-	- [x] bzw überhaupt eine dieser Spalten überarbeiten/hinzufügen, die sind momentan für mich schon extrem nutzlos
-	- [x] wie mache ich das?
+
 - schuhe kaufen 
 	- [ ] über Laufschuhe informieren
 	- [ ] Laufschuhe 
@@ -1023,6 +1005,25 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] <span style="color:coral">paartherapie S3 runterladen</span>
 
 # Alt
+- [x] Adapter von altem 24" Bildschirm entfernen/nutzen 
+	- [x] Hauptbildschirm geht damit über HDMI 🥳
+- [x] <font color="#c71585">thunderboltkarte</font> <font color="#ff69b4">einbauen</font> 
+	- [x] bevor ich den Karton öffne nochmal Video schauen 
+	- gut fährt nach dem Einbau immerhin schonmal hoch ⟹soweit grob nix kaputt gemacht 
+- [x] Flaschendeckel Dichtung reinigen 
+	- [x] auch andere überprüfen 
+- [x] elias gudwis Hörbuch als mp3 aufs Handy ziehen 
+- Sofa 
+	- [x] Decken ausschütteln
+	- [x] ⤷ in die wäsche
+	- [x] schleudern 
+	- [x] 2. schleudern 
+	- [x] aufhängen 
+	- [x] sofa saugen
+	- [ ] neue drauf
+- [x] helle rot töne dem farb muster hinzufügen
+	- [x] bzw überhaupt eine dieser Spalten überarbeiten/hinzufügen, die sind momentan für mich schon extrem nutzlos
+	- [x] wie mache ich das?
 - [x] DISM /Online /Cleanup-Image /RestoreHealth
 	- [x] DISM <font color="#c71585">reparieren</font>
 	- [x] iso <font color="#ff69b4">runterladen</font>
