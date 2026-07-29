@@ -138,7 +138,7 @@
 	- [x] Decken ausschütteln
 	- [x] ⤷ in die wäsche
 	- [x] schleudern 
-	- [ ] aufha
+	- [ ] aufhängen 
 	- [x] sofa saugen
 	- [ ] neue drauf
 - Backbleche
