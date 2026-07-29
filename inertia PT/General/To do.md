@@ -136,6 +136,10 @@
 	- [ ] ⤷ in die wäsche
 	- [ ] sofa saugen
 	- [ ] neue drauf
+- Backbleche
+	- [x] in Wohnung 
+	- [ ] putzen
+	- [ ] in Vorratsschrank 
 - [ ] Krafttraining 
 - [ ] rasieren 
 - [ ] duschen
@@ -161,8 +165,6 @@
 - [ ] zwei maronen umsetzen
 - [x] Spülmaschine anstellen
 - [x] Spülmaschine ausräumen
-- [ ] laufschuhe bestellen
-
 - [ ] yoga
 - [ ] schneller schwimmen lernen 
 - [ ] probieren mit knöchel zu tappen, wie das jassy im video gemacht hat
@@ -181,9 +183,6 @@
 	- [ ] Rindenmulch 
 	- [ ] Sand 
 - [x] Nasenhaare schneiden 
-- Papierkram 
-	- [ ] kassenbons
-	- [ ] Hefter
 - [ ] friseur 
 - [ ] Fahrradhelm 
 	- [ ] Band einstellen 
@@ -195,10 +194,6 @@
 - [ ] https://youtu.be/m7U0353WlrQ?is=TmQ2HPznlXkCOWgo <br> aufschreiben 
 - [ ] https://youtu.be/npQ2IORdlvU?is=uOARePu3UtjA5gfw <br> aufschreiben 
 - [ ] terra cotta farbenen topf reparieren 
-- Backbleche
-	- [x] in Wohnung 
-	- [ ] putzen
-	- [ ] in Vorratsschrank 
 - [ ] Notizen zu <font color="#b088ff">Älter als das Leben</font> machen 
 	- [ ] Kommentar fertig schreiben 
 - [ ] bot Garten Ausdrucke lesen 
@@ -344,9 +339,6 @@
 - [ ] Staubsauger Schlauch Verstopfung 
 - [x] russisch aufschreiben, dafür ein Blatt anlegen 
 - [ ] Yogamatten auspacken und ausprobieren 
-- Waschbecken putzen 
-	- [x] Bad 
-	- [x] Küche 
 - [ ] Freitag letzte Ferienwoche ist Anfangskonferenz 
 - [ ] Ordner für Schule anlegen um Zeug abzuheften
 - [ ] ohr eincremen /Teebaumöl 
@@ -462,7 +454,9 @@
 		Ist vielleicht besser noch weiter und länger Distanz zu wahren. 
 
 		Ich weiß ja eigentlich dass ich damit dann doch unterbewusst zu viel kämpfe, so dass ich das wichtige aus den Augen verliere
-
+- Waschbecken putzen 
+	- [x] Bad 
+	- [x] Küche 
 # tägliches
 
 ## Wohnbereich 
