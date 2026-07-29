@@ -138,7 +138,8 @@
 	- [ ] neue drauf
 - Backbleche
 	- [x] in Wohnung 
-	- [ ] putzen
+	- [x] putzen
+	- [ ] trocknen lassen 
 	- [ ] in Vorratsschrank 
 - [x] Ceranfeld 
 - [x] Flaschendeckel Dichtung reinigen 
