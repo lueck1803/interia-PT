@@ -458,6 +458,8 @@
 		Ich weiß ja eigentlich dass ich damit dann doch unterbewusst zu viel kämpfe, so dass ich das wichtige aus den Augen verliere
 	- Arooj schreiben insbesondere wegen Elias Gudwis <font color="#7cfc00">Selbstbefreiung</font> <br> Stichworte:
 		- musste mich um meine eitrigen Wunden kümmern und den Schmutz hinaus laufen lassen 
+		- dafür bedanken dass sie mir auch immer den Spiegel vorgehalten und mir so mit Wachstum ermöglicht hat. 
+			- so wie Arooj es letztes Jahr auch zu mir gesagt hat 11.5.
 
 	- Email an Arooj aus Nachrichten an Leute heraus kopieren, strukturieren und filtern 
 - Waschbecken putzen 
