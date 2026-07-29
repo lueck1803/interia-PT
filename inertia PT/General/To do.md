@@ -141,7 +141,8 @@
 	- [ ] putzen
 	- [ ] in Vorratsschrank 
 - [ ] Ceranfeld 
-- [ ] Flaschendeckel Dichtung reinigen 
+- [x] Flaschendeckel Dichtung reinigen 
+	- [x] auch andere überprüfen 
 - [ ] Krafttraining 
 - [ ] rasieren 
 - [ ] duschen
