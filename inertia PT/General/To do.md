@@ -133,6 +133,7 @@
 	- [ ] das thunderbolt kabel, wenn es denn im briefkasten sein sollte...
 - [ ] Zähneputzen
 - [ ] Duolingo
+- [ ] Aldi Prospekte anschauen 
 - [x] Schulgarten checken/gießen
 - [ ] Balkonpflanzen gießen 
 - [x] Tastatur wischen 
