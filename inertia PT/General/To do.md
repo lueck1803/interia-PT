@@ -126,6 +126,7 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 - [ ] usb-c -> dp so verlegen, dass ich den bildschirm gescheit nutzen kann
 - [ ] usb-c > dp mit 3. bildschirm testen, den schonmal hinstellen
+- [ ] laptop mit ubc->dp kabel am bildschirm testen
 - [ ] briefkasten checken nach thunderbolt kabel?
 - [ ] zurück schicken, wenn die docking station am samstag da ist
 	- [ ] die beiden Usb-c -> Thunderbolt kabel 
