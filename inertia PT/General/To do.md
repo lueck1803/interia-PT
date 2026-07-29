@@ -140,10 +140,11 @@
 	- [x] in Wohnung 
 	- [ ] putzen
 	- [ ] in Vorratsschrank 
-- [ ] Ceranfeld 
+- [x] Ceranfeld 
 - [x] Flaschendeckel Dichtung reinigen 
 	- [x] auch andere überprüfen 
 - [ ] Flasche im Kühlschrank tauschen 
+- [ ] Küchenhandtücher tauschen 
 - [ ] Krafttraining 
 - [ ] rasieren 
 - [ ] duschen
