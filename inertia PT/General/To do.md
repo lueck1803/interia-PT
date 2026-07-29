@@ -122,6 +122,7 @@
 - mich und mein Leben im Griff haben
 # unsortiert 
 <font color="#e36c09">Produktiv?</font>
+- [ ] Duolingo
 - [ ] Schulgarten checken/gießen
 - [ ] Aldi (pfand mitnehmen)
 	- [ ] Bananen 
