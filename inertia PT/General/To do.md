@@ -138,6 +138,8 @@
 - [ ] duschen
 - [ ] <font color="#c71585">thunderboltkarte</font> <font color="#ff69b4">einbauen</font> 
 - [ ] 3. bildschirm anschließen
+- [ ] ticket für my sleeping karma bestellen
+	- [ ] ⤷ arthur bescheid geben
 - [x] Wanderschuhe anprobieren
 - [x] DISM /Online /Cleanup-Image /RestoreHealth
 	- [x] DISM <font color="#c71585">reparieren</font>
@@ -156,19 +158,7 @@
 - [ ] zwei maronen umsetzen
 - [x] Spülmaschine anstellen
 - [x] Spülmaschine ausräumen
-- [x] Email von letzter Woche an Arooj schreiben 
-	- Ne Antwort werde ich eh nicht bekommen.
-		Ich lasse mir noch ein paar Tage.
-
-		Im Prinzip weiß ich es ja für mich.🤷‍♂️
-
-		Ist vielleicht besser noch weiter und länger Distanz zu wahren. 
-
-		Ich weiß ja eigentlich dass ich damit dann doch unterbewusst zu viel kämpfe, so dass ich das wichtige aus den Augen verliere
-
 - [ ] laufschuhe bestellen
-- [ ] ticket für my sleeping karma bestellen
-	- [ ] ⤷ arthur bescheid geben
 
 - [ ] yoga
 - [ ] schneller schwimmen lernen 
@@ -461,6 +451,16 @@
 	- [ ] zum radelmal und fragen ob meine Sitzposition passt?
 	- [x] am Hügel testen wie es sich fährt 
 	- [x] Fahrradflasche an anderer Stelle anbringen?
+- [x] Email von letzter Woche an Arooj schreiben 
+	- Ne Antwort werde ich eh nicht bekommen.
+		Ich lasse mir noch ein paar Tage.
+
+		Im Prinzip weiß ich es ja für mich.🤷‍♂️
+
+		Ist vielleicht besser noch weiter und länger Distanz zu wahren. 
+
+		Ich weiß ja eigentlich dass ich damit dann doch unterbewusst zu viel kämpfe, so dass ich das wichtige aus den Augen verliere
+
 # tägliches
 
 ## Wohnbereich 
