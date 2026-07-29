@@ -129,7 +129,7 @@
 	- Tofu (bevor es wieder keinen mehr gibt )
 	- Energie 
 - [ ] Balkonpflanzen gießen 
-- [ ] Tastatur wischen 
+- [x] Tastatur wischen 
 - [ ] staubsaugen 
 - [ ] Sofa 
 	- [ ] Decken ausschütteln
