@@ -136,6 +136,7 @@
 	- [ ] ⤷ in die wäsche
 	- [ ] sofa saugen
 	- [ ] neue drauf
+- [ ] Krafttraining 
 - [ ] rasieren 
 - [ ] duschen
 - [ ] Teebaumöl auftragen
