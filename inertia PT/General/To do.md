@@ -457,6 +457,7 @@
 
 		Ich weiß ja eigentlich dass ich damit dann doch unterbewusst zu viel kämpfe, so dass ich das wichtige aus den Augen verliere
 	- Arooj schreiben insbesondere wegen Elias Gudwis <font color="#7cfc00">Selbstbefreiung</font> 
+	- Email an Arooj 
 - Waschbecken putzen 
 	- [x] Bad 
 	- [x] Küche 
