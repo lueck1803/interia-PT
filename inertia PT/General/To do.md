@@ -141,7 +141,7 @@
 	- [ ] putzen
 	- [ ] in Vorratsschrank 
 - [ ] Ceranfeld 
-- [ ] Flaschendeck
+- [ ] Flaschendeckel Dichtung reinigen 
 - [ ] Krafttraining 
 - [ ] rasieren 
 - [ ] duschen
