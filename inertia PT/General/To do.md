@@ -132,6 +132,7 @@
 - [ ] Balkonpflanzen gießen 
 - [x] Tastatur wischen 
 - [x] staubsaugen 
+- [ ] elias gudwis Hörbuch als mp3 aufs Handy ziehen 
 - [ ] Sofa 
 	- [ ] Decken ausschütteln
 	- [ ] ⤷ in die wäsche
