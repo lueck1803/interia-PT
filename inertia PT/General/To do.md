@@ -138,6 +138,7 @@
 	- [x] Decken ausschütteln
 	- [x] ⤷ in die wäsche
 	- [x] schleudern 
+	- [x] 2. schleudern 
 	- [ ] aufhängen 
 	- [x] sofa saugen
 	- [ ] neue drauf
