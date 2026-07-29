@@ -144,7 +144,7 @@
 - [x] Flaschendeckel Dichtung reinigen 
 	- [x] auch andere überprüfen 
 - [ ] Flasche im Kühlschrank tauschen 
-- [ ] Küchenhandtücher tauschen 
+- [x] Küchenhandtücher tauschen 
 - [ ] Krafttraining 
 - [ ] rasieren 
 - [ ] duschen
