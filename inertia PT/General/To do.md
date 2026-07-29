@@ -135,8 +135,9 @@
 - [x] staubsaugen 
 - [x] elias gudwis Hörbuch als mp3 aufs Handy ziehen 
 - [ ] Sofa 
-	- [ ] Decken ausschütteln
-	- [ ] ⤷ in die wäsche
+	- [x] Decken ausschütteln
+	- [x] ⤷ in die wäsche
+	- [ ] 
 	- [x] sofa saugen
 	- [ ] neue drauf
 - Backbleche
