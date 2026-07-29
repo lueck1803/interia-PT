@@ -160,16 +160,6 @@
 - Papierkram 
 	- [ ] kassenbons
 	- [ ] Hefter
-- [x] Wanderschuhe anprobieren
-- [x] DISM /Online /Cleanup-Image /RestoreHealth
-	- [x] DISM <font color="#c71585">reparieren</font>
-	- [x] iso <font color="#ff69b4">runterladen</font>
-	- [ ] DISM /Online /Cleanup-Image /RestoreHealth /source:WIM:X:\Sources\Install.wim:1 /LimitAccess
-	- [ ] DISM /Online /Cleanup-Image /RestoreHealth
-	- [ ] <font color="#ff0000">hat nicht funktioniert</font>
-	- [ ] md C:\test\offline 
-		DISM.exe /Mount-Wim /WimFile:e:\sources\install.wim /index:2 /MountDir:C:\test\offline /ReadOnly
-		Dism.exe /Online /Cleanup-Image /restoreHealth /source:C:\test\offline /loglevel:4
 - [ ] Maracuja umsetzen 
 - [ ] Papierkram 
 - [x] Zähneputzen
@@ -1017,6 +1007,15 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] <span style="color:coral">paartherapie S3 runterladen</span>
 
 # Alt
+- [x] DISM /Online /Cleanup-Image /RestoreHealth
+	- [x] DISM <font color="#c71585">reparieren</font>
+	- [x] iso <font color="#ff69b4">runterladen</font>
+	- [ ] DISM /Online /Cleanup-Image /RestoreHealth /source:WIM:X:\Sources\Install.wim:1 /LimitAccess
+	- [ ] DISM /Online /Cleanup-Image /RestoreHealth
+	- [ ] <font color="#ff0000">hat nicht funktioniert</font>
+	- [ ] md C:\test\offline 
+		DISM.exe /Mount-Wim /WimFile:e:\sources\install.wim /index:2 /MountDir:C:\test\offline /ReadOnly
+		Dism.exe /Online /Cleanup-Image /restoreHealth /source:C:\test\offline /loglevel:4
 - [x] Steinsammlung weg 
 - Lagerinventur exceltabellen 
 	- mergen
