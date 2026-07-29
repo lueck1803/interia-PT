@@ -137,7 +137,8 @@
 - [ ] Sofa 
 	- [x] Decken ausschütteln
 	- [x] ⤷ in die wäsche
-	- [ ] schleudern 
+	- [x] schleudern 
+	- [ ] aufha
 	- [x] sofa saugen
 	- [ ] neue drauf
 - Backbleche
@@ -155,7 +156,7 @@
 - [x] duschen
 - [ ] Teebaumöl auftragen
 - [ ] <font color="#c71585">thunderboltkarte</font> <font color="#ff69b4">einbauen</font> 
-	- [ ] bevor ich den Karton öffne nochmal Video schauen 
+	- [x] bevor ich den Karton öffne nochmal Video schauen 
 - [ ] 3. bildschirm anschließen
 - [ ] Ticket für *my sleeping karma*
 	- [ ] ⤷ arthur bescheid geben
