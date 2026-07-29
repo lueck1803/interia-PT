@@ -122,10 +122,11 @@
 - mich und mein Leben im Griff haben
 # unsortiert 
 <font color="#e36c09">Produktiv?</font>
-- [ ] Duolingo
-- [ ] Schulgarten checken/gießen
-- [ ] Aldi (pfand mitnehmen)
-	- [ ] Bananen 
+- [x] Duolingo
+- [x] Schulgarten checken/gießen
+- [x] Aldi (pfand mitnehmen)
+	- [x] Bananen 
+	- Tofu (bevor )
 - [ ] Balkonpflanzen gießen 
 - [ ] Tastatur wischen 
 - [ ] staubsaugen 
