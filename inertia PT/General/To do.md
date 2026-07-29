@@ -137,7 +137,7 @@
 - [ ] Sofa 
 	- [ ] Decken ausschütteln
 	- [ ] ⤷ in die wäsche
-	- [ ] sofa saugen
+	- [x] sofa saugen
 	- [ ] neue drauf
 - Backbleche
 	- [x] in Wohnung 
