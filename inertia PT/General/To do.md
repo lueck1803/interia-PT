@@ -148,6 +148,9 @@
 - [ ] 3. bildschirm anschließen
 - [ ] Ticket für *my sleeping karma*
 	- [ ] ⤷ arthur bescheid geben
+- Papierkram 
+	- [ ] kassenbons
+	- [ ] Hefter
 - [x] Wanderschuhe anprobieren
 - [x] DISM /Online /Cleanup-Image /RestoreHealth
 	- [x] DISM <font color="#c71585">reparieren</font>
