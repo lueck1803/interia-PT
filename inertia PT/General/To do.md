@@ -130,7 +130,7 @@
 	- [x] Bananen 
 	- Tofu (bevor es wieder keinen mehr gibt )
 	- Energie 
-- [ ] Balkonpflanzen gießen 
+- [x] Balkonpflanzen gießen 
 - [x] Tastatur wischen 
 - [x] staubsaugen 
 - [x] elias gudwis Hörbuch als mp3 aufs Handy ziehen 
@@ -142,7 +142,7 @@
 - Backbleche
 	- [x] in Wohnung 
 	- [x] putzen
-	- [ ] trocknen lassen 
+	- [x] trocknen lassen 
 	- [ ] in Vorratsschrank 
 - [x] Ceranfeld 
 - [x] Flaschendeckel Dichtung reinigen 
