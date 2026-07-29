@@ -123,7 +123,7 @@
 - mich und mein Leben im Griff haben
 # unsortiert 
 <font color="#e36c09">Produktiv?</font>
-Selbstbefreiung hören 
+<font color="#7cfc00">Selbstbefreiung hören</font> 
 - [x] Duolingo
 - [x] Schulgarten checken/gießen
 - [x] Aldi (pfand mitnehmen)
@@ -133,7 +133,7 @@ Selbstbefreiung hören
 - [ ] Balkonpflanzen gießen 
 - [x] Tastatur wischen 
 - [x] staubsaugen 
-- [ ] elias gudwis Hörbuch als mp3 aufs Handy ziehen 
+- [x] elias gudwis Hörbuch als mp3 aufs Handy ziehen 
 - [ ] Sofa 
 	- [ ] Decken ausschütteln
 	- [ ] ⤷ in die wäsche
@@ -147,7 +147,7 @@ Selbstbefreiung hören
 - [x] Ceranfeld 
 - [x] Flaschendeckel Dichtung reinigen 
 	- [x] auch andere überprüfen 
-- [ ] Flasche im Kühlschrank tauschen 
+- [x] Flasche im Kühlschrank tauschen 
 - [x] Küchenhandtücher tauschen 
 - [ ] Krafttraining 
 - [ ] rasieren 
