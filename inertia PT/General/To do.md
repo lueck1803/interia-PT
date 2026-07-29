@@ -134,6 +134,7 @@
 	- [ ] ⤷ in die wäsche
 	- [ ] sofa saugen
 	- [ ] neue drauf
+- [ ] rasieren 
 - [ ] duschen
 - [ ] <font color="#c71585">thunderboltkarte</font> <font color="#ff69b4">einbauen</font> 
 - [ ] 3. bildschirm anschließen
