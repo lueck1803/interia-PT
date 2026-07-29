@@ -143,6 +143,7 @@
 - [ ] Ceranfeld 
 - [x] Flaschendeckel Dichtung reinigen 
 	- [x] auch andere überprüfen 
+- [ ] Flasche im Kühlschrank tauschen 
 - [ ] Krafttraining 
 - [ ] rasieren 
 - [ ] duschen
