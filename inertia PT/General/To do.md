@@ -158,6 +158,7 @@
 - [ ] <font color="#c71585">thunderboltkarte</font> <font color="#ff69b4">einbauen</font> 
 	- [x] bevor ich den Karton öffne nochmal Video schauen 
 - [ ] 3. bildschirm anschließen
+- [ ] Adapter von altem 24" Bildschirm entfernen/nutzen 
 - [ ] Ticket für *my sleeping karma*
 	- [ ] ⤷ arthur bescheid geben
 - Papierkram 
