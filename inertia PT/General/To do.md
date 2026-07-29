@@ -124,6 +124,10 @@
 # unsortiert 
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
+- [ ] briefkasten checken nach thunderbolt kabel?
+- [ ] zurück schicken, wenn die docking station am samstag da ist
+	- [ ] die beiden Usb-c -> Thunderbolt kabel 
+	- [ ] das thunderbolt kabel
 - [x] Duolingo
 - [x] Schulgarten checken/gießen
 - [x] Aldi (pfand mitnehmen)
