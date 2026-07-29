@@ -151,9 +151,10 @@
 - [x] Flasche im Kühlschrank tauschen 
 - [x] Küchenhandtücher tauschen 
 - [ ] Krafttraining 
-- [ ] rasieren 
-- [ ] duschen
+- [x] rasieren 
+- [x] duschen
 - [ ] Teebaumöl auftragen
+- [ ] bev
 - [ ] <font color="#c71585">thunderboltkarte</font> <font color="#ff69b4">einbauen</font> 
 - [ ] 3. bildschirm anschließen
 - [ ] Ticket für *my sleeping karma*
