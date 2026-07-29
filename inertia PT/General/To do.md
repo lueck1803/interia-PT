@@ -7,7 +7,7 @@
 	- Schlafqualität
 		- ⟹ genug Tiefschlafphasen: Erholung
 		- ⟹ genug REM Schlafphasen: emotionale Verarbeitung 
-			- ⤷ wobei mich die <font color="#fac08f">Träume</font>, <font color="#b2a2c7">gerade die kurz</font> vor <font color="#c71585">dem Aufwachen</font>, so sehr benebeln
+			- ⤷ wobei mich die <font color="#fac08f">Träume</font>, <font color="#b2a2c7">gerade die kurz</font> vor <font color="#c71585">dem Aufwachen</font>, so sehr <font color="#daa520">benebeln</font>
 ## oberste Priorität:
 - ich will <font color="#ff0000">kein</font> <font color="#7cfc00">sklave</font> mehr sein
 	- befreie dich oder gehe zu Grunde 
@@ -131,7 +131,7 @@
 	- Energie 
 - [ ] Balkonpflanzen gießen 
 - [x] Tastatur wischen 
-- [ ] staubsaugen 
+- [x] staubsaugen 
 - [ ] Sofa 
 	- [ ] Decken ausschütteln
 	- [ ] ⤷ in die wäsche
