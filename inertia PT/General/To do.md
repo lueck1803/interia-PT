@@ -7,6 +7,7 @@
 	- Schlafqualität
 		- ⟹ genug Tiefschlafphasen: Erholung
 		- ⟹ genug REM Schlafphasen: emotionale Verarbeitung 
+			- ⤷ wobei mich
 ## oberste Priorität:
 - ich will <font color="#ff0000">kein</font> <font color="#7cfc00">sklave</font> mehr sein
 	- befreie dich oder gehe zu Grunde 
