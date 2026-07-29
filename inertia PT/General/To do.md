@@ -457,7 +457,7 @@
 	- [ ] zum radelmal und fragen ob meine Sitzposition passt?
 	- [x] am Hügel testen wie es sich fährt 
 	- [x] Fahrradflasche an anderer Stelle anbringen?
-- [x] Email von letzter Woche an Arooj schreiben 
+- [ ] Email von letzter Woche an Arooj schreiben 
 	- Ne Antwort werde ich eh nicht bekommen.
 		Ich lasse mir noch ein paar Tage.
 
@@ -466,6 +466,7 @@
 		Ist vielleicht besser noch weiter und länger Distanz zu wahren. 
 
 		Ich weiß ja eigentlich dass ich damit dann doch unterbewusst zu viel kämpfe, so dass ich das wichtige aus den Augen verliere
+	- Arooj schreiben insbesondere wegen Elias Gudwis <font color="#7cfc00">Selbstbefreiung</font> 
 - Waschbecken putzen 
 	- [x] Bad 
 	- [x] Küche 
