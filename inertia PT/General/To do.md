@@ -126,7 +126,8 @@
 - [x] Schulgarten checken/gießen
 - [x] Aldi (pfand mitnehmen)
 	- [x] Bananen 
-	- Tofu (bevor )
+	- Tofu (bevor es wieder keinen mehr gibt )
+	- Energie 
 - [ ] Balkonpflanzen gießen 
 - [ ] Tastatur wischen 
 - [ ] staubsaugen 
