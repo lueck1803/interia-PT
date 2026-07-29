@@ -142,7 +142,7 @@
 - Backbleche
 	- [x] in Wohnung 
 	- [x] putzen
-	- [x] trocknen lassen 
+	- [x] abtrocknen 
 	- [ ] in Vorratsschrank 
 - [x] Ceranfeld 
 - [x] Flaschendeckel Dichtung reinigen 
