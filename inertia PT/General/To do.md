@@ -141,6 +141,7 @@
 	- [ ] putzen
 	- [ ] in Vorratsschrank 
 - [ ] Ceranfeld 
+- [ ] Flaschendeck
 - [ ] Krafttraining 
 - [ ] rasieren 
 - [ ] duschen
