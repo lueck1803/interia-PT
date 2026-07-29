@@ -122,8 +122,22 @@
 - mich und mein Leben im Griff haben
 # unsortiert 
 <font color="#e36c09">Produktiv?</font>
+- [ ] Schulgarten checken/gießen
+- [ ] Aldi (pfand mitnehmen)
+	- [ ] Bananen 
+- [ ] Balkonpflanzen gießen 
+- [ ] Tastatur wischen 
+- [ ] staubsaugen 
+- [ ] Sofa 
+	- [ ] Decken ausschütteln
+	- [ ] ⤷ in die wäsche
+	- [ ] sofa saugen
+	- [ ] neue drauf
+- [ ] duschen
+- [ ] <font color="#c71585">thunderboltkarte</font> <font color="#ff69b4">einbauen</font> 
+- [ ] 3. bildschirm anschließen
 - [x] Wanderschuhe anprobieren
-- [ ] DISM /Online /Cleanup-Image /RestoreHealth
+- [x] DISM /Online /Cleanup-Image /RestoreHealth
 	- [x] DISM <font color="#c71585">reparieren</font>
 	- [x] iso <font color="#ff69b4">runterladen</font>
 	- [ ] DISM /Online /Cleanup-Image /RestoreHealth /source:WIM:X:\Sources\Install.wim:1 /LimitAccess
@@ -132,23 +146,14 @@
 	- [ ] md C:\test\offline 
 		DISM.exe /Mount-Wim /WimFile:e:\sources\install.wim /index:2 /MountDir:C:\test\offline /ReadOnly
 		Dism.exe /Online /Cleanup-Image /restoreHealth /source:C:\test\offline /loglevel:4
-- [ ] <font color="#c71585">thunderboltkarte</font> <font color="#ff69b4">einbauen</font> 
-- [ ] 3. bildschirm anschließen
-- [x] staubsaugen 
 - [x] Teebaumöl auftragen
 - [ ] Maracuja umsetzen 
 - [ ] Papierkram 
-- [x] Tastatur wischen 
 - [x] Zähneputzen
-- [x] duschen
-- [x] Aldi (pfand mitnehmen)
-- [x] Schulgarten checken/gießen
 - [ ] Olivendose + Käsedose anbohren ⟹ <font color="#953734">dafür neue Bohrmaschine nutzen</font>
 - [ ] zwei maronen umsetzen
 - [x] Spülmaschine anstellen
 - [x] Spülmaschine ausräumen
-- [x] Balkonpflanzen gießen 
-- [x] Duolingo
 - [x] Email von letzter Woche an Arooj schreiben 
 	- Ne Antwort werde ich eh nicht bekommen.
 		Ich lasse mir noch ein paar Tage.
@@ -162,11 +167,6 @@
 - [ ] laufschuhe bestellen
 - [ ] ticket für my sleeping karma bestellen
 	- [ ] ⤷ arthur bescheid geben
-- [ ] Sofa 
-	- [ ] Decken ausschütteln
-	- [ ] ⤷ in die wäsche
-	- [ ] sofa saugen
-	- [ ] neue drauf
 
 - [ ] yoga
 - [ ] schneller schwimmen lernen 
