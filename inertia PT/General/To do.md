@@ -140,6 +140,7 @@
 	- [x] in Wohnung 
 	- [ ] putzen
 	- [ ] in Vorratsschrank 
+- [ ] Ceranfeld 
 - [ ] Krafttraining 
 - [ ] rasieren 
 - [ ] duschen
