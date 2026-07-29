@@ -142,7 +142,7 @@
 - [ ] Teebaumöl auftragen
 - [ ] <font color="#c71585">thunderboltkarte</font> <font color="#ff69b4">einbauen</font> 
 - [ ] 3. bildschirm anschließen
-- [ ] ticket für my sleeping karma bestellen
+- [ ] Ticket für *my sleeping karma*
 	- [ ] ⤷ arthur bescheid geben
 - [x] Wanderschuhe anprobieren
 - [x] DISM /Online /Cleanup-Image /RestoreHealth
@@ -191,7 +191,6 @@
 - [ ] neuen Fahrradhelm kaufen 
 - [ ] Gewicht in kabelfach der schwarzen gitarre tun
 - [ ] linken Gartenhandschuh flicken
-- [ ] Ticket für *my sleeping karma*
 - [ ] https://youtu.be/M4O4L2tL-nk?is=Bm9SNS8mzs6SKPaI <br> aufschreiben 
 - [ ] https://youtu.be/m7U0353WlrQ?is=TmQ2HPznlXkCOWgo <br> aufschreiben 
 - [ ] https://youtu.be/npQ2IORdlvU?is=uOARePu3UtjA5gfw <br> aufschreiben 
