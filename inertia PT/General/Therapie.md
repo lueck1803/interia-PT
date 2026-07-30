@@ -284,6 +284,11 @@ flowchart TB
 
 # Tagebuch?
 ## 2026-07-30
+gibt einfach Tage und Situationen, insbesondere wenn ich zu viele Entscheidungen getroffen habe, die mit für mich nicht so einfachen bzw. langanhaltenden Themen zu tun haben, dass ich mich so schwach, schmutzig, mein Blick auf mich in der Vergangenheit ist, dass ich so bösartig zerstreut war und bin.
+ich mich dafür so extrem schuldig fühle. Wie auch für bei so schönen Dingen wie bei meiner Radtour am Sonntag.
+
+ Insbesondere fühle ich mich schuldig gegenüber Arooj.
+
 
 ## 2026-07-27
 Heute war wieder ein sehr chaosreicher "Start" (bis nachmittags hat es gedauert) in den Tag.
