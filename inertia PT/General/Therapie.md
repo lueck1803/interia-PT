@@ -308,6 +308,19 @@ ich denke sie hat es bei sich als etwas schwaches angesehen und dann irgendwie v
 war schon immer echt hart/schwer gegen ihre Überzeugungen die sie dann da hatte anzukommen.
 
 es kam bei mir so rüber, als würde sie das mir eh nicht glauben.
+
+#### was war echt?
+es war schön, zusammen so sein zu können. ein Teil des Ich ausleben zu können.
+
+Ich mag es deshalb ja auch mich zusammen mit kindern zu freuen und an deren Gedankenwelt zu erfreuen, das hat Arooj ja auch gemacht.
+
+hat sich im Nachhinein so angefühlt, als wäre das an mir falsch und würde pathologisiert werden.
+Sie hat ja eh alles was mit mir in Zusammenhang stand plötzlich abgelehnt.
+
+war komisch... 
+als wenn sie sich immer nur verstellt hätte vorher und alles eine Zwangsveranstaltung war.
+dabei war es genau das Gegenteil.
+aber wenn ich das vermittelt habe, dass mir wichtig ist, dass sie sagt dass sie etwas nicht will, dann war es als wollte ich sie nicht dabei haben
 ### Kanonenfieber
 gar nicht so dramatisch 🤭
 einfach zu viel gehört, aber nicht tot gehört oder so.
