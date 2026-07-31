@@ -204,7 +204,7 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 	- [ ] die beiden Usb-c -> Thunderbolt kabel 
 	- [ ] das thunderbolt kabel, wenn es denn im briefkasten sein sollte...
 - [x] Aldi Prospekte anschauen 
-- [ ] weiße Gitarre auf Drop D stimmen 
+- [x] weiße Gitarre auf Drop D stimmen 
 	- [ ] ⤷ dream and the waking 
 		- [ ] Mal nur rythm während dem Melodie part
 		- [ ] bzw jetzt kann ich es sicherlich auch mit 
