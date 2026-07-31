@@ -141,10 +141,10 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 	- [ ] nochmal mit zange 
 	- [ ] bzw. Außenvierkant 
 - Aldi (Pfand)
-	- [ ] Saft 
-	- [ ] bier
-- [ ] Briefkasten checken
-	- [ ] Zeug ist schon angekommen 
+	- [x] Saft 
+	- [x] bier
+- Briefkasten checken
+	- [x] Zeug ist schon angekommen 
 	- [ ] PC fertig machen 
 	- [ ] Zeug zum zurück schicken bereit machen 
 - [ ] duschen
