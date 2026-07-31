@@ -124,6 +124,12 @@
 # unsortiert 
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
+
+Nosfe-Arthur ⇔ Nosfe-Rita 
+
+- [x] Bettwäsche wechseln 
+- [ ] Wetterstation beide Batterien wechseln 
+
 - [ ] usb-c -> dp so verlegen, dass ich den bildschirm gescheit nutzen kann
 - [ ] usb-c > dp mit 3. bildschirm testen, den schonmal hinstellen
 - [ ] laptop mit ubc->dp kabel am bildschirm testen
@@ -131,11 +137,20 @@
 - [ ] zurück schicken, wenn die docking station am samstag da ist
 	- [ ] die beiden Usb-c -> Thunderbolt kabel 
 	- [ ] das thunderbolt kabel, wenn es denn im briefkasten sein sollte...
-- [ ] Zähneputzen
-- [ ] Duolingo
-- [ ] Aldi Prospekte anschauen 
+- [ ] Zähne putzen
+- [x] Duolingo
+- [x] Aldi Prospekte anschauen 
+- [ ] weiße Gitarre auf Drop D stimmen 
+	- [ ] ⤷ dream and the waking 
+		- [ ] Mal nur rythm während dem Melodie part
+		- [ ] bzw jetzt kann ich es sicherlich auch mit 
+	- [ ] fraught
+- [ ] schwarze auf D
+	- [ ] countless skies
+	- [ ] from scythe to scepter 
+	- [ ] smoke of many fires
 - [x] Schulgarten checken/gießen
-- [ ] Balkonpflanzen gießen 
+- [x] Balkonpflanzen gießen 
 - [x] Tastatur wischen 
 - [x] staubsaugen 
 - Backbleche
