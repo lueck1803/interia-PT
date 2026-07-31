@@ -127,7 +127,7 @@
 
 Nosfe-Arthur ⇔ Nosfe-Rita 
 - [ ] Wetterstation beide Batterien wechseln 
-	- [ ] außenstation checken ⟹
+	- [x] außenstation checken ⟹scheint wohl wieder zu funken
 - [ ] Zähne putzen
 - [ ] Balkonpflanzen gießen 
 - [ ] Maracuja umsetzen 
@@ -138,6 +138,9 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 - [ ] duschen
 - [ ] friseur 
 - [ ] Briefkasten checken
+	- [ ] Zeug ist schon angekommen 
+	- [ ] PC fertig machen 
+	- [ ] Zeug zum zurück schicken bereit machen 
 - Tastatur wischen 
 	- [ ] laptop
 	- [ ] PC
