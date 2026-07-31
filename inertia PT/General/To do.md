@@ -134,7 +134,8 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 - [ ] Olivendose + Käsedose anbohren ⟹ <font color="#953734">dafür neue Bohrmaschine nutzen</font>
 - [ ] zwei maronen umsetzen
 - [x] carnivoren gießen 
-- [ ] carnivorenwasser auffüllen 
+- [ ] carnivorenwasser auffüllen .
+- [ ] Behälter aufschneiden und bohre
 - [ ] staubsaugen 
 - [ ] Schulgarten checken/gießen
 	- [ ] nochmal mit zange 
