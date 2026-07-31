@@ -148,7 +148,7 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 	- [ ] PC fertig machen 
 	- [ ] Zeug zum zurück schicken bereit machen 
 - [ ] rasieren 
-- [ ] medi
+- [ ] meditieren
 - [ ] duschen
 - [ ] Teebaumöl auftragen
 - [x] friseur (Fahrradkorb )
