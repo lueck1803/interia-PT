@@ -137,10 +137,11 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 - [ ] carnivorenwasser auffüllen .
 - [ ] Behälter aufschneiden und bohre
 - [ ] staubsaugen 
-- [ ] Schulgarten checken/gießen
-	- [ ] nochmal mit zange 
-	- [ ] bzw. Außenvierkant 
+- [x] Schulgarten checken/gießen
+	- [x] nochmal mit zange 
+	- [x] bzw. Außenvierkant 
 		- hab ich nicht 
+		- Schraubenzieher Aufsatz hat geklappt 
 - Aldi (Pfand)
 	- [x] Saft 
 	- [x] bier
