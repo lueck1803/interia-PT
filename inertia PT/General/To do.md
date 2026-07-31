@@ -138,7 +138,8 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 - [ ] carnivorenwasser auffüllen 
 - [ ] staubsaugen 
 - [ ] Schulgarten checken/gießen
-	- [ ] nochmal mit z
+	- [ ] nochmal mit zange 
+	- [ ] bzw. Außenvierkant 
 - Aldi (Pfand)
 	- [ ] Saft 
 	- [ ] bier
