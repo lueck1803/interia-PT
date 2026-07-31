@@ -128,7 +128,6 @@
 Nosfe-Arthur ⇔ Nosfe-Rita 
 - [ ] Wetterstation beide Batterien wechseln 
 	- [x] außenstation checken ⟹scheint wohl wieder zu funken
-- [x] Zähne putzen
 - [x] Balkonpflanzen gießen 
 - [x] Krafttraining 
 - [ ] Maracuja umsetzen 
@@ -148,10 +147,16 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 	- [ ] PC fertig machen 
 	- [ ] Zeug zum zurück schicken bereit machen 
 - [ ] rasieren 
+- [ ] Zähne putzen
+- [ ] Turnbeutel in Wäsche 
 - [ ] meditieren
 - [ ] duschen
 - [ ] Teebaumöl auftragen
 - [x] friseur (Fahrradkorb )
+- [ ] Rossmann 
+	- [ ] Teebaumöl 
+- [ ] nochmal intensiv Krafttraining 
+- [ ] Iod auftragen
 - [ ] Müller destilliertes Wasser 
 - [ ] gibt's in der Innenstadt salatsamen? <font color="#c71585">Rewe?</font>
 - [ ] Bauhaus 
