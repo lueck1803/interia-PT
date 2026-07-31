@@ -147,6 +147,8 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 	- [ ] kassenbons
 	- [ ] Hefter
 - [ ] Proposal
+- [ ] Duolingo
+
 
 - [x] Bettwäsche wechseln 
 
@@ -157,7 +159,6 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 - [ ] zurück schicken, wenn die docking station am samstag da ist
 	- [ ] die beiden Usb-c -> Thunderbolt kabel 
 	- [ ] das thunderbolt kabel, wenn es denn im briefkasten sein sollte...
-- [x] Duolingo
 - [x] Aldi Prospekte anschauen 
 - [ ] weiße Gitarre auf Drop D stimmen 
 	- [ ] ⤷ dream and the waking 
