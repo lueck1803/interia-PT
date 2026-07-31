@@ -283,6 +283,54 @@ flowchart TB
 	- ⤷ Sie nimmt mich nicht in Schutz 
 
 # Tagebuch?
+## 2026-07-30
+### Arooj
+#### schuldig
+gibt einfach Tage und Situationen, insbesondere wenn ich zu viele Entscheidungen getroffen habe, die mit für mich nicht so einfachen bzw. langanhaltenden Themen zu tun haben, dass ich mich so schwach, schmutzig, mein Blick auf mich in der Vergangenheit ist, dass ich so bösartig zerstreut war und bin.
+ich mich dafür so extrem schuldig fühle. Wie auch für bei so schönen Dingen wie bei meiner Radtour am Sonntag.
+
+ Insbesondere fühle ich mich schuldig gegenüber Arooj.
+
+#### meine kindliche Art
+Ein zweischneidiges Schwert ist auch meine kindliche Freude die ich immer mal habe. 🤷‍♀️
+Das war etwas was uns scheinbar verbunden hat. Vielleicht hat sie das auch nur gespielt und sich angepasst.
+Und dann gleichzeitig an mir und uns verachtet.
+
+Denn sie hat darin an sich/ihr eine Schwäche gesehen und auch das Gefühl gehabt, dass ich sie nur mag, wenn sie süß ist...
+sie hat immer mal so komische Äußerungen gebracht.
+
+ich mochte ja auch, wenn sie bestimmt sein konnte. ich mochte alle ihre Seiten.
+nur halt nicht, wenn sie so herumschubbsend war. 
+
+und es stimmt auch nicht, dass sie das nur so gespielt hat.
+
+ich denke sie hat es bei sich als etwas schwaches angesehen und dann irgendwie verachtet, weil sie dachte sie wird nur gemocht, wenn sie lieb, brav und süß ist.
+war schon immer echt hart/schwer gegen ihre Überzeugungen die sie dann da hatte anzukommen.
+
+es kam bei mir so rüber, als würde sie das mir eh nicht glauben.
+
+#### was war echt?
+es war schön, zusammen so sein zu können. ein Teil des Ich ausleben zu können.
+
+Ich mag es deshalb ja auch mich zusammen mit kindern zu freuen und an deren Gedankenwelt zu erfreuen, das hat Arooj ja auch gemacht.
+
+hat sich im Nachhinein so angefühlt, als wäre das an mir falsch und würde pathologisiert werden.
+Sie hat ja eh alles was mit mir in Zusammenhang stand plötzlich abgelehnt.
+
+war komisch... 
+als wenn sie sich immer nur verstellt hätte vorher und alles eine Zwangsveranstaltung war.
+dabei war es genau das Gegenteil.
+aber wenn ich das vermittelt habe, dass mir wichtig ist, dass sie sagt dass sie etwas nicht will, dann war es als wollte ich sie nicht dabei haben
+### Kanonenfieber
+gar nicht so dramatisch 🤭
+einfach zu viel gehört, aber nicht tot gehört oder so.
+zu viel die Thematik.
+
+ich hatte vor unserem Auftritt auch zu sehr die Tendenz im Kopf zu haben "oh das können wir als nächstes machen." Ein zu beschränkter Fokus. Hab beim Hören der Musik dann zu viel dran gedacht "das schaue ich mir als nächstes an". 
+
+nach unserem Auftritt hab ich dann ja auch gesagt “was machen wir als nächstes” und dazu hast du gesagt “lass mal was anderes machen” bzw. "wir können ja auch mal was anderes machen"
+und damit hattest du ja auch recht. Ich bin ja eh nicht so ein "Fan-Typ". Das war sehr auf "Machbarkeit" fokussiert bzgl. "das kann man (ich) schaffen".
+Ich auch zu viel darüber nachgedacht habe "was können wir als nächstes machen"
 ## 2026-07-27
 Heute war wieder ein sehr chaosreicher "Start" (bis nachmittags hat es gedauert) in den Tag.
 Mit sehr viel Unordnung, nicht Befolgen meiner Vorhaben, Richtlinien, Prinzipien und Routinen, stattdessen dem Folgen von Impulsen.
