@@ -128,29 +128,37 @@
 Nosfe-Arthur ⇔ Nosfe-Rita 
 - [ ] Wetterstation beide Batterien wechseln 
 	- [x] außenstation checken ⟹scheint wohl wieder zu funken
-- [ ] Zähne putzen
-- [ ] Balkonpflanzen gießen 
+- [x] Zähne putzen
+- [x] Balkonpflanzen gießen 
+- [x] Krafttraining 
 - [ ] Maracuja umsetzen 
 - [ ] Olivendose + Käsedose anbohren ⟹ <font color="#953734">dafür neue Bohrmaschine nutzen</font>
 - [ ] zwei maronen umsetzen
+- [x] carnivoren gießen 
+- [ ] carnivorenwasser auffüllen 
 - [ ] staubsaugen 
 - [ ] Schulgarten checken/gießen
+	- [ ] nochmal mit z
+- Aldi (Pfand)
+	- [ ] Saft 
+	- [ ] bier
+- [ ] Briefkasten checken
+	- [ ] Zeug ist schon angekommen 
+	- [ ] PC fertig machen 
+	- [ ] Zeug zum zurück schicken bereit machen 
+- [ ] duschen
+- [ ] Teebaumöl auftragen
+- [ ] friseur (Fahrradkorb )
+- [ ] Müller destilliertes Wasser 
+- [ ] gibt's in der Innenstadt salatsamen?
 - [ ] Bauhaus 
 	- [ ] destilliertes Wasser 
 	- [ ] salatsamen 
 	- [ ] Rindenmulch 
 	- [ ] Sand 
-- [ ] duschen
-- [ ] friseur 
-- [ ] Briefkasten checken
-	- [ ] Zeug ist schon angekommen 
-	- [ ] PC fertig machen 
-	- [ ] Zeug zum zurück schicken bereit machen 
-- Aldi (Pfand)
-	- [ ] Saft 
 - Tastatur wischen 
-	- [ ] laptop
-	- [ ] PC
+	- [x] laptop
+	- [x] PC
 - [ ] Ticket für *my sleeping karma*
 	- [ ] ⤷ arthur bescheid geben
 - Papierkram 
@@ -158,6 +166,9 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 	- [ ] Hefter
 - [ ] Proposal
 - [ ] Duolingo
+- [ ] Wäsche 
+	- [ ] abhängen 
+	- [ ] zusammen legen 
 
 
 - [x] Bettwäsche wechseln 
@@ -184,11 +195,10 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 	- [x] in Wohnung 
 	- [x] putzen
 	- [x] abtrocknen 
-	- [ ] in Vorratsschrank 
+	- [x] in Vorratsschrank 
 - [x] Ceranfeld 
 - [ ] Krafttraining 
 - [x] rasieren 
-- [ ] Teebaumöl auftragen
 - [ ] 3. bildschirm anschließen ⟹ geht momentan nicht...
 
 
