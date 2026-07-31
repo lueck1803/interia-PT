@@ -134,7 +134,7 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 - [ ] Olivendose + Käsedose anbohren ⟹ <font color="#953734">dafür neue Bohrmaschine nutzen</font>
 - [ ] zwei maronen umsetzen
 - [x] carnivoren gießen 
-- [ ] carnivorenwasser auffüllen .
+- [x] carnivorenwasser auffüllen .
 - [ ] Behälter aufschneiden und bohre
 - [ ] staubsaugen 
 - [x] Schulgarten checken/gießen
@@ -156,7 +156,7 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 - [ ] duschen
 - [ ] Teebaumöl auftragen
 - [x] friseur (Fahrradkorb )
-- [ ] Rossmann 
+- [x] Rossmann 
 	- [x] Teebaumöl 
 	- [x] Handcreme 
 	- [x] Melk Fett 
@@ -164,8 +164,9 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 	- [ ] salat mit Wurzelballen 
 - [ ] nochmal intensiv Krafttraining 
 - [ ] Iod auftragen
-- [ ] Müller destilliertes Wasser 
-- [ ] gibt's in der Innenstadt salatsamen? <font color="#c71585">Rewe?</font>
+- [x] Müller destilliertes Wasser 
+- [x] gibt's in der Innenstadt salatsamen? <font color="#c71585">Rewe?</font>
+	- ne nicht im Rewe
 - [ ] Bauhaus 
 	- [ ] destilliertes Wasser 
 	- [ ] salatsamen 
@@ -181,7 +182,7 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 	- [ ] Hefter
 - [ ] letzte Simulationen checken und snapshots machen
 - [ ] Proposal
-- [ ] Duolingo
+- [x] Duolingo
 - [ ] Wäsche 
 	- [ ] abhängen 
 	- [ ] zusammen legen 
