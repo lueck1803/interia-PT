@@ -157,6 +157,8 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 	- [x] Teebaumöl 
 	- [x] Handcreme 
 	- [x] Melk Fett 
+- Aldi 
+	- [ ] salat mit Wurzelballen 
 - [ ] nochmal intensiv Krafttraining 
 - [ ] Iod auftragen
 - [ ] Müller destilliertes Wasser 
