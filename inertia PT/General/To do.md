@@ -131,7 +131,9 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 - [x] Balkonpflanzen gießen 
 - [x] Krafttraining 
 - [ ] Maracuja umsetzen 
-- [ ] Olivendose + Käsedose anbohren ⟹ <font color="#953734">dafür neue Bohrmaschine nutzen</font>
+- [x] Olivendose + Käsedose anbohren
+	- ⟹ <font color="#953734">dafür neue Bohrmaschine nutzen</font>
+	-  ⤷echt top 🥳🥰
 - [ ] zwei maronen umsetzen
 - [x] Behälter aufschneiden und bohren
 - [ ] ne Walnuss rein setzen 
