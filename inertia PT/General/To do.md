@@ -135,6 +135,11 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 - [ ] zwei maronen umsetzen
 - [ ] staubsaugen 
 - [ ] Schulgarten checken/gießen
+- [ ] Bauhaus 
+	- [ ] destilliertes Wasser 
+	- [ ] salatsamen 
+	- [ ] Rindenmulch 
+	- [ ] Sand 
 - [ ] duschen
 - [ ] friseur 
 - [ ] Briefkasten checken
@@ -198,11 +203,6 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 	- [ ] Laufschuhe 
 	- [x] Wanderschuhe 
 		- hab jetzt welche vom aldi gekauft 
-- [ ] Bauhaus 
-	- [ ] destilliertes Wasser 
-	- [ ] salatsamen 
-	- [ ] Rindenmulch 
-	- [ ] Sand 
 - [x] Nasenhaare schneiden 
 - [ ] Fahrradhelm 
 	- [ ] Band einstellen 
