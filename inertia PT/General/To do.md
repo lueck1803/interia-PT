@@ -127,7 +127,7 @@
 
 Nosfe-Arthur ⇔ Nosfe-Rita 
 - [ ] Wetterstation beide Batterien wechseln 
-	- [ ] außenstation checken
+	- [ ] außenstation checken ⟹
 - [ ] Zähne putzen
 - [ ] Balkonpflanzen gießen 
 - [ ] Maracuja umsetzen 
