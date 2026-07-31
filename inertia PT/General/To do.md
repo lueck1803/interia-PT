@@ -134,11 +134,11 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 - [x] Olivendose + Käsedose anbohren
 	- ⟹ <font color="#953734">dafür neue Bohrmaschine nutzen</font>
 	-  ⤷echt top 🥳🥰
-- [ ] anderen beiden Maracujas umsetzen 
-- [ ] Rosmarin umsetzen 
-- [ ] zwei maronen umsetzen
+- [x] anderen beiden Maracujas umsetzen 
+- [x] Rosmarin umsetzen 
+- [x] zwei maronen umsetzen
 - [x] Behälter aufschneiden und bohren
-- [ ] ne Walnuss rein setzen 
+	- [x] ne Walnuss rein setzen 
 - [x] carnivoren gießen 
 - [x] carnivorenwasser auffüllen .
 - [ ] staubsaugen 
