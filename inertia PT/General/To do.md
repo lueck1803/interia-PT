@@ -140,6 +140,7 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 - [ ] Schulgarten checken/gießen
 	- [ ] nochmal mit zange 
 	- [ ] bzw. Außenvierkant 
+		- hab ich nicht 
 - Aldi (Pfand)
 	- [x] Saft 
 	- [x] bier
