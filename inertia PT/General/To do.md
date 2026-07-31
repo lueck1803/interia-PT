@@ -126,6 +126,8 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 
 Nosfe-Arthur ⇔ Nosfe-Rita 
+- [ ] Wetterstation beide Batterien wechseln 
+	- [ ] außenstation checken
 - [ ] Zähne putzen
 - [ ] Balkonpflanzen gießen 
 - [ ] Maracuja umsetzen 
@@ -144,10 +146,9 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 - Papierkram 
 	- [ ] kassenbons
 	- [ ] Hefter
-	- [ ] 
+- [ ] Proposal
 
 - [x] Bettwäsche wechseln 
-- [ ] Wetterstation beide Batterien wechseln 
 
 - [ ] usb-c -> dp so verlegen, dass ich den bildschirm gescheit nutzen kann
 - [ ] usb-c > dp mit 3. bildschirm testen, den schonmal hinstellen
