@@ -130,10 +130,12 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 	- [x] außenstation checken ⟹scheint wohl wieder zu funken
 - [x] Balkonpflanzen gießen 
 - [x] Krafttraining 
-- [ ] Maracuja umsetzen 
+- [x] Maracuja umsetzen 
 - [x] Olivendose + Käsedose anbohren
 	- ⟹ <font color="#953734">dafür neue Bohrmaschine nutzen</font>
 	-  ⤷echt top 🥳🥰
+- [ ] anderen beiden Maracujas umsetzen 
+- [ ] rosm
 - [ ] zwei maronen umsetzen
 - [x] Behälter aufschneiden und bohren
 - [ ] ne Walnuss rein setzen 
