@@ -149,9 +149,9 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 	- [ ] Zeug zum zurück schicken bereit machen 
 - [ ] duschen
 - [ ] Teebaumöl auftragen
-- [ ] friseur (Fahrradkorb )
+- [x] friseur (Fahrradkorb )
 - [ ] Müller destilliertes Wasser 
-- [ ] gibt's in der Innenstadt salatsamen?
+- [ ] gibt's in der Innenstadt salatsamen? <font color="#c71585">Rewe?</font>
 - [ ] Bauhaus 
 	- [ ] destilliertes Wasser 
 	- [ ] salatsamen 
