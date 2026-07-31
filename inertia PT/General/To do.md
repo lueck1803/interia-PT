@@ -165,11 +165,13 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 - Papierkram 
 	- [ ] kassenbons
 	- [ ] Hefter
+- [ ] letzte Simulationen checken und snapshots machen
 - [ ] Proposal
 - [ ] Duolingo
 - [ ] Wäsche 
 	- [ ] abhängen 
 	- [ ] zusammen legen 
+- [ ] französisch aufschreiben 
 
 
 - [x] Bettwäsche wechseln 
