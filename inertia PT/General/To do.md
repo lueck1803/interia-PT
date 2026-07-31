@@ -135,7 +135,7 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 	- ⟹ <font color="#953734">dafür neue Bohrmaschine nutzen</font>
 	-  ⤷echt top 🥳🥰
 - [ ] anderen beiden Maracujas umsetzen 
-- [ ] rosm
+- [ ] Rosmarin umsetzen 
 - [ ] zwei maronen umsetzen
 - [x] Behälter aufschneiden und bohren
 - [ ] ne Walnuss rein setzen 
