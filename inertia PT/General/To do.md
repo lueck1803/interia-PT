@@ -154,7 +154,9 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 - [ ] Teebaumöl auftragen
 - [x] friseur (Fahrradkorb )
 - [ ] Rossmann 
-	- [ ] Teebaumöl 
+	- [x] Teebaumöl 
+	- [x] Handcreme 
+	- [x] Melk Fett 
 - [ ] nochmal intensiv Krafttraining 
 - [ ] Iod auftragen
 - [ ] Müller destilliertes Wasser 
