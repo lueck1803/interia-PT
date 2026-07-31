@@ -141,6 +141,8 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 	- [ ] Zeug ist schon angekommen 
 	- [ ] PC fertig machen 
 	- [ ] Zeug zum zurück schicken bereit machen 
+- Aldi (Pfand)
+	- [ ] Saft 
 - Tastatur wischen 
 	- [ ] laptop
 	- [ ] PC
