@@ -126,6 +126,25 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 
 Nosfe-Arthur ⇔ Nosfe-Rita 
+- [ ] Zähne putzen
+- [ ] Balkonpflanzen gießen 
+- [ ] Maracuja umsetzen 
+- [ ] Olivendose + Käsedose anbohren ⟹ <font color="#953734">dafür neue Bohrmaschine nutzen</font>
+- [ ] zwei maronen umsetzen
+- [ ] staubsaugen 
+- [ ] Schulgarten checken/gießen
+- [ ] duschen
+- [ ] friseur 
+- [ ] Briefkasten checken
+- Tastatur wischen 
+	- [ ] laptop
+	- [ ] PC
+- [ ] Ticket für *my sleeping karma*
+	- [ ] ⤷ arthur bescheid geben
+- Papierkram 
+	- [ ] kassenbons
+	- [ ] Hefter
+	- [ ] 
 
 - [x] Bettwäsche wechseln 
 - [ ] Wetterstation beide Batterien wechseln 
@@ -137,22 +156,18 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 - [ ] zurück schicken, wenn die docking station am samstag da ist
 	- [ ] die beiden Usb-c -> Thunderbolt kabel 
 	- [ ] das thunderbolt kabel, wenn es denn im briefkasten sein sollte...
-- [ ] Zähne putzen
 - [x] Duolingo
 - [x] Aldi Prospekte anschauen 
 - [ ] weiße Gitarre auf Drop D stimmen 
 	- [ ] ⤷ dream and the waking 
 		- [ ] Mal nur rythm während dem Melodie part
 		- [ ] bzw jetzt kann ich es sicherlich auch mit 
-	- [ ] fraught
+	- [x] fraught
 - [ ] schwarze auf D
 	- [ ] countless skies
 	- [ ] from scythe to scepter 
 	- [ ] smoke of many fires
-- [x] Schulgarten checken/gießen
-- [x] Balkonpflanzen gießen 
-- [x] Tastatur wischen 
-- [x] staubsaugen 
+
 - Backbleche
 	- [x] in Wohnung 
 	- [x] putzen
@@ -161,18 +176,10 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 - [x] Ceranfeld 
 - [ ] Krafttraining 
 - [x] rasieren 
-- [x] duschen
 - [ ] Teebaumöl auftragen
 - [ ] 3. bildschirm anschließen ⟹ geht momentan nicht...
-- [ ] Ticket für *my sleeping karma*
-	- [ ] ⤷ arthur bescheid geben
-- Papierkram 
-	- [ ] kassenbons
-	- [ ] Hefter
-- [ ] Maracuja umsetzen 
-- [ ] Papierkram 
-- [ ] Olivendose + Käsedose anbohren ⟹ <font color="#953734">dafür neue Bohrmaschine nutzen</font>
-- [ ] zwei maronen umsetzen
+
+
 - [x] Spülmaschine anstellen
 - [x] Spülmaschine ausräumen
 - [ ] yoga
@@ -190,7 +197,6 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 	- [ ] Rindenmulch 
 	- [ ] Sand 
 - [x] Nasenhaare schneiden 
-- [ ] friseur 
 - [ ] Fahrradhelm 
 	- [ ] Band einstellen 
 	- [ ] Filz oder Ähnliches auf Klett machen
