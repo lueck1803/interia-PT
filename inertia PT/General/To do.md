@@ -126,7 +126,7 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 
 Nosfe-Arthur ⇔ Nosfe-Rita 
-- [ ] Bluetooth box modden 🥰https://olegkutkov.me/2021/02/27/hacking-a-firmware-of-bluetooth-speaker-fm-radio/
+- [ ] Bluetooth box modden 🥰 [sound mod Anleitung]()
 - [ ] Wetterstation beide Batterien wechseln 
 	- [x] außenstation checken ⟹scheint wohl wieder zu funken
 - [x] Balkonpflanzen gießen 
