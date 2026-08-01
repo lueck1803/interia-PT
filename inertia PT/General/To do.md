@@ -128,10 +128,10 @@
 - [x] Balkonpflanzen gießen 
 - [ ] staubsaugen 
 - [ ] Schulgarten checken/gießen
-- [ ] rasieren 
+- [x] rasieren 
 - [ ] Turnbeutel in Wäsche 
 - [ ] meditieren
-- [ ] duschen
+- [x] duschen
 - [x] Teebaumöl auftragen
 - [ ] Iod auftragen
 - [ ] Ticket für *my sleeping karma*
@@ -147,8 +147,12 @@
 	- [ ] salat mit Wurzelballen 
 - Briefkasten checken
 	- [x] Zeug ist schon angekommen 
-	- [ ] PC fertig machen 
+	- [x] PC fertig machen 
+		- [ ] Puuh so nice, dass es geht🥰🥳
+		- [ ] braucht nach dem Neustart halt ein bisschen bis die Bildschirme angehen 🤔
 	- [ ] Zeug zum zurück schicken bereit machen 
+		- [ ] brauche ich das 1,5m tb Kabel?
+		- [ ] brauche ich eines der beiden tb⟹dp Kabel?
 - [ ] fraught
 - [ ] yoga
 - [ ] probieren mit knöchel zu tappen, wie das jassy im video gemacht hat
