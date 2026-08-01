@@ -152,6 +152,10 @@
 - [ ] fraught
 - [ ] yoga
 - [ ] probieren mit knöchel zu tappen, wie das jassy im video gemacht hat
+- [ ] Bauhaus 
+	- [ ] Vierkant Flügelschraube 
+	- [ ] salatsamen 
+- [ ] 
 - schuhe kaufen 
 	- [ ] über Laufschuhe informieren
 	- [ ] Laufschuhe 
