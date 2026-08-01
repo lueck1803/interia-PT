@@ -124,13 +124,21 @@
 # unsortiert 
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
+- [ ] Krafttraining 
+- [ ] Balkonpflanzen gießen 
+- [ ] staubsaugen 
+- [ ] Schulgarten checken/gießen
+- [ ] rasieren 
+- [ ] Turnbeutel in Wäsche 
+- [ ] meditieren
+- [ ] duschen
+- [ ] Teebaumöl auftragen
+- [x] Zähne putzen
 
 Nosfe-Arthur ⇔ Nosfe-Rita 
 - [ ] Bluetooth box modden 🥰 [sound mod Anleitung](https://olegkutkov.me/2021/02/27/hacking-a-firmware-of-bluetooth-speaker-fm-radio/)
 - [ ] Wetterstation beide Batterien wechseln 
 	- [x] außenstation checken ⟹scheint wohl wieder zu funken
-- [ ] Balkonpflanzen gießen 
-- [x] Krafttraining 
 - [x] Maracuja umsetzen 
 - [x] Olivendose + Käsedose anbohren
 	- ⟹ <font color="#953734">dafür neue Bohrmaschine nutzen</font>
@@ -142,7 +150,6 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 	- [x] ne Walnuss rein setzen 
 - [x] carnivoren gießen 
 - [x] carnivorenwasser auffüllen .
-- [ ] staubsaugen 
 - [x] Schulgarten checken/gießen
 	- [x] nochmal mit zange 
 	- [x] bzw. Außenvierkant 
@@ -155,12 +162,6 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 	- [x] Zeug ist schon angekommen 
 	- [ ] PC fertig machen 
 	- [ ] Zeug zum zurück schicken bereit machen 
-- [ ] rasieren 
-- [x] Zähne putzen
-- [ ] Turnbeutel in Wäsche 
-- [ ] meditieren
-- [ ] duschen
-- [ ] Teebaumöl auftragen
 - [x] friseur (Fahrradkorb )
 - [x] Rossmann 
 	- [x] Teebaumöl 
