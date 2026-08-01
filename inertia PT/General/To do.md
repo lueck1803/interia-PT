@@ -133,6 +133,8 @@
 - [ ] meditieren
 - [ ] duschen
 - [ ] Teebaumöl auftragen
+- Aldi 
+	- [ ] salat mit Wurzelballen 
 - [x] Zähne putzen
 
 Nosfe-Arthur ⇔ Nosfe-Rita 
@@ -167,9 +169,6 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 	- [x] Teebaumöl 
 	- [x] Handcreme 
 	- [x] Melk Fett 
-- Aldi 
-	- [ ] salat mit Wurzelballen 
-- [ ] nochmal intensiv Krafttraining 
 - [ ] Iod auftragen
 - [x] Müller destilliertes Wasser 
 - [x] gibt's in der Innenstadt salatsamen? <font color="#c71585">Rewe?</font>
