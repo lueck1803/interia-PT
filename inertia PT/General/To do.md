@@ -125,8 +125,10 @@
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 - [ ] Krafttraining 
+- [ ] Zähne putzen
+- [ ] Duolingo
 - [ ] salat eingraben 
-- [x] Balkonpflanzen gießen 
+- [ ] Balkonpflanzen gießen 
 - [ ] staubsaugen 
 - [ ] Schulgarten checken/gießen
 - [x] rasieren 
@@ -142,7 +144,6 @@
 	- [ ] Hefter
 - [ ] letzte Simulationen checken und snapshots machen
 - [ ] Proposal
-- [x] Duolingo
 - [ ] französisch aufschreiben 
 - Aldi 
 	- [ ] salat mit Wurzelballen 
@@ -179,7 +180,6 @@
 	- [x] Wanderschuhe 
 		- hab jetzt welche vom aldi gekauft 
 - [ ] konto checken 
-- [x] Zähne putzen
 
 Nosfe-Arthur ⇔ Nosfe-Rita 
 - [ ] Bluetooth box modden 🥰 [sound mod Anleitung](https://olegkutkov.me/2021/02/27/hacking-a-firmware-of-bluetooth-speaker-fm-radio/)
