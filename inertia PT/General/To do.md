@@ -129,7 +129,7 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 - [ ] Bluetooth box modden 🥰 [sound mod Anleitung](https://olegkutkov.me/2021/02/27/hacking-a-firmware-of-bluetooth-speaker-fm-radio/)
 - [ ] Wetterstation beide Batterien wechseln 
 	- [x] außenstation checken ⟹scheint wohl wieder zu funken
-- [x] Balkonpflanzen gießen 
+- [ ] Balkonpflanzen gießen 
 - [x] Krafttraining 
 - [x] Maracuja umsetzen 
 - [x] Olivendose + Käsedose anbohren
@@ -156,7 +156,7 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 	- [ ] PC fertig machen 
 	- [ ] Zeug zum zurück schicken bereit machen 
 - [ ] rasieren 
-- [ ] Zähne putzen
+- [x] Zähne putzen
 - [ ] Turnbeutel in Wäsche 
 - [ ] meditieren
 - [ ] duschen
