@@ -125,14 +125,14 @@
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 - [ ] Krafttraining 
-- [ ] Balkonpflanzen gießen 
+- [x] Balkonpflanzen gießen 
 - [ ] staubsaugen 
 - [ ] Schulgarten checken/gießen
 - [ ] rasieren 
 - [ ] Turnbeutel in Wäsche 
 - [ ] meditieren
 - [ ] duschen
-- [ ] Teebaumöl auftragen
+- [x] Teebaumöl auftragen
 - [ ] Iod auftragen
 - [ ] Ticket für *my sleeping karma*
 	- [ ] ⤷ arthur bescheid geben

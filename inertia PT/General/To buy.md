@@ -59,14 +59,13 @@
 	- ja perfekt, der Aufzug ging gerade wieder als ich die Erde kaufen wollte 2026-07-09
 - [x] Wassereis 
 - [x] Toilettenpapier 
-- [ ] Teebaumöl 
-- [ ] tofu 
-	- momentan nicht im Sortiment 
+- [x] Teebaumöl 
+- [x] tofu 
 - [x] Schmelzkäse Scheiben 
 - [x] grüne Oliven 
 - [x] Pesto 
 - [x] schoko chips
-- [ ] grüne Erbsen 
+- [x] grüne Erbsen 
 - [x] Chipotle mayo
 - [x] schokomüsli
 - [x] Margarine 
