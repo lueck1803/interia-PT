@@ -162,7 +162,7 @@
 - [ ] Handydisplay Folie 
 - was mit Ackerbohnen kochen 
 	- [x] Ackerbohnen aufsetzen 
-	- [ ] 396g
+	- [x] 396g
 - schuhe kaufen 
 	- [ ] über Laufschuhe informieren
 	- [ ] Laufschuhe 
