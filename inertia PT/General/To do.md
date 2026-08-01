@@ -147,12 +147,19 @@
 	- [ ] salat mit Wurzelballen 
 - Briefkasten checken
 	- [x] Zeug ist schon angekommen 
-	- [x] PC fertig machen 
-		- [ ] Puuh so nice, dass es geht🥰🥳
-		- [ ] braucht nach dem Neustart halt ein bisschen bis die Bildschirme angehen 🤔
-	- [ ] Zeug zum zurück schicken bereit machen 
-		- [ ] brauche ich das 1,5m tb Kabel?
-		- [ ] brauche ich eines der beiden tb⟹dp Kabel?
+- PC fertig machen 
+	- Puuh so nice, dass es geht🥰🥳
+	- [ ] braucht nach dem Neustart halt ein bisschen bis die Bildschirme angehen 🤔
+		- [ ] ⤷was ist der Grund?
+		- [ ] andere BIOS Einstellungen?
+	- [ ] Kabel sauber verlegen
+	- [ ] Bildschirme richtig ausrichten
+	- [ ] Tisch an die Wand rücken
+	- [ ] Tisch aufräumen
+- [ ] erstmal spazieren / in den Schulgarten / Bauhaus
+- [ ] Zeug zum zurück schicken bereit machen 
+	- [ ] brauche ich das 1,5m tb Kabel?
+	- [ ] brauche ich eines der beiden tb⟹dp Kabel?
 - [ ] fraught
 - [ ] yoga
 - [ ] probieren mit knöchel zu tappen, wie das jassy im video gemacht hat
