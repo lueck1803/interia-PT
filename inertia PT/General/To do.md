@@ -152,6 +152,8 @@
 	- [ ] braucht nach dem Neustart halt ein bisschen bis die Bildschirme angehen 🤔
 		- [ ] ⤷was ist der Grund?
 		- [ ] andere BIOS Einstellungen?
+			- [ ] hab wake up command auf ausgestellt? Beim Start geht es
+			- [ ] aber unter Windows werden die Bildschirme nicht angeschaltet..
 	- [ ] Kabel sauber verlegen
 	- [ ] Bildschirme richtig ausrichten
 	- [ ] Tisch an die Wand rücken
