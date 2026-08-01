@@ -141,7 +141,7 @@
 	- [ ] Hefter
 - [ ] letzte Simulationen checken und snapshots machen
 - [ ] Proposal
-- [ ] Duolingo
+- [x] Duolingo
 - [ ] französisch aufschreiben 
 - Aldi 
 	- [ ] salat mit Wurzelballen 
@@ -156,7 +156,9 @@
 	- [ ] Vierkant Flügelschraube 
 	- [ ] salatsamen 
 - [ ] Handydisplay Folie 
-- [ ] was mit Ackerbohnen kochen 
+- was mit Ackerbohnen kochen 
+	- [x] Ackerbohnen aufsetzen 
+	- [ ] 396g
 - schuhe kaufen 
 	- [ ] über Laufschuhe informieren
 	- [ ] Laufschuhe 
