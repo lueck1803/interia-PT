@@ -155,7 +155,7 @@
 - [ ] Bauhaus 
 	- [ ] Vierkant Flügelschraube 
 	- [ ] salatsamen 
-- [ ] 
+- [ ] Handydisplay Folie 
 - schuhe kaufen 
 	- [ ] über Laufschuhe informieren
 	- [ ] Laufschuhe 
