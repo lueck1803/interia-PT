@@ -133,8 +133,31 @@
 - [ ] meditieren
 - [ ] duschen
 - [ ] Teebaumöl auftragen
+- [ ] Iod auftragen
+- [ ] Ticket für *my sleeping karma*
+	- [ ] ⤷ arthur bescheid geben
+- Papierkram 
+	- [ ] kassenbons
+	- [ ] Hefter
+- [ ] letzte Simulationen checken und snapshots machen
+- [ ] Proposal
+- [ ] Duolingo
+- [ ] französisch aufschreiben 
 - Aldi 
 	- [ ] salat mit Wurzelballen 
+- Briefkasten checken
+	- [x] Zeug ist schon angekommen 
+	- [ ] PC fertig machen 
+	- [ ] Zeug zum zurück schicken bereit machen 
+- [ ] fraught
+- [ ] yoga
+- [ ] probieren mit knöchel zu tappen, wie das jassy im video gemacht hat
+- schuhe kaufen 
+	- [ ] über Laufschuhe informieren
+	- [ ] Laufschuhe 
+	- [x] Wanderschuhe 
+		- hab jetzt welche vom aldi gekauft 
+- [ ] konto checken 
 - [x] Zähne putzen
 
 Nosfe-Arthur ⇔ Nosfe-Rita 
@@ -160,16 +183,11 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 - Aldi (Pfand)
 	- [x] Saft 
 	- [x] bier
-- Briefkasten checken
-	- [x] Zeug ist schon angekommen 
-	- [ ] PC fertig machen 
-	- [ ] Zeug zum zurück schicken bereit machen 
 - [x] friseur (Fahrradkorb )
 - [x] Rossmann 
 	- [x] Teebaumöl 
 	- [x] Handcreme 
 	- [x] Melk Fett 
-- [ ] Iod auftragen
 - [x] Müller destilliertes Wasser 
 - [x] gibt's in der Innenstadt salatsamen? <font color="#c71585">Rewe?</font>
 	- ne nicht im Rewe
@@ -181,18 +199,9 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 - Tastatur wischen 
 	- [x] laptop
 	- [x] PC
-- [ ] Ticket für *my sleeping karma*
-	- [ ] ⤷ arthur bescheid geben
-- Papierkram 
-	- [ ] kassenbons
-	- [ ] Hefter
-- [ ] letzte Simulationen checken und snapshots machen
-- [ ] Proposal
-- [x] Duolingo
-- [ ] Wäsche 
-	- [ ] abhängen 
-	- [ ] zusammen legen 
-- [ ] französisch aufschreiben 
+- [x] Wäsche 
+	- [x] abhängen 
+	- [x] zusammen legen 
 
 
 - [x] Bettwäsche wechseln 
@@ -228,15 +237,8 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 
 - [x] Spülmaschine anstellen
 - [x] Spülmaschine ausräumen
-- [ ] yoga
 - [ ] schneller schwimmen lernen 
-- [ ] probieren mit knöchel zu tappen, wie das jassy im video gemacht hat
 - [ ] cityrad bremse
-- schuhe kaufen 
-	- [ ] über Laufschuhe informieren
-	- [ ] Laufschuhe 
-	- [x] Wanderschuhe 
-		- hab jetzt welche vom aldi gekauft 
 - [x] Nasenhaare schneiden 
 - [ ] Fahrradhelm 
 	- [ ] Band einstellen 
