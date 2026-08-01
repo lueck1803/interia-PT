@@ -1,4 +1,5 @@
-- [ ] Vaseline 
+- [ ] Fensterstopper 
+- [x] Vaseline 
 - [x] hummus
 - [x] Schoki 
 - [x] nüsse
