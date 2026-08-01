@@ -125,6 +125,7 @@
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 - [ ] Krafttraining 
+- [ ] salat eingraben 
 - [x] Balkonpflanzen gießen 
 - [ ] staubsaugen 
 - [ ] Schulgarten checken/gießen
