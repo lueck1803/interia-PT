@@ -149,7 +149,8 @@
 - Bauhaus 
 	- [ ] Innenvierkant 
 		- [ ] passt nicht ⟹ umtauschen 
-- [ ] Schulgarten checken/gießen
+- [x] Schulgarten checken/gießen
+- [ ] bei shin son hab kido anmelden/vorbei schauen, wann die Training haben 
 - [x] rasieren 
 - [ ] Turnbeutel in Wäsche 
 - [ ] meditieren
