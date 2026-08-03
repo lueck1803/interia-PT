@@ -128,6 +128,10 @@
 - [ ] Zähne putzen
 - [ ] Paprikamark aus tk holen 
 - [ ] Duolingo
+- Aldi 
+	- [ ] Hafermilch 
+	- [ ] saft
+	- [ ] Zitronen 
 - [x] salat eingraben 
 - [ ] Balkonpflanzen gießen 
 - [ ] staubsaugen 
