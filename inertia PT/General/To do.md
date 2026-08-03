@@ -151,7 +151,7 @@
 		- [ ] passt nicht ⟹ umtauschen 
 - [x] Schulgarten checken/gießen
 - [ ] bei shin son hab kido anmelden/vorbei schauen, wann die Training haben 
-- [ ] passt 
+- [ ] passt mir mein Trainingsanzug noch? Po
 - [x] rasieren 
 - [ ] Turnbeutel in Wäsche 
 - [ ] meditieren
