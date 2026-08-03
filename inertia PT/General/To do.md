@@ -144,7 +144,7 @@
 - [ ] Zitronensaft pressen und einfrieren 
 - [ ] essen mit Bohnen fertig kochen 
 - [x] salat eingraben 
-- [ ] Balkonpflanzen gießen 
+- [x] Balkonpflanzen gießen 
 - [ ] staubsaugen 
 - Bauhaus 
 	- [ ] Innenvierkant 
