@@ -132,6 +132,8 @@
 	- [ ] Hafermilch 
 	- [ ] saft
 	- [ ] Zitronen 
+	- [ ] Toast 
+	- [ ] spülbürsten 
 - [ ] Zitronensaft pressen und einfrieren 
 - [ ] essen mit Bohnen fertig kochen 
 - [x] salat eingraben 
