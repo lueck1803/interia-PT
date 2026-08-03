@@ -131,7 +131,7 @@
 - [ ] Tastatur wischen 
 - [ ] abgestorbene marone raus und neue einsetzen 
 - [x] Paprikamark aus tk holen 
-- [ ] Duolingo
+- [x] Duolingo
 - [ ] Muskateller Salbei Samen für Schulgarten 
 - Aldi 
 	- [x] Hafermilch 
@@ -143,6 +143,12 @@
 	- [x] spülbürsten 
 - [ ] Zitronensaft pressen und einfrieren 
 - [ ] essen mit Bohnen fertig kochen 
+	- [ ] Paprika mark
+	- [ ] Zitronensaft 
+	- [ ] Kreuzkümmel 
+	- [ ] Knoblauch Zwiebeln 
+	- [ ] Ingwer 
+	- [ ] rocoto
 - [x] salat eingraben 
 - [x] Balkonpflanzen gießen 
 - [ ] staubsaugen 
