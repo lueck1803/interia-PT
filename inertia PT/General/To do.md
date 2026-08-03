@@ -149,6 +149,7 @@
 - Bauhaus 
 	- [ ] Innenvierkant 
 		- [ ] passt nicht ⟹ umtauschen 
+		- [ ] gibt im bau
 - [x] Schulgarten checken/gießen
 - [ ] bei shin son hab kido anmelden/vorbei schauen, wann die Training haben 
 - [ ] passt mir mein Trainingsanzug noch? Po
