@@ -132,6 +132,7 @@
 - [ ] abgestorbene marone raus und neue einsetzen 
 - [ ] Paprikamark aus tk holen 
 - [ ] Duolingo
+- [ ] Muskateller Salbei Samen für s
 - Aldi 
 	- [ ] Hafermilch 
 	- [ ] saft
