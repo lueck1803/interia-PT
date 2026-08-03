@@ -160,7 +160,7 @@
 - [ ] Iod auftragen
 - [ ] Ticket für *my sleeping karma*
 	- [ ] ⤷ arthur bescheid geben
-- Papierkram 
+- Papierkram  x x.  Xxxx" x,c.    Cx. " Cx" "xx. Cycx. X,,  x xxxxxyxxxcxx'xxxxxx"xxxx xxx"x. S.  Xxxxxxxxxffx" s  
 	- [ ] kassenbons
 	- [ ] Hefter
 - [ ] letzte Simulationen checken und snapshots machen
