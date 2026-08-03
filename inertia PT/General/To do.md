@@ -125,9 +125,15 @@
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 - [x] Krafttraining 
+- [ ] passt mir mein Trainingsanzug noch? Po
+- [ ] rasieren 
+- [ ] meditieren
+- [ ] duschen
+- [ ] Teebaumöl auftragen
+- [ ] Iod auftragen
 - [ ] Spülmaschine ausräumen 
-- [ ] Balkonpflanzen gießen 
-- [x] Zähne putzen
+- [x] Balkonpflanzen gießen 
+- [ ] Zähne putzen
 - [x] Gesicht waschen 
 - [ ] Tastatur wischen 
 - [ ] abgestorbene marone raus und neue einsetzen 
@@ -144,13 +150,14 @@
 	- [x] spülbürsten 
 - [ ] Zitronensaft pressen und einfrieren 
 - [ ] essen mit Bohnen fertig kochen 
-	- [ ] Paprika mark
+	- [x] Paprika mark
 	- [x] Zitronensaft 
-	- [ ] Kreuzkümmel 
+	- [x] Kreuzkümmel 
 	- [x] Knoblauch 
 	- [x] Zwiebeln 
 	- [x] Ingwer 
 	- [x] rocoto
+	- [ ] Kräuter schneiden 
 - [x] salat eingraben 
 - [ ] staubsaugen 
 - Bauhaus 
@@ -159,13 +166,7 @@
 		- gibt im Bauhaus keinen kleineren als 7mm0
 - [x] Schulgarten checken/gießen
 - [ ] bei shin son hab kido anmelden/vorbei schauen, wann die Training haben 
-- [ ] passt mir mein Trainingsanzug noch? Po
-- [x] rasieren 
 - [ ] Turnbeutel in Wäsche 
-- [ ] meditieren
-- [x] duschen
-- [x] Teebaumöl auftragen
-- [ ] Iod auftragen
 - [ ] Ticket für *my sleeping karma*
 	- [ ] ⤷ arthur bescheid geben
 - Papierkram 
