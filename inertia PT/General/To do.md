@@ -135,6 +135,7 @@
 - Aldi 
 	- [ ] Hafermilch 
 	- [ ] saft
+	- [ ] bier
 	- [ ] Zitronen 
 	- [ ] Toast 
 	- [ ] Eis 
