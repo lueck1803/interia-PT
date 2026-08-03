@@ -125,8 +125,10 @@
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 - [ ] Krafttraining 
+- [ ] Spülmaschine ausräumen 
 - [ ] Zähne putzen
-- [ ] Gesicht waschen 
+- [x] Gesicht waschen 
+- [ ] Tastatur wischen 
 - [ ] abgestorbene marone raus und neue einsetzen 
 - [ ] Paprikamark aus tk holen 
 - [ ] Duolingo
@@ -135,6 +137,7 @@
 	- [ ] saft
 	- [ ] Zitronen 
 	- [ ] Toast 
+	- [ ] Eis 
 	- [ ] spülbürsten 
 - [ ] Zitronensaft pressen und einfrieren 
 - [ ] essen mit Bohnen fertig kochen 
@@ -174,7 +177,6 @@
 	- [ ] Bildschirme richtig ausrichten
 	- [ ] Tisch an die Wand rücken
 	- [ ] Tisch aufräumen
-- [ ] erstmal spazieren / in den Schulgarten / Bauhaus
 - [ ] Zeug zum zurück schicken bereit machen 
 	- [ ] brauche ich das 1,5m tb Kabel?
 	- [ ] brauche ich eines der beiden tb⟹dp Kabel?
@@ -197,7 +199,7 @@
 
 Nosfe-Arthur ⇔ Nosfe-Rita 
 - [ ] Bluetooth box modden 🥰 [sound mod Anleitung](https://olegkutkov.me/2021/02/27/hacking-a-firmware-of-bluetooth-speaker-fm-radio/)
-- [ ] Wetterstation beide Batterien wechseln 
+- [x] Wetterstation beide Batterien wechseln 
 	- [x] außenstation checken ⟹scheint wohl wieder zu funken
 - [x] Maracuja umsetzen 
 - [x] Olivendose + Käsedose anbohren
