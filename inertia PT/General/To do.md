@@ -135,7 +135,7 @@
 - [x] Balkonpflanzen gießen 
 - [ ] Zähne putzen
 - [x] Gesicht waschen 
-- [ ] Tastatur wischen 
+- [x] Tastatur wischen 
 - [ ] abgestorbene marone raus und neue einsetzen 
 - [x] Paprikamark aus tk holen 
 - [x] Duolingo
@@ -149,7 +149,7 @@
 	- [x] Eis 
 	- [x] spülbürsten 
 - [ ] Zitronensaft pressen und einfrieren 
-- [ ] essen mit Bohnen fertig kochen 
+- [x] essen mit Bohnen fertig kochen 
 	- [x] Paprika mark
 	- [x] Zitronensaft 
 	- [x] Kreuzkümmel 
@@ -157,7 +157,8 @@
 	- [x] Zwiebeln 
 	- [x] Ingwer 
 	- [x] rocoto
-	- [ ] Kräuter schneiden 
+	- [x] Kräuter schneiden 
+- [x] Reis kochen 
 - [x] salat eingraben 
 - [ ] staubsaugen 
 - Bauhaus 
