@@ -124,8 +124,9 @@
 # unsortiert 
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
-- [ ] Krafttraining 
+- [x] Krafttraining 
 - [ ] Spülmaschine ausräumen 
+- [ ] Balkonpflanzen gießen 
 - [x] Zähne putzen
 - [x] Gesicht waschen 
 - [ ] Tastatur wischen 
@@ -144,13 +145,13 @@
 - [ ] Zitronensaft pressen und einfrieren 
 - [ ] essen mit Bohnen fertig kochen 
 	- [ ] Paprika mark
-	- [ ] Zitronensaft 
+	- [x] Zitronensaft 
 	- [ ] Kreuzkümmel 
-	- [ ] Knoblauch Zwiebeln 
-	- [ ] Ingwer 
-	- [ ] rocoto
+	- [x] Knoblauch 
+	- [x] Zwiebeln 
+	- [x] Ingwer 
+	- [x] rocoto
 - [x] salat eingraben 
-- [x] Balkonpflanzen gießen 
 - [ ] staubsaugen 
 - Bauhaus 
 	- Innenvierkant 
