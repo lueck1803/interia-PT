@@ -128,9 +128,12 @@
 - [ ] Zähne putzen
 - [ ] Paprikamark aus tk holen 
 - [ ] Duolingo
-- [ ] salat eingraben 
+- [x] salat eingraben 
 - [ ] Balkonpflanzen gießen 
 - [ ] staubsaugen 
+- Bauhaus 
+	- [ ] Innenvierkant 
+	- [ ] salatsamen 
 - [ ] Schulgarten checken/gießen
 - [x] rasieren 
 - [ ] Turnbeutel in Wäsche 
@@ -147,7 +150,7 @@
 - [ ] Proposal
 - [ ] französisch aufschreiben 
 - Aldi 
-	- [ ] salat mit Wurzelballen 
+	- [x] salat mit Wurzelballen 
 - Briefkasten checken
 	- [x] Zeug ist schon angekommen 
 - PC fertig machen 

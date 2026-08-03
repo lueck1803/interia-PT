@@ -3,7 +3,7 @@
 - [x] hummus
 - [x] Schoki 
 - [x] nüsse
-- [ ] Bananen 
+- [x] Bananen 
 - [x] Burger 
 - [x] saft
 - [x] Nusskati 
