@@ -126,11 +126,11 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 - [ ] Krafttraining 
 - [ ] Spülmaschine ausräumen 
-- [ ] Zähne putzen
+- [x] Zähne putzen
 - [x] Gesicht waschen 
 - [ ] Tastatur wischen 
 - [ ] abgestorbene marone raus und neue einsetzen 
-- [ ] Paprikamark aus tk holen 
+- [x] Paprikamark aus tk holen 
 - [ ] Duolingo
 - [ ] Muskateller Salbei Samen für Schulgarten 
 - Aldi 
