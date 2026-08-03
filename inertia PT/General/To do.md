@@ -136,8 +136,8 @@
 - Aldi 
 	- [ ] Hafermilch 
 	- [ ] saft
-	- [ ] bier
-	- [ ] Zitronen 
+	- [x] bier
+	- [x] Zitronen 
 	- [ ] Toast 
 	- [ ] Eis 
 	- [ ] spülbürsten 
