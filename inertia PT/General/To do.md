@@ -147,9 +147,9 @@
 - [x] Balkonpflanzen gießen 
 - [ ] staubsaugen 
 - Bauhaus 
-	- [ ] Innenvierkant 
-		- [ ] passt nicht ⟹ umtauschen 
-		- [ ] gibt im bau
+	- Innenvierkant 
+		- passt nicht ⟹ umtauschen 
+		- gibt im Bauhaus keinen kleineren als 7mm0
 - [x] Schulgarten checken/gießen
 - [ ] bei shin son hab kido anmelden/vorbei schauen, wann die Training haben 
 - [ ] passt mir mein Trainingsanzug noch? Po
