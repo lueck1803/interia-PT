@@ -134,13 +134,13 @@
 - [ ] Duolingo
 - [ ] Muskateller Salbei Samen für Schulgarten 
 - Aldi 
-	- [ ] Hafermilch 
-	- [ ] saft
+	- [x] Hafermilch 
+	- [x] saft
 	- [x] bier
 	- [x] Zitronen 
-	- [ ] Toast 
-	- [ ] Eis 
-	- [ ] spülbürsten 
+	- [x] Toast 
+	- [x] Eis 
+	- [x] spülbürsten 
 - [ ] Zitronensaft pressen und einfrieren 
 - [ ] essen mit Bohnen fertig kochen 
 - [x] salat eingraben 
@@ -160,7 +160,7 @@
 - [ ] Iod auftragen
 - [ ] Ticket für *my sleeping karma*
 	- [ ] ⤷ arthur bescheid geben
-- Papierkram  x x.  Xxxx" x,c.    Cx. " Cx" "xx. Cycx. X,,  x xxxxxyxxxcxx'xxxxxx"xxxx xxx"x. S.  Xxxxxxxxxffx" s  
+- Papierkram 
 	- [ ] kassenbons
 	- [ ] Hefter
 - [ ] letzte Simulationen checken und snapshots machen
