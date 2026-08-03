@@ -126,7 +126,8 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 - [ ] Krafttraining 
 - [ ] Zähne putzen
-- [ ] Gesicht wischen 
+- [ ] Gesicht waschen 
+- [ ] abgestorbene marone raus und neue einsetzen 
 - [ ] Paprikamark aus tk holen 
 - [ ] Duolingo
 - Aldi 
