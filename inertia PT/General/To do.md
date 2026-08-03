@@ -132,7 +132,7 @@
 - [ ] abgestorbene marone raus und neue einsetzen 
 - [ ] Paprikamark aus tk holen 
 - [ ] Duolingo
-- [ ] Muskateller Salbei Samen für s
+- [ ] Muskateller Salbei Samen für Schulgarten 
 - Aldi 
 	- [ ] Hafermilch 
 	- [ ] saft
@@ -148,7 +148,7 @@
 - [ ] staubsaugen 
 - Bauhaus 
 	- [ ] Innenvierkant 
-	- [ ] salatsamen 
+		- [ ] passt nicht ⟹ umtauschen 
 - [ ] Schulgarten checken/gießen
 - [x] rasieren 
 - [ ] Turnbeutel in Wäsche 
