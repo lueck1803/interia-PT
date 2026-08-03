@@ -132,6 +132,8 @@
 	- [ ] Hafermilch 
 	- [ ] saft
 	- [ ] Zitronen 
+- [ ] Zitronensaft pressen und einfrieren 
+- [ ] essen mit Bohnen fertig kochen 
 - [x] salat eingraben 
 - [ ] Balkonpflanzen gießen 
 - [ ] staubsaugen 
