@@ -127,8 +127,8 @@
 - [ ] Krafttraining 
 - [ ] erstmal Zähne putzen, Gesicht waschen, Balkon gießen, Schulgarten und Hornbach, dann weiter PC 
 	- [x] Zähne putzen
-	- [ ] rasieren 
-	- [ ] Gesicht waschen 
+	- [x] rasieren 
+	- [x] Gesicht waschen 
 	- [ ] Balkonpflanzen gießen 
 	- [ ] Schulgarten checken/gießen
 - [ ] to do leeren
@@ -195,7 +195,6 @@
 	- [ ] graka kaufen 🤷
 - [x] 60° Wäsche 
 - [ ] Dampfdruckkochtopf spülen 
-- [ ] Essen in den Kühlschrank 
 - [ ] passt mir mein Trainingsanzug noch?
 - [ ] meditieren
 - [ ] duschen
