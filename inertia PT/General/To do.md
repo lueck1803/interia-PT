@@ -125,6 +125,7 @@
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 - [x] Krafttraining 
+- [ ] flaschen spülen
 - [ ] 60° Wäsche 
 - [ ] Essen in den Kühlschrank 
 - [ ] passt mir mein Trainingsanzug noch?
