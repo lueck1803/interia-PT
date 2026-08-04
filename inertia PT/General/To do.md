@@ -126,6 +126,9 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 - [ ] Krafttraining 
 - [ ] erstmal Zähne putzen, Gesicht waschen, Balkon gießen, Schulgarten und Hornbach, dann weiter PC 
+	- [ ] Zähne putzen
+	- [ ] nass rasieren 
+	- [ ] Gesicht waschen 
 - [ ] to do leeren
 - [ ] flaschen spülen
 - [ ] Restmüll weg
@@ -153,7 +156,8 @@
 		- [x] Erstmal nur pcieex16_2 Mode wieder auf auto
 		- [x] beides auf Auto 
 		- ⤷ ändert gar nix
-		- jetzt in 
+	- [ ] jetzt in Combi mit launch csm 
+		- [ ] mit fest gestellten Werten 
 - [ ] launch csm testen
 - [ ] unkown usb device (set address failed) ergründen 
 - [ ] nvme raid mode
@@ -182,15 +186,12 @@
 - [ ] Dampfdruckkochtopf spülen 
 - [ ] Essen in den Kühlschrank 
 - [ ] passt mir mein Trainingsanzug noch?
-- [ ] rasieren 
 - [ ] meditieren
 - [ ] duschen
 - [ ] Teebaumöl auftragen
 - [ ] Iod auftragen
 - [ ] Spülmaschine ausräumen 
 - [ ] Balkonpflanzen gießen 
-- [ ] Zähne putzen
-- [x] Gesicht waschen 
 - [x] Tastatur wischen 
 - [ ] abgestorbene marone raus und neue einsetzen 
 - [ ] Duolingo
