@@ -162,7 +162,7 @@
 		- [x] mit fest gestellten Werten 
 			- damit gehen die Bildschirme 
 			- gehen aber kurz nach dem Start wieder aus
-		- [ ] mit auto
+		- [x] mit auto
 - [x] launch csm testen
 - [ ] verschiedene tb Einstellungen testen 
 - [ ] unkown usb device (set address failed) ergründen 
