@@ -151,6 +151,7 @@
 - [ ] csm 
 	- [ ] launch csm
 - [ ] boot option
+	- [ ] iba ge slot 0500 v0409
 - [ ] 60° Wäsche 
 - [ ] Essen in den Kühlschrank 
 - [ ] passt mir mein Trainingsanzug noch?
@@ -166,7 +167,7 @@
 - [x] Tastatur wischen 
 - [ ] abgestorbene marone raus und neue einsetzen 
 - [x] Paprikamark aus tk holen 
-- [x] Duolingo
+- [ ] Duolingo
 - [ ] Muskateller Salbei Samen für Schulgarten 
 - Aldi 
 	- [x] Hafermilch 
@@ -176,7 +177,9 @@
 	- [x] Toast 
 	- [x] Eis 
 	- [x] spülbürsten 
-- [ ] Zitronensaft pressen und einfrieren 
+- [ ] Zitronensaft 
+	- [x] pressen
+	- [ ] einfrieren 
 - [x] essen mit Bohnen fertig kochen 
 	- [x] Paprika mark
 	- [x] Zitronensaft 
