@@ -166,7 +166,7 @@
 			- ändert auch nix, scheint random zu sein ob die Bildschirme angehen 
 			- aus dem Start heruntergefahren ohne powerloss geht es
 			- aber Bildschirme bleiben noch kürzer an in windoof...
-			- ol
+			- <font color="#7cfc00">Ok... Eben ging es nach powerloss? </font>Total random...
 - [x] launch csm testen
 - [ ] verschiedene tb Einstellungen testen 
 - [ ] unkown usb device (set address failed) ergründen 
