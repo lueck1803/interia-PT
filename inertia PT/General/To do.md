@@ -147,6 +147,7 @@
 	- [ ] pcieex16_2 Mode
 	- [ ] pcieex16_2 4x-1x Switch 
 	- ⤷ mit gen3 und 4x scheint es jedenfalls nicht zu funktionieren unter Windows 🤔🤷
+	- Windows bootscreen kommt auf tb Bildschirmen
 - [ ] nvme raid mode
 - [ ] nb config
 	- [ ] igfx multi monitor 
