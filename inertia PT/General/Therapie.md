@@ -283,6 +283,8 @@ flowchart TB
 	- ⤷ Sie nimmt mich nicht in Schutz 
 
 # Tagebuch?
+## 2026-08-04
+Krass hab nach Ewigkeit mal wieder <font color="#c00000">Nasenbluten</font>. Und das krasse ist, dass mir <font color="#ff0000">sofort komisch</font> geworden ist, schon bevor ich das Blut richtig gesehen habe.
 ## 2026-07-30
 ### Arooj
 #### schuldig
