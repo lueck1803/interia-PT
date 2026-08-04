@@ -124,12 +124,16 @@
 # unsortiert 
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
-- [ ] <font color="#FF6E6E">Krafttraining</font> 
-- [x] <font color="#ff0000">Duolingo</font>
-- [ ] obsidian <font color="#d99694">plugins</font> 
+- [ ] Krafttraining 
+- [x] Duolingo
+- [ ] obsidian plugins 
 	- [ ] html table
-	- [ ] html checkbox 
-- [ ] helleren rotton hinzufügen 
+		- [x] mac
+		- [ ] pc
+	- [ ] html checkbox 	
+		- [x] mac
+		- [ ] pc
+- [x] <font color="#ff6e6e">helleren</font> <font color="#ff3d3d">rotton</font> <font color="#ff0000">hinzufügen</font> 
 - [ ] erstmal Zähne putzen, Gesicht waschen, Balkon gießen, Schulgarten und Hornbach, dann weiter PC 
 	- [x] Zähne putzen
 	- [x] rasieren 
