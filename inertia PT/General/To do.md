@@ -180,7 +180,7 @@
 			- auf nen Neustart geht es wieder nicht🧐😵‍💫
 			- nach herunterfahren und starten geht es auch nicht
 			- ⤷ total random 
-- es ist alles so random, dass es auch einfach nen Wackler hat...
+- es ist alles so random, dass es auch einfach nen Wackler haben könnte
 - [x] launch csm testen
 - [ ] verschiedene tb Einstellungen testen 
 - [ ] unkown usb device (set address failed) ergründen 
