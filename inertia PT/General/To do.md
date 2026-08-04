@@ -163,7 +163,7 @@
 			- damit gehen die Bildschirme 
 			- gehen aber kurz nach dem Start wieder aus
 		- [x] mit auto
-			- ändert auch nix, scheint random zu sein ob die Bildschirme ange
+			- ändert auch nix, scheint random zu sein ob die Bildschirme angehen 
 - [x] launch csm testen
 - [ ] verschiedene tb Einstellungen testen 
 - [ ] unkown usb device (set address failed) ergründen 
