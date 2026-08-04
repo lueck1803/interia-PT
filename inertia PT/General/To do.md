@@ -220,23 +220,14 @@
 - [ ] duschen
 - [ ] Teebaumöl auftragen
 - [ ] Iod auftragen
+- [x] Spülmaschine anstellen
 - [ ] Spülmaschine ausräumen 
 - [ ] abgestorbene marone raus und neue einsetzen 
 - [ ] Muskateller Salbei Samen für Schulgarten 
 - [ ] Zitronensaft 
 	- [x] pressen
 	- [ ] einfrieren 
-- [x] essen mit Bohnen fertig kochen 
-	- [x] Paprika mark
-	- [x] Zitronensaft 
-	- [x] Kreuzkümmel 
-	- [x] Knoblauch 
-	- [x] Zwiebeln 
-	- [x] Ingwer 
-	- [x] rocoto
-	- [x] Kräuter schneiden 
-- [x] Reis kochen 
-- [x] salat eingraben 
+
 - [ ] staubsaugen 
 - Bauhaus 
 	- Innenvierkant 
@@ -357,14 +348,7 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 	- [x] putzen
 	- [x] abtrocknen 
 	- [x] in Vorratsschrank 
-- [x] Ceranfeld 
-- [ ] Krafttraining 
-- [x] rasieren 
 - [ ] 3. bildschirm anschließen ⟹ geht momentan nicht...
-
-
-- [x] Spülmaschine anstellen
-- [x] Spülmaschine ausräumen
 - [ ] schneller schwimmen lernen 
 - [ ] cityrad bremse
 - [x] Nasenhaare schneiden 
@@ -1194,6 +1178,17 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] <span style="color:coral">paartherapie S3 runterladen</span>
 
 # Alt
+- [x] essen mit Bohnen fertig kochen 
+	- [x] Paprika mark
+	- [x] Zitronensaft 
+	- [x] Kreuzkümmel 
+	- [x] Knoblauch 
+	- [x] Zwiebeln 
+	- [x] Ingwer 
+	- [x] rocoto
+	- [x] Kräuter schneiden 
+- [x] Reis kochen 
+- [x] salat eingraben 
 - [x] Adapter von altem 24" Bildschirm entfernen/nutzen 
 	- [x] Hauptbildschirm geht damit über HDMI 🥳
 - [x] <font color="#c71585">thunderboltkarte</font> <font color="#ff69b4">einbauen</font> 
