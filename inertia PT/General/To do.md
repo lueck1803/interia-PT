@@ -150,6 +150,7 @@
 	- Windows bootscreen kommt auf tb Bildschirmen
 	- wieder auf auto stellen?
 		- [ ] Erstmal nur pcieex16_2 Mode wieder auf auto
+- [ ] launch csm testen
 - [ ] unkown usb device (set address failed) ergründen 
 - [ ] nvme raid mode
 - [ ] nb config
