@@ -22,5 +22,6 @@
   "remove-html-tag",
   "markdown-table-editor",
   "html-tables",
-  "html-checkboxes"
+  "html-checkboxes",
+  "mobile-pdf-exporter"
 ]
