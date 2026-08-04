@@ -143,7 +143,14 @@
 	- [ ] power on by rtc
 - [ ] Einstellung für
 	- [ ] pcieex16_2 Mode
-	- [ ] pcieex16_2 Mode
+	- [ ] pcieex16_2 4x-1x Switch 
+- [ ] nvme raid mode
+- [ ] nb config
+	- [ ] igfx multi monitor 
+	- [ ] primary video device 
+- [ ] csm 
+	- [ ] launch csm
+- [ ] boot option
 - [ ] 60° Wäsche 
 - [ ] Essen in den Kühlschrank 
 - [ ] passt mir mein Trainingsanzug noch?
