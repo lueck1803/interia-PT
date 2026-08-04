@@ -127,7 +127,7 @@
 - [ ] Krafttraining 
 - [ ] erstmal Zähne putzen, Gesicht waschen, Balkon gießen, Schulgarten und Hornbach, dann weiter PC 
 	- [ ] Zähne putzen
-	- [ ] nass rasieren 
+	- [ ] rasieren 
 	- [ ] Gesicht waschen 
 - [ ] to do leeren
 - [ ] flaschen spülen
