@@ -124,7 +124,7 @@
 # unsortiert 
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
-Geschnittene Äpfel sind immer so schnell weg futtert
+<font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg futtert</font>
 - [x] carnivoren gießen 
 - [x] Pfeffermühle nachfüllen 
 - [x] Äpfel waschen 
