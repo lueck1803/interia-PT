@@ -133,6 +133,7 @@
 	- [ ] Essen in den Kühlschrank 
 	- [ ] ne Kleinigkeit davon essen
 	- [ ] Schulgarten checken/gießen
+- [ ] ceran Feld wischen 
 - [ ] to do leeren
 - [ ] flaschen spülen
 - [ ] Restmüll weg
