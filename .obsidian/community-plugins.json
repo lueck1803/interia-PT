@@ -19,10 +19,8 @@
   "obsidian-heading-shifter",
   "languagetool",
   "editing-toolbar",
-  "markdown-table-editor",
   "remove-html-tag",
-  "url-namer",
-  "mobile-pdf-exporter",
-  "html-checkboxes",
-  "html-tables"
+  "markdown-table-editor",
+  "html-tables",
+  "html-checkboxes"
 ]
