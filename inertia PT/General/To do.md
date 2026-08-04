@@ -208,7 +208,7 @@
 	- [ ] graka kaufen 🤷
 - [x] 60° Wäsche 
 - [x] 60° Wäsche  nochmal schleudern 
-- [ ] 60° Wäsche aufhängen 
+- [x] 60° Wäsche aufhängen 
 - [ ] Dampfdruckkochtopf spülen 
 - [ ] passt mir mein Trainingsanzug noch?
 - [ ] meditieren
@@ -222,14 +222,7 @@
 - [ ] Zitronensaft 
 	- [x] pressen
 	- [ ] einfrieren 
-
-- [ ] staubsaugen 
-- Bauhaus 
-	- Innenvierkant 
-		- passt nicht ⟹ umtauschen 
-		- gibt im Bauhaus keinen kleineren als 7mm
-- [ ] Vierkant im Schulgarten messen 
-	- [ ] ⤷ im Hornbach besorgen 
+- [x] staubsaugen 
 - [ ] bei shin son hab kido anmelden/vorbei schauen, wann die Training haben 
 - [ ] Turnbeutel in Wäsche 
 - [ ] Ticket für *my sleeping karma*
@@ -1132,6 +1125,12 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] <span style="color:coral">paartherapie S3 runterladen</span>
 
 # Alt
+- Bauhaus 
+	- Innenvierkant 
+		- passt nicht ⟹ umtauschen 
+		- gibt im Bauhaus keinen kleineren als 7mm
+- [x] Vierkant im Schulgarten messen 
+	- [x] ⤷ im Hornbach besorgen 
 - [x] essen mit Bohnen fertig kochen 
 	- [x] Paprika mark
 	- [x] Zitronensaft 
