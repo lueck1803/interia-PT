@@ -125,6 +125,7 @@
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 - [ ] Tastatur wischen 
+- [ ] email Gesamtkonferenz 
 - [ ] Krafttraining 
 - [x] Duolingo
 - [x] obsidian plugins 
