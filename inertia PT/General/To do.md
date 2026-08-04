@@ -125,21 +125,21 @@
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 - [x] carnivoren gießen 
-- [ ] Pfeffermühle nachfüllen 
-- [ ] Äpfel waschen 
-- [ ] Tastatur wischen 
+- [x] Pfeffermühle nachfüllen 
+- [x] Äpfel waschen 
+- [x] Tastatur wischen 
 - [ ] email Gesamtkonferenz 
 - [ ] Krafttraining 
 - [x] Duolingo
 - [ ] Zähne putzen
 - [x] rasieren 
 - [ ] Gesicht waschen 
-- [ ] Balkonpflanzen gießen 
+- [x] Balkonpflanzen gießen 
 - [x] was Essen
 - [x] Schulgarten checken/gießen
 - [ ] ceran Feld wischen 
-- [ ] Nagelknipser leeren
-- [ ] carnivorenwasser auffüllen 
+- [x] Nagelknipser leeren
+- [x] carnivorenwasser auffüllen 
 - [ ] to do leeren
 - [ ] flaschen spülen
 - [ ] Restmüll weg
@@ -209,7 +209,7 @@
 - [x] 60° Wäsche 
 - [x] 60° Wäsche  nochmal schleudern 
 - [x] 60° Wäsche aufhängen 
-- [ ] Dampfdruckkochtopf spülen 
+- [x] Dampfdruckkochtopf spülen 
 - [ ] passt mir mein Trainingsanzug noch?
 - [ ] meditieren
 - [ ] duschen
