@@ -162,7 +162,7 @@
 		- [x] mit fest gestellten Werten 
 			- damit gehen die Bildschirme 
 			- gehen aber kurz nach dem Start wieder aus
-		- [ ] 
+		- [ ] mit auto
 - [ ] launch csm testen
 - [ ] unkown usb device (set address failed) ergründen 
 - [ ] nvme raid mode
