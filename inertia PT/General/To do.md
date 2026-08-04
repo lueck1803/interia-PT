@@ -130,6 +130,7 @@
 	- [ ] rasieren 
 	- [ ] Gesicht waschen 
 	- [ ] Balkonpflanzen gießen 
+	- [ ] Schulgarten checken/gießen
 - [ ] to do leeren
 - [ ] flaschen spülen
 - [ ] Restmüll weg
@@ -225,7 +226,6 @@
 		- gibt im Bauhaus keinen kleineren als 7mm
 - [ ] Vierkant im Schulgarten messen 
 	- [ ] ⤷ im Hornbach besorgen 
-- [ ] Schulgarten checken/gießen
 - [ ] bei shin son hab kido anmelden/vorbei schauen, wann die Training haben 
 - [ ] Turnbeutel in Wäsche 
 - [ ] Ticket für *my sleeping karma*
