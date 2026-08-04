@@ -126,6 +126,12 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 - [x] Krafttraining 
 - [ ] flaschen spülen
+- [ ] thunderbolt ex4 Anschluss prüfen 
+	- [ ] testweise usb e1134 ausschalten 
+	- [ ] thunderbolt Karte usb2.0 umstöpseln
+- [ ] was ist memory mbist? Hatte ich angestellt. Wieder aus?
+- [ ] pcie 
+	- [ ] 
 - [ ] 60° Wäsche 
 - [ ] Essen in den Kühlschrank 
 - [ ] passt mir mein Trainingsanzug noch?
@@ -135,7 +141,7 @@
 - [ ] Teebaumöl auftragen
 - [ ] Iod auftragen
 - [ ] Spülmaschine ausräumen 
-- [x] Balkonpflanzen gießen 
+- [ ] Balkonpflanzen gießen 
 - [ ] Zähne putzen
 - [x] Gesicht waschen 
 - [x] Tastatur wischen 
@@ -168,7 +174,7 @@
 	- Innenvierkant 
 		- passt nicht ⟹ umtauschen 
 		- gibt im Bauhaus keinen kleineren als 7mm0
-- [x] Schulgarten checken/gießen
+- [ ] Schulgarten checken/gießen
 - [ ] bei shin son hab kido anmelden/vorbei schauen, wann die Training haben 
 - [ ] Turnbeutel in Wäsche 
 - [ ] Ticket für *my sleeping karma*
