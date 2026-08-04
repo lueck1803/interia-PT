@@ -148,6 +148,8 @@
 	- [ ] pcieex16_2 4x-1x Switch 
 	- ⤷ mit gen3 und 4x scheint es jedenfalls nicht zu funktionieren unter Windows 🤔🤷
 	- Windows bootscreen kommt auf tb Bildschirmen
+	- wieder auf auto stellen?
+		- [ ] Erstmal nur pcieex16_2 Mode wieder auf auto
 - [ ] unkown usb device (set address failed) ergründen 
 - [ ] nvme raid mode
 - [ ] nb config
@@ -161,10 +163,11 @@
 	- [ ] eig. Nicht denn die tb Karte wird ja auch so nicht erkannt 
 	- [ ] Docking Station mit tb Kabel anschließen 
 - [ ] Chat gpt Trouble Shooting 
-- [ ] zur Not alles bis auf HDMI Kabel zurück schicken?
 - [ ] Docking Station mit mac testen
 	- [ ] geht sie mit dem usb-c -> tb Kabel 
 	- [ ] geht der mac ohne Docking Station mit usb-c -> tb Kabel?
+- [ ] zur Not alles bis auf HDMI Kabel zurück schicken?
+	- [ ] graka kaufen 🤷
 - [x] 60° Wäsche 
 - [ ] Dampfdruckkochtopf spülen 
 - [ ] Essen in den Kühlschrank 
