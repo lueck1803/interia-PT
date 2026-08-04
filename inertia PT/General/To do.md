@@ -163,7 +163,8 @@
 			- damit gehen die Bildschirme 
 			- gehen aber kurz nach dem Start wieder aus
 		- [ ] mit auto
-- [ ] launch csm testen
+- [x] launch csm testen
+- [ ] verschiedene tb Einstellungen testen 
 - [ ] unkown usb device (set address failed) ergründen 
 - [ ] nvme raid mode
 - [ ] nb config
