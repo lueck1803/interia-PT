@@ -126,8 +126,9 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 - [ ] Krafttraining 
 - [x] Duolingo
-- [ ] 
-- [ ] html table
+- [ ] obsidian plugins 
+	- [ ] html table
+	- [ ] html checkbox 
 - [ ] helleren rotton hinzufügen 
 - [ ] erstmal Zähne putzen, Gesicht waschen, Balkon gießen, Schulgarten und Hornbach, dann weiter PC 
 	- [x] Zähne putzen
