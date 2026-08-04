@@ -150,7 +150,8 @@
 	- ⤷ mit gen3 und 4x scheint es jedenfalls nicht zu funktionieren unter Windows 🤔🤷
 	- Windows bootscreen kommt auf tb Bildschirmen
 	- wieder auf auto stellen?
-		- [ ] Erstmal nur pcieex16_2 Mode wieder auf auto
+		- [x] Erstmal nur pcieex16_2 Mode wieder auf auto
+		- [ ] beides 
 - [ ] launch csm testen
 - [ ] unkown usb device (set address failed) ergründen 
 - [ ] nvme raid mode
