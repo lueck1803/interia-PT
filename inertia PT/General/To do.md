@@ -125,6 +125,7 @@
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 - [ ] Krafttraining 
+- [x] Duolingo
 - [ ] erstmal Zähne putzen, Gesicht waschen, Balkon gießen, Schulgarten und Hornbach, dann weiter PC 
 	- [x] Zähne putzen
 	- [x] rasieren 
@@ -213,7 +214,6 @@
 - [ ] Spülmaschine ausräumen 
 - [x] Tastatur wischen 
 - [ ] abgestorbene marone raus und neue einsetzen 
-- [ ] Duolingo
 - [ ] Muskateller Salbei Samen für Schulgarten 
 - Aldi 
 	- [x] Hafermilch 
