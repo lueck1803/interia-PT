@@ -161,7 +161,7 @@
 	- [ ] jetzt in Combi mit launch csm 
 		- [x] mit fest gestellten Werten 
 			- damit gehen die Bildschirme 
-			- gegen
+			- gehen aber kurz nach dem Start wieder aus
 		- [ ] 
 - [ ] launch csm testen
 - [ ] unkown usb device (set address failed) ergründen 
