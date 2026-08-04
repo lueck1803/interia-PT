@@ -130,10 +130,12 @@
 	- [x] rasieren 
 	- [x] Gesicht waschen 
 	- [x] Balkonpflanzen gießen 
-	- [ ] Essen in den Kühlschrank 
+	- [x] Essen in den Kühlschrank 
 	- [ ] ne Kleinigkeit davon essen
 	- [ ] Schulgarten checken/gießen
 - [ ] ceran Feld wischen 
+- [ ] Nagelknipser leeren
+- [ ] carnivorenwasser auffüllen 
 - [ ] to do leeren
 - [ ] flaschen spülen
 - [ ] Restmüll weg
