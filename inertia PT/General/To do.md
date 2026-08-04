@@ -124,15 +124,16 @@
 # unsortiert 
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
+- [ ] Tastatur wischen 
 - [ ] Krafttraining 
 - [x] Duolingo
-- [ ] obsidian plugins 
-	- [ ] html table
+- [x] obsidian plugins 
+	- [x] html table
 		- [x] mac
-		- [ ] pc
-	- [ ] html checkbox 	
+		- [x] pc
+	- [x] html checkbox 	
 		- [x] mac
-		- [ ] pc
+		- [x] pc
 - [x] <font color="#ff6e6e">helleren</font> <font color="#ff3d3d">rotton</font> <font color="#ff0000">hinzufügen</font> 
 - [ ] erstmal Zähne putzen, Gesicht waschen, Balkon gießen, Schulgarten und Hornbach, dann weiter PC 
 	- [x] Zähne putzen
@@ -211,7 +212,7 @@
 - [ ] zur Not alles bis auf HDMI Kabel zurück schicken?
 	- [ ] graka kaufen 🤷
 - [x] 60° Wäsche 
-- [ ] 60° Wäsche  nochmal schleudern 
+- [x] 60° Wäsche  nochmal schleudern 
 - [ ] 60° Wäsche aufhängen 
 - [ ] Dampfdruckkochtopf spülen 
 - [ ] passt mir mein Trainingsanzug noch?
@@ -220,17 +221,8 @@
 - [ ] Teebaumöl auftragen
 - [ ] Iod auftragen
 - [ ] Spülmaschine ausräumen 
-- [x] Tastatur wischen 
 - [ ] abgestorbene marone raus und neue einsetzen 
 - [ ] Muskateller Salbei Samen für Schulgarten 
-- Aldi 
-	- [x] Hafermilch 
-	- [x] saft
-	- [x] bier
-	- [x] Zitronen 
-	- [x] Toast 
-	- [x] Eis 
-	- [x] spülbürsten 
 - [ ] Zitronensaft 
 	- [x] pressen
 	- [ ] einfrieren 
