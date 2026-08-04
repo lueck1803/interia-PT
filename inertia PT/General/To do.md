@@ -124,26 +124,17 @@
 # unsortiert 
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
+- [x] carnivoren gießen 
 - [ ] Tastatur wischen 
 - [ ] email Gesamtkonferenz 
 - [ ] Krafttraining 
 - [x] Duolingo
-- [x] obsidian plugins 
-	- [x] html table
-		- [x] mac
-		- [x] pc
-	- [x] html checkbox 	
-		- [x] mac
-		- [x] pc
-- [x] <font color="#ff6e6e">helleren</font> <font color="#ff3d3d">rotton</font> <font color="#ff0000">hinzufügen</font> 
-- [ ] erstmal Zähne putzen, Gesicht waschen, Balkon gießen, Schulgarten und Hornbach, dann weiter PC 
-	- [x] Zähne putzen
-	- [x] rasieren 
-	- [x] Gesicht waschen 
-	- [x] Balkonpflanzen gießen 
-	- [x] Essen in den Kühlschrank 
-	- [x] ne Kleinigkeit davon essen
-	- [ ] Schulgarten checken/gießen
+- [ ] Zähne putzen
+- [x] rasieren 
+- [ ] Gesicht waschen 
+- [ ] Balkonpflanzen gießen 
+- [ ] was Essen
+- [x] Schulgarten checken/gießen
 - [ ] ceran Feld wischen 
 - [ ] Nagelknipser leeren
 - [ ] carnivorenwasser auffüllen 
@@ -246,10 +237,6 @@
 - [ ] letzte Simulationen checken und snapshots machen
 - [ ] Proposal
 - [ ] französisch aufschreiben 
-- Aldi 
-	- [x] salat mit Wurzelballen 
-- Briefkasten checken
-	- [x] Zeug ist schon angekommen 
 - PC fertig machen 
 	- Puuh so nice, dass es geht🥰🥳
 	- [ ] braucht nach dem Neustart halt ein bisschen bis die Bildschirme angehen 🤔
@@ -283,43 +270,11 @@
 Nosfe-Arthur ⇔ Nosfe-Rita 
 - [ ] Bluetooth box modden 🥰 [sound mod Anleitung](https://olegkutkov.me/2021/02/27/hacking-a-firmware-of-bluetooth-speaker-fm-radio/)
 - [x] Wetterstation beide Batterien wechseln 
-	- [x] außenstation checken ⟹scheint wohl wieder zu funken
-- [x] Maracuja umsetzen 
-- [x] Olivendose + Käsedose anbohren
-	- ⟹ <font color="#953734">dafür neue Bohrmaschine nutzen</font>
-	-  ⤷echt top 🥳🥰
-- [x] anderen beiden Maracujas umsetzen 
-- [x] Rosmarin umsetzen 
-- [x] zwei maronen umsetzen
-- [x] Behälter aufschneiden und bohren
-	- [x] ne Walnuss rein setzen 
-- [x] carnivoren gießen 
-- [x] carnivorenwasser auffüllen .
-- [x] Schulgarten checken/gießen
-	- [x] nochmal mit zange 
-	- [x] bzw. Außenvierkant 
-		- hab ich nicht 
-		- Schraubenzieher Aufsatz hat geklappt 
-- Aldi (Pfand)
-	- [x] Saft 
-	- [x] bier
-- [x] friseur (Fahrradkorb )
-- [x] Rossmann 
-	- [x] Teebaumöl 
-	- [x] Handcreme 
-	- [x] Melk Fett 
-- [x] Müller destilliertes Wasser 
-- [x] gibt's in der Innenstadt salatsamen? <font color="#c71585">Rewe?</font>
-	- ne nicht im Rewe
-- [ ] Bauhaus 
-	- [ ] destilliertes Wasser 
-	- [ ] salatsamen 
-	- [ ] Rindenmulch 
-	- [ ] Sand 
+- [x] Friseur 
 - Tastatur wischen 
 	- [x] laptop
 	- [x] PC
-- [x] Wäsche 
+- Wäsche 
 	- [x] abhängen 
 	- [x] zusammen legen 
 
@@ -344,11 +299,6 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 	- [ ] from scythe to scepter 
 	- [ ] smoke of many fires
 
-- Backbleche
-	- [x] in Wohnung 
-	- [x] putzen
-	- [x] abtrocknen 
-	- [x] in Vorratsschrank 
 - [ ] 3. bildschirm anschließen ⟹ geht momentan nicht...
 - [ ] schneller schwimmen lernen 
 - [ ] cityrad bremse
