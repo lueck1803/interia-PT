@@ -130,6 +130,7 @@
 	- [x] rasieren 
 	- [x] Gesicht waschen 
 	- [ ] Balkonpflanzen gießen 
+	- [ ] Essen in den Kühlschrank 
 	- [ ] Schulgarten checken/gießen
 - [ ] to do leeren
 - [ ] flaschen spülen
@@ -168,6 +169,7 @@
 			- aber Bildschirme bleiben noch kürzer an in windoof...
 			- <font color="#7cfc00">Ok... Eben ging es nach powerloss? </font><font color="#daa520">Total random...</font>
 			- aber keine Anzeige im device manager 
+			- auf nen Neustart geht es wieder nicht🧐😵‍💫
 - [x] launch csm testen
 - [ ] verschiedene tb Einstellungen testen 
 - [ ] unkown usb device (set address failed) ergründen 
