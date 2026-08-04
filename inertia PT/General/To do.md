@@ -163,6 +163,7 @@
 			- damit gehen die Bildschirme 
 			- gehen aber kurz nach dem Start wieder aus
 		- [x] mit auto
+		- [ ] 
 - [x] launch csm testen
 - [ ] verschiedene tb Einstellungen testen 
 - [ ] unkown usb device (set address failed) ergründen 
@@ -170,7 +171,7 @@
 - [ ] nb config
 	- [ ] igfx multi monitor 
 	- [ ] primary video device 
-- [ ] csm 
+- [ ] csm (was bedeutet das?)
 	- [ ] launch csm
 - [ ] boot option
 	- [ ] iba ge slot 0500 v0409
