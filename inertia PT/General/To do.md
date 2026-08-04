@@ -124,9 +124,9 @@
 # unsortiert 
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
-- [ ] <font color="#ff5f40">Krafttraining</font> 
+- [ ] <font color="#FF6E6E">Krafttraining</font> 
 - [x] <font color="#ff0000">Duolingo</font>
-- [ ] obsidian plugins 
+- [ ] obsidian <font color="#d99694">plugins</font> 
 	- [ ] html table
 	- [ ] html checkbox 
 - [ ] helleren rotton hinzufügen 
