@@ -160,7 +160,9 @@
 		- ⤷ ändert gar nix
 	- [ ] jetzt in Combi mit launch csm 
 		- [x] mit fest gestellten Werten 
-			- [x] damit geht es
+			- damit gehen die Bildschirme 
+			- gegen
+		- [ ] 
 - [ ] launch csm testen
 - [ ] unkown usb device (set address failed) ergründen 
 - [ ] nvme raid mode
