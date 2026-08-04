@@ -126,7 +126,7 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 - [x] carnivoren gießen 
 - [ ] Pfeffermühle nachfüllen 
-- [ ] Äpfel 
+- [ ] Äpfel waschen 
 - [ ] Tastatur wischen 
 - [ ] email Gesamtkonferenz 
 - [ ] Krafttraining 
