@@ -20,5 +20,9 @@
   "languagetool",
   "editing-toolbar",
   "markdown-table-editor",
-  "remove-html-tag"
+  "remove-html-tag",
+  "url-namer",
+  "mobile-pdf-exporter",
+  "html-checkboxes",
+  "html-tables"
 ]
