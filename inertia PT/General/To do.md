@@ -200,6 +200,8 @@
 - [ ] zur Not alles bis auf HDMI Kabel zurück schicken?
 	- [ ] graka kaufen 🤷
 - [x] 60° Wäsche 
+- [ ] 60° Wäsche  nochmal schleudern 
+- [ ] 60° Wäsche aufhängen 
 - [ ] Dampfdruckkochtopf spülen 
 - [ ] passt mir mein Trainingsanzug noch?
 - [ ] meditieren
