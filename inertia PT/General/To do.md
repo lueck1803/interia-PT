@@ -124,8 +124,8 @@
 # unsortiert 
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
-- [x] Krafttraining 
-- [ ] to do
+- [ ] Krafttraining 
+- [ ] to do leeren
 - [ ] flaschen spülen
 - [ ] thunderbolt ex4 Anschluss prüfen 
 	- [ ] testweise usb e1134 ausschalten 
@@ -167,7 +167,6 @@
 - [x] Gesicht waschen 
 - [x] Tastatur wischen 
 - [ ] abgestorbene marone raus und neue einsetzen 
-- [x] Paprikamark aus tk holen 
 - [ ] Duolingo
 - [ ] Muskateller Salbei Samen für Schulgarten 
 - Aldi 
@@ -196,7 +195,9 @@
 - Bauhaus 
 	- Innenvierkant 
 		- passt nicht ⟹ umtauschen 
-		- gibt im Bauhaus keinen kleineren als 7mm0
+		- gibt im Bauhaus keinen kleineren als 7mm
+- [ ] Vierkant im Schulgarten messen 
+	- [ ] ⤷ im Hornbach besorgen 
 - [ ] Schulgarten checken/gießen
 - [ ] bei shin son hab kido anmelden/vorbei schauen, wann die Training haben 
 - [ ] Turnbeutel in Wäsche 
@@ -231,7 +232,6 @@
 - [ ] probieren mit knöchel zu tappen, wie das jassy im video gemacht hat
 - [ ] Bauhaus 
 	- [ ] Vierkant Flügelschraube 
-	- [ ] salatsamen 
 - [ ] Handydisplay Folie 
 - was mit Ackerbohnen kochen 
 	- [x] Ackerbohnen aufsetzen 
