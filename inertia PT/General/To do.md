@@ -164,6 +164,9 @@
 			- gehen aber kurz nach dem Start wieder aus
 		- [x] mit auto
 			- ändert auch nix, scheint random zu sein ob die Bildschirme angehen 
+			- aus dem Start heruntergefahren ohne powerloss geht es
+			- aber Bildschirme bleiben noch kürzer an in windoof...
+			- ol
 - [x] launch csm testen
 - [ ] verschiedene tb Einstellungen testen 
 - [ ] unkown usb device (set address failed) ergründen 
