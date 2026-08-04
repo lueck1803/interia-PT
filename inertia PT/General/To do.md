@@ -153,7 +153,7 @@
 	- [ ] launch csm
 - [ ] boot option
 	- [ ] iba ge slot 0500 v0409
-- [ ] 60° Wäsche 
+- [x] 60° Wäsche 
 - [ ] Essen in den Kühlschrank 
 - [ ] passt mir mein Trainingsanzug noch?
 - [ ] rasieren 
