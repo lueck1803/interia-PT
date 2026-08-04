@@ -165,6 +165,7 @@
 	- [ ] eig. Nicht denn die tb Karte wird ja auch so nicht erkannt 
 	- [ ] Docking Station mit tb Kabel anschließen 
 - [ ] Chat gpt Trouble Shooting 
+- [ ] welche Firmware hab ich drauf
 - [ ] Docking Station mit mac testen
 	- [ ] geht sie mit dem usb-c -> tb Kabel 
 	- [ ] geht der mac ohne Docking Station mit usb-c -> tb Kabel?
