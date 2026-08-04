@@ -126,7 +126,7 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 - [ ] Krafttraining 
 - [ ] erstmal Zähne putzen, Gesicht waschen, Balkon gießen, Schulgarten und Hornbach, dann weiter PC 
-	- [ ] Zähne putzen
+	- [x] Zähne putzen
 	- [ ] rasieren 
 	- [ ] Gesicht waschen 
 	- [ ] Balkonpflanzen gießen 
@@ -167,7 +167,7 @@
 			- aus dem Start heruntergefahren ohne powerloss geht es
 			- aber Bildschirme bleiben noch kürzer an in windoof...
 			- <font color="#7cfc00">Ok... Eben ging es nach powerloss? </font><font color="#daa520">Total random...</font>
-			- Acer
+			- aber keine Anzeige im device manager 
 - [x] launch csm testen
 - [ ] verschiedene tb Einstellungen testen 
 - [ ] unkown usb device (set address failed) ergründen 
