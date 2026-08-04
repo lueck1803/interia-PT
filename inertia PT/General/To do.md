@@ -131,7 +131,7 @@
 	- [x] Gesicht waschen 
 	- [x] Balkonpflanzen gießen 
 	- [x] Essen in den Kühlschrank 
-	- [ ] ne Kleinigkeit davon essen
+	- [x] ne Kleinigkeit davon essen
 	- [ ] Schulgarten checken/gießen
 - [ ] ceran Feld wischen 
 - [ ] Nagelknipser leeren
