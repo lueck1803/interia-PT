@@ -134,7 +134,7 @@
 		- [x] mac
 		- [ ] pc
 - [x] <font color="#ff6e6e">helleren</font> <font color="#ff3d3d">rotton</font> <font color="#ff0000">hinzufügen</font> 
-- [ ] erstmal Zähne putzen, Gesicht waschen, Balkon gießen, Schulgarten und Hornbach, dann weiter PC 
+- [ ] erstmal Zähne <font color="#c00000">putzen</font>, Gesicht waschen, Balkon gießen, Schulgarten und Hornbach, dann weiter PC 
 	- [x] Zähne putzen
 	- [x] rasieren 
 	- [x] Gesicht waschen 
