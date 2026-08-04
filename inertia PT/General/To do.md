@@ -131,7 +131,19 @@
 	- [ ] thunderbolt Karte usb2.0 umstöpseln
 - [ ] was ist memory mbist? Hatte ich angestellt. Wieder aus?
 - [ ] pcie 
-	- [ ] 
+	- [ ] ari Support 
+	- [ ] ari enumeration
+- [ ] pci subsystem 
+	- [ ] above 4g decoding 
+	- [ ] resize bar support 
+	- [ ] sr-iov support 
+- [ ] apm configuration 
+	- [ ] restore ac power loss
+	- [ ] power on by pci-e
+	- [ ] power on by rtc
+- [ ] Einstellung für
+	- [ ] pcieex16_2 Mode
+	- [ ] pcieex16_2 Mode
 - [ ] 60° Wäsche 
 - [ ] Essen in den Kühlschrank 
 - [ ] passt mir mein Trainingsanzug noch?
