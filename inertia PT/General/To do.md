@@ -125,7 +125,7 @@
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 - [ ] Krafttraining 
-- [ ] erstmal Zähne putzen, Gesicht waschen, Balkon gießen, 
+- [ ] erstmal Zähne putzen, Gesicht waschen, Balkon gießen, Schulgarten und Hornbach, dann weiter PC 
 - [ ] to do leeren
 - [ ] flaschen spülen
 - [ ] Restmüll weg
