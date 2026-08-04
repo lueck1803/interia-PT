@@ -159,7 +159,8 @@
 		- [x] beides auf Auto 
 		- ⤷ ändert gar nix
 	- [ ] jetzt in Combi mit launch csm 
-		- [ ] mit fest gestellten Werten 
+		- [x] mit fest gestellten Werten 
+			- [x] damit geht es
 - [ ] launch csm testen
 - [ ] unkown usb device (set address failed) ergründen 
 - [ ] nvme raid mode
