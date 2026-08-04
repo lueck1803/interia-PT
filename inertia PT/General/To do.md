@@ -159,6 +159,10 @@
 	- [ ] eig. Nicht denn die tb Karte wird ja auch so nicht erkannt 
 	- [ ] Docking Station mit tb Kabel anschließen 
 - [ ] Chat gpt Trouble Shooting 
+- [ ] zur Not alles bis auf HDMI Kabel zurück schicken?
+- [ ] Docking Station mit mac testen
+	- [ ] geht sie mit dem usb-c -> tb Kabel 
+	- [ ] geht der mac ohne Docking Station mit usb-c -> tb Kabel?
 - [x] 60° Wäsche 
 - [ ] Dampfdruckkochtopf spülen 
 - [ ] Essen in den Kühlschrank 
