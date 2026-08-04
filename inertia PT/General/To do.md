@@ -127,6 +127,7 @@
 - [ ] Krafttraining 
 - [ ] to do leeren
 - [ ] flaschen spülen
+- [ ] Restmüll weg
 - [ ] thunderbolt ex4 Anschluss prüfen 
 	- [ ] testweise usb e1134 ausschalten 
 	- [ ] thunderbolt Karte usb2.0 umstöpseln
@@ -145,6 +146,7 @@
 - [ ] Einstellung für
 	- [ ] pcieex16_2 Mode
 	- [ ] pcieex16_2 4x-1x Switch 
+	- 
 - [ ] nvme raid mode
 - [ ] nb config
 	- [ ] igfx multi monitor 
@@ -153,7 +155,12 @@
 	- [ ] launch csm
 - [ ] boot option
 	- [ ] iba ge slot 0500 v0409
+- [ ] kann es an der Docking Station liegen?
+	- [ ] eig. Nicht denn die tb Karte wird ja auch so nicht erkannt 
+	- [ ] Docking Station mit tb Kabel anschließen 
+- [ ] Chat gpt Trouble Shooting 
 - [x] 60° Wäsche 
+- [ ] Dampfdruckkochtopf spülen 
 - [ ] Essen in den Kühlschrank 
 - [ ] passt mir mein Trainingsanzug noch?
 - [ ] rasieren 
