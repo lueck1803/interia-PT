@@ -135,7 +135,7 @@
 - [x] rasieren 
 - [ ] Gesicht waschen 
 - [ ] Balkonpflanzen gießen 
-- [ ] was Essen
+- [x] was Essen
 - [x] Schulgarten checken/gießen
 - [ ] ceran Feld wischen 
 - [ ] Nagelknipser leeren
