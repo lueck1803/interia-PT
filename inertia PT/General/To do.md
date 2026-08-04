@@ -129,8 +129,9 @@
 	- [x] Zähne putzen
 	- [x] rasieren 
 	- [x] Gesicht waschen 
-	- [ ] Balkonpflanzen gießen 
+	- [x] Balkonpflanzen gießen 
 	- [ ] Essen in den Kühlschrank 
+	- [ ] ne Kleinigkeit davon essen
 	- [ ] Schulgarten checken/gießen
 - [ ] to do leeren
 - [ ] flaschen spülen
@@ -170,6 +171,8 @@
 			- <font color="#7cfc00">Ok... Eben ging es nach powerloss? </font><font color="#daa520">Total random...</font>
 			- aber keine Anzeige im device manager 
 			- auf nen Neustart geht es wieder nicht🧐😵‍💫
+			- nach herunterfahren und starten geht es auch nicht
+			- ⤷ total random 
 - [x] launch csm testen
 - [ ] verschiedene tb Einstellungen testen 
 - [ ] unkown usb device (set address failed) ergründen 
