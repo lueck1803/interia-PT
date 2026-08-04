@@ -129,6 +129,7 @@
 	- [ ] Zähne putzen
 	- [ ] rasieren 
 	- [ ] Gesicht waschen 
+	- [ ] Balkonpflanzen gießen 
 - [ ] to do leeren
 - [ ] flaschen spülen
 - [ ] Restmüll weg
@@ -191,7 +192,6 @@
 - [ ] Teebaumöl auftragen
 - [ ] Iod auftragen
 - [ ] Spülmaschine ausräumen 
-- [ ] Balkonpflanzen gießen 
 - [x] Tastatur wischen 
 - [ ] abgestorbene marone raus und neue einsetzen 
 - [ ] Duolingo
