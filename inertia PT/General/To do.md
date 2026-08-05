@@ -129,7 +129,7 @@
 - [x] balkon kehren 
 - [x] Balkon aufräumen 
 - [x] majoran schneiden 
-- [ ] kl
+- [ ] kleine braune weiß gepunktete Spinne bestimmen
 - [x] Pflanze beim majoran bestimmen 
 	- kleinblütiges Franzosenkraut 
 - [x] Dampfdruckkochtopf nochmal richtig spülen
