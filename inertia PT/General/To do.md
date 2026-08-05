@@ -132,7 +132,12 @@
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
+- [ ] 60° Wäsche %% fold %%
+	- [ ] abhängen 
+	- [ ] zusammenlegen 
+	- [ ] wegräumen 
 - [x] staubsaugen 
+- [ ] 
 - [ ] Bohnenessen essen
 - [ ] ce que/ce qui nochmal anschauen 
 - [ ] französisch Buch weiter lesen
@@ -342,15 +347,11 @@
 	- [ ] geht der mac ohne Docking Station mit usb-c -> tb Kabel?
 - [ ] zur Not alles bis auf HDMI Kabel zurück schicken?
 	- [ ] graka kaufen 🤷
-- [x] 60° Wäsche 
-- [x] 60° Wäsche  nochmal schleudern 
-- [x] 60° Wäsche aufhängen 
-- [x] Dampfdruckkochtopf spülen 
 - [ ] passt mir mein Trainingsanzug noch?
 - [x] Spülmaschine anstellen
 - abgestorbene marone raus und neue einsetzen 
 	- ne scheint noch zu leben
-- [ ] Muskateller Salbei Samen für Schulgarten 
+- [ ] Muskateller Salbei Samen für Schulgarten  %% fold %%
 - [ ] Zitronensaft  %% fold %%
 	- [x] pressen
 	- [ ] einfrieren 
