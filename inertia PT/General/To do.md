@@ -259,7 +259,6 @@
 - [ ] Kehrblech für Balkon kaufen 
 - [x] Nagelknipser leeren
 - [x] carnivorenwasser auffüllen 
-- [ ] to do leeren
 - [x] thunderbolt ex4 Anschluss prüfen  %% fold %%
 	- [x] testweise usb e1234 ausschalten 
 		- [x] ausschalten ohne power trennung nach ausschaltung ⟹ Bildschirm geht trotzdem
@@ -273,6 +272,7 @@
 			- ja Bildschirmfunktion über tb scheint mit ausgeschaltem usb e1234 zu funktionieren wie bisher. Liegt vielleicht daran
 			- hab <font color="#b088ff">usb e1234</font> wieder <font color="#7cfc00">eingeschaltet</font> übers bios
 	- [ ] thunderbolt Karte usb2.0 umstöpseln
+<font color="#ffc000">Das hatte ich aber auch noch nicht, dass die Bildschirme nach ner Zeit angingen und dann nach 2s wieder ausgehen? sieht echt nach nem wackler aus.</font>
 - [ ] was ist memory mbist? Hatte ich angestellt. Wieder aus?
 - [ ] pcie 
 	- [ ] ari Support 
@@ -286,7 +286,7 @@
 	- [ ] power on by pci-e
 	- [ ] power on by rtc
 - [ ] Einstellung für %% fold %%
-	- [ ] pcieex16_2 Mode
+	- [ ] pcieex16_2 Mode %% fold %%
 	- [ ] pcieex16_2 4x-1x Switch 
 	- ⤷ mit gen3 und 4x scheint es jedenfalls nicht zu funktionieren unter Windows 🤔🤷
 	- Windows bootscreen kommt auf tb Bildschirmen
