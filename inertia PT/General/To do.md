@@ -125,6 +125,7 @@
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg futtert</font>
+- [ ] staubsaugen 
 - [ ] Stundenplan für nächstes Jahr? In welchen Jahrgängen habe ich Unterricht:
 	- [ ] Liebe Kolleginnen und Kollegen,
 
@@ -149,7 +150,8 @@
 - [ ] Büsche mit schwarzen Früchten im Bürgerpark checken, ob es Faulbaum ist
 - [x] Pfeffermühle nachfüllen 
 - [x] Äpfel waschen 
-- [x] Tastatur wischen 
+- [ ] Tastatur wischen 
+	- [ ] Wasser und Lappen tauschen 
 - [ ] email Gesamtkonferenz 
 	- [ ] Liebe Kolleginnen und Kollegen,
 
@@ -169,7 +171,6 @@
 - [x] rasieren 
 - [ ] Gesicht waschen 
 - [ ] Balkonpflanzen gießen 
-- [x] was Essen
 - [ ] Schulgarten checken/gießen
 - [ ] ceran Feld wischen 
 - [x] Nagelknipser leeren
@@ -259,7 +260,6 @@
 - [ ] Zitronensaft 
 	- [x] pressen
 	- [ ] einfrieren 
-- [x] staubsaugen 
 - [ ] bei shin son hab kido anmelden/vorbei schauen, wann die Training haben 
 - [ ] Turnbeutel in Wäsche 
 - [ ] Ticket für *my sleeping karma*
