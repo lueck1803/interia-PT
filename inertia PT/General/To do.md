@@ -275,7 +275,7 @@
 <font color="#ffc000">Das hatte ich aber auch noch nicht, dass die Bildschirme nach ner Zeit angingen und dann nach 2s wieder ausgehen? sieht echt nach nem wackler aus.</font>
 Der Zeigt jetzt im device manager auch etwas neues an 🤔:
 ![[../../Pasted image 20260806000438.png]]
-Device Descriptor Request Fai
+<font color="#b088ff">Device Descriptor Request Failed...</font>
 - [ ] was ist memory mbist? Hatte ich angestellt. Wieder aus?
 - [ ] pcie 
 	- [ ] ari Support 
