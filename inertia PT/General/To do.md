@@ -144,6 +144,7 @@
 	- [x] anstellen
 	- [ ] schleudern 
 	- [ ] aufhängen 
+- [ ] Zähne putzen
 - [ ] duschen
 - [ ] rasieren 
 - [ ] Teebaumöl auftragen
@@ -219,8 +220,7 @@
 		- [ ] Checkliste/was muss ich wissen und wo kann ich es nachlesen bis zur nächsten Klausur erstellen 
 		- [ ] Regeln für den Unterricht klar überlegen 
 - [ ] Duolingo
-- [ ] Kornelkirschenstecklinge aus Schulgarten aufbereiten
-- [x] Zähne putzen
+- [x] Kornelkirschenstecklinge aus Schulgarten aufbereiten
 - [x] rasieren 
 - [x] Gesicht waschen 
 - [x] Balkonpflanzen gießen 
