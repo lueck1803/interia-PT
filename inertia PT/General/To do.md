@@ -212,7 +212,7 @@
 		- [ ] ok geht auch danach noch 🤔.<br> ⤷ ich probiere definitiv das umstöpseln aus
 		- ok gilt auch nach längerem powerloss
 		- [ ] ⤷ich schalte über das bios mal alle usb aus und teste ob das überhaupt funktioniert 
-			- [ ] ok da dadurch auch die m
+			- [ ] ok da dadurch auch die maus nicht gehen würde, Stelle ich nur alle usb 3.0 aus
 	- [ ] thunderbolt Karte usb2.0 umstöpseln
 - [ ] was ist memory mbist? Hatte ich angestellt. Wieder aus?
 - [ ] pcie 
