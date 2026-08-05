@@ -1,35 +1,45 @@
 - [ ] Rasierschaum 
+- [ ] Bier
 - [ ] Reis 
+- [ ] Hafermilch
 - [ ] Nudelsoßen 
 - [ ] Fensterstopper 
 - [ ] Kehrblech für Balkon
 - [ ] Betaisodona
+- [x] Chipotle mayo
+- [x] Schokomüsli
+- [x] Margarine 
+- [x] Gewürzketchup 
+- [x] Tomaten 
+- [x] gelbe Zwiebeln 
+- [x] Toast
 - [x] Vaseline 
 - [x] hummus
 - [x] Schoki 
-- [x] nüsse
+- [x] Nüsse
 - [x] Bananen 
 - [x] Burger 
-- [x] saft
+- [x] Saft
 - [x] Nusskati 
-- [x] pizza
-- [x] toast 
-- [x] bier
+- [x] Pizza
 - [x] Fusilli 
-- [x] Wanderschuhe (aldi)
-- [x] feilen
-- [x] Mini-Wasserwaage 
 - [x] Dosentomaten 
-- käse
+- Käse
 	- [x] für Brot 
-	- [x] Parmesan 
+	- [x] für Nudeln 
 - [x] Kartoffeln 
+- [x] Wassereis 
+- [x] Toilettenpapier 
+- [x] Tofu 
+- [x] Schmelzkäse Scheiben 
+- [x] grüne Oliven 
+- [x] Pesto 
+- [x] schoko chips
+- [x] grüne Erbsen 
+- [x] Mundspülung 
+- [x] destilliertes Wasser
 - [ ] Rindenmulch 
 - [ ] Sand 
-- [x] gelbe Zwiebeln 
-- [x] Steckerleiste (Aldi) 
-- [x] Dosentomaten 
-- [x] Toast
 - [ ] Wäschekorb/Behälter 
 	- (falls wieder im aldi)
 	- BHT - 44 cm x 60,5 cm  x 35,5 cm
@@ -39,10 +49,8 @@
 - [ ] Gewebeband 
 - [ ] salatsamen (Rewe - gab's da nicht)
 - [x] rinder steak 🥩
-- [x] hafermilch
 - [x] kiwi
 - [ ] destilliertes Wasser 
-- [x] Tomaten 
 - [ ] Laufschuhe 
 	- [ ] Brooks Adrenaline GTS 24 ~ 90€
 	- [ ] Brooks Addiction GTS 15 ~ 76,81€
@@ -50,31 +58,8 @@
 	- [ ] Salomon?
 - [x] Wanderschuhe (Aldi)
 - [ ] Fahrradhelm (wenn es im Aldi gibt?)
-- [x] destilliertes Wasser
-- [x] yoghurt 
-- [x] so ein soja Essen
 - [x] Backpulver 
-- [x] Bolognese soße
-- [x] Mundspülung 
-- [x] Alufolie 
 - [ ] Unterhemden
-- [x] erde aldi
-	- wenn <font color="#00b0f0">Aufzug</font> wieder geht
-	- ja perfekt, der Aufzug ging gerade wieder als ich die Erde kaufen wollte 2026-07-09
-- [x] Wassereis 
-- [x] Toilettenpapier 
-- [x] Teebaumöl 
-- [x] tofu 
-- [x] Schmelzkäse Scheiben 
-- [x] grüne Oliven 
-- [x] Pesto 
-- [x] schoko chips
-- [x] grüne Erbsen 
-- [x] Chipotle mayo
-- [x] schokomüsli
-- [x] Margarine 
-- [x] gewürz Ketchup 
-- [x] zink tabletten
 - [x] ventilator 
 - türke
 	- [x] weiße bohnen 
@@ -84,7 +69,6 @@
 	- [x] grüne erbsen
 	- [x] Paprika Mark süß 
 	- [x] Paprika Mark scharf
-- [x] Unterhosen 
 - [ ] Displayport - Displayport Kabel
 - [ ] 4er Pack CR2032 3V vom dm
 - [x] Vitamin D 

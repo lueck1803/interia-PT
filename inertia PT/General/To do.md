@@ -135,8 +135,10 @@
 - [x] staubsaugen 
 - [ ] neuen Rasierschaum ins bad
 	- [ ] hab tatsächlich keinen mehr, muss welchen kaufen gehen 
+- [ ] Kü
 - [ ] reis 
 	- [x] austragen 
+	- [ ] Behälter spülen 
 	- [ ] umfüllen 
 	- [ ] kochen
 - [ ] Restmüll weg
@@ -156,7 +158,7 @@
 - [x] Teebaumöl auftragen
 - [x] Iod auftragen
 - [ ] meditieren
-- [ ] ceran Feld wischen 
+- [x] ceran Feld wischen 
 - [ ] Spülmaschine ausräumen 
 - [ ] wie lange geht die Konferenz am Freitag?
 	- [ ] Bahnverbindung zu den Eltern heraussuchen 
