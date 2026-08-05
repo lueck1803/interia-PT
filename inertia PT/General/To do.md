@@ -133,6 +133,13 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg futtert</font>
 - [x] staubsaugen 
+- [ ] obsidian foldings? 
+	- [ ] wie merkt sich obsidian foldings? 
+		- [ ] offenbar in den os spezifischen daten als binary
+	- [ ] Wie kann ich es syncen?
+	      ⤷ <font color="#daa520">plugins?</font>
+		- [ ] foldstate?
+		- [ ] creases?
 - [ ] neuen Rasierschaum ins bad
 	- [ ] hab tatsächlich keinen mehr, muss welchen kaufen gehen 
 - [ ] reis 
