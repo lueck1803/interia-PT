@@ -139,7 +139,9 @@
 - [x] staubsaugen 
 - [ ] Äpfel schneiden
 - [ ] Äpfel aus dem Wasser holen
-- [ ] 15 min Gitarre spielen ~={DeepSkyBlue}mit Timer=~
+- [ ] 30 min Gitarre spielen ~={MediumViolet}fraught=~ ~={DeepSkyBlue}mit Timer=~ %% fold %%
+	- [ ] intro lead mit slide
+	- [ ] Stakkato 
 - [ ] Bohnenessen essen
 - [ ] ce que/ce qui nochmal anschauen 
 - [ ] französisch Buch weiter lesen
