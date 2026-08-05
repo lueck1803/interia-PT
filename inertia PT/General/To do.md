@@ -283,7 +283,7 @@ Wie sieht es mit der obersten Einstellung (<font color="#ff69b4">Alpine ridge</f
 - aber nach direktem start keine Bildschirme 
 	- ⤷nichts im device manager zu sehen 
 - nach shutdown?
-	- bulds 
+	- Bildschirme gehen an
 - [ ] was ist memory mbist? Hatte ich angestellt. Wieder aus?
 - [ ] pcie 
 	- [ ] ari Support 
