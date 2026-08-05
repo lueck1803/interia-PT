@@ -129,6 +129,7 @@
 - [x] balkon kehren 
 - [x] Balkon aufräumen 
 - [ ] majoran schneiden 
+- [ ] Pflanze beim majoran bestimmen 
 - [x] Dampfdruckkochtopf nochmal richtig spülen
 - [ ] Briefkasten checken
 - [ ] Stundenplan für nächstes Jahr? In welchen Jahrgängen habe ich Unterricht:
