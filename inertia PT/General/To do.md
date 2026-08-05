@@ -126,6 +126,9 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg futtert</font>
 - [ ] staubsaugen 
+- [ ] Restmüll weg
+- [ ] flaschen spülen
+- [ ] Briefkasten checken
 - [ ] wie lange geht die Konferenz am Freitag?
 	- [ ] Bahnverbindung zu den Eltern heraussuchen 
 	- [ ] in den Kalender eingetragen 
@@ -139,7 +142,6 @@
 - [x] Pflanze beim majoran bestimmen 
 	- kleinblütiges Franzosenkraut 
 - [x] Dampfdruckkochtopf nochmal richtig spülen
-- [ ] Briefkasten checken
 - [ ] Stundenplan für nächstes Jahr? In welchen Jahrgängen habe ich Unterricht:
 	- [ ] Liebe Kolleginnen und Kollegen,
 
@@ -161,7 +163,6 @@
 		Vielen Dank für eure Unterstützung. Wir freuen uns auf einen guten gemeinsamen Start in das neue Schuljahr.
 	- [ ] Termin notieren 
 - [x] carnivoren gießen 
-- [ ] Büsche mit schwarzen Früchten im Bürgerpark checken, ob es Faulbaum ist
 - [x] Pfeffermühle nachfüllen 
 - [x] Äpfel waschen 
 - [x] Tastatur wischen 
@@ -203,13 +204,12 @@
 - [ ] Schulgarten checken/gießen
 	- [x] Kamille Samen im Schulgarten verstreuen
 	- [ ] mit schere Steckling vom eventuellen Faulbaum machen 
+	- [ ] Büsche mit schwarzen Früchten im Bürgerpark checken, ob es Faulbaum ist
 	- [ ] Kehrblech für Balkon kaufen 
 - [ ] ceran Feld wischen 
 - [x] Nagelknipser leeren
 - [x] carnivorenwasser auffüllen 
 - [ ] to do leeren
-- [ ] flaschen spülen
-- [ ] Restmüll weg
 - [ ] thunderbolt ex4 Anschluss prüfen 
 	- [x] testweise usb e1234 ausschalten 
 		- [x] ausschalten ohne power trennung nach ausschaltung ⟹ Bildschirm geht trotzdem
@@ -289,9 +289,6 @@
 - [x] Dampfdruckkochtopf spülen 
 - [ ] passt mir mein Trainingsanzug noch?
 - [ ] meditieren
-- [ ] duschen
-- [ ] Teebaumöl auftragen
-- [ ] Iod auftragen
 - [x] Spülmaschine anstellen
 - [ ] Spülmaschine ausräumen 
 - [ ] abgestorbene marone raus und neue einsetzen 
