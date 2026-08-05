@@ -4,8 +4,9 @@
 - [x] Pfand 
 - [x] salz
 - [x] Nudelsoßen 
-- [ ] Reis 
-- [ ] Bier
+- [x] Reis 
+- [x] Olivenöl 
+- [x] Bier
 - [ ] Rasierschaum 
 - [ ] Hafermilch
 - [ ] Saft
