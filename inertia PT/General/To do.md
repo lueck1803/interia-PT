@@ -220,7 +220,7 @@
 - [x] Pflanze beim majoran bestimmen 
 	- kleinblütiges Franzosenkraut 
 - [x] Dampfdruckkochtopf nochmal richtig spülen
-- [ ] Stundenplan für nächstes Jahr? In welchen Jahrgängen habe ich Unterricht: %% fold %%
+- [ ] Stundenplan für nächstes Jahr? In welchen Jahrgängen habe ich Unterricht:
 	- [ ] Liebe Kolleginnen und Kollegen, %% fold %%
  %% fold %%
 		zum neuen Schuljahr führen wir Jahrgangsteamsitzungen ein. Diese sollen die Absprachen innerhalb der Jahrgänge erleichtern, die Kommunikation stärken und insbesondere den Austausch mit unseren neuen Kolleginnen und Kollegen fördern. %% fold %%
