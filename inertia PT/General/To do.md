@@ -126,7 +126,7 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg futtert</font>
 - [ ] staubsaugen 
-- [ ] balkon 
+- [ ] balkon kehren 
 - [x] Dampfdruckkochtopf nochmal richtig spülen
 - [ ] Briefkasten checken
 - [ ] Stundenplan für nächstes Jahr? In welchen Jahrgängen habe ich Unterricht:
