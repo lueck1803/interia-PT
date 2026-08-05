@@ -183,12 +183,12 @@
 - [ ] Bohnenessen essen
 - [ ] ce que/ce qui nochmal anschauen 
 - [ ] französisch Buch weiter lesen
-- [ ] reis
+- [ ] reis %% fold %%
 	- [x] austragen 
 	- [x] Behälter spülen  %% fold %%
 	- [ ] umfüllen 
 	- [x] kochen
-	- [ ] ⤷ in den Kühlschrank 
+	- [x] ⤷ in den Kühlschrank 
 - [x] Küchenabfall wegbringen 
 - [x] Restmüll weg
 - [x] Briefkasten checken %% fold %%
@@ -283,7 +283,7 @@ Wie sieht es mit der obersten Einstellung (<font color="#ff69b4">Alpine ridge</f
 - aber nach direktem start keine Bildschirme 
 	- ⤷nichts im device manager zu sehen 
 - nach shutdown?
-	- Bildschirme gehen an
+	- Bildschirme gehen an 
 - [ ] was ist memory mbist? Hatte ich angestellt. Wieder aus?
 - [ ] pcie 
 	- [ ] ari Support 
