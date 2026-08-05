@@ -208,7 +208,7 @@
 - [x] rasieren 
 - [x] Gesicht waschen 
 - [x] Balkonpflanzen gießen 
-- [ ] Schulgarten checken/gießen
+- [x] Schulgarten checken/gießen
 	- [x] Kamille Samen im Schulgarten verstreuen
 	- [ ] mit schere Steckling vom eventuellen Faulbaum machen 
 	- [ ] Büsche mit schwarzen Früchten im Bürgerpark checken, ob es Faulbaum ist
