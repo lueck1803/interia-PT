@@ -179,8 +179,8 @@
 	- [ ] umfüllen 
 	- [x] kochen
 - [x] Salz auffüllen 
-- [ ] Küchenabfall wegbringen 
-- [ ] Restmüll weg
+- [x] Küchenabfall wegbringen 
+- [x] Restmüll weg
 - [ ] Flaschen spülen
 - [x] Briefkasten checken
 - [ ] helle Wäsche <font color="#ff6e6e">2026-08-07</font> %% fold %%
