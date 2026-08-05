@@ -147,9 +147,9 @@
 - [x] Briefkasten checken
 - helle Wäsche 
 	- [x] anstellen
-	- [ ] schleudern 
-		- [ ] vorher riechen ob zu viel Waschpulver 
-		- [ ] ⤷ nochmal anstellen 
+	- [x] schleudern 
+		- [x] vorher riechen ob zu viel Waschpulver 
+		- ⤷ nochmal anstellen ⟹roch voll OK 
 	- [ ] aufhängen 
 - [x] Zähne putzen
 - [x] duschen
