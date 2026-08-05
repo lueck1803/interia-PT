@@ -1,6 +1,7 @@
 # Aldi
 ## Jetzt
-- 
+- Einkaufswagen 
+- [ ] Pfand 
 - [ ] salz
 - [ ] Nudelsoßen 
 - [ ] Reis 
