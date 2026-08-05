@@ -137,7 +137,9 @@
 	- [ ] zusammenlegen 
 	- [ ] wegräumen 
 - [x] staubsaugen 
-- [ ] 
+- [ ] Äpfel schneiden
+- [ ] Äpfel aus dem Wasser holen
+- [ ] 15 min G
 - [ ] Bohnenessen essen
 - [ ] ce que/ce qui nochmal anschauen 
 - [ ] französisch Buch weiter lesen
