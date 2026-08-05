@@ -130,6 +130,7 @@
 - [x] Balkon aufräumen 
 - [ ] majoran schneiden 
 - [ ] Pflanze beim majoran bestimmen 
+	- [ ] kleinblütiges franzosenkraut
 - [x] Dampfdruckkochtopf nochmal richtig spülen
 - [ ] Briefkasten checken
 - [ ] Stundenplan für nächstes Jahr? In welchen Jahrgängen habe ich Unterricht:
