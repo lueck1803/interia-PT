@@ -169,12 +169,15 @@
 		
 		Wir wünschen euch weiterhin erholsame Ferien und freuen uns auf ein gesundes Wiedersehen.
 - [ ] Krafttraining 
+- [ ] lehr
 - [ ] Duolingo
 - [ ] Zähne putzen
 - [x] rasieren 
 - [ ] Gesicht waschen 
 - [ ] Balkonpflanzen gießen 
 - [ ] Schulgarten checken/gießen
+	- [ ] Kamille Samen im Schulgarten verstreuen
+	- [ ] mit schere Steckling vom eventuellen Faulbaum machen 
 - [ ] ceran Feld wischen 
 - [x] Nagelknipser leeren
 - [x] carnivorenwasser auffüllen 
