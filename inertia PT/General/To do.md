@@ -128,7 +128,7 @@
 - Körperpflege 
 - frische Luft
 - mich und mein Leben im Griff haben
-# unsortiert 
+# unsortiert
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg futtert</font>
@@ -389,29 +389,27 @@
 Nosfe-Arthur ⇔ Nosfe-Rita 
 - [ ] Bluetooth box modden 🥰 [sound mod Anleitung](https://olegkutkov.me/2021/02/27/hacking-a-firmware-of-bluetooth-speaker-fm-radio/)
 - [x] Friseur 
-- Tastatur wischen 
+- [x] Tastatur wischen  %% fold %%
 	- [x] laptop
 	- [x] PC
-- Wäsche 
+- Wäsche  %% fold %%
 	- [x] abhängen 
 	- [x] zusammen legen 
-
-
 - [x] Bettwäsche wechseln 
 
 - [ ] usb-c -> dp so verlegen, dass ich den bildschirm gescheit nutzen kann
 - [ ] usb-c > dp mit 3. bildschirm testen, den schonmal hinstellen
-- [ ] laptop mit ubc->dp kabel am bildschirm testen
-- [ ] briefkasten checken nach thunderbolt kabel?
-- [ ] zurück schicken, wenn die docking station am samstag da ist
+- [ ] laptop mit ubc->dp kabel am bildschirm testen %% fold %%
+- [ ] briefkasten checken nach thunderbolt kabel? %% fold %%
+- [ ] zurück schicken, wenn die docking station am samstag da ist %% fold %%
 	- [ ] die beiden Usb-c -> Thunderbolt kabel 
 	- [ ] das thunderbolt kabel, wenn es denn im briefkasten sein sollte...
-- [x] weiße Gitarre auf Drop D stimmen 
+- [x] weiße Gitarre auf Drop D stimmen  %% fold %%
 	- [ ] ⤷ dream and the waking 
 		- [ ] Mal nur rythm während dem Melodie part
 		- [ ] bzw jetzt kann ich es sicherlich auch mit 
 	- [x] fraught
-- [ ] schwarze auf D
+- [ ] schwarze auf D %% fold %%
 	- [ ] countless skies
 	- [ ] from scythe to scepter 
 	- [ ] smoke of many fires
@@ -420,7 +418,7 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 - [ ] schneller schwimmen lernen 
 - [ ] cityrad bremse
 - [x] Nasenhaare schneiden 
-- [ ] Fahrradhelm 
+- [ ] Fahrradhelm  %% fold %%
 	- [ ] Band einstellen 
 	- [ ] Filz oder Ähnliches auf Klett machen
 - [ ] neuen Fahrradhelm kaufen 
@@ -437,7 +435,7 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 - [x] gelben Sack
 - [x] Papier Müll 
 - [ ] wo ist meine Handyhalterung fürs Rad? Ahl?
-- proposal 
+- proposal  %% fold %%
 	- [ ] Verhalten der 1:3 und 1:5 simulationen anschauen...
 	- [ ] was zu PE schreiben
 		- [ ] leichte erhöhung -> stable und connected
@@ -566,7 +564,7 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 - [ ] poisson Verteilung Video schauen 
 - [ ] Halterung für Trainings gummies/expander
 	- [ ] wie trainiere ich damit richtig
-- pod go preset
+- pod go preset %% fold %%
 	- [ ] auf laptop speichern
 		- [ ] out
 		- [ ] phones presets
@@ -591,12 +589,12 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 - [ ] Adverb im englischen aufschreiben 
 - [ ] Notizen zur Shadow work nochmal lesen
 - [ ] paper what's active matter lesen 
-- [ ] Simulationen anschauen 
+- [ ] Simulationen anschauen  %% fold %%
 	- [ ] ~={LimeGreen}Simulationen nutzen um neue Erkenntnisse zu beschreiben =~
 	- [ ] Bilder in die Arbeit rein nehmen 
 	- [ ] Erklärungen in den Mails an Benno verwenden 
 	- [ ] eventuell neue Simulationen für 1:10 anstellen 
-- [ ] mal schnell die original Methode implementieren
+- [ ] mal schnell die original Methode implementieren %% fold %%
 	- [ ] auf 1:3 Daten anwenden 
 	- [ ] mit dem box algo vergleichen 
 - [ ] lao tzu
@@ -608,11 +606,11 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 - [ ] [Change your life now](https://youtu.be/pFhMzPxbY4E?is=o7W8uMv3Vc7oasP8) Notizen machen
 - [ ] [fix your adhd morning](https://youtu.be/gsVYI-l_6G8?is=BUHdgIGMxlNq8KT8) was dazu aufschreiben 
 - [ ] personality tabs am laptop fertig lesen und schließen
-- [ ] was ist das nächste macos nach meinem was sind die issues? 
+- [ ] was ist das nächste macos nach meinem was sind die issues?  %% fold %%
 	- [ ] ⤷ updaten
 	- [ ] macOs sequoia: **Fenster-Kacheln:** Verbessertes organisieren von Fenstern durch einfaches Ziehen an den Bildschirmrand.
 	- [ ] sicherheitshalber warten bis nachdem proposal
-- [ ] machine learning
+- [ ] machine learning %% fold %%
 	- [x] understand forward process
 	- [ ] under stand score function
 	- [ ] read: Feedforward neural network
@@ -637,7 +635,7 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 	- ne lass ich erstmal
 - [ ] check for new mac os update - the next newer than Sonoma
 - [ ] Aritra fragen wie er genau alles in visual studio code eingerichtet hat
-- [ ] emails aufräumen
+- [ ] emails aufräumen %% fold %%
 	- [ ] jean-lueck
 	- [ ] lukasludwigwalter
 - [ ] ksk app contactless pay notification anstellen 
@@ -656,14 +654,14 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 - [ ] Kühlschrank putzen und abtauen
 - [ ] Zeug vor dem Bad wegräumen 
 - [ ] keller Karton Sammlung aufräumen 
-- [ ] powerbank reparieren
+- [ ] powerbank reparieren %% fold %%
 	- [ ] welche ist die defekte?
 	- [ ] löten 
-- kleinen Drehstuhl 
+- kleinen Drehstuhl  %% fold %%
 	- [ ] Sitzteil zu Eltern mitnehmen 
 	- [ ] schweißen 
 	- [ ] Apfelschneider schweißen 
-- Rennrad 
+- Rennrad  %% fold %%
 	- [ ] Lenkerband video schauen 
 	- [ ] Lenkerband 
 	- [ ] fotos machen
@@ -681,7 +679,7 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 	- [ ] zum radelmal und fragen ob meine Sitzposition passt?
 	- [x] am Hügel testen wie es sich fährt 
 	- [x] Fahrradflasche an anderer Stelle anbringen?
-- [ ] Email von letzter Woche an Arooj schreiben 
+- [ ] Email von letzter Woche an Arooj schreiben  %% fold %%
 	- Ne Antwort werde ich eh nicht bekommen.
 		Ich lasse mir noch ein paar Tage.
 
