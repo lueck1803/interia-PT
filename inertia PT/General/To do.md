@@ -132,6 +132,28 @@
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
+- [ ] Lehrpläne für meine Jahrgänge %% fold %%
+	- [ ] raus suchen
+	- [ ] wichtige teile ausdrucken 
+	- [ ] Unterrichtsplanung erstellen 
+		- [ ] wie viele Stunden hab ich pro Thema 
+		- [ ] wann müssen Klausuren geschrieben werden
+		- [ ] nur das wichtigste, möglichst den Unterricht immer an einer Fragestellung aufhängen, die triggert
+			- [ ] eine Behauptung 
+			- [ ] ein in fragestellen
+			- [ ] diskussions/Fragerunde zu Beginn 
+			- [ ] <font color="#c815ff">Checkliste für den Unterricht</font> um den nachbereiten zu können mit <font color="#7cfc00">was hat funktioniert</font> und <font color="#ff3d3d">was nicht</font>
+			- [ ] welche Experimente oder welche praktischen Übungen kann ich mitbringen/vorbereiten 
+			- [ ] möglichst schnell in Tätigkeit kommen 
+		- [ ] Checkliste/was muss ich wissen und wo kann ich es nachlesen bis zur nächsten Klausur erstellen 
+		- [ ] Regeln für den Unterricht klar überlegen 
+- [ ] wie lange geht die Konferenz am Freitag? %% fold %%
+	- [ ] Bahnverbindung zu den Eltern heraussuchen  %% fold %%
+	- [ ] in den Kalender eingetragen 
+	- [ ] Eltern informieren 
+	- [ ] dran denken mit zu nehmen:
+		- [ ] Apfelschneider 
+		- [ ] Sitz vom kleinen Drehstuhl 
 - [ ] Zähne putzen
 - [x] Balkon checken
 - [ ] 60° Wäsche <font color="#92d050">2026-08-06</font> %% fold %%
@@ -149,7 +171,7 @@
 - [ ] französisch Buch weiter lesen
 - [ ] reis %% fold %%
 	- [x] austragen 
-	- [x] Behälter spülen 
+	- [x] Behälter spülen  %% fold %%
 	- [ ] umfüllen 
 	- [x] kochen
 	- [ ] ⤷ in den Kühlschrank 
@@ -176,17 +198,10 @@
 - [x] Spülmaschine anstellen
 - [ ] Spülmaschine einräumen 
 - [x] Spülmaschine ausräumen  %% fold %%
-- [ ] wie lange geht die Konferenz am Freitag? %% fold %%
-	- [ ] Bahnverbindung zu den Eltern heraussuchen  %% fold %%
-	- [ ] in den Kalender eingetragen 
-	- [ ] Eltern informieren 
-	- [ ] dran denken mit zu nehmen:
-		- [ ] Apfelschneider 
-		- [ ] Sitz vom kleinen Drehstuhl 
 - [x] Toilette putzen 
 - [x] Balkon kehren 
-- [x] Balkon aufräumen 
-- [x] Majoran schneiden 
+- [x] Balkon aufräumen  %% fold %%
+- [x] Majoran schneiden  %% fold %%
 - [x] kleine braune weiß gepunktete Spinne bestimmen
 	- Weißpunkt-Fettspinne / Dreiecksfettspinne 
 - [x] Pflanze beim majoran bestimmen 
@@ -231,21 +246,7 @@
 		
 		Wir wünschen euch weiterhin erholsame Ferien und freuen uns auf ein gesundes Wiedersehen.
 - [x] Krafttraining 
-- [ ] Lehrpläne für meine Jahrgänge
-	- [ ] raus suchen
-	- [ ] wichtige teile ausdrucken 
-	- [ ] Unterrichtsplanung erstellen 
-		- [ ] wie viele Stunden hab ich pro Thema 
-		- [ ] wann müssen Klausuren geschrieben werden
-		- [ ] nur das wichtigste, möglichst den Unterricht immer an einer Fragestellung aufhängen, die triggert
-			- [ ] eine Behauptung 
-			- [ ] ein in fragestellen
-			- [ ] diskussions/Fragerunde zu Beginn 
-			- [ ] <font color="#c815ff">Checkliste für den Unterricht</font> um den nachbereiten zu können mit <font color="#7cfc00">was hat funktioniert</font> und <font color="#ff3d3d">was nicht</font>
-			- [ ] welche Experimente oder welche praktischen Übungen kann ich mitbringen/vorbereiten 
-			- [ ] möglichst schnell in Tätigkeit kommen 
-		- [ ] Checkliste/was muss ich wissen und wo kann ich es nachlesen bis zur nächsten Klausur erstellen 
-		- [ ] Regeln für den Unterricht klar überlegen 
+
 - [x] Duolingo
 - [x] Kornelkirschenstecklinge aus Schulgarten aufbereiten
 - [x] rasieren 
