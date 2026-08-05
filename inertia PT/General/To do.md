@@ -125,13 +125,44 @@
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg futtert</font>
-- [ ] Stundenplan für
+- [ ] Stundenplan für nächstes Jahr? In welchen Jahrgängen habe ich Unterricht:
+	- [ ] Liebe Kolleginnen und Kollegen,
+
+		zum neuen Schuljahr führen wir Jahrgangsteamsitzungen ein. Diese sollen die Absprachen innerhalb der Jahrgänge erleichtern, die Kommunikation stärken und insbesondere den Austausch mit unseren neuen Kolleginnen und Kollegen fördern.
+		
+		Die Teilnahme an den Jahrgangsteamsitzungen ist für alle Lehrkräfte verpflichtend, die im jeweiligen Jahrgang unterrichten.
+		
+		Die ersten Termine finden jeweils um 13:45 Uhr im Lehrerzimmer statt
+		
+		- Dienstag, 11.08.26 - Jahrgang 10
+		- Mittwoch, 12.08.2026 - Jahrgang 9
+		- Donnerstag, 13.08.2026 - Jahrgang 8
+		- Freitag, 14.08.2026 - Jahrgang 7
+		- Montag, 17.08.2026 Jahrgang 6
+		- Dienstag, 18.08.2026 - Jahrgang 5
+		
+		Bitte merkt euch den für euch relevanten Termin bereits jetzt vor.
+		
+		Vielen Dank für eure Unterstützung. Wir freuen uns auf einen guten gemeinsamen Start in das neue Schuljahr.
+	- [ ] Termin notieren 
 - [ ] carnivoren gießen 
 - [ ] Büsche mit schwarzen Früchten im Bürgerpark checken, ob es Faulbaum ist
 - [x] Pfeffermühle nachfüllen 
 - [x] Äpfel waschen 
 - [x] Tastatur wischen 
 - [ ] email Gesamtkonferenz 
+	- [ ] Liebe Kolleginnen und Kollegen,
+
+		hiermit lade ich euch herzlich zur ersten Gesamtkonferenz (GK1) des Schuljahres 26/27 ein.
+		
+		Die Konferenz findet am Freitag, den 07.08.26, um 10 Uhr in der Mensa statt. Die vorläufige Tagesordnung findet ihr im Anhang.
+		
+		Bereits ab 9:00 Uhr bitten wir euch, vor Ort zu sein, da vor der Konferenz unser Fototermin stattfindet. Es werden sowohl Einzelfotos als auch ein Gruppenfoto aufgenommen. Wir freuen uns daher über eine möglichst vollständige Teilnahme.
+		
+		An alle Klassenlehrkräfte:
+		Im Besprechungsraum liegen ab Mittwoch, den 05.08.26, die Schulplaner für die Jahrgänge 5-8 sowie die Entschuldigungshefte für die Jahrgänge 9-10 bereit. Bitte holt diese möglichst noch in den Ferien für eure Klasse ab und bringt sie in euer Klassenzimmer.
+		
+		Wir wünschen euch weiterhin erholsame Ferien und freuen uns auf ein gesundes Wiedersehen.
 - [ ] Krafttraining 
 - [ ] Duolingo
 - [ ] Zähne putzen
