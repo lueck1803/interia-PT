@@ -133,15 +133,17 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg futtert</font>
 - [x] staubsaugen 
-- [ ] obsidian foldings? 
+- [ ] obsidian foldings?  %% fold %%
 	- [ ] wie merkt sich obsidian foldings? 
 		- [ ] offenbar in den os spezifischen daten als binary
 		- [ ] foldings are saved using localStorage, which means they only exist per individual installation
 	- [ ] Wie kann ich es syncen?
 	      ⤷ <font color="#daa520">plugins?</font>
 		- [ ] foldstate?
+			- habe ich jetzt mal installiert, da es anscheinend automatisch das macht, was man mit creases manuell machen muss
 		- [ ] creases?
 			- da ich creases eh installiert habe am rechner habe ich es jetzt auch am laptop installiert. es funktioniert wie foldstate, ist aber aktueller. es speichert mit dem Eintrag`%%fold%%` den status in den jeweiligen Datei. 
+			- ⤷ ne offenbar muss man die fold markierung händisch setzen, dass ich ist bei foldstate anders.
 			- am Handy installieren? ✅
 		- [ ] sync folds?
 - hotkey für cycle checkbox und color tauschen
@@ -188,8 +190,8 @@
 - [x] Pflanze beim majoran bestimmen 
 	- kleinblütiges Franzosenkraut 
 - [x] Dampfdruckkochtopf nochmal richtig spülen
-- [ ] Stundenplan für nächstes Jahr? In welchen Jahrgängen habe ich Unterricht:
-	- [ ] Liebe Kolleginnen und Kollegen,
+- [ ] Stundenplan für nächstes Jahr? In welchen Jahrgängen habe ich Unterricht: %% fold %%
+	- [ ] Liebe Kolleginnen und Kollegen, %% fold %%
 
 		zum neuen Schuljahr führen wir Jahrgangsteamsitzungen ein. Diese sollen die Absprachen innerhalb der Jahrgänge erleichtern, die Kommunikation stärken und insbesondere den Austausch mit unseren neuen Kolleginnen und Kollegen fördern.
 		
