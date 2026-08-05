@@ -1,5 +1,6 @@
 - [ ] Fensterstopper 
 - [ ] Kehrblech für Balkon
+- [ ] rasiersc
 - [x] Vaseline 
 - [x] hummus
 - [x] Schoki 
