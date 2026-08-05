@@ -1,9 +1,15 @@
-- [ ] Rasierschaum 
-- [ ] Bier
-- [ ] Reis 
+# Aldi
+## Jetzt
+- 
 - [ ] salz
-- [ ] Hafermilch
 - [ ] Nudelsoßen 
+- [ ] Reis 
+- [ ] Bier
+- [ ] Rasierschaum 
+- [ ] Hafermilch
+- [ ] Saft
+## Speicher/Sonst 
+# Other
 - [ ] Fensterstopper 
 - [ ] Kehrblech für Balkon
 - [ ] Betaisodona
@@ -20,7 +26,6 @@
 - [x] Nüsse
 - [x] Bananen 
 - [x] Burger 
-- [x] Saft
 - [x] Nusskati 
 - [x] Pizza
 - [x] Fusilli 
