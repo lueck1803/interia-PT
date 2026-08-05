@@ -140,6 +140,10 @@
 - [ ] Restmüll weg
 - [ ] flaschen spülen
 - [x] Briefkasten checken
+- helle Wäsche 
+	- [x] anstellen
+	- [ ] schleudern 
+	- [ ] aufhängen 
 - [ ] duschen
 - [ ] rasieren 
 - [ ] Teebaumöl auftragen
