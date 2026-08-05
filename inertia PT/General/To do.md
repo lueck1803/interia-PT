@@ -143,7 +143,7 @@
 - [x] Salz auffüllen 
 - [ ] Küchenabfall wegbringen 
 - [ ] Restmüll weg
-- [ ] flaschen spülen
+- [ ] Flaschen spülen
 - [x] Briefkasten checken
 - helle Wäsche 
 	- [x] anstellen
@@ -166,9 +166,9 @@
 	- [ ] in den Kalender eingetragen 
 	- [ ] Eltern informieren 
 - [x] Toilette putzen 
-- [x] balkon kehren 
+- [x] Balkon kehren 
 - [x] Balkon aufräumen 
-- [x] majoran schneiden 
+- [x] Majoran schneiden 
 - [x] kleine braune weiß gepunktete Spinne bestimmen
 	- Weißpunkt-Fettspinne / Dreiecksfettspinne 
 - [x] Pflanze beim majoran bestimmen 
