@@ -147,32 +147,6 @@
 - [ ] Bohnenessen essen
 - [ ] ce que/ce qui nochmal anschauen 
 - [ ] französisch Buch weiter lesen
-- [ ] obsidian foldings? %% fold %%
-	- [ ] wie merkt sich obsidian foldings?  %% fold %%
-		- [ ] offenbar in den os spezifischen daten als binary %% fold %%
-		- [ ] foldings are saved using localStorage, which means they only exist per individual installation
-	- [ ] Wie kann ich es syncen?
-	      ⤷ <font color="#daa520">plugins?</font>
-		- [ ] foldstate?
-			- habe ich jetzt mal installiert, da es anscheinend automatisch das macht, was man mit creases manuell machen muss
-			- <font color="#ff1493">jap genau! </font>sehr gut, dann muss ich das<font color="#00fa9a"> überall installieren</font>
-		- [ ] creases?
-			- da ich creases eh installiert habe am rechner habe ich es jetzt auch am laptop installiert. es funktioniert wie foldstate, ist aber aktueller. es speichert mit dem Eintrag`%%fold%%` den status in den jeweiligen Datei. 
-			- ⤷ ne offenbar muss man die fold markierung händisch setzen, dass ich ist bei foldstate anders.
-			- am Handy installieren? ✅
-		- [ ] sync folds?
-- hotkey für cycle checkbox und color tauschen %% fold %%
-	- [x] mac
-	- [ ] pc
-- [ ] hotkey für fold %% fold %%
-	- [x] mac
-	- [ ] pc
-	- [x] toolbar handy
-- foldstate installieren %% fold %%
-	- [x] handy %% fold %%
-	- [ ] pc
-- [x] neuen Rasierschaum ins bad %% fold %%
-	- [x] hab tatsächlich keinen mehr, muss welchen kaufen gehen 
 - [ ] reis %% fold %%
 	- [x] austragen 
 	- [x] Behälter spülen 
@@ -257,7 +231,7 @@
 		
 		Wir wünschen euch weiterhin erholsame Ferien und freuen uns auf ein gesundes Wiedersehen.
 - [x] Krafttraining 
-- [ ] Lehrpläne für meine Jahrgänge  %% fold %%
+- [ ] Lehrpläne für meine Jahrgänge
 	- [ ] raus suchen
 	- [ ] wichtige teile ausdrucken 
 	- [ ] Unterrichtsplanung erstellen 
@@ -1259,13 +1233,27 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] <span style="color:coral">paartherapie S3 runterladen</span>
 
 # Alt
-- Bauhaus 
+- [x] obsidian foldings? %% fold %%
+	- [x] wie merkt sich obsidian foldings?  %% fold %%
+		- [x] offenbar in den os spezifischen daten als binary %% fold %%
+		- [x] foldings are saved using localStorage, which means they only exist per individual installation
+	- [x] Wie kann ich es syncen?
+	      - [x] ⤷ <font color="#daa520">plugins?</font>
+		- [x] foldstate?
+			- [x] habe ich jetzt mal installiert, da es anscheinend automatisch das macht, was man mit creases manuell machen muss
+			- [x] <font color="#ff1493">jap genau! </font>sehr gut, dann muss ich das<font color="#00fa9a"> überall installieren</font>
+		- [x] creases?
+			- [x] da ich creases eh installiert habe am rechner habe ich es jetzt auch am laptop installiert. es funktioniert wie foldstate, ist aber aktueller. es speichert mit dem Eintrag`%%fold%%` den status in den jeweiligen Datei. 
+			- [x] ⤷ ne offenbar muss man die fold markierung händisch setzen, dass ich ist bei foldstate anders.
+			- [x] am Handy installieren? ✅
+		- [x] sync folds?
+- Bauhaus  %% fold %%
 	- Innenvierkant 
 		- passt nicht ⟹ umtauschen 
 		- gibt im Bauhaus keinen kleineren als 7mm
 - [x] Vierkant im Schulgarten messen 
 	- [x] ⤷ im Hornbach besorgen 
-- [x] essen mit Bohnen fertig kochen 
+- [x] essen mit Bohnen fertig kochen  %% fold %%
 	- [x] Paprika mark
 	- [x] Zitronensaft 
 	- [x] Kreuzkümmel 
@@ -1284,7 +1272,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] Flaschendeckel Dichtung reinigen 
 	- [x] auch andere überprüfen 
 - [x] elias gudwis Hörbuch als mp3 aufs Handy ziehen 
-- Sofa 
+- Sofa  %% fold %%
 	- [x] Decken ausschütteln
 	- [x] ⤷ in die wäsche
 	- [x] schleudern 
@@ -1295,7 +1283,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] helle rot töne dem farb muster hinzufügen
 	- [x] bzw überhaupt eine dieser Spalten überarbeiten/hinzufügen, die sind momentan für mich schon extrem nutzlos
 	- [x] wie mache ich das?
-- [x] DISM /Online /Cleanup-Image /RestoreHealth
+- [x] DISM /Online /Cleanup-Image /RestoreHealth %% fold %%
 	- [x] DISM <font color="#c71585">reparieren</font>
 	- [x] iso <font color="#ff69b4">runterladen</font>
 	- [ ] DISM /Online /Cleanup-Image /RestoreHealth /source:WIM:X:\Sources\Install.wim:1 /LimitAccess
