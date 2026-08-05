@@ -126,6 +126,7 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg futtert</font>
 - [ ] staubsaugen 
+- [x] Toilette putzen 
 - [x] balkon kehren 
 - [x] Balkon aufräumen 
 - [x] majoran schneiden 
@@ -191,9 +192,9 @@
 		- [ ] Checkliste/was muss ich wissen und wo kann ich es nachlesen bis zur nächsten Klausur erstellen 
 		- [ ] Regeln für den Unterricht klar überlegen 
 - [ ] Duolingo
-- [ ] Zähne putzen
+- [x] Zähne putzen
 - [x] rasieren 
-- [ ] Gesicht waschen 
+- [x] Gesicht waschen 
 - [x] Balkonpflanzen gießen 
 - [ ] Schulgarten checken/gießen
 	- [ ] Kamille Samen im Schulgarten verstreuen
