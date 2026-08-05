@@ -137,9 +137,9 @@
 	- [ ] hab tatsächlich keinen mehr, muss welchen kaufen gehen 
 - [ ] reis 
 	- [x] austragen 
-	- [ ] Behälter spülen 
+	- [x] Behälter spülen 
 	- [ ] umfüllen 
-	- [ ] kochen
+	- [x] kochen
 - [x] Salz auffüllen 
 - [ ] Küchenabfall wegbringen 
 - [ ] Restmüll weg
