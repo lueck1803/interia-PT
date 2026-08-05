@@ -129,7 +129,8 @@
 - [x] balkon kehren 
 - [x] Balkon aufräumen 
 - [x] majoran schneiden 
-- [ ] kleine braune weiß gepunktete Spinne bestimmen
+- [x] kleine braune weiß gepunktete Spinne bestimmen
+	- [ ] Weißpunkt-Fettspinne
 - [x] Pflanze beim majoran bestimmen 
 	- kleinblütiges Franzosenkraut 
 - [x] Dampfdruckkochtopf nochmal richtig spülen
@@ -194,7 +195,7 @@
 - [ ] Kehrblech für Balkon kaufen 
 - [x] rasieren 
 - [ ] Gesicht waschen 
-- [ ] Balkonpflanzen gießen 
+- [x] Balkonpflanzen gießen 
 - [ ] Schulgarten checken/gießen
 	- [ ] Kamille Samen im Schulgarten verstreuen
 	- [ ] mit schere Steckling vom eventuellen Faulbaum machen 
