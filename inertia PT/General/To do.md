@@ -135,9 +135,11 @@
 - [ ] staubsaugen 
 - [ ] reis 
 	- [ ] umfüllen 
+	- [ ] austragen 
+	- [ ] kochen
 - [ ] Restmüll weg
 - [ ] flaschen spülen
-- [ ] Briefkasten checken
+- [x] Briefkasten checken
 - [ ] duschen
 - [ ] rasieren 
 - [ ] Teebaumöl auftragen
@@ -220,8 +222,9 @@
 - [x] Balkonpflanzen gießen 
 - [x] Schulgarten checken/gießen
 	- [x] Kamille Samen im Schulgarten verstreuen
-	- [ ] mit schere Steckling vom eventuellen Faulbaum machen 
-	- [ ] Büsche mit schwarzen Früchten im Bürgerpark checken, ob es Faulbaum ist
+	- [x] Büsche mit schwarzen Früchten im Bürgerpark checken, ob es Faulbaum ist
+	- ⤷habe viele Bäume beim langsamen Vorbeifahren mit dem Rad gecheckt. Da war kein Faulbaum dabei. 
+		- 
 - [ ] Kehrblech für Balkon kaufen 
 - [x] Nagelknipser leeren
 - [x] carnivorenwasser auffüllen 
