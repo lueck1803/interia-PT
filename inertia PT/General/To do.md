@@ -276,7 +276,7 @@
 Der Zeigt jetzt im device manager auch etwas neues an 🤔:
 ![[../../Pasted image 20260806000438.png]]
 <font color="#b088ff">Device Descriptor Request Failed...</font>
-Es ist offenbar auch egal ob man <font color="#a0522d">titan ridge</font> oder <font color="#800000">maple ridge</font> wählt, geht beim start unter Umständen mit beiden. 
+Es ist offenbar auch egal ob man <font color="#a0522d">titan ridge</font> oder <font color="#800000">maple ridge</font> wählt, geht beim start unter Umständen mit beiden. ⟹ im <font color="#92cddc">device manager</font> wird dennoch <font color="#fac08f">nichts angezeigt</font>
 Wie sieht es mit der obersten Einstellung aus?
 - [ ] was ist memory mbist? Hatte ich angestellt. Wieder aus?
 - [ ] pcie 
