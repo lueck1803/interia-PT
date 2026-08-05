@@ -126,6 +126,7 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg futtert</font>
 - [ ] staubsaugen 
+- [ ] balkon 
 - [x] Dampfdruckkochtopf nochmal richtig spülen
 - [ ] Briefkasten checken
 - [ ] Stundenplan für nächstes Jahr? In welchen Jahrgängen habe ich Unterricht:
@@ -152,8 +153,8 @@
 - [ ] Büsche mit schwarzen Früchten im Bürgerpark checken, ob es Faulbaum ist
 - [x] Pfeffermühle nachfüllen 
 - [x] Äpfel waschen 
-- [ ] Tastatur wischen 
-	- [ ] Wasser und Lappen tauschen 
+- [x] Tastatur wischen 
+	- [x] Wasser und Lappen tauschen 
 - [ ] email Gesamtkonferenz 
 	- [ ] Liebe Kolleginnen und Kollegen,
 
