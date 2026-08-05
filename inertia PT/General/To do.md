@@ -183,7 +183,7 @@
 - [ ] Bohnenessen essen
 - [ ] ce que/ce qui nochmal anschauen 
 - [ ] französisch Buch weiter lesen
-- [ ] reis %% fold %%
+- [ ] reis
 	- [x] austragen 
 	- [x] Behälter spülen  %% fold %%
 	- [ ] umfüllen 
@@ -340,9 +340,9 @@ Der Zeigt jetzt im device manager auch etwas neues an 🤔:
 - abgestorbene marone raus und neue einsetzen 
 	- ne scheint noch zu leben
 - [ ] Muskateller Salbei Samen für Schulgarten  %% fold %%
-- [ ] Zitronensaft
+- [x] Zitronensaft
 	- [x] pressen
-	- [ ] einfrieren 
+	- [x] einfrieren 
 - [ ] bei shin son hab kido anmelden/vorbei schauen, wann die Training haben 
 - [ ] Turnbeutel in Wäsche 
 - [ ] Ticket für *my sleeping karma*
