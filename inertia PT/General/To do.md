@@ -223,8 +223,8 @@
 - [x] Schulgarten checken/gießen
 	- [x] Kamille Samen im Schulgarten verstreuen
 	- [x] Büsche mit schwarzen Früchten im Bürgerpark checken, ob es Faulbaum ist
-	- ⤷habe viele Bäume beim langsamen Vorbeifahren mit dem Rad gecheckt. Da war kein Faulbaum dabei. 
-		- 
+	- ⤷habe viele Bäume beim langsamen Vorbeifahren mit dem Rad gecheckt. Da war kein Faulbaum dabei. Aber
+		- Gewöhnliche Spindelstrauch / Pfaffenhütchen 
 - [ ] Kehrblech für Balkon kaufen 
 - [x] Nagelknipser leeren
 - [x] carnivorenwasser auffüllen 
