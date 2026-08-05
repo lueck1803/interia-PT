@@ -9,6 +9,13 @@
 		- ⟹ genug REM Schlafphasen: emotionale Verarbeitung 
 			- ⤷ wobei mich die <font color="#fac08f">Träume</font>, <font color="#b2a2c7">gerade die kurz</font> vor <font color="#c71585">dem Aufwachen</font>, so sehr <font color="#daa520">benebeln</font>
 ## oberste Priorität:
+- wenn es mir <font color="#ff0000">schlecht</font> / <font color="#e36c09">komisch</font> geht ⟹ <font color="#c71585">ohne Ablenkung</font> <font color="#7cfc00">raus gehen</font> 
+	- spazieren 
+	- balancieren 
+	- Treppen steigen 
+	- Fahrrad fahren 
+	- draußen meditieren 
+- ⤷auch wenn ich <font color="#ff3d3d">nachts aufwache</font>
 - ich will <font color="#ff0000">kein</font> <font color="#7cfc00">sklave</font> mehr sein
 	- befreie dich oder gehe zu Grunde 
 - keine Ausreden mehr
