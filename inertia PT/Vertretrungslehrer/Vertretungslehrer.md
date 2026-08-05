@@ -1776,7 +1776,24 @@ Im Rahmen der Lehrerausbildung wird die Doppelbesetzung auch genutzt, um LiV (Le
 
 # Konversationen
 ## 2026-07-03 mail von jana 
+Liebe Kolleginnen und Kollegen,
 
+zum neuen Schuljahr führen wir Jahrgangsteamsitzungen ein. Diese sollen die Absprachen innerhalb der Jahrgänge erleichtern, die Kommunikation stärken und insbesondere den Austausch mit unseren neuen Kolleginnen und Kollegen fördern.
+
+Die Teilnahme an den Jahrgangsteamsitzungen ist für alle Lehrkräfte verpflichtend, die im jeweiligen Jahrgang unterrichten.
+
+Die ersten Termine finden jeweils um 13:45 Uhr im Lehrerzimmer statt
+
+- Dienstag, 11.08.26 - Jahrgang 10
+- Mittwoch, 12.08.2026 - Jahrgang 9
+- Donnerstag, 13.08.2026 - Jahrgang 8
+- Freitag, 14.08.2026 - Jahrgang 7
+- Montag, 17.08.2026 Jahrgang 6
+- Dienstag, 18.08.2026 - Jahrgang 5
+
+Bitte merkt euch den für euch relevanten Termin bereits jetzt vor.
+
+Vielen Dank für eure Unterstützung. Wir freuen uns auf einen guten gemeinsamen Start in das neue Schuljahr.
 
 ## 26-06-19 Burak
 Ich hatte die 5a nicht so häufig. 
