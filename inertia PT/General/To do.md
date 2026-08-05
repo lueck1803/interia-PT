@@ -132,8 +132,9 @@
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
-- [ ] 60° Wäsche %% fold %%
-	- [ ] abhängen 
+- [ ] Zähne putzen
+- [ ] 60° Wäsche <font color="#92d050">2026-08-06</font> %% fold %%
+	- [ ] abhängen  %% fold %%
 	- [ ] zusammenlegen 
 	- [ ] wegräumen 
 - [x] staubsaugen 
@@ -169,7 +170,7 @@
 - foldstate installieren %% fold %%
 	- [x] handy %% fold %%
 	- [ ] pc
-- [ ] neuen Rasierschaum ins bad
+- [ ] neuen Rasierschaum ins bad %% fold %%
 	- [ ] hab tatsächlich keinen mehr, muss welchen kaufen gehen 
 - [ ] reis %% fold %%
 	- [x] austragen 
@@ -181,13 +182,14 @@
 - [ ] Restmüll weg
 - [ ] Flaschen spülen
 - [x] Briefkasten checken
-- [ ] helle Wäsche
+- [ ] helle Wäsche <font color="#ff6e6e">2026-08-07</font> %% fold %%
 	- [x] anstellen
 	- [x] schleudern  %% fold %%
 		- [x] vorher riechen ob zu viel Waschpulver 
 		- ⤷ nochmal anstellen ⟹roch voll OK 
-	- [ ] aufhängen 
-- [x] Zähne putzen
+	- [x] aufhängen 
+	- [ ] abhängen 
+	- [ ] wegräumen 
 - [x] duschen
 - [x] rasieren 
 - [ ] wie nennt man das was ich an der Schläfe habe?
@@ -196,9 +198,9 @@
 - [x] Iod auftragen
 - [ ] meditieren
 - [x] ceran Feld wischen 
-- [ ] Spülmaschine ausräumen 
+- [ ] Spülmaschine ausräumen  %% fold %%
 - [ ] wie lange geht die Konferenz am Freitag? %% fold %%
-	- [ ] Bahnverbindung zu den Eltern heraussuchen 
+	- [ ] Bahnverbindung zu den Eltern heraussuchen  %% fold %%
 	- [ ] in den Kalender eingetragen 
 	- [ ] Eltern informieren 
 	- [ ] dran denken mit zu nehmen:
