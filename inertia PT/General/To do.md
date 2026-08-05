@@ -147,7 +147,7 @@
 			- ⤷ ne offenbar muss man die fold markierung händisch setzen, dass ich ist bei foldstate anders.
 			- am Handy installieren? ✅
 		- [ ] sync folds?
-- hotkey für cycle checkbox und color tauschen
+- hotkey für cycle checkbox und color tauschen %% fold %%
 	- [x] mac
 	- [ ] pc
 - [ ] hotkey für fold %% fold %%
@@ -252,12 +252,12 @@
 			- [ ] möglichst schnell in Tätigkeit kommen 
 		- [ ] Checkliste/was muss ich wissen und wo kann ich es nachlesen bis zur nächsten Klausur erstellen 
 		- [ ] Regeln für den Unterricht klar überlegen 
-- [ ] Duolingo
+- [x] Duolingo
 - [x] Kornelkirschenstecklinge aus Schulgarten aufbereiten
 - [x] rasieren 
 - [x] Gesicht waschen 
 - [x] Balkonpflanzen gießen 
-- [x] Schulgarten checken/gießen
+- [x] Schulgarten checken/gießen %% fold %%
 	- [x] Kamille Samen im Schulgarten verstreuen
 	- [x] Büsche mit schwarzen Früchten im Bürgerpark checken, ob es Faulbaum ist
 	- ⤷habe viele Bäume beim langsamen Vorbeifahren mit dem Rad gecheckt. Da war kein Faulbaum dabei. Aber
@@ -348,14 +348,14 @@
 - abgestorbene marone raus und neue einsetzen 
 	- ne scheint noch zu leben
 - [ ] Muskateller Salbei Samen für Schulgarten 
-- [ ] Zitronensaft 
+- [ ] Zitronensaft  %% fold %%
 	- [x] pressen
 	- [ ] einfrieren 
 - [ ] bei shin son hab kido anmelden/vorbei schauen, wann die Training haben 
 - [ ] Turnbeutel in Wäsche 
 - [ ] Ticket für *my sleeping karma*
 	- [ ] ⤷ arthur bescheid geben
-- Papierkram 
+- Papierkram  %% fold %%
 	- [ ] kassenbons
 	- [ ] Hefter
 - [ ] letzte Simulationen checken und snapshots machen
@@ -372,7 +372,7 @@
 	- [ ] Bildschirme richtig ausrichten
 	- [ ] Tisch an die Wand rücken
 	- [ ] Tisch aufräumen
-- [ ] Zeug zum zurück schicken bereit machen 
+- [ ] Zeug zum zurück schicken bereit machen  %% fold %%
 	- [ ] brauche ich das 1,5m tb Kabel?
 	- [ ] brauche ich eines der beiden tb⟹dp Kabel?
 - [ ] fraught
@@ -392,7 +392,7 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 - [x] Tastatur wischen  %% fold %%
 	- [x] laptop
 	- [x] PC
-- Wäsche  %% fold %%
+- [x] Wäsche %% fold %%
 	- [x] abhängen 
 	- [x] zusammen legen 
 - [x] Bettwäsche wechseln 
