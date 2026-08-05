@@ -308,8 +308,8 @@
 - [x] Dampfdruckkochtopf spülen 
 - [ ] passt mir mein Trainingsanzug noch?
 - [x] Spülmaschine anstellen
-- [ ] abgestorbene marone raus und neue einsetzen 
-	- [ ] ne scheint noch zu leben
+- abgestorbene marone raus und neue einsetzen 
+	- ne scheint noch zu leben
 - [ ] Muskateller Salbei Samen für Schulgarten 
 - [ ] Zitronensaft 
 	- [x] pressen
@@ -341,12 +341,7 @@
 - [ ] fraught
 - [ ] yoga
 - [ ] probieren mit knöchel zu tappen, wie das jassy im video gemacht hat
-- [ ] Bauhaus 
-	- [ ] Vierkant Flügelschraube 
 - [ ] Handydisplay Folie 
-- was mit Ackerbohnen kochen 
-	- [x] Ackerbohnen aufsetzen 
-	- [x] 396g
 - schuhe kaufen 
 	- [ ] über Laufschuhe informieren
 	- [ ] Laufschuhe 
@@ -356,7 +351,6 @@
 
 Nosfe-Arthur ⇔ Nosfe-Rita 
 - [ ] Bluetooth box modden 🥰 [sound mod Anleitung](https://olegkutkov.me/2021/02/27/hacking-a-firmware-of-bluetooth-speaker-fm-radio/)
-- [x] Wetterstation beide Batterien wechseln 
 - [x] Friseur 
 - Tastatur wischen 
 	- [x] laptop
@@ -375,7 +369,6 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 - [ ] zurück schicken, wenn die docking station am samstag da ist
 	- [ ] die beiden Usb-c -> Thunderbolt kabel 
 	- [ ] das thunderbolt kabel, wenn es denn im briefkasten sein sollte...
-- [x] Aldi Prospekte anschauen 
 - [x] weiße Gitarre auf Drop D stimmen 
 	- [ ] ⤷ dream and the waking 
 		- [ ] Mal nur rythm während dem Melodie part
