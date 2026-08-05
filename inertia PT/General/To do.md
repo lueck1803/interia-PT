@@ -140,7 +140,7 @@
 	- [ ] Behälter spülen 
 	- [ ] umfüllen 
 	- [ ] kochen
-	- [ ] 
+- [ ] Salz auffüllen 
 - [ ] Küchenabfall wegbringen 
 - [ ] Restmüll weg
 - [ ] flaschen spülen

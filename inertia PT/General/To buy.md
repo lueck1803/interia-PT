@@ -1,6 +1,7 @@
 - [ ] Rasierschaum 
 - [ ] Bier
 - [ ] Reis 
+- [ ] salz
 - [ ] Hafermilch
 - [ ] Nudelsoßen 
 - [ ] Fensterstopper 
