@@ -183,6 +183,7 @@
 		- [ ] ausschalten ohne power trennung nach ausschaltung ⟹ Bildschirm geht trotzdem
 		      ⤷ Grund für die fehlkommunikation? also geht es auch ohne USB bzw. ist der vielleicht nicht angeschlossen?
 		- [ ] mal richtig herunterfahren mit powerloss
+		- [ ] ok geht auch danach noch 🤔.<br> ⤷ ich probiere definitiv das umstöpseln aus
 	- [ ] thunderbolt Karte usb2.0 umstöpseln
 - [ ] was ist memory mbist? Hatte ich angestellt. Wieder aus?
 - [ ] pcie 
