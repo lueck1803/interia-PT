@@ -136,10 +136,13 @@
 - [ ] obsidian foldings? 
 	- [ ] wie merkt sich obsidian foldings? 
 		- [ ] offenbar in den os spezifischen daten als binary
+		- [ ] foldings are saved using localStorage, which means they only exist per individual installation
 	- [ ] Wie kann ich es syncen?
 	      ⤷ <font color="#daa520">plugins?</font>
 		- [ ] foldstate?
 		- [ ] creases?
+			- da ich creases eh installiert habe am rechner habe ich es jetzt auch am laptop installiert. es funktioniert wie foldstate, ist aber aktueller. es speichert mit dem Eintrag`%%fold%%` 
+		- [ ] sync folds?
 - [ ] neuen Rasierschaum ins bad
 	- [ ] hab tatsächlich keinen mehr, muss welchen kaufen gehen 
 - [ ] reis 
