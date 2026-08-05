@@ -133,7 +133,7 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg futtert</font>
 - [x] staubsaugen 
-- [ ] obsidian foldings?
+- [ ] obsidian foldings? %% fold %%
 	- [ ] wie merkt sich obsidian foldings? 
 		- [ ] offenbar in den os spezifischen daten als binary
 		- [ ] foldings are saved using localStorage, which means they only exist per individual installation
@@ -150,9 +150,9 @@
 - hotkey für cycle checkbox und color tauschen
 	- [x] mac
 	- [ ] pc
-- foldstate installieren
-	- [ ] handy
-	- [ ] mac
+- foldstate installieren %% fold %%
+	- [x] handy
+	- [ ] pc
 - [ ] neuen Rasierschaum ins bad
 	- [ ] hab tatsächlich keinen mehr, muss welchen kaufen gehen 
 - [ ] reis 
