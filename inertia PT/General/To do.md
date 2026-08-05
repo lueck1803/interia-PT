@@ -154,6 +154,20 @@
 	- [ ] dran denken mit zu nehmen:
 		- [ ] Apfelschneider 
 		- [ ] Sitz vom kleinen Drehstuhl 
+- [ ] email Gesamtkonferenz %% fold %%
+	- [ ] Liebe Kolleginnen und Kollegen,
+
+		hiermit lade ich euch herzlich zur ersten Gesamtkonferenz (GK1) des Schuljahres 26/27 ein.
+		
+		Die Konferenz findet am Freitag, den 07.08.26, um 10 Uhr in der Mensa statt. Die vorläufige Tagesordnung findet ihr im Anhang.
+		
+		Bereits ab 9:00 Uhr bitten wir euch, vor Ort zu sein, da vor der Konferenz unser Fototermin stattfindet. Es werden sowohl Einzelfotos als auch ein Gruppenfoto aufgenommen. Wir freuen uns daher über eine möglichst vollständige Teilnahme.
+		
+		An alle Klassenlehrkräfte:
+		Im Besprechungsraum liegen ab Mittwoch, den 05.08.26, die Schulplaner für die Jahrgänge 5-8 sowie die Entschuldigungshefte für die Jahrgänge 9-10 bereit. Bitte holt diese möglichst noch in den Ferien für eure Klasse ab und bringt sie in euer Klassenzimmer.
+		
+		Wir wünschen euch weiterhin erholsame Ferien und freuen uns auf ein gesundes Wiedersehen.
+- [ ] Flaschen spülen
 - [ ] Zähne putzen
 - [x] Balkon checken
 - [ ] 60° Wäsche <font color="#92d050">2026-08-06</font> %% fold %%
@@ -177,7 +191,6 @@
 	- [ ] ⤷ in den Kühlschrank 
 - [x] Küchenabfall wegbringen 
 - [x] Restmüll weg
-- [ ] Flaschen spülen
 - [x] Briefkasten checken %% fold %%
 - [ ] helle Wäsche <font color="#ff6e6e">2026-08-07</font> %% fold %%
 	- [x] anstellen %% fold %%
@@ -232,26 +245,12 @@
 - [x] Äpfel waschen 
 - [x] Tastatur wischen 
 	- [x] Wasser und Lappen tauschen 
-- [ ] email Gesamtkonferenz  %% fold %%
-	- [ ] Liebe Kolleginnen und Kollegen,
-
-		hiermit lade ich euch herzlich zur ersten Gesamtkonferenz (GK1) des Schuljahres 26/27 ein.
-		
-		Die Konferenz findet am Freitag, den 07.08.26, um 10 Uhr in der Mensa statt. Die vorläufige Tagesordnung findet ihr im Anhang.
-		
-		Bereits ab 9:00 Uhr bitten wir euch, vor Ort zu sein, da vor der Konferenz unser Fototermin stattfindet. Es werden sowohl Einzelfotos als auch ein Gruppenfoto aufgenommen. Wir freuen uns daher über eine möglichst vollständige Teilnahme.
-		
-		An alle Klassenlehrkräfte:
-		Im Besprechungsraum liegen ab Mittwoch, den 05.08.26, die Schulplaner für die Jahrgänge 5-8 sowie die Entschuldigungshefte für die Jahrgänge 9-10 bereit. Bitte holt diese möglichst noch in den Ferien für eure Klasse ab und bringt sie in euer Klassenzimmer.
-		
-		Wir wünschen euch weiterhin erholsame Ferien und freuen uns auf ein gesundes Wiedersehen.
 - [x] Krafttraining 
-
 - [x] Duolingo
 - [x] Kornelkirschenstecklinge aus Schulgarten aufbereiten
 - [x] rasieren 
 - [x] Gesicht waschen 
-- [x] Balkonpflanzen gießen 
+- [x] Balkonpflanzen gießen  %% fold %%
 - [x] Schulgarten checken/gießen %% fold %%
 	- [x] Kamille Samen im Schulgarten verstreuen
 	- [x] Büsche mit schwarzen Früchten im Bürgerpark checken, ob es Faulbaum ist
