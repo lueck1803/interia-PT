@@ -205,7 +205,7 @@
 - [ ] flaschen spülen
 - [ ] Restmüll weg
 - [ ] thunderbolt ex4 Anschluss prüfen 
-	- [x] testweise usb e1134 ausschalten 
+	- [x] testweise usb e1234 ausschalten 
 		- [x] ausschalten ohne power trennung nach ausschaltung ⟹ Bildschirm geht trotzdem
 		      ⤷ Grund für die fehlkommunikation? also geht es auch ohne USB bzw. ist der vielleicht nicht angeschlossen?
 		- mal richtig herunterfahren mit powerloss
@@ -214,7 +214,8 @@
 		- [x] ⤷ich schalte über das bios mal alle usb aus und teste ob das überhaupt funktioniert 
 			- ok da dadurch auch die maus nicht gehen würde, Stelle ich nur alle usb 3.0 aus
 			- ja geht, denn ich habe offenbar die Tastatur ausgeschaltet die am usb3 angeschlossen ist
-			- ja Bildschirmfunktion scheint mit ausgeschaltem 
+			- ja Bildschirmfunktion über tb scheint mit ausgeschaltem usb e1234 zu funktionieren wie bisher. Liegt vielleicht daran
+			- hab <font color="#b088ff">usb e1234</font> wieder <font color="#7cfc00">eingeschaltet</font> übers bios
 	- [ ] thunderbolt Karte usb2.0 umstöpseln
 - [ ] was ist memory mbist? Hatte ich angestellt. Wieder aus?
 - [ ] pcie 
