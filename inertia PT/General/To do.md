@@ -140,7 +140,7 @@
 	- [ ] wegräumen 
 - [x] staubsaugen 
 - [ ] Äpfel schneiden
-- [ ] Äpfel aus dem Wasser holen
+- [x] Äpfel aus dem Wasser holen
 - [ ] 30 min Gitarre spielen ~={MediumViolet}fraught=~ ~={DeepSkyBlue}mit Timer=~ %% fold %%
 	- [ ] intro lead mit slide
 	- [ ] Stakkato 
@@ -171,20 +171,20 @@
 - foldstate installieren %% fold %%
 	- [x] handy %% fold %%
 	- [ ] pc
-- [ ] neuen Rasierschaum ins bad %% fold %%
+- [ ] neuen Rasierschaum ins bad
 	- [ ] hab tatsächlich keinen mehr, muss welchen kaufen gehen 
 - [ ] reis %% fold %%
 	- [x] austragen 
 	- [x] Behälter spülen 
 	- [ ] umfüllen 
 	- [x] kochen
-- [x] Salz auffüllen 
+	- [ ] ⤷ in den Kühlschrank 
 - [x] Küchenabfall wegbringen 
 - [x] Restmüll weg
 - [ ] Flaschen spülen
-- [x] Briefkasten checken
+- [x] Briefkasten checken %% fold %%
 - [ ] helle Wäsche <font color="#ff6e6e">2026-08-07</font> %% fold %%
-	- [x] anstellen
+	- [x] anstellen %% fold %%
 	- [x] schleudern  %% fold %%
 		- [x] vorher riechen ob zu viel Waschpulver 
 		- ⤷ nochmal anstellen ⟹roch voll OK 
