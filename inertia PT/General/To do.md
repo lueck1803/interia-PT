@@ -135,12 +135,13 @@
 - [x] staubsaugen 
 - [ ] neuen Rasierschaum ins bad
 	- [ ] hab tatsächlich keinen mehr, muss welchen kaufen gehen 
-- [ ] Kü
 - [ ] reis 
 	- [x] austragen 
 	- [ ] Behälter spülen 
 	- [ ] umfüllen 
 	- [ ] kochen
+	- [ ] 
+- [ ] Küchenabfall wegbringen 
 - [ ] Restmüll weg
 - [ ] flaschen spülen
 - [x] Briefkasten checken
