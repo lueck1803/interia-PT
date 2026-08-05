@@ -1,7 +1,7 @@
 - ich <font color="#ff0000">will meine Arbeit Publikations fähig machen</font>
 - regelmäßig den <font color="#00fa9a">Blutdruck</font> messen
 - ohr eincremen /Teebaumöl test
-# Mantra %% fold %%
+# Mantra
 -  wer am <font color="#92d050">Schlaf spart</font>, <font color="#ff0000">zahlt</font> mit dem <font color="#ff0000">ganzen Tag.</font> %% fold %%
 	- Schlafquantität 
 	- Schlafqualität
@@ -133,9 +133,10 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg futtert</font>
 - [x] staubsaugen 
+- [ ] 
 - [ ] obsidian foldings? %% fold %%
 	- [ ] wie merkt sich obsidian foldings? 
-		- [ ] offenbar in den os spezifischen daten als binary
+		- [ ] offenbar in den os spezifischen daten als binary %% fold %%
 		- [ ] foldings are saved using localStorage, which means they only exist per individual installation
 	- [ ] Wie kann ich es syncen?
 	      ⤷ <font color="#daa520">plugins?</font>
