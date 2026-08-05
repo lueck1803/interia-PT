@@ -156,7 +156,7 @@
 		
 		Vielen Dank für eure Unterstützung. Wir freuen uns auf einen guten gemeinsamen Start in das neue Schuljahr.
 	- [ ] Termin notieren 
-- [ ] carnivoren gießen 
+- [x] carnivoren gießen 
 - [ ] Büsche mit schwarzen Früchten im Bürgerpark checken, ob es Faulbaum ist
 - [x] Pfeffermühle nachfüllen 
 - [x] Äpfel waschen 
@@ -197,7 +197,7 @@
 - [x] Gesicht waschen 
 - [x] Balkonpflanzen gießen 
 - [ ] Schulgarten checken/gießen
-	- [ ] Kamille Samen im Schulgarten verstreuen
+	- [x] Kamille Samen im Schulgarten verstreuen
 	- [ ] mit schere Steckling vom eventuellen Faulbaum machen 
 	- [ ] Kehrblech für Balkon kaufen 
 - [ ] ceran Feld wischen 
