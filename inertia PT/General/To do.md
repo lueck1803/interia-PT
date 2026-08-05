@@ -212,6 +212,7 @@
 		- [ ] ok geht auch danach noch 🤔.<br> ⤷ ich probiere definitiv das umstöpseln aus
 		- ok gilt auch nach längerem powerloss
 		- [ ] ⤷ich schalte über das bios mal alle usb aus und teste ob das überhaupt funktioniert 
+			- [ ] ok da dadurch auch die m
 	- [ ] thunderbolt Karte usb2.0 umstöpseln
 - [ ] was ist memory mbist? Hatte ich angestellt. Wieder aus?
 - [ ] pcie 
