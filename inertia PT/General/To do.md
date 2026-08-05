@@ -133,7 +133,9 @@
 - [ ] rasieren 
 - [ ] Teebaumöl auftragen
 - [ ] Iod auftragen
+- [ ] meditieren
 - [ ] ceran Feld wischen 
+- [ ] Spülmaschine ausräumen 
 - [ ] wie lange geht die Konferenz am Freitag?
 	- [ ] Bahnverbindung zu den Eltern heraussuchen 
 	- [ ] in den Kalender eingetragen 
@@ -292,9 +294,7 @@
 - [x] 60° Wäsche aufhängen 
 - [x] Dampfdruckkochtopf spülen 
 - [ ] passt mir mein Trainingsanzug noch?
-- [ ] meditieren
 - [x] Spülmaschine anstellen
-- [ ] Spülmaschine ausräumen 
 - [ ] abgestorbene marone raus und neue einsetzen 
 	- [ ] ne scheint noch zu leben
 - [ ] Muskateller Salbei Samen für Schulgarten 
