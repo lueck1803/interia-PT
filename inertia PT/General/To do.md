@@ -139,7 +139,7 @@
 - [x] staubsaugen 
 - [ ] Äpfel schneiden
 - [ ] Äpfel aus dem Wasser holen
-- [ ] 15 min G
+- [ ] 15 min Gitarre spielen ~={DeepSkyBlue}mit Timer=~
 - [ ] Bohnenessen essen
 - [ ] ce que/ce qui nochmal anschauen 
 - [ ] französisch Buch weiter lesen
