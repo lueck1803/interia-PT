@@ -174,7 +174,7 @@
 		Im Besprechungsraum liegen ab Mittwoch, den 05.08.26, die Schulplaner für die Jahrgänge 5-8 sowie die Entschuldigungshefte für die Jahrgänge 9-10 bereit. Bitte holt diese möglichst noch in den Ferien für eure Klasse ab und bringt sie in euer Klassenzimmer.
 		
 		Wir wünschen euch weiterhin erholsame Ferien und freuen uns auf ein gesundes Wiedersehen.
-- [ ] Krafttraining 
+- [x] Krafttraining 
 - [ ] Lehrpläne für meine Jahrgänge 
 	- [ ] raus suchen
 	- [ ] wichtige teile ausdrucken 
@@ -192,13 +192,13 @@
 		- [ ] Regeln für den Unterricht klar überlegen 
 - [ ] Duolingo
 - [ ] Zähne putzen
-- [ ] Kehrblech für Balkon kaufen 
 - [x] rasieren 
 - [ ] Gesicht waschen 
 - [x] Balkonpflanzen gießen 
 - [ ] Schulgarten checken/gießen
 	- [ ] Kamille Samen im Schulgarten verstreuen
 	- [ ] mit schere Steckling vom eventuellen Faulbaum machen 
+	- [ ] Kehrblech für Balkon kaufen 
 - [ ] ceran Feld wischen 
 - [x] Nagelknipser leeren
 - [x] carnivorenwasser auffüllen 
