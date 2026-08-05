@@ -273,6 +273,9 @@
 			- hab <font color="#b088ff">usb e1234</font> wieder <font color="#7cfc00">eingeschaltet</font> übers bios
 	- [ ] thunderbolt Karte usb2.0 umstöpseln
 <font color="#ffc000">Das hatte ich aber auch noch nicht, dass die Bildschirme nach ner Zeit angingen und dann nach 2s wieder ausgehen? sieht echt nach nem wackler aus.</font>
+Der Zeigt jetzt im device manager auch etwas neues an 🤔:
+![[../../Pasted image 20260806000438.png]]
+Device Descriptor Request Fai
 - [ ] was ist memory mbist? Hatte ich angestellt. Wieder aus?
 - [ ] pcie 
 	- [ ] ari Support 
