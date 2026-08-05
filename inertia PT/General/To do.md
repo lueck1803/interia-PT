@@ -150,12 +150,15 @@
 - hotkey für cycle checkbox und color tauschen
 	- [x] mac
 	- [ ] pc
+- [ ] hotkey für fold
+	- [ ] mac
+	- [ ] pc
 - foldstate installieren %% fold %%
-	- [x] handy
+	- [x] handy %% fold %%
 	- [ ] pc
 - [ ] neuen Rasierschaum ins bad
 	- [ ] hab tatsächlich keinen mehr, muss welchen kaufen gehen 
-- [ ] reis 
+- [ ] reis  %% fold %%
 	- [x] austragen 
 	- [x] Behälter spülen 
 	- [ ] umfüllen 
@@ -165,7 +168,7 @@
 - [ ] Restmüll weg
 - [ ] Flaschen spülen
 - [x] Briefkasten checken
-- helle Wäsche 
+- [ ] helle Wäsche %% fold %%
 	- [x] anstellen
 	- [x] schleudern 
 		- [x] vorher riechen ob zu viel Waschpulver 
@@ -181,7 +184,7 @@
 - [ ] meditieren
 - [x] ceran Feld wischen 
 - [ ] Spülmaschine ausräumen 
-- [ ] wie lange geht die Konferenz am Freitag?
+- [ ] wie lange geht die Konferenz am Freitag? %% fold %%
 	- [ ] Bahnverbindung zu den Eltern heraussuchen 
 	- [ ] in den Kalender eingetragen 
 	- [ ] Eltern informieren 
@@ -219,7 +222,7 @@
 - [x] Äpfel waschen 
 - [x] Tastatur wischen 
 	- [x] Wasser und Lappen tauschen 
-- [ ] email Gesamtkonferenz 
+- [ ] email Gesamtkonferenz  %% fold %%
 	- [ ] Liebe Kolleginnen und Kollegen,
 
 		hiermit lade ich euch herzlich zur ersten Gesamtkonferenz (GK1) des Schuljahres 26/27 ein.
@@ -233,7 +236,7 @@
 		
 		Wir wünschen euch weiterhin erholsame Ferien und freuen uns auf ein gesundes Wiedersehen.
 - [x] Krafttraining 
-- [ ] Lehrpläne für meine Jahrgänge 
+- [ ] Lehrpläne für meine Jahrgänge  %% fold %%
 	- [ ] raus suchen
 	- [ ] wichtige teile ausdrucken 
 	- [ ] Unterrichtsplanung erstellen 
@@ -262,7 +265,7 @@
 - [x] Nagelknipser leeren
 - [x] carnivorenwasser auffüllen 
 - [ ] to do leeren
-- [ ] thunderbolt ex4 Anschluss prüfen 
+- [x] thunderbolt ex4 Anschluss prüfen  %% fold %%
 	- [x] testweise usb e1234 ausschalten 
 		- [x] ausschalten ohne power trennung nach ausschaltung ⟹ Bildschirm geht trotzdem
 		      ⤷ Grund für die fehlkommunikation? also geht es auch ohne USB bzw. ist der vielleicht nicht angeschlossen?
@@ -287,7 +290,7 @@
 	- [ ] restore ac power loss
 	- [ ] power on by pci-e
 	- [ ] power on by rtc
-- [ ] Einstellung für
+- [ ] Einstellung für %% fold %%
 	- [ ] pcieex16_2 Mode
 	- [ ] pcieex16_2 4x-1x Switch 
 	- ⤷ mit gen3 und 4x scheint es jedenfalls nicht zu funktionieren unter Windows 🤔🤷
@@ -357,7 +360,7 @@
 - [ ] letzte Simulationen checken und snapshots machen
 - [ ] Proposal
 - [ ] französisch aufschreiben 
-- PC fertig machen 
+- PC fertig machen  %% fold %%
 	- Puuh so nice, dass es geht🥰🥳
 	- [ ] braucht nach dem Neustart halt ein bisschen bis die Bildschirme angehen 🤔
 		- [ ] ⤷was ist der Grund?
