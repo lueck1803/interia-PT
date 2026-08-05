@@ -210,6 +210,8 @@
 		      ⤷ Grund für die fehlkommunikation? also geht es auch ohne USB bzw. ist der vielleicht nicht angeschlossen?
 		- [ ] mal richtig herunterfahren mit powerloss
 		- [ ] ok geht auch danach noch 🤔.<br> ⤷ ich probiere definitiv das umstöpseln aus
+		- ok gilt auch nach längerem powerloss
+		- [ ] ⤷ich schalte über das bios mal alle usb aus und teste ob das überhaupt funktioniert 
 	- [ ] thunderbolt Karte usb2.0 umstöpseln
 - [ ] was ist memory mbist? Hatte ich angestellt. Wieder aus?
 - [ ] pcie 
