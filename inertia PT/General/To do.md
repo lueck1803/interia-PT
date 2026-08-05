@@ -169,9 +169,9 @@
 - [ ] Restmüll weg
 - [ ] Flaschen spülen
 - [x] Briefkasten checken
-- [ ] helle Wäsche %% fold %%
+- [ ] helle Wäsche
 	- [x] anstellen
-	- [x] schleudern 
+	- [x] schleudern  %% fold %%
 		- [x] vorher riechen ob zu viel Waschpulver 
 		- ⤷ nochmal anstellen ⟹roch voll OK 
 	- [ ] aufhängen 
