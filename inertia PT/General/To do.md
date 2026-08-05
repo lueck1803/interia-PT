@@ -188,7 +188,7 @@
 	- [x] Behälter spülen  %% fold %%
 	- [ ] umfüllen 
 	- [x] kochen
-	- [x] ⤷ in den Kühlschrank 
+	- [ ] ⤷ in den Kühlschrank 
 - [x] Küchenabfall wegbringen 
 - [x] Restmüll weg
 - [x] Briefkasten checken %% fold %%
