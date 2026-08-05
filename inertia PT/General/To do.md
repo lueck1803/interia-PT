@@ -214,6 +214,7 @@
 		- [x] ⤷ich schalte über das bios mal alle usb aus und teste ob das überhaupt funktioniert 
 			- ok da dadurch auch die maus nicht gehen würde, Stelle ich nur alle usb 3.0 aus
 			- ja geht, denn ich habe offenbar die Tastatur ausgeschaltet die am usb3 angeschlossen ist
+			- ja Bildschirmfunktion scheint mit ausgeschaltem 
 	- [ ] thunderbolt Karte usb2.0 umstöpseln
 - [ ] was ist memory mbist? Hatte ich angestellt. Wieder aus?
 - [ ] pcie 
