@@ -151,8 +151,9 @@
 	- [x] mac
 	- [ ] pc
 - [ ] hotkey für fold
-	- [ ] mac
+	- [x] mac
 	- [ ] pc
+	- [ ] toolbar handy
 - foldstate installieren %% fold %%
 	- [x] handy %% fold %%
 	- [ ] pc
