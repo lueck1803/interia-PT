@@ -1775,7 +1775,8 @@ Struktur: Oft schwer finanzierbar, was die Umsetzung in inklusiven Settings ersc
 Im Rahmen der Lehrerausbildung wird die Doppelbesetzung auch genutzt, um LiV (Lehrer im Vorbereitungsdienst) durch Mentoren zu begleiten. 
 
 # Konversationen
-## 2026-08-05
+## 2026-07-03 mail von jana 
+
 
 ## 26-06-19 Burak
 Ich hatte die 5a nicht so häufig. 
