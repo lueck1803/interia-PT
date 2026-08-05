@@ -129,6 +129,11 @@
 - [ ] Restmüll weg
 - [ ] flaschen spülen
 - [ ] Briefkasten checken
+- [ ] duschen
+- [ ] rasieren 
+- [ ] Teebaumöl auftragen
+- [ ] Iod auftragen
+- [ ] ceran Feld wischen 
 - [ ] wie lange geht die Konferenz am Freitag?
 	- [ ] Bahnverbindung zu den Eltern heraussuchen 
 	- [ ] in den Kalender eingetragen 
@@ -206,7 +211,6 @@
 	- [ ] mit schere Steckling vom eventuellen Faulbaum machen 
 	- [ ] Büsche mit schwarzen Früchten im Bürgerpark checken, ob es Faulbaum ist
 	- [ ] Kehrblech für Balkon kaufen 
-- [ ] ceran Feld wischen 
 - [x] Nagelknipser leeren
 - [x] carnivorenwasser auffüllen 
 - [ ] to do leeren
