@@ -131,11 +131,13 @@
 # unsortiert
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
-<font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg futtert</font>
+<font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - [x] staubsaugen 
-- [ ] 
+- [ ] Bohnenessen essen
+- [ ] ce que/ce qui nochmal anschauen 
+- [ ] französisch Buch weiter lesen
 - [ ] obsidian foldings? %% fold %%
-	- [ ] wie merkt sich obsidian foldings? 
+	- [ ] wie merkt sich obsidian foldings?  %% fold %%
 		- [ ] offenbar in den os spezifischen daten als binary %% fold %%
 		- [ ] foldings are saved using localStorage, which means they only exist per individual installation
 	- [ ] Wie kann ich es syncen?
