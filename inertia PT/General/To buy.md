@@ -7,7 +7,10 @@
 - [x] Reis 
 - [x] Olivenöl 
 - [x] Bier
-- [ ] Rasierschaum 
+- [x] Rasierschaum 
+- [x] Zahnpasta 
+- [x] Mundspülung 
+- [ ] Damendeo
 - [ ] Hafermilch
 - [ ] Saft
 ## Speicher/Sonst 
