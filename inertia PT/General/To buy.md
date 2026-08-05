@@ -11,8 +11,8 @@
 - [x] Zahnpasta 
 - [x] Mundspülung 
 - [x] Damendeo
-- [ ] Hafermilch
-- [ ] Saft
+- [x] Hafermilch
+- [x] Saft
 ## Speicher/Sonst 
 # Other
 - [ ] Fensterstopper 
@@ -72,6 +72,7 @@
 - [x] Backpulver 
 - [ ] Unterhemden
 - [x] ventilator 
+- [ ] Balkon checken
 - türke
 	- [x] weiße bohnen 
 	- [x] 2 x Ackerbohnen
