@@ -10,7 +10,7 @@
 - [x] Rasierschaum 
 - [x] Zahnpasta 
 - [x] Mundspülung 
-- [ ] Damendeo
+- [x] Damendeo
 - [ ] Hafermilch
 - [ ] Saft
 ## Speicher/Sonst 
