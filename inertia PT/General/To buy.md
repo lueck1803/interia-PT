@@ -2,6 +2,7 @@
 - [ ] Kehrblech für Balkon
 - [ ] Rasierschaum 
 - [ ] Nudelsoßen 
+- [ ] Betaisodona
 - [x] Vaseline 
 - [x] hummus
 - [x] Schoki 

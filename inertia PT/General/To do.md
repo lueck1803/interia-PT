@@ -150,8 +150,10 @@
 - [x] Zähne putzen
 - [x] duschen
 - [x] rasieren 
-- [ ] Teebaumöl auftragen
-- [ ] Iod auftragen
+- [ ] wie nennt man das was ich an der Schläfe habe?
+	- [ ] welche weiteren Mittel gibt es
+- [x] Teebaumöl auftragen
+- [x] Iod auftragen
 - [ ] meditieren
 - [ ] ceran Feld wischen 
 - [ ] Spülmaschine ausräumen 
