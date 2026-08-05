@@ -171,8 +171,8 @@
 - foldstate installieren %% fold %%
 	- [x] handy %% fold %%
 	- [ ] pc
-- [ ] neuen Rasierschaum ins bad
-	- [ ] hab tatsächlich keinen mehr, muss welchen kaufen gehen 
+- [x] neuen Rasierschaum ins bad %% fold %%
+	- [x] hab tatsächlich keinen mehr, muss welchen kaufen gehen 
 - [ ] reis %% fold %%
 	- [x] austragen 
 	- [x] Behälter spülen 
