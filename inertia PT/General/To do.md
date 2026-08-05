@@ -281,7 +281,9 @@ Mit Titan ridge wird aber beim herunterfahren länger etwas angezeigt. Dafür er
 Wie sieht es mit der obersten Einstellung (<font color="#ff69b4">Alpine ridge</font>) aus? 
 - bios screen erscheint hier im Gegensatz zu titan ridge 
 - aber nach direktem start keine Bildschirme 
-- nichts im 
+	- ⤷nichts im device manager zu sehen 
+- nach shutdown?
+	- bulds 
 - [ ] was ist memory mbist? Hatte ich angestellt. Wieder aus?
 - [ ] pcie 
 	- [ ] ari Support 
