@@ -130,7 +130,7 @@
 - [x] Balkon aufräumen 
 - [x] majoran schneiden 
 - [x] kleine braune weiß gepunktete Spinne bestimmen
-	- [ ] Weißpunkt-Fettspinne
+	- Weißpunkt-Fettspinne / Dreiecksfettspinne 
 - [x] Pflanze beim majoran bestimmen 
 	- kleinblütiges Franzosenkraut 
 - [x] Dampfdruckkochtopf nochmal richtig spülen
