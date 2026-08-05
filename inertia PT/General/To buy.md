@@ -1,9 +1,9 @@
 # Aldi
 ## Jetzt
 - Einkaufswagen 
-- [ ] Pfand 
-- [ ] salz
-- [ ] Nudelsoßen 
+- [x] Pfand 
+- [x] salz
+- [x] Nudelsoßen 
 - [ ] Reis 
 - [ ] Bier
 - [ ] Rasierschaum 
