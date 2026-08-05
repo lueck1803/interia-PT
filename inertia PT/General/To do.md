@@ -147,7 +147,7 @@
 			- [ ] möglichst schnell in Tätigkeit kommen 
 		- [ ] Checkliste/was muss ich wissen und wo kann ich es nachlesen bis zur nächsten Klausur erstellen 
 		- [ ] Regeln für den Unterricht klar überlegen 
-- [ ] wie lange geht die Konferenz am Freitag?
+- [ ] wie lange geht die Konferenz am Freitag? %% fold %%
 	- [ ] Bahnverbindung zu den Eltern heraussuchen  %% fold %%
 	- [ ] in den Kalender eingetragen 
 	- [ ] Eltern informieren 
@@ -188,7 +188,7 @@
 	- [x] Behälter spülen  %% fold %%
 	- [ ] umfüllen 
 	- [x] kochen
-	- [ ] ⤷ in den Kühlschrank 
+	- [x] ⤷ in den Kühlschrank 
 - [x] Küchenabfall wegbringen 
 - [x] Restmüll weg
 - [x] Briefkasten checken %% fold %%
@@ -340,7 +340,7 @@ Der Zeigt jetzt im device manager auch etwas neues an 🤔:
 - abgestorbene marone raus und neue einsetzen 
 	- ne scheint noch zu leben
 - [ ] Muskateller Salbei Samen für Schulgarten  %% fold %%
-- [ ] Zitronensaft  %% fold %%
+- [ ] Zitronensaft
 	- [x] pressen
 	- [ ] einfrieren 
 - [ ] bei shin son hab kido anmelden/vorbei schauen, wann die Training haben 
