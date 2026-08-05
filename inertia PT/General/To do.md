@@ -128,9 +128,10 @@
 - [ ] staubsaugen 
 - [x] balkon kehren 
 - [x] Balkon aufräumen 
-- [ ] majoran schneiden 
-- [ ] Pflanze beim majoran bestimmen 
-	- [ ] kleinblütiges franzosenkraut
+- [x] majoran schneiden 
+- [ ] kl
+- [x] Pflanze beim majoran bestimmen 
+	- kleinblütiges Franzosenkraut 
 - [x] Dampfdruckkochtopf nochmal richtig spülen
 - [ ] Briefkasten checken
 - [ ] Stundenplan für nächstes Jahr? In welchen Jahrgängen habe ich Unterricht:
