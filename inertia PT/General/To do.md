@@ -133,6 +133,7 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - [ ] Zähne putzen
+- [ ] Balkon checken
 - [ ] 60° Wäsche <font color="#92d050">2026-08-06</font> %% fold %%
 	- [ ] abhängen  %% fold %%
 	- [ ] zusammenlegen 
