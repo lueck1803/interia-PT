@@ -197,7 +197,7 @@
 	- [ ] welche weiteren Mittel gibt es
 - [x] Teebaumöl auftragen
 - [x] Iod auftragen
-- [ ] meditieren <br>
+- [ ] meditieren 
 - [x] ceran Feld wischen 
 - [ ] Spülmaschine ausräumen  %% fold %%
 - [ ] wie lange geht die Konferenz am Freitag? %% fold %%
