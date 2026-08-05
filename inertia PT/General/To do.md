@@ -204,6 +204,7 @@
 		- [ ] Checkliste/was muss ich wissen und wo kann ich es nachlesen bis zur nächsten Klausur erstellen 
 		- [ ] Regeln für den Unterricht klar überlegen 
 - [ ] Duolingo
+- [ ] Kornelkirschenstecklinge aus Schulgarten aufbereiten
 - [x] Zähne putzen
 - [x] rasieren 
 - [x] Gesicht waschen 
@@ -212,7 +213,7 @@
 	- [x] Kamille Samen im Schulgarten verstreuen
 	- [ ] mit schere Steckling vom eventuellen Faulbaum machen 
 	- [ ] Büsche mit schwarzen Früchten im Bürgerpark checken, ob es Faulbaum ist
-	- [ ] Kehrblech für Balkon kaufen 
+- [ ] Kehrblech für Balkon kaufen 
 - [x] Nagelknipser leeren
 - [x] carnivorenwasser auffüllen 
 - [ ] to do leeren
