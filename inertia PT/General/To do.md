@@ -260,6 +260,7 @@
 - [x] Spülmaschine anstellen
 - [ ] Spülmaschine ausräumen 
 - [ ] abgestorbene marone raus und neue einsetzen 
+	- [ ] ne scheint noch zu leben
 - [ ] Muskateller Salbei Samen für Schulgarten 
 - [ ] Zitronensaft 
 	- [x] pressen
