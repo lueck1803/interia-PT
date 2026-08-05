@@ -205,14 +205,14 @@
 - [ ] flaschen spülen
 - [ ] Restmüll weg
 - [ ] thunderbolt ex4 Anschluss prüfen 
-	- [ ] testweise usb e1134 ausschalten 
-		- [ ] ausschalten ohne power trennung nach ausschaltung ⟹ Bildschirm geht trotzdem
+	- [x] testweise usb e1134 ausschalten 
+		- [x] ausschalten ohne power trennung nach ausschaltung ⟹ Bildschirm geht trotzdem
 		      ⤷ Grund für die fehlkommunikation? also geht es auch ohne USB bzw. ist der vielleicht nicht angeschlossen?
-		- [ ] mal richtig herunterfahren mit powerloss
-		- [ ] ok geht auch danach noch 🤔.<br> ⤷ ich probiere definitiv das umstöpseln aus
+		- mal richtig herunterfahren mit powerloss
+		- ok geht auch danach noch 🤔.<br> ⤷ ich probiere definitiv das umstöpseln aus
 		- ok gilt auch nach längerem powerloss
 		- [x] ⤷ich schalte über das bios mal alle usb aus und teste ob das überhaupt funktioniert 
-			- [ ] ok da dadurch auch die maus nicht gehen würde, Stelle ich nur alle usb 3.0 aus
+			- ok da dadurch auch die maus nicht gehen würde, Stelle ich nur alle usb 3.0 aus
 			- ja geht, denn ich habe offenbar die Tastatur ausgeschaltet die am usb3 angeschlossen ist
 	- [ ] thunderbolt Karte usb2.0 umstöpseln
 - [ ] was ist memory mbist? Hatte ich angestellt. Wieder aus?
