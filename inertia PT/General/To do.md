@@ -199,6 +199,9 @@
 	- [ ] Bahnverbindung zu den Eltern heraussuchen 
 	- [ ] in den Kalender eingetragen 
 	- [ ] Eltern informieren 
+	- [ ] dran denken mit zu nehmen:
+		- [ ] Apfelschneider 
+		- [ ] Sitz vom kleinen Drehstuhl 
 - [x] Toilette putzen 
 - [x] Balkon kehren 
 - [x] Balkon aufräumen 
