@@ -134,9 +134,10 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg futtert</font>
 - [x] staubsaugen 
 - [ ] neuen Rasierschaum ins bad
+	- [ ] hey
 - [ ] reis 
+	- [x] austragen 
 	- [ ] umfüllen 
-	- [ ] austragen 
 	- [ ] kochen
 - [ ] Restmüll weg
 - [ ] flaschen spülen
