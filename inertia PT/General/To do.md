@@ -128,7 +128,8 @@
 - [ ] staubsaugen 
 - [ ] wie lange geht die Konferenz am Freitag?
 	- [ ] Bahnverbindung zu den Eltern heraussuchen 
-	- [ ] 
+	- [ ] in den Kalender eingetragen 
+	- [ ] Eltern informieren 
 - [x] Toilette putzen 
 - [x] balkon kehren 
 - [x] Balkon aufräumen 
