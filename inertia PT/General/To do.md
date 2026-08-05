@@ -144,10 +144,12 @@
 - helle Wäsche 
 	- [x] anstellen
 	- [ ] schleudern 
+		- [ ] vorher riechen ob zu viel Waschpulver 
+		- [ ] ⤷ nochmal anstellen 
 	- [ ] aufhängen 
-- [ ] Zähne putzen
-- [ ] duschen
-- [ ] rasieren 
+- [x] Zähne putzen
+- [x] duschen
+- [x] rasieren 
 - [ ] Teebaumöl auftragen
 - [ ] Iod auftragen
 - [ ] meditieren

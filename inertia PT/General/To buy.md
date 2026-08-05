@@ -1,6 +1,7 @@
 - [ ] Fensterstopper 
 - [ ] Kehrblech für Balkon
-- [ ] rasiersc
+- [ ] Rasierschaum 
+- [ ] Nudelsoßen 
 - [x] Vaseline 
 - [x] hummus
 - [x] Schoki 
@@ -9,7 +10,6 @@
 - [x] Burger 
 - [x] saft
 - [x] Nusskati 
-- [ ] Nudelsoßen 
 - [x] pizza
 - [x] toast 
 - [x] bier
