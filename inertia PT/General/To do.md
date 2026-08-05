@@ -179,6 +179,9 @@
 - [ ] Restmüll weg
 - [ ] thunderbolt ex4 Anschluss prüfen 
 	- [ ] testweise usb e1134 ausschalten 
+		- [ ] ausschalten ohne power trennung nach ausschaltung ⟹ Bildschirm geht trotzdem
+		      ⤷ Grund für die fehlkommunikation? also geht es auch ohne USB bzw. ist der vielleicht nicht angeschlossen?
+		- [ ] mal richtig herunterfahren mit powerloss
 	- [ ] thunderbolt Karte usb2.0 umstöpseln
 - [ ] was ist memory mbist? Hatte ich angestellt. Wieder aus?
 - [ ] pcie 
