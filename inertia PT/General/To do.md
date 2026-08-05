@@ -142,7 +142,7 @@
 		- [ ] foldstate?
 		- [ ] creases?
 			- da ich creases eh installiert habe am rechner habe ich es jetzt auch am laptop installiert. es funktioniert wie foldstate, ist aber aktueller. es speichert mit dem Eintrag`%%fold%%` den status in den jeweiligen Datei. 
-			- am Handy installieren?
+			- am Handy installieren? ✅
 		- [ ] sync folds?
 - hotkey für cycle checkbox und color tauschen
 	- [x] mac
