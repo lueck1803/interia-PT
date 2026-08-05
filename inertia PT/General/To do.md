@@ -199,7 +199,9 @@
 - [x] Iod auftragen
 - [ ] meditieren 
 - [x] ceran Feld wischen 
-- [ ] Spülmaschine ausräumen  %% fold %%
+- [x] Spülmaschine anstellen
+- [ ] Spülmaschine einräumen 
+- [x] Spülmaschine ausräumen  %% fold %%
 - [ ] wie lange geht die Konferenz am Freitag? %% fold %%
 	- [ ] Bahnverbindung zu den Eltern heraussuchen  %% fold %%
 	- [ ] in den Kalender eingetragen 
@@ -358,7 +360,6 @@
 - [ ] zur Not alles bis auf HDMI Kabel zurück schicken?
 	- [ ] graka kaufen 🤷
 - [ ] passt mir mein Trainingsanzug noch?
-- [x] Spülmaschine anstellen
 - abgestorbene marone raus und neue einsetzen 
 	- ne scheint noch zu leben
 - [ ] Muskateller Salbei Samen für Schulgarten  %% fold %%
