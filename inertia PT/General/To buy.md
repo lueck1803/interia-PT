@@ -1,4 +1,5 @@
 - [ ] Fensterstopper 
+- [ ] Kehrblech für Balkon
 - [x] Vaseline 
 - [x] hummus
 - [x] Schoki 

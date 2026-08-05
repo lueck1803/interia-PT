@@ -169,9 +169,24 @@
 		
 		Wir wünschen euch weiterhin erholsame Ferien und freuen uns auf ein gesundes Wiedersehen.
 - [ ] Krafttraining 
-- [ ] lehr
+- [ ] Lehrpläne für meine Jahrgänge 
+	- [ ] raus suchen
+	- [ ] wichtige teile ausdrucken 
+	- [ ] Unterrichtsplanung erstellen 
+		- [ ] wie viele Stunden hab ich pro Thema 
+		- [ ] wann müssen Klausuren geschrieben werden
+		- [ ] nur das wichtigste, möglichst den Unterricht immer an einer Fragestellung aufhängen, die triggert
+			- [ ] eine Behauptung 
+			- [ ] ein in fragestellen
+			- [ ] diskussions/Fragerunde zu Beginn 
+			- [ ] <font color="#c815ff">Checkliste für den Unterricht</font> um den nachbereiten zu können mit <font color="#7cfc00">was hat funktioniert</font> und <font color="#ff3d3d">was nicht</font>
+			- [ ] welche Experimente oder welche praktischen Übungen kann ich mitbringen/vorbereiten 
+			- [ ] möglichst schnell in Tätigkeit kommen 
+		- [ ] Checkliste/was muss ich wissen und wo kann ich es nachlesen bis zur nächsten Klausur erstellen 
+		- [ ] Regeln für den Unterricht klar überlegen 
 - [ ] Duolingo
 - [ ] Zähne putzen
+- [ ] Kehrblech für Balkon kaufen 
 - [x] rasieren 
 - [ ] Gesicht waschen 
 - [ ] Balkonpflanzen gießen 
