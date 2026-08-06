@@ -188,6 +188,13 @@
 		
 		Vielen Dank für eure Unterstützung. Wir freuen uns auf einen guten gemeinsamen Start in das neue Schuljahr.
 	- [ ] Termin notieren 
+	- [ ] Klassen die ich betreue:
+	- [ ] Mathe
+		- [ ] 8a - 4 h/w
+		- [ ] 8b - 4 h/w
+	- [ ] Physik
+		- [ ] 7c - 2 h/w
+		- [ ] 7d - 2 h/w
 - [x] Balkonpflanzen gießen 
 - [x] carnivoren gießen 
 - [x] Schulgarten checken/gießen
