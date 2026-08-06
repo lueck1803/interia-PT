@@ -2280,10 +2280,11 @@ Git pull is a command that performs more processes compared to git fetch. Git pu
 # Office 
 ## Collabora office 
 ### calc
-#### linebreak in cell
 
-> [!NOTE] Title
-> Contents
+> [!NOTE] linebreak in cell
+> 1. Select the cell
+> 2. Select Formula field 
+> 3. 
 
 # Word
 
