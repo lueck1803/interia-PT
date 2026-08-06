@@ -2284,7 +2284,7 @@ Git pull is a command that performs more processes compared to git fetch. Git pu
 > [!NOTE] linebreak in cell
 > 1. Select the cell <br> **opt:** *select the position with the marker*
 > 2. Select Formula field <br> **opt:** *select the position with touch*
-> 3. Press *shift* + *enter* at the same time
+> 3. Press *shift* ⇧+ *enter* at the same time
 
 # Word
 
