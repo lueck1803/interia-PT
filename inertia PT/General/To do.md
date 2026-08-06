@@ -144,6 +144,8 @@
 - [ ] Device manager checken
 - [ ] Zeug für Konferenz lesen
 
+- [ ] 
+
 - [ ] Tastatur wischen
 	- [ ] laptop
 	- [ ] PC
@@ -161,8 +163,8 @@
 - [ ] helle Wäsche <font color="#ff6e6e">2026-08-07</font>
 	- [x] anstellen %% fold %%
 	- [x] schleudern  %% fold %%
-		- [x] vorher riechen ob zu viel Waschpulver 
-		- ⤷ nochmal anstellen ⟹roch voll OK 
+		- [x] vorher riechen ob zu viel Waschpulver  %% fold %%
+		- ⤷ nochmal anstellen ⟹roch voll OK  %% fold %%
 	- [x] aufhängen 
 	- [ ] abhängen 
 	- [ ] wegräumen 
