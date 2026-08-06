@@ -179,8 +179,8 @@
 - [x] Collabora office <font color="#c3d69b">linebreak</font> 
 - [x] Gesicht waschen
 - [x] Haare kämmen 
-- [x] Arbeitsflächen in der Küche wischen 
-- [ ] Schulgarten checken/gießen
+- [x] Arbeitsflächen in der Küche wischen  %% fold %%
+- [ ] Schulgarten checken/gießen %% fold %%
 - [ ] meditieren 
 - [ ] rote Linsen + Kichererbsen Curry kochen 
 - [x] Spülmaschine ausräumen  %% fold %% 
