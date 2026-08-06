@@ -183,10 +183,10 @@
 - [ ] Bohnenessen essen
 - [ ] ce que/ce qui nochmal anschauen 
 - [ ] französisch Buch weiter lesen
-- [ ] reis %% fold %%
+- [x] reis %% fold %%
 	- [x] austragen 
 	- [x] Behälter spülen  %% fold %%
-	- [ ] umfüllen 
+	- [x] umfüllen 
 	- [x] kochen
 	- [x] ⤷ in den Kühlschrank 
 - [x] Küchenabfall wegbringen 
