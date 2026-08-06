@@ -154,7 +154,7 @@
 	- [ ] dran denken mit zu nehmen:
 		- [ ] Apfelschneider 
 		- [ ] Sitz vom kleinen Drehstuhl 
-- [ ] email Gesamtkonferenz %% fold %%
+- [ ] email Gesamtkonferenz
 	- [ ] Liebe Kolleginnen und Kollegen,
 
 		hiermit lade ich euch herzlich zur ersten Gesamtkonferenz (GK1) des Schuljahres 26/27 ein.
@@ -167,7 +167,7 @@
 		Im Besprechungsraum liegen ab Mittwoch, den 05.08.26, die Schulplaner für die Jahrgänge 5-8 sowie die Entschuldigungshefte für die Jahrgänge 9-10 bereit. Bitte holt diese möglichst noch in den Ferien für eure Klasse ab und bringt sie in euer Klassenzimmer.
 		
 		Wir wünschen euch weiterhin erholsame Ferien und freuen uns auf ein gesundes Wiedersehen.
-- [ ] Stundenplan für nächstes Jahr? In welchen Jahrgängen habe ich Unterricht: %% fold %%
+- [ ] Stundenplan für nächstes Jahr? In welchen Jahrgängen habe ich Unterricht:
 	- [ ] Liebe Kolleginnen und Kollegen, %% fold %%
 
 		zum neuen Schuljahr führen wir Jahrgangsteamsitzungen ein. Diese sollen die Absprachen innerhalb der Jahrgänge erleichtern, die Kommunikation stärken und insbesondere den Austausch mit unseren neuen Kolleginnen und Kollegen fördern. %% fold %%
