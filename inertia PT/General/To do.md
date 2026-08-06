@@ -189,7 +189,12 @@
 	- [ ] Termin notieren 
 - [x] Balkonpflanzen gießen 
 - [x] carnivoren gießen 
-- [ ] Schulgarten checken/gießen %% fold %%
+- [ ] Schulgarten checken/gießen
+- [ ] Laptop auf den Tisch 
+- [ ] Laptop mit tb -> dp an Bildschirm 
+- [ ] die oberen Punkte abarbeiten
+- [ ] mich um den pc kümmern
+- [ ] tasks auf
 - [x] Flaschen spülen
 - [ ] warum ist Beton ein so schlechter Wärmeisolator?
 - [x] Zähne putzen 
