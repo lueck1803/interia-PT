@@ -167,17 +167,37 @@
 		Im Besprechungsraum liegen ab Mittwoch, den 05.08.26, die Schulplaner für die Jahrgänge 5-8 sowie die Entschuldigungshefte für die Jahrgänge 9-10 bereit. Bitte holt diese möglichst noch in den Ferien für eure Klasse ab und bringt sie in euer Klassenzimmer.
 		
 		Wir wünschen euch weiterhin erholsame Ferien und freuen uns auf ein gesundes Wiedersehen.
+- [ ] Stundenplan für nächstes Jahr? In welchen Jahrgängen habe ich Unterricht: %% fold %%
+	- [ ] Liebe Kolleginnen und Kollegen, %% fold %%
+
+		zum neuen Schuljahr führen wir Jahrgangsteamsitzungen ein. Diese sollen die Absprachen innerhalb der Jahrgänge erleichtern, die Kommunikation stärken und insbesondere den Austausch mit unseren neuen Kolleginnen und Kollegen fördern. %% fold %%
+		
+		Die Teilnahme an den Jahrgangsteamsitzungen ist für alle Lehrkräfte verpflichtend, die im jeweiligen Jahrgang unterrichten.
+		
+		Die ersten Termine finden jeweils um 13:45 Uhr im Lehrerzimmer statt
+		
+		- Dienstag, 11.08.26 - Jahrgang 10
+		- Mittwoch, 12.08.2026 - Jahrgang 9
+		- Donnerstag, 13.08.2026 - Jahrgang 8
+		- Freitag, 14.08.2026 - Jahrgang 7
+		- Montag, 17.08.2026 Jahrgang 6
+		- Dienstag, 18.08.2026 - Jahrgang 5
+		
+		Bitte merkt euch den für euch relevanten Termin bereits jetzt vor.
+		
+		Vielen Dank für eure Unterstützung. Wir freuen uns auf einen guten gemeinsamen Start in das neue Schuljahr.
+	- [ ] Termin notieren 
+- [ ] Balkonpflanzen gießen 
+- [ ] carnivoren gießen 
+- [ ] Schulgarten checken/gießen %% fold %%
 - [x] Flaschen spülen
 - [ ] warum ist Beton ein so schlechter Wärmeisolator?
-- [ ] Balkonpflanzen gießen 
 - [x] Zähne putzen 
-- [ ] carnivoren gießen 
 - [ ] Krafttraining
 - [x] Duolingo
 - [x] Gesicht waschen
 - [x] Haare kämmen 
 - [x] Arbeitsflächen in der Küche wischen  %% fold %%
-- [ ] Schulgarten checken/gießen %% fold %%
 - [ ] meditieren 
 - [ ] rote Linsen + Kichererbsen Curry kochen 
 - [x] Spülmaschine ausräumen  %% fold %% 
@@ -202,7 +222,7 @@
 	- [x] kochen
 	- [x] ⤷ in den Kühlschrank 
 - [x] Küchenabfall wegbringen 
-- [x] Restmüll weg
+- [x] Restmüll weg %% fold %%
 - [x] Briefkasten checken %% fold %%
 - [ ] helle Wäsche <font color="#ff6e6e">2026-08-07</font> %% fold %%
 	- [x] anstellen %% fold %%
@@ -230,26 +250,6 @@
 - [x] Pflanze beim majoran bestimmen  %% fold %%
 	- kleinblütiges Franzosenkraut 
 - [x] Dampfdruckkochtopf nochmal richtig spülen %% fold %%
-- [ ] Stundenplan für nächstes Jahr? In welchen Jahrgängen habe ich Unterricht: %% fold %%
-	- [ ] Liebe Kolleginnen und Kollegen, %% fold %%
-
-		zum neuen Schuljahr führen wir Jahrgangsteamsitzungen ein. Diese sollen die Absprachen innerhalb der Jahrgänge erleichtern, die Kommunikation stärken und insbesondere den Austausch mit unseren neuen Kolleginnen und Kollegen fördern. %% fold %%
-		
-		Die Teilnahme an den Jahrgangsteamsitzungen ist für alle Lehrkräfte verpflichtend, die im jeweiligen Jahrgang unterrichten.
-		
-		Die ersten Termine finden jeweils um 13:45 Uhr im Lehrerzimmer statt
-		
-		- Dienstag, 11.08.26 - Jahrgang 10
-		- Mittwoch, 12.08.2026 - Jahrgang 9
-		- Donnerstag, 13.08.2026 - Jahrgang 8
-		- Freitag, 14.08.2026 - Jahrgang 7
-		- Montag, 17.08.2026 Jahrgang 6
-		- Dienstag, 18.08.2026 - Jahrgang 5
-		
-		Bitte merkt euch den für euch relevanten Termin bereits jetzt vor.
-		
-		Vielen Dank für eure Unterstützung. Wir freuen uns auf einen guten gemeinsamen Start in das neue Schuljahr.
-	- [ ] Termin notieren 
 - [x] Pfeffermühle nachfüllen 
 - [x] Äpfel waschen 
 - [x] Tastatur wischen 
