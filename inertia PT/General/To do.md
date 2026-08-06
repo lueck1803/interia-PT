@@ -176,6 +176,7 @@
 - [ ] obsidian notification ausstellen?
 - [ ] Krafttraining 
 - [ ] Duolingo
+- [x] Collabora office <font color="#c3d69b">linebreak</font> 
 - [ ] Gesicht waschen
 - [ ] Haare kämmen 
 - [ ] select html on mobile obsidian 
