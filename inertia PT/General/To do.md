@@ -189,8 +189,8 @@
 	- [ ] Termin notieren 
 - [x] Balkonpflanzen gießen 
 - [x] carnivoren gießen 
-- [ ] Schulgarten checken/gießen
-- [ ] Laptop auf den Tisch 
+- [x] Schulgarten checken/gießen
+- [x] Laptop auf den Tisch 
 - [ ] Laptop mit tb -> dp an Bildschirm 
 - [ ] die oberen Punkte abarbeiten
 - [ ] mich um den pc kümmern
