@@ -25,7 +25,5 @@
   "html-checkboxes",
   "mobile-pdf-exporter",
   "foldstate",
-  "obsidian-reminder-plugin",
-  "obsidian-tasks-plugin",
-  "google-sync"
+  "obsidian-reminder-plugin"
 ]
