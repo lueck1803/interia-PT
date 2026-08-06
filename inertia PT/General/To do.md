@@ -171,8 +171,8 @@
 - [ ] warum ist Beton ein so schlechter Wärmeisolator?
 - [x] Balkonpflanzen gießen  %% fold %%(@2026-08-06 14:15)
 - [x] Zähne putzen (@2026-08-06 14:05)
-- [ ] mac switch between windows of the same app hotkey fixen
-- [ ] mac order/placing of the screens
+- [x] mac switch between windows of the same app hotkey fixen
+- [x] mac order/placing of the screens
 - [ ] carnivoren gießen 
 - [ ] Krafttraining
 - [ ] Duolingo
