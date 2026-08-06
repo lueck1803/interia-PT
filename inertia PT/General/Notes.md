@@ -320,7 +320,7 @@ Da sie sich ja eher als Gegenentwurf zum sich in Europa ausbreitenden Islam sehe
 Die Kirchen bieten wie die auch selbst sagen keinen Platz mehr für viele Christen.
 
 Das kann ich so von meiner Beobachtung auch bestätigen.
-## 2026-07-18 E-Mail Arooj
+## 2026-07-18 E-Mail Arooj %% fold %%
 Hey
 
 🤭Oh typisch Arooj so fleißig, prompt und emsig, dass du direkt ne Briefmarke gekauft hast. 
@@ -2055,7 +2055,7 @@ Meine Fragen dazu sind:
 - 
 # Tage infolge Produktiv
 Tage produktiv gewesen:
-||||\ ||||\ |
+||||\ ||||\ ||
 
 
 

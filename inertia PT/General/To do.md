@@ -134,12 +134,19 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 
 - [ ] Was nutze ich zum Kalender sync mit obsidian?
-	- [ ] Google Calendar and Tasks Sync
-	       ⟹ hab ich quasi eingerichtet, aber wie funktioniert das mit 
-		- [ ] reminder
-		- [ ] oder tasks
-	- [ ] Google Calendar Importer 
-	      ⟹ sieht sehr ähnlich aus zu dem oberen
+	- Google Calendar and Tasks Sync
+	       - ⟹ hab ich quasi eingerichtet, aber wie funktioniert das mit 
+		- reminder
+		- oder tasks
+	- Google Calendar Importer 
+	      - ⟹ sieht sehr ähnlich aus zu dem oberen
+	- Sync<font color="#00b0f0">Obsidian x Google Calendar Plugin</font>
+	      - ⟹ sieht am ehesten so aus wie das was ich möchte.
+	      - ⟹ ist 3 Jahre alt...
+		- kombiniert mit 
+			- todoist
+			- tasks
+			- dataview
 
 
 - [ ] Wegen Schul-ID Zettel unterschreiben lassen und abgeben?
