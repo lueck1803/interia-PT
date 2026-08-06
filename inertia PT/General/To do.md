@@ -140,13 +140,18 @@
 		- oder tasks
 	- Google Calendar Importer 
 	      - ⟹ sieht sehr ähnlich aus zu dem oberen
-	- Sync<font color="#00b0f0">Obsidian x Google Calendar Plugin</font>
+	- <font color="#ff6e6e">Sync Google Calendar </font><font color="#00b0f0">Obsidian x Google Calendar Plugin</font>
 	      - ⟹ sieht am ehesten so aus wie das was ich möchte.
 	      - ⟹ ist 3 Jahre alt...
 		- kombiniert mit 
 			- todoist
 			- tasks
 			- dataview
+	-  Obsidian to iCal
+		- Save calendar to GitHub Gist
+			-  [Save calendar to GitHub Gist](app://obsidian.md/README.md#save-calendar-to-gitHub-gist) 
+		- Support Day Planner plugin
+			- [Day Planner plugin](https://github.com/ivan-lednev/obsidian-day-planner) 
 
 
 - [ ] Wegen Schul-ID Zettel unterschreiben lassen und abgeben?
