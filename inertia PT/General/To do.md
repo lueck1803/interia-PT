@@ -145,7 +145,8 @@
 	- ⟹ wird <font color="#c00000">nix</font> angezeigt
 - [ ] Zeug für Konferenz lesen 📅 2026-08-07 00:40 ✅ 2026-08-07
 
-- [ ] <font color="#48d1cc">day planner</font> Beschreibung durchlesen 
+- [x] <font color="#48d1cc">day planner</font> Beschreibung durchlesen 📅 2026-08-07 01:00 ✅ 2026-08-07
+	- [ ] habs mal am mac installiert und auch den calender eingetragen, weiß aber nicht, ob der gesynct hat. bisher erscheint nichts
 
 - [x] Tastatur wischen
 	- [x] laptop
