@@ -169,7 +169,7 @@
 		Wir wünschen euch weiterhin erholsame Ferien und freuen uns auf ein gesundes Wiedersehen.
 - [x] Flaschen spülen
 - [ ] warum ist Beton ein so schlechter Wärmeisolator?
-- [ ] Balkonpflanzen gießen  %% fold %%
+- [ ] Balkonpflanzen gießen  %% fold %%(@2026-08-06 14:15)
 - [x] Zähne putzen (@2026-08-06 14:05)
 - [ ] mac switch between windows of the same app hotkey fixen
 - [ ] mac order/placing of the screens
@@ -184,9 +184,9 @@
 - [ ] Schulgarten checken/gießen
 - [ ] meditieren 
 - [ ] rote Linsen + Kichererbsen Curry kochen 
-- [ ] Spülmaschine ausräumen  %% fold %% (@)
+- [ ] Spülmaschine ausräumen  %% fold %% (@2026-08-06 15:00)
 - [x] Badspiegel putzen  %% fold %%
-- [ ] 60° Wäsche <font color="#92d050">2026-08-06</font>
+- [ ] 60° Wäsche <font color="#92d050">2026-08-06</font> %% fold %%
 	- [ ] abhängen  %% fold %%
 	- [ ] zusammenlegen  %% fold %%
 	- [ ] wegräumen 
