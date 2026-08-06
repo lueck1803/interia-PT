@@ -783,7 +783,7 @@ $$, where $\zeta_{\mathcal{O}}$ is the critical exponent associated with the obs
 - [x] git checkout to the ***last*** **phase-peak-pit-height-tune-algo**
 - [ ] compare the box placement for stdDev and halfstdDev
 - [ ] evaluate binder for 28k particles with halfstddev and compare the plot with stdDev
-	
+	 %% fold %%
 # Box Algo
 ich frage mich, ob ich nicht, wenn ich die ~={yellow}kästchen kleiner=~ mache und mehr und ~={orange}mehr auf die peaks/pits=~ schiebe und den ~={LawnGreen}interfaces ausweiche=~, ob ich dann nicht den ~={DeepPink}fluktuationen ausweiche=~?
 - [ ] ich muss definitiv die peaks filtern um die mitte des größten peaks. das würde die ergebnisse definitiv verbessern
