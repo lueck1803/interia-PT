@@ -144,30 +144,49 @@
 - [ ] Device manager checken
 - [ ] Zeug für Konferenz lesen
 
+- [ ] Tastatur wischen
+	- [ ] laptop
+	- [ ] PC
+
 - [ ] duschen 📅 2026-08-07 07:00
 - [ ] Klamotten fürs Foto raussuchen 📅 2026-08-07 07:15
 
+- [ ] images in Obsidian aufräumen
+
+- [ ] 60° Wäsche <font color="#92d050">2026-08-06</font>
+	- [ ] abhängen  %% fold %%
+	- [ ] zusammenlegen  %% fold %%
+	- [ ] wegräumen 
+
+- [ ] helle Wäsche <font color="#ff6e6e">2026-08-07</font>
+	- [x] anstellen %% fold %%
+	- [x] schleudern  %% fold %%
+		- [x] vorher riechen ob zu viel Waschpulver 
+		- ⤷ nochmal anstellen ⟹roch voll OK 
+	- [x] aufhängen 
+	- [ ] abhängen 
+	- [ ] wegräumen 
+
 - [ ] Papierkram
-	- [ ] kassenbons
+	- [ ] Kassenbons
 	- [ ] Hefter
 	- [ ] BAS Arbeitsvertrag 📅 2026-08-07 13:00
 		- [ ] Wo ist der von Mai?
 		- [ ] abheften
 	- [ ] Hochschulbezügestelle
 		- [ ] alle Briefe richtig lesen
+		- [ ] Wie viel Geld bekomme ich jetzt eigentlich???
 		- [ ] in richtiger Reihenfolge in Ordner heften
 	- [ ] Konto checken
 		- [ ] kam das Geld von DATAPROTECT?
+	- [ ] AOK 
+		- [ ] App checken
+		- [ ] Muss ich neue Angaben machen?
 
 - [ ] zu den Eltern fahren 📅 2026-08-07 14:00
 	- [ ] Stuhloberteil
 	- [ ] Sonnenbrille vom Papa
 	- [ ] Apfelschneider
-
-
-- [ ] Tastatur wischen
-	- [ ] laptop
-	- [ ] PC
 
 
 - [ ] Laptop mit tb -> dp an Bildschirm 
@@ -187,13 +206,14 @@
 	- [ ] Hotkey am Mac für Editing Toolbar: Change Font Color ⇔ wrap with shortcuts hotkey dafür verwenden
 	- [ ] hab ich am mac nen hotkey für Date und time?
 
+
  %% fold %%
 - [ ] Schulportal Login
-
-
-- [ ] Was nutze ich zum Kalender sync mit obsidian?
-	- <font color="#ff1493">Day Planner</font>???
-		- sieht irgendwie genauso aus wie das was ich will???
+ %% fold %%
+ %% fold %%
+- [ ] Was nutze ich zum Kalender sync mit obsidian? %% fold %%
+	- <font color="#ff1493">Day Planner</font>??? %% fold %%
+		- sieht irgendwie genauso aus wie das was ich will??? %% fold %%
 	- Google Calendar and Tasks Sync %% fold %%
 	       - ⟹ hab ich quasi eingerichtet, aber wie funktioniert das mit  %% fold %%
 		- reminder %% fold %%
@@ -201,7 +221,7 @@
 	- Google Calendar Importer  %% fold %%
 	      - ⟹ sieht sehr ähnlich aus zu dem oberen
 	- <font color="#ff6e6e">Sync Google Calendar </font><font color="#00b0f0">Obsidian x Google Calendar Plugin</font>
-	      - ⟹ sieht am ehesten so aus wie das was ich möchte.
+	      - ⟹ sieht am ehesten so aus wie das was ich möchte. %% fold %%
 	      - ⟹ ist 3 Jahre alt...
 		- kombiniert mit 
 			- todoist
@@ -314,16 +334,12 @@
 			- 1 h/w
 				- 10a
 				- 10b
+
 - [x] Balkonpflanzen gießen 
 - [x] carnivoren gießen 
 - [x] Schulgarten checken/gießen
 - [x] Laptop auf den Tisch 
 
-
-- [ ] kleinen Drehstuhl
-	- [ ] Sitzteil zu Eltern mitnehmen 
-	- [ ] schweißen 
-	- [ ] Apfelschneider schweißen 
 
 - [x] Flaschen spülen
 - [ ] warum ist Beton ein so schlechter Wärmeisolator?
@@ -333,13 +349,8 @@
 - [ ] rote Linsen + Kichererbsen Curry kochen 
 - [x] Spülmaschine ausräumen  %% fold %% 
 - [x] Badspiegel putzen  %% fold %%
-- [ ] 60° Wäsche <font color="#92d050">2026-08-06</font> %% fold %%
-	- [ ] abhängen  %% fold %%
-	- [ ] zusammenlegen  %% fold %%
-	- [ ] wegräumen 
-- [x] staubsaugen 
-- [ ] Äpfel schneiden %% fold %%
-- [x] Äpfel aus dem Wasser holen %% fold %%
+
+- [x] staubsaugen  %% fold %%
 - [ ] 30 min Gitarre spielen ~={MediumViolet}fraught=~ ~={DeepSkyBlue}mit Timer=~ %% fold %%
 	- [ ] intro lead mit slide %% fold %%
 	- [ ] Stakkato 
@@ -347,14 +358,7 @@
 - [x] Küchenabfall wegbringen 
 - [x] Restmüll weg %% fold %%
 - [x] Briefkasten checken %% fold %%
-- [ ] helle Wäsche <font color="#ff6e6e">2026-08-07</font> %% fold %%
-	- [x] anstellen %% fold %%
-	- [x] schleudern  %% fold %%
-		- [x] vorher riechen ob zu viel Waschpulver 
-		- ⤷ nochmal anstellen ⟹roch voll OK 
-	- [x] aufhängen 
-	- [ ] abhängen 
-	- [ ] wegräumen 
+
 - [x] rasieren 
 - [ ] wie nennt man das was ich an der Schläfe habe?
 	- [ ] welche weiteren Mittel gibt es
@@ -362,7 +366,7 @@
 - [x] Iod auftragen
 - [x] ceran Feld wischen 
 - [x] Spülmaschine anstellen
-- [x] Spülmaschine einräumen 
+- [x] Spülmaschine einräumen  %% fold %%
 - [x] Toilette putzen 
 - [x] Balkon kehren 
 - [x] Balkon aufräumen  %% fold %%
@@ -383,7 +387,7 @@
 - [ ] Kehrblech für Balkon kaufen  %% fold %%
 - [x] Nagelknipser leeren
 - [x] carnivorenwasser auffüllen  %% fold %%
-- [x] thunderbolt ex4 Anschluss prüfen
+- [x] thunderbolt ex4 Anschluss prüfen %% fold %%
 	- [x] testweise usb e1234 ausschalten 
 		- [x] ausschalten ohne power trennung nach ausschaltung ⟹ Bildschirm geht trotzdem
 		      ⤷ Grund für die fehlkommunikation? also geht es auch ohne USB bzw. ist der vielleicht nicht angeschlossen?
@@ -411,14 +415,14 @@ Wie sieht es mit der obersten Einstellung (<font color="#ff69b4">Alpine ridge</f
 
 <font color="#ff0000">Jetzt</font> 2026-08-06 22:53 gehen die Bildschirme seit mehreren Stunden. ich musste allerdings wieder von <font color="#ff3d3d">Alpine ridge</font> ⟹ <font color="#7cfc00">Titan ridge</font> <font color="#ff1493">umstellen</font>
 - [ ] was ist memory mbist? Hatte ich angestellt. Wieder aus?
-- [ ] pcie 
+- [ ] pcie  %% fold %%
 	- [ ] ari Support 
 	- [ ] ari enumeration
-- [ ] pci subsystem 
+- [ ] pci subsystem  %% fold %%
 	- [ ] above 4g decoding 
 	- [ ] resize bar support 
 	- [ ] sr-iov support 
-- [ ] apm configuration 
+- [ ] apm configuration  %% fold %%
 	- [ ] restore ac power loss
 	- [ ] power on by pci-e
 	- [ ] power on by rtc
@@ -449,7 +453,7 @@ Wie sieht es mit der obersten Einstellung (<font color="#ff69b4">Alpine ridge</f
 - [ ] verschiedene tb Einstellungen testen 
 - [ ] unkown usb device (set address failed) ergründen 
 - [ ] nvme raid mode
-- [ ] nb config
+- [ ] nb config %% fold %%
 	- [ ] igfx multi monitor 
 	- [ ] primary video device 
 - [ ] csm (was bedeutet das?)
@@ -476,12 +480,11 @@ Wie sieht es mit der obersten Einstellung (<font color="#ff69b4">Alpine ridge</f
 - [ ] Muskateller Salbei Samen für Schulgarten  %% fold %%
 - [ ] bei shin son hab kido anmelden/vorbei schauen, wann die Training haben 
 - [ ] Turnbeutel in Wäsche  %% fold %%
-- [ ] Ticket für *my sleeping karma*
-	- [ ] ⤷ arthur bescheid geben
+
 
 - [ ] letzte Simulationen checken und snapshots machen
 - [ ] Proposal %% fold %%
-- [ ] französisch aufschreiben 
+- [ ] französisch aufschreiben  %% fold %%
 - [ ] PC fertig machen  %% fold %%
 	- Puuh so nice, dass es geht🥰🥳
 	- [ ] braucht nach dem Neustart halt ein bisschen bis die Bildschirme angehen 🤔
