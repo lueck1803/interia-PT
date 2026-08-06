@@ -183,14 +183,14 @@
 - [ ] Schulgarten checken/gießen
 - [ ] meditieren 
 - [ ] rote Linsen + Kichererbsen Curry kochen 
-- [ ] Spülmaschine ausräumen  %% fold %% (@2026-08-06 15:00)
+- [ ] Spülmaschine ausräumen  %% fold %% 
 - [x] Badspiegel putzen  %% fold %%
 - [ ] 60° Wäsche <font color="#92d050">2026-08-06</font> %% fold %%
 	- [ ] abhängen  %% fold %%
 	- [ ] zusammenlegen  %% fold %%
 	- [ ] wegräumen 
 - [x] staubsaugen 
-- [ ] Äpfel schneiden
+- [ ] Äpfel schneiden (@2026-08-06 16:20)
 - [x] Äpfel aus dem Wasser holen %% fold %%
 - [ ] 30 min Gitarre spielen ~={MediumViolet}fraught=~ ~={DeepSkyBlue}mit Timer=~ %% fold %%
 	- [ ] intro lead mit slide %% fold %%
