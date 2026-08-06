@@ -140,10 +140,10 @@
 - [x] bier auf dem tisch weg wischen 📅 2026-08-06 23:25 ✅ 2026-08-06
 - [ ] meditieren 
 - [ ] Zeug im Spülkorb wegräumen 
-- [ ] Spülmaschine Graphitöl ölen
+- [ ] Spülmaschine Graphit-öl ölen
 - [x] Device manager checken
 	- ⟹ wird <font color="#c00000">nix</font> angezeigt
-- [ ] Zeug für Konferenz lesen 📅 2026-08-07 00:40 ✅ 2026-08-07
+- [x] Zeug für Konferenz lesen 📅 2026-08-07 00:40 ✅ 2026-08-07
 
 - [ ] #task <font color="#48d1cc">day planner</font> Beschreibung durchlesen 📅 2026-08-07 01:00
 	- [ ] habs mal am mac installiert und auch den calender eingetragen, weiß aber nicht, ob der gesynct hat. bisher erscheint nichts
