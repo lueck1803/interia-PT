@@ -132,12 +132,22 @@
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
+
+- [ ] Was nutze ich zum Kalender sync mit obsidian?
+	- [ ] Google Calendar and Tasks Sync
+	       ⟹ hab ich quasi eingerichtet, aber wie funktioniert das mit 
+		- [ ] reminder
+		- [ ] oder tasks
+	- [ ] Google Calendar Importer 
+	      ⟹ sieht sehr ähnlich aus zu dem oberen
+
+
 - [ ] Wegen Schul-ID Zettel unterschreiben lassen und abgeben?
 - [ ] Lehrpläne für meine Jahrgänge %% fold %%
 	- [ ] raus suchen %% fold %%
-	- [ ] wichtige teile ausdrucken 
-	- [ ] Unterrichtsplanung erstellen 
-		- [ ] wie viele Stunden hab ich pro Thema 
+	- [ ] wichtige teile ausdrucken  %% fold %%
+	- [ ] Unterrichtsplanung erstellen  %% fold %%
+		- [ ] wie viele Stunden hab ich pro Thema  %% fold %%
 		- [ ] wann müssen Klausuren geschrieben werden
 		- [ ] nur das wichtigste, möglichst den Unterricht immer an einer Fragestellung aufhängen, die triggert
 			- [ ] eine Behauptung 
