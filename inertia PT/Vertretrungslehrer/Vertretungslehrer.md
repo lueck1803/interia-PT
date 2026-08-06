@@ -1622,6 +1622,36 @@ Ich übernehme:
 ## Arzttermine und frei haben 
 [15.6., 14:14] Jamil Hirsch: Okay, dann plane ich dich für Mittwoch raus, Arztbesuch. Grundsätzlich musst du sowas nicht nach- oder Vorarbeiten.
 [15.6., 14:48] Jamil Hirsch: Für das nächste Mal wäre es wichtig, dass du das schriftlich beantragst. Im Schulportal findest du das entsprechende Formular.
+
+# <font color="#00b050">WS 26/27</font>
+## Klassen die ich betreue:
+### Mathe
+- Ansprechpartner
+	- Lukas Kohlmeier (koh)
+	- (mel)
+	- (ein)
+- 4 h/w
+	- 8a 
+	- 8b 
+		
+### Physik
+- Ansprechpartner / Kollegen der Jahrgänge
+	- 7er:
+		- mid
+	- 8er 
+		- wol
+		- lae 
+	- 10er 
+		- Jamil Hirsch
+- Stunden pro Woche - Klassen 
+	- 2 h/w
+		- 7c 
+		- 7d 
+		- 8a 
+		- 8b 
+	- 1 h/w
+		- 10a
+		- 10b
 # Aufgaben-Ideen
 ## Mathe
 ### Prozentrechnung 

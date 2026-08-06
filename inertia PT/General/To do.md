@@ -179,7 +179,7 @@
 		
 		- Dienstag, 11.08.26 - Jahrgang 10
 		- Mittwoch, 12.08.2026 - Jahrgang 9
-		- Donnerstag, 13.08.2026 - Jahrgang 8
+		- <font color="#ffd700">Donnerstag, 13.08.2026 - Jahrgang 8</font>
 		- Freitag, 14.08.2026 - Jahrgang 7
 		- Montag, 17.08.2026 Jahrgang 6
 		- Dienstag, 18.08.2026 - Jahrgang 5
