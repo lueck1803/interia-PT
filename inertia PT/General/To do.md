@@ -133,7 +133,7 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 
-- [ ] Was nutze ich zum Kalender sync mit obsidian?
+- [ ] Was nutze ich zum Kalender sync mit obsidian? %% fold %%
 	- Google Calendar and Tasks Sync
 	       - ⟹ hab ich quasi eingerichtet, aber wie funktioniert das mit 
 		- reminder
@@ -183,14 +183,14 @@
 			- [ ] möglichst schnell in Tätigkeit kommen 
 		- [ ] Checkliste/was muss ich wissen und wo kann ich es nachlesen bis zur nächsten Klausur erstellen 
 		- [ ] Regeln für den Unterricht klar überlegen 
-- [ ] wie lange geht die Konferenz am Freitag?
+- [ ] wie lange geht die Konferenz am Freitag? %% fold %%
 	- [ ] Bahnverbindung zu den Eltern heraussuchen  %% fold %%
 	- [ ] in den Kalender eingetragen 
 	- [ ] Eltern informieren 
 	- [ ] dran denken mit zu nehmen:
 		- [ ] Apfelschneider 
 		- [ ] Sitz vom kleinen Drehstuhl 
-- [ ] email Gesamtkonferenz
+- [ ] email Gesamtkonferenz %% fold %%
 	- [ ] Liebe Kolleginnen und Kollegen,
 
 		hiermit lade ich euch herzlich zur ersten Gesamtkonferenz (GK1) des Schuljahres 26/27 ein.
@@ -203,7 +203,7 @@
 		Im Besprechungsraum liegen ab Mittwoch, den 05.08.26, die Schulplaner für die Jahrgänge 5-8 sowie die Entschuldigungshefte für die Jahrgänge 9-10 bereit. Bitte holt diese möglichst noch in den Ferien für eure Klasse ab und bringt sie in euer Klassenzimmer.
 		
 		Wir wünschen euch weiterhin erholsame Ferien und freuen uns auf ein gesundes Wiedersehen.
-- [ ] Stundenplan für nächstes Jahr? In welchen Jahrgängen habe ich Unterricht:
+- [ ] Stundenplan für nächstes Jahr? In welchen Jahrgängen habe ich Unterricht: %% fold %%
 	- [ ] Liebe Kolleginnen und Kollegen,
 
 		zum neuen Schuljahr führen wir Jahrgangsteamsitzungen ein. Diese sollen die Absprachen innerhalb der Jahrgänge erleichtern, die Kommunikation stärken und insbesondere den Austausch mit unseren neuen Kolleginnen und Kollegen fördern. %% fold %%
@@ -259,7 +259,11 @@
 - [ ] Laptop mit tb -> dp an Bildschirm 
 - [ ] die oberen Punkte abarbeiten
 - [ ] mich um den pc kümmern
-- [ ] tasks aufräumen  ⏰ 2026-08-06 21:10 📅 2026-08-06 21:10
+- [ ] obsidian kram wieder installieren
+	- [ ] tasks
+	- [ ] reminder
+	- [ ] Google Calendar and Tasks Sync
+- [ ] tasks aufräumen  
 - [x] Flaschen spülen
 - [ ] warum ist Beton ein so schlechter Wärmeisolator?
 - [x] Zähne putzen 
@@ -356,6 +360,8 @@ Wie sieht es mit der obersten Einstellung (<font color="#ff69b4">Alpine ridge</f
 	- ⤷nichts im device manager zu sehen 
 - nach shutdown?
 	- Bildschirme gehen an 
+
+<font color="#ff0000">Jetzt</font> 2026-08-06 22:53 gehen die Bildschirme seit mehreren Stunden. ich musste allerdings wieder von <font color="#ff3d3d">Alpine ridge</font> ⟹ <font color="#7cfc00">Titan ridge</font> umstellen
 - [ ] was ist memory mbist? Hatte ich angestellt. Wieder aus?
 - [ ] pcie 
 	- [ ] ari Support 
@@ -370,7 +376,7 @@ Wie sieht es mit der obersten Einstellung (<font color="#ff69b4">Alpine ridge</f
 	- [ ] power on by rtc
 - [ ] Einstellung für %% fold %%
 	- [ ] pcieex16_2 Mode %% fold %%
-	- [ ] pcieex16_2 4x-1x Switch 
+	- [ ] pcieex16_2 4x-1x Switch  %% fold %%
 	- ⤷ mit gen3 und 4x scheint es jedenfalls nicht zu funktionieren unter Windows 🤔🤷
 	- Windows bootscreen kommt auf tb Bildschirmen
 	- wieder auf auto stellen?
