@@ -142,11 +142,24 @@
 - [ ] Zeug im Spülkorb wegräumen
 - [ ] Spülmaschine Graphitöl ölen
 - [ ] Device manager checken
+- [ ] Zeug für Konferenz lesen
 
 - [ ] duschen 📅 2026-08-07 07:00
 - [ ] Klamotten fürs Foto raussuchen 📅 2026-08-07 07:15
 
-- [ ] zu den Eltern fahren 📅 2026-08-07 13:00
+- [ ] Papierkram
+	- [ ] kassenbons
+	- [ ] Hefter
+	- [ ] BAS Arbeitsvertrag 📅 2026-08-07 13:00
+		- [ ] Wo ist der von Mai?
+		- [ ] abheften
+	- [ ] Hochschulbezügestelle
+		- [ ] alle Briefe richtig lesen
+		- [ ] in richtiger Reihenfolge in Ordner heften
+	- [ ] Konto checken
+		- [ ] kam das Geld von DATAPROTECT?
+
+- [ ] zu den Eltern fahren 📅 2026-08-07 14:00
 	- [ ] Stuhloberteil
 	- [ ] Sonnenbrille vom Papa
 	- [ ] Apfelschneider
@@ -465,11 +478,9 @@ Wie sieht es mit der obersten Einstellung (<font color="#ff69b4">Alpine ridge</f
 - [ ] Turnbeutel in Wäsche  %% fold %%
 - [ ] Ticket für *my sleeping karma*
 	- [ ] ⤷ arthur bescheid geben
-- [ ] Papierkram %% fold %%
-	- [ ] kassenbons
-	- [ ] Hefter
+
 - [ ] letzte Simulationen checken und snapshots machen
-- [ ] Proposal
+- [ ] Proposal %% fold %%
 - [ ] französisch aufschreiben 
 - [ ] PC fertig machen  %% fold %%
 	- Puuh so nice, dass es geht🥰🥳
