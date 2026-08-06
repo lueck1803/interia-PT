@@ -133,11 +133,22 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 
+- [ ] Zähne putzen 
+- [ ] Gesicht waschen
+- [ ] ce que/ce qui nochmal anschauen 
+- [ ] tasks aufräumen  
+- [ ] bier auf dem tisch weg wischen
+- [ ] meditieren 
+
+
+- [ ] Schulportal Login
+
+
 - [ ] Was nutze ich zum Kalender sync mit obsidian? %% fold %%
-	- Google Calendar and Tasks Sync
-	       - ⟹ hab ich quasi eingerichtet, aber wie funktioniert das mit 
-		- reminder
-		- oder tasks
+	- Google Calendar and Tasks Sync %% fold %%
+	       - ⟹ hab ich quasi eingerichtet, aber wie funktioniert das mit  %% fold %%
+		- reminder %% fold %%
+		- oder tasks %% fold %%
 	- Google Calendar Importer 
 	      - ⟹ sieht sehr ähnlich aus zu dem oberen
 	- <font color="#ff6e6e">Sync Google Calendar </font><font color="#00b0f0">Obsidian x Google Calendar Plugin</font>
@@ -267,20 +278,16 @@
 		- [ ] mac
 		- [ ] handy
 	- [ ] Google Calendar and Tasks Sync
-		- [ ] pc zeug einstellen
+		- [x] pc zeug einstellen
 		- [ ] mac
 		- [ ] handy
 	- [ ] Hotkey am Mac für Editing Toolbar: Change Font Color ⇔ wrap with shortcuts hotkey dafür verwenden
-- [ ] tasks aufräumen  
+
 - [x] Flaschen spülen
 - [ ] warum ist Beton ein so schlechter Wärmeisolator?
-- [x] Zähne putzen 
 - [ ] Krafttraining
 - [x] Duolingo
-- [x] Gesicht waschen
-- [x] Haare kämmen 
 - [x] Arbeitsflächen in der Küche wischen  %% fold %%
-- [ ] meditieren 
 - [ ] rote Linsen + Kichererbsen Curry kochen 
 - [x] Spülmaschine ausräumen  %% fold %% 
 - [x] Badspiegel putzen  %% fold %%
@@ -295,14 +302,7 @@
 	- [ ] intro lead mit slide %% fold %%
 	- [ ] Stakkato 
 - [x] Bohnenessen essen
-- [ ] ce que/ce qui nochmal anschauen 
-- [ ] französisch Buch weiter lesen
-- [x] reis %% fold %%
-	- [x] austragen 
-	- [x] Behälter spülen  %% fold %%
-	- [x] umfüllen 
-	- [x] kochen
-	- [x] ⤷ in den Kühlschrank 
+- [ ] französisch Buch weiter lesen %% fold %%
 - [x] Küchenabfall wegbringen 
 - [x] Restmüll weg %% fold %%
 - [x] Briefkasten checken %% fold %%
