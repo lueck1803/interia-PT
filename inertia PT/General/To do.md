@@ -133,17 +133,17 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 
-- [ ] Zähne putzen 
-- [ ] Gesicht waschen
+- [x] Zähne putzen 
+- [x] Gesicht waschen
 - [ ] ce que/ce qui nochmal anschauen 
 - [ ] tasks aufräumen  
 - [x] bier auf dem tisch weg wischen 📅 2026-08-06 23:25 ✅ 2026-08-06
 - [ ] meditieren 
-- [ ] Zeug im Spülkorb wegräumen
+- [ ] Zeug im Spülkorb wegräumen 
 - [ ] Spülmaschine Graphitöl ölen
 - [x] Device manager checken
 	- ⟹ wird <font color="#c00000">nix</font> angezeigt
-- [ ] Zeug für Konferenz lesen
+- [ ] Zeug für Konferenz lesen 📅 2026-08-07 00:40
 
 - [ ] <font color="#48d1cc">daily planner</font> Beschreibung durchlesen 
 
@@ -196,7 +196,8 @@
 	
 
 
-- [ ] Laptop mit tb -> dp an Bildschirm 
+- [x] Laptop mit tb -> dp an Bildschirm 
+      ⤷ funktioniert <font color="#ff1493">wunderbar</font>
 - [ ] mich um den pc kümmern
 
 
