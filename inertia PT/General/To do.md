@@ -171,6 +171,7 @@
 - [ ] warum ist Beton ein so schlechter Wärmeisolator?
 - [ ] Balkonpflanzen gießen  %% fold %%
 - [ ] Zähne putzen
+- [ ] mac switch between windows of the same app hotkey fixen
 - [ ] carnivoren gießen 
 - [ ] obsidian notification ausstellen?
 - [ ] Krafttraining 
@@ -192,7 +193,7 @@
 - [ ] Äpfel schneiden
 - [x] Äpfel aus dem Wasser holen
 - [ ] 30 min Gitarre spielen ~={MediumViolet}fraught=~ ~={DeepSkyBlue}mit Timer=~ %% fold %%
-	- [ ] intro lead mit slide
+	- [ ] intro lead mit slide %% fold %%
 	- [ ] Stakkato 
 - [x] Bohnenessen essen
 - [ ] ce que/ce qui nochmal anschauen 
