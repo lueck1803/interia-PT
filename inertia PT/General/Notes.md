@@ -2282,10 +2282,9 @@ Git pull is a command that performs more processes compared to git fetch. Git pu
 ### calc
 
 > [!NOTE] linebreak in cell
-> 1. Select the cell
-> 2. Select Formula field 
-> 3. Select the position where you want to insert the line break with touch. 
-> 4. 
+> 1. Select the cell <br> **opt:** *select the position with the marker*
+> 2. Select Formula field <br> **opt:** *select the position with touch*
+> 3. Press *shift* + *enter* at the same time
 
 # Word
 
