@@ -149,7 +149,9 @@
 	- habs mal am mac installiert und auch den calender eingetragen, weiß aber nicht, ob der gesynct hat. bisher erscheint nichts
 	- naja irgendwie strange
 
-- [ ] Termine für die nächste Woche erstellen 
+- [x] Termine für die nächste Woche erstellen 
+
+- [x] Bahnverbindung raus suchen
 
 
 - [x] Tastatur wischen
@@ -284,15 +286,15 @@
 			- [ ] möglichst schnell in Tätigkeit kommen 
 		- [ ] Checkliste/was muss ich wissen und wo kann ich es nachlesen bis zur nächsten Klausur erstellen 
 		- [ ] Regeln für den Unterricht klar überlegen 
-- [ ] wie lange geht die Konferenz am Freitag?
+- [ ] wie lange geht die Konferenz am Freitag? <font color="#7cfc00">~12 uhr</font> %% fold %%
 	- [ ] Bahnverbindung zu den Eltern heraussuchen  %% fold %%
 	- [ ] in den Kalender eingetragen 
 	- [ ] Eltern informieren 
 	- [ ] dran denken mit zu nehmen:
 		- [ ] Apfelschneider 
 		- [ ] Sitz vom kleinen Drehstuhl 
-- [ ] email Gesamtkonferenz %% fold %%
-	- [ ] Liebe Kolleginnen und Kollegen,
+- [x] email Gesamtkonferenz %% fold %%
+	- Liebe Kolleginnen und Kollegen,
 
 		hiermit lade ich euch herzlich zur ersten Gesamtkonferenz (GK1) des Schuljahres 26/27 ein.
 		
@@ -304,8 +306,8 @@
 		Im Besprechungsraum liegen ab Mittwoch, den 05.08.26, die Schulplaner für die Jahrgänge 5-8 sowie die Entschuldigungshefte für die Jahrgänge 9-10 bereit. Bitte holt diese möglichst noch in den Ferien für eure Klasse ab und bringt sie in euer Klassenzimmer.
 		
 		Wir wünschen euch weiterhin erholsame Ferien und freuen uns auf ein gesundes Wiedersehen.
-- [ ] Stundenplan für nächstes Jahr? In welchen Jahrgängen habe ich Unterricht:
-	- [ ] Liebe Kolleginnen und Kollegen,
+- [x] Stundenplan für nächstes Jahr? In welchen Jahrgängen habe ich Unterricht: %% fold %%
+	- Liebe Kolleginnen und Kollegen,
 
 		zum neuen Schuljahr führen wir Jahrgangsteamsitzungen ein. Diese sollen die Absprachen innerhalb der Jahrgänge erleichtern, die Kommunikation stärken und insbesondere den Austausch mit unseren neuen Kolleginnen und Kollegen fördern. %% fold %%
 		
@@ -317,7 +319,7 @@
 		- Mittwoch, 12.08.2026 - Jahrgang 9
 		- <font color="#ffd700">Donnerstag, 13.08.2026 - Jahrgang 8</font>
 		- <font color="#ffd700">Freitag, 14.08.2026 - Jahrgang 7</font>
-		- Montag, 17.08.2026 Jahrgang 6
+		- Montag, 17.08.2026 - Jahrgang 6
 		- Dienstag, 18.08.2026 - Jahrgang 5
 		
 		Bitte merkt euch den für euch relevanten Termin bereits jetzt vor.
