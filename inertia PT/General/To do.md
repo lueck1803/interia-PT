@@ -171,6 +171,7 @@
 - [ ] warum ist Beton ein so schlechter Wärmeisolator?
 - [ ] Balkonpflanzen gießen  %% fold %%
 - [ ] Zähne putzen
+- [ ] mac switch between windows of the same app hotkey fixen
 - [ ] carnivoren gießen 
 - [ ] obsidian notification ausstellen?
 - [ ] Krafttraining 
