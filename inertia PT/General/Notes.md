@@ -193,7 +193,7 @@ Der inner christliche Konflikt hat sich meiner Wahrnehmung nach seitdem nicht me
 Ich meine aber generell ist zumindest zwischen der evangelischen und katholischen Kirche eher ein zusammenwachsen zu beobachten.
  %% fold %%
 Der über tausendjährige gewalttätige Konflikt zwischen Schiiten und Sunniten kennt aber kein Ende. 
-
+ %% fold %%
 Wirklich "einig" (nicht mal auf politischer Ebene) sind die sich nur wenn es gegen Israel/die Juden/ den Zustand bzgl Gaza  geht.
 ## 2026-07-23
 https://www.n-tv.de/politik/Brosius-Gersdorf-kritisiert-Haltung-der-Union-zur-Leihmutterschaft-Laschet-kontert-id31110162.html?shem=dsdf,sharefoc,agadiscoversdl,,sh/x/discover/m1/4
