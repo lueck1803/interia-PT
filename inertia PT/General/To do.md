@@ -169,8 +169,9 @@
 		Wir wünschen euch weiterhin erholsame Ferien und freuen uns auf ein gesundes Wiedersehen.
 - [x] Flaschen spülen
 - [ ] warum ist Beton ein so schlechter Wärmeisolator?
-- [x] Balkonpflanzen gießen  %% fold %%(@2026-08-06 14:15)
-- [x] Zähne putzen (@2026-08-06 14:05)
+- [ ] Balkonpflanzen gießen 
+- [ ] Google calendar and task sync einrichten%% fold %%
+- [x] Zähne putzen 
 - [x] mac switch between windows of the same app hotkey fixen
 - [x] mac order/placing of the screens
 - [ ] carnivoren gießen 
