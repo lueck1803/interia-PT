@@ -141,7 +141,8 @@
 - [ ] meditieren 
 - [ ] Zeug im Spülkorb wegräumen
 - [ ] Spülmaschine Graphitöl ölen
-- [ ] Device manager checken
+- [x] Device manager checken
+	- ⟹ wird <font color="#c00000">nix</font> angezeigt
 - [ ] Zeug für Konferenz lesen
 
 - [ ] <font color="#48d1cc">daily planner</font> Beschreibung durchlesen 
