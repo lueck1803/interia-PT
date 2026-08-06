@@ -145,11 +145,12 @@
 	- ⟹ wird <font color="#c00000">nix</font> angezeigt
 - [x] Zeug für Konferenz lesen 📅 2026-08-07 00:40 ✅ 2026-08-07
 
-- [ ] #task <font color="#48d1cc">day planner</font> Beschreibung durchlesen 📅 2026-08-07 01:00
-	- [ ] habs mal am mac installiert und auch den calender eingetragen, weiß aber nicht, ob der gesynct hat. bisher erscheint nichts
-	- [ ] naja irgendwie strange
+- [x] #task <font color="#48d1cc">day planner</font> Beschreibung durchlesen 📅 2026-08-07 01:00
+	- habs mal am mac installiert und auch den calender eingetragen, weiß aber nicht, ob der gesynct hat. bisher erscheint nichts
+	- naja irgendwie strange
 
-- [ ] #task test task 📅 2026-08-07 02:00
+- [ ] Termine für die nächste Woche erstellen 
+
 
 - [x] Tastatur wischen
 	- [x] laptop
@@ -157,6 +158,7 @@
 
 - [ ] duschen 📅 2026-08-07 07:00
 - [ ] Klamotten fürs Foto raussuchen 📅 2026-08-07 07:15
+- [ ] Wegen Schul-ID Zettel unterschreiben lassen und abgeben? %% fold %%
 
 - [ ] images in Obsidian aufräumen
 
@@ -205,8 +207,8 @@
 - [ ] mich um den pc kümmern
 
 
-- [ ] obsidian kram wieder installieren
-	- [ ] <font color="#ff1493">Day Planner</font>???
+- [x] obsidian kram wieder installieren 
+	- [x] <font color="#ff1493">Day Planner</font>???
 		- [x] pc
 		- [x] mac
 		- [x] handy
@@ -267,7 +269,6 @@
  %% fold %%
 
  %% fold %%
-- [ ] Wegen Schul-ID Zettel unterschreiben lassen und abgeben? %% fold %%
 - [ ] Lehrpläne für meine Jahrgänge %% fold %%
 	- [ ] raus suchen %% fold %%
 	- [ ] wichtige teile ausdrucken  %% fold %%
@@ -283,7 +284,7 @@
 			- [ ] möglichst schnell in Tätigkeit kommen 
 		- [ ] Checkliste/was muss ich wissen und wo kann ich es nachlesen bis zur nächsten Klausur erstellen 
 		- [ ] Regeln für den Unterricht klar überlegen 
-- [ ] wie lange geht die Konferenz am Freitag? %% fold %%
+- [ ] wie lange geht die Konferenz am Freitag?
 	- [ ] Bahnverbindung zu den Eltern heraussuchen  %% fold %%
 	- [ ] in den Kalender eingetragen 
 	- [ ] Eltern informieren 
@@ -303,7 +304,7 @@
 		Im Besprechungsraum liegen ab Mittwoch, den 05.08.26, die Schulplaner für die Jahrgänge 5-8 sowie die Entschuldigungshefte für die Jahrgänge 9-10 bereit. Bitte holt diese möglichst noch in den Ferien für eure Klasse ab und bringt sie in euer Klassenzimmer.
 		
 		Wir wünschen euch weiterhin erholsame Ferien und freuen uns auf ein gesundes Wiedersehen.
-- [ ] Stundenplan für nächstes Jahr? In welchen Jahrgängen habe ich Unterricht: %% fold %%
+- [ ] Stundenplan für nächstes Jahr? In welchen Jahrgängen habe ich Unterricht:
 	- [ ] Liebe Kolleginnen und Kollegen,
 
 		zum neuen Schuljahr führen wir Jahrgangsteamsitzungen ein. Diese sollen die Absprachen innerhalb der Jahrgänge erleichtern, die Kommunikation stärken und insbesondere den Austausch mit unseren neuen Kolleginnen und Kollegen fördern. %% fold %%
