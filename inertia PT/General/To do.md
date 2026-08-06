@@ -195,7 +195,7 @@
 - [ ] Laptop mit tb -> dp an Bildschirm 
 - [ ] die oberen Punkte abarbeiten
 - [ ] mich um den pc kümmern
-- [ ] tasks aufräumen 
+- [ ] tasks aufräumen  ⏰ 2026-08-06 21:10 📅 2026-08-06 21:10
 - [x] Flaschen spülen
 - [ ] warum ist Beton ein so schlechter Wärmeisolator?
 - [x] Zähne putzen 
