@@ -137,7 +137,7 @@
 - [ ] Gesicht waschen
 - [ ] ce que/ce qui nochmal anschauen 
 - [ ] tasks aufräumen  
-- [ ] bier auf dem tisch weg wischen 📅 2026-08-06 23:25
+- [x] bier auf dem tisch weg wischen 📅 2026-08-06 23:25 ✅ 2026-08-06
 - [ ] meditieren 
 - [ ] Zeug im Spülkorb wegräumen
 
@@ -153,6 +153,7 @@
 - [ ] Laptop mit tb -> dp an Bildschirm 
 - [ ] mich um den pc kümmern
 - [ ] obsidian kram wieder installieren
+	- [ ] <font color="#ff1493">Day Planner</font>???
 	- [ ] tasks
 		- [ ] mac
 		- [ ] handy
@@ -170,7 +171,9 @@
 - [ ] Schulportal Login
 
 
-- [ ] Was nutze ich zum Kalender sync mit obsidian? %% fold %%
+- [ ] Was nutze ich zum Kalender sync mit obsidian?
+	- <font color="#ff1493">Day Planner</font>???
+		- sieht irgendwie genauso aus wie das was ich will???
 	- Google Calendar and Tasks Sync %% fold %%
 	       - ⟹ hab ich quasi eingerichtet, aber wie funktioniert das mit  %% fold %%
 		- reminder %% fold %%
@@ -202,6 +205,8 @@
 		- Support Day Planner plugin
 			- [Day Planner plugin](https://github.com/ivan-lednev/obsidian-day-planner) 
 	-  UniCalendar
+
+ %% fold %%
 
  %% fold %%
 - [ ] Wegen Schul-ID Zettel unterschreiben lassen und abgeben? %% fold %%
