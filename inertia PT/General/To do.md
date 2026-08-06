@@ -139,6 +139,28 @@
 - [ ] tasks aufräumen  
 - [ ] bier auf dem tisch weg wischen
 - [ ] meditieren 
+- [ ] Zeug im Spülkorb wegräumen
+
+- [ ] Tastatur wischen
+	- [ ] laptop
+	- [ ] PC
+
+
+- [ ] Laptop mit tb -> dp an Bildschirm 
+- [ ] mich um den pc kümmern
+- [ ] obsidian kram wieder installieren
+	- [ ] tasks
+		- [ ] mac
+		- [ ] handy
+	- [ ] reminder	(einstellungen abgleichen)
+		- [ ] mac
+		- [ ] handy
+	- [ ] Google Calendar and Tasks Sync
+		- [x] pc zeug einstellen
+		- [ ] mac
+		- [ ] handy
+	- [ ] Hotkey am Mac für Editing Toolbar: Change Font Color ⇔ wrap with shortcuts hotkey dafür verwenden
+	- [ ] hab ich am mac nen hotkey für Date und time?
 
 
 - [ ] Schulportal Login
@@ -149,7 +171,7 @@
 	       - ⟹ hab ich quasi eingerichtet, aber wie funktioniert das mit  %% fold %%
 		- reminder %% fold %%
 		- oder tasks %% fold %%
-	- Google Calendar Importer 
+	- Google Calendar Importer  %% fold %%
 	      - ⟹ sieht sehr ähnlich aus zu dem oberen
 	- <font color="#ff6e6e">Sync Google Calendar </font><font color="#00b0f0">Obsidian x Google Calendar Plugin</font>
 	      - ⟹ sieht am ehesten so aus wie das was ich möchte.
@@ -267,22 +289,7 @@
 - [x] carnivoren gießen 
 - [x] Schulgarten checken/gießen
 - [x] Laptop auf den Tisch 
-- [ ] Laptop mit tb -> dp an Bildschirm 
-- [ ] die oberen Punkte abarbeiten
-- [ ] mich um den pc kümmern
-- [ ] obsidian kram wieder installieren
-	- [ ] tasks
-		- [ ] mac
-		- [ ] handy
-	- [ ] reminder	(einstellungen abgleichen)
-		- [ ] mac
-		- [ ] handy
-	- [ ] Google Calendar and Tasks Sync
-		- [x] pc zeug einstellen
-		- [ ] mac
-		- [ ] handy
-	- [ ] Hotkey am Mac für Editing Toolbar: Change Font Color ⇔ wrap with shortcuts hotkey dafür verwenden
-	- [ ] hab ich am mac nen hotkey für Date und time?
+
 
 - [x] Flaschen spülen
 - [ ] warum ist Beton ein so schlechter Wärmeisolator?
@@ -344,7 +351,7 @@
 - [ ] Kehrblech für Balkon kaufen  %% fold %%
 - [x] Nagelknipser leeren
 - [x] carnivorenwasser auffüllen  %% fold %%
-- [x] thunderbolt ex4 Anschluss prüfen  %% fold %%
+- [x] thunderbolt ex4 Anschluss prüfen
 	- [x] testweise usb e1234 ausschalten 
 		- [x] ausschalten ohne power trennung nach ausschaltung ⟹ Bildschirm geht trotzdem
 		      ⤷ Grund für die fehlkommunikation? also geht es auch ohne USB bzw. ist der vielleicht nicht angeschlossen?
@@ -435,11 +442,8 @@ Wie sieht es mit der obersten Einstellung (<font color="#ff69b4">Alpine ridge</f
 - abgestorbene marone raus und neue einsetzen 
 	- ne scheint noch zu leben
 - [ ] Muskateller Salbei Samen für Schulgarten  %% fold %%
-- [x] Zitronensaft
-	- [x] pressen
-	- [x] einfrieren 
 - [ ] bei shin son hab kido anmelden/vorbei schauen, wann die Training haben 
-- [ ] Turnbeutel in Wäsche 
+- [ ] Turnbeutel in Wäsche  %% fold %%
 - [ ] Ticket für *my sleeping karma*
 	- [ ] ⤷ arthur bescheid geben
 - [ ] Papierkram %% fold %%
@@ -476,12 +480,10 @@ Wie sieht es mit der obersten Einstellung (<font color="#ff69b4">Alpine ridge</f
 Nosfe-Arthur ⇔ Nosfe-Rita 
 - [ ] Bluetooth box modden 🥰 [sound mod Anleitung](https://olegkutkov.me/2021/02/27/hacking-a-firmware-of-bluetooth-speaker-fm-radio/)
 - [x] Friseur 
-- [x] Tastatur wischen  %% fold %%
-	- [x] laptop
-	- [x] PC
+
 - [x] Wäsche %% fold %%
-	- [x] abhängen 
-	- [x] zusammen legen 
+	- [x] abhängen  %% fold %%
+	- [x] zusammen legen  %% fold %%
 - [x] Bettwäsche wechseln 
 
 - [ ] usb-c -> dp so verlegen, dass ich den bildschirm gescheit nutzen kann
@@ -522,7 +524,7 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 - [x] gelben Sack
 - [x] Papier Müll 
 - [ ] wo ist meine Handyhalterung fürs Rad? Ahl?
-- proposal
+- proposal %% fold %%
 	- [ ] Verhalten der 1:3 und 1:5 simulationen anschauen...
 	- [ ] was zu PE schreiben
 		- [ ] leichte erhöhung -> stable und connected
@@ -743,10 +745,7 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 - [ ] powerbank reparieren %% fold %%
 	- [ ] welche ist die defekte?
 	- [ ] löten 
-- kleinen Drehstuhl  %% fold %%
-	- [ ] Sitzteil zu Eltern mitnehmen 
-	- [ ] schweißen 
-	- [ ] Apfelschneider schweißen 
+
 - Rennrad  %% fold %%
 	- [ ] Lenkerband video schauen 
 	- [ ] Lenkerband 
