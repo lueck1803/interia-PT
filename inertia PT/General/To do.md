@@ -169,7 +169,7 @@
 		
 		Wir wünschen euch weiterhin erholsame Ferien und freuen uns auf ein gesundes Wiedersehen.
 - [ ] Stundenplan für nächstes Jahr? In welchen Jahrgängen habe ich Unterricht: %% fold %%
-	- [ ] Liebe Kolleginnen und Kollegen,
+	- [ ] Liebe Kolleginnen und Kollegen, %% fold %%
 
 		zum neuen Schuljahr führen wir Jahrgangsteamsitzungen ein. Diese sollen die Absprachen innerhalb der Jahrgänge erleichtern, die Kommunikation stärken und insbesondere den Austausch mit unseren neuen Kolleginnen und Kollegen fördern. %% fold %%
 		
