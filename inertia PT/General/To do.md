@@ -174,6 +174,8 @@
 - [ ] obsidian notification ausstellen?
 - [ ] Krafttraining 
 - [ ] Duolingo
+- [ ] Gesicht waschen
+- [ ] Haare kämmen 
 - [ ] Arbeitsflächen in der Küche wischen 
 - [ ] Schulgarten checken/gießen
 - [ ] meditieren 
