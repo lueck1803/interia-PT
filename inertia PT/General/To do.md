@@ -184,7 +184,7 @@
 - [x] mac switch between windows of the same app hotkey fixen
 - [x] mac order/placing of the screens
 - [ ] carnivoren gießen (@2026-08-06 17:30) 
-- [ ] Krafttraining 
+- [ ] Krafttraining (@2026-08-06 17:45)
 - [x] Duolingo
 - [x] Collabora office <font color="#c3d69b">linebreak</font> 
 - [x] Gesicht waschen
