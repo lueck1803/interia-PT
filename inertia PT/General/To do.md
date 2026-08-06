@@ -188,7 +188,7 @@
 		Vielen Dank für eure Unterstützung. Wir freuen uns auf einen guten gemeinsamen Start in das neue Schuljahr.
 	- [ ] Termin notieren 
 - [x] Balkonpflanzen gießen 
-- [ ] carnivoren gießen 
+- [x] carnivoren gießen 
 - [ ] Schulgarten checken/gießen %% fold %%
 - [x] Flaschen spülen
 - [ ] warum ist Beton ein so schlechter Wärmeisolator?
