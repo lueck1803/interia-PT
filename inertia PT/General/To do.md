@@ -168,6 +168,7 @@
 		
 		Wir wünschen euch weiterhin erholsame Ferien und freuen uns auf ein gesundes Wiedersehen.
 - [ ] Flaschen spülen
+- [ ] warum ist Beton ein so schlechter Wärmeisolator?
 - [ ] Balkonpflanzen gießen  %% fold %%
 - [ ] Zähne putzen
 - [ ] carnivoren gießen 
