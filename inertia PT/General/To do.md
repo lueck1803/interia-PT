@@ -175,7 +175,7 @@
 - [ ] mac order/placing of the screens
 - [ ] carnivoren gießen 
 - [ ] obsidian notification ausstellen?
-- [ ] Krafttraining (@2026-08-06 13:50)
+- [ ] Krafttraining
 - [ ] Duolingo
 - [x] Collabora office <font color="#c3d69b">linebreak</font> 
 - [ ] Gesicht waschen
