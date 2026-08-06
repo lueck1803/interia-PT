@@ -170,7 +170,9 @@
 - [x] Flaschen spülen
 - [ ] warum ist Beton ein so schlechter Wärmeisolator?
 - [ ] Balkonpflanzen gießen 
-- [ ] Google calendar and task sync einrichten%% fold %%
+- [ ] Google calendar and task sync einrichten
+	- [ ] 380119583112-d76mj28c9cn448ubcroqp08snjj2rq4d.apps.googleusercontent.com
+	- [ ] %% fold %%
 - [x] Zähne putzen 
 - [x] mac switch between windows of the same app hotkey fixen
 - [x] mac order/placing of the screens
