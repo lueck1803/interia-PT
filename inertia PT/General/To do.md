@@ -174,7 +174,6 @@
 - [ ] mac switch between windows of the same app hotkey fixen
 - [ ] mac order/placing of the screens
 - [ ] carnivoren gießen 
-- [ ] obsidian notification ausstellen?
 - [ ] Krafttraining
 - [ ] Duolingo
 - [x] Collabora office <font color="#c3d69b">linebreak</font> 
@@ -193,7 +192,7 @@
 	- [ ] wegräumen 
 - [x] staubsaugen 
 - [ ] Äpfel schneiden
-- [x] Äpfel aus dem Wasser holen
+- [x] Äpfel aus dem Wasser holen %% fold %%
 - [ ] 30 min Gitarre spielen ~={MediumViolet}fraught=~ ~={DeepSkyBlue}mit Timer=~ %% fold %%
 	- [ ] intro lead mit slide %% fold %%
 	- [ ] Stakkato 
