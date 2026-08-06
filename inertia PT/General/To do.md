@@ -147,9 +147,9 @@
 
 - [ ] <font color="#48d1cc">daily planner</font> Beschreibung durchlesen 
 
-- [ ] Tastatur wischen
-	- [ ] laptop
-	- [ ] PC
+- [x] Tastatur wischen
+	- [x] laptop
+	- [x] PC
 
 - [ ] duschen 📅 2026-08-07 07:00
 - [ ] Klamotten fürs Foto raussuchen 📅 2026-08-07 07:15
@@ -170,7 +170,7 @@
 	- [ ] abhängen 
 	- [ ] wegräumen 
 
-- [ ] Papierkram
+- [ ] Papierkram %% fold %%
 	- [ ] Kassenbons
 	- [ ] Hefter
 	- [ ] BAS Arbeitsvertrag 📅 2026-08-07 13:00
@@ -186,7 +186,7 @@
 		- [ ] App checken
 		- [ ] Muss ich neue Angaben machen?
 
-- [ ] zu den Eltern fahren 📅 2026-08-07 14:00
+- [ ] zu den Eltern fahren 📅 2026-08-07 14:00 %% fold %%
 	- [ ] Stuhloberteil
 	- [ ] Sonnenbrille vom Papa
 	- [ ] Apfelschneider
