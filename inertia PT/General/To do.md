@@ -201,7 +201,7 @@
 - [ ] obsidian kram wieder installieren
 	- [ ] <font color="#ff1493">Day Planner</font>???
 	- [ ] tasks
-		- [ ] mac
+		- [x] mac
 		- [ ] handy
 	- [ ] reminder	(einstellungen abgleichen)
 		- [ ] mac
