@@ -193,8 +193,15 @@
 		- [ ] 8a - 4 h/w
 		- [ ] 8b - 4 h/w
 	- [ ] Physik
+		- [ ] 7er mit mid absprechen
+		- [ ] 8er mit wol und lae absprechen, was die im 8er Jahrgang machen
+		- [ ] 10 er mit Jamil Hirsch absprechen, was er macht
 		- [ ] 7c - 2 h/w
 		- [ ] 7d - 2 h/w
+		- [ ] 8a - 2 h/w
+		- [ ] 8b - 2 h/w
+		- [ ] 10a - 1 h/w
+		- [ ] 10b - 1 h/w
 - [x] Balkonpflanzen gießen 
 - [x] carnivoren gießen 
 - [x] Schulgarten checken/gießen
