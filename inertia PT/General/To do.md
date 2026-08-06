@@ -181,6 +181,7 @@
 - [ ] Schulgarten checken/gießen
 - [ ] meditieren 
 - [ ] rote Linsen + Kichererbsen Curry kochen 
+- [ ] Spülmaschine ausräumen  %% fold %% 
 - [x] Badspiegel putzen  %% fold %%
 - [ ] 60° Wäsche <font color="#92d050">2026-08-06</font> %% fold %%
 	- [ ] abhängen  %% fold %%
@@ -221,7 +222,6 @@
 - [x] ceran Feld wischen 
 - [x] Spülmaschine anstellen
 - [x] Spülmaschine einräumen 
-- [x] Spülmaschine ausräumen  %% fold %%
 - [x] Toilette putzen 
 - [x] Balkon kehren 
 - [x] Balkon aufräumen  %% fold %%
