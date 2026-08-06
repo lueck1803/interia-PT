@@ -190,9 +190,13 @@
 	- [ ] Termin notieren 
 	- [ ] Klassen die ich betreue:
 	- Mathe
-	- 4 h/w
-		- 8a 
-		- 8b 
+		- Ansprechpartner
+			- Lukas Kohlmeier (koh)
+			- (mel)
+			- (ein)
+		- 4 h/w
+			- 8a 
+			- 8b 
 		
 	- Physik
 		- Ansprechpartner / Kollegen der Jahrgänge
@@ -203,7 +207,7 @@
 				- lae 
 			- 10er 
 				- Jamil Hirsch
-		- Stunden pro WocheKlassen 
+		- Stunden pro Woche - Klassen 
 			- 2 h/w
 				- 7c 
 				- 7d 
