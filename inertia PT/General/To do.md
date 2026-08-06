@@ -170,7 +170,7 @@
 - [x] Flaschen spülen
 - [ ] warum ist Beton ein so schlechter Wärmeisolator?
 - [ ] Balkonpflanzen gießen  %% fold %%
-- [ ] Zähne putzen (@2026-08-06 14:05)
+- [x] Zähne putzen (@2026-08-06 14:05)
 - [ ] mac switch between windows of the same app hotkey fixen
 - [ ] mac order/placing of the screens
 - [ ] carnivoren gießen 
