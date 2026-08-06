@@ -174,7 +174,7 @@
 - [ ] mac switch between windows of the same app hotkey fixen
 - [ ] carnivoren gießen 
 - [ ] obsidian notification ausstellen?
-- [ ] Krafttraining 
+- [ ] Krafttraining (@2026-08-06 13:50)
 - [ ] Duolingo
 - [x] Collabora office <font color="#c3d69b">linebreak</font> 
 - [ ] Gesicht waschen
