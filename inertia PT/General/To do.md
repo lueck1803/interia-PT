@@ -177,10 +177,10 @@
 		
 		Die ersten Termine finden jeweils um 13:45 Uhr im Lehrerzimmer statt
 		
-		- Dienstag, 11.08.26 - Jahrgang 10
+		- <font color="#ffd700">Dienstag, 11.08.26 - Jahrgang 10</font>
 		- Mittwoch, 12.08.2026 - Jahrgang 9
 		- <font color="#ffd700">Donnerstag, 13.08.2026 - Jahrgang 8</font>
-		- Freitag, 14.08.2026 - Jahrgang 7
+		- <font color="#ffd700">Freitag, 14.08.2026 - Jahrgang 7</font>
 		- Montag, 17.08.2026 Jahrgang 6
 		- Dienstag, 18.08.2026 - Jahrgang 5
 		
@@ -188,6 +188,7 @@
 		
 		Vielen Dank für eure Unterstützung. Wir freuen uns auf einen guten gemeinsamen Start in das neue Schuljahr.
 	- [ ] Termin notieren 
+	- [ ] 📅 2026-08-07 
 	- [ ] Klassen die ich betreue:
 	- Mathe
 		- Ansprechpartner
