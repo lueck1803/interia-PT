@@ -187,7 +187,7 @@
 		
 		Vielen Dank für eure Unterstützung. Wir freuen uns auf einen guten gemeinsamen Start in das neue Schuljahr.
 	- [ ] Termin notieren 
-- [ ] Balkonpflanzen gießen 
+- [x] Balkonpflanzen gießen 
 - [ ] carnivoren gießen 
 - [ ] Schulgarten checken/gießen %% fold %%
 - [x] Flaschen spülen
