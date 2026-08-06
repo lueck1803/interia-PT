@@ -274,7 +274,7 @@
 	- [ ] tasks
 		- [ ] mac
 		- [ ] handy
-	- [ ] reminder	
+	- [ ] reminder	(einstellungen abgleichen)
 		- [ ] mac
 		- [ ] handy
 	- [ ] Google Calendar and Tasks Sync
@@ -282,6 +282,7 @@
 		- [ ] mac
 		- [ ] handy
 	- [ ] Hotkey am Mac für Editing Toolbar: Change Font Color ⇔ wrap with shortcuts hotkey dafür verwenden
+	- [ ] hab ich am mac nen hotkey für Date und time?
 
 - [x] Flaschen spülen
 - [ ] warum ist Beton ein so schlechter Wärmeisolator?
