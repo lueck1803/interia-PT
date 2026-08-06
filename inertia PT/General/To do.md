@@ -179,6 +179,7 @@
 - [ ] Arbeitsflächen in der Küche wischen 
 - [ ] Schulgarten checken/gießen
 - [ ] meditieren 
+- [ ] rote Linsen + Kichererbsen Curry kochen 
 - [x] Badspiegel putzen  %% fold %%
 - [ ] 60° Wäsche <font color="#92d050">2026-08-06</font> %% fold %%
 	- [ ] abhängen  %% fold %%
