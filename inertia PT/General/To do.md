@@ -168,11 +168,19 @@
 		
 		Wir wünschen euch weiterhin erholsame Ferien und freuen uns auf ein gesundes Wiedersehen.
 - [ ] Flaschen spülen
+- [ ] Balkonpflanzen gießen  %% fold %%
 - [ ] Zähne putzen
-- [x] Balkon checken
+- [ ] carnivoren gießen 
+- [ ] obsidian notification ausstellen?
+- [ ] Krafttraining 
+- [ ] Duolingo
+- [ ] Arbeitsflächen in der Küche wischen 
+- [ ] Schulgarten checken/gießen
+- [ ] meditieren 
+- [x] Badspiegel putzen  %% fold %%
 - [ ] 60° Wäsche <font color="#92d050">2026-08-06</font> %% fold %%
 	- [ ] abhängen  %% fold %%
-	- [ ] zusammenlegen 
+	- [ ] zusammenlegen  %% fold %%
 	- [ ] wegräumen 
 - [x] staubsaugen 
 - [ ] Äpfel schneiden
@@ -206,10 +214,9 @@
 	- [ ] welche weiteren Mittel gibt es
 - [x] Teebaumöl auftragen
 - [x] Iod auftragen
-- [ ] meditieren 
 - [x] ceran Feld wischen 
 - [x] Spülmaschine anstellen
-- [ ] Spülmaschine einräumen 
+- [x] Spülmaschine einräumen 
 - [x] Spülmaschine ausräumen  %% fold %%
 - [x] Toilette putzen 
 - [x] Balkon kehren 
@@ -219,10 +226,10 @@
 	- Weißpunkt-Fettspinne / Dreiecksfettspinne 
 - [x] Pflanze beim majoran bestimmen 
 	- kleinblütiges Franzosenkraut 
-- [x] Dampfdruckkochtopf nochmal richtig spülen
-- [ ] Stundenplan für nächstes Jahr? In welchen Jahrgängen habe ich Unterricht:
+- [x] Dampfdruckkochtopf nochmal richtig spülen %% fold %%
+- [ ] Stundenplan für nächstes Jahr? In welchen Jahrgängen habe ich Unterricht: %% fold %%
 	- [ ] Liebe Kolleginnen und Kollegen, %% fold %%
- %% fold %%
+
 		zum neuen Schuljahr führen wir Jahrgangsteamsitzungen ein. Diese sollen die Absprachen innerhalb der Jahrgänge erleichtern, die Kommunikation stärken und insbesondere den Austausch mit unseren neuen Kolleginnen und Kollegen fördern. %% fold %%
 		
 		Die Teilnahme an den Jahrgangsteamsitzungen ist für alle Lehrkräfte verpflichtend, die im jeweiligen Jahrgang unterrichten.
@@ -240,25 +247,17 @@
 		
 		Vielen Dank für eure Unterstützung. Wir freuen uns auf einen guten gemeinsamen Start in das neue Schuljahr.
 	- [ ] Termin notieren 
-- [x] carnivoren gießen 
 - [x] Pfeffermühle nachfüllen 
 - [x] Äpfel waschen 
 - [x] Tastatur wischen 
 	- [x] Wasser und Lappen tauschen 
-- [x] Krafttraining 
-- [x] Duolingo
 - [x] Kornelkirschenstecklinge aus Schulgarten aufbereiten
-- [x] rasieren 
-- [x] Gesicht waschen 
-- [x] Balkonpflanzen gießen  %% fold %%
-- [x] Schulgarten checken/gießen %% fold %%
-	- [x] Kamille Samen im Schulgarten verstreuen
-	- [x] Büsche mit schwarzen Früchten im Bürgerpark checken, ob es Faulbaum ist
-	- ⤷habe viele Bäume beim langsamen Vorbeifahren mit dem Rad gecheckt. Da war kein Faulbaum dabei. Aber
-		- Gewöhnliche Spindelstrauch / Pfaffenhütchen 
-- [ ] Kehrblech für Balkon kaufen 
+- [x] rasieren  %% fold %%
+- [x] Gesicht waschen  %% fold %%
+ %% fold %%
+- [ ] Kehrblech für Balkon kaufen  %% fold %%
 - [x] Nagelknipser leeren
-- [x] carnivorenwasser auffüllen 
+- [x] carnivorenwasser auffüllen  %% fold %%
 - [x] thunderbolt ex4 Anschluss prüfen  %% fold %%
 	- [x] testweise usb e1234 ausschalten 
 		- [x] ausschalten ohne power trennung nach ausschaltung ⟹ Bildschirm geht trotzdem
