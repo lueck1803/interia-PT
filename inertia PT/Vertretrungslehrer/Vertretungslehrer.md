@@ -73,7 +73,7 @@
 Lina Tongue
 # <font color="#00b0f0">Bernhard Adelung Schule (BAS)</font>
 ## Dienststellennummer
-3127
+6127
 ## **Sekretariat:**
 06151-13 480 700
 ## **Code für den iPad Koffer** 
