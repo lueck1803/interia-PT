@@ -147,14 +147,26 @@
 			- todoist
 			- tasks
 			- dataview
-	-  Obsidian to iCal
-		- Save calendar to GitHub Gist
+		- hier könnte ich die sachen die ich für das erste schon eingestellt habe verwenden
+	-  Obsidian to iCal %% fold %%
+		- Save calendar to GitHub Gist %% fold %%
 			-  [Save calendar to GitHub Gist](app://obsidian.md/README.md#save-calendar-to-gitHub-gist) 
+			- This plugin only makes network requests when you explicitly enable a destination that requires them. No telemetry or analytics are collected.
+			  
+			  When **Save calendar to GitHub Gist** is enabled, the plugin sends your generated calendar file to GitHub's Gist API (`api.github.com`) using the personal access token you provide. The destination Gist is the one you specify in settings.
+			  
+			  When **Save calendar to a web URL** is enabled, the plugin sends your generated calendar file to the configured web API endpoint, and additionally polls that endpoint every 5 minutes to refresh subscription validation while the plugin is running.
+			  
+			  When **Periodically save your calendar** is enabled, the above writes happen on the interval you configure (1–1440 minutes). With periodic save disabled, the plugin only writes when you trigger a save manually.
+			  
+			  When **Save calendar to disk** is the only destination enabled, the plugin makes no network requests — the calendar is written to your vault filesystem.
+			  
+			  You can disable any destination at any time in the plugin settings, and disabling the plugin stops all network activity immediately.
 		- Support Day Planner plugin
 			- [Day Planner plugin](https://github.com/ivan-lednev/obsidian-day-planner) 
 
-
-- [ ] Wegen Schul-ID Zettel unterschreiben lassen und abgeben?
+ %% fold %%
+- [ ] Wegen Schul-ID Zettel unterschreiben lassen und abgeben? %% fold %%
 - [ ] Lehrpläne für meine Jahrgänge %% fold %%
 	- [ ] raus suchen %% fold %%
 	- [ ] wichtige teile ausdrucken  %% fold %%
@@ -166,7 +178,7 @@
 			- [ ] ein in fragestellen
 			- [ ] diskussions/Fragerunde zu Beginn 
 			- [ ] <font color="#c815ff">Checkliste für den Unterricht</font> um den nachbereiten zu können mit <font color="#7cfc00">was hat funktioniert</font> und <font color="#ff3d3d">was nicht</font>
-			- [ ] welche Experimente oder welche praktischen Übungen kann ich mitbringen/vorbereiten 
+			- [ ] welche Experimente oder welche praktischen Übungen kann ich mitbringen/vorbereiten  %% fold %%
 			- [ ] möglichst schnell in Tätigkeit kommen 
 		- [ ] Checkliste/was muss ich wissen und wo kann ich es nachlesen bis zur nächsten Klausur erstellen 
 		- [ ] Regeln für den Unterricht klar überlegen 
