@@ -192,7 +192,7 @@ Ich meine der 30 jährige Krieg der wirklich eine krasse Katastrophe war und mas
 Der inner christliche Konflikt hat sich meiner Wahrnehmung nach seitdem nicht mehr in gewalttätigen Konflikten geäußert. Ah okay naja Nordirland wäre ein Gegenbeispiel.
 
 Ich meine aber generell ist zumindest zwischen der evangelischen und katholischen Kirche eher ein zusammenwachsen zu beobachten.
-
+ %% fold %%
 Der über tausendjährige gewalttätige Konflikt zwischen Schiiten und Sunniten kennt aber kein Ende. 
 
 Wirklich "einig" (nicht mal auf politischer Ebene) sind die sich nur wenn es gegen Israel/die Juden/ den Zustand bzgl Gaza  geht.
@@ -2277,6 +2277,9 @@ When changes are made simultaneously on both remote and local branches, or when 
 
 Git pull is a command that performs more processes compared to git fetch. Git pull can perform both git fetch and additionally execute git merge or git rebase. For this reason, git pull is recommended when you want to quickly reflect changes from the remote repository in the local branch.
 
+# Office 
+## Collabora office 
+### c
 # Word
 
 ## Signature Lines
