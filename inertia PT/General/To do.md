@@ -171,6 +171,7 @@
 - [ ] warum ist Beton ein so schlechter Wärmeisolator?
 - [ ] Balkonpflanzen gießen 
 <<<<<<< HEAD
+<<<<<<< HEAD
 - [ ] Google calendar and task sync einrichten
 <<<<<<< HEAD
 =======
@@ -183,6 +184,9 @@
 >>>>>>> 41affb68 (vault backup: 2026-08-06 17:10:38)
 =======
 >>>>>>> 38665289 (vault backup: 2026-08-06 17:43:24)
+=======
+- [x] Google calendar and task sync einrichten
+>>>>>>> c8507602 (vault backup: 2026-08-06 17:44:31)
 - [x] Zähne putzen 
 - [x] mac switch between windows of the same app hotkey fixen
 - [x] mac order/placing of the screens
@@ -193,7 +197,7 @@
 - [x] Gesicht waschen
 - [x] Haare kämmen  %% fold %%
 - [x] Arbeitsflächen in der Küche wischen  %% fold %%
-- [ ] Schulgarten checken/gießen
+- [ ] Schulgarten checken/gießen %% fold %%
 - [ ] meditieren 
 - [ ] rote Linsen + Kichererbsen Curry kochen 
 - [x] Spülmaschine ausräumen  %% fold %% 
