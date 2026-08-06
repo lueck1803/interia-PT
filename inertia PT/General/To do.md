@@ -167,7 +167,7 @@
 		Im Besprechungsraum liegen ab Mittwoch, den 05.08.26, die Schulplaner für die Jahrgänge 5-8 sowie die Entschuldigungshefte für die Jahrgänge 9-10 bereit. Bitte holt diese möglichst noch in den Ferien für eure Klasse ab und bringt sie in euer Klassenzimmer.
 		
 		Wir wünschen euch weiterhin erholsame Ferien und freuen uns auf ein gesundes Wiedersehen.
-- [ ] Flaschen spülen
+- [x] Flaschen spülen
 - [ ] warum ist Beton ein so schlechter Wärmeisolator?
 - [ ] Balkonpflanzen gießen  %% fold %%
 - [ ] Zähne putzen
@@ -178,7 +178,7 @@
 - [ ] Gesicht waschen
 - [ ] Haare kämmen 
 - [ ] select html on mobile obsidian 
-- [ ] Arbeitsflächen in der Küche wischen 
+- [x] Arbeitsflächen in der Küche wischen 
 - [ ] Schulgarten checken/gießen
 - [ ] meditieren 
 - [ ] rote Linsen + Kichererbsen Curry kochen 
@@ -1303,7 +1303,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 	- [ ] DISM /Online /Cleanup-Image /RestoreHealth /source:WIM:X:\Sources\Install.wim:1 /LimitAccess
 	- [ ] DISM /Online /Cleanup-Image /RestoreHealth
 	- [ ] <font color="#ff0000">hat nicht funktioniert</font>
-	- [ ] md C:\test\offline 
+	- [ ] md C:\test\offline  %% fold %%
 		DISM.exe /Mount-Wim /WimFile:e:\sources\install.wim /index:2 /MountDir:C:\test\offline /ReadOnly
 		Dism.exe /Online /Cleanup-Image /restoreHealth /source:C:\test\offline /loglevel:4
 - [x] Steinsammlung weg 
