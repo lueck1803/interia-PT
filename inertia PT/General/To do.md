@@ -232,7 +232,7 @@
 - [x] Majoran schneiden  %% fold %%
 - [x] kleine braune weiß gepunktete Spinne bestimmen
 	- Weißpunkt-Fettspinne / Dreiecksfettspinne 
-- [x] Pflanze beim majoran bestimmen 
+- [x] Pflanze beim majoran bestimmen  %% fold %%
 	- kleinblütiges Franzosenkraut 
 - [x] Dampfdruckkochtopf nochmal richtig spülen %% fold %%
 - [ ] Stundenplan für nächstes Jahr? In welchen Jahrgängen habe ich Unterricht: %% fold %%
