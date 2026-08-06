@@ -2,7 +2,7 @@
 - [ ] Datum eintragen 
 - [ ] which effect has $\alpha$ in 
 ```C
-# use:: fix ID group-ID langevin/lh Tstart Tstop gamma_t seed alpha(=10*gamma_r/sigma^2/gamma_t) omega <yes/no> zero <yes/no>
+# use:: fix ID group-ID langevin/lh Tstart Tstop gamma_t seed alpha(=10*gamma_r/sigma^2/gamma_t) omega <yes/no> zero <yes/no> %% fold %%
 # fix 	noise all langevin/lh 1.0 1.0 1.0 1 10 omega yes zero yes	# add Langevin thermostat (noise+friction)
 use:: fix ID group-ID langevin/lh Tstart Tstop gamma_t seed alpha(=10*gamma_r/sigma^2/gamma_t) omega <yes/no> zero <yes/no>
 fix 	noise all langevin/lh 1.0 1.0 1.0 §seed 10 omega yes zero yes	# add Langevin thermostat (noise+friction)
