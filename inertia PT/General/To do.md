@@ -178,13 +178,13 @@
 - [ ] Krafttraining
 - [x] Duolingo
 - [x] Collabora office <font color="#c3d69b">linebreak</font> 
-- [ ] Gesicht waschen
-- [ ] Haare kämmen 
+- [x] Gesicht waschen
+- [x] Haare kämmen 
 - [x] Arbeitsflächen in der Küche wischen 
 - [ ] Schulgarten checken/gießen
 - [ ] meditieren 
 - [ ] rote Linsen + Kichererbsen Curry kochen 
-- [ ] Spülmaschine ausräumen  %% fold %% 
+- [x] Spülmaschine ausräumen  %% fold %% 
 - [x] Badspiegel putzen  %% fold %%
 - [ ] 60° Wäsche <font color="#92d050">2026-08-06</font> %% fold %%
 	- [ ] abhängen  %% fold %%
