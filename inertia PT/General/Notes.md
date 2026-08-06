@@ -188,7 +188,7 @@ Auch der Vergleich des innerchristlichen Konflikts mit dem innerislamischen Konf
 
 Ich meine der 30 jährige Krieg der wirklich eine krasse Katastrophe war und massive Auswirkungen hatte, ist ja oberflächlich schon irgendwie eine Art Glaubenskrieg gewesen. Auch wenn es irgendwie eine "Konsolidierung" (falsches Wort) der vielen kleinen Herrschaftsgebiete war, die vielfältigste Bündnisse schlossen.
 
-Der inner christliche Konflikt hat sich meiner Wahrnehmung nach seitdem nicht mehr in gewalttätigen Konflikten geäußert. Ah okay naja Nordirland wäre ein Gegenbeispiel.
+Der inner christliche Konflikt hat sich meiner Wahrnehmung nach seitdem nicht mehr in gewalttätigen Konflikten geäußert. Ah okay naja Nordirland wäre ein Gegenbeispiel. %% fold %%
 
 Ich meine aber generell ist zumindest zwischen der evangelischen und katholischen Kirche eher ein zusammenwachsen zu beobachten.
  %% fold %%

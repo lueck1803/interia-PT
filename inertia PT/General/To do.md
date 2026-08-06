@@ -170,7 +170,16 @@
 - [x] Flaschen spülen
 - [ ] warum ist Beton ein so schlechter Wärmeisolator?
 - [ ] Balkonpflanzen gießen 
-- [ ] Google calendar and task sync einrichten%% fold %%
+- [ ] Google calendar and task sync einrichten
+<<<<<<< HEAD
+=======
+	- [ ] **OAuth client ID**:
+	      380119583112-d76mj28c9cn448ubcroqp08snjj2rq4d.apps.googleusercontent.com
+	- [ ] **OAuth client secret**:
+	      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
+	- [ ] **Redirect bridge URL**:
+	      [https://lueck1803.github.io/obsidian-google-sync/](https://lueck1803.github.io/obsidian-google-sync/)
+>>>>>>> 41affb68 (vault backup: 2026-08-06 17:10:38)
 - [x] Zähne putzen 
 - [x] mac switch between windows of the same app hotkey fixen
 - [x] mac order/placing of the screens
