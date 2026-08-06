@@ -148,7 +148,7 @@
 			- tasks
 			- dataview
 		- hier könnte ich die sachen die ich für das erste schon eingestellt habe verwenden
-	-  Obsidian to iCal %% fold %%
+	-  Obsidian to iCal
 		- Save calendar to GitHub Gist %% fold %%
 			-  [Save calendar to GitHub Gist](app://obsidian.md/README.md#save-calendar-to-gitHub-gist) 
 			- This plugin only makes network requests when you explicitly enable a destination that requires them. No telemetry or analytics are collected.
@@ -164,6 +164,7 @@
 			  You can disable any destination at any time in the plugin settings, and disabling the plugin stops all network activity immediately.
 		- Support Day Planner plugin
 			- [Day Planner plugin](https://github.com/ivan-lednev/obsidian-day-planner) 
+	-  UniCalendar
 
  %% fold %%
 - [ ] Wegen Schul-ID Zettel unterschreiben lassen und abgeben? %% fold %%
