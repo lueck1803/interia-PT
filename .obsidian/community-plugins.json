@@ -26,5 +26,7 @@
   "mobile-pdf-exporter",
   "foldstate",
   "obsidian-reminder-plugin",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "google-sync",
+  "obsidian-day-planner"
 ]
