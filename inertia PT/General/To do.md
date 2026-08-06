@@ -172,6 +172,7 @@
 - [ ] Balkonpflanzen gießen  %% fold %%
 - [ ] Zähne putzen
 - [ ] mac switch between windows of the same app hotkey fixen
+- [ ] mac order/placing of the screens
 - [ ] carnivoren gießen 
 - [ ] obsidian notification ausstellen?
 - [ ] Krafttraining (@2026-08-06 13:50)
@@ -424,7 +425,7 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 - [ ] schneller schwimmen lernen 
 - [ ] cityrad bremse
 - [x] Nasenhaare schneiden 
-- [ ] Fahrradhelm  %% fold %%
+- [ ] Fahrradhelm
 	- [ ] Band einstellen 
 	- [ ] Filz oder Ähnliches auf Klett machen
 - [ ] neuen Fahrradhelm kaufen 
@@ -441,7 +442,7 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 - [x] gelben Sack
 - [x] Papier Müll 
 - [ ] wo ist meine Handyhalterung fürs Rad? Ahl?
-- proposal  %% fold %%
+- proposal
 	- [ ] Verhalten der 1:3 und 1:5 simulationen anschauen...
 	- [ ] was zu PE schreiben
 		- [ ] leichte erhöhung -> stable und connected
