@@ -190,7 +190,7 @@
 - [ ] 30 min Gitarre spielen ~={MediumViolet}fraught=~ ~={DeepSkyBlue}mit Timer=~ %% fold %%
 	- [ ] intro lead mit slide
 	- [ ] Stakkato 
-- [ ] Bohnenessen essen
+- [x] Bohnenessen essen
 - [ ] ce que/ce qui nochmal anschauen 
 - [ ] französisch Buch weiter lesen
 - [x] reis %% fold %%
@@ -356,13 +356,13 @@ Wie sieht es mit der obersten Einstellung (<font color="#ff69b4">Alpine ridge</f
 - [ ] Turnbeutel in Wäsche 
 - [ ] Ticket für *my sleeping karma*
 	- [ ] ⤷ arthur bescheid geben
-- Papierkram  %% fold %%
+- [ ] Papierkram %% fold %%
 	- [ ] kassenbons
 	- [ ] Hefter
 - [ ] letzte Simulationen checken und snapshots machen
 - [ ] Proposal
 - [ ] französisch aufschreiben 
-- PC fertig machen  %% fold %%
+- [ ] PC fertig machen  %% fold %%
 	- Puuh so nice, dass es geht🥰🥳
 	- [ ] braucht nach dem Neustart halt ein bisschen bis die Bildschirme angehen 🤔
 		- [ ] ⤷was ist der Grund?
@@ -380,7 +380,7 @@ Wie sieht es mit der obersten Einstellung (<font color="#ff69b4">Alpine ridge</f
 - [ ] yoga
 - [ ] probieren mit knöchel zu tappen, wie das jassy im video gemacht hat
 - [ ] Handydisplay Folie 
-- schuhe kaufen 
+- [ ] schuhe kaufen  %% fold %%
 	- [ ] über Laufschuhe informieren
 	- [ ] Laufschuhe 
 	- [x] Wanderschuhe 
@@ -560,12 +560,11 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 	- [ ] den teil zur elongated box fertig schreiben
 		- [ ] begünstigt aufsplittung
 		- [ ] kleinere finite size größe bei gleichzeitig viel größerem simulationsaufwand
-- [ ] salat auf Balkon säen
 - [ ] neuen Kalender für Schule erstellen 
 - [ ] poisson Verteilung Video schauen 
 - [ ] Halterung für Trainings gummies/expander
-	- [ ] wie trainiere ich damit richtig
-- pod go preset %% fold %%
+	- [ ] wie trainiere ich damit richtig %% fold %%
+- [ ] pod go preset %% fold %%
 	- [ ] auf laptop speichern
 		- [ ] out
 		- [ ] phones presets
@@ -670,7 +669,7 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 	- [ ] verkaufen 
 - [ ] Ceranfeld wegschmeißen / was kann ich damit basteln?
 
-- MTB 
+- [ ] MTB  %% fold %%
 	- [x] im Schulgarten abspritzen 
 	- [x] Kette fetten 
 	- [x] Schaltung hinten einstellen 
@@ -695,7 +694,7 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 			- so wie Arooj es letztes Jahr auch zu mir gesagt hat 11.5.
 
 	- Email an Arooj aus Nachrichten an Leute heraus kopieren, strukturieren und filtern 
-- Waschbecken putzen 
+- [x] Waschbecken putzen  %% fold %%
 	- [x] Bad 
 	- [x] Küche 
 # tägliches
