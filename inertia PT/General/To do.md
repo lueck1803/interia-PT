@@ -143,9 +143,9 @@
 - [ ] Spülmaschine Graphitöl ölen
 - [x] Device manager checken
 	- ⟹ wird <font color="#c00000">nix</font> angezeigt
-- [ ] Zeug für Konferenz lesen 📅 2026-08-07 00:40
+- [ ] Zeug für Konferenz lesen 📅 2026-08-07 00:40 ✅ 2026-08-07
 
-- [ ] <font color="#48d1cc">daily planner</font> Beschreibung durchlesen 
+- [ ] <font color="#48d1cc">day planner</font> Beschreibung durchlesen 
 
 - [x] Tastatur wischen
 	- [x] laptop
@@ -203,6 +203,9 @@
 
 - [ ] obsidian kram wieder installieren
 	- [ ] <font color="#ff1493">Day Planner</font>???
+		- [x] pc
+		- [x] mac
+		- [x] handy
 	- [x] tasks
 		- [x] mac
 		- [x] handy
