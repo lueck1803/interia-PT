@@ -183,8 +183,8 @@
 - [x] Zähne putzen 
 - [x] mac switch between windows of the same app hotkey fixen
 - [x] mac order/placing of the screens
-- [ ] carnivoren gießen 
-- [ ] Krafttraining
+- [ ] carnivoren gießen (@2026-08-06 17:30) 
+- [ ] Krafttraining 
 - [x] Duolingo
 - [x] Collabora office <font color="#c3d69b">linebreak</font> 
 - [x] Gesicht waschen
