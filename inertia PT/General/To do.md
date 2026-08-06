@@ -187,6 +187,10 @@
 	- [ ] Stuhloberteil
 	- [ ] Sonnenbrille vom Papa
 	- [ ] Apfelschneider
+	- [ ] wo ist meine Handyhalterung fürs Rad? Ahl?
+	- [ ] französisch Buch weiter lesen
+	- [ ] Muskateller Salbei Samen für Schulgarten  %% fold %%
+	
 
 
 - [ ] Laptop mit tb -> dp an Bildschirm 
@@ -206,7 +210,8 @@
 	- [ ] Hotkey am Mac für Editing Toolbar: Change Font Color ⇔ wrap with shortcuts hotkey dafür verwenden
 	- [ ] hab ich am mac nen hotkey für Date und time?
 
-
+- [ ] Ticket für *my sleeping karma*
+	- [ ] ⤷ arthur bescheid geben
  %% fold %%
 - [ ] Schulportal Login
  %% fold %%
@@ -354,7 +359,6 @@
 - [ ] 30 min Gitarre spielen ~={MediumViolet}fraught=~ ~={DeepSkyBlue}mit Timer=~ %% fold %%
 	- [ ] intro lead mit slide %% fold %%
 	- [ ] Stakkato 
-- [ ] französisch Buch weiter lesen %% fold %%
 - [x] Küchenabfall wegbringen 
 - [x] Restmüll weg %% fold %%
 - [x] Briefkasten checken %% fold %%
@@ -477,13 +481,11 @@ Wie sieht es mit der obersten Einstellung (<font color="#ff69b4">Alpine ridge</f
 - [ ] passt mir mein Trainingsanzug noch?
 - abgestorbene marone raus und neue einsetzen 
 	- ne scheint noch zu leben
-- [ ] Muskateller Salbei Samen für Schulgarten  %% fold %%
 - [ ] bei shin son hab kido anmelden/vorbei schauen, wann die Training haben 
 - [ ] Turnbeutel in Wäsche  %% fold %%
 
 
 - [ ] letzte Simulationen checken und snapshots machen
-- [ ] Proposal %% fold %%
 - [ ] französisch aufschreiben  %% fold %%
 - [ ] PC fertig machen  %% fold %%
 	- Puuh so nice, dass es geht🥰🥳
@@ -556,8 +558,8 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 	- [x] den am Drucker lochen und einheften
 - [x] gelben Sack
 - [x] Papier Müll 
-- [ ] wo ist meine Handyhalterung fürs Rad? Ahl?
-- proposal %% fold %%
+ 
+  - proposal
 	- [ ] Verhalten der 1:3 und 1:5 simulationen anschauen...
 	- [ ] was zu PE schreiben
 		- [ ] leichte erhöhung -> stable und connected
@@ -686,7 +688,7 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 - [ ] Halterung für Trainings gummies/expander
 	- [ ] wie trainiere ich damit richtig %% fold %%
 - [ ] pod go preset %% fold %%
-	- [ ] auf laptop speichern
+	- [ ] auf laptop speichern %% fold %%
 		- [ ] out
 		- [ ] phones presets
 		- [ ] nach der Anpassung der phones presets diese auch speichern
