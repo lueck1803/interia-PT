@@ -219,7 +219,7 @@
 - [ ] Ticket für *my sleeping karma*
 	- [ ] ⤷ arthur bescheid geben
  %% fold %%
-- [ ] Schulportal Login
+- [ ] Schulportal Login %% fold %%
  %% fold %%
  %% fold %%
 - [ ] Was nutze ich zum Kalender sync mit obsidian? %% fold %%
