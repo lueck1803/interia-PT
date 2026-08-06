@@ -72,24 +72,26 @@
 
 Lina Tongue
 # <font color="#00b0f0">Bernhard Adelung Schule (BAS)</font>
-**Sekretariat:**
+## Dienststellennummer
+3127
+## **Sekretariat:**
 06151-13 480 700
-**Code für den iPad Koffer** 
+## **Code für den iPad Koffer** 
 008 150 
-**Kopiercode**
+## **Kopiercode**
 1803
-**First login teacher pc**:
+## **First login teacher pc**:
 lukas.walter
 Start123
-**Telefon Lehrerzimmer**
+## **Telefon Lehrerzimmer**
 (13)-480713
 Vorwahl zum raus telefonieren: 01
-**W-lan:**
-- Schüler:
-	- AdE1Ung!
-- Lehrer:
-	- B3Rnh@Rd
-### Zeiten
+## **W-lan:**
+### Schüler:
+ AdE1Ung!
+### Lehrer:
+B3Rnh@Rd
+## Zeiten
 - 1. 7:55 - 8:40
 - 2. 8:40 - 9:25
 - 3. 9:45 - 10:30
