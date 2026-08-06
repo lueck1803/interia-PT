@@ -189,19 +189,29 @@
 		Vielen Dank für eure Unterstützung. Wir freuen uns auf einen guten gemeinsamen Start in das neue Schuljahr.
 	- [ ] Termin notieren 
 	- [ ] Klassen die ich betreue:
-	- [ ] Mathe
-		- [ ] 8a - 4 h/w
-		- [ ] 8b - 4 h/w
-	- [ ] Physik
-		- [ ] 7er mit mid absprechen
-		- [ ] 8er mit wol und lae absprechen, was die im 8er Jahrgang machen
-		- [ ] 10 er mit Jamil Hirsch absprechen, was er macht
-		- [ ] 7c - 2 h/w
-		- [ ] 7d - 2 h/w
-		- [ ] 8a - 2 h/w
-		- [ ] 8b - 2 h/w
-		- [ ] 10a - 1 h/w
-		- [ ] 10b - 1 h/w
+	- Mathe
+	- 4 h/w
+		- 8a 
+		- 8b 
+		
+	- Physik
+		- Ansprechpartner / Kollegen der Jahrgänge
+			- 7er:
+				- mid
+			- 8er 
+				- wol
+				- lae 
+			- 10er 
+				- Jamil Hirsch
+		- Stunden pro WocheKlassen 
+			- 2 h/w
+				- 7c 
+				- 7d 
+				- 8a 
+				- 8b 
+			- 1 h/w
+				- 10a
+				- 10b
 - [x] Balkonpflanzen gießen 
 - [x] carnivoren gießen 
 - [x] Schulgarten checken/gießen
