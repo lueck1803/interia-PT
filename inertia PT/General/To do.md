@@ -144,7 +144,7 @@
 - [ ] Device manager checken
 - [ ] Zeug für Konferenz lesen
 
-- [ ] 
+- [ ] <font color="#48d1cc">daily planner</font> Beschreibung durchlesen 
 
 - [ ] Tastatur wischen
 	- [ ] laptop
