@@ -8,7 +8,7 @@
 - der Master ist die <u><font color="#00b0f0">Priorität</font></u>
 - Wenn ich den <u>Abschluss</u> habe, dann schaue ich mich nach einem Job um
 - ich möchte definitiv etwas machen bei dem ich konzentriert und in Ruhe arbeiten kann und nicht so viel reden und erklären muss.
-# Geschäftliche Nachrichten 
+# Geschäftliche Nachrichten
 
 ## ebay 26-07-06
 Hi,
@@ -105,8 +105,7 @@ Lukas Walter
 # Nachrichten an Leute
 
 ## 2026-07-27 flo
-Ah also wurde sie jetzt doch aktiv zerstört oder meinst du die "Nachbarbibliothek" von der Andrej spricht?
----
+## Ah also wurde sie jetzt doch aktiv zerstört oder meinst du die "Nachbarbibliothek" von der Andrej spricht?
 Ja safe. Das Christentum hat ja auch extrem viele innere kämpfe insbesondere gegen das immer wieder aufkommende Reform Christentum die als Ketzer verfolgt wurden und dann später eingegliedert wurden 🤭. Zb Franziskaner 
 
 Ich finde es halt immer dann auch sehr "rassistisch" wenn der Islam als vermeintliches Gegenüber so verklärt wird. Ich glaube dass ist der romanitsierung im 19. Jh durch den orientalismus geschuldet.
@@ -321,7 +320,7 @@ Da sie sich ja eher als Gegenentwurf zum sich in Europa ausbreitenden Islam sehe
 Die Kirchen bieten wie die auch selbst sagen keinen Platz mehr für viele Christen.
 
 Das kann ich so von meiner Beobachtung auch bestätigen.
-## 2026-07-18 E-Mail Arooj 
+## 2026-07-18 E-Mail Arooj
 Hey
 
 🤭Oh typisch Arooj so fleißig, prompt und emsig, dass du direkt ne Briefmarke gekauft hast. 
@@ -509,7 +508,7 @@ Hier das Bild vom Adressfeld
 
 
 
-## 2026-07-16 Arthur 
+## 2026-07-16 Arthur
 ### 1
 Ich war ja zeitweise auch etwas komisch drauf / überreizt/gestresst von der Soundsituation und hab komisches Zeug gehört, das ging dir ja auch so.
 
@@ -651,7 +650,7 @@ war aber einfach nur, dass ich mir  da zu viel druck gemacht habe
 ## 26-06-24 bilge
 Naja also die Sache ist auch die - ich hab's mir gerade nochmal angehört - im Endeffekt hast du sie damit dass du sagtest dass sie gar nicht missbraucht wurde,
 (Nicht abgeschickt )
-## 26-06-21 Nadine Urban 
+## 26-06-21 Nadine Urban
 Mich hat die Wechselhaftigkeit der Kinder im Verhalten gegenüber mir bzw gegenüber dem Situations bezogenen Ich oder vielleicht gegenüber einer Rolle in der ich war irritiert.
 
 Nur am Alter liegt das definitiv nicht. Bei andern Kindern habe ich bisher nicht so eine Sprunghaftigkeit erlebt, die so in die Extreme geht.
@@ -749,7 +748,7 @@ Mir ist auch noch etwas zum den vocals vom füsilier 2 aufgefallen, da du ja let
 Die struggels die du erwähnt hast, sehe ich auch.
 
 ## 26-05-23
-### Arthur 
+### Arthur
 Ich sehe jetzt auch die Schwierigkeit beim füsilier 2.
 
 Die Rhythmus gitarre ist "langsamer" als die vocals.
@@ -821,7 +820,7 @@ Unsauber gegriffen.
 
 Habe Barré-Roll-offs über zu viele Saiten 
 ## 26-04-25
-### Arthur 
+### Arthur
 Ja richtig, mache ich ja auch.
 Gerade bei etwas bei dem ich neu bin. 
 
@@ -847,7 +846,7 @@ Das habe ich gemerkt und deshalb frühzeitig aufgehört bevor ich mir mit dem Zi
 
 Lieber einen Tag Pause einlegen dann geht's beim nächsten Mal viel besser.
 ## 26-04-24
-### Arthur 
+### Arthur
 Bin zu sloppy unterwegs gewesen eben.
 Ich hab gar nicht erst ne Aufnahme probiert.
 Bin zu schnell hoch gegangen mit der Geschwindigkeit.
@@ -863,7 +862,7 @@ Ich hab's mir extra abtrainiert.
 
 Beim solo muss ich permanent sauber bleiben sonst skippe ich töne und das Timing geht futsch.
 ## 26-04-17
-### Nadine 
+### Nadine
 Sehr nett von dir 🥰🫂🙏.
 
 Das ist Problem wohnt mir ja inne.
@@ -1005,7 +1004,7 @@ Ich kenne meine Baustellen und aufgrund dieser habe ich so darunter gelitten.
 
 Ich bin zum Glück so weit dass ich mir wieder eine Zukunft und dann auch eine Beziehung, Partnerschaft und Familie vorstellen kann.
 
-### Jamil 
+### Jamil
 Hallo Jamil,
 
 es folgt ein längerer Text bzgl. TVH und meiner Unterrichtserfahrung.
@@ -1062,7 +1061,7 @@ Um dann überhaupt die einfachste Aufgabe, die ich mir überlegt habe, mit der K
 Mir war auch nicht mehr so ganz bewusst, dass elementare Termumformung, wohl nicht so bekannt ist in der 9. Klasse.
 
 Ich habe dabei auch ein paar "taktische Fehler" gemacht. Also eine leicht andere Reihenfolge wählen sollen. Aber gut, besser als kein Unterricht.
-### 1 Jamil 
+### 1 Jamil
 Ich würde auch gerne, wenn es möglich ist, wem ne Zeitlang über die Schulter schauen.
 
 An der Lio habe ich zwar auch für 2 Monate eine Physik Klasse komplett ersetzt, da war ein Lehrer länger ausgefallen. Bevor ich die klasse übernahm, hatte auch schon eine Weile gar kein Unterricht statt gefunden.
@@ -1106,7 +1105,7 @@ Da habe ich mir auch behelfsmäßig Gegenstände gesucht, um ein paar Dinge zu d
 Um dann überhaupt die einfachste Aufgabe mit der Klasse rechnen zu können, musste ich aber auch erstmal elementare Dinge nachholen.
 
 Mir war auch nicht mehr so ganz bewusst, dass elementare Termumformung, wohl nicht so bekannt ist in der 9. Klasse.
-## 26-04-15 
+## 26-04-15
 Ich wollte noch etwas ergänzen zum Unterricht mit der 5c.
 
 Glordi war diesmal ja nicht da, daher bin ich gespannt wie es nächstes Mal wird.
@@ -1267,7 +1266,7 @@ Statt mit Nachsicht an die Dinge zu gehen.
 Wenn du dir im Herbst die türkische Band ansiehst, wirst du wohl auch microtonale musik hören.
 
 Die verwenden ja auch ne Zaz so weit ich gehört habe. Die Bünde sind da auch zum teil microtonal aufgeteilt.
-### Benno3 
+### Benno3
 Hallo Benno, 
 
 Vielen Dank für die Nachricht.
@@ -1292,7 +1291,7 @@ Wenn du damit einverstanden wärst und das selbst für realistisch hältst, wür
 Viele Grüße 
 Lukas 
 
-### Benno 2 
+### Benno 2
 Hallo Benno, 
 
 Vielen Dank für die Nachricht.
@@ -1520,9 +1519,9 @@ Meistens kennt man ja die Leute mit denen man Essen geht und daher vielleicht au
 
 ja ganz schön viel xD.
 Und eher eine allgemeine Strategie.
-## 26-03-20 
+## 26-03-20
 
-### Marietta 
+### Marietta
 Autisten haben schon eher festgefahrene Denkstrukturen und klare Einteilungen/Schubladen im Kopf.
 Und Vorstellungen wie etwas zu sein hat.
 
@@ -1542,7 +1541,7 @@ Ich wollte mir nur etwas Unsicherheit vorweg nehmen, ob das machbar ist und nich
 
 Auch insgesamt einen besseren Überblick über die Songstruktur zu bekommen. Der Text, der bei Spotify angezeigt wird ist nicht so 100% synchronisiert.
 Ursprünglich hatte ich mir den 
-## 26-02-19 Arthur 
+## 26-02-19 Arthur
 ### 1
 Irgendwie hab ich immer noch nen Knoten im Kopf. 
 
@@ -1571,7 +1570,7 @@ _independent thinkers who trust their own judgments. However, their second shado
 die hast du ja zu genüge mitbekommen
 
 Danke dass du mich darauf nochmal aufmerksam gemacht hast. Als ich den damals gemacht habe, hatte ich nicht so die Energie mich im detail damit zu beschäftigen❤️
-## 26-03-15 Arthur 
+## 26-03-15 Arthur
 Ein Beispiel.
 
 Beim Intro sweep habe ich bisher nie das Ende gespielt.
@@ -1626,7 +1625,7 @@ Wenn man sich mit der cpu02 mit ssh cpu02 verbindet und dort die env aufruft und
 also local host oder cpu02?
 mit dem queueing system ist es ja dann `cpuXX`
 
-## 26-03-02 Julia 
+## 26-03-02 Julia
 Ich hatte auch gedacht dass unser Austausch auf Augenhöhe ist und dieser dir etwas gebracht hat.
 
 
@@ -1655,7 +1654,7 @@ Daran habe ich immer viel gearbeitet. Und so drunter gelitten, wie negativ ich m
 Es dann da auch häufig kein 
 
 
-## 26-02-19 Julia 
+## 26-02-19 Julia
 Ich kläre meine Nachricht von gestern dann doch nochmal ein bisschen auf: 
 1. Ich bin mir bewusst dass du weißt dass du keine Schuld trägst und du weißt dass die Worte deiner Mutter Quatsch sind
 2. Es ist ein Unterschied ob man das kognitiv verstanden hat und ob man das emotional auch präsent in seinem Wesen aufgenommen hat und dann auch umsetzen kann. 
@@ -1664,7 +1663,7 @@ Ich kläre meine Nachricht von gestern dann doch nochmal ein bisschen auf:
 5. Ich spreche da ja aus eigener Erfahrung und weiß wie schwer es ist da Muster loszulassen.
 6. Es ist nicht schön, wenn du grundsätzlich abgelenkt bist, da du antworten erwartest, dass ist ein intensives Abhängigkeitsgefühl. Ich kenne das. Das paralysiert einen.
 
-## 26-02-18 Julia 
+## 26-02-18 Julia
 Das arme wölkchen ist meinen Nachrichten ja völlig ausgeliefert ^^.
 
 Finde den Fehler ^^.
@@ -1868,7 +1867,7 @@ In den Gebieten der Westfront werden auf dem Acker immer noch Granaten gefunden.
 
 Und im Hinblick auf zb der Ukraine oder aber noch extremer im Sudan, wo man sich auch an Zahlen gewöhnt 
 
-### Sandra possible Answer in discord 
+### Sandra possible Answer in discord
 After reading this, I think I was too judgy to myself with my retrospection yesterday.
 
 "Haunted by guilt"😆 
@@ -1901,7 +1900,7 @@ I kept up with it and got better.
 But I had other goals in life that I was struggling with.
 
 I was stressed and troubled about that she was able to still meet these goals.
-### Thema Daniel 
+### Thema Daniel
 Hmm gestern hat mir jemand geschrieben den ich aus dem Krankenhaus kenne. 
 
 Musste erst rätseln wer das ist, da er sich nur als Daniel vorgestellt hat. 
@@ -2066,7 +2065,7 @@ Tage produktiv gewesen:
 - hoher Becher statt breite Schüssel 
 - Metall Schüssel statt Plastik, wegen dem fett was an Plastik besser haftet.⟹Fett ist der Feind von Steifem Eiweiß 
 - Prise Salz ⟹wirkt auf die elektrische Ladung der Proteine, die stoßen sich weniger ab
-# Gartenarbeit und Pflanzen 
+# Gartenarbeit und Pflanzen
 - gekaufte Pflanzen <u>vor dem Umtopfen 
 </u>entweder 
 	- 1/3 der Wurzel abschneiden 
@@ -2086,7 +2085,7 @@ Tage produktiv gewesen:
 # Signal
 - Video sending problem:
   ![](Pasted%20image%2020251221172346.png)
-# jupyter 
+# jupyter
 https://wiki.pkm.physik.tu-darmstadt.de/doku.php/agliebchen:cluster?s[]=jupyter
 # ssh
 ```bash
@@ -2277,30 +2276,30 @@ When changes are made simultaneously on both remote and local branches, or when 
 
 Git pull is a command that performs more processes compared to git fetch. Git pull can perform both git fetch and additionally execute git merge or git rebase. For this reason, git pull is recommended when you want to quickly reflect changes from the remote repository in the local branch.
 
-# Office 
-## Collabora office 
-### calc
+# Office
+## Word
 
-> [!NOTE] linebreak in cell
-> 1. Select the cell <br> **opt:** *select the position with the marker*
-> 2. Select Formula field <br> **opt:** *select the position with touch*
-> 3. Press *shift* ⇧ & *enter* ⏎ at the same time
-
-# Word
-
-## Signature Lines
+### Signature Lines
 
 Es gibt signature lines:
 
 > [!NOTE] signature lines
 > Menu ⟹ Insert ⟹ <small>category</small> Text  (<small>on the right side</small>) ⟹ Signature Line (Dropdown)
 
-## Text Box
+### Text Box
 
 
 > [!NOTE] Text Box
 > Menu ⟹ Insert ⟹<small>category</small> Text  (<small>on the right side</small>)⟹ Text Box <small>(Dropdown)</small> ⟹ <u>Draw</u> Text Box
 
+
+## Collabora office
+### calc
+
+> [!NOTE] linebreak in cell
+> 1. Select the cell <br> **opt:** *select the position with the marker*
+> 2. Select Formula field <br> **opt:** *select the position with touch*
+> 3. Press *shift* ⇧ & *enter* ⏎ at the same time
 
 # YouTube
 Wenn man bei der YouTube app ein Video ab einem Zeitpunkt verlinken möchte 
@@ -2535,7 +2534,7 @@ The `ls` command has a variety of options to customize its output:
 - `-d` - List directories themselves, not their contents
 - `-F` - Append indicator (one of */=@|) to entries
 
-## rm 
+## rm
 löscht alle hundertausender dump files zwischen den millionen 
 ```bash
 ls | grep -P "dump.*[1-9]00000\.txt" | xargs -d"\n" rm
@@ -2553,7 +2552,7 @@ $PSVersionTable
 ```
 
 
-## Network adapter 
+## Network adapter
 
 ```PowerShell
 Get-NetAdapter
@@ -3051,7 +3050,7 @@ Das muss man einfach erlebt haben.
 Außerdem man erkennt doch klar dass es sich um einen Tretroller handelt.
 Seitwann können E-Roller fliegen? Die sind doch viel zu schwer. Das ergibt aerodynamisch keinen Sinn. Das weiß doch jeder dass dafür die Bromance nicht ausreicht.
 
-## 26-04-07 
+## 26-04-07
 9:47 ja natürlich kommt er zu dir und fragt dich, weil es natürlich interessant ist warum du dich dafür interessierst.
 
 Und du viel interessanter bist als alte Männer die über die NVA erzählen, da das nach deiner Erzählung ja mehrere gemacht haben. 
@@ -3285,7 +3284,7 @@ If your Singer Simple 3232 needle is stuck, it's usually due to a thread jam, in
 2. <u>Presser Foot:</u> Lift the presser foot to relieve tension and move fabric gently.
 3. <u>Handwheel:</u> Turn the handwheel towards you (counter-clockwise) to raise the needle and dislodge jams.
 4. <u>Reverse Button:</u> Press the reverse button a couple of times to reset the machine's functions. 
-### For a Full Jam (Needle completely stuck) 
+### For a Full Jam (Needle completely stuck)
 1. <u>Lift Presser Foot: </u>Lift it up to create slack.
 2. <u>Remove Fabric:</u> Gently wiggle and pull fabric out, clipping threads if needed with small scissors.
 3. <u>Clear Underneath:</u> Remove the needle plate and bobbin case; use tweezers to pull out any tangled threads from the bobbin area and feed dogs.
@@ -3320,7 +3319,7 @@ Dann eine Runde rechts.
 
 Z12  R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12
 
-### Reihen nach Spickel 49 ~ 12,25 cm müssten 57~ 14,25cm werden für 46/47 
+### Reihen nach Spickel 49 ~ 12,25 cm müssten 57~ 14,25cm werden für 46/47
 R12  R12 R12 R12 R12 R12 R12 R12 
 <span style="font-size:100%;color:red;">bis hier hätte gereicht</span>
 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 (Zunahme 1M socke 1 am Ende)
@@ -3443,13 +3442,13 @@ Wieder zusammen führen
 - 10. Zunahme ✅✅ + Vorderseite ✅✅
 - 10. Verstärkungsreihe ✅✅ + Vorderseite ✅✅
 ### Abnahmen
-##### die Abnahme 
+##### die Abnahme
 1. 1. M wie zum rechts stricken abheben 
 2.  2. M rechts stricken 
 3. 1. M die abgehoben wurde über die zu letzt gestrickte drüber ziehen 
 4. Rechts stricken bis 2 M vor dem markierer.
 5. Die letzten beiden rechts zusammen stricken 
-#### Abnahmen 
+#### Abnahmen
 - 1. Abnahme ✅✅ + Vorderseite ✅✅
 - 1. Verstärkung (A) ✅✅ + Vorderseite ✅✅
 - 2. Abnahme ✅✅ + Vorderseite ✅✅
@@ -3490,7 +3489,7 @@ Markierungen raus nehmen
 18. ✅✅✅✅
 19. ✅✅✅✅
 20. ✅✅✅✅
-## Bündchen 
+## Bündchen
 [rechtsverschränkt und links](https://www.youtube.com/watch?v=whRcNAtaUOM&t=8s)
 1. ✅✅✅✅
 2. ✅✅✅✅
@@ -3540,7 +3539,7 @@ Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12 Z12 R12
 18 Runden
 Ich bleibe dabei
 ~~(26 M Zunahme ~ 8.06 + .31 cm ~ 8.37)~~
-### Reihen nach ~~Spickel~~ Fußspitze 
+### Reihen nach ~~Spickel~~ Fußspitze
 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R12 R
 
 20× + 18 von der Zunahme = 38
@@ -3621,9 +3620,9 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
  ⃝◢  ⃞ ⃞ ⃞ ◣ ⃝ ⃞  ~={blue}3=~
 ⃞ ⃞ ⃞ ⃞ ⃞ ⃞  ◣ ⃝   ~={Crimson}1=~
 
-# Englisch 
-## Adverb 
-## Korrekturen in meinem Ausdruck 
+# Englisch
+## Adverb
+## Korrekturen in meinem Ausdruck
 ### 2026-07-13 Proposal
 We were heavily influenced by the importance to avoid contributions of the interfaces to the measurement of the density fluctuations in the two phases by the following formulations in publications.
 
@@ -3646,7 +3645,7 @@ We were heavily influenced by the importance to avoid contributions of the inter
     
 
 **Recommendation:** Use **option 1** for clarity and directness, or **option 2** if you want to keep the passive voice but make it grammatically correct.
-### 2026-07-09 eBay Antwort 
+### 2026-07-09 eBay Antwort
 
 Hey 👋,
 No a complete refund isn't necessary.
@@ -3696,7 +3695,7 @@ I can live with it. 😄
 
 Falls du noch spezifischere Anpassungen möchtest (z. B. formeller oder lockerer), lass es mich wissen! 😊
 # Französisch
-## accents 
+## accents
 - Accent Aigu (é): Only on 'e'. Produces a closed "eh" sound like:
 	- café
 	- été
@@ -3714,7 +3713,7 @@ Falls du noch spezifischere Anpassungen möchtest (z. B. formeller oder lockerer
 	- à, ù: Primarily distinguishes homonyms: a (has) vs à (to/at), ou (or) vs où (where).
 - Tréma (ë, ï, ü, ÿ): Placed over a vowel to show it is pronounced separately from the preceding vowel, rather than forming a single sound. Examples: Noël (no-el), naïve (na-eev).
 - Cédille (ç): Used only under 'c' before 'a', 'o', or 'u' to make it sound like 's' (e.g., garçon). 
-## article 
+## article
 - if it ends with an **e** the chance is very high that it is feminine 
 	- la France
 	- la table
@@ -3730,7 +3729,7 @@ Falls du noch spezifischere Anpassungen möchtest (z. B. formeller oder lockerer
 		- les magasins
 		- les émotions
 		- les sciences et autres disciplines
-## Verbs followed by À and DE 
+## Verbs followed by À and DE
 [ Verbs Followed by à and de](https://www.youtube.com/watch?v=x_Pif-Vcb7c&t=20s)
 ### Indirect object pronouns (COI)
 
@@ -3772,7 +3771,7 @@ Falls du noch spezifischere Anpassungen möchtest (z. B. formeller oder lockerer
 	- Je m'attendais ~={DeepSkyBlue}à=~ un cadeau. - I was expecting a gift.
 	- Je m'~={Teal}y=~ attendais. - I was expecting it.
 
-###  <span style="font-size:100%;color:mediumspringgreen;">De + Noun</span> / <span style="font-size:100%;color:MediumPurple;">De +  emphatic pronouns</span>
+### <span style="font-size:100%;color:mediumspringgreen;">De + Noun</span> / <span style="font-size:100%;color:MediumPurple;">De +  emphatic pronouns</span>
 - ~={MediumSpringGreen}parler de qn/qc=~ - Speak ~={MediumSpringGreen}about=~ something.
 	- On parle ~={MediumSpringGreen}de=~ ta soeur.
 	- On parle ~={purple}d'elle=~.
@@ -3874,7 +3873,7 @@ Remarques importantes
     - _Exemple :_ « Je ne sais pas **ce qui** s'est passé. » (Je ne sais pas ce qui est arrivé). [1](https://www.sofatutor.com/franzoesisch/videos/relativpronomen-ce-qui-und-ce-que), [2](https://www.gymglish.com/fr/frantastique-orthographe/grammaire-francaise/les-pronoms-relatifs-ce-qui-ce-que-et-ce-dont), [3](https://learnattack.de/franzoesisch/relativsaetze-mit-ce-qui-und-ce-que), [4](https://www.schuelerhilfe.de/online-lernen/5-franzoesisch/1537-die-relativpronomen-ce-qui-und-ce-que)
 - **Ce que** (ou **ce qu'**) est le **complément d'objet direct (COD)**. Il est généralement suivi d'un sujet et d'un verbe.
     - _Exemple :_ « Je ne sais pas **ce que** tu dis. » (Je ne sais pas ce que tu racontes). [1](https://www.schuelerhilfe.de/online-lernen/5-franzoesisch/1537-die-relativpronomen-ce-qui-und-ce-que), [2](https://www.gymglish.com/fr/frantastique-orthographe/grammaire-francaise/les-pronoms-relatifs-ce-qui-ce-que-et-ce-dont)
-# Russisch 
+# Russisch
 ## Aussprache o
 Die Aussprache des russischen Buchstaben о hängt ausschließlich von der Betonung ab. Ist das о betont, wird es wie ein kurzes deutsches "o" gesprochen. In unbetonten Silben wird es jedoch zu einem dumpfen "a" reduziert. Dieses Phänomen nennt man Okanje.
 
@@ -3891,7 +3890,7 @@ Die Aussprache des russischen Buchstaben **о** hängt maßgeblich von der Beton
 - **Betont (ó):** Klingt wie in _Boot_ oder _Sonne_, z. B. in **дом** (dom – Haus).
 - **Unbetont (vor der betonten Silbe):** Klingt wie ein kurzes, neutrales „a“, z. B. in **собака** (saba_k_a – Hund).
 - **Unbetont (in allen anderen Positionen):** Klingt noch kürzer, fast wie ein verschlucktes „a“ oder „ä“, z. B. in **много** (_mn_o_ga_ – viel). [1](https://russisch-unterricht.de/russisch-aussprache-phonetik-a-o/), [2](https://www.russischgratis.com/russisch-lesen-lernen-04.php)
-## zu стол vs стул 
+## zu стол vs стул
 Bzgl Russisch:
 
 Ich finde ja höchst interessant dass стол im russischen Tisch bedeutet und im Deutschen eine Ähnlichkeit zu Stuhl hat.
@@ -3913,7 +3912,7 @@ Im russischen gibt's für das Wort Stuhl das Wort стул, wenn ich mich nicht 
 
 Eigentlich recht sinnvoll etwas so ähnliches mit nur einem unterschiedlichen Buchstaben zu bezeichnen.
 
-## гроза 
+## гроза
 Ich hatte gestern mit Arthur kurz das Thema dass die bayrische black Metal Band 
 Groza ihren Namen falsch schreibt und ausspricht und im Endeffekt auch noch nicht richtig übersetzt 🤣.
 Das Wort im russischen/slawischen ist гроза.
@@ -3926,8 +3925,8 @@ Aber eher im übertragenen Sinne.
 
 Die Band verwendet aber ausschließlich diese Bedeutung. Für diese bedeutungen gibt es aber eher andere Worte.
 
-# Biologie 
-## Evolution und DNA 🧬 
+# Biologie
+## Evolution und DNA 🧬
 ### RNA - [Älter als das Leben?](https://youtu.be/4eRdmamHBpc?is=lyy2evRfv9D4uZ46)
 
 Joa ach. 
@@ -4076,10 +4075,10 @@ This far exceeds typical convective rates for the same area.
 - Polycarbonat Recycling Code 
 	- 7 +PC
 	- 7+PCT ⟹anderer Kunststoff, aus der Polyester Familie = BPA frei 
-# Neurologie 
+# Neurologie
 - frontal lobe finishes development around 25
 
-# Trans 
+# Trans
 - das wichtigste sollte das Wohl des betreffenden Menschen sein 
 - in der Pubertät/als Jugendlicher hat man sehr häufig extreme und starke Überzeugungen bei denen man 120% sicher ist und sich dann nach ein paar Jahren herausstellt, dass es doch nicht so ist
 - der extreme affirmative Umgang der Transcommunity ist total ist was das angeht total ignorant und schädlich 
@@ -4123,9 +4122,8 @@ Vergleich Krebs mit Glechtsdisphorie:
 	- Beim Krebs (je nach Art)
 		- chemotherapie vs chirugie vs konservativer behandlung bzw. qualitativ gutes leben mit dem krebs statt sich einer qual zu unterziehen die dennoch mit dem tod endet / letzte tage genießen
 		- guter Vergleich Knie - OP: Knie TEP (OP) vs. konservative Schmerz und Bewegungstherapie zb auch in kombi mit wiederaufbau des knorpels 
-# Geschichte 
-Ah also wurde sie jetzt doch aktiv zerstört oder meinst du die "Nachbarbibliothek" von der Andrej spricht?
----
+# Geschichte
+## Ah also wurde sie jetzt doch aktiv zerstört oder meinst du die "Nachbarbibliothek" von der Andrej spricht?
 Ja safe. Das Christentum hat ja auch extrem viele innere kämpfe insbesondere gegen das immer wieder aufkommende Reform Christentum die als Ketzer verfolgt wurden und dann später eingegliedert wurden 🤭. Zb Franziskaner 
 
 Ich finde es halt immer dann auch sehr "rassistisch" wenn der Islam als vermeintliches Gegenüber so verklärt wird. Ich glaube dass ist der romanitsierung im 19. Jh durch den orientalismus geschuldet.
@@ -4215,7 +4213,7 @@ Ich meine aber generell ist zumindest zwischen der evangelischen und katholische
 Der über tausendjährige gewalttätige Konflikt zwischen Schiiten und Sunniten kennt aber kein Ende. 
 
 Wirklich "einig" (nicht mal auf politischer Ebene) sind die sich nur wenn es gegen Israel/die Juden/ den Zustand bzgl Gaza  geht.
-# Philosophie 
+# Philosophie
 - ![](Pasted%20image%2020251205205458.png)
 
 # Musik
@@ -4265,7 +4263,7 @@ egal ob ein Ton zweimal gespielt wird und ob mehrfach zwischen zwei Tönen hin u
 
 ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 
-# Gespräch Seib-Glaszis 
+# Gespräch Seib-Glaszis
 - nicht nur das ADHS 
 - 10 Jahre Beziehung 
 	- über Jahre das gleiche durchgemacht 
@@ -4523,14 +4521,14 @@ ich hab dazu tendiert solche stellen immer etwas schneller zu spielen.😅
 	- ⟹ ~={RedRed}Nicht=~ ~={DeepPink}zitierfähig=~
 # LLM / machine learning
 ## GPT
-### G - generative 
+### G - generative
 Bots that generate new "text"
 ### P - pre trained
 Refers to how the model went through a process of learning from a massive amount of data and the prefix insinuates that there is more room to fine-tune it on specific tasks with additional training.
-### T - transformer 
+### T - transformer
 A transformer is a specific kind of neural network, a machine learning model, and it's the core invention underlying the massive progress of AI.
 
-## transformer 
+## transformer
 Different kind of models that transform for example 
 - voice into text
 - text to voice
@@ -4636,11 +4634,11 @@ The forward process is crucial for generating training data in diffusion models,
 
 # Wortfindungsstörung 😅🫣😁
 
-## Das Wort Misogyn für Männer 
+## Das Wort Misogyn für Männer
 Misandrie
 
 
-## benefit of the doubt 
+## benefit of the doubt
 > [!Note] wortwörtlich 
 > "Begünstigung des Zweifels", "Begünstigung im Zweifel" oder "Begünstigung im Zweifelsfall".
 
@@ -4675,7 +4673,7 @@ Kontextbeispiele
 - Allgemeine Lebenshaltung:
 "Ich versuche, Menschen erstmal wohlwollend zu betrachten."
 
-# Ansprache zu Waffenbrüder 
+# Ansprache zu Waffenbrüder
 Ich möchte ein paar Worte verlieren bevor ich anfange.
 
 Wenn ihr etwas vom Text verstehen werdet, ist der Text selbst erklärend.
@@ -4691,7 +4689,7 @@ Die Texte basieren auf Feldpostbriefen von denen viele Milliarden während des K
 Im Lied **Waffenbrüder** von **Kanonenfieber** geht es um das Schicksal zweier Kindheitsfreunde im 1. Weltkrieg.
 
 
-# Yoga 
+# Yoga
 
 
 # Gespräch mit Gerd
@@ -4699,13 +4697,13 @@ Im Lied **Waffenbrüder** von **Kanonenfieber** geht es um das Schicksal zweier 
 - eisengelate
 
 # Mathematik
-## Terminal Operator 
+## Terminal Operator
 Ist wie Fakultät "!" Nur statt der Multiplikation wird die Addition verwendet.
 
 $6?=6+5+4+3+2+1=\frac{6(6+1)}{2}=21$
 Deshalb ist 
 $18+\frac{18}{3}=6?$ korrekt.
-## Hebbare Definitionslücke 
+## Hebbare Definitionslücke
 Eine hebbare Definitionslücke ist ein einzelner x-Wert, an dem eine <font color="#0070c0">gebrochen-rationale Funktion</font> <font color="#c0504d">nicht definiert</font> ist, weil der <font color="#ff0000">Nenner null wird</font>.
 
 Sie lässt sich „beheben“, indem man den <font color="#92d050">Funktionsterm kürzt</font>. Im Funktionsgraphen sieht diese Lücke wie ein <font color="#e36c09">winziges Loch</font> aus.
@@ -4733,7 +4731,7 @@ $f(x) = \frac{x^2 - 1}{x - 1}$
 #### Grafische Darstellung
 Im Gegensatz zu einer Polstelle, bei der sich der Graph einer senkrechten Linie (Asymptote) nähert, ist der Graph an einer hebbaren Definitionslücke ansonsten völlig normal. Er wird <font color="#31859b">lediglich an der entsprechenden x-Koordinate unterbrochen</font>, was grafisch durch einen <font color="#ffff00">kleinen offenen Kringel</font> markiert wird. Um diese Lücke stetig zu schließen und den Definitionsbereich zu erweitern, können Sie den Definitionsbereich explizit angeben. 
 
-# Radrennbahn 
+# Radrennbahn
 - niemals bremsen
 	- Bahnräder haben keine Bremsen 
 - immer in die Pedale treten 
@@ -4746,13 +4744,13 @@ Im Gegensatz zu einer Polstelle, bei der sich der Graph einer senkrechten Linie 
 - „Wenn du (den) <font color="#92d050">Frieden</font> willst, bereite (den) <font color="#00b0f0">Krieg</font> vor.“
 
 # Dokus
-## the future is wild 
+## the future is wild
 *Wie heißt die dokureihe aus etwa den 00ern, in der eine möglich evolvierte Tierwelt lange nach dem Menschen erdacht wird?*
 *In dieser kommen Oktopusse in Elefanten Größe vor und auch Oktopusse die sich wie affen von baum zu Baum schwingen.*
 
 Die Dokureihe, nach der du suchst, heißt **"The Future is Wild"** (auf Deutsch oft als **"Die Zukunft ist wild"** oder **"Die Tierwelt der Zukunft"** bekannt). Diese Serie aus den frühen 2000ern zeigt eine spekulative, evolvierte Tierwelt lange nach dem Verschwinden des Menschen – darunter auch riesige Oktopusse in Elefantengröße und baumschwingende Oktopusse, die als "Squibbons" bezeichnet werden.
 
-# Verhalten/Behavior 
+# Verhalten/Behavior
 - ask for <font color="#7cfc00">clarification</font> <font color="#ff0000">before</font> make <font color="#e36c09">assumptions</font> 
 ## CALM
 - **<u>C</u>** control the frame
