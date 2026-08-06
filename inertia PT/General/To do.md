@@ -132,7 +132,7 @@
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
-- [ ] Wegen Schul-ID nachfragen
+- [ ] Wegen Schul-ID Zettel unterschreiben lassen und abgeben?
 - [ ] Lehrpläne für meine Jahrgänge %% fold %%
 	- [ ] raus suchen %% fold %%
 	- [ ] wichtige teile ausdrucken 
