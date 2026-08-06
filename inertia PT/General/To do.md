@@ -170,6 +170,7 @@
 - [x] Flaschen spülen
 - [ ] warum ist Beton ein so schlechter Wärmeisolator?
 - [ ] Balkonpflanzen gießen 
+<<<<<<< HEAD
 - [ ] Google calendar and task sync einrichten
 <<<<<<< HEAD
 =======
@@ -180,6 +181,8 @@
 	- [ ] **Redirect bridge URL**:
 	      [https://lueck1803.github.io/obsidian-google-sync/](https://lueck1803.github.io/obsidian-google-sync/)
 >>>>>>> 41affb68 (vault backup: 2026-08-06 17:10:38)
+=======
+>>>>>>> 38665289 (vault backup: 2026-08-06 17:43:24)
 - [x] Zähne putzen 
 - [x] mac switch between windows of the same app hotkey fixen
 - [x] mac order/placing of the screens
@@ -188,8 +191,8 @@
 - [x] Duolingo
 - [x] Collabora office <font color="#c3d69b">linebreak</font> 
 - [x] Gesicht waschen
-- [x] Haare kämmen 
-- [x] Arbeitsflächen in der Küche wischen 
+- [x] Haare kämmen  %% fold %%
+- [x] Arbeitsflächen in der Küche wischen  %% fold %%
 - [ ] Schulgarten checken/gießen
 - [ ] meditieren 
 - [ ] rote Linsen + Kichererbsen Curry kochen 
