@@ -261,8 +261,16 @@
 - [ ] mich um den pc kümmern
 - [ ] obsidian kram wieder installieren
 	- [ ] tasks
-	- [ ] reminder
+		- [ ] mac
+		- [ ] handy
+	- [ ] reminder	
+		- [ ] mac
+		- [ ] handy
 	- [ ] Google Calendar and Tasks Sync
+		- [ ] pc zeug einstellen
+		- [ ] mac
+		- [ ] handy
+	- [ ] Hotkey am Mac für Editing Toolbar: Change Font Color ⇔ wrap with shortcuts hotkey dafür verwenden
 - [ ] tasks aufräumen  
 - [x] Flaschen spülen
 - [ ] warum ist Beton ein so schlechter Wärmeisolator?
@@ -361,7 +369,7 @@ Wie sieht es mit der obersten Einstellung (<font color="#ff69b4">Alpine ridge</f
 - nach shutdown?
 	- Bildschirme gehen an 
 
-<font color="#ff0000">Jetzt</font> 2026-08-06 22:53 gehen die Bildschirme seit mehreren Stunden. ich musste allerdings wieder von <font color="#ff3d3d">Alpine ridge</font> ⟹ <font color="#7cfc00">Titan ridge</font> umstellen
+<font color="#ff0000">Jetzt</font> 2026-08-06 22:53 gehen die Bildschirme seit mehreren Stunden. ich musste allerdings wieder von <font color="#ff3d3d">Alpine ridge</font> ⟹ <font color="#7cfc00">Titan ridge</font> <font color="#ff1493">umstellen</font>
 - [ ] was ist memory mbist? Hatte ich angestellt. Wieder aus?
 - [ ] pcie 
 	- [ ] ari Support 
