@@ -194,7 +194,7 @@
 - [ ] Laptop mit tb -> dp an Bildschirm 
 - [ ] die oberen Punkte abarbeiten
 - [ ] mich um den pc kümmern
-- [ ] tasks auf
+- [ ] tasks aufräumen 
 - [x] Flaschen spülen
 - [ ] warum ist Beton ein so schlechter Wärmeisolator?
 - [x] Zähne putzen 
