@@ -198,20 +198,22 @@
 
 - [ ] Laptop mit tb -> dp an Bildschirm 
 - [ ] mich um den pc kümmern
+
+
 - [ ] obsidian kram wieder installieren
 	- [ ] <font color="#ff1493">Day Planner</font>???
-	- [ ] tasks
+	- [x] tasks
 		- [x] mac
-		- [ ] handy
-	- [ ] reminder	(einstellungen abgleichen)
-		- [ ] mac
-		- [ ] handy
-	- [ ] Google Calendar and Tasks Sync
+		- [x] handy
+	- [x] reminder	(einstellungen abgleichen)
+		- [x] mac
+		- [x] handy
+	- [x] Google Calendar and Tasks Sync
 		- [x] pc zeug einstellen
-		- [ ] mac
-		- [ ] handy
-	- [ ] Hotkey am Mac für Editing Toolbar: Change Font Color ⇔ wrap with shortcuts hotkey dafür verwenden
-	- [ ] hab ich am mac nen hotkey für Date und time?
+		- [x] mac
+		- [x] handy
+	- [x] Hotkey am Mac für Editing Toolbar: Change Font Color ⇔ wrap with shortcuts hotkey dafür verwenden
+	- [x] hab ich am mac nen hotkey für Date und time?
 
 - [ ] Ticket für *my sleeping karma*
 	- [ ] ⤷ arthur bescheid geben
