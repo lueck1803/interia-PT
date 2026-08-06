@@ -140,9 +140,16 @@
 - [x] bier auf dem tisch weg wischen 📅 2026-08-06 23:25 ✅ 2026-08-06
 - [ ] meditieren 
 - [ ] Zeug im Spülkorb wegräumen
+- [ ] Spülmaschine Graphitöl ölen
+- [ ] Device manager checken
 
 - [ ] duschen 📅 2026-08-07 07:00
 - [ ] Klamotten fürs Foto raussuchen 📅 2026-08-07 07:15
+
+- [ ] zu den Eltern fahren 📅 2026-08-07 13:00
+	- [ ] Stuhloberteil
+	- [ ] Sonnenbrille vom Papa
+	- [ ] Apfelschneider
 
 
 - [ ] Tastatur wischen
