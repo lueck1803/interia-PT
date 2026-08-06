@@ -175,7 +175,7 @@
 - [x] mac order/placing of the screens
 - [ ] carnivoren gießen 
 - [ ] Krafttraining
-- [ ] Duolingo
+- [x] Duolingo
 - [x] Collabora office <font color="#c3d69b">linebreak</font> 
 - [ ] Gesicht waschen
 - [ ] Haare kämmen 
@@ -190,7 +190,7 @@
 	- [ ] zusammenlegen  %% fold %%
 	- [ ] wegräumen 
 - [x] staubsaugen 
-- [ ] Äpfel schneiden (@2026-08-06 16:20)
+- [ ] Äpfel schneiden
 - [x] Äpfel aus dem Wasser holen %% fold %%
 - [ ] 30 min Gitarre spielen ~={MediumViolet}fraught=~ ~={DeepSkyBlue}mit Timer=~ %% fold %%
 	- [ ] intro lead mit slide %% fold %%
