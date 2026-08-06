@@ -170,6 +170,7 @@
 - [x] Flaschen spülen
 - [ ] warum ist Beton ein so schlechter Wärmeisolator?
 - [ ] Balkonpflanzen gießen 
+- [ ] <font color="#ff0000">test after shitti git work</font>
 - [x] Zähne putzen 
 - [x] mac switch between windows of the same app hotkey fixen
 - [x] mac order/placing of the screens
