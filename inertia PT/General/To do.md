@@ -137,9 +137,13 @@
 - [ ] Gesicht waschen
 - [ ] ce que/ce qui nochmal anschauen 
 - [ ] tasks aufräumen  
-- [ ] bier auf dem tisch weg wischen
+- [ ] bier auf dem tisch weg wischen 📅 2026-08-06 23:25
 - [ ] meditieren 
 - [ ] Zeug im Spülkorb wegräumen
+
+- [ ] duschen 📅 2026-08-07 07:00
+- [ ] Klamotten fürs Foto raussuchen 📅 2026-08-07 07:15
+
 
 - [ ] Tastatur wischen
 	- [ ] laptop
@@ -162,7 +166,7 @@
 	- [ ] Hotkey am Mac für Editing Toolbar: Change Font Color ⇔ wrap with shortcuts hotkey dafür verwenden
 	- [ ] hab ich am mac nen hotkey für Date und time?
 
-
+ %% fold %%
 - [ ] Schulportal Login
 
 
@@ -291,6 +295,11 @@
 - [x] Laptop auf den Tisch 
 
 
+- [ ] kleinen Drehstuhl
+	- [ ] Sitzteil zu Eltern mitnehmen 
+	- [ ] schweißen 
+	- [ ] Apfelschneider schweißen 
+
 - [x] Flaschen spülen
 - [ ] warum ist Beton ein so schlechter Wärmeisolator?
 - [ ] Krafttraining
@@ -304,12 +313,11 @@
 	- [ ] zusammenlegen  %% fold %%
 	- [ ] wegräumen 
 - [x] staubsaugen 
-- [ ] Äpfel schneiden
+- [ ] Äpfel schneiden %% fold %%
 - [x] Äpfel aus dem Wasser holen %% fold %%
 - [ ] 30 min Gitarre spielen ~={MediumViolet}fraught=~ ~={DeepSkyBlue}mit Timer=~ %% fold %%
 	- [ ] intro lead mit slide %% fold %%
 	- [ ] Stakkato 
-- [x] Bohnenessen essen
 - [ ] französisch Buch weiter lesen %% fold %%
 - [x] Küchenabfall wegbringen 
 - [x] Restmüll weg %% fold %%
@@ -322,7 +330,6 @@
 	- [x] aufhängen 
 	- [ ] abhängen 
 	- [ ] wegräumen 
-- [x] duschen
 - [x] rasieren 
 - [ ] wie nennt man das was ich an der Schläfe habe?
 	- [ ] welche weiteren Mittel gibt es
@@ -336,7 +343,7 @@
 - [x] Balkon aufräumen  %% fold %%
 - [x] Majoran schneiden  %% fold %%
 - [x] kleine braune weiß gepunktete Spinne bestimmen
-	- Weißpunkt-Fettspinne / Dreiecksfettspinne 
+	- Weißpunkt-Fettspinne / Dreiecksfettspinne  %% fold %%
 - [x] Pflanze beim majoran bestimmen  %% fold %%
 	- kleinblütiges Franzosenkraut 
 - [x] Dampfdruckkochtopf nochmal richtig spülen %% fold %%
