@@ -2197,6 +2197,16 @@ $ ssh sol
 on his remote computer. However, he still has to enter two passwords, first, for the jump host pollux, and, second, for his computer sol. */
 # git
 
+## if there was a wrong commit maybe due to being ahead mismatch
+
+### 1.  git revert commit
+
+
+
+## see difference
+
+
+
 ## restore a file
 ### git revert
 With `git revert` it is possible to revert / undo a whole git commit.
