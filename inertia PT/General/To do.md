@@ -154,6 +154,10 @@
 	- [ ] abhängen  %% fold %%
 	- [ ] wegräumen 
 
+- [ ] kurz Gitarre spielen 
+
+- [ ] alles vorbereiten dass ich
+
 - [ ] Bahnverbindung raus suchen 
 - [ ] ce que/ce qui nochmal anschauen 
 - [ ] wie funktioniert das mit #task richtig?
