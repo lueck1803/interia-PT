@@ -133,25 +133,25 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 
-Obsidian sync status 
+- [ ] Obsidian sync status 
 
-Reminder raus zumindest die notifications
+- [ ] Reminder raus zumindest die notifications
 
-Der sync des Kalenders funktioniert, wird sogar angezeigt. Das geht aber glaube ich über ics?
+- [ ] Der sync des Kalenders funktioniert, wird sogar angezeigt. Das geht aber glaube ich über ics?
 
 
-Zähne putzen 
+- [ ] Zähne putzen 
 
-Gut dass Nele nicht negativ reagiert hat, sondern meinte -> Ferien -> Handy weg 
+- Gut dass Nele nicht negativ reagiert hat, sondern meinte -> Ferien -> Handy weg 
 
-Will ich wirklich Denksport Physik promoten?
+- [ ] Will ich wirklich Denksport Physik promoten?
 
-Claudia fragen was sie von psycedellic /stoner rock hält 
+- [ ] Claudia fragen was sie von psycedellic /stoner rock hält 
 
-Von papa zeigen lassen wie man schuhe richtig pflegt 
+- [ ] Von papa zeigen lassen wie man schuhe richtig pflegt 
 
-Wie funktioniert das mit Tasks 
-Bzw den hash tags
+- [ ] Wie funktioniert das mit Tasks 
+- [ ] Bzw den hash tags
 
 Würstchen essen 
 
@@ -190,6 +190,9 @@ noch den kalender von lukasludwig hinzufügen
 - [ ] wie funktioniert das mit #task richtig?
 
 - [ ] calendar synce noch am pc raus nehmen
+
+- [ ] resumee von dem was ich jetzt über git gelernt habe machen....
+	- [ ] in notes schreiben
 
 - [ ] Schulportal ⟹ ersteinlog
 
