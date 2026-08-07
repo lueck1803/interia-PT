@@ -1746,9 +1746,23 @@ Jahrgangsteamsitzungen
 - montag werden sportkurse eingwählt
 
 
-#### Laborwoche - Richter
+#### Laborwoche - Nadine Richter
 - klassenlehrer bleiben in ihrem jahrgang
-- 
+- noch 7 wochen seit 2026-08-07 
+	- eine woche vor den herbstferien
+- Themen sind nicht festgeschrieben
+	- wiederbeleben
+	- erweitern
+
+#### Nutzungskonzept Schulportal
+- wichtige punkte
+	- Nutzungsumfrage
+	- 
+- mein unterricht
+	- pflichtfelder ~={Gold}gelber kasten=~ unten 
+		- 
+	- deadline - Ende der unterrichtswoche
+	- Vertretungsunterricht
 # Aufgaben-Ideen
 ## Mathe
 ### Prozentrechnung 
