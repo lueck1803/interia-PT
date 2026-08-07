@@ -2204,7 +2204,8 @@ on his remote computer. However, he still has to enter two passwords, first, for
 ```git
 git log -p <file> 
 ```
-#### 
+- results in `Commit
+#### create a branch of 
 
 ### 2.  git revert commit
 
