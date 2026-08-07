@@ -170,7 +170,7 @@
 - [ ] neue schicke Schuhe pflegen
 
 
-- oh wow Aufzug 
+- oh wow Aufzug im Keller ist leise 
 
 - [ ] Arthur schreiben ⟹ soll <font color="#92cddc">Vorschlag</font> für neues Projekt machen 
 
