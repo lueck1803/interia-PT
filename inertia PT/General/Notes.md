@@ -2360,6 +2360,17 @@ git push <remote_name> :<branch_name>
 which was added in [Git v1.5.0](https://github.com/gitster/git/blob/master/Documentation/RelNotes/1.5.0.txt) "to delete a remote branch or a tag."
 
 Starting with [Git v2.8.0](https://github.com/git/git/blob/master/Documentation/RelNotes/2.8.0.txt), you can also use `git push` with the `-d` option as an alias for `--delete`. Therefore, the version of Git you have installed will dictate whether you need to use the easier or harder syntax.
+
+# Fetch changes
+
+Finally, execute the following on other machines to propagate changes:
+
+```git
+# Fetch changes from all remotes and locally delete 
+# remote deleted branches/tags etc
+# --prune will do the job :-;
+git fetch --all --prune
+```
 ## .gitignore
 - Comment in `.gitignore` with # 
 - Ausnahmen mit `!`
