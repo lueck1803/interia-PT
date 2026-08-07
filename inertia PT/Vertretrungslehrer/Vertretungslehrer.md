@@ -1673,6 +1673,22 @@ Ich übernehme:
 - Hanno über nimmt Fachbereich GTA
 - careroom team startet ab der 2. Woche
 - rollsporthalle wird abgerissen
+- terminkalender Din A4
+	- nur noch über das Schulportal im Kalender ersichtlich
+
+#### Bericht der Stufenleitung
+##### 5er/6 Katrin
+- 4 Klassen 
+- Kassenstärke 22
+- Einschulungsfeier Dienstag
+- Mittwoch Donnerstag Freitag ~={RedRed}Einführung=~
+	- Bücher holen usw
+	- 2. woche normal unterricht
+	- 3. woche AGs
+	- notbetreuung anmeldung ska
+	- noch ein paar neue Schüler
+	- markt der möglichkeiten Donnerstag
+		- 
 # Aufgaben-Ideen
 ## Mathe
 ### Prozentrechnung 
