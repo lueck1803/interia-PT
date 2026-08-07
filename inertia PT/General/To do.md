@@ -197,11 +197,7 @@
 - [x] Gesicht waschen
 - [ ] ce que/ce qui nochmal anschauen 
 - [ ] tasks aufräumen  
-- [x] bier auf dem tisch weg wischen 📅 2026-08-06 23:25 ✅ 2026-08-06
 - [ ] meditieren 
-- [x] Device manager checken
-	- ⟹ wird <font color="#c00000">nix</font> angezeigt
-- [x] Zeug für Konferenz lesen 📅 2026-08-07 00:40 ✅ 2026-08-07
 
 - [x] #task <font color="#48d1cc">day planner</font> Beschreibung durchlesen 📅 2026-08-07 01:00
 	- habs mal am mac installiert und auch den calender eingetragen, weiß aber nicht, ob der gesynct hat. bisher erscheint nichts
