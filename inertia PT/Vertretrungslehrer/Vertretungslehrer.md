@@ -1877,6 +1877,11 @@ Jahrgangsteamsitzungen
 	- #task muss nadine noch 20€ geben
 	- harald hat kostenlose schwimmkurse an 6 schüler in den sommerferien gegeben
 - claudia
+	- bücher
+	- immer im Raum 1
+	- ~={RedRed}Bücher bei ihr holen =~
+		- [ ] physik
+		- [ ] mathe
 - harald
 	- ganze menge neue schüler
 	- ⤷ können sie schwimmen?
@@ -1884,7 +1889,14 @@ Jahrgangsteamsitzungen
 		- häcken machen
 		- mindest bronze schwimmzeichen erreichen
 	- ziel nichtschwimmer freie Schule
-		- ⤷ auszeichnung
+		- ⤷ auszeichnung vom dlrg
+	- katrin:
+		- steht bei den neuen jetzt schon in der akte
+
+- Michel Friedmann kommt zu besuch
+	- workshop mit 40 - 10. klässlern - 10 pro klasse
+	- lehrkräfte sind nicht erwünscht ⟹ schüler agieren dann anders
+	- gibt noch allgemeine infos
 # Aufgaben-Ideen
 ## Mathe
 ### Prozentrechnung 
