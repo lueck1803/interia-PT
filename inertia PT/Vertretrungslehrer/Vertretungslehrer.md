@@ -1670,7 +1670,9 @@ Ich übernehme:
 ### GK1
 - Handytaschen und ⟹ vertagt
 - neue Kollegen:
-	
+- Hanno über nimmt Fachbereich GTA
+- careroom team startet ab der 2. Woche
+- rollsporthalle wird abgerissen
 # Aufgaben-Ideen
 ## Mathe
 ### Prozentrechnung 
@@ -2154,5 +2156,4 @@ Deshalb ging die Sirene 3 mal!
 	- bei ihm liegt es schon stark am Umfeld, ich sehe bei ihm schon die Bestrebungen, dass er das eigentlich nicht möchte, aber er lässt sich hineinziehen, bricht selbst aber nicht aus diesem Kreislauf heraus 
 - wissam mutter 017632050239
 
-# <font color="#9bbb59">tester</font> 
-Test
+

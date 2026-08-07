@@ -155,6 +155,8 @@
 	- [x] laptop
 	- [x] PC
 
+- nochmal überlegen, ob ich den ~={MediumSpringGreen}reminder nutzen=~ möchte, die benachrichtigungen nerven / sind unangenehm
+
 - [ ] Zähne putzen 
 - [ ] Balkonpflanzen gießen 
 - [ ] Zeug im Spülkorb wegräumen 
