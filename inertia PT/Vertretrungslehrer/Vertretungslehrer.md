@@ -1864,9 +1864,27 @@ Jahrgangsteamsitzungen
 		- garten
 		- hundeschule
 		- rettungsstaffel
-		- 
+		- ~={Orchid}ihr kontakt zur Dore geben?=~
+	- kooperationen auf die ~={DeepSkyBlue}homepage=~
 - nadine
+	- verknügungskommite
+		- nathalie
+		- katarina
+		- maria
+		- claudia
+		- nadine
+	- einmal im Jahr 20€ eingesammelt
+	- #task muss nadine noch 20€ geben
+	- harald hat kostenlose schwimmkurse an 6 schüler in den sommerferien gegeben
 - claudia
+- harald
+	- ganze menge neue schüler
+	- ⤷ können sie schwimmen?
+		- Schwimmausweis zeigen lassen
+		- häcken machen
+		- mindest bronze schwimmzeichen erreichen
+	- ziel nichtschwimmer freie Schule
+		- ⤷ auszeichnung
 # Aufgaben-Ideen
 ## Mathe
 ### Prozentrechnung 
