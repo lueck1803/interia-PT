@@ -2216,7 +2216,7 @@ git log -p <file>
 git branch temp-branch <Commit-ID>~1
 ```
 
-### 2.  git revert commit
+### 2.  Opt 1: git revert commit
 
 With `git revert` it is possible to revert / undo a whole git commit.
 ```git
