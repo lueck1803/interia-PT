@@ -135,6 +135,9 @@
 
 - [ ] Obsidian sync status 
 
+
+- [ ] ganz cool dass das so mit den Bildschirmen funktioniert:
+
 - [ ] wo ist das Schüler cafe
 
 - [ ] vertretungslehrer aufräumen
