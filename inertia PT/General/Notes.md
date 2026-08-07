@@ -2214,13 +2214,18 @@ git revert <Commit-ID>
 This restores possible deleted lines in `main`.
 
 
-## show differences between ...
+## git diff
 
 
 ```git
 git diff [<other-branch> <commit> <file>]
 ```
 Show changes between the working tree and the index or a tree, changes between the index and a tree, changes between two trees, changes resulting from a merge, changes between two blob objects, or changes between two files on disk.
+
+```git
+git diff <commit-1> <commit-1>
+```
+
 
 ## restore a file
 ### git revert
@@ -2256,7 +2261,8 @@ git commit -m "Revert style.css to a1b2c3d"
 ```
 
 
-## git <commad 
+## refer to parent commit
+
 ## .gitignore
 - Comment in `.gitignore` with # 
 - Ausnahmen mit `!`
