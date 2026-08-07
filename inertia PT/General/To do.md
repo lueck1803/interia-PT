@@ -135,6 +135,10 @@
 
 - [ ] Obsidian sync status 
 
+- [ ] wo ist das Schüler cafe
+
+- [ ] vertretungslehrer aufräumen
+
 - [ ] Reminder raus zumindest die notifications
 
 - [ ] Der sync des Kalenders funktioniert, wird sogar angezeigt. Das geht aber glaube ich über ics?
