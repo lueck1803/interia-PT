@@ -230,8 +230,7 @@
 - [ ] Ticket für *my sleeping karma*
 	- [ ] ⤷ arthur bescheid geben
  %% fold %%
-- [ ] Schulportal Login %% fold %%
- %% fold %%
+- [ ] Schulportal Login <br> Jamil hat einen Reset 
  %% fold %%
 - [ ] Was nutze ich zum Kalender sync mit obsidian? %% fold %%
 	- <font color="#ff1493">Day Planner</font>??? %% fold %%
