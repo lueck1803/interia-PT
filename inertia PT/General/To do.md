@@ -142,12 +142,11 @@
 - [ ] vertretungslehrer aufräumen
 
 - [ ] Der sync des Kalenders funktioniert, wird sogar angezeigt. Das geht aber glaube ich über ics?
-	- [ ] am rechner auch 
+	- [ ] am rechner auch eingerichtet
+	- [ ] mal schauen wie es weiter geht
 
 
 - [ ] Zähne putzen 
-
-- Gut dass Nele nicht negativ reagiert hat, sondern meinte -> Ferien -> Handy weg 
 
 - [ ] Will ich wirklich Denksport Physik promoten?
 
@@ -158,21 +157,19 @@
 - [ ] Wie funktioniert das mit Tasks 
        Bzw den hash tags
 
-- [ ] Würstchen essen 
+- [x] Würstchen essen 
 
 - [ ] Schulportal 
 
 - [ ] Packen -> fahren 
 
-- [ ] Balkon gießen 
+- [x] Balkon gießen 
 
 - [ ] Ich behalte alles Zeug ⟹ Kosten zusammen rechnen 
 
 - [ ] Wichtig ist jetzt die Masterarbeit fertig zu machen 
 
-
 - [ ] Matheschulbuch einbinden
-
 
 - [ ] hot corners
 
@@ -181,24 +178,20 @@
 
 - [ ] eventuell andere dockingstation für mac kaufen bzw. die nehmen die ich momentan für den rechner verwende
 
-- [ ] google calendar + task sync definitiv raus, denn den kram will ich nicht drin haben, ist zu viel und zu viel durcheinander
+- [x] google calendar + task sync definitiv raus, denn den kram will ich nicht drin haben, ist zu viel und zu viel durcheinander
 
 - [ ] day planner scheint so ganz gut zu funktionieren
 
 - [ ] noch den kalender von lukasludwig hinzufügen
 
-- [ ] timeline unten nervt ⟹ raus
+- [x] timeline unten nervt ⟹ raus
 
 - [ ] wie funktioniert das mit #task richtig?
 
-- [ ] calendar synce noch am pc raus nehmen
+- [x] calendar synce noch am pc raus nehmen
 
 - [ ] resumee von dem was ich jetzt über git gelernt habe machen....
 	- [ ] in notes schreiben
-
-- [ ] Schulportal ⟹ ersteinlog
-
-- Der Kram der Konferenz wurde nicht gesynct
 
 - [x] Gesicht waschen
 - [ ] ce que/ce qui nochmal anschauen 
@@ -247,9 +240,9 @@
 
 - [ ] Arthur schreiben ⟹ soll <font color="#92cddc">Vorschlag</font> für neues Projekt machen 
 
-- [ ] zino ich möchte shin son hab kido machen 
-
-- [ ] images in Obsidian aufräumen
+- [ ] zino ich möchte shin son hab kido machen  %% fold %%
+ %% fold %%
+- [ ] images in Obsidian aufräumen %% fold %%
  %% fold %%
 - [ ] 60° Wäsche <font color="#92d050">2026-08-06</font> %% fold %%
 	- [ ] abhängen  %% fold %%
