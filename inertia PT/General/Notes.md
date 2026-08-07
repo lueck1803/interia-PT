@@ -2240,6 +2240,19 @@ For example the difference between the commit *id* `2fa3fd01`and its parent:
 git diff 2fa3fd01~1 2fa3fd01
 ```
 
+## reset
+
+
+```git
+git reset --soft HEAD~1
+```
+Reverts the very last commit but keeps the changes in the staging area.
+
+
+```git
+git reset --hard HEAD~1
+```
+Discards all changes from the last commit.
 ## restore a file
 ### git revert
 With `git revert` it is possible to revert / undo a whole git commit.
