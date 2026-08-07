@@ -1646,9 +1646,9 @@ Ich übernehme:
 ### Physik
 - Ansprechpartner / Kollegen der Jahrgänge
 	- 7er:
-		- oliver midel (mid)
+		- oliver middel (mid)
 	- 8er 
-		- wol
+		-  (wol)
 		- lae 
 	- 10er 
 		- Jamil Hirsch
