@@ -360,7 +360,7 @@ Tafelbild Überschrift **Zahlensysteme und Einheiten umrechnen**
 		- dabei Natürliche zahlen eine Farbe 
 		- Ganze zahlen eine Farbe
 		- rationale zahlen
-		- "zwischen" den rationalen zahlen liegen die irrationalen Zahlen. Da die rationalen Zahlen "dicht" in R liegen:
+		- "zwischen" den rationalen zahlen liegen die irrationalen Zahlen. Da die rationalen Zahlen "dicht" in R liegen: %% fold %%
 			- Die rationalen Zahlen liegen dicht auf der Zahlengerade, das heißt: Jede reelle Zahl (anschaulich: jeder Punkt auf der Zahlengerade) kann beliebig genau durch rationale Zahlen angenähert werden.
 ### knowledge base
 - was ist ein Bruch?
