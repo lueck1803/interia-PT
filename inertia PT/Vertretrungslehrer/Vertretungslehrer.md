@@ -1624,6 +1624,8 @@ Ich übernehme:
 [15.6., 14:48] Jamil Hirsch: Für das nächste Mal wäre es wichtig, dass du das schriftlich beantragst. Im Schulportal findest du das entsprechende Formular.
 
 # <font color="#00b050">WS 26/27</font>
+Ajanza
+
 ## Klassen die ich betreue:
 ### Gespräch mit jamil
 1. Energie und Leistung
@@ -1638,7 +1640,7 @@ Ich übernehme:
 - Ansprechpartner
 	- Lukas Kohlmeier (koh)
 	- lukas melcher (mel)
-	- einike (ein)
+	- einicke (ein)
 - 4 h/w
 	- 8a 
 	- 8b 
