@@ -2199,11 +2199,16 @@ on his remote computer. However, he still has to enter two passwords, first, for
 
 ## if there was a wrong commit maybe due to being ahead mismatch
 
-### Cherry-Pick the old Commit
+### *Opt 1:* 
+
+#### Opt 1: Cherry-Pick the Old Commit into `main`
 
 
+```git
+git cherry-pick <commit-ID>~1
+```
 
-### Revert the old Commit
+
 ### 1. Find the commit that you wan to revert
 
 ```git
@@ -2211,7 +2216,7 @@ git log -p <file>
 ```
 - results in `Commit-ID`
 
-### Opt 1: 
+
 ### 2.  *Opt 2:* git revert commit
  
 > [!tip] *optional:* create a branch of the parent commit-ID
