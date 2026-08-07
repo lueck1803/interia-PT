@@ -165,7 +165,9 @@
 - [ ] Schulgarten checken/gießen
 - [ ] Wegen Schul-ID Zettel unterschreiben lassen und abgeben? %% fold %%
 
-Arthur 
+- [ ] Arthur schreiben ⟹ soll <font color="#92cddc">Vorschlag</font> für neues Projekt machen 
+
+- [ ] zino ich möchte shin son hab kido machen 
 
 - [ ] images in Obsidian aufräumen
 
