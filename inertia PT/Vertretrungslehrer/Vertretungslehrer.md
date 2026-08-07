@@ -1797,9 +1797,14 @@ Jahrgangsteamsitzungen
 	- fach für jahrgang im sekretariat
 	- sekretariat archiviert das
 
-##### Terminierte Vorbereitungskonferenzen im Jahrgang
-- warum?
-	- bedarf - lehrkräfte die gem
+#### Terminierte Vorbereitungskonferenzen im Jahrgang
+- bedarf - lehrkräfte die gemeinsam eine lehrgruppe unterrichten sich über diese austauschen
+	- krankheiten und besonderheiten der schüler
+	- regeln und rituale in den klassen
+	- besondere aktivitäten
+	- ausflüge
+- arbeitspläne der fachschaft müssen erstellt werden / curricula ⟹ werden vom Schulamt geprüft
+- 
 # Aufgaben-Ideen
 ## Mathe
 ### Prozentrechnung 
