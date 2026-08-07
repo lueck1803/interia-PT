@@ -1840,8 +1840,33 @@ Jahrgangsteamsitzungen
 - ⤷ wird zur nächsten gesamtkonferenz vorgestellt
 	- ⤷ dort wird ein plan team gewählt
 
-#### 
+#### Verschiedenes
 - suspendierter Schüler hat Drohbriefe geschrieben und in den Gebäuden verteilt...
+- Gruppe für THA gegründet
+	- konzept entwickelt
+	- ⤷ dazu wird etwas herum geschickt
+	- ⤷ daürber wird in der nächsten GK abgestimmt
+- englisch 
+	- lehrwerksbegleitendes material ist online ~={RedRed}Nadine ist ansprechspartner=~
+	- westermann 
+		- online 
+		- einloggen 
+	- gibt auch was für französisch - da braucht man aber nen code
+- Hanno
+	- hat material was er über die Jahre gesammelt hat in einem karton mitgebracht
+	- steht auf nem Schrank
+	- #task ~={RedRed}nochmal nachfragen=~
+- nathalie
+	- holt experten an die Schule
+	- zum thema 
+		- tiere
+		- wildtiere
+		- garten
+		- hundeschule
+		- rettungsstaffel
+		- 
+- nadine
+- claudia
 # Aufgaben-Ideen
 ## Mathe
 ### Prozentrechnung 
