@@ -2225,8 +2225,9 @@ Show changes between the working tree and the index or a tree, changes between t
 For example the difference between `HEAD`and the last commit:
 
 ```git
-git diff 2fa3fd01~1 2fa3fd01
+git diff HEAD~1
 ```
+
 
 ```git
 git diff <commit-1> <commit-2>
