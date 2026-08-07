@@ -2199,15 +2199,24 @@ on his remote computer. However, he still has to enter two passwords, first, for
 
 ## if there was a wrong commit maybe due to being ahead mismatch
 
+### 1. Find the commit that you wan to revert
+
+```git
+git log -p <file> 
+```
+
 ### 1.  git revert commit
 
-
+With `git revert` it is possible to revert / undo a whole git commit.
+```git
+git revert <Commit-ID>
+```
 
 ## show differences between ...
 
 
 ```git
-git diff [<other-branch></other-branch> <commit></commit> <file></file>]
+git diff [<other-branch> <commit> <file>]
 ```
 Show changes between the working tree and the index or a tree, changes between the index and a tree, changes between two trees, changes resulting from a merge, changes between two blob objects, or changes between two files on disk.
 
@@ -2215,7 +2224,7 @@ Show changes between the working tree and the index or a tree, changes between t
 ### git revert
 With `git revert` it is possible to revert / undo a whole git commit.
 ```git
-git revert <Commit-ID></Commit-ID>
+git revert <Commit-ID>
 ```
 ### Reverting a File to a Previous Commit
 To revert a file to a specific version from a previous commit:
