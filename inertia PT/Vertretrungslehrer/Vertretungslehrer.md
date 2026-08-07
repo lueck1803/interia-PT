@@ -1822,6 +1822,11 @@ Jahrgangsteamsitzungen
 	- förderkonferenz 
 		- später 
 		- nicht doppelt?
+	- vorschlag arbeitszeit durch Pädagogischen Tag zurückzuholen
+- axel
+	- nur 1/3 der Arbeitszeit geht bei ihm für die unterrichtvorbereitung drauf
+	- der rest ist auch 
+	- eigentlich sollen für 
 # Aufgaben-Ideen
 ## Mathe
 ### Prozentrechnung 
