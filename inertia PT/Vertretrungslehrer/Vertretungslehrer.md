@@ -1637,8 +1637,8 @@ Ich übernehme:
 ### Mathe
 - Ansprechpartner
 	- Lukas Kohlmeier (koh)
-	- melcher(mel)
-	- (ein)
+	- lukas melcher (mel)
+	- einike (ein)
 - 4 h/w
 	- 8a 
 	- 8b 
@@ -1646,7 +1646,7 @@ Ich übernehme:
 ### Physik
 - Ansprechpartner / Kollegen der Jahrgänge
 	- 7er:
-		- mid
+		- oliver midel (mid)
 	- 8er 
 		- wol
 		- lae 
