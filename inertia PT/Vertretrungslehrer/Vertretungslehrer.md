@@ -1801,15 +1801,25 @@ Jahrgangsteamsitzungen
 - bedarf - lehrkräfte die gemeinsam eine lehrgruppe unterrichten sich über diese austauschen
 	- krankheiten und besonderheiten der schüler
 	- regeln und rituale in den klassen
+		- wer ist L - Schüler
+		- diabetes
+		- autismus
+		- adhs
 	- besondere aktivitäten
 	- ausflüge
-	- wer ist L - Schüler
 	- alle auf gleichen Wissenstand
 	- gibt es Schüler die auf keinen fall nebeneinander sitzen sollen
 	- bei Zeugniskonferenz immer viel Gesprächsbedarf
+	- infos über die schüler, die so nicht im schulportal stehen
+	- mal alle beim Start mit vorhandenen Infos versorgen
 - arbeitspläne / jahrespläne der fachschaft müssen erstellt werden / curricula ⟹ werden vom Schulamt geprüft
 	- war ursprünglich nicht gedacht dass das teil der veranstaltung ist
-- 
+- Änderungs-Vorschläge
+	- vielleicht eher klassenweise?
+	- später im jahr
+	- förderkonferenz 
+		- später 
+		- nicht doppelt?
 # Aufgaben-Ideen
 ## Mathe
 ### Prozentrechnung 
