@@ -159,7 +159,7 @@
 
 - [x] Würstchen essen 
 
-- [ ] Schulportal 
+- [x] Schulportal 
 
 - [ ] Packen -> fahren 
 
@@ -185,7 +185,7 @@
 - [ ] noch den kalender von lukasludwig hinzufügen
 
 - [x] timeline unten nervt ⟹ raus
-
+- [ ] 
 - [ ] wie funktioniert das mit #task richtig?
 
 - [x] calendar synce noch am pc raus nehmen
@@ -239,7 +239,7 @@
 - oh wow Aufzug im Keller ist leise 
 
 - [ ] Arthur schreiben ⟹ soll <font color="#92cddc">Vorschlag</font> für neues Projekt machen 
-
+ %% fold %%
 - [ ] zino ich möchte shin son hab kido machen  %% fold %%
  %% fold %%
 - [ ] images in Obsidian aufräumen %% fold %%
