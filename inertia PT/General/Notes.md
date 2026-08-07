@@ -2211,7 +2211,7 @@ With `git revert` it is possible to revert / undo a whole git commit.
 ```git
 git revert <Commit-ID>
 ```
-
+This restores possible deleted lines in `main`.
 ## show differences between ...
 
 
