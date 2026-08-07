@@ -2256,7 +2256,7 @@ git commit -m "Revert style.css to a1b2c3d"
 ```
 
 
-## git commad 
+## git <commad 
 ## .gitignore
 - Comment in `.gitignore` with # 
 - Ausnahmen mit `!`
