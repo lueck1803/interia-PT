@@ -1,3 +1,5 @@
+# Internet 
+- [ ] Usb -l⇔ Usb-c Kabel (2m)
 # Aldi
 ## Jetzt
 - Einkaufswagen 
