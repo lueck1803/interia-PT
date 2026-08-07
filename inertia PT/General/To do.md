@@ -135,7 +135,7 @@
 
 - [ ] Schulportal ⟹ ersteinlog
 
-Der Kram der
+- Der Kram der Konferenz wurde nicht gesynct
 
 - [x] Gesicht waschen
 - [ ] ce que/ce qui nochmal anschauen 
