@@ -156,6 +156,8 @@
 
 - [ ] kurz Gitarre spielen 
 - [ ] neuen Stunden Plan in Kalender eintragen 
+- [ ] Unterricht Montag vorbereiten 
+	- [ ] Plan 
 
 - [ ] alles vorbereiten dass ich morgen fahren kann
 
