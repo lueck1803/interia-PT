@@ -1649,7 +1649,7 @@ Ich übernehme:
 		- oliver middel (mid)
 	- 8er 
 		-  (wol)
-		- lae 
+		- anna lauer lae 
 	- 10er 
 		- Jamil Hirsch
 - Stunden pro Woche - Klassen 
