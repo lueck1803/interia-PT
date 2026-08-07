@@ -165,6 +165,8 @@
 - [ ] Schulgarten checken/gießen
 - [ ] Wegen Schul-ID Zettel unterschreiben lassen und abgeben? %% fold %%
 
+Arthur 
+
 - [ ] images in Obsidian aufräumen
 
 - [ ] 60° Wäsche <font color="#92d050">2026-08-06</font>
@@ -197,9 +199,14 @@
 		- [ ] App checken
 		- [ ] Muss ich neue Angaben machen?
 
-- [ ] 30 min Gitarre spielen ~={MediumViolet}fraught=~ ~={DeepSkyBlue}mit Timer=~
-	- [ ] intro lead mit slide %% fold %%
-	- [ ] Stakkato 
+- [ ] 30 min Gitarre spielen 
+	- [ ] ~={MediumViolet}fraught=~ ~={DeepSkyBlue}mit Timer=~
+		- [ ] intro lead mit slide %% fold %%
+	- [ ] ~={DeepSkyBlue} Dream and the waking=~ <font color="#ff0000">im stehen</font>
+		- [ ] Stakkato 
+		- [ ] intro lead
+		- [ ] Melodie 
+		- [ ] Tremolo Picking 
 
 - [ ] zu den Eltern fahren 📅 2026-08-07 14:00 %% fold %%
 	- [ ] Stuhloberteil %% fold %%
