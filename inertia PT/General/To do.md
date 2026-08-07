@@ -133,7 +133,7 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 
-- [ ] test branches löschen
+- [x] test branches löschen
 
 - [ ] Bahnverbindung raus suchen 
 
