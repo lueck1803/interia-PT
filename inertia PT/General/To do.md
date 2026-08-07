@@ -155,8 +155,9 @@
 	- [ ] wegräumen 
 
 - [ ] kurz Gitarre spielen 
+- [ ] neuen Stunden Plan in Kalender eintragen 
 
-- [ ] alles vorbereiten dass ich
+- [ ] alles vorbereiten dass ich morgen fahren kann
 
 - [ ] Bahnverbindung raus suchen 
 - [ ] ce que/ce qui nochmal anschauen 
