@@ -165,6 +165,8 @@
 - [ ] Schulgarten checken/gießen
 - [ ] Wegen Schul-ID Zettel unterschreiben lassen und abgeben? %% fold %%
 
+- [ ] reminder gibt's ne Einstellung für mobile die blockiert ?
+
 - [ ] Arthur schreiben ⟹ soll <font color="#92cddc">Vorschlag</font> für neues Projekt machen 
 
 - [ ] zino ich möchte shin son hab kido machen 
