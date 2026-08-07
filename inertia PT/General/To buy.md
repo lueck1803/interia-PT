@@ -96,6 +96,8 @@
 
 # Kleidung 
 - [ ] Kurzarm Hemden 
+	- [ ] im legeren vintage Style 
+	- [ ] bzw wie 
 # non food
 - [ ] kleinen Schneebesen 
 - [ ] Plastik Plättchen zum tür öffnen -> pet Flasche 
