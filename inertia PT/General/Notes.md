@@ -2223,7 +2223,7 @@ git diff [<other-branch> <commit> <file>]
 Show changes between the working tree and the index or a tree, changes between the index and a tree, changes between two trees, changes resulting from a merge, changes between two blob objects, or changes between two files on disk.
 
 ```git
-git diff <commit-1> <commit-1>
+git diff <commit-1> <commit-2>
 ```
 
 
