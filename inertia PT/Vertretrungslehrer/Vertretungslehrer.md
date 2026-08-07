@@ -1825,8 +1825,17 @@ Jahrgangsteamsitzungen
 	- vorschlag arbeitszeit durch Pädagogischen Tag zurückzuholen
 - axel
 	- nur 1/3 der Arbeitszeit geht bei ihm für die unterrichtvorbereitung drauf
-	- der rest ist auch 
-	- eigentlich sollen für 
+	- arbeitgeber hat die "KO"-Stunden aus der Arbeitszeit gestrichten
+	- ⤷ die zeit ist dem Dienstherren wohl nichts wert
+	- eigentlich sollen für alle Schüler förderpläne geschrieben werden
+- alex siede
+	- in form eines Studientags zu gestalten
+	- kleines Team bilden, was einen solchen Studientag vorbereitet
+	- verfügbares Kontingent
+		- 2 pädagogische Tage 
+		- ein Studientag
+- soll erstmal etwas von der Schulleitung ausgearbeitet werden, was 
+	- 
 # Aufgaben-Ideen
 ## Mathe
 ### Prozentrechnung 
