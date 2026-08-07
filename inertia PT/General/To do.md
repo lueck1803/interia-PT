@@ -157,7 +157,18 @@
 - [ ] kurz Gitarre spielen 
 - [ ] neuen Stunden Plan in Kalender eintragen 
 - [ ] Unterricht Montag vorbereiten 
-	- [ ] Plan 
+	- [ ] Plan bis zur ersten Klausur vorbereiten das den Leuten zeigen 
+		- [ ] was wird erwartet bzw was ist der Plan 
+	- [ ] Vorstellungsrunde 
+		- [ ] 3rsem
+		- [ ] jeder soll mal etwas über sich erzählen (15 min Vorbereitungszeit)
+			- [ ] seine Einstellung zum Unterrichtsfach 
+				- [ ] was bedeutet es für einen
+				- [ ] was ist die Gesellschaftliche Bedeutung 
+				- [ ] wie ist es mit anderen Fächern verknüpft 
+			- [ ] ganz ehrlich: Schwächen und Stärken 
+			- [ ] was nehmen sie sich konkret für das nächste Schuljahr vor?
+			- [ ] 
 
 - [ ] alles vorbereiten dass ich morgen fahren kann
 
