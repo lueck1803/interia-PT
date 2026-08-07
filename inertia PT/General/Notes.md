@@ -2199,7 +2199,7 @@ on his remote computer. However, he still has to enter two passwords, first, for
 
 ## if there was a wrong commit maybe due to being ahead mismatch
 
-### *Opt 1:* 
+### *Opt 1:* Cherry-Pick the Old Commit
 #### 1. Find the commit that you wan to cherry pick
 
 ```git
@@ -2212,26 +2212,27 @@ git log -p <file>
 ```git
 git cherry-pick <commit-ID>
 ```
-**Resolve any conflicts** (if the cherry-pick fails due to conflicts).
+This applies the changes from that commit to `main`
+#### 3. Resolve any conflicts
+if the cherry-pick fails due to conflicts
 
-
-### 1. Find the commit that you wan to revert
+### *Opt 2:* Revert the wrong commit 
+#### 1. Find the commit that you wan to revert
 
 ```git
 git log -p <file> 
 ```
 - results in `Commit-ID`
 
+*optional:* create a branch of the parent commit-ID> 
+```git
+ git branch temp-branch <Commit-ID>~1
+  ```
+> 
 
-### 2.  *Opt 2:* git revert commit
+
+### 2.   revert commit
  
-> [!tip] *optional:* create a branch of the parent commit-ID
-> 
-> ```git
-> git branch temp-branch <Commit-ID>~1
-> ```
-> 
-
 #### 1.  git revert commit
 With `git revert` it is possible to revert / undo a whole git commit.
 ```git
