@@ -1744,6 +1744,11 @@ Jahrgangsteamsitzungen
 	- grobe themen eingeteilt
 	- pro klasse max 2 holz, 2 textil, 2 küche
 - montag werden sportkurse eingwählt
+
+
+#### Laborwoche - Richter
+- klassenlehrer bleiben in ihrem jahrgang
+- 
 # Aufgaben-Ideen
 ## Mathe
 ### Prozentrechnung 
