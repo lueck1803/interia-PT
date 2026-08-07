@@ -133,6 +133,11 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 
+- [ ] am PC machen:
+	1. Install the BRAT plugin ([GitHub - TfTHacker/obsidian42-brat: BRAT - Beta Reviewer's Auto-update Tool for Obsidian.](https://github.com/TfTHacker/obsidian42-brat))
+	2. Within BRAT settings you can add a plugin with “ibash/obsidian-new-window” to install my plugin
+	3. Then Cmd-P → “New Window” to get new windows
+
 - [ ] Bahnverbindung raus suchen 
 
 - [ ] ganz cool dass das so mit den Bildschirmen funktioniert:
@@ -228,8 +233,8 @@
 - [x] Wegen Schul-ID Zettel unterschreiben lassen und abgeben? %% fold %%
 
 - [ ] neue schicke Schuhe pflegen
-
-
+ %% fold %%
+ %% fold %%
 - oh wow Aufzug im Keller ist leise  %% fold %%
  %% fold %%
 - [ ] Arthur schreiben ⟹ soll <font color="#92cddc">Vorschlag</font> für neues Projekt machen  %% fold %%
