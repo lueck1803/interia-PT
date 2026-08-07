@@ -133,6 +133,7 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 
+- [ ] Bahnverbindung raus suchen 
 
 - [ ] ganz cool dass das so mit den Bildschirmen funktioniert:
 	![[../../Pasted image 20260807165533.png]]
@@ -180,15 +181,13 @@
 
 - [x] google calendar + task sync definitiv raus, denn den kram will ich nicht drin haben, ist zu viel und zu viel durcheinander
 
-- [ ] day planner scheint so ganz gut zu funktionieren
 
 - [ ] noch den kalender von lukasludwig hinzufügen
 
 - [x] timeline unten nervt ⟹ raus
-- [ ] 
+
 - [ ] wie funktioniert das mit #task richtig?
 
-- [x] calendar synce noch am pc raus nehmen
 
 - [ ] resumee von dem was ich jetzt über git gelernt habe machen....
 	- [ ] in notes schreiben
@@ -207,38 +206,33 @@
 	- naja irgendwie strange
 
 - [x] Termine für die nächste Woche erstellen 
-
-- [x] Bahnverbindung raus suchen 
+	- ⤷ ist ja jetzt gestrichen
 
 
 - [x] Tastatur wischen
 	- [x] laptop
 	- [x] PC
 
-- nochmal überlegen, ob ich den ~={MediumSpringGreen}reminder nutzen=~ möchte, die benachrichtigungen nerven / sind unangenehm
-
 - ~={MediumViolet}day planner ?=~
 	- sync mit kalender hat jetzt offenbar funktioniert
 	- ![[../../Pasted image 20260807113817.png]]
 
 - [ ] Zähne putzen 
-- [ ] <font color="#ff0000">Balkonpflanzen gießen </font>
-- [ ] Zeug im Spülkorb wegräumen 
+- [x] <font color="#ff0000">Balkonpflanzen gießen </font>
+- [x] Zeug im Spülkorb wegräumen 
 - [ ] Spülmaschine Graphit-öl ölen
-- [ ] graue Decke in Wäsche 
-- [ ] duschen 📅 2026-08-07 07:00
-- [ ] Klamotten fürs Foto raussuchen 📅 2026-08-07 07:15
+- [x] graue Decke in Wäsche 
+- [x] duschen 📅 2026-08-07 07:00
+- [x] Klamotten fürs Foto raussuchen 📅 2026-08-07 07:15
 - [ ] Schulgarten checken/gießen
-- [ ] Wegen Schul-ID Zettel unterschreiben lassen und abgeben? %% fold %%
-
-- [ ] reminder gibt's ne Einstellung für mobile die blockiert ?
+- [x] Wegen Schul-ID Zettel unterschreiben lassen und abgeben? %% fold %%
 
 - [ ] neue schicke Schuhe pflegen
 
 
-- oh wow Aufzug im Keller ist leise 
-
-- [ ] Arthur schreiben ⟹ soll <font color="#92cddc">Vorschlag</font> für neues Projekt machen 
+- oh wow Aufzug im Keller ist leise  %% fold %%
+ %% fold %%
+- [ ] Arthur schreiben ⟹ soll <font color="#92cddc">Vorschlag</font> für neues Projekt machen  %% fold %%
  %% fold %%
 - [ ] zino ich möchte shin son hab kido machen  %% fold %%
  %% fold %%
