@@ -151,39 +151,36 @@
 - [ ] Von papa zeigen lassen wie man schuhe richtig pflegt 
 
 - [ ] Wie funktioniert das mit Tasks 
-- [ ] Bzw den hash tags
+       Bzw den hash tags
 
-Würstchen essen 
+- [ ] Würstchen essen 
 
-Schulportal 
+- [ ] Schulportal 
 
-Packen -> fahren 
+- [ ] Packen -> fahren 
 
-Balkon gießen 
+- [ ] Balkon gießen 
 
-Ich behalte alles Zeug 
-Kosten zusammen rechnen 
+- [ ] Ich behalte alles Zeug ⟹ Kosten zusammen rechnen 
 
-Wichtig ist jetzt die Masterarbeit fertig zu machen 
-
-
-Matheschulbuch einbinden
+- [ ] Wichtig ist jetzt die Masterarbeit fertig zu machen 
 
 
-hot corners
+- [ ] Matheschulbuch einbinden
 
-separate bildschirme mac - mission control - wie funktioniert das richtig
 
-auf version zurücksetzen vertretungslehrer wie gehts einfach?
-handy?
+- [ ] hot corners
 
-eventuell andere dockingstation für mac kaufen bzw. die nehmen die ich momentan für den rechner verwende
+- [ ] separate bildschirme mac - mission control - wie funktioniert das richtig
 
-google calendar + task sync definitiv raus, denn den kram will ich nicht drin haben, ist zu viel und zu viel durcheinander
 
-day planner scheint so ganz gut zu funktionieren
+- [ ] eventuell andere dockingstation für mac kaufen bzw. die nehmen die ich momentan für den rechner verwende
 
-noch den kalender von lukasludwig hinzufügen
+- [ ] google calendar + task sync definitiv raus, denn den kram will ich nicht drin haben, ist zu viel und zu viel durcheinander
+
+- [ ] day planner scheint so ganz gut zu funktionieren
+
+- [ ] noch den kalender von lukasludwig hinzufügen
 
 - [ ] timeline unten nervt ⟹ raus
 
@@ -252,7 +249,7 @@ noch den kalender von lukasludwig hinzufügen
 - [ ] 60° Wäsche <font color="#92d050">2026-08-06</font>
 	- [ ] abhängen  %% fold %%
 	- [ ] zusammenlegen  %% fold %%
-	- [ ] wegräumen 
+	- [ ] wegräumen  %% fold %%
  %% fold %%
 - [ ] helle Wäsche <font color="#ff6e6e">2026-08-07</font> %% fold %%
 	- [x] anstellen %% fold %%
