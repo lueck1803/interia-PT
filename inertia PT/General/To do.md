@@ -143,10 +143,6 @@
 
 - [ ] vertretungslehrer aufräumen
 
-- [x] day planner
-	- [x] lueck.walter@gmail.com
-	- [x] https://calendar.google.com/calendar/ical/lueck.walter%40gmail.com/private-9f0414cdde745dd0c8191348d40c3fed/basic.ics
-
 - [ ] Reminder raus zumindest die notifications
 
 - [ ] Der sync des Kalenders funktioniert, wird sogar angezeigt. Das geht aber glaube ich über ics?
