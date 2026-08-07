@@ -144,7 +144,7 @@
 
 - [ ] day planner
 	- [ ] https://calendar.google.com/calendar/ical/lueck.walter%40gmail.com/private-9f0414cdde745dd0c8191348d40c3fed/basic.ics
-	- [ ] 
+	- [ ] lueck.walter@gmail.com
 
 - [ ] Reminder raus zumindest die notifications
 
