@@ -2204,6 +2204,7 @@ on his remote computer. However, he still has to enter two passwords, first, for
 ```git
 git log -p <file> 
 ```
+#### 
 
 ### 2.  git revert commit
 
