@@ -132,13 +132,14 @@
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
+- [x] Balkonpflanzen gießen  %% fold %%
 - [ ] Zähne putzen 
 - [ ] Schulgarten checken/gießen %% fold %%
 - [ ] Duolingo %% fold %%
 - [ ] Würstchen essen 
 - [ ] Bier trinken 
 - [ ] Kleidung auf Sofa wegräumen 
-- [ ] Krafttraining 
+- [x] Krafttraining 
 - [ ] 60° Wäsche <font color="#92d050">2026-08-06</font>
 	- [ ] abhängen  %% fold %%
 	- [ ] zusammenlegen  %% fold %%
@@ -146,7 +147,7 @@
  %% fold %%
 - [ ] helle Wäsche <font color="#ff6e6e">2026-08-07</font>
 	- [x] anstellen %% fold %%
-	- [x] schleudern  %% fold %%
+	- [x] schleudern %% fold %%
 		- [x] vorher riechen ob zu viel Waschpulver  %% fold %%
 		- ⤷ nochmal anstellen ⟹roch voll OK  %% fold %%
 	- [x] aufhängen 
@@ -155,6 +156,7 @@
 
 - [ ] Bahnverbindung raus suchen 
 - [ ] ce que/ce qui nochmal anschauen 
+- [ ] wie funktioniert das mit #task richtig?
 
 
 - [ ] ganz cool dass das so mit den Bildschirmen funktioniert:
@@ -200,7 +202,6 @@
 - [ ] noch den kalender von lukasludwig hinzufügen
 
 
-- [ ] wie funktioniert das mit #task richtig?
 
 
 - [x] Gesicht waschen
@@ -212,9 +213,7 @@
 	- [x] PC
 
  %% fold %%
-- [x] Balkonpflanzen gießen  %% fold %%
-- [x] Zeug im Spülkorb wegräumen  %% fold %%
-- [ ] Spülmaschine Graphit-öl ölen %% fold %%
+- [x] Spülmaschine Graphit-öl ölen %% fold %%
 - [ ] neue schicke Schuhe pflegen %% fold %%
  %% fold %%
  %% fold %%
