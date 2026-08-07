@@ -137,6 +137,7 @@
 
 
 - [ ] ganz cool dass das so mit den Bildschirmen funktioniert:
+	![[../../Pasted image 20260807165533.png]]
 
 - [ ] wo ist das Schüler cafe
 
