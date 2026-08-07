@@ -137,8 +137,8 @@
 - [ ] Zähne putzen 
 - [x] Schulgarten checken/gießen %% fold %%
 - [ ] Duolingo %% fold %%
-- [ ] Würstchen essen 
-- [ ] Bier trinken 
+- [x] Würstchen essen 
+- [x] Bier trinken 
 - [ ] Kleidung auf Sofa wegräumen 
 - [x] Krafttraining 
 - [ ] 60° Wäsche <font color="#92d050">2026-08-06</font>
@@ -155,8 +155,7 @@
 	- [ ] abhängen  %% fold %%
 	- [ ] wegräumen 
 
-- [ ] kurz Gitarre spielen 
-- [ ] neuen Stunden Plan in Kalender eintragen 
+- [ ] neuen Stunden Plan in Kalender eintragen  %% fold %%
 - [ ] Unterricht Montag vorbereiten  %% fold %%
 	- [ ] Plan bis zur ersten Klausur vorbereiten das den Leuten zeigen 
 		- [ ] was wird erwartet bzw was ist der Plan 
@@ -188,13 +187,12 @@
 			- [ ] was nehmen sie sich konkret für das nächste Schuljahr vor?
 			- [ ] was erwarten sie von mir
 			- [ ] 
-
+- [ ] ⤷ins Mathebuch schauen
 - [ ] alles vorbereiten dass ich morgen fahren kann
 
-- [ ] Bahnverbindung raus suchen 
+- [x] Bahnverbindung raus suchen 
 - [ ] ce que/ce qui nochmal anschauen 
 - [ ] wie funktioniert das mit #task richtig?
-
 
 - [ ] wo ist das Schüler cafe
 
@@ -205,7 +203,6 @@
 	- [ ] mal schauen wie es weiter geht
 
 
-
 - [ ] Will ich wirklich Denksport Physik promoten?
 
 - [ ] Claudia fragen was sie von psycedellic /stoner rock hält 
@@ -214,7 +211,6 @@
 
 - [ ] Wie funktioniert das mit Tasks 
        Bzw den hash tags
-
 
 
 - [ ] Packen -> fahren 
