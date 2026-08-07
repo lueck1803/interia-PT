@@ -132,10 +132,16 @@
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
-
-- [x] test branches löschen
+- [ ] Schulgarten checken/gießen %% fold %%
+- [ ] Zähne putzen 
+- [ ] Duolingo %% fold %%
+- [ ] Würstchen essen 
+- [ ] Bier trinken 
+- [ ] kleid
 
 - [ ] Bahnverbindung raus suchen 
+- [ ] ce que/ce qui nochmal anschauen 
+
 
 - [ ] ganz cool dass das so mit den Bildschirmen funktioniert:
 	![[../../Pasted image 20260807165533.png]]
@@ -149,7 +155,6 @@
 	- [ ] mal schauen wie es weiter geht
 
 
-- [ ] Zähne putzen 
 
 - [ ] Will ich wirklich Denksport Physik promoten?
 
@@ -160,13 +165,9 @@
 - [ ] Wie funktioniert das mit Tasks 
        Bzw den hash tags
 
-- [x] Würstchen essen 
 
-- [x] Schulportal 
 
 - [ ] Packen -> fahren 
-
-- [x] Balkon gießen 
 
 - [ ] Ich behalte alles Zeug ⟹ Kosten zusammen rechnen 
 
@@ -181,30 +182,18 @@
 
 - [ ] eventuell andere dockingstation für mac kaufen bzw. die nehmen die ich momentan für den rechner verwende
 
-- [x] google calendar + task sync definitiv raus, denn den kram will ich nicht drin haben, ist zu viel und zu viel durcheinander
-
 
 - [ ] noch den kalender von lukasludwig hinzufügen
 
-- [x] timeline unten nervt ⟹ raus
 
 - [ ] wie funktioniert das mit #task richtig?
 
 
-- [x] resumee von dem was ich jetzt über git gelernt habe machen....
-      ⤷ in notes schreiben
-
 - [x] Gesicht waschen
-- [ ] ce que/ce qui nochmal anschauen 
 - [ ] tasks aufräumen  
 - [ ] meditieren 
 
-- [x] #task <font color="#48d1cc">day planner</font> Beschreibung durchlesen 📅 2026-08-07 01:00
-	- habs mal am mac installiert und auch den calender eingetragen, weiß aber nicht, ob der gesynct hat. bisher erscheint nichts
-	- naja irgendwie strange
 
-- [x] Termine für die nächste Woche erstellen 
-	- ⤷ ist ja jetzt gestrichen
 
 
 - [x] Tastatur wischen
@@ -215,17 +204,10 @@
 	- sync mit kalender hat jetzt offenbar funktioniert
 	- ![[../../Pasted image 20260807113817.png]]
 
-- [ ] Zähne putzen 
-- [x] <font color="#ff0000">Balkonpflanzen gießen </font>
-- [x] Zeug im Spülkorb wegräumen 
-- [ ] Spülmaschine Graphit-öl ölen
-- [x] graue Decke in Wäsche  %% fold %%
-- [x] duschen 📅 2026-08-07 07:00 %% fold %%
-- [x] Klamotten fürs Foto raussuchen 📅 2026-08-07 07:15
-- [ ] Schulgarten checken/gießen
-- [x] Wegen Schul-ID Zettel unterschreiben lassen und abgeben? %% fold %%
-
-- [ ] neue schicke Schuhe pflegen
+- [x] Balkonpflanzen gießen 
+- [x] Zeug im Spülkorb wegräumen  %% fold %%
+- [ ] Spülmaschine Graphit-öl ölen %% fold %%
+- [ ] neue schicke Schuhe pflegen %% fold %%
  %% fold %%
  %% fold %%
 - oh wow Aufzug im Keller ist leise  %% fold %%
@@ -275,7 +257,7 @@
 		- [ ] Melodie 
 		- [ ] Tremolo Picking 
 
-- [x] zu den Eltern fahren 📅 2026-08-07 ✅ 2026-08-07 %% fold %%
+- [ ] zu den Eltern fahren %% fold %%
 	- [ ] Stuhloberteil %% fold %%
 	- [ ] Sonnenbrille vom Papa %% fold %%
 	- [ ] Apfelschneider
@@ -290,30 +272,8 @@
 - [ ] mich um den pc kümmern
 
 
-- [x] obsidian kram wieder installieren  %% fold %%
-	- [x] <font color="#ff1493">Day Planner</font>???
-		- [x] pc
-		- [x] mac
-		- [x] handy
-	- [x] tasks
-		- [x] mac
-		- [x] handy
-	- [x] reminder	(einstellungen abgleichen)
-		- [x] mac
-		- [x] handy
-	- [x] Google Calendar and Tasks Sync
-		- [x] pc zeug einstellen
-		- [x] mac
-		- [x] handy
-	- [x] Hotkey am Mac für Editing Toolbar: Change Font Color ⇔ wrap with shortcuts hotkey dafür verwenden
-	- [x] hab ich am mac nen hotkey für Date und time?
-
 - [ ] Ticket für *my sleeping karma*
 	- [ ] ⤷ arthur bescheid geben
- %% fold %%
-- [x] Schulportal Login 
-	- ⤷Jamil hat einen <font color="#ff0000">Reset</font> gemacht 
-	- [x] <font color="#ff69b4">Fach checken</font> (@2026-08-07 09:30)
  %% fold %%
 - [ ] Wie nutze ich zum Kalender sync mit obsidian? %% fold %%
 	- <font color="#ff1493">Day Planner</font>??? %% fold %%
@@ -368,89 +328,16 @@
 			- [ ] möglichst schnell in Tätigkeit kommen 
 		- [ ] Checkliste/was muss ich wissen und wo kann ich es nachlesen bis zur nächsten Klausur erstellen 
 		- [ ] Regeln für den Unterricht klar überlegen 
-- [ ] wie lange geht die Konferenz am Freitag? <font color="#7cfc00">~12 uhr</font> %% fold %%
-	- [ ] Bahnverbindung zu den Eltern heraussuchen  %% fold %%
-	- [ ] in den Kalender eingetragen 
-	- [ ] Eltern informieren 
-	- [ ] dran denken mit zu nehmen:
-		- [ ] Apfelschneider 
-		- [ ] Sitz vom kleinen Drehstuhl 
-- [x] email Gesamtkonferenz %% fold %%
-	- Liebe Kolleginnen und Kollegen,
-
-		hiermit lade ich euch herzlich zur ersten Gesamtkonferenz (GK1) des Schuljahres 26/27 ein.
-		
-		Die Konferenz findet am Freitag, den 07.08.26, um 10 Uhr in der Mensa statt. Die vorläufige Tagesordnung findet ihr im Anhang.
-		
-		Bereits ab 9:00 Uhr bitten wir euch, vor Ort zu sein, da vor der Konferenz unser Fototermin stattfindet. Es werden sowohl Einzelfotos als auch ein Gruppenfoto aufgenommen. Wir freuen uns daher über eine möglichst vollständige Teilnahme.
-		
-		An alle Klassenlehrkräfte:
-		Im Besprechungsraum liegen ab Mittwoch, den 05.08.26, die Schulplaner für die Jahrgänge 5-8 sowie die Entschuldigungshefte für die Jahrgänge 9-10 bereit. Bitte holt diese möglichst noch in den Ferien für eure Klasse ab und bringt sie in euer Klassenzimmer.
-		
-		Wir wünschen euch weiterhin erholsame Ferien und freuen uns auf ein gesundes Wiedersehen.
-- [x] Stundenplan für nächstes Jahr? In welchen Jahrgängen habe ich Unterricht: %% fold %%
-	- Liebe Kolleginnen und Kollegen,
-
-		zum neuen Schuljahr führen wir Jahrgangsteamsitzungen ein. Diese sollen die Absprachen innerhalb der Jahrgänge erleichtern, die Kommunikation stärken und insbesondere den Austausch mit unseren neuen Kolleginnen und Kollegen fördern. %% fold %%
-		
-		Die Teilnahme an den Jahrgangsteamsitzungen ist für alle Lehrkräfte verpflichtend, die im jeweiligen Jahrgang unterrichten.
-		
-		Die ersten Termine finden jeweils um 13:45 Uhr im Lehrerzimmer statt
-		
-		- <font color="#ffd700">Dienstag, 11.08.26 - Jahrgang 10</font>
-		- Mittwoch, 12.08.2026 - Jahrgang 9
-		- <font color="#ffd700">Donnerstag, 13.08.2026 - Jahrgang 8</font>
-		- <font color="#ffd700">Freitag, 14.08.2026 - Jahrgang 7</font>
-		- Montag, 17.08.2026 - Jahrgang 6
-		- Dienstag, 18.08.2026 - Jahrgang 5
-		
-		Bitte merkt euch den für euch relevanten Termin bereits jetzt vor.
-		
-		Vielen Dank für eure Unterstützung. Wir freuen uns auf einen guten gemeinsamen Start in das neue Schuljahr.
-	- [ ] Termin notieren 
-	- [x] 📅 2026-08-07 ✅ 2026-08-07
-	- [ ] Klassen die ich betreue:
-	- Mathe
-		- Ansprechpartner
-			- Lukas Kohlmeier (koh)
-			- (mel)
-			- (ein)
-		- 4 h/w
-			- 8a 
-			- 8b 
-		
-	- Physik
-		- Ansprechpartner / Kollegen der Jahrgänge
-			- 7er:
-				- mid
-			- 8er 
-				- wol
-				- lae 
-			- 10er 
-				- Jamil Hirsch
-		- Stunden pro Woche - Klassen 
-			- 2 h/w
-				- 7c 
-				- 7d 
-				- 8a 
-				- 8b 
-			- 1 h/w
-				- 10a
-				- 10b
-
-- [x] carnivoren gießen 
-- [x] Laptop auf den Tisch 
 
 
 - [x] Flaschen spülen
-- [ ] warum ist Beton ein so schlechter Wärmeisolator?
-- [ ] Krafttraining
-- [x] Duolingo
+- [ ] warum ist Beton ein so schlechter Wärmeisolator? %% fold %%
+- [ ] Krafttraining %% fold %%
 - [x] Arbeitsflächen in der Küche wischen  %% fold %%
-- [ ] rote Linsen + Kichererbsen Curry kochen 
+- [ ] rote Linsen + Kichererbsen Curry kochen  %% fold %%
 - [x] Spülmaschine ausräumen  %% fold %% 
 - [x] Badspiegel putzen  %% fold %%
-
+ %% fold %%
 - [x] staubsaugen  %% fold %%
 - [x] Küchenabfall wegbringen 
 - [x] Restmüll weg %% fold %%
@@ -465,25 +352,11 @@
 - [x] Spülmaschine anstellen
 - [x] Spülmaschine einräumen  %% fold %%
 - [x] Toilette putzen 
-- [x] Balkon kehren 
-- [x] Balkon aufräumen  %% fold %%
-- [x] Majoran schneiden  %% fold %%
-- [x] kleine braune weiß gepunktete Spinne bestimmen
+- [x] kleine braune weiß gepunktete Spinne bestimmen %% fold %%
 	- Weißpunkt-Fettspinne / Dreiecksfettspinne  %% fold %%
-- [x] Pflanze beim majoran bestimmen  %% fold %%
+- [x] Pflanze beim majoran bestimmen
 	- kleinblütiges Franzosenkraut 
-- [x] Dampfdruckkochtopf nochmal richtig spülen %% fold %%
-- [x] Pfeffermühle nachfüllen 
-- [x] Äpfel waschen 
-- [x] Tastatur wischen 
-	- [x] Wasser und Lappen tauschen 
-- [x] Kornelkirschenstecklinge aus Schulgarten aufbereiten
-- [x] rasieren  %% fold %%
-- [x] Gesicht waschen  %% fold %%
- %% fold %%
 - [ ] Kehrblech für Balkon kaufen  %% fold %%
-- [x] Nagelknipser leeren
-- [x] carnivorenwasser auffüllen  %% fold %%
 - [x] thunderbolt ex4 Anschluss prüfen %% fold %%
 	- [x] testweise usb e1234 ausschalten 
 		- [x] ausschalten ohne power trennung nach ausschaltung ⟹ Bildschirm geht trotzdem
