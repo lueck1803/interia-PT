@@ -133,8 +133,6 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 
-- [ ] Obsidian sync status 
-
 
 - [ ] ganz cool dass das so mit den Bildschirmen funktioniert:
 	![[../../Pasted image 20260807165533.png]]
@@ -143,9 +141,8 @@
 
 - [ ] vertretungslehrer aufräumen
 
-- [ ] Reminder raus zumindest die notifications
-
 - [ ] Der sync des Kalenders funktioniert, wird sogar angezeigt. Das geht aber glaube ich über ics?
+	- [ ] am rechner auch 
 
 
 - [ ] Zähne putzen 
@@ -253,7 +250,7 @@
 - [ ] zino ich möchte shin son hab kido machen 
 
 - [ ] images in Obsidian aufräumen
-
+ %% fold %%
 - [ ] 60° Wäsche <font color="#92d050">2026-08-06</font> %% fold %%
 	- [ ] abhängen  %% fold %%
 	- [ ] zusammenlegen  %% fold %%
