@@ -132,6 +132,7 @@
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
+- [ ] zeit stoppen wie lange ich zum Schulgarten gießen brauche 
 - [x] Balkonpflanzen gießen  %% fold %%
 - [ ] Zähne putzen 
 - [x] Schulgarten checken/gießen %% fold %%
@@ -156,7 +157,7 @@
 
 - [ ] kurz Gitarre spielen 
 - [ ] neuen Stunden Plan in Kalender eintragen 
-- [ ] Unterricht Montag vorbereiten 
+- [ ] Unterricht Montag vorbereiten  %% fold %%
 	- [ ] Plan bis zur ersten Klausur vorbereiten das den Leuten zeigen 
 		- [ ] was wird erwartet bzw was ist der Plan 
 	- [ ] Vorstellungsrunde 
@@ -194,9 +195,6 @@
 - [ ] ce que/ce qui nochmal anschauen 
 - [ ] wie funktioniert das mit #task richtig?
 
-
-- [ ] ganz cool dass das so mit den Bildschirmen funktioniert:
-	![[../../Pasted image 20260807165533.png]]
 
 - [ ] wo ist das Schüler cafe
 
@@ -247,7 +245,7 @@
 - [x] Tastatur wischen
 	- [x] laptop
 	- [x] PC
-
+ %% fold %%
  %% fold %%
 - [x] Spülmaschine Graphit-öl ölen %% fold %%
 - [ ] neue schicke Schuhe pflegen %% fold %%
@@ -1360,6 +1358,9 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] <span style="color:coral">paartherapie S3 runterladen</span>
 
 # Alt
+- [ ] ganz cool dass das so mit den Bildschirmen funktioniert:
+	![[../../Pasted image 20260807165533.png]]
+
 - ~={MediumViolet}day planner ?=~
 	- sync mit kalender hat jetzt offenbar funktioniert
 	- ![[../../Pasted image 20260807113817.png]]
@@ -1367,7 +1368,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] obsidian foldings? %% fold %%
 	- [x] wie merkt sich obsidian foldings?  %% fold %%
 		- [x] offenbar in den os spezifischen daten als binary %% fold %%
-		- [x] foldings are saved using localStorage, which means they only exist per individual installation
+		- [x] foldings are saved using localStorage, which means they only exist per individual installation %% fold %%
 	- [x] Wie kann ich es syncen? %% fold %%
 	      - [x] ⤷ <font color="#daa520">plugins?</font>
 		- [x] foldstate?
