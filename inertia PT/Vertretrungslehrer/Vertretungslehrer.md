@@ -1799,8 +1799,8 @@ Jahrgangsteamsitzungen
 
 #### Terminierte Vorbereitungskonferenzen im Jahrgang
 - bedarf - lehrkräfte die gemeinsam eine lehrgruppe unterrichten sich über diese austauschen
-	- krankheiten und besonderheiten der schüler
 	- regeln und rituale in den klassen
+	- krankheiten und besonderheiten der schüler
 		- wer ist L - Schüler
 		- diabetes
 		- autismus
@@ -1812,6 +1812,8 @@ Jahrgangsteamsitzungen
 	- bei Zeugniskonferenz immer viel Gesprächsbedarf
 	- infos über die schüler, die so nicht im schulportal stehen
 	- mal alle beim Start mit vorhandenen Infos versorgen
+	- verhaltensbesprechung
+	- ne schulter zum ausweinen 😜
 - arbeitspläne / jahrespläne der fachschaft müssen erstellt werden / curricula ⟹ werden vom Schulamt geprüft
 	- war ursprünglich nicht gedacht dass das teil der veranstaltung ist
 - Änderungs-Vorschläge

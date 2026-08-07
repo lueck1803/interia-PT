@@ -135,7 +135,6 @@
 
 - [ ] Schulportal 
 	- [ ] ersteinlog
-	- [ ] 
 
 - [x] Gesicht waschen
 - [ ] ce que/ce qui nochmal anschauen 
@@ -160,6 +159,10 @@
 	- [x] PC
 
 - nochmal überlegen, ob ich den ~={MediumSpringGreen}reminder nutzen=~ möchte, die benachrichtigungen nerven / sind unangenehm
+
+- ~={MediumViolet}day planner ?=~
+	- sync mit kalender hat jetzt offenbar funktioniert
+	- ![[../../Pasted image 20260807113817.png]]
 
 - [ ] Zähne putzen 
 - [ ] Balkonpflanzen gießen 
@@ -188,7 +191,7 @@
 	- [ ] abhängen  %% fold %%
 	- [ ] zusammenlegen  %% fold %%
 	- [ ] wegräumen 
-
+ %% fold %%
 - [ ] helle Wäsche <font color="#ff6e6e">2026-08-07</font> %% fold %%
 	- [x] anstellen %% fold %%
 	- [x] schleudern  %% fold %%
