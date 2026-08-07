@@ -165,7 +165,7 @@
 	- ![[../../Pasted image 20260807113817.png]]
 
 - [ ] Zähne putzen 
-- [ ] Balkonpflanzen gießen 
+- [ ] <font color="#ff0000">Balkonpflanzen gießen </font>
 - [ ] Zeug im Spülkorb wegräumen 
 - [ ] Spülmaschine Graphit-öl ölen
 - [ ] graue Decke in Wäsche 
@@ -226,7 +226,7 @@
 		- [ ] Melodie 
 		- [ ] Tremolo Picking 
 
-- [ ] zu den Eltern fahren 📅 2026-08-07 14:00 %% fold %%
+- [x] zu den Eltern fahren 📅 2026-08-07 ✅ 2026-08-07
 	- [ ] Stuhloberteil %% fold %%
 	- [ ] Sonnenbrille vom Papa %% fold %%
 	- [ ] Apfelschneider
@@ -359,7 +359,7 @@
 		
 		Vielen Dank für eure Unterstützung. Wir freuen uns auf einen guten gemeinsamen Start in das neue Schuljahr.
 	- [ ] Termin notieren 
-	- [ ] 📅 2026-08-07 
+	- [x] 📅 2026-08-07 ✅ 2026-08-07
 	- [ ] Klassen die ich betreue:
 	- Mathe
 		- Ansprechpartner
