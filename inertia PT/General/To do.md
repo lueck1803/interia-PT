@@ -171,7 +171,12 @@
 			- [ ] gegenseitige Unterstützung 
 			- [ ] hoffentlich gute Noten
 			- [ ] ich möchte dass wir zusammen ne gute Klassenarbeit schreiben 
-			- [ ] 
+			- [ ] Verknüpfung zu bisherigem Wissen 
+			- [ ] Selbstermächtigung 
+			- [ ] skills - wo kann ich sie einsetzen 
+			- [ ] die Welt ein bisschen besser verstehen 
+			- [ ] sich in der Welt etwas besser zurecht finden. 
+			- [ ] unabhängig zu sein
 		- [ ] jeder soll mal etwas über sich erzählen (15 min Vorbereitungszeit)
 			- [ ] seine Einstellung zum Unterrichtsfach 
 				- [ ] was bedeutet es für einen
