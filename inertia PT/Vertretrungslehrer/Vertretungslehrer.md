@@ -1776,19 +1776,30 @@ Jahrgangsteamsitzungen
 
 ##### Datensicherung
 - müssen die Archivierung (Verpflichtet den unterricht zu dokumentieren und zu archivieren) - der ursprünglichen Klassenbücher 
-	- nachbilden in dem wir ~={MediumTurquoise}exportieren=~ und ~={MediumSpringGreen}ausdrucken=~
+	- nachbilden in dem wir
+		- ~={MediumTurquoise}exportieren=~ 
+		  ![[../../Pasted image 20260807111829.png]]
+		- auf Usb stick ziehen und im kopierraum ~={MediumSpringGreen}ausdrucken=~ 
+		- ~={purple}unterschreiben=~
 	- pro kurs muss das erledigt werden
+	- es gibt verschiedene möglichkeiten zur exportierung
+	- es steht darin aber nur:
+		- thema der Stunde
+		- anwesenheit
 
 - schulportal löscht nach ablauf eines Schuljahrs
 	- zu nächst im archiv ⟹ im kommenden Schuljahr gelöscht
 
 - muss einzigartig sein, daher muss ausgedruckt sein und nicht digital archiviert
+	- 
 
 - idee:
 	- fach für jahrgang im sekretariat
-	- sekretariat archivie
+	- sekretariat archiviert das
 
-
+##### Terminierte Vorbereitungskonferenzen im Jahrgang
+- warum?
+	- bedarf - lehrkräfte die gem
 # Aufgaben-Ideen
 ## Mathe
 ### Prozentrechnung 
