@@ -1775,7 +1775,7 @@ Jahrgangsteamsitzungen
 ![[../../Pasted image 20260807110748.png]]
 
 ##### Datensicherung
-- müssen die Archivierung (Verpflichtet den unterricht zu dokumentieren und zu archivieren) - der ursprünglichen Klassenbücher 
+- müssen die Archivierung (Verpflichtet den unterricht zu dokumentieren und zu archivieren - ~={Gold}Aufbewahrungsdauer:=~ 5 Jahre) - der ursprünglichen Klassenbücher 
 	- nachbilden in dem wir
 		- ~={MediumTurquoise}exportieren=~ 
 		  ![[../../Pasted image 20260807111829.png]]
@@ -1803,7 +1803,12 @@ Jahrgangsteamsitzungen
 	- regeln und rituale in den klassen
 	- besondere aktivitäten
 	- ausflüge
-- arbeitspläne der fachschaft müssen erstellt werden / curricula ⟹ werden vom Schulamt geprüft
+	- wer ist L - Schüler
+	- alle auf gleichen Wissenstand
+	- gibt es Schüler die auf keinen fall nebeneinander sitzen sollen
+	- bei Zeugniskonferenz immer viel Gesprächsbedarf
+- arbeitspläne / jahrespläne der fachschaft müssen erstellt werden / curricula ⟹ werden vom Schulamt geprüft
+	- war ursprünglich nicht gedacht dass das teil der veranstaltung ist
 - 
 # Aufgaben-Ideen
 ## Mathe
