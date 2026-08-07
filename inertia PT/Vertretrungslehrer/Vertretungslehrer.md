@@ -1699,7 +1699,17 @@ Ich übernehme:
 	- Losverfahren für die Schüler
 	- Klassen wurden mit Bestandsschülern aufgefüllt
 - Klassenlisten im Schulportal sind noch nicht aktuell / nicht angelegt
-	- Listen bei 
+	- #task ~={Crimson}Klassenlisten bei Regina holen =~ 
+- hat aufnahmegespräche mit schülern geführt
+	- falls wir ~={LawnGreen}infos zu den schülern=~ wollen
+
+##### Ute einicke?  9/10
+- selten im hauptgebäude - hauptsächlich interimsgebäude
+- 18 neue 10. klässler vom gymmi aufgenommen
+- geht direkt los mit den präsentatiosnsprüfung
+	- schüler müssen mentoren suchen - jeder steht dafür zur verfügung mentor zur sein
+	- müssen Vorantrag abgeben
+		- soll von mentoren krit
 # Aufgaben-Ideen
 ## Mathe
 ### Prozentrechnung 
