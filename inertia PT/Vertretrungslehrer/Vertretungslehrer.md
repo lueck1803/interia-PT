@@ -1648,7 +1648,7 @@ Ich übernehme:
 	- 7er:
 		- oliver middel (mid)
 	- 8er 
-		-  Johannes wolf (wol)
+		- Johannes wolf (wol)
 		- anna lauer (lae) 
 	- 10er 
 		- Jamil Hirsch (hir)
