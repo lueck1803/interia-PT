@@ -2203,19 +2203,19 @@ on his remote computer. However, he still has to enter two passwords, first, for
 
 
 
-## see difference
+## show differences between ...
 
 
 ```git
-git diff [<other-branch <commit></commit>]
+git diff [<other-branch></other-branch> <commit></commit> <file></file>]
 ```
-
+Show changes between the working tree and the index or a tree, changes between the index and a tree, changes between two trees, changes resulting from a merge, changes between two blob objects, or changes between two files on disk.
 
 ## restore a file
 ### git revert
 With `git revert` it is possible to revert / undo a whole git commit.
 ```git
-git revert <Commit-ID>
+git revert <Commit-ID></Commit-ID>
 ```
 ### Reverting a File to a Previous Commit
 To revert a file to a specific version from a previous commit:
