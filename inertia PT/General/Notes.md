@@ -4357,7 +4357,7 @@ Der über tausendjährige gewalttätige Konflikt zwischen Schiiten und Sunniten 
 Wirklich "einig" (nicht mal auf politischer Ebene) sind die sich nur wenn es gegen Israel/die Juden/ den Zustand bzgl Gaza  geht.
 
 # Deutsch sein
-## unambige deu
+## unambige deutsche Geschichte?
 https://youtube.com/shorts/C1_00-Xg4Ok?is=YQ-y4AfSrpzp8nv1
 # Philosophie
 - ![](Pasted%20image%2020251205205458.png)
