@@ -2206,6 +2206,10 @@ on his remote computer. However, he still has to enter two passwords, first, for
 ## see difference
 
 
+```git
+
+```
+
 
 ## restore a file
 ### git revert
