@@ -132,12 +132,26 @@
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
-- [ ] Schulgarten checken/gießen %% fold %%
 - [ ] Zähne putzen 
+- [ ] Schulgarten checken/gießen %% fold %%
 - [ ] Duolingo %% fold %%
 - [ ] Würstchen essen 
 - [ ] Bier trinken 
-- [ ] kleid
+- [ ] Kleidung auf Sofa wegräumen 
+- [ ] Krafttraining 
+- [ ] 60° Wäsche <font color="#92d050">2026-08-06</font>
+	- [ ] abhängen  %% fold %%
+	- [ ] zusammenlegen  %% fold %%
+	- [ ] wegräumen  %% fold %%
+ %% fold %%
+- [ ] helle Wäsche <font color="#ff6e6e">2026-08-07</font>
+	- [x] anstellen %% fold %%
+	- [x] schleudern  %% fold %%
+		- [x] vorher riechen ob zu viel Waschpulver  %% fold %%
+		- ⤷ nochmal anstellen ⟹roch voll OK  %% fold %%
+	- [x] aufhängen 
+	- [ ] abhängen  %% fold %%
+	- [ ] wegräumen 
 
 - [ ] Bahnverbindung raus suchen 
 - [ ] ce que/ce qui nochmal anschauen 
@@ -193,18 +207,12 @@
 - [ ] tasks aufräumen  
 - [ ] meditieren 
 
-
-
-
 - [x] Tastatur wischen
 	- [x] laptop
 	- [x] PC
 
-- ~={MediumViolet}day planner ?=~
-	- sync mit kalender hat jetzt offenbar funktioniert
-	- ![[../../Pasted image 20260807113817.png]]
-
-- [x] Balkonpflanzen gießen 
+ %% fold %%
+- [x] Balkonpflanzen gießen  %% fold %%
 - [x] Zeug im Spülkorb wegräumen  %% fold %%
 - [ ] Spülmaschine Graphit-öl ölen %% fold %%
 - [ ] neue schicke Schuhe pflegen %% fold %%
@@ -218,22 +226,9 @@
  %% fold %%
 - [ ] images in Obsidian aufräumen %% fold %%
  %% fold %%
-- [ ] 60° Wäsche <font color="#92d050">2026-08-06</font> %% fold %%
-	- [ ] abhängen  %% fold %%
-	- [ ] zusammenlegen  %% fold %%
-	- [ ] wegräumen  %% fold %%
- %% fold %%
-- [ ] helle Wäsche <font color="#ff6e6e">2026-08-07</font> %% fold %%
-	- [x] anstellen %% fold %%
-	- [x] schleudern  %% fold %%
-		- [x] vorher riechen ob zu viel Waschpulver  %% fold %%
-		- ⤷ nochmal anstellen ⟹roch voll OK  %% fold %%
-	- [x] aufhängen 
-	- [ ] abhängen  %% fold %%
-	- [ ] wegräumen 
  %% fold %%
 - [ ] Papierkram %% fold %%
-	- [ ] Kassenbons
+	- [ ] Kassenbons %% fold %%
 	- [ ] Hefter
 	- [ ] BAS Arbeitsvertrag 📅 2026-08-07 13:00
 		- [ ] Wo ist der von Mai?
@@ -1330,11 +1325,15 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] <span style="color:coral">paartherapie S3 runterladen</span>
 
 # Alt
+- ~={MediumViolet}day planner ?=~
+	- sync mit kalender hat jetzt offenbar funktioniert
+	- ![[../../Pasted image 20260807113817.png]]
+
 - [x] obsidian foldings? %% fold %%
 	- [x] wie merkt sich obsidian foldings?  %% fold %%
 		- [x] offenbar in den os spezifischen daten als binary %% fold %%
 		- [x] foldings are saved using localStorage, which means they only exist per individual installation
-	- [x] Wie kann ich es syncen?
+	- [x] Wie kann ich es syncen? %% fold %%
 	      - [x] ⤷ <font color="#daa520">plugins?</font>
 		- [x] foldstate?
 			- [x] habe ich jetzt mal installiert, da es anscheinend automatisch das macht, was man mit creases manuell machen muss
