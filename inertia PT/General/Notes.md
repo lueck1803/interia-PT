@@ -2224,23 +2224,19 @@ git log -p <file>
 ```
 - results in `Commit-ID`
 
-*optional:* create a branch of the parent commit-ID> 
+##### *optional:* create a branch of the parent commit-ID> 
 ```git
  git branch temp-branch <Commit-ID>~1
-  ```
-> 
-
-
-### 2.   revert commit
+```
  
-#### 1.  git revert commit
+#### 2.  git revert commit
 With `git revert` it is possible to revert / undo a whole git commit.
 ```git
 git revert <Commit-ID>
 ```
 This restores possible deleted lines in `main`.
 
-##### 2. check the diff between the parent commit and head
+### 3. check the diff between the parent commit and head
 
 ```git
 git diff <Commit-ID>~1
@@ -2250,7 +2246,7 @@ or
 git diff temp-branch
 ```
 
-##### 3. merge with the desired commit
+## 4. merge with the desired commit
 ```git
 git merge <Commit-ID>~1
 ```
