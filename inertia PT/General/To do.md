@@ -142,6 +142,8 @@
 
 - [ ] vertretungslehrer aufräumen
 
+- [ ] day planner
+
 - [ ] Reminder raus zumindest die notifications
 
 - [ ] Der sync des Kalenders funktioniert, wird sogar angezeigt. Das geht aber glaube ich über ics?
