@@ -2329,7 +2329,8 @@ git commit -m "Revert style.css to a1b2c3d"
 ```
 
 
-## Delete Local Branch
+## Delete Branch
+### Delete Local Branch
 
 To delete the _**local**_ branch, use one of the following:
 
@@ -2343,7 +2344,7 @@ git branch -D <branch_name>
 - As of [Git v2.3](https://github.com/git/git/blob/master/Documentation/RelNotes/2.3.0.txt), `git branch -d` (delete) learned to honor the `-f` (force) flag.
 - You will receive an error if you try to delete the currently selected branch
 
-## Delete Remote Branch
+### Delete Remote Branch
 
 As of [Git v1.7.0](https://github.com/gitster/git/blob/master/Documentation/RelNotes/1.7.0.txt), you can delete a _**remote**_ branch using
 
@@ -2361,7 +2362,7 @@ which was added in [Git v1.5.0](https://github.com/gitster/git/blob/master/Docum
 
 Starting with [Git v2.8.0](https://github.com/git/git/blob/master/Documentation/RelNotes/2.8.0.txt), you can also use `git push` with the `-d` option as an alias for `--delete`. Therefore, the version of Git you have installed will dictate whether you need to use the easier or harder syntax.
 
-# Fetch changes
+### Fetch changes
 
 Finally, execute the following on other machines to propagate changes:
 
