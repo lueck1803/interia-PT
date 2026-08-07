@@ -197,9 +197,13 @@
 		- [ ] App checken
 		- [ ] Muss ich neue Angaben machen?
 
+- [ ] 30 min Gitarre spielen ~={MediumViolet}fraught=~ ~={DeepSkyBlue}mit Timer=~
+	- [ ] intro lead mit slide %% fold %%
+	- [ ] Stakkato 
+
 - [ ] zu den Eltern fahren 📅 2026-08-07 14:00 %% fold %%
-	- [ ] Stuhloberteil
-	- [ ] Sonnenbrille vom Papa
+	- [ ] Stuhloberteil %% fold %%
+	- [ ] Sonnenbrille vom Papa %% fold %%
 	- [ ] Apfelschneider
 	- [ ] wo ist meine Handyhalterung fürs Rad? Ahl?
 	- [ ] französisch Buch weiter lesen
@@ -373,9 +377,6 @@
 - [x] Badspiegel putzen  %% fold %%
 
 - [x] staubsaugen  %% fold %%
-- [ ] 30 min Gitarre spielen ~={MediumViolet}fraught=~ ~={DeepSkyBlue}mit Timer=~ %% fold %%
-	- [ ] intro lead mit slide %% fold %%
-	- [ ] Stakkato 
 - [x] Küchenabfall wegbringen 
 - [x] Restmüll weg %% fold %%
 - [x] Briefkasten checken %% fold %%
