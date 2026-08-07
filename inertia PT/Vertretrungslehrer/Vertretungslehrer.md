@@ -1666,7 +1666,7 @@ Ich übernehme:
 		- 10a
 		- 10b
 
-## <font color="#ffd700">Jahrgangsteamsitzungen</font>
+## ~~<font color="#ffd700">Jahrgangsteamsitzungen</font>~~ ⟹ ~={RedRed}gecancelt=~ 
 Die ersten Termine finden jeweils um 13:45 Uhr im Lehrerzimmer statt
 Jahrgangsteamsitzungen
 - <font color="#ffd700">Dienstag, 11.08.26 - Jahrgang 10</font>
@@ -1834,8 +1834,14 @@ Jahrgangsteamsitzungen
 	- verfügbares Kontingent
 		- 2 pädagogische Tage 
 		- ein Studientag
-- soll erstmal etwas von der Schulleitung ausgearbeitet werden, was 
-	- 
+
+~={RedRed} Termine sich zurück gezogen=~
+- soll erstmal etwas vom Schulleitungsteam und Personalrat ausgearbeitet werden, was ziel und plan ist
+- ⤷ wird zur nächsten gesamtkonferenz vorgestellt
+	- ⤷ dort wird ein plan team gewählt
+
+#### 
+- suspendierter Schüler hat Drohbriefe geschrieben und in den Gebäuden verteilt...
 # Aufgaben-Ideen
 ## Mathe
 ### Prozentrechnung 
