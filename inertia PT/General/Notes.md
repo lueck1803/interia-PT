@@ -2205,13 +2205,15 @@ on his remote computer. However, he still has to enter two passwords, first, for
 git log -p <file> 
 ```
 
-### 1.  git revert commit
+### 2.  git revert commit
 
 With `git revert` it is possible to revert / undo a whole git commit.
 ```git
 git revert <Commit-ID>
 ```
 This restores possible deleted lines in `main`.
+
+
 ## show differences between ...
 
 
