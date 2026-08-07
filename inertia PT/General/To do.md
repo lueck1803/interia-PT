@@ -135,15 +135,6 @@
 
 - [ ] test branches löschen
 
-- [x] git history am pc installieren
-
-- [x] new tab am pc installieren 
-
-- [x] am PC machen:
-	1. Install the BRAT plugin ([GitHub - TfTHacker/obsidian42-brat: BRAT - Beta Reviewer's Auto-update Tool for Obsidian.](https://github.com/TfTHacker/obsidian42-brat))
-	2. Within BRAT settings you can add a plugin with “ibash/obsidian-new-window” to install my plugin
-	3. Then Cmd-P → “New Window” to get new windows
-
 - [ ] Bahnverbindung raus suchen 
 
 - [ ] ganz cool dass das so mit den Bildschirmen funktioniert:
@@ -200,8 +191,8 @@
 - [ ] wie funktioniert das mit #task richtig?
 
 
-- [ ] resumee von dem was ich jetzt über git gelernt habe machen....
-	- [ ] in notes schreiben
+- [x] resumee von dem was ich jetzt über git gelernt habe machen....
+      ⤷ in notes schreiben
 
 - [x] Gesicht waschen
 - [ ] ce que/ce qui nochmal anschauen 
@@ -232,8 +223,8 @@
 - [x] <font color="#ff0000">Balkonpflanzen gießen </font>
 - [x] Zeug im Spülkorb wegräumen 
 - [ ] Spülmaschine Graphit-öl ölen
-- [x] graue Decke in Wäsche 
-- [x] duschen 📅 2026-08-07 07:00
+- [x] graue Decke in Wäsche  %% fold %%
+- [x] duschen 📅 2026-08-07 07:00 %% fold %%
 - [x] Klamotten fürs Foto raussuchen 📅 2026-08-07 07:15
 - [ ] Schulgarten checken/gießen
 - [x] Wegen Schul-ID Zettel unterschreiben lassen und abgeben? %% fold %%
