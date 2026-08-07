@@ -2,7 +2,7 @@
 # To-Do 
 - [ ] Versmaß verstehen (Videos auf yt)
 	- [ ] jambus
-	- [ ] trochäus 
+	- [ ] trochäus  %% fold %%
 	- [ ] Reimschema 
 - [ ] Stundenplan in den Kalender eintragen
 	- [ ] kann man den exportieren?
