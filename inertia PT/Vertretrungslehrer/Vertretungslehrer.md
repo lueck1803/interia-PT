@@ -1775,7 +1775,20 @@ Jahrgangsteamsitzungen
 ![[../../Pasted image 20260807110748.png]]
 
 ##### Datensicherung
-müssen die Archivierung - der ursprünglichen Klassen nachbilden in dem wir
+- müssen die Archivierung (Verpflichtet den unterricht zu dokumentieren und zu archivieren) - der ursprünglichen Klassenbücher 
+	- nachbilden in dem wir ~={MediumTurquoise}exportieren=~ und ~={MediumSpringGreen}ausdrucken=~
+	- pro kurs muss das erledigt werden
+
+- schulportal löscht nach ablauf eines Schuljahrs
+	- zu nächst im archiv ⟹ im kommenden Schuljahr gelöscht
+
+- muss einzigartig sein, daher muss ausgedruckt sein und nicht digital archiviert
+
+- idee:
+	- fach für jahrgang im sekretariat
+	- sekretariat archivie
+
+
 # Aufgaben-Ideen
 ## Mathe
 ### Prozentrechnung 
