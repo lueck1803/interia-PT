@@ -1670,7 +1670,7 @@ Ajanza
 		- 10a
 		- 10b
 
-## ~~<font color="#ffd700">Jahrgangsteamsitzungen</font>~~ ⟹ ~={RedRed}gecancelt=~ 
+## ~~<font color="#ffd700">Jahrgangsteamsitzungen</font>~~ ⟹ <font color="#ff0000">gecancelt </font>
 Die ersten Termine finden jeweils um 13:45 Uhr im Lehrerzimmer statt
 Jahrgangsteamsitzungen
 - <font color="#ffd700">Dienstag, 11.08.26 - Jahrgang 10</font>
