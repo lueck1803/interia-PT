@@ -2207,7 +2207,7 @@ on his remote computer. However, he still has to enter two passwords, first, for
 
 
 ```git
-
+git diff [<other-branch <commit></commit>]
 ```
 
 
