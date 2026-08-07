@@ -2211,7 +2211,8 @@ git log -p <file>
 ```
 - results in `Commit-ID`
 
-### 2.  Opt 1: git revert commit
+### Opt 1: 
+### 2.  *Opt 2:* git revert commit
  
 > [!tip] *optional:* create a branch of the parent commit-ID
 > 
@@ -2237,7 +2238,7 @@ or
 git diff temp-branch
 ```
 
-### 4. merge with the desired commit
+##### 3. merge with the desired commit
 ```git
 git merge <Commit-ID>~1
 ```
