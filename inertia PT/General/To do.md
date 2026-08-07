@@ -167,7 +167,10 @@
 
 - [ ] reminder gibt's ne Einstellung für mobile die blockiert ?
 
-- [ ] neue schicke Schuhe pflegen 
+- [ ] neue schicke Schuhe pflegen
+
+
+- oh wow Aufzug 
 
 - [ ] Arthur schreiben ⟹ soll <font color="#92cddc">Vorschlag</font> für neues Projekt machen 
 
