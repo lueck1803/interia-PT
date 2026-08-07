@@ -133,6 +133,64 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 
+Obsidian sync status 
+
+Reminder raus zumindest die notifications
+
+Der sync des Kalenders funktioniert, wird sogar angezeigt. Das geht aber glaube ich über ics?
+
+
+Zähne putzen 
+
+Gut dass Nele nicht negativ reagiert hat, sondern meinte -> Ferien -> Handy weg 
+
+Will ich wirklich Denksport Physik promoten?
+
+Claudia fragen was sie von psycedellic /stoner rock hält 
+
+Von papa zeigen lassen wie man schuhe richtig pflegt 
+
+Wie funktioniert das mit Tasks 
+Bzw den hash tags
+
+Würstchen essen 
+
+Schulportal 
+
+Packen -> fahren 
+
+Balkon gießen 
+
+Ich behalte alles Zeug 
+Kosten zusammen rechnen 
+
+Wichtig ist jetzt die Masterarbeit fertig zu machen 
+
+
+Matheschulbuch einbinden
+
+
+hot corners
+
+separate bildschirme mac - mission control - wie funktioniert das richtig
+
+auf version zurücksetzen vertretungslehrer wie gehts einfach?
+handy?
+
+eventuell andere dockingstation für mac kaufen bzw. die nehmen die ich momentan für den rechner verwende
+
+google calendar + task sync definitiv raus, denn den kram will ich nicht drin haben, ist zu viel und zu viel durcheinander
+
+day planner scheint so ganz gut zu funktionieren
+
+noch den kalender von lukasludwig hinzufügen
+
+- [ ] timeline unten nervt ⟹ raus
+
+- [ ] wie funktioniert das mit #task richtig?
+
+- [ ] calendar synce noch am pc raus nehmen
+
 - [ ] Schulportal ⟹ ersteinlog
 
 - Der Kram der Konferenz wurde nicht gesynct
@@ -199,9 +257,9 @@
 		- [x] vorher riechen ob zu viel Waschpulver  %% fold %%
 		- ⤷ nochmal anstellen ⟹roch voll OK  %% fold %%
 	- [x] aufhängen 
-	- [ ] abhängen 
+	- [ ] abhängen  %% fold %%
 	- [ ] wegräumen 
-
+ %% fold %%
 - [ ] Papierkram %% fold %%
 	- [ ] Kassenbons
 	- [ ] Hefter
@@ -227,7 +285,7 @@
 		- [ ] Melodie 
 		- [ ] Tremolo Picking 
 
-- [x] zu den Eltern fahren 📅 2026-08-07 ✅ 2026-08-07
+- [x] zu den Eltern fahren 📅 2026-08-07 ✅ 2026-08-07 %% fold %%
 	- [ ] Stuhloberteil %% fold %%
 	- [ ] Sonnenbrille vom Papa %% fold %%
 	- [ ] Apfelschneider
