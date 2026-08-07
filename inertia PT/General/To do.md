@@ -133,14 +133,11 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 
-- [x] Zähne putzen 
 - [x] Gesicht waschen
 - [ ] ce que/ce qui nochmal anschauen 
 - [ ] tasks aufräumen  
 - [x] bier auf dem tisch weg wischen 📅 2026-08-06 23:25 ✅ 2026-08-06
 - [ ] meditieren 
-- [ ] Zeug im Spülkorb wegräumen 
-- [ ] Spülmaschine Graphit-öl ölen
 - [x] Device manager checken
 	- ⟹ wird <font color="#c00000">nix</font> angezeigt
 - [x] Zeug für Konferenz lesen 📅 2026-08-07 00:40 ✅ 2026-08-07
@@ -151,15 +148,21 @@
 
 - [x] Termine für die nächste Woche erstellen 
 
-- [x] Bahnverbindung raus suchen
+- [x] Bahnverbindung raus suchen 
 
 
 - [x] Tastatur wischen
 	- [x] laptop
 	- [x] PC
 
+- [ ] Zähne putzen 
+- [ ] Balkonpflanzen gießen 
+- [ ] Zeug im Spülkorb wegräumen 
+- [ ] Spülmaschine Graphit-öl ölen
+- [ ] graue Decke in Wäsche 
 - [ ] duschen 📅 2026-08-07 07:00
 - [ ] Klamotten fürs Foto raussuchen 📅 2026-08-07 07:15
+- [ ] Schulgarten checken/gießen
 - [ ] Wegen Schul-ID Zettel unterschreiben lassen und abgeben? %% fold %%
 
 - [ ] images in Obsidian aufräumen
@@ -169,7 +172,7 @@
 	- [ ] zusammenlegen  %% fold %%
 	- [ ] wegräumen 
 
-- [ ] helle Wäsche <font color="#ff6e6e">2026-08-07</font>
+- [ ] helle Wäsche <font color="#ff6e6e">2026-08-07</font> %% fold %%
 	- [x] anstellen %% fold %%
 	- [x] schleudern  %% fold %%
 		- [x] vorher riechen ob zu viel Waschpulver  %% fold %%
@@ -209,7 +212,7 @@
 - [ ] mich um den pc kümmern
 
 
-- [x] obsidian kram wieder installieren 
+- [x] obsidian kram wieder installieren  %% fold %%
 	- [x] <font color="#ff1493">Day Planner</font>???
 		- [x] pc
 		- [x] mac
@@ -230,9 +233,10 @@
 - [ ] Ticket für *my sleeping karma*
 	- [ ] ⤷ arthur bescheid geben
  %% fold %%
-- [x] Schulportal Login <br> ⤷Jamil hat einen <font color="#ff0000">Reset</font> gemacht 
+- [x] Schulportal Login 
+	- ⤷Jamil hat einen <font color="#ff0000">Reset</font> gemacht 
  %% fold %%
-- [ ] Was nutze ich zum Kalender sync mit obsidian? %% fold %%
+- [ ] Wie nutze ich zum Kalender sync mit obsidian? %% fold %%
 	- <font color="#ff1493">Day Planner</font>??? %% fold %%
 		- sieht irgendwie genauso aus wie das was ich will??? %% fold %%
 	- Google Calendar and Tasks Sync %% fold %%
@@ -355,9 +359,7 @@
 				- 10a
 				- 10b
 
-- [x] Balkonpflanzen gießen 
 - [x] carnivoren gießen 
-- [x] Schulgarten checken/gießen
 - [x] Laptop auf den Tisch 
 
 
