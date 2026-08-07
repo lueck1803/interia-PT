@@ -1708,8 +1708,25 @@ Ich übernehme:
 - 18 neue 10. klässler vom gymmi aufgenommen
 - geht direkt los mit den präsentatiosnsprüfung
 	- schüler müssen mentoren suchen - jeder steht dafür zur verfügung mentor zur sein
-	- müssen Vorantrag abgeben
-		- soll von mentoren krit
+	- müssen Vorantrag abgeben - 21.8 (Abgabe)
+		- soll von mentoren kritisiert werden
+	- max 4 Schüler pro mentor
+	- ~={Crimson}keine=~ hausarbeit mehr
+	- schüler müssen portfolio abgeben (alle~={DeepSkyBlue} infos hängen am schwarzenbrett=~ 9er/10er)
+		- thema
+		- fach
+		- gliederung
+		- kurzbeschreibung
+		- Quellen
+		- portfolio
+	- darf kein unterrichtsstoff sein und wenn, dann muss eindeutiger lernzuwachs klar sein
+	- es wird dieses jahr nur noch das Thema genehmigt
+	- 3. beratungsgespräch nach den herbstferien
+	- 18. nov. Abgabe des portfolios
+		- keine plagiats prüfung der inhalte
+		- wir sehen ja nur die gliederung
+		- 
+	- prüfung in der 1. dezemberwoche
 # Aufgaben-Ideen
 ## Mathe
 ### Prozentrechnung 
