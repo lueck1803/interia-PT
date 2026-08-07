@@ -797,7 +797,7 @@ in den anderen Fällen bleibt der Artikel erhalten
 				- Präsenz: 107
 				- Präteritum: 109
 				- Perfekt: 110
-				- Plusquamperfekt: 112
+				- Plusquamperfekt: 112 %% fold %%
 				- Futur 1 und 2: 113
 		- Adjektive: 116
 		- Pronomen: 119
