@@ -1638,6 +1638,7 @@ Ich übernehme:
 - Ansprechpartner
 	- Lukas Kohlmeier (koh)
 	- lukas melcher (mel)
+		- förderschullehrer, kommt von der erich kästner
 	- einike (ein)
 - 4 h/w
 	- 8a 
@@ -1646,11 +1647,13 @@ Ich übernehme:
 ### Physik
 - Ansprechpartner / Kollegen der Jahrgänge
 	- 7er:
-		- oliver middel (mid)
+		- oliver middel (mid) 
+			- Klassenleitung 5er 
 	- 8er 
 	  ⟹ es gibt neu noch eine 8f 
 		-  Wolf (wol)
 		- anna lauer (lae) 
+		  - physik, geographie, klassenleitung 6d?, kommt von der erich kästner
 	- 10er 
 		- Jamil Hirsch (hir)
 - Stunden pro Woche - Klassen 
@@ -1666,6 +1669,8 @@ Ich übernehme:
 ## Gesamtkonferenz
 ### GK1
 - Handytaschen und ⟹ vertagt
+- neue Kollegen:
+	
 # Aufgaben-Ideen
 ## Mathe
 ### Prozentrechnung 
