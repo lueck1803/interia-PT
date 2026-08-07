@@ -1,5 +1,5 @@
 # Internet 
-- [ ] Usb -l⇔ Usb-c Kabel (2m)
+- [ ] Usb ⇔ Usb-c Kabel (2m)
 # Aldi
 ## Jetzt
 - Einkaufswagen 
@@ -93,6 +93,9 @@
 - [ ] Basecap/Hut
 - [ ] große flache Teller 
 - [ ] gravelbike 
+
+# Kleidung 
+- [ ] Kurzarm Hemden 
 # non food
 - [ ] kleinen Schneebesen 
 - [ ] Plastik Plättchen zum tür öffnen -> pet Flasche 
