@@ -1627,14 +1627,17 @@ Ich übernehme:
 ## Klassen die ich betreue:
 ### Gespräch mit jamil
 1. Energie und Leistung
+	1. Praktisches - Leistung berechnen: treppen laufen 
 2. Ein bisschen Radioaktivität 
 3. Stromversorgung 
-	1. 
+	1. Stromerzeugung - Kraftwerkstypen 
+	2. Hoch - Niederspannung 
+	3. Gefährlichkeit - Unterschied ac/dc
 
 ### Mathe
 - Ansprechpartner
 	- Lukas Kohlmeier (koh)
-	- (mel)
+	- melcher(mel)
 	- (ein)
 - 4 h/w
 	- 8a 
