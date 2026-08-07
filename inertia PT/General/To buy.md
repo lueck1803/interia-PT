@@ -97,7 +97,7 @@
 # Kleidung 
 - [ ] Kurzarm Hemden 
 	- [ ] im legeren vintage Style 
-	- [ ] bzw wie 
+	- [ ] bzw wie das blau karierte
 # non food
 - [ ] kleinen Schneebesen 
 - [ ] Plastik Plättchen zum tür öffnen -> pet Flasche 

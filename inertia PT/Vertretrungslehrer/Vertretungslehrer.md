@@ -1625,6 +1625,12 @@ Ich übernehme:
 
 # <font color="#00b050">WS 26/27</font>
 ## Klassen die ich betreue:
+### Gespräch mit jamil
+1. Energie und Leistung
+2. Ein bisschen Radioaktivität 
+3. Stromversorgung 
+	1. 
+
 ### Mathe
 - Ansprechpartner
 	- Lukas Kohlmeier (koh)
