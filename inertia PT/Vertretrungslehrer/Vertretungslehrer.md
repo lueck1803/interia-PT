@@ -1648,10 +1648,11 @@ Ich übernehme:
 	- 7er:
 		- oliver middel (mid)
 	- 8er 
-		-  (wol)
-		- anna lauer lae 
+	  ⟹ es gibt neu noch eine 8f 
+		-  Wolf (wol)
+		- anna lauer (lae) 
 	- 10er 
-		- Jamil Hirsch
+		- Jamil Hirsch (hir)
 - Stunden pro Woche - Klassen 
 	- 2 h/w
 		- 7c 
@@ -1661,6 +1662,10 @@ Ich übernehme:
 	- 1 h/w
 		- 10a
 		- 10b
+
+## Gesamtkonferenz
+### GK1
+- Handytaschen und ⟹ vertagt
 # Aufgaben-Ideen
 ## Mathe
 ### Prozentrechnung 

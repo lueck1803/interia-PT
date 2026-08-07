@@ -255,7 +255,7 @@
  %% fold %%
 - [x] Schulportal Login 
 	- ⤷Jamil hat einen <font color="#ff0000">Reset</font> gemacht 
-	- [ ] <font color="#ff69b4">Fach checken</font> (@ 2026-08-07 09:30) 
+	- [x] <font color="#ff69b4">Fach checken</font> (@2026-08-07 09:30) 
  %% fold %%
 - [ ] Wie nutze ich zum Kalender sync mit obsidian? %% fold %%
 	- <font color="#ff1493">Day Planner</font>??? %% fold %%
