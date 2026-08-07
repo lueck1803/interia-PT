@@ -1758,11 +1758,24 @@ Jahrgangsteamsitzungen
 - wichtige punkte
 	- Nutzungsumfrage
 	- 
-- mein unterricht
-	- pflichtfelder ~={Gold}gelber kasten=~ unten 
-		- 
-	- deadline - Ende der unterrichtswoche
-	- Vertretungsunterricht
+##### mein unterricht
+- pflichtfelder ~={Gold}gelber kasten=~ unten 
+	- ![[../../Pasted image 20260807110602.png]]
+	- ![[../../Pasted image 20260807110628.png]]
+- deadline - Ende der unterrichtswoche
+- Vertretungsunterricht
+
+##### Klausurenplaner 
+
+![[../../Pasted image 20260807110647.png]]
+![[../../Pasted image 20260807110657.png]]
+
+##### Räume & Medien
+![[../../Pasted image 20260807110736.png]]
+![[../../Pasted image 20260807110748.png]]
+
+##### Datensicherung
+müssen die Archivierung - der ursprünglichen Klassen nachbilden in dem wir
 # Aufgaben-Ideen
 ## Mathe
 ### Prozentrechnung 
