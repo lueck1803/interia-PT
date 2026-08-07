@@ -359,7 +359,7 @@ Tafelbild Überschrift **Zahlensysteme und Einheiten umrechnen**
 	- Ein Zahlenstrahl: 
 		- dabei Natürliche zahlen eine Farbe 
 		- Ganze zahlen eine Farbe
-		- rationale zahlen
+		- rationale zahlen %% fold %%
 		- "zwischen" den rationalen zahlen liegen die irrationalen Zahlen. Da die rationalen Zahlen "dicht" in R liegen:
 			- Die rationalen Zahlen liegen dicht auf der Zahlengerade, das heißt: Jede reelle Zahl (anschaulich: jeder Punkt auf der Zahlengerade) kann beliebig genau durch rationale Zahlen angenähert werden.
 ### knowledge base
@@ -1640,7 +1640,9 @@ Ajanza
 - Ansprechpartner
 	- Lukas Kohlmeier (koh)
 	- lukas melcher (mel)
-	- einicke (ein)
+		- förderschullehrer, kommt von der erich kästner
+	- einike (ein)
+
 - 4 h/w
 	- 8a 
 	- 8b 
@@ -1648,10 +1650,14 @@ Ajanza
 ### Physik
 - Ansprechpartner / Kollegen der Jahrgänge
 	- 7er:
-		- oliver middel (mid)
+		- oliver middel (mid) 
+			- Klassenleitung 5er 
 	- 8er 
+
 		- Johannes wolf (wol)
+
 		- anna lauer (lae) 
+		  - physik, geographie, klassenleitung 6d?, kommt von der erich kästner
 	- 10er 
 		- Jamil Hirsch (hir)
 - Stunden pro Woche - Klassen 
@@ -1663,6 +1669,238 @@ Ajanza
 	- 1 h/w
 		- 10a
 		- 10b
+
+## ~~<font color="#ffd700">Jahrgangsteamsitzungen</font>~~ ⟹ ~={RedRed}gecancelt=~ 
+Die ersten Termine finden jeweils um 13:45 Uhr im Lehrerzimmer statt
+Jahrgangsteamsitzungen
+- <font color="#ffd700">Dienstag, 11.08.26 - Jahrgang 10</font>
+- Mittwoch, 12.08.2026 - Jahrgang 9
+- <font color="#ffd700">Donnerstag, 13.08.2026 - Jahrgang 8</font>
+- <font color="#ffd700">Freitag, 14.08.2026 - Jahrgang 7</font>
+- Montag, 17.08.2026 - Jahrgang 6
+- Dienstag, 18.08.2026 - Jahrgang 5
+## Gesamtkonferenz
+### GK1
+- Handytaschen und ⟹ vertagt
+- neue Kollegen:
+- Hanno über nimmt Fachbereich GTA
+- careroom team startet ab der 2. Woche
+- rollsporthalle wird abgerissen
+- terminkalender Din A4
+	- nur noch über das Schulportal im Kalender ersichtlich
+
+#### Bericht der Stufenleitung
+##### 5er/6 Katrin
+- 4 Klassen 
+- Kassenstärke 22
+- Einschulungsfeier Dienstag
+- Mittwoch Donnerstag Freitag ~={RedRed}Einführung=~
+	- Bücher holen usw
+	- 2. woche normal unterricht
+	- 3. woche AGs
+	- notbetreuung anmeldung ska
+	- noch ein paar neue Schüler
+	- markt der möglichkeiten Donnerstag (nur 5er ,6er, 7er)
+		- so ne art messe
+		- verschiedene AG Angebote
+		- in welchen wollen sich die Kinder anmelden
+##### Regina Laumann 7/8
+- 6 Klassen - zwei kurzfristig angemeldet
+- 20-23 Schüler
+- sebastian lang und julia görlich - neue klassenlehrer
+- viele rückläufer von den gymnasien
+	- Losverfahren für die Schüler
+	- Klassen wurden mit Bestandsschülern aufgefüllt
+- Klassenlisten im Schulportal sind noch nicht aktuell / nicht angelegt
+	- #task ~={Crimson}Klassenlisten bei Regina holen =~ 
+- hat aufnahmegespräche mit schülern geführt
+	- falls wir ~={LawnGreen}infos zu den schülern=~ wollen
+
+##### Ute einicke?  9/10
+- selten im hauptgebäude - hauptsächlich interimsgebäude
+- 18 neue 10. klässler vom gymmi aufgenommen
+- geht direkt los mit den präsentatiosnsprüfung
+	- schüler müssen mentoren suchen - jeder steht dafür zur verfügung mentor zur sein
+	- müssen Vorantrag abgeben - 21.8 (Abgabe)
+		- soll von mentoren kritisiert werden
+	- max 4 Schüler pro mentor
+	- ~={Crimson}keine=~ hausarbeit mehr
+		- als mentor ratsam den schülern das zu empfehlen
+		- aber ist kein prüfungszulassungskriterium mehr
+	- schüler müssen portfolio abgeben (alle~={DeepSkyBlue} infos hängen am schwarzenbrett=~ 9er/10er)
+		- thema
+		- fach
+		- gliederung
+		- kurzbeschreibung
+		- Quellen
+		- portfolio
+	- darf kein unterrichtsstoff sein und wenn, dann muss eindeutiger lernzuwachs klar sein
+	- es wird dieses jahr nur noch das Thema genehmigt
+	- 3. beratungsgespräch nach den herbstferien
+	- 18. nov. Abgabe des portfolios
+		- keine plagiats prüfung der inhalte
+		- wir sehen ja nur die gliederung
+		- nur spontan erfragen ob KI verwendet
+		- ⤷ wird auch gar nicht technisch geprüft
+	- prüfung in der 1. dezemberwoche
+	- in den nächsten 2 wochen können Schüler zu mir kommen - "magst du mein mentor sein"
+- 9er AL zunächst im klassenverband
+	- grobe themen eingeteilt
+	- pro klasse max 2 holz, 2 textil, 2 küche
+- montag werden sportkurse eingwählt
+
+
+#### Laborwoche - Nadine Richter
+- klassenlehrer bleiben in ihrem jahrgang
+- noch 7 wochen seit 2026-08-07 
+	- eine woche vor den herbstferien
+- Themen sind nicht festgeschrieben
+	- wiederbeleben
+	- erweitern
+
+#### Nutzungskonzept Schulportal
+- wichtige punkte
+	- Nutzungsumfrage
+	- 
+##### mein unterricht
+- pflichtfelder ~={Gold}gelber kasten=~ unten 
+	- ![[../../Pasted image 20260807110602.png]]
+	- ![[../../Pasted image 20260807110628.png]]
+- deadline - Ende der unterrichtswoche
+- Vertretungsunterricht
+
+##### Klausurenplaner 
+
+![[../../Pasted image 20260807110647.png]]
+![[../../Pasted image 20260807110657.png]]
+
+##### Räume & Medien
+![[../../Pasted image 20260807110736.png]]
+![[../../Pasted image 20260807110748.png]]
+
+##### Datensicherung
+- müssen die Archivierung (Verpflichtet den unterricht zu dokumentieren und zu archivieren - ~={Gold}Aufbewahrungsdauer:=~ 5 Jahre) - der ursprünglichen Klassenbücher 
+	- nachbilden in dem wir
+		- ~={MediumTurquoise}exportieren=~ 
+		  ![[../../Pasted image 20260807111829.png]]
+		- auf Usb stick ziehen und im kopierraum ~={MediumSpringGreen}ausdrucken=~ 
+		- ~={purple}unterschreiben=~
+	- pro kurs muss das erledigt werden
+	- es gibt verschiedene möglichkeiten zur exportierung
+	- es steht darin aber nur:
+		- thema der Stunde
+		- anwesenheit
+
+- schulportal löscht nach ablauf eines Schuljahrs
+	- zu nächst im archiv ⟹ im kommenden Schuljahr gelöscht
+
+- muss einzigartig sein, daher muss ausgedruckt sein und nicht digital archiviert
+	- 
+
+- idee:
+	- fach für jahrgang im sekretariat
+	- sekretariat archiviert das
+
+#### Terminierte Vorbereitungskonferenzen im Jahrgang
+- bedarf - lehrkräfte die gemeinsam eine lehrgruppe unterrichten sich über diese austauschen
+	- regeln und rituale in den klassen
+	- krankheiten und besonderheiten der schüler
+		- wer ist L - Schüler
+		- diabetes
+		- autismus
+		- adhs
+	- besondere aktivitäten
+	- ausflüge
+	- alle auf gleichen Wissenstand
+	- gibt es Schüler die auf keinen fall nebeneinander sitzen sollen
+	- bei Zeugniskonferenz immer viel Gesprächsbedarf
+	- infos über die schüler, die so nicht im schulportal stehen
+	- mal alle beim Start mit vorhandenen Infos versorgen
+	- verhaltensbesprechung
+	- ne schulter zum ausweinen 😜
+- arbeitspläne / jahrespläne der fachschaft müssen erstellt werden / curricula ⟹ werden vom Schulamt geprüft
+	- war ursprünglich nicht gedacht dass das teil der veranstaltung ist
+- Änderungs-Vorschläge
+	- vielleicht eher klassenweise?
+	- später im jahr
+	- förderkonferenz 
+		- später 
+		- nicht doppelt?
+	- vorschlag arbeitszeit durch Pädagogischen Tag zurückzuholen
+- axel
+	- nur 1/3 der Arbeitszeit geht bei ihm für die unterrichtvorbereitung drauf
+	- arbeitgeber hat die "KO"-Stunden aus der Arbeitszeit gestrichten
+	- ⤷ die zeit ist dem Dienstherren wohl nichts wert
+	- eigentlich sollen für alle Schüler förderpläne geschrieben werden
+- alex siede
+	- in form eines Studientags zu gestalten
+	- kleines Team bilden, was einen solchen Studientag vorbereitet
+	- verfügbares Kontingent
+		- 2 pädagogische Tage 
+		- ein Studientag
+
+~={RedRed} Termine sich zurück gezogen=~
+- soll erstmal etwas vom Schulleitungsteam und Personalrat ausgearbeitet werden, was ziel und plan ist
+- ⤷ wird zur nächsten gesamtkonferenz vorgestellt
+	- ⤷ dort wird ein plan team gewählt
+
+#### Verschiedenes
+- suspendierter Schüler hat Drohbriefe geschrieben und in den Gebäuden verteilt...
+- Gruppe für THA gegründet
+	- konzept entwickelt
+	- ⤷ dazu wird etwas herum geschickt
+	- ⤷ daürber wird in der nächsten GK abgestimmt
+- englisch 
+	- lehrwerksbegleitendes material ist online ~={RedRed}Nadine ist ansprechspartner=~
+	- westermann 
+		- online 
+		- einloggen 
+	- gibt auch was für französisch - da braucht man aber nen code
+- Hanno
+	- hat material was er über die Jahre gesammelt hat in einem karton mitgebracht
+	- steht auf nem Schrank
+	- #task ~={RedRed}nochmal nachfragen=~
+- nathalie
+	- holt experten an die Schule
+	- zum thema 
+		- tiere
+		- wildtiere
+		- garten
+		- hundeschule
+		- rettungsstaffel
+		- ~={Orchid}ihr kontakt zur Dore geben?=~
+	- kooperationen auf die ~={DeepSkyBlue}homepage=~
+- nadine
+	- verknügungskommite
+		- nathalie
+		- katarina
+		- maria
+		- claudia
+		- nadine
+	- einmal im Jahr 20€ eingesammelt
+	- #task muss nadine noch 20€ geben
+	- harald hat kostenlose schwimmkurse an 6 schüler in den sommerferien gegeben
+- claudia
+	- bücher
+	- immer im Raum 1
+	- ~={RedRed}Bücher bei ihr holen =~
+		- [ ] physik
+		- [ ] mathe
+- harald
+	- ganze menge neue schüler
+	- ⤷ können sie schwimmen?
+		- Schwimmausweis zeigen lassen
+		- häcken machen
+		- mindest bronze schwimmzeichen erreichen
+	- ziel nichtschwimmer freie Schule
+		- ⤷ auszeichnung vom dlrg
+	- katrin:
+		- steht bei den neuen jetzt schon in der akte
+
+- Michel Friedmann kommt zu besuch
+	- workshop mit 40 - 10. klässlern - 10 pro klasse
+	- lehrkräfte sind nicht erwünscht ⟹ schüler agieren dann anders
+	- gibt noch allgemeine infos
 # Aufgaben-Ideen
 ## Mathe
 ### Prozentrechnung 
@@ -2146,5 +2384,4 @@ Deshalb ging die Sirene 3 mal!
 	- bei ihm liegt es schon stark am Umfeld, ich sehe bei ihm schon die Bestrebungen, dass er das eigentlich nicht möchte, aber er lässt sich hineinziehen, bricht selbst aber nicht aus diesem Kreislauf heraus 
 - wissam mutter 017632050239
 
-# <font color="#9bbb59">tester</font> 
-Test
+
