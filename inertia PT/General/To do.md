@@ -133,6 +133,10 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 
+- [ ] Schulportal 
+	- [ ] ersteinlog
+	- [ ] 
+
 - [x] Gesicht waschen
 - [ ] ce que/ce qui nochmal anschauen 
 - [ ] tasks aufräumen  
@@ -257,7 +261,7 @@
  %% fold %%
 - [x] Schulportal Login 
 	- ⤷Jamil hat einen <font color="#ff0000">Reset</font> gemacht 
-	- [x] <font color="#ff69b4">Fach checken</font> (@2026-08-07 09:30) 
+	- [x] <font color="#ff69b4">Fach checken</font> (@2026-08-07 09:30)
  %% fold %%
 - [ ] Wie nutze ich zum Kalender sync mit obsidian? %% fold %%
 	- <font color="#ff1493">Day Planner</font>??? %% fold %%
@@ -332,7 +336,7 @@
 		Im Besprechungsraum liegen ab Mittwoch, den 05.08.26, die Schulplaner für die Jahrgänge 5-8 sowie die Entschuldigungshefte für die Jahrgänge 9-10 bereit. Bitte holt diese möglichst noch in den Ferien für eure Klasse ab und bringt sie in euer Klassenzimmer.
 		
 		Wir wünschen euch weiterhin erholsame Ferien und freuen uns auf ein gesundes Wiedersehen.
-- [x] Stundenplan für nächstes Jahr? In welchen Jahrgängen habe ich Unterricht:
+- [x] Stundenplan für nächstes Jahr? In welchen Jahrgängen habe ich Unterricht: %% fold %%
 	- Liebe Kolleginnen und Kollegen,
 
 		zum neuen Schuljahr führen wir Jahrgangsteamsitzungen ein. Diese sollen die Absprachen innerhalb der Jahrgänge erleichtern, die Kommunikation stärken und insbesondere den Austausch mit unseren neuen Kolleginnen und Kollegen fördern. %% fold %%

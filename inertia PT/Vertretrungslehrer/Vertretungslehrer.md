@@ -1666,15 +1666,15 @@ Ich übernehme:
 		- 10a
 		- 10b
 
-## ..
+## <font color="#ffd700">Jahrgangsteamsitzungen</font>
 Die ersten Termine finden jeweils um 13:45 Uhr im Lehrerzimmer statt
-		
-		- <font color="#ffd700">Dienstag, 11.08.26 - Jahrgang 10</font>
-		- Mittwoch, 12.08.2026 - Jahrgang 9
-		- <font color="#ffd700">Donnerstag, 13.08.2026 - Jahrgang 8</font>
-		- <font color="#ffd700">Freitag, 14.08.2026 - Jahrgang 7</font>
-		- Montag, 17.08.2026 - Jahrgang 6
-		- Dienstag, 18.08.2026 - Jahrgang 5
+Jahrgangsteamsitzungen
+- <font color="#ffd700">Dienstag, 11.08.26 - Jahrgang 10</font>
+- Mittwoch, 12.08.2026 - Jahrgang 9
+- <font color="#ffd700">Donnerstag, 13.08.2026 - Jahrgang 8</font>
+- <font color="#ffd700">Freitag, 14.08.2026 - Jahrgang 7</font>
+- Montag, 17.08.2026 - Jahrgang 6
+- Dienstag, 18.08.2026 - Jahrgang 5
 ## Gesamtkonferenz
 ### GK1
 - Handytaschen und ⟹ vertagt
@@ -1743,6 +1743,7 @@ Die ersten Termine finden jeweils um 13:45 Uhr im Lehrerzimmer statt
 - 9er AL zunächst im klassenverband
 	- grobe themen eingeteilt
 	- pro klasse max 2 holz, 2 textil, 2 küche
+- montag werden sportkurse eingwählt
 # Aufgaben-Ideen
 ## Mathe
 ### Prozentrechnung 
