@@ -2210,21 +2210,24 @@ on his remote computer. However, he still has to enter two passwords, first, for
 git log -p <file> 
 ```
 - results in `Commit-ID`
-#### *opt:* create a branch of the parent commit-ID
-
-```git
-git branch temp-branch <Commit-ID>~1
-```
 
 ### 2.  Opt 1: git revert commit
+ 
+> [!tip] *optional:* create a branch of the parent commit-ID
+> 
+> ```git
+> git branch temp-branch <Commit-ID>~1
+> ```
+> 
 
+#### 1.  git revert commit
 With `git revert` it is possible to revert / undo a whole git commit.
 ```git
 git revert <Commit-ID>
 ```
 This restores possible deleted lines in `main`.
 
-### 3. check the diff between the parent commit and head
+##### 2. check the diff between the parent commit and head
 
 ```git
 git diff <Commit-ID>~1
