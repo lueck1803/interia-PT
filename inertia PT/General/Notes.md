@@ -2199,6 +2199,8 @@ on his remote computer. However, he still has to enter two passwords, first, for
 
 ## if there was a wrong commit maybe due to being ahead mismatch
 
+
+
 ### 1. Find the commit that you wan to revert
 
 ```git
