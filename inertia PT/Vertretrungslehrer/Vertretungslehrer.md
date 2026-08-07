@@ -1687,8 +1687,19 @@ Ich übernehme:
 	- 3. woche AGs
 	- notbetreuung anmeldung ska
 	- noch ein paar neue Schüler
-	- markt der möglichkeiten Donnerstag
-		- 
+	- markt der möglichkeiten Donnerstag (nur 5er ,6er, 7er)
+		- so ne art messe
+		- verschiedene AG Angebote
+		- in welchen wollen sich die Kinder anmelden
+##### Regina Laumann 7/8
+- 6 Klassen - zwei kurzfristig angemeldet
+- 20-23 Schüler
+- sebastian lang und julia görlich - neue klassenlehrer
+- viele rückläufer von den gymnasien
+	- Losverfahren für die Schüler
+	- Klassen wurden mit Bestandsschülern aufgefüllt
+- Klassenlisten im Schulportal sind noch nicht aktuell / nicht angelegt
+	- Listen bei 
 # Aufgaben-Ideen
 ## Mathe
 ### Prozentrechnung 
