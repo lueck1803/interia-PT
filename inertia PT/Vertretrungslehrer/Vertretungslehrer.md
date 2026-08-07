@@ -359,7 +359,7 @@ Tafelbild Überschrift **Zahlensysteme und Einheiten umrechnen**
 	- Ein Zahlenstrahl: 
 		- dabei Natürliche zahlen eine Farbe 
 		- Ganze zahlen eine Farbe
-		- rationale zahlen
+		- rationale zahlen %% fold %%
 		- "zwischen" den rationalen zahlen liegen die irrationalen Zahlen. Da die rationalen Zahlen "dicht" in R liegen:
 			- Die rationalen Zahlen liegen dicht auf der Zahlengerade, das heißt: Jede reelle Zahl (anschaulich: jeder Punkt auf der Zahlengerade) kann beliebig genau durch rationale Zahlen angenähert werden.
 ### knowledge base
