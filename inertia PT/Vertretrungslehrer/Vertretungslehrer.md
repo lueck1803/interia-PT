@@ -2,7 +2,7 @@
 # To-Do 
 - [ ] Versmaß verstehen (Videos auf yt)
 	- [ ] jambus
-	- [ ] trochäus  %% fold %%
+	- [ ] trochäus 
 	- [ ] Reimschema 
 - [ ] Stundenplan in den Kalender eintragen
 	- [ ] kann man den exportieren?
@@ -258,7 +258,7 @@ Arbeitsstunden KW 19:
 			- jeder zeichnet einen Kreis 
 			- legt eine Schnur drum und misst sie aus
 		-  $\pi=\frac{U}{d}=\frac{U}{2r}$
-	- Fläche? %% fold %%
+	- Fläche?
 		- quadrat und darin Kreis zeichnen 
 		- ![[../Vertretrungslehrer/Images/BAS/Mathe/01_Pi-Definition_mittels_Flächeninhalt.svg.png]]
 		- $\frac{A_{\text{Quadrat}}}{A_{\text{Kreis}}}=\frac{(2r)^{2}}{A_{\text{Kreis}}}=\frac{(2r)^{2}}{k \cdot r^2}=\frac{4 \cancel{r^2}}{k \cdot \cancel{r^2}}=\frac{4}{k}$ und $k$ nennen wir in Folge $\pi$
@@ -797,7 +797,7 @@ in den anderen Fällen bleibt der Artikel erhalten
 				- Präsenz: 107
 				- Präteritum: 109
 				- Perfekt: 110
-				- Plusquamperfekt: 112 %% fold %%
+				- Plusquamperfekt: 112
 				- Futur 1 und 2: 113
 		- Adjektive: 116
 		- Pronomen: 119
