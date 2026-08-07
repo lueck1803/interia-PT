@@ -135,6 +135,8 @@
 
 - [x] git history am pc installieren
 
+- [x] new tab am pc installieren 
+
 - [x] am PC machen:
 	1. Install the BRAT plugin ([GitHub - TfTHacker/obsidian42-brat: BRAT - Beta Reviewer's Auto-update Tool for Obsidian.](https://github.com/TfTHacker/obsidian42-brat))
 	2. Within BRAT settings you can add a plugin with “ibash/obsidian-new-window” to install my plugin
