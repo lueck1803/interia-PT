@@ -2222,10 +2222,22 @@ git diff [<other-branch> <commit> <file>]
 ```
 Show changes between the working tree and the index or a tree, changes between the index and a tree, changes between two trees, changes resulting from a merge, changes between two blob objects, or changes between two files on disk.
 
+For example the difference between `HEAD`and the last commit:
+
+```git
+git diff 2fa3fd01~1 2fa3fd01
+```
+
 ```git
 git diff <commit-1> <commit-2>
 ```
+Shows the difference between `commit-1`and `commit-2`.
 
+For example the difference between the commit *id* `2fa3fd01`and its parent:
+
+```git
+git diff 2fa3fd01~1 2fa3fd01
+```
 
 ## restore a file
 ### git revert
