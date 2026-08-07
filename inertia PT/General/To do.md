@@ -160,14 +160,27 @@
 	- [ ] Plan bis zur ersten Klausur vorbereiten das den Leuten zeigen 
 		- [ ] was wird erwartet bzw was ist der Plan 
 	- [ ] Vorstellungsrunde 
-		- [ ] 3rsem
+		- [ ] erstmal Anwesenheit 
+			- [ ] Regina laumann wegen der aktuellen Pläne fragen
+		- [ ] was erwarte ich vom Unterricht 
+			- [ ] jeder schlauer herausgeht als zuvor 
+			- [ ] aha Erlebnis 
+			- [ ] gute Zusammenarbeit 
+			- [ ] gegenseitiger Respekt 
+			- [ ] gute Mitarbeit 
+			- [ ] gegenseitige Unterstützung 
+			- [ ] hoffentlich gute Noten
+			- [ ] ich möchte dass wir zusammen ne gute Klassenarbeit schreiben 
+			- [ ] 
 		- [ ] jeder soll mal etwas über sich erzählen (15 min Vorbereitungszeit)
 			- [ ] seine Einstellung zum Unterrichtsfach 
 				- [ ] was bedeutet es für einen
 				- [ ] was ist die Gesellschaftliche Bedeutung 
 				- [ ] wie ist es mit anderen Fächern verknüpft 
+				- [ ] berufliche Bedeutung 
 			- [ ] ganz ehrlich: Schwächen und Stärken 
 			- [ ] was nehmen sie sich konkret für das nächste Schuljahr vor?
+			- [ ] was erwarten sie von mir
 			- [ ] 
 
 - [ ] alles vorbereiten dass ich morgen fahren kann
