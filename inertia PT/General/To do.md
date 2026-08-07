@@ -254,7 +254,7 @@
 
 - [ ] images in Obsidian aufräumen
 
-- [ ] 60° Wäsche <font color="#92d050">2026-08-06</font>
+- [ ] 60° Wäsche <font color="#92d050">2026-08-06</font> %% fold %%
 	- [ ] abhängen  %% fold %%
 	- [ ] zusammenlegen  %% fold %%
 	- [ ] wegräumen  %% fold %%
