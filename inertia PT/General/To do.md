@@ -134,7 +134,7 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - [x] Balkonpflanzen gießen  %% fold %%
 - [ ] Zähne putzen 
-- [ ] Schulgarten checken/gießen %% fold %%
+- [x] Schulgarten checken/gießen %% fold %%
 - [ ] Duolingo %% fold %%
 - [ ] Würstchen essen 
 - [ ] Bier trinken 
