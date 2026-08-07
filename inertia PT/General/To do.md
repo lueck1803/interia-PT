@@ -133,6 +133,8 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 
+- [ ] git history am pc installieren
+
 - [ ] am PC machen:
 	1. Install the BRAT plugin ([GitHub - TfTHacker/obsidian42-brat: BRAT - Beta Reviewer's Auto-update Tool for Obsidian.](https://github.com/TfTHacker/obsidian42-brat))
 	2. Within BRAT settings you can add a plugin with “ibash/obsidian-new-window” to install my plugin
