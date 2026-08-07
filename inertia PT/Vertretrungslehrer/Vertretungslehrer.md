@@ -1625,11 +1625,20 @@ Ich übernehme:
 
 # <font color="#00b050">WS 26/27</font>
 ## Klassen die ich betreue:
+### Gespräch mit jamil
+1. Energie und Leistung
+	1. Praktisches - Leistung berechnen: treppen laufen 
+2. Ein bisschen Radioaktivität 
+3. Stromversorgung 
+	1. Stromerzeugung - Kraftwerkstypen 
+	2. Hoch - Niederspannung 
+	3. Gefährlichkeit - Unterschied ac/dc
+
 ### Mathe
 - Ansprechpartner
 	- Lukas Kohlmeier (koh)
-	- (mel)
-	- (ein)
+	- lukas melcher (mel)
+	- einike (ein)
 - 4 h/w
 	- 8a 
 	- 8b 
@@ -1637,10 +1646,10 @@ Ich übernehme:
 ### Physik
 - Ansprechpartner / Kollegen der Jahrgänge
 	- 7er:
-		- mid
+		- oliver middel (mid)
 	- 8er 
-		- wol
-		- lae 
+		-  (wol)
+		- anna lauer lae 
 	- 10er 
 		- Jamil Hirsch
 - Stunden pro Woche - Klassen 

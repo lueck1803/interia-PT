@@ -133,29 +133,48 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 
-- [x] Zähne putzen 
 - [x] Gesicht waschen
 - [ ] ce que/ce qui nochmal anschauen 
 - [ ] tasks aufräumen  
 - [x] bier auf dem tisch weg wischen 📅 2026-08-06 23:25 ✅ 2026-08-06
 - [ ] meditieren 
-- [ ] Zeug im Spülkorb wegräumen 
-- [ ] Spülmaschine Graphitöl ölen
 - [x] Device manager checken
 	- ⟹ wird <font color="#c00000">nix</font> angezeigt
-- [ ] Zeug für Konferenz lesen 📅 2026-08-07 00:40 ✅ 2026-08-07
+- [x] Zeug für Konferenz lesen 📅 2026-08-07 00:40 ✅ 2026-08-07
 
-- [x] #task Beschreibung durchlesen 📅 2026-08-07 01:00 ✅ 2026-08-07
-	- [ ] habs mal am mac installiert und auch den calender eingetragen, weiß aber nicht, ob der gesynct hat. bisher erscheint nichts
+- [x] #task <font color="#48d1cc">day planner</font> Beschreibung durchlesen 📅 2026-08-07 01:00
+	- habs mal am mac installiert und auch den calender eingetragen, weiß aber nicht, ob der gesynct hat. bisher erscheint nichts
+	- naja irgendwie strange
 
-- [ ] #task test task 📅 2026-08-07 02:00
+- [x] Termine für die nächste Woche erstellen 
+
+- [x] Bahnverbindung raus suchen 
+
 
 - [x] Tastatur wischen
 	- [x] laptop
 	- [x] PC
 
+- [ ] Zähne putzen 
+- [ ] Balkonpflanzen gießen 
+- [ ] Zeug im Spülkorb wegräumen 
+- [ ] Spülmaschine Graphit-öl ölen
+- [ ] graue Decke in Wäsche 
 - [ ] duschen 📅 2026-08-07 07:00
 - [ ] Klamotten fürs Foto raussuchen 📅 2026-08-07 07:15
+- [ ] Schulgarten checken/gießen
+- [ ] Wegen Schul-ID Zettel unterschreiben lassen und abgeben? %% fold %%
+
+- [ ] reminder gibt's ne Einstellung für mobile die blockiert ?
+
+- [ ] neue schicke Schuhe pflegen
+
+
+- oh wow Aufzug im Keller ist leise 
+
+- [ ] Arthur schreiben ⟹ soll <font color="#92cddc">Vorschlag</font> für neues Projekt machen 
+
+- [ ] zino ich möchte shin son hab kido machen 
 
 - [ ] images in Obsidian aufräumen
 
@@ -164,7 +183,7 @@
 	- [ ] zusammenlegen  %% fold %%
 	- [ ] wegräumen 
 
-- [ ] helle Wäsche <font color="#ff6e6e">2026-08-07</font>
+- [ ] helle Wäsche <font color="#ff6e6e">2026-08-07</font> %% fold %%
 	- [x] anstellen %% fold %%
 	- [x] schleudern  %% fold %%
 		- [x] vorher riechen ob zu viel Waschpulver  %% fold %%
@@ -189,9 +208,18 @@
 		- [ ] App checken
 		- [ ] Muss ich neue Angaben machen?
 
+- [ ] 30 min Gitarre spielen 
+	- [ ] ~={MediumViolet}fraught=~ ~={DeepSkyBlue}mit Timer=~
+		- [ ] intro lead mit slide %% fold %%
+	- [ ] ~={DeepSkyBlue} Dream and the waking=~ <font color="#ff0000">im stehen</font>
+		- [ ] Stakkato 
+		- [ ] intro lead
+		- [ ] Melodie 
+		- [ ] Tremolo Picking 
+
 - [ ] zu den Eltern fahren 📅 2026-08-07 14:00 %% fold %%
-	- [ ] Stuhloberteil
-	- [ ] Sonnenbrille vom Papa
+	- [ ] Stuhloberteil %% fold %%
+	- [ ] Sonnenbrille vom Papa %% fold %%
 	- [ ] Apfelschneider
 	- [ ] wo ist meine Handyhalterung fürs Rad? Ahl?
 	- [ ] französisch Buch weiter lesen
@@ -204,8 +232,8 @@
 - [ ] mich um den pc kümmern
 
 
-- [ ] obsidian kram wieder installieren
-	- [ ] <font color="#ff1493">Day Planner</font>???
+- [x] obsidian kram wieder installieren  %% fold %%
+	- [x] <font color="#ff1493">Day Planner</font>???
 		- [x] pc
 		- [x] mac
 		- [x] handy
@@ -225,10 +253,11 @@
 - [ ] Ticket für *my sleeping karma*
 	- [ ] ⤷ arthur bescheid geben
  %% fold %%
-- [ ] Schulportal Login %% fold %%
+- [x] Schulportal Login 
+	- ⤷Jamil hat einen <font color="#ff0000">Reset</font> gemacht 
+	- [ ] <font color="#ff69b4">Fach checken</font> (@ 2026-08-07 09:30) 
  %% fold %%
- %% fold %%
-- [ ] Was nutze ich zum Kalender sync mit obsidian? %% fold %%
+- [ ] Wie nutze ich zum Kalender sync mit obsidian? %% fold %%
 	- <font color="#ff1493">Day Planner</font>??? %% fold %%
 		- sieht irgendwie genauso aus wie das was ich will??? %% fold %%
 	- Google Calendar and Tasks Sync %% fold %%
@@ -266,7 +295,6 @@
  %% fold %%
 
  %% fold %%
-- [ ] Wegen Schul-ID Zettel unterschreiben lassen und abgeben? %% fold %%
 - [ ] Lehrpläne für meine Jahrgänge %% fold %%
 	- [ ] raus suchen %% fold %%
 	- [ ] wichtige teile ausdrucken  %% fold %%
@@ -282,15 +310,15 @@
 			- [ ] möglichst schnell in Tätigkeit kommen 
 		- [ ] Checkliste/was muss ich wissen und wo kann ich es nachlesen bis zur nächsten Klausur erstellen 
 		- [ ] Regeln für den Unterricht klar überlegen 
-- [ ] wie lange geht die Konferenz am Freitag? %% fold %%
+- [ ] wie lange geht die Konferenz am Freitag? <font color="#7cfc00">~12 uhr</font> %% fold %%
 	- [ ] Bahnverbindung zu den Eltern heraussuchen  %% fold %%
 	- [ ] in den Kalender eingetragen 
 	- [ ] Eltern informieren 
 	- [ ] dran denken mit zu nehmen:
 		- [ ] Apfelschneider 
 		- [ ] Sitz vom kleinen Drehstuhl 
-- [ ] email Gesamtkonferenz %% fold %%
-	- [ ] Liebe Kolleginnen und Kollegen,
+- [x] email Gesamtkonferenz %% fold %%
+	- Liebe Kolleginnen und Kollegen,
 
 		hiermit lade ich euch herzlich zur ersten Gesamtkonferenz (GK1) des Schuljahres 26/27 ein.
 		
@@ -302,8 +330,8 @@
 		Im Besprechungsraum liegen ab Mittwoch, den 05.08.26, die Schulplaner für die Jahrgänge 5-8 sowie die Entschuldigungshefte für die Jahrgänge 9-10 bereit. Bitte holt diese möglichst noch in den Ferien für eure Klasse ab und bringt sie in euer Klassenzimmer.
 		
 		Wir wünschen euch weiterhin erholsame Ferien und freuen uns auf ein gesundes Wiedersehen.
-- [ ] Stundenplan für nächstes Jahr? In welchen Jahrgängen habe ich Unterricht: %% fold %%
-	- [ ] Liebe Kolleginnen und Kollegen,
+- [x] Stundenplan für nächstes Jahr? In welchen Jahrgängen habe ich Unterricht: %% fold %%
+	- Liebe Kolleginnen und Kollegen,
 
 		zum neuen Schuljahr führen wir Jahrgangsteamsitzungen ein. Diese sollen die Absprachen innerhalb der Jahrgänge erleichtern, die Kommunikation stärken und insbesondere den Austausch mit unseren neuen Kolleginnen und Kollegen fördern. %% fold %%
 		
@@ -315,7 +343,7 @@
 		- Mittwoch, 12.08.2026 - Jahrgang 9
 		- <font color="#ffd700">Donnerstag, 13.08.2026 - Jahrgang 8</font>
 		- <font color="#ffd700">Freitag, 14.08.2026 - Jahrgang 7</font>
-		- Montag, 17.08.2026 Jahrgang 6
+		- Montag, 17.08.2026 - Jahrgang 6
 		- Dienstag, 18.08.2026 - Jahrgang 5
 		
 		Bitte merkt euch den für euch relevanten Termin bereits jetzt vor.
@@ -352,9 +380,7 @@
 				- 10a
 				- 10b
 
-- [x] Balkonpflanzen gießen 
 - [x] carnivoren gießen 
-- [x] Schulgarten checken/gießen
 - [x] Laptop auf den Tisch 
 
 
@@ -368,9 +394,6 @@
 - [x] Badspiegel putzen  %% fold %%
 
 - [x] staubsaugen  %% fold %%
-- [ ] 30 min Gitarre spielen ~={MediumViolet}fraught=~ ~={DeepSkyBlue}mit Timer=~ %% fold %%
-	- [ ] intro lead mit slide %% fold %%
-	- [ ] Stakkato 
 - [x] Küchenabfall wegbringen 
 - [x] Restmüll weg %% fold %%
 - [x] Briefkasten checken %% fold %%

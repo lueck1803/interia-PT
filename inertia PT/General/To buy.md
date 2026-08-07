@@ -1,3 +1,5 @@
+# Internet 
+- [ ] Usb ⇔ Usb-c Kabel (2m)
 # Aldi
 ## Jetzt
 - Einkaufswagen 
@@ -91,6 +93,11 @@
 - [ ] Basecap/Hut
 - [ ] große flache Teller 
 - [ ] gravelbike 
+
+# Kleidung 
+- [ ] Kurzarm Hemden 
+	- [ ] im legeren vintage Style 
+	- [ ] bzw wie das blau karierte
 # non food
 - [ ] kleinen Schneebesen 
 - [ ] Plastik Plättchen zum tür öffnen -> pet Flasche 
