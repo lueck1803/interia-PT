@@ -1666,6 +1666,15 @@ Ich übernehme:
 		- 10a
 		- 10b
 
+## ..
+Die ersten Termine finden jeweils um 13:45 Uhr im Lehrerzimmer statt
+		
+		- <font color="#ffd700">Dienstag, 11.08.26 - Jahrgang 10</font>
+		- Mittwoch, 12.08.2026 - Jahrgang 9
+		- <font color="#ffd700">Donnerstag, 13.08.2026 - Jahrgang 8</font>
+		- <font color="#ffd700">Freitag, 14.08.2026 - Jahrgang 7</font>
+		- Montag, 17.08.2026 - Jahrgang 6
+		- Dienstag, 18.08.2026 - Jahrgang 5
 ## Gesamtkonferenz
 ### GK1
 - Handytaschen und ⟹ vertagt
@@ -1712,6 +1721,8 @@ Ich übernehme:
 		- soll von mentoren kritisiert werden
 	- max 4 Schüler pro mentor
 	- ~={Crimson}keine=~ hausarbeit mehr
+		- als mentor ratsam den schülern das zu empfehlen
+		- aber ist kein prüfungszulassungskriterium mehr
 	- schüler müssen portfolio abgeben (alle~={DeepSkyBlue} infos hängen am schwarzenbrett=~ 9er/10er)
 		- thema
 		- fach
@@ -1725,8 +1736,13 @@ Ich übernehme:
 	- 18. nov. Abgabe des portfolios
 		- keine plagiats prüfung der inhalte
 		- wir sehen ja nur die gliederung
-		- 
+		- nur spontan erfragen ob KI verwendet
+		- ⤷ wird auch gar nicht technisch geprüft
 	- prüfung in der 1. dezemberwoche
+	- in den nächsten 2 wochen können Schüler zu mir kommen - "magst du mein mentor sein"
+- 9er AL zunächst im klassenverband
+	- grobe themen eingeteilt
+	- pro klasse max 2 holz, 2 textil, 2 küche
 # Aufgaben-Ideen
 ## Mathe
 ### Prozentrechnung 
