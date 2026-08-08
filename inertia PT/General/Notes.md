@@ -2,7 +2,7 @@
 - Biraz Türkçe konusabiliyorum ama şu sıralar pratik yapmadığım için pek bilmiyorum.
 - Biraz Türkçe konusabiliyorum ama şu anda bu konuda yeterli pratiğe sahip değilim.
 - alıştırma - Übung
-
+ %% fold %%
 # Planung
 - Schule mache ich jetzt so lange bis ich meinen Master habe, ich investiere darin nicht mehr so viel zeit
 - der Master ist die <u><font color="#00b0f0">Priorität</font></u>
