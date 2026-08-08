@@ -136,6 +136,8 @@
 
 - [ ] Foto von den kleinen isolierflaschen machen und Eltern schicken 
 
+- [ ] Lenkergetränkehalter von cube xlc
+
 - [ ] Balkonpflanzen gießen  %% fold %%
 - [ ] Zähne putzen 
 - [x] Schulgarten checken/gießen %% fold %%
