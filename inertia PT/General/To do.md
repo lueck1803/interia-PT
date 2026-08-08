@@ -134,8 +134,6 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - [ ] zeit stoppen wie lange ich zum Schulgarten gießen brauche 
 
-- [ ] Foto von den kleinen isolierflaschen machen und Eltern schicken 
-
 - [ ] Lenkergetränkehalter von cube xlc
 
 - [ ] Handyhalterung an Fahrrad anbringen und ne Testfahrt machen 
@@ -195,7 +193,6 @@
 - [ ] ⤷ins Mathebuch schauen
 - [ ] alles vorbereiten dass ich morgen fahren kann
 
-- [ ] Bahnverbindung raus suchen nach Darmstadt 
 - [ ] ce que/ce qui nochmal anschauen 
 - [ ] wie funktioniert das mit #task richtig?
 
