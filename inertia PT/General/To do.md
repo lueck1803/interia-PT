@@ -138,7 +138,7 @@
 
 - [ ] Handyhalterung an Fahrrad anbringen und ne Testfahrt machen 
 
-- [ ] Balkonpflanzen gießen  %% fold %%
+- [x] Balkonpflanzen gießen  %% fold %% 
 - [ ] Zähne putzen 
 - [x] Schulgarten checken/gießen %% fold %%
 - [ ] Duolingo %% fold %%
