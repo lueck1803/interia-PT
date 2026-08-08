@@ -137,7 +137,7 @@
 - [ ] Lenkergetränkehalter von cube xlc
 
 - [ ] Handyhalterung an Fahrrad anbringen und ne Testfahrt machen 
-
+- [ ] Apfelschneider nachpfeilen
 - [x] Balkonpflanzen gießen  %% fold %% 
 - [ ] Zähne putzen 
 - [x] Schulgarten checken/gießen %% fold %%
@@ -149,7 +149,7 @@
 	- [ ] zusammenlegen  %% fold %%
 	- [ ] wegräumen  %% fold %%
  %% fold %%
-- [ ] helle Wäsche <font color="#ff6e6e">2026-08-07</font> %% fold %%
+- [ ] helle Wäsche <font color="#ff6e6e">2026-08-07</font>
 	- [x] anstellen %% fold %%
 	- [x] schleudern %% fold %%
 		- [x] vorher riechen ob zu viel Waschpulver  %% fold %%
