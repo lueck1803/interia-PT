@@ -135,7 +135,7 @@
 - [ ] zeit stoppen wie lange ich zum Schulgarten gießen brauche 
 
 - [ ] Lenkergetränkehalter von cube xlc
-
+- [ ] Staub saugen
 - [ ] Handyhalterung an Fahrrad anbringen und ne Testfahrt machen 
 - [ ] Apfelschneider nachpfeilen
 - [x] Balkonpflanzen gießen  %% fold %% 
