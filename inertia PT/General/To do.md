@@ -138,6 +138,8 @@
 
 - [ ] Lenkergetränkehalter von cube xlc
 
+- [ ] Handyhalterung an Fahrrad anbringen und ne Testfahrt machen 
+
 - [ ] Balkonpflanzen gießen  %% fold %%
 - [ ] Zähne putzen 
 - [x] Schulgarten checken/gießen %% fold %%
