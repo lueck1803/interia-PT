@@ -133,7 +133,7 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - [ ] zeit stoppen wie lange ich zum Schulgarten gießen brauche 
-
+- [ ] zaras death pants
 - [ ] Lenkergetränkehalter von cube xlc
 - [ ] Staub saugen
 - [ ] Handyhalterung an Fahrrad anbringen und ne Testfahrt machen 
