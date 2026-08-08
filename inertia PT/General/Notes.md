@@ -1370,7 +1370,7 @@ Ich gehe aber auch mal davon aus dass ich den Übergang einfach erst nochmal lan
 ## 26-03-24
 
 #### Email Benno
-Hallo Benno,
+Hallo Benno, %% fold %%
 
 wäre es möglich, dass wir zusammen mit dem Studienbüro sprechen könnten?
 
