@@ -2055,7 +2055,7 @@ Meine Fragen dazu sind:
 - 
 # Tage infolge Produktiv
 Tage produktiv gewesen:
-||||\ ||||\ ||
+||||\ ||||\ |||
 
 
 
@@ -2199,21 +2199,63 @@ on his remote computer. However, he still has to enter two passwords, first, for
 
 ## if there was a wrong commit maybe due to being ahead mismatch
 
-### 1. Find the commit that you wan to revert
+### *Opt 1:* Cherry-Pick the Old Commit
+#### 1. Find the commit that you wan to cherry pick
 
 ```git
 git log -p <file> 
 ```
+- results in `Commit-ID`
+#### 2. Cherry-Pick the Old Commit into `main`
 
-### 2.  git revert commit
 
+```git
+git cherry-pick <commit-ID>
+```
+This applies the changes from that commit to `main`
+#### 3. Resolve any conflicts
+if the cherry-pick fails due to conflicts
+
+### *Opt 2:* Revert the wrong commit 
+#### 1. Find the commit that you wan to revert
+
+```git
+git log -p <file> 
+```
+- results in `Commit-ID`
+
+##### *optional:* create a branch of the parent commit-ID> 
+```git
+ git branch temp-branch <Commit-ID>~1
+```
+ 
+#### 2.  git revert commit
 With `git revert` it is possible to revert / undo a whole git commit.
 ```git
 git revert <Commit-ID>
 ```
 This restores possible deleted lines in `main`.
 
+### 3. check the diff between the parent commit and head
 
+```git
+git diff <Commit-ID>~1
+```
+or 
+```git
+git diff temp-branch
+```
+
+## 4. merge with the desired commit
+```git
+git merge <Commit-ID>~1
+```
+or
+```git
+git merge temp-branch
+```
+
+<font color="#ff0000">⟹ commit and push</font>
 ## git diff
 
 
@@ -2287,8 +2329,49 @@ git commit -m "Revert style.css to a1b2c3d"
 ```
 
 
-## refer to parent commit
+## Delete Branch
+### Delete Local Branch
 
+To delete the _**local**_ branch, use one of the following:
+
+```git
+git branch -d <branch_name>
+git branch -D <branch_name>
+```
+
+- The `-d` option is an alias for `--delete`, which only deletes the branch if it has already been fully merged in its upstream branch.
+- The `-D` option is an alias for `--delete --force`, which deletes the branch "irrespective of its merged status." [Source: `man git-branch`]
+- As of [Git v2.3](https://github.com/git/git/blob/master/Documentation/RelNotes/2.3.0.txt), `git branch -d` (delete) learned to honor the `-f` (force) flag.
+- You will receive an error if you try to delete the currently selected branch
+
+### Delete Remote Branch
+
+As of [Git v1.7.0](https://github.com/gitster/git/blob/master/Documentation/RelNotes/1.7.0.txt), you can delete a _**remote**_ branch using
+
+```git
+git push <remote_name> --delete <branch_name>
+```
+
+which might be easier to remember than
+
+```git
+git push <remote_name> :<branch_name>
+```
+
+which was added in [Git v1.5.0](https://github.com/gitster/git/blob/master/Documentation/RelNotes/1.5.0.txt) "to delete a remote branch or a tag."
+
+Starting with [Git v2.8.0](https://github.com/git/git/blob/master/Documentation/RelNotes/2.8.0.txt), you can also use `git push` with the `-d` option as an alias for `--delete`. Therefore, the version of Git you have installed will dictate whether you need to use the easier or harder syntax.
+
+### Fetch changes
+
+Finally, execute the following on other machines to propagate changes:
+
+```git
+# Fetch changes from all remotes and locally delete 
+# remote deleted branches/tags etc
+# --prune will do the job :-;
+git fetch --all --prune
+```
 ## .gitignore
 - Comment in `.gitignore` with # 
 - Ausnahmen mit `!`
@@ -4272,6 +4355,15 @@ Ich meine aber generell ist zumindest zwischen der evangelischen und katholische
 Der über tausendjährige gewalttätige Konflikt zwischen Schiiten und Sunniten kennt aber kein Ende. 
 
 Wirklich "einig" (nicht mal auf politischer Ebene) sind die sich nur wenn es gegen Israel/die Juden/ den Zustand bzgl Gaza  geht.
+
+# Deutsch sein
+## unambige deutsche Geschichte?
+https://youtube.com/shorts/C1_00-Xg4Ok?is=YQ-y4AfSrpzp8nv1
+
+## homophile ⇔ Widerspruch zu Multikulti
+https://youtube.com/shorts/5xiRkt9gZR4?is=JCdKqVGdmqNNF4LI
+
+
 # Philosophie
 - ![](Pasted%20image%2020251205205458.png)
 
