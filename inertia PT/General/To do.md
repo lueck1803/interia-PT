@@ -218,7 +218,6 @@
        Bzw den hash tags
 
 
-- [ ] Packen -> fahren 
 
 - [ ] Ich behalte alles Zeug ⟹ Kosten zusammen rechnen 
 
