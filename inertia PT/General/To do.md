@@ -133,20 +133,18 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - [ ] zeit stoppen wie lange ich zum Schulgarten gießen brauche 
-- [x] Balkonpflanzen gießen  %% fold %%
+- [ ] Balkonpflanzen gießen  %% fold %%
 - [ ] Zähne putzen 
 - [x] Schulgarten checken/gießen %% fold %%
 - [ ] Duolingo %% fold %%
-- [x] Würstchen essen 
-- [x] Bier trinken 
 - [ ] Kleidung auf Sofa wegräumen 
-- [x] Krafttraining 
+- [ ] Krafttraining 
 - [ ] 60° Wäsche <font color="#92d050">2026-08-06</font>
 	- [ ] abhängen  %% fold %%
 	- [ ] zusammenlegen  %% fold %%
 	- [ ] wegräumen  %% fold %%
  %% fold %%
-- [ ] helle Wäsche <font color="#ff6e6e">2026-08-07</font>
+- [ ] helle Wäsche <font color="#ff6e6e">2026-08-07</font> %% fold %%
 	- [x] anstellen %% fold %%
 	- [x] schleudern %% fold %%
 		- [x] vorher riechen ob zu viel Waschpulver  %% fold %%
@@ -190,7 +188,7 @@
 - [ ] ⤷ins Mathebuch schauen
 - [ ] alles vorbereiten dass ich morgen fahren kann
 
-- [x] Bahnverbindung raus suchen 
+- [ ] Bahnverbindung raus suchen nach Darmstadt 
 - [ ] ce que/ce qui nochmal anschauen 
 - [ ] wie funktioniert das mit #task richtig?
 

@@ -4359,6 +4359,11 @@ Wirklich "einig" (nicht mal auf politischer Ebene) sind die sich nur wenn es geg
 # Deutsch sein
 ## unambige deutsche Geschichte?
 https://youtube.com/shorts/C1_00-Xg4Ok?is=YQ-y4AfSrpzp8nv1
+
+## homophile ⇔ Widerspruch zu Multikulti
+https://youtube.com/shorts/5xiRkt9gZR4?is=JCdKqVGdmqNNF4LI
+
+
 # Philosophie
 - ![](Pasted%20image%2020251205205458.png)
 
