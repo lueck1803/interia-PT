@@ -150,7 +150,7 @@
 - [ ] Lenkergetränkehalter von cube xlc
 - [ ] da ich das tb kabel eh behalte
       ⤷ zusätzlich an ex4 karte und docking station anschließen
-- [ ] Staub saugen
+- [x] Staub saugen ✅ 2026-08-09
 - [ ] Handyhalterung an Fahrrad anbringen und ne Testfahrt machen 
 - [ ] Apfelschneider nachpfeilen
 - [x] Balkonpflanzen gießen  %% fold %% ✅ 2026-08-09
