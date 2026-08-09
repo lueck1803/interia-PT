@@ -134,7 +134,7 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - [x] Handyhalterung an Fahrrad anbringen und ne Testfahrt machen 
 - [x] zeit stoppen wie lange ich zum Schulgarten gießen brauche 
-	- ⤷ 
+	- ⤷~ 30 min 
 - [x] Schulgarten checken/gießen %% fold %%
 - [ ] Krafttraining 
 - [ ] MTB sattel einstellen 
