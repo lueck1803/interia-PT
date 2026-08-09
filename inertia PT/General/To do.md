@@ -138,7 +138,7 @@
 - [ ] Krafttraining 
 - [ ] duschen 
 - [ ] flaschen spülen
-- [ ] carnivorenwasser auffüllen 
+- [x] carnivorenwasser auffüllen 
 - [ ] carnivoren gießen
 - [ ] stecklinge checken
 - [ ] Spülmaschine ausräumen 
