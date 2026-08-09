@@ -135,8 +135,9 @@
 - [ ] zeit stoppen wie lange ich zum Schulgarten gießen brauche 
 - [ ] flaschen spülen
 - [ ] stellenweise wischen
-- [ ] balkon kehren
-- [ ] kaffeesatz und apfelschnitt raus
+- [ ] Spülmaschine einräumen
+- [x] balkon kehren ✅ 2026-08-09
+- [x] kaffeesatz und apfelschnitt raus ✅ 2026-08-09
 - [ ] carnivoren gießen
 - [ ] stecklinge checken
 - [ ] tipler srt
@@ -149,11 +150,11 @@
 - [ ] Staub saugen
 - [ ] Handyhalterung an Fahrrad anbringen und ne Testfahrt machen 
 - [ ] Apfelschneider nachpfeilen
-- [ ] Balkonpflanzen gießen  %% fold %% 
+- [x] Balkonpflanzen gießen  %% fold %% ✅ 2026-08-09
 - [x] Zähne putzen 
 - [ ] Schulgarten checken/gießen %% fold %%
 - [ ] Duolingo %% fold %%
-- [ ] Kleidung auf Sofa wegräumen 
+- [x] Kleidung auf Sofa wegräumen ✅ 2026-08-09
 - [ ] Krafttraining 
 - [ ] 60° Wäsche <font color="#92d050">2026-08-06</font>
 	- [ ] abhängen  %% fold %%
@@ -202,7 +203,6 @@
 			- [ ] was erwarten sie von mir
 			- [ ] 
 - [ ] ⤷ins Mathebuch schauen
-- [ ] alles vorbereiten dass ich morgen fahren kann
 
 - [ ] ce que/ce qui nochmal anschauen 
 - [ ] wie funktioniert das mit #task richtig?
