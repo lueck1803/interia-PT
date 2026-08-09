@@ -149,6 +149,7 @@
 - [ ] carnivoren gießen
 - [ ] stecklinge checken
 - [ ] Spülmaschine ausräumen 
+	- [ ] die läuft etwa ne 1,5 h
 - [ ] tipler srt
 - [ ] Duolingo %% fold %%
 - [ ] Matheschulbuch einbinden
