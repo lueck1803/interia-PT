@@ -144,6 +144,10 @@
 - [x] kaffeesatz und apfelschnitt raus ✅ 2026-08-09
 - [ ] carnivoren gießen
 - [ ] stecklinge checken
+- [ ] Kursplan für 7 Wochen 
+	- [ ] 8 te Klasse Physik 
+	- [ ] 8te Klasse Mathe 
+	- [ ] 
 - [ ] tipler srt
 - [ ] Spülmaschine ausräumen 
 - [ ] zaras death pants
