@@ -1,6 +1,9 @@
 # Kräfte 
-- Umgangssprachliche Begriffe verwenden
-- ⤷ versuchen sie präzisier ausz
+- wir verwenden umgangssprachliche Begriffe, um Vorgänge oder Objekte zu beschreiben. Dadurch kann es Missverständnisse geben und redet eventuell über etwas meint aber etwas ganz anderes
+- ⤷ versuchen sie präzisier auszudrücken
+- Worum geht es in der physik?
+	- Vorgänge und Gesetzmäßigkeiten möglichst zu isolieren und sie so einfach wie möglich darzustellen
+- In der Physik und den Naturwissenschaften überhaupt darum sich möglichst präzise und 
 ## Basis Wissen
 - physikalische Größen
 	- Länge / Strecke - Bezeichnung $\vec{s}$
