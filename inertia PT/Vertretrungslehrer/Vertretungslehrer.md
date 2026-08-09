@@ -279,7 +279,7 @@ $$ Fragen was nicht verstanden wurde
 	- $1=\frac{\pu{ 1 in }}{\pu{ 2.54cm }}$
 	- $\pu{ 64cm }=\pu{ 64 \cancel{cm} } \cdot \frac{\pu{ 1in }}{\pu{ 2.54\cancel{cm} }}= \frac{64}{2.54}\pu{ in }=\pu{ 25.19685 in }$
 	- ~={DeepSkyBlue}Aufgabe=~ 
-	- 55 miles per hour $\pu{ 55 mi//h}$ in $\pu{ km//h }$ and $\pu{ m//s }$ 
+	- 55 miles per hour $\pu{ 55 mi//h}$ in $\pu{ km//h }$ und $\pu{ m//s }$ 
 	- $1~\mathrm{inch} =2.54~\mathrm{ cm}$ 
 	- $\pu{ 1mi }=\pu{ 5280 ft }$
 	- $\pu{ 1ft }=\pu{ 12in }$
