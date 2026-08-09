@@ -279,7 +279,7 @@ Gut vorher gab's aber auch nicht die Mittel dazu...
 2. Gab's nicht die industriellen Mittel Menschen in der Menge umzubringen. (Ok in Ruanda haben sie es auch ohne diese geschafft in 100 Tagen 1mio Menschen umzubringen)
  %% fold %%
 ### 3
-Ich hab natürlich mal bei der AfD zu "die Rechte Ordnung der Liebe" nachgeschaut.
+Ich hab natürlich mal bei der AfD zu "die Rechte Ordnung der Liebe" nachgeschaut. %% fold %%
 
 
 Die wollen gerade keinen Gottesstaat.
