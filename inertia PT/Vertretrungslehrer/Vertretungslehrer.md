@@ -1884,8 +1884,10 @@ Jahrgangsteamsitzungen
 	- bücher
 	- immer im Raum 1
 	- ~={RedRed}Bücher bei ihr holen =~
-		- [ ] physik
-		- [ ] mathe
+		- [x] physik 
+			- ⟹ gibt's keins für Schüler/Ausleihe
+			- [x] nur Sammlung 
+		- [x] mathe ✅ 2026-08-09
 - harald
 	- ganze menge neue schüler
 	- ⤷ können sie schwimmen?

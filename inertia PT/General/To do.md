@@ -147,7 +147,7 @@
 - [ ] Kursplan für 7 Wochen 
 	- [ ] 8 te Klasse Physik 
 	- [ ] 8te Klasse Mathe 
-	- [ ] 5te klasse Mathe
+	- [ ] <font color="#ff0000">5te</font> klasse Mathe
 	- [ ] 10te klasse Physik 
 - [ ] tipler srt
 - [ ] Spülmaschine ausräumen 
