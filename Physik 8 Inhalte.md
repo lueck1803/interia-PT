@@ -1,3 +1,10 @@
+# Inhalt
+- Basiswissen aufbauen:
+	- Was ist das Denkprinzip der Naturwissenschaften und insbesondere der Physik?
+	- Größenordnung
+	- Physikalische Größen und ihre Einheiten
+	- Einheitenumrechnen
+	- Was ist ein
 # Kräfte 
 - wir verwenden umgangssprachliche Begriffe, um Vorgänge oder Objekte zu beschreiben. Dadurch kann es Missverständnisse geben und redet eventuell über etwas meint aber etwas ganz anderes
 - ⤷ versuchen sie präzisier auszudrücken
@@ -23,7 +30,12 @@
 	- mikro
 	- nano
 	- atto
-- Einheiten
+- Einheiten:
+	- Länge
+	- Volumen
+	- Geschwindigkeit
+	- Beschleunigung
+	
 - physikalische Größen
 	- Länge / Strecke - Bezeichnung $\vec{s}$ - Einheit?
 	- Geschwindigkeit - Bezeichnung $\vec{v}$ - Einheit?
@@ -69,6 +81,7 @@
    ⤷ Sie ändern ihre Geschwindigkeit nicht. *⟹ Impuls bleibt erhalten.*
 2. <font color="#92d050">Aktionsprinzip:</font> Eine Gesamtkraft - Summe aller Kräfte - die auf einen Körper wirkt, veranlasst dass er beschleunigt wird.
 	- <u>Gesamtkraft auf einen Körper:</u> Summe aller Kräfte die auf ihn wirken $$
-\vec{F}=\sum_{i=1}^{N} 
+\vec{F}=\sum_{i=1}^{N} F_{i}
 $$
+	- Um die Beschleunigung zu erhalten müssen wir durch die Masse des Körpers teilen $m$
 3. <font color="#b088ff">Reaktionsprinzip:</font> 
