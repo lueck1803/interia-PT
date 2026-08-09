@@ -135,6 +135,9 @@
 - [ ] zeit stoppen wie lange ich zum Schulgarten gießen brauche 
 - [ ] flaschen spülen
 - [ ] stellenweise wischen
+	- [ ] vor dem balkon
+	- [ ] küche
+	- [ ] bad
 - [ ] Spülmaschine einräumen
 - [x] balkon kehren ✅ 2026-08-09
 - [x] kaffeesatz und apfelschnitt raus ✅ 2026-08-09
