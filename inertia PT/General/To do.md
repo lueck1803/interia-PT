@@ -139,7 +139,7 @@
 	    ⤷ ausgestellt
 - [ ] Lenkergetränkehalter von cube xlc
 - [ ] da ich das tb kabel eh behalte
-      
+      ⤷ zusätzlich an ex4 karte und docking station anschließen
 - [ ] Staub saugen
 - [ ] Handyhalterung an Fahrrad anbringen und ne Testfahrt machen 
 - [ ] Apfelschneider nachpfeilen
