@@ -138,8 +138,10 @@
 - [x] Schulgarten checken/gießen %% fold %%
 - [ ] Krafttraining 
 - [ ] MTB sattel einstellen 
-	- [ ] erstmal ein tick runter 
+	- [x] erstmal ein tick runter 
+		- Höhe lass ich so
 	- [ ] und dann eventuell ein tick hinter
+		- [ ] ja definitiv 
 - [ ] duschen 
 - [ ] fraught Stakkato 
 - [ ] flaschen spülen
