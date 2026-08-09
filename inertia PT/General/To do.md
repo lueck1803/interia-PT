@@ -136,6 +136,7 @@
 - [ ] flaschen spülen
 - [ ] stellenweise wischen
 - [ ] balkon kehren
+- [ ] kaffeesatz und apfelschnitt raus
 - [ ] carnivoren gießen
 - [ ] stecklinge checken
 - [ ] tipler srt
