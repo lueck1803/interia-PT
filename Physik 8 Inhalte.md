@@ -23,9 +23,9 @@
 	- Hebelgesetz
 	- Drehmoment
 	- Seile - Rollen - Flaschenzug 
-	- Arbeit
+	- Arbeit - Goldene Regel der Mechanik
 	- Leistung
-	- Energie
+	- Energie - Erhaltung
 	- Reibung
 # Kräfte 
 - wir verwenden umgangssprachliche Begriffe, um Vorgänge oder Objekte zu beschreiben. Dadurch kann es Missverständnisse geben und redet eventuell über etwas meint aber etwas ganz anderes

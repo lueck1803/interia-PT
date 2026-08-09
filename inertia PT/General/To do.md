@@ -136,6 +136,7 @@
 - [ ] Matheschulbuch einbinden
 - [ ] Klamotten rauslegen
 - [ ] Was bedeuten die 8.1,8.2, ... , 8.5 in den Lehrplänen?
+- [ ] Radtour am mac ausschneiden und drehen
 
 
 
