@@ -153,6 +153,8 @@
 - [ ] tipler srt
 - [ ] Duolingo %% fold %%
 - [ ] Matheschulbuch einbinden
+- [ ] Ordner für Klassen anlegen 
+- [ ] Klassenlisten ausdrucken 
 - [ ] Kursplan für 7 Wochen 
 	- [ ] 8 te Klasse Physik 
 	- [ ] 8te Klasse Mathe 
