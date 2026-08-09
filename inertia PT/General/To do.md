@@ -134,18 +134,16 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - [ ] Handyhalterung an Fahrrad anbringen und ne Testfahrt machen 
 - [ ] zeit stoppen wie lange ich zum Schulgarten gießen brauche 
+- [ ] Schulgarten checken/gießen %% fold %%
+- [ ] Krafttraining 
+- [ ] duschen 
 - [ ] flaschen spülen
 - [ ] carnivorenwasser auffüllen 
-- [ ] chickeburger ersatz mit Tomaten essen
-- [x] stellenweise wischen
-	- [x] vor dem balkon
-	- [x] küche
-	- [x] bad
-- [ ] Spülmaschine einräumen
-- [x] balkon kehren ✅ 2026-08-09
-- [x] kaffeesatz und apfelschnitt raus ✅ 2026-08-09
 - [ ] carnivoren gießen
 - [ ] stecklinge checken
+- [ ] Spülmaschine ausräumen 
+- [ ] tipler srt
+- [ ] Duolingo %% fold %%
 - [ ] Kursplan für 7 Wochen 
 	- [ ] 8 te Klasse Physik 
 	- [ ] 8te Klasse Mathe 
@@ -153,37 +151,39 @@
 	- [ ] 10te klasse Physik 
 - [ ] 5a
 	- [ ] Vorstellungsrunde (<font color="#ff0000">was ich bereits notiert habe</font>)
-- [ ] tipler srt
-- [ ] Spülmaschine ausräumen 
-- [ ] zaras death pants
+- [ ] Apfelschneider
+	- [ ] nachpfeilen
+	- [ ] Stelle wegflexen
+- [ ] 60° Wäsche <font color="#92d050">2026-08-06</font>
+	- [ ] abhängen  %% fold %%
+	- [ ] zusammenlegen  %% fold %%
+	- [ ] wegräumen  %% fold %%
+- [ ] helle Wäsche <font color="#ff6e6e">2026-08-07</font>
+	- [x] anstellen %% fold %%
+	- [x] schleudern %% fold %%
+		- [x] vorher riechen ob zu viel Waschpulver  %% fold %%
+		- ⤷ nochmal anstellen ⟹roch voll OK  %% fold %%
+	- [x] aufhängen  %% fold %%
+	- [ ] abhängen  %% fold %%
+	- [ ] wegräumen 
+- [x] chickeburger ersatz mit Tomaten essen
+- [x] stellenweise wischen %% fold %%
+	- [x] vor dem balkon
+	- [x] küche
+	- [x] bad
+- [x] Spülmaschine einräumen
+- [x] balkon kehren ✅ 2026-08-09
+- [x] kaffeesatz und apfelschnitt raus ✅ 2026-08-09
 - [ ] ![[../../Pasted image 20260809105942.png]]
 	    ⤷ ausgestellt
 - [ ] Lenkergetränkehalter von cube xlc
 - [ ] da ich das tb kabel eh behalte
       ⤷ zusätzlich an ex4 karte und docking station anschließen
-- [x] Staub saugen ✅ 2026-08-09
-- [ ] Apfelschneider
-	- [ ] nachpfeilen
-	- [ ] Stelle wegflexen
+- [x] Staub saugen ✅ 2026-08-09 %% fold %%
 - [x] Balkonpflanzen gießen  %% fold %% ✅ 2026-08-09
 - [x] Zähne putzen 
-- [ ] Schulgarten checken/gießen %% fold %%
-- [ ] Duolingo %% fold %%
 - [x] Kleidung auf Sofa wegräumen ✅ 2026-08-09
-- [ ] Krafttraining 
-- [ ] 60° Wäsche <font color="#92d050">2026-08-06</font>
-	- [ ] abhängen  %% fold %%
-	- [ ] zusammenlegen  %% fold %%
-	- [ ] wegräumen  %% fold %%
  %% fold %%
-- [ ] helle Wäsche <font color="#ff6e6e">2026-08-07</font> %% fold %%
-	- [x] anstellen %% fold %%
-	- [x] schleudern %% fold %%
-		- [x] vorher riechen ob zu viel Waschpulver  %% fold %%
-		- ⤷ nochmal anstellen ⟹roch voll OK  %% fold %%
-	- [x] aufhängen 
-	- [ ] abhängen  %% fold %%
-	- [ ] wegräumen 
 
 - [ ] neuen Stunden Plan in Kalender eintragen  %% fold %%
 - [ ] Unterricht Montag vorbereiten  %% fold %%
@@ -194,7 +194,7 @@
 			- [ ] Regina laumann wegen der aktuellen Pläne fragen
 		- [ ] was erwarte ich vom Unterricht 
 			- [ ] jeder schlauer herausgeht als zuvor 
-			- [ ] aha Erlebnis 
+			- [ ] aha Erlebnis  %% fold %%
 			- [ ] gute Zusammenarbeit 
 			- [ ] gegenseitiger Respekt 
 			- [ ] gute Mitarbeit 
@@ -263,7 +263,7 @@
 
 - [x] Gesicht waschen
 - [ ] tasks aufräumen  
-- [ ] meditieren 
+- [ ] meditieren  %% fold %%
 
 - [x] Tastatur wischen
 	- [x] laptop
