@@ -137,6 +137,7 @@
 - [ ] Schulgarten checken/gießen %% fold %%
 - [ ] Krafttraining 
 - [ ] duschen 
+- [ ] fraught Stakkato 
 - [ ] flaschen spülen
 - [x] carnivorenwasser auffüllen 
 - [ ] carnivoren gießen
