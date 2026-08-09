@@ -140,7 +140,6 @@
 
 
 
-
 - [x] Handyhalterung an Fahrrad anbringen und ne Testfahrt machen 
 - [x] zeit stoppen wie lange ich zum Schulgarten gießen brauche 
 	- ⤷~ 30 min 
