@@ -154,8 +154,8 @@
 - [ ] Duolingo
 - [x] Nähtisch aufräumen%% fold %%
 - [ ] Matheschulbuch einbinden
-- [ ] Ordner für Klassen anlegen 
-- [ ] Klassenlisten ausdrucken 
+- [x] Ordner für Klassen anlegen 
+- [x] Klassenlisten ausdrucken 
 - [ ] Kursplan für 7 Wochen 
 	- [ ] 8 te Klasse Physik 
 	- [ ] 8te Klasse Mathe 
