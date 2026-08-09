@@ -139,7 +139,6 @@
 - [ ] Radtour am mac ausschneiden und drehen
 
 
-- [ ] 
 
 
 
