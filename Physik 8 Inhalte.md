@@ -1,10 +1,17 @@
 # Inhalt
 - Basiswissen aufbauen:
 	- Was ist das Denkprinzip der Naturwissenschaften und insbesondere der Physik?
+		- Physikalische Begriffsbildung gegenüber Alltagsvorstellungen
 	- Größenordnung
 	- Physikalische Größen und ihre Einheiten
 	- Einheitenumrechnen
-	- Was ist ein
+	- Was ist ein Vektor?
+	- Diagramm / Graphen
+- Kräfte:
+	- Was ist eine Kraft?
+		- mal euren Kopf ausleeren, was ihr für Begriffe im Kopf habt
+	- newtonsche Axiome
+	- Wirkung von Kräften
 # Kräfte 
 - wir verwenden umgangssprachliche Begriffe, um Vorgänge oder Objekte zu beschreiben. Dadurch kann es Missverständnisse geben und redet eventuell über etwas meint aber etwas ganz anderes
 - ⤷ versuchen sie präzisier auszudrücken
@@ -17,6 +24,7 @@
 - In der Physik und den Naturwissenschaften überhaupt geht es häufig darum sich möglichst präzise und differenziert auszudrücken.
 	- differenziert meint, dass man versucht Abgrenzungen zu Dingen zu machen die man nicht meint
 	- häufig ist es wichtig zu wissen was eben unwichtig ist und weggelassen werden kann
+	- Alltagsvorstellungen etwas umkrempeln, etwas korrekter und genauer zu machen
 ## Basis Wissen
 - Was ist eine Größenordnung?
 	- zehn

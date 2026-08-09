@@ -33,3 +33,5 @@
 			- ganz ehrlich: Schwächen und Stärken 
 			- was nehmen sie sich konkret für das nächste Schuljahr vor?
 			- was erwarten sie von mir
+
+- Inhaltsangabe
