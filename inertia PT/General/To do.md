@@ -134,8 +134,11 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - [x] Handyhalterung an Fahrrad anbringen und ne Testfahrt machen 
 - [ ] zeit stoppen wie lange ich zum Schulgarten gießen brauche 
-- [ ] Schulgarten checken/gießen %% fold %%
+- [x] Schulgarten checken/gießen %% fold %%
 - [ ] Krafttraining 
+- [ ] MTB sattel einstellen 
+	- [ ] erstmal ein tick runter 
+	- [ ] und dann eventuell ein tick hinter
 - [ ] duschen 
 - [ ] fraught Stakkato 
 - [ ] flaschen spülen
