@@ -133,7 +133,7 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - [ ] zeit stoppen wie lange ich zum Schulgarten gießen brauche 
-- [ ] 
+- [ ] flaschen spülen
 - [ ] tipler srt
 - [ ] zaras death pants
 - [ ] ![[../../Pasted image 20260809105942.png]]
@@ -144,9 +144,9 @@
 - [ ] Staub saugen
 - [ ] Handyhalterung an Fahrrad anbringen und ne Testfahrt machen 
 - [ ] Apfelschneider nachpfeilen
-- [x] Balkonpflanzen gießen  %% fold %% 
-- [ ] Zähne putzen 
-- [x] Schulgarten checken/gießen %% fold %%
+- [ ] Balkonpflanzen gießen  %% fold %% 
+- [x] Zähne putzen 
+- [ ] Schulgarten checken/gießen %% fold %%
 - [ ] Duolingo %% fold %%
 - [ ] Kleidung auf Sofa wegräumen 
 - [ ] Krafttraining 
