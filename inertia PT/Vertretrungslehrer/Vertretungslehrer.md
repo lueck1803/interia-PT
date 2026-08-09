@@ -1646,13 +1646,13 @@ Ajanza
 - 4 h/w
 	- 8a 
 	- 8b 
+	- 5a
 		
 ### Physik
 - Ansprechpartner / Kollegen der Jahrgänge
 	- ~~7er~~:
 		- oliver middel (mid) 
 			- Klassenleitung 5er 
-	- ⤷5er
 	- 8er 
 
 		- Johannes wolf (wol)
@@ -1663,8 +1663,8 @@ Ajanza
 		- Jamil Hirsch (hir)
 - Stunden pro Woche - Klassen 
 	- 2 h/w
-		- 7c 
-		- 7d 
+		- ~~7c~~ 
+		- ~~7d~~ 
 		- 8a 
 		- 8b 
 	- 1 h/w
