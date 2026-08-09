@@ -110,4 +110,8 @@ $$
 	- $$
 \vec{a}=\frac{\vec{F}}{m}
 $$
-3. <font color="#b088ff">Reaktionsprinzip:</font> 
+3. <font color="#b088ff">Reaktionsprinzip:</font> Wenn ein Körper eine Kraft auf einen anderen Körper auswirkt, dann wirkt eine gleich starke Gegenkraft - in entgegengesetzter Richtung - auf den Körper zurück.
+   $$
+\vec{F}_{A}^{(B)} = - \vec{F}_{B}^{(A)}
+$$
+Wenn zwei Körper miteinander wechselwirken, ist die Kraft $\vec{F}_{A}^{(B)}$, die der Körper B auf den Körper A ausübt, gleich groß, aber entgegengesetzt gerichtet der Kraft $\vec{F}_{B}^{(A)}$, die der Körper A auf den Körper B ausübt. Somit gilt:
