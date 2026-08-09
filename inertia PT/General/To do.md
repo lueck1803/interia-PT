@@ -134,7 +134,8 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - [ ] Duolingo
 - [ ] Matheschulbuch einbinden
-- [ ] Klamotten raus legen
+- [ ] Klamotten rauslegen
+- [ ] Was bedeuten die 8.1,8.2, ... , 8.5 in den Lehrplänen?
 - [x] Handyhalterung an Fahrrad anbringen und ne Testfahrt machen 
 - [x] zeit stoppen wie lange ich zum Schulgarten gießen brauche 
 	- ⤷~ 30 min 

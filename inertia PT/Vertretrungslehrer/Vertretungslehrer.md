@@ -174,7 +174,7 @@ Arbeitsstunden KW 19:
 		- möglichst in den Pausen
 		- nacheinander 
 		- maximal zu zweit
-		- ~={DeepPink}Namen an die Tafel schreiben -> danach wegwischen!=~ damit es für alle klar ist
+		- ~={DeepPink}Namen an die Tafel schreiben -> danach wegwischen!=~ damit es für alle klar ist %% fold %%
 		- wenn ihr gehen wollt, dann 
 			- kurz auf die Tafel schauen, ist die Person da?
 			- wenn ja, dann mir bescheid geben, dass ihr gehen wollt, dann dürft ihr in der Regel auch ohne Diskussion gehen
@@ -1629,7 +1629,13 @@ Ajanza
 ## Lehrpläneausschnitte
 ### Physik
 #### 8te
+#### 8.1
+![[../../Pasted image 20260809215250.png]]
+#### 8.2
+![[../../Pasted image 20260809215331.png]]
+
 #### 10te
+##### 
 ### Mathe
 #### 5te
 ![[../../Pasted image 20260809214308.png]]
@@ -1643,6 +1649,13 @@ Ajanza
 ##### 8.3
 ![[../../Pasted image 20260809214801.png]]
 
+##### 8.4
+![[../../Pasted image 20260809214847.png]]
+
+##### 8.5
+![[../../Pasted image 20260809214921.png]]
+##### 8.6
+![[../../Pasted image 20260809215150.png]]
 ## Klassen die ich betreue:
 ### Gespräch mit jamil
 1. Energie und Leistung
