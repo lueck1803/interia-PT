@@ -1635,6 +1635,14 @@ Ajanza
 ![[../../Pasted image 20260809214308.png]]
 ![[../../Pasted image 20260809214331.png]]
 #### 8te
+##### 8.1
+![[../../Pasted image 20260809214458.png]]
+##### 8.2
+![[../../Pasted image 20260809214617.png]]
+
+##### 8.3
+![[../../Pasted image 20260809214801.png]]
+
 ## Klassen die ich betreue:
 ### Gespräch mit jamil
 1. Energie und Leistung
