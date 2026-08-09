@@ -145,6 +145,7 @@
 - [ ] carnivoren gießen
 - [ ] stecklinge checken
 - [ ] tipler srt
+- [ ] Spülmaschine ausräumen 
 - [ ] zaras death pants
 - [ ] ![[../../Pasted image 20260809105942.png]]
 	    ⤷ ausgestellt
@@ -153,7 +154,9 @@
       ⤷ zusätzlich an ex4 karte und docking station anschließen
 - [x] Staub saugen ✅ 2026-08-09
 - [ ] Handyhalterung an Fahrrad anbringen und ne Testfahrt machen 
-- [ ] Apfelschneider nachpfeilen
+- [ ] Apfelschneider
+	- [ ] nachpfeilen
+	- [ ] Stelle wegflexen
 - [x] Balkonpflanzen gießen  %% fold %% ✅ 2026-08-09
 - [x] Zähne putzen 
 - [ ] Schulgarten checken/gießen %% fold %%
