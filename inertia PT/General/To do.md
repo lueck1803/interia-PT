@@ -142,11 +142,11 @@
 		- Höhe lass ich so
 	- [ ] und dann eventuell ein tick hinter
 		- [ ] ja definitiv 
-- [ ] duschen 
+- [x] duschen 
 - [ ] fraught Stakkato 
-- [ ] flaschen spülen
+- [x] flaschen spülen
 - [x] carnivorenwasser auffüllen 
-- [ ] carnivoren gießen
+- [x] carnivoren gießen
 - [ ] stecklinge checken
 - [ ] Spülmaschine ausräumen 
 	- [ ] die läuft etwa ne 1,5 h
