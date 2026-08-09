@@ -1633,6 +1633,7 @@ Ajanza
 ### Mathe
 #### 5te
 ![[../../Pasted image 20260809214308.png]]
+![[../../Pasted image 20260809214331.png]]
 #### 8te
 ## Klassen die ich betreue:
 ### Gespräch mit jamil
