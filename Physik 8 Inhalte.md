@@ -27,6 +27,8 @@
 	- Leistung
 	- Energie - Erhaltung
 	- Reibung
+
+![[Pasted image 20260809234907.png]]
 # Kräfte 
 - wir verwenden umgangssprachliche Begriffe, um Vorgänge oder Objekte zu beschreiben. Dadurch kann es Missverständnisse geben und redet eventuell über etwas meint aber etwas ganz anderes
 - ⤷ versuchen sie präzisier auszudrücken
