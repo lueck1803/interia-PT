@@ -150,7 +150,7 @@
 	- [ ] zusammenlegen  %% fold %%
 	- [ ] wegräumen  %% fold %%
  %% fold %%
-- [ ] helle Wäsche <font color="#ff6e6e">2026-08-07</font>
+- [ ] helle Wäsche <font color="#ff6e6e">2026-08-07</font> %% fold %%
 	- [x] anstellen %% fold %%
 	- [x] schleudern %% fold %%
 		- [x] vorher riechen ob zu viel Waschpulver  %% fold %%
