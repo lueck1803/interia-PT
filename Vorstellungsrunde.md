@@ -5,8 +5,13 @@
 		- erstmal Anwesenheit 
 			- Regina laumann wegen der aktuellen Pläne fragen
 		- was erwarte ich vom Unterricht 
+			- Ich erzähle manchmal Dinge oder verwende Worte bei denen ich nicht davon ausgehe, dass ihr das wisst oder dass ihr die versteht. Auch nicht dass das dann in der Klausur so dran kommt. ich weiß auch, dass ich mich manchmal unverständlich und kompliziert ausdrücke. Das heißt nicht, dass mit euch etwas nicht in Ordnung ist oder ihr nicht genug könnt. Ihr geht ja in die Schule um etwas zu lernen.
+				- Wenn etwas unklar ist, ihr meine Worte nicht versteht. 
+				- Dann Fragt immer nach
+				- Denn wer wie was, der die das, wieso weshalb warum, wer nicht fragt bleibt dumm.
 			- jeder schlauer herausgeht als zuvor 
 			- aha Erlebnis  %% fold %%
+			- mehr Neugierde aufs Leben
 			- gute Zusammenarbeit 
 			- gegenseitiger Respekt 
 			- gute Mitarbeit 
