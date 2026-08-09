@@ -134,7 +134,7 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - [ ] zeit stoppen wie lange ich zum Schulgarten gießen brauche 
 - [ ] flaschen spülen
-- [ ] carnivorenwasser 
+- [ ] carnivorenwasser auffüllen 
 - [ ] chickeburger ersatz mit Tomaten essen
 - [x] stellenweise wischen
 	- [x] vor dem balkon
