@@ -11,14 +11,6 @@
 	- differenziert meint, dass man versucht Abgrenzungen zu Dingen zu machen die man nicht meint
 	- häufig ist es wichtig zu wissen was eben unwichtig ist und weggelassen werden kann
 ## Basis Wissen
-- physikalische Größen
-	- Länge / Strecke - Bezeichnung $\vec{s}$
-	- 
-- Was ist ein Vektor? Pfeil über einem Buchstaben
-	- ein mathematisches Objekt:
-		- eine Zahl ist auch ein mathematisches Objekt
-	- Besitzt einen Wert bzw. *Betrag* oder auch *Stärke*
-	- Besitzt eine *Richtung*
 - Was ist eine Größenordnung?
 	- zehn
 	- hundert
@@ -31,6 +23,20 @@
 	- mikro
 	- nano
 	- atto
+- Einheiten
+- physikalische Größen
+	- Länge / Strecke - Bezeichnung $\vec{s}$ - Einheit?
+	- Geschwindigkeit - Bezeichnung $\vec{v}$ - Einheit?
+	- Beschleunigung - Bezeichnung $\vec{a}$ - Einheit?
+	- Kraft - Bezeichnung $\vec{F}$ - Einheit?
+- Einheitenumrechnung:
+	- 
+- Was ist ein Vektor? Pfeil über einem Buchstaben
+	- ein mathematisches Objekt:
+		- eine Zahl ist auch ein mathematisches Objekt
+	- Besitzt einen Wert bzw. *Betrag* oder auch *Stärke*
+	- Besitzt eine *Richtung*
+
 ## newtonsche Axiome
 1. <font color="#548dd4">Trägheitsprinzip: </font>Objekte auf die keine Kräfte einwirken bleiben in ihrer ***geradlinigen*** Bewegung oder in Ruhe.
    ⤷ Sie ändern ihre Geschwindigkeit nicht. *⟹ Impuls bleibt erhalten.*
