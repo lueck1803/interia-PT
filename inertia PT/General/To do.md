@@ -147,11 +147,12 @@
 - [x] flaschen spülen
 - [x] carnivorenwasser auffüllen 
 - [x] carnivoren gießen
-- [ ] stecklinge checken
-- [ ] Spülmaschine ausräumen 
-	- [ ] die läuft etwa ne 1,5 h
+- [x] stecklinge checken
+- [x] Spülmaschine ausräumen 
+	- die läuft etwa ne 1,5 h
 - [ ] tipler srt
-- [ ] Duolingo %% fold %%
+- [ ] Duolingo
+- [x] Nähtisch aufräumen%% fold %%
 - [ ] Matheschulbuch einbinden
 - [ ] Ordner für Klassen anlegen 
 - [ ] Klassenlisten ausdrucken 
@@ -166,7 +167,7 @@
 	- [ ] nachpfeilen
 	- [ ] Stelle wegflexen
 - [ ] 60° Wäsche <font color="#92d050">2026-08-06</font>
-	- [ ] abhängen  %% fold %%
+	- [x] abhängen  %% fold %%
 	- [ ] zusammenlegen  %% fold %%
 	- [ ] wegräumen  %% fold %%
 - [ ] helle Wäsche <font color="#ff6e6e">2026-08-07</font>
@@ -175,7 +176,7 @@
 		- [x] vorher riechen ob zu viel Waschpulver  %% fold %%
 		- ⤷ nochmal anstellen ⟹roch voll OK  %% fold %%
 	- [x] aufhängen  %% fold %%
-	- [ ] abhängen  %% fold %%
+	- [x] abhängen  %% fold %%
 	- [ ] wegräumen 
 - [x] chickeburger ersatz mit Tomaten essen
 - [x] stellenweise wischen %% fold %%
