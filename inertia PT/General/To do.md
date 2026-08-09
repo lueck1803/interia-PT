@@ -138,6 +138,8 @@
 - [ ] ![[../../Pasted image 20260809105942.png]]
 	    ⤷ ausgestellt
 - [ ] Lenkergetränkehalter von cube xlc
+- [ ] da ich das tb kabel eh behalte
+      
 - [ ] Staub saugen
 - [ ] Handyhalterung an Fahrrad anbringen und ne Testfahrt machen 
 - [ ] Apfelschneider nachpfeilen
