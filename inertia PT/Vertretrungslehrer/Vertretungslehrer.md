@@ -1626,6 +1626,13 @@ Ich übernehme:
 # <font color="#00b050">WS 26/27</font>
 Ajanza
 
+## Lehrpläneausschnitte
+### Physik
+#### 8te
+#### 10te
+### Mathe
+#### 5te
+#### 8te
 ## Klassen die ich betreue:
 ### Gespräch mit jamil
 1. Energie und Leistung
