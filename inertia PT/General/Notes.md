@@ -280,7 +280,7 @@ Gut vorher gab's aber auch nicht die Mittel dazu...
  %% fold %%
 ### 3
 Ich hab natürlich mal bei der AfD zu "die Rechte Ordnung der Liebe" nachgeschaut. %% fold %%
-
+ %% fold %%
 
 Die wollen gerade keinen Gottesstaat.
 
