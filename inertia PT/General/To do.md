@@ -134,6 +134,7 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - [ ] zeit stoppen wie lange ich zum Schulgarten gießen brauche 
 - [ ] flaschen spülen
+- [ ] carnivorenwasser 
 - [ ] chickeburger ersatz mit Tomaten essen
 - [x] stellenweise wischen
 	- [x] vor dem balkon
@@ -149,6 +150,8 @@
 	- [ ] 8te Klasse Mathe 
 	- [ ] <font color="#ff0000">5te</font> klasse Mathe
 	- [ ] 10te klasse Physik 
+- [ ] 5a
+	- [ ] Vorstellungsrunde (<font color="#ff0000">was ich bereits notiert habe</font>)
 - [ ] tipler srt
 - [ ] Spülmaschine ausräumen 
 - [ ] zaras death pants

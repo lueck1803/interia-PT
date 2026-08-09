@@ -1649,9 +1649,10 @@ Ajanza
 		
 ### Physik
 - Ansprechpartner / Kollegen der Jahrgänge
-	- 7er:
+	- ~~7er~~:
 		- oliver middel (mid) 
 			- Klassenleitung 5er 
+	- ⤷5er
 	- 8er 
 
 		- Johannes wolf (wol)
@@ -1886,7 +1887,7 @@ Jahrgangsteamsitzungen
 	- ~={RedRed}Bücher bei ihr holen =~
 		- [x] physik 
 			- ⟹ gibt's keins für Schüler/Ausleihe
-			- [x] nur Sammlung 
+			- nur Sammlung 
 		- [x] mathe ✅ 2026-08-09
 - harald
 	- ganze menge neue schüler
