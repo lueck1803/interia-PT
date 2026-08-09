@@ -132,6 +132,9 @@
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
+- [ ] Duolingo
+- [ ] Matheschulbuch einbinden
+- [ ] Klamotten raus legen
 - [x] Handyhalterung an Fahrrad anbringen und ne Testfahrt machen 
 - [x] zeit stoppen wie lange ich zum Schulgarten gießen brauche 
 	- ⤷~ 30 min 
@@ -151,9 +154,7 @@
 - [x] Spülmaschine ausräumen 
 	- die läuft etwa ne 1,5 h
 - [ ] tipler srt
-- [ ] Duolingo
 - [x] Nähtisch aufräumen%% fold %%
-- [ ] Matheschulbuch einbinden
 - [x] Ordner für Klassen anlegen 
 - [x] Klassenlisten ausdrucken 
 - [ ] Kursplan für 7 Wochen 
