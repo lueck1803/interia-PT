@@ -139,6 +139,9 @@
 - [ ] Radtour am mac ausschneiden und drehen
 
 
+- [ ] 
+
+
 
 
 - [x] Handyhalterung an Fahrrad anbringen und ne Testfahrt machen 
