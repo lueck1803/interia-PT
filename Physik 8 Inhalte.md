@@ -107,4 +107,7 @@
 \vec{F}=\sum_{i=1}^{N} F_{i}
 $$
 	- Um die Beschleunigung zu erhalten müssen wir durch die Masse des Körpers teilen $m$
+	- $$
+\vec{a}=\frac{\vec{F}}{m}
+$$
 3. <font color="#b088ff">Reaktionsprinzip:</font> 
