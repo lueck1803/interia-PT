@@ -136,6 +136,8 @@
 - [ ] flaschen spülen
 - [ ] stellenweise wischen
 - [ ] balkon kehren
+- [ ] carnivoren gießen
+- [ ] stecklinge checken
 - [ ] tipler srt
 - [ ] zaras death pants
 - [ ] ![[../../Pasted image 20260809105942.png]]
