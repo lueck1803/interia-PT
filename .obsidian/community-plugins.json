@@ -28,8 +28,8 @@
   "obsidian-reminder-plugin",
   "obsidian-tasks-plugin",
   "obsidian-day-planner",
-  "git-history",
   "obsidian42-brat",
+  "git-history",
   "new-window",
-  "sfb-open-in-new-tab"
+  "open-in-new-tab"
 ]

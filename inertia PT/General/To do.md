@@ -199,7 +199,7 @@
  %% fold %%
 
 - [ ] neuen Stunden Plan in Kalender eintragen  %% fold %%
-- [ ] Unterricht Montag vorbereiten %% fold %%
+- [ ] Unterricht Montag vorbereiten
 	- [ ] Plan bis zur ersten Klausur vorbereiten das den Leuten zeigen 
 		- [ ] was wird erwartet bzw was ist der Plan 
 	- [ ] Vorstellungsrunde 
