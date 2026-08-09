@@ -277,7 +277,7 @@ Das hat bisher keine andere Ideologie geschafft.
 Gut vorher gab's aber auch nicht die Mittel dazu...
 1. Gab's vorher nicht diese Bevölkerungsexplosion wie zum Ende des 19. Auf das 20. Jh 
 2. Gab's nicht die industriellen Mittel Menschen in der Menge umzubringen. (Ok in Ruanda haben sie es auch ohne diese geschafft in 100 Tagen 1mio Menschen umzubringen)
-
+ %% fold %%
 ### 3
 Ich hab natürlich mal bei der AfD zu "die Rechte Ordnung der Liebe" nachgeschaut.
 
