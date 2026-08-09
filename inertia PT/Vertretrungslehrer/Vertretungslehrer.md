@@ -1626,7 +1626,7 @@ Ich übernehme:
 # <font color="#00b050">WS 26/27</font>
 Ajanza
 
-## Lehrpläneausschnitte
+## Lehrplanausschnitte
 ### Physik
 #### 8te
 #### 8.1
@@ -1636,6 +1636,18 @@ Ajanza
 
 #### 10te
 ##### 10.1
+![[../../Pasted image 20260809215410.png]]
+##### 10.2
+![[../../Pasted image 20260809215444.png]]
+
+##### 10.3
+![[../../Pasted image 20260809215507.png]]
+
+##### 10.4
+![[../../Pasted image 20260809215527.png]]
+
+##### 10.5
+![[../../Pasted image 20260809215550.png]]
 ### Mathe
 #### 5te
 ![[../../Pasted image 20260809214308.png]]
