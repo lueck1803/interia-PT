@@ -144,6 +144,7 @@
 - [ ] Spülmaschine ausräumen 
 - [ ] tipler srt
 - [ ] Duolingo %% fold %%
+- [ ] Matheschulbuch einbinden
 - [ ] Kursplan für 7 Wochen 
 	- [ ] 8 te Klasse Physik 
 	- [ ] 8te Klasse Mathe 
@@ -241,12 +242,10 @@
        Bzw den hash tags
 
 
-
 - [ ] Ich behalte alles Zeug ⟹ Kosten zusammen rechnen 
 
 - [ ] Wichtig ist jetzt die Masterarbeit fertig zu machen 
 
-- [ ] Matheschulbuch einbinden
 
 - [ ] hot corners
 
