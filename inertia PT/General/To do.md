@@ -132,6 +132,7 @@
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
+- [ ] Handyhalterung an Fahrrad anbringen und ne Testfahrt machen 
 - [ ] zeit stoppen wie lange ich zum Schulgarten gießen brauche 
 - [ ] flaschen spülen
 - [ ] carnivorenwasser auffüllen 
@@ -161,7 +162,6 @@
 - [ ] da ich das tb kabel eh behalte
       ⤷ zusätzlich an ex4 karte und docking station anschließen
 - [x] Staub saugen ✅ 2026-08-09
-- [ ] Handyhalterung an Fahrrad anbringen und ne Testfahrt machen 
 - [ ] Apfelschneider
 	- [ ] nachpfeilen
 	- [ ] Stelle wegflexen
