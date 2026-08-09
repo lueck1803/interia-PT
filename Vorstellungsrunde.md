@@ -1,0 +1,30 @@
+- Unterricht Montag vorbereiten
+	- Plan bis zur ersten Klausur vorbereiten das den Leuten zeigen 
+		- was wird erwartet bzw was ist der Plan 
+	- Vorstellungsrunde 
+		- erstmal Anwesenheit 
+			- Regina laumann wegen der aktuellen Pläne fragen
+		- was erwarte ich vom Unterricht 
+			- jeder schlauer herausgeht als zuvor 
+			- aha Erlebnis  %% fold %%
+			- gute Zusammenarbeit 
+			- gegenseitiger Respekt 
+			- gute Mitarbeit 
+			- gegenseitige Unterstützung 
+			- hoffentlich gute Noten
+			- ich möchte dass wir zusammen ne gute Klassenarbeit schreiben 
+			- Verknüpfung zu bisherigem Wissen 
+			- Selbstermächtigung 
+			- skills - wo kann ich sie einsetzen 
+			- die Welt ein bisschen besser verstehen 
+			- sich in der Welt etwas besser zurecht finden. 
+			- unabhängig zu sein
+		- jeder soll mal etwas über sich erzählen (15 min Vorbereitungszeit)
+			- seine Einstellung zum Unterrichtsfach 
+				- was bedeutet es für einen
+				- was ist die Gesellschaftliche Bedeutung 
+				- wie ist es mit anderen Fächern verknüpft 
+				- berufliche Bedeutung 
+			- ganz ehrlich: Schwächen und Stärken 
+			- was nehmen sie sich konkret für das nächste Schuljahr vor?
+			- was erwarten sie von mir
