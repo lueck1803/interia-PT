@@ -11,7 +11,22 @@
 	- Was ist eine Kraft?
 		- mal euren Kopf ausleeren, was ihr für Begriffe im Kopf habt
 	- newtonsche Axiome
-	- Wirkung von Kräften
+	- Wirkung von Kräften - Scheinkräfte
+		- dazu videos zeigen
+		- und etwas alltags erleben durchsprechen
+		- Ich fahre mit einem Auto in die Kurve
+		- Corrioliskraft
+	- Federwirkung - Schwingung
+		- Hookesches Gesetz
+	- Kräfte als Vektoren
+- Wirkung der Kräfte auf Alltagsobjekte - Werkzeuge
+	- Hebelgesetz
+	- Drehmoment
+	- Seile - Rollen - Flaschenzug 
+	- Arbeit
+	- Leistung
+	- Energie
+	- Reibung
 # Kräfte 
 - wir verwenden umgangssprachliche Begriffe, um Vorgänge oder Objekte zu beschreiben. Dadurch kann es Missverständnisse geben und redet eventuell über etwas meint aber etwas ganz anderes
 - ⤷ versuchen sie präzisier auszudrücken
