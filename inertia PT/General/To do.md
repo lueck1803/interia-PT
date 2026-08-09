@@ -135,6 +135,8 @@
 - [ ] zeit stoppen wie lange ich zum Schulgarten gießen brauche 
 - [ ] tipler srt
 - [ ] zaras death pants
+- [ ] ![[../../Pasted image 20260809105942.png]]
+	    ⤷ ausgestellt
 - [ ] Lenkergetränkehalter von cube xlc
 - [ ] Staub saugen
 - [ ] Handyhalterung an Fahrrad anbringen und ne Testfahrt machen 
