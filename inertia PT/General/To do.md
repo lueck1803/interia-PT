@@ -136,6 +136,11 @@
 - [ ] Matheschulbuch einbinden
 - [ ] Klamotten rauslegen
 - [ ] Was bedeuten die 8.1,8.2, ... , 8.5 in den Lehrplänen?
+
+
+
+
+
 - [x] Handyhalterung an Fahrrad anbringen und ne Testfahrt machen 
 - [x] zeit stoppen wie lange ich zum Schulgarten gießen brauche 
 	- ⤷~ 30 min 
@@ -179,7 +184,7 @@
 		- ⤷ nochmal anstellen ⟹roch voll OK  %% fold %%
 	- [x] aufhängen  %% fold %%
 	- [x] abhängen  %% fold %%
-	- [ ] wegräumen 
+	- [ ] wegräumen  %% fold %%
 - [x] chickeburger ersatz mit Tomaten essen
 - [x] stellenweise wischen %% fold %%
 	- [x] vor dem balkon
