@@ -134,10 +134,11 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - [ ] zeit stoppen wie lange ich zum Schulgarten gießen brauche 
 - [ ] flaschen spülen
-- [ ] stellenweise wischen
-	- [ ] vor dem balkon
-	- [ ] küche
-	- [ ] bad
+- [ ] chickeburger ersatz mit Tomaten essen
+- [x] stellenweise wischen
+	- [x] vor dem balkon
+	- [x] küche
+	- [x] bad
 - [ ] Spülmaschine einräumen
 - [x] balkon kehren ✅ 2026-08-09
 - [x] kaffeesatz und apfelschnitt raus ✅ 2026-08-09
