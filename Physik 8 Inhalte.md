@@ -29,19 +29,7 @@
 	- Reibung
 
 ![[Pasted image 20260809234907.png]]
-# Kräfte 
-- wir verwenden umgangssprachliche Begriffe, um Vorgänge oder Objekte zu beschreiben. Dadurch kann es Missverständnisse geben und redet eventuell über etwas meint aber etwas ganz anderes
-- ⤷ versuchen sie präzisier auszudrücken
-- Worum geht es in der physik?
-	- Vorgänge und Gesetzmäßigkeiten möglichst zu isolieren und sie so einfach wie möglich darzustellen
-	- unwichtige Dinge wegzulassen
-	- Abschätzungen zu treffen
-	- Ist etwas Plausibel?
-	- In Größenordnungen zu Denken
-- In der Physik und den Naturwissenschaften überhaupt geht es häufig darum sich möglichst präzise und differenziert auszudrücken.
-	- differenziert meint, dass man versucht Abgrenzungen zu Dingen zu machen die man nicht meint
-	- häufig ist es wichtig zu wissen was eben unwichtig ist und weggelassen werden kann
-	- Alltagsvorstellungen etwas umkrempeln, etwas korrekter und genauer zu machen
+![[Pasted image 20260809234955.png]]
 ## Basis Wissen
 - Was ist eine Größenordnung?
 	- zehn
@@ -101,6 +89,20 @@
 	- Besitzt einen Wert bzw. *Betrag* oder auch *Stärke*
 	- Besitzt eine *Richtung*
 
+
+# Kräfte 
+- wir verwenden umgangssprachliche Begriffe, um Vorgänge oder Objekte zu beschreiben. Dadurch kann es Missverständnisse geben und redet eventuell über etwas meint aber etwas ganz anderes
+- ⤷ versuchen sie präzisier auszudrücken
+- Worum geht es in der physik?
+	- Vorgänge und Gesetzmäßigkeiten möglichst zu isolieren und sie so einfach wie möglich darzustellen
+	- unwichtige Dinge wegzulassen
+	- Abschätzungen zu treffen
+	- Ist etwas Plausibel?
+	- In Größenordnungen zu Denken
+- In der Physik und den Naturwissenschaften überhaupt geht es häufig darum sich möglichst präzise und differenziert auszudrücken.
+	- differenziert meint, dass man versucht Abgrenzungen zu Dingen zu machen die man nicht meint
+	- häufig ist es wichtig zu wissen was eben unwichtig ist und weggelassen werden kann
+	- Alltagsvorstellungen etwas umkrempeln, etwas korrekter und genauer zu machen
 ## newtonsche Axiome
 1. <font color="#548dd4">Trägheitsprinzip: </font>Objekte auf die keine Kräfte einwirken bleiben in ihrer ***geradlinigen*** Bewegung oder in Ruhe.
    ⤷ Sie ändern ihre Geschwindigkeit nicht. *⟹ Impuls bleibt erhalten.*
