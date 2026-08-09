@@ -4,6 +4,9 @@
 # Aldi
 ## Jetzt
 - Einkaufswagen 
+- [ ] Saft
+- [ ] Toast
+## Speicher/Sonst 
 - [x] Pfand 
 - [x] salz
 - [x] Nudelsoßen 
@@ -15,8 +18,6 @@
 - [x] Mundspülung 
 - [x] Damendeo
 - [x] Hafermilch
-- [x] Saft
-## Speicher/Sonst 
 # Other
 - [ ] Fensterstopper 
 - [ ] Kehrblech für Balkon
@@ -27,7 +28,6 @@
 - [x] Gewürzketchup 
 - [x] Tomaten 
 - [x] gelbe Zwiebeln 
-- [x] Toast
 - [x] Vaseline 
 - [x] hummus
 - [x] Schoki 
