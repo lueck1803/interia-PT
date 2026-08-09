@@ -242,7 +242,6 @@
 
 - [ ] Will ich wirklich Denksport Physik promoten?
 
-- [ ] Claudia fragen was sie von psycedellic /stoner rock hält 
 
 - [ ] Von papa zeigen lassen wie man schuhe richtig pflegt 
 
