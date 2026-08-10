@@ -2,7 +2,7 @@
 - Basiswissen aufbauen:
 	- Was ist das Denkprinzip der Naturwissenschaften und insbesondere der Physik?
 		- Physikalische Begriffsbildung gegenüber Alltagsvorstellungen
-	- Größenordnung
+	- Größenordnung %% fold %%
 	- Physikalische Größen und ihre Einheiten
 	- Einheitenumrechnen
 	- Was ist ein Vektor?

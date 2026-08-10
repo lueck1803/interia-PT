@@ -27,5 +27,7 @@
   "foldstate",
   "obsidian-reminder-plugin",
   "obsidian-tasks-plugin",
-  "obsidian-day-planner"
+  "obsidian-day-planner",
+  "new-window",
+  "sfb-open-in-new-tab"
 ]
