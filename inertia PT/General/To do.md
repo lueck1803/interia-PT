@@ -189,7 +189,7 @@
 - [ ] neuen Stunden Plan in Kalender eintragen  %% fold %%
 - [x] Schulgarten checken/gießen %% fold %%
 - [ ] Krafttraining 
-- [ ] MTB sattel einstellen 
+- [ ] MTB sattel einstellen  %% fold %%
 	- [x] erstmal ein tick runter 
 		- Höhe lass ich so %% fold %%
 	- [ ] und dann eventuell ein tick hinter %% fold %%
