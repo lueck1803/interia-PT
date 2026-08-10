@@ -6,6 +6,8 @@
 - Einkaufswagen 
 - [ ] Saft
 - [ ] Toast
+- [ ] Leinsamen
+- [ ] 
 ## Speicher/Sonst 
 - [x] Pfand 
 - [x] salz
