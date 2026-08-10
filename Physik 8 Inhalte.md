@@ -1,6 +1,8 @@
 
-selma
-	wichtig gutes verhält
+- selma
+	- wichtig gutes verhältnis
+	- alltag 
+- 
 
 # Inhalt
 - Basiswissen aufbauen:
