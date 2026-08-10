@@ -214,7 +214,7 @@ Arbeitsstunden KW 19:
 ## Mathe
 ### timeline
 #### do 18.6 statt Deutsch Mathe
-- Bruchstrich: entspricht geteilt $p:q\leftrightarrow \frac{p}{q}$ 
+- Bruchstrich: entspricht geteilt $p:q\leftrightarrow \frac{p}{q}$  %% fold %%
 - $p:p=\frac{6}{6}=\frac{5}{5} =\frac{p}{p}=\frac{a}{a}=\dots =1$ 
 - Multiplikation 
 - Division von Brüchen 
