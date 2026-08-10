@@ -145,7 +145,7 @@
 	- [ ] auf Struktur und formelle Dinge achten
 		- [ ] Ordnung 
 		- [ ] Ergebnis unterstreichen 
-		- [ ] klarer rec
+		- [ ] klarer rechenweg - punktabzug Klausur - Abschlussarbeit 10te
 - [ ] <font color="#ff69b4">Mathebuch 5. Klasse</font> 
 - [ ] 5. Mathe Plan 
 	- [ ] zu Beginn der Stunde 10 min Kopfrechnen 
