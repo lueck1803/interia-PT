@@ -559,7 +559,7 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 - [ ] 3. bildschirm anschließen ⟹ geht momentan nicht...
 - [ ] schneller schwimmen lernen 
 - [ ] cityrad bremse
-- [ ] Fahrradhelm
+- [ ] Fahrradhelm %% fold %%
 	- [ ] Band einstellen 
 	- [ ] Filz oder Ähnliches auf Klett machen
 - [ ] neuen Fahrradhelm kaufen 
