@@ -2101,6 +2101,37 @@ Struktur: Oft schwer finanzierbar, was die Umsetzung in inklusiven Settings ersc
 Im Rahmen der Lehrerausbildung wird die Doppelbesetzung auch genutzt, um LiV (Lehrer im Vorbereitungsdienst) durch Mentoren zu begleiten. 
 
 # Konversationen
+## 2026-08-07 Jamil zum Schulstart 
+Liebe Kolleginnen und Kollegen,
+
+anbei Informationen zum Start des neuen Schuljahres vom TOP "Stundenplan" der heutigen Gesamtkonferenz.
+
+Stundenplan
+
+Ich werde den Plan in den ersten drei Schulwochen überarbeiten. Dabei brauche ich eure Unterstützung: Wenn euch Stunden oder Räume auffallen, die nicht passen oder getauscht werden sollen, notiert diese bitte auf einer Kopie eures Stundenplans, begründet kurz und gebt die Kopie bei mir ab. Selbiges gilt beim Tausch von Pausenaufsichten. Abgabefrist: Montag, 17.08., so könnt ihr über das Wochenende Gegenchecken.
+
+Starttermine
+Nachmittagsunterricht (Fremdsprachen und Sportkurse 9 / 10) finden ab dem 24.08. statt
+Förderkurse und AGs finden ab dem 24.08. statt (Förderkurse Jg. 5 voraussichtlich nach den Herbstferien)
+Das Care-Room-Team startet mit ihrer Betreuung ab dem 18.08.
+Erste Schulwoche - besondere Regelungen
+Montag 1./2. Stunde: Unterricht bei der Klassenlehrkraft, ab der 3. Stunde regulärer Unterricht nach Plan
+5. Klassen und ihre Klassenlehrkräfte sind die komplette erste Woche ausgeplant
+6. Klassen und ihre Klassenlehrkräfte sind Montag ganztägig und Dienstag bis zur 4. ausgeplant (Aufnahmefeier)
+AG-Wahl
+
+Zur Wahl der AGs organisiert der SKA einen Markt der Möglichkeiten, am Donnerstag 13.08.26, in der 3. und 4. Stunde. Der Ablaufplan wird im Lehrkräftezimmer ausgehängt und ist beigefügt.
+Die Lehrkräfte, die AGs vorstellen, werden aus ihrem Unterricht ausgeplant.
+
+Sporthallen
+
+Die Rollsporthalle wird abgerissen bzw. saniert. Ein Teil der 7. und 8. Klassen wird ab diesem Schuljahr in der Bürgerparkhalle (TH-BP) Sport haben.
+
+
+Ich hoffe ich habe nichts Wesentliches vergessen. Bei Fragen sprecht mich gerne an.
+
+Viele Grüße
+Jamil
 ## 2026-07-03 mail von jana 
 Liebe Kolleginnen und Kollegen,
 
