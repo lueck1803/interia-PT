@@ -133,11 +133,9 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - [ ] gelben Sack
-- [x] Tastatur wischen
-- [x] Tisch wischen
+- [ ] hellblaue Hose in Wäsche 
 - [x] Balkonpflanzen gießen
 - [ ] fraught aus dem Plan werfen
-- [x] Linsen in den Kühlschrank 
 - [ ] device manager bzw. tb karte über terminal suchen  
 	- [ ] gibts ne möglichkeit sie über das terminal oder anderweitig aufzuwecken?
 - [x] email von judith radomski lesen und antworten
@@ -183,7 +181,7 @@
 - [ ] Was bedeuten die 8.1,8.2, ... , 8.5 in den Lehrplänen?
 - [ ] neuen Stunden Plan in Kalender eintragen  %% fold %%
 - [x] Schulgarten checken/gießen %% fold %%
-- [ ] Krafttraining
+- [ ] Krafttraining %% fold %%
 - [ ] MTB sattel einstellen %% fold %%
 	- [x] erstmal ein tick runter  %% fold %%
 		- Höhe lass ich so %% fold %%
