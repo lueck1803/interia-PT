@@ -158,7 +158,7 @@
 	- [ ] Dazu aufgaben aus dem Buch oder selbst welche finden und ausdenken
 
 - [ ] Kursmappe 
-	- [ ] Unterricht Physik 8c 
+	- [x] P 8c 
 	- [ ] M 8a
 - [ ] aldi
 	- [ ] eis
