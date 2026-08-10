@@ -189,9 +189,6 @@
 	- [ ] und dann eventuell ein tick hinter %% fold %%
 		- [ ] ja definitiv  %% fold %%
 - [ ] fraught Stakkato 
-- [x] flaschen spülen
-- [x] carnivorenwasser auffüllen 
-- [x] carnivoren gießen
 - [x] Spülmaschine ausräumen 
 	- die läuft etwa ne 1,5 h
 - [ ] tipler srt
@@ -217,18 +214,13 @@
 	- [x] aufhängen  %% fold %%
 	- [x] abhängen  %% fold %%
 	- [x] wegräumen  %% fold %%
- %% fold %%
-	- [x] vor dem balkon
-	- [x] küche
-	- [x] bad
-- [x] Spülmaschine einräumen
 - [ ] ![[../../Pasted image 20260809105942.png]]
-	    ⤷ ausgestellt
-- [ ] Lenkergetränkehalter von cube xlc
-- [ ] da ich das tb kabel eh behalte
+	    ⤷ ausgestellt %% fold %%
+- [ ] Lenkergetränkehalter von cube xlc %% fold %%
+- [ ] da ich das tb kabel eh behalte %% fold %%
       ⤷ zusätzlich an ex4 karte und docking station anschließen
-
-- [ ] Unterricht Montag vorbereiten
+ %% fold %%
+- [ ] Unterricht Montag vorbereiten %% fold %%
 	- [ ] Plan bis zur ersten Klausur vorbereiten das den Leuten zeigen 
 		- [ ] was wird erwartet bzw was ist der Plan 
 	- [ ] Vorstellungsrunde 
@@ -316,7 +308,7 @@
 - [ ] images in Obsidian aufräumen %% fold %%
  %% fold %%
  %% fold %%
-- [ ] Papierkram
+- [ ] Papierkram %% fold %%
 	- [ ] Kassenbons %% fold %%
 	- [ ] Hefter
 	- [ ] BAS Arbeitsvertrag 📅 2026-08-07 13:00
@@ -341,13 +333,13 @@
 		- [ ] Melodie 
 		- [ ] Tremolo Picking 
 
-- [ ] zu den Eltern fahren %% fold %%
+- [ ] zu den Eltern fahren
 	- [ ] Stuhloberteil %% fold %%
-	- [ ] Sonnenbrille vom Papa %% fold %%
-	- [ ] Apfelschneider
-	- [ ] wo ist meine Handyhalterung fürs Rad? Ahl?
+	- [x] Sonnenbrille vom Papa %% fold %%
+	- [x] Apfelschneider
+	- [x] wo ist meine Handyhalterung fürs Rad? Ahl?
 	- [ ] französisch Buch weiter lesen
-	- [ ] Muskateller Salbei Samen für Schulgarten  %% fold %%
+	- [x] Muskateller Salbei Samen für Schulgarten  %% fold %%
 	
 
 
@@ -546,15 +538,9 @@ Wie sieht es mit der obersten Einstellung (<font color="#ff69b4">Alpine ridge</f
 
 Nosfe-Arthur ⇔ Nosfe-Rita 
 - [ ] Bluetooth box modden 🥰 [sound mod Anleitung](https://olegkutkov.me/2021/02/27/hacking-a-firmware-of-bluetooth-speaker-fm-radio/)
-- [x] Friseur 
-
-- [x] Wäsche %% fold %%
-	- [x] abhängen  %% fold %%
-	- [x] zusammen legen  %% fold %%
-- [x] Bettwäsche wechseln 
 
 - [ ] usb-c -> dp so verlegen, dass ich den bildschirm gescheit nutzen kann
-- [ ] usb-c > dp mit 3. bildschirm testen, den schonmal hinstellen
+- [ ] usb-c > dp mit 3. bildschirm testen, den schonmal hinstellen %% fold %%
 - [ ] laptop mit ubc->dp kabel am bildschirm testen %% fold %%
 - [ ] briefkasten checken nach thunderbolt kabel? %% fold %%
 - [ ] zurück schicken, wenn die docking station am samstag da ist %% fold %%
@@ -573,7 +559,6 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 - [ ] 3. bildschirm anschließen ⟹ geht momentan nicht...
 - [ ] schneller schwimmen lernen 
 - [ ] cityrad bremse
-- [x] Nasenhaare schneiden 
 - [ ] Fahrradhelm
 	- [ ] Band einstellen 
 	- [ ] Filz oder Ähnliches auf Klett machen
