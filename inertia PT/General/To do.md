@@ -132,11 +132,13 @@
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
+- [ ] gelben Sack
+- [ ] Balkonpflanzen gießen
 - [ ] fraught aus dem Plan werfen
 - [ ] Linsen in den Kühlschrank 
 - [ ] device manager bzw. tb karte über terminal suchen
 	- [ ] gibts ne möglichkeit sie über das terminal oder anderweitig aufzuwecken?
-- [ ] email von judith radomski lesen und antworten
+- [x] email von judith radomski lesen und antworten
 - [ ] Foto vom Sitzplan 8a Mathe machen
 - Checken ob <font color="#ff69b4">morgen überhaupt Mathe in der 5a</font> ist, wenn die 6er vorher doch das Theater haben
 	- [x] email jamil Schulstart
@@ -178,7 +180,6 @@
 	- [ ] zu Beginn der Stunde 10 min Kopfrechnen 
 - [ ] Was bedeuten die 8.1,8.2, ... , 8.5 in den Lehrplänen?
 - [ ] Zähne putzen 
-- [ ] Balkonpflanzen gießen
 - [ ] neuen Stunden Plan in Kalender eintragen  %% fold %%
 - [x] Schulgarten checken/gießen %% fold %%
 - [ ] Krafttraining  %% fold %%
@@ -315,7 +316,7 @@
 - [ ] images in Obsidian aufräumen %% fold %%
  %% fold %%
  %% fold %%
-- [ ] Papierkram %% fold %%
+- [ ] Papierkram
 	- [ ] Kassenbons %% fold %%
 	- [ ] Hefter
 	- [ ] BAS Arbeitsvertrag 📅 2026-08-07 13:00
@@ -587,9 +588,8 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 	- [ ] Kommentar fertig schreiben 
 - [ ] bot Garten Ausdrucke lesen 
 	- [x] den am Drucker lochen und einheften
-- [x] gelben Sack
 - [x] Papier Müll 
- 
+  %% fold %%
   - proposal %% fold %%
 	- [ ] Verhalten der 1:3 und 1:5 simulationen anschauen...
 	- [ ] was zu PE schreiben
