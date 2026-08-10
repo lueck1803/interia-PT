@@ -1,3 +1,7 @@
+
+selma
+	wichtig gutes verhä
+
 # Inhalt
 - Basiswissen aufbauen:
 	- Was ist das Denkprinzip der Naturwissenschaften und insbesondere der Physik?
