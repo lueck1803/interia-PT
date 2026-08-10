@@ -193,13 +193,12 @@
 - [ ] <font color="#ff69b4">Mathebuch 5. Klasse</font> 
 - [ ] 5. Mathe Plan 
 	- [ ] zu Beginn der Stunde 10 min Kopfrechnen 
-- [ ] Matheschulbuch einbinden
-- [ ] Klamotten rauslegen
+- [x] Matheschulbuch einbinden
 - [ ] Was bedeuten die 8.1,8.2, ... , 8.5 in den Lehrplänen?
 - [ ] Zähne putzen 
 - [ ] Balkonpflanzen gießen
 - [ ] neuen Stunden Plan in Kalender eintragen  %% fold %%
-- [ ] Schulgarten checken/gießen %% fold %%
+- [x] Schulgarten checken/gießen %% fold %%
 - [ ] Krafttraining 
 - [ ] MTB sattel einstellen 
 	- [x] erstmal ein tick runter 
