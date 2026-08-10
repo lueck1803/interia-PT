@@ -16,7 +16,6 @@
 - Saba hat auf meine Denksport physik aufgabe eine gute Antwort gegeben
 	- war motiviert
 	- sie denkt sie kann es nicht
-- 
 - Mallon: findet physik wichtig
 - Mariam:
 - Salsabil:
