@@ -185,7 +185,7 @@
 - [ ] MTB sattel einstellen 
 	- [x] erstmal ein tick runter 
 		- Höhe lass ich so %% fold %%
-	- [ ] und dann eventuell ein tick hinter
+	- [ ] und dann eventuell ein tick hinter %% fold %%
 		- [ ] ja definitiv 
 - [x] duschen 
 - [ ] fraught Stakkato 
