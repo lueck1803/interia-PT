@@ -210,7 +210,7 @@
 	- [ ] wegräumen  %% fold %%
 - [x] helle Wäsche <font color="#ff6e6e">2026-08-07</font>
 	- [x] anstellen %% fold %%
-	- [x] schleudern %% fold %%
+	- [x] schleudern
 		- [x] vorher riechen ob zu viel Waschpulver  %% fold %%
 		- ⤷ nochmal anstellen ⟹roch voll OK  %% fold %%
 	- [x] aufhängen  %% fold %%
