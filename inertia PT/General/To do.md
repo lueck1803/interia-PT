@@ -134,8 +134,8 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - [ ] gelben Sack
 - [ ] Tastatur wischen
-- [ ] Tisch wischen
-- [ ] Balkonpflanzen gießen
+- [x] Tisch wischen
+- [x] Balkonpflanzen gießen
 - [ ] fraught aus dem Plan werfen
 - [ ] Linsen in den Kühlschrank 
 - [ ] device manager bzw. tb karte über terminal suchen  

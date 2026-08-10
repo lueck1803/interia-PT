@@ -197,7 +197,7 @@ Arbeitsstunden KW 19:
 - andrej und burak haben mich unterstützt
 
 - Das ist der Sitzplan. 
-  ![[../../6b-Sitzplan-Verlauf.jpg]]
+  ![[6b-Sitzplan-Verlauf.jpg]]
 
 	Andrej und eine Person saßen auf dem Platz wo laut Sitzplan nur Yazen sitzen sollte.
 
