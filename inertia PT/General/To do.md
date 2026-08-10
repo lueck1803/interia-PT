@@ -136,6 +136,8 @@
 - [ ] wo ist mein Mini brett?
 	- [ ] Vorratsschrank ?
 	- [ ] keller?
+- [ ] 5. Mathe Plan 
+	- [ ] zu Beginn der Stunde 10 min 
 - [ ] Matheschulbuch einbinden
 - [ ] Klamotten rauslegen
 - [ ] Was bedeuten die 8.1,8.2, ... , 8.5 in den Lehrplänen?
