@@ -20,3 +20,5 @@ Addition, Subtraktion, Multiplikation und Division von Brüchen an schreiben
 
 # 8a
 - [ ] Foto vom Sitzplan 8a Mathe machen
+- [ ] hey ihr habt mich angelogen :P -> ihr wart am Montag nur 18 und nicht 19 Leute:
+- [ ] 632
