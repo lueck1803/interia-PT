@@ -182,7 +182,7 @@
 - [ ] Zähne putzen 
 - [ ] neuen Stunden Plan in Kalender eintragen  %% fold %%
 - [x] Schulgarten checken/gießen %% fold %%
-- [ ] Krafttraining  %% fold %%
+- [ ] Krafttraining
 - [ ] MTB sattel einstellen  %% fold %%
 	- [x] erstmal ein tick runter  %% fold %%
 		- Höhe lass ich so %% fold %%
