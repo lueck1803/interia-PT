@@ -1630,9 +1630,9 @@ Ajanza
 ### Physik
 #### 8te
 #### 8.1
-![[../../P-8.1.png]]
+![[Images/Lehrpläne/P-8.1.png]]
 #### 8.2
-![[../../Pasted image 20260809215331.png]]
+![[Images/Lehrpläne/P-8.2.png]]
 
 #### 10te
 ##### 10.1
@@ -1650,24 +1650,24 @@ Ajanza
 ![[Images/Lehrpläne/P-10.5.png]]
 ### Mathe
 #### 5te
-![[../../Pasted image 20260809214308.png]]
+![[Images/Lehrpläne/M-5.1.png]]
 ![[../../Pasted image 20260809214331.png]]
 #### 8te
 ##### 8.1
-![[../../Pasted image 20260809214458.png]]
+![[Images/Lehrpläne/M-8.1.png]]
 ##### 8.2
-![[../../P-8.2.png]]
+![[Images/Lehrpläne/M-8.2.png]]
 
 ##### 8.3
-![[../../P-8.3.png]]
+![[Images/Lehrpläne/M-8.3.png]]
 
 ##### 8.4
-![[../../P-8.4.png]]
+![[Images/Lehrpläne/M-8.4.png]]
 
 ##### 8.5
-![[../../P-8.5.png]]
+![[Images/Lehrpläne/M-8.5.png]]
 ##### 8.6
-![[../../P-8.6.png]]
+![[Images/Lehrpläne/M-8.6.png]]
 ## Klassen die ich betreue:
 ### Gespräch mit jamil
 1. Energie und Leistung
@@ -1807,7 +1807,7 @@ Jahrgangsteamsitzungen
 	- 
 ##### mein unterricht
 - pflichtfelder ~={Gold}gelber kasten=~ unten 
-	- ![[../../Pasted image 20260807110602.png]]
+	- ![[Images/Gesamtkonferenz/Pasted image 20260807110602.png]]
 	- ![[../../Pasted image 20260807110628.png]]
 - deadline - Ende der unterrichtswoche
 - Vertretungsunterricht
