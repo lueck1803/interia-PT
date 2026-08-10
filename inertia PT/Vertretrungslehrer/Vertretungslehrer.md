@@ -1630,24 +1630,24 @@ Ajanza
 ### Physik
 #### 8te
 #### 8.1
-![[../../Pasted image 20260809215250.png]]
+![[../../P-8.1.png]]
 #### 8.2
 ![[../../Pasted image 20260809215331.png]]
 
 #### 10te
 ##### 10.1
-![[../../Pasted image 20260809215410.png]]
+![[../../P-10.1-1.png]]
 ##### 10.2
-![[../../Pasted image 20260809215444.png]]
+![[Images/Lehrpläne/P-10.2.png]]
 
 ##### 10.3
-![[../../Pasted image 20260809215507.png]]
+![[Images/Lehrpläne/P-10.3.png]]
 
 ##### 10.4
-![[../../Pasted image 20260809215527.png]]
+![[Images/Lehrpläne/P-10.4.png]]
 
 ##### 10.5
-![[../../Pasted image 20260809215550.png]]
+![[Images/Lehrpläne/P-10.5.png]]
 ### Mathe
 #### 5te
 ![[../../Pasted image 20260809214308.png]]
@@ -1656,18 +1656,18 @@ Ajanza
 ##### 8.1
 ![[../../Pasted image 20260809214458.png]]
 ##### 8.2
-![[../../Pasted image 20260809214617.png]]
+![[../../P-8.2.png]]
 
 ##### 8.3
-![[../../Pasted image 20260809214801.png]]
+![[../../P-8.3.png]]
 
 ##### 8.4
-![[../../Pasted image 20260809214847.png]]
+![[../../P-8.4.png]]
 
 ##### 8.5
-![[../../Pasted image 20260809214921.png]]
+![[../../P-8.5.png]]
 ##### 8.6
-![[../../Pasted image 20260809215150.png]]
+![[../../P-8.6.png]]
 ## Klassen die ich betreue:
 ### Gespräch mit jamil
 1. Energie und Leistung
