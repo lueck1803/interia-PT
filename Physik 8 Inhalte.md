@@ -1,4 +1,7 @@
-
+# 8c
+- Rayan: mag Mathe aber kein Physik
+- Delina: leise, schüchtern. Mochte physik wegen dem Lehrer nicht
+- sofiia, Luna und D
 - selma
 	- wichtig gutes verhältnis
 	- alltag 
