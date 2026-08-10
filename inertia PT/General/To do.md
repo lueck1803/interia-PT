@@ -133,13 +133,20 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - [ ] fraught aus dem Plan werfen
-- [ ] 
 - [ ] sofiia zhyhyr - Tipler und Giancolli schicken
-- [ ] 8a 
+- [ ] M 8a 
 	- [ ] Formel für arithmetisches mittel an die Tafel schreiben mit Erklärung der einzelnen Komponenten 
 		- [ ] wie geht nochmal das arithmetische Mittel 
 	- [ ] Brüche wiederholen 
-	- [ ] :prozent
+	- [ ] prozent
+- [ ] P 8c
+	- [ ] Denksportphysikaufgabe Radtour 
+		- [ ] auf ein Blatt
+		- [ ] mit Arbeitsauftrag, dass sie das in einem Diagramm visualisieren sollen
+			- [ ] Möglichst klar formulieren
+		- [ ] und eine weitere Aufgabe auf das Blatt
+	- [ ] Dazu klar machen was hier wichtig und die Erkenntnis ist
+	- [ ] Plan bis zu r 
 - [ ] Kursmappe 
 	- [ ] Unterricht Physik 8c 
 	- [ ] M 8a
