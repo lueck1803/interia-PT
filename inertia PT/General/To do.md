@@ -160,9 +160,9 @@
 - [ ] warum schaltet sich immer die neu installierten plugins aus
 - [ ] Duolingo
 - [ ] Kette fetten cityrad
-- [ ] wo ist mein Mini brett?
-	- [ ] Vorratsschrank ?
-	- [ ] keller?
+- [x] wo ist mein Mini brett?
+	- [x] Vorratsschrank ?
+	- [x] keller?
 - [ ] mit Frau Mair und Herren Stühlinger sprechen wegen mathe 5.
 	- [ ] tipps holen 
 	- [ ] Unterrichtsstruktur 
