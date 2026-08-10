@@ -423,7 +423,7 @@
 
 - [ ] Kehrblech für Balkon kaufen  %% fold %%
 - [x] thunderbolt ex4 Anschluss prüfen %% fold %%
-	- [x] testweise usb e1234 ausschalten 
+	- [x] testweise usb e1234 ausschalten  %% fold %%
 		- [x] ausschalten ohne power trennung nach ausschaltung ⟹ Bildschirm geht trotzdem
 		      ⤷ Grund für die fehlkommunikation? also geht es auch ohne USB bzw. ist der vielleicht nicht angeschlossen?
 		- mal richtig herunterfahren mit powerloss
