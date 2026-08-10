@@ -134,7 +134,8 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - [ ] Duolingo
 - [ ] wo ist mein Mini brett?
-- [ ] 
+	- [ ] Vorratsschrank ?
+	- [ ] keller?
 - [ ] Matheschulbuch einbinden
 - [ ] Klamotten rauslegen
 - [ ] Was bedeuten die 8.1,8.2, ... , 8.5 in den Lehrplänen?
