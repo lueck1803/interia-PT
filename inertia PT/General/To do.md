@@ -135,8 +135,9 @@
 - [ ] fraught aus dem Plan werfen
 - [ ] email von judith radomski lesen und antworten
 - [ ] Foto vom Sitzplan 8a Mathe machen
-- [ ] Checken ob morgen überhaupt Mathe in der 5a ist, wenn die 6er vorher doch das Theater haben
-	- [ ] email jamil Schulstart
+- Checken ob <font color="#ff69b4">morgen überhaupt Mathe in der 5a</font> ist, wenn die 6er vorher doch das Theater haben
+	- [x] email jamil Schulstart
+	- <font color="#ff69b4">ne habe ich nicht!!!</font>
 - [x] Berglinsen kochen
 - [x] sofiia zhyhyr - Tipler und Giancolli schicken
 - [ ] Auberginenessen von letztens kochen
@@ -186,7 +187,7 @@
 	- [x] erstmal ein tick runter 
 		- Höhe lass ich so %% fold %%
 	- [ ] und dann eventuell ein tick hinter %% fold %%
-		- [ ] ja definitiv 
+		- [ ] ja definitiv  %% fold %%
 - [x] duschen 
 - [ ] fraught Stakkato 
 - [x] flaschen spülen
