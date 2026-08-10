@@ -138,6 +138,7 @@
 - Checken ob <font color="#ff69b4">morgen überhaupt Mathe in der 5a</font> ist, wenn die 6er vorher doch das Theater haben
 	- [x] email jamil Schulstart
 	- <font color="#ff69b4">ne habe ich nicht!!!</font>
+	- ah ja stimmt da habe ich dann Musikvertretung bzw. gehe mit Burak Eis essen
 - [x] Berglinsen kochen
 - [x] sofiia zhyhyr - Tipler und Giancolli schicken
 - [ ] Auberginenessen von letztens kochen
