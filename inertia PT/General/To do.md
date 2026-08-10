@@ -140,6 +140,7 @@
 - [ ] mit Frau Mair und Herren Stühlinger sprechen wegen mathe 5.
 	- [ ] tipps holen 
 	- [ ] Unterrichtsstruktur 
+- [ ] 
 - [ ] <font color="#ff69b4">Mathebuch 5. Klasse</font> 
 - [ ] 5. Mathe Plan 
 	- [ ] zu Beginn der Stunde 10 min Kopfrechnen 
