@@ -133,6 +133,8 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - [ ] gelben Sack
+- [ ] Tastatur wischen
+- [ ] Tisch wischen
 - [ ] Balkonpflanzen gießen
 - [ ] fraught aus dem Plan werfen
 - [ ] Linsen in den Kühlschrank 
