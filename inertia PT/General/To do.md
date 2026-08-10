@@ -138,7 +138,7 @@
 - [ ] Balkonpflanzen gießen
 - [ ] fraught aus dem Plan werfen
 - [ ] Linsen in den Kühlschrank 
-- [ ] device manager bzw. tb karte über terminal suchen
+- [ ] device manager bzw. tb karte über terminal suchen  
 	- [ ] gibts ne möglichkeit sie über das terminal oder anderweitig aufzuwecken?
 - [x] email von judith radomski lesen und antworten
 - [ ] Foto vom Sitzplan 8a Mathe machen
