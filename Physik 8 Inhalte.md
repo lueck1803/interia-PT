@@ -1,3 +1,7 @@
+# 8a
+
+# 8b
+
 # 8c 
 - Rayan Abuhamed: 
 	- mag Mathe aber kein Physik
@@ -51,7 +55,10 @@
 		- [ ] Geschwindigkeit bei einer Kreisbewegung
 		- [ ] Kennt ihr den Satz des Pythagoras?
 		- [ ] Durchschnittsgeschwindigkeit - so kenn man sie im Alltag
-# 8
+
+# 10a
+
+# 10b
 # Inhalt
 - Basiswissen aufbauen:
 	- Was ist das Denkprinzip der Naturwissenschaften und insbesondere der Physik?
