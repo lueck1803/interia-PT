@@ -133,20 +133,14 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - [ ] Duolingo
+- [ ] so
 - [ ] Matheschulbuch einbinden
 - [ ] Klamotten rauslegen
 - [ ] Was bedeuten die 8.1,8.2, ... , 8.5 in den Lehrplänen?
-- [x] Radtour am mac ausschneiden und drehen
-
-
-
-
-
-
-- [x] Handyhalterung an Fahrrad anbringen und ne Testfahrt machen 
-- [x] zeit stoppen wie lange ich zum Schulgarten gießen brauche 
-	- ⤷~ 30 min 
-- [x] Schulgarten checken/gießen %% fold %%
+- [ ] Zähne putzen 
+- [ ] Balkonpflanzen gießen
+- [ ] neuen Stunden Plan in Kalender eintragen  %% fold %%
+- [ ] Schulgarten checken/gießen %% fold %%
 - [ ] Krafttraining 
 - [ ] MTB sattel einstellen 
 	- [x] erstmal ein tick runter 
@@ -162,9 +156,6 @@
 - [x] Spülmaschine ausräumen 
 	- die läuft etwa ne 1,5 h
 - [ ] tipler srt
-- [x] Nähtisch aufräumen%% fold %%
-- [x] Ordner für Klassen anlegen 
-- [x] Klassenlisten ausdrucken 
 - [ ] Kursplan für 7 Wochen 
 	- [ ] 8 te Klasse Physik 
 	- [ ] 8te Klasse Mathe 
@@ -179,7 +170,7 @@
 	- [x] abhängen  %% fold %%
 	- [ ] zusammenlegen  %% fold %%
 	- [ ] wegräumen  %% fold %%
-- [ ] helle Wäsche <font color="#ff6e6e">2026-08-07</font>
+- [ ] helle Wäsche <font color="#ff6e6e">2026-08-07</font> %% fold %%
 	- [x] anstellen %% fold %%
 	- [x] schleudern %% fold %%
 		- [x] vorher riechen ob zu viel Waschpulver  %% fold %%
@@ -187,26 +178,19 @@
 	- [x] aufhängen  %% fold %%
 	- [x] abhängen  %% fold %%
 	- [ ] wegräumen  %% fold %%
-- [x] chickeburger ersatz mit Tomaten essen
-- [x] stellenweise wischen %% fold %%
+ %% fold %%
 	- [x] vor dem balkon
 	- [x] küche
 	- [x] bad
 - [x] Spülmaschine einräumen
-- [x] balkon kehren ✅ 2026-08-09
-- [x] kaffeesatz und apfelschnitt raus ✅ 2026-08-09
+- [x] balkon kehren 
 - [ ] ![[../../Pasted image 20260809105942.png]]
 	    ⤷ ausgestellt
 - [ ] Lenkergetränkehalter von cube xlc
 - [ ] da ich das tb kabel eh behalte
       ⤷ zusätzlich an ex4 karte und docking station anschließen
-- [x] Staub saugen ✅ 2026-08-09 %% fold %%
-- [x] Balkonpflanzen gießen  %% fold %% ✅ 2026-08-09
-- [x] Zähne putzen 
-- [x] Kleidung auf Sofa wegräumen ✅ 2026-08-09
- %% fold %%
+- [x] Staub saugen  %% fold %%
 
-- [ ] neuen Stunden Plan in Kalender eintragen  %% fold %%
 - [ ] Unterricht Montag vorbereiten
 	- [ ] Plan bis zur ersten Klausur vorbereiten das den Leuten zeigen 
 		- [ ] was wird erwartet bzw was ist der Plan 
@@ -1398,6 +1382,9 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] <span style="color:coral">paartherapie S3 runterladen</span>
 
 # Alt
+- [x] zeit stoppen wie lange ich zum Schulgarten gießen brauche 
+	- ⤷~ 30 min 
+- [x] Handyhalterung an Fahrrad anbringen und ne Testfahrt machen 
 - [ ] ganz cool dass das so mit den Bildschirmen funktioniert:
 	![[../../Pasted image 20260807165533.png]]
 
