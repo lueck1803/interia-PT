@@ -133,7 +133,8 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - [ ] Duolingo
-- [ ] so
+- [ ] wo ist mein Mini brett?
+- [ ] 
 - [ ] Matheschulbuch einbinden
 - [ ] Klamotten rauslegen
 - [ ] Was bedeuten die 8.1,8.2, ... , 8.5 in den Lehrplänen?
