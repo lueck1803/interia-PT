@@ -133,7 +133,7 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - [ ] gelben Sack
-- [ ] Tastatur wischen
+- [x] Tastatur wischen
 - [x] Tisch wischen
 - [x] Balkonpflanzen gießen
 - [ ] fraught aus dem Plan werfen
@@ -204,18 +204,6 @@
 - [ ] Apfelschneider
 	- [ ] nachpfeilen
 	- [ ] Stelle wegflexen %% fold %%
-- [x] 60° Wäsche <font color="#92d050">2026-08-06</font>
-	- [x] abhängen  %% fold %%
-	- [x] zusammenlegen  %% fold %%
-	- [x] wegräumen  %% fold %%
-- [x] helle Wäsche <font color="#ff6e6e">2026-08-07</font>
-	- [x] anstellen %% fold %%
-	- [x] schleudern
-		- [x] vorher riechen ob zu viel Waschpulver  %% fold %%
-		- ⤷ nochmal anstellen ⟹roch voll OK  %% fold %%
-	- [x] aufhängen  %% fold %%
-	- [x] abhängen  %% fold %%
-	- [x] wegräumen  %% fold %%
 - [ ] ![[../../Pasted image 20260809105942.png]]
 	    ⤷ ausgestellt %% fold %%
 - [ ] Lenkergetränkehalter von cube xlc %% fold %%
@@ -265,7 +253,6 @@
 	- [ ] am rechner auch eingerichtet
 	- [ ] mal schauen wie es weiter geht
 
-
 - [ ] Will ich wirklich Denksport Physik promoten?
 
 
@@ -274,26 +261,19 @@
 - [ ] Wie funktioniert das mit Tasks 
        Bzw den hash tags
 
-
 - [ ] Ich behalte alles Zeug ⟹ Kosten zusammen rechnen 
 
 - [ ] Wichtig ist jetzt die Masterarbeit fertig zu machen 
-
 
 - [ ] hot corners
 
 - [ ] separate bildschirme mac - mission control - wie funktioniert das richtig
 
-
 - [ ] eventuell andere dockingstation für mac kaufen bzw. die nehmen die ich momentan für den rechner verwende
 
-
 - [ ] noch den kalender von lukasludwig hinzufügen
-
-
-
-
-- [ ] tasks aufräumen  
+ %% fold %%
+- [ ] tasks aufräumen   %% fold %%
 - [ ] meditieren  %% fold %%
 
  %% fold %%

@@ -1651,7 +1651,7 @@ Ajanza
 ### Mathe
 #### 5te
 ![[Images/Lehrpläne/M-5.1.png]]
-![[../../Pasted image 20260809214331.png]]
+![[Images/Lehrpläne/Pasted image 20260809214331.png]]
 #### 8te
 ##### 8.1
 ![[Images/Lehrpläne/M-8.1.png]]
@@ -1808,24 +1808,24 @@ Jahrgangsteamsitzungen
 ##### mein unterricht
 - pflichtfelder ~={Gold}gelber kasten=~ unten 
 	- ![[Images/Gesamtkonferenz/Pasted image 20260807110602.png]]
-	- ![[../../Pasted image 20260807110628.png]]
+	- ![[Images/Gesamtkonferenz/Pasted image 20260807110628.png]]
 - deadline - Ende der unterrichtswoche
 - Vertretungsunterricht
 
 ##### Klausurenplaner 
 
-![[../../Pasted image 20260807110647.png]]
-![[../../Pasted image 20260807110657.png]]
+![[Images/Gesamtkonferenz/Pasted image 20260807110647.png]]
+![[Images/Gesamtkonferenz/Pasted image 20260807110657.png]]
 
 ##### Räume & Medien
-![[../../Pasted image 20260807110736.png]]
-![[../../Pasted image 20260807110748.png]]
+![[Images/Gesamtkonferenz/Pasted image 20260807110736.png]]
+![[Images/Gesamtkonferenz/Pasted image 20260807110748.png]]
 
 ##### Datensicherung
 - müssen die Archivierung (Verpflichtet den unterricht zu dokumentieren und zu archivieren - ~={Gold}Aufbewahrungsdauer:=~ 5 Jahre) - der ursprünglichen Klassenbücher 
 	- nachbilden in dem wir
 		- ~={MediumTurquoise}exportieren=~ 
-		  ![[../../Pasted image 20260807111829.png]]
+		  ![[Images/Gesamtkonferenz/Pasted image 20260807111829.png]]
 		- auf Usb stick ziehen und im kopierraum ~={MediumSpringGreen}ausdrucken=~ 
 		- ~={purple}unterschreiben=~
 	- pro kurs muss das erledigt werden

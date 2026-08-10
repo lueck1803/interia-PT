@@ -89,8 +89,8 @@
 	- Energie - Erhaltung
 	- Reibung
 
-![[Pasted image 20260809234907.png]]
-![[Pasted image 20260809234955.png]]
+![[Images/BAS/Pasted image 20260809234907.png]]
+![[Images/BAS/Pasted image 20260809234955.png]]
 ## Basis Wissen
 - Was ist eine Größenordnung?
 	- zehn
