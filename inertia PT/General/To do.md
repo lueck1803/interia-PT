@@ -135,6 +135,7 @@
 
 - [ ] sofiia zhyhyr - Tipler und Giancolli schicken
 - [ ] 8a 
+	- [ ] Brück
 - [ ] 8c Physik - Sitzplan erstellen
 - [ ] warum schaltet sich immer die neu installierten plugins aus
 - [ ] Duolingo
