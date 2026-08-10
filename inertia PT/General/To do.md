@@ -134,6 +134,7 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - [ ] fraught aus dem Plan werfen
 - [ ] sofiia zhyhyr - Tipler und Giancolli schicken
+- [ ] Auberginenessen von letztens kochen
 - [ ] M 8a 
 	- [ ] Formel für arithmetisches mittel an die Tafel schreiben mit Erklärung der einzelnen Komponenten 
 		- [ ] wie geht nochmal das arithmetische Mittel 
