@@ -137,7 +137,7 @@
 - [x] Tisch wischen
 - [x] Balkonpflanzen gießen
 - [ ] fraught aus dem Plan werfen
-- [ ] Linsen in den Kühlschrank 
+- [x] Linsen in den Kühlschrank 
 - [ ] device manager bzw. tb karte über terminal suchen  
 	- [ ] gibts ne möglichkeit sie über das terminal oder anderweitig aufzuwecken?
 - [x] email von judith radomski lesen und antworten
@@ -181,11 +181,10 @@
 - [ ] 5. Mathe Plan 
 	- [ ] zu Beginn der Stunde 10 min Kopfrechnen 
 - [ ] Was bedeuten die 8.1,8.2, ... , 8.5 in den Lehrplänen?
-- [ ] Zähne putzen 
 - [ ] neuen Stunden Plan in Kalender eintragen  %% fold %%
 - [x] Schulgarten checken/gießen %% fold %%
 - [ ] Krafttraining
-- [ ] MTB sattel einstellen
+- [ ] MTB sattel einstellen %% fold %%
 	- [x] erstmal ein tick runter  %% fold %%
 		- Höhe lass ich so %% fold %%
 	- [ ] und dann eventuell ein tick hinter %% fold %%
