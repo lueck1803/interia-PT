@@ -133,7 +133,9 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - [ ] fraught aus dem Plan werfen
+- [ ] email von judith radomski lesen und antworten
 - [ ] Foto vom Sitzplan 8a Mathe machen
+- [ ] Checken ob morgen überhaupt Mathe in der 5a ist, wenn die 6er vorher doch das Theater haben
 - [x] Berglinsen kochen
 - [x] sofiia zhyhyr - Tipler und Giancolli schicken
 - [ ] Auberginenessen von letztens kochen
