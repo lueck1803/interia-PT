@@ -142,7 +142,10 @@
 	- [ ] Unterrichtsstruktur 
 - [ ] Stühlinger 
 	- [ ] Grundrechenarten massiv wiederholen 
-	- [ ] auf
+	- [ ] auf Struktur und formelle Dinge achten
+		- [ ] Ordnung 
+		- [ ] Ergebnis unterstreichen 
+		- [ ] klarer rec
 - [ ] <font color="#ff69b4">Mathebuch 5. Klasse</font> 
 - [ ] 5. Mathe Plan 
 	- [ ] zu Beginn der Stunde 10 min Kopfrechnen 
