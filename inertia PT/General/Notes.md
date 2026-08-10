@@ -4070,6 +4070,11 @@ Aber eher im übertragenen Sinne.
 Die Band verwendet aber ausschließlich diese Bedeutung. Für diese bedeutungen gibt es aber eher andere Worte.
 
 # Biologie
+## Tier und Pflanzen Bestimmungen
+- [x] kleine braune weiß gepunktete Spinne bestimmen %% fold %%
+	- Weißpunkt-Fettspinne / Dreiecksfettspinne  %% fold %%
+- [x] Pflanze beim majoran bestimmen
+	- kleinblütiges Franzosenkraut 
 ## Evolution und DNA 🧬
 ### RNA - [Älter als das Leben?](https://youtu.be/4eRdmamHBpc?is=lyy2evRfv9D4uZ46)
 

@@ -134,8 +134,6 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - [ ] fraught aus dem Plan werfen
 - [ ] Linsen in den Kühlschrank 
-- [x] nudeln mit linsen + nudelsoße essen
-- [x] Scanner checken
 - [ ] device manager bzw. tb karte über terminal suchen
 	- [ ] gibts ne möglichkeit sie über das terminal oder anderweitig aufzuwecken?
 - [ ] email von judith radomski lesen und antworten
@@ -144,8 +142,6 @@
 	- [x] email jamil Schulstart
 	- <font color="#ff69b4">ne habe ich nicht!!!</font>
 	- ah ja stimmt da habe ich dann Musikvertretung bzw. gehe mit Burak Eis essen
-- [x] Berglinsen kochen
-- [x] sofiia zhyhyr - Tipler und Giancolli schicken
 - [ ] Auberginenessen von letztens kochen
 - [ ] M 8a 
 	- [ ] Formel für arithmetisches mittel an die Tafel schreiben mit Erklärung der einzelnen Komponenten 
@@ -188,18 +184,16 @@
 - [ ] Balkonpflanzen gießen
 - [ ] neuen Stunden Plan in Kalender eintragen  %% fold %%
 - [x] Schulgarten checken/gießen %% fold %%
-- [ ] Krafttraining 
+- [ ] Krafttraining  %% fold %%
 - [ ] MTB sattel einstellen  %% fold %%
 	- [x] erstmal ein tick runter 
 		- Höhe lass ich so %% fold %%
 	- [ ] und dann eventuell ein tick hinter %% fold %%
 		- [ ] ja definitiv  %% fold %%
-- [x] duschen 
 - [ ] fraught Stakkato 
 - [x] flaschen spülen
 - [x] carnivorenwasser auffüllen 
 - [x] carnivoren gießen
-- [x] stecklinge checken
 - [x] Spülmaschine ausräumen 
 	- die läuft etwa ne 1,5 h
 - [ ] tipler srt
@@ -212,7 +206,7 @@
 	- [ ] Vorstellungsrunde (<font color="#ff0000">was ich bereits notiert habe</font>)
 - [ ] Apfelschneider
 	- [ ] nachpfeilen
-	- [ ] Stelle wegflexen
+	- [ ] Stelle wegflexen %% fold %%
 - [ ] 60° Wäsche <font color="#92d050">2026-08-06</font> %% fold %%
 	- [x] abhängen  %% fold %%
 	- [ ] zusammenlegen  %% fold %%
@@ -230,13 +224,11 @@
 	- [x] küche
 	- [x] bad
 - [x] Spülmaschine einräumen
-- [x] balkon kehren 
 - [ ] ![[../../Pasted image 20260809105942.png]]
 	    ⤷ ausgestellt
 - [ ] Lenkergetränkehalter von cube xlc
 - [ ] da ich das tb kabel eh behalte
       ⤷ zusätzlich an ex4 karte und docking station anschließen
-- [x] Staub saugen  %% fold %%
 
 - [ ] Unterricht Montag vorbereiten
 	- [ ] Plan bis zur ersten Klausur vorbereiten das den Leuten zeigen 
@@ -309,16 +301,11 @@
 
 
 
-- [x] Gesicht waschen
 - [ ] tasks aufräumen  
 - [ ] meditieren  %% fold %%
 
-- [x] Tastatur wischen
-	- [x] laptop
-	- [x] PC
  %% fold %%
  %% fold %%
-- [x] Spülmaschine Graphit-öl ölen %% fold %%
 - [ ] neue schicke Schuhe pflegen %% fold %%
  %% fold %%
  %% fold %%
@@ -429,32 +416,14 @@
 		- [ ] Regeln für den Unterricht klar überlegen 
 
 
-- [x] Flaschen spülen
 - [ ] warum ist Beton ein so schlechter Wärmeisolator? %% fold %%
 - [ ] Krafttraining %% fold %%
-- [x] Arbeitsflächen in der Küche wischen  %% fold %%
 - [ ] rote Linsen + Kichererbsen Curry kochen  %% fold %%
-- [x] Spülmaschine ausräumen  %% fold %% 
-- [x] Badspiegel putzen  %% fold %%
  %% fold %%
-- [x] staubsaugen  %% fold %%
-- [x] Küchenabfall wegbringen 
-- [x] Restmüll weg %% fold %%
-- [x] Briefkasten checken %% fold %%
 
-- [x] rasieren 
 - [ ] wie nennt man das was ich an der Schläfe habe?
 	- [ ] welche weiteren Mittel gibt es
-- [x] Teebaumöl auftragen
-- [x] Iod auftragen
-- [x] ceran Feld wischen 
-- [x] Spülmaschine anstellen
-- [x] Spülmaschine einräumen  %% fold %%
-- [x] Toilette putzen 
-- [x] kleine braune weiß gepunktete Spinne bestimmen %% fold %%
-	- Weißpunkt-Fettspinne / Dreiecksfettspinne  %% fold %%
-- [x] Pflanze beim majoran bestimmen
-	- kleinblütiges Franzosenkraut 
+
 - [ ] Kehrblech für Balkon kaufen  %% fold %%
 - [x] thunderbolt ex4 Anschluss prüfen %% fold %%
 	- [x] testweise usb e1234 ausschalten 
