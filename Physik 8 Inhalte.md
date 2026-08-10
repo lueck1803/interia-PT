@@ -1,4 +1,4 @@
-# 8c
+# 8c 
 - Rayan Abuhamed: 
 	- mag Mathe aber kein Physik
 	- will altenpfleger werden
@@ -13,9 +13,20 @@
 	- wichtig 
 	- gutes verhältnis
 	- alltag 
+- Saba hat auf meine Denksport physik aufgabe eine gute Antwort gegeben
+	- war motiviert
+	- sie denkt sie kann es nicht
+- 
+- Mallon: findet physik wichtig
+- Mariam:
+- Salsabil:
 - Insgesamt wollen sie explosionen xD haben 
 - safiya links in der ecke kopftuch
-- Hlib eigentlich 
+- Hlib eigentlich Глиб
+- Maxim: geht so
+- Diego:
+- Nikola: Serbe
+- leylani Dilara
 
 # Inhalt
 - Basiswissen aufbauen:
