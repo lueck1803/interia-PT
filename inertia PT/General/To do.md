@@ -159,12 +159,12 @@
 
 - [ ] Kursmappe 
 	- [x] P 8c 
-	- [ ] M 8a
+	- [x] M 8a
 - [ ] aldi
 	- [ ] eis
 	- [ ] toast
 	- [ ] Bier
-- [ ] 8c Physik - Sitzplan erstellen
+- [x] 8c Physik - Sitzplan erstellen
 - [ ] warum schaltet sich immer die neu installierten plugins aus
 - [ ] Duolingo
 - [ ] Kette fetten cityrad
