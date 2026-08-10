@@ -16,3 +16,7 @@ Addition, Subtraktion, Multiplikation und Division von Brüchen an schreiben
 - Klammer auflösen - Distributivgesetz
 - Minuszeichen vor der Klammer
 - Ausklammern von gemeinsamen Faktoren
+
+
+# 8a
+- [ ] Foto vom Sitzplan 8a Mathe machen
