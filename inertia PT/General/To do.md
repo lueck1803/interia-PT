@@ -136,6 +136,7 @@
 - [ ] email von judith radomski lesen und antworten
 - [ ] Foto vom Sitzplan 8a Mathe machen
 - [ ] Checken ob morgen überhaupt Mathe in der 5a ist, wenn die 6er vorher doch das Theater haben
+	- [ ] email jamil Schulstart
 - [x] Berglinsen kochen
 - [x] sofiia zhyhyr - Tipler und Giancolli schicken
 - [ ] Auberginenessen von letztens kochen
