@@ -1,6 +1,6 @@
 
 selma
-	wichtig gutes verhä
+	wichtig gutes verhält
 
 # Inhalt
 - Basiswissen aufbauen:
