@@ -138,12 +138,7 @@
 - [ ] fraught aus dem Plan werfen
 - [ ] device manager bzw. tb karte über terminal suchen  
 	- [ ] gibts ne möglichkeit sie über das terminal oder anderweitig aufzuwecken?
-- [x] email von judith radomski lesen und antworten
 - [ ] Foto vom Sitzplan 8a Mathe machen
-- Checken ob <font color="#ff69b4">morgen überhaupt Mathe in der 5a</font> ist, wenn die 6er vorher doch das Theater haben
-	- [x] email jamil Schulstart
-	- <font color="#ff69b4">ne habe ich nicht!!!</font>
-	- ah ja stimmt da habe ich dann Musikvertretung bzw. gehe mit Burak Eis essen
 - [ ] Auberginenessen von letztens kochen
 - [ ] M 8a 
 	- [ ] Formel für arithmetisches mittel an die Tafel schreiben mit Erklärung der einzelnen Komponenten 
@@ -162,7 +157,6 @@
 	- [ ] eis
 	- [ ] toast
 	- [ ] Bier
-- [x] 8c Physik - Sitzplan erstellen
 - [ ] warum schaltet sich immer die neu installierten plugins aus
 - [ ] Duolingo
 - [ ] Kette fetten cityrad
@@ -175,7 +169,6 @@
 		- [ ] Ordnung 
 		- [ ] Ergebnis unterstreichen 
 		- [ ] klarer rechenweg - punktabzug Klausur - Abschlussarbeit 10te
-- [x] <font color="#ff69b4">Mathebuch 5. Klasse</font> 
 - [ ] 5. Mathe Plan 
 	- [ ] zu Beginn der Stunde 10 min Kopfrechnen 
 - [ ] Was bedeuten die 8.1,8.2, ... , 8.5 in den Lehrplänen?
