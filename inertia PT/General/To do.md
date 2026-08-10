@@ -143,7 +143,9 @@
 - [ ] Kursmappe 
 	- [ ] Unterricht Physik 8c 
 	- [ ] M 8a
-	- [ ] 
+- [ ] aldi
+	- [ ] eis
+	- [ ] toast
 - [ ] 8c Physik - Sitzplan erstellen
 - [ ] warum schaltet sich immer die neu installierten plugins aus
 - [ ] Duolingo
