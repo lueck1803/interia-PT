@@ -141,7 +141,9 @@
 	- [ ] prozent
 - [ ] P 8c
 	- [ ] Plan bis zur Klausur an die Tafel schreiben
-	- [ ] nochmal klar machen, was so meine/Anspruch an den
+	- [ ] nochmal klar machen, was so mein Anspruch / meine Ziele an den Unterricht ist/sind
+	- [ ] Das arithmetische Mittel erklärt an die Tafel schreiben
+		- [ ] das sollen sie sich so abschreiben
 	- [ ] Denksportphysikaufgabe Radtour 
 		- [ ] auf ein Blatt
 		- [ ] mit Arbeitsauftrag, dass sie das in einem Diagramm visualisieren sollen
@@ -160,7 +162,6 @@
 		- [ ] Geschwindigkeit bei einer Kreisbewegung
 		- [ ] Kennt ihr den Satz des Pythagoras?
 		- [ ] Durchschnittsgeschwindigkeit - so kenn man sie im Alltag
-		- [ ] 
 - [ ] Kursmappe 
 	- [ ] Unterricht Physik 8c 
 	- [ ] M 8a
