@@ -2065,6 +2065,8 @@ Tage produktiv gewesen:
 - hoher Becher statt breite Schüssel 
 - Metall Schüssel statt Plastik, wegen dem fett was an Plastik besser haftet.⟹Fett ist der Feind von Steifem Eiweiß 
 - Prise Salz ⟹wirkt auf die elektrische Ladung der Proteine, die stoßen sich weniger ab
+## Garzeiten Schnellkochtopf 
+
 # Gartenarbeit und Pflanzen
 - gekaufte Pflanzen <u>vor dem Umtopfen 
 </u>entweder 
