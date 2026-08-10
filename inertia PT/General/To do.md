@@ -205,10 +205,10 @@
 - [ ] Apfelschneider
 	- [ ] nachpfeilen
 	- [ ] Stelle wegflexen %% fold %%
-- [ ] 60° Wäsche <font color="#92d050">2026-08-06</font> %% fold %%
+- [x] 60° Wäsche <font color="#92d050">2026-08-06</font>
 	- [x] abhängen  %% fold %%
-	- [ ] zusammenlegen  %% fold %%
-	- [ ] wegräumen  %% fold %%
+	- [x] zusammenlegen  %% fold %%
+	- [x] wegräumen  %% fold %%
 - [x] helle Wäsche <font color="#ff6e6e">2026-08-07</font>
 	- [x] anstellen %% fold %%
 	- [x] schleudern
