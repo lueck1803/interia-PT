@@ -133,10 +133,17 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - [ ] fraught aus dem Plan werfen
+- [ ] 
 - [ ] sofiia zhyhyr - Tipler und Giancolli schicken
 - [ ] 8a 
+	- [ ] Formel für arithmetisches mittel an die Tafel schreiben mit Erklärung der einzelnen Komponenten 
+		- [ ] wie geht nochmal das arithmetische Mittel 
 	- [ ] Brüche wiederholen 
 	- [ ] :prozent
+- [ ] Kursmappe 
+	- [ ] Unterricht Physik 8c 
+	- [ ] M 8a
+	- [ ] 
 - [ ] 8c Physik - Sitzplan erstellen
 - [ ] warum schaltet sich immer die neu installierten plugins aus
 - [ ] Duolingo
