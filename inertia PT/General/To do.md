@@ -138,7 +138,11 @@
 	- [ ] Formel für arithmetisches mittel an die Tafel schreiben mit Erklärung der einzelnen Komponenten 
 		- [ ] wie geht nochmal das arithmetische Mittel 
 	- [ ] Brüche wiederholen 
+		- [ ] zahlen Strahl im vergleich zu N und Z
+		- [ ] Brüche anordnen
+		- [ ] die vier rechen Arten
 	- [ ] prozent
+	- [ ] Dazu aufgaben aus dem Buch oder selbst welche finden und ausdenken
 - [ ] P 8c
 	- [ ] Plan bis zur Klausur an die Tafel schreiben
 	- [ ] nochmal klar machen, was so mein Anspruch / meine Ziele an den Unterricht ist/sind
