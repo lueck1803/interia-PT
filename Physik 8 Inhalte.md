@@ -1,11 +1,21 @@
 # 8c
-- Rayan: mag Mathe aber kein Physik
-- Delina: leise, schüchtern. Mochte physik wegen dem Lehrer nicht
-- sofiia, Luna und D
-- selma
-	- wichtig gutes verhältnis
+- Rayan Abuhamed: 
+	- mag Mathe aber kein Physik
+	- will altenpfleger werden
+- Delina: leise, schüchtern. Mochte physik wegen dem Lehrer nicht, blaues oberteil und haarreif
+- Nika spricht nicht so gut deutsch
+- sofiia, Luna und Leylani: fanden chat gpt von herrn anzul doof, da war auch ein Fehler in der Klausur
+- Mateo: 
+- Rayan Busmaa Al-Lal:
+- lasse: kann gut physik, der weiß worum es geht
+- isaac und rayan stören ⟹ vielleicht auseinander setzen
+- salma
+	- wichtig 
+	- gutes verhältnis
 	- alltag 
-- 
+- Insgesamt wollen sie explosionen xD haben 
+- safiya links in der ecke kopftuch
+- Hlib eigentlich 
 
 # Inhalt
 - Basiswissen aufbauen:
