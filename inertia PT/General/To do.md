@@ -208,14 +208,14 @@
 	- [x] abhängen  %% fold %%
 	- [ ] zusammenlegen  %% fold %%
 	- [ ] wegräumen  %% fold %%
-- [ ] helle Wäsche <font color="#ff6e6e">2026-08-07</font> %% fold %%
+- [x] helle Wäsche <font color="#ff6e6e">2026-08-07</font>
 	- [x] anstellen %% fold %%
 	- [x] schleudern %% fold %%
 		- [x] vorher riechen ob zu viel Waschpulver  %% fold %%
 		- ⤷ nochmal anstellen ⟹roch voll OK  %% fold %%
 	- [x] aufhängen  %% fold %%
 	- [x] abhängen  %% fold %%
-	- [ ] wegräumen  %% fold %%
+	- [x] wegräumen  %% fold %%
  %% fold %%
 	- [x] vor dem balkon
 	- [x] küche
