@@ -133,8 +133,8 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - [ ] fraught aus dem Plan werfen
-- [ ] Berglinsen kochen
-- [ ] sofiia zhyhyr - Tipler und Giancolli schicken
+- [x] Berglinsen kochen
+- [x] sofiia zhyhyr - Tipler und Giancolli schicken
 - [ ] Auberginenessen von letztens kochen
 - [ ] M 8a 
 	- [ ] Formel für arithmetisches mittel an die Tafel schreiben mit Erklärung der einzelnen Komponenten 
