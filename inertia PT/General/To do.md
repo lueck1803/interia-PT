@@ -132,6 +132,7 @@
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
+- [ ] gelben Sack
 - [ ] fraught aus dem Plan werfen
 - [ ] Linsen in den Kühlschrank 
 - [ ] device manager bzw. tb karte über terminal suchen
@@ -315,7 +316,7 @@
 - [ ] images in Obsidian aufräumen %% fold %%
  %% fold %%
  %% fold %%
-- [ ] Papierkram %% fold %%
+- [ ] Papierkram
 	- [ ] Kassenbons %% fold %%
 	- [ ] Hefter
 	- [ ] BAS Arbeitsvertrag 📅 2026-08-07 13:00
@@ -587,9 +588,8 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 	- [ ] Kommentar fertig schreiben 
 - [ ] bot Garten Ausdrucke lesen 
 	- [x] den am Drucker lochen und einheften
-- [x] gelben Sack
 - [x] Papier Müll 
- 
+  %% fold %%
   - proposal %% fold %%
 	- [ ] Verhalten der 1:3 und 1:5 simulationen anschauen...
 	- [ ] was zu PE schreiben
