@@ -159,6 +159,7 @@
 - [ ] aldi
 	- [ ] eis
 	- [ ] toast
+	- [ ] Bier
 - [ ] 8c Physik - Sitzplan erstellen
 - [ ] warum schaltet sich immer die neu installierten plugins aus
 - [ ] Duolingo
@@ -182,7 +183,7 @@
 - [x] Schulgarten checken/gießen %% fold %%
 - [ ] Krafttraining  %% fold %%
 - [ ] MTB sattel einstellen  %% fold %%
-	- [x] erstmal ein tick runter 
+	- [x] erstmal ein tick runter  %% fold %%
 		- Höhe lass ich so %% fold %%
 	- [ ] und dann eventuell ein tick hinter %% fold %%
 		- [ ] ja definitiv  %% fold %%
