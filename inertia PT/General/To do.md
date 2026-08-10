@@ -135,7 +135,8 @@
 
 - [ ] sofiia zhyhyr - Tipler und Giancolli schicken
 - [ ] 8a 
-	- [ ] Brück
+	- [ ] Brüche wiederholen 
+	- [ ] :prozent
 - [ ] 8c Physik - Sitzplan erstellen
 - [ ] warum schaltet sich immer die neu installierten plugins aus
 - [ ] Duolingo
