@@ -163,9 +163,6 @@
 - [ ] warum schaltet sich immer die neu installierten plugins aus
 - [ ] Duolingo
 - [ ] Kette fetten cityrad
-- [x] wo ist mein Mini brett?
-	- [x] Vorratsschrank ?
-	- [x] keller?
 - [ ] mit Frau Mair und Herren Stühlinger sprechen wegen mathe 5.
 	- [ ] tipps holen 
 	- [ ] Unterrichtsstruktur 
@@ -178,7 +175,6 @@
 - [x] <font color="#ff69b4">Mathebuch 5. Klasse</font> 
 - [ ] 5. Mathe Plan 
 	- [ ] zu Beginn der Stunde 10 min Kopfrechnen 
-- [x] Matheschulbuch einbinden
 - [ ] Was bedeuten die 8.1,8.2, ... , 8.5 in den Lehrplänen?
 - [ ] Zähne putzen 
 - [ ] Balkonpflanzen gießen
