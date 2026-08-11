@@ -141,7 +141,7 @@
 - [ ] schul.cloud am mac checken ob ich da eingelogt bin?
 - [x] plugin <font color="#b088ff">line arrange</font> testen
 - plugin <font color="#b088ff">line arrange</font>  installieren
-	- [ ] mac
+	- [x] mac
 	- [x] handy
 - [ ] edit toolbar updaten, damit man die einträge eventuell wieder sortieren kann
 	- [ ] vorher neu backuppen 
