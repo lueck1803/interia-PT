@@ -365,7 +365,7 @@
 		- oder tasks %% fold %%
 	- Google Calendar Importer  %% fold %%
 	      - ⟹ sieht sehr ähnlich aus zu dem oberen
-	- <font color="#ff6e6e">Sync Google Calendar </font><font color="#00b0f0">Obsidian x Google Calendar Plugin</font>
+	- <font color="#ff6e6e">Sync Google Calendar </font><font color="#00b0f0">Obsidian x Google Calendar Plugin</font> %% fold %%
 	      - ⟹ sieht am ehesten so aus wie das was ich möchte. %% fold %%
 	      - ⟹ ist 3 Jahre alt...
 		- kombiniert mit 
