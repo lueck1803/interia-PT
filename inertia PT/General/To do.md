@@ -134,6 +134,8 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - [ ] gelben Sack
 - [ ] mero heißt jetzt dincer
+- [ ] 12:15 Treffen der 5er Mittwoch 
+- [ ] Harald Jung wegen saniraum frage
 - [x] hellblaue Hose in Wäsche 
 - [ ] Stunden plan austauschen 
 - [ ] klassenliste 8b anpassen.
