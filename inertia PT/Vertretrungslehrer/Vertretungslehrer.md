@@ -108,12 +108,18 @@ B3Rnh@Rd
 - Blaume, Nele Hanne (blm)
 - Einicke, Ute (ein)
 	- Jahrgangsleitung 9/10
+- Fäth, Maria (fät)
+	- Klassenleitung 8d
 - Fröhlich, Ina-Maria (frö)
 	- Klassenleitung <font color="#ff1493">8c</font>
 - Gernand, Anita Maria (ger)
 	- ~~Klassenleitung <font color="#b088ff">8b</font>~~
+- Görlich, Julia (gör)
+	- Klassenleitung 8e
 - Hirsch, Jamil (hir)
 - Kohlmeier, Lukas (koh)
+- Lang, Sebastian (lan)
+	- Klassenleitung 8f
 - Lauer, Anna (lae)
 	- physik, geographie, klassenleitung 6d?, kommt von der erich kästner
 - Laumann, Regina (lau)
@@ -127,8 +133,6 @@ B3Rnh@Rd
 - Rohr, Lisa-Marie (roh)
 	- Klassenleitung <font color="#8db3e2">8a</font> 
 - Wolf, Johannes (wol)
-- Görlich, Julia (gör)
-	- Klassenleitung 8e
 ## Stundenplan
 
 ## Sitzpläne
