@@ -144,6 +144,7 @@ B3Rnh@Rd
 		- 7c
 		- 7d
 		- 8d
+- , Mero 
 ## Stundenplan
 
 ## Sitzpläne
