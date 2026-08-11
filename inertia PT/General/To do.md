@@ -133,6 +133,7 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - [ ] gelben Sack
+- [ ] mero heißt jetzt dincer
 - [x] hellblaue Hose in Wäsche 
 - [ ] Stunden plan austauschen 
 - [ ] klassenliste 8b anpassen.
