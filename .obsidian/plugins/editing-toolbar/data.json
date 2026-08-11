@@ -375,19 +375,20 @@
       "icon": "lucide-paperclip"
     },
     {
-      "id": "line-arrange:sort-lines",
-      "name": "Line Arrange: Sort lines",
-      "icon": "arrow-big-down"
-    },
-    {
       "id": "line-arrange:sort-blocks",
       "name": "Line Arrange: Sort blocks",
       "icon": "align-vertical-justify-end"
     },
     {
+      "id": "SubmenuCommands-msoq9pmfz",
+      "name": "sort",
+      "icon": "sort-asc",
+      "SubmenuCommands": []
+    },
+    {
       "id": "line-arrange:reverse-lines",
       "name": "Line Arrange: Reverse lines",
-      "icon": "arrow-up"
+      "icon": "sort-desc"
     },
     {
       "id": "line-arrange:sort-headings",
@@ -397,7 +398,17 @@
     {
       "id": "line-arrange:reverse-headings",
       "name": "Line Arrange: Reverse headings",
-      "icon": "arrow-up"
+      "icon": "sort-desc"
+    },
+    {
+      "id": "line-arrange:sort-lines",
+      "name": "Line Arrange: Sort lines",
+      "icon": "align-center"
+    },
+    {
+      "id": "line-arrange:reverse-blocks",
+      "name": "Line Arrange: Reverse blocks",
+      "icon": "sort-desc"
     }
   ],
   "followingCommands": [
