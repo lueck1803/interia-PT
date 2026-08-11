@@ -144,7 +144,8 @@ B3Rnh@Rd
 		- 7c
 		- 7d
 		- 8d
-- , Mero 
+- Dincer, Mero (din)
+	- Klassenleitung 6b
 ## Stundenplan
 
 ## Sitzpläne
