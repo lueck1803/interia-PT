@@ -378,6 +378,26 @@
       "id": "line-arrange:sort-lines",
       "name": "Line Arrange: Sort lines",
       "icon": "arrow-big-down"
+    },
+    {
+      "id": "line-arrange:sort-blocks",
+      "name": "Line Arrange: Sort blocks",
+      "icon": "align-vertical-justify-end"
+    },
+    {
+      "id": "line-arrange:reverse-lines",
+      "name": "Line Arrange: Reverse lines",
+      "icon": "arrow-up"
+    },
+    {
+      "id": "line-arrange:sort-headings",
+      "name": "Line Arrange: Sort headings",
+      "icon": "header-n"
+    },
+    {
+      "id": "line-arrange:reverse-headings",
+      "name": "Line Arrange: Reverse headings",
+      "icon": "arrow-up"
     }
   ],
   "followingCommands": [
