@@ -230,7 +230,7 @@ B3Rnh@Rd
 - Umrechnung von inch in cm nochmal hinschreiben
 - Aufgabe mph in km/h und m/s
 - tisch mit Körperteilen ausmessen und Flächeninhalt berechnen 
-- Flächeninhalt Kreis ⟹ Basteln 
+- Flächeninhalt Kreis ⟹ Basteln  %% fold %%
 
 - ~={RedRed}als erstes=~ $1:0=\frac{1}{0}=?$
 	- $\ne 0$
