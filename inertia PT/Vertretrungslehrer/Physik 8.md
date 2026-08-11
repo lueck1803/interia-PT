@@ -21,10 +21,11 @@
 	1. Was sind die Perseiden? - jährlicher Meteorstrom etwa Mitte August
 	2. Was ist ein Metorstrom? wie kommt der zustande?
 	3. Warum heißen sie so? - sie kommen scheinbar aus dem Sternbild des Perseus![[Images/BAS/Physik/Perseiden.png]]
-	- [ ] installiert am Handy 
+	4. installiert am Handy 
 		- [ ] Skymap - gibts nur für Android
 		- [ ] Star Chart - Android und iOS
-	- [ ] 
+	 5. dann gehen wir raus und ihr versucht mal herauszufinden in welcher Richtung die Perseiden zu finden sein werden?
+	 6. im Süden über den Pleiaden und dem Uranus, links vom saturn 
 - da ich die klasse Dienstag schon in Mathe hatte, brauchen wir ja keine Vorstellungsrunde mehr
 - Auch <font color="#ff69b4">Blitzlichtrunde</font> in Physik machen - Wer war deren Lehrer?
 	- Zettel Rum geben dafür 
