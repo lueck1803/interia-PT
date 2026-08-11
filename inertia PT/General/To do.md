@@ -143,7 +143,7 @@
 - [ ] bauchmuskel
 - [ ] yoga
 - [ ] was macht der shortcut <font color="#b088ff">join lines</font> von *code editor shortcuts*
-- [ ] mero heißt jetzt dincer
+- [x] mero heißt jetzt dincer
 - [ ] 12:15 Treffen der 5er Mittwoch 
 - [ ] standard notification llw Kalender 
 - [ ] Harald Jung wegen saniraum frage
