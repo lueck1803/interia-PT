@@ -262,7 +262,6 @@
 
 - [ ] ce que/ce qui nochmal anschauen 
 
-- [ ] wo ist das Schüler cafe
 
 - [ ] vertretungslehrer aufräumen
 
@@ -270,11 +269,10 @@
 	- [ ] am rechner auch eingerichtet
 	- [ ] mal schauen wie es weiter geht
 
-- [ ] Will ich wirklich Denksport Physik promoten?
 
 
 - [ ] Von papa zeigen lassen wie man schuhe richtig pflegt 
-
+ %% fold %%
 - [ ] Wie funktioniert das mit Tasks  %% fold %%
        Bzw den hash tags
 
@@ -332,18 +330,10 @@
 		- [ ] Melodie 
 		- [ ] Tremolo Picking 
 
-- [ ] zu den Eltern fahren
-	- [ ] Stuhloberteil %% fold %%
-	- [x] Sonnenbrille vom Papa %% fold %%
-	- [x] Apfelschneider
-	- [x] wo ist meine Handyhalterung fürs Rad? Ahl?
-	- [ ] französisch Buch weiter lesen
-	- [x] Muskateller Salbei Samen für Schulgarten  %% fold %%
-	
 
 
 - [x] Laptop mit tb -> dp an Bildschirm 
-      ⤷ funktioniert <font color="#ff1493">wunderbar</font>
+      ⤷ funktioniert <font color="#ff1493">wunderbar</font> %% fold %%
 - [ ] mich um den pc kümmern
 
 
