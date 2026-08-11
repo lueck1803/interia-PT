@@ -105,23 +105,23 @@ B3Rnh@Rd
 #todo
 
 ## Lehrernamen mit Kürzel und Infos
-- Lukas Kohlmeier (koh)
-- lukas melcher (mel)
-	- förderschullehrer, kommt von der erich kästner
-- Ute einike (ein)
-	- Jahrgangsleitung 9/10
-- Katrin Mair (mai)
-	- Jahrgangsleitung 5/6
-- Regina Laumann (lau)
-	- Jahrgangsleitung 7/8
-- oliver middel (mid) 
-	- Klassenleitung 5er 
-- Johannes wolf (wol)
 - anna lauer (lae)
 	- physik, geographie, klassenleitung 6d?, kommt von der erich kästner
 - Jamil Hirsch (hir)
+- Johannes wolf (wol)
+- Katrin Mair (mai)
+	- Jahrgangsleitung 5/6
 - Lisa-Marie Rohr (roh)
 	- Klassenleitung <font color="#8db3e2">8a</font> 
+- Lukas Kohlmeier (koh)
+- lukas melcher (mel)
+	- förderschullehrer, kommt von der erich kästner
+- oliver middel (mid) 
+	- Klassenleitung 5er 
+- Regina Laumann (lau)
+	- Jahrgangsleitung 7/8
+Ute einike (ein)
+	- Jahrgangsleitung 9/10
 - 
 ## Stundenplan
 
