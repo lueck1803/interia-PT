@@ -43,7 +43,7 @@ Addition, Subtraktion, Multiplikation und Division von Brüchen an schreiben
 - [ ] <font color="#ff69b4">362/18=35</font>
 	- [ ] Also hatte ich mit dem Verfahren doch recht! das Ergebnis liegt erstaunlich nahe am richtigen Wert!
 
-# <font color="#b088ff">8b</font> Anita Maria Gernand (ger)
+# <font color="#b088ff">8b</font> Güldener, Nicole Kirsten (gld)
 - [ ] <font color="#ff69b4">mein alter mit deren zahlen nochmal ausrechnen</font>
 - [ ] punkt vor strichrechnung - xenia
 	- [ ] dazu übungen machen

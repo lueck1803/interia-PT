@@ -113,9 +113,10 @@ B3Rnh@Rd
 - Fröhlich, Ina-Maria (frö)
 	- Klassenleitung <font color="#ff1493">8c</font>
 - Gernand, Anita Maria (ger)
-	- ~~Klassenleitung <font color="#b088ff">8b</font>~~
 - Görlich, Julia (gör)
 	- Klassenleitung 8e
+- Güldener, Nicole Kirsten (gld)
+	- Klassenleitung <font color="#b088ff">8b</font>
 - Hirsch, Jamil (hir)
 - Kohlmeier, Lukas (koh)
 - Lang, Sebastian (lan)
