@@ -12,7 +12,12 @@
 		- [ ] 19 Uhr 89%
 	- [ ] kann man durch eine Rettungsdecke die sich anschauen?
 	- [ ] heute auch höhepunkt des jährlichen Perseiden Meteorstroms
-1. zeichnet nach eurer Vorstellung das Sonnensystem auf ein Blatt
+1. zeichnet nach eurer Vorstellung das System aus Sonne, Erde und Mond auf auf ein Blatt
+2. Was ist eine Sonnenfinsternis?
+3. Und wie muss die constellation sein, damit eine Sonnenfinsternis auftritt?
+4. Warum sehen wir so selten eine Sonnenfinsternis?
+5. Warum ist die Sonnenfinsternis nur 89% ? was bedeutet das?
+6. was ist beim Beobachten der Sonnenfinsternis zu beachten?
 	- [ ] installiert am Handy 
 		- [ ] Skymap - gibts nur für Android
 		- [ ] Star Chart - Android und iOS
