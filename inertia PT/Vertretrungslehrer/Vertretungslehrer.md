@@ -102,46 +102,52 @@ B3Rnh@Rd
 - 6. 12:20 - 13:05
 ## Raumplan 
 
-![](Images/BAS/BAS-Raumverteilung-25-26.jpeg)
+#todo
 
-
+## Lehrernamen mit Kürzel und Infos
+- Blaume, Nele Hanne (blm)
+- Einicke, Ute (ein)
+	- Jahrgangsleitung 9/10
+- Fäth, Maria (fät)
+	- Klassenleitung 8d
+- Fröhlich, Ina-Maria (frö)
+	- Klassenleitung <font color="#ff1493">8c</font>
+- Gernand, Anita Maria (ger)
+- Görlich, Julia (gör)
+	- Klassenleitung 8e
+- Güldener, Nicole Kirsten (gld)
+	- Klassenleitung <font color="#b088ff">8b</font>
+- Hirsch, Jamil (hir)
+- Kohlmeier, Lukas (koh)
+- Lang, Sebastian (lan)
+	- Klassenleitung 8f
+- Lauer, Anna (lae)
+	- physik, geographie, klassenleitung 6d?, kommt von der erich kästner
+	- Physik
+		- 8e
+		- 8f
+- Laumann, Regina (lau)
+	- Jahrgangsleitung 7/8
+- Mair, Katrin (mai)
+	- Jahrgangsleitung 5/6
+- Melcher, Lukas (mel)
+	- förderschullehrer, kommt von der erich kästner
+- Middel, Oliver (mid) 
+	- Klassenleitung 5er 
+	- Physik
+		- 7a
+		- 7b
+- Rohr, Lisa-Marie (roh)
+	- Klassenleitung <font color="#8db3e2">8a</font> 
+- Wolf, Johannes (wol)
+	- Physik
+		- 7c
+		- 7d
+		- 8d
 ## Stundenplan
-![](Images/BAS/Pasted%20image%2020260429141731.png)
-![](Images/BAS/Pasted%20image%2020260429141814.png)
-Arbeitsstunden KW 19:
-- 4.5.:
-	- deu 5/6
-- 5.5.:
-	- deu 1/2
-	- span 3/4 7b lea
-	- eth 5/6
-- 6.5: 
-	- kunst 3/4 rot
-	- kunst 5/6 rot
-- 7.5.
-	- deu 5a 2.
-	- deut 5c 4
-	- kunst 5b 5/6
-- 8.5.
-	- deu 1/2 5a
-- 11.5
-	- phy 3./4. 8d
-	- phy 5/6 7c
----
-- KW 19: 
-	- Mo:
-		- vermutlich übernehme ich die 3./4. am Montag 5a
-		- eventuell montag klassenrat 5b
-	- Di: 
-		- 3./4. 5b (R23)
-	- Fr: 
-		- 3./4. 5b
-## Sitzpläne
-### 5a
-![[Images/BAS/Sitzpläne/Sitzplan_5a.jpeg]]
-### 5c
 
-![[Images/BAS/Sitzpläne/Sitzplan_5c.jpg]]
+## Sitzpläne
+
 ## Klassenleiter Stunde
 - Stuhlkreis
 - Probleme besprechen
@@ -169,7 +175,7 @@ Arbeitsstunden KW 19:
 	- versucht Konflikte zu deeskalieren
 	- Unterstützt euch gegenseitig
 	- versucht bei frau Rothemayer etwas kooperativer umzugehen.
-		- sie ist nunmal nicht so flexibel
+		- sie ist nunmal nicht so flexibel %% fold %%
 		- sie hat ihre festgefahrenen Muster ⟹ einfach akzeptieren und mit machen, umso schneller geht es vorbei
 	- Lautstärke in der Klasse
 	- Trinken und Toilettengänge: 
@@ -194,15 +200,15 @@ Arbeitsstunden KW 19:
  %% fold %%
 - massin kam wegen des streiks 40 min zu spät, er musste von Kranichstein laufen 
 - finnlay und glordi haben gefehlt 
-
+ %% fold %%
 ## GL
 - andrej und burak haben mich unterstützt
-
-- Das ist der Sitzplan. 
+ %% fold %%
+- Das ist der Sitzplan.  %% fold %%
   ![[6b-Sitzplan-Verlauf.jpg]] %% fold %%
-
-	Andrej und eine Person saßen auf dem Platz wo laut Sitzplan nur Yazen sitzen sollte.
-
+ %% fold %%
+	Andrej und eine Person saßen auf dem Platz wo laut Sitzplan nur Yazen sitzen sollte. %% fold %%
+ %% fold %%
 	Die habe ich dann auf ihre Plätze versetzt.
 
 	Andrej ist ohne Stuhl zu seinem Platz gegangen.
@@ -1701,7 +1707,7 @@ Ajanza
 
 		- Johannes wolf (wol)
 
-		- anna lauer (lae) 
+		- anna lauer (lae)
 		  - physik, geographie, klassenleitung 6d?, kommt von der erich kästner
 	- 10er 
 		- Jamil Hirsch (hir)
@@ -2465,4 +2471,38 @@ Deshalb ging die Sirene 3 mal!
 # <font color="#8db3e2">Informationen</font>
 ![[../../Pasted image 20260811145825.png]]
 Das ist eine Pausenaufsicht zwischen der 4/5 Stunde auf dem Hofbereich 3.
+
+# Archiv
+## Stundenplan 2026 HJ 2 
+
+![](Images/BAS/Pasted%20image%2020260429141731.png)
+![](Images/BAS/Pasted%20image%2020260429141814.png)
+Arbeitsstunden KW 19:
+- 4.5.:
+	- deu 5/6
+- 5.5.:
+	- deu 1/2
+	- span 3/4 7b lea
+	- eth 5/6
+- 6.5: 
+	- kunst 3/4 rot
+	- kunst 5/6 rot
+- 7.5.
+	- deu 5a 2.
+	- deut 5c 4
+	- kunst 5b 5/6
+- 8.5.
+	- deu 1/2 5a
+- 11.5
+	- phy 3./4. 8d
+	- phy 5/6 7c
+---
+- KW 19: 
+	- Mo:
+		- vermutlich übernehme ich die 3./4. am Montag 5a
+		- eventuell montag klassenrat 5b
+	- Di: 
+		- 3./4. 5b (R23)
+	- Fr: 
+		- 3./4. 5b
 

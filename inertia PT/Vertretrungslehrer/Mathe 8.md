@@ -9,6 +9,16 @@
 	- [ ] koordinatensystem
 - [ ] arbeitsblatt mit
 	- [ ] durchschnittbrechnung
+
+# infos
+## <font color="#8db3e2">8a</font> Lisa-Marie Rohr (roh)
+- fidget toys liegen im Lehrerpult
+- Hamza hat wohl ADHS ⟹ ihm dieses Toy geben oder rausgehen lasse
+## <font color="#b088ff">8b</font> Güldener, Nicole Kirsten (gld)
+- Sofiia wollte wechseln 
+- Ranya ist noch nicht geklärt. 
+
+
 # Wiederholung Bruchrechnung
 
 Was sind die rationalen Zahlen?
@@ -29,14 +39,14 @@ Addition, Subtraktion, Multiplikation und Division von Brüchen an schreiben
 - Ausklammern von gemeinsamen Faktoren
 
 
-# 8a
+# <font color="#8db3e2">8a</font> Lisa-Marie Rohr (roh)
 - [ ] Foto vom Sitzplan 8a Mathe machen
 - [ ] hey ihr habt mich angelogen :P -> ihr wart am Montag nur 18 und nicht 19 Leute:
 - [ ] 632 : 19 =33.26
 - [ ] <font color="#ff69b4">362/18=35</font>
 	- [ ] Also hatte ich mit dem Verfahren doch recht! das Ergebnis liegt erstaunlich nahe am richtigen Wert!
 
-# 8b
+# <font color="#b088ff">8b</font> Güldener, Nicole Kirsten (gld)
 - [ ] <font color="#ff69b4">mein alter mit deren zahlen nochmal ausrechnen</font>
 - [ ] punkt vor strichrechnung - xenia
 	- [ ] dazu übungen machen

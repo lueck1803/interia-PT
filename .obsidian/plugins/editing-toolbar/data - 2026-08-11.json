@@ -1,5 +1,5 @@
 {
-  "lastVersion": "4.0.11",
+  "lastVersion": "4.0.8",
   "aestheticStyle": "default",
   "positionStyle": "top",
   "menuCommands": [
@@ -375,6 +375,11 @@
       "icon": "lucide-paperclip"
     },
     {
+      "id": "line-arrange:sort-blocks",
+      "name": "Line Arrange: Sort blocks",
+      "icon": "align-vertical-justify-end"
+    },
+    {
       "id": "SubmenuCommands-msoq9pmfz",
       "name": "sort",
       "icon": "sort-asc",
@@ -386,29 +391,24 @@
       "icon": "sort-desc"
     },
     {
+      "id": "line-arrange:sort-headings",
+      "name": "Line Arrange: Sort headings",
+      "icon": "header-n"
+    },
+    {
       "id": "line-arrange:reverse-headings",
       "name": "Line Arrange: Reverse headings",
       "icon": "sort-desc"
     },
     {
-      "id": "line-arrange:reverse-blocks",
-      "name": "Line Arrange: Reverse blocks",
-      "icon": "sort-desc"
-    },
-    {
-      "id": "line-arrange:lexisort-blocks",
-      "name": "Line Arrange: Lexisort blocks",
-      "icon": "align-vertical-justify-end"
-    },
-    {
-      "id": "line-arrange:lexisort-lines",
-      "name": "Line Arrange: Lexisort lines",
+      "id": "line-arrange:sort-lines",
+      "name": "Line Arrange: Sort lines",
       "icon": "align-center"
     },
     {
-      "id": "line-arrange:lexisort-headings",
-      "name": "Line Arrange: Lexisort headings",
-      "icon": "header-n"
+      "id": "line-arrange:reverse-blocks",
+      "name": "Line Arrange: Reverse blocks",
+      "icon": "sort-desc"
     }
   ],
   "followingCommands": [
@@ -1093,7 +1093,7 @@
   "cMenuBottomValue": 4.25,
   "cMenuNumRows": 12,
   "cMenuWidth": 0,
-  "cMenuFontColor": "#c4bd97",
+  "cMenuFontColor": "#b088ff",
   "cMenuBackgroundColor": "#d3f8b6",
   "autohide": false,
   "Iscentered": false,
@@ -1222,12 +1222,6 @@
         "prompt": "Based on my selected text {{selection}}, wrap it using an Obsidian Callout block. Requirements:\n1. Choose an appropriate callout type such as note, tip, warning, or danger.\n2. Support nesting and folding when helpful.\n3. Include a title and content.\n4. Allow code blocks or lists when needed.\n\nContent requirement:",
         "icon": "lucide-message-square"
       }
-    ],
-    "frontmatterPrompt": {
-      "mode": "auto",
-      "properties": "title: concise, one-line note title\nsummary: 1-3 sentence note summary\ntags: YAML list of relevant keywords\ncreated: YYYY-MM-DD date when appropriate\ncategory: broad content category",
-      "language": "auto",
-      "prompt": "Generate YAML frontmatter for the current Obsidian note using the requested properties below.\n\nRequested properties:\n{properties}\n\nOutput language for generated values: {language}\n\nRules:\n- Return only one complete YAML frontmatter block wrapped in --- delimiters.\n- Use the target text as the note content.\n- Follow current and sibling-note frontmatter conventions from context when provided.\n- Keep values concise, practical, and useful for filtering or browsing.\n- Do not add explanations or markdown fences outside the YAML block."
-    }
+    ]
   }
 }
