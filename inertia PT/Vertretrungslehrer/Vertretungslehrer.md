@@ -111,7 +111,7 @@ B3Rnh@Rd
 - Fröhlich, Ina-Maria (frö)
 	- Klassenleitung <font color="#ff1493">8c</font>
 - Gernand, Anita Maria (ger)
-	- Klassenleitung <font color="#b088ff">8b</font>
+	- ~~Klassenleitung <font color="#b088ff">8b</font>~~
 - Hirsch, Jamil (hir)
 - Kohlmeier, Lukas (koh)
 - Lauer, Anna (lae)
@@ -127,6 +127,8 @@ B3Rnh@Rd
 - Rohr, Lisa-Marie (roh)
 	- Klassenleitung <font color="#8db3e2">8a</font> 
 - Wolf, Johannes (wol)
+- Görlich, Julia (gör)
+	- Klassenleitung 8e
 ## Stundenplan
 
 ## Sitzpläne
