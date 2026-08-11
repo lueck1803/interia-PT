@@ -2,6 +2,7 @@
 
 # 8b
 - da ich die klasse Dienstag schon in Mathe hatte, brauchen wir ja keine Vorstellungsrunde mehr
+- Auch <font color="#ff69b4">Blitzlichtrunde</font> in Physik machen - Wer war deren Lehrer?
 - Inhaltsliste direkt aufschreiben
 - 
 
