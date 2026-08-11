@@ -139,7 +139,6 @@
 	- [x] P 8c 
 	- [x] M 8a
 	- [ ] M 8b
-- [x] klassenliste 8b anpassen.
 - [ ] sitzplan 8b
 - [ ] Löcher in Olivendose bohren 
 	- [ ] etwas hinein pflanzen 
@@ -160,8 +159,6 @@
 - [ ] Harald Jung wegen saniraum fragen
 - [ ] Stunden plan austauschen 
 - [ ] fidget toys in lisas Klassen raum
-- [x] was war mit dem Raumwechsel? Wo ist BER?
-	- [ ] das ist der schulhof Bereich 3
 - [ ] fraught aus dem Plan werfen
 - [ ] Maulwurf - bass
 	- [ ] gurt anbringen 
@@ -191,8 +188,8 @@
 - [ ] Kette fetten cityrad
 - [ ] mit Frau Mair und Herren Stühlinger sprechen wegen mathe 5.
 	- [ ] tipps holen 
-	- [ ] Unterrichtsstruktur 
-- [ ] Stühlinger 
+	- [ ] Unterrichtsstruktur  %% fold %%
+- [ ] Stühlinger  %% fold %%
 	- [ ] Grundrechenarten massiv wiederholen  %% fold %%
 	- [ ] auf Struktur und formelle Dinge achten %% fold %%
 		- [ ] Ordnung  %% fold %%
