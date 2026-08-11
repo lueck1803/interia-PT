@@ -135,6 +135,7 @@
 - [ ] sitzplan 8b
 - [ ] wie funktioniert das mit #task richtig?
 - [ ] plugin <font color="#b088ff">Linter</font> testen
+- [ ] schul.cloud am mac checken ob ich da eingelogt bin?
 - [x] plugin <font color="#b088ff">line arrange</font> testen
 - plugin <font color="#b088ff">line arrange</font>  installieren
 	- [ ] mac
