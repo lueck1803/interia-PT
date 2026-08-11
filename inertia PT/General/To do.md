@@ -134,7 +134,10 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - [ ] wie funktioniert das mit #task richtig?
 - [ ] plugin <font color="#b088ff">Linter</font> testen
-- [ ] plugin <font color="#b088ff">line arrange</font> testen
+- [x] plugin <font color="#b088ff">line arrange</font> testen
+- plugin <font color="#b088ff">line arrange</font>  installieren
+	- [ ] mac
+	- [ ] handy
 - [ ] edit toolbar updaten, damit man die einträge eventuell wieder sortieren kann
 	- [ ] vorher neu backuppen 
 	- [ ] wie update ich meine änderungen?

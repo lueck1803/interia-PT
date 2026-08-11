@@ -399,6 +399,16 @@
       "id": "line-arrange:lexisort-blocks",
       "name": "Line Arrange: Lexisort blocks",
       "icon": "align-vertical-justify-end"
+    },
+    {
+      "id": "line-arrange:lexisort-lines",
+      "name": "Line Arrange: Lexisort lines",
+      "icon": "align-center"
+    },
+    {
+      "id": "line-arrange:lexisort-headings",
+      "name": "Line Arrange: Lexisort headings",
+      "icon": "header-n"
     }
   ],
   "followingCommands": [
