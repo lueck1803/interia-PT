@@ -7,20 +7,23 @@
 - <font color="#c4bd97">Ranya ist noch nicht geklärt. </font>
 
 ##  2026-08-12
-- Heute ist Sonnenfinsternis
+ 1. Heute ist Sonnenfinsternis
 	- [ ] Wann? 
 		- [ ] 19 Uhr 89%
 	- [ ] kann man durch eine Rettungsdecke die sich anschauen?
-	- [ ] heute auch höhepunkt des jährlichen Perseiden Meteorstroms
-1. zeichnet nach eurer Vorstellung das System aus Sonne, Erde und Mond auf auf ein Blatt
-2. Was ist eine Sonnenfinsternis?
-3. Und wie muss die constellation sein, damit eine Sonnenfinsternis auftritt?
-4. Warum sehen wir so selten eine Sonnenfinsternis?
-5. Warum ist die Sonnenfinsternis nur 89% ? was bedeutet das?
-6. was ist beim Beobachten der Sonnenfinsternis zu beachten?
+	3. zeichnet nach eurer Vorstellung das System aus Sonne, Erde und Mond auf auf ein Blatt
+	4. Was ist eine Sonnenfinsternis?
+	5. Und wie muss die constellation sein, damit eine Sonnenfinsternis auftritt?
+	6. Warum sehen wir so selten eine Sonnenfinsternis?
+	7. Warum ist die Sonnenfinsternis nur 89% ? was bedeutet das?
+	8. was ist beim Beobachten der Sonnenfinsternis zu beachten?
+2. heute auch höhepunkt des jährlichen Perseiden Meteorstroms
+	1. Was sind die Perseiden? - 
+	2. Warum heißen sie so? - sie kommen sein
 	- [ ] installiert am Handy 
 		- [ ] Skymap - gibts nur für Android
 		- [ ] Star Chart - Android und iOS
+	- [ ] 
 - da ich die klasse Dienstag schon in Mathe hatte, brauchen wir ja keine Vorstellungsrunde mehr
 - Auch <font color="#ff69b4">Blitzlichtrunde</font> in Physik machen - Wer war deren Lehrer?
 	- Zettel Rum geben dafür 
