@@ -136,6 +136,9 @@
 - [ ] hellblaue Hose in Wäsche 
 - [x] Balkonpflanzen gießen
 - [ ] fraught aus dem Plan werfen
+- [ ] Maulwurf - bass
+- [ ] Panzerhenker
+- [ ] Gott mit der Kavallerie
 - [ ] device manager bzw. tb karte über terminal suchen  
 	- [ ] gibts ne möglichkeit sie über das terminal oder anderweitig aufzuwecken?
 - [ ] Foto vom Sitzplan 8a Mathe machen
@@ -185,7 +188,7 @@
 	- die läuft etwa ne 1,5 h
 - [ ] tipler srt
 - [ ] Kursplan für 7 Wochen  %% fold %%
-	- [ ] 8 te Klasse Physik 
+	- [ ] 8 te Klasse Physik  %% fold %%
 	- [ ] 8te Klasse Mathe 
 	- [ ] <font color="#ff0000">5te</font> klasse Mathe
 	- [ ] 10te klasse Physik 
