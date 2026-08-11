@@ -184,7 +184,7 @@
 - [x] Spülmaschine ausräumen 
 	- die läuft etwa ne 1,5 h
 - [ ] tipler srt
-- [ ] Kursplan für 7 Wochen 
+- [ ] Kursplan für 7 Wochen  %% fold %%
 	- [ ] 8 te Klasse Physik 
 	- [ ] 8te Klasse Mathe 
 	- [ ] <font color="#ff0000">5te</font> klasse Mathe
