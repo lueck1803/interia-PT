@@ -12,8 +12,10 @@
 		- [ ] 19 Uhr 89%
 	- [ ] kann man durch eine Rettungsdecke die sich anschauen?
 	- [ ] heute auch höhepunkt des jährlichen Perseiden Meteorstroms
+1. zeichnet nach eurer Vorstellung das Sonnensystem auf ein Blatt
 	- [ ] installiert am Handy 
-		- [ ] Skymap 
+		- [ ] Skymap - gibts nur für Android
+		- [ ] Star Chart - Android und iOS
 - da ich die klasse Dienstag schon in Mathe hatte, brauchen wir ja keine Vorstellungsrunde mehr
 - Auch <font color="#ff69b4">Blitzlichtrunde</font> in Physik machen - Wer war deren Lehrer?
 	- Zettel Rum geben dafür 
