@@ -1,6 +1,10 @@
 # <font color="#8db3e2">8a</font> Lisa-Marie Rohr (roh)
 
 # <font color="#b088ff">8b</font> Güldener, Nicole Kirsten (gld)
+- <font color="#c4bd97">Sofiia wollte wechseln </font>
+- <font color="#c4bd97">Ranya ist noch nicht geklärt. </font>
+
+
 - da ich die klasse Dienstag schon in Mathe hatte, brauchen wir ja keine Vorstellungsrunde mehr
 - Auch <font color="#ff69b4">Blitzlichtrunde</font> in Physik machen - Wer war deren Lehrer?
 - Inhaltsliste direkt aufschreiben

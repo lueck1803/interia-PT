@@ -14,6 +14,9 @@
 ## <font color="#8db3e2">8a</font> Lisa-Marie Rohr (roh)
 - fidget toys liegen im Lehrerpult
 - Hamza hat wohl ADHS ⟹ ihm dieses Toy geben oder rausgehen lasse
+## <font color="#b088ff">8b</font> Güldener, Nicole Kirsten (gld)
+- Sofiia wollte wechseln 
+- Ranya ist noch nicht geklärt. 
 
 
 # Wiederholung Bruchrechnung

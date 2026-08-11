@@ -132,6 +132,7 @@
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
+- [ ] klassenliste 8b anpassen.
 - [ ] sitzplan 8b
 - [ ] wie funktioniert das mit #task richtig?
 - [ ] plugin <font color="#b088ff">Linter</font> testen
@@ -166,17 +167,17 @@
 - [ ] wer ist klassenlehrer von der 8b
 - [ ] \# Porto entfernen
 - [x] alte sitzpläne in Vertretungslehrer rausschmeißen
-- [ ] liste mit Lehrernamen anlegen
-	- [ ] nachname zu erst
-	- [ ] mit sort lines sortieren
+- [x] liste mit Lehrernamen anlegen
+	- [x] nachname zu erst
+	- [x] mit sort lines sortieren
 - [x] hellblaue Hose in Wäsche 
 - [ ] Stunden plan austauschen 
-- [ ] klassenliste 8b anpassen.
 - [ ] fidget toys in lisas Klassen raum
 - [ ] Raum Belegung tauschen 
 - [ ] mein unterricht eintrag 8b
-- [ ] was war mit dem Raumwechsel? Wo ist BER?
-- [ ] wo ist das schülercafe?
+- [x] was war mit dem Raumwechsel? Wo ist BER?
+	- [ ] das ist der schulhof Bereich 3
+- [x] wo ist das schülercafe?
 - [x] Balkonpflanzen gießen
 - [ ] fraught aus dem Plan werfen
 - [ ] Maulwurf - bass
