@@ -131,9 +131,15 @@ B3Rnh@Rd
 	- förderschullehrer, kommt von der erich kästner
 - Middel, Oliver (mid) 
 	- Klassenleitung 5er 
+	- Physik
+		- 7a
+		- 7b
 - Rohr, Lisa-Marie (roh)
 	- Klassenleitung <font color="#8db3e2">8a</font> 
 - Wolf, Johannes (wol)
+	- Physik
+		- 7c
+		- 7d
 ## Stundenplan
 
 ## Sitzpläne
