@@ -106,42 +106,9 @@ B3Rnh@Rd
 
 
 ## Stundenplan
-![](Images/BAS/Pasted%20image%2020260429141731.png)
-![](Images/BAS/Pasted%20image%2020260429141814.png)
-Arbeitsstunden KW 19:
-- 4.5.:
-	- deu 5/6
-- 5.5.:
-	- deu 1/2
-	- span 3/4 7b lea
-	- eth 5/6
-- 6.5: 
-	- kunst 3/4 rot
-	- kunst 5/6 rot
-- 7.5.
-	- deu 5a 2.
-	- deut 5c 4
-	- kunst 5b 5/6
-- 8.5.
-	- deu 1/2 5a
-- 11.5
-	- phy 3./4. 8d
-	- phy 5/6 7c
----
-- KW 19: 
-	- Mo:
-		- vermutlich übernehme ich die 3./4. am Montag 5a
-		- eventuell montag klassenrat 5b
-	- Di: 
-		- 3./4. 5b (R23)
-	- Fr: 
-		- 3./4. 5b
-## Sitzpläne
-### 5a
-![[Images/BAS/Sitzpläne/Sitzplan_5a.jpeg]]
-### 5c
 
-![[Images/BAS/Sitzpläne/Sitzplan_5c.jpg]]
+## Sitzpläne
+
 ## Klassenleiter Stunde
 - Stuhlkreis
 - Probleme besprechen
@@ -169,7 +136,7 @@ Arbeitsstunden KW 19:
 	- versucht Konflikte zu deeskalieren
 	- Unterstützt euch gegenseitig
 	- versucht bei frau Rothemayer etwas kooperativer umzugehen.
-		- sie ist nunmal nicht so flexibel
+		- sie ist nunmal nicht so flexibel %% fold %%
 		- sie hat ihre festgefahrenen Muster ⟹ einfach akzeptieren und mit machen, umso schneller geht es vorbei
 	- Lautstärke in der Klasse
 	- Trinken und Toilettengänge: 
@@ -194,14 +161,14 @@ Arbeitsstunden KW 19:
  %% fold %%
 - massin kam wegen des streiks 40 min zu spät, er musste von Kranichstein laufen 
 - finnlay und glordi haben gefehlt 
-
+ %% fold %%
 ## GL
 - andrej und burak haben mich unterstützt
 
 - Das ist der Sitzplan. 
   ![[6b-Sitzplan-Verlauf.jpg]] %% fold %%
-
-	Andrej und eine Person saßen auf dem Platz wo laut Sitzplan nur Yazen sitzen sollte.
+ %% fold %%
+	Andrej und eine Person saßen auf dem Platz wo laut Sitzplan nur Yazen sitzen sollte. %% fold %%
 
 	Die habe ich dann auf ihre Plätze versetzt.
 
@@ -2465,4 +2432,38 @@ Deshalb ging die Sirene 3 mal!
 # <font color="#8db3e2">Informationen</font>
 ![[../../Pasted image 20260811145825.png]]
 Das ist eine Pausenaufsicht zwischen der 4/5 Stunde auf dem Hofbereich 3.
+
+# Archiv
+## Stundenplan 2026 HJ 2 
+
+![](Images/BAS/Pasted%20image%2020260429141731.png)
+![](Images/BAS/Pasted%20image%2020260429141814.png)
+Arbeitsstunden KW 19:
+- 4.5.:
+	- deu 5/6
+- 5.5.:
+	- deu 1/2
+	- span 3/4 7b lea
+	- eth 5/6
+- 6.5: 
+	- kunst 3/4 rot
+	- kunst 5/6 rot
+- 7.5.
+	- deu 5a 2.
+	- deut 5c 4
+	- kunst 5b 5/6
+- 8.5.
+	- deu 1/2 5a
+- 11.5
+	- phy 3./4. 8d
+	- phy 5/6 7c
+---
+- KW 19: 
+	- Mo:
+		- vermutlich übernehme ich die 3./4. am Montag 5a
+		- eventuell montag klassenrat 5b
+	- Di: 
+		- 3./4. 5b (R23)
+	- Fr: 
+		- 3./4. 5b
 

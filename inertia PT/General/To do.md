@@ -139,6 +139,8 @@
 - [ ] Harald Jung wegen saniraum frage
 - [ ] wer ist klassenlehrer von der 8b
 - [ ] \# Porto entfernen
+- [ ] alte sitzpläne in Vertretungslehrer rausschmeißen
+- [ ] liste mit Lehrernamen anlegen
 - [x] hellblaue Hose in Wäsche 
 - [ ] Stunden plan austauschen 
 - [ ] klassenliste 8b anpassen.

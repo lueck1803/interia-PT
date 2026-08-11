@@ -13,7 +13,7 @@
 # infos
 ## <font color="#8db3e2">8a</font> Lisa-Marie Rohr (roh)
 - fidget toys liegen im Lehrerpult
-- Hamza hat wohl ADHS ⟹ ihm dieses Toy
+- Hamza hat wohl ADHS ⟹ ihm dieses Toy geben oder rausgehen lasse
 
 
 # Wiederholung Bruchrechnung
