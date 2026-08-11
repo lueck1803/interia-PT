@@ -337,7 +337,7 @@ $$ Fragen was nicht verstanden wurde
 			- Die gegenüberliegende Hälfe auch aufteilen und auch einschneiden
 			- ⟹ zusammen setzen und Fläche des Rechtecks ausrechnen
 			- ⟹~={LimeGreen}oder=~ den Flächeninhalt eines Dreiecks und dann damit den halben Flächeninhalt des Kreis bestimmen
-		- Wie ~={DeepSkyBlue}lang=~ ist das ~={Gold}Rechteck=~?
+		- Wie ~={DeepSkyBlue}lang=~ ist das ~={Gold}Rechteck=~? %% fold %%
 	  ![[Images/BAS/Mathe/Area_of_a_circle.png]]
 		- meine Messung: 2 * 12 +7,05=
 	- Allgemeine Formel für den Kreis?
