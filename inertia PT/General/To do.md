@@ -142,7 +142,7 @@
 - [x] plugin <font color="#b088ff">line arrange</font> testen
 - plugin <font color="#b088ff">line arrange</font>  installieren
 	- [ ] mac
-	- [ ] handy
+	- [x] handy
 - [ ] edit toolbar updaten, damit man die einträge eventuell wieder sortieren kann
 	- [ ] vorher neu backuppen 
 	- [ ] wie update ich meine änderungen?
