@@ -135,7 +135,8 @@
 - [ ] gelben Sack
 - [x] hellblaue Hose in Wäsche 
 - [ ] Stunden plan austauschen 
-- [ ] klassenliste 8b anpassen
+- [ ] klassenliste 8b anpassen.
+- [ ] fidget toys in lisas Klassen raum
 - [ ] sitzplan 8b
 - [ ] mein unterricht eintrag 8b
 - [ ] was war mit dem Raumwechsel? Wo ist BER?
