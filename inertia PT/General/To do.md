@@ -135,6 +135,10 @@
 - [ ] wie funktioniert das mit #task richtig?
 - [ ] editor plugin für insert above / below
 - [ ] gelben Sack
+- [ ] laufen gehen
+- [ ] krafttraining
+- [ ] bauchmuskel
+- [ ] yoga
 - [ ] mero heißt jetzt dincer
 - [ ] 12:15 Treffen der 5er Mittwoch 
 - [ ] standard notification llw Kalender 
