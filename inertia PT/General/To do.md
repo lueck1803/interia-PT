@@ -138,6 +138,7 @@
 - [ ] edit toolbar updaten, damit man die einträge eventuell wieder sortieren kann
 	- [ ] vorher neu backuppen 
 	- [ ] wie update ich meine änderungen?
+	- [ ] das update hatte den bug nicht behoben
 - [x] editor plugin für insert above / below
 	- [x] noch testen
 		- [ ] funktioniert nicht! 
