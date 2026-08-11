@@ -103,6 +103,20 @@ B3Rnh@Rd
 ## Raumplan 
 
 #todo
+
+## Lehrernamen mit Kürzel und Infos
+- Lukas Kohlmeier (koh)
+- lukas melcher (mel)
+	- förderschullehrer, kommt von der erich kästner
+- Ute einike (ein)
+- oliver middel (mid) 
+	- Klassenleitung 5er 
+- Johannes wolf (wol)
+- anna lauer (lae)
+	- physik, geographie, klassenleitung 6d?, kommt von der erich kästner
+- Jamil Hirsch (hir)
+- Lisa-Marie Rohr (roh)
+	- Klassenleitung <font color="#8db3e2">8a</font> 
 ## Stundenplan
 
 ## Sitzpläne
@@ -163,11 +177,11 @@ B3Rnh@Rd
 ## GL
 - andrej und burak haben mich unterstützt
  %% fold %%
-- Das ist der Sitzplan. 
+- Das ist der Sitzplan.  %% fold %%
   ![[6b-Sitzplan-Verlauf.jpg]] %% fold %%
  %% fold %%
 	Andrej und eine Person saßen auf dem Platz wo laut Sitzplan nur Yazen sitzen sollte. %% fold %%
-
+ %% fold %%
 	Die habe ich dann auf ihre Plätze versetzt.
 
 	Andrej ist ohne Stuhl zu seinem Platz gegangen.
@@ -1666,7 +1680,7 @@ Ajanza
 
 		- Johannes wolf (wol)
 
-		- anna lauer (lae) 
+		- anna lauer (lae)
 		  - physik, geographie, klassenleitung 6d?, kommt von der erich kästner
 	- 10er 
 		- Jamil Hirsch (hir)
