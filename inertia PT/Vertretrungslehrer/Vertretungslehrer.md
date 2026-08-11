@@ -146,9 +146,9 @@ B3Rnh@Rd
 		- 8d
 - Dincer, Mero (din)
 	- Klassenleitung 6b
-## Stundenplan
-![[../../Stundenplan1.png]]
-![[../../Stundenplan2.png]]
+## <font color="#daa520">Stundenplan</font>
+![[Images/BAS/Stundenplan1.png]]
+![[Images/BAS/Stundenplan2.png]]
 ## Sitzpläne
 
 ## Klassenleiter Stunde
