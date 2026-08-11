@@ -20,6 +20,7 @@
 	6. Warum sehen wir so selten eine Sonnenfinsternis?
 	7. Warum ist die Sonnenfinsternis nur 89% ? was bedeutet das?
 	8. was ist beim Beobachten der Sonnenfinsternis zu beachten?
+		1. Indirekt durch Lochkamera
 2. heute auch höhepunkt des jährlichen Perseiden Meteorstroms
 	1. Was sind die Perseiden? - jährlicher Meteorstrom etwa Mitte August
 	2. Was ist ein Metorstrom? wie kommt der zustande?
