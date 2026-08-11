@@ -135,7 +135,8 @@
 - [ ] gelben Sack
 - [x] hellblaue Hose in Wäsche 
 - [ ] Stunden plan austauschen 
-- [ ] 
+- [ ] klassenliste 8b anpassen
+- [ ] sitzplan 8b
 - [x] Balkonpflanzen gießen
 - [ ] fraught aus dem Plan werfen
 - [ ] Maulwurf - bass
