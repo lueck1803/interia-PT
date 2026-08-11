@@ -1,3 +1,14 @@
+# to do
+- [ ] lernkontrolle bzw. wissenstandskontroll erstellen
+	- [ ] bruchrechnung
+	- [ ] punkt vor strich rechnung
+	- [ ] klammern
+	- [ ] prozentrechnung
+	- [ ] dreisatz
+	- [ ] geometrie
+	- [ ] koordinatensystem
+- [ ] arbeitsblatt mit
+	- [ ] durchschnittbrechnung
 # Wiederholung Bruchrechnung
 
 Was sind die rationalen Zahlen?
@@ -26,11 +37,14 @@ Addition, Subtraktion, Multiplikation und Division von Brüchen an schreiben
 	- [ ] Also hatte ich mit dem Verfahren doch recht! das Ergebnis liegt erstaunlich nahe am richtigen Wert!
 
 # 8b
+- [ ] <font color="#ff69b4">mein alter mit deren zahlen nochmal ausrechnen</font>
 - [ ] punkt vor strichrechnung - xenia
 	- [ ] dazu übungen machen
 - [ ] Mittelwert nochmal erklären
 	- [ ] bzw erklären lassen
-	- [ ] warum 
+	- [ ] warum 584/18 und nicht umgekehrt
+	- [ ] aufgaben zum mittelwert
+	- [ ] die leute sollen ganz viel rechnen
 - [ ] generell bruchrechnung ist ein großes defizit
 - [ ] prozentrechnung
 - [ ] vielleicht mal ne kleine lernkontrolle machen was die Leute können
