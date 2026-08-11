@@ -460,7 +460,7 @@ Hallo Lukas!
 
 vielen Dank für die Info. Ich schlage vor, Du sendest es mir per Post zu. Ich habe soeben eine digitale Briefmarke gekauft:
 
-#PORTO 9TENKEY2
+\# PORTO 9TENKEY2
 
 Das ist ein Code für eine Frankierung eines DIN Lang Briefs für bis zu 50g. Sollte der Porto mehr kosten, lass es mich bitte umgehend wissen.
 

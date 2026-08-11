@@ -132,55 +132,36 @@
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
+- [ ] Balkonpflanzen gießen
+- [ ] Kursmappe 
+	- [x] P 8c 
+	- [x] M 8a
+	- [ ] M 8b
 - [x] klassenliste 8b anpassen.
 - [ ] sitzplan 8b
 - [ ] Löcher in Olivendose bohren 
 	- [ ] etwas hinein pflanzen 
 - [ ] wie funktioniert das mit #task richtig?
 - [ ] plugin <font color="#b088ff">Linter</font> testen
-- [ ] schul.cloud am mac checken ob ich da eingelogt bin?
-- [x] plugin <font color="#b088ff">line arrange</font> testen
-- plugin <font color="#b088ff">line arrange</font>  installieren
-	- [x] mac
-	- [x] handy
 - [ ] edit toolbar updaten, damit man die einträge eventuell wieder sortieren kann
 	- [ ] vorher neu backuppen 
 	- [ ] wie update ich meine änderungen?
 	- [ ] das update hatte den bug nicht behoben
 	- [ ] obsidian neustarten am pc
-- [x] editor plugin für insert above / below
-	- [x] noch testen
-		- [ ] funktioniert nicht! 
-		- [ ] ⤷ deinstallieren
-	- [ ] am mac installieren 
-	- [ ] Handy nur start of line ⟹ geht wohl nicht der toolbar hinzufügen 
-- [x] sort lines obsidian
-	- [ ] line arrange funktioniert ganz gut
 - [ ] gelben Sack
 - [ ] laufen gehen
 - [ ] krafttraining
 - [ ] bauchmuskel
 - [ ] yoga
-- [ ] was macht der shortcut <font color="#b088ff">join lines</font> von *code editor shortcuts*
-- [x] mero heißt jetzt dincer
 - [ ] 12:15 Treffen der 5er Mittwoch 
 - [ ] standard notification llw Kalender 
-- [ ] Harald Jung wegen saniraum frage
+- [ ] Harald Jung wegen saniraum fragen
 - [ ] wer ist klassenlehrer von der 8b
-- [ ] \# Porto entfernen
-- [x] alte sitzpläne in Vertretungslehrer rausschmeißen
-- [x] liste mit Lehrernamen anlegen
-	- [x] nachname zu erst
-	- [x] mit sort lines sortieren
-- [x] hellblaue Hose in Wäsche 
+- [x] \# Porto entfernen
 - [ ] Stunden plan austauschen 
 - [ ] fidget toys in lisas Klassen raum
-- [ ] Raum Belegung tauschen 
-- [ ] mein unterricht eintrag 8b
 - [x] was war mit dem Raumwechsel? Wo ist BER?
 	- [ ] das ist der schulhof Bereich 3
-- [x] wo ist das schülercafe?
-- [x] Balkonpflanzen gießen
 - [ ] fraught aus dem Plan werfen
 - [ ] Maulwurf - bass
 	- [ ] gurt anbringen 
@@ -205,13 +186,6 @@
 	- [ ] prozent
 	- [ ] Dazu aufgaben aus dem Buch oder selbst welche finden und ausdenken
 
-- [ ] Kursmappe 
-	- [x] P 8c 
-	- [x] M 8a
-- [ ] aldi
-	- [ ] eis
-	- [ ] toast
-	- [ ] Bier
 - [ ] warum schaltet sich immer die neu installierten plugins aus
 - [ ] Duolingo
 - [ ] Kette fetten cityrad
@@ -220,13 +194,13 @@
 	- [ ] Unterrichtsstruktur 
 - [ ] Stühlinger 
 	- [ ] Grundrechenarten massiv wiederholen 
-	- [ ] auf Struktur und formelle Dinge achten
-		- [ ] Ordnung 
-		- [ ] Ergebnis unterstreichen 
-		- [ ] klarer rechenweg - punktabzug Klausur - Abschlussarbeit 10te
-- [ ] 5. Mathe Plan 
-	- [ ] zu Beginn der Stunde 10 min Kopfrechnen 
-- [ ] Was bedeuten die 8.1,8.2, ... , 8.5 in den Lehrplänen?
+	- [ ] auf Struktur und formelle Dinge achten %% fold %%
+		- [ ] Ordnung  %% fold %%
+		- [ ] Ergebnis unterstreichen  %% fold %%
+		- [ ] klarer rechenweg - punktabzug Klausur - Abschlussarbeit 10te %% fold %%
+- [ ] 5. Mathe Plan  %% fold %%
+	- [ ] zu Beginn der Stunde 10 min Kopfrechnen  %% fold %%
+- [ ] Was bedeuten die 8.1,8.2, ... , 8.5 in den Lehrplänen? %% fold %%
 - [ ] neuen Stunden Plan in Kalender eintragen  %% fold %%
 - [x] Schulgarten checken/gießen %% fold %%
 - [ ] Krafttraining %% fold %%
