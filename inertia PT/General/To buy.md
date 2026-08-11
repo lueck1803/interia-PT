@@ -4,10 +4,10 @@
 # Aldi
 ## Jetzt
 - Einkaufswagen 
-- [ ] Saft
-- [ ] Toast
-- [ ] Leinsamen
-- [ ] Bier
+- [x] Saft
+- [x] Toast
+- [x] Leinsamen
+- [x] Bier
 ## Speicher/Sonst 
 - [x] Pfand 
 - [x] salz
