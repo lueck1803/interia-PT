@@ -7,6 +7,9 @@
 - <font color="#c4bd97">Ranya ist noch nicht geklärt. </font>
 
 ##  2026-08-12
+- da ich die klasse Dienstag schon in Mathe hatte, brauchen wir ja keine Vorstellungsrunde mehr
+- Auch <font color="#ff69b4">Blitzlichtrunde</font> in Physik machen - Wer war deren Lehrer?
+
  1. Heute ist Sonnenfinsternis
 	- [ ] Wann? 
 		- [ ] 19 Uhr 89%
@@ -36,11 +39,8 @@
 		 2. Mirfak liegt zentral und ist gut zu erkennen
 		 3. auch algol rechts unten davon
 		 4. ganz rechts erkennt man sheat - roter heller stern etwas links davon mirach
-- da ich die klasse Dienstag schon in Mathe hatte, brauchen wir ja keine Vorstellungsrunde mehr
-- Auch <font color="#ff69b4">Blitzlichtrunde</font> in Physik machen - Wer war deren Lehrer?
-	- Zettel Rum geben dafür 
+
 - Inhaltsliste direkt aufschreiben
-- 
 
 # <font color="#ff1493">8c</font> Fröhlich, Ina-Maria (frö)
 - Rayan Abuhamed: 
@@ -96,10 +96,8 @@
 		- [ ] Kennt ihr den Satz des Pythagoras?
 		- [ ] Durchschnittsgeschwindigkeit - so kenn man sie im Alltag
 
-# 10a
 
-# 10b
-# Inhalt
+# 8te Klassen Inhalt
 - Basiswissen aufbauen:
 	- Was ist das Denkprinzip der Naturwissenschaften und insbesondere der Physik?
 		- Physikalische Begriffsbildung gegenüber Alltagsvorstellungen
@@ -220,3 +218,9 @@ $$
 \vec{F}_{A}^{(B)} = - \vec{F}_{B}^{(A)}
 $$
 Wenn zwei Körper miteinander wechselwirken, ist die Kraft $\vec{F}_{A}^{(B)}$, die der Körper B auf den Körper A ausübt, gleich groß, aber entgegengesetzt gerichtet der Kraft $\vec{F}_{B}^{(A)}$, die der Körper A auf den Körper B ausübt. Somit gilt:
+
+
+
+# 10a
+
+# 10b
