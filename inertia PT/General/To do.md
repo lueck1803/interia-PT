@@ -134,6 +134,8 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - [x] klassenliste 8b anpassen.
 - [ ] sitzplan 8b
+- [ ] Löcher in Olivendose bohren 
+	- [ ] etwas hinein pflanzen 
 - [ ] wie funktioniert das mit #task richtig?
 - [ ] plugin <font color="#b088ff">Linter</font> testen
 - [ ] schul.cloud am mac checken ob ich da eingelogt bin?
