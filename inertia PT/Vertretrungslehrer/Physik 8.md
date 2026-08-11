@@ -218,8 +218,9 @@ $$
    Wenn zwei Körper miteinander wechselwirken, ist die Kraft $\vec{F}_{A}^{(B)}$, die der Körper B auf den Körper A ausübt, gleich groß, aber entgegengesetzt gerichtet der Kraft $\vec{F}_{B}^{(A)}$, die der Körper A auf den Körper B ausübt. Somit gilt:   $$
 \vec{F}_{A}^{(B)} = - \vec{F}_{B}^{(A)}
 $$
+*Aktions-Reaktions-Paare sind immer betragsmäßig gleich und entgegengesetzt gerichtet. Zwei äußere Kräfte, die auf denselben Körper wirken, können nie ein Aktions-Reaktions-Paar bilden.*
 
-Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte ![{\displaystyle {\vec {F}}_{A\to B}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/5e981219e12fec210954cab7066083aa6b1491d6) und ![{\displaystyle {\vec {F}}_{B\to A}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/a8477e8070a6ea91e838fa76a356688847a551c8) nicht auf denselben, sondern auf _verschiedene_ Körper. Sie heben sich also nicht gegenseitig auf.
+Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to B}$ und $\vec {F}_{B\to A}$ nicht auf denselben, sondern auf _verschiedene_ Körper. Sie heben sich also nicht gegenseitig auf.
 
 # 10a
 
