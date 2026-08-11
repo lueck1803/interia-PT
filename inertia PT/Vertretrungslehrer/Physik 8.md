@@ -39,16 +39,18 @@
 	2. Was ist ein Metorstrom? wie kommt der zustande?
 	   Neben einzeln auftretenden (sporadischen) Meteoren gibt es Meteorströme (auch Meteorschauer oder Sternschnuppenschwarm, fälschlicherweise oft auch Meteoritenschauer). Sie sind eine Häufung von Sternschnuppen zu gewissen Jahreszeiten und entstammen großteils den <font color="#ffd700">Staubteilchen von aufgelösten Kometen.</font>
 	   Sternschnuppen- oder Meteorströme können entstehen, wenn die <font color="#ffd700">Erde </font>auf dem Lauf um die Sonne <font color="#ffd700">in die Nähe einer Kometenbahn gelangt</font> oder sie annähernd kreuzt. 
-	   Die Perseiden bestehen aus den <font color="#ffd700">Auflösungsprodukten des Kometen 109P/Swift-Tuttle.</font> Die Erde kreuzt auf ihrer Bahn immer um den 12. August die Staubspur, die dieser Komet im All hinterlassen hat. Die S<font color="#c3d69b">taubteilchen treffen dabei mit hoher Geschwindigkeit auf die Atmosphäre und bringen die Luftmoleküle zum Leuchten.</font> Die Sternschnuppe ist daher nicht das verglühende Staubkorn selbst, sondern wird durch das Rekombinationsleuchten der ionisierten Luft sichtbar.
-	3. Warum heißen sie so? - sie kommen scheinbar aus dem Sternbild des Perseus![[Images/BAS/Physik/Perseiden.png]]
-	4. installiert am Handy 
+	   Die Perseiden bestehen aus den <font color="#ffd700">Auflösungsprodukten des Kometen 109P/Swift-Tuttle.</font> 
+	   <font color="#ff1493">⟹ Gerne auch mal in Sky Chart suchen</font>
+	   Die Erde kreuzt auf ihrer Bahn immer um den 12. August die Staubspur, die dieser Komet im All hinterlassen hat. Die S<font color="#c3d69b">taubteilchen treffen dabei mit hoher Geschwindigkeit auf die Atmosphäre und bringen die Luftmoleküle zum Leuchten.</font> Die Sternschnuppe ist daher nicht das verglühende Staubkorn selbst, sondern wird durch das Rekombinationsleuchten der ionisierten Luft sichtbar.
+	1. Warum heißen sie so? - sie kommen scheinbar aus dem Sternbild des Perseus![[Images/BAS/Physik/Perseiden.png]]
+	2. installiert am Handy 
 		- [ ] Skymap - gibts nur für Android
 		- [ ] Star Chart - Android und iOS
-	 5. dann gehen wir raus und ihr versucht mal herauszufinden in welcher Richtung die Perseiden zu finden sein werden?
+	 3. dann gehen wir raus und ihr versucht mal herauszufinden in welcher Richtung die Perseiden zu finden sein werden?
 	    ![[../../Pasted image 20260811225405.png]]
-	 6. im Süden über den Pleiaden, links vom saturn und rechts oberhalb vom mars und beitgeuze
-	 7. Rot gestrichelte LineDie Ekliptik ist die scheinbare Bahn der Sonne am Fixsternhimmel, wie sie von der Erde aus im Laufe eines Jahres gesehen wird.
-	 8. Perseus erkennt man recht gut
+	 4. im Süden über den Pleiaden, links vom saturn und rechts oberhalb vom mars und beitgeuze
+	 5. Rot gestrichelte LineDie Ekliptik ist die scheinbare Bahn der Sonne am Fixsternhimmel, wie sie von der Erde aus im Laufe eines Jahres gesehen wird.
+	 6. Perseus erkennt man recht gut
 		 1. ist unterhalb vom Polarstern 
 		 2. Mirfak liegt zentral und ist gut zu erkennen
 		 3. auch algol rechts unten davon
