@@ -20,7 +20,8 @@
 	6. Warum sehen wir so selten eine Sonnenfinsternis?
 	7. Warum ist die Sonnenfinsternis nur 89% ? was bedeutet das?
 	8. was ist beim Beobachten der Sonnenfinsternis zu beachten?
-		1. Indirekt durch Lochkamera
+		1. 
+		2. Indirekt durch Lochkamera
 2. heute auch höhepunkt des jährlichen Perseiden Meteorstroms
 	1. Was sind die Perseiden? - jährlicher Meteorstrom etwa Mitte August
 	2. Was ist ein Metorstrom? wie kommt der zustande?
@@ -40,6 +41,7 @@
 		 2. Mirfak liegt zentral und ist gut zu erkennen
 		 3. auch algol rechts unten davon
 		 4. ganz rechts erkennt man sheat - roter heller stern etwas links davon mirach
+
 
 - Inhaltsliste direkt aufschreiben
 
