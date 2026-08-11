@@ -93,7 +93,7 @@ Vorwahl zum raus telefonieren: 01
  AdE1Ung!
 ### Lehrer:
 B3Rnh@Rd
-## Zeiten
+## <font color="#ff6e6e">Zeiten</font>
 - 1. 7:55 - 8:40
 - 2. 8:40 - 9:25
 - 3. 9:45 - 10:30
