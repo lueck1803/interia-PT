@@ -26,6 +26,9 @@
 		- [ ] Star Chart - Android und iOS
 	 5. dann gehen wir raus und ihr versucht mal herauszufinden in welcher Richtung die Perseiden zu finden sein werden?
 	 6. im Süden über den Pleiaden, links vom saturn und rechts oberhalb vom mars und beitgeuze
+	 7. Perseus erkennt man recht gut
+		 1. ist unterhalb vom Polarstern 
+		 2. ganz rechts erkennt man sheat - roter heller stern etwas links davon mirach
 - da ich die klasse Dienstag schon in Mathe hatte, brauchen wir ja keine Vorstellungsrunde mehr
 - Auch <font color="#ff69b4">Blitzlichtrunde</font> in Physik machen - Wer war deren Lehrer?
 	- Zettel Rum geben dafür 
