@@ -18,12 +18,16 @@
 	4. Was ist eine Sonnenfinsternis?
 	5. Und wie muss die constellation sein, damit eine Sonnenfinsternis auftritt?
 	6. Warum sehen wir so selten eine Sonnenfinsternis?
+		1. Der Schatten den Monds auf der Erde ist sehr klein und deckt beim überstreifen der Erde nur einen schmalen Streifen ab.
+		   ![[../../Pasted image 20260812003511.png]]
+		2. Neigung der Erde
 	7. Warum ist die Sonnenfinsternis nur 89% ? was bedeutet das?
 	8. was ist beim Beobachten der Sonnenfinsternis zu beachten?
 		1. mit einer extra geprüften Brille
 		2. Indirekt durch Lochkamera - <font color="#ff1493">sicherster Weg</font>
 			1. Wir basteln eine einfache Lochkamera 
 			   https://www.jpl.nasa.gov/edu/resources/project/how-to-make-a-pinhole-camera/
+				- und das Gegenteil einer Lochkamera
 			2. komplexere mit einer Chipsdose:
 			   https://www.bfs.de/DE/themen/opt/uv/schutz/sonnenfinsternis/sonnenfinsternis.html#:~:text=Eine%20Sonnenfinsternis%20zu%20beobachten%2C%20ist,ist%20es%20wieder%20so%20weit.
 		3. Lochkamera draußen und hier drinnen ausprobieren
