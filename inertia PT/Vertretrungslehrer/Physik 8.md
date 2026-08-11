@@ -1,6 +1,9 @@
 # 8a
 
 # 8b
+- da ich die klasse Dienstag schon in Mathe hatte, brauchen wir ja keine Vorstellungsrunde mehr
+- Inhaltsliste direkt aufschreiben
+- 
 
 # 8c 
 - Rayan Abuhamed: 
