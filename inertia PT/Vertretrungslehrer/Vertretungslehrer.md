@@ -1,5 +1,7 @@
 
 # To-Do 
+- [ ] 
+## alt
 - [ ] Versmaß verstehen (Videos auf yt)
 	- [ ] jambus
 	- [ ] trochäus 
@@ -259,7 +261,7 @@ Arbeitsstunden KW 19:
 			- legt eine Schnur drum und misst sie aus
 		-  $\pi=\frac{U}{d}=\frac{U}{2r}$
 	- Fläche? %% fold %%
-		- quadrat und darin Kreis zeichnen 
+		- quadrat und darin Kreis zeichnen  %% fold %%
 		- ![[../Vertretrungslehrer/Images/BAS/Mathe/01_Pi-Definition_mittels_Flächeninhalt.svg.png]]
 		- $\frac{A_{\text{Quadrat}}}{A_{\text{Kreis}}}=\frac{(2r)^{2}}{A_{\text{Kreis}}}=\frac{(2r)^{2}}{k \cdot r^2}=\frac{4 \cancel{r^2}}{k \cdot \cancel{r^2}}=\frac{4}{k}$ und $k$ nennen wir in Folge $\pi$
 		  - ![[Images/BAS/Mathe/Area_of_a_circle.png]]
@@ -2460,4 +2462,7 @@ Deshalb ging die Sirene 3 mal!
 	- bei ihm liegt es schon stark am Umfeld, ich sehe bei ihm schon die Bestrebungen, dass er das eigentlich nicht möchte, aber er lässt sich hineinziehen, bricht selbst aber nicht aus diesem Kreislauf heraus 
 - wissam mutter 017632050239
 
+# <font color="#8db3e2">Informationen</font>
+![[../../Pasted image 20260811145825.png]]
+Das ist eine Pausenaufsicht zwischen der 4/5 Stunde auf dem Hofbereich 3.
 
