@@ -373,6 +373,11 @@
       "id": "editing-toolbar:editor:attach-file",
       "name": "Attach File",
       "icon": "lucide-paperclip"
+    },
+    {
+      "id": "line-arrange:sort-lines",
+      "name": "Line Arrange: Sort lines",
+      "icon": "arrow-big-down"
     }
   ],
   "followingCommands": [
