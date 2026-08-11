@@ -109,6 +109,11 @@ B3Rnh@Rd
 - lukas melcher (mel)
 	- förderschullehrer, kommt von der erich kästner
 - Ute einike (ein)
+	- Jahrgangsleitung 9/10
+- Katrin Mair (mai)
+	- Jahrgangsleitung 5/6
+- Regina Laumann (lau)
+	- Jahrgangsleitung 7/8
 - oliver middel (mid) 
 	- Klassenleitung 5er 
 - Johannes wolf (wol)
