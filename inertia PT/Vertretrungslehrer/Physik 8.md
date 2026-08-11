@@ -18,8 +18,9 @@
 	7. Warum ist die Sonnenfinsternis nur 89% ? was bedeutet das?
 	8. was ist beim Beobachten der Sonnenfinsternis zu beachten?
 2. heute auch höhepunkt des jährlichen Perseiden Meteorstroms
-	1. Was sind die Perseiden? - 
-	2. Warum heißen sie so? - sie kommen sein
+	1. Was sind die Perseiden? - jährlicher Meteorstrom etwa Mitte August
+	2. Was ist ein Metorstrom? wie kommt der zustande?
+	3. Warum heißen sie so? - sie kommen scheinbar aus dem Sternbild des Perseus![[Images/BAS/Physik/Perseiden.png]]
 	- [ ] installiert am Handy 
 		- [ ] Skymap - gibts nur für Android
 		- [ ] Star Chart - Android und iOS
