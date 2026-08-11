@@ -137,7 +137,7 @@
 - [ ] Kursmappe 
 	- [x] P 8c 
 	- [x] M 8a
-	- [ ] M 8b
+	- [x] M 8b
 - [ ] sitzplan 8b
 - [ ] Arbeitsblatt mit Radtour erstellen
 - [ ] Zähne putzen
