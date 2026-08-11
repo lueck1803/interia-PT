@@ -105,9 +105,13 @@ B3Rnh@Rd
 #todo
 
 ## Lehrernamen mit Kürzel und Infos
-- Einike, Ute (ein)
+- Blaume, Nele Hanne (blm)
+- Einicke, Ute (ein)
 	- Jahrgangsleitung 9/10
+- Fröhlich, Ina-Maria (frö)
+	- Klassenleitung <font color="#ff1493">8c</font>
 - Gernand, Anita Maria (ger)
+	- Klassenleitung <font color="#b088ff">8b</font>
 - Hirsch, Jamil (hir)
 - Kohlmeier, Lukas (koh)
 - Lauer, Anna (lae)
@@ -123,7 +127,6 @@ B3Rnh@Rd
 - Rohr, Lisa-Marie (roh)
 	- Klassenleitung <font color="#8db3e2">8a</font> 
 - Wolf, Johannes (wol)
-- Fröhlich, Ina_
 ## Stundenplan
 
 ## Sitzpläne
