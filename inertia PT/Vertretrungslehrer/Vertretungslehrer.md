@@ -107,6 +107,7 @@ B3Rnh@Rd
 ## Lehrernamen mit Kürzel und Infos
 - Einike, Ute (ein)
 	- Jahrgangsleitung 9/10
+- Gernand, Anita Maria (ger)
 - Hirsch, Jamil (hir)
 - Kohlmeier, Lukas (koh)
 - Lauer, Anna (lae)
@@ -122,7 +123,7 @@ B3Rnh@Rd
 - Rohr, Lisa-Marie (roh)
 	- Klassenleitung <font color="#8db3e2">8a</font> 
 - Wolf, Johannes (wol)
-- 
+- Fröhlich, Ina_
 ## Stundenplan
 
 ## Sitzpläne
