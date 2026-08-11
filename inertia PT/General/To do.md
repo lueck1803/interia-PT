@@ -276,7 +276,7 @@
 
 - [ ] Von papa zeigen lassen wie man schuhe richtig pflegt 
 
-- [ ] Wie funktioniert das mit Tasks 
+- [ ] Wie funktioniert das mit Tasks  %% fold %%
        Bzw den hash tags
 
 - [ ] Ich behalte alles Zeug ⟹ Kosten zusammen rechnen 
