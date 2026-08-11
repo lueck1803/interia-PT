@@ -20,8 +20,13 @@
 	6. Warum sehen wir so selten eine Sonnenfinsternis?
 	7. Warum ist die Sonnenfinsternis nur 89% ? was bedeutet das?
 	8. was ist beim Beobachten der Sonnenfinsternis zu beachten?
-		1. 
-		2. Indirekt durch Lochkamera
+		1. mit einer extra geprüften Brille
+		2. Indirekt durch Lochkamera - <font color="#ff1493">sicherster Weg</font>
+			1. Wir basteln eine einfache Lochkamera 
+			   https://www.jpl.nasa.gov/edu/resources/project/how-to-make-a-pinhole-camera/
+			2. komplexere mit einer Chipsdose:
+			   https://www.bfs.de/DE/themen/opt/uv/schutz/sonnenfinsternis/sonnenfinsternis.html#:~:text=Eine%20Sonnenfinsternis%20zu%20beobachten%2C%20ist,ist%20es%20wieder%20so%20weit.
+		3. Lochkamera draußen und hier drinnen ausprobieren
 2. heute auch höhepunkt des jährlichen Perseiden Meteorstroms
 	1. Was sind die Perseiden? - jährlicher Meteorstrom etwa Mitte August
 	2. Was ist ein Metorstrom? wie kommt der zustande?
