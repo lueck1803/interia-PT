@@ -133,12 +133,13 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - [x] Balkonpflanzen gießen
+- [ ] <font color="#daa520">Nachname von Saif </font>
 - [ ] Wie reinigt man eine Wunde?
 - [ ] Kursmappe 
 	- [x] P 8c 
 	- [x] M 8a
 	- [x] M 8b
-- [ ] sitzplan 8b
+- [x] sitzplan 8b
 - [ ] Arbeitsblatt mit Radtour erstellen
 - [ ] Zähne putzen
 - [ ] Gesicht waschen
