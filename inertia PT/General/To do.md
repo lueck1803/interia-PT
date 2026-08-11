@@ -132,6 +132,7 @@
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
+- [ ] sitzplan 8b
 - [ ] wie funktioniert das mit #task richtig?
 - [ ] plugin <font color="#b088ff">Linter</font> testen
 - [x] plugin <font color="#b088ff">line arrange</font> testen
@@ -172,7 +173,6 @@
 - [ ] klassenliste 8b anpassen.
 - [ ] fidget toys in lisas Klassen raum
 - [ ] Raum Belegung tauschen 
-- [ ] sitzplan 8b
 - [ ] mein unterricht eintrag 8b
 - [ ] was war mit dem Raumwechsel? Wo ist BER?
 - [ ] wo ist das schülercafe?
