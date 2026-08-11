@@ -26,7 +26,8 @@
 		- [ ] Star Chart - Android und iOS
 	 5. dann gehen wir raus und ihr versucht mal herauszufinden in welcher Richtung die Perseiden zu finden sein werden?
 	 6. im Süden über den Pleiaden, links vom saturn und rechts oberhalb vom mars und beitgeuze
-	 7. Perseus erkennt man recht gut
+	 7. Rot gestrichelte LineDie Ekliptik ist die scheinbare Bahn der Sonne am Fixsternhimmel, wie sie von der Erde aus im Laufe eines Jahres gesehen wird.
+	 8. Perseus erkennt man recht gut
 		 1. ist unterhalb vom Polarstern 
 		 2. Mirfak liegt zentral und ist gut zu erkennen
 		 3. auch algol rechts unten davon
