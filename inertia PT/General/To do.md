@@ -135,6 +135,7 @@
 - [ ] gelben Sack
 - [ ] mero heißt jetzt dincer
 - [ ] 12:15 Treffen der 5er Mittwoch 
+- [ ] standard notification llw Kalender 
 - [ ] Harald Jung wegen saniraum frage
 - [x] hellblaue Hose in Wäsche 
 - [ ] Stunden plan austauschen 
