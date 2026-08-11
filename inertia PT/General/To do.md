@@ -134,6 +134,10 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - [ ] Balkonpflanzen gießen
 - [ ] Wie reinigt man eine Wunde?
+- [ ] Sonnenfinsternis 
+	- [ ] Wann? 
+		- [ ] 19 Uhr 8%
+	- [ ] kann man durch eine Rettungsdecke die sich anschauen?
 - [ ] Bettwäsche wechseln 
 - [ ] Minitafel für Klo Liste 
 - [ ] Kursmappe 
