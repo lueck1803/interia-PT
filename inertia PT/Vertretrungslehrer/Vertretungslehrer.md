@@ -102,7 +102,7 @@ B3Rnh@Rd
 - 6. 12:20 - 13:05
 ## Raumplan 
 
-#todo
+![[../../Pasted image 20260812011742.png]]
 
 ## Lehrernamen mit Kürzel und Infos
 - Blaume, Nele Hanne (blm)
@@ -201,7 +201,7 @@ B3Rnh@Rd
 - ⤷ gilt insbesondere auch für meine Aussagen und Erklärungen beispielsweise ~={RedRed}Opfer Aussage bzgl Sara=~ (~={DeepSkyBlue}Sara vorher fragen, ob ich das ansprechen darf=~)
  %% fold %%
 - massin kam wegen des streiks 40 min zu spät, er musste von Kranichstein laufen 
-- finnlay und glordi haben gefehlt 
+- finnlay und glordi haben gefehlt  %% fold %%
  %% fold %%
 ## GL
 - andrej und burak haben mich unterstützt
