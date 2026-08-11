@@ -17,9 +17,12 @@
 	3. zeichnet nach eurer Vorstellung das System aus Sonne, Erde und Mond auf auf ein Blatt
 	4. Was ist eine Sonnenfinsternis?
 	5. Und wie muss die constellation sein, damit eine Sonnenfinsternis auftritt?
+		1. Neumond
+		2. Da die Mondbahn gegen die Ekliptikebene geneigt ist (um etwa 5°), tritt dies nicht jedes Mal zu Neumond ein, sondern nur, wenn der Mond sich dann auch nahe einem der zwei Schnittpunkte von Mondbahn und Ekliptikebene befindet. 
+		   <font color="#ff1493">⟹ Mondbahn vs Ekliptik auf Starchart anschauen</font>
 	6. Warum sehen wir so selten eine Sonnenfinsternis?
-		1. Der Schatten den Monds auf der Erde ist sehr klein und deckt beim überstreifen der Erde nur einen schmalen Streifen ab.
-		   ![[../../Pasted image 20260812003511.png]]
+		1. Der Kernschatten den Monds auf der Erde ist sehr klein und deckt beim überstreifen der Erde nur einen schmalen Streifen ab.
+		   ![[Images/BAS/Physik/Schatten des Monds - Sonnenfinsternis.png]]
 		2. Neigung der Erde
 	7. Warum ist die Sonnenfinsternis nur 89% ? was bedeutet das?
 	8. was ist beim Beobachten der Sonnenfinsternis zu beachten?
