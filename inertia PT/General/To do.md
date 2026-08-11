@@ -142,13 +142,15 @@
 	- [ ] vorher neu backuppen 
 	- [ ] wie update ich meine änderungen?
 	- [ ] das update hatte den bug nicht behoben
+	- [ ] obsidian neustarten am pc
 - [x] editor plugin für insert above / below
 	- [x] noch testen
 		- [ ] funktioniert nicht! 
 		- [ ] ⤷ deinstallieren
 	- [ ] am mac installieren 
 	- [ ] Handy nur start of line ⟹ geht wohl nicht der toolbar hinzufügen 
-- [ ] sort lines obsidian
+- [x] sort lines obsidian
+	- [ ] line arrange funktioniert ganz gut
 - [ ] gelben Sack
 - [ ] laufen gehen
 - [ ] krafttraining
