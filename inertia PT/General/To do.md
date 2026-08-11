@@ -137,7 +137,8 @@
 - [x] Balkonpflanzen gießen
 - [ ] fraught aus dem Plan werfen
 - [ ] Maulwurf - bass
-	- [ ] 
+	- [ ] gurt anbringen 
+	- [ ] schön langsam Feeling üben 
 - [ ] Panzerhenker
 	- [ ] ich hab's grob schon drauf
 	- [ ] tremolo picking ganz langsam sauber üben - 50 %
