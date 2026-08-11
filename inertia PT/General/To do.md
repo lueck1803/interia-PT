@@ -137,11 +137,12 @@
 - [x] Balkonpflanzen gießen
 - [ ] fraught aus dem Plan werfen
 - [ ] Maulwurf - bass
+	- [ ] 
 - [ ] Panzerhenker
 	- [ ] ich hab's grob schon drauf
-	- [ ] tremolo picking ganz langsam sauber üben 
+	- [ ] tremolo picking ganz langsam sauber üben - 50 %
 	- [ ] beim rhythmischen Teil nicht zu sehr rein hauen und weniger Emotion, ganz nüchtern und präzise spielen so dass auch die pinches sitzen - 80%
-	- [ ] den ruhigen part richtig üben
+	- [ ] den ruhigen part richtig üben - 50%
 - [ ] Gott mit der Kavallerie
 - [ ] device manager bzw. tb karte über terminal suchen  
 	- [ ] gibts ne möglichkeit sie über das terminal oder anderweitig aufzuwecken?
