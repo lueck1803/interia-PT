@@ -123,6 +123,9 @@ B3Rnh@Rd
 	- Klassenleitung 8f
 - Lauer, Anna (lae)
 	- physik, geographie, klassenleitung 6d?, kommt von der erich kästner
+	- Physik
+		- 8e
+		- 8f
 - Laumann, Regina (lau)
 	- Jahrgangsleitung 7/8
 - Mair, Katrin (mai)
@@ -131,9 +134,16 @@ B3Rnh@Rd
 	- förderschullehrer, kommt von der erich kästner
 - Middel, Oliver (mid) 
 	- Klassenleitung 5er 
+	- Physik
+		- 7a
+		- 7b
 - Rohr, Lisa-Marie (roh)
 	- Klassenleitung <font color="#8db3e2">8a</font> 
 - Wolf, Johannes (wol)
+	- Physik
+		- 7c
+		- 7d
+		- 8d
 ## Stundenplan
 
 ## Sitzpläne
