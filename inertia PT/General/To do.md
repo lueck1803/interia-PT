@@ -139,6 +139,7 @@
 		- [ ] ⤷ deinstallieren
 	- [ ] am mac installieren 
 	- [ ] Handy nur start of line ⟹ geht wohl nicht der toolbar hinzufügen 
+- [ ] sort lines obsidian
 - [ ] gelben Sack
 - [ ] laufen gehen
 - [ ] krafttraining
@@ -151,8 +152,10 @@
 - [ ] Harald Jung wegen saniraum frage
 - [ ] wer ist klassenlehrer von der 8b
 - [ ] \# Porto entfernen
-- [ ] alte sitzpläne in Vertretungslehrer rausschmeißen
+- [x] alte sitzpläne in Vertretungslehrer rausschmeißen
 - [ ] liste mit Lehrernamen anlegen
+	- [ ] nachname zu erst
+	- [ ] mit sort lines sortieren
 - [x] hellblaue Hose in Wäsche 
 - [ ] Stunden plan austauschen 
 - [ ] klassenliste 8b anpassen.

@@ -122,6 +122,7 @@ B3Rnh@Rd
 - Jamil Hirsch (hir)
 - Lisa-Marie Rohr (roh)
 	- Klassenleitung <font color="#8db3e2">8a</font> 
+- 
 ## Stundenplan
 
 ## Sitzpläne
