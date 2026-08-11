@@ -123,6 +123,9 @@ B3Rnh@Rd
 	- Klassenleitung 8f
 - Lauer, Anna (lae)
 	- physik, geographie, klassenleitung 6d?, kommt von der erich kästner
+	- Physik
+		- 8e
+		- 8f
 - Laumann, Regina (lau)
 	- Jahrgangsleitung 7/8
 - Mair, Katrin (mai)
@@ -140,6 +143,7 @@ B3Rnh@Rd
 	- Physik
 		- 7c
 		- 7d
+		- 8d
 ## Stundenplan
 
 ## Sitzpläne
