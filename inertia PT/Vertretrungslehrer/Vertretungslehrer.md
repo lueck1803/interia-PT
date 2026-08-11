@@ -102,9 +102,7 @@ B3Rnh@Rd
 - 6. 12:20 - 13:05
 ## Raumplan 
 
-![](Images/BAS/BAS-Raumverteilung-25-26.jpeg)
-
-
+#todo
 ## Stundenplan
 
 ## Sitzpläne
@@ -164,7 +162,7 @@ B3Rnh@Rd
  %% fold %%
 ## GL
 - andrej und burak haben mich unterstützt
-
+ %% fold %%
 - Das ist der Sitzplan. 
   ![[6b-Sitzplan-Verlauf.jpg]] %% fold %%
  %% fold %%

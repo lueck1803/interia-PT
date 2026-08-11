@@ -132,6 +132,8 @@
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
+- [ ] wie funktioniert das mit #task richtig?
+- [ ] editor plugin für insert above / below
 - [ ] gelben Sack
 - [ ] mero heißt jetzt dincer
 - [ ] 12:15 Treffen der 5er Mittwoch 
@@ -258,7 +260,6 @@
 - [ ] ⤷ins Mathebuch schauen
 
 - [ ] ce que/ce qui nochmal anschauen 
-- [ ] wie funktioniert das mit #task richtig?
 
 - [ ] wo ist das Schüler cafe
 

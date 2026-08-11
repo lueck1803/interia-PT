@@ -2459,7 +2459,9 @@ dh. `si=umUGQ2rElxZL_YgD`
 Ne geht auch mit dem `?t=MMmSSs` Format. Das Problem ist der Murks hinter dem ersten Fragezeichen.
 https://youtu.be/Yz9Bj9kEtKc?t=17m18s
 
-# Obsidian
+# <font color="#b088ff">Obsidian</font>
+
+## Tags
 ## Editing <font color="#00b050">Toolbar</font>
 ### <font color="#00fa9a">Custom</font> <font color="#92d050">colors</font>
 - `#dc143c`
@@ -4073,7 +4075,7 @@ Die Band verwendet aber ausschließlich diese Bedeutung. Für diese bedeutungen 
 ## Tier und Pflanzen Bestimmungen
 - [x] kleine braune weiß gepunktete Spinne bestimmen %% fold %%
 	- Weißpunkt-Fettspinne / Dreiecksfettspinne  %% fold %%
-- [x] Pflanze beim majoran bestimmen
+- [x] Pflanze beim majoran bestimmen %% fold %%
 	- kleinblütiges Franzosenkraut 
 ## Evolution und DNA 🧬
 ### RNA - [Älter als das Leben?](https://youtu.be/4eRdmamHBpc?is=lyy2evRfv9D4uZ46)
