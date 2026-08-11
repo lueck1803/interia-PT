@@ -158,8 +158,6 @@
 - [ ] 12:15 Treffen der 5er Mittwoch 
 - [ ] standard notification llw Kalender 
 - [ ] Harald Jung wegen saniraum fragen
-- [ ] wer ist klassenlehrer von der 8b
-- [x] \# Porto entfernen
 - [ ] Stunden plan austauschen 
 - [ ] fidget toys in lisas Klassen raum
 - [x] was war mit dem Raumwechsel? Wo ist BER?
@@ -189,13 +187,13 @@
 	- [ ] Dazu aufgaben aus dem Buch oder selbst welche finden und ausdenken
 
 - [ ] warum schaltet sich immer die neu installierten plugins aus
-- [ ] Duolingo
+- [x] Duolingo
 - [ ] Kette fetten cityrad
 - [ ] mit Frau Mair und Herren Stühlinger sprechen wegen mathe 5.
 	- [ ] tipps holen 
 	- [ ] Unterrichtsstruktur 
 - [ ] Stühlinger 
-	- [ ] Grundrechenarten massiv wiederholen 
+	- [ ] Grundrechenarten massiv wiederholen  %% fold %%
 	- [ ] auf Struktur und formelle Dinge achten %% fold %%
 		- [ ] Ordnung  %% fold %%
 		- [ ] Ergebnis unterstreichen  %% fold %%
@@ -203,7 +201,6 @@
 - [ ] 5. Mathe Plan  %% fold %%
 	- [ ] zu Beginn der Stunde 10 min Kopfrechnen  %% fold %%
 - [ ] Was bedeuten die 8.1,8.2, ... , 8.5 in den Lehrplänen? %% fold %%
-- [ ] neuen Stunden Plan in Kalender eintragen  %% fold %%
 - [x] Schulgarten checken/gießen %% fold %%
 - [ ] Krafttraining %% fold %%
 - [ ] MTB sattel einstellen %% fold %%
