@@ -136,8 +136,9 @@
 - [ ] Wie reinigt man eine Wunde?
 - [ ] Sonnenfinsternis 
 	- [ ] Wann? 
-		- [ ] 19 Uhr 8%
+		- [ ] 19 Uhr 89%
 	- [ ] kann man durch eine Rettungsdecke die sich anschauen?
+	- [ ] heute auch höhepunkt des jährlichen Perseiden Meteorstroms
 - [ ] Bettwäsche wechseln 
 - [ ] Minitafel für Klo Liste 
 - [ ] Kursmappe 

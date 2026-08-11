@@ -8,6 +8,12 @@
 
 ##  2026-08-12
 - Heute ist Sonnenfinsternis
+	- [ ] Wann? 
+		- [ ] 19 Uhr 89%
+	- [ ] kann man durch eine Rettungsdecke die sich anschauen?
+	- [ ] heute auch höhepunkt des jährlichen Perseiden Meteorstroms
+	- [ ] installiert am Handy 
+		- [ ] Skymap 
 - da ich die klasse Dienstag schon in Mathe hatte, brauchen wir ja keine Vorstellungsrunde mehr
 - Auch <font color="#ff69b4">Blitzlichtrunde</font> in Physik machen - Wer war deren Lehrer?
 	- Zettel Rum geben dafür 
