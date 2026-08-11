@@ -137,6 +137,8 @@
 - [ ] 12:15 Treffen der 5er Mittwoch 
 - [ ] standard notification llw Kalender 
 - [ ] Harald Jung wegen saniraum frage
+- [ ] wer ist klassenlehrer von der 8b
+- [ ] \# Porto entfernen
 - [x] hellblaue Hose in Wäsche 
 - [ ] Stunden plan austauschen 
 - [ ] klassenliste 8b anpassen.

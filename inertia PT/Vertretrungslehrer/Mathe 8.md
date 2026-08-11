@@ -9,6 +9,13 @@
 	- [ ] koordinatensystem
 - [ ] arbeitsblatt mit
 	- [ ] durchschnittbrechnung
+
+# infos
+## <font color="#8db3e2">8a</font> Lisa-Marie Rohr (roh)
+- fidget toys liegen im Lehrerpult
+- Hamza hat wohl ADHS ⟹ ihm dieses Toy
+
+
 # Wiederholung Bruchrechnung
 
 Was sind die rationalen Zahlen?
