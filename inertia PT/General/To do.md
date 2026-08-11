@@ -137,6 +137,9 @@
 - [ ] Stunden plan austauschen 
 - [ ] klassenliste 8b anpassen
 - [ ] sitzplan 8b
+- [ ] mein unterricht eintrag 8b
+- [ ] was war mit dem Raumwechsel? Wo ist BER?
+- [ ] wo ist das schülercafe?
 - [x] Balkonpflanzen gießen
 - [ ] fraught aus dem Plan werfen
 - [ ] Maulwurf - bass

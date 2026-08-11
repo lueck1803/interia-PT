@@ -24,3 +24,14 @@ Addition, Subtraktion, Multiplikation und Division von Brüchen an schreiben
 - [ ] 632 : 19 =33.26
 - [ ] <font color="#ff69b4">362/18=35</font>
 	- [ ] Also hatte ich mit dem Verfahren doch recht! das Ergebnis liegt erstaunlich nahe am richtigen Wert!
+
+# 8b
+- [ ] punkt vor strichrechnung - xenia
+	- [ ] dazu übungen machen
+- [ ] Mittelwert nochmal erklären
+	- [ ] bzw erklären lassen
+	- [ ] warum 
+- [ ] generell bruchrechnung ist ein großes defizit
+- [ ] prozentrechnung
+- [ ] vielleicht mal ne kleine lernkontrolle machen was die Leute können
+- [ ] nächstes mal sagen handy mit display auf den Tisch legen
