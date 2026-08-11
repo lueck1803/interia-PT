@@ -135,7 +135,9 @@
 - [ ] wie funktioniert das mit #task richtig?
 - [ ] plugin <font color="#b088ff">Linter</font> testen
 - [ ] plugin <font color="#b088ff">line arrange</font> testen
-- [ ] edit toolbar updaten, damit man die wieder 
+- [ ] edit toolbar updaten, damit man die einträge eventuell wieder sortieren kann
+	- [ ] vorher neu backuppen 
+	- [ ] wie update ich meine änderungen?
 - [x] editor plugin für insert above / below
 	- [x] noch testen
 		- [ ] funktioniert nicht! 
