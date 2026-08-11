@@ -134,6 +134,21 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - [x] Balkonpflanzen gießen
 - [ ] Wie reinigt man eine Wunde?
+- [ ] Kursmappe 
+	- [x] P 8c 
+	- [x] M 8a
+	- [ ] M 8b
+- [ ] sitzplan 8b
+- [ ] Arbeitsblatt mit Radtour erstellen
+- [ ] Zähne putzen
+- [ ] Gesicht waschen
+- [ ] Zeug für morgen einpacken
+	- [ ] laptop
+	- [ ] gelben hefter
+	- [ ] denksport physik
+
+
+
 - [ ] Sonnenfinsternis 
 	- [ ] Wann? 
 		- [ ] 19 Uhr 89%
@@ -142,11 +157,7 @@
 	- [ ] star chart am mac ausprobieren
 - [ ] Bettwäsche wechseln 
 - [ ] Minitafel für Klo Liste 
-- [ ] Kursmappe 
-	- [x] P 8c 
-	- [x] M 8a
-	- [ ] M 8b
-- [ ] sitzplan 8b
+
 - [ ] Löcher in Olivendose bohren 
 	- [ ] etwas hinein pflanzen 
 - [ ] wie funktioniert das mit #task richtig?
@@ -192,7 +203,7 @@
 
 - [ ] warum schaltet sich immer die neu installierten plugins aus
 - [x] Duolingo
-- [ ] Kette fetten cityrad
+- [ ] Kette fetten cityrad %% fold %%
 - [ ] mit Frau Mair und Herren Stühlinger sprechen wegen mathe 5.
 	- [ ] tipps holen 
 	- [ ] Unterrichtsstruktur  %% fold %%
