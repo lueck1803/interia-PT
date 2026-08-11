@@ -139,6 +139,7 @@
 		- [ ] 19 Uhr 89%
 	- [ ] kann man durch eine Rettungsdecke die sich anschauen?
 	- [ ] heute auch höhepunkt des jährlichen Perseiden Meteorstroms
+	- [ ] star chart am mac ausprobieren
 - [ ] Bettwäsche wechseln 
 - [ ] Minitafel für Klo Liste 
 - [ ] Kursmappe 
