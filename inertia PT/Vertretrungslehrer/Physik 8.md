@@ -28,6 +28,7 @@
 		- [ ] Skymap - gibts nur für Android
 		- [ ] Star Chart - Android und iOS
 	 5. dann gehen wir raus und ihr versucht mal herauszufinden in welcher Richtung die Perseiden zu finden sein werden?
+	    ![[../../Pasted image 20260811225405.png]]
 	 6. im Süden über den Pleiaden, links vom saturn und rechts oberhalb vom mars und beitgeuze
 	 7. Rot gestrichelte LineDie Ekliptik ist die scheinbare Bahn der Sonne am Fixsternhimmel, wie sie von der Erde aus im Laufe eines Jahres gesehen wird.
 	 8. Perseus erkennt man recht gut
