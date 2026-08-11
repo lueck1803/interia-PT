@@ -136,7 +136,7 @@
 - [x] editor plugin für insert above / below
 	- [ ] noch testen
 	- [ ] am mac installieren 
-	- [ ] Handy nur start of line
+	- [ ] Handy nur start of line ⟹ geht wohl nicht der toolbar hinzufügen 
 - [ ] gelben Sack
 - [ ] laufen gehen
 - [ ] krafttraining
