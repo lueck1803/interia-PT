@@ -1962,7 +1962,19 @@ Jahrgangsteamsitzungen
 ### 5a
 - Sofia Taufenbach
 	- Herzprobleme
-- 
+	- hatte herzop
+	- schlägt zu schnell
+	- sie muss dann stift pusten
+	- puls messen mit Gerät -> über 160 ⟹ notdienst
+- Yuna Özel
+	- Adhs
+- Elias Elias Hamed Youssif
+	- adhs
+- Quentin Müller
+	- sozial emotional zurück gezogen
+- Ibrahim, Awil Ibrahim
+	- VM LER
+	- THA
 # Aufgaben-Ideen
 ## Mathe
 ### Prozentrechnung 
