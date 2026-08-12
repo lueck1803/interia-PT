@@ -143,10 +143,10 @@
 - [ ] Arbeitsblatt mit Radtour erstellen
 - [ ] Zähne putzen
 - [ ] Gesicht waschen
-- [ ] Zeug für morgen einpacken
-	- [ ] laptop
-	- [ ] gelben hefter
-	- [ ] denksport physik
+- [x] Zeug für morgen einpacken
+	- [x] laptop
+	- [x] gelben hefter
+	- [x] denksport physik
 
 
 
