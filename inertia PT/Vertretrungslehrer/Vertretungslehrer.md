@@ -133,6 +133,7 @@ B3Rnh@Rd
 - Mair, Katrin (mai)
 	- Jahrgangsleitung 5/6
 - Mamak, Ansia (mam)
+	- Klassenleitung <font color="#48d1cc">5a</font>
 - Melcher, Lukas (mel)
 	- förderschullehrer, kommt von der erich kästner
 - Middel, Oliver (mid) 
