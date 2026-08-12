@@ -134,6 +134,13 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - [x] Balkonpflanzen gießen
 - [ ] unbedingt Staubsaugen
+- [ ] Lochkamera mit Chipsdose bauen
+	- [ ] Aldi
+	- [ ] pfand
+	- [ ] gelber Sack
+	- [ ] fahrradkette
+	- [ ] Chips in dose kaufen
+	- [ ] pauspapier verwenden
 - [x] laptop aus machen
 - [ ] bastelkram weg packen
 - [x] kursmappe
