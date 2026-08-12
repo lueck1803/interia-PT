@@ -138,9 +138,9 @@
 - [ ] unbedingt Staubsaugen
 - [ ] Lochkamera mit Chipsdose bauen
 	- [ ] Aldi
-	- [ ] pfand
+	- [x] pfand
 	- [ ] gelber Sack
-	- [ ] fahrradkette
+	- [x] fahrradkette
 	- [ ] Chips in dose kaufen
 	- [ ] pauspapier verwenden
 - [x] laptop aus machen
