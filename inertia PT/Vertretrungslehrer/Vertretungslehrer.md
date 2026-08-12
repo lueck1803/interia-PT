@@ -105,48 +105,48 @@ B3Rnh@Rd
 ![[../../Pasted image 20260812011742.png]]
 
 ## Lehrernamen mit Kürzel und Infos
-- Fäth, Maria (fät)
-	- Klassenleitung 8d
-- Einicke, Ute (ein)
-	- Jahrgangsleitung 9/10
-- Lauer, Anna (lae)
-	- Physik
-		- 8f
-		- 8e
-	- physik, geographie, klassenleitung 6d?, kommt von der erich kästner
-- Mair, Katrin (mai)
-	- Jahrgangsleitung 5/6
-- Hirsch, Jamil (hir)
+- Blaume, Nele Hanne (blm)
 - Dincer, Mero (din)
 	- Klassenleitung 6b
+- Einicke, Ute (ein)
+	- Jahrgangsleitung 9/10
+- Fäth, Maria (fät)
+	- Klassenleitung 8d
+- Fröhlich, Ina-Maria (frö)
+	- Klassenleitung <font color="#ff1493">8c</font>
+- Gernand, Anita Maria (ger)
 - Görlich, Julia (gör)
 	- Klassenleitung 8e
+- Güldener, Nicole Kirsten (gld)
+	- Klassenleitung <font color="#b088ff">8b</font>
+- Hirsch, Jamil (hir)
+- Kohlmeier, Lukas (koh)
+- Lang, Sebastian (lan)
+	- Klassenleitung 8f
+- Lauer, Anna (lae)
+	- Physik
+		- 8e
+		- 8f
+	- physik, geographie, klassenleitung 6d?, kommt von der erich kästner
+- Laumann, Regina (lau)
+	- Jahrgangsleitung 7/8
+- Mair, Katrin (mai)
+	- Jahrgangsleitung 5/6
+- Mamak, Ansia (mam)
+- Melcher, Lukas (mel)
+	- förderschullehrer, kommt von der erich kästner
 - Middel, Oliver (mid) 
+	- Klassenleitung 5er 
 	- Physik
 		- 7a
 		- 7b
-	- Klassenleitung 5er 
-- Melcher, Lukas (mel)
-	- förderschullehrer, kommt von der erich kästner
+- Rohr, Lisa-Marie (roh)
+	- Klassenleitung <font color="#8db3e2">8a</font> 
 - Wolf, Johannes (wol)
 	- Physik
 		- 7c
 		- 7d
 		- 8d
-- Mamak, Ansia (mam)
-- Lang, Sebastian (lan)
-	- Klassenleitung 8f
-- Rohr, Lisa-Marie (roh)
-	- Klassenleitung <font color="#8db3e2">8a</font> 
-- Laumann, Regina (lau)
-	- Jahrgangsleitung 7/8
-- Kohlmeier, Lukas (koh)
-- Fröhlich, Ina-Maria (frö)
-	- Klassenleitung <font color="#ff1493">8c</font>
-- Blaume, Nele Hanne (blm)
-- Gernand, Anita Maria (ger)
-- Güldener, Nicole Kirsten (gld)
-	- Klassenleitung <font color="#b088ff">8b</font>
 ## <font color="#daa520">Stundenplan</font>
 ![[Images/BAS/Stundenplan1.png]]
 ![[Images/BAS/Stundenplan2.png]]
