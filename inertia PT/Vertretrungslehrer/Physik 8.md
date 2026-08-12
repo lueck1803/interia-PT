@@ -6,6 +6,10 @@
 - <font color="#c4bd97">Sofiia wollte wechseln </font>
 - <font color="#c4bd97">Ranya ist noch nicht geklärt. </font>
 
+## nächste Woche
+- Zeichnungen zur Sonnensystemkonstellation zeigen lassen
+- Inhalt der nächsten Stunden anschreiben
+- Aufgaben aus dem Denksportphysik
 ##  2026-08-12
 - da ich die klasse Dienstag schon in Mathe hatte, brauchen wir ja keine Vorstellungsrunde mehr
 - Auch <font color="#ff69b4">Blitzlichtrunde</font> in Physik machen - Wer war deren Lehrer?
