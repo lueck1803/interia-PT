@@ -47,6 +47,14 @@ Addition, Subtraktion, Multiplikation und Division von Brüchen an schreiben
 	- [ ] Also hatte ich mit dem Verfahren doch recht! das Ergebnis liegt erstaunlich nahe am richtigen Wert!
 
 # <font color="#b088ff">8b</font> Güldener, Nicole Kirsten (gld)
+
+## 2026-08-12
+-  Zahlenstrahl N, Z, Q
+- Größenvergleich 1/2 L, 1/3 L
+- 3/5 vs 2/3
+- 
+___
+
 - [ ] <font color="#ff69b4">mein alter mit deren zahlen nochmal ausrechnen</font>
 - [ ] punkt vor strichrechnung - xenia
 	- [ ] dazu übungen machen

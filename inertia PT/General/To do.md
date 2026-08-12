@@ -133,16 +133,18 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - [x] Balkonpflanzen gießen
+- [ ] bis Freitag in die Mathe-Wettbewerb Aufgaben schauen 
 - [ ] Kaffeemaschine Brühgruppe
 - [ ] Dampfdruckkochtopf spülen 
 - [ ] unbedingt Staubsaugen
-- [ ] Lochkamera mit Chipsdose bauen
-	- [ ] Aldi
+- [x] Lochkamera mit Chipsdose bauen ✅ 2026-08-12
+	- [x] Aldi ✅ 2026-08-12
 	- [x] pfand
 	- [ ] gelber Sack
 	- [x] fahrradkette
-	- [ ] Chips in dose kaufen
-	- [ ] pauspapier verwenden
+	- [x] Chips in dose kaufen ✅ 2026-08-12
+	- [x] pauspapier verwenden ✅ 2026-08-12
+	- [ ] ⤷die Bildweite war zu klein dementsprechend war die Sonne auf der Mattscheibe zu klein 
 - [x] laptop aus machen
 - [ ] bastelkram weg packen
 - [x] kursmappe
@@ -150,10 +152,10 @@
 	- [x] p 10b
 	- [x] p 10a
 - [ ] Unterricht für M 8b vorbereiten
-- [ ] Lochkamera bauen 
+- [x] Lochkamera bauen ✅ 2026-08-12
 - [ ] Mathe-Wettbewerb wann und was sind die Themen?
 - [ ] Tesa abroller schärfen 
-- [ ] Apfelschneider mit Pfeilen schärfen 
+- [ ] Apfelschneider mit Feilen schärfen 
 - [x] Klassenliste p 8d 
 - [x] <font color="#daa520">Nachname von Saif </font> ✅ 2026-08-12
 	- [x] ⤷ steht auf dem Zettel?
