@@ -133,11 +133,13 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - [x] Balkonpflanzen gießen
+- [ ] Lochkamera bauen 
 - [ ] Mathe-Wettbewerb wann und was sind die Themen?
 - [ ] Tesa abroller schärfen 
 - [ ] Apfelschneider mit Pfeilen schärfen 
 - [ ] Klassenliste p 8d 
 - [ ] <font color="#daa520">Nachname von Saif </font>
+	- [ ] ⤷ steht auf dem Zettel?
 - [ ] Wie reinigt man eine Wunde?
 - [ ] Kursmappe 
 	- [x] P 8c 
