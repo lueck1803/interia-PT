@@ -214,7 +214,7 @@
 	- Vorgänge und Gesetzmäßigkeiten möglichst zu isolieren und sie so einfach wie möglich darzustellen
 	- unwichtige Dinge wegzulassen
 	- Abschätzungen zu treffen
-	- Ist etwas Plausibel?
+	- Ist etwas Plausibel? %% fold %%
 	- In Größenordnungen zu Denken
 - In der Physik und den Naturwissenschaften überhaupt geht es häufig darum sich möglichst präzise und differenziert auszudrücken.
 	- differenziert meint, dass man versucht Abgrenzungen zu Dingen zu machen die man nicht meint
