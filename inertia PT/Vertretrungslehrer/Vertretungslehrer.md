@@ -1959,12 +1959,18 @@ Jahrgangsteamsitzungen
 	- gibt noch allgemeine infos
 
 ## Treffen 5te Klassen 2026-08-12
+### Elternabend am 12.9?
+- Vorstellung, was man sich unter den einzelnen Fächern vorstellen muss
+	- GL - gibts nicht unbedingt an anderen Schulen
+	- 
 ### 5a
 - Sofia Taufenbach
 	- Herzprobleme
 	- hatte herzop
+		- letzte vor etwa 3 wochen
 	- schlägt zu schnell
 	- sie muss dann stift pusten
+		- nitrolingual spray?
 	- puls messen mit Gerät -> über 160 ⟹ notdienst
 - Yuna Özel
 	- Adhs
