@@ -1957,6 +1957,9 @@ Jahrgangsteamsitzungen
 	- workshop mit 40 - 10. klässlern - 10 pro klasse
 	- lehrkräfte sind nicht erwünscht ⟹ schüler agieren dann anders
 	- gibt noch allgemeine infos
+
+## Treffen 5te Klassen 2026-08-12
+
 # Aufgaben-Ideen
 ## Mathe
 ### Prozentrechnung 
