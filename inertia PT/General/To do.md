@@ -133,7 +133,7 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - [x] Balkonpflanzen gießen
-- [ ] Kaffeemaschine 
+- [ ] Kaffeemaschine Brühgruppe
 - [ ] Dampfdruckkochtopf spülen 
 - [ ] unbedingt Staubsaugen
 - [ ] Lochkamera mit Chipsdose bauen
