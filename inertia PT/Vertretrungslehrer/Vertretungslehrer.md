@@ -188,7 +188,7 @@ B3Rnh@Rd
 		- nacheinander 
 		- maximal zu zweit
 		- ~={DeepPink}Namen an die Tafel schreiben -> danach wegwischen!=~ damit es für alle klar ist %% fold %%
-		- wenn ihr gehen wollt, dann 
+		- wenn ihr gehen wollt, dann
 			- kurz auf die Tafel schauen, ist die Person da?
 			- wenn ja, dann mir bescheid geben, dass ihr gehen wollt, dann dürft ihr in der Regel auch ohne Diskussion gehen
 			- ist die Person/en auf der Tafel länger weg, dann sagt mir das in dem Fall
@@ -225,7 +225,7 @@ B3Rnh@Rd
 	Der Tisch an dem Lina saß, war wie ich versucht habe zu verdeutlichen etwas weiter oben. Nicht auf der Höhe von Oles Tisch.
 
 ## Mathe
-### timeline
+### timeline %% fold %%
 #### do 18.6 statt Deutsch Mathe
 - Bruchstrich: entspricht geteilt $p:q\leftrightarrow \frac{p}{q}$  %% fold %%
 - $p:p=\frac{6}{6}=\frac{5}{5} =\frac{p}{p}=\frac{a}{a}=\dots =1$ 
