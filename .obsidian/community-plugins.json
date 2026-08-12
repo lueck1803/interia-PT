@@ -32,5 +32,7 @@
   "sfb-open-in-new-tab",
   "obsidian42-brat",
   "git-history",
-  "line-arrange"
+  "line-arrange",
+  "obsidian-linter",
+  "open-in-new-tab"
 ]

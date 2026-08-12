@@ -134,7 +134,7 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - [x] Balkonpflanzen gießen
 - [ ] unbedingt Staubsaugen
-- [ ] laptop aus machen
+- [x] laptop aus machen
 - [ ] bastelkram weg packen
 - [x] kursmappe
 	- [x] p 8b
