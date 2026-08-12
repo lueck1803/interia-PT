@@ -136,10 +136,10 @@
 - [ ] unbedingt Staubsaugen
 - [ ] laptop aus machen
 - [ ] bastelkram weg packen
-- [ ] kursmappe
+- [x] kursmappe
 	- [x] p 8b
-	- [ ] p 10b
-	- [ ] p 10a
+	- [x] p 10b
+	- [x] p 10a
 - [ ] Unterricht für M 8b vorbereiten
 - [ ] Lochkamera bauen 
 - [ ] Mathe-Wettbewerb wann und was sind die Themen?
