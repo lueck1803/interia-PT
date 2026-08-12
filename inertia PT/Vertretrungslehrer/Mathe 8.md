@@ -54,7 +54,7 @@ Addition, Subtraktion, Multiplikation und Division von Brüchen an schreiben
 - 3/5 vs 2/3
 - 3/4 vs 5/8
 - 2/3 vs 5/8
-- 
+- 2/3 vs 
 ___
 
 - [ ] <font color="#ff69b4">mein alter mit deren zahlen nochmal ausrechnen</font>
