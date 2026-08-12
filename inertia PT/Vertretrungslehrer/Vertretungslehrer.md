@@ -1959,7 +1959,10 @@ Jahrgangsteamsitzungen
 	- gibt noch allgemeine infos
 
 ## Treffen 5te Klassen 2026-08-12
-
+### 5a
+- Sofia Taufenbach
+	- Herzprobleme
+- 
 # Aufgaben-Ideen
 ## Mathe
 ### Prozentrechnung 
