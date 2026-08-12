@@ -137,7 +137,7 @@
 - [ ] laptop aus machen
 - [ ] bastelkram weg packen
 - [ ] kursmappe
-	- [ ] p 8b
+	- [x] p 8b
 	- [ ] p 10b
 	- [ ] p 10a
 - [ ] Unterricht für M 8b vorbereiten
