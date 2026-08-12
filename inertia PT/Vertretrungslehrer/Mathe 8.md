@@ -50,7 +50,7 @@ Addition, Subtraktion, Multiplikation und Division von Brüchen an schreiben
 
 ## 2026-08-12
 -  Zahlenstrahl N, Z, Q
-- Größenvergleich 1/2 L, 1/3 L
+- Größenvergleich  halber Liter, ein Drittel L
 - 3/5 vs 2/3
 - 3/4 vs 5/8
 - 2/3 vs 5/8
