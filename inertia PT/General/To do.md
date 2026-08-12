@@ -145,11 +145,12 @@
 - [ ] Mathe-Wettbewerb wann und was sind die Themen?
 - [ ] Tesa abroller schärfen 
 - [ ] Apfelschneider mit Pfeilen schärfen 
-- [ ] Klassenliste p 8d 
-- [ ] <font color="#daa520">Nachname von Saif </font>
-	- [ ] ⤷ steht auf dem Zettel?
+- [x] Klassenliste p 8d 
+- [x] <font color="#daa520">Nachname von Saif </font> ✅ 2026-08-12
+	- [x] ⤷ steht auf dem Zettel?
+	- [ ] khtib bzw. khatib
 - [ ] Wie reinigt man eine Wunde?
-- [ ] Kursmappe 
+- [x] Kursmappe 
 	- [x] P 8c 
 	- [x] M 8a
 	- [x] M 8b
@@ -164,12 +165,12 @@
 
 
 
-- [ ] Sonnenfinsternis 
-	- [ ] Wann? 
-		- [ ] 19 Uhr 89%
-	- [ ] kann man durch eine Rettungsdecke die sich anschauen?
-	- [ ] heute auch höhepunkt des jährlichen Perseiden Meteorstroms
-	- [ ] star chart am mac ausprobieren
+- [x] Sonnenfinsternis 
+	- [x] Wann? 
+		- [x] 19 Uhr 89%
+	- [x] kann man durch eine Rettungsdecke die sich anschauen?
+	- [x] heute auch höhepunkt des jährlichen Perseiden Meteorstroms
+	- [x] star chart am mac ausprobieren
 - [ ] Bettwäsche wechseln 
 - [ ] Minitafel für Klo Liste 
 
