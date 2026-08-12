@@ -1972,7 +1972,7 @@ Jahrgangsteamsitzungen
 	- adhs
 - Quentin Müller
 	- sozial emotional zurück gezogen
-- Ibrahim, Awil Ibrahim
+- Hamza Awil Ibrahim
 	- VM LER
 	- THA
 # Aufgaben-Ideen
