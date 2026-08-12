@@ -50,11 +50,12 @@ Addition, Subtraktion, Multiplikation und Division von Brüchen an schreiben
 
 ## 2026-08-12
 -  Zahlenstrahl N, Z, Q
-- Größenvergleich  halber Liter, ein Drittel L
+- Größenvergleich  halber Liter, 0,33 L, ein viertel Liter ein Drittel Liter, 0,75 L, 0,2 L, ein achtel Liter, 200 milli Liter von einem Liter wurden getrunken, 40 Zentiliter.
+	- jeweils ne 1Liter Flasche ausmalen 
 - 3/5 vs 2/3
 - 3/4 vs 5/8
 - 2/3 vs 5/8
-- 2/3 vs 
+- 2/3 vs 6/8
 ___
 
 - [ ] <font color="#ff69b4">mein alter mit deren zahlen nochmal ausrechnen</font>
