@@ -2509,3 +2509,7 @@ Arbeitsstunden KW 19:
 	- Fr: 
 		- 3./4. 5b
 
+# Abschluss 10
+## elias physik
+
+
