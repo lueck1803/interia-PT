@@ -133,6 +133,12 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - [x] Balkonpflanzen gießen
+- [ ] unbedingt Staubsaugen
+- [ ] kursmappe
+	- [ ] p 8b
+	- [ ] p 10b
+	- [ ] p 10a
+- [ ] Unterricht für M 8b vorbereiten
 - [ ] Lochkamera bauen 
 - [ ] Mathe-Wettbewerb wann und was sind die Themen?
 - [ ] Tesa abroller schärfen 
