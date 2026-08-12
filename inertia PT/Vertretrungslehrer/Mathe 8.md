@@ -52,6 +52,8 @@ Addition, Subtraktion, Multiplikation und Division von Brüchen an schreiben
 -  Zahlenstrahl N, Z, Q
 - Größenvergleich 1/2 L, 1/3 L
 - 3/5 vs 2/3
+- 3/4 vs 5/8
+- 2/3 vs 5/8
 - 
 ___
 
