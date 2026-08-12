@@ -1959,10 +1959,17 @@ Jahrgangsteamsitzungen
 	- gibt noch allgemeine infos
 
 ## Treffen 5te Klassen 2026-08-12
-### Elternabend am 12.9?
+### Schulcloud
+- dafür explizit werbung machen
+- über Whatsapp dürfen nicht kommunizieren
+### Elternabend am 2.9
 - Vorstellung, was man sich unter den einzelnen Fächern vorstellen muss
 	- GL - gibts nicht unbedingt an anderen Schulen
-	- 
+- Thema Medien
+	- Kinder gefangen in der Medienwelt
+	- Taschen - neu noch nicht geregelt
+	- Paul hat die Taschen schon gesehen, jana hat sie abgeholt
+	- müssten die Taschen ersetzen, wenn die wegkommen
 ### 5a
 - Sofia Taufenbach
 	- Herzprobleme
