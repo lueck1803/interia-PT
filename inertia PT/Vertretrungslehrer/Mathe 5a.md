@@ -9,4 +9,19 @@
 	- Stärken und Schwächen
 
 - Ich möchte ein kariertes DIN A4 Heft
-- 
+- Rechnungen sauber aufschreiben
+- Ergebnisse unterstreichen!
+- Der Rechenweg ist das wichtigste!
+	- ich und andere müssen es nachvollziehen können
+	- gerade wenn das Ergebnis nicht stimmt
+	- Ihr müsst es auch nachvollziehen können. Wenn ihr eure Aufgaben anschaut und sie erklären müsst oder einem Mitschüler erklären wollte
+- nicht richtige Ergebnisse sind nicht schlimm
+	- niemals verstecken oder sich dafür schämen
+	- es ist sehr gut die mitzuteilen
+	- denn dann kann ich wissen, was und wie ihr denkt.
+	- außerdem sind sie Anhaltspunkte um Denkfehler zu besprechen und sie in der Klasse zu korrigieren
+	- Ihr seid zum Lernen hier
+	- ich gehe nicht davon aus, dass ihr alles könnt und ihr müsst auch nicht alles können
+	- niemand lacht über andere
+	- sagt was ihr denkt und lasst euch nicht von anderen beeinflussen, insbesondere wenn ihr nicht versteht warum.
+	- ich will von keinem hören er hat es verstanden, nur um seine Ruhe zu haben. sei
