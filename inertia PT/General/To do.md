@@ -286,7 +286,7 @@
 	- [ ] Plan bis zur ersten Klausur vorbereiten das den Leuten zeigen 
 		- [ ] was wird erwartet bzw was ist der Plan 
 	- [ ] Vorstellungsrunde 
-		- [ ] erstmal Anwesenheit 
+		- [ ] erstmal Anwesenheit  %% fold %%
 			- [ ] Regina laumann wegen der aktuellen Pläne fragen
 		- [ ] was erwarte ich vom Unterricht 
 			- [ ] jeder schlauer herausgeht als zuvor 
