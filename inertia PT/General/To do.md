@@ -134,6 +134,11 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - [x] Balkonpflanzen gießen
 - [ ] bis Freitag in die Mathe-Wettbewerb Aufgaben schauen 
+- [ ] Nudeln mit Linsen essen 
+- [ ] Muskateller Salbei Samen abtrennen und in eine Dose 
+- [ ] Zähne nochmal ausgiebig putzen 
+	- [ ] Zahnpasta leer
+	- [ ] neue Zahnbürste 
 - [x] Kaffeemaschine Brühgruppe
 - [ ] Wäsche
 	- [ ] schleudern 
