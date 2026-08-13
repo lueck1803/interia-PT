@@ -4,9 +4,9 @@
 ![[../../../../../../Pasted image 20260813231740.png|Teilmengendarstellung der Zahlensystem. <br> Quelle: https://de.wikipedia.org/wiki/Nat%C3%BCrliche_Zahl#/media/Datei:Number-systems.svg]]
 
 
-## Natürliche Zahlen
-Das Mengensymbol der natürlichen Zahlen lautet $\mathbb{N}$, also ein N mit einem zweiten Strich an der Diagonalen.
-Die unter den natürlichen Zahlen werden in der Regel die positiven ganzen Zahlen ohne die $0$ verstanden. Das ist je nach Definition aber unterschiedlich.
+## Natürliche Zahlen $\mathbb{N}$
+<!-- Das Mengensymbol der natürlichen Zahlen lautet $\mathbb{N}$, also ein N mit einem zweiten Strich an der Diagonalen. -->
+Unter den natürlichen Zahlen werden in der Regel die positiven ganzen Zahlen ohne die $0$ verstanden. Das ist je nach Definition aber unterschiedlich.
 
 $\mathbb{N}=\left\{ 1,2,3,\dots{} \right\}$
 $\mathbb{N}_{0}=\left\{ 0,1,2,3,\dots \right\}=\mathbb{N}\cup \{0\}$  
@@ -26,6 +26,11 @@ $\mathbb{N}_{0}=\left\{ 0,1,2,3,\dots \right\}=\mathbb{N}\cup \{0\}$
 		- vier Birnen und fünf Äpfel sind neun Früchte
 		- Ich gehe drei mal in der Woche zum Sport. Somit gehe ich im Monat, da dieser vier Wochen hat,  zwölf mal zum Sport (vier mal drei).
 
-## Ganze Zahlen
+## Ganze Zahlen $\mathbb{Z}$
+
+Die ganzen Zahlen ergänzen die natürlichen Zahlen um die negativen natürlichen Zahlen inklusive der Null. Sie sind die Vereinigung der negativen Zahlen mit den natürlichen 
+
+## Rationale Zahlen $\mathbb{Q}$
+
 $$
 \mathbb{Q}=\left\{ \frac{p}{q}:p,q\in\mathbb{Z} \text{ und } q\ne 0 \right\} $$
