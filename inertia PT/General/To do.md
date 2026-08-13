@@ -134,6 +134,9 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - [x] Balkonpflanzen gießen
 	- [ ] aber ein zweites mal notwendig
+- [ ] <font color="#b088ff">image captions</font> plugin installieren
+	- [ ] mac
+	- [ ] handy
 - [x] Duolingo
 - [ ] bis Freitag in die Mathe-Wettbewerb Aufgaben schauen 
 - [x] Nudeln mit Linsen essen 
