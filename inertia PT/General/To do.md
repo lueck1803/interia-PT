@@ -174,7 +174,7 @@
 	- [x] p 8b
 	- [x] p 10b
 	- [x] p 10a
-	- [ ] m 8b
+	- [x] m 8b
 		- [x] Ismail als entschuldigt eintragen
 - [ ] Unterricht für M 8a vorbereiten
 	- [ ] Mathe-Wettbewerb wann und was sind die Themen?
