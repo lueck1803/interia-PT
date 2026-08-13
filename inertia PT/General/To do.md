@@ -136,6 +136,7 @@
 - [ ] bis Freitag in die Mathe-Wettbewerb Aufgaben schauen 
 - [ ] Kaffeemaschine Brühgruppe
 - [ ] Fußnägel 
+- [ ] beim board ais
 - [ ] liste für anna Lauer machen was ich gemacht habe 
 	- [ ] PDF mit dem Zahlenstrahl 
 - [ ] balkon gießen
