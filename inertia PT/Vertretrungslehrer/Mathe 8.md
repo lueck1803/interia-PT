@@ -49,6 +49,7 @@ Addition, Subtraktion, Multiplikation und Division von Brüchen an schreiben
 # <font color="#b088ff">8b</font> Güldener, Nicole Kirsten (gld)
 
 ## 2026-08-12
+
 -  Zahlenstrahl N, Z, Q
 - Größenvergleich  halber Liter, 0,33 L, ein viertel Liter ein Drittel Liter, 0,75 L, 0,2 L, ein achtel Liter, 200 milli Liter von einem Liter wurden getrunken, 40 Zentiliter.
 	- jeweils ne 1Liter Flasche ausmalen 
@@ -58,7 +59,7 @@ Addition, Subtraktion, Multiplikation und Division von Brüchen an schreiben
 - 2/3 vs 6/8
 - 9/27 vs  3/18
 - 6/18 vs 9/27
-- 9/12 vs
+- 9/12 vs 
 ___
 
 - [ ] <font color="#ff69b4">mein alter mit deren zahlen nochmal ausrechnen</font>
