@@ -136,9 +136,9 @@
 - [ ] bis Freitag in die Mathe-Wettbewerb Aufgaben schauen 
 - [ ] Nudeln mit Linsen essen 
 - [ ] Muskateller Salbei Samen abtrennen und in eine Dose 
-- [ ] Spülmaschine anstellen 
+- [x] Spülmaschine anstellen 
 - [ ] Bretter spülen 
-- [ ] Kaffeemaschine fron
+- [ ] Kaffeemaschine front putzen 
 - [ ] Zähne nochmal ausgiebig putzen 
 	- [ ] Zahnpasta leer
 	- [ ] neue Zahnbürste 
