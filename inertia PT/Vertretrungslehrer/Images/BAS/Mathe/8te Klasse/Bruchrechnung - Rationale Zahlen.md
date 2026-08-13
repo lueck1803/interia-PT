@@ -43,8 +43,10 @@ $$
 - Bruchstrich: entspricht geteilt $p:q\leftrightarrow \frac{p}{q}$  %% fold %%
 - $p:p=\frac{6}{6}=\frac{5}{5} =\frac{p}{p}=\frac{a}{a}=\dots =1$ 
 - Was ist $1:0=\frac{1}{0}=?$
+	- $\ne 1$ , denn $1 \cdot 0 = 0$ und 
 	- $\ne 0$
 	- $\ne \infty$ 
-	- Division ist die Umkehroperation der Multiplikation und das muss stimmen 
+	- Die Division ist die Umkehroperation der Multiplikation. Die Umkehrprobe muss wieder auf die ursprüngliche Zahl zurückführen.
+
 
 # Aufgaben
