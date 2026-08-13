@@ -174,6 +174,7 @@
 	- [x] p 10b
 	- [x] p 10a
 	- [ ] m 8b
+		- [ ] Ismail als entschuldigt eintragen
 - [ ] Unterricht für M 8a vorbereiten
 	- [ ] Mathe-Wettbewerb wann und was sind die Themen?
 	- [ ] sitzplan 8a fotografieren 
@@ -191,6 +192,9 @@
 
 
 - [ ] Bettwäsche wechseln 
+	- [x] alte runter
+	- [ ] Spannbettuch
+	- [ ] Kissen
 - [ ] Minitafel für Klo Liste 
 
 - [ ] Löcher in Olivendose bohren 
