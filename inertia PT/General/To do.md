@@ -140,7 +140,7 @@
 - [ ] aldi
 	- [ ] Dosenchips
 	- [ ] Unterhemden 
-- [ ] Äpfel wa
+- [ ] Äpfel waschen 
 - [ ] Entschuldigung Ismail einscannen 
 - [ ] mathe info blatt
 	- [ ] Zahlenstrahl 
@@ -167,9 +167,12 @@
 	- [x] p 8b
 	- [x] p 10b
 	- [x] p 10a
-- [ ] Unterricht für M 8b vorbereiten
+	- [ ] m 8b
+- [ ] Unterricht für M 8a vorbereiten
+	- [ ] Mathe-Wettbewerb wann und was sind die Themen?
+	- [ ] sitzplan 8a fotografieren 
+	- [ ] Arbeitsblatt 
 - [x] Lochkamera bauen ✅ 2026-08-12
-- [ ] Mathe-Wettbewerb wann und was sind die Themen?
 - [ ] Tesa abroller schärfen 
 - [ ] Apfelschneider mit Feilen schärfen 
 - [x] Klassenliste p 8d 
@@ -177,11 +180,6 @@
 	- [x] ⤷ steht auf dem Zettel?
 	- [ ] khtib bzw. khatib
 - [ ] Wie reinigt man eine Wunde?
-- [x] Kursmappe 
-	- [x] P 8c 
-	- [x] M 8a
-	- [x] M 8b
-- [x] sitzplan 8b
 - [ ] Arbeitsblatt mit Radtour erstellen
 - [ ] Zähne putzen
 - [ ] Gesicht waschen
