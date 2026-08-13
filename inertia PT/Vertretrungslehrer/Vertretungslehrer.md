@@ -225,7 +225,7 @@ B3Rnh@Rd
 	Der Tisch an dem Lina saß, war wie ich versucht habe zu verdeutlichen etwas weiter oben. Nicht auf der Höhe von Oles Tisch.
 
 ## Mathe
-### timeline %% fold %%
+### timeline
 #### do 18.6 statt Deutsch Mathe
 - Bruchstrich: entspricht geteilt $p:q\leftrightarrow \frac{p}{q}$  %% fold %%
 - $p:p=\frac{6}{6}=\frac{5}{5} =\frac{p}{p}=\frac{a}{a}=\dots =1$ 
