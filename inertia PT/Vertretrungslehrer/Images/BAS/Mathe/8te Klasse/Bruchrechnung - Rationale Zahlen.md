@@ -33,7 +33,7 @@ $$
 \mathbb{Z} = -\mathbb{N} \cup \mathbb{N}_{0}
 $$
 
-Sie sind die Vereinigung der negativen natürlichen Zahlen $-\mathbb{N}$ mit den die Null enthaltenden natürlichen Zahlen $$
+Sie sind die Vereinigung der negativen natürlichen Zahlen $-\mathbb{N}$ mit den die Null enthaltenden natürlichen Zahlen $mN$
 
 ## Rationale Zahlen $\mathbb{Q}$
 
