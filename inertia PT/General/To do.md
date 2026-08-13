@@ -186,7 +186,7 @@
 	- [ ] khtib bzw. khatib
 - [ ] Wie reinigt man eine Wunde?
 - [ ] Arbeitsblatt mit Radtour erstellen
-- [ ] Zähne putzen
+- [x] Zähne putzen
 - [ ] Gesicht waschen
 
 
@@ -282,7 +282,7 @@
 - [ ] da ich das tb kabel eh behalte %% fold %%
       ⤷ zusätzlich an ex4 karte und docking station anschließen
  %% fold %%
-- [ ] Unterricht Montag vorbereiten %% fold %%
+- [ ] Unterricht Montag vorbereiten
 	- [ ] Plan bis zur ersten Klausur vorbereiten das den Leuten zeigen 
 		- [ ] was wird erwartet bzw was ist der Plan 
 	- [ ] Vorstellungsrunde 
