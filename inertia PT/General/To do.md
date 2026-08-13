@@ -136,6 +136,7 @@
 - [ ] bis Freitag in die Mathe-Wettbewerb Aufgaben schauen 
 - [ ] Kaffeemaschine Brühgruppe
 - [ ] Fußnägel 
+- [ ] balkon gießen
 - [ ] Entschuldigung Ismail einscannen 
 - [ ] mathe info blatt
 	- [ ] Zahlenstrahl 
