@@ -28,7 +28,12 @@ $\mathbb{N}_{0}=\left\{ 0,1,2,3,\dots \right\}=\mathbb{N}\cup \{0\}$
 
 ## Ganze Zahlen $\mathbb{Z}$
 
-Die ganzen Zahlen ergänzen die natürlichen Zahlen um die negativen natürlichen Zahlen inklusive der Null. Sie sind die Vereinigung der negativen Zahlen mit den natürlichen 
+Die ganzen Zahlen ergänzen die natürlichen Zahlen um die negativen natürlichen Zahlen inklusive der Null. 
+$$
+\mathbb{Z} = -\mathbb{N} \cup \mathbb{N}_{0}
+$$
+
+Sie sind die Vereinigung der negativen natürlichen Zahlen $-\mathbb{N}$ mit den die Null enthaltenden natürlichen Zahlen $$
 
 ## Rationale Zahlen $\mathbb{Q}$
 
