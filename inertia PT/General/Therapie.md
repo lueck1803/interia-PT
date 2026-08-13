@@ -283,6 +283,7 @@ flowchart TB
 	- ⤷ Sie nimmt mich nicht in Schutz 
 
 # Tagebuch?
+## 2026-08-13 Nachricht an
 
 ## 2026-08-09
 Ich hab immer noch das Bedürfnis mich bei Arooj zu entschuldigen, ich fühle mich immer noch phasenweise schmutzig, schuldig und schädlich weil ich so traurig/depressiv, durcheinander und zerstreut war.
