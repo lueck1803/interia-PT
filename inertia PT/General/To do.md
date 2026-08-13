@@ -161,7 +161,7 @@
 	- [ ] Decken
 	- [ ] saugen
 	- [ ] Kissenbezug 
-- [ ] flasche spülen
+- [x] flasche spülen
 - [x] Tanktops anprobieren 
 - [ ] beim board ausprobieren die Expander anzubringen 
 - [ ] liste für anna Lauer machen was ich gemacht habe 
