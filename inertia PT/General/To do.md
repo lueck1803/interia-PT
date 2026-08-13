@@ -154,9 +154,9 @@
 	- [x] Zahnpasta leer
 	- [x] neue Zahnbürste 
 - [x] Kaffeemaschine Brühgruppe
-- [ ] Wäsche
+- [x] Wäsche
 	- [x] schleudern 
-	- [ ] aufhängen 
+	- [x] aufhängen 
 - [ ] Lochkamera neu
 	- [ ] ausrechnen wie groß das Bild sein soll
 - [x] Fußnägel 
