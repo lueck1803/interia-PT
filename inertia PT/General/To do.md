@@ -135,7 +135,7 @@
 - [x] Balkonpflanzen gießen
 - [ ] bis Freitag in die Mathe-Wettbewerb Aufgaben schauen 
 - [ ] Kaffeemaschine Brühgruppe
-- [ ] fußn
+- [ ] Fußnägel 
 - [ ] Dampfdruckkochtopf spülen 
 - [ ] unbedingt Staubsaugen
 - [x] Lochkamera mit Chipsdose bauen ✅ 2026-08-12

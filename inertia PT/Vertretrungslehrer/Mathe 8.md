@@ -65,6 +65,7 @@ Addition, Subtraktion, Multiplikation und Division von Brüchen an schreiben
 - 6/18 vs 9/27
 - 9/12 vs 
 
+- 
 
 ___
 
