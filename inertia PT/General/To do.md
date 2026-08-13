@@ -137,6 +137,10 @@
 - [ ] Kaffeemaschine Brühgruppe
 - [ ] Fußnägel 
 - [ ] balkon gießen
+- [ ] aldi
+	- [ ] Dosenchips
+	- [ ] Unterhemden 
+- [ ] Äpfel wa
 - [ ] Entschuldigung Ismail einscannen 
 - [ ] mathe info blatt
 	- [ ] Zahlenstrahl 
