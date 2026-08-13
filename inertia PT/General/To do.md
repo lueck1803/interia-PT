@@ -136,7 +136,7 @@
 - [ ] bis Freitag in die Mathe-Wettbewerb Aufgaben schauen 
 - [ ] Kaffeemaschine Brühgruppe
 - [ ] Fußnägel 
-- [ ] Waschbecken 
+- [ ] Waschbecken bad
 - [ ] Tanktops anprobieren 
 - [ ] beim board ausprobieren die Expander anzubringen 
 - [ ] liste für anna Lauer machen was ich gemacht habe 
