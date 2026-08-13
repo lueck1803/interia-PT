@@ -136,7 +136,7 @@
 - [ ] bis Freitag in die Mathe-Wettbewerb Aufgaben schauen 
 - [x] Kaffeemaschine Brühgruppe
 - [ ] Lochkamera neu
-	- [ ] ausrechnen wie groß das Bild
+	- [ ] ausrechnen wie groß das Bild sein soll
 - [ ] Fußnägel 
 - [ ] Waschbecken
 	- [ ] bad
