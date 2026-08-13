@@ -189,7 +189,7 @@
 	- [ ] Bruchrechnung - Rechenregeln 
 - [x] Dampfdruckkochtopf spülen 
 - [x] unbedingt Staubsaugen
-	- [ ] Eingang nicht vergessen 
+	- [x] Eingang nicht vergessen 
 - [x] Lochkamera mit Chipsdose bauen ✅ 2026-08-12
 	- [x] Aldi ✅ 2026-08-12
 	- [x] pfand
