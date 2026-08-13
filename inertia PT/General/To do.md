@@ -136,6 +136,15 @@
 - [ ] bis Freitag in die Mathe-Wettbewerb Aufgaben schauen 
 - [ ] Kaffeemaschine Brühgruppe
 - [ ] Fußnägel 
+- [ ] mathe info blatt
+	- [ ] Zahlenstrahl 
+		- [ ] N
+		- [ ] Z
+		- [ ] Q
+	- [ ] Q als Menge 
+	- [ ] Mengelehre
+	- [ ] teilen durch null erklärt 
+	- [ ] Bruchrechnung - Rechenregeln 
 - [ ] Dampfdruckkochtopf spülen 
 - [ ] unbedingt Staubsaugen
 - [x] Lochkamera mit Chipsdose bauen ✅ 2026-08-12
