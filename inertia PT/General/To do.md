@@ -144,12 +144,12 @@
 	- [ ] Herleitung 
 - [ ] Bretter spülen 
 - [ ] Kaffeemaschine front putzen 
-- [ ] Zähne nochmal ausgiebig putzen 
-	- [ ] Zahnpasta leer
-	- [ ] neue Zahnbürste 
+- [x] Zähne nochmal ausgiebig putzen 
+	- [x] Zahnpasta leer
+	- [x] neue Zahnbürste 
 - [x] Kaffeemaschine Brühgruppe
 - [ ] Wäsche
-	- [ ] schleudern 
+	- [x] schleudern 
 	- [ ] aufhängen 
 - [ ] Lochkamera neu
 	- [ ] ausrechnen wie groß das Bild sein soll
