@@ -134,7 +134,9 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - [x] Balkonpflanzen gießen
 - [ ] bis Freitag in die Mathe-Wettbewerb Aufgaben schauen 
-- [ ] Kaffeemaschine Brühgruppe
+- [x] Kaffeemaschine Brühgruppe
+- [ ] Lochkamera neu
+	- [ ] ausrechnen wie groß das Bild
 - [ ] Fußnägel 
 - [ ] Waschbecken
 	- [ ] bad
