@@ -136,6 +136,7 @@
 - [ ] bis Freitag in die Mathe-Wettbewerb Aufgaben schauen 
 - [ ] Nudeln mit Linsen essen 
 - [ ] Muskateller Salbei Samen abtrennen und in eine Dose 
+- [ ] <font color="#48d1cc">Aufgaben aus dem Buch zusammenstellen</font> für 5a zusammenstellen 
 - [x] Spülmaschine anstellen 
 - [ ] wie heißt der der mir seine Fotos von der Sonnenfinsternis gezeigt hat
 	- [ ] Klassenliste 8d schauen 

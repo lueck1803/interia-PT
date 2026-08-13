@@ -29,4 +29,4 @@
 
 - Rechenaufgaben zur schriftlichen Addition, Multiplikation, Division und Subtraktion. Und zwar durcheinander.
 	- sollen sie auf nem Blatt rechnen oder wenn das Heft schon da ist darein.
-	- 
+	- <font color="#48d1cc">Aufgaben aus dem Buch zusammenstellen</font>
