@@ -136,7 +136,8 @@
 - [ ] bis Freitag in die Mathe-Wettbewerb Aufgaben schauen 
 - [ ] Kaffeemaschine Brühgruppe
 - [ ] Fußnägel 
-- [ ] liste für anna Laur
+- [ ] liste für anna Lauer machen was ich gemacht habe 
+	- [ ] PDF mit dem Zahlenstrahl 
 - [ ] balkon gießen
 - [ ] aldi
 	- [ ] Dosenchips
