@@ -283,7 +283,18 @@ flowchart TB
 	- ⤷ Sie nimmt mich nicht in Schutz 
 
 # Tagebuch?
-## 2026-08-13 Nachricht an
+## 2026-08-13 Nachricht an Ansia 
+Zur Info: ich hab ADHS und weiß das erst seit 2 Jahren. 
+Ich bin da noch intensiv im Prozess da besser mit meiner Energie zu haushalten. 
+
+Ich hab daher auch gute Einblicke darüber wie es den Kindern mit ADHS geht, wie sinnvoll es ist zu wissen was an einem anders ist und von möglichst früh an Strategien zu lernen damit umzugehen. 
+
+Viele der Strategien habe ich als Kind in deren Alter mir von selbst angeeignet, da ich gemerkt habe, dass es nicht anders geht. 
+Dass ich die trotz Aussagen anderer so umgesetzt habe, war ein Glück.
+In anderen Feldern konnte ich das dann nicht.
+Es ist daher sehr gut zu wissen, dass es gute Gründe für gewisse Strategien gibt, eine Diagnose hilft dann selbstbewusst dahinter zu stehen und sie eröffnet ein großes Feld an Möglichkeiten neue Strategien zu erlernen. 
+
+Bei mir hat es irgendwann angefangen dass die Summe an Punkten und Ereignissen anders zu sein, mich fertig gemacht hat und ich daran zerbrochen bin. 
 
 ## 2026-08-09
 Ich hab immer noch das Bedürfnis mich bei Arooj zu entschuldigen, ich fühle mich immer noch phasenweise schmutzig, schuldig und schädlich weil ich so traurig/depressiv, durcheinander und zerstreut war.
