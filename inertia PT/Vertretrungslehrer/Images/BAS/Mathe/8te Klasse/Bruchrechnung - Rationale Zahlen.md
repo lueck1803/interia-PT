@@ -22,3 +22,7 @@ $\mathbb{N}_{0}=\left\{ 0,1,2,3,\dots \right\}=\mathbb{N}\cup \{0\}$
 		- vier Birnen und fünf Äpfel sind neun Früchte
 		- Ich gehe drei mal in der Woche zum Sport. Somit gehe ich im Monat, da dieser vier Wochen hat,  zwölf mal zum Sport (vier mal drei). 
 ![[../../../../../../Pasted image 20260813231740.png|Teilmengendarstellung der Zahlensystem. <br> Quelle: https://de.wikipedia.org/wiki/Nat%C3%BCrliche_Zahl#/media/Datei:Number-systems.svg]]
+
+$$
+\mathbb{Q}=\left\{ \frac{p}{q}:p,q\in\mathbb{Z} \text{ und } q\ne 0 \right\} 
+$$
