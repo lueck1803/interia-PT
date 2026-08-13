@@ -136,6 +136,7 @@
 - [ ] bis Freitag in die Mathe-Wettbewerb Aufgaben schauen 
 - [ ] Nudeln mit Linsen essen 
 - [ ] Muskateller Salbei Samen abtrennen und in eine Dose 
+- [ ] Spülmaschine anstellen 
 - [ ] Zähne nochmal ausgiebig putzen 
 	- [ ] Zahnpasta leer
 	- [ ] neue Zahnbürste 
