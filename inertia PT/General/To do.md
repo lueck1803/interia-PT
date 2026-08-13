@@ -146,13 +146,13 @@
 - [x] Bretter spülen 
 - [x] Kaffeemaschine front putzen 
 - [ ] wischen 
-- [ ] 5a note anlegen 
+- [x] 5a note anlegen 
 - [x] Zähne nochmal ausgiebig putzen 
 	- [x] Zahnpasta leer
 	- [x] neue Zahnbürste 
 - [x] Kaffeemaschine Brühgruppe
 - [ ] Wäsche
-	- [ ] schleudern 
+	- [x] schleudern 
 	- [ ] aufhängen 
 - [ ] Lochkamera neu
 	- [ ] ausrechnen wie groß das Bild sein soll
