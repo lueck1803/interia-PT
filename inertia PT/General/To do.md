@@ -136,6 +136,7 @@
 - [ ] bis Freitag in die Mathe-Wettbewerb Aufgaben schauen 
 - [ ] Kaffeemaschine Brühgruppe
 - [ ] Fußnägel 
+- [ ] tabkt
 - [ ] beim board ausprobieren die Expander anzubringen 
 - [ ] liste für anna Lauer machen was ich gemacht habe 
 	- [ ] PDF mit dem Zahlenstrahl 
@@ -156,7 +157,7 @@
 	- [ ] Bruchrechnung - Rechenregeln 
 - [ ] Dampfdruckkochtopf spülen 
 - [ ] unbedingt Staubsaugen
-	- [ ] 
+	- [ ] Eingang nicht vergessen 
 - [x] Lochkamera mit Chipsdose bauen ✅ 2026-08-12
 	- [x] Aldi ✅ 2026-08-12
 	- [x] pfand
