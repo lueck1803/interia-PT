@@ -142,7 +142,7 @@
 - [ ] Strahlensatz
 	- [ ] wann kommt er dran?
 	- [ ] Herleitung 
-- [ ] Bretter spülen 
+- [x] Bretter spülen 
 - [ ] Kaffeemaschine front putzen 
 - [ ] wischen 
 - [ ] 5a note anlegen 
@@ -155,12 +155,12 @@
 	- [ ] aufhängen 
 - [ ] Lochkamera neu
 	- [ ] ausrechnen wie groß das Bild sein soll
-- [ ] Fußnägel 
+- [x] Fußnägel 
 - [ ] Waschbecken
 	- [ ] bad
 	- [ ] Küche 
 - [ ]  sofa
-	- [ ] Decken
+	- [x] Decken
 	- [ ] saugen
 	- [ ] Kissenbezug 
 - [x] flasche spülen
@@ -169,9 +169,9 @@
 - [ ] liste für anna Lauer machen was ich gemacht habe 
 	- [ ] PDF mit dem Zahlenstrahl 
 - [ ] balkon gießen
-- [ ] aldi
-	- [ ] Dosenchips
-	- [ ] Unterhemden 
+- [x] aldi
+	- [x] Dosenchips
+	- [x] Unterhemden 
 - [ ] Äpfel waschen 
 - [ ] Entschuldigung Ismail einscannen 
 - [ ] mathe info blatt
@@ -183,8 +183,8 @@
 	- [ ] Mengelehre
 	- [ ] teilen durch null erklärt 
 	- [ ] Bruchrechnung - Rechenregeln 
-- [ ] Dampfdruckkochtopf spülen 
-- [ ] unbedingt Staubsaugen
+- [x] Dampfdruckkochtopf spülen 
+- [x] unbedingt Staubsaugen
 	- [ ] Eingang nicht vergessen 
 - [x] Lochkamera mit Chipsdose bauen ✅ 2026-08-12
 	- [x] Aldi ✅ 2026-08-12
