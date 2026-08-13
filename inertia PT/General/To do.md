@@ -137,6 +137,11 @@
 - [ ] Nudeln mit Linsen essen 
 - [ ] Muskateller Salbei Samen abtrennen und in eine Dose 
 - [x] Spülmaschine anstellen 
+- [ ] wie heißt der der mir seine Fotos von der Sonnenfinsternis gezeigt hat
+	- [ ] Klassenliste 8d schauen 
+- [ ] Strahlensatz
+	- [ ] wann kommt er dran?
+	- [ ] Herleitung 
 - [ ] Bretter spülen 
 - [ ] Kaffeemaschine front putzen 
 - [ ] Zähne nochmal ausgiebig putzen 
