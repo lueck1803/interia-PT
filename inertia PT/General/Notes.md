@@ -103,6 +103,8 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+## 2026-08-13 ansia
+Du sagst es interessiert dich, aber im Endeffekt ist auch belastend und ich glaube du kennst da vielleicht deine Grenzen nicht.
 
 ## 2026-07-27 flo
 ## Ah also wurde sie jetzt doch aktiv zerstört oder meinst du die "Nachbarbibliothek" von der Andrej spricht?
@@ -2055,7 +2057,7 @@ Meine Fragen dazu sind:
 - 
 # Tage infolge Produktiv
 Tage produktiv gewesen:
-||||\ ||||\ ||||\
+||||\ ||||\ ||||\ |
 
 
 
