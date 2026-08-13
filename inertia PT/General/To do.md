@@ -139,7 +139,7 @@
 - [ ] Waschbecken
 	- [ ] bad
 	- [ ] Küche 
-- [ ] 
+- [ ] Decken sofa
 - [ ] flasche spülen
 - [ ] Tanktops anprobieren 
 - [ ] beim board ausprobieren die Expander anzubringen 
