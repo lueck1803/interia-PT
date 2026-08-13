@@ -297,7 +297,8 @@
 		- [ ] ja definitiv  %% fold %%
 - [ ] fraught Stakkato 
 - [x] Spülmaschine ausräumen 
-	- die läuft etwa ne 1,5 h
+	- die läuft etwa ne 1,5 h etwa 5 min mehr
+	- save ist daher als timer 1h 40 min
 - [ ] tipler srt
 - [ ] Kursplan für 7 Wochen  %% fold %%
 	- [ ] 8 te Klasse Physik  %% fold %%
