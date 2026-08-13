@@ -279,7 +279,7 @@
 - [ ] warum schaltet sich immer die neu installierten plugins aus
 - [x] Duolingo
 - [ ] Kette fetten cityrad %% fold %%
-- [ ] mit Frau Mair und Herren Stühlinger sprechen wegen mathe 5.
+- [ ] mit Frau Mair und Herren Stühlinger sprechen wegen mathe 5. %% fold %%
 	- [ ] tipps holen 
 	- [ ] Unterrichtsstruktur  %% fold %%
 - [ ] Stühlinger  %% fold %%
