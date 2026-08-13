@@ -137,6 +137,8 @@
 - [ ] Nudeln mit Linsen essen 
 - [ ] Muskateller Salbei Samen abtrennen und in eine Dose 
 - [ ] Spülmaschine anstellen 
+- [ ] Bretter spülen 
+- [ ] Kaffeemaschine fron
 - [ ] Zähne nochmal ausgiebig putzen 
 	- [ ] Zahnpasta leer
 	- [ ] neue Zahnbürste 
