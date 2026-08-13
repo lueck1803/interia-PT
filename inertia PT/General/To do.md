@@ -143,7 +143,7 @@
 	- [ ] wann kommt er dran?
 	- [ ] Herleitung 
 - [x] Bretter spülen 
-- [ ] Kaffeemaschine front putzen 
+- [x] Kaffeemaschine front putzen 
 - [ ] wischen 
 - [ ] 5a note anlegen 
 - [x] Zähne nochmal ausgiebig putzen 
@@ -173,7 +173,7 @@
 	- [x] Dosenchips
 	- [x] Unterhemden 
 - [ ] Äpfel waschen 
-- [ ] Entschuldigung Ismail einscannen 
+- [x] Entschuldigung Ismail einscannen 
 - [ ] mathe info blatt
 	- [ ] Zahlenstrahl 
 		- [ ] N
