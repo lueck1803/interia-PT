@@ -132,10 +132,8 @@
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
-- [x] Balkonpflanzen gießen
-- [x] Tastatur wischen
-	- [x] pc + Maus
-	- [x] laptop
+- [ ] Balkonpflanzen gießen
+- [ ] Duolingo
 - [ ] bis Freitag in die Mathe-Wettbewerb Aufgaben schauen 
 - [ ] Nudeln mit Linsen essen 
 - [ ] Muskateller Salbei Samen abtrennen und in eine Dose 
@@ -146,20 +144,9 @@
 - [ ] Strahlensatz
 	- [ ] wann kommt er dran?
 	- [ ] Herleitung 
-- [x] Bretter spülen 
-- [x] Kaffeemaschine front putzen 
 - [ ] wischen 
-- [x] 5a note anlegen 
-- [x] Zähne nochmal ausgiebig putzen 
-	- [x] Zahnpasta leer
-	- [x] neue Zahnbürste 
-- [x] Kaffeemaschine Brühgruppe
-- [x] Wäsche
-	- [x] schleudern 
-	- [x] aufhängen 
 - [ ] Lochkamera neu
 	- [ ] ausrechnen wie groß das Bild sein soll
-- [x] Fußnägel 
 - [ ] Waschbecken
 	- [ ] bad
 	- [ ] Küche 
@@ -167,17 +154,11 @@
 	- [x] Decken
 	- [ ] saugen
 	- [ ] Kissenbezug 
-- [x] flasche spülen
-- [x] Tanktops anprobieren 
 - [ ] beim board ausprobieren die Expander anzubringen 
 - [ ] liste für anna Lauer machen was ich gemacht habe 
 	- [ ] PDF mit dem Zahlenstrahl 
 - [ ] balkon gießen
-- [x] aldi
-	- [x] Dosenchips
-	- [x] Unterhemden 
 - [ ] Äpfel waschen 
-- [x] Entschuldigung Ismail einscannen 
 - [ ] mathe info blatt
 	- [ ] Zahlenstrahl 
 		- [ ] N
@@ -187,18 +168,6 @@
 	- [ ] Mengelehre
 	- [ ] teilen durch null erklärt 
 	- [ ] Bruchrechnung - Rechenregeln 
-- [x] Dampfdruckkochtopf spülen 
-- [x] unbedingt Staubsaugen
-	- [x] Eingang nicht vergessen 
-- [x] Lochkamera mit Chipsdose bauen ✅ 2026-08-12
-	- [x] Aldi ✅ 2026-08-12
-	- [x] pfand
-	- [ ] gelber Sack
-	- [x] fahrradkette
-	- [x] Chips in dose kaufen ✅ 2026-08-12
-	- [x] pauspapier verwenden ✅ 2026-08-12
-	- [ ] ⤷die Bildweite war zu klein dementsprechend war die Sonne auf der Mattscheibe zu klein 
-- [x] laptop aus machen
 - [ ] bastelkram weg packen
 - [x] kursmappe
 	- [x] p 8b
@@ -209,10 +178,8 @@
 	- [ ] Mathe-Wettbewerb wann und was sind die Themen?
 	- [ ] sitzplan 8a fotografieren 
 	- [ ] Arbeitsblatt 
-- [x] Lochkamera bauen ✅ 2026-08-12
 - [ ] Tesa abroller schärfen 
 - [ ] Apfelschneider mit Feilen schärfen 
-- [x] Klassenliste p 8d 
 - [x] <font color="#daa520">Nachname von Saif </font> ✅ 2026-08-12
 	- [x] ⤷ steht auf dem Zettel?
 	- [ ] khtib bzw. khatib
@@ -220,19 +187,9 @@
 - [ ] Arbeitsblatt mit Radtour erstellen
 - [ ] Zähne putzen
 - [ ] Gesicht waschen
-- [x] Zeug für morgen einpacken
-	- [x] laptop
-	- [x] gelben hefter
-	- [x] denksport physik
 
 
 
-- [x] Sonnenfinsternis 
-	- [x] Wann? 
-		- [x] 19 Uhr 89%
-	- [x] kann man durch eine Rettungsdecke die sich anschauen?
-	- [x] heute auch höhepunkt des jährlichen Perseiden Meteorstroms
-	- [x] star chart am mac ausprobieren
 - [ ] Bettwäsche wechseln 
 - [ ] Minitafel für Klo Liste 
 
@@ -273,17 +230,16 @@
 	- [ ] Formel für arithmetisches mittel an die Tafel schreiben mit Erklärung der einzelnen Komponenten 
 		- [ ] wie geht nochmal das arithmetische Mittel 
 	- [ ] Brüche wiederholen 
-		- [ ] zahlen Strahl im vergleich zu N und Z
-		- [ ] Brüche anordnen
+		- [ ] zahlen Strahl im vergleich zu N und Z %% fold %%
+		- [ ] Brüche anordnen %% fold %%
 		- [ ] die vier rechen Arten
-	- [ ] prozent
+	- [ ] prozent %% fold %%
 	- [ ] Dazu aufgaben aus dem Buch oder selbst welche finden und ausdenken
-
-- [ ] warum schaltet sich immer die neu installierten plugins aus
-- [x] Duolingo
+ %% fold %%
+- [ ] warum schaltet sich immer die neu installierten plugins aus %% fold %%
 - [ ] Kette fetten cityrad %% fold %%
 - [ ] mit Frau Mair und Herren Stühlinger sprechen wegen mathe 5. %% fold %%
-	- [ ] tipps holen 
+	- [ ] tipps holen  %% fold %%
 	- [ ] Unterrichtsstruktur  %% fold %%
 - [ ] Stühlinger  %% fold %%
 	- [ ] Grundrechenarten massiv wiederholen  %% fold %%
