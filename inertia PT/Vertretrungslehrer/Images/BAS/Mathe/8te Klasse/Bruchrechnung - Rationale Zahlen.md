@@ -1,4 +1,4 @@
-# Zahlenstrahl - 
+# Zahlenstrahl 
 
 ## Natürliche Zahlen
 Das Mengensymbol der natürlichen Zahlen lautet $\mathbb{N}$, also ein N mit einem zweiten Strich an der Diagonalen.
