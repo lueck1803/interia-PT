@@ -132,10 +132,11 @@
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
-- [ ] Balkonpflanzen gießen
-- [ ] Duolingo
+- [x] Balkonpflanzen gießen
+	- [ ] aber ein zweites mal notwendig
+- [x] Duolingo
 - [ ] bis Freitag in die Mathe-Wettbewerb Aufgaben schauen 
-- [ ] Nudeln mit Linsen essen 
+- [x] Nudeln mit Linsen essen 
 - [ ] Muskateller Salbei Samen abtrennen und in eine Dose 
 - [ ] <font color="#48d1cc">Aufgaben aus dem Buch zusammenstellen</font> für 5a zusammenstellen 
 - [ ] Spülmaschine ausräumen
@@ -174,7 +175,7 @@
 	- [x] p 10b
 	- [x] p 10a
 	- [ ] m 8b
-		- [ ] Ismail als entschuldigt eintragen
+		- [x] Ismail als entschuldigt eintragen
 - [ ] Unterricht für M 8a vorbereiten
 	- [ ] Mathe-Wettbewerb wann und was sind die Themen?
 	- [ ] sitzplan 8a fotografieren 
