@@ -135,6 +135,9 @@
 - [x] Balkonpflanzen gießen
 - [ ] bis Freitag in die Mathe-Wettbewerb Aufgaben schauen 
 - [x] Kaffeemaschine Brühgruppe
+- [ ] Wäsche
+	- [ ] schleudern 
+	- [ ] aufhängen 
 - [ ] Lochkamera neu
 	- [ ] ausrechnen wie groß das Bild sein soll
 - [ ] Fußnägel 
