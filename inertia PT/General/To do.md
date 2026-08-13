@@ -133,9 +133,9 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - [x] Balkonpflanzen gießen
-- [ ] Tastatur wischen
-	- [ ] pc + Maus
-	- [ ] laptop
+- [x] Tastatur wischen
+	- [x] pc + Maus
+	- [x] laptop
 - [ ] bis Freitag in die Mathe-Wettbewerb Aufgaben schauen 
 - [ ] Nudeln mit Linsen essen 
 - [ ] Muskateller Salbei Samen abtrennen und in eine Dose 
