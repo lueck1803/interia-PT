@@ -48,6 +48,9 @@ $$
 	- $\ne \infty$ ⟹ $\infty \cdot 0 \ne 1$, denn $\infty \cdot 0 = 0$
 	- Die Division ist die Umkehroperation der Multiplikation. Die Umkehrprobe muss wieder auf die ursprüngliche Zahl zurückführen.
 
+> [!caution] Achtung
+> Teilen durch $0$ ist <u>nicht definiert</u>!
+> 
 
 
 # Aufgaben
