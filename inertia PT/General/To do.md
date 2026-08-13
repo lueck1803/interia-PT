@@ -162,7 +162,7 @@
 	- [ ] saugen
 	- [ ] Kissenbezug 
 - [ ] flasche spülen
-- [ ] Tanktops anprobieren 
+- [x] Tanktops anprobieren 
 - [ ] beim board ausprobieren die Expander anzubringen 
 - [ ] liste für anna Lauer machen was ich gemacht habe 
 	- [ ] PDF mit dem Zahlenstrahl 
