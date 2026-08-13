@@ -24,4 +24,9 @@
 	- ich gehe nicht davon aus, dass ihr alles könnt und ihr müsst auch nicht alles können
 	- niemand lacht über andere
 	- sagt was ihr denkt und lasst euch nicht von anderen beeinflussen, insbesondere wenn ihr nicht versteht warum.
-	- ich will von keinem hören er hat es verstanden, nur um seine Ruhe zu haben. sei
+	- ich will von keinem hören er hat es verstanden, nur um seine Ruhe zu haben. seid ehrlich, wenn ihr es nicht verstanden habt. Und lasst bzw. gebt euch Zeit, wenn ihr es nicht verstanden habt. macht euch keinen Druck. sehr häufig versteht man Dinge erst beim zweiten und beim dritten mal. wichtig ist, dass ihr nicht aufgebt und Strategien entwickelt etwas besser zu machen
+
+
+- Rechenaufgaben zur schriftlichen Addition, Multiplikation, Division und Subtraktion. Und zwar durcheinander.
+	- sollen sie auf nem Blatt rechnen oder wenn das Heft schon da ist darein.
+	- 
