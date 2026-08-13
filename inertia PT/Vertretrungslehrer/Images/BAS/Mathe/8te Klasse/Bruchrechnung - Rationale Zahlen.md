@@ -2,7 +2,11 @@
 
 ## Natürliche Zahlen
 Das Mengensymbol der natürlichen Zahlen lautet $\mathbb{N}$, also ein N mit einem zweiten Strich an der Diagonalen.
-Die natürlichen Zahlen 
+Die unter den natürlichen Zahlen werden in der Regel die positiven ganzen Zahlen ohne die $0$ verstanden. Das ist je nach Definition aber unterschiedlich.
+
+$\mathbb{N}=\left\{ 1,2,3,\dots{} \right\}$
+$\mathbb{N}_{0}=\left\{ 0,1,2,3,\dots \right\}=\mathbb{N}\cup \{0\}$  
+
 - Warum werden sie als <font color="#ff69b4">natürliche Zahlen</font> bezeichnet? 
 	- natürlich im Sinne ihrer intuitiven Verwendung, wie man es von Kind an lernt mit Zahlen um zugehen und im täglichen sprachlichen Umgang. Es ist die Verwendung von Zahlen für die man ein natürliches Gefühl hat, ohne je etwas mit Mathematik zu tun zu haben und selbst wenn einem gar nicht bei gebracht würde.
 	- Verwendung beim <u>Zählen</u>
