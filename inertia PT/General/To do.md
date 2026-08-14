@@ -132,19 +132,33 @@
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
-- [x] Balkonpflanzen gießen
-	- [ ] aber ein zweites mal notwendig
+- <font color="#00b0f0">den Vertretungsplan checken</font>
+- saif khatib
+- [x] balkon gießen
+- [ ] Nudeln kochen 
+- [ ] carnivorenwasser auffüllen 
+- [ ] Kanonenfieber ist gestrichen 
+- [ ] solo 
+	- [ ] black Waltz (rythm)
+	- [ ] are you dead yet 
+- [ ] bodom beach terror anschauen 
+- [ ] Kornelkirschen aus dem Rucksack holen 🫣
 - [ ] <font color="#b088ff">image captions</font> plugin installieren
 	- [ ] mac
 	- [ ] handy
 - [x] Duolingo
 - [ ] bis Freitag in die Mathe-Wettbewerb Aufgaben schauen 
+	- [ ] die Liste von Mia anschauen 
+	- [ ] Vergleich mit was ich im Internet finde
+	- [ ] 15 min Montag für Mathe-Wettbewerb nutzen
+	- [ ] Mathe-Wettbewerb ist im November 
 - [x] Nudeln mit Linsen essen 
 - [ ] Muskateller Salbei Samen abtrennen und in eine Dose 
 - [ ] <font color="#48d1cc">Aufgaben aus dem Buch zusammenstellen</font> für 5a zusammenstellen 
 - [ ] Spülmaschine ausräumen
 - [ ] wie heißt der der mir seine Fotos von der Sonnenfinsternis gezeigt hat
 	- [ ] Klassenliste 8d schauen 
+	- [ ] Julian 
 - [ ] Strahlensatz
 	- [ ] wann kommt er dran?
 	- [ ] Herleitung 
@@ -161,8 +175,7 @@
 - [ ] beim board ausprobieren die Expander anzubringen 
 - [ ] liste für anna Lauer machen was ich gemacht habe 
 	- [ ] PDF mit dem Zahlenstrahl 
-- [ ] balkon gießen
-- [ ] Äpfel waschen 
+- [x] Äpfel waschen 
 - [ ] mathe info blatt
 	- [ ] Zahlenstrahl 
 		- [ ] N
@@ -188,6 +201,7 @@
 - [x] <font color="#daa520">Nachname von Saif </font> ✅ 2026-08-12
 	- [x] ⤷ steht auf dem Zettel?
 	- [ ] khtib bzw. khatib
+	- [ ] letzteres
 - [ ] Wie reinigt man eine Wunde?
 - [ ] Arbeitsblatt mit Radtour erstellen
 - [x] Zähne putzen
