@@ -134,6 +134,8 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - [x] Balkonpflanzen gießen
 	- [ ] aber ein zweites mal notwendig
+- [ ] balkon gießen
+- [ ] 
 - [ ] <font color="#b088ff">image captions</font> plugin installieren
 	- [ ] mac
 	- [ ] handy
@@ -161,8 +163,7 @@
 - [ ] beim board ausprobieren die Expander anzubringen 
 - [ ] liste für anna Lauer machen was ich gemacht habe 
 	- [ ] PDF mit dem Zahlenstrahl 
-- [ ] balkon gießen
-- [ ] Äpfel waschen 
+- [x] Äpfel waschen 
 - [ ] mathe info blatt
 	- [ ] Zahlenstrahl 
 		- [ ] N
