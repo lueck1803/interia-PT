@@ -139,6 +139,7 @@
 - [ ] solo 
 	- [ ] black Waltz (rythm)
 	- [ ] are you dead yet 
+- [ ] bodom beach terror anschauen 
 - [ ] Kornelkirschen aus dem Rucksack holen 🫣
 - [ ] <font color="#b088ff">image captions</font> plugin installieren
 	- [ ] mac
