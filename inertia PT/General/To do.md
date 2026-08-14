@@ -137,7 +137,6 @@
 - [x] balkon gießen
 - [ ] Nudeln kochen 
 - [x] carnivorenwasser auffüllen 
-- [ ] $\mathbf{N}$
 - [ ] solo 
 	- [ ] black Waltz (rythm)
 	- [ ] are you dead yet 
