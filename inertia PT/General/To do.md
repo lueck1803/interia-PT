@@ -142,7 +142,9 @@
 - [x] Duolingo
 - [ ] bis Freitag in die Mathe-Wettbewerb Aufgaben schauen 
 	- [ ] die Liste von Mia anschauen 
-	- [ ] Vergleich 
+	- [ ] Vergleich mit was ich im Internet finde
+	- [ ] 15 min Montag für Mathe-Wettbewerb nutzen
+	- [ ] Mathe-Wettbewerb ist im November 
 - [x] Nudeln mit Linsen essen 
 - [ ] Muskateller Salbei Samen abtrennen und in eine Dose 
 - [ ] <font color="#48d1cc">Aufgaben aus dem Buch zusammenstellen</font> für 5a zusammenstellen 
