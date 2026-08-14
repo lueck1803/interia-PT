@@ -45,7 +45,9 @@ Addition, Subtraktion, Multiplikation und Division von Brüchen an schreiben
 - [ ] 632 : 19 =33.26
 - [ ] <font color="#ff69b4">632/18=35</font>
 	- [ ] Also hatte ich mit dem Verfahren doch recht! das Ergebnis liegt erstaunlich nahe am richtigen Wert!
-2026-08-14
+## 2026-08-14
+teilen durch null müssen wir noch machen
+
 # <font color="#b088ff">8b</font> Güldener, Nicole Kirsten (gld)
 
 ## 2026-08-12
