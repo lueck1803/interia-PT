@@ -273,9 +273,9 @@ B3Rnh@Rd
 		-  $\pi=\frac{U}{d}=\frac{U}{2r}$
 	- Fläche? %% fold %%
 		- quadrat und darin Kreis zeichnen  %% fold %%
-		- ![[../Vertretrungslehrer/Images/BAS/Mathe/01_Pi-Definition_mittels_Flächeninhalt.svg.png]]
+		- ![[Mathe/01_Pi-Definition_mittels_Flächeninhalt.svg.png]]
 		- $\frac{A_{\text{Quadrat}}}{A_{\text{Kreis}}}=\frac{(2r)^{2}}{A_{\text{Kreis}}}=\frac{(2r)^{2}}{k \cdot r^2}=\frac{4 \cancel{r^2}}{k \cdot \cancel{r^2}}=\frac{4}{k}$ und $k$ nennen wir in Folge $\pi$
-		  - ![[Images/BAS/Mathe/Area_of_a_circle.png]]
+		  - ![[Mathe/Area_of_a_circle.png]]
 		- Wie ~={DeepSkyBlue}lang=~ ist das ~={Gold}Rechteck=~?
 		- meine Messung: 2 * 12 +7,05=3,15
 #### mo 15.6
@@ -341,11 +341,11 @@ $$ Fragen was nicht verstanden wurde
 			- ⟹ zusammen setzen und Fläche des Rechtecks ausrechnen
 			- ⟹~={LimeGreen}oder=~ den Flächeninhalt eines Dreiecks und dann damit den halben Flächeninhalt des Kreis bestimmen
 		- Wie ~={DeepSkyBlue}lang=~ ist das ~={Gold}Rechteck=~? %% fold %%
-	  ![[Images/BAS/Mathe/Area_of_a_circle.png]]
+	  ![[Mathe/Area_of_a_circle.png]]
 		- meine Messung: 2 * 12 +7,05=
 	- Allgemeine Formel für den Kreis?
 		- $\frac{A_{\text{Quadrat}}}{A_{\text{Kreis}}}=\frac{(2r)^{2}}{A_{\text{Kreis}}}=\frac{(2r)^{2}}{k \cdot r^2}=\frac{4 \cancel{r^2}}{k \cdot \cancel{r^2}}=\frac{4}{k}$ und $k$ nennen wir in Folge $\pi$
-		- ![[../Vertretrungslehrer/Images/BAS/Mathe/01_Pi-Definition_mittels_Flächeninhalt.svg.png]]
+		- ![[Mathe/01_Pi-Definition_mittels_Flächeninhalt.svg.png]]
 	
 
 #### fr 12.6.
@@ -353,7 +353,7 @@ Tafelbild Überschrift **Zahlensysteme und Einheiten umrechnen**
 
 - natürliche, ganze zahlen, rationale und reelle zahlen 
 	- Eulerdiagramm der Teilmenge anschreiben 
-	  ![[Images/BAS/Mathe/Eulerdiagramm-Zahlensysteme.png]]
+	  ![[Mathe/Eulerdiagramm-Zahlensysteme.png]]
 	- natürliche Zahlen
 		- Symbol Unterschiedliche Darstellung Handschriftlich / unicode
 		- natürlich im Sinne von
@@ -431,10 +431,10 @@ Tafelbild Überschrift **Zahlensysteme und Einheiten umrechnen**
 		- [ ] was ist $\pi$?
 			- [ ] ~={underline}einfachste=~: Proportionalität zwischen Umfang $U$ und Durchmesser $d$
 			- [ ] $\pi=\frac{U}{d}=\frac{U}{2r}$
-			- ![[../Vertretrungslehrer/Images/BAS/Mathe/Pi-unrolled-720.gif]]
+			- ![[Mathe/Pi-unrolled-720.gif]]
 			- [ ] Vergleich ~={underline}Flächeninhalt=~ eines Kreises mit dem eines Quadrats
 			- [ ] $\frac{4}{\pi}=\frac{A_{\text{Quadrat}}}{A_{\text{Kreis}}}=\frac{r^{2}}{A_{\text{Kreis}}}$
-			- ![[../Vertretrungslehrer/Images/BAS/Mathe/01_Pi-Definition_mittels_Flächeninhalt.svg.png]]
+			- ![[Mathe/01_Pi-Definition_mittels_Flächeninhalt.svg.png]]
 		- [ ] Umfang 
 	- [ ] Quadrat 
 	- [ ] Rechteck 
