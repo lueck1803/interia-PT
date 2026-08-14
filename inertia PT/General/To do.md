@@ -139,11 +139,11 @@
 - [x] carnivorenwasser auffüllen 
 - [ ] solo 
 	- [ ] black Waltz (rythm)
-- [ ] Kornelkirschen aus dem Rucksack holen 🫣
-- [ ] <font color="#b088ff">image captions</font> plugin installieren
-	- [ ] mac
-	- [ ] handy
-- [x] Duolingo
+- [x] Kornelkirschen aus dem Rucksack holen 🫣
+- [x] <font color="#b088ff">image captions</font> plugin installieren
+	- [x] mac
+	- [x] handy
+- [ ] Duolingo
 - [ ] bis Freitag in die Mathe-Wettbewerb Aufgaben schauen 
 	- [ ] die Liste von Mia anschauen 
 	- [ ] Vergleich mit was ich im Internet finde
