@@ -135,12 +135,10 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - saif khatib
 - [x] balkon gießen
-- [ ] Nudeln kochen 
+- [x] Nudeln kochen 
 - [x] carnivorenwasser auffüllen 
 - [ ] solo 
 	- [ ] black Waltz (rythm)
-	- [ ] are you dead yet 
-- [ ] bodom beach terror anschauen 
 - [ ] Kornelkirschen aus dem Rucksack holen 🫣
 - [ ] <font color="#b088ff">image captions</font> plugin installieren
 	- [ ] mac
