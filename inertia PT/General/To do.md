@@ -248,7 +248,7 @@
 - [ ] M 8a 
 	- [ ] Formel für arithmetisches mittel an die Tafel schreiben mit Erklärung der einzelnen Komponenten 
 		- [ ] wie geht nochmal das arithmetische Mittel 
-	- [ ] Brüche wiederholen 
+	- [ ] Brüche wiederholen  %% fold %%
 		- [ ] zahlen Strahl im vergleich zu N und Z %% fold %%
 		- [ ] Brüche anordnen %% fold %%
 		- [ ] die vier rechen Arten
