@@ -141,6 +141,8 @@
 	- [ ] handy
 - [x] Duolingo
 - [ ] bis Freitag in die Mathe-Wettbewerb Aufgaben schauen 
+	- [ ] die Liste von Mia anschauen 
+	- [ ] Vergleich 
 - [x] Nudeln mit Linsen essen 
 - [ ] Muskateller Salbei Samen abtrennen und in eine Dose 
 - [ ] <font color="#48d1cc">Aufgaben aus dem Buch zusammenstellen</font> für 5a zusammenstellen 
