@@ -57,3 +57,4 @@ $$
 - Addition $\frac{a}{b} + \frac{c}{d}= \frac{a}{b}\cdot \frac{d}{d}+ \frac{c}{d}\cdot\frac{b}{b}=\frac{ad}{bd}+ \frac{cb}{db}=\frac{ad+cb}{db}$ 
 - Subtraktion $\frac{a}{b} - \frac{c}{d}= \frac{a}{b}\cdot \frac{d}{d}- \frac{c}{d}\cdot\frac{b}{b}=\frac{ad}{bd}- \frac{cb}{db}=\frac{ad-cb}{db}$ 
 # Aufgaben
+ ![[../../../../../../Pasted image 20260814020608.png]]![[../../../../../../Pasted image 20260814020619.png]]
