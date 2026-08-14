@@ -132,7 +132,8 @@
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
-- den Vertretungsplan che
+- <font color="#00b0f0">den Vertretungsplan checken</font>
+- sa
 - [x] Balkonpflanzen gießen
 	- [ ] aber ein zweites mal notwendig
 - [ ] balkon gießen
