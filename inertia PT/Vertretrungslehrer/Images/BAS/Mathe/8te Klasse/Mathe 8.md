@@ -43,7 +43,7 @@ Addition, Subtraktion, Multiplikation und Division von Brüchen an schreiben
 - [ ] Foto vom Sitzplan 8a Mathe machen
 - [ ] hey ihr habt mich angelogen :P -> ihr wart am Montag nur 18 und nicht 19 Leute:
 - [ ] 632 : 19 =33.26
-- [ ] <font color="#ff69b4">362/18=35</font>
+- [ ] <font color="#ff69b4">632/18=35</font>
 	- [ ] Also hatte ich mit dem Verfahren doch recht! das Ergebnis liegt erstaunlich nahe am richtigen Wert!
 
 # <font color="#b088ff">8b</font> Güldener, Nicole Kirsten (gld)
