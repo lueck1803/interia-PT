@@ -134,9 +134,9 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - saif khatib
-- [x] Balkonpflanzen gießen
-	- [ ] aber ein zweites mal notwendig
-- [ ] balkon gießen
+- [x] balkon gießen
+- [ ] Kanonenfieber ist gestrichen 
+- [ ] sadness and hate üben
 - [ ] Kornelkirschen aus dem Rucksack holen 🫣
 - [ ] <font color="#b088ff">image captions</font> plugin installieren
 	- [ ] mac
@@ -195,6 +195,7 @@
 - [x] <font color="#daa520">Nachname von Saif </font> ✅ 2026-08-12
 	- [x] ⤷ steht auf dem Zettel?
 	- [ ] khtib bzw. khatib
+	- [ ] letzteres
 - [ ] Wie reinigt man eine Wunde?
 - [ ] Arbeitsblatt mit Radtour erstellen
 - [x] Zähne putzen
