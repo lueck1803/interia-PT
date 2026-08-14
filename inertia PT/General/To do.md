@@ -132,6 +132,8 @@
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
+- <font color="#00b0f0">den Vertretungsplan checken</font>
+- sa
 - [x] Balkonpflanzen gießen
 	- [ ] aber ein zweites mal notwendig
 - [ ] balkon gießen
@@ -141,6 +143,10 @@
 	- [ ] handy
 - [x] Duolingo
 - [ ] bis Freitag in die Mathe-Wettbewerb Aufgaben schauen 
+	- [ ] die Liste von Mia anschauen 
+	- [ ] Vergleich mit was ich im Internet finde
+	- [ ] 15 min Montag für Mathe-Wettbewerb nutzen
+	- [ ] Mathe-Wettbewerb ist im November 
 - [x] Nudeln mit Linsen essen 
 - [ ] Muskateller Salbei Samen abtrennen und in eine Dose 
 - [ ] <font color="#48d1cc">Aufgaben aus dem Buch zusammenstellen</font> für 5a zusammenstellen 
