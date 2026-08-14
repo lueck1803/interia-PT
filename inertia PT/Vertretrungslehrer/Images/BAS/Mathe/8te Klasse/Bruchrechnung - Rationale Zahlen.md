@@ -62,7 +62,8 @@ $$
 
 a) $\frac{3}{5}+\frac{5}{4}=$ 
 b) $\frac{8}{3}-\frac{7}{2}+\frac{13}{5}=$
-c) $$
+c) $\frac{24}{40}-\frac{33}{9}+\frac{28}{15}=$
+d) $\frac{35}{49}$
 
 - $1~\mathrm{in} =2.54~\mathrm{ cm}$ 
 	- $1=\frac{\pu{ 1 in }}{\pu{ 2.54cm }}$
