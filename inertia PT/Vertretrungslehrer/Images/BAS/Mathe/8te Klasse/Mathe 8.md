@@ -4,7 +4,7 @@
 	- [ ] punkt vor strich rechnung
 	- [ ] klammern
 	- [ ] prozentrechnung
-	- [ ] dreisatz
+	- [ ] dreisatz %% fold %%
 	- [ ] geometrie
 	- [ ] koordinatensystem
 - [ ] arbeitsblatt mit
