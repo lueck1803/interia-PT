@@ -136,8 +136,8 @@
 - saif khatib
 - [x] balkon gießen
 - [ ] Nudeln kochen 
-- [ ] carnivorenwasser auffüllen 
-- [ ] Kanonenfieber ist gestrichen 
+- [x] carnivorenwasser auffüllen 
+- [ ] $\mathbf{N}$
 - [ ] solo 
 	- [ ] black Waltz (rythm)
 	- [ ] are you dead yet 
