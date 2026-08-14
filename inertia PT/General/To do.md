@@ -156,6 +156,7 @@
 - [ ] Spülmaschine ausräumen
 - [ ] wie heißt der der mir seine Fotos von der Sonnenfinsternis gezeigt hat
 	- [ ] Klassenliste 8d schauen 
+	- [ ] Julian 
 - [ ] Strahlensatz
 	- [ ] wann kommt er dran?
 	- [ ] Herleitung 
