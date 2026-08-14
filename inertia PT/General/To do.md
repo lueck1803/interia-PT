@@ -135,7 +135,7 @@
 - [x] Balkonpflanzen gießen
 	- [ ] aber ein zweites mal notwendig
 - [ ] balkon gießen
-- [ ] 
+- [ ] Kornelkirschen aus dem Rucksack holen 🫣
 - [ ] <font color="#b088ff">image captions</font> plugin installieren
 	- [ ] mac
 	- [ ] handy
