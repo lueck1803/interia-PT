@@ -136,7 +136,9 @@
 - saif khatib
 - [x] balkon gießen
 - [ ] Kanonenfieber ist gestrichen 
-- [ ] sadness and hate üben
+- [ ] solo 
+	- [ ] black Waltz (rythm)
+	- [ ] are you dead yet 
 - [ ] Kornelkirschen aus dem Rucksack holen 🫣
 - [ ] <font color="#b088ff">image captions</font> plugin installieren
 	- [ ] mac
