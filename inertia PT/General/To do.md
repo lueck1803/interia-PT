@@ -135,6 +135,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - saif khatib
 - [x] balkon gießen
+- [ ] bilder von tafel hochladen
 - [ ] ich muss kleiner schreiben an der Tafel 
 - [ ] fotos vom Tafelbild nutzen für handout
 - [x] sitzplan der 8a in vertretungslehrer
