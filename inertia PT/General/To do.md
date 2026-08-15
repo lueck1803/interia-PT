@@ -136,7 +136,8 @@
 - saif khatib
 - [ ] balkon gießen
 - [x] bio müll küche
-- [ ] binsen schneiden 
+- [x] binsen schneiden 
+- [ ] höhe Ventilator etwas runter 
 - [ ] Kornelkirschen in einen Topf
 - [ ] Löcher in Olivendose bohren 
 	- [ ] etwas hinein pflanzen 
