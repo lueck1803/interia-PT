@@ -171,7 +171,8 @@
 	- [ ] Tomaten
 	- [ ] Auberginen 
 	- [ ] zusammen in die Pfanne geben
-- [ ] Paprika aus Tiefkühltruhe 
+- [x] Paprika aus Tiefkühltruhe 
+	- [ ] austragen 
 - [ ] M 8a Mein Unterricht Eintrag
 - [ ] Schulportal Kalender sync?
 - [ ] Schulportal app genauer anschauen
