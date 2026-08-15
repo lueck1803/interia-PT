@@ -148,6 +148,7 @@
 - [ ] aldi
 	- [ ] saft
 	- [ ] Bier 
+	- [ ] nuss
 - [ ] spazieren
 - [ ] black waltz
 - [ ] solo 
@@ -155,15 +156,16 @@
 - [ ] wie funktioniert das mit #task richtig?
 - [ ] tipler srt
 - [x] Duolingo
-- [ ] Tesa abroller schärfen 
+- [x] Tesa abroller schärfen 
+	- hat echt gut geklappt mit den Pfeilen 
 - [ ] Apfelschneider mit Feilen schärfen 
-- [ ] auberginen Essen machen
-	- [ ] Knoblauch 
-	- [ ] Zwiebeln 
-	- [ ] Paprika 
-	- [ ] Tomaten
-	- [ ] Auberginen 
-	- [ ] zusammen in die Pfanne geben
+- [x] auberginen Essen machen
+	- Knoblauch 
+	- Zwiebeln 
+	- Paprika 
+	- Tomaten
+	- Auberginen 
+	- zusammen in die Pfanne geben
 - [x] M 8a Mein Unterricht Eintrag
 - [ ] Schulportal Kalender sync?
 - [ ] Schulportal app genauer anschauen
