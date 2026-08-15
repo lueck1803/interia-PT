@@ -137,6 +137,7 @@
 - [ ] balkon gießen
 - [x] bio müll küche
 - [ ] binsen schneiden 
+- [ ] Kornelkirschen in einen Topf
 - [ ] Löcher in Olivendose bohren 
 	- [ ] etwas hinein pflanzen 
 - [ ] sofa saugen
