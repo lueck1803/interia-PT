@@ -151,16 +151,16 @@
 	- [ ] nusskati 
 	- [ ] eis
 	- [ ] Auberginen?
+	- [ ] Tomaten 
 - [ ] spazieren
-- [ ] black waltz
-- [ ] solo 
-	- [ ] black Waltz (rythm)
+- [x] black waltz solo
+- [x] black Waltz (rythm)
 - [ ] wie funktioniert das mit #task richtig?
 - [ ] tipler srt
 - [x] Duolingo
 - [x] Tesa abroller schärfen 
 	- hat echt gut geklappt mit den Pfeilen 
-- [ ] Apfelschneider mit Feilen schärfen 
+- [x] Apfelschneider mit Feilen schärfen 
 - [x] auberginen Essen machen
 	- Knoblauch 
 	- Zwiebeln 
