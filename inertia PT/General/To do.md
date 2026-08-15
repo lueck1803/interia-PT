@@ -134,9 +134,10 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - saif khatib
-- [x] balkon gießen
-- [x] Nudeln kochen 
-- [x] carnivorenwasser auffüllen 
+- [ ] balkon gießen
+- [ ] staub saugen
+- [ ] sofa saugen
+- [ ] duschen
 - [ ] solo 
 	- [ ] black Waltz (rythm)
 - [x] Kornelkirschen aus dem Rucksack holen 🫣
@@ -245,9 +246,9 @@
 	- [ ] gibts ne möglichkeit sie über das terminal oder anderweitig aufzuwecken?
 - [ ] Foto vom Sitzplan 8a Mathe machen
 - [ ] Auberginenessen von letztens kochen
-- [ ] M 8a 
-	- [ ] Formel für arithmetisches mittel an die Tafel schreiben mit Erklärung der einzelnen Komponenten 
-		- [ ] wie geht nochmal das arithmetische Mittel 
+- [ ] M 8a  %% fold %%
+	- [ ] Formel für arithmetisches mittel an die Tafel schreiben mit Erklärung der einzelnen Komponenten  %% fold %%
+		- [ ] wie geht nochmal das arithmetische Mittel  %% fold %%
 	- [ ] Brüche wiederholen  %% fold %%
 		- [ ] zahlen Strahl im vergleich zu N und Z %% fold %%
 		- [ ] Brüche anordnen %% fold %%
