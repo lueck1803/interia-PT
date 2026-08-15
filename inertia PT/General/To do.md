@@ -156,6 +156,14 @@
 - [ ] Duolingo
 - [ ] Tesa abroller schärfen 
 - [ ] Apfelschneider mit Feilen schärfen 
+- [ ] auberginen Esssen machen
+- [ ] M 8a Mein Unterricht Eintrag
+- [ ] Schulportal Kalender sync?
+- [ ] Schulportal app genauer anschauen
+- [ ] in Schulbuch der Klasse 5 schauen
+
+
+
 - [ ] bis Freitag in die Mathe-Wettbewerb Aufgaben schauen 
 	- [ ] die Liste von Mia anschauen 
 	- [ ] Vergleich mit was ich im Internet finde
