@@ -102,8 +102,10 @@ B3Rnh@Rd
 - 6. 12:20 - 13:05
 ## Raumplan 
 
-![[../../Pasted image 20260812011742.png]]
+![[Images/BAS/BAS-Raumverteilung.png]]
 
+## Lageplan
+![[Images/BAS/BAS-Lageplan.jpg]]
 ## Lehrernamen mit Kürzel und Infos
 - Blaume, Nele Hanne (blm)
 - Dincer, Mero (din)
