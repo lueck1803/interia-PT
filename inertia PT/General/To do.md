@@ -135,9 +135,10 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - saif khatib
 - [ ] balkon gießen
-- [ ] sofa saugen
+- [ ] bio müll
 - [ ] Löcher in Olivendose bohren 
 	- [ ] etwas hinein pflanzen 
+- [ ] sofa saugen
 - [ ] staub saugen
 - [ ] wischen 
 - [ ] decken auf sofa
