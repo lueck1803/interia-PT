@@ -153,6 +153,7 @@ B3Rnh@Rd
 ![[Images/BAS/Stundenplan2.png]]
 ## Sitzpläne
 
+
 ## Klassenleiter Stunde
 - Stuhlkreis
 - Probleme besprechen
