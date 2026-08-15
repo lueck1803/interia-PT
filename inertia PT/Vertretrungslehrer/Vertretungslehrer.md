@@ -106,6 +106,8 @@ B3Rnh@Rd
 
 ## Lageplan
 ![[Images/BAS/BAS-Lageplan.jpg]]
+## Schulsanis
+![[Images/BAS/Schulsanis.png]]
 ## Lehrernamen mit Kürzel und Infos
 - Blaume, Nele Hanne (blm)
 - Dincer, Mero (din)
