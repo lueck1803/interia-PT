@@ -135,7 +135,8 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - saif khatib
 - [x] balkon gießen
-- [ ] Kornelkirschen in einen Topf
+- [ ] fotos vom Tafelbild nutzen für handout
+- [ ] Kornellkirschen in einen Topf
 - [ ] Löcher in Olivendose bohren 
 	- [ ] etwas hinein pflanzen 
 - [ ] boden wischen 
@@ -340,7 +341,7 @@
 
 - [ ] vertretungslehrer aufräumen
 
-- [ ] Der sync des Kalenders funktioniert, wird sogar angezeigt. Das geht aber glaube ich über ics?
+- [ ] Der sync des Kalenders funktioniert, wird sogar angezeigt. Das geht aber glaube ich über ics? %% fold %%
 	- [ ] am rechner auch eingerichtet
 	- [ ] mal schauen wie es weiter geht
 
