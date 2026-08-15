@@ -146,6 +146,7 @@
 - [ ] duschen
 - [ ] spülmaschine
 - [ ] board ausprobieren
+	- [ ] beim board ausprobieren die Expander anzubringen 
 - [ ] Laufschuhe aldi?
 - [ ] spazieren
 - [ ] black waltz
@@ -161,6 +162,10 @@
 - [ ] Schulportal Kalender sync?
 - [ ] Schulportal app genauer anschauen
 - [ ] in Schulbuch der Klasse 5 schauen
+- [ ] Muskateller Salbei Samen abtrennen und in eine Dose 
+- [ ] <font color="#48d1cc">Aufgaben aus dem Buch zusammenstellen</font> für 5a zusammenstellen 
+- [ ] mathe Handout 8a fertig 
+	- [ ] in word
 
 
 
@@ -170,8 +175,6 @@
 	- [ ] 15 min Montag für Mathe-Wettbewerb nutzen
 	- [ ] Mathe-Wettbewerb ist im November 
 - [x] Nudeln mit Linsen essen 
-- [ ] Muskateller Salbei Samen abtrennen und in eine Dose 
-- [ ] <font color="#48d1cc">Aufgaben aus dem Buch zusammenstellen</font> für 5a zusammenstellen 
 - [ ] wie heißt der der mir seine Fotos von der Sonnenfinsternis gezeigt hat
 	- [ ] Klassenliste 8d schauen 
 	- [ ] Julian 
@@ -187,7 +190,6 @@
 	- [x] Decken
 	- [ ] saugen
 	- [ ] Kissenbezug 
-- [ ] beim board ausprobieren die Expander anzubringen 
 - [ ] liste für anna Lauer machen was ich gemacht habe 
 	- [ ] PDF mit dem Zahlenstrahl 
 - [x] Äpfel waschen 
@@ -368,7 +370,7 @@
 
 - [ ] separate bildschirme mac - mission control - wie funktioniert das richtig
 
-- [ ] eventuell andere dockingstation für mac kaufen bzw. die nehmen die ich momentan für den rechner verwende
+- [ ] eventuell andere dockingstation für mac kaufen bzw. die nehmen die ich momentan für den rechner verwende %% fold %%
 
 - [ ] noch den kalender von lukasludwig hinzufügen %% fold %%
  %% fold %%
