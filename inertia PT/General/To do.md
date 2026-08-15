@@ -249,7 +249,7 @@
 
 - [ ] plugin <font color="#b088ff">Linter</font> testen
 	- habe ich tatsächlich noch nicht ja
-	- [ ] mache ich am Mac
+	- [x] mache ich am Mac
 - [ ] edit toolbar updaten, damit man die einträge eventuell wieder sortieren kann
 	- [ ] vorher neu backuppen 
 	- [ ] wie update ich meine änderungen?
