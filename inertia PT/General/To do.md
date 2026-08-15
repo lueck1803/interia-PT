@@ -143,12 +143,13 @@
 	- [ ] etwas hinein pflanzen 
 - [x] sofa saugen
 - [x] staub saugen
-- [ ] wischen 
+- [ ] boden wischen 
+- [ ] Arbeitsplatte wischen 
 - [x] decken auf sofa
 - [ ] bett beziehen
 - [x] tastatur wischen
 - [x] duschen
-- [ ] spülmaschine
+- [x] spülmaschine
 - [ ] board ausprobieren
 	- [ ] beim board ausprobieren die Expander anzubringen 
 - [ ] aldi
