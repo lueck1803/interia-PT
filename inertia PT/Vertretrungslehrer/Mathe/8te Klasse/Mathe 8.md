@@ -15,7 +15,7 @@
     
 - Anteile (nur mit Brüchen, d.h, ohne Prozent)
 - Antiproportionale Zuordnungen
-- Diagramme (auch zu erstellende, z.B. Streifen oder Kreisdiagramme oder Grugh im Kosy)
+- Diagramme (auch zu erstellende, z.B. Streifen oder Kreisdiagramme oder Graph im Koordinatensystem)
 - Dreieckskonstruktion
 - Einheiten
 - Flächen und Körper
