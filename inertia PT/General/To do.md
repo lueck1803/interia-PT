@@ -170,7 +170,7 @@
 	- [ ] Tomaten
 	- [ ] Auberginen 
 	- [ ] zusammen in die Pfanne geben
-- [ ] papr
+- [ ] Paprika aus Tiefkühltruhe 
 - [ ] M 8a Mein Unterricht Eintrag
 - [ ] Schulportal Kalender sync?
 - [ ] Schulportal app genauer anschauen
@@ -897,7 +897,7 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 	- [ ] verkaufen 
 - [ ] Ceranfeld wegschmeißen / was kann ich damit basteln?
 
-- [ ] MTB  %% fold %%
+- [ ] MTB
 	- [x] im Schulgarten abspritzen 
 	- [x] Kette fetten 
 	- [x] Schaltung hinten einstellen 
