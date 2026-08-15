@@ -137,7 +137,7 @@
 - [x] balkon gießen
 - [ ] ich muss kleiner schreiben an der Tafel 
 - [ ] fotos vom Tafelbild nutzen für handout
-- [ ] sitzplan der 8a in vertretungslehrer
+- [x] sitzplan der 8a in vertretungslehrer
 - [ ] Kornellkirschen in einen Topf
 - [ ] Löcher in Olivendose bohren 
 	- [ ] etwas hinein pflanzen 
@@ -156,14 +156,14 @@
 - [x] Duolingo
 - [ ] Tesa abroller schärfen 
 - [ ] Apfelschneider mit Feilen schärfen 
-- [ ] auberginen Esssen machen
+- [ ] auberginen Essen machen
 	- [ ] Knoblauch 
 	- [ ] Zwiebeln 
 	- [ ] Paprika 
 	- [ ] Tomaten
 	- [ ] Auberginen 
 	- [ ] zusammen in die Pfanne geben
-- [ ] M 8a Mein Unterricht Eintrag
+- [x] M 8a Mein Unterricht Eintrag
 - [ ] Schulportal Kalender sync?
 - [ ] Schulportal app genauer anschauen
 - [ ] in Schulbuch der Klasse 5 schauen

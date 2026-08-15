@@ -102,8 +102,12 @@ B3Rnh@Rd
 - 6. 12:20 - 13:05
 ## Raumplan 
 
-![[../../Pasted image 20260812011742.png]]
+![[Images/BAS/BAS-Raumverteilung.png]]
 
+## Lageplan
+![[Images/BAS/BAS-Lageplan.jpg]]
+## Schulsanis
+![[Images/BAS/Schulsanis.png]]
 ## Lehrernamen mit Kürzel und Infos
 - Blaume, Nele Hanne (blm)
 - Dincer, Mero (din)
@@ -152,6 +156,10 @@ B3Rnh@Rd
 ![[Images/BAS/Stundenplan1.png]]
 ![[Images/BAS/Stundenplan2.png]]
 ## Sitzpläne
+
+### 8a
+
+![[Images/Sitzplan-8a.jpg]]
 
 ## Klassenleiter Stunde
 - Stuhlkreis
@@ -206,7 +214,7 @@ B3Rnh@Rd
 - massin kam wegen des streiks 40 min zu spät, er musste von Kranichstein laufen 
 - finnlay und glordi haben gefehlt  %% fold %%
  %% fold %%
-## GL
+## GL %% fold %%
 - andrej und burak haben mich unterstützt
  %% fold %%
 - Das ist der Sitzplan.  %% fold %%
