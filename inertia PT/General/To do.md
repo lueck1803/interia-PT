@@ -924,7 +924,7 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 - [x] Waschbecken putzen  %% fold %%
 	- [x] Bad 
 	- [x] Küche 
-# tägliches
+# tägliches %% fold %%
 
 ## Wohnbereich 
 - [ ] Esstisch wischen 
