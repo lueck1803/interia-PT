@@ -135,7 +135,8 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - saif khatib
 - [ ] balkon gießen
-- [ ] bio müll küche
+- [x] bio müll küche
+- [ ] binsen schneiden 
 - [ ] Löcher in Olivendose bohren 
 	- [ ] etwas hinein pflanzen 
 - [ ] sofa saugen
