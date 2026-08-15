@@ -139,6 +139,9 @@
 - [x] binsen schneiden 
 - [x] höhe Ventilator etwas runter 
 - [ ] Kornelkirschen in einen Topf
+- [ ] aldi
+	- [ ] saft
+	- [ ] Bier 
 - [ ] Löcher in Olivendose bohren 
 	- [ ] etwas hinein pflanzen 
 - [x] sofa saugen
@@ -271,7 +274,7 @@
 - [ ] Panzerhenker
 	- [ ] ich hab's grob schon drauf
 	- [ ] tremolo picking ganz langsam sauber üben - 50 % %% fold %%
-	- [ ] beim rhythmischen Teil nicht zu sehr rein hauen und weniger Emotion, ganz nüchtern und präzise spielen so dass auch die pinches sitzen - 80%
+	- [ ] beim rhythmischen Teil nicht zu sehr rein hauen und weniger Emotion, ganz nüchtern und präzise spielen so dass auch die pinches sitzen - 80% %% fold %%
 	- [ ] den ruhigen part richtig üben - 50%
 - [ ] Gott mit der Kavallerie %% fold %%
 - [ ] device manager bzw. tb karte über terminal suchen   %% fold %%
