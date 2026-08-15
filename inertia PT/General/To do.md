@@ -137,13 +137,19 @@
 - [ ] balkon gießen
 - [ ] staub saugen
 - [ ] sofa saugen
+- [ ] decken auf sofa
+- [ ] bett beziehen
+- [ ] tastatur wischen
 - [ ] duschen
+- [ ] spülmaschine
+- [ ] board ausprobieren
+- [ ] Laufschuhe aldi?
+- [ ] spazieren
+- [ ] black waltz
 - [ ] solo 
 	- [ ] black Waltz (rythm)
-- [x] Kornelkirschen aus dem Rucksack holen 🫣
-- [x] <font color="#b088ff">image captions</font> plugin installieren
-	- [x] mac
-	- [x] handy
+- [ ] tipler srt
+- [ ] 
 - [ ] Duolingo
 - [ ] bis Freitag in die Mathe-Wettbewerb Aufgaben schauen 
 	- [ ] die Liste von Mia anschauen 
@@ -242,10 +248,10 @@
 	- [ ] beim rhythmischen Teil nicht zu sehr rein hauen und weniger Emotion, ganz nüchtern und präzise spielen so dass auch die pinches sitzen - 80%
 	- [ ] den ruhigen part richtig üben - 50%
 - [ ] Gott mit der Kavallerie
-- [ ] device manager bzw. tb karte über terminal suchen  
-	- [ ] gibts ne möglichkeit sie über das terminal oder anderweitig aufzuwecken?
-- [ ] Foto vom Sitzplan 8a Mathe machen
-- [ ] Auberginenessen von letztens kochen
+- [ ] device manager bzw. tb karte über terminal suchen   %% fold %%
+	- [ ] gibts ne möglichkeit sie über das terminal oder anderweitig aufzuwecken? %% fold %%
+- [ ] Foto vom Sitzplan 8a Mathe machen %% fold %%
+- [ ] Auberginenessen von letztens kochen %% fold %%
 - [ ] M 8a  %% fold %%
 	- [ ] Formel für arithmetisches mittel an die Tafel schreiben mit Erklärung der einzelnen Komponenten  %% fold %%
 		- [ ] wie geht nochmal das arithmetische Mittel  %% fold %%
@@ -281,7 +287,7 @@
 - [x] Spülmaschine ausräumen 
 	- die läuft etwa ne 1,5 h etwa 5 min mehr
 	- save ist daher als timer 1h 40 min
-- [ ] tipler srt
+ %% fold %%
 - [ ] Kursplan für 7 Wochen  %% fold %%
 	- [ ] 8 te Klasse Physik  %% fold %%
 	- [ ] 8te Klasse Mathe 
