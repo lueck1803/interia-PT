@@ -148,7 +148,9 @@
 - [ ] aldi
 	- [ ] saft
 	- [ ] Bier 
-	- [ ] nuss
+	- [ ] nusskati 
+	- [ ] eis
+	- [ ] Auberginen?
 - [ ] spazieren
 - [ ] black waltz
 - [ ] solo 
