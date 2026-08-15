@@ -164,6 +164,13 @@
 - [ ] Tesa abroller schärfen 
 - [ ] Apfelschneider mit Feilen schärfen 
 - [ ] auberginen Esssen machen
+	- [ ] Knoblauch 
+	- [ ] Zwiebeln 
+	- [ ] Paprika 
+	- [ ] Tomaten
+	- [ ] Auberginen 
+	- [ ] zusammen in die Pfanne geben
+- [ ] papr
 - [ ] M 8a Mein Unterricht Eintrag
 - [ ] Schulportal Kalender sync?
 - [ ] Schulportal app genauer anschauen
