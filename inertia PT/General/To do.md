@@ -137,6 +137,7 @@
 - [x] balkon gießen
 - [x] bilder von tafel hochladen
 - [ ] ich muss kleiner schreiben an der Tafel 
+- [ ] Kräuter um 1/3 zurück schneiden. Insbesondere den Majoran 
 - [ ] fotos vom Tafelbild nutzen für handout
 - [x] sitzplan der 8a in vertretungslehrer
 - [ ] Kornellkirschen in einen Topf
