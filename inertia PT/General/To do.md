@@ -134,17 +134,36 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - saif khatib
-- [x] balkon gießen
-- [ ] Staubsauger 
-- [x] Nudeln kochen 
-- [x] carnivorenwasser auffüllen 
+- [ ] balkon gießen
+- [ ] sofa saugen
+- [ ] Löcher in Olivendose bohren 
+	- [ ] etwas hinein pflanzen 
+- [ ] staub saugen
+- [ ] wischen 
+- [ ] decken auf sofa
+- [ ] bett beziehen
+- [ ] tastatur wischen
+- [ ] duschen
+- [ ] spülmaschine
+- [ ] board ausprobieren
+- [ ] Laufschuhe aldi?
+- [ ] spazieren
+- [ ] black waltz
 - [ ] solo 
 	- [ ] black Waltz (rythm)
-- [x] Kornelkirschen aus dem Rucksack holen 🫣
-- [x] <font color="#b088ff">image captions</font> plugin installieren
-	- [x] mac
-	- [x] handy
+- [ ] wie funktioniert das mit #task richtig?
+- [ ] tipler srt
 - [ ] Duolingo
+- [ ] Tesa abroller schärfen 
+- [ ] Apfelschneider mit Feilen schärfen 
+- [ ] auberginen Esssen machen
+- [ ] M 8a Mein Unterricht Eintrag
+- [ ] Schulportal Kalender sync?
+- [ ] Schulportal app genauer anschauen
+- [ ] in Schulbuch der Klasse 5 schauen
+
+
+
 - [ ] bis Freitag in die Mathe-Wettbewerb Aufgaben schauen 
 	- [ ] die Liste von Mia anschauen 
 	- [ ] Vergleich mit was ich im Internet finde
@@ -153,14 +172,12 @@
 - [x] Nudeln mit Linsen essen 
 - [ ] Muskateller Salbei Samen abtrennen und in eine Dose 
 - [ ] <font color="#48d1cc">Aufgaben aus dem Buch zusammenstellen</font> für 5a zusammenstellen 
-- [ ] Spülmaschine ausräumen
 - [ ] wie heißt der der mir seine Fotos von der Sonnenfinsternis gezeigt hat
 	- [ ] Klassenliste 8d schauen 
 	- [ ] Julian 
 - [ ] Strahlensatz
 	- [ ] wann kommt er dran?
 	- [ ] Herleitung 
-- [ ] wischen 
 - [ ] Lochkamera neu
 	- [ ] ausrechnen wie groß das Bild sein soll
 - [ ] Waschbecken
@@ -194,8 +211,7 @@
 	- [ ] Mathe-Wettbewerb wann und was sind die Themen?
 	- [ ] sitzplan 8a fotografieren 
 	- [ ] Arbeitsblatt 
-- [ ] Tesa abroller schärfen 
-- [ ] Apfelschneider mit Feilen schärfen 
+
 - [x] <font color="#daa520">Nachname von Saif </font> ✅ 2026-08-12
 	- [x] ⤷ steht auf dem Zettel?
 	- [ ] khtib bzw. khatib
@@ -213,9 +229,7 @@
 	- [ ] Kissen
 - [ ] Minitafel für Klo Liste 
 
-- [ ] Löcher in Olivendose bohren 
-	- [ ] etwas hinein pflanzen 
-- [ ] wie funktioniert das mit #task richtig?
+
 - [ ] plugin <font color="#b088ff">Linter</font> testen
 - [ ] edit toolbar updaten, damit man die einträge eventuell wieder sortieren kann
 	- [ ] vorher neu backuppen 
@@ -241,14 +255,14 @@
 	- [ ] tremolo picking ganz langsam sauber üben - 50 %
 	- [ ] beim rhythmischen Teil nicht zu sehr rein hauen und weniger Emotion, ganz nüchtern und präzise spielen so dass auch die pinches sitzen - 80%
 	- [ ] den ruhigen part richtig üben - 50%
-- [ ] Gott mit der Kavallerie
-- [ ] device manager bzw. tb karte über terminal suchen  
-	- [ ] gibts ne möglichkeit sie über das terminal oder anderweitig aufzuwecken?
-- [ ] Foto vom Sitzplan 8a Mathe machen
-- [ ] Auberginenessen von letztens kochen
-- [ ] M 8a 
-	- [ ] Formel für arithmetisches mittel an die Tafel schreiben mit Erklärung der einzelnen Komponenten 
-		- [ ] wie geht nochmal das arithmetische Mittel 
+- [ ] Gott mit der Kavallerie %% fold %%
+- [ ] device manager bzw. tb karte über terminal suchen   %% fold %%
+	- [ ] gibts ne möglichkeit sie über das terminal oder anderweitig aufzuwecken? %% fold %%
+- [ ] Foto vom Sitzplan 8a Mathe machen %% fold %%
+- [ ] Auberginenessen von letztens kochen %% fold %%
+- [ ] M 8a  %% fold %%
+	- [ ] Formel für arithmetisches mittel an die Tafel schreiben mit Erklärung der einzelnen Komponenten  %% fold %%
+		- [ ] wie geht nochmal das arithmetische Mittel  %% fold %%
 	- [ ] Brüche wiederholen  %% fold %%
 		- [ ] zahlen Strahl im vergleich zu N und Z %% fold %%
 		- [ ] Brüche anordnen %% fold %%
@@ -281,7 +295,7 @@
 - [x] Spülmaschine ausräumen 
 	- die läuft etwa ne 1,5 h etwa 5 min mehr
 	- save ist daher als timer 1h 40 min
-- [ ] tipler srt
+ %% fold %%
 - [ ] Kursplan für 7 Wochen  %% fold %%
 	- [ ] 8 te Klasse Physik  %% fold %%
 	- [ ] 8te Klasse Mathe 
@@ -356,7 +370,7 @@
 
 - [ ] eventuell andere dockingstation für mac kaufen bzw. die nehmen die ich momentan für den rechner verwende
 
-- [ ] noch den kalender von lukasludwig hinzufügen
+- [ ] noch den kalender von lukasludwig hinzufügen %% fold %%
  %% fold %%
 - [ ] tasks aufräumen   %% fold %%
 - [ ] meditieren  %% fold %%
