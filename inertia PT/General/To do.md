@@ -135,6 +135,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - saif khatib
 - [x] balkon gießen
+- [ ] Staubsauger 
 - [x] Nudeln kochen 
 - [x] carnivorenwasser auffüllen 
 - [ ] solo 
