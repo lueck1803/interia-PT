@@ -148,6 +148,7 @@
 - [ ] board ausprobieren
 	- [ ] beim board ausprobieren die Expander anzubringen 
 - [ ] Laufschuhe aldi?
+	- [ ] saft
 - [ ] spazieren
 - [ ] black waltz
 - [ ] solo 
