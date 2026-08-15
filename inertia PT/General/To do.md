@@ -155,7 +155,7 @@
 - [x] Duolingo
 - [ ] Tesa abroller schärfen 
 - [ ] Apfelschneider mit Feilen schärfen 
-- [ ] auberginen Esssen machen
+- [ ] auberginen Essen machen
 	- [ ] Knoblauch 
 	- [ ] Zwiebeln 
 	- [ ] Paprika 
