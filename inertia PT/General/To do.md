@@ -135,9 +135,6 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - saif khatib
 - [x] balkon gießen
-- [x] bio müll küche
-- [x] binsen schneiden 
-- [x] höhe Ventilator etwas runter 
 - [ ] Kornelkirschen in einen Topf
 - [ ] Löcher in Olivendose bohren 
 	- [ ] etwas hinein pflanzen 
@@ -275,7 +272,6 @@
 - [ ] device manager bzw. tb karte über terminal suchen   %% fold %%
 	- [ ] gibts ne möglichkeit sie über das terminal oder anderweitig aufzuwecken? %% fold %%
 - [ ] Foto vom Sitzplan 8a Mathe machen %% fold %%
-- [ ] Auberginenessen von letztens kochen %% fold %%
 - [ ] M 8a  %% fold %%
 	- [ ] Formel für arithmetisches mittel an die Tafel schreiben mit Erklärung der einzelnen Komponenten  %% fold %%
 		- [ ] wie geht nochmal das arithmetische Mittel  %% fold %%
