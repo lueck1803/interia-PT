@@ -134,17 +134,17 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - saif khatib
-- [ ] balkon gießen
+- [x] balkon gießen
 - [x] bio müll küche
 - [x] binsen schneiden 
 - [ ] höhe Ventilator etwas runter 
 - [ ] Kornelkirschen in einen Topf
 - [ ] Löcher in Olivendose bohren 
 	- [ ] etwas hinein pflanzen 
-- [ ] sofa saugen
-- [ ] staub saugen
+- [x] sofa saugen
+- [x] staub saugen
 - [ ] wischen 
-- [ ] decken auf sofa
+- [x] decken auf sofa
 - [ ] bett beziehen
 - [ ] tastatur wischen
 - [ ] duschen
