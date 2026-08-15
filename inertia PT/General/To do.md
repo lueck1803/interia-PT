@@ -137,7 +137,7 @@
 - [x] balkon gießen
 - [x] bio müll küche
 - [x] binsen schneiden 
-- [ ] höhe Ventilator etwas runter 
+- [x] höhe Ventilator etwas runter 
 - [ ] Kornelkirschen in einen Topf
 - [ ] Löcher in Olivendose bohren 
 	- [ ] etwas hinein pflanzen 
@@ -244,20 +244,17 @@
 
 
 
-- [ ] Bettwäsche wechseln 
-	- [x] alte runter
-	- [ ] Spannbettuch
-	- [ ] Kissen
 - [ ] Minitafel für Klo Liste 
 
 
 - [ ] plugin <font color="#b088ff">Linter</font> testen
+	- habe ich tatsächlich noch nicht ja
+	- [ ] mache ich am Mac
 - [ ] edit toolbar updaten, damit man die einträge eventuell wieder sortieren kann
 	- [ ] vorher neu backuppen 
 	- [ ] wie update ich meine änderungen?
 	- [ ] das update hatte den bug nicht behoben
 	- [ ] obsidian neustarten am pc
-- [ ] gelben Sack
 - [ ] laufen gehen
 - [ ] krafttraining
 - [ ] bauchmuskel
@@ -273,7 +270,7 @@
 	- [ ] schön langsam Feeling üben 
 - [ ] Panzerhenker
 	- [ ] ich hab's grob schon drauf
-	- [ ] tremolo picking ganz langsam sauber üben - 50 %
+	- [ ] tremolo picking ganz langsam sauber üben - 50 % %% fold %%
 	- [ ] beim rhythmischen Teil nicht zu sehr rein hauen und weniger Emotion, ganz nüchtern und präzise spielen so dass auch die pinches sitzen - 80%
 	- [ ] den ruhigen part richtig üben - 50%
 - [ ] Gott mit der Kavallerie %% fold %%
