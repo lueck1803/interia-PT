@@ -165,7 +165,11 @@
 - [ ] Muskateller Salbei Samen abtrennen und in eine Dose 
 - [ ] <font color="#48d1cc">Aufgaben aus dem Buch zusammenstellen</font> für 5a zusammenstellen 
 - [ ] mathe Handout 8a fertig 
-	- [ ] in word
+	- [ ] in Word?
+	- [ ] die Erklärungen wo die Zahlenbereiche verwendet werden ohne viel prosa Text 
+	- [ ] Bilder die dem entsprechen anschauen 
+- [ ] Mengenlehre anschauen 
+- [ ] mathe 8 Übungsblatt zusammenstellen 
 
 
 
