@@ -144,9 +144,9 @@
 - [x] sofa saugen
 - [x] staub saugen
 - [ ] boden wischen 
-- [ ] Arbeitsplatte wischen 
+- [x] Arbeitsplatte wischen 
 - [x] decken auf sofa
-- [ ] bett beziehen
+- [x] bett beziehen
 - [x] tastatur wischen
 - [x] duschen
 - [x] spülmaschine
@@ -161,7 +161,7 @@
 	- [ ] black Waltz (rythm)
 - [ ] wie funktioniert das mit #task richtig?
 - [ ] tipler srt
-- [ ] Duolingo
+- [x] Duolingo
 - [ ] Tesa abroller schärfen 
 - [ ] Apfelschneider mit Feilen schärfen 
 - [ ] auberginen Esssen machen
@@ -205,10 +205,10 @@
 - [ ] Waschbecken
 	- [ ] bad
 	- [ ] Küche 
-- [ ]  sofa
+- [x]  sofa
 	- [x] Decken
-	- [ ] saugen
-	- [ ] Kissenbezug 
+	- [x] saugen
+	- [x] Kissenbezug 
 - [ ] liste für anna Lauer machen was ich gemacht habe 
 	- [ ] PDF mit dem Zahlenstrahl 
 - [x] Äpfel waschen 
