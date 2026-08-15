@@ -1442,7 +1442,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 # Lesen und Hören
 - [ ] Universum in einem einzigen Atom 
 - [ ] Einführung in die Charakterkunde 
-# Filme, Serien und Dokus
+# Filme, Serien und Dokus %% fold %%
 - [x] <span style="color:gold">ghostbusters runterladen</span>
 - [x] <span style="color:coral">paartherapie S3 runterladen</span>
 
