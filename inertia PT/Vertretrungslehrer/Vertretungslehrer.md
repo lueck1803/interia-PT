@@ -256,7 +256,7 @@ B3Rnh@Rd
 	- analytische Fortsetzung der riemannschen zeta Funktion Zetafunktion $\zeta (z):=\sum _{n=1}^{\infty }{\frac {1}{n^{z}}}$ ist absolut konvergent für $\operatorname {Re} (z)>1$ und kann auf $\operatorname {Re} (z)\leq 1$ durch analytische Fortsetzung erweitert werden, wobei sie an der Stelle $z=1$ eine Polstelle besitzt. $z \in \mathbb{C}/\{1\}$ 
 
 - da nur 45 min Umfang und Flächeninhalte wiederholen ⟹ Kreis
-
+ %% fold %%
 - anmalen
 	- quadrat
 	- Rechteck 
