@@ -146,8 +146,8 @@
 - [ ] wischen 
 - [x] decken auf sofa
 - [ ] bett beziehen
-- [ ] tastatur wischen
-- [ ] duschen
+- [x] tastatur wischen
+- [x] duschen
 - [ ] spülmaschine
 - [ ] board ausprobieren
 	- [ ] beim board ausprobieren die Expander anzubringen 
