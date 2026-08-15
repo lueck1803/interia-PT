@@ -151,8 +151,9 @@
 - [ ] spülmaschine
 - [ ] board ausprobieren
 	- [ ] beim board ausprobieren die Expander anzubringen 
-- [ ] Laufschuhe aldi?
+- [ ] aldi
 	- [ ] saft
+	- [ ] Bier 
 - [ ] spazieren
 - [ ] black waltz
 - [ ] solo 
