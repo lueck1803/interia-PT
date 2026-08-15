@@ -136,6 +136,7 @@
 - saif khatib
 - [x] balkon gießen
 - [ ] fotos vom Tafelbild nutzen für handout
+- [ ] sitzplan der 8a in vertretungslehrer
 - [ ] Kornellkirschen in einen Topf
 - [ ] Löcher in Olivendose bohren 
 	- [ ] etwas hinein pflanzen 
