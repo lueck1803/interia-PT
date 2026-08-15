@@ -153,6 +153,9 @@ B3Rnh@Rd
 ![[Images/BAS/Stundenplan2.png]]
 ## Sitzpläne
 
+### 8a
+
+
 
 ## Klassenleiter Stunde
 - Stuhlkreis
@@ -207,7 +210,7 @@ B3Rnh@Rd
 - massin kam wegen des streiks 40 min zu spät, er musste von Kranichstein laufen 
 - finnlay und glordi haben gefehlt  %% fold %%
  %% fold %%
-## GL
+## GL %% fold %%
 - andrej und burak haben mich unterstützt
  %% fold %%
 - Das ist der Sitzplan.  %% fold %%
