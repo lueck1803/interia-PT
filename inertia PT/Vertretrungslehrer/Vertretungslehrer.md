@@ -155,7 +155,7 @@ B3Rnh@Rd
 
 ### 8a
 
-
+![[Images/Sitzplan-8a.jpg]]
 
 ## Klassenleiter Stunde
 - Stuhlkreis

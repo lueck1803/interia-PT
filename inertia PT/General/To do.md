@@ -136,7 +136,7 @@
 - saif khatib
 - [x] balkon gießen
 - [ ] fotos vom Tafelbild nutzen für handout
-- [ ] sitzplan der 8a in vertretungslehrer
+- [x] sitzplan der 8a in vertretungslehrer
 - [ ] Kornellkirschen in einen Topf
 - [ ] Löcher in Olivendose bohren 
 	- [ ] etwas hinein pflanzen 
@@ -162,7 +162,7 @@
 	- [ ] Tomaten
 	- [ ] Auberginen 
 	- [ ] zusammen in die Pfanne geben
-- [ ] M 8a Mein Unterricht Eintrag
+- [x] M 8a Mein Unterricht Eintrag
 - [ ] Schulportal Kalender sync?
 - [ ] Schulportal app genauer anschauen
 - [ ] in Schulbuch der Klasse 5 schauen
