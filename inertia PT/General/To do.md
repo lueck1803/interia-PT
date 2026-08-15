@@ -247,7 +247,7 @@
 - [ ] Minitafel für Klo Liste 
 
 
-- [ ] plugin <font color="#b088ff">Linter</font> testen
+- [x] plugin <font color="#b088ff">Linter</font> testen
 	- habe ich tatsächlich noch nicht ja
 	- [x] mache ich am Mac
 - [ ] edit toolbar updaten, damit man die einträge eventuell wieder sortieren kann
@@ -260,11 +260,10 @@
 - [ ] bauchmuskel
 - [ ] yoga
 - [ ] 12:15 Treffen der 5er Mittwoch 
-- [ ] standard notification llw Kalender 
-- [ ] Harald Jung wegen saniraum fragen
-- [ ] Stunden plan austauschen 
+- [x] standard notification llw Kalender 
+- [x] Harald Jung wegen saniraum fragen
+- [x] Stunden plan austauschen 
 - [ ] fidget toys in lisas Klassen raum
-- [ ] fraught aus dem Plan werfen
 - [ ] Maulwurf - bass
 	- [ ] gurt anbringen 
 	- [ ] schön langsam Feeling üben 
@@ -273,7 +272,6 @@
 	- [ ] tremolo picking ganz langsam sauber üben - 50 % %% fold %%
 	- [ ] beim rhythmischen Teil nicht zu sehr rein hauen und weniger Emotion, ganz nüchtern und präzise spielen so dass auch die pinches sitzen - 80% %% fold %%
 	- [ ] den ruhigen part richtig üben - 50% %% fold %%
-- [ ] Gott mit der Kavallerie %% fold %%
 - [ ] device manager bzw. tb karte über terminal suchen   %% fold %%
 	- [ ] gibts ne möglichkeit sie über das terminal oder anderweitig aufzuwecken? %% fold %%
 - [ ] Foto vom Sitzplan 8a Mathe machen %% fold %%
@@ -289,13 +287,12 @@
 	- [ ] Dazu aufgaben aus dem Buch oder selbst welche finden und ausdenken
  %% fold %%
 - [ ] warum schaltet sich immer die neu installierten plugins aus %% fold %%
-- [ ] Kette fetten cityrad %% fold %%
 - [ ] mit Frau Mair und Herren Stühlinger sprechen wegen mathe 5. %% fold %%
 	- [ ] tipps holen  %% fold %%
 	- [ ] Unterrichtsstruktur  %% fold %%
-- [ ] Stühlinger  %% fold %%
+- [ ] Stühlinger
 	- [ ] Grundrechenarten massiv wiederholen  %% fold %%
-	- [ ] auf Struktur und formelle Dinge achten %% fold %%
+	- [ ] auf Struktur und formelle Dinge achten
 		- [ ] Ordnung  %% fold %%
 		- [ ] Ergebnis unterstreichen  %% fold %%
 		- [ ] klarer rechenweg - punktabzug Klausur - Abschlussarbeit 10te %% fold %%
@@ -309,10 +306,6 @@
 		- Höhe lass ich so %% fold %%
 	- [ ] und dann eventuell ein tick hinter %% fold %%
 		- [ ] ja definitiv  %% fold %%
-- [ ] fraught Stakkato 
-- [x] Spülmaschine ausräumen 
-	- die läuft etwa ne 1,5 h etwa 5 min mehr
-	- save ist daher als timer 1h 40 min
  %% fold %%
 - [ ] Kursplan für 7 Wochen  %% fold %%
 	- [ ] 8 te Klasse Physik  %% fold %%
