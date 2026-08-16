@@ -140,7 +140,7 @@
 - [ ] Duschen 
 - [x] Chilis umsetzen 
 - [ ] flip flop reparieren 
-- [ ] heroes to us ab
+- [ ] heroes to us anschauen welche Stimmung?
 - [ ] bass lastigkeit von JBL ausstellen 
 - [ ] Apfelschneider nochmal nach schärfen 
 - [ ] Kräuter ernten essen fertig kochen 
