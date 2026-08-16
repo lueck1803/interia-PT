@@ -141,7 +141,8 @@
 - [ ] floyed rose Stimmen 
 	- [ ] von den mittleren Saiten heraus nach außen stimmen 
 	- [ ] darauf achten dass die Bridge flach liegt, lieber nochmal die saiten entspannen 
-- [ ] die lead von swamphell lässt sich abgesehen vom intro auf st
+- [ ] die lead von swamphell lässt sich abgesehen vom intro auf std Tuning leichter spielen. 
+	- [ ] ich glaube nur dass solo 2 geht nicht, wegen dem höchsten Ton
 - [ ] eventuell helle Wäsche anstellen 
 - [ ] Wäsche zusammen legen 
 - [ ] Duschen 
