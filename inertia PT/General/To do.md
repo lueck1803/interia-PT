@@ -142,7 +142,8 @@
 - [ ] flip flop reparieren 
 - [ ] heroes to us anschauen welche Stimmung?
 - [ ] bass lastigkeit von JBL ausstellen 
-- [ ] Apfelschneider nochmal nach schärfen 
+- [x] Apfelschneider nochmal nach schärfen 
+	- gar nicht nötig
 - [ ] Kräuter ernten essen fertig kochen 
 	- [ ] ⤷ Kühlschrank 
 - ich muss kleiner schreiben an der Tafel 
