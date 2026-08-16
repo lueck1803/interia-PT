@@ -55,7 +55,7 @@ $$
 <font color="#ff0000">Hier Farben verwenden</font>
 - Multiplikation $\frac{a}{b}\cdot \frac{c}{d}= \frac{ac}{bd}$
 - Division $\frac{a}{b} : \frac{c}{d}=\frac{\frac{a}{b}}{\frac{c}{d}}=\frac{a}{b} \cdot \frac{d}{c}= \frac{ad}{bc}$
-- Addition $\frac{a}{\textcolor{orange}{b}} + \frac{c}{\textcolor{cyan}{d}}= \frac{a}{\textcolor{orange}{b}}\cdot \frac{\textcolor{cyan}{d}}{\textcolor{cyan}{d}}+ \frac{c}{\textcolor{cyan}{d}}\cdot\frac{\textcolor{orange}{b}}{\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}}{\textcolor{orange}{b}\textcolor{cyan}{d}}+ \frac{c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}+c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}$ 
+- Addition $\frac{a}{\textcolor{orange}{\textcolor{orange}{\textcolor{orange}{\textcolor{orange}{\textcolor{orange}{b}}}}}} + \frac{c}{\textcolor{cyan}{d}}= \frac{a}{\textcolor{orange}{b}}\cdot \frac{\textcolor{cyan}{d}}{\textcolor{cyan}{d}}+ \frac{c}{\textcolor{cyan}{d}}\cdot\frac{\textcolor{orange}{b}}{\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}}{\textcolor{orange}{b}\textcolor{cyan}{d}}+ \frac{c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}+c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}$ 
 - Subtraktion $\frac{a}{b} - \frac{c}{d}= \frac{a}{b}\cdot \frac{d}{d}- \frac{c}{d}\cdot\frac{b}{b}=\frac{ad}{bd}- \frac{cb}{db}=\frac{ad-cb}{db}$ 
 # Aufgaben
  ![[../../../../../../Pasted image 20260814020608.png]]![[../../../../../../Pasted image 20260814020619.png]]
