@@ -103,6 +103,20 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+## 2026-08-16 Ansia 
+Ich schreibe gerade mit ein paar Leuten und mir kam dann halt der Gedanke 🤭.
+
+Und ne ich nutze mein Handy als Notizblock, Checkliste und zum Gedanken sortieren. 
+
+Ich hab schon alle Benachrichtigungen aus gestellt und bekomme sie dann trotzdem viel zu häufig mit🤷‍♂️.
+
+Ich brauche generell leider viele Worte um meine Gedanken auszudrücken. 
+
+Und es gibt Momente da bin ich etwas über kommunikativ. 
+
+Bitte nicht persönlich nehmen und keinen Druck empfinden. 
+
+Ruhig mal stopp sagen. 
 ## 2026-08-13 ansia
 Du sagst es interessiert dich, aber im Endeffekt ist auch belastend und ich glaube du kennst da vielleicht deine Grenzen nicht.
 
