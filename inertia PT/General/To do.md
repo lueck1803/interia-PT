@@ -134,14 +134,13 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - saif khatib
-- [x] balkon gießen
-- [x] bilder von tafel hochladen
+- [ ] balkon gießen
+- [ ] Chilis umsetzen 
 - [ ] Kräuter ernten essen fertig kochen 
 	- [ ] ⤷ Kühlschrank 
 - [ ] ich muss kleiner schreiben an der Tafel 
 - [ ] Kräuter um 1/3 zurück schneiden. Insbesondere den Majoran 
 - [ ] fotos vom Tafelbild nutzen für handout
-- [x] sitzplan der 8a in vertretungslehrer
 - [ ] Kornellkirschen in einen Topf
 - [ ] Löcher in Olivendose bohren 
 	- [ ] etwas hinein pflanzen 
