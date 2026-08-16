@@ -75,9 +75,10 @@ Addition, Subtraktion, Multiplikation und Division von Brüchen an schreiben
 
 
 # <font color="#8db3e2">8a</font> Lisa-Marie Rohr (roh)
-## 2026-08-14
-## 2026-08-14
-teilen durch null müssen wir noch machen
+## 2026-08-17
+- [ ] teilen durch null müssen wir noch machen
+- [ ] 
+
 ---
 - [x] Foto vom Sitzplan 8a Mathe machen
 - [ ] hey ihr habt mich angelogen :P -> ihr wart am Montag nur 18 und nicht 19 Leute:
