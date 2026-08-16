@@ -136,6 +136,7 @@
 - saif khatib
 - [ ] balkon gießen
 - [ ] Chilis umsetzen 
+- [ ] flip flop reparieren 
 - [ ] Kräuter ernten essen fertig kochen 
 	- [ ] ⤷ Kühlschrank 
 - [ ] ich muss kleiner schreiben an der Tafel 
