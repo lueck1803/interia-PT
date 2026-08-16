@@ -137,7 +137,11 @@
 - [x] balkon gießen
 	- [ ] definitiv nochmal machen 
 - [ ] laufen gehen 
-- [ ] floyed rose von den mittleren Saiten heraus nach außen stimmen 
+- [ ] weiße Gitarre stimmen 
+- [ ] floyed rose Stimmen 
+	- [ ] von den mittleren Saiten heraus nach außen stimmen 
+	- [ ] darauf achten dass die Bridge flach liegt, lieber nochmal die saiten entspannen 
+- [ ] die lead von swamphell lässt sich abgesehen vom intro auf st
 - [ ] eventuell helle Wäsche anstellen 
 - [ ] Wäsche zusammen legen 
 - [ ] Duschen 
@@ -149,7 +153,6 @@
 - [ ] linsen fertig essen
 - [x] heroes to us anschauen welche Stimmung?
 	- [ ] hab's auf std transponiert
-- [ ] weiße Gitarre stimmen 
 - [x] bass lastigkeit von JBL ausstellen 
 - [x] Apfelschneider nochmal nach schärfen 
 	- gar nicht nötig
