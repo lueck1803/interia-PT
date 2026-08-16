@@ -146,6 +146,7 @@
 - [ ] eventuell helle Wäsche anstellen 
 - [ ] Wäsche zusammen legen 
 - [ ] Duschen 
+- [ ] weiße Gitarre nochmal gescheit stimmen 
 - [x] Chilis umsetzen 
 - [ ] Brett spülen
 - [ ] flip flop reparieren 
