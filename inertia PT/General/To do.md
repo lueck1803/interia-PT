@@ -138,6 +138,9 @@
 - [ ] Physik verlaufsplan bis Herbstferien 
 - [ ] Matheaufgaben zu Brüchen 
 - [ ] Mathe Handout 
+- [ ] verlaufsplan Mathe bis Herbst 
+- [ ] Mathe-Wettbewerb plan anschauen 
+- [ ] wann ist der genaue Termin?
 - [x] balkon gießen
 - [ ] laufen gehen 
 - [x] weiße Gitarre stimmen 
