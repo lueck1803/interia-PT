@@ -147,6 +147,8 @@
 - [x] bass lastigkeit von JBL ausstellen 
 - [x] Apfelschneider nochmal nach schärfen 
 	- gar nicht nötig
+	- mal schauen auf welche Seite erzieht.
+	- dort eventuell nach schärfen 
 - Kräuter ernten
 	- [x] Rest trocknen 
 - [x] essen fertig kochen 
