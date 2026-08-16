@@ -140,14 +140,15 @@
 - [ ] Duschen 
 - [x] Chilis umsetzen 
 - [ ] flip flop reparieren 
+- [ ] Nudeln kochen 
 - [ ] linsen fertig essen
 - [ ] heroes to us anschauen welche Stimmung?
 - [x] bass lastigkeit von JBL ausstellen 
 - [x] Apfelschneider nochmal nach schärfen 
 	- gar nicht nötig
 - Kräuter ernten
-	- [ ] Rest trocknen 
-- [ ] essen fertig kochen 
+	- [x] Rest trocknen 
+- [x] essen fertig kochen 
 	- [ ] ⤷ Kühlschrank 
 	- [x] Tomatenmark dran 
 		- [ ] <font color="#ff0000">austragen</font> 
