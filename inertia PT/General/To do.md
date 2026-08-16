@@ -135,6 +135,14 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - saif khatib
 - [ ] Arbeitsblatt Physik zusammenstellen 
+	- [ ] darauf erklärung eines Vektors
+	- [ ] koordinatensystem
+		- [ ] 2D
+		- [ ] 3D
+	- [ ] Betragsberechnung mit dem Satz des Pythagoras
+	- [ ] Bild Tangential Geschwindigkeit eines Satteliten um die Erde
+		- [ ] dessen Betrag (näherungsweise) gleich bleibt
+		- [ ] sich aber dessen Richtung ändert ⟹ es handelt sich um eine Beschleunigung
 - [ ] Physik verlaufsplan bis Herbstferien 
 - [ ] Matheaufgaben zu Brüchen 
 - [ ] Mathe Handout 
