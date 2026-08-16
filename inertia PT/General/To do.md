@@ -141,7 +141,7 @@
 - [x] Chilis umsetzen 
 - [ ] Brett spülen
 - [ ] flip flop reparieren 
-- [ ] Nudeln kochen 
+- [x] Nudeln kochen 
 	- [ ] <font color="#ff0000">austragen</font>
 - [ ] linsen fertig essen
 - [ ] heroes to us anschauen welche Stimmung?
