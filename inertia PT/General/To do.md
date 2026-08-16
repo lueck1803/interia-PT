@@ -141,6 +141,7 @@
 - [x] Chilis umsetzen 
 - [ ] flip flop reparieren 
 - [ ] Nudeln kochen 
+	- [ ] <font color="#ff0000">austragen</font>
 - [ ] linsen fertig essen
 - [ ] heroes to us anschauen welche Stimmung?
 - [x] bass lastigkeit von JBL ausstellen 
