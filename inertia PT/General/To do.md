@@ -146,7 +146,8 @@
 - [x] Nudeln kochen 
 	- [ ] <font color="#ff0000">austragen</font>
 - [ ] linsen fertig essen
-- [ ] heroes to us anschauen welche Stimmung?
+- [x] heroes to us anschauen welche Stimmung?
+	- [ ] hab's auf std g
 - [x] bass lastigkeit von JBL ausstellen 
 - [x] Apfelschneider nochmal nach schärfen 
 	- gar nicht nötig
