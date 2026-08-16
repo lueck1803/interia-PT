@@ -137,6 +137,8 @@
 - [x] balkon gießen
 	- [ ] definitiv nochmal machen 
 - [ ] laufen gehen 
+- [ ] eventuell helle Wäsche anstellen 
+- [ ] Wäsche zusammen legen 
 - [ ] Duschen 
 - [x] Chilis umsetzen 
 - [ ] Brett spülen
@@ -154,6 +156,7 @@
 	- [x] Rest trocknen 
 - [x] essen fertig kochen 
 	- [ ] ⤷ Kühlschrank 
+	- schmeckt gut
 	- [x] Tomatenmark dran 
 		- [ ] <font color="#ff0000">austragen</font> 
 - ich muss kleiner schreiben an der Tafel 
