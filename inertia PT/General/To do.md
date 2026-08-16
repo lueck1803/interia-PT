@@ -136,6 +136,8 @@
 - saif khatib
 - [x] balkon gießen
 - [x] bilder von tafel hochladen
+- [ ] Kräuter ernten essen fertig kochen 
+	- [ ] ⤷ Kühlschrank 
 - [ ] ich muss kleiner schreiben an der Tafel 
 - [ ] Kräuter um 1/3 zurück schneiden. Insbesondere den Majoran 
 - [ ] fotos vom Tafelbild nutzen für handout
@@ -160,7 +162,7 @@
 - [ ] tipler srt
 - [x] Duolingo
 - [x] Tesa abroller schärfen 
-	- hat echt gut geklappt mit den Pfeilen 
+	- hat echt gut geklappt mit den Feilen 
 - [x] Apfelschneider mit Feilen schärfen 
 - [x] auberginen Essen machen
 	- Knoblauch 
