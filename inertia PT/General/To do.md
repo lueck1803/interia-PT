@@ -134,12 +134,19 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - saif khatib
-- [ ] balkon gießen
-- [ ] Chilis umsetzen 
+- [x] balkon gießen
+	- [ ] definitiv nochmal machen 
+- [ ] laufen gehen 
+- [ ] Duschen 
+- [x] Chilis umsetzen 
 - [ ] flip flop reparieren 
+- [ ] heroes to us ab
+- [ ] bass lastigkeit von JBL ausstellen 
+- [ ] Apfelschneider nochmal nach schärfen 
 - [ ] Kräuter ernten essen fertig kochen 
 	- [ ] ⤷ Kühlschrank 
-- [ ] ich muss kleiner schreiben an der Tafel 
+- ich muss kleiner schreiben an der Tafel 
+	- [ ] <font color="#c00000">üben</font> 
 - [ ] Kräuter um 1/3 zurück schneiden. Insbesondere den Majoran 
 - [ ] fotos vom Tafelbild nutzen für handout
 - [ ] Kornellkirschen in einen Topf
