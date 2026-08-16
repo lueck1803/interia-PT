@@ -137,7 +137,7 @@
 - [x] balkon gießen
 	- [ ] definitiv nochmal machen 
 - [ ] laufen gehen 
-- [ ] floyed
+- [ ] floyed rose von den mittleren Saiten heraus nach außen stimmen 
 - [ ] eventuell helle Wäsche anstellen 
 - [ ] Wäsche zusammen legen 
 - [ ] Duschen 
