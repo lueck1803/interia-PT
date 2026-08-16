@@ -141,11 +141,14 @@
 - [x] Chilis umsetzen 
 - [ ] flip flop reparieren 
 - [ ] heroes to us anschauen welche Stimmung?
-- [ ] bass lastigkeit von JBL ausstellen 
+- [x] bass lastigkeit von JBL ausstellen 
 - [x] Apfelschneider nochmal nach schärfen 
 	- gar nicht nötig
-- [ ] Kräuter ernten essen fertig kochen 
+- Kräuter ernten
+	- [ ] Rest trocknen 
+- [ ] essen fertig kochen 
 	- [ ] ⤷ Kühlschrank 
+	- [ ] tom
 - ich muss kleiner schreiben an der Tafel 
 	- [ ] <font color="#c00000">üben</font> 
 - [ ] Kräuter um 1/3 zurück schneiden. Insbesondere den Majoran 
