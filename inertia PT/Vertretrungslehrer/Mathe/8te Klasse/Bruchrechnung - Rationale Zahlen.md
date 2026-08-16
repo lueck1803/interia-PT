@@ -54,7 +54,15 @@ $$
 
 <font color="#ff0000">Hier Farben verwenden</font>
 - Multiplikation $\frac{a}{\textcolor{orange}{b}}\cdot \frac{c}{\textcolor{cyan}{d}}= \frac{ac}{\textcolor{orange}{b}\textcolor{cyan}{d}}$
-- Division $\frac{a}{\textcolor{orange}{b}} : \frac{c}{\textcolor{cyan}{d}}=\frac{\frac{a}{\textcolor{orange}{b}}}{\frac{c}{\textcolor{cyan}{d}}}=\frac{a}{\textcolor{orange}{b}} \cdot \frac{\textcolor{cyan}{d}}{c}= \frac{a\textcolor{cyan}{d}}{\textcolor{orange}{b}c}$
+- Division $\frac{a}{\textcolor{orange}{b}} : \frac{c}{\textcolor{cyan}{d}}=\frac{\frac{a}{\textcolor{orange}{b}}}{\frac{c}{\textcolor{cyan}{d}}}=\frac{a}{\textcolor{orange}{b}\cdot\frac{c}{\textcolor{cyan}{d}}}=\frac{a}{\textcolor{orange}{b}} \cdot \frac{\textcolor{cyan}{d}}{c}= \frac{a\cdot\textcolor{cyan}{d}}{\textcolor{orange}{b}\cdot c}$
+	- <u>Erklärung nach dem ersten Schritt</u>: 
+	- Frage: Wenn ich durch einen Bruch teile
+		- welchen Effekt hat der Zähler des Bruchs ? ⟹ verkleinert die Zahl bzw. vergrößert den Nenner der ersten Zahl
+		- Der Nenner des teilenden Bruchs vergrößert die Zahl bzw verkleinert den Nenner
+	- Veranschaulichung durch 2. Schritt:
+		- b wird durch c vergrößert und durch d verkleinert 
+		- ⤷ daher kann man auch d in den Zähler zu a schreiben
+		- ⤷ also den Bruch herum drehen
 - Addition $\frac{a}{\textcolor{orange}{b}} + \frac{c}{\textcolor{cyan}{d}}= \frac{a}{\textcolor{orange}{b}}\cdot \frac{\textcolor{cyan}{d}}{\textcolor{cyan}{d}}+ \frac{c}{\textcolor{cyan}{d}}\cdot\frac{\textcolor{orange}{b}}{\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}}{\textcolor{orange}{b}\textcolor{cyan}{d}}+ \frac{c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}+c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}$ 
 - Subtraktion $\frac{a}{\textcolor{orange}{b}} - \frac{c}{\textcolor{cyan}{d}}= \frac{a}{\textcolor{orange}{b}}\cdot \frac{\textcolor{cyan}{d}}{\textcolor{cyan}{d}}- \frac{c}{\textcolor{cyan}{d}}\cdot\frac{\textcolor{orange}{b}}{\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}}{\textcolor{orange}{b}\textcolor{cyan}{d}}- \frac{c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}-c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}$ 
 # Aufgaben
