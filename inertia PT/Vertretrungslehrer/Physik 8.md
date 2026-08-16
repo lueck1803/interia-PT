@@ -85,7 +85,7 @@
 			- [ ] Möglichst klar formulieren
 		- [ ] und eine weitere Aufgabe auf das Blatt
 	- [ ] Dazu klar machen was hier wichtig und die Erkenntnis ist
-	- [ ] Wie ist die Geschwindigkeit definiert?
+	- [ ] <font color="#7cfc00">Wie ist die Geschwindigkeit definiert?</font>
 		- [ ] wie berechnet man das?
 		- [ ] gibt es "verschiedene" Begriffe von Geschwindigkeiten?
 		- [ ] Momentan Geschwindigkeit als Vektor
