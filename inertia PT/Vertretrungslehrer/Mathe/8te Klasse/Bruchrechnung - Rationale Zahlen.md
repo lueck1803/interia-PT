@@ -52,9 +52,10 @@ $$
 > Teilen durch $0$ ist <u>nicht definiert</u>!
 > 
 
+<font color="#ff0000">Hier Farben verwenden</font>
 - Multiplikation $\frac{a}{b}\cdot \frac{c}{d}= \frac{ac}{bd}$
 - Division $\frac{a}{b} : \frac{c}{d}=\frac{\frac{a}{b}}{\frac{c}{d}}=\frac{a}{b} \cdot \frac{d}{c}= \frac{ad}{bc}$
-- Addition $\frac{a}{b} + \frac{c}{d}= \frac{a}{b}\cdot \frac{d}{d}+ \frac{c}{d}\cdot\frac{b}{b}=\frac{ad}{bd}+ \frac{cb}{db}=\frac{ad+cb}{db}$ 
+- Addition $\frac{\textcolor{}a}{b} + \frac{c}{d}= \frac{a}{b}\cdot \frac{d}{d}+ \frac{c}{d}\cdot\frac{b}{b}=\frac{ad}{bd}+ \frac{cb}{db}=\frac{ad+cb}{db}$ 
 - Subtraktion $\frac{a}{b} - \frac{c}{d}= \frac{a}{b}\cdot \frac{d}{d}- \frac{c}{d}\cdot\frac{b}{b}=\frac{ad}{bd}- \frac{cb}{db}=\frac{ad-cb}{db}$ 
 # Aufgaben
  ![[../../../../../../Pasted image 20260814020608.png]]![[../../../../../../Pasted image 20260814020619.png]]
