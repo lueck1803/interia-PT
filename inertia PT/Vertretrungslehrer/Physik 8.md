@@ -1,6 +1,6 @@
 # <font color="#8db3e2">8a</font> Lisa-Marie Rohr (roh)
 ## 2026-08-17
-- <font color="#ff69b4">Blitzlichtrunde</font> - aber selbstständig
+- [ ] <font color="#ff69b4">Blitzlichtrunde</font> - aber selbstständig
 - [ ] Fahrplan bis Herbstferien
 - [ ] Einheiten umrechnen? ⟹ dann mach ich das nicht mit denen in Mathe
 - [ ] Arbeitsblatt zur Radtour etc
@@ -70,8 +70,35 @@
 - Inhaltsliste direkt aufschreiben
 
 # <font color="#ff1493">8c</font> Fröhlich, Ina-Maria (frö)
+## 2026-08-17
+- [ ] Einheiten umrechnen? ⟹ da ich die nicht in Mathe habe
 
-## 1. Unterricht
+
+- [ ] P 8c
+	- [ ] Plan bis zur Klausur an die Tafel schreiben
+	- [ ] nochmal klar machen, was so mein Anspruch / meine Ziele an den Unterricht ist/sind
+	- [ ] Das arithmetische Mittel erklärt an die Tafel schreiben
+		- [ ] das sollen sie sich so abschreiben
+	- [ ] Denksportphysikaufgabe Radtour 
+		- [ ] auf ein Blatt
+		- [ ] mit Arbeitsauftrag, dass sie das in einem Diagramm visualisieren sollen
+			- [ ] Möglichst klar formulieren
+		- [ ] und eine weitere Aufgabe auf das Blatt
+	- [ ] Dazu klar machen was hier wichtig und die Erkenntnis ist
+	- [ ] Wie ist die Geschwindigkeit definiert?
+		- [ ] wie berechnet man das?
+		- [ ] gibt es "verschiedene" Begriffe von Geschwindigkeiten?
+		- [ ] Momentan Geschwindigkeit als Vektor
+		- [ ] Betrag der Geschwindigkeit
+		- [ ] Vektor an Hand eines Koordinaten Systems erklären
+		- [ ] Anhand des Beispiels Radtour
+			- [ ] Radtour um einen See
+			- [ ] was meint hier Geschwindigkeit?
+		- [ ] Geschwindigkeit bei einer Kreisbewegung
+		- [ ] Kennt ihr den Satz des Pythagoras?
+		- [ ] Durchschnittsgeschwindigkeit - so kenn man sie im Alltag
+
+## 2026-08-10
 - Rayan Abuhamed: 
 	- mag Mathe aber kein Physik
 	- will altenpfleger werden
