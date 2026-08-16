@@ -342,7 +342,7 @@
 	- [ ] 10te klasse Physik 
 - [ ] 5a
 	- [ ] Vorstellungsrunde (<font color="#ff0000">was ich bereits notiert habe</font>)
-- [ ] Apfelschneider
+- [ ] Apfelschneider %% fold %%
 	- [ ] nachpfeilen
 	- [ ] Stelle wegflexen %% fold %%
 - [ ] ![[../../Pasted image 20260809105942.png]]
