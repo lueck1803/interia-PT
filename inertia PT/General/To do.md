@@ -143,6 +143,7 @@
 	- [ ] Bild Tangential Geschwindigkeit eines Satteliten um die Erde
 		- [ ] dessen Betrag (näherungsweise) gleich bleibt
 		- [ ] sich aber dessen Richtung ändert ⟹ es handelt sich um eine Beschleunigung
+- [ ] Fermiaufgabe heraussuchen
 - [ ] Physik verlaufsplan bis Herbstferien 
 - [ ] Matheaufgaben zu Brüchen 
 - [ ] Mathe Handout 

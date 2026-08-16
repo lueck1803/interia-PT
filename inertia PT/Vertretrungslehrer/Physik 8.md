@@ -77,6 +77,14 @@
 - [ ] P 8c
 	- [ ] Plan bis zur Klausur an die Tafel schreiben
 	- [ ] nochmal klar machen, was so mein Anspruch / meine Ziele an den Unterricht ist/sind
+	- [ ] Worum geht es in der Physik?
+		- [ ] Modellierung
+			- [ ] weglassen was UNwichtig ist
+			- [ ] ⤷ führt dazu was wichtig ist
+		- [ ] Beschreibung der Essenz des Problems/der Situation
+		- [ ] Größenordnung einschätzen zu können
+			- [ ] Fermi-Aufgaben
+			- [ ] eine raussuchen
 	- [ ] Das arithmetische Mittel erklärt an die Tafel schreiben
 		- [ ] das sollen sie sich so abschreiben
 	- [ ] Denksportphysikaufgabe Radtour 
@@ -94,9 +102,11 @@
 		- [ ] Anhand des Beispiels Radtour
 			- [ ] Radtour um einen See
 			- [ ] was meint hier Geschwindigkeit?
-		- [ ] Geschwindigkeit bei einer Kreisbewegung
 		- [ ] Kennt ihr den Satz des Pythagoras?
 		- [ ] Durchschnittsgeschwindigkeit - so kenn man sie im Alltag
+	- [ ] <font color="#ff0000">Änderung der Geschwindigkeit</font>
+		- [ ] Geschwindigkeit einer konstanten geradlinig beschleunigten Bewegung
+		- [ ] Geschwindigkeit bei einer "nicht" beschleunigten Kreisbewegung
 
 ## 2026-08-10
 - Rayan Abuhamed: 
