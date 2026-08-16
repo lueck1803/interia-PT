@@ -143,8 +143,8 @@
 	- [ ] darauf achten dass die Bridge flach liegt, lieber nochmal die saiten entspannen 
 - die lead von swamphell lässt sich abgesehen vom intro auf std Tuning leichter spielen. 
 	- ich glaube nur dass solo 2 geht nicht, wegen dem höchsten Ton
-	- doch natürlich die Gitarre ist jaund es geht auch einfacher 
-- [ ] eventuell helle Wäsche anstellen 
+	- doch natürlich die Gitarre ist ja höher und es geht auch einfacher 
+- [ ] helle Wäsche anstellen 
 - [ ] Wäsche zusammen legen 
 - [ ] Duschen 
 - [ ] weiße Gitarre nochmal gescheit stimmen 
