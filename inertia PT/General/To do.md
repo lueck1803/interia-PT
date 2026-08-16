@@ -139,6 +139,7 @@
 - [ ] laufen gehen 
 - [ ] Duschen 
 - [x] Chilis umsetzen 
+- [ ] Brett spülen
 - [ ] flip flop reparieren 
 - [ ] Nudeln kochen 
 	- [ ] <font color="#ff0000">austragen</font>
