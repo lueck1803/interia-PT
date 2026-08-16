@@ -79,9 +79,9 @@ g) $\frac{36}{5}: \frac{6}{25}=$
 h) $\frac{4}{5}: \frac{7}{8}=$
 
 
-- $1~\mathrm{in} =2.54~\mathrm{ cm}$ 
-	- $1=\frac{\pu{ 1 in }}{\pu{ 2.54cm }}=\frac{\pu{ 2.54cm }}{\pu{ 1 in }}$
-	- $\pu{ 64cm }=\pu{ 64 \cancel{cm} } \cdot \frac{\pu{ 1in }}{\pu{ 2.54\cancel{cm} }}= \frac{64}{2.54}\pu{ in }=\pu{ 25.19685 in }$
+- $1~\mathrm{inch} =2.54~\mathrm{ cm}$ 
+	- $1=\frac{\pu{ 1 inch }}{\pu{ 2.54cm }}=\frac{\pu{ 2.54cm }}{\pu{ 1 inch }}$
+	- $\pu{ 64cm }=\pu{ 64 \cancel{cm} } \cdot \frac{\pu{ 1inch }}{\pu{ 2.54\cancel{cm} }}= \frac{64}{2.54}\pu{ inch }=\pu{ 25.19685 inch }=\pu{ 25.2 inch }$
 	- ~={DeepSkyBlue}Aufgabe=~ 
 	- 55 miles per hour $\pu{ 55 mi//h}$ in $\pu{ km//h }$ und $\pu{ m//s }$ 
 	- $1~\mathrm{inch} =2.54~\mathrm{ cm}$ 
