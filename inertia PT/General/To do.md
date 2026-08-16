@@ -135,7 +135,9 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - saif khatib
 - [ ] Arbeitsblatt Physik zusammenstellen 
-- [ ] 
+- [ ] Physik verlaufsplan bis Herbstferien 
+- [ ] Matheaufgaben zu Brüchen 
+- [ ] Mathe Handout 
 - [x] balkon gießen
 - [ ] laufen gehen 
 - [x] weiße Gitarre stimmen 
@@ -154,7 +156,7 @@
 - [ ] flip flop reparieren 
 - [x] Nudeln kochen 
 	- [ ] <font color="#ff0000">austragen</font>
-- [ ] linsen fertig essen
+- [x] linsen fertig essen
 - [x] heroes to us anschauen welche Stimmung?
 	- [ ] hab's auf std transponiert
 - [x] bass lastigkeit von JBL ausstellen 
