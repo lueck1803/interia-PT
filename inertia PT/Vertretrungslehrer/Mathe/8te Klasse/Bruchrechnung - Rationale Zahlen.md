@@ -80,7 +80,7 @@ h) $\frac{4}{5}: \frac{7}{8}=$
 
 
 - $1~\mathrm{in} =2.54~\mathrm{ cm}$ 
-	- $1=\frac{\pu{ 1 in }}{\pu{ 2.54cm }}$
+	- $1=\frac{\pu{ 1 in }}{\pu{ 2.54cm }}=\frac{\pu{ 2.54cm }}{\pu{ 1 in }}$
 	- $\pu{ 64cm }=\pu{ 64 \cancel{cm} } \cdot \frac{\pu{ 1in }}{\pu{ 2.54\cancel{cm} }}= \frac{64}{2.54}\pu{ in }=\pu{ 25.19685 in }$
 	- ~={DeepSkyBlue}Aufgabe=~ 
 	- 55 miles per hour $\pu{ 55 mi//h}$ in $\pu{ km//h }$ und $\pu{ m//s }$ 
