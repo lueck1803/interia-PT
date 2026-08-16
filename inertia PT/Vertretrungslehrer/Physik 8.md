@@ -1,5 +1,10 @@
 # <font color="#8db3e2">8a</font> Lisa-Marie Rohr (roh)
-
+## 2026-08-17
+- <font color="#ff69b4">Blitzlichtrunde</font> - aber selbstständig
+- [ ] Fahrplan bis Herbstferien
+- [ ] Einheiten umrechnen? ⟹ dann mach ich das nicht mit denen in Mathe
+- [ ] Arbeitsblatt zur Radtour etc
+- [ ] Was ist ein Vektor
 
 
 # <font color="#b088ff">8b</font> Güldener, Nicole Kirsten (gld)
@@ -10,7 +15,7 @@
 - Zeichnungen zur Sonnensystemkonstellation zeigen lassen
 - Inhalt der nächsten Stunden anschreiben
 - Aufgaben aus dem Denksportphysik
-##  2026-08-12
+##  2026-08-12 %% fold %%
 - da ich die klasse Dienstag schon in Mathe hatte, brauchen wir ja keine Vorstellungsrunde mehr
 - Auch <font color="#ff69b4">Blitzlichtrunde</font> in Physik machen - Wer war deren Lehrer?
 

@@ -76,7 +76,10 @@ Addition, Subtraktion, Multiplikation und Division von Brüchen an schreiben
 
 # <font color="#8db3e2">8a</font> Lisa-Marie Rohr (roh)
 ## 2026-08-17
-- [ ] teilen durch null müssen wir noch machen
+- [ ] <font color="#ff0000">teilen durch null</font> müssen wir noch machen
+- [ ] Aufgabenblatt zu Brüchen 
+- [ ] mein Handout herumgeben 
+	- [ ] ist es ok ? verständlich?
 - [ ] 
 
 ---
