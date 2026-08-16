@@ -189,6 +189,7 @@
 	- Tomaten
 	- Auberginen 
 	- zusammen in die Pfanne geben
+	- mit Paprika und Tomatenmark andicken
 - [x] M 8a Mein Unterricht Eintrag
 - [ ] Schulportal Kalender sync?
 - [ ] Schulportal app genauer anschauen
