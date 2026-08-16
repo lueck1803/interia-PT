@@ -104,7 +104,12 @@ Kind regards
 Lukas Walter 
 # Nachrichten an Leute
 ## 2026-08-16 
-### 
+### ansia 2
+Danke nochmal für die Worte am Donnerstag die du bezüglich der Manipulation gesagt hast. 
+
+Ich weiß das rational, es hat aber jetzt über ein Jahr gebraucht, bis das auch so langsam emotional an kam und es tut gut, da nochmal ne Einschätzung von außen zu hören, auch wenn du mich nicht kennst. 
+Was ja das perfide an der Aussage ist... 
+Der Gedanke auf den zweiten Blick manipulativ zu sein. 
 ### Ansia 1
 Ich schreibe gerade mit ein paar Leuten und mir kam dann halt der Gedanke 🤭.
 
@@ -301,7 +306,7 @@ Ich hab natürlich mal bei der AfD zu "die Rechte Ordnung der Liebe" nachgeschau
  %% fold %%
 
 Die wollen gerade keinen Gottesstaat.
-
+ %% fold %%
 Die sehen eher dass die Gottlosigkeit, der Materialismus und die angebliche Objektivität der Wissenschaft auf die sich Ideologien wie der Kommunismus, der Nationalsozialismus, aber auch der Neoliberalismus berufen haben und berufen zu den menschenfeindlichsten Systemen geführt haben.
 
 Die sind der Ansicht dass es viele Ersatzreligionen gibt und den Leuten Selbsttranszendenz fehlt. 
