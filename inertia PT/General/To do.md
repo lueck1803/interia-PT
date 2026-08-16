@@ -140,7 +140,7 @@
 - [ ] Duschen 
 - [x] Chilis umsetzen 
 - [ ] flip flop reparieren 
-- [ ] linse
+- [ ] linsen fertig essen
 - [ ] heroes to us anschauen welche Stimmung?
 - [x] bass lastigkeit von JBL ausstellen 
 - [x] Apfelschneider nochmal nach schärfen 
