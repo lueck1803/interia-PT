@@ -367,7 +367,7 @@
 - [ ] Unterricht Montag vorbereiten %% fold %%
 	- [ ] Plan bis zur ersten Klausur vorbereiten das den Leuten zeigen  %% fold %%
 		- [ ] was wird erwartet bzw was ist der Plan 
-	- [ ] Vorstellungsrunde 
+	- [ ] Vorstellungsrunde  %% fold %%
 		- [ ] erstmal Anwesenheit  %% fold %%
 			- [ ] Regina laumann wegen der aktuellen Pläne fragen
 		- [ ] was erwarte ich vom Unterricht 
