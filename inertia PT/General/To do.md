@@ -360,7 +360,7 @@
 - [ ] da ich das tb kabel eh behalte %% fold %%
       ⤷ zusätzlich an ex4 karte und docking station anschließen
  %% fold %%
-- [ ] Unterricht Montag vorbereiten
+- [ ] Unterricht Montag vorbereiten %% fold %%
 	- [ ] Plan bis zur ersten Klausur vorbereiten das den Leuten zeigen 
 		- [ ] was wird erwartet bzw was ist der Plan 
 	- [ ] Vorstellungsrunde 
