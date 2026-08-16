@@ -137,6 +137,7 @@
 - [x] balkon gießen
 	- [ ] definitiv nochmal machen 
 - [ ] laufen gehen 
+- [ ] floyed
 - [ ] eventuell helle Wäsche anstellen 
 - [ ] Wäsche zusammen legen 
 - [ ] Duschen 
@@ -147,7 +148,8 @@
 	- [ ] <font color="#ff0000">austragen</font>
 - [ ] linsen fertig essen
 - [x] heroes to us anschauen welche Stimmung?
-	- [ ] hab's auf std g
+	- [ ] hab's auf std transponiert
+- [ ] weiße Gitarre stimmen 
 - [x] bass lastigkeit von JBL ausstellen 
 - [x] Apfelschneider nochmal nach schärfen 
 	- gar nicht nötig
