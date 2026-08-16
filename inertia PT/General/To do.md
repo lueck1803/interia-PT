@@ -164,7 +164,7 @@
 - [ ] Duschen 
 - [ ] weiße Gitarre nochmal gescheit stimmen 
 - [ ] unknown usb device port reset failed
-      
+	- [ ] https://www.google.com/search?q=unknown+usb+device+port+reset+failed&oq=unkonwn+usb+device+port&gs_lcrp=EgZjaHJvbWUqCQgBEAAYDRiABDIGCAAQRRg5MgkIARAAGA0YgAQyCAgCEAAYDRgeMggIAxAAGA0YHjIICAQQABgNGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhgeMggICRAAGBYYHtIBCTEwMDEzajBqN6gCALACAA&sourceid=chrome&source=chrome.ob&ie=UTF-8
 - [x] Chilis umsetzen 
 - [ ] Brett spülen
 - [ ] flip flop reparieren 
@@ -276,7 +276,7 @@
 - [x] <font color="#daa520">Nachname von Saif </font> ✅ 2026-08-12
 	- [x] ⤷ steht auf dem Zettel?
 	- [ ] khtib bzw. khatib
-	- [ ] letzteres
+	- [ ] letzteres %% fold %%
 - [ ] Wie reinigt man eine Wunde?
 - [ ] Arbeitsblatt mit Radtour erstellen
 - [x] Zähne putzen
@@ -363,7 +363,7 @@
       ⤷ zusätzlich an ex4 karte und docking station anschließen
  %% fold %%
 - [ ] Unterricht Montag vorbereiten %% fold %%
-	- [ ] Plan bis zur ersten Klausur vorbereiten das den Leuten zeigen 
+	- [ ] Plan bis zur ersten Klausur vorbereiten das den Leuten zeigen  %% fold %%
 		- [ ] was wird erwartet bzw was ist der Plan 
 	- [ ] Vorstellungsrunde 
 		- [ ] erstmal Anwesenheit  %% fold %%
