@@ -103,7 +103,9 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
-## 2026-08-16 Ansia 
+## 2026-08-16 
+### 
+### Ansia 1
 Ich schreibe gerade mit ein paar Leuten und mir kam dann halt der Gedanke 🤭.
 
 Und ne ich nutze mein Handy als Notizblock, Checkliste und zum Gedanken sortieren. 
