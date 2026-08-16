@@ -140,6 +140,7 @@
 - [ ] Duschen 
 - [x] Chilis umsetzen 
 - [ ] flip flop reparieren 
+- [ ] linse
 - [ ] heroes to us anschauen welche Stimmung?
 - [x] bass lastigkeit von JBL ausstellen 
 - [x] Apfelschneider nochmal nach schärfen 
@@ -148,10 +149,11 @@
 	- [ ] Rest trocknen 
 - [ ] essen fertig kochen 
 	- [ ] ⤷ Kühlschrank 
-	- [ ] tom
+	- [x] Tomatenmark dran 
+		- [ ] <font color="#ff0000">austragen</font> 
 - ich muss kleiner schreiben an der Tafel 
 	- [ ] <font color="#c00000">üben</font> 
-- [ ] Kräuter um 1/3 zurück schneiden. Insbesondere den Majoran 
+- [x] Kräuter um 1/3 zurück schneiden. Insbesondere den Majoran 
 - [ ] fotos vom Tafelbild nutzen für handout
 - [ ] Kornellkirschen in einen Topf
 - [ ] Löcher in Olivendose bohren 
