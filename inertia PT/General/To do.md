@@ -163,6 +163,7 @@
 - [ ] Wäsche zusammen legen 
 - [ ] Duschen 
 - [ ] weiße Gitarre nochmal gescheit stimmen 
+- [ ] unknown usb device port reset failed
 - [x] Chilis umsetzen 
 - [ ] Brett spülen
 - [ ] flip flop reparieren 
