@@ -142,6 +142,7 @@
 	- [ ] dreisatz aufgaben
 	- [ ] prozentrechnung
 	- [ ] Einheiten umrechnen
+- [ ] Spülmaschine ausräumen 
 - [ ] dringend blatt mit erhöhtem Kontrast Kopieren 
 - [ ] preset leadout einstellen 
 - [x] Fingernägel rechte Hand 
