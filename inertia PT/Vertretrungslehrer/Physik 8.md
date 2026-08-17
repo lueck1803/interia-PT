@@ -295,6 +295,7 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 ### Worum geht es in der Physik? (nochmal Video von dem russischen Prof schauen)
 [Physiker lösen keine Gleichungen](https://www.youtube.com/watch?v=O-YXXxFaIwI&list=PL1u-zzk6SurZrva064nEiJX8-IFb5cNd7&index=53)
 - Modellierung
+	- es geht nicht um Formeln, Formeln sind das stark reduzierte Ergebnis des Modells in Form der Sprache der Mathematik
 - UNwichtiges weglassen
 	- ⤷ damit das Wichtige übrig bleibt
 	- ⤷ "Wichtig" hängt immer von Situation und dem Problem ab
