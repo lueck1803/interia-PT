@@ -89,10 +89,22 @@ f) $\frac{55}{51}\cdot \frac{17}{65} : \frac{39}{77} \cdot \frac{14}{10}=\frac{1
 g) $\frac{36}{5}: \frac{6}{25}=30$
 h) $\frac{4}{5}: \frac{7}{8}=\frac{32}{35}=\pu{ 0.478 }$
 
-$\pu{ 1,3\overline{6} }$
+$1,3\overline{6}$
 $x=\pu{ 1,36666\dots }$
 $\mathrm{I}\quad10x=\pu{ 13.6666\dots }$
-$100x=\pu{ 136,666\dots }$
+$\mathrm{II}\quad100x=\pu{ 136,666\dots }$
+$\mathrm{I}-\mathrm{II}\quad 90x=\pu{ 123} \quad \left|\;:90\right.$
+$x=\frac{\pu{ 123}}{90}$
+
+$1,3\overline{6}$
+$x=\pu{ 1,36666\dots }$
+$\mathrm{I}\quad10x=\pu{ 13.6666\dots }$
+$\mathrm{II}\quad100x=\pu{ 136,666\dots }$
+$\mathrm{I}-\mathrm{II}\quad 90x=\pu{ 123} \quad \left|\;:90\right.$
+$x=\frac{\pu{ 123}}{90}$
+Quersummenregel $1+2+3=6$ ist durch 3 teilbar
+$x=\frac{\pu{ 41}}{30}$
+
 
 
 - $1~\mathrm{inch} =2.54~\mathrm{ cm}$ 
