@@ -311,7 +311,6 @@
 	- [ ] den ruhigen part richtig üben - 50% %% fold %%
 - [ ] device manager bzw. tb karte über terminal suchen   %% fold %%
 	- [ ] gibts ne möglichkeit sie über das terminal oder anderweitig aufzuwecken? %% fold %%
-- [ ] Foto vom Sitzplan 8a Mathe machen %% fold %%
 - [ ] M 8a  %% fold %%
 	- [ ] Formel für arithmetisches mittel an die Tafel schreiben mit Erklärung der einzelnen Komponenten  %% fold %%
 		- [ ] wie geht nochmal das arithmetische Mittel  %% fold %%
@@ -322,7 +321,6 @@
 	- [ ] prozent %% fold %%
 	- [ ] Dazu aufgaben aus dem Buch oder selbst welche finden und ausdenken
  %% fold %%
-- [ ] warum schaltet sich immer die neu installierten plugins aus %% fold %%
 - [ ] mit Frau Mair und Herren Stühlinger sprechen wegen mathe 5. %% fold %%
 	- [ ] tipps holen  %% fold %%
 	- [ ] Unterrichtsstruktur  %% fold %%
@@ -429,7 +427,7 @@
  %% fold %%
 - oh wow Aufzug im Keller ist leise  %% fold %%
  %% fold %%
-- [ ] Arthur schreiben ⟹ soll <font color="#92cddc">Vorschlag</font> für neues Projekt machen  %% fold %%
+- [x] Arthur schreiben ⟹ soll <font color="#92cddc">Vorschlag</font> für neues Projekt machen  %% fold %%
  %% fold %%
 - [ ] zino ich möchte shin son hab kido machen  %% fold %%
  %% fold %%
@@ -452,7 +450,7 @@
 		- [ ] App checken
 		- [ ] Muss ich neue Angaben machen?
 
-- [ ] 30 min Gitarre spielen 
+- [ ] 30 min Gitarre spielen  %% fold %%
 	- [ ] ~={MediumViolet}fraught=~ ~={DeepSkyBlue}mit Timer=~
 		- [ ] intro lead mit slide %% fold %%
 	- [ ] ~={DeepSkyBlue} Dream and the waking=~ <font color="#ff0000">im stehen</font>
