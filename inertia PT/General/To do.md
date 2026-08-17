@@ -157,11 +157,9 @@
 	- [ ] Einheiten umrechnen
 - [ ] Spülmaschine ausräumen 
 - [x] dringend blatt mit erhöhtem Kontrast Kopieren 
-	- [ ] andere PDF löschen 
-	- [ ] auf USB Stick die PDF mit letzter Seite 
-	- [ ] auf usb Stick die pdf mit den letzten zwei Seiten 
-	- [ ] mit ersten zwei Seiten 
-	- [ ] seite zwei Aufgabe mit Biene etwas kleiner auf die Seite 
+	- [x] andere PDF löschen 
+	- [x] auf USB Stick die PDF mit letzter Seite 
+	- [x] seite zwei Aufgabe mit Biene etwas kleiner auf die Seite 
 - [ ] Physik Arbeitsblatt 1 - sortieren
 	- [ ] bzw 8b gebe ich die Einzelseiten 🤷
 	- [ ] ⤷ 18 mal die letzte Seite kopieren
