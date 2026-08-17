@@ -330,5 +330,20 @@ Die Amerikaner geben ihre Körpergrößen halt in foot und inch an. Da sagt man 
 	- $t_{\text{End}}=\pu{ 5h 30 min }$ 
 - Zeitdifferenz:
 	- $\Delta t_{2-1}=t_2-t_{1}= \pu{ 23min } - \pu{ 5min }=\pu{ 18 min }$ 
-	- $\Delta$ markiert eine Differenz. Gilt auch für Gesch
+	- $\Delta$ markiert eine Differenz. Gilt auch für Geschwindigkeiten
+- Momentangeschwindigkeit:
+	- $v_{1} = \pu{ 21 \frac{km}{h} }$ 
+- Durchschnittsgeschwindigkeit:
+	- $\overline{v}_{1}=\pu{ 8 \frac{km}{h} }$
+- Notation der Einheit bei einer bestimmten Aufgabenstellung separat von Zahlenwerten:
+	- $[v]=\pu{ \frac{km}{h} }$
+- Geschwindigkeit als Vektor:
+	- Im Alltag geben wir Geschwindigkeiten meistens als Durchschnittsgeschwindigkeit und nicht als Momentangeschwindigkeit an.
+	- Bei der Beschreibung von physikalischen Problem ist es sinnvoll Geschwindigkeiten zu einem 
+		- gewissen Zeitpunkt
+		- und mit der Aufteilung der Komponenten entlang gewisser Richtungen anzugeben
+		- ⤷ Warum? Da man die verschiedenen Richtungen x und y oder entlang des Radius oder tangential zur Kreisbewegung, separat betrachten kann
+	- Dazu dienen Vektoren:
+		- $\vec{v}_{1}=\begin{pmatrix}2\\ 5\end{pmatrix} \pu{ m/s }$ 
+		- Dies bedeute
 ## 10te
