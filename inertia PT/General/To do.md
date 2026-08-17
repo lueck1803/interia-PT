@@ -147,7 +147,9 @@
 	- [ ] prozentrechnung
 	- [ ] Einheiten umrechnen
 - [ ] Spülmaschine ausräumen 
-- [ ] dringend blatt mit erhöhtem Kontrast Kopieren 
+- [x] dringend blatt mit erhöhtem Kontrast Kopieren 
+	- [ ] andere PDF löschen 
+	- [ ] auf USB Stick die PDF mit letzter Seite 
 - [ ] preset leadout einstellen 
 - [ ] Arbeitsblatt Physik zusammenstellen 
 	- [ ] darauf erklärung eines Vektors
@@ -180,11 +182,11 @@
 	- [ ] abhängen
 	- [ ] zusammenlegen 
 	- [ ] in den Schrank 
-- [ ] Duschen 
+- [x] Duschen 
 - [ ] weiße Gitarre nochmal gescheit stimmen 
 - [ ] unknown usb device port reset failed
 	- [ ] https://www.google.com/search?q=unknown+usb+device+port+reset+failed&oq=unkonwn+usb+device+port&gs_lcrp=EgZjaHJvbWUqCQgBEAAYDRiABDIGCAAQRRg5MgkIARAAGA0YgAQyCAgCEAAYDRgeMggIAxAAGA0YHjIICAQQABgNGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhgeMggICRAAGBYYHtIBCTEwMDEzajBqN6gCALACAA&sourceid=chrome&source=chrome.ob&ie=UTF-8
-- [ ] Brett spülen
+- [x] Brett spülen
 - [ ] flip flop reparieren 
 - [x] heroes to us anschauen welche Stimmung?
 	- [ ] hab's auf std transponiert
@@ -295,7 +297,6 @@
 - [ ] krafttraining
 - [ ] bauchmuskel
 - [ ] yoga
-- [ ] 12:15 Treffen der 5er Mittwoch 
 - [x] standard notification llw Kalender 
 - [x] Harald Jung wegen saniraum fragen
 - [x] Stunden plan austauschen 
