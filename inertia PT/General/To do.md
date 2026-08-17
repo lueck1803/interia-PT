@@ -137,7 +137,7 @@
 - [x] spazieren + aldi
 - [ ] die Tage nochmal nach dem Label maker schauen 
 - [ ] Körnung Aufsätze und andere in Akkuschrauber box
-- [ ] English 5b
+- [ ] English 5b %% fold %%
 	- [ ] Fragewörter 
 	- [ ] wie stelle ich mich vor?
 		- [ ] wie heiße ich
@@ -175,15 +175,16 @@
 	- [ ] laptop
 	- [ ] PC
 	- [ ] Wasser austauschen
-- [x] kursmappe
+- [x] kursmappe %% fold %%
 	- [x] m 5a
 	- [x] m 8a
-	- [x] m 8b
-	- [ ] p 8a 
+	- [ ] m 8b
+	- [x] p 8a 
 	- [x] p 8b
-	- [ ] p 8c
+	- [x] p 8c
 	- [x] p 10b
 	- [x] p 10a
+	- [ ] E 5b
 - [x] Duolingo
 - [ ] Unterricht 10a/b
 - [ ] rechten neuen flipflop reparieren 
