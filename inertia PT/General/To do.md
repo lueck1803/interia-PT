@@ -471,7 +471,7 @@
 			- [ ] die Welt ein bisschen besser verstehen 
 			- [ ] sich in der Welt etwas besser zurecht finden. 
 			- [ ] unabhängig zu sein
-		- [ ] jeder soll mal etwas über sich erzählen (15 min Vorbereitungszeit)
+		- [ ] jeder soll mal etwas über sich erzählen (15 min Vorbereitungszeit) %% fold %%
 			- [ ] seine Einstellung zum Unterrichtsfach 
 				- [ ] was bedeutet es für einen
 				- [ ] was ist die Gesellschaftliche Bedeutung 
