@@ -293,11 +293,19 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 # Handout 
 ## 8te 
 ### Worum geht es in der Physik? (nochmal Video von dem russischen Prof schauen)
+[Physiker lösen keine Gleichungen](https://www.youtube.com/watch?v=O-YXXxFaIwI&list=PL1u-zzk6SurZrva064nEiJX8-IFb5cNd7&index=53)
 - Modellierung
 - UNwichtiges weglassen
 	- ⤷ damit das Wichtige übrig bleibt
 	- ⤷ "Wichtig" hängt immer von Situation und dem Problem ab
 	- ⤷ Bei der Beschreibung von grundlegenden Phänomenen möchte man es auf exakt die abhängigen Größen (Variablen und Parameter) reduzieren, die das Problem beschreiben. 
 - Größenordnung
+### Wo spielen Größenordnungen eine Rolle?
+#### Schätzung was ist ein inch anhand bekanntem Wissen
+
+#### Wie groß ist der CO2 Gehalt in der Luft
+Abschätzung im Vergleich zum Sauerstoff und Sticks
+part per million, promille, prozent
+
 
 ## 10te
