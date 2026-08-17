@@ -142,10 +142,29 @@
 		- [ ] wie alt bin ich
 		- [ ] wo wohne ich?
 		- [ ] wie geht es mir heute
+		- [ ] lieblings Aktivität
 	- [ ] Satzbau in Englisch 
 	- [ ] Kurzgeschichte
-<u>The Secret in the Garden</u>
-Tom looks out of the window. It is a sunny Monday. He is at home, but he is bored. His dog, Max, barks at an old brown box under the big apple tree.Tom runs into the garden. "What is it, Max?" he asks.He opens the box. Inside, there is a shiny silver key and a small red notebook. Tom opens the notebook. On the first page, there is a drawing of his house and an arrow pointing to the old tree house.Tom smiles. He takes the key and runs to the tree house. The key fits. Inside the tree house, he finds a new comic book and a bag of gummy bears. Max wags his tail. It is the best Monday ever.
+	<u>The Secret in the Garden</u>
+	Tom looks out of the window. It is a sunny Monday. He is at home, but he is bored. His dog, Max, barks at an old brown box under the big apple tree.Tom runs into the garden. "What is it, Max?" he asks.He opens the box. Inside, there is a shiny silver key and a small red notebook. Tom opens the notebook. On the first page, there is a drawing of his house and an arrow pointing to the old tree house.Tom smiles. He takes the key and runs to the tree house. The key fits. Inside the tree house, he finds a new comic book and a bag of gummy bears. Max wags his tail. It is the best Monday ever.
+
+	
+	**<u>At school</u>**
+	Lucas goes to school every day of the week. He has many subjects to go to each school day: English, art, science, mathematics, gym, and history. His mother packs a big backpack full of books and lunch for Lucas.
+	
+	His first class is English, and he likes that teacher very much. His English teacher says that he is a good pupil, which Lucas knows means that she thinks he is a good student.
+	
+	His next class is art. He draws on paper with crayons and pencils and sometimes uses a ruler. Lucas likes art. It is his favorite class.
+	
+	His third class is science. This class is very hard for Lucas to figure out, but he gets to work with his classmates a lot, which he likes to do. His friend, Kyle, works with Lucas in science class, and they have fun.
+	
+	Then Lucas gets his break for lunch. He sits with Kyle while he eats. The principal, or the headmaster as some call him, likes to walk around and talk to students during lunch to check that they are all behaving.
+	
+	The next class is mathematics, which most of the students just call math. Kyle has trouble getting a good grade in mathematics, but the teacher is very nice and helpful.
+	
+	His fourth class is gym. It is just exercising.
+	
+	History is his last class of the day. Lucas has a hard time staying awake. Many lessons are boring, and he is very tired after doing gym.
 - [ ] Tastatur wischen 
 	- [ ] laptop
 	- [ ] PC
