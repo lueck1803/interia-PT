@@ -135,7 +135,6 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - saif khatib
 - [ ] Duolingo
-- [ ] Physik Arbeitsblatt 1 - sortieren
 - [x] Wäsche auf sofa zusammen legen 
 	- [ ] wegräumen 
 - [ ] rechten neuen flipflop reparieren 
@@ -150,6 +149,8 @@
 - [x] dringend blatt mit erhöhtem Kontrast Kopieren 
 	- [ ] andere PDF löschen 
 	- [ ] auf USB Stick die PDF mit letzter Seite 
+	- [ ] auf usb Stick die pdf mit den letzten zwei Seiten 
+- [ ] Physik Arbeitsblatt 1 - sortieren
 - [ ] preset leadout einstellen 
 - [ ] Arbeitsblatt Physik zusammenstellen 
 	- [ ] darauf erklärung eines Vektors
