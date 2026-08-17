@@ -134,7 +134,7 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - saif khatib
-- [ ] Duolingo
+- [x] Duolingo
 - [ ] tackerklammern nachfüllen 
 - [x] Wäsche auf sofa zusammen legen 
 	- [ ] wegräumen 
@@ -152,6 +152,7 @@
 	- [ ] auf USB Stick die PDF mit letzter Seite 
 	- [ ] auf usb Stick die pdf mit den letzten zwei Seiten 
 	- [ ] mit ersten zwei Seiten 
+	- [ ] 
 - [ ] Physik Arbeitsblatt 1 - sortieren
 	- [ ] bzw 8b gebe ich die Einzelseiten 🤷
 	- [ ] Einzelseiten tackern + lochen
