@@ -135,6 +135,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - saif khatib
 - [x] Duolingo
+- [ ] Locher leeren 
 - [ ] tackerklammern nachfüllen 
 - [x] Wäsche auf sofa zusammen legen 
 	- [ ] wegräumen 
