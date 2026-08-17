@@ -152,7 +152,7 @@
 	- [ ] auf USB Stick die PDF mit letzter Seite 
 	- [ ] auf usb Stick die pdf mit den letzten zwei Seiten 
 	- [ ] mit ersten zwei Seiten 
-	- [ ] 
+	- [ ] seite zwei Aufgabe mit Biene etwas kleiner auf die Seite 
 - [ ] Physik Arbeitsblatt 1 - sortieren
 	- [ ] bzw 8b gebe ich die Einzelseiten 🤷
 	- [ ] Einzelseiten tackern + lochen
