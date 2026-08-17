@@ -134,11 +134,13 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - saif khatib
+- [ ] Duolingo
+- [ ] Linter ausstellen
 - [x] spazieren + aldi
 - [ ] die Tage nochmal nach dem Label maker schauen 
 - [ ] Körnung Aufsätze und andere in Akkuschrauber box
 - [ ] English 5b %% fold %%
-	- [ ] Fragewörter 
+	- [ ] Fragewörter  %% fold %%
 	- [ ] wie stelle ich mich vor?
 		- [ ] wie heiße ich
 		- [ ] wie alt bin ich
@@ -185,7 +187,6 @@
 	- [x] p 10b
 	- [x] p 10a
 	- [ ] E 5b
-- [x] Duolingo
 - [ ] Unterricht 10a/b
 - [ ] rechten neuen flipflop reparieren 
 - [ ] matheblatt mit bruchrechenaufgaben
@@ -254,13 +255,6 @@
 - [ ] boden wischen 
 - [ ] board ausprobieren
 	- [ ] beim board ausprobieren die Expander anzubringen 
-- [ ] aldi
-	- [ ] saft
-	- [ ] Bier 
-	- [ ] nusskati 
-	- [ ] eis
-	- [ ] Auberginen?
-	- [ ] Tomaten 
 - [x] black waltz solo
 - [x] black Waltz (rythm)
 - [ ] wie funktioniert das mit #task richtig?
@@ -268,7 +262,6 @@
 - [x] Tesa abroller schärfen 
 	- hat echt gut geklappt mit den Feilen 
 - [x] Apfelschneider mit Feilen schärfen 
-- [ ] M 8a Mein Unterricht Eintrag
 - [ ] Schulportal Kalender sync?
 - [ ] Schulportal app genauer anschauen
 - [ ] in Schulbuch der Klasse 5 schauen
@@ -338,7 +331,7 @@
 	- [ ] das update hatte den bug nicht behoben
 	- [ ] obsidian neustarten am pc
 - [ ] laufen gehen
-- [ ] krafttraining
+- [ ] krafttraining %% fold %%
 - [ ] bauchmuskel
 - [ ] yoga
 - [x] standard notification llw Kalender 
