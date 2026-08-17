@@ -308,9 +308,11 @@ Man muss nicht die genaue Zahl wissen, aber wenn die Zehner Potenz passt, kann m
 #### Schätzung wie groß ist ein inch/Zoll anhand bekanntem Wissen
 Größenvergleich Haargummi der mit etwa 2,5cm einem inch entspricht gegenüber einem Fahrradreifen, dessen Durchmesser in Zoll/inch angegeben wird.
 
-#### Wie groß ist der CO2 Gehalt in der Luft %% fold %%
+#### Wie groß ist der CO2 Gehalt in der Luft
 Abschätzung im Vergleich zum Sauerstoff und Stickstoff
 part per million, promille, prozent
+
+$CO_{2} = \pu{  400 ppm} = 400 \cdot 10^{-6}$ 
 
 #### Größe des Jupiters
 Der Durchmesser der Erde passt etwa 1,5 mal in den großen roten Fleck
