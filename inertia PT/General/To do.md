@@ -213,8 +213,6 @@
 	- [ ] <font color="#c00000">üben</font> 
 - [ ] fotos vom Tafelbild nutzen für handout
 - [ ] Kornellkirschen in einen Topf
-- [ ] Löcher in Olivendose bohren 
-	- [ ] etwas hinein pflanzen 
 - [ ] boden wischen 
 - [ ] board ausprobieren
 	- [ ] beim board ausprobieren die Expander anzubringen 
