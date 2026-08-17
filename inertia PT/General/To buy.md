@@ -7,6 +7,7 @@
 - [ ] Saft
 - [ ] Bier
 - [ ] Hafermilch 
+- [ ] Parmesan 
 ## Speicher/Sonst 
 - [x] Pfand 
 - [x] salz
