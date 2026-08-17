@@ -135,6 +135,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - saif khatib
 - [ ] Duolingo
+- [ ] Physik Arbeitsblatt 1 - sortieren
 - [ ] Wäsche auf sofa zusammen legen 
 - [ ] rechten neuen flipflop reparieren 
 - [ ] matheblatt mit bruchrechenaufgaben
@@ -299,7 +300,7 @@
 - [x] Stunden plan austauschen 
 - [ ] fidget toys in lisas Klassen raum %% fold %%
 - [ ] Maulwurf - bass %% fold %%
-	- [ ] gurt anbringen 
+	- [ ] gurt anbringen  %% fold %%
 	- [ ] schön langsam Feeling üben 
 - [ ] Panzerhenker
 	- [ ] ich hab's grob schon drauf
