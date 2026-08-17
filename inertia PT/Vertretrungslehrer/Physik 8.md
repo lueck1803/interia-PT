@@ -306,7 +306,7 @@ Die richtige Einheit und die Größenordnung in 10er Potenzen.
 Man muss nicht die genaue Zahl wissen, aber wenn die Zehner Potenz passt, kann man sehr gut Einschätzungen treffen und Dinge auf ihre Plausibilität überprüfen.
 
 #### Schätzung wie groß ist ein inch/Zoll anhand bekanntem Wissen
-Größenvergleich Haargummi der mit etwa 2,5cm einem inch entspricht gegenüber einem Fahrrad
+Größenvergleich Haargummi der mit etwa 2,5cm einem inch entspricht gegenüber einem Fahrradreifen, dessen Durchmesser in Zoll/inch angegeben wird.
 
 #### Wie groß ist der CO2 Gehalt in der Luft
 Abschätzung im Vergleich zum Sauerstoff und Stickstoff
@@ -314,5 +314,10 @@ part per million, promille, prozent
 
 #### Größe des Jupiters
 Der Durchmesser der Erde passt etwa 1,5 mal in den großen roten Fleck
-### 
+### Verschiedene Größen und deren Notation
+Angaben <font color="#ff0000">immer mit Einheit</font>, sonst haben Zahlen keinerlei Aussage.
+Ob etwas in cm oder in m angegeben ist, macht einen großen Unterschied. 
+
+Umgangssprachlich ist das häufig sehr klar, wenn man jemanden nach seiner Größe fragt, und dieser sagt eins achtzig, dann wissen wir intuitiv, dass 1,8 m bzw. 180 cm gemeint sind.
+Die Amerikaner geben ihre Körpergrößen halt in foot und inch an. Da sagt man dann 5 foot 4. Also 5 mal ~30 cm (genau 30,48 cm) 
 ## 10te
