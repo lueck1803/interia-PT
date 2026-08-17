@@ -135,7 +135,8 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - saif khatib
 - [ ] rechten neuen flipflop reparieren 
-- [ ] Fingernägel rechte Hand 
+- [ ] preset leadout einstellen 
+- [x] Fingernägel rechte Hand 
 - [ ] Arbeitsblatt Physik zusammenstellen 
 	- [ ] darauf erklärung eines Vektors
 	- [ ] koordinatensystem
