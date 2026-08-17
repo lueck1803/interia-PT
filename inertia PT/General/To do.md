@@ -161,7 +161,7 @@
 	- [x] auf USB Stick die PDF mit letzter Seite 
 	- [x] seite zwei Aufgabe mit Biene etwas kleiner auf die Seite 
 - [ ] Physik Arbeitsblatt 1 - sortieren
-	- [ ] bzw 8b gebe ich die Einzelseiten 🤷
+	- bzw 8b gebe ich die Einzelseiten 🤷
 	- [ ] ⤷ 18 mal die letzte Seite kopieren
 	- [ ] und mit vorletzter seite zusammen tackern 
 - [ ] preset leadout einstellen 
