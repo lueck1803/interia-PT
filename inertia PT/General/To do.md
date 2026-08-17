@@ -135,6 +135,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - saif khatib
 - [ ] rechten neuen flipflop reparieren 
+- [ ] Spülmaschine ausräumen 
 - [ ] dringend blatt mit erhöhtem Kontrast Kopieren 
 - [ ] preset leadout einstellen 
 - [x] Fingernägel rechte Hand 
