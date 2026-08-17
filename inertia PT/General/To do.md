@@ -136,7 +136,7 @@
 - saif khatib
 - [x] Duolingo
 - [x] Locher leeren 
-- [ ] untte
+- [ ] Unterricht 10a/b
 - [ ] tackerklammern nachfüllen 
 - [x] Wäsche auf sofa zusammen legen 
 	- [ ] wegräumen 
