@@ -135,6 +135,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - saif khatib
 - [ ] spazieren + aldi
+- [ ] Körnungsaufsa
 - [x] kursmappe
 	- [x] m 5a
 	- [ ] m 8a
