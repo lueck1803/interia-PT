@@ -155,8 +155,11 @@
 	- [ ] bzw 8b gebe ich die Einzelseiten 🤷
 	- [ ] brauche 20 Exemplare 
 		- [ ] 19 
-	- [ ] 5 mal 1+2 doppel
-	- [ ] 
+	- [ ] 1+2 doppel: 5 mal 
+		- [ ]  Einzel: 15 mal
+	- [ ] 3+4 doppelt: 1 mal
+		- [ ] Einzel: 4
+		- [ ] 
 	- [ ] Blatt 1:
 		- [ ] habe ich 
 		- [ ] noch zu kopieren 
