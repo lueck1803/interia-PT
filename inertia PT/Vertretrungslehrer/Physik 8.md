@@ -343,7 +343,7 @@ Die Amerikaner geben ihre Körpergrößen halt in foot und inch an. Da sagt man 
 	- Im Alltag geben wir Geschwindigkeiten meistens als Durchschnittsgeschwindigkeit und nicht als Momentangeschwindigkeit an.
 	- Bei der Beschreibung von physikalischen Problem ist es sinnvoll Geschwindigkeiten zu einem 
 		- gewissen Zeitpunkt %% fold %%
-		- und mit der Aufteilung der Komponenten entlang gewisser Richtungen anzugeben
+		- und mit der Aufteilung der Komponenten entlang gewisser Richtungen anzugeben %% fold %%
 		- ⤷ Warum? Da man die verschiedenen Richtungen x und y oder entlang des Radius oder tangential zur Kreisbewegung, separat betrachten kann
 	- Dazu dienen Vektoren:
 		- $\vec{v}_{1}=\begin{pmatrix}v_{x}\\ v_{y}\end{pmatrix}=\begin{pmatrix}2\\ 5\end{pmatrix} \pu{ m/s }$ 
