@@ -134,12 +134,18 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - saif khatib
+- [ ] spazieren
+- [x] kursmappe
+	- [x] m 5a
+	- [ ] m 8a
+	- [x] m 8b
+	- [ ] p 8a 
+	- [x] p 8b
+	- [ ] p 8c
+	- [x] p 10b
+	- [x] p 10a
 - [x] Duolingo
-- [x] Locher leeren 
 - [ ] Unterricht 10a/b
-- [x] tackerklammern nachfüllen 
-- [x] Wäsche auf sofa zusammen legen 
-	- [ ] wegräumen 
 - [ ] rechten neuen flipflop reparieren 
 - [ ] matheblatt mit bruchrechenaufgaben
 	- [ ] den bisherigen Infos 
@@ -158,7 +164,7 @@
 - [ ] Physik Arbeitsblatt 1 - sortieren
 	- [ ] bzw 8b gebe ich die Einzelseiten 🤷
 	- [ ] ⤷ 18 mal die letzte Seite kopieren
-	- [ ] und mit vor letzter seite zusammen tackern 
+	- [ ] und mit vorletzter seite zusammen tackern 
 - [ ] preset leadout einstellen 
 - [ ] Arbeitsblatt Physik zusammenstellen 
 	- [ ] darauf erklärung eines Vektors
@@ -218,7 +224,6 @@
 	- [ ] eis
 	- [ ] Auberginen?
 	- [ ] Tomaten 
-- [ ] spazieren
 - [x] black waltz solo
 - [x] black Waltz (rythm)
 - [ ] wie funktioniert das mit #task richtig?
@@ -269,11 +274,6 @@
 	- [ ] teilen durch null erklärt 
 	- [ ] Bruchrechnung - Rechenregeln 
 - [ ] bastelkram weg packen
-- [x] kursmappe
-	- [x] p 8b
-	- [x] p 10b
-	- [x] p 10a
-	- [x] m 8b
 - [ ] Unterricht für M 8a vorbereiten
 	- [ ] Mathe-Wettbewerb wann und was sind die Themen?
 	- [ ] sitzplan 8a fotografieren 
@@ -326,7 +326,7 @@
 		- [ ] Brüche anordnen %% fold %%
 		- [ ] die vier rechen Arten
 	- [ ] prozent %% fold %%
-	- [ ] Dazu aufgaben aus dem Buch oder selbst welche finden und ausdenken
+	- [ ] Dazu aufgaben aus dem Buch oder selbst welche finden und ausdenken %% fold %%
  %% fold %%
 - [ ] mit Frau Mair und Herren Stühlinger sprechen wegen mathe 5. %% fold %%
 	- [ ] tipps holen  %% fold %%
