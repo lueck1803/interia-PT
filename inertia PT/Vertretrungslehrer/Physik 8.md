@@ -310,9 +310,9 @@ Größenvergleich Haargummi der mit etwa 2,5cm einem inch entspricht gegenüber 
 
 #### Wie groß ist der CO2 Gehalt in der Luft
 Abschätzung im Vergleich zum Sauerstoff und Stickstoff
-part per million, promille, prozent
-
-$CO_{2} = \pu{  400 ppm} = 400 \cdot 10^{-6}$ 
+parts per million, promille, prozent
+parts per million - Anteile pro Millionen ⟹ $\pu{ \frac{1}{1 \cdot 10^6} }= \pu{ 10^{-6} }$
+$CO_{2} = \pu{  400 ppm} = 400 \cdot 10^{-6}= \pu{ 0.0004 }= \pu{ 0.04\% }$ 
 
 #### Größe des Jupiters
 Der Durchmesser der Erde passt etwa 1,5 mal in den großen roten Fleck
