@@ -3800,6 +3800,67 @@ Da 30 M auf einer Seite wird 3 mal der Mustersatz gestrickt, da dieser 10M breit
 ⃞ ⃞ ⃞ ⃞ ⃞ ⃞  ◣ ⃝   ~={Crimson}1=~
 
 # Englisch
+## Der englische Satzbau
+Der englische Satzbau ist fest und folgt fast immer der 
+- Grundregel **Subjekt – Verb – Objekt (SVO)**. 
+	Das bedeutet: 
+	- Wer tut etwas?
+	- Was tut er oder sie?
+	- Wen oder was betrifft es?
+	- Danach kommen Ort und Zeit.
+- Die Grundregel: SVO
+	- **Subjekt:** Wer oder was? (z. B. I, the dog, Sarah)
+	- **Verb (Prädikat)**: Was tut das Subjekt? (z. B. play, * eats*, reads)
+	- **Objekt:** Wen oder was? (z. B. tennis, an apple, a book)
+	- <u>Beispiel:</u> Sarah [Subjekt] reads [Verb] a book [Object].
+	- *Tipp:* Das Subjekt und das Verb stehen im Englischen fast immer direkt zusammen. Du darfst sie nicht trennen.
+- **Ort und Zeit (Place and Time)**
+  Wenn du sagst, wo und wann etwas passiert, gilt die Reihenfolge **Ort vor Zeit**.
+	- **Regel:** Subjekt + Verb + Objekt + Ort + Zeit
+	- <u>Beispiel:</u> I play football [Objekt] in the park [Ort] on Sunday [Zeit].
+	- Du kannst die ==Zeitangabe== auch an den **Anfang** des Satzes stellen. Dann machst du ein Komma danach: *On Sunday, I play football in the park*.
+- **Fragen (Questions)**
+  Bei Fragen mit den meisten Verben brauchst du ein Hilfsverb wie do oder did an den Anfang:
+	- **Reihenfolge:** Fragewort + Hilfsverb + Subjekt + Vollverb
+	- <u>Beispiel:</u> Where do you live?
+- **1. Verneinungen (Negations)**
+  Um einen Satz im Englischen zu verneinen, brauchst du in den meisten Fällen ein **Hilfsverb** (auxiliary verb) und das Wörtchen **not**. Das eigentliche Hauptverb rutscht dann automatisch in die Grundform (Infinitiv).
+- Die **Grundregel** mit "do / does / did" Bei fast allen normalen Verben (wie like, play, work) benutzt du im Present Simple das Hilfsverb do (bzw. does bei he/she/it) und in der Vergangenheit did.
+	- Regel: Subjekt + Hilfsverb + not + Hauptverb (Infinitiv)
+	- <u>Beispiel (Gegenwart):</u> I do not (don't) like spinach.
+	- <u>Beispiel (he/she/it):</u> He does not (doesn't) watch TV. (Achtung: Das "-s" wandert von watches zu does!)
+	- <u>Beispiel (Vergangenheit):</u> They did not (didn't) play tennis.
+	- <u>Die Ausnahme:</u> "to be" und Modalverben
+	  Wenn im Satz bereits eine Form von to be (am, is, are, was, were) oder ein Modalverb (can, must, should, will) steht, brauchst du kein extra Hilfsverb. Du hängst das not einfach direkt hinten an.
+		- <u>Beispiel</u> (to be): She is not (isn't) at home.
+		- <u>Beispiel</u> (Modalverb): We cannot (can't) come tomorrow.
+- **2. Häufigkeitsadverbien (Adverbs of Frequency)**
+  Wörter wie **always** (immer), **never** (nie), **often** (oft), **usually** (normalerweise) oder **sometimes** (manchmal) haben einen <font color="#ffd700">ganz festen Platz</font> im Satz. 
+	- Merk dir hierfür am besten eine <font color="#ffd700">goldene Regel:</font> 
+	  Vor dem **Hauptverb**, aber nach "to be".
+	- <u>Regel A:</u> Vor dem normalen Hauptverb
+		- <u>Struktur:</u> Subjekt + Adverb + Hauptverb
+		- <u>Beispiel:</u> Tom always eats breakfast at 7 a.m.
+		- <u>Beispiel:</u> They never watch horror movies.
+	- <u>Regel B</u>: Nach dem Verb "to be" Formen von to be (am, is, are) sind im Englischen dominant – sie drängen das Adverb nach hinten.
+		- <u>Struktur:</u> Subjekt + to be + Adverb
+		- <u>Beispiel:</u> You are never late.
+		- <u>Beispiel:</u> The weather is often rainy. 
+	- <u>Regel C:</u> Zwischen Hilfs- und Hauptverb 
+	  Wenn du einen Satz mit einem Modalverb (can, should) oder einer zusammengesetzten Zeitform (wie dem Present Perfect have seen) hast, quetscht sich das Adverb genau in die Mitte.
+		- <u>Struktur:</u> Subjekt + Hilfsverb + Adverb + Hauptverb
+		- <u>Beispiel:</u> I can usually help you.
+- Perfekt! Lass uns das Gelernte direkt testen. Bringe die folgenden Wörter in die richtige englische Reihenfolge. 
+	- <u>Übung 1:</u> Verneinungen 
+		- not / like / computer games / they / do
+		- at school / is / today / she / not
+		- pizza / we / eat / did / yesterday / not
+	- <u>Übung 2: </u>Häufigkeitsadverbien
+		- sometimes / drinks / tea / coffee / instead of / he
+		- always / soccer / friends / my / are / tired / after
+		- can / fast / I / read / usually
+	- <u>Tipp zum Spicken:</u> Denk bei den Verneinungen an das Hilfsverb (do/does/did) oder an die Sonderstellung von is. 
+	  Bei den <u>Adverbien</u> gilt: Vor das normale Verb, aber nach Formen von to be (is/are).
 ## Adverb
 ## Korrekturen in meinem Ausdruck
 ### 2026-07-13 Proposal
@@ -4164,7 +4225,7 @@ Where:
 - $T_1$ and $T_2$: Absolute temperatures of the two surfaces (K)
 #### Key Insight:
 - Non-linear dependence on temperature ($T^4$).
-- Dominates at high temperatures (e.g., sun, industrial furnaces).
+- Dominates at high temperatures (e.g., sun, industrial furnaces). %% fold %%
 - No medium required—works in a vacuum.
 
 ## Comparison of Rates

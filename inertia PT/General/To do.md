@@ -191,10 +191,25 @@
 			- <u>Beispiel:</u> They never watch horror movies.
 		- <u>Regel B</u>: Nach dem Verb "to be" Formen von to be (am, is, are) sind im Englischen dominant – sie drängen das Adverb nach hinten.
 			- <u>Struktur:</u> Subjekt + to be + Adverb
-			- Beispiel: You are never late.Beispiel: The weather is often rainy.Regel C: Zwischen Hilfs- und HauptverbWenn du einen Satz mit einem Modalverb (can, should) oder einer zusammengesetzten Zeitform (wie dem Present Perfect have seen) hast, quetscht sich das Adverb genau in die Mitte.Struktur: Subjekt + Hilfsverb + Adverb + HauptverbBeispiel: I can usually help you.
-	- [ ] Perfekt! Lass uns das Gelernte direkt testen. Bringe die folgenden Wörter in die richtige englische Reihenfolge.Schreibe deine Antworten einfach in den Chat, und wir gehen sie danach gemeinsam durch!Übung 1: Verneinungennot / like / computer games / they / doat school / is / today / she / notpizza / we / eat / did / yesterday / notÜbung 2: Häufigkeitsadverbiensometimes / drinks / tea / coffee / instead of / healways / soccer / friends / my / are / tired / aftercan / fast / I / read / usuallyTipp zum Spicken:Denk bei den Verneinungen an das Hilfsverb (do/does/did) oder an die Sonderstellung von is.Bei den Adverbien gilt: Vor das normale Verb, aber nach Formen von to be (is/are).
-	- [ ] Kurzgeschichte
-	<u>The Secret in the Garden</u>
+			- <u>Beispiel:</u> You are never late.
+			- <u>Beispiel:</u> The weather is often rainy. 
+		- <u>Regel C:</u> Zwischen Hilfs- und Hauptverb 
+		  Wenn du einen Satz mit einem Modalverb (can, should) oder einer zusammengesetzten Zeitform (wie dem Present Perfect have seen) hast, quetscht sich das Adverb genau in die Mitte.
+			- <u>Struktur:</u> Subjekt + Hilfsverb + Adverb + Hauptverb
+			- <u>Beispiel:</u> I can usually help you.
+	- Perfekt! Lass uns das Gelernte direkt testen. Bringe die folgenden Wörter in die richtige englische Reihenfolge. 
+		- <u>Übung 1:</u> Verneinungen 
+			- not / like / computer games / they / do
+			- at school / is / today / she / not
+			- pizza / we / eat / did / yesterday / not
+		- <u>Übung 2: </u>Häufigkeitsadverbien
+			- sometimes / drinks / tea / coffee / instead of / he
+			- always / soccer / friends / my / are / tired / after
+			- can / fast / I / read / usually
+		- <u>Tipp zum Spicken:</u> Denk bei den Verneinungen an das Hilfsverb (do/does/did) oder an die Sonderstellung von is. 
+		  Bei den <u>Adverbien</u> gilt: Vor das normale Verb, aber nach Formen von to be (is/are).
+	- <u>Kurzgeschichte:</u>
+		<u>The Secret in the Garden</u>
 	Tom looks out of the window. It is a sunny Monday. He is at home, but he is bored. His dog, Max, barks at an old brown box under the big apple tree.Tom runs into the garden. "What is it, Max?" he asks.He opens the box. Inside, there is a shiny silver key and a small red notebook. Tom opens the notebook. On the first page, there is a drawing of his house and an arrow pointing to the old tree house.Tom smiles. He takes the key and runs to the tree house. The key fits. Inside the tree house, he finds a new comic book and a bag of gummy bears. Max wags his tail. It is the best Monday ever.
 
 	
