@@ -55,7 +55,8 @@ $$
 <font color="#ff0000">Hier Farben verwenden</font>
 
 Zeigen dass $0.\overline{9}=1$
- $x=0.overline{9}$
+ $x=0.\overline{9}$
+ $10x=9,\ov$
 - Multiplikation $\frac{a}{\textcolor{orange}{b}}\cdot \frac{c}{\textcolor{cyan}{d}}= \frac{ac}{\textcolor{orange}{b}\textcolor{cyan}{d}}$
 - Division $\frac{a}{\textcolor{orange}{b}} : \frac{c}{\textcolor{cyan}{d}}=\frac{\frac{a}{\textcolor{orange}{b}}}{\frac{c}{\textcolor{cyan}{d}}}=\frac{a}{\textcolor{orange}{b}\cdot\frac{c}{\textcolor{cyan}{d}}}=\frac{a}{\textcolor{orange}{b}} \cdot \frac{\textcolor{cyan}{d}}{c}= \frac{a\cdot\textcolor{cyan}{d}}{\textcolor{orange}{b}\cdot c}$
 	- <u>Erklärung nach dem ersten Schritt</u>: 
