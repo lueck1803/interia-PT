@@ -144,8 +144,9 @@
 		- [ ] wie geht es mir heute
 	- [ ] Satzbau in Englisch 
 	- [ ] Kurzgeschichte
-<u>The Secret in the Garden</u>
-Tom looks out of the window. It is a sunny Monday. He is at home, but he is bored. His dog, Max, barks at an old brown box under the big apple tree.Tom runs into the garden. "What is it, Max?" he asks.He opens the box. Inside, there is a shiny silver key and a small red notebook. Tom opens the notebook. On the first page, there is a drawing of his house and an arrow pointing to the old tree house.Tom smiles. He takes the key and runs to the tree house. The key fits. Inside the tree house, he finds a new comic book and a bag of gummy bears. Max wags his tail. It is the best Monday ever.
+	<u>The Secret in the Garden</u>
+	Tom looks out of the window. It is a sunny Monday. He is at home, but he is bored. His dog, Max, barks at an old brown box under the big apple tree.Tom runs into the garden. "What is it, Max?" he asks.He opens the box. Inside, there is a shiny silver key and a small red notebook. Tom opens the notebook. On the first page, there is a drawing of his house and an arrow pointing to the old tree house.Tom smiles. He takes the key and runs to the tree house. The key fits. Inside the tree house, he finds a new comic book and a bag of gummy bears. Max wags his tail. It is the best Monday ever.
+
 - [ ] Tastatur wischen 
 	- [ ] laptop
 	- [ ] PC
