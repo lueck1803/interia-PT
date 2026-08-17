@@ -84,10 +84,15 @@ a) $\frac{3}{5}+\frac{5}{4}=\frac{37}{20}=\pu{ 1.85 }$
 b) $\frac{8}{3}-\frac{7}{2}+\frac{13}{5}=\frac{53}{30}=\pu{ 1.7\overline{6}}$
 c) $\frac{24}{40}-\frac{33}{9}+\frac{28}{15}=-\frac{6}{5}=\pu{ -1.2 }$
 d) $\frac{21 \cdot 3 \cdot 35}{49 \cdot 15 \cdot 9}=\frac{1}{3}$
-e) $\frac{75}{36} \cdot \frac{144}{125}=\frac{12}{5}=\pu{  }$
-f) $\frac{55}{51}\cdot \frac{17}{65} : \frac{39}{77} \cdot \frac{14}{10}=\frac{11}{39}: \frac{39}{55}=\frac{605}{1521}$
-g) $\frac{36}{5}: \frac{6}{25}=$
-h) $\frac{4}{5}: \frac{7}{8}=$
+e) $\frac{75}{36} \cdot \frac{144}{125}=\frac{12}{5}=\pu{ 2.4 }$
+f) $\frac{55}{51}\cdot \frac{17}{65} : \frac{39}{77} \cdot \frac{14}{10}=\frac{11}{39}: \frac{39}{55}=\frac{605}{1521}=\pu{ 0.3978 }$
+g) $\frac{36}{5}: \frac{6}{25}=30$
+h) $\frac{4}{5}: \frac{7}{8}=\frac{32}{35}=\pu{ 0.478 }$
+
+$\pu{ 1,3\overline{6} }$
+$x=\pu{ 1,36666\dots }$
+$\mathrm{I}\quad10x=\pu{ 13.6666\dots }$
+$100x=\pu{ 136,666\dots }$
 
 
 - $1~\mathrm{inch} =2.54~\mathrm{ cm}$ 
