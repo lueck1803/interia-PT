@@ -134,6 +134,7 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - saif khatib
+- [ ] Wäsche auf sofa zusammen legen 
 - [ ] rechten neuen flipflop reparieren 
 - [ ] matheblatt mit bruchrechenaufgaben
 	- [ ] den bisherigen Infos 
@@ -145,7 +146,6 @@
 - [ ] Spülmaschine ausräumen 
 - [ ] dringend blatt mit erhöhtem Kontrast Kopieren 
 - [ ] preset leadout einstellen 
-- [x] Fingernägel rechte Hand 
 - [ ] Arbeitsblatt Physik zusammenstellen 
 	- [ ] darauf erklärung eines Vektors
 	- [ ] koordinatensystem
@@ -171,35 +171,26 @@
 - die lead von swamphell lässt sich abgesehen vom intro auf std Tuning leichter spielen. 
 	- ich glaube nur dass solo 2 geht nicht, wegen dem höchsten Ton
 	- doch natürlich die Gitarre ist ja höher und es geht auch einfacher 
-- [ ] helle Wäsche anstellen 
-- [ ] Wäsche zusammen legen 
+- [ ] helle Wäsche 
+	- [x] anstellen 
+	- [x] aufhängen 
+	- [ ] abhängen
+	- [ ] zusammenlegen 
+	- [ ] in den Schrank 
 - [ ] Duschen 
 - [ ] weiße Gitarre nochmal gescheit stimmen 
 - [ ] unknown usb device port reset failed
 	- [ ] https://www.google.com/search?q=unknown+usb+device+port+reset+failed&oq=unkonwn+usb+device+port&gs_lcrp=EgZjaHJvbWUqCQgBEAAYDRiABDIGCAAQRRg5MgkIARAAGA0YgAQyCAgCEAAYDRgeMggIAxAAGA0YHjIICAQQABgNGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhgeMggICRAAGBYYHtIBCTEwMDEzajBqN6gCALACAA&sourceid=chrome&source=chrome.ob&ie=UTF-8
-- [x] Chilis umsetzen 
 - [ ] Brett spülen
 - [ ] flip flop reparieren 
-- [x] Nudeln kochen 
-	- [ ] <font color="#ff0000">austragen</font>
-- [x] linsen fertig essen
 - [x] heroes to us anschauen welche Stimmung?
 	- [ ] hab's auf std transponiert
-- [x] bass lastigkeit von JBL ausstellen 
 - [x] Apfelschneider nochmal nach schärfen 
 	- gar nicht nötig
 	- mal schauen auf welche Seite erzieht.
 	- dort eventuell nach schärfen 
-- Kräuter ernten
-	- [x] Rest trocknen 
-- [x] essen fertig kochen 
-	- [ ] ⤷ Kühlschrank 
-	- schmeckt gut
-	- [x] Tomatenmark dran 
-		- [ ] <font color="#ff0000">austragen</font> 
 - ich muss kleiner schreiben an der Tafel 
 	- [ ] <font color="#c00000">üben</font> 
-- [x] Kräuter um 1/3 zurück schneiden. Insbesondere den Majoran 
 - [ ] fotos vom Tafelbild nutzen für handout
 - [ ] Kornellkirschen in einen Topf
 - [ ] Löcher in Olivendose bohren 
