@@ -141,7 +141,9 @@
 		- [ ] wie heiße ich
 		- [ ] wie alt bin ich
 		- [ ] wo wohne ich?
-		- [ ] wie
+		- [ ] wie geht es mir heute
+	- [ ] Satzbau in Englisch 
+	- [ ] Kurzgeschichte
 - [ ] Tastatur wischen 
 	- [ ] laptop
 	- [ ] PC
