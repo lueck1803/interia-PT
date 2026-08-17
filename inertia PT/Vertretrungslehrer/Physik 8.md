@@ -290,4 +290,14 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 
 # 10b
 
-# Houn
+# Handout 
+## 8te 
+### Worum geht es in der Physik? (nochmal Video von dem russischen Prof schauen)
+- Modellierung
+- UNwichtiges weglassen
+	- ⤷ damit das Wichtige übrig bleibt
+	- ⤷ "Wichtig" hängt immer von Situation und dem Problem ab
+	- ⤷ Bei der Beschreibung von grundlegenden Phänomenen möchte man es auf exakt die abhängigen Größen (Variablen und Parameter) reduzieren, die das Problem beschreiben. 
+- Größenordnung
+
+## 10te
