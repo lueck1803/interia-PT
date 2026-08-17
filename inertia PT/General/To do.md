@@ -153,7 +153,8 @@
 	- [ ] mit ersten zwei Seiten 
 - [ ] Physik Arbeitsblatt 1 - sortieren
 	- [ ] Blatt 1:
-		- [ ] 
+		- [ ] habe ich 
+		- [ ] noch zu kopieren 
 	- [ ] Blatt 2: 
 - [ ] preset leadout einstellen 
 - [ ] Arbeitsblatt Physik zusammenstellen 
