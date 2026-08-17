@@ -134,7 +134,8 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - saif khatib
-- [ ] spazieren + aldi
+- [x] spazieren + aldi
+- [ ] die Tage nochmal nach dem Label maker schauen 
 - [ ] Körnung Aufsätze und andere in Akkuschrauber box
 - [ ] English 5b
 	- [ ] Fragewörter 
