@@ -300,8 +300,8 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 	- ⤷ damit das Wichtige übrig bleibt
 	- ⤷ "Wichtig" hängt immer von Situation und dem Problem ab
 	- ⤷ Bei der Beschreibung von grundlegenden Phänomenen möchte man es auf exakt die abhängigen Größen (Variablen und Parameter) reduzieren, die das Problem beschreiben. 
-- Größenordnung
 ### Verschiedene Abschätzungen von Größenordnungen?
+- Größenordnung
 Was ist hier wichtig?
 Die richtige Einheit und die Größenordnung in 10er Potenzen.
 Man muss nicht die genaue Zahl wissen, aber wenn die Zehner Potenz passt, kann man sehr gut Einschätzungen treffen und Dinge auf ihre Plausibilität überprüfen.
