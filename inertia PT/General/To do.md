@@ -153,6 +153,7 @@
 	- [ ] mit ersten zwei Seiten 
 - [ ] Physik Arbeitsblatt 1 - sortieren
 	- [ ] bzw 8b gebe ich die Einzelseiten 🤷
+	- [ ] Einzelseiten tackern + lochen
 	- [ ] brauche 20 Exemplare 
 		- [ ] 19 
 	- [ ] 1+2 doppel: 5 mal 
