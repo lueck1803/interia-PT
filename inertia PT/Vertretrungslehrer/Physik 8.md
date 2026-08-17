@@ -344,6 +344,6 @@ Die Amerikaner geben ihre Körpergrößen halt in foot und inch an. Da sagt man 
 		- und mit der Aufteilung der Komponenten entlang gewisser Richtungen anzugeben
 		- ⤷ Warum? Da man die verschiedenen Richtungen x und y oder entlang des Radius oder tangential zur Kreisbewegung, separat betrachten kann
 	- Dazu dienen Vektoren:
-		- $\vec{v}_{1}=\begin{pmatrix}2\\ 5\end{pmatrix} \pu{ m/s }$ 
-		- Dies bedeute
+		- $\vec{v}_{1}=\begin{pmatrix}v_{x}\\ v_{y}\end{pmatrix}=\begin{pmatrix}2\\ 5\end{pmatrix} \pu{ m/s }$ 
+		- Dies bedeutet, dass die Geschwindigkeit zum Zeitpunkt 1, in x-Richtung $\pu{ 2 m/s }$ und in y-Richtung $\pu{ 5 m/s }$ war.
 ## 10te
