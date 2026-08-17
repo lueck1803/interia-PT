@@ -159,11 +159,10 @@
 		- [ ]  Einzel: 15 mal
 	- [ ] 3+4 doppelt: 1 mal
 		- [ ] Einzel: 4
-		- [ ] ⤷ 15 mal die letzte Seite kopieren 
-	- [ ] Blatt 1:
-		- [ ] habe ich 
-		- [ ] noch zu kopieren 
-	- [ ] Blatt 2: 
+		- [ ] ⤷ 15 mal die letzte Seite kopieren
+		- [ ] + 2 mal für E und M
+	- [ ] für Emily und Mia aus 8a 
+		- [ ] seite 2: 2 mal
 - [ ] preset leadout einstellen 
 - [ ] Arbeitsblatt Physik zusammenstellen 
 	- [ ] darauf erklärung eines Vektors
@@ -313,7 +312,7 @@
 - [ ] yoga
 - [x] standard notification llw Kalender 
 - [x] Harald Jung wegen saniraum fragen
-- [x] Stunden plan austauschen 
+- [x] Stunden plan austauschen  %% fold %%
 - [ ] fidget toys in lisas Klassen raum %% fold %%
 - [ ] Maulwurf - bass %% fold %%
 	- [ ] gurt anbringen  %% fold %%
