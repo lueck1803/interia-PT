@@ -136,6 +136,10 @@
 - saif khatib
 - [ ] spazieren + aldi
 - [ ] Körnung Aufsätze und andere in Akkuschrauber box
+- [ ] Tastatur wischen 
+	- [ ] laptop
+	- [ ] PC
+	- [ ] Wasser austauschen
 - [x] kursmappe
 	- [x] m 5a
 	- [ ] m 8a
