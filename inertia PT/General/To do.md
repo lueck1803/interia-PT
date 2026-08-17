@@ -214,15 +214,7 @@
 - [x] Tesa abroller schärfen 
 	- hat echt gut geklappt mit den Feilen 
 - [x] Apfelschneider mit Feilen schärfen 
-- [x] auberginen Essen machen
-	- Knoblauch 
-	- Zwiebeln 
-	- Paprika 
-	- Tomaten
-	- Auberginen 
-	- zusammen in die Pfanne geben
-	- mit Paprika und Tomatenmark andicken
-- [x] M 8a Mein Unterricht Eintrag
+- [ ] M 8a Mein Unterricht Eintrag
 - [ ] Schulportal Kalender sync?
 - [ ] Schulportal app genauer anschauen
 - [ ] in Schulbuch der Klasse 5 schauen
@@ -282,7 +274,6 @@
 	- [ ] letzteres %% fold %%
 - [ ] Wie reinigt man eine Wunde?
 - [ ] Arbeitsblatt mit Radtour erstellen
-- [x] Zähne putzen
 - [ ] Gesicht waschen
 
 
@@ -306,8 +297,8 @@
 - [x] standard notification llw Kalender 
 - [x] Harald Jung wegen saniraum fragen
 - [x] Stunden plan austauschen 
-- [ ] fidget toys in lisas Klassen raum
-- [ ] Maulwurf - bass
+- [ ] fidget toys in lisas Klassen raum %% fold %%
+- [ ] Maulwurf - bass %% fold %%
 	- [ ] gurt anbringen 
 	- [ ] schön langsam Feeling üben 
 - [ ] Panzerhenker

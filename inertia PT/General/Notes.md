@@ -2084,10 +2084,20 @@ Tage produktiv gewesen:
 
 
 # Backen und kochen
+## infos
 - <span style="color:gold">ei steif schlagen</span> 
 - hoher Becher statt breite Schüssel 
 - Metall Schüssel statt Plastik, wegen dem fett was an Plastik besser haftet.⟹Fett ist der Feind von Steifem Eiweiß 
 - Prise Salz ⟹wirkt auf die elektrische Ladung der Proteine, die stoßen sich weniger ab
+## Rezepte 
+###  auberginen Essen
+- Knoblauch 
+- Zwiebeln 
+- Paprika 
+- Tomaten
+- Auberginen 
+- zusammen in die Pfanne geben
+- mit Paprika und Tomatenmark andicken
 ## Garzeiten Schnellkochtopf 
 - Berglinsen: 1h
 # Gartenarbeit und Pflanzen
@@ -4095,7 +4105,7 @@ Aber eher im übertragenen Sinne.
 Die Band verwendet aber ausschließlich diese Bedeutung. Für diese bedeutungen gibt es aber eher andere Worte.
 
 # Biologie
-## Tier und Pflanzen Bestimmungen
+## Tier und Pflanzen Bestimmungen %% fold %%
 - [x] kleine braune weiß gepunktete Spinne bestimmen %% fold %%
 	- Weißpunkt-Fettspinne / Dreiecksfettspinne  %% fold %%
 - [x] Pflanze beim majoran bestimmen %% fold %%
@@ -4103,7 +4113,7 @@ Die Band verwendet aber ausschließlich diese Bedeutung. Für diese bedeutungen 
 ## Evolution und DNA 🧬
 ### RNA - [Älter als das Leben?](https://youtu.be/4eRdmamHBpc?is=lyy2evRfv9D4uZ46)
 
-Joa ach. 
+Joa ach.  %% fold %%
 Ich bin Physiker und checke es/komme mit.
 Man darf ja auch ausdrücklich Pausen machen und zurück spulen 😅.
 Das ist ja keine Schande.
