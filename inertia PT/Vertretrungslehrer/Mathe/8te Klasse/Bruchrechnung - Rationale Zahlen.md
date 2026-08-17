@@ -89,12 +89,19 @@ f) $\frac{55}{51}\cdot \frac{17}{65} : \frac{39}{77} \cdot \frac{14}{10}=\frac{1
 g) $\frac{36}{5}: \frac{6}{25}=30$
 h) $\frac{4}{5}: \frac{7}{8}=\frac{32}{35}=\pu{ 0.478 }$
 
-$1,3\overline{6}$
-$x=\pu{ 1,36666\dots }$
-$\mathrm{I}\quad10x=\pu{ 13.6666\dots }$
-$\mathrm{II}\quad100x=\pu{ 136,666\dots }$
-$\mathrm{I}-\mathrm{II}\quad 90x=\pu{ 123} \quad \left|\;:90\right.$
-$x=\frac{\pu{ 123}}{90}$
+$0,\overline{9}$
+$\mathrm{I}\quad x=\pu{ 0.9999\dots }$
+$\mathrm{II}\quad10x=\pu{ 9,99999\dots }$
+$\mathrm{II}\quad1000x=\pu{ 2357,777\dots }$
+$\mathrm{I}-\mathrm{II}\quad 9x=\pu{9} \quad \left|\;:9\right.$
+$x=9$
+
+$2,35\overline{7}$
+$x=\pu{ 2,357777\dots }$
+$\mathrm{I}\quad100x=\pu{ 235,7777\dots }$
+$\mathrm{II}\quad1000x=\pu{ 2357,777\dots }$
+$\mathrm{I}-\mathrm{II}\quad 900x=\pu{2122} \quad \left|\;:900\right.$
+$x=\frac{\pu{2122}}{900}=\frac{1061}{450}$
 
 $1,3\overline{6}$
 $x=\pu{ 1,36666\dots }$
