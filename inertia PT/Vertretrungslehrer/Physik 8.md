@@ -193,8 +193,6 @@
 	- Energie - Erhaltung
 	- Reibung
 
-![[Images/BAS/Pasted image 20260809234907.png]]
-![[Images/BAS/Pasted image 20260809234955.png]]
 ## Basis Wissen
 - Was ist eine Größenordnung?
 	- zehn
@@ -291,3 +289,5 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 # 10a
 
 # 10b
+
+# Houn
