@@ -105,7 +105,7 @@ Addition, Subtraktion, Multiplikation und Division von Brüchen an schreiben
 
 - Größenvergleich  halber Liter, 0,33 L, ein viertel Liter ein Drittel Liter, 0,75 L, 0,2 L, ein achtel Liter, 200 milli Liter von einem Liter wurden getrunken, 40 Zentiliter.
 	- jeweils ne 1Liter Flasche ausmalen 
-- 3/5 vs 2/3 $\frac{3}{5} \square \frac{2}{3}$
+- 3/5 vs 2/3 $\frac{3}{5} \scalebox{2}{$\square$} \frac{2}{3}$ $\mathord{\scalerel*{\Box}{gX}}$
 - 3/4 vs 5/8
 - 2/3 vs 5/8
 - 2/3 vs 6/8
