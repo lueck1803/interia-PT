@@ -308,7 +308,7 @@ Man muss nicht die genaue Zahl wissen, aber wenn die Zehner Potenz passt, kann m
 #### Schätzung wie groß ist ein inch/Zoll anhand bekanntem Wissen
 Größenvergleich Haargummi der mit etwa 2,5cm einem inch entspricht gegenüber einem Fahrradreifen, dessen Durchmesser in Zoll/inch angegeben wird.
 
-#### Wie groß ist der CO2 Gehalt in der Luft
+#### Wie groß ist der CO2 Gehalt in der Luft %% fold %%
 Abschätzung im Vergleich zum Sauerstoff und Stickstoff
 part per million, promille, prozent
 
