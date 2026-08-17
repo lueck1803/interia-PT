@@ -136,13 +136,19 @@
 - saif khatib
 - [ ] spazieren + aldi
 - [ ] Körnung Aufsätze und andere in Akkuschrauber box
+- [ ] English 5b
+	- [ ] wie stelle ich mich vor?
+		- [ ] wie heiße ich
+		- [ ] wie alt bin ich
+		- [ ] wo wohne ich?
+		- [ ] wie
 - [ ] Tastatur wischen 
 	- [ ] laptop
 	- [ ] PC
 	- [ ] Wasser austauschen
 - [x] kursmappe
 	- [x] m 5a
-	- [ ] m 8a
+	- [x] m 8a
 	- [x] m 8b
 	- [ ] p 8a 
 	- [x] p 8b
