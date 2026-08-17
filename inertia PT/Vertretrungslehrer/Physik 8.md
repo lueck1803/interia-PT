@@ -327,7 +327,7 @@ Die Amerikaner geben ihre Körpergrößen halt in foot und inch an. Da sagt man 
 	- $t_{0}=$ 10:30 Uhr (Startzeitpunkt oder Anfangswert- wird häufig mit 0 angegeben)
 	- $t_{1}=\pu{ 5min }$ dieser Zeitpunkt ist relativ zum Startzeitpunkt
 	- $t_{2}= \pu{ 23 min }$ %% fold %%
-	- $t_{\text{End}}=\pu{ 5h 30 min }$ 
+	- $t_{\text{End}}=\pu{ 5h 30 min }$  %% fold %%
 - Zeitdifferenz:
 	- $\Delta t_{2-1}=t_2-t_{1}= \pu{ 23min } - \pu{ 5min }=\pu{ 18 min }$ 
 	- $\Delta$ markiert eine Differenz. Gilt auch für Geschwindigkeiten
