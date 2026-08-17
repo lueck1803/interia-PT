@@ -134,6 +134,7 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - saif khatib
+- [ ] Duolingo
 - [ ] Wäsche auf sofa zusammen legen 
 - [ ] rechten neuen flipflop reparieren 
 - [ ] matheblatt mit bruchrechenaufgaben
@@ -210,7 +211,6 @@
 - [x] black Waltz (rythm)
 - [ ] wie funktioniert das mit #task richtig?
 - [ ] tipler srt
-- [x] Duolingo
 - [x] Tesa abroller schärfen 
 	- hat echt gut geklappt mit den Feilen 
 - [x] Apfelschneider mit Feilen schärfen 
