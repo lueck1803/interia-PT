@@ -134,8 +134,32 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - saif khatib
+- [x] Duolingo
+- [x] Locher leeren 
+- [ ] Unterricht 10a/b
+- [x] tackerklammern nachfüllen 
+- [x] Wäsche auf sofa zusammen legen 
+	- [ ] wegräumen 
 - [ ] rechten neuen flipflop reparieren 
-- [ ] Fingernägel rechte Hand 
+- [ ] matheblatt mit bruchrechenaufgaben
+	- [ ] den bisherigen Infos 
+	- [ ] auch die erklärung warum 0.9 periode gleich 1 ist
+	- [ ] aufgabe mit 2,567 periode 7 in bruch umwandeln als aufgabe 
+	- [ ] dreisatz aufgaben
+	- [ ] prozentrechnung
+	- [ ] Einheiten umrechnen
+- [ ] Spülmaschine ausräumen 
+- [x] dringend blatt mit erhöhtem Kontrast Kopieren 
+	- [ ] andere PDF löschen 
+	- [ ] auf USB Stick die PDF mit letzter Seite 
+	- [ ] auf usb Stick die pdf mit den letzten zwei Seiten 
+	- [ ] mit ersten zwei Seiten 
+	- [ ] seite zwei Aufgabe mit Biene etwas kleiner auf die Seite 
+- [ ] Physik Arbeitsblatt 1 - sortieren
+	- [ ] bzw 8b gebe ich die Einzelseiten 🤷
+	- [ ] ⤷ 18 mal die letzte Seite kopieren
+	- [ ] und mit vor letzter seite zusammen tackern 
+- [ ] preset leadout einstellen 
 - [ ] Arbeitsblatt Physik zusammenstellen 
 	- [ ] darauf erklärung eines Vektors
 	- [ ] koordinatensystem
@@ -161,35 +185,26 @@
 - die lead von swamphell lässt sich abgesehen vom intro auf std Tuning leichter spielen. 
 	- ich glaube nur dass solo 2 geht nicht, wegen dem höchsten Ton
 	- doch natürlich die Gitarre ist ja höher und es geht auch einfacher 
-- [ ] helle Wäsche anstellen 
-- [ ] Wäsche zusammen legen 
-- [ ] Duschen 
+- [ ] helle Wäsche 
+	- [x] anstellen 
+	- [x] aufhängen 
+	- [ ] abhängen
+	- [ ] zusammenlegen 
+	- [ ] in den Schrank 
+- [x] Duschen 
 - [ ] weiße Gitarre nochmal gescheit stimmen 
 - [ ] unknown usb device port reset failed
 	- [ ] https://www.google.com/search?q=unknown+usb+device+port+reset+failed&oq=unkonwn+usb+device+port&gs_lcrp=EgZjaHJvbWUqCQgBEAAYDRiABDIGCAAQRRg5MgkIARAAGA0YgAQyCAgCEAAYDRgeMggIAxAAGA0YHjIICAQQABgNGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhgeMggICRAAGBYYHtIBCTEwMDEzajBqN6gCALACAA&sourceid=chrome&source=chrome.ob&ie=UTF-8
-- [x] Chilis umsetzen 
-- [ ] Brett spülen
+- [x] Brett spülen
 - [ ] flip flop reparieren 
-- [x] Nudeln kochen 
-	- [ ] <font color="#ff0000">austragen</font>
-- [x] linsen fertig essen
 - [x] heroes to us anschauen welche Stimmung?
 	- [ ] hab's auf std transponiert
-- [x] bass lastigkeit von JBL ausstellen 
 - [x] Apfelschneider nochmal nach schärfen 
 	- gar nicht nötig
 	- mal schauen auf welche Seite erzieht.
 	- dort eventuell nach schärfen 
-- Kräuter ernten
-	- [x] Rest trocknen 
-- [x] essen fertig kochen 
-	- [ ] ⤷ Kühlschrank 
-	- schmeckt gut
-	- [x] Tomatenmark dran 
-		- [ ] <font color="#ff0000">austragen</font> 
 - ich muss kleiner schreiben an der Tafel 
 	- [ ] <font color="#c00000">üben</font> 
-- [x] Kräuter um 1/3 zurück schneiden. Insbesondere den Majoran 
 - [ ] fotos vom Tafelbild nutzen für handout
 - [ ] Kornellkirschen in einen Topf
 - [ ] Löcher in Olivendose bohren 
@@ -209,19 +224,10 @@
 - [x] black Waltz (rythm)
 - [ ] wie funktioniert das mit #task richtig?
 - [ ] tipler srt
-- [x] Duolingo
 - [x] Tesa abroller schärfen 
 	- hat echt gut geklappt mit den Feilen 
 - [x] Apfelschneider mit Feilen schärfen 
-- [x] auberginen Essen machen
-	- Knoblauch 
-	- Zwiebeln 
-	- Paprika 
-	- Tomaten
-	- Auberginen 
-	- zusammen in die Pfanne geben
-	- mit Paprika und Tomatenmark andicken
-- [x] M 8a Mein Unterricht Eintrag
+- [ ] M 8a Mein Unterricht Eintrag
 - [ ] Schulportal Kalender sync?
 - [ ] Schulportal app genauer anschauen
 - [ ] in Schulbuch der Klasse 5 schauen
@@ -281,7 +287,6 @@
 	- [ ] letzteres %% fold %%
 - [ ] Wie reinigt man eine Wunde?
 - [ ] Arbeitsblatt mit Radtour erstellen
-- [x] Zähne putzen
 - [ ] Gesicht waschen
 
 
@@ -301,22 +306,20 @@
 - [ ] krafttraining
 - [ ] bauchmuskel
 - [ ] yoga
-- [ ] 12:15 Treffen der 5er Mittwoch 
 - [x] standard notification llw Kalender 
 - [x] Harald Jung wegen saniraum fragen
-- [x] Stunden plan austauschen 
-- [ ] fidget toys in lisas Klassen raum
-- [ ] Maulwurf - bass
-	- [ ] gurt anbringen 
-	- [ ] schön langsam Feeling üben 
-- [ ] Panzerhenker
+- [x] Stunden plan austauschen  %% fold %%
+- [ ] fidget toys in lisas Klassen raum %% fold %%
+- [ ] Maulwurf - bass %% fold %%
+	- [ ] gurt anbringen  %% fold %%
+	- [ ] schön langsam Feeling üben  %% fold %%
+- [ ] Panzerhenker %% fold %%
 	- [ ] ich hab's grob schon drauf
 	- [ ] tremolo picking ganz langsam sauber üben - 50 % %% fold %%
 	- [ ] beim rhythmischen Teil nicht zu sehr rein hauen und weniger Emotion, ganz nüchtern und präzise spielen so dass auch die pinches sitzen - 80% %% fold %%
 	- [ ] den ruhigen part richtig üben - 50% %% fold %%
 - [ ] device manager bzw. tb karte über terminal suchen   %% fold %%
 	- [ ] gibts ne möglichkeit sie über das terminal oder anderweitig aufzuwecken? %% fold %%
-- [ ] Foto vom Sitzplan 8a Mathe machen %% fold %%
 - [ ] M 8a  %% fold %%
 	- [ ] Formel für arithmetisches mittel an die Tafel schreiben mit Erklärung der einzelnen Komponenten  %% fold %%
 		- [ ] wie geht nochmal das arithmetische Mittel  %% fold %%
@@ -327,7 +330,6 @@
 	- [ ] prozent %% fold %%
 	- [ ] Dazu aufgaben aus dem Buch oder selbst welche finden und ausdenken
  %% fold %%
-- [ ] warum schaltet sich immer die neu installierten plugins aus %% fold %%
 - [ ] mit Frau Mair und Herren Stühlinger sprechen wegen mathe 5. %% fold %%
 	- [ ] tipps holen  %% fold %%
 	- [ ] Unterrichtsstruktur  %% fold %%
@@ -434,7 +436,7 @@
  %% fold %%
 - oh wow Aufzug im Keller ist leise  %% fold %%
  %% fold %%
-- [ ] Arthur schreiben ⟹ soll <font color="#92cddc">Vorschlag</font> für neues Projekt machen  %% fold %%
+- [x] Arthur schreiben ⟹ soll <font color="#92cddc">Vorschlag</font> für neues Projekt machen  %% fold %%
  %% fold %%
 - [ ] zino ich möchte shin son hab kido machen  %% fold %%
  %% fold %%
@@ -457,7 +459,7 @@
 		- [ ] App checken
 		- [ ] Muss ich neue Angaben machen?
 
-- [ ] 30 min Gitarre spielen 
+- [ ] 30 min Gitarre spielen  %% fold %%
 	- [ ] ~={MediumViolet}fraught=~ ~={DeepSkyBlue}mit Timer=~
 		- [ ] intro lead mit slide %% fold %%
 	- [ ] ~={DeepSkyBlue} Dream and the waking=~ <font color="#ff0000">im stehen</font>
