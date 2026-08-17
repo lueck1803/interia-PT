@@ -63,7 +63,6 @@ $$
 Addition, Subtraktion, Multiplikation und Division von Brüchen an schreiben
 - Multiplikation $\frac{a}{b}\cdot \frac{c}{d}= \frac{ac}{bd}$
 - Division $\frac{a}{b} : \frac{c}{d}=\frac{\frac{a}{b}}{\frac{c}{d}}=\frac{a}{b} \cdot \frac{d}{c}= \frac{ad}{bc}$
-	- 
 - Addition $\frac{a}{b} + \frac{c}{d}= \frac{a}{b}\cdot \frac{d}{d}+ \frac{c}{d}\cdot\frac{b}{b}=\frac{ad}{bd}+ \frac{cb}{db}=\frac{ad+cb}{db}$ 
 - Subtraktion $\frac{a}{b} - \frac{c}{d}= \frac{a}{b}\cdot \frac{d}{d}- \frac{c}{d}\cdot\frac{b}{b}=\frac{ad}{bd}- \frac{cb}{db}=\frac{ad-cb}{db}$ 
 
