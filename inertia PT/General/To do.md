@@ -136,6 +136,7 @@
 - saif khatib
 - [x] Duolingo
 - [x] Locher leeren 
+- [ ] untte
 - [ ] tackerklammern nachfüllen 
 - [x] Wäsche auf sofa zusammen legen 
 	- [ ] wegräumen 
@@ -156,9 +157,8 @@
 	- [ ] seite zwei Aufgabe mit Biene etwas kleiner auf die Seite 
 - [ ] Physik Arbeitsblatt 1 - sortieren
 	- [ ] bzw 8b gebe ich die Einzelseiten 🤷
-	- [ ] 3+4 doppelt: 1 mal
-		- [ ] ⤷ 15 mal die letzte Seite kopieren
-	- [x] für Emily und Mia aus 8a 
+	- [ ] ⤷ 18 mal die letzte Seite kopieren
+	- [ ] und mit vor letzter seite zusammen tackern 
 - [ ] preset leadout einstellen 
 - [ ] Arbeitsblatt Physik zusammenstellen 
 	- [ ] darauf erklärung eines Vektors
