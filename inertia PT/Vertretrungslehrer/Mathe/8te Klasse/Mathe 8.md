@@ -26,7 +26,7 @@
 - Geometrie im Koordinatensystem
 - Geometrische Terme
 - Gleichungen (nur das)
-- Gleichungen und Terme
+- Gleichungen und Terme %% fold %%
 - Gleichungen und Ungleichungen
 - Kombinatorik
 - Proportionale Zuordnungen
