@@ -135,7 +135,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - saif khatib
 - [ ] spazieren + aldi
-- [ ] Körnungsaufsa
+- [ ] Körnung Aufsätze und andere in Akkuschrauber box
 - [x] kursmappe
 	- [x] m 5a
 	- [ ] m 8a
