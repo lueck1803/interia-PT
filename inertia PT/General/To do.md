@@ -142,7 +142,7 @@
 		- [ ] wie alt bin ich
 		- [ ] wo wohne ich?
 		- [ ] wie geht es mir heute
-		- [ ] 
+		- [ ] lieblings Aktivität
 	- [ ] Satzbau in Englisch 
 	- [ ] Kurzgeschichte
 	<u>The Secret in the Garden</u>
