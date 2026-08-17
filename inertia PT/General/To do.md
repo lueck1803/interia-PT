@@ -137,7 +137,7 @@
 - [x] Duolingo
 - [x] Locher leeren 
 - [ ] Unterricht 10a/b
-- [ ] tackerklammern nachfüllen 
+- [x] tackerklammern nachfüllen 
 - [x] Wäsche auf sofa zusammen legen 
 	- [ ] wegräumen 
 - [ ] rechten neuen flipflop reparieren 
