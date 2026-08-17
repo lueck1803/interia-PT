@@ -300,13 +300,19 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 	- ⤷ "Wichtig" hängt immer von Situation und dem Problem ab
 	- ⤷ Bei der Beschreibung von grundlegenden Phänomenen möchte man es auf exakt die abhängigen Größen (Variablen und Parameter) reduzieren, die das Problem beschreiben. 
 - Größenordnung
-### Wo spielen Größenordnungen eine Rolle?
-#### Schätzung was ist ein inch anhand bekanntem Wissen
+### Verschiedene Abschätzungen von Größenordnungen?
+Was ist hier wichtig?
+Die richtige Einheit und die Größenordnung in 10er Potenzen.
+Man muss nicht die genaue Zahl wissen, aber wenn die Zehner Potenz passt, kann man sehr gut Einschätzungen treffen und Dinge auf ihre Plausibilität überprüfen.
+
+#### Schätzung wie groß ist ein inch/Zoll anhand bekanntem Wissen
+Größenvergleich Haargummi der mit etwa 2,5cm einem inch entspricht gegenüber einem Fahrrad
 
 #### Wie groß ist der CO2 Gehalt in der Luft
 Abschätzung im Vergleich zum Sauerstoff und Stickstoff
 part per million, promille, prozent
 
-#### 
-
+#### Größe des Jupiters
+Der Durchmesser der Erde passt etwa 1,5 mal in den großen roten Fleck
+### 
 ## 10te
