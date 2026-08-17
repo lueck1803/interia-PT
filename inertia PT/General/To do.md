@@ -137,6 +137,7 @@
 - [ ] spazieren + aldi
 - [ ] Körnung Aufsätze und andere in Akkuschrauber box
 - [ ] English 5b
+	- [ ] Fragewörter 
 	- [ ] wie stelle ich mich vor?
 		- [ ] wie heiße ich
 		- [ ] wie alt bin ich
