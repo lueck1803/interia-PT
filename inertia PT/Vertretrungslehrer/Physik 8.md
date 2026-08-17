@@ -338,7 +338,7 @@ Die Amerikaner geben ihre Körpergrößen halt in foot und inch an. Da sagt man 
 - Durchschnittsgeschwindigkeit:
 	- $\overline{v}_{1}=\pu{ 8 \frac{km}{h} }$
 - Notation der Einheit bei einer bestimmten Aufgabenstellung separat von Zahlenwerten:
-	- $[v]=\pu{ \frac{km}{h} }$
+	- $[v]=\pu{ \frac{km}{h} }$ %% fold %%
 - Geschwindigkeit als Vektor:
 	- Im Alltag geben wir Geschwindigkeiten meistens als Durchschnittsgeschwindigkeit und nicht als Momentangeschwindigkeit an.
 	- Bei der Beschreibung von physikalischen Problem ist es sinnvoll Geschwindigkeiten zu einem 
