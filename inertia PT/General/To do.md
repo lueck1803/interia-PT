@@ -135,6 +135,13 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - saif khatib
 - [ ] rechten neuen flipflop reparieren 
+- [ ] matheblatt mit bruchrechenaufgaben
+	- [ ] den bisherigen Infos 
+	- [ ] auch die erklärung warum 0.9 periode gleich 1 ist
+	- [ ] aufgabe mit 2,567 periode 7 in bruch umwandeln als aufgabe 
+	- [ ] dreisatz aufgaben
+	- [ ] prozentrechnung
+	- [ ] Einheiten umrechnen
 - [ ] dringend blatt mit erhöhtem Kontrast Kopieren 
 - [ ] preset leadout einstellen 
 - [x] Fingernägel rechte Hand 
