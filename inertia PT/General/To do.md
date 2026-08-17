@@ -156,6 +156,7 @@
 	- [ ] brauche 20 Exemplare 
 		- [ ] 19 
 	- [ ] 5 mal 1+2 doppel
+		- [ ] 15 mal Einzel 
 	- [ ] 
 	- [ ] Blatt 1:
 		- [ ] habe ich 
