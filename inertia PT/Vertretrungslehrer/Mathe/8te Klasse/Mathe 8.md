@@ -91,6 +91,10 @@ Addition, Subtraktion, Multiplikation und Division von Brüchen an schreiben
 
 
 # <font color="#b088ff">8b</font> Güldener, Nicole Kirsten (gld)
+## 2026-08-18
+- Multiplikation, Division und Addition von Brüchen
+- ⤷ an der Tafel vor machen
+- mit je zwei Beispielaufgaben von Schülern rechnen lassen
 
 ## 2026-08-12
 
