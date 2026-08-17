@@ -159,7 +159,7 @@
 		- [ ]  Einzel: 15 mal
 	- [ ] 3+4 doppelt: 1 mal
 		- [ ] Einzel: 4
-		- [ ] ⤷ 15 mal die letzte Seite 
+		- [ ] ⤷ 15 mal die letzte Seite kopieren 
 	- [ ] Blatt 1:
 		- [ ] habe ich 
 		- [ ] noch zu kopieren 
