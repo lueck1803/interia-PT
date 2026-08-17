@@ -173,10 +173,25 @@
 	- **1. Verneinungen (Negations)**
 	  Um einen Satz im Englischen zu verneinen, brauchst du in den meisten Fällen ein **Hilfsverb** (auxiliary verb) und das Wörtchen **not**. Das eigentliche Hauptverb rutscht dann automatisch in die Grundform (Infinitiv).
 	- Die **Grundregel** mit "do / does / did" Bei fast allen normalen Verben (wie like, play, work) benutzt du im Present Simple das Hilfsverb do (bzw. does bei he/she/it) und in der Vergangenheit did.
-	- Regel: Subjekt + Hilfsverb + not + Hauptverb (Infinitiv)
-	- <u>Beispiel (Gegenwart):</u> I do not (don't) like spinach.
-	- <u>Beispiel (he/she/it):</u> He does not (doesn't) watch TV. (Achtung: Das "-s" wandert von watches zu does!)Beispiel (Vergangenheit): They did not (didn't) play tennis.Die Ausnahme: "to be" und ModalverbenWenn im Satz bereits eine Form von to be (am, is, are, was, were) oder ein Modalverb (can, must, should, will) steht, brauchst du kein extra Hilfsverb. Du hängst das not einfach direkt hinten an.Beispiel (to be): She is not (isn't) at home.Beispiel (Modalverb): We cannot (can't) come tomorrow.
-	- [ ] 2. Häufigkeitsadverbien (Adverbs of Frequency)Wörter wie always (immer), never (nie), often (oft), usually (normalerweise) oder sometimes (manchmal) haben einen ganz festen Platz im Satz. Merk dir hierfür am besten eine goldene Regel: Vor dem Hauptverb, aber nach "to be".Regel A: Vor dem normalen HauptverbStruktur: Subjekt + Adverb + HauptverbBeispiel: Tom always eats breakfast at 7 a.m.Beispiel: They never watch horror movies.Regel B: Nach dem Verb "to be"Formen von to be (am, is, are) sind im Englischen dominant – sie drängen das Adverb nach hinten.Struktur: Subjekt + to be + AdverbBeispiel: You are never late.Beispiel: The weather is often rainy.Regel C: Zwischen Hilfs- und HauptverbWenn du einen Satz mit einem Modalverb (can, should) oder einer zusammengesetzten Zeitform (wie dem Present Perfect have seen) hast, quetscht sich das Adverb genau in die Mitte.Struktur: Subjekt + Hilfsverb + Adverb + HauptverbBeispiel: I can usually help you.
+		- Regel: Subjekt + Hilfsverb + not + Hauptverb (Infinitiv)
+		- <u>Beispiel (Gegenwart):</u> I do not (don't) like spinach.
+		- <u>Beispiel (he/she/it):</u> He does not (doesn't) watch TV. (Achtung: Das "-s" wandert von watches zu does!)
+		- <u>Beispiel (Vergangenheit):</u> They did not (didn't) play tennis.
+		- <u>Die Ausnahme:</u> "to be" und Modalverben
+		  Wenn im Satz bereits eine Form von to be (am, is, are, was, were) oder ein Modalverb (can, must, should, will) steht, brauchst du kein extra Hilfsverb. Du hängst das not einfach direkt hinten an.
+			- <u>Beispiel</u> (to be): She is not (isn't) at home.
+			- <u>Beispiel</u> (Modalverb): We cannot (can't) come tomorrow.
+	- **2. Häufigkeitsadverbien (Adverbs of Frequency)**
+	  Wörter wie **always** (immer), **never** (nie), **often** (oft), **usually** (normalerweise) oder **sometimes** (manchmal) haben einen <font color="#ffd700">ganz festen Platz</font> im Satz. 
+		- Merk dir hierfür am besten eine <font color="#ffd700">goldene Regel:</font> 
+		  Vor dem **Hauptverb**, aber nach "to be".
+		- <u>Regel A:</u> Vor dem normalen Hauptverb
+			- <u>Struktur:</u> Subjekt + Adverb + Hauptverb
+			- <u>Beispiel:</u> Tom always eats breakfast at 7 a.m.
+			- <u>Beispiel:</u> They never watch horror movies.
+		- <u>Regel B</u>: Nach dem Verb "to be" Formen von to be (am, is, are) sind im Englischen dominant – sie drängen das Adverb nach hinten.
+			- <u>Struktur:</u> Subjekt + to be + Adverb
+			- Beispiel: You are never late.Beispiel: The weather is often rainy.Regel C: Zwischen Hilfs- und HauptverbWenn du einen Satz mit einem Modalverb (can, should) oder einer zusammengesetzten Zeitform (wie dem Present Perfect have seen) hast, quetscht sich das Adverb genau in die Mitte.Struktur: Subjekt + Hilfsverb + Adverb + HauptverbBeispiel: I can usually help you.
 	- [ ] Perfekt! Lass uns das Gelernte direkt testen. Bringe die folgenden Wörter in die richtige englische Reihenfolge.Schreibe deine Antworten einfach in den Chat, und wir gehen sie danach gemeinsam durch!Übung 1: Verneinungennot / like / computer games / they / doat school / is / today / she / notpizza / we / eat / did / yesterday / notÜbung 2: Häufigkeitsadverbiensometimes / drinks / tea / coffee / instead of / healways / soccer / friends / my / are / tired / aftercan / fast / I / read / usuallyTipp zum Spicken:Denk bei den Verneinungen an das Hilfsverb (do/does/did) oder an die Sonderstellung von is.Bei den Adverbien gilt: Vor das normale Verb, aber nach Formen von to be (is/are).
 	- [ ] Kurzgeschichte
 	<u>The Secret in the Garden</u>
