@@ -304,8 +304,9 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 #### Schätzung was ist ein inch anhand bekanntem Wissen
 
 #### Wie groß ist der CO2 Gehalt in der Luft
-Abschätzung im Vergleich zum Sauerstoff und Sticks
+Abschätzung im Vergleich zum Sauerstoff und Stickstoff
 part per million, promille, prozent
 
+#### 
 
 ## 10te
