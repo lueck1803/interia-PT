@@ -95,6 +95,7 @@ Addition, Subtraktion, Multiplikation und Division von Brüchen an schreiben
 - Multiplikation, Division und Addition von Brüchen
 - ⤷ an der Tafel vor machen
 - mit je zwei Beispielaufgaben von Schülern rechnen lassen
+- $0.\overline{9}$ 
 
 ## 2026-08-12
 
