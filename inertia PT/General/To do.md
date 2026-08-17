@@ -153,7 +153,8 @@
 	- [ ] mit ersten zwei Seiten 
 - [ ] Physik Arbeitsblatt 1 - sortieren
 	- [ ] bzw 8b gebe ich die Einzelseiten 🤷
-	- [ ] brauche 20
+	- [ ] brauche 20 Exemplare 
+		- [ ] 19 
 	- [ ] Blatt 1:
 		- [ ] habe ich 
 		- [ ] noch zu kopieren 
