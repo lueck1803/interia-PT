@@ -135,7 +135,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - saif khatib
 - [x] Duolingo
-- [ ] Locher leeren 
+- [x] Locher leeren 
 - [ ] tackerklammern nachfüllen 
 - [x] Wäsche auf sofa zusammen legen 
 	- [ ] wegräumen 
@@ -156,17 +156,9 @@
 	- [ ] seite zwei Aufgabe mit Biene etwas kleiner auf die Seite 
 - [ ] Physik Arbeitsblatt 1 - sortieren
 	- [ ] bzw 8b gebe ich die Einzelseiten 🤷
-	- [ ] Einzelseiten tackern + lochen
-	- [ ] brauche 20 Exemplare 
-		- [ ] 19 
-	- [ ] 1+2 doppel: 5 mal 
-		- [ ]  Einzel: 15 mal
 	- [ ] 3+4 doppelt: 1 mal
-		- [ ] Einzel: 4
 		- [ ] ⤷ 15 mal die letzte Seite kopieren
-		- [ ] + 2 mal für E und M
-	- [ ] für Emily und Mia aus 8a 
-		- [ ] seite 2: 2 mal
+	- [x] für Emily und Mia aus 8a 
 - [ ] preset leadout einstellen 
 - [ ] Arbeitsblatt Physik zusammenstellen 
 	- [ ] darauf erklärung eines Vektors
