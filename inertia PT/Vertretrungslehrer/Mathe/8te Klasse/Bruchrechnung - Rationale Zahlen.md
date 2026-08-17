@@ -85,6 +85,7 @@ b) $\frac{8}{3}-\frac{7}{2}+\frac{13}{5}=$
 c) $\frac{24}{40}-\frac{33}{9}+\frac{28}{15}=$
 d) $\frac{21 \cdot 3 \cdot 35}{49 \cdot 15 \cdot 9}=$
 e) $\frac{75}{36} \cdot \frac{144}{125}=$
+f) $\frac{55}{51}\cdot \frac{17}{65} : \frac{39}{77} \cdot \frac{14}{10}==605/1521$
 g) $\frac{36}{5}: \frac{6}{25}=$
 h) $\frac{4}{5}: \frac{7}{8}=$
 
