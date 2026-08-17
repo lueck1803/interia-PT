@@ -321,5 +321,10 @@ Ob etwas in cm oder in m angegeben ist, macht einen großen Unterschied.
 Umgangssprachlich ist das häufig sehr klar, wenn man jemanden nach seiner Größe fragt, und dieser sagt eins achtzig, dann wissen wir intuitiv, dass 1,8 m bzw. 180 cm gemeint sind.
 Die Amerikaner geben ihre Körpergrößen halt in foot und inch an. Da sagt man dann 5 foot 4. Also 5 mal ~30 cm (genau 30,48 cm, 1 ft = 12 inch) plus 4 inch also 4 mal 2,54 cm. Ergibt 152.4 cm + 10.16 cm = 162.56 cm ~ 163 cm.
 
-#### Zeitpunkt 
+#### Zeitpunkt, Zeitdifferenz, Momentangeschwindigkeit, Durchschnittsgeschwindigkeit, Einheitennotation
+
+- Zeitpunkt:
+	- $t_{0}=$ 10:30 Uhr (Startzeitpunkt oder Anfangswert- wird häufig mit 0 angegeben)
+	- $t_{1}=\pu{ 1min }$ dieser Zeitpunkt ist relativ zum Startzeitpunkt
+	- $t_{\text{End}}=\pu{ 5h 30 min }$
 ## 10te
