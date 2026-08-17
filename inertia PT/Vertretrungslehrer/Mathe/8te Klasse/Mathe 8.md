@@ -11,6 +11,16 @@
 	- [ ] durchschnittbrechnung
 
 # infos
+## Quersummenregel
+==Die Quersummenregel hilft dir zu prüfen, ob eine Zahl ohne Rest durch **3** oder **9** teilbar ist==. Du rechnest alle Ziffern der Zahl zusammen. Ist diese Quersumme durch 3 oder 9 teilbar, ist es die große Zahl auch.
+
+So funktioniert die Regel
+
+- **Quersumme bilden:** Du addierst alle einzelnen Ziffern einer Zahl. Beispiel: Bei der Zahl 387 rechnest du 3 + 8 + 7 = 18.
+
+- **Teilbarkeit durch 3:** Wenn die Quersumme durch 3 teilbar ist, ist die ganze Zahl durch 3 teilbar (18 : 3 = 6, also ist 387 durch 3 teilbar). [
+
+- **Teilbarkeit durch 9:** Wenn die Quersumme durch 9 teilbar ist, ist die ganze Zahl durch 9 teilbar (18 : 9 = 2, also ist 387 auch durch 9 teilbar).
 ## Mathewettbewerb Themen
     
 - Anteile (nur mit Brüchen, d.h, ohne Prozent)
