@@ -308,7 +308,7 @@ Man muss nicht die genaue Zahl wissen, aber wenn die Zehner Potenz passt, kann m
 #### Schätzung wie groß ist ein inch/Zoll anhand bekanntem Wissen
 Größenvergleich Haargummi der mit etwa 2,5cm einem inch entspricht gegenüber einem Fahrradreifen, dessen Durchmesser in Zoll/inch angegeben wird.
 
-#### Wie groß ist der CO2 Gehalt in der Luft
+#### Wie groß ist der CO2 Gehalt in der Luft %% fold %%
 Abschätzung im Vergleich zum Sauerstoff und Stickstoff
 part per million, promille, prozent
 
@@ -326,7 +326,7 @@ Die Amerikaner geben ihre Körpergrößen halt in foot und inch an. Da sagt man 
 - Zeitpunkt:
 	- $t_{0}=$ 10:30 Uhr (Startzeitpunkt oder Anfangswert- wird häufig mit 0 angegeben)
 	- $t_{1}=\pu{ 5min }$ dieser Zeitpunkt ist relativ zum Startzeitpunkt
-	- $t_{2}= \pu{ 23 min }$
+	- $t_{2}= \pu{ 23 min }$ %% fold %%
 	- $t_{\text{End}}=\pu{ 5h 30 min }$ 
 - Zeitdifferenz:
 	- $\Delta t_{2-1}=t_2-t_{1}= \pu{ 23min } - \pu{ 5min }=\pu{ 18 min }$ 
