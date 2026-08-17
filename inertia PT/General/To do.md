@@ -195,7 +195,6 @@
 - [ ] weiße Gitarre nochmal gescheit stimmen 
 - [ ] unknown usb device port reset failed
 	- [ ] https://www.google.com/search?q=unknown+usb+device+port+reset+failed&oq=unkonwn+usb+device+port&gs_lcrp=EgZjaHJvbWUqCQgBEAAYDRiABDIGCAAQRRg5MgkIARAAGA0YgAQyCAgCEAAYDRgeMggIAxAAGA0YHjIICAQQABgNGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhgeMggICRAAGBYYHtIBCTEwMDEzajBqN6gCALACAA&sourceid=chrome&source=chrome.ob&ie=UTF-8
-- [x] Brett spülen
 - [ ] flip flop reparieren 
 - [x] heroes to us anschauen welche Stimmung?
 	- [ ] hab's auf std transponiert
@@ -275,7 +274,6 @@
 	- [x] p 10b
 	- [x] p 10a
 	- [x] m 8b
-		- [x] Ismail als entschuldigt eintragen
 - [ ] Unterricht für M 8a vorbereiten
 	- [ ] Mathe-Wettbewerb wann und was sind die Themen?
 	- [ ] sitzplan 8a fotografieren 
