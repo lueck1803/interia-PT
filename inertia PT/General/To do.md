@@ -136,7 +136,8 @@
 - saif khatib
 - [ ] Duolingo
 - [ ] Physik Arbeitsblatt 1 - sortieren
-- [ ] Wäsche auf sofa zusammen legen 
+- [x] Wäsche auf sofa zusammen legen 
+	- [ ] wegräumen 
 - [ ] rechten neuen flipflop reparieren 
 - [ ] matheblatt mit bruchrechenaufgaben
 	- [ ] den bisherigen Infos 
@@ -301,7 +302,7 @@
 - [ ] fidget toys in lisas Klassen raum %% fold %%
 - [ ] Maulwurf - bass %% fold %%
 	- [ ] gurt anbringen  %% fold %%
-	- [ ] schön langsam Feeling üben 
+	- [ ] schön langsam Feeling üben  %% fold %%
 - [ ] Panzerhenker
 	- [ ] ich hab's grob schon drauf
 	- [ ] tremolo picking ganz langsam sauber üben - 50 % %% fold %%
