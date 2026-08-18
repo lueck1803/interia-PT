@@ -138,6 +138,8 @@
 - [x] Linter ausstellen
 - [x] tasks einstellungen am PC
 - [ ] #task test
+	- [ ] die task suche ausprobieren
+- [ ] Saif khatib suchen
 - [ ] Spitzahorn Samen / Stecklinge suchen
 - [ ] Bergahorn Samen / Stecklinge suchen
 - [ ] Feldahorn umsetzen
