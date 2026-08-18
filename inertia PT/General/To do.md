@@ -152,6 +152,19 @@
 	- [ ] was zum Mathe-Wettbewerb sagen?
 	- [ ] Taschenrechner 
 - [ ] Vorgehen beim Lösen der Perioden Aufgabe 
+	- [ ] Berkay ist da intuitiv mit einer sinnvollen und gut überlegten Herangehensweise heran gegangen 
+	- [ ] es gibt dabei aber ein sehr strukturiertes Schema von dem ich ausgegangen bin dass ihr das nicht kennt.
+	- [ ] Ziel: wir wollen die Periode loswerden 
+	- [ ] ⤷das gelingt uns mit Subtraktion eben der gleichen Periode. 
+		- [ ] hat da jemand schon eine Idee wie es weiter gehen könnte?
+		- [ ] welche Zahl nehme ich da am besten, um die gleiche Periode abzuziehen?
+	- [ ] dazu nehmen wir die Zahl und verschieben sie um so viele Kommastellen, dass die Periode mit dem Beginn vor dem Komma steht 
+	- [ ] dazu machen wir aber erstmal etwas ungewöhnliches, wir geben der Zahl einen Namen bzw. Weisen sie einer Variablen zu. 
+	- [ ] ⤷denn wir wollen die Lösung bzw einen anderen Ausdruck für diese Zahl finden 
+	- [ ] wir stellen ein Gleichnungssystem auf. Das ist die perfekte Überleitung zu dem was wir im Anschluss machen werden.
+	- [ ] an dieser Stelle ist das total normal dass ihr das nicht versteht
+	- [ ] merkt euch dieses Vorgehen/diesen Algorithmus, da müsst ihr nicht viel verstehen 
+	- [ ] 
 - [x] Linter ausstellen
 - [x] tasks einstellungen am PC
 - [ ] #task test
