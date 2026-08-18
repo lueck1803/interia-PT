@@ -202,7 +202,7 @@
 		- **Objekt:** Wen oder was? (z. B. tennis, an apple, a book)
 		- <u>Beispiel:</u> Sarah [Subjekt] reads [Verb] a book [Object].
 		- *Tipp:* Das Subjekt und das Verb stehen im Englischen fast immer direkt zusammen. Du darfst sie nicht trennen.
-	- **Ort und Zeit (Place and Time)**
+	- **Ort und Zeit (Place and Time)** %% fold %%
 	  Wenn du sagst, wo und wann etwas passiert, gilt die Reihenfolge **Ort vor Zeit**.
 		- **Regel:** Subjekt + Verb + Objekt + Ort + Zeit
 		- <u>Beispiel:</u> I play football [Objekt] in the park [Ort] on Sunday [Zeit].
