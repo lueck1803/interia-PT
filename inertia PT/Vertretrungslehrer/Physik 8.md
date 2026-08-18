@@ -311,6 +311,8 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 			- Blutdruck
 			- Herzkreislauf
 			- ![[../../Pasted image 20260819012752.png]]
+		- Sanitär
+			- ![[../../Pasted image 20260819013100.png]]
 		- Atmosphäre
 			- hier handelt es sich um ein Gas, was kompressibel ist. ja.... wasser und auch stahl ist kompressibel xD... 
 			- Aber unter den natürlich auftretenden Bedingungen hat das eine klar bemerkbaren effekt: exponential funktion - barometrische höhenformel
@@ -332,6 +334,8 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 				- deo
 				- Mischer
 				- wasserstrahlpumpe
+				- Diffusionspumpe
+			- ![[../../Pasted image 20260819013017.png]]
 			- tesla valve
 	- Messung:
 		- Barometer
@@ -339,6 +343,11 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 		- Reifendruck
 		- ![[../../Pasted image 20260819012303.png]]
 		- ![[../../Pasted image 20260819012330.png]]
+	- Kapillare
+		- pflanzen
+		- Bäume mit negativen Drücken
+	- Oberflächenspannung
+		- Wasserläufer
 # 10a
 
 # 10b
