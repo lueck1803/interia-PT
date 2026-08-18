@@ -138,6 +138,7 @@
 - [ ] Unterricht P 10 vorbereiten 
 - [ ] Fahrrad aufpumpen 
 - [ ] Einkaufswagen weg
+- [ ] gelben Sack runter 
 - [ ] Nummer von Mutter von mathis besorgen 
 - [ ] Akteneintrag Mathis 
 	- [ ] Sprachaufzeichnung 
