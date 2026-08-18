@@ -155,7 +155,7 @@
 	- [ ] was zum Mathe-Wettbewerb sagen?
 		- [ ] was meinen Unterricht angeht bin ich eh gerade dabei viel aufzufrischen 
 		- [ ] da ich das Thema was ansteht für sinnlos halte anzufangen wenn gewisse Grundlagen nicht sitzen und ich dann herum rätseln muss warum etwas nicht verstanden wird. 
-		- [ ] ich plane aber auch je nach Bedarf etwas extra Unterricht für die wil
+		- [ ] ich plane aber auch je nach Bedarf etwas extra Unterricht für die willigen zu halten. Da kann gerne der ganze Jahrgang teilnehmen. Da werden wir Mathe-Wettbewerbs Aufgaben rechnen. Es kann da frei geübt und fragen gestellt werden.
 	- [ ] Taschenrechner 
 		- [ ] casio fx-991de x
 		- [ ] ist jetzt meine Erwartung 
