@@ -24,7 +24,6 @@
   "html-tables",
   "html-checkboxes",
   "mobile-pdf-exporter",
-  "foldstate",
   "obsidian-reminder-plugin",
   "obsidian-tasks-plugin",
   "obsidian-day-planner",
@@ -35,5 +34,6 @@
   "line-arrange",
   "obsidian-linter",
   "open-in-new-tab",
-  "image-captions"
+  "image-captions",
+  "foldstate"
 ]
