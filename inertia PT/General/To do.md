@@ -135,7 +135,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - saif khatib
 - [ ] Duolingo
-- [ ] Linter ausstellen
+- [x] Linter ausstellen
 - [x] spazieren + aldi
 - [ ] die Tage nochmal nach dem Label maker schauen 
 - [ ] 1,1 kg Kaffee 2x füsili eintragen Schokomüsli 
