@@ -136,6 +136,7 @@
 - saif khatib
 
 - [ ] Unterricht P 10 vorbereiten 
+- [x] shg Einverständniserklärung 
 - [ ] Fahrrad aufpumpen 
 - [ ] Einkaufswagen weg
 - [ ] gelben Sack runter 
