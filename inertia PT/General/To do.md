@@ -135,6 +135,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - saif khatib
 - [ ] Duolingo
+- [ ] 8a 
 - [x] Linter ausstellen
 - [x] tasks einstellungen am PC
 - [ ] #task test
