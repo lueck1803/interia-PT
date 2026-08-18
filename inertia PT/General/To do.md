@@ -151,6 +151,7 @@
 - [ ] 8a Elternabend 30.8
 	- [ ] was zum Mathe-Wettbewerb sagen?
 	- [ ] Taschenrechner 
+- [ ] Vorgehen beim Lösen der Perioden Aufgabe 
 - [x] Linter ausstellen
 - [x] tasks einstellungen am PC
 - [ ] #task test
