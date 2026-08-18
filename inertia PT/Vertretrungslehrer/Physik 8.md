@@ -293,12 +293,19 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 		- Wie die Definition sagt immer wenn man Kräfte auf Oberflächen verteilt
 		- Also eigentlich überall... xD
 	- Beispiele:
+		- Hydraulic:
+			- Hebebühne
+			- Pascalsches Prinzip...
+			- $p_{\text{ein}}=p_{\text{aus}}$
+			- $\frac{F_{\text{ein}}}{A_{\text{ein}}}=\frac{F_{aus}}{A_{aus}}$
+			- ![[../../Pasted image 20260819012216.png]]
 		- in der Mechanik im Bau oder Maschinenbau befasst man sich sehr viel mit Schubspannungen in Matrialien
 		- Eine Betondecke die über die von Stützen getragen wird.
 			- oberseite schubspannung
 			- unterseite zugspannung
 		- Alles was mit Wasser zu tun hat.
 			- Beim Tauchen - Druck steigt linear an, ist aber wirklich extrem
+			- $p(h)=p_{0}+\rho \cdot g\cdot h$
 			- Beim Bau von Staudämmen
 		- Atmosphäre
 			- hier handelt es sich um ein Gas, was kompressibel ist. ja.... wasser und auch stahl ist kompressibel xD... 
@@ -320,6 +327,9 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 	- Messung:
 		- Barometer
 		- -> wir bauen uns einen U-rohr manometer
+		- Reifendruck
+		- ![[../../Pasted image 20260819012303.png]]
+		- ![[../../Pasted image 20260819012330.png]]
 # 10a
 
 # 10b
