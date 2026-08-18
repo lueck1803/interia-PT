@@ -153,7 +153,19 @@
 - [x] Notfallzettel in fr güldners fach 
 - [ ] 8a Elternabend 30.8
 	- [ ] was zum Mathe-Wettbewerb sagen?
+		- [ ] was meinen Unterricht angeht bin ich eh gerade dabei viel aufzufrischen 
+		- [ ] da ich das Thema was ansteht für sinnlos halte anzufangen wenn gewisse Grundlagen nicht sitzen und ich dann herum rätseln muss warum etwas nicht verstanden wird. 
+		- [ ] ich plane aber auch je nach Bedarf etwas extra Unterricht für die wil
 	- [ ] Taschenrechner 
+		- [ ] casio fx-991de x
+		- [ ] ist jetzt meine Erwartung 
+		- [ ] ich kenne den selbst sehr gut, da ich ihn mir während dem Studium nach gekauft habe da mein alter bei langen Rechnungen schlapp gemacht hat
+		- [ ] der ist auch fürs Studium zu gelassen. Da hat man lange etwas von
+		- [ ] und ich hab noch nicht alles erkundet 
+		- [ ] für graphische Sachen nutz man eh lieber nen Rechner 
+		- [ ] oder Wolfram Alpha 
+		- [ ] in der Realschule unnötig 
+		- [ ] ich bin im Gespräch mit den Kollegen ob die im gesamten Jahrgang beschafft werden, dann sind die ein paar Euro günstiger.
 - [ ] Vorgehen beim Lösen der Perioden Aufgabe 
 	- [ ] Berkay ist da intuitiv mit einer sinnvollen und gut überlegten Herangehensweise heran gegangen 
 	- [ ] es gibt dabei aber ein sehr strukturiertes Schema von dem ich ausgegangen bin dass ihr das nicht kennt.
