@@ -290,7 +290,16 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 - Druck: 
 	- Was ist das? ⟹ wie ist der definiert?
 	- Wo taucht der auf? 
-		- Wie die Definition sagt 
+		- Wie die Definition sagt immer wenn man Kräfte auf Oberflächen verteilt
+		- Also eigentlich überall... xD
+	- Beispiele:
+		- in der Mechanik im Bau oder Maschinenbau befasst man sich sehr viel mit Schubspannungen in Matrialien
+		- Eine Betondecke die über die von Stützen getragen wird.
+			- oberseite schubspannung
+			- unterseite zugspannung
+		- Alles was mit Wasser zu tun hat.
+			- Beim Tauchen
+			- Beim Bau von Staudämmen
 # 10a
 
 # 10b
