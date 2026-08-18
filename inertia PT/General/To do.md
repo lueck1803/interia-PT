@@ -138,6 +138,8 @@
 - [x] Linter ausstellen
 - [x] tasks einstellungen am PC
 - [ ] #task test
+- [ ] Spitzahorn Samen / Stecklinge suchen
+- [ ] Bergahorn Samen / Stecklinge suchen
 - [ ] Feldahorn umsetzen
 - [ ] die Tage nochmal nach dem Label maker schauen kostet nur 20 statt sonst 25€
 - [x] 1,1 kg Kaffee 2x füsili eintragen Schokomüsli 
