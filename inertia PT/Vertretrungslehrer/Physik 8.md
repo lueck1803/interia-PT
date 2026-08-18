@@ -307,17 +307,26 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 			- Beim Tauchen - Druck steigt linear an, ist aber wirklich extrem
 			- $p(h)=p_{0}+\rho \cdot g\cdot h$
 			- Beim Bau von Staudämmen
+		- Medizin:
+			- Blutdruck
+			- Herzkreislauf
+			- ![[../../Pasted image 20260819012752.png]]
 		- Atmosphäre
 			- hier handelt es sich um ein Gas, was kompressibel ist. ja.... wasser und auch stahl ist kompressibel xD... 
 			- Aber unter den natürlich auftretenden Bedingungen hat das eine klar bemerkbaren effekt: exponential funktion - barometrische höhenformel
 		- Schiffe die Schwimmen
 			- archimedisches prinzip
+			- ![[../../Pasted image 20260819012547.png]]
+			- ![[../../Pasted image 20260819012601.png]]
+			- ![[../../Pasted image 20260819012618.png]]
+			- ![[../../Pasted image 20260819012712.png]]
 		- Kommunizierende Röhren
 		- FUCKIng Vakuum Spaß xD
 			- Wie hoch kann man Wasser pumpen?
 			- Dampfdruck
 		- Druck in strömenden fluiden - warum fliegt ein flugzeug
 			- bernoulli
+			- ![[../../Pasted image 20260819012834.png]]
 			- Druckluftschlauch und tischtennis ball
 			- Venturidüse 
 				- deo
