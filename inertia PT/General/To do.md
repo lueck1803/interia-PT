@@ -134,12 +134,14 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - saif khatib
+- [ ] Duolingo
+- [ ] Linter ausstellen
 - [x] spazieren + aldi
 - [ ] die Tage nochmal nach dem Label maker schauen 
 - [ ] 1,1 kg Kaffee 2x füsili eintragen Schokomüsli 
 - [ ] Körnung Aufsätze und andere in Akkuschrauber box
 - [ ] English 5b
-	- [ ] Fragewörter 
+	- [ ] Fragewörter  %% fold %%
 	- [ ] wie stelle ich mich vor?
 		- [ ] wie heiße ich
 		- [ ] wie alt bin ich
@@ -147,12 +149,68 @@
 		- [ ] wie geht es mir heute
 		- [ ] lieblings Aktivität
 	- [ ] Satzbau in Englisch 
-	- [ ] Der englische Satzbau ist fest und folgt fast immer der Grundregel Subjekt – Verb – Objekt (SVO). Das bedeutet: Wer tut etwas? Was tut er oder sie? Wen oder was betrifft es? Danach kommen Ort und Zeit.Die Grundregel: SVOSubjekt: Wer oder was? (z. B. I, the dog, Sarah)Verb (Prädikat): Was tut das Subjekt? (z. B. play, * eats*, reads)Objekt: Wen oder was? (z. B. tennis, an apple, a book)Beispiel: Sarah [Subjekt] reads [Verb] a book [Object].Tipp: Das Subjekt und das Verb stehen im Englischen fast immer direkt zusammen. Du darfst sie nicht trennen.Ort und Zeit (Place and Time)Wenn du sagst, wo und wann etwas passiert, gilt die Reihenfolge Ort vor Zeit.Regel: Subjekt + Verb + Objekt + Ort + ZeitBeispiel: I play football [Objekt] in the park [Ort] on Sunday [Zeit].Du kannst die Zeitangabe auch an den Anfang des Satzes stellen. Dann machst du ein Komma danach: On Sunday, I play football in the park.Fragen (Questions)Bei Fragen mit den meisten Verben brauchst du ein Hilfsverb wie do oder did an den Anfang:Reihenfolge: Fragewort + Hilfsverb + Subjekt + VollverbBeispiel: Where do you live?
-	- [ ] 1. Verneinungen (Negations)Um einen Satz im Englischen zu verneinen, brauchst du in den meisten Fällen ein Hilfsverb (auxiliary verb) und das Wörtchen not. Das eigentliche Hauptverb rutscht dann automatisch in die Grundform (Infinitiv).Die Grundregel mit "do / does / did"Bei fast allen normalen Verben (wie like, play, work) benutzt du im Present Simple das Hilfsverb do (bzw. does bei he/she/it) und in der Vergangenheit did.Regel: Subjekt + Hilfsverb + not + Hauptverb (Infinitiv)Beispiel (Gegenwart): I do not (don't) like spinach.Beispiel (he/she/it): He does not (doesn't) watch TV. (Achtung: Das "-s" wandert von watches zu does!)Beispiel (Vergangenheit): They did not (didn't) play tennis.Die Ausnahme: "to be" und ModalverbenWenn im Satz bereits eine Form von to be (am, is, are, was, were) oder ein Modalverb (can, must, should, will) steht, brauchst du kein extra Hilfsverb. Du hängst das not einfach direkt hinten an.Beispiel (to be): She is not (isn't) at home.Beispiel (Modalverb): We cannot (can't) come tomorrow.
-	- [ ] 2. Häufigkeitsadverbien (Adverbs of Frequency)Wörter wie always (immer), never (nie), often (oft), usually (normalerweise) oder sometimes (manchmal) haben einen ganz festen Platz im Satz. Merk dir hierfür am besten eine goldene Regel: Vor dem Hauptverb, aber nach "to be".Regel A: Vor dem normalen HauptverbStruktur: Subjekt + Adverb + HauptverbBeispiel: Tom always eats breakfast at 7 a.m.Beispiel: They never watch horror movies.Regel B: Nach dem Verb "to be"Formen von to be (am, is, are) sind im Englischen dominant – sie drängen das Adverb nach hinten.Struktur: Subjekt + to be + AdverbBeispiel: You are never late.Beispiel: The weather is often rainy.Regel C: Zwischen Hilfs- und HauptverbWenn du einen Satz mit einem Modalverb (can, should) oder einer zusammengesetzten Zeitform (wie dem Present Perfect have seen) hast, quetscht sich das Adverb genau in die Mitte.Struktur: Subjekt + Hilfsverb + Adverb + HauptverbBeispiel: I can usually help you.
-	- [ ] Perfekt! Lass uns das Gelernte direkt testen. Bringe die folgenden Wörter in die richtige englische Reihenfolge.Schreibe deine Antworten einfach in den Chat, und wir gehen sie danach gemeinsam durch!Übung 1: Verneinungennot / like / computer games / they / doat school / is / today / she / notpizza / we / eat / did / yesterday / notÜbung 2: Häufigkeitsadverbiensometimes / drinks / tea / coffee / instead of / healways / soccer / friends / my / are / tired / aftercan / fast / I / read / usuallyTipp zum Spicken:Denk bei den Verneinungen an das Hilfsverb (do/does/did) oder an die Sonderstellung von is.Bei den Adverbien gilt: Vor das normale Verb, aber nach Formen von to be (is/are).
-	- [ ] Kurzgeschichte
-	<u>The Secret in the Garden</u>
+	- [ ] Der englische Satzbau ist fest und folgt fast immer der 
+	- Grundregel **Subjekt – Verb – Objekt (SVO)**. 
+		Das bedeutet: 
+		- Wer tut etwas?
+		- Was tut er oder sie?
+		- Wen oder was betrifft es?
+		- Danach kommen Ort und Zeit.
+	- Die Grundregel: SVO
+		- **Subjekt:** Wer oder was? (z. B. I, the dog, Sarah)
+		- **Verb (Prädikat)**: Was tut das Subjekt? (z. B. play, * eats*, reads)
+		- **Objekt:** Wen oder was? (z. B. tennis, an apple, a book)
+		- <u>Beispiel:</u> Sarah [Subjekt] reads [Verb] a book [Object].
+		- *Tipp:* Das Subjekt und das Verb stehen im Englischen fast immer direkt zusammen. Du darfst sie nicht trennen.
+	- **Ort und Zeit (Place and Time)**
+	  Wenn du sagst, wo und wann etwas passiert, gilt die Reihenfolge **Ort vor Zeit**.
+		- **Regel:** Subjekt + Verb + Objekt + Ort + Zeit
+		- <u>Beispiel:</u> I play football [Objekt] in the park [Ort] on Sunday [Zeit].
+		- Du kannst die ==Zeitangabe== auch an den **Anfang** des Satzes stellen. Dann machst du ein Komma danach: *On Sunday, I play football in the park*.
+	- **Fragen (Questions)**
+	  Bei Fragen mit den meisten Verben brauchst du ein Hilfsverb wie do oder did an den Anfang:
+		- **Reihenfolge:** Fragewort + Hilfsverb + Subjekt + Vollverb
+		- <u>Beispiel:</u> Where do you live?
+	- **1. Verneinungen (Negations)**
+	  Um einen Satz im Englischen zu verneinen, brauchst du in den meisten Fällen ein **Hilfsverb** (auxiliary verb) und das Wörtchen **not**. Das eigentliche Hauptverb rutscht dann automatisch in die Grundform (Infinitiv).
+	- Die **Grundregel** mit "do / does / did" Bei fast allen normalen Verben (wie like, play, work) benutzt du im Present Simple das Hilfsverb do (bzw. does bei he/she/it) und in der Vergangenheit did.
+		- Regel: Subjekt + Hilfsverb + not + Hauptverb (Infinitiv)
+		- <u>Beispiel (Gegenwart):</u> I do not (don't) like spinach.
+		- <u>Beispiel (he/she/it):</u> He does not (doesn't) watch TV. (Achtung: Das "-s" wandert von watches zu does!)
+		- <u>Beispiel (Vergangenheit):</u> They did not (didn't) play tennis.
+		- <u>Die Ausnahme:</u> "to be" und Modalverben
+		  Wenn im Satz bereits eine Form von to be (am, is, are, was, were) oder ein Modalverb (can, must, should, will) steht, brauchst du kein extra Hilfsverb. Du hängst das not einfach direkt hinten an.
+			- <u>Beispiel</u> (to be): She is not (isn't) at home.
+			- <u>Beispiel</u> (Modalverb): We cannot (can't) come tomorrow.
+	- **2. Häufigkeitsadverbien (Adverbs of Frequency)**
+	  Wörter wie **always** (immer), **never** (nie), **often** (oft), **usually** (normalerweise) oder **sometimes** (manchmal) haben einen <font color="#ffd700">ganz festen Platz</font> im Satz. 
+		- Merk dir hierfür am besten eine <font color="#ffd700">goldene Regel:</font> 
+		  Vor dem **Hauptverb**, aber nach "to be".
+		- <u>Regel A:</u> Vor dem normalen Hauptverb
+			- <u>Struktur:</u> Subjekt + Adverb + Hauptverb
+			- <u>Beispiel:</u> Tom always eats breakfast at 7 a.m.
+			- <u>Beispiel:</u> They never watch horror movies.
+		- <u>Regel B</u>: Nach dem Verb "to be" Formen von to be (am, is, are) sind im Englischen dominant – sie drängen das Adverb nach hinten.
+			- <u>Struktur:</u> Subjekt + to be + Adverb
+			- <u>Beispiel:</u> You are never late.
+			- <u>Beispiel:</u> The weather is often rainy. 
+		- <u>Regel C:</u> Zwischen Hilfs- und Hauptverb 
+		  Wenn du einen Satz mit einem Modalverb (can, should) oder einer zusammengesetzten Zeitform (wie dem Present Perfect have seen) hast, quetscht sich das Adverb genau in die Mitte.
+			- <u>Struktur:</u> Subjekt + Hilfsverb + Adverb + Hauptverb
+			- <u>Beispiel:</u> I can usually help you.
+	- Perfekt! Lass uns das Gelernte direkt testen. Bringe die folgenden Wörter in die richtige englische Reihenfolge. 
+		- <u>Übung 1:</u> Verneinungen 
+			- not / like / computer games / they / do
+			- at school / is / today / she / not
+			- pizza / we / eat / did / yesterday / not
+		- <u>Übung 2: </u>Häufigkeitsadverbien
+			- sometimes / drinks / tea / coffee / instead of / he
+			- always / soccer / friends / my / are / tired / after
+			- can / fast / I / read / usually
+		- <u>Tipp zum Spicken:</u> Denk bei den Verneinungen an das Hilfsverb (do/does/did) oder an die Sonderstellung von is. 
+		  Bei den <u>Adverbien</u> gilt: Vor das normale Verb, aber nach Formen von to be (is/are).
+	- <u>Kurzgeschichte:</u>
+		<u>The Secret in the Garden</u>
 	Tom looks out of the window. It is a sunny Monday. He is at home, but he is bored. His dog, Max, barks at an old brown box under the big apple tree.Tom runs into the garden. "What is it, Max?" he asks.He opens the box. Inside, there is a shiny silver key and a small red notebook. Tom opens the notebook. On the first page, there is a drawing of his house and an arrow pointing to the old tree house.Tom smiles. He takes the key and runs to the tree house. The key fits. Inside the tree house, he finds a new comic book and a bag of gummy bears. Max wags his tail. It is the best Monday ever.
 
 	
@@ -175,17 +233,17 @@
 - [ ] Tastatur wischen 
 	- [ ] laptop
 	- [ ] PC
-	- [ ] Wasser austauschen
-- [x] kursmappe
-	- [x] m 5a
+	- [ ] Wasser austauschen %% fold %%
+- [x] kursmappe %% fold %%
+	- [x] m 5a %% fold %%
 	- [x] m 8a
-	- [x] m 8b
-	- [ ] p 8a 
+	- [ ] m 8b
+	- [x] p 8a 
 	- [x] p 8b
-	- [ ] p 8c
+	- [x] p 8c
 	- [x] p 10b
 	- [x] p 10a
-- [x] Duolingo
+	- [ ] E 5b
 - [ ] Unterricht 10a/b
 - [ ] rechten neuen flipflop reparieren 
 - [ ] matheblatt mit bruchrechenaufgaben
@@ -254,13 +312,6 @@
 - [ ] boden wischen 
 - [ ] board ausprobieren
 	- [ ] beim board ausprobieren die Expander anzubringen 
-- [ ] aldi
-	- [ ] saft
-	- [ ] Bier 
-	- [ ] nusskati 
-	- [ ] eis
-	- [ ] Auberginen?
-	- [ ] Tomaten 
 - [x] black waltz solo
 - [x] black Waltz (rythm)
 - [ ] wie funktioniert das mit #task richtig?
@@ -268,7 +319,6 @@
 - [x] Tesa abroller schärfen 
 	- hat echt gut geklappt mit den Feilen 
 - [x] Apfelschneider mit Feilen schärfen 
-- [ ] M 8a Mein Unterricht Eintrag
 - [ ] Schulportal Kalender sync?
 - [ ] Schulportal app genauer anschauen
 - [ ] in Schulbuch der Klasse 5 schauen
@@ -338,7 +388,7 @@
 	- [ ] das update hatte den bug nicht behoben
 	- [ ] obsidian neustarten am pc
 - [ ] laufen gehen
-- [ ] krafttraining
+- [ ] krafttraining %% fold %%
 - [ ] bauchmuskel
 - [ ] yoga
 - [x] standard notification llw Kalender 
@@ -422,7 +472,7 @@
 			- [ ] die Welt ein bisschen besser verstehen 
 			- [ ] sich in der Welt etwas besser zurecht finden. 
 			- [ ] unabhängig zu sein
-		- [ ] jeder soll mal etwas über sich erzählen (15 min Vorbereitungszeit)
+		- [ ] jeder soll mal etwas über sich erzählen (15 min Vorbereitungszeit) %% fold %%
 			- [ ] seine Einstellung zum Unterrichtsfach 
 				- [ ] was bedeutet es für einen
 				- [ ] was ist die Gesellschaftliche Bedeutung 

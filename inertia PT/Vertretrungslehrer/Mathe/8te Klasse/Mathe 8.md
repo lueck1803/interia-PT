@@ -11,6 +11,16 @@
 	- [ ] durchschnittbrechnung
 
 # infos
+## Quersummenregel
+==Die Quersummenregel hilft dir zu prüfen, ob eine Zahl ohne Rest durch **3** oder **9** teilbar ist==. Du rechnest alle Ziffern der Zahl zusammen. Ist diese Quersumme durch 3 oder 9 teilbar, ist es die große Zahl auch.
+
+So funktioniert die Regel
+
+- **Quersumme bilden:** Du addierst alle einzelnen Ziffern einer Zahl. Beispiel: Bei der Zahl 387 rechnest du 3 + 8 + 7 = 18.
+
+- **Teilbarkeit durch 3:** Wenn die Quersumme durch 3 teilbar ist, ist die ganze Zahl durch 3 teilbar (18 : 3 = 6, also ist 387 durch 3 teilbar). [
+
+- **Teilbarkeit durch 9:** Wenn die Quersumme durch 9 teilbar ist, ist die ganze Zahl durch 9 teilbar (18 : 9 = 2, also ist 387 auch durch 9 teilbar).
 ## Mathewettbewerb Themen
     
 - Anteile (nur mit Brüchen, d.h, ohne Prozent)
@@ -91,6 +101,11 @@ Addition, Subtraktion, Multiplikation und Division von Brüchen an schreiben
 
 
 # <font color="#b088ff">8b</font> Güldener, Nicole Kirsten (gld)
+## 2026-08-18
+- Multiplikation, Division und Addition von Brüchen
+- ⤷ an der Tafel vor machen
+- mit je zwei Beispielaufgaben von Schülern rechnen lassen
+- $0.\overline{9}$ 
 
 ## 2026-08-12
 
@@ -101,7 +116,7 @@ Addition, Subtraktion, Multiplikation und Division von Brüchen an schreiben
 
 - Größenvergleich  halber Liter, 0,33 L, ein viertel Liter ein Drittel Liter, 0,75 L, 0,2 L, ein achtel Liter, 200 milli Liter von einem Liter wurden getrunken, 40 Zentiliter.
 	- jeweils ne 1Liter Flasche ausmalen 
-- 3/5 vs 2/3
+- 3/5 vs 2/3 $\frac{3}{5}\fbox{|\quad |} \frac{2}{3}$ $\frac{3}{5}\;\fbox{\phantom{6}}\;\frac{2}{3}$
 - 3/4 vs 5/8
 - 2/3 vs 5/8
 - 2/3 vs 6/8

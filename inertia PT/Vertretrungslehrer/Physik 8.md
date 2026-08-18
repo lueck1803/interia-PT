@@ -295,12 +295,13 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 ### Worum geht es in der Physik? (nochmal Video von dem russischen Prof schauen)
 [Physiker lösen keine Gleichungen](https://www.youtube.com/watch?v=O-YXXxFaIwI&list=PL1u-zzk6SurZrva064nEiJX8-IFb5cNd7&index=53)
 - Modellierung
+	- es geht nicht um Formeln, Formeln sind das stark reduzierte Ergebnis des Modells in Form der Sprache der Mathematik
 - UNwichtiges weglassen
 	- ⤷ damit das Wichtige übrig bleibt
 	- ⤷ "Wichtig" hängt immer von Situation und dem Problem ab
 	- ⤷ Bei der Beschreibung von grundlegenden Phänomenen möchte man es auf exakt die abhängigen Größen (Variablen und Parameter) reduzieren, die das Problem beschreiben. 
-- Größenordnung
 ### Verschiedene Abschätzungen von Größenordnungen?
+- Größenordnung
 Was ist hier wichtig?
 Die richtige Einheit und die Größenordnung in 10er Potenzen.
 Man muss nicht die genaue Zahl wissen, aber wenn die Zehner Potenz passt, kann man sehr gut Einschätzungen treffen und Dinge auf ihre Plausibilität überprüfen.

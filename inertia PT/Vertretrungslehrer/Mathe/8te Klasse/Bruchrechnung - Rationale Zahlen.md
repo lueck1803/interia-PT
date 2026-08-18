@@ -80,13 +80,37 @@ $2,56\overline{7}$ in Bruch umwandeln
 
 ![[../../../../../../Pasted image 20260814025616.png]]
 ![[../../../../../../Pasted image 20260814025629.png]]
-a) $\frac{3}{5}+\frac{5}{4}=$ 
-b) $\frac{8}{3}-\frac{7}{2}+\frac{13}{5}=$
-c) $\frac{24}{40}-\frac{33}{9}+\frac{28}{15}=$
-d) $\frac{21 \cdot 3 \cdot 35}{49 \cdot 15 \cdot 9}=$
-e) $\frac{75}{36} \cdot \frac{144}{125}=$
-g) $\frac{36}{5}: \frac{6}{25}=$
-h) $\frac{4}{5}: \frac{7}{8}=$
+a) $\frac{3}{5}+\frac{5}{4}=\frac{37}{20}=\pu{ 1.85 }$ 
+b) $\frac{8}{3}-\frac{7}{2}+\frac{13}{5}=\frac{53}{30}=\pu{ 1.7\overline{6}}$
+c) $\frac{24}{40}-\frac{33}{9}+\frac{28}{15}=-\frac{6}{5}=\pu{ -1.2 }$
+d) $\frac{21 \cdot 3 \cdot 35}{49 \cdot 15 \cdot 9}=\frac{1}{3}$
+e) $\frac{75}{36} \cdot \frac{144}{125}=\frac{12}{5}=\pu{ 2.4 }$
+f) $\frac{36}{5}: \frac{6}{25}=30$
+g) $\frac{4}{5}: \frac{7}{8}=\frac{32}{35}=\pu{ 0.478 }$
+h) $\frac{55}{51}\cdot \frac{17}{65} : \frac{39}{77} \cdot \frac{14}{10}=\frac{11}{39}: \frac{39}{55}=\frac{605}{1521}=\pu{ 0.3978 }$
+
+$0,\overline{9}$
+$\mathrm{I}\quad x=\pu{ 0.9999\dots }$
+$\mathrm{II}\quad10x=\pu{ 9,99999\dots }$
+$\mathrm{I}-\mathrm{II}\quad 9x=\pu{9} \quad \left|\;:9\right.$
+$x=1$
+
+$2,35\overline{7}$
+$x=\pu{ 2,357777\dots }$
+$\mathrm{I}\quad100x=\pu{ 235,7777\dots }$
+$\mathrm{II}\quad1000x=\pu{ 2357,777\dots }$
+$\mathrm{I}-\mathrm{II}\quad 900x=\pu{2122} \quad \left|\;:900\right.$
+$x=\frac{\pu{2122}}{900}=\frac{1061}{450}$
+
+$1,3\overline{6}$
+$x=\pu{ 1,36666\dots }$
+$\mathrm{I}\quad10x=\pu{ 13.6666\dots }$
+$\mathrm{II}\quad100x=\pu{ 136,666\dots }$
+$\mathrm{I}-\mathrm{II}\quad 90x=\pu{ 123} \quad \left|\;:90\right.$
+$x=\frac{\pu{ 123}}{90}$
+Quersummenregel $1+2+3=6$ ist durch 3 teilbar
+$x=\frac{\pu{ 41}}{30}$
+
 
 
 - $1~\mathrm{inch} =2.54~\mathrm{ cm}$ 
