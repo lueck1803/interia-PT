@@ -134,8 +134,12 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - saif khatib
+
 - [x] blätter für P8b kopieren
 - [x] gülnder fach
+- [ ] Nummer von Mutter von mathis besorgen
+- [ ] Akteneintrag Mathis 
+	- [ ] Sprachaufzeichnung 
 - [ ] schul id fertig 
 - [ ] mein unterricht eintrag m8b
 - [ ] Duolingo
@@ -158,16 +162,17 @@
 - [ ] die Tage nochmal nach dem Label maker schauen kostet nur 20 statt sonst 25€
 - [x] 1,1 kg Kaffee 2x füsili eintragen Schokomüsli 
 - [ ] Körnung Aufsätze und andere in Akkuschrauber box %% fold %%
-- [ ] English 5b %% fold %%
+- [ ] English 5b
+	- [ ] alle in grundschule englisch
 	- [ ] Fragewörter  %% fold %%
-	- [ ] wie stelle ich mich vor? %% fold %%
+	- [ ] wie stelle ich mich vor?
 		- [ ] wie heiße ich %% fold %%
 		- [ ] wie alt bin ich
 		- [ ] wo wohne ich?
 		- [ ] wie geht es mir heute
 		- [ ] lieblings Aktivität
 	- [ ] Satzbau in Englisch 
-	- [ ] Der englische Satzbau ist fest und folgt fast immer der 
+	- [ ] Der englische Satzbau ist fest und folgt fast immer der  %% fold %%
 	- Grundregel **Subjekt – Verb – Objekt (SVO)**.  %% fold %%
 		Das bedeutet:  %% fold %%
 		- Wer tut etwas?
@@ -247,7 +252,7 @@
 	
 	His fourth class is gym. It is just exercising.
 	
-	History is his last class of the day. Lucas has a hard time staying awake. Many lessons are boring, and he is very tired after doing gym.
+	- History is his last class of the day. Lucas has a hard time staying awake. Many lessons are boring, and he is very tired after doing gym.
 - [ ] Tastatur wischen 
 	- [ ] laptop
 	- [ ] PC
