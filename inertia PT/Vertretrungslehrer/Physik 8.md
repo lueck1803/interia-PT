@@ -310,7 +310,11 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 		- FUCKIng Vakuum Spaß xD
 			- Wie hoch kann man Wasser pumpen?
 			- Dampfdruck
-		- 
+		- Druck in strömenden fluiden
+			- bernoulli
+			- Druckluftschlauch und tischtennis ball
+			- Venturidüse 
+			- deo
 # 10a
 
 # 10b
