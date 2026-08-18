@@ -136,7 +136,7 @@
 - saif khatib
 - [ ] Duolingo
 - [x] Linter ausstellen
-- [ ] tasks einstellungen am PC
+- [x] tasks einstellungen am PC
 - [ ] #task test
 - [ ] Feldahorn umsetzen
 - [ ] die Tage nochmal nach dem Label maker schauen kostet nur 20 statt sonst 25€
