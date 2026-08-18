@@ -135,9 +135,14 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - saif khatib
 - [ ] Duolingo
-- [ ] 
+- [ ] kgt und ggt, welchen brauche ich beim kürzen und welchen beim Erweitern
+	- [ ] 1 gehört nicht zu kgt und ggt
+- [ ] 8b donnerstag unbedingt direkt die Bruchrechenregeln anschreiben mit beispiel. Keine Klassendiskussion
+	- [ ] multiplikation habe ich ja schon, ich schreibe sie aber nochmal a
+- [ ] Notfallzettel in fr güldners fach
 - [ ] 8a Elternabend 30.8
-	- [ ] was 
+	- [ ] was zum Mathe-Wettbewerb sagen?
+	- [ ] Taschenrechner 
 - [x] Linter ausstellen
 - [x] tasks einstellungen am PC
 - [ ] #task test
@@ -148,7 +153,7 @@
 - [ ] Feldahorn umsetzen
 - [ ] die Tage nochmal nach dem Label maker schauen kostet nur 20 statt sonst 25€
 - [x] 1,1 kg Kaffee 2x füsili eintragen Schokomüsli 
-- [ ] Körnung Aufsätze und andere in Akkuschrauber box
+- [ ] Körnung Aufsätze und andere in Akkuschrauber box %% fold %%
 - [ ] English 5b %% fold %%
 	- [ ] Fragewörter  %% fold %%
 	- [ ] wie stelle ich mich vor? %% fold %%
