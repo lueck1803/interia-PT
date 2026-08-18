@@ -135,6 +135,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - saif khatib
 - [ ] Duolingo
+- [ ] 
 - [ ] 8a Elternabend 30.8
 	- [ ] was 
 - [x] Linter ausstellen
