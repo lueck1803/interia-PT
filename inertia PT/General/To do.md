@@ -164,12 +164,12 @@
 	- [ ] wir stellen ein Gleichnungssystem auf. Das ist die perfekte Überleitung zu dem was wir im Anschluss machen werden.
 	- [ ] an dieser Stelle ist das total normal dass ihr das nicht versteht
 	- [ ] merkt euch dieses Vorgehen/diesen Algorithmus, da müsst ihr nicht viel verstehen 
-	- [ ] 
+	- [ ] wenn ihr jetzt bei dem Vorgehen ein kleines bisschen mitkommt, dann habt ihr schon die halbe Miete beim kommenden Thema.
 - [x] Linter ausstellen
 - [x] tasks einstellungen am PC
 - [ ] #task test
 	- [ ] die task suche ausprobieren
-- [ ] Mit Rayan und Isaac sprechen
+- [x] Mit Rayan und Isaac sprechen
 - [ ] Spitzahorn Samen / Stecklinge suchen
 - [ ] Bergahorn Samen / Stecklinge suchen
 - [ ] Feldahorn umsetzen
