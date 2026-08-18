@@ -136,7 +136,8 @@
 - saif khatib
 
 - [ ] Unterricht P 10 vorbereiten 
-- [ ] Fahrrad auf
+- [ ] Fahrrad aufpumpen 
+- [ ] Einkaufswagen weg
 - [ ] Nummer von Mutter von mathis besorgen 
 - [ ] Akteneintrag Mathis 
 	- [ ] Sprachaufzeichnung 
