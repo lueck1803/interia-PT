@@ -135,8 +135,10 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - saif khatib
 - [ ] Duolingo
+- [ ] Notfallzettel in fr güldners fach
 - [ ] 8a Elternabend 30.8
-	- [ ] was 
+	- [ ] was zum Mathe-Wettbewerb sagen?
+	- [ ] Taschenrechner 
 - [x] Linter ausstellen
 - [x] tasks einstellungen am PC
 - [ ] #task test
