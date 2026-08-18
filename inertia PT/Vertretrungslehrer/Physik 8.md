@@ -303,7 +303,6 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 		- Atmosphäre
 			- hier handelt es sich um ein Gas, was kompressibel ist. ja.... wasser und auch stahl ist kompressibel xD... 
 			- Aber unter den natürlich auftretenden Bedingungen hat das eine klar bemerkbaren effekt: exponential funktion - barometrische höhenformel
-			- -> wir bauen uns einen U-rohr manometer
 		- Schiffe die Schwimmen
 			- archimedisches prinzip
 		- Kommunizierende Röhren
@@ -318,6 +317,9 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 				- Mischer
 				- wasserstrahlpumpe
 			- tesla valve
+	- Messung:
+		- Barometer
+		- -> wir bauen uns einen U-rohr manometer
 # 10a
 
 # 10b
