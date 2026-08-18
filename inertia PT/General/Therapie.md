@@ -283,6 +283,19 @@ flowchart TB
 	- ⤷ Sie nimmt mich nicht in Schutz 
 
 # Tagebuch?
+## 2026-08-18 zur Situation in 5b
+ich bin noch dabei zu lernen und einzuüben mir abzugewöhnen nicht reflexhaft die Schuld bei mir zu suchen. 
+
+Und nicht erstmal aus allem mit dem Gefühl heraus zu gehen ungeeignet, gefährlich für andere, jemandem von dem man sich fernhalten sollte, der etwas schlechtes in sich trägt, in Situationen falsch und unkontrolliert handelt, auch wenn ich mir kognitiv bewusst bin, nach dem Ermessen der Situation richtig gehandelt zu haben. 
+
+Mir wurde auch von allen Seiten unmissverständlich klar gemacht dass ich mich richtig verhalten habe.
+
+Daher gab's da keinerlei Nährboden für diesen Keim der Unsicherheit.
+
+War bisher bis ich an diese Schule kam nicht so. 
+Ob familiär, in der Beziehung in den gefühlt meisten mir erdenklichen Situationen. 
+
+Daher bin ich echt happy dass ich mittlerweile geistig, emotional und körperlich trotz meiner jahrelang meine Wahrnehmung verdrehenden Erfahrungen, recht schnell ein gesundes Selbstbild über solche Situationen zurück erlange, ohne über mehrere Tage das allgegenwärtige Gefühl zu haben falsch und gefährlich zu sein.
 ## 2026-08-13 Nachricht an Ansia 
 Zur Info: ich hab ADHS und weiß das erst seit 2 Jahren. 
 Ich bin da noch intensiv im Prozess da besser mit meiner Energie zu haushalten. 

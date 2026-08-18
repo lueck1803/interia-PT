@@ -141,13 +141,13 @@
 - [ ] Akteneintrag Mathis 
 	- [ ] Sprachaufzeichnung 
 - [ ] schul id fertig 
-- [ ] mein unterricht eintrag m8b
+- [x] mein unterricht eintrag m8b ✅ 2026-08-18
 - [ ] Duolingo
 - [ ] kgt und ggt, welchen brauche ich beim kürzen und welchen beim Erweitern
 	- [ ] 1 gehört nicht zu kgt und ggt
 - [ ] 8b donnerstag unbedingt direkt die Bruchrechenregeln anschreiben mit beispiel. Keine Klassendiskussion
 	- [ ] multiplikation habe ich ja schon, ich schreibe sie aber nochmal an
-- [ ] Notfallzettel in fr güldners fach
+- [x] Notfallzettel in fr güldners fach ✅ 2026-08-18
 - [ ] 8a Elternabend 30.8
 	- [ ] was zum Mathe-Wettbewerb sagen?
 	- [ ] Taschenrechner 
