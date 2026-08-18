@@ -135,9 +135,9 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - saif khatib
 
-- [x] blätter für P8b kopieren
-- [x] gülnder fach
-- [ ] Nummer von Mutter von mathis besorgen
+- [ ] Unterricht P 10 vorbereiten 
+- [ ] Fahrrad auf
+- [ ] Nummer von Mutter von mathis besorgen 
 - [ ] Akteneintrag Mathis 
 	- [ ] Sprachaufzeichnung 
 - [ ] schul id fertig 
