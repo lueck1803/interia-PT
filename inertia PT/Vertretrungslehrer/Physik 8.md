@@ -298,8 +298,19 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 			- oberseite schubspannung
 			- unterseite zugspannung
 		- Alles was mit Wasser zu tun hat.
-			- Beim Tauchen
+			- Beim Tauchen - Druck steigt linear an, ist aber wirklich extrem
 			- Beim Bau von Staudämmen
+		- Atmosphäre
+			- hier handelt es sich um ein Gas, was kompressibel ist. ja.... wasser und auch stahl ist kompressibel xD... 
+			- Aber unter den natürlich auftretenden Bedingungen hat das eine klar bemerkbaren effekt: exponential funktion - barometrische höhenformel
+			- -> wir bauen uns einen U-rohr manometer
+		- Schiffe die Schwimmen
+			- archimedisches prinzip
+		- Kommunizierende Röhren
+		- FUCKIng Vakuum Spaß xD
+			- Wie hoch kann man Wasser pumpen?
+			- Dampfdruck
+		- 
 # 10a
 
 # 10b
