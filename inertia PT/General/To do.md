@@ -134,7 +134,7 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - saif khatib
-- [ ] blätter für P8b kopieren
+- [x] blätter für P8b kopieren
 - [x] gülnder fach
 - [ ] schul id fertig 
 - [ ] mein unterricht eintrag m8b
