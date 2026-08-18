@@ -140,14 +140,13 @@
 - [ ] #task test
 	- [ ] die task suche ausprobieren
 - [ ] Mit Rayan und Isaac sprechen
-- [ ] Saif khatib suchen
 - [ ] Spitzahorn Samen / Stecklinge suchen
 - [ ] Bergahorn Samen / Stecklinge suchen
 - [ ] Feldahorn umsetzen
 - [ ] die Tage nochmal nach dem Label maker schauen kostet nur 20 statt sonst 25€
 - [x] 1,1 kg Kaffee 2x füsili eintragen Schokomüsli 
 - [ ] Körnung Aufsätze und andere in Akkuschrauber box
-- [ ] English 5b
+- [ ] English 5b %% fold %%
 	- [ ] Fragewörter  %% fold %%
 	- [ ] wie stelle ich mich vor? %% fold %%
 		- [ ] wie heiße ich %% fold %%
