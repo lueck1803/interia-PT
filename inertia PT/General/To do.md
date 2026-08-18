@@ -134,11 +134,14 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - saif khatib
+- [ ] blätter für P8b kopieren
+- [ ] gülnder fach
+- [ ] mein unterricht eintrag m8b
 - [ ] Duolingo
 - [ ] kgt und ggt, welchen brauche ich beim kürzen und welchen beim Erweitern
 	- [ ] 1 gehört nicht zu kgt und ggt
 - [ ] 8b donnerstag unbedingt direkt die Bruchrechenregeln anschreiben mit beispiel. Keine Klassendiskussion
-	- [ ] multiplikation habe ich ja schon, ich schreibe sie aber nochmal a
+	- [ ] multiplikation habe ich ja schon, ich schreibe sie aber nochmal an
 - [ ] Notfallzettel in fr güldners fach
 - [ ] 8a Elternabend 30.8
 	- [ ] was zum Mathe-Wettbewerb sagen?
