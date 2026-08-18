@@ -136,14 +136,16 @@
 - saif khatib
 - [ ] Duolingo
 - [x] Linter ausstellen
-- [x] spazieren + aldi
+- [ ] tasks einstellungen am PC
+- [ ] #task test
+- [ ] Feldahorn umsetzen
 - [ ] die Tage nochmal nach dem Label maker schauen kostet nur 20 statt sonst 25€
 - [x] 1,1 kg Kaffee 2x füsili eintragen Schokomüsli 
 - [ ] Körnung Aufsätze und andere in Akkuschrauber box
 - [ ] English 5b
 	- [ ] Fragewörter  %% fold %%
 	- [ ] wie stelle ich mich vor? %% fold %%
-		- [ ] wie heiße ich
+		- [ ] wie heiße ich %% fold %%
 		- [ ] wie alt bin ich
 		- [ ] wo wohne ich?
 		- [ ] wie geht es mir heute
