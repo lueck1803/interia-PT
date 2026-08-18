@@ -167,7 +167,7 @@
 		- [ ] lieblings Aktivität
 	- [ ] Satzbau in Englisch 
 	- [ ] Der englische Satzbau ist fest und folgt fast immer der 
-	- Grundregel **Subjekt – Verb – Objekt (SVO)**. 
+	- Grundregel **Subjekt – Verb – Objekt (SVO)**.  %% fold %%
 		Das bedeutet: 
 		- Wer tut etwas?
 		- Was tut er oder sie?
