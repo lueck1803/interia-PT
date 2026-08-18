@@ -135,7 +135,8 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - saif khatib
 - [ ] blätter für P8b kopieren
-- [ ] gülnder fach
+- [x] gülnder fach
+- [ ] schul id fertig 
 - [ ] mein unterricht eintrag m8b
 - [ ] Duolingo
 - [ ] kgt und ggt, welchen brauche ich beim kürzen und welchen beim Erweitern
@@ -168,7 +169,7 @@
 	- [ ] Satzbau in Englisch 
 	- [ ] Der englische Satzbau ist fest und folgt fast immer der 
 	- Grundregel **Subjekt – Verb – Objekt (SVO)**.  %% fold %%
-		Das bedeutet: 
+		Das bedeutet:  %% fold %%
 		- Wer tut etwas?
 		- Was tut er oder sie?
 		- Wen oder was betrifft es?
