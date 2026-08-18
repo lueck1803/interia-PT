@@ -136,6 +136,7 @@
 - saif khatib
 - [x] spazieren + aldi
 - [ ] die Tage nochmal nach dem Label maker schauen 
+- [ ] 1,1 kg Kaffee 2x füsili eintragen Schokomüsli 
 - [ ] Körnung Aufsätze und andere in Akkuschrauber box
 - [ ] English 5b
 	- [ ] Fragewörter 
