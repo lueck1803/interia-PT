@@ -143,7 +143,9 @@
 	- [ ] Aufgaben nummerieren
 	- [ ] bei Aufgabe 1 1) und 2) vertauschen 
 	- [ ] mit Auftrag es in eine Tabelle zu schreiben mit Beispiel Tabelle 
-- [ ] whi
+- [ ] Whiteboard marker besorgen 
+- [ ] Schlüssel fürs Interims Gebäude 
+- [ ] 
 - [ ] Fahrrad aufpumpen 
 - [x] Einkaufswagen weg
 - [x] gelben Sack runter 
