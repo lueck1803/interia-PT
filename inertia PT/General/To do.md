@@ -143,6 +143,7 @@
 	- [ ] Aufgaben nummerieren
 	- [ ] bei Aufgabe 1 1) und 2) vertauschen 
 	- [ ] mit Auftrag es in eine Tabelle zu schreiben mit Beispiel Tabelle 
+- [ ] Vektor 
 - [x] Whiteboard marker besorgen 
 - [x] Schlüssel fürs Interims Gebäude 
 - [ ] Nummer von Mutter von mathis besorgen 
