@@ -103,6 +103,11 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+## 2026-08-19
+Was man hier so alles lernt 🤭.
+Wäre sonst einfach an mir vorbei gegangen. 
+
+Na wenn der Uwe dabei ist, muss ich mich aus sonntäglichen Klausur befreien und in den arheiliger Hinterhöfen auf Schatzsuche gehen.
 ## 2026-08-16 
 ### ansia 2
 Danke nochmal für die Worte am Donnerstag die du bezüglich der Manipulation gesagt hast. 

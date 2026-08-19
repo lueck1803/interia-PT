@@ -153,6 +153,7 @@
 - [x] gelben Sack runter 
 - [ ] Akteneintrag Mathis 
 	- [x] Sprachaufzeichnung 
+	- [ ] noch dazu vermerken, dass ich ihn angesprochen hatte zu Beginn des Unterrichts dass er im Treppenhaus herunter gespuckt hat, während wir
 - [ ] schul id fertig 
 - [x] mein unterricht eintrag m8b 
 - [x] Duolingo
