@@ -136,6 +136,8 @@
 - saif khatib
 
 - [ ] Unterricht P 10 vorbereiten 
+- [ ] Mitarbeit und Anwesenheit p8b
+- [ ] wie läuft das mit
 - [x] shg Einverständniserklärung 
 - [ ] zu comspot fahren 
 - [ ] in ein Handout den "Fehler von emir" aufschreiben 
