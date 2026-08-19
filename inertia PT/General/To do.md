@@ -139,7 +139,11 @@
 - [x] shg Einverständniserklärung 
 - [ ] zu comspot fahren 
 - [ ] in ein Handout den "Fehler von emir" aufschreiben 
-- [ ] Physik Arbeit
+- [ ] Physik Arbeitsblatt anpassen 
+	- [ ] Aufgaben nummerieren
+	- [ ] bei Aufgabe 1 1) und 2) vertauschen 
+	- [ ] mit Auftrag es in eine Tabelle zu schreiben mit Beispiel Tabelle 
+- [ ] whi
 - [ ] Fahrrad aufpumpen 
 - [x] Einkaufswagen weg
 - [x] gelben Sack runter 
