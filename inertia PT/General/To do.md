@@ -145,7 +145,7 @@
 	- [ ] mit Auftrag es in eine Tabelle zu schreiben mit Beispiel Tabelle 
 - [ ] Vektor Beispiel bild mit Kurvenfahrt und den drei Vektoren s,v, a
 - [ ] $\hat{x}=\begin{pmatrix}1\\0\end{pmatrix}$ ; $\hat{y}=\begin{pmatrix}0\\1\end{pmatrix}$
-- [ ] $\braket{ v |  }$
+- [ ] $\braket{ v  }= \overline{v}$ 
 - [x] Whiteboard marker besorgen 
 - [x] Schlüssel fürs Interims Gebäude 
 - [ ] Nummer von Mutter von mathis besorgen 
