@@ -139,6 +139,7 @@
 - [x] shg Einverständniserklärung 
 - [ ] zu comspot fahren 
 - [ ] in ein Handout den "Fehler von emir" aufschreiben 
+- [ ] Physik Arbeit
 - [ ] Fahrrad aufpumpen 
 - [x] Einkaufswagen weg
 - [x] gelben Sack runter 
