@@ -145,10 +145,7 @@
 	- [ ] mit Auftrag es in eine Tabelle zu schreiben mit Beispiel Tabelle 
 - [ ] Vektor Beispiel bild mit Kurvenfahrt und den drei Vektoren s,v, a
 - [ ] $\hat{x}=\begin{pmatrix}1\\0\end{pmatrix}$ ; $\hat{y}=\begin{pmatrix}0\\1\end{pmatrix}$
-- [ ] $\braket{ v  }= \overline{v}$ mit dem Index (Beschriftung unten) $0s \to
-- [ ] 
-- [ ] 
-- [ 30s$
+- [ ] $\braket{ v  }= \overline{v}$ mit dem Index (Beschriftung unten) $0s-30s$ ist 
 - [x] Whiteboard marker besorgen 
 - [x] Schlüssel fürs Interims Gebäude 
 - [ ] Nummer von Mutter von mathis besorgen 
@@ -208,7 +205,7 @@
 - [ ] Bergahorn Samen / Stecklinge suchen
 - [ ] Feldahorn umsetzen
 - [ ] die Tage nochmal nach dem Label maker schauen kostet nur 20 statt sonst 25€
-- [x] 1,1 kg Kaffee 2x füsili eintragen Schokomüsli 
+- [x] 1,1 kg Kaffee 2x füsili eintragen Schokomüsli  %% fold %%
 - [ ] Körnung Aufsätze und andere in Akkuschrauber box %% fold %%
 - [ ] English 5b
 	- [ ] alle in grundschule englisch
