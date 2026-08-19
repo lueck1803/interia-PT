@@ -145,7 +145,10 @@
 	- [ ] mit Auftrag es in eine Tabelle zu schreiben mit Beispiel Tabelle 
 - [ ] Vektor Beispiel bild mit Kurvenfahrt und den drei Vektoren s,v, a
 - [ ] $\hat{x}=\begin{pmatrix}1\\0\end{pmatrix}$ ; $\hat{y}=\begin{pmatrix}0\\1\end{pmatrix}$
-- [ ] $\braket{ v  }= \overline{v}$ mit dem Index (Beschriftung )
+- [ ] $\braket{ v  }= \overline{v}$ mit dem Index (Beschriftung unten) $0s \to
+- [ ] 
+- [ ] 
+- [ 30s$
 - [x] Whiteboard marker besorgen 
 - [x] Schlüssel fürs Interims Gebäude 
 - [ ] Nummer von Mutter von mathis besorgen 
@@ -220,8 +223,8 @@
 	- [ ] Der englische Satzbau ist fest und folgt fast immer der  %% fold %%
 	- Grundregel **Subjekt – Verb – Objekt (SVO)**.  %% fold %%
 		Das bedeutet:  %% fold %%
-		- Wer tut etwas?
-		- Was tut er oder sie?
+		- Wer tut etwas? %% fold %%
+		- Was tut er oder sie? %% fold %%
 		- Wen oder was betrifft es?
 		- Danach kommen Ort und Zeit.
 	- Die Grundregel: SVO
