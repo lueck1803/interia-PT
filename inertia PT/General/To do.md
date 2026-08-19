@@ -143,8 +143,8 @@
 	- [ ] Aufgaben nummerieren
 	- [ ] bei Aufgabe 1 1) und 2) vertauschen 
 	- [ ] mit Auftrag es in eine Tabelle zu schreiben mit Beispiel Tabelle 
-- [ ] Whiteboard marker besorgen 
-- [ ] Schlüssel fürs Interims Gebäude 
+- [x] Whiteboard marker besorgen 
+- [x] Schlüssel fürs Interims Gebäude 
 - [ ] Nummer von Mutter von mathis besorgen 
 - [ ] 10er Physik Denksport Physik zusammenstellen 
 - [ ] Fahrrad aufpumpen 
