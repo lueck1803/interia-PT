@@ -145,11 +145,11 @@
 	- [ ] mit Auftrag es in eine Tabelle zu schreiben mit Beispiel Tabelle 
 - [ ] Whiteboard marker besorgen 
 - [ ] Schlüssel fürs Interims Gebäude 
-- [ ] 
+- [ ] Nummer von Mutter von mathis besorgen 
+- [ ] 10er Physik Denksport Physik zusammenstellen 
 - [ ] Fahrrad aufpumpen 
 - [x] Einkaufswagen weg
 - [x] gelben Sack runter 
-- [ ] Nummer von Mutter von mathis besorgen 
 - [ ] Akteneintrag Mathis 
 	- [x] Sprachaufzeichnung 
 - [ ] schul id fertig 
