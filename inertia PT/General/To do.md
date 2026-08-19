@@ -137,6 +137,8 @@
 
 - [ ] Unterricht P 10 vorbereiten 
 - [x] shg Einverständniserklärung 
+- [ ] zu comspot fahren 
+- [ ] in ein Handout den "Fehler von emir" aufschreiben 
 - [ ] Fahrrad aufpumpen 
 - [x] Einkaufswagen weg
 - [x] gelben Sack runter 
