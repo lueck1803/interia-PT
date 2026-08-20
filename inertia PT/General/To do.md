@@ -152,7 +152,7 @@
 - [x] luna in cloud einladen 
 - [ ] Stundenplan im Kalender anpassen 
 - [ ] Mitarbeit und Anwesenheit p8b
-- [ ] wie läuft das mit der Einstufung in E und G
+- [x] wie läuft das mit der Einstufung in E und G
 - [x] shg Einverständniserklärung 
 - [ ] zu comspot fahren 
 - [ ] in ein Handout den "Fehler von emir" aufschreiben 
@@ -161,9 +161,10 @@
 	- [ ] bei Aufgabe 1 1) und 2) vertauschen 
 	- [ ] mit Auftrag es in eine Tabelle zu schreiben mit Beispiel Tabelle 
 - [ ] Vektor Beispiel bild mit Kurvenfahrt und den drei Vektoren s,v, a
-- [ ] $\hat{x}=\begin{pmatrix}1\\0\end{pmatrix}$ ; $\hat{y}=\begin{pmatrix}0\\1\end{pmatrix}$
-- [ ] $\braket{ v  }= \overline{v}$ mit dem Index (Beschriftung unten) $0s-30s$ ist die mittlere Geschwindigkeit in der Zeit von Sekunde 0 bis Sekunde 30 gemeint. $\braket{ v_{0s-30s}  }$ 
-- [x] Whiteboard marker besorgen 
+- Whiteboard marker besorgen 
+	- Ich hab Jana bescheid gegeben, dass sie welche besorgen soll
+	- [ ] selbst welche kaufen
+	- [ ] überlegen, ob ich in xournal am laptop schreibe?
 - [x] Schlüssel fürs Interims Gebäude 
 - [ ] Nummer von Mutter von mathis besorgen 
 	- [ ] 0172 7838889
@@ -224,8 +225,8 @@
 - [ ] die Tage nochmal nach dem Label maker schauen kostet nur 20 statt sonst 25€
 - [x] 1,1 kg Kaffee 2x füsili eintragen Schokomüsli  %% fold %%
 - [ ] Körnung Aufsätze und andere in Akkuschrauber box %% fold %%
-- [ ] English 5b
-	- [ ] alle in grundschule englisch
+- [ ] English 5b %% fold %%
+	- [ ] alle in grundschule englisch %% fold %%
 		- [ ] Fragewörter  %% fold %%
 	- [ ] wie stelle ich mich vor?
 		- [ ] wie heiße ich %% fold %%
