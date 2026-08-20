@@ -138,7 +138,10 @@
 - [ ] Mathebuch 5a Aufgaben 
 - [ ] Kaffee ausleeren 
 - [ ] 8b abzieher
-- [ ] luna in cloud einladen 
+- [ ] \overline in latex suite hinzufügen
+	- [ ] brauche ich nicht, 
+- [ ] klatex am laptop fixen
+- [x] luna in cloud einladen 
 - [ ] Stundenplan im Kalender anpassen 
 - [ ] Mitarbeit und Anwesenheit p8b
 - [ ] wie läuft das mit der Einstufung in E und G

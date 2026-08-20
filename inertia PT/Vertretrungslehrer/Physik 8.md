@@ -412,3 +412,10 @@ Die Amerikaner geben ihre Körpergrößen halt in foot und inch an. Da sagt man 
 		- $\vec{v}_{1}=\begin{pmatrix}v_{x}\\ v_{y}\end{pmatrix}=\begin{pmatrix}2\\ 5\end{pmatrix} \pu{ m/s }$ 
 		- Dies bedeutet, dass die Geschwindigkeit zum Zeitpunkt 1, in x-Richtung $\pu{ 2 m/s }$ und in y-Richtung $\pu{ 5 m/s }$ war.
 ## 10te
+
+# Formel / Latex
+
+$\hat{x}=\begin{pmatrix}1\\0\end{pmatrix}$
+$\hat{y}=\begin{pmatrix}0\\1\end{pmatrix}$
+
+$\braket{ v  }=\overline{v}$ $\bar{x}$
