@@ -136,6 +136,7 @@
 - saif khatib
 
 - [ ] Mathebuch 5a Aufgaben 
+- [ ] 8b abzieher
 - [ ] Mitarbeit und Anwesenheit p8b
 - [ ] wie läuft das mit der Einstufung in E und G
 - [x] shg Einverständniserklärung 
