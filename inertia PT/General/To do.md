@@ -142,9 +142,8 @@
 - [x] Etiketten Drucker kaufen
 - [ ] Mathebuch 5a Aufgaben 
 - [ ] Brüche: 
-	- [ ] Addition
-		- [ ] kgV (kleinstes gemeinsames Vielfaches) beim Hauptnenner bilden
-		- [ ] ggT (größter gemeinsamer Teiler) beim Kürzen
+	- [ ] kgV (kleinstes gemeinsames Vielfaches) beim Hauptnenner bilden
+	- [ ] ggT (größter gemeinsamer Teiler) beim Kürzen
 - [x] Kaffee ausleeren 
 - [ ] Ordnung in Vertretungslehrer herstellen. Ordner für Physik erstellen 
 - [ ] 8b abzieher
