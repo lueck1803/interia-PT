@@ -419,3 +419,4 @@ $\hat{x}=\begin{pmatrix}1\\0\end{pmatrix}$
 $\hat{y}=\begin{pmatrix}0\\1\end{pmatrix}$
 
 $\braket{ v  }=\overline{v}$ 
+$\braket{ v_{0s-30s} }$ ist für
