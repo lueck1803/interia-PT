@@ -95,11 +95,16 @@ h) $\frac{55}{51}\cdot \frac{17}{65} : \frac{39}{77} \cdot \frac{14}{10}=\frac{1
 - dazu nehmen wir die Zahl und <font color="#ffd700">verschieben</font> sie <font color="#ffd700">um so viele Kommastellen</font>, dass die Zahl die sich wiederholt vor dem Komma beginnt. In dem wir sie mit der entsprechenden Zehnerpotenz multiplizieren also: $10^{1}=10, 10^{2}=100, 10^{3}=1000, \dots$
 - Dazu machen wir erstmal etwas ungewöhnliches. Wir <font color="#ffd700">weisen die Zahl </font>die wir umwandeln wollen <font color="#ffd700">einer Variablen zu</font>, um im nächsten Schritt eine Zahl zu bekommen, die wir um die Kommastellen verschoben haben:
 	- Bei $0,\bar{8}$ bedeutet das also:
-	- $\mathrm{I}\quad {\color{red}x=}\pu{ 0.8888\dots }$ das $\mathrm{I}$ benennt dabei nur diese Zuweisung
+	- $\mathrm{I}\quad {\color{red}x=}\pu{ 0,8888\dots }$ das $\mathrm{I}$ benennt dabei nur diese Zuweisung
 - Jetzt verschieben wir das Komma und erzeugen uns dadurch eine zweite Gleichung:
 	- hier müssen wir mit 10 multiplizieren, um den Anfang der Periode vor das Komma zu ziehen.
-	- $\mathrm{II}\quad {\color{red}10}x=\pu{ {\color{red}{8.}} 8888\dots }$
-- Dann ziehen wir Gleichung $\mathrm{I}$ von Gleichung $\mathrm{II}$ ab. Dadurch fällt die Periode weg und wir müssen nur noch nach 
+	- $\mathrm{II}\quad {\color{red}10}x=\pu{ {\color{red}{8,}} 8888\dots }$
+- Dann ziehen wir Gleichung $\mathrm{I}$ von Gleichung $\mathrm{II}$ ab. Dadurch fällt die Periode weg und wir müssen nur noch nach $x$ auflösen:
+	- $\mathrm{I}-\mathrm{II}$:
+	- $\mathrm{I}-\mathrm{II}\quad 10x-x = \pu{ 8,8888\dots }- \pu{ 0,8888\dots }$
+	- $\mathrm{I}-\mathrm{II}\quad 9x = \pu{ 8 }$
+	- $\mathrm{I}-\mathrm{II}\quad 9x=\pu{9} \quad \left|\;:9\right.$
+
 
 $0,\overline{9}$
 $\mathrm{I}\quad x=\pu{ 0.9999\dots }$
