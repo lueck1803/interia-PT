@@ -136,7 +136,7 @@
 - [ ] Mathe-Blatt für 8a Kopieren - 20 mal
 	- [x] aufgabe 2) ans Ende schieben 
 - [ ] Physikblatt Seite 1+2 nochmal kopieren 
-- [ ] ahor
+- [ ] Ahornsteckling ins Wasser 
 - [ ] Spülmaschine ausräumen 
 - [ ] Etiketten Drucker kaufen
 - [ ] Mathebuch 5a Aufgaben 
