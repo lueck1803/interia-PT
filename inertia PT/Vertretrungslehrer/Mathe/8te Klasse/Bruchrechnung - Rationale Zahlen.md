@@ -89,10 +89,14 @@ f) $\frac{36}{5}: \frac{6}{25}=30$
 g) $\frac{4}{5}: \frac{7}{8}=\frac{32}{35}=\pu{ 0.478 }$
 h) $\frac{55}{51}\cdot \frac{17}{65} : \frac{39}{77} \cdot \frac{14}{10}=\frac{11}{39}: \frac{39}{55}=\frac{605}{1521}=\pu{ 0.3978 }$
 
- Ziel: wir wollen die Periode loswerden 
+<u> Ziel: </u>wir wollen die Periode loswerden 
 - ⤷das gelingt uns durch Subtraktion der Periode. 
 	- Wir müssen also $\pu{ 0,9999\dots }$,  $\pu{ 0,8888\dots }$,  $\pu{ 0,007777\dots }$ oder $\pu{ 0,06666\dots }$ abziehen
-- dazu nehmen wir die Zahl und verschieben sie um so viele Kommastellen, dass die Periode mit dem Beginn vor dem Komma steht 
+- dazu nehmen wir die Zahl und verschieben sie um so viele Kommastellen, dass die Zahl die sich wiederholt vor dem Komma beginnt
+- Dazu machen wir erstmal etwas ungewöhnliches. Wir weisen die Zahl die wir umwandeln wollen einer Variablen zu, um im nächsten Schritt eine Zahl zu bekommen, die wir um die Kommastellen verschoben haben:
+	- Bei $0,\bar{8}$ bedeutet das also:
+	- $\mathrm{I}\quad x=\pu{ 0.9999\dots }$ das $\mathrm{I}$ benennt dabei nur diese Zuweisung
+- 
 
 $0,\overline{9}$
 $\mathrm{I}\quad x=\pu{ 0.9999\dots }$
