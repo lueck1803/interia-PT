@@ -177,7 +177,7 @@
 		- mal euren Kopf ausleeren, was ihr für Begriffe im Kopf habt
 	- newtonsche Axiome
 	- Wirkung von Kräften - Scheinkräfte
-		- dazu videos zeigen
+		- dazu videos zeigen %% fold %%
 		- und etwas alltags erleben durchsprechen
 		- Ich fahre mit einem Auto in die Kurve
 		- Corrioliskraft %% fold %%
