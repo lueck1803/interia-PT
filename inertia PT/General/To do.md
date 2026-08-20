@@ -145,7 +145,7 @@
 	- [ ] Addition
 	- [ ] Wann verwende ich
 		- [ ] kgt
-		- [ ] ggT
+		- [ ] ggT beim 
 - [x] Kaffee ausleeren 
 - [ ] Ordnung in Vertretungslehrer herstellen. Ordner für Physik erstellen 
 - [ ] 8b abzieher
