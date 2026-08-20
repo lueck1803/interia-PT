@@ -171,7 +171,7 @@
 	- [ ] das hat er geleugnet 
 	- [ ] ich hab ihm dann später gesagt dass ich ihn dabei gesehen habe
 - [ ] schul id fertig 
-	- [ ] per Mail 
+	- [ ] per Mail absenden oder hochladen 
 - [x] Duolingo
 - [ ] kgt und ggt, welchen brauche ich beim kürzen und welchen beim Erweitern
 	- [ ] 1 gehört nicht zu kgt und ggt
