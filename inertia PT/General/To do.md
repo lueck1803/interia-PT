@@ -136,6 +136,11 @@
 - saif khatib
 
 - [ ] Mathebuch 5a Aufgaben 
+- [ ] Brüche: 
+	- [ ] Addition
+	- [ ] Wann verwende ich
+		- [ ] kgt
+		- [ ] ggT
 - [ ] Kaffee ausleeren 
 - [ ] Ordnung in Vertretungslehrer herstellen. Ordner für Physik erstellen 
 - [ ] 8b abzieher
