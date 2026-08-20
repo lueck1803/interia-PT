@@ -2,7 +2,7 @@
 ## 2026-08-17
 - [ ] <font color="#ff69b4">Blitzlichtrunde</font> - aber selbstständig
 - [ ] Fahrplan bis Herbstferien
-- [ ] Einheiten umrechnen? ⟹ dann mach ich das nicht mit denen in Mathe
+- [ ] Einheiten umrechnen? ⟹ dann mach ich das nicht mit denen in Mathe %% fold %%
 - [ ] Arbeitsblatt zur Radtour etc
 - [ ] Was ist ein Vektor
 
