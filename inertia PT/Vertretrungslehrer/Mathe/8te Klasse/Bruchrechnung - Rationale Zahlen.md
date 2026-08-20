@@ -103,7 +103,10 @@ h) $\frac{55}{51}\cdot \frac{17}{65} : \frac{39}{77} \cdot \frac{14}{10}=\frac{1
 	- $\mathrm{I}-\mathrm{II}$:
 	- $\mathrm{I}-\mathrm{II}\quad 10x-x = \pu{ 8,8888\dots }- \pu{ 0,8888\dots }$
 	- $\mathrm{I}-\mathrm{II}\quad 9x = \pu{ 8 }$
-	- $\mathrm{I}-\mathrm{II}\quad 9x=\pu{9} \quad \left|\;:9\right.$
+- Wir lösen jetzt noch nach $x$ auf:
+	- $\mathrm{I}-\mathrm{II}\quad 9x=\pu{8} \quad \left|\;:9\right.$
+	- $x= \frac{8}{9}$
+- Und wir sind fertig.
 
 
 $0,\overline{9}$
