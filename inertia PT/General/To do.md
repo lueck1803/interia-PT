@@ -138,7 +138,7 @@
 - [ ] Physikblatt Seite 1+2 nochmal kopieren 
 - [ ] Ahornsteckling ins Wasser 
 - [ ] Spülmaschine ausräumen 
-- [ ] Etiketten Drucker kaufen
+- [x] Etiketten Drucker kaufen
 - [ ] Mathebuch 5a Aufgaben 
 - [ ] Brüche: 
 	- [ ] Addition
