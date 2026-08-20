@@ -99,12 +99,12 @@ h) $\frac{55}{51}\cdot \frac{17}{65} : \frac{39}{77} \cdot \frac{14}{10}=\frac{1
 - Jetzt verschieben wir das Komma und erzeugen uns dadurch eine zweite Gleichung:
 	- hier müssen wir mit 10 multiplizieren, um den Anfang der Periode vor das Komma zu ziehen.
 	- $\mathrm{II}\quad {\color{red}10}x=\pu{ {\color{red}{8,}} 8888\dots }$
-- Dann ziehen wir Gleichung $\mathrm{I}$ von Gleichung $\mathrm{II}$ ab. Dadurch fällt die Periode weg und wir müssen nur noch nach $x$ auflösen:
-	- $\mathrm{I}-\mathrm{II}$:
-	- $\mathrm{I}-\mathrm{II}\quad 10x-x = \pu{ 8,8888\dots }- \pu{ 0,8888\dots }$
-	- $\mathrm{I}-\mathrm{II}\quad 9x = \pu{ 8 }$
+- Dann <font color="#ffd700">ziehen</font> wir Gleichung $\mathrm{I}$ von Gleichung $\mathrm{II}$ <font color="#ffd700">ab</font>. Dadurch <font color="#ff6e6e">fällt</font> <font color="#ffd700">die Periode weg</font> und wir müssen nur noch nach $x$ auflösen:
+	- $\mathrm{II}-\mathrm{I}$:
+	- $\mathrm{II}-\mathrm{I}\quad 10x-x = \pu{ 8,8888\dots }- \pu{ 0,8888\dots }$
+	- $\mathrm{II}-\mathrm{I}\quad 9x = \pu{ 8 }$
 - Wir lösen jetzt noch nach $x$ auf:
-	- $\mathrm{I}-\mathrm{II}\quad 9x=\pu{8} \quad \left|\;:9\right.$
+	- $\mathrm{II}-\mathrm{I}\quad 9x=\pu{8} \quad \left|\;:9\right.$
 	- $x= \frac{8}{9}$
 - Und wir sind fertig.
 
