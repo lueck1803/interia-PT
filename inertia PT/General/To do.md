@@ -136,6 +136,7 @@
 - [ ] Mathe-Blatt für 8a Kopieren - 20 mal
 	- [x] aufgabe 2) ans Ende schieben 
 - [ ] Physikblatt Seite 1+2 nochmal kopieren 
+- [ ] ahor
 - [ ] Spülmaschine ausräumen 
 - [ ] Etiketten Drucker kaufen
 - [ ] Mathebuch 5a Aufgaben 
@@ -179,7 +180,7 @@
 - [x] Notfallzettel in fr güldners fach  %% fold %%
 - [ ] 8a Elternabend 30.8 %% fold %%
 	- [ ] was zum Mathe-Wettbewerb sagen? %% fold %%
-		- [ ] was meinen Unterricht angeht bin ich eh gerade dabei viel aufzufrischen 
+		- [ ] was meinen Unterricht angeht bin ich eh gerade dabei viel aufzufrischen  %% fold %%
 		- [ ] da ich das Thema was ansteht für sinnlos halte anzufangen wenn gewisse Grundlagen nicht sitzen und ich dann herum rätseln muss warum etwas nicht verstanden wird. 
 		- [ ] ich plane aber auch je nach Bedarf etwas extra Unterricht für die willigen zu halten. Da kann gerne der ganze Jahrgang teilnehmen. Da werden wir Mathe-Wettbewerbs Aufgaben rechnen. Es kann da frei geübt und fragen gestellt werden.
 	- [ ] Taschenrechner 
