@@ -95,6 +95,12 @@ $\mathrm{II}\quad10x=\pu{ 9,99999\dots }$
 $\mathrm{I}-\mathrm{II}\quad 9x=\pu{9} \quad \left|\;:9\right.$
 $x=1$
 
+$0,\bar{8}$
+$\mathrm{I}\quad x=\pu{ 0.8888\dots }$
+$\mathrm{II}\quad 10x=\pu{ 08.8888\dots }$
+
+
+
 $2,35\overline{7}$
 $x=\pu{ 2,357777\dots }$
 $\mathrm{I}\quad100x=\pu{ 235,7777\dots }$
