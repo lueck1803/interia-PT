@@ -136,7 +136,10 @@
 - saif khatib
 
 - [ ] Mathebuch 5a Aufgaben 
+- [ ] Kaffee ausleeren 
 - [ ] 8b abzieher
+- [ ] luna in cloud einladen 
+- [ ] Stundenplan im Kalender anpassen 
 - [ ] Mitarbeit und Anwesenheit p8b
 - [ ] wie läuft das mit der Einstufung in E und G
 - [x] shg Einverständniserklärung 
