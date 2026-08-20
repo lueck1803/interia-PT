@@ -138,8 +138,8 @@
 - [ ] Mathebuch 5a Aufgaben 
 - [ ] Kaffee ausleeren 
 - [ ] 8b abzieher
-- [ ] \overline in latex suite hinzufügen
-	- [ ] brauche ich nicht, 
+- [x] \overline in latex suite hinzufügen
+	- brauche ich nicht, denn das trigger wort *bar* macht das schon
 - [ ] klatex am laptop fixen
 - [x] luna in cloud einladen 
 - [ ] Stundenplan im Kalender anpassen 

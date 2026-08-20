@@ -418,4 +418,4 @@ Die Amerikaner geben ihre Körpergrößen halt in foot und inch an. Da sagt man 
 $\hat{x}=\begin{pmatrix}1\\0\end{pmatrix}$
 $\hat{y}=\begin{pmatrix}0\\1\end{pmatrix}$
 
-$\braket{ v  }=\overline{v}$ $\bar{x}$
+$\braket{ v  }=\overline{v}$  
