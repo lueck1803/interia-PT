@@ -228,7 +228,7 @@
 		- $\pu{ 64cm }=\pu{ 64 \cancel{cm} } \cdot \frac{\pu{ 1in }}{\pu{ 2.54\cancel{cm} }}= \frac{64}{2.54}\pu{ in }=\pu{ 25.19685 in }$
 	- Aufgabe: 
 	  55 miles per hour $\pu{ 55 mi//h}$ in $\pu{ km//h }$ und $\pu{ m//s }$ 
-		- $1~\mathrm{inch} =2.54~\mathrm{ cm}$ 
+		- $1~\mathrm{inch} =2.54~\mathrm{ cm}$  %% fold %%
 		- $\pu{ 1mi }=\pu{ 5280 ft }$
 		- $\pu{ 1ft }=\pu{ 12in }$
 		- $\pu{ 1m }=\pu{ 100cm }$
@@ -418,7 +418,7 @@ Die Amerikaner geben ihre Körpergrößen halt in foot und inch an. Da sagt man 
 $\hat{x}=\begin{pmatrix}1\\0\end{pmatrix}$
 $\hat{y}=\begin{pmatrix}0\\1\end{pmatrix}$
 
-$\braket{ v  }=\overline{v}$ die Spitze Klammer entspricht 
-$\braket{ v_{0s-30s} }$ ist die Durchschnittsgeschwindigkeit zwischen den Zeitpunkten Sekunde 0 und Sekunde 30.
+$\braket{ v  }=\overline{v}$ die Spitze Klammer entspricht der Notation mit dem Strich und soll einen Durchschnittswert markieren.
+$\braket{ v_{0s-30s} }$ ist dann die Durchschnittsgeschwindigkeit zwischen den Zeitpunkten Sekunde 0 und Sekunde 30.
 $\braket{ v_{0s-30s} } = \frac{v_{30s}-v_{0s}}{2}$ 
 
