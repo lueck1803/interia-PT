@@ -144,8 +144,8 @@
 - [ ] Brüche: 
 	- [ ] Addition
 	- [ ] Wann verwende ich
-		- [ ] kgt
-		- [ ] ggT beim 
+		- [ ] kgV (kleinstes gemeinsames Vielfaches )
+		- [ ] ggT (gr) beim Kürzen
 - [x] Kaffee ausleeren 
 - [ ] Ordnung in Vertretungslehrer herstellen. Ordner für Physik erstellen 
 - [ ] 8b abzieher
