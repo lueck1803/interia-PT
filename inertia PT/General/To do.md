@@ -141,13 +141,6 @@
 	- [ ] Wann verwende ich
 		- [ ] kgt
 		- [ ] ggT
-	- [ ] 2. möchte ich gerne mit der ganzen Klasse die Aufgabe 4) auf dem Übungsblatt gerechnet haben. Es wäre schön, wenn jeder versteht, was zu tun ist.
-
-Die Aufgaben sind nicht so einfach. Das bedeutet, also genug Erklärungsbedarf.
-
-Wichtig für dich wäre hier also:
-
-Notiere dir die einzelnen Schritte beim Vorgehen
 - [ ] Kaffee ausleeren 
 - [ ] Ordnung in Vertretungslehrer herstellen. Ordner für Physik erstellen 
 - [ ] 8b abzieher
@@ -234,7 +227,7 @@ Notiere dir die einzelnen Schritte beim Vorgehen
 		- [ ] Fragewörter  %% fold %%
 	- [ ] wie stelle ich mich vor?
 		- [ ] wie heiße ich %% fold %%
-		- [ ] wie alt bin ich
+		- [ ] wie alt bin ich %% fold %%
 		- [ ] wo wohne ich?
 		- [ ] wie geht es mir heute
 		- [ ] lieblings Aktivität
