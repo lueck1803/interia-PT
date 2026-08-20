@@ -418,5 +418,7 @@ Die Amerikaner geben ihre Körpergrößen halt in foot und inch an. Da sagt man 
 $\hat{x}=\begin{pmatrix}1\\0\end{pmatrix}$
 $\hat{y}=\begin{pmatrix}0\\1\end{pmatrix}$
 
-$\braket{ v  }=\overline{v}$ 
-$\braket{ v_{0s-30s} }$ ist für
+$\braket{ v  }=\overline{v}$ die Spitze Klammer entspricht 
+$\braket{ v_{0s-30s} }$ ist die Durchschnittsgeschwindigkeit zwischen den Zeitpunkten Sekunde 0 und Sekunde 30.
+$\braket{ v_{0s-30s} } = \frac{v_{30s}-v_{0s}}{2}$ 
+
