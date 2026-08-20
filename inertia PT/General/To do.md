@@ -224,7 +224,7 @@
 - [ ] die Tage nochmal nach dem Label maker schauen kostet nur 20 statt sonst 25€
 - [x] 1,1 kg Kaffee 2x füsili eintragen Schokomüsli  %% fold %%
 - [ ] Körnung Aufsätze und andere in Akkuschrauber box %% fold %%
-- [ ] English 5b %% fold %%
+- [ ] English 5b
 	- [ ] alle in grundschule englisch %% fold %%
 		- [ ] Fragewörter  %% fold %%
 	- [ ] wie stelle ich mich vor?
