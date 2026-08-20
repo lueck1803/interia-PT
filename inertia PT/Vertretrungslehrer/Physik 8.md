@@ -180,7 +180,7 @@
 		- dazu videos zeigen
 		- und etwas alltags erleben durchsprechen
 		- Ich fahre mit einem Auto in die Kurve
-		- Corrioliskraft
+		- Corrioliskraft %% fold %%
 	- Federwirkung - Schwingung
 		- Hookesches Gesetz
 	- Kräfte als Vektoren
