@@ -92,11 +92,11 @@ h) $\frac{55}{51}\cdot \frac{17}{65} : \frac{39}{77} \cdot \frac{14}{10}=\frac{1
 <u> Ziel: </u>wir wollen die Periode loswerden 
 - ⤷das gelingt uns durch Subtraktion der Periode. 
 	- Wir müssen also $\pu{ 0,9999\dots }$,  $\pu{ 0,8888\dots }$,  $\pu{ 0,007777\dots }$ oder $\pu{ 0,06666\dots }$ abziehen
-- dazu nehmen wir die Zahl und verschieben sie um so viele Kommastellen, dass die Zahl die sich wiederholt vor dem Komma beginnt
-- Dazu machen wir erstmal etwas ungewöhnliches. Wir weisen die Zahl die wir umwandeln wollen einer Variablen zu, um im nächsten Schritt eine Zahl zu bekommen, die wir um die Kommastellen verschoben haben:
+- dazu nehmen wir die Zahl und <font color="#ffd700">verschieben</font> sie <font color="#ffd700">um so viele Kommastellen</font>, dass die Zahl die sich wiederholt vor dem Komma beginnt. In dem wir sie mit der entsprechenden Zehnerpotenz multiplizieren also: $10^{1}=10, 10^{2}=100, 10^{3}=1000, \dots$
+- Dazu machen wir erstmal etwas ungewöhnliches. Wir <font color="#ffd700">weisen die Zahl </font>die wir umwandeln wollen <font color="#ffd700">einer Variablen zu</font>, um im nächsten Schritt eine Zahl zu bekommen, die wir um die Kommastellen verschoben haben:
 	- Bei $0,\bar{8}$ bedeutet das also:
-	- $\mathrm{I}\quad x=\pu{ 0.9999\dots }$ das $\mathrm{I}$ benennt dabei nur diese Zuweisung
-- 
+	- $\mathrm{I}\quad {\color{yellow}x=}\pu{ 0.9999\dots }$ das $\mathrm{I}$ benennt dabei nur diese Zuweisung
+- Jetz
 
 $0,\overline{9}$
 $\mathrm{I}\quad x=\pu{ 0.9999\dots }$
