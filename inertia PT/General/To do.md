@@ -137,6 +137,7 @@
 - [ ] Mathe-Blatt für 8a Kopieren 
 	- [ ] aufgabe 2) ans Ende schieben 
 - [ ] Physikblatt Seite 1+2 nochmal kopieren 
+- [ ] Etiketten Drucker kaufen
 - [ ] Mathebuch 5a Aufgaben 
 - [ ] Brüche: 
 	- [ ] Addition
@@ -170,8 +171,6 @@
 	- [ ] 0172 7838889
 - [ ] 10er Physik Denksport Physik zusammenstellen 
 - [ ] Fahrrad aufpumpen 
-- [x] Einkaufswagen weg
-- [x] gelben Sack runter 
 - [ ] Akteneintrag Mathis 
 	- [x] Sprachaufzeichnung 
 	- [ ] noch dazu vermerken, dass ich ihn angesprochen hatte zu Beginn des Unterrichts dass er im Treppenhaus herunter gespuckt hat, während ich mit den anderen Kindern die Treppe hoch kam. Da habe ich ihn vorsichtig gefragt ob er es war
