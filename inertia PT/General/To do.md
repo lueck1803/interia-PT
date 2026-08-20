@@ -137,6 +137,7 @@
 
 - [ ] Mathebuch 5a Aufgaben 
 - [ ] Kaffee ausleeren 
+- [ ] Ordnung in Vertretungslehrer herstellen. Ordner für Physik erstellen 
 - [ ] 8b abzieher
 - [x] \overline in latex suite hinzufügen
 	- brauche ich nicht, denn das trigger wort *bar* macht das schon
