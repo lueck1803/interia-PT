@@ -4,11 +4,13 @@
 # Aldi
 ## Jetzt
 - Einkaufswagen 
+- [ ] Toast 
+- [ ] Pflanzen öl
+## Speicher/Sonst 
 - [ ] Saft
 - [ ] Bier
 - [ ] Hafermilch 
 - [ ] Parmesan 
-## Speicher/Sonst 
 - [x] Pfand 
 - [x] salz
 - [x] Nudelsoßen 
