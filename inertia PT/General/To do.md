@@ -135,7 +135,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - saif khatib
 
-- [ ] Unterricht P 10 vorbereiten 
+- [ ] Mathebuch 5a Aufgaben 
 - [ ] Mitarbeit und Anwesenheit p8b
 - [ ] wie läuft das mit der Einstufung in E und G
 - [x] shg Einverständniserklärung 
