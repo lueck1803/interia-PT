@@ -143,8 +143,7 @@
 - [ ] Mathebuch 5a Aufgaben 
 - [ ] Brüche: 
 	- [ ] Addition
-	- [ ] Wann verwende ich
-		- [ ] kgV (kleinstes gemeinsames Vielfaches) beim Hauptnenner
+		- [ ] kgV (kleinstes gemeinsames Vielfaches) beim Hauptnenner bilden
 		- [ ] ggT (größter gemeinsamer Teiler) beim Kürzen
 - [x] Kaffee ausleeren 
 - [ ] Ordnung in Vertretungslehrer herstellen. Ordner für Physik erstellen 
