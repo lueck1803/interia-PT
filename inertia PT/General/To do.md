@@ -141,6 +141,13 @@
 	- [ ] Wann verwende ich
 		- [ ] kgt
 		- [ ] ggT
+	- [ ] 2. möchte ich gerne mit der ganzen Klasse die Aufgabe 4) auf dem Übungsblatt gerechnet haben. Es wäre schön, wenn jeder versteht, was zu tun ist.
+
+Die Aufgaben sind nicht so einfach. Das bedeutet, also genug Erklärungsbedarf.
+
+Wichtig für dich wäre hier also:
+
+Notiere dir die einzelnen Schritte beim Vorgehen
 - [ ] Kaffee ausleeren 
 - [ ] Ordnung in Vertretungslehrer herstellen. Ordner für Physik erstellen 
 - [ ] 8b abzieher
@@ -239,7 +246,7 @@
 		- Was tut er oder sie? %% fold %%
 		- Wen oder was betrifft es?
 		- Danach kommen Ort und Zeit.
-	- Die Grundregel: SVO
+	- Die Grundregel: SVO %% fold %%
 		- **Subjekt:** Wer oder was? (z. B. I, the dog, Sarah)
 		- **Verb (Prädikat)**: Was tut das Subjekt? (z. B. play, * eats*, reads)
 		- **Objekt:** Wen oder was? (z. B. tennis, an apple, a book)
