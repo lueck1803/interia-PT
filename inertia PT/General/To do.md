@@ -133,9 +133,8 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
-- saif khatib
-- [ ] Mathe-Blatt für 8a Kopieren 
-	- [ ] aufgabe 2) ans Ende schieben 
+- [ ] Mathe-Blatt für 8a Kopieren - 20 mal
+	- [x] aufgabe 2) ans Ende schieben 
 - [ ] Physikblatt Seite 1+2 nochmal kopieren 
 - [ ] Etiketten Drucker kaufen
 - [ ] Mathebuch 5a Aufgaben 
@@ -150,11 +149,7 @@
 - [x] \overline in latex suite hinzufügen
 	- brauche ich nicht, denn das trigger wort *bar* macht das schon
 - [ ] klatex am laptop fixen
-- [x] luna in cloud einladen 
 - [ ] Stundenplan im Kalender anpassen 
-- [ ] Mitarbeit und Anwesenheit p8b
-- [x] wie läuft das mit der Einstufung in E und G
-- [x] shg Einverständniserklärung 
 - [ ] zu comspot fahren 
 - [ ] in ein Handout den "Fehler von emir" aufschreiben 
 - [ ] Physik Arbeitsblatt anpassen 
@@ -166,7 +161,6 @@
 	- Ich hab Jana bescheid gegeben, dass sie welche besorgen soll
 	- [ ] selbst welche kaufen
 	- [ ] überlegen, ob ich in xournal am laptop schreibe?
-- [x] Schlüssel fürs Interims Gebäude 
 - [ ] Nummer von Mutter von mathis besorgen 
 	- [ ] 0172 7838889
 - [ ] 10er Physik Denksport Physik zusammenstellen 
@@ -177,14 +171,11 @@
 	- [ ] das hat er geleugnet 
 	- [ ] ich hab ihm dann später gesagt dass ich ihn dabei gesehen habe
 - [ ] schul id fertig 
-- [x] mein unterricht eintrag m8b 
 - [x] Duolingo
 - [ ] kgt und ggt, welchen brauche ich beim kürzen und welchen beim Erweitern
 	- [ ] 1 gehört nicht zu kgt und ggt
-- [ ] 8b donnerstag unbedingt direkt die Bruchrechenregeln anschreiben mit beispiel. Keine Klassendiskussion
-	- [ ] multiplikation habe ich ja schon, ich schreibe sie aber nochmal an
-- [x] Notfallzettel in fr güldners fach 
-- [ ] 8a Elternabend 30.8
+- [x] Notfallzettel in fr güldners fach  %% fold %%
+- [ ] 8a Elternabend 30.8 %% fold %%
 	- [ ] was zum Mathe-Wettbewerb sagen?
 		- [ ] was meinen Unterricht angeht bin ich eh gerade dabei viel aufzufrischen 
 		- [ ] da ich das Thema was ansteht für sinnlos halte anzufangen wenn gewisse Grundlagen nicht sitzen und ich dann herum rätseln muss warum etwas nicht verstanden wird. 
@@ -213,18 +204,15 @@
 	- [ ] an dieser Stelle ist das total normal dass ihr das nicht versteht
 	- [ ] merkt euch dieses Vorgehen/diesen Algorithmus, da müsst ihr nicht viel verstehen 
 	- [ ] wenn ihr jetzt bei dem Vorgehen ein kleines bisschen mitkommt, dann habt ihr schon die halbe Miete beim kommenden Thema.
-- [x] Linter ausstellen
 - [x] tasks einstellungen am PC
 - [ ] #task test
 	- [ ] die task suche ausprobieren
-- [x] Mit Rayan und Isaac sprechen
 - [ ] Spitzahorn Samen / Stecklinge suchen
 - [ ] Bergahorn Samen / Stecklinge suchen
 - [ ] Feldahorn umsetzen
 - [ ] die Tage nochmal nach dem Label maker schauen kostet nur 20 statt sonst 25€
-- [x] 1,1 kg Kaffee 2x füsili eintragen Schokomüsli  %% fold %%
 - [ ] Körnung Aufsätze und andere in Akkuschrauber box %% fold %%
-- [ ] English 5b
+- [ ] English 5b %% fold %%
 	- [ ] alle in grundschule englisch %% fold %%
 		- [ ] Fragewörter  %% fold %%
 	- [ ] wie stelle ich mich vor?
@@ -339,14 +327,6 @@
 	- [ ] prozentrechnung
 	- [ ] Einheiten umrechnen
 - [ ] Spülmaschine ausräumen 
-- [x] dringend blatt mit erhöhtem Kontrast Kopieren 
-	- [x] andere PDF löschen 
-	- [x] auf USB Stick die PDF mit letzter Seite 
-	- [x] seite zwei Aufgabe mit Biene etwas kleiner auf die Seite 
-- [ ] Physik Arbeitsblatt 1 - sortieren
-	- bzw 8b gebe ich die Einzelseiten 🤷
-	- [ ] ⤷ 18 mal die letzte Seite kopieren
-	- [ ] und mit vorletzter seite zusammen tackern 
 - [ ] preset leadout einstellen 
 - [ ] Arbeitsblatt Physik zusammenstellen 
 	- [ ] darauf erklärung eines Vektors
@@ -379,7 +359,6 @@
 	- [ ] abhängen
 	- [ ] zusammenlegen 
 	- [ ] in den Schrank 
-- [x] Duschen 
 - [ ] weiße Gitarre nochmal gescheit stimmen 
 - [ ] unknown usb device port reset failed
 	- [ ] https://www.google.com/search?q=unknown+usb+device+port+reset+failed&oq=unkonwn+usb+device+port&gs_lcrp=EgZjaHJvbWUqCQgBEAAYDRiABDIGCAAQRRg5MgkIARAAGA0YgAQyCAgCEAAYDRgeMggIAxAAGA0YHjIICAQQABgNGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhgeMggICRAAGBYYHtIBCTEwMDEzajBqN6gCALACAA&sourceid=chrome&source=chrome.ob&ie=UTF-8
@@ -476,7 +455,7 @@
 - [ ] krafttraining %% fold %%
 - [ ] bauchmuskel
 - [ ] yoga
-- [x] standard notification llw Kalender 
+- [x] standard notification llw Kalender  %% fold %%
 - [x] Harald Jung wegen saniraum fragen
 - [x] Stunden plan austauschen  %% fold %%
 - [ ] fidget toys in lisas Klassen raum %% fold %%
