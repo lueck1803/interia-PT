@@ -143,7 +143,7 @@
 	- [ ] Wann verwende ich
 		- [ ] kgt
 		- [ ] ggT
-- [ ] Kaffee ausleeren 
+- [x] Kaffee ausleeren 
 - [ ] Ordnung in Vertretungslehrer herstellen. Ordner für Physik erstellen 
 - [ ] 8b abzieher
 - [x] \overline in latex suite hinzufügen
