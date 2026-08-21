@@ -147,7 +147,7 @@
 		- gefällt mir überhaupt nicht
 	- sharp el-w550tg
 		- scheint ganz nett zu sein 
-	- der ti 
+	- der ti 30 prio
 - [x] Ahornsteckling ins Wasser 
 - [ ] Keyboard aufbauen und dirtmouth üben
 - [ ] Jamil zur Differenzierung:
