@@ -139,7 +139,8 @@
 - [ ] tasttatur wischen
 - saif hatte mich letzt gefragt wie man Periode eingibt, ich hab's herausgefunden: <font color="#c00000">alpha</font> + $\sqrt{ \square{} }$
 - mir gefällt der calcoom z8 plus nicht....
-	- aber 
+	- aber der ist meinem casio vom Layout noch am nächsten
+- der Casio fx-810 
 - [x] Ahornsteckling ins Wasser 
 - [ ] Keyboard aufbauen und dirtmouth üben
 - [ ] Jamil zur Differenzierung:
