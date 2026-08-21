@@ -138,6 +138,7 @@
 - [ ] Physikblatt Seite 1+2 nochmal kopieren 
 - [ ] tasttatur wischen
 - [x] Ahornsteckling ins Wasser 
+- [ ] Keyboard aufbauen und dirtmou
 - [ ] Spülmaschine ausräumen 
 - [x] Etiketten Drucker kaufen
 - [ ] Mathebuch 5a Aufgaben 
