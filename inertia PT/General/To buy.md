@@ -4,8 +4,8 @@
 # Aldi
 ## Jetzt
 - Einkaufswagen 
-- [ ] Toast 
-- [ ] Pflanzen öl
+- [x] Toast 
+- [x] Pflanzen öl
 ## Speicher/Sonst 
 - [ ] Saft
 - [ ] Bier
