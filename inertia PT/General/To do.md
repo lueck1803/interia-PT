@@ -138,7 +138,10 @@
 - [ ] Physikblatt Seite 1+2 nochmal kopieren 
 - [ ] tasttatur wischen
 - [x] Ahornsteckling ins Wasser 
-- [ ] Keyboard aufbauen und dirtmou
+- [ ] Keyboard aufbauen und dirtmouth üben
+- [ ] Jamil zur Differenzierung:
+	- [ ] rote Aufgaben im Mathebuch für E
+	- [ ] in der Arbeit gibt es andere Punkteverteilung und eventuell Zusatzaufgaben 
 - [ ] Spülmaschine ausräumen 
 - [x] Etiketten Drucker kaufen
 - [ ] Mathebuch 5a Aufgaben 
@@ -166,19 +169,18 @@
 - [ ] Nummer von Mutter von mathis besorgen 
 	- [ ] 0172 7838889
 - [ ] 10er Physik Denksport Physik zusammenstellen 
-- [ ] Fahrrad aufpumpen 
+- [x] Fahrrad aufpumpen 
 - [ ] Akteneintrag Mathis 
 	- [x] Sprachaufzeichnung 
 	- [ ] noch dazu vermerken, dass ich ihn angesprochen hatte zu Beginn des Unterrichts dass er im Treppenhaus herunter gespuckt hat, während ich mit den anderen Kindern die Treppe hoch kam. Da habe ich ihn vorsichtig gefragt ob er es war
 	- [ ] das hat er geleugnet 
 	- [ ] ich hab ihm dann später gesagt dass ich ihn dabei gesehen habe
-- [ ] schul id fertig 
-	- [ ] per Mail absenden oder hochladen 
+- [x] schul id fertig 
+	- [x] per Mail absenden oder hochladen 
 - [x] Duolingo
-- [ ] kgt und ggt, welchen brauche ich beim kürzen und welchen beim Erweitern
-	- [ ] 1 gehört nicht zu kgt und ggt
+- [x] kgV und ggt, welchen brauche ich beim kürzen und welchen beim Erweitern
 - [x] Notfallzettel in fr güldners fach  %% fold %%
-- [ ] 8a Elternabend 30.8 %% fold %%
+- [ ] 8a Elternabend 31.8 %% fold %%
 	- [ ] was zum Mathe-Wettbewerb sagen? %% fold %%
 		- [ ] was meinen Unterricht angeht bin ich eh gerade dabei viel aufzufrischen  %% fold %%
 		- [ ] da ich das Thema was ansteht für sinnlos halte anzufangen wenn gewisse Grundlagen nicht sitzen und ich dann herum rätseln muss warum etwas nicht verstanden wird.  %% fold %%
@@ -213,7 +215,7 @@
 - [ ] Spitzahorn Samen / Stecklinge suchen
 - [ ] Bergahorn Samen / Stecklinge suchen
 - [ ] Feldahorn umsetzen
-- [ ] die Tage nochmal nach dem Label maker schauen kostet nur 20 statt sonst 25€
+- [x] die Tage nochmal nach dem Label maker schauen kostet nur 20 statt sonst 25€
 - [ ] Körnung Aufsätze und andere in Akkuschrauber box %% fold %%
 - [ ] English 5b %% fold %%
 	- [ ] alle in grundschule englisch %% fold %%
