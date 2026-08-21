@@ -133,7 +133,8 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
-- mathe 8 a von 
+- mathe 8 a mein Unterricht von heute eintragen 
+	- Mitarbeit von den letzten malen nach unten korrigieren 
 - amna auf 4 bzw 3- setzen 
 - für Unterrichtstörer 
 	- euch steht frei den Unterricht zu verlassen 
@@ -150,6 +151,10 @@
 	- in der Lautstärke und störend geht einfach nicht. Das ist für mich extrem anstrengend und mir geht's dann nachmittags körperlich einfach extrem schlecht. Habt davor einfach Respekt 
 	- ich habe auch vor euch Respekt und auch davor dass ihr keinen Bock habt. 
 	- ich finde keiner sollte gezwungen sein zum Matheunterricht zu gehen insbesondere nicht zu meinem. Es gibt definitiv bessere Lehrer das verstehe ich. Ich bin nunmal da und das ist das beste was ihr habt.
+- Unterrichtskonzept 
+	- absolut angstfreier Unterricht 
+	- keine Frage oder Aussage ist schlecht wenn sie ernst gemeint ist. Klar darf auch mal konstruktiver Sarkasmus/ironie/spaß sein wenn es dazu beiträgt und keinen abwertet
+	- denn jede
 - [x] Mathe-Blatt für 8a Kopieren - 20 mal
 	- [x] aufgabe 2) ans Ende schieben 
 - [ ] Physikblatt Seite 1+2 nochmal kopieren 
