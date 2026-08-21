@@ -145,7 +145,8 @@
 	- das Layout ist ganz anders
 	- gefällt mir überhaupt nicht
 - sharp el-w550tg
-	- 
+	- scheint ganz nett zu sein 
+- der ti ist komplett raus
 - [x] Ahornsteckling ins Wasser 
 - [ ] Keyboard aufbauen und dirtmouth üben
 - [ ] Jamil zur Differenzierung:
