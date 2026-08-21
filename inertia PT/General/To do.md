@@ -154,7 +154,7 @@
 - Unterrichtskonzept 
 	- absolut angstfreier Unterricht 
 	- keine Frage oder Aussage ist schlecht wenn sie ernst gemeint ist. Klar darf auch mal konstruktiver Sarkasmus/ironie/spaß sein wenn es dazu beiträgt und keinen abwertet
-	- denn jede
+	- denn jede Aussage und Frage gibt mir Infos über eure Gedanken 
 - [x] Mathe-Blatt für 8a Kopieren - 20 mal
 	- [x] aufgabe 2) ans Ende schieben 
 - [ ] Physikblatt Seite 1+2 nochmal kopieren 
