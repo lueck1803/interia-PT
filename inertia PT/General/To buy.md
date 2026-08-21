@@ -1,4 +1,7 @@
 # Internet 
+- macbook ersatztasten 
+	- [ ] Set von ifixit?
+
 - [ ] Usb ⇔ Usb-c Kabel (2m)
 - [ ] Schweißgerät *Parkside PFDS 120 A2*
 # Aldi
