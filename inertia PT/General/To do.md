@@ -137,6 +137,7 @@
 	- [x] aufgabe 2) ans Ende schieben 
 - [ ] Physikblatt Seite 1+2 nochmal kopieren 
 - [ ] tasttatur wischen
+- [ ] saif hatte mich letzt gefragt wie man Periode eingibt, ich hab's herausgefunden: <font color="#c00000">alpha</font> + $\sqrt{ \square{} }$
 - [x] Ahornsteckling ins Wasser 
 - [ ] Keyboard aufbauen und dirtmouth üben
 - [ ] Jamil zur Differenzierung:
