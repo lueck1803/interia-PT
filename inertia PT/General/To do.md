@@ -133,7 +133,8 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
-- [ ] neue Tasten für bestellen 
+- [ ] neue Tasten für mac bestellen und selbst reparieren 
+- [ ] Kostenvorschlag einreichen 
 - mathe 8 a mein Unterricht von heute eintragen 
 	- Mitarbeit von den letzten malen nach unten korrigieren 
 - amna auf 4 bzw 3- setzen 
