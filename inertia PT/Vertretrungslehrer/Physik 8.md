@@ -254,7 +254,7 @@
 
 
 # Kräfte 
-- wir verwenden umgangssprachliche Begriffe, um Vorgänge oder Objekte zu beschreiben. Dadurch kann es Missverständnisse geben und redet eventuell über etwas meint aber etwas ganz anderes
+- wir verwenden umgangssprachliche Begriffe, um Vorgänge oder Objekte zu beschreiben. Dadurch kann es Missverständnisse geben und redet eventuell über etwas meint aber etwas ganz anderes %% fold %%
 - ⤷ versuchen sie präzisier auszudrücken
 - Worum geht es in der physik?
 	- Vorgänge und Gesetzmäßigkeiten möglichst zu isolieren und sie so einfach wie möglich darzustellen
