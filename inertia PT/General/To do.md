@@ -133,6 +133,21 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
+- für Unterrichtstörer 
+	- euch steht frei den Unterricht zu verlassen 
+	- ich bin euch persönlich nicht böse 
+	- ich verstehe wenn man keine Lust hat und sich nicht konzentrieren kann
+	- so lange ihr auf dem Schulgelände seid, trage ich euch nicht als fehlend ein
+	- ich hab hier lieber Ruhe und eure Mitarbeit ist wenn ihr so laut seid besser wenn ihr außerhalb der Klasse seid 
+	- ihr müsst kein Mathe machen wenn ihr kein Bock habt. Ihr müsst auch keinen Abschluss machen. Es zwingt euch keiner dazu. Zumindest ich nicht. Ich halte nix vom Schulzwang.
+	- mein Unterricht ist ein Angebot
+	- entweder ihr seid hier und tragt konstruktiv mit eurem Redeanteil zum Unterricht bei
+	- ihr seid einfach leise 
+	- oder ihr geht 
+	- oder wenn euch der Kram zu leicht ist gebe ich euch schwere Aufgaben🤷
+	- in der Lautstärke und störend geht einfach nicht. Das ist für mich extrem anstrengend und mir geht's dann nachmittags körperlich einfach extrem schlecht. Habt davor einfach Respekt 
+	- ich habe auch vor euch Respekt und auch davor dass ihr keinen Bock habt. 
+	- ich finde keiner sollte gezwungen sein zum Matheunterricht zu gehen insbesondere nicht zu meinem. Es gibt definitiv bessere Lehrer das verstehe ich. Ich bin nunmal da und das ist das beste was ihr habt.
 - [x] Mathe-Blatt für 8a Kopieren - 20 mal
 	- [x] aufgabe 2) ans Ende schieben 
 - [ ] Physikblatt Seite 1+2 nochmal kopieren 
@@ -141,7 +156,7 @@
 - saif hatte mich letzt gefragt wie man Periode eingibt, ich hab's herausgefunden: <font color="#c00000">alpha</font> + $\sqrt{ \square{} }$
 - Taschenrechner  %% fold %%
 	- mir gefällt der calcoom z8 plus nicht.... %% fold %%
-		- aber der ist meinem casio vom Layout noch am nächsten
+		- aber der ist meinem casio vom Layout noch am nächsten %% fold %%
 		- extrem ähnlich 😅
 	- der Casio fx-810 gefällt mir noch weniger
 		- das Layout ist ganz anders
