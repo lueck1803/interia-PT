@@ -65,6 +65,7 @@ $2,56\overline{7}$ in Bruch umwandeln
 
 - Multiplikation $\frac{a}{\textcolor{orange}{b}}\cdot \frac{c}{\textcolor{cyan}{d}}= \frac{ac}{\textcolor{orange}{b}\textcolor{cyan}{d}}$
 - Division $\frac{a}{\textcolor{orange}{b}} : \frac{c}{\textcolor{cyan}{d}}=\frac{\frac{a}{\textcolor{orange}{b}}}{\frac{c}{\textcolor{cyan}{d}}}=\frac{a}{\textcolor{orange}{b}\cdot\frac{c}{\textcolor{cyan}{d}}}=\frac{a}{\textcolor{orange}{b}} \cdot \frac{\textcolor{cyan}{d}}{c}= \frac{a\cdot\textcolor{cyan}{d}}{\textcolor{orange}{b}\cdot c}$
+	- *Willst du teilen durch nen Bruch wird das <font color="#00fa9a">Brüchlein umgestürzt</font> mal genommen und gekürzt.*
 	- <u>Erklärung nach dem ersten Schritt</u>: 
 	- Frage: Wenn ich durch einen Bruch teile
 		- welchen Effekt hat der Zähler des Bruchs ? ⟹ verkleinert die Zahl bzw. vergrößert den Nenner der ersten Zahl
@@ -77,10 +78,10 @@ $2,56\overline{7}$ in Bruch umwandeln
 - Subtraktion $\frac{a}{\textcolor{orange}{b}} - \frac{c}{\textcolor{cyan}{d}}= \frac{a}{\textcolor{orange}{b}}\cdot \frac{\textcolor{cyan}{d}}{\textcolor{cyan}{d}}- \frac{c}{\textcolor{cyan}{d}}\cdot\frac{\textcolor{orange}{b}}{\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}}{\textcolor{orange}{b}\textcolor{cyan}{d}}- \frac{c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}-c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}$ 
 - kgV (<u>kleinstes gemeinsames Vielfaches</u>) beim <font color="#ff6e6e">Hauptnenner</font> bilden
 - ggT (<u>größter gemeinsamer Teiler</u>) beim <font color="#48d1cc">Kürzen</font>
-- gemischte Schreibweise:
-	- $2 \frac{3}{4}$ <font color="#48d1cc">ohne Marl-Punkt</font> meint das zwei Ganze und $\frac{3}{4}$
+- <font color="#c815ff">gemischte Schreibweise</font>:
+	- $2 \frac{3}{4}$ <font color="#48d1cc">ohne Mal-Punkt</font> meint das zwei Ganze und $\frac{3}{4}$
 	- also $2+\frac{3}{4}$
-# Aufgaben
+# Aufgabenblatt 
  ![[../../../../../../Pasted image 20260814020608.png]]![[../../../../../../Pasted image 20260814020619.png]]
 
 ![[../../../../../../Pasted image 20260814025616.png]]
