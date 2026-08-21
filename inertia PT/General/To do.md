@@ -133,13 +133,14 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
-- [ ] Mathe-Blatt für 8a Kopieren - 20 mal
+- [x] Mathe-Blatt für 8a Kopieren - 20 mal
 	- [x] aufgabe 2) ans Ende schieben 
 - [ ] Physikblatt Seite 1+2 nochmal kopieren 
 - [ ] tasttatur wischen
+- [ ] rasieren 
 - saif hatte mich letzt gefragt wie man Periode eingibt, ich hab's herausgefunden: <font color="#c00000">alpha</font> + $\sqrt{ \square{} }$
-- [ ] Taschenrechner 
-	- mir gefällt der calcoom z8 plus nicht....
+- Taschenrechner  %% fold %%
+	- mir gefällt der calcoom z8 plus nicht.... %% fold %%
 		- aber der ist meinem casio vom Layout noch am nächsten
 		- extrem ähnlich 😅
 	- der Casio fx-810 gefällt mir noch weniger
@@ -147,6 +148,7 @@
 		- gefällt mir überhaupt nicht
 	- sharp el-w550tg
 		- scheint ganz nett zu sein 
+		- ist vor allem für bis zu 5€ weniger zu haben
 	- der ti 30 prio
 - [x] Ahornsteckling ins Wasser 
 - [ ] Keyboard aufbauen und dirtmouth üben
@@ -157,8 +159,8 @@
 - [x] Etiketten Drucker kaufen
 - [ ] Mathebuch 5a Aufgaben 
 - [ ] Brüche: 
-	- [ ] kgV (kleinstes gemeinsames Vielfaches) beim Hauptnenner bilden
-	- [ ] ggT (größter gemeinsamer Teiler) beim Kürzen
+	- kgV (kleinstes gemeinsames Vielfaches) beim Hauptnenner bilden
+	- ggT (größter gemeinsamer Teiler) beim Kürzen
 - [x] Kaffee ausleeren 
 - [ ] Ordnung in Vertretungslehrer herstellen. Ordner für Physik erstellen 
 - [ ] 8b abzieher

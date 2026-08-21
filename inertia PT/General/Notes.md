@@ -103,6 +103,13 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+## 2026-08-21 
+Hallo Jamil, 
+
+gibt es irgendwo Details zu den Abschluss Präsentationen nachzulesen. 
+Dazu gab es keine Mail so weit ich weiß. 
+
+Ich hab ansonsten nur das was ich aufgeschrieben habe, was Ute Einicke dazu gesagt hat. 
 ## 2026-08-19
 Was man hier so alles lernt 🤭.
 Wäre sonst einfach an mir vorbei gegangen. 
@@ -313,7 +320,7 @@ Ich hab natürlich mal bei der AfD zu "die Rechte Ordnung der Liebe" nachgeschau
 Die wollen gerade keinen Gottesstaat.
  %% fold %%
 Die sehen eher dass die Gottlosigkeit, der Materialismus und die angebliche Objektivität der Wissenschaft auf die sich Ideologien wie der Kommunismus, der Nationalsozialismus, aber auch der Neoliberalismus berufen haben und berufen zu den menschenfeindlichsten Systemen geführt haben.
-
+ %% fold %%
 Die sind der Ansicht dass es viele Ersatzreligionen gibt und den Leuten Selbsttranszendenz fehlt. 
 
 Die Hinwendung zu einem übermateriellen Streben.
