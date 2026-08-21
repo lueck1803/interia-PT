@@ -142,7 +142,10 @@
 	- aber der ist meinem casio vom Layout noch am nächsten
 	- extrem ähnlich 😅
 - der Casio fx-810 gefällt mir noch weniger
-	- das Layout ist
+	- das Layout ist ganz anders
+	- gefällt mir überhaupt nicht
+- sharp el-w550tg
+	- 
 - [x] Ahornsteckling ins Wasser 
 - [ ] Keyboard aufbauen und dirtmouth üben
 - [ ] Jamil zur Differenzierung:
