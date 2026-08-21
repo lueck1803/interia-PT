@@ -135,8 +135,11 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - [ ] neue Tasten für mac bestellen und selbst reparieren 
 - [ ] Kostenvorschlag einreichen 
-- mathe 8 a mein Unterricht von heute eintragen 
-	- Mitarbeit von den letzten malen nach unten korrigieren 
+- [ ] mathe 8 a mein Unterricht von heute eintragen 
+	- [ ] Mitarbeit von den letzten malen nach unten korrigieren 
+	- [ ] Entschuldigung von Emily einscannen
+	- [ ] Abheften
+	- [ ] Anwesenheit eintragen
 - amna auf 4 bzw 3- setzen 
 - für Unterrichtstörer 
 	- euch steht frei den Unterricht zu verlassen 
