@@ -49,7 +49,7 @@
 - Zuordnungen
 - Sonstiges
 
-1. Anteile (nur mit Brüchen, dih. ohne Prozent) = Bruchteile oder Mengen
+1. Anteile (nur mit Brüchen, dh. ohne Prozent) = Bruchteile oder Mengen
 ## <font color="#8db3e2">8a</font> Lisa-Marie Rohr (roh)
 - fidget toys liegen im Lehrerpult
 - Hamza hat wohl ADHS ⟹ ihm dieses Toy geben oder rausgehen lasse
