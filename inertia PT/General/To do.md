@@ -146,6 +146,7 @@
 - [ ] rasierklingen tauschen
 - [ ] rasieren
 - [ ] duschen + rasieren
+- [ ] Duolingo 
 - [ ] Wäsche in den Schrank 
 - [ ] Spülmaschine 
 - [ ] Tisch aufräumen 
