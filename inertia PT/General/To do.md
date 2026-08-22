@@ -185,7 +185,7 @@
 - [ ] Display Schutz Hülle 
 - [ ] Reformer board testen
 - [ ] Kostenvorschlag einreichen  %% fold %%
-- für Unterrichtstörer  %% fold %%
+- für Unterrichtsstörer  %% fold %%
 	- euch steht frei den Unterricht zu verlassen  %% fold %%
 	- ich bin euch persönlich nicht böse 
 	- ich verstehe wenn man keine Lust hat und sich nicht konzentrieren kann
