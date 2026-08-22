@@ -144,13 +144,8 @@
 	- [x] ausprobieren, ob es auch mit sous statt sub geht...
 	- ja funktioniert, also kann ich die gesamte Datei als docx in google translate eingeben
 - [ ] Aldi
-	- [ ] Saft
-	- [ ] bier
-	- [ ] chips
-	- [ ] grüne oliven 
-	- [ ] kalamata oliven 
 - [ ] kühlschrank putzen
-- [ ] Nadine fertig schreiben 
+- [x] Nadine fertig schreiben 
 - [ ] tafel wischen 
 - [ ] Nagelknipser leeren 
 - [ ] balkon gießen 
@@ -186,8 +181,8 @@
 - [ ] mich um pc kümmern 
 - [ ] apfelschneider schärfen dass er gerade schneidet
 - [ ] mac Tastatur 
-	- [ ] neue Tasten für mac bestellen
-	- [ ] selbst reparieren 
+	- [ ] neue Tasten für mac bestellen %% fold %%
+	- [ ] selbst reparieren  %% fold %%
 - [ ] Display Schutz Hülle 
 - [ ] Reformer board testen
 - [ ] Kostenvorschlag einreichen  %% fold %%
