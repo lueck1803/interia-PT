@@ -133,32 +133,23 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
-- [x] toilette
-- [x] Zähne putzen
 - [ ] interimsgebäude testen über beamer am Laptop mit Xournal zu schreiben
 - [ ] Alufolie entfernen?
 - [ ] Materialliste 5er anschauen
-- [x] Untertitel Übersetzung testen 
-	- [x] sub einrückung überprüfen
-	- [x] mal ohne die einrückung anzupassen ausprobieren
-		- obsolet
-	- [x] ausprobieren, ob es auch mit sous statt sub geht...
-	- ja funktioniert, also kann ich die gesamte Datei als docx in google translate eingeben
+- [ ] whiteboard marker in der Stadt kaufen
 - [ ] Aldi
 - [ ] kühlschrank putzen
-- [x] Nadine fertig schreiben 
 - [ ] tafel wischen 
 - [ ] Nagelknipser leeren 
 - [ ] balkon gießen 
+	- [ ] es hat ja geregnet
 - [ ] etwas mit weißen Bohnen kochen 
 - [ ] konto checken 
 - [ ] sofa decken richten
-- [x] Spiegel putzen 
 - [ ] schuhe kaufen 
 	- [ ] Laufschuhe 
 	- [ ] Wanderschuhe 
 - [ ] laufen gehen
-- [x] rasierklingen tauschen
 - [ ] rasieren
 - [ ] duschen + rasieren
 - [ ] Duolingo 
@@ -173,9 +164,9 @@
 - [ ] heroes to us
 - [ ] Fußboden wischen 
 - [ ] Waschbecken 
-- [ ] mich um pc kümmern 
-- [ ] apfelschneider schärfen dass er gerade schneidet
-- [ ] mac Tastatur 
+- [ ] mich um pc kümmern  %% fold %%
+- [ ] apfelschneider schärfen dass er gerade schneidet %% fold %%
+- [ ] mac Tastatur  %% fold %%
 	- [ ] neue Tasten für mac bestellen %% fold %%
 	- [ ] selbst reparieren  %% fold %%
 - [ ] Display Schutz Hülle 
@@ -200,11 +191,9 @@
 	- absolut angstfreier Unterricht 
 	- keine Frage oder Aussage ist schlecht wenn sie ernst gemeint ist. Klar darf auch mal konstruktiver Sarkasmus/ironie/spaß sein wenn es dazu beiträgt und keinen abwertet
 	- denn jede Aussage und Frage gibt mir Infos über eure Gedanken 
-- [x] Mathe-Blatt für 8a Kopieren - 20 mal
-	- [x] aufgabe 2) ans Ende schieben 
 - [ ] Physikblatt Seite 1+2 nochmal kopieren 
 - [ ] tasttatur wischen
-- [ ] rasieren 
+- [ ] rasieren  %% fold %%
 - saif hatte mich letzt gefragt wie man Periode eingibt, ich hab's herausgefunden: <font color="#c00000">alpha</font> + $\sqrt{ \square{} }$
 - Taschenrechner  %% fold %%
 	- mir gefällt der calcoom z8 plus nicht.... %% fold %%
@@ -219,13 +208,13 @@
 	- der ti 30 prio
 - [x] Ahornsteckling ins Wasser 
 - [ ] Keyboard aufbauen und dirtmouth üben
-- [ ] Jamil zur Differenzierung:
+- [ ] Jamil zur Differenzierung: %% fold %%
 	- [ ] rote Aufgaben im Mathebuch für E
 	- [ ] in der Arbeit gibt es andere Punkteverteilung und eventuell Zusatzaufgaben 
 - [ ] Spülmaschine ausräumen 
 - [x] Etiketten Drucker kaufen
 - [ ] Mathebuch 5a Aufgaben 
-- [ ] Brüche: 
+- [ ] Brüche:  %% fold %%
 	- kgV (kleinstes gemeinsames Vielfaches) beim Hauptnenner bilden
 	- ggT (größter gemeinsamer Teiler) beim Kürzen
 - [x] Kaffee ausleeren 
