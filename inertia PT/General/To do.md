@@ -139,8 +139,10 @@
 - [ ] Alufolie entfernen?
 - [x] Untertitel Übersetzung testen 
 	- [x] sub einrückung überprüfen
-	- [ ] mal ohne die einrückung anzupassen ausprobieren
-	- [ ] ausprobieren, ob es auch mit sous statt sub geht...
+	- [x] mal ohne die einrückung anzupassen ausprobieren
+		- obsolet
+	- [x] ausprobieren, ob es auch mit sous statt sub geht...
+	- ja funktioniert, also kann ich die gesamte Datei als docx in google translate eingeben
 - [ ] Aldi
 	- [ ] Saft
 	- [ ] bier
