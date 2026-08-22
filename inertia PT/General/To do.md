@@ -133,13 +133,21 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
-- [ ] toilette
-- [ ] laufen gehen
+- [x] toilette
+- [ ] Nadine ferti
 - [ ] Zähne putzen
+- [ ] laufen gehen
 - [ ] rasierklingen tauschen
 - [ ] rasieren
 - [ ] duschen + rasieren
-- [ ] 
+- [ ] Wäsche in den Schrank 
+- [ ] Spülmaschine 
+- [ ] Tisch aufräumen 
+- [ ] Tisch saugen
+- [ ] Tisch und Tastatur wischen 
+- [ ] Fußboden saugen 
+- [ ] Fußboden wischen 
+- [ ] Waschbecken 
 - [ ] neue Tasten für mac bestellen und selbst reparieren 
 - [ ] Kostenvorschlag einreichen 
 - [ ] mathe 8 a mein Unterricht von heute eintragen 
@@ -147,9 +155,9 @@
 	- [ ] Entschuldigung von Emily einscannen
 	- [ ] Abheften
 	- [ ] Anwesenheit eintragen
-- amna auf 4 bzw 3- setzen 
+- amna auf 4 bzw 3- setzen  %% fold %%
 - für Unterrichtstörer  %% fold %%
-	- euch steht frei den Unterricht zu verlassen 
+	- euch steht frei den Unterricht zu verlassen  %% fold %%
 	- ich bin euch persönlich nicht böse 
 	- ich verstehe wenn man keine Lust hat und sich nicht konzentrieren kann
 	- so lange ihr auf dem Schulgelände seid, trage ich euch nicht als fehlend ein
@@ -180,7 +188,7 @@
 	- der Casio fx-810 gefällt mir noch weniger
 		- das Layout ist ganz anders
 		- gefällt mir überhaupt nicht
-	- sharp el-w550tg
+	- sharp el-w550tg %% fold %%
 		- scheint ganz nett zu sein 
 		- ist vor allem für bis zu 5€ weniger zu haben
 	- der ti 30 prio
