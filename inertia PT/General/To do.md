@@ -1601,7 +1601,8 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] graue hose Knopf reparieren 
 # Pflanzen 
 - [x] tieferes basin für Lotus 
-- [ ] herbst neue Maronen stratifizieren 
+- [ ] spät herbst/Winter neue Maronen stratifizieren 
+	- [ ] dafür die hydro
 - [ ] Forest and gardening vlog 
 - [ ] Forest pond
 - [ ] welche kameras hat der robinga?
@@ -1723,7 +1724,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [ ] Universum in einem einzigen Atom 
 - [ ] Einführung in die Charakterkunde 
 # Filme, Serien und Dokus %% fold %%
-- [x] <span style="color:gold">ghostbusters runterladen</span>
+- [x] <span style="color:gold">ghostbusters runterladen</span> %% fold %%
 - [x] <span style="color:coral">paartherapie S3 runterladen</span>
 
 # Alt
