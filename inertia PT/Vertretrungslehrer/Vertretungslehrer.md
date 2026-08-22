@@ -100,7 +100,7 @@ B3Rnh@Rd
 - 4. 10:30 - 11:15
 - 5. 11:35 - 12:20
 - 6. 12:20 - 13:05
-## Raumplan 
+## <font color="#7cfc00">Raumplan </font>
 
 ![[Images/BAS/BAS-Raumverteilung.png]]
 
