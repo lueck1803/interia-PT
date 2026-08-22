@@ -141,7 +141,7 @@
 	- [ ] Abheften
 	- [ ] Anwesenheit eintragen
 - amna auf 4 bzw 3- setzen 
-- für Unterrichtstörer 
+- für Unterrichtstörer  %% fold %%
 	- euch steht frei den Unterricht zu verlassen 
 	- ich bin euch persönlich nicht böse 
 	- ich verstehe wenn man keine Lust hat und sich nicht konzentrieren kann
@@ -156,7 +156,7 @@
 	- in der Lautstärke und störend geht einfach nicht. Das ist für mich extrem anstrengend und mir geht's dann nachmittags körperlich einfach extrem schlecht. Habt davor einfach Respekt 
 	- ich habe auch vor euch Respekt und auch davor dass ihr keinen Bock habt. 
 	- ich finde keiner sollte gezwungen sein zum Matheunterricht zu gehen insbesondere nicht zu meinem. Es gibt definitiv bessere Lehrer das verstehe ich. Ich bin nunmal da und das ist das beste was ihr habt.
-- Unterrichtskonzept 
+- Unterrichtskonzept  %% fold %%
 	- absolut angstfreier Unterricht 
 	- keine Frage oder Aussage ist schlecht wenn sie ernst gemeint ist. Klar darf auch mal konstruktiver Sarkasmus/ironie/spaß sein wenn es dazu beiträgt und keinen abwertet
 	- denn jede Aussage und Frage gibt mir Infos über eure Gedanken 
