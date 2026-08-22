@@ -154,7 +154,7 @@
 	- [ ] Anwesenheit eintragen
 - amna auf 4 bzw 3- setzen  %% fold %%
 - [ ] laufen gehen
-- [ ] rasierklingen tauschen
+- [x] rasierklingen tauschen
 - [ ] rasieren
 - [ ] duschen + rasieren
 - [ ] Duolingo 
