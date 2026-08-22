@@ -156,12 +156,11 @@
 - [ ] schuhe kaufen 
 	- [ ] Laufschuhe 
 	- [ ] Wanderschuhe 
-- [ ] mathe 8 a mein Unterricht von heute eintragen 
-	- [ ] Mitarbeit von den letzten malen nach unten korrigieren 
-	- [ ] Entschuldigung von Emily einscannen
+- [x] mathe 8 a mein Unterricht von heute eintragen 
+	- [x] Entschuldigung von Emily einscannen
 	- [ ] Abheften
-	- [ ] Anwesenheit eintragen
-- amna auf 4 bzw 3- setzen  %% fold %%
+	- [x] Anwesenheit eintragen
+- [x] amna auf 4 bzw 3- setzen  %% fold %%
 - [ ] laufen gehen
 - [x] rasierklingen tauschen
 - [ ] rasieren
