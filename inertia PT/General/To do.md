@@ -137,6 +137,10 @@
 - [ ] Zähne putzen
 - [ ] Untertitel Übersetzung testen 
 - [ ] Nadine fertig schreiben 
+- [ ] tafel wischen 
+- [ ] Nagelknipser leeren 
+- [ ] balkon gießen 
+- [ ] etwas mit weißen
 - [ ] mathe 8 a mein Unterricht von heute eintragen 
 	- [ ] Mitarbeit von den letzten malen nach unten korrigieren 
 	- [ ] Entschuldigung von Emily einscannen
