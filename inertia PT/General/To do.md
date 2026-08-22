@@ -134,8 +134,14 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - [x] toilette
-- [ ] Nadine ferti
 - [ ] Zähne putzen
+- [ ] Nadine fertig schreiben 
+- [ ] mathe 8 a mein Unterricht von heute eintragen 
+	- [ ] Mitarbeit von den letzten malen nach unten korrigieren 
+	- [ ] Entschuldigung von Emily einscannen
+	- [ ] Abheften
+	- [ ] Anwesenheit eintragen
+- amna auf 4 bzw 3- setzen  %% fold %%
 - [ ] laufen gehen
 - [ ] rasierklingen tauschen
 - [ ] rasieren
@@ -146,23 +152,24 @@
 - [ ] Tisch saugen
 - [ ] Tisch und Tastatur wischen 
 - [ ] Fußboden saugen 
+- [ ] black waltz 
+- [ ] Gitarre stimmen 
+- [ ] heroes to us
 - [ ] Fußboden wischen 
 - [ ] Waschbecken 
-- [ ] neue Tasten für mac bestellen und selbst reparieren 
+- [ ] mac Tastatur 
+	- [ ] neue Tasten für mac bestellen
+	- [ ] selbst reparieren 
+- [ ] Display Schutz Hülle 
+- [ ] Reformer board testen
 - [ ] Kostenvorschlag einreichen 
-- [ ] mathe 8 a mein Unterricht von heute eintragen 
-	- [ ] Mitarbeit von den letzten malen nach unten korrigieren 
-	- [ ] Entschuldigung von Emily einscannen
-	- [ ] Abheften
-	- [ ] Anwesenheit eintragen
-- amna auf 4 bzw 3- setzen  %% fold %%
 - für Unterrichtstörer  %% fold %%
 	- euch steht frei den Unterricht zu verlassen  %% fold %%
 	- ich bin euch persönlich nicht böse 
 	- ich verstehe wenn man keine Lust hat und sich nicht konzentrieren kann
 	- so lange ihr auf dem Schulgelände seid, trage ich euch nicht als fehlend ein
 	- ich hab hier lieber Ruhe und eure Mitarbeit ist wenn ihr so laut seid besser wenn ihr außerhalb der Klasse seid 
-	- ihr müsst kein Mathe machen wenn ihr kein Bock habt. Ihr müsst auch keinen Abschluss machen. Es zwingt euch keiner dazu. Zumindest ich nicht. Ich halte nix vom Schulzwang.
+	- ihr müsst kein Mathe machen wenn ihr kein Bock habt. Ihr müsst auch keinen Abschluss machen. Es zwingt euch keiner dazu. Zumindest ich nicht. Ich halte nix vom Schulzwang. %% fold %%
 	- mein Unterricht ist ein Angebot
 	- entweder ihr seid hier und tragt konstruktiv mit eurem Redeanteil zum Unterricht bei
 	- ihr seid einfach leise 
