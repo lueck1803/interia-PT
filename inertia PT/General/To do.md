@@ -141,7 +141,8 @@
 	- [ ] Saft
 	- [ ] bier
 	- [ ] chips
-	- [ ] oliven kaufen
+	- [ ] grüne oliven 
+	- [ ] kalamata oliven 
 - [ ] kühlschrank putzen
 - [ ] Nadine fertig schreiben 
 - [ ] tafel wischen 
