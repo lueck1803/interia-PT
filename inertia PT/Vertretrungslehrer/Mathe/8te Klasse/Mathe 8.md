@@ -69,7 +69,8 @@
 		- $\frac{a^{2}}{a^{3}}=a^{2}\cdot a^{-3}=a^{2-3}=a^{-1}=\frac{1}{a}$
 - Wurzel
 	- $a^{1/2}=\sqrt{ a }$
-	- $$
+	- $a^{1/3}=\sqrt[3]{ a }$
+	- $a^{-1/2}=\frac{1}{\sqrt{ a }}$
 # Quersummenregel
 ==Die Quersummenregel hilft dir zu prüfen, ob eine Zahl ohne Rest durch **3** oder **9** teilbar ist==. Du rechnest alle Ziffern der Zahl zusammen. Ist diese Quersumme durch 3 oder 9 teilbar, ist es die große Zahl auch.
 
