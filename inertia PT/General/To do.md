@@ -137,6 +137,7 @@
 - [x] Zähne putzen
 - [ ] Untertitel Übersetzung testen 
 	- [ ] sub einrückung überprüfen
+- [ ] 
 - [ ] Nadine fertig schreiben 
 - [ ] tafel wischen 
 - [ ] Nagelknipser leeren 
