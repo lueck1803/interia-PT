@@ -134,7 +134,7 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - [x] toilette
-- [ ] Zähne putzen
+- [x] Zähne putzen
 - [ ] Untertitel Übersetzung testen 
 - [ ] Nadine fertig schreiben 
 - [ ] tafel wischen 
@@ -142,7 +142,8 @@
 - [ ] balkon gießen 
 - [ ] etwas mit weißen Bohnen kochen 
 - [ ] konto checken 
-- [ ] sofa 
+- [ ] sofa decken richten
+- [x] Spiegel putzen 
 - [ ] schuhe kaufen 
 	- [ ] Laufschuhe 
 	- [ ] Wanderschuhe 
