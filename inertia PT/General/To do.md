@@ -147,6 +147,10 @@
 - [ ] Aldi
 - [ ] kühlschrank putzen
 - [ ] tafel wischen 
+- [ ] Zitronensäure Behälter 
+	- [ ] leeren 
+	- [ ] zum Topf umbauen 
+	- [ ] die geschädigste marone reine
 - [x] Nagelknipser leeren 
 - [x] balkon gießen 
 - [ ] etwas mit weißen Bohnen kochen 
