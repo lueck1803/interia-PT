@@ -9,12 +9,12 @@
 # Aldi
 ## Jetzt
 - Einkaufswagen 
-- [ ] grüne Oliven
-- [ ] Kalamata Oliven
-- [ ] Chips
-- [ ] Bier
-- [ ] Saft
-- [ ] eis to
+- [x] grüne Oliven
+- [x] Kalamata Oliven
+- [x] Chips
+- [x] Bier
+- [x] Saft
+- [x] eis 
 
 ## später mal
 - [ ] white board marker
