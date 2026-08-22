@@ -136,6 +136,7 @@
 
 - [ ] 10er Physik Denksport Physik zusammenstellen 
 - [ ] grüne Laufschuhe nur noch als normale Schuhe tragen
+- [ ] Nudeln in den Kühlschrank
 - [ ] zum Türken 
 - [x] Nudeln kochen 
 - [ ] Bauhaus Kehrblech 
@@ -148,7 +149,7 @@
 - [ ] Alufolie entfernen?
 - [ ] Materialliste 5er anschauen
 - [ ] whiteboard marker in der Stadt kaufen
-- [ ] Aldi
+- [x] Aldi
 - [ ] kühlschrank putzen
 - [ ] tafel wischen 
 - [x] Zitronensäure Behälter  %% fold %%
@@ -156,8 +157,6 @@
 	- [x] zum Topf umbauen 
 	- [x] die geschädigteste Marone reine
 	- [x] nochmal Erde nach schütten
-- [x] Nagelknipser leeren 
-- [x] balkon gießen 
 - [ ] etwas mit weißen Bohnen kochen 
 - [ ] konto checken 
 - [ ] sofa decken richten
@@ -168,7 +167,6 @@
 - [ ] rasieren
 - [ ] duschen + rasieren
 - [ ] Duolingo 
-- [x] Wäsche in den Schrank 
 - [ ] Spülmaschine 
 - [ ] Tisch aufräumen 
 - [ ] Tisch saugen

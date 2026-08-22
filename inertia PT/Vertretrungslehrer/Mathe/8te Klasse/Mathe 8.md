@@ -2,7 +2,7 @@
 - [ ] Potenzgesetze und deren Verbindung zur Bruchrechnung
 
 
-- [ ] lernkontrolle bzw. wissenstandskontroll erstellen
+- [ ] lernkontrolle bzw. wissenstandskontroll erstellen %% fold %%
 	- [ ] bruchrechnung
 	- [ ] punkt vor strich rechnung
 	- [ ] klammern
@@ -80,7 +80,8 @@
 	- das ist <font color="#ff0000">NICHT</font> ok:
 		- $a^{3} + a^{3} \ne (a+a)^{3}$
 		- $a^{3} + a^{3} \ne (2a)^{3}$
-	- 
+		- auch <font color="#ff0000">nicht</font> $(a+b)^{2}\ne a^{2} + b^{2}$
+		- insbesondere <font color="#ff0000">nicht</font> $(a+b)^{3}\ne a^{3} + b^{3}$
 # Quersummenregel
 ==Die Quersummenregel hilft dir zu prüfen, ob eine Zahl ohne Rest durch **3** oder **9** teilbar ist==. Du rechnest alle Ziffern der Zahl zusammen. Ist diese Quersumme durch 3 oder 9 teilbar, ist es die große Zahl auch.
 
