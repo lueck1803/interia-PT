@@ -2517,40 +2517,21 @@ Deshalb ging die Sirene 3 mal!
 Das ist eine Pausenaufsicht zwischen der 4/5 Stunde auf dem Hofbereich 3.
 
 # Archiv
-## Stundenplan 2026 HJ 2 
 
-![](Images/BAS/Pasted%20image%2020260429141731.png)
-![](Images/BAS/Pasted%20image%2020260429141814.png)
-Arbeitsstunden KW 19:
-- 4.5.:
-	- deu 5/6
-- 5.5.:
-	- deu 1/2
-	- span 3/4 7b lea
-	- eth 5/6
-- 6.5: 
-	- kunst 3/4 rot
-	- kunst 5/6 rot
-- 7.5.
-	- deu 5a 2.
-	- deut 5c 4
-	- kunst 5b 5/6
-- 8.5.
-	- deu 1/2 5a
-- 11.5
-	- phy 3./4. 8d
-	- phy 5/6 7c
----
-- KW 19: 
-	- Mo:
-		- vermutlich übernehme ich die 3./4. am Montag 5a
-		- eventuell montag klassenrat 5b
-	- Di: 
-		- 3./4. 5b (R23)
-	- Fr: 
-		- 3./4. 5b
 
 # Abschluss 10
-## elias physik
+## Elias Jung 
+### Kontakt
 Eliasjungberger@icloud.com
+
+### Thema: Interpretation der Quantenmechanik/Physik
+
+
+## Samiha Gledovic
+
+### Thema: Jugoslawien früher
+
+## Lina Sefovic
+
+### Thema: Kita?
 
