@@ -140,6 +140,7 @@
 - [x] Untertitel Übersetzung testen 
 	- [x] sub einrückung überprüfen
 	- [ ] mal ohne die einrückung anzupassen ausprobieren
+	- [ ] ausprobieren, ob es auch mit sous statt sub geht...
 - [ ] Aldi
 	- [ ] Saft
 	- [ ] bier
