@@ -14,7 +14,7 @@
 - [ ] Chips
 - [ ] Bier
 - [ ] Saft
-- [ ] eis
+- [ ] eis to
 
 ## später mal
 - [ ] white board marker
