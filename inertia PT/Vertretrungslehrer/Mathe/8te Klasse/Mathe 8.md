@@ -63,6 +63,9 @@
 - $5^{-2}=\frac{1}{5^{2}}$
 - Warum? Negative Potenz ist die Umkehrfunktion / Umkehrung einer positiven Potenz
 - Potenzgesetz: 
+	- $a^{2}\cdot a^{3}= a^{2+3}=a^{5}$
+		- $^{2}\cdot 5^{3}= 5^{2+3}=5^{5}$
+	- $a^{2}\cdot a^{3}= a^{2+3}=a^{5}$
 # Quersummenregel
 ==Die Quersummenregel hilft dir zu prüfen, ob eine Zahl ohne Rest durch **3** oder **9** teilbar ist==. Du rechnest alle Ziffern der Zahl zusammen. Ist diese Quersumme durch 3 oder 9 teilbar, ist es die große Zahl auch.
 
