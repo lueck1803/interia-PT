@@ -149,10 +149,10 @@
 - [ ] Aldi
 - [ ] kühlschrank putzen
 - [ ] tafel wischen 
-- [ ] Zitronensäure Behälter 
-	- [ ] leeren 
-	- [ ] zum Topf umbauen 
-	- [ ] die geschädigteste Marone reine
+- [x] Zitronensäure Behälter 
+	- [x] leeren 
+	- [x] zum Topf umbauen 
+	- [x] die geschädigteste Marone reine
 - [x] Nagelknipser leeren 
 - [x] balkon gießen 
 - [ ] etwas mit weißen Bohnen kochen 
