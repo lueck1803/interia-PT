@@ -1602,7 +1602,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 # Pflanzen 
 - [x] tieferes basin für Lotus 
 - [ ] spät herbst/Winter neue Maronen stratifizieren 
-	- [ ] dafür die hydro
+	- [ ] dafür die Hydrokultur Töpfe nehmen 
 - [ ] Forest and gardening vlog 
 - [ ] Forest pond
 - [ ] welche kameras hat der robinga?
