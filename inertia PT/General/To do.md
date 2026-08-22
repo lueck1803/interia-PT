@@ -137,7 +137,8 @@
 - [x] Zähne putzen
 - [ ] Untertitel Übersetzung testen 
 	- [ ] sub einrückung überprüfen
-- [ ] 
+- [ ] oliven kaufen
+- [ ] kühlschrank putzen
 - [ ] Nadine fertig schreiben 
 - [ ] tafel wischen 
 - [ ] Nagelknipser leeren 
