@@ -140,7 +140,8 @@
 - [ ] tafel wischen 
 - [ ] Nagelknipser leeren 
 - [ ] balkon gießen 
-- [ ] etwas mit weißen
+- [ ] etwas mit weißen Bohnen kochen 
+- [ ] konto checken 
 - [ ] mathe 8 a mein Unterricht von heute eintragen 
 	- [ ] Mitarbeit von den letzten malen nach unten korrigieren 
 	- [ ] Entschuldigung von Emily einscannen
