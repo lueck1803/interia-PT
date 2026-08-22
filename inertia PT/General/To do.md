@@ -137,8 +137,9 @@
 - [x] Zähne putzen
 - [ ] interimsgebäude testen über beamer am Laptop mit Xournal zu schreiben
 - [ ] Alufolie entfernen?
-- [ ] Untertitel Übersetzung testen 
-	- [ ] sub einrückung überprüfen
+- [x] Untertitel Übersetzung testen 
+	- [x] sub einrückung überprüfen
+	- [ ] mal ohne die einrückung anzupassen ausprobieren
 - [ ] Aldi
 	- [ ] Saft
 	- [ ] bier
