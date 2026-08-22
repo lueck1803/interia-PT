@@ -133,6 +133,13 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
+
+- [ ] 10er Physik Denksport Physik zusammenstellen 
+- [ ] Akteneintrag Mathis 
+	- [x] Sprachaufzeichnung 
+	- [ ] noch dazu vermerken, dass ich ihn angesprochen hatte zu Beginn des Unterrichts dass er im Treppenhaus herunter gespuckt hat, während ich mit den anderen Kindern die Treppe hoch kam. Da habe ich ihn vorsichtig gefragt ob er es war
+	- [ ] das hat er geleugnet 
+	- [ ] ich hab
 - [ ] interimsgebäude testen über beamer am Laptop mit Xournal zu schreiben
 - [ ] Alufolie entfernen?
 - [ ] Materialliste 5er anschauen
@@ -194,7 +201,7 @@
 - [ ] Physikblatt Seite 1+2 nochmal kopieren 
 - [ ] tasttatur wischen
 - [ ] rasieren  %% fold %%
-- saif hatte mich letzt gefragt wie man Periode eingibt, ich hab's herausgefunden: <font color="#c00000">alpha</font> + $\sqrt{ \square{} }$
+ %% fold %%
 - Taschenrechner  %% fold %%
 	- mir gefällt der calcoom z8 plus nicht.... %% fold %%
 		- aber der ist meinem casio vom Layout noch am nächsten %% fold %%
@@ -206,8 +213,7 @@
 		- scheint ganz nett zu sein 
 		- ist vor allem für bis zu 5€ weniger zu haben
 	- der ti 30 prio
-- [x] Ahornsteckling ins Wasser 
-- [ ] Keyboard aufbauen und dirtmouth üben
+- [ ] Keyboard aufbauen und dirtmouth üben %% fold %%
 - [ ] Jamil zur Differenzierung: %% fold %%
 	- [ ] rote Aufgaben im Mathebuch für E
 	- [ ] in der Arbeit gibt es andere Punkteverteilung und eventuell Zusatzaufgaben 
@@ -217,7 +223,6 @@
 - [ ] Brüche:  %% fold %%
 	- kgV (kleinstes gemeinsames Vielfaches) beim Hauptnenner bilden
 	- ggT (größter gemeinsamer Teiler) beim Kürzen
-- [x] Kaffee ausleeren 
 - [ ] Ordnung in Vertretungslehrer herstellen. Ordner für Physik erstellen 
 - [ ] 8b abzieher
 - [x] \overline in latex suite hinzufügen
@@ -226,27 +231,16 @@
 - [ ] Stundenplan im Kalender anpassen 
 - [ ] zu comspot fahren 
 - [ ] in ein Handout den "Fehler von emir" aufschreiben 
-- [ ] Physik Arbeitsblatt anpassen 
-	- [ ] Aufgaben nummerieren
-	- [ ] bei Aufgabe 1 1) und 2) vertauschen 
-	- [ ] mit Auftrag es in eine Tabelle zu schreiben mit Beispiel Tabelle 
 - [ ] Vektor Beispiel bild mit Kurvenfahrt und den drei Vektoren s,v, a
 - Whiteboard marker besorgen 
 	- Ich hab Jana bescheid gegeben, dass sie welche besorgen soll
 	- [ ] selbst welche kaufen
 	- [ ] überlegen, ob ich in xournal am laptop schreibe?
-- [ ] Nummer von Mutter von mathis besorgen 
+- [x] Nummer von Mutter von mathis besorgen 
 	- [ ] 0172 7838889
-- [ ] 10er Physik Denksport Physik zusammenstellen 
-- [x] Fahrrad aufpumpen 
-- [ ] Akteneintrag Mathis 
-	- [x] Sprachaufzeichnung 
-	- [ ] noch dazu vermerken, dass ich ihn angesprochen hatte zu Beginn des Unterrichts dass er im Treppenhaus herunter gespuckt hat, während ich mit den anderen Kindern die Treppe hoch kam. Da habe ich ihn vorsichtig gefragt ob er es war
-	- [ ] das hat er geleugnet 
-	- [ ] ich hab ihm dann später gesagt dass ich ihn dabei gesehen habe
+ ihm dann später gesagt dass ich ihn dabei gesehen habe %% fold %%
 - [x] schul id fertig 
-	- [x] per Mail absenden oder hochladen 
-- [x] Duolingo
+	- [x] per Mail absenden oder hochladen  %% fold %%
 - [x] kgV und ggt, welchen brauche ich beim kürzen und welchen beim Erweitern
 - [x] Notfallzettel in fr güldners fach  %% fold %%
 - [ ] 8a Elternabend 31.8 %% fold %%
@@ -1183,7 +1177,7 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 - [x] Waschbecken putzen  %% fold %%
 	- [x] Bad 
 	- [x] Küche 
-# tägliches %% fold %%
+# tägliches
 
 ## Wohnbereich 
 - [ ] Esstisch wischen 

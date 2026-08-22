@@ -85,6 +85,9 @@ Addition, Subtraktion, Multiplikation und Division von Brüchen an schreiben
 
 
 # <font color="#8db3e2">8a</font> Lisa-Marie Rohr (roh)
+
+## 2026-08-24
+- saif hatte mich letzt gefragt wie man Periode eingibt, ich hab's herausgefunden: <font color="#c00000">alpha</font> + $\sqrt{ \square{} }$
 ## 2026-08-17
 - [ ] <font color="#ff0000">teilen durch null</font> müssen wir noch machen
 - [ ] Aufgabenblatt zu Brüchen 
