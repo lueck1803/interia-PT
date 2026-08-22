@@ -73,9 +73,14 @@
 	- $a^{-1/2}=\frac{1}{\sqrt{ a }}$
 - Additon böse... xD ⟹ binomische Formeln
 	- das ist ok: $a^{3} + a^{3} = 2(a^{3})=2a^{3}$
+	-  $a^{3} + a^{3}  + a^{3}+ a^{3}+ a^{3} = 5(a^{3})=5a^{3}$
 	- <u>Beachte</u>
 		- gleiche Potenz und gleiche Basis
-		- 2 steht nicht unter der Potenz!
+		- 2 bzw. 5 steht nicht unter der Potenz!
+	- das ist <font color="#ff0000">NICHT</font> ok:
+		- $a^{3} + a^{3} \ne (a+a)^{3}$
+		- $a^{3} + a^{3} \ne (2a)^{3}$
+	- 
 # Quersummenregel
 ==Die Quersummenregel hilft dir zu prüfen, ob eine Zahl ohne Rest durch **3** oder **9** teilbar ist==. Du rechnest alle Ziffern der Zahl zusammen. Ist diese Quersumme durch 3 oder 9 teilbar, ist es die große Zahl auch.
 
