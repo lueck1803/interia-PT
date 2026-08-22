@@ -137,6 +137,7 @@
 - [ ] 10er Physik Denksport Physik zusammenstellen 
 - [ ] grüne Laufschuhe nur noch als normale Schuhe tragen
 - [ ] zum Türken 
+- [ ] Nudeln kochen 
 - [ ] Bauhaus Kehrblech 
 - [ ] Akteneintrag Mathis %% fold %%
 	- [x] Sprachaufzeichnung  %% fold %%
