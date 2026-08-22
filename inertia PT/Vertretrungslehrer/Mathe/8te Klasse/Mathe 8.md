@@ -65,8 +65,11 @@
 - Potenzgesetz: 
 	- $a^{2}\cdot a^{3}= a^{2+3}=a^{5}$
 		- $5^{2}\cdot 5^{3}= 5^{2+3}=5^{5}$
-	- Aus $a \cdot a \cdot a$
-	- $\frac{a^{2}}{a^{3}}=a^{2}\cdot a^{-3}=a^{2-3}=a^{-1}=\frac{1}{a}$
+	- Aus $\frac{a \cdot a}{a \cdot a \cdot a}=\frac{\cancel a \cdot \cancel a}{a \cdot \cancel a \cdot \cancel a}=\frac{1}{a}$ folgt:
+		- $\frac{a^{2}}{a^{3}}=a^{2}\cdot a^{-3}=a^{2-3}=a^{-1}=\frac{1}{a}$
+- Wurzel
+	- $a^{1/2}=\sqrt{ a }$
+	- $$
 # Quersummenregel
 ==Die Quersummenregel hilft dir zu prüfen, ob eine Zahl ohne Rest durch **3** oder **9** teilbar ist==. Du rechnest alle Ziffern der Zahl zusammen. Ist diese Quersumme durch 3 oder 9 teilbar, ist es die große Zahl auch.
 
