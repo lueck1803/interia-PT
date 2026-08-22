@@ -135,6 +135,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] 10er Physik Denksport Physik zusammenstellen 
+- [ ] grüne Laufschuhe nur noch als normale Schuhe tragen
 - [ ] zum Türken 
 - [ ] Bauhaus Kehrblech 
 - [ ] Akteneintrag Mathis %% fold %%
