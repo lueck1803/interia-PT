@@ -159,6 +159,8 @@
 - [ ] heroes to us
 - [ ] Fußboden wischen 
 - [ ] Waschbecken 
+- [ ] mich um pc kümmern 
+- [ ] apfelschneider schärfen dass er gerade schneidet
 - [ ] mac Tastatur 
 	- [ ] neue Tasten für mac bestellen
 	- [ ] selbst reparieren 
