@@ -93,7 +93,6 @@ Addition, Subtraktion, Multiplikation und Division von Brüchen an schreiben
 - [ ] Aufgabenblatt zu Brüchen 
 - [ ] mein Handout herumgeben 
 	- [ ] ist es ok ? verständlich?
-- [ ] 
 
 ---
 - [x] Foto vom Sitzplan 8a Mathe machen
