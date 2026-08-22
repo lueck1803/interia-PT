@@ -148,8 +148,7 @@
 - [ ] kühlschrank putzen
 - [ ] tafel wischen 
 - [ ] Nagelknipser leeren 
-- [ ] balkon gießen 
-	- [ ] es hat ja geregnet
+- [x] balkon gießen 
 - [ ] etwas mit weißen Bohnen kochen 
 - [ ] konto checken 
 - [ ] sofa decken richten
