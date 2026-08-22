@@ -136,6 +136,7 @@
 - [x] toilette
 - [x] Zähne putzen
 - [ ] Untertitel Übersetzung testen 
+	- [ ] sub einrückung überprüfen
 - [ ] Nadine fertig schreiben 
 - [ ] tafel wischen 
 - [ ] Nagelknipser leeren 
@@ -176,7 +177,7 @@
 	- [ ] selbst reparieren 
 - [ ] Display Schutz Hülle 
 - [ ] Reformer board testen
-- [ ] Kostenvorschlag einreichen 
+- [ ] Kostenvorschlag einreichen  %% fold %%
 - für Unterrichtstörer  %% fold %%
 	- euch steht frei den Unterricht zu verlassen  %% fold %%
 	- ich bin euch persönlich nicht böse 
