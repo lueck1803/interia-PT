@@ -163,7 +163,7 @@
 - [ ] schuhe kaufen 
 	- [ ] Laufschuhe 
 	- [ ] Wanderschuhe 
-- [ ] laufen gehen
+- [x] laufen gehen
 - [ ] rasieren
 - [ ] duschen + rasieren
 - [ ] Duolingo 
