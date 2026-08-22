@@ -135,7 +135,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] 10er Physik Denksport Physik zusammenstellen 
-- [ ] Akteneintrag Mathis 
+- [ ] Akteneintrag Mathis  %% fold %%
 	- [x] Sprachaufzeichnung 
 	- [ ] noch dazu vermerken, dass ich ihn angesprochen hatte zu Beginn des Unterrichts dass er im Treppenhaus herunter gespuckt hat, während ich mit den anderen Kindern die Treppe hoch kam. Da habe ich ihn vorsichtig gefragt ob er es war
 	- [ ] das hat er geleugnet 
@@ -160,7 +160,7 @@
 - [ ] rasieren
 - [ ] duschen + rasieren
 - [ ] Duolingo 
-- [ ] Wäsche in den Schrank 
+- [x] Wäsche in den Schrank 
 - [ ] Spülmaschine 
 - [ ] Tisch aufräumen 
 - [ ] Tisch saugen
@@ -258,7 +258,7 @@
 		- [ ] oder Wolfram Alpha 
 		- [ ] in der Realschule unnötig 
 		- [ ] ich bin im Gespräch mit den Kollegen ob die im gesamten Jahrgang beschafft werden, dann sind die ein paar Euro günstiger.
-- [ ] Vorgehen beim Lösen der Perioden Aufgabe 
+- [ ] Vorgehen beim Lösen der Perioden Aufgabe  %% fold %%
 	- [ ] Berkay ist da intuitiv mit einer sinnvollen und gut überlegten Herangehensweise heran gegangen 
 	- [ ] es gibt dabei aber ein sehr strukturiertes Schema von dem ich ausgegangen bin dass ihr das nicht kennt.
 	- [ ] Ziel: wir wollen die Periode loswerden 
@@ -387,7 +387,7 @@
 	- [ ] E 5b
 - [ ] Unterricht 10a/b
 - [ ] rechten neuen flipflop reparieren 
-- [ ] matheblatt mit bruchrechenaufgaben
+- [ ] matheblatt mit bruchrechenaufgaben %% fold %%
 	- [ ] den bisherigen Infos 
 	- [ ] auch die erklärung warum 0.9 periode gleich 1 ist
 	- [ ] aufgabe mit 2,567 periode 7 in bruch umwandeln als aufgabe 
@@ -396,7 +396,7 @@
 	- [ ] Einheiten umrechnen
 - [ ] Spülmaschine ausräumen 
 - [ ] preset leadout einstellen 
-- [ ] Arbeitsblatt Physik zusammenstellen 
+- [ ] Arbeitsblatt Physik zusammenstellen  %% fold %%
 	- [ ] darauf erklärung eines Vektors
 	- [ ] koordinatensystem
 		- [ ] 2D
