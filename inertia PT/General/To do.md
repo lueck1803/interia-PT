@@ -142,6 +142,10 @@
 - [ ] balkon gießen 
 - [ ] etwas mit weißen Bohnen kochen 
 - [ ] konto checken 
+- [ ] sofa 
+- [ ] schuhe kaufen 
+	- [ ] Laufschuhe 
+	- [ ] Wanderschuhe 
 - [ ] mathe 8 a mein Unterricht von heute eintragen 
 	- [ ] Mitarbeit von den letzten malen nach unten korrigieren 
 	- [ ] Entschuldigung von Emily einscannen
