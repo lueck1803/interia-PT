@@ -133,6 +133,13 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
+- [ ] toilette
+- [ ] laufen gehen
+- [ ] Zähne putzen
+- [ ] rasierklingen tauschen
+- [ ] rasieren
+- [ ] duschen + rasieren
+- [ ] 
 - [ ] neue Tasten für mac bestellen und selbst reparieren 
 - [ ] Kostenvorschlag einreichen 
 - [ ] mathe 8 a mein Unterricht von heute eintragen 
