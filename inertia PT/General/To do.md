@@ -137,7 +137,11 @@
 - [x] Zähne putzen
 - [ ] Untertitel Übersetzung testen 
 	- [ ] sub einrückung überprüfen
-- [ ] oliven kaufen
+- [ ] Aldi
+	- [ ] Saft
+	- [ ] bier
+	- [ ] chips
+	- [ ] oliven kaufen
 - [ ] kühlschrank putzen
 - [ ] Nadine fertig schreiben 
 - [ ] tafel wischen 
