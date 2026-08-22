@@ -135,6 +135,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - [x] toilette
 - [ ] Zähne putzen
+- [ ] Untertitel Übersetzung testen 
 - [ ] Nadine fertig schreiben 
 - [ ] mathe 8 a mein Unterricht von heute eintragen 
 	- [ ] Mitarbeit von den letzten malen nach unten korrigieren 
