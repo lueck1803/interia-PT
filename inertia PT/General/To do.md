@@ -135,6 +135,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - [x] toilette
 - [x] Zähne putzen
+- [ ] interimsgebäude testen über beamer am Laptop mit Xournal zu schreiben
 - [ ] Untertitel Übersetzung testen 
 	- [ ] sub einrückung überprüfen
 - [ ] Aldi

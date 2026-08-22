@@ -1,3 +1,5 @@
+# Stadt
+- [ ] white board marker (Tedi, Rossmann, DM)
 # Internet 
 - macbook ersatztasten 
 	- [ ] Set von ifixit?
@@ -7,13 +9,17 @@
 # Aldi
 ## Jetzt
 - Einkaufswagen 
-- [x] Toast 
-- [x] Pflanzen öl
-## Speicher/Sonst 
-- [ ] Saft
+- [ ] grüne Oliven
+- [ ] Kalamata Oliven
+- [ ] Chips
 - [ ] Bier
-- [ ] Hafermilch 
-- [ ] Parmesan 
+- [ ] Saft
+
+## später mal
+- [ ] white board marker
+## Speicher/Sonst 
+- [x] Hafermilch 
+- [x] Parmesan 
 - [x] Pfand 
 - [x] salz
 - [x] Nudelsoßen 
