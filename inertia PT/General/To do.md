@@ -147,7 +147,7 @@
 - [ ] Aldi
 - [ ] kühlschrank putzen
 - [ ] tafel wischen 
-- [ ] Nagelknipser leeren 
+- [x] Nagelknipser leeren 
 - [x] balkon gießen 
 - [ ] etwas mit weißen Bohnen kochen 
 - [ ] konto checken 
