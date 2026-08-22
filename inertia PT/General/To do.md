@@ -136,6 +136,7 @@
 - [x] toilette
 - [x] Zähne putzen
 - [ ] interimsgebäude testen über beamer am Laptop mit Xournal zu schreiben
+- [ ] Alufolie entfernen?
 - [ ] Untertitel Übersetzung testen 
 	- [ ] sub einrückung überprüfen
 - [ ] Aldi
