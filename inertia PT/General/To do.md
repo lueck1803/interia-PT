@@ -150,7 +150,7 @@
 - [ ] Zitronensäure Behälter 
 	- [ ] leeren 
 	- [ ] zum Topf umbauen 
-	- [ ] die geschädigste marone reine
+	- [ ] die geschädigteste Marone reine
 - [x] Nagelknipser leeren 
 - [x] balkon gießen 
 - [ ] etwas mit weißen Bohnen kochen 
