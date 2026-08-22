@@ -137,6 +137,7 @@
 - [x] Zähne putzen
 - [ ] interimsgebäude testen über beamer am Laptop mit Xournal zu schreiben
 - [ ] Alufolie entfernen?
+- [ ] Materialliste 5er anschauen
 - [x] Untertitel Übersetzung testen 
 	- [x] sub einrückung überprüfen
 	- [x] mal ohne die einrückung anzupassen ausprobieren
@@ -156,11 +157,6 @@
 - [ ] schuhe kaufen 
 	- [ ] Laufschuhe 
 	- [ ] Wanderschuhe 
-- [x] mathe 8 a mein Unterricht von heute eintragen 
-	- [x] Entschuldigung von Emily einscannen
-	- [ ] Abheften
-	- [x] Anwesenheit eintragen
-- [x] amna auf 4 bzw 3- setzen  %% fold %%
 - [ ] laufen gehen
 - [x] rasierklingen tauschen
 - [ ] rasieren
