@@ -138,7 +138,7 @@
 - [ ] Balkon gießen
 - [ ] Taschentücher auffüllen 
 - [ ] Waschbecken 
-- [ ] decken ausxhüt
+- [ ] decken ausschütteln 
 - [ ] Sofa saugen
 - [ ] staubsaugen 
 - [ ] wischen 
