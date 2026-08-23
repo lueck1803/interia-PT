@@ -130,7 +130,7 @@
 - mich und mein Leben im Griff haben
 
 ## japanische 1-Minutenregel
-### Kaizen
+### 1 - Kaizen
 - <font color="#7cfc00">jeden Tag ein kleiner Schritt </font>
 - wortwörtlich: Veränderung zum Besseren 
 - kontinuierliche schrittweise Verbesserung 
@@ -150,7 +150,7 @@
 - Suche dir die Gewohnheit aus die du aufbauen möchtest 
 - finde eine <font color="#00b050">kleinste Version</font> davon, so klein dass du schon <font color="#ffff00">fast lachen</font> musst.
 - genau das ist deine Startlinie und von dieser Startlinie aus wirst du dich Tag für Tag um winzige Schritte verbessern 
-### Gemba
+### 2 - Gemba
 - <font color="#7cfc00">gehe an den Ort des Geschehens</font>
 - wörtlich: der echte Ort
 - wenn in der Produktion ein Problem auftaucht, dann sitzt du nicht im Büro und spekulierst, sondern gehst an den Ort wo es passiert und beobachtest.
@@ -189,7 +189,7 @@
 		- <font color="#0070c0">Du bleibst eher dran</font>, wenn jemand anders weiß, was du dir vorgenommen hast
 		- Es ist nicht nur ein Gedanke in deinem Kopf, sondern du erzählst nächste Woche, wie es gelaufen ist.
 		- ⤷ motivierter dran zu bleiben
-### Hansei
+### 3 - Hansei
 - <font color="#7cfc00">reflektiere ohne Selbstvorwurf</font>
 - ehrliche Selbstreflexion 
 - man schaut nach den Fehlern ganz nüchtern zurück und fragt:
@@ -211,7 +211,7 @@
 
 - <font color="#ffc000">Rückfall</font> kein Beweis fürs Scheitern, sondern eine <font color="#48d1cc">Information</font>
 
-### Fünf-Warum-Methode
+### 4- Fünf-Warum-Methode
 - <font color="#7cfc00">Frag fünfmal nach dem Warum</font>
 - Wenn bei Toyota ein Fehler auftauchte, dann fragten sie nicht einmal Warum, sondern fünfmal hintereinander. ⟹ immer tiefer, um <font color="#c71585">an die Wurzel</font> zu kommen
 - <u>Gedanke dahinter:</u> die erste Antwort ist selten die ganze Geschichte dahinter
@@ -234,7 +234,14 @@
 	- kannst dir noch so viele App-Sperren einrichten, wenn der eigentliche Antrieb ein unverarbeitetes Problem ist
 	- ⤷ Gehirn sucht sich andere Gewohnheit zum Flüchten
 
-### Poka-YOke
+### 5 - Poka-Yoke
+- <font color="#7cfc00">Mach Fehler unmöglich</font> - hört sich perfektionistisch an? 🤔
+- Konzept aus der japanischen Fertigung und beschreibt <font color="#00b050">Mechanismen die Fehler von vorneherein verhindern</font>
+	- <font color="#92d050">SIM Karte</font>, die nur in eine Richtung ins Handy passt
+	- <font color="#92d050">Auto</font>, was sich nur starten lässt, wenn du vorher auf die Bremse drückst
+	- <font color="#92d050">Stecker</font>, der nicht einfach in die falsche Buchse passt
+- ⟹ Du kannst bestimmte Fehler gar nicht erst machen
+- <font color="#ff1493">Stärkster Hebel für Verhaltensänderungen überhaupt</font>
 - 
 # unsortiert
 <font color="#e36c09">Produktiv?</font>
