@@ -151,7 +151,9 @@
 - finde eine <font color="#00b050">kleinste Version</font> davon, so klein dass du schon <font color="#ffff00">fast lachen</font> musst.
 - genau das ist deine Startlinie und von dieser Startlinie aus wirst du dich Tag für Tag um winzige Schritte verbessern 
 ### Gemba
-- gehe an den Ort des Geschehens 
+- <font color="#7cfc00">gehe an den Ort des Geschehens</font>
+- wörtlich: der echte Ort
+- wenn in der Produktion ein Problem auftaucht, dann sitzt du nicht im Büro und spej
 # unsortiert
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
