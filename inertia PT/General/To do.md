@@ -281,7 +281,16 @@
 - Der <font color="#7cfc00">halb umgesetzte Plan</font> schlägt fast immer den perfekten Plan der <font color="#ff0000">nie gestartet</font> wird
 
 - <font color="#00b0f0">Imperfect action beats perfect inaction</font>
-	- unvollkommenes Handeln schlägt
+	- <font color="#ff6e6e">unvollkommenes</font> <font color="#7cfc00">Handeln</font> 👑
+	- <font color="#ff69b4">schlägt</font> ⚡
+	- <font color="#92d050">perfektes</font> <font color="#ff0000">Nichtstun</font> 😴
+
+### Fazit
+- Verhaltensänderung scheitert selten im Kern an zu wenig Willenskraft im Moment 
+- Sie scheitert daran, dass wir uns überhaupt in die Lage bringen, dauernd gegen uns Selbst kämpfen zu müssen.
+- Leute mit der besten Selbstkontrolle nutzen sie, in dem sie Versuchungen von Vorneherein aus dem Weg räumen
+- Freundlich mit uns selbst umgehen
+- Sei <font color="#ff69b4">neugierig</font> ⟸ ❌ Selbstvorwurf
 # unsortiert
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
