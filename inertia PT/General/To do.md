@@ -147,7 +147,7 @@
 - [ ] spazieren 
 - [ ] Glasmüll 
 - [ ] nochmal black waltz
-- [ ] Kalender eingetragen 
+- [x] Kalender eingetragen
 - [ ] Papierkram 
 - [ ] Akteneintrag Mathis %% fold %%
 	- [x] Sprachaufzeichnung  %% fold %%
