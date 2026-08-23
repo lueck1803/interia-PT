@@ -129,10 +129,13 @@
 - frische Luft
 - mich und mein Leben im Griff haben
 
-## japanische 1-M
-Kaizen
+## japanische 1-Minutenregel
+### Kaizen
+- <font color="#7cfc00">jeden Tag ein kleiner Schritt </font>
+- wortwörtlich: der 
 - schrittweise immer wiederholte kleine Veränderungen 
 - nicht die eine große mit ganz viel Willenskraft 
+- 
 # unsortiert
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
