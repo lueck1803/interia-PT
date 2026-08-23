@@ -154,7 +154,7 @@
 - [ ] nochmal black waltz
 - [ ] Kalender eingetragen 
 - [ ] Zeug aus Brüche Dokument rüber kopieren 
-- [ ] to do zu jeweiligen 
+- [ ] to do zu jeweiligen Klassen 
 - [ ] Papierkram 
 - [x] schul.cloud erstellen für
 	- [x] elias
