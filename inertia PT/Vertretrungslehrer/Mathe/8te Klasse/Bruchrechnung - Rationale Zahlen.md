@@ -81,7 +81,7 @@ $2,56\overline{7}$ in Bruch umwandeln
 - <font color="#c815ff">gemischte Schreibweise</font>:
 	- $2 \frac{3}{4}$ <font color="#48d1cc">ohne Mal-Punkt</font> meint das zwei Ganze und $\frac{3}{4}$
 	- also $2+\frac{3}{4}$
-# Aufgabenblatt 
+# Aufgabenblatt
  ![[../../../../../../Pasted image 20260814020608.png]]![[../../../../../../Pasted image 20260814020619.png]]
 
 ![[../../../../../../Pasted image 20260814025616.png]]
@@ -144,7 +144,7 @@ Quersummenregel $1+2+3=6$ ist durch 3 teilbar
 $x=\frac{\pu{ 41}}{30}$
 
 
-
+# Einheiten umrechnen
 - $1~\mathrm{inch} =2.54~\mathrm{ cm}$ 
 	- $1=\frac{\pu{ 1 inch }}{\pu{ 2.54cm }}=\frac{\pu{ 2.54cm }}{\pu{ 1 inch }}$
 	- $\pu{ 64cm }=\pu{ 64 \cancel{cm} } \cdot \frac{\pu{ 1inch }}{\pu{ 2.54\cancel{cm} }}= \frac{64}{2.54}\pu{ inch }=\pu{ 25.19685 inch }=\pu{ 25.2 inch }$

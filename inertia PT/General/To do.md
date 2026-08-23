@@ -154,7 +154,7 @@
 - [ ] spazieren 
 - [ ] nochmal black waltz
 - [ ] Kalender eingetragen 
-- [ ] Zeug aus Brüche Dokument rüber kopieren 
+- [x] Zeug aus Brüche Dokument rüber kopieren 
 - [x] to do zu jeweiligen Klassen 
 - [ ] Papierkram 
 - [x] schul.cloud erstellen für

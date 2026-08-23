@@ -1,4 +1,4 @@
-# to do
+# to do %% fold %%
 - [ ] division nochmal anschreiben 
 - [ ] addition anschreiben 
 - [ ] addition besprechen 
@@ -26,7 +26,7 @@
 - [ ] arbeitsblatt mit
 	- [ ] durchschnittbrechnung
 
-## <font color="#8db3e2">8a</font> Lisa-Marie Rohr (roh)
+## <font color="#8db3e2">8a</font> Lisa-Marie Rohr (roh) %% fold %%
 
 ### 2026-08-24
 - [ ] saif hatte mich letzt gefragt wie man Periode eingibt, ich hab's herausgefunden: <font color="#c00000">alpha</font> + $\sqrt{ \square{} }$
@@ -55,7 +55,7 @@
 	- [ ] Also hatte ich mit dem Verfahren doch recht! das Ergebnis liegt erstaunlich nahe am richtigen Wert!
 
 
-## <font color="#b088ff">8b</font> Güldener, Nicole Kirsten (gld)
+## <font color="#b088ff">8b</font> Güldener, Nicole Kirsten (gld) %% fold %%
 ### 2026-08-24
 - [ ] sagen dass ich Arbeitsblatt am Ende der Stunde einsammel
 
@@ -108,7 +108,7 @@ ___
 - [ ] vielleicht mal ne kleine lernkontrolle machen was die Leute können
 - [ ] nächstes mal sagen handy mit display auf den Tisch legen
 
-# infos
+# infos %% fold %%
 
 ## Mathewettbewerb Themen
     
@@ -152,7 +152,7 @@ ___
 - Sofiia wollte wechseln 
 - Ranya ist noch nicht geklärt. 
 
-# Potenzgesetze
+# Potenzgesetze %% fold %%
 -  wie kann man einen Bruch mit einer Potenz darstellen?
 - $\frac{1}{5}=5^{-1}$
 - $5^{-2}=\frac{1}{5^{2}}$
@@ -177,7 +177,7 @@ ___
 		- $a^{3} + a^{3} \ne (2a)^{3}$
 		- auch <font color="#ff0000">nicht</font> $(a+b)^{2}\ne a^{2} + b^{2}$
 		- insbesondere <font color="#ff0000">nicht</font> $(a+b)^{3}\ne a^{3} + b^{3}$
-# Quersummenregel
+# Quersummenregel %% fold %%
 ==Die Quersummenregel hilft dir zu prüfen, ob eine Zahl ohne Rest durch **3** oder **9** teilbar ist==. Du rechnest alle Ziffern der Zahl zusammen. Ist diese Quersumme durch 3 oder 9 teilbar, ist es die große Zahl auch.
 
 So funktioniert die Regel
@@ -187,21 +187,106 @@ So funktioniert die Regel
 - **Teilbarkeit durch 3:** Wenn die Quersumme durch 3 teilbar ist, ist die ganze Zahl durch 3 teilbar (18 : 3 = 6, also ist 387 durch 3 teilbar). [
 
 - **Teilbarkeit durch 9:** Wenn die Quersumme durch 9 teilbar ist, ist die ganze Zahl durch 9 teilbar (18 : 9 = 2, also ist 387 auch durch 9 teilbar).
-# Wiederholung Bruchrechnung
+# Wiederholung Bruchrechnung %% fold %%
 
 Was sind die rationalen Zahlen?
 $$
 \mathbb{Q}=\left\{ \frac{p}{q}:p,q\in\mathbb{Z} \text{ und } q\ne 0 \right\} 
 $$
 Addition, Subtraktion, Multiplikation und Division von Brüchen an schreiben
-- Multiplikation $\frac{a}{b}\cdot \frac{c}{d}= \frac{ac}{bd}$
-- Division $\frac{a}{b} : \frac{c}{d}=\frac{\frac{a}{b}}{\frac{c}{d}}=\frac{a}{b} \cdot \frac{d}{c}= \frac{ad}{bc}$
-- Addition $\frac{a}{b} + \frac{c}{d}= \frac{a}{b}\cdot \frac{d}{d}+ \frac{c}{d}\cdot\frac{b}{b}=\frac{ad}{bd}+ \frac{cb}{db}=\frac{ad+cb}{db}$ 
-- Subtraktion $\frac{a}{b} - \frac{c}{d}= \frac{a}{b}\cdot \frac{d}{d}- \frac{c}{d}\cdot\frac{b}{b}=\frac{ad}{bd}- \frac{cb}{db}=\frac{ad-cb}{db}$ 
+- Multiplikation $\frac{a}{\textcolor{orange}{b}}\cdot \frac{c}{\textcolor{cyan}{d}}= \frac{ac}{\textcolor{orange}{b}\textcolor{cyan}{d}}$
+- Division $\frac{a}{\textcolor{orange}{b}} : \frac{c}{\textcolor{cyan}{d}}=\frac{\frac{a}{\textcolor{orange}{b}}}{\frac{c}{\textcolor{cyan}{d}}}=\frac{a}{\textcolor{orange}{b}\cdot\frac{c}{\textcolor{cyan}{d}}}=\frac{a}{\textcolor{orange}{b}} \cdot \frac{\textcolor{cyan}{d}}{c}= \frac{a\cdot\textcolor{cyan}{d}}{\textcolor{orange}{b}\cdot c}$
+	- *Willst du teilen durch nen Bruch wird das <font color="#00fa9a">Brüchlein umgestürzt</font> mal genommen und gekürzt.*
+	- <u>Erklärung nach dem ersten Schritt</u>: 
+	- Frage: Wenn ich durch einen Bruch teile
+		- welchen Effekt hat der Zähler des Bruchs ? ⟹ verkleinert die Zahl bzw. vergrößert den Nenner der ersten Zahl
+		- Der Nenner des teilenden Bruchs vergrößert die Zahl bzw verkleinert den Nenner
+	- Veranschaulichung durch 2. Schritt:
+		- b wird durch c vergrößert und durch d verkleinert 
+		- ⤷ daher kann man auch d in den Zähler zu a schreiben
+		- ⤷ also den Bruch herum drehen
+- Addition $\frac{a}{\textcolor{orange}{b}} + \frac{c}{\textcolor{cyan}{d}}= \frac{a}{\textcolor{orange}{b}}\cdot \frac{\textcolor{cyan}{d}}{\textcolor{cyan}{d}}+ \frac{c}{\textcolor{cyan}{d}}\cdot\frac{\textcolor{orange}{b}}{\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}}{\textcolor{orange}{b}\textcolor{cyan}{d}}+ \frac{c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}+c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}$ 
+- Subtraktion $\frac{a}{\textcolor{orange}{b}} - \frac{c}{\textcolor{cyan}{d}}= \frac{a}{\textcolor{orange}{b}}\cdot \frac{\textcolor{cyan}{d}}{\textcolor{cyan}{d}}- \frac{c}{\textcolor{cyan}{d}}\cdot\frac{\textcolor{orange}{b}}{\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}}{\textcolor{orange}{b}\textcolor{cyan}{d}}- \frac{c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}-c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}$ 
+- kgV (<u>kleinstes gemeinsames Vielfaches</u>) beim <font color="#ff6e6e">Hauptnenner</font> bilden
+- ggT (<u>größter gemeinsamer Teiler</u>) beim <font color="#48d1cc">Kürzen</font>
+- <font color="#c815ff">gemischte Schreibweise</font>:
+	- $2 \frac{3}{4}$ <font color="#48d1cc">ohne Mal-Punkt</font> meint das zwei Ganze und $\frac{3}{4}$
+	- also $2+\frac{3}{4}$
+## Dezimalzahl in Brüche umrechnen
+wir wollen die Periode loswerden 
+- ⤷das gelingt uns durch Subtraktion der Periode. 
+	- Wir müssen also $\pu{ 0,9999\dots }$,  $\pu{ 0,8888\dots }$,  $\pu{ 0,007777\dots }$ oder $\pu{ 0,06666\dots }$ abziehen
+- dazu nehmen wir die Zahl und <font color="#ffd700">verschieben</font> sie <font color="#ffd700">um so viele Kommastellen</font>, dass die Zahl die sich wiederholt vor dem Komma beginnt. In dem wir sie mit der entsprechenden Zehnerpotenz multiplizieren also: $10^{1}=10, 10^{2}=100, 10^{3}=1000, \dots$
+- Dazu machen wir erstmal etwas ungewöhnliches. Wir <font color="#ffd700">weisen die Zahl </font>die wir umwandeln wollen <font color="#ffd700">einer Variablen zu</font>, um im nächsten Schritt eine Zahl zu bekommen, die wir um die Kommastellen verschoben haben:
+	- Bei $0,\bar{8}$ bedeutet das also:
+	- $\mathrm{I}\quad {\color{red}x=}\pu{ 0,8888\dots }$ das $\mathrm{I}$ benennt dabei nur diese Zuweisung
+- Jetzt verschieben wir das Komma und erzeugen uns dadurch eine zweite Gleichung:
+	- hier müssen wir mit 10 multiplizieren, um den Anfang der Periode vor das Komma zu ziehen.
+	- $\mathrm{II}\quad {\color{red}10}x=\pu{ {\color{red}{8,}} 8888\dots }$
+- Dann <font color="#ffd700">ziehen</font> wir Gleichung $\mathrm{I}$ von Gleichung $\mathrm{II}$ <font color="#ffd700">ab</font>. Dadurch <font color="#ff6e6e">fällt</font> <font color="#ffd700">die Periode weg</font> und wir müssen nur noch nach $x$ auflösen:
+	- $\mathrm{II}-\mathrm{I}$:
+	- $\mathrm{II}-\mathrm{I}\quad 10x-x = \pu{ 8,8888\dots }- \pu{ 0,8888\dots }$
+	- $\mathrm{II}-\mathrm{I}\quad 9x = \pu{ 8 }$
+- Wir lösen jetzt noch nach $x$ auf:
+	- $\mathrm{II}-\mathrm{I}\quad 9x=\pu{8} \quad \left|\;:9\right.$
+	- $x= \frac{8}{9}$
+- Und wir sind fertig.
+
+
+$0,\overline{9}$
+$\mathrm{I}\quad x=\pu{ 0.9999\dots }$
+$\mathrm{II}\quad10x=\pu{ 9,99999\dots }$
+$\mathrm{I}-\mathrm{II}\quad 9x=\pu{9} \quad \left|\;:9\right.$
+$x=1$
+
+$0,\bar{8}$
+$\mathrm{I}\quad x=\pu{ 0.8888\dots }$
+$\mathrm{II}\quad 10x=\pu{ 08.8888\dots }$
 
 
 
-# Gleichungen umstellen <font color="#92d050">Blick ins Buch</font>
+$2,35\overline{7}$
+$x=\pu{ 2,357777\dots }$
+$\mathrm{I}\quad100x=\pu{ 235,7777\dots }$
+$\mathrm{II}\quad1000x=\pu{ 2357,777\dots }$
+$\mathrm{I}-\mathrm{II}\quad 900x=\pu{2122} \quad \left|\;:900\right.$
+$x=\frac{\pu{2122}}{900}=\frac{1061}{450}$
+
+$1,3\overline{6}$
+$x=\pu{ 1,36666\dots }$
+$\mathrm{I}\quad10x=\pu{ 13.6666\dots }$
+$\mathrm{II}\quad100x=\pu{ 136,666\dots }$
+$\mathrm{I}-\mathrm{II}\quad 90x=\pu{ 123} \quad \left|\;:90\right.$
+$x=\frac{\pu{ 123}}{90}$
+Quersummenregel $1+2+3=6$ ist durch 3 teilbar
+$x=\frac{\pu{ 41}}{30}$
+
+# Einheiten umrechnen %% fold %%
+- $1~\mathrm{inch} =2.54~\mathrm{ cm}$ 
+	- $1=\frac{\pu{ 1 inch }}{\pu{ 2.54cm }}=\frac{\pu{ 2.54cm }}{\pu{ 1 inch }}$
+	- $\pu{ 64cm }=\pu{ 64 \cancel{cm} } \cdot \frac{\pu{ 1inch }}{\pu{ 2.54\cancel{cm} }}= \frac{64}{2.54}\pu{ inch }=\pu{ 25.19685 inch }=\pu{ 25.2 inch }$
+	- ~={DeepSkyBlue}Aufgabe=~ 
+	- 55 miles per hour $\pu{ 55 mi//h}$ in $\pu{ km//h }$ und $\pu{ m//s }$ 
+	- $1~\mathrm{inch} =2.54~\mathrm{ cm}$ 
+	- $\pu{ 1mi }=\pu{ 5280 ft }$
+	- $\pu{ 1ft }=\pu{ 12in }$
+	- $\pu{ 1m }=\pu{ 100cm }$
+	- $\pu{ 1km }=\pu{ 1000m }$
+	- $\pu{ 1h }=\pu{ 60min }$
+	- $\pu{ 1min }=\pu{ 60s }$
+	- ~={RedRed}Lösung: =~
+	- $\pu{ 55 mi//h}=\pu{ 55 \cancel{mi}//h} \pu{ 5280ft// 1 \cancel{mi}}$
+	- $\pu{ 55 mi//h}=55 \cdot 5280\pu{ft//h}$ 
+	- $\pu{ 55 mi//h}=55 \cdot 5280\pu{\cancel{ft}//h} \cdot \pu{ 12 inch//\cancel{ft} }=55 \cdot 5280 \cdot 12 \pu{inch//h}$
+	- $\pu{ 55 mi//h}=55 \cdot 5280 \cdot 12 \pu{\cancel{inch}//h} \cdot \pu{ {2.54cm}// 1 \cancel{inch} }=55 \cdot 5280 \cdot 12 \cdot 2.54 \pu{cm//h}$
+	- $\pu{ 55 mi//h}=55 \cdot 5280 \cdot 12 \cdot 2.54 \pu{\cancel{cm}//h} \cdot \pu{ {1m}//100\cancel{cm} }=55 \cdot 5280 \cdot 12 \cdot 2.54 \cdot \frac{1}{100} \pu{m//h}= \pu{88513.92 m//h}$ 
+	- $\pu{ 55 mi//h}=55 \cdot 5280 \cdot 12 \cdot 2.54 \pu{\cancel{cm}//h} \cdot \pu{ {1\cancel{m}}//100\cancel{cm} } \cdot \pu{ {1km}//1000\cancel{m} }=55 \cdot 5280 \cdot 12 \cdot 2.54 \cdot \frac{1}{100} \cdot \frac{1}{1000} \pu{km//h}=88.51392\pu{km//h}$ 
+	  ⤷$\pu{ 55 mi//h}=88.51392\pu{km//h}$ 
+	
+	- $\pu{ 55 mi//h}=88513.92\pu{m//\cancel{h}}\cdot \pu{{1\cancel{h}}//60min}=\frac{88513.92}{60}\pu{m//min}$
+	- $\pu{ 55 mi//h}=\frac{88513.92}{60}\pu{m//\cancel{min}} \cdot \pu{ {1\cancel{min}}//60s}=\frac{88513.92}{60\cdot60}\pu{m//s}=\frac{88513.92}{3600}\pu{m//s}=24.5872\pu{m//s}$ 
+
+# Gleichungen umstellen <font color="#92d050">Blick ins Buch</font> %% fold %%
 - Klammer auflösen - Distributivgesetz
 - Minuszeichen vor der Klammer
 - Ausklammern von gemeinsamen Faktoren
