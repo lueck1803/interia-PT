@@ -270,7 +270,17 @@
 	- Vergänglichen
 - Schale mit einem Riss ist nicht kaputt ⟹ Riss macht sie einzigartig
 - Kunstform Kintsugi ⟹ zerbrochene Keramik wird mit Gold gekittet, so dass der Bruch sichtbar und selbst zum schönsten am Objekt wird
-- <font color="#ffd700">Gold im Bruch</font> ist eine wunderschöne Metapher 
+- <font color="#ffd700">Gold im Bruch</font> ist eine wunderschöne Metapher für den Umgang mit unseren eigenen Rückschlägen
+- Nicht die Unvollkommenheit ist dein Feind deiner Veränderung
+	- ⤷ <u>Feind deiner Veränderung:</u> <font color="#ff0000">der Perfektionismus</font>
+	- Alles oder Nichts Ding, was uns kaputt macht
+		- ⤷ ich hab nur zwei tage durchgehalten statt der geplanten 30, also bin ich ein Versager
+		- Zwei Tage durchgehalten sind kein Scheitern, sie sind der Anfang
+- <u>Forschung:</u> 
+  Perfektionismus - sorgengetrieben ⇔ Prokrastination - das Aufschieben
+- Der <font color="#7cfc00">halb umgesetzte Plan</font> schlägt fast immer den perfekten Plan der <font color="#ff0000">nie gestartet</font> wird
+
+- <font color="#00b0f0">Imperfect action beats perfect inaction</font>
 # unsortiert
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
