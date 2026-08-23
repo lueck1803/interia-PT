@@ -290,7 +290,10 @@
 - Sie scheitert daran, dass wir uns überhaupt in die Lage bringen, dauernd gegen uns Selbst kämpfen zu müssen.
 - Leute mit der besten Selbstkontrolle nutzen sie, in dem sie Versuchungen von Vorneherein aus dem Weg räumen
 - Freundlich mit uns selbst umgehen
-- Sei <font color="#ff69b4">neugierig</font> ⟸ ❌ Selbstvorwurf
+- Sei <font color="#7cfc00">neugierig</font> ⟸ ❌ Selbstvorwurf
+- Warm annehmen ⟸ ❌ Perfektionismus
+- Winzige Schritte ⟸ ❌ großer Wurf
+- Freundlichkeit gegenüber uns selbst ⟸ ❌ Kampf gegen sich selbst
 # unsortiert
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
