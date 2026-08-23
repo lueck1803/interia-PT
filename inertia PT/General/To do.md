@@ -176,6 +176,27 @@
 	- mit wem?
 	- welches Gefühl?
 - ⤷ diese eine Woche verändert oft schon mehr als du denkst
+	- <font color="#ff1493">REAKTIVITÄTSEFFTEKT</font>
+	- alleine das Beobachten verändert das Verhalten schon ein Stück
+	- Wer aufschreibt, was er isst, isst automatisch schon gesünder
+- ⟹ Diese Beobachtung wird nochmal deutlich kraftvoller, wenn ein <font color="#0070c0">Zweiter von Außen drauf schaut</font>
+	1. <u>Außenperspektive: </u>
+		- sieht deinen <font color="#0070c0">blinden Fleck</font>
+		- bringt dich auf Dinge auf die du von alleine nicht gekommen wärst
+		- nimmt nichts als selbstverständlich hin
+		- fragt an den Stellen nach an denen du vielleicht einen blinden Fleck hast
+	2. <u>Verbindlichkeit:</u>
+		- <font color="#0070c0">Du bleibst eher dran</font>, wenn jemand anders weiß, was du dir vorgenommen hast
+		- Es ist nicht nur ein Gedanke in deinem Kopf, sondern du erzählst nächste Woche, wie es gelaufen ist.
+		- ⤷ motivierter dran zu bleiben
+### Hansei
+- <font color="#7cfc00">reflektiere ohne Selbstvorwurf</font>
+- ehrliche Selbstreflexion 
+- man schaut nach den Fehlern ganz nüchtern zurück und fragt:
+	- Was ist passiert?
+	- Welche Umstände?
+	- Was lässt sich beim nächsten Mal besser machen?
+- Der F
 # unsortiert
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
