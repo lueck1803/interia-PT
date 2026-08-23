@@ -169,8 +169,8 @@
 	- [ ] Laufschuhe 
 	- [ ] Wanderschuhe 
 - [x] laufen gehen
-- [ ] rasieren
-- [ ] duschen + rasieren
+- [x] rasieren
+- [x] duschen + rasieren
 - [ ] Duolingo 
 - [ ] Spülmaschine 
 - [ ] Tisch aufräumen 
@@ -179,6 +179,7 @@
 - [ ] Fußboden saugen 
 - [ ] black waltz 
 - [ ] Gitarre stimmen 
+	- [ ] ich  hab das Stimmgerät am podGo auf coarse gestellt, das ist viel angenehmer xD
 - [ ] heroes to us
 - [ ] Fußboden wischen 
 - [ ] Waschbecken 
