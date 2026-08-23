@@ -159,7 +159,7 @@
 - [ ] 10er Physik Denksport Physik zusammenstellen 
 - [ ] grüne Laufschuhe nur noch als normale Schuhe tragen
 - [ ] zum Türken 
-- [ ] Bauhaus Kehrblech  %% fold %%
+- [ ] Bauhaus Kehrblech
 - [ ] Akteneintrag Mathis %% fold %%
 	- [x] Sprachaufzeichnung  %% fold %%
 	- [ ] noch dazu vermerken, dass ich ihn angesprochen hatte zu Beginn des Unterrichts dass er im Treppenhaus herunter gespuckt hat, während ich mit den anderen Kindern die Treppe hoch kam. Da habe ich ihn vorsichtig gefragt ob er es war %% fold %%
