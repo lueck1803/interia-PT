@@ -249,7 +249,7 @@
 - [ ] zu comspot fahren 
 - [ ] in ein Handout den "Fehler von emir" aufschreiben 
 - [ ] Vektor Beispiel bild mit Kurvenfahrt und den drei Vektoren s,v, a
-- Whiteboard marker besorgen 
+- Whiteboard marker besorgen  %% fold %%
 	- Ich hab Jana bescheid gegeben, dass sie welche besorgen soll
 	- [ ] selbst welche kaufen
 	- [ ] überlegen, ob ich in xournal am laptop schreibe?
