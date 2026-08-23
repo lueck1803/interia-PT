@@ -137,7 +137,14 @@
 	- kleine Verbesserung 
 	- unendlich oft wiederholt 
 - nicht die eine große mit ganz viel Willenskraft 
-- 
+- starte <font color="#7cfc00">so klein</font>, dass <font color="#ff1493">Scheitern unmöglich</font> wird
+- lächerlich minimale kleine Änderung 
+- Warum?
+	- auf große Veränderungen reagieren wir mit Vermeidung 
+	- wir schieben sie auf
+	- und lassen es am Ende ganz 
+	- <font color="#d99694">winzige Schritte fliegen unter diesem Radar durch, sie sind so klein, dass es gar nichts zu vermeiden gibt</font>
+	- Perfektionismus hat auf einmal keinen
 # unsortiert
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
