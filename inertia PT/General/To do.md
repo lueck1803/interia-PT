@@ -153,7 +153,8 @@
 ### Gemba
 - <font color="#7cfc00">gehe an den Ort des Geschehens</font>
 - wörtlich: der echte Ort
-- wenn in der Produktion ein Problem auftaucht, dann sitzt du nicht im Büro und spej
+- wenn in der Produktion ein Problem auftaucht, dann sitzt du nicht im Büro und spekulierst, sondern gehst an den Ort wo es passiert.
+- 
 # unsortiert
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
