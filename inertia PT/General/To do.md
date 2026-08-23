@@ -134,9 +134,10 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
+- [ ] Ein je ein Heft für den WPK mitnehmen und vorher das Adressfeld entfern
 - [ ] 10er Physik Denksport Physik zusammenstellen 
 - [ ] grüne Laufschuhe nur noch als normale Schuhe tragen
-- [ ] Nudeln in den Kühlschrank
+- [x] Nudeln in den Kühlschrank
 - [ ] zum Türken 
 - [x] Nudeln kochen 
 - [ ] Bauhaus Kehrblech 
