@@ -148,7 +148,7 @@
 	- wenn die Sache nur eine Minute dauert, dann kann man <font color="#76923c">keine Ausrede</font> dass man <font color="#76923c">keine Zeit</font> hat
 	- aus einer Minute werden häufig mehrere Minuten und wenn nicht dann ist auch schon diese eine Minute ein Gewinn 
 - Suche dir die Gewohnheit aus die du aufbauen möchtest 
-- finde eine kleinste Version davon, so klein dass du schon fast lachen musst
+- finde eine <font color="#00b050">kleinste Version</font> davon, so klein dass du schon <font color="#ffff00">fast lachen</font> musst
 # unsortiert
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
