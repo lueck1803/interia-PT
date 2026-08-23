@@ -205,7 +205,15 @@
 	- ⤷<font color="#7cfc00"> Was genau ist hier eigentlich passiert?</font>
 	- Welcher Kontext hat das gerade begünstigt?
 	- ⤷ Rückfall <font color="#ff0000">nicht</font> als <font color="#ff0000">Charakterfehler</font>, sondern als <font color="#00fa9a">Datenpunkt</font> aus dem du <font color="#7cfc00">etwas lernen</font> kannst
-- Medidative Haltung: Betrachtung mit Neugier, als würdest du es das erste Mal beobachten
+- <font color="#7cfc00">Meditative Haltung</font>: Betrachtung mit <font color="#7cfc00">Neugier</font>, als würdest du es das <font color="#ff69b4">erste Mal</font> beobachten
+- <font color="#ff0000">Nicht</font>: Was <font color="#ff3d3d">stimmt nicht mit mir</font>?
+	- ⤷ Neugier: Was ist heir gerade passiert?
+
+- <font color="#ffc000">Rückfall</font> kein Beweis fürs Scheitern, sondern eine <font color="#48d1cc">Information</font>
+
+### Fünf-Warum-Methode
+- <font color="#7cfc00">Frag fünfmal nach dem Warum</font>
+- 
 # unsortiert
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
