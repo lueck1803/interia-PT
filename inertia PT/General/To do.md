@@ -134,6 +134,10 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
+- [ ] schul.cloud erstellen für 
+	- [ ] elias
+	- [ ] Samiha
+	- [ ] Lina
 - [ ] Ein je ein Heft für den WPK mitnehmen und vorher das Adressfeld entfernen
 	- [ ] Physik Journal 
 		- [ ] hier schauen, ob ich doppelte exemplare habe
@@ -147,7 +151,7 @@
 - [ ] Bauhaus Kehrblech 
 - [ ] Akteneintrag Mathis %% fold %%
 	- [x] Sprachaufzeichnung  %% fold %%
-	- [ ] noch dazu vermerken, dass ich ihn angesprochen hatte zu Beginn des Unterrichts dass er im Treppenhaus herunter gespuckt hat, während ich mit den anderen Kindern die Treppe hoch kam. Da habe ich ihn vorsichtig gefragt ob er es war
+	- [ ] noch dazu vermerken, dass ich ihn angesprochen hatte zu Beginn des Unterrichts dass er im Treppenhaus herunter gespuckt hat, während ich mit den anderen Kindern die Treppe hoch kam. Da habe ich ihn vorsichtig gefragt ob er es war %% fold %%
 	- [ ] das hat er geleugnet 
 	- [ ] ich hab
 - [ ] interimsgebäude testen über beamer am Laptop mit Xournal zu schreiben
