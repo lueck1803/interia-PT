@@ -213,7 +213,7 @@
 
 ### Fünf-Warum-Methode
 - <font color="#7cfc00">Frag fünfmal nach dem Warum</font>
-- 
+- Wenn bei Toyo
 # unsortiert
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
