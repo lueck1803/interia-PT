@@ -136,7 +136,8 @@
 
 - [x] carnivorenwasser auffüllen 
 - [x] carnivoren gießen 
-- [ ] schlauc
+- [ ] Schlauchpflanze wieder in die Küche 
+- [ ] Kakteen und 
 - [ ] Spülmaschine ausräumen 
 - [ ] auf dem Balkon essen
 - [ ] Balkon gießen
