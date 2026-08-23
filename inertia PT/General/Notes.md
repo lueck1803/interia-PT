@@ -2131,6 +2131,8 @@ Tage produktiv gewesen:
   `{bash} pdftk document.pdf burst`
 - Extract pages
   `{bash} pdftk full-pdf.pdf cat pStart-pEnd output outfile_pStart-pEnd.pdf`
+- Einzelne Seite drehen - hier die erste Seite um 90° nach links
+  `pdftk A=.\2026-03-Physik-Journal_Hertha_Sponer.pdf rotate A1left output -rotate.pdf`
 # Signal
 - Video sending problem:
   ![](Pasted%20image%2020251221172346.png)
