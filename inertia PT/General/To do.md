@@ -323,7 +323,7 @@
 	- Ich hab Jana bescheid gegeben, dass sie welche besorgen soll
 	- [ ] selbst welche kaufen
 	- [ ] überlegen, ob ich in xournal am laptop schreibe?
-- [x] Nummer von Mutter von mathis besorgen 
+- [x] Nummer von Mutter von mathis besorgen  %% fold %%
 	- [ ] 0172 7838889
  ihm dann später gesagt dass ich ihn dabei gesehen habe %% fold %%
 - [x] schul id fertig 
