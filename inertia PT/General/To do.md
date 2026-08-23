@@ -128,6 +128,10 @@
 - Körperpflege 
 - frische Luft
 - mich und mein Leben im Griff haben
+
+## Kaizen
+- schrittweise immer wiederholte kleine Veränderungen 
+- nicht die eine große mit ganz viel Willenskraft 
 # unsortiert
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
