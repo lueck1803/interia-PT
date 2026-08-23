@@ -136,7 +136,7 @@
 
 - [x] schul.cloud erstellen für
 	- [x] elias
-	- [x] Samiha
+	- [x] Samiha ✅
 	- [x] Lina
 - [ ] Ein je ein Heft für den WPK mitnehmen und vorher das Adressfeld entfernen
 	- [ ] Physik Journal 
