@@ -178,12 +178,11 @@
 - [x] laufen gehen
 - [ ] Duolingo 
 - [x] Spülmaschine 
-- [ ] Spülmaschine einräumen 
+- [x] Spülmaschine einräumen 
 - [ ] Tisch aufräumen 
 - [ ] Tisch saugen
 - [ ] Tisch und Tastatur wischen 
-- [ ] Fußboden saugen 
-- [ ] black waltz 
+- [ ] black waltz  %% fold %%
 - [ ] Gitarre stimmen  %% fold %%
 	- [ ] ich  hab das Stimmgerät am podGo auf coarse gestellt, das ist viel angenehmer xD
 - [ ] heroes to us
