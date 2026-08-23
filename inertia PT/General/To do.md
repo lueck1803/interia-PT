@@ -142,6 +142,8 @@
 - Warum?
 	- auf große Veränderungen reagieren wir mit Vermeidung 
 	- wir schieben sie auf
+	- und lassen es am Ende ganz 
+	- winzige Schritte fliegen 
 # unsortiert
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
