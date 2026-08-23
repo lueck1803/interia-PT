@@ -147,7 +147,8 @@
 	- <font color="#92cddc">Perfektionismus</font> hat auf einmal <font color="#ff69b4">keinen Angriffspunkt</font> mehr
 	- wenn die Sache nur eine Minute dauert, dann kann man <font color="#76923c">keine Ausrede</font> dass man <font color="#76923c">keine Zeit</font> hat
 	- aus einer Minute werden häufig mehrere Minuten und wenn nicht dann ist auch schon diese eine Minute ein Gewinn 
-- Suche dir die Gewohnheit aus die du aufbauen mochtesteine kleinste Einheit aus, so dass du schon fast lachen musst
+- Suche dir die Gewohnheit aus die du aufbauen möchtest 
+- eine kleinste Einheit aus, so dass du schon fast lachen musst
 # unsortiert
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
