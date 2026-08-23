@@ -136,6 +136,7 @@
 
 - [x] carnivorenwasser auffüllen 
 - [x] carnivoren gießen 
+- [ ] schlauc
 - [ ] Spülmaschine ausräumen 
 - [ ] auf dem Balkon essen
 - [ ] Balkon gießen
