@@ -161,10 +161,21 @@
 	- wo bist du?
 	- Mit wem?
 	- Was hast du kurz davor gefühlt?
-	- ⟹ <font color="#ff0000">Ohne</font> Urteil
+- ⟹ <font color="#ff0000">Ohne</font> Urteil
 	- ⤷ Du bist nicht hier um zu Richten, du bist hier um zu Erkennen und zu Beobachten 
 	- ~~Richter~~ ⟹ Detektiv
-	- Du sammelst 
+	- Du sammelst nur Fakten
+- Die meisten <font color="#ff3d3d">schlechten Gewohnheiten</font> laufen einfach <font color="#ff3d3d">automatisch</font> ab
+	- Du merkst gar nicht mehr, dass du zum Handy greifst, dein <font color="#e36c09">Hand ist schon dabei</font> <font color="#ff3d3d">bevor</font> ein <font color="#00b0f0">bewusster Gedanke</font> dabei war
+	- ⟹ <font color="#ff69b4">Was du nicht siehst, das kannst du nicht verändern!</font>
+- ⤷ <font color="#00fa9a">Gewohnheitstagebuch</font> (eine Woche)
+	- nur Fakten
+	- keine Bewertungen
+	- Wo?
+	- Wann?
+	- mit wem?
+	- welches Gefühl?
+- ⤷ diese eine Woche verändert oft schon mehr als du denkst
 # unsortiert
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
