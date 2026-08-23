@@ -135,8 +135,10 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Ein je ein Heft für den WPK mitnehmen und vorher das Adressfeld entfernen
-	- [ ] Physik Journal
+	- [ ] Physik Journal 
+		- [ ] hier schauen, ob ich doppelte exemplare habe
 	- [ ] BUND Heft
+- [ ] Elias den Artikel per mail senden
 - [ ] 10er Physik Denksport Physik zusammenstellen 
 - [ ] grüne Laufschuhe nur noch als normale Schuhe tragen
 - [x] Nudeln in den Kühlschrank
