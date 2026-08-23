@@ -129,7 +129,8 @@
 - frische Luft
 - mich und mein Leben im Griff haben
 
-## Kaizen
+## japanische 1-M
+Kaizen
 - schrittweise immer wiederholte kleine Veränderungen 
 - nicht die eine große mit ganz viel Willenskraft 
 # unsortiert
