@@ -242,7 +242,15 @@
 	- <font color="#92d050">Stecker</font>, der nicht einfach in die falsche Buchse passt
 - ⟹ Du kannst bestimmte Fehler gar nicht erst machen
 - <font color="#ff1493">Stärkster Hebel für Verhaltensänderungen überhaupt</font>
-- 
+	- <font color="#ff0000">Verlass nicht</font> auf <font color="#e36c09">mentale Kapazität</font> und <font color="#ff3d3d">Anstrengung</font>
+	- Fehler sind <font color="#7cfc00">per Design ausgeschlossen</font>
+- Statt dir vorzunehmen die App nicht zu öffnen ⟹ <font color="#00b050">LÖSCHEN</font>
+- Süßigkeiten widerstehen zu essen ⟹ <font color="#00b050">Nicht kaufen</font>
+- <u>Forschung:</u> zu <font color="#ff0000">Gewohnheiten</font>
+	- fast täglich
+	- am selben Ort
+	- ohne groß nachzudenken
+	- <font color="#ff6e6e">Ausgelöst durch Kontext</font>
 # unsortiert
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
