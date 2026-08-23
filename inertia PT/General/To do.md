@@ -142,7 +142,7 @@
 	- [ ] Physik Journal 
 		- [x] hier schauen, ob ich doppelte exemplare habe
 	- [ ] BUND Heft
-- [ ] Elias den Artikel per mail senden
+- [x] Elias den Artikel per mail senden
 - [ ] 10er Physik Denksport Physik zusammenstellen 
 - [ ] grüne Laufschuhe nur noch als normale Schuhe tragen
 - [x] Nudeln in den Kühlschrank
