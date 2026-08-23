@@ -136,13 +136,13 @@
 
 - [x] carnivorenwasser auffüllen 
 - [x] carnivoren gießen 
-- [ ] bei carnivoren wischen 
+- [x] bei carnivoren wischen 
 - [ ] Schlauchpflanze wieder in die Küche 
 - [x] Kakteen und kalanchoe gießen
 - [x] Sonnentau herum drehen
 - [x] binsen schneiden 
 - [ ] Spülmaschine ausräumen 
-- [ ] auf dem Balkon essen
+- [x] auf dem Balkon essen
 - [ ] Balkon gießen
 - [ ] Taschentücher auffüllen 
 - [ ] Waschbecken 
@@ -155,7 +155,7 @@
 - [ ] nochmal black waltz
 - [ ] Kalender eingetragen 
 - [ ] Zeug aus Brüche Dokument rüber kopieren 
-- [ ] to do zu jeweiligen Klassen 
+- [x] to do zu jeweiligen Klassen 
 - [ ] Papierkram 
 - [x] schul.cloud erstellen für
 	- [x] elias

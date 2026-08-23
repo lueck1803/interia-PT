@@ -26,6 +26,88 @@
 - [ ] arbeitsblatt mit
 	- [ ] durchschnittbrechnung
 
+## <font color="#8db3e2">8a</font> Lisa-Marie Rohr (roh)
+
+### 2026-08-24
+- [ ] saif hatte mich letzt gefragt wie man Periode eingibt, ich hab's herausgefunden: <font color="#c00000">alpha</font> + $\sqrt{ \square{} }$
+- [ ] sagen dass ich Arbeitsblatt am Ende der Stunde einsammel
+
+- [ ] division nochmal anschreiben 
+- [ ] addition anschreiben 
+- [ ] addition besprechen 
+- [ ] gemischte Buchschreibweise 
+- [ ] Erklärung letzte Aufgabe 
+- [ ] Arbeitsblatt rechenweg kontrollieren 
+	- [ ] einsammeln 
+
+- [ ] Potenzgesetze und deren Verbindung zur Bruchrechnung
+### 2026-08-17
+- [x] <font color="#ff0000">teilen durch null</font> müssen wir noch machen
+- [ ] Aufgabenblatt zu Brüchen 
+- [ ] mein Handout herumgeben 
+	- [ ] ist es ok ? verständlich?
+
+---
+- [x] Foto vom Sitzplan 8a Mathe machen
+- [ ] hey ihr habt mich angelogen :P -> ihr wart am Montag nur 18 und nicht 19 Leute:
+- [ ] 632 : 19 =33.26
+- [ ] <font color="#ff69b4">632/18=35</font>
+	- [ ] Also hatte ich mit dem Verfahren doch recht! das Ergebnis liegt erstaunlich nahe am richtigen Wert!
+
+
+## <font color="#b088ff">8b</font> Güldener, Nicole Kirsten (gld)
+### 2026-08-24
+- [ ] sagen dass ich Arbeitsblatt am Ende der Stunde einsammel
+
+- [ ] division nochmal anschreiben 
+- [ ] addition anschreiben 
+- [ ] addition besprechen 
+- [ ] gemischte Buchschreibweise 
+- [ ] Erklärung letzte Aufgabe 
+- [ ] Arbeitsblatt rechenweg kontrollieren 
+	- [ ] einsammeln 
+
+- [ ] Potenzgesetze und deren Verbindung zur Bruchrechnung
+### 2026-08-18
+- Multiplikation, Division und Addition von Brüchen
+- ⤷ an der Tafel vor machen
+- mit je zwei Beispielaufgaben von Schülern rechnen lassen
+- $0.\overline{9}$ 
+
+### 2026-08-12
+
+-  Zahlenstrahl N, Z, Q
+- Grundrechenarten 
+- dann die Aufgabe mit der Einheiten Umrechnung 
+- in der Zeit stelle ich noch Aufgaben zusammen 
+
+- Größenvergleich  halber Liter, 0,33 L, ein viertel Liter ein Drittel Liter, 0,75 L, 0,2 L, ein achtel Liter, 200 milli Liter von einem Liter wurden getrunken, 40 Zentiliter.
+	- jeweils ne 1Liter Flasche ausmalen 
+- 3/5 vs 2/3 $\frac{3}{5}\fbox{|\quad |} \frac{2}{3}$ $\frac{3}{5}\;\fbox{\phantom{6}}\;\frac{2}{3}$
+- 3/4 vs 5/8
+- 2/3 vs 5/8
+- 2/3 vs 6/8
+- 9/27 vs  3/18
+- 6/18 vs 9/27
+- 9/12 vs 
+
+- Aufgabe mit dem Kreis mit 2/3 -1/6
+
+___
+
+- [ ] <font color="#ff69b4">mein alter mit deren zahlen nochmal ausrechnen</font>
+- [ ] punkt vor strichrechnung - xenia
+	- [ ] dazu übungen machen
+- [ ] Mittelwert nochmal erklären
+	- [ ] bzw erklären lassen
+	- [ ] warum 584/18 und nicht umgekehrt
+	- [ ] aufgaben zum mittelwert
+	- [ ] die leute sollen ganz viel rechnen
+- [ ] generell bruchrechnung ist ein großes defizit
+- [ ] prozentrechnung
+- [ ] vielleicht mal ne kleine lernkontrolle machen was die Leute können
+- [ ] nächstes mal sagen handy mit display auf den Tisch legen
+
 # infos
 
 ## Mathewettbewerb Themen
@@ -125,62 +207,3 @@ Addition, Subtraktion, Multiplikation und Division von Brüchen an schreiben
 - Ausklammern von gemeinsamen Faktoren
 
 
-# <font color="#8db3e2">8a</font> Lisa-Marie Rohr (roh)
-
-## 2026-08-24
-- [ ] saif hatte mich letzt gefragt wie man Periode eingibt, ich hab's herausgefunden: <font color="#c00000">alpha</font> + $\sqrt{ \square{} }$
-- [ ] sagen dass ich Arbeitsblatt am Ende der Stunde einsammel
-## 2026-08-17
-- [x] <font color="#ff0000">teilen durch null</font> müssen wir noch machen
-- [ ] Aufgabenblatt zu Brüchen 
-- [ ] mein Handout herumgeben 
-	- [ ] ist es ok ? verständlich?
-
----
-- [x] Foto vom Sitzplan 8a Mathe machen
-- [ ] hey ihr habt mich angelogen :P -> ihr wart am Montag nur 18 und nicht 19 Leute:
-- [ ] 632 : 19 =33.26
-- [ ] <font color="#ff69b4">632/18=35</font>
-	- [ ] Also hatte ich mit dem Verfahren doch recht! das Ergebnis liegt erstaunlich nahe am richtigen Wert!
-
-
-# <font color="#b088ff">8b</font> Güldener, Nicole Kirsten (gld)
-## 2026-08-18
-- Multiplikation, Division und Addition von Brüchen
-- ⤷ an der Tafel vor machen
-- mit je zwei Beispielaufgaben von Schülern rechnen lassen
-- $0.\overline{9}$ 
-
-## 2026-08-12
-
--  Zahlenstrahl N, Z, Q
-- Grundrechenarten 
-- dann die Aufgabe mit der Einheiten Umrechnung 
-- in der Zeit stelle ich noch Aufgaben zusammen 
-
-- Größenvergleich  halber Liter, 0,33 L, ein viertel Liter ein Drittel Liter, 0,75 L, 0,2 L, ein achtel Liter, 200 milli Liter von einem Liter wurden getrunken, 40 Zentiliter.
-	- jeweils ne 1Liter Flasche ausmalen 
-- 3/5 vs 2/3 $\frac{3}{5}\fbox{|\quad |} \frac{2}{3}$ $\frac{3}{5}\;\fbox{\phantom{6}}\;\frac{2}{3}$
-- 3/4 vs 5/8
-- 2/3 vs 5/8
-- 2/3 vs 6/8
-- 9/27 vs  3/18
-- 6/18 vs 9/27
-- 9/12 vs 
-
-- Aufgabe mit dem Kreis mit 2/3 -1/6
-
-___
-
-- [ ] <font color="#ff69b4">mein alter mit deren zahlen nochmal ausrechnen</font>
-- [ ] punkt vor strichrechnung - xenia
-	- [ ] dazu übungen machen
-- [ ] Mittelwert nochmal erklären
-	- [ ] bzw erklären lassen
-	- [ ] warum 584/18 und nicht umgekehrt
-	- [ ] aufgaben zum mittelwert
-	- [ ] die leute sollen ganz viel rechnen
-- [ ] generell bruchrechnung ist ein großes defizit
-- [ ] prozentrechnung
-- [ ] vielleicht mal ne kleine lernkontrolle machen was die Leute können
-- [ ] nächstes mal sagen handy mit display auf den Tisch legen
