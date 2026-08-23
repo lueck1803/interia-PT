@@ -138,7 +138,7 @@
 - [ ] Balkon gießen
 - [ ] Taschentücher auffüllen 
 - [ ] Waschbecken 
-- [ ] decken ausxhüt
+- [ ] decken ausschütteln 
 - [ ] Sofa saugen
 - [ ] staubsaugen 
 - [ ] wischen 
@@ -177,7 +177,8 @@
 	- [ ] Wanderschuhe 
 - [x] laufen gehen
 - [ ] Duolingo 
-- [ ] Spülmaschine 
+- [x] Spülmaschine 
+- [ ] Spülmaschine einräumen 
 - [ ] Tisch aufräumen 
 - [ ] Tisch saugen
 - [ ] Tisch und Tastatur wischen 
