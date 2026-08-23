@@ -140,9 +140,9 @@
 	- [x] Samiha ✅
 	- [x] Lina
 - [ ] Ein je ein Heft für den WPK mitnehmen und vorher das Adressfeld entfernen
-	- [ ] Physik Journal 
+	- [x] Physik Journal 
 		- [x] hier schauen, ob ich doppelte exemplare habe
-	- [ ] BUND Heft
+	- [x] BUND Heft
 - [x] Elias den Artikel per mail senden
 - [ ] 10er Physik Denksport Physik zusammenstellen 
 - [ ] grüne Laufschuhe nur noch als normale Schuhe tragen
