@@ -162,7 +162,7 @@
 	- [x] elias
 	- [x] Samiha ✅
 	- [x] Lina
-- [ ] Ein je ein Heft für den WPK mitnehmen und vorher das Adressfeld entfernen
+- [ ] Ein je ein Heft für den WPK mitnehmen und vorher das Adressfeld entfernen %% fold %%
 	- [x] Physik Journal 
 		- [x] hier schauen, ob ich doppelte exemplare habe
 	- [x] BUND Heft
