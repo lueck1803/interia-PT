@@ -134,15 +134,9 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- [x] carnivorenwasser auffüllen 
-- [x] carnivoren gießen 
-- [x] bei carnivoren wischen 
+- [ ] Physikblatt Seite 1+2 nochmal kopieren 
 - [ ] Schlauchpflanze wieder in die Küche 
-- [x] Kakteen und kalanchoe gießen
-- [x] Sonnentau herum drehen
-- [x] binsen schneiden 
 - [ ] Spülmaschine ausräumen 
-- [x] auf dem Balkon essen
 - [ ] Balkon gießen
 - [ ] Taschentücher auffüllen 
 - [ ] Waschbecken 
@@ -150,13 +144,16 @@
 - [ ] Sofa saugen
 - [ ] staubsaugen 
 - [ ] wischen 
-- [ ] Glasmüll 
 - [ ] spazieren 
+- [ ] Glasmüll 
 - [ ] nochmal black waltz
 - [ ] Kalender eingetragen 
-- [x] Zeug aus Brüche Dokument rüber kopieren 
-- [x] to do zu jeweiligen Klassen 
 - [ ] Papierkram 
+- [ ] Akteneintrag Mathis
+	- [x] Sprachaufzeichnung  %% fold %%
+	- [ ] noch dazu vermerken, dass ich ihn angesprochen hatte zu Beginn des Unterrichts dass er im Treppenhaus herunter gespuckt hat, während ich mit den anderen Kindern die Treppe hoch kam. Da habe ich ihn vorsichtig gefragt ob er es war %% fold %%
+	- [ ] das hat er geleugnet 
+	- [ ] ich hab
 - [x] schul.cloud erstellen für
 	- [x] elias
 	- [x] Samiha ✅
@@ -169,11 +166,6 @@
 - [ ] grüne Laufschuhe nur noch als normale Schuhe tragen
 - [ ] zum Türken 
 - [ ] Bauhaus Kehrblech
-- [ ] Akteneintrag Mathis %% fold %%
-	- [x] Sprachaufzeichnung  %% fold %%
-	- [ ] noch dazu vermerken, dass ich ihn angesprochen hatte zu Beginn des Unterrichts dass er im Treppenhaus herunter gespuckt hat, während ich mit den anderen Kindern die Treppe hoch kam. Da habe ich ihn vorsichtig gefragt ob er es war %% fold %%
-	- [ ] das hat er geleugnet 
-	- [ ] ich hab
 - [ ] interimsgebäude testen über beamer am Laptop mit Xournal zu schreiben
 - [ ] Alufolie entfernen?
 - [ ] Materialliste 5er anschauen
@@ -187,14 +179,12 @@
 	- [ ] Wanderschuhe 
 - [x] laufen gehen
 - [ ] Duolingo 
-- [x] Spülmaschine 
-- [x] Spülmaschine einräumen 
-- [ ] Tisch aufräumen 
-- [ ] Tisch saugen
-- [ ] Tisch und Tastatur wischen 
+- [ ] Tisch aufräumen  %% fold %%
+- [ ] Tisch saugen %% fold %%
+- [ ] Tisch und Tastatur wischen  %% fold %%
 - [ ] black waltz  %% fold %%
 - [ ] Gitarre stimmen  %% fold %%
-	- [ ] ich  hab das Stimmgerät am podGo auf coarse gestellt, das ist viel angenehmer xD
+	- [ ] ich  hab das Stimmgerät am podGo auf coarse gestellt, das ist viel angenehmer xD %% fold %%
 - [ ] heroes to us
 - [ ] Fußboden wischen 
 - [ ] Waschbecken 
@@ -225,8 +215,7 @@
 	- absolut angstfreier Unterricht 
 	- keine Frage oder Aussage ist schlecht wenn sie ernst gemeint ist. Klar darf auch mal konstruktiver Sarkasmus/ironie/spaß sein wenn es dazu beiträgt und keinen abwertet
 	- denn jede Aussage und Frage gibt mir Infos über eure Gedanken 
-- [ ] Physikblatt Seite 1+2 nochmal kopieren 
-- [ ] tasttatur wischen
+- [ ] tasttatur wischen %% fold %%
 - [ ] rasieren  %% fold %%
  %% fold %%
 - Taschenrechner  %% fold %%
@@ -244,16 +233,13 @@
 - [ ] Jamil zur Differenzierung: %% fold %%
 	- [ ] rote Aufgaben im Mathebuch für E
 	- [ ] in der Arbeit gibt es andere Punkteverteilung und eventuell Zusatzaufgaben 
-- [ ] Spülmaschine ausräumen 
 - [x] Etiketten Drucker kaufen
-- [ ] Mathebuch 5a Aufgaben 
+- [ ] Mathebuch 5a Aufgaben  %% fold %%
 - [ ] Brüche:  %% fold %%
 	- kgV (kleinstes gemeinsames Vielfaches) beim Hauptnenner bilden
 	- ggT (größter gemeinsamer Teiler) beim Kürzen
 - [ ] Ordnung in Vertretungslehrer herstellen. Ordner für Physik erstellen 
 - [ ] 8b abzieher
-- [x] \overline in latex suite hinzufügen
-	- brauche ich nicht, denn das trigger wort *bar* macht das schon
 - [ ] klatex am laptop fixen
 - [ ] Stundenplan im Kalender anpassen 
 - [ ] zu comspot fahren 
@@ -268,7 +254,7 @@
  ihm dann später gesagt dass ich ihn dabei gesehen habe %% fold %%
 - [x] schul id fertig 
 	- [x] per Mail absenden oder hochladen  %% fold %%
-- [x] kgV und ggt, welchen brauche ich beim kürzen und welchen beim Erweitern
+- [x] kgV und ggt, welchen brauche ich beim kürzen und welchen beim Erweitern %% fold %%
 - [x] Notfallzettel in fr güldners fach  %% fold %%
 - [ ] 8a Elternabend 31.8 %% fold %%
 	- [ ] was zum Mathe-Wettbewerb sagen? %% fold %%
