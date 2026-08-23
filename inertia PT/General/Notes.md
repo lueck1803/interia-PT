@@ -2132,7 +2132,13 @@ Tage produktiv gewesen:
 - Extract pages
   `{bash} pdftk full-pdf.pdf cat pStart-pEnd output outfile_pStart-pEnd.pdf`
 - Einzelne Seite drehen - hier die erste Seite um 90° nach links
-  `pdftk A=.\2026-03-Physik-Journal_Hertha_Sponer.pdf rotate A1left output -rotate.pdf`
+  `{bash} pdftk A=Beispiel.pdf rotate A1left output Beispiel-rotate.pdf`
+	- Die Notationsreihenfolge ist:
+	   `[ < begin page number > [ -< end page number > [ < qualifier > ] ] ] [ < page rotation > ]`
+	   Sie werden direkt an die Dokumentbezeichnung - hier A - angehängt.
+	- Ranges werden mit "Anfangszahl-Endzahl" angegeben, soll das ganze Dokument von der Drehung betroffen sein, dann lässt man diese Option weg.
+	- sollen 
+	- weitere Drehrichtungen sind: 
 # Signal
 - Video sending problem:
   ![](Pasted%20image%2020251221172346.png)
