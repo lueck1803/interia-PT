@@ -103,6 +103,8 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+## 2026-08-23
+
 ## 2026-08-21 
 Hallo Jamil, 
 
@@ -3059,6 +3061,22 @@ Mir tut auch Micro "Fehlverhalten" leid. Auch wenn sie das auch macht.
 Manchmal hatte sie dann auch so das Gefühl so schlecht behandelt zu werden, hat dabei aber null auf ihr micro Verhalten geachtet.
 
 # yt Kommentare
+## 2026-08-23
+
+
+Ohhh Leute was gibt's denn daran nicht zu verstehen 😂.
+
+Er beschreibt die Schlussfolgerung bzw. Die Gedankenkette wie man zu dieser Ansicht kommt, die ja auch sehr einleuchtend ist, wenn man das aus heutiger eurozentristischer Sicht sieht und so monokausal denkt.
+Nach dem Motto "ich bin erfolgreich dass muss daran liegen dass ich mir das hart erarbeitet habe und irgendwie überlegen bin".
+
+Anschließend sagt er dass er der Ansicht ist dass er sich nicht vorstellen kann dass wirklich keiner aus der AfD eben dieser Schlussfolgerung folgt.
+
+Bzw die Aussage ohne doppelte Verneinung. 
+
+Und diese enthopluralistische Aussage wird vom Verfassungsschutz als rechtsextrem geclaimed. 
+(Auch wenn es schon schwachsinnig ist das als rechtsextrem einzustufen... Ay ay ay wie viele Migranten wären dann äußerst rechtsextrem. Das ist wirklich echt nicht so einfach und bedarf eher nen sehr ausgewogenen Blick eben nicht so eine Schlussfolgerung zu treffen wenn Europa und die "Weißen" nunmal kulturell so erfolgreich sein. Dass geschichtliche Entwicklungen nunmal multifaktoriell sind und Geographie eine extrem große Rolle spielt, mehr als die Ethnie, ist wirklich nicht so ersichtlich. Es ist wirklich hochgradig herablassend auszuschlagen, dass die Schlussfolgerung auf den ersten Blick absolut valide ist...)
+
+Er bringt doch mit seiner Aussage gerade einen starken Widerspruch zu Siegmunds Behauptung es gäbe keine Rechtsextremen in der AfD. 
 ## 2026-07-22
 Sabaton glorifizieren aber ziemlich stark den Krieg.
 
@@ -4190,7 +4208,7 @@ Joa ach.  %% fold %%
 Ich bin Physiker und checke es/komme mit.
 Man darf ja auch ausdrücklich Pausen machen und zurück spulen 😅.
 Das ist ja keine Schande.
-
+ %% fold %%
 Ich denke es kommt auf die Essenz an. Man muss sich ja nicht alle RNA Arten merken.
 
 1.
