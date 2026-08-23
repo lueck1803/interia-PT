@@ -1,9 +1,10 @@
 # to do
+- [ ] 
 - [ ] Potenzgesetze und deren Verbindung zur Bruchrechnung
 
 
 - [ ] lernkontrolle bzw. wissenstandskontroll erstellen %% fold %%
-	- [ ] bruchrechnung
+	- [ ] bruchrechnung %% fold %%
 	- [ ] punkt vor strich rechnung
 	- [ ] klammern
 	- [ ] prozentrechnung
