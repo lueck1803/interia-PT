@@ -3062,8 +3062,11 @@ Manchmal hatte sie dann auch so das Gefühl so schlecht behandelt zu werden, hat
 
 # yt Kommentare
 ## 2026-08-23
+### 2
+Ihr macht euch über jemanden Scheinbar lustig in dem ihr ihn als Rassisten darstellt der angeblich nicht klar kommen würde, wenn er wüsste dass es auch Kulturen außerhalb Europas gab und gibt. 
+Damit bedient ihr aber nur euer eigenes rassisches Stereotyp 🤭.
 
-
+### 1
 Ohhh Leute was gibt's denn daran nicht zu verstehen 😂.
 
 Er beschreibt die Schlussfolgerung bzw. Die Gedankenkette wie man zu dieser Ansicht kommt, die ja auch sehr einleuchtend ist, wenn man das aus heutiger eurozentristischer Sicht sieht und so monokausal denkt.
