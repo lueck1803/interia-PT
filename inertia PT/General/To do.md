@@ -144,8 +144,8 @@
 	- [x] Bad
 - [x] decken ausschütteln 
 - [x] Sofa saugen
-- [ ] staubsaugen 
-- [ ] wischen 
+- [x] staubsaugen 
+- [x] wischen 
 - [ ] spazieren 
 - [ ] Glasmüll 
 - [ ] nochmal black waltz
