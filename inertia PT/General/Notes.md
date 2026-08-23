@@ -3062,6 +3062,48 @@ Manchmal hatte sie dann auch so das Gefühl so schlecht behandelt zu werden, hat
 
 # yt Kommentare
 ## 2026-08-23
+### 3
+Jo... 😂
+
+Also die alberne estotherische okkulte NS Pseudo Wissenschaft ist ja auch Symbolbild für die Karikatur einer Gesellschaft. 
+
+Hätte es die NS Ideologie nicht gegeben, man hätte sich denken können sie stamme aus einer dystopischen Schreibfeder. 
+
+Leider war diese Dummheit harte Realität und ist eigentlich kaum ein besseres Paradox 😅.
+
+Menschen die mit harter Überzeugung an ihre Überlegenheit glaube und dabei so obskur zeigen dass sie offenbar genau das Gegenteil sind, zumindest was ihre Fähigkeit zur kognitiven Schlussfolgerung anbelangt. 😅
+
+Ich würde ja am liebsten viel mehr darüber lachen, wenn es nicht so extrem traurig wäre. 
+
+Die NS "Elite" war in ihrem Wahn so überaus antideutsch und antipatriotisch, das ist kaum noch zu toppen. 
+
+Dieser selbstzerfleischende Selbsthass, hat eine großartige, junge und wissenschaftlich herausragende Nation so in Schutt und Asche gelegt. 
+
+Als hätte der erste Weltkrieg nicht schon genug Schaden angerichtet und Leid über das junge Deutschland und Europa gebracht. 
+
+Im ersten Weltkrieg sind viel zu viele Menschen gestorben, aber einer zu wenig. 
+Wobei ich glaube dass uns das auch nicht gerettet hätte... 
+
+Ich rate redem der NS Verharmlosung betreibt in dem er Ben in die diese Ecke stellt, sich nochmal die NS Ideologie vor Augen zu führen. 
+Ich finde es ja echt schade dass "Mein Kampf"  im Geschichtsunterricht keine Pflicht Lektüre ist. 
+
+Hätten alle die vor '33 eine entsprechende Kopie hatten, die mal wirklich gelesen, ich bilde mir ja ein, dass es nicht zu einer entsprechenden Wahl gekommen wäre. 
+
+Ich glaube da bin ich zu leicht- und gutgläubig. 
+
+Ich finde ja das Ben definitiv kritisiert gehört, aber wenn man ihn als ungebildet abwertet und dann als Rechtsextremistenbereiter darstellt, dann sollte man erstmal in den eigenen Spiegel schauen, wo denn da supremistische Überzeugungen liegen. 
+
+Das Ben die AfD nicht unsympathisch findet, dem ist denke ich nichts entgegen zu setzen. 
+
+Seinen Clip hier aber nicht ernsthaft zu versuchen zu steelmanen, tut der Sache der man dienen möchte jedenfalls kein Gefallen. 
+
+Und ich hab mir auch schwer getan mit der Passage, da er es definitiv hätte klarer ausdrücken können. 
+Aber so etwas passiert wenn man so lange spricht. 
+Ich finde es klar genug. 
+
+Ich habe aber auch Verständnis für Menschen die diese Schlussfolgerungen ziehen, wie er sie karikiert, denn die trifft man leider in jeder Bevölkerungsgruppe an. 
+
+Ob es graue Wölfe sind, Hindunationalisten oder Muslime die ihre Religionszugehörigkeit als Rechtfertigung nehmen sich über andere zu stellen. 
 ### 2
 Ihr macht euch über jemanden Scheinbar lustig in dem ihr ihn als Rassisten darstellt der angeblich nicht klar kommen würde, wenn er wüsste dass es auch Kulturen außerhalb Europas gab und gibt. 
 Damit bedient ihr aber nur euer eigenes rassisches Stereotyp 🤭.
@@ -4239,7 +4281,7 @@ Where:
 - $A$: Surface area in contact with the fluid (m²)
 - $\Delta T$: Temperature difference between the surface and the fluid (K or °C)
 
-### Key Insight:
+### Key Insight: %% fold %%
 - Linear dependence on $\Delta T$.
 - Strongly dependent on fluid flow (higher $ h $ for turbulent flow or higher velocities).
 
