@@ -261,7 +261,16 @@
 - ⟹❌ Keine Schwäche 
 	- <font color="#00b0f0">⤷ intelligenteste Form der Stärke</font>
 
-### 
+### 6 - Wabi - Sabi
+- <font color="#7cfc00">Das Unvollkommene hat seinen Wert</font>
+- Tiefverankerte Ästhetische Haltung
+- ⤷ <font color="#00b0f0">Die Schönheit erkennen im </font>
+	- Unvollkommenen 
+	- Unfertigen
+	- Vergänglichen
+- Schale mit einem Riss ist nicht kaputt ⟹ Riss macht sie einzigartig
+- Kunstform Kintsugi ⟹ zerbrochene Keramik wird mit Gold gekittet, so dass der Bruch sichtbar und selbst zum schönsten am Objekt wird
+- <font color="#ffd700">Gold im Bruch</font> ist eine wunderschöne Metapher 
 # unsortiert
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
