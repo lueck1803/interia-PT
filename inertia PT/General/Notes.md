@@ -2121,7 +2121,7 @@ Tage produktiv gewesen:
 	- unten ein Kreuz reinschneiden 
 	- oder den Ballen aufreißen 
 - 
-# Pdftk
+# <font color="#548dd4">Pdftk</font>
 - Gerade (`A.pdf`) und ungerade Seiten (`B.pdf`) eines Dokuments zusammen fügen.
   `{bash} pdftk A=A.pdf B=B.pdf shuffle A Bend-1 output Dokument_Name.pdf`
 - Alle Bilddateien (pdf, jpg), mit der passenden Dateiendung (\*.ext) werden in ein Dokument zusammengefügt.
