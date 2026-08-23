@@ -137,10 +137,10 @@
 - [ ] Physikblatt Seite 1+2 nochmal kopieren 
 - [ ] Schlauchpflanze wieder in die Küche 
 - [ ] Spülmaschine ausräumen 
-- [ ] Balkon gießen
+- [x] Balkon gießen
 - [ ] Taschentücher auffüllen 
 - [ ] Waschbecken 
-- [ ] decken ausschütteln 
+- [x] decken ausschütteln 
 - [ ] Sofa saugen
 - [ ] staubsaugen 
 - [ ] wischen 
