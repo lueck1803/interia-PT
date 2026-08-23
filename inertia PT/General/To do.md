@@ -135,10 +135,16 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] auf dem Balkon essen
-- [ ] Glasmüll 
-- [ ] s
 - [ ] Balkon gießen
 - [ ] Taschentücher auffüllen 
+- [ ] Waschbecken 
+- [ ] staubsaugen 
+- [ ] wischen 
+- [ ] Glasmüll 
+- [ ] spazieren 
+- [ ] nochmal black waltz
+- [ ] Papierkram 
+- [ ] 
 - [x] schul.cloud erstellen für
 	- [x] elias
 	- [x] Samiha ✅
