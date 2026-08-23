@@ -104,6 +104,14 @@ Kind regards
 Lukas Walter 
 # Nachrichten an Leute
 ## 2026-08-23
+### Samiha
+Hi Samiha,
+
+einen schönen Sonntag wünsche ich dir und entschuldige Bitte, dass ich Deine Sonntagsruhe störe.
+
+Es wäre vorteilhaft, wenn wir über schul.cloud kommunizieren könnten.
+
+Ich habe Euch drei, also Du, Lina und Elias dort nicht gefunden.
 
 ## 2026-08-21 
 Hallo Jamil, 
@@ -311,11 +319,11 @@ Die schlimmsten und Menschenfeindlichsten Ideologien waren "gottlos".
 
 Das hat bisher keine andere Ideologie geschafft.
 
-Gut vorher gab's aber auch nicht die Mittel dazu...
-1. Gab's vorher nicht diese Bevölkerungsexplosion wie zum Ende des 19. Auf das 20. Jh 
-2. Gab's nicht die industriellen Mittel Menschen in der Menge umzubringen. (Ok in Ruanda haben sie es auch ohne diese geschafft in 100 Tagen 1mio Menschen umzubringen)
+Gut vorher gab's aber auch nicht die Mittel dazu... %% fold %%
+1. Gab's vorher nicht diese Bevölkerungsexplosion wie zum Ende des 19. Auf das 20. Jh  %% fold %%
+2. Gab's nicht die industriellen Mittel Menschen in der Menge umzubringen. (Ok in Ruanda haben sie es auch ohne diese geschafft in 100 Tagen 1mio Menschen umzubringen) %% fold %%
  %% fold %%
-### 3
+### 3 %% fold %%
 Ich hab natürlich mal bei der AfD zu "die Rechte Ordnung der Liebe" nachgeschaut. %% fold %%
  %% fold %%
 
@@ -328,7 +336,7 @@ Die sind der Ansicht dass es viele Ersatzreligionen gibt und den Leuten Selbsttr
 Die Hinwendung zu einem übermateriellen Streben.
 
 ### 4
-Ich hab natürlich mal bei der AfD zu "die Rechte Ordnung der Liebe" nachgeschaut.
+Ich hab natürlich mal bei der AfD zu "die Rechte Ordnung der Liebe" nachgeschaut. %% fold %%
 
 
 Die wollen gerade keinen Gottesstaat.
