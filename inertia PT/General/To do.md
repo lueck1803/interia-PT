@@ -134,13 +134,13 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- [ ] schul.cloud erstellen für 
-	- [ ] elias
-	- [ ] Samiha
-	- [ ] Lina
+- [x] schul.cloud erstellen für
+	- [x] elias
+	- [x] Samiha
+	- [x] Lina
 - [ ] Ein je ein Heft für den WPK mitnehmen und vorher das Adressfeld entfernen
 	- [ ] Physik Journal 
-		- [ ] hier schauen, ob ich doppelte exemplare habe
+		- [x] hier schauen, ob ich doppelte exemplare habe
 	- [ ] BUND Heft
 - [ ] Elias den Artikel per mail senden
 - [ ] 10er Physik Denksport Physik zusammenstellen 
