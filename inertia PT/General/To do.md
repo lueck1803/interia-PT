@@ -230,7 +230,7 @@
 	- mir gefällt der calcoom z8 plus nicht.... %% fold %%
 		- aber der ist meinem casio vom Layout noch am nächsten %% fold %%
 		- extrem ähnlich 😅
-	- der Casio fx-810 gefällt mir noch weniger
+	- der Casio fx-810 gefällt mir noch weniger %% fold %%
 		- das Layout ist ganz anders
 		- gefällt mir überhaupt nicht
 	- sharp el-w550tg %% fold %%
