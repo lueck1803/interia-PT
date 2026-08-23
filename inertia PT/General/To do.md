@@ -172,7 +172,7 @@
 - [ ] etwas mit weißen Bohnen kochen 
 - [ ] konto checken 
 - [ ] sofa decken richten
-- [ ] schuhe kaufen 
+- [ ] schuhe kaufen  %% fold %%
 	- [ ] Laufschuhe 
 	- [ ] Wanderschuhe 
 - [x] laufen gehen
