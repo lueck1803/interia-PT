@@ -224,6 +224,12 @@
 		- <font color="#31859b">3. Antwort: </font>Weil meine Gedanken gekreist sind?
 	- Warum sind meine Gedanken gekreist?
 		- <font color="#205867">4. Antwort:</font> weil da vielleicht ein ungelöster Konflikt war, den ich vor mir her schiebe.
+- ⟹ plötzlich merkst du Social Media ist gar nicht das eigentliche Problem, das Scrollen ist nur ein Symptom
+- ⤷ <font color="#31859b">das eigentliche Problem liegt viel tiefer</font>
+	- Stress
+	- unerledigter Konflikt
+	- etwas dem du ausweichen möchtest
+	- das Handy ist dann nur die Fluchtür, nicht die eigentliche Ursache
 # unsortiert
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
