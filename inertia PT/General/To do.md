@@ -149,11 +149,10 @@
 - [ ] nochmal black waltz
 - [ ] Kalender eingetragen 
 - [ ] Papierkram 
-- [ ] Akteneintrag Mathis
+- [ ] Akteneintrag Mathis %% fold %%
 	- [x] Sprachaufzeichnung  %% fold %%
 	- [ ] noch dazu vermerken, dass ich ihn angesprochen hatte zu Beginn des Unterrichts dass er im Treppenhaus herunter gespuckt hat, während ich mit den anderen Kindern die Treppe hoch kam. Da habe ich ihn vorsichtig gefragt ob er es war %% fold %%
 	- [ ] das hat er geleugnet 
-	- [ ] ich hab
 - [x] schul.cloud erstellen für
 	- [x] elias
 	- [x] Samiha ✅
@@ -255,7 +254,6 @@
 - [x] schul id fertig 
 	- [x] per Mail absenden oder hochladen  %% fold %%
 - [x] kgV und ggt, welchen brauche ich beim kürzen und welchen beim Erweitern %% fold %%
-- [x] Notfallzettel in fr güldners fach  %% fold %%
 - [ ] 8a Elternabend 31.8 %% fold %%
 	- [ ] was zum Mathe-Wettbewerb sagen? %% fold %%
 		- [ ] was meinen Unterricht angeht bin ich eh gerade dabei viel aufzufrischen  %% fold %%
@@ -285,7 +283,6 @@
 	- [ ] an dieser Stelle ist das total normal dass ihr das nicht versteht
 	- [ ] merkt euch dieses Vorgehen/diesen Algorithmus, da müsst ihr nicht viel verstehen 
 	- [ ] wenn ihr jetzt bei dem Vorgehen ein kleines bisschen mitkommt, dann habt ihr schon die halbe Miete beim kommenden Thema.
-- [x] tasks einstellungen am PC
 - [ ] #task test
 	- [ ] die task suche ausprobieren
 - [ ] Spitzahorn Samen / Stecklinge suchen
@@ -425,7 +422,6 @@
 - [ ] verlaufsplan Mathe bis Herbst 
 - [ ] Mathe-Wettbewerb plan anschauen 
 - [ ] wann ist der genaue Termin?
-- [x] balkon gießen
 - [ ] laufen gehen 
 - [x] weiße Gitarre stimmen 
 - [ ] floyed rose Stimmen 
@@ -434,18 +430,10 @@
 - die lead von swamphell lässt sich abgesehen vom intro auf std Tuning leichter spielen. 
 	- ich glaube nur dass solo 2 geht nicht, wegen dem höchsten Ton
 	- doch natürlich die Gitarre ist ja höher und es geht auch einfacher 
-- [ ] helle Wäsche 
-	- [x] anstellen 
-	- [x] aufhängen 
-	- [ ] abhängen
-	- [ ] zusammenlegen 
-	- [ ] in den Schrank 
 - [ ] weiße Gitarre nochmal gescheit stimmen 
 - [ ] unknown usb device port reset failed
 	- [ ] https://www.google.com/search?q=unknown+usb+device+port+reset+failed&oq=unkonwn+usb+device+port&gs_lcrp=EgZjaHJvbWUqCQgBEAAYDRiABDIGCAAQRRg5MgkIARAAGA0YgAQyCAgCEAAYDRgeMggIAxAAGA0YHjIICAQQABgNGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhgeMggICRAAGBYYHtIBCTEwMDEzajBqN6gCALACAA&sourceid=chrome&source=chrome.ob&ie=UTF-8
 - [ ] flip flop reparieren 
-- [x] heroes to us anschauen welche Stimmung?
-	- [ ] hab's auf std transponiert
 - [x] Apfelschneider nochmal nach schärfen 
 	- gar nicht nötig
 	- mal schauen auf welche Seite erzieht.
@@ -457,13 +445,8 @@
 - [ ] boden wischen 
 - [ ] board ausprobieren
 	- [ ] beim board ausprobieren die Expander anzubringen 
-- [x] black waltz solo
-- [x] black Waltz (rythm)
 - [ ] wie funktioniert das mit #task richtig?
 - [ ] tipler srt
-- [x] Tesa abroller schärfen 
-	- hat echt gut geklappt mit den Feilen 
-- [x] Apfelschneider mit Feilen schärfen 
 - [ ] Schulportal Kalender sync?
 - [ ] Schulportal app genauer anschauen
 - [ ] in Schulbuch der Klasse 5 schauen
@@ -494,8 +477,6 @@
 - [ ] Waschbecken
 	- [ ] bad
 	- [ ] Küche 
-- [ ] liste für anna Lauer machen was ich gemacht habe 
-	- [ ] PDF mit dem Zahlenstrahl 
 - [ ] mathe info blatt
 	- [ ] Zahlenstrahl 
 		- [ ] N
@@ -511,10 +492,6 @@
 	- [ ] sitzplan 8a fotografieren 
 	- [ ] Arbeitsblatt 
 
-- [x] <font color="#daa520">Nachname von Saif </font> ✅ 2026-08-12
-	- [x] ⤷ steht auf dem Zettel?
-	- [ ] khtib bzw. khatib
-	- [ ] letzteres %% fold %%
 - [ ] Wie reinigt man eine Wunde?
 - [ ] Arbeitsblatt mit Radtour erstellen
 - [ ] Gesicht waschen
@@ -524,9 +501,6 @@
 - [ ] Minitafel für Klo Liste 
 
 
-- [x] plugin <font color="#b088ff">Linter</font> testen
-	- habe ich tatsächlich noch nicht ja
-	- [x] mache ich am Mac
 - [ ] edit toolbar updaten, damit man die einträge eventuell wieder sortieren kann
 	- [ ] vorher neu backuppen 
 	- [ ] wie update ich meine änderungen?
@@ -534,11 +508,8 @@
 	- [ ] obsidian neustarten am pc
 - [ ] laufen gehen
 - [ ] krafttraining %% fold %%
-- [ ] bauchmuskel
+- [ ] bauchmuskel %% fold %%
 - [ ] yoga
-- [x] standard notification llw Kalender  %% fold %%
-- [x] Harald Jung wegen saniraum fragen
-- [x] Stunden plan austauschen  %% fold %%
 - [ ] fidget toys in lisas Klassen raum %% fold %%
 - [ ] Maulwurf - bass %% fold %%
 	- [ ] gurt anbringen  %% fold %%
@@ -572,7 +543,6 @@
 - [ ] 5. Mathe Plan  %% fold %%
 	- [ ] zu Beginn der Stunde 10 min Kopfrechnen  %% fold %%
 - [ ] Was bedeuten die 8.1,8.2, ... , 8.5 in den Lehrplänen? %% fold %%
-- [x] Schulgarten checken/gießen %% fold %%
 - [ ] Krafttraining %% fold %%
 - [ ] MTB sattel einstellen %% fold %%
 	- [x] erstmal ein tick runter  %% fold %%
@@ -666,7 +636,6 @@
  %% fold %%
 - oh wow Aufzug im Keller ist leise  %% fold %%
  %% fold %%
-- [x] Arthur schreiben ⟹ soll <font color="#92cddc">Vorschlag</font> für neues Projekt machen  %% fold %%
  %% fold %%
 - [ ] zino ich möchte shin son hab kido machen  %% fold %%
  %% fold %%
@@ -698,15 +667,13 @@
 		- [ ] Melodie 
 		- [ ] Tremolo Picking 
 
-
-
 - [x] Laptop mit tb -> dp an Bildschirm 
       ⤷ funktioniert <font color="#ff1493">wunderbar</font> %% fold %%
 - [ ] mich um den pc kümmern
 
 
 - [ ] Ticket für *my sleeping karma*
-	- [ ] ⤷ arthur bescheid geben
+	- [ ] ⤷ arthur bescheid geben %% fold %%
  %% fold %%
 - [ ] Wie nutze ich zum Kalender sync mit obsidian? %% fold %%
 	- <font color="#ff1493">Day Planner</font>??? %% fold %%
