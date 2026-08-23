@@ -177,7 +177,8 @@
 	- [ ] Wanderschuhe 
 - [x] laufen gehen
 - [ ] Duolingo 
-- [ ] Spülmaschine 
+- [x] Spülmaschine 
+- [ ] Spülmaschine einräumen 
 - [ ] Tisch aufräumen 
 - [ ] Tisch saugen
 - [ ] Tisch und Tastatur wischen 
