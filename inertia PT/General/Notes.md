@@ -2137,8 +2137,8 @@ Tage produktiv gewesen:
 	   `[ < begin page number > [ -< end page number > [ < qualifier > ] ] ] [ < page rotation > ]`
 	   Sie werden direkt an die Dokumentbezeichnung - hier A - angehängt.
 	- Ranges werden mit "Anfangszahl-Endzahl" angegeben, soll das ganze Dokument von der Drehung betroffen sein, dann lässt man diese Option weg.
-	- sollen 
-	- weitere Drehrichtungen sind: 
+	- mit `qualifier` ist die Unterscheidung in `odd` oder `even` gemeint
+	- weitere Drehrichtungen sind: <font color="#ffc000">  north: 0, east: 90, south: 180, west: 270, left: -90, right: +90, down: +180.</font>
 # Signal
 - Video sending problem:
   ![](Pasted%20image%2020251221172346.png)
