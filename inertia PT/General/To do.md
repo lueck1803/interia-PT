@@ -133,8 +133,9 @@
 ### Kaizen
 - <font color="#7cfc00">jeden Tag ein kleiner Schritt </font>
 - wortwörtlich: Veränderung zum Besseren 
-- kontinuierliche schrittweise Verä
-- schrittweise immer wiederholte kleine Veränderungen 
+- kontinuierliche schrittweise Verbesserung 
+	- kleine Verbesserung 
+	- unendlich oft wiederholt 
 - nicht die eine große mit ganz viel Willenskraft 
 - 
 # unsortiert
