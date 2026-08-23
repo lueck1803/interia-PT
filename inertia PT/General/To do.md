@@ -213,7 +213,17 @@
 
 ### Fünf-Warum-Methode
 - <font color="#7cfc00">Frag fünfmal nach dem Warum</font>
-- Wenn bei Toyo
+- Wenn bei Toyota ein Fehler auftauchte, dann fragten sie nicht einmal Warum, sondern fünfmal hintereinander. ⟹ immer tiefer, um <font color="#c71585">an die Wurzel</font> zu kommen
+- <u>Gedanke dahinter:</u> die erste Antwort ist selten die ganze Geschichte dahinter
+- <u>Handy scrollen:</u>
+	- Warum scrolle ich abends stundenlang auf meinem Handy?
+		- <font color="#b7dde8">1. Antwort: </font>weil ich müde bin 😴
+	- Warum bin ich müde?
+		- <font color="#92cddc">2. Antwort: </font>weil ich schlecht geschlafen habe?
+	- Warum habe ich schlecht geschlafen?
+		- <font color="#31859b">3. Antwort: </font>Weil meine Gedanken gekreist sind?
+	- Warum sind meine Gedanken gekreist?
+		- <font color="#205867">4. Antwort:</font> weil da vielleicht ein ungelöster Konflikt war, den ich vor mir her schiebe.
 # unsortiert
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
