@@ -134,6 +134,7 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
+- [ ] Balkon gießen
 - [x] schul.cloud erstellen für
 	- [x] elias
 	- [x] Samiha ✅
