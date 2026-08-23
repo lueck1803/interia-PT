@@ -143,7 +143,7 @@
 	- [x] Küche
 	- [x] Bad
 - [x] decken ausschütteln 
-- [ ] Sofa saugen
+- [x] Sofa saugen
 - [ ] staubsaugen 
 - [ ] wischen 
 - [ ] spazieren 
