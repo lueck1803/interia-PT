@@ -155,16 +155,26 @@
 - wörtlich: der echte Ort
 - wenn in der Produktion ein Problem auftaucht, dann sitzt du nicht im Büro und spekulierst, sondern gehst an den Ort wo es passiert und beobachtest.
 - Manager die ein Problem lösen wollten sind nicht in Meetings gegangen, sondern raus in die Produktion an das Fließband, wo der Fehler tatsächlich entstand
-	- ⤷ können wir uns für unsere eigenen Gewohnheiten zu Nutze machen bevor wir
+	- ⤷ können wir uns für unsere eigenen Gewohnheiten zu Nutze machen 
+	- ⤷ bevor wir irgendetwas verändern, <font color="#ffc000">beobachten wir erstmal</font>
+- Greifst du zur Zigarette?
+	- wo bist du?
+	- Mit wem?
+	- Was hast du kurz davor gefühlt?
+	- ⟹ <font color="#ff0000">Ohne</font> Urteil
+	- ⤷ Du bist nicht hier um zu Richten, du bist hier um zu Erkennen und zu Beobachten 
+	- ~~Richter~~ ⟹ Detektiv
+	- Du sammelst 
 # unsortiert
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
+- [ ] Duolingo 
 - [ ] Physikblatt Seite 1+2 nochmal kopieren 
 - [ ] Schlauchpflanze wieder in die Küche 
-- [ ] Bier trinken 
+- [x] Bier trinken
 - [ ] für Schule packen 
 - [ ] Spülmaschine ausräumen 
 - [x] Balkon gießen
@@ -200,9 +210,8 @@
 	- [ ] Laufschuhe 
 	- [ ] Wanderschuhe 
 - [x] laufen gehen
-- [ ] Duolingo 
 - [ ] Tisch aufräumen  %% fold %%
-- [ ] Tisch und Tastatur wischen  %% fold %%
+- [x] Tisch und Tastatur wischen  %% fold %%
 - [ ] black waltz  %% fold %%
 - [ ] Gitarre stimmen  %% fold %%
 	- [ ] ich  hab das Stimmgerät am podGo auf coarse gestellt, das ist viel angenehmer xD %% fold %%
@@ -234,8 +243,6 @@
 	- absolut angstfreier Unterricht 
 	- keine Frage oder Aussage ist schlecht wenn sie ernst gemeint ist. Klar darf auch mal konstruktiver Sarkasmus/ironie/spaß sein wenn es dazu beiträgt und keinen abwertet
 	- denn jede Aussage und Frage gibt mir Infos über eure Gedanken 
-- [ ] tasttatur wischen %% fold %%
-- [ ] rasieren  %% fold %%
  %% fold %%
 - Taschenrechner  %% fold %%
 	- mir gefällt der calcoom z8 plus nicht.... %% fold %%
