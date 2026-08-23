@@ -134,8 +134,19 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
+- [ ] auf dem Balkon essen
 - [ ] Balkon gießen
 - [ ] Taschentücher auffüllen 
+- [ ] Waschbecken 
+- [ ] decken ausxhüt
+- [ ] Sofa saugen
+- [ ] staubsaugen 
+- [ ] wischen 
+- [ ] Glasmüll 
+- [ ] spazieren 
+- [ ] nochmal black waltz
+- [ ] Kalender eingetragen 
+- [ ] Papierkram 
 - [x] schul.cloud erstellen für
 	- [x] elias
 	- [x] Samiha ✅
