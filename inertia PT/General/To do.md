@@ -281,6 +281,7 @@
 - Der <font color="#7cfc00">halb umgesetzte Plan</font> schlägt fast immer den perfekten Plan der <font color="#ff0000">nie gestartet</font> wird
 
 - <font color="#00b0f0">Imperfect action beats perfect inaction</font>
+	- unvollkommenes Handeln schlägt
 # unsortiert
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
