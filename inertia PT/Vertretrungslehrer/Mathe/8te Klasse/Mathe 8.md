@@ -1,11 +1,23 @@
 # to do
-- [ ] 
+- [ ] division nochmal anschreiben 
+- [ ] addition anschreiben 
+- [ ] addition besprechen 
+- [ ] gemischte Buchschreibweise 
+- [ ] Erklärung letzte Aufgabe 
+- [ ] Arbeitsblatt rechenweg kontrollieren 
+	- [ ] einsammeln 
+
 - [ ] Potenzgesetze und deren Verbindung zur Bruchrechnung
+- [ ] aus all den Themen ein Infoblatt/Handout 
+
+
+- [ ] Dreisatz und Prozentrechnung 
+	- [ ] Arbeitsblatt 
 
 
 - [ ] lernkontrolle bzw. wissenstandskontroll erstellen %% fold %%
 	- [ ] bruchrechnung %% fold %%
-	- [ ] punkt vor strich rechnung
+	- [ ] punkt vor strich rechnung %% fold %%
 	- [ ] klammern
 	- [ ] prozentrechnung
 	- [ ] dreisatz %% fold %%
@@ -116,9 +128,10 @@ Addition, Subtraktion, Multiplikation und Division von Brüchen an schreiben
 # <font color="#8db3e2">8a</font> Lisa-Marie Rohr (roh)
 
 ## 2026-08-24
-- saif hatte mich letzt gefragt wie man Periode eingibt, ich hab's herausgefunden: <font color="#c00000">alpha</font> + $\sqrt{ \square{} }$
+- [ ] saif hatte mich letzt gefragt wie man Periode eingibt, ich hab's herausgefunden: <font color="#c00000">alpha</font> + $\sqrt{ \square{} }$
+- [ ] sagen dass ich Arbeitsblatt am Ende der Stunde einsammel
 ## 2026-08-17
-- [ ] <font color="#ff0000">teilen durch null</font> müssen wir noch machen
+- [x] <font color="#ff0000">teilen durch null</font> müssen wir noch machen
 - [ ] Aufgabenblatt zu Brüchen 
 - [ ] mein Handout herumgeben 
 	- [ ] ist es ok ? verständlich?
