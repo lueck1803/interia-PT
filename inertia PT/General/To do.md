@@ -153,8 +153,9 @@
 ### Gemba
 - <font color="#7cfc00">gehe an den Ort des Geschehens</font>
 - wörtlich: der echte Ort
-- wenn in der Produktion ein Problem auftaucht, dann sitzt du nicht im Büro und spekulierst, sondern gehst an den Ort wo es passiert.
-- 
+- wenn in der Produktion ein Problem auftaucht, dann sitzt du nicht im Büro und spekulierst, sondern gehst an den Ort wo es passiert und beobachtest.
+- Manager die ein Problem lösen wollten sind nicht in Meetings gegangen, sondern raus in die Produktion an das Fließband, wo der Fehler tatsächlich entstand
+	- ⤷ können wir uns für unsere eigenen Gewohnheiten zu Nutze machen bevor wir
 # unsortiert
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
@@ -175,7 +176,7 @@
 	- [x] Sprachaufzeichnung  %% fold %%
 	- [ ] noch dazu vermerken, dass ich ihn angesprochen hatte zu Beginn des Unterrichts dass er im Treppenhaus herunter gespuckt hat, während ich mit den anderen Kindern die Treppe hoch kam. Da habe ich ihn vorsichtig gefragt ob er es war %% fold %%
 	- [ ] das hat er geleugnet 
-- [x] schul.cloud erstellen für
+- [x] schul.cloud erstellen für %% fold %%
 	- [x] elias
 	- [x] Samiha ✅
 	- [x] Lina
