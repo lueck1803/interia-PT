@@ -136,9 +136,10 @@
 
 - [x] carnivorenwasser auffüllen 
 - [x] carnivoren gießen 
+- [ ] bei carnivoren wischen 
 - [ ] Schlauchpflanze wieder in die Küche 
-- [ ] Kakteen und kalanchoe gießen
-- [ ] Sonnentau herum drehen
+- [x] Kakteen und kalanchoe gießen
+- [x] Sonnentau herum drehen
 - [x] binsen schneiden 
 - [ ] Spülmaschine ausräumen 
 - [ ] auf dem Balkon essen
