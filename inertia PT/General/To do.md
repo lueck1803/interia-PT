@@ -229,7 +229,13 @@
 	- Stress
 	- unerledigter Konflikt
 	- etwas dem du ausweichen möchtest
-	- das Handy ist dann nur die Fluchtür, nicht die eigentliche Ursache
+	- das Handy ist dann nur die Fluchttür, nicht die eigentliche Ursache
+- ⟹ Doktorn nur an den Symptomen herum ⟹ wundern, warum sich nichts ändert
+	- kannst dir noch so viele App-Sperren einrichten, wenn der eigentliche Antrieb ein unverarbeitetes Problem ist
+	- ⤷ Gehirn sucht sich andere Gewohnheit zum Flüchten
+
+### Poka-YOke
+- 
 # unsortiert
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
