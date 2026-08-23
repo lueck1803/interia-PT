@@ -138,13 +138,15 @@
 - [ ] Balkon gießen
 - [ ] Taschentücher auffüllen 
 - [ ] Waschbecken 
+- [ ] decken ausxhüt
+- [ ] Sofa saugen
 - [ ] staubsaugen 
 - [ ] wischen 
 - [ ] Glasmüll 
 - [ ] spazieren 
 - [ ] nochmal black waltz
+- [ ] Kalender eingetragen 
 - [ ] Papierkram 
-- [ ] 
 - [x] schul.cloud erstellen für
 	- [x] elias
 	- [x] Samiha ✅
