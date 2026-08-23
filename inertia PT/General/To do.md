@@ -135,6 +135,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Balkon gießen
+- [ ] Taschentücher auffüllen 
 - [x] schul.cloud erstellen für
 	- [x] elias
 	- [x] Samiha ✅
