@@ -196,7 +196,16 @@
 	- Was ist passiert?
 	- Welche Umstände?
 	- Was lässt sich beim nächsten Mal besser machen?
-- Der F
+- Der Fehler wird dabei <font color="#ff0000">nicht</font> als <font color="#ff0000">Schande</font> behandelt, sondern als <font color="#00fa9a">etwas aus dem man lernt</font>
+- <font color="#ff0000">Nicht</font> mit <font color="#ff0000">Schuld</font>, sondern mit <font color="#00fa9a">Neugier</font>
+- Nach einem Rückfall häufig:
+	- <font color="#f4a460">Was stimmt eigentlich nicht mit mir?</font>
+	- Warum bekomme ich das nicht hin?
+- <font color="#ff0000">Nicht</font>: Was ist <font color="#ff0000">falsch</font> mit <font color="#ff0000">mir</font>?
+	- ⤷<font color="#7cfc00"> Was genau ist hier eigentlich passiert?</font>
+	- Welcher Kontext hat das gerade begünstigt?
+	- ⤷ Rückfall <font color="#ff0000">nicht</font> als <font color="#ff0000">Charakterfehler</font>, sondern als <font color="#00fa9a">Datenpunkt</font> aus dem du <font color="#7cfc00">etwas lernen</font> kannst
+- Medidative Haltung: Betrachtung mit Neugier, als würdest du es das erste Mal beobachten
 # unsortiert
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
