@@ -140,6 +140,8 @@
 - [x] Balkon gießen
 - [ ] Taschentücher auffüllen 
 - [ ] Waschbecken 
+	- [x] Küche
+	- [ ] Bad
 - [x] decken ausschütteln 
 - [ ] Sofa saugen
 - [ ] staubsaugen 
