@@ -144,13 +144,10 @@
 	- [x] Physik Journal 
 		- [x] hier schauen, ob ich doppelte exemplare habe
 	- [x] BUND Heft
-- [x] Elias den Artikel per mail senden
 - [ ] 10er Physik Denksport Physik zusammenstellen 
 - [ ] grüne Laufschuhe nur noch als normale Schuhe tragen
-- [x] Nudeln in den Kühlschrank
 - [ ] zum Türken 
-- [x] Nudeln kochen 
-- [ ] Bauhaus Kehrblech 
+- [ ] Bauhaus Kehrblech  %% fold %%
 - [ ] Akteneintrag Mathis %% fold %%
 	- [x] Sprachaufzeichnung  %% fold %%
 	- [ ] noch dazu vermerken, dass ich ihn angesprochen hatte zu Beginn des Unterrichts dass er im Treppenhaus herunter gespuckt hat, während ich mit den anderen Kindern die Treppe hoch kam. Da habe ich ihn vorsichtig gefragt ob er es war %% fold %%
@@ -160,14 +157,7 @@
 - [ ] Alufolie entfernen?
 - [ ] Materialliste 5er anschauen
 - [ ] whiteboard marker in der Stadt kaufen
-- [x] Aldi
 - [ ] kühlschrank putzen
-- [ ] tafel wischen 
-- [x] Zitronensäure Behälter  %% fold %%
-	- [x] leeren 
-	- [x] zum Topf umbauen 
-	- [x] die geschädigteste Marone reine
-	- [x] nochmal Erde nach schütten
 - [ ] etwas mit weißen Bohnen kochen 
 - [ ] konto checken 
 - [ ] sofa decken richten
@@ -175,8 +165,6 @@
 	- [ ] Laufschuhe 
 	- [ ] Wanderschuhe 
 - [x] laufen gehen
-- [x] rasieren
-- [x] duschen + rasieren
 - [ ] Duolingo 
 - [ ] Spülmaschine 
 - [ ] Tisch aufräumen 
