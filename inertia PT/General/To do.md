@@ -143,8 +143,8 @@
 	- auf große Veränderungen reagieren wir mit Vermeidung 
 	- wir schieben sie auf
 	- und lassen es am Ende ganz 
-	- winzige Schritte fliegen unter diesem Radar durch, sie sind so klein, dass es gar nichts zu vermeiden gibt
-	- 
+	- <font color="#d99694">winzige Schritte fliegen unter diesem Radar durch, sie sind so klein, dass es gar nichts zu vermeiden gibt</font>
+	- Perfektionismus hat auf einmal keinen
 # unsortiert
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
