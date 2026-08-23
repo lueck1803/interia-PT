@@ -138,10 +138,10 @@
 - [ ] Schlauchpflanze wieder in die Küche 
 - [ ] Spülmaschine ausräumen 
 - [x] Balkon gießen
-- [ ] Taschentücher auffüllen 
-- [ ] Waschbecken 
+- [x] Taschentücher auffüllen 
+- [x] Waschbecken 
 	- [x] Küche
-	- [ ] Bad
+	- [x] Bad
 - [x] decken ausschütteln 
 - [ ] Sofa saugen
 - [ ] staubsaugen 
