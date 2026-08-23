@@ -132,7 +132,8 @@
 ## japanische 1-Minutenregel
 ### Kaizen
 - <font color="#7cfc00">jeden Tag ein kleiner Schritt </font>
-- wortwörtlich: der 
+- wortwörtlich: Veränderung zum Besseren 
+- kontinuierliche schrittweise Verä
 - schrittweise immer wiederholte kleine Veränderungen 
 - nicht die eine große mit ganz viel Willenskraft 
 - 
