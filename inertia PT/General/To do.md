@@ -252,7 +252,16 @@
 	- <font color="#ffff00">ohne groß nachzudenken</font>
 	- <font color="#ff3d3d">Ausgelöst durch Kontext</font>
 - ⟹ <font color="#7cfc00">änderst</font> du den <font color="#ff3d3d">Kontext</font>, änderst du den <font color="#00fa9a">Autopiloten</font>
-- 
+- ⟹ <font color="#ff0000">Nicht</font> durch <font color="#ff0000">Kampf</font> ⟹ <font color="#b088ff">altem Verhalten</font> den <font color="#ff0000">Auslöser</font> <font color="#7cfc00">nimmst</font>
+
+- ⟹ <font color="#ff69b4">Kontext trigger suchen </font>
+- ⟹<font color="#7cfc00">Physisch entfernen</font>
+	- ⟹ Handy ❌ Schlafzimmer
+	- ⟹ Süßigkeiten ❌ Haus
+- ⟹❌ Keine Schwäche 
+	- <font color="#00b0f0">⤷ intelligenteste Form der Stärke</font>
+
+### 
 # unsortiert
 <font color="#e36c09">Produktiv?</font>
 <font color="#7cfc00">Selbstbefreiung hören</font> 
