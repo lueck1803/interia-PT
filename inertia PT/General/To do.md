@@ -137,6 +137,7 @@
 - [ ] Physikblatt Seite 1+2 nochmal kopieren 
 - [ ] Schlauchpflanze wieder in die Küche 
 - [ ] Bier trinken 
+- [ ] für Schule packen 
 - [ ] Spülmaschine ausräumen 
 - [x] Balkon gießen
 - [ ] spazieren 
