@@ -174,21 +174,19 @@
 - [ ] kühlschrank putzen
 - [ ] etwas mit weißen Bohnen kochen 
 - [ ] konto checken 
-- [ ] sofa decken richten
+- [x] sofa decken richten
 - [ ] schuhe kaufen
 	- [ ] Laufschuhe 
 	- [ ] Wanderschuhe 
 - [x] laufen gehen
 - [ ] Duolingo 
 - [ ] Tisch aufräumen  %% fold %%
-- [ ] Tisch saugen %% fold %%
+- [x] Tisch saugen %% fold %%
 - [ ] Tisch und Tastatur wischen  %% fold %%
 - [ ] black waltz  %% fold %%
 - [ ] Gitarre stimmen  %% fold %%
 	- [ ] ich  hab das Stimmgerät am podGo auf coarse gestellt, das ist viel angenehmer xD %% fold %%
 - [ ] heroes to us
-- [ ] Fußboden wischen 
-- [ ] Waschbecken 
 - [ ] mich um pc kümmern  %% fold %%
 - [ ] apfelschneider schärfen dass er gerade schneidet %% fold %%
 - [ ] mac Tastatur  %% fold %%
