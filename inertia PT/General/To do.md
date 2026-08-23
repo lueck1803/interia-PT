@@ -4,7 +4,7 @@
 # Mantra
 -  wer am <font color="#92d050">Schlaf spart</font>, <font color="#ff0000">zahlt</font> mit dem <font color="#ff0000">ganzen Tag.</font> %% fold %%
 	- Schlafquantität 
-	- Schlafqualität %% fold %%
+	- Schlafqualität
 		- ⟹ genug Tiefschlafphasen: Erholung
 		- ⟹ genug REM Schlafphasen: emotionale Verarbeitung 
 			- ⤷ wobei mich die <font color="#fac08f">Träume</font>, <font color="#b2a2c7">gerade die kurz</font> vor <font color="#c71585">dem Aufwachen</font>, so sehr <font color="#daa520">benebeln</font>
