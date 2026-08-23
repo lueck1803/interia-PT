@@ -139,7 +139,7 @@
 - [ ] Schlauchpflanze wieder in die Küche 
 - [ ] Kakteen und kalanchoe gießen
 - [ ] Sonnentau herum drehen
-- [ ] binsen schneiden 
+- [x] binsen schneiden 
 - [ ] Spülmaschine ausräumen 
 - [ ] auf dem Balkon essen
 - [ ] Balkon gießen
