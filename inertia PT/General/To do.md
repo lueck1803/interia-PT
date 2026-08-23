@@ -136,21 +136,13 @@
 
 - [ ] Physikblatt Seite 1+2 nochmal kopieren 
 - [ ] Schlauchpflanze wieder in die Küche 
+- [ ] Bier trinken 
 - [ ] Spülmaschine ausräumen 
 - [x] Balkon gießen
-- [x] Taschentücher auffüllen 
-- [x] Waschbecken 
-	- [x] Küche
-	- [x] Bad
-- [x] decken ausschütteln 
-- [x] Sofa saugen
-- [x] staubsaugen 
-- [x] wischen 
 - [ ] spazieren 
 - [ ] Glasmüll 
-- [ ] nochmal black waltz
-- [x] Kalender eingetragen
-- [ ] Papierkram 
+- [ ] nochmal black waltz %% fold %%
+- [ ] Papierkram  %% fold %%
 - [ ] Akteneintrag Mathis %% fold %%
 	- [x] Sprachaufzeichnung  %% fold %%
 	- [ ] noch dazu vermerken, dass ich ihn angesprochen hatte zu Beginn des Unterrichts dass er im Treppenhaus herunter gespuckt hat, während ich mit den anderen Kindern die Treppe hoch kam. Da habe ich ihn vorsichtig gefragt ob er es war %% fold %%
@@ -181,12 +173,11 @@
 - [x] laufen gehen
 - [ ] Duolingo 
 - [ ] Tisch aufräumen  %% fold %%
-- [x] Tisch saugen %% fold %%
 - [ ] Tisch und Tastatur wischen  %% fold %%
 - [ ] black waltz  %% fold %%
 - [ ] Gitarre stimmen  %% fold %%
 	- [ ] ich  hab das Stimmgerät am podGo auf coarse gestellt, das ist viel angenehmer xD %% fold %%
-- [ ] heroes to us
+- [ ] heroes to us %% fold %%
 - [ ] mich um pc kümmern  %% fold %%
 - [ ] apfelschneider schärfen dass er gerade schneidet %% fold %%
 - [ ] mac Tastatur  %% fold %%
@@ -232,7 +223,6 @@
 - [ ] Jamil zur Differenzierung: %% fold %%
 	- [ ] rote Aufgaben im Mathebuch für E
 	- [ ] in der Arbeit gibt es andere Punkteverteilung und eventuell Zusatzaufgaben 
-- [x] Etiketten Drucker kaufen
 - [ ] Mathebuch 5a Aufgaben  %% fold %%
 - [ ] Brüche:  %% fold %%
 	- kgV (kleinstes gemeinsames Vielfaches) beim Hauptnenner bilden
