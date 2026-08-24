@@ -313,7 +313,7 @@ Bei mir hat es irgendwann angefangen dass die Summe an Punkten und Ereignissen a
 Ich hab immer noch das Bedürfnis mich bei Arooj zu entschuldigen, ich fühle mich immer noch phasenweise schmutzig, schuldig und schädlich weil ich so traurig/depressiv, durcheinander und zerstreut war.
 
 aber gut, sie hat halt auch schon stark dazu beigetragen, dass ich so durcheinander, traurig und verunsichert war
-
+ %% fold %%
 ## 2026-08-07
 - Gut dass Nele nicht negativ reagiert hat, sondern meinte -> Ferien -> Handy weg 
 ## 2026-08-04
