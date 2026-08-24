@@ -301,7 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] kaffeemaschine entkalken
-- [ ] Erklärung 
+- [ ] Erklärung dezimal zu bruch Zeilennummern und Aufzählung nummerieren
 - [ ] schul.cloud einladen 
 	- [ ] Hana
 	- [ ] xenia
