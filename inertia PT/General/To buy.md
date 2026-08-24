@@ -1,5 +1,6 @@
 # Stadt
 - [ ] white board marker (Tedi, Rossmann, DM)
+- [ ] Abzieher
 # Internet 
 - macbook ersatztasten 
 	- [ ] Set von ifixit?
@@ -9,12 +10,7 @@
 # Aldi
 ## Jetzt
 - Einkaufswagen 
-- [x] grüne Oliven
-- [x] Kalamata Oliven
-- [x] Chips
-- [x] Bier
-- [x] Saft
-- [x] eis 
+- [ ] Nudelsoßen
 
 ## später mal
 - [ ] white board marker
