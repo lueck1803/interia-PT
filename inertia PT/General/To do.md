@@ -301,6 +301,13 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] kaffeemaschine entkalken
+- [ ] schul.cloud einladen 
+	- [ ] Hana
+	- [ ] xenia
+	- [ ] zaynaba
+	- [ ] ümmü
+	- [ ] salma Bashir adnan
+	- [ ] 
 - [ ] Duolingo
 	- draußen
 - [ ] Spülmaschine ausräumen 
