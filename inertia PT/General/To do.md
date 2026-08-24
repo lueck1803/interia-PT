@@ -300,19 +300,20 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
+- [ ] kaffeemaschine entkalken
+- [ ] Duolingo
+	- draußen
+- [ ] Spülmaschine ausräumen 
+- [ ] kühlschrank putzen
+- [ ] Schlauchpflanze wieder in die Küche 
+- [ ] Glasmüll 
 - [ ] Stadt
 	- [ ] Abzieher für 8b
 	- [ ] whiteboard marker in der Stadt kaufen
-- [ ] kaffeemaschine entkalken
-- [ ] Duolingo 
-- [ ] Physikblatt Seite 1+2 nochmal kopieren 
-- [ ] Schlauchpflanze wieder in die Küche 
 - [x] Bier trinken
 - [ ] für Schule packen 
-- [ ] Spülmaschine ausräumen 
 - [x] Balkon gießen
 - [ ] spazieren 
-- [ ] Glasmüll 
 - [ ] nochmal black waltz %% fold %%
 - [ ] Papierkram  %% fold %%
 - [ ] Akteneintrag Mathis %% fold %%
@@ -334,7 +335,6 @@
 - [ ] interimsgebäude testen über beamer am Laptop mit Xournal zu schreiben
 - [ ] Alufolie entfernen?
 - [ ] Materialliste 5er anschauen
-- [ ] kühlschrank putzen
 - [ ] etwas mit weißen Bohnen kochen 
 - [ ] konto checken 
 - [x] sofa decken richten
@@ -402,7 +402,7 @@
 - [ ] zu comspot fahren 
 - [ ] in ein Handout den "Fehler von emir" aufschreiben 
 - [ ] Vektor Beispiel bild mit Kurvenfahrt und den drei Vektoren s,v, a
-- Whiteboard marker besorgen  %% fold %%
+- Whiteboard marker besorgen
 	- Ich hab Jana bescheid gegeben, dass sie welche besorgen soll
 	- [ ] selbst welche kaufen
 	- [ ] überlegen, ob ich in xournal am laptop schreibe?
