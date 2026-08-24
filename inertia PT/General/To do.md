@@ -311,7 +311,6 @@
 	- [ ] daria michalewicz
 	- [ ] pavlo palamarchuk
 	- [ ] sara bouhout
-	- [ ] 
 - [ ] Duolingo
 	- draußen
 - [ ] Spülmaschine ausräumen 
@@ -325,7 +324,7 @@
 	- [x] p 10b
 	- [x] p 10a
 	- [x] E 5b
-- [ ] Handout Brüche fertig machen
+- [ ] Handout Brüche fertig machen %% fold %%
 - [ ] Übungsaufgaben  %% fold %%
 	- [ ] dreisatz
 	- [ ] prozentrechnung
