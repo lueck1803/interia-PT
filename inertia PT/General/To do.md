@@ -2109,7 +2109,7 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] jamils Email lesen + Stundenplan abspeichern 
 - [x] to do proposal in andere Datei  
 - [x] Kette fetten 
-- [x] Mischa schreiben:
+- [x] Mischa schreiben: %% fold %%
 	- [x] noch kein Geld von Februar 
 	- [x] Gehaltsabrechnung dez-feb
 - [x] physalis ausgraben 
