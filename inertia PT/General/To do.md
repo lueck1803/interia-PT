@@ -300,10 +300,14 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- [ ] kaffeemaschine entkalken
+- [x] kaffeemaschine entkalken
+- [ ] Mathe 5a Seite 8 im Buch machen
 - [ ] Erklärung dezimal zu bruch Zeilennummern und Aufzählung nummerieren
 - [ ] schul.cloud einladen 
 	- [ ] Hana
+	- [ ] shanaja
+		- [ ] ihr hab ich nen account erstellt, damit kann ich mich einloggen...
+		- [ ] da ist irgendwas an ihrem handy komisch...
 	- [ ] xenia
 	- [ ] zaynaba
 	- [ ] ümmü
@@ -326,7 +330,7 @@
 	- [x] E 5b
 - [ ] Handout Brüche fertig machen %% fold %%
 - [ ] Übungsaufgaben  %% fold %%
-	- [ ] dreisatz
+	- [ ] dreisatz %% fold %%
 	- [ ] prozentrechnung
 	- [ ] neues Thema - Lineare Gleichungen /ungleichungen
 		- [ ] Terme mit Klammern
