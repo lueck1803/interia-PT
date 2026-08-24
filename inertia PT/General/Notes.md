@@ -2132,7 +2132,7 @@ Tage produktiv gewesen:
 # <font color="#548dd4">Pdftk</font>
 - Gerade (`A.pdf`) und ungerade Seiten (`B.pdf`) eines Dokuments zusammen fügen.
   `{bash} pdftk A=A.pdf B=B.pdf shuffle A Bend-1 output Dokument_Name.pdf`
-- zusammenf  `{bash} pdftk A=in1.pdf B=in2.pdf cat A1 B2-20even output out.pdf`
+- Zusammenfügen einfach <br> `{bash} pdftk A=in1.pdf B=in2.pdf cat A1 B2-20even output out.pdf`
 - Alle Bilddateien (pdf, jpg), mit der passenden Dateiendung (\*.ext) werden in ein Dokument zusammengefügt.
   `{bash} pdftk *.ext cat output Dokument_Name.pdf`
 - <span style="font-size:100%;color: orange;">Scanner Software unter Linux</span> ⟹Scan Gear <br>PdfTK unnötig, da hier bereits Shuffle Funktion integriert ist 
