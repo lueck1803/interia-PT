@@ -301,7 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] kaffeemaschine entkalken
-- [ ] matheblatt 2c) korrigieren und die
+- [ ] matheblatt 2c) korrigieren und wie mache ich das grafisch 
 - [ ] Duolingo 
 - [ ] Physikblatt Seite 1+2 nochmal kopieren 
 - [ ] Schlauchpflanze wieder in die Küche 
