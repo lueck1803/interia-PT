@@ -304,6 +304,16 @@
 - [ ] Duolingo
 	- draußen
 - [ ] Spülmaschine ausräumen 
+- [x] kursmappe
+	- [x] m 5a %% fold %%
+	- [ ] m 8a
+	- [ ] m 8b
+	- [ ] p 8a 
+	- [x] p 8b
+	- [x] p 8c
+	- [x] p 10b
+	- [x] p 10a
+	- [x] E 5b
 - [ ] kühlschrank putzen
 - [ ] Schlauchpflanze wieder in die Küche 
 - [ ] Glasmüll 
@@ -325,7 +335,7 @@
 	- [x] Samiha ✅
 	- [x] Lina
 - [x] Ein je ein Heft für den WPK mitnehmen und vorher das Adressfeld entfernen %% fold %%
-	- [x] Physik Journal 
+	- [x] Physik Journal  %% fold %%
 		- [x] hier schauen, ob ich doppelte exemplare habe
 	- [x] BUND Heft
 - [ ] 10er Physik Denksport Physik zusammenstellen 
@@ -396,16 +406,13 @@
 	- kgV (kleinstes gemeinsames Vielfaches) beim Hauptnenner bilden
 	- ggT (größter gemeinsamer Teiler) beim Kürzen
 - [ ] Ordnung in Vertretungslehrer herstellen. Ordner für Physik erstellen 
-- [ ] 8b abzieher
 - [ ] klatex am laptop fixen
-- [ ] Stundenplan im Kalender anpassen 
-- [ ] zu comspot fahren 
 - [ ] in ein Handout den "Fehler von emir" aufschreiben 
 - [ ] Vektor Beispiel bild mit Kurvenfahrt und den drei Vektoren s,v, a
 - Whiteboard marker besorgen
 	- Ich hab Jana bescheid gegeben, dass sie welche besorgen soll
 	- [ ] selbst welche kaufen
-	- [ ] überlegen, ob ich in xournal am laptop schreibe?
+	- [ ] überlegen, ob ich in xournal am laptop schreibe? %% fold %%
 - [x] Nummer von Mutter von mathis besorgen  %% fold %%
 	- [ ] 0172 7838889
  ihm dann später gesagt dass ich ihn dabei gesehen habe %% fold %%
@@ -543,16 +550,7 @@
 	- [ ] laptop
 	- [ ] PC
 	- [ ] Wasser austauschen %% fold %%
-- [x] kursmappe %% fold %%
-	- [x] m 5a %% fold %%
-	- [x] m 8a
-	- [ ] m 8b
-	- [x] p 8a 
-	- [x] p 8b
-	- [x] p 8c
-	- [x] p 10b
-	- [x] p 10a
-	- [ ] E 5b
+
 - [ ] Unterricht 10a/b
 - [ ] rechten neuen flipflop reparieren 
 - [ ] matheblatt mit bruchrechenaufgaben %% fold %%
@@ -573,7 +571,7 @@
 	- [ ] Bild Tangential Geschwindigkeit eines Satteliten um die Erde
 		- [ ] dessen Betrag (näherungsweise) gleich bleibt
 		- [ ] sich aber dessen Richtung ändert ⟹ es handelt sich um eine Beschleunigung
-- [ ] Fermiaufgabe heraussuchen
+- [ ] Fermiaufgabe heraussuchen %% fold %%
 - [ ] Physik verlaufsplan bis Herbstferien 
 - [ ] Matheaufgaben zu Brüchen 
 - [ ] Mathe Handout 
