@@ -321,7 +321,7 @@ Krass hab nach Ewigkeit mal wieder <font color="#c00000">Nasenbluten</font>. Und
 ## 2026-07-30
 ### Arooj
 #### schuldig
-gibt einfach Tage und Situationen, insbesondere wenn ich zu viele Entscheidungen getroffen habe, die mit für mich nicht so einfachen bzw. langanhaltenden Themen zu tun haben, dass ich mich so schwach, schmutzig, mein Blick auf mich in der Vergangenheit ist, dass ich so bösartig zerstreut war und bin.
+gibt einfach Tage und Situationen, insbesondere wenn ich zu viele Entscheidungen getroffen habe, die mit für mich nicht so einfachen bzw. langanhaltenden Themen zu tun haben, dass ich mich so schwach, schmutzig, mein Blick auf mich in der Vergangenheit ist, dass ich so bösartig zerstreut war und bin. %% fold %%
 ich mich dafür so extrem schuldig fühle. Wie auch für bei so schönen Dingen wie bei meiner Radtour am Sonntag.
 
  Insbesondere fühle ich mich schuldig gegenüber Arooj.
