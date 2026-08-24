@@ -314,15 +314,19 @@
 	- [x] p 10b
 	- [x] p 10a
 	- [x] E 5b
+- [ ] Handout Brüche fertig machen
+- [ ] Übungsaufgaben 
+	- [ ] dreisatz
+	- [ ] prozentrechnung
+	- [ ] neues Thema - Lineare Gleichungen /ungleichungen
+		- [ ] Terme mit Klammern
 - [ ] kühlschrank putzen
 - [ ] Schlauchpflanze wieder in die Küche 
 - [ ] Glasmüll 
 - [ ] Stadt
 	- [ ] Abzieher für 8b
 	- [ ] whiteboard marker in der Stadt kaufen
-- [x] Bier trinken
 - [ ] für Schule packen 
-- [x] Balkon gießen
 - [ ] spazieren 
 - [ ] nochmal black waltz %% fold %%
 - [ ] Papierkram  %% fold %%
@@ -347,11 +351,9 @@
 - [ ] Materialliste 5er anschauen
 - [ ] etwas mit weißen Bohnen kochen 
 - [ ] konto checken 
-- [x] sofa decken richten
 - [ ] schuhe kaufen
 	- [ ] Laufschuhe 
 	- [ ] Wanderschuhe 
-- [x] laufen gehen
 - [ ] Tisch aufräumen  %% fold %%
 - [x] Tisch und Tastatur wischen  %% fold %%
 - [ ] black waltz  %% fold %%
