@@ -300,9 +300,13 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
+- [ ] mac Tastatur
+	- [ ] neue Tasten für mac bestellen %% fold %%
+	- [ ] selbst reparieren
 - [ ] Mathe 5a 
 	- [ ] Seite 8 im Buch machen
 	- [ ] montesorri arbeitsblatt 22 mal kopieren
+	- [ ] grundrechenarten ohne balken 22 mal kopieren
 - [ ] Erklärung dezimal zu bruch Zeilennummern und Aufzählung nummerieren
 - [ ] schul.cloud einladen 
 	- [ ] Hana
@@ -333,7 +337,7 @@
 - [ ] Übungsaufgaben  %% fold %%
 	- [ ] dreisatz %% fold %%
 	- [ ] prozentrechnung
-	- [ ] neues Thema - Lineare Gleichungen /ungleichungen
+	- [ ] neues Thema - Lineare Gleichungen /ungleichungen %% fold %%
 		- [ ] Terme mit Klammern
 - [ ] kühlschrank putzen
 - [ ] Schlauchpflanze wieder in die Küche 
@@ -364,7 +368,7 @@
 - [ ] interimsgebäude testen über beamer am Laptop mit Xournal zu schreiben
 - [ ] Alufolie entfernen?
 - [ ] Materialliste 5er anschauen
-- [ ] etwas mit weißen Bohnen kochen 
+- [x] etwas mit weißen Bohnen kochen ✅ 2026-08-25
 - [ ] konto checken 
 - [ ] schuhe kaufen
 	- [ ] Laufschuhe 
@@ -377,13 +381,11 @@
 - [ ] heroes to us %% fold %%
 - [ ] mich um pc kümmern  %% fold %%
 - [ ] apfelschneider schärfen dass er gerade schneidet %% fold %%
-- [ ] mac Tastatur  %% fold %%
-	- [ ] neue Tasten für mac bestellen %% fold %%
-	- [ ] selbst reparieren  %% fold %%
+  %% fold %%
 - [ ] Display Schutz Hülle 
-- [ ] Reformer board testen
+- [ ] Reformer board testen %% fold %%
 - [ ] Kostenvorschlag einreichen  %% fold %%
-- für Unterrichtsstörer  %% fold %%
+- für Unterrichtsstörer
 	- euch steht frei den Unterricht zu verlassen  %% fold %%
 	- ich bin euch persönlich nicht böse 
 	- ich verstehe wenn man keine Lust hat und sich nicht konzentrieren kann
@@ -912,7 +914,7 @@
 	- [ ] welche weiteren Mittel gibt es
 
 - [ ] Kehrblech für Balkon kaufen  %% fold %%
-- [x] thunderbolt ex4 Anschluss prüfen %% fold %%
+- [x] thunderbolt ex4 Anschluss prüfen
 	- [x] testweise usb e1234 ausschalten  %% fold %%
 		- [x] ausschalten ohne power trennung nach ausschaltung ⟹ Bildschirm geht trotzdem
 		      ⤷ Grund für die fehlkommunikation? also geht es auch ohne USB bzw. ist der vielleicht nicht angeschlossen?
@@ -1072,7 +1074,7 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 	- [x] den am Drucker lochen und einheften
 - [x] Papier Müll 
   %% fold %%
-  - proposal %% fold %%
+  - proposal
 	- [ ] Verhalten der 1:3 und 1:5 simulationen anschauen...
 	- [ ] was zu PE schreiben
 		- [ ] leichte erhöhung -> stable und connected
