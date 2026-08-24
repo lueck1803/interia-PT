@@ -301,7 +301,9 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [x] kaffeemaschine entkalken
-- [ ] Mathe 5a Seite 8 im Buch machen
+- [ ] Mathe 5a 
+	- [ ] Seite 8 im Buch machen
+	- [ ] montesorri arbeitsblatt 22 mal kopieren
 - [ ] Erklärung dezimal zu bruch Zeilennummern und Aufzählung nummerieren
 - [ ] schul.cloud einladen 
 	- [ ] Hana
