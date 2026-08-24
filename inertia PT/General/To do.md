@@ -326,7 +326,7 @@
 	- [x] p 10a
 	- [x] E 5b
 - [ ] Handout Brüche fertig machen
-- [ ] Übungsaufgaben 
+- [ ] Übungsaufgaben  %% fold %%
 	- [ ] dreisatz
 	- [ ] prozentrechnung
 	- [ ] neues Thema - Lineare Gleichungen /ungleichungen
