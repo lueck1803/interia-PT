@@ -301,6 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] kaffeemaschine entkalken
+- [ ] Erklärung 
 - [ ] schul.cloud einladen 
 	- [ ] Hana
 	- [ ] xenia
