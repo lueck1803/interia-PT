@@ -300,8 +300,10 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
+- [ ] Stadt
+	- [ ] Abzieher für 8b
+	- [ ] whiteboard marker in der Stadt kaufen
 - [ ] kaffeemaschine entkalken
-- [ ] matheblatt 2c) korrigieren und wie mache ich das grafisch 
 - [ ] Duolingo 
 - [ ] Physikblatt Seite 1+2 nochmal kopieren 
 - [ ] Schlauchpflanze wieder in die Küche 
@@ -317,11 +319,11 @@
 	- [x] Sprachaufzeichnung  %% fold %%
 	- [ ] noch dazu vermerken, dass ich ihn angesprochen hatte zu Beginn des Unterrichts dass er im Treppenhaus herunter gespuckt hat, während ich mit den anderen Kindern die Treppe hoch kam. Da habe ich ihn vorsichtig gefragt ob er es war %% fold %%
 	- [ ] das hat er geleugnet 
-- [x] schul.cloud erstellen für %% fold %%
-	- [x] elias
+- [x] schul.cloud erstellen für
+	- [x] elias ✅
 	- [x] Samiha ✅
 	- [x] Lina
-- [ ] Ein je ein Heft für den WPK mitnehmen und vorher das Adressfeld entfernen %% fold %%
+- [x] Ein je ein Heft für den WPK mitnehmen und vorher das Adressfeld entfernen %% fold %%
 	- [x] Physik Journal 
 		- [x] hier schauen, ob ich doppelte exemplare habe
 	- [x] BUND Heft
@@ -332,7 +334,6 @@
 - [ ] interimsgebäude testen über beamer am Laptop mit Xournal zu schreiben
 - [ ] Alufolie entfernen?
 - [ ] Materialliste 5er anschauen
-- [ ] whiteboard marker in der Stadt kaufen
 - [ ] kühlschrank putzen
 - [ ] etwas mit weißen Bohnen kochen 
 - [ ] konto checken 
