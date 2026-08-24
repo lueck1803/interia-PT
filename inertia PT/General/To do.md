@@ -326,6 +326,7 @@
 - [ ] Stadt
 	- [ ] Abzieher für 8b
 	- [ ] whiteboard marker in der Stadt kaufen
+- [ ] laufen gehen
 - [ ] für Schule packen 
 - [ ] spazieren 
 - [ ] nochmal black waltz %% fold %%
@@ -355,7 +356,6 @@
 	- [ ] Laufschuhe 
 	- [ ] Wanderschuhe 
 - [ ] Tisch aufräumen  %% fold %%
-- [x] Tisch und Tastatur wischen  %% fold %%
 - [ ] black waltz  %% fold %%
 - [ ] Gitarre stimmen  %% fold %%
 	- [ ] ich  hab das Stimmgerät am podGo auf coarse gestellt, das ist viel angenehmer xD %% fold %%
@@ -562,8 +562,7 @@
 	- [ ] dreisatz aufgaben
 	- [ ] prozentrechnung
 	- [ ] Einheiten umrechnen
-- [ ] Spülmaschine ausräumen 
-- [ ] preset leadout einstellen 
+- [ ] preset leadout einstellen  %% fold %%
 - [ ] Arbeitsblatt Physik zusammenstellen  %% fold %%
 	- [ ] darauf erklärung eines Vektors
 	- [ ] koordinatensystem
@@ -599,14 +598,10 @@
 - ich muss kleiner schreiben an der Tafel 
 	- [ ] <font color="#c00000">üben</font> 
 - [ ] fotos vom Tafelbild nutzen für handout
-- [ ] Kornellkirschen in einen Topf
-- [ ] boden wischen 
 - [ ] board ausprobieren
 	- [ ] beim board ausprobieren die Expander anzubringen 
 - [ ] wie funktioniert das mit #task richtig?
 - [ ] tipler srt
-- [ ] Schulportal Kalender sync?
-- [ ] Schulportal app genauer anschauen
 - [ ] in Schulbuch der Klasse 5 schauen
 - [ ] Muskateller Salbei Samen abtrennen und in eine Dose 
 - [ ] <font color="#48d1cc">Aufgaben aus dem Buch zusammenstellen</font> für 5a zusammenstellen 
@@ -667,7 +662,7 @@
 - [ ] laufen gehen
 - [ ] krafttraining %% fold %%
 - [ ] bauchmuskel %% fold %%
-- [ ] yoga
+- [ ] yoga %% fold %%
 - [ ] fidget toys in lisas Klassen raum %% fold %%
 - [ ] Maulwurf - bass %% fold %%
 	- [ ] gurt anbringen  %% fold %%
