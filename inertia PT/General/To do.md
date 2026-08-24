@@ -307,7 +307,8 @@
 	- [ ] zaynaba
 	- [ ] ümmü
 	- [ ] salma Bashir adnan
-	- [ ] daria michalewi
+	- [ ] daria michalewicz
+	- [ ] pavlo palamarchuk
 - [ ] Duolingo
 	- draußen
 - [ ] Spülmaschine ausräumen 
