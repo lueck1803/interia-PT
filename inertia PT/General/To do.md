@@ -311,7 +311,7 @@
 	- [ ] daria michalewicz
 	- [ ] pavlo palamarchuk
 	- [ ] sara bouhout
-- [ ] Duolingo
+- [x] Duolingo
 	- draußen
 - [ ] Spülmaschine ausräumen 
 - [ ] kursmappe
