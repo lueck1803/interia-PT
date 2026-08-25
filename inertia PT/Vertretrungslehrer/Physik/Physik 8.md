@@ -296,7 +296,8 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 - $m=\rho \cdot V= \pu{ 7800 kg/m3 } \cdot \frac{4}{3}\pi r^{3}=\pu{ 7800 kg/m3 } \cdot \frac{4}{3}\pi(\pu{ 0.18m })^{3}$
 - $m=\pu{ 7800 kg/m3 } \cdot \pu{ 0.024m3 }=\pu{ 190kg }$
 - Druck einer Person auf den Boden $\frac{F}{A}=\frac{mg}{A}=\frac{\pu{ 60kg }\cdot \pu{ 9.81m/s2 }}{\pu{ 0,050m2 }}=\pu{ 12\cdot 10^{3} N/m2 }$
-- 
+- Berechnen wir jetzt, wie der Druck in einer Flüssigkeit mit homogener Dichte in Abhängigkeit der Tiefe schwankt. Betrachten wir einen Punkt, der sich in einer Tiefe h unterhalb der Oberfläche der Flüssigkeit befindet (d. h. die Oberfläche befindet sich in einer Höhe h über diesem Punkt), wie in Abbildung 13.3 dargestellt. Der auf die Flüssigkeit zurückzuführende Druck in dieser Tiefe h hängt von der Gewichtskraft der Flüssigkeitssäule oberhalb dieser Tiefe ab. Somit ist die auf die Gewichtskraft der Flüssigkeit zurückzuführende Kraft, die auf die Fläche A wirkt, F = mg = ρAhg, wobei Ah das Volumen der Säule, ρ die Dichte der Flüssigkeit (als konstant angenommen) und g die Fallbeschleunigung ist. Dann beträgt der auf die Gewichtskraft der Flüssigkeit zurückzuführende Druck p
+- $p=\frac{F}{A}=\rho A h $
 
 ## Druck: 
 - $p=\frac{\vec{F}_{\perp}}{A}$
