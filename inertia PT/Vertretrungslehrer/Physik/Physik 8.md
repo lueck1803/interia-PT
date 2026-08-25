@@ -287,68 +287,70 @@ $$
 Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to B}$ und $\vec {F}_{B\to A}$ nicht auf denselben, sondern auf _verschiedene_ Körper. Sie heben sich also nicht gegenseitig auf.
 
 # 10er
-- Druck: 
-	- $p=\frac{\vec{F}_{\perp}}{A}$
-	- Was ist das? ⟹ wie ist der definiert?
-	- Wo taucht der auf? 
-		- Wie die Definition sagt immer wenn man Kräfte auf Oberflächen verteilt
-		- Also eigentlich überall... xD
-	- Beispiele:
-		- Hydraulic:
-			- Hebebühne
-			- Pascalsches Prinzip...
-			- $p_{\text{ein}}=p_{\text{aus}}$
-			- $\frac{F_{\text{ein}}}{A_{\text{ein}}}=\frac{F_{aus}}{A_{aus}}$
-			- ![[../../../Pasted image 20260819012216.png]]
-		- in der Mechanik im Bau oder Maschinenbau befasst man sich sehr viel mit Schubspannungen in Matrialien
-		- Eine Betondecke die über die von Stützen getragen wird.
-			- oberseite schubspannung
-			- unterseite zugspannung
-		- Alles was mit Wasser zu tun hat.
-			- Beim Tauchen - Druck steigt linear an, ist aber wirklich extrem
-			- $p(h)=p_{0}+\rho \cdot g\cdot h$
-			- Beim Bau von Staudämmen
-		- Medizin:
-			- Blutdruck
-			- Herzkreislauf
-			- ![[../../../Pasted image 20260819012752.png]]
-		- Sanitär
-			- ![[../../../Pasted image 20260819013100.png]]
-		- Atmosphäre
-			- hier handelt es sich um ein Gas, was kompressibel ist. ja.... wasser und auch stahl ist kompressibel xD... 
-			- Aber unter den natürlich auftretenden Bedingungen hat das eine klar bemerkbaren effekt: exponential funktion - barometrische höhenformel
-		- Schiffe die Schwimmen
-			- archimedisches prinzip
-			- ![[../../../Pasted image 20260819012547.png]]
-			- ![[../../../Pasted image 20260819012601.png]]
-			- ![[../../../Pasted image 20260819012618.png]]
-			- ![[../../../Pasted image 20260819012712.png]]
-		- Kommunizierende Röhren
-		- FUCKIng Vakuum Spaß xD
-			- Wie hoch kann man Wasser pumpen?
-			- Dampfdruck
-		- Druck in strömenden fluiden - warum fliegt ein flugzeug
-			- bernoulli
-			- ![[../../../Pasted image 20260819012834.png]]
-			- Druckluftschlauch und tischtennis ball
-			- Venturidüse 
-				- deo
-				- Mischer
-				- wasserstrahlpumpe
-				- Diffusionspumpe
-			- ![[../../../Pasted image 20260819013017.png]]
-			- tesla valve
-	- Messung:
-		- Barometer
-		- -> wir bauen uns einen U-rohr manometer
-		- Reifendruck
-		- ![[../../../Pasted image 20260819012303.png]]
-		- ![[../../../Pasted image 20260819012330.png]]
-	- Kapillare
-		- pflanzen
-		- Bäume mit negativen Drücken
-	- Oberflächenspannung
-		- Wasserläufer
+
+
+## Druck: 
+- $p=\frac{\vec{F}_{\perp}}{A}$
+- Was ist das? ⟹ wie ist der definiert?
+- Wo taucht der auf? 
+	- Wie die Definition sagt immer wenn man Kräfte auf Oberflächen verteilt
+	- Also eigentlich überall... xD
+- Beispiele:
+	- Hydraulic:
+		- Hebebühne
+		- Pascalsches Prinzip...
+		- $p_{\text{ein}}=p_{\text{aus}}$
+		- $\frac{F_{\text{ein}}}{A_{\text{ein}}}=\frac{F_{aus}}{A_{aus}}$
+		- ![[../../../Pasted image 20260819012216.png]]
+	- in der Mechanik im Bau oder Maschinenbau befasst man sich sehr viel mit Schubspannungen in Matrialien
+	- Eine Betondecke die über die von Stützen getragen wird.
+		- oberseite schubspannung
+		- unterseite zugspannung
+	- Alles was mit Wasser zu tun hat.
+		- Beim Tauchen - Druck steigt linear an, ist aber wirklich extrem
+		- $p(h)=p_{0}+\rho \cdot g\cdot h$
+		- Beim Bau von Staudämmen
+	- Medizin:
+		- Blutdruck
+		- Herzkreislauf
+		- ![[../../../Pasted image 20260819012752.png]]
+	- Sanitär
+		- ![[../../../Pasted image 20260819013100.png]]
+	- Atmosphäre
+		- hier handelt es sich um ein Gas, was kompressibel ist. ja.... wasser und auch stahl ist kompressibel xD... 
+		- Aber unter den natürlich auftretenden Bedingungen hat das eine klar bemerkbaren effekt: exponential funktion - barometrische höhenformel
+	- Schiffe die Schwimmen
+		- archimedisches prinzip
+		- ![[../../../Pasted image 20260819012547.png]]
+		- ![[../../../Pasted image 20260819012601.png]]
+		- ![[../../../Pasted image 20260819012618.png]]
+		- ![[../../../Pasted image 20260819012712.png]]
+	- Kommunizierende Röhren
+	- FUCKIng Vakuum Spaß xD
+		- Wie hoch kann man Wasser pumpen?
+		- Dampfdruck
+	- Druck in strömenden fluiden - warum fliegt ein flugzeug
+		- bernoulli
+		- ![[../../../Pasted image 20260819012834.png]]
+		- Druckluftschlauch und tischtennis ball
+		- Venturidüse 
+			- deo
+			- Mischer
+			- wasserstrahlpumpe
+			- Diffusionspumpe
+		- ![[../../../Pasted image 20260819013017.png]]
+		- tesla valve
+- Messung:
+	- Barometer
+	- -> wir bauen uns einen U-rohr manometer
+	- Reifendruck
+	- ![[../../../Pasted image 20260819012303.png]]
+	- ![[../../../Pasted image 20260819012330.png]]
+- Kapillare
+	- pflanzen
+	- Bäume mit negativen Drücken
+- Oberflächenspannung
+	- Wasserläufer
 # 10a
 
 # 10b
@@ -396,7 +398,7 @@ Die Amerikaner geben ihre Körpergrößen halt in foot und inch an. Da sagt man 
 	- $t_{\text{End}}=\pu{ 5h 30 min }$  %% fold %%
 - Zeitdifferenz: %% fold %%
 	- $\Delta t_{2-1}=t_2-t_{1}= \pu{ 23min } - \pu{ 5min }=\pu{ 18 min }$  %% fold %%
-	- $\Delta$ markiert eine Differenz. Gilt auch für Geschwindigkeiten
+	- $\Delta$ markiert eine Differenz. Gilt auch für Geschwindigkeiten %% fold %%
 - Momentangeschwindigkeit:
 	- $v_{1} = \pu{ 21 \frac{km}{h} }$ 
 - Durchschnittsgeschwindigkeit:
