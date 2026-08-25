@@ -330,7 +330,7 @@
 	- [ ] salma Bashir adnan
 	- [ ] daria michalewicz
 	- [ ] pavlo palamarchuk
-	- [ ] sara bouhout
+	- [x] sara bouhout
 - [x] Duolingo
 	- draußen
 - [ ] Spülmaschine ausräumen 
