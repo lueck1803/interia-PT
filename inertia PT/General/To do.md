@@ -367,7 +367,7 @@
 	- [x] Sprachaufzeichnung  %% fold %%
 	- [ ] noch dazu vermerken, dass ich ihn angesprochen hatte zu Beginn des Unterrichts dass er im Treppenhaus herunter gespuckt hat, während ich mit den anderen Kindern die Treppe hoch kam. Da habe ich ihn vorsichtig gefragt ob er es war %% fold %%
 	- [ ] das hat er geleugnet 
-- [x] schul.cloud erstellen für
+- [x] schul.cloud erstellen für %% fold %%
 	- [x] elias ✅
 	- [x] Samiha ✅
 	- [x] Lina
