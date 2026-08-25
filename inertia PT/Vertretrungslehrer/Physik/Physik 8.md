@@ -288,6 +288,7 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 
 # 10er
 - Druck: 
+	- $p=\frac{\vec{F}_{\perp}}{A}$
 	- Was ist das? ⟹ wie ist der definiert?
 	- Wo taucht der auf? 
 		- Wie die Definition sagt immer wenn man Kräfte auf Oberflächen verteilt
