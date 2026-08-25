@@ -305,7 +305,7 @@
 	- [ ] Abzieher für 8b
 	- [ ] whiteboard marker in der Stadt kaufen
 	- [ ] Saiten classic gitarre
-- [ ] gmx mail checken - Anwendungspasswort einrichten
+- [x] gmx mail checken - Anwendungspasswort einrichten
 - [x] kursmappe %% fold %%
 	- [x] m 5a %% fold %%
 	- [x] m 8a
