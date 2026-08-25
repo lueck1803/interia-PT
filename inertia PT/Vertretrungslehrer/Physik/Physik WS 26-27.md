@@ -1,3 +1,6 @@
+# to do
+- 10er 
+	- [ ] u-rohr manometer experiment. Druck in verschiedenenen Etagen berechenen
 # <font color="#8db3e2">8a</font> Lisa-Marie Rohr (roh)
 ## 2026-08-17
 - [ ] <font color="#ff69b4">Blitzlichtrunde</font> - aber selbstständig
@@ -16,7 +19,7 @@
 - Inhalt der nächsten Stunden anschreiben
 - Aufgaben aus dem Denksportphysik
 ##  2026-08-12 %% fold %%
-- da ich die klasse Dienstag schon in Mathe hatte, brauchen wir ja keine Vorstellungsrunde mehr
+- da ich die klasse Dienstag schon in Mathe hatte, brauchen wir ja keine Vorstellungsrunde mehr %% fold %%
 - Auch <font color="#ff69b4">Blitzlichtrunde</font> in Physik machen - Wer war deren Lehrer?
 
  1. Heute ist Sonnenfinsternis
