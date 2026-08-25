@@ -300,6 +300,7 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
+- [ ] dringend schauen was so verbrannt riecht 
 - [ ] mac Tastatur
 	- [ ] neue Tasten für mac bestellen %% fold %%
 	- [ ] selbst reparieren
