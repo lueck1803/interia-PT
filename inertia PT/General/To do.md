@@ -300,7 +300,17 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- [ ] gmx mail checken
+- [ ] gmx mail checken - Anwendungspasswort einrichten
+- [ ] kursmappe
+	- [x] m 5a %% fold %%
+	- [ ] m 8a
+	- [ ] m 8b
+	- [ ] p 8a 
+	- [x] p 8b
+	- [x] p 8c
+	- [x] p 10b
+	- [x] p 10a
+	- [x] E 5b
 - [ ] nudeln in den KÜhlschrank
 - [ ] dampfdruckkochtopf spülen
 - [ ] 5a
@@ -334,16 +344,7 @@
 - [x] Duolingo
 	- draußen
 - [ ] Spülmaschine ausräumen 
-- [ ] kursmappe
-	- [x] m 5a %% fold %%
-	- [ ] m 8a
-	- [ ] m 8b
-	- [ ] p 8a 
-	- [x] p 8b
-	- [x] p 8c
-	- [x] p 10b
-	- [x] p 10a
-	- [x] E 5b
+
 - [ ] Handout Brüche fertig machen %% fold %%
 - [ ] Übungsaufgaben  %% fold %%
 	- [ ] dreisatz %% fold %%
@@ -355,7 +356,7 @@
 - [ ] Glasmüll 
 - [ ] Stadt
 	- [ ] Abzieher für 8b
-	- [ ] whiteboard marker in der Stadt kaufen
+	- [ ] whiteboard marker in der Stadt kaufen %% fold %%
 - [ ] für Schule packen 
 - [ ] spazieren 
 - [ ] nochmal black waltz %% fold %%
