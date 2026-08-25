@@ -302,6 +302,7 @@
 
 - [x] Zähne putzen 
 - [ ] bett beziehen 
+- [ ] Latex dokument für Übungsblätter anlegen
 - [x] Whiteboard marker mit gelben Etiketten beschriften
 - [x] Klamotten raus legen
 - [ ] video call in schul.cloud testen 
