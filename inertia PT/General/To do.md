@@ -302,8 +302,9 @@
 
 - [x] Zähne putzen 
 - [ ] bett beziehen 
+- [ ] Whiteboard marker mit gelben Etiketten beschriften 
 - [ ] Klamotten raus legen 
-- [ ] video call in 
+- [ ] video call in schul.cloud testen 
 - [ ] Stadt
 	- [x] Abzieher für 8b
 	- [x] whiteboard marker in der Stadt kaufen
