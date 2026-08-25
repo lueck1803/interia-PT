@@ -218,7 +218,7 @@ B3Rnh@Rd
 - andrej und burak haben mich unterstützt
  %% fold %%
 - Das ist der Sitzplan.  %% fold %%
-  ![[6b-Sitzplan-Verlauf.jpg]] %% fold %%
+  ![[Soziale_Interaktion/6b-Sitzplan-Verlauf.jpg]] %% fold %%
  %% fold %%
 	Andrej und eine Person saßen auf dem Platz wo laut Sitzplan nur Yazen sitzen sollte. %% fold %%
  %% fold %%

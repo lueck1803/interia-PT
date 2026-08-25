@@ -57,7 +57,7 @@
 		- [ ] Skymap - gibts nur für Android
 		- [ ] Star Chart - Android und iOS
 	 3. dann gehen wir raus und ihr versucht mal herauszufinden in welcher Richtung die Perseiden zu finden sein werden?
-	    ![[../../Pasted image 20260811225405.png]]
+	    ![[../../../Pasted image 20260811225405.png]]
 	 4. im Süden über den Pleiaden, links vom saturn und rechts oberhalb vom mars und beitgeuze
 	 5. Rot gestrichelte LineDie Ekliptik ist die scheinbare Bahn der Sonne am Fixsternhimmel, wie sie von der Erde aus im Laufe eines Jahres gesehen wird.
 	 6. Perseus erkennt man recht gut
@@ -298,7 +298,7 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 			- Pascalsches Prinzip...
 			- $p_{\text{ein}}=p_{\text{aus}}$
 			- $\frac{F_{\text{ein}}}{A_{\text{ein}}}=\frac{F_{aus}}{A_{aus}}$
-			- ![[../../Pasted image 20260819012216.png]]
+			- ![[../../../Pasted image 20260819012216.png]]
 		- in der Mechanik im Bau oder Maschinenbau befasst man sich sehr viel mit Schubspannungen in Matrialien
 		- Eine Betondecke die über die von Stützen getragen wird.
 			- oberseite schubspannung
@@ -310,39 +310,39 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 		- Medizin:
 			- Blutdruck
 			- Herzkreislauf
-			- ![[../../Pasted image 20260819012752.png]]
+			- ![[../../../Pasted image 20260819012752.png]]
 		- Sanitär
-			- ![[../../Pasted image 20260819013100.png]]
+			- ![[../../../Pasted image 20260819013100.png]]
 		- Atmosphäre
 			- hier handelt es sich um ein Gas, was kompressibel ist. ja.... wasser und auch stahl ist kompressibel xD... 
 			- Aber unter den natürlich auftretenden Bedingungen hat das eine klar bemerkbaren effekt: exponential funktion - barometrische höhenformel
 		- Schiffe die Schwimmen
 			- archimedisches prinzip
-			- ![[../../Pasted image 20260819012547.png]]
-			- ![[../../Pasted image 20260819012601.png]]
-			- ![[../../Pasted image 20260819012618.png]]
-			- ![[../../Pasted image 20260819012712.png]]
+			- ![[../../../Pasted image 20260819012547.png]]
+			- ![[../../../Pasted image 20260819012601.png]]
+			- ![[../../../Pasted image 20260819012618.png]]
+			- ![[../../../Pasted image 20260819012712.png]]
 		- Kommunizierende Röhren
 		- FUCKIng Vakuum Spaß xD
 			- Wie hoch kann man Wasser pumpen?
 			- Dampfdruck
 		- Druck in strömenden fluiden - warum fliegt ein flugzeug
 			- bernoulli
-			- ![[../../Pasted image 20260819012834.png]]
+			- ![[../../../Pasted image 20260819012834.png]]
 			- Druckluftschlauch und tischtennis ball
 			- Venturidüse 
 				- deo
 				- Mischer
 				- wasserstrahlpumpe
 				- Diffusionspumpe
-			- ![[../../Pasted image 20260819013017.png]]
+			- ![[../../../Pasted image 20260819013017.png]]
 			- tesla valve
 	- Messung:
 		- Barometer
 		- -> wir bauen uns einen U-rohr manometer
 		- Reifendruck
-		- ![[../../Pasted image 20260819012303.png]]
-		- ![[../../Pasted image 20260819012330.png]]
+		- ![[../../../Pasted image 20260819012303.png]]
+		- ![[../../../Pasted image 20260819012330.png]]
 	- Kapillare
 		- pflanzen
 		- Bäume mit negativen Drücken
