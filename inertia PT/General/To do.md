@@ -303,7 +303,7 @@
 - [x] Zähne putzen 
 - [ ] bett beziehen 
 - [ ] Klamotten raus legen 
-- [ ] 
+- [ ] video call in 
 - [ ] Stadt
 	- [x] Abzieher für 8b
 	- [x] whiteboard marker in der Stadt kaufen
