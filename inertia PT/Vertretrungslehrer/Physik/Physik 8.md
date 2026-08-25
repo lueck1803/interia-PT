@@ -288,6 +288,12 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 
 # 10er
 
+## 2026-08-26/27
+- $\pu{ 1Pa }=\pu{ 1 N/m2 }$
+- $\pu{  1 bar} = \pu{  103 mbar} = \pu{ 100 kPa }$
+- $\pu{ 1bar }=\pu{ 1hPa }$
+- $\pu{ 1atm }=\pu{ 101325 Pa }$
+- $m=\rho \cdot V= \pu{ 7800 kg/m3 } \cdot \frac{4}{3}\pi r_{3}3$
 
 ## Druck: 
 - $p=\frac{\vec{F}_{\perp}}{A}$
