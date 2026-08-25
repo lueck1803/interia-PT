@@ -295,7 +295,7 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 - $\pu{ 1atm }=\pu{ 101325 Pa }$
 - $m=\rho \cdot V= \pu{ 7800 kg/m3 } \cdot \frac{4}{3}\pi r^{3}=\pu{ 7800 kg/m3 } \cdot \frac{4}{3}\pi(\pu{ 0.18m })^{3}$
 - $m=\pu{ 7800 kg/m3 } \cdot \pu{ 0.024m3 }=\pu{ 190kg }$
-- 
+- Druck einer Person auf den Boden 
 - 
 
 ## Druck: 
