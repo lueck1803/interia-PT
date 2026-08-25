@@ -316,6 +316,7 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 		- $p_{\text{ein}}=p_{\text{aus}}$
 		- $\frac{F_{\text{ein}}}{A_{\text{ein}}}=\frac{F_{aus}}{A_{aus}}$
 		- ![[../../../Pasted image 20260819012216.png]]
+		- ![[../../../Pasted image 20260826010231.png]]
 	- in der Mechanik im Bau oder Maschinenbau befasst man sich sehr viel mit Schubspannungen in Matrialien
 	- Eine Betondecke die über die von Stützen getragen wird.
 		- oberseite schubspannung
