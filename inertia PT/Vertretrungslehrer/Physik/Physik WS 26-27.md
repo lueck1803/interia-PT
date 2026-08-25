@@ -1,6 +1,6 @@
 # to do
 - 10er 
-	- [ ] u-rohr manometer experiment. Druck in verschiedenenen Etagen berechenen
+	- [ ] u-rohr manometer experiment. Druck in verschiedenen Etagen berechnen
 	- [ ] Vakuum experiment: Otto von Guericke, Magdeburger Halbkugeln. Muss mir ne gute Pumpe besorgen...
 # <font color="#8db3e2">8a</font> Lisa-Marie Rohr (roh)
 ## 2026-08-17
