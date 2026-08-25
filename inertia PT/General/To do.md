@@ -300,7 +300,7 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- [ ] Zähne putzen
+- [x] Zähne putzen 
 - [ ] Stadt
 	- [ ] Abzieher für 8b
 	- [ ] whiteboard marker in der Stadt kaufen
