@@ -305,6 +305,9 @@
 	- [ ] Abzieher für 8b
 	- [ ] whiteboard marker in der Stadt kaufen
 	- [ ] Saiten classic gitarre
+- [ ] Arbeitsblatt für 10te klassen
+	- [ ] mit der Erklärung und Beschreibung für Druck
+	- [ ] Denksportphysikaufgaben
 - [x] gmx mail checken - Anwendungspasswort einrichten
 - [x] kursmappe %% fold %%
 	- [x] m 5a %% fold %%
