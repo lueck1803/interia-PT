@@ -302,8 +302,8 @@
 
 - [x] Zähne putzen 
 - [ ] bett beziehen 
-- [ ] Whiteboard marker mit gelben Etiketten beschriften 
-- [ ] Klamotten raus legen 
+- [x] Whiteboard marker mit gelben Etiketten beschriften
+- [x] Klamotten raus legen
 - [ ] video call in schul.cloud testen 
 - [ ] Stadt
 	- [x] Abzieher für 8b
