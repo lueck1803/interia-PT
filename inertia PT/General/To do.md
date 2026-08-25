@@ -306,11 +306,11 @@
 	- [ ] whiteboard marker in der Stadt kaufen
 	- [ ] Saiten classic gitarre
 - [ ] gmx mail checken - Anwendungspasswort einrichten
-- [ ] kursmappe
+- [x] kursmappe %% fold %%
 	- [x] m 5a %% fold %%
-	- [ ] m 8a
-	- [ ] m 8b
-	- [ ] p 8a 
+	- [x] m 8a
+	- [x] m 8b
+	- [x] p 8a 
 	- [x] p 8b
 	- [x] p 8c
 	- [x] p 10b
@@ -352,7 +352,7 @@
 - [ ] Spülmaschine ausräumen 
 
 - [ ] Handout Brüche fertig machen %% fold %%
-- [ ] Übungsaufgaben  %% fold %%
+- [ ] Mathe 8 Übungsaufgaben  %% fold %%
 	- [ ] dreisatz %% fold %%
 	- [ ] prozentrechnung %% fold %%
 	- [ ] neues Thema - Lineare Gleichungen /ungleichungen
@@ -360,10 +360,8 @@
 - [ ] kühlschrank putzen
 - [ ] Schlauchpflanze wieder in die Küche 
 - [ ] Glasmüll 
- %% fold %%
-- [ ] für Schule packen 
 - [ ] spazieren 
-- [ ] nochmal black waltz %% fold %%
+- [ ] black waltz %% fold %%
 - [ ] Papierkram  %% fold %%
 - [ ] Akteneintrag Mathis %% fold %%
 	- [x] Sprachaufzeichnung  %% fold %%
