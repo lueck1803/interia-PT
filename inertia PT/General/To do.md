@@ -337,7 +337,7 @@
 	- [ ] grundrechenarten ohne balken 22 mal kopieren
 - [ ] Erklärung dezimal zu bruch Zeilennummern und Aufzählung nummerieren
 - [ ] schul.cloud einladen 
-	- [ ] Hana
+	- [x] Hana
 	- [ ] shanaja
 		- [ ] ihr hab ich nen account erstellt, damit kann ich mich einloggen...
 		- [ ] da ist irgendwas an ihrem handy komisch...
