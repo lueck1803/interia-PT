@@ -345,7 +345,7 @@
 - [ ] Übungsaufgaben  %% fold %%
 	- [ ] dreisatz %% fold %%
 	- [ ] prozentrechnung
-	- [ ] neues Thema - Lineare Gleichungen /ungleichungen %% fold %%
+	- [ ] neues Thema - Lineare Gleichungen /ungleichungen
 		- [ ] Terme mit Klammern
 - [ ] kühlschrank putzen
 - [ ] Schlauchpflanze wieder in die Küche 
