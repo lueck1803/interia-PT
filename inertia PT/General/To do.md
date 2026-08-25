@@ -300,6 +300,10 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
+- [ ] Zähne putzen
+- [ ] - [ ] Stadt
+	- [ ] Abzieher für 8b
+	- [ ] whiteboard marker in der Stadt kaufen
 - [ ] gmx mail checken - Anwendungspasswort einrichten
 - [ ] kursmappe
 	- [x] m 5a %% fold %%
@@ -311,15 +315,17 @@
 	- [x] p 10b
 	- [x] p 10a
 	- [x] E 5b
-- [ ] nudeln in den KÜhlschrank
+- [ ] nudeln in den Kühlschrank
 - [ ] dampfdruckkochtopf spülen
-- [ ] 5a
-	- [ ] wo ist meine Anwesenheitsliste
+- 5a
+	- [x] wo ist meine Anwesenheitsliste
 	- [ ] blatt kopieren 
 	- [ ] Mathebuch 5
 		- [ ] Sophia 
 		- [ ] espen
-	- [ ] Quentin umsetzen 
+		- hab ich beides Claudia weitergegeben
+	- [x] Quentin umsetzen 
+		- hab ich ansia weiter gegeben
 - [ ] dringend schauen was so verbrannt riecht 
 - [ ] mac Tastatur
 	- [ ] neue Tasten für mac bestellen %% fold %%
@@ -341,22 +347,19 @@
 	- [ ] daria michalewicz
 	- [ ] pavlo palamarchuk
 	- [x] sara bouhout
-- [x] Duolingo
-	- draußen
+- [ ] Duolingo
 - [ ] Spülmaschine ausräumen 
 
 - [ ] Handout Brüche fertig machen %% fold %%
 - [ ] Übungsaufgaben  %% fold %%
 	- [ ] dreisatz %% fold %%
-	- [ ] prozentrechnung
+	- [ ] prozentrechnung %% fold %%
 	- [ ] neues Thema - Lineare Gleichungen /ungleichungen
 		- [ ] Terme mit Klammern
 - [ ] kühlschrank putzen
 - [ ] Schlauchpflanze wieder in die Küche 
 - [ ] Glasmüll 
-- [ ] Stadt
-	- [ ] Abzieher für 8b
-	- [ ] whiteboard marker in der Stadt kaufen %% fold %%
+ %% fold %%
 - [ ] für Schule packen 
 - [ ] spazieren 
 - [ ] nochmal black waltz %% fold %%
