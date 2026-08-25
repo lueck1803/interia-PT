@@ -302,7 +302,8 @@
 
 - [x] Zähne putzen 
 - [ ] bett beziehen 
-- [ ] Klamotten raus
+- [ ] Klamotten raus legen 
+- [ ] 
 - [ ] Stadt
 	- [x] Abzieher für 8b
 	- [x] whiteboard marker in der Stadt kaufen
