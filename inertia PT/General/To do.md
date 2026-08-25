@@ -301,9 +301,10 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Zähne putzen
-- [ ] - [ ] Stadt
+- [ ] Stadt
 	- [ ] Abzieher für 8b
 	- [ ] whiteboard marker in der Stadt kaufen
+	- [ ] Saiten classic gitarre
 - [ ] gmx mail checken - Anwendungspasswort einrichten
 - [ ] kursmappe
 	- [x] m 5a %% fold %%
