@@ -301,9 +301,10 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [x] Zähne putzen 
+- [ ] bett beziehen 
 - [ ] Stadt
-	- [ ] Abzieher für 8b
-	- [ ] whiteboard marker in der Stadt kaufen
+	- [x] Abzieher für 8b
+	- [x] whiteboard marker in der Stadt kaufen
 	- [ ] Saiten classic gitarre
 - [ ] Arbeitsblatt für 10te klassen
 	- [ ] mit der Erklärung und Beschreibung für Druck
