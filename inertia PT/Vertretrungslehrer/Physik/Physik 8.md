@@ -293,7 +293,10 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 - $\pu{  1 bar} = \pu{  103 mbar} = \pu{ 100 kPa }$
 - $\pu{ 1bar }=\pu{ 1hPa }$
 - $\pu{ 1atm }=\pu{ 101325 Pa }$
-- $m=\rho \cdot V= \pu{ 7800 kg/m3 } \cdot \frac{4}{3}\pi r_{3}3$
+- $m=\rho \cdot V= \pu{ 7800 kg/m3 } \cdot \frac{4}{3}\pi r^{3}=\pu{ 7800 kg/m3 } \cdot \frac{4}{3}\pi(\pu{ 0.18m })^{3}$
+- $m=\pu{ 7800 kg/m3 } \cdot \pu{ 0.024m3 }=\pu{ 190kg }$
+- 
+- 
 
 ## Druck: 
 - $p=\frac{\vec{F}_{\perp}}{A}$
