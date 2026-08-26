@@ -304,11 +304,11 @@
 - [ ] sofiia ne schul Cloud Einladung schicken 
 - [ ] Mentor 
 	- [x] zettel hängt im Lehrerzimmer 
-- [ ] Montessori blatt auf Stick und kopieren 
+- [x] Montessori blatt auf Stick und kopieren 
 - [ ] Latex dokument für Übungsblätter anlegen
 - [x] Whiteboard marker mit gelben Etiketten beschriften
 - [x] Klamotten raus legen
-- [ ] Stadt
+- [ ] Stadt %% fold %%
 	- [x] Abzieher für 8b
 	- [x] whiteboard marker in der Stadt kaufen
 	- [ ] Saiten classic gitarre
@@ -316,15 +316,15 @@
 	- [ ] mit der Erklärung und Beschreibung für Druck
 	- [ ] Denksportphysikaufgaben
 - [x] gmx mail checken - Anwendungspasswort einrichten %% fold %%
-- [x] kursmappe %% fold %%
+- [x] kursmappe
 	- [x] m 5a %% fold %%
 	- [x] m 8a
 	- [x] m 8b
 	- [x] p 8a 
 	- [x] p 8b
-	- [x] p 8c
+	- [ ] p 8c
 	- [x] p 10b
-	- [x] p 10a
+	- [ ] p 10a
 	- [x] E 5b
 - [x] nudeln in den Kühlschrank
 - [ ] dampfdruckkochtopf spülen
