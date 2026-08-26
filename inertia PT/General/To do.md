@@ -305,7 +305,6 @@
 - [ ] Latex dokument für Übungsblätter anlegen
 - [x] Whiteboard marker mit gelben Etiketten beschriften
 - [x] Klamotten raus legen
-- [ ] video call in schul.cloud testen 
 - [ ] Stadt
 	- [x] Abzieher für 8b
 	- [x] whiteboard marker in der Stadt kaufen
@@ -313,7 +312,7 @@
 - [ ] Arbeitsblatt für 10te klassen
 	- [ ] mit der Erklärung und Beschreibung für Druck
 	- [ ] Denksportphysikaufgaben
-- [x] gmx mail checken - Anwendungspasswort einrichten
+- [x] gmx mail checken - Anwendungspasswort einrichten %% fold %%
 - [x] kursmappe %% fold %%
 	- [x] m 5a %% fold %%
 	- [x] m 8a
