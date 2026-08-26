@@ -308,7 +308,7 @@
 - [ ] Latex dokument für Übungsblätter anlegen
 - [x] Whiteboard marker mit gelben Etiketten beschriften
 - [x] Klamotten raus legen %% fold %%
-- [ ] Stadt %% fold %%
+- [ ] Stadt
 	- [x] Abzieher für 8b
 	- [x] whiteboard marker in der Stadt kaufen
 	- [ ] Saiten classic gitarre
