@@ -2520,6 +2520,17 @@ Das ist eine Pausenaufsicht zwischen der 4/5 Stunde auf dem Hofbereich 3.
 
 
 # Abschluss 10
+
+## Infos
+Hi, ich habe heute mit Frau Einicke gesprochen und sie hat mir genau das gesagt, was ich dir auch schon empfohlen hatte. 
+
+Überlegt euch eine möglichst konkrete Fragestellung und versucht diese in den 10 min so gut wie möglich zu beantworten. 
+
+Das macht sehr viel aus, denn Eure Bewertung setzt sich aus: - Inhalt - Mediennutzung: mindestens zwei, Eine davon ist der Folienvortrag. Ein weiteres Medium können mitgebrachte Gegenstände sein 
+
+-Euer Auftreten. 
+
+Wenn ihr ne gute Fragestellung habt, diese über den Vortrag in einem roten Faden beantwortet, dann, ist auch automatisch euer Auftreten gut.
 ## Elias Jung 
 ### Kontakt
 Eliasjungberger@icloud.com
