@@ -2,7 +2,7 @@
 - 10er 
 	- [ ] u-rohr manometer experiment. Druck in verschiedenen Etagen berechnen
 	- [ ] Vakuum experiment: Otto von Guericke, Magdeburger Halbkugeln. Muss mir ne gute Pumpe besorgen...
-# <font color="#8db3e2">8a</font> Lisa-Marie Rohr (roh)
+# <font color="#8db3e2">8a</font> Lisa-Marie Rohr (roh) %% fold %%
 ## 2026-08-17
 - [ ] <font color="#ff69b4">Blitzlichtrunde</font> - aber selbstständig
 - [ ] Fahrplan bis Herbstferien
@@ -365,7 +365,7 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 	- -> wir bauen uns einen U-rohr manometer
 	- Reifendruck
 	- ![[../../../Pasted image 20260819012303.png]]
-	- ![[../../../Pasted image 20260819012330.png]]
+	- ![[../../../Pasted image 20260819012330.png]] %% fold %%
 - Kapillare
 	- pflanzen
 	- Bäume mit negativen Drücken
