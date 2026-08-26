@@ -318,7 +318,7 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 		- $\frac{F_{\text{ein}}}{A_{\text{ein}}}=\frac{F_{aus}}{A_{aus}}$
 		- ![[../../../Pasted image 20260819012216.png]]
 		- ![[../../../Pasted image 20260826010231.png]]
-		- ![[../../../Pasted image 20260826010249.png]]
+		- ![[../../../Pasted image 20260826010249.png]] %% fold %%
 		- ![[../../../Pasted image 20260826010303.png]]
 		- ![[../../../Pasted image 20260826010318.png]]
 		- ![[../../../Pasted image 20260826010356.png]]

@@ -301,6 +301,10 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] bett beziehen 
+- [ ] sofiia ne schul cloud Einladung schicken
+- [ ] Mentor 
+	- [x] zettel hängt im Lehrerzimmer
+- [x] Montessori blatt auf Stick und kopieren 
 - [ ] Latex dokument für Übungsblätter anlegen
 - [x] Whiteboard marker mit gelben Etiketten beschriften
 - [x] Klamotten raus legen
