@@ -303,7 +303,7 @@
 - [ ] bett beziehen 
 - [ ] Bohrmaschine absaugen, griff so anbringen dass ich ihn an der Bohrmaschine lassen kann
 - [ ] sofiia ne schul cloud Einladung schicken
-	- [ ] hab ihr erstmal empfohlen 
+	- [ ] hab ihr erstmal empfohlen das Passwort zurückzusetzen 
 - [ ] Mentor 
 	- [x] zettel hängt im Lehrerzimmer
 - [x] Montessori blatt auf Stick und kopieren  %% fold %%
