@@ -301,7 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] bett beziehen 
-- [ ] 
+- [ ] 10 b Rechenregeln Brüche anschreiben 
 - [ ] Bohrmaschine absaugen, griff so anbringen dass ich ihn an der Bohrmaschine lassen kann
 - [ ] sofiia ne schul cloud Einladung schicken
 	- [ ] hab ihr erstmal empfohlen das Passwort zurückzusetzen 
