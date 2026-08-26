@@ -303,7 +303,7 @@
 - [ ] bett beziehen 
 - [ ] sofiia ne schul Cloud Einladung schicken 
 - [ ] Mentor 
-	- [ ] zettel hängt im Lehrerzimmer 
+	- [x] zettel hängt im Lehrerzimmer 
 - [ ] Montessori blatt auf Stick und kopieren 
 - [ ] Latex dokument für Übungsblätter anlegen
 - [x] Whiteboard marker mit gelben Etiketten beschriften
