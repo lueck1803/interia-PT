@@ -300,8 +300,8 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- [x] Zähne putzen 
 - [ ] bett beziehen 
+- [ ] Montessori blatt auf Stick und kopieren 
 - [ ] Latex dokument für Übungsblätter anlegen
 - [x] Whiteboard marker mit gelben Etiketten beschriften
 - [x] Klamotten raus legen
@@ -327,7 +327,7 @@
 - [ ] dampfdruckkochtopf spülen
 - 5a
 	- [x] wo ist meine Anwesenheitsliste
-	- [ ] blatt kopieren 
+	- [x] blatt kopieren 
 	- [ ] Mathebuch 5
 		- [ ] Sophia 
 		- [ ] espen
