@@ -323,7 +323,7 @@
 	- [x] p 10b
 	- [x] p 10a
 	- [x] E 5b
-- [ ] nudeln in den Kühlschrank
+- [x] nudeln in den Kühlschrank
 - [ ] dampfdruckkochtopf spülen
 - 5a
 	- [x] wo ist meine Anwesenheitsliste
