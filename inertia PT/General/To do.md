@@ -308,14 +308,9 @@
 - [ ] Latex dokument für Übungsblätter anlegen
 - [x] Whiteboard marker mit gelben Etiketten beschriften
 - [x] Klamotten raus legen %% fold %%
-- [ ] Stadt
-	- [x] Abzieher für 8b
-	- [x] whiteboard marker in der Stadt kaufen
-	- [ ] Saiten classic gitarre
 - [ ] Arbeitsblatt für 10te klassen
 	- [ ] mit der Erklärung und Beschreibung für Druck
 	- [ ] Denksportphysikaufgaben
-- [x] gmx mail checken - Anwendungspasswort einrichten %% fold %%
 - [x] kursmappe
 	- [x] m 5a %% fold %%
 	- [x] m 8a
@@ -358,7 +353,9 @@
 	- [ ] daria michalewicz
 	- [ ] pavlo palamarchuk
 	- [x] sara bouhout
-- [ ] Duolingo
+		- [ ] ging nicht, code war nicht richtig?
+		- [ ] 
+- [ ] Duolingo %% fold %%
 - [ ] Spülmaschine ausräumen 
 
 - [ ] Handout Brüche fertig machen %% fold %%
