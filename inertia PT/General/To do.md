@@ -362,7 +362,7 @@
 - [ ] Mathe 8 Übungsaufgaben  %% fold %%
 	- [ ] dreisatz %% fold %%
 	- [ ] prozentrechnung %% fold %%
-	- [ ] neues Thema - Lineare Gleichungen /ungleichungen
+	- [ ] neues Thema - Lineare Gleichungen /ungleichungen %% fold %%
 		- [ ] Terme mit Klammern
 - [ ] kühlschrank putzen
 - [ ] Schlauchpflanze wieder in die Küche 
