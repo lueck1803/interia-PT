@@ -360,7 +360,7 @@ $$ Fragen was nicht verstanden wurde
 Tafelbild Überschrift **Zahlensysteme und Einheiten umrechnen**
 
 - natürliche, ganze zahlen, rationale und reelle zahlen 
-	- Eulerdiagramm der Teilmenge anschreiben 
+	- Eulerdiagramm der Teilmenge anschreiben  %% fold %%
 	  ![[Mathe/Eulerdiagramm-Zahlensysteme.png]]
 	- natürliche Zahlen
 		- Symbol Unterschiedliche Darstellung Handschriftlich / unicode
