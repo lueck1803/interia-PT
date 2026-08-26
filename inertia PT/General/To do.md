@@ -301,6 +301,8 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] bett beziehen 
+- [ ] Mentor 
+	- [ ] zettel hängt am 
 - [ ] Montessori blatt auf Stick und kopieren 
 - [ ] Latex dokument für Übungsblätter anlegen
 - [x] Whiteboard marker mit gelben Etiketten beschriften
