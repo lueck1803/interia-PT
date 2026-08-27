@@ -90,11 +90,15 @@ $2,56\overline{7}$ in Bruch umwandeln
 		- ⤷ Bringe $\frac{6}{18}$ und $\frac{9}{27}$ auf den gleichen Nenner
 			- da 54 an dritter Stelle der 18er Reihe steht, muss $\frac{6}{18}$ mit 3 erweitert werden 
 			  ⟹ $\frac{6}{18}\cdot \frac{3}{3}=\frac{18}{54}$
-			- da 54 an zweiter Stelle in der 27er Reihe ist, muss $\frac{9}{}$ mit 3 erweitert werden 
-			- 
+			- da 54 an zweiter Stelle in der 27er Reihe ist, muss $\frac{9}{27}$ mit 2 erweitert werden 
+			  ⟹$\frac{9}{27}\cdot \frac{2}{2}=\frac{18}{54}$
+			- Die Zahlen sind also gleich
 - ggT (<u>größter gemeinsamer Teiler</u>) 
   Verwendung: <font color="#48d1cc">Kürzen</font>
-	- 
+	- Suchen den größten Teiler der jeweiligen Zahlen, die beide gemeinsam haben
+	- Beispiel 12 und 18
+		- <u>12 hat die Teiler:</u> $1,2,3,4,6,12$
+		- <u>18 hat die Teiler:</u> $1,2,3,6,9,18$
 - <font color="#c815ff">gemischte Schreibweise</font>:
 	- $2 \frac{3}{4}$ <font color="#48d1cc">ohne Mal-Punkt</font> meint das zwei Ganze und $\frac{3}{4}$
 	- also $2+\frac{3}{4}$
