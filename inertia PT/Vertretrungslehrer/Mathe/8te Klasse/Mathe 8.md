@@ -316,6 +316,10 @@ $18, 36,{\color{orange}54},72,\dots$\\
 ⟹ $\frac{6}{18}\cdot \frac{3}{3}=\frac{18}{54}$\\
 ⟹$\frac{9}{27}\cdot \frac{2}{2}=\frac{18}{54}$\\
 
+#### e)
+$\frac{6}{18}fb$
+
+
 
 
 
