@@ -301,10 +301,11 @@ $\frac{3}{4}\fbox{>} \frac{5}{8}$
 $\frac{3}{4}=\frac{3\cdot \color{cyan}2}{4\cdot \color{cyan} 2}=\frac{6}{8}$
 
 #### c)
-$\frac{2}{3}\fbox{} \frac{6}{8}$
+$\frac{2}{3}\fbox{<} \frac{6}{8}$
 $3,6,9 ,12 ,15 ,18, 21,{\color{cyan}24},... \rightarrow 8$
 $8,16,{\color{cyan}24}, 32, ... \rightarrow 3$
-$\frac{2}{3}\fbox{} \frac{6}{8}$
+$\frac{2}{3}=\frac{2\cdot \color{cyan}8}{3\cdot \color{cyan}8}=\frac{16}{24}$
+$\frac{6}{8}=\frac{6\cdot \color{cyan}3}{8\cdot \color{cyan}3}=\frac{18}{24}$
 
 
 
