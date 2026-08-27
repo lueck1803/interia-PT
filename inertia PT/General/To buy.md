@@ -15,6 +15,7 @@
 - [ ] Äpfel
 - [ ] Bananen
 - [ ] Saft
+- [ ] Protein Zeug
 - [ ] Bier
 
 ## später mal
