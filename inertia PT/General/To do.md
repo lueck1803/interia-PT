@@ -306,6 +306,11 @@
 - [ ] Krafttraining 
 - [ ] Pilze waschen 
 - [ ] Äpfel waschen 
+- [ ] Vorratsschrank 
+	- [ ] t Fisch
+	- [ ] 2 fuss
+	- [ ] 2 torg
+	- [ ] 4 Nudelsoßen 
 - [ ] Duolingo %% fold %%
 - [ ] Spülmaschine ausräumen 
 - [ ] gießen
