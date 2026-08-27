@@ -302,6 +302,7 @@
 
 - [ ] Tastatur wischen
 - [ ] gießen
+- [ ] wetterstation batterien wechseln
 - [ ] rasieren
 - [ ] Aldi
 	- [ ] pizza
