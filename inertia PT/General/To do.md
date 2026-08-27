@@ -301,6 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] gibt es andere listen in denen das feld größer ist?
+- [ ] Krafttraining 
 - [ ] Duolingo %% fold %%
 - [ ] Spülmaschine ausräumen 
 	- [ ] erste Spalte nehme ich zur Anwesenheit
