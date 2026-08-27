@@ -12,11 +12,13 @@
 - Einkaufswagen 
 - [ ] Nudelsoßen
 - [ ] Pizza
-- [ ] Äpfel
-- [ ] Bananen
+- [x] Äpfel
+- [x] Bananen
 - [ ] Saft
 - [ ] Protein Zeug
 - [ ] Bier
+- [x] pilze
+- [x] Birnen 
 
 ## später mal
 - [ ] white board marker
