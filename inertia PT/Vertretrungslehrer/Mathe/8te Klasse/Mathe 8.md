@@ -311,14 +311,10 @@ $\frac{6}{8}=\frac{6\cdot \color{cyan}3}{8\cdot \color{cyan}3}=\frac{18}{24}$
 
 #### d)
 $\frac{9}{27}\fbox{}\frac{3}{18}$\\
-$18, 36,{\color{orange}54},72,\dots$
- $27,{\color{orange} 54 },81,...$ 
-		- das <u>kgV</u> ist demnach ${\color{orange}54}$
-		- ⤷ Bringe $\frac{6}{18}$ und $\frac{9}{27}$ auf den gleichen Nenner
-			- da 54 an dritter Stelle der 18er Reihe steht, muss $\frac{6}{18}$ mit 3 erweitert werden 
-			  ⟹ $\frac{6}{18}\cdot \frac{3}{3}=\frac{18}{54}$
-			- da 54 an zweiter Stelle in der 27er Reihe ist, muss $\frac{9}{27}$ mit 2 erweitert werden 
-			  ⟹$\frac{9}{27}\cdot \frac{2}{2}=\frac{18}{54}$
+$18, 36,{\color{orange}54},72,\dots$\\
+ $27,{\color{orange} 54 },81,...$  \\
+⟹ $\frac{6}{18}\cdot \frac{3}{3}=\frac{18}{54}$\\
+⟹$\frac{9}{27}\cdot \frac{2}{2}=\frac{18}{54}$\\
 
 
 
