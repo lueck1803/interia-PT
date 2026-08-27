@@ -11,7 +11,7 @@
 ## Jetzt
 - Einkaufswagen 
 - [x] Nudelsoßen
-- [ ] nudeln
+- [x] nudeln
 - [ ] Pizza
 - [x] Äpfel
 - [x] Bananen
