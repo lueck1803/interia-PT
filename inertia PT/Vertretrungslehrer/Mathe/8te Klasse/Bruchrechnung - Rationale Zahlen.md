@@ -97,8 +97,10 @@ $2,56\overline{7}$ in Bruch umwandeln
   Verwendung: <font color="#48d1cc">Kürzen</font>
 	- Suchen den größten Teiler der jeweiligen Zahlen, die beide gemeinsam haben
 	- Beispiel 12 und 18
-		- <u>12 hat die Teiler:</u> $1,2,3,4,6,12$
-		- <u>18 hat die Teiler:</u> $1,2,3,6,9,18$
+		- <u>12 hat die Teiler:</u> $1,2,3,4,{\color{cyan}6},12$
+		- <u>18 hat die Teiler:</u> $1,2,3,{\color{cyan}6},9,18$
+		- Der größte gemeinsame Teile ist $\color{cyan}6$ 
+		- Der Bruch $\frac{12}{18}$ lässt sich also $\frac{12}{18}=\frac{2\cdot \cancel{ 6 }}{3\cdot \cancel{ 6 }}=\frac{2}{3}$
 - <font color="#c815ff">gemischte Schreibweise</font>:
 	- $2 \frac{3}{4}$ <font color="#48d1cc">ohne Mal-Punkt</font> meint das zwei Ganze und $\frac{3}{4}$
 	- also $2+\frac{3}{4}$
