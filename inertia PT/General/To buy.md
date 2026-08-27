@@ -17,7 +17,7 @@
 - [x] Bananen
 - [ ] Saft
 - [ ] Protein Zeug
-- [ ] Bier
+- [x] Bier
 - [x] pilze
 - [x] Birnen 
 
