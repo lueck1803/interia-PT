@@ -303,6 +303,9 @@
 - [ ] Tastatur wischen
 - [ ] gießen
 - [ ] wetterstation batterien wechseln
+- [ ] zähne putzen 
+- [ ] gesicht waschen
+- [ ] black waltz
 - [ ] rasieren
 - [ ] Aldi
 	- [ ] pizza
