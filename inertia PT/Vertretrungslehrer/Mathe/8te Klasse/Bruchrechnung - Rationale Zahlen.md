@@ -82,7 +82,7 @@ $2,56\overline{7}$ in Bruch umwandeln
 		- <u>3:</u> $3, 6,{\color{orange}12},15,18,21 ,{\color{orange}24},27, 30, \dots$
 		- <u>4:</u> $4,8,{\color{orange}12},16,20,{\color{orange}24},28,32,\dots$
 		- das <u>kgV</u> ist demnach ${\color{orange}12}$
-		- $RNG$
+		- 
 - ggT (<u>größter gemeinsamer Teiler</u>) beim <font color="#48d1cc">Kürzen</font>
 - <font color="#c815ff">gemischte Schreibweise</font>:
 	- $2 \frac{3}{4}$ <font color="#48d1cc">ohne Mal-Punkt</font> meint das zwei Ganze und $\frac{3}{4}$
