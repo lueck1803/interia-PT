@@ -321,6 +321,18 @@ $\frac{6}{18}\fbox{=} \frac{9}{27}$
 $\frac{6}{18}=\frac{6\cdot \color{cyan}3}{18\cdot \color{cyan} 3}=\frac{18}{54}$
 $\frac{9}{27}=\frac{9\cdot \color{cyan}2}{27\cdot \color{cyan}2}=\frac{18}{54}$
 
+#### f)
+$-\frac{11}{12}\fbox{>} -\frac{34}{36}$
+$-\frac{11}{12}=\frac{11\cdot \color{cyan}3}{12 \cdot \color{cyan}3}=-\frac{33}{36}$
+
+#### g)
+$\frac{4}{9}\fbox{} \frac{5}{11}$
+$9,18,21,27,36,45,54,63,72,81,90,{\color{cyan}99},...$
+$11\cdot 9=99$
+$\frac{4}{9}=\frac{4\cdot \color{cyan}11}{9\cdot \color{cyan} 11}= \frac{44}{99}$
+$\frac{5}{11}=\frac{8\cdot9}{11\cdot 9}$
+
+
 
 
 
