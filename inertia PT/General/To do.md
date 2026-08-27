@@ -301,6 +301,10 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Tastatur wischen
+- [ ] Mathe handout
+	- [ ] Beispiel für
+		- [ ] kleinstes gemeinsames Vielfaches
+		- [ ] größter gemeinsamer Teiler
 - [ ] bett beziehen 
 - [ ] neues Thema in Mathe beginnen 
 - [ ] xenia als Hausaufgabe die Rechenaufgaben fertig machen 
