@@ -301,6 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] bett beziehen 
+- [ ] gibt es andere listen in denen das 
 - [ ] beim 10te klasse blatt Aufgabe A) in erster Zeile wegmachen 
 - [ ] 10 b Rechenregeln Brüche anschreiben 
 - [ ] Bohrmaschine absaugen, griff so anbringen dass ich ihn an der Bohrmaschine lassen kann
