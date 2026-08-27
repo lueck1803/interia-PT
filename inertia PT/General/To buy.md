@@ -10,7 +10,8 @@
 # Aldi
 ## Jetzt
 - Einkaufswagen 
-- [ ] Nudelsoßen
+- [x] Nudelsoßen
+- [ ] nudeln
 - [ ] Pizza
 - [x] Äpfel
 - [x] Bananen
