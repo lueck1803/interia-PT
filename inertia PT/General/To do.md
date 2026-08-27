@@ -304,6 +304,8 @@
 	- [ ] erste Spalte nehme ich zur Anwesenheit
 	- [ ] zweite Spalte nehme ich als mitarbeit
 - [ ] Krafttraining 
+- [ ] Pilze waschen 
+- [ ] Äpfel waschen 
 - [ ] Duolingo %% fold %%
 - [ ] Spülmaschine ausräumen 
 - [ ] gießen
