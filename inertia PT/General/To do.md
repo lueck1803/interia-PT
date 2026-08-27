@@ -301,10 +301,14 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Tastatur wischen
+- [ ] Mutter von Mathis schreiben
+	- [ ] ADHS Hilfe Deutschland
+	- [ ] dann später den Kostenvoranschlag
 - [ ] Mathe handout
 	- [ ] Beispiel für
 		- [ ] kleinstes gemeinsames Vielfaches
 		- [ ] größter gemeinsamer Teiler
+	- [ ] kleinstes gemeinsames Vielfaches von zahlen der gleichen Reihe? kürzen?
 - [ ] bett beziehen 
 - [ ] neues Thema in Mathe beginnen 
 - [ ] xenia als Hausaufgabe die Rechenaufgaben fertig machen 

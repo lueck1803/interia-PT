@@ -77,6 +77,8 @@ $2,56\overline{7}$ in Bruch umwandeln
 - Addition $\frac{a}{\textcolor{orange}{b}} + \frac{c}{\textcolor{cyan}{d}}= \frac{a}{\textcolor{orange}{b}}\cdot \frac{\textcolor{cyan}{d}}{\textcolor{cyan}{d}}+ \frac{c}{\textcolor{cyan}{d}}\cdot\frac{\textcolor{orange}{b}}{\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}}{\textcolor{orange}{b}\textcolor{cyan}{d}}+ \frac{c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}+c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}$ 
 - Subtraktion $\frac{a}{\textcolor{orange}{b}} - \frac{c}{\textcolor{cyan}{d}}= \frac{a}{\textcolor{orange}{b}}\cdot \frac{\textcolor{cyan}{d}}{\textcolor{cyan}{d}}- \frac{c}{\textcolor{cyan}{d}}\cdot\frac{\textcolor{orange}{b}}{\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}}{\textcolor{orange}{b}\textcolor{cyan}{d}}- \frac{c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}-c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}$ 
 - kgV (<u>kleinstes gemeinsames Vielfaches</u>) beim <font color="#ff6e6e">Hauptnenner</font> bilden
+	- Suche die kleinste Zahl die in beiden *1x1-Reihen* vorkommt
+	- Beispiel 
 - ggT (<u>größter gemeinsamer Teiler</u>) beim <font color="#48d1cc">Kürzen</font>
 - <font color="#c815ff">gemischte Schreibweise</font>:
 	- $2 \frac{3}{4}$ <font color="#48d1cc">ohne Mal-Punkt</font> meint das zwei Ganze und $\frac{3}{4}$
