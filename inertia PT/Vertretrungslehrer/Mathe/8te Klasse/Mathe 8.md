@@ -334,8 +334,9 @@ $\frac{5}{11}=\frac{8\cdot \color{cyan}9}{11\cdot \color{cyan} 9}=\frac{72}{99}$
 
 #### h)
 $-\frac{3}{2}\fbox{} -\frac{18}{7}$\\
-$2,4,6,8,10,12,{14},...$
-
+$2,4,6,8,10,12,{\color{cyan}14},...$\\
+$-\frac{3}{2}=-\frac{3\cdot \color{cyan}7}{2\cdot \color{cyan}7}=-\frac{21}{14}$\\
+$-\frac{18}{7}=-\frac{18\cdot \color{cyan} 2}{7\cdot \color{cyan}2}=-\frac{36}{14}$
 
 
 
