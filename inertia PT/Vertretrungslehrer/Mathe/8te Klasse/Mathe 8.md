@@ -327,10 +327,15 @@ $-\frac{11}{12}=\frac{11\cdot \color{cyan}3}{12 \cdot \color{cyan}3}=-\frac{33}{
 
 #### g)
 $\frac{4}{9}\fbox{} \frac{5}{11}$
-$9,18,21,27,36,45,54,63,72,81,90,{\color{cyan}99},...$
-$11\cdot 9=99$
-$\frac{4}{9}=\frac{4\cdot \color{cyan}11}{9\cdot \color{cyan} 11}= \frac{44}{99}$
-$\frac{5}{11}=\frac{8\cdot9}{11\cdot 9}$
+$9,18,21,27,36,45,54,63,72,81,90,{\color{cyan}99},...$\\
+$11\cdot 9=99$\\
+$\frac{4}{9}=\frac{4\cdot \color{cyan}11}{9\cdot \color{cyan} 11}= \frac{44}{99}$\\
+$\frac{5}{11}=\frac{8\cdot \color{cyan}9}{11\cdot \color{cyan} 9}=\frac{72}{99}$\\
+
+#### h)
+$-\frac{3}{2}\fbox{} -\frac{18}{7}$\\
+$2,4,6,8,10,12,{14},...$
+
 
 
 
