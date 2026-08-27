@@ -100,7 +100,27 @@ $2,56\overline{7}$ in Bruch umwandeln
 		- <u>12 hat die Teiler:</u> $1,2,3,4,{\color{cyan}6},12$
 		- <u>18 hat die Teiler:</u> $1,2,3,{\color{cyan}6},9,18$
 		- Der größte gemeinsame Teile ist $\color{cyan}6$ 
-		- Der Bruch $\frac{12}{18}$ lässt sich also $\frac{12}{18}=\frac{2\cdot \cancel{ 6 }}{3\cdot \cancel{ 6 }}=\frac{2}{3}$
+		- Der Bruch $\frac{12}{18}$ lässt sich also durch herausziehen des Teilers $\color{cyan}6$ zu $\frac{12}{18}=\frac{2\cdot \cancel{ {\color{cyan}6} }}{3\cdot \cancel{ \color{cyan}6 }}=\frac{2}{3}$ kürzen
 - <font color="#c815ff">gemischte Schreibweise</font>:
 	- $2 \frac{3}{4}$ <font color="#48d1cc">ohne Mal-Punkt</font> meint das zwei Ganze und $\frac{3}{4}$
 	- also $2+\frac{3}{4}$
+
+## Dezimalzahl mit Periode in Brüche umrechnen
+wir wollen die Periode loswerden 
+1. ⤷das gelingt uns durch Subtraktion der Periode. 
+	- Wir müssen also $\pu{ 0,9999\dots }$,  $\pu{ 0,8888\dots }$,  $\pu{ 0,007777\dots }$ oder $\pu{ 0,06666\dots }$ abziehen
+2. dazu nehmen wir die Zahl und <font color="#ffd700">verschieben</font> sie <font color="#ffd700">um so viele Kommastellen</font>, dass die Zahl die sich wiederholt vor dem Komma beginnt. In dem wir sie mit der entsprechenden Zehnerpotenz multiplizieren also: $10^{1}=10, 10^{2}=100, 10^{3}=1000, \dots$
+3. Dazu machen wir erstmal etwas ungewöhnliches. Wir <font color="#ffd700">weisen die Zahl </font>die wir umwandeln wollen <font color="#ffd700">einer Variablen zu</font>, um im nächsten Schritt eine Zahl zu bekommen, die wir um die Kommastellen verschoben haben:
+	- Bei $0,\bar{8}$ bedeutet das also:
+	- $\mathrm{I}\quad {\color{red}x=}\pu{ 0,8888\dots }$ das $\mathrm{I}$ benennt dabei nur diese Zuweisung
+4. Jetzt verschieben wir das Komma und erzeugen uns dadurch eine zweite Gleichung:
+	- hier müssen wir mit 10 multiplizieren, um den Anfang der Periode vor das Komma zu ziehen.
+	- $\mathrm{II}\quad {\color{red}10}x=\pu{ {\color{red}{8,}} 8888\dots }$
+5. Dann <font color="#ffd700">ziehen</font> wir Gleichung $\mathrm{I}$ von Gleichung $\mathrm{II}$ <font color="#ffd700">ab</font>. Dadurch <font color="#ff6e6e">fällt</font> <font color="#ffd700">die Periode weg</font> und wir müssen nur noch nach $x$ auflösen:
+	- $\mathrm{II}-\mathrm{I}$:
+	- $\mathrm{II}-\mathrm{I}\quad 10x-x = \pu{ 8,8888\dots }- \pu{ 0,8888\dots }$
+	- $\mathrm{II}-\mathrm{I}\quad 9x = \pu{ 8 }$
+6. Wir lösen jetzt noch nach $x$ auf:
+	- $\mathrm{II}-\mathrm{I}\quad 9x=\pu{8} \quad \left|\;:9\right.$
+	- $x= \frac{8}{9}$
+- Und wir sind fertig.
