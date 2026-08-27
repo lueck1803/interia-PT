@@ -301,6 +301,8 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] gibt es andere listen in denen das feld größer ist?
+	- [ ] erste Spalte nehme ich zur Anwesenheit
+	- [ ] zweite Spalte nehme ich als mitarbeit
 - [x] Tastatur wischen
 - [ ] gießen
 - [x] wetterstation batterien wechseln
