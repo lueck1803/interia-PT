@@ -297,7 +297,13 @@ $\frac{3}{5}\;\fbox{<}\;\frac{2}{3}$
 $\frac{3}{5}=\frac{3\cdot {\color{cyan}3}}{5 \cdot {\color{cyan}3}}=\frac{9}{15}$
 $\frac{2}{3}=\frac{2\cdot {\color{cyan}5}}{3 \cdot {\color{cyan}5}}=\frac{10}{15}$
 #### b)
-$\frac{3}{4}\;6 58$
+$\frac{3}{4}\fbox{>} \frac{5}{8}$
+$\frac{3}{4}=\frac{3\cdot \color{cyan}2}{4\cdot \color{cyan} 2}=\frac{6}{8}$
+
+#### c)
+
+
+
 a) $\frac{3}{5}+\frac{5}{4}=\frac{37}{20}=\pu{ 1.85 }$ 
 b) $\frac{8}{3}-\frac{7}{2}+\frac{13}{5}=\frac{53}{30}=\pu{ 1.7\overline{6}}$
 c) $\frac{24}{40}-\frac{33}{9}+\frac{28}{15}=-\frac{6}{5}=\pu{ -1.2 }$
