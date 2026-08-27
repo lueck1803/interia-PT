@@ -76,95 +76,51 @@ $2,56\overline{7}$ in Bruch umwandeln
 		- ⤷ also den Bruch herum drehen
 - Addition $\frac{a}{\textcolor{orange}{b}} + \frac{c}{\textcolor{cyan}{d}}= \frac{a}{\textcolor{orange}{b}}\cdot \frac{\textcolor{cyan}{d}}{\textcolor{cyan}{d}}+ \frac{c}{\textcolor{cyan}{d}}\cdot\frac{\textcolor{orange}{b}}{\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}}{\textcolor{orange}{b}\textcolor{cyan}{d}}+ \frac{c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}+c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}$ 
 - Subtraktion $\frac{a}{\textcolor{orange}{b}} - \frac{c}{\textcolor{cyan}{d}}= \frac{a}{\textcolor{orange}{b}}\cdot \frac{\textcolor{cyan}{d}}{\textcolor{cyan}{d}}- \frac{c}{\textcolor{cyan}{d}}\cdot\frac{\textcolor{orange}{b}}{\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}}{\textcolor{orange}{b}\textcolor{cyan}{d}}- \frac{c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}-c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}$ 
-- kgV (<u>kleinstes gemeinsames Vielfaches</u>) beim <font color="#ff6e6e">Hauptnenner</font> bilden
-- ggT (<u>größter gemeinsamer Teiler</u>) beim <font color="#48d1cc">Kürzen</font>
+- kgV (<u>kleinstes gemeinsames Vielfaches</u>) 
+  Verwendung: <font color="#ff6e6e">Hauptnenner</font> bilden
+	- Suche die kleinste Zahl die in beiden *1x1-Reihen* vorkommt
+	- Beispiel 3 und 4
+		- <u>3:</u> $3, 6,{\color{orange}12},15,18,21 ,{\color{orange}24},27, 30, \dots$
+		- <u>4:</u> $4,8,{\color{orange}12},16,20,{\color{orange}24},28,32,\dots$
+		- das <u>kgV</u> ist demnach ${\color{orange}12}$
+	- Beispiel 18 und 27
+		- <u>18:</u> $18, 36,{\color{orange}54},72,\dots$
+		- <u>27:</u> $27,{\color{orange} 54 },81,...$ 
+		- das <u>kgV</u> ist demnach ${\color{orange}54}$
+		- ⤷ Bringe $\frac{6}{18}$ und $\frac{9}{27}$ auf den gleichen Nenner
+			- da 54 an dritter Stelle der 18er Reihe steht, muss $\frac{6}{18}$ mit 3 erweitert werden 
+			  ⟹ $\frac{6}{18}\cdot \frac{3}{3}=\frac{18}{54}$
+			- da 54 an zweiter Stelle in der 27er Reihe ist, muss $\frac{9}{27}$ mit 2 erweitert werden 
+			  ⟹$\frac{9}{27}\cdot \frac{2}{2}=\frac{18}{54}$
+			- Die Zahlen sind also gleich
+- ggT (<u>größter gemeinsamer Teiler</u>) 
+  Verwendung: <font color="#48d1cc">Kürzen</font>
+	- Suchen den größten Teiler der jeweiligen Zahlen, die beide gemeinsam haben
+	- Beispiel 12 und 18
+		- <u>12 hat die Teiler:</u> $1,2,3,4,{\color{cyan}6},12$
+		- <u>18 hat die Teiler:</u> $1,2,3,{\color{cyan}6},9,18$
+		- Der größte gemeinsame Teile ist $\color{cyan}6$ 
+		- Der Bruch $\frac{12}{18}$ lässt sich also durch herausziehen des Teilers $\color{cyan}6$ zu $\frac{12}{18}=\frac{2\cdot \cancel{ {\color{cyan}6} }}{3\cdot \cancel{ \color{cyan}6 }}=\frac{2}{3}$ kürzen
 - <font color="#c815ff">gemischte Schreibweise</font>:
 	- $2 \frac{3}{4}$ <font color="#48d1cc">ohne Mal-Punkt</font> meint das zwei Ganze und $\frac{3}{4}$
 	- also $2+\frac{3}{4}$
-# Aufgabenblatt
- ![[../../../../../../Pasted image 20260814020608.png]]![[../../../../../../Pasted image 20260814020619.png]]
 
-![[../../../../../../Pasted image 20260814025616.png]]
-![[../../../../../../Pasted image 20260814025629.png]]
-a) $\frac{3}{5}+\frac{5}{4}=\frac{37}{20}=\pu{ 1.85 }$ 
-b) $\frac{8}{3}-\frac{7}{2}+\frac{13}{5}=\frac{53}{30}=\pu{ 1.7\overline{6}}$
-c) $\frac{24}{40}-\frac{33}{9}+\frac{28}{15}=-\frac{6}{5}=\pu{ -1.2 }$
-d) $\frac{21 \cdot 3 \cdot 35}{49 \cdot 15 \cdot 9}=\frac{1}{3}$
-e) $\frac{75}{36} \cdot \frac{144}{125}=\frac{12}{5}=\pu{ 2.4 }$
-f) $\frac{36}{5}: \frac{6}{25}=30$
-g) $\frac{4}{5}: \frac{7}{8}=\frac{32}{35}=\pu{ 0.478 }$
-h) $\frac{55}{51}\cdot \frac{17}{65} : \frac{39}{77} \cdot \frac{14}{10}=\frac{11}{39}: \frac{39}{55}=\frac{605}{1521}=\pu{ 0.3978 }$
-
-<u> Ziel: </u>wir wollen die Periode loswerden 
-- ⤷das gelingt uns durch Subtraktion der Periode. 
+## Dezimalzahl mit Periode in Brüche umrechnen
+wir wollen die Periode loswerden 
+1. ⤷das gelingt uns durch Subtraktion der Periode. 
 	- Wir müssen also $\pu{ 0,9999\dots }$,  $\pu{ 0,8888\dots }$,  $\pu{ 0,007777\dots }$ oder $\pu{ 0,06666\dots }$ abziehen
-- dazu nehmen wir die Zahl und <font color="#ffd700">verschieben</font> sie <font color="#ffd700">um so viele Kommastellen</font>, dass die Zahl die sich wiederholt vor dem Komma beginnt. In dem wir sie mit der entsprechenden Zehnerpotenz multiplizieren also: $10^{1}=10, 10^{2}=100, 10^{3}=1000, \dots$
-- Dazu machen wir erstmal etwas ungewöhnliches. Wir <font color="#ffd700">weisen die Zahl </font>die wir umwandeln wollen <font color="#ffd700">einer Variablen zu</font>, um im nächsten Schritt eine Zahl zu bekommen, die wir um die Kommastellen verschoben haben:
+2. dazu nehmen wir die Zahl und <font color="#ffd700">verschieben</font> sie <font color="#ffd700">um so viele Kommastellen</font>, dass die Zahl die sich wiederholt vor dem Komma beginnt. In dem wir sie mit der entsprechenden Zehnerpotenz multiplizieren also: $10^{1}=10, 10^{2}=100, 10^{3}=1000, \dots$
+3. Dazu machen wir erstmal etwas ungewöhnliches. Wir <font color="#ffd700">weisen die Zahl </font>die wir umwandeln wollen <font color="#ffd700">einer Variablen zu</font>, um im nächsten Schritt eine Zahl zu bekommen, die wir um die Kommastellen verschoben haben:
 	- Bei $0,\bar{8}$ bedeutet das also:
 	- $\mathrm{I}\quad {\color{red}x=}\pu{ 0,8888\dots }$ das $\mathrm{I}$ benennt dabei nur diese Zuweisung
-- Jetzt verschieben wir das Komma und erzeugen uns dadurch eine zweite Gleichung:
+4. Jetzt verschieben wir das Komma und erzeugen uns dadurch eine zweite Gleichung:
 	- hier müssen wir mit 10 multiplizieren, um den Anfang der Periode vor das Komma zu ziehen.
 	- $\mathrm{II}\quad {\color{red}10}x=\pu{ {\color{red}{8,}} 8888\dots }$
-- Dann <font color="#ffd700">ziehen</font> wir Gleichung $\mathrm{I}$ von Gleichung $\mathrm{II}$ <font color="#ffd700">ab</font>. Dadurch <font color="#ff6e6e">fällt</font> <font color="#ffd700">die Periode weg</font> und wir müssen nur noch nach $x$ auflösen:
+5. Dann <font color="#ffd700">ziehen</font> wir Gleichung $\mathrm{I}$ von Gleichung $\mathrm{II}$ <font color="#ffd700">ab</font>. Dadurch <font color="#ff6e6e">fällt</font> <font color="#ffd700">die Periode weg</font> und wir müssen nur noch nach $x$ auflösen:
 	- $\mathrm{II}-\mathrm{I}$:
 	- $\mathrm{II}-\mathrm{I}\quad 10x-x = \pu{ 8,8888\dots }- \pu{ 0,8888\dots }$
 	- $\mathrm{II}-\mathrm{I}\quad 9x = \pu{ 8 }$
-- Wir lösen jetzt noch nach $x$ auf:
+6. Wir lösen jetzt noch nach $x$ auf:
 	- $\mathrm{II}-\mathrm{I}\quad 9x=\pu{8} \quad \left|\;:9\right.$
 	- $x= \frac{8}{9}$
 - Und wir sind fertig.
-
-
-$0,\overline{9}$
-$\mathrm{I}\quad x=\pu{ 0.9999\dots }$
-$\mathrm{II}\quad10x=\pu{ 9,99999\dots }$
-$\mathrm{I}-\mathrm{II}\quad 9x=\pu{9} \quad \left|\;:9\right.$
-$x=1$
-
-$0,\bar{8}$
-$\mathrm{I}\quad x=\pu{ 0.8888\dots }$
-$\mathrm{II}\quad 10x=\pu{ 08.8888\dots }$
-
-
-
-$2,35\overline{7}$
-$x=\pu{ 2,357777\dots }$
-$\mathrm{I}\quad100x=\pu{ 235,7777\dots }$
-$\mathrm{II}\quad1000x=\pu{ 2357,777\dots }$
-$\mathrm{I}-\mathrm{II}\quad 900x=\pu{2122} \quad \left|\;:900\right.$
-$x=\frac{\pu{2122}}{900}=\frac{1061}{450}$
-
-$1,3\overline{6}$
-$x=\pu{ 1,36666\dots }$
-$\mathrm{I}\quad10x=\pu{ 13.6666\dots }$
-$\mathrm{II}\quad100x=\pu{ 136,666\dots }$
-$\mathrm{I}-\mathrm{II}\quad 90x=\pu{ 123} \quad \left|\;:90\right.$
-$x=\frac{\pu{ 123}}{90}$
-Quersummenregel $1+2+3=6$ ist durch 3 teilbar
-$x=\frac{\pu{ 41}}{30}$
-
-
-# Einheiten umrechnen
-- $1~\mathrm{inch} =2.54~\mathrm{ cm}$ 
-	- $1=\frac{\pu{ 1 inch }}{\pu{ 2.54cm }}=\frac{\pu{ 2.54cm }}{\pu{ 1 inch }}$
-	- $\pu{ 64cm }=\pu{ 64 \cancel{cm} } \cdot \frac{\pu{ 1inch }}{\pu{ 2.54\cancel{cm} }}= \frac{64}{2.54}\pu{ inch }=\pu{ 25.19685 inch }=\pu{ 25.2 inch }$
-	- ~={DeepSkyBlue}Aufgabe=~ 
-	- 55 miles per hour $\pu{ 55 mi//h}$ in $\pu{ km//h }$ und $\pu{ m//s }$ 
-	- $1~\mathrm{inch} =2.54~\mathrm{ cm}$ 
-	- $\pu{ 1mi }=\pu{ 5280 ft }$
-	- $\pu{ 1ft }=\pu{ 12in }$
-	- $\pu{ 1m }=\pu{ 100cm }$
-	- $\pu{ 1km }=\pu{ 1000m }$
-	- $\pu{ 1h }=\pu{ 60min }$
-	- $\pu{ 1min }=\pu{ 60s }$
-	- ~={RedRed}Lösung: =~
-	- $\pu{ 55 mi//h}=\pu{ 55 \cancel{mi}//h} \pu{ 5280ft// 1 \cancel{mi}}$
-	- $\pu{ 55 mi//h}=55 \cdot 5280\pu{ft//h}$ 
-	- $\pu{ 55 mi//h}=55 \cdot 5280\pu{\cancel{ft}//h} \cdot \pu{ 12 inch//\cancel{ft} }=55 \cdot 5280 \cdot 12 \pu{inch//h}$
-	- $\pu{ 55 mi//h}=55 \cdot 5280 \cdot 12 \pu{\cancel{inch}//h} \cdot \pu{ {2.54cm}// 1 \cancel{inch} }=55 \cdot 5280 \cdot 12 \cdot 2.54 \pu{cm//h}$
-	- $\pu{ 55 mi//h}=55 \cdot 5280 \cdot 12 \cdot 2.54 \pu{\cancel{cm}//h} \cdot \pu{ {1m}//100\cancel{cm} }=55 \cdot 5280 \cdot 12 \cdot 2.54 \cdot \frac{1}{100} \pu{m//h}= \pu{88513.92 m//h}$ 
-	- $\pu{ 55 mi//h}=55 \cdot 5280 \cdot 12 \cdot 2.54 \pu{\cancel{cm}//h} \cdot \pu{ {1\cancel{m}}//100\cancel{cm} } \cdot \pu{ {1km}//1000\cancel{m} }=55 \cdot 5280 \cdot 12 \cdot 2.54 \cdot \frac{1}{100} \cdot \frac{1}{1000} \pu{km//h}=88.51392\pu{km//h}$ 
-	  ⤷$\pu{ 55 mi//h}=88.51392\pu{km//h}$ 
-	
-	- $\pu{ 55 mi//h}=88513.92\pu{m//\cancel{h}}\cdot \pu{{1\cancel{h}}//60min}=\frac{88513.92}{60}\pu{m//min}$
-	- $\pu{ 55 mi//h}=\frac{88513.92}{60}\pu{m//\cancel{min}} \cdot \pu{ {1\cancel{min}}//60s}=\frac{88513.92}{60\cdot60}\pu{m//s}=\frac{88513.92}{3600}\pu{m//s}=24.5872\pu{m//s}$ 

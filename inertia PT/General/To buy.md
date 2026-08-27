@@ -1,6 +1,6 @@
 # Stadt
-- [ ] white board marker (Tedi, Rossmann, DM)
-- [ ] Abzieher
+- [x] white board marker (Tedi, Rossmann, DM)
+- [x] Abzieher
 # Internet 
 - macbook ersatztasten 
 	- [ ] Set von ifixit?
@@ -11,6 +11,11 @@
 ## Jetzt
 - Einkaufswagen 
 - [ ] Nudelsoßen
+- [ ] Pizza
+- [ ] Äpfel
+- [ ] Bananen
+- [ ] Saft
+- [ ] Bier
 
 ## später mal
 - [ ] white board marker
