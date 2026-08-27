@@ -301,6 +301,8 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Tastatur wischen
+- [ ] Aldi
+	- [ ] pizza
 - [ ] Mutter von Mathis schreiben
 	- [ ] ADHS Hilfe Deutschland
 	- [ ] dann später den Kostenvoranschlag
