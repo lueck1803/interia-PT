@@ -360,7 +360,7 @@
 - [ ] mac Tastatur
 	- [ ] neue Tasten für mac bestellen %% fold %%
 	- [ ] selbst reparieren
-- [ ] Mathe 5a 
+- [ ] Mathe 5a  %% fold %%
 	- [ ] Seite 8 im Buch machen
 	- [ ] montesorri arbeitsblatt 22 mal kopieren
 	- [ ] grundrechenarten ohne balken 22 mal kopieren
