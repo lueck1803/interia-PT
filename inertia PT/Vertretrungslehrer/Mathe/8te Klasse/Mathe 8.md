@@ -302,11 +302,23 @@ $\frac{3}{4}=\frac{3\cdot \color{cyan}2}{4\cdot \color{cyan} 2}=\frac{6}{8}$
 
 #### c)
 $\frac{2}{3}\fbox{<} \frac{6}{8}$
-$3,6,9 ,12 ,15 ,18, 21,{\color{cyan}24},... \rightarrow 8$
-$8,16,{\color{cyan}24}, 32, ... \rightarrow 3$
+$3,6,9 ,12 ,15 ,18, 21,{\color{cyan}24},...$ 
+$\rightarrow 8$
+$8,16,{\color{cyan}24}, 32, ...$
+$\rightarrow 3$
 $\frac{2}{3}=\frac{2\cdot \color{cyan}8}{3\cdot \color{cyan}8}=\frac{16}{24}$
 $\frac{6}{8}=\frac{6\cdot \color{cyan}3}{8\cdot \color{cyan}3}=\frac{18}{24}$
 
+#### d)
+$\frac{9}{27}\fbox{}\frac{3}{18}$\\
+$18, 36,{\color{orange}54},72,\dots$
+ $27,{\color{orange} 54 },81,...$ 
+		- das <u>kgV</u> ist demnach ${\color{orange}54}$
+		- ⤷ Bringe $\frac{6}{18}$ und $\frac{9}{27}$ auf den gleichen Nenner
+			- da 54 an dritter Stelle der 18er Reihe steht, muss $\frac{6}{18}$ mit 3 erweitert werden 
+			  ⟹ $\frac{6}{18}\cdot \frac{3}{3}=\frac{18}{54}$
+			- da 54 an zweiter Stelle in der 27er Reihe ist, muss $\frac{9}{27}$ mit 2 erweitert werden 
+			  ⟹$\frac{9}{27}\cdot \frac{2}{2}=\frac{18}{54}$
 
 
 
