@@ -317,7 +317,12 @@ $18, 36,{\color{orange}54},72,\dots$\\
 ⟹$\frac{9}{27}\cdot \frac{2}{2}=\frac{18}{54}$\\
 
 #### e)
-$\frac{6}{18}fb$
+$\frac{6}{18}\fbox{} \frac{9}{27}$
+$\frac{6}{18}=\frac{6\cdot \color{cyan}3}{18\cdot \color{cyan} 3}=\frac{18}{54}$
+$\frac{9}{27}=\frac{9\cdot \color{cyan}2}{27\cdot \color{cyan}2}=\frac{18}{54}$
+
+
+
 
 
 
