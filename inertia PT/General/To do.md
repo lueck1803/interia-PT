@@ -300,6 +300,7 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
+- [ ] Tastatur wischen
 - [ ] bett beziehen 
 - [ ] neues Thema in Mathe beginnen 
 - [ ] xenia als Hausaufgabe die Rechenaufgaben fertig machen 
@@ -320,11 +321,11 @@
 - [x] kursmappe
 	- [x] m 5a %% fold %%
 	- [x] m 8a
-	- [x] m 8b
+	- [ ] m 8b
 	- [x] p 8a 
 	- [x] p 8b
 	- [ ] p 8c
-	- [x] p 10b
+	- [ ] p 10b
 	- [ ] p 10a %% fold %%
 	- [x] E 5b
 - [x] nudeln in den Kühlschrank
