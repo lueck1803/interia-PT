@@ -310,14 +310,14 @@ $\frac{2}{3}=\frac{2\cdot \color{cyan}8}{3\cdot \color{cyan}8}=\frac{16}{24}$
 $\frac{6}{8}=\frac{6\cdot \color{cyan}3}{8\cdot \color{cyan}3}=\frac{18}{24}$
 
 #### d)
-$\frac{9}{27}\fbox{}\frac{3}{18}$\\
+$\frac{9}{27}\fbox{>}\frac{3}{18}$\\
 $18, 36,{\color{orange}54},72,\dots$\\
  $27,{\color{orange} 54 },81,...$  \\
-⟹ $\frac{6}{18}\cdot \frac{3}{3}=\frac{18}{54}$\\
+⟹ $\frac{3}{18}\cdot \frac{3}{3}=\frac{9}{54}$\\
 ⟹$\frac{9}{27}\cdot \frac{2}{2}=\frac{18}{54}$\\
 
 #### e)
-$\frac{6}{18}\fbox{} \frac{9}{27}$
+$\frac{6}{18}\fbox{=} \frac{9}{27}$
 $\frac{6}{18}=\frac{6\cdot \color{cyan}3}{18\cdot \color{cyan} 3}=\frac{18}{54}$
 $\frac{9}{27}=\frac{9\cdot \color{cyan}2}{27\cdot \color{cyan}2}=\frac{18}{54}$
 
