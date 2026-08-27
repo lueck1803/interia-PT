@@ -79,8 +79,10 @@ $2,56\overline{7}$ in Bruch umwandeln
 - kgV (<u>kleinstes gemeinsames Vielfaches</u>) beim <font color="#ff6e6e">Hauptnenner</font> bilden
 	- Suche die kleinste Zahl die in beiden *1x1-Reihen* vorkommt
 	- Beispiel 3 und 4
-		- 3: $3, 6,12,15,18,21 ,24,27, 30, \dots$
-		- 4: $4,8,12,16,20,24,28,32,\dots$
+		- <u>3:</u> $3, 6,{\color{orange}12},15,18,21 ,{\color{orange}24},27, 30, \dots$
+		- <u>4:</u> $4,8,{\color{orange}12},16,20,{\color{orange}24},28,32,\dots$
+		- das <u>kgV</u> ist demnach ${\color{orange}12}$
+		- $RNG$
 - ggT (<u>größter gemeinsamer Teiler</u>) beim <font color="#48d1cc">Kürzen</font>
 - <font color="#c815ff">gemischte Schreibweise</font>:
 	- $2 \frac{3}{4}$ <font color="#48d1cc">ohne Mal-Punkt</font> meint das zwei Ganze und $\frac{3}{4}$
