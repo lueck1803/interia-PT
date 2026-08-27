@@ -12,11 +12,11 @@
 - Einkaufswagen 
 - [x] Nudelsoßen
 - [x] nudeln
-- [ ] Pizza
+- [x] Pizza
 - [x] Äpfel
 - [x] Bananen
-- [ ] Saft
-- [ ] Protein Zeug
+- [x] Saft
+- [x] Protein Zeug
 - [x] Bier
 - [x] pilze
 - [x] Birnen 

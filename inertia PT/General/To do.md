@@ -313,10 +313,9 @@
 - [x] gesicht waschen
 - [ ] black waltz
 - [x] rasieren
-- [ ] Aldi
-	- [ ] pizza
+- [x] Aldi
 - [ ] Mutter von Mathis schreiben
-	- [ ] ADHS Hilfe Deutschland
+	- [x] ADHS Hilfe Deutschland
 	- [ ] dann später den Kostenvoranschlag
 - [ ] Mathe handout
 	- [ ] Beispiel für
