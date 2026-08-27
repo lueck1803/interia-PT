@@ -301,6 +301,8 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] gibt es andere listen in denen das feld größer ist?
+- [ ] Duolingo %% fold %%
+- [ ] Spülmaschine ausräumen 
 	- [ ] erste Spalte nehme ich zur Anwesenheit
 	- [ ] zweite Spalte nehme ich als mitarbeit
 - [x] Tastatur wischen
@@ -369,9 +371,10 @@
 - [ ] Erklärung dezimal zu bruch Zeilennummern und Aufzählung nummerieren
 - [ ] schul.cloud einladen 
 	- [x] Hana
-	- [ ] shanaja
+	- [x] shanaja
 		- [ ] ihr hab ich nen account erstellt, damit kann ich mich einloggen...
 		- [ ] da ist irgendwas an ihrem handy komisch...
+		- [ ] sie hat sich nen neuen Account erstellt 
 	- [ ] xenia
 	- [ ] zaynaba
 	- [ ] ümmü 
@@ -380,9 +383,7 @@
 	- [ ] pavlo palamarchuk
 	- [x] sara bouhout
 		- [ ] ging nicht, code war nicht richtig?
-		- [ ] 
-- [ ] Duolingo %% fold %%
-- [ ] Spülmaschine ausräumen 
+
  %% fold %%
 - [ ] Handout Brüche fertig machen %% fold %%
 - [ ] Mathe 8 Übungsaufgaben  %% fold %%
