@@ -300,6 +300,7 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
+- [ ] gibt es andere listen in denen das feld größer ist?
 - [x] Tastatur wischen
 - [ ] gießen
 - [x] wetterstation batterien wechseln
@@ -322,8 +323,7 @@
 - [ ] xenia als Hausaufgabe die Rechenaufgaben fertig machen 
 - [ ] Lösung für matheblatt machen 
 - [ ] in meinem Bericht die Reihenfolge mit dem stuhl ändern
-- [ ] gibt es andere listen in denen das feld größer ist?
-- [ ] beim 10te klasse blatt Aufgabe A) in erster Zeile wegmachen 
+- [x] beim 10te klasse blatt Aufgabe A) in erster Zeile wegmachen 
 - [ ] 10 b Rechenregeln Brüche anschreiben 
 - [ ] Bohrmaschine absaugen, griff so anbringen dass ich ihn an der Bohrmaschine lassen kann
 - [ ] sofiia ne schul cloud Einladung schicken
@@ -359,9 +359,9 @@
 - [ ] dringend schauen was so verbrannt riecht 
 - [ ] mac Tastatur
 	- [ ] neue Tasten für mac bestellen %% fold %%
-	- [ ] selbst reparieren
+	- [ ] selbst reparieren %% fold %%
 - [ ] Mathe 5a  %% fold %%
-	- [ ] Seite 8 im Buch machen
+	- [ ] Seite 8 im Buch machen %% fold %%
 	- [ ] montesorri arbeitsblatt 22 mal kopieren
 	- [ ] grundrechenarten ohne balken 22 mal kopieren
 - [ ] Erklärung dezimal zu bruch Zeilennummern und Aufzählung nummerieren
