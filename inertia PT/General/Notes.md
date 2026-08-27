@@ -2128,6 +2128,8 @@ Tage produktiv gewesen:
 	- 1/3 der Wurzel abschneiden 
 	- unten ein Kreuz reinschneiden 
 	- oder den Ballen aufreißen 
+# schul.cloud
+[https://harkortschule-witten.de/faq-zu-der-schul-cloud/](https://harkortschule-witten.de/faq-zu-der-schul-cloud/)
 # <font color="#548dd4">Pdftk</font>
 - Gerade (`A.pdf`) und ungerade Seiten (`B.pdf`) eines Dokuments zusammen fügen.
   `{bash} pdftk A=A.pdf B=B.pdf shuffle A Bend-1 output Dokument_Name.pdf`
