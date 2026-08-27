@@ -88,6 +88,10 @@ $2,56\overline{7}$ in Bruch umwandeln
 		- <u>27:</u> $27,{\color{orange} 54 },81,...$ 
 		- das <u>kgV</u> ist demnach ${\color{orange}54}$
 		- ⤷ Bringe $\frac{6}{18}$ und $\frac{9}{27}$ auf den gleichen Nenner
+			- da 54 an dritter Stelle der 18er Reihe steht, muss $\frac{6}{18}$ mit 3 erweitert werden 
+			  ⟹ $\frac{6}{18}\cdot \frac{3}{3}=\frac{18}{54}$
+			- da 54 an zweiter Stelle in der 27er Reihe ist, muss $\frac{9}{}$ mit 3 erweitert werden 
+			- 
 - ggT (<u>größter gemeinsamer Teiler</u>) 
   Verwendung: <font color="#48d1cc">Kürzen</font>
 	- 
