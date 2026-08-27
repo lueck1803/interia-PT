@@ -82,7 +82,9 @@ $2,56\overline{7}$ in Bruch umwandeln
 		- <u>3:</u> $3, 6,{\color{orange}12},15,18,21 ,{\color{orange}24},27, 30, \dots$
 		- <u>4:</u> $4,8,{\color{orange}12},16,20,{\color{orange}24},28,32,\dots$
 		- das <u>kgV</u> ist demnach ${\color{orange}12}$
-		- 
+	- Beispiel 18 und 27
+		- <u>18:</u> $18, 36,{\color{orange}54},72,\dots$
+		- <u>27:</u> $27,{\color{orange} 54 },$
 - ggT (<u>größter gemeinsamer Teiler</u>) beim <font color="#48d1cc">Kürzen</font>
 - <font color="#c815ff">gemischte Schreibweise</font>:
 	- $2 \frac{3}{4}$ <font color="#48d1cc">ohne Mal-Punkt</font> meint das zwei Ganze und $\frac{3}{4}$
