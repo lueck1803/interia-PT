@@ -285,11 +285,15 @@ $x=\frac{\pu{ 41}}{30}$
 	
 	- $\pu{ 55 mi//h}=88513.92\pu{m//\cancel{h}}\cdot \pu{{1\cancel{h}}//60min}=\frac{88513.92}{60}\pu{m//min}$
 	- $\pu{ 55 mi//h}=\frac{88513.92}{60}\pu{m//\cancel{min}} \cdot \pu{ {1\cancel{min}}//60s}=\frac{88513.92}{60\cdot60}\pu{m//s}=\frac{88513.92}{3600}\pu{m//s}=24.5872\pu{m//s}$ 
-# Aufgabenblatt %% fold %%
+# Aufgabenblatt
  ![[../../../../../../Pasted image 20260814020608.png]]![[../../../../../../Pasted image 20260814020619.png]]
 
 ![[../../../../../../Pasted image 20260814025616.png]]
 ![[../../../../../../Pasted image 20260814025629.png]]
+## Lösungen:
+### 1)
+$\frac{3}{5}$
+
 a) $\frac{3}{5}+\frac{5}{4}=\frac{37}{20}=\pu{ 1.85 }$ 
 b) $\frac{8}{3}-\frac{7}{2}+\frac{13}{5}=\frac{53}{30}=\pu{ 1.7\overline{6}}$
 c) $\frac{24}{40}-\frac{33}{9}+\frac{28}{15}=-\frac{6}{5}=\pu{ -1.2 }$
@@ -350,7 +354,7 @@ $x=\frac{\pu{ 41}}{30}$
   %% fold %%
 # Gleichungen umstellen <font color="#92d050">Blick ins Buch</font> %% fold %%
 - Klammer auflösen - Distributivgesetz %% fold %%
-- Minuszeichen vor der Klammer
+- Minuszeichen vor der Klammer %% fold %%
 - Ausklammern von gemeinsamen Faktoren
 
 

@@ -300,7 +300,7 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- [ ] hana entschuldigt eingetragen 
+- [x] hana entschuldigt eingetragen 
 - [ ] gibt es andere listen in denen das feld größer ist?
 	- [ ] erste Spalte nehme ich zur Anwesenheit
 	- [ ] zweite Spalte nehme ich als mitarbeit
