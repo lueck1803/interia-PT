@@ -304,6 +304,7 @@
 - [ ] neues Thema in Mathe beginnen 
 - [ ] xenia als Hausaufgabe die Rechenaufgaben fertig machen 
 - [ ] Lösung für matheblatt machen 
+- [ ] in meinem Bericht die Reihenfolge mit dem stuhl ändern
 - [ ] gibt es andere listen in denen das feld größer ist?
 - [ ] beim 10te klasse blatt Aufgabe A) in erster Zeile wegmachen 
 - [ ] 10 b Rechenregeln Brüche anschreiben 
