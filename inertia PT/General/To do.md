@@ -300,13 +300,13 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- [ ] Tastatur wischen
+- [x] Tastatur wischen
 - [ ] gießen
-- [ ] wetterstation batterien wechseln
-- [ ] zähne putzen 
-- [ ] gesicht waschen
+- [x] wetterstation batterien wechseln
+- [x] zähne putzen 
+- [x] gesicht waschen
 - [ ] black waltz
-- [ ] rasieren
+- [x] rasieren
 - [ ] Aldi
 	- [ ] pizza
 - [ ] Mutter von Mathis schreiben
