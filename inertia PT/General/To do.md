@@ -301,33 +301,26 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] gibt es andere listen in denen das feld größer ist?
+	- [ ] erste Spalte nehme ich zur Anwesenheit
+	- [ ] zweite Spalte nehme ich als mitarbeit
 - [ ] Krafttraining 
 - [ ] Duolingo %% fold %%
 - [ ] Spülmaschine ausräumen 
-	- [ ] erste Spalte nehme ich zur Anwesenheit
-	- [ ] zweite Spalte nehme ich als mitarbeit
-- [x] Tastatur wischen
 - [ ] gießen
-- [x] wetterstation batterien wechseln
-- [x] zähne putzen 
-- [x] gesicht waschen
 - [ ] black waltz
-- [x] rasieren
-- [x] Aldi
 - [ ] Mutter von Mathis schreiben
 	- [x] ADHS Hilfe Deutschland
 	- [ ] dann später den Kostenvoranschlag
 - [ ] Mathe handout
 	- [ ] Beispiel für
-		- [ ] kleinstes gemeinsames Vielfaches
-		- [ ] größter gemeinsamer Teiler
-	- [ ] kleinstes gemeinsames Vielfaches von zahlen der gleichen Reihe? kürzen?
+		- [x] kleinstes gemeinsames Vielfaches
+		- [x] größter gemeinsamer Teiler
+	- [x] kleinstes gemeinsames Vielfaches von zahlen der gleichen Reihe? kürzen?
 - [ ] bett beziehen 
 - [ ] neues Thema in Mathe beginnen 
 - [ ] xenia als Hausaufgabe die Rechenaufgaben fertig machen 
 - [ ] Lösung für matheblatt machen 
 - [ ] in meinem Bericht die Reihenfolge mit dem stuhl ändern
-- [x] beim 10te klasse blatt Aufgabe A) in erster Zeile wegmachen 
 - [ ] 10 b Rechenregeln Brüche anschreiben 
 - [ ] Bohrmaschine absaugen, griff so anbringen dass ich ihn an der Bohrmaschine lassen kann
 - [ ] sofiia ne schul cloud Einladung schicken
@@ -366,7 +359,7 @@
 	- [ ] selbst reparieren %% fold %%
 - [ ] Mathe 5a  %% fold %%
 	- [ ] Seite 8 im Buch machen %% fold %%
-	- [ ] montesorri arbeitsblatt 22 mal kopieren
+	- [ ] montesorri arbeitsblatt 22 mal kopieren %% fold %%
 	- [ ] grundrechenarten ohne balken 22 mal kopieren
 - [ ] Erklärung dezimal zu bruch Zeilennummern und Aufzählung nummerieren
 - [ ] schul.cloud einladen 
