@@ -301,6 +301,9 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] bett beziehen 
+- [ ] neues Thema in Mathe beginnen 
+- [ ] xenia als Hausaufgabe die Rechenaufgaben fertig machen 
+- [ ] Lösung für matheblatt machen 
 - [ ] gibt es andere listen in denen das feld größer ist?
 - [ ] beim 10te klasse blatt Aufgabe A) in erster Zeile wegmachen 
 - [ ] 10 b Rechenregeln Brüche anschreiben 
