@@ -300,6 +300,7 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
+- 
 - [ ] gibt es andere listen in denen das feld größer ist?
 	- [ ] erste Spalte nehme ich zur Anwesenheit
 	- [ ] zweite Spalte nehme ich als mitarbeit
@@ -365,7 +366,7 @@
 	- [ ] grundrechenarten ohne balken 22 mal kopieren
 - [ ] Erklärung dezimal zu bruch Zeilennummern und Aufzählung nummerieren
 - [ ] schul.cloud einladen 
-	- [x] Hana
+	- [x] Hana %% fold %%
 	- [x] shanaja
 		- [ ] ihr hab ich nen account erstellt, damit kann ich mich einloggen...
 		- [ ] da ist irgendwas an ihrem handy komisch...
