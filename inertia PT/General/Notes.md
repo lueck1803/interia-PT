@@ -4981,6 +4981,8 @@ The forward process is crucial for generating training data in diffusion models,
 
 # Wortfindungsstörung 😅🫣😁
 
+Jemanden ankacken ⟹ zurechtweisen 
+
 ## Das Wort Misogyn für Männer
 Misandrie
 

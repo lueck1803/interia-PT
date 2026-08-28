@@ -307,6 +307,7 @@
 - [ ] Zähne putzen 
 - [ ] Pilze schneiden bzw zubereiten 
 - [ ] Kaffeemaschine leeren
+- [ ] Eisbecher wegsortieren
 - [x] Fingernägel knipsen
 - [ ] duschen 
 - [ ] schauen ob die neuen der 8a schon auf schul.cloud sind
