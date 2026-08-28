@@ -300,7 +300,8 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- [ ] arbeitsverhalten schulo
+- [ ] arbeitsverhalten schulportal Eintrag 
+- [ ] 
 - [ ] schauen ob die 8a schon auf schul.cloud sind
 - [ ] Mathe neues Blatt für 8ter erstellen 
 - [ ] gibt es andere listen in denen das feld größer ist?
