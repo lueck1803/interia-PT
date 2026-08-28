@@ -302,7 +302,8 @@
 
 - [ ] arbeitsverhalten schulportal Eintrag ?
 - [ ] narges heute nicht im Unterricht 
-- [ ] carnivorenwasser+ gießen 
+- [ ] 
+- [x] carnivorenwasser+ gießen 
 - [ ] Griffe in der Küche
 - [ ] sofa
 	- [ ] Kissenbezug 
