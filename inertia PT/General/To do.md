@@ -325,7 +325,7 @@
 	- [ ] erste Spalte nehme ich zur Anwesenheit
 	- [ ] zweite Spalte nehme ich als mitarbeit
 - [ ] Krafttraining 
-- [ ] Äpfel waschen 
+- [x] Äpfel waschen 
 - [ ] Duolingo %% fold %%
 - [ ] Spülmaschine ausräumen 
 - [ ] black waltz
