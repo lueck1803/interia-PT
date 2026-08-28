@@ -305,6 +305,7 @@
 - [ ] carnivorenwasser+ gießen 
 - [ ] Griffe in der Küche
 - [ ] Zähne putzen 
+- [ ] Biomüll raus
 - [ ] Pilze schneiden bzw zubereiten 
 - [ ] Kaffeemaschine leeren
 - [ ] Eisbecher wegsortieren
