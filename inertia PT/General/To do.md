@@ -302,7 +302,8 @@
 
 - [ ] arbeitsverhalten schulportal Eintrag ?
 - [ ] narges heute nicht im Unterricht 
-- [ ] 
+- [ ] dest. Wasserbehälter ⟹ topf 
+- [ ] ⤷ marone reinsetzen 
 - [x] carnivorenwasser+ gießen 
 - [ ] Griffe in der Küche
 - [ ] sofa
