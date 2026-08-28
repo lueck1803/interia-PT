@@ -383,7 +383,9 @@
 	- [x] xenia
 	- [x] zaynaba
 	- [ ] ümmü 
-	- [ ] emi
+	- [ ] Emily 
+	- [ ] narges
+	- [ ] rita
 	- [ ] salma Bashir adnan
 	- [ ] daria michalewicz
 	- [ ] pavlo palamarchuk
