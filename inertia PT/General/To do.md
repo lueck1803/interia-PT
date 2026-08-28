@@ -331,15 +331,12 @@
 - [ ] Bohrmaschine absaugen, griff so anbringen dass ich ihn an der Bohrmaschine lassen kann
 - [ ] sofiia ne schul cloud Einladung schicken
 	- [ ] hab ihr erstmal empfohlen das Passwort zurückzusetzen 
-- [x] Montessori blatt auf Stick und kopieren  %% fold %%
 - [ ] Latex dokument für Übungsblätter anlegen
-- [x] Whiteboard marker mit gelben Etiketten beschriften
-- [x] Klamotten raus legen %% fold %%
 - [ ] Arbeitsblatt für 10te klassen
 	- [ ] mit der Erklärung und Beschreibung für Druck
 	- [ ] Denksportphysikaufgaben
 - [x] kursmappe
-	- [x] m 5a %% fold %%
+	- [ ] m 5a %% fold %%
 	- [x] m 8a
 	- [ ] m 8b
 	- [x] p 8a 
