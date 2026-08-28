@@ -301,6 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] arbeitsverhalten schulportal Eintrag ?
+- [ ] Wäsche aufhängen 
 - [ ] narges heute nicht im Unterricht 
 - [ ] dest. Wasserbehälter ⟹ topf 
 - [ ] ⤷ marone reinsetzen 
