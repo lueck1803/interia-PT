@@ -304,6 +304,9 @@
 - [ ] narges heute nicht im Unterricht 
 - [ ] carnivorenwasser+ gießen 
 - [ ] Griffe in der Küche
+- [ ] sofa
+	- [ ] Kissenbezug 
+	- [ ] decken
 - [ ] Zähne putzen 
 - [ ] Biomüll raus
 - [ ] Pilze schneiden bzw zubereiten 
