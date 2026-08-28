@@ -341,7 +341,6 @@
 - [ ] Bohrmaschine absaugen, griff so anbringen dass ich ihn an der Bohrmaschine lassen kann
 - [ ] sofiia ne schul cloud Einladung schicken
 	- [ ] hab ihr erstmal empfohlen das Passwort zurückzusetzen 
-- [ ] Latex dokument für Übungsblätter anlegen
 - [ ] Arbeitsblatt für 10te klassen
 	- [ ] mit der Erklärung und Beschreibung für Druck
 	- [ ] Denksportphysikaufgaben
