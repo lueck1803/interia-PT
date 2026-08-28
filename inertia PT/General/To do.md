@@ -303,9 +303,10 @@
 - [ ] arbeitsverhalten schulportal Eintrag ?
 - [ ] narges heute nicht im Unterricht 
 - [ ] carnivorenwasser+ gießen 
+- [ ] Griffe in der Küche
 - [x] Fingernägel knipsen
 - [ ] duschen 
-- [ ] schauen ob die 8a schon auf schul.cloud sind
+- [ ] schauen ob die neuen der 8a schon auf schul.cloud sind
 - [ ] Mathe neues Blatt für 8ter erstellen 
 - [ ] gibt es andere listen in denen das feld größer ist?
 	- [ ] erste Spalte nehme ich zur Anwesenheit
