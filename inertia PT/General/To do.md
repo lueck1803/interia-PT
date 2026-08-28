@@ -309,11 +309,9 @@
 	- [ ] Kissenbezug 
 	- [ ] decken
 - [ ] Zähne putzen 
-- [x] Biomüll raus
 - [ ] Pilze schneiden bzw zubereiten 
 - [ ] Kaffeemaschine leeren
 - [ ] Eisbecher wegsortieren
-- [x] Fingernägel knipsen
 - [ ] duschen 
 - [ ] schauen ob die neuen der 8a schon auf schul.cloud sind
 - [ ] Mathe neues Blatt für 8ter erstellen 
@@ -321,7 +319,6 @@
 	- [ ] erste Spalte nehme ich zur Anwesenheit
 	- [ ] zweite Spalte nehme ich als mitarbeit
 - [ ] Krafttraining 
-- [x] Äpfel waschen 
 - [ ] Duolingo %% fold %%
 - [ ] Spülmaschine ausräumen 
 - [ ] black waltz
@@ -355,7 +352,6 @@
 	- [ ] p 10b
 	- [ ] p 10a %% fold %%
 	- [x] E 5b
-- [x] dampfdruckkochtopf spülen
 - 5a
 	- [x] wo ist meine Anwesenheitsliste
 	- [x] blatt kopieren 
