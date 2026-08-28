@@ -380,9 +380,10 @@
 		- [ ] ihr hab ich nen account erstellt, damit kann ich mich einloggen...
 		- [ ] da ist irgendwas an ihrem handy komisch...
 		- [ ] sie hat sich nen neuen Account erstellt 
-	- [ ] xenia
-	- [ ] zaynaba
+	- [x] xenia
+	- [x] zaynaba
 	- [ ] ümmü 
+	- [ ] emi
 	- [ ] salma Bashir adnan
 	- [ ] daria michalewicz
 	- [ ] pavlo palamarchuk
