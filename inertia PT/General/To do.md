@@ -304,6 +304,8 @@
 - [ ] narges heute nicht im Unterricht 
 - [ ] carnivorenwasser+ gießen 
 - [ ] Griffe in der Küche
+- [ ] Zähne putzen 
+- [ ] Pilze schneiden bzw zubereiten 
 - [x] Fingernägel knipsen
 - [ ] duschen 
 - [ ] schauen ob die neuen der 8a schon auf schul.cloud sind
