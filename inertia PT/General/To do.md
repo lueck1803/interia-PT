@@ -302,7 +302,8 @@
 
 - [ ] arbeitsverhalten schulportal Eintrag ?
 - [ ] narges heute nicht im Unterricht 
-- [ ] Fingernägel knipsen 
+- [ ] carnivorenwasser+ gießen 
+- [x] Fingernägel knipsen
 - [ ] duschen 
 - [ ] schauen ob die 8a schon auf schul.cloud sind
 - [ ] Mathe neues Blatt für 8ter erstellen 
