@@ -319,7 +319,7 @@
 - [ ] Krafttraining 
 - [ ] Äpfel waschen 
 - [ ] Duolingo %% fold %%
-- [ ] Spülmaschine anstellen 
+- [ ] Spülmaschine ausräumen 
 - [ ] black waltz
 - [ ] Mutter von Mathis schreiben
 	- [x] ADHS Hilfe Deutschland
