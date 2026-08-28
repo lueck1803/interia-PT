@@ -302,12 +302,8 @@
 
 - [ ] arbeitsverhalten schulportal Eintrag ?
 - [ ] gelber Sack 
-- [ ] Wäsche schleudern 
 - [ ] Wäsche aufhängen 
 - [ ] narges heute nicht im Unterricht 
-- [x] dest. Wasserbehälter ⟹ topf 
-- [x] ⤷ marone reinsetzen 
-- [x] carnivorenwasser+ gießen 
 - [ ] Griffe in der Küche
 - [ ] sofa
 	- [ ] Kissenbezug 
