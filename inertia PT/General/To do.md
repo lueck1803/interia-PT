@@ -305,15 +305,15 @@
 - [ ] Wäsche schleudern 
 - [ ] Wäsche aufhängen 
 - [ ] narges heute nicht im Unterricht 
-- [ ] dest. Wasserbehälter ⟹ topf 
-- [ ] ⤷ marone reinsetzen 
+- [x] dest. Wasserbehälter ⟹ topf 
+- [x] ⤷ marone reinsetzen 
 - [x] carnivorenwasser+ gießen 
 - [ ] Griffe in der Küche
 - [ ] sofa
 	- [ ] Kissenbezug 
 	- [ ] decken
 - [ ] Zähne putzen 
-- [ ] Biomüll raus
+- [x] Biomüll raus
 - [ ] Pilze schneiden bzw zubereiten 
 - [ ] Kaffeemaschine leeren
 - [ ] Eisbecher wegsortieren
