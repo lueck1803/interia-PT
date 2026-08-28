@@ -359,8 +359,7 @@
 	- [ ] p 10b
 	- [ ] p 10a %% fold %%
 	- [x] E 5b
-- [x] nudeln in den Kühlschrank
-- [ ] dampfdruckkochtopf spülen
+- [x] dampfdruckkochtopf spülen
 - 5a
 	- [x] wo ist meine Anwesenheitsliste
 	- [x] blatt kopieren 
@@ -382,9 +381,6 @@
 - [ ] schul.cloud einladen 
 	- [x] Hana %% fold %%
 	- [x] shanaja
-		- [ ] ihr hab ich nen account erstellt, damit kann ich mich einloggen...
-		- [ ] da ist irgendwas an ihrem handy komisch...
-		- [ ] sie hat sich nen neuen Account erstellt 
 	- [x] xenia
 	- [x] zaynaba
 	- [ ] ümmü 
