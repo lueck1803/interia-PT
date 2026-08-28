@@ -301,6 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] arbeitsverhalten schulportal Eintrag ?
+- [ ] narges heute nicht im Unterricht 
 - [ ] Fingernägel knipsen 
 - [ ] duschen 
 - [ ] schauen ob die 8a schon auf schul.cloud sind
@@ -337,7 +338,7 @@
 	- [ ] Denksportphysikaufgaben
 - [x] kursmappe
 	- [ ] m 5a %% fold %%
-	- [x] m 8a
+	- [ ] m 8a
 	- [ ] m 8b
 	- [x] p 8a 
 	- [x] p 8b
