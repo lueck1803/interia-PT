@@ -301,7 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] arbeitsverhalten schulportal Eintrag ?
-- [ ] fing
+- [ ] Fingernägel knipsen 
 - [ ] duschen 
 - [ ] schauen ob die 8a schon auf schul.cloud sind
 - [ ] Mathe neues Blatt für 8ter erstellen 
@@ -313,7 +313,6 @@
 - [ ] Äpfel waschen 
 - [ ] Duolingo %% fold %%
 - [ ] Spülmaschine ausräumen 
-- [ ] gießen
 - [ ] black waltz
 - [ ] Mutter von Mathis schreiben
 	- [x] ADHS Hilfe Deutschland
