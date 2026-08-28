@@ -4981,7 +4981,7 @@ The forward process is crucial for generating training data in diffusion models,
 
 # Wortfindungsstörung 😅🫣😁
 
-Jemanden ankacken ⟹ zurechtweisen , Anmotzen
+Jemanden ankacken ⟹ zurechtweisen , Anmotzen,Anfahren
 
 ## Das Wort Misogyn für Männer
 Misandrie
