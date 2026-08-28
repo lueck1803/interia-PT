@@ -317,10 +317,9 @@
 	- [ ] erste Spalte nehme ich zur Anwesenheit
 	- [ ] zweite Spalte nehme ich als mitarbeit
 - [ ] Krafttraining 
-- [x] Pilze waschen 
 - [ ] Äpfel waschen 
 - [ ] Duolingo %% fold %%
-- [ ] Spülmaschine ausräumen 
+- [ ] Spülmaschine anstellen 
 - [ ] black waltz
 - [ ] Mutter von Mathis schreiben
 	- [x] ADHS Hilfe Deutschland
