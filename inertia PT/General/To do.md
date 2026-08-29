@@ -302,7 +302,8 @@
 
 - [ ] Spülmaschine ausräumen 
 - [ ] Einkaufswagen weg
-- [ ] pil
+- [ ] pilze waschen 
+- [ ] Pilze schneiden 
 - [ ] Toilette putzen
 - [ ] Aldi
 - [ ] Wäsche aufhängen  
