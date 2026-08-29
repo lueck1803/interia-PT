@@ -346,8 +346,12 @@ $-\frac{18}{7}=-\frac{18\cdot \color{cyan} 2}{7\cdot \color{cyan}2}=-\frac{36}{1
 
 
 
-a) $\frac{3}{5}+\frac{5}{4}= \frac{3\cdot \color{cyan}4}{5\cdot \color{cyan}4}+\frac{5\cdot \color{orange}5}{\color{orange}} =\frac{37}{20}=\pu{ 1.85 }$ 
-b) $\frac{8}{3}-\frac{7}{2}+\frac{13}{5}=\frac{53}{30}=\pu{ 1.7\overline{6}}$
+a) $\frac{3}{5}+\frac{5}{4}= \frac{3\cdot \color{cyan}4}{5\cdot \color{cyan}4}+\frac{5\cdot \color{orange}5}{4\cdot\color{orange}5} =\frac{37}{20}=\pu{ 1.85 }$ 
+b) $\frac{8}{3}-\frac{7}{2}+\frac{13}{5}$
+Hier gilt das Assoziativgesetz, ich kann Klammern wie ich das für richtig halte:
+$\frac{8}{3}-\left( \frac{7}{2}+\frac{13}{5} \right)$
+$=\frac{8}{3}-\left( \frac{7\cdot \color{cyan}5}{2\cdot \color{cyan}5}+\frac{13\cdot \color{orange} 2}{5\cdot \color{orange}2} \right)\text{kgV(2,5)=10}$ 
+$=\frac{53}{30}=\pu{ 1.7\overline{6}}$
 c) $\frac{24}{40}-\frac{33}{9}+\frac{28}{15}=-\frac{6}{5}=\pu{ -1.2 }$
 d) $\frac{21 \cdot 3 \cdot 35}{49 \cdot 15 \cdot 9}=\frac{1}{3}$
 e) $\frac{75}{36} \cdot \frac{144}{125}=\frac{12}{5}=\pu{ 2.4 }$
