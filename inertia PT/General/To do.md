@@ -301,6 +301,14 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] arbeitsverhalten schulportal Eintrag ?
+- [ ] neues Thema in Mathe beginnen + Arbeitsblatt 
+	- [ ] Tafelanschrieb
+	- [ ] Kommutativ, Assoziativ und Distributivgesetz
+		- [ ] 
+	- [ ] Mathe neues Blatt für 8ter erstellen 
+	- [ ] Dreisatz 
+	- [ ] Prozentrechnung
+	- [ ] Terme, Klammern, Gleichungen/Ungleichungen, Ausklammern
 - [ ] kissen lüften
 - [ ] Maße Sofakissenbezug aufschreiben
 - [ ] wischen 
@@ -320,16 +328,16 @@
 - [ ] Eisbecher wegsortieren
 - [ ] duschen 
 - [ ] schauen ob die neuen der 8a schon auf schul.cloud sind
-- [ ] Mathe neues Blatt für 8ter erstellen 
 - [ ] gibt es andere listen in denen das feld größer ist?
 	- [ ] erste Spalte nehme ich zur Anwesenheit
 	- [ ] zweite Spalte nehme ich als mitarbeit
 - [ ] Krafttraining 
 - [ ] Duolingo %% fold %%
-- [ ] Spülmaschine ausräumen 
+- [x] Spülmaschine ausräumen 
 - [ ] black waltz
 - [ ] Mutter von Mathis schreiben
 	- [x] ADHS Hilfe Deutschland
+	- [ ] sogar nochmal geschrieben...
 	- [ ] dann später den Kostenvoranschlag
 - [ ] Mathe handout
 	- [ ] Beispiel für
@@ -337,7 +345,6 @@
 		- [x] größter gemeinsamer Teiler
 	- [x] kleinstes gemeinsames Vielfaches von zahlen der gleichen Reihe? kürzen?
 - [ ] bett beziehen 
-- [ ] neues Thema in Mathe beginnen 
 - [ ] xenia als Hausaufgabe die Rechenaufgaben fertig machen 
 - [ ] Lösung für matheblatt machen 
 - [ ] in meinem Bericht die Reihenfolge mit dem stuhl ändern
