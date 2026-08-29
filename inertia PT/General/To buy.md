@@ -14,6 +14,8 @@
 - [ ] Pilze
 - [ ] Toast
 - [ ] würstchen
+- [ ] buldag
+- [ ] pizza
 
 
 ## später mal
