@@ -1,6 +1,5 @@
 # Stadt
-- [x] white board marker (Tedi, Rossmann, DM)
-- [x] Abzieher
+- [ ] 
 # Internet 
 - macbook ersatztasten 
 	- [ ] Set von ifixit?
@@ -10,20 +9,23 @@
 # Aldi
 ## Jetzt
 - Einkaufswagen 
-- [x] Nudelsoßen
-- [x] nudeln
-- [x] Pizza
-- [x] Äpfel
-- [x] Bananen
-- [x] Saft
-- [x] Protein Zeug
-- [x] Bier
-- [x] pilze
-- [x] Birnen 
+- [ ] Bier
+- [ ] Bananen
+- [ ] Pilze
+- [ ] Toast
+
 
 ## später mal
 - [ ] white board marker
 ## Speicher/Sonst 
+- [x] Nudelsoßen
+- [x] nudeln
+- [x] Pizza
+- [x] Äpfel
+- [x] Saft
+- [x] Protein Zeug
+- [x] pilze
+- [x] Birnen 
 - [x] Hafermilch 
 - [x] Parmesan 
 - [x] Pfand 

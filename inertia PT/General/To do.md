@@ -315,6 +315,7 @@
 	- [ ] p 10a
 	- [x] E 5b
 - [ ] neues Thema in Mathe beginnen + Arbeitsblatt 
+	- [ ] <font color="#92d050">Blick ins Buch</font>
 	- [ ] Tafelanschrieb
 		- [ ] Kommutativ, Assoziativ und Distributivgesetz
 		- [ ] Potenzgesetze

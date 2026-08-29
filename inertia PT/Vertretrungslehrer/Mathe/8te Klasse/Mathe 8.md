@@ -403,8 +403,10 @@ $x=\frac{\pu{ 123}}{90}$
 Quersummenregel $1+2+3=6$ ist durch 3 teilbar
 $x=\frac{\pu{ 41}}{30}$
 
-  %% fold %%
-# Gleichungen umstellen <font color="#92d050">Blick ins Buch</font> %% fold %%
+# Dreisatz und Prozentrechnung
+## Dreisatz
+## Prozentrechnung + Vergleich mit Promille & Parts per million
+# Gleichungen umstellen <font color="#92d050">Blick ins Buch</font>
 - Klammer auflösen - Distributivgesetz %% fold %%
 - Minuszeichen vor der Klammer %% fold %%
 - Ausklammern von gemeinsamen Faktoren
