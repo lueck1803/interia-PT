@@ -300,8 +300,10 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
+- [ ] Spülmaschine ausräumen 
+- [ ] Wäsche aufhängen  
 - [ ] arbeitsverhalten schulportal Eintrag ?
-- [ ] gibts ne regel für linter, dass man oneliner einfügen kann?
+- [ ] gibts ne regel für linter, dass man one-liner einfügen kann?
 - [x] kursmappe
 	- [ ] m 5a %% fold %%
 	- [ ] m 8a
@@ -333,7 +335,6 @@
 - [ ] draußen bewegen 
 - [ ] Kopfhörer putzen 
 - [ ] gelber Sack 
-- [x] Wäsche aufhängen 
 - [ ] narges heute nicht im Unterricht 
 - [ ] Griffe in der Küche
 - [ ] sofa
@@ -350,7 +351,6 @@
 	- [ ] zweite Spalte nehme ich als mitarbeit
 - [ ] Krafttraining 
 - [ ] Duolingo %% fold %%
-- [x] Spülmaschine ausräumen 
 - [ ] black waltz
 - [ ] Mutter von Mathis schreiben
 	- [x] ADHS Hilfe Deutschland
