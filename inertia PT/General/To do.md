@@ -389,7 +389,7 @@
 		- [ ] Sophia  %% fold %%
 		- [ ] espen
 		- hab ich beides Claudia weitergegeben
-	- [x] Quentin umsetzen 
+	- [x] Quentin umsetzen  %% fold %%
 		- hab ich ansia weiter gegeben %% fold %%
 - [ ] dringend schauen was so verbrannt riecht 
 - [ ] mac Tastatur
