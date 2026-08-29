@@ -301,14 +301,26 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] arbeitsverhalten schulportal Eintrag ?
+- [ ] gibts ne regel für linter, dass man oneliner einfügen kann?
+- [x] kursmappe
+	- [ ] m 5a %% fold %%
+	- [ ] m 8a
+	- [ ] m 8b
+	- [x] p 8a 
+	- [x] p 8b
+	- [ ] p 8c
+	- [ ] p 10b
+	- [ ] p 10a %% fold %%
+	- [x] E 5b
 - [ ] neues Thema in Mathe beginnen + Arbeitsblatt 
 	- [ ] Tafelanschrieb
-	- [ ] Kommutativ, Assoziativ und Distributivgesetz
-		- [ ] 
+		- [ ] Kommutativ, Assoziativ und Distributivgesetz
+		- [ ] Potenzgesetze
 	- [ ] Mathe neues Blatt für 8ter erstellen 
-	- [ ] Dreisatz 
-	- [ ] Prozentrechnung
-	- [ ] Terme, Klammern, Gleichungen/Ungleichungen, Ausklammern
+		- [ ] Dreisatz 
+		- [ ] Prozentrechnung
+		- [ ] K,A,D Gesetz
+		- [ ] Terme, Klammern, Gleichungen/Ungleichungen, Ausklammern
 - [ ] kissen lüften
 - [ ] Maße Sofakissenbezug aufschreiben
 - [ ] wischen 
@@ -355,21 +367,12 @@
 - [ ] Arbeitsblatt für 10te klassen
 	- [ ] mit der Erklärung und Beschreibung für Druck
 	- [ ] Denksportphysikaufgaben
-- [x] kursmappe
-	- [ ] m 5a %% fold %%
-	- [ ] m 8a
-	- [ ] m 8b
-	- [x] p 8a 
-	- [x] p 8b
-	- [ ] p 8c
-	- [ ] p 10b
-	- [ ] p 10a %% fold %%
-	- [x] E 5b
+
 - 5a
 	- [x] wo ist meine Anwesenheitsliste
 	- [x] blatt kopieren 
 	- [ ] Mathebuch 5
-		- [ ] Sophia 
+		- [ ] Sophia  %% fold %%
 		- [ ] espen
 		- hab ich beides Claudia weitergegeben
 	- [x] Quentin umsetzen 
@@ -388,7 +391,7 @@
 	- [x] shanaja
 	- [x] xenia
 	- [x] zaynaba
-	- [ ] ümmü 
+	- [ ] ümmü  %% fold %%
 	- [ ] Emily 
 	- [ ] narges
 	- [ ] rita
