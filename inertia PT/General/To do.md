@@ -321,6 +321,11 @@
 		- [ ] Prozentrechnung
 		- [ ] K,A,D Gesetz
 		- [ ] Terme, Klammern, Gleichungen/Ungleichungen, Ausklammern
+			- [ ] Auflösen von einer Klammer in einem Produkt
+			- [ ] minuszeichen vor der Klammer
+			- [ ] Ausklammern von gemeinsamen Faktoren
+			- [ ] Auflösen von zwei Klammern in einem Produkt
+			- [ ] Binomische Formeln
 - [ ] kissen lüften
 - [ ] Maße Sofakissenbezug aufschreiben
 - [ ] wischen 
