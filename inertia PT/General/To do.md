@@ -301,6 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] arbeitsverhalten schulportal Eintrag ?
+- [ ] kissen lüften
 - [ ] Maße Sofakissenbezug aufschreiben
 - [ ] wischen 
 - [ ] Küche Arbeitsfläche wischen 
