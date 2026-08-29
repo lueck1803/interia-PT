@@ -338,29 +338,31 @@ $2,4,6,8,10,12,{\color{cyan}14},...$\\
 $-\frac{3}{2}=-\frac{3\cdot \color{cyan}7}{2\cdot \color{cyan}7}=-\frac{21}{14}$\\
 $-\frac{18}{7}=-\frac{18\cdot \color{cyan} 2}{7\cdot \color{cyan}2}=-\frac{36}{14}$
 
+### 3)
 
-
-
-
-
-
-
-
-a) $\frac{3}{5}+\frac{5}{4}= \frac{3\cdot \color{cyan}4}{5\cdot \color{cyan}4}+\frac{5\cdot \color{orange}5}{4\cdot\color{orange}5}$ 
+#### a)
+$\frac{3}{5}+\frac{5}{4}= \frac{3\cdot \color{cyan}4}{5\cdot \color{cyan}4}+\frac{5\cdot \color{orange}5}{4\cdot\color{orange}5}$ 
 $=\frac{12+25}{20}=\frac{37}{20}=\pu{ 1.85}$
-b) $\frac{8}{3}-\frac{7}{2}+\frac{13}{5}$
+#### b) 
+$\frac{8}{3}-\frac{7}{2}+\frac{13}{5}$
 Hier gilt das Assoziativgesetz, ich kann Klammern wie ich das für richtig halte:
 $\frac{8}{3}-\left( \frac{7}{2}+\frac{13}{5} \right)$
 $\underset{ \small \text{ kgV}(2,5)=10 }{ = }\frac{8}{3}-\left( \frac{7\cdot \color{cyan}5}{2\cdot \color{cyan}5}+\frac{13\cdot \color{orange} 2}{5\cdot \color{orange}2} \right)$ 
 $=\frac{8}{3}-\left(\frac{35+26}{10} \right)=\frac{8}{3}-\frac{51}{10}$ 
-$\underset{ \small \text{kgV}(3,10)=30 }{ = }\frac{8\cdot \color{cyan}10}{3\cdot \color{cyan}10}-\frac{51\cdot \color{orange}3}{10\cdot \color{orange}3}=\frac{80-153}{}$
-$=\frac{53}{30}=\pu{ 1.7\overline{6}}$
-c) $\frac{24}{40}-\frac{33}{9}+\frac{28}{15}=-\frac{6}{5}=\pu{ -1.2 }$
-d) $\frac{21 \cdot 3 \cdot 35}{49 \cdot 15 \cdot 9}=\frac{1}{3}$
-e) $\frac{75}{36} \cdot \frac{144}{125}=\frac{12}{5}=\pu{ 2.4 }$
-f) $\frac{36}{5}: \frac{6}{25}=30$
-g) $\frac{4}{5}: \frac{7}{8}=\frac{32}{35}=\pu{ 0.478 }$
-h) $\frac{55}{51}\cdot \frac{17}{65} : \frac{39}{77} \cdot \frac{14}{10}=\frac{11}{39}: \frac{39}{55}=\frac{605}{1521}=\pu{ 0.3978 }$
+$\underset{ \small \text{kgV}(3,10)=30 }{ = }\frac{8\cdot \color{cyan}10}{3\cdot \color{cyan}10}-\frac{51\cdot \color{orange}3}{10\cdot \color{orange}3}=\frac{80-153}{30}$
+$=\frac{-73}{30}=-2,4\overline{3}$
+#### c) 
+$\frac{24}{40}-\frac{33}{9}+\frac{28}{15}=-\frac{6}{5}=\pu{ -1.2 }$
+#### d) 
+$\frac{21 \cdot 3 \cdot 35}{49 \cdot 15 \cdot 9}=\frac{1}{3}$
+#### e) 
+$\frac{75}{36} \cdot \frac{144}{125}=\frac{12}{5}=\pu{ 2.4 }$
+#### f) 
+$\frac{36}{5}: \frac{6}{25}=30$
+#### g) 
+$\frac{4}{5}: \frac{7}{8}=\frac{32}{35}=\pu{ 0.478 }$
+#### h) 
+$\frac{55}{51}\cdot \frac{17}{65} : \frac{39}{77} \cdot \frac{14}{10}=\frac{11}{39}: \frac{39}{55}=\frac{605}{1521}=\pu{ 0.3978 }$
 
 <u> Ziel: </u>wir wollen die Periode loswerden 
 - ⤷das gelingt uns durch Subtraktion der Periode. 
