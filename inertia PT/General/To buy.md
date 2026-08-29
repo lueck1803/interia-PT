@@ -12,7 +12,7 @@
 - [ ] Bier
 - [x] Bananen
 - [x] Pilze
-- [ ] Toast
+- [x] Toast
 - [ ] würstchen
 - [x] buldag
 - [ ] pizza
