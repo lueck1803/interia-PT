@@ -367,9 +367,12 @@ $\frac{75}{36} \cdot \frac{144}{125}=$
 $=\frac{\cancel{ 25 }\cdot 3}{\cancel{ 12 }\cdot 3} \cdot \frac{12\cdot \cancel{ 12 }}{\cancel{ 25 } \cdot 5}=\frac{\cancel{ 3 }\cdot  12 }{\cancel{ 3 } \cdot 5}$
 $=\frac{12}{5}=\pu{ 2.4 }$
 #### f) 
-$\frac{36}{5}: \frac{6}{25}=30$
+$\frac{36}{5}: \frac{6}{25}=\frac{\cancelto{ 6 }{ 36 }\cdot \cancelto{ 5 }{ 25 }}{\cancel{ 5 }\cdot \cancel{ 6 }}$
+$\frac{5\cdot 6}{1}=30$
 #### g) 
-$\frac{4}{5}: \frac{7}{8}=\frac{32}{35}=\pu{ 0.478 }$
+$\frac{4}{5}: \frac{7}{8}=$
+$=\frac{4\cdot 8}{5\cdot 7}$
+$=\frac{32}{35}=\pu{ 0.478 }$
 #### h) 
 $\frac{55}{51}\cdot \frac{17}{65} : \frac{39}{77} \cdot \frac{14}{10}=\frac{11}{39}: \frac{39}{55}=\frac{605}{1521}=\pu{ 0.3978 }$
 
