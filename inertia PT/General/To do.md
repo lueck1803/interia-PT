@@ -304,6 +304,7 @@
 - [ ] Einkaufswagen weg
 - [ ] pilze waschen 
 - [ ] Pilze schneiden 
+- [ ] Dinkel raus
 - [x] schleudern 
 - [x] Toilette putzen
 - [ ] Backofen putzen 
