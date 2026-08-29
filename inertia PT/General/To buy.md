@@ -43,6 +43,7 @@
 - [ ] schwarze Oliven 
 # Other
 - [ ] Fensterstopper 
+- [ ] Sofakissenbezug <font color="#ff0000">Maße?</font>
 - [ ] Kehrblech für Balkon
 - [ ] Betaisodona
 - [x] Chipotle mayo
