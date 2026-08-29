@@ -301,6 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Spülmaschine ausräumen 
+- [ ] Einkaufswagen weg
 - [ ] Toilette putzen
 - [ ] Aldi
 - [ ] Wäsche aufhängen  
