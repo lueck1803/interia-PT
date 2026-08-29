@@ -304,8 +304,9 @@
 - [ ] Einkaufswagen weg
 - [ ] pilze waschen 
 - [ ] Pilze schneiden 
-- [ ] schleudern 
+- [x] schleudern 
 - [x] Toilette putzen
+- [ ] Backofen putzen 
 - [ ] Brokkoli kochen 
 - [x] Aldi
 - [ ] Wäsche aufhängen  
