@@ -301,6 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Spülmaschine ausräumen 
+- [ ] Aldi
 - [ ] Wäsche aufhängen  
 - [ ] arbeitsverhalten schulportal Eintrag ?
 - [ ] gibts ne regel für linter, dass man one-liner einfügen kann?
