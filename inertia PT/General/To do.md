@@ -306,7 +306,7 @@
 - [ ] laufen 
 - [ ] Kopfhörer putzen 
 - [ ] gelber Sack 
-- [ ] Wäsche aufhängen 
+- [x] Wäsche aufhängen 
 - [ ] narges heute nicht im Unterricht 
 - [ ] Griffe in der Küche
 - [ ] sofa
