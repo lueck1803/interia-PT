@@ -302,7 +302,9 @@
 
 - [ ] arbeitsverhalten schulportal Eintrag ?
 - [ ] wischen 
-- [ ] Küche 
+- [ ] Küche Arbeitsfläche wischen 
+- [ ] laufen 
+- [ ] Kopfhörer putzen 
 - [ ] gelber Sack 
 - [ ] Wäsche aufhängen 
 - [ ] narges heute nicht im Unterricht 
