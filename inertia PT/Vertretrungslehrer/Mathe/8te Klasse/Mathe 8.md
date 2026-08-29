@@ -374,7 +374,11 @@ $\frac{4}{5}: \frac{7}{8}=$
 $=\frac{4\cdot 8}{5\cdot 7}$
 $=\frac{32}{35}=\pu{ 0.478 }$
 #### h) 
-$\frac{55}{51}\cdot \frac{17}{65} : \frac{39}{77} \cdot \frac{14}{10}=\frac{11}{39}: \frac{39}{55}=\frac{605}{1521}=\pu{ 0.3978 }$
+$\frac{55}{51}\cdot \frac{17}{65} : \frac{39}{77} \cdot \frac{14}{10}=$
+$\frac{\cancel{ 5 }\cdot 11}{51}\cdot \frac{17}{\cancel{ 5 }\cdot 13} : \frac{39}{77} \cdot \frac{14}{10}$
+$\frac{\cancel{ 5 }\cdot 11}{51}\cdot \frac{17}{\cancel{ 5 }\cdot 13} : \frac{39}{77} \cdot \frac{14}{10}$
+
+$\frac{5929}{7605}=0.78$
 
 <u> Ziel: </u>wir wollen die Periode loswerden 
 - ⤷das gelingt uns durch Subtraktion der Periode. 
