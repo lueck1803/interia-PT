@@ -303,6 +303,7 @@
 - [ ] Spülmaschine ausräumen 
 - [ ] Aldi
 - [ ] Wäsche aufhängen  
+- [ ] Video https://youtu.be/08We3mhQbAg?is=TFBWFRDAFpD9Duzu schauen 
 - [ ] arbeitsverhalten schulportal Eintrag ?
 - [ ] gibts ne regel für linter, dass man one-liner einfügen kann?
 - [x] kursmappe
