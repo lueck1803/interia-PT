@@ -383,7 +383,7 @@
 	- [ ] montesorri arbeitsblatt 22 mal kopieren %% fold %%
 	- [ ] grundrechenarten ohne balken 22 mal kopieren
 - [ ] Erklärung dezimal zu bruch Zeilennummern und Aufzählung nummerieren
-- [ ] schul.cloud einladen 
+- [ ] schul.cloud einladen  %% fold %%
 	- [x] Hana %% fold %%
 	- [x] shanaja
 	- [x] xenia
