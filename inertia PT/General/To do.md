@@ -312,7 +312,7 @@
 	- [x] p 8b
 	- [ ] p 8c
 	- [ ] p 10b
-	- [ ] p 10a %% fold %%
+	- [ ] p 10a
 	- [x] E 5b
 - [ ] neues Thema in Mathe beginnen + Arbeitsblatt 
 	- [ ] Tafelanschrieb
