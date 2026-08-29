@@ -307,7 +307,8 @@
 - [ ] schleudern 
 - [ ] Wäsche aufhängen 
 - [x] Toilette putzen
-- [ ] Aldi
+- [ ] 
+- [x] Aldi
 - [ ] Wäsche aufhängen  
 - [ ] Video https://youtu.be/08We3mhQbAg?is=TFBWFRDAFpD9Duzu schauen 
 - [ ] arbeitsverhalten schulportal Eintrag ?
