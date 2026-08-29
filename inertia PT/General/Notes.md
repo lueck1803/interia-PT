@@ -103,6 +103,9 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+## 2026-08-29
+### Katrin mair
+Um es nochmal zu verdeutlichen, ich habe unteranderem in dem Gespräch versucht ihr Verständnis für die Arbeit der Schule und Institutionen zu machen. Ihr klar zu machen wie sinnvoll es ist nicht all zu sehr auf der Seite ihres Kindes zu stehen, nicht alles direkt zu glauben, da sie ihrem Kind mehr schadet als vermeintlich zu unter stützen und es gut ist sich möglichst kooperativ gegenüber Institutionen zu zeigen, auch wenn es scheinbar unfair erscheint. 
 ## 2026-08-23
 ### Samiha
 Hi Samiha,
