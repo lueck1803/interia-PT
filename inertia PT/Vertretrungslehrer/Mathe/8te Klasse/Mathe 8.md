@@ -378,7 +378,8 @@ $\frac{55}{51}\cdot \frac{17}{65} : \frac{39}{77} \cdot \frac{14}{10}=$
 $\frac{\cancel{ 5 }\cdot 11}{51}\cdot \frac{17}{\cancel{ 5 }\cdot 13} : \frac{39}{77} \cdot \frac{14}{10}$
 $\frac{ 11\cdot 17}{51\cdot 13} {\color{red}\cdot} {\color{green}\frac{77}{39}} \cdot \frac{14}{10}=\frac{187}{663}\cdot \frac{77}{39}\cdot \frac{14}{10}$
 $\frac{187\cdot 1078}{663\cdot 390}=\frac{201586}{258570}$
-$\underset{ ggT(201586,258570)=34 }{ = }\frac{5929}{7605}=0.78$
+$\text{ggT}(201586,258570)=34$
+$= \frac{5929}{7605}=0.78$
 
 <u> Ziel: </u>wir wollen die Periode loswerden 
 - ⤷das gelingt uns durch Subtraktion der Periode. 
