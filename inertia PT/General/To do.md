@@ -305,9 +305,8 @@
 - [ ] pilze waschen 
 - [ ] Pilze schneiden 
 - [ ] schleudern 
-- [ ] Wäsche aufhängen 
 - [x] Toilette putzen
-- [ ] 
+- [ ] Brokkoli kochen 
 - [x] Aldi
 - [ ] Wäsche aufhängen  
 - [ ] Video https://youtu.be/08We3mhQbAg?is=TFBWFRDAFpD9Duzu schauen 
@@ -389,7 +388,7 @@
 	- [ ] Mathebuch 5
 		- [ ] Sophia  %% fold %%
 		- [ ] espen
-		- hab ich beides Claudia weitergegeben
+		- hab ich beides Claudia weitergegeben %% fold %%
 	- [x] Quentin umsetzen  %% fold %%
 		- hab ich ansia weiter gegeben %% fold %%
 - [ ] dringend schauen was so verbrannt riecht 
