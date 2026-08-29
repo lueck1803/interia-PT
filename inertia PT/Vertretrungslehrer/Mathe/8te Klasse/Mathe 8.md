@@ -351,7 +351,9 @@ $\underset{ \small \text{ kgV}(3,2)=6 }{ = }\left( \frac{8\cdot \color{cyan}2 }{
 $=\frac{16-21}{6} +\frac{13}{5}\underset{ \text{kgV}(6,5)=30 }{ = } \frac{-5\cdot {\color{cyan}5}+13\cdot \color{orange}6}{30}$
 $=\frac{-25+78}{30}=\frac{53}{30}=1,7\overline{6}$
 #### c) 
-$\frac{24}{40}-\frac{33}{9}+\frac{28}{15}=-\frac{6}{5}=\pu{ -1.2 }$
+$\frac{24}{40}-\frac{33}{9}+\frac{28}{15}=$
+$=\frac{24\cdot \color{cyan}9}{40\cdot \color{cyan}9}-\frac{33\cdot \color{orange}40}{9\cdot \color{orange}40}=$
+$-\frac{6}{5}=\pu{ -1.2 }$
 #### d) 
 $\frac{21 \cdot 3 \cdot 35}{49 \cdot 15 \cdot 9}=\frac{1}{3}$
 #### e) 
