@@ -345,9 +345,9 @@ $\frac{3}{5}+\frac{5}{4}= \frac{3\cdot \color{cyan}4}{5\cdot \color{cyan}4}+\fra
 $=\frac{12+25}{20}=\frac{37}{20}=\pu{ 1.85}$
 #### b) 
 $\frac{8}{3}-\frac{7}{2}+\frac{13}{5}$
-Hier gilt das Assoziativgesetz, ich kann Klammern wie ich das für richtig halte:
-$\frac{8}{3}-\left( \frac{7}{2}+\frac{13}{5} \right)$
-$\underset{ \small \text{ kgV}(2,5)=10 }{ = }\frac{8}{3}-\left( \frac{7\cdot \color{cyan}5}{2\cdot \color{cyan}5}+\frac{13\cdot \color{orange} 2}{5\cdot \color{orange}2} \right)$ 
+Hier muss ich sozusagen richtig bzw. nicht Klammern!:
+$\left( \frac{8}{3}-\frac{7}{2} \right)+\frac{13}{5} \ne\frac{8}{3}-\left( \frac{7}{2}+\frac{13}{5} \right)$
+$\underset{ \small \text{ kgV}(3,2)=6 }{ = }\left( \frac{8\cdot \color{cyan} }{3}-\frac{7\cdot \color{orange}5}{2\cdot \color{cyan}5} \right)+\frac{13\cdot \color{orange} 2}{5\cdot \color{orange}2}$ 
 $=\frac{8}{3}-\left(\frac{35+26}{10} \right)=\frac{8}{3}-\frac{51}{10}$ 
 $\underset{ \small \text{kgV}(3,10)=30 }{ = }\frac{8\cdot \color{cyan}10}{3\cdot \color{cyan}10}-\frac{51\cdot \color{orange}3}{10\cdot \color{orange}3}=\frac{80-153}{30}$
 $=\frac{-73}{30}=-2,4\overline{3}$
