@@ -13,6 +13,7 @@
 - [ ] Bananen
 - [ ] Pilze
 - [ ] Toast
+- [ ] würstchen
 
 
 ## später mal
