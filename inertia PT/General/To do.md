@@ -302,6 +302,7 @@
 
 - [ ] Spülmaschine ausräumen 
 - [ ] Wäsche aufhängen  
+- [ ] 
 - [ ] arbeitsverhalten schulportal Eintrag ?
 - [ ] gibts ne regel für linter, dass man one-liner einfügen kann?
 - [x] kursmappe
