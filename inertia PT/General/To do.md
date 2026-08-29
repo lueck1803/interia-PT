@@ -304,7 +304,7 @@
 - [ ] Maße Sofakissenbezug aufschreiben
 - [ ] wischen 
 - [ ] Küche Arbeitsfläche wischen 
-- [ ] laufen 
+- [ ] draußen bewegen 
 - [ ] Kopfhörer putzen 
 - [ ] gelber Sack 
 - [x] Wäsche aufhängen 
