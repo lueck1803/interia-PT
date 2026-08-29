@@ -10,8 +10,8 @@
 ## Jetzt
 - Einkaufswagen 
 - [ ] Bier
-- [ ] Bananen
-- [ ] Pilze
+- [x] Bananen
+- [x] Pilze
 - [ ] Toast
 - [ ] würstchen
 - [ ] buldag
