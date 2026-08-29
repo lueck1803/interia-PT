@@ -345,7 +345,8 @@ $\frac{3}{5}+\frac{5}{4}= \frac{3\cdot \color{cyan}4}{5\cdot \color{cyan}4}+\fra
 $=\frac{12+25}{20}=\frac{37}{20}=\pu{ 1.85}$
 #### b) 
 $\frac{8}{3}-\frac{7}{2}+\frac{13}{5}$
-Hier muss in der richtigen Reihenfolge ausgerechnet werden!:
+Hier muss in der richtigen
+Reihenfolge ausgerechnet werden!:
 $\left( \frac{8}{3}-\frac{7}{2} \right)+\frac{13}{5} \ne\frac{8}{3}-\left( \frac{7}{2}+\frac{13}{5} \right)$
 $\underset{ \small \text{ kgV}(3,2)=6 }{ = }\left( \frac{8\cdot \color{cyan}2 }{3\cdot \color{cyan}2}-\frac{7\cdot \color{orange}3}{2\cdot \color{orange}3} \right)+\frac{13}{5}$ 
 $=\frac{16-21}{6} +\frac{13}{5}\underset{ \text{kgV}(6,5)=30 }{ = } \frac{-5\cdot {\color{cyan}5}+13\cdot \color{orange}6}{30}$
