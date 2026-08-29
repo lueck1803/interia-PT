@@ -348,7 +348,7 @@ $\frac{8}{3}-\frac{7}{2}+\frac{13}{5}$
 Hier muss in der richtigen Reihenfolge ausgerechnet werden!:
 $\left( \frac{8}{3}-\frac{7}{2} \right)+\frac{13}{5} \ne\frac{8}{3}-\left( \frac{7}{2}+\frac{13}{5} \right)$
 $\underset{ \small \text{ kgV}(3,2)=6 }{ = }\left( \frac{8\cdot \color{cyan}2 }{3\cdot \color{cyan}2}-\frac{7\cdot \color{orange}3}{2\cdot \color{orange}3} \right)+\frac{13}{5}$ 
-$\frac{16-21}{6} +\frac{13}{5}\underset{ \text{kgV}(6,5)=30 }{ = }$
+$\frac{16-21}{6} +\frac{13}{5}\underset{ \text{kgV}(6,5)=30 }{ = } \frac{-5\cdot {\color{cyan}5}+13\cdot \color{orange}6}{30}$
 $\underset{ \small \text{kgV}(3,10)=30 }{ = }\frac{8\cdot \color{cyan}10}{3\cdot \color{cyan}10}-\frac{51\cdot \color{orange}3}{10\cdot \color{orange}3}=\frac{80-153}{30}$
 $=\frac{-73}{30}=-2,4\overline{3}$
 #### c) 
