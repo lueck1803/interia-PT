@@ -357,7 +357,8 @@ $=\frac{216-1320}{360}+\frac{28}{15}=\frac{-1440}{360}+\frac{28}{15}$
 $=\frac{-1104}{360}+\frac{28\cdot \color{orange} 24}{15\cdot \color{orange}24}= \frac{-1104+672}{360}$
 $=-\frac{432}{360}=-\frac{6}{5}=\pu{ -1.2 }$
 #### d) 
-$\frac{21 \cdot 3 \cdot 35}{49 \cdot 15 \cdot 9}=\frac{1}{3}$
+$\frac{21 \cdot 3 \cdot 35}{49 \cdot 15 \cdot 9}=\frac{63\cdot 35}{735\cdot 9}$
+$=\frac{}{}=\frac{1}{3}$
 #### e) 
 $\frac{75}{36} \cdot \frac{144}{125}=\frac{12}{5}=\pu{ 2.4 }$
 #### f) 
