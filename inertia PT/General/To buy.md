@@ -9,13 +9,12 @@
 # Aldi
 ## Jetzt
 - Einkaufswagen 
-- [ ] Bier
+- [x] Bier
 - [x] Bananen
 - [x] Pilze
 - [x] Toast
-- [ ] würstchen
 - [x] buldag
-- [ ] pizza
+- [x] pizza
 
 
 ## später mal
