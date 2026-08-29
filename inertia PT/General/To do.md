@@ -304,7 +304,9 @@
 - [ ] Einkaufswagen weg
 - [ ] pilze waschen 
 - [ ] Pilze schneiden 
-- [ ] Toilette putzen
+- [ ] schleudern 
+- [ ] Wäsche aufhängen 
+- [x] Toilette putzen
 - [ ] Aldi
 - [ ] Wäsche aufhängen  
 - [ ] Video https://youtu.be/08We3mhQbAg?is=TFBWFRDAFpD9Duzu schauen 
