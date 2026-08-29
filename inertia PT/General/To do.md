@@ -302,7 +302,7 @@
 
 - [ ] Spülmaschine ausräumen 
 - [ ] Einkaufswagen weg
-- [ ] pilze waschen 
+- [x] pilze waschen 
 - [ ] Pilze schneiden 
 - [ ] Dinkel raus
 - [x] schleudern 
