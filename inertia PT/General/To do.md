@@ -309,7 +309,8 @@
 - [x] Gläser per Hand spülen 
 	- [ ] in die Spülmaschine 
 - [ ] Behälter spülen 
-- [ ] Sachen in den Backofen räumen 
+- [x] Sachen in den Backofen räumen 
+- [ ] balkon gießen 
 
 - [ ] mac Tastatur
 	- [ ] neue Tasten für mac bestellen %% fold %%
