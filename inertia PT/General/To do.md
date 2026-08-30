@@ -310,11 +310,13 @@
 - [ ] Behälter spülen 
 - [ ] Ikea Behälter spülen 
 - [ ] Einkaufswagen weg
+- [ ] Schnittlauch ernten 
 - [ ] Pilzeessen machen 
 	- [ ] pilze braten
 	- [ ] Zwiebeln 
 	- [ ] Knoblauch 
 	- [ ] Schmelzkäse 
+	- [ ] Schnittlauch 
 - [x] Dinkel raus
 - [ ] Backofen putzen 
 - [ ] Brokkoli kochen 
