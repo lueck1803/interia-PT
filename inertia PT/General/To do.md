@@ -306,8 +306,10 @@
 - [ ] Topfdeckel spülen 
 - [ ] pfannendeckel spülen 
 - [ ] Ikea Behälter spülen 
-- [ ] Gläser per Hand spülen 
+- [x] Gläser per Hand spülen 
+	- [ ] in die Spülmaschine 
 - [ ] Behälter spülen 
+- [ ] Sachen in den Backofen räumen 
 
 - [ ] mac Tastatur
 	- [ ] neue Tasten für mac bestellen %% fold %%
