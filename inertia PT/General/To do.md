@@ -324,6 +324,7 @@
 - [ ] Papiermüll weg 
 - [ ] draußen bewegen 
 - [ ] resting grounds Noten anschauen und mir die richtigen raus suchen 
+- [ ] lösung mit der Biene durchlesen 
 
 
 - [x] Kaffeemaschine leeren
