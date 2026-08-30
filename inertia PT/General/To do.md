@@ -304,6 +304,7 @@
 - [ ] duschen + rasieren 
 - [x] mehl und andere Behälter prüfen 
 - [x] mehl einpacken 
+- [ ] tomaten waschen 
 - [ ] Pfanne spülen 
 - [ ] Topfdeckel spülen 
 - [ ] pfannendeckel spülen 
