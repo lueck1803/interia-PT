@@ -416,20 +416,20 @@ $= \frac{5929}{7605}=0.78$
 #### 4)
 <u> Ziel: </u>wir wollen die Periode loswerden \\
 ⤷das gelingt uns durch Subtraktion der Periode. 
-	Wir müssen also $\pu{ 0,9999\dots }$,  $\pu{ 0,8888\dots }$,  $\pu{ 0,007777\dots }$ oder $\pu{ 0,06666\dots }$ abziehen
-- dazu nehmen wir die Zahl und <font color="#ffd700">verschieben</font> sie <font color="#ffd700">um so viele Kommastellen</font>, dass die Zahl die sich wiederholt vor dem Komma beginnt. In dem wir sie mit der entsprechenden Zehnerpotenz multiplizieren also: $10^{1}=10, 10^{2}=100, 10^{3}=1000, \dots$
-- Dazu machen wir erstmal etwas ungewöhnliches. Wir <font color="#ffd700">weisen die Zahl </font>die wir umwandeln wollen <font color="#ffd700">einer Variablen zu</font>, um im nächsten Schritt eine Zahl zu bekommen, die wir um die Kommastellen verschoben haben:
-	- Bei $0,\bar{8}$ bedeutet das also:
-	- $\mathrm{I}\quad {\color{red}x=}\pu{ 0,8888\dots }$ das $\mathrm{I}$ benennt dabei nur diese Zuweisung
-- Jetzt verschieben wir das Komma und erzeugen uns dadurch eine zweite Gleichung:
-	- hier müssen wir mit 10 multiplizieren, um den Anfang der Periode vor das Komma zu ziehen.
-	- $\mathrm{II}\quad {\color{red}10}x=\pu{ {\color{red}{8,}} 8888\dots }$
+	Wir müssen also $0,9999\dots$,  $0,8888\dots$,  $0,007777\dots$ oder $0,06666\dots$ abziehen\\
+dazu nehmen wir die Zahl und \textcolor{yellow}{verschieben} sie \textcolor{yellow}{um so viele Kommastellen}, dass die Zahl die sich wiederholt vor dem Komma beginnt. In dem wir sie mit der entsprechenden Zehnerpotenz multiplizieren also: $10^{1}=10, 10^{2}=100, 10^{3}=1000, \dots$
+Dazu machen wir erstmal etwas ungewöhnliches. Wir \textcolor{yellow}{weisen die Zahl} die wir umwandeln wollen <\textceiner Variablen zu</font>, um im nächsten Schritt eine Zahl zu bekommen, die wir um die Kommastellen verschoben haben:\\
+	Bei $0,\bar{8}$ bedeutet das also:
+	$\mathrm{I}\quad {\color{red}x=} 0,8888\dots$ das $\mathrm{I}$ benennt dabei nur diese Zuweisung
+ Jetzt verschieben wir das Komma und erzeugen uns dadurch eine zweite Gleichung:\\
+	hier müssen wir mit 10 multiplizieren, um den Anfang der Periode vor das Komma zu ziehen.\\
+	$\mathrm{II}\quad {\color{red}10}x={\color{red}{8,}} 8888\dots$
 - Dann <font color="#ffd700">ziehen</font> wir Gleichung $\mathrm{I}$ von Gleichung $\mathrm{II}$ <font color="#ffd700">ab</font>. Dadurch <font color="#ff6e6e">fällt</font> <font color="#ffd700">die Periode weg</font> und wir müssen nur noch nach $x$ auflösen:
 	- $\mathrm{II}-\mathrm{I}$:
-	- $\mathrm{II}-\mathrm{I}\quad 10x-x = \pu{ 8,8888\dots }- \pu{ 0,8888\dots }$
-	- $\mathrm{II}-\mathrm{I}\quad 9x = \pu{ 8 }$
+	- $\mathrm{II}-\mathrm{I}\quad 10x-x =  8,8888\dots -  0,8888\dots$
+	- $\mathrm{II}-\mathrm{I}\quad 9x =  8$
 - Wir lösen jetzt noch nach $x$ auf:
-	- $\mathrm{II}-\mathrm{I}\quad 9x=\pu{8} \quad \left|\;:9\right.$
+	- $\mathrm{II}-\mathrm{I}\quad 9x=8 \quad \left|\;:9\right.$
 	- $x= \frac{8}{9}$
 - Und wir sind fertig.
 
