@@ -311,7 +311,7 @@
 	- [x] p 10a
 	- [x] E 5b
 
-- [ ] Zähne putzen 
+- [x] Zähne putzen 
 - [x] Reis und Pilzessen in den Kühlschrank
 
 - [ ] Topfdeckel spülen 
