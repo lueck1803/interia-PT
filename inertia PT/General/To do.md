@@ -312,7 +312,7 @@
 	- [x] E 5b
 
 - [ ] Zähne putzen 
-- [ ] AOK die neues
+- [ ] AOK die neuste Abrechnung vom August dann einreichen 
 
 - [ ] Topfdeckel spülen 
 - [ ] pfannendeckel spülen 
