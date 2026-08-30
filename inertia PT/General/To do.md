@@ -302,7 +302,7 @@
 
 - [x] Zähne putzen 
 - [x] Duolingo
-- [ ] Krafttraining 
+- [x] Krafttraining 
 - [x] Bart schneiden 
 
 - [ ] Topfdeckel spülen 
@@ -323,6 +323,7 @@
 - [ ] gelber Sack 
 - [ ] Papiermüll weg 
 - [ ] draußen bewegen 
+- [ ] resting grounds Noten anschauen und mir die richtigen raus suchen 
 
 
 - [x] Kaffeemaschine leeren
