@@ -331,7 +331,8 @@
 
 - [ ] duschen + rasieren 
 
-- [ ] Nudeln kochen 
+- [ ] reis kochen 
+	- um ihn mit den Pilzen zu essen
 - [ ] Backofengitter putzen 
 - [ ] tomaten waschen 
 - [ ] Brokkoli waschen 
