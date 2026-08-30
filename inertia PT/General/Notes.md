@@ -4420,6 +4420,16 @@ This far exceeds typical convective rates for the same area.
 - frontal lobe finishes development around 25
 ## Psychose
 
+Demnach interagiert eine ggf. vorhandene Veranlagung (Disposition; genetisch oder vorgeburtlich entstanden) mit darauffolgendem Stress, der als Auslöser angenommen wird.[14] Stressoren können sein:
+
+- prä- und perinatale Faktoren wie mütterlicher Stress in der Schwangerschaft[15][16] oder der Geburtsort,
+- Einflüsse auf das Immunsystem (kindliche Infektionen),
+- Sozialisation und die psychische Entwicklung des Kindes,
+- anatomische und funktionelle Abweichungen in der Struktur des Gehirns,[17][18]
+- mechanische Einwirkung auf das Gehirn (z. B. durch Schädel-Hirn-Traumen oder Tumoren),
+- hormonelle Einflüsse,
+- psychotrope Substanzen (darunter Alkohol, Cannabis und Medikamente),[19][20][21]
+- sowie diverse somatische Erkrankungen (autoimmun/rheumatisch, endokrin).
 # Trans
 - das wichtigste sollte das Wohl des betreffenden Menschen sein 
 - in der Pubertät/als Jugendlicher hat man sehr häufig extreme und starke Überzeugungen bei denen man 120% sicher ist und sich dann nach ein paar Jahren herausstellt, dass es doch nicht so ist
