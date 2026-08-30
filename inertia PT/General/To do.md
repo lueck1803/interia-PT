@@ -307,8 +307,8 @@
 	- [x] p 8a 
 	- [x] p 8b
 	- [x] p 8c
-	- [ ] p 10b
-	- [ ] p 10a
+	- [x] p 10b
+	- [x] p 10a
 	- [x] E 5b
 
 - [ ] Zähne putzen 
