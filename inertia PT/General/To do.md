@@ -302,8 +302,8 @@
 
 - [x] kursmappe
 	- [x] m 5a %% fold %%
-	- [ ] m 8a
-	- [ ] m 8b
+	- [x] m 8a
+	- [x] m 8b
 	- [x] p 8a 
 	- [x] p 8b
 	- [ ] p 8c
