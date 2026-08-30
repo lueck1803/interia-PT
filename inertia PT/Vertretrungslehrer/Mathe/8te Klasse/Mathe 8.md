@@ -341,8 +341,10 @@ $-\frac{18}{7}=-\frac{18\cdot \color{cyan} 2}{7\cdot \color{cyan}2}=-\frac{36}{1
 ### 3)
 
 #### a)
-$\frac{3}{5}+\frac{5}{4}= \frac{3\cdot \color{cyan}4}{5\cdot \color{cyan}4}+\frac{5\cdot \color{orange}5}{4\cdot\color{orange}5}$ 
-$=\frac{12+25}{20}=\frac{37}{20}=\pu{ 1.85}$
+$\frac{3}{5}+\frac{5}{4}$
+$=\frac{3\cdot \color{cyan}4}{5\cdot \color{cyan}4}+\frac{5\cdot \color{orange}5}{4\cdot\color{orange}5}$ 
+$=\frac{12+25}{20}$
+$=\frac{37}{20}=1,85$
 #### b) 
 $\frac{8}{3}-\frac{7}{2}+\frac{13}{5}$
 Hier muss in der richtigen
@@ -399,7 +401,7 @@ $=\frac{21 \cdot  \cancel{ 7 }} {\cancelto{ 7 }{ 49 } \cdot 9}=\frac{\cancelto{ 
 #### e) 
 $\frac{75}{36} \cdot \frac{144}{125}=$
 $=\frac{\cancel{ 25 }\cdot 3}{\cancel{ 12 }\cdot 3} \cdot \frac{12\cdot \cancel{ 12 }}{\cancel{ 25 } \cdot 5}=\frac{\cancel{ 3 }\cdot  12 }{\cancel{ 3 } \cdot 5}$
-$=\frac{12}{5}=\pu{ 2.4 }$
+$=\frac{12}{5}=2.4$
 #### f) 
 $\frac{36}{5}: \frac{6}{25}=$
 $\frac{\cancelto{ 6 }{ 36 }\cdot \cancelto{ 5 }{ 25 }}{\cancel{ 5 }\cdot \cancel{ 6 }}$
@@ -407,7 +409,7 @@ $=\frac{5\cdot 6}{1}=30$
 #### g) 
 $\frac{4}{5}: \frac{7}{8}=$
 $=\frac{4\cdot 8}{5\cdot 7}$
-$=\frac{32}{35}=\pu{ 0.478 }$
+$=\frac{32}{35}=0,478$
 #### h) 
 $\frac{55}{51}\cdot \frac{17}{65} : \frac{39}{77} \cdot \frac{14}{10}=$
 $\frac{\cancel{ 5 }\cdot 11}{51}\cdot \frac{17}{\cancel{ 5 }\cdot 13} : \frac{39}{77} \cdot \frac{14}{10}$
