@@ -312,6 +312,7 @@
 	- [x] E 5b
 
 - [ ] Zähne putzen 
+- [ ] AOK die neues
 
 - [ ] Topfdeckel spülen 
 - [ ] pfannendeckel spülen 
@@ -337,7 +338,7 @@
 - [ ] Griffe in der Küche
  %% fold %%
 - [ ] neues Thema in Mathe beginnen + Arbeitsblatt  %% fold %%
-	- [ ] <font color="#92d050">Blick ins Buch</font>
+	- [ ] <font color="#92d050">Blick ins Buch</font> %% fold %%
 	- [ ] Tafelanschrieb
 		- [ ] Kommutativ, Assoziativ und Distributivgesetz
 		- [ ] Potenzgesetze
