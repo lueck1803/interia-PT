@@ -301,16 +301,12 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Spülmaschine ausräumen 
+- [ ] Tastatur wischen
 - [ ] Einkaufswagen weg
-- [x] pilze waschen 
 - [ ] Pilze schneiden 
 - [ ] Dinkel raus
-- [x] schleudern 
-- [x] Toilette putzen
 - [ ] Backofen putzen 
 - [ ] Brokkoli kochen 
-- [x] Aldi
-- [x] Wäsche aufhängen  
 - [ ] Video https://youtu.be/08We3mhQbAg?is=TFBWFRDAFpD9Duzu schauen 
 - [ ] arbeitsverhalten schulportal Eintrag ?
 - [ ] gibts ne regel für linter, dass man one-liner einfügen kann?
@@ -339,8 +335,6 @@
 			- [ ] Ausklammern von gemeinsamen Faktoren
 			- [ ] Auflösen von zwei Klammern in einem Produkt
 			- [ ] Binomische Formeln
-- [x] kissen lüften
-- [x] Maße Sofakissenbezug aufschreiben
 - [ ] wischen 
 - [ ] Küche Arbeitsfläche wischen 
 - [ ] draußen bewegen 
@@ -389,7 +383,7 @@
 	- [x] blatt kopieren 
 	- [ ] Mathebuch 5
 		- [ ] Sophia  %% fold %%
-		- [ ] espen
+		- [ ] espen %% fold %%
 		- hab ich beides Claudia weitergegeben %% fold %%
 	- [x] Quentin umsetzen  %% fold %%
 		- hab ich ansia weiter gegeben %% fold %%
