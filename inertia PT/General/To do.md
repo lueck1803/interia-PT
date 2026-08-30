@@ -301,8 +301,9 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [x] Zähne putzen 
-- [ ] Duolingo
+- [x] Duolingo
 - [ ] Krafttraining 
+- [ ] Bart schneiden 
 
 - [ ] Topfdeckel spülen 
 - [ ] pfannendeckel spülen 
