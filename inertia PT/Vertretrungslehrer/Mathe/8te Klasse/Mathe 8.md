@@ -418,7 +418,7 @@ $= \frac{5929}{7605}=0.78$
 ⤷das gelingt uns durch Subtraktion der Periode. 
 	Wir müssen also $0,9999\dots$,  $0,8888\dots$,  $0,007777\dots$ oder $0,06666\dots$ abziehen\\
 dazu nehmen wir die Zahl und \textcolor{yellow}{verschieben} sie \textcolor{yellow}{um so viele Kommastellen}, dass die Zahl die sich wiederholt vor dem Komma beginnt. In dem wir sie mit der entsprechenden Zehnerpotenz multiplizieren also: $10^{1}=10, 10^{2}=100, 10^{3}=1000, \dots$
-Dazu machen wir erstmal etwas ungewöhnliches. Wir \textcolor{yellow}{weisen die Zahl} die wir umwandeln wollen <\textceiner Variablen zu</font>, um im nächsten Schritt eine Zahl zu bekommen, die wir um die Kommastellen verschoben haben:\\
+Dazu machen wir erstmal etwas ungewöhnliches. Wir \textcolor{yellow}{weisen die Zahl} die wir umwandeln wollen \textcolor{yellow}{einer Variablen zu}, um im nächsten Schritt eine Zahl zu bekommen, die wir um die Kommastellen verschoben haben:\\
 	Bei $0,\bar{8}$ bedeutet das also:
 	$\mathrm{I}\quad {\color{red}x=} 0,8888\dots$ das $\mathrm{I}$ benennt dabei nur diese Zuweisung
  Jetzt verschieben wir das Komma und erzeugen uns dadurch eine zweite Gleichung:\\
