@@ -301,7 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Spülmaschine ausräumen 
-- [ ] duschen + ras
+- [ ] duschen + rasieren 
 - [x] Tastatur wischen
 - [ ] Behälter spülen 
 - [ ] Ikea Behälter spülen 
