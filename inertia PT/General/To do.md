@@ -310,7 +310,7 @@
 - [ ] Backofen putzen 
 - [ ] Brokkoli kochen 
 - [x] Aldi
-- [ ] Wäsche aufhängen  
+- [x] Wäsche aufhängen  
 - [ ] Video https://youtu.be/08We3mhQbAg?is=TFBWFRDAFpD9Duzu schauen 
 - [ ] arbeitsverhalten schulportal Eintrag ?
 - [ ] gibts ne regel für linter, dass man one-liner einfügen kann?
@@ -339,7 +339,7 @@
 			- [ ] Ausklammern von gemeinsamen Faktoren
 			- [ ] Auflösen von zwei Klammern in einem Produkt
 			- [ ] Binomische Formeln
-- [ ] kissen lüften
+- [x] kissen lüften
 - [ ] Maße Sofakissenbezug aufschreiben
 - [ ] wischen 
 - [ ] Küche Arbeitsfläche wischen 
