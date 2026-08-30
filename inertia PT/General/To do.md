@@ -305,6 +305,7 @@
 - [x] mehl und andere Behälter prüfen 
 - [x] mehl einpacken 
 - [ ] tomaten waschen 
+- [ ] Brokkoli waschen 
 - [ ] Pfanne spülen 
 - [ ] Topfdeckel spülen 
 - [ ] pfannendeckel spülen 
