@@ -303,7 +303,7 @@
 - [x] Zähne putzen 
 - [x] Duolingo
 - [ ] Krafttraining 
-- [ ] Bart schneiden 
+- [x] Bart schneiden 
 
 - [ ] Topfdeckel spülen 
 - [ ] pfannendeckel spülen 
