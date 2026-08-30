@@ -340,7 +340,7 @@
 			- [ ] Auflösen von zwei Klammern in einem Produkt
 			- [ ] Binomische Formeln
 - [x] kissen lüften
-- [ ] Maße Sofakissenbezug aufschreiben
+- [x] Maße Sofakissenbezug aufschreiben
 - [ ] wischen 
 - [ ] Küche Arbeitsfläche wischen 
 - [ ] draußen bewegen 
