@@ -321,6 +321,7 @@
 - [ ] Einkaufswagen weg
 - [ ] Glasmüll 
 - [ ] gelber Sack 
+- [ ] Papiermüll weg 
 - [ ] draußen bewegen 
 
 
