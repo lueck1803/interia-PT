@@ -424,14 +424,14 @@ Dazu machen wir erstmal etwas ungewöhnliches. Wir \textcolor{yellow}{weisen die
  Jetzt verschieben wir das Komma und erzeugen uns dadurch eine zweite Gleichung:\\
 	hier müssen wir mit 10 multiplizieren, um den Anfang der Periode vor das Komma zu ziehen.\\
 	$\mathrm{II}\quad {\color{red}10}x={\color{red}{8,}} 8888\dots$
-- Dann ${\color{gold}\text{ziehen}}$ wir Gleichung $\mathrm{I}$ von Gleichung $\mathrm{II}$ $\text{ab}$. Dadurch <font color="#ff6e6e">fällt</font> <font color="#ffd700">die Periode weg</font> und wir müssen nur noch nach $x$ auflösen:
-	- $\mathrm{II}-\mathrm{I}$:
-	- $\mathrm{II}-\mathrm{I}\quad 10x-x =  8,8888\dots -  0,8888\dots$
-	- $\mathrm{II}-\mathrm{I}\quad 9x =  8$
-- Wir lösen jetzt noch nach $x$ auf:
-	- $\mathrm{II}-\mathrm{I}\quad 9x=8 \quad \left|\;:9\right.$
-	- $x= \frac{8}{9}$
-- Und wir sind fertig.
+ Dann ${\color{gold}\text{ziehen}}$ wir Gleichung $\mathrm{I}$ von Gleichung $\mathrm{II}$ $\color{gold}\text{ab}$. Dadurch $\color{orange}\text{fällt}$ $\color{gold}\text{die Periode weg}$ und wir müssen nur noch nach $x$ auflösen:\\
+$\mathrm{II}-\mathrm{I}$:\\
+	$\mathrm{II}-\mathrm{I}\quad 10x-x =  8,8888\dots -  0,8888\dots$\\
+	$\mathrm{II}-\mathrm{I}\quad 9x =  8$\\
+Wir lösen jetzt noch nach $x$ auf:\\
+	$\mathrm{II}-\mathrm{I}\quad 9x=8 \quad \left|\;:9\right.$\\
+	$x= \frac{8}{9}$\\
+Und wir sind fertig.
 
 
 $0,\overline{9}$
