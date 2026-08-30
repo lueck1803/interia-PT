@@ -392,7 +392,7 @@
 	- [x] Quentin umsetzen  %% fold %%
 		- hab ich ansia weiter gegeben %% fold %%
 - [ ] dringend schauen was so verbrannt riecht 
-- [ ] mac Tastatur
+- [ ] mac Tastatur %% fold %%
 	- [ ] neue Tasten für mac bestellen %% fold %%
 	- [ ] selbst reparieren %% fold %%
 - [ ] Mathe 5a  %% fold %%
