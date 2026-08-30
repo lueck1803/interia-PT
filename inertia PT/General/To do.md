@@ -301,7 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [x] kursmappe
-	- [ ] m 5a %% fold %%
+	- [x] m 5a %% fold %%
 	- [ ] m 8a
 	- [ ] m 8b
 	- [x] p 8a 
