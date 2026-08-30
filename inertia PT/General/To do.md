@@ -326,7 +326,7 @@
 - [ ] Küche Arbeitsfläche wischen 
 - [ ] Griffe in der Küche
 
-- [ ] Lösung für Arbeitsblattbrüche fertig
+- [x] Lösung für Arbeitsblattbrüche fertig
 
 - [ ] neues Thema in Mathe beginnen + Arbeitsblatt 
 	- [ ] <font color="#92d050">Blick ins Buch</font>

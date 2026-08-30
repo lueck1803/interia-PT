@@ -397,7 +397,8 @@ $=\frac{63\cdot 35}{735\cdot 9}$
 $=\frac{2205}{6615}=\frac{1}{3}$
 oder
 $\frac{21 \cdot \cancel{ 3 } \cdot 35}{49 \cdot \cancelto{ 5 }{ 15 } \cdot 9}=\frac{21 \cdot \cancelto{ 7 }{ 35 }}{49\cdot \cancel{ 5 } \cdot 9}$
-$=\frac{21 \cdot  \cancel{ 7 }} {\cancelto{ 7 }{ 49 } \cdot 9}=\frac{\cancelto{ 3 }{ 21 }}{\cancel{ 7 }\cdot 9}=\frac{3}{9}=\frac{1}{3}=0.\bar{3}$
+$=\frac{21 \cdot  \cancel{ 7 }} {\cancelto{ 7 }{ 49 } \cdot 9}=\frac{\cancelto{ 3 }{ 21 }}{\cancel{ 7 }\cdot 9}$
+$=\frac{3}{9}=\frac{1}{3}=0.\bar{3}$
 #### e) 
 $\frac{75}{36} \cdot \frac{144}{125}=$
 $=\frac{\cancel{ 25 }\cdot 3}{\cancel{ 12 }\cdot 3} \cdot \frac{12\cdot \cancel{ 12 }}{\cancel{ 25 } \cdot 5}=\frac{\cancel{ 3 }\cdot  12 }{\cancel{ 3 } \cdot 5}$
