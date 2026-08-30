@@ -301,10 +301,13 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Spülmaschine ausräumen 
-- [ ] Tastatur wischen
+- [ ] duschen + ras
+- [x] Tastatur wischen
+- [ ] Behälter spülen 
+- [ ] Ikea Behälter spülen 
 - [ ] Einkaufswagen weg
 - [ ] Pilze schneiden 
-- [ ] Dinkel raus
+- [x] Dinkel raus
 - [ ] Backofen putzen 
 - [ ] Brokkoli kochen 
 - [ ] Video https://youtu.be/08We3mhQbAg?is=TFBWFRDAFpD9Duzu schauen 
@@ -335,7 +338,7 @@
 			- [ ] Ausklammern von gemeinsamen Faktoren
 			- [ ] Auflösen von zwei Klammern in einem Produkt
 			- [ ] Binomische Formeln
-- [ ] wischen 
+- [x] wischen 
 - [ ] Küche Arbeitsfläche wischen 
 - [ ] draußen bewegen 
 - [ ] Kopfhörer putzen 
@@ -347,9 +350,8 @@
 	- [ ] decken
 - [ ] Zähne putzen 
 - [ ] Pilze schneiden bzw zubereiten 
-- [ ] Kaffeemaschine leeren
+- [x] Kaffeemaschine leeren
 - [ ] Eisbecher wegsortieren
-- [ ] duschen 
 - [ ] schauen ob die neuen der 8a schon auf schul.cloud sind
 - [ ] gibt es andere listen in denen das feld größer ist?
 	- [ ] erste Spalte nehme ich zur Anwesenheit
