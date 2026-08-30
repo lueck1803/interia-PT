@@ -300,24 +300,38 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- [x] Spülmaschine ausräumen 
+- [ ] Topfdeckel spülen 
+- [ ] pfannendeckel spülen 
+- [ ] Ikea Behälter spülen 
+- [ ] Gläser per Hand spülen 
+- [ ] Behälter spülen 
+
+
+- [ ] Einkaufswagen weg
+- [ ] Glasmüll 
+- [ ] gelber Sack 
+
+- [ ] Kaffeemaschine leeren
+
 - [ ] duschen + rasieren 
-- [x] mehl und andere Behälter prüfen 
-- [x] mehl einpacken 
+
 - [ ] Nudeln kochen 
 - [ ] Backofengitter putzen 
 - [ ] tomaten waschen 
 - [ ] Brokkoli waschen 
 - [ ] Pfanne spülen 
-- [ ] Topfdeckel spülen 
-- [ ] pfannendeckel spülen 
-- [ ] Gläser per Hand spülen 
+
+- [ ] Küche Arbeitsfläche wischen 
+- [ ] Griffe in der Küche
+
+
+- [x] Spülmaschine ausräumen 
+- [x] mehl und andere Behälter prüfen 
+- [x] mehl einpacken 
+
 - [x] Tastatur wischen
-- [ ] Behälter spülen 
-- [ ] Ikea Behälter spülen 
-- [ ] Einkaufswagen weg
-- [ ] Schnittlauch ernten 
-- [ ] Pilzeessen machen 
+- [x] Schnittlauch ernten 
+- [x] Pilzeessen machen 
 	- [x] pilze braten
 	- [x] Zwiebeln 
 	- [x] Knoblauch 
@@ -325,7 +339,7 @@
 	- [x] Schnittlauch 
 	- [x] Majoran 
 - [x] Dinkel raus
-- [ ] Backofen putzen 
+- [x] Backofen putzen 
 - [ ] Brokkoli kochen 
 - [ ] Video https://youtu.be/08We3mhQbAg?is=TFBWFRDAFpD9Duzu schauen 
 - [ ] arbeitsverhalten schulportal Eintrag ?
@@ -356,37 +370,33 @@
 			- [ ] Auflösen von zwei Klammern in einem Produkt
 			- [ ] Binomische Formeln
 - [x] wischen 
-- [ ] Küche Arbeitsfläche wischen 
 - [ ] draußen bewegen 
 - [ ] Kopfhörer putzen 
-- [ ] gelber Sack 
 - [ ] narges heute nicht im Unterricht 
-- [ ] Griffe in der Küche
 - [ ] sofa
 	- [ ] Kissenbezug 
 	- [ ] decken
 - [ ] Zähne putzen 
 - [ ] Pilze schneiden bzw zubereiten 
-- [x] Kaffeemaschine leeren
 - [ ] Eisbecher wegsortieren
 - [ ] schauen ob die neuen der 8a schon auf schul.cloud sind
 - [ ] gibt es andere listen in denen das feld größer ist?
 	- [ ] erste Spalte nehme ich zur Anwesenheit
-	- [ ] zweite Spalte nehme ich als mitarbeit
+	- [ ] zweite Spalte nehme ich als mitarbeit %% fold %%
 - [ ] Krafttraining 
 - [ ] Duolingo %% fold %%
-- [ ] black waltz
+- [ ] black waltz %% fold %%
 - [ ] Mutter von Mathis schreiben %% fold %%
 	- [x] ADHS Hilfe Deutschland %% fold %%
-	- [ ] sogar nochmal geschrieben...
-	- [ ] dann später den Kostenvoranschlag
-- [ ] Mathe handout
+	- [ ] sogar nochmal geschrieben... %% fold %%
+	- [ ] dann später den Kostenvoranschlag %% fold %%
+- [ ] Mathe handout %% fold %%
 	- [ ] Beispiel für
 		- [x] kleinstes gemeinsames Vielfaches
 		- [x] größter gemeinsamer Teiler
-	- [x] kleinstes gemeinsames Vielfaches von zahlen der gleichen Reihe? kürzen?
+	- [x] kleinstes gemeinsames Vielfaches von zahlen der gleichen Reihe? kürzen? %% fold %%
 - [ ] bett beziehen 
-- [ ] xenia als Hausaufgabe die Rechenaufgaben fertig machen 
+- [ ] xenia als Hausaufgabe die Rechenaufgaben fertig machen  %% fold %%
 - [ ] Lösung für matheblatt machen 
 - [ ] in meinem Bericht die Reihenfolge mit dem stuhl ändern
 - [ ] 10 b Rechenregeln Brüche anschreiben 
@@ -438,7 +448,6 @@
 	- [ ] neues Thema - Lineare Gleichungen /ungleichungen %% fold %%
 		- [ ] Terme mit Klammern
 - [ ] kühlschrank putzen
-- [ ] Glasmüll 
 - [ ] spazieren 
 - [ ] black waltz %% fold %%
 - [ ] Papierkram  %% fold %%
