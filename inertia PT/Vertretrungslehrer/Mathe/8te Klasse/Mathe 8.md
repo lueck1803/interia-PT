@@ -476,4 +476,12 @@ $x=\frac{\pu{ 41}}{30}$
 - Minuszeichen vor der Klammer %% fold %%
 - Ausklammern von gemeinsamen Faktoren
 
+## Kommutativgesetz
+## Assoziativgesetz
+
+## Distributivgesetz
+
+
+
+
 
