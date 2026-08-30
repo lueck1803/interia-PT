@@ -4418,6 +4418,7 @@ This far exceeds typical convective rates for the same area.
 	- 7+PCT ⟹anderer Kunststoff, aus der Polyester Familie = BPA frei 
 # Neurologie
 - frontal lobe finishes development around 25
+## Psychose
 
 # Trans
 - das wichtigste sollte das Wohl des betreffenden Menschen sein 
