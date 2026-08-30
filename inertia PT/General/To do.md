@@ -303,6 +303,7 @@
 - [x] Spülmaschine ausräumen 
 - [ ] duschen + rasieren 
 - [ ] mehl und andere Behälter prüfen 
+- [ ] mehl einpacken 
 - [ ] Pfanne spülen 
 - [ ] Topfdeckel spülen 
 - [ ] pfannendeckel spülen 
@@ -371,7 +372,7 @@
 - [ ] Duolingo %% fold %%
 - [ ] black waltz
 - [ ] Mutter von Mathis schreiben %% fold %%
-	- [x] ADHS Hilfe Deutschland
+	- [x] ADHS Hilfe Deutschland %% fold %%
 	- [ ] sogar nochmal geschrieben...
 	- [ ] dann später den Kostenvoranschlag
 - [ ] Mathe handout
