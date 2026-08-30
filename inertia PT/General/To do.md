@@ -300,7 +300,7 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- [ ] Zähne putzen 
+- [x] Zähne putzen 
 - [ ] Duolingo
 
 - [ ] Topfdeckel spülen 
@@ -310,7 +310,7 @@
 	- [x] in die Spülmaschine 
 - [ ] Behälter spülen 
 - [x] Sachen in den Backofen räumen 
-- [ ] balkon gießen 
+- [x] balkon gießen 
 
 - [ ] mac Tastatur
 	- [ ] neue Tasten für mac bestellen %% fold %%
@@ -322,7 +322,7 @@
 - [ ] draußen bewegen 
 
 
-- [ ] Kaffeemaschine leeren
+- [x] Kaffeemaschine leeren
 
 - [ ] duschen + rasieren 
 
