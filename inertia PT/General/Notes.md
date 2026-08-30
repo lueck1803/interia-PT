@@ -4419,7 +4419,7 @@ This far exceeds typical convective rates for the same area.
 # Neurologie
 - frontal lobe finishes development around 25
 ## Psychose
-
+### Ursachen 
 Demnach interagiert eine ggf. vorhandene Veranlagung (Disposition; genetisch oder vorgeburtlich entstanden) mit darauffolgendem Stress, der als Auslöser angenommen wird.[14] Stressoren können sein:
 
 - prä- und perinatale Faktoren wie mütterlicher Stress in der Schwangerschaft[15][16] oder der Geburtsort,
