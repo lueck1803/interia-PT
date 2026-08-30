@@ -318,11 +318,11 @@
 	- [ ] neue Tasten für mac bestellen %% fold %%
 	- [ ] selbst reparieren %% fold %%
 
-- [ ] Einkaufswagen weg
-- [ ] Glasmüll 
-- [ ] gelber Sack 
-- [ ] Papiermüll weg 
-- [ ] draußen bewegen 
+- [x] Einkaufswagen weg
+- [x] Glasmüll 
+- [x] gelber Sack 
+- [x] Papiermüll weg 
+- [x] draußen bewegen 
 - [ ] resting grounds Noten anschauen und mir die richtigen raus suchen 
 - [ ] lösung mit der Biene durchlesen 
 
