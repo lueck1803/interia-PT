@@ -307,7 +307,7 @@
 - [ ] pfannendeckel spülen 
 - [ ] Ikea Behälter spülen 
 - [x] Gläser per Hand spülen 
-	- [ ] in die Spülmaschine 
+	- [x] in die Spülmaschine 
 - [ ] Behälter spülen 
 - [x] Sachen in den Backofen räumen 
 - [ ] balkon gießen 
