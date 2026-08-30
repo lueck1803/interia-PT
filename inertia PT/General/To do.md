@@ -325,13 +325,14 @@
 - [x] draußen bewegen 
 - [ ] resting grounds Noten anschauen und mir die richtigen raus suchen 
 - [ ] lösung mit der Biene durchlesen 
+- [ ] Bretter spülen 
 
 
 - [x] Kaffeemaschine leeren
 
 - [ ] duschen + rasieren 
 
-- [ ] reis kochen 
+- [x] reis kochen 
 	- um ihn mit den Pilzen zu essen
 - [ ] Backofengitter putzen 
 - [ ] tomaten waschen 
