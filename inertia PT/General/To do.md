@@ -305,6 +305,7 @@
 - [x] mehl und andere Behälter prüfen 
 - [x] mehl einpacken 
 - [ ] Nudeln kochen 
+- [ ] Backofengitter putzen 
 - [ ] tomaten waschen 
 - [ ] Brokkoli waschen 
 - [ ] Pfanne spülen 
