@@ -302,6 +302,7 @@
 
 - [x] Spülmaschine ausräumen 
 - [ ] duschen + rasieren 
+- [ ] mehl und andere Behälter prüfen 
 - [ ] Pfanne spülen 
 - [ ] Topfdeckel spülen 
 - [ ] pfannendeckel spülen 
