@@ -738,7 +738,7 @@
 - [ ] Waschbecken
 	- [ ] bad
 	- [ ] Küche 
-- [ ] mathe info blatt
+- [ ] mathe info blatt %% fold %%
 	- [ ] Zahlenstrahl 
 		- [ ] N
 		- [ ] Z
