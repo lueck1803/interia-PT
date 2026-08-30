@@ -300,40 +300,24 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- [x] Zähne putzen 
-- [x] Duolingo
-- [x] Krafttraining 
-- [x] Bart schneiden 
+- [ ] Zähne putzen 
+- [ ] Reis und Pilzessen in den Kühlschrank
 
 - [ ] Topfdeckel spülen 
 - [ ] pfannendeckel spülen 
 - [ ] Ikea Behälter spülen 
-- [x] Gläser per Hand spülen 
-	- [x] in die Spülmaschine 
 - [ ] Behälter spülen 
-- [x] Sachen in den Backofen räumen 
-- [x] balkon gießen 
 
 - [ ] mac Tastatur
 	- [ ] neue Tasten für mac bestellen %% fold %%
 	- [ ] selbst reparieren %% fold %%
 
-- [x] Einkaufswagen weg
-- [x] Glasmüll 
-- [x] gelber Sack 
-- [x] Papiermüll weg 
-- [x] draußen bewegen 
 - [ ] resting grounds Noten anschauen und mir die richtigen raus suchen 
 - [ ] lösung mit der Biene durchlesen 
 - [ ] Bretter spülen 
 
-
-- [x] Kaffeemaschine leeren
-
 - [ ] duschen + rasieren 
 
-- [x] reis kochen 
-	- um ihn mit den Pilzen zu essen
 - [ ] Backofengitter putzen 
 - [ ] tomaten waschen 
 - [ ] Brokkoli waschen 
@@ -376,39 +360,24 @@
 	- [ ] noch dazu vermerken, dass ich ihn angesprochen hatte zu Beginn des Unterrichts dass er im Treppenhaus herunter gespuckt hat, während ich mit den anderen Kindern die Treppe hoch kam. Da habe ich ihn vorsichtig gefragt ob er es war %% fold %%
 	- [ ] das hat er geleugnet 
 
-- [x] Spülmaschine ausräumen 
-- [x] mehl und andere Behälter prüfen 
-- [x] mehl einpacken 
 
-- [x] Tastatur wischen
-- [x] Schnittlauch ernten 
-- [x] Pilzeessen machen 
-	- [x] pilze braten
-	- [x] Zwiebeln 
-	- [x] Knoblauch 
-	- [x] Schmelzkäse 
-	- [x] Schnittlauch 
-	- [x] Majoran 
-- [x] Dinkel raus
-- [x] Backofen putzen 
 - [ ] Brokkoli kochen 
-- [ ] Video https://youtu.be/08We3mhQbAg?is=TFBWFRDAFpD9Duzu schauen 
-- [ ] arbeitsverhalten schulportal Eintrag ?
-- [ ] gibts ne regel für linter, dass man one-liner einfügen kann?
-
+- [ ] Video https://youtu.be/08We3mhQbAg?is=TFBWFRDAFpD9Duzu schauen  %% fold %%
+- [ ] arbeitsverhalten schulportal Eintrag ? %% fold %%
+- [ ] gibts ne regel für linter, dass man one-liner einfügen kann? %% fold %%
  %% fold %%
-- [x] wischen 
-- [ ] Kopfhörer putzen 
-- [ ] narges heute nicht im Unterricht 
-- [ ] sofa
+ %% fold %%
+- [ ] Kopfhörer putzen  %% fold %%
+- [ ] narges heute nicht im Unterricht  %% fold %%
+- [ ] sofa %% fold %%
 	- [ ] Kissenbezug  %% fold %%
-	- [ ] decken
-- [ ] Eisbecher wegsortieren
-- [ ] schauen ob die neuen der 8a schon auf schul.cloud sind
-- [ ] gibt es andere listen in denen das feld größer ist?
-	- [ ] erste Spalte nehme ich zur Anwesenheit
+	- [ ] decken %% fold %%
+- [ ] Eisbecher wegsortieren %% fold %%
+- [ ] schauen ob die neuen der 8a schon auf schul.cloud sind %% fold %%
+- [ ] gibt es andere listen in denen das feld größer ist? %% fold %%
+	- [ ] erste Spalte nehme ich zur Anwesenheit %% fold %%
 	- [ ] zweite Spalte nehme ich als mitarbeit %% fold %%
-- [ ] Krafttraining 
+- [ ] Krafttraining  %% fold %%
 - [ ] black waltz %% fold %%
 - [ ] Mutter von Mathis schreiben %% fold %%
 	- [x] ADHS Hilfe Deutschland %% fold %%
