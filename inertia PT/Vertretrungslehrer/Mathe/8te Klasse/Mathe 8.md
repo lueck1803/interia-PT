@@ -370,6 +370,7 @@ $=\frac{16-21}{6} +\frac{13}{5}$\\
 $= \frac{-5\cdot {\color{cyan}5}+13\cdot \color{orange}6}{30}$\\
 
 $=\frac{-25+78}{30}=\frac{53}{30}=1,7\overline{6}$
+
 ---
 
 #### c) 
@@ -412,9 +413,10 @@ $\frac{187\cdot 1078}{663\cdot 390}=\frac{201586}{258570}$\\
 $\text{ggT}(201586,258570)=34$\\
 $= \frac{5929}{7605}=0.78$
 
-<u> Ziel: </u>wir wollen die Periode loswerden 
-- ⤷das gelingt uns durch Subtraktion der Periode. 
-	- Wir müssen also $\pu{ 0,9999\dots }$,  $\pu{ 0,8888\dots }$,  $\pu{ 0,007777\dots }$ oder $\pu{ 0,06666\dots }$ abziehen
+#### 4)
+<u> Ziel: </u>wir wollen die Periode loswerden \\
+⤷das gelingt uns durch Subtraktion der Periode. 
+	Wir müssen also $\pu{ 0,9999\dots }$,  $\pu{ 0,8888\dots }$,  $\pu{ 0,007777\dots }$ oder $\pu{ 0,06666\dots }$ abziehen
 - dazu nehmen wir die Zahl und <font color="#ffd700">verschieben</font> sie <font color="#ffd700">um so viele Kommastellen</font>, dass die Zahl die sich wiederholt vor dem Komma beginnt. In dem wir sie mit der entsprechenden Zehnerpotenz multiplizieren also: $10^{1}=10, 10^{2}=100, 10^{3}=1000, \dots$
 - Dazu machen wir erstmal etwas ungewöhnliches. Wir <font color="#ffd700">weisen die Zahl </font>die wir umwandeln wollen <font color="#ffd700">einer Variablen zu</font>, um im nächsten Schritt eine Zahl zu bekommen, die wir um die Kommastellen verschoben haben:
 	- Bei $0,\bar{8}$ bedeutet das also:
