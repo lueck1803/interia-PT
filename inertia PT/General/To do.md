@@ -303,6 +303,7 @@
 - [ ] Spülmaschine ausräumen 
 - [ ] duschen + rasieren 
 - [ ] Pfanne spülen 
+- [ ] Topfdeckel spülen 
 - [x] Tastatur wischen
 - [ ] Behälter spülen 
 - [ ] Ikea Behälter spülen 
