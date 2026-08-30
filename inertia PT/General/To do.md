@@ -302,6 +302,7 @@
 
 - [x] Zähne putzen 
 - [ ] Duolingo
+- [ ] Krafttraining 
 
 - [ ] Topfdeckel spülen 
 - [ ] pfannendeckel spülen 
