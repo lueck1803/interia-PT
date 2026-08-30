@@ -312,7 +312,7 @@
 	- [x] E 5b
 
 - [ ] Zähne putzen 
-- [ ] Reis und Pilzessen in den Kühlschrank
+- [x] Reis und Pilzessen in den Kühlschrank
 
 - [ ] Topfdeckel spülen 
 - [ ] pfannendeckel spülen 
