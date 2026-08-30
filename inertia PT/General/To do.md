@@ -316,11 +316,12 @@
 - [ ] Einkaufswagen weg
 - [ ] Schnittlauch ernten 
 - [ ] Pilzeessen machen 
-	- [ ] pilze braten
-	- [ ] Zwiebeln 
-	- [ ] Knoblauch 
+	- [x] pilze braten
+	- [x] Zwiebeln 
+	- [x] Knoblauch 
 	- [ ] Schmelzkäse 
-	- [ ] Schnittlauch 
+	- [x] Schnittlauch 
+	- [ ] Majoran 
 - [x] Dinkel raus
 - [ ] Backofen putzen 
 - [ ] Brokkoli kochen 
