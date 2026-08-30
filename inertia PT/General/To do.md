@@ -310,7 +310,8 @@
 - [ ] Behälter spülen 
 - [ ] Ikea Behälter spülen 
 - [ ] Einkaufswagen weg
-- [ ] Pilze schneiden 
+- [ ] Pilzeessen machen 
+	- [ ] pilze bra
 - [x] Dinkel raus
 - [ ] Backofen putzen 
 - [ ] Brokkoli kochen 
