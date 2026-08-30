@@ -311,7 +311,10 @@
 - [ ] Ikea Behälter spülen 
 - [ ] Einkaufswagen weg
 - [ ] Pilzeessen machen 
-	- [ ] pilze bra
+	- [ ] pilze braten
+	- [ ] Zwiebeln 
+	- [ ] Knoblauch 
+	- [ ] Schmelzkäse 
 - [x] Dinkel raus
 - [ ] Backofen putzen 
 - [ ] Brokkoli kochen 
