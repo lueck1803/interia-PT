@@ -300,16 +300,24 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
+- [ ] Zähne putzen 
+- [ ] Duolingo
+
 - [ ] Topfdeckel spülen 
 - [ ] pfannendeckel spülen 
 - [ ] Ikea Behälter spülen 
 - [ ] Gläser per Hand spülen 
 - [ ] Behälter spülen 
 
+- [ ] mac Tastatur
+	- [ ] neue Tasten für mac bestellen %% fold %%
+	- [ ] selbst reparieren %% fold %%
 
 - [ ] Einkaufswagen weg
 - [ ] Glasmüll 
 - [ ] gelber Sack 
+- [ ] draußen bewegen 
+
 
 - [ ] Kaffeemaschine leeren
 
@@ -324,6 +332,39 @@
 - [ ] Küche Arbeitsfläche wischen 
 - [ ] Griffe in der Küche
 
+- [ ] Lösung für Arbeitsblattbrüche fertig
+
+- [ ] neues Thema in Mathe beginnen + Arbeitsblatt 
+	- [ ] <font color="#92d050">Blick ins Buch</font>
+	- [ ] Tafelanschrieb
+		- [ ] Kommutativ, Assoziativ und Distributivgesetz
+		- [ ] Potenzgesetze
+	- [ ] Mathe neues Blatt für 8ter erstellen 
+		- [ ] Dreisatz 
+		- [ ] Prozentrechnung
+		- [ ] K,A,D Gesetz
+		- [ ] Terme, Klammern, Gleichungen/Ungleichungen, Ausklammern
+			- [ ] Auflösen von einer Klammer in einem Produkt
+			- [ ] minuszeichen vor der Klammer
+			- [ ] Ausklammern von gemeinsamen Faktoren
+			- [ ] Auflösen von zwei Klammern in einem Produkt
+			- [ ] Binomische Formeln
+
+- [x] kursmappe
+	- [ ] m 5a %% fold %%
+	- [ ] m 8a
+	- [ ] m 8b
+	- [x] p 8a 
+	- [x] p 8b
+	- [ ] p 8c
+	- [ ] p 10b
+	- [ ] p 10a
+	- [x] E 5b
+
+- [ ] Akteneintrag Mathis
+	- [x] Sprachaufzeichnung  %% fold %%
+	- [ ] noch dazu vermerken, dass ich ihn angesprochen hatte zu Beginn des Unterrichts dass er im Treppenhaus herunter gespuckt hat, während ich mit den anderen Kindern die Treppe hoch kam. Da habe ich ihn vorsichtig gefragt ob er es war %% fold %%
+	- [ ] das hat er geleugnet 
 
 - [x] Spülmaschine ausräumen 
 - [x] mehl und andere Behälter prüfen 
@@ -344,47 +385,20 @@
 - [ ] Video https://youtu.be/08We3mhQbAg?is=TFBWFRDAFpD9Duzu schauen 
 - [ ] arbeitsverhalten schulportal Eintrag ?
 - [ ] gibts ne regel für linter, dass man one-liner einfügen kann?
-- [x] kursmappe
-	- [ ] m 5a %% fold %%
-	- [ ] m 8a
-	- [ ] m 8b
-	- [x] p 8a 
-	- [x] p 8b
-	- [ ] p 8c
-	- [ ] p 10b
-	- [ ] p 10a
-	- [x] E 5b
-- [ ] neues Thema in Mathe beginnen + Arbeitsblatt 
-	- [ ] <font color="#92d050">Blick ins Buch</font>
-	- [ ] Tafelanschrieb
-		- [ ] Kommutativ, Assoziativ und Distributivgesetz
-		- [ ] Potenzgesetze
-	- [ ] Mathe neues Blatt für 8ter erstellen 
-		- [ ] Dreisatz 
-		- [ ] Prozentrechnung
-		- [ ] K,A,D Gesetz
-		- [ ] Terme, Klammern, Gleichungen/Ungleichungen, Ausklammern
-			- [ ] Auflösen von einer Klammer in einem Produkt
-			- [ ] minuszeichen vor der Klammer
-			- [ ] Ausklammern von gemeinsamen Faktoren
-			- [ ] Auflösen von zwei Klammern in einem Produkt
-			- [ ] Binomische Formeln
+
+ %% fold %%
 - [x] wischen 
-- [ ] draußen bewegen 
 - [ ] Kopfhörer putzen 
 - [ ] narges heute nicht im Unterricht 
 - [ ] sofa
-	- [ ] Kissenbezug 
+	- [ ] Kissenbezug  %% fold %%
 	- [ ] decken
-- [ ] Zähne putzen 
-- [ ] Pilze schneiden bzw zubereiten 
 - [ ] Eisbecher wegsortieren
 - [ ] schauen ob die neuen der 8a schon auf schul.cloud sind
 - [ ] gibt es andere listen in denen das feld größer ist?
 	- [ ] erste Spalte nehme ich zur Anwesenheit
 	- [ ] zweite Spalte nehme ich als mitarbeit %% fold %%
 - [ ] Krafttraining 
-- [ ] Duolingo %% fold %%
 - [ ] black waltz %% fold %%
 - [ ] Mutter von Mathis schreiben %% fold %%
 	- [x] ADHS Hilfe Deutschland %% fold %%
@@ -395,12 +409,12 @@
 		- [x] kleinstes gemeinsames Vielfaches
 		- [x] größter gemeinsamer Teiler
 	- [x] kleinstes gemeinsames Vielfaches von zahlen der gleichen Reihe? kürzen? %% fold %%
-- [ ] bett beziehen 
+- [x] bett beziehen 
 - [ ] xenia als Hausaufgabe die Rechenaufgaben fertig machen  %% fold %%
-- [ ] Lösung für matheblatt machen 
+- [ ] Lösung für matheblatt machen  %% fold %%
 - [ ] in meinem Bericht die Reihenfolge mit dem stuhl ändern
 - [ ] 10 b Rechenregeln Brüche anschreiben 
-- [ ] Bohrmaschine absaugen, griff so anbringen dass ich ihn an der Bohrmaschine lassen kann
+- [x] Bohrmaschine absaugen, griff so anbringen dass ich ihn an der Bohrmaschine lassen kann %% fold %%
 - [ ] sofiia ne schul cloud Einladung schicken
 	- [ ] hab ihr erstmal empfohlen das Passwort zurückzusetzen 
 - [ ] Arbeitsblatt für 10te klassen
@@ -417,9 +431,7 @@
 	- [x] Quentin umsetzen  %% fold %%
 		- hab ich ansia weiter gegeben %% fold %%
 - [ ] dringend schauen was so verbrannt riecht 
-- [ ] mac Tastatur %% fold %%
-	- [ ] neue Tasten für mac bestellen %% fold %%
-	- [ ] selbst reparieren %% fold %%
+
 - [ ] Mathe 5a  %% fold %%
 	- [ ] Seite 8 im Buch machen %% fold %%
 	- [ ] montesorri arbeitsblatt 22 mal kopieren %% fold %%
@@ -451,10 +463,7 @@
 - [ ] spazieren 
 - [ ] black waltz %% fold %%
 - [ ] Papierkram  %% fold %%
-- [ ] Akteneintrag Mathis %% fold %%
-	- [x] Sprachaufzeichnung  %% fold %%
-	- [ ] noch dazu vermerken, dass ich ihn angesprochen hatte zu Beginn des Unterrichts dass er im Treppenhaus herunter gespuckt hat, während ich mit den anderen Kindern die Treppe hoch kam. Da habe ich ihn vorsichtig gefragt ob er es war %% fold %%
-	- [ ] das hat er geleugnet 
+
 - [x] schul.cloud erstellen für %% fold %%
 	- [x] elias ✅
 	- [x] Samiha ✅
@@ -479,7 +488,7 @@
 	- [ ] ich  hab das Stimmgerät am podGo auf coarse gestellt, das ist viel angenehmer xD %% fold %%
 - [ ] heroes to us %% fold %%
 - [ ] mich um pc kümmern  %% fold %%
-- [ ] apfelschneider schärfen dass er gerade schneidet %% fold %%
+- [x] apfelschneider schärfen dass er gerade schneidet
   %% fold %%
 - [ ] Display Schutz Hülle 
 - [ ] Reformer board testen %% fold %%
@@ -678,8 +687,7 @@
 	- [ ] dreisatz aufgaben
 	- [ ] prozentrechnung
 	- [ ] Einheiten umrechnen
-- [ ] Spülmaschine ausräumen 
-- [ ] preset leadout einstellen 
+- [ ] preset leadout einstellen  %% fold %%
 - [ ] Arbeitsblatt Physik zusammenstellen  %% fold %%
 	- [ ] darauf erklärung eines Vektors
 	- [ ] koordinatensystem
