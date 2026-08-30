@@ -370,7 +370,7 @@
 - [ ] Krafttraining 
 - [ ] Duolingo %% fold %%
 - [ ] black waltz
-- [ ] Mutter von Mathis schreiben
+- [ ] Mutter von Mathis schreiben %% fold %%
 	- [x] ADHS Hilfe Deutschland
 	- [ ] sogar nochmal geschrieben...
 	- [ ] dann später den Kostenvoranschlag
