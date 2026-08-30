@@ -374,17 +374,12 @@ $=\frac{-25+78}{30}=\frac{53}{30}=1,7\overline{6}$
 ---
 
 #### c) 
-$\frac{24}{40}-\frac{33}{9}+\frac{28}{15}=$\\
-$=\frac{24\cdot \color{cyan}9}{40\cdot \color{cyan}9}-\frac{33\cdot \color{orange}40}{9\cdot \color{orange}40}+\frac{28}{15}=$\\
-
-$=\frac{216-1320}{360}+\frac{28}{15}=$\\
-
-$\frac{-1440}{360}+\frac{28}{15}$\\
-
-$=\frac{-1104}{360}+\frac{28\cdot \color{orange} 24}{15\cdot \color{orange}24}=$\\
-
-$\frac{-1104+672}{360}$\\
-
+$\frac{24}{40}-\frac{33}{9}+\frac{28}{15}=$
+$=\frac{24\cdot \color{cyan}9}{40\cdot \color{cyan}9}-\frac{33\cdot \color{orange}40}{9\cdot \color{orange}40}+\frac{28}{15}=$
+$=\frac{216-1320}{360}+\frac{28}{15}=$
+$\frac{-1440}{360}+\frac{28}{15}$
+$=\frac{-1104}{360}+\frac{28\cdot \color{orange} 24}{15\cdot \color{orange}24}=$
+$\frac{-1104+672}{360}$
 $=-\frac{432}{360}=-\frac{6}{5}= -1,2$
 #### d) 
 $\frac{21 \cdot 3 \cdot 35}{49 \cdot 15 \cdot 9}$\\
@@ -393,17 +388,25 @@ $=\frac{2205}{6615}=\frac{1}{3}$\\
 oder\\
 $\frac{21 \cdot \cancel{ 3 } \cdot 35}{49 \cdot \cancelto{ 5 }{ 15 } \cdot 9}=\frac{21 \cdot \cancelto{ 7 }{ 35 }}{49\cdot \cancel{ 5 } \cdot 9}$\\
 $=\frac{21 \cdot  \cancel{ 7 }} {\cancelto{ 7 }{ 49 } \cdot 9}=\frac{\cancelto{ 3 }{ 21 }}{\cancel{ 7 }\cdot 9}=\frac{3}{9}=\frac{1}{3}=0.\bar{3}$\\
+
+
+$\frac{21 \cdot 3 \cdot 35}{49 \cdot 15 \cdot 9}$
+$=\frac{63\cdot 35}{735\cdot 9}$
+$=\frac{2205}{6615}=\frac{1}{3}$
+oder
+$\frac{21 \cdot \cancel{ 3 } \cdot 35}{49 \cdot \cancelto{ 5 }{ 15 } \cdot 9}=\frac{21 \cdot \cancelto{ 7 }{ 35 }}{49\cdot \cancel{ 5 } \cdot 9}$
+$=\frac{21 \cdot  \cancel{ 7 }} {\cancelto{ 7 }{ 49 } \cdot 9}=\frac{\cancelto{ 3 }{ 21 }}{\cancel{ 7 }\cdot 9}=\frac{3}{9}=\frac{1}{3}=0.\bar{3}$
 #### e) 
 $\frac{75}{36} \cdot \frac{144}{125}=$
-$=\frac{\cancel{ 25 }\cdot 3}{\cancel{ 12 }\cdot 3} \cdot \frac{12\cdot \cancel{ 12 }}{\cancel{ 25 } \cdot 5}=\frac{\cancel{ 3 }\cdot  12 }{\cancel{ 3 } \cdot 5}$\\
+$=\frac{\cancel{ 25 }\cdot 3}{\cancel{ 12 }\cdot 3} \cdot \frac{12\cdot \cancel{ 12 }}{\cancel{ 25 } \cdot 5}=\frac{\cancel{ 3 }\cdot  12 }{\cancel{ 3 } \cdot 5}$
 $=\frac{12}{5}=\pu{ 2.4 }$
 #### f) 
-$\frac{36}{5}: \frac{6}{25}=$\\
-$\frac{\cancelto{ 6 }{ 36 }\cdot \cancelto{ 5 }{ 25 }}{\cancel{ 5 }\cdot \cancel{ 6 }}$\\
+$\frac{36}{5}: \frac{6}{25}=$
+$\frac{\cancelto{ 6 }{ 36 }\cdot \cancelto{ 5 }{ 25 }}{\cancel{ 5 }\cdot \cancel{ 6 }}$
 $=\frac{5\cdot 6}{1}=30$
 #### g) 
-$\frac{4}{5}: \frac{7}{8}=$\\
-$=\frac{4\cdot 8}{5\cdot 7}$\\
+$\frac{4}{5}: \frac{7}{8}=$
+$=\frac{4\cdot 8}{5\cdot 7}$
 $=\frac{32}{35}=\pu{ 0.478 }$
 #### h) 
 $\frac{55}{51}\cdot \frac{17}{65} : \frac{39}{77} \cdot \frac{14}{10}=$
