@@ -424,7 +424,7 @@ $= \frac{5929}{7605}=0.78$
  4. Jetzt verschieben wir das Komma und erzeugen uns dadurch eine zweite Gleichung:
 	- hier müssen wir mit 10 multiplizieren, um den Anfang der Periode vor das Komma zu ziehen.
 	- $\mathrm{II}\quad {\color{red}10}x={\color{red}{8,}} 8888\dots$
-5. Dann <font color="#7030a0">ziehen</font> wir Gleichung $\mathrm{I}$ von Gleichung $\mathrm{II}$ <font color="#ffd700">ab</font>. Dadurch <font color="#ff6e6e">fällt</font> <font color="#7030a0">die Periode weg</font> und wir müssen nur noch nach $x$ auflösen:
+5. Dann <font color="#7030a0">ziehen</font> wir Gleichung $\mathrm{I}$ von Gleichung $\mathrm{II}$ <font color="#7030a0">ab</font>. Dadurch <font color="#ff6e6e">fällt</font> <font color="#7030a0">die Periode weg</font> und wir müssen nur noch nach $x$ auflösen:
 	- $\mathrm{II}-\mathrm{I}$:
 	- $\mathrm{II}-\mathrm{I}\quad 10x-x =  8,8888\dots -  0,8888\dots$
 	- $\mathrm{II}-\mathrm{I}\quad 9x =  8$
