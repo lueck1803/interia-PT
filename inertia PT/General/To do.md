@@ -300,11 +300,12 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- [ ] Spülmaschine ausräumen 
+- [x] Spülmaschine ausräumen 
 - [ ] duschen + rasieren 
 - [ ] Pfanne spülen 
 - [ ] Topfdeckel spülen 
 - [ ] pfannendeckel spülen 
+- [ ] Gläser per Hand spülen 
 - [x] Tastatur wischen
 - [ ] Behälter spülen 
 - [ ] Ikea Behälter spülen 
