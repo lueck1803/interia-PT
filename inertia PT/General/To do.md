@@ -311,8 +311,7 @@
 	- [x] p 10a
 	- [x] E 5b
 
-- [x] Zähne putzen 
-- [x] Reis und Pilzessen in den Kühlschrank
+- [ ] Zähne putzen 
 
 - [ ] Topfdeckel spülen 
 - [ ] pfannendeckel spülen 
@@ -327,17 +326,17 @@
 - [ ] lösung mit der Biene durchlesen 
 - [ ] Bretter spülen 
 
+- [x] duschen 
 - [ ] duschen + rasieren 
 
 - [ ] Backofengitter putzen 
 - [ ] tomaten waschen 
-- [ ] Brokkoli waschen 
 - [ ] Pfanne spülen 
 
 - [ ] Küche Arbeitsfläche wischen 
 - [ ] Griffe in der Küche
-
-- [ ] neues Thema in Mathe beginnen + Arbeitsblatt 
+ %% fold %%
+- [ ] neues Thema in Mathe beginnen + Arbeitsblatt  %% fold %%
 	- [ ] <font color="#92d050">Blick ins Buch</font>
 	- [ ] Tafelanschrieb
 		- [ ] Kommutativ, Assoziativ und Distributivgesetz
@@ -361,7 +360,7 @@
 	- [ ] das hat er geleugnet 
 
 
-- [ ] Brokkoli kochen 
+- [ ] Brokkoli in den Kühlschrank 
 - [ ] Video https://youtu.be/08We3mhQbAg?is=TFBWFRDAFpD9Duzu schauen  %% fold %%
 - [ ] arbeitsverhalten schulportal Eintrag ? %% fold %%
 - [ ] gibts ne regel für linter, dass man one-liner einfügen kann? %% fold %%
@@ -369,9 +368,9 @@
  %% fold %%
 - [ ] Kopfhörer putzen  %% fold %%
 - [ ] narges heute nicht im Unterricht  %% fold %%
-- [ ] sofa %% fold %%
+- [ ] sofa
 	- [ ] Kissenbezug  %% fold %%
-	- [ ] decken %% fold %%
+	- [x] decken %% fold %%
 - [ ] Eisbecher wegsortieren %% fold %%
 - [ ] schauen ob die neuen der 8a schon auf schul.cloud sind %% fold %%
 - [ ] gibt es andere listen in denen das feld größer ist? %% fold %%
@@ -388,17 +387,13 @@
 		- [x] kleinstes gemeinsames Vielfaches
 		- [x] größter gemeinsamer Teiler
 	- [x] kleinstes gemeinsames Vielfaches von zahlen der gleichen Reihe? kürzen? %% fold %%
-- [x] bett beziehen 
 - [ ] xenia als Hausaufgabe die Rechenaufgaben fertig machen  %% fold %%
-- [ ] Lösung für matheblatt machen  %% fold %%
 - [ ] in meinem Bericht die Reihenfolge mit dem stuhl ändern
-- [ ] 10 b Rechenregeln Brüche anschreiben 
-- [x] Bohrmaschine absaugen, griff so anbringen dass ich ihn an der Bohrmaschine lassen kann %% fold %%
 - [ ] sofiia ne schul cloud Einladung schicken
 	- [ ] hab ihr erstmal empfohlen das Passwort zurückzusetzen 
-- [ ] Arbeitsblatt für 10te klassen
-	- [ ] mit der Erklärung und Beschreibung für Druck
-	- [ ] Denksportphysikaufgaben
+- [x] Arbeitsblatt für 10te klassen
+	- [x] mit der Erklärung und Beschreibung für Druck
+	- [x] Denksportphysikaufgaben
 
 - 5a
 	- [x] wo ist meine Anwesenheitsliste
@@ -439,10 +434,9 @@
 	- [ ] neues Thema - Lineare Gleichungen /ungleichungen %% fold %%
 		- [ ] Terme mit Klammern
 - [ ] kühlschrank putzen
-- [ ] spazieren 
 - [ ] black waltz %% fold %%
 - [ ] Papierkram  %% fold %%
-
+ %% fold %%
 - [x] schul.cloud erstellen für %% fold %%
 	- [x] elias ✅
 	- [x] Samiha ✅
@@ -456,6 +450,7 @@
 - [ ] Bauhaus Kehrblech
 - [ ] interimsgebäude testen über beamer am Laptop mit Xournal zu schreiben
 - [ ] Alufolie entfernen?
+	- [x] Fenster bei Tür
 - [ ] Materialliste 5er anschauen
 - [ ] konto checken 
 - [ ] schuhe kaufen
@@ -467,7 +462,6 @@
 	- [ ] ich  hab das Stimmgerät am podGo auf coarse gestellt, das ist viel angenehmer xD %% fold %%
 - [ ] heroes to us %% fold %%
 - [ ] mich um pc kümmern  %% fold %%
-- [x] apfelschneider schärfen dass er gerade schneidet
   %% fold %%
 - [ ] Display Schutz Hülle 
 - [ ] Reformer board testen %% fold %%
@@ -486,7 +480,7 @@
 	- oder wenn euch der Kram zu leicht ist gebe ich euch schwere Aufgaben🤷
 	- in der Lautstärke und störend geht einfach nicht. Das ist für mich extrem anstrengend und mir geht's dann nachmittags körperlich einfach extrem schlecht. Habt davor einfach Respekt 
 	- ich habe auch vor euch Respekt und auch davor dass ihr keinen Bock habt. 
-	- ich finde keiner sollte gezwungen sein zum Matheunterricht zu gehen insbesondere nicht zu meinem. Es gibt definitiv bessere Lehrer das verstehe ich. Ich bin nunmal da und das ist das beste was ihr habt.
+	- ich finde keiner sollte gezwungen sein zum Matheunterricht zu gehen insbesondere nicht zu meinem. Es gibt definitiv bessere Lehrer das verstehe ich. Ich bin nunmal da und das ist das beste was ihr habt. %% fold %%
 - Unterrichtskonzept  %% fold %%
 	- absolut angstfreier Unterricht 
 	- keine Frage oder Aussage ist schlecht wenn sie ernst gemeint ist. Klar darf auch mal konstruktiver Sarkasmus/ironie/spaß sein wenn es dazu beiträgt und keinen abwertet
