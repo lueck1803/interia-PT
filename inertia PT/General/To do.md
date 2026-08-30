@@ -304,6 +304,7 @@
 - [ ] duschen + rasieren 
 - [x] mehl und andere Behälter prüfen 
 - [x] mehl einpacken 
+- [ ] Nudeln kochen 
 - [ ] tomaten waschen 
 - [ ] Brokkoli waschen 
 - [ ] Pfanne spülen 
@@ -319,9 +320,9 @@
 	- [x] pilze braten
 	- [x] Zwiebeln 
 	- [x] Knoblauch 
-	- [ ] Schmelzkäse 
+	- [x] Schmelzkäse 
 	- [x] Schnittlauch 
-	- [ ] Majoran 
+	- [x] Majoran 
 - [x] Dinkel raus
 - [ ] Backofen putzen 
 - [ ] Brokkoli kochen 
