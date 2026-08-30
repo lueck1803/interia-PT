@@ -428,13 +428,13 @@ $= \frac{5929}{7605}=0.78$
 	- $\mathrm{II}-\mathrm{I}$:
 	- $\mathrm{II}-\mathrm{I}\quad 10x-x =  8,8888\dots -  0,8888\dots$
 	- $\mathrm{II}-\mathrm{I}\quad 9x =  8$
-- Wir lösen jetzt noch nach $x$ auf:
+6. Wir lösen jetzt noch nach $x$ auf:
 	- $\mathrm{II}-\mathrm{I}\quad 9x=8 \quad \left|\;:9\right.$
 	- $x= \frac{8}{9}$
 - Und wir sind fertig.
 
 
-$0,\overline{9}$
+Ist eigentlich $0,\overline{9}$ gleich 1?
 $\mathrm{I}\quad x=\pu{ 0.9999\dots }$
 $\mathrm{II}\quad10x=\pu{ 9,99999\dots }$
 $\mathrm{I}-\mathrm{II}\quad 9x=\pu{9} \quad \left|\;:9\right.$
