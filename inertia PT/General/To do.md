@@ -300,6 +300,17 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
+- [x] kursmappe
+	- [ ] m 5a %% fold %%
+	- [ ] m 8a
+	- [ ] m 8b
+	- [x] p 8a 
+	- [x] p 8b
+	- [ ] p 8c
+	- [ ] p 10b
+	- [ ] p 10a
+	- [x] E 5b
+
 - [ ] Zähne putzen 
 - [ ] Reis und Pilzessen in den Kühlschrank
 
@@ -326,8 +337,6 @@
 - [ ] Küche Arbeitsfläche wischen 
 - [ ] Griffe in der Küche
 
-- [x] Lösung für Arbeitsblattbrüche fertig
-
 - [ ] neues Thema in Mathe beginnen + Arbeitsblatt 
 	- [ ] <font color="#92d050">Blick ins Buch</font>
 	- [ ] Tafelanschrieb
@@ -344,18 +353,9 @@
 			- [ ] Auflösen von zwei Klammern in einem Produkt
 			- [ ] Binomische Formeln
 
-- [x] kursmappe
-	- [ ] m 5a %% fold %%
-	- [ ] m 8a
-	- [ ] m 8b
-	- [x] p 8a 
-	- [x] p 8b
-	- [ ] p 8c
-	- [ ] p 10b
-	- [ ] p 10a
-	- [x] E 5b
 
-- [ ] Akteneintrag Mathis
+
+- [ ] Akteneintrag Mathis %% fold %%
 	- [x] Sprachaufzeichnung  %% fold %%
 	- [ ] noch dazu vermerken, dass ich ihn angesprochen hatte zu Beginn des Unterrichts dass er im Treppenhaus herunter gespuckt hat, während ich mit den anderen Kindern die Treppe hoch kam. Da habe ich ihn vorsichtig gefragt ob er es war %% fold %%
 	- [ ] das hat er geleugnet 
