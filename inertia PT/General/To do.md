@@ -304,6 +304,7 @@
 - [ ] duschen + rasieren 
 - [ ] Pfanne spülen 
 - [ ] Topfdeckel spülen 
+- [ ] pfannendeckel spülen 
 - [x] Tastatur wischen
 - [ ] Behälter spülen 
 - [ ] Ikea Behälter spülen 
