@@ -316,7 +316,7 @@
 - [ ] AOK die neuste Abrechnung vom August dann einreichen 
 - [ ] AOK App checken
 - [ ] Mutter anrufen 
-- [ ] Gruppen 
+- [ ] schul.cloud Gruppen trennen 
 
 - [ ] Topfdeckel spülen 
 - [ ] pfannendeckel spülen 
