@@ -28,15 +28,18 @@
 
 ## <font color="#8db3e2">8a</font> Lisa-Marie Rohr (roh)
 ### 2026-09-04
-- [ ] Buch S. 36 Nr1  machen
-- [ ] 
+- [ ] Bruchdarstellung -> Exponentialgesetz
+- [ ] [[Exponentialgesetze ä]]
+- [ ] Buch S. 36
+	- [ ] Nr1
+	- [ ] Nr2
+	- [ ] Nr3
 - [ ] Assoziativgesetz
 - [ ] Distributivgesetz
-- [ ] Exponentialgesetze
-- [ ] 
 ### 2026-08-31
 - [ ] Lösung des Übungsblatts besprochen
 - [ ] Kommutativgesetz
+- [ ] für einen Teil Überleitung Exponentialgesetze
 
 ### 2026-08-24
 - [ ] saif hatte mich letzt gefragt wie man Periode eingibt, ich hab's herausgefunden: <font color="#c00000">alpha</font> + $\sqrt{ \square{} }$
@@ -67,7 +70,7 @@
 
 ## <font color="#b088ff">8b</font> Güldener, Nicole Kirsten (gld)
 ### 2026-08-31
-- [ ] Lösung des Aufgabenblatts besprochen insbesondere die Aufgabe mit der Periodenumwandlung in einen Bruch
+- [ ] Lösung des Aufgabenblatts besprochen insbesondere die Aufgabe mit der Periodenumwandlung in einen Bruch %% fold %%
 ### 2026-08-24 %% fold %%
 - [ ] sagen dass ich Arbeitsblatt am Ende der Stunde einsammel %% fold %%
 
@@ -164,7 +167,7 @@ ___
 - Sofiia wollte wechseln 
 - Ranya ist noch nicht geklärt. 
 
-# Potenzgesetze %% fold %%
+# Potenzgesetze
 -  wie kann man einen Bruch mit einer Potenz darstellen?
 - $\frac{1}{5}=5^{-1}$
 - $5^{-2}=\frac{1}{5^{2}}$
