@@ -300,6 +300,12 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
+- [ ] Text von Elias lesen
+- [ ] Mentis schreiben, das Freitag abgabe ist
+	- [ ] samiha 
+	- [ ] Lina
+	- [ ] Elias
+
 - [ ] getrennte Ordner für 
 	- [ ] 8te klasse
 		- [ ] Mathe 
@@ -307,7 +313,6 @@
 	- [ ] 5te klasse Mathe
 	- [ ] Hefter für Anwesenheitslisten + Mitarbeit
 
-- [ ] Schreiben, dass ich jetzt strenger sein werde und nicht mitgebrachte Sachen ne Sechs im Arbeitsverhalten für den jeweiligen Tag sind
 - [ ] schreiben warum ich sie heute dran nehme und dann so quäle
 	- [ ] Wirsawija
 	- [ ] Sara
@@ -348,7 +353,12 @@
 - [ ] AOK App checken
 - [ ] Mutter anrufen 
 - [ ] schul.cloud Gruppen trennen 
-
+	- [ ] Allen schreiben, was ich ab jetzt von denen erwarte:
+		- [ ] Schreiben, dass ich jetzt strenger sein werde und nicht mitgebrachte Sachen ne Sechs im Arbeitsverhalten für den jeweiligen Tag sind
+		- [ ] Jeder soll nen Hefter mitbringen <font color="#548dd4">Mathe blau</font>, Physik egal was übrig ist zb. weiß oder schwarz
+		- [ ] ich möchte dass jeder ne Ordnung führt
+		- [ ] wer Blätter im Raum vergisst, bekommt auch nen 
+	
 - [ ] Topfdeckel spülen 
 - [ ] pfannendeckel spülen 
 - [ ] Ikea Behälter spülen 

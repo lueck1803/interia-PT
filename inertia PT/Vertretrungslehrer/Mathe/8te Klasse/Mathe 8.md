@@ -27,8 +27,8 @@
 	- [ ] durchschnittbrechnung
 
 ## <font color="#8db3e2">8a</font> Lisa-Marie Rohr (roh)
-### 2026-08-
-
+### 2026-09-04
+- [ ] Buch S. 36 Nr1 
 ### 2026-08-31
 - [ ] Lösung des Übungsblatts besprochen
 - [ ] Kommutativgesetz
