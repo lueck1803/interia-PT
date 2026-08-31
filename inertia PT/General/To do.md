@@ -304,7 +304,7 @@
 - [x] Essen
 - [ ] Duolingo
 - [ ] AOK App checken
-- [ ] Zähne putzen
+- [x] Zähne putzen
 - [ ] Black Waltz
 
 - [ ] Spülmaschine ausräumen
