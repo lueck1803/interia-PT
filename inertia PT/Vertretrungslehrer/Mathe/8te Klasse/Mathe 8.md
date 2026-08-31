@@ -1,4 +1,17 @@
 # to do
+
+- [ ] Klassenarbeitstermine festlegen
+	- [ ] 8b Mathe
+		- [ ] GL 14/9 
+		- [ ] Deutsch 18/9
+		- [ ] <font color="#ff0000">Vorschlag Mathe: Do 24.9.</font> <font color="#7cfc00">⟹ ist eingetragen</font>
+	- [ ] 8a Mathe
+		- [ ] 22.9 und 1.12 ist Englisch Arbeit
+		- [ ] 18.09 ist Deutsch Arbeit
+		- [ ] <font color="#ff0000">Vorschlag Mathe: Fr 25.9.</font> <font color="#7cfc00">⟹ ist eingetragen</font>
+	
+
+
 - [ ] division nochmal anschreiben 
 - [ ] addition anschreiben 
 - [ ] addition besprechen 
@@ -18,13 +31,13 @@
 - [ ] lernkontrolle bzw. wissenstandskontroll erstellen %% fold %%
 	- [ ] bruchrechnung %% fold %%
 	- [ ] punkt vor strich rechnung %% fold %%
-	- [ ] klammern
-	- [ ] prozentrechnung
+	- [ ] klammern %% fold %%
+	- [ ] prozentrechnung %% fold %%
 	- [ ] dreisatz %% fold %%
 	- [ ] geometrie
 	- [ ] koordinatensystem
 - [ ] arbeitsblatt mit
-	- [ ] durchschnittbrechnung
+	- [ ] durchschnittbrechnung %% fold %%
 
 ## <font color="#8db3e2">8a</font> Lisa-Marie Rohr (roh)
 ### 2026-09-04

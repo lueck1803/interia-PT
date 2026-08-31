@@ -301,16 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 
-- [ ] Klassenarbeitstermine festlegen
-	- [ ] 8b Mathe
-		- [ ] GL 14/9 
-		- [ ] Deutsch 18/9
-		- [ ] <font color="#ff0000">Vorschlag Mathe: Do 24.9.</font> <font color="#7cfc00">⟹ ist eingetragen</font>
-	- [ ] 8a Mathe
-		- [ ] 22.9 und 1.12 ist Englisch Arbeit
-		- [ ] 18.09 ist Deutsch Arbeit
-		- [ ] <font color="#ff0000">Vorschlag Mathe: Fr 25.9.</font> <font color="#7cfc00">⟹ ist eingetragen</font>
-	
+
 
 
 - [x] Kurse checken - Die Termine müssen wohl noch angepasst werden
@@ -411,7 +402,7 @@
 - [ ] Bretter spülen 
 
 - [x] duschen 
-- [ ] duschen + rasieren 
+- [ ] duschen + rasieren  %% fold %%
 
 - [ ] Backofengitter putzen 
 - [ ] tomaten waschen 
@@ -428,7 +419,7 @@
 	- [ ] Mathe neues Blatt für 8ter erstellen 
 		- [ ] Dreisatz 
 		- [ ] Prozentrechnung
-		- [ ] K,A,D Gesetz
+		- [ ] K,A,D Gesetz %% fold %%
 		- [ ] Terme, Klammern, Gleichungen/Ungleichungen, Ausklammern
 			- [ ] Auflösen von einer Klammer in einem Produkt
 			- [ ] minuszeichen vor der Klammer
