@@ -28,8 +28,8 @@
 
 ## <font color="#8db3e2">8a</font> Lisa-Marie Rohr (roh)
 ### 2026-09-04
-- [ ] Bruchdarstellung -> Exponentialgesetz
-- [ ] [[Exponentialgesetze ä]]
+- [ ] Bruchdarstellung -> Potenzgesetze
+- [ ] [[#Potenzgesetze]]
 - [ ] Buch S. 36
 	- [ ] Nr1
 	- [ ] Nr2
@@ -69,6 +69,15 @@
 
 
 ## <font color="#b088ff">8b</font> Güldener, Nicole Kirsten (gld)
+### 2026-09-04
+- [ ] Bruchdarstellung -> Potenzgesetze
+- [ ] [[#Potenzgesetze]]
+- [ ] Buch S. 36
+	- [x] Nr1
+	- [ ] Nr2
+	- [ ] Nr3
+- [ ] Assoziativgesetz
+- [ ] Distributivgesetz
 ### 2026-08-31
 - [ ] Lösung des Aufgabenblatts besprochen insbesondere die Aufgabe mit der Periodenumwandlung in einen Bruch %% fold %%
 ### 2026-08-24 %% fold %%
@@ -80,7 +89,7 @@
 - [ ] gemischte Buchschreibweise 
 - [ ] Erklärung letzte Aufgabe 
 - [ ] Arbeitsblatt rechenweg kontrollieren 
-	- [ ] einsammeln 
+	- [ ] einsammeln  %% fold %%
 
 - [ ] Potenzgesetze und deren Verbindung zur Bruchrechnung
 ### 2026-08-18
@@ -123,7 +132,7 @@ ___
 - [ ] vielleicht mal ne kleine lernkontrolle machen was die Leute können
 - [ ] nächstes mal sagen handy mit display auf den Tisch legen
 
-# infos %% fold %%
+# infos
 
 ## Mathewettbewerb Themen
     
