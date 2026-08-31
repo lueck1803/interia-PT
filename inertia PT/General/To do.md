@@ -384,8 +384,8 @@
 		- [ ] Hana
 		- [ ] Shanaja
 		- [ ] Xenia
-	- [ ] 8b M+P Gruppenbild ändern
-	- [ ] 8c P Gruppe erstellen
+	- [x] 8b M+P Gruppenbild ändern
+	- [x] 8c P Gruppe erstellen
 	
 - [ ] Topfdeckel spülen 
 - [ ] pfannendeckel spülen 
