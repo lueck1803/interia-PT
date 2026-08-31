@@ -1,4 +1,4 @@
-# to do %% fold %%
+# to do
 - [ ] division nochmal anschreiben 
 - [ ] addition anschreiben 
 - [ ] addition besprechen 
@@ -26,7 +26,12 @@
 - [ ] arbeitsblatt mit
 	- [ ] durchschnittbrechnung
 
-## <font color="#8db3e2">8a</font> Lisa-Marie Rohr (roh) %% fold %%
+## <font color="#8db3e2">8a</font> Lisa-Marie Rohr (roh)
+### 2026-08-
+
+### 2026-08-31
+- [ ] Lösung des Übungsblatts besprochen
+- [ ] Kommutativgesetz
 
 ### 2026-08-24
 - [ ] saif hatte mich letzt gefragt wie man Periode eingibt, ich hab's herausgefunden: <font color="#c00000">alpha</font> + $\sqrt{ \square{} }$
@@ -56,8 +61,8 @@
 
 
 ## <font color="#b088ff">8b</font> Güldener, Nicole Kirsten (gld) %% fold %%
-### 2026-08-24
-- [ ] sagen dass ich Arbeitsblatt am Ende der Stunde einsammel
+### 2026-08-24 %% fold %%
+- [ ] sagen dass ich Arbeitsblatt am Ende der Stunde einsammel %% fold %%
 
 - [ ] division nochmal anschreiben 
 - [ ] addition anschreiben 

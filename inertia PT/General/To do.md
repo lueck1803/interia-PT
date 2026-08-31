@@ -331,7 +331,17 @@
 - [ ] Mathe 8
 	- [ ] in den lehrplan schauen
 	- [ ] ins Mathebuch schauen
-	- [ ] Ar
+	- [ ] Arbeitsblatt 
+		- [ ] Seite und Aufgabe aus dem Mathebuch
+		- [ ] Dreisatz
+		- [ ] Prozentrechnung
+		- [ ] Gleichungen
+			- [ ] rechengesetze mit beispielen mit auf das Blatt
+				- [ ] kommutativ gesetz
+					- [ ] beispiele von heute
+				- [ ] assoziativgesetzt
+				- [ ] Distributivgesetz
+			- [ ] Übungen zu den Rechen gesetzen
 - [x] Zähne putzen 
 - [ ] Claudia die Nachrichten per WhatsApp 
 - [ ] AOK die neuste Abrechnung vom August dann einreichen 
