@@ -301,6 +301,12 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 
+- [ ] Klassenarbeitstermine festlegen
+	- [ ] 8b Mathe
+		- [ ] GL 14/9 
+		- [ ] Deutsch 18/9
+	- [ ] 8a Mathe
+	
 
 
 - [x] Kurse checken - Die Termine müssen wohl noch angepasst werden
