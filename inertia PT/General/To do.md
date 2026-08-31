@@ -307,7 +307,15 @@
 	- [ ] 5te klasse Mathe
 	- [ ] Hefter für Anwesenheitslisten + Mitarbeit
 
-- [ ] Schreiben, dass ich jetzt strenger sein werde
+- [ ] Schreiben, dass ich jetzt strenger sein werde und nicht mitgebrachte Sachen ne Sechs im Arbeitsverhalten für den jeweiligen Tag sind
+- [ ] schreiben warum ich sie heute dran nehme und dann so quäle
+	- [ ] Wirsawija
+	- [ ] Sara
+	- [ ] hamza
+	- [ ] Amna
+	- [ ] narges
+- [ ] ümmü schreiben, da sie gut mit macht und eigentlich auch fit ist, dass sie entweder auf wirsawija und sara aufpassen soll oder ich sie weg setzen werde, da ich möchte dass sie mitmacht, da sie es kann
+- [ ] sara schreiben, dass mir ihr gesamtverhalten im unterricht nicht passt.
 
 - [x] kursmappe
 	- [x] m 5a %% fold %%
@@ -320,7 +328,11 @@
 	- [x] p 10a
 	- [x] E 5b
 
-- [ ] Zähne putzen 
+- [ ] Mathe 8
+	- [ ] in den lehrplan schauen
+	- [ ] ins Mathebuch schauen
+	- [ ] Ar
+- [x] Zähne putzen 
 - [ ] Claudia die Nachrichten per WhatsApp 
 - [ ] AOK die neuste Abrechnung vom August dann einreichen 
 - [ ] AOK App checken
