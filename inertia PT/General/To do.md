@@ -303,7 +303,8 @@
 - [ ] Cursor Position History in gitignore
 	- [ ] vielleicht gar nicht nötig 🤔🤷‍♂️
 
-- [ ] resting grounds Noten anschauen und mir die richtigen raus suchen 
+- [x] resting grounds Noten anschauen und mir die richtigen raus suchen 
+	- yaaaayyyy bemooo xD 😍🥰🥳
 - [ ] Bretter spülen 
 - [ ] Backofengitter putzen 
 - [ ] tomaten waschen 
