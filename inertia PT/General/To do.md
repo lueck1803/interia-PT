@@ -305,9 +305,11 @@
 	- [ ] 8b Mathe
 		- [ ] GL 14/9 
 		- [ ] Deutsch 18/9
+		- [ ] <font color="#ff0000">Vorschlag Mathe: Do 24.9.</font>
 	- [ ] 8a Mathe
 		- [ ] 22.9 und 1.12 ist Englisch Arbeit
 		- [ ] 18.09 ist Deutsch Arbeit
+		- [ ] <font color="#ff0000">Vorschlag Mathe: Fr 25.9.</font>
 	
 
 
