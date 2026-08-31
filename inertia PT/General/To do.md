@@ -312,6 +312,12 @@
 - [ ] Griffe in der Küche
 - [ ] Dampfdruckkochtopf spülen
 - [ ] Essen
+- [ ] Duolingo
+- [ ] Black Waltz
+
+
+- [ ] Text von Elias lesen
+	- [ ] in Xournal und Markierungen machen
 
 - [x] Kurse checken - Die Termine müssen wohl noch angepasst werden
 
@@ -319,7 +325,7 @@
 	- [x] handy
 	- [x] laptop
 
-- [ ] Text von Elias lesen
+
 - [ ] Mentis schreiben, das Freitag abgabe ist
 	- [ ] samiha 
 	- [ ] Lina
@@ -408,7 +414,7 @@
 
 - [ ] lösung mit der Biene durchlesen 
 
-- [x] duschen 
+- [x] duschen  %% fold %%
 - [ ] duschen + rasieren  %% fold %%
  %% fold %%
  %% fold %%
@@ -2333,7 +2339,6 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [x] Bart
 - [x] Zähne putzen
 - [x] Duschen
-- [x] Duolingo
 - [x] Konto
 	- ⟹noch kein Geld bekommen
 - [x] Aldi
