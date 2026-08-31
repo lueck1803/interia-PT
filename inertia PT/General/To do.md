@@ -300,10 +300,9 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- [ ] Schul.cloud umbenennungen und Löschungen
-	- [ ] sara El adhane hat 3 Accounts
-	- [ ] Shanaja . -> Shanaja Patrick
-	- [ ] Yahya . -> Yahya
+
+
+
 - [x] Kurse checken - Die Termine müssen wohl noch angepasst werden
 
 - [ ] cursorposition history aktivieren
@@ -367,13 +366,26 @@
 - [ ] AOK die neuste Abrechnung vom August dann einreichen 
 - [ ] AOK App checken
 - [ ] Mutter anrufen 
-- [x] schul.cloud Gruppen trennen 
-	- [ ] Allen schreiben, was ich ab jetzt von denen erwarte:
-		- [ ] Schreiben, dass ich jetzt strenger sein werde und nicht mitgebrachte Sachen ne Sechs im Arbeitsverhalten für den jeweiligen Tag sind
-		- [ ] Jeder soll nen Hefter mitbringen <font color="#548dd4">Mathe blau</font>, Physik egal was übrig ist zb. weiß oder schwarz
-		- [ ] ich möchte dass jeder ne Ordnung führt
-		- [ ] wer Blätter im Raum vergisst, bekommt auch nen schlechte note im Arbeitsverhalten
-		- [ ] ich möchte generell Blätter nur einmal austeilen
+- schul.cloud 
+	- [x] Gruppen trennen 
+		- [ ] Einladungen checken
+	- [ ] Nachrichten:
+		- [ ] Allen schreiben, was ich ab jetzt von denen erwarte:
+			- [ ] Schreiben, dass ich jetzt strenger sein werde und nicht mitgebrachte Sachen ne Sechs im Arbeitsverhalten für den jeweiligen Tag sind
+			- [ ] Jeder soll nen Hefter mitbringen <font color="#548dd4">Mathe blau</font>, Physik egal was übrig ist zb. weiß oder schwarz
+			- [ ] ich möchte dass jeder ne Ordnung führt
+			- [ ] wer Blätter im Raum vergisst, bekommt auch nen schlechte note im Arbeitsverhalten
+			- [ ] ich möchte generell Blätter nur einmal austeilen
+	- [ ] umbenennungen und Löschungen
+		- [ ] sara El adhane hat 3 Accounts
+		- [ ] Shanaja . -> Shanaja Patrick
+		- [ ] Yahya . -> Yahya Kharbouch
+	- [ ] Mathe Förder einrichten und Einladen
+		- [ ] Hana
+		- [ ] Shanaja
+		- [ ] Xenia
+	- [ ] 8b M+P Gruppenbild ändern
+	- [ ] 8c P Gruppe erstellen
 	
 - [ ] Topfdeckel spülen 
 - [ ] pfannendeckel spülen 
@@ -395,13 +407,13 @@
 - [ ] tomaten waschen 
 - [ ] Pfanne spülen 
 
-- [ ] Küche Arbeitsfläche wischen 
+- [ ] Küche Arbeitsfläche wischen  %% fold %%
 - [ ] Griffe in der Küche
  %% fold %%
 - [ ] neues Thema in Mathe beginnen + Arbeitsblatt  %% fold %%
 	- [ ] <font color="#92d050">Blick ins Buch</font> %% fold %%
 	- [ ] Tafelanschrieb %% fold %%
-		- [ ] Kommutativ, Assoziativ und Distributivgesetz
+		- [ ] Kommutativ, Assoziativ und Distributivgesetz %% fold %%
 		- [ ] Potenzgesetze
 	- [ ] Mathe neues Blatt für 8ter erstellen 
 		- [ ] Dreisatz 
