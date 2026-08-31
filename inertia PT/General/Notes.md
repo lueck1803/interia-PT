@@ -4284,6 +4284,12 @@ Ich denke es kommt auf die Essenz an. Man muss sich ja nicht alle RNA Arten merk
 
 3. RNA und DNA unterscheiden sich in nur wenigen Bestandteilen. Dem Zucker (ohne desoxy), einer Base (U statt T) und der Doppelhelix 
 
+# Heilpflanzen
+## Schafgarbe / Yarrow
+Um Blutungen zu stillen 
+
+## Weiden Rinde
+Als Schmerzmittel 
 # Physik
 The heat transport rate (or heat transfer rate, $\dot{Q}$) quantifies how much thermal energy is transferred per unit time (measured in Watts, W). The formulas differ for convection and radiation, as they depend on distinct physical principles.
 ## Convection Heat Transfer Rate
@@ -4303,8 +4309,8 @@ Where:
 - $\Delta T$: Temperature difference between the surface and the fluid (K or °C)
 
 ### Key Insight: %% fold %%
-- Linear dependence on $\Delta T$.
-- Strongly dependent on fluid flow (higher $ h $ for turbulent flow or higher velocities).
+- Linear dependence on $\Delta T$. %% fold %%
+- Strongly dependent on fluid flow (higher $ h $ for turbulent flow or higher velocities). %% fold %%
 
 
 ### Radiation Heat Transfer Rate
