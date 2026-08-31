@@ -322,6 +322,11 @@
 - [ ] ümmü schreiben, da sie gut mit macht und eigentlich auch fit ist, dass sie entweder auf wirsawija und sara aufpassen soll oder ich sie weg setzen werde, da ich möchte dass sie mitmacht, da sie es kann
 - [ ] sara schreiben, dass mir ihr gesamtverhalten im unterricht nicht passt.
 
+- [ ] Mädchen aus der 8b schreiben - Mathefördergruppe
+	- [ ] Shanaja
+	- [ ] Xenia
+	- [ ] Hana 
+
 - [x] kursmappe
 	- [x] m 5a %% fold %%
 	- [ ] m 8a
@@ -357,7 +362,8 @@
 		- [ ] Schreiben, dass ich jetzt strenger sein werde und nicht mitgebrachte Sachen ne Sechs im Arbeitsverhalten für den jeweiligen Tag sind
 		- [ ] Jeder soll nen Hefter mitbringen <font color="#548dd4">Mathe blau</font>, Physik egal was übrig ist zb. weiß oder schwarz
 		- [ ] ich möchte dass jeder ne Ordnung führt
-		- [ ] wer Blätter im Raum vergisst, bekommt auch nen 
+		- [ ] wer Blätter im Raum vergisst, bekommt auch nen schlechte note im Arbeitsverhalten
+		- [ ] ich möchte generell Blätter nur einmal austeilen
 	
 - [ ] Topfdeckel spülen 
 - [ ] pfannendeckel spülen 

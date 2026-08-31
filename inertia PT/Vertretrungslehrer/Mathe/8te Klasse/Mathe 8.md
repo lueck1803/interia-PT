@@ -28,7 +28,12 @@
 
 ## <font color="#8db3e2">8a</font> Lisa-Marie Rohr (roh)
 ### 2026-09-04
-- [ ] Buch S. 36 Nr1 
+- [ ] Buch S. 36 Nr1  machen
+- [ ] 
+- [ ] Assoziativgesetz
+- [ ] Distributivgesetz
+- [ ] Exponentialgesetze
+- [ ] 
 ### 2026-08-31
 - [ ] Lösung des Übungsblatts besprochen
 - [ ] Kommutativgesetz
@@ -60,7 +65,9 @@
 	- [ ] Also hatte ich mit dem Verfahren doch recht! das Ergebnis liegt erstaunlich nahe am richtigen Wert!
 
 
-## <font color="#b088ff">8b</font> Güldener, Nicole Kirsten (gld) %% fold %%
+## <font color="#b088ff">8b</font> Güldener, Nicole Kirsten (gld)
+### 2026-08-31
+- [ ] Lösung des Aufgabenblatts besprochen insbesondere die Aufgabe mit der Periodenumwandlung in einen Bruch
 ### 2026-08-24 %% fold %%
 - [ ] sagen dass ich Arbeitsblatt am Ende der Stunde einsammel %% fold %%
 
