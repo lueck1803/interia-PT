@@ -300,7 +300,7 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- [ ] Kurse checken - Die Termine müssen wohl noch angepasst werden
+- [x] Kurse checken - Die Termine müssen wohl noch angepasst werden
 
 - [ ] cursorposition history aktivieren
 	- [ ] handy
@@ -363,7 +363,7 @@
 - [ ] AOK die neuste Abrechnung vom August dann einreichen 
 - [ ] AOK App checken
 - [ ] Mutter anrufen 
-- [ ] schul.cloud Gruppen trennen 
+- [x] schul.cloud Gruppen trennen 
 	- [ ] Allen schreiben, was ich ab jetzt von denen erwarte:
 		- [ ] Schreiben, dass ich jetzt strenger sein werde und nicht mitgebrachte Sachen ne Sechs im Arbeitsverhalten für den jeweiligen Tag sind
 		- [ ] Jeder soll nen Hefter mitbringen <font color="#548dd4">Mathe blau</font>, Physik egal was übrig ist zb. weiß oder schwarz
