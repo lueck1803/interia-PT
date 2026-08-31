@@ -301,10 +301,13 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 
-- [ ] Essen
+- [x] Essen
 - [ ] Duolingo
+- [ ] AOK App checken
 - [ ] Zähne putzen
 - [ ] Black Waltz
+
+- [ ] Spülmaschine ausräumen
 
 - [ ] Cursor Position History in gitignore
 	- [ ] vielleicht gar nicht nötig 🤔🤷‍♂️
@@ -317,7 +320,8 @@
 - [ ] Pfanne spülen 
 - [ ] Küche Arbeitsfläche wischen
 - [ ] Griffe in der Küche
-- [ ] Dampfdruckkochtopf spülen
+- [x] Dampfdruckkochtopf spülen
+- [ ] AOK die neuste Abrechnung vom August dann einreichen 
 
 
 
@@ -382,11 +386,7 @@
 				- [ ] assoziativgesetzt
 				- [ ] Distributivgesetz
 			- [ ] Übungen zu den Rechen gesetzen
-- [x] Zähne putzen 
-- [x] Claudia die Nachrichten per WhatsApp
-- [ ] AOK die neuste Abrechnung vom August dann einreichen 
-- [ ] AOK App checken
-- [x] Mutter anrufen
+
 - schul.cloud 
 	- [x] Gruppen trennen 
 		- [ ] Einladungen checken
@@ -418,7 +418,7 @@
 	- [ ] selbst reparieren %% fold %%
 
 - [ ] lösung mit der Biene durchlesen 
-
+ %% fold %%
 - [x] duschen  %% fold %%
 - [ ] duschen + rasieren  %% fold %%
  %% fold %%
