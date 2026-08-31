@@ -304,7 +304,7 @@
 - [x] Essen
 - [x] Duolingo
 - [x] AOK App checken
-	- [ ] war
+	- [ ] war nur Magazine 
 - [x] Zähne putzen
 - [ ] Black Waltz
 
