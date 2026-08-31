@@ -308,6 +308,10 @@
 - [x] Zähne putzen
 - [ ] Black Waltz
 
+- [ ] Für die Fördergruppe die Seite 36 einscannen 
+	- [ ] explizit nochmal eine Aufgabe von der 1) vorrechnen
+	- [ ] dann möchte ich dass die komplette 1) machen 
+
 - [ ] Spülmaschine ausräumen
 
 - [ ] Cursor Position History in gitignore
