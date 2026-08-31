@@ -337,7 +337,7 @@
 	- [x] m 5a %% fold %%
 	- [x] m 8a
 	- [x] m 8b
-	- [ ] p 8a 
+	- [x] p 8a 
 	- [x] p 8b
 	- [x] p 8c
 	- [x] p 10b
