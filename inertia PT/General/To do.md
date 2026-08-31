@@ -362,10 +362,10 @@
 				- [ ] Distributivgesetz
 			- [ ] Übungen zu den Rechen gesetzen
 - [x] Zähne putzen 
-- [ ] Claudia die Nachrichten per WhatsApp 
+- [x] Claudia die Nachrichten per WhatsApp
 - [ ] AOK die neuste Abrechnung vom August dann einreichen 
 - [ ] AOK App checken
-- [ ] Mutter anrufen 
+- [x] Mutter anrufen
 - schul.cloud 
 	- [x] Gruppen trennen 
 		- [ ] Einladungen checken
