@@ -306,7 +306,7 @@
 - [ ] Backofengitter putzen 
 - [ ] tomaten waschen 
 - [ ] Pfanne spülen 
-- [ ] Küche Arbeitsfläche wischen  %% fold %%
+- [ ] Küche Arbeitsfläche wischen
 - [ ] Griffe in der Küche
 - [ ] Dampfdruckkochtopf spülen
 - [ ] Essen
