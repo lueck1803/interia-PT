@@ -11,6 +11,7 @@
 		- [ ] <font color="#ff0000">Vorschlag Mathe: Fr 25.9.</font> <font color="#7cfc00">⟹ ist eingetragen</font>
 	
 
+___
 
 - [ ] division nochmal anschreiben 
 - [ ] addition anschreiben 
