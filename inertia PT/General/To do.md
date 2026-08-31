@@ -301,6 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Cursor Position History in gitignore
+	- [ ] vielleicht gar nicht nötig 🤔🤷‍♂️
 
 - [ ] resting grounds Noten anschauen und mir die richtigen raus suchen 
 - [ ] Bretter spülen 
