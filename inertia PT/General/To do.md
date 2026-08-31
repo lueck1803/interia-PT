@@ -300,6 +300,15 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
+- [ ] getrennte Ordner für 
+	- [ ] 8te klasse
+		- [ ] Mathe 
+		- [ ] physik
+	- [ ] 5te klasse Mathe
+	- [ ] Hefter für Anwesenheitslisten + Mitarbeit
+
+- [ ] Schreiben, dass ich jetzt strenger sein werde
+
 - [x] kursmappe
 	- [x] m 5a %% fold %%
 	- [ ] m 8a
@@ -343,7 +352,7 @@
  %% fold %%
 - [ ] neues Thema in Mathe beginnen + Arbeitsblatt  %% fold %%
 	- [ ] <font color="#92d050">Blick ins Buch</font> %% fold %%
-	- [ ] Tafelanschrieb
+	- [ ] Tafelanschrieb %% fold %%
 		- [ ] Kommutativ, Assoziativ und Distributivgesetz
 		- [ ] Potenzgesetze
 	- [ ] Mathe neues Blatt für 8ter erstellen 
