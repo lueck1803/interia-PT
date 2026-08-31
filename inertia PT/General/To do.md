@@ -300,7 +300,7 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- [ ] Kurse checken - Dir
+- [ ] Kurse checken - Die Termine müssen wohl noch angepasst werden
 
 - [ ] cursorposition history aktivieren
 	- [ ] handy
@@ -335,7 +335,7 @@
 
 - [x] kursmappe
 	- [x] m 5a %% fold %%
-	- [ ] m 8a
+	- [x] m 8a
 	- [x] m 8b
 	- [ ] p 8a 
 	- [x] p 8b
