@@ -302,8 +302,9 @@
 
 
 - [x] Essen
-- [ ] Duolingo
-- [ ] AOK App checken
+- [x] Duolingo
+- [x] AOK App checken
+	- [ ] war
 - [x] Zähne putzen
 - [ ] Black Waltz
 
