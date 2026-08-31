@@ -301,14 +301,21 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 
-
-
+- [ ] resting grounds Noten anschauen und mir die richtigen raus suchen 
+- [ ] Bretter spülen 
+- [ ] Backofengitter putzen 
+- [ ] tomaten waschen 
+- [ ] Pfanne spülen 
+- [ ] Küche Arbeitsfläche wischen  %% fold %%
+- [ ] Griffe in der Küche
+- [ ] Dampfdruckkochtopf spülen
+- [ ] Essen
 
 - [x] Kurse checken - Die Termine müssen wohl noch angepasst werden
 
-- [ ] cursorposition history aktivieren
-	- [ ] handy
-	- [ ] laptop
+- [x] cursorposition history aktivieren
+	- [x] handy
+	- [x] laptop
 
 - [ ] Text von Elias lesen
 - [ ] Mentis schreiben, das Freitag abgabe ist
@@ -397,20 +404,13 @@
 	- [ ] neue Tasten für mac bestellen %% fold %%
 	- [ ] selbst reparieren %% fold %%
 
-- [ ] resting grounds Noten anschauen und mir die richtigen raus suchen 
 - [ ] lösung mit der Biene durchlesen 
-- [ ] Bretter spülen 
 
 - [x] duschen 
 - [ ] duschen + rasieren  %% fold %%
-
-- [ ] Backofengitter putzen 
-- [ ] tomaten waschen 
-- [ ] Pfanne spülen 
-
-- [ ] Küche Arbeitsfläche wischen  %% fold %%
-- [ ] Griffe in der Küche
  %% fold %%
+ %% fold %%
+  %% fold %%
 - [ ] neues Thema in Mathe beginnen + Arbeitsblatt  %% fold %%
 	- [ ] <font color="#92d050">Blick ins Buch</font> %% fold %%
 	- [ ] Tafelanschrieb %% fold %%
