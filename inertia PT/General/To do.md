@@ -300,6 +300,7 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
+- [ ] Cursor Position History in gitignore
 
 - [ ] resting grounds Noten anschauen und mir die richtigen raus suchen 
 - [ ] Bretter spülen 
