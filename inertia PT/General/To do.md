@@ -302,9 +302,9 @@
 
 - [x] kursmappe
 	- [x] m 5a %% fold %%
-	- [x] m 8a
-	- [x] m 8b
-	- [x] p 8a 
+	- [ ] m 8a
+	- [ ] m 8b
+	- [ ] p 8a 
 	- [x] p 8b
 	- [x] p 8c
 	- [x] p 10b
@@ -312,7 +312,11 @@
 	- [x] E 5b
 
 - [ ] Zähne putzen 
+- [ ] Claudia die Nachrichten per WhatsApp 
 - [ ] AOK die neuste Abrechnung vom August dann einreichen 
+- [ ] AOK App checken
+- [ ] Mutter anrufen 
+- [ ] Gruppen 
 
 - [ ] Topfdeckel spülen 
 - [ ] pfannendeckel spülen 
