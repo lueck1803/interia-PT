@@ -300,6 +300,10 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
+- [ ] Schul.cloud umbenennungen und Löschungen
+	- [ ] sara El adhane hat 3 Accounts
+	- [ ] Shanaja . -> Shanaja Patrick
+	- [ ] Yahya . -> Yahya
 - [x] Kurse checken - Die Termine müssen wohl noch angepasst werden
 
 - [ ] cursorposition history aktivieren
