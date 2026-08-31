@@ -306,6 +306,8 @@
 		- [ ] GL 14/9 
 		- [ ] Deutsch 18/9
 	- [ ] 8a Mathe
+		- [ ] 22.9 und 1.12 ist Englisch Arbeit
+		- [ ] 18.09 ist Deutsch Arbeit
 	
 
 
