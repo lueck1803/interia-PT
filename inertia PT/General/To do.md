@@ -300,6 +300,12 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
+
+- [ ] Essen
+- [ ] Duolingo
+- [ ] Zähne putzen
+- [ ] Black Waltz
+
 - [ ] Cursor Position History in gitignore
 	- [ ] vielleicht gar nicht nötig 🤔🤷‍♂️
 
@@ -312,9 +318,7 @@
 - [ ] Küche Arbeitsfläche wischen
 - [ ] Griffe in der Küche
 - [ ] Dampfdruckkochtopf spülen
-- [ ] Essen
-- [ ] Duolingo
-- [ ] Black Waltz
+
 
 
 - [ ] Text von Elias lesen
