@@ -300,8 +300,9 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- [ ] Zähne putzen
-- [ ] Duolingo
+- [ ] lina und samiha fragen ob sie es schon
+- [x] Zähne putzen
+- [x] Duolingo
 - [ ] Tesafilm roller zurück holen 
 	- [ ] ina schreiben
 	- [ ] bzw. neuen kaufen bzw. suchen ob ich nicht noch nen abroller habe
