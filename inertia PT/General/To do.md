@@ -309,6 +309,9 @@
 	- [ ] lina
 	- [ ] samiha
 - [ ] text von elias lesen 
+- [ ] keyboard aufbauen und bloody valkyria heraus hören
+
+
 - [x] Duolingo
 - [x] AOK App checken
 	- [ ] war nur Magazine 
@@ -440,8 +443,8 @@
 	- [ ] <font color="#92d050">Blick ins Buch</font> %% fold %%
 	- [ ] Tafelanschrieb %% fold %%
 		- [ ] Kommutativ, Assoziativ und Distributivgesetz %% fold %%
-		- [ ] Potenzgesetze
-	- [ ] Mathe neues Blatt für 8ter erstellen 
+		- [ ] Potenzgesetze %% fold %%
+	- [ ] Mathe neues Blatt für 8ter erstellen  %% fold %%
 		- [ ] Dreisatz 
 		- [ ] Prozentrechnung
 		- [ ] K,A,D Gesetz %% fold %%
