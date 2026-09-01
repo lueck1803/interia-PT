@@ -301,7 +301,8 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] bloody valkyria - age of stars piano raus hören 
-- [ ] Classic gita
+- [ ] Classic Gitarren Saiten kaufen 
+- [ ] hab ich das mesa m
 - [x] Essen
 - [x] Duolingo
 - [x] AOK App checken
