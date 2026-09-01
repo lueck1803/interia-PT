@@ -304,13 +304,13 @@
 - [ ] Classic Gitarren Saiten kaufen 
 - [ ] hab ich das mesa metalcore preset auf dem podgo
 - [ ] Essen
-- [ ] Kaffee 
-- [ ] mentis schreiben 
-	- [ ] lina
-	- [ ] samiha
+- [x] Kaffee 
+- [x] mentis schreiben 
+	- [x] lina
+	- [x] samiha
 - [ ] text von elias lesen 
 - [ ] keyboard aufbauen und bloody valkyria heraus hören
-- [ ] grüne schuhe aufrauwn
+- [ ] grüne schuhe aufrauen
 
 
 - [x] Duolingo
