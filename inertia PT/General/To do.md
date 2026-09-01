@@ -310,6 +310,7 @@
 	- [ ] samiha
 - [ ] text von elias lesen 
 - [ ] keyboard aufbauen und bloody valkyria heraus hören
+- [ ] grüne schuhe aufrauwn
 
 
 - [x] Duolingo
