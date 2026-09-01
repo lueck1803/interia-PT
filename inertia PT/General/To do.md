@@ -299,24 +299,22 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
+
+- [ ] Zähne putzen
+- [ ] Duolingo
 - [ ] Tesafilm roller zurück holen 
+	- [ ] ina schreiben
+	- [ ] bzw. neuen kaufen bzw. suchen ob ich nicht noch nen abroller habe
 - [ ] bloody valkyria - age of stars piano raus hören 
 - [ ] Classic Gitarren Saiten kaufen 
 - [ ] hab ich das mesa metalcore preset auf dem podgo
-- [ ] Essen
-- [x] Kaffee 
-- [x] mentis schreiben 
-	- [x] lina
-	- [x] samiha
 - [ ] text von elias lesen 
 - [ ] keyboard aufbauen und bloody valkyria heraus hören
 - [ ] grüne schuhe aufrauen
 
 
-- [x] Duolingo
 - [x] AOK App checken
 	- [ ] war nur Magazine 
-- [x] Zähne putzen
 - [ ] Black Waltz
 
 - [ ] Für die Fördergruppe die Seite 36 einscannen 
@@ -336,7 +334,6 @@
 - [ ] Pfanne spülen 
 - [ ] Küche Arbeitsfläche wischen
 - [ ] Griffe in der Küche
-- [x] Dampfdruckkochtopf spülen
 - [ ] AOK die neuste Abrechnung vom August dann einreichen 
 
 
@@ -346,15 +343,7 @@
 
 - [x] Kurse checken - Die Termine müssen wohl noch angepasst werden
 
-- [x] cursorposition history aktivieren
-	- [x] handy
-	- [x] laptop
 
-
-- [ ] Mentis schreiben, das Freitag abgabe ist
-	- [ ] samiha 
-	- [ ] Lina
-	- [ ] Elias
 
 - [ ] getrennte Ordner für 
 	- [ ] 8te klasse
@@ -378,7 +367,7 @@
 	- [ ] Hana 
 
 - [x] kursmappe
-	- [x] m 5a %% fold %%
+	- [ ] m 5a %% fold %%
 	- [x] m 8a
 	- [x] m 8b
 	- [x] p 8a 
@@ -429,11 +418,11 @@
 - [ ] Ikea Behälter spülen 
 - [ ] Behälter spülen 
 
-- [ ] mac Tastatur
+- [ ] mac Tastatur %% fold %%
 	- [ ] neue Tasten für mac bestellen %% fold %%
 	- [ ] selbst reparieren %% fold %%
-
-- [ ] lösung mit der Biene durchlesen 
+ %% fold %%
+- [ ] lösung mit der Biene durchlesen  %% fold %%
  %% fold %%
 - [x] duschen  %% fold %%
 - [ ] duschen + rasieren  %% fold %%
