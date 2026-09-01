@@ -299,7 +299,7 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
-
+- [ ] Tesafilm roller zurück holen 
 - [ ] bloody valkyria - age of stars piano raus hören 
 - [ ] Classic Gitarren Saiten kaufen 
 - [ ] hab ich das mesa metalcore preset auf dem podgo
