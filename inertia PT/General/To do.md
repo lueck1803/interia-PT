@@ -302,7 +302,7 @@
 
 - [ ] bloody valkyria - age of stars piano raus hören 
 - [ ] Classic Gitarren Saiten kaufen 
-- [ ] hab ich das mesa m
+- [ ] hab ich das mesa metalcore preset auf dem podgo
 - [x] Essen
 - [x] Duolingo
 - [x] AOK App checken
