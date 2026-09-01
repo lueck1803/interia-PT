@@ -308,7 +308,7 @@
 - [ ] mentis schreiben 
 	- [ ] lina
 	- [ ] samiha
-- [ ] text von e
+- [ ] text von elias lesen 
 - [x] Duolingo
 - [x] AOK App checken
 	- [ ] war nur Magazine 
