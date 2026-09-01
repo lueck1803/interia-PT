@@ -311,6 +311,7 @@
 - [ ] text von elias lesen 
 - [ ] keyboard aufbauen und bloody valkyria heraus hören
 - [ ] grüne schuhe aufrauen
+- [ ] spülmaschine ausräumen
 
 
 - [x] AOK App checken
