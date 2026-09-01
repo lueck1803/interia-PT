@@ -300,7 +300,7 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-
+- [ ] bloody valkyria - age of stars piano raus hören 
 - [x] Essen
 - [x] Duolingo
 - [x] AOK App checken
