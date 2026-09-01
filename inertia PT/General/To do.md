@@ -303,7 +303,12 @@
 - [ ] bloody valkyria - age of stars piano raus hören 
 - [ ] Classic Gitarren Saiten kaufen 
 - [ ] hab ich das mesa metalcore preset auf dem podgo
-- [x] Essen
+- [ ] Essen
+- [ ] Kaffee 
+- [ ] mentis schreiben 
+	- [ ] lina
+	- [ ] samiha
+- [ ] text von e
 - [x] Duolingo
 - [x] AOK App checken
 	- [ ] war nur Magazine 
