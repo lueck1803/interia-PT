@@ -301,6 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] bloody valkyria - age of stars piano raus hören 
+- [ ] Classic gita
 - [x] Essen
 - [x] Duolingo
 - [x] AOK App checken
