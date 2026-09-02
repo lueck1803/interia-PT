@@ -300,7 +300,8 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- [ ] Formulierung des Arbeitsblatt der 1 ändern
+- [ ] Trinkflasche tauschen 
+- [ ] Formulierung des Arbeitsblatt der 10ten Klasse ändern
 - [ ] Epson beamer - usb video Wlan
 - [ ] Friseur 
 - [ ] Umfrage in 8b wegen Formelsammlung 
