@@ -431,7 +431,7 @@
 - [ ] lösung mit der Biene durchlesen  %% fold %%
  %% fold %%
 - [x] duschen  %% fold %%
-- [ ] duschen + rasieren
+- [ ] duschen + rasieren %% fold %%
  %% fold %%
  %% fold %%
   %% fold %%
