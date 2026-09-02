@@ -302,6 +302,7 @@
 
 - [ ] Trinkflasche tauschen 
 - [ ] Formulierung des Arbeitsblatt der 10ten Klasse ändern
+- [ ] schriftliches dividieren, wann kommen nullen rein?
 - [ ] Epson beamer - usb video Wlan
 - [ ] Friseur 
 - [ ] Umfrage in 8b wegen Formelsammlung 
@@ -376,12 +377,12 @@
 - [x] kursmappe
 	- [ ] m 5a %% fold %%
 	- [x] m 8a
-	- [x] m 8b
+	- [ ] m 8b
 	- [x] p 8a 
-	- [x] p 8b
+	- [ ] p 8b
 	- [x] p 8c
 	- [x] p 10b
-	- [x] p 10a
+	- [ ] p 10a
 	- [x] E 5b
 
 - [ ] Mathe 8
@@ -424,7 +425,7 @@
 - [ ] pfannendeckel spülen 
 - [ ] Ikea Behälter spülen 
 - [ ] Behälter spülen 
-
+ %% fold %%
 - [ ] mac Tastatur %% fold %%
 	- [ ] neue Tasten für mac bestellen %% fold %%
 	- [ ] selbst reparieren %% fold %%
