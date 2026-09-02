@@ -429,7 +429,7 @@
 - [ ] lösung mit der Biene durchlesen  %% fold %%
  %% fold %%
 - [x] duschen  %% fold %%
-- [ ] duschen + rasieren  %% fold %%
+- [ ] duschen + rasieren
  %% fold %%
  %% fold %%
   %% fold %%
