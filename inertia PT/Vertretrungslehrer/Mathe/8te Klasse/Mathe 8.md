@@ -433,7 +433,7 @@ $=\frac{21 \cdot  \cancel{ 7 }} {\cancelto{ 7 }{ 49 } \cdot 9}=\frac{\cancelto{ 
 $\frac{21 \cdot 3 \cdot 35}{49 \cdot 15 \cdot 9}$
 $=\frac{63\cdot 35}{735\cdot 9}$
 $=\frac{2205}{6615}=\frac{1}{3}$
-oder
+oder %% fold %%
 $\frac{21 \cdot \cancel{ 3 } \cdot 35}{49 \cdot \cancelto{ 5 }{ 15 } \cdot 9}=\frac{21 \cdot \cancelto{ 7 }{ 35 }}{49\cdot \cancel{ 5 } \cdot 9}$
 $=\frac{21 \cdot  \cancel{ 7 }} {\cancelto{ 7 }{ 49 } \cdot 9}=\frac{\cancelto{ 3 }{ 21 }}{\cancel{ 7 }\cdot 9}$
 $=\frac{3}{9}=\frac{1}{3}=0.\bar{3}$ %% fold %%
