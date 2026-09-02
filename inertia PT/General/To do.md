@@ -300,6 +300,7 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
+- [ ] Umfrage in 8b wegen Formelsammlung 
 - [ ] lina und samiha fragen ob sie es schon bereut haben mich als Mentor gewählt zu haben🤭
 - [x] Zähne putzen
 - [x] Duolingo
