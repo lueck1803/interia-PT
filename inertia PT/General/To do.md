@@ -306,7 +306,7 @@
 - [ ] Wäsche 
 - [ ] Laptop 
 - [ ] Biomüll 
-- [ ] essen
+- [ ] essen mit Auberginen 
 - [ ] Einkauf weg
 
 - [ ] Unterricht für morgen auf PDF und ausdrucken 
