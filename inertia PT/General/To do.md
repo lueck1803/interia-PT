@@ -315,7 +315,7 @@
 
 - [ ] Unterricht für morgen auf PDF und ausdrucken 
 
-- [ ] Matheunterricht Freitag dzrcdenken
+- [ ] Matheunterricht Freitag durchdenken
 	- [ ] Ansprache 
 		- [ ] Unterricht bisher scheinbar wenig Struktur 
 		- [ ] werde ich besser machen 
