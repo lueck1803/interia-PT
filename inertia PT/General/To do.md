@@ -312,7 +312,6 @@
 - [ ] Schul-ID
 - [ ] Mich dringend um den Rechner kümmern
 - [x] Einkauf weg
-- [ ] 
 
 - [ ] Unterricht für morgen auf PDF und ausdrucken 
 
@@ -344,9 +343,8 @@
 				- [ ] K, A, D Gesetz
 				- [ ] Potenzgesetze 
 
-- [ ] lunas mutter schreiben 
+- [x] lunas mutter schreiben 
 
-Ich hab da ein kleines Anliegen, Luna erzählte mir gestern von ihrem Schultag und das beide Physik Stunden mehr oder minder flach gefallen sind weil es einen Streit zwischen zwei Schülern zu Schlichten gab. Die Situation ist mir ja nichts unbekanntes bei dem ein oder anderen Kandidat, allerdings find ich es weniger schön wenn deshalb die Schulstunden nicht ausgeführt werden können. Vielleicht kann man zukünftig wenn das wieder vorkommt und vermutlich wird es das ![😉](./assets/images/emoji/1f609.svg) den anderen Aufgaben erteilen oder eine anderweitige Lösung finden. Uns ist es einfach wichtig jetzt wo man auf Prüfungen und Co. Zu geht das der Unterricht stattfindet.
 
 
 
