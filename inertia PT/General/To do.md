@@ -303,13 +303,18 @@
 - [ ] schul.cloud Gruppe für 10a und b machen. Kai Wörner ansprechen 
 	- [ ] Lösung zur heutigen Aufgabe in die Gruppe der 10b posten. Mit Erklärung 
 - [ ] jamil wegen Lehrplan physik 10 sprechen 
-- [ ] Katrin mair wegen mathis mutter und rezwan
-	- [ ] hab mit Axel gesprochen: seine Tochter ist an der Viktoria Schule. Dort gibt es vom Förderverein die Möglichkeit, dass Instrumente gestellt werden und der Unterricht kostenlos ist. Was es hier an der BAS nicht gibt
+- [ ] Katrin mair wegen rezwan
+	- hab mit Axel gesprochen: seine Tochter ist an der Viktoria Schule. Dort gibt es vom Förderverein die Möglichkeit, dass Instrumente gestellt werden und der Unterricht kostenlos ist. Was es hier an der BAS nicht gibt
 
 - [ ] wegen mathis mutter sprechen
-	- [ ] hab sie angetroffen und ihr gesagt, dass ich es n
+	- [ ] hab sie angetroffen und ihr gesagt, dass ich es nicht vergessen habe und sie mich bei Gelegenheit darauf ansprechen soll/darf.
 
-- [ ] Formulierung des Arbeitsblatt der 10ten Klasse ändern
+- [ ] Arbeitsblatt der 10ten Klasse ab ändern
+	- [ ] A) oben weg machen
+	- [ ] Formulierung der Aufgabe 1
+	- [ ] Kasten und die Beschreibung Info/Formel mit dazu schreiben
+
+
 - [ ] schriftliches dividieren, wann kommen nullen rein?
 - [ ] Epson beamer - usb video Wlan
 - [ ] Friseur 
