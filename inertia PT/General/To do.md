@@ -300,8 +300,63 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- [ ] Trinkflasche tauschen 
-- [ ] Formulierung des Arbeitsblatt der 10ten Klasse ändern
+- [ ] Kaffeebehälter 
+- [ ] staubsaugen 
+- [ ] Küche aufräumen 
+- [ ] Wäsche 
+- [ ] Laptop 
+- [ ] Biomüll 
+- [ ] essen
+- [ ] Einkauf weg
+
+- [ ] Unterricht für morgen auf PDF und ausdrucken 
+
+- [ ] Matheunterricht Freitag dzrcdenken
+	- [ ] Ansprache 
+		- [ ] Unterricht bisher scheinbar wenig Struktur 
+		- [ ] werde ich besser machen 
+		- [ ] vielen Dank für die Kritik 
+		- [ ] immer gerne ansprechen, wenn ich es nicht weiß, kann ich es nicht ändern 
+		- [ ] neues Thema und da mehr Arbeit im Buch
+		- [ ] ich versuche auch mehr klar zu machen was das Konzept der jeweiligen Stunde ist
+		- [ ] klar machen, dass ich jetzt etwas anschreibe und das sollt ihr jetzt abschreiben - wurde so gewünscht 
+		- [ ] es gibt aber weiterhin das Handout was ich nachliefere und aktualisiere, den Link habt ihr
+		- [ ] ich versuche da allen besser gerecht zu werden. Ich bin noch dabei zu lernen ok? Gebt mir die Chance 
+		- [ ] ihr müsst mir aber auch die Chance geben in dem ihr ruhig genug seid
+		- [ ] neues Thema 
+	- [ ] Themen Wechsel 
+		- [ ] jetzt Ungleichungen/Gleichungen bis zur Klassenarbeit am 25.9
+		- [ ] Klassenarbeit:
+			- [ ] brüche
+				- [ ] Vergleichen können 
+				- [ ] Grundrechenarten 
+				- [ ] Brüche visualisieren können 
+				- [ ] Dezimalzahl in bruchumwandeln können 
+			- [ ] Gleichungen/Ungleichungen 
+				- [ ] hängt davon ab wie weit wir kommen 
+			- [ ] arbeit im Buch s36, währenddessen schreibe ich etwas an
+			- [ ] anschrieb:
+				- [ ] K, A, D Gesetz
+				- [ ] Potenzgesetze 
+
+- [ ] lunas mutter schreiben 
+- [ ] ina wegen rayan schreiben, was seine Kritikfähigkeit an angeht
+
+- [ ] schul.cloud Gruppe für 10a und b machen. Kai Wörner ansprechen 
+	- [ ] Lösung zur heutigen Aufgabe in die Gruppe der 10b posten. Mit Erklärung 
+- [ ] jamil wegen Lehrplan physik 10 sprechen 
+- [ ] Katrin mair wegen rezwan
+	- hab mit Axel gesprochen: seine Tochter ist an der Viktoria Schule. Dort gibt es vom Förderverein die Möglichkeit, dass Instrumente gestellt werden und der Unterricht kostenlos ist. Was es hier an der BAS nicht gibt
+
+- [ ] wegen mathis mutter sprechen
+	- [ ] hab sie angetroffen und ihr gesagt, dass ich es nicht vergessen habe und sie mich bei Gelegenheit darauf ansprechen soll/darf.
+
+- [ ] Arbeitsblatt der 10ten Klasse ab ändern
+	- [ ] A) oben weg machen
+	- [ ] Formulierung der Aufgabe 1
+	- [ ] Kasten und die Beschreibung Info/Formel mit dazu schreiben
+
+
 - [ ] schriftliches dividieren, wann kommen nullen rein?
 - [ ] Epson beamer - usb video Wlan
 - [ ] Friseur 
