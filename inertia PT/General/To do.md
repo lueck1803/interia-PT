@@ -302,7 +302,11 @@
 
 - [ ] Kaffeebehälter 
 - [ ] staubsaugen 
-- [ ] Küche auf
+- [ ] Küche aufräumen 
+- [ ] Wäsche 
+- [ ] Laptop 
+- [ ] Biomüll 
+- [ ] essen
 - [ ] Einkauf weg
 
 - [ ] Unterricht für morgen auf PDF und ausdrucken 
