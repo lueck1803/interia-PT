@@ -307,11 +307,12 @@
 - [ ] Laptop 
 - [ ] Biomüll 
 - [ ] essen mit Auberginen 
-- [ ] Tastatur wischen
+- [x] Tastatur wischen
 - [ ] krafttraining 
 - [ ] Schul-ID
 - [ ] Mich dringend um den Rechner kümmern
-- [ ] Einkauf weg
+- [x] Einkauf weg
+- [ ] 
 
 - [ ] Unterricht für morgen auf PDF und ausdrucken 
 
