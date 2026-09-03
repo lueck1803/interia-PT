@@ -9,7 +9,7 @@
 # Aldi
 ## Jetzt
 - Einkaufswagen 
-- [ ] Bier
+- [x] Bier
 - [ ] Saft 
 - [x] Bananen
 - [x] Pilze
