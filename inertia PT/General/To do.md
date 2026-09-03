@@ -302,7 +302,8 @@
 
 - [ ] svhul.clo7d Gruppe für 10a und b machen. Kai Wörner ansprechen 
 	- [ ] Lösung zur heutigen Aufgabe in die Gruppe der 10b posten. Mit Erklärung 
-- [ ] jamil wegen Lehrplan physik 10 spre
+- [ ] jamil wegen Lehrplan physik 10 sprechen 
+- [ ] Katrin mair wegen mathis mutter und rezwan
 
 
 - [ ] Trinkflasche tauschen 
