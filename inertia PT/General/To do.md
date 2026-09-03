@@ -300,7 +300,9 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-
+- [ ] Kaffeebehälter 
+- [ ] staubsaugen 
+- [ ] Küche auf
 - [ ] Einkauf weg
 
 - [ ] Unterricht für morgen auf PDF und ausdrucken 
