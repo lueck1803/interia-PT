@@ -307,8 +307,9 @@
 - [ ] staubsaugen 
 - [x] Küche aufräumen 
 - [ ] Wäsche 
-- [ ] Laptop 
-	- [ ] a2337
+- [x] Laptop 
+	- [x] a2337
+	- [x] Tasten bestellt
 - [x] Biomüll 
 - [ ] essen mit Auberginen 
 - [x] Tastatur wischen
