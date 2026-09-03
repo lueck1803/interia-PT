@@ -299,6 +299,12 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
+
+
+- [ ] Einkauf weg
+- [ ] Matheunterricht Freitag dzrcdenken
+	- [ ] Themen wechse
+
 - [ ] lunas mutter schreiben 
 - [ ] ina wegen rayan schreiben, was seine Kritikfähigkeit an angeht
 
