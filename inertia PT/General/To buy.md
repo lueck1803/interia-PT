@@ -10,7 +10,7 @@
 ## Jetzt
 - Einkaufswagen 
 - [x] Bier
-- [ ] Saft 
+- [x] Saft 
 - [x] Bananen
 - [x] Pilze
 - [x] Toast
