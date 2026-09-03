@@ -50,6 +50,33 @@ ___
 	- [ ] Nr3
 - [ ] Assoziativgesetz
 - [ ] Distributivgesetz
+
+	- [ ] Ansprache 
+		- [ ] Unterricht bisher scheinbar wenig Struktur 
+		- [ ] werde ich besser machen 
+		- [ ] vielen Dank für die Kritik 
+		- [ ] immer gerne ansprechen, wenn ich es nicht weiß, kann ich es nicht ändern 
+		- [ ] neues Thema und da mehr Arbeit im Buch
+		- [ ] ich versuche auch mehr klar zu machen was das Konzept der jeweiligen Stunde ist
+		- [ ] klar machen, dass ich jetzt etwas anschreibe und das sollt ihr jetzt abschreiben - wurde so gewünscht 
+		- [ ] es gibt aber weiterhin das Handout was ich nachliefere und aktualisiere, den Link habt ihr
+		- [ ] ich versuche da allen besser gerecht zu werden. Ich bin noch dabei zu lernen ok? Gebt mir die Chance 
+		- [ ] ihr müsst mir aber auch die Chance geben in dem ihr ruhig genug seid
+		- [ ] neues Thema 
+	- [ ] Themen Wechsel 
+		- [ ] jetzt Ungleichungen/Gleichungen bis zur Klassenarbeit am 25.9
+		- [ ] Klassenarbeit:
+			- [ ] brüche
+				- [ ] Vergleichen können 
+				- [ ] Grundrechenarten 
+				- [ ] Brüche visualisieren können 
+				- [ ] Dezimalzahl in bruchumwandeln können 
+			- [ ] Gleichungen/Ungleichungen 
+				- [ ] hängt davon ab wie weit wir kommen 
+			- [ ] arbeit im Buch s36, währenddessen schreibe ich etwas an
+			- [ ] anschrieb:
+				- [ ] K, A, D Gesetz
+				- [ ] Potenzgesetze 
 ### 2026-08-31
 - [ ] Lösung des Übungsblatts besprochen
 - [ ] Kommutativgesetz
@@ -96,7 +123,7 @@ ___
 - [ ] Lösung des Aufgabenblatts besprochen insbesondere die Aufgabe mit der Periodenumwandlung in einen Bruch %% fold %%
 ### 2026-08-24 %% fold %%
 - [ ] sagen dass ich Arbeitsblatt am Ende der Stunde einsammel %% fold %%
-
+ %% fold %%
 - [ ] division nochmal anschreiben 
 - [ ] addition anschreiben 
 - [ ] addition besprechen 
@@ -121,7 +148,7 @@ ___
 
 - Größenvergleich  halber Liter, 0,33 L, ein viertel Liter ein Drittel Liter, 0,75 L, 0,2 L, ein achtel Liter, 200 milli Liter von einem Liter wurden getrunken, 40 Zentiliter.
 	- jeweils ne 1Liter Flasche ausmalen 
-- 3/5 vs 2/3 $\frac{3}{5}\fbox{|\quad |} \frac{2}{3}$ $\frac{3}{5}\;\fbox{\phantom{6}}\;\frac{2}{3}$
+- 3/5 vs 2/3 $\frac{3}{5}\fbox{|\quad |} \frac{2}{3}$ $\frac{3}{5}\;\fbox{\phantom{6}}\;\frac{2}{3}$ %% fold %%
 - 3/4 vs 5/8
 - 2/3 vs 5/8
 - 2/3 vs 6/8
