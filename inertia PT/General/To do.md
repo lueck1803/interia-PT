@@ -301,7 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] gießen
-- [ ] Gitarre wischen
+- [x] Gitarre wischen
 - [x] Kapitel §17 vom künkel exportieren, ausdrucken und auch nochmal Lina schicken
 - [ ] Kaffeebehälter 
 - [ ] staubsaugen 
