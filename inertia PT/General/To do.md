@@ -307,6 +307,10 @@
 - [ ] Laptop 
 - [ ] Biomüll 
 - [ ] essen mit Auberginen 
+- [ ] Tastatur wischen
+- [ ] krafttraining 
+- [ ] Schul-ID
+- [ ] Mich dringend um den Rechner kümmern
 - [ ] Einkauf weg
 
 - [ ] Unterricht für morgen auf PDF und ausdrucken 
