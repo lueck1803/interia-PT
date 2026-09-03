@@ -304,9 +304,11 @@
 	- [ ] Lösung zur heutigen Aufgabe in die Gruppe der 10b posten. Mit Erklärung 
 - [ ] jamil wegen Lehrplan physik 10 sprechen 
 - [ ] Katrin mair wegen mathis mutter und rezwan
+	- [ ] hab mit Axel gesprochen: seine Tochter ist an der Viktoria Schule. Dort gibt es vom Förderverein die Möglichkeit, dass Instrumente gestellt werden und der Unterricht kostenlos ist. Was es hier an der BAS nicht gibt
 
+- [ ] wegen mathis mutter sprechen
+	- [ ] hab sie angetroffen und ihr gesagt, dass ich es n
 
-- [ ] Trinkflasche tauschen 
 - [ ] Formulierung des Arbeitsblatt der 10ten Klasse ändern
 - [ ] schriftliches dividieren, wann kommen nullen rein?
 - [ ] Epson beamer - usb video Wlan
