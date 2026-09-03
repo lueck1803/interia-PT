@@ -300,6 +300,7 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
+- [ ] Kapitel §18 vom künkel exportieren, ausdrucken und auhc 
 - [ ] Kaffeebehälter 
 - [ ] staubsaugen 
 - [ ] Küche aufräumen 
