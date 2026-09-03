@@ -29,7 +29,7 @@
 	- an der Absolutät meiner Verantwortung ändert sich nichts, niemand wird mich retten, nur ich kann mich retten
 	- Fatalismus beschreibt sämtliche Phänomene, aber diktiert keine konkreten Handlungen, alle Gegebenheiten sind auf inhaltlicher ebene mit dem Fatalismus vereinbar und nicht vereinbar, Fatalismus ist keine gültige Ausflucht
 	- es ist irrelevant was wer was wann getan hat oder was weshalb aus wessen Initiative heraus geschehen ist
-	- ⤷das einzige was zählt ist: wer tut heute jenes oder solches
+	- ⤷das einzige was zählt ist: wer tut heute jenes oder solches %% fold %%
 - alles was sofort erledigt werden kann erledige sofort 
 	- für alles andere durch denke einen Plan den du ausführen kannst wenn sich die Gelegenheit ergibt 
 	- sobald sich die Gelegenheit ergibt ziehe den Plan emotionslos durch
