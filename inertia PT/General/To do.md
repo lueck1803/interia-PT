@@ -304,10 +304,10 @@
 - [x] Kapitel §17 vom künkel exportieren, ausdrucken und auch nochmal Lina schicken
 - [ ] Kaffeebehälter 
 - [ ] staubsaugen 
-- [ ] Küche aufräumen 
+- [x] Küche aufräumen 
 - [ ] Wäsche 
 - [ ] Laptop 
-- [ ] Biomüll 
+- [x] Biomüll 
 - [ ] essen mit Auberginen 
 - [x] Tastatur wischen
 - [ ] krafttraining 
