@@ -308,6 +308,7 @@
 - [x] Küche aufräumen 
 - [ ] Wäsche 
 - [ ] Laptop 
+	- [ ] a2337
 - [x] Biomüll 
 - [ ] essen mit Auberginen 
 - [x] Tastatur wischen
