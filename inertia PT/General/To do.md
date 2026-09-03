@@ -300,7 +300,7 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- [ ] svhul.clo7d Gruppe für 10a und b machen. Kai Wörner ansprechen 
+- [ ] schul.cloud Gruppe für 10a und b machen. Kai Wörner ansprechen 
 	- [ ] Lösung zur heutigen Aufgabe in die Gruppe der 10b posten. Mit Erklärung 
 - [ ] jamil wegen Lehrplan physik 10 sprechen 
 - [ ] Katrin mair wegen mathis mutter und rezwan
