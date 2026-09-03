@@ -344,6 +344,12 @@
 				- [ ] Potenzgesetze 
 
 - [ ] lunas mutter schreiben 
+
+Ich hab da ein kleines Anliegen, Luna erzählte mir gestern von ihrem Schultag und das beide Physik Stunden mehr oder minder flach gefallen sind weil es einen Streit zwischen zwei Schülern zu Schlichten gab. Die Situation ist mir ja nichts unbekanntes bei dem ein oder anderen Kandidat, allerdings find ich es weniger schön wenn deshalb die Schulstunden nicht ausgeführt werden können. Vielleicht kann man zukünftig wenn das wieder vorkommt und vermutlich wird es das ![😉](./assets/images/emoji/1f609.svg) den anderen Aufgaben erteilen oder eine anderweitige Lösung finden. Uns ist es einfach wichtig jetzt wo man auf Prüfungen und Co. Zu geht das der Unterricht stattfindet.
+
+
+
+
 - [ ] ina wegen rayan schreiben, was seine Kritikfähigkeit an angeht
 
 - [ ] schul.cloud Gruppe für 10a und b machen. Kai Wörner ansprechen 
