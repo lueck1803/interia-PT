@@ -301,7 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] gießen
-- [ ] Kapitel §17 vom künkel exportieren, ausdrucken und auch nochmal Lina schicken
+- [x] Kapitel §17 vom künkel exportieren, ausdrucken und auch nochmal Lina schicken
 - [ ] Kaffeebehälter 
 - [ ] staubsaugen 
 - [ ] Küche aufräumen 
