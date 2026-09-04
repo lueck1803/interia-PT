@@ -302,7 +302,7 @@
 
 - [x] sara, Wirsawija Gruppe hinzufügen 
 - [ ] Batterie außen Thermometer 
-- [ ] gießen
+- [x] gießen
 - [x] Gitarre wischen
 - [x] Kapitel §17 vom künkel exportieren, ausdrucken und auch nochmal Lina schicken
 - [x] Kaffeebehälter 
