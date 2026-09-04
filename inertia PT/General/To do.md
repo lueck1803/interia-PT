@@ -300,7 +300,7 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- Esther, Yuna, hamzi, Mohammed und ali um Verzeihung bitten, dass ich sie Freitag nicht früher 
+- Esther, Yuna, hamzi, Mohammed und ali um Verzeihung bitten, dass ich sie Freitag nicht früher habe gehen lassen. Denn die verhalten sich immer vorbi
 
 
 - [ ] Batterie außen Thermometer 
