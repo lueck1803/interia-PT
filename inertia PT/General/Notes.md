@@ -103,6 +103,31 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+## 2026-09-04
+Ich habe das Gefühl, dass du sehr verunsichert bist und dich immer sehr stark zurück nimmst. 
+
+Das ist auch im Unterricht so. 
+
+Ich glaube du weißt genau, was du möchtest und du kannst deutlich mehr als du dir selbst zu traust. 
+
+Du fragst etwas und dann entschuldigst du dich dafür. 
+Heute morgen als du im Musikraum gefragt hast, hast du dich vorab für die Frage entschuldigt. 
+
+Montag hast du dich irgendwie extrem schlecht Gefühl, dass du überhaupt gefragt hast und dich dann noch schlechter gefühlt, dass du nen Rückzieher gemacht hast. 
+
+Irgendwie hast du dann das Gefühl gehabt, du bist jetzt verpflichtet einen Ersatz für dich zu finden. 
+
+Du hast auch sehr häufig das Bedürfnis dich aufgrund von Antworten von mir zu entschuldigen. 
+
+Generell interpretierst du Sachverhalte für dich negativ.
+
+Vielleicht liegt es nur an deinem Alter und es wächst sich raus. 
+
+Wenn du aber mal darüber sprechen möchtest, was in dir vorgeht und warum du so verunsichert bist, bin ich gerne da und hab ein Ohr für dich. 
+
+Ich möchte nicht, dass sich diese Verunsicherung festsetzt.
+
+
 ## 2026-08-29
 ### Katrin mair
 Um es nochmal zu verdeutlichen, ich habe unteranderem in dem Gespräch versucht ihr Verständnis für die Arbeit der Schule und Institutionen zu machen. Ihr klar zu machen wie sinnvoll es ist nicht all zu sehr auf der Seite ihres Kindes zu stehen, nicht alles direkt zu glauben, da sie ihrem Kind mehr schadet als vermeintlich zu unter stützen und es gut ist sich möglichst kooperativ gegenüber Institutionen zu zeigen, auch wenn es scheinbar unfair erscheint. 
