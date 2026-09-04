@@ -303,28 +303,26 @@
 - Esther, Yuna, Hamzi, Mohammed, Sophia und Ali um Verzeihung bitten, dass ich sie Freitag nicht früher habe gehen lassen. Denn die verhalten sich immer vorbildlich. Ich hab in dem Moment selbst kurz Ruhe gebraucht, musste durchatmen und konnte nicht mehr gegen die Wand anreden. Musste mich sortieren. 
 - es haben sich einige Kinder auch so extrem dreist verhalten, da war ich auch einfach sprachlos und hab warten müssen, bis die aufhören zu reden und unruhig zu sein
 
+- [ ] Spülmaschine ausräumen 
 - [ ] dringend aufhören melanie zu schreiben
 - [ ] lea antworten wegen nächstem treffen
 - [ ] Batterie außen Thermometer 
-- [x] gießen
-- [x] Gitarre wischen
-- [x] Kapitel §17 vom künkel exportieren, ausdrucken und auch nochmal Lina schicken
-- [x] Kaffeebehälter 
+- [ ] tisch und Tastatur wischen
+- [ ] Kapitel §17 vom künkel lesen
 - [ ] staubsaugen 
-- [x] Küche aufräumen 
+- [ ] Küche aufräumen 
 - [ ] Wäsche 
 - [x] Laptop 
 	- [x] a2337
 	- [x] Tasten bestellt
-- [x] Biomüll 
+- [ ] Biomüll 
 - [ ] essen mit Auberginen 
-- [x] Tastatur wischen
 - [ ] krafttraining 
-- [ ] Schul-ID
+- [ ] Schul-ID 
+	- [ ] einrichten 
+	- [ ] Mail an jamil bzw Jana weiterleiten 
 - [ ] Mich dringend um den Rechner kümmern
-- [x] Einkauf weg
 
-- [x] Unterricht für morgen auf PDF und ausdrucken 
 
 - [ ] Matheunterricht Freitag durchdenken
 	- [ ] Ansprache 
