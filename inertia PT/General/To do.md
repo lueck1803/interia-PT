@@ -301,7 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [x] sara, Wirsawija Gruppe hinzufügen 
-- [ ] 
+- [ ] Batterie außen Thermometer 
 - [ ] gießen
 - [x] Gitarre wischen
 - [x] Kapitel §17 vom künkel exportieren, ausdrucken und auch nochmal Lina schicken
