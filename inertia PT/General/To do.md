@@ -300,6 +300,7 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
+- [x] sara, Wirsawija Gruppe hinzufügen 
 - [ ] 
 - [ ] gießen
 - [x] Gitarre wischen
@@ -319,7 +320,7 @@
 - [ ] Mich dringend um den Rechner kümmern
 - [x] Einkauf weg
 
-- [ ] Unterricht für morgen auf PDF und ausdrucken 
+- [x] Unterricht für morgen auf PDF und ausdrucken 
 
 - [ ] Matheunterricht Freitag durchdenken
 	- [ ] Ansprache 
