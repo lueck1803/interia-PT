@@ -300,10 +300,11 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
+- [ ] 
 - [ ] gießen
 - [x] Gitarre wischen
 - [x] Kapitel §17 vom künkel exportieren, ausdrucken und auch nochmal Lina schicken
-- [ ] Kaffeebehälter 
+- [x] Kaffeebehälter 
 - [ ] staubsaugen 
 - [x] Küche aufräumen 
 - [ ] Wäsche 
