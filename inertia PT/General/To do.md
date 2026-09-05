@@ -339,33 +339,6 @@
 - [ ] Mich dringend um den Rechner kümmern
 
  %% fold %%
-- [ ] Matheunterricht Freitag durchdenken %% fold %%
-	- [ ] Ansprache  %% fold %%
-		- [ ] Unterricht bisher scheinbar wenig Struktur  %% fold %%
-		- [ ] werde ich besser machen 
-		- [ ] vielen Dank für die Kritik 
-		- [ ] immer gerne ansprechen, wenn ich es nicht weiß, kann ich es nicht ändern 
-		- [ ] neues Thema und da mehr Arbeit im Buch
-		- [ ] ich versuche auch mehr klar zu machen was das Konzept der jeweiligen Stunde ist
-		- [ ] klar machen, dass ich jetzt etwas anschreibe und das sollt ihr jetzt abschreiben - wurde so gewünscht 
-		- [ ] es gibt aber weiterhin das Handout was ich nachliefere und aktualisiere, den Link habt ihr
-		- [ ] ich versuche da allen besser gerecht zu werden. Ich bin noch dabei zu lernen ok? Gebt mir die Chance 
-		- [ ] ihr müsst mir aber auch die Chance geben in dem ihr ruhig genug seid
-		- [ ] neues Thema 
-	- [ ] Themen Wechsel 
-		- [ ] jetzt Ungleichungen/Gleichungen bis zur Klassenarbeit am 25.9
-		- [ ] Klassenarbeit:
-			- [ ] brüche
-				- [ ] Vergleichen können 
-				- [ ] Grundrechenarten 
-				- [ ] Brüche visualisieren können 
-				- [ ] Dezimalzahl in bruchumwandeln können 
-			- [ ] Gleichungen/Ungleichungen 
-				- [ ] hängt davon ab wie weit wir kommen 
-			- [ ] arbeit im Buch s36, währenddessen schreibe ich etwas an
-			- [ ] anschrieb:
-				- [ ] K, A, D Gesetz
-				- [ ] Potenzgesetze 
 
 - [x] lunas mutter schreiben 
 
@@ -434,7 +407,7 @@
 
 
 
-- [ ] Text von Elias lesen
+- [ ] Text von Elias lesen %% fold %%
 	- [ ] in Xournal und Markierungen machen
 
 - [x] Kurse checken - Die Termine müssen wohl noch angepasst werden
@@ -458,7 +431,7 @@
 	- [ ] p 8c
 	- [ ] p 10b
 	- [ ] p 10a
-
+ %% fold %%
 - [ ] Mathe 8 %% fold %%
 	- [ ] in den lehrplan schauen %% fold %%
 	- [ ] ins Mathebuch schauen
