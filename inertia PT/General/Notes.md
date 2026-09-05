@@ -191,13 +191,13 @@ Die haben häufig auch die Gedanken "was denken die anderen"
 
 ---
 
-Die Fragen die du gestellt hast, hab ich nicht zu beantworten. 
+Die Fragen die du gestellt hast, hab ich nicht zu beantworten und niemand anders.
 
 Du musst sie für dich beantworten. 
 
 Es wäre wirklich ungut, wenn ich bestimmen würde, wer du bist. 
 
-Stell die Fragen so:
+**Stell die Fragen so:**
 Was halte ich von mir und was will ich von mir halten? Was will ich von mir denken? 
 Wer will ich sein? (Erst mal bist du schon wer und warst es schon immer. Du kannst aber jederzeit etwas an dir ändern)
 Wie bin ich? Gut, genug und ein Mensch und das immer, egal was andere sagen. 
@@ -206,7 +206,7 @@ Du musst dich für dich, deine Existenz und Neugierde nie entschuldigen.
 
 Wenn du andere bestimmten lässt, wer du bist, dann bist du ja von denen abhängig. 
 
-Als Beispiel: stell dir vor, ich baue dich permanent auf und sage dir jeden Tag wie toll du bist. 
+Als **Beispiel**: stell dir vor, ich baue dich permanent auf und sage dir jeden Tag wie toll du bist. 
 
 Dann bist du nicht mehr du selbst. So bald das weg ist, fehlt dir was. 
 Oder noch schlimmer. 
@@ -216,6 +216,7 @@ Wenn es mir gefällt kann ich dich zerbrechen und dir deine Identität nehmen, d
 Insbesondere nichts ohne mich. 
 
 Und glaub mir es gibt genug Menschen die so sind. 
+
 Nicht nur Männer. 
 
 Mir gefällt das an der Lehrer Rolle so überhaupt nicht. 
