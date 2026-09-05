@@ -307,7 +307,8 @@
 - [ ] wischen
 - [ ] lösung mit der Biene durchlesen
 - [ ] sofalehne dampfen
-- [ ] Age of stars weiter am keyboard heraus hören
+- [x] Age of stars weiter am keyboard heraus hören
+	- [ ] 🤮
 - [ ] Briefkasten checken
 - [ ] Zähne putzen
 - [ ] Decken ausschütteln
