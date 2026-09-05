@@ -543,7 +543,7 @@ Die Kirchen bieten wie die auch selbst sagen keinen Platz mehr für viele Christ
 Das kann ich so von meiner Beobachtung auch bestätigen.
 ## 2026-07-18 E-Mail Arooj
 Hey
-
+ %% fold %%
 🤭Oh typisch Arooj so fleißig, prompt und emsig, dass du direkt ne Briefmarke gekauft hast. 
 
 Ich nehme die dann. 😉
