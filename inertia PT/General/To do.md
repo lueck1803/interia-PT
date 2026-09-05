@@ -304,6 +304,8 @@
 - es haben sich einige Kinder auch so extrem dreist verhalten, da war ich auch einfach sprachlos und hab warten müssen, bis die aufhören zu reden und unruhig zu sein
 
 - [ ] wischen
+- [ ] Einkaufswagen weg
+- [ ] aldi + pfand
 - [ ] lösung mit der Biene durchlesen
 - [x] Krafttraining
 - [ ] sofalehne dampfen
@@ -338,8 +340,8 @@
 
  %% fold %%
 - [ ] Matheunterricht Freitag durchdenken %% fold %%
-	- [ ] Ansprache 
-		- [ ] Unterricht bisher scheinbar wenig Struktur 
+	- [ ] Ansprache  %% fold %%
+		- [ ] Unterricht bisher scheinbar wenig Struktur  %% fold %%
 		- [ ] werde ich besser machen 
 		- [ ] vielen Dank für die Kritik 
 		- [ ] immer gerne ansprechen, wenn ich es nicht weiß, kann ich es nicht ändern 
