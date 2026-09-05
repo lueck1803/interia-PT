@@ -103,6 +103,153 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+## 2026-09-05
+1. Sehr viel 2.Nur Gutes 3. Melanie Mohr 😋 4. Extrem höflich mit dem Hang zur Selbstaufgabe. Sehr verunsichert. 
+Du machst/fragst etwas, was dir auf der Zunge liegt und dann hast du das Gefühl "oh das war doof oder falsch, es tut mir leid und ich zieh mich zurück" 
+Es gibt nen Unterschied zwischen Höflichkeit und sich selbst zu vergessen. 
+Das mit der Formelsammlung ist ja auch ein Beispiel, du denkst an andere und denkst es ist besser wenn es jemand anderes hat, der braucht das sicher mehr als ich. 
+
+Das ist super lieb. Du bist aber wertvoll aus dir heraus ohne dass du gibst und deinen Platz räumst. Du darfst etwas für dich haben und kannst lernen dass dir das zu steht. 
+
+Mia ist ja sehr überzeugt von ihrer Position und verteidigt sie lautstark auch wenn sie damit falsch liegt. Sie hält etwas für richtig und zieht das unbeirrt durch bis sie gegen ne Wand läuft 😅.
+Sie hat erzählt,dass Lehrer bisher gar nicht gut darauf reagiert haben.
+
+Ja ein bisschen weniger stur könnte sie sein. Aber diese Eigenschaft ist erstmal extrem gut. 
+Als sie am Anfang die Brüche knallhart ausdividiert hat und ich meinte, dass es nen eleganteren Weg gibt. 😅
+
+Ich fand das gut. Das ist ihre Art zu lernen, sie muss selbst merken, dass sie mit ihrem gerade eingeschlagenen Weg scheitert 
+Sie hinterfragt erstmal alles knallhart und findet es unlogisch.
+Sie lernt durch sich an Dingen stoßen und anecken.
+
+Du bist da anders. Du bist sehr kompatibel, fügst dich ein, bist zurück haltend und machst immer sehr schnell zwei Schritte zurück, wenn du glaubst du hast nen halben zu viel gemacht.
+
+"Oh das war doof, das war zu viel, wie bin ich hier gelandet, was denken die anderen über mich" 
+
+Mia juckt das glaube ich erstmal gar nicht, sie will fair behandelt werden und sein dürfen wie sie ist. 
+
+Das darfst du auch. Ich weiß es ist überhaupt nicht leicht zu wissen wer man ist, wo man hingehört und wie man sein "soll".
+
+Das "wer bin ich" hat mich auch sehr lange verfolgt. Das Gefühl nicht richtig zu sein, nirgendwo hinzugehören, lieber wieder weg als hier Raum einzunehmen und etwas für mich beanspruchen.
+
+Sich erst in einer Situation wieder zufinden, sich dort wahrzunehmen und festzustellen, "was mach ich hier, ich bin hier falsch, ich bin hier nicht richtig, was denken die anderen, ich bin nicht gut genug, was ist über mich gekommen hier hingelangt zu sein, schnell wegducken, entschuldigen und dann wieder ins verträumte weg retten" 
+
+Angst vor sich selbst, wer man ist, vielleicht jemand zu sein der man nicht sein will. Und die Angst dass die anderen erkennen wer man wirklich ist. 
+
+Durch das Denken der anderen definiert und identifiziert zu sein. 
+Was die anderen über mich denken, das bin ich auch.
+
+Deshalb hast du auch diese Fragen der Art gestellt.
+Gut in deinem Alter ist es normal nicht zu wissen wer man ist. Da gibt's wenige Ausnahmen.
+
+Das ist auch OK.
+
+Dieses Leben, Existieren und eine Identität durch äußere Bewertung zu bekommen, ist aber eine Verdrehung der Richtung.
+
+Du bist nicht erst der zu dem dich andere durch ihr denken machen.
+
+Du bist der der du sein möchtest. 
+
+Alleine du legst das fest wer du bist. 
+
+Das braucht lange Zeit das zu erkennen. Es ist ein Prozess.
+
+Du kannst auch jederzeit entscheiden wie du sein willst. 
+
+Dafür musst du deine überaus liebenswerte Höflichkeit gar nicht ablegen. Die ist ein Teil von dir. Das macht dich aus und wertvoll.
+
+Das Problem dahinter ist, wenn sie daher kommt (zumindest der Teil der zur Selbstaufgabe wird), dass du durch die Auswirkung und Spiegelung dieser zu jemandem gemacht wirst.
+
+Du musst nicht höflich sein, damit dir jemand sagt, dass du gut bist. 
+
+Du BIST gut und wertvoll.
+
+Du bist höflich aus Überzeugung und das ist toll. Den Teil behältst du. 
+
+Der Teil der darum bittet, dass man dir sagt, dass du OK und gut bist, den kannst du streichen.
+
+Kein anderer legt fest wer du bist. Alleine du tust das. 
+Existieren fühlt sich manchmal so unglaublich komisch an. Insbesondere dann wenn man durch die Außenwahrnehmung identifiziert wird.
+
+Das ist aber schrecklich. Denn so bald jemand sagt "du bist so und so" dann kommt das Gefühl "oh bin ich das wirklich, stimmt" 
+
+Dadurch bist du wie eine Fahne im Wind und manipulierbar. 
+
+Das ist aber ganz natürlich. Du darfst auch unsicher sein. 
+
+Das passiert auch nicht von einem auf den anderen Tag. 
+
+Das ist der Weg zum erwachsen werden. 
+
+Es ist auch nicht schlimm wenn sich dein Selbstbild wandelt oder du dich anders entscheidest wer und wie du sein willst. 
+
+Das ändert nicht deinen Wert. Der ist immer 100% egal wo du bist und was andere angeblich über dich denken. 
+
+Meist denkt man ja nur was die anderen über einen denken und man ist es selbst der sich zu dem erniedrigt was scheinbar andere über einen denken. 
+
+Andere denken gar nicht so viel über dich. Denen geht's in erster Näherung genauso wie dir. 
+Die haben häufig auch die Gedanken "was denken die anderen" 
+
+---
+
+Die Fragen die du gestellt hast, hab ich nicht zu beantworten. 
+
+Du musst sie für dich beantworten. 
+
+Es wäre wirklich ungut, wenn ich bestimmen würde, wer du bist. 
+
+Stell die Fragen so:
+Was halte ich von mir und was will ich von mir halten? Was will ich von mir denken? 
+Wer will ich sein? (Erst mal bist du schon wer und warst es schon immer. Du kannst aber jederzeit etwas an dir ändern)
+Wie bin ich? Gut, genug und ein Mensch und das immer, egal was andere sagen. 
+
+Du musst dich für dich, deine Existenz und Neugierde nie entschuldigen. 
+
+Wenn du andere bestimmten lässt, wer du bist, dann bist du ja von denen abhängig. 
+
+Als Beispiel: stell dir vor, ich baue dich permanent auf und sage dir jeden Tag wie toll du bist. 
+
+Dann bist du nicht mehr du selbst. So bald das weg ist, fehlt dir was. 
+Oder noch schlimmer. 
+
+Wenn es mir gefällt kann ich dich zerbrechen und dir deine Identität nehmen, dir sagen dass du nichts bist. 
+
+Insbesondere nichts ohne mich. 
+
+Und glaub mir es gibt genug Menschen die so sind. 
+Nicht nur Männer. 
+
+Mir gefällt das an der Lehrer Rolle so überhaupt nicht. 
+Ich will niemandem sagen wer er ist und wer er zu sein hat. 
+Deshalb habe ich mich auch lange gegen diese Rolle gewehrt. 
+Das machen leider gerne manche Lehrer. Leuten nen Stempel auf drücken du bist so. 
+
+Ich will keine Macht über andere. 
+
+Ich versuche zu unterstützen, dass jemand selbst herausfindet wie er ist. 
+
+Das Individuum fördern. 
+
+Du sollst dich jederzeit wohlfühlen. 
+
+Das ist so der schmale Grat auf dem ich mich befinde. 
+Jemandem helfen zu wollen, dabei aber nicht irgend einen Weg auf drängen den ich für richtig halte. 
+
+Ich versuche eher den Menschen zu zeigen was ich gelernt habe und wie toll es ist zu lernen. 
+Sich und die Welt zu entdecken, selbst wenn man dachte es geht nicht mehr, keine Identität und Lebenswillen zu besitzen. 
+
+Es hilft dabei immer etwas für die Charakterbildung zu tun und sich auszuprobieren. 
+
+Und wenn dein Gefühl war "ich möchte Klavier spielen ausprobieren und ich fühle mich einigermaßen wohl mit dem herrn Walter" dann mach es doch einfach. 
+
+Man kann immer noch sagen "oh ne ist nix" oder "ja doch ist etwas, aber ich brauche nen anderen Weg oder jemand anderes, um es zu lernen" 
+
+Vielleicht merkst du auch dass ein anderes Instrument etwas für dich ist 
+
+Musik ist jedenfalls der beste Weg sich und seinen Körper zu kennen und spüren zu lernen. 
+
+Gerade wenn man so Tagträumt, da spürt man sich lange Zeit nicht, immer erst in den Momenten in denen man sich unwohl fühlt und dann zurück rudert. 
+
+
 ## 2026-09-04
 Ich habe das Gefühl, dass du sehr verunsichert bist und dich immer sehr stark zurück nimmst. 
 
@@ -493,7 +640,7 @@ Ich musste lernen wieder auf eigenen Beinen zu stehen.
 Es war am Ende wirklich nicht mehr mit mir auszuhalten. Ich habe es ja selbst nicht mit mir ausgehalten.
 Und dass ich dir und auch mir gerne das geben wollte, was du und ich so dringend wollten, es aber in meiner Paralyse nicht konnte, hat das Leid, den Druck und die Paralyse nur noch größer gemacht.
 
-Ich hab dich leiden gesehen, ich hab darunter auch gelitten, nicht so sein zu können wie ich sein wollte. 
+Ich hab dich leiden gesehen, ich hab darunter auch gelitten, nicht so sein zu können wie ich sein wollte.  %% fold %%
 Das weißt du ja auch. Mir hat es immer auch leid getan wie unerträglich ich bei meiner Familie war und auch mit dir in einigen Situationen.
 
 Ich war da extrem gefangen, ich hab um Hilfe gebettelt und sie auch von dir bekommen, ich bin dir dafür wirklich sehr dankbar, du hast dich wirklich sehr auf geopfert, ich hab das auch angenommen und geschätzt, ich konnte leider vieles nicht so schnell umsetzen und verstehen wie ich es wollte. 
