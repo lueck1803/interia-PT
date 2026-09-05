@@ -304,39 +304,40 @@
 - es haben sich einige Kinder auch so extrem dreist verhalten, da war ich auch einfach sprachlos und hab warten müssen, bis die aufhören zu reden und unruhig zu sein
 
 - [ ] wischen
+- [ ] lösung mit der Biene durchlesen
 - [x] Krafttraining
 - [ ] sofalehne dampfen
-- [ ] Artikel von Freddie lesen
+- [x] Artikel von Freddie lesen
 - [ ] Age of stars weiter am keyboard heraus hören
 - [ ] französisch aufschreiben
 - [ ] Briefkasten checken
 - [ ] Zähne putzen
-- [ ] Handtücher wechseln
+- [x] Handtücher wechseln
 - [x] Duschen
 - [ ] Decken ausschütteln
 - [ ] den Zettel von der Projektwoche lesen
-- [ ] Spülmaschine ausräumen 
+- [x] Spülmaschine ausräumen 
 - [ ] dringend aufhören melanie zu schreiben
+	- [ ] hab ich verkackt 
 - [ ] lea antworten wegen nächstem treffen
 - [ ] Batterie außen Thermometer 
 - [ ] tisch und Tastatur wischen
 - [ ] Kapitel §17 vom künkel lesen
 - [ ] staubsaugen 
-- [ ] Küche aufräumen 
+- [x] Küche aufräumen 
 - [ ] Wäsche 
 - [x] Laptop 
 	- [x] a2337
 	- [x] Tasten bestellt
 - [ ] Biomüll 
-- [ ] essen mit Auberginen 
-- [ ] krafttraining 
+- [ ] essen mit Auberginen machen 
 - [ ] Schul-ID 
 	- [ ] einrichten 
 	- [ ] Mail an jamil bzw Jana weiterleiten 
 - [ ] Mich dringend um den Rechner kümmern
 
-
-- [ ] Matheunterricht Freitag durchdenken
+ %% fold %%
+- [ ] Matheunterricht Freitag durchdenken %% fold %%
 	- [ ] Ansprache 
 		- [ ] Unterricht bisher scheinbar wenig Struktur 
 		- [ ] werde ich besser machen 
@@ -370,11 +371,12 @@
 
 
 
-- [ ] ina wegen rayan schreiben, was seine Kritikfähigkeit an angeht
+- [x] ina wegen rayan schreiben, was seine Kritikfähigkeit an angeht
+	- lass ich bleiben
 
 - [ ] schul.cloud Gruppe für 10a und b machen. Kai Wörner ansprechen 
 	- [ ] Lösung zur heutigen Aufgabe in die Gruppe der 10b posten. Mit Erklärung 
-- [ ] jamil wegen Lehrplan physik 10 sprechen 
+- [x] jamil wegen Lehrplan physik 10 sprechen 
 - [ ] Katrin mair wegen rezwan
 	- hab mit Axel gesprochen: seine Tochter ist an der Viktoria Schule. Dort gibt es vom Förderverein die Möglichkeit, dass Instrumente gestellt werden und der Unterricht kostenlos ist. Was es hier an der BAS nicht gibt
 
@@ -391,40 +393,38 @@
 - [ ] Epson beamer - usb video Wlan
 - [ ] Friseur 
 - [ ] Umfrage in 8b wegen Formelsammlung 
-- [ ] lina und samiha fragen ob sie es schon bereut haben mich als Mentor gewählt zu haben🤭
+- [x] lina und samiha fragen ob sie es schon bereut haben mich als Mentor gewählt zu haben🤭
 - [x] Zähne putzen
 - [x] Duolingo
-- [ ] Tesafilm roller zurück holen 
-	- [ ] ina schreiben
-	- [ ] bzw. neuen kaufen bzw. suchen ob ich nicht noch nen abroller habe
+- [x] Tesafilm roller zurück holen 
+	- [x] ina schreiben
+	- [x] bzw. neuen kaufen bzw. suchen ob ich nicht noch nen abroller habe
 - [ ] bloody valkyria - age of stars piano raus hören 
 - [ ] Classic Gitarren Saiten kaufen 
 - [ ] hab ich das mesa metalcore preset auf dem podgo
 - [ ] text von elias lesen 
 - [ ] keyboard aufbauen und bloody valkyria heraus hören
 - [ ] grüne schuhe aufrauen
-- [ ] spülmaschine ausräumen
 
 
 - [x] AOK App checken
 	- [ ] war nur Magazine 
 - [ ] Black Waltz
 
-- [ ] Für die Fördergruppe die Seite 36 einscannen 
-	- [ ] explizit nochmal eine Aufgabe von der 1) vorrechnen
-	- [ ] dann möchte ich dass die komplette 1) machen 
+- [x] Für die Fördergruppe die Seite 36 einscannen 
+	- [x] explizit nochmal eine Aufgabe von der 1) vorrechnen
+	- [x] dann möchte ich dass die komplette 1) machen 
 
-- [ ] Spülmaschine ausräumen
 
-- [ ] Cursor Position History in gitignore
-	- [ ] vielleicht gar nicht nötig 🤔🤷‍♂️
+- [x] Cursor Position History in gitignore
+	- vielleicht gar nicht nötig 🤔🤷‍♂️
 
 - [x] resting grounds Noten anschauen und mir die richtigen raus suchen 
 	- yaaaayyyy bemooo xD 😍🥰🥳
-- [ ] Bretter spülen 
-- [ ] Backofengitter putzen 
+- [x] Bretter spülen 
+- [x] Backofengitter putzen 
 - [ ] tomaten waschen 
-- [ ] Pfanne spülen 
+- [x] Pfanne spülen 
 - [ ] Küche Arbeitsfläche wischen
 - [ ] Griffe in der Küche
 - [ ] AOK die neuste Abrechnung vom August dann einreichen 
@@ -438,39 +438,25 @@
 
 
 
-- [ ] getrennte Ordner für 
-	- [ ] 8te klasse
-		- [ ] Mathe 
-		- [ ] physik
+- [x] getrennte Ordner für 
+	- [x] 8te klasse
+		- [x] Mathe 
+		- [x] physik
 	- [ ] 5te klasse Mathe
-	- [ ] Hefter für Anwesenheitslisten + Mitarbeit
+	- [x] Hefter für Anwesenheitslisten + Mitarbeit
 
-- [ ] schreiben warum ich sie heute dran nehme und dann so quäle
-	- [ ] Wirsawija
-	- [ ] Sara
-	- [ ] hamza
-	- [ ] Amna
-	- [ ] narges
-- [ ] ümmü schreiben, da sie gut mit macht und eigentlich auch fit ist, dass sie entweder auf wirsawija und sara aufpassen soll oder ich sie weg setzen werde, da ich möchte dass sie mitmacht, da sie es kann
-- [ ] sara schreiben, dass mir ihr gesamtverhalten im unterricht nicht passt.
-
-- [ ] Mädchen aus der 8b schreiben - Mathefördergruppe
-	- [ ] Shanaja
-	- [ ] Xenia
-	- [ ] Hana 
 
 - [x] kursmappe
 	- [ ] m 5a %% fold %%
-	- [x] m 8a
+	- [ ] m 8a
 	- [ ] m 8b
 	- [x] p 8a 
 	- [ ] p 8b
-	- [x] p 8c
-	- [x] p 10b
+	- [ ] p 8c
+	- [ ] p 10b
 	- [ ] p 10a
-	- [x] E 5b
 
-- [ ] Mathe 8
+- [ ] Mathe 8 %% fold %%
 	- [ ] in den lehrplan schauen
 	- [ ] ins Mathebuch schauen
 	- [ ] Arbeitsblatt 
@@ -485,7 +471,7 @@
 				- [ ] Distributivgesetz
 			- [ ] Übungen zu den Rechen gesetzen
 
-- schul.cloud 
+- schul.cloud  %% fold %%
 	- [x] Gruppen trennen 
 		- [ ] Einladungen checken
 	- [ ] Nachrichten:
@@ -496,7 +482,7 @@
 			- [ ] wer Blätter im Raum vergisst, bekommt auch nen schlechte note im Arbeitsverhalten
 			- [ ] ich möchte generell Blätter nur einmal austeilen
 	- [ ] umbenennungen und Löschungen
-		- [ ] sara El adhane hat 3 Accounts
+		- [ ] sara El adhane hat 3 Accounts %% fold %%
 		- [ ] Shanaja . -> Shanaja Patrick
 		- [ ] Yahya . -> Yahya Kharbouch
 	- [ ] Mathe Förder einrichten und Einladen
@@ -506,54 +492,23 @@
 	- [x] 8b M+P Gruppenbild ändern
 	- [x] 8c P Gruppe erstellen
 	
-- [ ] Topfdeckel spülen 
-- [ ] pfannendeckel spülen 
-- [ ] Ikea Behälter spülen  %% fold %%
-- [ ] Behälter spülen  %% fold %%
- %% fold %%
 - [ ] mac Tastatur %% fold %%
 	- [ ] neue Tasten für mac bestellen %% fold %%
 	- [ ] selbst reparieren %% fold %%
  %% fold %%
-- [ ] lösung mit der Biene durchlesen  %% fold %%
  %% fold %%
-- [x] duschen  %% fold %%
-- [ ] duschen + rasieren %% fold %%
- %% fold %%
- %% fold %%
-  %% fold %%
-- [ ] neues Thema in Mathe beginnen + Arbeitsblatt  %% fold %%
-	- [ ] <font color="#92d050">Blick ins Buch</font> %% fold %%
-	- [ ] Tafelanschrieb %% fold %%
-		- [ ] Kommutativ, Assoziativ und Distributivgesetz %% fold %%
-		- [ ] Potenzgesetze %% fold %%
-	- [ ] Mathe neues Blatt für 8ter erstellen  %% fold %%
-		- [ ] Dreisatz 
-		- [ ] Prozentrechnung
-		- [ ] K,A,D Gesetz %% fold %%
-		- [ ] Terme, Klammern, Gleichungen/Ungleichungen, Ausklammern
-			- [ ] Auflösen von einer Klammer in einem Produkt
-			- [ ] minuszeichen vor der Klammer
-			- [ ] Ausklammern von gemeinsamen Faktoren
-			- [ ] Auflösen von zwei Klammern in einem Produkt
-			- [ ] Binomische Formeln
-
-
-
 - [ ] Akteneintrag Mathis %% fold %%
 	- [x] Sprachaufzeichnung  %% fold %%
 	- [ ] noch dazu vermerken, dass ich ihn angesprochen hatte zu Beginn des Unterrichts dass er im Treppenhaus herunter gespuckt hat, während ich mit den anderen Kindern die Treppe hoch kam. Da habe ich ihn vorsichtig gefragt ob er es war %% fold %%
 	- [ ] das hat er geleugnet 
 
 
-- [ ] Brokkoli in den Kühlschrank 
 - [ ] Video https://youtu.be/08We3mhQbAg?is=TFBWFRDAFpD9Duzu schauen  %% fold %%
-- [ ] arbeitsverhalten schulportal Eintrag ? %% fold %%
+- [x] arbeitsverhalten schulportal Eintrag ? %% fold %%
 - [ ] gibts ne regel für linter, dass man one-liner einfügen kann? %% fold %%
  %% fold %%
  %% fold %%
 - [ ] Kopfhörer putzen  %% fold %%
-- [ ] narges heute nicht im Unterricht  %% fold %%
 - [ ] sofa
 	- [ ] Kissenbezug  %% fold %%
 	- [x] decken %% fold %%
@@ -562,7 +517,6 @@
 - [ ] gibt es andere listen in denen das feld größer ist? %% fold %%
 	- [ ] erste Spalte nehme ich zur Anwesenheit %% fold %%
 	- [ ] zweite Spalte nehme ich als mitarbeit %% fold %%
-- [ ] Krafttraining  %% fold %%
 - [ ] black waltz %% fold %%
 - [ ] Mutter von Mathis schreiben %% fold %%
 	- [x] ADHS Hilfe Deutschland %% fold %%
@@ -573,7 +527,6 @@
 		- [x] kleinstes gemeinsames Vielfaches
 		- [x] größter gemeinsamer Teiler
 	- [x] kleinstes gemeinsames Vielfaches von zahlen der gleichen Reihe? kürzen? %% fold %%
-- [ ] xenia als Hausaufgabe die Rechenaufgaben fertig machen  %% fold %%
 - [ ] in meinem Bericht die Reihenfolge mit dem stuhl ändern
 - [ ] sofiia ne schul cloud Einladung schicken
 	- [ ] hab ihr erstmal empfohlen das Passwort zurückzusetzen 
