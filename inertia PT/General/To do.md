@@ -307,6 +307,8 @@
 - [ ] Krafttraining
 - [ ] sofalehne dampfen
 - [ ] Artikel von Freddie lesen
+- [ ] Age of stars weiter am keyboard heraus hören
+- [ ] französisch aufschreiben
 - [ ] Briefkasten checken
 - [ ] Zähne putzen
 - [ ] Handtücher wechseln
