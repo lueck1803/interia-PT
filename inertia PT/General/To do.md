@@ -304,6 +304,8 @@
 - es haben sich einige Kinder auch so extrem dreist verhalten, da war ich auch einfach sprachlos und hab warten müssen, bis die aufhören zu reden und unruhig zu sein
 
 - [ ] wischen
+- [ ] briefkasten checken
+- [ ] Decken ausschütteln
 - [ ] den Zettel von der Projektwoche lesen
 - [ ] Spülmaschine ausräumen 
 - [ ] dringend aufhören melanie zu schreiben
