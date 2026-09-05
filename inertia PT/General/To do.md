@@ -304,7 +304,7 @@
 - es haben sich einige Kinder auch so extrem dreist verhalten, da war ich auch einfach sprachlos und hab warten müssen, bis die aufhören zu reden und unruhig zu sein
 
 - [ ] wischen
-- [ ] Krafttraining
+- [x] Krafttraining
 - [ ] sofalehne dampfen
 - [ ] Artikel von Freddie lesen
 - [ ] Age of stars weiter am keyboard heraus hören
@@ -312,7 +312,7 @@
 - [ ] Briefkasten checken
 - [ ] Zähne putzen
 - [ ] Handtücher wechseln
-- [ ] Duschen
+- [x] Duschen
 - [ ] Decken ausschütteln
 - [ ] den Zettel von der Projektwoche lesen
 - [ ] Spülmaschine ausräumen 
