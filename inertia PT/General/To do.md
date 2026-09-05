@@ -321,9 +321,9 @@
 - [x] Spülmaschine ausräumen 
 - [ ] dringend aufhören melanie zu schreiben
 	- [ ] hab ich verkackt 
-- [ ] lea antworten wegen nächstem treffen
+- [x] lea antworten wegen nächstem treffen
 - [ ] Batterie außen Thermometer 
-- [ ] tisch und Tastatur wischen
+- [x] tisch und Tastatur wischen
 - [ ] Kapitel §17 vom künkel lesen
 - [ ] staubsaugen 
 - [x] Küche aufräumen 
@@ -332,7 +332,7 @@
 	- [x] a2337
 	- [x] Tasten bestellt
 - [ ] Biomüll 
-- [ ] essen mit Auberginen machen 
+- [x] essen mit Auberginen machen 
 - [ ] Schul-ID 
 	- [ ] einrichten 
 	- [ ] Mail an jamil bzw Jana weiterleiten 
@@ -378,6 +378,7 @@
 
 - [ ] schul.cloud Gruppe für 10a und b machen. Kai Wörner ansprechen 
 	- [ ] Lösung zur heutigen Aufgabe in die Gruppe der 10b posten. Mit Erklärung 
+	- [ ] Keiner aus samiha sind auf schul.cloud
 - [x] jamil wegen Lehrplan physik 10 sprechen 
 - [ ] Katrin mair wegen rezwan
 	- hab mit Axel gesprochen: seine Tochter ist an der Viktoria Schule. Dort gibt es vom Förderverein die Möglichkeit, dass Instrumente gestellt werden und der Unterricht kostenlos ist. Was es hier an der BAS nicht gibt
@@ -459,7 +460,7 @@
 	- [ ] p 10a
 
 - [ ] Mathe 8 %% fold %%
-	- [ ] in den lehrplan schauen
+	- [ ] in den lehrplan schauen %% fold %%
 	- [ ] ins Mathebuch schauen
 	- [ ] Arbeitsblatt 
 		- [ ] Seite und Aufgabe aus dem Mathebuch
