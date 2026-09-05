@@ -304,56 +304,33 @@
 - es haben sich einige Kinder auch so extrem dreist verhalten, da war ich auch einfach sprachlos und hab warten müssen, bis die aufhören zu reden und unruhig zu sein
 
 - [ ] wischen
-- [ ] Einkaufswagen weg
-- [ ] aldi + pfand
 - [ ] lösung mit der Biene durchlesen
-- [x] Krafttraining
 - [ ] sofalehne dampfen
-- [x] Artikel von Freddie lesen
 - [ ] Age of stars weiter am keyboard heraus hören
-- [ ] französisch aufschreiben
 - [ ] Briefkasten checken
 - [ ] Zähne putzen
-- [x] Handtücher wechseln
-- [x] Duschen
 - [ ] Decken ausschütteln
 - [ ] den Zettel von der Projektwoche lesen
-- [x] Spülmaschine ausräumen 
 - [ ] dringend aufhören melanie zu schreiben
 	- [ ] hab ich verkackt 
-- [x] lea antworten wegen nächstem treffen
 - [ ] Batterie außen Thermometer 
-- [x] tisch und Tastatur wischen
 - [ ] Kapitel §17 vom künkel lesen
 - [ ] staubsaugen 
-- [x] Küche aufräumen 
 - [ ] Wäsche 
 - [x] Laptop 
 	- [x] a2337
 	- [x] Tasten bestellt
 - [ ] Biomüll 
-- [x] essen mit Auberginen machen 
 - [ ] Schul-ID 
 	- [ ] einrichten 
 	- [ ] Mail an jamil bzw Jana weiterleiten 
 - [ ] Mich dringend um den Rechner kümmern
 
- %% fold %%
-
-- [x] lunas mutter schreiben 
-
-
-
-
-
-- [x] ina wegen rayan schreiben, was seine Kritikfähigkeit an angeht
-	- lass ich bleiben
 
 - [ ] schul.cloud Gruppe für 10a und b machen. Kai Wörner ansprechen 
 	- [ ] Lösung zur heutigen Aufgabe in die Gruppe der 10b posten. Mit Erklärung 
 	- [ ] Keiner aus samiha sind auf schul.cloud
-- [x] jamil wegen Lehrplan physik 10 sprechen 
-- [ ] Katrin mair wegen rezwan
+- [ ] Katrin mair wegen rezwan %% fold %%
 	- hab mit Axel gesprochen: seine Tochter ist an der Viktoria Schule. Dort gibt es vom Förderverein die Möglichkeit, dass Instrumente gestellt werden und der Unterricht kostenlos ist. Was es hier an der BAS nicht gibt
 
 - [ ] wegen mathis mutter sprechen
@@ -369,14 +346,8 @@
 - [ ] Epson beamer - usb video Wlan
 - [ ] Friseur 
 - [ ] Umfrage in 8b wegen Formelsammlung 
-- [x] lina und samiha fragen ob sie es schon bereut haben mich als Mentor gewählt zu haben🤭
-- [x] Zähne putzen
-- [x] Duolingo
-- [x] Tesafilm roller zurück holen 
-	- [x] ina schreiben
-	- [x] bzw. neuen kaufen bzw. suchen ob ich nicht noch nen abroller habe
+
 - [ ] bloody valkyria - age of stars piano raus hören 
-- [ ] Classic Gitarren Saiten kaufen 
 - [ ] hab ich das mesa metalcore preset auf dem podgo
 - [ ] text von elias lesen 
 - [ ] keyboard aufbauen und bloody valkyria heraus hören
@@ -387,40 +358,17 @@
 	- [ ] war nur Magazine 
 - [ ] Black Waltz
 
-- [x] Für die Fördergruppe die Seite 36 einscannen 
-	- [x] explizit nochmal eine Aufgabe von der 1) vorrechnen
-	- [x] dann möchte ich dass die komplette 1) machen 
-
-
-- [x] Cursor Position History in gitignore
-	- vielleicht gar nicht nötig 🤔🤷‍♂️
-
-- [x] resting grounds Noten anschauen und mir die richtigen raus suchen 
-	- yaaaayyyy bemooo xD 😍🥰🥳
-- [x] Bretter spülen 
-- [x] Backofengitter putzen 
-- [ ] tomaten waschen 
-- [x] Pfanne spülen 
-- [ ] Küche Arbeitsfläche wischen
-- [ ] Griffe in der Küche
-- [ ] AOK die neuste Abrechnung vom August dann einreichen 
 
 
 
+- [ ] Küche Arbeitsfläche wischen %% fold %%
+- [ ] Griffe in der Küche %% fold %%
+- [ ] AOK die neuste Abrechnung vom August dann einreichen  %% fold %%
+ %% fold %%
+ %% fold %%
+ %% fold %%
 - [ ] Text von Elias lesen %% fold %%
 	- [ ] in Xournal und Markierungen machen
-
-- [x] Kurse checken - Die Termine müssen wohl noch angepasst werden
-
-
-
-- [x] getrennte Ordner für 
-	- [x] 8te klasse
-		- [x] Mathe 
-		- [x] physik
-	- [ ] 5te klasse Mathe
-	- [x] Hefter für Anwesenheitslisten + Mitarbeit
-
 
 - [x] kursmappe
 	- [ ] m 5a %% fold %%
@@ -428,9 +376,9 @@
 	- [ ] m 8b
 	- [x] p 8a 
 	- [ ] p 8b
-	- [ ] p 8c
-	- [ ] p 10b
-	- [ ] p 10a
+	- [ ] p 8c %% fold %%
+	- [ ] p 10b %% fold %%
+	- [ ] p 10a %% fold %%
  %% fold %%
 - [ ] Mathe 8 %% fold %%
 	- [ ] in den lehrplan schauen %% fold %%
@@ -510,17 +458,6 @@
 	- [x] mit der Erklärung und Beschreibung für Druck
 	- [x] Denksportphysikaufgaben
 
-- 5a
-	- [x] wo ist meine Anwesenheitsliste
-	- [x] blatt kopieren 
-	- [ ] Mathebuch 5
-		- [ ] Sophia  %% fold %%
-		- [ ] espen %% fold %%
-		- hab ich beides Claudia weitergegeben %% fold %%
-	- [x] Quentin umsetzen  %% fold %%
-		- hab ich ansia weiter gegeben %% fold %%
-- [ ] dringend schauen was so verbrannt riecht 
-
 - [ ] Mathe 5a  %% fold %%
 	- [ ] Seite 8 im Buch machen %% fold %%
 	- [ ] montesorri arbeitsblatt 22 mal kopieren %% fold %%
@@ -542,7 +479,6 @@
 		- [ ] ging nicht, code war nicht richtig?
 
  %% fold %%
-- [ ] Handout Brüche fertig machen %% fold %%
 - [ ] Mathe 8 Übungsaufgaben  %% fold %%
 	- [ ] dreisatz %% fold %%
 	- [ ] prozentrechnung %% fold %%
@@ -560,12 +496,9 @@
 	- [x] Physik Journal  %% fold %%
 		- [x] hier schauen, ob ich doppelte exemplare habe
 	- [x] BUND Heft
-- [ ] 10er Physik Denksport Physik zusammenstellen 
 - [ ] grüne Laufschuhe nur noch als normale Schuhe tragen
 - [ ] Bauhaus Kehrblech
 - [ ] interimsgebäude testen über beamer am Laptop mit Xournal zu schreiben
-- [ ] Alufolie entfernen?
-	- [x] Fenster bei Tür
 - [ ] Materialliste 5er anschauen
 - [ ] konto checken 
 - [ ] schuhe kaufen
@@ -581,7 +514,7 @@
 - [ ] Display Schutz Hülle 
 - [ ] Reformer board testen %% fold %%
 - [ ] Kostenvorschlag einreichen  %% fold %%
-- für Unterrichtsstörer
+- für Unterrichtsstörer %% fold %%
 	- euch steht frei den Unterricht zu verlassen  %% fold %%
 	- ich bin euch persönlich nicht böse 
 	- ich verstehe wenn man keine Lust hat und sich nicht konzentrieren kann
@@ -621,17 +554,8 @@
 	- kgV (kleinstes gemeinsames Vielfaches) beim Hauptnenner bilden
 	- ggT (größter gemeinsamer Teiler) beim Kürzen
 - [ ] Ordnung in Vertretungslehrer herstellen. Ordner für Physik erstellen 
-- [ ] klatex am laptop fixen
-- [ ] in ein Handout den "Fehler von emir" aufschreiben 
 - [ ] Vektor Beispiel bild mit Kurvenfahrt und den drei Vektoren s,v, a
-- Whiteboard marker besorgen
-	- Ich hab Jana bescheid gegeben, dass sie welche besorgen soll
-	- [ ] selbst welche kaufen
-	- [ ] überlegen, ob ich in xournal am laptop schreibe? %% fold %%
-- [x] Nummer von Mutter von mathis besorgen
-	- [ ] 0172 7838889
- ihm dann später gesagt dass ich ihn dabei gesehen habe %% fold %%
-- [x] schul id fertig 
+- [x] schul id fertig  %% fold %%
 	- [x] per Mail absenden oder hochladen  %% fold %%
 - [x] kgV und ggt, welchen brauche ich beim kürzen und welchen beim Erweitern %% fold %%
 - [ ] 8a Elternabend 31.8 %% fold %%
@@ -663,8 +587,6 @@
 	- [ ] an dieser Stelle ist das total normal dass ihr das nicht versteht
 	- [ ] merkt euch dieses Vorgehen/diesen Algorithmus, da müsst ihr nicht viel verstehen 
 	- [ ] wenn ihr jetzt bei dem Vorgehen ein kleines bisschen mitkommt, dann habt ihr schon die halbe Miete beim kommenden Thema.
-- [ ] #task test
-	- [ ] die task suche ausprobieren
 - [ ] Spitzahorn Samen / Stecklinge suchen
 - [ ] Bergahorn Samen / Stecklinge suchen
 - [ ] Feldahorn umsetzen
@@ -812,22 +734,11 @@
 	- [ ] <font color="#c00000">üben</font> 
 - [ ] fotos vom Tafelbild nutzen für handout
 - [ ] Kornellkirschen in einen Topf
-- [ ] boden wischen 
 - [ ] board ausprobieren
 	- [ ] beim board ausprobieren die Expander anzubringen 
 - [ ] wie funktioniert das mit #task richtig?
 - [ ] tipler srt
-- [ ] Schulportal Kalender sync?
-- [ ] Schulportal app genauer anschauen
-- [ ] in Schulbuch der Klasse 5 schauen
 - [ ] Muskateller Salbei Samen abtrennen und in eine Dose 
-- [ ] <font color="#48d1cc">Aufgaben aus dem Buch zusammenstellen</font> für 5a zusammenstellen 
-- [ ] mathe Handout 8a fertig 
-	- [ ] in Word?
-	- [ ] die Erklärungen wo die Zahlenbereiche verwendet werden ohne viel prosa Text 
-	- [ ] Bilder die dem entsprechen anschauen 
-- [ ] Mengenlehre anschauen 
-- [ ] mathe 8 Übungsblatt zusammenstellen 
 
 
 
@@ -845,8 +756,8 @@
 - [ ] Lochkamera neu
 	- [ ] ausrechnen wie groß das Bild sein soll
 - [ ] Waschbecken
-	- [ ] bad
-	- [ ] Küche 
+	- [ ] bad %% fold %%
+	- [ ] Küche  %% fold %%
 - [ ] mathe info blatt %% fold %%
 	- [ ] Zahlenstrahl 
 		- [ ] N
@@ -862,36 +773,19 @@
 	- [ ] sitzplan 8a fotografieren 
 	- [ ] Arbeitsblatt 
 
-- [ ] Wie reinigt man eine Wunde?
-- [ ] Arbeitsblatt mit Radtour erstellen
-- [ ] Gesicht waschen
 
-
-
-- [ ] Minitafel für Klo Liste 
-
-
-- [ ] edit toolbar updaten, damit man die einträge eventuell wieder sortieren kann
+- [ ] edit toolbar updaten, damit man die einträge eventuell wieder sortieren kann %% fold %%
 	- [ ] vorher neu backuppen 
 	- [ ] wie update ich meine änderungen?
 	- [ ] das update hatte den bug nicht behoben
 	- [ ] obsidian neustarten am pc
-- [ ] laufen gehen
-- [ ] krafttraining %% fold %%
-- [ ] bauchmuskel %% fold %%
-- [ ] yoga
-- [ ] fidget toys in lisas Klassen raum %% fold %%
-- [ ] Maulwurf - bass %% fold %%
 	- [ ] gurt anbringen  %% fold %%
 	- [ ] schön langsam Feeling üben  %% fold %%
-- [ ] Panzerhenker %% fold %%
-	- [ ] ich hab's grob schon drauf
 	- [ ] tremolo picking ganz langsam sauber üben - 50 % %% fold %%
 	- [ ] beim rhythmischen Teil nicht zu sehr rein hauen und weniger Emotion, ganz nüchtern und präzise spielen so dass auch die pinches sitzen - 80% %% fold %%
 	- [ ] den ruhigen part richtig üben - 50% %% fold %%
 - [ ] device manager bzw. tb karte über terminal suchen   %% fold %%
 	- [ ] gibts ne möglichkeit sie über das terminal oder anderweitig aufzuwecken? %% fold %%
-- [ ] M 8a  %% fold %%
 	- [ ] Formel für arithmetisches mittel an die Tafel schreiben mit Erklärung der einzelnen Komponenten  %% fold %%
 		- [ ] wie geht nochmal das arithmetische Mittel  %% fold %%
 	- [ ] Brüche wiederholen  %% fold %%
@@ -901,35 +795,12 @@
 	- [ ] prozent %% fold %%
 	- [ ] Dazu aufgaben aus dem Buch oder selbst welche finden und ausdenken %% fold %%
  %% fold %%
-- [ ] mit Frau Mair und Herren Stühlinger sprechen wegen mathe 5. %% fold %%
-	- [ ] tipps holen  %% fold %%
-	- [ ] Unterrichtsstruktur  %% fold %%
-- [ ] Stühlinger
-	- [ ] Grundrechenarten massiv wiederholen  %% fold %%
-	- [ ] auf Struktur und formelle Dinge achten
-		- [ ] Ordnung  %% fold %%
-		- [ ] Ergebnis unterstreichen  %% fold %%
-		- [ ] klarer rechenweg - punktabzug Klausur - Abschlussarbeit 10te %% fold %%
-- [ ] 5. Mathe Plan  %% fold %%
-	- [ ] zu Beginn der Stunde 10 min Kopfrechnen  %% fold %%
-- [ ] Was bedeuten die 8.1,8.2, ... , 8.5 in den Lehrplänen? %% fold %%
-- [ ] Krafttraining %% fold %%
-- [ ] MTB sattel einstellen %% fold %%
+- [ ] MTB sattel einstellen
 	- [x] erstmal ein tick runter  %% fold %%
 		- Höhe lass ich so %% fold %%
 	- [ ] und dann eventuell ein tick hinter %% fold %%
 		- [ ] ja definitiv  %% fold %%
- %% fold %%
-- [ ] Kursplan für 7 Wochen  %% fold %%
-	- [ ] 8 te Klasse Physik  %% fold %%
-	- [ ] 8te Klasse Mathe 
-	- [ ] <font color="#ff0000">5te</font> klasse Mathe
-	- [ ] 10te klasse Physik 
-- [ ] 5a
-	- [ ] Vorstellungsrunde (<font color="#ff0000">was ich bereits notiert habe</font>)
-- [ ] Apfelschneider %% fold %%
-	- [ ] nachpfeilen
-	- [ ] Stelle wegflexen %% fold %%
+
 - [ ] ![[../../Pasted image 20260809105942.png]]
 	    ⤷ ausgestellt %% fold %%
 - [ ] Lenkergetränkehalter von cube xlc %% fold %%
@@ -973,7 +844,7 @@
 
 - [ ] vertretungslehrer aufräumen
 
-- [ ] Der sync des Kalenders funktioniert, wird sogar angezeigt. Das geht aber glaube ich über ics? %% fold %%
+- [ ] Der sync des Kalenders funktioniert, wird sogar angezeigt. Das geht aber glaube ich über ics?
 	- [ ] am rechner auch eingerichtet
 	- [ ] mal schauen wie es weiter geht
 
@@ -1006,8 +877,6 @@
  %% fold %%
 - oh wow Aufzug im Keller ist leise  %% fold %%
  %% fold %%
- %% fold %%
-- [ ] zino ich möchte shin son hab kido machen  %% fold %%
  %% fold %%
 - [ ] images in Obsidian aufräumen %% fold %%
  %% fold %%
@@ -1042,9 +911,6 @@
 - [ ] mich um den pc kümmern
 
 
-- [ ] Ticket für *my sleeping karma*
-	- [ ] ⤷ arthur bescheid geben %% fold %%
- %% fold %%
 - [ ] Wie nutze ich zum Kalender sync mit obsidian? %% fold %%
 	- <font color="#ff1493">Day Planner</font>??? %% fold %%
 		- sieht irgendwie genauso aus wie das was ich will??? %% fold %%
@@ -1100,16 +966,11 @@
 		- [ ] Regeln für den Unterricht klar überlegen 
 
 
-- [ ] warum ist Beton ein so schlechter Wärmeisolator? %% fold %%
-- [ ] Krafttraining %% fold %%
-- [ ] rote Linsen + Kichererbsen Curry kochen  %% fold %%
- %% fold %%
-
 - [ ] wie nennt man das was ich an der Schläfe habe?
 	- [ ] welche weiteren Mittel gibt es
 
 - [ ] Kehrblech für Balkon kaufen  %% fold %%
-- [x] thunderbolt ex4 Anschluss prüfen
+- [x] thunderbolt ex4 Anschluss prüfen %% fold %%
 	- [x] testweise usb e1234 ausschalten  %% fold %%
 		- [x] ausschalten ohne power trennung nach ausschaltung ⟹ Bildschirm geht trotzdem
 		      ⤷ Grund für die fehlkommunikation? also geht es auch ohne USB bzw. ist der vielleicht nicht angeschlossen?
