@@ -304,6 +304,9 @@
 - es haben sich einige Kinder auch so extrem dreist verhalten, da war ich auch einfach sprachlos und hab warten müssen, bis die aufhören zu reden und unruhig zu sein
 
 - [ ] wischen
+- [ ] Krafttraining
+- [ ] sofalehne dampfen
+- [ ] Artikel von Freddie lesen
 - [ ] Briefkasten checken
 - [ ] Zähne putzen
 - [ ] Handtücher wechseln
