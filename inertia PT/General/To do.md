@@ -303,6 +303,7 @@
 - Esther, Yuna, Hamzi, Mohammed, Sophia und Ali um Verzeihung bitten, dass ich sie Freitag nicht früher habe gehen lassen. Denn die verhalten sich immer vorbildlich. Ich hab in dem Moment selbst kurz Ruhe gebraucht, musste durchatmen und konnte nicht mehr gegen die Wand anreden. Musste mich sortieren. 
 - es haben sich einige Kinder auch so extrem dreist verhalten, da war ich auch einfach sprachlos und hab warten müssen, bis die aufhören zu reden und unruhig zu sein
 
+- [ ] 
 - [ ] wischen
 - [ ] lösung mit der Biene durchlesen
 - [ ] sofalehne dampfen
@@ -331,7 +332,7 @@
 	- [ ] Lösung zur heutigen Aufgabe in die Gruppe der 10b posten. Mit Erklärung 
 	- [ ] Keiner aus samiha sind auf schul.cloud
 - [ ] Katrin mair wegen rezwan %% fold %%
-	- hab mit Axel gesprochen: seine Tochter ist an der Viktoria Schule. Dort gibt es vom Förderverein die Möglichkeit, dass Instrumente gestellt werden und der Unterricht kostenlos ist. Was es hier an der BAS nicht gibt
+	- hab mit Axel gesprochen: seine Tochter ist an der Viktoria Schule. Dort gibt es vom Förderverein die Möglichkeit, dass Instrumente gestellt werden und der Unterricht kostenlos ist. Was es hier an der BAS nicht gibt %% fold %%
 
 - [ ] wegen mathis mutter sprechen
 	- [ ] hab sie angetroffen und ihr gesagt, dass ich es nicht vergessen habe und sie mich bei Gelegenheit darauf ansprechen soll/darf.
