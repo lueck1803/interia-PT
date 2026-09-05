@@ -9,6 +9,7 @@
 # Aldi
 ## Jetzt
 - Einkaufswagen 
+- [ ] essigreiniger
 - [x] Bier
 - [x] Saft 
 - [x] Bananen
