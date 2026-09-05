@@ -304,7 +304,7 @@
 - es haben sich einige Kinder auch so extrem dreist verhalten, da war ich auch einfach sprachlos und hab warten müssen, bis die aufhören zu reden und unruhig zu sein
 
 
-- [ ] den Zettel 
+- [ ] den Zettel von der Projektwoche lesen
 - [ ] Spülmaschine ausräumen 
 - [ ] dringend aufhören melanie zu schreiben
 - [ ] lea antworten wegen nächstem treffen
