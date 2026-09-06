@@ -375,6 +375,12 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 
 # 10b
 
+## 2026-09-10
+
+<u>Lösung der Aufgabe 2 anschreiben:</u>
+
+$m_{\text{Abrissbirne}}=\rho_{\text{Eisen}}\cdot$
+
 # Handout 
 ## 8te 
 ### Worum geht es in der Physik? (nochmal Video von dem russischen Prof schauen)
