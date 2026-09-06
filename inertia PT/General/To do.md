@@ -304,7 +304,7 @@
 - es haben sich einige Kinder auch so extrem dreist verhalten, da war ich auch einfach sprachlos und hab warten müssen, bis die aufhören zu reden und unruhig zu sein
 
 - [x] gießen 
-- [ ] spazieren+balancieren +Aldi Öffnungszeiten 
+- [x] spazieren+balancieren +Aldi Öffnungszeiten 
 - [ ] Briefkasten checken
 - [ ] Decken wieder anbringen
 - [ ] ebay Lieferungsverfolgung checken
