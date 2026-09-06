@@ -307,6 +307,8 @@
 	- [ ] salma Bashir adnan
 	- [ ] pavlo palamarchuk
 
+- [ ] Zähne putzen
+- [ ] lösung mit der Biene durchlesen
 - [ ] Tasten aus dem Briefkasten holen und einbauen
 
 - [x] kursmappe %% fold %%
@@ -336,9 +338,7 @@
 - [ ] Französisch aufschreiben
 - [ ] brett spülen
 - [x] Carnivoren gießen
-- [ ] lösung mit der Biene durchlesen
 - [ ] sofalehne dampfen
-- [ ] Zähne putzen
 - [ ] Batterie außen Thermometer 
 - [ ] Kapitel §17 vom künkel lesen
 - [x] Laptop 
