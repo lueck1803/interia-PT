@@ -309,7 +309,7 @@
 
 - [ ] Tasten aus dem Briefkasten holen und einbauen
 
-- [x] kursmappe
+- [x] kursmappe %% fold %%
 	- [x] m 5a %% fold %%
 	- [x] m 8a
 	- [x] m 8b
