@@ -4465,7 +4465,8 @@ Um Blutungen zu stillen
 Als Schmerzmittel 
 
 # Alltagswissen und Handwerk
-
+## Angabe von Möbelmaßen
+**Breite x Höhe x Tiefe (B x H x T)**
 # Physik
 The heat transport rate (or heat transfer rate, $\dot{Q}$) quantifies how much thermal energy is transferred per unit time (measured in Watts, W). The formulas differ for convection and radiation, as they depend on distinct physical principles.
 ## Convection Heat Transfer Rate

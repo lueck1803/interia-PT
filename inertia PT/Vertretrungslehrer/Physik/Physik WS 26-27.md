@@ -377,6 +377,8 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 
 ## 2026-09-10
 
+- schul.cloud Einladungscode anschreiben
+
 <u>Lösung der Aufgabe 2 anschreiben:</u>
 - Dichte $\rho=\frac{m}{V}$, $[\rho]=\pu{\frac{kg}{m ^3}}$
 - $m_{\text{Abrissbirne}}=\rho_{\text{Eisen}}\cdot V_{\text{Abrissbirne}}$
