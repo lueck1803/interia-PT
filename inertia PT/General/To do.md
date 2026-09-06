@@ -315,7 +315,7 @@
 - [ ] Französisch aufschreiben
 - [ ] brett spülen
 - [x] kaugummis auffüllen
-- [ ] Keyboard in den Keller
+- [x] Keyboard in den Keller
 	- definitiv keine Chance
 - [x] Musikblatt anmalen
 	- [x] digital version anschauen ist die korrekt?
@@ -324,7 +324,7 @@
 - [x] Schubladenschrank etwas an die Ecke machen, damit das Staubsaugerkabel nicht klemmt
 - [x] unter der Schiebetür etwas an die Ecke machen, damit das Staubsaugerkabel nicht klemmt
 - [x] Essen in den Kühlschrank
-- [ ] wischen
+- [x] wischen
 - [ ] lösung mit der Biene durchlesen
 - [ ] sofalehne dampfen
 - [x] Age of stars weiter am keyboard heraus hören
