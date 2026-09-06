@@ -1,7 +1,7 @@
 - ich <font color="#ff0000">will meine Arbeit Publikations fähig machen</font>
 - regelmäßig den <font color="#00fa9a">Blutdruck</font> messen
 - ohr eincremen /Teebaumöl test
-# Mantra %% fold %%
+# Mantra
 -  wer am <font color="#92d050">Schlaf spart</font>, <font color="#ff0000">zahlt</font> mit dem <font color="#ff0000">ganzen Tag.</font>
 	- Schlafquantität 
 	- Schlafqualität
@@ -126,11 +126,11 @@
 - kein Medienkonsum
 - Achtsamkeit 
 - Körperpflege 
-- frische Luft
-- mich und mein Leben im Griff haben
-
-## japanische 1-Minutenregel
-### 1 - Kaizen
+- frische Luft %% fold %%
+- mich und mein Leben im Griff haben %% fold %%
+ %% fold %%
+## japanische 1-Minutenregel %% fold %%
+### 1 - Kaizen %% fold %%
 - <font color="#7cfc00">jeden Tag ein kleiner Schritt </font>
 - wortwörtlich: Veränderung zum Besseren 
 - kontinuierliche schrittweise Verbesserung 
@@ -148,8 +148,8 @@
 	- wenn die Sache nur eine Minute dauert, dann kann man <font color="#76923c">keine Ausrede</font> dass man <font color="#76923c">keine Zeit</font> hat
 	- aus einer Minute werden häufig mehrere Minuten und wenn nicht dann ist auch schon diese eine Minute ein Gewinn 
 - Suche dir die Gewohnheit aus die du aufbauen möchtest  %% fold %%
-- finde eine <font color="#00b050">kleinste Version</font> davon, so klein dass du schon <font color="#ffff00">fast lachen</font> musst.
-- genau das ist deine Startlinie und von dieser Startlinie aus wirst du dich Tag für Tag um winzige Schritte verbessern  %% fold %%
+- finde eine <font color="#00b050">kleinste Version</font> davon, so klein dass du schon <font color="#ffff00">fast lachen</font> musst. %% fold %%
+- genau das ist deine Startlinie und von dieser Startlinie aus wirst du dich Tag für Tag um winzige Schritte verbessern 
 ### 2 - Gemba %% fold %%
 - <font color="#7cfc00">gehe an den Ort des Geschehens</font>
 - wörtlich: der echte Ort
