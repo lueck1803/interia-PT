@@ -2,7 +2,11 @@
 - regelmäßig den <font color="#00fa9a">Blutdruck</font> messen
 - ohr eincremen /Teebaumöl test
 # Mantra %% fold %%
+<<<<<<< HEAD
 -  wer am <font color="#92d050">Schlaf spart</font>, <font color="#ff0000">zahlt</font> mit dem <font color="#ff0000">ganzen Tag.</font> %% fold %%
+=======
+-  wer am <font color="#92d050">Schlaf spart</font>, <font color="#ff0000">zahlt</font> mit dem <font color="#ff0000">ganzen Tag.</font>
+>>>>>>> origin/main
 	- Schlafquantität 
 	- Schlafqualität
 		- ⟹ genug Tiefschlafphasen: Erholung
@@ -154,7 +158,7 @@
 - <font color="#7cfc00">gehe an den Ort des Geschehens</font>
 - wörtlich: der echte Ort
 - wenn in der Produktion ein Problem auftaucht, dann sitzt du nicht im Büro und spekulierst, sondern gehst an den Ort wo es passiert und beobachtest.
-- Manager die ein Problem lösen wollten sind nicht in Meetings gegangen, sondern raus in die Produktion an das Fließband, wo der Fehler tatsächlich entstand
+- Manager die ein Problem lösen wollten sind nicht in Meetings gegangen, sondern raus in die Produktion an das Fließband, wo der Fehler tatsächlich entstand %% fold %%
 	- ⤷ können wir uns für unsere eigenen Gewohnheiten zu Nutze machen 
 	- ⤷ bevor wir irgendetwas verändern, <font color="#ffc000">beobachten wir erstmal</font>
 - Greifst du zur Zigarette?
