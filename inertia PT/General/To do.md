@@ -130,7 +130,7 @@
 - mich und mein Leben im Griff haben
 
 ## japanische 1-Minutenregel
-### 1 - Kaizen %% fold %%
+### 1 - Kaizen
 - <font color="#7cfc00">jeden Tag ein kleiner Schritt </font>
 - wortwörtlich: Veränderung zum Besseren 
 - kontinuierliche schrittweise Verbesserung 
