@@ -305,12 +305,13 @@
 
 - [x] gießen 
 - [ ] spazieren+balancieren +Aldi Öffnungszeiten 
-- [ ] Esstisch wischen 
+- [ ] ebay Lieferungsverfolgung checken
+- [x] Esstisch wischen 
 - [ ] kleinen Tisch aufräumen 
 - [ ] Papierkram
-- [ ] Flasche tauschen 
+- [x] Flasche tauschen 
 - [ ] Flaschen spülen 
-- [ ] Duolingo 
+- [x] Duolingo 
 - [ ] Französisch aufschreiben
 - [ ] brett spülen
 - [x] kaugummis auffüllen
