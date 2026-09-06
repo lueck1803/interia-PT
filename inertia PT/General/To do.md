@@ -1,7 +1,7 @@
 - ich <font color="#ff0000">will meine Arbeit Publikations fähig machen</font>
 - regelmäßig den <font color="#00fa9a">Blutdruck</font> messen
 - ohr eincremen /Teebaumöl test
-# Mantra
+# Mantra %% fold %%
 -  wer am <font color="#92d050">Schlaf spart</font>, <font color="#ff0000">zahlt</font> mit dem <font color="#ff0000">ganzen Tag.</font> %% fold %%
 	- Schlafquantität 
 	- Schlafqualität
@@ -130,7 +130,7 @@
 - mich und mein Leben im Griff haben
 
 ## japanische 1-Minutenregel
-### 1 - Kaizen
+### 1 - Kaizen %% fold %%
 - <font color="#7cfc00">jeden Tag ein kleiner Schritt </font>
 - wortwörtlich: Veränderung zum Besseren 
 - kontinuierliche schrittweise Verbesserung 
@@ -150,7 +150,7 @@
 - Suche dir die Gewohnheit aus die du aufbauen möchtest 
 - finde eine <font color="#00b050">kleinste Version</font> davon, so klein dass du schon <font color="#ffff00">fast lachen</font> musst.
 - genau das ist deine Startlinie und von dieser Startlinie aus wirst du dich Tag für Tag um winzige Schritte verbessern 
-### 2 - Gemba
+### 2 - Gemba %% fold %%
 - <font color="#7cfc00">gehe an den Ort des Geschehens</font>
 - wörtlich: der echte Ort
 - wenn in der Produktion ein Problem auftaucht, dann sitzt du nicht im Büro und spekulierst, sondern gehst an den Ort wo es passiert und beobachtest.
@@ -189,7 +189,7 @@
 		- <font color="#0070c0">Du bleibst eher dran</font>, wenn jemand anders weiß, was du dir vorgenommen hast
 		- Es ist nicht nur ein Gedanke in deinem Kopf, sondern du erzählst nächste Woche, wie es gelaufen ist.
 		- ⤷ motivierter dran zu bleiben
-### 3 - Hansei
+### 3 - Hansei %% fold %%
 - <font color="#7cfc00">reflektiere ohne Selbstvorwurf</font>
 - ehrliche Selbstreflexion 
 - man schaut nach den Fehlern ganz nüchtern zurück und fragt:
@@ -211,7 +211,7 @@
 
 - <font color="#ffc000">Rückfall</font> kein Beweis fürs Scheitern, sondern eine <font color="#48d1cc">Information</font>
 
-### 4- Fünf-Warum-Methode
+### 4- Fünf-Warum-Methode %% fold %%
 - <font color="#7cfc00">Frag fünfmal nach dem Warum</font>
 - Wenn bei Toyota ein Fehler auftauchte, dann fragten sie nicht einmal Warum, sondern fünfmal hintereinander. ⟹ immer tiefer, um <font color="#c71585">an die Wurzel</font> zu kommen
 - <u>Gedanke dahinter:</u> die erste Antwort ist selten die ganze Geschichte dahinter
@@ -234,7 +234,7 @@
 	- kannst dir noch so viele App-Sperren einrichten, wenn der eigentliche Antrieb ein unverarbeitetes Problem ist
 	- ⤷ Gehirn sucht sich andere Gewohnheit zum Flüchten
 
-### 5 - Poka-Yoke
+### 5 - Poka-Yoke %% fold %%
 - <font color="#7cfc00">Mach Fehler unmöglich</font> - hört sich perfektionistisch an? 🤔
 - Konzept aus der japanischen Fertigung und beschreibt <font color="#00b050">Mechanismen die Fehler von vorneherein verhindern</font>
 	- <font color="#92d050">SIM Karte</font>, die nur in eine Richtung ins Handy passt
@@ -261,7 +261,7 @@
 - ⟹❌ Keine Schwäche 
 	- <font color="#00b0f0">⤷ intelligenteste Form der Stärke</font>
 
-### 6 - Wabi - Sabi
+### 6 - Wabi - Sabi %% fold %%
 - <font color="#7cfc00">Das Unvollkommene hat seinen Wert</font>
 - Tiefverankerte Ästhetische Haltung
 - ⤷ <font color="#00b0f0">Die Schönheit erkennen im </font>
@@ -285,7 +285,7 @@
 	- <font color="#ff69b4">schlägt</font> ⚡
 	- <font color="#92d050">perfektes</font> <font color="#ff0000">Nichtstun</font> 😴
 
-### Fazit
+### Fazit %% fold %%
 - Verhaltensänderung scheitert selten im Kern an zu wenig Willenskraft im Moment 
 - Sie scheitert daran, dass wir uns überhaupt in die Lage bringen, dauernd gegen uns Selbst kämpfen zu müssen.
 - Leute mit der besten Selbstkontrolle nutzen sie, in dem sie Versuchungen von Vorneherein aus dem Weg räumen
@@ -304,6 +304,13 @@
 - es haben sich einige Kinder auch so extrem dreist verhalten, da war ich auch einfach sprachlos und hab warten müssen, bis die aufhören zu reden und unruhig zu sein
 
 - [x] gießen 
+- [ ] spazieren+balancieren 
+- [ ] Tisch wischen 
+- [ ] kleinen Tisch aufräumen 
+- [ ] Papierkram
+- [ ] Flasche tauschen 
+- [ ] Flaschen spülen 
+- [ ] Duolingo 
 - [ ] Französisch aufschreiben
 - [ ] brett spülen
 - [x] kaugummis auffüllen
