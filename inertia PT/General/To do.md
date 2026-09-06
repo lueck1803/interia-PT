@@ -303,15 +303,11 @@
 - Esther, Yuna, Hamzi, Mohammed, Sophia und Ali um Verzeihung bitten, dass ich sie Freitag nicht früher habe gehen lassen. Denn die verhalten sich immer vorbildlich. Ich hab in dem Moment selbst kurz Ruhe gebraucht, musste durchatmen und konnte nicht mehr gegen die Wand anreden. Musste mich sortieren. 
 - es haben sich einige Kinder auch so extrem dreist verhalten, da war ich auch einfach sprachlos und hab warten müssen, bis die aufhören zu reden und unruhig zu sein
 
-- [x] gießen 
-- [x] spazieren+balancieren +Aldi Öffnungszeiten 
 - [ ] Briefkasten checken
 - [ ] Decken wieder anbringen
 - [ ] ebay Lieferungsverfolgung checken
-- [x] Esstisch wischen 
 - [ ] kleinen Tisch aufräumen 
 - [ ] Papierkram
-- [x] Flasche tauschen 
 - [ ] Flaschen spülen 
 - [x] Duolingo 
 - [ ] Französisch aufschreiben
@@ -353,7 +349,7 @@
 
 
 - [ ] schul.cloud Gruppe für 10a und b machen. Kai Wörner ansprechen 
-	- [ ] Lösung zur heutigen Aufgabe in die Gruppe der 10b posten. Mit Erklärung 
+	- [ ] Lösung zur heutigen Aufgabe in die Gruppe der 10b posten. Mit Erklärung  %% fold %%
 	- [ ] Keiner aus samiha sind auf schul.cloud %% fold %%
 - [ ] Katrin mair wegen rezwan %% fold %%
 	- hab mit Axel gesprochen: seine Tochter ist an der Viktoria Schule. Dort gibt es vom Förderverein die Möglichkeit, dass Instrumente gestellt werden und der Unterricht kostenlos ist. Was es hier an der BAS nicht gibt %% fold %%
