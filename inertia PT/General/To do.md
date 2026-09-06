@@ -1,9 +1,7 @@
 - ich <font color="#ff0000">will meine Arbeit Publikations fähig machen</font>
 - regelmäßig den <font color="#00fa9a">Blutdruck</font> messen
 - ohr eincremen /Teebaumöl test
-# Mantra %% fold %%
-<<<<<<< HEAD
--  wer am <font color="#92d050">Schlaf spart</font>, <font color="#ff0000">zahlt</font> mit dem <font color="#ff0000">ganzen Tag.</font> %% fold %%
+# -  wer am <font color="#92d050">Schlaf spart</font>, <font color="#ff0000">zahlt</font> mit dem <n Tag.</font> %% fold %%
 =======
 -  wer am <font color="#92d050">Schlaf spart</font>, <font color="#ff0000">zahlt</font> mit dem <font color="#ff0000">ganzen Tag.</font>
 >>>>>>> origin/main
@@ -153,7 +151,7 @@
 	- aus einer Minute werden häufig mehrere Minuten und wenn nicht dann ist auch schon diese eine Minute ein Gewinn 
 - Suche dir die Gewohnheit aus die du aufbauen möchtest 
 - finde eine <font color="#00b050">kleinste Version</font> davon, so klein dass du schon <font color="#ffff00">fast lachen</font> musst.
-- genau das ist deine Startlinie und von dieser Startlinie aus wirst du dich Tag für Tag um winzige Schritte verbessern 
+- genau das ist deine Startlinie und von dieser Startlinie aus wirst du dich Tag für Tag um winzige Schritte verbessern  %% fold %%
 ### 2 - Gemba %% fold %%
 - <font color="#7cfc00">gehe an den Ort des Geschehens</font>
 - wörtlich: der echte Ort
