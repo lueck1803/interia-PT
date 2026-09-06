@@ -321,7 +321,8 @@
 	- [ ] 🤮
 - [ ] Briefkasten checken
 - [x] Zähne putzen
-- [ ] Decken ausschütteln
+- [x] Decken ausschütteln
+- [ ] Decken wieder anbringen
 - [ ] den Zettel von der Projektwoche lesen
 - [ ] dringend aufhören melanie zu schreiben
 	- [ ] hab ich verkackt 
