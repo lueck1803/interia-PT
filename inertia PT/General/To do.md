@@ -304,7 +304,7 @@
 - es haben sich einige Kinder auch so extrem dreist verhalten, da war ich auch einfach sprachlos und hab warten müssen, bis die aufhören zu reden und unruhig zu sein
 
 - [x] gießen 
-- [ ] kaugummis auffüllen
+- [x] kaugummis auffüllen
 - [ ] Keyboard in den Keller
 	- definitiv keine Chance
 - [x] Musikblatt anmalen
