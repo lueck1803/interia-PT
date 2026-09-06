@@ -307,7 +307,7 @@
 - [ ] kaugummis auffüllen
 - [ ] Keyboard in den Keller
 	- definitiv keine Chance
-- [ ] Musikblatt anmalen
+- [x] Musikblatt anmalen
 	- [ ] digital version anschauen ist die korrekt?
 	- [ ] digital anmalen
 - [ ] Carnivoren gießen
