@@ -312,24 +312,10 @@
 - [x] Duolingo 
 - [ ] Französisch aufschreiben
 - [ ] brett spülen
-- [x] kaugummis auffüllen
-- [x] Keyboard in den Keller
-	- definitiv keine Chance
-- [x] Musikblatt anmalen
-	- [x] digital version anschauen ist die korrekt?
-	- [x] digital anmalen
 - [ ] Carnivoren gießen
-- [x] Schubladenschrank etwas an die Ecke machen, damit das Staubsaugerkabel nicht klemmt
-- [x] unter der Schiebetür etwas an die Ecke machen, damit das Staubsaugerkabel nicht klemmt
-- [x] Essen in den Kühlschrank
-- [x] wischen
 - [ ] lösung mit der Biene durchlesen
 - [ ] sofalehne dampfen
-- [x] Age of stars weiter am keyboard heraus hören
-	- [ ] 🤮
-- [x] Zähne putzen
-- [x] Decken ausschütteln
-- [x] den Zettel von der Projektwoche lesen
+- [ ] Zähne putzen
 - [ ] dringend aufhören melanie zu schreiben
 	- [ ] hab ich verkackt 
 - [ ] Batterie außen Thermometer 
@@ -340,15 +326,10 @@
 	- [x] a2337
 	- [x] Tasten bestellt
 - [ ] Biomüll 
-- [x] Schul-ID 
-	- [x] einrichten 
-	- [x] Mail an jamil bzw Jana weiterleiten 
-	- [ ] mfa einrichten
-	- [ ] app?
-- [ ] Mich dringend um den Rechner kümmern
-
-
-- [ ] schul.cloud Gruppe für 10a und b machen. Kai Wörner ansprechen 
+- [ ] Mich dringend um den Rechner kümmern %% fold %%
+ %% fold %%
+ %% fold %%
+- [ ] schul.cloud Gruppe für 10a und b machen. Kai Wörner ansprechen  %% fold %%
 	- [ ] Lösung zur heutigen Aufgabe in die Gruppe der 10b posten. Mit Erklärung  %% fold %%
 	- [ ] Keiner aus samiha sind auf schul.cloud %% fold %%
 - [ ] Katrin mair wegen rezwan %% fold %%
