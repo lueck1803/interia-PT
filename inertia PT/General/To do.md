@@ -8,7 +8,7 @@
 		- ⟹ genug Tiefschlafphasen: Erholung
 		- ⟹ genug REM Schlafphasen: emotionale Verarbeitung 
 			- ⤷ wobei mich die <font color="#fac08f">Träume</font>, <font color="#b2a2c7">gerade die kurz</font> vor <font color="#c71585">dem Aufwachen</font>, so sehr <font color="#daa520">benebeln</font>
-## oberste Priorität:
+## oberste Priorität: %% fold %%
 - wenn es mir <font color="#ff0000">schlecht</font> / <font color="#e36c09">komisch</font> geht ⟹ <font color="#c71585">ohne Ablenkung</font> <font color="#7cfc00">raus gehen</font> 
 	- spazieren 
 	- balancieren 
@@ -102,7 +102,7 @@
 	- ich möchte mit meinem Näheprojekt beginnen 
 	- ich möchte nadines Socken fertig machen 
 	- ich möchte unter Leute gehen 
-## was will ich lassen 
+## was will ich lassen  %% fold %%
 - mich über zu erklären 
 - mich zu rechtfertigen 
 - das Gefühl zu haben auf alles antworten zu müssen
@@ -110,14 +110,14 @@
 - mich von Anderen stressen lassen 
 - ständig etwas hören oder schauen 
 
-## wie will ich sein 
+## wie will ich sein  %% fold %%
 - ich möchte die Sinne beieinander haben
 - von meinen Emotionen und meinem Körper im Griff gehalten werden
 
-## was will ich tun
+## was will ich tun %% fold %%
 - Knoten lernen und üben
 
-## <font color="#ffc000">Wie schaffe ich es immer aroused zu sein?</font>
+## <font color="#ffc000">Wie schaffe ich es immer aroused zu sein?</font> %% fold %%
 - Angst 
 - Sport 
 - guter Schlaf 
