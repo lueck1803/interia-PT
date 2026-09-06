@@ -314,6 +314,12 @@
 	- [x] p 10a
 
 
+- [ ] Akteneintrag Mathis
+	- [x] Sprachaufzeichnung  %% fold %%
+	- [ ] noch dazu vermerken, dass ich ihn angesprochen hatte zu Beginn des Unterrichts dass er im Treppenhaus herunter gespuckt hat, während ich mit den anderen Kindern die Treppe hoch kam. Da habe ich ihn vorsichtig gefragt ob er es war %% fold %%
+	- [ ] das hat er geleugnet 
+	- [ ] Stuhl aktion nach dem ich ihn wieder frei gelassen hatte?
+
 - [ ] Briefkasten checken
 - [ ] Decken wieder anbringen
 - [ ] ebay Lieferungsverfolgung checken
@@ -323,30 +329,25 @@
 - [x] Duolingo 
 - [ ] Französisch aufschreiben
 - [ ] brett spülen
-- [ ] Carnivoren gießen
+- [x] Carnivoren gießen
 - [ ] lösung mit der Biene durchlesen
 - [ ] sofalehne dampfen
 - [ ] Zähne putzen
-- [ ] dringend aufhören melanie zu schreiben
-	- [ ] hab ich verkackt 
 - [ ] Batterie außen Thermometer 
 - [ ] Kapitel §17 vom künkel lesen
-- [ ] staubsaugen 
-- [ ] Wäsche 
 - [x] Laptop 
 	- [x] a2337
-	- [x] Tasten bestellt
-- [ ] Biomüll 
+	- [x] Tasten bestellt %% fold %%
+- [ ] Biomüll  %% fold %%
 - [ ] Mich dringend um den Rechner kümmern %% fold %%
  %% fold %%
  %% fold %%
 - [ ] schul.cloud Gruppe für 10a und b machen. Kai Wörner ansprechen  %% fold %%
 	- [ ] Lösung zur heutigen Aufgabe in die Gruppe der 10b posten. Mit Erklärung  %% fold %%
 	- [ ] Keiner aus samiha sind auf schul.cloud %% fold %%
-- [ ] Katrin mair wegen rezwan %% fold %%
-	- hab mit Axel gesprochen: seine Tochter ist an der Viktoria Schule. Dort gibt es vom Förderverein die Möglichkeit, dass Instrumente gestellt werden und der Unterricht kostenlos ist. Was es hier an der BAS nicht gibt %% fold %%
 
-- [ ] wegen mathis mutter sprechen
+
+- [ ] wegen mathis mutter sprechen %% fold %%
 	- [ ] hab sie angetroffen und ihr gesagt, dass ich es nicht vergessen habe und sie mich bei Gelegenheit darauf ansprechen soll/darf.
  %% fold %%
 - [ ] Arbeitsblatt der 10ten Klasse ab ändern
@@ -358,12 +359,11 @@
 - [ ] schriftliches dividieren, wann kommen nullen rein?
 - [ ] Epson beamer - usb video Wlan
 - [ ] Friseur 
-- [ ] Umfrage in 8b wegen Formelsammlung 
+- [x] Umfrage in 8b wegen Formelsammlung 
 
 - [ ] bloody valkyria - age of stars piano raus hören 
 - [ ] hab ich das mesa metalcore preset auf dem podgo
 - [ ] text von elias lesen 
-- [ ] keyboard aufbauen und bloody valkyria heraus hören
 - [ ] grüne schuhe aufrauen
 
 
@@ -372,16 +372,12 @@
 - [ ] Black Waltz
 
 
-
-
-- [ ] Küche Arbeitsfläche wischen %% fold %%
+ %% fold %%
 - [ ] Griffe in der Küche %% fold %%
 - [ ] AOK die neuste Abrechnung vom August dann einreichen  %% fold %%
  %% fold %%
  %% fold %%
  %% fold %%
-- [ ] Text von Elias lesen %% fold %%
-	- [ ] in Xournal und Markierungen machen
 
  %% fold %%
  %% fold %%
@@ -400,7 +396,7 @@
 				- [ ] Distributivgesetz
 			- [ ] Übungen zu den Rechen gesetzen
 
-- schul.cloud  %% fold %%
+- schul.cloud %% fold %%
 	- [x] Gruppen trennen 
 		- [ ] Einladungen checken
 	- [ ] Nachrichten:
@@ -426,23 +422,15 @@
 	- [ ] selbst reparieren %% fold %%
  %% fold %%
  %% fold %%
-- [ ] Akteneintrag Mathis %% fold %%
-	- [x] Sprachaufzeichnung  %% fold %%
-	- [ ] noch dazu vermerken, dass ich ihn angesprochen hatte zu Beginn des Unterrichts dass er im Treppenhaus herunter gespuckt hat, während ich mit den anderen Kindern die Treppe hoch kam. Da habe ich ihn vorsichtig gefragt ob er es war %% fold %%
-	- [ ] das hat er geleugnet 
 
 
+ %% fold %%
 - [ ] Video https://youtu.be/08We3mhQbAg?is=TFBWFRDAFpD9Duzu schauen  %% fold %%
 - [x] arbeitsverhalten schulportal Eintrag ? %% fold %%
 - [ ] gibts ne regel für linter, dass man one-liner einfügen kann? %% fold %%
  %% fold %%
  %% fold %%
 - [ ] Kopfhörer putzen  %% fold %%
-- [ ] sofa
-	- [ ] Kissenbezug  %% fold %%
-	- [x] decken %% fold %%
-- [ ] Eisbecher wegsortieren %% fold %%
-- [ ] schauen ob die neuen der 8a schon auf schul.cloud sind %% fold %%
 - [ ] gibt es andere listen in denen das feld größer ist? %% fold %%
 	- [ ] erste Spalte nehme ich zur Anwesenheit %% fold %%
 	- [ ] zweite Spalte nehme ich als mitarbeit %% fold %%
@@ -1393,6 +1381,11 @@ Nosfe-Arthur ⇔ Nosfe-Rita
 - [x] Waschbecken putzen  %% fold %%
 	- [x] Bad 
 	- [x] Küche 
+
+## egal
+- Katrin mair wegen rezwan
+	- hab mit Axel gesprochen: seine Tochter ist an der Viktoria Schule. Dort gibt es vom Förderverein die Möglichkeit, dass Instrumente gestellt werden und der Unterricht kostenlos ist. Was es hier an der BAS nicht gibt %% fold %%
+
 # tägliches
 
 ## Wohnbereich 
@@ -1938,8 +1931,8 @@ Für beide Plattformen (mit weniger Code): Flutter (Dart) oder React Native (Jav
 - [ ] Einführung in die Charakterkunde 
 # Filme, Serien und Dokus %% fold %%
 - [x] <span style="color:gold">ghostbusters runterladen</span> %% fold %%
-- [x] <span style="color:coral">paartherapie S3 runterladen</span>
-
+- [x] <span style="color:coral">paartherapie S3 runterladen</span> %% fold %%
+ %% fold %%
 # Alt
 - [x] zeit stoppen wie lange ich zum Schulgarten gießen brauche 
 	- ⤷~ 30 min 
