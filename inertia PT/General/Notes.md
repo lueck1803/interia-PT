@@ -4463,6 +4463,9 @@ Um Blutungen zu stillen
 
 ## Weiden Rinde
 Als Schmerzmittel 
+
+# Alltagswissen und Handwerk
+
 # Physik
 The heat transport rate (or heat transfer rate, $\dot{Q}$) quantifies how much thermal energy is transferred per unit time (measured in Watts, W). The formulas differ for convection and radiation, as they depend on distinct physical principles.
 ## Convection Heat Transfer Rate
