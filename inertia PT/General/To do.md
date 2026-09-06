@@ -305,7 +305,7 @@
 
 - [x] gießen 
 - [ ] Keyboard in den Keller
-- [ ] Essen in den Kühlschrank 
+- [x] Essen in den Kühlschrank
 - [ ] wischen
 - [ ] lösung mit der Biene durchlesen
 - [ ] sofalehne dampfen
