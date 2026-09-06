@@ -308,8 +308,8 @@
 - [ ] Keyboard in den Keller
 	- definitiv keine Chance
 - [x] Musikblatt anmalen
-	- [ ] digital version anschauen ist die korrekt?
-	- [ ] digital anmalen
+	- [x] digital version anschauen ist die korrekt?
+	- [x] digital anmalen
 - [ ] Carnivoren gießen
 - [x] Schubladenschrank etwas an die Ecke machen, damit das Staubsaugerkabel nicht klemmt
 - [x] unter der Schiebetür etwas an die Ecke machen, damit das Staubsaugerkabel nicht klemmt
