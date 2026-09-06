@@ -334,8 +334,10 @@
 	- [x] Tasten bestellt
 - [ ] Biomüll 
 - [ ] Schul-ID 
-	- [ ] einrichten 
-	- [ ] Mail an jamil bzw Jana weiterleiten 
+	- [x] einrichten 
+	- [x] Mail an jamil bzw Jana weiterleiten 
+	- [ ] mfa einrichten
+	- [ ] app?
 - [ ] Mich dringend um den Rechner kümmern
 
 
