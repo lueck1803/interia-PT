@@ -311,8 +311,8 @@
 	- [ ] digital version anschauen ist die korrekt?
 	- [ ] digital anmalen
 - [ ] Carnivoren gießen
-- [ ] Schubladenschrank etwas an die Ecke machen, damit das Staubsaugerkabel nicht klemmt
-- [ ] unter der Schiebetür etwas an die Ecke machen, damit das Staubsaugerkabel nicht klemmt
+- [x] Schubladenschrank etwas an die Ecke machen, damit das Staubsaugerkabel nicht klemmt
+- [x] unter der Schiebetür etwas an die Ecke machen, damit das Staubsaugerkabel nicht klemmt
 - [x] Essen in den Kühlschrank
 - [ ] wischen
 - [ ] lösung mit der Biene durchlesen
@@ -320,7 +320,7 @@
 - [x] Age of stars weiter am keyboard heraus hören
 	- [ ] 🤮
 - [ ] Briefkasten checken
-- [ ] Zähne putzen
+- [x] Zähne putzen
 - [ ] Decken ausschütteln
 - [ ] den Zettel von der Projektwoche lesen
 - [ ] dringend aufhören melanie zu schreiben
