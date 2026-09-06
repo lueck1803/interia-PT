@@ -2,11 +2,7 @@
 - regelmäßig den <font color="#00fa9a">Blutdruck</font> messen
 - ohr eincremen /Teebaumöl test
 # Mantra %% fold %%
-<<<<<<< HEAD
--  wer am <font color="#92d050">Schlaf spart</font>, <font color="#ff0000">zahlt</font> mit dem <font color="#ff0000">ganzen Tag.</font> %% fold %%
-=======
 -  wer am <font color="#92d050">Schlaf spart</font>, <font color="#ff0000">zahlt</font> mit dem <font color="#ff0000">ganzen Tag.</font>
->>>>>>> origin/main
 	- Schlafquantität 
 	- Schlafqualität
 		- ⟹ genug Tiefschlafphasen: Erholung
@@ -151,9 +147,9 @@
 	- <font color="#92cddc">Perfektionismus</font> hat auf einmal <font color="#ff69b4">keinen Angriffspunkt</font> mehr
 	- wenn die Sache nur eine Minute dauert, dann kann man <font color="#76923c">keine Ausrede</font> dass man <font color="#76923c">keine Zeit</font> hat
 	- aus einer Minute werden häufig mehrere Minuten und wenn nicht dann ist auch schon diese eine Minute ein Gewinn 
-- Suche dir die Gewohnheit aus die du aufbauen möchtest 
+- Suche dir die Gewohnheit aus die du aufbauen möchtest  %% fold %%
 - finde eine <font color="#00b050">kleinste Version</font> davon, so klein dass du schon <font color="#ffff00">fast lachen</font> musst.
-- genau das ist deine Startlinie und von dieser Startlinie aus wirst du dich Tag für Tag um winzige Schritte verbessern 
+- genau das ist deine Startlinie und von dieser Startlinie aus wirst du dich Tag für Tag um winzige Schritte verbessern  %% fold %%
 ### 2 - Gemba %% fold %%
 - <font color="#7cfc00">gehe an den Ort des Geschehens</font>
 - wörtlich: der echte Ort
