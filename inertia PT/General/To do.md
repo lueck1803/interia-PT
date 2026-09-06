@@ -309,6 +309,9 @@
 - [ ] Musikblatt anmalen
 	- [ ] digital version anschauen ist die korrekt?
 	- [ ] digital anmalen
+- [ ] Carnivoren gießen
+- [ ] Schubladenschrank etwas an die Ecke machen, damit das Staubsaugerkabel nicht klemmt
+- [ ] unter der Schiebetür etwas an die Ecke machen, damit das Staubsaugerkabel nicht klemmt
 - [x] Essen in den Kühlschrank
 - [ ] wischen
 - [ ] lösung mit der Biene durchlesen
