@@ -305,6 +305,8 @@
 
 - [x] gießen 
 - [ ] spazieren+balancieren +Aldi Öffnungszeiten 
+- [ ] Briefkasten checken
+- [ ] Decken wieder anbringen
 - [ ] ebay Lieferungsverfolgung checken
 - [x] Esstisch wischen 
 - [ ] kleinen Tisch aufräumen 
@@ -329,10 +331,8 @@
 - [ ] sofalehne dampfen
 - [x] Age of stars weiter am keyboard heraus hören
 	- [ ] 🤮
-- [ ] Briefkasten checken
 - [x] Zähne putzen
 - [x] Decken ausschütteln
-- [ ] Decken wieder anbringen
 - [x] den Zettel von der Projektwoche lesen
 - [ ] dringend aufhören melanie zu schreiben
 	- [ ] hab ich verkackt 
@@ -354,7 +354,7 @@
 
 - [ ] schul.cloud Gruppe für 10a und b machen. Kai Wörner ansprechen 
 	- [ ] Lösung zur heutigen Aufgabe in die Gruppe der 10b posten. Mit Erklärung 
-	- [ ] Keiner aus samiha sind auf schul.cloud
+	- [ ] Keiner aus samiha sind auf schul.cloud %% fold %%
 - [ ] Katrin mair wegen rezwan %% fold %%
 	- hab mit Axel gesprochen: seine Tochter ist an der Viktoria Schule. Dort gibt es vom Förderverein die Möglichkeit, dass Instrumente gestellt werden und der Unterricht kostenlos ist. Was es hier an der BAS nicht gibt %% fold %%
 
