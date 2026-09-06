@@ -305,7 +305,7 @@
 
 - [x] gießen 
 - [ ] spazieren+balancieren 
-- [ ] Tisch wischen 
+- [ ] Esstisch wischen 
 - [ ] kleinen Tisch aufräumen 
 - [ ] Papierkram
 - [ ] Flasche tauschen 
