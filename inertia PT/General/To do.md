@@ -307,7 +307,7 @@
 	- [ ] salma Bashir adnan
 	- [ ] pavlo palamarchuk
 
-
+- [ ] Tasten aus dem Briefkasten holen und anbringen
 
 - [x] kursmappe
 	- [x] m 5a %% fold %%
