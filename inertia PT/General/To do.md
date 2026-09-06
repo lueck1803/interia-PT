@@ -303,6 +303,12 @@
 - Esther, Yuna, Hamzi, Mohammed, Sophia, Aaron und Ali um Verzeihung bitten, dass ich sie Freitag nicht früher habe gehen lassen. Denn die verhalten sich immer vorbildlich. Ich hab in dem Moment selbst kurz Ruhe gebraucht, musste durchatmen und konnte nicht mehr gegen die Wand anreden. Musste mich sortieren. 
 - es haben sich einige Kinder auch so extrem dreist verhalten, da war ich auch einfach sprachlos und hab warten müssen, bis die aufhören zu reden und unruhig zu sein
 
+- [ ] 8a schul.cloud einladen
+	- [ ] salma Bashir adnan
+	- [ ] pavlo palamarchuk
+
+
+
 - [x] kursmappe
 	- [x] m 5a %% fold %%
 	- [x] m 8a
@@ -431,9 +437,6 @@
  %% fold %%
  %% fold %%
 - [ ] Kopfhörer putzen  %% fold %%
-- [ ] gibt es andere listen in denen das feld größer ist? %% fold %%
-	- [ ] erste Spalte nehme ich zur Anwesenheit %% fold %%
-	- [ ] zweite Spalte nehme ich als mitarbeit %% fold %%
 - [ ] black waltz %% fold %%
 - [ ] Mutter von Mathis schreiben %% fold %%
 	- [x] ADHS Hilfe Deutschland %% fold %%
@@ -456,20 +459,6 @@
 	- [ ] montesorri arbeitsblatt 22 mal kopieren %% fold %%
 	- [ ] grundrechenarten ohne balken 22 mal kopieren
 - [ ] Erklärung dezimal zu bruch Zeilennummern und Aufzählung nummerieren
-- [ ] schul.cloud einladen  %% fold %%
-	- [x] Hana %% fold %%
-	- [x] shanaja
-	- [x] xenia
-	- [x] zaynaba
-	- [ ] ümmü  %% fold %%
-	- [ ] Emily 
-	- [ ] narges
-	- [ ] rita
-	- [ ] salma Bashir adnan
-	- [ ] daria michalewicz
-	- [ ] pavlo palamarchuk
-	- [x] sara bouhout
-		- [ ] ging nicht, code war nicht richtig?
 
  %% fold %%
 - [ ] Mathe 8 Übungsaufgaben  %% fold %%
