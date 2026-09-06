@@ -385,6 +385,10 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 - Einheit des Volumens: $[V]=\pu{ m^3 }$ 
   Da hier der Radius $r=\pu{ 18cm }$ ist, ist die Einheit des Volumens $[V]=\pu{cm\cdot cm\cdot cm}=\pu{cm^3}$
 - $m_{\text{Abrissbirne}}=\rho_{\text{Eisen}}\cdot V_{\text{Abrissbirne}}$
+- $=\rho_{\text{Fe}}\cdot V_{\text{Kugel}}$
+- $=\rho_{\text{Fe}}\cdot \frac{4}{3}\pi r^{3}$
+- $=\pu{7,87 \frac{g}{cm^3}  }\cdot \frac{4}{3}\pi r^{3}$
+- 
 # Handout 
 ## 8te 
 ### Worum geht es in der Physik? (nochmal Video von dem russischen Prof schauen)
