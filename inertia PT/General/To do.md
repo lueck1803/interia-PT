@@ -303,6 +303,17 @@
 - Esther, Yuna, Hamzi, Mohammed, Sophia, Aaron und Ali um Verzeihung bitten, dass ich sie Freitag nicht früher habe gehen lassen. Denn die verhalten sich immer vorbildlich. Ich hab in dem Moment selbst kurz Ruhe gebraucht, musste durchatmen und konnte nicht mehr gegen die Wand anreden. Musste mich sortieren. 
 - es haben sich einige Kinder auch so extrem dreist verhalten, da war ich auch einfach sprachlos und hab warten müssen, bis die aufhören zu reden und unruhig zu sein
 
+- [x] kursmappe
+	- [x] m 5a %% fold %%
+	- [ ] m 8a
+	- [ ] m 8b
+	- [x] p 8a 
+	- [ ] p 8b
+	- [ ] p 8c %% fold %%
+	- [ ] p 10b %% fold %%
+	- [ ] p 10a
+
+
 - [ ] Briefkasten checken
 - [ ] Decken wieder anbringen
 - [ ] ebay Lieferungsverfolgung checken
@@ -337,7 +348,7 @@
 
 - [ ] wegen mathis mutter sprechen
 	- [ ] hab sie angetroffen und ihr gesagt, dass ich es nicht vergessen habe und sie mich bei Gelegenheit darauf ansprechen soll/darf.
-
+ %% fold %%
 - [ ] Arbeitsblatt der 10ten Klasse ab ändern
 	- [ ] A) oben weg machen
 	- [ ] Formulierung der Aufgabe 1
@@ -372,15 +383,7 @@
 - [ ] Text von Elias lesen %% fold %%
 	- [ ] in Xournal und Markierungen machen
 
-- [x] kursmappe
-	- [ ] m 5a %% fold %%
-	- [ ] m 8a
-	- [ ] m 8b
-	- [x] p 8a 
-	- [ ] p 8b
-	- [ ] p 8c %% fold %%
-	- [ ] p 10b %% fold %%
-	- [ ] p 10a %% fold %%
+ %% fold %%
  %% fold %%
 - [ ] Mathe 8 %% fold %%
 	- [ ] in den lehrplan schauen %% fold %%
