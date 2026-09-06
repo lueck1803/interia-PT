@@ -303,7 +303,7 @@
 - Esther, Yuna, Hamzi, Mohammed, Sophia und Ali um Verzeihung bitten, dass ich sie Freitag nicht früher habe gehen lassen. Denn die verhalten sich immer vorbildlich. Ich hab in dem Moment selbst kurz Ruhe gebraucht, musste durchatmen und konnte nicht mehr gegen die Wand anreden. Musste mich sortieren. 
 - es haben sich einige Kinder auch so extrem dreist verhalten, da war ich auch einfach sprachlos und hab warten müssen, bis die aufhören zu reden und unruhig zu sein
 
-- [ ] gießen 
+- [x] gießen 
 - [ ] Keyboard in den Keller
 - [ ] Essen in den Kühlschrank 
 - [ ] wischen
