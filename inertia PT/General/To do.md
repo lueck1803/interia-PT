@@ -323,7 +323,7 @@
 - [x] Zähne putzen
 - [x] Decken ausschütteln
 - [ ] Decken wieder anbringen
-- [ ] den Zettel von der Projektwoche lesen
+- [x] den Zettel von der Projektwoche lesen
 - [ ] dringend aufhören melanie zu schreiben
 	- [ ] hab ich verkackt 
 - [ ] Batterie außen Thermometer 
@@ -334,7 +334,7 @@
 	- [x] a2337
 	- [x] Tasten bestellt
 - [ ] Biomüll 
-- [ ] Schul-ID 
+- [x] Schul-ID 
 	- [x] einrichten 
 	- [x] Mail an jamil bzw Jana weiterleiten 
 	- [ ] mfa einrichten
