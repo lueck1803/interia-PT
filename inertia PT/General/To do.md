@@ -305,6 +305,10 @@
 
 - [x] gießen 
 - [ ] Keyboard in den Keller
+	- definitiv keine Chance
+- [ ] Musikblatt anmalen
+	- [ ] digital version anschauen ist die korrekt?
+	- [ ] digital anmalen
 - [x] Essen in den Kühlschrank
 - [ ] wischen
 - [ ] lösung mit der Biene durchlesen
