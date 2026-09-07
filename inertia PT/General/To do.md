@@ -311,12 +311,12 @@
 	- [ ] fr. Güldner hat das ja eher alles vermeiden wollen, deshalb wollte sie mit dir am Wochenende sprechen 
 	- [ ] stattdessen hat dein älterer Bruder mit ihr telefoniert, was auch eher einschüchternd wirkte
 	- [ ] es wurde Freitag schon von anderen Lehrern gesagt dass das einer Maßnahme bedarf, die sie verhindern wollte in dem sie mit dir telefoniert 
-	- [ ] fr Gödel hat Polizei eingeschaltet.
+	- [ ] fr ooettel hat Polizei eingeschaltet.
 	- [ ] es muss bei so einer Sache die Polizei eingeschaltet werden, das ist nicht überzogen 
 	- [ ] großes Problem war, dass die Wahrheit so Schritt für Schritt ans Licht kam und warum du nicht alles gleich erzählt hast, das hat vieles unplausibel wirken lassen 
 	- [ ] ist dir bewusst was der Verlust eines Generalschlüssels nachsich zieht 
 	- [ ] warum fr güldner dich in GL nicht angesprochen hat: sie wollte dich vor der gesamten Klasse nicht bloßstellen, sie hat gedacht du kommst auf sie zu bzw wenigstens in der Pause 🤷 so ist das halt jeder hat ne Erwartung und denkt was der andere machen soll
-	- [ ] Mittwoch sprechen fr Güldener und ich
+	- [ ] Mittwoch sprechen fr Güldener und ich nochmal mit fr iwanowa
 
 - [ ] Salma 8a der Gruppe hinzufügen 
 
