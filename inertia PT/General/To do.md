@@ -305,8 +305,9 @@
 
 - [ ] Hausaufgaben 8b und 8a in die Gruppe schreiben 
 - [ ] Haftpflicht und Diensthaftpflicht und Schlüssel Versicherung 
+G
 
-- [ ] Salma der Gruppe hinzufügen 
+- [ ] Salma 8a der Gruppe hinzufügen 
 
 
 - [ ] 8a schul.cloud einladen (vhtv3MohVD)
