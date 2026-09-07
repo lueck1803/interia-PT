@@ -305,7 +305,14 @@
 
 - [ ] Hausaufgaben 8b und 8a in die Gruppe schreiben 
 - [ ] Haftpflicht und Diensthaftpflicht und Schlüssel Versicherung 
-G
+- [ ] Gespräch mit salma
+	- [ ] warum hat sie sich bei fr güldner am Wochenende nicht gemeldet?
+	- [ ] versteht sie warum die Polizei eingeschaltet werden musste?
+	- [ ] fr. Güldner hat das ja eher alles vermeiden wollen, deshalb wollte sie mit dir am Wochenende sprechen 
+	- [ ] stattdessen hat dein älterer Bruder mit ihr telefoniert, was auch eher einschüchternd wirkte
+	- [ ] es wurde Freitag schon von anderen Lehrern gesagt dass das einer Maßnahme bedarf, die sie verhindern wollte in dem sie mit dir telefoniert 
+	- [ ] fr Gödel hat Polizei eingeschaltet.
+	- [ ] großes Problem war, dass die Wahrheit so Schritt für Schritt ans Licht kam und warum du nicht alles gleich erzählt hast, das ha
 
 - [ ] Salma 8a der Gruppe hinzufügen 
 
