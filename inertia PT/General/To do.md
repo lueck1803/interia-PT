@@ -319,11 +319,13 @@
 	- [x] p 10b %% fold %%
 	- [x] p 10a
 
+8.märz 8 uhr
+
 - [ ] Matheprüfung Aufgrundlage der Deutscharbeit machen 
 	- [ ] max 60 min
 	- [ ] zwei verschiedene Prüfungen für a und b
 	- [ ] 4 Aufgaben Brüche vergleichen 
-	- [ ] eine A
+	- [ ] eine 
 
 - [ ] Akteneintrag Mathis
 	- [x] Sprachaufzeichnung  %% fold %%
