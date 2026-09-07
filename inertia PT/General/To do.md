@@ -307,20 +307,23 @@
 	- [ ] salma Bashir adnan
 	- [ ] pavlo palamarchuk
 
-- [ ] Zähne putzen
-- [ ] lösung mit der Biene durchlesen
 - [ ] Tasten aus dem Briefkasten holen und einbauen
-
-- [x] kursmappe %% fold %%
+ %% fold %%
+- [x] kursmappe
 	- [x] m 5a %% fold %%
-	- [x] m 8a
-	- [x] m 8b
-	- [x] p 8a 
+	- [ ] m 8a
+	- [ ] m 8b
+	- [ ] p 8a 
 	- [x] p 8b
 	- [x] p 8c %% fold %%
 	- [x] p 10b %% fold %%
 	- [x] p 10a
 
+- [ ] Matheprüfung Aufgrundlage der Deutscharbeit machen 
+	- [ ] max 60 min
+	- [ ] zwei verschiedene Prüfungen für a und b
+	- [ ] 4 Aufgaben Brüche vergleichen 
+	- [ ] eine A
 
 - [ ] Akteneintrag Mathis
 	- [x] Sprachaufzeichnung  %% fold %%
@@ -329,12 +332,10 @@
 	- [ ] Stuhl aktion nach dem ich ihn wieder frei gelassen hatte?
 
 - [ ] Briefkasten checken
-- [ ] Decken wieder anbringen
-- [ ] ebay Lieferungsverfolgung checken
 - [ ] kleinen Tisch aufräumen 
 - [ ] Papierkram
 - [ ] Flaschen spülen 
-- [x] Duolingo 
+- [ ] Duolingo 
 - [ ] Französisch aufschreiben
 - [ ] brett spülen
 - [x] Carnivoren gießen
