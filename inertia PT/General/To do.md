@@ -319,7 +319,7 @@
 	- [x] p 10b %% fold %%
 	- [x] p 10a
 
-8.märz 8 uhr
+Zahnarzt 8.märz 8 uhr
 
 - [ ] Matheprüfung Aufgrundlage der Deutscharbeit machen 
 	- [ ] max 60 min
