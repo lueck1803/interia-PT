@@ -315,7 +315,8 @@
 	- [ ] es muss bei so einer Sache die Polizei eingeschaltet werden, das ist nicht überzogen 
 	- [ ] großes Problem war, dass die Wahrheit so Schritt für Schritt ans Licht kam und warum du nicht alles gleich erzählt hast, das hat vieles unplausibel wirken lassen 
 	- [ ] ist dir bewusst was der Verlust eines Generalschlüssels nachsich zieht 
-	- [ ] warum fr güldner dich in GL nicht angesprochen hat: sie wollte dich vor der gesamten Klasse nicht bloßstellen, sie hat gedacht du kommst auf sie zu bzw wenigstens in der Pause 🤷 so ist das Zeit halt jeder hat ne Erwartung 
+	- [ ] warum fr güldner dich in GL nicht angesprochen hat: sie wollte dich vor der gesamten Klasse nicht bloßstellen, sie hat gedacht du kommst auf sie zu bzw wenigstens in der Pause 🤷 so ist das halt jeder hat ne Erwartung und denkt was der andere machen soll
+	- [ ] Mittwoch sprechen fr Güldener und ich
 
 - [ ] Salma 8a der Gruppe hinzufügen 
 
