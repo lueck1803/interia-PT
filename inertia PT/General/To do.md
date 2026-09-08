@@ -300,7 +300,6 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- [ ] was ist das Problem mit dem schulportal login
 
 - [ ] Schul-id
 	- [ ] keypass aus der anmeldemethode raus
@@ -312,7 +311,7 @@
 
 - [ ] duschen
 
-- [ ] Anwesenheit Aaron Freitag ändern
+- [x] Anwesenheit Aaron Freitag ändern
 
 - [ ] Kaffeebehälter 
 
@@ -323,6 +322,8 @@
 
 - [ ] Eltern von Suhaib und Hamza anrufen
 	- [ ] wie lauten deren Nachnamen
+		- [ ] Miakhel, Ahmad Suhaib
+		- [ ] Aydin Hamza 
 
 - Esther, Yuna, Hamzi, Mohammed, Sophia, Aaron und Ali um Verzeihung bitten, dass ich sie Freitag nicht früher habe gehen lassen. Denn die verhalten sich immer vorbildlich. Ich hab in dem Moment selbst kurz Ruhe gebraucht, musste durchatmen und konnte nicht mehr gegen die Wand anreden. Musste mich sortieren. 
 - es haben sich einige Kinder auch so extrem dreist verhalten, da war ich auch einfach sprachlos und hab warten müssen, bis die aufhören zu reden und unruhig zu sein
