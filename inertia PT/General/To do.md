@@ -301,8 +301,8 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 
-- [ ] Schul-id
-	- [ ] keypass aus der anmeldemethode raus
+- [x] Schul-id
+	- [x] keypass aus der anmeldemethode raus
 
 - [x] Ümmü antworten 
 
