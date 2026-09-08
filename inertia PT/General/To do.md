@@ -302,9 +302,13 @@
 
 - [ ] was ist das Problem mit dem schulportal login
 
-- [ ] Ümmü antworten 
+- [ ] Schul-id
+	- [ ] keypass aus der anmeldemethode raus
+
+- [x] Ümmü antworten 
 
 - [ ] Claudia wegen suhaib Bescheid sagen
+	- [ ] nachname
 
 - [ ] duschen
 
@@ -318,6 +322,7 @@
 	- [ ] fahrradpumpe aufladen
 
 - [ ] Eltern von Suhaib und Hamza anrufen
+	- [ ] wie lauten deren Nachnamen
 
 - Esther, Yuna, Hamzi, Mohammed, Sophia, Aaron und Ali um Verzeihung bitten, dass ich sie Freitag nicht früher habe gehen lassen. Denn die verhalten sich immer vorbildlich. Ich hab in dem Moment selbst kurz Ruhe gebraucht, musste durchatmen und konnte nicht mehr gegen die Wand anreden. Musste mich sortieren. 
 - es haben sich einige Kinder auch so extrem dreist verhalten, da war ich auch einfach sprachlos und hab warten müssen, bis die aufhören zu reden und unruhig zu sein
