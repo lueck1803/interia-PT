@@ -311,7 +311,7 @@
 - [ ] Ebay schreiben, dass nur ein schanier dabei war 
 
 - [ ] Duolingo 
-- [ ] Seme
+- [ ] Semesterbeitrag
 
 
 - [ ] Eltern von Suhaib und Hamza anrufen
