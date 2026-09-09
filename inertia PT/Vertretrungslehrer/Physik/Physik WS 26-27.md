@@ -388,7 +388,7 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
   Da hier der Radius $r=\pu{ 18cm }$ ist, ist die Einheit des Volumens $[V]=\pu{cm\cdot cm\cdot cm}=\pu{cm^3}$ %% fold %%
 - $m_{\text{Abrissbirne}}=\rho_{\text{Eisen}}\cdot V_{\text{Abrissbirne}}$
 - $=\rho_{\text{Fe}}\cdot V_{\text{Kugel}}$
-- $=\rho_{\text{Fe}}\cdot \frac{4}{3}\pi r^{3}$
+- $=\rho_{\text{Fe}}\cdot \frac{4}{3}\pi r^{3}$ %% fold %%
 - $=\frac{4}{3}\pi \cdot \pu{7,87 \frac{g}{\cancel{ cm^3 }}  }\cdot (\pu{ 18\cancel{ cm } })^{3}$
 - $=\pu{192256g  }=\pu{192,26kg  }$
 - Breite x Höhe x Tiefe (B x H x T)
