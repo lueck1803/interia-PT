@@ -380,7 +380,7 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 - schul.cloud Einladungscode anschreiben
 
 <u>Lösung der Aufgabe 2 anschreiben:</u> %% fold %%
-- Dichte $\rho=\frac{m}{V}$, $[\rho]=\pu{\frac{kg}{m ^3}}$
+- Dichte $\rho=\frac{m}{V}$, $[\rho]=\pu{\frac{kg}{m ^3}}$ %% fold %%
 - $m_{\text{Abrissbirne}}=\rho_{\text{Eisen}}\cdot V_{\text{Abrissbirne}}$
 - Dichte von Eisen recherchieren: $\rho_{\text{Eisen}}=\pu{7,87 \frac{g}{cm^3}  }$
 - Volumen der Abrissbirne: Wir nehmen die Formel für das Volumen einer Kugel: $V_{\text{Kugel}}=\frac{4}{3}\pi r^{3}$
