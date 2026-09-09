@@ -306,8 +306,9 @@
 - [x] gießen
 - [x] Spülmaschine ausräumen
 - [x] Vorderrad Fahrrad aufpumpen 
-- [ ] den Rest zu der 10a Gruppe hinzufügen 
+- [x] den Rest zu der 10a Gruppe hinzufügen 
 - [ ] Achsel rasieren 
+- [ ] Ebay schreiben, dass nur ein schanier dabei war 
 
 
 
@@ -321,8 +322,8 @@
 
 - [ ] Hausaufgaben 8b und 8a in die Gruppe schreiben 
 - [ ] Haftpflicht und Diensthaftpflicht und Schlüssel Versicherung 
-- [ ] Gespräch mit salma
-	- [ ] warum hat sie sich bei fr güldner am Wochenende nicht gemeldet?
+- [ ] Gespräch mit salma %% fold %%
+	- [ ] warum hat sie sich bei fr güldner am Wochenende nicht gemeldet? %% fold %%
 	- [ ] versteht sie warum die Polizei eingeschaltet werden musste?
 	- [ ] fr. Güldner hat das ja eher alles vermeiden wollen, deshalb wollte sie mit dir am Wochenende sprechen 
 	- [ ] stattdessen hat dein älterer Bruder mit ihr telefoniert, was auch eher einschüchternd wirkte
@@ -341,17 +342,17 @@
 	- [ ] salma Bashir adnan
 	- [ ] pavlo palamarchuk
 
-- [ ] Tasten aus dem Briefkasten holen und einbauen
+- [x] Tasten aus dem Briefkasten holen und einbauen
  %% fold %%
 - [x] kursmappe
-	- [x] m 5a %% fold %%
+	- [ ] m 5a %% fold %%
 	- [ ] m 8a
 	- [ ] m 8b
 	- [ ] p 8a 
-	- [x] p 8b
-	- [x] p 8c %% fold %%
+	- [ ] p 8b
+	- [ ] p 8c %% fold %%
 	- [x] p 10b %% fold %%
-	- [x] p 10a
+	- [ ] p 10a
 
 Zahnarzt 8.märz 8 uhr
 
