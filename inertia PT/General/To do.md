@@ -302,9 +302,9 @@
 
 - [ ] Aldi 
 	- [ ] Toast 
-- [ ] Teiche auffüllen 
-- [ ] gießen 
-- [ ] Spülmaschine ausräumen 
+- [x] Teiche auffüllen
+- [x] gießen
+- [x] Spülmaschine ausräumen
 - [x] Vorderrad Fahrrad aufpumpen 
 - [ ] den Rest zu der 10a Gruppe hinzufügen 
 - [ ] Achsel rasieren 
