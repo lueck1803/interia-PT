@@ -302,7 +302,7 @@
 
 - [ ] Aldi 
 	- [ ] Toast 
-- [ ] Teich auffüllen 
+- [ ] Teiche auffüllen 
 - [ ] gießen 
 - [ ] Spülmaschine ausräumen 
 - [x] Vorderrad Fahrrad aufpumpen 
