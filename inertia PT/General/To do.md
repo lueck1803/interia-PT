@@ -310,6 +310,7 @@
 - [ ] Achsel rasieren 
 - [ ] Ebay schreiben, dass nur ein schanier dabei war 
 
+- [ ] Duolingo 
 
 
 - [ ] Eltern von Suhaib und Hamza anrufen
@@ -368,13 +369,10 @@ Zahnarzt 8.märz 8 uhr
 	- [ ] das hat er geleugnet 
 	- [ ] Stuhl aktion nach dem ich ihn wieder frei gelassen hatte?
 
-- [ ] Briefkasten checken
 - [ ] kleinen Tisch aufräumen 
 - [ ] Papierkram
 - [ ] Flaschen spülen 
-- [ ] Duolingo 
 - [ ] Französisch aufschreiben
-- [ ] brett spülen
 - [x] Carnivoren gießen
 - [ ] sofalehne dampfen
 - [ ] Batterie außen Thermometer  %% fold %%
@@ -386,7 +384,7 @@ Zahnarzt 8.märz 8 uhr
 - [ ] Mich dringend um den Rechner kümmern %% fold %%
  %% fold %%
  %% fold %%
-- [ ] schul.cloud Gruppe für 10a und b machen. Kai Wörner ansprechen  %% fold %%
+- [ ] schul.cloud Gruppe für 10a und b machen. Kai Wörner ansprechen
 	- [ ] Lösung zur heutigen Aufgabe in die Gruppe der 10b posten. Mit Erklärung  %% fold %%
 	- [ ] Keiner aus samiha sind auf schul.cloud %% fold %%
 
