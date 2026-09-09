@@ -304,6 +304,8 @@
 	- [ ] Toast 
 - [ ] Teich auffüllen 
 - [ ] gießen 
+- [ ] Spülmaschine ausräumen 
+- [ ] Vorderrad 
 
 
 - [ ] fahrradpumpe 
