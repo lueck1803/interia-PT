@@ -301,18 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 
-- [x] Schul-id
-	- [x] keypass aus der anmeldemethode raus
 
-- [x] Ümmü antworten 
-
-- [x] Claudia wegen suhaib Bescheid sagen
-
-- [ ] duschen
-
-- [x] Anwesenheit Aaron Freitag ändern
-
-- [ ] Kaffeebehälter 
 
 - [ ] fahrradpumpe 
 	- [ ] Anleitung lesen und in die hülle packen - wie speichere ich die Einheit und den Druck?
