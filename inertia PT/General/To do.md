@@ -305,8 +305,9 @@
 - [ ] Teich auffüllen 
 - [ ] gießen 
 - [ ] Spülmaschine ausräumen 
-- [ ] Vorderrad Fahrrad aufpumpen 
+- [x] Vorderrad Fahrrad aufpumpen 
 - [ ] den Rest zu der 10a Gruppe hinzufügen 
+- [ ] 
 
 
 - [ ] fahrradpumpe 
