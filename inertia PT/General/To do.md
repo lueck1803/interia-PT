@@ -307,13 +307,7 @@
 - [ ] Spülmaschine ausräumen 
 - [x] Vorderrad Fahrrad aufpumpen 
 - [ ] den Rest zu der 10a Gruppe hinzufügen 
-- [ ] 
-
-
-- [ ] fahrradpumpe 
-	- [ ] Anleitung lesen und in die hülle packen - wie speichere ich die Einheit und den Druck?
-	- [ ] fahrrad aufpumpen
-	- [ ] fahrradpumpe aufladen
+- [ ] Achsel rasieren 
 
 - [ ] Eltern von Suhaib und Hamza anrufen
 	- [ ] wie lauten deren Nachnamen
@@ -382,7 +376,7 @@ Zahnarzt 8.märz 8 uhr
 - [ ] sofalehne dampfen
 - [ ] Batterie außen Thermometer 
 - [ ] Kapitel §17 vom künkel lesen
-- [x] Laptop 
+- [x] Laptop  %% fold %%
 	- [x] a2337
 	- [x] Tasten bestellt %% fold %%
 - [ ] Biomüll  %% fold %%
