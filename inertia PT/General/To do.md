@@ -309,6 +309,10 @@
 - [ ] den Rest zu der 10a Gruppe hinzufügen 
 - [ ] Achsel rasieren 
 
+Dies ist ein test ++++**** ob die Tast** tatur wieder geht...
+
+### test
+
 - [ ] Eltern von Suhaib und Hamza anrufen
 	- [ ] wie lauten deren Nachnamen
 		- [ ] Miakhel, Ahmad Suhaib
@@ -374,10 +378,10 @@ Zahnarzt 8.märz 8 uhr
 - [ ] brett spülen
 - [x] Carnivoren gießen
 - [ ] sofalehne dampfen
-- [ ] Batterie außen Thermometer 
-- [ ] Kapitel §17 vom künkel lesen
+- [ ] Batterie außen Thermometer  %% fold %%
+- [ ] Kapitel §17 vom künkel lesen %% fold %%
 - [x] Laptop  %% fold %%
-	- [x] a2337
+	- [x] a2337 %% fold %%
 	- [x] Tasten bestellt %% fold %%
 - [ ] Biomüll  %% fold %%
 - [ ] Mich dringend um den Rechner kümmern %% fold %%
