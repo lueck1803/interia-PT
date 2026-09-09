@@ -309,9 +309,7 @@
 - [ ] den Rest zu der 10a Gruppe hinzufügen 
 - [ ] Achsel rasieren 
 
-Dies ist ein test ++++**** ob die Tast** tatur wieder geht...
 
-### test
 
 - [ ] Eltern von Suhaib und Hamza anrufen
 	- [ ] wie lauten deren Nachnamen
