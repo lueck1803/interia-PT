@@ -312,6 +312,7 @@
 
 - [ ] Duolingo 
 - [ ] Semesterbeitrag
+- [ ] sus Akkorde am Klavier probieren 
 
 
 - [ ] Eltern von Suhaib und Hamza anrufen
