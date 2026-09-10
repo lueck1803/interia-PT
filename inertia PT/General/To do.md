@@ -359,14 +359,14 @@
 	- [ ] pavlo palamarchuk
 
  %% fold %%
-- [x] kursmappe
+- [ ] kursmappe
 	- [ ] m 5a %% fold %%
 	- [ ] m 8a
 	- [ ] m 8b
 	- [ ] p 8a 
 	- [ ] p 8b
 	- [ ] p 8c %% fold %%
-	- [x] p 10b %% fold %%
+	- [ ] p 10b %% fold %%
 	- [ ] p 10a
 
 - [ ] Zahnarzt 8.märz 8 uhr in den Kalender eingetragen 
@@ -377,7 +377,6 @@
 	- [ ] 4 Aufgaben Brüche vergleichen 
 	- [ ] eine 
 
-
 - [ ] kleinen Tisch aufräumen 
 - [ ] Papierkram
 - [ ] Flaschen spülen 
@@ -387,10 +386,6 @@
 - [ ] Kapitel §17 vom künkel lesen %% fold %%
 - [ ] Biomüll  %% fold %%
 - [ ] Mich dringend um den Rechner kümmern
- %% fold %%
- %% fold %%
-
-
  %% fold %%
 - [ ] Arbeitsblatt der 10ten Klasse ab ändern
 	- [ ] A) oben weg machen
@@ -458,10 +453,7 @@
 	- [x] 8b M+P Gruppenbild ändern
 	- [x] 8c P Gruppe erstellen
 	
-- [ ] mac Tastatur %% fold %%
-	- [ ] neue Tasten für mac bestellen %% fold %%
-	- [ ] selbst reparieren %% fold %%
- %% fold %%
+ 
  %% fold %%
 
 
@@ -473,10 +465,6 @@
  %% fold %%
 - [ ] Kopfhörer putzen  %% fold %%
 - [ ] black waltz %% fold %%
-- [ ] Mutter von Mathis schreiben %% fold %%
-	- [x] ADHS Hilfe Deutschland %% fold %%
-	- [ ] sogar nochmal geschrieben... %% fold %%
-	- [ ] dann später den Kostenvoranschlag %% fold %%
 - [ ] Mathe handout %% fold %%
 	- [ ] Beispiel für
 		- [x] kleinstes gemeinsames Vielfaches
