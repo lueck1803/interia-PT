@@ -309,6 +309,7 @@
 - [x] den Rest zu der 10a Gruppe hinzufügen 
 - [ ] Achsel rasieren 
 - [ ] Ebay schreiben, dass nur ein schanier dabei war 
+- [ ] Akteneintrag Mathis 
 
 - [ ] Duolingo 
 - [ ] Semesterbeitrag
@@ -324,7 +325,7 @@
 - es haben sich einige Kinder auch so extrem dreist verhalten, da war ich auch einfach sprachlos und hab warten müssen, bis die aufhören zu reden und unruhig zu sein
 
 - [ ] Hausaufgaben 8b und 8a in die Gruppe schreiben 
-- [ ] Haftpflicht und Diensthaftpflicht und Schlüssel Versicherung 
+- [ ] Haftpflicht und Diensthaftpflicht und Schlüssel Versicherung  %% fold %%
 - [ ] Gespräch mit salma %% fold %%
 	- [ ] warum hat sie sich bei fr güldner am Wochenende nicht gemeldet? %% fold %%
 	- [ ] versteht sie warum die Polizei eingeschaltet werden musste?
