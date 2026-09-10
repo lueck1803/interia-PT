@@ -390,7 +390,8 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 - $=\rho_{\text{Fe}}\cdot V_{\text{Kugel}}$
 - $=\rho_{\text{Fe}}\cdot \frac{4}{3}\pi r^{3}$ %% fold %%
 - $=\frac{4}{3}\pi \cdot \pu{7,87 \frac{g}{\cancel{ cm^3 }}  }\cdot (\pu{ 18\cancel{ cm } })^{3}$
-- $=\pu{192256g  }=\pu{192,26kg  }$
+- $=\pu{192256g  }\approx\pu{192,26kg  }$
+- ⤷ im letzten Schritt wurde gerundet.
 - Breite x Höhe x Tiefe (B x H x T)
 
 <u>Gleichung umstellen:</u>
