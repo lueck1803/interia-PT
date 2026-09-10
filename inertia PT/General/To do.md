@@ -309,7 +309,8 @@
 - [x] den Rest zu der 10a Gruppe hinzufügen 
 - [ ] Achsel rasieren 
 - [ ] Ebay schreiben, dass nur ein schanier dabei war 
-- [ ] Akteneintrag Mathis 
+- [ ] Akteneintrag Mathis
+- [ ] mail an kathi wegen 
 
 - [ ] Duolingo 
 - [ ] Semesterbeitrag
