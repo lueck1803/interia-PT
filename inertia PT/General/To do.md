@@ -314,6 +314,7 @@
 	- [ ] Toast 
 	- [ ] Süßigkeiten 
 	- [ ] Saft 
+	- [ ] Schokohörnchen 8a
 - [x] Teiche auffüllen
 - [ ] gießen
 - [x] Spülmaschine ausräumen
