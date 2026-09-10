@@ -340,7 +340,7 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 		- hier handelt es sich um ein Gas, was kompressibel ist. ja.... wasser und auch stahl ist kompressibel xD... 
 		- Aber unter den natürlich auftretenden Bedingungen hat das eine klar bemerkbaren effekt: exponential funktion - barometrische höhenformel
 	- Schiffe die Schwimmen
-		- archimedisches prinzip
+		- archimedisches prinzip %% fold %%
 		- ![[../../../Pasted image 20260819012547.png]]
 		- ![[../../../Pasted image 20260819012601.png]]
 		- ![[../../../Pasted image 20260819012618.png]]
