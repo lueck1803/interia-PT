@@ -305,21 +305,21 @@
 	- [ ] letzte plus 
 	- [ ] terme zusammen fassen 
 	- [ ] und variablen einsetzen können 
-- [ ] mentees den scan schicken 
-- [ ] frau moog reden wegen 8c - zu spät im Unterricht wegen Gespräch mit mir
+- [x] mentees den scan schicken 
+- [x] frau moog reden wegen 8c - zu spät im Unterricht wegen Gespräch mit mir
 - [ ] Aldi 
 	- [ ] Toast 
 	- [ ] Süßigkeiten 
 	- [ ] Saft 
 - [x] Teiche auffüllen
-- [x] gießen
+- [ ] gießen
 - [x] Spülmaschine ausräumen
 - [x] Vorderrad Fahrrad aufpumpen 
 - [x] den Rest zu der 10a Gruppe hinzufügen 
 - [ ] Achsel rasieren 
 - [ ] Ebay schreiben, dass nur ein schanier dabei war 
-- [ ] Akteneintrag Mathis
-- [ ] mail an kathi wegen e und g Kursen 
+- [x] Akteneintrag Mathis
+- [x] mail an kathi wegen e und g Kursen 
 - [ ] fritz kunkel
 - [ ] elias Ausfertigung 
 - [ ] ipad pro?
