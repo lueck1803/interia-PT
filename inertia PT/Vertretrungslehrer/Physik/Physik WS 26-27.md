@@ -396,7 +396,12 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 <u>Gleichung umstellen:</u>
 Folgende Gleichung soll nach $x$ umgestellt werden
 - $y=mx+b \quad \left| \color{green}-b \right.$
-- Ergänze Vorzeichen von $y \Rightarrow {\color{green}$
+- Ergänze Vorzeichen von $y \Rightarrow {\color{green}+}y$
+- ⤷ denn $y-b {\color{red}\ne } b-y$ aber $+y-b {\color{green}= } -b+y$
+- ${\color{green}+}y{\color{green}-b}=mx \quad \left| \color{green}\div m \right.$
+- Beim Teilen Distributivgesetz beachten, deshalb ist es sinnvoll Brüche zu verwenden, denn $({\color{green}+}y{\color{green}-b})$
+- $\frac{{\color{green}+}y{\color{green}-b}}{\color{green}m}=x \quad$
+- 
 # Handout 
 ## 8te 
 ### Worum geht es in der Physik? (nochmal Video von dem russischen Prof schauen)
