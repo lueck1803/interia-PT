@@ -304,6 +304,7 @@
 - [ ] Tisch wischen 
 - [ ] carnivoren gießen 
 - [ ] Walnuss umsetzen 
+- [ ] Küchenflächen wischen 
 - [ ] zähne putzen
 - [ ] Checkliste Mathe schreiben 
 	- [ ] letzte plus 
