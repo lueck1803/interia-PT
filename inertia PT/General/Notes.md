@@ -103,6 +103,59 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+## 2026-09-10
+Was die vocals angeht ist der song aber auch echt fair. 
+
+Text ist größtenteils an Stellen an denen die Gitarre "einfach" ist. 
+
+Das hab ich auch schon angetestet. 
+
+Auch die Stelle die mit Text schwer ist. Letzteres aber nicht auf 100%. Immerhin ist der Text da einfach 😅.
+
+Zur Not kann mein Kumpel da vocals machen. 
+
+Aber das bekomme ich mit Übung hin. 
+
+Aber intro und solo. 
+
+Wobei ich beim harten Teil vom solo unglaublicherweise schon bei 50% war. 
+
+Für den Auftritt haben wir es dann aber verworfen. 
+
+Zumal da eh erstmal kein wir war... 
+
+Ich stand ja alleine da, da der da Urlaub gebucht hatte. 
+
+Wir hatten mal wieder aneinander vorbei geredet... 
+
+Und am Ende standen wir durch Zufall doch auf der Bühne. 
+
+Die Moderation hat da jedenfalls ne story draus gemacht 😅.
+
+Weil er so 3 Wochen vorher zu mir meinte "jo also wir haben den Urlaub jetzt verschoben... Bist du für den Auftritt angemeldet? Ich könnte dich bei Waffenbrüder supporten." 
+
+Und ich "ja man dann haben wir ja Kapazität für nen zweiten Song" 😅.
+
+Musste ich natürlich selbst erst noch den Text zur Gitarre synchronisieren 😂... 
+Gar nicht so einfach bei nem 6/8 Takt. 
+
+Die zweite Strophe war auch hart, bis ich den Takt gerafft habe. Die Übergänge... Und ich musste während dem song noch mit dem Fuß die Verstärker presets einstellen 😅.
+
+Dafür ist das so gut geworden. 
+
+Obwohl die Luft im Hörsaal an dem Tag die Hölle war. 
+
+Wir haben so viel zu Spruch bekommen und mir wurde unterstellt ich sei voll professionell und ne Rampensau. 
+
+Wenn die gewusst hätten wie es innerlich in mir aussah. 
+
+Zum Glück hab ich niemanden gesehen da die Scheinwerfer so hell waren. 
+
+--
+
+Ich hab nachher echt nicht verstanden dass die ernst gemeint stark applaudiert haben. Ich dachte das war so "props dass du es trotzdem durchgezogen hast Applaus". 
+
+Standen dann Leute um uns und meinten "kannte die Band nicht, aber das hat so eine Atmosphäre gebracht dass ich gleich mal nach der Band gesucht habe" 🫣
 ## 2026-09-05
 1. Sehr viel 2.Nur Gutes 3. Melanie Mohr 😋 4. Extrem höflich mit dem Hang zur Selbstaufgabe. Sehr verunsichert. 
 Du machst/fragst etwas, was dir auf der Zunge liegt und dann hast du das Gefühl "oh das war doof oder falsch, es tut mir leid und ich zieh mich zurück" 
@@ -548,7 +601,7 @@ Hey
 
 Ich nehme die dann. 😉
 
-Ich hätte sie dir auch in den Briefkasten geworfen.
+Ich hätte sie dir auch in den Briefkasten geworfen. %% fold %%
 
 3. Person ist Quatsch.
 
