@@ -317,6 +317,8 @@
 - [ ] elias Ausfertigung 
 - [ ] ipad pro?
 - [ ] neues handy?
+- [ ] Akustik Gitarre 
+
 
 - [ ] Duolingo 
 - [ ] Semesterbeitrag
