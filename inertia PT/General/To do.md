@@ -385,20 +385,12 @@
 - [ ] sofalehne dampfen
 - [ ] Batterie außen Thermometer  %% fold %%
 - [ ] Kapitel §17 vom künkel lesen %% fold %%
-- [x] Laptop
-	- [x] a2337 %% fold %%
-	- [x] Tasten bestellt %% fold %%
 - [ ] Biomüll  %% fold %%
-- [ ] Mich dringend um den Rechner kümmern %% fold %%
+- [ ] Mich dringend um den Rechner kümmern
  %% fold %%
  %% fold %%
-- [ ] schul.cloud Gruppe für 10a und b machen. Kai Wörner ansprechen
-	- [ ] Lösung zur heutigen Aufgabe in die Gruppe der 10b posten. Mit Erklärung  %% fold %%
-	- [ ] Keiner aus samiha sind auf schul.cloud %% fold %%
 
 
-- [ ] wegen mathis mutter sprechen %% fold %%
-	- [ ] hab sie angetroffen und ihr gesagt, dass ich es nicht vergessen habe und sie mich bei Gelegenheit darauf ansprechen soll/darf.
  %% fold %%
 - [ ] Arbeitsblatt der 10ten Klasse ab ändern
 	- [ ] A) oben weg machen
@@ -409,7 +401,6 @@
 - [ ] schriftliches dividieren, wann kommen nullen rein?
 - [ ] Epson beamer - usb video Wlan
 - [ ] Friseur 
-- [x] Umfrage in 8b wegen Formelsammlung 
 
 - [ ] bloody valkyria - age of stars piano raus hören 
 - [ ] hab ich das mesa metalcore preset auf dem podgo
