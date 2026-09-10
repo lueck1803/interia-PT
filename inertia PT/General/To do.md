@@ -320,8 +320,6 @@
 - [ ] Ebay schreiben, dass nur ein schanier dabei war 
 - [ ] fritz kunkel
 - [ ] elias Ausfertigung 
-- [ ] ipad pro?
-- [ ] neues handy?
 - [ ] Akustik Gitarre 
 
 
@@ -360,7 +358,6 @@
 	- [ ] salma Bashir adnan
 	- [ ] pavlo palamarchuk
 
-- [x] Tasten aus dem Briefkasten holen und einbauen
  %% fold %%
 - [x] kursmappe
 	- [ ] m 5a %% fold %%
@@ -372,7 +369,7 @@
 	- [x] p 10b %% fold %%
 	- [ ] p 10a
 
-Zahnarzt 8.märz 8 uhr
+- [ ] Zahnarzt 8.märz 8 uhr in den Kalender eingetragen 
 
 - [ ] Matheprüfung Aufgrundlage der Deutscharbeit machen 
 	- [ ] max 60 min
@@ -380,21 +377,15 @@ Zahnarzt 8.märz 8 uhr
 	- [ ] 4 Aufgaben Brüche vergleichen 
 	- [ ] eine 
 
-- [ ] Akteneintrag Mathis
-	- [x] Sprachaufzeichnung  %% fold %%
-	- [ ] noch dazu vermerken, dass ich ihn angesprochen hatte zu Beginn des Unterrichts dass er im Treppenhaus herunter gespuckt hat, während ich mit den anderen Kindern die Treppe hoch kam. Da habe ich ihn vorsichtig gefragt ob er es war %% fold %%
-	- [ ] das hat er geleugnet 
-	- [ ] Stuhl aktion nach dem ich ihn wieder frei gelassen hatte?
 
 - [ ] kleinen Tisch aufräumen 
 - [ ] Papierkram
 - [ ] Flaschen spülen 
 - [ ] Französisch aufschreiben
-- [x] Carnivoren gießen
 - [ ] sofalehne dampfen
 - [ ] Batterie außen Thermometer  %% fold %%
 - [ ] Kapitel §17 vom künkel lesen %% fold %%
-- [x] Laptop  %% fold %%
+- [x] Laptop
 	- [x] a2337 %% fold %%
 	- [x] Tasten bestellt %% fold %%
 - [ ] Biomüll  %% fold %%
