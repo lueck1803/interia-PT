@@ -315,6 +315,8 @@
 - [ ] mail an kathi wegen e und g Kursen 
 - [ ] fritz kunkel
 - [ ] elias Ausfertigung 
+- [ ] ipad pro?
+- [ ] neues handy?
 
 - [ ] Duolingo 
 - [ ] Semesterbeitrag
