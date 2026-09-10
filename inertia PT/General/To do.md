@@ -303,6 +303,7 @@
 - [ ] Gesamtkonferenz am Montag in den Kalender 
 - [ ] Tisch wischen 
 - [ ] carnivoren gießen 
+- [ ] zähne putz
 - [ ] Checkliste Mathe schreiben 
 	- [ ] letzte plus 
 	- [ ] terme zusammen fassen 
