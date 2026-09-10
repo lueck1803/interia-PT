@@ -302,7 +302,9 @@
 
 - [ ] Gesamtkonferenz am Montag in den Kalender 
 - [ ] Checkliste Mathe schreiben 
-	- [ ] letzte plu
+	- [ ] letzte plus 
+	- [ ] terme zusammen fassen 
+	- [ ] und variablen einsetzen können 
 - [ ] mentees den scan schicken 
 - [ ] frau moog reden wegen 8c - zu spät im Unterricht wegen Gespräch mit mir
 - [ ] Aldi 
