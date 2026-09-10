@@ -316,7 +316,7 @@
 	- [ ] Süßigkeiten 
 	- [ ] Saft 
 	- [ ] Schokohörnchen 8a
-- [ ] gießen
+- [x] gießen
 - [ ] Achsel rasieren 
 - [ ] Ebay schreiben, dass nur ein schanier dabei war 
 - [ ] fritz kunkel
