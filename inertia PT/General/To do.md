@@ -300,8 +300,8 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- [ ] 
-- [ ] frau moog reden wegen 8c - zu spät im Unterricht 
+- [ ] Gesamtkonferenz am Montag in den Kalender 
+- [ ] frau moog reden wegen 8c - zu spät im Unterricht wegen Gespräch mit mir
 - [ ] Aldi 
 	- [ ] Toast 
 	- [ ] Süßigkeiten 
