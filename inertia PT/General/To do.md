@@ -313,10 +313,10 @@
 	- [ ] und variablen einsetzen können 
 - [ ] Aldi 
 	- [ ] Toast 
-	- [ ] Süßigkeiten 
-	- [ ] Saft 
-	- [ ] Schokohörnchen 8a
-	- [ ] bier 
+	- [x] Süßigkeiten 
+	- [x] Saft 
+	- [x] Schokohörnchen 8a
+	- [x] bier 
 - [x] gießen
 - [x] Achsel rasieren 
 - [ ] Ebay schreiben, dass nur ein schanier dabei war 
