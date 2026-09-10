@@ -310,7 +310,9 @@
 - [ ] Achsel rasieren 
 - [ ] Ebay schreiben, dass nur ein schanier dabei war 
 - [ ] Akteneintrag Mathis
-- [ ] mail an kathi wegen 
+- [ ] mail an kathi wegen e und g Kursen 
+- [ ] fritz kunkel
+- [ ] elias Ausfertigung 
 
 - [ ] Duolingo 
 - [ ] Semesterbeitrag
