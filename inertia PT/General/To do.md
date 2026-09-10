@@ -316,8 +316,9 @@
 	- [ ] Süßigkeiten 
 	- [ ] Saft 
 	- [ ] Schokohörnchen 8a
+	- [ ] bier 
 - [x] gießen
-- [ ] Achsel rasieren 
+- [x] Achsel rasieren 
 - [ ] Ebay schreiben, dass nur ein schanier dabei war 
 - [ ] fritz kunkel
 - [ ] elias Ausfertigung 
