@@ -301,6 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Gesamtkonferenz am Montag in den Kalender 
+- [ ] Küche flächen + Ceranfeld wischen
 - [ ] Tisch wischen 
 - [ ] carnivoren gießen 
 - [ ] Walnuss umsetzen 
