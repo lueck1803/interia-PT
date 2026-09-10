@@ -302,6 +302,8 @@
 
 - [ ] Aldi 
 	- [ ] Toast 
+	- [ ] Süßigkeiten 
+	- [ ] Saft 
 - [x] Teiche auffüllen
 - [x] gießen
 - [x] Spülmaschine ausräumen
