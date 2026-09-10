@@ -399,9 +399,8 @@ Folgende Gleichung soll nach $x$ umgestellt werden
 - Ergänze Vorzeichen von $y \Rightarrow {\color{green}+}y$
 - ⤷ denn $y-b {\color{red}\ne } b-y$ aber $+y-b {\color{green}= } -b+y$
 - ${\color{green}+}y{\color{green}-b}=mx \quad \left| \color{green}\div m \right.$
-- Beim Teilen Distributivgesetz beachten, deshalb ist es sinnvoll Brüche zu verwenden, denn $({\color{green}+}y{\color{green}-b})$
+- Beim Teilen Distributivgesetz beachten, deshalb ist es sinnvoll Brüche zu verwenden, denn $({\color{green}+}y{\color{green}-b}){\color{orange}:m} {\color{red}\ne}{\color{orange}m:}({\color{green}+}y{\color{green}-b})$
 - $\frac{{\color{green}+}y{\color{green}-b}}{\color{green}m}=x \quad$
-- 
 # Handout 
 ## 8te 
 ### Worum geht es in der Physik? (nochmal Video von dem russischen Prof schauen)
