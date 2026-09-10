@@ -310,22 +310,14 @@
 	- [ ] letzte plus 
 	- [ ] terme zusammen fassen 
 	- [ ] und variablen einsetzen können 
-- [x] mentees den scan schicken 
-- [x] frau moog reden wegen 8c - zu spät im Unterricht wegen Gespräch mit mir
 - [ ] Aldi 
 	- [ ] Toast 
 	- [ ] Süßigkeiten 
 	- [ ] Saft 
 	- [ ] Schokohörnchen 8a
-- [x] Teiche auffüllen
 - [ ] gießen
-- [x] Spülmaschine ausräumen
-- [x] Vorderrad Fahrrad aufpumpen 
-- [x] den Rest zu der 10a Gruppe hinzufügen 
 - [ ] Achsel rasieren 
 - [ ] Ebay schreiben, dass nur ein schanier dabei war 
-- [x] Akteneintrag Mathis
-- [x] mail an kathi wegen e und g Kursen 
 - [ ] fritz kunkel
 - [ ] elias Ausfertigung 
 - [ ] ipad pro?
@@ -346,7 +338,7 @@
 - Esther, Yuna, Hamzi, Mohammed, Sophia, Aaron und Ali um Verzeihung bitten, dass ich sie Freitag nicht früher habe gehen lassen. Denn die verhalten sich immer vorbildlich. Ich hab in dem Moment selbst kurz Ruhe gebraucht, musste durchatmen und konnte nicht mehr gegen die Wand anreden. Musste mich sortieren. 
 - es haben sich einige Kinder auch so extrem dreist verhalten, da war ich auch einfach sprachlos und hab warten müssen, bis die aufhören zu reden und unruhig zu sein
 
-- [ ] Hausaufgaben 8b und 8a in die Gruppe schreiben 
+- [ ] Hausaufgaben 8b und 8a in die Gruppe schreiben  %% fold %%
 - [ ] Haftpflicht und Diensthaftpflicht und Schlüssel Versicherung  %% fold %%
 - [ ] Gespräch mit salma %% fold %%
 	- [ ] warum hat sie sich bei fr güldner am Wochenende nicht gemeldet? %% fold %%
