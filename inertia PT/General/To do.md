@@ -331,7 +331,7 @@
  %% fold %%
  %% fold %%
 - [ ] Haftpflicht und Diensthaftpflicht und Schlüssel Versicherung  %% fold %%
-- [ ] Gespräch mit salma %% fold %%
+- [ ] Gespräch mit salma
 	- [ ] warum hat sie sich bei fr güldner am Wochenende nicht gemeldet? %% fold %%
 	- [ ] versteht sie warum die Polizei eingeschaltet werden musste?
 	- [ ] fr. Güldner hat das ja eher alles vermeiden wollen, deshalb wollte sie mit dir am Wochenende sprechen 
