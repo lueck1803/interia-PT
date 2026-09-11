@@ -301,7 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - [ ] Mathearbeit 5a?
 - [ ] gießen 
-- [ ] Nudeln kochen 
+- [x] Nudeln kochen
 - [ ] checkliste für 8te klasse mathe, so wie anas sie mir geschickt hat
 - [ ] Gesamtkonferenz am Montag in den Kalender 
 - [ ] daniel / jana fragen wegen Schlüssel, damit ich in den musikraum auch am wochenende kann?
@@ -396,7 +396,7 @@
 - [ ] grüne schuhe aufrauen
 
 
-- [x] AOK App checken
+- [x] AOK App checken %% fold %%
 	- [ ] war nur Magazine 
 - [ ] Black Waltz
 
