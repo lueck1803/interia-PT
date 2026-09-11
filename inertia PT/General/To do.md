@@ -301,6 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Gesamtkonferenz am Montag in den Kalender 
+- [ ] daniel / jana fragen wegen Schlüssel, damit ich in den musikraum auch am wochenende kann?
 - [ ] Küche flächen + Ceranfeld wischen
 - [ ] Tisch wischen 
 - [ ] carnivoren gießen 
@@ -469,7 +470,7 @@
 - [ ] black waltz %% fold %%
 - [ ] Mathe handout %% fold %%
 	- [ ] Beispiel für
-		- [x] kleinstes gemeinsames Vielfaches
+		- [x] kleinstes gemeinsames Vielfaches %% fold %%
 		- [x] größter gemeinsamer Teiler
 	- [x] kleinstes gemeinsames Vielfaches von zahlen der gleichen Reihe? kürzen? %% fold %%
 - [ ] in meinem Bericht die Reihenfolge mit dem stuhl ändern
