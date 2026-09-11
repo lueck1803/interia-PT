@@ -301,7 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - [ ] Mathearbeit 5a?
 - [ ] gießen 
-- [ ] 
+- [ ] checkliste für 8te klasse mathe, so wie anas sie mir geschickt hat
 - [ ] Gesamtkonferenz am Montag in den Kalender 
 - [ ] daniel / jana fragen wegen Schlüssel, damit ich in den musikraum auch am wochenende kann?
 - [ ] akustisches klavier oder ähnliches kaufen
