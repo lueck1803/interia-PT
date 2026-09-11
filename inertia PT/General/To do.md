@@ -302,6 +302,7 @@
 
 - [ ] Gesamtkonferenz am Montag in den Kalender 
 - [ ] daniel / jana fragen wegen Schlüssel, damit ich in den musikraum auch am wochenende kann?
+- [ ] akustisches klavier oder ähnliches kaufen
 - [ ] Küche flächen + Ceranfeld wischen
 - [ ] Tisch wischen 
 - [ ] carnivoren gießen 
