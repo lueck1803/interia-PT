@@ -301,10 +301,11 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - [ ] Mathearbeit 5a?
 - [ ] gießen 
+- [ ] kandes wegen Lehrplan schreiben 
 - [x] Nudeln kochen
+- [ ] Spülmaschine ausräumen 
 - [ ] checkliste für 8te klasse mathe, so wie anas sie mir geschickt hat
 - [ ] Gesamtkonferenz am Montag in den Kalender 
-- [ ] daniel / jana fragen wegen Schlüssel, damit ich in den musikraum auch am wochenende kann?
 - [ ] akustisches klavier oder ähnliches kaufen
 - [ ] Küche flächen + Ceranfeld wischen
 - [ ] Tisch wischen 
@@ -319,7 +320,6 @@
 - [ ] Ebay schreiben, dass nur ein schanier dabei war 
 - [ ] fritz kunkel
 - [ ] elias Ausfertigung 
-- [ ] Akustik Gitarre 
 
 
 - [ ] Duolingo 
@@ -395,9 +395,9 @@
 - [ ] text von elias lesen 
 - [ ] grüne schuhe aufrauen
 
-
+ %% fold %%
 - [x] AOK App checken %% fold %%
-	- [ ] war nur Magazine 
+	- [ ] war nur Magazine  %% fold %%
 - [ ] Black Waltz
 
 
