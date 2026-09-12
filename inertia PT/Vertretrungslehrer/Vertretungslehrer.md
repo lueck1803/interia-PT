@@ -279,7 +279,7 @@ B3Rnh@Rd
 			- jeder zeichnet einen Kreis 
 			- legt eine Schnur drum und misst sie aus
 		-  $\pi=\frac{U}{d}=\frac{U}{2r}$
-	- Fläche? %% fold %%
+	- Fläche?
 		- quadrat und darin Kreis zeichnen  %% fold %%
 		- ![[Mathe/01_Pi-Definition_mittels_Flächeninhalt.svg.png]]
 		- $\frac{A_{\text{Quadrat}}}{A_{\text{Kreis}}}=\frac{(2r)^{2}}{A_{\text{Kreis}}}=\frac{(2r)^{2}}{k \cdot r^2}=\frac{4 \cancel{r^2}}{k \cdot \cancel{r^2}}=\frac{4}{k}$ und $k$ nennen wir in Folge $\pi$
@@ -486,7 +486,7 @@ $\mathbb{Z}$ kommt vom Wort Zahl
 	- $3\cdot 20 \text{€}=60\text{€}$ 
 - ich nehme dir 3 mal 20€ weg
 	- $-3\cdot 20 \text{€}=60\text{€}$ 
-- ich gebe dir 3 mal 20€ Schulden  %% fold %%
+- ich gebe dir 3 mal 20€ Schulden
 	- $3\cdot -20 \text{€}=-60\text{€}$ 
 - ich nehme dir 3 mal 20€ Schulden ⟹man wird reicher
 	- $-3\cdot -20 \text{€}=+60\text{€}$ 
@@ -2552,4 +2552,6 @@ Eliasjungberger@icloud.com
 
 # Notengebung
 ## Hauptfach
-### Noten zusammen\{  \}
+### Notenzusammensetzung
+
+Schriftlich + mündlich?
