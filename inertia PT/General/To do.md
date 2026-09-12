@@ -301,7 +301,9 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - [ ] Mathearbeit 5a?
 - [ ] gießen 
-- [ ] Bettdecke waschen
+- [x] Bettdecke waschen
+- [ ] 60° Wäsche aufhängen
+- [ ] 60° Wäsche aufhängen
 - [ ] Bauhaus
 	- [ ] destiliertes Wasser
 	- [ ] Kehrblech
