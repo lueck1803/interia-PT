@@ -301,6 +301,9 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - [ ] Mathearbeit 5a?
 - [ ] gießen 
+- [ ] Bauhaus
+	- [ ] destiliertes Wasser
+	- [ ] Kehrblech
 - [ ] kandes wegen Lehrplan schreiben 
 - [ ] Antenne pc befestigen 
 - [x] Nudeln kochen
