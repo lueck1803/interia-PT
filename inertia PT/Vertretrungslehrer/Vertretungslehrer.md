@@ -2549,3 +2549,7 @@ Eliasjungberger@icloud.com
 
 ### Thema: Kita?
 
+
+# Notengebung
+## Hauptfach
+### Noten zusammen\{  \}

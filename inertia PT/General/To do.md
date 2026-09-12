@@ -301,6 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - [ ] Mathearbeit 5a?
 - [ ] gießen 
+- [ ] Wie wird in Mathe 
 - [ ] proposal fertig schreiben
 - [x] Bettdecke waschen
 - [ ] 60° Wäsche schleudern
