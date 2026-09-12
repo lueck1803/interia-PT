@@ -305,7 +305,7 @@
 - [ ] proposal fertig schreiben
 - [x] Bettdecke waschen
 - [x] 60° Wäsche schleudern
-- [ ] 60° Wäsche aufhängen
+- [x] 60° Wäsche aufhängen
 - [ ] Bauhaus
 	- [ ] destiliertes Wasser
 	- [ ] Kehrblech
@@ -314,7 +314,7 @@
 - [x] Nudeln kochen
 - [ ] Spülmaschine ausräumen 
 - [ ] checkliste für 8te klasse mathe, so wie anas sie mir geschickt hat
-- [ ] Gesamtkonferenz am Montag in den Kalender 
+- [x] Gesamtkonferenz am Montag in den Kalender 
 - [ ] akustisches klavier oder ähnliches kaufen
 - [ ] Küche flächen + Ceranfeld wischen
 - [x] Tisch wischen 
