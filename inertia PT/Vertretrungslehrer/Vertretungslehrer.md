@@ -2552,6 +2552,8 @@ Eliasjungberger@icloud.com
 
 # Notengebung
 ## Hauptfach
-### Notenzusammensetzung
-
-Schriftlich + mündlich?
+Schriftlich + mündlich
+50% + 50%
+## Nebenfach
+Schriftlich + mündlich
+40% + 60%
