@@ -300,7 +300,7 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 - [ ] Mathearbeit 5a?
-- [ ] gießen 
+- [x] gießen 
 - [ ] Wie werden in Mathe die noten vergeben? 
 - [ ] proposal fertig schreiben
 - [x] Bettdecke waschen
@@ -318,7 +318,7 @@
 - [ ] akustisches klavier oder ähnliches kaufen
 - [ ] Küche flächen + Ceranfeld wischen
 - [x] Tisch wischen 
-- [ ] carnivoren gießen 
+- [x] carnivoren gießen 
 - [ ] Walnuss umsetzen 
 - [ ] Küchenflächen wischen 
 - [x] zähne putzen
