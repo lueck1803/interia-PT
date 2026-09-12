@@ -404,7 +404,7 @@ Folgende Gleichung soll nach $x$ umgestellt werden
 - Beim Teilen Distributivgesetz beachten, deshalb ist es sinnvoll Brüche zu verwenden, denn $({\color{green}+}y{\color{green}-b}){\color{orange}:m} {\color{red}\ne}{\color{orange}m:}({\color{green}+}y{\color{green}-b})$
 - $\frac{{\color{green}+}y{\color{green}-b}}{\color{green}m}=x \quad$
 # Handout 
-## 8te 
+## 8te  %% fold %%
 ### Worum geht es in der Physik? (nochmal Video von dem russischen Prof schauen)
 [Physiker lösen keine Gleichungen](https://www.youtube.com/watch?v=O-YXXxFaIwI&list=PL1u-zzk6SurZrva064nEiJX8-IFb5cNd7&index=53)
 - Modellierung
