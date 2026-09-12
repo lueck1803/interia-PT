@@ -316,11 +316,11 @@
 - [ ] Gesamtkonferenz am Montag in den Kalender 
 - [ ] akustisches klavier oder ähnliches kaufen
 - [ ] Küche flächen + Ceranfeld wischen
-- [ ] Tisch wischen 
+- [x] Tisch wischen 
 - [ ] carnivoren gießen 
 - [ ] Walnuss umsetzen 
 - [ ] Küchenflächen wischen 
-- [ ] zähne putzen
+- [x] zähne putzen
 - [ ] Checkliste Mathe schreiben 
 	- [ ] letzte plus 
 	- [ ] terme zusammen fassen 
