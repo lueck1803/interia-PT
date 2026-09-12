@@ -304,7 +304,7 @@
 - [ ] Wie werden in Mathe die noten vergeben? 
 - [ ] proposal fertig schreiben
 - [x] Bettdecke waschen
-- [ ] 60° Wäsche schleudern
+- [x] 60° Wäsche schleudern
 - [ ] 60° Wäsche aufhängen
 - [ ] Bauhaus
 	- [ ] destiliertes Wasser
