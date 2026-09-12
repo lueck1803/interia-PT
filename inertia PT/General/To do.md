@@ -302,7 +302,7 @@
 - [ ] Mathearbeit 5a?
 - [ ] gießen 
 - [x] Bettdecke waschen
-- [ ] 60° Wäsche aufhängen
+- [ ] 60° Wäsche schleudern
 - [ ] 60° Wäsche aufhängen
 - [ ] Bauhaus
 	- [ ] destiliertes Wasser
