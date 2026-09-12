@@ -309,7 +309,7 @@
 - [ ] Bauhaus
 	- [ ] destiliertes Wasser
 	- [ ] Kehrblech
-- [ ] kandes wegen Lehrplan schreiben 
+- [x] kandes wegen Lehrplan schreiben 
 - [ ] Antenne pc befestigen 
 - [x] Nudeln kochen
 - [ ] Spülmaschine ausräumen 
