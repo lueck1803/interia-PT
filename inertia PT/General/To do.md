@@ -310,34 +310,23 @@
 	- [x] p 10b %% fold %%
 	- [x] p 10a
 
+- [ ] checkliste für 8te klasse mathe, so wie anas sie mir geschickt hat
 
+- [x] Biomüll  %% fold %%
 - [ ] Mathearbeit 5a?
-- [x] Bettwäsche wechseln 
-- [x] gießen 
 - [ ] Wie werden in Mathe die noten vergeben? 
 - [ ] proposal fertig schreiben
-- [x] Bettdecke waschen
-- [x] 30° Wäsche waschen
-- [x] 30° Wäsche schleudern
-- [x] 30° Wäsche aufhängen
-- [x] kandes wegen Lehrplan schreiben 
 - [ ] Antenne pc befestigen 
 - [x] Nudeln kochen
-- [x] Spülmaschine ausräumen
-- [ ] checkliste für 8te klasse mathe, so wie anas sie mir geschickt hat
-- [x] Gesamtkonferenz am Montag in den Kalender 
 - [ ] akustisches klavier oder ähnliches kaufen
 - [ ] Küche flächen + Ceranfeld wischen
-- [x] Tisch wischen 
 - [x] carnivoren gießen 
 - [ ] Walnuss umsetzen 
 - [ ] Küchenflächen wischen 
-- [x] zähne putzen
 - [ ] Checkliste Mathe schreiben 
 	- [ ] letzte plus 
 	- [ ] terme zusammen fassen 
 	- [ ] und variablen einsetzen können 
-- [x] Ebay schreiben, dass nur ein schanier dabei war 
 - [ ] fritz kunkel
 - [ ] elias Ausfertigung 
 
@@ -389,7 +378,6 @@
 - [ ] sofalehne dampfen
 - [ ] Batterie außen Thermometer  %% fold %%
 - [ ] Kapitel §17 vom künkel lesen %% fold %%
-- [ ] Biomüll  %% fold %%
 - [ ] Mich dringend um den Rechner kümmern
  %% fold %%
 - [ ] Arbeitsblatt der 10ten Klasse ab ändern
@@ -404,7 +392,7 @@
 
 - [ ] bloody valkyria - age of stars piano raus hören 
 - [ ] hab ich das mesa metalcore preset auf dem podgo
-- [ ] text von elias lesen 
+- [ ] text von elias lesen  %% fold %%
 - [ ] grüne schuhe aufrauen %% fold %%
 
  %% fold %%
