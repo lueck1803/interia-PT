@@ -103,6 +103,25 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+## 2026-09-13
+Tut mir leid so viel geschrieben, diskutieren und gefragt zu haben. 
+
+Ich denke ich kann die ganze Flut an sozialen Interaktionen in der Woche nicht verarbeiten und ich komme mit der vielen Aufmerksamkeit nicht so ganz klar. 
+
+Mir fällt es schwer davon abzuschalten, ich bin dann wie in einem Rausch und handle nur nach Gefühl, Impuls und dem ersten Gedanken der mir kommt. 
+
+Ich denke nicht über die Auswirkungen und den Eindruck nach den dieses kurzfristige Handeln im Moment hat, ich tue einfach. 
+
+Danach ärgere ich mich darüber, dass ich so viel und was ich geschrieben habe. 
+
+Es war für mich eine so lange Zeit mit null bis wenig sozialen Interaktionen, da ich über lange Zeit immer mehr das Gefühl hatte, dabei ständig etwas falsch zu machen/darin zu scheitern und eine Katastrophale Auswirkung auf Menschen zu haben. 
+
+Die Schule ist bei mir eher ein sich von einer sozialen Interaktion zur nächsten treiben und hingelenkt werden lassen, als ein von mir aktiv gesteuerter Prozess. 
+
+Wenn so liebe Leute wie ihr dann von mir etwas wissen oder mit mir in Interaktion treten wollen, dann freut mich das natürlich und ich versuche dem bestmöglich nachzukommen. 
+
+Ich weiß dann aber häufig nicht womit ich die Grenzen der Anderen und auch meine überschreite. 
+
 ## 2026-09-10
 Was die vocals angeht ist der song aber auch echt fair. 
 
@@ -566,7 +585,7 @@ Die Hinwendung zu einem übermateriellen Streben.
 
 ### 4
 Ich hab natürlich mal bei der AfD zu "die Rechte Ordnung der Liebe" nachgeschaut. %% fold %%
-
+ %% fold %%
 
 Die wollen gerade keinen Gottesstaat.
 
