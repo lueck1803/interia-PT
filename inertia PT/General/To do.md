@@ -305,7 +305,7 @@
 - [ ] Wie werden in Mathe die noten vergeben? 
 - [ ] proposal fertig schreiben
 - [x] Bettdecke waschen
-- [ ] 30° Wäsche waschen
+- [x] 30° Wäsche waschen
 - [ ] 30° Wäsche schleudern
 - [ ] 30° Wäsche aufhängen
 - [x] kandes wegen Lehrplan schreiben 
