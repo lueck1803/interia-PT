@@ -339,7 +339,7 @@
  %% fold %%
  %% fold %%
 - [ ] Haftpflicht und Diensthaftpflicht und Schlüssel Versicherung  %% fold %%
-- [ ] Gespräch mit salma
+- [ ] Gespräch mit salma %% fold %%
 	- [ ] warum hat sie sich bei fr güldner am Wochenende nicht gemeldet? %% fold %%
 	- [ ] versteht sie warum die Polizei eingeschaltet werden musste?
 	- [ ] fr. Güldner hat das ja eher alles vermeiden wollen, deshalb wollte sie mit dir am Wochenende sprechen 
@@ -362,13 +362,13 @@
  %% fold %%
 - [ ] kursmappe
 	- [ ] m 5a %% fold %%
-	- [ ] m 8a
-	- [ ] m 8b
+	- [x] m 8a
+	- [x] m 8b
 	- [ ] p 8a 
 	- [ ] p 8b
 	- [ ] p 8c %% fold %%
-	- [ ] p 10b %% fold %%
-	- [ ] p 10a
+	- [x] p 10b %% fold %%
+	- [x] p 10a
 
 - [ ] Zahnarzt 8.märz 8 uhr in den Kalender eingetragen 
 
