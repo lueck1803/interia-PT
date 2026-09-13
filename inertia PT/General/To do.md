@@ -311,7 +311,7 @@
 - [x] kandes wegen Lehrplan schreiben 
 - [ ] Antenne pc befestigen 
 - [x] Nudeln kochen
-- [ ] Spülmaschine ausräumen 
+- [x] Spülmaschine ausräumen
 - [ ] checkliste für 8te klasse mathe, so wie anas sie mir geschickt hat
 - [x] Gesamtkonferenz am Montag in den Kalender 
 - [ ] akustisches klavier oder ähnliches kaufen
