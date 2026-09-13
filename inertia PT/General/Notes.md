@@ -104,6 +104,7 @@ Kind regards
 Lukas Walter 
 # Nachrichten an Leute
 ## 2026-09-13
+
 Ich meine da sehr viel mit... 
 
 Ich kann es schwer ausdrücken. 
@@ -111,6 +112,10 @@ Ich kann es schwer ausdrücken.
 In erster Linie will ich damit Mitgefühl ausdrücken. 
 
 Fühl dich wertgeschätzt 
+
+Fühl dich anerkannt 
+
+Fühl dich gesehen 
 
 Ich habe Empathie mit dir 
 
@@ -585,7 +590,7 @@ Gilt auch für Hindus oder Sikhs.
 Was die dann manchmal von sich geben mag befremdlich wirken.
 
 ---
-Was die Leute auf der AfD Veranstaltung erzählen geht, aber tatsächlich in die Richtung Gottesstaat 🫣🤯.
+Was die Leute auf der AfD Veranstaltung erzählen geht, aber tatsächlich in die Richtung Gottesstaat 🫣🤯. %% fold %%
 
 Man glaubt es echt nicht. 
 
@@ -598,7 +603,7 @@ Also Ideologien die sich rein auf das weltliche und scheinbar wissenschaftliche 
 Und im Prinzip hat er ja Recht.
 
 Die schlimmsten und Menschenfeindlichsten Ideologien waren "gottlos".
-
+ %% fold %%
 Das hat bisher keine andere Ideologie geschafft.
 
 Gut vorher gab's aber auch nicht die Mittel dazu... %% fold %%
@@ -632,7 +637,7 @@ Die Hinwendung zu einem übermateriellen Streben.
 "Das Wahre, das Gute und das Schöne"
 Soll der Leitstern sein. 
 
----
+--- %% fold %%
 
 Mir fällt es schwer solche Menschen als extrem problematisch einzuschätzen.
 
