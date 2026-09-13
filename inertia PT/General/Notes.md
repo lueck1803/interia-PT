@@ -104,6 +104,40 @@ Kind regards
 Lukas Walter 
 # Nachrichten an Leute
 ## 2026-09-13
+Ich meine da sehr viel mit... 
+
+Ich kann es schwer ausdrücken. 
+
+In erster Linie will ich damit Mitgefühl ausdrücken. 
+
+Fühl dich wertgeschätzt 
+
+Ich habe Empathie mit dir 
+
+Fühl dich geborgen 
+
+Ich kann dich verstehen. 
+Ich versuche dich zu verstehen. 
+
+Ich würde dazu etwas schreiben, da ich noch Gedanken habe, aber lasse es gut sein. 
+
+---
+
+Ich habe ja schonmal gesagt dass ich ein sehr emotionaler, empathischer Mensch bin. Ich hab so viele Gedanken und Worte, hab aber oft erlebt dass die Worte auch kaputt machen. 
+Am tragischten dann wenn man eigentlich etwas Gutes möchte. 
+
+---
+
+Du hast "ist kompliziert" geschrieben. 
+
+Ich hätte jetzt nachgefragt. Aber ich hatte ja schon drei Fragen gestellt. 
+
+Wenn du gewollt hättest zu antworten, hättest du es ja tun können. 
+
+Ich hab gemerkt, dass ich zu viel nachfrage und wissen will. 
+
+Es ist für mich ein Stoppsignal dass ich mehr Frage und schreibe, aber ein Zeichen "ich bin da". 
+## 2026-09-13
 Tut mir leid so viel geschrieben, diskutieren und gefragt zu haben. 
 
 Ich denke ich kann die ganze Flut an sozialen Interaktionen in der Woche nicht verarbeiten und ich komme mit der vielen Aufmerksamkeit nicht so ganz klar. 
