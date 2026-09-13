@@ -307,7 +307,7 @@
 - [x] Bettdecke waschen
 - [x] 30° Wäsche waschen
 - [x] 30° Wäsche schleudern
-- [ ] 30° Wäsche aufhängen
+- [x] 30° Wäsche aufhängen
 - [x] kandes wegen Lehrplan schreiben 
 - [ ] Antenne pc befestigen 
 - [x] Nudeln kochen
