@@ -299,8 +299,20 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
+
+- [x] kursmappe
+	- [x] m 5a %% fold %%
+	- [x] m 8a
+	- [x] m 8b
+	- [x] p 8a
+	- [x] p 8b
+	- [x] p 8c %% fold %%
+	- [x] p 10b %% fold %%
+	- [x] p 10a
+
+
 - [ ] Mathearbeit 5a?
-- [ ] Bettwäsche wechseln 
+- [x] Bettwäsche wechseln 
 - [x] gießen 
 - [ ] Wie werden in Mathe die noten vergeben? 
 - [ ] proposal fertig schreiben
@@ -330,7 +342,7 @@
 - [ ] elias Ausfertigung 
 
 
-- [ ] Duolingo 
+- [x] Duolingo
 - [ ] Semesterbeitrag
 - [ ] sus Akkorde am Klavier probieren 
 
@@ -341,13 +353,13 @@
 - [ ] Haftpflicht und Diensthaftpflicht und Schlüssel Versicherung  %% fold %%
 - [ ] Gespräch mit salma %% fold %%
 	- [ ] warum hat sie sich bei fr güldner am Wochenende nicht gemeldet? %% fold %%
-	- [ ] versteht sie warum die Polizei eingeschaltet werden musste?
-	- [ ] fr. Güldner hat das ja eher alles vermeiden wollen, deshalb wollte sie mit dir am Wochenende sprechen 
-	- [ ] stattdessen hat dein älterer Bruder mit ihr telefoniert, was auch eher einschüchternd wirkte
+	- [ ] versteht sie warum die Polizei eingeschaltet werden musste? %% fold %%
+	- [ ] fr. Güldner hat das ja eher alles vermeiden wollen, deshalb wollte sie mit dir am Wochenende sprechen  %% fold %%
+	- [ ] stattdessen hat dein älterer Bruder mit ihr telefoniert, was auch eher einschüchternd wirkte %% fold %%
 	- [ ] es wurde Freitag schon von anderen Lehrern gesagt dass das einer Maßnahme bedarf, die sie verhindern wollte in dem sie mit dir telefoniert 
 	- [ ] fr ooettel hat Polizei eingeschaltet.
 	- [ ] es muss bei so einer Sache die Polizei eingeschaltet werden, das ist nicht überzogen 
-	- [ ] großes Problem war, dass die Wahrheit so Schritt für Schritt ans Licht kam und warum du nicht alles gleich erzählt hast, das hat vieles unplausibel wirken lassen 
+	- [ ] großes Problem war, dass die Wahrheit so Schritt für Schritt ans Licht kam und warum du nicht alles gleich erzählt hast, das hat vieles unplausibel wirken lassen  %% fold %%
 	- [ ] ist dir bewusst was der Verlust eines Generalschlüssels nachsich zieht 
 	- [ ] warum fr güldner dich in GL nicht angesprochen hat: sie wollte dich vor der gesamten Klasse nicht bloßstellen, sie hat gedacht du kommst auf sie zu bzw wenigstens in der Pause 🤷 so ist das halt jeder hat ne Erwartung und denkt was der andere machen soll
 	- [ ] Mittwoch sprechen fr Güldener und ich nochmal mit fr iwanowa
@@ -360,15 +372,7 @@
 	- [ ] pavlo palamarchuk
 
  %% fold %%
-- [ ] kursmappe
-	- [x] m 5a %% fold %%
-	- [x] m 8a
-	- [x] m 8b
-	- [x] p 8a
-	- [x] p 8b
-	- [x] p 8c %% fold %%
-	- [x] p 10b %% fold %%
-	- [x] p 10a
+
 
 - [ ] Zahnarzt 8.märz 8 uhr in den Kalender eingetragen 
 
@@ -393,7 +397,7 @@
 	- [ ] Formulierung der Aufgabe 1
 	- [ ] Kasten und die Beschreibung Info/Formel mit dazu schreiben
 
-
+ %% fold %%
 - [ ] schriftliches dividieren, wann kommen nullen rein?
 - [ ] Epson beamer - usb video Wlan
 - [ ] Friseur 
