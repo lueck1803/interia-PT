@@ -406,7 +406,7 @@ Tafelbild Überschrift **Zahlensysteme und Einheiten umrechnen**
 		- $\frac{2}{3}+\frac{3}{5}=\frac{10}{15}+\frac{9}{15}=\frac{19}{15}$
 
 - Zentimeter deutsche Rechtschreibung - Shirin hatte da natürlich Recht, dem habe ich auch nicht widersprochen 
-- lat. Decem - zehn
+- lat. Decem - zehn %% fold %%
 - lat. Centum - hundert
 - lat. Milli - tausend 
 - griech. Mikros - klein - eine millionstel
