@@ -343,7 +343,7 @@
 
 
 - [x] Duolingo
-- [ ] Semesterbeitrag
+- [x] Semesterbeitrag
 - [ ] sus Akkorde am Klavier probieren 
 
 
