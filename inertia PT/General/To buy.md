@@ -10,6 +10,7 @@
 ## Jetzt
 - Einkaufswagen 
 - [ ] essigreiniger
+- [ ] Hartkäse
 - [x] Bier
 - [x] Saft 
 - [x] Bananen
