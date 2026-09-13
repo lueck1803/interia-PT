@@ -337,7 +337,7 @@
 	- [ ] letzte plus 
 	- [ ] terme zusammen fassen 
 	- [ ] und variablen einsetzen können 
-- [ ] Ebay schreiben, dass nur ein schanier dabei war 
+- [x] Ebay schreiben, dass nur ein schanier dabei war 
 - [ ] fritz kunkel
 - [ ] elias Ausfertigung 
 
