@@ -305,11 +305,9 @@
 - [ ] Wie werden in Mathe die noten vergeben? 
 - [ ] proposal fertig schreiben
 - [x] Bettdecke waschen
-- [x] 60° Wäsche schleudern
-- [x] 60° Wäsche aufhängen
-- [ ] Bauhaus
-	- [ ] destiliertes Wasser
-	- [ ] Kehrblech
+- [ ] 30° Wäsche waschen
+- [ ] 30° Wäsche schleudern
+- [ ] 30° Wäsche aufhängen
 - [x] kandes wegen Lehrplan schreiben 
 - [ ] Antenne pc befestigen 
 - [x] Nudeln kochen
@@ -403,7 +401,7 @@
 - [ ] bloody valkyria - age of stars piano raus hören 
 - [ ] hab ich das mesa metalcore preset auf dem podgo
 - [ ] text von elias lesen 
-- [ ] grüne schuhe aufrauen
+- [ ] grüne schuhe aufrauen %% fold %%
 
  %% fold %%
 - [x] AOK App checken %% fold %%
