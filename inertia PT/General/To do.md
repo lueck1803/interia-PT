@@ -311,6 +311,7 @@
 	- [x] p 10a
 
 - [ ] checkliste für 8te klasse mathe, so wie anas sie mir geschickt hat
+- [ ] Mathe Arbeit 8te Klasse machen 
 
 - [x] Biomüll  %% fold %%
 - [ ] Mathearbeit 5a?
