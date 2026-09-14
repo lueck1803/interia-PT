@@ -11,6 +11,7 @@
 - Einkaufswagen 
 - [ ] essigreiniger
 - [ ] Hartkäse
+- [ ] Hustenbonbons 
 - [x] Bier
 - [x] Saft 
 - [x] Bananen
