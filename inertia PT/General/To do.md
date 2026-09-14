@@ -314,6 +314,7 @@
 - [ ] Mathe Arbeit 8te Klasse machen 
 - [ ] emily ist am 25.9 nicht da abklären mit fr rohr
 - [ ] Physik 8 Arbeitsblat D) da ist ein "um"  zu viel
+- [ ] 2) Satz um
 
 - [x] Biomüll  %% fold %%
 - [ ] Mathearbeit 5a?
