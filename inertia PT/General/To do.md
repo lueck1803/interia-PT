@@ -310,6 +310,8 @@
 	- [x] p 10b %% fold %%
 	- [x] p 10a
 
+- [ ] trigger latex suite handy
+
 - [ ] checkliste für 8te klasse mathe, so wie anas sie mir geschickt hat
 - [ ] Mathe Arbeit 8te Klasse machen 
 - [ ] emily ist am 25.9 nicht da abklären mit fr rohr
