@@ -312,6 +312,9 @@
 
 - [ ] tisch wischen 
 - [ ] Küche aufräumen 
+- [ ] boden wischen 
+- [ ] sofa aufräumen 
+- [ ] Zeug von Elias 
 
 - [ ] trigger latex suite handy
 
