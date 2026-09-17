@@ -311,9 +311,10 @@
 	- [x] p 10a
 
 - [ ] tisch wischen 
-- [ ] aldi
+- [x] aldi
 - [ ] burger essen
 - [ ] Küche aufräumen 
+- [ ] Hemd anprobieren 
 - [ ] boden wischen 
 - [ ] sofa aufräumen 
 - [ ] Zeug von Elias lesen 
