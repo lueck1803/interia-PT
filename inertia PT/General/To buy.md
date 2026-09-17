@@ -11,10 +11,10 @@
 - Einkaufswagen 
 - [ ] essigreiniger
 - [ ] Hartkäse
-- [ ] käse
+- [ ] gauda mittelalt
 - [ ] saft
 - [ ] pizza
-- [ ] Pizza ba
+- [ ] Pizza baguette 
 - [ ] Hustenbonbons 
 - [x] Bier
 - [x] Saft 
