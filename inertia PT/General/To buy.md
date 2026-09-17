@@ -9,13 +9,13 @@
 # Aldi
 ## Jetzt
 - Einkaufswagen 
-- [ ] essigreiniger
-- [ ] Hartkäse
-- [ ] gauda mittelalt
-- [ ] toast
-- [ ] saft
-- [ ] pizza
-- [ ] Pizza baguette 
+- [x] essigreiniger
+- [x] Hartkäse
+- [x] gauda mittelalt
+- [x] toast
+- [x] saft
+- [x] pizza
+- [x] Pizza baguette 
 - [x] Hustenbonbons 
 - [x] Bier
 - [x] Saft 
