@@ -311,10 +311,11 @@
 	- [x] p 10a
 
 - [ ] tisch wischen 
+- [ ] aldi
 - [ ] Küche aufräumen 
 - [ ] boden wischen 
 - [ ] sofa aufräumen 
-- [ ] Zeug von Elias 
+- [ ] Zeug von Elias lesen 
 
 - [ ] trigger latex suite handy
 
