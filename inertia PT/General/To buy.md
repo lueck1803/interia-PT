@@ -11,6 +11,10 @@
 - Einkaufswagen 
 - [ ] essigreiniger
 - [ ] Hartkäse
+- [ ] käse
+- [ ] saft
+- [ ] pizza
+- [ ] Pizza ba
 - [ ] Hustenbonbons 
 - [x] Bier
 - [x] Saft 
