@@ -5,7 +5,7 @@
   "snippetsTrigger": "Space",
   "snippetNextTabstopTrigger": "Tab",
   "snippetPreviousTabstopTrigger": "Shift-Tab",
-  "suppressSnippetTriggerOnIME": true,
+  "suppressSnippetTriggerOnIME": false,
   "suppressIMEWarning": false,
   "removeSnippetWhitespace": true,
   "autoDelete$": true,
