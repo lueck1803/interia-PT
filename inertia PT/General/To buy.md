@@ -16,7 +16,7 @@
 - [ ] saft
 - [ ] pizza
 - [ ] Pizza baguette 
-- [ ] Hustenbonbons 
+- [x] Hustenbonbons 
 - [x] Bier
 - [x] Saft 
 - [x] Bananen
