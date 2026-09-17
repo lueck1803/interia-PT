@@ -12,6 +12,7 @@
 - [ ] essigreiniger
 - [ ] Hartkäse
 - [ ] gauda mittelalt
+- [ ] toast
 - [ ] saft
 - [ ] pizza
 - [ ] Pizza baguette 

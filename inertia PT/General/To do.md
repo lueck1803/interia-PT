@@ -312,6 +312,7 @@
 
 - [ ] tisch wischen 
 - [ ] aldi
+- [ ] burger essen
 - [ ] Küche aufräumen 
 - [ ] boden wischen 
 - [ ] sofa aufräumen 
