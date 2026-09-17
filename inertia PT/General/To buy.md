@@ -9,6 +9,7 @@
 # Aldi
 ## Jetzt
 - Einkaufswagen 
+- [ ] Schmelzkäse Scheiben
 - [x] essigreiniger
 - [x] Hartkäse
 - [x] gauda mittelalt
