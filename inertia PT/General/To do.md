@@ -321,7 +321,8 @@
 - [ ] Zeug von Elias lesen 
 
 - [ ] trigger latex suite handy
-- [ ] $x^{5}$
+- [ ] $x^{5}$ 
+- [ ] mk
 
 - [ ] checkliste für 8te klasse mathe, so wie anas sie mir geschickt hat
 - [ ] Mathe Arbeit 8te Klasse machen 
