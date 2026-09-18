@@ -321,7 +321,8 @@
 - [ ] Zeug von Elias lesen 
 
 - [ ] trigger latex suite handy🤷
-- [ ] 
+- [ ] Haftpflicht Versicherung 
+- [ ] Schlüsselhaftpflicht 
 
 - [ ] checkliste für 8te klasse mathe, so wie anas sie mir geschickt hat
 - [ ] Mathe Arbeit 8te Klasse machen 
