@@ -320,14 +320,12 @@
 - [ ] sofa kissen wechseln 
 - [ ] Zeug von Elias lesen 
 
-- [ ] trigger latex suite handy
-- [ ] $x^{5}$ 
-- [ ] $x^{6}$ 
+- [ ] trigger latex suite handy🤷
 
 - [ ] checkliste für 8te klasse mathe, so wie anas sie mir geschickt hat
 - [ ] Mathe Arbeit 8te Klasse machen 
 - [ ] emily ist am 25.9 nicht da abklären mit fr rohr
-- [ ] Physik 8 Arbeitsblat D) da ist ein "um"  zu viel
+- [ ] Physik 8 Arbeitsblatt D) da ist ein "um"  zu viel
 - [ ] 2) Satz umschreiben mit Beispiel $5\cdot 1=5$
 - [ ] bei der Aufgabe die Einheitsidentitäten ; machen 
 
