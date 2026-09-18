@@ -313,6 +313,7 @@
 - [ ] tisch wischen 
 - [x] aldi
 - [x] burger essen
+- [ ] äpfel waschen
 - [ ] Küche aufräumen 
 - [ ] Hemd anprobieren 
 - [ ] boden wischen 
