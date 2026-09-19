@@ -302,8 +302,12 @@
 
 - [ ] hemd 41 gegen 40 umtauschen 
 	- [ ] regular=modern fit
-- [ ] 30° Wäsche mit Mützen 
+- [x] 30° Wäsche mit Mützen 
+- [ ] 30° Wäsche schleudern 
 - [ ] gießen 
+- [ ] Decken waschen 
+- [ ] Staub saugen 
+- [ ] Spülmaschine ausräumen 
 - [x] kursmappe
 	- [x] m 5a %% fold %%
 	- [ ] m 8a
