@@ -10,6 +10,7 @@
 ## Jetzt
 - Einkaufswagen 
 - [ ] Schmelzkäse Scheiben
+- [ ] hummus
 - [x] essigreiniger
 - [x] Hartkäse
 - [x] gauda mittelalt
