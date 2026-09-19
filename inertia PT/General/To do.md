@@ -300,17 +300,6 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- [ ] hemd 41 gegen 40 umtauschen 
-	- [ ] regular=modern fit
-- [x] 30° Wäsche mit Mützen 
-- [ ] 30° Wäsche schleudern 
-- [ ] gießen 
-- [ ] Decken waschen 
-- [ ] Staub saugen 
-- [ ] Spülmaschine ausräumen 
-- [ ] Spülmaschine einräumen 
-- [ ] Briefkasten 
-- [ ] Ceranfeld ausmessen 16cm 18cm?
 - [x] kursmappe
 	- [x] m 5a %% fold %%
 	- [ ] m 8a
@@ -320,25 +309,10 @@
 	- [x] p 8c %% fold %%
 	- [x] p 10b %% fold %%
 	- [x] p 10a
-- [ ] dilara wegen 5 a Dienstag schreiben 
-- [ ] fragen wer Mittwoch vss war? Physik 8c?
-- [ ] fragen wer Montag vss ist
-	- [ ] Auftrag für mathe
-	- [ ] Auftrag für Physik 
-- [ ] Jamil schreiben 
-	- [ ] wegen Montag 
-		- [ ] was ist mit salma
-	- [ ] wegen Schulportal 
-- [ ] tabea fragen wie die Lehrerband heißt, die beim Auftritt beglückwünschen 
-- [ ] Frau Güldener fragen ob zwischen uns alles OK ist
-
-- [ ] Mittelohrentzündung Trommelfellriss googeln 
-- [ ] rote Unterhose als Lappen 
 
 - [ ] tisch wischen 
 - [x] aldi
 - [x] burger essen
-- [ ] äpfel waschen
 - [ ] Küche aufräumen 
 - [ ] Hemd anprobieren 
 - [ ] boden wischen 
@@ -432,7 +406,7 @@
 
  %% fold %%
 - [ ] schriftliches dividieren, wann kommen nullen rein?
-- [ ] Epson beamer - usb video Wlan
+- [ ] Epson beamer - usb video Wlan %% fold %%
 - [ ] Friseur 
 
 - [ ] bloody valkyria - age of stars piano raus hören 
@@ -458,7 +432,7 @@
 - [ ] Mathe 8 %% fold %%
 	- [ ] in den lehrplan schauen %% fold %%
 	- [ ] ins Mathebuch schauen
-	- [ ] Arbeitsblatt  %% fold %%
+	- [ ] Arbeitsblatt 
 		- [ ] Seite und Aufgabe aus dem Mathebuch
 		- [ ] Dreisatz
 		- [ ] Prozentrechnung
