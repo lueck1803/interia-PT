@@ -350,7 +350,7 @@
 	- [x] Hemd anprobieren 
 	- [ ] shorts 
 	- [ ] schlafanzug
-- [ ] textilbeschriftungsband testen
+- [x] textilbeschriftungsband testen
 	- [ ] falls gut, nochmal ein band kaufen
 - [ ] Waschmaschine richten
 - [x] kursmappe
