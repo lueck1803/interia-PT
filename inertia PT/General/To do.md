@@ -319,7 +319,7 @@
 		- [ ] was ist mit salma
 	- [ ] wegen Schulportal 
 - [ ] tabea fragen wie die Lehrerband heißt, die beim Auftritt beglückwünschen 
-- [ ] Frau Güldener 
+- [ ] Frau Güldener fragen ob zwischen uns alles OK ist
 
 
 - [ ] tisch wischen 
