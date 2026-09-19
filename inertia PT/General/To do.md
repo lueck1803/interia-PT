@@ -313,6 +313,9 @@
 - [x] Ceranfeld ausmessen 16cm 18cm?
 	- [ ] 16cm wäre gut, passt auf die kleinen flächen
 - [ ] Kleidung anprobieren 
+	- [ ] Hemd anprobieren 
+	- [ ] shorts 
+	- [ ] schlafanzug
 - [ ] textilbeschriftungsband testen
 	- [ ] falls gut, nochmal ein band kaufen
 - [ ] Waschmaschine richten
@@ -330,7 +333,6 @@
 - [x] aldi
 - [x] burger essen
 - [ ] Küche aufräumen 
-- [ ] Hemd anprobieren 
 - [ ] boden wischen 
 - [ ] sofa aufräumen 
 - [ ] sofa kissen wechseln 
