@@ -310,7 +310,7 @@
 - [ ] Spülmaschine ausräumen 
 - [ ] Spülmaschine einräumen 
 - [ ] Briefkasten 
-- [ ] Ceranfeld ausmessen 
+- [ ] Ceranfeld ausmessen 16cm 18cm?
 - [x] kursmappe
 	- [x] m 5a %% fold %%
 	- [ ] m 8a
