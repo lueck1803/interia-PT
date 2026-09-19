@@ -309,6 +309,7 @@
 - [ ] Staub saugen 
 - [ ] Spülmaschine ausräumen 
 - [ ] Spülmaschine einräumen 
+- [ ] Briefkasten 
 - [x] kursmappe
 	- [x] m 5a %% fold %%
 	- [ ] m 8a
