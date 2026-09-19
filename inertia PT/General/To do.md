@@ -399,14 +399,6 @@
 	- [ ] warum fr güldner dich in GL nicht angesprochen hat: sie wollte dich vor der gesamten Klasse nicht bloßstellen, sie hat gedacht du kommst auf sie zu bzw wenigstens in der Pause 🤷 so ist das halt jeder hat ne Erwartung und denkt was der andere machen soll
 	- [ ] Mittwoch sprechen fr Güldener und ich nochmal mit fr iwanowa
 
-- [ ] Salma 8a der Gruppe hinzufügen 
-
-
-- [ ] 8a schul.cloud einladen (vhtv3MohVD)
-	- [ ] salma Bashir adnan
-	- [ ] pavlo palamarchuk
-
- %% fold %%
 
 
 - [ ] Zahnarzt 8.märz 8 uhr in den Kalender eingetragen 
@@ -421,7 +413,7 @@
 - [ ] Papierkram
 - [ ] Flaschen spülen 
 - [ ] Französisch aufschreiben
-- [ ] sofalehne dampfen
+- [ ] sofalehne dampfen %% fold %%
 - [ ] Batterie außen Thermometer  %% fold %%
 - [ ] Kapitel §17 vom künkel lesen %% fold %%
 - [ ] Mich dringend um den Rechner kümmern %% fold %%
