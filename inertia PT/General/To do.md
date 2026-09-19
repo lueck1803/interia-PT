@@ -344,7 +344,7 @@
 - [ ] Briefkasten 
 - [ ] carnivorenwasser
 - [ ] carnivoren gießen
-- [ ] kakteen gießen
+- [x] kakteen gießen
 - [x] Ceranfeld ausmessen 16cm 18cm?
 	- [x] 16cm wäre gut, passt auf die kleinen flächen
 - [ ] Kleidung anprobieren 
