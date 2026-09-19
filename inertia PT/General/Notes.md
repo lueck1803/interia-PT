@@ -105,7 +105,28 @@ Lukas Walter
 # Nachrichten an Leute
 ## 2026-09-19
 ### mia Melanie 
+Ja doch da gibt's Gründe für, gute Gründe. 
 
+1.  Bin ich ja offensichtlich selbst schuld so schlimm krank geworden zu sein. 
+Unfähigkeit auf den eigenen Körper zu hören. Hab ich nie gelernt. 
+Dann das Gefühl dass es nicht so schlimm ist, ich mich zusammen reißen muss und nicht so anstellen darf. 
+Wie soll ich es rechtfertigen, wenn ich ein bisschen krank bin und deshalb nicht meinen Job mache. Dann muss ja wieder jemand meine Lücke füllen und ich erfülle nicht meinen Wert. (Wert durch den Wert für andere) 
+Keine Lust gehabt zum Arzt zu gehen und mich krank zu melden. Und mich dabei wie ein Lügner oder Hochstapler zu fühlen. Nur weil ich es nicht hinbekomme, wenn ich mich Sonntag tagsüber ausgeruht habe, nachts gescheit zu schlafen. 
+Das Versagen überhaupt was ich empfinde dass ich mein Gehirn noch nicht voll unter Kontrolle habe. Bzgl Schlaf und einiger Gedanken. 
+
+2. Als Strafe für meine Schuldgefühle, meine Trauer und meine Verwirrung/mein inneres Chaos/ meine Identitätskrise /Zugehörigkeitskrise/meine Paralyse im Handeln als Strafe für meine Art für mein ADHS, was wie eine Ausrede klingt. 
+
+Als Strafe dafür dass ich etwas gerne mache, obwohl ich weiß und merke dass ich dafür nicht geeignet bin. Der imposter in mir quält mich. Und er hat Recht. 
+
+Ich wollte Dinge retten, hab dafür alles gegeben und es ist alles dahin. Stimmt zwar nicht, aber ... Es fühlt sich so an. 
+
+Ich sollte kein Lehrer spielen. Ich bin keiner und werde nie einer. Ich will es auch nicht werden. 
+
+Ich renne vor Dingen weg so dass es mir gut geht. 
+
+Ich handle in letzter Zeit hauptsächlich so dass es mir gut geht. Da ich das vorher fast nie gemacht habe und wenn dann habe ich mich schlecht und schuldig dafür gefühlt. Grund meine Schwester 
+
+Jetzt hielt das mal ne ganze Weile. Jetzt holt mich die Schuld wieder ein. 
 ### mia
 Ist schon ein Wunder dass ich nicht mehr alle paar Stunden nicht mehr leben will, dass ich beim Gedanken an die Vergangenheit total traurig werde und sie vermisse, in Schuldgefühlen versinke. 
 
@@ -638,7 +659,7 @@ Ich hab natürlich mal bei der AfD zu "die Rechte Ordnung der Liebe" nachgeschau
 Die wollen gerade keinen Gottesstaat.
 
 Die sehen eher dass die Gottlosigkeit, der Materialismus und die angebliche Objektivität der Wissenschaft auf die sich Ideologien wie der Kommunismus, der Nationalsozialismus, aber auch der Neoliberalismus/Libertäre berufen haben und berufen zu den menschenfeindlichsten Systemen geführt haben.
-
+ %% fold %%
 Die sind der Ansicht dass es viele Ersatzreligionen gibt und den Leuten Selbsttranszendenz fehlt. 
 
 Die Hinwendung zu einem übermateriellen Streben.
