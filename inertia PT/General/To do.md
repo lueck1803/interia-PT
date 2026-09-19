@@ -302,7 +302,7 @@
 
 - [ ] dünne pics kaufen
 - [ ] gießen
-- [ ] Essen mit auberginen und Tofu
+- [ ] Essen mit auberginen, zucchini, paprika und Tofu kochen
 - Medikament 
 	- [x] morgens 
 	- [x] mittags
