@@ -302,6 +302,7 @@
 
 - [ ] dünne pics kaufen
 - [x] Duolingo
+- [ ] Spülmaschine ausräumen 
 - [ ] gießen
 - [ ] Konto checken
 - [ ] Mischa schreiben ob Geld da ist
