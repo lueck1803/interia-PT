@@ -10,7 +10,7 @@
 ## Jetzt
 - Einkaufswagen 
 - [ ] Tomaten 
-- [ ] Saft
+- [x] Saft
 - [ ] pizza
 - [x] ~~Auberginen~~ Pilze 
 - [x] Schmelzkäse Scheiben
