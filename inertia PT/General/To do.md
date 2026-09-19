@@ -504,10 +504,7 @@
 - [ ] in meinem Bericht die Reihenfolge mit dem stuhl ändern
 - [ ] sofiia ne schul cloud Einladung schicken
 	- [ ] hab ihr erstmal empfohlen das Passwort zurückzusetzen 
-- [x] Arbeitsblatt für 10te klassen
-	- [x] mit der Erklärung und Beschreibung für Druck
-	- [x] Denksportphysikaufgaben
-
+ %% fold %%
 - [ ] Mathe 5a  %% fold %%
 	- [ ] Seite 8 im Buch machen %% fold %%
 	- [ ] montesorri arbeitsblatt 22 mal kopieren %% fold %%
@@ -522,16 +519,8 @@
 		- [ ] Terme mit Klammern
 - [ ] kühlschrank putzen
 - [ ] black waltz %% fold %%
-- [ ] Papierkram  %% fold %%
+- [ ] Papierkram
  %% fold %%
-- [x] schul.cloud erstellen für %% fold %%
-	- [x] elias ✅
-	- [x] Samiha ✅
-	- [x] Lina
-- [x] Ein je ein Heft für den WPK mitnehmen und vorher das Adressfeld entfernen %% fold %%
-	- [x] Physik Journal  %% fold %%
-		- [x] hier schauen, ob ich doppelte exemplare habe
-	- [x] BUND Heft
 - [ ] grüne Laufschuhe nur noch als normale Schuhe tragen
 - [ ] Bauhaus Kehrblech
 - [ ] interimsgebäude testen über beamer am Laptop mit Xournal zu schreiben
@@ -591,9 +580,6 @@
 	- ggT (größter gemeinsamer Teiler) beim Kürzen
 - [ ] Ordnung in Vertretungslehrer herstellen. Ordner für Physik erstellen 
 - [ ] Vektor Beispiel bild mit Kurvenfahrt und den drei Vektoren s,v, a
-- [x] schul id fertig  %% fold %%
-	- [x] per Mail absenden oder hochladen  %% fold %%
-- [x] kgV und ggt, welchen brauche ich beim kürzen und welchen beim Erweitern %% fold %%
 - [ ] 8a Elternabend 31.8 %% fold %%
 	- [ ] was zum Mathe-Wettbewerb sagen? %% fold %%
 		- [ ] was meinen Unterricht angeht bin ich eh gerade dabei viel aufzufrischen  %% fold %%
@@ -626,9 +612,8 @@
 - [ ] Spitzahorn Samen / Stecklinge suchen
 - [ ] Bergahorn Samen / Stecklinge suchen
 - [ ] Feldahorn umsetzen
-- [x] die Tage nochmal nach dem Label maker schauen kostet nur 20 statt sonst 25€
 - [ ] Körnung Aufsätze und andere in Akkuschrauber box %% fold %%
-- [ ] English 5b
+- [ ] English 5b %% fold %%
 	- [ ] alle in grundschule englisch %% fold %%
 		- [ ] Fragewörter  %% fold %%
 	- [ ] wie stelle ich mich vor?
@@ -762,10 +747,6 @@
 - [ ] unknown usb device port reset failed
 	- [ ] https://www.google.com/search?q=unknown+usb+device+port+reset+failed&oq=unkonwn+usb+device+port&gs_lcrp=EgZjaHJvbWUqCQgBEAAYDRiABDIGCAAQRRg5MgkIARAAGA0YgAQyCAgCEAAYDRgeMggIAxAAGA0YHjIICAQQABgNGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhgeMggICRAAGBYYHtIBCTEwMDEzajBqN6gCALACAA&sourceid=chrome&source=chrome.ob&ie=UTF-8
 - [ ] flip flop reparieren 
-- [x] Apfelschneider nochmal nach schärfen 
-	- gar nicht nötig
-	- mal schauen auf welche Seite erzieht.
-	- dort eventuell nach schärfen 
 - ich muss kleiner schreiben an der Tafel 
 	- [ ] <font color="#c00000">üben</font> 
 - [ ] fotos vom Tafelbild nutzen für handout
@@ -790,8 +771,8 @@
 	- [ ] wann kommt er dran?
 	- [ ] Herleitung 
 - [ ] Lochkamera neu
-	- [ ] ausrechnen wie groß das Bild sein soll
-- [ ] Waschbecken
+	- [ ] ausrechnen wie groß das Bild sein soll %% fold %%
+- [ ] Waschbecken %% fold %%
 	- [ ] bad %% fold %%
 	- [ ] Küche  %% fold %%
 - [ ] mathe info blatt %% fold %%
