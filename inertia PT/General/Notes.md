@@ -103,6 +103,51 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+## 2026-09-19
+### mia Melanie 
+
+Ja doch da gibt's Gründe für, gute Gründe. 
+
+1.  Bin ich ja offensichtlich selbst schuld so schlimm krank geworden zu sein. 
+Unfähigkeit auf den eigenen Körper zu hören. Hab ich nie gelernt. 
+Dann das Gefühl dass es nicht so schlimm ist, ich mich zusammen reißen muss und nicht so anstellen darf. 
+Wie soll ich es rechtfertigen, wenn ich ein bisschen krank bin und deshalb nicht meinen Job mache. Dann muss ja wieder jemand meine Lücke füllen und ich erfülle nicht meinen Wert. (Wert durch den Wert für andere) 
+Keine Lust gehabt zum Arzt zu gehen und mich krank zu melden. Und mich dabei wie ein Lügner oder Hochstapler zu fühlen. Nur weil ich es nicht hinbekomme, wenn ich mich Sonntag tagsüber ausgeruht habe, nachts gescheit zu schlafen. 
+Das Versagen überhaupt was ich empfinde dass ich mein Gehirn noch nicht voll unter Kontrolle habe. Bzgl Schlaf und einiger Gedanken. 
+
+2. Als Strafe für meine Schuldgefühle, meine Trauer und meine Verwirrung/mein inneres Chaos/ meine Identitätskrise /Zugehörigkeitskrise/meine Paralyse im Handeln als Strafe für meine Art für mein ADHS, was wie eine Ausrede klingt. 
+
+Als Strafe dafür dass ich etwas gerne mache, obwohl ich weiß und merke dass ich dafür nicht geeignet bin. Der imposter in mir quält mich. Und er hat Recht. 
+
+Ich wollte Dinge retten, hab dafür alles gegeben und es ist alles dahin. Stimmt zwar nicht, aber ... Es fühlt sich so an. 
+
+Ich sollte kein Lehrer spielen. Ich bin keiner und werde nie einer. Ich will es auch nicht werden. 
+
+Ich renne vor Dingen weg so dass es mir gut geht. 
+
+Ich handle in letzter Zeit hauptsächlich so dass es mir gut geht. Da ich das vorher fast nie gemacht habe und wenn dann habe ich mich schlecht und schuldig dafür gefühlt. Grund meine Schwester 
+
+Jetzt hielt das mal ne ganze Weile. Jetzt holt mich die Schuld wieder ein. 
+
+Und ja deshalb habe ich es verdient krank zu sein. 
+Ich sehe jeden Moment in dem ich faul, jähzornig, müde, unruhig, gemein, ängstlich, abhängig, unfair, etc. war in denen ich gut drauf war und meinen Interessen, meinem Chaos gefolgt bin, nicht schlafen "konnte", vor meinen Augen und fühle mich schuldig. 
+
+Denn die 100%ige Schuld bzw. Besser Verantwortung für sein Leben trägt man selbst. 
+
+Gott und alles drum herum sind nur Ausreden. Natürlich im Rahmen der eigenen Möglichkeiten. 
+Aber jedenfalls nie jemand anderes.
+
+Diese Schuld/Verantwortung zu akzeptieren ist hart und braucht Zeit. Ich bin in letzter Zeit mal wieder davor gefohlen. 
+
+Taubheit und Schmerz sind die entsprechende und gerechte Strafe oder sagen wir besser Maßnahme, um wieder in mich zu kehren und präsent zu sein. Vor mein inneres ich zu treten und ganz auf den Boden zurück zu kehren, um mich weiter selbst zu befreien. 
+
+Lernen durch Schmerz. 
+### mia
+Ist schon ein Wunder dass ich nicht mehr alle paar Stunden nicht mehr leben will, dass ich beim Gedanken an die Vergangenheit total traurig werde und sie vermisse, in Schuldgefühlen versinke. 
+
+Kommt jetzt komischerweise nur noch alle zwei bis drei Wochen so ein Moment... 😭😭😭
+
+Die letzten Tage hatte ich aber wieder gehäuft Tendenzen
 ## 2026-09-13
 
 Ich meine da sehr viel mit... 
@@ -572,7 +617,7 @@ Jo hart, was er da über die Verbindungen erzählt.
 Kampf gegen die Westliche Dekadenz 
 
 🫣
-
+ %% fold %%
 Ich hab natürlich mal bei der AfD zu "die Rechte Ordnung der Liebe" nachgeschaut.
 
 Der David Engels war da tatsächlich Gastredner.
@@ -605,7 +650,7 @@ Und im Prinzip hat er ja Recht.
 Die schlimmsten und Menschenfeindlichsten Ideologien waren "gottlos".
  %% fold %%
 Das hat bisher keine andere Ideologie geschafft.
-
+ %% fold %%
 Gut vorher gab's aber auch nicht die Mittel dazu... %% fold %%
 1. Gab's vorher nicht diese Bevölkerungsexplosion wie zum Ende des 19. Auf das 20. Jh  %% fold %%
 2. Gab's nicht die industriellen Mittel Menschen in der Menge umzubringen. (Ok in Ruanda haben sie es auch ohne diese geschafft in 100 Tagen 1mio Menschen umzubringen) %% fold %%
@@ -629,7 +674,7 @@ Ich hab natürlich mal bei der AfD zu "die Rechte Ordnung der Liebe" nachgeschau
 Die wollen gerade keinen Gottesstaat.
 
 Die sehen eher dass die Gottlosigkeit, der Materialismus und die angebliche Objektivität der Wissenschaft auf die sich Ideologien wie der Kommunismus, der Nationalsozialismus, aber auch der Neoliberalismus/Libertäre berufen haben und berufen zu den menschenfeindlichsten Systemen geführt haben.
-
+ %% fold %%
 Die sind der Ansicht dass es viele Ersatzreligionen gibt und den Leuten Selbsttranszendenz fehlt. 
 
 Die Hinwendung zu einem übermateriellen Streben.
@@ -644,7 +689,7 @@ Mir fällt es schwer solche Menschen als extrem problematisch einzuschätzen.
 Der David Engels und der Christian Machek sind da auf der Veranstaltung.
 
 Ich würde denen prinzipiell schon zu trauen dass zumindest diese AfD Gruppierung als ganzes sich von diesen Verbindungen zum Iran erwehren kann. 
-
+ %% fold %%
 Ich denke dass deren Welt und Menschenbild nicht mit der Ideologie des Islams vereinbar ist. 
 
 Da sie sich ja eher als Gegenentwurf zum sich in Europa ausbreitenden Islam sehen. 
