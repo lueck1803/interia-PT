@@ -313,6 +313,8 @@
 - [x] Ceranfeld ausmessen 16cm 18cm?
 	- [ ] 16cm wäre gut, passt auf die kleinen flächen
 - [ ] Kleidung anprobieren 
+- [ ] textilbeschriftungsband testen
+	- [ ] falls gut, nochmal ein band kaufen
 - [ ] Waschmaschine richten
 - [x] kursmappe
 	- [x] m 5a %% fold %%
