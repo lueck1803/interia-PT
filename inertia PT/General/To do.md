@@ -445,7 +445,7 @@
 - [ ] Mathe 8 %% fold %%
 	- [ ] in den lehrplan schauen %% fold %%
 	- [ ] ins Mathebuch schauen
-	- [ ] Arbeitsblatt 
+	- [ ] Arbeitsblatt  %% fold %%
 		- [ ] Seite und Aufgabe aus dem Mathebuch
 		- [ ] Dreisatz
 		- [ ] Prozentrechnung
