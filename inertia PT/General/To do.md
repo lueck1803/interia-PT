@@ -300,6 +300,20 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
+- [ ] hemd 41 gegen 40 umtauschen 
+	- [ ] regular=modern fit
+- [x] 30° Wäsche mit Mützen 
+- [ ] 30° Wäsche schleudern 
+- [ ] gießen 
+- [ ] Decken waschen 
+- [ ] Staub saugen 
+- [ ] Spülmaschine ausräumen 
+- [ ] Spülmaschine einräumen 
+- [ ] Briefkasten 
+- [ ] Ceranfeld ausmessen 16cm 18cm?
+- [ ] Kleidung anprobieren 
+- [ ] Waschmaschine richten
+- [ ] Test
 - [x] kursmappe
 	- [x] m 5a %% fold %%
 	- [ ] m 8a
@@ -609,7 +623,7 @@
 - [ ] Feldahorn umsetzen
 - [x] die Tage nochmal nach dem Label maker schauen kostet nur 20 statt sonst 25€
 - [ ] Körnung Aufsätze und andere in Akkuschrauber box %% fold %%
-- [ ] English 5b %% fold %%
+- [ ] English 5b
 	- [ ] alle in grundschule englisch %% fold %%
 		- [ ] Fragewörter  %% fold %%
 	- [ ] wie stelle ich mich vor?
