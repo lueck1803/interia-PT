@@ -9,23 +9,18 @@
 # Aldi
 ## Jetzt
 - Einkaufswagen 
+- [ ] Tomaten 
+- [ ] Saft
+- [ ] pizza
 - [x] Schmelzkäse Scheiben
 - [x] hummus
-- [x] essigreiniger
 - [x] Hartkäse
 - [x] gauda mittelalt
 - [x] toast
-- [x] saft
-- [x] pizza
-- [x] Pizza baguette 
-- [x] Hustenbonbons 
 - [x] Bier
-- [x] Saft 
 - [x] Bananen
 - [x] Pilze
 - [x] Toast
-- [x] buldag
-- [x] pizza
 
 
 ## später mal
