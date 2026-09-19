@@ -308,6 +308,7 @@
 - [ ] weiße Wäsche mit Hemd waschen 
 - [ ] weiße Wäsche mit Hemd schleudern 
 - [ ] weiße Wäsche mit Hemd aufhängen 
+- [ ] Hemd bügeln 
 - [ ] gewaschene Unterhosen zu Lappen 
 	- [ ] grau
 	- [ ] rot
