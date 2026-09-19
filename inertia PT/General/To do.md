@@ -317,7 +317,16 @@
 	- [ ] grau
 	- [ ] rot
 - [ ] jamil schreiben dass ich söb und hal beigebracht habe wie man "mein Unterricht" als Vertretung einträgt 
-- [ ] viel Erfolg beim Auftritt wünschen 
+- [ ] Mail an Sekretariat wegen Montag
+- [ ] Dilara sagen was sie Montag mit 8a machen soll 
+- [ ] und ob sie die auch in Physik haben wirdm
+- [ ] wer hat noch Montags vss?
+- [ ] wer hat Mittwoch Vertretung gehabt 
+- [ ] Jamil schreiben wegen
+	- [ ] krank am Montag (mein Gesundheitszustand )
+		- [ ] was ist mit salma?
+	- [ ] wegen meinem Schulportal Anliegen 
+- [x] viel Erfolg beim Auftritt wünschen 
 - [ ] reformerboard testen 
 - [ ] Bürstenaufsatz bestellen 
 - [ ] dringend Gitarre spielen mit den kaputten Ohren 
