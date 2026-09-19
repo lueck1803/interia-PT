@@ -347,10 +347,10 @@
 - [x] kakteen gießen
 - [x] Ceranfeld ausmessen 16cm 18cm?
 	- [x] 16cm wäre gut, passt auf die kleinen flächen
-- [ ] Kleidung anprobieren 
+- [x] Kleidung anprobieren 
 	- [x] Hemd anprobieren 
-	- [ ] shorts 
-	- [ ] schlafanzug
+	- [x] shorts 
+	- [x] schlafanzug
 - [x] textilbeschriftungsband testen
 	- [x] falls gut, nochmal ein band kaufen
 - [ ] Waschmaschine richten
