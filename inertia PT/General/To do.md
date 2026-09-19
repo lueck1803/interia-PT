@@ -301,6 +301,8 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] dünne pics kaufen
+- [ ] gießen
+- [ ] Essen mit auberginen und Tofu
 - Medikament 
 	- [x] morgens 
 	- [x] mittags

@@ -12,6 +12,7 @@
 - [ ] Tomaten 
 - [ ] Saft
 - [ ] pizza
+- [ ] Auberginen
 - [x] Schmelzkäse Scheiben
 - [x] hummus
 - [x] Hartkäse
