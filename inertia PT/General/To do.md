@@ -303,6 +303,7 @@
 - [ ] dünne pics kaufen
 - [x] Duolingo
 - [ ] Lotus rein stellen 
+- [ ] kleines grünes Gewächshaus aus und aufra
 - [ ] Spülmaschine ausräumen 
 - [ ] gießen
 - [ ] Konto checken
