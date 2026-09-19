@@ -307,7 +307,7 @@
 - Medikament 
 	- [x] morgens 
 	- [x] mittags
-	- [ ] abends 
+	- [x] abends 
 - [x] hemd 41 gegen 40 umtauschen 
 	- regular=modern fit
 - [x] 30° Wäsche mit Mützen 
