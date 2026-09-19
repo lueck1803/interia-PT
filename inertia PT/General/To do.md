@@ -302,6 +302,8 @@
 
 - [ ] hemd 41 gegen 40 umtauschen 
 	- [ ] regular=modern fit
+- [ ] 30° Wäsche mit Mützen 
+- [ ] gießen 
 - [x] kursmappe
 	- [x] m 5a %% fold %%
 	- [ ] m 8a
