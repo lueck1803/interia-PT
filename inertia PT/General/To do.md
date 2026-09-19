@@ -301,8 +301,12 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] dünne pics kaufen
+- [x] Duolingo
 - [ ] gießen
-- [ ] pilze waschen 
+- [ ] Konto checken
+- [ ] Mischa schreiben ob Geld da ist
+- [x] pilze waschen 
+- [ ] pilze anbraten
 - [ ] Essen mit pilze, zucchini, paprika und Tofu kochen
 - Medikament 
 	- [x] morgens 
@@ -360,15 +364,12 @@
 - [ ] 2) Satz umschreiben mit Beispiel $5\cdot 1=5$
 - [ ] bei der Aufgabe die Einheitsidentitäten ; machen 
 
-- [x] Biomüll  %% fold %%
 - [ ] Mathearbeit 5a?
 - [ ] Wie werden in Mathe die noten vergeben? 
 - [ ] proposal fertig schreiben
 - [ ] Antenne pc befestigen 
-- [x] Nudeln kochen
 - [ ] akustisches klavier oder ähnliches kaufen
 - [ ] Küche flächen + Ceranfeld wischen
-- [x] carnivoren gießen 
 - [ ] Walnuss umsetzen 
 - [ ] Küchenflächen wischen 
 - [ ] Checkliste Mathe schreiben 
@@ -378,9 +379,6 @@
 - [ ] fritz kunkel
 - [ ] elias Ausfertigung 
 
-
-- [x] Duolingo
-- [x] Semesterbeitrag
 - [ ] sus Akkorde am Klavier probieren 
 
 
