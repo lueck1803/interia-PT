@@ -301,6 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] hemd 41 gegen 40 umtauschen 
+	- [ ] regular=modern fit
 - [x] kursmappe
 	- [x] m 5a %% fold %%
 	- [ ] m 8a
