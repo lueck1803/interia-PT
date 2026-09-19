@@ -307,7 +307,7 @@
 - [ ] Konto checken
 - [ ] Mischa schreiben ob Geld da ist
 - [x] pilze waschen 
-- [ ] pilze anbraten
+- [x] pilze anbraten
 - [ ] Essen mit pilze, zucchini, paprika und Tofu kochen
 - Medikament 
 	- [x] morgens 
