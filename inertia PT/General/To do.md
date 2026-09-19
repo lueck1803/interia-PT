@@ -308,15 +308,6 @@
 	- [x] morgens 
 	- [x] mittags
 	- [x] abends 
-- [x] hemd 41 gegen 40 umtauschen 
-	- regular=modern fit
-- [x] 30° Wäsche mit Mützen 
-- [x] 30° Wäsche schleudern 
-- [x] 30° Wäsche aufhängen 
-- [x] weiße Wäsche mit Hemd waschen 
-- [x] buch wieder ins Regal 
-- [x] weiße Wäsche mit Hemd schleudern 
-- [x] weiße Wäsche mit Hemd aufhängen 
 - [ ] Termin bei Dr Cerni machen
 - [ ] Hemd bügeln 
 - [ ] gewaschene Unterhosen zu Lappen 
@@ -332,11 +323,8 @@
 	- [ ] krank am Montag (mein Gesundheitszustand )
 		- [ ] was ist mit salma?
 	- [ ] wegen meinem Schulportal Anliegen 
-- [x] viel Erfolg beim Auftritt wünschen 
 - [ ] reformerboard testen 
 - [ ] Bürstenaufsatz bestellen 
-- [x] dringend Gitarre spielen mit den kaputten Ohren 
-- [x] gießen 
 - [ ] Decken waschen 
 - [ ] Staub saugen 
 - [ ] Spülmaschine ausräumen 
@@ -344,15 +332,6 @@
 - [ ] Briefkasten 
 - [ ] carnivorenwasser
 - [ ] carnivoren gießen
-- [x] kakteen gießen
-- [x] Ceranfeld ausmessen 16cm 18cm?
-	- [x] 16cm wäre gut, passt auf die kleinen flächen
-- [x] Kleidung anprobieren 
-	- [x] Hemd anprobieren 
-	- [x] shorts 
-	- [x] schlafanzug
-- [x] textilbeschriftungsband testen
-	- [x] falls gut, nochmal ein band kaufen
 - [ ] Waschmaschine richten
 - [x] kursmappe
 	- [x] m 5a %% fold %%
@@ -364,9 +343,6 @@
 	- [x] p 10b %% fold %%
 	- [x] p 10a
 
-- [x] tisch wischen 
-- [x] aldi
-- [x] burger essen
 - [ ] Küche aufräumen 
 - [ ] boden wischen 
 - [ ] sofa aufräumen 
@@ -408,7 +384,7 @@
 - [ ] sus Akkorde am Klavier probieren 
 
 
-
+ %% fold %%
  %% fold %%
  %% fold %%
 - [ ] Haftpflicht und Diensthaftpflicht und Schlüssel Versicherung  %% fold %%
