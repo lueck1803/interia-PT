@@ -313,9 +313,10 @@
 - [x] 30° Wäsche schleudern 
 - [x] 30° Wäsche aufhängen 
 - [x] weiße Wäsche mit Hemd waschen 
-- [ ] buch wieder ins Regal 
+- [x] buch wieder ins Regal 
 - [x] weiße Wäsche mit Hemd schleudern 
-- [ ] weiße Wäsche mit Hemd aufhängen 
+- [x] weiße Wäsche mit Hemd aufhängen 
+- [ ] Termin bei Dr Cerni machen
 - [ ] Hemd bügeln 
 - [ ] gewaschene Unterhosen zu Lappen 
 	- [ ] grau
@@ -333,7 +334,7 @@
 - [x] viel Erfolg beim Auftritt wünschen 
 - [ ] reformerboard testen 
 - [ ] Bürstenaufsatz bestellen 
-- [ ] dringend Gitarre spielen mit den kaputten Ohren 
+- [x] dringend Gitarre spielen mit den kaputten Ohren 
 - [x] gießen 
 - [ ] Decken waschen 
 - [ ] Staub saugen 
