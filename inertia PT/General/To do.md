@@ -304,11 +304,14 @@
 	- regular=modern fit
 - [x] 30° Wäsche mit Mützen 
 - [x] 30° Wäsche schleudern 
+- [x] 30° Wäsche aufhängen 
+- [ ] weiße Wäsche mit Hemd 
 - [ ] gewaschene Unterhosen zu Lappen 
 	- [ ] grau
 	- [ ] rot
 - [ ] jamil schreiben dass ich söb und hal beigebracht habe wie man "mein Unterricht" als Vertretung einträgt 
 - [ ] viel Erfolg beim Auftritt wünschen 
+- [ ] reformerboard testen 
 - [ ] Bürstenaufsatz bestellen 
 - [ ] dringend Gitarre spielen mit den kaputten Ohren 
 - [x] gießen 
