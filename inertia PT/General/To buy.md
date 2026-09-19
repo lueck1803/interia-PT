@@ -1,5 +1,5 @@
 # Stadt
-- [ ] 
+- [ ] satz dünner pics kaufen, so dünn wie repair tool
 # Internet 
 - macbook ersatztasten 
 	- [ ] Set von ifixit?
