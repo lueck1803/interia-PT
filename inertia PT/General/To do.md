@@ -309,6 +309,9 @@
 	- [x] p 8c %% fold %%
 	- [x] p 10b %% fold %%
 	- [x] p 10a
+- [ ] dilara wegen 5 a Dienstag schreiben 
+- [ ] fragen wenn
+
 
 - [ ] tisch wischen 
 - [x] aldi
