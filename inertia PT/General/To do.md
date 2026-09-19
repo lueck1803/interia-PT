@@ -300,6 +300,8 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
+- Medikament 
+	- [ ] morgens 
 - [x] hemd 41 gegen 40 umtauschen 
 	- regular=modern fit
 - [x] 30° Wäsche mit Mützen 
