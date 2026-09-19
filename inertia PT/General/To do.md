@@ -303,17 +303,17 @@
 - [x] hemd 41 gegen 40 umtauschen 
 	- regular=modern fit
 - [x] 30° Wäsche mit Mützen 
-- [ ] 30° Wäsche schleudern 
+- [x] 30° Wäsche schleudern 
 - [ ] gießen 
 - [ ] Decken waschen 
 - [ ] Staub saugen 
 - [ ] Spülmaschine ausräumen 
 - [ ] Spülmaschine einräumen 
 - [ ] Briefkasten 
-- [ ] Ceranfeld ausmessen 16cm 18cm?
+- [x] Ceranfeld ausmessen 16cm 18cm?
+	- [ ] 16cm wäre gut, passt auf die kleinen flächen
 - [ ] Kleidung anprobieren 
 - [ ] Waschmaschine richten
-- [ ] Test
 - [x] kursmappe
 	- [x] m 5a %% fold %%
 	- [ ] m 8a

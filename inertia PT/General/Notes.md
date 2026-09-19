@@ -103,7 +103,20 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+
 ## 2026-09-19
+### jamil
+Ich habe dann noch eine Frage zur Notenzusammensetzung.
+
+Am Freitag hat mich in Mathe ein Schüler angesprochen.
+
+Ich meinte, dass mein Stand für Hauptfächer:
+Schriftlich: 50% Mündlich: 50% 
+
+und für Nebenfächer
+Schriftlich: 40% Mündlich: 60% 
+
+Ich habe jetzt keine andere Regelung im Dateispeicher der BAS gefunden.
 ### mia Melanie zwei
 Ich weiß nicht ob du da wirklich ne ehrliche Antwort darauf haben willst. 
 
@@ -748,7 +761,7 @@ Die wollen gerade keinen Gottesstaat.
  %% fold %%
 Die sehen eher dass die Gottlosigkeit, der Materialismus und die angebliche Objektivität der Wissenschaft auf die sich Ideologien wie der Kommunismus, der Nationalsozialismus, aber auch der Neoliberalismus berufen haben und berufen zu den menschenfeindlichsten Systemen geführt haben. %% fold %%
  %% fold %%
-Die sind der Ansicht dass es viele Ersatzreligionen gibt und den Leuten Selbsttranszendenz fehlt. 
+Die sind der Ansicht dass es viele Ersatzreligionen gibt und den Leuten Selbsttranszendenz fehlt.  %% fold %%
 
 Die Hinwendung zu einem übermateriellen Streben.
 
