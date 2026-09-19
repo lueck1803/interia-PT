@@ -12,7 +12,7 @@
 - [ ] Tomaten 
 - [ ] Saft
 - [ ] pizza
-- [ ] Auberginen
+- [x] ~~Auberginen~~ Pilze 
 - [x] Schmelzkäse Scheiben
 - [x] hummus
 - [x] Hartkäse
