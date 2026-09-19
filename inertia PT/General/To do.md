@@ -322,6 +322,7 @@
 - [ ] Frau Güldener fragen ob zwischen uns alles OK ist
 
 - [ ] Mittelohrentzündung Trommelfellriss googeln 
+- [ ] rote Unterhose als Lappen 
 
 - [ ] tisch wischen 
 - [x] aldi
