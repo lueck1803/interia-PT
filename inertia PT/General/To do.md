@@ -424,7 +424,7 @@
 - [ ] sofalehne dampfen
 - [ ] Batterie außen Thermometer  %% fold %%
 - [ ] Kapitel §17 vom künkel lesen %% fold %%
-- [ ] Mich dringend um den Rechner kümmern
+- [ ] Mich dringend um den Rechner kümmern %% fold %%
  %% fold %%
 - [ ] Arbeitsblatt der 10ten Klasse ab ändern
 	- [ ] A) oben weg machen
