@@ -104,6 +104,75 @@ Kind regards
 Lukas Walter 
 # Nachrichten an Leute
 ## 2026-09-19
+### mia Melanie zwei
+Ich weiß nicht ob du da wirklich ne ehrliche Antwort darauf haben willst. 
+
+Ich denke auch dass ich damit, wie damit dass ich überhaupt zu viele Worte an dich gerichtet habe, wieder hunderte Grenzen überschreite. 
+
+Dann kommt wieder jemand auf den Gedanken dein Handy abzufotografieren 😵‍💫.
+
+Und ich glaube ich muss mit Emily mal ein ernstes Wort reden. 
+Wenn ich weiter euer Lehrer sein soll, dann mach ich ihr Spiel nicht mehr mit. 
+
+Zur Not mache ich sie dann mal vor der Klasse runter für ihre intrigante Art. 
+
+Extrem dreist in ihre Machtspiele Melanie mit rein zu ziehen. 
+
+Hat ihr halt nicht gepasst dass ich ihr vor ihren Freunden gesagt habe, wie unfair sie sich gegenüber den anderen verhält in dem sie sie ablenkt und dann hat sie noch gezeigt wie egal ihr die anderen sind 😅.
+So als wäre sie nicht die aufpasserin für die anderen und es ist nicht ihr Problem ob die anderen mitmachen. 
+
+Gab dann intern wohl etwas Reibereien... 
+
+Ich hab nämlich gesagt, dass Ümmü sara und Wirsawija immer positiv unterstützt und einen guten Einfluss hatte. 
+Ich nur möchte dass Emily da mit macht, auch fürsorglich für ihre freundinnen eintreten soll, damit sie als Freunde voran kommen und dann ist sie ausgerastet. 
+Denn ich hab klar gemacht dass ich nicht will dass ich die auseinander setzen muss, denn ich finde Freundschaft etwas Gutes. 
+
+Sie meinte "dass es unmöglich wäre dass ich sie hier als Problem darstelle". Das war in nem Einzelchat (Ümmü) ne schlechte Ausdrucksweise wofür ich mich in der Gruppe entschuldigt habe. 
+
+Sie hat sich aber dennoch aufgeführt und dann meinte ich "ja also wenn du dich so dagegen strebst deine Freunde im Unterricht zu unterstützen und dafür keine Verantwortung siehst, dann bist du tatsächlich das Problem". 
+
+Und ja ist sie ja offenbar auch... 
+
+---
+
+Ich weiß mich auch zu verteidigen und die Sache vor den Autoritäten zu drehen. 
+Wenn ich den Mut und das Rückgrat habe dann, kann ich die Sache ganz gut verteidigen. 
+
+Denn das eigentliche Problem ist dieser Umgang im Klassenrat damit. 
+
+Überhaupt finde ich es sehr dreist wie sich Lehrer hier häufig als Richter und Vollstrecker aufführen ohne ein kleines bisschen Grundlage in Erkenntnistheorie und Beweisführung. 
+
+Ich mach das knallhart aus der Perspektive, wie dreist, egozentrisch und narzisstisch emilies verhalten im klassenrat war und wie unmöglich es war Melanie damit rein zu ziehen und ihre Privatsphäre öffentlich zu machen. 
+
+Ich meine wir haben da über unserer beider Psyche gesprochen. Privater geht es nicht. 
+Das wäre wie wenn man die ton Aufzeichnung eines Gesprächs mit nem Vertrauenslehrer herausfordert. 
+
+Was geht die intrigante Emily unsere persönlichen Gespräche an? 
+Und Frau Rohr macht sich noch zum Werkzeug dieser Machtspiele. Emily will zeigen dass sie hier die Kontrolle hat. 
+
+Wenn ich es richtig verstanden habe, wollte Melanie das erst nicht zeigen, da es privat ist. 
+Vollkommen zu Recht. 
+
+Ich meine ich habe um das Gespräch gebeten da ich Gefühle und Gedanken hatte, die wollte ich abklären. 
+Und dann habe ich auch meine privaten Erlebnisse genannt.
+
+Aber Statt dass diese Privatsphäre und der Wunsch gewahrt wird, dass es privat bleibt, wird hier so ein fall daraus gemacht als wäre ich hier ein perverser der nachts kleinen Mädchen schreibt und dabei wird Melanie benutzt und null auf ihre würde und Privatsphäre geachtet.
+
+Sie quasi vor der Klasse ausgezogen...
+
+Widerlich...
+
+So behandelt man kein mögliches "Opfer".
+
+Ich hätte das wenn ich Frau Rohr wäre in einen extra Termin verschoben.
+
+Aber dieses zerfleischen vor der ganzen Klasse.
+
+Hätte ich direkt gestoppt.
+Widerlich...
+
+Das ist so Frauen verachtend
+
 ### mia Melanie 
 
 Ja doch da gibt's Gründe für, gute Gründe. 
@@ -735,7 +804,7 @@ Ich bin dir wirklich dankbar dass du so stark warst ,zu dir und deinem Unwohlsei
 So hart, schmerzhaft, schade es und in der Zeit letztes Jahr unverständlich der Schritt für mich auch war.
 
 Ich hab diese harte Zäsur, den Schmerz, die tiefe Einsamkeit, Ausweglosigkeit und Verlorenheit gebraucht.
-
+ %% fold %%
 Um zu merken, dass ich auf mich allein gestellt bin, ich mich da alleine heraus holen und mein Leben wieder selbst in die Hand nehmen muss und das auch kann. 
 
 Ich war wirklich irgendwas zu tief in der Hilf- und Machtlosigkeit drin und habe mich dieser ergeben, mich dieser unterworfen und mich dann zu sehr von dir emotional abhängig gemacht.
