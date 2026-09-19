@@ -310,7 +310,9 @@
 	- [x] p 10b %% fold %%
 	- [x] p 10a
 - [ ] dilara wegen 5 a Dienstag schreiben 
+- [ ] fragen wer Mittwoch vss war? Physik 8c?
 - [ ] fragen wer Montag vss ist
+	- [ ] 
 - [ ] Jamil schreiben 
 	- [ ] wegen Montag 
 		- [ ] was ist mit salma
