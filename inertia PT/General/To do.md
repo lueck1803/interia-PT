@@ -302,6 +302,7 @@
 
 - [ ] dünne pics kaufen
 - [x] Duolingo
+- [ ] Lotus rein stellen 
 - [ ] Spülmaschine ausräumen 
 - [ ] gießen
 - [ ] Konto checken
