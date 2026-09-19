@@ -305,7 +305,9 @@
 - [x] 30° Wäsche mit Mützen 
 - [x] 30° Wäsche schleudern 
 - [x] 30° Wäsche aufhängen 
-- [ ] weiße Wäsche mit Hemd 
+- [ ] weiße Wäsche mit Hemd waschen 
+- [ ] weiße Wäsche mit Hemd schleudern 
+- [ ] weiße Wäsche mit Hemd aufhängen 
 - [ ] gewaschene Unterhosen zu Lappen 
 	- [ ] grau
 	- [ ] rot
