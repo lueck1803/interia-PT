@@ -335,7 +335,7 @@
 	- [x] p 10b %% fold %%
 	- [x] p 10a
 
-- [ ] tisch wischen 
+- [x] tisch wischen 
 - [x] aldi
 - [x] burger essen
 - [ ] Küche aufräumen 
