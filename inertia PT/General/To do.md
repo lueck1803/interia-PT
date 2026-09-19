@@ -308,6 +308,7 @@
 	- [ ] grau
 	- [ ] rot
 - [ ] jamil schreiben dass ich söb und hal beigebracht habe wie man "mein Unterricht" als Vertretung einträgt 
+- [ ] viel Erfolg beim Auftritt wünschen 
 - [ ] Bürstenaufsatz bestellen 
 - [ ] dringend Gitarre spielen mit den kaputten Ohren 
 - [x] gießen 
