@@ -301,13 +301,15 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - Medikament 
-	- [ ] morgens 
+	- [x] morgens 
+	- [ ] mittags
+	- [ ] abends 
 - [x] hemd 41 gegen 40 umtauschen 
 	- regular=modern fit
 - [x] 30° Wäsche mit Mützen 
 - [x] 30° Wäsche schleudern 
 - [x] 30° Wäsche aufhängen 
-- [ ] weiße Wäsche mit Hemd waschen 
+- [x] weiße Wäsche mit Hemd waschen 
 - [ ] weiße Wäsche mit Hemd schleudern 
 - [ ] weiße Wäsche mit Hemd aufhängen 
 - [ ] Hemd bügeln 
