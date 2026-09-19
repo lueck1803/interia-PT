@@ -308,6 +308,7 @@
 - [ ] Decken waschen 
 - [ ] Staub saugen 
 - [ ] Spülmaschine ausräumen 
+- [ ] Spülmaschine einräumen 
 - [x] kursmappe
 	- [x] m 5a %% fold %%
 	- [ ] m 8a
