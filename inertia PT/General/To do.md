@@ -311,6 +311,9 @@
 - [ ] Spülmaschine einräumen 
 - [ ] Briefkasten 
 - [ ] Ceranfeld ausmessen 16cm 18cm?
+- [ ] Kleidung anprobieren 
+- [ ] Waschmaschine richten
+- [ ] Test
 - [x] kursmappe
 	- [x] m 5a %% fold %%
 	- [ ] m 8a
