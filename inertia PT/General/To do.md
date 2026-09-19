@@ -306,7 +306,7 @@
 - [x] 30° Wäsche schleudern 
 - [ ] jamil schreiben dass ich söb und hal beigebracht habe wie man "mein Unterricht" als Vertretung einträgt 
 - [ ] Bürstenaufsatz bestellen 
-- [ ] dringend Gitarre spielen mit den Ohren 
+- [ ] dringend Gitarre spielen mit den kaputten Ohren 
 - [x] gießen 
 - [ ] Decken waschen 
 - [ ] Staub saugen 
