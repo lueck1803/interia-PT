@@ -687,7 +687,7 @@
 		- <u>Beispiel:</u> I play football [Objekt] in the park [Ort] on Sunday [Zeit].
 		- Du kannst die ==Zeitangabe== auch an den **Anfang** des Satzes stellen. Dann machst du ein Komma danach: *On Sunday, I play football in the park*.
 	- **Fragen (Questions)** %% fold %%
-	  Bei Fragen mit den meisten Verben brauchst du ein Hilfsverb wie do oder did an den Anfang:
+	  Bei Fragen mit den meisten Verben brauchst du ein Hilfsverb wie do oder did an den Anfang: %% fold %%
 		- **Reihenfolge:** Fragewort + Hilfsverb + Subjekt + Vollverb
 		- <u>Beispiel:</u> Where do you live?
 	- **1. Verneinungen (Negations)**
