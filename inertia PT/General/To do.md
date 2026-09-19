@@ -312,12 +312,13 @@
 - [ ] dilara wegen 5 a Dienstag schreiben 
 - [ ] fragen wer Mittwoch vss war? Physik 8c?
 - [ ] fragen wer Montag vss ist
-	- [ ] 
+	- [ ] Auftrag für mathe
+	- [ ] Auftrag für Physik 
 - [ ] Jamil schreiben 
 	- [ ] wegen Montag 
 		- [ ] was ist mit salma
 	- [ ] wegen Schulportal 
-- [ ] 
+- [ ] tabea fragen wie die Lehrerband heißt, die beim Auftritt beglückwünschen 
 
 
 - [ ] tisch wischen 
