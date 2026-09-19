@@ -9,8 +9,8 @@
 # Aldi
 ## Jetzt
 - Einkaufswagen 
-- [ ] Schmelzkäse Scheiben
-- [ ] hummus
+- [x] Schmelzkäse Scheiben
+- [x] hummus
 - [x] essigreiniger
 - [x] Hartkäse
 - [x] gauda mittelalt
