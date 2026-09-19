@@ -142,6 +142,22 @@ Diese Schuld/Verantwortung zu akzeptieren ist hart und braucht Zeit. Ich bin in 
 Taubheit und Schmerz sind die entsprechende und gerechte Strafe oder sagen wir besser Maßnahme, um wieder in mich zu kehren und präsent zu sein. Vor mein inneres ich zu treten und ganz auf den Boden zurück zu kehren, um mich weiter selbst zu befreien. 
 
 Lernen durch Schmerz. 
+
+Und doch ja ich habe es verdient. Das ist ja keine Strafe, sondern ein Hinweis, ein Erkenntnisgewinn, eine Möglichkeit zu lernen. 
+
+Mal schauen ob ich den schon hatte bzw. Noch haben werde. 
+
+Es ist jedenfalls immer etwas bemerkenswertes wenn man eines Sinnes oder einer sonst gewohnten Fähigkeit beraubt wird. 
+
+Man lernt so unglaublich viel. 
+
+Und doch ja ich habe es verdient. Das ist ja keine Strafe, sondern ein Hinweis, ein Erkenntnisgewinn, eine Möglichkeit zu lernen. 
+
+Mal schauen ob ich den schon hatte bzw. Noch haben werde. 
+
+Es ist jedenfalls immer etwas bemerkenswertes wenn man eines Sinnes oder einer sonst gewohnten Fähigkeit beraubt wird. 
+
+Man lernt so unglaublich viel. 
 ### mia
 Ist schon ein Wunder dass ich nicht mehr alle paar Stunden nicht mehr leben will, dass ich beim Gedanken an die Vergangenheit total traurig werde und sie vermisse, in Schuldgefühlen versinke. 
 
@@ -656,12 +672,12 @@ Gut vorher gab's aber auch nicht die Mittel dazu... %% fold %%
 2. Gab's nicht die industriellen Mittel Menschen in der Menge umzubringen. (Ok in Ruanda haben sie es auch ohne diese geschafft in 100 Tagen 1mio Menschen umzubringen) %% fold %%
  %% fold %%
 ### 3 %% fold %%
-Ich hab natürlich mal bei der AfD zu "die Rechte Ordnung der Liebe" nachgeschaut. %% fold %%
+Ich hab natürlich mal bei der AfD zu "die Rechte Ordnung der Liebe" nachgeschaut.
  %% fold %%
 
 Die wollen gerade keinen Gottesstaat.
  %% fold %%
-Die sehen eher dass die Gottlosigkeit, der Materialismus und die angebliche Objektivität der Wissenschaft auf die sich Ideologien wie der Kommunismus, der Nationalsozialismus, aber auch der Neoliberalismus berufen haben und berufen zu den menschenfeindlichsten Systemen geführt haben.
+Die sehen eher dass die Gottlosigkeit, der Materialismus und die angebliche Objektivität der Wissenschaft auf die sich Ideologien wie der Kommunismus, der Nationalsozialismus, aber auch der Neoliberalismus berufen haben und berufen zu den menschenfeindlichsten Systemen geführt haben. %% fold %%
  %% fold %%
 Die sind der Ansicht dass es viele Ersatzreligionen gibt und den Leuten Selbsttranszendenz fehlt. 
 
