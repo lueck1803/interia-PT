@@ -302,7 +302,8 @@
 
 - [ ] dünne pics kaufen
 - [ ] gießen
-- [ ] Essen mit auberginen, zucchini, paprika und Tofu kochen
+- [ ] pilze waschen 
+- [ ] Essen mit pilze, zucchini, paprika und Tofu kochen
 - Medikament 
 	- [x] morgens 
 	- [x] mittags
