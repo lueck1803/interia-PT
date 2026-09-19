@@ -104,7 +104,14 @@ Kind regards
 Lukas Walter 
 # Nachrichten an Leute
 ## 2026-09-19
+### mia Melanie 
 
+### mia
+Ist schon ein Wunder dass ich nicht mehr alle paar Stunden nicht mehr leben will, dass ich beim Gedanken an die Vergangenheit total traurig werde und sie vermisse, in Schuldgefühlen versinke. 
+
+Kommt jetzt komischerweise nur noch alle zwei bis drei Wochen so ein Moment... 😭😭😭
+
+Die letzten Tage hatte ich aber wieder gehäuft Tendenzen
 ## 2026-09-13
 
 Ich meine da sehr viel mit... 
