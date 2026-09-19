@@ -310,6 +310,7 @@
 - [x] 30° Wäsche schleudern 
 - [x] 30° Wäsche aufhängen 
 - [x] weiße Wäsche mit Hemd waschen 
+- [ ] buch wieder ins Regal 
 - [ ] weiße Wäsche mit Hemd schleudern 
 - [ ] weiße Wäsche mit Hemd aufhängen 
 - [ ] Hemd bügeln 
