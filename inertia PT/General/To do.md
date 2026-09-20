@@ -302,7 +302,8 @@
 
 - [ ] dünne pics kaufen
 	- Plektrumstärke: <font color="#00b050">0,6mm</font>
-- [ ] Nudeln in Kühlschrank 
+- [ ] Nudeln in Kühlschrank
+- [ ] 8a 1+ für freitag eintragen, alle die am Freitag heft abgegeben haben, rest 4.
 - [ ] Duolingo
 - [ ] Zitronensäure auffüllen 
 - [ ] Lotus rein stellen 
