@@ -301,7 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] dünne pics kaufen
-	- [ ] Plektrumstärke: 0,6m
+	- [ ] Plektrumstärke: <font color="#00b050">0,6mm</font>
 - [ ] Duolingo
 - [ ] Zitronensäure auffüllen 
 - [ ] Lotus rein stellen 
