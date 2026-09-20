@@ -302,6 +302,7 @@
 
 - [ ] dünne pics kaufen
 	- Plektrumstärke: <font color="#00b050">0,6mm</font>
+- [ ] Nudeln in Kühlschrank 
 - [ ] Duolingo
 - [ ] Zitronensäure auffüllen 
 - [ ] Lotus rein stellen 
