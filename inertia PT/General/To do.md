@@ -301,6 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] dünne pics kaufen
+	- [ ] Plektrumstärke
 - [ ] Duolingo
 - [ ] Lotus rein stellen 
 - [ ] rasieren
