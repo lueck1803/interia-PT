@@ -301,20 +301,20 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] dünne pics kaufen
-- [x] Duolingo
+- [ ] Duolingo
 - [ ] Lotus rein stellen 
+- [ ] rasieren
+- [ ] duschen
 - [ ] kleines grünes Gewächshaus aus und Aufräumen 
 - [ ] Spülmaschine ausräumen 
 - [ ] gießen
 - [ ] Konto checken
 - [ ] Mischa schreiben ob Geld da ist
-- [x] pilze waschen 
-- [x] pilze anbraten
 - [ ] Essen mit pilze, zucchini, paprika und Tofu kochen
 - Medikament 
 	- [x] morgens 
-	- [x] mittags
-	- [x] abends 
+	- [ ] mittags
+	- [ ] abends 
 - [ ] Termin bei Dr Cerni machen
 - [ ] Hemd bügeln 
 - [ ] gewaschene Unterhosen zu Lappen 
