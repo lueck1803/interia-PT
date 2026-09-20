@@ -320,16 +320,16 @@
 - [ ] gewaschene Unterhosen zu Lappen 
 	- [ ] grau
 	- [ ] rot
-- [ ] jamil schreiben dass ich söb und hal beigebracht habe wie man "mein Unterricht" als Vertretung einträgt 
+- [x] jamil schreiben dass ich söb und hal beigebracht habe wie man "mein Unterricht" als Vertretung einträgt
 - [ ] Mail an Sekretariat wegen Montag
 - [ ] Dilara sagen was sie Montag mit 8a machen soll 
 - [ ] und ob sie die auch in Physik haben wird
 - [ ] wer hat noch Montags vss?
 - [ ] wer hat Mittwoch Vertretung gehabt 
-- [ ] Jamil schreiben wegen
-	- [ ] krank am Montag (mein Gesundheitszustand )
-		- [ ] was ist mit salma?
-	- [ ] wegen meinem Schulportal Anliegen 
+- [x] Jamil schreiben wegen
+	- [x] krank am Montag (mein Gesundheitszustand )
+		- [x] was ist mit salma?
+	- [x] wegen meinem Schulportal Anliegen 
 - [ ] reformerboard testen 
 - [ ] Bürstenaufsatz bestellen 
 - [ ] Decken waschen 
