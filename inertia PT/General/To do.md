@@ -311,7 +311,7 @@
 - [ ] kleines grünes Gewächshaus aus und Aufräumen 
 - [ ] Spülmaschine ausräumen 
 - [x] gießen
-- [ ] Taschenlampe laden
+- [x] Taschenlampe laden
 - [ ] Konto checken
 - [ ] Mischa schreiben ob Geld da ist
 - [ ] Essen mit pilze, zucchini, paprika und Tofu kochen
