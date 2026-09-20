@@ -310,7 +310,8 @@
 - [ ] duschen
 - [ ] kleines grünes Gewächshaus aus und Aufräumen 
 - [ ] Spülmaschine ausräumen 
-- [ ] gießen
+- [x] gießen
+- [ ] Taschenlampe laden
 - [ ] Konto checken
 - [ ] Mischa schreiben ob Geld da ist
 - [ ] Essen mit pilze, zucchini, paprika und Tofu kochen
