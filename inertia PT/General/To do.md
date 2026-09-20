@@ -318,7 +318,7 @@
 - Medikament 
 	- [x] morgens 
 	- [x] mittags
-	- [ ] abends 
+	- [x] abends 
 - [ ] Termin bei Dr Cerni machen
 - [ ] Hemd bügeln 
 - [ ] gewaschene Unterhosen zu Lappen 
