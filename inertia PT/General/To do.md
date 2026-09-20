@@ -303,6 +303,7 @@
 - [ ] dünne pics kaufen
 	- [ ] Plektrumstärke
 - [ ] Duolingo
+- [ ] Zitronensäure auffüllen 
 - [ ] Lotus rein stellen 
 - [ ] rasieren
 - [ ] duschen
