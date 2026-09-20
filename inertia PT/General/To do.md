@@ -313,7 +313,7 @@
 - [ ] Essen mit pilze, zucchini, paprika und Tofu kochen
 - Medikament 
 	- [x] morgens 
-	- [ ] mittags
+	- [x] mittags
 	- [ ] abends 
 - [ ] Termin bei Dr Cerni machen
 - [ ] Hemd bügeln 
