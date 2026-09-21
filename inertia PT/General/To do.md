@@ -327,8 +327,8 @@
 	- [ ] grau
 	- [ ] rot
 - [x] jamil schreiben dass ich söb und hal beigebracht habe wie man "mein Unterricht" als Vertretung einträgt
-- [ ] Mail an Sekretariat wegen Montag
-- [ ] Dilara sagen was sie Montag mit 8a machen soll 
+- [x] Mail an Sekretariat wegen Montag
+- [x] Dilara sagen was sie Montag mit 8a machen soll 
 - [ ] und ob sie die auch in Physik haben wird
 - [ ] wer hat noch Montags vss?
 - [ ] wer hat Mittwoch Vertretung gehabt 
