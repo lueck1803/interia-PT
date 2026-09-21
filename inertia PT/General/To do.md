@@ -318,9 +318,9 @@
 - [ ] Mischa schreiben ob Geld da ist
 - [ ] Essen mit pilze, zucchini, paprika und Tofu kochen
 - Medikament 
-	- [x] morgens 
-	- [x] mittags
-	- [x] abends 
+	- [ ] morgens 
+	- [ ] mittags
+	- [ ] abends 
 - [ ] Termin bei Dr Cerni machen
 - [ ] Hemd bügeln 
 - [ ] gewaschene Unterhosen zu Lappen 
