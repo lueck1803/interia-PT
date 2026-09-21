@@ -10,8 +10,10 @@
 ## Jetzt
 - Einkaufswagen 
 - [ ] Tomaten 
-- [x] Saft
 - [ ] pizza
+- [ ] Hafermilch
+- [ ] Müsli
+- [x] Saft
 - [x] ~~Auberginen~~ Pilze 
 - [x] Schmelzkäse Scheiben
 - [x] hummus
