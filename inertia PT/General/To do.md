@@ -302,6 +302,7 @@
 
 
 - [ ] dpg Beitragsgruppe wechseln 
+- [ ] Tinten nachfüllen 
 - [ ] dünne pics kaufen
 	- Plektrumstärke: <font color="#00b050">0,6mm</font>
 - [x] Nudeln in Kühlschrank
