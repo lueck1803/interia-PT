@@ -302,6 +302,7 @@
 
 
 - [ ] dpg Beitragsgruppe wechseln 
+- [ ] friseur
 - [ ] Tastatur wischen
 - [ ] dünne pics kaufen
 	- Plektrumstärke: <font color="#00b050">0,6mm</font>
