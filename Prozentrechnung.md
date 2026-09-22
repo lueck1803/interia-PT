@@ -21,4 +21,11 @@ Hier wird jeweils eine feinere Einteilung (Skalierung) gewählt, da die Betracht
 - wird mit $\color{green}\textperthousand$ der Alkoholgehalt im Blut angegeben. Bei $\color{green} <0,5 \textperthousand \; (0,0005)$ im Blut darf man noch Autofahren. Die meisten die nicht gewohnt sind Alkohol zu trinken, sind mit $\color{green} 2\textperthousand \; (0,002)$ sturzbetrunken.
 - $\color{orange}\sim \pu{ 400 ppm }$ ist der $\pu{ CO_{2} }$ Gehalt der Atmosphäre, das entspricht $\color{DodgerBlue} \sim 0,04\%\;(0,0004)$ (vgl. Sauerstoff $\pu{ O_{2} }\sim 21\%$, Stickstoff $\pu{ N_{2} }\sim78\%$)
 
-Die Prozentwerte lassen sich also immer mit einem Bruch mit dem Nenner $\color{DodgerBlue}100$ in Verbindung setzen und durch eine Multiplikation mit $\color{DodgerBlue}$.
+Die Prozentwerte lassen sich also immer mit einem Bruch mit dem Nenner $\color{DodgerBlue}100$ in Verbindung setzen und durch eine Multiplikation mit $\color{DodgerBlue} \frac{1}{100}$ in eine Dezimalzahl umwandeln.
+- Zum Beispiel: $42\%=42{\color{DodgerBlue}\cdot \frac{1}{100}}=\color{DodgerBlue}0,42$
+
+Wenn man das Verstanden hat, dann sind die meisten Prozentaufgaben direkt als Multiplikations- oder Divisionsaufgaben zu erkennen.
+
+Die <font color="#ff3d3d">Hauptdenkarbeit</font>, besteht dabei zu Erkennen was der <font color="#b088ff">Referenzwert</font>, also die <font color="#b088ff">100%</font> sind.
+
+Es kann dabei ein <font color="#ff3d3d">zeitlicher Aspekt </font>bzw. ein <font color="#ff3d3d">Prozess</font> dahinter zu erkennen sein:
