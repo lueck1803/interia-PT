@@ -314,6 +314,7 @@
 - [ ] Waschpulver nachfüllen 
 - [x] gießen 
 - [ ] Elias 
+- [ ] ich 
 - [ ] kochen 
 - [ ] Gitarre spielen 
 
