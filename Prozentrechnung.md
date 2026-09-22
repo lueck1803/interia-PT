@@ -93,8 +93,12 @@ Wichtig wie viel Prozent <font color="#ff3d3d">von was?</font>
 - $=\frac{175\cancel{\texteuro}}{225\cancel{\texteuro}} \cdot 100\%=0,77\bar{7}\cdot 100\%$
 - $=77,\bar{7}\%$
 
-## Oder ‒ Nach der Formel
-### Herleitung
+## Oder ‒ Nach der %-Formel
+### Herleitung der %-Formel
 - $225\texteuro \hat{=}100\% \rightarrow \frac{1\hat{=}100\%}{225\texteuro}$ 
 - $175\text{€}\; \hat{=}\; p\% \rightarrow \frac{1\hat{=}p\%}{175\texteuro}$
-- $1=1$
+- $1\hat{=}1 \rightarrow \frac{100\%}{225\texteuro}\hat{=}\frac{p\%}{175\texteuro}\rightarrow \frac{175\texteuro}{225\texteuro}\hat{=}\frac{p\%}{100\%}$
+## Formel
+$$
+\frac{\color{green}\text{Prozentwert (W)}}{\color{#b088ff}\text{Grundwert (G)}}= \text{Prozentsatz(p)}
+$$
