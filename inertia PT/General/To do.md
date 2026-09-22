@@ -301,8 +301,8 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 
-- [ ] rasieren
-- [ ] Duschen
+- [x] rasieren
+- [x] Duschen
 - [ ] frühstücken 
 - [ ] Medis nehmen
 - [ ] HNO
