@@ -73,9 +73,17 @@ Dies entspricht der Rechnung:
 
 ## Beispiel **<font color="#00b050">2)</font>**
 $225\text{€}= \frac{225\text{€}}{100}\cdot 100=2,25\text{€}\cdot 100 \;\hat{=}\;100\%=100\cdot \frac{1}{100}=1$
-$175\text{€}\; \hat{=}\;p=\text{?}$ 
-$225\text{€}-175\text{€}=50\text{€} \;\hat{ = }\; p=?$ 
+$175\text{€}\; \hat{=}\;p\%=\text{?}$ 
+$225\text{€}-175\text{€}=50\text{€} \;\hat{ = }\; p\%=?$ 
 $\text{\color{red}Pro}\text{\color{DodgerBlue}zent}\hat{=}\color{red} \frac{\color{white}1}{\color{DodgerBlue}100}$ 
 Wie komme ich darauf wie viel Prozent die 175€ und wie viel Prozent die 50€ sind?
 Wichtig wie viel Prozent <font color="#ff3d3d">von was?</font>
 ⤷ Der <font color="#b088ff">Referenzwert</font> ist hier der ursprüngliche Preis von 225€, also ist hier nach den Anteilen in Prozent vom ursprünglichen Preis gefragt
+
+- $225\text{€}= \frac{225\text{€}}{100}\cdot 100=2,25\text{€}\cdot 100 \;\hat{=}\;100\%=100\cdot \frac{1}{100}=1$
+	- ⤷$2,25\text{€} \;\hat{=}\;1\%= \frac{1}{100}=1$
+	- ⤷$1\text{€}\;\hat{=}\; \frac{1}{225}\%$
+- $175\text{€}\; \hat{=}\; p\% = ?$
+
+## Wie beim Einheitenumrechen!
+- 
