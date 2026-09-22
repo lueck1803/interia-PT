@@ -66,7 +66,7 @@ Dies entspricht der Rechnung:
 - <font color="#00b050">Neuer Preis</font> $\color{green}\hat{=}$ <font color="#b088ff">3,50€</font> <font color="#ff3d3d">‒</font> $\text{\color{#b088ff}3,50 €}\cdot {\color{DodgerBlue}0,2}$  
 - <font color="#00b050">Neuer Preis</font> $\color{green}\hat{=}$ <font color="#b088ff">3,50€</font>==$\cdot  1$== <font color="#ff3d3d">‒</font> $\text{\color{#b088ff}3,50 €}\cdot {\color{DodgerBlue}0,2}$  
 - Mit dem Distributivgesetz: $a\cdot b - a\cdot c=a\cdot (b-c)$
-- <font color="#00b050">Neuer Preis</font> $\color{green}\hat{=}$ <font color="#b088ff">3,50€</font>$\cdot$(==$  1$== <font color="#ff3d3d">‒</font> ${\color{DodgerBlue}0,2}$ )  $\color{green}=$ <font color="#b088ff">3,50€</font>$\cdot$(<font color="#b088ff">100%</font> <font color="#ff3d3d">‒</font> ${\color{DodgerBlue}20\%}$ ) 
+- <font color="#00b050">Neuer Preis</font> $\color{green}\hat{=}$ <font color="#b088ff">3,50€</font>$\cdot$(==1== <font color="#ff3d3d">‒</font> ${\color{DodgerBlue}0,2}$ )  $\color{green}=$ <font color="#b088ff">3,50€</font>$\cdot$(<font color="#b088ff">100%</font> <font color="#ff3d3d">‒</font> ${\color{DodgerBlue}20\%}$ ) 
 - <font color="#00b050">Neuer Preis</font> $\color{green}\hat{=}$ <font color="#b088ff">3,50€</font>$\cdot$(<font color="#b088ff">100%</font> <font color="#ff3d3d">‒</font> ${\color{DodgerBlue}20\%}$ ) 
 - <font color="#00b050">Neuer Preis</font> $\color{green}\hat{=}$ <font color="#b088ff">3,50€</font>$\cdot \color{red}0,8$ $\color{green}=$ <font color="#b088ff">3,50€</font>$\cdot$${\color{red}80\%}$ 
 - <font color="#00b050">Neuer Preis</font> $\color{green}\hat{=} \;2,80\text{€}=80\%$ 
@@ -95,8 +95,8 @@ Wichtig wie viel Prozent <font color="#ff3d3d">von was?</font>
 
 ## Oder ‒ Nach der %-Formel
 ### Herleitung der %-Formel
-- $225\texteuro \hat{=}100\% \rightarrow \frac{1\hat{=}100\%}{225\texteuro}$ 
-- $175\text{€}\; \hat{=}\; p\% \rightarrow \frac{1\hat{=}p\%}{175\texteuro}$
+- $225\texteuro \hat{=}100\% \rightarrow 1\hat{=}\frac{100\%}{225\texteuro}$ 
+- $175\text{€}\; \hat{=}\; p\% \rightarrow 1\hat{=}\frac{p\%}{175\texteuro}$
 - $1\hat{=}1 \rightarrow \frac{100\%}{225\texteuro}\hat{=}\frac{p\%}{175\texteuro}\rightarrow \frac{175\texteuro}{225\texteuro}\hat{=}\frac{p\%}{100\%}$
 ## Formel
 $$
