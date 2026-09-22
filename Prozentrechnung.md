@@ -66,7 +66,7 @@ Dies entspricht der Rechnung:
 - <font color="#00b050">Neuer Preis</font> $\color{green}\hat{=}$ <font color="#b088ff">3,50€</font> <font color="#ff3d3d">‒</font> $\text{\color{#b088ff}3,50 €}\cdot {\color{DodgerBlue}0,2}$  
 - <font color="#00b050">Neuer Preis</font> $\color{green}\hat{=}$ <font color="#b088ff">3,50€</font>==$\cdot  1$== <font color="#ff3d3d">‒</font> $\text{\color{#b088ff}3,50 €}\cdot {\color{DodgerBlue}0,2}$  
 - Mit dem Distributivgesetz: $a\cdot b - a\cdot c=a\cdot (b-c)$
-- <font color="#00b050">Neuer Preis</font> $\color{green}\hat{=}$ <font color="#b088ff">3,50€</font>$\cdot$(==$  1$== <font color="#ff3d3d">‒</font> ${\color{DodgerBlue}0,2}$ ) 
+- <font color="#00b050">Neuer Preis</font> $\color{green}\hat{=}$ <font color="#b088ff">3,50€</font>$\cdot$(==$  1$== <font color="#ff3d3d">‒</font> ${\color{DodgerBlue}0,2}$ )  $\color{green}=$ <font color="#b088ff">3,50€</font>$\cdot$(<font color="#b088ff">100%</font> <font color="#ff3d3d">‒</font> ${\color{DodgerBlue}20\%}$ ) 
 - <font color="#00b050">Neuer Preis</font> $\color{green}\hat{=}$ <font color="#b088ff">3,50€</font>$\cdot$(<font color="#b088ff">100%</font> <font color="#ff3d3d">‒</font> ${\color{DodgerBlue}20\%}$ ) 
-- <font color="#00b050">Neuer Preis</font> $\color{green}\hat{=}$ <font color="#b088ff">3,50€</font>$\cdot \color{red}0,8$
-- 
+- <font color="#00b050">Neuer Preis</font> $\color{green}\hat{=}$ <font color="#b088ff">3,50€</font>$\cdot \color{red}0,8$ $\color{green}=$ <font color="#b088ff">3,50€</font>$\cdot$${\color{red}80\%}$ 
+- <font color="#00b050">Neuer Preis</font> $\color{green}\hat{=} 2,80\text{€}=80\%$ 
