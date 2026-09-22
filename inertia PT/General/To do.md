@@ -303,6 +303,8 @@
 
 - [ ] rasieren
 - [ ] Duschen
+- [ ] frühstücken 
+- [ ] Medis nehmen
 - [ ] HNO
 - [ ] falls HNO mich nicht nimmt ⟹ Hausarzt ⟹ AU
 - [ ] friseur
