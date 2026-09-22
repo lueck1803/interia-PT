@@ -107,5 +107,8 @@ $$
 $$
 ### Rechnung
 $$
-\frac{\color{green}175\text{€}}{\color{#b088ff}225\text{€}}=0,77\bar{7}= \frac{{\color{DodgerBlue}77,\bar{7}\%}}{100\%} \rightarrow
+\frac{\color{green}175\text{€}}{\color{#b088ff}225\text{€}}=0,77\bar{7}= \frac{{\color{DodgerBlue}77,\bar{7}\%}}{100\%} \rightarrow {\color{green}175\text{€}\hat{=}}\color{DodgerBlue}77,\bar{7}\%
+$$
+$$
+\frac{\color{green}50\text{€}}{\color{#b088ff}225\text{€}}=0,77\bar{7}= \frac{{\color{DodgerBlue}22,\bar{2}\%}}{100\%} \rightarrow {\color{green}50\text{€}\hat{=}}\color{DodgerBlue}22,\bar{2}\%
 $$
