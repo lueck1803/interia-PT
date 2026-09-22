@@ -301,32 +301,23 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 
-- [x] rasieren
-- [x] Duschen
-- [x] frühstücken 
-- [x] Medis nehmen
 - [ ] HNO
 - [ ] falls HNO mich nicht nimmt ⟹ Hausarzt ⟹ AU
 	- [ ] Ich hab ne Hausarzt Weiterleitung bekommen 
-- [x] friseur ⟹echt nice
-- [x] Aldi ⟹ leckere große Pizza
-- [x] 30° Wäsche anstellen 
-- [x] 30° Wäsche aufhängen
 - [ ] Waschpulver nachfüllen 
-- [x] gießen 
+- [ ] gießen 
 - [ ] Elias 
 	- [x] Teil 1
 	- [x] Teil 2
 	- [x] Video von Sabine H schauen und schicken
 - [ ] kochen 
 - [ ] Gitarre spielen 
-- [x] Krankmeldung einscannen und schicken
+- [ ] Papiermüll weg
 
 
 - [ ] dpg Beitragsgruppe wechseln 
 - [ ] Dusche schrubben 
 - [ ] Farben in Xournal ergänzen
-- [x] Tastatur wischen
 - [ ] dünne pics kaufen
 	- Plektrumstärke: <font color="#00b050">0,6mm</font>
 - [ ] 8a 1+ für freitag eintragen, alle die am Freitag heft abgegeben haben, rest 4.
@@ -339,7 +330,7 @@
 - [ ] Mischa schreiben ob Geld da ist
 - [ ] Essen mit pilze, zucchini, paprika und Tofu kochen
 - Medikament 
-	- [x] morgens 
+	- [ ] morgens 
 	- [ ] mittags
 	- [ ] abends 
 - [ ] Termin bei Dr Cerni machen
@@ -390,7 +381,7 @@
 - [ ] proposal fertig schreiben
 - [ ] Antenne pc befestigen 
 - [ ] akustisches klavier oder ähnliches kaufen %% fold %%
-- [ ] Küche flächen + Ceranfeld wischen
+- [ ] Küche flächen + Ceranfeld wischen %% fold %%
 - [ ] Walnuss umsetzen  %% fold %%
 - [ ] Küchenflächen wischen  %% fold %%
 - [ ] Checkliste Mathe schreiben  %% fold %%
