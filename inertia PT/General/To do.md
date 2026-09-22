@@ -303,6 +303,7 @@
 
 - [ ] dpg Beitragsgruppe wechseln 
 - [ ] friseur
+- [ ] Dusche schrubben 
 - [ ] latex suite zahlen direkt als index schreiben ausstellen
 - [ ] Farben in Xournal ergänzen
 - [ ] Tastatur wischen
