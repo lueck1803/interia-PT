@@ -309,18 +309,18 @@
 - [ ] falls HNO mich nicht nimmt ⟹ Hausarzt ⟹ AU
 	- [ ] Ich hab ne Hausarzt Weiterleitung bekommen 
 - [x] friseur ⟹echt nice
-- [ ] Aldi ⟹ leckere große Pizza
+- [x] Aldi ⟹ leckere große Pizza
 - [x] 30° Wäsche anstellen 
-- [ ] 30° Wäsche aufhängen 
+- [x] 30° Wäsche aufhängen
 - [ ] Waschpulver nachfüllen 
 - [x] gießen 
 - [ ] Elias 
 	- [x] Teil 1
-	- [ ] Teil 2
-	- [ ] Video von Sabine H schauen und schicken 
+	- [x] Teil 2
+	- [x] Video von Sabine H schauen und schicken
 - [ ] kochen 
 - [ ] Gitarre spielen 
-- [ ] Krankmeldung einscannen und schicken 
+- [x] Krankmeldung einscannen und schicken
 
 
 - [ ] dpg Beitragsgruppe wechseln 
