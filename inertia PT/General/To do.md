@@ -337,7 +337,7 @@
 - [ ] Mischa schreiben ob Geld da ist
 - [ ] Essen mit pilze, zucchini, paprika und Tofu kochen
 - Medikament 
-	- [ ] morgens 
+	- [x] morgens 
 	- [ ] mittags
 	- [ ] abends 
 - [ ] Termin bei Dr Cerni machen
