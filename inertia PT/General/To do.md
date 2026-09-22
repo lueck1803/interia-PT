@@ -301,10 +301,8 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 
-- [ ] HNO
-- [ ] falls HNO mich nicht nimmt ⟹ Hausarzt ⟹ AU
-	- [ ] Ich hab ne Hausarzt Weiterleitung bekommen 
 - [ ] Waschpulver nachfüllen 
+- [ ] nudeln kochen
 - [ ] gießen 
 - [ ] Elias 
 	- [x] Teil 1
