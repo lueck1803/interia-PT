@@ -332,22 +332,20 @@
 	- [ ] morgens 
 	- [ ] mittags
 	- [ ] abends 
-- [ ] Termin bei Dr Cerni machen
-- [ ] Hemd bügeln 
-- [ ] gewaschene Unterhosen zu Lappen 
-	- [ ] grau
-	- [ ] rot
+- [x] Hemd bügeln 
+- [x] gewaschene Unterhosen zu Lappen 
+	- [x] grau
+	- [x] rot
 - [ ] und ob sie die auch in Physik haben wird
 - [ ] wer hat noch Montags vss?
 - [ ] wer hat Mittwoch Vertretung gehabt 
 - [ ] reformerboard testen 
 - [ ] Bürstenaufsatz bestellen 
-- [ ] Decken waschen 
+- [x] Decken waschen 
 - [ ] Staub saugen 
 - [ ] Briefkasten 
 - [ ] carnivorenwasser
 - [ ] carnivoren gießen
-- [ ] Waschmaschine richten
 - [x] kursmappe
 	- [x] m 5a %% fold %%
 	- [ ] m 8a
@@ -358,11 +356,11 @@
 	- [x] p 10b %% fold %%
 	- [x] p 10a
 
-- [ ] Küche aufräumen 
+- [x] Küche aufräumen 
 - [ ] boden wischen 
 - [ ] sofa aufräumen 
 - [ ] sofa kissen wechseln 
-- [ ] Zeug von Elias lesen 
+- [x] Zeug von Elias lesen 
 
 - [ ] trigger latex suite handy🤷
 - [ ] Haftpflicht Versicherung 
