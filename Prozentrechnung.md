@@ -1,3 +1,4 @@
+# <font color="#b088ff">Erklärende Worte</font>
 Bei der Prozentrechnung wird ein <font color="#b088ff">Referenzwert</font> (Vergleichswert) mit <font color="#00b0f0">100</font> identifiziert.
 In der Bruchrechnung bezieht man sich auf <font color="#b088ff">das Ganze</font> bzw. dessen <font color="#b088ff">Teile</font>.
 Hier bei kann die Einteilung <font color="#b088ff">des Ganzen</font> völlig verschieden sein.
@@ -36,6 +37,20 @@ Es kann dabei ein <font color="#ff3d3d">zeitlicher Aspekt </font>bzw. ein <font 
 
 Häufig wird über <font color="#ff3d3d">Anteile</font> gesprochen bei denen der <font color="#b088ff">Gesamtwert/Absolutwert des Referenzwerts</font> keine Priorität hat.
 3. <font color="#1e90ff">4%</font>  der Menschen in Deutschland können nicht Lesen und Schreiben.
-	- <font color="#1e90ff">100%</font>  ist hier ein gewisser Teil der Gesamtbevölkerung Deutschlands. Sehr wahrscheinlich Menschen, die nicht mehr schulpflichtig sind. Denn beispiels Kindergartenkinder 
+	- <font color="#b088ff">100%</font>  ist hier ein gewisser Teil der Gesamtbevölkerung Deutschlands. Sehr wahrscheinlich Menschen, die nicht mehr schulpflichtig sind. Denn beispielsweise Kindergartenkinder dazuzuzählen, wäre nicht sinnvoll.
 4. Bei der Landtagswahl in Mecklenburg-Vorpommern haben die Grünen <font color="#1e90ff">5,5%</font> der gültigen Stimmen erhalten. 
 	- Wie viele Stimmen insgesamt abgegeben wurden, und wie viele davon gültig waren oder wie viele Stimmen <font color="#1e90ff">5,5%</font> in Zahlen sind, ist häufig unwichtig
+
+# <font color="#00b050">Rechnungsbeispiele:</font>
+
+Bei Beispiel **1)** und **2)** ist der Referenzwert aber relevant und hier lassen sich ein paar Informationen ausrechnen.
+
+Bei <font color="#00b050">**1)**</font> ist interessant, was denn nun der <font color="#00b050">neue Preis</font> des Müslis ist.
+
+Das zu Berechnen geht über zwei Wege, die beide der selben mathematischen Rechnung entsprechen, wie wir gleich sehen werden.
+
+<u>Wir wissen:</u>
+- alter Preis <font color="#b088ff">3,50 €</font> $\hat{=}$ <font color="#b088ff">100%</font>.
+- Preis ist <font color="#ff3d3d">gesunken</font> um <font color="#1e90ff">20%</font>
+	- <font color="#ff3d3d">gesunken</font> ⟹ wir müssen also etwas abziehen (subtrahieren)
+	- die <font color="#1e90ff">20%</font> beziehen sich auf den <font color="#b088ff">Referenzwert</font> <font color="#b088ff">3,50 €</font>
