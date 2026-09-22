@@ -311,6 +311,8 @@
 - [ ] Aldi ⟹ leckere große Pizza
 - [ ] 30° Wäsche anstellen 
 - [ ] Waschpulver nachfüllen 
+- [ ] gießen 
+- [ ] koch
 
 
 - [ ] dpg Beitragsgruppe wechseln 
