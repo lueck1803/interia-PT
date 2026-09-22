@@ -301,20 +301,24 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 
-- [ ] dpg Beitragsgruppe wechseln 
+- [ ] rasieren
+- [ ] Duschen
+- [ ] HNO
+- [ ] falls HNO mich nicht nimmt ⟹ Hausarzt ⟹ AU
 - [ ] friseur
+- [ ] Aldi ⟹ leckere große Pizza
+
+
+- [ ] dpg Beitragsgruppe wechseln 
 - [ ] Dusche schrubben 
-- [ ] latex suite zahlen direkt als index schreiben ausstellen
 - [ ] Farben in Xournal ergänzen
-- [ ] Tastatur wischen
+- [x] Tastatur wischen
 - [ ] dünne pics kaufen
 	- Plektrumstärke: <font color="#00b050">0,6mm</font>
 - [ ] 8a 1+ für freitag eintragen, alle die am Freitag heft abgegeben haben, rest 4.
 - [ ] Erklärung zur Prozentrechnung abtippen in Gruppe schicken
 - [ ] Duolingo
 - [ ] Lotus rein stellen 
-- [ ] rasieren
-- [ ] duschen
 - [ ] kleines grünes Gewächshaus aus und Aufräumen 
 - [ ] Spülmaschine ausräumen 
 - [ ] Konto checken
@@ -373,11 +377,11 @@
 - [ ] Antenne pc befestigen 
 - [ ] akustisches klavier oder ähnliches kaufen %% fold %%
 - [ ] Küche flächen + Ceranfeld wischen
-- [ ] Walnuss umsetzen 
+- [ ] Walnuss umsetzen  %% fold %%
 - [ ] Küchenflächen wischen  %% fold %%
 - [ ] Checkliste Mathe schreiben  %% fold %%
 	- [ ] letzte plus  %% fold %%
-	- [ ] terme zusammen fassen 
+	- [ ] terme zusammen fassen  %% fold %%
 	- [ ] und variablen einsetzen können 
 - [ ] fritz kunkel
 - [ ] elias Ausfertigung 
