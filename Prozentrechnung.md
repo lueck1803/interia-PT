@@ -54,3 +54,8 @@ Das zu Berechnen geht über zwei Wege, die beide der selben mathematischen Rechn
 - Preis ist <font color="#ff3d3d">gesunken</font> um <font color="#1e90ff">20%</font>
 	- <font color="#ff3d3d">gesunken</font> ⟹ wir müssen also etwas abziehen (subtrahieren)
 	- die <font color="#1e90ff">20%</font> beziehen sich auf den <font color="#b088ff">Referenzwert</font> <font color="#b088ff">3,50 €</font>
+
+<u>Rechnung:</u>
+- <font color="#00b050">Neuer Preis</font> $\color{green}\hat{=}$ <font color="#b088ff">alter Preis</font> <font color="#ff3d3d">minus</font> <font color="#1e90ff">20%</font> des <font color="#b088ff">Referenzwerts</font> ($\hat{=}$ alter Preis)
+- <font color="#00b050">Neuer Preis</font> $\color{green}\hat{=}$ <font color="#b088ff">3,50€</font> <font color="#ff3d3d">‒</font> $ $ <font color="#1e90ff">20%</font> von <font color="#b088ff">3,50€</font> 
+- 
