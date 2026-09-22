@@ -45,7 +45,7 @@ Häufig wird über <font color="#ff3d3d">Anteile</font> gesprochen bei denen der
 
 Bei Beispiel **1)** und **2)** ist der Referenzwert aber relevant und hier lassen sich ein paar Informationen ausrechnen.
 
-Bei <font color="#00b050">**1)**</font> ist interessant, was denn nun der <font color="#00b050">neue Preis</font> des Müslis ist.
+## Bei <font color="#00b050">**1)**</font> ist interessant, was denn nun der <font color="#00b050">neue Preis</font> des Müslis ist.
 
 Das zu Berechnen geht über zwei Wege, die beide der selben mathematischen Rechnung entsprechen, wie wir gleich sehen werden.
 
@@ -69,4 +69,7 @@ Dies entspricht der Rechnung:
 - <font color="#00b050">Neuer Preis</font> $\color{green}\hat{=}$ <font color="#b088ff">3,50€</font>$\cdot$(==$  1$== <font color="#ff3d3d">‒</font> ${\color{DodgerBlue}0,2}$ )  $\color{green}=$ <font color="#b088ff">3,50€</font>$\cdot$(<font color="#b088ff">100%</font> <font color="#ff3d3d">‒</font> ${\color{DodgerBlue}20\%}$ ) 
 - <font color="#00b050">Neuer Preis</font> $\color{green}\hat{=}$ <font color="#b088ff">3,50€</font>$\cdot$(<font color="#b088ff">100%</font> <font color="#ff3d3d">‒</font> ${\color{DodgerBlue}20\%}$ ) 
 - <font color="#00b050">Neuer Preis</font> $\color{green}\hat{=}$ <font color="#b088ff">3,50€</font>$\cdot \color{red}0,8$ $\color{green}=$ <font color="#b088ff">3,50€</font>$\cdot$${\color{red}80\%}$ 
-- <font color="#00b050">Neuer Preis</font> $\color{green}\hat{=} 2,80\text{€}=80\%$ 
+- <font color="#00b050">Neuer Preis</font> $\color{green}\hat{=} \;2,80\text{€}=80\%$ 
+
+## Beispiel **<font color="#00b050">2)</font>**
+$$
