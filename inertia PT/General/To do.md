@@ -303,11 +303,11 @@
 
 - [x] rasieren
 - [x] Duschen
-- [ ] frühstücken 
-- [ ] Medis nehmen
+- [x] frühstücken 
+- [x] Medis nehmen
 - [ ] HNO
 - [ ] falls HNO mich nicht nimmt ⟹ Hausarzt ⟹ AU
-- [ ] friseur
+- [x] friseur ⟹echt nice
 - [ ] Aldi ⟹ leckere große Pizza
 - [x] 30° Wäsche anstellen 
 - [ ] 30° Wäsche aufhängen 
