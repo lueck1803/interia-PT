@@ -311,6 +311,7 @@
 - [ ] kochen 
 - [ ] Gitarre spielen 
 - [ ] Papiermüll weg
+- [ ] vertretungsplan checken 
 
 
 - [ ] dpg Beitragsgruppe wechseln 
