@@ -309,11 +309,13 @@
 - [ ] falls HNO mich nicht nimmt ⟹ Hausarzt ⟹ AU
 - [ ] friseur
 - [ ] Aldi ⟹ leckere große Pizza
-- [ ] 30° Wäsche anstellen 
+- [x] 30° Wäsche anstellen 
+- [ ] 30° Wäsche aufhängen 
 - [ ] Waschpulver nachfüllen 
 - [x] gießen 
+- [ ] Elias 
 - [ ] kochen 
-- [ ] Gitarre spi
+- [ ] Gitarre spielen 
 
 
 - [ ] dpg Beitragsgruppe wechseln 
