@@ -72,4 +72,6 @@ Dies entspricht der Rechnung:
 - <font color="#00b050">Neuer Preis</font> $\color{green}\hat{=} \;2,80\text{€}=80\%$ 
 
 ## Beispiel **<font color="#00b050">2)</font>**
-$$
+$225\text{€} \;\hat{=}\;100\%=100\cdot \frac{1}{100}$
+$175\text{€}\; \hat{=}\;p=\text{?}$ 
+$225\text{€}-175\text{€}=50\text{€}\hat{=}p=?$ 
