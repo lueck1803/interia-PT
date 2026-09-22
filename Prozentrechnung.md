@@ -29,3 +29,7 @@ Wenn man das Verstanden hat, dann sind die meisten Prozentaufgaben direkt als Mu
 Die <font color="#ff3d3d">Hauptdenkarbeit</font>, besteht dabei zu Erkennen was der <font color="#b088ff">Referenzwert</font>, also die <font color="#b088ff">100%</font> sind.
 
 Es kann dabei ein <font color="#ff3d3d">zeitlicher Aspekt </font>bzw. ein <font color="#ff3d3d">Prozess</font> dahinter zu erkennen sein:
+1. Der Preis für eine Packung Müsli war vorher <font color="#b088ff">3,50 €</font>, er ist um<font color="#1e90ff"> 20% </font><font color="#ff3d3d">gesunken</font>.  
+	- ⤷ Hier entsprechen die <font color="#b088ff">3,50 €</font> den <font color="#b088ff">100%</font>.
+2. Die ursprünglichen Kosten für die Klassenfahrt von 225€ haben sich auf 175€ reduziert
+	- ⤷ ${\color{Lavender}\pu{ 225 \texteuro } }\hat{=} 100\%$ 
