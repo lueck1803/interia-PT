@@ -7,4 +7,8 @@ Bei der Prozentrechnung ist der <font color="#b088ff">Referenzwert</font> - zum 
 
 Daher der Name $\text{\color{red}Pro}\text{\color{DodgerBlue}zent}\hat{=}\color{red} \frac{\color{white}1}{\color{DodgerBlue}100}$ 
 - <font color="#ff0000">Pro</font> entspricht dem Geteiltzeichen 
-- <font color="#00b0f0">zent</font> kommt vom lateinischen <font color="#00b0f0">centum ‒ hundert</font>, sowie auch in <font color="#00b0f0">Zenti</font>meter ‒ der hundertste Teil eines Meters.
+- <font color="#1e90ff">zent</font> kommt vom lateinischen <font color="#1e90ff">centum ‒ hundert</font>, sowie auch in <font color="#1e90ff">Zenti</font>meter ‒ der hundertste Teil eines Meters.
+- ${\color{DodgerBlue}\%\hat{=} \frac{1}{100}}$ 
+
+Das Prinzip ist aber das Gleiche wie bei der Bruchrechnung der <font color="#b088ff">Referenzwert</font> wird mit dem Ganzen gleichgesetzt, nur das dieser hier immer <font color="#1e90ff">100</font> und nicht in beliebige Teile geteilt wird.
+
