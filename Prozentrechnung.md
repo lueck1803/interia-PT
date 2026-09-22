@@ -64,5 +64,5 @@ Dies entspricht der Rechnung:
 - <font color="#00b050">Neuer Preis</font> $\color{green}\hat{=}$ <font color="#00b050">2,80€  </font>
 - <font color="#00b050">Neuer Preis</font> $\color{green}\hat{=}$ <font color="#b088ff">3,50€</font> <font color="#ff3d3d">‒</font> $\color{DodgerBlue}0,70\text{€}$  
 - <font color="#00b050">Neuer Preis</font> $\color{green}\hat{=}$ <font color="#b088ff">3,50€</font> <font color="#ff3d3d">‒</font> $\text{\color{#b088ff}3,50 €}\cdot {\color{DodgerBlue}0,2}$  
-- <font color="#00b050">Neuer Preis</font> $\color{green}\hat{=}$ <font color="#b088ff">3,50€</font>$\cdot $ <font color="#ff3d3d">‒</font> $\text{\color{#b088ff}3,50 €}\cdot {\color{DodgerBlue}0,2}$  
+- <font color="#00b050">Neuer Preis</font> $\color{green}\hat{=}$ <font color="#b088ff">3,50€</font>==$\cdot \color{red} 1$== <font color="#ff3d3d">‒</font> $\text{\color{#b088ff}3,50 €}\cdot {\color{DodgerBlue}0,2}$  
 - 
