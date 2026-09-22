@@ -386,7 +386,7 @@
 - [ ] fritz kunkel
 - [ ] elias Ausfertigung 
 
-- [ ] sus Akkorde am Klavier probieren 
+- [ ] sus Akkorde am Klavier probieren  %% fold %%
 
 
  %% fold %%
