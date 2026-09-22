@@ -13,4 +13,5 @@ Daher der Name $\text{\color{red}Pro}\text{\color{DodgerBlue}zent}\hat{=}\color{
 Das Prinzip ist aber das Gleiche wie bei der Bruchrechnung der <font color="#b088ff">Referenzwert</font> wird mit dem Ganzen gleichgesetzt, nur das dieser hier immer <font color="#1e90ff">100</font> und nicht in beliebige Teile geteilt wird.
 
 Es kommt auch vor, dass eine andere Einteilung zur Skalierung des Referenzwerts verwendet wird, die zwei bekanntesten sind:
-- <font color="#00b050">Promille</font> $\color{green}\textperthousand$  ‒ 
+- <font color="#00b050">Promille</font> $\color{green}\textperthousand$  ‒ hier wird der Referenzwert in <font color="#00b050">1000</font> Teile geteilt <font color="#00b050">lat. mille ‒ tausend</font> $\color{green}\textperthousand\hat{=} \frac{1}{1000}$
+- parts per million ‒ <font color="#00b050">ppm</font>
