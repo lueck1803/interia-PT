@@ -36,5 +36,6 @@ Es kann dabei ein <font color="#ff3d3d">zeitlicher Aspekt </font>bzw. ein <font 
 
 Häufig wird über <font color="#ff3d3d">Anteile</font> gesprochen bei denen der <font color="#b088ff">Gesamtwert/Absolutwert des Referenzwerts</font> keine Priorität hat.
 3. <font color="#1e90ff">4%</font>  der Menschen in Deutschland können nicht Lesen und Schreiben.
+	- <font color="#1e90ff">100%</font>  ist hier ein gewisser Teil der Gesamtbevölkerung Deutschlands. Sehr wahrscheinlich Menschen, die nicht mehr schulpflichtig sind. Denn beispiels Kindergartenkinder 
 4. Bei der Landtagswahl in Mecklenburg-Vorpommern haben die Grünen <font color="#1e90ff">5,5%</font> der gültigen Stimmen erhalten. 
 	- Wie viele Stimmen insgesamt abgegeben wurden, und wie viele davon gültig waren oder wie viele Stimmen <font color="#1e90ff">5,5%</font> in Zahlen sind, ist häufig unwichtig
