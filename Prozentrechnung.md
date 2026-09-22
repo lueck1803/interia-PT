@@ -85,10 +85,16 @@ Wichtig wie viel Prozent <font color="#ff3d3d">von was?</font>
 	- ⤷$1\text{€}\;\hat{=}\; \frac{1}{225}\%$
 - $175\text{€}\; \hat{=}\; p\% = ?$
 
-## Wie beim Einheitenumrechen!
+## Entweder ‒ Wie beim Einheitenumrechen!
 - $225\text{€} \;\hat{=}\;100\%$
 	- ⤷ $1\; \hat{=} \frac{225\text{€}}{100\%}$
 	- ⤷ $1\; \hat{=}\; \frac{100\%}{225\text{€}}$
 - $175\text{€}=175\text{€} \cdot 1=175\text{€} \cdot \frac{100\%}{225\text{€}}$
-- $=\frac{175\text{€}}{225\cancel{\text{€}} \cdot \frac{100\%}{225\text{€}}$
-- 
+- $=\frac{175\cancel{\texteuro}}{225\cancel{\texteuro}} \cdot 100\%=0,77\bar{7}\cdot 100\%$
+- $=77,\bar{7}\%$
+
+## Oder ‒ Nach der Formel
+### Herleitung
+- $225\texteuro \hat{=}100\% \rightarrow \frac{1\hat{=}100\%}{225\texteuro}$ 
+- $175\text{€}\; \hat{=}\; p\% \rightarrow \frac{1\hat{=}p\%}{175\texteuro}$
+- $1=1$
