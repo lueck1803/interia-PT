@@ -308,6 +308,7 @@
 - [ ] friseur
 - [ ] Aldi ⟹ leckere große Pizza
 - [ ] 30° Wäsche anstellen 
+- [ ] Waschpulver nachfüllen 
 
 
 - [ ] dpg Beitragsgruppe wechseln 
