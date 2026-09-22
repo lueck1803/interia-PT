@@ -31,5 +31,8 @@ Die <font color="#ff3d3d">Hauptdenkarbeit</font>, besteht dabei zu Erkennen was 
 Es kann dabei ein <font color="#ff3d3d">zeitlicher Aspekt </font>bzw. ein <font color="#ff3d3d">Prozess</font> dahinter zu erkennen sein:
 1. Der Preis für eine Packung Müsli war vorher <font color="#b088ff">3,50 €</font>, er ist um<font color="#1e90ff"> 20% </font><font color="#ff3d3d">gesunken</font>.  
 	- ⤷ Hier entsprechen die <font color="#b088ff">3,50 €</font> den <font color="#b088ff">100%</font>.
-2. Die ursprünglichen Kosten für die Klassenfahrt von 225€ haben sich auf 175€ reduziert
-	- ⤷ ${\color{Lavender}\pu{ 225 \texteuro } }\hat{=} 100\%$ 
+2. Die ursprünglichen Kosten für die Klassenfahrt von <font color="#b088ff">225€</font> haben sich auf <font color="#00b050">175€</font> <font color="#ff3d3d">reduziert</font>
+	- ⤷ ${\color{#b088ff}\pu{ 225 \texteuro } }\hat{=} \color{#b088ff}100\%$ 
+
+Häufig wird über <font color="#ff3d3d">Anteile</font> gesprochen bei denen der <font color="#b088ff">Gesamtwert/Absolutwert des Referenzwerts</font> keine Priorität hat.
+3. mk 
