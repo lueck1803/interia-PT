@@ -303,7 +303,7 @@
 
 - [ ] dpg Beitragsgruppe wechseln 
 - [x] Tinten nachfüllen 
-- [ ] Wachtelbohnen 854,6
+- [x] Wachtelbohnen 854,6
 - [ ] dünne pics kaufen
 	- Plektrumstärke: <font color="#00b050">0,6mm</font>
 - [x] Nudeln in Kühlschrank
@@ -344,8 +344,6 @@
 - [ ] Bürstenaufsatz bestellen 
 - [ ] Decken waschen 
 - [ ] Staub saugen 
-- [ ] Spülmaschine ausräumen 
-- [ ] Spülmaschine einräumen 
 - [ ] Briefkasten 
 - [ ] carnivorenwasser
 - [ ] carnivoren gießen
