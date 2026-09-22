@@ -374,7 +374,7 @@
 - [ ] Küche flächen + Ceranfeld wischen
 - [ ] Walnuss umsetzen 
 - [ ] Küchenflächen wischen 
-- [ ] Checkliste Mathe schreiben 
+- [ ] Checkliste Mathe schreiben  %% fold %%
 	- [ ] letzte plus 
 	- [ ] terme zusammen fassen 
 	- [ ] und variablen einsetzen können 
