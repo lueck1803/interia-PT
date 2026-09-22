@@ -86,4 +86,9 @@ Wichtig wie viel Prozent <font color="#ff3d3d">von was?</font>
 - $175\text{€}\; \hat{=}\; p\% = ?$
 
 ## Wie beim Einheitenumrechen!
+- $225\text{€} \;\hat{=}\;100\%$
+	- ⤷ $1\; \hat{=} \frac{225\text{€}}{100\%}$
+	- ⤷ $1\; \hat{=}\; \frac{100\%}{225\text{€}}$
+- $175\text{€}=175\text{€} \cdot 1=175\text{€} \cdot \frac{100\%}{225\text{€}}$
+- $=\frac{175\text{€}}{225\cancel{\text{€}} \cdot \frac{100\%}{225\text{€}}$
 - 
