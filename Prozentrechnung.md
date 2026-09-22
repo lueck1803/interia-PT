@@ -18,4 +18,5 @@ Es kommt auch vor, dass eine andere Einteilung zur Skalierung des Referenzwerts 
 
 Hier wird jeweils eine feinere Einteilung (Skalierung) gewählt, da die Betrachteten Dinge bereits in geringen Anteilen einen Effekt haben.
 <u>Zum Beispiel:</u>
-- wird mit $\color{green}\textperthousand$ der Alkoholgehalt im Blut angegeben. Bei $$
+- wird mit $\color{green}\textperthousand$ der Alkoholgehalt im Blut angegeben. Bei $\color{green} <0,5 \textperthousand \; (0,0005)$ im Blut darf man noch Autofahren. Die meisten die nicht gewohnt sind Alkohol zu trinken, sind mit $\color{green} 2\textperthousand \; (0,002)$ sturzbetrunken.
+- $\color{orange}\sim \pu{ 400 ppm }$
