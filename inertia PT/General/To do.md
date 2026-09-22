@@ -307,7 +307,7 @@
 - [x] Medis nehmen
 - [ ] HNO
 - [ ] falls HNO mich nicht nimmt ⟹ Hausarzt ⟹ AU
-	- [ ] Ich hab ne
+	- [ ] Ich hab ne Hausarzt Weiterleitung bekommen 
 - [x] friseur ⟹echt nice
 - [ ] Aldi ⟹ leckere große Pizza
 - [x] 30° Wäsche anstellen 
