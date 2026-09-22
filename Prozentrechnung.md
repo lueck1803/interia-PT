@@ -59,4 +59,10 @@ Das zu Berechnen geht über zwei Wege, die beide der selben mathematischen Rechn
 - <font color="#00b050">Neuer Preis</font> $\color{green}\hat{=}$ <font color="#b088ff">alter Preis</font> <font color="#ff3d3d">minus</font> <font color="#1e90ff">20%</font> des <font color="#b088ff">Referenzwerts</font> ($\hat{=}$ alter Preis)
 - <font color="#00b050">Neuer Preis</font> $\color{green}\hat{=}$ <font color="#b088ff">3,50€</font> <font color="#ff3d3d">‒</font> $\underbrace{ {\color{DodgerBlue}\text{20\%}}\text{ von \color{#b088ff}3,50 €} }_{ \text{\color{#b088ff}3,50 €}\cdot {\color{DodgerBlue}20\%}=\text{\color{#b088ff}3,50 €}\cdot {\color{DodgerBlue}20\cdot \frac{1}{100}}=\text{\color{#b088ff}3,50 €}\cdot {\color{DodgerBlue}0,2}=\color{DodgerBlue}0,70\text{€}}$  
 - <font color="#00b050">Neuer Preis</font> $\color{green}\hat{=}$ <font color="#b088ff">3,50€</font> <font color="#ff3d3d">‒</font> $\color{DodgerBlue}0,70\text{€}$  
-- <font color="#00b050">Neuer Preis</font> $\color{green}\hat{=}$ 2,80€  
+- <font color="#00b050">Neuer Preis</font> $\color{green}\hat{=}$ <font color="#00b050">2,80€  </font>
+Dies entspricht der Rechnung:
+- <font color="#00b050">Neuer Preis</font> $\color{green}\hat{=}$ <font color="#00b050">2,80€  </font>
+- <font color="#00b050">Neuer Preis</font> $\color{green}\hat{=}$ <font color="#b088ff">3,50€</font> <font color="#ff3d3d">‒</font> $\color{DodgerBlue}0,70\text{€}$  
+- <font color="#00b050">Neuer Preis</font> $\color{green}\hat{=}$ <font color="#b088ff">3,50€</font> <font color="#ff3d3d">‒</font> $\text{\color{#b088ff}3,50 €}\cdot {\color{DodgerBlue}0,2}$  
+- <font color="#00b050">Neuer Preis</font> $\color{green}\hat{=}$ <font color="#b088ff">3,50€</font>$\cdot $ <font color="#ff3d3d">‒</font> $\text{\color{#b088ff}3,50 €}\cdot {\color{DodgerBlue}0,2}$  
+- 
