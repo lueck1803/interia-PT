@@ -303,6 +303,7 @@
 
 - [ ] dpg Beitragsgruppe wechseln 
 - [ ] friseur
+- [ ] Farben in Xournal ergänzen
 - [ ] Tastatur wischen
 - [ ] dünne pics kaufen
 	- Plektrumstärke: <font color="#00b050">0,6mm</font>
@@ -371,7 +372,7 @@
 - [ ] akustisches klavier oder ähnliches kaufen %% fold %%
 - [ ] Küche flächen + Ceranfeld wischen
 - [ ] Walnuss umsetzen 
-- [ ] Küchenflächen wischen 
+- [ ] Küchenflächen wischen  %% fold %%
 - [ ] Checkliste Mathe schreiben  %% fold %%
 	- [ ] letzte plus  %% fold %%
 	- [ ] terme zusammen fassen 

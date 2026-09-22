@@ -15,3 +15,7 @@ Das Prinzip ist aber das Gleiche wie bei der Bruchrechnung der <font color="#b08
 Es kommt auch vor, dass eine andere Einteilung zur Skalierung des Referenzwerts verwendet wird, die zwei bekanntesten sind:
 - <font color="#00b050">Promille</font> $\color{green}\textperthousand$  ‒ hier wird der Referenzwert in <font color="#00b050">1000</font> Teile geteilt <font color="#00b050">lat. mille ‒ tausend</font> $\color{green}\textperthousand \hat{=} \frac{1}{1000}$
 - parts per million ‒ <font color="#ffa500">ppm</font> hier wird der Referenz wert in <font color="#ffa500">eine Millionen</font> Teile geteilt $\color{orange}\text{ppm} \hat{=} \frac{1}{1000}$
+
+Hier wird jeweils eine feinere Einteilung (Skalierung) gewählt, da die Betrachteten Dinge bereits in geringen Anteilen einen Effekt haben.
+<u>Zum Beispiel:</u>
+- wird mit $\color{green}\textperthousand$ der Alkoholgehalt im Blut angegeben. Bei $$
