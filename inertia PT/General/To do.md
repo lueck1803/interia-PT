@@ -302,22 +302,16 @@
 
 
 - [ ] dpg Beitragsgruppe wechseln 
-- [x] Tinten nachfüllen 
-- [x] Wachtelbohnen 854,6
 - [ ] dünne pics kaufen
 	- Plektrumstärke: <font color="#00b050">0,6mm</font>
-- [x] Nudeln in Kühlschrank
 - [ ] 8a 1+ für freitag eintragen, alle die am Freitag heft abgegeben haben, rest 4.
-- [x] Erklärung zur Prozentrechnung in Gruppe schicken
-- [x] Duolingo
-- [x] Zitronensäure auffüllen 
+- [ ] Erklärung zur Prozentrechnung abtippen in Gruppe schicken
+- [ ] Duolingo
 - [ ] Lotus rein stellen 
 - [ ] rasieren
 - [ ] duschen
 - [ ] kleines grünes Gewächshaus aus und Aufräumen 
 - [ ] Spülmaschine ausräumen 
-- [x] gießen
-- [x] Taschenlampe laden
 - [ ] Konto checken
 - [ ] Mischa schreiben ob Geld da ist
 - [ ] Essen mit pilze, zucchini, paprika und Tofu kochen
@@ -330,9 +324,6 @@
 - [ ] gewaschene Unterhosen zu Lappen 
 	- [ ] grau
 	- [ ] rot
-- [x] jamil schreiben dass ich söb und hal beigebracht habe wie man "mein Unterricht" als Vertretung einträgt
-- [x] Mail an Sekretariat wegen Montag
-- [x] Dilara sagen was sie Montag mit 8a machen soll 
 - [ ] und ob sie die auch in Physik haben wird
 - [ ] wer hat noch Montags vss?
 - [ ] wer hat Mittwoch Vertretung gehabt 
