@@ -307,6 +307,7 @@
 - [x] Medis nehmen
 - [ ] HNO
 - [ ] falls HNO mich nicht nimmt ⟹ Hausarzt ⟹ AU
+	- [ ] Ich hab ne
 - [x] friseur ⟹echt nice
 - [ ] Aldi ⟹ leckere große Pizza
 - [x] 30° Wäsche anstellen 
@@ -319,6 +320,7 @@
 	- [ ] Video von Sabine H schauen und schicken 
 - [ ] kochen 
 - [ ] Gitarre spielen 
+- [ ] Krankmeldung einscannen und schicken 
 
 
 - [ ] dpg Beitragsgruppe wechseln 
