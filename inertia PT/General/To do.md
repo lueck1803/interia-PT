@@ -302,6 +302,7 @@
 
 
 - [ ] dpg Beitragsgruppe wechseln 
+- [ ] Tastatur wischen
 - [ ] dünne pics kaufen
 	- Plektrumstärke: <font color="#00b050">0,6mm</font>
 - [ ] 8a 1+ für freitag eintragen, alle die am Freitag heft abgegeben haben, rest 4.
@@ -327,10 +328,6 @@
 - [ ] und ob sie die auch in Physik haben wird
 - [ ] wer hat noch Montags vss?
 - [ ] wer hat Mittwoch Vertretung gehabt 
-- [x] Jamil schreiben wegen
-	- [x] krank am Montag (mein Gesundheitszustand )
-		- [x] was ist mit salma?
-	- [x] wegen meinem Schulportal Anliegen 
 - [ ] reformerboard testen 
 - [ ] Bürstenaufsatz bestellen 
 - [ ] Decken waschen 
@@ -370,12 +367,12 @@
 - [ ] Wie werden in Mathe die noten vergeben? 
 - [ ] proposal fertig schreiben
 - [ ] Antenne pc befestigen 
-- [ ] akustisches klavier oder ähnliches kaufen
+- [ ] akustisches klavier oder ähnliches kaufen %% fold %%
 - [ ] Küche flächen + Ceranfeld wischen
 - [ ] Walnuss umsetzen 
 - [ ] Küchenflächen wischen 
 - [ ] Checkliste Mathe schreiben  %% fold %%
-	- [ ] letzte plus 
+	- [ ] letzte plus  %% fold %%
 	- [ ] terme zusammen fassen 
 	- [ ] und variablen einsetzen können 
 - [ ] fritz kunkel

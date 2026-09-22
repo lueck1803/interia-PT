@@ -2552,6 +2552,7 @@ Tage produktiv gewesen:
 - mit Paprika und Tomatenmark andicken
 ## Garzeiten Schnellkochtopf 
 - Berglinsen: 1h
+- Wachtellinsen: 1h
 # Gartenarbeit und Pflanzen
 - gekaufte Pflanzen <u>vor dem Umtopfen 
 </u>entweder 
