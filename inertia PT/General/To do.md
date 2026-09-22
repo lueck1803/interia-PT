@@ -314,7 +314,9 @@
 - [ ] Waschpulver nachfüllen 
 - [x] gießen 
 - [ ] Elias 
-- [ ] ich 
+	- [x] Teil 1
+	- [ ] Teil 2
+	- [ ] Video von Sabine H schauen und schicken 
 - [ ] kochen 
 - [ ] Gitarre spielen 
 
