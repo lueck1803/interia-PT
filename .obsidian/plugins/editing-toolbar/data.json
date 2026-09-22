@@ -1093,7 +1093,7 @@
   "cMenuBottomValue": 4.25,
   "cMenuNumRows": 12,
   "cMenuWidth": 0,
-  "cMenuFontColor": "#f79646",
+  "cMenuFontColor": "#ffa500",
   "cMenuBackgroundColor": "#d3f8b6",
   "autohide": false,
   "Iscentered": false,
@@ -1232,5 +1232,5 @@
     }
   },
   "custom_fc9": "#7FFFD4",
-  "custom_fc10": "#FF69B4"
+  "custom_fc10": "#FFA500"
 }
