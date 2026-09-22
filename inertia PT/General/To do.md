@@ -307,6 +307,7 @@
 - [ ] falls HNO mich nicht nimmt ⟹ Hausarzt ⟹ AU
 - [ ] friseur
 - [ ] Aldi ⟹ leckere große Pizza
+- [ ] 30° Wäsche anstellen 
 
 
 - [ ] dpg Beitragsgruppe wechseln 
