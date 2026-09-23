@@ -302,6 +302,8 @@
 
 - [ ] kaffee auffüllen
 - [ ] Gelber Sack
+- [ ] Nagelknipser leeren
+- [ ] Bügeleisen wegräumen
 - [ ] Waschpulver nachfüllen 
 - [ ] nudeln kochen
 - [ ] gießen 
@@ -309,6 +311,8 @@
 	- [x] Teil 1
 	- [x] Teil 2
 	- [x] Video von Sabine H schauen und schicken
+	- [ ] paper lesen
+	- [ ] Abschnitt aus dem Griffith lesen
 - [ ] kochen 
 - [ ] Gitarre spielen 
 - [ ] Papiermüll weg
