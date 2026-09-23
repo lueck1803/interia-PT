@@ -308,6 +308,7 @@
 - [ ] Mittagessen+Pillen nehmen 
 - [ ] Duschen 
 - [x] Handtücher wechseln 
+- [ ] Sonnentau Erde auffüllen 
 - [ ] Waschbecken schrubben 
 	- [ ] Bad 
 	- [ ] Küche 
