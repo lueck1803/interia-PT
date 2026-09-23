@@ -324,8 +324,8 @@
 	- [ ] Küche 
 - [ ] Nagelknipser leeren
 - [x] Bügeleisen wegräumen
-- [ ] Waschpulver nachfüllen 
-- [ ] nudeln kochen
+- [x] Waschpulver nachfüllen 
+- [x] nudeln kochen
 - [x] gießen 
 - [ ] Elias 
 	- [x] Teil 1
@@ -334,9 +334,9 @@
 	- [ ] paper lesen
 	- [ ] Abschnitt aus dem Griffith lesen
 - [ ] kochen 
-- [ ] Gitarre spielen 
-- [ ] Papiermüll weg
-- [ ] vertretungsplan checken 
+- [x] Gitarre spielen 
+- [x] Papiermüll weg
+- [x] vertretungsplan checken 
 
 
 - [ ] dpg Beitragsgruppe wechseln 
