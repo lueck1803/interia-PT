@@ -300,7 +300,7 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- [ ] kaffee auffüllen
+- [x] kaffee auffüllen
 - [x] Gesicht waschen 
 - [ ] Aldi Waschpulver kaufen ❗❗❗
 - [ ] Nudeln in den Kühlschrank 
@@ -311,7 +311,6 @@
 - [ ] Waschbecken schrubben 
 	- [ ] Bad 
 	- [ ] Küche 
-- [ ] Gelber Sack
 - [ ] Nagelknipser leeren
 - [x] Bügeleisen wegräumen
 - [ ] Waschpulver nachfüllen 
