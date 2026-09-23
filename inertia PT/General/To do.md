@@ -305,7 +305,7 @@
 - [ ] Aldi Waschpulver kaufen ❗❗❗
 - [ ] Nudeln in den Kühlschrank 
 - [x] Dampfdruck Kochtopf spülen 
-- [ ] Mittagessen+Pillen nehmen 
+- [x] Mittagessen+Pillen nehmen 
 - [ ] Duschen 
 - [x] Handtücher wechseln 
 - [ ] Sonnentau Erde auffüllen 
@@ -318,7 +318,7 @@
 - [x] Bügeleisen wegräumen
 - [ ] Waschpulver nachfüllen 
 - [ ] nudeln kochen
-- [ ] gießen 
+- [x] gießen 
 - [ ] Elias 
 	- [x] Teil 1
 	- [x] Teil 2
