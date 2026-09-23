@@ -310,6 +310,7 @@
 - [x] Handtücher wechseln 
 - [ ] Sonnentau Erde auffüllen 
 - [ ] destilliertes Wasser kaufen 
+- [ ] kiwi umsetzen 
 - [ ] Waschbecken schrubben 
 	- [ ] Bad 
 	- [ ] Küche 
