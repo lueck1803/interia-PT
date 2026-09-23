@@ -301,6 +301,8 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] kaffee auffüllen
+- [ ] Gesicht waschen 
+- [ ] Dampfdruck Kochtopf spülen 
 - [ ] Gelber Sack
 - [ ] Nagelknipser leeren
 - [ ] Bügeleisen wegräumen
