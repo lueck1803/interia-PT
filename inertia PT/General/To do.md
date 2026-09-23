@@ -302,7 +302,7 @@
 
 - [ ] kaffee auffüllen
 - [x] Gesicht waschen 
-- [ ] Aldi Waschpulver kaufen 
+- [ ] Aldi Waschpulver kaufen ❗❗❗
 - [ ] Dampfdruck Kochtopf spülen 
 - [ ] Mittagessen+Pillen nehmen 
 - [ ] Duschen 

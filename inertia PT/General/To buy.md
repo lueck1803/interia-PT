@@ -10,10 +10,11 @@
 ## Jetzt
 - Einkaufswagen 
 - [ ] Tomaten 
-- [ ] pizza
 - [ ] Hafermilch
+- [ ] Waschpulver 
 - [ ] Fusilli
 - [ ] Müsli
+- [x] pizza
 - [x] Saft
 - [x] ~~Auberginen~~ Pilze 
 - [x] Schmelzkäse Scheiben
