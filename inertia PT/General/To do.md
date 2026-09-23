@@ -304,7 +304,8 @@
 - [x] Gesicht waschen 
 - [ ] Wäsche zusammenlegen 
 - [x] Kissenbezüge waschen 
-- [ ] Kissenbezüge wieder aus
+- [ ] Kissenbezüge wieder auf die Kissen 
+- [ ] Toilette putzen 
 - [ ] Bettwäsche wechseln 
 - [ ] kissen lüften 
 - [ ] Matratze drehen
