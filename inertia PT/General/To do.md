@@ -309,6 +309,7 @@
 - [ ] Duschen 
 - [x] Handtücher wechseln 
 - [ ] Sonnentau Erde auffüllen 
+- [ ] destilliertes Wasser kaufen 
 - [ ] Waschbecken schrubben 
 	- [ ] Bad 
 	- [ ] Küche 
