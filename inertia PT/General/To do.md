@@ -303,8 +303,11 @@
 - [x] kaffee auffüllen
 - [x] Gesicht waschen 
 - [ ] Wäsche zusammenlegen 
-- [ ] Kissenbezüge waschen 
+- [x] Kissenbezüge waschen 
+- [ ] Kissenbezüge wieder aus
 - [ ] Bettwäsche wechseln 
+- [ ] kissen lüften 
+- [ ] Matratze drehen
 - [ ] Aldi Waschpulver kaufen ❗❗❗
 - [ ] Nudeln in den Kühlschrank 
 - [x] Dampfdruck Kochtopf spülen 
