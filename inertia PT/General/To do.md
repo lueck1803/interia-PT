@@ -304,6 +304,9 @@
 - [ ] Gesicht waschen 
 - [ ] Dampfdruck Kochtopf spülen 
 - [ ] Mittagessen+Pillen nehmen 
+- [ ] Duschen 
+- [ ] Handtücher wechseln 
+- [ ] 
 - [ ] Gelber Sack
 - [ ] Nagelknipser leeren
 - [ ] Bügeleisen wegräumen
