@@ -11,7 +11,8 @@
 - Einkaufswagen 
 - [ ] Tomaten 
 - [ ] pizza
-- [x] Hafermilch
+- [ ] Hafermilch
+- [ ] Fusilli
 - [ ] Müsli
 - [x] Saft
 - [x] ~~Auberginen~~ Pilze 
