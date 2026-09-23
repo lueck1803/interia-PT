@@ -100,7 +100,7 @@ Wichtig wie viel Prozent <font color="#ff3d3d">von was?</font>
 - $1\hat{=}1 \rightarrow \frac{100\%}{225\texteuro}\hat{=}\frac{p\%}{175\texteuro}\rightarrow \frac{175\texteuro}{225\texteuro}\hat{=}\frac{p\%}{100\%}$
 ## Formel
 $$
-\frac{\color{green}\text{Prozentwert (W)}}{\color{#b088ff}\text{Grundwert (G)}}= \frac{\color{DodgerBlue}\text{Prozentsatz(p)}}{100\%{\tiny=100\cdot \frac{1}{100}=1}}
+\frac{\color{green}\text{Prozentwert (W)}}{\color{#b088ff}\text{Grundwert (G)}}= \frac{\color{DodgerBlue}\text{Prozentsatz (p)}}{100\%{\tiny=100\cdot \frac{1}{100}=1}}
 $$
 $$
 \frac{\color{green}\text{W}}{\color{#b088ff}\text{G}}= \frac{{\color{DodgerBlue}\text{p}}\tiny\%}{100\%}
