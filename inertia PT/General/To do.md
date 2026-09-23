@@ -302,6 +302,8 @@
 
 - [ ] kaffee auffüllen
 - [ ] Gelber Sack
+- [ ] Nagelknipser leeren
+- [ ] Bügeleisen wegräumen
 - [ ] Waschpulver nachfüllen 
 - [ ] nudeln kochen
 - [ ] gießen 
