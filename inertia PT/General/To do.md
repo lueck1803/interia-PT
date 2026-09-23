@@ -330,19 +330,14 @@
 - [ ] Mischa schreiben ob Geld da ist
 - [ ] Essen mit pilze, zucchini, paprika und Tofu kochen
 - Medikament 
-	- [ ] morgens 
+	- [x] morgens 
 	- [ ] mittags
 	- [ ] abends 
-- [x] Hemd bügeln 
-- [x] gewaschene Unterhosen zu Lappen 
-	- [x] grau
-	- [x] rot
 - [ ] und ob sie die auch in Physik haben wird
 - [ ] wer hat noch Montags vss?
 - [ ] wer hat Mittwoch Vertretung gehabt 
 - [ ] reformerboard testen 
 - [ ] Bürstenaufsatz bestellen 
-- [x] Decken waschen 
 - [ ] Staub saugen 
 - [ ] Briefkasten 
 - [ ] carnivorenwasser
@@ -357,11 +352,9 @@
 	- [x] p 10b %% fold %%
 	- [x] p 10a
 
-- [x] Küche aufräumen 
 - [ ] boden wischen 
 - [ ] sofa aufräumen 
 - [ ] sofa kissen wechseln 
-- [x] Zeug von Elias lesen 
 
 - [ ] trigger latex suite handy🤷
 - [ ] Haftpflicht Versicherung 
