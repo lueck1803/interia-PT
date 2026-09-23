@@ -309,7 +309,7 @@
 - [ ] Bettwäsche wechseln 
 - [x] kissen lüften 
 - [ ] kr@uter wegräumen 
-- [ ] Matratze drehen
+- [x] Matratze drehen
 - [x] Aldi Waschpulver kaufen ❗❗❗
 - [x] Nudeln in den Kühlschrank 
 - [x] Dampfdruck Kochtopf spülen 
