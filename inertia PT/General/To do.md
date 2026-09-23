@@ -301,12 +301,14 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] kaffee auffüllen
-- [ ] Gesicht waschen 
+- [x] Gesicht waschen 
 - [ ] Dampfdruck Kochtopf spülen 
 - [ ] Mittagessen+Pillen nehmen 
 - [ ] Duschen 
 - [ ] Handtücher wechseln 
-- [ ] 
+- [ ] Waschbecken schrubben 
+	- [ ] Bad 
+	- [ ] Küche 
 - [ ] Gelber Sack
 - [ ] Nagelknipser leeren
 - [ ] Bügeleisen wegräumen
