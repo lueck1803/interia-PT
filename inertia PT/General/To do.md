@@ -319,7 +319,7 @@
 - [ ] Sonnentau Erde auffüllen 
 - [ ] destilliertes Wasser kaufen 
 - [ ] kiwi umsetzen 
-- [ ] 60 grad Wäsche 
+- [ ] 60 grad Wäsche aufhängen 
 - [ ] Waschbecken schrubben 
 	- [ ] Bad 
 	- [ ] Küche 
