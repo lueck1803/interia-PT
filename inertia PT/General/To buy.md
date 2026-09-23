@@ -11,7 +11,7 @@
 - Einkaufswagen 
 - [ ] Tomaten 
 - [ ] Hafermilch
-- [ ] Waschpulver 
+- [x] Waschpulver 
 - [ ] Fusilli
 - [ ] Müsli
 - [ ] saft
