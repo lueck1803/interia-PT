@@ -303,16 +303,16 @@
 - [ ] kaffee auffüllen
 - [x] Gesicht waschen 
 - [ ] Aldi Waschpulver kaufen ❗❗❗
-- [ ] Dampfdruck Kochtopf spülen 
+- [x] Dampfdruck Kochtopf spülen 
 - [ ] Mittagessen+Pillen nehmen 
 - [ ] Duschen 
-- [ ] Handtücher wechseln 
+- [x] Handtücher wechseln 
 - [ ] Waschbecken schrubben 
 	- [ ] Bad 
 	- [ ] Küche 
 - [ ] Gelber Sack
 - [ ] Nagelknipser leeren
-- [ ] Bügeleisen wegräumen
+- [x] Bügeleisen wegräumen
 - [ ] Waschpulver nachfüllen 
 - [ ] nudeln kochen
 - [ ] gießen 
