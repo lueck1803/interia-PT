@@ -310,8 +310,8 @@
 - [x] kissen lüften 
 - [ ] kr@uter wegräumen 
 - [ ] Matratze drehen
-- [ ] Aldi Waschpulver kaufen ❗❗❗
-- [ ] Nudeln in den Kühlschrank 
+- [x] Aldi Waschpulver kaufen ❗❗❗
+- [x] Nudeln in den Kühlschrank 
 - [x] Dampfdruck Kochtopf spülen 
 - [x] Mittagessen+Pillen nehmen 
 - [ ] Duschen 
