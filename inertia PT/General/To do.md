@@ -308,6 +308,7 @@
 - [ ] Toilette putzen 
 - [ ] Bettwäsche wechseln 
 - [x] kissen lüften 
+- [ ] kr@uter wegräumen 
 - [ ] Matratze drehen
 - [ ] Aldi Waschpulver kaufen ❗❗❗
 - [ ] Nudeln in den Kühlschrank 
