@@ -10,10 +10,10 @@
 ## Jetzt
 - Einkaufswagen 
 - [ ] Tomaten 
-- [ ] Hafermilch
+- [x] Hafermilch
 - [x] Waschpulver 
 - [x] Fusilli
-- [ ] Müsli
+- [x] Müsli
 - [ ] saft
 - [x] pizza
 - [x] Saft
