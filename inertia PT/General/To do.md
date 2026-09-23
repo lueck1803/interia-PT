@@ -303,6 +303,7 @@
 - [ ] kaffee auffüllen
 - [ ] Gesicht waschen 
 - [ ] Dampfdruck Kochtopf spülen 
+- [ ] Mittagessen+Pillen nehmen 
 - [ ] Gelber Sack
 - [ ] Nagelknipser leeren
 - [ ] Bügeleisen wegräumen
