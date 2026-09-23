@@ -307,7 +307,7 @@
 - [ ] Kissenbezüge wieder auf die Kissen 
 - [ ] Toilette putzen 
 - [ ] Bettwäsche wechseln 
-- [ ] kissen lüften 
+- [x] kissen lüften 
 - [ ] Matratze drehen
 - [ ] Aldi Waschpulver kaufen ❗❗❗
 - [ ] Nudeln in den Kühlschrank 
