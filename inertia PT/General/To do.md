@@ -302,6 +302,9 @@
 
 - [x] kaffee auffüllen
 - [x] Gesicht waschen 
+- [ ] Wäsche zusammenlegen 
+- [ ] Kissenbezüge waschen 
+- [ ] Bettwäsche wechseln 
 - [ ] Aldi Waschpulver kaufen ❗❗❗
 - [ ] Nudeln in den Kühlschrank 
 - [x] Dampfdruck Kochtopf spülen 
