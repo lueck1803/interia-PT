@@ -12,7 +12,7 @@
 - [ ] Tomaten 
 - [ ] Hafermilch
 - [x] Waschpulver 
-- [ ] Fusilli
+- [x] Fusilli
 - [ ] Müsli
 - [ ] saft
 - [x] pizza
