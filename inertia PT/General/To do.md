@@ -307,6 +307,7 @@
 - [ ] Ausarbeitung Distributiv - exponential gesetz fertig machen
 - [ ] ansia wegen mathevertretung schreiben
 - [x] fahrt zum hno checke
+- [ ] 30° Wäsche schleudern 
 - [ ] Toilette putzen 
 - [ ] Bettwäsche wechseln 
 - [ ] kräuter wegräumen 
