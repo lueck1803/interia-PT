@@ -303,7 +303,8 @@
 - [ ] Wäsche zusammenlegen 
 - [ ] zähne putzen
 - [x] Kissenbezüge wieder auf die Kissen 
-- [ ] fahrt zum hno checke
+- [ ] fahrt zum hno checken
+- [ ] ansia wegen mathevertretung schreiben
 - [ ] Toilette putzen 
 - [ ] Bettwäsche wechseln 
 - [ ] kr@uter wegräumen 
