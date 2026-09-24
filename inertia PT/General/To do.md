@@ -303,10 +303,10 @@
 - [ ] Wäsche zusammenlegen 
 - [ ] zähne putzen
 - [x] Kissenbezüge wieder auf die Kissen 
-- [ ] fahrt zum hno checke
+- [x] fahrt zum hno checke
 - [ ] Toilette putzen 
 - [ ] Bettwäsche wechseln 
-- [ ] kr@uter wegräumen 
+- [ ] kräuter wegräumen 
 - [ ] Duschen 
 - [ ] Sonnentau Erde auffüllen 
 - [ ] destilliertes Wasser kaufen 
