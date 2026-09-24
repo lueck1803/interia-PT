@@ -303,6 +303,8 @@
 - [ ] Wäsche zusammenlegen 
 - [ ] zähne putzen
 - [x] Kissenbezüge wieder auf die Kissen 
+- [ ] Ausarbeitung Distributiv - exponential gesetz fertig machen
+- [ ] 
 - [ ] ansia wegen mathevertretung schreiben
 - [x] fahrt zum hno checke
 - [ ] Toilette putzen 
