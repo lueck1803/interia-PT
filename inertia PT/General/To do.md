@@ -308,7 +308,7 @@
 - [ ] ansia wegen mathevertretung schreiben
 - [x] fahrt zum hno checke
 - [ ] 30° Wäsche schleudern 
-- [ ] Schnellspanner 
+- [ ] Schnellspanner für Autoventil 
 - [ ] Toilette putzen 
 - [ ] Bettwäsche wechseln 
 - [ ] kräuter wegräumen 
