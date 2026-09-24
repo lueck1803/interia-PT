@@ -300,22 +300,14 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- [x] kaffee auffüllen
-- [x] Gesicht waschen 
 - [ ] Wäsche zusammenlegen 
-- [x] Kissenbezüge waschen 
-- [ ] Kissenbezüge wieder auf die Kissen 
+- [ ] zähne putzen
+- [x] Kissenbezüge wieder auf die Kissen 
+- [ ] fahrt zum hno checke
 - [ ] Toilette putzen 
 - [ ] Bettwäsche wechseln 
-- [x] kissen lüften 
 - [ ] kr@uter wegräumen 
-- [x] Matratze drehen
-- [x] Aldi Waschpulver kaufen ❗❗❗
-- [x] Nudeln in den Kühlschrank 
-- [x] Dampfdruck Kochtopf spülen 
-- [x] Mittagessen+Pillen nehmen 
 - [ ] Duschen 
-- [x] Handtücher wechseln 
 - [ ] Sonnentau Erde auffüllen 
 - [ ] destilliertes Wasser kaufen 
 - [ ] kiwi umsetzen 
@@ -324,10 +316,6 @@
 	- [ ] Bad 
 	- [ ] Küche 
 - [ ] Nagelknipser leeren
-- [x] Bügeleisen wegräumen
-- [x] Waschpulver nachfüllen 
-- [x] nudeln kochen
-- [x] gießen 
 - [ ] Elias 
 	- [x] Teil 1
 	- [x] Teil 2
@@ -335,9 +323,7 @@
 	- [ ] paper lesen
 	- [ ] Abschnitt aus dem Griffith lesen
 - [ ] kochen 
-- [x] Gitarre spielen 
-- [x] Papiermüll weg
-- [x] vertretungsplan checken 
+- [ ] Gitarre spielen 
 
 
 - [ ] dpg Beitragsgruppe wechseln 
