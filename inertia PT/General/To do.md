@@ -483,7 +483,7 @@
 		- [ ] Seite und Aufgabe aus dem Mathebuch
 		- [ ] Dreisatz
 		- [ ] Prozentrechnung
-		- [ ] Gleichungen
+		- [ ] Gleichungen %% fold %%
 			- [ ] rechengesetze mit beispielen mit auf das Blatt
 				- [ ] kommutativ gesetz
 					- [ ] beispiele von heute
