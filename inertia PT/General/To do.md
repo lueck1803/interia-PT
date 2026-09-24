@@ -303,7 +303,7 @@
 - [ ] Wäsche zusammenlegen 
 - [ ] zähne putzen
 - [x] Kissenbezüge wieder auf die Kissen 
-- [ ] mathe 8 seite 38 einscann
+- [ ] mathe 8 seite 38 einscannen
 - [ ] Ausarbeitung Distributiv - exponential gesetz fertig machen
 - [ ] ansia wegen mathevertretung schreiben
 - [x] fahrt zum hno checke
