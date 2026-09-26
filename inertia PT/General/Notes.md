@@ -5596,3 +5596,9 @@ Die Dokureihe, nach der du suchst, heißt **"The Future is Wild"** (auf Deutsch 
 	- realizing:
 	- ⤷the only storm that matters is the one inside of you
 	- calm that storm and the rest gets quieter 
+
+# Melanie Zitate 
+- Wenn man am Ohr operiert wird bekommt man Eis Creme
+- _Ich bin nicht ungeduldig, das ist meine Art_ ❤️
+- ich kann kein Mathe aber ich hab's verstanden 
+- 
