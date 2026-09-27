@@ -301,6 +301,10 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [x] septum wieder rein machen
+- [ ] zu Hause 
+	- [ ] Nudeln kochen
+	- [ ] essen 
+	- [ ] Pflanzen gießen 
 
 - [ ] laptophülle dampfen
 - [ ] nasenhaare schneiden
