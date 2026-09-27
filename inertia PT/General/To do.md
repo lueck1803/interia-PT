@@ -300,17 +300,16 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
+- [ ] septum wieder rein machen
 
-
+- [ ] laptophülle dampfen
+- [ ] nasenhaare schneiden
+- [ ] rot-grauen Rucksack waschen
 - [ ] Wäsche zusammenlegen 
-- [ ] zähne putzen
 - [ ] Ausarbeitung Distributiv - exponential gesetz fertig machen
 - [ ] Schnellspanner für Autoventil 
 - [x] Toilette putzen
 - [ ] Bettwäsche wechseln 
-- [ ] kräuter wegräumen 
-- [ ] Duschen 
-- [ ] Sonnentau Erde auffüllen 
 - [ ] destilliertes Wasser kaufen 
 - [ ] kiwi umsetzen 
 - [ ] Waschbecken schrubben 
@@ -323,7 +322,6 @@
 	- [x] Video von Sabine H schauen und schicken
 	- [ ] paper lesen
 	- [ ] Abschnitt aus dem Griffith lesen
-- [ ] kochen 
 - [ ] Gitarre spielen 
 
 
