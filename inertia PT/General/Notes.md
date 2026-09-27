@@ -5604,4 +5604,10 @@ Die Dokureihe, nach der du suchst, heißt **"The Future is Wild"** (auf Deutsch 
 - Ich habe keinen fünft klässler in mir. Eher habe ich Erwachsene in mir
 
 # Packliste 
-- habd
+
+- Handtücher 
+	- klein
+	- groß 
+- Kulturbeutel 
+
+## Kleidung 
