@@ -1,5 +1,6 @@
 [
   "unicode-search",
+  "codeblock-customizer",
   "auto-close-tags",
   "obsidian-wrap-with-shortcuts",
   "obsidian-quiet-outline",
@@ -35,6 +36,5 @@
   "lapel",
   "foldstate",
   "cursor-position-history",
-  "obsidian-latex-suite",
-  "codeblock-customizer"
+  "obsidian-latex-suite"
 ]
