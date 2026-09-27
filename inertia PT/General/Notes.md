@@ -5617,6 +5617,8 @@ Die Dokureihe, nach der du suchst, heißt **"The Future is Wild"** (auf Deutsch 
 - 3 Unterhosen 
 - 3 paar Socken 
 - lange Hose 
+- kurze Hose 
+- Zipper jacke
 
 ## Sonstiges 
 - Schlappen 
