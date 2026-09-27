@@ -25,9 +25,9 @@ $\mathbb{N}_{0}=\left\{ 0,1,2,3,\dots \right\}=\mathbb{N}\cup \{0\}$
 	- <u>Addition und Multiplikation</u>
 		- vier Birnen und fünf Äpfel sind neun Früchte
 		- Ich gehe drei mal in der Woche zum Sport. Somit gehe ich im Monat, da dieser vier Wochen hat,  zwölf mal zum Sport (vier mal drei).
-
+ %% fold %%
 ## Ganze Zahlen $\mathbb{Z}$ %% fold %%
-
+ %% fold %%
 Die ganzen Zahlen ergänzen die natürlichen Zahlen um die negativen natürlichen Zahlen inklusive der Null. 
 $$
 \mathbb{Z} = -\mathbb{N} \cup \mathbb{N}_{0}
