@@ -306,7 +306,7 @@
 - [ ] zähne putzen
 - [ ] Ausarbeitung Distributiv - exponential gesetz fertig machen
 - [ ] Schnellspanner für Autoventil 
-- [ ] Toilette putzen 
+- [x] Toilette putzen
 - [ ] Bettwäsche wechseln 
 - [ ] kräuter wegräumen 
 - [ ] Duschen 
