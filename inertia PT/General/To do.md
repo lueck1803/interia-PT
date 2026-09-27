@@ -300,14 +300,12 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
+
+
+
 - [ ] Wäsche zusammenlegen 
 - [ ] zähne putzen
-- [x] Kissenbezüge wieder auf die Kissen 
-- [ ] mathe 8 seite 38 einscannen
 - [ ] Ausarbeitung Distributiv - exponential gesetz fertig machen
-- [ ] ansia wegen mathevertretung schreiben
-- [x] fahrt zum hno checke
-- [ ] 30° Wäsche schleudern 
 - [ ] Schnellspanner für Autoventil 
 - [ ] Toilette putzen 
 - [ ] Bettwäsche wechseln 
@@ -316,7 +314,6 @@
 - [ ] Sonnentau Erde auffüllen 
 - [ ] destilliertes Wasser kaufen 
 - [ ] kiwi umsetzen 
-- [ ] 60 grad Wäsche aufhängen 
 - [ ] Waschbecken schrubben 
 	- [ ] Bad 
 	- [ ] Küche 
@@ -394,7 +391,7 @@
 - [ ] Checkliste Mathe schreiben  %% fold %%
 	- [ ] letzte plus  %% fold %%
 	- [ ] terme zusammen fassen  %% fold %%
-	- [ ] und variablen einsetzen können 
+	- [ ] und variablen einsetzen können  %% fold %%
 - [ ] fritz kunkel
 - [ ] elias Ausfertigung 
 
