@@ -5604,10 +5604,20 @@ Die Dokureihe, nach der du suchst, heißt **"The Future is Wild"** (auf Deutsch 
 - Ich habe keinen fünft klässler in mir. Eher habe ich Erwachsene in mir
 
 # Packliste 
-
+## Bad/pflege
 - Handtücher 
 	- klein
 	- groß 
 - Kulturbeutel 
+	- Zahnbürste 
+	- Zahnpasta 
+	- Mundspülung 
 
 ## Kleidung 
+- 3 Unterhosen 
+- 3 paar Socken 
+- lange Hose 
+
+## Sonstiges 
+- Schlappen 
+	- duschen und zum rumlaufen
