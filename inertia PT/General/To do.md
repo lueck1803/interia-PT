@@ -307,7 +307,8 @@
 	- [ ] Pflanzen gießen 
 	- [ ] carnivoren gießen 
 	- [ ] Spülmaschine ausräumen 
-	- [ ] pa
+	- [ ] paper mitnehmen 
+	- [ ] PC Stecker neu stecken 
 
 - [ ] laptophülle dampfen
 - [ ] nasenhaare schneiden
