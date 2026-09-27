@@ -302,7 +302,6 @@
 
 
 
-
 - [ ] Wäsche zusammenlegen 
 - [ ] zähne putzen
 - [ ] Ausarbeitung Distributiv - exponential gesetz fertig machen
