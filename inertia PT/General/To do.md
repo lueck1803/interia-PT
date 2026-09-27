@@ -305,6 +305,9 @@
 	- [ ] Nudeln kochen
 	- [ ] essen 
 	- [ ] Pflanzen gießen 
+	- [ ] carnivoren gießen 
+	- [ ] Spülmaschine ausräumen 
+	- [ ] pa
 
 - [ ] laptophülle dampfen
 - [ ] nasenhaare schneiden
