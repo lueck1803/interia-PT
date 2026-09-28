@@ -300,10 +300,11 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- [x] septum wieder rein machen
+- [ ] destilliertes Wasser kaufen
 - [ ] zu Hause 
 	- [x] Nudeln kochen
 	- [ ] essen 
+	- [ ] Jogginghose wechseln 
 	- [x] Pflanzen gießen 
 	- [ ] carnivoren wasser auffüllen
 	- [ ] carnivoren gießen 
@@ -323,7 +324,6 @@
 	- [x] schuhe Desinfektion und deo
 	- [x] Schlafmaske 
 
-- [ ] Plektren in der Stadt kaufen 
 
 - [ ] laptophülle dampfen
 - [x] nasenhaare schneiden
