@@ -103,6 +103,88 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+## 2026-09-28
+Hallo Melanie,
+Ich habe nicht die Schule gewechselt.
+Ich habe von Januar ‘24 bis Januar ‘25 als VSS an der Lio gearbeitet.
+
+Danach habe ich bei nem Kumpel im Unternehmen in der IT-Security gearbeitet.
+
+Es gibt aber einen Grund warum ich an der Lio aufgehört habe.
+
+Warum fragst du? Sei ehrlich! Ganz sicher nicht aus reiner Neugierde, das glaube ich dir nicht mehr.
+
+Warum bist du dir so unsicher über mich. Glaubst du tatsächlich ich bin pädophil.
+Mir reicht das jetzt langsam.
+
+Auch heute in der Gruppe…
+Also du “Das ist typisch an ‘uns’?” geschrieben hast…
+sorry langsam verstehe ich keinen Spaß mehr bei deinem Misstrauen.
+weißt du was ich geb die Klasse ab.
+es reicht mir.
+
+Wenn du mir nicht mehr glaubst und mir nicht mehr vertraust.
+Dann hab ich auch keine Lust mehr Lehrer bei euch zu sein.
+
+Das hört nie auf.
+
+Ich kann nix dafür, dass du etwas schwer von Begriff bist und ich dir alles immer 3 mal erklären muss.
+Das meinte ich mit “Unser typisches aneinander vorbei reden”
+weißt du ich nehm das noch mit auf meine Kappe, dabei hätte ich auch gemein sein können…
+
+Ich kann nicht mal mehr "uns" sagen, ohne dass du Schnappatmung bekommst.
+
+Ich hab bewusst so im Klassenchat geschrieben, da ich das ganz offen machen möchte.
+Da ist nix schlimmes dran.
+
+so wie ich im klassenchat und vor der klasse mit dir rede, habe ich auch im privaten Chat mit dir geredet.
+
+verdammt nochmal ich wollte nett zu dir sein, ich hab mir mühe gegeben deine Fragen zu beantworten, ich hab dich aufbauen wollen, ich wollte dir auf die Sprünge helfen, dass du besser zu dir bist, obwohl du nicht siehst und immer noch nicht siehst, dass du dir schadest.
+
+ist mir aber egal inzwischen. ich hab genug energie investiert und probiert.
+
+der ganze scheiß wird mir nur negativ ausgelegt.
+
+als wollte ich was von dir!?😂😂😂😂🤯🤯🤯🤯
+
+glaubst du doch nicht im ernst…
+
+ist mir viel zu anstrengend …
+ich kann ja nicht mal nen satz sagen, ohne ihn danach 3 mal erklären zu müssen.
+
+wieso sollte ich auf 13 Jährige stehen???
+
+alter… weißt du… 
+das ist so was von respektlos und beleidigend.
+ich bin ein ehrlicher mensch, ich bin sehr nett und liebevoll.
+und was wird daraus gemacht??
+
+das ich ein kinderficker bin?
+
+wie häufig hast du mir jetzt schon gesagt, dass du das nicht glaubst.
+stimmt wohl einfach nicht…
+denn tief im inneren bist du wohl extrem verunsichert.
+
+halt dich einfach von mir fern.
+
+ich behandle dich ganz normal im unterricht es gibt keine nachteile oder bevorzugung.
+
+ich werde dich aber absofort nicht mehr so nett und zu vorkommend behandeln.
+
+wenn mir so viel misstrauen entgegen gebracht wird...
+
+wie häufig hab ich mich schon erklärt???
+
+es reicht mir…
+
+du raffst es doch eh nicht…
+
+hast du ja heute selbst geschrieben.
+das ist auch die realität….
+
+warum schreibst du mir überhaupt über whatsapp?
+
+
 
 ## 2026-09-19
 ### jamil
@@ -831,7 +913,7 @@ Seitdem ich zu mir stehe, auch für meine Positionen und für meine Eltern aber 
 
 Ich hätte das gerne mit dir zusammen geschafft und auch so vieles mit dir zusammen erlebt.
 
-Ich bin dir wirklich sehr dankbar, dass du über die intensive und wertvolle Zeit die ich mit dir verbringen durfte, immer wieder mein Rückgrat gestärkt hast und mir aus getrieben hast (auch wenn es sehr sehr lange gebraucht hat), dass ich selbst mit mir so abwertend um gehe und für mich und meinen Platz einstehe.
+Ich bin dir wirklich sehr dankbar, dass du über die intensive und wertvolle Zeit die ich mit dir verbringen durfte, immer wieder mein Rückgrat gestärkt hast und mir aus getrieben hast (auch wenn es sehr sehr lange gebraucht hat), dass ich selbst mit mir so abwertend um gehe und für mich und meinen Platz einstehe. %% fold %%
 
 Das habe ich von dir gelernt. Auch wenn du es mir vielleicht nicht glaubst, ich hab es dir zwar auch immer wieder gesagt mich leider auch gleichzeitig darüber immer wieder beschwert, daher war die Botschaft dass ich das als eine hohe Qualität von dir angesehen habe und ich immer sehr zu dir auf geblickt habe nicht so an. 
 Ich hab graduell von dir gelernt und hab mich halt immer auch wieder dagegen gewehrt, im Endeffekt war es mein innerer Kampf gegen meine Glaubenssätze und Scham.
