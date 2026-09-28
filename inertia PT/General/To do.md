@@ -301,7 +301,9 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] destilliertes Wasser kaufen
-- [ ] Plektren in der Stadt kaufen 
+	- gab nirgends welches (müller, rossmann, dm)
+- [ ] Plektren in der Stadt kaufen
+	- laden hatte zu
 - [ ] zu Hause 
 	- [x] Nudeln kochen
 	- [x] essen 
