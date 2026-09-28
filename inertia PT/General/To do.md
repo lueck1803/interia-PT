@@ -323,6 +323,8 @@
 	- [x] schuhe Desinfektion und deo
 	- [x] Schlafmaske 
 
+- [ ] Plektren in der Stadt
+
 - [ ] laptophülle dampfen
 - [x] nasenhaare schneiden
 - [ ] rot-grauen Rucksack waschen
