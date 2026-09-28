@@ -323,7 +323,7 @@
 	- [x] schuhe Desinfektion und deo
 	- [x] Schlafmaske 
 
-- [ ] Plektren in der Stadt
+- [ ] Plektren in der Stadt kaufen 
 
 - [ ] laptophülle dampfen
 - [x] nasenhaare schneiden
