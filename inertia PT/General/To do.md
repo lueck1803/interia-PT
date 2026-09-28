@@ -302,11 +302,13 @@
 
 - [x] septum wieder rein machen
 - [ ] zu Hause 
-	- [ ] Nudeln kochen
+	- [x] Nudeln kochen
 	- [ ] essen 
-	- [ ] Pflanzen gießen 
+	- [x] Pflanzen gießen 
 	- [ ] carnivoren gießen 
+		- [ ] Sonnentau 
 	- [ ] Spülmaschine ausräumen 
+		- [ ] unteres fach
 	- [x] paper mitnehmen 
 	- [ ] PC Stecker neu stecken 
 	- [ ] Tütchen für Piercings 
