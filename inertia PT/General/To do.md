@@ -329,12 +329,11 @@
 
 
 - [ ] laptophülle dampfen
-- [x] nasenhaare schneiden
+- [ ] Fußnägel knipsen 
 - [ ] rot-grauen Rucksack waschen
 - [ ] Wäsche zusammenlegen 
 - [ ] Ausarbeitung Distributiv - exponential gesetz fertig machen
 - [ ] Schnellspanner für Autoventil 
-- [x] Toilette putzen
 - [ ] Bettwäsche wechseln 
 - [ ] destilliertes Wasser kaufen 
 - [ ] kiwi umsetzen 
