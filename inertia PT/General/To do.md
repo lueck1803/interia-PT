@@ -306,13 +306,13 @@
 	- [ ] essen 
 	- [x] Pflanzen gießen 
 	- [ ] carnivoren gießen 
-		- [ ] Sonnentau 
+		- [x] Sonnentau 
 	- [ ] Spülmaschine ausräumen 
-		- [ ] unteres fach
+		- [x] unteres fach
 	- [x] paper mitnehmen 
 	- [ ] PC Stecker neu stecken 
 	- [ ] Tütchen für Piercings 
-	- [ ] bart und Nasenhaare 
+	- [x] bart und Nasenhaare 
 	- [x] schuhe Desinfektion und deo
 	- [x] Schlafmaske 
 
