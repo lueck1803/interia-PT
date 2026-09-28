@@ -110,7 +110,7 @@ Ich habe von Januar ‘24 bis Januar ‘25 als VSS an der Lio gearbeitet.
 
 Danach habe ich bei nem Kumpel im Unternehmen in der IT-Security gearbeitet.
 
-Es gibt aber einen Grund warum ich an der Lio aufgehört habe.
+Es gibt aber einen Grund warum ich an der Lio aufgehört habe. Aber ganz sicher nicht, weil ich mich an kleine Mädchen ran gemacht habe...
 
 Warum fragst du? Sei ehrlich! Ganz sicher nicht aus reiner Neugierde, das glaube ich dir nicht mehr.
 
