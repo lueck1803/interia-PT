@@ -310,6 +310,7 @@
 	- [ ] paper mitnehmen 
 	- [ ] PC Stecker neu stecken 
 	- [ ] Tütchen für Piercings 
+	- [ ] schuhe Desinfektion und deo
 
 - [ ] laptophülle dampfen
 - [ ] nasenhaare schneiden
