@@ -332,7 +332,7 @@
 	- [x] Teil 1
 	- [x] Teil 2
 	- [x] Video von Sabine H schauen und schicken
-	- [ ] paper lesen
+	- [x] paper lesen
 	- [ ] Abschnitt aus dem Griffith lesen
 - [ ] Gitarre spielen 
 
