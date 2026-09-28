@@ -5613,6 +5613,7 @@ Die Dokureihe, nach der du suchst, heißt **"The Future is Wild"** (auf Deutsch 
 	- Zahnpasta 
 	- Mundspülung 
 	- Schere für den Bart
+	- Nagelknipser 
 
 ## Kleidung 
 - 3 Unterhosen 
