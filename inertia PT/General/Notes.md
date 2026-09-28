@@ -5612,6 +5612,7 @@ Die Dokureihe, nach der du suchst, heißt **"The Future is Wild"** (auf Deutsch 
 	- Zahnbürste 
 	- Zahnpasta 
 	- Mundspülung 
+	- Schere für den Bart
 
 ## Kleidung 
 - 3 Unterhosen 
