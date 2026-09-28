@@ -304,23 +304,23 @@
 - [ ] Plektren in der Stadt kaufen 
 - [ ] zu Hause 
 	- [x] Nudeln kochen
-	- [ ] essen 
+	- [x] essen 
 	- [ ] Jogginghose wechseln 
 	- [x] Pflanzen gießen 
 	- [ ] carnivoren wasser auffüllen
 	- [ ] carnivoren gießen 
 		- [x] Sonnentau 
 		- [ ] rest
-	- [ ] Spülmaschine ausräumen 
+	- [x] Spülmaschine ausräumen 
 		- [x] unteres fach
-		- [ ] oberes Fach
-		- [ ] zeug einräumen
+		- [x] oberes Fach
+		- [x] zeug einräumen
 	- [ ] ceranfeld
 	- [ ] gießen die zweite
 	- [x] paper mitnehmen 
 	- [ ] PC Stecker neu stecken 
 	- [x] Tütchen für Piercings 
-	- [ ] nagel knipsen
+	- [x] nagel knipsen
 	- [x] bart und Nasenhaare 
 	- [x] schuhe Desinfektion und deo
 	- [x] Schlafmaske 
