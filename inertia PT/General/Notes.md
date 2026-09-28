@@ -406,7 +406,7 @@ Du bist der der du sein möchtest.
 Alleine du legst das fest wer du bist. 
 
 Das braucht lange Zeit das zu erkennen. Es ist ein Prozess.
-
+ %% fold %%
 Du kannst auch jederzeit entscheiden wie du sein willst. 
 
 Dafür musst du deine überaus liebenswerte Höflichkeit gar nicht ablegen. Die ist ein Teil von dir. Das macht dich aus und wertvoll.
