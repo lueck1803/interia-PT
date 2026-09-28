@@ -397,7 +397,7 @@ Auch die Stelle die mit Text schwer ist. Letzteres aber nicht auf 100%. Immerhin
 
 Zur Not kann mein Kumpel da vocals machen. 
 
-Aber das bekomme ich mit Übung hin. 
+Aber das bekomme ich mit Übung hin.  %% fold %%
 
 Aber intro und solo. 
 
