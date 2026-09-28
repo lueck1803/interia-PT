@@ -310,7 +310,8 @@
 	- [x] paper mitnehmen 
 	- [ ] PC Stecker neu stecken 
 	- [ ] Tütchen für Piercings 
-	- [ ] schuhe Desinfektion und deo
+	- [ ] bart und Nasenhaare 
+	- [x] schuhe Desinfektion und deo
 	- [x] Schlafmaske 
 
 - [ ] laptophülle dampfen
