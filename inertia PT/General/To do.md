@@ -309,6 +309,7 @@
 	- [ ] Spülmaschine ausräumen 
 	- [ ] paper mitnehmen 
 	- [ ] PC Stecker neu stecken 
+	- [ ] Tütchen für Piercings 
 
 - [ ] laptophülle dampfen
 - [ ] nasenhaare schneiden
