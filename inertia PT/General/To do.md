@@ -324,7 +324,7 @@
 	- [x] Schlafmaske 
 
 - [ ] laptophülle dampfen
-- [ ] nasenhaare schneiden
+- [x] nasenhaare schneiden
 - [ ] rot-grauen Rucksack waschen
 - [ ] Wäsche zusammenlegen 
 - [ ] Ausarbeitung Distributiv - exponential gesetz fertig machen
