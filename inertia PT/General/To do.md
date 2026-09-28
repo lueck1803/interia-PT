@@ -307,10 +307,11 @@
 	- [ ] Pflanzen gießen 
 	- [ ] carnivoren gießen 
 	- [ ] Spülmaschine ausräumen 
-	- [ ] paper mitnehmen 
+	- [x] paper mitnehmen 
 	- [ ] PC Stecker neu stecken 
 	- [ ] Tütchen für Piercings 
 	- [ ] schuhe Desinfektion und deo
+	- [x] Schlafmaske 
 
 - [ ] laptophülle dampfen
 - [ ] nasenhaare schneiden
