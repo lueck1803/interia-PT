@@ -1,5 +1,6 @@
 # Stadt
 - [ ] satz dünner pics kaufen, so dünn wie repair tool
+- [ ] mini rasierschaum
 # Internet 
 - macbook ersatztasten 
 	- [ ] Set von ifixit?

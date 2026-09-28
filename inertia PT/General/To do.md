@@ -305,13 +305,20 @@
 	- [x] Nudeln kochen
 	- [ ] essen 
 	- [x] Pflanzen gießen 
+	- [ ] carnivoren wasser auffüllen
 	- [ ] carnivoren gießen 
 		- [x] Sonnentau 
+		- [ ] rest
 	- [ ] Spülmaschine ausräumen 
 		- [x] unteres fach
+		- [ ] oberes Fach
+		- [ ] zeug einräumen
+	- [ ] ceranfeld
+	- [ ] gießen die zweite
 	- [x] paper mitnehmen 
 	- [ ] PC Stecker neu stecken 
-	- [ ] Tütchen für Piercings 
+	- [x] Tütchen für Piercings 
+	- [ ] nagel knipsen
 	- [x] bart und Nasenhaare 
 	- [x] schuhe Desinfektion und deo
 	- [x] Schlafmaske 
