@@ -320,13 +320,14 @@
 	- [x] türkisch 
 	- [x] rasieren
 	- [x] PC Stecker neu stecken 
+		- hat wieder nix gebracht 
 	- [x] kopfhörer aufladen
 	- [x] Fußnägel knipsen 
 	- [x] zwei neue t-shirts
 	- [x] neue jogging hose definitiv 
 	- [x] Socken 
 	- [x] eine Unterhose 
-- [ ] Donnerstag entlass: ina schreiben 
+- [x] Donnerstag entlass: ina schreiben 
 
 - [ ] Knoblauch stecken 
 - [ ] fix homebrew - reinstall ninja ⟹ vorher macos updaten
