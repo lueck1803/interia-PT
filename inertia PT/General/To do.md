@@ -312,18 +312,16 @@
 	- laden hatte zu
 - [ ] zu Hause 
 	- [ ] essen 
-	- [ ] Pflanzen gießen 
+	- [x] Pflanzen gießen 
 	- [ ] carnivoren wasser auffüllen
-	- [ ] carnivoren gießen 
-		- [x] Sonnentau 
-		- [ ] rest
+	- [x] carnivoren gießen 
 	- [ ] ceranfeld
 	- [x] französisch 
 	- [x] türkisch 
 	- [ ] rasieren
 	- [ ] PC Stecker neu stecken 
 	- [x] kopfhörer aufladen
-	- [ ] Fußnägel knipsen 
+	- [x] Fußnägel knipsen 
 	- [x] zwei neue t-shirts
 	- [x] neue jogging hose definitiv 
 	- [x] Socken 
