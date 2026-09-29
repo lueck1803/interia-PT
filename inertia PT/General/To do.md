@@ -313,13 +313,13 @@
 - [ ] zu Hause 
 	- [ ] essen 
 	- [x] Pflanzen gießen 
-	- [ ] carnivoren wasser auffüllen
+	- [x] carnivoren wasser auffüllen
 	- [x] carnivoren gießen 
 	- [ ] ceranfeld
 	- [x] französisch 
 	- [x] türkisch 
-	- [ ] rasieren
-	- [ ] PC Stecker neu stecken 
+	- [x] rasieren
+	- [x] PC Stecker neu stecken 
 	- [x] kopfhörer aufladen
 	- [x] Fußnägel knipsen 
 	- [x] zwei neue t-shirts
