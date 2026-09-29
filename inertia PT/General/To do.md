@@ -301,12 +301,9 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [x] Kaffee 
-- [ ] Toilette 
-- [ ] Zähne putzen 
+- [x] Toilette 
+- [x] Zähne putzen 
 - [ ] Duschen 
-- [ ] Stadt 
-	- [ ] arnold
-	- [ ] anderer dm
 - [ ] nach Hause
 
 - [ ] destilliertes Wasser kaufen
