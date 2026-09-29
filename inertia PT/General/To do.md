@@ -318,14 +318,16 @@
 		- [x] Sonnentau 
 		- [ ] rest
 	- [ ] ceranfeld
-	- [ ] französisch 
-	- [ ] türkisch 
+	- [x] französisch 
+	- [x] türkisch 
 	- [ ] rasieren
 	- [ ] PC Stecker neu stecken 
-	- [ ] kopfhörer aufladen
+	- [x] kopfhörer aufladen
 	- [ ] Fußnägel knipsen 
-	- [ ] zwei neue t-shirts
-	- [ ] neue jogging hose definitiv 
+	- [x] zwei neue t-shirts
+	- [x] neue jogging hose definitiv 
+	- [x] Socken 
+	- [x] eine Unterhose 
 - [ ] Donnerstag entlass: ina schreiben 
 
 - [ ] Knoblauch stecken 
