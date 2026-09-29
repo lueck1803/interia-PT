@@ -316,7 +316,9 @@
 	- [ ] Fußnägel knipsen 
 
 - [ ] Knoblauch stecken 
-- [ ] Balkon 
+- [ ] Balkon aufkehren
+- [ ] Pflanzkübel mit Salbei drehen
+- [ ] Rosmarin umsetzen 
 - [ ] laptophülle dampfen
 - [ ] rot-grauen Rucksack waschen
 - [ ] Wäsche zusammenlegen 
