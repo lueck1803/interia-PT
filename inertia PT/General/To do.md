@@ -316,19 +316,9 @@
 	- [x] carnivoren wasser auffüllen
 	- [x] carnivoren gießen 
 	- [ ] ceranfeld
-	- [x] französisch 
-	- [x] türkisch 
-	- [x] rasieren
 	- [x] PC Stecker neu stecken 
 		- hat wieder nix gebracht 
 		- [ ] nochmal probieren an usb 3_4 zu stecken
-	- [x] kopfhörer aufladen
-	- [x] Fußnägel knipsen 
-	- [x] zwei neue t-shirts
-	- [x] neue jogging hose definitiv 
-	- [x] Socken 
-	- [x] eine Unterhose 
-- [x] Donnerstag entlass: ina schreiben 
 
 - [ ] Knoblauch stecken 
 - [ ] Bohnenkraut umsetzen 
