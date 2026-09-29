@@ -326,6 +326,7 @@
 	- [ ] Fußnägel knipsen 
 
 - [ ] Knoblauch stecken 
+- [ ] fix homebrew - reinstall ninja
 - [ ] Balkon aufkehren
 - [ ] Pflanzkübel mit Salbei drehen
 - [ ] Rosmarin umsetzen 
