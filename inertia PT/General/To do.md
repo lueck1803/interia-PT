@@ -326,6 +326,7 @@
 	- [ ] türkisch 
 	- [ ] rasieren
 	- [ ] PC Stecker neu stecken 
+	- [ ] kopfhörer aufladen
 	- [ ] Fußnägel knipsen 
 
 - [ ] Knoblauch stecken 
