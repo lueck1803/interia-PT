@@ -316,6 +316,7 @@
 	- [ ] Fußnägel knipsen 
 
 - [ ] Knoblauch stecken 
+- [ ] Balkon 
 - [ ] laptophülle dampfen
 - [ ] rot-grauen Rucksack waschen
 - [ ] Wäsche zusammenlegen 
