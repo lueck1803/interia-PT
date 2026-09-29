@@ -321,6 +321,7 @@
 	- [x] rasieren
 	- [x] PC Stecker neu stecken 
 		- hat wieder nix gebracht 
+		- [ ] nochmal probieren an usb 3_4 zu stecken
 	- [x] kopfhörer aufladen
 	- [x] Fußnägel knipsen 
 	- [x] zwei neue t-shirts
