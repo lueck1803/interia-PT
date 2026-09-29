@@ -105,6 +105,7 @@ Lukas Walter
 # Nachrichten an Leute
 ## 2026-09-28
 Hallo Melanie,
+deine Nachricht gestern ging etwas unter, mir haben plötzlich sehr viele Leute geschrieben
 Ich habe nicht die Schule gewechselt.
 Ich habe von Januar ‘24 bis Januar ‘25 als VSS an der Lio gearbeitet.
 
