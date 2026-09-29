@@ -324,8 +324,9 @@
 	- [ ] PC Stecker neu stecken 
 	- [ ] kopfhörer aufladen
 	- [ ] Fußnägel knipsen 
-	- [ ] neues t-shirt
-	- [ ] neue jogging hose
+	- [ ] zwei neue t-shirts
+	- [ ] neue jogging hose definitiv 
+- [ ] Donnerstag entlass: ina schreiben 
 
 - [ ] Knoblauch stecken 
 - [ ] fix homebrew - reinstall ninja ⟹ vorher macos updaten
