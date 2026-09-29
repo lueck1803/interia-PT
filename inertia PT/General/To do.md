@@ -326,7 +326,7 @@
 	- [ ] Fußnägel knipsen 
 
 - [ ] Knoblauch stecken 
-- [ ] fix homebrew - reinstall ninja
+- [ ] fix homebrew - reinstall ninja ⟹ vorher macos upd
 - [ ] Balkon aufkehren
 - [ ] Pflanzkübel mit Salbei drehen
 - [ ] Rosmarin umsetzen 
