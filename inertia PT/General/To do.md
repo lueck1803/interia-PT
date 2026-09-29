@@ -315,7 +315,7 @@
 	- [ ] PC Stecker neu stecken 
 	- [ ] Fußnägel knipsen 
 
-
+- [ ] Knoblauch stecken 
 - [ ] laptophülle dampfen
 - [ ] rot-grauen Rucksack waschen
 - [ ] Wäsche zusammenlegen 
