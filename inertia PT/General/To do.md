@@ -322,7 +322,9 @@
 		- [x] Sonnentau 
 		- [ ] rest
 	- [ ] ceranfeld
-	- [ ] controller 
+	- [ ] französisch 
+	- [ ] türkisch 
+	- [ ] rasieren 
 	- [ ] PC Stecker neu stecken 
 	- [ ] Fußnägel knipsen 
 
