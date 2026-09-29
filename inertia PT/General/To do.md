@@ -303,7 +303,7 @@
 - [x] Kaffee 
 - [x] Toilette 
 - [x] Zähne putzen 
-- [ ] nach Hause
+- [x] nach Hause
 
 - [ ] destilliertes Wasser kaufen
 	- gab nirgends welches (müller, rossmann, dm)
@@ -331,6 +331,7 @@
 - [x] Donnerstag entlass: ina schreiben 
 
 - [ ] Knoblauch stecken 
+- [ ] Bohnenkraut umsetzen 
 - [ ] fix homebrew - reinstall ninja ⟹ vorher macos updaten
 - [ ] Balkon aufkehren
 - [ ] Pflanzkübel mit Salbei drehen
