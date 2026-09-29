@@ -300,6 +300,15 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
+- [ ] Kaffee 
+- [ ] Toilette 
+- [ ] Zähne putzen 
+- [ ] Duschen 
+- [ ] Stadt 
+	- [ ] arnold
+	- [ ] anderer dm
+- [ ] nach Hause
+
 - [ ] destilliertes Wasser kaufen
 	- gab nirgends welches (müller, rossmann, dm)
 	- [ ] nochmal im anderen dm schauen 
@@ -313,6 +322,7 @@
 		- [x] Sonnentau 
 		- [ ] rest
 	- [ ] ceranfeld
+	- [ ] controller 
 	- [ ] PC Stecker neu stecken 
 	- [ ] Fußnägel knipsen 
 
