@@ -324,6 +324,8 @@
 	- [ ] PC Stecker neu stecken 
 	- [ ] kopfhörer aufladen
 	- [ ] Fußnägel knipsen 
+	- [ ] neues t-shirt
+	- [ ] neue jogging hose
 
 - [ ] Knoblauch stecken 
 - [ ] fix homebrew - reinstall ninja ⟹ vorher macos updaten
