@@ -302,7 +302,7 @@
 
 - [ ] destilliertes Wasser kaufen
 	- gab nirgends welches (müller, rossmann, dm)
-	- nochmal im anderen dmh schauen 
+	- [ ] nochmal im anderen dm schauen 
 - [ ] Plektren in der Stadt kaufen
 	- laden hatte zu
 - [ ] zu Hause 
