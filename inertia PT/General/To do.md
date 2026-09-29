@@ -324,7 +324,7 @@
 	- [ ] ceranfeld
 	- [ ] französisch 
 	- [ ] türkisch 
-	- [ ] rasieren 
+	- [ ] rasieren
 	- [ ] PC Stecker neu stecken 
 	- [ ] Fußnägel knipsen 
 
