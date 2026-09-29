@@ -303,7 +303,6 @@
 - [x] Kaffee 
 - [x] Toilette 
 - [x] Zähne putzen 
-- [ ] Duschen 
 - [ ] nach Hause
 
 - [ ] destilliertes Wasser kaufen
