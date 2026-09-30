@@ -301,12 +301,12 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Zähne putzen 
-- [ ] alte wäsche mitnehmen
+- [x] alte wäsche mitnehmen
 - [x] anderen dm checken
 - [ ] nagel knipsen
-- [ ] gießen
-- [ ] batterien checken
-- [ ] neue batterien mitnehmen
+- [x] gießen
+- [x] batterien checken
+- [x] neue batterien mitnehmen
 - [ ] essen
 - [ ] Aldi Schoki kaufen 
 - [ ] schokolade
