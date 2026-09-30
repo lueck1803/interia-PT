@@ -302,7 +302,7 @@
 
 - [ ] Zähne putzen 
 - [ ] alte wäsche mitnehmen
-- [ ] anderen dm checken
+- [x] anderen dm checken
 - [ ] nagel knipsen
 - [ ] gießen
 - [ ] batterien checken
@@ -311,9 +311,9 @@
 - [ ] Aldi Schoki kaufen 
 - [ ] schokolade
 
-- [ ] destilliertes Wasser kaufen
+- [x] destilliertes Wasser kaufen
 	- gab nirgends welches (müller, rossmann, dm)
-	- [ ] nochmal im anderen dm schauen 
+	- [x] nochmal im anderen dm schauen 
 - [ ] Plektren in der Stadt kaufen
 	- laden hatte zu
 - [ ] zu Hause 
