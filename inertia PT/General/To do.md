@@ -308,6 +308,7 @@
 - [ ] batterien checken
 - [ ] neue batterien mitnehmen
 - [ ] essen
+- [ ] Aldi Schoki kaufen 
 - [ ] schokolade
 
 - [ ] destilliertes Wasser kaufen
