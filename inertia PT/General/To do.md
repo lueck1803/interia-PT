@@ -303,11 +303,11 @@
 - [ ] Zähne putzen 
 - [x] alte wäsche mitnehmen
 - [x] anderen dm checken
-- [ ] nagel knipsen
+- [x] nagel knipsen
 - [x] gießen
 - [x] batterien checken
 - [x] neue batterien mitnehmen
-- [ ] essen
+- [x] essen
 - [ ] Aldi Schoki kaufen 
 - [ ] schokolade
 
