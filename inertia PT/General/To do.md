@@ -300,6 +300,14 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
+- [ ] anderen dm checken
+- [ ] nagel knipsen
+- [ ] gießen
+- [ ] batterien checken
+- [ ] neue batterien mitnehmen
+- [ ] essen
+- [ ] schokolade
+- [ ] alte wäsc
 
 - [ ] destilliertes Wasser kaufen
 	- gab nirgends welches (müller, rossmann, dm)
