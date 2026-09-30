@@ -300,6 +300,8 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
+- [ ] Zähne putzen 
+- [ ] alte wäsche mitnehmen
 - [ ] anderen dm checken
 - [ ] nagel knipsen
 - [ ] gießen
@@ -307,7 +309,6 @@
 - [ ] neue batterien mitnehmen
 - [ ] essen
 - [ ] schokolade
-- [ ] alte wäsche mitnehmen
 
 - [ ] destilliertes Wasser kaufen
 	- gab nirgends welches (müller, rossmann, dm)
@@ -316,9 +317,10 @@
 	- laden hatte zu
 - [ ] zu Hause 
 	- [ ] essen 
-	- [x] Pflanzen gießen 
-	- [x] carnivoren wasser auffüllen
-	- [x] carnivoren gießen 
+	- [ ] Pflanzen gießen 
+	- [ ] carnivoren wasser auffüllen
+	- [ ] carnivoren gießen 
+	- [ ] Pflanzen umsetzen 
 	- [ ] ceranfeld
 	- [x] PC Stecker neu stecken 
 		- hat wieder nix gebracht 
@@ -328,7 +330,6 @@
 - [ ] Bohnenkraut umsetzen 
 - [ ] fix homebrew - reinstall ninja ⟹ vorher macos updaten
 - [ ] Balkon aufkehren
-- [ ] Pflanzkübel mit Salbei drehen
 - [ ] Rosmarin umsetzen 
 - [ ] laptophülle dampfen
 - [ ] rot-grauen Rucksack waschen
