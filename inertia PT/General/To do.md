@@ -307,7 +307,7 @@
 - [ ] neue batterien mitnehmen
 - [ ] essen
 - [ ] schokolade
-- [ ] alte wäsc
+- [ ] alte wäsche mitnehmen
 
 - [ ] destilliertes Wasser kaufen
 	- gab nirgends welches (müller, rossmann, dm)
