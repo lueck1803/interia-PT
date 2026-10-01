@@ -312,6 +312,7 @@
 - [ ] au an Schule schicken 
 - [ ] Krankenhauszeug einheften
 - [ ] Ibuprofen und Antibiotika wegräumen
+- [ ] Krankenhauslatschen putzen
 
 - [ ] Bauhaus 
 	- [ ] Kehrblech 
