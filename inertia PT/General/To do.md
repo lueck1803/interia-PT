@@ -305,7 +305,7 @@
 - [ ] duschen
 - [ ] Piercings 
 - [ ] auspacken 
-- [ ] antivirales mittel timer alle 4h
+- [x] antivirales mittel timer alle 4h
 - [ ] pc Stecker 
 - [x] Entlassbrief einscannen 
 - [x] Mathe-Förderliste 
@@ -314,6 +314,7 @@
 - [ ] Ibuprofen und Antibiotika wegräumen
 - [ ] Krankenhauslatschen putzen
 - [ ] handyladekabel putzens
+- [ ] Termin lojko ausmachen
 
 - [ ] Bauhaus 
 	- [ ] Kehrblech 
