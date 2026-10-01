@@ -316,7 +316,7 @@
 - [ ] handyladekabel putzens
 - [ ] Termin lojko ausmachen
 
-- [ ] autoventilschnellspanner bestellen
+- [ ] autoventilschnellspanner bestellenjjj
 
 - [ ] Plektren in der Stadt kaufen
 	- laden hatte zu
