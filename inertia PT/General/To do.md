@@ -316,9 +316,7 @@
 - [ ] handyladekabel putzens
 - [ ] Termin lojko ausmachen
 
-- [ ] Bauhaus 
-	- [ ] Kehrblech 
-	- [ ] Schnellspanner für Autoventil 
+- [ ] autoventilschnellspanner bestellen
 
 - [ ] Plektren in der Stadt kaufen
 	- laden hatte zu
