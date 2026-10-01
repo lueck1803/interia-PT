@@ -307,6 +307,7 @@
 - [ ] auspacken 
 - [ ] antivirales mittel timer alle 4h
 - [ ] pc Stecker 
+- [ ] Entlassbrief einscs
 
 - [ ] Bauhaus 
 	- [ ] Kehrblech 
