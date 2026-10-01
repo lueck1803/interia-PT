@@ -304,7 +304,9 @@
 - [ ] neue Zahnbürste 
 - [ ] duschen
 - [ ] Piercings 
+- [ ] auspacken 
 - [ ] antivirales mittel timer alle 4h
+- [ ] pc
 
 - [ ] Bauhaus 
 	- [ ] Kehrblech 
