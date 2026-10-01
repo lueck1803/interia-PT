@@ -301,19 +301,11 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Zähne putzen 
-- [x] alte wäsche mitnehmen
-- [x] anderen dm checken
-- [x] nagel knipsen
-- [x] gießen
-- [x] batterien checken
-- [x] neue batterien mitnehmen
-- [x] essen
-- [ ] Aldi Schoki kaufen 
-- [ ] schokolade
 
-- [x] destilliertes Wasser kaufen
-	- gab nirgends welches (müller, rossmann, dm)
-	- [x] nochmal im anderen dm schauen 
+- [ ] Bauhaus 
+	- [ ] Kehrblech 
+	- [ ] Schnellspanner für Autoventil 
+
 - [ ] Plektren in der Stadt kaufen
 	- laden hatte zu
 - [ ] zu Hause 
