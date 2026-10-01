@@ -301,7 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Zähne putzen 
-- [ ] antivirales mittel ti
+- [ ] antivirales mittel timer alle 4h
 
 - [ ] Bauhaus 
 	- [ ] Kehrblech 
