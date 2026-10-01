@@ -306,7 +306,7 @@
 - [ ] Piercings 
 - [ ] auspacken 
 - [ ] antivirales mittel timer alle 4h
-- [ ] pc
+- [ ] pc Stecker 
 
 - [ ] Bauhaus 
 	- [ ] Kehrblech 
