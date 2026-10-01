@@ -301,6 +301,9 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Zähne putzen 
+- [ ] neue Zahnbürste 
+- [ ] duschen
+- [ ] Piercings 
 - [ ] antivirales mittel timer alle 4h
 
 - [ ] Bauhaus 
