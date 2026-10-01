@@ -313,6 +313,7 @@
 - [ ] Krankenhauszeug einheften
 - [ ] Ibuprofen und Antibiotika wegräumen
 - [ ] Krankenhauslatschen putzen
+- [ ] handyladekabel putzens
 
 - [ ] Bauhaus 
 	- [ ] Kehrblech 
