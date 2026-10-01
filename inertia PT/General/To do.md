@@ -321,6 +321,9 @@
 
 - [ ] Knoblauch stecken 
 - [ ] Bohnenkraut umsetzen 
+	- [ ] nur wohin?
+	- [ ] Lavendel, Rosmarin, Bohnenkraut zusammen setzen 
+	- [ ] vier eckiger Kübel?
 - [ ] fix homebrew - reinstall ninja ⟹ vorher macos updaten
 - [ ] Balkon aufkehren
 - [ ] Rosmarin umsetzen 
