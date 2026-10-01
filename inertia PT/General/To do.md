@@ -307,8 +307,8 @@
 - [ ] auspacken 
 - [ ] antivirales mittel timer alle 4h
 - [ ] pc Stecker 
-- [ ] Entlassbrief einscannen 
-- [ ] Mathe-Förderliste 
+- [x] Entlassbrief einscannen 
+- [x] Mathe-Förderliste 
 
 - [ ] Bauhaus 
 	- [ ] Kehrblech 
