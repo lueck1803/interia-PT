@@ -304,6 +304,7 @@
 - [ ] Was zu $2^{1/2}$ aufschreiben in das Handout
 	- [ ] https://www.youtube.com/watch?v=NbKa-o3ztDo&list=WL&index=21
 - [ ] Erde kaufen 
+- [ ] Fahrradhelm Mömax Aldi 
 - [x] Basilikum schneiden 
 - [ ] Destilliertes Wasserbehälter schneiden und bohren 
 - [ ] gelber Sack 
