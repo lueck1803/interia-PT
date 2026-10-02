@@ -328,7 +328,7 @@
 - [ ] pc Stecker 
 - [ ] Krankenhauszeug einheften
 - [ ] Ibuprofen und Antibiotika wegräumen
-- [ ] Krankenhauslatschen putzen
+- [x] Krankenhauslatschen putzen
 - [ ] handyladekabel putzens
 - [ ] Termin lojko ausmachen
 - [ ] ebay Nachrichten checken 
