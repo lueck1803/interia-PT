@@ -303,6 +303,7 @@
 - [ ] Zähne putzen 
 - [ ] duschen + rasieren
 - [ ] Mittagessen 
+- [ ] HNO Ambulanz termin machen
 - [x] Tischspiegel putzen 
 - [ ] Bart
 - [ ] Nasenhaare 
