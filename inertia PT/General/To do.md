@@ -309,6 +309,7 @@
 - [ ] Nudeln kochen 
 - [ ] Koffer putzen 
 - [ ] Spülmaschine ausräumen 
+- [ ] Wäsche waschen
 - [ ] Nasenhaare 
 - [ ] Bettwäsche 
 - [ ] Fahrradreifen aufpumpen
