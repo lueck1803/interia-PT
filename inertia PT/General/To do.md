@@ -302,6 +302,7 @@
 
 - [x] Zähne putzen 
 - [ ] Kordel durch Kehrblech und besen und etwas zum Aufhängen anbringen 
+- [ ] Tastatur + Tisch wischen
 - [ ] duschen + rasieren
 - [x] Mittagessen 
 - [ ] HNO Ambulanz termin machen
