@@ -307,6 +307,7 @@
 - [x] Tischspiegel putzen 
 - [ ] Bart
 - [ ] Nudeln kochen 
+- [ ] Koffer putzen 
 - [ ] Nasenhaare 
 - [ ] Bettwäsche 
 - [ ] Fahrradreifen aufpumpen
