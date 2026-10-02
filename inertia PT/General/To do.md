@@ -324,12 +324,12 @@
 	- [x] saugen 
 - [ ] Spülmaschine ausräumen 
 - [ ] Loch in brauner Hose flicken 
-- [ ] Wäsche waschen
+- [x] Wäsche waschen
 - [ ] Nasenhaare 
 - [ ] Bettwäsche 
 - [ ] Fahrradreifen aufpumpen
-- [ ] Piercings 
-- [ ] auspacken 
+- [x] Piercings 
+- [x] auspacken 
 - [ ] pc Stecker 
 - [ ] Krankenhauszeug einheften
 - [ ] Ibuprofen und Antibiotika wegräumen
@@ -347,6 +347,9 @@
 - [ ] carnivoren gießen 
 - [ ] Pflanzen gießen 
 - [ ] Pflanzen umsetzen 
+	- [ ] lavendel
+	- [ ] rosmarin
+	- [ ] Bohnenkrau
 - [x] autoventilschnellspanner bestellen
 
 - [ ] Plektren in der Stadt kaufen
