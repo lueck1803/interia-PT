@@ -307,6 +307,7 @@
 - [x] Tischspiegel putzen 
 - [ ] Bart
 - [x] Nudeln kochen 
+- [ ] kalmah
 - [ ] Koffer putzen 
 - [ ] Spülmaschine ausräumen 
 - [ ] Loch in brauner Hose flicken 
