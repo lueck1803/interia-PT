@@ -319,7 +319,10 @@
 - [ ] gelber Sack 
 - [ ] stuhl dampfen
 - [ ] Papierkram 
-
+- [ ] ceranfeld
+- [ ] Bildschirmproblem
+- [ ] carnivoren gießen 
+- [ ] Pflanzen umsetzen 
 - [x] autoventilschnellspanner bestellen
 
 - [ ] Plektren in der Stadt kaufen
@@ -328,9 +331,7 @@
 	- [ ] essen 
 	- [ ] Pflanzen gießen 
 	- [ ] carnivoren wasser auffüllen
-	- [ ] carnivoren gießen 
-	- [ ] Pflanzen umsetzen 
-	- [ ] ceranfeld
+
 	- [x] PC Stecker neu stecken 
 		- hat wieder nix gebracht 
 		- [ ] nochmal probieren an usb 3_4 zu stecken
