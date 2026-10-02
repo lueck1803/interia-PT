@@ -304,6 +304,7 @@
 - [ ] aldi nachrechnen 
 - [ ] Einkaufswagen zurück 
 - [x] Pulli anprobieren 
+- [ ] öl zurück schütten
 - [ ] Äpfel waschen 
 - [ ] Brokkoli zubereiten 
 - [ ] Tomaten waschen 
