@@ -309,6 +309,7 @@
 - [x] Nudeln kochen 
 - [ ] kalmah 15 min 
 - [ ] Kraftsport 
+- [ ] Sonnentau Gießen 
 - [ ] Koffer putzen 
 - [ ] Spülmaschine ausräumen 
 - [ ] Loch in brauner Hose flicken 
