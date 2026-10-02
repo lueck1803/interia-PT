@@ -300,55 +300,33 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- [x] Zähne putzen 
+- [ ] Zähne putzen 
 - [ ] aldi nachrechnen 
-- [ ] pizza schneiden und in den Kühlschrank
 - [ ] Einkaufswagen zurück 
-- [x] Pulli anprobieren 
 - [ ] öl zurück schütten
-- [ ] Äpfel waschen 
 - [ ] Brokkoli zubereiten 
 - [ ] Tomaten waschen 
 - [ ] Was zu $2^{1/2}$ aufschreiben in das Handout
 	- [ ] https://www.youtube.com/watch?v=NbKa-o3ztDo&list=WL&index=21
 - [ ] Erde kaufen 
 - [ ] Fahrradhelm Mömax Aldi 
-- [x] Basilikum schneiden 
 - [ ] Destilliertes Wasserbehälter schneiden und bohren 
 - [ ] gelber Sack 
 - [ ] Kordel durch Kehrblech und besen und etwas zum Aufhängen anbringen 
-- [x] Staub saugen 
-- [x] Wäsche schleudern
-- [ ] Wäsche aufhängen
 - [ ] duschen + rasieren
-- [x] Mittagessen 
 - [ ] HNO Ambulanz termin machen
-- [x] Tischspiegel putzen 
 - [ ] Bart
-- [ ] Nudeln in den Kühlschrank 
 - [ ] kalmah 15 min 
-- [ ] Kraftsport 
-- [x] Sonnentau Gießen 
 - [ ] Bohnen ernten 
 - [ ] Sofalehne dampfen
-- [x] Terrakotta Topf reparieren 
-	- [x] schrubben 
-	- [x] kleben 
-- [x] Koffer
-	- [x] putzen 
-	- [x] saugen 
 - [ ] Spülmaschine ausräumen 
 - [ ] Loch in brauner Hose flicken 
-- [x] Wäsche waschen
 - [ ] Nasenhaare 
 - [ ] Bettwäsche 
 - [ ] Fahrradreifen aufpumpen
-- [x] Piercings 
-- [x] auspacken 
 - [ ] pc Stecker 
 - [ ] Krankenhauszeug einheften
 - [ ] Ibuprofen und Antibiotika wegräumen
-- [x] Krankenhauslatschen putzen
 - [ ] handyladekabel putzens
 - [ ] Termin lojko ausmachen
 - [ ] ebay Nachrichten checken 
@@ -359,22 +337,11 @@
 - [ ] ceranfeld
 - [ ] Bildschirmproblem
 	- [ ] nochmal probieren an usb 3_4 zu stecken
-- [x] carnivoren gießen 
-- [x] Pflanzen gießen 
-- [x] Pflanzen umsetzen 
-	- [x] lavendel
-	- [x] rosmarin
-	- [x] Bohnenkraut
-- [x] autoventilschnellspanner bestellen
 
 - [ ] Plektren in der Stadt kaufen
 	- laden hatte zu
 - [ ] Knoblauch kaufen 
 - [ ] Knoblauch stecken 
-- [x] Bohnenkraut umsetzen 
-	- [x] nur wohin?
-	- [x] Lavendel, Rosmarin, Bohnenkraut zusammen setzen 
-	- [x] vier eckiger Kübel?
 - [ ] fix homebrew - reinstall ninja ⟹ vorher macos updaten
 - [ ] Balkon aufkehren
 - [ ] Rosmarin umsetzen 
@@ -452,7 +419,7 @@
 - [ ] bei der Aufgabe die Einheitsidentitäten ; machen 
 
 - [ ] Mathearbeit 5a?
-- [ ] Wie werden in Mathe die noten vergeben? 
+- [ ] Wie werden in Mathe die noten vergeben?  %% fold %%
 - [ ] proposal fertig schreiben %% fold %%
 - [ ] Antenne pc befestigen 
 - [ ] akustisches klavier oder ähnliches kaufen %% fold %%
