@@ -302,7 +302,7 @@
 
 - [x] Zähne putzen 
 - [ ] Kordel durch Kehrblech und besen und etwas zum Aufhängen anbringen 
-- [ ] Staub saugen 
+- [x] Staub saugen 
 - [x] Wäsche schleudern
 - [ ] Wäsche aufhängen
 - [ ] duschen + rasieren
@@ -349,7 +349,7 @@
 - [ ] Pflanzen umsetzen 
 	- [ ] lavendel
 	- [ ] rosmarin
-	- [ ] Bohnenkrau
+	- [ ] Bohnenkraut
 - [x] autoventilschnellspanner bestellen
 
 - [ ] Plektren in der Stadt kaufen
