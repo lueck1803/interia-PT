@@ -317,7 +317,7 @@
 - [ ] ebay Nachrichten checken 
 - [ ] Duolingo 
 
-- [ ] autoventilschnellspanner bestellen
+- [x] autoventilschnellspanner bestellen
 
 - [ ] Plektren in der Stadt kaufen
 	- laden hatte zu
