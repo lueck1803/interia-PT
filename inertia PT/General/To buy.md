@@ -5,11 +5,15 @@
 
 - [ ] Usb ⇔ Usb-c Kabel (2m)
 - [ ] Schweißgerät *Parkside PFDS 120 A2*
+
+# Baumarkt 
+- [ ] Erde 
 # Aldi
 ## Jetzt
 - Einkaufswagen 
 - [ ] Tomaten 
 - [ ] Einmalhandschuhe
+- [ ] pizza
 - [x] Hafermilch
 - [x] Waschpulver 
 - [x] Fusilli
