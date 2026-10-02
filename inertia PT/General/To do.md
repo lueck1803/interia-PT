@@ -313,8 +313,9 @@
 - [ ] Ibuprofen und Antibiotika wegräumen
 - [ ] Krankenhauslatschen putzen
 - [ ] handyladekabel putzens
-- [ ] Termin lojko ausmachen
+- [x] Termin lojko ausmachen
 - [ ] ebay Nachrichten checken 
+- [ ] Duolingo 
 
 - [ ] autoventilschnellspanner bestellen
 
