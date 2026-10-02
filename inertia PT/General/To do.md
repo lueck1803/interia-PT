@@ -306,6 +306,7 @@
 - [ ] Tischspiegel putzen 
 - [ ] Nasenhaare 
 - [ ] Bettwäsche 
+- [ ] Fahrradreifen aufpumpen
 - [ ] Piercings 
 - [ ] auspacken 
 - [ ] pc Stecker 
