@@ -314,6 +314,7 @@
 - [ ] Krankenhauslatschen putzen
 - [ ] handyladekabel putzens
 - [ ] Termin lojko ausmachen
+- [ ] ebay Nachrichten checken 
 
 - [ ] autoventilschnellspanner bestellen
 
