@@ -305,7 +305,7 @@
 	- [ ] https://www.youtube.com/watch?v=NbKa-o3ztDo&list=WL&index=21
 - [ ] Erde kaufen 
 - [x] Basilikum schneiden 
-- [ ] Destillation Wasserbehälter schneiden und bohren 
+- [ ] Destilliertes Wasserbehälter schneiden und bohren 
 - [ ] gelber Sack 
 - [ ] Kordel durch Kehrblech und besen und etwas zum Aufhängen anbringen 
 - [x] Staub saugen 
