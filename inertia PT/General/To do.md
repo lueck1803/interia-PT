@@ -307,7 +307,8 @@
 - [x] Tischspiegel putzen 
 - [ ] Bart
 - [x] Nudeln kochen 
-- [ ] kalmah
+- [ ] kalmah 15 min 
+- [ ] Kraftsport 
 - [ ] Koffer putzen 
 - [ ] Spülmaschine ausräumen 
 - [ ] Loch in brauner Hose flicken 
