@@ -303,6 +303,7 @@
 - [ ] Zähne putzen 
 - [ ] duschen
 - [ ] Mittagessen 
+- [ ] Tischspiegel putzen 
 - [ ] Piercings 
 - [ ] auspacken 
 - [ ] pc Stecker 
