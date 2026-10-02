@@ -302,6 +302,7 @@
 
 - [x] Zähne putzen 
 - [ ] aldi nachrechnen 
+- [ ] pizza schneiden und in den Kühlschrank
 - [ ] Einkaufswagen zurück 
 - [x] Pulli anprobieren 
 - [ ] öl zurück schütten
