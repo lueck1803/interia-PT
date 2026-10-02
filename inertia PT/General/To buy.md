@@ -2,7 +2,6 @@
 - [ ] satz dünner pics kaufen, so dünn wie repair tool
 - [ ] mini rasierschaum
 # Internet 
-
 - [ ] Usb ⇔ Usb-c Kabel (2m)
 - [ ] Schweißgerät *Parkside PFDS 120 A2*
 
@@ -83,17 +82,8 @@
 - [ ] Fahrradhelm (wenn es im Aldi gibt?)
 - [ ] Unterhemden
 - [ ] Balkon checken
-- türke
-	- [x] weiße bohnen 
-	- [x] 2 x Ackerbohnen
-	- [x] schwarze Oliven
-	- [x] kalamata oliven 
-	- [x] grüne erbsen
-	- [x] Paprika Mark süß 
-	- [x] Paprika Mark scharf
 - [ ] Displayport - Displayport Kabel
 - [ ] 4er Pack CR2032 3V vom dm
-- [x] Vitamin D 
 - [ ] propylene glycol/Lebensmittelfarbe 
 - [ ] Werk-/Arbeitstisch zum klappen für Nähecke
 	- wenn es so einen mal wieder im aldi gibt
