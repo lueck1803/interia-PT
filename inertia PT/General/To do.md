@@ -301,7 +301,6 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Zähne putzen 
-- [ ] neue Zahnbürste 
 - [ ] duschen
 - [ ] Piercings 
 - [ ] auspacken 
@@ -309,14 +308,14 @@
 - [ ] pc Stecker 
 - [x] Entlassbrief einscannen 
 - [x] Mathe-Förderliste 
-- [ ] au an Schule schicken 
+- [x] au an Schule schicken 
 - [ ] Krankenhauszeug einheften
 - [ ] Ibuprofen und Antibiotika wegräumen
 - [ ] Krankenhauslatschen putzen
 - [ ] handyladekabel putzens
 - [ ] Termin lojko ausmachen
 
-- [ ] autoventilschnellspanner bestellenjjj
+- [ ] autoventilschnellspanner bestellen
 
 - [ ] Plektren in der Stadt kaufen
 	- laden hatte zu
