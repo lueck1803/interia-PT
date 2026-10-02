@@ -306,6 +306,7 @@
 - [ ] HNO Ambulanz termin machen
 - [x] Tischspiegel putzen 
 - [ ] Bart
+- [ ] Nudeln kochen 
 - [ ] Nasenhaare 
 - [ ] Bettwäsche 
 - [ ] Fahrradreifen aufpumpen
