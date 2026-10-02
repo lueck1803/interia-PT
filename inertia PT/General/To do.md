@@ -306,9 +306,10 @@
 - [ ] HNO Ambulanz termin machen
 - [x] Tischspiegel putzen 
 - [ ] Bart
-- [ ] Nudeln kochen 
+- [x] Nudeln kochen 
 - [ ] Koffer putzen 
 - [ ] Spülmaschine ausräumen 
+- [ ] Loch in brauner Hose flicken 
 - [ ] Wäsche waschen
 - [ ] Nasenhaare 
 - [ ] Bettwäsche 
