@@ -346,20 +346,20 @@
 	- [ ] nochmal probieren an usb 3_4 zu stecken
 - [ ] carnivoren gießen 
 - [ ] Pflanzen gießen 
-- [ ] Pflanzen umsetzen 
+- [x] Pflanzen umsetzen 
 	- [x] lavendel
-	- [ ] rosmarin
-	- [ ] Bohnenkraut
+	- [x] rosmarin
+	- [x] Bohnenkraut
 - [x] autoventilschnellspanner bestellen
 
 - [ ] Plektren in der Stadt kaufen
 	- laden hatte zu
-
+- [ ] Knoblauch kaufen 
 - [ ] Knoblauch stecken 
-- [ ] Bohnenkraut umsetzen 
-	- [ ] nur wohin?
-	- [ ] Lavendel, Rosmarin, Bohnenkraut zusammen setzen 
-	- [ ] vier eckiger Kübel?
+- [x] Bohnenkraut umsetzen 
+	- [x] nur wohin?
+	- [x] Lavendel, Rosmarin, Bohnenkraut zusammen setzen 
+	- [x] vier eckiger Kübel?
 - [ ] fix homebrew - reinstall ninja ⟹ vorher macos updaten
 - [ ] Balkon aufkehren
 - [ ] Rosmarin umsetzen 
