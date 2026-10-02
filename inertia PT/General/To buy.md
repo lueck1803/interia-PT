@@ -15,7 +15,7 @@
 # Aldi
 ## Jetzt
 - Einkaufswagen 
-- [ ] Tomaten 
+- [x] Tomaten 
 - [ ] Einmalhandschuhe
 - [ ] Heißklebepistole 
 - [ ] pizza
