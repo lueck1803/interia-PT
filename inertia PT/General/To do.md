@@ -310,6 +310,7 @@
 - [ ] kalmah 15 min 
 - [ ] Kraftsport 
 - [ ] Sonnentau Gießen 
+- [ ] Bohnen ernten 
 - [ ] Koffer putzen 
 - [ ] Spülmaschine ausräumen 
 - [ ] Loch in brauner Hose flicken 
