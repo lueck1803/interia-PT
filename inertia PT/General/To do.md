@@ -301,7 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [x] Zähne putzen 
-- [ ] Kordel durch sch
+- [ ] Kordel durch Kehrblech und besen und etwas zum Aufhängen anbringen 
 - [ ] duschen + rasieren
 - [x] Mittagessen 
 - [ ] HNO Ambulanz termin machen
