@@ -304,6 +304,8 @@
 - [ ] duschen
 - [ ] Mittagessen 
 - [ ] Tischspiegel putzen 
+- [ ] Nasenhaare 
+- [ ] Bettwäsche 
 - [ ] Piercings 
 - [ ] auspacken 
 - [ ] pc Stecker 
