@@ -350,8 +350,8 @@
 - [ ] ceranfeld
 - [ ] Bildschirmproblem
 	- [ ] nochmal probieren an usb 3_4 zu stecken
-- [ ] carnivoren gießen 
-- [ ] Pflanzen gießen 
+- [x] carnivoren gießen 
+- [x] Pflanzen gießen 
 - [x] Pflanzen umsetzen 
 	- [x] lavendel
 	- [x] rosmarin
