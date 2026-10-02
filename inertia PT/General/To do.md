@@ -316,6 +316,9 @@
 - [x] Termin lojko ausmachen
 - [ ] ebay Nachrichten checken 
 - [ ] Duolingo 
+- [ ] gelber Sack 
+- [ ] stuhl dampfen
+- [ ] Papierkram 
 
 - [x] autoventilschnellspanner bestellen
 
