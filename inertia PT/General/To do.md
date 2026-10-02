@@ -314,7 +314,9 @@
 - [ ] Terrakotta Topf reparieren 
 	- [ ] schrubben 
 	- [ ] kleben 
-- [ ] Koffer putzen 
+- [ ] Koffer
+	- [ ] putzen 
+	- [ ] saugen 
 - [ ] Spülmaschine ausräumen 
 - [ ] Loch in brauner Hose flicken 
 - [ ] Wäsche waschen
