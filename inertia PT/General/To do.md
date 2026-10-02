@@ -305,7 +305,7 @@
 	- [ ] https://www.youtube.com/watch?v=NbKa-o3ztDo&list=WL&index=21
 - [ ] Erde kaufen 
 - [x] Basilikum schneiden 
-- [ ] destill
+- [ ] Destillation Wasserbehälter schneiden und bohren 
 - [ ] Kordel durch Kehrblech und besen und etwas zum Aufhängen anbringen 
 - [x] Staub saugen 
 - [x] Wäsche schleudern
