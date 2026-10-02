@@ -319,7 +319,7 @@
 - [ ] kalmah 15 min 
 - [ ] Bohnen ernten 
 - [ ] Sofalehne dampfen
-- [ ] Spülmaschine ausräumen 
+- [x] Spülmaschine ausräumen 
 - [ ] Loch in brauner Hose flicken 
 - [ ] Nasenhaare 
 - [ ] Bettwäsche 
@@ -330,8 +330,7 @@
 - [ ] handyladekabel putzens
 - [ ] Termin lojko ausmachen
 - [ ] ebay Nachrichten checken 
-- [ ] Duolingo 
-- [ ] gelber Sack 
+- [x] Duolingo 
 - [ ] stuhl dampfen
 - [ ] Papierkram 
 - [ ] ceranfeld
@@ -340,30 +339,20 @@
 
 - [ ] Plektren in der Stadt kaufen
 	- laden hatte zu
-- [ ] Knoblauch kaufen 
+- [x] Knoblauch kaufen 
 - [ ] Knoblauch stecken 
 - [ ] fix homebrew - reinstall ninja ⟹ vorher macos updaten
-- [ ] Balkon aufkehren
-- [ ] Rosmarin umsetzen 
 - [ ] laptophülle dampfen
 - [ ] rot-grauen Rucksack waschen
 - [ ] Wäsche zusammenlegen 
 - [ ] Ausarbeitung Distributiv - exponential gesetz fertig machen
-- [ ] Schnellspanner für Autoventil 
-- [ ] Bettwäsche wechseln 
 - [ ] destilliertes Wasser kaufen 
 - [ ] kiwi umsetzen 
 - [ ] Waschbecken schrubben 
 	- [ ] Bad 
 	- [ ] Küche 
-- [ ] Nagelknipser leeren
 - [ ] Elias 
-	- [x] Teil 1
-	- [x] Teil 2
-	- [x] Video von Sabine H schauen und schicken
-	- [x] paper lesen
 	- [ ] Abschnitt aus dem Griffith lesen
-- [ ] Gitarre spielen 
 
 
 - [ ] dpg Beitragsgruppe wechseln 
@@ -373,23 +362,12 @@
 	- Plektrumstärke: <font color="#00b050">0,6mm</font>
 - [ ] 8a 1+ für freitag eintragen, alle die am Freitag heft abgegeben haben, rest 4.
 - [ ] Erklärung zur Prozentrechnung abtippen in Gruppe schicken
-- [ ] Duolingo
 - [ ] Lotus rein stellen 
 - [ ] kleines grünes Gewächshaus aus und Aufräumen 
-- [ ] Spülmaschine ausräumen 
 - [ ] Konto checken
 - [ ] Mischa schreiben ob Geld da ist
-- [ ] Essen mit pilze, zucchini, paprika und Tofu kochen
-- Medikament 
-	- [x] morgens 
-	- [ ] mittags
-	- [ ] abends 
-- [ ] und ob sie die auch in Physik haben wird
-- [ ] wer hat noch Montags vss?
-- [ ] wer hat Mittwoch Vertretung gehabt 
 - [ ] reformerboard testen 
 - [ ] Bürstenaufsatz bestellen 
-- [ ] Staub saugen 
 - [ ] Briefkasten 
 - [ ] carnivorenwasser
 - [ ] carnivoren gießen
@@ -403,9 +381,7 @@
 	- [x] p 10b %% fold %%
 	- [x] p 10a
 
-- [ ] boden wischen 
 - [ ] sofa aufräumen 
-- [ ] sofa kissen wechseln 
 
 - [ ] trigger latex suite handy🤷
 - [ ] Haftpflicht Versicherung 
