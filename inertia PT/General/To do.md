@@ -304,11 +304,7 @@
 - [ ] duschen
 - [ ] Piercings 
 - [ ] auspacken 
-- [x] antivirales mittel timer alle 4h
 - [ ] pc Stecker 
-- [x] Entlassbrief einscannen 
-- [x] Mathe-Förderliste 
-- [x] au an Schule schicken 
 - [ ] Krankenhauszeug einheften
 - [ ] Ibuprofen und Antibiotika wegräumen
 - [ ] Krankenhauslatschen putzen
@@ -321,20 +317,14 @@
 - [ ] Papierkram 
 - [ ] ceranfeld
 - [ ] Bildschirmproblem
+	- [ ] nochmal probieren an usb 3_4 zu stecken
 - [ ] carnivoren gießen 
+- [ ] Pflanzen gießen 
 - [ ] Pflanzen umsetzen 
 - [x] autoventilschnellspanner bestellen
 
 - [ ] Plektren in der Stadt kaufen
 	- laden hatte zu
-- [ ] zu Hause 
-	- [ ] essen 
-	- [ ] Pflanzen gießen 
-	- [ ] carnivoren wasser auffüllen
-
-	- [x] PC Stecker neu stecken 
-		- hat wieder nix gebracht 
-		- [ ] nochmal probieren an usb 3_4 zu stecken
 
 - [ ] Knoblauch stecken 
 - [ ] Bohnenkraut umsetzen 
@@ -419,7 +409,7 @@
 
 - [ ] Mathearbeit 5a?
 - [ ] Wie werden in Mathe die noten vergeben? 
-- [ ] proposal fertig schreiben
+- [ ] proposal fertig schreiben %% fold %%
 - [ ] Antenne pc befestigen 
 - [ ] akustisches klavier oder ähnliches kaufen %% fold %%
 - [ ] Küche flächen + Ceranfeld wischen %% fold %%
