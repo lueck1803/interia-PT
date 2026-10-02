@@ -316,10 +316,10 @@
 - [ ] Sofalehne dampfen
 - [x] Terrakotta Topf reparieren 
 	- [x] schrubben 
-	- [ ] kleben 
-- [ ] Koffer
-	- [ ] putzen 
-	- [ ] saugen 
+	- [x] kleben 
+- [x] Koffer
+	- [x] putzen 
+	- [x] saugen 
 - [ ] Spülmaschine ausräumen 
 - [ ] Loch in brauner Hose flicken 
 - [ ] Wäsche waschen
