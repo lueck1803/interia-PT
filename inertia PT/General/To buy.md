@@ -8,11 +8,17 @@
 
 # Baumarkt 
 - [ ] Erde 
+- [ ] Rindenmulch 
+- [ ] Sand 
+# Apotheke
+- [ ] Betaisodona
+
 # Aldi
 ## Jetzt
 - Einkaufswagen 
 - [ ] Tomaten 
 - [ ] Einmalhandschuhe
+- [ ] Heißklebepistole 
 - [ ] pizza
 - [x] Hafermilch
 - [x] Waschpulver 
@@ -64,61 +70,18 @@
 # Other
 - [ ] Fensterstopper 
 - [ ] Sofakissenbezug <font color="#ff0000">(40x90)</font>
-- [ ] Kehrblech für Balkon
-- [ ] Betaisodona
-- [x] Chipotle mayo
-- [x] Schokomüsli
-- [x] Margarine 
-- [x] Gewürzketchup 
-- [x] Tomaten 
-- [x] gelbe Zwiebeln 
-- [x] Vaseline 
-- [x] hummus
-- [x] Schoki 
-- [x] Nüsse
-- [x] Bananen 
-- [x] Burger 
-- [x] Nusskati 
-- [x] Pizza
-- [x] Fusilli 
-- [x] Dosentomaten 
-- Käse
-	- [x] für Brot 
-	- [x] für Nudeln 
-- [x] Kartoffeln 
-- [x] Wassereis 
-- [x] Toilettenpapier 
-- [x] Tofu 
-- [x] Schmelzkäse Scheiben 
-- [x] grüne Oliven 
-- [x] Pesto 
-- [x] schoko chips
-- [x] grüne Erbsen 
-- [x] Mundspülung 
-- [x] destilliertes Wasser
-- [ ] Rindenmulch 
-- [ ] Sand 
 - [ ] Wäschekorb/Behälter 
 	- (falls wieder im aldi)
 	- BHT - 44 cm x 60,5 cm  x 35,5 cm
 	- nicht hellblau 
-- [ ] Heißklebepistole 
-- [x] Schlagbohrmaschine (wenn es im Aldi gibt)
-- [ ] Gewebeband 
-- [ ] salatsamen (Rewe - gab's da nicht)
-- [x] rinder steak 🥩
-- [x] kiwi
-- [ ] destilliertes Wasser 
 - [ ] Laufschuhe 
 	- [ ] Brooks Adrenaline GTS 24 ~ 90€
 	- [ ] Brooks Addiction GTS 15 ~ 76,81€
 	- [ ] Brooks Adrenaline GTS 25 ~ 96 €
 	- [ ] Salomon?
-- [x] Wanderschuhe (Aldi)
+- [ ] Wanderschuhe
 - [ ] Fahrradhelm (wenn es im Aldi gibt?)
-- [x] Backpulver 
 - [ ] Unterhemden
-- [x] ventilator 
 - [ ] Balkon checken
 - türke
 	- [x] weiße bohnen 

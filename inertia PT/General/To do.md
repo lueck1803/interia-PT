@@ -301,6 +301,8 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [x] Zähne putzen 
+- [ ] Was zu $2^{1/2}$ aufschreiben in das Handout
+	- [ ] https://www.youtube.com/watch?v=NbKa-o3ztDo&list=WL&index=21
 - [ ] Erde kaufen 
 - [ ] Kordel durch Kehrblech und besen und etwas zum Aufhängen anbringen 
 - [x] Staub saugen 
