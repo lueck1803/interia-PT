@@ -301,9 +301,10 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Zähne putzen 
-- [ ] duschen
+- [ ] duschen + ra
 - [ ] Mittagessen 
-- [ ] Tischspiegel putzen 
+- [x] Tischspiegel putzen 
+- [ ] Bart
 - [ ] Nasenhaare 
 - [ ] Bettwäsche 
 - [ ] Fahrradreifen aufpumpen
