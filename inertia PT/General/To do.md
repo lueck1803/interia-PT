@@ -309,7 +309,10 @@
 - [ ] Ibuprofen und Antibiotika wegräumen
 - [ ] Krankenhauslatschen putzen
 - [ ] handyladekabel putzens
-- [x] Termin lojko ausmachen
+- [ ] Termin lojko ausmachen
+	- [ ] während der Telefonzeiten anrufen
+	- [ ] Mo-Fr 9-12
+	- [ ] Mo, Di, Do 15-17
 - [ ] ebay Nachrichten checken 
 - [ ] Duolingo 
 - [ ] gelber Sack 

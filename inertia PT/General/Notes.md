@@ -5712,3 +5712,8 @@ Die Dokureihe, nach der du suchst, heißt **"The Future is Wild"** (auf Deutsch 
 ## Sonstiges 
 - Schlappen 
 	- duschen und zum rumlaufen
+
+# Ärzte
+## Psychiater: Lojko
+### Telefon
+069 88 0422
