@@ -302,6 +302,7 @@
 
 - [x] Zähne putzen 
 - [ ] Erde kaufen 
+- [ ] Basilikum schneiden 
 - [ ] Kordel durch Kehrblech und besen und etwas zum Aufhängen anbringen 
 - [x] Staub saugen 
 - [x] Wäsche schleudern
