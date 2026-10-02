@@ -303,6 +303,8 @@
 - [x] Zähne putzen 
 - [ ] Kordel durch Kehrblech und besen und etwas zum Aufhängen anbringen 
 - [ ] Staub saugen 
+- [x] Wäsche schleudern
+- [ ] Wäsche aufhängen
 - [ ] duschen + rasieren
 - [x] Mittagessen 
 - [ ] HNO Ambulanz termin machen
