@@ -309,8 +309,9 @@
 - [x] Nudeln kochen 
 - [ ] kalmah 15 min 
 - [ ] Kraftsport 
-- [ ] Sonnentau Gießen 
+- [x] Sonnentau Gießen 
 - [ ] Bohnen ernten 
+- [ ] Sofalehne dampfen
 - [ ] Terrakotta Topf reparieren 
 	- [ ] schrubben 
 	- [ ] kleben 
