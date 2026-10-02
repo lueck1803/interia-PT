@@ -316,7 +316,7 @@
 - [ ] HNO Ambulanz termin machen
 - [x] Tischspiegel putzen 
 - [ ] Bart
-- [x] Nudeln kochen 
+- [ ] Nudeln in den Kühlschrank 
 - [ ] kalmah 15 min 
 - [ ] Kraftsport 
 - [x] Sonnentau Gießen 
