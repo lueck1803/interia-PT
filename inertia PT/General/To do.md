@@ -347,7 +347,7 @@
 - [ ] carnivoren gießen 
 - [ ] Pflanzen gießen 
 - [ ] Pflanzen umsetzen 
-	- [ ] lavendel
+	- [x] lavendel
 	- [ ] rosmarin
 	- [ ] Bohnenkraut
 - [x] autoventilschnellspanner bestellen
