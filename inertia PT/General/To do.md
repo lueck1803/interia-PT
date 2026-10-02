@@ -302,6 +302,7 @@
 
 - [x] Zähne putzen 
 - [ ] Kordel durch Kehrblech und besen und etwas zum Aufhängen anbringen 
+- [ ] Staub saugen 
 - [ ] duschen + rasieren
 - [x] Mittagessen 
 - [ ] HNO Ambulanz termin machen
@@ -313,8 +314,8 @@
 - [x] Sonnentau Gießen 
 - [ ] Bohnen ernten 
 - [ ] Sofalehne dampfen
-- [ ] Terrakotta Topf reparieren 
-	- [ ] schrubben 
+- [x] Terrakotta Topf reparieren 
+	- [x] schrubben 
 	- [ ] kleben 
 - [ ] Koffer
 	- [ ] putzen 
