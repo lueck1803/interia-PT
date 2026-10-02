@@ -308,6 +308,7 @@
 - [ ] Bart
 - [ ] Nudeln kochen 
 - [ ] Koffer putzen 
+- [ ] Spülmaschine ausräumen 
 - [ ] Nasenhaare 
 - [ ] Bettwäsche 
 - [ ] Fahrradreifen aufpumpen
