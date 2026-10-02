@@ -2,8 +2,6 @@
 - [ ] satz dünner pics kaufen, so dünn wie repair tool
 - [ ] mini rasierschaum
 # Internet 
-- macbook ersatztasten 
-	- [ ] Set von ifixit?
 
 - [ ] Usb ⇔ Usb-c Kabel (2m)
 - [ ] Schweißgerät *Parkside PFDS 120 A2*
@@ -11,6 +9,7 @@
 ## Jetzt
 - Einkaufswagen 
 - [ ] Tomaten 
+- [ ] Einmalhandschuhe
 - [x] Hafermilch
 - [x] Waschpulver 
 - [x] Fusilli
