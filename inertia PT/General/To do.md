@@ -306,6 +306,7 @@
 - [ ] Erde kaufen 
 - [x] Basilikum schneiden 
 - [ ] Destillation Wasserbehälter schneiden und bohren 
+- [ ] gelber Sack 
 - [ ] Kordel durch Kehrblech und besen und etwas zum Aufhängen anbringen 
 - [x] Staub saugen 
 - [x] Wäsche schleudern
