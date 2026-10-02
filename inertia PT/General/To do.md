@@ -311,6 +311,9 @@
 - [ ] Kraftsport 
 - [ ] Sonnentau Gießen 
 - [ ] Bohnen ernten 
+- [ ] Terrakotta Topf reparieren 
+	- [ ] schrubben 
+	- [ ] kleben 
 - [ ] Koffer putzen 
 - [ ] Spülmaschine ausräumen 
 - [ ] Loch in brauner Hose flicken 
