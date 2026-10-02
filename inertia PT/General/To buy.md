@@ -18,9 +18,9 @@
 - [x] Tomaten 
 - [ ] Einmalhandschuhe
 - [ ] Heißklebepistole 
-- [ ] pizza
-- [ ] Knoblauch 
-- [ ] saft
+- [x] pizza
+- [x] Knoblauch 
+- [x] saft
 - [ ] burger
 - [x] Hafermilch
 - [x] Waschpulver 
