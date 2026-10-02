@@ -304,7 +304,8 @@
 - [ ] Was zu $2^{1/2}$ aufschreiben in das Handout
 	- [ ] https://www.youtube.com/watch?v=NbKa-o3ztDo&list=WL&index=21
 - [ ] Erde kaufen 
-- [ ] Basilikum schneiden 
+- [x] Basilikum schneiden 
+- [ ] destill
 - [ ] Kordel durch Kehrblech und besen und etwas zum Aufhängen anbringen 
 - [x] Staub saugen 
 - [x] Wäsche schleudern
