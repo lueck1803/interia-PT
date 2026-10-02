@@ -301,6 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [x] Zähne putzen 
+- [ ] Erde kaufen 
 - [ ] Kordel durch Kehrblech und besen und etwas zum Aufhängen anbringen 
 - [x] Staub saugen 
 - [x] Wäsche schleudern
