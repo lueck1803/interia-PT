@@ -303,7 +303,7 @@
 - [x] Zähne putzen 
 - [ ] aldi nachrechnen 
 - [ ] Einkaufswagen zurück 
-- [ ] Pulli anprobieren 
+- [x] Pulli anprobieren 
 - [ ] Äpfel waschen 
 - [ ] Brokkoli zubereiten 
 - [ ] Tomaten waschen 
