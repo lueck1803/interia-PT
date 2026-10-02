@@ -310,9 +310,6 @@
 - [ ] Krankenhauslatschen putzen
 - [ ] handyladekabel putzens
 - [ ] Termin lojko ausmachen
-	- [ ] während der Telefonzeiten anrufen
-	- [ ] Mo-Fr 9-12
-	- [ ] Mo, Di, Do 15-17
 - [ ] ebay Nachrichten checken 
 - [ ] Duolingo 
 - [ ] gelber Sack 
