@@ -302,6 +302,8 @@
 
 - [x] Zähne putzen 
 - [ ] aldi nachrechnen 
+- [ ] Einkaufswagen zurück 
+- [ ] Pulli anprobieren 
 - [ ] Was zu $2^{1/2}$ aufschreiben in das Handout
 	- [ ] https://www.youtube.com/watch?v=NbKa-o3ztDo&list=WL&index=21
 - [ ] Erde kaufen 
