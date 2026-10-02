@@ -19,6 +19,7 @@
 - [ ] Einmalhandschuhe
 - [ ] Heißklebepistole 
 - [ ] pizza
+- [ ] Knoblauch 
 - [x] Hafermilch
 - [x] Waschpulver 
 - [x] Fusilli
