@@ -301,14 +301,16 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Zähne putzen 
-	- [ ] morgen
+	- [ ] morgens
+	- [ ] mittags
+	- [ ] abends 
 - [x] Duolingo 
 - [ ] Spaziergang 
 - [x] Wäsche aufhängen 
 - [ ] aldi nachrechnen 
 - [ ] Restmüll weg
 - [ ] Einkaufswagen zurück 
-- [ ] Tisch wischen 
+- [x] Tisch wischen 
 - [ ] Flaschen putzen 
 - [ ] Brokkoli zubereiten 
 - [ ] Tomaten in Kühlschrank 
