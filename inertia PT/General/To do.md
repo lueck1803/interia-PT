@@ -343,9 +343,9 @@
 - [ ] fix homebrew - reinstall ninja ⟹ vorher macos updaten
 - [ ] laptophülle dampfen
 - [ ] rot-grauen Rucksack waschen
-- [ ] Wäsche zusammenlegen 
+- [x] Wäsche zusammenlegen 
 - [ ] Ausarbeitung Distributiv - exponential gesetz fertig machen
-- [ ] destilliertes Wasser kaufen 
+- [x] destilliertes Wasser kaufen 
 - [ ] kiwi umsetzen 
 - [ ] Waschbecken schrubben 
 	- [ ] Bad 
@@ -368,10 +368,9 @@
 - [ ] reformerboard testen 
 - [ ] Bürstenaufsatz bestellen 
 - [ ] Briefkasten 
-- [ ] carnivorenwasser
-- [ ] carnivoren gießen
-- [x] kursmappe %% fold %%
-	- [x] m 5a %% fold %%
+ %% fold %%
+- [x] kursmappe 
+	- [x] m 5a
 	- [ ] m 8a
 	- [ ] m 8b
 	- [ ] p 8a
