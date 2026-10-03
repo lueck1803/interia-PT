@@ -300,10 +300,11 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- [ ] Zähne putzen 
+- [ ] Duolingo 
+- [x] Zähne putzen 
 - [ ] aldi nachrechnen 
 - [ ] Einkaufswagen zurück 
-- [ ] öl zurück schütten
+- [x] öl zurück schütten
 - [ ] Brokkoli zubereiten 
 - [ ] Tomaten waschen 
 - [ ] Was zu $2^{1/2}$ aufschreiben in das Handout
@@ -319,7 +320,6 @@
 - [ ] kalmah 15 min 
 - [ ] Bohnen ernten 
 - [ ] Sofalehne dampfen
-- [x] Spülmaschine ausräumen 
 - [ ] Loch in brauner Hose flicken 
 - [ ] Nasenhaare 
 - [ ] Bettwäsche 
@@ -330,7 +330,6 @@
 - [ ] handyladekabel putzens
 - [ ] Termin lojko ausmachen
 - [ ] ebay Nachrichten checken 
-- [x] Duolingo 
 - [ ] stuhl dampfen
 - [ ] Papierkram 
 - [ ] ceranfeld
