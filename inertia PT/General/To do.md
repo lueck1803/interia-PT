@@ -300,28 +300,23 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- [x] Zähne putzen 
+- [ ] Zähne putzen 
 - [x] Duolingo 
-- [x] maronen umsetzen
-- [x] Walnuss umsetzen
-- [x] <font color="#a0522d">Kaffeesatz</font> raus
+- [ ] Wäsche aufhängen 
 - [ ] aldi nachrechnen 
 - [ ] Restmüll weg
 - [ ] Einkaufswagen zurück 
 - [ ] Tisch wischen 
 - [ ] Flaschen putzen 
-- [x] Knoblauch einfrieren 
-- [x] öl zurück schütten
 - [ ] Brokkoli zubereiten 
-- [x] Tomaten waschen 
+- [ ] Tomaten in Kühlschrank 
+- [ ] Tomaten waschen 
 - [ ] Was zu $2^{1/2}$ aufschreiben in das Handout
 	- [ ] https://www.youtube.com/watch?v=NbKa-o3ztDo&list=WL&index=21
 - [ ] Erde kaufen 
 - [ ] Fahrradhelm Mömax Aldi 
 - [ ] Destilliertes Wasserbehälter schneiden und bohren 
 - [ ] gelber Sack 
-- [x] Kordel durch Kehrblech und besen und etwas zum Aufhängen anbringen 
-- [x] duschen
 - [ ] HNO Ambulanz termin machen
 - [ ] Bart
 - [x] kalmah 15 min  
@@ -329,8 +324,6 @@
 - [ ] Sofalehne dampfen
 - [ ] Loch in brauner Hose flicken 
 - [ ] Nasenhaare 
-- [x] Bettwäsche 
-- [x] Fahrradreifen aufpumpen
 - [ ] pc Stecker 
 - [ ] Krankenhauszeug einheften
 - [ ] Ibuprofen und Antibiotika wegräumen
@@ -349,9 +342,7 @@
 - [ ] fix homebrew - reinstall ninja ⟹ vorher macos updaten
 - [ ] laptophülle dampfen
 - [ ] rot-grauen Rucksack waschen
-- [x] Wäsche zusammenlegen 
 - [ ] Ausarbeitung Distributiv - exponential gesetz fertig machen
-- [x] destilliertes Wasser kaufen 
 - [ ] kiwi umsetzen 
 - [ ] Waschbecken schrubben 
 	- [ ] Bad 
@@ -371,12 +362,12 @@
 - [ ] kleines grünes Gewächshaus aus und Aufräumen 
 - [ ] Konto checken
 - [ ] Mischa schreiben ob Geld da ist
-- [ ] reformerboard testen 
-- [ ] Bürstenaufsatz bestellen 
-- [ ] Briefkasten 
+- [ ] reformerboard testen  %% fold %%
+- [ ] Bürstenaufsatz bestellen  %% fold %%
+- [ ] Briefkasten  %% fold %%
  %% fold %%
 - [x] kursmappe  %% fold %%
-	- [x] m 5a
+	- [x] m 5a %% fold %%
 	- [ ] m 8a
 	- [ ] m 8b
 	- [ ] p 8a
