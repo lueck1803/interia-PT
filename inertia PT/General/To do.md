@@ -300,8 +300,8 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- [ ] Zähne putzen 
-- [ ] Duolingo 
+- [x] Zähne putzen 
+- [x] Duolingo 
 - [ ] aldi nachrechnen 
 - [ ] Restmüll weg
 - [ ] Einkaufswagen zurück 
@@ -315,7 +315,7 @@
 - [ ] Destilliertes Wasserbehälter schneiden und bohren 
 - [ ] gelber Sack 
 - [ ] Kordel durch Kehrblech und besen und etwas zum Aufhängen anbringen 
-- [ ] duschen + rasieren
+- [x] duschen
 - [ ] HNO Ambulanz termin machen
 - [ ] Bart
 - [ ] kalmah 15 min 
