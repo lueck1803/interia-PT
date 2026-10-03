@@ -305,6 +305,7 @@
 	- [x] mittags
 	- [ ] abends 
 - [x] Duolingo 
+- [ ] Scanner manual lesen
 - [ ] Spaziergang 
 - [x] Wäsche aufhängen 
 - [ ] aldi nachrechnen 
