@@ -304,6 +304,7 @@
 - [x] Duolingo 
 - [x] maronen umsetzen
 - [x] Walnuss umsetzen
+- [ ] 
 - [ ] aldi nachrechnen 
 - [ ] Restmüll weg
 - [ ] Einkaufswagen zurück 
