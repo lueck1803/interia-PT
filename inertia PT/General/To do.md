@@ -301,7 +301,9 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Zähne putzen 
+- [ ] Duolingo 
 - [ ] aldi nachrechnen 
+- [ ] Restmüll weg
 - [ ] Einkaufswagen zurück 
 - [ ] öl zurück schütten
 - [ ] Brokkoli zubereiten 
@@ -319,7 +321,6 @@
 - [ ] kalmah 15 min 
 - [ ] Bohnen ernten 
 - [ ] Sofalehne dampfen
-- [x] Spülmaschine ausräumen 
 - [ ] Loch in brauner Hose flicken 
 - [ ] Nasenhaare 
 - [ ] Bettwäsche 
@@ -330,7 +331,6 @@
 - [ ] handyladekabel putzens
 - [ ] Termin lojko ausmachen
 - [ ] ebay Nachrichten checken 
-- [x] Duolingo 
 - [ ] stuhl dampfen
 - [ ] Papierkram 
 - [ ] ceranfeld
