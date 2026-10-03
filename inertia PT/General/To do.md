@@ -302,13 +302,14 @@
 
 - [x] Zähne putzen 
 - [x] Duolingo 
-- [ ] maronen umsetzen
-- [ ] Walnuss umsetzen
+- [x] maronen umsetzen
+- [x] Walnuss umsetzen
 - [ ] aldi nachrechnen 
 - [ ] Restmüll weg
 - [ ] Einkaufswagen zurück 
 - [ ] Tisch wischen 
 - [ ] Flaschen putzen 
+- [ ] Knoblauch einfrieren 
 - [x] öl zurück schütten
 - [ ] Brokkoli zubereiten 
 - [ ] Tomaten waschen 
