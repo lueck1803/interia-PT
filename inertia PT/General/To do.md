@@ -304,7 +304,7 @@
 - [x] Duolingo 
 - [x] maronen umsetzen
 - [x] Walnuss umsetzen
-- [ ] 
+- [ ] <font color="#a0522d">Kaffeesatz</font> raus
 - [ ] aldi nachrechnen 
 - [ ] Restmüll weg
 - [ ] Einkaufswagen zurück 
@@ -330,7 +330,7 @@
 - [ ] Loch in brauner Hose flicken 
 - [ ] Nasenhaare 
 - [x] Bettwäsche 
-- [ ] Fahrradreifen aufpumpen
+- [x] Fahrradreifen aufpumpen
 - [ ] pc Stecker 
 - [ ] Krankenhauszeug einheften
 - [ ] Ibuprofen und Antibiotika wegräumen
