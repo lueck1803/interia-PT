@@ -339,7 +339,6 @@
 
 - [ ] Plektren in der Stadt kaufen
 	- laden hatte zu
-- [x] Knoblauch kaufen 
 - [ ] Knoblauch stecken 
 - [ ] fix homebrew - reinstall ninja ⟹ vorher macos updaten
 - [ ] laptophülle dampfen
