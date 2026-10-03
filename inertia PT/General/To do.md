@@ -308,7 +308,7 @@
 - [ ] Restmüll weg
 - [ ] Einkaufswagen zurück 
 - [ ] Tisch wischen 
-- [ ] 
+- [ ] Flaschen putzen 
 - [x] öl zurück schütten
 - [ ] Brokkoli zubereiten 
 - [ ] Tomaten waschen 
