@@ -303,7 +303,7 @@
 - [ ] Zähne putzen 
 - [x] Duolingo 
 - [ ] Spaziergang 
-- [ ] Wäsche aufhängen 
+- [x] Wäsche aufhängen 
 - [ ] aldi nachrechnen 
 - [ ] Restmüll weg
 - [ ] Einkaufswagen zurück 
