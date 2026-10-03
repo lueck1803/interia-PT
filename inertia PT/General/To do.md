@@ -370,7 +370,7 @@
 - [ ] Briefkasten 
 - [ ] carnivorenwasser
 - [ ] carnivoren gießen
-- [x] kursmappe
+- [x] kursmappe %% fold %%
 	- [x] m 5a %% fold %%
 	- [ ] m 8a
 	- [ ] m 8b
