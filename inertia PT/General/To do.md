@@ -312,14 +312,14 @@
 - [ ] Knoblauch einfrieren 
 - [x] öl zurück schütten
 - [ ] Brokkoli zubereiten 
-- [ ] Tomaten waschen 
+- [x] Tomaten waschen 
 - [ ] Was zu $2^{1/2}$ aufschreiben in das Handout
 	- [ ] https://www.youtube.com/watch?v=NbKa-o3ztDo&list=WL&index=21
 - [ ] Erde kaufen 
 - [ ] Fahrradhelm Mömax Aldi 
 - [ ] Destilliertes Wasserbehälter schneiden und bohren 
 - [ ] gelber Sack 
-- [ ] Kordel durch Kehrblech und besen und etwas zum Aufhängen anbringen 
+- [x] Kordel durch Kehrblech und besen und etwas zum Aufhängen anbringen 
 - [x] duschen
 - [ ] HNO Ambulanz termin machen
 - [ ] Bart
