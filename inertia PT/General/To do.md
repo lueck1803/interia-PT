@@ -307,6 +307,8 @@
 - [ ] aldi nachrechnen 
 - [ ] Restmüll weg
 - [ ] Einkaufswagen zurück 
+- [ ] Tisch wischen 
+- [ ] 
 - [x] öl zurück schütten
 - [ ] Brokkoli zubereiten 
 - [ ] Tomaten waschen 
