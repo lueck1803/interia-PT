@@ -302,10 +302,12 @@
 
 - [x] Zähne putzen 
 - [x] Duolingo 
+- [ ] maronen umsetzen
+- [ ] Walnuss umsetzen
 - [ ] aldi nachrechnen 
 - [ ] Restmüll weg
 - [ ] Einkaufswagen zurück 
-- [ ] öl zurück schütten
+- [x] öl zurück schütten
 - [ ] Brokkoli zubereiten 
 - [ ] Tomaten waschen 
 - [ ] Was zu $2^{1/2}$ aufschreiben in das Handout
@@ -323,7 +325,7 @@
 - [ ] Sofalehne dampfen
 - [ ] Loch in brauner Hose flicken 
 - [ ] Nasenhaare 
-- [ ] Bettwäsche 
+- [x] Bettwäsche 
 - [ ] Fahrradreifen aufpumpen
 - [ ] pc Stecker 
 - [ ] Krankenhauszeug einheften
