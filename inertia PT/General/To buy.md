@@ -15,13 +15,13 @@
 # Aldi
 ## Jetzt
 - Einkaufswagen 
-- [x] Tomaten 
+- [ ] burger
 - [ ] Einmalhandschuhe
 - [ ] Heißklebepistole 
+- [x] Tomaten 
 - [x] pizza
 - [x] Knoblauch 
 - [x] saft
-- [ ] burger
 - [x] Hafermilch
 - [x] Waschpulver 
 - [x] Fusilli
