@@ -318,7 +318,7 @@
 - [x] duschen
 - [ ] HNO Ambulanz termin machen
 - [ ] Bart
-- [ ] kalmah 15 min 
+- [x] kalmah 15 min 
 - [ ] Bohnen ernten 
 - [ ] Sofalehne dampfen
 - [ ] Loch in brauner Hose flicken 
