@@ -375,7 +375,7 @@
 - [ ] Bürstenaufsatz bestellen 
 - [ ] Briefkasten 
  %% fold %%
-- [x] kursmappe 
+- [x] kursmappe  %% fold %%
 	- [x] m 5a
 	- [ ] m 8a
 	- [ ] m 8b
