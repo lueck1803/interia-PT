@@ -304,7 +304,7 @@
 - [x] Duolingo 
 - [x] maronen umsetzen
 - [x] Walnuss umsetzen
-- [ ] <font color="#a0522d">Kaffeesatz</font> raus
+- [x] <font color="#a0522d">Kaffeesatz</font> raus
 - [ ] aldi nachrechnen 
 - [ ] Restmüll weg
 - [ ] Einkaufswagen zurück 
