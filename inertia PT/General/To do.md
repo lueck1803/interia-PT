@@ -302,6 +302,7 @@
 
 - [ ] Zähne putzen 
 - [x] Duolingo 
+- [ ] Spaziergang 
 - [ ] Wäsche aufhängen 
 - [ ] aldi nachrechnen 
 - [ ] Restmüll weg
