@@ -310,7 +310,7 @@
 - [ ] Einkaufswagen zurück 
 - [ ] Tisch wischen 
 - [ ] Flaschen putzen 
-- [ ] Knoblauch einfrieren 
+- [x] Knoblauch einfrieren 
 - [x] öl zurück schütten
 - [ ] Brokkoli zubereiten 
 - [x] Tomaten waschen 
