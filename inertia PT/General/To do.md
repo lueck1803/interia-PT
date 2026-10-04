@@ -310,6 +310,8 @@
 - [ ] 60° Wäsche schleudern 
 - [ ] 60° Wäsche aufhängen 
 - [ ] Balkon kehren 
+- [ ] Medikamenten Packungen Front aufschneiden+einheften 
+- [ ] Arooj über Telegramm Bild schicken 
 - [ ] Krafttraining 
 - [ ] duschen + rasieren 
 - [x] Videos rüber schieben 
