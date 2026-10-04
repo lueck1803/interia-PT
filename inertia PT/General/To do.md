@@ -300,9 +300,9 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- [ ] Zähne putzen 
+- Zähne putzen 
 	- [ ] morgens
-	- [ ] mittags
+	- [x] mittags
 	- [ ] abends 
 - [x] Duolingo 
 - [x] Mohnbild fertig malen
