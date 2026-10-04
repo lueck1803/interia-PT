@@ -308,7 +308,7 @@
 - [ ] Apfelschneider nochmal schweißen 
 - [ ] Krafttraining 
 - [ ] duschen + rasieren 
-- [ ] Videos rüber schieben 
+- [x] Videos rüber schieben 
 - [ ] türkisch aufschreiben 
 - [x] Mohnbild fertig malen
 - [x] öl zurück schütten
