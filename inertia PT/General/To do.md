@@ -324,7 +324,9 @@
 - [x] nudeln essen
 - [ ] soße mit fisch, brokkoli und oliven kochen
 - [ ] toilette putzen
-- [ ] Scanner manual lesen
+- [ ] Scanner
+	- [ ] manual lesen
+	- [ ] googlen wie man mit dem Deckel richtig umgeht 
 - [ ] Spaziergang 
 - [ ] aldi nachrechnen 
 - [ ] Restmüll weg
