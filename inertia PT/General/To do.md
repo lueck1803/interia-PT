@@ -312,6 +312,7 @@
 - [x] Stifte aufräumen 
 - [ ] staub saugen
 - [ ] nudeln essen
+- [ ] Wachtelbohnen kochen
 - [ ] soße mit fisch, brokkoli und oliven kochen
 - [ ] toilette putzen
 - [ ] Scanner manual lesen
