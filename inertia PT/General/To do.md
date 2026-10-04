@@ -310,7 +310,8 @@
 - [x] Stifte aufräumen 
 - [ ] staub saugen
 - [ ] nudeln essen
-- [ ] soße mit fisch,bro und oliven kochen
+- [ ] soße mit fisch, brokkoli und oliven kochen
+- [ ] toilette putzen
 - [ ] Scanner manual lesen
 - [ ] Spaziergang 
 - [ ] aldi nachrechnen 
