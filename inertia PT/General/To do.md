@@ -306,6 +306,7 @@
 	- [ ] abends 
 - [ ] Duolingo 
 - [ ] Mohnbild fertig malen
+- [ ] Stifte aufra
 - [ ] Scanner manual lesen
 - [ ] Spaziergang 
 - [ ] aldi nachrechnen 
