@@ -315,7 +315,7 @@
 - [ ] Spülmaschine ausräumen
 - [x] Stifte aufräumen 
 - [ ] staub saugen
-- [ ] nudeln essen
+- [x] nudeln essen
 - [ ] soße mit fisch, brokkoli und oliven kochen
 - [ ] toilette putzen
 - [ ] Scanner manual lesen
