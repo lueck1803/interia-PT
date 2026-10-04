@@ -300,19 +300,18 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-schn
 - Zähne putzen 
 	- [ ] morgens
 	- [x] mittags
 	- [ ] abends 
-- [x] Duolingo l
+- [x] Duolingo 
+- [ ] Apfelschneider nochmal schweißen 
 - [x] Mohnbild fertig malen
 - [x] öl zurück schütten
 - [ ] Spülmaschine ausräumen
 - [x] Stifte aufräumen 
 - [ ] staub saugen
 - [ ] nudeln essen
-- [ ] Wachtelbohnen kochen
 - [ ] soße mit fisch, brokkoli und oliven kochen
 - [ ] toilette putzen
 - [ ] Scanner manual lesen
