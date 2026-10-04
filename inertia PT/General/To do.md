@@ -304,10 +304,10 @@
 	- [ ] morgens
 	- [ ] mittags
 	- [ ] abends 
-- [ ] Duolingo 
-- [ ] Mohnbild fertig malen
+- [x] Duolingo 
+- [x] Mohnbild fertig malen
 - [ ] öl zurück schütten
-- [ ] Stifte aufräumen 
+- [x] Stifte aufräumen 
 - [ ] Scanner manual lesen
 - [ ] Spaziergang 
 - [ ] aldi nachrechnen 
