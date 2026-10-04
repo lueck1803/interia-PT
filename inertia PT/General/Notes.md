@@ -3269,7 +3269,7 @@ ls | grep -P "dump.*[1-9]00000\.txt" | xargs -d"\n" rm
 So gold wert und es funktioniert ❤️😍
 
 ## column
-# PowerShell
+# <font color="#00b0f0">PowerShell</font>
 
 ## PowerShell Version
 
@@ -3278,7 +3278,13 @@ So gold wert und es funktioniert ❤️😍
 $PSVersionTable
 ```
 
+## Bypass the Warning "The file you are attempting to preview could harm your computer"
 
+Open PowerShell and run the command
+```Powershell
+Get-ChildItem -Recurse | Unblock-File
+```
+in the target folder directory.
 ## Network adapter
 
 ```PowerShell
@@ -4779,7 +4785,7 @@ Die Band verwendet aber ausschließlich diese Bedeutung. Für diese bedeutungen 
 - [x] kleine braune weiß gepunktete Spinne bestimmen %% fold %%
 	- Weißpunkt-Fettspinne / Dreiecksfettspinne  %% fold %%
 - [x] Pflanze beim majoran bestimmen %% fold %%
-	- kleinblütiges Franzosenkraut 
+	- kleinblütiges Franzosenkraut  %% fold %%
 ## Evolution und DNA 🧬
 ### RNA - [Älter als das Leben?](https://youtu.be/4eRdmamHBpc?is=lyy2evRfv9D4uZ46)
 
