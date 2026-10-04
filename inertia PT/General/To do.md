@@ -308,6 +308,9 @@
 - [x] Mohnbild fertig malen
 - [ ] öl zurück schütten
 - [x] Stifte aufräumen 
+- [ ] staub saugen
+- [ ] nudeln essen
+- [ ] soße mit fisch,bro und oliven kochen
 - [ ] Scanner manual lesen
 - [ ] Spaziergang 
 - [ ] aldi nachrechnen 
