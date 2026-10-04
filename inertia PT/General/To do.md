@@ -306,6 +306,7 @@
 	- [ ] abends 
 - [ ] Duolingo 
 - [ ] Mohnbild fertig malen
+- [ ] öl zurück schütten
 - [ ] Stifte aufräumen 
 - [ ] Scanner manual lesen
 - [ ] Spaziergang 
@@ -319,7 +320,6 @@
 	- [ ] https://www.youtube.com/watch?v=NbKa-o3ztDo&list=WL&index=21
 - [ ] Erde kaufen 
 - [ ] Fahrradhelm Mömax Aldi 
-- [x] Destilliertes Wasserbehälter schneiden und bohren 
 - [ ] gelber Sack 
 - [ ] HNO Ambulanz termin machen
 - [ ] Bart
