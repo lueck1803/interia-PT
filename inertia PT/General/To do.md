@@ -306,6 +306,10 @@
 	- [ ] abends 
 - [x] Duolingo 
 - [ ] Apfelschneider nochmal schweißen 
+- [ ] 60° Wäsche anstellen 
+- [ ] 60° Wäsche schleudern 
+- [ ] 60° Wäsche aufhängen 
+- [ ] Balkon kehren 
 - [ ] Krafttraining 
 - [ ] duschen + rasieren 
 - [x] Videos rüber schieben 
