@@ -306,7 +306,7 @@
 	- [ ] abends 
 - [ ] Duolingo 
 - [ ] Mohnbild fertig malen
-- [ ] Stifte aufra
+- [ ] Stifte aufräumen 
 - [ ] Scanner manual lesen
 - [ ] Spaziergang 
 - [ ] aldi nachrechnen 
@@ -319,7 +319,7 @@
 	- [ ] https://www.youtube.com/watch?v=NbKa-o3ztDo&list=WL&index=21
 - [ ] Erde kaufen 
 - [ ] Fahrradhelm Mömax Aldi 
-- [ ] Destilliertes Wasserbehälter schneiden und bohren 
+- [x] Destilliertes Wasserbehälter schneiden und bohren 
 - [ ] gelber Sack 
 - [ ] HNO Ambulanz termin machen
 - [ ] Bart
