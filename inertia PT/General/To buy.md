@@ -17,6 +17,7 @@
 ## Jetzt
 - Einkaufswagen 
 - [ ] burger
+- [ ] Toast 
 - [ ] Einmalhandschuhe
 - [ ] Heißklebepistole 
 - [x] Tomaten 
