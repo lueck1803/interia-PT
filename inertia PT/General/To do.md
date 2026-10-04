@@ -306,6 +306,8 @@
 	- [ ] abends 
 - [x] Duolingo 
 - [ ] Apfelschneider nochmal schweißen 
+- [ ] Krafttraining 
+- [ ] duschen + rasieren 
 - [x] Mohnbild fertig malen
 - [x] öl zurück schütten
 - [ ] Spülmaschine ausräumen
