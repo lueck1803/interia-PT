@@ -306,7 +306,8 @@
 	- [ ] abends 
 - [x] Duolingo 
 - [x] Mohnbild fertig malen
-- [ ] öl zurück schütten
+- [x] öl zurück schütten
+- [ ] Spülmaschine ausräumen
 - [x] Stifte aufräumen 
 - [ ] staub saugen
 - [ ] nudeln essen
