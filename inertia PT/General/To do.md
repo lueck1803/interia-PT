@@ -301,21 +301,19 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Zähne putzen 
-	- [x] morgens
-	- [x] mittags
+	- [ ] morgens
+	- [ ] mittags
 	- [ ] abends 
-- [x] Duolingo 
+- [ ] Duolingo 
+- [ ] Mohnbild fertig malen
 - [ ] Scanner manual lesen
 - [ ] Spaziergang 
-- [x] Wäsche aufhängen 
 - [ ] aldi nachrechnen 
 - [ ] Restmüll weg
 - [ ] Einkaufswagen zurück 
-- [x] Tisch wischen 
 - [ ] Flaschen putzen 
 - [ ] Brokkoli zubereiten 
 - [ ] Tomaten in Kühlschrank 
-- [x] Tomaten waschen 
 - [ ] Was zu $2^{1/2}$ aufschreiben in das Handout
 	- [ ] https://www.youtube.com/watch?v=NbKa-o3ztDo&list=WL&index=21
 - [ ] Erde kaufen 
@@ -324,7 +322,7 @@
 - [ ] gelber Sack 
 - [ ] HNO Ambulanz termin machen
 - [ ] Bart
-- [x] kalmah 15 min  
+- [ ] kalmah 15 min  
 - [ ] Bohnen ernten 
 - [ ] Sofalehne dampfen
 - [ ] Loch in brauner Hose flicken 
