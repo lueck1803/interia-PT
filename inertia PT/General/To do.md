@@ -340,12 +340,12 @@
 - [ ] Fahrradhelm Mömax Aldi 
 - [ ] gelber Sack 
 - [ ] HNO Ambulanz termin machen
-- [ ] Bart
+- [x] Bart
 - [ ] kalmah 15 min  
 - [ ] Bohnen ernten 
 - [ ] Sofalehne dampfen
 - [ ] Loch in brauner Hose flicken 
-- [ ] Nasenhaare 
+- [x] Nasenhaare 
 - [ ] pc Stecker 
 - [ ] Krankenhauszeug einheften
 - [ ] Ibuprofen und Antibiotika wegräumen
