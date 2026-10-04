@@ -9,6 +9,7 @@
 - [ ] Erde 
 - [ ] Rindenmulch 
 - [ ] Sand 
+- [ ] Sekundenkleber
 # Apotheke
 - [ ] Betaisodona
 
