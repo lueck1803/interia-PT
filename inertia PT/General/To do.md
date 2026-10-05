@@ -300,13 +300,8 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-`{powershell} super` 
-- [x] aldi
-- [x] Wachtelbohnen 675
 - [ ] Wunderwürze 
 - [ ] Pflanzen umsetzen 
-- [x] gießen 
-- [x] öl zurück schütten 
 
 - Zähne putzen 
 	- [ ] morgens
@@ -328,14 +323,13 @@
 - [ ] Herbstzeitlose lesen 
 - [ ] aktuelles aldi Prospekt 
 - [ ] Tomatenkerne trocknen 
-- [x] Wachtelbohnen kochen 
+- [ ] Wachtelbohnen in den kühlschrank 
 - [ ] kopierproblem inline code 
 	- [ ] alle Community Plugins aus
 - [ ] Balkon kehren 
 - [ ] Medikamenten Packungen Front aufschneiden+einheften 
 - [ ] Krafttraining 
 - [ ] türkisch aufschreiben 
-- [x] Spülmaschine ausräumen
 - [ ] staub saugen
 - [ ] soße mit fisch, brokkoli und oliven kochen
 - [ ] toilette putzen
@@ -344,16 +338,8 @@
 	- [ ] googlen wie man mit dem Deckel richtig umgeht 
 - [ ] Spaziergang 
 - [ ] aldi nachrechnen 
-- [x] Restmüll weg
-- [x] Einkaufswagen zurück 
-- [x] Flaschen putzen 
-- [x] Brokkoli zubereiten 
-- [x] Tomaten in Kühlschrank 
 - [ ] Was zu $2^{1/2}$ aufschreiben in das Handout
 	- [ ] https://www.youtube.com/watch?v=NbKa-o3ztDo&list=WL&index=21
-- [x] Erde kaufen 
-- [x] Fahrradhelm Mömax Aldi 
-- [x] gelber Sack 
 - [ ] HNO Ambulanz termin machen
 	- 📞☎️06151 107 4213
 - [ ] kalmah 15 min  
@@ -368,7 +354,6 @@
 - [ ] ebay Nachrichten checken 
 - [ ] stuhl dampfen
 - [ ] Papierkram 
-- [x] ceranfeld
 - [ ] Bildschirmproblem
 	- [ ] nochmal probieren an usb 3_4 zu stecken
 
@@ -396,7 +381,7 @@
 - [ ] Lotus rein stellen 
 - [ ] kleines grünes Gewächshaus aus und Aufräumen 
 - [ ] Konto checken
-- [ ] Mischa schreiben ob Geld da ist
+- [ ] Mischa schreiben ob Geld da ist %% fold %%
 - [ ] reformerboard testen  %% fold %%
 - [ ] Bürstenaufsatz bestellen %% fold %%
 - [ ] Briefkasten  %% fold %%
