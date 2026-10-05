@@ -319,7 +319,7 @@
 - [ ] aktuelles aldi Prospekt 
 - [x] 60° Wäsche anstellen 
 - [x] 60° Wäsche schleudern 
-- [ ] 60° Wäsche aufhängen 
+- [x] 60° Wäsche aufhängen 
 - [ ] Wachtelbohnen kochen 
 - [ ] kopierproblem inline code 
 	- [ ] alle Community Plugins aus
