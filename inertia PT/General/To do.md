@@ -307,7 +307,8 @@
 - [ ] Duolingo 
 - [ ] Duschen
 - [ ] Apfelschneider nochmal schweißen 
-- [ ] 
+- [ ] Mathearbeit konzipieren 
+	- [ ] 8
 - [x] 60° Wäsche anstellen 
 - [x] 60° Wäsche schleudern 
 - [ ] 60° Wäsche aufhängen 
