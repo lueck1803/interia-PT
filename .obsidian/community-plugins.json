@@ -8,6 +8,7 @@
   "better-comment-toggle",
   "obsidian-enhancing-export",
   "better-export-pdf",
+  "callout-copy-buttons",
   "fast-text-color",
   "table-editor-obsidian",
   "obsidian-git",
@@ -27,6 +28,7 @@
   "obsidian-day-planner",
   "new-window",
   "sfb-open-in-new-tab",
+  "obsidian42-brat",
   "git-history",
   "line-arrange",
   "open-in-new-tab",
@@ -34,7 +36,5 @@
   "lapel",
   "foldstate",
   "cursor-position-history",
-  "obsidian-latex-suite",
-  "obsidian42-brat",
-  "callout-copy-buttons"
+  "obsidian-latex-suite"
 ]
