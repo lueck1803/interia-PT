@@ -396,7 +396,7 @@ Mir fällt es schwer davon abzuschalten, ich bin dann wie in einem Rausch und ha
 
 Ich denke nicht über die Auswirkungen und den Eindruck nach den dieses kurzfristige Handeln im Moment hat, ich tue einfach. 
 
-Danach ärgere ich mich darüber, dass ich so viel und was ich geschrieben habe. 
+Danach ärgere ich mich darüber, dass ich so viel und was ich geschrieben habe.  %% fold %%
 
 Es war für mich eine so lange Zeit mit null bis wenig sozialen Interaktionen, da ich über lange Zeit immer mehr das Gefühl hatte, dabei ständig etwas falsch zu machen/darin zu scheitern und eine Katastrophale Auswirkung auf Menschen zu haben. 
 
@@ -867,7 +867,7 @@ Die sind der Ansicht dass es viele Ersatzreligionen gibt und den Leuten Selbsttr
 
 Die Hinwendung zu einem übermateriellen Streben.
 
-### 4
+### 4 %% fold %%
 Ich hab natürlich mal bei der AfD zu "die Rechte Ordnung der Liebe" nachgeschaut. %% fold %%
  %% fold %%
 
