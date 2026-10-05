@@ -91,8 +91,6 @@
 	- [ ] Salomon?
 - [ ] Wanderschuhe
 - [x] Fahrradhelm (wenn es im Aldi gibt?)
-- [ ] Unterhemden
-- [ ] Balkon checken
 - [ ] Displayport - Displayport Kabel
 - [ ] 4er Pack CR2032 3V vom dm
 - [ ] propylene glycol/Lebensmittelfarbe 
