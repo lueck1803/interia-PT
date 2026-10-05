@@ -103,7 +103,22 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
-## 2026-10-05 katrin mai
+## 2026-10-05 katrin mair
+Mir geht's zum Glück Tag für Tag besser. 
+Als ich Donnerstag aus dem Krankenhaus entlassen wurde, war ich mir unsicher ob das Gehör wieder besser wird. 
+
+Es braucht aber wohl Zeit. Gleichzeitig darf ich nicht unterschätzen, dass ich tatsächlich noch nicht gesund bin. 
+
+Sehr merkwürdig. Hab mich schon extrem schlecht Gefühlt so lange ausgefallen zu sein. 
+
+Ich nehme es auch nicht immer so wahr und ernst, wie es mir geht. 
+
+--
+Das fertig zu malen war wirklich eher mal so ein Schritt eine innere Hürde zu überwinden und sich mal auszuprobieren. 
+Die "Angst" das Bild kaputt zu machen und dann zu schattieren, was ich zum ersten Mal in der Form gemacht habe und mit einer breiten Farbauswahl und verschiedenen Stifthärten etwas zu spielen ohne dass ich das Gefühl hatte, dass jeder strich eine entgültige Entscheidung ist die eine Tür schließt und den aktuellen Stand schlechter macht. 
+
+In der 8b malt ein Junge regelmäßig sehr tolle Sachen und in der 8a ein Mädchen. 
+Zu sehen was die da hinzaubern, hat bei mir die Hürde schrumpfen lassen, mal die Stifte auszupacken und anzufangen. 
 ## 2026-09-28
 Hallo Melanie,
 deine Nachricht gestern ging etwas unter, mir haben plötzlich sehr viele Leute geschrieben

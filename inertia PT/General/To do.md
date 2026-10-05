@@ -305,19 +305,21 @@
 	- [ ] mittags
 	- [ ] abends 
 - [ ] Duolingo 
+- [ ] Duschen
 - [ ] Apfelschneider nochmal schweißen 
 - [x] 60° Wäsche anstellen 
 - [x] 60° Wäsche schleudern 
 - [ ] 60° Wäsche aufhängen 
+- [ ] Wachtelbohnen kochen 
+- [ ] kopierproblem inline code 
+	- [ ] alle Community Plugins aus
 - [ ] Balkon kehren 
 - [ ] Medikamenten Packungen Front aufschneiden+einheften 
 - [ ] Arooj über Telegramm Bild schicken 
 - [ ] Krafttraining 
-- [x] duschen + rasieren 
 - [ ] türkisch aufschreiben 
 - [ ] Spülmaschine ausräumen
 - [ ] staub saugen
-- [x] nudeln essen
 - [ ] soße mit fisch, brokkoli und oliven kochen
 - [ ] toilette putzen
 - [ ] Scanner
@@ -354,7 +356,6 @@
 
 - [ ] Plektren in der Stadt kaufen
 	- laden hatte zu
-- [x] Knoblauch stecken 
 - [ ] fix homebrew - reinstall ninja ⟹ vorher macos updaten
 - [ ] laptophülle dampfen
 - [ ] rot-grauen Rucksack waschen
