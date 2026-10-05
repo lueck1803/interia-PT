@@ -301,25 +301,21 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - Zähne putzen 
-	- [x] morgens
-	- [x] mittags
+	- [ ] morgens
+	- [ ] mittags
 	- [ ] abends 
-- [x] Duolingo 
+- [ ] Duolingo 
 - [ ] Apfelschneider nochmal schweißen 
-- [ ] 60° Wäsche anstellen 
-- [ ] 60° Wäsche schleudern 
+- [x] 60° Wäsche anstellen 
+- [x] 60° Wäsche schleudern 
 - [ ] 60° Wäsche aufhängen 
 - [ ] Balkon kehren 
 - [ ] Medikamenten Packungen Front aufschneiden+einheften 
 - [ ] Arooj über Telegramm Bild schicken 
 - [ ] Krafttraining 
-- [ ] duschen + rasieren 
-- [x] Videos rüber schieben 
+- [x] duschen + rasieren 
 - [ ] türkisch aufschreiben 
-- [x] Mohnbild fertig malen
-- [x] öl zurück schütten
 - [ ] Spülmaschine ausräumen
-- [x] Stifte aufräumen 
 - [ ] staub saugen
 - [x] nudeln essen
 - [ ] soße mit fisch, brokkoli und oliven kochen
@@ -340,12 +336,10 @@
 - [ ] Fahrradhelm Mömax Aldi 
 - [ ] gelber Sack 
 - [ ] HNO Ambulanz termin machen
-- [x] Bart
 - [ ] kalmah 15 min  
 - [ ] Bohnen ernten 
 - [ ] Sofalehne dampfen
 - [ ] Loch in brauner Hose flicken 
-- [x] Nasenhaare 
 - [ ] pc Stecker 
 - [ ] Krankenhauszeug einheften
 - [ ] Ibuprofen und Antibiotika wegräumen
