@@ -22,7 +22,7 @@
 	- gefallen mir nicht, da es rot mit für Frauen gibt
 - [x] kompakt Regenschirm 
 - [x] Toast 
-- [ ] burger
+- [x] burger
 - [ ] Einmalhandschuhe
 - [ ] Schranklicht 8.10.
 - [x] Tomaten 
