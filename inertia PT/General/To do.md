@@ -305,8 +305,8 @@
 - [x] Wachtelbohnen 675
 - [ ] Wunderwürze 
 - [ ] Pflanzen umsetzen 
-- [ ] gießen 
-- [ ] öl zurück schütten 
+- [x] gießen 
+- [x] öl zurück schütten 
 
 - Zähne putzen 
 	- [ ] morgens
@@ -335,7 +335,7 @@
 - [ ] Medikamenten Packungen Front aufschneiden+einheften 
 - [ ] Krafttraining 
 - [ ] türkisch aufschreiben 
-- [ ] Spülmaschine ausräumen
+- [x] Spülmaschine ausräumen
 - [ ] staub saugen
 - [ ] soße mit fisch, brokkoli und oliven kochen
 - [ ] toilette putzen
@@ -346,13 +346,13 @@
 - [ ] aldi nachrechnen 
 - [x] Restmüll weg
 - [x] Einkaufswagen zurück 
-- [ ] Flaschen putzen 
+- [x] Flaschen putzen 
 - [x] Brokkoli zubereiten 
-- [ ] Tomaten in Kühlschrank 
+- [x] Tomaten in Kühlschrank 
 - [ ] Was zu $2^{1/2}$ aufschreiben in das Handout
 	- [ ] https://www.youtube.com/watch?v=NbKa-o3ztDo&list=WL&index=21
-- [ ] Erde kaufen 
-- [ ] Fahrradhelm Mömax Aldi 
+- [x] Erde kaufen 
+- [x] Fahrradhelm Mömax Aldi 
 - [x] gelber Sack 
 - [ ] HNO Ambulanz termin machen
 	- 📞☎️06151 107 4213
