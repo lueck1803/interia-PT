@@ -316,6 +316,7 @@
 - [ ] Mathe-Wettbewerb 
 - [ ] asteracea Samen lesen 
 - [ ] Herbstzeitlose lesen 
+- [ ] aktuelles aldi Prospekt 
 - [x] 60° Wäsche anstellen 
 - [x] 60° Wäsche schleudern 
 - [ ] 60° Wäsche aufhängen 
