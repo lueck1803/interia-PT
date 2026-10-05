@@ -308,7 +308,10 @@
 - [ ] Duschen
 - [ ] Apfelschneider nochmal schweißen 
 - [ ] Mathearbeit konzipieren 
-	- [ ] 8
+	- [ ] 8 a
+	- [ ] 8 b
+	- [ ] 5a
+- [ ] wie geht es weiter mit Physik der 10er?
 - [x] 60° Wäsche anstellen 
 - [x] 60° Wäsche schleudern 
 - [ ] 60° Wäsche aufhängen 
