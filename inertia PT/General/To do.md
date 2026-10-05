@@ -312,7 +312,8 @@
 	- [x] mittags
 	- [ ] abends 
 - [ ] Duolingo 
-- [ ] Fahrradhelm anprobieren 
+- [x] Fahrradhelm anprobieren 
+	- netter kuschelhelm
 - [ ] Duschen
 - [ ] Apfelschneider nochmal schweißen 
 - [ ] Mathearbeit konzipieren 
