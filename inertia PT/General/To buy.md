@@ -18,7 +18,8 @@
 - Einkaufswagen 
 - [ ] burger
 - [ ] outdoor sweat jacke
-- [ ] 
+- [ ] trecking boots 
+- [ ] kompakt Regenschirm 
 - [ ] Toast 
 - [ ] Einmalhandschuhe
 - [ ] Heißklebepistole 
