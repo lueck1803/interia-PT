@@ -305,7 +305,7 @@
 - [ ] Wunderwürze 
 - [ ] Pflanzen umsetzen 
 - [ ] gießen 
-- [ ] öl 
+- [ ] öl zurück schütten 
 
 - Zähne putzen 
 	- [ ] morgens
@@ -326,7 +326,7 @@
 - [ ] Herbstzeitlose lesen 
 - [ ] aktuelles aldi Prospekt 
 - [ ] Tomatenkerne trocknen 
-- [ ] Wachtelbohnen kochen 
+- [x] Wachtelbohnen kochen 
 - [ ] kopierproblem inline code 
 	- [ ] alle Community Plugins aus
 - [ ] Balkon kehren 
@@ -343,7 +343,7 @@
 - [ ] Spaziergang 
 - [ ] aldi nachrechnen 
 - [ ] Restmüll weg
-- [ ] Einkaufswagen zurück 
+- [x] Einkaufswagen zurück 
 - [ ] Flaschen putzen 
 - [ ] Brokkoli zubereiten 
 - [ ] Tomaten in Kühlschrank 
@@ -351,7 +351,7 @@
 	- [ ] https://www.youtube.com/watch?v=NbKa-o3ztDo&list=WL&index=21
 - [ ] Erde kaufen 
 - [ ] Fahrradhelm Mömax Aldi 
-- [ ] gelber Sack 
+- [x] gelber Sack 
 - [ ] HNO Ambulanz termin machen
 	- 📞☎️06151 107 4213
 - [ ] kalmah 15 min  
