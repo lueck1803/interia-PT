@@ -20,6 +20,7 @@
 - [ ] outdoor sweat jacke
 - [ ] trecking boots 
 - [ ] kompakt Regenschirm 
+- [ ] Schranklicht 8.10.
 - [ ] Toast 
 - [ ] Einmalhandschuhe
 - [ ] Heißklebepistole 
