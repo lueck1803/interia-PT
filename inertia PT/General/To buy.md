@@ -18,8 +18,8 @@
 - Einkaufswagen 
 - [ ] Fahrradhelm 
 - [ ] outdoor sweat jacke
-- [ ] trecking boots 
-	- [ ] gefallen mir nicht, da es
+- [x] trecking boots 
+	- gefallen mir nicht, da es rot mit für Frauen gibt
 - [ ] kompakt Regenschirm 
 - [ ] Toast 
 - [ ] burger
