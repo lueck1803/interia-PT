@@ -305,6 +305,7 @@
 - [ ] Wunderwürze 
 - [ ] Pflanzen umsetzen 
 - [ ] gießen 
+- [ ] öl zurück schütten 
 
 - Zähne putzen 
 	- [ ] morgens
@@ -325,7 +326,7 @@
 - [ ] Herbstzeitlose lesen 
 - [ ] aktuelles aldi Prospekt 
 - [ ] Tomatenkerne trocknen 
-- [ ] Wachtelbohnen kochen 
+- [x] Wachtelbohnen kochen 
 - [ ] kopierproblem inline code 
 	- [ ] alle Community Plugins aus
 - [ ] Balkon kehren 
@@ -341,16 +342,16 @@
 	- [ ] googlen wie man mit dem Deckel richtig umgeht 
 - [ ] Spaziergang 
 - [ ] aldi nachrechnen 
-- [ ] Restmüll weg
-- [ ] Einkaufswagen zurück 
+- [x] Restmüll weg
+- [x] Einkaufswagen zurück 
 - [ ] Flaschen putzen 
-- [ ] Brokkoli zubereiten 
+- [x] Brokkoli zubereiten 
 - [ ] Tomaten in Kühlschrank 
 - [ ] Was zu $2^{1/2}$ aufschreiben in das Handout
 	- [ ] https://www.youtube.com/watch?v=NbKa-o3ztDo&list=WL&index=21
 - [ ] Erde kaufen 
 - [ ] Fahrradhelm Mömax Aldi 
-- [ ] gelber Sack 
+- [x] gelber Sack 
 - [ ] HNO Ambulanz termin machen
 	- 📞☎️06151 107 4213
 - [ ] kalmah 15 min  
@@ -365,7 +366,7 @@
 - [ ] ebay Nachrichten checken 
 - [ ] stuhl dampfen
 - [ ] Papierkram 
-- [ ] ceranfeld
+- [x] ceranfeld
 - [ ] Bildschirmproblem
 	- [ ] nochmal probieren an usb 3_4 zu stecken
 
@@ -410,7 +411,6 @@
 
 - [ ] sofa aufräumen 
 
-- [ ] trigger latex suite handy🤷
 - [ ] Haftpflicht Versicherung 
 - [ ] Schlüsselhaftpflicht 
 
