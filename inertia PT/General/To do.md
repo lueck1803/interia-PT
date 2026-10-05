@@ -305,6 +305,7 @@
 - [ ] Wunderwürze 
 - [ ] Pflanzen umsetzen 
 - [ ] gießen 
+- [ ] öl 
 
 - Zähne putzen 
 	- [ ] morgens
