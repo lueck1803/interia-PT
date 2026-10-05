@@ -320,6 +320,7 @@
 - [x] 60° Wäsche anstellen 
 - [x] 60° Wäsche schleudern 
 - [x] 60° Wäsche aufhängen 
+- [ ] Tomatenkerne trocknen 
 - [ ] Wachtelbohnen kochen 
 - [ ] kopierproblem inline code 
 	- [ ] alle Community Plugins aus
