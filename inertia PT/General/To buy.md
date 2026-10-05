@@ -21,7 +21,7 @@
 - [x] trecking boots 
 	- gefallen mir nicht, da es rot mit für Frauen gibt
 - [x] kompakt Regenschirm 
-- [ ] Toast 
+- [x] Toast 
 - [ ] burger
 - [ ] Einmalhandschuhe
 - [ ] Schranklicht 8.10.
