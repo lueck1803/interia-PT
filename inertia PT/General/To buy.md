@@ -16,14 +16,14 @@
 # Aldi
 ## Jetzt
 - Einkaufswagen 
-- [ ] burger
 - [ ] outdoor sweat jacke
 - [ ] trecking boots 
 - [ ] kompakt Regenschirm 
-- [ ] Schranklicht 8.10.
 - [ ] Toast 
+- [ ] burger
 - [ ] Einmalhandschuhe
 - [ ] Heißklebepistole 
+- [ ] Schranklicht 8.10.
 - [x] Tomaten 
 - [x] pizza
 - [x] Knoblauch 
