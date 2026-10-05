@@ -302,6 +302,9 @@
 
 - [ ] Wunderwürze 
 - [ ] Pflanzen umsetzen 
+- [ ] Rindenmulch, sand und perlite in carnivoren Erde mischen 
+- [ ] carnivorenerde zum fettkraut mischen 
+- [ ] Ableger nepenthes machen 
 
 - Zähne putzen 
 	- [ ] morgens
@@ -323,12 +326,11 @@
 - [ ] Herbstzeitlose lesen 
 - [ ] aktuelles aldi Prospekt 
 - [ ] Tomatenkerne trocknen 
-- [x] Wachtelbohnen in den kühlschrank 
 - [ ] kopierproblem inline code 
 	- [ ] alle Community Plugins aus
 - [ ] Balkon kehren 
 - [ ] Medikamenten Packungen Front aufschneiden+einheften 
-- [x] Krafttraining 
+- [ ] Krafttraining 
 - [ ] türkisch aufschreiben 
 - [ ] staub saugen
 - [ ] soße mit fisch, brokkoli und oliven kochen
