@@ -16,11 +16,11 @@
 # Aldi
 ## Jetzt
 - Einkaufswagen 
-- [ ] Fahrradhelm 
-- [ ] outdoor sweat jacke
+- [x] Fahrradhelm 
+- [x] outdoor sweat jacke
 - [x] trecking boots 
 	- gefallen mir nicht, da es rot mit für Frauen gibt
-- [ ] kompakt Regenschirm 
+- [x] kompakt Regenschirm 
 - [ ] Toast 
 - [ ] burger
 - [ ] Einmalhandschuhe

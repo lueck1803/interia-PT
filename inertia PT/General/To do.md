@@ -305,6 +305,7 @@
 	- [ ] mittags
 	- [ ] abends 
 - [ ] Duolingo 
+- [ ] Fahrradhe
 - [ ] Duschen
 - [ ] Apfelschneider nochmal schweißen 
 - [ ] Mathearbeit konzipieren 
