@@ -301,7 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [x] aldi
-- [ ] Wachtelbohnen 
+- [ ] Wachtelbohnen 675
 - [ ] Wunderwürze 
 - [ ] Pflanzen umsetzen 
 - [ ] gießen 
