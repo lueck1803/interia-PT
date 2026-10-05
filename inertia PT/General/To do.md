@@ -302,7 +302,7 @@
 
 - [ ] aldi
 - [ ] Pflanzen umsetzen 
-- [ ] gieß
+- [ ] gießen 
 
 - Zähne putzen 
 	- [ ] morgens
