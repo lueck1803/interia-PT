@@ -19,6 +19,7 @@
 - [ ] Fahrradhelm 
 - [ ] outdoor sweat jacke
 - [ ] trecking boots 
+	- [ ] gefallen mir nicht, da es
 - [ ] kompakt Regenschirm 
 - [ ] Toast 
 - [ ] burger
