@@ -307,7 +307,7 @@
 	- [ ] morgens
 	- [x] mittags
 	- [ ] abends 
-- [ ] Duolingo 
+- [x] Duolingo 
 - [x] Fahrradhelm anprobieren 
 	- netter kuschelhelm
 - [ ] Duschen
@@ -323,12 +323,12 @@
 - [ ] Herbstzeitlose lesen 
 - [ ] aktuelles aldi Prospekt 
 - [ ] Tomatenkerne trocknen 
-- [ ] Wachtelbohnen in den kühlschrank 
+- [x] Wachtelbohnen in den kühlschrank 
 - [ ] kopierproblem inline code 
 	- [ ] alle Community Plugins aus
 - [ ] Balkon kehren 
 - [ ] Medikamenten Packungen Front aufschneiden+einheften 
-- [ ] Krafttraining 
+- [x] Krafttraining 
 - [ ] türkisch aufschreiben 
 - [ ] staub saugen
 - [ ] soße mit fisch, brokkoli und oliven kochen
