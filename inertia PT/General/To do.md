@@ -338,6 +338,7 @@
 - [ ] Fahrradhelm Mömax Aldi 
 - [ ] gelber Sack 
 - [ ] HNO Ambulanz termin machen
+	- [ ] 01
 - [ ] kalmah 15 min  
 - [ ] Bohnen ernten 
 - [ ] Sofalehne dampfen
