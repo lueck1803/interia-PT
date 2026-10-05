@@ -16,6 +16,7 @@
 # Aldi
 ## Jetzt
 - Einkaufswagen 
+- [ ] Fahrradhelm 
 - [ ] outdoor sweat jacke
 - [ ] trecking boots 
 - [ ] kompakt Regenschirm 
