@@ -24,7 +24,6 @@
 - [ ] Toast 
 - [ ] burger
 - [ ] Einmalhandschuhe
-- [ ] Heißklebepistole 
 - [ ] Schranklicht 8.10.
 - [x] Tomaten 
 - [x] pizza
@@ -78,6 +77,7 @@
 - [ ] kalamata Oliven
 - [ ] schwarze Oliven 
 # Other
+- [ ] Heißklebepistole 
 - [ ] Fensterstopper 
 - [ ] Sofakissenbezug <font color="#ff0000">(40x90)</font>
 - [ ] Wäschekorb/Behälter 
@@ -90,7 +90,7 @@
 	- [ ] Brooks Adrenaline GTS 25 ~ 96 €
 	- [ ] Salomon?
 - [ ] Wanderschuhe
-- [ ] Fahrradhelm (wenn es im Aldi gibt?)
+- [x] Fahrradhelm (wenn es im Aldi gibt?)
 - [ ] Unterhemden
 - [ ] Balkon checken
 - [ ] Displayport - Displayport Kabel
