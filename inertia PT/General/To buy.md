@@ -17,6 +17,8 @@
 ## Jetzt
 - Einkaufswagen 
 - [ ] burger
+- [ ] outdoor sweat jacke
+- [ ] 
 - [ ] Toast 
 - [ ] Einmalhandschuhe
 - [ ] Heißklebepistole 
