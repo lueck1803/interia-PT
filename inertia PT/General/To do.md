@@ -312,6 +312,8 @@
 	- [ ] 8 b
 	- [ ] 5a
 - [ ] wie geht es weiter mit Physik der 10er?
+- [ ] wie geht's weiter mit Physik der 8er?
+- [ ] mathe
 - [x] 60° Wäsche anstellen 
 - [x] 60° Wäsche schleudern 
 - [ ] 60° Wäsche aufhängen 
