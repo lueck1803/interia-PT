@@ -396,7 +396,7 @@
 - [ ] Konto checken
 - [ ] Mischa schreiben ob Geld da ist
 - [ ] reformerboard testen  %% fold %%
-- [ ] Bürstenaufsatz bestellen  %% fold %%
+- [ ] Bürstenaufsatz bestellen
 - [ ] Briefkasten  %% fold %%
  %% fold %%
 - [x] kursmappe  %% fold %%
