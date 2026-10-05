@@ -299,7 +299,7 @@
 <font color="#7cfc00">Selbstbefreiung hören</font> 
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
-`super` 
+`{powershell} super` 
 - [x] aldi
 - [x] Wachtelbohnen 675
 - [ ] Wunderwürze 
@@ -853,7 +853,7 @@
 	- [ ] vorher neu backuppen 
 	- [ ] wie update ich meine änderungen?
 	- [ ] das update hatte den bug nicht behoben
-	- [ ] obsidian neustarten am pc
+	- [ ] obsidian neustarten am pc %% fold %%
 	- [ ] gurt anbringen  %% fold %%
 	- [ ] schön langsam Feeling üben  %% fold %%
 	- [ ] tremolo picking ganz langsam sauber üben - 50 % %% fold %%
