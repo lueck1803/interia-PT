@@ -6,10 +6,9 @@
 - [ ] Schweißgerät *Parkside PFDS 120 A2*
 
 # Baumarkt 
-- [ ] Erde 
-- [ ] Rindenmulch 
 - [ ] Sand 
 - [ ] Sekundenkleber
+- [x] Erde 
 # Apotheke
 - [ ] Betaisodona
 
