@@ -305,12 +305,13 @@
 - [ ] Rindenmulch, sand und perlite in carnivoren Erde mischen 
 - [ ] carnivorenerde zum fettkraut mischen 
 - [ ] Ableger nepenthes machen 
+- [ ] gestreiftes longsleeve flicken
 
 - Zähne putzen 
 	- [ ] morgens
-	- [x] mittags
-	- [x] abends 
-- [x] Duolingo 
+	- [ ] mittags
+	- [ ] abends 
+- [ ] Duolingo 
 - [x] Fahrradhelm anprobieren 
 	- netter kuschelhelm
 - [ ] Duschen
