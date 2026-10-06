@@ -304,16 +304,18 @@
 - [ ] Pflanzen umsetzen 
 - [ ] Rindenmulch, sand und perlite in carnivoren Erde mischen 
 - [ ] carnivorenerde zum fettkraut mischen 
-- [ ] Ableger nepenthes machen 
+- [x] Ableger nepenthes machen 
 - [ ] gestreiftes longsleeve flicken
+- [ ] laufschuhe kaufen
+	- [ ] sporthübner
+- [ ] wanderschuhe kaufen
+	- [ ] sporthübner
 
 - Zähne putzen 
 	- [ ] morgens
 	- [ ] mittags
 	- [ ] abends 
 - [ ] Duolingo 
-- [x] Fahrradhelm anprobieren 
-	- netter kuschelhelm
 - [ ] Duschen
 - [ ] Apfelschneider nochmal schweißen 
 - [ ] Mathearbeit konzipieren 
