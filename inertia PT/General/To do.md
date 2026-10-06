@@ -301,7 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Wunderwürze 
-- [ ] Pflanzen umsetzen 
+- [x] Pflanzen umsetzen 
 - [x] Rindenmulch, sand und perlite in carnivoren Erde mischen 
 - [x] carnivorenerde zum fettkraut mischen 
 - [x] Ableger nepenthes machen 
