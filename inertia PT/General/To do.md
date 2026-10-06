@@ -309,7 +309,7 @@
 - Zähne putzen 
 	- [ ] morgens
 	- [x] mittags
-	- [ ] abends 
+	- [x] abends 
 - [x] Duolingo 
 - [x] Fahrradhelm anprobieren 
 	- netter kuschelhelm
