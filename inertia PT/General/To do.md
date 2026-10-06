@@ -334,7 +334,7 @@
 	- [ ] alle Community Plugins aus
 - [ ] Balkon kehren 
 - [ ] Medikamenten Packungen Front aufschneiden+einheften 
-- [ ] Krafttraining 
+- [x] Krafttraining 
 - [ ] türkisch aufschreiben 
 - [ ] staub saugen
 - [ ] soße mit fisch, brokkoli und oliven kochen
