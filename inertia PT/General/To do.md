@@ -301,6 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Wunderwürze 
+	- [ ] hab ich keine mehr 
 - [x] Pflanzen umsetzen 
 - [x] Rindenmulch, sand und perlite in carnivoren Erde mischen 
 - [x] carnivorenerde zum fettkraut mischen 
@@ -315,7 +316,7 @@
 	- [ ] morgens
 	- [ ] mittags
 	- [ ] abends 
-- [ ] Duolingo 
+- [x] Duolingo 
 - [ ] Duschen
 - [ ] Apfelschneider nochmal schweißen 
 - [ ] Mathearbeit konzipieren 
