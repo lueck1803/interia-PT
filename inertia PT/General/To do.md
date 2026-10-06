@@ -302,8 +302,8 @@
 
 - [ ] Wunderwürze 
 - [ ] Pflanzen umsetzen 
-- [ ] Rindenmulch, sand und perlite in carnivoren Erde mischen 
-- [ ] carnivorenerde zum fettkraut mischen 
+- [x] Rindenmulch, sand und perlite in carnivoren Erde mischen 
+- [x] carnivorenerde zum fettkraut mischen 
 - [x] Ableger nepenthes machen 
 - [ ] gestreiftes longsleeve flicken
 - [ ] laufschuhe kaufen
