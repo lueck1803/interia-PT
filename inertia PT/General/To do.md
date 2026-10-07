@@ -300,12 +300,6 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- [ ] Wunderwürze 
-	- [ ] hab ich keine mehr 
-- [x] Pflanzen umsetzen 
-- [x] Rindenmulch, sand und perlite in carnivoren Erde mischen 
-- [x] carnivorenerde zum fettkraut mischen 
-- [x] Ableger nepenthes machen 
 - [ ] gestreiftes longsleeve flicken
 - [ ] laufschuhe kaufen
 	- [ ] sporthübner
@@ -316,7 +310,7 @@
 	- [ ] morgens
 	- [ ] mittags
 	- [ ] abends 
-- [x] Duolingo 
+- [ ] Duolingo 
 - [ ] Duschen
 - [ ] Apfelschneider nochmal schweißen 
 - [ ] Mathearbeit konzipieren 
