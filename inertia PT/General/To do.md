@@ -306,6 +306,7 @@
 - [ ] Einkauf wegräumen und eintragen 
 - [x] gießen
 - [x] Decken waschen 
+- [ ] Fahrradpumpe aufladen 
 - [ ] Kissenbezug sofa
 - [ ] Äpfel waschen 
 - [ ] Birnen waschen 
