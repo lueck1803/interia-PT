@@ -303,6 +303,7 @@
 - [ ] Duschen
 - [ ] spazieren 
 - [ ] pc Stecker 
+- [ ] weiße Gitarre stimmen 
 - [ ] gestreiftes longsleeve flicken
 - [ ] laufschuhe kaufen
 	- [ ] sporthübner
