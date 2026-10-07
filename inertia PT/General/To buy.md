@@ -15,9 +15,9 @@
 # Aldi
 ## Jetzt
 - Einkaufswagen 
-- [ ] Toast 
-- [ ] Zwiebeln 
-- [ ] Äpfel 
+- [x] Toast 
+- [x] Zwiebeln 
+- [x] Äpfel 
 - [x] Fahrradhelm 
 - [x] outdoor sweat jacke
 - [x] trecking boots 
