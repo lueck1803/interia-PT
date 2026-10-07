@@ -302,9 +302,11 @@
 
 - [ ] Duschen
 - [x] Essen 
+- [ ] Trinkflaschen checken+ wegräumen 
 - [ ] gießen
-- [ ] Decken waschen 
+- [x] Decken waschen 
 - [ ] Kissenbezug sofa
+- [ ] 30° Wäsche aufhängen 
 - [ ] Staub saugen
 - [ ] spazieren 
 - [ ] pc Stecker 
