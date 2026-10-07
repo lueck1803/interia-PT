@@ -311,7 +311,7 @@
 - [ ] Birnen waschen 
 - [x] Kevin's Schlauchpflanze schneiden 
 - [ ] Teiche auffüllen 
-- [ ] 30° Wäsche aufhängen
+- [x] 30° Wäsche aufhängen
 - [ ] Wäsche zusammen legen 
 - [ ] Nudeln kochen 
 - [x] Kaffeesatz 
@@ -322,7 +322,7 @@
 - [ ] weiße Gitarre stimmen 
 - [x] gestreiftes longsleeve flicken
 - [ ] tastatur wischen
-- [ ] flick tutorial anschauen
+- [ ] näh/flick tutorial anschauen
 - [ ] laufschuhe kaufen
 	- [ ] sporthübner
 - [ ] wanderschuhe kaufen
