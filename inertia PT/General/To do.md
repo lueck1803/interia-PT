@@ -306,7 +306,8 @@
 - [ ] gießen
 - [x] Decken waschen 
 - [ ] Kissenbezug sofa
-- [ ] 30° Wäsche aufhängen 
+- [ ] 30° Wäsche aufhängen
+- [ ] Wäsche zusammen legen 
 - [ ] Staub saugen
 - [ ] spazieren 
 - [ ] pc Stecker 
