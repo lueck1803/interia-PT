@@ -308,6 +308,8 @@
 - [ ] Kissenbezug sofa
 - [ ] 30° Wäsche aufhängen
 - [ ] Wäsche zusammen legen 
+- [ ] Nudeln kochen 
+- [ ] Kaffeesatz 
 - [ ] Staub saugen
 - [ ] spazieren 
 - [ ] pc Stecker 
