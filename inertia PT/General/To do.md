@@ -300,6 +300,9 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
+- [ ] Duschen
+- [ ] spazieren 
+- [ ] pc Stecker 
 - [ ] gestreiftes longsleeve flicken
 - [ ] laufschuhe kaufen
 	- [ ] sporthübner
@@ -311,7 +314,6 @@
 	- [ ] mittags
 	- [ ] abends 
 - [ ] Duolingo 
-- [ ] Duschen
 - [ ] Apfelschneider nochmal schweißen 
 - [ ] Mathearbeit konzipieren 
 	- [ ] 8 a
@@ -323,12 +325,10 @@
 - [ ] asteracea Samen lesen 
 - [ ] Herbstzeitlose lesen 
 - [ ] aktuelles aldi Prospekt 
-- [ ] Tomatenkerne trocknen 
-- [ ] kopierproblem inline code 
-	- [ ] alle Community Plugins aus
+- [x] Tomatenkerne trocknen 
 - [ ] Balkon kehren 
 - [ ] Medikamenten Packungen Front aufschneiden+einheften 
-- [x] Krafttraining 
+- [ ] Krafttraining 
 - [ ] türkisch aufschreiben 
 - [ ] staub saugen
 - [ ] soße mit fisch, brokkoli und oliven kochen
@@ -342,11 +342,11 @@
 	- [ ] https://www.youtube.com/watch?v=NbKa-o3ztDo&list=WL&index=21
 - [ ] HNO Ambulanz termin machen
 	- 📞☎️06151 107 4213
-- [ ] kalmah 15 min  
+- [x] kalmah 15 min  
+	- [ ] yay ich kann das Solo 
 - [ ] Bohnen ernten 
 - [ ] Sofalehne dampfen
 - [ ] Loch in brauner Hose flicken 
-- [ ] pc Stecker 
 - [ ] Krankenhauszeug einheften
 - [ ] Ibuprofen und Antibiotika wegräumen
 - [ ] handyladekabel putzens
