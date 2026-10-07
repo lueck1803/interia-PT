@@ -311,7 +311,7 @@
 - [ ] 30° Wäsche aufhängen
 - [ ] Wäsche zusammen legen 
 - [ ] Nudeln kochen 
-- [ ] Kaffeesatz 
+- [x] Kaffeesatz 
 - [ ] Staub saugen
 - [ ] spazieren 
 - [ ] pc Stecker 
