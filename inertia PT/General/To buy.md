@@ -16,6 +16,8 @@
 ## Jetzt
 - Einkaufswagen 
 - [ ] Toast 
+- [ ] Zwiebeln 
+- [ ] Äpfel 
 - [x] Fahrradhelm 
 - [x] outdoor sweat jacke
 - [x] trecking boots 
