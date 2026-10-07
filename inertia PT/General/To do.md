@@ -303,6 +303,7 @@
 - [x] Duschen
 - [x] Essen 
 - [ ] Trinkflaschen checken+ wegräumen 
+- [ ] Einkauf wegräumen und eintragen 
 - [x] gießen
 - [x] Decken waschen 
 - [ ] Kissenbezug sofa
