@@ -303,9 +303,11 @@
 - [x] Duschen
 - [x] Essen 
 - [ ] Trinkflaschen checken+ wegräumen 
-- [ ] gießen
+- [x] gießen
 - [x] Decken waschen 
 - [ ] Kissenbezug sofa
+- [x] Kevin's Schlauchpflanze schneiden 
+- [ ] Teiche auffüllen 
 - [ ] 30° Wäsche aufhängen
 - [ ] Wäsche zusammen legen 
 - [ ] Nudeln kochen 
