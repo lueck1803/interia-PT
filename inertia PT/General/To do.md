@@ -304,7 +304,9 @@
 - [ ] spazieren 
 - [ ] pc Stecker 
 - [ ] weiße Gitarre stimmen 
-- [ ] gestreiftes longsleeve flicken
+- [x] gestreiftes longsleeve flicken
+- [ ] tastatur wischen
+- [ ] flick tutorial anschauen
 - [ ] laufschuhe kaufen
 	- [ ] sporthübner
 - [ ] wanderschuhe kaufen
