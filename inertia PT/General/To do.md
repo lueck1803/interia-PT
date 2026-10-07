@@ -355,7 +355,7 @@
 	- [ ] yay ich kann das Solo 
 - [ ] Bohnen ernten 
 - [ ] Sofalehne dampfen
-- [ ] Loch in brauner Hose flicken 
+- [x] Loch in brauner Hose flicken 
 - [ ] Krankenhauszeug einheften
 - [ ] Ibuprofen und Antibiotika wegräumen
 - [ ] handyladekabel putzens
