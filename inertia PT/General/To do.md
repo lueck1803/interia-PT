@@ -301,11 +301,14 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Duschen
+- [ ] Essen 
 - [ ] gießen
 - [ ] Decken waschen 
+- [ ] Kissenbezug sofa
 - [ ] Staub saugen
 - [ ] spazieren 
 - [ ] pc Stecker 
+- [ ] Spülmaschine ausräumen 
 - [ ] weiße Gitarre stimmen 
 - [x] gestreiftes longsleeve flicken
 - [ ] tastatur wischen
