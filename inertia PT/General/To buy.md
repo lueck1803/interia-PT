@@ -15,6 +15,7 @@
 # Aldi
 ## Jetzt
 - Einkaufswagen 
+- [ ] Schranklicht 8.10.
 - [x] Toast 
 - [x] Zwiebeln 
 - [x] Äpfel 
@@ -25,8 +26,7 @@
 - [x] kompakt Regenschirm 
 - [x] Toast 
 - [x] burger
-- [ ] Einmalhandschuhe
-- [ ] Schranklicht 8.10.
+- [x] Einmalhandschuhe
 - [x] Tomaten 
 - [x] pizza
 - [x] Knoblauch 
