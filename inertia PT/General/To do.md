@@ -302,7 +302,8 @@
 
 - [x] Duschen
 - [x] Essen 
-- [ ] Trinkflaschen checken+ wegräumen 
+- [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
+- [ ]  Trinkflaschen checken+ wegräumen 
 - [ ] Einkauf wegräumen und eintragen 
 - [x] gießen
 - [x] Decken waschen 
