@@ -15,6 +15,7 @@
 # Aldi
 ## Jetzt
 - Einkaufswagen 
+- [ ] Toast 
 - [x] Fahrradhelm 
 - [x] outdoor sweat jacke
 - [x] trecking boots 
