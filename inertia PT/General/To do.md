@@ -300,22 +300,22 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- [x] Duschen
+- [ ] Duschen
 - [x] Essen 
 - [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
-- [ ]  Trinkflaschen checken+ wegräumen 
+- [x] Trinkflaschen checken+ wegräumen
 - [ ] Einkauf wegräumen und eintragen 
 - [x] gießen
 - [x] Decken waschen 
 - [ ] Fahrradpumpe aufladen 
 - [ ] Kissenbezug sofa
-- [ ] Äpfel waschen 
-- [ ] Birnen waschen 
+- [x] Äpfel waschen
+- [x] Birnen waschen
 - [x] Kevin's Schlauchpflanze schneiden 
 - [ ] Teiche auffüllen 
 - [x] 30° Wäsche aufhängen
 - [ ] Wäsche zusammen legen 
-- [ ] Nudeln kochen 
+- [x] Nudeln kochen
 - [x] Kaffeesatz 
 - [ ] Staub saugen
 - [ ] spazieren 
