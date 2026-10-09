@@ -301,28 +301,20 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Duschen
-- [x] Essen 
+- [ ] stimmtutorial floyd rose anschauen oder gitarre zum stimmen bringen
+- [ ] dünne plektren kaufen
+- [ ] boden wischen
 - [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
-- [x] Trinkflaschen checken+ wegräumen
 - [ ] Einkauf wegräumen und eintragen 
-- [x] gießen
-- [x] Decken waschen 
 - [ ] Fahrradpumpe aufladen 
 - [ ] Kissenbezug sofa
-- [x] Äpfel waschen
-- [x] Birnen waschen
-- [x] Kevin's Schlauchpflanze schneiden 
 - [ ] Teiche auffüllen 
-- [x] 30° Wäsche aufhängen
 - [ ] Wäsche zusammen legen 
-- [x] Nudeln kochen
-- [x] Kaffeesatz 
 - [ ] Staub saugen
 - [ ] spazieren 
 - [ ] pc Stecker 
 - [ ] Spülmaschine ausräumen 
 - [ ] weiße Gitarre stimmen 
-- [x] gestreiftes longsleeve flicken
 - [ ] tastatur wischen
 - [ ] näh/flick tutorial anschauen
 - [ ] laufschuhe kaufen
