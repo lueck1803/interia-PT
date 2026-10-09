@@ -2654,6 +2654,7 @@ Tage produktiv gewesen:
 ## Garzeiten Schnellkochtopf 
 - Berglinsen: 1h
 - Wachtellinsen: 1h
+- geschälte grüne Erbsen: 45 min
 # Gartenarbeit und Pflanzen
 - gekaufte Pflanzen <u>vor dem Umtopfen 
 </u>entweder 
