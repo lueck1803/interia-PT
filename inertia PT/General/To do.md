@@ -300,25 +300,14 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- [x] Duschen
-- [x] Kaffeesatz 
-- [x] Kaffeemaschine putzen
-- [x] bad saugen
-- [x] Restmülleimer öffnen 
 - [ ] stimmtutorial floyd rose anschauen oder gitarre zum stimmen bringen
 - [ ] dünne plektren kaufen
 - [ ] boden wischen
-- [x] grüne Erbsen in den Kühlschrank 
 - [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
-- [x] Einkauf wegräumen und eintragen 
-- [x] Fahrradpumpe aufladen 
-- [x] Kissenbezug sofa
-- [x] Teiche auffüllen 
 - [ ] Wäsche zusammen legen 
 - [ ] Staub saugen
 - [ ] spazieren 
 - [ ] pc Stecker 
-- [x] Spülmaschine ausräumen 
 - [ ] weiße Gitarre stimmen 
 - [ ] tastatur wischen
 - [ ] näh/flick tutorial anschauen
