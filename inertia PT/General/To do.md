@@ -295,13 +295,14 @@
 - Winzige Schritte ⟸ ❌ großer Wurf
 - Freundlichkeit gegenüber uns selbst ⟸ ❌ Kampf gegen sich selbst
 # unsortiert
-<font color="#e36c09">Produktiv?</font>
-<font color="#7cfc00">Selbstbefreiung hören</font> 
-<font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
+- <font color="#e36c09">Produktiv?</font>
+- <font color="#7cfc00">Selbstbefreiung hören</font> 
+- <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] stimmtutorial floyd rose anschauen oder gitarre zum stimmen bringen
 - [ ] dünne plektren kaufen
+- [ ] aldi
 - [ ] boden wischen
 - [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
 - [ ] Wäsche zusammen legen 
@@ -310,6 +311,8 @@
 - [ ] pc Stecker 
 - [ ] weiße Gitarre stimmen 
 - [ ] tastatur wischen
+	- [ ] pc
+	- [ ] Laptop 
 - [ ] näh/flick tutorial anschauen
 - [ ] laufschuhe kaufen
 	- [ ] sporthübner
