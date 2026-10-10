@@ -308,10 +308,10 @@
 - [ ] boden wischen
 - [ ] grüne Erbsen in den Kühlschrank 
 - [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
-- [ ] Einkauf wegräumen und eintragen 
+- [x] Einkauf wegräumen und eintragen 
 - [x] Fahrradpumpe aufladen 
 - [ ] Kissenbezug sofa
-- [ ] Teiche auffüllen 
+- [x] Teiche auffüllen 
 - [ ] Wäsche zusammen legen 
 - [ ] Staub saugen
 - [ ] spazieren 
