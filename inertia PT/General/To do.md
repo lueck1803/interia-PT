@@ -338,7 +338,7 @@
 - [ ] türkisch aufschreiben 
 - [ ] staub saugen
 - [ ] soße mit fisch, brokkoli und oliven kochen
-- [ ] toilette putzen
+- [x] toilette putzen
 - [ ] Scanner
 	- [ ] manual lesen
 	- [ ] googlen wie man mit dem Deckel richtig umgeht 
