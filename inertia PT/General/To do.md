@@ -300,6 +300,10 @@
 - <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
+
+- [ ] Nachricht an flo:
+- [ ] ich hab gelesen dass es dich erwischt hat. 🫂 Gute Besserung.corona, dass das noch auf dem Markt ist...
+- [ ] naja also ich merke ganz gesund bin ich immer noch nicht. Ich hätte die Woche eigentlich zur Nachuntersuchung gesollt. Gehe ich dann nächste Woche. Die Gesichtslähmung ist aber jetzt ganz weg. War mitte der Woche noch da. Das ist schon echt gut, mein Auge wieder ganz schließen zu können, jetzt sehe ich nicht immer wieder verschwommen. Und auch meinen Mund kann ich wieder normal bewegen. Ist mir erst gestern so richtig aufgefallen. Ohren ja doch das Gehör kommt ganz langsam wieder zurück. Ich merke auch die Durchlüftung am rechten Ohr geht jetzt ein kleines bisschen besser. Ich war jetzt die letzten zwei Tage nicht draußen unter Leuten. Daher hab ich nicht so ganz den Eindruck wie mein Gehör ist. Mir fällt es am stärksten auf, wenn ich andere reden höre. Ob bzw. Wie gut ich die verstehe 
 - [ ] spazieren 
 - [ ] tastatur wischen
 	- [ ] pc
