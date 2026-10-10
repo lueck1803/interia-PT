@@ -302,6 +302,7 @@
 
 - [x] Duschen
 - [ ] Kaffeesatz 
+- [ ] Restmülleimer öffnen 
 - [ ] stimmtutorial floyd rose anschauen oder gitarre zum stimmen bringen
 - [ ] dünne plektren kaufen
 - [ ] boden wischen
