@@ -332,7 +332,6 @@
 - [ ] asteracea Samen lesen 
 - [ ] Herbstzeitlose lesen 
 - [ ] aktuelles aldi Prospekt 
-- [x] Tomatenkerne trocknen 
 - [ ] Balkon kehren 
 - [ ] Medikamenten Packungen Front aufschneiden+einheften 
 - [ ] Krafttraining 
@@ -349,15 +348,12 @@
 	- [ ] https://www.youtube.com/watch?v=NbKa-o3ztDo&list=WL&index=21
 - [ ] HNO Ambulanz termin machen
 	- 📞☎️06151 107 4213
-- [x] kalmah 15 min  
-	- [ ] yay ich kann das Solo 
 - [ ] Bohnen ernten 
 - [ ] Sofalehne dampfen
-- [x] Loch in brauner Hose flicken 
 - [ ] Krankenhauszeug einheften
 - [ ] Ibuprofen und Antibiotika wegräumen
 - [ ] handyladekabel putzens
-- [ ] Termin lojko ausmachen
+- [x] Termin lojko ausmachen
 - [ ] ebay Nachrichten checken 
 - [ ] stuhl dampfen
 - [ ] Papierkram 
@@ -421,15 +417,12 @@
 - [ ] Antenne pc befestigen 
 - [ ] akustisches klavier oder ähnliches kaufen %% fold %%
 - [ ] Küche flächen + Ceranfeld wischen %% fold %%
-- [ ] Walnuss umsetzen  %% fold %%
 - [ ] Küchenflächen wischen  %% fold %%
 - [ ] Checkliste Mathe schreiben  %% fold %%
 	- [ ] letzte plus  %% fold %%
 	- [ ] terme zusammen fassen  %% fold %%
 	- [ ] und variablen einsetzen können  %% fold %%
-- [ ] fritz kunkel
-- [ ] elias Ausfertigung 
-
+ %% fold %%
 - [ ] sus Akkorde am Klavier probieren  %% fold %%
 
 
@@ -462,11 +455,9 @@
 
 - [ ] kleinen Tisch aufräumen 
 - [ ] Papierkram
-- [ ] Flaschen spülen 
 - [ ] Französisch aufschreiben
 - [ ] sofalehne dampfen %% fold %%
 - [ ] Batterie außen Thermometer  %% fold %%
-- [ ] Kapitel §17 vom künkel lesen %% fold %%
 - [ ] Mich dringend um den Rechner kümmern %% fold %%
  %% fold %%
 - [ ] Arbeitsblatt der 10ten Klasse ab ändern
@@ -477,17 +468,12 @@
  %% fold %%
 - [ ] schriftliches dividieren, wann kommen nullen rein?
 - [ ] Epson beamer - usb video Wlan %% fold %%
-- [ ] Friseur 
 
 - [ ] bloody valkyria - age of stars piano raus hören 
 - [ ] hab ich das mesa metalcore preset auf dem podgo
-- [ ] text von elias lesen  %% fold %%
 - [ ] grüne schuhe aufrauen %% fold %%
 
  %% fold %%
-- [x] AOK App checken %% fold %%
-	- [ ] war nur Magazine  %% fold %%
-- [ ] Black Waltz
 
 
  %% fold %%
@@ -546,7 +532,6 @@
  %% fold %%
  %% fold %%
 - [ ] Kopfhörer putzen  %% fold %%
-- [ ] black waltz %% fold %%
 - [ ] Mathe handout %% fold %%
 	- [ ] Beispiel für
 		- [x] kleinstes gemeinsames Vielfaches %% fold %%
@@ -569,11 +554,9 @@
 	- [ ] neues Thema - Lineare Gleichungen /ungleichungen %% fold %%
 		- [ ] Terme mit Klammern
 - [ ] kühlschrank putzen
-- [ ] black waltz %% fold %%
 - [ ] Papierkram
  %% fold %%
 - [ ] grüne Laufschuhe nur noch als normale Schuhe tragen
-- [ ] Bauhaus Kehrblech
 - [ ] interimsgebäude testen über beamer am Laptop mit Xournal zu schreiben
 - [ ] Materialliste 5er anschauen
 - [ ] konto checken 
@@ -581,7 +564,6 @@
 	- [ ] Laufschuhe 
 	- [ ] Wanderschuhe 
 - [ ] Tisch aufräumen  %% fold %%
-- [ ] black waltz  %% fold %%
 - [ ] Gitarre stimmen  %% fold %%
 	- [ ] ich  hab das Stimmgerät am podGo auf coarse gestellt, das ist viel angenehmer xD %% fold %%
 - [ ] heroes to us %% fold %%
@@ -589,7 +571,7 @@
   %% fold %%
 - [ ] Display Schutz Hülle 
 - [ ] Reformer board testen %% fold %%
-- [ ] Kostenvorschlag einreichen  %% fold %%
+- [x] Kostenvorschlag einreichen  %% fold %%
 - für Unterrichtsstörer %% fold %%
 	- euch steht frei den Unterricht zu verlassen  %% fold %%
 	- ich bin euch persönlich nicht böse 
@@ -660,9 +642,6 @@
 	- [ ] an dieser Stelle ist das total normal dass ihr das nicht versteht
 	- [ ] merkt euch dieses Vorgehen/diesen Algorithmus, da müsst ihr nicht viel verstehen 
 	- [ ] wenn ihr jetzt bei dem Vorgehen ein kleines bisschen mitkommt, dann habt ihr schon die halbe Miete beim kommenden Thema.
-- [ ] Spitzahorn Samen / Stecklinge suchen
-- [ ] Bergahorn Samen / Stecklinge suchen
-- [ ] Feldahorn umsetzen
 - [ ] Körnung Aufsätze und andere in Akkuschrauber box %% fold %%
 - [ ] English 5b %% fold %%
 	- [ ] alle in grundschule englisch %% fold %%
