@@ -316,7 +316,7 @@
 - [ ] Staub saugen
 - [ ] spazieren 
 - [ ] pc Stecker 
-- [ ] Spülmaschine ausräumen 
+- [x] Spülmaschine ausräumen 
 - [ ] weiße Gitarre stimmen 
 - [ ] tastatur wischen
 - [ ] näh/flick tutorial anschauen
