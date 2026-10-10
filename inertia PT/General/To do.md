@@ -301,7 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [x] Duschen
-- [ ] 
+- [ ] Kaffeesatz 
 - [ ] stimmtutorial floyd rose anschauen oder gitarre zum stimmen bringen
 - [ ] dünne plektren kaufen
 - [ ] boden wischen
