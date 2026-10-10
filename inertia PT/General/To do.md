@@ -302,6 +302,7 @@
 
 - [x] Duschen
 - [ ] Kaffeesatz 
+- [ ] bad saugen
 - [ ] Restmülleimer öffnen 
 - [ ] stimmtutorial floyd rose anschauen oder gitarre zum stimmen bringen
 - [ ] dünne plektren kaufen
@@ -310,7 +311,7 @@
 - [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
 - [x] Einkauf wegräumen und eintragen 
 - [x] Fahrradpumpe aufladen 
-- [ ] Kissenbezug sofa
+- [x] Kissenbezug sofa
 - [x] Teiche auffüllen 
 - [ ] Wäsche zusammen legen 
 - [ ] Staub saugen
