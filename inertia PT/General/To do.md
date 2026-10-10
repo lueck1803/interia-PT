@@ -302,11 +302,10 @@
 
 - [ ] stimmtutorial floyd rose anschauen oder gitarre zum stimmen bringen
 - [ ] dünne plektren kaufen
-- [ ] aldi
-- [ ] boden wischen
+- [x] boden wischen
 - [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
 - [ ] Wäsche zusammen legen 
-- [ ] Staub saugen
+- [x] Staub saugen
 - [ ] spazieren 
 - [ ] pc Stecker 
 - [ ] weiße Gitarre stimmen 
