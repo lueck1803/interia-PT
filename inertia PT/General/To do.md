@@ -301,25 +301,22 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] spazieren 
-- [ ] w
-
-
-- [ ] stimmtutorial floyd rose anschauen oder gitarre zum stimmen bringen
-- [ ] dünne plektren kaufen
-- [x] boden wischen
-- [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
-- [ ] Wäsche zusammen legen 
-- [x] Staub saugen
-- [ ] pc Stecker 
-- [ ] weiße Gitarre stimmen 
 - [ ] tastatur wischen
 	- [ ] pc
 	- [ ] Laptop 
+- [ ] pc Stecker 
+- [ ] kochen 
+- [ ] Wäsche zusammen legen 
+- [ ] Papierkram 
+- [ ] Mathearbeiten zusammen stellen 
+- [ ] Mathearbeiten in Klausur Planer eintragen 
+- [ ] proposal fertig schreiben 
+
+- [ ] stimmtutorial floyd rose anschauen oder gitarre zum stimmen bringen
+- [ ] dünne plektren kaufen
+- [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
+- [ ] weiße Gitarre stimmen 
 - [ ] näh/flick tutorial anschauen
-- [ ] laufschuhe kaufen
-	- [ ] sporthübner
-- [ ] wanderschuhe kaufen
-	- [ ] sporthübner
 
 - Zähne putzen 
 	- [ ] morgens
@@ -358,7 +355,6 @@
 - [ ] Krankenhauszeug einheften
 - [ ] Ibuprofen und Antibiotika wegräumen
 - [ ] handyladekabel putzens
-- [x] Termin lojko ausmachen
 - [ ] ebay Nachrichten checken 
 - [ ] stuhl dampfen
 - [ ] Papierkram 
@@ -388,7 +384,7 @@
 - [ ] Erklärung zur Prozentrechnung abtippen in Gruppe schicken
 - [ ] Lotus rein stellen 
 - [ ] kleines grünes Gewächshaus aus und Aufräumen 
-- [ ] Konto checken
+- [ ] Konto checken %% fold %%
 - [ ] Mischa schreiben ob Geld da ist %% fold %%
 - [ ] reformerboard testen  %% fold %%
 - [ ] Bürstenaufsatz bestellen %% fold %%
