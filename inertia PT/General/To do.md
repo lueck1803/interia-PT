@@ -301,7 +301,8 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [x] Duschen
-- [ ] Kaffeesatz 
+- [x] Kaffeesatz 
+- [ ] Kaffeemaschine putzen
 - [ ] bad saugen
 - [ ] Restmülleimer öffnen 
 - [ ] stimmtutorial floyd rose anschauen oder gitarre zum stimmen bringen
