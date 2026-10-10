@@ -103,6 +103,20 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+## 2026-10-10
+Sehr eigenartig, mir ist ne Erkenntnis gekommen. 
+
+Ich weiß nicht... Eigentlich bin ich nicht verbittert. 
+
+Ich war so durch drungen von Vergebung. 
+
+Aber ich hab beschlossen meine Familie nicht mehr sehen zu wollen. 
+
+Einfach um mein letztes Rest Würde zu schützen und der Rest an ertragbarem Leid. 
+
+Denn ich merk einfach dass ich das nicht ein einziges Mal mehr durch machen möchte. 
+
+Ich will auch meiner Schwester nicht mehr in die Augen schauen und ihr für den
 ## 2026-10-05 katrin mair
 Mir geht's zum Glück Tag für Tag besser. 
 Als ich Donnerstag aus dem Krankenhaus entlassen wurde, war ich mir unsicher ob das Gehör wieder besser wird. 
@@ -865,7 +879,7 @@ Die sehen eher dass die Gottlosigkeit, der Materialismus und die angebliche Obje
  %% fold %%
 Die sind der Ansicht dass es viele Ersatzreligionen gibt und den Leuten Selbsttranszendenz fehlt.  %% fold %%
 
-Die Hinwendung zu einem übermateriellen Streben.
+Die Hinwendung zu einem übermateriellen Streben. %% fold %%
 
 ### 4 %% fold %%
 Ich hab natürlich mal bei der AfD zu "die Rechte Ordnung der Liebe" nachgeschaut. %% fold %%
