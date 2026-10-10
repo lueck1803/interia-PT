@@ -308,7 +308,7 @@
 - [ ] stimmtutorial floyd rose anschauen oder gitarre zum stimmen bringen
 - [ ] dünne plektren kaufen
 - [ ] boden wischen
-- [ ] grüne Erbsen in den Kühlschrank 
+- [x] grüne Erbsen in den Kühlschrank 
 - [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
 - [x] Einkauf wegräumen und eintragen 
 - [x] Fahrradpumpe aufladen 
