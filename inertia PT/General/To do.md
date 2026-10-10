@@ -303,7 +303,7 @@
 - [x] Duschen
 - [x] Kaffeesatz 
 - [x] Kaffeemaschine putzen
-- [ ] bad saugen
+- [x] bad saugen
 - [x] Restmülleimer öffnen 
 - [ ] stimmtutorial floyd rose anschauen oder gitarre zum stimmen bringen
 - [ ] dünne plektren kaufen
