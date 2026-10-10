@@ -300,13 +300,16 @@
 - <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
+- [ ] spazieren 
+- [ ] w
+
+
 - [ ] stimmtutorial floyd rose anschauen oder gitarre zum stimmen bringen
 - [ ] dünne plektren kaufen
 - [x] boden wischen
 - [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
 - [ ] Wäsche zusammen legen 
 - [x] Staub saugen
-- [ ] spazieren 
 - [ ] pc Stecker 
 - [ ] weiße Gitarre stimmen 
 - [ ] tastatur wischen
