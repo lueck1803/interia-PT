@@ -300,14 +300,15 @@
 <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- [ ] Duschen
+- [x] Duschen
+- [ ] 
 - [ ] stimmtutorial floyd rose anschauen oder gitarre zum stimmen bringen
 - [ ] dünne plektren kaufen
 - [ ] boden wischen
 - [ ] grüne Erbsen in den Kühlschrank 
 - [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
 - [ ] Einkauf wegräumen und eintragen 
-- [ ] Fahrradpumpe aufladen 
+- [x] Fahrradpumpe aufladen 
 - [ ] Kissenbezug sofa
 - [ ] Teiche auffüllen 
 - [ ] Wäsche zusammen legen 
