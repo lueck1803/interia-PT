@@ -1,7 +1,7 @@
 - ich <font color="#ff0000">will meine Arbeit Publikations fähig machen</font>
 - regelmäßig den <font color="#00fa9a">Blutdruck</font> messen
 - ohr eincremen /Teebaumöl test
-# Mantra %% fold %%
+# Mantra
 -  wer am <font color="#92d050">Schlaf spart</font>, <font color="#ff0000">zahlt</font> mit dem <font color="#ff0000">ganzen Tag.</font> %% fold %%
 	- Schlafquantität 
 	- Schlafqualität
@@ -295,22 +295,41 @@
 - Winzige Schritte ⟸ ❌ großer Wurf
 - Freundlichkeit gegenüber uns selbst ⟸ ❌ Kampf gegen sich selbst
 # unsortiert
-<font color="#e36c09">Produktiv?</font>
-<font color="#7cfc00">Selbstbefreiung hören</font> 
-<font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
+- <font color="#e36c09">Produktiv?</font>
+- <font color="#7cfc00">Selbstbefreiung hören</font> 
+- <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- [ ] Wunderwürze 
-- [ ] Pflanzen umsetzen 
+
+- [ ] spazieren 
+- [ ] tastatur wischen
+	- [ ] pc
+	- [ ] Laptop 
+- [ ] pc Stecker 
+- [ ] kochen 
+- [ ] Wäsche zusammen legen 
+- [ ] Papierkram 
+- [ ] Mathearbeiten zusammen stellen 
+- [ ] Mathearbeiten in Klausur Planer eintragen 
+- [ ] proposal fertig schreiben 
+
+- [ ] stimmtutorial floyd rose anschauen oder gitarre zum stimmen bringen
+- [ ] dünne plektren kaufen
+- [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
+- [ ] weiße Gitarre stimmen 
+- [ ] näh/flick tutorial anschauen
 
 - Zähne putzen 
 	- [ ] morgens
-	- [x] mittags
-	- [x] abends 
+	- [ ] mittags
+	- [ ] abends 
 - [x] Duolingo 
 - [x] Fahrradhelm anprobieren 
 	- netter kuschelhelm
 - [ ] Duschen
+	- [ ] mittags
+	- [ ] abends 
+- [ ] Duolingo 
 - [ ] Apfelschneider nochmal schweißen 
 - [ ] Mathearbeit konzipieren 
 	- [ ] 8 a
@@ -322,17 +341,12 @@
 - [ ] asteracea Samen lesen 
 - [ ] Herbstzeitlose lesen 
 - [ ] aktuelles aldi Prospekt 
-- [ ] Tomatenkerne trocknen 
-- [x] Wachtelbohnen in den kühlschrank 
-- [ ] kopierproblem inline code 
-	- [ ] alle Community Plugins aus
 - [ ] Balkon kehren 
 - [ ] Medikamenten Packungen Front aufschneiden+einheften 
-- [x] Krafttraining 
+- [ ] Krafttraining 
 - [ ] türkisch aufschreiben 
 - [ ] staub saugen
 - [ ] soße mit fisch, brokkoli und oliven kochen
-- [ ] toilette putzen
 - [ ] Scanner
 	- [ ] manual lesen
 	- [ ] googlen wie man mit dem Deckel richtig umgeht 
@@ -342,15 +356,11 @@
 	- [ ] https://www.youtube.com/watch?v=NbKa-o3ztDo&list=WL&index=21
 - [ ] HNO Ambulanz termin machen
 	- 📞☎️06151 107 4213
-- [ ] kalmah 15 min  
 - [ ] Bohnen ernten 
 - [ ] Sofalehne dampfen
-- [ ] Loch in brauner Hose flicken 
-- [ ] pc Stecker 
 - [ ] Krankenhauszeug einheften
 - [ ] Ibuprofen und Antibiotika wegräumen
 - [ ] handyladekabel putzens
-- [ ] Termin lojko ausmachen
 - [ ] ebay Nachrichten checken 
 - [ ] stuhl dampfen
 - [ ] Papierkram 
@@ -380,7 +390,7 @@
 - [ ] Erklärung zur Prozentrechnung abtippen in Gruppe schicken
 - [ ] Lotus rein stellen 
 - [ ] kleines grünes Gewächshaus aus und Aufräumen 
-- [ ] Konto checken
+- [ ] Konto checken %% fold %%
 - [ ] Mischa schreiben ob Geld da ist %% fold %%
 - [ ] reformerboard testen  %% fold %%
 - [ ] Bürstenaufsatz bestellen %% fold %%
@@ -414,15 +424,12 @@
 - [ ] Antenne pc befestigen 
 - [ ] akustisches klavier oder ähnliches kaufen %% fold %%
 - [ ] Küche flächen + Ceranfeld wischen %% fold %%
-- [ ] Walnuss umsetzen  %% fold %%
 - [ ] Küchenflächen wischen  %% fold %%
 - [ ] Checkliste Mathe schreiben  %% fold %%
 	- [ ] letzte plus  %% fold %%
 	- [ ] terme zusammen fassen  %% fold %%
 	- [ ] und variablen einsetzen können  %% fold %%
-- [ ] fritz kunkel
-- [ ] elias Ausfertigung 
-
+ %% fold %%
 - [ ] sus Akkorde am Klavier probieren  %% fold %%
 
 
@@ -455,11 +462,9 @@
 
 - [ ] kleinen Tisch aufräumen 
 - [ ] Papierkram
-- [ ] Flaschen spülen 
 - [ ] Französisch aufschreiben
 - [ ] sofalehne dampfen %% fold %%
 - [ ] Batterie außen Thermometer  %% fold %%
-- [ ] Kapitel §17 vom künkel lesen %% fold %%
 - [ ] Mich dringend um den Rechner kümmern %% fold %%
  %% fold %%
 - [ ] Arbeitsblatt der 10ten Klasse ab ändern
@@ -470,17 +475,12 @@
  %% fold %%
 - [ ] schriftliches dividieren, wann kommen nullen rein?
 - [ ] Epson beamer - usb video Wlan %% fold %%
-- [ ] Friseur 
 
 - [ ] bloody valkyria - age of stars piano raus hören 
 - [ ] hab ich das mesa metalcore preset auf dem podgo
-- [ ] text von elias lesen  %% fold %%
 - [ ] grüne schuhe aufrauen %% fold %%
 
  %% fold %%
-- [x] AOK App checken %% fold %%
-	- [ ] war nur Magazine  %% fold %%
-- [ ] Black Waltz
 
 
  %% fold %%
@@ -539,7 +539,6 @@
  %% fold %%
  %% fold %%
 - [ ] Kopfhörer putzen  %% fold %%
-- [ ] black waltz %% fold %%
 - [ ] Mathe handout %% fold %%
 	- [ ] Beispiel für
 		- [x] kleinstes gemeinsames Vielfaches %% fold %%
@@ -562,11 +561,9 @@
 	- [ ] neues Thema - Lineare Gleichungen /ungleichungen %% fold %%
 		- [ ] Terme mit Klammern
 - [ ] kühlschrank putzen
-- [ ] black waltz %% fold %%
 - [ ] Papierkram
  %% fold %%
 - [ ] grüne Laufschuhe nur noch als normale Schuhe tragen
-- [ ] Bauhaus Kehrblech
 - [ ] interimsgebäude testen über beamer am Laptop mit Xournal zu schreiben
 - [ ] Materialliste 5er anschauen
 - [ ] konto checken 
@@ -574,7 +571,6 @@
 	- [ ] Laufschuhe 
 	- [ ] Wanderschuhe 
 - [ ] Tisch aufräumen  %% fold %%
-- [ ] black waltz  %% fold %%
 - [ ] Gitarre stimmen  %% fold %%
 	- [ ] ich  hab das Stimmgerät am podGo auf coarse gestellt, das ist viel angenehmer xD %% fold %%
 - [ ] heroes to us %% fold %%
@@ -582,7 +578,7 @@
   %% fold %%
 - [ ] Display Schutz Hülle 
 - [ ] Reformer board testen %% fold %%
-- [ ] Kostenvorschlag einreichen  %% fold %%
+- [x] Kostenvorschlag einreichen  %% fold %%
 - für Unterrichtsstörer %% fold %%
 	- euch steht frei den Unterricht zu verlassen  %% fold %%
 	- ich bin euch persönlich nicht böse 
@@ -653,9 +649,6 @@
 	- [ ] an dieser Stelle ist das total normal dass ihr das nicht versteht
 	- [ ] merkt euch dieses Vorgehen/diesen Algorithmus, da müsst ihr nicht viel verstehen 
 	- [ ] wenn ihr jetzt bei dem Vorgehen ein kleines bisschen mitkommt, dann habt ihr schon die halbe Miete beim kommenden Thema.
-- [ ] Spitzahorn Samen / Stecklinge suchen
-- [ ] Bergahorn Samen / Stecklinge suchen
-- [ ] Feldahorn umsetzen
 - [ ] Körnung Aufsätze und andere in Akkuschrauber box %% fold %%
 - [ ] English 5b %% fold %%
 	- [ ] alle in grundschule englisch %% fold %%

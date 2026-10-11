@@ -6,16 +6,19 @@
 - [ ] Schweißgerät *Parkside PFDS 120 A2*
 
 # Baumarkt 
-- [ ] Erde 
-- [ ] Rindenmulch 
 - [ ] Sand 
 - [ ] Sekundenkleber
+- [x] Erde 
 # Apotheke
 - [ ] Betaisodona
 
 # Aldi
 ## Jetzt
 - Einkaufswagen 
+- [ ] Schranklicht 8.10.
+- [x] Toast 
+- [x] Zwiebeln 
+- [x] Äpfel 
 - [x] Fahrradhelm 
 - [x] outdoor sweat jacke
 - [x] trecking boots 
@@ -23,8 +26,7 @@
 - [x] kompakt Regenschirm 
 - [x] Toast 
 - [x] burger
-- [ ] Einmalhandschuhe
-- [ ] Schranklicht 8.10.
+- [x] Einmalhandschuhe
 - [x] Tomaten 
 - [x] pizza
 - [x] Knoblauch 
