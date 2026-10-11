@@ -234,7 +234,7 @@ var KeyBindModal = class extends import_obsidian3.Modal {
     const { contentEl } = this;
     contentEl.createEl("h1", { text: "Press any key" });
     this.handler = this.handleKeypress.bind(this);
-    window.addEventListener("keypress", this.handler);
+    this.scope.register(null, null, this.handler);
     new import_obsidian3.Setting(contentEl).addButton((btn) => {
       btn.setButtonText("Cancel").onClick((evt) => {
         this.close();
@@ -245,9 +245,11 @@ var KeyBindModal = class extends import_obsidian3.Modal {
     let { contentEl } = this;
     contentEl.empty();
   }
-  handleKeypress(evt) {
+  handleKeypress(evt, ctx) {
     this.result = evt.key.toUpperCase();
+    console.log("Keypressed");
     this.modalEl.removeEventListener("keypress", this.handler, true);
+    console.log("removed");
     this.finished = true;
   }
 };
@@ -899,7 +901,7 @@ var textColorViewPlugin = import_view3.ViewPlugin.fromClass(
 );
 
 // src/utils/regularExpressions.ts
-var PREFIX = /\~\=\{\S+\}/g;
+var PREFIX = /\~\=\{[^\s}]+\}/g;
 var SUFFIX = /\=\~/g;
 
 // src/rendering/TextColorPostProcessor.ts

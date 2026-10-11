@@ -306,7 +306,7 @@
 	- [ ] pc
 	- [ ] Laptop 
 - [ ] pc Stecker 
-- [ ] kochen 
+- [x] kochen 
 - [ ] Wäsche zusammen legen 
 - [ ] Papierkram 
 - [ ] Mathearbeiten zusammen stellen 
