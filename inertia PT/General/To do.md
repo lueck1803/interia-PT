@@ -300,13 +300,15 @@
 - <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-
+- [ ] Duschen 
 - [ ] spazieren 
+- [ ] termin HNO Ambulanz 
+- [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
+- [ ] Gitarre zum Arnold bringen 
 - [ ] tastatur wischen
 	- [ ] pc
 	- [ ] Laptop 
 - [ ] pc Stecker 
-- [x] kochen 
 - [ ] Wäsche zusammen legen 
 - [ ] Papierkram 
 - [ ] Mathearbeiten zusammen stellen 
@@ -315,7 +317,6 @@
 
 - [ ] stimmtutorial floyd rose anschauen oder gitarre zum stimmen bringen
 - [ ] dünne plektren kaufen
-- [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
 - [ ] weiße Gitarre stimmen 
 - [ ] näh/flick tutorial anschauen
 
@@ -323,7 +324,7 @@
 	- [ ] morgens
 	- [ ] mittags
 	- [ ] abends 
-- [x] Duolingo 
+- [ ] Duolingo 
 - [x] Fahrradhelm anprobieren 
 	- netter kuschelhelm
 - [ ] Duschen
