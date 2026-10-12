@@ -337,7 +337,7 @@
 - [ ] vor dem Fenster putzen 
 - [ ] Ingwer rein
 - [ ] Lotus rein
-- [ ] farn mit Wasser von draußen 
+- [ ] farn mit Kaffee Wasser 
 - [ ] Behälter putzen 
 - [x] rotes Fahrrad aufpumpen 
 	- [ ] damit zum Bauhaus 
