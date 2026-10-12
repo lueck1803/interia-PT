@@ -317,6 +317,8 @@
 - [ ] Lotus rein
 - [ ] Behälter putzen 
 - [ ] rotes Fahrrad aufpumpen 
+	- [ ] damit zum Bauhaus 
+- [ ] city rad in den Keller 
 - [ ] kalmah solo 75%
 - [ ] aldi 
 	- [ ] Pfand 
