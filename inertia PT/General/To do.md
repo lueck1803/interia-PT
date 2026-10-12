@@ -308,6 +308,7 @@
 	- [ ] sand
 - [ ] Ceranfeld putzen 
 - [ ] Restmüll 
+- [ ] Gruppe (n für mentees/
 - [ ] Glasmüll 
 - [ ] Schuhe aufrauen und testen 
 - [ ] Nadine antworten 
