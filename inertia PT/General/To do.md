@@ -302,6 +302,8 @@
 
 
 - [ ] Sonnentau im Bauhaus 
+	- [ ] Heißklebepistole 
+	- [ ] Sekundenkleber 
 - [ ] Ceranfeld putzen 
 - [ ] aldi 
 	- [ ] Nutella 
@@ -310,6 +312,7 @@
 	- [ ] Äpfel 
 	- [ ] Birnen 
 - [ ] Duschen 
+- [ ] Staubsauger kleben 
 - [ ] carnivorenwasser 
 - [ ] spazieren 
 - [ ] termin HNO Ambulanz 
