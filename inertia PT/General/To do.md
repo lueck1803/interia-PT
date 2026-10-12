@@ -353,6 +353,7 @@
 	- [ ] Birnen 
 	- [ ] Nudeln 
 	- [ ] deo
+	- [ ] bier
 - [x] Duschen 
 - [ ] Staubsauger kleben 
 - [ ] carnivorenwasser 
