@@ -308,6 +308,7 @@
 	- [ ] sand
 - [ ] Ceranfeld putzen 
 - [ ] Schuhe aufrauen und testen 
+- [ ] Nadine antworten 
 - [ ] aktuelles Landesticket unterschrieben?
 - [ ] Fahrt zur Medikamentensprechstunde planen
 - [ ] Briefkasten 
