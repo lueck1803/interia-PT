@@ -330,7 +330,7 @@
 - [ ] Ingwer rein
 - [ ] Lotus rein
 - [ ] Behälter putzen 
-- [ ] rotes Fahrrad aufpumpen 
+- [x] rotes Fahrrad aufpumpen 
 	- [ ] damit zum Bauhaus 
 	- [ ] mit Helm 
 - [x] city rad in den Keller 
