@@ -307,6 +307,7 @@
 	- [ ] Sekundenkleber 
 	- [ ] sand
 - [ ] Ceranfeld putzen 
+- [ ] Schuhe aufrauen und testen 
 - [ ] aktuelles Landesticket unterschrieben?
 - [ ] Fahrt zur Medikamentensprechstunde planen
 - [ ] Briefkasten 
