@@ -301,21 +301,12 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 
-- [ ] Bauhaus 
-	- [x] Heißklebepistole (falls nicht zu teuer und gut )
-	- [ ] Sonnentau
-	- [x] Sekundenkleber 
-	- [x] sand
 - [ ] Ceranfeld putzen 
 - [ ] kleber und Heißkleber testen 
 - [ ] Luftpumpe laden 
 - [ ] Liste sortieren nach abgehakt?
 - [ ] Ventil kappe für cityrad
 - [ ] Chiphalter kleben 
-- HNO Ambulanz nochmal anrufen 
-	- [x] Antwort per Mail bekommen 
-	- einfach anrufen...
-- [x] Restmüll 
 - [ ] Gruppe (nchat) für mentees
 - [ ] Spülmaschinen salz
 - [ ] Glasmüll 
@@ -339,29 +330,12 @@
 - [ ] Lotus rein
 - [ ] farn mit Kaffee Wasser gießen
 - [ ] Äpfel waschen 
-- [ ] Birnen waschen 
-- [x] pulli anprobieren 
-- [ ] Behälter putzen 
-- [x] rotes Fahrrad aufpumpen 
-	- [ ] damit zum Bauhaus 
 	- [ ] mit Helm 
-- [x] city rad in den Keller 
+- [ ] Behälter putzen 
+- [ ] Birnen waschen 
 - [ ] kalmah solo 75%
-- [ ] aldi 
-	- [x] Pfand 
-	- [x] Pulli in grau?
-	- [x] Nutella 
-	- [x] saft
-	- [x] schoki
-	- [x] Äpfel 
-	- [x] Birnen 
-	- [x] Nudeln 
-	- [x] deo
-	- [x] bier
-- [x] Duschen 
 - [ ] Staubsauger kleben 
 - [ ] carnivorenwasser 
-- [x] termin HNO Ambulanz 
 - [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
 - [ ] Gitarre zum Arnold bringen 
 - [ ] trotzdem floyed rose Tutorial 
@@ -443,13 +417,13 @@
 
 - [ ] dpg Beitragsgruppe wechseln 
 - [ ] Dusche schrubben 
-- [ ] Farben in Xournal ergänzen
+- [ ] Farben in Xournal ergänzen %% fold %%
 - [ ] dünne pics kaufen
 	- Plektrumstärke: <font color="#00b050">0,6mm</font>
 - [ ] 8a 1+ für freitag eintragen, alle die am Freitag heft abgegeben haben, rest 4.
 - [ ] Erklärung zur Prozentrechnung abtippen in Gruppe schicken
 - [ ] Lotus rein stellen 
-- [ ] kleines grünes Gewächshaus aus und Aufräumen 
+- [ ] kleines grünes Gewächshaus aus und Aufräumen  %% fold %%
 - [ ] Konto checken %% fold %%
 - [ ] Mischa schreiben ob Geld da ist %% fold %%
 - [ ] reformerboard testen  %% fold %%
@@ -713,7 +687,7 @@
 - [ ] English 5b %% fold %%
 	- [ ] alle in grundschule englisch %% fold %%
 		- [ ] Fragewörter  %% fold %%
-	- [ ] wie stelle ich mich vor?
+	- [ ] wie stelle ich mich vor? %% fold %%
 		- [ ] wie heiße ich %% fold %%
 		- [ ] wie alt bin ich %% fold %%
 		- [ ] wo wohne ich?
