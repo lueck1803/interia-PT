@@ -307,8 +307,9 @@
 	- [ ] Sekundenkleber 
 	- [ ] sand
 - [ ] Ceranfeld putzen 
-- [ ] Restmüll 
-- [ ] Gruppe (nchat) für mentees/
+- [x] Restmüll 
+- [ ] Gruppe (nchat) für mentees
+- [ ] Spülmaschinen salz
 - [ ] Glasmüll 
 - [ ] Schuhe aufrauen und testen 
 - [ ] Nadine antworten 
