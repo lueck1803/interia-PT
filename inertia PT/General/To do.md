@@ -309,6 +309,8 @@
 - [ ] Ceranfeld putzen 
 - [ ] Schuhe aufrauen und testen 
 - [ ] Nadine antworten 
+- [ ] Käsereibe kleben 
+	- [ ] end
 - [ ] aktuelles Landesticket unterschrieben?
 - [ ] Fahrt zur Medikamentensprechstunde planen
 - [ ] Briefkasten 
