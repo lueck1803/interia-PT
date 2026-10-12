@@ -315,6 +315,7 @@
 - [ ] Glasmüll 
 - [ ] Schuhe aufrauen und testen 
 - [ ] Nadine antworten 
+	- [ ] Freddie nicht so selten gesehen 
 - [ ] Käsereibe kleben 
 	- [ ] endfest?
 	- [ ] Sekundenkleber 
