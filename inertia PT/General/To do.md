@@ -307,6 +307,7 @@
 	- [ ] Sekundenkleber 
 	- [ ] sand
 - [ ] Ceranfeld putzen 
+- [ ] Restmüll 
 - [ ] Schuhe aufrauen und testen 
 - [ ] Nadine antworten 
 - [ ] Käsereibe kleben 
