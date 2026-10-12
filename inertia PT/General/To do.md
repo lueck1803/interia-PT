@@ -311,8 +311,7 @@
 - [ ] Spülmaschinen salz
 - [ ] Glasmüll 
 - [ ] Schuhe aufrauen und testen 
-- [ ] Nadine antworten 
-	- [ ] Freddie nicht so selten gesehen klar geworden 
+- [x] Nadine antworten 
 - [ ] mtb sitze zu weit vorne
 - [ ] Käsereibe kleben 
 	- [ ] endfest?
