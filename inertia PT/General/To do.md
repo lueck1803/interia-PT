@@ -313,8 +313,8 @@
 - [ ] Ventil kappe für cityrad
 - [ ] Chiphalter kleben 
 - HNO Ambulanz nochmal anrufen 
-	- [ ] Antwort per Mail bekommen 
-	- [ ] einfach anrufen...
+	- [x] Antwort per Mail bekommen 
+	- einfach anrufen...
 - [x] Restmüll 
 - [ ] Gruppe (nchat) für mentees
 - [ ] Spülmaschinen salz
@@ -352,11 +352,11 @@
 	- [ ] Äpfel 
 	- [ ] Birnen 
 	- [ ] Nudeln 
+	- [ ] deo
 - [x] Duschen 
 - [ ] Staubsauger kleben 
 - [ ] carnivorenwasser 
-- [ ] spazieren 
-- [ ] termin HNO Ambulanz 
+- [x] termin HNO Ambulanz 
 - [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
 - [ ] Gitarre zum Arnold bringen 
 - [ ] trotzdem floyed rose Tutorial 
