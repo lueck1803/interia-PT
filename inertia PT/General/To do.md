@@ -302,6 +302,8 @@
 
 
 - [ ] Sonnentau im Bauhaus 
+- [ ] aldi 
+	- [ ] nut3ll
 - [ ] Duschen 
 - [ ] spazieren 
 - [ ] termin HNO Ambulanz 
