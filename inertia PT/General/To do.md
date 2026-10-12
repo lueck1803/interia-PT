@@ -309,7 +309,7 @@
 - [ ] Ceranfeld putzen 
 - [ ] Liste sortieren nach abgehakt?
 - [ ] Ventil kappe für cityrad
-- [ ] chio
+- [ ] Chiphalter kleben 
 - [x] HNO Ambulanz nochmal anrufen 
 	- [ ] Antwort per Mail bekommen 
 - [x] Restmüll 
