@@ -303,8 +303,11 @@
 
 - [ ] Sonnentau im Bauhaus 
 - [ ] aldi 
-	- [ ] nut3ll
+	- [ ] Nutella 
+	- [ ] saft
+	- [ ] 
 - [ ] Duschen 
+- [ ] carnivorenwasser 
 - [ ] spazieren 
 - [ ] termin HNO Ambulanz 
 - [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
