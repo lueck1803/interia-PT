@@ -301,9 +301,11 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 
-- [ ] Sonnentau im Bauhaus 
-	- [ ] Heißklebepistole 
+- [ ] Bauhaus 
+	- [ ] Heißklebepistole (falls nicht zu teuer und gut )
+	- [ ] Sonnentau
 	- [ ] Sekundenkleber 
+	- [ ] sand
 - [ ] Ceranfeld putzen 
 - [ ] aktuelles Landesticket unterschrieben?
 - [ ] Fahrt zur Medikamentensprechstunde planen

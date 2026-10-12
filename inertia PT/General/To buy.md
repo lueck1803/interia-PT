@@ -1,3 +1,5 @@
+# Sonstiges 
+- [ ] fön (falls im Aldi )
 # Stadt
 - [ ] satz dünner pics kaufen, so dünn wie repair tool
 - [ ] mini rasierschaum
