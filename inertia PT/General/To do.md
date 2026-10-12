@@ -337,6 +337,7 @@
 - [ ] vor dem Fenster putzen 
 - [ ] Ingwer rein
 - [ ] Lotus rein
+- [ ] farn mit Wasser von draußen 
 - [ ] Behälter putzen 
 - [x] rotes Fahrrad aufpumpen 
 	- [ ] damit zum Bauhaus 
@@ -345,10 +346,10 @@
 - [ ] kalmah solo 75%
 - [ ] aldi 
 	- [x] Pfand 
-	- [ ] Pulli in grau?
+	- [x] Pulli in grau?
 	- [x] Nutella 
-	- [ ] saft
-	- [ ] schoki
+	- [x] saft
+	- [x] schoki
 	- [x] Äpfel 
 	- [x] Birnen 
 	- [x] Nudeln 
