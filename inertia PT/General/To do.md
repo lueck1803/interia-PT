@@ -307,6 +307,7 @@
 	- [ ] Sekundenkleber 
 	- [ ] sand
 - [ ] Ceranfeld putzen 
+- [ ] Liste sortieren nach abgehakt?
 - [x] Restmüll 
 - [ ] Gruppe (nchat) für mentees
 - [ ] Spülmaschinen salz
@@ -331,7 +332,7 @@
 - [ ] rotes Fahrrad aufpumpen 
 	- [ ] damit zum Bauhaus 
 	- [ ] mit Helm 
-- [ ] city rad in den Keller 
+- [x] city rad in den Keller 
 - [ ] kalmah solo 75%
 - [ ] aldi 
 	- [ ] Pfand 
