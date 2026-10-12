@@ -309,7 +309,9 @@
 - [ ] Ceranfeld putzen 
 - [ ] Liste sortieren nach abgehakt?
 - [ ] Ventil kappe für cityrad
-- [ ] HNO Ambulanz nochmal anrufen 
+- [ ] chio
+- [x] HNO Ambulanz nochmal anrufen 
+	- [ ] Antwort per Mail bekommen 
 - [x] Restmüll 
 - [ ] Gruppe (nchat) für mentees
 - [ ] Spülmaschinen salz
