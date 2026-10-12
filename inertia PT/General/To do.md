@@ -318,6 +318,7 @@
 - [ ] Behälter putzen 
 - [ ] rotes Fahrrad aufpumpen 
 	- [ ] damit zum Bauhaus 
+	- [ ] mit Helm 
 - [ ] city rad in den Keller 
 - [ ] kalmah solo 75%
 - [ ] aldi 
@@ -327,7 +328,7 @@
 	- [ ] schoki
 	- [ ] Äpfel 
 	- [ ] Birnen 
-- [ ] Duschen 
+- [x] Duschen 
 - [ ] Staubsauger kleben 
 - [ ] carnivorenwasser 
 - [ ] spazieren 
