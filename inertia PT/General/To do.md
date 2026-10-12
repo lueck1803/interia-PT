@@ -312,7 +312,7 @@
 - [ ] Chiphalter kleben 
 - HNO Ambulanz nochmal anrufen 
 	- [ ] Antwort per Mail bekommen 
-	- [ ] einfach an
+	- [ ] einfach anrufen...
 - [x] Restmüll 
 - [ ] Gruppe (nchat) für mentees
 - [ ] Spülmaschinen salz
