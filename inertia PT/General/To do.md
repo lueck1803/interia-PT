@@ -310,7 +310,9 @@
 - [ ] Schuhe aufrauen und testen 
 - [ ] Nadine antworten 
 - [ ] Käsereibe kleben 
-	- [ ] end
+	- [ ] endfest?
+	- [ ] Sekundenkleber 
+	- [ ] Hartplastik kleber?
 - [ ] aktuelles Landesticket unterschrieben?
 - [ ] Fahrt zur Medikamentensprechstunde planen
 - [ ] Briefkasten 
