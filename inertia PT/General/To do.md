@@ -305,7 +305,9 @@
 - [ ] aldi 
 	- [ ] Nutella 
 	- [ ] saft
-	- [ ] 
+	- [ ] schoki
+	- [ ] Äpfel 
+	- [ ] Birnen 
 - [ ] Duschen 
 - [ ] carnivorenwasser 
 - [ ] spazieren 
