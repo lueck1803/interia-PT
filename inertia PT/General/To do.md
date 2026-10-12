@@ -305,6 +305,8 @@
 	- [ ] Heißklebepistole 
 	- [ ] Sekundenkleber 
 - [ ] Ceranfeld putzen 
+- [ ] Mathe Checkliste mit Beispielen/verweisen machen und raus schicken
+- [ ] 
 - [ ] aldi 
 	- [ ] Nutella 
 	- [ ] saft
@@ -322,6 +324,9 @@
 	- [ ] pc
 	- [ ] Laptop 
 - [ ] pc Stecker 
+	- [ ] Tutorial Video schauen 
+	- [ ] nochmal alles ab checken 
+	- [ ] Windows bloatware Video 
 - [ ] Wäsche zusammen legen 
 - [ ] Papierkram 
 - [ ] Mathearbeiten zusammen stellen 
@@ -337,13 +342,10 @@
 	- [ ] morgens
 	- [ ] mittags
 	- [ ] abends 
-- [ ] Duolingo 
+- [x] Duolingo 
 - [x] Fahrradhelm anprobieren 
 	- netter kuschelhelm
 - [ ] Duschen
-	- [ ] mittags
-	- [ ] abends 
-- [ ] Duolingo 
 - [ ] Apfelschneider nochmal schweißen 
 - [ ] Mathearbeit konzipieren 
 	- [ ] 8 a
