@@ -344,13 +344,13 @@
 - [x] city rad in den Keller 
 - [ ] kalmah solo 75%
 - [ ] aldi 
-	- [ ] Pfand 
+	- [x] Pfand 
 	- [ ] Pulli in grau?
 	- [ ] Nutella 
 	- [ ] saft
 	- [ ] schoki
-	- [ ] Äpfel 
-	- [ ] Birnen 
+	- [x] Äpfel 
+	- [x] Birnen 
 	- [ ] Nudeln 
 	- [ ] deo
 	- [ ] bier
