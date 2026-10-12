@@ -315,6 +315,8 @@
 - [ ] vor dem Fenster putzen 
 - [ ] Ingwer rein
 - [ ] Lotus rein
+- [ ] Behälter putzen 
+- [ ] rotes Fahrrad aufpumpen 
 - [ ] kalmah solo 75%
 - [ ] aldi 
 	- [ ] Pfand 
