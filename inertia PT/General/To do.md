@@ -310,8 +310,9 @@
 - [ ] Liste sortieren nach abgehakt?
 - [ ] Ventil kappe für cityrad
 - [ ] Chiphalter kleben 
-- [x] HNO Ambulanz nochmal anrufen 
+- HNO Ambulanz nochmal anrufen 
 	- [ ] Antwort per Mail bekommen 
+	- [ ] einfach an
 - [x] Restmüll 
 - [ ] Gruppe (nchat) für mentees
 - [ ] Spülmaschinen salz
