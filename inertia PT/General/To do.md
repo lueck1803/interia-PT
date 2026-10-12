@@ -302,6 +302,7 @@
 
 
 - [ ] Sonnentau im Bauhaus 
+- [ ] Ceranfeld putzen 
 - [ ] aldi 
 	- [ ] Nutella 
 	- [ ] saft
