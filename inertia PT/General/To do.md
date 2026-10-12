@@ -340,6 +340,7 @@
 - [ ] farn mit Kaffee Wasser gießen
 - [ ] Äpfel waschen 
 - [ ] Birnen waschen 
+- [x] pulli anprobieren 
 - [ ] Behälter putzen 
 - [x] rotes Fahrrad aufpumpen 
 	- [ ] damit zum Bauhaus 
