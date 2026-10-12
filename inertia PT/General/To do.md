@@ -379,13 +379,12 @@
 - [ ] näh/flick tutorial anschauen
 
 - Zähne putzen 
-	- [ ] morgens
+	- [x] morgens
 	- [ ] mittags
 	- [ ] abends 
 - [x] Duolingo 
 - [x] Fahrradhelm anprobieren 
 	- netter kuschelhelm
-- [ ] Duschen
 - [ ] Apfelschneider nochmal schweißen 
 - [ ] Mathearbeit konzipieren 
 	- [ ] 8 a
