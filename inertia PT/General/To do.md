@@ -349,6 +349,7 @@
 	- [ ] schoki
 	- [ ] Äpfel 
 	- [ ] Birnen 
+	- [ ] Nudeln 
 - [x] Duschen 
 - [ ] Staubsauger kleben 
 - [ ] carnivorenwasser 
