@@ -346,13 +346,13 @@
 - [ ] aldi 
 	- [x] Pfand 
 	- [ ] Pulli in grau?
-	- [ ] Nutella 
+	- [x] Nutella 
 	- [ ] saft
 	- [ ] schoki
 	- [x] Äpfel 
 	- [x] Birnen 
 	- [x] Nudeln 
-	- [ ] deo
+	- [x] deo
 	- [x] bier
 - [x] Duschen 
 - [ ] Staubsauger kleben 
