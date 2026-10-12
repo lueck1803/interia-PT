@@ -308,6 +308,7 @@
 	- [ ] sand
 - [ ] Ceranfeld putzen 
 - [ ] Restmüll 
+- [ ] Glasmüll 
 - [ ] Schuhe aufrauen und testen 
 - [ ] Nadine antworten 
 - [ ] Käsereibe kleben 
