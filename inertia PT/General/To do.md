@@ -308,6 +308,7 @@
 	- [ ] sand
 - [ ] Ceranfeld putzen 
 - [ ] Liste sortieren nach abgehakt?
+- [ ] Ventil kappe für cityrad
 - [x] Restmüll 
 - [ ] Gruppe (nchat) für mentees
 - [ ] Spülmaschinen salz
