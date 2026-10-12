@@ -331,6 +331,7 @@
 - [ ] kalmah solo 75%
 - [ ] aldi 
 	- [ ] Pfand 
+	- [ ] Pulli in grau?
 	- [ ] Nutella 
 	- [ ] saft
 	- [ ] schoki
