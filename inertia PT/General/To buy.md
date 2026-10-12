@@ -1,5 +1,6 @@
 # Sonstiges 
 - [ ] fön (falls im Aldi )
+- [ ] halloween kostüm
 # Stadt
 - [ ] satz dünner pics kaufen, so dünn wie repair tool
 - [ ] mini rasierschaum
@@ -8,8 +9,8 @@
 - [ ] Schweißgerät *Parkside PFDS 120 A2*
 
 # Baumarkt 
-- [ ] Sand 
-- [ ] Sekundenkleber
+- [x] Sand 
+- [x] Sekundenkleber (ich hab definitiv genug gekauft 😂)
 - [x] Erde 
 # Apotheke
 - [ ] Betaisodona
@@ -17,7 +18,7 @@
 # Aldi
 ## Jetzt
 - Einkaufswagen 
-- [ ] Schranklicht 8.10.
+- [ ] Schranklicht 8.10. (gabs glaube keins mehr)
 - [x] Toast 
 - [x] Zwiebeln 
 - [x] Äpfel 

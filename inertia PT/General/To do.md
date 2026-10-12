@@ -303,7 +303,7 @@
 
 - [ ] Ceranfeld putzen 
 - [ ] kleber und Heißkleber testen 
-- [ ] Luftpumpe laden 
+- [x] Luftpumpe laden 
 - [ ] Liste sortieren nach abgehakt?
 - [ ] Ventil kappe für cityrad
 - [ ] Chiphalter kleben 
