@@ -302,10 +302,10 @@
 
 
 - [ ] Bauhaus 
-	- [ ] Heißklebepistole (falls nicht zu teuer und gut )
+	- [x] Heißklebepistole (falls nicht zu teuer und gut )
 	- [ ] Sonnentau
-	- [ ] Sekundenkleber 
-	- [ ] sand
+	- [x] Sekundenkleber 
+	- [x] sand
 - [ ] Ceranfeld putzen 
 - [ ] Liste sortieren nach abgehakt?
 - [ ] Ventil kappe für cityrad
