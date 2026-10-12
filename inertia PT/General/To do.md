@@ -321,6 +321,7 @@
 - [ ] termin HNO Ambulanz 
 - [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
 - [ ] Gitarre zum Arnold bringen 
+- [ ] trotzdem Tutorial 
 - [ ] tastatur wischen
 	- [ ] pc
 	- [ ] Laptop 
