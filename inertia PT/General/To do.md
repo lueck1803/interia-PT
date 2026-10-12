@@ -351,9 +351,9 @@
 	- [ ] schoki
 	- [x] Äpfel 
 	- [x] Birnen 
-	- [ ] Nudeln 
+	- [x] Nudeln 
 	- [ ] deo
-	- [ ] bier
+	- [x] bier
 - [x] Duschen 
 - [ ] Staubsauger kleben 
 - [ ] carnivorenwasser 
