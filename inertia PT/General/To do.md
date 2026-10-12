@@ -305,10 +305,19 @@
 	- [ ] Heißklebepistole 
 	- [ ] Sekundenkleber 
 - [ ] Ceranfeld putzen 
+- [ ] aktuelles Landesticket unterschrieben?
+- [ ] Fahrt zur Medikamentensprechstunde planen
 - [ ] Briefkasten 
 - [ ] Mathe Checkliste mit Beispielen/verweisen machen und raus schicken
 - [ ] nochmal etwas mehr ins Buch schauen 
+- [ ] Flipflops reparieren 
+- [ ] todo aufräumen 
+- [ ] vor dem Fenster putzen 
+- [ ] Ingwer rein
+- [ ] Lotus rein
+- [ ] kalmah solo 75%
 - [ ] aldi 
+	- [ ] Pfand 
 	- [ ] Nutella 
 	- [ ] saft
 	- [ ] schoki
