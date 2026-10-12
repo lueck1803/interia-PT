@@ -306,7 +306,7 @@
 	- [ ] Sekundenkleber 
 - [ ] Ceranfeld putzen 
 - [ ] Mathe Checkliste mit Beispielen/verweisen machen und raus schicken
-- [ ] 
+- [ ] nochmal etwas mehr ins Buch schauen 
 - [ ] aldi 
 	- [ ] Nutella 
 	- [ ] saft
