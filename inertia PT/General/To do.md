@@ -307,6 +307,7 @@
 	- [x] Sekundenkleber 
 	- [x] sand
 - [ ] Ceranfeld putzen 
+- [ ] kleber und Heißkleber testen 
 - [ ] Liste sortieren nach abgehakt?
 - [ ] Ventil kappe für cityrad
 - [ ] Chiphalter kleben 
