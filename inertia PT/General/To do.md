@@ -309,13 +309,15 @@
 - [ ] Ceranfeld putzen 
 - [ ] Liste sortieren nach abgehakt?
 - [ ] Ventil kappe für cityrad
+- [ ] hno
 - [x] Restmüll 
 - [ ] Gruppe (nchat) für mentees
 - [ ] Spülmaschinen salz
 - [ ] Glasmüll 
 - [ ] Schuhe aufrauen und testen 
 - [ ] Nadine antworten 
-	- [ ] Freddie nicht so selten gesehen 
+	- [ ] Freddie nicht so selten gesehen klar geworden 
+- [ ] mtb sitze zu weit vorne
 - [ ] Käsereibe kleben 
 	- [ ] endfest?
 	- [ ] Sekundenkleber 
