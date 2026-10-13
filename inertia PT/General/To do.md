@@ -300,7 +300,7 @@
 - <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-
+- [ ] was wegen fgm an der bas
 - [ ] Ceranfeld putzen 
 - [ ] kleber und Heißkleber testen 
 - [x] Rezept einscannen und hochladen 
