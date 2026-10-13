@@ -303,6 +303,7 @@
 
 - [ ] Ceranfeld putzen 
 - [ ] kleber und Heißkleber testen 
+- [ ] Rezept einscannen und 
 - [x] Luftpumpe laden 
 - [ ] Liste sortieren nach abgehakt?
 - [ ] Ventil kappe für cityrad
