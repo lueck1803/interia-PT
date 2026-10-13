@@ -303,8 +303,7 @@
 
 - [ ] Ceranfeld putzen 
 - [ ] kleber und Heißkleber testen 
-- [ ] Rezept einscannen und hochladen 
-- [x] Luftpumpe laden 
+- [x] Rezept einscannen und hochladen 
 - [ ] Liste sortieren nach abgehakt?
 - [ ] Ventil kappe für cityrad
 - [ ] Chiphalter kleben 
@@ -312,14 +311,12 @@
 - [ ] Spülmaschinen salz
 - [ ] Glasmüll 
 - [ ] Schuhe aufrauen und testen 
-- [x] Nadine antworten 
 - [ ] mtb sitze zu weit vorne
 - [ ] Käsereibe kleben 
 	- [ ] endfest?
 	- [ ] Sekundenkleber 
 	- [ ] Hartplastik kleber?
 - [ ] aktuelles Landesticket unterschrieben?
-- [ ] Fahrt zur Medikamentensprechstunde planen
 - [ ] Briefkasten 
 - [ ] Mathe Checkliste mit Beispielen/verweisen machen und raus schicken
 - [ ] nochmal etwas mehr ins Buch schauen 
