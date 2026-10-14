@@ -312,11 +312,11 @@
 	- [ ] aufhängen
 - [ ] Ceranfeld putzen 
 - [ ] kleber und Heißkleber testen 
-- [x] Rezept einscannen und hochladen 
+- [ ] Medikament abholen
 - [ ] Liste sortieren nach abgehakt?
 - [ ] Ventil kappe für cityrad
 - [ ] Chiphalter kleben 
-- [x] Gruppe (nchat) für mentees
+- [ ] Gruppe (nchat) mentees - Termin erstellen
 - [ ] Spülmaschinen salz
 - [ ] Glasmüll 
 - [ ] Schuhe aufrauen und testen 
