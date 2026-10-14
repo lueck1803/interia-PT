@@ -315,14 +315,15 @@
 - [x] Nudeln in den Kühlschrank 
 - [ ] 60° Wäsche mit Decke
 	- [x] anstellen
-	- [ ] schleudern
+	- [x] schleudern
 	- [ ] aufhängen
 - [ ] Bett beziehen
 - [ ] was wegen fgm an der BAS machen 
 - [ ] 30° Wäsche
 	- [x] anstellen
 	- [x] schleudern
-	- [ ] aufhängen
+	- [x] aufhängen
+	- [ ] abhängen 
 - [ ] Ceranfeld putzen 
 - [ ] kleber und Heißkleber testen 
 - [ ] Medikament abholen
