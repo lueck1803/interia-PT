@@ -301,7 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Platz/ort für Mentoren treffen abchecken 
-- [ ] Spülmaschine ausräumen 
+- [ ] Spülmaschine ausräumen + salz nachfüllen 
 - [ ] 60° Wäsche mit Decke
 	- [ ] anstellen
 	- [ ] schleudern
