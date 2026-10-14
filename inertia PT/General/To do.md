@@ -300,6 +300,7 @@
 - <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
+- [ ] Platz/ort für Mentoren treffen abchecken 
 - [ ] 60° Wäsche mit Decke
 	- [ ] anstellen
 	- [ ] schleudern
@@ -472,7 +473,7 @@
 	- [ ] und variablen einsetzen können  %% fold %%
  %% fold %%
 - [ ] sus Akkorde am Klavier probieren  %% fold %%
-
+ %% fold %%
 
  %% fold %%
  %% fold %%
