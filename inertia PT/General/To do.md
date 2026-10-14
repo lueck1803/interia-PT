@@ -313,14 +313,14 @@
 - [ ] Öl zurück 
 - [ ] Nudeln in den Kühlschrank 
 - [ ] 60° Wäsche mit Decke
-	- [ ] anstellen
+	- [x] anstellen
 	- [ ] schleudern
 	- [ ] aufhängen
 - [ ] Bett beziehen
 - [ ] was wegen fgm an der BAS machen 
 - [ ] 30° Wäsche
 	- [x] anstellen
-	- [ ] schleudern
+	- [x] schleudern
 	- [ ] aufhängen
 - [ ] Ceranfeld putzen 
 - [ ] kleber und Heißkleber testen 
