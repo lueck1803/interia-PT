@@ -302,6 +302,10 @@
 
 - [ ] Platz/ort für Mentoren treffen abchecken 
 - [ ] gelber Sack
+- [ ] shadow work lesen
+- [ ] japanische 1-min regel lesen
+- [ ] video von motivations coach fertig
+- [ ] persönlichkeitstest machen
 - [ ] Spülmaschine ausräumen + salz nachfüllen 
 - [ ] Kaffeesatz
 - [ ] Öl zurück 
