@@ -300,7 +300,16 @@
 - <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
+- [ ] 60° Wäsche mit Decke
+	- [ ] anstellen
+	- [ ] schleudern
+	- [ ] aufhängen
+- [ ] Bett beziehen
 - [ ] was wegen fgm an der BAS machen 
+- [ ] 30° Wäsche
+	- [x] anstellen
+	- [ ] schleudern
+	- [ ] aufhängen
 - [ ] Ceranfeld putzen 
 - [ ] kleber und Heißkleber testen 
 - [x] Rezept einscannen und hochladen 
@@ -312,6 +321,7 @@
 - [ ] Glasmüll 
 - [ ] Schuhe aufrauen und testen 
 - [ ] mtb sitze zu weit vorne
+- [ ] staubsaugerschlauch kleben
 - [ ] Käsereibe kleben 
 	- [ ] endfest?
 	- [ ] Sekundenkleber 
