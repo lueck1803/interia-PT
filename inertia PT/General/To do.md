@@ -312,7 +312,7 @@
 - [ ] Spülmaschine ausräumen + salz nachfüllen 
 - [ ] Kaffeesatz
 - [ ] Öl zurück 
-- [ ] Nudeln in den Kühlschrank 
+- [x] Nudeln in den Kühlschrank 
 - [ ] 60° Wäsche mit Decke
 	- [x] anstellen
 	- [ ] schleudern
