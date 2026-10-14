@@ -300,9 +300,11 @@
 - <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
+- [ ] Duolingo 
+- [ ] sand unter die carnivoren Erde mischen 
 - [x] Duschen 
 - [ ] carnivoren bestellen 
-- [ ] Gitarre zum Arnold bringen
+- [x] Gitarre zum Arnold bringen
 - [ ] Platz/ort für Mentoren treffen abchecken 
 - [ ] gelber Sack
 - [ ] shadow work lesen
@@ -310,14 +312,15 @@
 - [ ] video von motivations coach fertig
 - [ ] persönlichkeitstest machen
 - [ ] Spülmaschine ausräumen + salz nachfüllen 
-- [ ] Kaffeesatz
+- [x] Kaffeesatz
 - [ ] Öl zurück 
 - [x] Nudeln in den Kühlschrank 
 - [ ] 60° Wäsche mit Decke
 	- [x] anstellen
 	- [x] schleudern
-	- [ ] aufhängen
-- [ ] Bett beziehen
+	- [x] aufhängen
+	- [ ] abhängen 
+- [x] Bett beziehen
 - [ ] was wegen fgm an der BAS machen 
 - [ ] 30° Wäsche
 	- [x] anstellen
@@ -325,22 +328,22 @@
 	- [x] aufhängen
 	- [ ] abhängen 
 - [ ] Ceranfeld putzen 
-- [ ] kleber und Heißkleber testen 
-- [ ] Medikament abholen
+- [x]  Heißkleber testen 
+- [ ] Sekundenkleber  testen 
+- [x] Medikament abholen
 - [ ] Liste sortieren nach abgehakt?
 - [ ] Ventil kappe für cityrad
 - [ ] Chiphalter kleben 
 - [x] Gruppe (nchat) mentees - Termin erstellen
-- [ ] Spülmaschinen salz
 - [ ] Glasmüll 
 - [ ] Schuhe aufrauen und testen 
 - [ ] mtb sitze zu weit vorne
-- [ ] staubsaugerschlauch kleben
+- [x] staubsaugerschlauch kleben
 - [ ] Käsereibe kleben 
 	- [ ] endfest?
 	- [ ] Sekundenkleber 
 	- [ ] Hartplastik kleber?
-- [ ] aktuelles Landesticket unterschrieben?
+- [x] aktuelles Landesticket unterschrieben?
 - [ ] Briefkasten 
 - [ ] Mathe Checkliste mit Beispielen/verweisen machen und raus schicken
 - [ ] nochmal etwas mehr ins Buch schauen 
@@ -350,15 +353,12 @@
 - [ ] Ingwer rein
 - [ ] Lotus rein
 - [ ] farn mit Kaffee Wasser gießen
-- [ ] Äpfel waschen 
-	- [ ] mit Helm 
-- [ ] Behälter putzen 
-- [ ] Birnen waschen 
+- [x] Äpfel waschen 
+- [x] Behälter putzen 
+- [x] Birnen waschen 
 - [ ] kalmah solo 75%
-- [ ] Staubsauger kleben 
 - [ ] carnivorenwasser 
 - [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
-- [ ] Gitarre zum Arnold bringen 
 - [ ] trotzdem floyed rose Tutorial 
 - [ ] tastatur wischen
 	- [ ] pc
@@ -367,22 +367,19 @@
 	- [ ] Tutorial Video schauen 
 	- [ ] nochmal alles ab checken 
 	- [ ] Windows bloatware Video 
-- [ ] Wäsche zusammen legen 
+- [x] Wäsche zusammen legen 
 - [ ] Papierkram 
 - [ ] Mathearbeiten zusammen stellen 
 - [ ] Mathearbeiten in Klausur Planer eintragen 
 - [ ] proposal fertig schreiben 
 
-- [ ] stimmtutorial floyd rose anschauen oder gitarre zum stimmen bringen
-- [ ] dünne plektren kaufen
-- [ ] weiße Gitarre stimmen 
+- [x] dünne plektren kaufen
 - [ ] näh/flick tutorial anschauen
 
 - Zähne putzen 
 	- [x] morgens
 	- [ ] mittags
 	- [ ] abends 
-- [x] Duolingo 
 - [x] Fahrradhelm anprobieren 
 	- netter kuschelhelm
 - [ ] Apfelschneider nochmal schweißen 
