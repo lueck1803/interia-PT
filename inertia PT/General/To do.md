@@ -301,6 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Platz/ort für Mentoren treffen abchecken 
+- [ ] gelber Sack
 - [ ] Spülmaschine ausräumen + salz nachfüllen 
 - [ ] Kaffeesatz
 - [ ] Öl zurück 
@@ -321,7 +322,7 @@
 - [ ] Liste sortieren nach abgehakt?
 - [ ] Ventil kappe für cityrad
 - [ ] Chiphalter kleben 
-- [ ] Gruppe (nchat) mentees - Termin erstellen
+- [x] Gruppe (nchat) mentees - Termin erstellen
 - [ ] Spülmaschinen salz
 - [ ] Glasmüll 
 - [ ] Schuhe aufrauen und testen 
