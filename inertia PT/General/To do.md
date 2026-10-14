@@ -302,6 +302,9 @@
 
 - [ ] Platz/ort für Mentoren treffen abchecken 
 - [ ] Spülmaschine ausräumen + salz nachfüllen 
+- [ ] Kaffeesatz
+- [ ] Öl zurück 
+- [ ] Nudeln in den Kühlschrank 
 - [ ] 60° Wäsche mit Decke
 	- [ ] anstellen
 	- [ ] schleudern
