@@ -304,7 +304,7 @@
 - [ ] sand unter die carnivoren Erde mischen 
 - [ ] Duschen 
 - [ ] staubsaugen 
-- [ ] 
+- [ ] wischen 
 - [x] Nägel knipsen 
 - [ ] Wanderschuhe testen
 - [x] Gitarre zum Arnold bringen
@@ -316,7 +316,7 @@
 - [ ] persönlichkeitstest machen
 - [ ] Spülmaschine ausräumen + salz nachfüllen 
 - [x] Kaffeesatz
-- [ ] Öl zurück 
+- [x] Öl zurück 
 - [x] Nudeln in den Kühlschrank 
 - [ ] 60° Wäsche mit Decke
 	- [x] anstellen
