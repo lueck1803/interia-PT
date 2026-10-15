@@ -305,6 +305,7 @@
 - [ ] grau rote sofa decke waschen 
 - [ ] Bad Spiegel 
 - [x] Tischspiegel 
+- [ ] usb c Handy reinigen
 - [ ] Basilikum samen eintüten 
 - [ ] gießen 
 - [ ] laptop bildschirm putzen
