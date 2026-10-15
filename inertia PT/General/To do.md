@@ -302,9 +302,10 @@
 
 - [ ] Duolingo 
 - [x] Rasierer ölen + reinigen 
-- [ ] grau rote sofa decke waschen 
-- [ ] Bad Spiegel 
+- [x] grau rote sofa decke waschen 
+- [x] Bad Spiegel 
 - [x] Tischspiegel 
+- [ ] Wachtelbohnen Kühlschrank checken
 - [ ] usb c Handy reinigen
 - [ ] Basilikum samen eintüten 
 - [ ] gießen 
