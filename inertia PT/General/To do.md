@@ -305,7 +305,7 @@
 - [x] grau rote sofa decke waschen 
 - [x] Bad Spiegel 
 - [x] Tischspiegel 
-- [ ] Mathe Klausur für Montag in 3 Wochen eintragen 
+- [ ] Mathe Klausur für Montag in 2 oder 3 Wochen eintragen 
 - [ ] Tafel wischen 
 - [ ] helle Wäsche 
 	- [x] anstellen
