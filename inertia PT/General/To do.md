@@ -302,6 +302,7 @@
 
 - [ ] Duolingo 
 - [ ] gießen 
+- [ ] laptop bildschirm putzen
 - [ ] Bart pflegen/rasieren 
 - [ ] sand unter die carnivoren Erde mischen 
 - [ ] Duschen 
