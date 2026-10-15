@@ -319,6 +319,7 @@
 - [ ] Ventilator wegpacken
 - [ ] Wachtelbohnen Kühlschrank checken
 - [ ] usb c Handy reinigen
+- [ ] Kontaktspray 
 - [ ] Basilikum samen eintüten 
 - [ ] gießen 
 - [x] laptop bildschirm putzen
