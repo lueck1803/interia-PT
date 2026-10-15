@@ -305,8 +305,9 @@
 - [x] grau rote sofa decke waschen 
 - [x] Bad Spiegel 
 - [x] Tischspiegel 
+- [ ] Tafel wischen 
 - [ ] helle Wäsche 
-	- [ ] anstellen
+	- [x] anstellen
 	- [ ] schleudern
 	- [ ] aufhängen
 	- [ ] abhängen 
