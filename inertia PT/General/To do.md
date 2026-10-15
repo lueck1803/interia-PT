@@ -301,10 +301,8 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Duolingo 
-- [x] mentees einzeln anschreiben 
+- [ ] Rasierer ölen
 - [ ] Basilikum samen eintüten 
-- [x] frische Trinkflasche 
-- [x] Batterie Nasenhaartrimmer wechseln 
 - [ ] gießen 
 - [ ] laptop bildschirm putzen
 - [ ] Bart pflegen/rasieren 
