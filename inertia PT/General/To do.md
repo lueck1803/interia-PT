@@ -302,6 +302,7 @@
 
 - [ ] Duolingo 
 - [ ] Rasierer ölen
+- [ ] Bad Spiegel 
 - [ ] Basilikum samen eintüten 
 - [ ] gießen 
 - [ ] laptop bildschirm putzen
