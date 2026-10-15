@@ -329,7 +329,8 @@
 	- [ ] abhängen 
 - [ ] Ceranfeld putzen 
 - [x]  Heißkleber testen 
-- [ ] Sekundenkleber  testen 
+- [x] Sekundenkleber  testen 
+- [x] Käsereibe kleben 
 - [x] Medikament abholen
 - [ ] Liste sortieren nach abgehakt?
 - [ ] Ventil kappe für cityrad
@@ -437,7 +438,7 @@
 - [ ] Dusche schrubben 
 - [ ] Farben in Xournal ergänzen %% fold %%
 - [ ] dünne pics kaufen %% fold %%
-	- Plektrumstärke: <font color="#00b050">0,6mm</font>
+	- Plektrumstärke: <font color="#00b050">0,6mm</font> %% fold %%
 - [ ] 8a 1+ für freitag eintragen, alle die am Freitag heft abgegeben haben, rest 4.
 - [ ] Erklärung zur Prozentrechnung abtippen in Gruppe schicken
 - [ ] Lotus rein stellen 
