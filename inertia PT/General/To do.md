@@ -301,7 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Duolingo 
-- [x] Esstisch wischen 
+- [ ] mentees einzeln anschreiben 
 - [ ] gießen 
 - [ ] laptop bildschirm putzen
 - [ ] Bart pflegen/rasieren 
@@ -335,12 +335,6 @@
 - [ ] Glasmüll 
 - [ ] Schuhe aufrauen und testen 
 - [ ] mtb sitze zu weit vorne
-- [x] staubsaugerschlauch kleben
-- [x] Käsereibe kleben 
-	- [ ] endfest?
-	- [x] Sekundenkleber 
-	- [ ] Hartplastik kleber?
-- [x] aktuelles Landesticket unterschrieben?
 - [ ] Briefkasten 
 - [ ] Mathe Checkliste mit Beispielen/verweisen machen und raus schicken
 - [ ] nochmal etwas mehr ins Buch schauen 
@@ -349,10 +343,6 @@
 - [ ] vor dem Fenster putzen 
 - [ ] Ingwer rein
 - [ ] Lotus rein
-- [ ] farn mit Kaffee Wasser gießen
-- [x] Äpfel waschen 
-- [x] Behälter putzen 
-- [x] Birnen waschen 
 - [ ] kalmah solo 75%
 - [ ] carnivorenwasser 
 - [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
@@ -364,21 +354,17 @@
 	- [ ] Tutorial Video schauen 
 	- [ ] nochmal alles ab checken 
 	- [ ] Windows bloatware Video 
-- [x] Wäsche zusammen legen 
 - [ ] Papierkram 
 - [ ] Mathearbeiten zusammen stellen 
 - [ ] Mathearbeiten in Klausur Planer eintragen 
 - [ ] proposal fertig schreiben 
 
-- [x] dünne plektren kaufen
 - [ ] näh/flick tutorial anschauen
 
 - Zähne putzen 
 	- [ ] morgens
 	- [ ] mittags
 	- [ ] abends 
-- [x] Fahrradhelm anprobieren 
-	- netter kuschelhelm
 - [ ] Apfelschneider nochmal schweißen 
 - [ ] Mathearbeit konzipieren 
 	- [ ] 8 a
@@ -416,8 +402,6 @@
 - [ ] Bildschirmproblem
 	- [ ] nochmal probieren an usb 3_4 zu stecken
 
-- [ ] Plektren in der Stadt kaufen
-	- laden hatte zu
 - [ ] fix homebrew - reinstall ninja ⟹ vorher macos updaten
 - [ ] laptophülle dampfen
 - [ ] rot-grauen Rucksack waschen
@@ -429,7 +413,7 @@
 - [ ] Elias 
 	- [ ] Abschnitt aus dem Griffith lesen
 
-
+ %% fold %%
 - [ ] dpg Beitragsgruppe wechseln  %% fold %%
 - [ ] Dusche schrubben  %% fold %%
 - [ ] Farben in Xournal ergänzen %% fold %%
