@@ -305,6 +305,7 @@
 - [x] grau rote sofa decke waschen 
 - [x] Bad Spiegel 
 - [x] Tischspiegel 
+- [ ] rot grauen ruckd
 - [ ] Ventilator wegpacken
 - [ ] Wachtelbohnen Kühlschrank checken
 - [ ] usb c Handy reinigen
