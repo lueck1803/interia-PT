@@ -303,7 +303,7 @@
 - [ ] Duolingo 
 - [x] mentees einzeln anschreiben 
 - [ ] Basilikum samen eintüten 
-- [ ] frische Trinkflasche 
+- [x] frische Trinkflasche 
 - [x] Batterie Nasenhaartrimmer wechseln 
 - [ ] gießen 
 - [ ] laptop bildschirm putzen
