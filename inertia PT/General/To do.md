@@ -302,7 +302,7 @@
 
 - [ ] Duolingo 
 - [ ] gießen 
-- [ ] Bsrt
+- [ ] Bart pflegen/rasieren 
 - [ ] sand unter die carnivoren Erde mischen 
 - [ ] Duschen 
 - [ ] staubsaugen 
