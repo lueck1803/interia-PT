@@ -303,7 +303,6 @@
 - [ ] Duolingo 
 - [ ] sand unter die carnivoren Erde mischen 
 - [x] Duschen 
-- [ ] carnivoren bestellen 
 - [x] Gitarre zum Arnold bringen
 - [ ] Platz/ort für Mentoren treffen abchecken 
 - [ ] gelber Sack
