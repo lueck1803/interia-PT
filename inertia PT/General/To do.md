@@ -318,7 +318,7 @@
 	- [ ] waschen 
 - [ ] Ventilator wegpacken
 - [ ] Wachtelbohnen Kühlschrank checken
-- [ ] usb c Handy reinigen
+- [x] usb c Handy reinigen
 - [ ] Kontaktspray 
 - [ ] Basilikum samen eintüten 
 - [ ] gießen 
