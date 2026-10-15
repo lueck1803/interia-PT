@@ -301,31 +301,34 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Duolingo 
+- [ ] Duschen 
 - [x] Rasierer ölen + reinigen 
 - [x] grau rote sofa decke waschen 
 - [x] Bad Spiegel 
 - [x] Tischspiegel 
 - [ ] Mathe Klausur für Montag in 2 oder 3 Wochen eintragen 
+- [x] kalmah üben
+	- [ ] black waltz rythm 
+	- [ ] black Waltz solo 75%
 - [ ] Tafel wischen 
 - [ ] helle Wäsche 
 	- [x] anstellen
-	- [ ] schleudern
+	- [x] schleudern
 	- [ ] aufhängen
 	- [ ] abhängen 
-- [ ] Bildschirme putzen 
+- [x] Bildschirme putzen 
 - [ ] rot grauen Rucksack 
 	- [ ] ausmisten 
 	- [ ] waschen 
 - [ ] Ventilator wegpacken
 - [ ] Wachtelbohnen Kühlschrank checken
 - [x] usb c Handy reinigen
-- [ ] Kontaktspray 
+- [x] Kontaktspray 
 - [ ] Basilikum samen eintüten 
 - [ ] gießen 
 - [x] laptop bildschirm putzen
 - [x] Bart pflegen/rasieren 
 - [ ] sand unter die carnivoren Erde mischen 
-- [ ] Duschen 
 - [ ] staubsaugen 
 - [ ] wischen 
 - [ ] Wanderschuhe testen
@@ -362,7 +365,6 @@
 - [ ] vor dem Fenster putzen 
 - [ ] Ingwer rein
 - [ ] Lotus rein
-- [ ] kalmah solo 75%
 - [ ] carnivorenwasser 
 - [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
 - [ ] trotzdem floyed rose Tutorial 
