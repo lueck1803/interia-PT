@@ -303,7 +303,7 @@
 - [ ] Duolingo 
 - [ ] sand unter die carnivoren Erde mischen 
 - [x] Duschen 
-- [ ] Nägel knipsen 
+- [x] Nägel knipsen 
 - [ ] Wanderschuhe testen
 - [x] Gitarre zum Arnold bringen
 - [ ] Platz/ort für Mentoren treffen abchecken 
