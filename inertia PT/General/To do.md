@@ -338,7 +338,7 @@
 - [ ] wischen 
 - [ ] Wanderschuhe testen
 - [ ] Platz/ort für Mentoren treffen abchecken 
-- [ ] gelber Sack
+- [x] gelber Sack
 - [ ] shadow work lesen
 - [ ] japanische 1-min regel lesen
 - [ ] video von motivations coach fertig
