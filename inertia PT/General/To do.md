@@ -301,6 +301,8 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Duolingo 
+- [ ] gießen 
+- [ ] Bsrt
 - [ ] sand unter die carnivoren Erde mischen 
 - [ ] Duschen 
 - [ ] staubsaugen 
