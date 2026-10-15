@@ -305,6 +305,11 @@
 - [x] grau rote sofa decke waschen 
 - [x] Bad Spiegel 
 - [x] Tischspiegel 
+- [ ] helle Wäsche 
+	- [ ] anstellen
+	- [ ] schleudern
+	- [ ] aufhängen
+	- [ ] abhängen 
 - [ ] Bildschirme putzen 
 - [ ] rot grauen Rucksack 
 	- [ ] ausmisten 
@@ -314,8 +319,8 @@
 - [ ] usb c Handy reinigen
 - [ ] Basilikum samen eintüten 
 - [ ] gießen 
-- [ ] laptop bildschirm putzen
-- [ ] Bart pflegen/rasieren 
+- [x] laptop bildschirm putzen
+- [x] Bart pflegen/rasieren 
 - [ ] sand unter die carnivoren Erde mischen 
 - [ ] Duschen 
 - [ ] staubsaugen 
@@ -358,9 +363,9 @@
 - [ ] carnivorenwasser 
 - [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
 - [ ] trotzdem floyed rose Tutorial 
-- [ ] tastatur wischen
-	- [ ] pc
-	- [ ] Laptop 
+- [x] tastatur wischen
+	- [x] pc
+	- [x] Laptop 
 - [ ] pc Stecker 
 	- [ ] Tutorial Video schauen 
 	- [ ] nochmal alles ab checken 
@@ -432,7 +437,7 @@
 	- Plektrumstärke: <font color="#00b050">0,6mm</font> %% fold %%
 - [ ] 8a 1+ für freitag eintragen, alle die am Freitag heft abgegeben haben, rest 4.
 - [ ] Erklärung zur Prozentrechnung abtippen in Gruppe schicken
-- [ ] Lotus rein stellen 
+- [ ] Lotus rein stellen  %% fold %%
 - [ ] kleines grünes Gewächshaus aus und Aufräumen  %% fold %%
 - [ ] Konto checken %% fold %%
 - [ ] Mischa schreiben ob Geld da ist %% fold %%
