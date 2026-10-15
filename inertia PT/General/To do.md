@@ -301,7 +301,8 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Duolingo 
-- [ ] Duschen 
+- [x] Duschen 
+- [ ] Kordel in Jogginghose 
 - [x] Rasierer ölen + reinigen 
 - [x] grau rote sofa decke waschen 
 - [x] Bad Spiegel 
