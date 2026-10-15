@@ -307,16 +307,20 @@
 - [x] grau rote sofa decke waschen 
 - [x] Bad Spiegel 
 - [x] Tischspiegel 
+- Waschbecken schrubben 
+	- [x] Bad 
+	- [ ] Küche 
 - [ ] Mathe Klausur für Montag in 2 oder 3 Wochen eintragen 
-- [x] kalmah üben
+- kalmah üben
 	- [ ] black waltz rythm 
 	- [ ] black Waltz solo 75%
 - [ ] Tafel wischen 
 - [ ] helle Wäsche 
 	- [x] anstellen
 	- [x] schleudern
-	- [ ] aufhängen
+	- [x] aufhängen
 	- [ ] abhängen 
+	- [ ] zusammen legen 
 - [x] Bildschirme putzen 
 - [ ] rot grauen Rucksack 
 	- [ ] ausmisten 
@@ -345,12 +349,14 @@
 	- [x] schleudern
 	- [x] aufhängen
 	- [ ] abhängen 
+	- [ ] zusammen legen 
 - [ ] was wegen fgm an der BAS machen 
 - [ ] 30° Wäsche
 	- [x] anstellen
 	- [x] schleudern
 	- [x] aufhängen
-	- [ ] abhängen 
+	- [x] abhängen 
+	- [ ] zusammen legen 
 - [ ] Ceranfeld putzen 
 - [ ] Liste sortieren nach abgehakt?
 - [ ] Ventil kappe für cityrad
@@ -429,9 +435,6 @@
 - [ ] rot-grauen Rucksack waschen
 - [ ] Ausarbeitung Distributiv - exponential gesetz fertig machen
 - [ ] kiwi umsetzen 
-- [ ] Waschbecken schrubben 
-	- [ ] Bad 
-	- [ ] Küche 
 - [ ] Elias 
 	- [ ] Abschnitt aus dem Griffith lesen
 
@@ -442,7 +445,7 @@
 - [ ] dünne pics kaufen %% fold %%
 	- Plektrumstärke: <font color="#00b050">0,6mm</font> %% fold %%
 - [ ] 8a 1+ für freitag eintragen, alle die am Freitag heft abgegeben haben, rest 4.
-- [ ] Erklärung zur Prozentrechnung abtippen in Gruppe schicken
+- [ ] Erklärung zur Prozentrechnung abtippen in Gruppe schicken %% fold %%
 - [ ] Lotus rein stellen  %% fold %%
 - [ ] kleines grünes Gewächshaus aus und Aufräumen  %% fold %%
 - [ ] Konto checken %% fold %%
