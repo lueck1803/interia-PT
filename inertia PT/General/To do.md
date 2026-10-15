@@ -303,6 +303,8 @@
 - [ ] Duolingo 
 - [x] mentees einzeln anschreiben 
 - [ ] Basilikum samen eintüten 
+- [ ] frische Trinkflasche 
+- [ ] Batterie Nasenhaartrimmer wechseln 
 - [ ] gießen 
 - [ ] laptop bildschirm putzen
 - [ ] Bart pflegen/rasieren 
