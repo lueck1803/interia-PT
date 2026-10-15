@@ -309,9 +309,7 @@
 - [ ] Duschen 
 - [ ] staubsaugen 
 - [ ] wischen 
-- [x] Nägel knipsen 
 - [ ] Wanderschuhe testen
-- [x] Gitarre zum Arnold bringen
 - [ ] Platz/ort für Mentoren treffen abchecken 
 - [ ] gelber Sack
 - [ ] shadow work lesen
@@ -319,15 +317,11 @@
 - [ ] video von motivations coach fertig
 - [ ] persönlichkeitstest machen
 - [ ] Spülmaschine ausräumen + salz nachfüllen 
-- [x] Kaffeesatz
-- [x] Öl zurück 
-- [x] Nudeln in den Kühlschrank 
 - [ ] 60° Wäsche mit Decke
 	- [x] anstellen
 	- [x] schleudern
 	- [x] aufhängen
 	- [ ] abhängen 
-- [x] Bett beziehen
 - [ ] was wegen fgm an der BAS machen 
 - [ ] 30° Wäsche
 	- [x] anstellen
@@ -335,13 +329,9 @@
 	- [x] aufhängen
 	- [ ] abhängen 
 - [ ] Ceranfeld putzen 
-- [x]  Heißkleber testen 
-- [x] Sekundenkleber  testen 
-- [x] Medikament abholen
 - [ ] Liste sortieren nach abgehakt?
 - [ ] Ventil kappe für cityrad
 - [ ] Chiphalter kleben 
-- [x] Gruppe (nchat) mentees - Termin erstellen
 - [ ] Glasmüll 
 - [ ] Schuhe aufrauen und testen 
 - [ ] mtb sitze zu weit vorne
@@ -440,8 +430,8 @@
 	- [ ] Abschnitt aus dem Griffith lesen
 
 
-- [ ] dpg Beitragsgruppe wechseln 
-- [ ] Dusche schrubben 
+- [ ] dpg Beitragsgruppe wechseln  %% fold %%
+- [ ] Dusche schrubben  %% fold %%
 - [ ] Farben in Xournal ergänzen %% fold %%
 - [ ] dünne pics kaufen %% fold %%
 	- Plektrumstärke: <font color="#00b050">0,6mm</font> %% fold %%
