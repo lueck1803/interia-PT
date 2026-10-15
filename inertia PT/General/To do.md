@@ -329,7 +329,6 @@
 - [ ] Ceranfeld putzen 
 - [x]  Heißkleber testen 
 - [x] Sekundenkleber  testen 
-- [x] Käsereibe kleben 
 - [x] Medikament abholen
 - [ ] Liste sortieren nach abgehakt?
 - [ ] Ventil kappe für cityrad
@@ -339,9 +338,9 @@
 - [ ] Schuhe aufrauen und testen 
 - [ ] mtb sitze zu weit vorne
 - [x] staubsaugerschlauch kleben
-- [ ] Käsereibe kleben 
+- [x] Käsereibe kleben 
 	- [ ] endfest?
-	- [ ] Sekundenkleber 
+	- [x] Sekundenkleber 
 	- [ ] Hartplastik kleber?
 - [x] aktuelles Landesticket unterschrieben?
 - [ ] Briefkasten 
