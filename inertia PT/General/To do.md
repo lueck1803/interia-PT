@@ -305,6 +305,7 @@
 - [x] grau rote sofa decke waschen 
 - [x] Bad Spiegel 
 - [x] Tischspiegel 
+- [ ] Bildschirme putzen 
 - [ ] rot grauen Rucksack 
 	- [ ] ausmisten 
 	- [ ] waschen 
