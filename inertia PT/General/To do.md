@@ -301,6 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Duolingo 
+- [x] Esstisch isch wischen 
 - [ ] gießen 
 - [ ] laptop bildschirm putzen
 - [ ] Bart pflegen/rasieren 
