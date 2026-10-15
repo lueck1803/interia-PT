@@ -302,7 +302,9 @@
 
 - [ ] Duolingo 
 - [ ] sand unter die carnivoren Erde mischen 
-- [x] Duschen 
+- [ ] Duschen 
+- [ ] staubsaugen 
+- [ ] 
 - [x] Nägel knipsen 
 - [ ] Wanderschuhe testen
 - [x] Gitarre zum Arnold bringen
