@@ -301,7 +301,8 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Duolingo 
-- [ ] Rasierer ölen
+- [x] Rasierer ölen + reinigen 
+- [ ] grau rote sofa decke waschen 
 - [ ] Bad Spiegel 
 - [ ] Tischspiegel 
 - [ ] Basilikum samen eintüten 
