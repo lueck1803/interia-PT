@@ -377,7 +377,7 @@
 - [ ] näh/flick tutorial anschauen
 
 - Zähne putzen 
-	- [x] morgens
+	- [ ] morgens
 	- [ ] mittags
 	- [ ] abends 
 - [x] Fahrradhelm anprobieren 
