@@ -436,7 +436,7 @@
 - [ ] dpg Beitragsgruppe wechseln 
 - [ ] Dusche schrubben 
 - [ ] Farben in Xournal ergänzen %% fold %%
-- [ ] dünne pics kaufen
+- [ ] dünne pics kaufen %% fold %%
 	- Plektrumstärke: <font color="#00b050">0,6mm</font>
 - [ ] 8a 1+ für freitag eintragen, alle die am Freitag heft abgegeben haben, rest 4.
 - [ ] Erklärung zur Prozentrechnung abtippen in Gruppe schicken
