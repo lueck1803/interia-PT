@@ -304,7 +304,7 @@
 - [x] Rasierer ölen + reinigen 
 - [ ] grau rote sofa decke waschen 
 - [ ] Bad Spiegel 
-- [ ] Tischspiegel 
+- [x] Tischspiegel 
 - [ ] Basilikum samen eintüten 
 - [ ] gießen 
 - [ ] laptop bildschirm putzen
