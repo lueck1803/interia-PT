@@ -302,6 +302,7 @@
 
 - [ ] Duolingo 
 - [x] mentees einzeln anschreiben 
+- [ ] Basilikum samen 
 - [ ] gießen 
 - [ ] laptop bildschirm putzen
 - [ ] Bart pflegen/rasieren 
