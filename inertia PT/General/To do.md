@@ -574,7 +574,6 @@
 - [ ] gibts ne regel für linter, dass man one-liner einfügen kann? %% fold %%
  %% fold %%
  %% fold %%
-- [ ] Kopfhörer putzen  %% fold %%
 - [ ] Mathe handout %% fold %%
 	- [ ] Beispiel für
 		- [x] kleinstes gemeinsames Vielfaches %% fold %%
@@ -609,7 +608,6 @@
 - [ ] Tisch aufräumen  %% fold %%
 - [ ] Gitarre stimmen  %% fold %%
 	- [ ] ich  hab das Stimmgerät am podGo auf coarse gestellt, das ist viel angenehmer xD %% fold %%
-- [ ] heroes to us %% fold %%
 - [ ] mich um pc kümmern  %% fold %%
   %% fold %%
 - [ ] Display Schutz Hülle 
@@ -646,7 +644,6 @@
 		- scheint ganz nett zu sein 
 		- ist vor allem für bis zu 5€ weniger zu haben
 	- der ti 30 prio
-- [ ] Keyboard aufbauen und dirtmouth üben %% fold %%
 - [ ] Jamil zur Differenzierung: %% fold %%
 	- [ ] rote Aufgaben im Mathebuch für E
 	- [ ] in der Arbeit gibt es andere Punkteverteilung und eventuell Zusatzaufgaben 
