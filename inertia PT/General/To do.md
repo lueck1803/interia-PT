@@ -327,7 +327,7 @@
 	- [ ] ausmisten 
 	- [ ] waschen 
 - [ ] Ventilator wegpacken
-- [ ] Wachtelbohnen Kühlschrank checken
+- [x] Wachtelbohnen Kühlschrank checken
 - [ ] Basilikum samen eintüten 
 - [ ] gießen 
 - [x] laptop bildschirm putzen 
