@@ -303,7 +303,7 @@
 - [ ] Duolingo 
 - [x] Esstisch isch wischen 
 - [ ] gießen 
-- [ ] laptop bildschirm putzen
+- [ ] laptop bildschirm putzen 
 - [ ] Bart pflegen/rasieren 
 - [ ] sand unter die carnivoren Erde mischen 
 - [ ] Duschen 
