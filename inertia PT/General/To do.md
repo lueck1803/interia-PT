@@ -329,7 +329,7 @@
 - [ ] Ventilator wegpacken
 - [x] Wachtelbohnen Kühlschrank checken
 - [ ] Basilikum samen eintüten 
-- [ ] gießen 
+- [x] gießen 
 - [x] laptop bildschirm putzen 
 - [x] sand unter die carnivoren Erde mischen 
 - [ ] wischen 
@@ -365,7 +365,7 @@
 - [ ] todo aufräumen 
 - [x] vor dem Fenster putzen 
 - [ ] Ingwer rein
-- [ ] Lotus rein
+- [x] Lotus rein
 - [ ] carnivorenwasser 
 - [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
 - [ ] trotzdem floyed rose Tutorial 
