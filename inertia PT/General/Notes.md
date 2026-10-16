@@ -103,7 +103,10 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
-## 
+## 2026-10-16 Nadine 
+Ist ja schon ne krasse Entscheidung und ich kann's irgendwie immer noch nicht "glauben" dass das so belastend war mit Freddie dass ihr euch aus dem Weg gehen müsst. 
+
+Aber gut so gemeinsame Spieleabende sind halt tatsächlich doof bzw haben dann keinen Mehrwert
 ## 2026-10-10
 Sehr eigenartig, mir ist ne Erkenntnis gekommen. 
 

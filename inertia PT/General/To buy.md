@@ -17,9 +17,9 @@
 # Aldi
 ## Jetzt
 - Einkaufswagen 
-- [ ] Toast 
-- [ ] saft
 - [ ] Bier
+- [x] Toast 
+- [x] saft
 - [x] Zwiebeln 
 - [x] Äpfel 
 - [x] burger
