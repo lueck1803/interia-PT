@@ -460,12 +460,8 @@
 - [ ] bei der Aufgabe die Einheitsidentitäten ; machen 
 
 - [ ] Mathearbeit 5a?
-- [ ] Wie werden in Mathe die noten vergeben?  %% fold %%
 - [ ] proposal fertig schreiben %% fold %%
-- [ ] Antenne pc befestigen 
-- [ ] akustisches klavier oder ähnliches kaufen %% fold %%
-- [ ] Küche flächen + Ceranfeld wischen %% fold %%
-- [ ] Küchenflächen wischen  %% fold %%
+ %% fold %%
 - [ ] Checkliste Mathe schreiben  %% fold %%
 	- [ ] letzte plus  %% fold %%
 	- [ ] terme zusammen fassen  %% fold %%
@@ -505,7 +501,6 @@
 - [ ] Papierkram
 - [ ] Französisch aufschreiben
 - [ ] sofalehne dampfen %% fold %%
-- [ ] Batterie außen Thermometer  %% fold %%
 - [ ] Mich dringend um den Rechner kümmern %% fold %%
  %% fold %%
 - [ ] Arbeitsblatt der 10ten Klasse ab ändern
