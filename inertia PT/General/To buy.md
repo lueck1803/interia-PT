@@ -10,7 +10,7 @@
 - [ ] Schweißgerät *Parkside PFDS 120 A2*
 
 # Baumarkt 
-- [ ] 
+- [ ] 10 liter Gießkanne 
 # Apotheke
 - [ ] Betaisodona
 
