@@ -301,7 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [x] Duolingo 
-- [ ] Spülmaschine ausräumen + salz nachfüllen 
+- [x] Spülmaschine ausräumen + salz nachfüllen 
 - [ ] Spülmaschine einräumen 
 - [ ] Ceranfeld putzen 
 - [ ] Stuhl dampfen 
