@@ -330,7 +330,7 @@
 - [ ] Basilikum samen eintüten 
 - [ ] gießen 
 - [ ] laptop bildschirm putzen 
-- [ ] sand unter die carnivoren Erde mischen 
+- [x] sand unter die carnivoren Erde mischen 
 - [ ] wischen 
 - [ ] Wanderschuhe testen
 - [ ] Platz/ort für Mentoren treffen abchecken 
@@ -376,12 +376,11 @@
 - [ ] Mathearbeiten zusammen stellen 
 - [ ] Mathearbeiten in Klausur Planer eintragen 
 - [ ] proposal fertig schreiben 
-
 - [ ] näh/flick tutorial anschauen
 
 - Zähne putzen 
 	- [ ] morgens
-	- [ ] mittags
+	- [x] mittags
 	- [ ] abends 
 - [ ] Apfelschneider nochmal schweißen 
 - [ ] Mathearbeit konzipieren 
@@ -393,12 +392,10 @@
 - [ ] Mathe-Wettbewerb 
 - [ ] asteracea Samen lesen 
 - [ ] Herbstzeitlose lesen 
-- [ ] aktuelles aldi Prospekt 
 - [ ] Balkon kehren 
 - [ ] Medikamenten Packungen Front aufschneiden+einheften 
 - [ ] Krafttraining 
 - [ ] türkisch aufschreiben 
-- [ ] staub saugen
 - [ ] soße mit fisch, brokkoli und oliven kochen
 - [ ] Scanner
 	- [ ] manual lesen
@@ -413,9 +410,8 @@
 - [ ] Sofalehne dampfen
 - [ ] Krankenhauszeug einheften
 - [ ] Ibuprofen und Antibiotika wegräumen
-- [ ] handyladekabel putzens
+- [x] handyladekabel putzens
 - [ ] ebay Nachrichten checken 
-- [ ] stuhl dampfen
 - [ ] Papierkram  %% fold %%
 - [ ] Bildschirmproblem %% fold %%
 	- [ ] nochmal probieren an usb 3_4 zu stecken %% fold %%
