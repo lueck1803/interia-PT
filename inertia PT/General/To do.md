@@ -302,7 +302,7 @@
 
 - [x] Duolingo 
 - [x] Spülmaschine ausräumen + salz nachfüllen 
-- [ ] Spülmaschine einräumen 
+- [x] Spülmaschine einräumen 
 - [ ] Ceranfeld putzen 
 - [ ] Stuhl dampfen 
 - [ ] Kordel in Jogginghose 
