@@ -303,7 +303,7 @@
 - [x] Duolingo 
 - [x] Spülmaschine ausräumen + salz nachfüllen 
 - [x] Spülmaschine einräumen 
-- [ ] Sonnentau umsetzen 
+- [x] Sonnentau umsetzen 
 - [ ] Ceranfeld putzen 
 - [ ] Stuhl dampfen 
 - [ ] Kordel in Jogginghose 
@@ -342,7 +342,7 @@
 	- [x] anstellen
 	- [x] schleudern
 	- [x] aufhängen
-	- [ ] abhängen 
+	- [x] abhängen 
 	- [ ] zusammen legen 
 - [ ] was wegen fgm an der BAS machen 
 - [ ] 30° Wäsche
