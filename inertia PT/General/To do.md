@@ -301,6 +301,9 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Duolingo 
+- [ ] Spülmaschine ausräumen + salz nachfüllen 
+- [ ] Spülmaschine einräumen 
+- [ ] Ceranfeld putzen 
 - [ ] Stuhl dampfen 
 - [ ] Kordel in Jogginghose 
 - Waschbecken schrubben 
@@ -334,7 +337,6 @@
 - [ ] japanische 1-min regel lesen
 - [ ] video von motivations coach fertig
 - [ ] persönlichkeitstest machen
-- [ ] Spülmaschine ausräumen + salz nachfüllen 
 - [ ] 60° Wäsche mit Decke
 	- [x] anstellen
 	- [x] schleudern
@@ -348,12 +350,11 @@
 	- [x] aufhängen
 	- [x] abhängen 
 	- [ ] zusammen legen 
-- [ ] Ceranfeld putzen 
 - [ ] Liste sortieren nach abgehakt?
 - [ ] Ventil kappe für cityrad
 - [ ] Chiphalter kleben 
-- [ ] Glasmüll 
 - [ ] Schuhe aufrauen und testen 
+- [ ] Glasmüll 
 - [ ] mtb sitze zu weit vorne
 - [ ] Briefkasten 
 - [ ] Mathe Checkliste mit Beispielen/verweisen machen und raus schicken
@@ -416,7 +417,7 @@
 - [ ] stuhl dampfen
 - [ ] Papierkram  %% fold %%
 - [ ] Bildschirmproblem %% fold %%
-	- [ ] nochmal probieren an usb 3_4 zu stecken
+	- [ ] nochmal probieren an usb 3_4 zu stecken %% fold %%
 
 - [ ] fix homebrew - reinstall ninja ⟹ vorher macos updaten
 - [ ] laptophülle dampfen
