@@ -304,7 +304,7 @@
 - [x] Spülmaschine ausräumen + salz nachfüllen 
 - [x] Spülmaschine einräumen 
 - [x] Sonnentau umsetzen 
-- [ ] Erbsen 
+- [ ] Erbsen 0g
 - [ ] Ceranfeld putzen 
 - [ ] Stuhl dampfen 
 - [ ] Kordel in Jogginghose 
