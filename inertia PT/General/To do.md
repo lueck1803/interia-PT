@@ -324,16 +324,11 @@
 	- [x] aufhängen
 	- [ ] abhängen 
 	- [ ] zusammen legen 
-- [x] Bildschirme putzen 
 - [ ] rot grauen Rucksack 
 	- [ ] ausmisten 
 	- [ ] waschen 
 - [ ] Ventilator wegpacken
-- [x] Wachtelbohnen Kühlschrank checken
 - [ ] Basilikum samen eintüten 
-- [x] gießen 
-- [x] laptop bildschirm putzen 
-- [x] sand unter die carnivoren Erde mischen 
 - [ ] wischen 
 - [ ] Wanderschuhe testen
 - [ ] Platz/ort für Mentoren treffen abchecken 
@@ -341,19 +336,7 @@
 - [ ] japanische 1-min regel lesen
 - [ ] video von motivations coach fertig
 - [ ] persönlichkeitstest machen
-- [ ] 60° Wäsche mit Decke
-	- [x] anstellen
-	- [x] schleudern
-	- [x] aufhängen
-	- [x] abhängen 
-	- [ ] zusammen legen 
 - [ ] was wegen fgm an der BAS machen 
-- [ ] 30° Wäsche
-	- [x] anstellen
-	- [x] schleudern
-	- [x] aufhängen
-	- [x] abhängen 
-	- [ ] zusammen legen 
 - [ ] Liste sortieren nach abgehakt?
 - [ ] Ventil kappe für cityrad
 - [ ] Chiphalter kleben 
@@ -365,9 +348,7 @@
 - [ ] nochmal etwas mehr ins Buch schauen 
 - [ ] Flipflops reparieren 
 - [ ] todo aufräumen 
-- [x] vor dem Fenster putzen 
 - [ ] Ingwer rein
-- [x] Lotus rein
 - [ ] carnivorenwasser 
 - [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
 - [ ] trotzdem floyed rose Tutorial 
@@ -377,7 +358,6 @@
 	- [ ] Windows bloatware Video 
 - [ ] Papierkram 
 - [ ] Mathearbeiten zusammen stellen 
-- [x] Mathearbeiten in Klausur Planer eintragen 
 - [ ] proposal fertig schreiben 
 - [ ] näh/flick tutorial anschauen
 
@@ -407,10 +387,9 @@
 - [ ] HNO Ambulanz termin machen
 	- 📞☎️06151 107 4213
 - [ ] Bohnen ernten 
-- [ ] Sofalehne dampfen
+- [ ] Sofalehne dampfen %% fold %%
 - [ ] Krankenhauszeug einheften
 - [ ] Ibuprofen und Antibiotika wegräumen
-- [x] handyladekabel putzens
 - [ ] ebay Nachrichten checken  %% fold %%
 - [ ] Papierkram  %% fold %%
 - [ ] Bildschirmproblem %% fold %%
@@ -420,7 +399,6 @@
 - [ ] laptophülle dampfen
 - [ ] rot-grauen Rucksack waschen
 - [ ] Ausarbeitung Distributiv - exponential gesetz fertig machen
-- [x] kiwi umsetzen 
 - [ ] Elias 
 	- [ ] Abschnitt aus dem Griffith lesen
 
@@ -431,7 +409,6 @@
 - [x] dünne pics kaufen
 	- Plektrumstärke: <font color="#00b050">0,6mm</font> %% fold %%
 - [ ] 8a 1+ für freitag eintragen, alle die am Freitag heft abgegeben haben, rest 4.
-- [x] Erklärung zur Prozentrechnung abtippen in Gruppe schicken %% fold %%
 - [ ] kleines grünes Gewächshaus aus und Aufräumen  %% fold %%
 - [ ] Konto checken %% fold %%
 - [ ] Mischa schreiben ob Geld da ist %% fold %%
