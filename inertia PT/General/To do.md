@@ -303,9 +303,6 @@
 - [x] Duschen 
 - [ ] schriftliches dividieren, wann kommen nullen rein?
 - [x] Duolingo 
-- [x] Spülmaschine ausräumen + salz nachfüllen 
-- [x] Spülmaschine einräumen 
-- [x] Sonnentau umsetzen 
 - [ ] Erbsen 0g
 - [ ] Ceranfeld putzen 
 - [ ] Stuhl dampfen 
@@ -313,7 +310,6 @@
 - Waschbecken schrubben 
 	- [x] Bad 
 	- [ ] Küche 
-- [x] Mathe Klausur für Montag in 2 oder 3 Wochen eintragen 
 - kalmah üben
 	- [ ] black waltz rythm 
 	- [ ] black Waltz solo 75%
@@ -389,7 +385,7 @@
 - [ ] Bohnen ernten 
 - [ ] Sofalehne dampfen %% fold %%
 - [ ] Krankenhauszeug einheften
-- [ ] Ibuprofen und Antibiotika wegräumen
+- [ ] Ibuprofen und Antibiotika wegräumen %% fold %%
 - [ ] ebay Nachrichten checken  %% fold %%
 - [ ] Papierkram  %% fold %%
 - [ ] Bildschirmproblem %% fold %%
