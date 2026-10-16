@@ -17,8 +17,7 @@
 # Aldi
 ## Jetzt
 - Einkaufswagen 
-- [ ] Schranklicht 8.10. (gabs glaube keins mehr)
-- [x] Toast 
+- [ ] Toast 
 - [x] Zwiebeln 
 - [x] Äpfel 
 - [x] Fahrradhelm 
