@@ -300,7 +300,7 @@
 - <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- [ ] Duolingo 
+- [x] Duolingo 
 - [ ] Spülmaschine ausräumen + salz nachfüllen 
 - [ ] Spülmaschine einräumen 
 - [ ] Ceranfeld putzen 
