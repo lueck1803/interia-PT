@@ -301,56 +301,71 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Duolingo 
-- [x] Esstisch isch wischen 
+- [x] Duschen 
+- [ ] Kordel in Jogginghose 
+- [x] Rasierer ölen + reinigen 
+- [x] grau rote sofa decke waschen 
+- [x] Bad Spiegel 
+- [x] Tischspiegel 
+- Waschbecken schrubben 
+	- [x] Bad 
+	- [ ] Küche 
+- [ ] Mathe Klausur für Montag in 2 oder 3 Wochen eintragen 
+- kalmah üben
+	- [ ] black waltz rythm 
+	- [ ] black Waltz solo 75%
+- [ ] Tafel wischen 
+- [ ] helle Wäsche 
+	- [x] anstellen
+	- [x] schleudern
+	- [x] aufhängen
+	- [ ] abhängen 
+	- [ ] zusammen legen 
+- [x] Bildschirme putzen 
+- [ ] rot grauen Rucksack 
+	- [ ] ausmisten 
+	- [ ] waschen 
+- [ ] Ventilator wegpacken
+- [ ] Wachtelbohnen Kühlschrank checken
+- [x] usb c Handy reinigen
+- [x] Kontaktspray 
+- [ ] Basilikum samen eintüten 
 - [ ] gießen 
 - [ ] laptop bildschirm putzen 
 - [ ] Bart pflegen/rasieren 
+- [x] laptop bildschirm putzen
+- [x] Bart pflegen/rasieren 
 - [ ] sand unter die carnivoren Erde mischen 
-- [ ] Duschen 
 - [ ] staubsaugen 
 - [ ] wischen 
-- [x] Nägel knipsen 
 - [ ] Wanderschuhe testen
-- [x] Gitarre zum Arnold bringen
 - [ ] Platz/ort für Mentoren treffen abchecken 
-- [ ] gelber Sack
+- [x] gelber Sack
 - [ ] shadow work lesen
 - [ ] japanische 1-min regel lesen
 - [ ] video von motivations coach fertig
 - [ ] persönlichkeitstest machen
 - [ ] Spülmaschine ausräumen + salz nachfüllen 
-- [x] Kaffeesatz
-- [x] Öl zurück 
-- [x] Nudeln in den Kühlschrank 
 - [ ] 60° Wäsche mit Decke
 	- [x] anstellen
 	- [x] schleudern
 	- [x] aufhängen
 	- [ ] abhängen 
-- [x] Bett beziehen
+	- [ ] zusammen legen 
 - [ ] was wegen fgm an der BAS machen 
 - [ ] 30° Wäsche
 	- [x] anstellen
 	- [x] schleudern
 	- [x] aufhängen
-	- [ ] abhängen 
+	- [x] abhängen 
+	- [ ] zusammen legen 
 - [ ] Ceranfeld putzen 
-- [x]  Heißkleber testen 
-- [x] Sekundenkleber  testen 
-- [x] Medikament abholen
 - [ ] Liste sortieren nach abgehakt?
 - [ ] Ventil kappe für cityrad
 - [ ] Chiphalter kleben 
-- [x] Gruppe (nchat) mentees - Termin erstellen
 - [ ] Glasmüll 
 - [ ] Schuhe aufrauen und testen 
 - [ ] mtb sitze zu weit vorne
-- [x] staubsaugerschlauch kleben
-- [x] Käsereibe kleben 
-	- [ ] endfest?
-	- [x] Sekundenkleber 
-	- [ ] Hartplastik kleber?
-- [x] aktuelles Landesticket unterschrieben?
 - [ ] Briefkasten 
 - [ ] Mathe Checkliste mit Beispielen/verweisen machen und raus schicken
 - [ ] nochmal etwas mehr ins Buch schauen 
@@ -359,36 +374,27 @@
 - [ ] vor dem Fenster putzen 
 - [ ] Ingwer rein
 - [ ] Lotus rein
-- [ ] farn mit Kaffee Wasser gießen
-- [x] Äpfel waschen 
-- [x] Behälter putzen 
-- [x] Birnen waschen 
-- [ ] kalmah solo 75%
 - [ ] carnivorenwasser 
 - [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
 - [ ] trotzdem floyed rose Tutorial 
-- [ ] tastatur wischen
-	- [ ] pc
-	- [ ] Laptop 
+- [x] tastatur wischen
+	- [x] pc
+	- [x] Laptop 
 - [ ] pc Stecker 
 	- [ ] Tutorial Video schauen 
 	- [ ] nochmal alles ab checken 
 	- [ ] Windows bloatware Video 
-- [x] Wäsche zusammen legen 
 - [ ] Papierkram 
 - [ ] Mathearbeiten zusammen stellen 
 - [ ] Mathearbeiten in Klausur Planer eintragen 
 - [ ] proposal fertig schreiben 
 
-- [x] dünne plektren kaufen
 - [ ] näh/flick tutorial anschauen
 
 - Zähne putzen 
 	- [ ] morgens
 	- [ ] mittags
 	- [ ] abends 
-- [x] Fahrradhelm anprobieren 
-	- netter kuschelhelm
 - [ ] Apfelschneider nochmal schweißen 
 - [ ] Mathearbeit konzipieren 
 	- [ ] 8 a
@@ -426,28 +432,23 @@
 - [ ] Bildschirmproblem
 	- [ ] nochmal probieren an usb 3_4 zu stecken
 
-- [ ] Plektren in der Stadt kaufen
-	- laden hatte zu
 - [ ] fix homebrew - reinstall ninja ⟹ vorher macos updaten
 - [ ] laptophülle dampfen
 - [ ] rot-grauen Rucksack waschen
 - [ ] Ausarbeitung Distributiv - exponential gesetz fertig machen
 - [ ] kiwi umsetzen 
-- [ ] Waschbecken schrubben 
-	- [ ] Bad 
-	- [ ] Küche 
 - [ ] Elias 
 	- [ ] Abschnitt aus dem Griffith lesen
 
-
-- [ ] dpg Beitragsgruppe wechseln 
-- [ ] Dusche schrubben 
+ %% fold %%
+- [ ] dpg Beitragsgruppe wechseln  %% fold %%
+- [ ] Dusche schrubben  %% fold %%
 - [ ] Farben in Xournal ergänzen %% fold %%
 - [ ] dünne pics kaufen %% fold %%
 	- Plektrumstärke: <font color="#00b050">0,6mm</font> %% fold %%
 - [ ] 8a 1+ für freitag eintragen, alle die am Freitag heft abgegeben haben, rest 4.
-- [ ] Erklärung zur Prozentrechnung abtippen in Gruppe schicken
-- [ ] Lotus rein stellen 
+- [ ] Erklärung zur Prozentrechnung abtippen in Gruppe schicken %% fold %%
+- [ ] Lotus rein stellen  %% fold %%
 - [ ] kleines grünes Gewächshaus aus und Aufräumen  %% fold %%
 - [ ] Konto checken %% fold %%
 - [ ] Mischa schreiben ob Geld da ist %% fold %%
