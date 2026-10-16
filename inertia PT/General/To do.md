@@ -363,7 +363,7 @@
 - [ ] nochmal etwas mehr ins Buch schauen 
 - [ ] Flipflops reparieren 
 - [ ] todo aufräumen 
-- [ ] vor dem Fenster putzen 
+- [x] vor dem Fenster putzen 
 - [ ] Ingwer rein
 - [ ] Lotus rein
 - [ ] carnivorenwasser 
