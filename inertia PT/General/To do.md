@@ -310,7 +310,7 @@
 - Waschbecken schrubben 
 	- [x] Bad 
 	- [ ] Küche 
-- [ ] Mathe Klausur für Montag in 2 oder 3 Wochen eintragen 
+- [x] Mathe Klausur für Montag in 2 oder 3 Wochen eintragen 
 - kalmah üben
 	- [ ] black waltz rythm 
 	- [ ] black Waltz solo 75%
@@ -329,7 +329,7 @@
 - [ ] Wachtelbohnen Kühlschrank checken
 - [ ] Basilikum samen eintüten 
 - [ ] gießen 
-- [ ] laptop bildschirm putzen 
+- [x] laptop bildschirm putzen 
 - [x] sand unter die carnivoren Erde mischen 
 - [ ] wischen 
 - [ ] Wanderschuhe testen
