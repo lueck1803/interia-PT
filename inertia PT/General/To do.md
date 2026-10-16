@@ -417,7 +417,7 @@
 - [ ] ebay Nachrichten checken 
 - [ ] stuhl dampfen
 - [ ] Papierkram 
-- [ ] Bildschirmproblem
+- [ ] Bildschirmproblem %% fold %%
 	- [ ] nochmal probieren an usb 3_4 zu stecken
 
 - [ ] fix homebrew - reinstall ninja ⟹ vorher macos updaten
