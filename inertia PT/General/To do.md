@@ -421,7 +421,7 @@
 - [ ] laptophülle dampfen
 - [ ] rot-grauen Rucksack waschen
 - [ ] Ausarbeitung Distributiv - exponential gesetz fertig machen
-- [ ] kiwi umsetzen 
+- [x] kiwi umsetzen 
 - [ ] Elias 
 	- [ ] Abschnitt aus dem Griffith lesen
 
@@ -433,7 +433,6 @@
 	- Plektrumstärke: <font color="#00b050">0,6mm</font> %% fold %%
 - [ ] 8a 1+ für freitag eintragen, alle die am Freitag heft abgegeben haben, rest 4.
 - [ ] Erklärung zur Prozentrechnung abtippen in Gruppe schicken %% fold %%
-- [ ] Lotus rein stellen  %% fold %%
 - [ ] kleines grünes Gewächshaus aus und Aufräumen  %% fold %%
 - [ ] Konto checken %% fold %%
 - [ ] Mischa schreiben ob Geld da ist %% fold %%
