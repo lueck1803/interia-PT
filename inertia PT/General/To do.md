@@ -301,6 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Duschen 
+- [ ] schriftliches dividieren, wann kommen nullen rein?
 - [x] Duolingo 
 - [x] Spülmaschine ausräumen + salz nachfüllen 
 - [x] Spülmaschine einräumen 
@@ -509,11 +510,10 @@
 	- [ ] Kasten und die Beschreibung Info/Formel mit dazu schreiben
 
  %% fold %%
-- [ ] schriftliches dividieren, wann kommen nullen rein?
 - [ ] Epson beamer - usb video Wlan %% fold %%
 
 - [ ] bloody valkyria - age of stars piano raus hören 
-- [ ] hab ich das mesa metalcore preset auf dem podgo
+- [ ] hab ich das mesa metalcore preset auf dem podgo %% fold %%
 - [ ] grüne schuhe aufrauen %% fold %%
 
  %% fold %%
