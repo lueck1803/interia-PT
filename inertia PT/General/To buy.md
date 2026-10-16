@@ -18,6 +18,8 @@
 ## Jetzt
 - Einkaufswagen 
 - [ ] Toast 
+- [ ] saft
+- [ ] Bier
 - [x] Zwiebeln 
 - [x] Äpfel 
 - [x] burger
@@ -25,24 +27,19 @@
 - [x] Tomaten 
 - [x] pizza
 - [x] Knoblauch 
-- [x] saft
 - [x] Hafermilch
 - [x] Waschpulver 
 - [x] Fusilli
 - [x] Müsli
-- [x] saft
 - [x] pizza
-- [x] Saft
-- [x] ~~Auberginen~~ Pilze 
+- [x] ~~Auberginen~
+- [x] Pilze 
 - [x] Schmelzkäse Scheiben
 - [x] hummus
 - [x] Hartkäse
 - [x] gauda mittelalt
 - [x] toast
-- [x] Bier
 - [x] Bananen
-- [x] Pilze
-- [x] Toast
 
 
 ## später mal
