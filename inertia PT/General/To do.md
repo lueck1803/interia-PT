@@ -302,12 +302,7 @@
 
 - [ ] Duolingo 
 - [ ] Stuhl dampfen 
-- [x] Duschen 
 - [ ] Kordel in Jogginghose 
-- [x] Rasierer ölen + reinigen 
-- [x] grau rote sofa decke waschen 
-- [x] Bad Spiegel 
-- [x] Tischspiegel 
 - Waschbecken schrubben 
 	- [x] Bad 
 	- [ ] Küche 
@@ -328,20 +323,15 @@
 	- [ ] waschen 
 - [ ] Ventilator wegpacken
 - [ ] Wachtelbohnen Kühlschrank checken
-- [x] usb c Handy reinigen
-- [x] Kontaktspray 
 - [ ] Basilikum samen eintüten 
 - [ ] gießen 
 - [ ] laptop bildschirm putzen 
 - [ ] Bart pflegen/rasieren 
-- [x] laptop bildschirm putzen
-- [x] Bart pflegen/rasieren 
 - [ ] sand unter die carnivoren Erde mischen 
-- [ ] staubsaugen 
+- [x] staubsaugen 
 - [ ] wischen 
 - [ ] Wanderschuhe testen
 - [ ] Platz/ort für Mentoren treffen abchecken 
-- [x] gelber Sack
 - [ ] shadow work lesen
 - [ ] japanische 1-min regel lesen
 - [ ] video von motivations coach fertig
@@ -378,9 +368,6 @@
 - [ ] carnivorenwasser 
 - [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
 - [ ] trotzdem floyed rose Tutorial 
-- [x] tastatur wischen
-	- [x] pc
-	- [x] Laptop 
 - [ ] pc Stecker 
 	- [ ] Tutorial Video schauen 
 	- [ ] nochmal alles ab checken 
