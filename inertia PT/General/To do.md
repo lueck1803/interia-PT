@@ -326,9 +326,7 @@
 - [ ] Basilikum samen eintüten 
 - [ ] gießen 
 - [ ] laptop bildschirm putzen 
-- [ ] Bart pflegen/rasieren 
 - [ ] sand unter die carnivoren Erde mischen 
-- [x] staubsaugen 
 - [ ] wischen 
 - [ ] Wanderschuhe testen
 - [ ] Platz/ort für Mentoren treffen abchecken 
@@ -416,7 +414,7 @@
 - [ ] handyladekabel putzens
 - [ ] ebay Nachrichten checken 
 - [ ] stuhl dampfen
-- [ ] Papierkram 
+- [ ] Papierkram  %% fold %%
 - [ ] Bildschirmproblem %% fold %%
 	- [ ] nochmal probieren an usb 3_4 zu stecken
 
