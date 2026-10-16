@@ -374,7 +374,7 @@
 	- [ ] Windows bloatware Video 
 - [ ] Papierkram 
 - [ ] Mathearbeiten zusammen stellen 
-- [ ] Mathearbeiten in Klausur Planer eintragen 
+- [x] Mathearbeiten in Klausur Planer eintragen 
 - [ ] proposal fertig schreiben 
 - [ ] näh/flick tutorial anschauen
 
