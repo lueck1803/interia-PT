@@ -301,6 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Duolingo 
+- [ ] Stuhl dampfen 
 - [x] Duschen 
 - [ ] Kordel in Jogginghose 
 - [x] Rasierer ölen + reinigen 
