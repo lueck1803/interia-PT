@@ -398,9 +398,6 @@
 - [ ] Krafttraining 
 - [ ] türkisch aufschreiben 
 - [ ] soße mit fisch, brokkoli und oliven kochen
-- [ ] Scanner
-	- [ ] manual lesen
-	- [ ] googlen wie man mit dem Deckel richtig umgeht 
 - [ ] Spaziergang 
 - [ ] aldi nachrechnen 
 - [ ] Was zu $2^{1/2}$ aufschreiben in das Handout
@@ -412,7 +409,7 @@
 - [ ] Krankenhauszeug einheften
 - [ ] Ibuprofen und Antibiotika wegräumen
 - [x] handyladekabel putzens
-- [ ] ebay Nachrichten checken 
+- [ ] ebay Nachrichten checken  %% fold %%
 - [ ] Papierkram  %% fold %%
 - [ ] Bildschirmproblem %% fold %%
 	- [ ] nochmal probieren an usb 3_4 zu stecken %% fold %%
@@ -429,10 +426,10 @@
 - [ ] dpg Beitragsgruppe wechseln  %% fold %%
 - [ ] Dusche schrubben  %% fold %%
 - [ ] Farben in Xournal ergänzen %% fold %%
-- [ ] dünne pics kaufen %% fold %%
+- [x] dünne pics kaufen
 	- Plektrumstärke: <font color="#00b050">0,6mm</font> %% fold %%
 - [ ] 8a 1+ für freitag eintragen, alle die am Freitag heft abgegeben haben, rest 4.
-- [ ] Erklärung zur Prozentrechnung abtippen in Gruppe schicken %% fold %%
+- [x] Erklärung zur Prozentrechnung abtippen in Gruppe schicken %% fold %%
 - [ ] kleines grünes Gewächshaus aus und Aufräumen  %% fold %%
 - [ ] Konto checken %% fold %%
 - [ ] Mischa schreiben ob Geld da ist %% fold %%
