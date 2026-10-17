@@ -18,6 +18,9 @@
 ## Jetzt
 - Einkaufswagen 
 - [ ] Bier
+- [ ] saft
+- [ ] nuss nougat
+- [ ] gemüse?
 - [x] Toast 
 - [x] saft
 - [x] Zwiebeln 
