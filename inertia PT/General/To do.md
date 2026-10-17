@@ -306,7 +306,7 @@
 - [ ] Erbsen 0g
 - [ ] Ceranfeld putzen 
 - [ ] Stuhl dampfen 
-- [ ] Kordel in Jogginghose 
+- [x] Kordel in Jogginghose 
 - Waschbecken schrubben 
 	- [x] Bad 
 	- [ ] Küche 
