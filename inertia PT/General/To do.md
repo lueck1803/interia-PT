@@ -302,6 +302,7 @@
 
 - [x] Duschen 
 - [ ] schriftliches dividieren, wann kommen nullen rein?
+- [ ] blaue Socken flicken 
 - [x] Duolingo 
 - [ ] Erbsen 0g
 - [ ] Ceranfeld putzen 
