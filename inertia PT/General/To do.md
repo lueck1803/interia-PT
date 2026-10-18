@@ -303,8 +303,9 @@
 - [ ] Duschen 
 - [ ] schriftliches dividieren, wann kommen nullen rein?
 - [ ] blaue Socken flicken 
+- [ ] Tomaten waschen 
 - [ ] Duolingo 
-- [ ] Erbsen 0g
+- [x] Erbsen 0g
 - [ ] Ceranfeld putzen 
 - [ ] Stuhl dampfen 
 - Waschbecken schrubben 
