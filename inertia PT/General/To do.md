@@ -300,14 +300,13 @@
 - <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- [x] Duschen 
+- [ ] Duschen 
 - [ ] schriftliches dividieren, wann kommen nullen rein?
 - [ ] blaue Socken flicken 
-- [x] Duolingo 
+- [ ] Duolingo 
 - [ ] Erbsen 0g
 - [ ] Ceranfeld putzen 
 - [ ] Stuhl dampfen 
-- [x] Kordel in Jogginghose 
 - Waschbecken schrubben 
 	- [x] Bad 
 	- [ ] Küche 
