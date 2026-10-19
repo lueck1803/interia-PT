@@ -928,20 +928,11 @@
 		- [ ] App checken
 		- [ ] Muss ich neue Angaben machen?
 
-- [ ] 30 min Gitarre spielen  %% fold %%
-	- [ ] ~={MediumViolet}fraught=~ ~={DeepSkyBlue}mit Timer=~
-		- [ ] intro lead mit slide %% fold %%
-	- [ ] ~={DeepSkyBlue} Dream and the waking=~ <font color="#ff0000">im stehen</font>
-		- [ ] Stakkato 
-		- [ ] intro lead
-		- [ ] Melodie 
-		- [ ] Tremolo Picking 
-
-- [x] Laptop mit tb -> dp an Bildschirm 
+- [x] Laptop mit tb -> dp an Bildschirm  %% fold %%
       ⤷ funktioniert <font color="#ff1493">wunderbar</font> %% fold %%
-- [ ] mich um den pc kümmern
-
-
+- [ ] mich um den pc kümmern %% fold %%
+ %% fold %%
+ %% fold %%
 - [ ] Wie nutze ich zum Kalender sync mit obsidian? %% fold %%
 	- <font color="#ff1493">Day Planner</font>??? %% fold %%
 		- sieht irgendwie genauso aus wie das was ich will??? %% fold %%
@@ -1000,7 +991,6 @@
 - [ ] wie nennt man das was ich an der Schläfe habe?
 	- [ ] welche weiteren Mittel gibt es
 
-- [ ] Kehrblech für Balkon kaufen  %% fold %%
 - [x] thunderbolt ex4 Anschluss prüfen %% fold %%
 	- [x] testweise usb e1234 ausschalten  %% fold %%
 		- [x] ausschalten ohne power trennung nach ausschaltung ⟹ Bildschirm geht trotzdem
