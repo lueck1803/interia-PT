@@ -312,6 +312,7 @@
 	- [x] p 10a
 - [x] Duschen 
 - [ ] Spaziergang
+- [ ] Hustenbonbons in Dose in Rucksack 
 - [ ] Bart 
 - [ ] Hängetopf Untersetzer wieder rein
 - [ ] laptop tastatur wischen
