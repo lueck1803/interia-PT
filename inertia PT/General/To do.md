@@ -314,7 +314,6 @@
 - [ ] Hängetopf Untersetzer wieder rein
 - [ ] laptop tastatur wischen
 - [ ] Mathe Übungsblatt zur Klausur erstellen 
-- [ ] eintrag mein unterricht Mappe 
 - [ ] wann Mathearbeit 5a
 - [x] Nudeln kochen 
 - [ ] Nudeln in den Kühlschrank 
