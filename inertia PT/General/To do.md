@@ -790,7 +790,7 @@
 - [ ] Lochkamera neu
 	- [ ] ausrechnen wie groß das Bild sein soll %% fold %%
 - [ ] mathe info blatt %% fold %%
-	- [ ] Zahlenstrahl 
+	- [ ] Zahlenstrahl  %% fold %%
 		- [ ] N
 		- [ ] Z
 		- [ ] Q
