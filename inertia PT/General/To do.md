@@ -316,12 +316,9 @@
 - [ ] laptop tastatur wischen
 - [ ] Mathe Übungsblatt zur Klausur erstellen 
 - [ ] wann Mathearbeit 5a
-- [x] Nudeln kochen 
 - [ ] Nudeln in den Kühlschrank 
 - [ ] rote Mütze waschen 
 - [ ] schriftliches dividieren, wann kommen nullen rein?
-- [x] blaue Socken flicken 
-- [x] Tomaten waschen 
 - [x] Duolingo 
 - [ ] Ceranfeld putzen 
 - [ ] Stuhl dampfen 
@@ -338,7 +335,6 @@
 - [ ] Ventilator wegpacken
 - [ ] Basilikum samen eintüten 
 - [ ] wischen 
-- [x] Wanderschuhe testen
 - [ ] Platz/ort für Mentoren treffen abchecken 
 - [ ] shadow work lesen
 - [ ] japanische 1-min regel lesen
@@ -356,7 +352,6 @@
 - [ ] nochmal etwas mehr ins Buch schauen 
 - [ ] Flipflops reparieren 
 - [ ] todo aufräumen 
-- [x] carnivorenwasser
 - [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
 - [ ] trotzdem floyed rose Tutorial 
 - [ ] pc Stecker 
