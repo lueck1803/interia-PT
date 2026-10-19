@@ -300,8 +300,19 @@
 - <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
+
+- [x] kursmappe
+	- [x] m 5a %% fold %%
+	- [x] m 8a
+	- [x] m 8b
+	- [x] p 8a
+	- [x] p 8b
+	- [x] p 8c %% fold %%
+	- [x] p 10b %% fold %%
+	- [x] p 10a
 - [x] Duschen 
 - [ ] Hängetopf Untersetzer wieder rein
+- [ ] laptop tastatur wischen
 - [ ] Mathe Übungsblatt zur Klausur erstellen 
 - [ ] eintrag mein unterricht Mappe 
 - [ ] wann Mathearbeit 5a
@@ -312,7 +323,6 @@
 - [ ] blaue Socken flicken 
 - [ ] Tomaten waschen 
 - [x] Duolingo 
-- [x] Erbsen 0g
 - [ ] Ceranfeld putzen 
 - [ ] Stuhl dampfen 
 - Waschbecken schrubben 
@@ -346,7 +356,6 @@
 - [ ] nochmal etwas mehr ins Buch schauen 
 - [ ] Flipflops reparieren 
 - [ ] todo aufräumen 
-- [x] Ingwer rein
 - [ ] carnivorenwasser 
 - [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
 - [ ] trotzdem floyed rose Tutorial 
@@ -360,8 +369,8 @@
 - [ ] näh/flick tutorial anschauen
 
 - Zähne putzen 
-	- [ ] morgens
-	- [x] mittags
+	- [x] morgens›
+	- [ ] mittags
 	- [ ] abends 
 - [ ] Apfelschneider nochmal schweißen 
 - [ ] Mathearbeit konzipieren 
@@ -392,7 +401,7 @@
 - [ ] Papierkram  %% fold %%
 - [ ] Bildschirmproblem %% fold %%
 	- [ ] nochmal probieren an usb 3_4 zu stecken %% fold %%
-
+ %% fold %%
 - [ ] fix homebrew - reinstall ninja ⟹ vorher macos updaten
 - [ ] laptophülle dampfen
 - [ ] rot-grauen Rucksack waschen
@@ -414,28 +423,19 @@
 - [ ] Bürstenaufsatz bestellen %% fold %%
 - [ ] Briefkasten  %% fold %%
  %% fold %%
-- [x] kursmappe  %% fold %%
-	- [x] m 5a %% fold %%
-	- [ ] m 8a
-	- [ ] m 8b
-	- [ ] p 8a
-	- [x] p 8b
-	- [x] p 8c %% fold %%
-	- [x] p 10b %% fold %%
-	- [x] p 10a
+
 
 
 - [ ] Haftpflicht Versicherung 
 - [ ] Schlüsselhaftpflicht 
-
+ %% fold %%
 - [ ] checkliste für 8te klasse mathe, so wie anas sie mir geschickt hat
 - [ ] Mathe Arbeit 8te Klasse machen 
-- [ ] emily ist am 25.9 nicht da abklären mit fr rohr
 - [ ] Physik 8 Arbeitsblatt D) da ist ein "um"  zu viel
 - [ ] 2) Satz umschreiben mit Beispiel $5\cdot 1=5$
 - [ ] bei der Aufgabe die Einheitsidentitäten ; machen 
 
-- [ ] Mathearbeit 5a?
+- [ ] Mathearbeit 5a? %% fold %%
 - [ ] proposal fertig schreiben %% fold %%
  %% fold %%
 - [ ] Checkliste Mathe schreiben  %% fold %%
@@ -487,7 +487,6 @@
  %% fold %%
 - [ ] Epson beamer - usb video Wlan %% fold %%
 
-- [ ] bloody valkyria - age of stars piano raus hören 
 - [ ] hab ich das mesa metalcore preset auf dem podgo %% fold %%
 - [ ] grüne schuhe aufrauen %% fold %%
 
@@ -518,27 +517,6 @@
 				- [ ] Distributivgesetz
 			- [ ] Übungen zu den Rechen gesetzen
 
-- schul.cloud %% fold %%
-	- [x] Gruppen trennen 
-		- [ ] Einladungen checken
-	- [ ] Nachrichten:
-		- [ ] Allen schreiben, was ich ab jetzt von denen erwarte:
-			- [ ] Schreiben, dass ich jetzt strenger sein werde und nicht mitgebrachte Sachen ne Sechs im Arbeitsverhalten für den jeweiligen Tag sind
-			- [ ] Jeder soll nen Hefter mitbringen <font color="#548dd4">Mathe blau</font>, Physik egal was übrig ist zb. weiß oder schwarz
-			- [ ] ich möchte dass jeder ne Ordnung führt
-			- [ ] wer Blätter im Raum vergisst, bekommt auch nen schlechte note im Arbeitsverhalten
-			- [ ] ich möchte generell Blätter nur einmal austeilen
-	- [ ] umbenennungen und Löschungen
-		- [ ] sara El adhane hat 3 Accounts %% fold %%
-		- [ ] Shanaja . -> Shanaja Patrick
-		- [ ] Yahya . -> Yahya Kharbouch
-	- [ ] Mathe Förder einrichten und Einladen
-		- [ ] Hana
-		- [ ] Shanaja
-		- [ ] Xenia
-	- [x] 8b M+P Gruppenbild ändern
-	- [x] 8c P Gruppe erstellen
-	
  
  %% fold %%
 
@@ -749,10 +727,6 @@
 	His fourth class is gym. It is just exercising.
 	
 	- History is his last class of the day. Lucas has a hard time staying awake. Many lessons are boring, and he is very tired after doing gym.
-- [ ] Tastatur wischen 
-	- [ ] laptop
-	- [ ] PC
-	- [ ] Wasser austauschen %% fold %%
 
 - [ ] Unterricht 10a/b
 - [ ] rechten neuen flipflop reparieren 
@@ -800,8 +774,6 @@
 	- [ ] beim board ausprobieren die Expander anzubringen 
 - [ ] wie funktioniert das mit #task richtig?
 - [ ] tipler srt
-- [ ] Muskateller Salbei Samen abtrennen und in eine Dose 
-
 
 
 - [ ] bis Freitag in die Mathe-Wettbewerb Aufgaben schauen 
@@ -817,9 +789,6 @@
 	- [ ] Herleitung 
 - [ ] Lochkamera neu
 	- [ ] ausrechnen wie groß das Bild sein soll %% fold %%
-- [ ] Waschbecken %% fold %%
-	- [ ] bad %% fold %%
-	- [ ] Küche  %% fold %%
 - [ ] mathe info blatt %% fold %%
 	- [ ] Zahlenstrahl 
 		- [ ] N
