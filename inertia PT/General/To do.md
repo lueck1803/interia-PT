@@ -302,6 +302,8 @@
 
 - [x] Duschen 
 - [ ] Mathe Übungsblatt zur Klausur erstellen 
+- [ ] eintrag mein unterricht Mappe 
+- [ ] wann Mathearbeit 5a
 - [ ] schriftliches dividieren, wann kommen nullen rein?
 - [ ] blaue Socken flicken 
 - [ ] Tomaten waschen 
