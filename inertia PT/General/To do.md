@@ -311,6 +311,7 @@
 	- [x] p 10b %% fold %%
 	- [x] p 10a
 - [x] Duschen 
+- [ ] Bart 
 - [ ] Hängetopf Untersetzer wieder rein
 - [ ] laptop tastatur wischen
 - [ ] Mathe Übungsblatt zur Klausur erstellen 
