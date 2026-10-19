@@ -310,7 +310,7 @@
 - [ ] schriftliches dividieren, wann kommen nullen rein?
 - [ ] blaue Socken flicken 
 - [ ] Tomaten waschen 
-- [ ] Duolingo 
+- [x] Duolingo 
 - [x] Erbsen 0g
 - [ ] Ceranfeld putzen 
 - [ ] Stuhl dampfen 
