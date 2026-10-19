@@ -338,7 +338,7 @@
 - [ ] Ventilator wegpacken
 - [ ] Basilikum samen eintüten 
 - [ ] wischen 
-- [ ] Wanderschuhe testen
+- [x] Wanderschuhe testen
 - [ ] Platz/ort für Mentoren treffen abchecken 
 - [ ] shadow work lesen
 - [ ] japanische 1-min regel lesen
@@ -349,14 +349,14 @@
 - [ ] Ventil kappe für cityrad
 - [ ] Chiphalter kleben 
 - [ ] Schuhe aufrauen und testen 
-- [ ] Glasmüll 
+- [x] Glasmüll
 - [ ] mtb sitze zu weit vorne
 - [ ] Briefkasten 
 - [ ] Mathe Checkliste mit Beispielen/verweisen machen und raus schicken
 - [ ] nochmal etwas mehr ins Buch schauen 
 - [ ] Flipflops reparieren 
 - [ ] todo aufräumen 
-- [ ] carnivorenwasser 
+- [x] carnivorenwasser
 - [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
 - [ ] trotzdem floyed rose Tutorial 
 - [ ] pc Stecker 
@@ -370,7 +370,7 @@
 
 - Zähne putzen 
 	- [x] morgens›
-	- [ ] mittags
+	- [x] mittags
 	- [ ] abends 
 - [ ] Apfelschneider nochmal schweißen 
 - [ ] Mathearbeit konzipieren 
@@ -387,7 +387,7 @@
 - [ ] Krafttraining 
 - [ ] türkisch aufschreiben 
 - [ ] soße mit fisch, brokkoli und oliven kochen
-- [ ] Spaziergang 
+- [x] Spaziergang
 - [ ] aldi nachrechnen 
 - [ ] Was zu $2^{1/2}$ aufschreiben in das Handout
 	- [ ] https://www.youtube.com/watch?v=NbKa-o3ztDo&list=WL&index=21
