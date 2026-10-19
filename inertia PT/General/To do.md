@@ -301,7 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [x] Duschen 
-- [ ] Mathe Übungsblatt zur kl
+- [ ] Mathe Übungsblatt zur Klausur erstellen 
 - [ ] schriftliches dividieren, wann kommen nullen rein?
 - [ ] blaue Socken flicken 
 - [ ] Tomaten waschen 
