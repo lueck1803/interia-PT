@@ -1019,7 +1019,7 @@ Ich hab dich leiden gesehen, ich hab darunter auch gelitten, nicht so sein zu k�
 Das weißt du ja auch. Mir hat es immer auch leid getan wie unerträglich ich bei meiner Familie war und auch mit dir in einigen Situationen.
 
 Ich war da extrem gefangen, ich hab um Hilfe gebettelt und sie auch von dir bekommen, ich bin dir dafür wirklich sehr dankbar, du hast dich wirklich sehr auf geopfert, ich hab das auch angenommen und geschätzt, ich konnte leider vieles nicht so schnell umsetzen und verstehen wie ich es wollte. 
-
+ %% fold %%
 Meine Inneren Hürden waren sehr groß, es hat Zeit und viel Erkenntnis durch die Ereignisse der letzten Jahre gebraucht, um daran zu wachsen und sie durchbrechen zu können.
 Da waren zu viele starre Muster durch die ich alleine durch musste. 
 
