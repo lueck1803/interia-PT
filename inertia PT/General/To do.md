@@ -301,6 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [x] Duschen 
+- [ ] Hängetopf Untersetzer 
 - [ ] Mathe Übungsblatt zur Klausur erstellen 
 - [ ] eintrag mein unterricht Mappe 
 - [ ] wann Mathearbeit 5a
