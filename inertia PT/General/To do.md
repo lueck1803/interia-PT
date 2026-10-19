@@ -320,8 +320,8 @@
 - [ ] Nudeln in den Kühlschrank 
 - [ ] rote Mütze waschen 
 - [ ] schriftliches dividieren, wann kommen nullen rein?
-- [ ] blaue Socken flicken 
-- [ ] Tomaten waschen 
+- [x] blaue Socken flicken 
+- [x] Tomaten waschen 
 - [x] Duolingo 
 - [ ] Ceranfeld putzen 
 - [ ] Stuhl dampfen 
