@@ -1012,7 +1012,7 @@ Es ist offenbar auch egal ob man <font color="#a0522d">titan ridge</font> oder <
 Mit Titan ridge wird aber beim herunterfahren länger etwas angezeigt. Dafür erscheint nach Neustart nichts.
 Wie sieht es mit der obersten Einstellung (<font color="#ff69b4">Alpine ridge</font>) aus? 
 - bios screen erscheint hier im Gegensatz zu titan ridge 
-- aber nach direktem start keine Bildschirme 
+- aber nach direktem start keine Bildschirme  %% fold %%
 	- ⤷nichts im device manager zu sehen 
 - nach shutdown?
 	- Bildschirme gehen an 
