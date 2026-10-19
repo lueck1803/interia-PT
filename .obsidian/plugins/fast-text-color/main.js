@@ -1129,7 +1129,7 @@ var ColorSuggestModal = class extends import_obsidian7.SuggestModal {
 var FastTextColorPlugin = class extends import_obsidian8.Plugin {
   async onload() {
     await this.loadSettings();
-    this.styleElements = /* @__PURE__ */ new Map();
+    this.styleSheets = /* @__PURE__ */ new Map();
     this.registerEditorExtension(textColorParserField);
     this.registerEditorExtension(textColorViewPlugin);
     this.registerMarkdownPostProcessor((el, ctx) => {
@@ -1151,6 +1151,7 @@ var FastTextColorPlugin = class extends import_obsidian8.Plugin {
     );
     this.addCommand({
       id: "change-text-color",
+      icon: "palette",
       name: "Change text color",
       editorCallback: (editor) => {
         this.openColorMenu(editor);
@@ -1158,6 +1159,7 @@ var FastTextColorPlugin = class extends import_obsidian8.Plugin {
     });
     this.addCommand({
       id: "text-color-latestcolor",
+      icon: "palette",
       name: "Apply latest color",
       editorCallback: (editor) => {
         applyColor(LatestColor.getInstance().getColor(), editor);
@@ -1165,6 +1167,7 @@ var FastTextColorPlugin = class extends import_obsidian8.Plugin {
     });
     this.addCommand({
       id: "remove-text-color",
+      icon: "remove-formatting",
       name: "Remove text color",
       editorCallback: (editor, view) => {
         const editorView = view.editor.cm;
@@ -1200,28 +1203,23 @@ var FastTextColorPlugin = class extends import_obsidian8.Plugin {
     this.addSettingTab(new FastTextColorPluginSettingTab(this.app, this));
     this.registerEvent(
       this.app.workspace.on("window-open", (_, window2) => {
-        this.styleElements.set(window2, null);
-        this.setCssVariables();
+        this.addWindow(window2);
       })
     );
     this.registerEvent(
       this.app.workspace.on("window-close", (_, window2) => {
-        this.styleElements.delete(window2);
+        this.removeWindow(window2);
       })
     );
     this.app.workspace.onLayoutReady(() => {
       var _a;
       const mainWin = (_a = this.app.workspace.containerEl.win) != null ? _a : window;
-      this.styleElements.set(mainWin, null);
-      this.setCssVariables();
+      this.addWindow(mainWin);
     });
   }
   onunload() {
     this.closeColorMenu();
-    this.styleElements.forEach((styleElement) => {
-      styleElement == null ? void 0 : styleElement.remove();
-    });
-    this.styleElements.clear();
+    [...this.styleSheets.keys()].forEach((win) => this.removeWindow(win));
   }
   async loadSettings() {
     const rawSettings = await this.loadData();
@@ -1367,47 +1365,54 @@ var FastTextColorPlugin = class extends import_obsidian8.Plugin {
       this.closeColorMenu();
     }).buttonEl.setAttr("style", `background-color: ${tColor.getColorValue()}`);
   }
-  addWindow(window2) {
-    this.styleElements.set(window2, null);
+  /**
+   * creates a stylesheet for the window and adds it to the adopted stylesheets of its document.
+   *
+   * @param {Window} win
+   */
+  addWindow(win) {
+    if (this.styleSheets.has(win)) {
+      return;
+    }
+    const styleSheet = new win.CSSStyleSheet();
+    win.document.adoptedStyleSheets = [...win.document.adoptedStyleSheets, styleSheet];
+    this.styleSheets.set(win, styleSheet);
     this.setCssVariables();
   }
-  removeWindow(window2) {
-    this.styleElements.delete(window2);
+  removeWindow(win) {
+    const styleSheet = this.styleSheets.get(win);
+    if (!styleSheet) {
+      return;
+    }
+    win.document.adoptedStyleSheets = win.document.adoptedStyleSheets.filter((s) => s !== styleSheet);
+    this.styleSheets.delete(win);
   }
   /**
-   * creates the stylesheet needed for the colors in the root of the document.
+   * fills the stylesheets needed for the colors in all known windows.
    * A different set of classes is created for each theme.
    *
    */
   setCssVariables() {
-    this.styleElements.forEach((styleElement, win) => {
-      if (!styleElement) {
-        let root = win.document.querySelector(":root");
-        if (!root) {
-          return;
-        }
-        styleElement = root.createEl("style");
-        styleElement.id = "fast-text-color-stylesheet";
-        this.styleElements.set(win, styleElement);
+    const formatCss = (css2) => {
+      const lines = css2.split("\n").map((l) => l.trim()).filter((l) => l.length);
+      if (lines.length <= 5) {
+        return lines.join(" ");
       }
-      styleElement.textContent = "";
-      const formatCss = (css) => {
-        const lines = css.split("\n").map((l) => l.trim()).filter((l) => l.length);
-        if (lines.length <= 5) {
-          return lines.join(" ");
-        }
-        return lines.map((l) => /[{}]/.test(l) ? l : `  ${l}`).join("\n");
-      };
-      for (let i = 0; i < this.settings.themes.length; i++) {
-        getColors(this.settings, i).forEach((tColor) => {
-          const theme = this.settings.themes[i];
-          const className = `.${CSS_COLOR_PREFIX}${theme.name}-${tColor.id}`;
-          let cssClass = `${className} {
+      return lines.map((l) => /[{}]/.test(l) ? l : `  ${l}`).join("\n");
+    };
+    let css = "";
+    for (let i = 0; i < this.settings.themes.length; i++) {
+      getColors(this.settings, i).forEach((tColor) => {
+        const theme = this.settings.themes[i];
+        const className = `.${CSS_COLOR_PREFIX}${theme.name}-${tColor.id}`;
+        let cssClass = `${className} {
 ${tColor.getInnerCss(this.settings)}
 }`;
-          styleElement.textContent += formatCss(cssClass) + "\n";
-        });
-      }
+        css += formatCss(cssClass) + "\n";
+      });
+    }
+    this.styleSheets.forEach((styleSheet) => {
+      styleSheet.replaceSync(css);
     });
   }
 };
