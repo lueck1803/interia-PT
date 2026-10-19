@@ -304,6 +304,7 @@
 - [ ] Mathe Übungsblatt zur Klausur erstellen 
 - [ ] eintrag mein unterricht Mappe 
 - [ ] wann Mathearbeit 5a
+- [ ] Nudeln kochen 
 - [ ] schriftliches dividieren, wann kommen nullen rein?
 - [ ] blaue Socken flicken 
 - [ ] Tomaten waschen 
