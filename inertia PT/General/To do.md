@@ -311,6 +311,7 @@
 	- [x] p 10b %% fold %%
 	- [x] p 10a
 - [x] Duschen 
+- [ ] Spaziergang
 - [ ] Bart 
 - [ ] Hängetopf Untersetzer wieder rein
 - [ ] laptop tastatur wischen
@@ -345,7 +346,6 @@
 - [ ] Ventil kappe für cityrad
 - [ ] Chiphalter kleben 
 - [ ] Schuhe aufrauen und testen 
-- [x] Glasmüll
 - [ ] mtb sitze zu weit vorne
 - [ ] Briefkasten 
 - [ ] Mathe Checkliste mit Beispielen/verweisen machen und raus schicken
@@ -382,7 +382,6 @@
 - [ ] Krafttraining 
 - [ ] türkisch aufschreiben 
 - [ ] soße mit fisch, brokkoli und oliven kochen
-- [x] Spaziergang
 - [ ] aldi nachrechnen 
 - [ ] Was zu $2^{1/2}$ aufschreiben in das Handout
 	- [ ] https://www.youtube.com/watch?v=NbKa-o3ztDo&list=WL&index=21
