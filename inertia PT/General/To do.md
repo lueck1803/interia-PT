@@ -301,6 +301,10 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 
+- Zähne putzen 
+	- [ ] morgens
+	- [ ] mittags
+	- [ ] abends 
 - [x] kursmappe
 	- [x] m 5a %% fold %%
 	- [x] m 8a
@@ -312,6 +316,19 @@
 	- [x] p 10a
 - [x] Duschen 
 - [x] heute war Handytaschen Beutel nicht da
+- [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
+- [ ] nass rasieren 
+- [ ] Bettwäsche wechseln 
+- [ ] Krafttraining 
+- [ ] Duolingo 
+- [ ] Crystal Mountain 
+- [ ] Eltern anrufen 
+	- [ ] tamilo hatte Buch nicht dabei
+		- [ ] ohren Stöpsel? Damit er sich besser konzentrieren kann
+	- [ ] zara hatte Sachen nicht dabei 
+- [ ] Probeklausur 8er erstellen 
+- [ ] shorts zur Musiktheorie runterladen und Notizen machen 
+- [ ] notes aufräumen. Nachrichten an Leute raus in datei in hier geht's um mich Ordner 
 - [ ] Freitag 5a nochmal wiederholen wie man sauber schriftlich die Grundrechenarten macht. Subtraktion wenn erste Zahl kleiner ist. Schriftliche Addition/Subtraktion mehrere zahlen. Aufgaben überlegen. Jeder aufschreiben. Aufgabenblatt schriftliche Grundrechenarten. Wann kommen nullen in schriftliche Division.
 - [ ] für 8ter Schema und Erklärung wie man eine Gleichung nach einer Variablen auflöst. 
 	- [ ] distributivgesetz aufschreiben 
@@ -327,10 +344,6 @@
 - [ ] Arbeitsblätter für 5a zum extra arbeiten erstellen 
 - [ ] plan für 8b Donnerstag erstellen 
 - [ ] Ohrenschützer für 5a?
-- [ ] Eltern anrufen 
-	- [ ] tamilo hatte Buch nicht dabei
-		- [ ] ohren Stöpsel? Damit er sich besser konzentrieren kann
-	- [ ] zara hatte Sachen nicht dabei 
 - [ ] pflanzen rein 
 - [ ] Spaziergang
 - [ ] Hustenbonbons in Dose in Rucksack 
@@ -338,11 +351,10 @@
 - [ ] Hängetopf Untersetzer wieder rein
 - [ ] laptop tastatur wischen
 - [ ] Mathe Übungsblatt zur Klausur erstellen 
-- [ ] wann Mathearbeit 5a
-- [ ] Nudeln in den Kühlschrank 
+- [x] wann Mathearbeit 5a
+- [x] Nudeln in den Kühlschrank 
 - [ ] rote Mütze waschen 
 - [ ] schriftliches dividieren, wann kommen nullen rein?
-- [x] Duolingo 
 - [ ] Ceranfeld putzen 
 - [ ] Stuhl dampfen 
 - Waschbecken schrubben 
@@ -374,7 +386,6 @@
 - [ ] nochmal etwas mehr ins Buch schauen 
 - [ ] Flipflops reparieren 
 - [ ] todo aufräumen 
-- [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
 - [ ] trotzdem floyed rose Tutorial 
 - [ ] pc Stecker 
 	- [ ] Tutorial Video schauen 
@@ -385,10 +396,6 @@
 - [ ] proposal fertig schreiben 
 - [ ] näh/flick tutorial anschauen
 
-- Zähne putzen 
-	- [x] morgens›
-	- [x] mittags
-	- [ ] abends 
 - [ ] Apfelschneider nochmal schweißen 
 - [ ] Mathearbeit konzipieren 
 	- [ ] 8 a
@@ -411,7 +418,7 @@
 	- 📞☎️06151 107 4213
 - [ ] Bohnen ernten 
 - [ ] Sofalehne dampfen %% fold %%
-- [ ] Krankenhauszeug einheften
+- [ ] Krankenhauszeug einheften %% fold %%
 - [ ] Ibuprofen und Antibiotika wegräumen %% fold %%
 - [ ] ebay Nachrichten checken  %% fold %%
 - [ ] Papierkram  %% fold %%
@@ -419,7 +426,7 @@
 	- [ ] nochmal probieren an usb 3_4 zu stecken %% fold %%
  %% fold %%
 - [ ] fix homebrew - reinstall ninja ⟹ vorher macos updaten
-- [ ] laptophülle dampfen
+- [ ] laptophülle dampfen %% fold %%
 - [ ] rot-grauen Rucksack waschen
 - [ ] Ausarbeitung Distributiv - exponential gesetz fertig machen
 - [ ] Elias 
