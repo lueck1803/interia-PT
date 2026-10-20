@@ -318,13 +318,13 @@
 - [x] heute war Handytaschen Beutel nicht da
 - [ ] 30° Wäsche 
 	- [x] anstellen 
-	- [ ] schleudern 
+	- [x] schleudern 
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 - [x] carnivorenwasser auffüllen 
 - [ ] sofa Reinigungstutorial 
 - [x] Hörtest einscannen 
-- Ohrentropfen 4-5
+- Ohrentropfen 4-5 eher 3
 	- [ ] morgens
 	- [x] mittags
 	- [ ] abends 
@@ -349,6 +349,7 @@
 - [ ] shorts zur Musiktheorie runterladen und Notizen machen 
 - [ ] notes aufräumen. Nachrichten an Leute raus in datei in hier geht's um mich Ordner 
 - [ ] Freitag 5a nochmal wiederholen wie man sauber schriftlich die Grundrechenarten macht. Subtraktion wenn erste Zahl kleiner ist. Schriftliche Addition/Subtraktion mehrere zahlen. Aufgaben überlegen. Jeder aufschreiben. Aufgabenblatt schriftliche Grundrechenarten. Wann kommen nullen in schriftliche Division.
+- [ ] 5er Lehrplan 
 - [ ] für 8ter Schema und Erklärung wie man eine Gleichung nach einer Variablen auflöst. 
 	- [ ] distributivgesetz aufschreiben 
 		- [ ] Division Unterschied links - rechts 
@@ -368,14 +369,14 @@
 - [ ] Hustenbonbons in Dose in Rucksack 
 - [ ] Bart 
 - [x] Hängetopf Untersetzer wieder rein
-- [ ] laptop tastatur wischen
+- [x] laptop tastatur wischen
 - [ ] Mathe Übungsblatt zur Klausur erstellen 
 - [x] wann Mathearbeit 5a
 - [x] Nudeln in den Kühlschrank 
-- [ ] rote Mütze waschen 
+- [x] rote Mütze waschen 
 - [ ] schriftliches dividieren, wann kommen nullen rein?
 - [ ] Ceranfeld putzen 
-- [ ] Stuhl dampfen 
+- [x] Stuhl dampfen ⟹ gewischt 
 - Waschbecken schrubben 
 	- [x] Bad 
 	- [ ] Küche 
