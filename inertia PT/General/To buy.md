@@ -18,6 +18,8 @@
 ## Jetzt
 - Einkaufswagen 
 - [ ] Toast 
+- [ ] Nussnougat 
+- [ ] Birnen 
 - [x] saft
 - [x] Zwiebeln 
 - [x] Äpfel 
