@@ -305,6 +305,7 @@
 	- [ ] morgens
 	- [ ] mittags
 	- [ ] abends 
+- [ ] Duolingo
 - [x] kursmappe
 	- [x] m 5a %% fold %%
 	- [x] m 8a
@@ -315,7 +316,6 @@
 	- [x] p 10b %% fold %%
 	- [x] p 10a
 - [x] Duschen 
-- [x] heute war Handytaschen Beutel nicht da
 - [ ] 30° Wäsche 
 	- [x] anstellen 
 	- [x] schleudern 
@@ -323,7 +323,6 @@
 	- [ ] zusammen legen
 - [x] carnivorenwasser auffüllen 
 - [ ] sofa Reinigungstutorial 
-- [x] Hörtest einscannen 
 - Ohrentropfen 4-5 eher 3
 	- [ ] morgens
 	- [x] mittags
@@ -336,10 +335,9 @@
 - [ ] Tomaten Samen weg sortieren 
 - [ ] Bettwäsche wechseln 
 - [ ] Krafttraining 
-- [x] Kaffeebehälter
+- [ ] Ordner Lukas leeren bzw neuen ordner anfangen
 - [ ] rote Paprika aufschneiden 
 - [ ] Paprika und Bohnen ernten 
-- [x] Duolingo
 - [x] Crystal Mountain 
 - [ ] Eltern anrufen 
 	- [ ] tamilo hatte Buch nicht dabei
@@ -368,15 +366,9 @@
 - [ ] Spaziergang
 - [ ] Hustenbonbons in Dose in Rucksack 
 - [ ] Bart 
-- [x] Hängetopf Untersetzer wieder rein
-- [x] laptop tastatur wischen
 - [ ] Mathe Übungsblatt zur Klausur erstellen 
-- [x] wann Mathearbeit 5a
-- [x] Nudeln in den Kühlschrank 
-- [x] rote Mütze waschen 
 - [ ] schriftliches dividieren, wann kommen nullen rein?
 - [ ] Ceranfeld putzen 
-- [x] Stuhl dampfen ⟹ gewischt 
 - Waschbecken schrubben 
 	- [x] Bad 
 	- [ ] Küche 
