@@ -317,7 +317,7 @@
 - [x] Duschen 
 - [x] heute war Handytaschen Beutel nicht da
 - [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
-- [ ] Termin für den 2.11. beim hno
+- [ ] Termin für den 2.11. beim HNO 
 - [ ] nass rasieren 
 - [ ] Bettwäsche wechseln 
 - [ ] Krafttraining 
