@@ -326,7 +326,7 @@
 - [x] Hörtest einscannen 
 - Ohrentropfen 4-5
 	- [ ] morgens
-	- [ ] mittags 
+	- [x] mittags
 	- [ ] abends 
 - antibiotika 
 	- [x] mittags 
