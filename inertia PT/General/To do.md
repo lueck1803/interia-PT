@@ -316,6 +316,11 @@
 	- [x] p 10a
 - [x] Duschen 
 - [x] heute war Handytaschen Beutel nicht da
+- [ ] 30° Wäsche 
+	- [x] anstellen 
+	- [ ] schleudern 
+	- [ ] aufhängen 
+	- [ ] zusammen legen
 - [ ] carnivorenwasser auffüllen 
 - [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
 - [ ] nass rasieren 
