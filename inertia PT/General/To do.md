@@ -328,7 +328,7 @@
 	- [ ] morgens
 	- [ ] mittags 
 	- [ ] abends 
-- [x] antibiotika 
+- antibiotika 
 	- [ ] mittags 
 	- [ ] abends 
 - [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
