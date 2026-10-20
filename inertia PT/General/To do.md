@@ -316,6 +316,7 @@
 	- [x] p 10a
 - [x] Duschen 
 - [x] heute war Handytaschen Beutel nicht da
+- [ ] 
 - [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
 - [ ] Termin für den 2.11. beim HNO 
 - [ ] nass rasieren 
@@ -352,7 +353,7 @@
 - [ ] Spaziergang
 - [ ] Hustenbonbons in Dose in Rucksack 
 - [ ] Bart 
-- [ ] Hängetopf Untersetzer wieder rein
+- [x] Hängetopf Untersetzer wieder rein
 - [ ] laptop tastatur wischen
 - [ ] Mathe Übungsblatt zur Klausur erstellen 
 - [x] wann Mathearbeit 5a
