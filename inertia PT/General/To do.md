@@ -323,7 +323,7 @@
 	- [ ] zusammen legen
 - [ ] carnivorenwasser auffüllen 
 - [ ] sofa Reinigungstutorial 
-- [ ] Hörtest einscannen 
+- [x] Hörtest einscannen 
 - Ohrentropfen 4-5
 	- [ ] morgens
 	- [ ] mittags 
