@@ -310,10 +310,13 @@
 	- [x] p 8c %% fold %%
 	- [x] p 10b %% fold %%
 	- [x] p 10a
-- [ ] Duschen 
+- [x] Duschen 
 - [ ] Arbeitsblätter für 5a zum extra arbeiten erstellen 
-- [ ] tamilo hatte Buch nicht dabei
-- [ ] zara hatte sac
+- [ ] Ohrenschützer für 5a?
+- [ ] Eltern anrufen 
+	- [ ] tamilo hatte Buch nicht dabei
+		- [ ] ohren Stöpsel? Damit er sich besser konzentrieren kann
+	- [ ] zara hatte Sachen nicht dabei 
 - [ ] pflanzen rein 
 - [ ] Spaziergang
 - [ ] Hustenbonbons in Dose in Rucksack 
