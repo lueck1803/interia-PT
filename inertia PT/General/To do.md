@@ -319,7 +319,7 @@
 - [ ] 30° Wäsche 
 	- [x] anstellen 
 	- [x] schleudern 
-	- [ ] aufhängen 
+	- [x] aufhängen 
 	- [ ] zusammen legen
 - [x] carnivorenwasser auffüllen 
 - [ ] sofa Reinigungstutorial 
@@ -339,7 +339,7 @@
 - [ ] rote Paprika aufschneiden 
 - [ ] Paprika und Bohnen ernten 
 - [x] Crystal Mountain 
-- [ ] Eltern anrufen 
+- [ ] 5a Eltern anrufen 
 	- [ ] tamilo hatte Buch nicht dabei
 		- [ ] ohren Stöpsel? Damit er sich besser konzentrieren kann
 	- [ ] zara hatte Sachen nicht dabei 
