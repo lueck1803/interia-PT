@@ -312,6 +312,8 @@
 	- [x] p 10a
 - [x] Duschen 
 - [x] heute war Handytaschen Beutel nicht da
+- [ ] Nummer von tamilo,zara und Espen in Vertretungslehrer eintragen 
+- [ ] Kräfte im Physikbuch anschauen und kopieren 
 - [ ] Mathearbeit 5a 30.10. eintragen 
 - [ ] Arbeitsblätter für 5a zum extra arbeiten erstellen 
 - [ ] plan für 8b Donnerstag erstellen 
