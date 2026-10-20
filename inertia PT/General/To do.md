@@ -312,7 +312,7 @@
 	- [x] p 10a
 - [x] Duschen 
 - [x] heute war Handytaschen Beutel nicht da
-- [ ] Mathearbeit 5a 30.10.
+- [ ] Mathearbeit 5a 30.10. eintragen 
 - [ ] Arbeitsblätter für 5a zum extra arbeiten erstellen 
 - [ ] plan für 8b Donnerstag erstellen 
 - [ ] Ohrenschützer für 5a?
