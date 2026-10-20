@@ -305,8 +305,8 @@
 	- [ ] morgens
 	- [ ] mittags
 	- [ ] abends 
-- [x] Duschen 
-- [x] Duolingo
+- [ ] Duschen 
+- [ ] Duolingo
 - [x] kursmappe
 	- [x] m 5a %% fold %%
 	- [x] m 8a
