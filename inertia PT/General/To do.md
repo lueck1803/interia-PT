@@ -336,10 +336,10 @@
 - [ ] Tomaten Samen weg sortieren 
 - [ ] Bettwäsche wechseln 
 - [ ] Krafttraining 
-- [ ] Kaffeebehälter 
+- [x] Kaffeebehälter
 - [ ] rote Paprika aufschneiden 
 - [ ] Paprika und Bohnen ernten 
-- [ ] Duolingo 
+- [x] Duolingo
 - [ ] Crystal Mountain 
 - [ ] Eltern anrufen 
 	- [ ] tamilo hatte Buch nicht dabei
