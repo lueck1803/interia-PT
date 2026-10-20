@@ -324,8 +324,13 @@
 - [ ] carnivorenwasser auffüllen 
 - [ ] sofa Reinigungstutorial 
 - [ ] Hörtest einscannen 
-- [ ] Ohrentropfen
-- [ ] 
+- Ohrentropfen 4-5
+	- [ ] morgens
+	- [ ] mittags 
+	- [ ] abends 
+- [x] antibiotika 
+	- [ ] mittags 
+	- [ ] abends 
 - [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
 - [ ] nass rasieren 
 - [ ] Tomaten Samen weg sortieren 
