@@ -314,6 +314,7 @@
 - [x] heute war Handytaschen Beutel nicht da
 - [ ] Mathearbeit 5a 30.10.
 - [ ] Arbeitsblätter für 5a zum extra arbeiten erstellen 
+- [ ] plan für 8b Donnerstag erstellen 
 - [ ] Ohrenschützer für 5a?
 - [ ] Eltern anrufen 
 	- [ ] tamilo hatte Buch nicht dabei
