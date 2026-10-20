@@ -321,7 +321,7 @@
 	- [ ] schleudern 
 	- [ ] aufhängen 
 	- [ ] zusammen legen
-- [ ] carnivorenwasser auffüllen 
+- [x] carnivorenwasser auffüllen 
 - [ ] sofa Reinigungstutorial 
 - [x] Hörtest einscannen 
 - Ohrentropfen 4-5
