@@ -310,7 +310,8 @@
 	- [x] p 8c %% fold %%
 	- [x] p 10b %% fold %%
 	- [x] p 10a
-- [x] Duschen 
+- [ ] Duschen 
+- [ ] pflanzen rein 
 - [ ] Spaziergang
 - [ ] Hustenbonbons in Dose in Rucksack 
 - [ ] Bart 
