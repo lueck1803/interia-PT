@@ -323,6 +323,9 @@
 	- [ ] zusammen legen
 - [ ] carnivorenwasser auffüllen 
 - [ ] sofa Reinigungstutorial 
+- [ ] Hörtest einscannen 
+- [ ] Ohrentropfen
+- [ ] 
 - [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
 - [ ] nass rasieren 
 - [ ] Tomaten Samen weg sortieren 
