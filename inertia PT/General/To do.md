@@ -311,6 +311,7 @@
 	- [x] p 10b %% fold %%
 	- [x] p 10a
 - [x] Duschen 
+- [ ] heute war Handytaschen Beutel nicht da
 - [ ] Arbeitsblätter für 5a zum extra arbeiten erstellen 
 - [ ] Ohrenschützer für 5a?
 - [ ] Eltern anrufen 
