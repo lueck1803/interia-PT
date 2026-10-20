@@ -302,7 +302,7 @@
 
 
 - [x] kursmappe
-	- [x] m 5a %% fold %%
+	- [ ] m 5a %% fold %%
 	- [x] m 8a
 	- [x] m 8b
 	- [x] p 8a
@@ -311,6 +311,7 @@
 	- [x] p 10b %% fold %%
 	- [x] p 10a
 - [ ] Duschen 
+- [ ] Arbeitsblätter für 5a zum extra arbeiten erstellen 
 - [ ] pflanzen rein 
 - [ ] Spaziergang
 - [ ] Hustenbonbons in Dose in Rucksack 
