@@ -312,9 +312,18 @@
 	- [x] p 10a
 - [x] Duschen 
 - [x] heute war Handytaschen Beutel nicht da
+- [ ] Freitag 5a nochmal wiederholen wie man sauber schriftlich die Grundrechenarten macht. Subtraktion wenn erste Zahl kleiner ist. Schriftliche Addition/Subtraktion mehrere zahlen. Aufgaben überlegen. Jeder aufschreiben. Aufgabenblatt schriftliche Grundrechenarten. Wann kommen nullen in schriftliche Division.
+- [ ] für 8ter Schema und Erklärung wie man eine Gleichung nach einer Variablen auflöst. 
+	- [ ] distributivgesetz aufschreiben 
+		- [ ] Division Unterschied links - rechts 
+	- [ ] Mehrere Beispiele 
+	- [ ] immer Brüche verwenden statt ÷ wegen distributivgesetz
 - [ ] Nummer von tamilo,zara und Espen in Vertretungslehrer eintragen 
 - [ ] Kräfte im Physikbuch anschauen und kopieren 
 - [ ] Mathearbeit 5a 30.10. eintragen 
+	- [ ] grundrechen arten
+		- [ ] Kopf 
+		- [ ] schriftlich 
 - [ ] Arbeitsblätter für 5a zum extra arbeiten erstellen 
 - [ ] plan für 8b Donnerstag erstellen 
 - [ ] Ohrenschützer für 5a?
