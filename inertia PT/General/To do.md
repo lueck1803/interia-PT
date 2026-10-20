@@ -340,7 +340,7 @@
 - [ ] rote Paprika aufschneiden 
 - [ ] Paprika und Bohnen ernten 
 - [x] Duolingo
-- [ ] Crystal Mountain 
+- [x] Crystal Mountain 
 - [ ] Eltern anrufen 
 	- [ ] tamilo hatte Buch nicht dabei
 		- [ ] ohren Stöpsel? Damit er sich besser konzentrieren kann
@@ -357,7 +357,7 @@
 	- [ ] immer Brüche verwenden statt ÷ wegen distributivgesetz
 - [ ] Nummer von tamilo,zara und Espen in Vertretungslehrer eintragen 
 - [ ] Kräfte im Physikbuch anschauen und kopieren 
-- [ ] Mathearbeit 5a 30.10. eintragen 
+- [x] Mathearbeit 5a 30.10. eintragen 
 	- [ ] grundrechen arten
 		- [ ] Kopf 
 		- [ ] schriftlich 
