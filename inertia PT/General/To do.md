@@ -312,6 +312,8 @@
 	- [x] p 10a
 - [ ] Duschen 
 - [ ] Arbeitsblätter für 5a zum extra arbeiten erstellen 
+- [ ] tamilo hatte Buch nicht dabei
+- [ ] zara hatte sac
 - [ ] pflanzen rein 
 - [ ] Spaziergang
 - [ ] Hustenbonbons in Dose in Rucksack 
