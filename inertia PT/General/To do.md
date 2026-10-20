@@ -305,7 +305,7 @@
 	- [ ] morgens
 	- [ ] mittags
 	- [ ] abends 
-- [ ] Duolingo
+- [x] Duolingo
 - [x] kursmappe
 	- [x] m 5a %% fold %%
 	- [x] m 8a
@@ -315,7 +315,6 @@
 	- [x] p 8c %% fold %%
 	- [x] p 10b %% fold %%
 	- [x] p 10a
-- [x] Duschen 
 - [ ] 30° Wäsche 
 	- [x] anstellen 
 	- [x] schleudern 
