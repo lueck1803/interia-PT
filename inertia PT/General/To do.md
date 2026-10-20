@@ -320,6 +320,9 @@
 - [ ] nass rasieren 
 - [ ] Bettwäsche wechseln 
 - [ ] Krafttraining 
+- [ ] Kaffeebehälter 
+- [ ] rote Paprika aufschneiden 
+- [ ] Paprika und Bohnen ernten 
 - [ ] Duolingo 
 - [ ] Crystal Mountain 
 - [ ] Eltern anrufen 
