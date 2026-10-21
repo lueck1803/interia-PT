@@ -341,7 +341,7 @@
 	- [x] p 8b
 	- [ ] p 8c %% fold %%
 	- [x] p 10b %% fold %%
-	- [ ] p 10a
+	- [x] p 10a
 - [ ] 30° Wäsche 
 	- [x] anstellen 
 	- [x] schleudern 
