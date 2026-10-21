@@ -307,7 +307,15 @@
 	- [ ] abends 
 - [ ] Duschen 
 - [ ] Duolingo
-- [ ] Treffpunkt ausrechnen 
+- [ ] Treffpunkt ausrechnen von zwei Fahrrädern mit verschiedenen Geschwindigkeiten
+	- [ ] $\pu{ 32km }=\pu{ 8 km/h}\cdot t+\pu{ 16km/h }$
+	- [ ] 
+- [ ] Aufgabe mit Fahrräder und Biene anpassen 
+	- [ ] wo legt man sinnvollerweise das Koordinatensystem hin? 
+	- [ ] wie ändert sich die Aufgabe wenn die Fahrräder beide 32 km/h 
+	- [ ] wie wenn sie 8km/h fahren 
+	- [ ] und wie wenn eines 8 km/h und das andere 16 km/h fährt 
+	- [ ] wie ändert sich die zurück gelegte Strecke der Fahrräder und der Biene 
 - [x] kursmappe
 	- [x] m 5a %% fold %%
 	- [x] m 8a
