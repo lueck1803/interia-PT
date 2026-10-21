@@ -307,6 +307,7 @@
 	- [ ] abends 
 - [x] Duschen 
 - [ ] 8te Klassen invarianz Prinzip anhand der Aufgabe Biene mit Fahrrädern 
+	- [ ] daraus für die Klassen einen kleinen ted
 - [ ] periodenzeichen in pu Umgebung 
 - [ ] 10te klasse Aufgaben zum Druck
 - [ ] 10te Klasse Handout zu Einheiten 
