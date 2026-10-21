@@ -302,6 +302,7 @@
 
 - [x] essen 
 - [x] Medikament
+- [ ] 10er Physiknoten korrigieren...
 - [ ] 2m usb-A↔usb-c kabel bestellen
 - [ ] Spülmaschine ausräumen 
 - [ ] Unterricht 8b vorbereiten 
