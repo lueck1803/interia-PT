@@ -300,16 +300,16 @@
 - <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- [x] essen 
-- [x] Medikament
+- [ ] Duschen 
 - [ ] 10er Physiknoten korrigieren... Zu viele gute Noten..
 - [ ] 2m usb-A↔usb-c kabel bestellen
 - [ ] Spülmaschine ausräumen 
-- [ ] bruchrechnung aufgaben suchen
-- [ ] Unterricht 8b vorbereiten 
-- [x] Probeklausur 8er erstellen 
+- [ ] Bettdecke beziehen 
+- [x] bruchrechnung aufgaben suchen
+- [x] Unterricht 8b vorbereiten  %% fold %%
+- [x] Probeklausur 8er erstellen  %% fold %%
 - [ ] Aufgabe: %% fold %%
-	- [ ] Verfolgungsjagd zweier Senioren
+	- [ ] Verfolgungsjagd zweier Senioren %% fold %%
 	- [ ] Abstand 5 m 
 	- [ ] Rollator 
 	- [ ] Geschwindigkeit 2 km/h
@@ -322,22 +322,19 @@
 		- [ ] Division Unterschied links - rechts 
 	- [ ] Mehrere Beispiele 
 	- [ ] immer Brüche verwenden statt ÷ wegen distributivgesetz
-- [x] Daumennägel knipsen 
 - Zähne putzen 
 	- [ ] morgens
 	- [ ] mittags
 	- [ ] abends 
-- [x] Duschen 
 - [ ] 8te Klassen invarianz Prinzip anhand der Aufgabe Biene mit Fahrrädern 
 	- [ ] daraus für die Klassen einen kleinen test machen 
-- [x] periodenzeichen in pu Umgebung 
 - [ ] 10te klasse Aufgaben zum Druck
 - [ ] 10te Klasse Handout zu Einheiten 
 - [ ] candis wegen e kurs schreiben 
 - [ ] 10te Klasse Experimente zum Druck überlegen 
 	- [ ] welcher Behälter läuft schneller leer? Dünner/dicker Behälter 
 	- [ ] 
-- [ ] Duolingo
+- [ ] Duolingo %% fold %%
 - [ ] Treffpunkt ausrechnen von zwei Fahrrädern mit verschiedenen Geschwindigkeiten %% fold %%
 	- $\pu{ 32km }=\pu{ 8 km/h}\cdot t+\pu{ 16km/h }\cdot t$
 	- $\pu{ 32km }=(\pu{ 8 km/h}+\pu{ 16km/h })\cdot t$
@@ -468,7 +465,6 @@
 	- [ ] https://www.youtube.com/watch?v=NbKa-o3ztDo&list=WL&index=21
 - [ ] HNO Ambulanz termin machen
 	- 📞☎️06151 107 4213
-- [ ] Bohnen ernten 
 - [ ] Sofalehne dampfen %% fold %%
 - [ ] Krankenhauszeug einheften %% fold %%
 - [ ] Ibuprofen und Antibiotika wegräumen %% fold %%
@@ -510,7 +506,6 @@
 - [ ] 2) Satz umschreiben mit Beispiel $5\cdot 1=5$
 - [ ] bei der Aufgabe die Einheitsidentitäten ; machen 
 
-- [ ] Mathearbeit 5a? %% fold %%
 - [ ] proposal fertig schreiben %% fold %%
  %% fold %%
 - [ ] Checkliste Mathe schreiben  %% fold %%
