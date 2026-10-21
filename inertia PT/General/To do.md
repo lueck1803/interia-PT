@@ -372,7 +372,7 @@
 - Ohrentropfen 4-5 eher 3 
 	- [x] morgens
 	- [x] mittags
-	- [ ] abends 
+	- [x] abends 
 - antibiotika 
 	- [x] mittags 
 	- [x] abends 
