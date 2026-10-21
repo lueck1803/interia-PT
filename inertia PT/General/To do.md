@@ -306,6 +306,11 @@
 - [ ] 2m usb-A↔usb-c kabel bestellen
 - [ ] Spülmaschine ausräumen 
 - [ ] Unterricht 8b vorbereiten 
+- [ ] für 8ter Schema und Erklärung wie man eine Gleichung nach einer Variablen auflöst. 
+	- [ ] distributivgesetz aufschreiben 
+		- [ ] Division Unterschied links - rechts 
+	- [ ] Mehrere Beispiele 
+	- [ ] immer Brüche verwenden statt ÷ wegen distributivgesetz
 - [x] Daumennägel knipsen 
 - Zähne putzen 
 	- [ ] morgens
@@ -378,11 +383,7 @@
 - [ ] notes aufräumen. Nachrichten an Leute raus in datei in hier geht's um mich Ordner 
 - [ ] Freitag 5a nochmal wiederholen wie man sauber schriftlich die Grundrechenarten macht. Subtraktion wenn erste Zahl kleiner ist. Schriftliche Addition/Subtraktion mehrere zahlen. Aufgaben überlegen. Jeder aufschreiben. Aufgabenblatt schriftliche Grundrechenarten. Wann kommen nullen in schriftliche Division.
 - [ ] 5er Lehrplan 
-- [ ] für 8ter Schema und Erklärung wie man eine Gleichung nach einer Variablen auflöst. 
-	- [ ] distributivgesetz aufschreiben 
-		- [ ] Division Unterschied links - rechts 
-	- [ ] Mehrere Beispiele 
-	- [ ] immer Brüche verwenden statt ÷ wegen distributivgesetz
+
 - [ ] Nummer von tamilo,zara und Espen in Vertretungslehrer eintragen 
 - [ ] Kräfte im Physikbuch anschauen und kopieren 
 - [x] Mathearbeit 5a 30.10. eintragen 
