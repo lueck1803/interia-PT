@@ -309,7 +309,8 @@
 - [ ] Duolingo
 - [ ] Treffpunkt ausrechnen von zwei Fahrrädern mit verschiedenen Geschwindigkeiten
 	- [ ] $\pu{ 32km }=\pu{ 8 km/h}\cdot t+\pu{ 16km/h }\cdot t$
-	- [ ] $32$
+	- [ ] $\pu{ 32km }=\pu{ 24km/h }\cdot t$
+	- [ ] $$
 - [ ] Aufgabe mit Fahrräder und Biene anpassen 
 	- [ ] wo legt man sinnvollerweise das Koordinatensystem hin? 
 	- [ ] wie ändert sich die Aufgabe wenn die Fahrräder beide 32 km/h 
