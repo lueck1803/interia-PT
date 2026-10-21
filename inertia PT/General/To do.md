@@ -305,6 +305,7 @@
 - [ ] 10er Physiknoten korrigieren... Zu viele gute Noten..
 - [ ] 2m usb-A↔usb-c kabel bestellen
 - [ ] Spülmaschine ausräumen 
+- [ ] bruchrechnung aufgaben suchen
 - [ ] Unterricht 8b vorbereiten 
 - [ ] Probeklausur 8er erstellen 
 - [ ] Aufgabe:
