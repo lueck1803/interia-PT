@@ -359,7 +359,7 @@
 	- [ ] abends 
 - antibiotika 
 	- [x] mittags 
-	- [ ] abends 
+	- [x] abends 
 - [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
 - [ ] nass rasieren 
 - [ ] Tomaten Samen weg sortieren 
