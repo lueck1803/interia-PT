@@ -306,6 +306,16 @@
 - [ ] 2m usb-A↔usb-c kabel bestellen
 - [ ] Spülmaschine ausräumen 
 - [ ] Unterricht 8b vorbereiten 
+- [ ] Probeklausur 8er erstellen 
+- [ ] Aufgabe:
+	- [ ] Verfolgungsjagd zweier Senioren
+	- [ ] Abstand 5 m 
+	- [ ] Rollator 
+	- [ ] Geschwindigkeit 2 km/h
+	- [ ] Verfolger 1% schneller
+	- [ ] Wie lange braucht der Verfolger, um ihn einzuholen?
+	- [ ] zeigen wie Gleichung aufgestellt wird.
+	- [ ] Geschwindigkeit verfolger muss noch berechnet werden.
 - [ ] für 8ter Schema und Erklärung wie man eine Gleichung nach einer Variablen auflöst. 
 	- [ ] distributivgesetz aufschreiben 
 		- [ ] Division Unterschied links - rechts 
@@ -378,7 +388,6 @@
 	- [ ] tamilo hatte Buch nicht dabei
 		- [ ] ohren Stöpsel? Damit er sich besser konzentrieren kann
 	- [ ] zara hatte Sachen nicht dabei 
-- [ ] Probeklausur 8er erstellen 
 - [ ] shorts zur Musiktheorie runterladen und Notizen machen 
 - [ ] notes aufräumen. Nachrichten an Leute raus in datei in hier geht's um mich Ordner 
 - [ ] Freitag 5a nochmal wiederholen wie man sauber schriftlich die Grundrechenarten macht. Subtraktion wenn erste Zahl kleiner ist. Schriftliche Addition/Subtraktion mehrere zahlen. Aufgaben überlegen. Jeder aufschreiben. Aufgabenblatt schriftliche Grundrechenarten. Wann kommen nullen in schriftliche Division.
