@@ -302,9 +302,10 @@
 
 - [x] essen 
 - [x] Medikament
+- [ ] 2m usb-A↔usb-c kabel bestellen
 - [ ] Spülmaschine ausräumen 
 - [ ] Unterricht 8b vorbereiten 
-- [ ] Daumennägel knipsen 
+- [x] Daumennägel knipsen 
 - Zähne putzen 
 	- [ ] morgens
 	- [ ] mittags
@@ -393,7 +394,6 @@
 - [ ] pflanzen rein 
 - [ ] Spaziergang
 - [ ] Hustenbonbons in Dose in Rucksack 
-- [ ] Bart 
 - [ ] Mathe Übungsblatt zur Klausur erstellen 
 - [ ] schriftliches dividieren, wann kommen nullen rein?
 - [ ] Ceranfeld putzen 
