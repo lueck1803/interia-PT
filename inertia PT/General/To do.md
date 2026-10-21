@@ -302,6 +302,7 @@
 
 - [x] essen 
 - [x] Medikament
+- [ ] Spülmaschine ausräumen 
 - [ ] Unterricht 8b vorbereiten 
 - Zähne putzen 
 	- [ ] morgens
