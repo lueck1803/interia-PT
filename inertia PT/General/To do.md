@@ -306,6 +306,7 @@
 	- [ ] mittags
 	- [ ] abends 
 - [x] Duschen 
+- [ ] 8te Klassen invarianz Prinzip anhand der Aufgabe Biene mit Fahrrädern 
 - [ ] periodenzeichen in pu Umgebung 
 - [ ] 10te klasse Aufgaben zum Druck
 - [ ] 10te Klasse Handout zu Einheiten 
