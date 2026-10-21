@@ -351,7 +351,7 @@
 - [ ] sofa Reinigungstutorial 
 - Ohrentropfen 4-5 eher 3 
 	- [x] morgens
-	- [ ] mittags
+	- [x] mittags
 	- [ ] abends 
 - antibiotika 
 	- [x] mittags 
