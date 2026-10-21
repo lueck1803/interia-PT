@@ -308,7 +308,7 @@
 - [ ] bruchrechnung aufgaben suchen
 - [ ] Unterricht 8b vorbereiten 
 - [x] Probeklausur 8er erstellen 
-- [ ] Aufgabe:
+- [ ] Aufgabe: %% fold %%
 	- [ ] Verfolgungsjagd zweier Senioren
 	- [ ] Abstand 5 m 
 	- [ ] Rollator 
@@ -338,7 +338,7 @@
 	- [ ] welcher Behälter läuft schneller leer? Dünner/dicker Behälter 
 	- [ ] 
 - [ ] Duolingo
-- [ ] Treffpunkt ausrechnen von zwei Fahrrädern mit verschiedenen Geschwindigkeiten
+- [ ] Treffpunkt ausrechnen von zwei Fahrrädern mit verschiedenen Geschwindigkeiten %% fold %%
 	- $\pu{ 32km }=\pu{ 8 km/h}\cdot t+\pu{ 16km/h }\cdot t$
 	- $\pu{ 32km }=(\pu{ 8 km/h}+\pu{ 16km/h })\cdot t$
 	- da beide Fahrräder aufeinander zufahren muss man die Geschwindigkeiten addieren 
@@ -347,7 +347,7 @@
 	- $t=\pu{ \frac{32}{24}h }=\pu{ 1.3\bar{3}h }$
 	- $\Delta s_{FR_{1}}=\pu{ 8km/h }\cdot \pu{ 1.33h }=\pu{ 10.667km }$
 	- $\Delta s_{FR_{2}}=\pu{ 16km/h }\cdot \pu{ 1.33h }=\pu{21.33km  }$ 
-- [ ] Aufgabe mit Fahrräder und Biene anpassen 
+- [ ] Aufgabe mit Fahrräder und Biene anpassen  %% fold %%
 	- [ ] wo legt man sinnvollerweise das Koordinatensystem hin? 
 	- [ ] wie ändert sich die Aufgabe wenn die Fahrräder beide 32 km/h 
 	- [ ] wie wenn sie 8km/h fahren 
