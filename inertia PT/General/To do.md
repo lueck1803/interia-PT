@@ -307,6 +307,12 @@
 	- [ ] abends 
 - [x] Duschen 
 - [ ] periodenzeichen in pu Umgebung 
+- [ ] 10te klasse Aufgaben zum Druck
+- [ ] candis wegen e kurs schreiben 
+- [ ] 
+- [ ] 10te Klasse Experimente zum Druck überlegen 
+	- [ ] welcher Behälter läuft schneller leer? Dünner/dicker Behälter 
+	- [ ] 
 - [ ] Duolingo
 - [ ] Treffpunkt ausrechnen von zwei Fahrrädern mit verschiedenen Geschwindigkeiten
 	- [ ] $\pu{ 32km }=\pu{ 8 km/h}\cdot t+\pu{ 16km/h }\cdot t$
