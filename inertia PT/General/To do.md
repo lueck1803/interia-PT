@@ -322,7 +322,7 @@
 - [ ] Duolingo
 - [ ] Treffpunkt ausrechnen von zwei Fahrrädern mit verschiedenen Geschwindigkeiten
 	- [ ] $\pu{ 32km }=\pu{ 8 km/h}\cdot t+\pu{ 16km/h }\cdot t$
-	- [ ] $\pu{ 32km }=(\pu{ 8 km/h}\cdot t+\pu{ 16km/h })\cdot t$
+	- [ ] $\pu{ 32km }=(\pu{ 8 km/h}+\pu{ 16km/h })\cdot t$
 	- [ ] da beide Fahrräder aufeinander zufahren muss man die Geschwindigkeiten addieren 
 	- [ ] $\pu{ 32km }=\pu{ 24km/h }\cdot t$
 	- [ ] nach der Zeit umstellen 
