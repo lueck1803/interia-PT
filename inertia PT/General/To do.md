@@ -307,6 +307,7 @@
 	- [ ] abends 
 - [ ] Duschen 
 - [ ] Duolingo
+- [ ] Treffpunkt ausrechnen 
 - [x] kursmappe
 	- [x] m 5a %% fold %%
 	- [x] m 8a
