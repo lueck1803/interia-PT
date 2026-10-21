@@ -308,7 +308,7 @@
 - [x] Duschen 
 - [ ] periodenzeichen in pu Umgebung 
 - [ ] 10te klasse Aufgaben zum Druck
-- [ ] 10te kl
+- [ ] 10te Klasse Handout zu Einheiten 
 - [ ] candis wegen e kurs schreiben 
 - [ ] 10te Klasse Experimente zum Druck überlegen 
 	- [ ] welcher Behälter läuft schneller leer? Dünner/dicker Behälter 
