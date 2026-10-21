@@ -305,7 +305,8 @@
 	- [ ] morgens
 	- [ ] mittags
 	- [ ] abends 
-- [ ] Duschen 
+- [x] Duschen 
+- [ ] periodenzeichen in pu Umgebung 
 - [ ] Duolingo
 - [ ] Treffpunkt ausrechnen von zwei Fahrrädern mit verschiedenen Geschwindigkeiten
 	- [ ] $\pu{ 32km }=\pu{ 8 km/h}\cdot t+\pu{ 16km/h }\cdot t$
