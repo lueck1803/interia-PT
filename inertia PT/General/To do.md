@@ -481,7 +481,7 @@
 - [ ] laptophülle dampfen %% fold %%
 - [ ] rot-grauen Rucksack waschen
 - [ ] Ausarbeitung Distributiv - exponential gesetz fertig machen
-- [ ] Elias 
+- [ ] Elias  %% fold %%
 	- [ ] Abschnitt aus dem Griffith lesen
 
  %% fold %%
