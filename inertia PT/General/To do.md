@@ -326,7 +326,7 @@
 	- [ ] da beide Fahrräder aufeinander zufahren muss man die Geschwindigkeiten addieren 
 	- [ ] $\pu{ 32km }=\pu{ 24km/h }\cdot t$
 	- [ ] nach der Zeit umstellen 
-	- [ ] $t=\frac{32}{24}h=\pu{ 1.3\bar{3}h }$
+	- [ ] $t=\pu{ \frac{32}{24}h }=\pu{ 1.3\bar{3}h }$
 	- [ ] $\Delta s_{FR_{1}}=\pu{ 8km/h }\cdot \pu{ 1.33h }=\pu{ 10.667km }$
 	- [ ] $\Delta s_{FR_{2}}=\pu{ 16km/h }\cdot \pu{ 1.33h }=\pu{21.33km  }$ 
 - [ ] Aufgabe mit Fahrräder und Biene anpassen 
