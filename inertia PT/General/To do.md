@@ -304,6 +304,7 @@
 - [x] Medikament
 - [ ] Spülmaschine ausräumen 
 - [ ] Unterricht 8b vorbereiten 
+- [ ] Daumennägel knipsen 
 - Zähne putzen 
 	- [ ] morgens
 	- [ ] mittags
