@@ -302,7 +302,7 @@
 
 - essen 
 - Medikament
-- Unterricht 8b vob
+- Unterricht 8b vorbereiten 
 - Zähne putzen 
 	- [ ] morgens
 	- [ ] mittags
