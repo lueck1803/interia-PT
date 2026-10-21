@@ -302,7 +302,7 @@
 
 - [x] essen 
 - [x] Medikament
-- [ ] 10er Physiknoten korrigieren...
+- [ ] 10er Physiknoten korrigieren... Zu viele gute Noten..
 - [ ] 2m usb-A↔usb-c kabel bestellen
 - [ ] Spülmaschine ausräumen 
 - [ ] Unterricht 8b vorbereiten 
