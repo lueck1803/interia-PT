@@ -312,7 +312,7 @@
 - [x] Duschen 
 - [ ] 8te Klassen invarianz Prinzip anhand der Aufgabe Biene mit Fahrrädern 
 	- [ ] daraus für die Klassen einen kleinen test machen 
-- [ ] periodenzeichen in pu Umgebung 
+- [x] periodenzeichen in pu Umgebung 
 - [ ] 10te klasse Aufgaben zum Druck
 - [ ] 10te Klasse Handout zu Einheiten 
 - [ ] candis wegen e kurs schreiben 
@@ -321,14 +321,14 @@
 	- [ ] 
 - [ ] Duolingo
 - [ ] Treffpunkt ausrechnen von zwei Fahrrädern mit verschiedenen Geschwindigkeiten
-	- [ ] $\pu{ 32km }=\pu{ 8 km/h}\cdot t+\pu{ 16km/h }\cdot t$
-	- [ ] $\pu{ 32km }=(\pu{ 8 km/h}+\pu{ 16km/h })\cdot t$
-	- [ ] da beide Fahrräder aufeinander zufahren muss man die Geschwindigkeiten addieren 
-	- [ ] $\pu{ 32km }=\pu{ 24km/h }\cdot t$
-	- [ ] nach der Zeit umstellen 
-	- [ ] $t=\pu{ \frac{32}{24}h }=\pu{ 1.3\bar{3}h }$
-	- [ ] $\Delta s_{FR_{1}}=\pu{ 8km/h }\cdot \pu{ 1.33h }=\pu{ 10.667km }$
-	- [ ] $\Delta s_{FR_{2}}=\pu{ 16km/h }\cdot \pu{ 1.33h }=\pu{21.33km  }$ 
+	- $\pu{ 32km }=\pu{ 8 km/h}\cdot t+\pu{ 16km/h }\cdot t$
+	- $\pu{ 32km }=(\pu{ 8 km/h}+\pu{ 16km/h })\cdot t$
+	- da beide Fahrräder aufeinander zufahren muss man die Geschwindigkeiten addieren 
+	- $\pu{ 32km }=\pu{ 24km/h }\cdot t$
+	- nach der Zeit umstellen 
+	- $t=\pu{ \frac{32}{24}h }=\pu{ 1.3\bar{3}h }$
+	- $\Delta s_{FR_{1}}=\pu{ 8km/h }\cdot \pu{ 1.33h }=\pu{ 10.667km }$
+	- $\Delta s_{FR_{2}}=\pu{ 16km/h }\cdot \pu{ 1.33h }=\pu{21.33km  }$ 
 - [ ] Aufgabe mit Fahrräder und Biene anpassen 
 	- [ ] wo legt man sinnvollerweise das Koordinatensystem hin? 
 	- [ ] wie ändert sich die Aufgabe wenn die Fahrräder beide 32 km/h 
