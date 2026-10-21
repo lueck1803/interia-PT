@@ -300,9 +300,9 @@
 - <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- essen 
-- Medikament
-- Unterricht 8b vorbereiten 
+- [x] essen 
+- [x] Medikament
+- [ ] Unterricht 8b vorbereiten 
 - Zähne putzen 
 	- [ ] morgens
 	- [ ] mittags
@@ -338,9 +338,9 @@
 	- [x] m 8b
 	- [x] p 8a
 	- [x] p 8b
-	- [x] p 8c %% fold %%
+	- [ ] p 8c %% fold %%
 	- [x] p 10b %% fold %%
-	- [x] p 10a
+	- [ ] p 10a
 - [ ] 30° Wäsche 
 	- [x] anstellen 
 	- [x] schleudern 
@@ -349,12 +349,12 @@
 - [x] carnivorenwasser auffüllen 
 - [ ] sofa Reinigungstutorial 
 - Ohrentropfen 4-5 eher 3 
-	- [ ] morgens
-	- [x] mittags
-	- [x] abends 
+	- [x] morgens
+	- [ ] mittags
+	- [ ] abends 
 - antibiotika 
 	- [x] mittags 
-	- [x] abends 
+	- [ ] abends 
 - [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
 - [ ] nass rasieren 
 - [ ] Tomaten Samen weg sortieren 
