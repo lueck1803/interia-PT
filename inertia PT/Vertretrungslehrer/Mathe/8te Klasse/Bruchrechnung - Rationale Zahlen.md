@@ -80,10 +80,17 @@ $$\frac{a}{\textcolor{orange}{b}} : \frac{c}{\textcolor{cyan}{d}}=
 	- ⤷ also den Bruch herum drehen
 #### Beispiel
 $$\frac{15}{\textcolor{orange}{3}} : \frac{2}{\textcolor{cyan}{6}}=
-\frac{\frac{15}{\textcolor{orange}{3}}}{\frac{2}{\textcolor{cyan}{6}}}=
-\frac{15}{\textcolor{orange}{3}\cdot\frac{c}{\textcolor{cyan}{d}}}=\frac{a}{\textcolor{orange}{b}} \cdot \frac{\textcolor{cyan}{d}}{c}= \frac{a\cdot\textcolor{cyan}{d}}{\textcolor{orange}{b}\cdot c}$$
+
+\frac{15}{\textcolor{orange}{3}} \cdot \frac{\textcolor{cyan}{6}}{2}= \frac{15\cdot\textcolor{cyan}{6}}{\textcolor{orange}{3}\cdot 2}
+\overset{\color{red}\text{Kürzen}}{=} 
+\frac{\cancelto{ 5 }{ 15 }\cdot\textcolor{cyan}{6}}{\textcolor{orange}{\cancel{ 3 }}\cdot 2}=
+\frac{5\cdot\textcolor{cyan}{\cancelto{ 3 }{ 6 }}}{\textcolor{orange}{1}\cdot \cancel{ 2 }}=
+15
+$$
 
 ### <u>Addition</u>
+$$\frac{a}{\textcolor{orange}{b}} + \frac{c}{\textcolor{cyan}{d}}= \frac{a}{\textcolor{orange}{b}}\cdot \frac{\textcolor{cyan}{d}}{\textcolor{cyan}{d}}+ \frac{c}{\textcolor{cyan}{d}}\cdot\frac{\textcolor{orange}{b}}{\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}}{\textcolor{orange}{b}\textcolor{cyan}{d}}+ \frac{c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}+c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}$$
+#### Beispiel
 $$\frac{a}{\textcolor{orange}{b}} + \frac{c}{\textcolor{cyan}{d}}= \frac{a}{\textcolor{orange}{b}}\cdot \frac{\textcolor{cyan}{d}}{\textcolor{cyan}{d}}+ \frac{c}{\textcolor{cyan}{d}}\cdot\frac{\textcolor{orange}{b}}{\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}}{\textcolor{orange}{b}\textcolor{cyan}{d}}+ \frac{c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}+c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}$$
 ### <u>Subtraktion</u>
 $$\frac{a}{\textcolor{orange}{b}} - \frac{c}{\textcolor{cyan}{d}}= \frac{a}{\textcolor{orange}{b}}\cdot \frac{\textcolor{cyan}{d}}{\textcolor{cyan}{d}}- \frac{c}{\textcolor{cyan}{d}}\cdot\frac{\textcolor{orange}{b}}{\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}}{\textcolor{orange}{b}\textcolor{cyan}{d}}- \frac{c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}-c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}$$ 
