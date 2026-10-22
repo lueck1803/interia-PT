@@ -517,7 +517,7 @@ $\mathrm{II}\quad 10x=\pu{ 08.8888\dots }$
 
 
 
-$2,35\overline{7}$
+$2,35\overline{7}$ %% fold %%
 $x=\pu{ 2,357777\dots }$
 $\mathrm{I}\quad100x=\pu{ 235,7777\dots }$
 $\mathrm{II}\quad1000x=\pu{ 2357,777\dots }$
