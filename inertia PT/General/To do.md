@@ -303,7 +303,8 @@
 - [ ] Duschen 
 - [ ] 8b Donnerstag salma, Shanaja,hana fehlen 
 - [ ] Probeklausur in die Gruppe schicken 
-- [ ] eell
+- [ ] Erklärung zur Prozentrechnung in 8b
+- [ ] luna und sofiia b
 - [ ] gedruckte Probeklausuren korrigieren 
 - [ ] teilen mit komma wie mache ich das sauber 
 - [ ] 10er Physiknoten korrigieren... Zu viele gute Noten..
