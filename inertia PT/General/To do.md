@@ -300,7 +300,10 @@
 - <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- [ ] Duschen 
+- [x] Duschen 
+- [ ] fcheck dings den powershell notes hinzufügen
+- [ ] brüche handout fertig und in die Gruppen schicken
+	- [ ] Dezimalzahl in Bruch umwandeln die brutforce methode
 - [ ] 8b Donnerstag salma, Shanaja,hana fehlen 
 - [ ] Probeklausur in die Gruppe schicken 
 - [ ] Hinweis ganz vorne auf die erste Seite: 
@@ -361,10 +364,10 @@
 	- [ ] wie wenn sie 8km/h fahren 
 	- [ ] und wie wenn eines 8 km/h und das andere 16 km/h fährt 
 	- [ ] wie ändert sich die zurück gelegte Strecke der Fahrräder und der Biene 
-- [x] kursmappe
+- kursmappe
 	- [x] m 5a %% fold %%
 	- [x] m 8a
-	- [x] m 8b
+	- [ ] m 8b
 	- [x] p 8a
 	- [x] p 8b
 	- [ ] p 8c %% fold %%
@@ -378,12 +381,12 @@
 - [x] carnivorenwasser auffüllen 
 - [ ] sofa Reinigungstutorial 
 - Ohrentropfen 4-5 eher 3 
-	- [x] morgens
-	- [x] mittags
-	- [x] abends 
+	- [ ] morgens
+	- [ ] mittags
+	- [ ] abends 
 - antibiotika 
-	- [x] mittags 
-	- [x] abends 
+	- [ ] mittags 
+	- [ ] abends 
 - [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
 - [ ] nass rasieren 
 - [ ] Tomaten Samen weg sortieren 
