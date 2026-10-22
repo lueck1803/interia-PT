@@ -99,7 +99,11 @@ $$
 ## Dezimalzahl in Bruch umwandeln
 ### Vorgehen bei der Umwandlung / Systematisches Durchprobieren
 
-1. Auftrennen 
+1. Auftrennen der Dezimalzahl in Teil vor und Teil nach dem Komma
+	- $5,3=5+0,3$
+	- $2,\bar{3}=2+0,\bar{3}$
+	- $3,\bar{4}=2+0,\bar{4}$
+2. 
 
 ### Dezimalzahl mit Periode in Bruch umrechnen
 wir wollen die Periode loswerden 
