@@ -377,7 +377,7 @@
 	- [x] mittags 
 	- [x] abends 
 - [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
-- [ ] nass rasieren 
+- [x] nass rasieren 
 - [ ] Tomaten Samen weg sortieren 
 - [ ] Krafttraining 
 - [ ] Ordner Lukas leeren bzw neuen ordner anfangen
