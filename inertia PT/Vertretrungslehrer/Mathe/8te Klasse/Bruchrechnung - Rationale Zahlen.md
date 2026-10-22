@@ -2,7 +2,7 @@
 ![[../../../../../../Pasted image 20260814010420.png]]
  
 ![[../../../../../../Pasted image 20260813231740.png|Teilmengendarstellung der Zahlensystem. <br> Quelle: https://de.wikipedia.org/wiki/Nat%C3%BCrliche_Zahl#/media/Datei:Number-systems.svg]]
-
+ %% fold %%
 
 ## Natürliche Zahlen $\mathbb{N}$
 <!-- Das Mengensymbol der natürlichen Zahlen lautet $\mathbb{N}$, also ein N mit einem zweiten Strich an der Diagonalen. -->
@@ -107,7 +107,9 @@ $$
 2. Umwandlung der abgetrennten Kommazahl in einen Bruch
 	1. Durch erkennen bekannter Stammbrüche
 	2. Durch Umwandlung in einen Bruch mit einer 10er Potenz im Nenner
-		- Dezimalzahlen können grundsätzlich durch $\frac{1}{10},$
+		- Dezimalzahlen können grundsätzlich durch $\frac{1}{10}, \frac{1}{100}, \frac{1}{1000}, \frac{1}{10^{4}},\dots$ in Brüche umgewandelt werden.
+		- $0,4=\frac{4}{10}$
+		- $0,012$
 	3. Verfahren des nächsten Abschnitts anwenden
 
 ### Dezimalzahl mit Periode in Bruch umrechnen
