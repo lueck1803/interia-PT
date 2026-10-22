@@ -307,8 +307,8 @@
 - [ ] problem mit klatex lösen
 	- [ ] warum verwendet es das hinterlegte skript nicht immer
 	- [ ] warum geht siunitx nicht?
-- [ ] brüche handout fertig und in die Gruppen schicken
-	- [ ] Dezimalzahl in Bruch umwandeln die brutforce methode
+- [x] brüche handout fertig und in die Gruppen schicken
+	- [x] Dezimalzahl in Bruch umwandeln die brutforce methode
 - [ ] 8b Donnerstag salma, Shanaja,hana fehlen 
 - [ ] Probeklausur in die Gruppe schicken 
 - [ ] Hinweis ganz vorne auf die erste Seite: 
