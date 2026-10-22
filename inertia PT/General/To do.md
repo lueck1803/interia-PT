@@ -302,6 +302,10 @@
 
 - [x] Duschen 
 - [ ] fcheck dings den powershell notes hinzufügen
+- [ ] shift heading hotkey?
+- [ ] problem mit klatex lösen
+	- [ ] warum verwendet es das hinterlegte skript nicht immer
+	- [ ] warum geht siunitx nicht?
 - [ ] brüche handout fertig und in die Gruppen schicken
 	- [ ] Dezimalzahl in Bruch umwandeln die brutforce methode
 - [ ] 8b Donnerstag salma, Shanaja,hana fehlen 
