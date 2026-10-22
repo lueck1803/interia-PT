@@ -304,8 +304,10 @@
 - [ ] 8b Donnerstag salma, Shanaja,hana fehlen 
 - [ ] Probeklausur in die Gruppe schicken 
 - [ ] Erklärung zur Prozentrechnung in 8b
-- [ ] luna und sofiia b
+- [ ] luna und sofiia in schul.cloud?
 - [ ] gedruckte Probeklausuren korrigieren 
+- [ ] Korrektur auf stick
+- [ ] für Klausur Bruchrechnung vereinfachen dafür mehr terme zusammenfassen 
 - [ ] teilen mit komma wie mache ich das sauber 
 - [ ] 10er Physiknoten korrigieren... Zu viele gute Noten..
 - [ ] 2m usb-A↔usb-c kabel bestellen
