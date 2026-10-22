@@ -105,10 +105,23 @@ $$
 	- $2,\bar{3}=2+0,\bar{3}$
 	- $3,\bar{4}=2+0,\bar{4}$
 2. Umwandlung der abgetrennten Kommazahl in einen Bruch
-	1. Durch erkennen bekannter Stammbrüche
-		- $\frac{1}{3}=0,\bar{3}$
-		- $\frac{2}{3}=0,\bar{6}$
-		- 
+	1. Durch erkennen bekannter Brüche
+		- 2:
+			- $\frac{1}{2}=0,5$
+		- 3:
+			- $\frac{1}{3}=0,\bar{3}$
+			- $\frac{2}{3}=0,\bar{6}$
+		- 4:
+			- Merke $100\div 4= 25$
+			- $\frac{1}{4}=0,25$
+			- $\frac{2}{4}=\frac{1}{2}=0,5$
+			- $\frac{3}{4}=0,75$
+		- 5:
+			- Merke $100\div 5= 20$
+			- $\frac{1}{5}=0,2$
+			- $\frac{2}{5}=0,4$
+			- $\frac{3}{5}=0,6$
+			- $\frac{4}{5}=0,8$
 	2. Durch Umwandlung in einen Bruch mit einer 10er Potenz im Nenner
 		- Dezimalzahlen können grundsätzlich durch $\frac{1}{10}, \frac{1}{100}, \frac{1}{1000}, \frac{1}{10^{4}},\dots$ in Brüche umgewandelt werden.
 		- $0,4=\frac{4}{10}$
