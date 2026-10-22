@@ -106,11 +106,14 @@ $$
 	- $3,\bar{4}=2+0,\bar{4}$
 2. Umwandlung der abgetrennten Kommazahl in einen Bruch
 	1. Durch erkennen bekannter Stammbrüche
+		- $\frac{1}{3}=0,\bar{3}$
+		- $\frac{2}{3}=0,\bar{6}$
+		- 
 	2. Durch Umwandlung in einen Bruch mit einer 10er Potenz im Nenner
 		- Dezimalzahlen können grundsätzlich durch $\frac{1}{10}, \frac{1}{100}, \frac{1}{1000}, \frac{1}{10^{4}},\dots$ in Brüche umgewandelt werden.
 		- $0,4=\frac{4}{10}$
-		- $0,012$
-	3. Verfahren des nächsten Abschnitts anwenden
+		- $0,012=\frac{12}{1000}$
+	3. Verfahren des nächsten [[Bruchrechnung - Rationale Zahlen#Dezimalzahl mit Periode in Bruch umrechnen|Abschnitts]] anwenden
 
 ### Dezimalzahl mit Periode in Bruch umrechnen
 wir wollen die Periode loswerden 
