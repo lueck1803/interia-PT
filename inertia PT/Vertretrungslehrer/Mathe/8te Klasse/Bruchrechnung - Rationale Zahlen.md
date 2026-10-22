@@ -101,9 +101,14 @@ $$
 
 1. Auftrennen der Dezimalzahl in Teil vor und Teil nach dem Komma
 	- $5,3=5+0,3$
+	- $8,25=8+0,25$
 	- $2,\bar{3}=2+0,\bar{3}$
 	- $3,\bar{4}=2+0,\bar{4}$
-2. 
+2. Umwandlung der abgetrennten Kommazahl in einen Bruch
+	1. Durch erkennen bekannter Stammbrüche
+	2. Durch Umwandlung in einen Bruch mit einer 10er Potenz im Nenner
+		- Dezimalzahlen können grundsätzlich durch $\frac{1}{10},$
+	3. Verfahren des nächsten Abschnitts anwenden
 
 ### Dezimalzahl mit Periode in Bruch umrechnen
 wir wollen die Periode loswerden 

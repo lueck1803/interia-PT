@@ -3,7 +3,7 @@
   "snippetVariables": "{\n\t\"${GREEK}\": \"alpha|beta|gamma|Gamma|delta|Delta|epsilon|varepsilon|zeta|eta|theta|vartheta|Theta|iota|kappa|lambda|Lambda|mu|nu|xi|omicron|pi|rho|varrho|sigma|Sigma|tau|upsilon|Upsilon|phi|varphi|Phi|chi|psi|omega|Omega\",\n\t\"${SYMBOL}\": \"parallel|perp|partial|nabla|hbar|ell|infty|oplus|ominus|otimes|oslash|square|star|dagger|vee|wedge|subseteq|subset|supseteq|supset|emptyset|exists|nexists|forall|implies|impliedby|iff|setminus|neg|lor|land|bigcup|bigcap|cdot|times|simeq|approx\",\n\t\"${MORE_SYMBOLS}\": \"leq|geq|neq|gg|ll|equiv|sim|propto|rightarrow|leftarrow|Rightarrow|Leftarrow|leftrightarrow|to|mapsto|cap|cup|in|sum|prod|exp|ln|log|det|dots|vdots|ddots|pm|mp|int|iint|iiint|oint\"\n}\n",
   "snippetsEnabled": true,
   "snippetsTrigger": "Space",
-  "snippetNextTabstopTrigger": "Space",
+  "snippetNextTabstopTrigger": "Tab",
   "snippetPreviousTabstopTrigger": "Shift-Tab",
   "suppressSnippetTriggerOnIME": false,
   "suppressIMEWarning": false,
@@ -15,6 +15,7 @@
   "snippetVariablesFileLocation": "",
   "concealEnabled": false,
   "concealRevealTimeout": 0,
+  "concealMaps": "{\n\t\"not_remap\": {},\n\t\"cmd_symbols\": {},\n\t\"operators\": {},\n\t\"fractions\": {},\n\t\"greek\": {},\n\t\"map_super\": {},\n\t\"map_sub\": {},\n\t\"bar\": {},\n\t\"dot\": {},\n\t\"hat\": {},\n\t\"brackets\": {},\n\t\"leftrightBrackets\": {},\n\t\"mathbb\": {},\n\t\"mathscrcal\": {},\n\t\"mathfrak\": {}\n}",
   "colorPairedBracketsEnabled": true,
   "highlightCursorBracketsEnabled": true,
   "mathPreviewEnabled": true,
@@ -51,5 +52,6 @@
   "autofractionTrigger": "/",
   "matrixShortcutsCellTrigger": "Tab",
   "matrixShortcutsNewlineTrigger": "Enter",
-  "matrixShortcutsExitTrigger": "Shift-Enter"
+  "matrixShortcutsExitTrigger": "Shift-Enter",
+  "textMacros": "{\n\t\"text\": [],\n\t\"restricted\": [\n\t\t{\n\t\t\t\"name\": \"operatorname\",\n\t\t\t\"arguments\": [\n\t\t\t\t0\n\t\t\t]\n\t\t}\n\t]\n}"
 }
