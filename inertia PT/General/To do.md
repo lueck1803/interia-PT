@@ -301,9 +301,11 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Duschen 
-- [ ] 8b Donnerstag salma, Shanaja,hana
+- [ ] 8b Donnerstag salma, Shanaja,hana fehlen 
 - [ ] Probeklausur in die Gruppe schicken 
+- [ ] eell
 - [ ] gedruckte Probeklausuren korrigieren 
+- [ ] teilen mit komma wie mache ich das sauber 
 - [ ] 10er Physiknoten korrigieren... Zu viele gute Noten..
 - [ ] 2m usb-A↔usb-c kabel bestellen
 - [ ] Spülmaschine ausräumen 
