@@ -54,18 +54,22 @@ $$
 
 # Bruchrechnung
 ## Grundrechenarten
-- Multiplikation $\frac{a}{\textcolor{orange}{b}}\cdot \frac{c}{\textcolor{cyan}{d}}= \frac{ac}{\textcolor{orange}{b}\textcolor{cyan}{d}}$
-- Division $\frac{a}{\textcolor{orange}{b}} : \frac{c}{\textcolor{cyan}{d}}=\frac{\frac{a}{\textcolor{orange}{b}}}{\frac{c}{\textcolor{cyan}{d}}}=\frac{a}{\textcolor{orange}{b}\cdot\frac{c}{\textcolor{cyan}{d}}}=\frac{a}{\textcolor{orange}{b}} \cdot \frac{\textcolor{cyan}{d}}{c}= \frac{a\cdot\textcolor{cyan}{d}}{\textcolor{orange}{b}\cdot c}$
-	- *Willst du teilen durch nen Bruch wird das <font color="#00fa9a">Brüchlein umgestürzt</font> mal genommen und gekürzt.*
-	- <u>Erklärung nach dem ersten Schritt</u>: 
-	- Frage: Wenn ich durch einen Bruch teile
-		- welchen Effekt hat der Zähler des Bruchs ? ⟹ verkleinert die Zahl bzw. vergrößert den Nenner der ersten Zahl
-		- Der Nenner des teilenden Bruchs vergrößert die Zahl bzw verkleinert den Nenner
-	- Veranschaulichung durch 2. Schritt:
-		- b wird durch c vergrößert und durch d verkleinert 
-		- ⤷ daher kann man auch d in den Zähler zu a schreiben
-		- ⤷ also den Bruch herum drehen
-- Addition $\frac{a}{\textcolor{orange}{b}} + \frac{c}{\textcolor{cyan}{d}}= \frac{a}{\textcolor{orange}{b}}\cdot \frac{\textcolor{cyan}{d}}{\textcolor{cyan}{d}}+ \frac{c}{\textcolor{cyan}{d}}\cdot\frac{\textcolor{orange}{b}}{\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}}{\textcolor{orange}{b}\textcolor{cyan}{d}}+ \frac{c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}+c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}$ 
+### <u>Multiplikation</u> 
+$$\frac{a}{\textcolor{orange}{b}}\cdot \frac{c}{\textcolor{cyan}{d}}= \frac{ac}{\textcolor{orange}{b}\textcolor{cyan}{d}}$$
+
+### <u>Division</u>
+$$\frac{a}{\textcolor{orange}{b}} : \frac{c}{\textcolor{cyan}{d}}=\frac{\frac{a}{\textcolor{orange}{b}}}{\frac{c}{\textcolor{cyan}{d}}}=\frac{a}{\textcolor{orange}{b}\cdot\frac{c}{\textcolor{cyan}{d}}}=\frac{a}{\textcolor{orange}{b}} \cdot \frac{\textcolor{cyan}{d}}{c}= \frac{a\cdot\textcolor{cyan}{d}}{\textcolor{orange}{b}\cdot c}$$
+- *Willst du teilen durch nen Bruch wird das <font color="#00fa9a">Brüchlein umgestürzt</font> mal genommen und gekürzt.*
+- <u>Erklärung nach dem ersten Schritt</u>: 
+- Frage: Wenn ich durch einen Bruch teile
+	- welchen Effekt hat der Zähler des Bruchs ? ⟹ verkleinert die Zahl bzw. vergrößert den Nenner der ersten Zahl
+	- Der Nenner des teilenden Bruchs vergrößert die Zahl bzw verkleinert den Nenner
+- Veranschaulichung durch 2. Schritt:
+	- b wird durch c vergrößert und durch d verkleinert 
+	- ⤷ daher kann man auch d in den Zähler zu a schreiben
+	- ⤷ also den Bruch herum drehen
+### <u>Addition</u>
+$$\frac{a}{\textcolor{orange}{b}} + \frac{c}{\textcolor{cyan}{d}}= \frac{a}{\textcolor{orange}{b}}\cdot \frac{\textcolor{cyan}{d}}{\textcolor{cyan}{d}}+ \frac{c}{\textcolor{cyan}{d}}\cdot\frac{\textcolor{orange}{b}}{\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}}{\textcolor{orange}{b}\textcolor{cyan}{d}}+ \frac{c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}+c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}$ $
 - Subtraktion $\frac{a}{\textcolor{orange}{b}} - \frac{c}{\textcolor{cyan}{d}}= \frac{a}{\textcolor{orange}{b}}\cdot \frac{\textcolor{cyan}{d}}{\textcolor{cyan}{d}}- \frac{c}{\textcolor{cyan}{d}}\cdot\frac{\textcolor{orange}{b}}{\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}}{\textcolor{orange}{b}\textcolor{cyan}{d}}- \frac{c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}-c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}$ 
 - kgV (<u>kleinstes gemeinsames Vielfaches</u>) 
   Verwendung: <font color="#ff6e6e">Hauptnenner</font> bilden
@@ -113,12 +117,12 @@ $$
 			- $\frac{2}{3}=0,\bar{6}$
 		- 4:
 			- Merke $100\div 4= 25$
-			- ${\color{cyan}\frac{1}{4}=0,25}$
+			- ${\color{green}\frac{1}{4}=0,25}$
 			- $\frac{2}{4}=\frac{1}{2}=0,5$
 			- $\frac{3}{4}=0,75$
 		- 5:
 			- Merke $100\div 5= 20$
-			- ${\color{cyan}\frac{1}{5}=0,2}$
+			- ${\color{green}\frac{1}{5}=0,2}$
 			- $\frac{2}{5}=0,4$
 			- $\frac{3}{5}=0,6$
 			- $\frac{4}{5}=0,8$
@@ -132,8 +136,8 @@ $$
 			- $\frac{1}{7}=0,\overline{142857}$
 		- 8: <font color="#00b0f0">Wichtig</font>
 			- Merke $1000\div 8= 125$, da $1000\div 4=250$
-			- $\frac{1}{8}=0,125$
-		- 9: Wichtig
+			- ${\color{green}\frac{1}{8}=0,125}$
+		- 9: <font color="#ff0000">Wichtig</font>
 			- Alle Zahlen von 1-8 die als Periode auftauchen lassen sich mit 9tel Brüchen darstellen
 			- $\frac{1}{9}=0,\bar{1}$
 			- $\frac{2}{9}=0,\bar{2}$
@@ -141,7 +145,8 @@ $$
 			- $\frac{4}{9}=0,\bar{4}$
 			- $\frac{5}{9}=0,\bar{5}$
 			- $\frac{6}{9}=\frac{2}{3}=0,\bar{6}$
-			- 
+			- $\frac{7}{9}=0,\bar{7}$
+			- $\frac{8}{9}=0,\bar{8}$
 	2. Durch Umwandlung in einen Bruch mit einer 10er Potenz im Nenner
 		- Dezimalzahlen können grundsätzlich durch $\frac{1}{10}, \frac{1}{100}, \frac{1}{1000}, \frac{1}{10^{4}},\dots$ in Brüche umgewandelt werden.
 		- $0,4=\frac{4}{10}$
