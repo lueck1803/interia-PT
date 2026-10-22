@@ -191,11 +191,11 @@ $$\frac{4}{\textcolor{orange}{9}} - \frac{5}{\textcolor{cyan}{4}}=
 		- $0,4=\frac{4}{10}$
 		- $0,012=\frac{12}{1000}$
 	3. Verfahren des nächsten [[Bruchrechnung - Rationale Zahlen#Dezimalzahl mit Periode in Bruch umrechnen|Abschnitts]] anwenden
-
 #### Beispiele
 - $5,3 = 5+ 0,3 = \frac{5}{1}+\frac{3}{10}=\frac{50}{10}+\frac{3}{10}=\frac{53}{10}$ ⟹ hätte man hier auch in einem Schritt machen können
 - $8,25=8+0,25=\frac{8}{1}+\frac{1}{4}=\frac{8\cdot4+1}{4}=\frac{32+1}{4}=\frac{33}{4}$
-- 
+- $3,\bar{4}=\frac{3}{1}+\frac{4}{9}=\frac{3\cdot9+4}{9}=\frac{27+4}{9}=\frac{31}{9}$
+- $4,125=\frac{4}{1}+\frac{1}{8}=\frac{4\cdot 8+1}{8}=\frac{32+1}{8}=\frac{33}{8}$
 
 ### Dezimalzahl mit Periode in Bruch umrechnen
 wir wollen die Periode loswerden 
