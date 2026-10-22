@@ -138,7 +138,9 @@ $$
 			- $\frac{1}{9}=0,\bar{1}$
 			- $\frac{2}{9}=0,\bar{2}$
 			- $\frac{3}{9}=\frac{1}{3}=0,\bar{3}$
-			- $\frac{1}{9}=0,\bar{4}$
+			- $\frac{4}{9}=0,\bar{4}$
+			- $\frac{5}{9}=0,\bar{5}$
+			- 
 	2. Durch Umwandlung in einen Bruch mit einer 10er Potenz im Nenner
 		- Dezimalzahlen können grundsätzlich durch $\frac{1}{10}, \frac{1}{100}, \frac{1}{1000}, \frac{1}{10^{4}},\dots$ in Brüche umgewandelt werden.
 		- $0,4=\frac{4}{10}$
