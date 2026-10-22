@@ -96,7 +96,12 @@ $$
 	- $2 \frac{3}{4}$ <font color="#48d1cc">ohne Mal-Punkt</font> meint das zwei Ganze und $\frac{3}{4}$
 	- also $2+\frac{3}{4}$
 
-## Dezimalzahl mit Periode in Brüche umrechnen
+## Dezimalzahl in Bruch umwandeln
+### Vorgehen bei der Umwandlung / Systematisches Durchprobieren
+
+1. Auftrennen 
+
+### Dezimalzahl mit Periode in Bruch umrechnen
 wir wollen die Periode loswerden 
 1. ⤷das gelingt uns durch Subtraktion der Periode. 
 	- Wir müssen also $\pu{ 0,9999\dots }$,  $\pu{ 0,8888\dots }$,  $\pu{ 0,007777\dots }$ oder $\pu{ 0,06666\dots }$ abziehen
