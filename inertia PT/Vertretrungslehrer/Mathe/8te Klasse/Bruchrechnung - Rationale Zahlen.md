@@ -69,24 +69,30 @@ $$\frac{a}{\textcolor{orange}{b}} : \frac{c}{\textcolor{cyan}{d}}=\frac{\frac{a}
 	- ⤷ daher kann man auch d in den Zähler zu a schreiben
 	- ⤷ also den Bruch herum drehen
 ### <u>Addition</u>
-$$\frac{a}{\textcolor{orange}{b}} + \frac{c}{\textcolor{cyan}{d}}= \frac{a}{\textcolor{orange}{b}}\cdot \frac{\textcolor{cyan}{d}}{\textcolor{cyan}{d}}+ \frac{c}{\textcolor{cyan}{d}}\cdot\frac{\textcolor{orange}{b}}{\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}}{\textcolor{orange}{b}\textcolor{cyan}{d}}+ \frac{c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}+c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}$ $
-- Subtraktion $\frac{a}{\textcolor{orange}{b}} - \frac{c}{\textcolor{cyan}{d}}= \frac{a}{\textcolor{orange}{b}}\cdot \frac{\textcolor{cyan}{d}}{\textcolor{cyan}{d}}- \frac{c}{\textcolor{cyan}{d}}\cdot\frac{\textcolor{orange}{b}}{\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}}{\textcolor{orange}{b}\textcolor{cyan}{d}}- \frac{c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}-c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}$ 
-- kgV (<u>kleinstes gemeinsames Vielfaches</u>) 
-  Verwendung: <font color="#ff6e6e">Hauptnenner</font> bilden
-	- Suche die kleinste Zahl die in beiden *1x1-Reihen* vorkommt
-	- Beispiel 3 und 4
-		- <u>3:</u> $3, 6,{\color{orange}12},15,18,21 ,{\color{orange}24},27, 30, \dots$
-		- <u>4:</u> $4,8,{\color{orange}12},16,20,{\color{orange}24},28,32,\dots$
-		- das <u>kgV</u> ist demnach ${\color{orange}12}$
-	- Beispiel 18 und 27
-		- <u>18:</u> $18, 36,{\color{orange}54},72,\dots$
-		- <u>27:</u> $27,{\color{orange} 54 },81,...$ 
-		- das <u>kgV</u> ist demnach ${\color{orange}54}$
-		- ⤷ Bringe $\frac{6}{18}$ und $\frac{9}{27}$ auf den gleichen Nenner
-			- da 54 an dritter Stelle der 18er Reihe steht, muss $\frac{6}{18}$ mit 3 erweitert werden 
-			  ⟹ $\frac{6}{18}\cdot \frac{3}{3}=\frac{18}{54}$
-			- da 54 an zweiter Stelle in der 27er Reihe ist, muss $\frac{9}{27}$ mit 2 erweitert werden 
-			  ⟹$\frac{9}{27}\cdot \frac{2}{2}=\frac{18}{54}$
+$$\frac{a}{\textcolor{orange}{b}} + \frac{c}{\textcolor{cyan}{d}}= \frac{a}{\textcolor{orange}{b}}\cdot \frac{\textcolor{cyan}{d}}{\textcolor{cyan}{d}}+ \frac{c}{\textcolor{cyan}{d}}\cdot\frac{\textcolor{orange}{b}}{\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}}{\textcolor{orange}{b}\textcolor{cyan}{d}}+ \frac{c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}+c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}$$
+### <u>Subtraktion</u>
+$$\frac{a}{\textcolor{orange}{b}} - \frac{c}{\textcolor{cyan}{d}}= \frac{a}{\textcolor{orange}{b}}\cdot \frac{\textcolor{cyan}{d}}{\textcolor{cyan}{d}}- \frac{c}{\textcolor{cyan}{d}}\cdot\frac{\textcolor{orange}{b}}{\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}}{\textcolor{orange}{b}\textcolor{cyan}{d}}- \frac{c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}-c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}$$ 
+## Sonstiges
+### kgV (<u>kleinstes gemeinsames Vielfaches</u>) 
+
+#### Auf Englisch (wichtig für den Taschenrechner):
+LCM (Larges Common Multiplier)
+
+#### Verwendung: <font color="#ff6e6e">Hauptnenner</font> bilden
+- Suche die kleinste Zahl die in beiden *1x1-Reihen* vorkommt
+- Beispiel 3 und 4
+	- <u>3:</u> $3, 6,{\color{orange}12},15,18,21 ,{\color{orange}24},27, 30, \dots$
+	- <u>4:</u> $4,8,{\color{orange}12},16,20,{\color{orange}24},28,32,\dots$
+	- das <u>kgV</u> ist demnach ${\color{orange}12}$
+- Beispiel 18 und 27
+	- <u>18:</u> $18, 36,{\color{orange}54},72,\dots$
+	- <u>27:</u> $27,{\color{orange} 54 },81,...$ 
+	- das <u>kgV</u> ist demnach ${\color{orange}54}$
+	- ⤷ Bringe $\frac{6}{18}$ und $\frac{9}{27}$ auf den gleichen Nenner
+		- da 54 an dritter Stelle der 18er Reihe steht, muss $\frac{6}{18}$ mit 3 erweitert werden 
+		  ⟹ $\frac{6}{18}\cdot \frac{3}{3}=\frac{18}{54}$
+		- da 54 an zweiter Stelle in der 27er Reihe ist, muss $\frac{9}{27}$ mit 2 erweitert werden 
+		  ⟹$\frac{9}{27}\cdot \frac{2}{2}=\frac{18}{54}$
 			- Die Zahlen sind also gleich
 - ggT (<u>größter gemeinsamer Teiler</u>) 
   Verwendung: <font color="#48d1cc">Kürzen</font>
