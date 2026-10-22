@@ -300,34 +300,18 @@
 - <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- [x] Duschen 
+- Duschen 
 - [ ] fcheck dings den powershell notes hinzufügen
-- [ ] hotkey huion software entfernen
-- [x] shift heading hotkey?
-- [ ] problem mit klatex lösen
-	- [ ] warum verwendet es das hinterlegte skript nicht immer
-	- [ ] warum geht siunitx nicht?
-- [x] brüche handout fertig und in die Gruppen schicken
-	- [x] Dezimalzahl in Bruch umwandeln die brutforce methode
+- [x] hotkey huion software entfernen
 - [ ] 8b Donnerstag salma, Shanaja,hana fehlen 
-- [x] Probeklausur in die Gruppe schicken 
-- [ ] Hinweis ganz vorne auf die erste Seite: 
-	- [x] einzelne Schritte machen/verbindlich kein Hinweis 
-	- [x] und überschriftSchrift ändern so dass fett gedruckt statt hell
-- [ ] Erklärung zur Prozentrechnung in 8b
 - [ ] luna und sofiia in schul.cloud?
-- [x] gedruckte Probeklausuren korrigieren
-- [x] Korrektur auf stick
 - [ ] für Klausur Bruchrechnung vereinfachen dafür mehr terme zusammenfassen 
 - [ ] teilen mit komma wie mache ich das sauber 
 - [ ] 10er Physiknoten korrigieren... Zu viele gute Noten..
 - [ ] 2m usb-A↔usb-c kabel bestellen
 - [ ] Spülmaschine ausräumen 
 - [ ] Bettdecke beziehen 
-- [x] bruchrechnung aufgaben suchen
-- [x] Unterricht 8b vorbereiten  %% fold %%
-- [x] Probeklausur 8er erstellen  %% fold %%
-- [ ] Aufgabe:
+- [ ] Aufgabe: %% fold %%
 	- [ ] Verfolgungsjagd zweier Senioren %% fold %%
 	- [ ] Abstand 5 m 
 	- [ ] Rollator 
@@ -347,13 +331,13 @@
 	- [ ] abends 
 - [ ] 8te Klassen invarianz Prinzip anhand der Aufgabe Biene mit Fahrrädern 
 	- [ ] daraus für die Klassen einen kleinen test machen 
-- [ ] 10te klasse Aufgaben zum Druck
-- [ ] 10te Klasse Handout zu Einheiten 
-- [ ] candis wegen e kurs schreiben 
-- [ ] 10te Klasse Experimente zum Druck überlegen 
-	- [ ] welcher Behälter läuft schneller leer? Dünner/dicker Behälter 
-	- [ ] 
-- [ ] Duolingo %% fold %%
+- [ ] 10te klasse Aufgaben zum Druck %% fold %%
+- [ ] 10te Klasse Handout zu Einheiten  %% fold %%
+- [ ] candis wegen e kurs schreiben  %% fold %%
+- [ ] 10te Klasse Experimente zum Druck überlegen  %% fold %%
+	- [ ] welcher Behälter läuft schneller leer? Dünner/dicker Behälter  %% fold %%
+	- [ ]  %% fold %%
+- [x] Duolingo %% fold %%
 - [ ] Treffpunkt ausrechnen von zwei Fahrrädern mit verschiedenen Geschwindigkeiten %% fold %%
 	- $\pu{ 32km }=\pu{ 8 km/h}\cdot t+\pu{ 16km/h }\cdot t$
 	- $\pu{ 32km }=(\pu{ 8 km/h}+\pu{ 16km/h })\cdot t$
@@ -395,7 +379,6 @@
 - [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
 - [ ] nass rasieren 
 - [ ] Tomaten Samen weg sortieren 
-- [ ] Bettwäsche wechseln 
 - [ ] Krafttraining 
 - [ ] Ordner Lukas leeren bzw neuen ordner anfangen
 - [ ] rote Paprika aufschneiden 
