@@ -55,10 +55,12 @@ $$
 # Bruchrechnung
 ## Grundrechenarten
 ### <u>Multiplikation</u> 
-$$\frac{a}{\textcolor{orange}{b}}\cdot \frac{c}{\textcolor{cyan}{d}}= \frac{ac}{\textcolor{orange}{b}\textcolor{cyan}{d}}$$
+$$\frac{a}{\textcolor{orange}{b}}\cdot \frac{c}{\textcolor{cyan}{d}}= \frac{a\cdot c}{\textcolor{orange}{b}\cdot\textcolor{cyan}{d}}$$
 #### Beispiel
 $$
-\frac{4}{\textcolor{orange}{5}}\cdot \frac{35}{\textcolor{cyan}{12}}= \frac{4\cdot 35}{\textcolor{orange}{b}\textcolor{cyan}{d}}
+\frac{4}{\textcolor{orange}{5}}\cdot \frac{35}{\textcolor{cyan}{12}}= \frac{4\cdot 35}{\textcolor{orange}{5}\cdot\textcolor{cyan}{12}} \overset{\color{red}\text{Kürzen}}{=} 
+\frac{\cancelto{ 1 }{ 4 }\cdot 35}{\textcolor{orange}{5}\cdot\textcolor{cyan}{\cancelto{ 3 }{ 12 }}}
+= \frac{1\cdot \cancelto{ 7 }{ 35 }}{\textcolor{orange}{\cancelto{ 1 }{ 5 }}\cdot\textcolor{cyan}{3}} =\frac{7}{}
 $$
 ### <u>Division</u>
 $$\frac{a}{\textcolor{orange}{b}} : \frac{c}{\textcolor{cyan}{d}}=\frac{\frac{a}{\textcolor{orange}{b}}}{\frac{c}{\textcolor{cyan}{d}}}=\frac{a}{\textcolor{orange}{b}\cdot\frac{c}{\textcolor{cyan}{d}}}=\frac{a}{\textcolor{orange}{b}} \cdot \frac{\textcolor{cyan}{d}}{c}= \frac{a\cdot\textcolor{cyan}{d}}{\textcolor{orange}{b}\cdot c}$$
