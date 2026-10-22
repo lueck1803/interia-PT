@@ -302,6 +302,8 @@
 
 - [ ] Duschen 
 - [ ] 8b Donnerstag salma, Shanaja,hana
+- [ ] Probeklausur in die Gruppe schicken 
+- [ ] Probeklausur korrigieren 
 - [ ] 10er Physiknoten korrigieren... Zu viele gute Noten..
 - [ ] 2m usb-A↔usb-c kabel bestellen
 - [ ] Spülmaschine ausräumen 
