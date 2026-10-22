@@ -113,15 +113,19 @@ $$
 			- $\frac{2}{3}=0,\bar{6}$
 		- 4:
 			- Merke $100\div 4= 25$
-			- $\frac{1}{4}=0,25$
+			- ${\color{cyan}\frac{1}{4}=0,25}$
 			- $\frac{2}{4}=\frac{1}{2}=0,5$
 			- $\frac{3}{4}=0,75$
 		- 5:
 			- Merke $100\div 5= 20$
-			- $\frac{1}{5}=0,2$
+			- ${\color{cyan}\frac{1}{5}=0,2}$
 			- $\frac{2}{5}=0,4$
 			- $\frac{3}{5}=0,6$
 			- $\frac{4}{5}=0,8$
+		- 6: 
+			- $\frac{1}{6}=0,1\bar{6}$
+			- $\frac{2}{6}=\frac{1}{3}=0,\bar{3}$
+			- 
 	2. Durch Umwandlung in einen Bruch mit einer 10er Potenz im Nenner
 		- Dezimalzahlen können grundsätzlich durch $\frac{1}{10}, \frac{1}{100}, \frac{1}{1000}, \frac{1}{10^{4}},\dots$ in Brüche umgewandelt werden.
 		- $0,4=\frac{4}{10}$

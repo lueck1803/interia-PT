@@ -302,7 +302,8 @@
 
 - [x] Duschen 
 - [ ] fcheck dings den powershell notes hinzufügen
-- [ ] shift heading hotkey?
+- [ ] hotkey huion software entfernen
+- [x] shift heading hotkey?
 - [ ] problem mit klatex lösen
 	- [ ] warum verwendet es das hinterlegte skript nicht immer
 	- [ ] warum geht siunitx nicht?
