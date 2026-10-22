@@ -310,10 +310,10 @@
 - [x] brüche handout fertig und in die Gruppen schicken
 	- [x] Dezimalzahl in Bruch umwandeln die brutforce methode
 - [ ] 8b Donnerstag salma, Shanaja,hana fehlen 
-- [ ] Probeklausur in die Gruppe schicken 
+- [x] Probeklausur in die Gruppe schicken 
 - [ ] Hinweis ganz vorne auf die erste Seite: 
-	- [ ] einzelne Schritte machen/verbindlich kein Hinweis 
-	- [ ] und überschriftSchrift ändern so dass fett gedruckt statt hell
+	- [x] einzelne Schritte machen/verbindlich kein Hinweis 
+	- [x] und überschriftSchrift ändern so dass fett gedruckt statt hell
 - [ ] Erklärung zur Prozentrechnung in 8b
 - [ ] luna und sofiia in schul.cloud?
 - [ ] gedruckte Probeklausuren korrigieren 
