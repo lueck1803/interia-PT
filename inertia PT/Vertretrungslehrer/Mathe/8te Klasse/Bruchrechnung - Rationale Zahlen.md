@@ -122,15 +122,23 @@ $$
 			- $\frac{2}{5}=0,4$
 			- $\frac{3}{5}=0,6$
 			- $\frac{4}{5}=0,8$
-		- 6:  <font color="#00b0f0">Perioden Umformung</font>[[Bruchrechnung - Rationale Zahlen#Dezimalzahl mit Periode in Bruch umrechnen|Abschnitts]]
+		- 6:  <font color="#00b0f0">Perioden Umformung</font> [[Bruchrechnung - Rationale Zahlen#Dezimalzahl mit Periode in Bruch umrechnen|⟹]]
 			- $\frac{1}{6}=0,1\bar{6}$
 			- $\frac{2}{6}=\frac{1}{3}=0,\bar{3}$
 			- $\frac{3}{6}=\frac{1}{2}=0,5$
 			- $\frac{4}{6}=\frac{2}{3}=0,\bar{6}$
 			- $\frac{5}{6}=0,8\bar{3}$
-		- 7: <font color="#00b0f0">Perioden Umformung</font>
+		- 7: <font color="#00b0f0">Perioden Umformung</font> [[Bruchrechnung - Rationale Zahlen#Dezimalzahl mit Periode in Bruch umrechnen|⟹]]
 			- $\frac{1}{7}=0,\overline{142857}$
-		- 
+		- 8: <font color="#00b0f0">Wichtig</font>
+			- Merke $1000\div 8= 125$, da $1000\div 4=250$
+			- $\frac{1}{8}=0,125$
+		- 9: Wichtig
+			- Alle Zahlen von 1-8 die als Periode auftauchen lassen sich mit 9tel Brüchen darstellen
+			- $\frac{1}{9}=0,\bar{1}$
+			- $\frac{2}{9}=0,\bar{2}$
+			- $\frac{3}{9}=\frac{1}{3}=0,\bar{3}$
+			- $\frac{1}{9}=0,\bar{4}$
 	2. Durch Umwandlung in einen Bruch mit einer 10er Potenz im Nenner
 		- Dezimalzahlen können grundsätzlich durch $\frac{1}{10}, \frac{1}{100}, \frac{1}{1000}, \frac{1}{10^{4}},\dots$ in Brüche umgewandelt werden.
 		- $0,4=\frac{4}{10}$
