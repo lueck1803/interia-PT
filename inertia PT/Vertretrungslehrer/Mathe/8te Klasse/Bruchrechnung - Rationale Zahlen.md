@@ -122,10 +122,15 @@ $$
 			- $\frac{2}{5}=0,4$
 			- $\frac{3}{5}=0,6$
 			- $\frac{4}{5}=0,8$
-		- 6: 
+		- 6:  <font color="#00b0f0">Perioden Umformung</font>[[Bruchrechnung - Rationale Zahlen#Dezimalzahl mit Periode in Bruch umrechnen|Abschnitts]]
 			- $\frac{1}{6}=0,1\bar{6}$
 			- $\frac{2}{6}=\frac{1}{3}=0,\bar{3}$
-			- 
+			- $\frac{3}{6}=\frac{1}{2}=0,5$
+			- $\frac{4}{6}=\frac{2}{3}=0,\bar{6}$
+			- $\frac{5}{6}=0,8\bar{3}$
+		- 7: <font color="#00b0f0">Perioden Umformung</font>
+			- $\frac{1}{7}=0,\overline{142857}$
+		- 
 	2. Durch Umwandlung in einen Bruch mit einer 10er Potenz im Nenner
 		- Dezimalzahlen können grundsätzlich durch $\frac{1}{10}, \frac{1}{100}, \frac{1}{1000}, \frac{1}{10^{4}},\dots$ in Brüche umgewandelt werden.
 		- $0,4=\frac{4}{10}$
