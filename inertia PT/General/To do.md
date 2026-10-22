@@ -316,8 +316,8 @@
 	- [x] und überschriftSchrift ändern so dass fett gedruckt statt hell
 - [ ] Erklärung zur Prozentrechnung in 8b
 - [ ] luna und sofiia in schul.cloud?
-- [ ] gedruckte Probeklausuren korrigieren 
-- [ ] Korrektur auf stick
+- [x] gedruckte Probeklausuren korrigieren
+- [x] Korrektur auf stick
 - [ ] für Klausur Bruchrechnung vereinfachen dafür mehr terme zusammenfassen 
 - [ ] teilen mit komma wie mache ich das sauber 
 - [ ] 10er Physiknoten korrigieren... Zu viele gute Noten..
@@ -387,7 +387,7 @@
 - [ ] sofa Reinigungstutorial 
 - Ohrentropfen 4-5 eher 3 
 	- [ ] morgens
-	- [ ] mittags
+	- [x] mittags
 	- [ ] abends 
 - antibiotika 
 	- [x] mittags 
