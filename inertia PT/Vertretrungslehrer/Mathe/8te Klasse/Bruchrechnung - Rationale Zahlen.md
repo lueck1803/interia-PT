@@ -56,7 +56,10 @@ $$
 ## Grundrechenarten
 ### <u>Multiplikation</u> 
 $$\frac{a}{\textcolor{orange}{b}}\cdot \frac{c}{\textcolor{cyan}{d}}= \frac{ac}{\textcolor{orange}{b}\textcolor{cyan}{d}}$$
-
+#### Beispiel
+$$
+\frac{a}{\textcolor{orange}{b}}\cdot \frac{c}{\textcolor{cyan}{d}}= \frac{ac}{\textcolor{orange}{b}\textcolor{cyan}{d}}
+$$
 ### <u>Division</u>
 $$\frac{a}{\textcolor{orange}{b}} : \frac{c}{\textcolor{cyan}{d}}=\frac{\frac{a}{\textcolor{orange}{b}}}{\frac{c}{\textcolor{cyan}{d}}}=\frac{a}{\textcolor{orange}{b}\cdot\frac{c}{\textcolor{cyan}{d}}}=\frac{a}{\textcolor{orange}{b}} \cdot \frac{\textcolor{cyan}{d}}{c}= \frac{a\cdot\textcolor{cyan}{d}}{\textcolor{orange}{b}\cdot c}$$
 - *Willst du teilen durch nen Bruch wird das <font color="#00fa9a">Brüchlein umgestürzt</font> mal genommen und gekürzt.*
