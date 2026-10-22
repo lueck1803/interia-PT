@@ -304,6 +304,7 @@
 - [ ] 10er 
 	- [ ] Packung Mehl 
 	- [ ] Maßband 
+	- [ ] Pa so eine kleine einheit, aber der Atmosphären Druck ist im Vergleich auch 
 	- [ ] Atmosphären Druck - Vakuum 
 	- [ ] Experiment zum Vakuum 
 - [ ] fcheck dings den powershell notes hinzufügen
