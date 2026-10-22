@@ -304,7 +304,8 @@
 - [ ] 8b Donnerstag salma, Shanaja,hana fehlen 
 - [ ] Probeklausur in die Gruppe schicken 
 - [ ] Hinweis ganz vorne auf die erste Seite: 
-	- [ ] 
+	- [ ] einzelne Schritte machen/verbindlich kein Hinweis 
+	- [ ] und überschriftSchrift ändern so dass fett gedruckt statt hell
 - [ ] Erklärung zur Prozentrechnung in 8b
 - [ ] luna und sofiia in schul.cloud?
 - [ ] gedruckte Probeklausuren korrigieren 
