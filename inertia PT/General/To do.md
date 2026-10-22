@@ -327,7 +327,7 @@
 - [x] bruchrechnung aufgaben suchen
 - [x] Unterricht 8b vorbereiten  %% fold %%
 - [x] Probeklausur 8er erstellen  %% fold %%
-- [ ] Aufgabe: %% fold %%
+- [ ] Aufgabe:
 	- [ ] Verfolgungsjagd zweier Senioren %% fold %%
 	- [ ] Abstand 5 m 
 	- [ ] Rollator 
