@@ -76,8 +76,7 @@ $$\frac{a}{\textcolor{orange}{b}} - \frac{c}{\textcolor{cyan}{d}}= \frac{a}{\tex
 ### kgV (<u>kleinstes gemeinsames Vielfaches</u>) 
 
 #### Auf Englisch (wichtig für den Taschenrechner):
-LCM (Larges Common Multiplier)
-
+<font color="#ff0000">LCM</font> — <font color="#ff0000">L</font>arges <font color="#ff0000">C</font>ommon <font color="#ff0000">M</font>ultiplier
 #### Verwendung: <font color="#ff6e6e">Hauptnenner</font> bilden
 - Suche die kleinste Zahl die in beiden *1x1-Reihen* vorkommt
 - Beispiel 3 und 4
@@ -94,17 +93,19 @@ LCM (Larges Common Multiplier)
 		- da 54 an zweiter Stelle in der 27er Reihe ist, muss $\frac{9}{27}$ mit 2 erweitert werden 
 		  ⟹$\frac{9}{27}\cdot \frac{2}{2}=\frac{18}{54}$
 			- Die Zahlen sind also gleich
-- ggT (<u>größter gemeinsamer Teiler</u>) 
-  Verwendung: <font color="#48d1cc">Kürzen</font>
-	- Suchen den größten Teiler der jeweiligen Zahlen, die beide gemeinsam haben
-	- Beispiel 12 und 18
-		- <u>12 hat die Teiler:</u> $1,2,3,4,{\color{cyan}6},12$
-		- <u>18 hat die Teiler:</u> $1,2,3,{\color{cyan}6},9,18$
-		- Der größte gemeinsame Teile ist $\color{cyan}6$ 
-		- Der Bruch $\frac{12}{18}$ lässt sich also durch herausziehen des Teilers $\color{cyan}6$ zu $\frac{12}{18}=\frac{2\cdot \cancel{ {\color{cyan}6} }}{3\cdot \cancel{ \color{cyan}6 }}=\frac{2}{3}$ kürzen
-- <font color="#c815ff">gemischte Schreibweise</font>:
-	- $2 \frac{3}{4}$ <font color="#48d1cc">ohne Mal-Punkt</font> meint das zwei Ganze und $\frac{3}{4}$
-	- also $2+\frac{3}{4}$
+### ggT (<u>größter gemeinsamer Teiler</u>) 
+#### Auf Englisch (wichtig für den Taschenrechner):
+<font color="#ff0000">GCD</font> — <font color="#ff0000">G</font>reatest <font color="#ff0000">C</font>ommon <font color="#ff0000">D</font>ivisor
+#### Verwendung: <font color="#48d1cc">Kürzen</font>
+- Suchen den größten Teiler der jeweiligen Zahlen, die beide gemeinsam haben
+- Beispiel 12 und 18
+	- <u>12 hat die Teiler:</u> $1,2,3,4,{\color{cyan}6},12$
+	- <u>18 hat die Teiler:</u> $1,2,3,{\color{cyan}6},9,18$
+	- Der größte gemeinsame Teile ist $\color{cyan}6$ 
+	- Der Bruch $\frac{12}{18}$ lässt sich also durch herausziehen des Teilers $\color{cyan}6$ zu $\frac{12}{18}=\frac{2\cdot \cancel{ {\color{cyan}6} }}{3\cdot \cancel{ \color{cyan}6 }}=\frac{2}{3}$ kürzen
+### gemischte Schreibweise:
+- $2 \frac{3}{4}$ <font color="#48d1cc">ohne Mal-Punkt</font> bedeutet dies: zwei Ganze und $\frac{3}{4}$
+- also $2+\frac{3}{4}$
 
 ## Dezimalzahl in Bruch umwandeln
 ### Vorgehen bei der Umwandlung / Systematisches Durchprobieren
