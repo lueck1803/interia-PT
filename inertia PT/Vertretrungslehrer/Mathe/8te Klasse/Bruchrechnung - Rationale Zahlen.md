@@ -66,18 +66,22 @@ $$
 $$\frac{a}{\textcolor{orange}{b}} : \frac{c}{\textcolor{cyan}{d}}=
 \frac{\frac{a}{\textcolor{orange}{b}}}{\frac{c}{\textcolor{cyan}{d}}}=
 \frac{a}{\textcolor{orange}{b}\cdot\frac{c}{\textcolor{cyan}{d}}}=
-\frac{a}{\textcolor{orange}{b}} \cdot \frac{\textcolor{cyan}{d}}{c}= \frac{a\cdot\textcolor{cyan}{d}}{\textcolor{orange}{b}\cdot c}$$
+\frac{a}{\frac{\textcolor{orange}{b}\cdot c}{\textcolor{cyan}{d}}}=
+\frac{a}{\textcolor{orange}{b}} \cdot \frac{\textcolor{cyan}{d}}{c}=
+ \frac{a\cdot\textcolor{cyan}{d}}{\textcolor{orange}{b}\cdot c}$$
 - *Willst du teilen durch nen Bruch wird das <font color="#00fa9a">Brüchlein umgestürzt</font> mal genommen und gekürzt.*
 - <u>Erklärung nach dem ersten Schritt</u>: 
 - Frage: Wenn ich durch einen Bruch teile
 	- welchen Effekt hat der Zähler des Bruchs ? ⟹ verkleinert die Zahl bzw. vergrößert den Nenner der ersten Zahl
 	- Der Nenner des teilenden Bruchs vergrößert die Zahl bzw verkleinert den Nenner
 - Veranschaulichung durch 2. Schritt:
-	- b wird durch c vergrößert und durch d verkleinert 
-	- ⤷ daher kann man auch d in den Zähler zu a schreiben
+	- <font color="#f79646">b</font> wird durch c vergrößert und durch d verkleinert 
+	- ⤷ daher kann man auch <font color="#7fffd4">d</font> in den Zähler zu a schreiben
 	- ⤷ also den Bruch herum drehen
 #### Beispiel
-$$\frac{15}{\textcolor{orange}{3}} : \frac{2}{\textcolor{cyan}{6}}=\frac{\frac{15}{\textcolor{orange}{3}}}{\frac{2}{\textcolor{cyan}{6}}}=\frac{15}{\textcolor{orange}{3}\cdot\frac{c}{\textcolor{cyan}{d}}}=\frac{a}{\textcolor{orange}{b}} \cdot \frac{\textcolor{cyan}{d}}{c}= \frac{a\cdot\textcolor{cyan}{d}}{\textcolor{orange}{b}\cdot c}$$
+$$\frac{15}{\textcolor{orange}{3}} : \frac{2}{\textcolor{cyan}{6}}=
+\frac{\frac{15}{\textcolor{orange}{3}}}{\frac{2}{\textcolor{cyan}{6}}}=
+\frac{15}{\textcolor{orange}{3}\cdot\frac{c}{\textcolor{cyan}{d}}}=\frac{a}{\textcolor{orange}{b}} \cdot \frac{\textcolor{cyan}{d}}{c}= \frac{a\cdot\textcolor{cyan}{d}}{\textcolor{orange}{b}\cdot c}$$
 
 ### <u>Addition</u>
 $$\frac{a}{\textcolor{orange}{b}} + \frac{c}{\textcolor{cyan}{d}}= \frac{a}{\textcolor{orange}{b}}\cdot \frac{\textcolor{cyan}{d}}{\textcolor{cyan}{d}}+ \frac{c}{\textcolor{cyan}{d}}\cdot\frac{\textcolor{orange}{b}}{\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}}{\textcolor{orange}{b}\textcolor{cyan}{d}}+ \frac{c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}+c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}$$
