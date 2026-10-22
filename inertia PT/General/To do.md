@@ -300,7 +300,11 @@
 - <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- Duschen 
+- [ ] Duschen 
+- [ ] 10er 
+	- [ ] Packung Mehl 
+	- [ ] Maßband 
+	- [ ] atmos
 - [ ] fcheck dings den powershell notes hinzufügen
 - [x] hotkey huion software entfernen
 - [ ] 8b Donnerstag salma, Shanaja,hana fehlen 
