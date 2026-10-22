@@ -93,9 +93,17 @@ $$\frac{a}{\textcolor{orange}{b}} + \frac{c}{\textcolor{cyan}{d}}= \frac{a}{\tex
 #### Beispiel
 $$\frac{3}{\textcolor{orange}{5}} + \frac{7}{\textcolor{cyan}{8}}=
 \frac{3}{\textcolor{orange}{5}}\cdot \frac{\textcolor{cyan}{8}}{\textcolor{cyan}{8}}+
-\frac{c}{\textcolor{cyan}{d}}\cdot\frac{\textcolor{orange}{b}}{\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}}{\textcolor{orange}{b}\textcolor{cyan}{d}}+ \frac{c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}+c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}$$
+\frac{7}{\textcolor{cyan}{8}}\cdot\frac{\textcolor{orange}{5}}{\textcolor{orange}{5}}=\frac{3\cdot \textcolor{cyan}{8}}{\textcolor{orange}{5}\cdot\textcolor{cyan}{8}}+ \frac{7\cdot\textcolor{orange}{5}}{\textcolor{cyan}{8}\cdot\textcolor{orange}{5}}=\frac{3\cdot\textcolor{cyan}{8}+7\cdot\textcolor{orange}{5}}{\textcolor{cyan}{8}\cdot\textcolor{orange}{5}}=
+\frac{24+35}{40}=
+\frac{59}{40}$$
 ### <u>Subtraktion</u>
 $$\frac{a}{\textcolor{orange}{b}} - \frac{c}{\textcolor{cyan}{d}}= \frac{a}{\textcolor{orange}{b}}\cdot \frac{\textcolor{cyan}{d}}{\textcolor{cyan}{d}}- \frac{c}{\textcolor{cyan}{d}}\cdot\frac{\textcolor{orange}{b}}{\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}}{\textcolor{orange}{b}\textcolor{cyan}{d}}- \frac{c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}-c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}$$ 
+#### Beispiel
+$$\frac{4}{\textcolor{orange}{9}} - \frac{7}{\textcolor{cyan}{8}}=
+\frac{3}{\textcolor{orange}{5}}\cdot \frac{\textcolor{cyan}{8}}{\textcolor{cyan}{8}}+
+\frac{7}{\textcolor{cyan}{8}}\cdot\frac{\textcolor{orange}{5}}{\textcolor{orange}{5}}=\frac{3\cdot \textcolor{cyan}{8}}{\textcolor{orange}{5}\cdot\textcolor{cyan}{8}}+ \frac{7\cdot\textcolor{orange}{5}}{\textcolor{cyan}{8}\cdot\textcolor{orange}{5}}=\frac{3\cdot\textcolor{cyan}{8}+7\cdot\textcolor{orange}{5}}{\textcolor{cyan}{8}\cdot\textcolor{orange}{5}}=
+\frac{24+35}{40}=
+\frac{59}{40}$$
 ## Sonstiges
 ### kgV (<u>kleinstes gemeinsames Vielfaches</u>) 
 
