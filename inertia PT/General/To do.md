@@ -304,7 +304,8 @@
 - [ ] 10er 
 	- [ ] Packung Mehl 
 	- [ ] Maßband 
-	- [ ] atmos
+	- [ ] Atmosphären Druck - Vakuum 
+	- [ ] Experiment zum Vakuum 
 - [ ] fcheck dings den powershell notes hinzufügen
 - [x] hotkey huion software entfernen
 - [ ] 8b Donnerstag salma, Shanaja,hana fehlen 
