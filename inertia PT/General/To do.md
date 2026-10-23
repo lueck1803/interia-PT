@@ -301,7 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Duschen 
-- [ ] Termin siede:  9:45 
+- [ ] Termin siede:  9:45 mi
 - [ ] tamilo, zara, jakob anrufen 
 - [ ] 10er 
 	- [ ] Packung Mehl 
