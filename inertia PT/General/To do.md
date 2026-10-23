@@ -301,6 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Duschen 
+- [ ] tamilo anrufen 
 - [ ] 10er 
 	- [ ] Packung Mehl 
 	- [ ] Maßband 
