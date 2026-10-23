@@ -302,6 +302,7 @@
 
 - [ ] Duschen 
 - [ ] Termin siede:  9:45 mi
+- [ ] Fruchtfliegen falle
 - [ ] tamilo, zara, jakob anrufen 
 - [ ] 10er 
 	- [ ] Packung Mehl 
