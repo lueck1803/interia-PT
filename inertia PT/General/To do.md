@@ -301,6 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Duschen 
+- [ ] Termin: 
 - [ ] tamilo, zara, jakob anrufen 
 - [ ] 10er 
 	- [ ] Packung Mehl 
