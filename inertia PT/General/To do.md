@@ -337,6 +337,7 @@
 	- [ ] für Klausur Bruchrechnung vereinfachen dafür mehr terme zusammenfassen 
 		- [ ] ne, aber die letzte Aufgabe in zwei nach x auflösen Aufgaben umwandeln
 	- [ ] Klausur Bepunktung überlegen
+	- [ ] Erklärung: Was ist eine Variable, was ist ein Term, was ist der Wert eines Terms 
 	- [ ] Schema aufschreiben wie man ne Gleichung umstellt und Klammer auflöst
 - [ ] teilen mit komma wie mache ich das sauber 
 - [ ] 10er Physiknoten korrigieren... Zu viele gute Noten..
