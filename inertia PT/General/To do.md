@@ -306,7 +306,7 @@
 - [x] staub saugen
 - [ ] Einzelflecken wischen 
 - [ ] Flasche mit hand spülen 
-- [ ] 
+- [ ] Haselnüsse einpflanzen 
 - [ ] tisch wischen
 - [ ] Essen kochen
 - [x] Termin siede:  9:45 mi
