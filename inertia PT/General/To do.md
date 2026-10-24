@@ -302,7 +302,7 @@
 
 - [ ] Duschen 
 - [ ] Termin siede:  9:45 mi
-- [ ] daria a
+- [ ] daria additions/subtraktions Aufgaben mit nega
 - [x] Fruchtfliegen falle
 - [ ] tamilo, zara, jakob anrufen 
 - [ ] 10er 
