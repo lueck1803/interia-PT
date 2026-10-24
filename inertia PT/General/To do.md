@@ -301,6 +301,8 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Duschen 
+- [ ] mein Unterricht 8c, 8b, 8a und 5a eintragen
+- [ ] Aldi
 - [ ] staub saugen
 - [ ] tisch wischen
 - [ ] Essen kochen
@@ -320,7 +322,14 @@
 - [x] hotkey huion software entfernen
 - [ ] 8b Donnerstag salma, Shanaja,hana fehlen 
 - [ ] luna und sofiia in schul.cloud?
-- [ ] für Klausur Bruchrechnung vereinfachen dafür mehr terme zusammenfassen 
+- [ ] 5a
+	- [ ] Mathearbeit erstellen
+	- [ ] Arbeitsblatt schriftliche Grundrechenarten erstellen
+	- [ ] Unterricht vorbereiten, wie 
+- [ ] Klausur 8ter
+	- [ ] probeklausur durchrechnen mit Zeit
+	- [ ] für Klausur Bruchrechnung vereinfachen dafür mehr terme zusammenfassen 
+		- [ ] ne, aber die letzte Aufgabe in zwei nach x auflösen Aufgaben umwandeln
 - [ ] teilen mit komma wie mache ich das sauber 
 - [ ] 10er Physiknoten korrigieren... Zu viele gute Noten..
 - [ ] 2m usb-A↔usb-c kabel bestellen
