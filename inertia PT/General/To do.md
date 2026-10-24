@@ -305,7 +305,8 @@
 - [ ] Aldi
 - [x] staub saugen
 - [ ] Einzelflecken wischen 
-- [ ] Flasche mit hand
+- [ ] Flasche mit hand spülen 
+- [ ] 
 - [ ] tisch wischen
 - [ ] Essen kochen
 - [x] Termin siede:  9:45 mi
