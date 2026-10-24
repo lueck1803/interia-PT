@@ -303,6 +303,8 @@
 - [ ] Duschen 
 - [ ] mein Unterricht 8c, 8b, 8a und 5a eintragen
 - [ ] Aldi
+	- [ ] toast
+	- [ ] obst
 - [x] staub saugen
 - [ ] Einzelflecken wischen 
 - [ ] Flasche mit hand spülen 
