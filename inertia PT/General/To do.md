@@ -302,7 +302,8 @@
 
 - [ ] Duschen 
 - [ ] Termin siede:  9:45 mi
-- [ ] Fruchtfliegen falle
+- [ ] daria a
+- [x] Fruchtfliegen falle
 - [ ] tamilo, zara, jakob anrufen 
 - [ ] 10er 
 	- [ ] Packung Mehl 
@@ -319,7 +320,7 @@
 - [ ] 10er Physiknoten korrigieren... Zu viele gute Noten..
 - [ ] 2m usb-A↔usb-c kabel bestellen
 - [ ] Spülmaschine ausräumen 
-- [ ] Bettdecke beziehen 
+- [x] Bettdecke beziehen 
 - [ ] Aufgabe: %% fold %%
 	- [ ] Verfolgungsjagd zweier Senioren %% fold %%
 	- [ ] Abstand 5 m 
