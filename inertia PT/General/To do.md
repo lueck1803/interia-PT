@@ -303,17 +303,18 @@
 - [ ] Duschen 
 - [ ] mein Unterricht 8c, 8b, 8a und 5a eintragen
 - [ ] Aldi
-- [ ] staub saugen
+- [x] staub saugen
+- [ ] 
 - [ ] tisch wischen
 - [ ] Essen kochen
-- [ ] Termin siede:  9:45 mi
+- [x] Termin siede:  9:45 mi
 - [ ] daria additions/subtraktions Aufgaben mit negativen Zahlen bzw. Verschiebungen über die 0
 	- [ ] die Erklärung von gestern nochmal aufschreiben
 	- [ ] mit Zahlenstrahl 
 - [x] Fruchtfliegen falle
 - [ ] tamilo, zara, jakob anrufen 
 - [ ] 10er  %% fold %%
-	- [ ] Packung Mehl 
+	- [ ] Packung Mehl  %% fold %%
 	- [ ] Maßband 
 	- [ ] Pa so eine kleine einheit, aber der Atmosphären Druck ist im Vergleich auch doch schon Recht hoch
 	- [ ] Atmosphären Druck - Vakuum 
