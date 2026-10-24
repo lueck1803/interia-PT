@@ -475,7 +475,7 @@
 - [ ] türkisch aufschreiben 
 - [ ] soße mit fisch, brokkoli und oliven kochen
 - [ ] aldi nachrechnen 
-- [ ] Was zu $2^{1/2}$ aufschreiben in das Handout
+- [ ] Was zu $2^{1/2}$ aufschreiben in das Handout %% fold %%
 	- [ ] https://www.youtube.com/watch?v=NbKa-o3ztDo&list=WL&index=21
 - [ ] HNO Ambulanz termin machen
 	- 📞☎️06151 107 4213
