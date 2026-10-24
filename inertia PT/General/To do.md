@@ -309,7 +309,9 @@
 	- [ ] Pier 
 	- [ ] Müsli 
 	- [ ] lokosschade
-	- [ ] 
+	- [ ] eis
+	- [ ] pizza
+	- [ ] saft
 - [x] staub saugen
 - [ ] Einzelflecken wischen 
 - [ ] Flasche mit hand spülen 
