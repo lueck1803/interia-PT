@@ -304,7 +304,7 @@
 - [ ] mein Unterricht 8c, 8b, 8a und 5a eintragen
 - [ ] Aldi
 - [x] staub saugen
-- [ ] 
+- [ ] Einzelflecken wischen 
 - [ ] tisch wischen
 - [ ] Essen kochen
 - [x] Termin siede:  9:45 mi
