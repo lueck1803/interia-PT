@@ -301,6 +301,9 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Duschen 
+- [ ] staub saugen
+- [ ] tisch wischen
+- [ ] Essen kochen
 - [ ] Termin siede:  9:45 mi
 - [ ] daria additions/subtraktions Aufgaben mit negativen Zahlen bzw. Verschiebungen über die 0
 	- [ ] die Erklärung von gestern nochmal aufschreiben
@@ -476,7 +479,7 @@
 - [ ] soße mit fisch, brokkoli und oliven kochen
 - [ ] aldi nachrechnen 
 - [ ] Was zu $2^{1/2}$ aufschreiben in das Handout %% fold %%
-	- [ ] https://www.youtube.com/watch?v=NbKa-o3ztDo&list=WL&index=21
+	- [ ] https://www.youtube.com/watch?v=NbKa-o3ztDo&list=WL&index=21 %% fold %%
 - [ ] HNO Ambulanz termin machen
 	- 📞☎️06151 107 4213
 - [ ] Sofalehne dampfen %% fold %%
