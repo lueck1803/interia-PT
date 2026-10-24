@@ -305,6 +305,8 @@
 - [ ] Aldi
 	- [ ] toast
 	- [ ] obst
+	- [ ] nusskati
+	- [ ] Pier 
 - [x] staub saugen
 - [ ] Einzelflecken wischen 
 - [ ] Flasche mit hand spülen 
