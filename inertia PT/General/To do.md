@@ -302,7 +302,9 @@
 
 - [ ] Duschen 
 - [ ] Termin siede:  9:45 mi
-- [ ] daria additions/subtraktions Aufgaben mit nega
+- [ ] daria additions/subtraktions Aufgaben mit negativen Zahlen bzw. Verschiebungen über die 0
+	- [ ] die Erklärung von gestern nochmal aufschreiben
+	- [ ] mit Zahlenstrahl 
 - [x] Fruchtfliegen falle
 - [ ] tamilo, zara, jakob anrufen 
 - [ ] 10er 
@@ -343,7 +345,7 @@
 	- [ ] daraus für die Klassen einen kleinen test machen 
 - [ ] 10te klasse Aufgaben zum Druck %% fold %%
 - [ ] 10te Klasse Handout zu Einheiten  %% fold %%
-- [ ] candis wegen e kurs schreiben  %% fold %%
+- [x] candis wegen e kurs schreiben  %% fold %%
 - [ ] 10te Klasse Experimente zum Druck überlegen  %% fold %%
 	- [ ] welcher Behälter läuft schneller leer? Dünner/dicker Behälter  %% fold %%
 	- [ ]  %% fold %%
@@ -364,8 +366,8 @@
 	- [ ] und wie wenn eines 8 km/h und das andere 16 km/h fährt 
 	- [ ] wie ändert sich die zurück gelegte Strecke der Fahrräder und der Biene 
 - kursmappe
-	- [x] m 5a %% fold %%
-	- [x] m 8a
+	- [ ] m 5a %% fold %%
+	- [ ] m 8a
 	- [ ] m 8b
 	- [x] p 8a
 	- [x] p 8b
