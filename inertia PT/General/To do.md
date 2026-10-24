@@ -307,6 +307,9 @@
 	- [ ] obst
 	- [ ] nusskati
 	- [ ] Pier 
+	- [ ] Müsli 
+	- [ ] lokosschade
+	- [ ] 
 - [x] staub saugen
 - [ ] Einzelflecken wischen 
 - [ ] Flasche mit hand spülen 
