@@ -300,32 +300,21 @@
 - <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
+- [ ] Duolingo %% fold %%
 - [ ] Duschen 
 - [ ] carnivorenwasser auffüllen 
 - [ ] papiermüll weg
 - [ ] mein Unterricht 8c, 8b, 8a und 5a eintragen
-- [ ] Aldi
-	- [ ] toast
-	- [ ] obst
-	- [ ] nusskati
-	- [ ] Pier 
-	- [ ] Müsli 
-	- [ ] lokosschade
-	- [ ] eis
-	- [ ] pizza
-	- [ ] saft
-- [x] staub saugen
 - [ ] Einzelflecken wischen 
-- [ ] Flasche mit hand spülen 
+- [ ] Crystal Mountain 
 - [ ] Haselnüsse einpflanzen 
 - [ ] tisch wischen
 - [ ] Essen kochen
-- [x] Termin siede:  9:45 mi
 - [ ] daria additions/subtraktions Aufgaben mit negativen Zahlen bzw. Verschiebungen über die 0
 	- [ ] die Erklärung von gestern nochmal aufschreiben
 	- [ ] mit Zahlenstrahl 
-- [x] Fruchtfliegen falle
-- [ ] tamilo, zara, jakob anrufen 
+- [x] Fruchtfliegen falle %% fold %%
+- [ ] tamilo, zara, jakob anrufen  %% fold %%
 - [ ] 10er  %% fold %%
 	- [ ] Packung Mehl  %% fold %%
 	- [ ] Maßband 
@@ -333,7 +322,6 @@
 	- [ ] Atmosphären Druck - Vakuum 
 	- [ ] Experiment zum Vakuum 
 - [ ] fcheck dings den powershell notes hinzufügen
-- [x] hotkey huion software entfernen
 - [ ] 8b Donnerstag salma, Shanaja,hana fehlen 
 - [ ] luna und sofiia in schul.cloud?
 - [ ] 5a
@@ -355,9 +343,7 @@
 	- [ ] Schema aufschreiben wie man ne Gleichung umstellt und Klammer auflöst
 - [ ] teilen mit komma wie mache ich das sauber 
 - [ ] 10er Physiknoten korrigieren... Zu viele gute Noten..
-- [ ] 2m usb-A↔usb-c kabel bestellen
-- [ ] Spülmaschine ausräumen 
-- [x] Bettdecke beziehen 
+- [ ] 2m usb-A↔usb-c kabel bestellen %% fold %%
 - [ ] Aufgabe: %% fold %%
 	- [ ] Verfolgungsjagd zweier Senioren %% fold %%
 	- [ ] Abstand 5 m 
@@ -376,11 +362,9 @@
 	- [ ] daraus für die Klassen einen kleinen test machen  %% fold %%
 - [ ] 10te klasse Aufgaben zum Druck %% fold %%
 - [ ] 10te Klasse Handout zu Einheiten  %% fold %%
-- [x] candis wegen e kurs schreiben  %% fold %%
 - [ ] 10te Klasse Experimente zum Druck überlegen  %% fold %%
 	- [ ] welcher Behälter läuft schneller leer? Dünner/dicker Behälter  %% fold %%
 	- [ ]  %% fold %%
-- [x] Duolingo %% fold %%
 - [ ] Treffpunkt ausrechnen von zwei Fahrrädern mit verschiedenen Geschwindigkeiten %% fold %%
 	- $\pu{ 32km }=\pu{ 8 km/h}\cdot t+\pu{ 16km/h }\cdot t$
 	- $\pu{ 32km }=(\pu{ 8 km/h}+\pu{ 16km/h })\cdot t$
@@ -410,23 +394,20 @@
 	- [x] schleudern 
 	- [x] aufhängen 
 	- [ ] zusammen legen
-- [x] carnivorenwasser auffüllen 
 - [ ] sofa Reinigungstutorial 
 - Ohrentropfen 4-5 eher 3 
 	- [ ] morgens
-	- [x] mittags
+	- [ ] mittags
 	- [ ] abends 
 - antibiotika 
-	- [x] mittags 
-	- [x] abends 
+	- [ ] mittags 
+	- [ ] abends 
 - [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
-- [x] nass rasieren 
 - [ ] Tomaten Samen weg sortieren 
 - [ ] Krafttraining 
 - [ ] Ordner Lukas leeren bzw neuen ordner anfangen
 - [ ] rote Paprika aufschneiden 
 - [ ] Paprika und Bohnen ernten 
-- [x] Crystal Mountain 
 - [ ] 5a Eltern anrufen 
 	- [ ] tamilo hatte Buch nicht dabei
 		- [ ] ohren Stöpsel? Damit er sich besser konzentrieren kann
@@ -505,7 +486,7 @@
 - [ ] Krafttraining 
 - [ ] türkisch aufschreiben 
 - [ ] soße mit fisch, brokkoli und oliven kochen
-- [ ] aldi nachrechnen 
+- [ ] aldi nachrechnen  %% fold %%
 - [ ] Was zu $2^{1/2}$ aufschreiben in das Handout %% fold %%
 	- [ ] https://www.youtube.com/watch?v=NbKa-o3ztDo&list=WL&index=21 %% fold %%
 - [ ] HNO Ambulanz termin machen
