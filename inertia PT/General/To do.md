@@ -312,7 +312,7 @@
 	- [ ] mit Zahlenstrahl 
 - [x] Fruchtfliegen falle
 - [ ] tamilo, zara, jakob anrufen 
-- [ ] 10er 
+- [ ] 10er  %% fold %%
 	- [ ] Packung Mehl 
 	- [ ] Maßband 
 	- [ ] Pa so eine kleine einheit, aber der Atmosphären Druck ist im Vergleich auch doch schon Recht hoch
@@ -324,12 +324,20 @@
 - [ ] luna und sofiia in schul.cloud?
 - [ ] 5a
 	- [ ] Mathearbeit erstellen
+		- [ ] Grundrechenarten
+			- [ ] im kopf
+			- [ ] schriftlich
+		- [ ] Umfragen und Tabellen richtig deuten lesen
 	- [ ] Arbeitsblatt schriftliche Grundrechenarten erstellen
-	- [ ] Unterricht vorbereiten, wie 
+	- [ ] Unterricht vorbereiten, wie mache ich sauber Addition, Subtraktion, Multiplikation und Division schriftlich
+		- [ ] Subtraktion und Addition mit 3 Summanden/2Subtrahenden
+		- [ ] Multiplikation und Division mehrstellig
 - [ ] Klausur 8ter
 	- [ ] probeklausur durchrechnen mit Zeit
 	- [ ] für Klausur Bruchrechnung vereinfachen dafür mehr terme zusammenfassen 
 		- [ ] ne, aber die letzte Aufgabe in zwei nach x auflösen Aufgaben umwandeln
+	- [ ] Klausur Bepunktung überlegen
+	- [ ] Schema aufschreiben wie man ne Gleichung umstellt und Klammer auflöst
 - [ ] teilen mit komma wie mache ich das sauber 
 - [ ] 10er Physiknoten korrigieren... Zu viele gute Noten..
 - [ ] 2m usb-A↔usb-c kabel bestellen
@@ -349,12 +357,8 @@
 		- [ ] Division Unterschied links - rechts 
 	- [ ] Mehrere Beispiele 
 	- [ ] immer Brüche verwenden statt ÷ wegen distributivgesetz
-- Zähne putzen 
-	- [ ] morgens
-	- [ ] mittags
-	- [ ] abends 
 - [ ] 8te Klassen invarianz Prinzip anhand der Aufgabe Biene mit Fahrrädern 
-	- [ ] daraus für die Klassen einen kleinen test machen 
+	- [ ] daraus für die Klassen einen kleinen test machen  %% fold %%
 - [ ] 10te klasse Aufgaben zum Druck %% fold %%
 - [ ] 10te Klasse Handout zu Einheiten  %% fold %%
 - [x] candis wegen e kurs schreiben  %% fold %%
