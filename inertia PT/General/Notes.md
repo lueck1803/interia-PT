@@ -103,6 +103,12 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+## 2026-10-25 Nadine 
+Fühlst du dich bei der Thematik unwohl? 
+
+Schlechte Erfahrungen? 
+
+Oder einfach keine Lust? (Verstehe ich, aber gerade das muss ich wissen und wollte das auch mit der Frage von letzter Woche klären)
 ## 2026-10-16 Nadine 
 Ist ja schon ne krasse Entscheidung und ich kann's irgendwie immer noch nicht "glauben" dass das so belastend war mit Freddie dass ihr euch aus dem Weg gehen müsst. 
 

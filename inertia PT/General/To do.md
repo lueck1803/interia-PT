@@ -301,13 +301,13 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [x] Duolingo
-- [ ] uhren in der Küche umstellen
+- [x] uhren in der Küche umstellen
 - [ ] Spülmaschine ausräumen 
 - [ ] Zucker und Mehl austragen 
 - [ ] Äpfel und Birnen waschen%% fold %%
 - [ ] spazieren + Einkaufswagen weg
 - [ ] Kuchen backen 
-- [ ] Reis wegschütten
+- [x] Reis wegschütten
 - [ ] Duschen 
 - [ ] carnivorenwasser auffüllen 
 - [ ] papiermüll weg
