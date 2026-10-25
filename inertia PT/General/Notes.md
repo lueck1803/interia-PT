@@ -2665,8 +2665,12 @@ Meine Fragen dazu sind:
 - ich will mich keiner Partnerin mehr antun 
 - ich möchte mein Gehirn und meine Psyche nicht vererben
 - der Weg daraus ist einfach zu lang wierig
-- in letzter 
+- in letzter Zeit habe ich wieder vermehrt das Gefühl dass ich tatsächlich als extrem komisch wahrgenommen werde
+- ich bin tatsächlich unpassend 
+- ich kann meine eigenen Worte auch nicht mehr ertragen 
 ## wie?
+- schwierige Frage 
+- momentan Hals auf die Bahngleise legen, aber das kann ich doch eh nicht durchzuziehen 
 # Tage infolge Produktiv
 Tage produktiv gewesen:
 ||||\ ||||\ ||||\ 
