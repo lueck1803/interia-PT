@@ -301,7 +301,8 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [x] Duolingo
-- [ ] uhren in der Küche umstellen%% fold %%
+- [ ] uhren in der Küche umstellen
+- [ ] Äpfel und Birnen waschen%% fold %%
 - [ ] Duschen 
 - [ ] carnivorenwasser auffüllen 
 - [ ] papiermüll weg
