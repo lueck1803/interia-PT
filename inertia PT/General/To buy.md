@@ -17,10 +17,10 @@
 # Aldi
 ## Jetzt
 - Einkaufswagen 
-- [ ] Toast 
 - [ ] 405er mehl
-- [ ] Nussnougat 
-- [ ] Birnen 
+- [x] Toast 
+- [x] Nussnougat 
+- [x] Birnen 
 - [x] saft
 - [x] Zwiebeln 
 - [x] Äpfel 
