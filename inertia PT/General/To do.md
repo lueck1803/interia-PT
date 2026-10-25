@@ -300,7 +300,7 @@
 - <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- [ ] Duolingo
+- [x] Duolingo
 - [ ] uhren in der Küche umstellen%% fold %%
 - [ ] Duschen 
 - [ ] carnivorenwasser auffüllen 
@@ -401,7 +401,7 @@
 	- [ ] mittags
 	- [ ] abends 
 - antibiotika 
-	- [ ] mittags 
+	- [x] mittags 
 	- [ ] abends 
 - [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
 - [ ] Tomaten Samen weg sortieren 
