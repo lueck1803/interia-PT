@@ -302,6 +302,7 @@
 
 - [x] Duolingo
 - [ ] uhren in der Küche umstellen
+- [ ] Zucker und Mehl austragen 
 - [ ] Äpfel und Birnen waschen%% fold %%
 - [ ] spazieren + Einkaufswagen weg
 - [ ] Kuchen backen 

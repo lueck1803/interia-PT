@@ -18,6 +18,7 @@
 ## Jetzt
 - Einkaufswagen 
 - [ ] 405er mehl
+- [ ] Zucker 
 - [x] Toast 
 - [x] Nussnougat 
 - [x] Birnen 
