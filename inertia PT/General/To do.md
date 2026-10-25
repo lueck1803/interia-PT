@@ -305,6 +305,7 @@
 - [ ] Äpfel und Birnen waschen%% fold %%
 - [ ] spazieren + Einkaufswagen weg
 - [ ] Kuchen backen 
+- [ ] Reis wegschütten
 - [ ] Duschen 
 - [ ] carnivorenwasser auffüllen 
 - [ ] papiermüll weg
