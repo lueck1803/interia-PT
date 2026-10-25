@@ -2656,7 +2656,16 @@ Meine Fragen dazu sind:
 ## Begründung 
 - es gibt keine Tätigkeit keinen Beruf dem ich wirklich gewachsen bin
 - ich mag nicht kommunizieren, ich ertrag es nicht. Danach fühle ich mich meistens schlecht 
-- ich bin einfach komisch, ich bin schon seit ich lebe komisch, ich nicht
+- ich bin einfach komisch, ich bin schon seit ich lebe komisch, ich möchte das nicht mehr, ich bekomme es nicht hin nicht komisch zu sein 
+- ich habe lange genug gelitten 
+- ich möchte auch bestimmte Dinge nicht mehr durch machen 
+- kein Bedarf auf Gespräche mit meiner Schwester, keine Energie mehr
+- ich hab auch keine Energie mehr auf Konfrontation 
+- ich möchte meine Ruhe
+- ich will mich keiner Partnerin mehr antun 
+- ich möchte mein Gehirn und meine Psyche nicht vererben
+- der Weg daraus ist einfach zu lang wierig
+- in letzter 
 ## wie?
 # Tage infolge Produktiv
 Tage produktiv gewesen:
