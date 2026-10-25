@@ -306,7 +306,7 @@
 - [ ] Zucker und Mehl austragen 
 - [ ] Äpfel und Birnen waschen%% fold %%
 - [ ] spazieren + Einkaufswagen weg
-- [ ] Kuchen backen 
+- [x] Kuchen backen 
 - [x] Reis wegschütten
 - [ ] Duschen 
 - [ ] carnivorenwasser auffüllen 
