@@ -390,11 +390,11 @@
 	- [ ] p 8c %% fold %%
 	- [x] p 10b %% fold %%
 	- [x] p 10a
-- [ ] 30° Wäsche 
+- [x] 30° Wäsche 
 	- [x] anstellen 
 	- [x] schleudern 
 	- [x] aufhängen 
-	- [ ] zusammen legen
+	- [x] zusammen legen
 - [ ] sofa Reinigungstutorial 
 - Ohrentropfen 4-5 eher 3 
 	- [ ] morgens
