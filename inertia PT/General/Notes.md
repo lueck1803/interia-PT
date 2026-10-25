@@ -2652,8 +2652,17 @@ Meine Fragen dazu sind:
 	- wieder waschen und dann in die Waschmaschine 
 	- aufpassen mit welcher Kleidung du es zusammen wäscht, kann trotz allem noch abfärben 
 - wie wäre es alternativ mit Verzierungen mit Applikationen?
-# Arbeit
-- 
+# Planung des Tod 
+## Begründung 
+- es gibt keine Tätigkeit keinen Beruf dem ich wirklich gewachsen bin
+- ich mag nicht kommunizieren, ich ertrag es nicht. Danach fühle ich mich meistens schlecht 
+- ob
+Fühlst du dich bei der Thematik unwohl? 
+
+Schlechte Erfahrungen? 
+
+Oder einfach keine Lust? (Verstehe ich, aber gerade das muss ich wissen und wollte das auch mit der Frage von letzter Woche klären)
+## wie?
 # Tage infolge Produktiv
 Tage produktiv gewesen:
 ||||\ ||||\ ||||\ 
