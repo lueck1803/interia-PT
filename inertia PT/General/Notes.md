@@ -2656,12 +2656,7 @@ Meine Fragen dazu sind:
 ## Begründung 
 - es gibt keine Tätigkeit keinen Beruf dem ich wirklich gewachsen bin
 - ich mag nicht kommunizieren, ich ertrag es nicht. Danach fühle ich mich meistens schlecht 
-- ob
-Fühlst du dich bei der Thematik unwohl? 
-
-Schlechte Erfahrungen? 
-
-Oder einfach keine Lust? (Verstehe ich, aber gerade das muss ich wissen und wollte das auch mit der Frage von letzter Woche klären)
+- ich bin einfach komisch, ich bin schon seit ich lebe komisch, ich nicht
 ## wie?
 # Tage infolge Produktiv
 Tage produktiv gewesen:
@@ -4825,7 +4820,7 @@ Das o wird wie ein a ausgesprochen, da es in einer unbetonten silbe steht.
 Es bedeutet Gewitter/Unwetter.
 
 Kann aber auch im Kontext schrecken, grauen oder bedrohlichkeit bedeuten.
-
+ %% fold %%
 Aber eher im übertragenen Sinne.
 
 Die Band verwendet aber ausschließlich diese Bedeutung. Für diese bedeutungen gibt es aber eher andere Worte.
