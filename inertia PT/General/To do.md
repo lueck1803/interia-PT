@@ -303,6 +303,7 @@
 - [x] Duolingo
 - [ ] uhren in der Küche umstellen
 - [ ] Äpfel und Birnen waschen%% fold %%
+- [ ] spazieren 
 - [ ] Duschen 
 - [ ] carnivorenwasser auffüllen 
 - [ ] papiermüll weg
