@@ -304,10 +304,10 @@
 - [ ] physikbuch seiten zum weg zeit gesetz einscannen
 - [ ] Spülmaschine ausräumen 
 - [x] Zucker und Mehl austragen 
-- [ ] spazieren + Einkaufswagen weg
+- [x] spazieren + Einkaufswagen weg
 - [ ] Duschen 
 - [ ] carnivorenwasser auffüllen 
-- [ ] papiermüll weg
+- [x] papiermüll weg
 - [x] mein Unterricht 8c, 8b, 8a und 5a eintragen
 - [ ] Einzelflecken wischen 
 - [ ] Crystal Mountain 
