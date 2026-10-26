@@ -301,6 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [x] Duolingo
+- [ ] physikbuch seiten zum weg zeit gesetz einscannen
 - [x] uhren in der Küche umstellen
 - [ ] Spülmaschine ausräumen 
 - [ ] Zucker und Mehl austragen 
