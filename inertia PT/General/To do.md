@@ -302,13 +302,9 @@
 
 - [x] Duolingo
 - [ ] physikbuch seiten zum weg zeit gesetz einscannen
-- [x] uhren in der Küche umstellen
 - [ ] Spülmaschine ausräumen 
-- [ ] Zucker und Mehl austragen 
-- [ ] Äpfel und Birnen waschen%% fold %%
+- [x] Zucker und Mehl austragen 
 - [ ] spazieren + Einkaufswagen weg
-- [x] Kuchen backen 
-- [x] Reis wegschütten
 - [ ] Duschen 
 - [ ] carnivorenwasser auffüllen 
 - [ ] papiermüll weg
