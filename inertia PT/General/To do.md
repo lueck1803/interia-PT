@@ -308,7 +308,7 @@
 - [ ] Duschen 
 - [ ] carnivorenwasser auffüllen 
 - [ ] papiermüll weg
-- [ ] mein Unterricht 8c, 8b, 8a und 5a eintragen
+- [x] mein Unterricht 8c, 8b, 8a und 5a eintragen
 - [ ] Einzelflecken wischen 
 - [ ] Crystal Mountain 
 - [ ] Haselnüsse einpflanzen 
@@ -405,7 +405,7 @@
 	- [ ] abends 
 - antibiotika 
 	- [x] mittags 
-	- [ ] abends 
+	- [x] abends 
 - [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
 - [ ] Tomaten Samen weg sortieren 
 - [ ] Krafttraining 
