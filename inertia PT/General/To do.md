@@ -385,9 +385,9 @@
 	- [ ] und wie wenn eines 8 km/h und das andere 16 km/h fährt 
 	- [ ] wie ändert sich die zurück gelegte Strecke der Fahrräder und der Biene 
 - kursmappe
-	- [ ] m 5a %% fold %%
-	- [ ] m 8a
-	- [ ] m 8b
+	- [x] m 5a %% fold %%
+	- [x] m 8a
+	- [x] m 8b
 	- [x] p 8a
 	- [x] p 8b
 	- [x] p 8c %% fold %%
