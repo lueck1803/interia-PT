@@ -302,12 +302,12 @@
 
 - [ ] Duolingo
 - [ ] physikbuch seiten zum weg zeit gesetz einscannen
-- [ ] 8ter
 - [ ] Muffinformen putzen 
 - [ ] rührmaschinenschüssel sauber
 - [ ] Chatgpt Newsletter abbestellen 
 - [ ] Mathearbeit von Herr Kohlmeier als Vorlage für Mathearbeit nehmen 
-	- [ ] Mathearbeit 5a
+- [ ] Probeklassenarbeit durchrechnen Musterlösung erstellen 
+- [ ] Mathearbeit 5a
 	- [ ] je zwei schriftliche 
 		- [ ] Addition 
 		- [ ] Subtraktion 
