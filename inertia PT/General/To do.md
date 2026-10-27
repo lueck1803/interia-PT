@@ -308,7 +308,7 @@
 - [ ] rührmaschinenschüssel sauber
 - [ ] Muffinformen putzen 
 - [ ] staub saugen
-- [ ] Abendessen + medikame
+- [ ] Abendessen + medikament
 - [ ] physikbuch seiten zum weg zeit gesetz einscannen
 - [ ] pflanzen drinnen gießen 
 - [ ] Chatgpt Newsletter abbestellen 
