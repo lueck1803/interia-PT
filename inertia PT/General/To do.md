@@ -309,7 +309,7 @@
 		- [ ] Subtraktion 
 		- [ ] Multiplikation 
 		- [ ] Division 
-	- [ ] Tabellen/Umfrage 
+	- [ ] Tabellen/Umfrage Aufgabe 
 - [x] mamak wegen abzieher und kreide
 - [ ] Überweisungsschein für HNO 
 - [ ] eigene Kreide auffüllen 
