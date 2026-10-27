@@ -300,8 +300,11 @@
 - <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- [x] Duolingo
+- [ ] Duolingo
 - [ ] physikbuch seiten zum weg zeit gesetz einscannen
+- [ ] Muffinformen putzen 
+- [ ] rührmaschinenschüssel sauber
+- [ ] Chatgpt Newsletter abbestellen 
 - [ ] Mathearbeit von Herr Kohlmeier als Vorlage für Mathearbeit nehmen 
 	- [ ] Mathearbeit 5a
 	- [ ] je zwei schriftliche 
@@ -311,15 +314,12 @@
 		- [ ] Division 
 	- [ ] Tabellen/Umfrage Aufgabe 
 - [ ] Überweisungsschein für HNO 
-- [ ] Sekretariat wegen ab
+- [ ] Sekretariat wegen abzieher für 5a
 - [ ] eigene Kreide auffüllen 
 - [ ] Spülmaschine ausräumen 
-- [x] Zucker und Mehl austragen 
-- [x] spazieren + Einkaufswagen weg
+- [ ] spazieren 
 - [ ] Duschen 
 - [ ] carnivorenwasser auffüllen 
-- [x] papiermüll weg
-- [x] mein Unterricht 8c, 8b, 8a und 5a eintragen
 - [ ] Einzelflecken wischen 
 - [ ] Crystal Mountain 
 - [ ] Haselnüsse einpflanzen 
