@@ -321,7 +321,7 @@
 	- [ ] Tabellen/Umfrage Aufgabe 
 - [x] Überweisungsschein für HNO brauche ich nicht da der Nachsorge Zeitraum ja schon vorbei ist
 - [x] eigene Kreide auffüllen 
-- [ ] Spülmaschine ausräumen 
+- [x] Spülmaschine ausräumen 
 - [ ] spazieren 
 - [ ] Duschen 
 - [ ] carnivorenwasser auffüllen 
