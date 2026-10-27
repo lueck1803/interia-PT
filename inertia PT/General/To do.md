@@ -313,7 +313,7 @@
 		- [ ] Multiplikation 
 		- [ ] Division 
 	- [ ] Tabellen/Umfrage Aufgabe 
-- [ ] Überweisungsschein für HNO 
+- [x] Überweisungsschein für HNO brauche ich nicht da der Nachsorge Zeitraum ja schon vorbei ist
 - [ ] Sekretariat wegen abzieher für 5a
 - [ ] eigene Kreide auffüllen 
 - [ ] Spülmaschine ausräumen 
