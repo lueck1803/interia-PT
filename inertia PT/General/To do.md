@@ -314,7 +314,7 @@
 		- [ ] Division 
 	- [ ] Tabellen/Umfrage Aufgabe 
 - [x] Überweisungsschein für HNO brauche ich nicht da der Nachsorge Zeitraum ja schon vorbei ist
-- [ ] Sekretariat wegen abzieher für 5a
+- [ ] Sekretariat wegen abzieher für 5a und Kreide 
 - [ ] eigene Kreide auffüllen 
 - [ ] Spülmaschine ausräumen 
 - [ ] spazieren 
