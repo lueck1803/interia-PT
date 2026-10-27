@@ -302,9 +302,9 @@
 
 - [x] Duolingo
 - [x] xournal++ problem lösen
-- [ ] Oberlippenbart 
-- [ ] zähne putzen
-- [ ] Zucker und Mehl kaufen 
+- [x] Oberlippenbart 
+- [x] zähne putzen
+- [x] Zucker und Mehl kaufen 
 - [ ] rührmaschinenschüssel sauber
 - [ ] Muffinformen putzen 
 - [ ] staub saugen
