@@ -302,6 +302,7 @@
 
 - [x] Duolingo
 - [ ] physikbuch seiten zum weg zeit gesetz einscannen
+- [ ] mamak wegen anzueger
 - [ ] Spülmaschine ausräumen 
 - [x] Zucker und Mehl austragen 
 - [x] spazieren + Einkaufswagen weg
