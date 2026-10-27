@@ -310,6 +310,9 @@
 - [ ] staub saugen
 - [ ] Abendessen + medikament
 - [ ] physikbuch seiten zum weg zeit gesetz einscannen
+- [ ] 5a Mathearbeit 
+- [ ] Aufgaben für Prüfung zusammenstellen 
+- [ ] Mathe-Wettbewerb Aufgaben 
 - [ ] pflanzen drinnen gießen 
 - [ ] Chatgpt Newsletter abbestellen 
 - [ ] Mathearbeit von Herr Kohlmeier als Vorlage für Mathearbeit nehmen 
