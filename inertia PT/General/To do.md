@@ -310,8 +310,8 @@
 		- [ ] Multiplikation 
 		- [ ] Division 
 	- [ ] Tabellen/Umfrage Aufgabe 
-- [x] mamak wegen abzieher und kreide
 - [ ] Überweisungsschein für HNO 
+- [ ] Sekretariat wegen ab
 - [ ] eigene Kreide auffüllen 
 - [ ] Spülmaschine ausräumen 
 - [x] Zucker und Mehl austragen 
