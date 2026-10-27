@@ -303,13 +303,13 @@
 - [x] Duolingo
 - [ ] physikbuch seiten zum weg zeit gesetz einscannen
 - [ ] Mathearbeit von Herr Kohlmeier als Vorlage für Mathearbeit nehmen 
-- [ ] Mathearbeit 5a
+	- [ ] Mathearbeit 5a
 	- [ ] je zwei schriftliche 
 		- [ ] Addition 
 		- [ ] Subtraktion 
 		- [ ] Multiplikation 
 		- [ ] Division 
-	- [ ] eineAufgabe von
+	- [ ] Tabellen/Umfrage 
 - [x] mamak wegen abzieher und kreide
 - [ ] Überweisungsschein für HNO 
 - [ ] eigene Kreide auffüllen 
