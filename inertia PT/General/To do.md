@@ -302,14 +302,15 @@
 
 - [x] Duolingo
 - [x] xournal++ problem lösen
+- [ ] Oberlippenbart 
+- [ ] zähne putzen
+- [ ] Zucker und Mehl kaufen 
+- [ ] rührmaschinenschüssel sauber
+- [ ] Muffinformen putzen 
+- [ ] staub saugen
+- [ ] Abendessen + medikame
 - [ ] physikbuch seiten zum weg zeit gesetz einscannen
 - [ ] pflanzen drinnen gießen 
-- [x] Kaffeesatz weg
-- [ ] Zucker und Mehl kaufen 
-- [x] carnivoren gießen 
-- [ ] Oberlippenbart 
-- [ ] Muffinformen putzen 
-- [ ] rührmaschinenschüssel sauber
 - [ ] Chatgpt Newsletter abbestellen 
 - [ ] Mathearbeit von Herr Kohlmeier als Vorlage für Mathearbeit nehmen 
 - [ ] Probeklassenarbeit durchrechnen Musterlösung erstellen 
@@ -321,8 +322,6 @@
 		- [ ] Division 
 	- [ ] Tabellen/Umfrage Aufgabe 
 - [x] Überweisungsschein für HNO brauche ich nicht da der Nachsorge Zeitraum ja schon vorbei ist
-- [x] eigene Kreide auffüllen 
-- [x] Spülmaschine ausräumen 
 - [ ] spazieren 
 - [ ] Duschen 
 - [ ] carnivorenwasser auffüllen 
