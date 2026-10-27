@@ -302,6 +302,7 @@
 
 - [ ] Duolingo
 - [ ] physikbuch seiten zum weg zeit gesetz einscannen
+- [ ] 8ter
 - [ ] Muffinformen putzen 
 - [ ] rührmaschinenschüssel sauber
 - [ ] Chatgpt Newsletter abbestellen 
