@@ -357,7 +357,7 @@
 	- [ ] Unterricht vorbereiten, wie mache ich sauber Addition, Subtraktion, Multiplikation und Division schriftlich %% fold %%
 		- [ ] Subtraktion und Addition mit 3 Summanden/2Subtrahenden
 		- [ ] Multiplikation und Division mehrstellig
-- [ ] Klausur 8ter
+- [ ] Klausur 8ter %% fold %%
 	- [ ] probeklausur durchrechnen mit Zeit
 	- [ ] für Klausur Bruchrechnung vereinfachen dafür mehr terme zusammenfassen 
 		- [ ] ne, aber die letzte Aufgabe in zwei nach x auflösen Aufgaben umwandeln
