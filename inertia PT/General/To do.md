@@ -304,7 +304,8 @@
 - [x] xournal++ problem lösen
 - [ ] physikbuch seiten zum weg zeit gesetz einscannen
 - [ ] pflanzen drinnen gießen 
-- [ ] Kaffeesatz weg
+- [x] Kaffeesatz weg
+- [ ] Zucker und Mehl kaufen 
 - [x] carnivoren gießen 
 - [ ] Oberlippenbart 
 - [ ] Muffinformen putzen 
