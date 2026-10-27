@@ -304,6 +304,7 @@
 - [ ] physikbuch seiten zum weg zeit gesetz einscannen
 - [ ] pflanzen drinnen gießen 
 - [ ] carnivoren gießen 
+- [ ] Oberlippenbart 
 - [ ] Muffinformen putzen 
 - [ ] rührmaschinenschüssel sauber
 - [ ] Chatgpt Newsletter abbestellen 
