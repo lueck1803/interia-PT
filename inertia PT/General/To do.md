@@ -304,6 +304,7 @@
 - [x] xournal++ problem lösen
 - [ ] physikbuch seiten zum weg zeit gesetz einscannen
 - [ ] pflanzen drinnen gießen 
+- [ ] 
 - [x] carnivoren gießen 
 - [ ] Oberlippenbart 
 - [ ] Muffinformen putzen 
