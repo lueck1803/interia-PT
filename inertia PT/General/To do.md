@@ -302,7 +302,8 @@
 
 - [x] Duolingo
 - [ ] physikbuch seiten zum weg zeit gesetz einscannen
-- [ ] mamak wegen anzueger
+- [ ] mamak wegen abzieher und kreide
+- [ ] eigene Kreide auffüllen 
 - [ ] Spülmaschine ausräumen 
 - [x] Zucker und Mehl austragen 
 - [x] spazieren + Einkaufswagen weg
