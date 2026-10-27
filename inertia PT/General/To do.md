@@ -301,10 +301,10 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [x] Duolingo
-- [ ] xournal++ problem lösen
+- [x] xournal++ problem lösen
 - [ ] physikbuch seiten zum weg zeit gesetz einscannen
 - [ ] pflanzen drinnen gießen 
-- [ ] carnivoren gießen 
+- [x] carnivoren gießen 
 - [ ] Oberlippenbart 
 - [ ] Muffinformen putzen 
 - [ ] rührmaschinenschüssel sauber
@@ -319,8 +319,7 @@
 		- [ ] Division 
 	- [ ] Tabellen/Umfrage Aufgabe 
 - [x] Überweisungsschein für HNO brauche ich nicht da der Nachsorge Zeitraum ja schon vorbei ist
-- [ ] Sekretariat wegen abzieher für 5a und Kreide 
-- [ ] eigene Kreide auffüllen 
+- [x] eigene Kreide auffüllen 
 - [ ] Spülmaschine ausräumen 
 - [ ] spazieren 
 - [ ] Duschen 
