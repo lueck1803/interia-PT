@@ -350,7 +350,7 @@
 			- [ ] schriftlich
 		- [ ] Umfragen und Tabellen richtig deuten lesen
 	- [ ] Arbeitsblatt schriftliche Grundrechenarten erstellen
-	- [ ] Unterricht vorbereiten, wie mache ich sauber Addition, Subtraktion, Multiplikation und Division schriftlich
+	- [ ] Unterricht vorbereiten, wie mache ich sauber Addition, Subtraktion, Multiplikation und Division schriftlich %% fold %%
 		- [ ] Subtraktion und Addition mit 3 Summanden/2Subtrahenden
 		- [ ] Multiplikation und Division mehrstellig
 - [ ] Klausur 8ter
