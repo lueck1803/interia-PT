@@ -300,8 +300,9 @@
 - <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- [ ] Duolingo
+- [x] Duolingo
 - [ ] physikbuch seiten zum weg zeit gesetz einscannen
+- [ ] pflanzen drinnen gießen 
 - [ ] Muffinformen putzen 
 - [ ] rührmaschinenschüssel sauber
 - [ ] Chatgpt Newsletter abbestellen 
