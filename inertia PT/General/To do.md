@@ -303,6 +303,7 @@
 - [x] Duolingo
 - [ ] physikbuch seiten zum weg zeit gesetz einscannen
 - [ ] pflanzen drinnen gießen 
+- [ ] caeniv
 - [ ] Muffinformen putzen 
 - [ ] rührmaschinenschüssel sauber
 - [ ] Chatgpt Newsletter abbestellen 
