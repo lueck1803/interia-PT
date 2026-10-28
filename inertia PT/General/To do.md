@@ -310,6 +310,7 @@
 - [ ] staub saugen
 - [x] Abendessen + medikament
 - [ ] Aufgabe für 8ter Kreis mit 5/6 plus Kreis mit 2/3
+	- [ ] $\frac{5}{6}+\frac{2}{3}{}$
 - [ ] physikbuch seiten zum weg zeit gesetz einscannen
 - [ ] 5a Mathearbeit 
 - [ ] Aufgaben für Prüfung zusammenstellen 
