@@ -405,10 +405,10 @@
 	- [x] m 8a
 	- [x] m 8b
 	- [x] p 8a
-	- [x] p 8b
-	- [x] p 8c %% fold %%
+	- [ ] p 8b
+	- [ ] p 8c %% fold %%
 	- [x] p 10b %% fold %%
-	- [x] p 10a
+	- [ ] p 10a
 - [x] Wäsche  %% fold %%
 	- [x] anstellen 
 	- [x] schleudern 
