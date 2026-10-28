@@ -306,6 +306,7 @@
 - [x] zähne putzen
 - [x] Zucker und Mehl kaufen 
 - [x] rührmaschinenschüssel sauber
+- [ ] kaffeemaschine entkalken
 - [ ] Muffinformen putzen 
 - [ ] Flaschenöffner vom Schlüssel runter
 - [x] morgen erst zur 2.?
