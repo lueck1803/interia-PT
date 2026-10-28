@@ -308,7 +308,7 @@
 - [x] rührmaschinenschüssel sauber
 - [ ] Muffinformen putzen 
 - [ ] Flaschenöffner vom Schlüssel runter
-- [ ] morg
+- [ ] morgen erst zur 2.?
 - [ ] staub saugen
 - [x] Abendessen + medikament
 - [ ] Aufgabe für 8ter Kreis mit 5/6 plus Kreis mit 2/3
