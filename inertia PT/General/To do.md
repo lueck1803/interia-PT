@@ -301,7 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Duolingo
-- [ ] kaffeemaschine entkalken
+- [x] kaffeemaschine entkalken
 - [ ] Muffinformen putzen 
 - [ ] Aufgabe für 8ter Kreis mit 5/6 plus Kreis mit 2/3
 	- [ ] $\frac{5}{6}+\frac{2}{3}= \frac{5}{6}+\frac{2}{3}\cdot \frac{2}{2}=\frac{5}{6}+\frac{4}{6} = \frac{9}{6}=\frac{3}{2}$
