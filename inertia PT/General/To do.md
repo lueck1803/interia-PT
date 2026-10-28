@@ -301,17 +301,9 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [x] Duolingo
-- [x] xournal++ problem lösen
-- [x] Oberlippenbart 
-- [x] zähne putzen
-- [x] Zucker und Mehl kaufen 
-- [x] rührmaschinenschüssel sauber
 - [ ] kaffeemaschine entkalken
 - [ ] Muffinformen putzen 
-- [ ] Flaschenöffner vom Schlüssel runter
-- [x] morgen erst zur 2.?
 - [ ] staub saugen
-- [x] Abendessen + medikament
 - [ ] Aufgabe für 8ter Kreis mit 5/6 plus Kreis mit 2/3
 	- [ ] $\frac{5}{6}+\frac{2}{3}= \frac{5}{6}+\frac{2}{3}\cdot \frac{2}{2}=\frac{5}{6}+\frac{4}{6} = \frac{9}{6}=\frac{3}{2}$
 - [ ] physikbuch seiten zum weg zeit gesetz einscannen
@@ -340,7 +332,7 @@
 - [ ] Essen kochen
 - [ ] daria additions/subtraktions Aufgaben mit negativen Zahlen bzw. Verschiebungen über die 0
 	- [ ] die Erklärung von gestern nochmal aufschreiben
-	- [ ] mit Zahlenstrahl 
+	- [ ] mit Zahlenstrahl  %% fold %%
 - [x] Fruchtfliegen falle %% fold %%
 - [ ] tamilo, zara, jakob anrufen  %% fold %%
 - [ ] 10er  %% fold %%
