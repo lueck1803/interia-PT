@@ -315,6 +315,9 @@
 	- [ ] Aufgabe 6 
 		- [ ] 2 für G kurs davon eine mit Klammer auflösen 
 		- [ ] 3 für E Kurs die dritte mit zwei klammern
+	- [ ] Aufgabe 7
+		- [ ] zwei Aufgaben mit Stimmt die vorgebene Variable x?
+		- [ ] zwei Aufgaben 
 - [ ] physikbuch seiten zum weg zeit gesetz einscannen
 - [ ] 5a Mathearbeit 
 - [ ] Aufgaben für Prüfung zusammenstellen 
