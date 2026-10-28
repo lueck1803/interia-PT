@@ -342,7 +342,7 @@ Ich sehe jeden Moment in dem ich faul, jähzornig, müde, unruhig, gemein, ängs
 
 Denn die 100%ige Schuld bzw. Besser Verantwortung für sein Leben trägt man selbst. 
 
-Gott und alles drum herum sind nur Ausreden. Natürlich im Rahmen der eigenen Möglichkeiten. 
+Gott und alles drum herum sind nur Ausreden. Natürlich im Rahmen der eigenen Möglichkeiten.  %% fold %%
 Aber jedenfalls nie jemand anderes.
 
 Diese Schuld/Verantwortung zu akzeptieren ist hart und braucht Zeit. Ich bin in letzter Zeit mal wieder davor gefohlen. 
