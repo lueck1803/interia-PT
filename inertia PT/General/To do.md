@@ -305,6 +305,9 @@
 - [ ] Aufgabe für 8ter Kreis mit 5/6 plus Kreis mit 2/3
 	- [ ] $\frac{5}{6}+\frac{2}{3}= \frac{5}{6}+\frac{2}{3}\cdot \frac{2}{2}=\frac{5}{6}+\frac{4}{6} = \frac{9}{6}=\frac{3}{2}$
 - [ ] löse $\frac{x}{2}+\frac{x}{3}=10$
+	- [ ] $\frac{3x+2x}{6}=10$
+	- [ ] $5x=60$
+	- [ ] $x=12$
 - [ ] Mathearbeit 8
 	- [ ] Aufgabe 1 und 2 je zwei Aufgaben
 	- [ ] Aufgabe 3 nur eine Aufgabe nur für E Kurs
