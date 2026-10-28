@@ -309,6 +309,12 @@
 	- [ ] Aufgabe 1 und 2 je zwei Aufgaben
 	- [ ] Aufgabe 3 nur eine Aufgabe nur für E Kurs
 	- [ ] Aufgabe 5 zwei stellig
+		- [ ] eine dreistellige addition und multiplikation für E-Kurs
+	- [ ] Aufgabe Dezimalzahl in Bruch wie in Probearbeit
+		- [ ] nur eine Für G-Kurs 2 für E-Kurs
+	- [ ] Aufgabe 6 
+		- [ ] 2 für G kurs davon eine mit Klammer auflösen 
+		- [ ] 3 für E Kurs die dritte mit zwei klammern
 - [ ] physikbuch seiten zum weg zeit gesetz einscannen
 - [ ] 5a Mathearbeit 
 - [ ] Aufgaben für Prüfung zusammenstellen 
