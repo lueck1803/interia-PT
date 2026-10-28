@@ -305,10 +305,11 @@
 - [x] Oberlippenbart 
 - [x] zähne putzen
 - [x] Zucker und Mehl kaufen 
-- [ ] rührmaschinenschüssel sauber
+- [x] rührmaschinenschüssel sauber
 - [ ] Muffinformen putzen 
 - [ ] staub saugen
-- [ ] Abendessen + medikament
+- [x] Abendessen + medikament
+- [ ] Aufgabe für 8ter Kreis mit 5/6 plus Kreis mit 2/3
 - [ ] physikbuch seiten zum weg zeit gesetz einscannen
 - [ ] 5a Mathearbeit 
 - [ ] Aufgaben für Prüfung zusammenstellen 
