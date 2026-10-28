@@ -301,7 +301,6 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Duolingo
-- [x] kaffeemaschine entkalken
 - [ ] Muffinformen putzen 
 - [ ] Aufgabe für 8ter Kreis mit 5/6 plus Kreis mit 2/3
 	- [ ] $\frac{5}{6}+\frac{2}{3}= \frac{5}{6}+\frac{2}{3}\cdot \frac{2}{2}=\frac{5}{6}+\frac{4}{6} = \frac{9}{6}=\frac{3}{2}$
@@ -336,7 +335,6 @@
 	- [ ] Tabellen/Umfrage Aufgabe 
 - [x] Überweisungsschein für HNO brauche ich nicht da der Nachsorge Zeitraum ja schon vorbei ist
 - [ ] spazieren 
-- [ ] Duschen 
 - [ ] carnivorenwasser auffüllen 
 - [ ] Einzelflecken wischen 
 - [ ] Crystal Mountain 
@@ -421,20 +419,13 @@
 	- [x] p 8b
 	- [x] p 8c %% fold %%
 	- [x] p 10b %% fold %%
-	- [ ] p 10a
+	- [x] p 10a
 - [x] Wäsche  %% fold %%
 	- [x] anstellen 
 	- [x] schleudern 
 	- [x] aufhängen 
 	- [x] zusammen legen
 - [ ] sofa Reinigungstutorial 
-- Ohrentropfen 4-5 eher 3 
-	- [ ] morgens
-	- [x] mittags
-	- [ ] abends 
-- antibiotika 
-	- [x] mittags 
-	- [x] abends 
 - [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
 - [ ] Tomaten Samen weg sortieren 
 - [ ] Krafttraining 
@@ -513,7 +504,7 @@
 - [ ] wie geht's weiter mit Physik der 8er?
 - [ ] Mathe-Wettbewerb 
 - [ ] asteracea Samen lesen 
-- [ ] Herbstzeitlose lesen 
+- [ ] Herbstzeitlose lesen  %% fold %%
 - [ ] Balkon kehren 
 - [ ] Medikamenten Packungen Front aufschneiden+einheften 
 - [ ] Krafttraining 
