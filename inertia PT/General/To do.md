@@ -303,6 +303,7 @@
 - [x] Duolingo
 - [ ] Zähne putzen 
 - [ ] Muffinformen putzen 
+- [ ] duschen 
 - [ ] Physik 10. Klassenarbeit : Tabelle mit Einheiten und symbolen zum Ausfüllen 
 - [ ] Mathe-Wettbewerb 
 	- [ ] e kurs b arbeit
