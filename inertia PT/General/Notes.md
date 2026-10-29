@@ -414,7 +414,7 @@ Es ist für mich ein Stoppsignal dass ich mehr Frage und schreibe, aber ein Zeic
 ## 2026-09-13
 Tut mir leid so viel geschrieben, diskutieren und gefragt zu haben. 
  %% fold %%
-Ich denke ich kann die ganze Flut an sozialen Interaktionen in der Woche nicht verarbeiten und ich komme mit der vielen Aufmerksamkeit nicht so ganz klar. 
+Ich denke ich kann die ganze Flut an sozialen Interaktionen in der Woche nicht verarbeiten und ich komme mit der vielen Aufmerksamkeit nicht so ganz klar.  %% fold %%
 
 Mir fällt es schwer davon abzuschalten, ich bin dann wie in einem Rausch und handle nur nach Gefühl, Impuls und dem ersten Gedanken der mir kommt. 
 
