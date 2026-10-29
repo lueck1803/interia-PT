@@ -302,6 +302,7 @@
 
 - [x] Duolingo
 - [ ] Zähne putzen 
+- [ ] Tastatur wischen
 - [ ] Förderplan schreiben 
 	- [ ] Förder Plan von Ansia lesen 
 	- [ ] Förderplan im Schulportal Dateispeicher suchen
