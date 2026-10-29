@@ -302,6 +302,7 @@
 
 - [x] Duolingo
 - [ ] Muffinformen putzen 
+- [ ] Physik 10. Klasse 
 - [ ] Mathe-Wettbewerb 
 	- [ ] e kurs b arbeit
 	- [ ] g kurs c Arbeit 
