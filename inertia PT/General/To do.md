@@ -302,6 +302,8 @@
 
 - [x] Duolingo
 - [ ] Muffinformen putzen 
+- [ ] e kurs b arbeit
+- [ ] g kurs c Arbeit 
 - [ ] Aufgabe für 8ter Kreis mit 5/6 plus Kreis mit 2/3
 	- [ ] $\frac{5}{6}+\frac{2}{3}= \frac{5}{6}+\frac{2}{3}\cdot \frac{2}{2}=\frac{5}{6}+\frac{4}{6} = \frac{9}{6}=\frac{3}{2}$
 - [ ] löse $\frac{x}{2}+\frac{x}{3}=10$
