@@ -302,6 +302,8 @@
 
 - [x] Duolingo
 - [ ] Zähne putzen 
+- [ ] Förderplan schreiben 
+	- [ ] forderPlan von Ansia lesen 
 - [ ] Muffinformen putzen 
 - [ ] duschen 
 - [ ] Physik 10. Klassenarbeit : Tabelle mit Einheiten und symbolen zum Ausfüllen 
