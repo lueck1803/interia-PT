@@ -305,7 +305,7 @@
 - [ ] Förderplan schreiben 
 	- [ ] Förder Plan von Ansia lesen 
 	- [ ] Förderplan im Schulportal Dateispeicher suchen
-- [ ] Nachricht von 
+- [ ] Nachricht von eBay lesen 
 - [ ] Muffinformen putzen 
 - [ ] duschen 
 - [ ] Physik 10. Klassenarbeit : Tabelle mit Einheiten und symbolen zum Ausfüllen 
