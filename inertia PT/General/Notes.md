@@ -418,7 +418,7 @@ Ich denke ich kann die ganze Flut an sozialen Interaktionen in der Woche nicht v
 
 Mir fällt es schwer davon abzuschalten, ich bin dann wie in einem Rausch und handle nur nach Gefühl, Impuls und dem ersten Gedanken der mir kommt.  %% fold %%
 
-Ich denke nicht über die Auswirkungen und den Eindruck nach den dieses kurzfristige Handeln im Moment hat, ich tue einfach. 
+Ich denke nicht über die Auswirkungen und den Eindruck nach den dieses kurzfristige Handeln im Moment hat, ich tue einfach.  %% fold %%
 
 Danach ärgere ich mich darüber, dass ich so viel und was ich geschrieben habe.  %% fold %%
 
