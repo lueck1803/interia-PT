@@ -416,7 +416,7 @@ Tut mir leid so viel geschrieben, diskutieren und gefragt zu haben.
  %% fold %%
 Ich denke ich kann die ganze Flut an sozialen Interaktionen in der Woche nicht verarbeiten und ich komme mit der vielen Aufmerksamkeit nicht so ganz klar.  %% fold %%
 
-Mir fällt es schwer davon abzuschalten, ich bin dann wie in einem Rausch und handle nur nach Gefühl, Impuls und dem ersten Gedanken der mir kommt. 
+Mir fällt es schwer davon abzuschalten, ich bin dann wie in einem Rausch und handle nur nach Gefühl, Impuls und dem ersten Gedanken der mir kommt.  %% fold %%
 
 Ich denke nicht über die Auswirkungen und den Eindruck nach den dieses kurzfristige Handeln im Moment hat, ich tue einfach. 
 
