@@ -301,6 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [x] Duolingo
+- [ ] Zähne putzen 
 - [ ] Muffinformen putzen 
 - [ ] Physik 10. Klassenarbeit : Tabelle mit Einheiten und symbolen zum Ausfüllen 
 - [ ] Mathe-Wettbewerb 
