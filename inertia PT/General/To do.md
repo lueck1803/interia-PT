@@ -302,7 +302,7 @@
 
 - [x] Duolingo
 - [ ] Muffinformen putzen 
-- [ ] Physik 10. Klasse: Tabelle mit Einheiten und symbolen zum Ausfüllen 
+- [ ] Physik 10. Klassenarbeit : Tabelle mit Einheiten und symbolen zum Ausfüllen 
 - [ ] Mathe-Wettbewerb 
 	- [ ] e kurs b arbeit
 	- [ ] g kurs c Arbeit 
