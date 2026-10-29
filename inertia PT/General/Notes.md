@@ -3061,7 +3061,29 @@ Git pull is a command that performs more processes compared to git fetch. Git pu
 
 # Office
 ## Word
+### Page numbers
+Um in Microsoft Word die Seitenzahl im Format **„1 X“** (oder ähnlich) **ohne das Wort „von“** dazwischen darzustellen, ==können Sie die Feldfunktionen direkt anpassen==: [1](https://www.reddit.com/r/MicrosoftWord/comments/wb7azw/how_do_i_add_a_page_number_but_the_layout_has_to/)
 
+Schritt-für-Schritt-Anleitung:
+
+- **Header/Footer öffnen:** Doppelklicken Sie in den Kopf- oder Fußzeilenbereich Ihres Dokuments. [1](https://www.youtube.com/watch?v=Vj9YtFZn6NI)
+
+- **Aktuelle Seitenzahl einfügen:**
+    - Drücken Sie die Tastenkombination **`Strg` + `F9`** (Mac: `Cmd` + `F9`), um ein leeres Feldfunktions-Klammerpaar zu erzeugen: `{ }`.
+    - Tippen Sie das Wort **`PAGE`** hinein, sodass es so aussieht: `{ PAGE }`. [1](https://www.reddit.com/r/MicrosoftWord/comments/wb7azw/how_do_i_add_a_page_number_but_the_layout_has_to/)
+
+- **Leerzeichen und Trennzeichen einfügen:**
+    - Drücken Sie die **Leertaste**.
+    - Tippen Sie ein Leerzeichen, einen Schrägstrich, einen Bindestrich oder ein Leerzeichen ein (je nachdem, wie Sie das Format haben möchten, z. B. nur ein Leerzeichen oder `/`).
+    - Drücken Sie erneut die **Leertaste**. [1](https://www.reddit.com/r/MicrosoftWord/comments/wb7azw/how_do_i_add_a_page_number_but_the_layout_has_to/)
+
+- **Gesamtseitenzahl einfügen:**
+    - Drücken Sie nochmals **`Strg` + `F9`** für ein weiteres Feldfunktions-Klammerpaar.
+    - Tippen Sie **`NUMPAGES`** hinein, sodass es so aussieht: `{ NUMPAGES }`. [1](https://www.reddit.com/r/MicrosoftWord/comments/wb7azw/how_do_i_add_a_page_number_but_the_layout_has_to/)
+
+- **Feldfunktionen anzeigen / umschalten:**
+    - Drücken Sie die Tastenkombination **`Alt` + `F9`** (Mac: `Option` + `Fn` + `F9`), um die Feldfunktionsansicht ein- und auszuschalten.
+    - Danach sehen Sie das fertige Ergebnis (z. B. `1 6` oder `1 / 6` ohne das Wort „von“). [1](https://learn.microsoft.com/en-us/answers/questions/4942743/inserting-page-numbers-page-x-of-y-but-skipping-th), [2](https://www.reddit.com/r/MicrosoftWord/comments/wb7azw/how_do_i_add_a_page_number_but_the_layout_has_to/)
 ### Signature Lines
 
 Es gibt signature lines:
@@ -4859,7 +4881,7 @@ Ich denke es kommt auf die Essenz an. Man muss sich ja nicht alle RNA Arten merk
 
 2. Ribosome dienen der Protein Translation (weiß man vielleicht noch aus dem Bio Unterricht, ich zumindest)
 
-3. RNA und DNA unterscheiden sich in nur wenigen Bestandteilen. Dem Zucker (ohne desoxy), einer Base (U statt T) und der Doppelhelix 
+3. RNA und DNA unterscheiden sich in nur wenigen Bestandteilen. Dem Zucker (ohne desoxy), einer Base (U statt T) und der Doppelhelix  %% fold %%
 
 # Heilpflanzen
 ## Schafgarbe / Yarrow %% fold %%
