@@ -307,6 +307,7 @@
 - [ ] Förderplan schreiben 
 	- [ ] Förder Plan von Ansia lesen 
 	- [ ] Förderplan im Schulportal Dateispeicher suchen
+	- [ ] Fachlehrer fragen 
 - [ ] Mathearbeit 5 korrigieren 
 - [ ] Nachricht von eBay lesen 
 - [ ] Muffinformen putzen 
