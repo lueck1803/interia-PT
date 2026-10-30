@@ -374,7 +374,7 @@ Kommt jetzt komischerweise nur noch alle zwei bis drei Wochen so ein Moment... �
 Die letzten Tage hatte ich aber wieder gehäuft Tendenzen
 ## 2026-09-13
 
-Ich meine da sehr viel mit... 
+Ich meine da sehr viel mit...  %% fold %%
 
 Ich kann es schwer ausdrücken. 
 
