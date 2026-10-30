@@ -312,6 +312,7 @@
 - [ ] Gitarre abholen
 - [ ] rasieren
 - [ ] Carnivoren gießen
+- [ ] Pflanzen gießen 
 - [ ] Nachrichten von Ansia in schul.cloud lesen
 - [ ] Nachricht von eBay lesen 
 - [ ] Muffinformen putzen 
