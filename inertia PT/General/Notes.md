@@ -3079,7 +3079,7 @@ Schritt-für-Schritt-Anleitung:
 
 - **Gesamtseitenzahl einfügen:**
     - Drücken Sie nochmals **`Strg` + `F9`** für ein weiteres Feldfunktions-Klammerpaar.
-    - Tippen Sie **`NUMPAGES`** hinein, sodass es so aussieht: `{ NUMPAGES }`. [1](https://www.reddit.com/r/MicrosoftWord/comments/wb7azw/how_do_i_add_a_page_number_but_the_layout_has_to/) 
+    - Tippen Sie **`NUMPAGES`** hinein, sodass es so aussieht: `{ NUMPAGES }`. [1](https://www.reddit.com/r/MicrosoftWord/comments/wb7azw/how_do_i_add_a_page_number_but_the_layout_has_to/)0 
 
 - **Feldfunktionen anzeigen / umschalten:**
     - Drücken Sie die Tastenkombination **`Alt` + `F9`** (Mac: `Option` + `Fn` + `F9`), um die Feldfunktionsansicht ein- und auszuschalten.
