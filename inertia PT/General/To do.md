@@ -309,7 +309,8 @@
 	- [ ] Förderplan im Schulportal Dateispeicher suchen
 	- [ ] Fachlehrer fragen 
 - [ ] Mathearbeit 5 korrigieren 
-- [ ] Gitarre abholen
+- [x] Gitarre abholen
+- [ ] Kopfhörer case putzen 
 - [ ] rasieren
 - [ ] Carnivoren gießen
 - [ ] Pflanzen gießen 
