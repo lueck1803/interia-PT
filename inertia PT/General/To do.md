@@ -314,6 +314,7 @@
 - [ ] Carnivoren gießen
 - [ ] Pflanzen gießen 
 - [ ] Fruchtfliegen beseitigen 
+- [ ] Klamotten sortieren und waschen 
 - [ ] Nachrichten von Ansia in schul.cloud lesen
 - [ ] Nachricht von eBay lesen 
 - [ ] Muffinformen putzen 
