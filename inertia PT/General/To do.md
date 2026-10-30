@@ -303,9 +303,11 @@
 - [x] Duolingo
 - [ ] Zähne putzen 
 - [ ] Tastatur wischen
+- [ ] Mathearbeit 8te klasse
 - [ ] Förderplan schreiben 
 	- [ ] Förder Plan von Ansia lesen 
 	- [ ] Förderplan im Schulportal Dateispeicher suchen
+- [ ] Mathearbeit 5 korrigieren 
 - [ ] Nachricht von eBay lesen 
 - [ ] Muffinformen putzen 
 - [ ] duschen 
