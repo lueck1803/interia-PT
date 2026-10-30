@@ -365,7 +365,7 @@ Mal schauen ob ich den schon hatte bzw. Noch haben werde.
 
 Es ist jedenfalls immer etwas bemerkenswertes wenn man eines Sinnes oder einer sonst gewohnten Fähigkeit beraubt wird. 
 
-Man lernt so unglaublich viel. 
+Man lernt so unglaublich viel.  %% fold %%
 ### mia
 Ist schon ein Wunder dass ich nicht mehr alle paar Stunden nicht mehr leben will, dass ich beim Gedanken an die Vergangenheit total traurig werde und sie vermisse, in Schuldgefühlen versinke. 
 

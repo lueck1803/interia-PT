@@ -309,6 +309,10 @@
 	- [ ] Förderplan im Schulportal Dateispeicher suchen
 	- [ ] Fachlehrer fragen 
 - [ ] Mathearbeit 5 korrigieren 
+- [ ] Gitarre abholen
+- [ ] rasieren
+- [ ] Carnivoren gießen
+- [ ] Nachrichten von Ansia in schul.cloud lesen
 - [ ] Nachricht von eBay lesen 
 - [ ] Muffinformen putzen 
 - [ ] duschen 
