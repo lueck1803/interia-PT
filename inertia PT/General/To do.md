@@ -315,6 +315,7 @@
 - [ ] Pflanzen gießen 
 - [ ] Fruchtfliegen beseitigen 
 - [ ] Klamotten sortieren und waschen 
+- [ ] Ansia fragen wann sie mal in meinen Unterricht kommen kann
 - [ ] Nachrichten von Ansia in schul.cloud lesen
 - [ ] Nachricht von eBay lesen 
 - [ ] Muffinformen putzen 
