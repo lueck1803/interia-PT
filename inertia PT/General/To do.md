@@ -310,7 +310,7 @@
 	- [ ] Fachlehrer fragen 
 - [ ] Mathearbeit 5 korrigieren 
 - [x] Gitarre abholen
-- [ ] Kopfhörer case putzen 
+- [x] Kopfhörer case putzen 
 - [ ] rasieren
 - [ ] Carnivoren gießen
 - [ ] Pflanzen gießen 
