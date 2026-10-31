@@ -302,7 +302,7 @@
 
 - [x] Duolingo
 - [ ] Zähne putzen 
-- [ ] 
+- [ ] Halloween 👻 socken reparieren 
 - [ ] Toilette putzen 
 - [ ] wischen 
 - [ ] Tastatur wischen
