@@ -303,6 +303,8 @@
 - [x] Duolingo
 - [ ] Zähne putzen 
 - [ ] Halloween 👻 socken reparieren 
+- [ ] Schulportal Eintrag 
+- [ ] swamphell solo
 - [ ] Toilette putzen 
 - [ ] wischen 
 - [ ] Tastatur wischen
