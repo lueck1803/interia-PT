@@ -1,10 +1,10 @@
-# Zahlenstrahl 
+# 1 Zahlenstrahl 
 ![[../../../../../../Pasted image 20260814010420.png]]
  
 ![[../../../../../../Pasted image 20260813231740.png|Teilmengendarstellung der Zahlensystem. <br> Quelle: https://de.wikipedia.org/wiki/Nat%C3%BCrliche_Zahl#/media/Datei:Number-systems.svg]]
  %% fold %%
 
-## Natürliche Zahlen $\mathbb{N}$
+## 1.1 Natürliche Zahlen $\mathbb{N}$
 <!-- Das Mengensymbol der natürlichen Zahlen lautet $\mathbb{N}$, also ein N mit einem zweiten Strich an der Diagonalen. -->
 Unter den natürlichen Zahlen werden in der Regel die positiven ganzen Zahlen ohne die $0$ verstanden. Das ist je nach Definition aber unterschiedlich.
 
