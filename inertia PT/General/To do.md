@@ -305,6 +305,8 @@
 - [ ] Halloween 👻 socken reparieren 
 - [ ] Schulportal Eintrag 
 - [ ] swamphell solo
+- [ ] Notenspiegel auf die Klausur 
+- [ ] Klausur korrigieren 
 - [ ] Toilette putzen 
 - [ ] wischen 
 - [ ] Tastatur wischen
