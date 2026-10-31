@@ -26,7 +26,7 @@ $\mathbb{N}_{0}=\left\{ 0,1,2,3,\dots \right\}=\mathbb{N}\cup \{0\}$
 		- vier Birnen und fünf Äpfel sind neun Früchte
 		- Ich gehe drei mal in der Woche zum Sport. Somit gehe ich im Monat, da dieser vier Wochen hat,  zwölf mal zum Sport (vier mal drei).
  %% fold %%
-## Ganze Zahlen $\mathbb{Z}$ %% fold %%
+## 1.2 Ganze Zahlen $\mathbb{Z}$ %% fold %%
  %% fold %%
 Die ganzen Zahlen ergänzen die natürlichen Zahlen um die negativen natürlichen Zahlen inklusive der Null. 
 $$
@@ -35,7 +35,7 @@ $$
 
 Sie sind die Vereinigung der negativen natürlichen Zahlen $-\mathbb{N}$ mit den die Null enthaltenden natürlichen Zahlen $\mathbb{N}_{0}$
 
-## Rationale Zahlen $\mathbb{Q}$
+## 1.3 Rationale Zahlen $\mathbb{Q}$
 Durch ihre Einführung wird die Division auch dann durchführbar, wenn bspw. der Dividend kleiner ist als der Divisor. Beispielsweise ist die Divisionsaufgabe 3 : 4 = ? innerhalb der natürlichen oder ganzen Zahlen nicht lösbar.
 
 $$
@@ -52,17 +52,17 @@ $$
 > Teilen durch $0$ ist <u>nicht definiert</u>!
 > 
 
-# Bruchrechnung
-## Grundrechenarten
-### <u>Multiplikation</u> 
+# 2 Bruchrechnung
+## 2.1 Grundrechenarten
+### 2.1.1 <u>Multiplikation</u> 
 $$\frac{a}{\textcolor{orange}{b}}\cdot \frac{c}{\textcolor{cyan}{d}}= \frac{a\cdot c}{\textcolor{orange}{b}\cdot\textcolor{cyan}{d}}$$
-#### Beispiel
+#### 2.1.1.1 Beispiel
 $$
 \frac{4}{\textcolor{orange}{5}}\cdot \frac{35}{\textcolor{cyan}{12}}= \frac{4\cdot 35}{\textcolor{orange}{5}\cdot\textcolor{cyan}{12}} \overset{\color{red}\text{Kürzen}}{=} 
 \frac{\cancelto{ 1 }{ 4 }\cdot 35}{\textcolor{orange}{5}\cdot\textcolor{cyan}{\cancelto{ 3 }{ 12 }}}
 = \frac{1\cdot \cancelto{ 7 }{ 35 }}{\textcolor{orange}{\cancelto{ 1 }{ 5 }}\cdot\textcolor{cyan}{3}} =\frac{7}{3}
 $$
-### <u>Division</u>
+### 2.1.2 <u>Division</u>
 $$\frac{a}{\textcolor{orange}{b}} : \frac{c}{\textcolor{cyan}{d}}=
 \frac{\frac{a}{\textcolor{orange}{b}}}{\frac{c}{\textcolor{cyan}{d}}}=
 \frac{a}{\textcolor{orange}{b}\cdot\frac{c}{\textcolor{cyan}{d}}}=
@@ -78,7 +78,7 @@ $$\frac{a}{\textcolor{orange}{b}} : \frac{c}{\textcolor{cyan}{d}}=
 	- <font color="#f79646">b</font> wird durch c vergrößert und durch d verkleinert 
 	- ⤷ daher kann man auch <font color="#7fffd4">d</font> in den Zähler zu a schreiben
 	- ⤷ also den Bruch herum drehen
-#### Beispiel
+#### 2.1.2.1 Beispiel
 $$\frac{15}{\textcolor{orange}{3}} : \frac{2}{\textcolor{cyan}{6}}=
 
 \frac{15}{\textcolor{orange}{3}} \cdot \frac{\textcolor{cyan}{6}}{2}= \frac{15\cdot\textcolor{cyan}{6}}{\textcolor{orange}{3}\cdot 2}
@@ -88,28 +88,28 @@ $$\frac{15}{\textcolor{orange}{3}} : \frac{2}{\textcolor{cyan}{6}}=
 15
 $$
 
-### <u>Addition</u>
+### 2.1.3 <u>Addition</u>
 $$\frac{a}{\textcolor{orange}{b}} + \frac{c}{\textcolor{cyan}{d}}= \frac{a}{\textcolor{orange}{b}}\cdot \frac{\textcolor{cyan}{d}}{\textcolor{cyan}{d}}+ \frac{c}{\textcolor{cyan}{d}}\cdot\frac{\textcolor{orange}{b}}{\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}}{\textcolor{orange}{b}\textcolor{cyan}{d}}+ \frac{c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}+c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}$$
-#### Beispiel
+#### 2.1.3.1 Beispiel
 $$\frac{3}{\textcolor{orange}{5}} + \frac{7}{\textcolor{cyan}{8}}=
 \frac{3}{\textcolor{orange}{5}}\cdot \frac{\textcolor{cyan}{8}}{\textcolor{cyan}{8}}+
 \frac{7}{\textcolor{cyan}{8}}\cdot\frac{\textcolor{orange}{5}}{\textcolor{orange}{5}}=\frac{3\cdot \textcolor{cyan}{8}}{\textcolor{orange}{5}\cdot\textcolor{cyan}{8}}+ \frac{7\cdot\textcolor{orange}{5}}{\textcolor{cyan}{8}\cdot\textcolor{orange}{5}}=\frac{3\cdot\textcolor{cyan}{8}+7\cdot\textcolor{orange}{5}}{\textcolor{cyan}{8}\cdot\textcolor{orange}{5}}=
 \frac{24+35}{40}=
 \frac{59}{40}$$
-### <u>Subtraktion</u>
+### 2.1.4 <u>Subtraktion</u>
 $$\frac{a}{\textcolor{orange}{b}} - \frac{c}{\textcolor{cyan}{d}}= \frac{a}{\textcolor{orange}{b}}\cdot \frac{\textcolor{cyan}{d}}{\textcolor{cyan}{d}}- \frac{c}{\textcolor{cyan}{d}}\cdot\frac{\textcolor{orange}{b}}{\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}}{\textcolor{orange}{b}\textcolor{cyan}{d}}- \frac{c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}=\frac{a\textcolor{cyan}{d}-c\textcolor{orange}{b}}{\textcolor{cyan}{d}\textcolor{orange}{b}}$$ 
-#### Beispiel
+#### 2.1.4.1 Beispiel
 $$\frac{4}{\textcolor{orange}{9}} - \frac{5}{\textcolor{cyan}{4}}=
 \frac{4}{\textcolor{orange}{9}}\cdot \frac{\textcolor{cyan}{4}}{\textcolor{cyan}{4}}-
 \frac{5}{\textcolor{cyan}{4}}\cdot\frac{\textcolor{orange}{9}}{\textcolor{orange}{9}}=\frac{4\cdot \textcolor{cyan}{4}}{\textcolor{orange}{9}\cdot\textcolor{cyan}{4}}-\frac{5\cdot\textcolor{orange}{9}}{\textcolor{cyan}{4}\cdot\textcolor{orange}{9}}=\frac{4\cdot\textcolor{cyan}{4}-5\cdot\textcolor{orange}{9}}{\textcolor{cyan}{4}\cdot\textcolor{orange}{9}}=
 \frac{16-45}{36}=
 \frac{-29}{36}$$
-## Sonstiges
-### kgV (<u>kleinstes gemeinsames Vielfaches</u>) 
+## 2.2 Sonstiges
+### 2.2.1 kgV (<u>kleinstes gemeinsames Vielfaches</u>) 
 
-#### Auf Englisch (wichtig für den Taschenrechner):
+#### 2.2.1.1 Auf Englisch (wichtig für den Taschenrechner):
 <font color="#ff0000">LCM</font> — <font color="#ff0000">L</font>arges <font color="#ff0000">C</font>ommon <font color="#ff0000">M</font>ultiplier
-#### Verwendung: <font color="#ff6e6e">Hauptnenner</font> bilden
+#### 2.2.1.2 Verwendung: <font color="#ff6e6e">Hauptnenner</font> bilden
 - Suche die kleinste Zahl die in beiden *1x1-Reihen* vorkommt
 - Beispiel 3 und 4
 	- <u>3:</u> $3, 6,{\color{orange}12},15,18,21 ,{\color{orange}24},27, 30, \dots$
@@ -125,22 +125,22 @@ $$\frac{4}{\textcolor{orange}{9}} - \frac{5}{\textcolor{cyan}{4}}=
 		- da 54 an zweiter Stelle in der 27er Reihe ist, muss $\frac{9}{27}$ mit 2 erweitert werden 
 		  ⟹$\frac{9}{27}\cdot \frac{2}{2}=\frac{18}{54}$
 			- Die Zahlen sind also gleich
-### ggT (<u>größter gemeinsamer Teiler</u>) 
-#### Auf Englisch (wichtig für den Taschenrechner):
+### 2.2.2 ggT (<u>größter gemeinsamer Teiler</u>) 
+#### 2.2.2.1 Auf Englisch (wichtig für den Taschenrechner):
 <font color="#ff0000">GCD</font> — <font color="#ff0000">G</font>reatest <font color="#ff0000">C</font>ommon <font color="#ff0000">D</font>ivisor
-#### Verwendung: <font color="#48d1cc">Kürzen</font>
+#### 2.2.2.2 Verwendung: <font color="#48d1cc">Kürzen</font>
 - Suchen den größten Teiler der jeweiligen Zahlen, die beide gemeinsam haben
 - Beispiel 12 und 18
 	- <u>12 hat die Teiler:</u> $1,2,3,4,{\color{cyan}6},12$
 	- <u>18 hat die Teiler:</u> $1,2,3,{\color{cyan}6},9,18$
 	- Der größte gemeinsame Teile ist $\color{cyan}6$ 
 	- Der Bruch $\frac{12}{18}$ lässt sich also durch herausziehen des Teilers $\color{cyan}6$ zu $\frac{12}{18}=\frac{2\cdot \cancel{ {\color{cyan}6} }}{3\cdot \cancel{ \color{cyan}6 }}=\frac{2}{3}$ kürzen
-### gemischte Schreibweise:
+### 2.2.3 gemischte Schreibweise:
 - $2 \frac{3}{4}$ <font color="#48d1cc">ohne Mal-Punkt</font> bedeutet dies: zwei Ganze und $\frac{3}{4}$
 - also $2+\frac{3}{4}$
 
-## Dezimalzahl in Bruch umwandeln
-### Vorgehen bei der Umwandlung / Systematisches Durchprobieren
+## 2.3 Dezimalzahl in Bruch umwandeln
+### 2.3.1 Vorgehen bei der Umwandlung / Systematisches Durchprobieren
 
 1. Auftrennen der Dezimalzahl in Teil vor und Teil nach dem Komma
 	- $5,3=5+0,3$
@@ -191,13 +191,13 @@ $$\frac{4}{\textcolor{orange}{9}} - \frac{5}{\textcolor{cyan}{4}}=
 		- $0,4=\frac{4}{10}$
 		- $0,012=\frac{12}{1000}$
 	3. Verfahren des nächsten [[Bruchrechnung - Rationale Zahlen#Dezimalzahl mit Periode in Bruch umrechnen|Abschnitts]] anwenden
-#### Beispiele
+#### 2.3.1.1 Beispiele
 - $5,3 = 5+ 0,3 = \frac{5}{1}+\frac{3}{10}=\frac{50}{10}+\frac{3}{10}=\frac{53}{10}$ ⟹ hätte man hier auch in einem Schritt machen können
 - $8,25=8+0,25=\frac{8}{1}+\frac{1}{4}=\frac{8\cdot4+1}{4}=\frac{32+1}{4}=\frac{33}{4}$
 - $3,\bar{4}=\frac{3}{1}+\frac{4}{9}=\frac{3\cdot9+4}{9}=\frac{27+4}{9}=\frac{31}{9}$
 - $4,125=\frac{4}{1}+\frac{1}{8}=\frac{4\cdot 8+1}{8}=\frac{32+1}{8}=\frac{33}{8}$
 
-### Dezimalzahl mit Periode in Bruch umrechnen
+### 2.3.2 Dezimalzahl mit Periode in Bruch umrechnen
 wir wollen die Periode loswerden 
 1. ⤷das gelingt uns durch Subtraktion der Periode. 
 	- Wir müssen also $\pu{ 0,9999\dots }$,  $\pu{ 0,8888\dots }$,  $\pu{ 0,007777\dots }$ oder $\pu{ 0,06666\dots }$ abziehen
