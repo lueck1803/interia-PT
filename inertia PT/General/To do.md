@@ -302,6 +302,8 @@
 
 - [x] Duolingo
 - [ ] Zähne putzen 
+- [ ] Toilette putzen 
+- [ ] wu
 - [ ] Tastatur wischen
 - [ ] Mathearbeit 8te klasse
 	- [ ] noch mit der Arbeit von Lukas Kohlmeier vergleichen
