@@ -302,6 +302,7 @@
 
 - [x] Duolingo
 - [ ] Zähne putzen 
+- [ ] 
 - [ ] Toilette putzen 
 - [ ] wischen 
 - [ ] Tastatur wischen
