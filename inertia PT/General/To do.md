@@ -302,6 +302,8 @@
 
 - [x] Duolingo
 - [ ] Zähne putzen 
+- [ ] Restmüll weg
+- [ ] Rasieren 
 - [ ] Halloween 👻 socken reparieren 
 - [ ] Schulportal Eintrag 
 - [ ] swamphell solo
