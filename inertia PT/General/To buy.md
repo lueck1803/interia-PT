@@ -17,9 +17,9 @@
 # Aldi
 ## Jetzt
 - Einkaufswagen 
-- [ ] 405er mehl
-- [ ] Zucker 
-- [x] Toast 
+- [ ] Toast 
+- [x] 405er mehl
+- [x] Zucker 
 - [x] Nussnougat 
 - [x] Birnen 
 - [x] saft
