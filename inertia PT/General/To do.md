@@ -302,7 +302,9 @@
 
 - [x] Duolingo
 - [ ] Zähne putzen 
-- [ ] Restmüll weg
+- [ ] gelber Sack kleben 
+- [x] Restmüll weg
+- [x] gelber Sack 
 - [ ] Rasieren 
 - [ ] Halloween 👻 socken reparieren 
 - [ ] Schulportal Eintrag 
