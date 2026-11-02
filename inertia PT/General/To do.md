@@ -303,9 +303,10 @@
 - [x] Duolingo
 - [ ] Zähne putzen 
 - [ ] gelber Sack kleben 
+- [ ] Bettwäsche wechseln 
 - [x] Restmüll weg
 - [x] gelber Sack 
-- [ ] Rasieren 
+- [x] Rasieren 
 - [ ] Halloween 👻 socken reparieren 
 - [ ] Schulportal Eintrag 
 - [ ] swamphell solo
