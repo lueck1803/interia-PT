@@ -305,7 +305,7 @@
 - [ ] gelber Sack kleben 
 - [ ] Bettwäsche wechseln 
 - [ ] Stundenplan eingetragen 
-- [ ] Rucksack tro
+- [ ] Rucksack trocknen
 - [x] Restmüll weg
 - [x] gelber Sack 
 - [x] Rasieren 
