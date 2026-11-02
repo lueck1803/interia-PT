@@ -304,6 +304,7 @@
 - [ ] Zähne putzen 
 - [ ] gelber Sack kleben 
 - [ ] Bettwäsche wechseln 
+- [ ] Stundenplan eingetragen 
 - [x] Restmüll weg
 - [x] gelber Sack 
 - [x] Rasieren 
