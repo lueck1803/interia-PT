@@ -307,7 +307,8 @@
 - [ ] Paprika ernten 
 - [x] essen
 - [ ] essen in den Kühlschrank
-- [ ] Fachkonferenz am 9.11 eintragen 
+- [ ] Fachkonferenz Mathematik am 9.11 eintragen 
+- [ ] Fachkonferenz Physik am ??? eintragen
 - [ ] Matheunterricht für 5er vorbereiten 
 	- [ ] Nochmal die Grundrechenarten üben
 - [ ] Mathearbeit 5er korrigieren 
