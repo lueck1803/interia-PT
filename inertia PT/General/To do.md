@@ -304,11 +304,13 @@
 - [ ] amela wegen Klausur Aufgabe 8 schreiben 
 - [ ] emir wegen Mathe-Wettbewerb schreiben 
 - [ ] yusufs Mutter anrufen 
-- [ ] margins und bruchbild in Mathearbeit anpassen 
+- [x] margins und bruchbild in Mathearbeit anpassen 
 - [ ] Anleitung iprojection app scheiben
 - [ ] Nummern 5a abschreiben 
 - [ ] carnivorenwasser auffüllen 
 - [ ] Lotus 🪷 checken 
+- [ ] gemeinsamer Nachschreibe Termin wie läuft das?
+- [ ] Wäsche waschen
 - [ ] YouTube Video zum Vakuum herunterladen 
 - [ ] Aufgabe mit Fass überlegen und ausrechnen 
 	- [ ] Daten zu nem Öl fass finden 
