@@ -301,6 +301,15 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Duolingo
+- [ ] kursmappe
+	- [x] m 5a %% fold %%
+	- [x] m 8a
+	- [x] m 8b
+	- [x] p 8a
+	- [x] p 8b
+	- [x] p 8c %% fold %%
+	- [x] p 10b %% fold %%
+	- [ ] p 10a
 - [ ] origniale Arbeitsunfähgikeitsbescheinigungen beim Sekretariat abgeben
 	- [ ] Scan vorliegend
 		- 15.09. - 18.09.26 (4 Tage) Scan vorliegend
@@ -315,9 +324,9 @@
 - [ ] Paprika ernten 
 - [x] essen
 - [ ] essen in den Kühlschrank
-- [ ] Fachkonferenz Mathematik am 9.11 eintragen 
+- [x] Fachkonferenz Mathematik am 9.11 eintragen 
 	- [ ] Ort und Uhrzeit ist noch nicht fest
-- [ ] Fachkonferenz Physik am 10.11 14 Uhr Bioraum für den NaWi-Teil, anschließend Raum PH2
+- [x] Fachkonferenz Physik am 10.11 14 Uhr Bioraum für den NaWi-Teil, anschließend Raum PH2
 - [ ] Matheunterricht für 5er vorbereiten 
 	- [ ] Nochmal die Grundrechenarten üben
 - [ ] Mathearbeit 5er korrigieren 
@@ -330,8 +339,6 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 - [x] Nudeln austragen 
-- [ ] Unterrichtseintrag:
-	- [ ] 8b
 - [ ] yusufs Mutter anrufen 
 - [x] E-Mail an Salmas Mutter schicken
 - [x] E-mails der schul-id checken
@@ -506,15 +513,7 @@
 	- [ ] wie wenn sie 8km/h fahren 
 	- [ ] und wie wenn eines 8 km/h und das andere 16 km/h fährt 
 	- [ ] wie ändert sich die zurück gelegte Strecke der Fahrräder und der Biene 
-- kursmappe
-	- [x] m 5a %% fold %%
-	- [x] m 8a
-	- [ ] m 8b
-	- [x] p 8a
-	- [x] p 8b
-	- [x] p 8c %% fold %%
-	- [x] p 10b %% fold %%
-	- [ ] p 10a
+
 - [ ] sofa Reinigungstutorial 
 - [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
 - [ ] Tomaten Samen weg sortieren 
@@ -593,7 +592,7 @@
 - [ ] wie geht es weiter mit Physik der 10er?
 - [ ] wie geht's weiter mit Physik der 8er?
 - [ ] Mathe-Wettbewerb 
-- [ ] asteracea Samen lesen 
+- [ ] asteracea Samen lesen  %% fold %%
 - [ ] Herbstzeitlose lesen  %% fold %%
 - [ ] Balkon kehren 
 - [ ] Medikamenten Packungen Front aufschneiden+einheften  %% fold %%
