@@ -305,8 +305,9 @@
 - [ ] Matheunterricht für 5er vorbereiten 
 - [ ] Mathearbeit 5er korrigieren 
 - [ ] Sportsachen packen 
-- [x] amela wegen Klausur Aufgabe 8 schreiben 
-- [x] emir wegen Mathe-Wettbewerb schreiben 
+- [ ] swamphell solo
+- [ ] Unterrichtseintrag:
+	- [ ] 8b
 - [ ] yusufs Mutter anrufen 
 - [ ] E-Mail an Salmas Mutter schicken
 - [ ] E-mails der schul-id checken
@@ -332,18 +333,12 @@
 - [ ] Wohnung aufräumen 
 - [ ] Seerosen rein
 - [ ] tabs aufräumen -> Bookmarks
-- [ ] Beamer ausprobieren 
+- [x] Beamer ausprobieren 
 - [ ] gelber Sack kleben 
 - [ ] Bettwäsche wechseln 
 - [ ] Stundenplan eingetragen 
-- [x] Rucksack trocknen
-- [x] Restmüll weg
-- [x] gelber Sack 
-- [x] Rasieren 
 - [ ] Halloween 👻 socken reparieren 
 - [ ] Schulportal Eintrag 
-- [ ] swamphell solo
-- [x] Notenspiegel auf die Klausur 
 - [ ] Klausur korrigieren 
 - [ ] Toilette putzen 
 - [ ] wischen 
@@ -418,7 +413,7 @@
 - [ ] tisch wischen
 - [ ] Essen kochen
 - [ ] daria additions/subtraktions Aufgaben mit negativen Zahlen bzw. Verschiebungen über die 0
-	- [ ] die Erklärung von gestern nochmal aufschreiben
+	- [ ] die Erklärung von gestern nochmal aufschreiben %% fold %%
 	- [ ] mit Zahlenstrahl  %% fold %%
 - [x] Fruchtfliegen falle %% fold %%
 - [ ] tamilo, zara, jakob anrufen  %% fold %%
