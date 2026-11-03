@@ -2220,7 +2220,14 @@ Das ist eine Pausenaufsicht zwischen der 4/5 Stunde auf dem Hofbereich 3.
 
 # Elterngespräche
 ## 8b
-### Salma 
+### Salma Zoubaa
+#### 2026-11-03 E-mail 
+Sehr geehrte Frau Zoubaa,
+
+Ich bin der Mathe- und Physiklehrer von Salma. Ich wollte Ihnen mitteilen, dass sich Ihre Tochter seit den Sommerferien in ihrem Arbeitsverhalten, Sozialverhalten und fachlich deutlich gebessert und positiv hervorgetan hat.
+
+Ich habe sie bereits mehrfach bei ihrer Klassenlehrerin Frau Güldner gelobt.
+Salma hatte zwar einen leichten Einbruch bei ihrer Mitarbeit und Anwesenheit vor und kurz nach den Herbstferien zu verzeichnen, ich denke aber, dass dies der Situation mit dem verloren gegan
 ## 5a
 ### Zara
 ### Tamilo
