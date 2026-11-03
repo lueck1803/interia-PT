@@ -2234,6 +2234,14 @@ Leider war ich auch vor den Herbstferien 3 Wochen krank.
 In letzter Zeit bessert sich ihr Verhalten und ihre Mitarbeit wieder deutlich.
 Sie sorgt mit ihrer Gewissenhaftigkeit und ihrem sozialen Engagement in der Klasse um sie herum für eine positive Arbeitsatmosphäre.
 Zu Beginn des Schuljahres habe ich sie daher mit einer Tutorenrolle beauftragt.
+Durch das Lernen für den Mathewettbewerb und die Situation in der Klasse, werde ich Salma nun wieder dafür einsetzen, dass sie sich positive auf die Gruppe auswirkt und ihre Fähigkeiten einsetzt ihre Mitschüler positiv voran zu bringen.
+
+Daher plane ich - ungeachtet dessen, was jetzt in der Mathearbeit herauskommen wird - Salma in Mathematik in den E-Kurs aufzustufen.
+
+Sobald die Einstufung für Physik stattfindet, werde ich sie auch dort in den E-Kurs einstufen.
+
+Ich sehe Salma durch ihre taffe Art fähig nach der 10. Klasse in die Oberstufe zu kommen
+
 ## 5a
 ### Zara
 ### Tamilo
