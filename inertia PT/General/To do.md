@@ -302,7 +302,8 @@
 
 - [ ] Duolingo
 - [ ] essen
-- [ ] Matheunterricht für 5
+- [ ] Matheunterricht für 5er vorbereiten 
+- [ ] Mathearbeit 5er korrigieren 
 - [x] amela wegen Klausur Aufgabe 8 schreiben 
 - [x] emir wegen Mathe-Wettbewerb schreiben 
 - [ ] yusufs Mutter anrufen 
