@@ -305,6 +305,7 @@
 - [ ] emir wegen Mathe-Wettbewerb schreiben 
 - [ ] yusufs Mutter anrufen 
 - [ ] margins und bruchbild in Mathearbeit anpassen 
+- [ ] Anleitung iprojection app scheiben
 - [ ] YouTube Video zum Vakuum herunterladen 
 - [ ] Aufgabe mit Fass überlegen und ausrechnen 
 	- [ ] Daten zu nem Öl fass finden 
