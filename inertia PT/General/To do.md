@@ -423,7 +423,7 @@
 - [ ] Haselnüsse einpflanzen 
 - [ ] tisch wischen
 - [ ] Essen kochen
-- [ ] daria additions/subtraktions Aufgaben mit negativen Zahlen bzw. Verschiebungen über die 0 %% fold %%
+- [ ] daria additions/subtraktions Aufgaben mit negativen Zahlen bzw. Verschiebungen über die 0
 	- [ ] die Erklärung von gestern nochmal aufschreiben %% fold %%
 	- [ ] mit Zahlenstrahl  %% fold %%
 - [x] Fruchtfliegen falle %% fold %%
