@@ -322,11 +322,11 @@
 - [ ] Aldi 
 - [ ] luftpacks in den Keller
 - [ ] Paprika ernten 
-- [ ] 1 barrel öl - 158,99 Liter - 55 Gallonen
-	- [ ] Fassvolumen - 200 Liter
-	- [ ] Durchmesser 58cm
-	- [ ] Höhe: 88cm
-	- [ ] Leergewicht: 16 kg (Stahlfass)
+- 1 barrel öl - 158,99 Liter - 55 Gallonen
+	- Fassvolumen - 200 Liter
+	- Durchmesser 58cm
+	- Höhe: 88cm
+	- Leergewicht: 16 kg (Stahlfass)
 - [x] essen
 - [ ] essen in den Kühlschrank
 - [x] Fachkonferenz Mathematik am 9.11 eintragen 
