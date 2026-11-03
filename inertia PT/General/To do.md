@@ -301,7 +301,8 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [x] Duolingo
-- [ ] Zähne putzen 
+- [ ] amela wegen Klausur Aufgabe 8 schreiben 
+- [ ] emir wegen Mathe-Wettbewerb schreiben 
 - [ ] Experiment zum archimedischen Prinzip planen 
 - [ ] Experiment zum Vakuum planen 
 - [ ] Video zum Vakuum und Druck 
