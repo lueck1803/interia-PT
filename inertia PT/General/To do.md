@@ -301,7 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Duolingo
-- [ ] kursmappe
+- kursmappe
 	- [x] m 5a %% fold %%
 	- [x] m 8a
 	- [x] m 8b
@@ -309,7 +309,7 @@
 	- [x] p 8b
 	- [x] p 8c %% fold %%
 	- [x] p 10b %% fold %%
-	- [ ] p 10a
+	- [x] p 10a
 - [ ] origniale Arbeitsunfähgikeitsbescheinigungen beim Sekretariat abgeben
 	- [ ] Scan vorliegend
 		- 15.09. - 18.09.26 (4 Tage) Scan vorliegend
