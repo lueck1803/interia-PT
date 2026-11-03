@@ -300,8 +300,14 @@
 - <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
+
+- 1 barrel öl - 158,99 Liter - 55 Gallonen
+	- Fassvolumen - 200 Liter
+	- Durchmesser 58cm
+	- Höhe: 88cm
+	- Leergewicht: 16 kg (Stahlfass)
 - [ ] Duolingo
-- [ ] Punkteverteilung/Skala nachsx
+- [ ] Punkteverteilung/Skala nachschauen 
 - [ ] Die anderen Beamer auf das PW 12345678 umstellen
 - kursmappe
 	- [x] m 5a %% fold %%
@@ -320,16 +326,9 @@
 		- 26.09. - 08.10.2026 (13 Tage) Scan vorliegend
 	- [x] Email an Hausarzt 3.11.
 	- [ ] originale AU vom Krankenhaus im Sekretariat abgeben
-- [x] Nudeln kochen 
 - [ ] Aldi 
 - [ ] luftpacks in den Keller
 - [ ] Paprika ernten 
-- 1 barrel öl - 158,99 Liter - 55 Gallonen
-	- Fassvolumen - 200 Liter
-	- Durchmesser 58cm
-	- Höhe: 88cm
-	- Leergewicht: 16 kg (Stahlfass)
-- [x] essen
 - [ ] essen in den Kühlschrank
 - [x] Fachkonferenz Mathematik am 9.11 eintragen 
 	- [ ] Ort und Uhrzeit ist noch nicht fest
@@ -337,21 +336,15 @@
 - [ ] Matheunterricht für 5er vorbereiten 
 	- [ ] Nochmal die Grundrechenarten üben
 - [ ] Mathearbeit 5er korrigieren 
-- [ ] Sportsachen packen 
-- [ ] swamphell solo
+- [x] Sportsachen packen 
+- [x] swamphell solo
 - [ ] Spülmaschine ausräumen und Spülmaschinensalz checken 
 - [ ] 30° Wäsche
 	- [x] anstellen 
 	- [x] schleudern 
 	- [x] aufhängen 
 	- [ ] zusammen legen
-- [x] Nudeln austragen 
 - [ ] yusufs Mutter anrufen 
-- [x] E-Mail an Salmas Mutter schicken
-- [x] E-mails der schul-id checken
-- [x] margins und bruchbild in Mathearbeit anpassen 
-- [x] Anleitung iprojection app scheiben
-- [x] Nummern 5a abschreiben 
 - [ ] carnivorenwasser auffüllen 
 - [ ] Physikaufgabe 8er zum Einheiten umrechnen mit litern und Gallonen raus suchen
 	- [ ] ![[../../Pasted image 20261103230812.png]]
@@ -449,10 +442,10 @@
 - [ ] carnivorenwasser auffüllen 
 - [ ] Einzelflecken wischen 
 - [ ] Crystal Mountain 
-- [ ] Haselnüsse einpflanzen 
-- [ ] tisch wischen
-- [ ] Essen kochen
-- [ ] daria additions/subtraktions Aufgaben mit negativen Zahlen bzw. Verschiebungen über die 0
+- [ ] Haselnüsse einpflanzen  %% fold %%
+- [ ] tisch wischen %% fold %%
+- [ ] Essen kochen %% fold %%
+- [ ] daria additions/subtraktions Aufgaben mit negativen Zahlen bzw. Verschiebungen über die 0 %% fold %%
 	- [ ] die Erklärung von gestern nochmal aufschreiben %% fold %%
 	- [ ] mit Zahlenstrahl  %% fold %%
 - [x] Fruchtfliegen falle %% fold %%
@@ -462,7 +455,7 @@
 	- [ ] Maßband 
 	- [ ] Pa so eine kleine einheit, aber der Atmosphären Druck ist im Vergleich auch doch schon Recht hoch
 	- [ ] Atmosphären Druck - Vakuum 
-	- [ ] Experiment zum Vakuum 
+	- [ ] Experiment zum Vakuum  %% fold %%
 - [ ] fcheck dings den powershell notes hinzufügen
 - [ ] 8b Donnerstag salma, Shanaja,hana fehlen 
 - [ ] luna und sofiia in schul.cloud?
