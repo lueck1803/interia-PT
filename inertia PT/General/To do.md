@@ -303,7 +303,7 @@
 - [x] Duolingo
 - [ ] amela wegen Klausur Aufgabe 8 schreiben 
 - [ ] emir wegen Mathe-Wettbewerb schreiben 
-- [ ] xusufs Mutter antu
+- [ ] yusufs Mutter anrufen 
 - [ ] Experiment zum archimedischen Prinzip planen 
 - [ ] Experiment zum Vakuum planen 
 - [ ] Video zum Vakuum und Druck 
