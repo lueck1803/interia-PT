@@ -302,7 +302,7 @@
 
 - [ ] Duolingo
 - [ ] Nudeln kochen 
-- [ ] luftpacks n
+- [ ] luftpacks in den Keller
 - [ ] Paprika ernten 
 - [ ] essen
 - [ ] Matheunterricht für 5er vorbereiten 
