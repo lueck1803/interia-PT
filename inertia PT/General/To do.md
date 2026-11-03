@@ -302,10 +302,15 @@
 
 - [x] Duolingo
 - [ ] Zähne putzen 
+- [ ] Experiment zum archimedischen Prinzip planen 
+- [ ] Experiment zum Vakuum planen 
+- [ ] Video zum Vakuum und Druck 
+- [ ] im Physik Buch lesen
+- [ ] Wohnung aufräumen 
 - [ ] gelber Sack kleben 
 - [ ] Bettwäsche wechseln 
 - [ ] Stundenplan eingetragen 
-- [ ] Rucksack trocknen
+- [x] Rucksack trocknen
 - [x] Restmüll weg
 - [x] gelber Sack 
 - [x] Rasieren 
