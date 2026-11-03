@@ -301,6 +301,11 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Duolingo
+- [ ] origniale Arbeitsunfähgikeitsbescheinigungen beim Sekretariat abgeben
+	- 15.09. - 18.09.26 (4 Tage) Scan vorliegend
+	- 19.09. - 21.09.26 (3 Tage) Kein Scan
+	- 22.09. - 25.09.2026 (4 Tage) Scan vorliegend
+	- 26.09. - 08.10.2026 (13 Tage) Scan vorliegend
 - [x] Nudeln kochen 
 - [ ] Aldi 
 - [ ] luftpacks in den Keller
@@ -308,7 +313,7 @@
 - [x] essen
 - [ ] essen in den Kühlschrank
 - [ ] Fachkonferenz Mathematik am 9.11 eintragen 
-- [ ] Fachkonferenz Physik am ??? eintragen
+- [ ] Fachkonferenz Physik am 10.11 14 Uhr Bioraum für den NaWi-Teil, anschließend Raum PH2
 - [ ] Matheunterricht für 5er vorbereiten 
 	- [ ] Nochmal die Grundrechenarten üben
 - [ ] Mathearbeit 5er korrigieren 
@@ -441,7 +446,7 @@
 - [ ] fcheck dings den powershell notes hinzufügen
 - [ ] 8b Donnerstag salma, Shanaja,hana fehlen 
 - [ ] luna und sofiia in schul.cloud?
-- [ ] 5a
+- [ ] 5a %% fold %%
 	- [ ] Mathearbeit erstellen
 		- [ ] Grundrechenarten
 			- [ ] im kopf
