@@ -2159,6 +2159,9 @@ Deshalb ging die Sirene 3 mal!
 	- generelles aufmüpfiges Verhalten, wird Laut und gibt Widerworte wenn ich ihn ermahne
 	- Chips auf dem Boden, hat sie nach mehreren Aufforderungen aber aufgekehrt
 # Anrufliste 
+## 8b
+- Zoubaa, Salma: Mutter Frau Hanan Mira
+	- Email: hananmira1986@gmail.com
 ## 5a 
 - Kühn, Marie:
 	- Email: lea_kuehn@yahoo.com
@@ -2222,7 +2225,7 @@ Das ist eine Pausenaufsicht zwischen der 4/5 Stunde auf dem Hofbereich 3.
 ## 8b
 ### Salma Zoubaa
 #### 2026-11-03 E-mail 
-Sehr geehrte Frau Zoubaa,
+Sehr geehrte Frau Hanan Mira,
 
 Ich bin der Mathe- und Physiklehrer von Salma. Ich wollte Ihnen mitteilen, dass sich Ihre Tochter seit den Sommerferien in ihrem Arbeitsverhalten, Sozialverhalten und fachlich deutlich gebessert und positiv hervorgetan hat.
 
@@ -2240,7 +2243,10 @@ Daher plane ich - ungeachtet dessen, was jetzt in der Mathearbeit herauskommen w
 
 Sobald die Einstufung für Physik stattfindet, werde ich sie auch dort in den E-Kurs einstufen.
 
-Ich sehe Salma durch ihre taffe Art fähig nach der 10. Klasse in die Oberstufe zu kommen
+Ich sehe Salma durch ihre taffe Art fähig nach der 10. Klasse in die Oberstufe zu kommen, falls sie ihren Kurs so bei behält.
+
+Freundliche Grüße
+Lukas Walter
 
 ## 5a
 ### Zara
