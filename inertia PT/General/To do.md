@@ -352,6 +352,8 @@
 - [x] Nummern 5a abschreiben 
 - [ ] carnivorenwasser auffüllen 
 - [ ] Physikaufgabe 8er zum Einheiten umrechnen mit litern und Gallonen raus suchen
+	- [ ] ![[../../Pasted image 20261103230812.png]]
+	- [ ] 
 - [ ] Lotus 🪷 checken 
 - [ ] gemeinsamer Nachschreibe Termin wie läuft das?
 - [x] YouTube Video zum Vakuum herunterladen 
