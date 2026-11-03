@@ -2227,7 +2227,13 @@ Sehr geehrte Frau Zoubaa,
 Ich bin der Mathe- und Physiklehrer von Salma. Ich wollte Ihnen mitteilen, dass sich Ihre Tochter seit den Sommerferien in ihrem Arbeitsverhalten, Sozialverhalten und fachlich deutlich gebessert und positiv hervorgetan hat.
 
 Ich habe sie bereits mehrfach bei ihrer Klassenlehrerin Frau Güldner gelobt.
-Salma hatte zwar einen leichten Einbruch bei ihrer Mitarbeit und Anwesenheit vor und kurz nach den Herbstferien zu verzeichnen, ich denke aber, dass dies der Situation mit dem verloren gegan
+Salma hatte zwar einen leichten Einbruch bei ihrer Mitarbeit und Anwesenheit vor und kurz nach den Herbstferien zu verzeichnen, ich denke aber, dass dies der Situation mit dem Verloren gegangenen Schlüssel von Frau Oettel zu tun hatte, welche Salmas Motivation etwas einbrechen lies.
+
+Leider war ich auch vor den Herbstferien 3 Wochen krank.
+
+In letzter Zeit bessert sich ihr Verhalten und ihre Mitarbeit wieder deutlich.
+Sie sorgt mit ihrer Gewissenhaftigkeit und ihrem sozialen Engagement in der Klasse um sie herum für eine positive Arbeitsatmosphäre.
+Zu Beginn des Schuljahres habe ich sie daher mit einer Tutorenrolle beauftragt.
 ## 5a
 ### Zara
 ### Tamilo
