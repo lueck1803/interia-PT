@@ -335,7 +335,7 @@
 - [ ] Spülmaschine ausräumen und Spülmaschinensalz checken 
 - [ ] 30° Wäsche
 	- [x] anstellen 
-	- [ ] schleudern 
+	- [x] schleudern 
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 - [x] Nudeln austragen 
