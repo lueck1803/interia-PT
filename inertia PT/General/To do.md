@@ -302,6 +302,7 @@
 
 - [ ] Duolingo
 - [ ] Nudeln kochen 
+- [ ] Paprika ernten 
 - [ ] essen
 - [ ] Matheunterricht für 5er vorbereiten 
 - [ ] Mathearbeit 5er korrigieren 
