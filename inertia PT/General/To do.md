@@ -305,6 +305,8 @@
 - [ ] emir wegen Mathe-Wettbewerb schreiben 
 - [ ] yusufs Mutter anrufen 
 - [ ] margins und bruchbild in Mathearbeit anpassen 
+- [ ] Apple TV einrichten am Mac 
+	- [ ] wie verbinde ich das?
 - [ ] Experiment zum archimedischen Prinzip planen 
 - [ ] Experiment zum Vakuum planen 
 - [ ] Video zum Vakuum und Druck 
