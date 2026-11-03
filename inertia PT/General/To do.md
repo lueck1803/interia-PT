@@ -301,6 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Duolingo
+- [ ] Nudeln kochen 
 - [ ] essen
 - [ ] Matheunterricht für 5er vorbereiten 
 - [ ] Mathearbeit 5er korrigieren 
