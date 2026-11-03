@@ -305,7 +305,7 @@
 - [ ] Aldi 
 - [ ] luftpacks in den Keller
 - [ ] Paprika ernten 
-- [ ] essen
+- [x] essen
 - [ ] essen in den Kühlschrank
 - [ ] Fachkonferenz am 9.11 eintragen 
 - [ ] Matheunterricht für 5er vorbereiten 
@@ -328,9 +328,9 @@
 - [ ] Anleitung iprojection app scheiben
 - [x] Nummern 5a abschreiben 
 - [ ] carnivorenwasser auffüllen 
+- [ ] Physikaufgabe 8er zum Einheiten umrechnen mit litern und Gallonen raus suchen
 - [ ] Lotus 🪷 checken 
 - [ ] gemeinsamer Nachschreibe Termin wie läuft das?
-- [ ] Wäsche waschen
 - [ ] YouTube Video zum Vakuum herunterladen 
 - [ ] Aufgabe mit Fass überlegen und ausrechnen 
 	- [ ] Daten zu nem Öl fass finden 
