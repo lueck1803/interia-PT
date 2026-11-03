@@ -341,7 +341,7 @@
 - [ ] 30° Wäsche
 	- [x] anstellen 
 	- [x] schleudern 
-	- [ ] aufhängen 
+	- [x] aufhängen 
 	- [ ] zusammen legen
 - [x] Nudeln austragen 
 - [ ] yusufs Mutter anrufen 
@@ -354,10 +354,10 @@
 - [ ] Physikaufgabe 8er zum Einheiten umrechnen mit litern und Gallonen raus suchen
 - [ ] Lotus 🪷 checken 
 - [ ] gemeinsamer Nachschreibe Termin wie läuft das?
-- [ ] YouTube Video zum Vakuum herunterladen 
+- [x] YouTube Video zum Vakuum herunterladen 
 - [ ] Aufgabe mit Fass überlegen und ausrechnen 
-	- [ ] Daten zu nem Öl fass finden 
-	- [ ] Video dazu
+	- [x] Daten zu nem Öl fass finden 
+	- [x] Video dazu
 	- [ ] Aufgabe im giancolli
 - [ ] Apple TV einrichten am Mac 
 	- [ ] wie verbinde ich das?
