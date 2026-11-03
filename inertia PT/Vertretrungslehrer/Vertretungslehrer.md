@@ -2162,7 +2162,15 @@ Deshalb ging die Sirene 3 mal!
 ## 5a 
 - Kühn, Marie:
 	- Email: lea_kuehn@yahoo.com
-	- Nummer: 017684964
+	- Nummer: 017684964386
+- Cosai, Yusuf:
+	- Email: kbru86@hotmail.com
+	- Nummer: 015774881650
+- Aydin, Hamza:
+	- Email: kbru86@hotmail.com
+	- Nummer: 0157 38832301
+- Souhaib:
+	- Nummer: 0171 8386051
 ## 5d alt
 - mason
 	- absolut respektlos in letzter Zeit 
