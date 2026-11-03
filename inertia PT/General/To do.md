@@ -301,6 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Duolingo
+- [ ] Die anderen Beamer auf das PW 12345678 umstellen
 - kursmappe
 	- [x] m 5a %% fold %%
 	- [x] m 8a
