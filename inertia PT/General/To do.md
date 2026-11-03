@@ -307,6 +307,8 @@
 - [ ] Video zum Vakuum und Druck 
 - [ ] im Physik Buch lesen
 - [ ] Wohnung aufräumen 
+- [ ] Seerosen rein
+- [ ] tabs aufräumen -> Bookmarks
 - [ ] gelber Sack kleben 
 - [ ] Bettwäsche wechseln 
 - [ ] Stundenplan eingetragen 
