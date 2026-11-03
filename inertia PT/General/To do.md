@@ -343,7 +343,7 @@
 - [x] E-Mail an Salmas Mutter schicken
 - [x] E-mails der schul-id checken
 - [x] margins und bruchbild in Mathearbeit anpassen 
-- [ ] Anleitung iprojection app scheiben
+- [x] Anleitung iprojection app scheiben
 - [x] Nummern 5a abschreiben 
 - [ ] carnivorenwasser auffüllen 
 - [ ] Physikaufgabe 8er zum Einheiten umrechnen mit litern und Gallonen raus suchen
