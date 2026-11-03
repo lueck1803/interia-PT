@@ -364,7 +364,7 @@
 	- [ ] Fernbedienung laden 
 - [ ] Experiment zum archimedischen Prinzip planen 
 - [ ] Experiment zum Vakuum planen 
-- [ ] Video zum Vakuum und Druck 
+- [x] Video zum Vakuum und Druck 
 - [ ] im Physik Buch lesen
 - [ ] Wohnung aufräumen 
 - [ ] Seerosen rein
