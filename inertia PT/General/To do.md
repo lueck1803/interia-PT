@@ -26,7 +26,7 @@
 	- eine Ausrede löst weder meine Probleme noch löst sie mein emotionales Joch in Luft auf 
 	- sie wirft lediglich ein schmutziges Tuch über meine eiternden Wunden 
 	- schwatze so lange du willst, jammere so lange du willst 
-	- an der Absolutät meiner Verantwortung ändert sich nichts, niemand wird mich retten, nur ich kann mich retten
+	- an der Absolutät meiner Verantwortung ändert sich nichts, niemand wird mich retten, nur ich kann mich retten %% fold %%
 	- Fatalismus beschreibt sämtliche Phänomene, aber diktiert keine konkreten Handlungen, alle Gegebenheiten sind auf inhaltlicher ebene mit dem Fatalismus vereinbar und nicht vereinbar, Fatalismus ist keine gültige Ausflucht
 	- es ist irrelevant was wer was wann getan hat oder was weshalb aus wessen Initiative heraus geschehen ist
 	- ⤷das einzige was zählt ist: wer tut heute jenes oder solches %% fold %%
