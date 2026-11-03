@@ -301,7 +301,7 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [ ] Duolingo
-- [ ] Nudeln kochen 
+- [x] Nudeln kochen 
 - [ ] luftpacks in den Keller
 - [ ] Paprika ernten 
 - [ ] essen
