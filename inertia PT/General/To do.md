@@ -302,10 +302,13 @@
 
 - [ ] Duolingo
 - [ ] origniale Arbeitsunfähgikeitsbescheinigungen beim Sekretariat abgeben
-	- 15.09. - 18.09.26 (4 Tage) Scan vorliegend
-	- 19.09. - 21.09.26 (3 Tage) Kein Scan
-	- 22.09. - 25.09.2026 (4 Tage) Scan vorliegend
-	- 26.09. - 08.10.2026 (13 Tage) Scan vorliegend
+	- [ ] Scan vorliegend
+		- 15.09. - 18.09.26 (4 Tage) Scan vorliegend
+		- 19.09. - 21.09.26 (3 Tage) Kein Scan
+		- 22.09. - 25.09.2026 (4 Tage) Scan vorliegend
+		- 26.09. - 08.10.2026 (13 Tage) Scan vorliegend
+	- [x] Email an Hausarzt 3.11.
+	- [ ] originale AU vom Krankenhaus im Sekretariat abgeben
 - [x] Nudeln kochen 
 - [ ] Aldi 
 - [ ] luftpacks in den Keller
@@ -329,8 +332,8 @@
 - [ ] Unterrichtseintrag:
 	- [ ] 8b
 - [ ] yusufs Mutter anrufen 
-- [ ] E-Mail an Salmas Mutter schicken
-- [ ] E-mails der schul-id checken
+- [x] E-Mail an Salmas Mutter schicken
+- [x] E-mails der schul-id checken
 - [x] margins und bruchbild in Mathearbeit anpassen 
 - [ ] Anleitung iprojection app scheiben
 - [x] Nummern 5a abschreiben 
