@@ -309,6 +309,7 @@
 - [ ] Wohnung aufräumen 
 - [ ] Seerosen rein
 - [ ] tabs aufräumen -> Bookmarks
+- [ ] Beamer ausprobieren 
 - [ ] gelber Sack kleben 
 - [ ] Bettwäsche wechseln 
 - [ ] Stundenplan eingetragen 
