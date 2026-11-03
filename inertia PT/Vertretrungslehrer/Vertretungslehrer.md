@@ -520,7 +520,7 @@ $$
 \mathbb{Q}=\left\{ \frac{p}{q}:p,q\in\mathbb{Z} \text{ und } q\ne 0 \right\} 
 $$
 Beispiele:
-$-\frac{1}{145}$; $\frac{\sqrt{ 2 }}{\sqrt{ 8 }}=\frac{1}{2}$; $\pu{ 0.3007 }=\frac{3007}{1000}$; $0.\overline{3}=\frac{1}{3}$ 
+ $-\frac{1}{145}$; $\frac{\sqrt{ 2 }}{\sqrt{ 8 }}=\frac{1}{2}$; $\pu{ 0.3007 }=\frac{3007}{1000}$; $0.\overline{3}=\frac{1}{3}$
 
 $\mathbb{Q}$ kommt vom Wort ***Quotient***
 Daher auch ***rationale Zahlen*** das hat nichts mit Vernunft zu tun, sondern im ***Sinne eines Verhältnis zweier Zahlen***. Diese Art der Wort Verwendung entstammt Nachgeordnet von der Bezeichnung der **irrationalen Zahlen**, welche nicht mit einem Verhältnis aus zwei Zahlen dargestellt werden können.
@@ -2473,6 +2473,10 @@ Deshalb ging die Sirene 3 mal!
 	- generelles aufmüpfiges Verhalten, wird Laut und gibt Widerworte wenn ich ihn ermahne
 	- Chips auf dem Boden, hat sie nach mehreren Aufforderungen aber aufgekehrt
 # Anrufliste 
+## 5a 
+- Kühn, Marie:
+- 
+## 5d alt
 - mason
 	- absolut respektlos in letzter Zeit 
 	- hat mich in Mathe jetzt mehrfach mit Papier abgeworfen und hebt es nicht mal auf
