@@ -301,11 +301,40 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [x] Duolingo
-- [ ] Zähne putzen 
+- [ ] amela wegen Klausur Aufgabe 8 schreiben 
+- [ ] emir wegen Mathe-Wettbewerb schreiben 
+- [ ] yusufs Mutter anrufen 
+- [ ] margins und bruchbild in Mathearbeit anpassen 
+- [ ] Anleitung iprojection app scheiben
+- [ ] Nummern 5a abschreiben 
+- [ ] carnivorenwasser auffüllen 
+- [ ] YouTube Video zum Vakuum herunterladen 
+- [ ] Aufgabe mit Fass überlegen und ausrechnen 
+	- [ ] Daten zu nem Öl fass finden 
+	- [ ] Video dazu
+	- [ ] Aufgabe im giancolli
+- [ ] Apple TV einrichten am Mac 
+	- [ ] wie verbinde ich das?
+	- [ ] Fernbedienung laden 
+- [ ] Experiment zum archimedischen Prinzip planen 
+- [ ] Experiment zum Vakuum planen 
+- [ ] Video zum Vakuum und Druck 
+- [ ] im Physik Buch lesen
+- [ ] Wohnung aufräumen 
+- [ ] Seerosen rein
+- [ ] tabs aufräumen -> Bookmarks
+- [ ] Beamer ausprobieren 
+- [ ] gelber Sack kleben 
+- [ ] Bettwäsche wechseln 
+- [ ] Stundenplan eingetragen 
+- [x] Rucksack trocknen
+- [x] Restmüll weg
+- [x] gelber Sack 
+- [x] Rasieren 
 - [ ] Halloween 👻 socken reparieren 
 - [ ] Schulportal Eintrag 
 - [ ] swamphell solo
-- [ ] Notenspiegel auf die Klausur 
+- [x] Notenspiegel auf die Klausur 
 - [ ] Klausur korrigieren 
 - [ ] Toilette putzen 
 - [ ] wischen 
