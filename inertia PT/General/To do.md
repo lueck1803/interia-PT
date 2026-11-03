@@ -316,6 +316,7 @@
 - [x] essen
 - [ ] essen in den Kühlschrank
 - [ ] Fachkonferenz Mathematik am 9.11 eintragen 
+	- [ ] Ort und Uhrzeit ist noch nicht fest
 - [ ] Fachkonferenz Physik am 10.11 14 Uhr Bioraum für den NaWi-Teil, anschließend Raum PH2
 - [ ] Matheunterricht für 5er vorbereiten 
 	- [ ] Nochmal die Grundrechenarten üben
