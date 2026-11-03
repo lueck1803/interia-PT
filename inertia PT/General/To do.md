@@ -304,6 +304,8 @@
 - [x] amela wegen Klausur Aufgabe 8 schreiben 
 - [x] emir wegen Mathe-Wettbewerb schreiben 
 - [ ] yusufs Mutter anrufen 
+- [ ] E-Mail an Salmas Mutter schicken
+- [ ] E-mails der schul-id checken
 - [x] margins und bruchbild in Mathearbeit anpassen 
 - [ ] Anleitung iprojection app scheiben
 - [ ] Nummern 5a abschreiben 
