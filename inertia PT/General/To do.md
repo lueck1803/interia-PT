@@ -306,6 +306,7 @@
 - [ ] luftpacks in den Keller
 - [ ] Paprika ernten 
 - [ ] essen
+- [ ] essen in den Kühlschrank
 - [ ] Matheunterricht für 5er vorbereiten 
 - [ ] Mathearbeit 5er korrigieren 
 - [ ] Sportsachen packen 
