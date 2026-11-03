@@ -305,8 +305,14 @@
 - [ ] emir wegen Mathe-Wettbewerb schreiben 
 - [ ] yusufs Mutter anrufen 
 - [ ] margins und bruchbild in Mathearbeit anpassen 
+- [ ] YouTube Video zum Vakuum herunterladen 
+- [ ] Aufgabe mit Fass überlegen und ausrechnen 
+	- [ ] Daten zu nem Öl fass finden 
+	- [ ] Video dazu
+	- [ ] Aufgabe im giancolli
 - [ ] Apple TV einrichten am Mac 
 	- [ ] wie verbinde ich das?
+	- [ ] Fernbedienung laden 
 - [ ] Experiment zum archimedischen Prinzip planen 
 - [ ] Experiment zum Vakuum planen 
 - [ ] Video zum Vakuum und Druck 
