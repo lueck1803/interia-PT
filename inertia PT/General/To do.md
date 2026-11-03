@@ -308,7 +308,7 @@
 - [ ] Mathearbeit 5er korrigieren 
 - [ ] Sportsachen packen 
 - [ ] swamphell solo
-- [ ] Spülmaschine einräumen 
+- [ ] Spülmaschine ausräumen und Spülmaschinensalz checken 
 - [ ] Nudeln austragen 
 - [ ] Unterrichtseintrag:
 	- [ ] 8b
