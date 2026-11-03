@@ -301,8 +301,8 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 - [x] Duolingo
-- [ ] amela wegen Klausur Aufgabe 8 schreiben 
-- [ ] emir wegen Mathe-Wettbewerb schreiben 
+- [x] amela wegen Klausur Aufgabe 8 schreiben 
+- [x] emir wegen Mathe-Wettbewerb schreiben 
 - [ ] yusufs Mutter anrufen 
 - [x] margins und bruchbild in Mathearbeit anpassen 
 - [ ] Anleitung iprojection app scheiben
