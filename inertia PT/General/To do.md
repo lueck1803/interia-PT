@@ -300,7 +300,9 @@
 - <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
-- [x] Duolingo
+- [ ] Duolingo
+- [ ] essen
+- [ ] Matheunterricht für 5
 - [x] amela wegen Klausur Aufgabe 8 schreiben 
 - [x] emir wegen Mathe-Wettbewerb schreiben 
 - [ ] yusufs Mutter anrufen 
