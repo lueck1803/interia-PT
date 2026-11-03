@@ -310,7 +310,7 @@
 - [ ] Sportsachen packen 
 - [ ] swamphell solo
 - [ ] Spülmaschine ausräumen und Spülmaschinensalz checken 
-- [ ] Nudeln austragen 
+- [x] Nudeln austragen 
 - [ ] Unterrichtseintrag:
 	- [ ] 8b
 - [ ] yusufs Mutter anrufen 
