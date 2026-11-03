@@ -17,7 +17,9 @@
 # Aldi
 ## Jetzt
 - Einkaufswagen 
-- [ ] Toast 
+- [ ] Käse 
+- [ ] Hummus
+- [x] Toast 
 - [x] 405er mehl
 - [x] Zucker 
 - [x] Nussnougat 
@@ -38,7 +40,6 @@
 - [x] ~~Auberginen~
 - [x] Pilze 
 - [x] Schmelzkäse Scheiben
-- [x] hummus
 - [x] Hartkäse
 - [x] gauda mittelalt
 - [x] toast

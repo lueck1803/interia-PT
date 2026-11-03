@@ -302,6 +302,7 @@
 
 - [ ] Duolingo
 - [x] Nudeln kochen 
+- [ ] Aldi 
 - [ ] luftpacks in den Keller
 - [ ] Paprika ernten 
 - [ ] essen
