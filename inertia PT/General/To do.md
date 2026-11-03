@@ -308,7 +308,7 @@
 - [ ] E-mails der schul-id checken
 - [x] margins und bruchbild in Mathearbeit anpassen 
 - [ ] Anleitung iprojection app scheiben
-- [ ] Nummern 5a abschreiben 
+- [x] Nummern 5a abschreiben 
 - [ ] carnivorenwasser auffüllen 
 - [ ] Lotus 🪷 checken 
 - [ ] gemeinsamer Nachschreibe Termin wie läuft das?
