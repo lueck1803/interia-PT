@@ -338,11 +338,11 @@
 - [ ] Seerosen rein
 - [ ] tabs aufräumen -> Bookmarks
 - [x] Beamer ausprobieren 
-- [ ] gelber Sack kleben 
+- [ ] gelber Sack mülleimer kleben 
+	- [ ] innen und außen
 - [ ] Bettwäsche wechseln 
 - [ ] Stundenplan eingetragen 
 - [ ] Halloween 👻 socken reparieren 
-- [ ] Schulportal Eintrag 
 - [ ] Klausur korrigieren 
 - [ ] Toilette putzen 
 - [ ] wischen 
@@ -416,7 +416,7 @@
 - [ ] Haselnüsse einpflanzen 
 - [ ] tisch wischen
 - [ ] Essen kochen
-- [ ] daria additions/subtraktions Aufgaben mit negativen Zahlen bzw. Verschiebungen über die 0
+- [ ] daria additions/subtraktions Aufgaben mit negativen Zahlen bzw. Verschiebungen über die 0 %% fold %%
 	- [ ] die Erklärung von gestern nochmal aufschreiben %% fold %%
 	- [ ] mit Zahlenstrahl  %% fold %%
 - [x] Fruchtfliegen falle %% fold %%
