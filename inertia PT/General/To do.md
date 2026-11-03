@@ -311,6 +311,11 @@
 - [ ] Sportsachen packen 
 - [ ] swamphell solo
 - [ ] Spülmaschine ausräumen und Spülmaschinensalz checken 
+- [ ] 30° Wäsche
+	- [x] anstellen 
+	- [ ] schleudern 
+	- [ ] aufhängen 
+	- [ ] zusammen legen
 - [x] Nudeln austragen 
 - [ ] Unterrichtseintrag:
 	- [ ] 8b
@@ -491,17 +496,12 @@
 - kursmappe
 	- [x] m 5a %% fold %%
 	- [x] m 8a
-	- [x] m 8b
+	- [ ] m 8b
 	- [x] p 8a
 	- [x] p 8b
 	- [x] p 8c %% fold %%
 	- [x] p 10b %% fold %%
-	- [x] p 10a
-- [x] Wäsche  %% fold %%
-	- [x] anstellen 
-	- [x] schleudern 
-	- [x] aufhängen 
-	- [x] zusammen legen
+	- [ ] p 10a
 - [ ] sofa Reinigungstutorial 
 - [ ] warum wurde meine freiwillige Mitgliedschaft zum 29.6 beendet aok
 - [ ] Tomaten Samen weg sortieren 
@@ -583,8 +583,8 @@
 - [ ] asteracea Samen lesen 
 - [ ] Herbstzeitlose lesen  %% fold %%
 - [ ] Balkon kehren 
-- [ ] Medikamenten Packungen Front aufschneiden+einheften 
-- [ ] Krafttraining 
+- [ ] Medikamenten Packungen Front aufschneiden+einheften  %% fold %%
+- [ ] Krafttraining  %% fold %%
 - [ ] türkisch aufschreiben 
 - [ ] soße mit fisch, brokkoli und oliven kochen
 - [ ] aldi nachrechnen  %% fold %%
