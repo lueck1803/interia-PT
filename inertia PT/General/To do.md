@@ -308,6 +308,8 @@
 - [ ] Mathearbeit 5er korrigieren 
 - [ ] Sportsachen packen 
 - [ ] swamphell solo
+- [ ] Spülmaschine einräumen 
+- [ ] nudel
 - [ ] Unterrichtseintrag:
 	- [ ] 8b
 - [ ] yusufs Mutter anrufen 
