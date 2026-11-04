@@ -311,7 +311,7 @@
 - [ ] carnivoren checken
 - [ ] Maronen einpflanzen 
 - [ ] Einkauf weg und eintragen 
-- [ ] Einkaufswagen zurück 
+- [x] Einkaufswagen zurück 
 - [ ] duschen 
 - [ ] Rosenkohl zubereiten 
 - [ ] Wäsche checken
