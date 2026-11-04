@@ -2177,7 +2177,7 @@ Deshalb ging die Sirene 3 mal!
 	- Nummer: 017684964386
 - Metin, Ilayda Minel
 	- Email: bjk1903274@gmail.com
-	- Nummer: 0152 014 983 73
+	- Nummer: 0152 014 993 73
 - Souhaib:
 	- Nummer: 0171 8386051
 ## 5d (Hj2 2026)
@@ -2257,7 +2257,8 @@ Lukas Walter
 ### ✅Alexia 
 - in Grundschule Hilfe in Mathe - 1h Förderunterricht
 - Alexia umsetzen
-### Ilayda
+### ✅Ilayda
+- auch bei Übungen zu Hause mit dem Vater, lenkt sie hab und ver
 ### ✅Yusuf Çoşar
 - mehr Hausaufgaben und Kontrolle
 - mehr auf Selbstwirksamkeit achten
