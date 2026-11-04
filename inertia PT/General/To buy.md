@@ -18,9 +18,11 @@
 ## Jetzt
 - Einkaufswagen 
 - [ ] Käse 
+- [ ] Frischkäse Kräuter 
+- [ ] Sonnenblumenkerne 
 - [ ] Hummus
-- [ ] bananen
-- [ ] spaghetti Kürbis?
+- [x] bananen
+- [x] spaghetti Kürbis?
 - [x] Toast 
 - [x] 405er mehl
 - [x] Zucker 
