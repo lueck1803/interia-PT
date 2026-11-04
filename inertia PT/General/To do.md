@@ -313,6 +313,7 @@
 - [ ] AOK erledigen 
 - [ ] Essen 
 - [ ] carnivoren checken
+- [ ] auberginen waschen ⟹kühlschrank
 - [ ] Maronen einpflanzen 
 - [ ] Einkauf weg und eintragen 
 	- [ ] 2 Hacktomaten 
