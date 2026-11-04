@@ -2255,12 +2255,18 @@ Lukas Walter
 - in Grundschule Hilfe in Mathe - 1h Förderunterricht
 - Alexia umsetzen
 ### Ilayda
-### ✅Yusuf
+### ✅Yusuf Çoşar
 - mehr Hausaufgaben und Kontrolle
 - mehr auf Selbstwirksamkeit achten
 - disziplinierter und strenger sein
 - ihn mehr sehen und sich gesehen lassen.
 - vorne sitzen und gesehen werden.
+- es mangelt ihm am selbstvertrauen, selbstwirksamkeit, und gesehen werden. er gibt schnell auf, wenn er nicht dran genommen wird oder bei ner Frage nicht direkt gesehen wird
+- ihn dazu ermutigen auf mich zu zu gehen
+- auf Heft und Ordnerordnung achten
+	- fängt am anfang des hefts an, schreibt dann in der mitte und dann am ende
+	- er ist es wert ordnung zu halten, zeit und energie aufzubringen um auf die ordnung zu achten
+- er ist es auch wert, dass ihm geholfen wird und auf seine Fragen eingegangen wird. er darf gerne auf die lehrer zu gehen
 ### Tamilo
 ### Hamzi
 ### Elias
