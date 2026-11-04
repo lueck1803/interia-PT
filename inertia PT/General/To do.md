@@ -340,6 +340,10 @@
 - [x] Aldi 
 - [ ] nach jamils Anleitung schauen bzgl byod
 - [ ] Punkteverteilung/Skala nachschauen 
+- [ ] Die anderen Beamer auf das PW 12345678 umstellen
+- [ ] Leute 10b einladen in schul.cloud gruppe
+- [ ] schulportal ->medienzentrum -> wie logge ich mich in vom medienzentrum verwaltete Wlans ein 
+	- [ ] byod - interimsgebäude
 - [ ] public key problem laptop lösen 
 - [ ] 5a Eltern anrufen 
 - [ ] eigene Kopie Klassenarbeit 5a
@@ -355,7 +359,6 @@
 - [ ] 10b in die Gruppe schreiben 
 	- [ ] von heute abtippen 
 	- [ ] auch der 10a schicken. Sie sollen sich das mal anschauen 
-- [x] Die anderen Beamer auf das PW 12345678 umstellen (gibt wohl nur im Raum 10a)
 - kursmappe
 	- [ ] m 5a %% fold %%
 	- [x] m 8a
@@ -520,8 +523,8 @@
 		- [ ] Subtraktion und Addition mit 3 Summanden/2Subtrahenden
 		- [ ] Multiplikation und Division mehrstellig
 - [ ] Klausur 8ter %% fold %%
-	- [ ] probeklausur durchrechnen mit Zeit
-	- [ ] für Klausur Bruchrechnung vereinfachen dafür mehr terme zusammenfassen 
+	- [ ] probeklausur durchrechnen mit Zeit %% fold %%
+	- [ ] für Klausur Bruchrechnung vereinfachen dafür mehr terme zusammenfassen  %% fold %%
 		- [ ] ne, aber die letzte Aufgabe in zwei nach x auflösen Aufgaben umwandeln
 	- [ ] Klausur Bepunktung überlegen
 	- [ ] Erklärung: Was ist eine Variable, was ist ein Term, was ist der Wert eines Terms 
