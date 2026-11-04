@@ -2165,10 +2165,10 @@ Deshalb ging die Sirene 3 mal!
 ## 5a 
 - Aydin, Hamza:
 	- Email: kbru86@hotmail.com
-	- Nummer: 0157 38832301
+	- Nummer: 0157 388 323 01
 - Cosai, Yusuf:
 	- Email: kbru86@hotmail.com
-	- Nummer (Mutter): 01577 488 165 0
+	- Nummer (Mutter): 0157 748 816 50
 - Donisan, Alexia-Carina:
 	- Email: donisanandreea5@gmail.com
 	- Nummer: 0176 303 603 16
@@ -2226,7 +2226,7 @@ Das ist eine Pausenaufsicht zwischen der 4/5 Stunde auf dem Hofbereich 3.
 
 # Archiv
 
-# Elterngespräche %% fold %%
+# Elterngespräche
 ## 8b %% fold %%
 ### Salma Zoubaa %% fold %%
 #### 2026-11-03 E-mail  %% fold %%
@@ -2266,6 +2266,7 @@ Lukas Walter
 - versucht sich stur zustellen
 - umsetzen definitiv
 - darf ruhig etwas härter sein
+- drei Geschwister und Ilayda ist die Älteste
 ### ✅Yusuf Çoşar
 - mehr Hausaufgaben und Kontrolle
 - mehr auf Selbstwirksamkeit achten
