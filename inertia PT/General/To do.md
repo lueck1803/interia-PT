@@ -313,6 +313,8 @@
 	- [x] Salamas mutter geantwortet
 - [ ] Äpfel waschen 
 - [ ] gießen 
+- [ ] Gitarre putzen
+- [ ] Tastatur wischen
 - [ ] sofa saugen 
 - [ ] decke wieder aufs sofa
 - [ ] AOK erledigen 
