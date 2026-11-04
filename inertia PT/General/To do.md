@@ -347,6 +347,7 @@
 - [ ] Spaghetti Kürbis Rezept machen 
 - [ ] in prisma Physik 1 schauen 
 - [ ] <font color="#7fffd4">amela</font> darf bleiben, aber muss Liste extra führen für ihre Noten 
+	- [ ] Excel-Tabelle für sie anlegen 
 - [ ] Physik 8er bas curriculum schauen, wohl elehre
 	- [ ] ja wechsel auf elehre unbedingt 
 	- [ ] Blick ins Buch und arbeiten mit dem Buch.
