@@ -315,6 +315,8 @@
 - [ ] Sportsachen wegräumen 
 - [ ] Loch in grauem T-Shirt flicken 
 - [ ] Unbedingt die 8b Bewertungsdinger machen 
+	- [ ] Donnerstag Frau Antes bringen 
+	- [ ] Frau Antes schreiben 
 - [ ] duschen 
 - [ ] Rosenkohl zubereiten 
 - [ ] Wäsche checken
