@@ -314,6 +314,7 @@
 - [ ] Äpfel waschen 
 - [ ] gießen 
 - [ ] sofa saugen 
+- [ ] decke wieder aufs sofa
 - [ ] AOK erledigen 
 	- [ ] Brief checken
 	- [ ] Wegen freiwilliger mitgliedschaft
