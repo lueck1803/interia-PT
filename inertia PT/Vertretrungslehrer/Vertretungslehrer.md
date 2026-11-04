@@ -2163,18 +2163,21 @@ Deshalb ging die Sirene 3 mal!
 - Zoubaa, Salma: Mutter Frau Hanan Mira
 	- Email: hananmira1986@gmail.com
 ## 5a 
-- Kühn, Marie:
-	- Email: lea_kuehn@yahoo.com
-	- Nummer: 017684964386
-- Cosai, Yusuf:
-	- Email: kbru86@hotmail.com
-	- Nummer: 01577 488 165 0
 - Aydin, Hamza:
 	- Email: kbru86@hotmail.com
 	- Nummer: 0157 38832301
+- Cosai, Yusuf:
+	- Email: kbru86@hotmail.com
+	- Nummer: 01577 488 165 0
 - Donisan, Alexia-Carina:
 	- Email: donisanandreea5@gmail.com
 	- Nummer: 017630360316
+- Kühn, Marie:
+	- Email: lea_kuehn@yahoo.com
+	- Nummer: 017684964386
+- Metin, Ilayda Minel
+	- Email: bjk1903274@gmail.com
+	- Nummer: 0152 014 983 73
 - Souhaib:
 	- Nummer: 0171 8386051
 ## 5d (Hj2 2026)
@@ -2227,7 +2230,7 @@ Das ist eine Pausenaufsicht zwischen der 4/5 Stunde auf dem Hofbereich 3.
 ## 8b %% fold %%
 ### Salma Zoubaa %% fold %%
 #### 2026-11-03 E-mail  %% fold %%
-Sehr geehrte Frau Hanan Mira,
+Sehr geehrte Frau Hanan Mira, %% fold %%
 
 Ich bin der Mathe- und Physiklehrer von Salma. Ich wollte Ihnen mitteilen, dass sich Ihre Tochter seit den Sommerferien in ihrem Arbeitsverhalten, Sozialverhalten und fachlich deutlich gebessert und positiv hervorgetan hat.
 
