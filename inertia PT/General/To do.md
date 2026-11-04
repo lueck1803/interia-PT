@@ -314,7 +314,7 @@
 - [ ] Mathehefter sortieren 
 - [ ] Spaghetti Kürbis Rezept machen 
 - [ ] in prisma Physik 1 schauen 
-- [ ] amela darf bleiben, aber muss Liste extra führen für ihre Noten 
+- [ ] <font color="#7fffd4">amela</font> darf bleiben, aber muss Liste extra führen für ihre Noten 
 - [ ] Physik 8er bas curriculum schauen, wohl elehre
 	- [ ] ja wechsel auf elehre unbedingt 
 	- [ ] Blick ins Buch und arbeiten mit dem Buch.
