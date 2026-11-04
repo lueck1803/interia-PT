@@ -315,6 +315,9 @@
 - [ ] carnivoren checken
 - [ ] Maronen einpflanzen 
 - [ ] Einkauf weg und eintragen 
+	- [ ] 2 Hacktomaten 
+	- [ ] 3 fussili
+	- [ ] 2 tortiglioni
 - [x] Einkaufswagen zurück 
 - [ ] Sportsachen wegräumen 
 - [ ] Loch in grauem T-Shirt flicken 
