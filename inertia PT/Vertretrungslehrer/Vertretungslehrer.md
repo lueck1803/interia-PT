@@ -2256,7 +2256,8 @@ Lukas Walter
 - in Grundschule Hilfe in Mathe - 1h Förderunterricht
 - Alexia umsetzen
 ### Ilayda
-### Yusuf
+### ✅Yusuf
+- mehr Hausaufgaben und Kontrolle
 ### Tamilo
 ### Hamzi
 ### Elias
