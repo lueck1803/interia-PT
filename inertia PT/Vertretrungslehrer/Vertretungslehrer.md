@@ -2271,6 +2271,34 @@ Lukas Walter
 
 # Abschluss 10
 
+## Karteikartennutzung Tipps
+Da Maya mich gefragt hat, ob ihr Karteikarten bei der Präsentation verwenden **dürft**.  
+Ich würde sagen ihr **müsst.**  
+Das ist eine große Empfehlung.  
+schreibt mit **Bleistift** oder einem **radierbaren Tintenroller**. -> dann könnt ihr immer wieder nach korrigeren und an eurem Text feilen  
+-> Am Ende sollten da auch nur **Stichwörter** und ein **roter Faden** oder ein **Verlaufsdiagramm** stehen  
+-> Vielleicht noch auf welches Bild oder welchen Gegenstand ihr verweisen wollt  
+-> Die Karteikarten sollen dafür dasein, damit ihr auf die Zeit achtet und damit ihr schnell wieder zurück findet falls ihr vergesst wie es weiter geht.  
+_**Tipp:**_ Schreibt euch zu jedem Teil den ihr sagen wollt dazu wie lange ihr dafür gebraucht habt.  
+Beispiel: Auf meiner Karte steht:  
+Klimaerwärmung - Erhöhung mittlere Temperatur - Alpen - Gletscherschmelze - Permafrost - Felstürze - Tourismus/Leben -- 1:30 min  
+Und sagen möchte ich: "Aufgrund der Klimaerwärmung, und der Erhöhung der mittleren Temperatur findet in den Alpen verstärkte Gletscherschmelze statt. Ebenso taut der Permafrost auf. Dies führt zu vermehrten Felsstürzen, was den Tourismus und das Leben in den Alpenregionen erschwert"  
+Ergänzen und den Text verkürzen könnte man das jetzt noch mit Symbolen:  
+Klimaerwärmung - ↗️ mittlere Temperatur - Alpen - ↗️Gletscherschmelze - ↘️Permafrost - ↗️Felstürze - ↘️Tourismus/Leben  
+  
+Sprecht euch das vor und stoppt dabei die Zeit.  
+
+---  
+Das war jetzt ein random Beispiel, was ich mir ausgedacht habe.  
+Durch die Zeitangabe wisst ihr auch, wie viel Zeit ihr _verbraucht_ habt und könnt abschätzen wie viel Zeit noch übrig ist.  
+Ihr habt ja nur 10 min.  
+So seht ihr dann auch direkt, an welchen Stellen ihr eventuell kürzen müsst.  
+
+---  
+Wenn das auf euren Karten steht, dient es auch als Zeitkontrolle während der Präsentation.  
+Eventuell müsst ihr euch dann beeilen oder könnt Tempo rausnehmen.  
+Oder zur Not müsst ihr Teile weglassen.
+
 ## Infos
 Hi, ich habe heute mit Frau Einicke gesprochen und sie hat mir genau das gesagt, was ich dir auch schon empfohlen hatte. 
 

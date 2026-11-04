@@ -361,7 +361,7 @@
 - [ ] Physik 8er bas curriculum schauen, wohl elehre
 	- [ ] ja wechsel auf elehre unbedingt 
 	- [ ] Blick ins Buch und arbeiten mit dem Buch.
-- [ ] maya antworten 
+- [x] maya antworten 
 - [ ] 10b in die Gruppe schreiben 
 	- [ ] von heute abtippen 
 	- [ ] auch der 10a schicken. Sie sollen sich das mal anschauen 
