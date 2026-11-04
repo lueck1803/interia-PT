@@ -315,11 +315,11 @@
 - [ ] carnivoren checken
 - [ ] auberginen waschen ⟹kühlschrank
 - [ ] Maronen einpflanzen 
-- [ ] Einkauf weg und eintragen 
-	- [ ] 2 Hacktomaten 
-	- [ ] 3 fussili
-	- [ ] 2 tortiglioni
-	- [ ] 1 Tomatenmark 
+- [x] Einkauf weg und eintragen  %% fold %%
+	- [x] 2 Hacktomaten 
+	- [x] 3 fussili
+	- [x] 2 tortiglioni
+	- [x] 1 Tomatenmark 
 - [x] Einkaufswagen zurück 
 - [ ] Sportsachen wegräumen 
 - [ ] Loch in grauem T-Shirt flicken 
@@ -329,7 +329,7 @@
 - [ ] duschen 
 - [ ] Rosenkohl zubereiten 
 - [ ] Wäsche checken
-	- [ ] decke waschen 
+	- [x] decke waschen 
 - [ ] konto checken 
 - [ ] to do aufräumen 
 - [ ] 30° Wäsche
