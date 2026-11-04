@@ -2258,8 +2258,9 @@ Lukas Walter
 ### Ilayda
 ### ✅Yusuf
 - mehr Hausaufgaben und Kontrolle
-- mehr auf selbstwirksamkeit achten
-- disziplinierter und strenger
+- mehr auf Selbstwirksamkeit achten
+- disziplinierter und strenger sein
+- ihn mehr sehen und sich gesehen lassen.
 - 
 ### Tamilo
 ### Hamzi
