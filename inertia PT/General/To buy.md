@@ -19,6 +19,8 @@
 - Einkaufswagen 
 - [ ] Käse 
 - [ ] Hummus
+- [ ] bananen
+- [ ] spaghetti Kürbis?
 - [x] Toast 
 - [x] 405er mehl
 - [x] Zucker 

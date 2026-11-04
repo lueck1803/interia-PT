@@ -308,6 +308,10 @@
 	- Leergewicht: 16 kg (Stahlfass)
 - [ ] Duolingo
 - [ ] AOK erledigen 
+- [ ] carnivoren checken
+- [ ] Wäsche checken
+- [ ] konto checken 
+- [ ] to do aufräumen 
 - [ ] Aldi 
 - [ ] nach jamils Anleitung schauen bzgl byod
 - [ ] Punkteverteilung/Skala nachschauen 
@@ -325,7 +329,7 @@
 - [ ] 10b in die Gruppe schreiben 
 	- [ ] von heute abtippen 
 	- [ ] auch der 10a schicken. Sie sollen sich das mal anschauen 
-- [ ] Die anderen Beamer auf das PW 12345678 umstellen (gibt wohl nur im Raum 10a)
+- [x] Die anderen Beamer auf das PW 12345678 umstellen (gibt wohl nur im Raum 10a)
 - kursmappe
 	- [ ] m 5a %% fold %%
 	- [x] m 8a
@@ -336,15 +340,17 @@
 	- [ ] p 10b %% fold %%
 	- [x] p 10a
 - [ ] origniale Arbeitsunfähgikeitsbescheinigungen beim Sekretariat abgeben
-	- [ ] Scan vorliegend
+	- [x] Scan vorliegend
 		- 15.09. - 18.09.26 (4 Tage) Scan vorliegend
 		- 19.09. - 21.09.26 (3 Tage) Kein Scan
 		- 22.09. - 25.09.2026 (4 Tage) Scan vorliegend
 		- 26.09. - 08.10.2026 (13 Tage) Scan vorliegend
 	- [x] Email an Hausarzt 3.11.
-	- [ ] originale AU vom Krankenhaus im Sekretariat abgeben
+	- [x] originale AU vom Krankenhaus im Sekretariat abgeben
+	- [x] Nachfrage an Haus Arzt 
+		- [ ] Mail abwarten 
 - [ ] Aldi 
-- [ ] luftpacks in den Keller
+- [x] luftpacks in den Keller
 - [ ] Paprika ernten 
 - [ ] essen in den Kühlschrank
 - [ ] hydraulische presse bauen 
