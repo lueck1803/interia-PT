@@ -309,6 +309,7 @@
 - [ ] Duolingo
 - [ ] AOK erledigen 
 - [ ] carnivoren checken
+- [ ] Maronen einpflanzen 
 - [ ] Wäsche checken
 	- [ ] decke waschen 
 - [ ] konto checken 
