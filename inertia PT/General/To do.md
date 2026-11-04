@@ -318,6 +318,7 @@
 	- [ ] 2 Hacktomaten 
 	- [ ] 3 fussili
 	- [ ] 2 tortiglioni
+	- [ ] 1 Tomatenmark 
 - [x] Einkaufswagen zurück 
 - [ ] Sportsachen wegräumen 
 - [ ] Loch in grauem T-Shirt flicken 
