@@ -2253,7 +2253,8 @@ Lukas Walter
 
 ## 5a
 ### ✅Alexia 
-- Hilfe 
+- in Grundschule Hilfe in Mathe - 1h Förderunterricht
+- Alexia umsetzen
 ### Ilayda
 ### Yusuf
 ### Tamilo

@@ -331,7 +331,7 @@
 - [ ] Loch in grauem T-Shirt flicken 
 - [ ] Unbedingt die 8b Bewertungsdinger machen 
 	- [ ] Donnerstag Frau Antes bringen 
-	- [x] Frau Antes schreiben 
+	- [ ] Frau Antes schreiben - über schul.cloud
 - [ ] duschen 
 - [ ] Rosenkohl zubereiten 
 - [ ] Wäsche checken
