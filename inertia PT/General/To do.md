@@ -343,7 +343,7 @@
 - [ ] 30° Wäsche
 	- [x] anstellen 
 	- [x] <font color="#ff0000">nur decke extra</font> schleudern 
-	- [ ] aufhängen 
+	- [x] aufhängen 
 	- [ ] zusammen legen
 - [x] Aldi 
 - [ ] nach jamils Anleitung schauen bzgl byod
