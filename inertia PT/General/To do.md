@@ -313,7 +313,7 @@
 - [ ] eigene Kopie Klassenarbeit 5a
 - [ ] Mathehefter sortieren 
 - [ ] Spaghetti Kürbis Rezept machen 
-- [ ] in prisma
+- [ ] in prisma Physik 1 schauen 
 - [ ] Physik 8er bas curriculum schauen, wohl elehre
 	- [ ] ja wechsel auf elehre unbedingt 
 	- [ ] Blick ins Buch und arbeiten mit dem Buch.
