@@ -2257,11 +2257,15 @@ Lukas Walter
 ### ✅Alexia 
 - in Grundschule Hilfe in Mathe - 1h Förderunterricht
 - Alexia umsetzen
-### ✅Ilayda
+### ✅Ilayda 
+- Vater fährt straßenbahn Nachtschicht 9-12
 - auch bei Übungen zu Hause mit dem Vater, lenkt sie hab und ist verlegen und macht nicht, kann es aber auch sehr gut
 - sie braucht die Konsequenz und die strenge hand
-- 
+- wenn sie ihre Sachen nicht dabei hat, ist das häufig gelogen. sie hat die Sachen häufig dabei
+- Vater freut sich über den Matheförder
+- versucht sich stur zustellen
 - umsetzen definitiv
+- darf 
 ### ✅Yusuf Çoşar
 - mehr Hausaufgaben und Kontrolle
 - mehr auf Selbstwirksamkeit achten
