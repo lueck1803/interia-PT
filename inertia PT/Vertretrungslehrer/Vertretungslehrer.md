@@ -2223,7 +2223,6 @@ Das ist eine Pausenaufsicht zwischen der 4/5 Stunde auf dem Hofbereich 3.
 
 # Archiv
 
-
 # Elterngespräche
 ## 8b %% fold %%
 ### Salma Zoubaa %% fold %%
@@ -2273,7 +2272,7 @@ Lukas Walter
 ### Espen 
 ### hamza 0157 38832301
 ### Souhaib 0171 8386051
-
+- 
 # Abschluss 10
 
 ## Karteikartennutzung Tipps
