@@ -313,6 +313,8 @@
 - [ ] Einkauf weg und eintragen 
 - [x] Einkaufswagen zurück 
 - [ ] Sportsachen wegräumen 
+- [ ] Loch in grauem T-Shirt flicken 
+- [ ] Unbedingt die 8b Bewertungsdinger machen 
 - [ ] duschen 
 - [ ] Rosenkohl zubereiten 
 - [ ] Wäsche checken
