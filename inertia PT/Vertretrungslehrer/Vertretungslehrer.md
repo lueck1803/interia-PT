@@ -2250,8 +2250,13 @@ Lukas Walter
 
 ## 5a
 ### Alexia
-### Tamilo
 ### Ilayda
+### Yusuf
+### Tamilo
+### Hamzi
+### Elias
+### ❓jakob
+### ❓Espen
 
 ### Zara
 ### Tamilo

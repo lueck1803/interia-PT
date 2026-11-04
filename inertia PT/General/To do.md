@@ -311,12 +311,15 @@
 - [ ] gießen 
 - [ ] sofa saugen 
 - [ ] AOK erledigen 
+	- [ ] Brief checken
+	- [ ] Wegen freiwilliger mitgliedschaft
+	- [ ] krankenhausüberweisung
 - [ ] Essen 
 - [ ] carnivoren checken
 - [ ] auberginen waschen ⟹kühlschrank
-- [ ] Maronen einpflanzen 
+- [ ] Maronen einpflanzen  %% fold %%
 - [x] Einkauf weg und eintragen  %% fold %%
-	- [x] 2 Hacktomaten 
+	- [x] 2 Hacktomaten  %% fold %%
 	- [x] 3 fussili
 	- [x] 2 tortiglioni
 	- [x] 1 Tomatenmark 
