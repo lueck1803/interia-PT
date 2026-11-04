@@ -308,6 +308,7 @@
 	- Leergewicht: 16 kg (Stahlfass)
 - [ ] Duolingo
 - [ ] Punkteverteilung/Skala nachschauen 
+- [ ] public key problem laptop lösen 
 - [ ] Die anderen Beamer auf das PW 12345678 umstellen
 - kursmappe
 	- [x] m 5a %% fold %%
