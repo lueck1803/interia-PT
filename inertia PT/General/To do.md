@@ -313,6 +313,8 @@
 - [ ] eigene Kopie Klassenarbeit 5a
 - [ ] Mathehefter sortieren 
 - [ ] Spaghetti Kürbis Rezept machen 
+- [ ] 10b in die Gruppe schreiben 
+	- [ ] von heute abtippen 
 - [ ] Die anderen Beamer auf das PW 12345678 umstellen
 - kursmappe
 	- [x] m 5a %% fold %%
