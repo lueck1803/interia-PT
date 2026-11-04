@@ -312,6 +312,7 @@
 - [ ] 5a Eltern anrufen 
 - [ ] eigene Kopie Klassenarbeit 5a
 - [ ] Mathehefter sortieren 
+- [ ] Spaghetti Kürbis Rezept machen 
 - [ ] Die anderen Beamer auf das PW 12345678 umstellen
 - kursmappe
 	- [x] m 5a %% fold %%
