@@ -324,13 +324,13 @@
 	- [ ] auch der 10a schicken. Sie sollen sich das mal anschauen 
 - [ ] Die anderen Beamer auf das PW 12345678 umstellen (gibt wohl nur im Raum 10a)
 - kursmappe
-	- [x] m 5a %% fold %%
+	- [ ] m 5a %% fold %%
 	- [x] m 8a
 	- [x] m 8b
 	- [x] p 8a
 	- [x] p 8b
 	- [x] p 8c %% fold %%
-	- [x] p 10b %% fold %%
+	- [ ] p 10b %% fold %%
 	- [x] p 10a
 - [ ] origniale Arbeitsunfähgikeitsbescheinigungen beim Sekretariat abgeben
 	- [ ] Scan vorliegend
