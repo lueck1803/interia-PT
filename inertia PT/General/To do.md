@@ -314,7 +314,7 @@
 - [ ] Äpfel waschen 
 - [ ] gießen 
 - [ ] Gitarre putzen
-- [ ] Tastatur wischen
+- [x] Tastatur wischen
 - [ ] sofa saugen 
 - [ ] decke wieder aufs sofa
 - [ ] AOK erledigen 
