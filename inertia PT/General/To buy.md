@@ -18,7 +18,7 @@
 ## Jetzt
 - Einkaufswagen 
 - [x] Käse 
-- [ ] Nudeln 
+- [x] Nudeln 
 - [x] Frischkäse Kräuter 
 - [x] Sonnenblumenkerne 
 - [x] Hummus

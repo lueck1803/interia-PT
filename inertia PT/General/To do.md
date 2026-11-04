@@ -307,14 +307,37 @@
 	- Höhe: 88cm
 	- Leergewicht: 16 kg (Stahlfass)
 - [ ] Duolingo
+- [ ] Äpfel waschen 
+- [ ] gießen 
+- [ ] sofa saugen 
 - [ ] AOK erledigen 
+- [ ] Essen 
 - [ ] carnivoren checken
+- [ ] auberginen waschen ⟹kühlschrank
 - [ ] Maronen einpflanzen 
+- [ ] Einkauf weg und eintragen 
+	- [ ] 2 Hacktomaten 
+	- [ ] 3 fussili
+	- [ ] 2 tortiglioni
+	- [ ] 1 Tomatenmark 
+- [x] Einkaufswagen zurück 
+- [ ] Sportsachen wegräumen 
+- [ ] Loch in grauem T-Shirt flicken 
+- [ ] Unbedingt die 8b Bewertungsdinger machen 
+	- [ ] Donnerstag Frau Antes bringen 
+	- [ ] Frau Antes schreiben 
+- [ ] duschen 
+- [ ] Rosenkohl zubereiten 
 - [ ] Wäsche checken
 	- [ ] decke waschen 
 - [ ] konto checken 
 - [ ] to do aufräumen 
-- [ ] Aldi 
+- [ ] 30° Wäsche
+	- [x] anstellen 
+	- [ ] <font color="#ff0000">nur decke extra</font> schleudern 
+	- [ ] aufhängen 
+	- [ ] zusammen legen
+- [x] Aldi 
 - [ ] nach jamils Anleitung schauen bzgl byod
 - [ ] Punkteverteilung/Skala nachschauen 
 - [ ] Die anderen Beamer auf das PW 12345678 umstellen
