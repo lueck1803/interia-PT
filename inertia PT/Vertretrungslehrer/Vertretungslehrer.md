@@ -390,7 +390,7 @@ Das Verb **"helfen"** verlangt immer den **Dativ** für die Person, der geholfen
 
 Die Präposition **"bei"** verlangt ebenfalls den **Dativ**.
 
-- **"der Hausarbeit"** ist das **Objekt der Präposition "bei"** und steht daher auch im Dativ.
+- **"der Hausarbeit"** ist das **Objekt der Präposition "bei"** und steht daher auch im Dativ. %% fold %%
 #### 26-05-21
 Personalpronomen in den Vier Fällen
 ![[Images/BAS/Deu/Personalpronomen.jpg]]
