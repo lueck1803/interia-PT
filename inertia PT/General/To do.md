@@ -307,6 +307,8 @@
 	- Höhe: 88cm
 	- Leergewicht: 16 kg (Stahlfass)
 - [ ] Duolingo
+- [ ] Äpfel waschen 
+- [ ] gießen 
 - [ ] AOK erledigen 
 - [ ] Essen 
 - [ ] carnivoren checken
