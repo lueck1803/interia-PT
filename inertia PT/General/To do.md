@@ -310,6 +310,7 @@
 - [ ] AOK erledigen 
 - [ ] carnivoren checken
 - [ ] Wäsche checken
+	- [ ] decke waschen 
 - [ ] konto checken 
 - [ ] to do aufräumen 
 - [ ] Aldi 
