@@ -2265,7 +2265,7 @@ Lukas Walter
 - Vater freut sich über den Matheförder
 - versucht sich stur zustellen
 - umsetzen definitiv
-- darf 
+- darf ruhig etwas härter sein
 ### ✅Yusuf Çoşar
 - mehr Hausaufgaben und Kontrolle
 - mehr auf Selbstwirksamkeit achten
