@@ -328,7 +328,7 @@
 - [ ] Loch in grauem T-Shirt flicken 
 - [ ] Unbedingt die 8b Bewertungsdinger machen 
 	- [ ] Donnerstag Frau Antes bringen 
-	- [ ] Frau Antes schreiben 
+	- [x] Frau Antes schreiben 
 - [ ] duschen 
 - [ ] Rosenkohl zubereiten 
 - [ ] Wäsche checken
@@ -347,7 +347,7 @@
 - [ ] Leute 10b einladen in schul.cloud gruppe
 - [ ] schulportal ->medienzentrum -> wie logge ich mich in vom medienzentrum verwaltete Wlans ein 
 	- [ ] byod - interimsgebäude
-- [ ] public key problem laptop lösen 
+- [x] public key problem laptop lösen 
 - [ ] 5a Eltern anrufen 
 - [ ] eigene Kopie Klassenarbeit 5a
 - [ ] Mathehefter sortieren 
