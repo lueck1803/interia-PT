@@ -307,7 +307,7 @@
 	- Höhe: 88cm
 	- Leergewicht: 16 kg (Stahlfass)
 - [ ] Duolingo
-- [ ] nach jamils Anleitung schauen bzgl b
+- [ ] nach jamils Anleitung schauen bzgl byod
 - [ ] Punkteverteilung/Skala nachschauen 
 - [ ] public key problem laptop lösen 
 - [ ] 5a Eltern anrufen 
