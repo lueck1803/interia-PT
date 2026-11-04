@@ -2258,7 +2258,10 @@ Lukas Walter
 - in Grundschule Hilfe in Mathe - 1h Förderunterricht
 - Alexia umsetzen
 ### ✅Ilayda
-- auch bei Übungen zu Hause mit dem Vater, lenkt sie hab und ver
+- auch bei Übungen zu Hause mit dem Vater, lenkt sie hab und ist verlegen und macht nicht, kann es aber auch sehr gut
+- sie braucht die Konsequenz und die strenge hand
+- 
+- umsetzen definitiv
 ### ✅Yusuf Çoşar
 - mehr Hausaufgaben und Kontrolle
 - mehr auf Selbstwirksamkeit achten
