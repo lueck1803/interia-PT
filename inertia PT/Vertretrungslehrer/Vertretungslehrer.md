@@ -2173,8 +2173,8 @@ Deshalb ging die Sirene 3 mal!
 	- Email: kbru86@hotmail.com
 	- Nummer: 0157 38832301
 - Donisan, Alexia-Carina:
-	- Email: 
-	- Nummer: 
+	- Email: donisanandreea5@gmail.com
+	- Nummer: 017630360316
 - Souhaib:
 	- Nummer: 0171 8386051
 ## 5d (Hj2 2026)
