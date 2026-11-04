@@ -309,6 +309,7 @@
 - [ ] Duolingo
 - [ ] Äpfel waschen 
 - [ ] gießen 
+- [ ] sofa saugen 
 - [ ] AOK erledigen 
 - [ ] Essen 
 - [ ] carnivoren checken
