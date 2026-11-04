@@ -312,12 +312,13 @@
 - [ ] Maronen einpflanzen 
 - [ ] Einkauf weg und eintragen 
 - [ ] Einkaufswagen zurück 
+- [ ] duschen 
 - [ ] Rosenkohl zubereiten 
 - [ ] Wäsche checken
 	- [ ] decke waschen 
 - [ ] konto checken 
 - [ ] to do aufräumen 
-- [ ] Aldi 
+- [x] Aldi 
 - [ ] nach jamils Anleitung schauen bzgl byod
 - [ ] Punkteverteilung/Skala nachschauen 
 - [ ] public key problem laptop lösen 
