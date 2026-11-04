@@ -212,7 +212,7 @@
 - <font color="#ffc000">Rückfall</font> kein Beweis fürs Scheitern, sondern eine <font color="#48d1cc">Information</font>
 
 ### 4- Fünf-Warum-Methode %% fold %%
-- <font color="#7cfc00">Frag fünfmal nach dem Warum</font>
+- <font color="#7cfc00">Frag fünfmal nach dem Warum</font> %% fold %%
 - Wenn bei Toyota ein Fehler auftauchte, dann fragten sie nicht einmal Warum, sondern fünfmal hintereinander. ⟹ immer tiefer, um <font color="#c71585">an die Wurzel</font> zu kommen
 - <u>Gedanke dahinter:</u> die erste Antwort ist selten die ganze Geschichte dahinter
 - <u>Handy scrollen:</u>
