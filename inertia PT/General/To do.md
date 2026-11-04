@@ -308,6 +308,7 @@
 	- Leergewicht: 16 kg (Stahlfass)
 - [ ] Duolingo
 - [ ] AOK erledigen 
+- [ ] Essen 
 - [ ] carnivoren checken
 - [ ] Maronen einpflanzen 
 - [ ] Einkauf weg und eintragen 
@@ -323,6 +324,11 @@
 	- [ ] decke waschen 
 - [ ] konto checken 
 - [ ] to do aufräumen 
+- [ ] 30° Wäsche
+	- [x] anstellen 
+	- [ ] <font color="#ff0000">nur decke extra</font> schleudern 
+	- [ ] aufhängen 
+	- [ ] zusammen legen
 - [x] Aldi 
 - [ ] nach jamils Anleitung schauen bzgl byod
 - [ ] Punkteverteilung/Skala nachschauen 
