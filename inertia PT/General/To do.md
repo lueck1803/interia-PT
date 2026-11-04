@@ -307,30 +307,55 @@
 	- Höhe: 88cm
 	- Leergewicht: 16 kg (Stahlfass)
 - [ ] Duolingo
+- [ ] AOK erledigen 
+- [ ] carnivoren checken
+- [ ] Maronen einpflanzen 
+- [ ] Wäsche checken
+	- [ ] decke waschen 
+- [ ] konto checken 
+- [ ] to do aufräumen 
+- [ ] Aldi 
+- [ ] nach jamils Anleitung schauen bzgl byod
 - [ ] Punkteverteilung/Skala nachschauen 
 - [ ] Die anderen Beamer auf das PW 12345678 umstellen
 - [ ] Leute 10b einladen in schul.cloud gruppe
 - [ ] schulportal ->medienzentrum -> wie logge ich mich in vom medienzentrum verwaltete Wlans ein 
 	- [ ] byod - interimsgebäude
+- [ ] public key problem laptop lösen 
+- [ ] 5a Eltern anrufen 
+- [ ] eigene Kopie Klassenarbeit 5a
+- [ ] Mathehefter sortieren 
+- [ ] Spaghetti Kürbis Rezept machen 
+- [ ] in prisma Physik 1 schauen 
+- [ ] <font color="#7fffd4">amela</font> darf bleiben, aber muss Liste extra führen für ihre Noten 
+- [ ] Physik 8er bas curriculum schauen, wohl elehre
+	- [ ] ja wechsel auf elehre unbedingt 
+	- [ ] Blick ins Buch und arbeiten mit dem Buch.
+- [ ] maya antworten 
+- [ ] 10b in die Gruppe schreiben 
+	- [ ] von heute abtippen 
+	- [ ] auch der 10a schicken. Sie sollen sich das mal anschauen 
 - kursmappe
-	- [x] m 5a %% fold %%
+	- [ ] m 5a %% fold %%
 	- [x] m 8a
 	- [x] m 8b
 	- [x] p 8a
 	- [x] p 8b
 	- [x] p 8c %% fold %%
-	- [x] p 10b %% fold %%
+	- [ ] p 10b %% fold %%
 	- [x] p 10a
 - [ ] origniale Arbeitsunfähgikeitsbescheinigungen beim Sekretariat abgeben
-	- [ ] Scan vorliegend
+	- [x] Scan vorliegend
 		- 15.09. - 18.09.26 (4 Tage) Scan vorliegend
 		- 19.09. - 21.09.26 (3 Tage) Kein Scan
 		- 22.09. - 25.09.2026 (4 Tage) Scan vorliegend
 		- 26.09. - 08.10.2026 (13 Tage) Scan vorliegend
 	- [x] Email an Hausarzt 3.11.
-	- [ ] originale AU vom Krankenhaus im Sekretariat abgeben
+	- [x] originale AU vom Krankenhaus im Sekretariat abgeben
+	- [x] Nachfrage an Haus Arzt 
+		- [ ] Mail abwarten 
 - [ ] Aldi 
-- [ ] luftpacks in den Keller
+- [x] luftpacks in den Keller
 - [ ] Paprika ernten 
 - [ ] essen in den Kühlschrank
 - [ ] hydraulische presse bauen 
@@ -475,7 +500,7 @@
 		- [ ] Multiplikation und Division mehrstellig
 - [ ] Klausur 8ter %% fold %%
 	- [ ] probeklausur durchrechnen mit Zeit %% fold %%
-	- [ ] für Klausur Bruchrechnung vereinfachen dafür mehr terme zusammenfassen 
+	- [ ] für Klausur Bruchrechnung vereinfachen dafür mehr terme zusammenfassen  %% fold %%
 		- [ ] ne, aber die letzte Aufgabe in zwei nach x auflösen Aufgaben umwandeln
 	- [ ] Klausur Bepunktung überlegen
 	- [ ] Erklärung: Was ist eine Variable, was ist ein Term, was ist der Wert eines Terms 

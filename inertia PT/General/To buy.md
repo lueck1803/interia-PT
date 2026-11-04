@@ -17,8 +17,13 @@
 # Aldi
 ## Jetzt
 - Einkaufswagen 
-- [ ] Käse 
-- [ ] Hummus
+- [x] Käse 
+- [ ] Nudeln 
+- [x] Frischkäse Kräuter 
+- [x] Sonnenblumenkerne 
+- [x] Hummus
+- [x] bananen
+- [x] spaghetti Kürbis?
 - [x] Toast 
 - [x] 405er mehl
 - [x] Zucker 
