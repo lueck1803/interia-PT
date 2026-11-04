@@ -17,9 +17,9 @@
 # Aldi
 ## Jetzt
 - Einkaufswagen 
-- [ ] Käse 
-- [ ] Frischkäse Kräuter 
-- [ ] Sonnenblumenkerne 
+- [x] Käse 
+- [x] Frischkäse Kräuter 
+- [x] Sonnenblumenkerne 
 - [ ] Hummus
 - [x] bananen
 - [x] spaghetti Kürbis?
