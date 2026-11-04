@@ -312,6 +312,7 @@
 - [ ] Maronen einpflanzen 
 - [ ] Einkauf weg und eintragen 
 - [ ] Einkaufswagen zurück 
+- [ ] Rosenkohl zubereiten 
 - [ ] Wäsche checken
 	- [ ] decke waschen 
 - [ ] konto checken 
