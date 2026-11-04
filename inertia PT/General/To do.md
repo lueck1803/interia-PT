@@ -308,9 +308,9 @@
 	- Leergewicht: 16 kg (Stahlfass)
 - [ ] Duolingo
 - [ ] Bart schön schneiden 
-- [ ] Salma fragen, ob ihre mutter etwas gesagt hat
-- [ ] schul-id emails checken
-	- [ ] Salamas mutter geantwortet
+- [x] Salma fragen, ob ihre mutter etwas gesagt hat
+- [x] schul-id emails checken
+	- [x] Salamas mutter geantwortet
 - [ ] Äpfel waschen 
 - [ ] gießen 
 - [ ] sofa saugen 
@@ -386,11 +386,10 @@
 	- [x] originale AU vom Krankenhaus im Sekretariat abgeben
 	- [x] Nachfrage an Haus Arzt 
 		- [ ] Mail abwarten 
-- [ ] Aldi 
 - [x] luftpacks in den Keller
 - [ ] Paprika ernten 
 - [ ] essen in den Kühlschrank
-- [ ] hydraulische presse bauen 
+- [ ] hydraulische presse bauen  %% fold %%
 - [x] Fachkonferenz Mathematik am 9.11 eintragen  %% fold %%
 	- [ ] Ort und Uhrzeit ist noch nicht fest
 - [x] Fachkonferenz Physik am 10.11 14 Uhr Bioraum für den NaWi-Teil, anschließend Raum PH2
@@ -405,7 +404,6 @@
 	- [x] schleudern 
 	- [x] aufhängen 
 	- [ ] zusammen legen
-- [ ] yusufs Mutter anrufen 
 - [ ] carnivorenwasser auffüllen 
 - [ ] Physikaufgabe 8er zum Einheiten umrechnen mit litern und Gallonen raus suchen
 	- [ ] ![[../../Pasted image 20261103230812.png]]
