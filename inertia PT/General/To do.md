@@ -376,7 +376,7 @@
 	- [x] p 8a
 	- [x] p 8b
 	- [x] p 8c %% fold %%
-	- [ ] p 10b %% fold %%
+	- [x] p 10b %% fold %%
 	- [x] p 10a
 - [ ] origniale Arbeitsunfähgikeitsbescheinigungen beim Sekretariat abgeben
 	- [x] Scan vorliegend
