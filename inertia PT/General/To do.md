@@ -310,6 +310,8 @@
 - [ ] AOK erledigen 
 - [ ] carnivoren checken
 - [ ] Maronen einpflanzen 
+- [ ] Einkauf weg und eintragen 
+- [ ] Einkaufswagen zurück 
 - [ ] Wäsche checken
 	- [ ] decke waschen 
 - [ ] konto checken 
