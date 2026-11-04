@@ -2258,6 +2258,9 @@ Lukas Walter
 ### Ilayda
 ### ✅Yusuf
 - mehr Hausaufgaben und Kontrolle
+- mehr auf selbstwirksamkeit achten
+- disziplinierter und strenger
+- 
 ### Tamilo
 ### Hamzi
 ### Elias
