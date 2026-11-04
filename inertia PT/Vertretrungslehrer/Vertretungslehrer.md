@@ -2168,16 +2168,16 @@ Deshalb ging die Sirene 3 mal!
 	- Nummer: 0157 38832301
 - Cosai, Yusuf:
 	- Email: kbru86@hotmail.com
-	- Nummer: 01577 488 165 0
+	- Nummer (Mutter): 01577 488 165 0
 - Donisan, Alexia-Carina:
 	- Email: donisanandreea5@gmail.com
-	- Nummer: 017630360316
+	- Nummer: 0176 303 603 16
 - Kühn, Marie:
 	- Email: lea_kuehn@yahoo.com
-	- Nummer: 017684964386
+	- Nummer: 0176 849 643 86
 - Metin, Ilayda Minel
 	- Email: bjk1903274@gmail.com
-	- Nummer: 0152 014 993 73
+	- Nummer (Vater): 0152 014 993 73
 - Souhaib:
 	- Nummer: 0171 8386051
 ## 5d (Hj2 2026)
@@ -2226,7 +2226,7 @@ Das ist eine Pausenaufsicht zwischen der 4/5 Stunde auf dem Hofbereich 3.
 
 # Archiv
 
-# Elterngespräche
+# Elterngespräche %% fold %%
 ## 8b %% fold %%
 ### Salma Zoubaa %% fold %%
 #### 2026-11-03 E-mail  %% fold %%
@@ -2257,7 +2257,7 @@ Lukas Walter
 ### ✅Alexia 
 - in Grundschule Hilfe in Mathe - 1h Förderunterricht
 - Alexia umsetzen
-### ✅Ilayda 
+### ✅Ilayda-Minel Metin 
 - Vater fährt straßenbahn Nachtschicht 9-12
 - auch bei Übungen zu Hause mit dem Vater, lenkt sie hab und ist verlegen und macht nicht, kann es aber auch sehr gut
 - sie braucht die Konsequenz und die strenge hand
