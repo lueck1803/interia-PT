@@ -2261,7 +2261,7 @@ Lukas Walter
 - mehr auf Selbstwirksamkeit achten
 - disziplinierter und strenger sein
 - ihn mehr sehen und sich gesehen lassen.
-- 
+- vorne sitzen und gesehen werden.
 ### Tamilo
 ### Hamzi
 ### Elias
