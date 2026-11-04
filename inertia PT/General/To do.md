@@ -317,7 +317,8 @@
 - [ ] maya antworten 
 - [ ] 10b in die Gruppe schreiben 
 	- [ ] von heute abtippen 
-- [ ] Die anderen Beamer auf das PW 12345678 umstellen
+	- [ ] auch der 10a schicken. Sie sollen sich das mal anschauen 
+- [ ] Die anderen Beamer auf das PW 12345678 umstellen (gibt wohl nur im Raum 10a)
 - kursmappe
 	- [x] m 5a %% fold %%
 	- [x] m 8a
