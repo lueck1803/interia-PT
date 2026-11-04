@@ -334,13 +334,13 @@
 	- [x] Frau Antes schreiben - über schul.cloud
 - [ ] duschen 
 - [ ] Rosenkohl zubereiten 
-- [ ] Wäsche checken
+- [x] Wäsche checken
 	- [x] decke waschen 
 - [ ] konto checken 
 - [ ] to do aufräumen 
 - [ ] 30° Wäsche
 	- [x] anstellen 
-	- [ ] <font color="#ff0000">nur decke extra</font> schleudern 
+	- [x] <font color="#ff0000">nur decke extra</font> schleudern 
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 - [x] Aldi 
