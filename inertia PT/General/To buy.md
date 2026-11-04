@@ -18,9 +18,10 @@
 ## Jetzt
 - Einkaufswagen 
 - [x] Käse 
+- [ ] Nudeln 
 - [x] Frischkäse Kräuter 
 - [x] Sonnenblumenkerne 
-- [ ] Hummus
+- [x] Hummus
 - [x] bananen
 - [x] spaghetti Kürbis?
 - [x] Toast 
