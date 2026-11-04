@@ -307,6 +307,7 @@
 	- Höhe: 88cm
 	- Leergewicht: 16 kg (Stahlfass)
 - [ ] Duolingo
+- [ ] Bart schön schneiden 
 - [ ] Salma fragen, ob ihre mutter etwas gesagt hat
 - [ ] schul-id emails checken
 	- [ ] Salamas mutter geantwortet
