@@ -330,7 +330,7 @@
 - [ ] luftpacks in den Keller
 - [ ] Paprika ernten 
 - [ ] essen in den Kühlschrank
-- [ ] 
+- [ ] hydraulische presse bauen 
 - [x] Fachkonferenz Mathematik am 9.11 eintragen 
 	- [ ] Ort und Uhrzeit ist noch nicht fest
 - [x] Fachkonferenz Physik am 10.11 14 Uhr Bioraum für den NaWi-Teil, anschließend Raum PH2
