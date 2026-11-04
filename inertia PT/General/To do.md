@@ -309,6 +309,9 @@
 - [ ] Duolingo
 - [ ] Punkteverteilung/Skala nachschauen 
 - [ ] public key problem laptop lösen 
+- [ ] 5a Eltern anrufen 
+- [ ] eigene Kopie Klassenarbeit 5a
+- [ ] Mathehefter sortieren 
 - [ ] Die anderen Beamer auf das PW 12345678 umstellen
 - kursmappe
 	- [x] m 5a %% fold %%
