@@ -313,7 +313,7 @@
 - [ ] eigene Kopie Klassenarbeit 5a
 - [ ] Mathehefter sortieren 
 - [ ] Spaghetti Kürbis Rezept machen 
-- [ ] Physik 8er bas curriculum schauen, wohl 
+- [ ] Physik 8er bas curriculum schauen, wohl elehre
 - [ ] maya antworten 
 - [ ] 10b in die Gruppe schreiben 
 	- [ ] von heute abtippen 
