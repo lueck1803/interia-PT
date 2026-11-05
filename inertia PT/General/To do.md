@@ -308,6 +308,13 @@
 	- Leergewicht: 16 kg (Stahlfass)
 - [ ] Duolingo
 - [ ] freddy schreiben
+- [ ] fußnägel
+- [ ] Arbeitsblatt 8er
+	- [ ] zum Einheiten umrechnen
+		- [ ] nochmal erklärung - besser
+		- [ ] mit Aufgaben aus etit und giancolli
+	- [ ] mit Übergang zur E-lehre
+- [ ] E-lehre aus physikbuch einscannen
 - [ ] reifendruck fahrrad
 - [ ] stunde vom mittwoch 10er abtippen + 10er zur verfügung stellen
 - [ ] wasserhahn im bad putzen + silikon
