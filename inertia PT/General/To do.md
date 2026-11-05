@@ -313,7 +313,7 @@
 	- [x] Salamas mutter geantwortet
 - [ ] Äpfel waschen 
 - [ ] gießen 
-- [ ] Gitarre putzen
+- [x] Gitarre putzen
 - [x] Tastatur wischen
 - [ ] sofa saugen 
 - [ ] decke wieder aufs sofa
