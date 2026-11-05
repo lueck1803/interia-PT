@@ -1044,7 +1044,7 @@
 - [ ] floyed rose Stimmen 
 	- [ ] von den mittleren Saiten heraus nach außen stimmen 
 	- [ ] darauf achten dass die Bridge flach liegt, lieber nochmal die saiten entspannen 
-- die lead von swamphell lässt sich abgesehen vom intro auf std Tuning leichter spielen. 
+- die lead von swamphell lässt sich abgesehen vom intro auf std Tuning leichter spielen.  %% fold %%
 	- ich glaube nur dass solo 2 geht nicht, wegen dem höchsten Ton
 	- doch natürlich die Gitarre ist ja höher und es geht auch einfacher 
 - [ ] weiße Gitarre nochmal gescheit stimmen 
