@@ -307,6 +307,7 @@
 	- Höhe: 88cm
 	- Leergewicht: 16 kg (Stahlfass)
 - [ ] Duolingo
+- [ ] freddy schrei
 - [ ] wasserhahn im bad putzen + silikon
 - [ ] wasserhahn küche putzen + silikon
 - [ ] physikbuch seiten zum weg zeit gesetz einscannen
@@ -318,6 +319,7 @@
 	- [ ] Blick ins Buch und arbeiten mit dem Buch.
 	- [ ] Arbeitsblatt von lio für e-lehre überarbeiten
 	- [ ] Einführungsstunde für E-lehre planen
+	- [ ] in meine experimente bücher schauen
 	- [ ] curriculum von johannes anschauen + mit hessischem vergleichen
 - [ ] curriculum physik 10er anschauen
 	- [ ] bas curriculum vgl mit hessen
