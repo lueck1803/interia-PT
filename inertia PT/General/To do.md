@@ -317,6 +317,7 @@
 - [ ] curriculum physik 10er anschauen
 	- [ ] bas curriculum vgl mit hessen
 	- [ ] lektion Energie vorbereiten
+- [ ] handout physik 10 druck schreiben
 - [ ] gaaaanz hart heroes to us üben
 - [ ] Hamza war nicht in Mathe 
 - [ ] Bart schön schneiden 
@@ -371,7 +372,7 @@
 - [ ] eigene Kopie Klassenarbeit 5a
 - [ ] Mathehefter sortieren 
 - [ ] Spaghetti Kürbis Rezept machen 
-- [ ] in prisma Physik 1 schauen 
+- [x] in prisma Physik 1 schauen 
 - [x] <font color="#7fffd4">amela</font> darf bleiben, aber muss Liste extra führen für ihre Noten 
 	- [ ] Excel-Tabelle für sie anlegen 
 
@@ -1020,7 +1021,7 @@
 	- [ ] prozentrechnung
 	- [ ] Einheiten umrechnen
 - [ ] preset leadout einstellen  %% fold %%
-- [ ] Arbeitsblatt Physik zusammenstellen  %% fold %%
+- [ ] Arbeitsblatt Physik zusammenstellen
 	- [ ] darauf erklärung eines Vektors
 	- [ ] koordinatensystem
 		- [ ] 2D
