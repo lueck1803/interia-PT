@@ -307,7 +307,7 @@
 	- Höhe: 88cm
 	- Leergewicht: 16 kg (Stahlfass)
 - [ ] Duolingo
-- [ ] freddy schrei
+- [ ] freddy schreiben
 - [ ] wasserhahn im bad putzen + silikon
 - [ ] wasserhahn küche putzen + silikon
 - [ ] physikbuch seiten zum weg zeit gesetz einscannen
