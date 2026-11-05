@@ -307,6 +307,7 @@
 	- Höhe: 88cm
 	- Leergewicht: 16 kg (Stahlfass)
 - [ ] Duolingo
+- [ ] Punkte pro Aufgabe und insgesamt plus Note für jeden schüler notieren
 - [ ] Kapitel fluide/druck einscannen
 - [ ] Fußmatte saugen 
 - [ ] nochmal schwere Aufgaben schriftlich Grundrechenarten für die die fertig sind zusammen stellen. Überprüfen ob sie f er rig sind 
