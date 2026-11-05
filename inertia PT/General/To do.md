@@ -307,6 +307,9 @@
 	- Höhe: 88cm
 	- Leergewicht: 16 kg (Stahlfass)
 - [ ] Duolingo
+- [ ] physikbuch seiten zum weg zeit gesetz einscannen
+	- [ ] scans zuschneiden und zusammen fügen
+	- [ ] 8ern und 10ern zur Verfügung stellen
 - [ ] Physikbuch kleben
 - [ ] Physik 8er bas curriculum schauen, wohl elehre
 	- [ ] ja wechsel auf elehre unbedingt 
@@ -494,7 +497,6 @@
 		- [ ] zwei Aufgaben mit Stimmt die vorgebene Variable x?
 		- [ ] zwei Aufgaben Löse nach x auf.
 			- [ ] die zweite mit einer weiteren Variable y= einem Wert ist nur für E-kurs
-- [ ] physikbuch seiten zum weg zeit gesetz einscannen
 - [ ] 5a Mathearbeit 
 - [ ] Aufgaben für Prüfung zusammenstellen 
 - [ ] Mathe-Wettbewerb Aufgaben 
