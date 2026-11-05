@@ -307,8 +307,8 @@
 	- Höhe: 88cm
 	- Leergewicht: 16 kg (Stahlfass)
 - [ ] Duolingo
-- [ ] Punkte pro Aufgabe und insgesamt plus Note für jeden schüler notieren
-	- [ ] plus 10 punkte für die die 13 kinder bei der d hingeschrieben haben
+- [x] Punkte pro Aufgabe und insgesamt plus Note für jeden schüler notieren
+	- [x] plus 10 punkte für die die 13 kinder bei der d hingeschrieben haben
 - [ ] Kapitel fluide/druck einscannen
 - [ ] Fußmatte saugen 
 - [ ] nochmal schwere Aufgaben schriftlich Grundrechenarten für die die fertig sind zusammen stellen. Überprüfen ob sie f er rig sind 
@@ -322,7 +322,7 @@
 		- [ ] mit Aufgaben aus etit und giancolli
 	- [ ] mit Übergang zur E-lehre
 - [ ] E-lehre aus physikbuch einscannen
-- [ ] reifendruck fahrrad
+- [x] reifendruck fahrrad
 - [ ] stunde vom mittwoch 10er abtippen + 10er zur verfügung stellen
 - [ ] wasserhahn im bad putzen + silikon
 - [ ] wasserhahn küche putzen + silikon
@@ -353,13 +353,11 @@
 	- [ ] Brief checken
 	- [ ] Wegen freiwilliger mitgliedschaft
 	- [ ] krankenhausüberweisung
-- [ ] Essen 
 - [ ] carnivoren checken %% fold %%
 - [ ] auberginen waschen ⟹kühlschrank %% fold %%
 - [ ] Maronen einpflanzen  %% fold %%
 - [ ] Sportsachen wegräumen 
 - [ ] Loch in grauem T-Shirt flicken 
-- [ ] duschen 
 - [ ] Rosenkohl zubereiten 
 - [ ] konto checken 
 - [ ] to do aufräumen 
@@ -375,7 +373,6 @@
 - [ ] schulportal ->medienzentrum -> wie logge ich mich in vom medienzentrum verwaltete Wlans ein 
 	- [ ] byod - interimsgebäude
 - [ ] 5a Eltern anrufen 
-- [ ] eigene Kopie Klassenarbeit 5a
 - [ ] Mathehefter sortieren 
 - [ ] Spaghetti Kürbis Rezept machen 
 - [x] <font color="#7fffd4">amela</font> darf bleiben, aber muss Liste extra führen für ihre Noten 
@@ -410,9 +407,9 @@
 	- [x] aufhängen 
 	- [ ] zusammen legen
 - [ ] carnivorenwasser auffüllen 
-- [ ] Physikaufgabe 8er zum Einheiten umrechnen mit litern und Gallonen raus suchen
-	- [ ] ![[../../Pasted image 20261103230812.png]]
-	- [ ] ![[../../Pasted image 20261103231141.png]]
+- [x] Physikaufgabe 8er zum Einheiten umrechnen mit litern und Gallonen raus suchen
+	- [x] ![[../../Pasted image 20261103230812.png]]
+	- [x] ![[../../Pasted image 20261103231141.png]]
 - [ ] Lotus 🪷 checken 
 - [ ] gemeinsamer Nachschreibe Termin wie läuft das?
 - [ ] Apple TV einrichten am Mac 
