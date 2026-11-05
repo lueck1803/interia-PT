@@ -307,6 +307,7 @@
 	- Höhe: 88cm
 	- Leergewicht: 16 kg (Stahlfass)
 - [ ] Duolingo
+- [ ] Hamza war nicht in Mathe 
 - [ ] Bart schön schneiden 
 - [x] Salma fragen, ob ihre mutter etwas gesagt hat
 - [x] schul-id emails checken
@@ -376,7 +377,7 @@
 	- [x] p 8a
 	- [x] p 8b
 	- [x] p 8c %% fold %%
-	- [ ] p 10b %% fold %%
+	- [x] p 10b %% fold %%
 	- [x] p 10a
 - [ ] origniale Arbeitsunfähgikeitsbescheinigungen beim Sekretariat abgeben
 	- [x] Scan vorliegend
