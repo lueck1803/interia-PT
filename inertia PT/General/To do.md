@@ -385,7 +385,7 @@
 	- [ ] von heute abtippen 
 	- [ ] auch der 10a schicken. Sie sollen sich das mal anschauen 
 - kursmappe
-	- [ ] m 5a %% fold %%
+	- [x] m 5a %% fold %%
 	- [x] m 8a
 	- [x] m 8b
 	- [x] p 8a
