@@ -308,6 +308,8 @@
 	- Leergewicht: 16 kg (Stahlfass)
 - [ ] Duolingo
 - [ ] freddy schreiben
+- [ ] reifendruck fahrrad
+- [ ] stunde vom mittwoch 10er abtippen + 10er zur verfügung stellen
 - [ ] wasserhahn im bad putzen + silikon
 - [ ] wasserhahn küche putzen + silikon
 - [ ] physikbuch seiten zum weg zeit gesetz einscannen
