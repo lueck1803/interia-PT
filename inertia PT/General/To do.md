@@ -308,6 +308,7 @@
 	- Leergewicht: 16 kg (Stahlfass)
 - [ ] Duolingo
 - [ ] Fußmatte saugen 
+- [ ] nochmal schwere Aufgaben schriftlich Grundrechenarten für
 - [x] nochmal checken was mit der it support vom Schulportal geschrieben hat
 	- [ ] mit Jamil reden 
 - [ ] freddy schreiben
