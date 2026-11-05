@@ -308,6 +308,16 @@
 	- Leergewicht: 16 kg (Stahlfass)
 - [ ] Duolingo
 - [ ] Physikbuch kleben
+- [ ] Physik 8er bas curriculum schauen, wohl elehre
+	- [ ] ja wechsel auf elehre unbedingt 
+	- [ ] Blick ins Buch und arbeiten mit dem Buch.
+	- [ ] Arbeitsblatt von lio für e-lehre überarbeiten
+	- [ ] Einführungsstunde für E-lehre planen
+	- [ ] curriculum von johannes anschauen + mit hessischem vergleichen
+- [ ] curriculum physik 10er anschauen
+	- [ ] bas curriculum vgl mit hessen
+	- [ ] lektion Energie vorbereiten
+- [ ] gaaaanz hart heroes to us üben
 - [ ] Hamza war nicht in Mathe 
 - [ ] Bart schön schneiden 
 - [x] Salma fragen, ob ihre mutter etwas gesagt hat
@@ -330,12 +340,12 @@
 - [x] Einkauf weg und eintragen  %% fold %%
 	- [x] 2 Hacktomaten  %% fold %%
 	- [x] 3 fussili
-	- [x] 2 tortiglioni
+	- [x] 2 tortiglioni %% fold %%
 	- [x] 1 Tomatenmark 
 - [x] Einkaufswagen zurück 
 - [ ] Sportsachen wegräumen 
 - [ ] Loch in grauem T-Shirt flicken 
-- [ ] Unbedingt die 8b Bewertungsdinger machen 
+- [x] Unbedingt die 8b Bewertungsdinger machen 
 	- [ ] Donnerstag Frau Antes bringen 
 	- [x] Frau Antes schreiben - über schul.cloud
 - [ ] duschen 
@@ -364,9 +374,7 @@
 - [ ] in prisma Physik 1 schauen 
 - [x] <font color="#7fffd4">amela</font> darf bleiben, aber muss Liste extra führen für ihre Noten 
 	- [ ] Excel-Tabelle für sie anlegen 
-- [ ] Physik 8er bas curriculum schauen, wohl elehre
-	- [ ] ja wechsel auf elehre unbedingt 
-	- [ ] Blick ins Buch und arbeiten mit dem Buch.
+
 - [x] maya antworten 
 - [ ] 10b in die Gruppe schreiben 
 	- [ ] von heute abtippen 
@@ -392,7 +400,7 @@
 		- [ ] Mail abwarten 
 - [x] luftpacks in den Keller
 - [ ] Paprika ernten 
-- [ ] essen in den Kühlschrank
+- [ ] essen in den Kühlschrank %% fold %%
 - [ ] hydraulische presse bauen  %% fold %%
 - [x] Fachkonferenz Mathematik am 9.11 eintragen  %% fold %%
 	- [ ] Ort und Uhrzeit ist noch nicht fest %% fold %%
