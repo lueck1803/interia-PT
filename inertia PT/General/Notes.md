@@ -360,7 +360,7 @@ Es ist jedenfalls immer etwas bemerkenswertes wenn man eines Sinnes oder einer s
 Man lernt so unglaublich viel. 
 
 Und doch ja ich habe es verdient. Das ist ja keine Strafe, sondern ein Hinweis, ein Erkenntnisgewinn, eine Möglichkeit zu lernen. 
-
+ %% fold %%
 Mal schauen ob ich den schon hatte bzw. Noch haben werde. 
 
 Es ist jedenfalls immer etwas bemerkenswertes wenn man eines Sinnes oder einer sonst gewohnten Fähigkeit beraubt wird. 
