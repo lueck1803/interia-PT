@@ -307,6 +307,8 @@
 	- Höhe: 88cm
 	- Leergewicht: 16 kg (Stahlfass)
 - [ ] Duolingo
+- [x] nochmal checken was mit der it support vom Schulportal geschrieben hat
+	- [ ] mit Jamil reden 
 - [ ] freddy schreiben
 - [ ] fußnägel
 - [ ] Arbeitsblatt 8er
