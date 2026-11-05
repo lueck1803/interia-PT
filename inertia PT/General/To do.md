@@ -307,6 +307,8 @@
 	- Höhe: 88cm
 	- Leergewicht: 16 kg (Stahlfass)
 - [ ] Duolingo
+- [ ] wasserhahn im bad putzen + silikon
+- [ ] wasserhahn küche putzen + silikon
 - [ ] physikbuch seiten zum weg zeit gesetz einscannen
 	- [ ] scans zuschneiden und zusammen fügen
 	- [ ] 8ern und 10ern zur Verfügung stellen
@@ -322,6 +324,8 @@
 	- [ ] lektion Energie vorbereiten
 - [ ] handout physik 10 druck schreiben
 - [ ] gaaaanz hart heroes to us üben
+	- [ ] auch mal rhythm anschauen
+- [ ] <font color="#ff0000">black waltz akustik teil</font>
 - [ ] Hamza war nicht in Mathe 
 - [ ] Bart schön schneiden 
 - [x] Salma fragen, ob ihre mutter etwas gesagt hat
