@@ -307,6 +307,7 @@
 	- Höhe: 88cm
 	- Leergewicht: 16 kg (Stahlfass)
 - [ ] Duolingo
+- [ ] Physikbuch kleben
 - [ ] Hamza war nicht in Mathe 
 - [ ] Bart schön schneiden 
 - [x] Salma fragen, ob ihre mutter etwas gesagt hat
@@ -394,7 +395,7 @@
 - [ ] essen in den Kühlschrank
 - [ ] hydraulische presse bauen  %% fold %%
 - [x] Fachkonferenz Mathematik am 9.11 eintragen  %% fold %%
-	- [ ] Ort und Uhrzeit ist noch nicht fest
+	- [ ] Ort und Uhrzeit ist noch nicht fest %% fold %%
 - [x] Fachkonferenz Physik am 10.11 14 Uhr Bioraum für den NaWi-Teil, anschließend Raum PH2
 - [ ] Matheunterricht für 5er vorbereiten 
 	- [ ] Nochmal die Grundrechenarten üben
