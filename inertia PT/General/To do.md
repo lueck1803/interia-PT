@@ -327,7 +327,7 @@
 - [x] nochmal checken was mit der it support vom Schulportal geschrieben hat
 	- [ ] mit Jamil reden 
 - [x] freddy schreiben
-- [ ] fußnägel
+- [x] fußnägel
 - [ ] Arbeitsblatt 8er
 	- [x] zum Einheiten umrechnen
 		- [x] nochmal erklärung - besser
