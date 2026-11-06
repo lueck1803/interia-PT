@@ -308,10 +308,10 @@
 	- Leergewicht: 16 kg (Stahlfass)
 - [ ] Duolingo
 - [ ] aok app Nachricht lesen
-- [ ] Pesto und grüne Erbsen austragen 
+- [x] Pesto und grüne Erbsen austragen 
 - [x] Tafelfoto in 8c Gruppe 
-- [ ] brühguppe putzen
-- [ ] Kaffeesatz 
+- [x] brühguppe putzen
+- [x] Kaffeesatz
 - [ ] Notenkorrektur Marie+35 -> 1
 - [x] yasin schul cloud Gruppe 
 - [x] arbeitsblattergänzung zu Einheiten Umrechnen 
@@ -326,7 +326,7 @@
 - [ ] nochmal schwere Aufgaben schriftlich Grundrechenarten für die die fertig sind zusammen stellen. Überprüfen ob sie f er rig sind 
 - [x] nochmal checken was mit der it support vom Schulportal geschrieben hat
 	- [ ] mit Jamil reden 
-- [ ] freddy schreiben
+- [x] freddy schreiben
 - [ ] fußnägel
 - [ ] Arbeitsblatt 8er
 	- [x] zum Einheiten umrechnen
