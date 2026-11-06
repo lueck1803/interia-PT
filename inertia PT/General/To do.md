@@ -309,6 +309,7 @@
 - [ ] Duolingo
 - [ ] aok app Nachricht lesen
 - [x] Tafelfoto in 8c Gruppe 
+- [ ] staubsaugen
 - [ ] brühguppe putzen
 - [ ] Kaffeesatz 
 - [ ] Notenkorrektur Marie+35 -> 1
