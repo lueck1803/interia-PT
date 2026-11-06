@@ -17,6 +17,8 @@
 # Aldi
 ## Jetzt
 - Einkaufswagen 
+- [ ] Toast 
+- [ ] Nudelsoße
 - [x] Käse 
 - [x] Nudeln 
 - [x] Frischkäse Kräuter 
@@ -24,7 +26,6 @@
 - [x] Hummus
 - [x] bananen
 - [x] spaghetti Kürbis?
-- [x] Toast 
 - [x] 405er mehl
 - [x] Zucker 
 - [x] Nussnougat 
