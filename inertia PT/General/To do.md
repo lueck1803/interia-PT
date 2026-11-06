@@ -310,6 +310,7 @@
 - [ ] aok app Nachricht lesen
 - [ ] Restmüll runter
 - [ ] Erbsen sind auch nach 35 min Brei 😅
+- [ ] Spülmaschine ausräumen 
 - [x] Pesto und grüne Erbsen austragen 
 - [x] Tafelfoto in 8c Gruppe 
 - [x] brühguppe putzen
