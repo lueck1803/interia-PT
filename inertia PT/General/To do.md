@@ -308,6 +308,7 @@
 	- Leergewicht: 16 kg (Stahlfass)
 - [ ] Duolingo
 - [ ] aok app Nachricht lesen
+- [ ] Pesto und grüne Erbsen austragen 
 - [x] Tafelfoto in 8c Gruppe 
 - [ ] brühguppe putzen
 - [ ] Kaffeesatz 
