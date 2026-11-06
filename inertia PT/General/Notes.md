@@ -404,7 +404,7 @@ Am tragischten dann wenn man eigentlich etwas Gutes möchte.
 
 Du hast "ist kompliziert" geschrieben. 
  %% fold %%
-Ich hätte jetzt nachgefragt. Aber ich hatte ja schon drei Fragen gestellt. 
+Ich hätte jetzt nachgefragt. Aber ich hatte ja schon drei Fragen gestellt.  %% fold %%
 
 Wenn du gewollt hättest zu antworten, hättest du es ja tun können. 
 
