@@ -309,6 +309,7 @@
 - [ ] Duolingo
 - [ ] aok app Nachricht lesen
 - [ ] Tafelfoto in 8c Gruppe 
+- [ ] Notenkorrektur 
 - [ ] yasin schul cloud Gruppe 
 - [ ] arbeitsblattergänzung zu Einheiten Umrechnen 
 	- [ ] Aufgaben nummerieren
