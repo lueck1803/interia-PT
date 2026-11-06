@@ -307,6 +307,7 @@
 	- Höhe: 88cm
 	- Leergewicht: 16 kg (Stahlfass)
 - [ ] Duolingo
+- [ ] arbeits
 - [x] Punkte pro Aufgabe und insgesamt plus Note für jeden schüler notieren
 	- [x] plus 10 punkte für die die 13 kinder bei der d hingeschrieben haben
 - [ ] Kapitel fluide/druck einscannen
