@@ -311,39 +311,20 @@
 - [ ] Restmüll runter
 - [ ] Erbsen sind auch nach 35 min Brei 😅
 - [ ] Spülmaschine ausräumen 
-- [x] Pesto und grüne Erbsen austragen 
-- [x] Tafelfoto in 8c Gruppe 
-- [x] brühguppe putzen
-- [x] Kaffeesatz
-- [x] Notenkorrektur Marie+35 -> 1
-- [x] yasin schul cloud Gruppe 
-- [x] arbeitsblattergänzung zu Einheiten Umrechnen 
-	- [x] Aufgaben nummerieren
-	- [x] 8a mitteilen 
-		- [x] Nummerierung 
-		- [x] Hausaufgabe - bewertet 
-- [x] Punkte pro Aufgabe und insgesamt plus Note für jeden schüler notieren
-	- [x] plus 10 punkte für die die 13 kinder bei der d hingeschrieben haben
 - [ ] Kapitel fluide/druck einscannen
 - [ ] Fußmatte saugen 
 - [ ] nochmal schwere Aufgaben schriftlich Grundrechenarten für die die fertig sind zusammen stellen. Überprüfen ob sie f er rig sind 
 - [x] nochmal checken was mit der it support vom Schulportal geschrieben hat
 	- [ ] mit Jamil reden 
-- [x] freddy schreiben
-- [x] fußnägel
 - [ ] Arbeitsblatt 8er
 	- [x] zum Einheiten umrechnen
 		- [x] nochmal erklärung - besser
 		- [x] mit Aufgaben aus etit und giancolli
 	- [x] mit Übergang zur E-lehre
 - [ ] E-lehre aus physikbuch einscannen
-- [x] reifendruck fahrrad
 - [ ] stunde vom mittwoch 10er abtippen + 10er zur verfügung stellen
 - [ ] wasserhahn im bad putzen + silikon
 - [ ] wasserhahn küche putzen + silikon
-- [x] physikbuch seiten zum weg zeit gesetz einscannen
-	- [x] scans zuschneiden und zusammen fügen
-	- [x] 8ern und 10ern zur Verfügung stellen
 - [ ] Physikbuch kleben
 - [ ] Physik 8er bas curriculum schauen, wohl elehre
 	- [ ] ja wechsel auf elehre unbedingt 
@@ -395,7 +376,7 @@
 
 - [ ] 10b in die Gruppe schreiben 
 	- [ ] von heute abtippen 
-	- [ ] auch der 10a schicken. Sie sollen sich das mal anschauen 
+	- [ ] auch der 10a schicken. Sie sollen sich das mal anschauen  %% fold %%
 - kursmappe
 	- [x] m 5a %% fold %%
 	- [x] m 8a
@@ -405,7 +386,7 @@
 	- [x] p 8c %% fold %%
 	- [x] p 10b %% fold %%
 	- [x] p 10a
-- [ ] Paprika ernten 
+- [ ] Paprika ernten  %% fold %%
 - [ ] essen in den Kühlschrank %% fold %%
 - [ ] hydraulische presse bauen  %% fold %%
 - [x] Fachkonferenz Mathematik am 9.11 eintragen  %% fold %%
