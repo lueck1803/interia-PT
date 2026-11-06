@@ -308,10 +308,11 @@
 	- Leergewicht: 16 kg (Stahlfass)
 - [ ] Duolingo
 - [ ] aok app Nachricht lesen
-- [ ] Tafelfoto in 8c Gruppe 
+- [x] Tafelfoto in 8c Gruppe 
 - [ ] brühguppe putzen
+- [ ] Kaffeesatz 
 - [ ] Notenkorrektur Marie+35 -> 1
-- [ ] yasin schul cloud Gruppe 
+- [x] yasin schul cloud Gruppe 
 - [ ] arbeitsblattergänzung zu Einheiten Umrechnen 
 	- [ ] Aufgaben nummerieren
 	- [ ] 8a mitteilen 
@@ -327,10 +328,10 @@
 - [ ] freddy schreiben
 - [ ] fußnägel
 - [ ] Arbeitsblatt 8er
-	- [ ] zum Einheiten umrechnen
-		- [ ] nochmal erklärung - besser
-		- [ ] mit Aufgaben aus etit und giancolli
-	- [ ] mit Übergang zur E-lehre
+	- [x] zum Einheiten umrechnen
+		- [x] nochmal erklärung - besser
+		- [x] mit Aufgaben aus etit und giancolli
+	- [x] mit Übergang zur E-lehre
 - [ ] E-lehre aus physikbuch einscannen
 - [x] reifendruck fahrrad
 - [ ] stunde vom mittwoch 10er abtippen + 10er zur verfügung stellen
