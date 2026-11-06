@@ -313,11 +313,11 @@
 - [ ] Kaffeesatz 
 - [ ] Notenkorrektur Marie+35 -> 1
 - [x] yasin schul cloud Gruppe 
-- [ ] arbeitsblattergänzung zu Einheiten Umrechnen 
-	- [ ] Aufgaben nummerieren
-	- [ ] 8a mitteilen 
-		- [ ] Nummerierung 
-		- [ ] Hausaufgabe - bewertet 
+- [x] arbeitsblattergänzung zu Einheiten Umrechnen 
+	- [x] Aufgaben nummerieren
+	- [x] 8a mitteilen 
+		- [x] Nummerierung 
+		- [x] Hausaufgabe - bewertet 
 - [x] Punkte pro Aufgabe und insgesamt plus Note für jeden schüler notieren
 	- [x] plus 10 punkte für die die 13 kinder bei der d hingeschrieben haben
 - [ ] Kapitel fluide/druck einscannen
