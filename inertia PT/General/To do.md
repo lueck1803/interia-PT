@@ -312,7 +312,7 @@
 - [x] Tafelfoto in 8c Gruppe 
 - [x] brühguppe putzen
 - [x] Kaffeesatz
-- [ ] Notenkorrektur Marie+35 -> 1
+- [x] Notenkorrektur Marie+35 -> 1
 - [x] yasin schul cloud Gruppe 
 - [x] arbeitsblattergänzung zu Einheiten Umrechnen 
 	- [x] Aufgaben nummerieren
