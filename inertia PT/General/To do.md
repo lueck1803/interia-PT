@@ -309,6 +309,7 @@
 - [ ] Duolingo
 - [ ] aok app Nachricht lesen
 - [ ] Restmüll runter
+- [ ] 
 - [x] Pesto und grüne Erbsen austragen 
 - [x] Tafelfoto in 8c Gruppe 
 - [x] brühguppe putzen
