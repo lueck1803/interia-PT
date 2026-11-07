@@ -19,6 +19,7 @@
 - Einkaufswagen 
 - [ ] Toast 
 - [ ] Nudelsoße
+- [ ] 3Liter Gefrierbeutel 
 - [x] Käse 
 - [x] Nudeln 
 - [x] Frischkäse Kräuter 

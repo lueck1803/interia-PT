@@ -308,6 +308,8 @@
 	- Leergewicht: 16 kg (Stahlfass)
 - [ ] Duolingo
 - [ ] aldi
+- [ ] Toilette putzen 
+- [ ] Briefkasten 
 - [ ] 60° Wäsche
 	- [x] anstellen 
 	- [ ] schleudern 
