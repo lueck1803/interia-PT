@@ -307,15 +307,18 @@
 	- Höhe: 88cm
 	- Leergewicht: 16 kg (Stahlfass)
 - [ ] Duolingo
-- [ ] aldi
-- [ ] Toilette putzen 
+- [x] aldi
+- [x] Toilette putzen 
+- [ ] eintragen 
+	- [ ] 3 Nudelsoße 
+	- [ ] 2 Tomatendosen 
 - [ ] eine Stunde korrigieren 
 - [ ] Tisch wischen 
 - [ ] jamil nochmal wegen dem byod Zugang fragen 
 - [ ] Briefkasten 
 - [ ] 60° Wäsche
 	- [x] anstellen 
-	- [ ] schleudern 
+	- [x] schleudern 
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 - [x] Waage putzen 
