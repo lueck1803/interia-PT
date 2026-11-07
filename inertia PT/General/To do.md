@@ -314,7 +314,7 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 - [x] Waage putzen 
-- [ ] was mache ich mit den 5ern als besseres
+- [ ] was mache ich mit den 5ern als nächstes 
 - [ ] Emaille Form putzen 
 - [ ] aok app Nachricht lesen
 - [ ] Restmüll runter
