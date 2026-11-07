@@ -390,7 +390,7 @@ Lernen durch Schmerz.
 Und doch ja ich habe es verdient. Das ist ja keine Strafe, sondern ein Hinweis, ein Erkenntnisgewinn, eine Möglichkeit zu lernen. 
 
 Mal schauen ob ich den schon hatte bzw. Noch haben werde. 
-
+ %% fold %%
 Es ist jedenfalls immer etwas bemerkenswertes wenn man eines Sinnes oder einer sonst gewohnten Fähigkeit beraubt wird. 
 
 Man lernt so unglaublich viel. 
