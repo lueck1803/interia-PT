@@ -408,7 +408,7 @@ Und doch ja ich habe es verdient. Das ist ja keine Strafe, sondern ein Hinweis, 
  %% fold %%
 Mal schauen ob ich den schon hatte bzw. Noch haben werde. 
 
-Es ist jedenfalls immer etwas bemerkenswertes wenn man eines Sinnes oder einer sonst gewohnten Fähigkeit beraubt wird. 
+Es ist jedenfalls immer etwas bemerkenswertes wenn man eines Sinnes oder einer sonst gewohnten Fähigkeit beraubt wird.  %% fold %%
 
 Man lernt so unglaublich viel.  %% fold %%
 ### mia
@@ -848,7 +848,7 @@ Ja gut dass sie kein Verfassungsrichter geworden ist.
 
 Leihmutterschaft ist nichts anderes als Prostitution und dazu deutlich lebensgefährlicher.
 ## 2026-07-21 flo
-### 1
+### 1 %% fold %%
 Ja nach außen meinte ich...
 
 Die reden Recht wenig darüber wie christlich sie seien.
