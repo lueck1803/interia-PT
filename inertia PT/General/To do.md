@@ -307,6 +307,7 @@
 	- Höhe: 88cm
 	- Leergewicht: 16 kg (Stahlfass)
 - [ ] Duolingo
+- [ ] aldi
 - [ ] aok app Nachricht lesen
 - [ ] Restmüll runter
 - [ ] Erbsen sind auch nach 35 min Brei 😅
