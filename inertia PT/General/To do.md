@@ -318,6 +318,7 @@
 - [ ] Restmüll runter
 - [ ] Spülmaschine ausräumen 
 - [ ] Spülmaschine einräumen 
+- [ ] Dino Eier in den Kühlschrank 
 - [ ] Kapitel fluide/druck einscannen
 - [ ] Fußmatte saugen 
 - [ ] nochmal schwere Aufgaben schriftlich Grundrechenarten für die die fertig sind zusammen stellen. Überprüfen ob sie f er rig sind 
