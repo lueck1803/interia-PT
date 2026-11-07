@@ -309,6 +309,7 @@
 - [ ] Duolingo
 - [ ] aldi
 - [ ] Toilette putzen 
+- [ ] eine Stunde korrigieren 
 - [ ] Tisch wischen 
 - [ ] jamil nochmal wegen dem byod Zugang fragen 
 - [ ] Briefkasten 
