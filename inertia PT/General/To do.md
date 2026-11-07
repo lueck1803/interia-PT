@@ -314,6 +314,7 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 - [x] Waage putzen 
+- [ ] Emaille Form putzen 
 - [ ] aok app Nachricht lesen
 - [ ] Restmüll runter
 - [ ] Spülmaschine ausräumen 
