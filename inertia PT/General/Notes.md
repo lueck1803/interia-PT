@@ -103,6 +103,8 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+## 2026-11-07
+
 ## 2026-11-07 Nadine 
 Wollen würde ich ja es ist ein nicht können oder nicht die Energie dafür haben. 
 Denn die Kommunikation und das erinnern was jetzt in letzter Zeit war, kostet ja Energie.
