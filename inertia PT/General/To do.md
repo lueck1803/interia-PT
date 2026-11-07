@@ -314,6 +314,7 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 - [x] Waage putzen 
+- [ ] was mache ich mit den 5ern als besseres
 - [ ] Emaille Form putzen 
 - [ ] aok app Nachricht lesen
 - [ ] Restmüll runter
@@ -326,7 +327,7 @@
 - [ ] nochmal schwere Aufgaben schriftlich Grundrechenarten für die die fertig sind zusammen stellen. Überprüfen ob sie f er rig sind 
 - [x] nochmal checken was mit der it support vom Schulportal geschrieben hat
 	- [ ] mit Jamil reden 
-- [ ] Arbeitsblatt 8er
+- [x] Arbeitsblatt 8er
 	- [x] zum Einheiten umrechnen
 		- [x] nochmal erklärung - besser
 		- [x] mit Aufgaben aus etit und giancolli
