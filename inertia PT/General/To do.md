@@ -308,6 +308,7 @@
 	- Leergewicht: 16 kg (Stahlfass)
 - [ ] Duolingo
 - [ ] aldi
+- [ ] Waage putzen 
 - [ ] aok app Nachricht lesen
 - [ ] Restmüll runter
 - [ ] Erbsen sind auch nach 35 min Brei 😅
