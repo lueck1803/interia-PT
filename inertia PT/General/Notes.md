@@ -103,6 +103,42 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+## 2026-11-07 Nadine 
+Wollen würde ich ja es ist ein nicht können oder nicht die Energie dafür haben. 
+Denn die Kommunikation und das erinnern was jetzt in letzter Zeit war, kostet ja Energie.
+
+Ich würde ja wenn auch erzählen wie es mir dann zwischen zeitlich immer mal geht/ging, aber... Da werde/wurde ich nicht ernst genommen. 
+
+
+Aber ja.. doch. Ich will nicht erzählen wie es mir geht. Generell will ich das weniger. Denn es ist schlicht egal. 
+Ich komme klar.
+Das ist mein Problem. Ich muss da Ordnung halten. 
+
+Ich hab zu viel über mich erzählt/geredet. 
+
+Ich hab aber auch einfach keine Lust auf deren Reaktionen. 
+
+Ich bin ein anderer Mensch. 
+
+Wenn die Kinder in der Schule traurig sind oder verzweifeln, dann nehme ich die ernst und fang sie auf. 
+Ich werfe denen nicht die Geduld vor die sie in mir erzeugen. 
+
+Meine Mutter wirft mir ja auch vor dass sie sich Sorgen macht. 
+Dabei gibt es keinen Grund. 
+
+Mir tut es ja leid so zu sein wie gestern. Und ja die denkt dann sie hätte etwas getan. 
+
+Ich hab ihr ja ganz freundlich gesagt, nein ihr habt gar nichts getan, ich sehe da einfach keinen Sinn drin darüber zu reden. 
+Es funktioniert ja auch nicht. 
+
+Und das werfe ich denen doch gar nicht vor. Ich gehe im einfachsten Fall davon aus, dass es an mir liegt oder zwischenmenschlich. 
+
+Ich möchte mich auch einfach emotional distanzieren, dass ist ein Schutz um funktionieren zu können. 
+
+Ich hab meine kompletten 20iger damit verbracht mir Sorgen um meine Eltern zu machen und mich schlecht und schuldig zu fühlen. 
+
+Das war dumm und mein Fehler. Auch wenn er durch meine Mutter anerzogen ist. Ich hab es aber nicht früher geschafft durch Kognition von dem Muster zu lösen. 
+
 ## 2026-10-25 Nadine 
 Fühlst du dich bei der Thematik unwohl? 
 
@@ -452,7 +488,7 @@ Für den Auftritt haben wir es dann aber verworfen.
 Zumal da eh erstmal kein wir war... 
 
 Ich stand ja alleine da, da der da Urlaub gebucht hatte. 
-
+ %% fold %%
 Wir hatten mal wieder aneinander vorbei geredet... 
 
 Und am Ende standen wir durch Zufall doch auf der Bühne. 
