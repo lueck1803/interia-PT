@@ -308,6 +308,11 @@
 	- Leergewicht: 16 kg (Stahlfass)
 - [ ] Duolingo
 - [ ] aldi
+- [ ] 60° Wäsche
+	- [x] anstellen 
+	- [ ] schleudern 
+	- [ ] aufhängen 
+	- [ ] zusammen legen
 - [ ] Waage putzen 
 - [ ] aok app Nachricht lesen
 - [ ] Restmüll runter
@@ -395,7 +400,7 @@
 - [x] Fachkonferenz Physik am 10.11 14 Uhr Bioraum für den NaWi-Teil, anschließend Raum PH2
 - [ ] Matheunterricht für 5er vorbereiten 
 	- [ ] Nochmal die Grundrechenarten üben
-- [ ] Mathearbeit 5er korrigieren 
+- [ ] Mathearbeit 5er korrigieren  %% fold %%
 - [x] swamphell solo
 - [ ] Spülmaschine ausräumen und Spülmaschinensalz checken 
 - [ ] 30° Wäsche
