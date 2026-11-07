@@ -103,8 +103,15 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
-## 2026-11-07
+## 2026-11-07 Nadine 
 
+Ich schreibe meinen Eltern glaube ich einfach nochmal was ich denen gesagt habe. 
+
+"Ihr habt mir nichts getan. Es gibt keinen Grund euch Sorgen zu machen. Macht euch also keine Sorgen. Ich mache meine Sachen mit mir aus. Ich bin euch wegen nichts böse. Es gibt keinen Grund dafür. Was sollt ihr auch bitte getan haben? Wie kommt ihr denn darauf? Wir hatten schließlich wenig Kontakt. Ich halte es schlicht für unnötig darüber zu reden, wie es mir geht. Das ist meine Aufgabe. Es kostet mich Energie darüber zu reden und es ist schlicht egal. Es tut nichts zur Sache. Es löst keine Probleme oder Aufgaben. Ich versuche meinen Frieden mit mir zu machen, darin möchte ich euch nicht hineinziehen. 
+Es ist schlicht anstrengend über mich zu berichten. Ich komme mir dann vor wie bei ner Arbeitsbesprechung oder einer Rechtfertigung wenn ich über mich reden soll bzw. Wie es mir geht. 
+Das hat nichts mit euch zu tun, sondern ist allgemein bei mir so.... '
+
+OK naja eigentlich hat es schon etwas mit ihnen zu tun, denn sie wollen ja nur etwas Gutes hören und keine Probleme, was ja wie ein Arbeits/Erfolgsbericht ist. 
 ## 2026-11-07 Nadine 
 Wollen würde ich ja es ist ein nicht können oder nicht die Energie dafür haben. 
 Denn die Kommunikation und das erinnern was jetzt in letzter Zeit war, kostet ja Energie.
@@ -463,7 +470,7 @@ Danach ärgere ich mich darüber, dass ich so viel und was ich geschrieben habe.
 Es war für mich eine so lange Zeit mit null bis wenig sozialen Interaktionen, da ich über lange Zeit immer mehr das Gefühl hatte, dabei ständig etwas falsch zu machen/darin zu scheitern und eine Katastrophale Auswirkung auf Menschen zu haben. 
 
 Die Schule ist bei mir eher ein sich von einer sozialen Interaktion zur nächsten treiben und hingelenkt werden lassen, als ein von mir aktiv gesteuerter Prozess. 
-
+ %% fold %%
 Wenn so liebe Leute wie ihr dann von mir etwas wissen oder mit mir in Interaktion treten wollen, dann freut mich das natürlich und ich versuche dem bestmöglich nachzukommen. 
 
 Ich weiß dann aber häufig nicht womit ich die Grenzen der Anderen und auch meine überschreite. 
