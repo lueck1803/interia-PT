@@ -311,7 +311,6 @@
 - [ ] Waage putzen 
 - [ ] aok app Nachricht lesen
 - [ ] Restmüll runter
-- [ ] Erbsen sind auch nach 35 min Brei 😅
 - [ ] Spülmaschine ausräumen 
 - [ ] Kapitel fluide/druck einscannen
 - [ ] Fußmatte saugen 

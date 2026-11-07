@@ -2732,6 +2732,7 @@ Tage produktiv gewesen:
 - Berglinsen: 1h
 - Wachtellinsen: 1h
 - geschälte grüne Erbsen: 45 min
+	- Erbsen sind auch nach 35 min Brei 😅
 # Gartenarbeit und Pflanzen
 - gekaufte Pflanzen <u>vor dem Umtopfen 
 </u>entweder 
