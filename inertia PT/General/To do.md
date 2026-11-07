@@ -407,7 +407,7 @@
 - [x] Physikaufgabe 8er zum Einheiten umrechnen mit litern und Gallonen raus suchen
 	- [x] ![[../../Pasted image 20261103230812.png]]
 	- [x] ![[../../Pasted image 20261103231141.png]]
-- [ ] Lotus 🪷 checken 
+- [x] Lotus 🪷 checken 
 - [ ] gemeinsamer Nachschreibe Termin wie läuft das?
 - [ ] Apple TV einrichten am Mac 
 	- [ ] wie verbinde ich das?
