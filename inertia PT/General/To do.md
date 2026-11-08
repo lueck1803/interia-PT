@@ -314,12 +314,14 @@
 
 
 - [x] Duolingo
+- [ ] Strahlensatz auf 
 - [ ] zählen wie viele Physikblätter ich für die 8b habe.
 	- [ ] ⤷ E-Lehre Arbeitsblätter für 8b drucken.
 	- [ ] Wie viele Arbeitsblätter für die Ergänzungsaufgabe habe ich noch?
 - [ ] HNO Termin vom 19.11 verlegen wegen Stundenplanänderung 
 - [ ] Mathe nachschreiben
 	- [ ] Nachschreiberegelung checken
+	- [ ] wie viele Arbeiten habe ich noch?
 	- [ ] 8a
 		- [ ] Salma Adnan
 		- [ ] Hamza Azaouagh
@@ -329,10 +331,10 @@
 		- [ ] Ismail
 - [ ] mit spritze ausprobieren Vakuum zu erzeugen / Wasser kocht.
 - [ ] Alle Winkel identitäten an geometrischen Objekten aufschreiben
-	- [ ] Winkel an Parallelen aufschreiben 
+	- [ ] Winkel an Parallelen aufschreiben  %% fold %%
 	- [ ] Winkel am Kreis  %% fold %%
-		- [ ] Satz des Thales
-		      ![[../../01_Satz_des_Thales.gif]]
+		- [ ] Satz des Thales %% fold %%
+		      ![[../../01_Satz_des_Thales.gif]] %% fold %%
 		  - Halbkreis: Winkel des gegenüberliegenden Winkels (Punkt C, Winkel $\gamma$) der Durchmesserlinie ist immer 90° falls der Punkt C auf der Kreislinie liegt
 		  - Falls der Punkt C außerhalb des Halbkreises liegt, ist der Winkel $\gamma<90°$
 		  - Falls der Punkt C innerhalb des Halbkreises liegt, ist der Winkel $\gamma>90°$ 
