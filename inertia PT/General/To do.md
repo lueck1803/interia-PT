@@ -306,7 +306,7 @@
 	- [ ] zusammen legen
 
 - [ ] Küche 
-- [ ] Essen 
+- [x] Essen 
 - [ ] Staubsaugen
 - [ ] wischen 
 - [ ] Duschen + Rasieren
