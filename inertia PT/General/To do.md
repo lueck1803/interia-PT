@@ -339,13 +339,13 @@
 - [ ] Briefkasten 
 - [ ] 60° Wäsche
 	- [x] anstellen 
-	- [ ] schleudern 
+	- [x] schleudern 
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 - [ ] 60° Wäsche
 	- [x] anstellen 
 	- [x] schleudern 
-	- [ ] aufhängen 
+	- [x] aufhängen 
 	- [ ] zusammen legen
 - [x] Waage putzen 
 - [ ] was mache ich mit den 5ern als nächstes 
