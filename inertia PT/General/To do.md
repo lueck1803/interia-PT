@@ -309,6 +309,14 @@
 - [x] Duolingo
 - [x] aldi
 - [x] Toilette putzen 
+- [ ] Mathe nachschreiben
+	- [ ] 8a
+		- [ ] Salma 
+		- [ ] Hamza
+	- [ ] 8b
+		- [ ] Rohiv
+		- [ ] Shanaja
+		- [ ] Ismail
 - [ ] Duschen + Rasieren
 - [ ] E-Lehre Arbeitsblätter für 8b drucken.
 - [ ] Xournal++ switch für zeichen tools bauen
