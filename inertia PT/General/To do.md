@@ -326,6 +326,7 @@
 			    ⟹ $\gamma<90°$
 			  - Grundlinie oberhalb des Mittelpunkts 
 			    ⟹ $\gamma>90°$
+- [ ] Ähnlichkeit von Dreiecken
 - [ ] eders Rätsel aufschreiben 
 - [ ] eintragen 
 	- [ ] 3 Nudelsoße 
