@@ -553,7 +553,7 @@ Du bist da anders. Du bist sehr kompatibel, fügst dich ein, bist zurück halten
 Mia juckt das glaube ich erstmal gar nicht, sie will fair behandelt werden und sein dürfen wie sie ist. 
 
 Das darfst du auch. Ich weiß es ist überhaupt nicht leicht zu wissen wer man ist, wo man hingehört und wie man sein "soll".
-
+ %% fold %%
 Das "wer bin ich" hat mich auch sehr lange verfolgt. Das Gefühl nicht richtig zu sein, nirgendwo hinzugehören, lieber wieder weg als hier Raum einzunehmen und etwas für mich beanspruchen.
 
 Sich erst in einer Situation wieder zufinden, sich dort wahrzunehmen und festzustellen, "was mach ich hier, ich bin hier falsch, ich bin hier nicht richtig, was denken die anderen, ich bin nicht gut genug, was ist über mich gekommen hier hingelangt zu sein, schnell wegducken, entschuldigen und dann wieder ins verträumte weg retten" 
