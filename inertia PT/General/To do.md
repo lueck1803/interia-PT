@@ -463,7 +463,7 @@
 - [ ] Nachricht von eBay lesen 
 - [ ] Muffinformen putzen 
 - [ ] duschen 
-- [ ] Physik 10. Klassenarbeit : Tabelle mit Einheiten und symbolen zum Ausfüllen 
+- [ ] Physik 10. Klassenarbeit : Tabelle mit Einheiten und symbolen zum Ausfüllen  %% fold %%
 - [ ] Mathe-Wettbewerb 
 	- [ ] e kurs b arbeit
 	- [ ] g kurs c Arbeit 
@@ -848,7 +848,7 @@
 	- ich bin euch persönlich nicht böse 
 	- ich verstehe wenn man keine Lust hat und sich nicht konzentrieren kann
 	- so lange ihr auf dem Schulgelände seid, trage ich euch nicht als fehlend ein
-	- ich hab hier lieber Ruhe und eure Mitarbeit ist wenn ihr so laut seid besser wenn ihr außerhalb der Klasse seid 
+	- ich hab hier lieber Ruhe und eure Mitarbeit ist wenn ihr so laut seid besser wenn ihr außerhalb der Klasse seid  %% fold %%
 	- ihr müsst kein Mathe machen wenn ihr kein Bock habt. Ihr müsst auch keinen Abschluss machen. Es zwingt euch keiner dazu. Zumindest ich nicht. Ich halte nix vom Schulzwang. %% fold %%
 	- mein Unterricht ist ein Angebot
 	- entweder ihr seid hier und tragt konstruktiv mit eurem Redeanteil zum Unterricht bei
