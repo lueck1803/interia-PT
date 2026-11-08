@@ -315,7 +315,9 @@
 - [ ] mit spritze ausprobieren Vakuum zu erzeugen / Wasser kocht.
 - [ ] Alle Winkel identitäten an geometrischen Objekten aufschreiben
 	- [ ] Winkel an Parallelen aufschreiben 
-	- [ ] Winkel am Kreis
+	- [ ] Winkel am Kreis 
+		- [ ] Satz des Thales
+		      ![[../../01_Satz_des_Thales.gif]]
 - [ ] eders Rätsel aufschreiben 
 - [ ] eintragen 
 	- [ ] 3 Nudelsoße 
