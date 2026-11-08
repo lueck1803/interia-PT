@@ -349,7 +349,7 @@
 - [ ] 60° Wäsche
 	- [x] anstellen 
 	- [x] schleudern 
-	- [ ] aufhängen 
+	- [x] aufhängen 
 	- [ ] zusammen legen
 - [ ] 60° Wäsche
 	- [x] anstellen 
