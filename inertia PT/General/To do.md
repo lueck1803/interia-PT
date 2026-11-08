@@ -314,7 +314,8 @@
 - [ ] Wie viele Arbeitsblätter für die Ergänzungsaufgabe habe ich noch?
 - [ ] mit spritze ausprobieren Vakuum zu erzeugen / Wasser kocht.
 - [ ] Alle Winkel identitäten an geometrischen Objekten aufschreiben
-		- [ ] Winkel an Pa rallelen aufschreiben 
+	- [ ] Winkel an Parallelen aufschreiben 
+	- [ ] Winkel am Kreis
 - [ ] eders Rätsel aufschreiben 
 - [ ] eintragen 
 	- [ ] 3 Nudelsoße 
