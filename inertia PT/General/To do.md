@@ -309,6 +309,7 @@
 - [x] Duolingo
 - [x] aldi
 - [x] Toilette putzen 
+- [ ] Duschen + Rasieren
 - [ ] E-Lehre Arbeitsblätter für 8b drucken.
 - [ ] Xournal++ switch für zeichen tools bauen
 - [ ] Wie viele Arbeitsblätter für die Ergänzungsaufgabe habe ich noch?
