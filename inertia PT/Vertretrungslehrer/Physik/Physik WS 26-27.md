@@ -292,6 +292,16 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 
 # 10er
 
+- 1 barrel öl - 158,99 Liter - 55 Gallonen
+	- Fassvolumen - 200 Liter
+	- Durchmesser 58cm
+	- Höhe: 88cm
+	- Leergewicht: 16 kg (Stahlfass)
+
+- Physikaufgabe 8er zum Einheiten umrechnen mit litern und Gallonen raus suchen
+	- ![[Pasted image 20261103230812.png]]
+	- ![[../../../Pasted image 20261103231141.png]]
+
 ## 2026-08-26/27
 - $\pu{ 1Pa }=\pu{ 1 N/m2 }$
 - $\pu{  1 bar} = \pu{  103 mbar} = \pu{ 100 kPa }$
@@ -392,7 +402,7 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 - $=\rho_{\text{Fe}}\cdot V_{\text{Kugel}}$
 - $=\rho_{\text{Fe}}\cdot \frac{4}{3}\pi r^{3}$ %% fold %%
 - $=\frac{4}{3}\pi \cdot \pu{7,87 \frac{g}{\cancel{ cm^3 }}  }\cdot (\pu{ 18\cancel{ cm } })^{3}$
-- $=\pu{192256g  }\approx\pu{192,26kg  }$
+- $=\pu{192256g  }\approx\pu{192,26kg  }$ %% fold %%
 - ⤷ im letzten Schritt wurde auf die 2te Nachkommastelle gerundet.
 
 <u>Gleichung umstellen:</u>

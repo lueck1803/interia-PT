@@ -299,7 +299,11 @@
 - <font color="#7cfc00">Selbstbefreiung hören</font> 
 - <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
-
+- [ ] Wäsche
+	- [ ] anstellen 
+	- [ ] schleudern 
+	- [ ] aufhängen 
+	- [ ] zusammen legen
 
 - [ ] Küche 
 - [ ] Essen 
@@ -308,11 +312,7 @@
 - [ ] Duschen + Rasieren
 - [ ] Korrektur 
 
-- 1 barrel öl - 158,99 Liter - 55 Gallonen
-	- Fassvolumen - 200 Liter
-	- Durchmesser 58cm
-	- Höhe: 88cm
-	- Leergewicht: 16 kg (Stahlfass)
+
 - [x] Duolingo
 - [ ] zählen wie viele Physikblätter ich für die 8b habe.
 	- [ ] ⤷ E-Lehre Arbeitsblätter für 8b drucken.
@@ -330,7 +330,7 @@
 - [ ] mit spritze ausprobieren Vakuum zu erzeugen / Wasser kocht.
 - [ ] Alle Winkel identitäten an geometrischen Objekten aufschreiben
 	- [ ] Winkel an Parallelen aufschreiben 
-	- [ ] Winkel am Kreis 
+	- [ ] Winkel am Kreis  %% fold %%
 		- [ ] Satz des Thales
 		      ![[../../01_Satz_des_Thales.gif]]
 		  - Halbkreis: Winkel des gegenüberliegenden Winkels (Punkt C, Winkel $\gamma$) der Durchmesserlinie ist immer 90° falls der Punkt C auf der Kreislinie liegt
@@ -350,7 +350,7 @@
 - [ ] eine Stunde korrigieren 
 - [ ] Tisch wischen 
 - [ ] jamil nochmal wegen dem byod Zugang fragen 
-- [ ] Briefkasten 
+- [x] Briefkasten 
 - [ ] 60° Wäsche
 	- [x] anstellen 
 	- [x] schleudern 
@@ -374,7 +374,7 @@
 - [ ] Fußmatte saugen 
 - [ ] nochmal schwere Aufgaben schriftlich Grundrechenarten für die die fertig sind zusammen stellen. Überprüfen ob sie f er rig sind 
 - [x] nochmal checken was mit der it support vom Schulportal geschrieben hat
-	- [ ] mit Jamil reden 
+	- [x] mit Jamil reden 
 - [x] Arbeitsblatt 8er
 	- [x] zum Einheiten umrechnen
 		- [x] nochmal erklärung - besser
@@ -399,9 +399,7 @@
 - [ ] gaaaanz hart heroes to us üben
 	- [ ] auch mal rhythm anschauen
 - [ ] <font color="#ff0000">black waltz akustik teil</font>
-- [ ] Hamza war nicht in Mathe 
 - [x] Äpfel waschen 
-- [ ] gießen 
 - [ ] sofa saugen 
 - [ ] AOK erledigen 
 	- [ ] Brief checken
@@ -410,7 +408,7 @@
 - [x] carnivoren checken %% fold %%
 - [ ] auberginen waschen ⟹kühlschrank %% fold %%
 - [x] Maronen einpflanzen  %% fold %%
-- [ ] Sportsachen wegräumen 
+- [x] Sportsachen wegräumen 
 - [x] Loch in grauem T-Shirt flicken 
 - [x] Rosenkohl zubereiten 
 - [ ] konto checken 
@@ -426,7 +424,7 @@
 - [ ] Leute 10b einladen in schul.cloud gruppe
 - [ ] schulportal ->medienzentrum -> wie logge ich mich in vom medienzentrum verwaltete Wlans ein 
 	- [ ] byod - interimsgebäude
-- [ ] 5a Eltern anrufen 
+- [x] 5a Eltern anrufen 
 - [ ] Mathehefter sortieren 
 - [x] Spaghetti Kürbis Rezept machen 
 - [x] <font color="#7fffd4">amela</font> darf bleiben, aber muss Liste extra führen für ihre Noten 
@@ -443,24 +441,16 @@
 	- [x] p 8b
 	- [x] p 8c %% fold %%
 	- [x] p 10b %% fold %%
-	- [x] p 10a
+	- [x] p 10a %% fold %%
 - [ ] Paprika ernten  %% fold %%
-- [ ] essen in den Kühlschrank %% fold %%
+- [x] essen in den Kühlschrank %% fold %%
 - [ ] hydraulische presse bauen  %% fold %%
 - [x] Fachkonferenz Mathematik am 9.11 eintragen  %% fold %%
 	- [ ] Ort und Uhrzeit ist noch nicht fest %% fold %%
 - [x] Fachkonferenz Physik am 10.11 14 Uhr Bioraum für den NaWi-Teil, anschließend Raum PH2 %% fold %%
 - [x] swamphell solo
-- [x] Spülmaschine ausräumen und Spülmaschinensalz checken 
-- [ ] Wäsche
-	- [ ] anstellen 
-	- [ ] schleudern 
-	- [ ] aufhängen 
-	- [ ] zusammen legen
-- [ ] carnivorenwasser auffüllen 
-- [x] Physikaufgabe 8er zum Einheiten umrechnen mit litern und Gallonen raus suchen
-	- [x] ![[../../Pasted image 20261103230812.png]]
-	- [x] ![[../../Pasted image 20261103231141.png]]
+- [x] Spülmaschine ausräumen und Spülmaschinensalz checken  %% fold %%
+- [x] carnivorenwasser auffüllen 
 - [x] Lotus 🪷 checken 
 - [ ] gemeinsamer Nachschreibe Termin wie läuft das?
 - [ ] Apple TV einrichten am Mac 
