@@ -307,7 +307,7 @@
 
 - [ ] Küche 
 - [x] Essen 
-- [ ] Staubsaugen
+- [x] Staubsaugen
 - [ ] wischen 
 - [ ] Duschen + Rasieren
 - [ ] Korrektur 
