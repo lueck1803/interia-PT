@@ -309,6 +309,8 @@
 - [ ] Duolingo
 - [x] aldi
 - [x] Toilette putzen 
+- [ ] Winkel an Parallelen aufschreiben 
+- [ ] eders Rätsel aufschreiben 
 - [ ] eintragen 
 	- [ ] 3 Nudelsoße 
 	- [ ] 2 Tomatendosen 
@@ -360,20 +362,19 @@
 	- [ ] auch mal rhythm anschauen
 - [ ] <font color="#ff0000">black waltz akustik teil</font>
 - [ ] Hamza war nicht in Mathe 
-- [ ] Äpfel waschen 
+- [x] Äpfel waschen 
 - [ ] gießen 
 - [ ] sofa saugen 
-- [ ] decke wieder aufs sofa
 - [ ] AOK erledigen 
 	- [ ] Brief checken
 	- [ ] Wegen freiwilliger mitgliedschaft
 	- [ ] krankenhausüberweisung
-- [ ] carnivoren checken %% fold %%
+- [x] carnivoren checken %% fold %%
 - [ ] auberginen waschen ⟹kühlschrank %% fold %%
-- [ ] Maronen einpflanzen  %% fold %%
+- [x] Maronen einpflanzen  %% fold %%
 - [ ] Sportsachen wegräumen 
-- [ ] Loch in grauem T-Shirt flicken 
-- [ ] Rosenkohl zubereiten 
+- [x] Loch in grauem T-Shirt flicken 
+- [x] Rosenkohl zubereiten 
 - [ ] konto checken 
 - [ ] to do aufräumen 
 - [ ] 30° Wäsche
@@ -389,7 +390,7 @@
 	- [ ] byod - interimsgebäude
 - [ ] 5a Eltern anrufen 
 - [ ] Mathehefter sortieren 
-- [ ] Spaghetti Kürbis Rezept machen 
+- [x] Spaghetti Kürbis Rezept machen 
 - [x] <font color="#7fffd4">amela</font> darf bleiben, aber muss Liste extra führen für ihre Noten 
 	- [ ] Excel-Tabelle für sie anlegen 
 
@@ -415,7 +416,7 @@
 	- [ ] Nochmal die Grundrechenarten üben
 - [ ] Mathearbeit 5er korrigieren  %% fold %%
 - [x] swamphell solo
-- [ ] Spülmaschine ausräumen und Spülmaschinensalz checken 
+- [x] Spülmaschine ausräumen und Spülmaschinensalz checken 
 - [ ] 30° Wäsche
 	- [x] anstellen 
 	- [x] schleudern 
@@ -434,17 +435,17 @@
 - [ ] Experiment zum Vakuum planen 
 - [ ] im Physik Buch lesen
 - [ ] Wohnung aufräumen 
-- [ ] Seerosen rein
+- [x] Seerosen rein
 - [ ] tabs aufräumen -> Bookmarks
 - [ ] gelber Sack mülleimer kleben 
 	- [ ] innen und außen
-- [ ] Bettwäsche wechseln 
+- [x] Bettwäsche wechseln 
 - [ ] Stundenplan eingetragen 
-- [ ] Halloween 👻 socken reparieren 
+- [x] Halloween 👻 socken reparieren 
 - [ ] Klausur korrigieren 
-- [ ] Toilette putzen 
+- [x] Toilette putzen 
 - [ ] wischen 
-- [ ] Tastatur wischen
+- [x] Tastatur wischen
 - [ ] Mathearbeit 8te klasse
 	- [ ] noch mit der Arbeit von Lukas Kohlmeier vergleichen
 	- [ ] punkte zusammen rechnen
@@ -454,7 +455,7 @@
 	- [ ] Fachlehrer fragen 
 - [ ] Mathearbeit 5 korrigieren 
 - [ ] rasieren
-- [ ] Carnivoren gießen
+- [x] Carnivoren gießen
 - [ ] Pflanzen gießen 
 - [ ] Fruchtfliegen beseitigen 
 - [ ] Klamotten sortieren und waschen 
@@ -508,9 +509,9 @@
 - [ ] carnivorenwasser auffüllen 
 - [ ] Einzelflecken wischen 
 - [ ] Crystal Mountain  %% fold %%
-- [ ] Haselnüsse einpflanzen  %% fold %%
+- [x] Haselnüsse einpflanzen  %% fold %%
 - [ ] tisch wischen %% fold %%
-- [ ] Essen kochen %% fold %%
+- [x] Essen kochen %% fold %%
 - [ ] daria additions/subtraktions Aufgaben mit negativen Zahlen bzw. Verschiebungen über die 0 %% fold %%
 	- [ ] die Erklärung von gestern nochmal aufschreiben %% fold %%
 	- [ ] mit Zahlenstrahl  %% fold %%
@@ -599,16 +600,15 @@
 - [ ] 5er Lehrplan 
 
 - [ ] Nummer von tamilo,zara und Espen in Vertretungslehrer eintragen 
-- [ ] Kräfte im Physikbuch anschauen und kopieren 
+- [x] Kräfte im Physikbuch anschauen und kopieren 
 - [x] Mathearbeit 5a 30.10. eintragen 
 	- [ ] grundrechen arten
 		- [ ] Kopf 
 		- [ ] schriftlich 
 - [ ] Arbeitsblätter für 5a zum extra arbeiten erstellen 
 - [ ] plan für 8b Donnerstag erstellen 
-- [ ] Ohrenschützer für 5a?
+- [x] Ohrenschützer für 5a?
 - [ ] pflanzen rein 
-- [ ] Spaziergang
 - [ ] Hustenbonbons in Dose in Rucksack 
 - [ ] Mathe Übungsblatt zur Klausur erstellen 
 - [ ] schriftliches dividieren, wann kommen nullen rein?
@@ -619,7 +619,6 @@
 - kalmah üben
 	- [ ] black waltz rythm 
 	- [ ] black Waltz solo 75%
-- [ ] Tafel wischen 
 - [ ] rot grauen Rucksack 
 	- [ ] ausmisten 
 	- [ ] waschen 
