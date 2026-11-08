@@ -318,7 +318,11 @@
 	- [ ] Blatt ausdrucken
 - [ ] zählen wie viele Physikblätter ich für die 8b habe.
 	- [ ] ⤷ E-Lehre Arbeitsblätter für 8b drucken.
-	- [ ] Wie viele Arbeitsblätter für die Ergänzungsaufgabe habe ich noch?
+		- 5
+		- [ ] ⤷ 17 Stück drucken
+	- Wie viele Arbeitsblätter für die Ergänzungsaufgabe habe ich noch? 
+		- 10
+		- [ ] 4 mal drucken
 - [ ] HNO Termin vom 19.11 verlegen wegen Stundenplanänderung 
 - [ ] Mathe nachschreiben
 	- [ ] Nachschreiberegelung checken
