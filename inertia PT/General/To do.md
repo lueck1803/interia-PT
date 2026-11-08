@@ -305,11 +305,11 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
-- [ ] Küche 
+- [x] Küche 
 - [x] Essen 
 - [x] Staubsaugen
-- [ ] wischen 
-- [ ] Duschen + Rasieren
+- [x] wischen 
+- [x] Duschen + Rasieren
 - [ ] Korrektur 
 
 
