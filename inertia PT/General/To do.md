@@ -368,12 +368,12 @@
 	- [ ] Brief checken
 	- [ ] Wegen freiwilliger mitgliedschaft
 	- [ ] krankenhausüberweisung
-- [ ] carnivoren checken %% fold %%
+- [x] carnivoren checken %% fold %%
 - [ ] auberginen waschen ⟹kühlschrank %% fold %%
-- [ ] Maronen einpflanzen  %% fold %%
+- [x] Maronen einpflanzen  %% fold %%
 - [ ] Sportsachen wegräumen 
-- [ ] Loch in grauem T-Shirt flicken 
-- [ ] Rosenkohl zubereiten 
+- [x] Loch in grauem T-Shirt flicken 
+- [x] Rosenkohl zubereiten 
 - [ ] konto checken 
 - [ ] to do aufräumen 
 - [ ] 30° Wäsche
@@ -389,7 +389,7 @@
 	- [ ] byod - interimsgebäude
 - [ ] 5a Eltern anrufen 
 - [ ] Mathehefter sortieren 
-- [ ] Spaghetti Kürbis Rezept machen 
+- [x] Spaghetti Kürbis Rezept machen 
 - [x] <font color="#7fffd4">amela</font> darf bleiben, aber muss Liste extra führen für ihre Noten 
 	- [ ] Excel-Tabelle für sie anlegen 
 
@@ -415,7 +415,7 @@
 	- [ ] Nochmal die Grundrechenarten üben
 - [ ] Mathearbeit 5er korrigieren  %% fold %%
 - [x] swamphell solo
-- [ ] Spülmaschine ausräumen und Spülmaschinensalz checken 
+- [x] Spülmaschine ausräumen und Spülmaschinensalz checken 
 - [ ] 30° Wäsche
 	- [x] anstellen 
 	- [x] schleudern 
@@ -434,17 +434,17 @@
 - [ ] Experiment zum Vakuum planen 
 - [ ] im Physik Buch lesen
 - [ ] Wohnung aufräumen 
-- [ ] Seerosen rein
+- [x] Seerosen rein
 - [ ] tabs aufräumen -> Bookmarks
 - [ ] gelber Sack mülleimer kleben 
 	- [ ] innen und außen
-- [ ] Bettwäsche wechseln 
+- [x] Bettwäsche wechseln 
 - [ ] Stundenplan eingetragen 
 - [ ] Halloween 👻 socken reparieren 
 - [ ] Klausur korrigieren 
-- [ ] Toilette putzen 
+- [x] Toilette putzen 
 - [ ] wischen 
-- [ ] Tastatur wischen
+- [x] Tastatur wischen
 - [ ] Mathearbeit 8te klasse
 	- [ ] noch mit der Arbeit von Lukas Kohlmeier vergleichen
 	- [ ] punkte zusammen rechnen
@@ -454,7 +454,7 @@
 	- [ ] Fachlehrer fragen 
 - [ ] Mathearbeit 5 korrigieren 
 - [ ] rasieren
-- [ ] Carnivoren gießen
+- [x] Carnivoren gießen
 - [ ] Pflanzen gießen 
 - [ ] Fruchtfliegen beseitigen 
 - [ ] Klamotten sortieren und waschen 
