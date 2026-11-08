@@ -314,7 +314,8 @@
 
 
 - [x] Duolingo
-- [ ] Strahlensatz auf 
+- [ ] Strahlensatz fertig aufschreiben
+	- [ ] Blatt ausdrucken
 - [ ] zählen wie viele Physikblätter ich für die 8b habe.
 	- [ ] ⤷ E-Lehre Arbeitsblätter für 8b drucken.
 	- [ ] Wie viele Arbeitsblätter für die Ergänzungsaufgabe habe ich noch?
@@ -343,16 +344,11 @@
 			    ⟹ $\gamma<90°$
 			  - Grundlinie oberhalb des Mittelpunkts 
 			    ⟹ $\gamma>90°$
-- [ ] Ähnlichkeit von Dreiecken
-- [ ] Strahlensatz
-- [x] eders Rätsel aufschreiben 
-- [x] eintragen 
-	- [x] 3 Nudelsoße 
-	- [x] 2 Tomatendosen 
+	- [ ] Ähnlichkeit von Dreiecken
+	- [ ] Strahlensatz
 - [ ] eine Stunde korrigieren 
 - [ ] Tisch wischen 
 - [ ] jamil nochmal wegen dem byod Zugang fragen 
-- [x] Briefkasten 
 - [ ] 60° Wäsche
 	- [x] anstellen 
 	- [x] schleudern 
@@ -407,30 +403,16 @@
 	- [ ] Brief checken
 	- [ ] Wegen freiwilliger mitgliedschaft
 	- [ ] krankenhausüberweisung
-- [x] carnivoren checken %% fold %%
 - [ ] auberginen waschen ⟹kühlschrank %% fold %%
-- [x] Maronen einpflanzen  %% fold %%
-- [x] Sportsachen wegräumen 
-- [x] Loch in grauem T-Shirt flicken 
-- [x] Rosenkohl zubereiten 
 - [ ] konto checken 
 - [ ] to do aufräumen 
-- [ ] 30° Wäsche
-	- [x] anstellen 
-	- [x] <font color="#ff0000">nur decke extra</font> schleudern 
-	- [x] aufhängen 
-	- [ ] zusammen legen
 - [ ] nach jamils Anleitung schauen bzgl byod
 - [ ] Punkteverteilung/Skala nachschauen 
 - [ ] Die anderen Beamer auf das PW 12345678 umstellen
 - [ ] Leute 10b einladen in schul.cloud gruppe
 - [ ] schulportal ->medienzentrum -> wie logge ich mich in vom medienzentrum verwaltete Wlans ein 
 	- [ ] byod - interimsgebäude
-- [x] 5a Eltern anrufen 
 - [ ] Mathehefter sortieren 
-- [x] Spaghetti Kürbis Rezept machen 
-- [x] <font color="#7fffd4">amela</font> darf bleiben, aber muss Liste extra führen für ihre Noten 
-	- [x] Excel-Tabelle für sie anlegen 
 
 - [ ] 10b in die Gruppe schreiben 
 	- [ ] von heute abtippen 
@@ -445,15 +427,7 @@
 	- [x] p 10b %% fold %%
 	- [x] p 10a %% fold %%
 - [ ] Paprika ernten  %% fold %%
-- [x] essen in den Kühlschrank %% fold %%
 - [ ] hydraulische presse bauen  %% fold %%
-- [x] Fachkonferenz Mathematik am 9.11 eintragen  %% fold %%
-	- [ ] Ort und Uhrzeit ist noch nicht fest %% fold %%
-- [x] Fachkonferenz Physik am 10.11 14 Uhr Bioraum für den NaWi-Teil, anschließend Raum PH2 %% fold %%
-- [x] swamphell solo
-- [x] Spülmaschine ausräumen und Spülmaschinensalz checken  %% fold %%
-- [x] carnivorenwasser auffüllen 
-- [x] Lotus 🪷 checken 
 - [ ] gemeinsamer Nachschreibe Termin wie läuft das?
 - [ ] Apple TV einrichten am Mac 
 	- [ ] wie verbinde ich das?
@@ -462,17 +436,10 @@
 - [ ] Experiment zum Vakuum planen 
 - [ ] im Physik Buch lesen
 - [ ] Wohnung aufräumen 
-- [x] Seerosen rein
 - [ ] tabs aufräumen -> Bookmarks
 - [ ] gelber Sack mülleimer kleben 
 	- [ ] innen und außen
-- [x] Bettwäsche wechseln 
 - [ ] Stundenplan eingetragen 
-- [x] Halloween 👻 socken reparieren 
-- [ ] Klausur korrigieren 
-- [x] Toilette putzen 
-- [ ] wischen 
-- [x] Tastatur wischen
 - [ ] Mathearbeit 8te klasse
 	- [ ] noch mit der Arbeit von Lukas Kohlmeier vergleichen
 	- [ ] punkte zusammen rechnen
@@ -481,9 +448,6 @@
 	- [ ] Förderplan im Schulportal Dateispeicher suchen
 	- [ ] Fachlehrer fragen 
 - [ ] Mathearbeit 5 korrigieren 
-- [ ] rasieren
-- [x] Carnivoren gießen
-- [ ] Pflanzen gießen 
 - [ ] Fruchtfliegen beseitigen 
 - [ ] Klamotten sortieren und waschen 
 - [ ] Ansia fragen wann sie mal in meinen Unterricht kommen kann
@@ -531,19 +495,14 @@
 		- [ ] Multiplikation 
 		- [ ] Division 
 	- [ ] Tabellen/Umfrage Aufgabe 
-- [x] Überweisungsschein für HNO brauche ich nicht da der Nachsorge Zeitraum ja schon vorbei ist
 - [ ] spazieren 
 - [ ] carnivorenwasser auffüllen 
 - [ ] Einzelflecken wischen 
 - [ ] Crystal Mountain  %% fold %%
-- [x] Haselnüsse einpflanzen  %% fold %%
 - [ ] tisch wischen %% fold %%
-- [x] Essen kochen %% fold %%
 - [ ] daria additions/subtraktions Aufgaben mit negativen Zahlen bzw. Verschiebungen über die 0 %% fold %%
 	- [ ] die Erklärung von gestern nochmal aufschreiben %% fold %%
 	- [ ] mit Zahlenstrahl  %% fold %%
-- [x] Fruchtfliegen falle %% fold %%
-- [ ] tamilo, zara, jakob anrufen  %% fold %%
 - [ ] 10er  %% fold %%
 	- [ ] Packung Mehl  %% fold %%
 	- [ ] Maßband 
@@ -627,21 +586,15 @@
 - [ ] 5er Lehrplan 
 
 - [ ] Nummer von tamilo,zara und Espen in Vertretungslehrer eintragen 
-- [x] Kräfte im Physikbuch anschauen und kopieren 
-- [x] Mathearbeit 5a 30.10. eintragen 
-	- [ ] grundrechen arten
-		- [ ] Kopf 
-		- [ ] schriftlich 
 - [ ] Arbeitsblätter für 5a zum extra arbeiten erstellen 
 - [ ] plan für 8b Donnerstag erstellen 
-- [x] Ohrenschützer für 5a?
 - [ ] pflanzen rein 
 - [ ] Hustenbonbons in Dose in Rucksack 
 - [ ] Mathe Übungsblatt zur Klausur erstellen 
 - [ ] schriftliches dividieren, wann kommen nullen rein?
 - [ ] Ceranfeld putzen 
 - Waschbecken schrubben 
-	- [x] Bad 
+	- [ ] Bad 
 	- [ ] Küche 
 - kalmah üben
 	- [ ] black waltz rythm 
@@ -651,7 +604,6 @@
 	- [ ] waschen 
 - [ ] Ventilator wegpacken
 - [ ] Basilikum samen eintüten 
-- [ ] wischen 
 - [ ] Platz/ort für Mentoren treffen abchecken 
 - [ ] shadow work lesen
 - [ ] japanische 1-min regel lesen
@@ -679,10 +631,6 @@
 - [ ] näh/flick tutorial anschauen
 
 - [ ] Apfelschneider nochmal schweißen 
-- [ ] Mathearbeit konzipieren 
-	- [ ] 8 a
-	- [ ] 8 b
-	- [ ] 5a
 - [ ] wie geht es weiter mit Physik der 10er?
 - [ ] wie geht's weiter mit Physik der 8er?
 - [ ] Mathe-Wettbewerb 
