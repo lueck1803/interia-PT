@@ -314,8 +314,9 @@
 	- Höhe: 88cm
 	- Leergewicht: 16 kg (Stahlfass)
 - [x] Duolingo
-- [x] aldi
-- [x] Toilette putzen 
+- [ ] zählen wie viele Physikblätter ich für die 8b habe.
+	- [ ] ⤷ nachdrucken
+- [ ] 
 - [ ] HNO Termin vom 19.11 verlegen wegen Stundenplanänderung 
 - [ ] Mathe nachschreiben
 	- [ ] Nachschreiberegelung checken
@@ -327,7 +328,6 @@
 		- [ ] Shanaja
 		- [ ] Ismail
 - [ ] Duschen + Rasieren
-- [ ] E-Lehre Arbeitsblätter für 8b drucken.
 - [ ] Xournal++ switch für zeichen tools bauen
 - [ ] Wie viele Arbeitsblätter für die Ergänzungsaufgabe habe ich noch?
 - [ ] mit spritze ausprobieren Vakuum zu erzeugen / Wasser kocht.
