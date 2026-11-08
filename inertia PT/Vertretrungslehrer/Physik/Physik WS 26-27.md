@@ -1,9 +1,13 @@
+- Physikaufgabe 8er zum Einheiten umrechnen mit litern und Gallonen raus suchen
+	- ![[quadratinch-quadratcm.png]]
+	- ![[physik_für_etit-Einheiten umrechnen.png]]
+
 # to do
 - 10er 
 	- [ ] u-rohr manometer experiment. Druck in verschiedenen Etagen berechnen
 	- [ ] Vakuum experiment: Otto von Guericke, Magdeburger Halbkugeln. Muss mir ne gute Pumpe besorgen...
 # <font color="#8db3e2">8a</font> Lisa-Marie Rohr (roh) %% fold %%
-## 2026-08-17
+## 2026-08-17 %% fold %%
 - [ ] <font color="#ff69b4">Blitzlichtrunde</font> - aber selbstständig
 - [ ] Fahrplan bis Herbstferien
 - [ ] Einheiten umrechnen? ⟹ dann mach ich das nicht mit denen in Mathe %% fold %%
@@ -298,10 +302,6 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 	- Höhe: 88cm
 	- Leergewicht: 16 kg (Stahlfass)
 
-- Physikaufgabe 8er zum Einheiten umrechnen mit litern und Gallonen raus suchen
-	- ![[Pasted image 20261103230812.png]]
-	- ![[../../../Pasted image 20261103231141.png]]
-
 ## 2026-08-26/27
 - $\pu{ 1Pa }=\pu{ 1 N/m2 }$
 - $\pu{  1 bar} = \pu{  103 mbar} = \pu{ 100 kPa }$
@@ -393,9 +393,9 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 
 <u>Lösung der Aufgabe 2:</u> %% fold %%
 - Dichte $\rho=\frac{m}{V}$, $[\rho]=\pu{\frac{kg}{m ^3}}$ %% fold %%
-- $m_{\text{Abrissbirne}}=\rho_{\text{Eisen}}\cdot V_{\text{Abrissbirne}}$
+- $m_{\text{Abrissbirne}}=\rho_{\text{Eisen}}\cdot V_{\text{Abrissbirne}}$ %% fold %%
 - Dichte von Eisen recherchieren: $\rho_{\text{Eisen}}=\pu{7,87 \frac{g}{cm^3}  }$ %% fold %%
-- Volumen der Abrissbirne: Wir nehmen die Formel für das Volumen einer Kugel: $V_{\text{Kugel}}=\frac{4}{3}\pi r^{3}$
+- Volumen der Abrissbirne: Wir nehmen die Formel für das Volumen einer Kugel: $V_{\text{Kugel}}=\frac{4}{3}\pi r^{3}$ %% fold %%
 - Einheit des Volumens: $[V]=\pu{ m^3 }$ %% fold %%
   Da hier der Radius $r=\pu{ 18cm }$ ist, ist die Einheit des Volumens $[V]=\pu{cm\cdot cm\cdot cm}=\pu{cm^3}$ %% fold %%
 - $m_{\text{Abrissbirne}}=\rho_{\text{Eisen}}\cdot V_{\text{Abrissbirne}}$ %% fold %%
