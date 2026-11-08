@@ -311,10 +311,10 @@
 - [x] Toilette putzen 
 - [ ] Mathe nachschreiben
 	- [ ] 8a
-		- [ ] Salma 
-		- [ ] Hamza
+		- [ ] Salma Adnan
+		- [ ] Hamza Azaouagh
 	- [ ] 8b
-		- [ ] Rohiv
+		- [ ] Rohiv 
 		- [ ] Shanaja
 		- [ ] Ismail
 - [ ] Duschen + Rasieren
