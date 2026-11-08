@@ -304,6 +304,8 @@
 - [ ] Küche 
 - [ ] Essen 
 - [ ] Staubsaugen
+- [ ] wischen 
+- [ ] Duschen+rasieren 
 - [ ] Korrektur 
 
 - 1 barrel öl - 158,99 Liter - 55 Gallonen
