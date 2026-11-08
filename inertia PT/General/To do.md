@@ -313,7 +313,8 @@
 - [ ] Xournal++ switch für zeichen tools bauen
 - [ ] Wie viele Arbeitsblätter für die Ergänzungsaufgabe habe ich noch?
 - [ ] mit spritze ausprobieren Vakuum zu erzeugen / Wasser kocht.
-- [ ] Winkel an Parallelen aufschreiben 
+- [ ] Alle Winkel identitäten an geometrischen Objekten aufschreiben
+		- [ ] Winkel an Pa rallelen aufschreiben 
 - [ ] eders Rätsel aufschreiben 
 - [ ] eintragen 
 	- [ ] 3 Nudelsoße 
