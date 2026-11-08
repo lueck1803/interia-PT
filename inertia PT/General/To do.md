@@ -360,10 +360,9 @@
 	- [ ] auch mal rhythm anschauen
 - [ ] <font color="#ff0000">black waltz akustik teil</font>
 - [ ] Hamza war nicht in Mathe 
-- [ ] Äpfel waschen 
+- [x] Äpfel waschen 
 - [ ] gießen 
 - [ ] sofa saugen 
-- [ ] decke wieder aufs sofa
 - [ ] AOK erledigen 
 	- [ ] Brief checken
 	- [ ] Wegen freiwilliger mitgliedschaft
@@ -440,7 +439,7 @@
 	- [ ] innen und außen
 - [x] Bettwäsche wechseln 
 - [ ] Stundenplan eingetragen 
-- [ ] Halloween 👻 socken reparieren 
+- [x] Halloween 👻 socken reparieren 
 - [ ] Klausur korrigieren 
 - [x] Toilette putzen 
 - [ ] wischen 
@@ -508,9 +507,9 @@
 - [ ] carnivorenwasser auffüllen 
 - [ ] Einzelflecken wischen 
 - [ ] Crystal Mountain  %% fold %%
-- [ ] Haselnüsse einpflanzen  %% fold %%
+- [x] Haselnüsse einpflanzen  %% fold %%
 - [ ] tisch wischen %% fold %%
-- [ ] Essen kochen %% fold %%
+- [x] Essen kochen %% fold %%
 - [ ] daria additions/subtraktions Aufgaben mit negativen Zahlen bzw. Verschiebungen über die 0 %% fold %%
 	- [ ] die Erklärung von gestern nochmal aufschreiben %% fold %%
 	- [ ] mit Zahlenstrahl  %% fold %%
@@ -599,16 +598,15 @@
 - [ ] 5er Lehrplan 
 
 - [ ] Nummer von tamilo,zara und Espen in Vertretungslehrer eintragen 
-- [ ] Kräfte im Physikbuch anschauen und kopieren 
+- [x] Kräfte im Physikbuch anschauen und kopieren 
 - [x] Mathearbeit 5a 30.10. eintragen 
 	- [ ] grundrechen arten
 		- [ ] Kopf 
 		- [ ] schriftlich 
 - [ ] Arbeitsblätter für 5a zum extra arbeiten erstellen 
 - [ ] plan für 8b Donnerstag erstellen 
-- [ ] Ohrenschützer für 5a?
+- [x] Ohrenschützer für 5a?
 - [ ] pflanzen rein 
-- [ ] Spaziergang
 - [ ] Hustenbonbons in Dose in Rucksack 
 - [ ] Mathe Übungsblatt zur Klausur erstellen 
 - [ ] schriftliches dividieren, wann kommen nullen rein?
@@ -619,7 +617,6 @@
 - kalmah üben
 	- [ ] black waltz rythm 
 	- [ ] black Waltz solo 75%
-- [ ] Tafel wischen 
 - [ ] rot grauen Rucksack 
 	- [ ] ausmisten 
 	- [ ] waschen 
