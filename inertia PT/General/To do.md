@@ -310,6 +310,7 @@
 - [x] aldi
 - [x] Toilette putzen 
 - [ ] Mathe nachschreiben
+	- [ ] Nachschreiberegelung checken
 	- [ ] 8a
 		- [ ] Salma Adnan
 		- [ ] Hamza Azaouagh
