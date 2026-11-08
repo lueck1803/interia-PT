@@ -309,6 +309,8 @@
 - [ ] Duolingo
 - [x] aldi
 - [x] Toilette putzen 
+- [ ] Winkel an Parallelen aufschreiben 
+- [ ] eders Rätsel aufschreiben 
 - [ ] eintragen 
 	- [ ] 3 Nudelsoße 
 	- [ ] 2 Tomatendosen 
