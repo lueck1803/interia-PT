@@ -310,7 +310,7 @@
 - [x] aldi
 - [x] Toilette putzen 
 - [ ] E-Lehre Arbeitsblätter für 8b drucken.
-- [ ] Xournal++ switch für zeich
+- [ ] Xournal++ switch für zeichen tools bauen
 - [ ] Wie viele Arbeitsblätter für die Ergänzungsaufgabe habe ich noch?
 - [ ] mit spritze ausprobieren Vakuum zu erzeugen / Wasser kocht.
 - [ ] Winkel an Parallelen aufschreiben 
