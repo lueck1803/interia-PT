@@ -322,8 +322,10 @@
 		  - Falls der Punkt C außerhalb des Halbkreises liegt, ist der Winkel $\gamma<90°$
 		  - Falls der Punkt C innerhalb des Halbkreises liegt, ist der Winkel $\gamma>90°$ 
 		  - ⤷ Wenn die Mittel/Durchmesserlinie verschoben ist gilt: 
-			  - Linie unterhalb des Mittelpunkts ⟹ $\gamma<90°$
-			  - Linie oberhalb des Mittelpunkts ⟹ $\gamma>90°$
+			  - Grundlinie unterhalb des Mittelpunkts 
+			    ⟹ $\gamma<90°$
+			  - Grundlinie oberhalb des Mittelpunkts 
+			    ⟹ $\gamma>90°$
 - [ ] eders Rätsel aufschreiben 
 - [ ] eintragen 
 	- [ ] 3 Nudelsoße 
