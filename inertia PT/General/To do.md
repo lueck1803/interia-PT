@@ -309,6 +309,7 @@
 - [x] Duolingo
 - [x] aldi
 - [x] Toilette putzen 
+- [ ] HNO Termin vom 19.11 verlegen wegen Stundenplanänderung 
 - [ ] Mathe nachschreiben
 	- [ ] Nachschreiberegelung checken
 	- [ ] 8a
