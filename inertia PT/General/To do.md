@@ -301,6 +301,11 @@
 - <font color="#00b0f0">den Vertretungsplan checken</font>
 
 
+- [ ] Küche 
+- [ ] Essen 
+- [ ] Staubsaugen
+- [ ] Korrektur 
+
 - 1 barrel öl - 158,99 Liter - 55 Gallonen
 	- Fassvolumen - 200 Liter
 	- Durchmesser 58cm
@@ -445,7 +450,7 @@
 - [ ] hydraulische presse bauen  %% fold %%
 - [x] Fachkonferenz Mathematik am 9.11 eintragen  %% fold %%
 	- [ ] Ort und Uhrzeit ist noch nicht fest %% fold %%
-- [x] Fachkonferenz Physik am 10.11 14 Uhr Bioraum für den NaWi-Teil, anschließend Raum PH2
+- [x] Fachkonferenz Physik am 10.11 14 Uhr Bioraum für den NaWi-Teil, anschließend Raum PH2 %% fold %%
 - [ ] Matheunterricht für 5er vorbereiten 
 	- [ ] Nochmal die Grundrechenarten üben
 - [ ] Mathearbeit 5er korrigieren  %% fold %%
