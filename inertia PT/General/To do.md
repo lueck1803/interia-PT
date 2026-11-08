@@ -309,6 +309,7 @@
 - [ ] Duolingo
 - [x] aldi
 - [x] Toilette putzen 
+- [ ] mit spritze ausprobieren Vakuum zu erzeugen / Wasser kocht.
 - [ ] Winkel an Parallelen aufschreiben 
 - [ ] eders Rätsel aufschreiben 
 - [ ] eintragen 
