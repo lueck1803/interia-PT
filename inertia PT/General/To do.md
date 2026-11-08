@@ -305,7 +305,7 @@
 - [ ] Essen 
 - [ ] Staubsaugen
 - [ ] wischen 
-- [ ] Duschen+rasieren 
+- [ ] Duschen + Rasieren
 - [ ] Korrektur 
 
 - 1 barrel öl - 158,99 Liter - 55 Gallonen
@@ -315,8 +315,8 @@
 	- Leergewicht: 16 kg (Stahlfass)
 - [x] Duolingo
 - [ ] zählen wie viele Physikblätter ich für die 8b habe.
-	- [ ] ⤷ nachdrucken
-- [ ] 
+	- [ ] ⤷ E-Lehre Arbeitsblätter für 8b drucken.
+	- [ ] Wie viele Arbeitsblätter für die Ergänzungsaufgabe habe ich noch?
 - [ ] HNO Termin vom 19.11 verlegen wegen Stundenplanänderung 
 - [ ] Mathe nachschreiben
 	- [ ] Nachschreiberegelung checken
@@ -327,9 +327,6 @@
 		- [ ] Rohiv 
 		- [ ] Shanaja
 		- [ ] Ismail
-- [ ] Duschen + Rasieren
-- [ ] Xournal++ switch für zeichen tools bauen
-- [ ] Wie viele Arbeitsblätter für die Ergänzungsaufgabe habe ich noch?
 - [ ] mit spritze ausprobieren Vakuum zu erzeugen / Wasser kocht.
 - [ ] Alle Winkel identitäten an geometrischen Objekten aufschreiben
 	- [ ] Winkel an Parallelen aufschreiben 
@@ -346,10 +343,10 @@
 			    ⟹ $\gamma>90°$
 - [ ] Ähnlichkeit von Dreiecken
 - [ ] Strahlensatz
-- [ ] eders Rätsel aufschreiben 
-- [ ] eintragen 
-	- [ ] 3 Nudelsoße 
-	- [ ] 2 Tomatendosen 
+- [x] eders Rätsel aufschreiben 
+- [x] eintragen 
+	- [x] 3 Nudelsoße 
+	- [x] 2 Tomatendosen 
 - [ ] eine Stunde korrigieren 
 - [ ] Tisch wischen 
 - [ ] jamil nochmal wegen dem byod Zugang fragen 
@@ -368,11 +365,11 @@
 - [ ] was mache ich mit den 5ern als nächstes 
 - [ ] Emaille Form putzen 
 - [ ] aok app Nachricht lesen
-- [ ] Restmüll runter
-- [ ] Spülmaschine ausräumen 
+- [x] Restmüll runter
+- [x] Spülmaschine ausräumen 
 - [ ] Spülmaschine einräumen 
 - [x] Dino Eier in den Kühlschrank 
-- [ ] Spaziergang 
+- [x] Spaziergang 
 - [ ] Kapitel fluide/druck einscannen
 - [ ] Fußmatte saugen 
 - [ ] nochmal schwere Aufgaben schriftlich Grundrechenarten für die die fertig sind zusammen stellen. Überprüfen ob sie f er rig sind 
@@ -433,7 +430,7 @@
 - [ ] Mathehefter sortieren 
 - [x] Spaghetti Kürbis Rezept machen 
 - [x] <font color="#7fffd4">amela</font> darf bleiben, aber muss Liste extra führen für ihre Noten 
-	- [ ] Excel-Tabelle für sie anlegen 
+	- [x] Excel-Tabelle für sie anlegen 
 
 - [ ] 10b in die Gruppe schreiben 
 	- [ ] von heute abtippen 
@@ -453,15 +450,12 @@
 - [x] Fachkonferenz Mathematik am 9.11 eintragen  %% fold %%
 	- [ ] Ort und Uhrzeit ist noch nicht fest %% fold %%
 - [x] Fachkonferenz Physik am 10.11 14 Uhr Bioraum für den NaWi-Teil, anschließend Raum PH2 %% fold %%
-- [ ] Matheunterricht für 5er vorbereiten 
-	- [ ] Nochmal die Grundrechenarten üben
-- [ ] Mathearbeit 5er korrigieren  %% fold %%
 - [x] swamphell solo
 - [x] Spülmaschine ausräumen und Spülmaschinensalz checken 
-- [ ] 30° Wäsche
-	- [x] anstellen 
-	- [x] schleudern 
-	- [x] aufhängen 
+- [ ] Wäsche
+	- [ ] anstellen 
+	- [ ] schleudern 
+	- [ ] aufhängen 
 	- [ ] zusammen legen
 - [ ] carnivorenwasser auffüllen 
 - [x] Physikaufgabe 8er zum Einheiten umrechnen mit litern und Gallonen raus suchen
