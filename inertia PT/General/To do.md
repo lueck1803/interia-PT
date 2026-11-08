@@ -320,6 +320,11 @@
 - [ ] Briefkasten 
 - [ ] 60° Wäsche
 	- [x] anstellen 
+	- [ ] schleudern 
+	- [ ] aufhängen 
+	- [ ] zusammen legen
+- [ ] 60° Wäsche
+	- [x] anstellen 
 	- [x] schleudern 
 	- [ ] aufhängen 
 	- [ ] zusammen legen
