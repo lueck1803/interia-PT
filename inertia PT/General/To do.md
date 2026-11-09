@@ -327,12 +327,12 @@
 - [ ] Mathe nachschreiben
 	- [ ] Nachschreiberegelung checken
 	- [ ] wie viele Arbeiten habe ich noch?
-	- [ ] 8a
+	- [ ] 8a - <font color="#ff0000">11.11 Nachschreiben</font>
 		- [ ] Salma Adnan
 		- [ ] Hamza Azaouagh
-	- [ ] 8b
+	- 8b - <font color="#ff0000">10.11 Nachschreiben</font>
 		- [ ] Rohiv 
-		- [ ] Shanaja %% fold %%
+		- [x] Shanaja -> krank %% fold %%
 		- [ ] Ismail
 - [ ] mit spritze ausprobieren Vakuum zu erzeugen / Wasser kocht.
 - [ ] Alle Winkel identitäten an geometrischen Objekten aufschreiben
