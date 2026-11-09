@@ -311,6 +311,7 @@
 	- [x] Mathe-Wettbewerb Gymnasium 
 	- [x] Geometrie Blatt 
 - [ ] Nudeln in den Kühlschrank 
+- [ ] Birnen waschen 
 
 
 - [x] Duolingo
