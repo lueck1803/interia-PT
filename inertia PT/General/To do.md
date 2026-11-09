@@ -311,9 +311,10 @@
 - [x] wischen 
 - [x] Duschen + Rasieren
 - [ ] Korrektur 
+- [ ] Note Salma mitteilen 
 - [ ] Amela 
 	- [ ] Mathe-Wettbewerb Gymnasium 
-	- [ ] 
+	- [ ] Geometrie Blatt 
 
 
 - [x] Duolingo
