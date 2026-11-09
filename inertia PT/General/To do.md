@@ -312,7 +312,7 @@
 - [x] Duschen + Rasieren
 - [ ] Korrektur 
 - [ ] Amela 
-- [ ] 
+	- [ ] 
 
 
 - [x] Duolingo
