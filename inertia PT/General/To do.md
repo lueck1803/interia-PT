@@ -306,7 +306,7 @@
 	- [ ] zusammen legen
 
 - [ ] Korrektur 
-- [ ] Note Salma mitteilen 
+- [x] Note Salma mitteilen 
 - [x] Amela 
 	- [x] Mathe-Wettbewerb Gymnasium 
 	- [x] Geometrie Blatt 
