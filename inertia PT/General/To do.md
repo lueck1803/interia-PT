@@ -305,16 +305,11 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
-- [x] Küche 
-- [x] Essen 
-- [x] Staubsaugen
-- [x] wischen 
-- [x] Duschen + Rasieren
 - [ ] Korrektur 
 - [ ] Note Salma mitteilen 
-- [ ] Amela 
-	- [ ] Mathe-Wettbewerb Gymnasium 
-	- [ ] Geometrie Blatt 
+- [x] Amela 
+	- [x] Mathe-Wettbewerb Gymnasium 
+	- [x] Geometrie Blatt 
 
 
 - [x] Duolingo
@@ -337,7 +332,7 @@
 		- [ ] Hamza Azaouagh
 	- [ ] 8b
 		- [ ] Rohiv 
-		- [ ] Shanaja
+		- [ ] Shanaja %% fold %%
 		- [ ] Ismail
 - [ ] mit spritze ausprobieren Vakuum zu erzeugen / Wasser kocht.
 - [ ] Alle Winkel identitäten an geometrischen Objekten aufschreiben
