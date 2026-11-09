@@ -312,17 +312,18 @@
 	- [x] Geometrie Blatt 
 
 
-- [x] Duolingo
-- [ ] 22 mal Mathewettbewerbsaufgaben drucken
-- [ ] Strahlensatz fertig aufschreiben
-	- [ ] Blatt ausdrucken
-- [ ] zählen wie viele Physikblätter ich für die 8b habe.
-	- [ ] ⤷ E-Lehre Arbeitsblätter für 8b drucken.
+- [ ] Duolingo
+- [ ] blaue Zipperjacke in die Wäsche 
+- [x] 22 mal Mathewettbewerbsaufgaben drucken
+- [x] Strahlensatz fertig aufschreiben
+	- [x] Blatt ausdrucken
+- [x] zählen wie viele Physikblätter ich für die 8b habe.
+	- [x] ⤷ E-Lehre Arbeitsblätter für 8b drucken.
 		- 6
-	- [ ] ⤷ 17 Stück drucken
+	- [x] ⤷ 17 Stück drucken
 	- Wie viele Arbeitsblätter für die Ergänzungsaufgabe habe ich noch? 
 		- 10
-		- [ ] 4 mal drucken
+		- [x] 4 mal drucken
 - [ ] HNO Termin vom 19.11 verlegen wegen Stundenplanänderung 
 - [ ] Mathe nachschreiben
 	- [ ] Nachschreiberegelung checken
