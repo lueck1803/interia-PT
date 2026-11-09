@@ -331,7 +331,7 @@
 	- [ ] 8a - <font color="#ff0000">11.11 Nachschreiben</font>
 		- [ ] Salma Adnan
 		- [ ] Hamza Azaouagh
-		- [ ] Khakhuda
+		- [ ] Marharyta Khakhuda
 	- 8b - <font color="#ff0000">10.11 Nachschreiben</font>
 		- [ ] Rohiv 
 		- [x] Shanaja -> krank %% fold %%
