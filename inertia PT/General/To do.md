@@ -312,6 +312,7 @@
 - [x] Duschen + Rasieren
 - [ ] Korrektur 
 - [ ] Amela 
+	- [ ] Mathe-Wettbewerb Gymnasium 
 	- [ ] 
 
 
