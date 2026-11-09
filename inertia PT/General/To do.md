@@ -311,6 +311,8 @@
 - [x] wischen 
 - [x] Duschen + Rasieren
 - [ ] Korrektur 
+- [ ] Amela 
+- [ ] 
 
 
 - [x] Duolingo
