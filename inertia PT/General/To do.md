@@ -320,7 +320,7 @@
 - [ ] zählen wie viele Physikblätter ich für die 8b habe.
 	- [ ] ⤷ E-Lehre Arbeitsblätter für 8b drucken.
 		- 6
-		- [ ] ⤷ 17 Stück drucken
+	- [ ] ⤷ 17 Stück drucken
 	- Wie viele Arbeitsblätter für die Ergänzungsaufgabe habe ich noch? 
 		- 10
 		- [ ] 4 mal drucken
