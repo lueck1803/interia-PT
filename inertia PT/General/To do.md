@@ -428,10 +428,10 @@
 	- [ ] auch der 10a schicken. Sie sollen sich das mal anschauen  %% fold %%
 - kursmappe
 	- [x] m 5a %% fold %%
-	- [x] m 8a
-	- [x] m 8b
+	- [ ] m 8a
+	- [ ] m 8b
 	- [x] p 8a
-	- [x] p 8b
+	- [ ] p 8b
 	- [x] p 8c %% fold %%
 	- [x] p 10b %% fold %%
 	- [x] p 10a %% fold %%

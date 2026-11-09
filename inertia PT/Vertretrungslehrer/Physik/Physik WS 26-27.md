@@ -2,7 +2,7 @@
 	- ![[quadratinch-quadratcm.png]]
 	- ![[physik_für_etit-Einheiten umrechnen.png]]
 
-# to do
+# to do %% fold %%
 - 10er 
 	- [ ] u-rohr manometer experiment. Druck in verschiedenen Etagen berechnen
 	- [ ] Vakuum experiment: Otto von Guericke, Magdeburger Halbkugeln. Muss mir ne gute Pumpe besorgen...
@@ -342,7 +342,7 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 		- Beim Bau von Staudämmen
 	- Medizin:
 		- Blutdruck
-		- Herzkreislauf
+		- Herzkreislauf %% fold %%
 		- ![[../../../Pasted image 20260819012752.png]]
 	- Sanitär
 		- ![[../../../Pasted image 20260819013100.png]]
