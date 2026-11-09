@@ -331,18 +331,18 @@
 	- [ ] 8a - <font color="#ff0000">11.11 Nachschreiben</font>
 		- [ ] Salma Adnan
 		- [ ] Hamza Azaouagh
-		- [ ] 
+		- [ ] Khakhuda
 	- 8b - <font color="#ff0000">10.11 Nachschreiben</font>
 		- [ ] Rohiv 
 		- [x] Shanaja -> krank %% fold %%
 		- [ ] Ismail
-- [ ] mit spritze ausprobieren Vakuum zu erzeugen / Wasser kocht.
-- [ ] Alle Winkel identitäten an geometrischen Objekten aufschreiben
+- [ ] mit spritze ausprobieren Vakuum zu erzeugen / Wasser kocht. %% fold %%
+- [ ] Alle Winkel identitäten an geometrischen Objekten aufschreiben %% fold %%
 	- [ ] Winkel an Parallelen aufschreiben  %% fold %%
 	- [ ] Winkel am Kreis  %% fold %%
 		- [ ] Satz des Thales %% fold %%
 		      ![[../../01_Satz_des_Thales.gif]] %% fold %%
-		  - Halbkreis: Winkel des gegenüberliegenden Winkels (Punkt C, Winkel $\gamma$) der Durchmesserlinie ist immer 90° falls der Punkt C auf der Kreislinie liegt
+		  - Halbkreis: Winkel des gegenüberliegenden Winkels (Punkt C, Winkel $\gamma$) der Durchmesserlinie ist immer 90° falls der Punkt C auf der Kreislinie liegt %% fold %%
 		  - Falls der Punkt C außerhalb des Halbkreises liegt, ist der Winkel $\gamma<90°$
 		  - Falls der Punkt C innerhalb des Halbkreises liegt, ist der Winkel $\gamma>90°$ 
 		  - ⤷ Wenn die Mittel/Durchmesserlinie verschoben ist gilt: 
