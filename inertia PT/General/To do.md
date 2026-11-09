@@ -310,9 +310,10 @@
 - [x] Amela 
 	- [x] Mathe-Wettbewerb Gymnasium 
 	- [x] Geometrie Blatt 
+- [ ] Nudeln in den Kühlschrank 
 
 
-- [ ] Duolingo
+- [x] Duolingo
 - [ ] blaue Zipperjacke in die Wäsche 
 - [x] 22 mal Mathewettbewerbsaufgaben drucken
 - [x] Strahlensatz fertig aufschreiben
