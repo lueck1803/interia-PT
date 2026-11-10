@@ -103,6 +103,9 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+
+[20:23, 11/10/2026] Lukas Walter: Melanie vorhin: " Ich dachte sie mögen mich nicjr so. Wir hatten doch oft Stress und ich nervte sie oft "
+[20:23, 11/10/2026] Lukas Walter: Diese Melanie xD ist schon so ein spezialgelagerter Sonderfall xD
 ## 2026-11-10 leon 
 Hallo Leon, 
 
@@ -473,7 +476,7 @@ Mir fällt es schwer davon abzuschalten, ich bin dann wie in einem Rausch und ha
 Ich denke nicht über die Auswirkungen und den Eindruck nach den dieses kurzfristige Handeln im Moment hat, ich tue einfach.  %% fold %%
  %% fold %%
 Danach ärgere ich mich darüber, dass ich so viel und was ich geschrieben habe.  %% fold %%
-
+ %% fold %%
 Es war für mich eine so lange Zeit mit null bis wenig sozialen Interaktionen, da ich über lange Zeit immer mehr das Gefühl hatte, dabei ständig etwas falsch zu machen/darin zu scheitern und eine Katastrophale Auswirkung auf Menschen zu haben. 
 
 Die Schule ist bei mir eher ein sich von einer sozialen Interaktion zur nächsten treiben und hingelenkt werden lassen, als ein von mir aktiv gesteuerter Prozess.  %% fold %%
