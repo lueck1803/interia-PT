@@ -313,7 +313,7 @@
 - [ ] Nudeln in den Kühlschrank 
 - [ ] Birnen waschen 
 - [ ] flip flops reparieren 
-- [ ] tafel von heute abtippen.
+- [ ] tafel von heute abtippen. 10a Hausaufgabe: kraft auf fass berechnen -> in kg
 
 
 - [ ] Duolingo
