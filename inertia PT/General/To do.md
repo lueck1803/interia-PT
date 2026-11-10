@@ -305,9 +305,12 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
-- [ ] Korrektur 
 - [x] Nudeln in den Kühlschrank +
 - [ ] Mir Elias Folien/Portfolio anschauen
+- [ ] Korrektur:
+	- [ ] Punkte in 7a geben, wenn dort direkt $5x+5$ steht. Korrigieren:
+		- [ ] 8a
+		- [ ] 8b 
 - [ ] Linas Portfolio anschauen
 - [ ] Mayas Folien anschauen - schon geschickt?
 - [ ] Infos von heute in Vertretungslehrer 
