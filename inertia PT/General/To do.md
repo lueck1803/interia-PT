@@ -324,7 +324,8 @@
 - [ ] Physikfachkonferenz
 	- [ ] Anna vorschlag: Tag ausplanen, um die Physiksammlung aufzuräumen
 		- [ ] Unterrichtsfrei dafür beantragen
-	- [ ] eine Klassenarbeit kann im Jahr
+	- [ ] eine Klassenarbeit kann im Jahr als ersatzleistung gemacht werden
+	- [ ] 
 
 - [ ] Tag der offenen Tür 28.11. ein Samstag
 	- [ ] Eltern werden durch Stationen durch geschleust
