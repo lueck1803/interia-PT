@@ -352,7 +352,7 @@
 		  - Halbkreis: Winkel des gegenüberliegenden Winkels (Punkt C, Winkel $\gamma$) der Durchmesserlinie ist immer 90° falls der Punkt C auf der Kreislinie liegt %% fold %%
 		  - Falls der Punkt C außerhalb des Halbkreises liegt, ist der Winkel $\gamma<90°$
 		  - Falls der Punkt C innerhalb des Halbkreises liegt, ist der Winkel $\gamma>90°$ 
-		  - ⤷ Wenn die Mittel/Durchmesserlinie verschoben ist gilt: 
+		  - ⤷ Wenn die Mittel/Durchmesserlinie verschoben ist gilt:  %% fold %%
 			  - Grundlinie unterhalb des Mittelpunkts 
 			    ⟹ $\gamma<90°$
 			  - Grundlinie oberhalb des Mittelpunkts 
