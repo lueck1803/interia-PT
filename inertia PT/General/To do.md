@@ -326,7 +326,7 @@
 		- [ ] ⤷ chemie
 		- [ ] ⤷ physik
 	- [ ] nicht alle Türen offen - nicht eigenständig herumlaufen
-	- [ ] ⤷ Werbung 
+	- [ ] ⤷ Werbung für Schüler von der Grundschule machen
 
 
 - [ ] Duolingo
