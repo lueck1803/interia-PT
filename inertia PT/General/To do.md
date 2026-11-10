@@ -312,9 +312,11 @@
 	- [x] Geometrie Blatt 
 - [ ] Nudeln in den Kühlschrank 
 - [ ] Birnen waschen 
+- [ ] flip flops reparieren 
+- [ ] tafel von heute abtippen. 10a Hausaufgabe: kraft auf fass berechnen -> in kg
 
 
-- [x] Duolingo
+- [ ] Duolingo
 - [ ] blaue Zipperjacke in die Wäsche 
 - [x] 22 mal Mathewettbewerbsaufgaben drucken
 - [x] Strahlensatz fertig aufschreiben
