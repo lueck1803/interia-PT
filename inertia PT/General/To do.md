@@ -326,6 +326,7 @@
 		- [ ] ⤷ chemie
 		- [ ] ⤷ physik
 	- [ ] nicht alle Türen offen - nicht eigenständig herumlaufen
+	- [ ] ⤷ Werbung 
 
 
 - [ ] Duolingo
