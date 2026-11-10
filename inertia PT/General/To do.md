@@ -319,9 +319,12 @@
 - [ ] dafür nächste Woche Doppelstunde (Raum?)
 - [ ] mo 16.11 GK - ich bin Protokollant 
 	- [ ] letztes Protokoll anschauen 
+- [ ] Raum 4 kinder zum Förderkurs s
 
 - [ ] Physikfachkonferenz
 	- [ ] Anna vorschlag: Tag ausplanen, um die Physiksammlung aufzuräumen
+		- [ ] Unterrichtsfrei dafür beantragen
+	- [ ] eine Klassenarbeit kann im Jahr
 
 - [ ] Tag der offenen Tür 28.11. ein Samstag
 	- [ ] Eltern werden durch Stationen durch geschleust
