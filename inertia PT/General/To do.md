@@ -320,7 +320,12 @@
 - [ ] mo 16.11 GK - ich bin Protokollant 
 	- [ ] letztes Protokoll anschauen 
 
-- [ ] Tag der offenen Tür 2
+- [ ] Tag der offenen Tür 28.11. ein Samstag
+	- [ ] Eltern werden durch Stationen durch geschleust
+		- [ ] ⤷ bio
+		- [ ] ⤷ chemie
+		- [ ] ⤷ physik
+	- [ ] nicht alle Türen offen - nicht eigenständig herumlaufen
 
 
 - [ ] Duolingo
