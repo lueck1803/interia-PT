@@ -313,6 +313,7 @@
 - [ ] Nudeln in den Kühlschrank 
 - [ ] Birnen waschen 
 - [ ] flip flops reparieren 
+- [ ] tafel von heute abtippen.
 
 
 - [ ] Duolingo
