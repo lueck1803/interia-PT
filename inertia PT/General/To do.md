@@ -317,6 +317,7 @@
 - [ ] notieren morgen kein Physik 
 - [ ] HNO Termin 
 - [ ] dafür nächste Woche Doppelstunde (Raum?)
+- [ ] mo 16.11 GK - ich bin
 
 
 - [ ] Duolingo
