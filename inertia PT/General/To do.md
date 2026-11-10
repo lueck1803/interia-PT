@@ -311,6 +311,7 @@
 	- [x] Mathe-Wettbewerb Gymnasium 
 	- [x] Geometrie Blatt 
 - [ ] Nudeln in den Kühlschrank 
+- [ ] Infos von heute in Vertretungslehrer 
 - [ ] Birnen waschen 
 - [ ] flip flops reparieren 
 - [ ] tafel von heute abtippen. 10a Hausaufgabe: kraft auf fass berechnen -> in kg
