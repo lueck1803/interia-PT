@@ -320,6 +320,9 @@
 - [ ] mo 16.11 GK - ich bin Protokollant 
 	- [ ] letztes Protokoll anschauen 
 
+- [ ] Physikfachkonferenz
+	- [ ] Anna vorschlag: Tag ausplanen, um die Physiksammlung aufzuräumen
+
 - [ ] Tag der offenen Tür 28.11. ein Samstag
 	- [ ] Eltern werden durch Stationen durch geschleust
 		- [ ] ⤷ bio
