@@ -312,7 +312,7 @@
 		- [ ] 8a
 		- [ ] 8b 
 - [ ] Linas Portfolio anschauen
-- [ ] Mayas Folien anschauen - schon geschickt?
+- [x] Mayas Folien anschauen - schon geschickt?
 - [ ] Infos von heute in Vertretungslehrer 
 - [ ] Birnen waschen 
 - [ ] flip flops reparieren 
