@@ -320,6 +320,8 @@
 - [ ] mo 16.11 GK - ich bin Protokollant 
 	- [ ] letztes Protokoll anschauen 
 
+- [ ] Tag der offenen Tür 2
+
 
 - [ ] Duolingo
 - [ ] blaue Zipperjacke in die Wäsche 
