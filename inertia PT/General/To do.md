@@ -311,6 +311,7 @@
 	- [ ] Punkte in 7a geben, wenn dort direkt $5x+5$ steht. Korrigieren:
 		- [ ] 8a
 		- [ ] 8b 
+	- [ ] Wie kommst du darauf bei 6/9 und den Abzug weg machen
 - [ ] Linas Portfolio anschauen
 - [x] Mayas Folien anschauen - schon geschickt?
 - [ ] Infos von heute in Vertretungslehrer 
