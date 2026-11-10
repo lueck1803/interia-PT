@@ -312,6 +312,7 @@
 		- [ ] 8a
 		- [ ] 8b 
 	- [ ] Wie kommst du darauf bei 6/9 und den Abzug weg machen
+	- [ ] Abzug - Klammer selbst aufgelöst weg machen...
 - [ ] Linas Portfolio anschauen
 - [x] Mayas Folien anschauen - schon geschickt?
 - [ ] Infos von heute in Vertretungslehrer 
