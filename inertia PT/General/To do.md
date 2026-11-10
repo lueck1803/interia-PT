@@ -315,6 +315,8 @@
 - [ ] flip flops reparieren 
 - [ ] tafel von heute abtippen. 10a Hausaufgabe: kraft auf fass berechnen -> in kg
 - [ ] notieren morgen kein Physik 
+- [ ] HNO Termin 
+- [ ] dafür nächste Woche Doppelstunde (Raum?)
 
 
 - [ ] Duolingo
