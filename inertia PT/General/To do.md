@@ -321,6 +321,7 @@
 	- [ ] letztes Protokoll anschauen 
 - [ ] Raum 4 kinder zum Förderkurs do 13 Uhr 
 - [ ] ma 8a Arbeit überall mündliche Note 
+	- [ ] Melanie+ mia g kurs Bewertung 
 
 - [ ] Physikfachkonferenz
 	- [ ] Anna Vorschlag: Tag ausplanen, um die Physiksammlung aufzuräumen
