@@ -306,11 +306,10 @@
 	- [ ] zusammen legen
 
 - [ ] Korrektur 
-- [x] Note Salma mitteilen 
-- [x] Amela 
-	- [x] Mathe-Wettbewerb Gymnasium 
-	- [x] Geometrie Blatt 
-- [ ] Nudeln in den Kühlschrank 
+- [x] Nudeln in den Kühlschrank +
+- [ ] Mir Elias Folien/Portfolio anschauen
+- [ ] Linas Portfolio anschauen
+- [ ] Mayas Folien anschauen - schon geschickt?
 - [ ] Infos von heute in Vertretungslehrer 
 - [ ] Birnen waschen 
 - [ ] flip flops reparieren 
@@ -359,7 +358,7 @@
 		- [ ] Hamza Azaouagh
 		- [ ] Marharyta Khakhuda
 	- 8b - <font color="#ff0000">10.11 Nachschreiben</font>
-		- [ ] Rohiv 
+		- [ ] Rohiv  %% fold %%
 		- [x] Shanaja -> krank %% fold %%
 		- [ ] Ismail
 - [ ] mit spritze ausprobieren Vakuum zu erzeugen / Wasser kocht. %% fold %%

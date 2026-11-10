@@ -476,7 +476,7 @@ Danach ärgere ich mich darüber, dass ich so viel und was ich geschrieben habe.
 
 Es war für mich eine so lange Zeit mit null bis wenig sozialen Interaktionen, da ich über lange Zeit immer mehr das Gefühl hatte, dabei ständig etwas falsch zu machen/darin zu scheitern und eine Katastrophale Auswirkung auf Menschen zu haben. 
 
-Die Schule ist bei mir eher ein sich von einer sozialen Interaktion zur nächsten treiben und hingelenkt werden lassen, als ein von mir aktiv gesteuerter Prozess. 
+Die Schule ist bei mir eher ein sich von einer sozialen Interaktion zur nächsten treiben und hingelenkt werden lassen, als ein von mir aktiv gesteuerter Prozess.  %% fold %%
  %% fold %%
 Wenn so liebe Leute wie ihr dann von mir etwas wissen oder mit mir in Interaktion treten wollen, dann freut mich das natürlich und ich versuche dem bestmöglich nachzukommen. 
 
@@ -1072,7 +1072,7 @@ Ich musste lernen wieder auf eigenen Beinen zu stehen.
 
 Es war am Ende wirklich nicht mehr mit mir auszuhalten. Ich habe es ja selbst nicht mit mir ausgehalten.
 Und dass ich dir und auch mir gerne das geben wollte, was du und ich so dringend wollten, es aber in meiner Paralyse nicht konnte, hat das Leid, den Druck und die Paralyse nur noch größer gemacht.
-
+ %% fold %%
 Ich hab dich leiden gesehen, ich hab darunter auch gelitten, nicht so sein zu können wie ich sein wollte.  %% fold %%
 Das weißt du ja auch. Mir hat es immer auch leid getan wie unerträglich ich bei meiner Familie war und auch mit dir in einigen Situationen.
 
