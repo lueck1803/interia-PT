@@ -1036,7 +1036,7 @@
 	- [ ] Vergleich mit was ich im Internet finde
 	- [ ] 15 min Montag für Mathe-Wettbewerb nutzen
 	- [ ] Mathe-Wettbewerb ist im November 
-- [ ] wie heißt der der mir seine Fotos von der Sonnenfinsternis gezeigt hat
+- [ ] wie heißt der der mir seine Fotos von der Sonnenfinsternis gezeigt hat %% fold %%
 	- [ ] Klassenliste 8d schauen 
 	- [ ] Julian 
 - [ ] Strahlensatz
