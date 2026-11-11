@@ -13,4 +13,9 @@ Oliver, Anna und ich haben folgende Themen besprochen:
 	* Ein Vorschlag war von Anna ein Steckbaukasten für Elektrische Schaltkreise.
 		* Etwas in dieser Art:![[../../../Pasted image 20261111181350.png]]
 		* Das habe ich hier gefunden https://ntl.de/elektrik-1/3510-p9901-4d-seb-elektrik-1.html
-	* 
+* Ich wäre auch für ein Optikset wie dieses hier:
+  https://www.phywe.de/versuche-sets/tess-schuelerversuche-sets/set-schuelerversuche-optik-1-mit-leuchtbox-fuer-36-versuche-tess-advanced-physik-oe-1_2339_3270/
+	* Beim Durchschauen der Physiksammlung habe ich aber auch sehr viele Experimentierobjekte zur Optik gefunden.
+
+### Buchanschaffung
+- wir waren dafür, dass wir bei einem Präsenzbestand bleiben
