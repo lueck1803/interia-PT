@@ -17,14 +17,14 @@
 # Aldi
 ## Jetzt
 - Einkaufswagen 
-- [ ] Toast 
-- [ ] Nudelsoße
-- [ ] 3Liter Gefrierbeutel 
+- [ ] Hummus
+- [x] Toast 
+- [x] Nudelsoße
+- [x] 3Liter Gefrierbeutel 
 - [x] Käse 
 - [x] Nudeln 
 - [x] Frischkäse Kräuter 
 - [x] Sonnenblumenkerne 
-- [x] Hummus
 - [x] bananen
 - [x] spaghetti Kürbis?
 - [x] 405er mehl

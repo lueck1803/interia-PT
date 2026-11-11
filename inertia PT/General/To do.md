@@ -307,11 +307,15 @@
 
 - [ ] Korrektur 
 - [x] Note Salma mitteilen 
+- [ ] Mathe Arbeit Vorlage 
+	- [ ] G kurs punkte
+	- [ ] und Feld für Kurs hinschreiben 
 - [x] Amela 
 	- [x] Mathe-Wettbewerb Gymnasium 
 	- [x] Geometrie Blatt 
 - [ ] Nudeln in den Kühlschrank 
 - [ ] Infos von heute in Vertretungslehrer 
+- [ ] Heißklebepistole weg räumen 
 - [ ] Birnen waschen 
 - [ ] flip flops reparieren 
 - [ ] tafel von heute abtippen. 10a Hausaufgabe: kraft auf fass berechnen -> in kg
@@ -457,7 +461,7 @@
 	- [ ] p 8b
 	- [x] p 8c %% fold %%
 	- [x] p 10b %% fold %%
-	- [x] p 10a %% fold %%
+	- [ ] p 10a %% fold %%
 - [ ] Paprika ernten  %% fold %%
 - [ ] hydraulische presse bauen  %% fold %%
 - [ ] gemeinsamer Nachschreibe Termin wie läuft das?
