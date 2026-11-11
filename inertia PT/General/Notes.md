@@ -481,7 +481,7 @@ Es war für mich eine so lange Zeit mit null bis wenig sozialen Interaktionen, d
 
 Die Schule ist bei mir eher ein sich von einer sozialen Interaktion zur nächsten treiben und hingelenkt werden lassen, als ein von mir aktiv gesteuerter Prozess.  %% fold %%
  %% fold %%
-Wenn so liebe Leute wie ihr dann von mir etwas wissen oder mit mir in Interaktion treten wollen, dann freut mich das natürlich und ich versuche dem bestmöglich nachzukommen. 
+Wenn so liebe Leute wie ihr dann von mir etwas wissen oder mit mir in Interaktion treten wollen, dann freut mich das natürlich und ich versuche dem bestmöglich nachzukommen.  %% fold %%
 
 Ich weiß dann aber häufig nicht womit ich die Grenzen der Anderen und auch meine überschreite. 
 
