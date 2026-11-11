@@ -3,7 +3,6 @@
 - Oliver Middel
 - Anna Lauer
 - Lukas Walter
-Oliver, Anna und ich haben folgende Themen besprochen:
 
 ## Besprochene Themen
 ### Physiksammlung
