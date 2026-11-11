@@ -552,7 +552,7 @@ Sie hat erzählt,dass Lehrer bisher gar nicht gut darauf reagiert haben.
 Ja ein bisschen weniger stur könnte sie sein. Aber diese Eigenschaft ist erstmal extrem gut. 
 Als sie am Anfang die Brüche knallhart ausdividiert hat und ich meinte, dass es nen eleganteren Weg gibt. 😅
 
-Ich fand das gut. Das ist ihre Art zu lernen, sie muss selbst merken, dass sie mit ihrem gerade eingeschlagenen Weg scheitert 
+Ich fand das gut. Das ist ihre Art zu lernen, sie muss selbst merken, dass sie mit ihrem gerade eingeschlagenen Weg scheitert  %% fold %%
 Sie hinterfragt erstmal alles knallhart und findet es unlogisch.
 Sie lernt durch sich an Dingen stoßen und anecken.
 
