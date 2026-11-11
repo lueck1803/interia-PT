@@ -19,3 +19,8 @@ Oliver, Anna und ich haben folgende Themen besprochen:
 
 ### Buchanschaffung
 - wir waren dafür, dass wir bei einem Präsenzbestand bleiben
+- ein doppelter Klassensatz, also je einer für Physikraum 1 und 2
+- Das Buch, was Johannes von Klett erhalten hat, wäre die Nachfolgeausgabe von Prisma. 
+- Ich hatte die Gelegenheit durch Johannes in den ersten Teil reinzuschauen und fand es gut.
+- Johannes meinte, dass es davon eine Gesamtausgabe also 1 und 2 geben wird, so wie der momentane Prisma-Band.
+- Von Claudia Jochem wurde uns während dem Nawi-Teil gesagt, dass wir Bücher und auch andere Anschaffungen in der nächsten Gesamtkonferenz beantrag
