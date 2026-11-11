@@ -305,6 +305,13 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
+- [ ] Physikbuch von Elda zurück 
+- [x] Mathe-Wettbewerb Gymnasium kopieren 
+- [x] MW 2025 B nochmal 5 mal kopieren 
+- [x] MW 2024 B 25 mal kopieren 
+
+- [ ] fluidik für 10er einscannen, muss man in den Kapiteln zusammen suchen 
+
 - [ ] Korrektur 
 - [x] Note Salma mitteilen 
 - [ ] Mathe Arbeit Vorlage 
@@ -313,9 +320,18 @@
 - [x] Amela 
 	- [x] Mathe-Wettbewerb Gymnasium 
 	- [x] Geometrie Blatt 
-- [ ] Nudeln in den Kühlschrank 
+- [x] Nudeln in den Kühlschrank +
+- [ ] Mir Elias Folien/Portfolio anschauen
+- [ ] Korrektur:
+	- [ ] Punkte in 7a geben, wenn dort direkt $5x+5$ steht. Korrigieren:
+		- [ ] 8a
+		- [ ] 8b 
+	- [ ] Wie kommst du darauf bei 6/9 und den Abzug weg machen
+	- [ ] Abzug - Klammer selbst aufgelöst weg machen...
+- [ ] Linas Portfolio anschauen
+- [x] Mayas Folien anschauen - schon geschickt?
 - [ ] Infos von heute in Vertretungslehrer 
-- [ ] Heißklebepistole weg räumen 
+- [x] Heißklebepistole weg räumen 
 - [ ] Birnen waschen 
 - [ ] flip flops reparieren 
 - [ ] tafel von heute abtippen. 10a Hausaufgabe: kraft auf fass berechnen -> in kg
@@ -363,9 +379,9 @@
 		- [ ] Hamza Azaouagh
 		- [ ] Marharyta Khakhuda
 	- 8b - <font color="#ff0000">10.11 Nachschreiben</font>
-		- [ ] Rohiv 
+		- [ ] Rohiv  %% fold %%
 		- [x] Shanaja -> krank %% fold %%
-		- [ ] Ismail
+		- [ ] Ismail %% fold %%
 - [ ] mit spritze ausprobieren Vakuum zu erzeugen / Wasser kocht. %% fold %%
 - [ ] Alle Winkel identitäten an geometrischen Objekten aufschreiben %% fold %%
 	- [ ] Winkel an Parallelen aufschreiben  %% fold %%
@@ -376,8 +392,8 @@
 		  - Falls der Punkt C außerhalb des Halbkreises liegt, ist der Winkel $\gamma<90°$
 		  - Falls der Punkt C innerhalb des Halbkreises liegt, ist der Winkel $\gamma>90°$ 
 		  - ⤷ Wenn die Mittel/Durchmesserlinie verschoben ist gilt:  %% fold %%
-			  - Grundlinie unterhalb des Mittelpunkts 
-			    ⟹ $\gamma<90°$
+			  - Grundlinie unterhalb des Mittelpunkts  %% fold %%
+			    ⟹ $\gamma<90°$ %% fold %%
 			  - Grundlinie oberhalb des Mittelpunkts 
 			    ⟹ $\gamma>90°$
 	- [ ] Ähnlichkeit von Dreiecken
