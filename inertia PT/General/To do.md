@@ -305,7 +305,7 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
-- [ ] Physikbuch von Elda zurück 
+- [x] Physikbuch von Elda zurück 
 - [x] Mathe-Wettbewerb Gymnasium kopieren 
 - [x] MW 2025 B nochmal 5 mal kopieren 
 - [x] MW 2024 B 25 mal kopieren 
