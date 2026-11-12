@@ -309,7 +309,7 @@
 - [ ] Duschen 
 - [ ] Spaziergang 
 - [ ] aldi: Hummus 
-- [ ] Luftballons 
+- [ ] Flasche mit Mikrofaser tuch reiben
 - [ ] Spülmaschine 
 - [ ] Küche 
 - [ ] Wäsche 
