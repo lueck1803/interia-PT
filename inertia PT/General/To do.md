@@ -310,6 +310,7 @@
 - [ ] Spaziergang 
 - [ ] aldi: Hummus 
 - [ ] Flasche mit Mikrofaser tuch reiben
+- [ ] glas mit Mikrofasertuch 
 - [ ] Spülmaschine 
 - [ ] Küche 
 - [ ] Wäsche 
