@@ -307,6 +307,9 @@
 
 - [ ] Duschen 
 - [ ] Spaziergang 
+- [ ] Spülmaschine 
+- [ ] Küche 
+- [ ] Wäsche 
 - [ ] Äquivalenzumformung Aufschrieb
 
 
