@@ -311,6 +311,7 @@
 - [ ] Spülmaschine 
 - [ ] Küche 
 - [ ] Wäsche 
+- [ ] Lösung 
 - [ ] Äquivalenzumformung Aufschrieb
 
 
