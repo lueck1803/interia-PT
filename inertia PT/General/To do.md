@@ -305,20 +305,17 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
+- [ ] Duschen 
+- [ ] Spaziergang 
 - [ ] Äquivalenzumformung Aufschrieb
 
 
 - [ ] fluidik für 10er einscannen, muss man in den Kapiteln zusammen suchen 
 
 - [ ] Korrektur 
-- [x] Note Salma mitteilen 
 - [ ] Mathe Arbeit Vorlage 
 	- [ ] G kurs punkte
 	- [ ] und Feld für Kurs hinschreiben 
-- [x] Amela 
-	- [x] Mathe-Wettbewerb Gymnasium 
-	- [x] Geometrie Blatt 
-- [x] Nudeln in den Kühlschrank +
 - [ ] Mir Elias Folien/Portfolio anschauen
 - [ ] Korrektur:
 	- [ ] Punkte in 7a geben, wenn dort direkt $5x+5$ steht. Korrigieren:
