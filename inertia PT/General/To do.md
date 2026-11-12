@@ -307,6 +307,7 @@
 
 - [ ] Duschen 
 - [ ] Spaziergang 
+- [ ] aldi: Hummus 
 - [ ] Spülmaschine 
 - [ ] Küche 
 - [ ] Wäsche 
