@@ -310,7 +310,8 @@
 - [ ] Spaziergang 
 - [ ] aldi: Hummus 
 - [ ] Flasche mit Mikrofaser tuch reiben
-- [ ] glas mit Mikrofasertuch 
+- [ ] glas mit Mikrofasertuch reiben 
+- [ ] mit Baumwolltuch 
 - [ ] Spülmaschine 
 - [ ] Küche 
 - [ ] Wäsche 
@@ -322,7 +323,7 @@
 - [ ] triboelektrische Reihe im Buch anschauen 
 - [ ] steht aber nicht im Schülerbuch 
 - [ ] Äquivalenzumformung Aufschrieb
-- [ ] alex email lesen
+- [x] alex email lesen
 
 
 - [ ] fluidik für 10er einscannen, muss man in den Kapiteln zusammen suchen 
