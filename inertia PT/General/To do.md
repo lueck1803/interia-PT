@@ -311,7 +311,7 @@
 - [ ] Spülmaschine 
 - [ ] Küche 
 - [ ] Wäsche 
-- [ ] Lösung 
+- [ ] Lösung zum Einheiten Umrechnen anschauen 
 - [ ] Äquivalenzumformung Aufschrieb
 
 
