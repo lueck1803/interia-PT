@@ -312,6 +312,7 @@
 - [ ] Küche 
 - [ ] Wäsche 
 - [ ] Lösung zum Einheiten Umrechnen anschauen 
+- [ ] trinkelektrische Reihe anschauen 
 - [ ] Äquivalenzumformung Aufschrieb
 
 
