@@ -308,11 +308,16 @@
 - [ ] Duschen 
 - [ ] Spaziergang 
 - [ ] aldi: Hummus 
+- [ ] Luftballons 
 - [ ] Spülmaschine 
 - [ ] Küche 
 - [ ] Wäsche 
+- [ ] listen ausdrucken für 
+	- [ ] p8a
+	- [ ] p8c
+	- [ ] m5a
 - [ ] Lösung zum Einheiten Umrechnen anschauen 
-- [ ] trinkelektrische Reihe anschauen 
+- [ ] triboelektrische Reihe im Buch anschauen 
 - [ ] Äquivalenzumformung Aufschrieb
 
 
