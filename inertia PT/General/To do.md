@@ -305,6 +305,8 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
+- [ ] Äquivalenzumformung Aufschrieb
+
 - [x] Physikbuch von Elda zurück 
 - [x] Mathe-Wettbewerb Gymnasium kopieren 
 - [x] MW 2025 B nochmal 5 mal kopieren 
