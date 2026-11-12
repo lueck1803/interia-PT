@@ -318,6 +318,7 @@
 	- [ ] m5a
 - [ ] Lösung zum Einheiten Umrechnen anschauen 
 - [ ] triboelektrische Reihe im Buch anschauen 
+- [ ] steht aber nicht im Schülerbuch 
 - [ ] Äquivalenzumformung Aufschrieb
 - [ ] alex email lesen
 
