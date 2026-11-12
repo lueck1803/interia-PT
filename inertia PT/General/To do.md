@@ -319,6 +319,7 @@
 - [ ] Lösung zum Einheiten Umrechnen anschauen 
 - [ ] triboelektrische Reihe im Buch anschauen 
 - [ ] Äquivalenzumformung Aufschrieb
+- [ ] alex email lesen
 
 
 - [ ] fluidik für 10er einscannen, muss man in den Kapiteln zusammen suchen 
