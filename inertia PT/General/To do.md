@@ -305,6 +305,7 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
+- [ ] Flipflops 
 - [ ] Duschen 
 - [ ] Spaziergang 
 - [ ] aldi: Hummus 
