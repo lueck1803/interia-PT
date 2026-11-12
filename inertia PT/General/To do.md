@@ -307,10 +307,6 @@
 
 - [ ] Äquivalenzumformung Aufschrieb
 
-- [x] Physikbuch von Elda zurück 
-- [x] Mathe-Wettbewerb Gymnasium kopieren 
-- [x] MW 2025 B nochmal 5 mal kopieren 
-- [x] MW 2024 B 25 mal kopieren 
 
 - [ ] fluidik für 10er einscannen, muss man in den Kapiteln zusammen suchen 
 
