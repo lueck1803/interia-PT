@@ -306,6 +306,15 @@
 	- [ ] zusammen legen
 
 
+- kursmappe
+	- [x] m 5a %% fold %%
+	- [ ] m 8a
+	- [ ] m 8b
+	- [x] p 8a
+	- [ ] p 8b
+	- [x] p 8c %% fold %%
+	- [x] p 10b %% fold %%
+	- [ ] p 10a
 - [ ] Geld PayPal 
 - [ ] Zitrusfrüchte Pflanzen rein stellen 
 - [x] Flipflops 
@@ -319,8 +328,8 @@
 - [ ] Küche 
 - [ ] Wäsche 
 - [ ] listen ausdrucken für 
-	- [ ] p8a
-	- [ ] p8c
+	- [x] p8a
+	- [x] p8c
 	- [ ] m5a
 - [x] Lösung zum Einheiten Umrechnen anschauen 
 - [x] triboelektrische Reihe im Buch anschauen 
@@ -407,7 +416,7 @@
 		  - ⤷ Wenn die Mittel/Durchmesserlinie verschoben ist gilt:  %% fold %%
 			  - Grundlinie unterhalb des Mittelpunkts  %% fold %%
 			    ⟹ $\gamma<90°$ %% fold %%
-			  - Grundlinie oberhalb des Mittelpunkts 
+			  - Grundlinie oberhalb des Mittelpunkts  %% fold %%
 			    ⟹ $\gamma>90°$
 	- [ ] Ähnlichkeit von Dreiecken
 	- [ ] Strahlensatz
@@ -482,15 +491,7 @@
 - [ ] 10b in die Gruppe schreiben 
 	- [ ] von heute abtippen 
 	- [ ] auch der 10a schicken. Sie sollen sich das mal anschauen  %% fold %%
-- kursmappe
-	- [x] m 5a %% fold %%
-	- [ ] m 8a
-	- [ ] m 8b
-	- [x] p 8a
-	- [ ] p 8b
-	- [x] p 8c %% fold %%
-	- [x] p 10b %% fold %%
-	- [ ] p 10a %% fold %%
+ %% fold %%
 - [ ] Paprika ernten  %% fold %%
 - [ ] hydraulische presse bauen  %% fold %%
 - [ ] gemeinsamer Nachschreibe Termin wie läuft das?
@@ -557,7 +558,7 @@
 	- [ ] je zwei schriftliche 
 		- [ ] Addition 
 		- [ ] Subtraktion 
-		- [ ] Multiplikation 
+		- [ ] Multiplikation  %% fold %%
 		- [ ] Division 
 	- [ ] Tabellen/Umfrage Aufgabe 
 - [ ] spazieren 
