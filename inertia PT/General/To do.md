@@ -317,7 +317,7 @@
 	- [ ] p 10a
 - [x] Geld PayPal 
 - [x] Zitrusfrüchte Pflanzen rein stellen 
-	- [ ] erstmal vor das Fenster 
+	- erstmal vor das Fenster 
 - [x] Flipflops 
 - [x] Duschen 
 - [ ] Spaziergang 
@@ -329,11 +329,7 @@
 	- [x] p8a
 	- [x] p8c
 	- [ ] m5a
-- [x] Lösung zum Einheiten Umrechnen anschauen 
-- [x] triboelektrische Reihe im Buch anschauen 
-- [ ] steht aber nicht im Schülerbuch 
 - [ ] Äquivalenzumformung Aufschrieb
-- [x] alex email lesen
 
 
 - [ ] fluidik für 10er einscannen, muss man in den Kapiteln zusammen suchen 
@@ -396,8 +392,8 @@
 	- [ ] wie viele Arbeiten habe ich noch?
 	- [ ] 8a - <font color="#ff0000">11.11 Nachschreiben</font>
 		- [ ] Salma Adnan
-		- [ ] Hamza Azaouagh
-		- [ ] Marharyta Khakhuda
+		- [ ] Hamza Azaouagh %% fold %%
+		- [ ] Marharyta Khakhuda %% fold %%
 	- 8b - <font color="#ff0000">10.11 Nachschreiben</font> %% fold %%
 		- [ ] Rohiv  %% fold %%
 		- [x] Shanaja -> krank %% fold %%
