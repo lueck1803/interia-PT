@@ -333,6 +333,8 @@
 
 
 - [ ] fluidik für 10er einscannen, muss man in den Kapiteln zusammen suchen 
+- [ ] Kartesischer Taucher bauen
+	- [ ] ![[../../Pasted image 20261113141924.png]]
 
 - [ ] Korrektur 
 - [ ] Mathe Arbeit Vorlage 
