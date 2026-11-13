@@ -315,15 +315,13 @@
 	- [x] p 8c %% fold %%
 	- [x] p 10b %% fold %%
 	- [ ] p 10a
-- [ ] Geld PayPal 
-- [ ] Zitrusfrüchte Pflanzen rein stellen 
+- [x] Geld PayPal 
+- [x] Zitrusfrüchte Pflanzen rein stellen 
+	- [ ] erstmal vor das Fenster 
 - [x] Flipflops 
-- [ ] Duschen 
+- [x] Duschen 
 - [ ] Spaziergang 
 - [ ] aldi: Hummus 
-- [ ] Flasche mit Mikrofaser tuch reiben
-- [ ] glas mit Mikrofasertuch reiben 
-- [ ] mit Baumwolltuch 
 - [ ] Spülmaschine 
 - [ ] Küche 
 - [ ] Wäsche 
