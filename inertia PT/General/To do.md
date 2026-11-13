@@ -305,6 +305,8 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
+
+- [ ] Geld PayPal 
 - [ ] Zitrusfrüchte Pflanzen rein stellen 
 - [x] Flipflops 
 - [ ] Duschen 
