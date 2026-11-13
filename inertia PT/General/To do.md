@@ -388,7 +388,7 @@
 - [ ] Mathe nachschreiben
 	- [ ] Nachschreiberegelung checken
 	- [ ] wie viele Arbeiten habe ich noch?
-	- [ ] 8a - <font color="#ff0000">11.11 Nachschreiben</font>
+	- [ ] 8a - <font color="#ff0000">11.11 Nachschreiben</font> %% fold %%
 		- [ ] Salma Adnan
 		- [ ] Hamza Azaouagh %% fold %%
 		- [ ] Marharyta Khakhuda %% fold %%
