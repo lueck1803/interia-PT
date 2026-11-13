@@ -2337,6 +2337,11 @@ Eliasjungberger@icloud.com
 
 ### Thema: Interpretation der Quantenmechanik/Physik
 
+#### 2026-11-13
+Anmerkungen zu seinem Vortragstext
+
+1. (Das hatten wir doch geklärt, lies vielleicht mal das Paper auf dem der Wikipedia Artikel aufbaut. Die Vorhersagen sind sehr gut und zuverlässig, es wird schließlich jeden Tag in den Laboren damit gerechnet. Du meinst, man ist sich nicht einig über die Deutung der Vorhersagen.)
+2. 
 
 ## Samiha Gledovic
 
