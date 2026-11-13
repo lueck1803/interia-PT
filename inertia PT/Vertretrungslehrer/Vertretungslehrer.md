@@ -383,7 +383,7 @@ In dem Satz „Ich helfe der Mutter bei der Hausarbeit“ stehen beide Wörter =
 ---
 
 ### Warum?
-
+ %% fold %%
 Das Verb **"helfen"** verlangt immer den **Dativ** für die Person, der geholfen wird.
 
 - **"der Mutter"** ist das **indirekte Objekt** (Dativobjekt), also die Person, der geholfen wird.
