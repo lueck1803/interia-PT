@@ -305,7 +305,7 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
-- [ ] 
+- [ ] Zitrusfrüchte Pflanzen rein stellen 
 - [x] Flipflops 
 - [ ] Duschen 
 - [ ] Spaziergang 
@@ -344,15 +344,14 @@
 - [x] Mayas Folien anschauen - schon geschickt?
 - [ ] Infos von heute in Vertretungslehrer 
 - [x] Heißklebepistole weg räumen 
-- [ ] Birnen waschen 
-- [ ] flip flops reparieren 
+- [x] Birnen waschen 
+- [x] flip flops reparieren 
 - [ ] tafel von heute abtippen. 10a Hausaufgabe: kraft auf fass berechnen -> in kg
-- [ ] notieren morgen kein Physik 
 - [ ] HNO Termin 
 - [ ] dafür nächste Woche Doppelstunde (Raum?)
 - [ ] mo 16.11 GK - ich bin Protokollant 
 	- [ ] letztes Protokoll anschauen 
-- [ ] Raum 4 kinder zum Förderkurs do 13 Uhr 
+- [ ] Raum 4 kinder zum Förderkurs do 13:45 Uhr 
 - [ ] ma 8a Arbeit überall mündliche Note 
 	- [ ] Melanie+ mia g kurs Bewertung 
 
