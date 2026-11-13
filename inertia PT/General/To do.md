@@ -315,11 +315,6 @@
 	- [x] p 8c %% fold %%
 	- [x] p 10b %% fold %%
 	- [ ] p 10a
-- [x] Geld PayPal 
-- [x] Zitrusfrüchte Pflanzen rein stellen 
-	- erstmal vor das Fenster 
-- [x] Flipflops 
-- [x] Duschen 
 - [ ] Spaziergang 
 - [ ] aldi: Hummus 
 - [ ] Spülmaschine 
@@ -386,8 +381,8 @@
 		- [x] 4 mal drucken
 - [ ] HNO Termin vom 19.11 verlegen wegen Stundenplanänderung 
 - [ ] Mathe nachschreiben
-	- [ ] Nachschreiberegelung checken
-	- [ ] wie viele Arbeiten habe ich noch?
+	- [ ] Nachschreiberegelung checken %% fold %%
+	- [ ] wie viele Arbeiten habe ich noch? %% fold %%
 	- [ ] 8a - <font color="#ff0000">11.11 Nachschreiben</font> %% fold %%
 		- [ ] Salma Adnan
 		- [ ] Hamza Azaouagh %% fold %%
