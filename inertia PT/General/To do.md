@@ -305,7 +305,8 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
-- [ ] Flipflops 
+- [ ] 
+- [x] Flipflops 
 - [ ] Duschen 
 - [ ] Spaziergang 
 - [ ] aldi: Hummus 
@@ -319,8 +320,8 @@
 	- [ ] p8a
 	- [ ] p8c
 	- [ ] m5a
-- [ ] Lösung zum Einheiten Umrechnen anschauen 
-- [ ] triboelektrische Reihe im Buch anschauen 
+- [x] Lösung zum Einheiten Umrechnen anschauen 
+- [x] triboelektrische Reihe im Buch anschauen 
 - [ ] steht aber nicht im Schülerbuch 
 - [ ] Äquivalenzumformung Aufschrieb
 - [x] alex email lesen
