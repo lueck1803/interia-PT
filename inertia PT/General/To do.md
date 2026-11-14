@@ -309,6 +309,7 @@
 - [ ] mein Wissenssammlung für Montag ausdrucken zur Anschauung 
 - [ ] Backofen putzen 
 - [ ] Ohrentropfen ins linke ohr
+- [ ] Kartoffeln putzen 
 - [x] aldi: 
 	- [x] Hummus 
 	- [x] Fischstäbchen
