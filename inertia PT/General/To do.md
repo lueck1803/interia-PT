@@ -306,6 +306,7 @@
 	- [ ] zusammen legen
 
 - [x] Antibiotika nehmen
+- [ ] mein Wissenssammlung für Montag ausdrucken zur Anschauung 
 - [ ] Ohrentropfen ins linke ohr
 - [ ] aldi: 
 	- [ ] Hummus 
