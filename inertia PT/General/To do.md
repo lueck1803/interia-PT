@@ -305,7 +305,8 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
-
+- [ ] Mathe-Wettbewerb 
+	- [ ] kombinati
 - kursmappe
 	- [x] m 5a %% fold %%
 	- [ ] m 8a
