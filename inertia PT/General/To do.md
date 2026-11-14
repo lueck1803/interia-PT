@@ -305,6 +305,7 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
+- [x] Antibiotika nehmen
 - [ ] Elektroskop richten
 	- [ ] mit Batterie laden 
 - [ ] Elias antworten 
@@ -579,7 +580,7 @@
 - [ ] 5a %% fold %%
 	- [ ] Mathearbeit erstellen %% fold %%
 		- [ ] Grundrechenarten
-			- [ ] im kopf
+			- [ ] im kopf %% fold %%
 			- [ ] schriftlich
 		- [ ] Umfragen und Tabellen richtig deuten lesen
 	- [ ] Arbeitsblatt schriftliche Grundrechenarten erstellen
