@@ -5,6 +5,7 @@
 # Stadt
 - [ ] satz dünner pics kaufen, so dünn wie repair tool
 - [ ] mini rasierschaum
+- [ ] Backofenreiniger 
 # Internet 
 - [ ] Usb ⇔ Usb-c Kabel (2m)
 - [ ] Schweißgerät *Parkside PFDS 120 A2*
