@@ -310,6 +310,8 @@
 - [ ] aldi: 
 	- [ ] Hummus 
 	- [ ] Fischstäbchen
+	- [ ] saft
+	- [ ] bier
 - [ ] Kürbis aus der Truhe holen
 - [ ] Ventilator in den Keller
 - [ ] Spülmaschine einräumen 
