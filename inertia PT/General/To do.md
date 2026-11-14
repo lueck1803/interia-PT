@@ -305,6 +305,9 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
+- [ ] Elektroskop richten
+	- [ ] mit Batterie laden 
+- [ ] Elias antworten 
 - [ ] Mathe-Wettbewerb  anschauen 
 	- [ ] Kombinatorik anschauen 
 	- [ ] Statistik 
@@ -315,12 +318,12 @@
 	- [ ] Folgen
 	- [ ] Diagramme (auch zu erstellende, z. B. Streifen- oder Kreisdiagramme oder Graph im Kosy)
 - kursmappe
-	- [x] m 5a %% fold %%
+	- [ ] m 5a %% fold %%
 	- [ ] m 8a
 	- [ ] m 8b
-	- [x] p 8a
+	- [ ] p 8a
 	- [ ] p 8b
-	- [x] p 8c %% fold %%
+	- [ ] p 8c %% fold %%
 	- [x] p 10b %% fold %%
 	- [ ] p 10a
 - [ ] Spaziergang 
