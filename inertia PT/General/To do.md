@@ -309,6 +309,8 @@
 	- [ ] Kombinatorik anschauen 
 	- [ ] Statistik 
 	- [ ] Teilbarkeit/Quersummenregel
+	- [ ] Zeitpläne, Zeitpunkte, Zeitspannen
+	- [ ] Wahrscheinlichkeitsrechnung
 - kursmappe
 	- [x] m 5a %% fold %%
 	- [ ] m 8a
