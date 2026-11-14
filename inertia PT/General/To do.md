@@ -306,7 +306,9 @@
 	- [ ] zusammen legen
 
 - [ ] Mathe-Wettbewerb 
-	- [ ] kombinati
+	- [ ] Kombinatorik anschauen 
+	- [ ] Statistik 
+	- [ ] 
 - kursmappe
 	- [x] m 5a %% fold %%
 	- [ ] m 8a
@@ -385,7 +387,7 @@
 	- [ ] Nachschreiberegelung checken %% fold %%
 	- [ ] wie viele Arbeiten habe ich noch? %% fold %%
 	- [ ] 8a - <font color="#ff0000">11.11 Nachschreiben</font> %% fold %%
-		- [ ] Salma Adnan
+		- [ ] Salma Adnan %% fold %%
 		- [ ] Hamza Azaouagh %% fold %%
 		- [ ] Marharyta Khakhuda %% fold %%
 	- 8b - <font color="#ff0000">10.11 Nachschreiben</font> %% fold %%
