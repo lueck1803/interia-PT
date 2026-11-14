@@ -305,12 +305,15 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
-- [ ] Mathe-Wettbewerb 
+- [ ] Mathe-Wettbewerb  anschauen 
 	- [ ] Kombinatorik anschauen 
 	- [ ] Statistik 
 	- [ ] Teilbarkeit/Quersummenregel
 	- [ ] Zeitpläne, Zeitpunkte, Zeitspannen
 	- [ ] Wahrscheinlichkeitsrechnung
+	- [ ] Flächenberechnung und Koordinatensysteme
+	- [ ] Folgen
+	- [ ] Diagramme (auch zu erstellende, z. B. Streifen- oder Kreisdiagramme oder Graph im Kosy)
 - kursmappe
 	- [x] m 5a %% fold %%
 	- [ ] m 8a
