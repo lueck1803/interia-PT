@@ -346,6 +346,7 @@
 	- [x] p8c
 	- [ ] m5a
 - [ ] Äquivalenzumformung Aufschrieb
+- [ ] dicke braune Schuhe mit pattex kleben 
 
 
 - [ ] fluidik für 10er einscannen, muss man in den Kapiteln zusammen suchen 
