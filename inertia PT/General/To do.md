@@ -307,6 +307,7 @@
 
 - [x] Antibiotika nehmen
 - [ ] mein Wissenssammlung für Montag ausdrucken zur Anschauung 
+- [ ] Backofen putzen 
 - [ ] Ohrentropfen ins linke ohr
 - [x] aldi: 
 	- [x] Hummus 
