@@ -312,7 +312,7 @@
 	- [ ] Hummus 
 	- [ ] Fischstäbchen
 	- [ ] saft
-	- [ ] bier
+	- [x] bier
 - [ ] Kürbis aus der Truhe holen
 - [ ] Ventilator in den Keller
 - [ ] Spülmaschine einräumen 
