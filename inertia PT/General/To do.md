@@ -306,7 +306,14 @@
 	- [ ] zusammen legen
 
 - [x] Antibiotika nehmen
-- [ ] paprika verkochen
+- [ ] Ohrentropfen ins linke ohr
+- [ ] aldi: 
+	- [ ] Hummus 
+	- [ ] Fischstäbchen
+- [ ] Kürbis aus der Truhe holen
+- [ ] Ventilator in den Keller
+- [ ] Spülmaschine einräumen 
+- [ ] paprika verkochen mit kürbis aus der Truhe
 - [ ] gitarre und tastatur putzen
 - [ ] Elektroskop richten
 	- [ ] mit Batterie laden 
@@ -330,8 +337,6 @@
 	- [x] p 10b %% fold %%
 	- [ ] p 10a
 - [ ] Spaziergang 
-- [ ] aldi: Hummus 
-- [ ] Spülmaschine 
 - [ ] Küche 
 - [ ] Wäsche 
 - [ ] listen ausdrucken für 
