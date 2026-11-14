@@ -308,9 +308,9 @@
 - [x] Antibiotika nehmen
 - [ ] mein Wissenssammlung für Montag ausdrucken zur Anschauung 
 - [ ] Ohrentropfen ins linke ohr
-- [ ] aldi: 
-	- [ ] Hummus 
-	- [ ] Fischstäbchen
+- [x] aldi: 
+	- [x] Hummus 
+	- [x] Fischstäbchen
 	- [x] saft
 	- [x] bier
 - [ ] Kürbis aus der Truhe holen
