@@ -577,7 +577,7 @@
 - [ ] 8b Donnerstag salma, Shanaja,hana fehlen 
 - [ ] luna und sofiia in schul.cloud?
 - [ ] 5a %% fold %%
-	- [ ] Mathearbeit erstellen
+	- [ ] Mathearbeit erstellen %% fold %%
 		- [ ] Grundrechenarten
 			- [ ] im kopf
 			- [ ] schriftlich
