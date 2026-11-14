@@ -306,6 +306,7 @@
 	- [ ] zusammen legen
 
 - [x] Antibiotika nehmen
+- [ ] paprika verkochen
 - [ ] Elektroskop richten
 	- [ ] mit Batterie laden 
 - [ ] Elias antworten 
