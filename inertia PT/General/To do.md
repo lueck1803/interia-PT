@@ -307,6 +307,7 @@
 
 - [x] Antibiotika nehmen
 - [ ] paprika verkochen
+- [ ] gitarre und tastatur putzen
 - [ ] Elektroskop richten
 	- [ ] mit Batterie laden 
 - [ ] Elias antworten 
