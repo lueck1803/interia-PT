@@ -308,7 +308,7 @@
 - [ ] Mathe-Wettbewerb 
 	- [ ] Kombinatorik anschauen 
 	- [ ] Statistik 
-	- [ ] 
+	- [ ] Teilbarkeit/Quersummenregel
 - kursmappe
 	- [x] m 5a %% fold %%
 	- [ ] m 8a
