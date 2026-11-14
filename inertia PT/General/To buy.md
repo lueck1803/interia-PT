@@ -17,7 +17,8 @@
 # Aldi
 ## Jetzt
 - Einkaufswagen 
-- [ ] Hummus
+- [ ] backpapier 
+- [x] Hummus
 - [x] Toast 
 - [x] Nudelsoße
 - [x] 3Liter Gefrierbeutel 
