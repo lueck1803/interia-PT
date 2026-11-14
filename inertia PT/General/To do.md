@@ -311,7 +311,7 @@
 - [ ] aldi: 
 	- [ ] Hummus 
 	- [ ] Fischstäbchen
-	- [ ] saft
+	- [x] saft
 	- [x] bier
 - [ ] Kürbis aus der Truhe holen
 - [ ] Ventilator in den Keller
