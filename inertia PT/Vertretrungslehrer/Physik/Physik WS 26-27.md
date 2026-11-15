@@ -364,7 +364,13 @@ Damit ergibt sich die Oberfläche des Zylinders zu:
 $$
 O_{\text{Zylinder}}= 2\cdot \pi r^2 + U_{\text{Kreis}} \cdot h_{\text{Fass}}\\
 = 2\cdot \pi r^2 + 2\pi r \cdot h_{\text{Fass}}\\
-\overset{ \text{Ausklammern} }{ = }2\pi
+ = 2\pi \left( r+h_{\text{Fass}} \right) 
+$$
+Wir stellen die Gleichung für den Druck zunächst nach der Kraft um, dazu müssen wir die Gleichung mit $A$ multiplizieren.
+$$
+p_{\text{außen}}=\frac{F_{\text{Luft$\rightarrow$Fass}}}{A_{\text{Oberfläche-Fass}}} \qquad \left| \cdot A_{\text{O,F}} \right.\\
+p_{\text{außen}}\cdot A_{\text{O,F}}=F_{\text{L$\rightarrow$ F}}
+p_{\text{außen}}\cdot A_{\text{O,F}}=F_{\text{L$\rightarrow$ F}}
 $$
 ## 2026-08-26/27
 - $\pu{ 1Pa }=\pu{ 1 N/m2 }$
