@@ -308,7 +308,7 @@
 - [ ] Antibiotika nehmen
 	- [x] morgens 
 	- [x] Abends
-- [ ] Schul-id mails checken
+- [x] Schul-id mails checken
 - [ ] Biomüll runter
 - [ ] Spülmaschine ausräumen 
 - [ ] Arbeitsblätter Mathe-Wettbewerb checken 
