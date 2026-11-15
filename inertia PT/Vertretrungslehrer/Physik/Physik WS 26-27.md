@@ -333,8 +333,10 @@ Weiter bekannte Drücke aus dem Alltag sind die, die wir auf die Reifen unserer 
 - Autoreifen, je nach Modell und zum Teil verschiedene Drücke auf Vorder- und Hinterrad: $p=\pu{ 3,2 bar }$
 - Rennrad: $p=\pu{ 8bar } \text{ bis } \pu{ 10bar }$
 
-Der Grund für den viel höheren Druck auf einem Rennradreifen, ist dass der Reifen viel dünner (weniger Sta) ist, aber die gleiche Gewichtskraft 
-### 
+Der Grund für den viel höheren Druck auf einem Rennradreifen, ist dass der Reifen viel dünner (weniger Standfläche) ist, aber die gleiche Gewichtskraft des Fahrers und Schläge aushalten muss. Gleichzeitig führt ein höherer Druck des Reifens dazu, dass der Reifen nicht so stark deformiert wird. Dadurch ist der Fahrkomfort zwar geringer, da weniger Schläge durch den Reifen abgefedert werden, allerdings geht dadurch auch weniger Energie beim Rollen durch die Verformung des Reifens verloren.
+### Vakuum in einem leeren Rohölfass
+
+Die Auswirkung, des Atmosphärendrucks der täglich auf uns lastet und uns von allen Seiten zusammendrückt, merken wir im Alltag zum Glück in der Regel nicht
 
 ## 2026-08-26/27
 - $\pu{ 1Pa }=\pu{ 1 N/m2 }$
