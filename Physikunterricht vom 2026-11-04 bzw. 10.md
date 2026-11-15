@@ -1,4 +1,4 @@
-## 2026-11-04/10 Kraft auf luftleeres Fass
+# Kraft auf ein luftleeres Fass
 
 ### Druck den 1kg Mehl auf $\pu{ 1m^2 }$ Tisch ausübt
 $$
