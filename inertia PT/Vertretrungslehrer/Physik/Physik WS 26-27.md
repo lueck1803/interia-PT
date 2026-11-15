@@ -316,8 +316,15 @@ $$
 
 Die Einheit des Drucks heißt *Pascal* und wird definiert als
 $$
-[p]=\frac{\pu{ N }}{\pu{ 1m^2 }}=\frac{\pu{ kg }\cdot \pu{ m//s^2 }}{\pu{ 1m^2 }}=\pu{ kg }\cdot \pu{ \frac{\cancel{ m }}{s^2\cdot \cancelto{ m }{ m^2 }} }
+[p]=\frac{\pu{ N }}{\pu{ 1m^2 }}=\frac{\pu{ kg }\cdot \pu{ m//s^2 }}{\pu{ 1m^2 }}=\pu{ kg }\cdot \pu{ \frac{\cancel{ m }}{s^2\cdot  m^\cancel{ 2 } } }
+\equiv \pu{ Pa }
 $$
+Daher ist der Druck, den das Kilo Mehl auf den $\pu{ 1m^2 }$Tisch ausübt:
+$$
+p=\pu{ 10Pa }
+$$
+
+Das ist ein sehr kleiner Druck im Vergleich zum Atmosphären Druck. Dessen Standardwert (für Vergleichsmessungen) auf $p_{\text{Atmosphäre,std}}= \pu{ 101300 Pa }=\pu{ 1013 hPa }$
 ### 
 
 ## 2026-08-26/27
