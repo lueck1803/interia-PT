@@ -323,9 +323,8 @@ Daher ist der Druck, den das Kilo Mehl auf den $\pu{ 1m^2 }$Tisch ausübt:
 $$
 p=\pu{ 10Pa }
 $$
-
 Das ist ein sehr kleiner Druck im Vergleich zum Atmosphären Druck. Dessen Standardwert (für Vergleichsmessungen) auf $p_{\text{std,atm}}= \pu{ 101325 Pa }=\pu{ 1013,25 hPa }=\pu{ 1013,25 mbar}=\pu{ 1,01325 bar}$ gesetzt ist.
-Dabei stehen die Einheitenvorsätze $\pu{ h }=10^2=100$ für *Hekto*  und $\pu{ m }=\frac{1}{1000}$ für *Milli* tausendstel (siehe [Einheitenvorsätze](https://de.wikipedia.org/wiki/Vors%C3%A4tze_f%C3%BCr_Ma%C3%9Feinheiten)). 
+Dabei stehen die Einheitenvorsätze $\pu{ h }=10^2=100$ für *Hekto* und $\pu{ m }=\frac{1}{1000}$ für *Milli* tausendstel (siehe [Einheitenvorsätze](https://de.wikipedia.org/wiki/Vors%C3%A4tze_f%C3%BCr_Ma%C3%9Feinheiten)). 
 Dieser Druck lastet permanent auf der Oberfläche unseres Körpers.
 
 Weiter bekannte Drücke aus dem Alltag sind die, die wir auf die Reifen unserer Fortbewegungsmittel machen.
