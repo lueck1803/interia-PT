@@ -308,9 +308,9 @@
 - [ ] Antibiotika nehmen
 	- [x] morgens 
 	- [ ] Abends
+- [ ] Schul-id mails checken
 - [ ] Protokollführung anschauen
 - [ ] Mathearbeit fertig korrigieren
-- [ ] 
 - [ ] Fischstäbchen mit kartoffeln und Spinat machen
 - [ ] Rosenkohl zu bereiten
 - [ ] mein Wissenssammlung für Montag ausdrucken zur Anschauung 
