@@ -382,9 +382,10 @@ F_{\text{L$\rightarrow$ F}}=p_{\text{außen}}\cdot 2\pi r\left( r+h_{\text{Fass}
 $$
 Die Einheit $\pu{ cm^2 }$noch in $\pu{ m^2 }$umrechnen.
 $$
-\pu{ 1m }=\pu{ 100cm } \qquad\left| ()^2 \right.
+\pu{ 1m }=\pu{ 100cm } \qquad\left| ()^2 \right.\\
 \pu{ 1m^2 }=\pu{ 100^2cm^2 }=\pu{ 10000 cm^2 }
 $$
+Um die $\pu{ cm^2 }$ in $\pu{ m^2 }$umzuwandeln, müssen wir die $\pu{ cm^2 }$ wegkürzen, daher multiplizieren wir mit $1=\frac{\pu{ 1m^2 }}{\pu{ 10000 cm^2 }}$ damit verändern wir den Wert nicht, verändern aber wie beim Erweitern eines Bruchs ($\frac{1}{4}=\frac{1}{4}\cdot \frac{2}{2}= \frac{2}{8}$, wenn wir ein Viertelstück eines Kuchens halbieren, werden daraus 2 Stücker Kuchen, die Kuchenmenge bleibt aber) die Skalierung.
 
 ## 2026-08-26/27
 - $\pu{ 1Pa }=\pu{ 1 N/m2 }$
