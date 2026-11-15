@@ -348,8 +348,13 @@ Wirklich anschaulich wird die Auswirkung des Atmosphärendrucks, wenn wir aus Ge
 Dadurch können verschiedene Stärken von Vakuum erzeugt werden. Bereits kleine Druckunterschiede führen über eine entsprechende Fläche zu enormen Kräften.
 
 Im Unterricht haben wir das Beispiel eines Rohölfass gerechnet. 
-Rohöl wird in der Einheit **Barrel** (Englisch für Fass) gehandelt. Ein barrel entspricht etwa $\pu{ 159 Liter }$. Das entsprechende Fass dazu umfasst aber etwa $\pu{ 200 Liter}$, da die Fässer nicht voll, sondern mit Luft als Ausdehnungspuffer gelagert werden.
+Rohöl wird in der Einheit [**Barrel**](https://de.wikipedia.org/wiki/Eustachi-R%C3%B6hre) (Englisch für Fass) gehandelt. Ein barrel entspricht etwa $\pu{ 159 Liter }$. Das entsprechende Fass dazu umfasst aber etwa $\pu{ 200 Liter}$, da die Fässer nicht voll, sondern mit Luft als Ausdehnungspuffer gelagert werden.
 
+Nehmen wir jetzt mal an, wir hätten im Fass keinen Gegendruck, also perfektes Vakuum, dann können wir mit der Druckformel ganz einfach berechnen, welche Kraft auf der Oberfläche des Ölfasses lastet. Die Rechnung wäre auch einfach, wenn wir noch einen Rest Innendruck hätten, wir müssten nur die Druckdifferenz berechnen.
+
+$$
+p_{\text{außen}}-p_{\text{innen}}=\frac{F_{\text{Luft$\rightarrow$Fass}}}{A_{}}
+$$
 ## 2026-08-26/27
 - $\pu{ 1Pa }=\pu{ 1 N/m2 }$
 - $\pu{  1 bar} = \pu{  103 mbar} = \pu{ 100 kPa }$
