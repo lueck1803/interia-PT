@@ -311,7 +311,8 @@
 - [ ] Schul-id mails checken
 - [ ] Arbeitsblätter Mathe-Wettbewerb checken 
 	- [ ] B 2024 genug Blätter für a und b Klasse?
-	- [ ] ich glaube für die 
+	- [ ] ich glaube für die a Klasse hatte ich Mittwoch schon welche ausgeteilt 
+	- [ ] auch sicherheitshalber A2025 nochmal kopieren 
 - [ ] Protokollführung anschauen
 - [ ] Mathearbeit fertig korrigieren
 - [ ] Fischstäbchen mit kartoffeln und Spinat machen
