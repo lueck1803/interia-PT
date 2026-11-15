@@ -337,7 +337,9 @@ Der Grund für den viel höheren Druck auf einem Rennradreifen, ist dass der Rei
 
 Die Auswirkung, des Atmosphärendrucks der täglich auf uns lastet und uns von allen Seiten zusammendrückt, merken wir im Alltag zum Glück in der Regel nicht.
 Das liegt daran, dass Gefäße und insbesondere Körperhöhlen, wie das Mittelohr, die Stirnhöhlen und die Lunge permanent im Kontakt mit dem Außenluftdruck stehen.
-Das Mittelohr ist über die [Eustachi-Röhre](https://de.wikipedia.org/wiki/Eustachi-R%C3%B6hre) mit dem Nasenrachenraum verbunden. Bei Druckänderungen in der Atmosphäre, zb. wenn wir schnell unsere Höhenlage ändern, Fahrt in einen Tu
+Das Mittelohr ist über die [Eustachi-Röhre](https://de.wikipedia.org/wiki/Eustachi-R%C3%B6hre) mit dem Nasenrachenraum verbunden. Bei Druckänderungen in der Atmosphäre, zb. wenn wir schnell unsere Höhenlage ändern, Fahrt in einen Tunnel oder auf einen Berg, oder wenn wir unter Wasser tauchen, dann lastet ein anderer Druck von außen auf das Trommelfell, als von innen gegen drückt. Durch das Zuhalten der Nase und Druckaufbau oder aber auch beim Gähnen und Schlucken öffnet sich die Eustachi-Röhre und es findet ein Druckausgleich statt. Dies ist meistens durch ein leichtes Knacken im Ohr zuhören.
+
+Schall, der nichts anderes ist als eine periodische Druckänderung (Dichtewelle) in der Luft führt zum Schwingen des Trommelfells. Diese Schwingungen werden über die Gehörknöchel weit
 
 ## 2026-08-26/27
 - $\pu{ 1Pa }=\pu{ 1 N/m2 }$
