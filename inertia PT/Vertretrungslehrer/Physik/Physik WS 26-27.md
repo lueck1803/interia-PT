@@ -324,7 +324,10 @@ $$
 p=\pu{ 10Pa }
 $$
 
-Das ist ein sehr kleiner Druck im Vergleich zum Atmosphären Druck. Dessen Standardwert (für Vergleichsmessungen) auf $p_{\text{Atmosphäre,std}}= \pu{ 101300 Pa }=\pu{ 1013 hPa }$
+Das ist ein sehr kleiner Druck im Vergleich zum Atmosphären Druck. Dessen Standardwert (für Vergleichsmessungen) auf $p_{\text{std,atm}}= \pu{ 101325 Pa }=\pu{ 1013,25 hPa }=\pu{ 1013,25 mbar}=\pu{ 1,01325 bar}$ gesetzt ist.
+Dabei stehen die Einheitenvorsätze $\pu{ h }=10^2=100$ für *hekto*  und $\pu{ m }=$ für *milli* eintausendstel 
+
+
 ### 
 
 ## 2026-08-26/27
