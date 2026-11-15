@@ -305,11 +305,18 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
-- [x] Antibiotika nehmen
+- [ ] Antibiotika nehmen
+	- [x] morgens 
+	- [ ] Abends
+- [ ] Protokollführung anschauen
+- [ ] Mathearbeit fertig korrigieren
+- [ ] 
+- [ ] Fischstäbchen mit kartoffeln und Spinat machen
+- [ ] Rosenkohl zu bereiten
 - [ ] mein Wissenssammlung für Montag ausdrucken zur Anschauung 
-- [ ] Backofen putzen 
+- [x] Backofen putzen 
 - [ ] Ohrentropfen ins linke ohr
-- [ ] Kartoffeln putzen 
+- [x] Kartoffeln putzen 
 - [x] aldi: 
 	- [x] Hummus 
 	- [x] Fischstäbchen
@@ -317,6 +324,7 @@
 	- [x] bier
 - [ ] Kürbis aus der Truhe holen
 - [ ] Ventilator in den Keller
+	- [ ] kein platz, muss ich hier irgendwie unterkriegen
 - [ ] Spülmaschine einräumen 
 - [ ] paprika verkochen mit kürbis aus der Truhe
 - [ ] gitarre und tastatur putzen
