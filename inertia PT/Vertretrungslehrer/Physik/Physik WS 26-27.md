@@ -373,7 +373,7 @@ p_{\text{außen}}\cdot A_{\text{O,F}}=\frac{F_{\text{L$\rightarrow$ F}}}{\cancel
 F_{\text{L$\rightarrow$ F}}=p_{\text{außen}}\cdot A_{\text{O,F}}\\
 F_{\text{L$\rightarrow$ F}}=p_{\text{außen}}\cdot 2\pi r\left( r+h_{\text{Fass}} \right) 
 $$
-Jetzt müssen wir nur noch einsetzen, die Einheit umrechnen und in den Taschenrechner eingeben. Die Höhe $h=\pu{88 cm  }$und den Radius des Fass $r=\frac{d}{2}=\frac{\pu{ 58 cm }}{2}$ entnehmen wir der Zeichnung.
+Jetzt müssen wir nur noch einsetzen, die Einheit umrechnen und in den Taschenrechner eingeben. Die Höhe $h=\pu{88 cm  }$und der Radius des Fasses $r=\frac{d}{2}=\frac{\pu{ 58 cm }}{2}$ beträgt.
 $$
 F_{\text{L$\rightarrow$ F}}=p_{\text{außen}}\cdot 2\pi r\left( r+h_{\text{Fass}} \right)\\
 =\pu{ 101325 Pa } \cdot 2\pi\cdot \frac{\pu{ 58 cm }}{2}\left( \frac{\pu{ 58 cm }}{2}+\pu{ 88cm } \right) \\
@@ -397,11 +397,9 @@ $$
 Wer sich unter Newton nichts vorstellen kann, kann auch jetzt einfach durch 10 teilen und erhält ungefähr den Wert der Masse in $\pu{ kg }$die entsprechend eine Gewichtskraft auf das Fass ausübt.
 $$
 F_{\text{L$\rightarrow$ F}}
-=\pu{ 101325 Pa } \cdot 2\pi\cdot \pu{ 3393 \cancel{ cm^2 } }\cdot\frac{\pu{ 1m^2 }}{\pu{ 10000 \cancel{ cm^2 } }}\\
-= \pu{ \frac{101325 \cdot 2\pi\cdot 3393}{10000} \frac{N}{\cancel{ m^2 }}\cdot \cancel{ m^2 } }\\
-=\pu{ 216013N}
+=\pu{ 216013N} \rightarrow m\sim \pu{ 21601kg  }\sim\pu{ 21,6 t }
 $$
-
+Auf der Oberfläche des Fass lastest also ungefähr eine Masse von $21,6$ Tonnen.
 ## 2026-08-26/27
 - $\pu{ 1Pa }=\pu{ 1 N/m2 }$
 - $\pu{  1 bar} = \pu{  103 mbar} = \pu{ 100 kPa }$
