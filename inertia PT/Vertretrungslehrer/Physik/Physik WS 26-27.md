@@ -377,7 +377,13 @@ Jetzt müssen wir nur noch einsetzen, die Einheit umrechnen und in den Taschenre
 $$
 F_{\text{L$\rightarrow$ F}}=p_{\text{außen}}\cdot 2\pi r\left( r+h_{\text{Fass}} \right)\\
 =\pu{ 101325 Pa } \cdot 2\pi\cdot \frac{\pu{ 58 cm }}{2}\left( \frac{\pu{ 58 cm }}{2}+\pu{ 88cm } \right) \\
-=\pu{ 101325 Pa } \cdot 2\pi\cdot \pu{ 29 cm }\cdot \pu{ 58 cm }}{2}+\pu{ 88cm } \right)
+=\pu{ 101325 Pa } \cdot 2\pi\cdot \pu{ 29 cm }\cdot \pu{ 117 cm }\\
+=\pu{ 101325 Pa } \cdot 2\pi\cdot \pu{ 3393 cm^2 }\\
+$$
+Die Einheit $\pu{ cm^2 }$noch in $\pu{ m^2 }$umrechnen.
+$$
+\pu{ 1m }=\pu{ 100cm } \qquad\left| ()^2 \right.
+\pu{ 1m^2 }=\pu{ 100^2cm^2 }=\pu{ 10000 cm^2 }
 $$
 
 ## 2026-08-26/27
