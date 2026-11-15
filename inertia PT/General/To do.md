@@ -309,6 +309,8 @@
 	- [x] morgens 
 	- [ ] Abends
 - [ ] Schul-id mails checken
+- [ ] Arbeitsblätter Mathe-Wettbewerb checken 
+- [ ] 
 - [ ] Protokollführung anschauen
 - [ ] Mathearbeit fertig korrigieren
 - [ ] Fischstäbchen mit kartoffeln und Spinat machen
