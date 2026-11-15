@@ -336,7 +336,8 @@ Der Grund für den viel höheren Druck auf einem Rennradreifen, ist dass der Rei
 ### Vakuum in einem leeren Rohölfass
 
 Die Auswirkung, des Atmosphärendrucks der täglich auf uns lastet und uns von allen Seiten zusammendrückt, merken wir im Alltag zum Glück in der Regel nicht.
-Das liegt daran, dass Gefäße und insbesondere Körperhöhlen, wie das Mittelohr, die Stirnhöhlen 
+Das liegt daran, dass Gefäße und insbesondere Körperhöhlen, wie das Mittelohr, die Stirnhöhlen und die Lunge permanent im Kontakt mit dem Außenluftdruck stehen.
+Das Mittelohr ist über die [Eustachi-Röhre](https://de.wikipedia.org/wiki/Eustachi-R%C3%B6hre) mit dem Nasenrachenraum verbunden. Bei Druckänderungen in der Atmosphäre, zb. wenn wir schnell unsere Höhenlage ändern, Fahrt in einen Tu
 
 ## 2026-08-26/27
 - $\pu{ 1Pa }=\pu{ 1 N/m2 }$

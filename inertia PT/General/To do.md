@@ -317,18 +317,9 @@
 	- [ ] auch sicherheitshalber A2025 nochmal kopieren 
 - [ ] Protokollführung anschauen
 - [ ] Mathearbeit fertig korrigieren
-- [x] Fischstäbchen mit kartoffeln und Spinat machen
-- [x] Rosenkohl zu bereiten
 - [ ] mein Wissenssammlung für Montag ausdrucken zur Anschauung 
 - [ ] fluidik für 10er einscannen, muss man in den Kapiteln zusammen suchen 
-- [x] Backofen putzen 
 - [ ] Ohrentropfen ins linke ohr
-- [x] Kartoffeln putzen 
-- [x] aldi: 
-	- [x] Hummus 
-	- [x] Fischstäbchen
-	- [x] saft
-	- [x] bier
 - [ ] Kürbis aus der Truhe holen
 - [ ] Ventilator in den Keller
 	- [ ] kein platz, muss ich hier irgendwie unterkriegen
@@ -337,7 +328,6 @@
 - [ ] gitarre und tastatur putzen
 - [ ] Elektroskop richten
 	- [ ] mit Batterie laden 
-- [x] Elias antworten 
 - [ ] Mathe-Wettbewerb  anschauen 
 	- [ ] Kombinatorik anschauen 
 	- [ ] Statistik 
@@ -413,10 +403,10 @@
 	- [x] Blatt ausdrucken
 - [x] zählen wie viele Physikblätter ich für die 8b habe.
 	- [x] ⤷ E-Lehre Arbeitsblätter für 8b drucken.
-		- 6
-	- [x] ⤷ 17 Stück drucken
-	- Wie viele Arbeitsblätter für die Ergänzungsaufgabe habe ich noch? 
-		- 10
+		- 6 %% fold %%
+	- [x] ⤷ 17 Stück drucken %% fold %%
+	- Wie viele Arbeitsblätter für die Ergänzungsaufgabe habe ich noch?  %% fold %%
+		- 10 %% fold %%
 		- [x] 4 mal drucken
 - [ ] HNO Termin vom 19.11 verlegen wegen Stundenplanänderung  %% fold %%
 - [ ] Mathe nachschreiben
