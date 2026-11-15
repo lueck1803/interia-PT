@@ -364,17 +364,21 @@ Damit ergibt sich die Oberfläche des Zylinders zu:
 $$
 O_{\text{Zylinder}}= 2\cdot \pi r^2 + U_{\text{Kreis}} \cdot h_{\text{Fass}}\\
 = 2\cdot \pi r^2 + 2\pi r \cdot h_{\text{Fass}}\\
- = 2\pi \left( r+h_{\text{Fass}} \right) 
+ = 2\pi r\left( r+h_{\text{Fass}} \right) 
 $$
 Wir stellen die Gleichung für den Druck zunächst nach der Kraft um, dazu müssen wir die Gleichung mit $A$ multiplizieren.
 $$
 p_{\text{außen}}=\frac{F_{\text{Luft$\rightarrow$Fass}}}{A_{\text{Oberfläche-Fass}}} \qquad \left| \cdot A_{\text{O,F}} \right.\\
 p_{\text{außen}}\cdot A_{\text{O,F}}=\frac{F_{\text{L$\rightarrow$ F}}}{\cancel{ A_{\text{O,F}} }}\cdot \cancel{ A_{\text{O,F}} }\\
 F_{\text{L$\rightarrow$ F}}=p_{\text{außen}}\cdot A_{\text{O,F}}\\
-F_{\text{L$\rightarrow$ F}}=p_{\text{außen}}\cdot 2\pi \left( r+h_{\text{Fass}} \right) 
+F_{\text{L$\rightarrow$ F}}=p_{\text{außen}}\cdot 2\pi r\left( r+h_{\text{Fass}} \right) 
 $$
 Jetzt müssen wir nur noch einsetzen, die Einheit umrechnen und in den Taschenrechner eingeben. Die Höhe $h=\pu{88 cm  }$und den Radius des Fass $r=\frac{d}{2}=\frac{\pu{ 58 cm }}{2}$ entnehmen wir der Zeichnung.
-
+$$
+F_{\text{L$\rightarrow$ F}}=p_{\text{außen}}\cdot 2\pi r\left( r+h_{\text{Fass}} \right)\\
+=\pu{ 101325 Pa } \cdot 2\pi\cdot \frac{\pu{ 58 cm }}{2}\left( \frac{\pu{ 58 cm }}{2}+\pu{ 88cm } \right) \\
+=\pu{ 101325 Pa } \cdot 2\pi\cdot \pu{ 29 cm }\cdot \pu{ 58 cm }}{2}+\pu{ 88cm } \right)
+$$
 
 ## 2026-08-26/27
 - $\pu{ 1Pa }=\pu{ 1 N/m2 }$
