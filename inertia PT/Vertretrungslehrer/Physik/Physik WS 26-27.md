@@ -353,7 +353,18 @@ Rohöl wird in der Einheit [**Barrel**](https://de.wikipedia.org/wiki/Eustachi-R
 Nehmen wir jetzt mal an, wir hätten im Fass keinen Gegendruck, also perfektes Vakuum, dann können wir mit der Druckformel ganz einfach berechnen, welche Kraft auf der Oberfläche des Ölfasses lastet. Die Rechnung wäre auch einfach, wenn wir noch einen Rest Innendruck hätten, wir müssten nur die Druckdifferenz berechnen.
 
 $$
-p_{\text{außen}}-p_{\text{innen}}=\frac{F_{\text{Luft$\rightarrow$Fass}}}{A_{}}
+p_{\text{außen}}-p_{\text{innen}}=\frac{F_{\text{Luft$\rightarrow$Fass}}}{A_{\text{Oberfläche-Fass}}}
+$$
+Wir nehmen an, dass $p_{\text{innen}}=\pu{ 0Pa }$ ist. Das Fass hat die Form eines Zylinders, dessen Oberfläche ergibt sich aus der Fläche des Deckels, des Bodens und der Mantelfläche. Der Deckel und der Boden haben die Form eines Kreis und der Mantel hat die Form eines Rechtecks mit einer Seitenlänge, die der Höhe des Fass entspricht und einer Seitenlänge die dem Umfang des Kreis entspricht.
+$$
+O_{\text{Zylinder}}= 2\cdot A_{\text{Kreis}} + A_{\text{Zylindermantel}}
+$$
+Die Fläche eines Kreis ist $A_{\text{Kreis}}=\pi r^2$ und der Umfang des Kreis ist $U_{\text{Kreis}}=\pi d=2\pi r$.
+Damit ergibt sich die Oberfläche des Zylinders zu:
+$$
+O_{\text{Zylinder}}= 2\cdot \pi r^2 + U_{\text{Kreis}} \cdot h_{\text{Fass}}\\
+= 2\cdot \pi r^2 + 2\pi r \cdot h_{\text{Fass}}\\
+\overset{ \text{Ausklammern} }{ = }2\pi
 $$
 ## 2026-08-26/27
 - $\pu{ 1Pa }=\pu{ 1 N/m2 }$
