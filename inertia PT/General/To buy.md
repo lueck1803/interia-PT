@@ -19,6 +19,7 @@
 ## Jetzt
 - Einkaufswagen 
 - [ ] backpapier 
+- [ ] Spülmaschinenpulver 
 - [x] Hummus
 - [x] Toast 
 - [x] Nudelsoße

@@ -312,7 +312,7 @@
 - [ ] Biomüll runter
 - [ ] Spinat austragen 
 - [ ] ofen aufheizen 
-- [ ] Spülmaschine anstellen 
+- [x] Spülmaschine anstellen 
 - [ ] Spülmaschine ausräumen 
 - [ ] Arbeitsblätter Mathe-Wettbewerb checken 
 	- [ ] B 2024 genug Blätter für a und b Klasse?
