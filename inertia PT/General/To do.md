@@ -317,8 +317,8 @@
 	- [ ] auch sicherheitshalber A2025 nochmal kopieren 
 - [ ] Protokollführung anschauen
 - [ ] Mathearbeit fertig korrigieren
-- [ ] Fischstäbchen mit kartoffeln und Spinat machen
-- [ ] Rosenkohl zu bereiten
+- [x] Fischstäbchen mit kartoffeln und Spinat machen
+- [x] Rosenkohl zu bereiten
 - [ ] mein Wissenssammlung für Montag ausdrucken zur Anschauung 
 - [ ] fluidik für 10er einscannen, muss man in den Kapiteln zusammen suchen 
 - [x] Backofen putzen 
