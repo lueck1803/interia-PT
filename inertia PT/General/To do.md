@@ -310,7 +310,8 @@
 	- [ ] Abends
 - [ ] Schul-id mails checken
 - [ ] Arbeitsblätter Mathe-Wettbewerb checken 
-- [ ] 
+	- [ ] B 2024 genug Blätter für a und b Klasse?
+	- [ ] ich glaube für die 
 - [ ] Protokollführung anschauen
 - [ ] Mathearbeit fertig korrigieren
 - [ ] Fischstäbchen mit kartoffeln und Spinat machen
