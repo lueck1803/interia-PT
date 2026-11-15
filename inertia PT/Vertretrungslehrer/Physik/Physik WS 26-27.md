@@ -385,7 +385,22 @@ $$
 \pu{ 1m }=\pu{ 100cm } \qquad\left| ()^2 \right.\\
 \pu{ 1m^2 }=\pu{ 100^2cm^2 }=\pu{ 10000 cm^2 }
 $$
-Um die $\pu{ cm^2 }$ in $\pu{ m^2 }$umzuwandeln, müssen wir die $\pu{ cm^2 }$ wegkürzen, daher multiplizieren wir mit $1=\frac{\pu{ 1m^2 }}{\pu{ 10000 cm^2 }}$ damit verändern wir den Wert nicht, verändern aber wie beim Erweitern eines Bruchs ($\frac{1}{4}=\frac{1}{4}\cdot \frac{2}{2}= \frac{2}{8}$, wenn wir ein Viertelstück eines Kuchens halbieren, werden daraus 2 Stücker Kuchen, die Kuchenmenge bleibt aber) die Skalierung.
+Um die $\pu{ cm^2 }$ in $\pu{ m^2 }$umzuwandeln, müssen wir die $\pu{ cm^2 }$ wegkürzen, daher multiplizieren wir mit $1=\frac{\pu{ 1m^2 }}{\pu{ 10000 cm^2 }}$ damit verändern wir den Wert nicht, verändern aber wie beim Erweitern eines Bruchs die Skalierung. 
+<u>Beispiel:</u> Wenn wir ein Viertelstück eines Kuchens halbieren, werden daraus 2 Stücker Kuchen, die Kuchenmenge bleibt aber gleich$\frac{1}{4}=\frac{1}{4}\cdot \frac{2}{2}= \frac{2}{8}$.
+
+$$
+F_{\text{L$\rightarrow$ F}}
+=\pu{ 101325 Pa } \cdot 2\pi\cdot \pu{ 3393 \cancel{ cm^2 } }\cdot\frac{\pu{ 1m^2 }}{\pu{ 10000 \cancel{ cm^2 } }}\\
+= \pu{ \frac{101325 \cdot 2\pi\cdot 3393}{10000} \frac{N}{\cancel{ m^2 }}\cdot \cancel{ m^2 } }\\
+=\pu{ 216013N}
+$$
+Wer sich unter Newton nichts vorstellen kann, kann auch jetzt einfach durch 10 teilen und erhält ungefähr den Wert der Masse in $\pu{ kg }$die entsprechend eine Gewichtskraft auf das Fass ausübt.
+$$
+F_{\text{L$\rightarrow$ F}}
+=\pu{ 101325 Pa } \cdot 2\pi\cdot \pu{ 3393 \cancel{ cm^2 } }\cdot\frac{\pu{ 1m^2 }}{\pu{ 10000 \cancel{ cm^2 } }}\\
+= \pu{ \frac{101325 \cdot 2\pi\cdot 3393}{10000} \frac{N}{\cancel{ m^2 }}\cdot \cancel{ m^2 } }\\
+=\pu{ 216013N}
+$$
 
 ## 2026-08-26/27
 - $\pu{ 1Pa }=\pu{ 1 N/m2 }$
@@ -486,7 +501,7 @@ Um die $\pu{ cm^2 }$ in $\pu{ m^2 }$umzuwandeln, müssen wir die $\pu{ cm^2 }$ w
 - $m_{\text{Abrissbirne}}=\rho_{\text{Eisen}}\cdot V_{\text{Abrissbirne}}$ %% fold %%
 - $=\rho_{\text{Fe}}\cdot V_{\text{Kugel}}$ %% fold %%
 - $=\rho_{\text{Fe}}\cdot \frac{4}{3}\pi r^{3}$ %% fold %%
-- $=\frac{4}{3}\pi \cdot \pu{7,87 \frac{g}{\cancel{ cm^3 }}  }\cdot (\pu{ 18\cancel{ cm } })^{3}$
+- $=\frac{4}{3}\pi \cdot \pu{7,87 \frac{g}{\cancel{ cm^3 }}  }\cdot (\pu{ 18\cancel{ cm } })^{3}$ %% fold %%
 - $=\pu{192256g  }\approx\pu{192,26kg  }$ %% fold %%
 - ⤷ im letzten Schritt wurde auf die 2te Nachkommastelle gerundet.
 
