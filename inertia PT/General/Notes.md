@@ -103,8 +103,27 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
-## 
+## 2026-11-15 nadine
+Ja das ist das Problem 😅
 
+Also so letzte Woche dachte ich, dass jetzt der Rest an Hörvermögen nur noch daran hängt, dass ich noch die Röhrchen in den Trommelfellen habe. 
+
+War schon echt gut. 
+
+Seit Montag ist mein linkes Ohr wieder entzündet und ich hab jetzt die ganze Woche links wieder fast nichts mehr gehört. 
+
+Musste mich im Unterricht immer mit dem rechten Ohr zu den Leuten drehen. 
+
+Ist mir Montag zunächst nur dadurch aufgefallen, dass mir wieder Zeug aus dem linken Ohr gelaufen ist. 
+
+Dank der Röhrchen kann das ja einfach raus laufen. 
+
+Dadurch war aber mein Gehörgang Montag plötzlich zu. 
+
+Und ja was ich besonders nicht so toll fand war, dass mir jetzt die ganze Woche je nach Zustand, Zeug während dem Unterricht aus dem Ohr gelaufen ist. 
+
+Hab ich dann immer schnell weg wischen müssen. 
+## 2026-11-10
 [20:23, 11/10/2026] Lukas Walter: Melanie vorhin: " Ich dachte sie mögen mich nicjr so. Wir hatten doch oft Stress und ich nervte sie oft "
 [20:23, 11/10/2026] Lukas Walter: Diese Melanie xD ist schon so ein spezialgelagerter Sonderfall xD
 ## 2026-11-10 leon 
@@ -490,7 +509,7 @@ Ich weiß dann aber häufig nicht womit ich die Grenzen der Anderen und auch mei
 Was die vocals angeht ist der song aber auch echt fair. 
 
 Text ist größtenteils an Stellen an denen die Gitarre "einfach" ist. 
-
+ %% fold %%
 Das hab ich auch schon angetestet. 
 
 Auch die Stelle die mit Text schwer ist. Letzteres aber nicht auf 100%. Immerhin ist der Text da einfach 😅.
