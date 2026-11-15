@@ -311,6 +311,7 @@
 - [ ] Schul-id mails checken
 - [ ] Biomüll runter
 - [ ] Spinat austragen 
+- [ ] ofen aufheizen 
 - [ ] Arbeitsblätter Mathe-Wettbewerb checken 
 	- [ ] B 2024 genug Blätter für a und b Klasse?
 	- [ ] ich glaube für die a Klasse hatte ich Mittwoch schon welche ausgeteilt 
