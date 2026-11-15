@@ -311,7 +311,8 @@
 - [ ] Schul-id mails checken
 - [ ] Biomüll runter
 - [ ] Spinat austragen 
-- [ ] ofen aufheizen 
+- [ ] Rotkohl ⟹ balkon 
+- [x] ofen aufheizen 
 - [x] Spülmaschine anstellen 
 - [ ] Spülmaschine ausräumen 
 - [ ] Arbeitsblätter Mathe-Wettbewerb checken 
