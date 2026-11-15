@@ -307,12 +307,13 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 $$
 p=\frac{\left| \vec{F}_{\perp} \right|}{A}=\frac{F_{\text{\small Gewichtskraft-Mehl}}}{A_{\text{Tisch}}}
 $$
-$F_{\text{G-Mehl}}$ ist die Gewichtskraft die durch die Masse des Mehls $m=\pu{ 1kg }$ und die Erdbeschleunigung $g=\pu{ 9,81 m//s^2 }\approx \pu{10\frac{m}{s^2}}$, mit der wir alle zum Erdmittelpunkt hin beschleunigt werden, gegeben ist.
+$F_{\text{G-Mehl}}$ ist die Gewichtskraft die durch die Masse des Mehls $m=\pu{ 1kg }$ und die Erdbeschleunigung $g=\pu{ 9,81 m//s^2 }\approx \pu{10\frac{m}{s^2}}$, mit der wir alle zum Erdmittelpunkt hin beschleunigt werden, gegeben ist. Die Einheit der Kraft ist Newton ($\pu{N}$). Die Gewichtskraft des Kilo Mehls ist somit $F_{G}=m\cdot g=\pu{ 1kg }\cdot \pu{ 9,81 \frac{m}{s^2} }\approx \pu{ 10 N }$
 $$
 p =\frac{F_{\text{\small Gewichtskraft-Mehl}}}{A_{\text{Tisch}}}
 = \frac{m\cdot g}{A}= \frac{\pu{ 1 kg }\cdot \pu{ 9,81 m//s^2 }}{\pu{ 1m^2 }}
-\\approx \frac{\pu{ 1 kg }\cdot \pu{ 9,81 m//s^2 }}{\pu{ 1m^2 }}
+\approx \frac{\pu{ 1 kg }\cdot \pu{ 10 m//s^2 }}{\pu{ 1m^2 } = \frac{\pu{ 10 N }}{1 m^2}}
 $$
+
 ### 
 
 ## 2026-08-26/27
