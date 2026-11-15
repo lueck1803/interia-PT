@@ -301,6 +301,7 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 	- Durchmesser 58cm
 	- Höhe: 88cm
 	- Leergewicht: 16 kg (Stahlfass)
+## 2026-11-10
 
 ## 2026-08-26/27
 - $\pu{ 1Pa }=\pu{ 1 N/m2 }$
