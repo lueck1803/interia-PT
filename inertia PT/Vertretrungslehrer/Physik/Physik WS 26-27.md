@@ -339,7 +339,16 @@ Die Auswirkung, des Atmosphärendrucks der täglich auf uns lastet und uns von a
 Das liegt daran, dass Gefäße und insbesondere Körperhöhlen, wie das Mittelohr, die Stirnhöhlen und die Lunge permanent im Kontakt mit dem Außenluftdruck stehen.
 Das Mittelohr ist über die [Eustachi-Röhre](https://de.wikipedia.org/wiki/Eustachi-R%C3%B6hre) mit dem Nasenrachenraum verbunden. Bei Druckänderungen in der Atmosphäre, zb. wenn wir schnell unsere Höhenlage ändern, Fahrt in einen Tunnel oder auf einen Berg, oder wenn wir unter Wasser tauchen, dann lastet ein anderer Druck von außen auf das Trommelfell, als von innen gegen drückt. Durch das Zuhalten der Nase und Druckaufbau oder aber auch beim Gähnen und Schlucken öffnet sich die Eustachi-Röhre und es findet ein Druckausgleich statt. Dies ist meistens durch ein leichtes Knacken im Ohr zuhören.
 
-Schall, der nichts anderes ist als eine periodische Druckänderung (Dichtewelle) in der Luft führt zum Schwingen des Trommelfells. Diese Schwingungen werden über die Gehörknöchel weit
+Schall, der nichts anderes ist als eine periodische Druckänderung (Dichtewelle) in der Luft führt zum Schwingen des Trommelfells. Diese Schwingungen werden über die Gehörknöchel weiter getragen an das Innenohr. Hier bewegt sich eine Flüssigkeit, die in der Gehörschnecke kleine Haare zum schwingen bringen, die einen Nervenreiz erzeugen, den wir als Geräusche wahrnehmen.
+
+Wirklich unangenehm fallen uns bereits leichte Druckdifferenz in der Atmosphäre auf, wenn das Druckausgleichssystem durch Krankheit gestört ist. Bei einer Entzündung im Innenohr oder der Stirnhöhlen kann eben kein ausreichender Druckausgleich mit der Atmosphäre stattfinden und bereits leichte Druckänderungen durch das Wetter führen zu starken Schmerzen.
+
+Wirklich anschaulich wird die Auswirkung des Atmosphärendrucks, wenn wir aus Gegenständen mit Hilfe einer Pumpe die den Gegendruck erzeugenden Teilchen herauspumpen.
+
+Dadurch können verschiedene Stärken von Vakuum erzeugt werden. Bereits kleine Druckunterschiede führen über eine entsprechende Fläche zu enormen Kräften.
+
+Im Unterricht haben wir das Beispiel eines Rohölfass gerechnet. 
+Rohöl wird in der Einheit **Barrel** (Englisch für Fass) gehandelt. Ein barrel entspricht etwa $\pu{ 159 Liter }$. Das entsprechende Fass dazu umfasst aber etwa $\pu{ 200 Liter}$, da die Fässer nicht voll, sondern mit Luft als Ausdehnungspuffer gelagert werden.
 
 ## 2026-08-26/27
 - $\pu{ 1Pa }=\pu{ 1 N/m2 }$
