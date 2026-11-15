@@ -314,6 +314,7 @@
 - [ ] Fischstäbchen mit kartoffeln und Spinat machen
 - [ ] Rosenkohl zu bereiten
 - [ ] mein Wissenssammlung für Montag ausdrucken zur Anschauung 
+- [ ] fluidik für 10er einscannen, muss man in den Kapiteln zusammen suchen 
 - [x] Backofen putzen 
 - [ ] Ohrentropfen ins linke ohr
 - [x] Kartoffeln putzen 
@@ -330,7 +331,7 @@
 - [ ] gitarre und tastatur putzen
 - [ ] Elektroskop richten
 	- [ ] mit Batterie laden 
-- [ ] Elias antworten 
+- [x] Elias antworten 
 - [ ] Mathe-Wettbewerb  anschauen 
 	- [ ] Kombinatorik anschauen 
 	- [ ] Statistik 
@@ -360,7 +361,6 @@
 - [ ] dicke braune Schuhe mit pattex kleben 
 
 
-- [ ] fluidik für 10er einscannen, muss man in den Kapiteln zusammen suchen 
 - [ ] Kartesischer Taucher bauen
 	- [ ] ![[../../Pasted image 20261113141924.png]]
 
