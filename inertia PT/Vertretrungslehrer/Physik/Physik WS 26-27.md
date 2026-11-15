@@ -369,9 +369,13 @@ $$
 Wir stellen die Gleichung für den Druck zunächst nach der Kraft um, dazu müssen wir die Gleichung mit $A$ multiplizieren.
 $$
 p_{\text{außen}}=\frac{F_{\text{Luft$\rightarrow$Fass}}}{A_{\text{Oberfläche-Fass}}} \qquad \left| \cdot A_{\text{O,F}} \right.\\
-p_{\text{außen}}\cdot A_{\text{O,F}}=F_{\text{L$\rightarrow$ F}}
-p_{\text{außen}}\cdot A_{\text{O,F}}=F_{\text{L$\rightarrow$ F}}
+p_{\text{außen}}\cdot A_{\text{O,F}}=\frac{F_{\text{L$\rightarrow$ F}}}{\cancel{ A_{\text{O,F}} }}\cdot \cancel{ A_{\text{O,F}} }\\
+F_{\text{L$\rightarrow$ F}}=p_{\text{außen}}\cdot A_{\text{O,F}}\\
+F_{\text{L$\rightarrow$ F}}=p_{\text{außen}}\cdot 2\pi \left( r+h_{\text{Fass}} \right) 
 $$
+Jetzt müssen wir nur noch einsetzen, die Einheit umrechnen und in den Taschenrechner eingeben. Die Höhe $h=\pu{88 cm  }$und den Radius des Fass $r=\frac{d}{2}=\frac{\pu{ 58 cm }}{2}$ entnehmen wir der Zeichnung.
+
+
 ## 2026-08-26/27
 - $\pu{ 1Pa }=\pu{ 1 N/m2 }$
 - $\pu{  1 bar} = \pu{  103 mbar} = \pu{ 100 kPa }$
