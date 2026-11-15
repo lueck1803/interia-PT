@@ -310,8 +310,8 @@
 	- [ ] Abends
 - [ ] Schul-id mails checken
 - [ ] Biomüll runter
-- [ ] Spinat austragen 
-- [ ] Rotkohl ⟹ balkon 
+- [x] Spinat austragen 
+- [x] Rotkohl ⟹ balkon 
 - [x] ofen aufheizen 
 - [x] Spülmaschine anstellen 
 - [ ] Spülmaschine ausräumen 

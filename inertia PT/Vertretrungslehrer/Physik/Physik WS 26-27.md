@@ -307,7 +307,7 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 $$
 p=\frac{\left| \vec{F}_{\perp} \right|}{A}=\frac{F_{\text{\small Gewichtskraft-Mehl}}}{A_{\text{Tisch}}}
 $$
-$F_{\text{G-Mehl}}$ ist die Gewichtskraft die durch die Masse des Mehls $m=\pu{ 1kg }$ und die Erdbeschleunigung $g=\pu{ 9,81 m/s^2 }$mit der
+$F_{\text{G-Mehl}}$ ist die Gewichtskraft die durch die Masse des Mehls $m=\pu{ 1kg }$ und die Erdbeschleunigung $g=\pu{ 9,81 m/s^2 }\approx \pu{10\frac{m}{s^2}  }$, mit der wir alle zum Erdmittelpunkt hin beschleunigt werden
 ### 
 
 ## 2026-08-26/27
