@@ -409,7 +409,7 @@
 		- 10 %% fold %%
 		- [x] 4 mal drucken
 - [ ] HNO Termin vom 19.11 verlegen wegen Stundenplanänderung  %% fold %%
-- [ ] Mathe nachschreiben
+- [ ] Mathe nachschreiben %% fold %%
 	- [ ] Nachschreiberegelung checken %% fold %%
 	- [ ] wie viele Arbeiten habe ich noch? %% fold %%
 	- [ ] 8a - <font color="#ff0000">11.11 Nachschreiben</font> %% fold %%
