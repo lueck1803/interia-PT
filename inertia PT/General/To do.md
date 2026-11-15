@@ -310,10 +310,6 @@
 	- [ ] Abends
 - [ ] Schul-id mails checken
 - [ ] Biomüll runter
-- [x] Spinat austragen 
-- [x] Rotkohl ⟹ balkon 
-- [x] ofen aufheizen 
-- [x] Spülmaschine anstellen 
 - [ ] Spülmaschine ausräumen 
 - [ ] Arbeitsblätter Mathe-Wettbewerb checken 
 	- [ ] B 2024 genug Blätter für a und b Klasse?
@@ -422,7 +418,7 @@
 	- Wie viele Arbeitsblätter für die Ergänzungsaufgabe habe ich noch? 
 		- 10
 		- [x] 4 mal drucken
-- [ ] HNO Termin vom 19.11 verlegen wegen Stundenplanänderung 
+- [ ] HNO Termin vom 19.11 verlegen wegen Stundenplanänderung  %% fold %%
 - [ ] Mathe nachschreiben
 	- [ ] Nachschreiberegelung checken %% fold %%
 	- [ ] wie viele Arbeiten habe ich noch? %% fold %%
