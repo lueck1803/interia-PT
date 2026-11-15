@@ -307,7 +307,7 @@
 
 - [ ] Antibiotika nehmen
 	- [x] morgens 
-	- [ ] Abends
+	- [x] Abends
 - [ ] Schul-id mails checken
 - [ ] Biomüll runter
 - [ ] Spülmaschine ausräumen 
