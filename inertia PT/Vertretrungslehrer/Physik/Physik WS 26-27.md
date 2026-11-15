@@ -328,7 +328,12 @@ Das ist ein sehr kleiner Druck im Vergleich zum Atmosphären Druck. Dessen Stand
 Dabei stehen die Einheitenvorsätze $\pu{ h }=10^2=100$ für *Hekto*  und $\pu{ m }=\frac{1}{1000}$ für *Milli* tausendstel (siehe [Einheitenvorsätze](https://de.wikipedia.org/wiki/Vors%C3%A4tze_f%C3%BCr_Ma%C3%9Feinheiten)). 
 Dieser Druck lastet permanent auf der Oberfläche unseres Körpers.
 
-Weiter bekannte Drücke aus dem Alltag sind die, die wir auf die Reifen von unseren Forbe
+Weiter bekannte Drücke aus dem Alltag sind die, die wir auf die Reifen unserer Fortbewegungsmittel machen.
+- Cityrad: $p=\pu{ 3,8 bar} \text{ bis } \pu{ 4,2 bar }$ 
+- Autoreifen, je nach Modell und zum Teil verschiedene Drücke auf Vorder- und Hinterrad: $p=\pu{ 3,2 bar }$
+- Rennrad: $p=\pu{ 8bar } \text{ bis } \pu{ 10bar }$
+
+Der Grund für den viel höheren Druck auf einem Rennradreifen, ist dass der Reifen viel dünner (weniger Sta) ist, aber die gleiche Gewichtskraft 
 ### 
 
 ## 2026-08-26/27
