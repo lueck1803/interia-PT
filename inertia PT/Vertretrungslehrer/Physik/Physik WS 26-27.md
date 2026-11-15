@@ -303,7 +303,10 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 	- Leergewicht: 16 kg (Stahlfass)
 ## 2026-11-04/10 Kraft auf luftleeres Fass
 
-### Druck den 1kg Mehl auf 
+### Druck den 1kg Mehl auf $\pu{ 1m^2 }$ Tisch ausübt
+$$
+p=\frac{\left| \vec{F}_{\perp} \right|}{A}=\frac{F_{\text{\small Mehl $\rightarrow$ Tisch}}}{A_{\text{Tisch}}}
+$$
 ### 
 
 ## 2026-08-26/27
