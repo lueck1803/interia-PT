@@ -311,9 +311,13 @@ $F_{\text{G-Mehl}}$ ist die Gewichtskraft die durch die Masse des Mehls $m=\pu{ 
 $$
 p =\frac{F_{\text{\small Gewichtskraft-Mehl}}}{A_{\text{Tisch}}}
 = \frac{m\cdot g}{A}= \frac{\pu{ 1 kg }\cdot \pu{ 9,81 m//s^2 }}{\pu{ 1m^2 }}
-\approx \frac{\pu{ 1 kg }\cdot \pu{ 10 m//s^2 }}{\pu{ 1m^2 } = \frac{\pu{ 10 N }}{1 m^2}}
+\approx \frac{\pu{ 1 kg }\cdot \pu{ 10 m//s^2 }}{\pu{ 1m^2 } }= \frac{\pu{ 10 N }}{1 m^2}
 $$
 
+Die Einheit des Drucks heißt *Pascal* und wird definiert als
+$$
+[p]=\frac{\pu{ N }}{\pu{ 1m^2 }}=\frac{\pu{ kg }\cdot \pu{ m//s^2 }}{\pu{ 1m^2 }}=\pu{ kg }\cdot \pu{ \frac{\cancel{ m }}{s^2\cdot \cancelto{ m }{ m^2 }} }
+$$
 ### 
 
 ## 2026-08-26/27
