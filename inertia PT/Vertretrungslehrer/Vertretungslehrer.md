@@ -1660,6 +1660,21 @@ Uhrzeit 14:00 -16:30Uhr
 #### Eröffnung / Begrüßung
 - Begrüßung durch Herrn Siede um 14:06
 - Erwähnung des vielen Schul/Stundenausfalls, aufgrund von Krankheit des Kollegiums
+	- besorgte Eltern
+- letztes Protokoll kurzfristig vor GK3 ⟹ Genehmigung von Protokoll GK2 in GK4 (noch Zeit zum Lesen)
+
+#### Tagesordnung zur GK3
+1. Eröffnung und Begrüßung
+2. Pilotprojekt, Offenes Arbeiten im Fach Chemie (Hr Münz + Hr Türk)
+
+#### Pilotprojekt, Offenes Arbeiten im Fach Chemie (Hr Münz + Hr Türk)
+- Herr Münz und Herr Türk stellen mit den Schülern
+	- Alexia, Una und 
+	- Das Pilotprojekt: Sebstreguliertes Lernen in Chemie
+- Parallelunterricht: Mo 8c und 8d
+	- Experimente immer im Chemieraum
+	- Mitnutzung des Bioraums
+- Evaluation zum 
 
 
 

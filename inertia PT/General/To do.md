@@ -305,6 +305,8 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
+
+- [ ] protokoll von GK2 lesen ⟹ um es zu genehmigen
 - [ ] dean and berkay antworten 
 - [ ] fehlend eintragen P
 	- [ ] dean
@@ -421,7 +423,7 @@
 	- [x] ⤷ 17 Stück drucken %% fold %%
 	- Wie viele Arbeitsblätter für die Ergänzungsaufgabe habe ich noch?  %% fold %%
 		- 10 %% fold %%
-		- [x] 4 mal drucken
+		- [x] 4 mal drucken %% fold %%
 - [ ] HNO Termin vom 19.11 verlegen wegen Stundenplanänderung  %% fold %%
 - [ ] Mathe nachschreiben %% fold %%
 	- [ ] Nachschreiberegelung checken %% fold %%
