@@ -1902,7 +1902,22 @@ Abstimmung:
 
 Abstimmung:
 - Antrag: ob wir uns zum 31.3.27 als hessische Umweltschule bewerben
-	- 
+	- keine erste Vorlesung
+	- keine Einwende
+	- 3 Enthaltungen
+	- Rest stimmt zu
+
+#### Workshops mit Ida (Siede, Hirsch)
+- Architekturbüro: was, die Schule plant, Bedürfnis der Schulgemeinde für neue Schule
+- Workshops
+	- 3 Termine
+		- 1. Termin hat bereits Freitag stattgefunden
+	- max 7 Teilnehmer, die das Kollegium repräsentieren
+	- ⤷ bestimmt durch Schulleitung
+	- Dienen als Vermittler für das Kollegium
+	- Teilnehmer:
+		- Richter
+		- Moo
 
 ## Treffen 5te Klassen 2026-08-12
 ### Schulcloud
