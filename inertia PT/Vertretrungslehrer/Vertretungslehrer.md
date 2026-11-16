@@ -1771,7 +1771,27 @@ Uhrzeit 14:00 -16:30Uhr
 ##### Laumann
 - Tag der offenen Tür
 - nawis haben sich schon geeinigt
-- es werden keine 
+- es werden keine Klassenräume (R-Räume) gezeigt
+	- Beschränkung auf die Mensa
+- Bitte um aufgeräumte Fachräume und ein besonders gründlicher Hofdienst
+
+##### Siede
+- Artikel erschienen
+- zwangsschulwechsel
+- Querversetzung
+- Wie man dann damit umgeht, dass zwei klassen mehr stattfinden müssen
+- was das mit den Schülern macht
+- der Artikel hat die Thematik auf den Punkt gebracht worden
+- Schulsozialarbeit (Simmert):
+	- viel Schulabsentismus
+	- viel Arbeit hinein gesteckt die Schüler zum Teil abzuholen, treffen mit Schülern und diese abgeholt
+	- bei so vielen neuen klassen, konnte das allerdings nicht mehr aufgefangen werden
+	- 2 stellige abstinenz zahlen
+	- Schulpsychologe (gesundheitsamt und schulpsychologe)
+	- kriesensitzung vor den Herbstferien
+	- Konzept entwickelt von Szlatka: 
+		- wird vorgestellt
+		- als idee noch keine Vorles
 
 
 ## Treffen 5te Klassen 2026-08-12
