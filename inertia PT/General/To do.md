@@ -305,6 +305,7 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
+- [ ] orange hose flickrn
 - [ ] Antibiotika nehmen
 	- [x] morgens 
 	- [x] Abends
