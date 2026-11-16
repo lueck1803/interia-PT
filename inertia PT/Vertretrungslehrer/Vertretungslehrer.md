@@ -1934,7 +1934,14 @@ Abstimmung:
 - die aktuellen Entwicklungsgespräche finden statt
 - Frage von herr Siede bzgl Rückmeldung
 	- <u>Compes: </u>Regelung: ob falls Eltern Vormittags bzw. an dem Tag nicht können, die kinder, die schulpflichtig sind, auch alleine kommen können
-	- <u>Lewandowski:</u> 5. Klassen gar nicht überlebensfähig ohne Entwicklungsgespräche
+	- <u>Paul Lewandowski:</u> 5. Klassen gar nicht überlebensfähig ohne Entwicklungsgespräche
+	- <u>Kathy Lewandowski</u>: Kontakt zu den Eltern wichtig
+	- <u>Behi:</u>
+		- was ist der Unterschied zu normalen Elterngesprächen?
+		- <u>Antwort: </u>
+			- wie orga? So hat man diese zwei Tage (Mittwoch und Entlastungstag) frei und kann versuchen die Gespräche unter zu bekommen. 
+			- elterngespräche oft nur, wenn etwas schiefläuft
+			- kann die Termine auch organisiert auf die zwei Tage verteilen
 
 ## Treffen 5te Klassen 2026-08-12
 ### Schulcloud
