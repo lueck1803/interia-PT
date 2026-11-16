@@ -1714,7 +1714,26 @@ Uhrzeit 14:00 -16:30Uhr
 	- werden von einem Lehrer in einem raum betreut
 - Frage von ??
 	- "wie läuft das mit den Tests?"
-	- 
+	- schreiben test getrennt, geschlossene Tür, in einem Raum mit Herrn Türk und anderem Raum Herr Münz
+	- Test bestanden?
+		- Falls nein, dann in anderem Raum nachschreiben
+		- möglichst individuell und flexibel halten
+	- 7 testversionen
+	- Selbstgeleitet durchschicken
+	- macht herr münz seit 2 Jahren
+	- iteriert über die Zeit: was läuft nicht, was muss man besser machen
+	- Testdauer: 
+		- keine Zeit vorgabe
+		- kein Druck 
+		- einzelne Themen nochmal vorstellen
+- Frage von Anette:
+	- kommen die lieber zum Arbeiten?
+	- machen die auch ihre Arbeit?
+	- Türk: sehen wir dann wenn wir das ganze evaluieren
+#### Mitteilugn der Schulleitung
+##### einicke
+##### zu den portfolios
+- müssen digital abgeben
 
 
 
