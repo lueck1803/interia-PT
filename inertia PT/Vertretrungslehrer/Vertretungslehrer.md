@@ -1762,7 +1762,16 @@ Uhrzeit 14:00 -16:30Uhr
 - Anleitungen dazu in pdf form kommt per mail von herrn hirsch
 - Fortbildungen / kleine Anleitungen bei herrn münz -> Termine
 - kopfnoten werden beibehalten wie bisher
-	- wieder im schul
+	- wieder im schulportal
+	- First wird eine woche früher sein, damit die KL zeit genug haben die noten ins losd einzutragen
+- IK-KLassen:
+	- klärungsbedarf bzgl der Benotung und Zeugniserstellung
+	- dazu gibt es Infos
+
+##### Laumann
+- Tag der offenen Tür
+- nawis haben sich schon geeinigt
+- es werden keine 
 
 
 ## Treffen 5te Klassen 2026-08-12
