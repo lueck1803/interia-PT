@@ -305,8 +305,13 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
+- [ ] bewe
 - [ ] orange hose flicken 
-- [ ] Punkte 8b m
+- [ ] Punkte 8b Mathe 
+	- [ ] nedim 4 
+	- [ ] emir ?
+	- [ ] zaynaba
+	- [ ] finn
 - [ ] Antibiotika nehmen
 	- [x] morgens 
 	- [x] Abends
