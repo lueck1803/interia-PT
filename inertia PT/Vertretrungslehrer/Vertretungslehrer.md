@@ -1656,7 +1656,8 @@ Jahrgangsteamsitzungen
 
 
 ### GK3 2026-11-16
-
+Uhrzeit 14:00 -16:30Uhr
+#### Eröffnung / Begrüßung
 
 
 ## Treffen 5te Klassen 2026-08-12
