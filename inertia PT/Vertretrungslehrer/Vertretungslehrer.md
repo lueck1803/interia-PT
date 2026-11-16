@@ -1864,8 +1864,11 @@ Uhrzeit 14:00 -16:30Uhr
 	- Verankertes radfahren im Schulprogramm
 	- regelmäßiges Radfahrangebot (fahrrad AG)
 	- kooperation mit händler
-	- zwei ausgebildete Lehrer
+	- mindestens zwei ausgebildete Lehrer
 
+Abstimmung: 
+- soll das mit in den Schul... mit aufgenommen werden
+- ⟹ 
 
 ## Treffen 5te Klassen 2026-08-12
 ### Schulcloud
