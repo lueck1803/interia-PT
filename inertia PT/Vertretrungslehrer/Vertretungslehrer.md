@@ -1857,9 +1857,14 @@ Uhrzeit 14:00 -16:30Uhr
 	- Verbesserung Mobilitätsverhalten
 	- An schulen sollen fahrräder (verkehrsicher) vorhanden sein
 	- ⤷ bikeschools (schulen mit eigenem Fahrradbestand)
-	- Projekt von AOK finanziert (eigenanteil 100€ pro Rad)
-- Fortbildungsportfolio
-	- 
+	- Projekt von AOK finanziert (eigenanteil 100€ pro Rad bis zu 14 Räder)
+- Bedingungen für Bikeschool
+	- kooperationsvertrag mit bikeschool hessen e.v
+	- mind 14 Fahrräder
+	- Verankertes radfahren im Schulprogramm
+	- regelmäßiges Radfahrangebot (fahrrad AG)
+	- kooperation mit händler
+	- zwei ausgebildete Lehrer
 
 
 ## Treffen 5te Klassen 2026-08-12
