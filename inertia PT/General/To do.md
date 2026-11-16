@@ -305,7 +305,7 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
-- [ ] bewe
+- [ ] Entwicklungsgespräche nadine Richter geben
 - [ ] orange hose flicken 
 - [ ] Punkte 8b Mathe 
 	- [ ] nedim 4 
