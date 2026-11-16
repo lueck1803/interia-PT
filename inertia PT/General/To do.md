@@ -436,7 +436,7 @@ Handy-Problematik
 - [ ] Duolingo
 - [ ] blaue Zipperjacke in die Wäsche 
 - [x] 22 mal Mathewettbewerbsaufgaben drucken
-- [x] Strahlensatz fertig aufschreiben
+- [x] Strahlensatz fertig aufschreiben %% fold %%
 	- [x] Blatt ausdrucken
 - [x] zählen wie viele Physikblätter ich für die 8b habe.
 	- [x] ⤷ E-Lehre Arbeitsblätter für 8b drucken.
