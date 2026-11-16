@@ -1736,7 +1736,9 @@ Uhrzeit 14:00 -16:30Uhr
 - es reicht bis Mittwoch wenn eines von beidem da ist.
 - Abhakliste bis Freitag
 	- wo ist die?
-- Wenn nicht 
+	- im LZ am schwarzen Brett
+- Wenn nicht abgegeben oder überhaupt die Note:
+	- 6 im Fach für das man die Prüfung angemeldet aht
 
 - müssen digital abgeben ⟹ dass muss ich dann weiterleiten an Fr einicke, wird archiviert
 - und ausgedruckt
@@ -1745,11 +1747,22 @@ Uhrzeit 14:00 -16:30Uhr
 - Kurzbeschreibung muss mindestens ne halbe Seite
 - Quellen (für die gesamte Präsentation)
 
-###### prüfung
+###### schriftliche prüfungen
 - von bis im interimsgebäude statt
 - hängt nächste Woche mo/di aus
-- zeitplan wird per mail herum
+- zeitplan wird per mail herumgeschickt
+	- mit den verschiedenen Diensten
 
+##### hisch
+- hj zeugnisse
+- noten direkt eintragen über losd - direkt über Schul-id
+- altes verfahren über ENC wird auf dauer abgeschafft
+- für eine Klasse am besten nur ein Verfahren
+	- die noten im losd werden bevorzugt
+- Anleitungen dazu in pdf form kommt per mail von herrn hirsch
+- Fortbildungen / kleine Anleitungen bei herrn münz -> Termine
+- kopfnoten werden beibehalten wie bisher
+	- wieder im schul
 
 
 ## Treffen 5te Klassen 2026-08-12
