@@ -1942,6 +1942,21 @@ Abstimmung:
 			- wie orga? So hat man diese zwei Tage (Mittwoch und Entlastungstag) frei und kann versuchen die Gespräche unter zu bekommen. 
 			- elterngespräche oft nur, wenn etwas schiefläuft
 			- kann die Termine auch organisiert auf die zwei Tage verteilen
+			- 30 min statt 20 min
+	- <u>Compes:</u>
+		- nicht den Leuten hinterher rennen
+		- also kein pflichttermin
+		- <u>Antwort:</u> von Türk
+			- Termin wird statt finden
+			- gar kein Problem: wann können Sie?
+	- <u>Mair:</u>
+		- guten und mittleren Schüler gehen häufig unter
+		- ne bestimmte Richtung auch bei kleinigkeiten ⟹ um vorzubeugen
+		- Eltern haben bereits nachgefragt, wann gibts wieder die 
+	- <u>Laumann:</u>
+		- Eltern und kinder gemeinsam
+		- schüler zum Teil schlechter angekreuzt als die Lehrer
+		- nicht der negative Touch, weil Schüler haben das und das gemacht
 
 ## Treffen 5te Klassen 2026-08-12
 ### Schulcloud
