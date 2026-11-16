@@ -1674,7 +1674,33 @@ Uhrzeit 14:00 -16:30Uhr
 - Parallelunterricht: Mo 8c und 8d
 	- Experimente immer im Chemieraum
 	- Mitnutzung des Bioraums
-- Evaluation zum 
+- Evaluation zum Halbjahr
+- Termine (Hospitationsmöglichkeit - nicht alle aufeinmal):
+	- Mo 3.-4. (8c,8d)
+	- Di 1.-2 (8b)
+	- Mi 1.-2.(9c)
+- Meinung der schüler
+	- Una: 
+		- Freunde auch aus anderen Klassen mit denen man sich besser versteht
+		- durch 2 
+		- 3 Teste und keine "richtige Arbeit"
+		- Test wiederholen wenn weniger als 12 punkte
+		- mehr chance ne gute note zu bekommen
+		- die möglichkeit 
+	- ??:
+		- Freier
+		- nicht nur abschreiben
+		- 3 Tests besser als eine Arbeit
+	- Alexia
+		- freies lernen ⟹ pause machen
+		- nicht so viel Druck
+- Frage von herr Siede
+	- "Entlastung für lehrer?"
+	- Herr türk war länger nciht da. Es war so möglich, auch zusammen mit einer Vertretungslehrkraft den Unterricht aufrecht zu erhalten
+	- Team teachting
+	- Herr Siede: 
+		- hat es h
+		- gut organisiert
 
 
 
