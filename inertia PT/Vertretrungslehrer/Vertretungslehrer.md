@@ -1911,13 +1911,25 @@ Abstimmung:
 - Architekturbüro: was, die Schule plant, Bedürfnis der Schulgemeinde für neue Schule
 - Workshops
 	- 3 Termine
-		- 1. Termin hat bereits Freitag stattgefunden
+		- 1. Termin hat bereits Freitag (13.11.26) stattgefunden
 	- max 7 Teilnehmer, die das Kollegium repräsentieren
 	- ⤷ bestimmt durch Schulleitung
 	- Dienen als Vermittler für das Kollegium
-	- Teilnehmer:
+	- Teilnehmer (Ansprechpartner):
 		- Richter
-		- Moo
+		- Moos
+		- Hirsch
+		- Kerruish
+		- Fröhlich
+		- Siede
+		- Stühlinger
+- Präsentation im Anschluss an die 3 Workshop Termine
+- Konzept/Modell so möglichst transparent gehandhabt werden
+- szlatka: in wie weit wurden die Vorschläge vom pädagogischen Tag mit einfließen
+	- sind laut herrn siede bereits
+
+#### Entwicklungsgespräche (Siede)
+- 
 
 ## Treffen 5te Klassen 2026-08-12
 ### Schulcloud
