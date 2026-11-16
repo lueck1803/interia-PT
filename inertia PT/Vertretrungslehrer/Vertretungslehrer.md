@@ -1802,14 +1802,25 @@ Uhrzeit 14:00 -16:30Uhr
 			- Beschränkung auf hauptfächer
 		- danach 60 min projektarbeit
 			- Gedanke: erhöhte Motivation durch handwerkliche Tätigkeit
-			- eigenes Projekt überlegen und umsetzen
+			- eigenes Projekt überlegen und umsetzen - sich komplett selbst überlegen
+			- planen, welche materialien benötige ich, umsetzung mit Betreuung
+			- irgendwas worauf die 
 		- Abschluss Besprechungs/Feedbackrunde
 			- besprechung der nächsten Stunde
 		- Gesamtdauer 3 Monate
 			- 1. monat nur hauptfächer 
 			- 2. weitere Nachhilfe
-			- 
+			- 3. Integration in Regelklasse
 		- Dienen als Anker und Betreuer
+		- Auch Unterstützung bei Bewerbungsprozess
+		- ging jetzt hauptsächlich um die 8ten Klassen
+		- Start jetzt bis zum 2. hj
+		- Ziel erstmal überhaupt in den Nachmittagsunterricht bekommen
+		- keine Lösungen und Projekte auf Landesebene, was die Thematik Schulabstinenz angeht
+		- Erwartung von 10 kommen maximal 4
+		- wir sind als Schule verpflichtet, etwas anzubieten
+		- Angebot von Nathalie: Arbeit mit Hunden
+		- 
 
 
 ## Treffen 5te Klassen 2026-08-12
