@@ -306,6 +306,7 @@
 	- [ ] zusammen legen
 
 - [ ] orange hose flicken 
+- [ ] Punkte 8b m
 - [ ] Antibiotika nehmen
 	- [x] morgens 
 	- [x] Abends
