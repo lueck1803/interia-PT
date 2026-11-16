@@ -1979,7 +1979,23 @@ Abstimmung:
 	- <u>P LewandowskI:</u>
 		- 3 Termine anbieten
 		- ansonsten nur mit Kind
-- 
+- Mitarbeit an den Entwicklungsgesprächen
+	- Burak
+- Keine Termine für entwicklungsgespräche in der Prufungswoche
+	- 30.11-4.12
+
+### Verschiedenes
+#### Bilder die gemacht wurden im sekretariat abhaken
+#### compes
+- keine handhabe bzgl. Sitzen bleiben
+- sitzenbleiben ist keine option und dadurch wird man nicht ernst genommen
+- bekomme ich eine 6 oder noch ne 6?
+- Konsequenzen
+- vorschläge: 
+	- ort von dem die Schüler von den eltern abgeholt werden müssen
+	- Arbeit im Garten 
+		- ⟹ zu Frau kerruish schicken
+
 
 ## Treffen 5te Klassen 2026-08-12
 ### Schulcloud
