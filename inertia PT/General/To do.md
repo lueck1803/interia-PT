@@ -305,6 +305,12 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
+
+- [ ] fehlend eintragen P
+	- [ ] dean
+	- [ ] Salma 
+	- [ ] anas 
+	- [ ] rayan
 - [ ] Entwicklungsgespräche nadine Richter geben
 - [ ] orange hose flicken 
 - [ ] was ist das Problem mit dem Hotspot am mac?
