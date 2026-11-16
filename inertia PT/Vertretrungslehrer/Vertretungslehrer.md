@@ -1430,7 +1430,7 @@ Jahrgangsteamsitzungen
 - Montag, 17.08.2026 - Jahrgang 6
 - Dienstag, 18.08.2026 - Jahrgang 5
 ## Gesamtkonferenz
-### GK1
+### GK1 %% fold %%
 - Handytaschen und ⟹ vertagt
 - neue Kollegen:
 - Hanno über nimmt Fachbereich GTA
@@ -1653,6 +1653,12 @@ Jahrgangsteamsitzungen
 	- workshop mit 40 - 10. klässlern - 10 pro klasse
 	- lehrkräfte sind nicht erwünscht ⟹ schüler agieren dann anders
 	- gibt noch allgemeine infos
+
+
+### GK3 2026-11-16
+Uhrzeit 14:00 -16:30Uhr
+#### Eröffnung / Begrüßung
+
 
 ## Treffen 5te Klassen 2026-08-12
 ### Schulcloud
@@ -2231,8 +2237,8 @@ Das ist eine Pausenaufsicht zwischen der 4/5 Stunde auf dem Hofbereich 3.
 ### Salma Zoubaa %% fold %%
 #### 2026-11-03 E-mail  %% fold %%
 Sehr geehrte Frau Hanan Mira, %% fold %%
-
-Ich bin der Mathe- und Physiklehrer von Salma. Ich wollte Ihnen mitteilen, dass sich Ihre Tochter seit den Sommerferien in ihrem Arbeitsverhalten, Sozialverhalten und fachlich deutlich gebessert und positiv hervorgetan hat.
+ %% fold %%
+Ich bin der Mathe- und Physiklehrer von Salma. Ich wollte Ihnen mitteilen, dass sich Ihre Tochter seit den Sommerferien in ihrem Arbeitsverhalten, Sozialverhalten und fachlich deutlich gebessert und positiv hervorgetan hat. %% fold %%
 
 Ich habe sie bereits mehrfach bei ihrer Klassenlehrerin Frau Güldner gelobt.
 Salma hatte zwar einen leichten Einbruch bei ihrer Mitarbeit und Anwesenheit vor und kurz nach den Herbstferien zu verzeichnen, ich denke aber, dass dies der Situation mit dem Verloren gegangenen Schlüssel von Frau Oettel zu tun hatte, welche Salmas Motivation etwas einbrechen lies.

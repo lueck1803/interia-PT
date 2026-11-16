@@ -313,7 +313,7 @@
 	- [ ] rayan
 - [x] Entwicklungsgespräche nadine Richter geben
 - [ ] orange hose flicken 
-- [ ] was ist das Problem mit dem Hotspot am mac?
+- [x] was ist das Problem mit dem Hotspot am mac?
 - [ ] Punkte 8b Mathe 
 	- [ ] nedim 4 
 	- [ ] emir ?
@@ -512,7 +512,7 @@
 - [ ] to do aufräumen 
 - [ ] nach jamils Anleitung schauen bzgl byod
 - [ ] Punkteverteilung/Skala nachschauen 
-- [ ] Die anderen Beamer auf das PW 12345678 umstellen
+- [ ] Die anderen Beamer auf das PW 12345678 umstellen %% fold %%
 - [ ] Leute 10b einladen in schul.cloud gruppe
 - [ ] schulportal ->medienzentrum -> wie logge ich mich in vom medienzentrum verwaltete Wlans ein 
 	- [ ] byod - interimsgebäude
