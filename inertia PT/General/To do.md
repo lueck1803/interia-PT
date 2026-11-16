@@ -305,7 +305,7 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
-
+- [ ] dean and berkay antwi
 - [ ] fehlend eintragen P
 	- [ ] dean
 	- [ ] Salma 
