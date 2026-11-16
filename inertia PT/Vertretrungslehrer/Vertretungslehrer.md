@@ -1995,6 +1995,30 @@ Abstimmung:
 	- ort von dem die Schüler von den eltern abgeholt werden müssen
 	- Arbeit im Garten 
 		- ⟹ zu Frau kerruish schicken
+		- braucht keine Vorkenntnisse
+		- gesammelte Minuten werden erfasst
+		- Termin wäre Mittwochs
+		- liste bis Dienstags
+		- Info an die Eltern
+		- pädagogische Grundsätze
+			- niedrigschwellig
+			- wertschätzend
+			- keine Strafgruppe
+			- Arbeit die den Schülern was bringt
+			- Selbstwirksamkeit
+			- verhältnismäßig
+			- verlässlich, findet jede woche statt
+#### szlatka
+- bibliothek wird intensiv genutzt
+- aber es sieht schlimm aus
+- Vorschlag für die leute die keine entwicklungsgespräche haben: aufräumen
+- Team was für die bibliothek verantwortlich ist zusammen stellen
+
+#### güldner
+- Weihnachtsfeier
+- Liste hängt aus
+- am besten direkt bezahlen
+- Fahrgemeinschaften
 
 
 ## Treffen 5te Klassen 2026-08-12
