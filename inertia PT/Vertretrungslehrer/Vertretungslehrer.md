@@ -1968,6 +1968,13 @@ Abstimmung:
 		- weiß gar nicht, ob die Eltern oder das Kind die Unterschrift macht?
 		- am Telefon häufig das Kind noch beteiligt, um zu übersetzen
 		- 3 Kandidaten: bei denen sie keine Termine in den nächsten Wochen sieht
+	- <u>Kohlmayer:</u>
+		- Termine über Schul.cloud eintrag
+	- <u>compes:</u>
+		- manche Eltern erreicht man gar nicht, auch Tanten, Onkel und Freunde abtelefoniert
+	- <u>Prinz:</u>
+		- 3 Termine anbieten und dann ist schluss, muss man nicht mehr hinterher telefonieren
+	- Mair:
 
 ## Treffen 5te Klassen 2026-08-12
 ### Schulcloud
