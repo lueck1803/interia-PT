@@ -1952,11 +1952,22 @@ Abstimmung:
 	- <u>Mair:</u>
 		- guten und mittleren Schüler gehen häufig unter
 		- ne bestimmte Richtung auch bei kleinigkeiten ⟹ um vorzubeugen
-		- Eltern haben bereits nachgefragt, wann gibts wieder die 
+		- Eltern haben bereits nachgefragt, wann gibts wieder die Elterngespräche
 	- <u>Laumann:</u>
 		- Eltern und kinder gemeinsam
 		- schüler zum Teil schlechter angekreuzt als die Lehrer
 		- nicht der negative Touch, weil Schüler haben das und das gemacht
+	- <u>Kohlmayer:</u>
+		- zielscheibe hilft
+		- ⤷ konkreter Ablauf
+		- Schüler anders im Gespräch, wenn Eltern dabei sind
+		- kein Sprechen über das kind, sondern mit dem Kind
+	- <u>Güldner:</u>
+		- sitzt da von 8-18 uhr und keiner kommt?
+	- <u>Fröhlich:</u>
+		- weiß gar nicht, ob die Eltern oder das Kind die Unterschrift macht?
+		- am Telefon häufig das Kind noch beteiligt, um zu übersetzen
+		- 3 Kandidaten: bei denen sie keine Termine in den nächsten Wochen sieht
 
 ## Treffen 5te Klassen 2026-08-12
 ### Schulcloud
