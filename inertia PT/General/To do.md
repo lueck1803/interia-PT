@@ -306,6 +306,20 @@
 	- [ ] zusammen legen
 
 
+Zielscheibe plus Zielvereinbarung Protokoll 
+
+In der Klasse ab 9 Uhr
+
+Im Besprechungsraum
+
+Und saif 8:15 - 8:30
+
+Mit Bruder
+- [ ] Entwicklungsgespräche Mittwoch eintragen die mir Nicole genannt hat 
+
+- [ ] Email von HNO lesen 
+
+- [ ] Situation in 8c beruht auf Gegenseitigkeit, sind in der Pause befreundet. Nutzen das als Spiel um Unterrichtszeit zu schinden
 - [ ] protokoll von GK2 lesen ⟹ um es zu genehmigen
 - [ ] Entwicklungsgespräche Protokoll für Ansia fertig machen
 - [ ] Ilayda und Marie mitteilen: es wurde sich um sofian gekümmert
@@ -359,7 +373,7 @@
 	- [ ] Diagramme (auch zu erstellende, z. B. Streifen- oder Kreisdiagramme oder Graph im Kosy)
 - kursmappe
 	- [ ] m 5a %% fold %%
-	- [ ] m 8a
+	- [ ] m 8a %% fold %%
 	- [ ] m 8b
 	- [ ] p 8a
 	- [ ] p 8b
