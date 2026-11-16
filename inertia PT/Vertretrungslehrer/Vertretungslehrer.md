@@ -1658,6 +1658,9 @@ Jahrgangsteamsitzungen
 ### GK3 2026-11-16
 Uhrzeit 14:00 -16:30Uhr
 #### Eröffnung / Begrüßung
+- Begrüßung durch Herrn Siede um 14:06
+- Erwähnung des vielen Schul/Stundenausfalls, aufgrund von Krankheit des Kollegiums
+
 
 
 ## Treffen 5te Klassen 2026-08-12
