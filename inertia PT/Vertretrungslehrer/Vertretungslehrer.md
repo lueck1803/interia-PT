@@ -1868,7 +1868,23 @@ Uhrzeit 14:00 -16:30Uhr
 
 Abstimmung: 
 - soll das mit in den Schul... mit aufgenommen werden
-- ⟹ 
+- ⟹ fördergelder von AOK gehen nicht verloren
+- brauchen dafür nicht unbedingt mehrere Lösung
+- 1400€ aus dem städtischen Haushalt
+- keine Einwende:
+	- keine gegenstimmen
+	- eine Enthaltung
+	- Rest stimmt dafür
+
+#### Moos (Umweltschule)
+- Wie können wir umwelt /natur an der Schule voran treiben?
+- BNE - Bildung für nachhaltige Entwicklung
+- Zertifikat
+	- zwei umweltprojekte
+	- planen
+	- protokolieren
+	- langfristig verankern
+- wo können wir das
 
 ## Treffen 5te Klassen 2026-08-12
 ### Schulcloud
