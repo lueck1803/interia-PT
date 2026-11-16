@@ -1732,8 +1732,23 @@ Uhrzeit 14:00 -16:30Uhr
 	- Türk: sehen wir dann wenn wir das ganze evaluieren
 #### Mitteilugn der Schulleitung
 ##### einicke
-##### zu den portfolios
-- müssen digital abgeben
+###### zu den portfolios (abgabe Mittwoch)
+- es reicht bis Mittwoch wenn eines von beidem da ist.
+- Abhakliste bis Freitag
+	- wo ist die?
+- Wenn nicht 
+
+- müssen digital abgeben ⟹ dass muss ich dann weiterleiten an Fr einicke, wird archiviert
+- und ausgedruckt
+- Deckblatt
+- Gliederung
+- Kurzbeschreibung muss mindestens ne halbe Seite
+- Quellen (für die gesamte Präsentation)
+
+###### prüfung
+- von bis im interimsgebäude statt
+- hängt nächste Woche mo/di aus
+- zeitplan wird per mail herum
 
 
 
@@ -2308,7 +2323,7 @@ Deshalb ging die Sirene 3 mal!
 Das ist eine Pausenaufsicht zwischen der 4/5 Stunde auf dem Hofbereich 3.
 
 # Archiv
-
+ %% fold %%
 # Elterngespräche %% fold %%
 ## 8b %% fold %%
 ### Salma Zoubaa %% fold %%
