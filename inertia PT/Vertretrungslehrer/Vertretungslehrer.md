@@ -475,7 +475,7 @@ in den anderen Fällen bleibt der Artikel erhalten
 	- Seite 97 Aufgabe 7
 - das Buch was die Klasse nutzt ist älter
 - Meros Sammlung: die ersten 4 Seiten 20 mal kopieren
-
+ %% fold %%
 - gemacht: 
 	- 211 nr 5
 	- 212 nr 1+2
