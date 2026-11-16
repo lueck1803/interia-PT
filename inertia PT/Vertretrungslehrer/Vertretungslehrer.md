@@ -1791,7 +1791,25 @@ Uhrzeit 14:00 -16:30Uhr
 	- kriesensitzung vor den Herbstferien
 	- Konzept entwickelt von Szlatka: 
 		- wird vorgestellt
-		- als idee noch keine Vorles
+		- als idee noch keine Vorlesung ⟹anstehende ausarbeitung
+		- szlatka auch teil der Nachmittagsbetreuung
+		- Name des projekts: level up
+		- zwei Tage in der Woche nachmittags
+		- beginn:
+			- Besprechungsrunde mit gemeinsamem Essen
+			- Besprechungsrunde 45min: zum Beziehungsaufbaue
+		- anschließende Phase: Nachhilfe 60min
+			- Beschränkung auf hauptfächer
+		- danach 60 min projektarbeit
+			- Gedanke: erhöhte Motivation durch handwerkliche Tätigkeit
+			- eigenes Projekt überlegen und umsetzen
+		- Abschluss Besprechungs/Feedbackrunde
+			- besprechung der nächsten Stunde
+		- Gesamtdauer 3 Monate
+			- 1. monat nur hauptfächer 
+			- 2. weitere Nachhilfe
+			- 
+		- Dienen als Anker und Betreuer
 
 
 ## Treffen 5te Klassen 2026-08-12
