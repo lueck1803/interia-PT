@@ -305,6 +305,12 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
+
+- [ ] protokoll von GK2 lesen ⟹ um es zu genehmigen
+- [ ] Entwicklungsgespräche Protokoll für Ansia fertig machen
+- [ ] Ilayda und Marie mitteilen: es wurde sich um sofian gekümmert
+- [ ] meinen 8tern schreiben wegen mathewettbewerb
+- [ ] nicole güldner: wie sieht es aus mit der Hilfe bei den entwicklungsgesprächen
 - [ ] dean and berkay antworten 
 - [ ] fehlend eintragen P
 	- [ ] dean
@@ -421,7 +427,7 @@
 	- [x] ⤷ 17 Stück drucken %% fold %%
 	- Wie viele Arbeitsblätter für die Ergänzungsaufgabe habe ich noch?
 		- 10 %% fold %%
-		- [x] 4 mal drucken
+		- [x] 4 mal drucken %% fold %%
 - [ ] HNO Termin vom 19.11 verlegen wegen Stundenplanänderung  %% fold %%
 - [ ] Mathe nachschreiben %% fold %%
 	- [ ] Nachschreiberegelung checken %% fold %%

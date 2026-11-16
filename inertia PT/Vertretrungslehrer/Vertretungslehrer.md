@@ -1656,8 +1656,369 @@ Jahrgangsteamsitzungen
 
 
 ### GK3 2026-11-16
-Uhrzeit 14:00 -16:30Uhr
+Uhrzeit 14:00 -16:35Uhr
 #### Eröffnung / Begrüßung
+- Begrüßung durch Herrn Siede um 14:06
+- Erwähnung des vielen Schul/Stundenausfalls, aufgrund von Krankheit des Kollegiums
+	- besorgte Eltern
+- letztes Protokoll kurzfristig vor GK3 ⟹ Genehmigung von Protokoll GK2 in GK4 (noch Zeit zum Lesen)
+
+#### Tagesordnung zur GK3
+1. Eröffnung und Begrüßung
+2. Pilotprojekt, Offenes Arbeiten im Fach Chemie (Hr Münz + Hr Türk)
+
+#### Pilotprojekt, Offenes Arbeiten im Fach Chemie (Hr Münz + Hr Türk)
+- Herr Münz und Herr Türk stellen mit den Schülern
+	- Alexia, Una und 
+	- Das Pilotprojekt: Sebstreguliertes Lernen in Chemie
+- Parallelunterricht: Mo 8c und 8d
+	- Experimente immer im Chemieraum
+	- Mitnutzung des Bioraums
+- Evaluation zum Halbjahr
+- Termine (Hospitationsmöglichkeit - nicht alle aufeinmal):
+	- Mo 3.-4. (8c,8d)
+	- Di 1.-2 (8b)
+	- Mi 1.-2.(9c)
+- Meinung der schüler
+	- Una: 
+		- Freunde auch aus anderen Klassen mit denen man sich besser versteht
+		- durch 2 
+		- 3 Teste und keine "richtige Arbeit"
+		- Test wiederholen wenn weniger als 12 punkte
+		- mehr chance ne gute note zu bekommen
+		- die möglichkeit 
+		- schreiben test getrennt, geschlossene Tür, in einem Raum mit Herrn Türk und anderem Raum Herr Münz
+		- Test bestanden?
+			- Falls nein, dann in anderem Raum nachschreiben
+			- möglichst individuell und flexibel halten
+	- ??:
+		- Freier
+		- nicht nur abschreiben
+		- 3 Tests besser als eine Arbeit
+	- Alexia
+		- freies lernen ⟹ pause machen
+		- nicht so viel Druck
+- Frage von herr Siede
+	- "Entlastung für lehrer?"
+	- Herr türk war länger nicht da. Es war so möglich, auch zusammen mit einer Vertretungslehrkraft den Unterricht aufrecht zu erhalten
+	- Team teachting
+	- Herr Siede: 
+		- hat es hospitiert 3/4h
+		- gut organisiert
+		- Schüler arbeiten mit
+		- mehr zeit auf einzelne Schüler einzugehen
+- Frage von behi:
+	- "wie experimentiert ihr dann?"
+	- experimente sind Schülerexperimente
+	- werden wie in der stationenarbeit abgearbeitet
+	- werden von einem Lehrer in einem raum betreut
+- Frage von ??
+	- "wie läuft das mit den Tests?"
+	- schreiben test getrennt, geschlossene Tür, in einem Raum mit Herrn Türk und anderem Raum Herr Münz
+	- Test bestanden?
+		- Falls nein, dann in anderem Raum nachschreiben
+		- möglichst individuell und flexibel halten
+	- 7 testversionen
+	- Selbstgeleitet durchschicken
+	- macht herr münz seit 2 Jahren
+	- iteriert über die Zeit: was läuft nicht, was muss man besser machen
+	- Testdauer: 
+		- keine Zeit vorgabe
+		- kein Druck 
+		- einzelne Themen nochmal vorstellen
+- Frage von Anette:
+	- kommen die lieber zum Arbeiten?
+	- machen die auch ihre Arbeit?
+	- Türk: sehen wir dann wenn wir das ganze evaluieren
+#### Mitteilugn der Schulleitung
+##### einicke
+###### zu den portfolios (abgabe Mittwoch)
+- es reicht bis Mittwoch wenn eines von beidem da ist.
+- Abhakliste bis Freitag
+	- wo ist die?
+	- im LZ am schwarzen Brett
+- Wenn nicht abgegeben oder überhaupt die Note:
+	- 6 im Fach für das man die Prüfung angemeldet aht
+
+- müssen digital abgeben ⟹ dass muss ich dann weiterleiten an Fr einicke, wird archiviert
+- und ausgedruckt
+- Deckblatt
+- Gliederung
+- Kurzbeschreibung muss mindestens ne halbe Seite
+- Quellen (für die gesamte Präsentation)
+
+###### schriftliche prüfungen
+- von bis im interimsgebäude statt
+- hängt nächste Woche mo/di aus
+- zeitplan wird per mail herumgeschickt
+	- mit den verschiedenen Diensten
+
+##### hisch
+- hj zeugnisse
+- noten direkt eintragen über losd - direkt über Schul-id
+- altes verfahren über ENC wird auf dauer abgeschafft
+- für eine Klasse am besten nur ein Verfahren
+	- die noten im losd werden bevorzugt
+- Anleitungen dazu in pdf form kommt per mail von herrn hirsch
+- Fortbildungen / kleine Anleitungen bei herrn münz -> Termine
+- kopfnoten werden beibehalten wie bisher
+	- wieder im schulportal
+	- First wird eine woche früher sein, damit die KL zeit genug haben die noten ins losd einzutragen
+- IK-KLassen:
+	- klärungsbedarf bzgl der Benotung und Zeugniserstellung
+	- dazu gibt es Infos
+
+##### Laumann
+- Tag der offenen Tür
+- nawis haben sich schon geeinigt
+- es werden keine Klassenräume (R-Räume) gezeigt
+	- Beschränkung auf die Mensa
+- Bitte um aufgeräumte Fachräume und ein besonders gründlicher Hofdienst
+
+##### Siede
+- Artikel erschienen
+- zwangsschulwechsel
+- Querversetzung
+- Wie man dann damit umgeht, dass zwei klassen mehr stattfinden müssen
+- was das mit den Schülern macht
+- der Artikel hat die Thematik auf den Punkt gebracht worden
+- Schulsozialarbeit (Simmert):
+	- viel Schulabsentismus
+	- viel Arbeit hinein gesteckt die Schüler zum Teil abzuholen, treffen mit Schülern und diese abgeholt
+	- bei so vielen neuen klassen, konnte das allerdings nicht mehr aufgefangen werden
+	- 2 stellige abstinenz zahlen
+	- Schulpsychologe (gesundheitsamt und schulpsychologe)
+	- kriesensitzung vor den Herbstferien
+	- Konzept entwickelt von Szlatka: 
+		- wird vorgestellt
+		- als idee noch keine Vorlesung ⟹anstehende ausarbeitung
+		- szlatka auch teil der Nachmittagsbetreuung
+		- Name des projekts: level up
+		- zwei Tage in der Woche nachmittags
+		- beginn:
+			- Besprechungsrunde mit gemeinsamem Essen
+			- Besprechungsrunde 45min: zum Beziehungsaufbaue
+		- anschließende Phase: Nachhilfe 60min
+			- Beschränkung auf hauptfächer
+		- danach 60 min projektarbeit
+			- Gedanke: erhöhte Motivation durch handwerkliche Tätigkeit
+			- eigenes Projekt überlegen und umsetzen - sich komplett selbst überlegen
+			- planen, welche materialien benötige ich, umsetzung mit Betreuung
+			- irgendwas worauf die bock haben
+		- Abschluss Besprechungs/Feedbackrunde
+			- besprechung der nächsten Stunde
+		- Gesamtdauer 3 Monate
+			- 1. monat nur hauptfächer 
+			- 2. weitere Nachhilfe
+			- 3. Integration in Regelklasse
+		- Dienen als Anker und Betreuer
+		- Auch Unterstützung bei Bewerbungsprozess
+		- ging jetzt hauptsächlich um die 8ten Klassen
+		- Start jetzt bis zum 2. hj
+		- Ziel erstmal überhaupt in den Nachmittagsunterricht bekommen
+		- keine Lösungen und Projekte auf Landesebene, was die Thematik Schulabstinenz angeht
+		- Erwartung von 10 kommen maximal 4
+		- wir sind als Schule verpflichtet, etwas anzubieten
+		- Angebot von Nathalie: Arbeit mit Hunden
+		- zum Teil schon 9 monate abstinent: dies fing schon auf dem Gymnasium an
+		- niederschwelliges angebot, dass sie überhaupt wieder in die Schule kommen
+
+#### Compes: Brandschutz/Brandschutzübungen
+- Übungen (angekündigt in der 4. Stunde)
+	- Interimsgebäuge 25.11
+	- hauptgebäude 26.11
+- Sammelplätze: Nach Gebäuden
+	- hauptgebäude: 
+		- Turnhalle, Räume im Gebäude zwischen überdachtem Gang und Toiletten:
+			- große wiese zwischen Turnhalle und Toiletten
+		- alle anderen treffen sich im Platanenhain hinter der Mensa
+	- Interimsgebäude: 
+		- feueralarm ist getrennt
+		- immer den kürzesten Weg
+		- nicht alle den gleichen Ausgang
+		- Treffpunkt Schild auf der Wiese mit kleinem Hügel
+- Anwesenheit auf dem sammelplatz im digitalen Klassenbuch
+- Wasserhydrant auf der großen Wiese
+	- Abstand halten
+	- damit feuerwehr arbeiten kann
+- Falls Feueralarm nicht im Raum hörbar ⟹ melden
+- Grundsätzliche Regeln beim Feueralarm einhalten
+
+#### Melcher: Engagement beim bikepool (Verein)
+- Stammschule an der Erich-Kästner Schule Kranichstein
+- Was ist bikepool Hessen e.V.
+	- seit 2011 
+	- um das Radfahren an Schulen zu stärken
+	- konzeptionen und durchführung von  Fortbildungen für Lehrkräfte zur Unterstützunh der Schulen auf dem weg zur Bikeschool
+	- ZfS Fahrradabitur
+- Ziele:
+	- alle kinder in der Schule sollen mit dem Rad in Kontakt gekommen sein
+	- verbesserung der motorischen fähigkeiten
+	- Verbesserung Mobilitätsverhalten
+	- An schulen sollen fahrräder (verkehrsicher) vorhanden sein
+	- ⤷ bikeschools (schulen mit eigenem Fahrradbestand)
+	- Projekt von AOK finanziert (eigenanteil 100€ pro Rad bis zu 14 Räder)
+- Bedingungen für Bikeschool
+	- kooperationsvertrag mit bikeschool hessen e.v
+	- mind 14 Fahrräder
+	- Verankertes radfahren im Schulprogramm
+	- regelmäßiges Radfahrangebot (fahrrad AG)
+	- kooperation mit händler
+	- mindestens zwei ausgebildete Lehrer
+
+Abstimmung: 
+- soll das mit in den Schul... mit aufgenommen werden
+- ⟹ fördergelder von AOK gehen nicht verloren
+- brauchen dafür nicht unbedingt mehrere Lösung
+- 1400€ aus dem städtischen Haushalt
+- keine Einwende:
+	- keine gegenstimmen
+	- eine Enthaltung
+	- Rest stimmt dafür
+
+#### Moos (Umweltschule)
+- Wie können wir umwelt /natur an der Schule voran treiben?
+- BNE - Bildung für nachhaltige Entwicklung
+- Zertifikat (Hessische Umweltschule)
+	- zwei umweltprojekte
+	- planen
+	- protokolieren
+	- langfristig verankern
+- wo können wir das mit einbauen
+	- bienenhaltung
+	- Schulgarten
+	- Ressourcenschutz: 
+		- Fahrradwerkstatt
+		- repair cafe
+	- Umbau der Schule
+		- Flächenentsieglung
+	- AL
+		- Nachhaltige Ernährung
+- Teilnahmezeitraum: 2 jahre
+- Anmeldefrist zum 31.3.2027
+- Finanzierung gibt es keine
+	- sollte aber auch ohne große Finanzielle Mittel möglich sein
+- ⤷mit Auszeichnung kann man sich für Fördermöglichkeiten bewerben
+
+Abstimmung:
+- Antrag: ob wir uns zum 31.3.27 als hessische Umweltschule bewerben
+	- keine erste Vorlesung
+	- keine Einwende
+	- 3 Enthaltungen
+	- Rest stimmt zu
+
+#### Workshops mit Ida (Siede, Hirsch)
+- Architekturbüro: was, die Schule plant, Bedürfnis der Schulgemeinde für neue Schule
+- Workshops
+	- 3 Termine
+		- 1. Termin hat bereits Freitag (13.11.26) stattgefunden
+	- max 7 Teilnehmer, die das Kollegium repräsentieren
+	- ⤷ bestimmt durch Schulleitung
+	- Dienen als Vermittler für das Kollegium
+	- Teilnehmer (Ansprechpartner):
+		- Richter
+		- Moos
+		- Hirsch
+		- Kerruish
+		- Fröhlich
+		- Siede
+		- Stühlinger
+- Präsentation im Anschluss an die 3 Workshop Termine
+- Konzept/Modell so möglichst transparent gehandhabt werden
+- szlatka: in wie weit wurden die Vorschläge vom pädagogischen Tag mit einfließen
+	- sind laut herrn siede bereits
+
+#### Entwicklungsgespräche (Siede)
+- Votum in der Vergangenheit: die Entwicklungsgespräche finden weiterhin statt
+- pädagogischer Tag: bisher keine schriftlichen Ergebnisse
+- die aktuellen Entwicklungsgespräche finden statt
+- Frage von herr Siede bzgl Rückmeldung
+	- <u>Compes: </u>Regelung: ob falls Eltern Vormittags bzw. an dem Tag nicht können, die kinder, die schulpflichtig sind, auch alleine kommen können
+	- <u>Paul Lewandowski:</u> 5. Klassen gar nicht überlebensfähig ohne Entwicklungsgespräche
+	- <u>Kathy Lewandowski</u>: Kontakt zu den Eltern wichtig
+	- <u>Behi:</u>
+		- was ist der Unterschied zu normalen Elterngesprächen?
+		- <u>Antwort: </u>
+			- wie orga? So hat man diese zwei Tage (Mittwoch und Entlastungstag) frei und kann versuchen die Gespräche unter zu bekommen. 
+			- elterngespräche oft nur, wenn etwas schiefläuft
+			- kann die Termine auch organisiert auf die zwei Tage verteilen
+			- 30 min statt 20 min
+	- <u>Compes:</u>
+		- nicht den Leuten hinterher rennen
+		- also kein pflichttermin
+		- <u>Antwort:</u> von Türk
+			- Termin wird statt finden
+			- gar kein Problem: wann können Sie?
+	- <u>Mair:</u>
+		- guten und mittleren Schüler gehen häufig unter
+		- ne bestimmte Richtung auch bei kleinigkeiten ⟹ um vorzubeugen
+		- Eltern haben bereits nachgefragt, wann gibts wieder die Elterngespräche
+	- <u>Laumann:</u>
+		- Eltern und kinder gemeinsam
+		- schüler zum Teil schlechter angekreuzt als die Lehrer
+		- nicht der negative Touch, weil Schüler haben das und das gemacht
+	- <u>Kohlmayer:</u>
+		- zielscheibe hilft
+		- ⤷ konkreter Ablauf
+		- Schüler anders im Gespräch, wenn Eltern dabei sind
+		- kein Sprechen über das kind, sondern mit dem Kind
+	- <u>Güldner:</u>
+		- sitzt da von 8-18 uhr und keiner kommt?
+	- <u>Fröhlich:</u>
+		- weiß gar nicht, ob die Eltern oder das Kind die Unterschrift macht?
+		- am Telefon häufig das Kind noch beteiligt, um zu übersetzen
+		- 3 Kandidaten: bei denen sie keine Termine in den nächsten Wochen sieht
+	- <u>Kohlmayer:</u>
+		- Termine über Schul.cloud eintrag
+	- <u>compes:</u>
+		- manche Eltern erreicht man gar nicht, auch Tanten, Onkel und Freunde abtelefoniert
+	- <u>Prinz:</u>
+		- 3 mal Termine anbieten und dann ist schluss, muss man nicht mehr hinterher telefonieren
+	- <u>Mair:</u>
+		- situation in der 8 anzufangen ist ein sehr spezielle Situation, von der 5. Klasse an wichtig.
+	- <u>P LewandowskI:</u>
+		- 3 Termine anbieten
+		- ansonsten nur mit Kind
+- Mitarbeit an den Entwicklungsgesprächen
+	- Burak
+- Keine Termine für entwicklungsgespräche in der Prufungswoche
+	- 30.11-4.12
+
+### Verschiedenes
+#### Bilder die gemacht wurden im sekretariat abhaken
+#### compes
+- keine handhabe bzgl. Sitzen bleiben
+- sitzenbleiben ist keine option und dadurch wird man nicht ernst genommen
+- bekomme ich eine 6 oder noch ne 6?
+- Konsequenzen
+- vorschläge: 
+	- ort von dem die Schüler von den eltern abgeholt werden müssen
+	- Arbeit im Garten 
+		- ⟹ zu Frau kerruish schicken
+		- braucht keine Vorkenntnisse
+		- gesammelte Minuten werden erfasst
+		- Termin wäre Mittwochs
+		- liste bis Dienstags
+		- Info an die Eltern
+		- pädagogische Grundsätze
+			- niedrigschwellig
+			- wertschätzend
+			- keine Strafgruppe
+			- Arbeit die den Schülern was bringt
+			- Selbstwirksamkeit
+			- verhältnismäßig
+			- verlässlich, findet jede woche statt
+#### szlatka
+- bibliothek wird intensiv genutzt
+- aber es sieht schlimm aus
+- Vorschlag für die leute die keine entwicklungsgespräche haben: aufräumen
+- Team was für die bibliothek verantwortlich ist zusammen stellen
+
+#### güldner
+- Weihnachtsfeier
+- Liste hängt aus
+- am besten direkt bezahlen
+- Fahrgemeinschaften
 
 
 ## Treffen 5te Klassen 2026-08-12
@@ -2231,8 +2592,8 @@ Deshalb ging die Sirene 3 mal!
 Das ist eine Pausenaufsicht zwischen der 4/5 Stunde auf dem Hofbereich 3.
 
 # Archiv
-
-# Elterngespräche
+ %% fold %%
+# Elterngespräche %% fold %%
 ## 8b %% fold %%
 ### Salma Zoubaa %% fold %%
 #### 2026-11-03 E-mail  %% fold %%
