@@ -1845,7 +1845,21 @@ Uhrzeit 14:00 -16:30Uhr
 - Grundsätzliche Regeln beim Feueralarm einhalten
 
 #### Melcher: Engagement beim bikepool (Verein)
-- Stammschule an der Eri
+- Stammschule an der Erich-Kästner Schule Kranichstein
+- Was ist bikepool Hessen e.V.
+	- seit 2011 
+	- um das Radfahren an Schulen zu stärken
+	- konzeptionen und durchführung von  Fortbildungen für Lehrkräfte zur Unterstützunh der Schulen auf dem weg zur Bikeschool
+	- ZfS Fahrradabitur
+- Ziele:
+	- alle kinder in der Schule sollen mit dem Rad in Kontakt gekommen sein
+	- verbesserung der motorischen fähigkeiten
+	- Verbesserung Mobilitätsverhalten
+	- An schulen sollen fahrräder (verkehrsicher) vorhanden sein
+	- ⤷ bikeschools (schulen mit eigenem Fahrradbestand)
+	- Projekt von AOK finanziert (eigenanteil 100€ pro Rad)
+- Fortbildungsportfolio
+	- 
 
 
 ## Treffen 5te Klassen 2026-08-12
