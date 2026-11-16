@@ -1973,8 +1973,13 @@ Abstimmung:
 	- <u>compes:</u>
 		- manche Eltern erreicht man gar nicht, auch Tanten, Onkel und Freunde abtelefoniert
 	- <u>Prinz:</u>
-		- 3 Termine anbieten und dann ist schluss, muss man nicht mehr hinterher telefonieren
-	- Mair:
+		- 3 mal Termine anbieten und dann ist schluss, muss man nicht mehr hinterher telefonieren
+	- <u>Mair:</u>
+		- situation in der 8 anzufangen ist ein sehr spezielle Situation, von der 5. Klasse an wichtig.
+	- <u>P LewandowskI:</u>
+		- 3 Termine anbieten
+		- ansonsten nur mit Kind
+- 
 
 ## Treffen 5te Klassen 2026-08-12
 ### Schulcloud
