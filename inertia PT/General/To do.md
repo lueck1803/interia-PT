@@ -305,13 +305,13 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
-- [ ] dean and berkay antwi
+- [ ] dean and berkay antworten 
 - [ ] fehlend eintragen P
 	- [ ] dean
 	- [ ] Salma 
 	- [ ] anas 
 	- [ ] rayan
-- [ ] Entwicklungsgespräche nadine Richter geben
+- [x] Entwicklungsgespräche nadine Richter geben
 - [ ] orange hose flicken 
 - [ ] was ist das Problem mit dem Hotspot am mac?
 - [ ] Punkte 8b Mathe 
