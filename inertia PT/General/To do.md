@@ -306,28 +306,20 @@
 	- [ ] zusammen legen
 
 
-Zielscheibe plus Zielvereinbarung Protokoll 
-
-In der Klasse ab 9 Uhr
-
-Im Besprechungsraum
-
-Und saif 8:15 - 8:30
-
-Mit Bruder
-
-Saif
-
-Probleme mit mason
-
-Brezel 
-
-8 Kinder
+- Zielscheibe plus Zielvereinbarung Protokoll 
+	- In der Klasse ab 9 Uhr
+	- Im Besprechungsraum
+	- Und saif 8:15 - 8:30
+		- Mit Bruder
+		- Saif
+		- Probleme mit mason
+		- Brezel 
+		- 8 Kinder
 
 Handy-Problematik
 - [ ] Entwicklungsgespräche Mittwoch eintragen die mir Nicole genannt hat 
 
-- [ ] Email von HNO lesen 
+- [x] Email von HNO lesen 
 	- [ ] Mo. 30.11.2026  um 15:00 
 
 - [ ] Situation in 8c beruht auf Gegenseitigkeit, sind in der Pause befreundet. Nutzen das als Spiel um Unterrichtszeit zu schinden
