@@ -419,7 +419,7 @@
 	- [x] ⤷ E-Lehre Arbeitsblätter für 8b drucken.
 		- 6 %% fold %%
 	- [x] ⤷ 17 Stück drucken %% fold %%
-	- Wie viele Arbeitsblätter für die Ergänzungsaufgabe habe ich noch?  %% fold %%
+	- Wie viele Arbeitsblätter für die Ergänzungsaufgabe habe ich noch?
 		- 10 %% fold %%
 		- [x] 4 mal drucken
 - [ ] HNO Termin vom 19.11 verlegen wegen Stundenplanänderung  %% fold %%
