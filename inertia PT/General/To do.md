@@ -307,6 +307,7 @@
 
 - [ ] Entwicklungsgespräche nadine Richter geben
 - [ ] orange hose flicken 
+- [ ] was ist das Problem mit dem Hotspot am mac?
 - [ ] Punkte 8b Mathe 
 	- [ ] nedim 4 
 	- [ ] emir ?
