@@ -315,6 +315,16 @@ Im Besprechungsraum
 Und saif 8:15 - 8:30
 
 Mit Bruder
+
+Saif
+
+Probleme mit mason
+
+Brezel 
+
+8 Kinder
+
+Handy-Problematik
 - [ ] Entwicklungsgespräche Mittwoch eintragen die mir Nicole genannt hat 
 
 - [ ] Email von HNO lesen 
