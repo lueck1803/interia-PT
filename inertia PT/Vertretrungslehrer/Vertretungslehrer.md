@@ -1823,9 +1823,9 @@ Uhrzeit 14:00 -16:30Uhr
 		- zum Teil schon 9 monate abstinent: dies fing schon auf dem Gymnasium an
 		- niederschwelliges angebot, dass sie überhaupt wieder in die Schule kommen
 
-##### Compes: Brandschutz/Brandschutzübungen
-- Übungen
-	- interimsgebäuge 25.11
+#### Compes: Brandschutz/Brandschutzübungen
+- Übungen (angekündigt in der 4. Stunde)
+	- Interimsgebäuge 25.11
 	- hauptgebäude 26.11
 - Sammelplätze: Nach Gebäuden
 	- hauptgebäude: 
@@ -1833,10 +1833,19 @@ Uhrzeit 14:00 -16:30Uhr
 			- große wiese zwischen Turnhalle und Toiletten
 		- alle anderen treffen sich im Platanenhain hinter der Mensa
 	- Interimsgebäude: 
+		- feueralarm ist getrennt
+		- immer den kürzesten Weg
+		- nicht alle den gleichen Ausgang
+		- Treffpunkt Schild auf der Wiese mit kleinem Hügel
 - Anwesenheit auf dem sammelplatz im digitalen Klassenbuch
 - Wasserhydrant auf der großen Wiese
 	- Abstand halten
 	- damit feuerwehr arbeiten kann
+- Falls Feueralarm nicht im Raum hörbar ⟹ melden
+- Grundsätzliche Regeln beim Feueralarm einhalten
+
+#### Melcher: Engagement beim bikepool (Verein)
+- Stammschule an der Eri
 
 
 ## Treffen 5te Klassen 2026-08-12
