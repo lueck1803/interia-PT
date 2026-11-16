@@ -1879,12 +1879,30 @@ Abstimmung:
 #### Moos (Umweltschule)
 - Wie können wir umwelt /natur an der Schule voran treiben?
 - BNE - Bildung für nachhaltige Entwicklung
-- Zertifikat
+- Zertifikat (Hessische Umweltschule)
 	- zwei umweltprojekte
 	- planen
 	- protokolieren
 	- langfristig verankern
-- wo können wir das
+- wo können wir das mit einbauen
+	- bienenhaltung
+	- Schulgarten
+	- Ressourcenschutz: 
+		- Fahrradwerkstatt
+		- repair cafe
+	- Umbau der Schule
+		- Flächenentsieglung
+	- AL
+		- Nachhaltige Ernährung
+- Teilnahmezeitraum: 2 jahre
+- Anmeldefrist zum 31.3.2027
+- Finanzierung gibt es keine
+	- sollte aber auch ohne große Finanzielle Mittel möglich sein
+- ⤷mit Auszeichnung kann man sich für Fördermöglichkeiten bewerben
+
+Abstimmung:
+- Antrag: ob wir uns zum 31.3.27 als hessische Umweltschule bewerben
+	- 
 
 ## Treffen 5te Klassen 2026-08-12
 ### Schulcloud
