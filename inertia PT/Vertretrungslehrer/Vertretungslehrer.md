@@ -1687,6 +1687,10 @@ Uhrzeit 14:00 -16:30Uhr
 		- Test wiederholen wenn weniger als 12 punkte
 		- mehr chance ne gute note zu bekommen
 		- die möglichkeit 
+		- schreiben test getrennt, geschlossene Tür, in einem Raum mit Herrn Türk und anderem Raum Herr Münz
+		- Test bestanden?
+			- Falls nein, dann in anderem Raum nachschreiben
+			- möglichst individuell und flexibel halten
 	- ??:
 		- Freier
 		- nicht nur abschreiben
@@ -1696,11 +1700,21 @@ Uhrzeit 14:00 -16:30Uhr
 		- nicht so viel Druck
 - Frage von herr Siede
 	- "Entlastung für lehrer?"
-	- Herr türk war länger nciht da. Es war so möglich, auch zusammen mit einer Vertretungslehrkraft den Unterricht aufrecht zu erhalten
+	- Herr türk war länger nicht da. Es war so möglich, auch zusammen mit einer Vertretungslehrkraft den Unterricht aufrecht zu erhalten
 	- Team teachting
 	- Herr Siede: 
-		- hat es h
+		- hat es hospitiert 3/4h
 		- gut organisiert
+		- Schüler arbeiten mit
+		- mehr zeit auf einzelne Schüler einzugehen
+- Frage von behi:
+	- "wie experimentiert ihr dann?"
+	- experimente sind Schülerexperimente
+	- werden wie in der stationenarbeit abgearbeitet
+	- werden von einem Lehrer in einem raum betreut
+- Frage von ??
+	- "wie läuft das mit den Tests?"
+	- 
 
 
 
@@ -2276,7 +2290,7 @@ Das ist eine Pausenaufsicht zwischen der 4/5 Stunde auf dem Hofbereich 3.
 
 # Archiv
 
-# Elterngespräche
+# Elterngespräche %% fold %%
 ## 8b %% fold %%
 ### Salma Zoubaa %% fold %%
 #### 2026-11-03 E-mail  %% fold %%
