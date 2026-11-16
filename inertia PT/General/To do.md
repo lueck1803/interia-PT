@@ -307,6 +307,7 @@
 
 
 - [ ] protokoll von GK2 lesen ⟹ um es zu genehmigen
+- [ ] Entwicklungsgespräche Protokoll für Ansia fert
 - [ ] dean and berkay antworten 
 - [ ] fehlend eintragen P
 	- [ ] dean

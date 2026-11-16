@@ -1929,7 +1929,12 @@ Abstimmung:
 	- sind laut herrn siede bereits
 
 #### Entwicklungsgespräche (Siede)
-- 
+- Votum in der Vergangenheit: die Entwicklungsgespräche finden weiterhin statt
+- pädagogischer Tag: bisher keine schriftlichen Ergebnisse
+- die aktuellen Entwicklungsgespräche finden statt
+- Frage von herr Siede bzgl Rückmeldung
+	- <u>Compes: </u>Regelung: ob falls Eltern Vormittags bzw. an dem Tag nicht können, die kinder, die schulpflichtig sind, auch alleine kommen können
+	- <u>Lewandowski:</u> 5. Klassen gar nicht überlebensfähig ohne Entwicklungsgespräche
 
 ## Treffen 5te Klassen 2026-08-12
 ### Schulcloud
