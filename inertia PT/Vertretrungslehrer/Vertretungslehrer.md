@@ -1804,7 +1804,7 @@ Uhrzeit 14:00 -16:30Uhr
 			- Gedanke: erhöhte Motivation durch handwerkliche Tätigkeit
 			- eigenes Projekt überlegen und umsetzen - sich komplett selbst überlegen
 			- planen, welche materialien benötige ich, umsetzung mit Betreuung
-			- irgendwas worauf die 
+			- irgendwas worauf die bock haben
 		- Abschluss Besprechungs/Feedbackrunde
 			- besprechung der nächsten Stunde
 		- Gesamtdauer 3 Monate
@@ -1820,7 +1820,18 @@ Uhrzeit 14:00 -16:30Uhr
 		- Erwartung von 10 kommen maximal 4
 		- wir sind als Schule verpflichtet, etwas anzubieten
 		- Angebot von Nathalie: Arbeit mit Hunden
+		- zum Teil schon 9 monate abstinent: dies fing schon auf dem Gymnasium an
+		- niederschwelliges angebot, dass sie überhaupt wieder in die Schule kommen
+
+##### Compes: Brandschutz/Brandschutzübungen
+- Übungen
+	- interimsgebäuge 25.11
+	- hauptgebäude 26.11
+- Sammelplätze:
+	- hauptgebäude: 
+		- Turnhalle, Räume im Gebäude zwischen überdachtem Gang und Toilett große wiese zwischen Turnhalle und Toiletten
 		- 
+	- Interimsgebäude: 
 
 
 ## Treffen 5te Klassen 2026-08-12
