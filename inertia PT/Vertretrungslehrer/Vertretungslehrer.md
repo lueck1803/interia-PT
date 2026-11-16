@@ -1827,11 +1827,16 @@ Uhrzeit 14:00 -16:30Uhr
 - Übungen
 	- interimsgebäuge 25.11
 	- hauptgebäude 26.11
-- Sammelplätze:
+- Sammelplätze: Nach Gebäuden
 	- hauptgebäude: 
-		- Turnhalle, Räume im Gebäude zwischen überdachtem Gang und Toilett große wiese zwischen Turnhalle und Toiletten
-		- 
+		- Turnhalle, Räume im Gebäude zwischen überdachtem Gang und Toiletten:
+			- große wiese zwischen Turnhalle und Toiletten
+		- alle anderen treffen sich im Platanenhain hinter der Mensa
 	- Interimsgebäude: 
+- Anwesenheit auf dem sammelplatz im digitalen Klassenbuch
+- Wasserhydrant auf der großen Wiese
+	- Abstand halten
+	- damit feuerwehr arbeiten kann
 
 
 ## Treffen 5te Klassen 2026-08-12
