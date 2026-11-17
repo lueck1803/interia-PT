@@ -310,6 +310,7 @@
 - [ ] AOK 
 - [ ] Dropbox Link verkürzen 
 - [ ] verkünden statt Klassenarbeit -> Spickzettel über bisherigen Unterricht 
+- [ ] wie lade ich Sachen auf Schulportal hoch?
 - [ ] candis schicken 
 - [ ] Entwicklungsgespräch Zettel Ansia 
 - [ ] Physik Experiment Beutel sortieren 
