@@ -6,6 +6,9 @@
 - [ ] satz dünner pics kaufen, so dünn wie repair tool
 - [ ] mini rasierschaum
 - [ ] Backofenreiniger 
+- [ ] <font color="#ff0000">Luftballons</font> 
+- [ ] Knete
+- [ ] Strohhalme 
 # Internet 
 - [ ] Usb ⇔ Usb-c Kabel (2m)
 - [ ] Schweißgerät *Parkside PFDS 120 A2*
