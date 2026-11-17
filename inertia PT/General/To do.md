@@ -308,6 +308,7 @@
 - [ ] amela Lösung MW B2024 schicken 
 - [ ] und in die Lösung zum Beweis bzgl der Aufgabe mit der Zahlenfolge schauen 
 - [ ] salma Erklärung zum dreisatz schicken sowie Beispiel für die "lernen aus Fehlern " /Wissenssammlung 
+- [ ] Wissenssammlung erste zwei Seiten drucken 
 - Zielscheibe plus Zielvereinbarung Protokoll 
 	- In der Klasse ab 9 Uhr
 	- Im Besprechungsraum
@@ -439,7 +440,7 @@ Handy-Problematik
 - [ ] blaue Zipperjacke in die Wäsche 
 - [x] 22 mal Mathewettbewerbsaufgaben drucken
 - [x] Strahlensatz fertig aufschreiben %% fold %%
-	- [x] Blatt ausdrucken
+	- [x] Blatt ausdrucken %% fold %%
 - [x] zählen wie viele Physikblätter ich für die 8b habe.
 	- [x] ⤷ E-Lehre Arbeitsblätter für 8b drucken.
 		- 6 %% fold %%
