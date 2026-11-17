@@ -305,8 +305,19 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
+- [ ] saif
+	- [ ] kann auf jedenfall was
+		- [ ] ⤷ ruht sich darauf aus
+		- [ ] ⤷ reicht ihm wenn er auf die letzte Sekunde etwas abliefert, ist ihm gut genug
+		- [ ] ⤷ das geht auf Dauer nicht gut
+		- [ ] er ist zu mehr fähig 
+	- [ ] jüngster von 8?
+		- [ ] fehlt ihm da etwas das wahr und ernst genommen werden? 
+	- [ ] Probleme mit 6. Klässler Mason
+		- [ ] warum lässt er sich von so einem kleinen provozieren 
+		- [ ] mason hat doch eh  genug Schwierigkeiten 
+		- [ ] einfach 
 - [ ] Zähne putzen 
-- [ ] Fingernägel schneiden 
 - [ ] duschen 
 - [ ] laptop tastatur wischen
 - [x] xournal++ hotkey select rectangle oder rotate geodreieck ändern
