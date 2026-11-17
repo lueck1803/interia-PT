@@ -23,6 +23,7 @@
 - Einkaufswagen 
 - [ ] backpapier 
 - [ ] Spülmaschinenpulver 
+- [ ] Kaugummi 
 - [x] Hummus
 - [x] Toast 
 - [x] Nudelsoße
