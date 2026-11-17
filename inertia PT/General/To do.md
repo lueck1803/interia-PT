@@ -306,6 +306,8 @@
 	- [ ] zusammen legen
 
 - [ ] Zähne putzen 
+- [ ] Fingernägel schneiden 
+- [ ] duschen 
 - [ ] laptop tastatur wischen
 - [x] xournal++ hotkey select rectangle oder rotate geodreieck ändern
 - [ ] AOK 
