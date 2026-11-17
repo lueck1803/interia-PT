@@ -306,15 +306,16 @@
 	- [ ] zusammen legen
 
 - [ ] Zähne putzen 
-- [ ] Kaffee 
+- [ ] laptop tastatur wischen
+- [x] xournal++ hotkey select rectangle oder rotate geodreieck ändern
 - [ ] AOK 
-- [ ] Dropbox Link verkürzen 
+
 - [ ] Ceranfeld putzen 
 - [ ] Experimente einscannen 
-- [ ] verkünden statt Klassenarbeit -> Spickzettel über bisherigen Unterricht 
-- [ ] wie lade ich Sachen auf Schulportal hoch?
-	- [ ] candis fragen
-- [ ] candis schicken 
+- [x] verkünden statt Klassenarbeit -> Spickzettel über bisherigen Unterricht 
+- [x] wie lade ich Sachen auf Schulportal hoch?
+	- [x] candis fragen
+- [x] candis schicken 
 - [ ] Entwicklungsgespräch Zettel Ansia 
 - [ ] Physik Experiment Beutel sortieren 
 	- [ ] die Aufhängung mit dem Löffel nochmal besser machen 
@@ -331,11 +332,11 @@
 	- [ ] veritasium Video schauen 
 - [ ] Whiteboard marker auffüllen 
 	- [ ] wie?
-- [ ] amela Lösung MW B2024 schicken 
-- [ ] und in die Lösung zum Beweis bzgl der Aufgabe mit der Zahlenfolge schauen 
-- [ ] salma Erklärung zum dreisatz schicken sowie Beispiel für die "lernen aus Fehlern " /Wissenssammlung 
+- [x] amela Lösung MW B2024 schicken 
+- [x] und in die Lösung zum Beweis bzgl der Aufgabe mit der Zahlenfolge schauen 
+- [x] salma Erklärung zum dreisatz schicken sowie Beispiel für die "lernen aus Fehlern " /Wissenssammlung 
 - [x] Wissenssammlung erste zwei Seiten drucken 
-- [ ] Wissenssammlung - Ergänzung Höhe auf kurzer Seite
+- [x] Wissenssammlung - Ergänzung Höhe auf kurzer Seite
 - Zielscheibe plus Zielvereinbarung Protokoll 
 	- In der Klasse ab 9 Uhr
 	- Im Besprechungsraum
@@ -461,7 +462,7 @@
 	- [ ] nicht alle Türen offen - nicht eigenständig herumlaufen
 	- [ ] ⤷ Werbung für Schüler von der Grundschule machen
 
-
+ %% fold %%
 - [ ] Duolingo
 - [ ] blaue Zipperjacke in die Wäsche 
 - [x] 22 mal Mathewettbewerbsaufgaben drucken %% fold %%
