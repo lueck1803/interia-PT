@@ -2,7 +2,7 @@
 - [ ] fön (falls im Aldi )
 - [ ] halloween kostüm
 - [ ] Bügelbrettbezug
-# Stadt %% fold %%
+# Stadt
 - [ ] satz dünner pics kaufen, so dünn wie repair tool
 - [ ] mini rasierschaum
 - [x] Backofenreiniger 
