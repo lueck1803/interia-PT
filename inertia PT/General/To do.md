@@ -309,6 +309,7 @@
 - [ ] Kaffee 
 - [ ] AOK 
 - [ ] Dropbox Link verkürzen 
+- [ ] verkünden statt Klassenarbeit -> Spickzettel über bisherigen Unterricht 
 - [ ] candis schicken 
 - [ ] Entwicklungsgespräch Zettel Ansia 
 - [ ] Physik Experiment Beutel sortieren 
