@@ -328,7 +328,8 @@
 		- zieht die Schuhe aus und spielt damit rum
 		- juckelt rum 
 		- klatscht mit irgendwas auf den Tisch
-		- sitzt in der ersten Reihe und lässt sich trotzdem von Saif provozieren.
+		- hat viel bewegung in sich
+		- sitzt in der ersten Reihe, so dass er nur nach vorne schauen darf, dreht sich trotzdem um und lässt sich trotzdem von Saif und andren provozieren. ⟹ sehr auffallend
 		- ⤷ bei mir gar nicht
 		- bei mir ist er eher extrem müde 
 		- hängt immer am handy
