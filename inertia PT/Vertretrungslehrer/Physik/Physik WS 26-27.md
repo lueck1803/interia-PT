@@ -298,12 +298,18 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 
 ## 2026-11-17
 
-Strohhalm
+Weiterer Effekt des Außendrucks Strohhalm/ Glasrohr, was oben zu gehalten wird:
+![[../../../Pasted image 20261117091025.png]]
 
-Herleitung:
+
+### ̱Herleitung:
 $p(h)=\rho\cdot g\cdot h$
 mit Druck der bereits auf der Höhe vorhanden ist.
 $p(h)=\rho\cdot g\cdot h+\rho_{0}$
+
+### Druckmessung
+Manometer
+
 
 ## 2026-11-04/10 Kraft auf luftleeres Fass
 - 1 barrel öl - 158,99 Liter - 55 Gallonen
