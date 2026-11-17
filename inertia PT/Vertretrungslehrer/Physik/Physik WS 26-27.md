@@ -303,6 +303,9 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 ![[../../../Pasted image 20261117093629.png]]
 ![[../../../Pasted image 20261117093838.png]]
 ![[../../../Pasted image 20261117093919.png]]
+
+
+![[../../../Pasted image 20261117184525.png]]![[../../../Pasted image 20261117184508.png]]
 ## 2026-11-17
 
 Weiterer Effekt des Außendrucks Strohhalm/ Glasrohr, was oben zu gehalten wird:
@@ -475,9 +478,9 @@ Auf der Oberfläche des Fass lastest also ungefähr eine Masse von $21,6$ Tonnen
 	- Atmosphäre
 		- hier handelt es sich um ein Gas, was kompressibel ist. ja.... wasser und auch stahl ist kompressibel xD... 
 		- Aber unter den natürlich auftretenden Bedingungen hat das eine klar bemerkbaren effekt: exponential funktion - barometrische höhenformel
-	- Schiffe die Schwimmen
+	- Schiffe die Schwimmen %% fold %%
 		- archimedisches prinzip %% fold %%
-		- ![[../../../Pasted image 20260819012547.png]]
+		- ![[../../../Pasted image 20260819012547.png]] %% fold %%
 		- ![[../../../Pasted image 20260819012601.png]]
 		- ![[../../../Pasted image 20260819012618.png]]
 		- ![[../../../Pasted image 20260819012712.png]]
@@ -522,7 +525,7 @@ Auf der Oberfläche des Fass lastest also ungefähr eine Masse von $21,6$ Tonnen
 - $m_{\text{Abrissbirne}}=\rho_{\text{Eisen}}\cdot V_{\text{Abrissbirne}}$ %% fold %%
 - Dichte von Eisen recherchieren: $\rho_{\text{Eisen}}=\pu{7,87 \frac{g}{cm^3}  }$ %% fold %%
 - Volumen der Abrissbirne: Wir nehmen die Formel für das Volumen einer Kugel: $V_{\text{Kugel}}=\frac{4}{3}\pi r^{3}$ %% fold %%
-- Einheit des Volumens: $[V]=\pu{ m^3 }$
+- Einheit des Volumens: $[V]=\pu{ m^3 }$ %% fold %%
   Da hier der Radius $r=\pu{ 18cm }$ ist, ist die Einheit des Volumens $[V]=\pu{cm\cdot cm\cdot cm}=\pu{cm^3}$ %% fold %%
 - $m_{\text{Abrissbirne}}=\rho_{\text{Eisen}}\cdot V_{\text{Abrissbirne}}$ %% fold %%
 - $=\rho_{\text{Fe}}\cdot V_{\text{Kugel}}$ %% fold %%

@@ -306,6 +306,8 @@
 	- [ ] zusammen legen
 
 - [ ] Zähne putzen 
+- [ ] Fingernägel schneiden 
+- [ ] duschen 
 - [ ] laptop tastatur wischen
 - [x] xournal++ hotkey select rectangle oder rotate geodreieck ändern
 - [ ] AOK 
@@ -320,9 +322,9 @@
 - [ ] Physik Experiment Beutel sortieren 
 	- [ ] die Aufhängung mit dem Löffel nochmal besser machen 
 		- [ ] besserer Knoten 
-- [ ] in die Stadt
-	- [ ] Luftballons 
-	- [ ] Strohhalme 
+- [x] in die Stadt
+	- [x] Luftballons 
+	- [x] Strohhalme 
 - [ ] Zeug basteln 
 	- [ ] schwimmer
 	- [ ] pascalsches Prinzip 
@@ -330,13 +332,6 @@
 - [ ] waage ein packen
 - [ ] Versuch überlegen mit Archimedes 
 	- [ ] veritasium Video schauen 
-- [ ] Whiteboard marker auffüllen 
-	- [ ] wie?
-- [x] amela Lösung MW B2024 schicken 
-- [x] und in die Lösung zum Beweis bzgl der Aufgabe mit der Zahlenfolge schauen 
-- [x] salma Erklärung zum dreisatz schicken sowie Beispiel für die "lernen aus Fehlern " /Wissenssammlung 
-- [x] Wissenssammlung erste zwei Seiten drucken 
-- [x] Wissenssammlung - Ergänzung Höhe auf kurzer Seite
 - Zielscheibe plus Zielvereinbarung Protokoll 
 	- In der Klasse ab 9 Uhr
 	- Im Besprechungsraum
@@ -356,8 +351,8 @@
 - [ ] protokoll von GK2 lesen ⟹ um es zu genehmigen
 - [ ] Entwicklungsgespräche Protokoll für Ansia fertig machen
 - [ ] Ilayda und Marie mitteilen: es wurde sich um sofian gekümmert
-- [ ] meinen 8tern schreiben wegen mathewettbewerb
-- [ ] nicole güldner: wie sieht es aus mit der Hilfe bei den entwicklungsgesprächen
+- [x] meinen 8tern schreiben wegen mathewettbewerb
+- [x] nicole güldner: wie sieht es aus mit der Hilfe bei den entwicklungsgesprächen
 - [ ] dean and berkay antworten 
 - [ ] fehlend eintragen P
 	- [ ] dean
@@ -464,7 +459,7 @@
 
  %% fold %%
 - [ ] Duolingo
-- [ ] blaue Zipperjacke in die Wäsche 
+- [ ] blaue Zipperjacke in die Wäsche  %% fold %%
 - [x] 22 mal Mathewettbewerbsaufgaben drucken %% fold %%
 - [x] Strahlensatz fertig aufschreiben %% fold %%
 	- [x] Blatt ausdrucken %% fold %%
