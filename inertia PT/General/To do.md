@@ -305,6 +305,8 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
+- [ ] in die Stadt
+- [ ] 
 - [ ] Whiteboard marker auffüllen 
 	- [ ] wie?
 - [ ] amela Lösung MW B2024 schicken 
