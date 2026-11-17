@@ -8,8 +8,8 @@
 - [ ] Backofenreiniger 
 - [ ] <font color="#ff0000">Luftballons</font> 
 - [ ] Knete
-- [ ] neue Whiteboard marker 
 - [ ] Strohhalme 
+- [ ] neue Whiteboard marker 
 # Internet 
 - [ ] Usb ⇔ Usb-c Kabel (2m)
 - [ ] Schweißgerät *Parkside PFDS 120 A2*
