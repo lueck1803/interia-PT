@@ -309,6 +309,8 @@
 - [ ] Kaffee 
 - [ ] AOK 
 - [ ] Entwicklungsgespräch Zettel Ansia 
+- [ ] Physik Experiment Beutel sortieren 
+- [ ] die su
 - [ ] in die Stadt
 	- [ ] Luftballons 
 	- [ ] Strohhalme 
