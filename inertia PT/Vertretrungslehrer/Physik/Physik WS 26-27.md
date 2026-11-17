@@ -295,6 +295,11 @@ $$
 Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to B}$ und $\vec {F}_{B\to A}$ nicht auf denselben, sondern auf _verschiedene_ Körper. Sie heben sich also nicht gegenseitig auf.
 
 # 10er
+![[../../../Pasted image 20261117093513.png]]
+![[../../../Pasted image 20261117093546.png]]
+
+![[../../../Pasted image 20261117093601.png]]
+![[../../../Pasted image 20261117093612.png]]
 
 ## 2026-11-17
 
