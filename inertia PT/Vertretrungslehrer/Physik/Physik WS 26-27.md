@@ -310,6 +310,12 @@ $p(h)=\rho\cdot g\cdot h+\rho_{0}$
 ### Druckmessung
 Manometer
 
+### Pascal'sches Prinzip
+
+> [!tip] Das Pascal’sche Prinzip
+> besagt, dass
+> Druck, der auf ein eingeschlossenes Fluid ausgeübt wird, den Druck in dem gesamten Fluid um den gleichen Betrag erhöht.
+
 
 ## 2026-11-04/10 Kraft auf luftleeres Fass
 - 1 barrel öl - 158,99 Liter - 55 Gallonen
