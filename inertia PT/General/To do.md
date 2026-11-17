@@ -325,6 +325,13 @@
 		- unbedingt den eltern sagen, dass die zum Kinderarzt gehen und adhs testen lassen?? 
 		- ⤷ finde ich ja gaaaaaar nicht xD, eher bei Anuar... xD
 		- ⤷ Kinderarzt soll ihn nach Reinheim oder Arheilgen zum Kinder psychologen überweisen 
+		- zieht die Schuhe aus und spielt damit rum
+		- juckelt rum 
+		- klatscht mit irgendwas auf den Tisch
+		- sitzt in der ersten Reihe und lässt sich trotzdem von Saif provozieren.
+		- ⤷ bei mir gar nicht
+		- bei mir ist er eher extrem müde 
+		- hängt immer am handy
 - [ ] saif <font color="#7cfc00">8:15</font>
 	- [ ] kann auf jedenfall was
 		- [ ] ⤷ ruht sich darauf aus
