@@ -331,13 +331,24 @@
 		- [ ] fehlt ihm da etwas das wahr und ernst genommen werden? 
 	- [ ] Probleme mit 6. Klässler Mason
 		- [ ] warum lässt er sich von so einem kleinen provozieren 
-		- [ ] mason hat doch eh  genug Schwierigkeiten 
+		- [ ] mason hat doch eh genug Schwierigkeiten 
 		- [ ] einfach seine dämlichkeit ignorieren 
+		- [ ] Ja mason hat eine riesige klappe und provoziert massiv
+		- [ ] Aber da musst du drüber stehen
+		- [ ] Du schadest alleine dir damit
+		- [ ] Die situation eskaliert
+		- [ ] Saif ist gewaltätig mason gegenüber
+		- [ ] ⤷ wird zu richtigen Problemen führen
 	- [ ] mehr Respekt im Umgang mit Gegenständen, ausgeteilten Materialien und insbesondere Dingen die gemein gut sind
+	- [ ] widersetzt sich erst extrem lange den Maßnahmen und Aufforderungen
+		- [ ] am Ende macht er es ja doch...
+		- [ ] einfach mal vorher dem Schicksal fügen
+	- [ ] Massives Handy problem
 	- [ ] ihm ist offenbar langweilig, da er alles schon kann und ihm alles zu einfach ist
 		- [ ] es gibt aber genug in der Klasse denen es nicht so geht
 		- [ ] er könnte seine Fähigkeiten nutzen positiven Einfluss auf Andere zu haben 
-		- [ ] mehr EigenVerantwortung für sein Handeln übernehmen 
+		- [ ] mehr EigenVerantwortung für sein Handeln übernehmen
+		- [ ] mehr Verantwortung für die Gemeinschaft
 		- [ ] dann muss er die Leere und Langeweile die er in sich spürt nicht am Handy verbringen 
 		- [ ] könnte eine positive Rolle einnehmen und Respektsperson werden 
 		- [ ] ich sehe ihn als einen an der den Haufen in den Griff bekommen könnte. 
