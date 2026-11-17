@@ -306,9 +306,22 @@
 	- [ ] zusammen legen
 
 - Entwicklungsgespräche (Nachricht von Nicole)
-	- grob über die Zielscheiben drüber schauen
-	- 
-- [ ] saif <font color="#ff0000">8:15</font>
+	- grob über die Zielscheiben schauen
+	- nicht jedes Kuchenstück
+	- nur die Ausreißer (roter/gelber Bereich)
+		- sagen welcher Lehrer die Notiz gemacht hat
+	- Festhalten auf dem <font color="#ffc000">Protokollbogen</font>
+		- liegen in der Klasse
+		- Name drauf
+		- Wann das Gespräch
+		- mit wem
+		- <font color="#ff0000">⟹</font> <font color="#ff0000">nicht raus geben</font>
+		- ⤷ kommt in die Akte
+		- ⤷ auch die zielscheiben kommen in die Akte
+	- Bei Xenia sagen:
+		- sehr sehr sehr still
+		- mehr aus sich heraus kommen soll
+- [ ] saif <font color="#7cfc00">8:15</font>
 	- [ ] kann auf jedenfall was
 		- [ ] ⤷ ruht sich darauf aus
 		- [ ] ⤷ reicht ihm wenn er auf die letzte Sekunde etwas abliefert, ist ihm gut genug
@@ -324,7 +337,7 @@
 	- [ ] ihm ist offenbar langweilig, da er alles schon kann und ihm alles zu einfach ist
 		- [ ] es gibt aber genug in der Klasse denen es nicht so geht
 		- [ ] er könnte seine Fähigkeiten nutzen positiven Einfluss auf Andere zu haben 
-		- [ ] Verantwortung übernehmen 
+		- [ ] mehr EigenVerantwortung für sein Handeln übernehmen 
 		- [ ] dann muss er die Leere und Langeweile die er in sich spürt nicht am Handy verbringen 
 		- [ ] könnte eine positive Rolle einnehmen und Respektsperson werden 
 		- [ ] ich sehe ihn als einen an der den Haufen in den Griff bekommen könnte. 
