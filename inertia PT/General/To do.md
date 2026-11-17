@@ -309,11 +309,7 @@
 - [ ] laptop tastatur wischen
 - [x] xournal++ hotkey select rectangle oder rotate geodreieck ändern
 - [ ] AOK 
-- [x] Dropbox Link verkürzen 
-	- [ ] physik 10: https://short-url.cc/Physik10Material
-	- [ ] physik 8: https://short-url.cc/Physik8
-	- [ ] mathe 8: https://short-url.cc/Mathe8
-	- [ ] physik Literatur: https://short-url.cc/PhysikLiteratur
+
 - [ ] Ceranfeld putzen 
 - [ ] Experimente einscannen 
 - [ ] verkünden statt Klassenarbeit -> Spickzettel über bisherigen Unterricht 
@@ -466,7 +462,7 @@
 	- [ ] nicht alle Türen offen - nicht eigenständig herumlaufen
 	- [ ] ⤷ Werbung für Schüler von der Grundschule machen
 
-
+ %% fold %%
 - [ ] Duolingo
 - [ ] blaue Zipperjacke in die Wäsche 
 - [x] 22 mal Mathewettbewerbsaufgaben drucken %% fold %%
