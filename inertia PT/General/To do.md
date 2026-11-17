@@ -334,7 +334,8 @@
 - [ ] amela Lösung MW B2024 schicken 
 - [ ] und in die Lösung zum Beweis bzgl der Aufgabe mit der Zahlenfolge schauen 
 - [ ] salma Erklärung zum dreisatz schicken sowie Beispiel für die "lernen aus Fehlern " /Wissenssammlung 
-- [ ] Wissenssammlung erste zwei Seiten drucken 
+- [x] Wissenssammlung erste zwei Seiten drucken 
+- [ ] Wissenssammlung - Ergänzung Höhe auf kurzer Seite
 - Zielscheibe plus Zielvereinbarung Protokoll 
 	- In der Klasse ab 9 Uhr
 	- Im Besprechungsraum
