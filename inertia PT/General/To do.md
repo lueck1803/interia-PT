@@ -305,7 +305,14 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
+- [ ] Zähne putzen 
+- [ ] Kaffee 
+- [ ] AOK 
 - [ ] in die Stadt
+	- [ ] Luftballons 
+	- [ ] Strohhalme 
+- [ ] Zeug basteln 
+	- [ ] schwimmer
 - [ ] 
 - [ ] Whiteboard marker auffüllen 
 	- [ ] wie?
