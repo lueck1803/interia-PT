@@ -308,14 +308,17 @@
 - [ ] Zähne putzen 
 - [ ] Kaffee 
 - [ ] AOK 
+- [ ] Entwicklungsgespräch Zettel Ansia 
 - [ ] in die Stadt
 	- [ ] Luftballons 
 	- [ ] Strohhalme 
 - [ ] Zeug basteln 
 	- [ ] schwimmer
 	- [ ] pascalsches Prinzip 
+	- [ ] kommunizierende röhren (gibt's was in der Sammlung?) oder ich male ein Bild 
 - [ ] waage ein packen
 - [ ] Versuch überlegen mit Archimedes 
+	- [ ] veritasium Video schauen 
 - [ ] Whiteboard marker auffüllen 
 	- [ ] wie?
 - [ ] amela Lösung MW B2024 schicken 
@@ -331,8 +334,7 @@
 		- Probleme mit mason
 		- Brezel 
 		- 8 Kinder
-
-Handy-Problematik
+	- Handy-Problematik
 - [ ] Entwicklungsgespräche Mittwoch eintragen die mir Nicole genannt hat 
 
 - [x] Email von HNO lesen 
