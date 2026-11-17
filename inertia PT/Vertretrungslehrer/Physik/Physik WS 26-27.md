@@ -300,7 +300,9 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 
 ![[../../../Pasted image 20261117093601.png]]
 ![[../../../Pasted image 20261117093612.png]]
-
+![[../../../Pasted image 20261117093629.png]]
+![[../../../Pasted image 20261117093838.png]]
+![[../../../Pasted image 20261117093919.png]]
 ## 2026-11-17
 
 Weiterer Effekt des Außendrucks Strohhalm/ Glasrohr, was oben zu gehalten wird:
