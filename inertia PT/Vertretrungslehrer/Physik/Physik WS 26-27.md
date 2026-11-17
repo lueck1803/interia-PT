@@ -525,7 +525,7 @@ Auf der Oberfläche des Fass lastest also ungefähr eine Masse von $21,6$ Tonnen
 - $m_{\text{Abrissbirne}}=\rho_{\text{Eisen}}\cdot V_{\text{Abrissbirne}}$ %% fold %%
 - Dichte von Eisen recherchieren: $\rho_{\text{Eisen}}=\pu{7,87 \frac{g}{cm^3}  }$ %% fold %%
 - Volumen der Abrissbirne: Wir nehmen die Formel für das Volumen einer Kugel: $V_{\text{Kugel}}=\frac{4}{3}\pi r^{3}$ %% fold %%
-- Einheit des Volumens: $[V]=\pu{ m^3 }$
+- Einheit des Volumens: $[V]=\pu{ m^3 }$ %% fold %%
   Da hier der Radius $r=\pu{ 18cm }$ ist, ist die Einheit des Volumens $[V]=\pu{cm\cdot cm\cdot cm}=\pu{cm^3}$ %% fold %%
 - $m_{\text{Abrissbirne}}=\rho_{\text{Eisen}}\cdot V_{\text{Abrissbirne}}$ %% fold %%
 - $=\rho_{\text{Fe}}\cdot V_{\text{Kugel}}$ %% fold %%
