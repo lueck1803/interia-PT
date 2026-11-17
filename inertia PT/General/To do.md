@@ -317,7 +317,17 @@
 		- [ ] warum lässt er sich von so einem kleinen provozieren 
 		- [ ] mason hat doch eh  genug Schwierigkeiten 
 		- [ ] einfach seine dämlichkeit ignorieren 
-	- [ ] mehr Respekt im Umgang mit Gegenständen und unDingen 
+	- [ ] mehr Respekt im Umgang mit Gegenständen, ausgeteilten Materialien und insbesondere Dingen die gemein gut sind
+	- [ ] ihm ist offenbar langweilig, da er alles schon kann und ihm alles zu einfach ist
+		- [ ] es gibt aber genug in der Klasse denen es nicht so geht
+		- [ ] er könnte seine Fähigkeiten nutzen positiven Einfluss auf Andere zu haben 
+		- [ ] Verantwortung übernehmen 
+		- [ ] dann muss er die Leere und Langeweile die er in sich spürt nicht am Handy verbringen 
+		- [ ] könnte eine positive Rolle einnehmen und Respektsperson werden 
+		- [ ] ich sehe ihn als einen an der den Haufen in den Griff bekommen könnte. 
+		- [ ] seine Fähigkeiten zur Selbstwirksamkeit und zum  Gewinn an der Gemeinschaft beitragen 
+		- [ ] es gibt so viele die Unterstützung bräuchten und du kannst was 
+		- [ ] ich hab nicht die Kapazität die notwendig wäre
 - [ ] Zähne putzen 
 - [ ] duschen 
 - [ ] laptop tastatur wischen
