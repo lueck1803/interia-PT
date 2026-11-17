@@ -307,7 +307,7 @@
 
 - [ ] amela Lösung MW B2024 schicken 
 - [ ] und in die Lösung zum Beweis bzgl der Aufgabe mit der Zahlenfolge schauen 
-- [ ] salma 
+- [ ] salma Erklärung zum dreisatz schicken sowie Beispiel für die "lernen aus Fehlern " /Wissenssammlung 
 - Zielscheibe plus Zielvereinbarung Protokoll 
 	- In der Klasse ab 9 Uhr
 	- Im Besprechungsraum
