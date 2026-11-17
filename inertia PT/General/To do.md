@@ -308,9 +308,9 @@
 - [ ] Zähne putzen 
 - [x] xournal++ hotkey select rectangle oder rotate geodreieck ändern
 - [ ] AOK 
-- [ ] Dropbox Link verkürzen 
+- [x] Dropbox Link verkürzen 
 	- [ ] physik 10: https://short-url.cc/Physik10Material
-	- [ ] physik 8:
+	- [ ] physik 8: https://short-url.cc/Physik8
 	- [ ] mathe 8: https://short-url.cc/Mathe8
 	- [ ] physik Literatur: https://short-url.cc/PhysikLiteratur
 - [ ] Ceranfeld putzen 
@@ -318,7 +318,7 @@
 - [ ] verkünden statt Klassenarbeit -> Spickzettel über bisherigen Unterricht 
 - [ ] wie lade ich Sachen auf Schulportal hoch?
 	- [ ] candis fragen
-- [ ] candis schicken 
+- [x] candis schicken 
 - [ ] Entwicklungsgespräch Zettel Ansia 
 - [ ] Physik Experiment Beutel sortieren 
 	- [ ] die Aufhängung mit dem Löffel nochmal besser machen 
