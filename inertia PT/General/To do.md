@@ -327,6 +327,7 @@
 		- [ ] ⤷ reicht ihm wenn er auf die letzte Sekunde etwas abliefert, ist ihm gut genug
 		- [ ] ⤷ das geht auf Dauer nicht gut
 		- [ ] er ist zu mehr fähig 
+		- [ ] schlauerkopf, sagt auch frau güldner
 	- [ ] jüngster von 8?
 		- [ ] fehlt ihm da etwas das wahr und ernst genommen werden? 
 	- [ ] Probleme mit 6. Klässler Mason
@@ -343,7 +344,12 @@
 	- [ ] widersetzt sich erst extrem lange den Maßnahmen und Aufforderungen
 		- [ ] am Ende macht er es ja doch...
 		- [ ] einfach mal vorher dem Schicksal fügen
+		- [ ] Hausmeisterdienst
+	- [ ] Redet permanent im Unterricht bei Frau Güldner
+	- [ ] Provoziert den Abdullah
 	- [ ] Massives Handy problem
+		- [ ] ich muss ihn jede Stunde dazu auffordern sein handy weg zu packen
+		- [ ] er ist mit dem handy zusammengewachsen
 	- [ ] ihm ist offenbar langweilig, da er alles schon kann und ihm alles zu einfach ist
 		- [ ] es gibt aber genug in der Klasse denen es nicht so geht
 		- [ ] er könnte seine Fähigkeiten nutzen positiven Einfluss auf Andere zu haben 
@@ -355,8 +361,15 @@
 		- [ ] seine Fähigkeiten zur Selbstwirksamkeit und zum  Gewinn an der Gemeinschaft beitragen 
 		- [ ] es gibt so viele die Unterstützung bräuchten und du kannst was 
 		- [ ] ich hab nicht die Kapazität die notwendig wäre
+	- [ ] Vorschlag: 
+		- [ ] Sitzplatzwechsel
+		- [ ] Tutorenrolle
+		- [ ] Verantwortung übernehmen
+		- [ ] Polizei für Anuar und yahya...
 - [ ] Abdullah 9:00
 - [ ] Xenia 12:30
+	- [ ] sehr sehr sehr still
+	- [ ] mehr aus sich heraus kommen soll
 - [ ] Zähne putzen 
 - [ ] duschen 
 - [ ] laptop tastatur wischen
@@ -514,7 +527,7 @@
 - [x] 22 mal Mathewettbewerbsaufgaben drucken %% fold %%
 - [x] Strahlensatz fertig aufschreiben %% fold %%
 	- [x] Blatt ausdrucken %% fold %%
-- [x] zählen wie viele Physikblätter ich für die 8b habe.
+- [x] zählen wie viele Physikblätter ich für die 8b habe. %% fold %%
 	- [x] ⤷ E-Lehre Arbeitsblätter für 8b drucken.
 		- 6 %% fold %%
 	- [x] ⤷ 17 Stück drucken %% fold %%
