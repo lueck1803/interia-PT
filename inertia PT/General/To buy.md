@@ -6,6 +6,7 @@
 - [ ] satz dünner pics kaufen, so dünn wie repair tool
 - [ ] mini rasierschaum
 - [x] Backofenreiniger 
+- [x] Polsterreiniger 
 - [x] <font color="#ff0000">Luftballons</font> 
 - [x] Knete
 - [x] Strohhalme 
