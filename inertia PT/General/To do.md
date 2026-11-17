@@ -313,7 +313,9 @@
 	- [ ] Strohhalme 
 - [ ] Zeug basteln 
 	- [ ] schwimmer
-- [ ] 
+	- [ ] pascalsches Prinzip 
+- [ ] waage ein packen
+- [ ] Versuch überlegen mit Archimedes 
 - [ ] Whiteboard marker auffüllen 
 	- [ ] wie?
 - [ ] amela Lösung MW B2024 schicken 
@@ -449,7 +451,7 @@ Handy-Problematik
 
 - [ ] Duolingo
 - [ ] blaue Zipperjacke in die Wäsche 
-- [x] 22 mal Mathewettbewerbsaufgaben drucken
+- [x] 22 mal Mathewettbewerbsaufgaben drucken %% fold %%
 - [x] Strahlensatz fertig aufschreiben %% fold %%
 	- [x] Blatt ausdrucken %% fold %%
 - [x] zählen wie viele Physikblätter ich für die 8b habe.
