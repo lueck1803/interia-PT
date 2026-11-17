@@ -296,12 +296,21 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 
 # 10er
 
+## 2026-11-17
+
+Strohhalm
+
+Herleitung:
+$p(h)=\rho\cdot g\cdot h$
+mit Druck der bereits auf der Höhe vorhanden ist.
+$p(h)=\rho\cdot g\cdot h+\rho_{0}$
+
+## 2026-11-04/10 Kraft auf luftleeres Fass
 - 1 barrel öl - 158,99 Liter - 55 Gallonen
 	- Fassvolumen - 200 Liter
 	- Durchmesser 58cm
 	- Höhe: 88cm
 	- Leergewicht: 16 kg (Stahlfass)
-## 2026-11-04/10 Kraft auf luftleeres Fass
 
 ### Druck den 1kg Mehl auf $\pu{ 1m^2 }$ Tisch ausübt
 $$
