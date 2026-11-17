@@ -309,6 +309,8 @@
 - [ ] Kaffee 
 - [ ] AOK 
 - [ ] Dropbox Link verkürzen 
+- [ ] Ceranfeld putzen 
+- [ ] Experimente einscannen 
 - [ ] verkünden statt Klassenarbeit -> Spickzettel über bisherigen Unterricht 
 - [ ] wie lade ich Sachen auf Schulportal hoch?
 	- [ ] candis fragen
