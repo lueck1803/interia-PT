@@ -471,7 +471,7 @@ Auf der Oberfläche des Fass lastest also ungefähr eine Masse von $21,6$ Tonnen
 		- Herzkreislauf %% fold %%
 		- ![[../../../Pasted image 20260819012752.png]]
 	- Sanitär
-		- ![[../../../Pasted image 20260819013100.png]]
+		- ![[../../../Pasted image 20260819013100.png]] %% fold %%
 	- Atmosphäre
 		- hier handelt es sich um ein Gas, was kompressibel ist. ja.... wasser und auch stahl ist kompressibel xD... 
 		- Aber unter den natürlich auftretenden Bedingungen hat das eine klar bemerkbaren effekt: exponential funktion - barometrische höhenformel
