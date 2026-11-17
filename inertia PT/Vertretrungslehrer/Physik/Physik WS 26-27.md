@@ -303,6 +303,9 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 ![[../../../Pasted image 20261117093629.png]]
 ![[../../../Pasted image 20261117093838.png]]
 ![[../../../Pasted image 20261117093919.png]]
+
+
+![[../../../Pasted image 20261117184525.png]]![[../../../Pasted image 20261117184508.png]]
 ## 2026-11-17
 
 Weiterer Effekt des Außendrucks Strohhalm/ Glasrohr, was oben zu gehalten wird:
@@ -477,7 +480,7 @@ Auf der Oberfläche des Fass lastest also ungefähr eine Masse von $21,6$ Tonnen
 		- Aber unter den natürlich auftretenden Bedingungen hat das eine klar bemerkbaren effekt: exponential funktion - barometrische höhenformel
 	- Schiffe die Schwimmen %% fold %%
 		- archimedisches prinzip %% fold %%
-		- ![[../../../Pasted image 20260819012547.png]]
+		- ![[../../../Pasted image 20260819012547.png]] %% fold %%
 		- ![[../../../Pasted image 20260819012601.png]]
 		- ![[../../../Pasted image 20260819012618.png]]
 		- ![[../../../Pasted image 20260819012712.png]]
