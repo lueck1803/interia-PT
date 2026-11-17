@@ -310,7 +310,8 @@
 - [ ] AOK 
 - [ ] Entwicklungsgespräch Zettel Ansia 
 - [ ] Physik Experiment Beutel sortieren 
-- [ ] die su
+	- [ ] die Aufhängung mit dem Löffel nochmal besser machen 
+		- [ ] besserer Knoten 
 - [ ] in die Stadt
 	- [ ] Luftballons 
 	- [ ] Strohhalme 
