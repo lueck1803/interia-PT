@@ -305,7 +305,10 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
-- [ ] saif
+- Entwicklungsgespräche (Nachricht von Nicole)
+	- grob über die Zielscheiben drüber schauen
+	- 
+- [ ] saif <font color="#ff0000">8:15</font>
 	- [ ] kann auf jedenfall was
 		- [ ] ⤷ ruht sich darauf aus
 		- [ ] ⤷ reicht ihm wenn er auf die letzte Sekunde etwas abliefert, ist ihm gut genug
@@ -328,6 +331,8 @@
 		- [ ] seine Fähigkeiten zur Selbstwirksamkeit und zum  Gewinn an der Gemeinschaft beitragen 
 		- [ ] es gibt so viele die Unterstützung bräuchten und du kannst was 
 		- [ ] ich hab nicht die Kapazität die notwendig wäre
+- [ ] Abdullah 9:00
+- [ ] Xenia 12:30
 - [ ] Zähne putzen 
 - [ ] duschen 
 - [ ] laptop tastatur wischen
