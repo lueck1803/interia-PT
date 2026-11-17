@@ -5,7 +5,7 @@
 # Stadt
 - [ ] satz dünner pics kaufen, so dünn wie repair tool
 - [ ] mini rasierschaum
-- [ ] Backofenreiniger 
+- [x] Backofenreiniger 
 - [x] <font color="#ff0000">Luftballons</font> 
 - [x] Knete
 - [x] Strohhalme 
