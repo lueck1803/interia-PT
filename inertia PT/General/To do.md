@@ -308,6 +308,8 @@
 - [ ] Zähne putzen 
 - [ ] Kaffee 
 - [ ] AOK 
+- [ ] Dropbox Link verkürzen 
+- [ ] candis schicken 
 - [ ] Entwicklungsgespräch Zettel Ansia 
 - [ ] Physik Experiment Beutel sortieren 
 	- [ ] die Aufhängung mit dem Löffel nochmal besser machen 
