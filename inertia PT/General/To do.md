@@ -316,7 +316,8 @@
 	- [ ] Probleme mit 6. Klässler Mason
 		- [ ] warum lässt er sich von so einem kleinen provozieren 
 		- [ ] mason hat doch eh  genug Schwierigkeiten 
-		- [ ] einfach 
+		- [ ] einfach seine dämlichkeit ignorieren 
+	- [ ] mehr Respekt im Umgang mit Gegenständen und unDingen 
 - [ ] Zähne putzen 
 - [ ] duschen 
 - [ ] laptop tastatur wischen
