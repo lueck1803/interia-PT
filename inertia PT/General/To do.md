@@ -309,8 +309,11 @@
 - [ ] Kaffee 
 - [ ] AOK 
 - [ ] Dropbox Link verkürzen 
+- [ ] Ceranfeld putzen 
+- [ ] Experimente einscannen 
 - [ ] verkünden statt Klassenarbeit -> Spickzettel über bisherigen Unterricht 
 - [ ] wie lade ich Sachen auf Schulportal hoch?
+	- [ ] candis fragen
 - [ ] candis schicken 
 - [ ] Entwicklungsgespräch Zettel Ansia 
 - [ ] Physik Experiment Beutel sortieren 
@@ -331,7 +334,8 @@
 - [ ] amela Lösung MW B2024 schicken 
 - [ ] und in die Lösung zum Beweis bzgl der Aufgabe mit der Zahlenfolge schauen 
 - [ ] salma Erklärung zum dreisatz schicken sowie Beispiel für die "lernen aus Fehlern " /Wissenssammlung 
-- [ ] Wissenssammlung erste zwei Seiten drucken 
+- [x] Wissenssammlung erste zwei Seiten drucken 
+- [ ] Wissenssammlung - Ergänzung Höhe auf kurzer Seite
 - Zielscheibe plus Zielvereinbarung Protokoll 
 	- In der Klasse ab 9 Uhr
 	- Im Besprechungsraum
