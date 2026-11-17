@@ -313,8 +313,8 @@
 - [ ] Ceranfeld putzen 
 - [ ] Experimente einscannen 
 - [ ] verkünden statt Klassenarbeit -> Spickzettel über bisherigen Unterricht 
-- [ ] wie lade ich Sachen auf Schulportal hoch?
-	- [ ] candis fragen
+- [x] wie lade ich Sachen auf Schulportal hoch?
+	- [x] candis fragen
 - [x] candis schicken 
 - [ ] Entwicklungsgespräch Zettel Ansia 
 - [ ] Physik Experiment Beutel sortieren 
