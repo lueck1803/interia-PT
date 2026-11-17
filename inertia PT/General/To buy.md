@@ -8,7 +8,7 @@
 - [ ] Backofenreiniger 
 - [ ] <font color="#ff0000">Luftballons</font> 
 - [ ] Knete
-- [ ] Strohhalme 
+- [x] Strohhalme 
 - [ ] neue Whiteboard marker 
 # Internet 
 - [ ] Usb ⇔ Usb-c Kabel (2m)
