@@ -306,7 +306,7 @@
 	- [ ] zusammen legen
 
 - [ ] Zähne putzen 
-- [ ] Kaffee 
+- [ ] xournal++ hotkey select rectangle oder rotate geodreieck ändern
 - [ ] AOK 
 - [ ] Dropbox Link verkürzen 
 - [ ] Ceranfeld putzen 
