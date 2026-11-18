@@ -305,6 +305,8 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
+
+-
 - Entwicklungsgespräche (Nachricht von Nicole)
 	- grob über die Zielscheiben schauen
 	- nicht jedes Kuchenstück
