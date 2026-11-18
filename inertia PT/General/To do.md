@@ -305,7 +305,17 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
-- [ ] Luftballon prepa
+- [ ] Luftballon präparieren so dass ich den Versuch machen kann
+- [ ] Video drehen zu den beiden versuchen 
+- [ ] Selfie Stick/stativ kaufen 
+- [ ] Bestimmungen für den Spickzettel 
+- [ ] Fotos von 10b Physik in Schulportal 
+	- [ ] links hinzufügen 
+	- [ ] Hausaufgabe notieren mit klarer Beschreibung 
+	- [ ] Hausaufgabe auch für 10a stellen 
+	- [ ] Berechnung mit Magdeburger Halbkugeln mal selbst rechnen
+	- [ ] Abschätzung machen wie viel Unterdruck mal mit dem Mund aufbaut 
+
 - Saif anschreiben wegen Tutorenrolle
 	- [ ] Hausaufgabe: Mathewettbewerb B2025 und B2024 rechnen
 	- [ ] soll mir Seine lösungen zeigen -> sauber aufschreiben
