@@ -305,6 +305,8 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
+- [ ] große Spritze kaufen 
+
 - [ ] Luftballon präparieren so dass ich den Versuch machen kann
 - [ ] Video drehen zu den beiden versuchen 
 - [ ] Selfie Stick/stativ kaufen 
