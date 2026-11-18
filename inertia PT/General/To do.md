@@ -321,12 +321,8 @@
 	- [ ] zusatz Material 
 	- [ ] sie wegen Vertrauensgespräch ansprechen 
 - [ ] Mathe-Formel Sammlung einscannen 
-- [x] Xenia ne Liste an Aufgaben schicken 
 
 
-- [x] Abdullah die Arbeit einscannen und schicken 
-- [ ] saif in Tutorengruppe einladen 
-- [x] Nicole schreiben bzgl Medikamente und das Abdi das Geld bezahlt hat
 
 - [ ] Termin mit Vater von Nedim machen 
 
