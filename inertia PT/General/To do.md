@@ -333,6 +333,16 @@
 	- [ ] Rohiv auch
 	- [ ] Zaynaba scheint immer sehr fertig zu sein...
 		- [ ] ich hab da einen möglichen verdacht, vielleicht weißt du mehr?
+		- [ ] oder liegt es einfach daran, wie du montag in physik erwähnt hast, dass sie beten müsse, steht sie vielleicht recht früh auf um zu beten und ist deshalb so müde?
+	- [ ] Versuche die Mädchentruppe doch bitte mit zu ziehen und zu motivieren ⟹ du kannst das!
+	- [ ] Ich habe dann aber leider manchmal das Gefühl, dass du die eher ablenkst, das ist aber mein Gefühl und bitte überzeug mich da eines Besseren
+	- [ ] Bei Xenia dachte ich auch, dass sie total abwesend wäre, hat am Montag aber wohl sehr viel mitbekommen.
+	- [ ] Ich möchte, dass du nach der 10. auf die weiter führende Schule gehen kannst
+	- [ ] ich möchte dich auch weiterhin aufstufen, zeig mir, dass ich dir vertrauen kann
+	- [ ] ich werde das mit den Tutoren jetzt wieder angehen.
+	- [ ] So können wir uns aufteilen und alle gut versorgen
+	- [ ] ich möchte, dass möglichst alle mindestens eine 3 im Mathewettbewerb schreiben!
+	- [ ] wir können es als Team den anderen Klassen zeigen, dass wir besser sind!
 
 - [ ] Physikunterricht für Freitag richtig vorbereiten
 	- [ ] Rutherford Streuversuch
@@ -347,9 +357,9 @@
 	- [ ] sie wegen Vertrauensgespräch ansprechen 
 - [ ] Mathe-Formel Sammlung einscannen 
 - [ ] Xenia ne Liste an Aufgaben schicken 
-- [ ] Gespräch mit salma vorbereiten
+- [x] Gespräch mit salma vorbereiten
 
-- [ ] verkürzte Links an 8er
+- [x] verkürzte Links an 8er
 
 - [ ] Abdullah die Arbeit einscannen und schicken 
 - [ ] saif in Tutorengruppe einladen 
