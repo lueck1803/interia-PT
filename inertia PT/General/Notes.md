@@ -103,6 +103,9 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
+
+## 2026-11-18 Xenia (BAS)
+Ich hoffe auch, dass es nicht zu persönlich war, dass deine Mutter über deine Depressionen erzählt hat.
 ## 2026-11-15 nadine
 Ja das ist das Problem 😅
 
