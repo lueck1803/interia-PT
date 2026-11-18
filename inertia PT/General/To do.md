@@ -305,7 +305,8 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
-- [ ] nachrichten von antonia lesen
+- [ ] Innenvierkant für Heizung kaufen
+- [x] nachrichten von antonia lesen
 - [x] Äquivalenzumformung Aufschrieb
 
 - [ ] Physikunterricht für Freitag richtig vorbereiten
