@@ -331,7 +331,7 @@
 
 - [x] Abdullah die Arbeit einscannen und schicken 
 - [ ] saif in Tutorengruppe einladen 
-- [ ] Nicole schreiben bzgl Medikamente und das Abdi das Geld bezahlt hat
+- [x] Nicole schreiben bzgl Medikamente und das Abdi das Geld bezahlt hat
 
 - [ ] Termin mit Vater von Nedim machen 
 
