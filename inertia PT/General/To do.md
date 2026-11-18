@@ -319,6 +319,18 @@
 - [ ] fragen ob oli eigenes hmdi kabel mitgebracht hat? 
 - [ ] beim nächsten Mal mein usb c - HDMI Kabel mitbringen 
 
+- [ ] Aufgabenblatt:
+	- [ ] kraft auf Magdeburger Halbkugeln 
+		- [ ] Zeichnung 
+		- [ ] verweis auf Video 
+		- [ ] macht eine Abschätzung 
+		- [ ] F die in dem Video gemessen wurde versuchen zu berechnen 
+	- [ ] Formel herleiten mit spritze
+		- [ ] Formel soll auf spicker 
+	- [ ] Aufgabe mit kommunizierende Röhren stellen 
+	- [ ] archimedisches Prinzip herleiten auf das blatt mit
+		- [ ] Formel soll auf spicker
+
 
 - Saif anschreiben wegen Tutorenrolle
 	- [ ] Hausaufgabe: Mathewettbewerb B2025 und B2024 rechnen
