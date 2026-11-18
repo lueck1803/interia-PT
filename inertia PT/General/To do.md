@@ -306,8 +306,7 @@
 	- [ ] zusammen legen
 
 - [ ] Abdullah die Arbeit einscannen und schicken 
-- [ ] saif in Tutorengruppe einl
-
+- [ ] saif in Tutorengruppe einladen 
 
 - [ ] große Spritze kaufen 
 
