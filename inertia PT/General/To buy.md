@@ -26,6 +26,7 @@
 - [ ] backpapier 
 - [ ] Spülmaschinenpulver 
 - [ ] Kaugummi 
+- [ ] Nussnougat 
 - [x] Hummus
 - [x] Toast 
 - [x] Nudelsoße
@@ -38,7 +39,6 @@
 - [x] spaghetti Kürbis?
 - [x] 405er mehl
 - [x] Zucker 
-- [x] Nussnougat 
 - [x] Birnen 
 - [x] saft
 - [x] Zwiebeln 
