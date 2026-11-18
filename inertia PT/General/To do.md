@@ -311,13 +311,22 @@
 	- [ ] Material
 		- [ ] Sachen dabei haben
 		- [ ] Mathewettbewerbs Sachen 
-		- [ ] 
+		- [ ] <font color="#7cfc00">Geodreieck</font> für die Mathewettbewerbsaufgaben
 	- [ ] Disziplin
+		- [ ] zwischendrin mal länger weg und ich denke mir wo bist du
 	- [ ] Anwesenheit
 	- [ ] Motivation schwank extrem
+		- [ ] gerade in Physik ist die momentan total im Keller
+		- [ ] Konstellation in Physik: Du solltest eher dafür sorgen, dass Zaynaba und Rohiv aufmerksam sind.
+		- [ ] Bei Xenia habe ich heute im Gespräch festgestellt, dass sie sich fast alles gemerkt hat und die Experimente auch zu Hause vorgezeigt hat
+		- [ ] In Mathe war deine Motivation gestern wieder extrem hoch
+	- [ ] Manchmal weiß ich nicht ob du jetzt etwas ernst meinst oder mich auf den Arm nimmst
 
-
-
+- [ ] Physikunterricht für Freitag richtig vorbereiten
+	- [ ] Rutherford Streuversuch
+	- [ ] Mir überlegen, was ich an die Tafel schreibe
+	- [ ] Welche Versuche ich mache
+![[../../Pasted image 20261118151840.png]]
 
 - [ ] Mathewettbewerb Realschule: Jahre bis 2018 runter laden und Aufgaben abtrennen
 - [ ] Xenia jeden Tag wegen Aufgaben Nerven 
