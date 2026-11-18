@@ -310,17 +310,24 @@
 - [ ] 15:45 Salma mit Mutter Frau Mira
 	- [ ] Material
 		- [ ] Sachen dabei haben
-		- [ ] Mathewettbewerbs Sachen 
+		- [ ] Mathewettbewerbs Sachen - waren nicht dabei
 		- [ ] <font color="#7cfc00">Geodreieck</font> für die Mathewettbewerbsaufgaben
+		- [ ] In Physik hast du das Blatt an die Jungs weiter gegeben - sehr nett von dir, aber die sind doch selbst dafür verantwortlich.
+			- [ ] Ich habe allen ein Blatt gegeben, wenn die es zerknüllen und herum werfen, ist das <font color="#7cfc00">nicht</font> DEIN PROBLEM
+			- [ ] Kümmere du dich um deine Sachen
 	- [ ] Disziplin
 		- [ ] zwischendrin mal länger weg und ich denke mir wo bist du
+		- [ ] Konstellation in Physik: Du solltest eher dafür sorgen, dass Zaynaba und Rohiv aufmerksam sind.
 	- [ ] Anwesenheit
 	- [ ] Motivation schwank extrem
 		- [ ] gerade in Physik ist die momentan total im Keller
-		- [ ] Konstellation in Physik: Du solltest eher dafür sorgen, dass Zaynaba und Rohiv aufmerksam sind.
 		- [ ] Bei Xenia habe ich heute im Gespräch festgestellt, dass sie sich fast alles gemerkt hat und die Experimente auch zu Hause vorgezeigt hat
 		- [ ] In Mathe war deine Motivation gestern wieder extrem hoch
 	- [ ] Manchmal weiß ich nicht ob du jetzt etwas ernst meinst oder mich auf den Arm nimmst
+		- [ ] ich war mir beispielsweise auch nicht sicher, ob du es ernst meintest, als du sagtest, dass du dir alles ausdruckst, was ich in die Gruppe schicke...
+		- [ ] ich will es dir glauben, aber manchmal wirkst du dann schon nicht so ganz vertrauenswürdig, da es wirkt, als würdest du einem etwas vor machen.
+		- [ ] Es fehlt die Ernsthaftigkeit in deinem Auftreten.
+		- [ ] Vielleicht liegt es auch an mir, dass du mich nicht so respektierst 
 
 - [ ] Physikunterricht für Freitag richtig vorbereiten
 	- [ ] Rutherford Streuversuch
@@ -589,7 +596,7 @@
 - [ ] Infos von heute in Vertretungslehrer 
 - [ ] tafel von heute abtippen. 10a Hausaufgabe: kraft auf fass berechnen -> in kg
 - [ ] HNO Termin 
-- [ ] dafür nächste Woche Doppelstunde (Raum?)
+- [ ] dafür nächste Woche Doppelstunde (Raum?) %% fold %%
 - [ ] mo 16.11 GK - ich bin Protokollant  %% fold %%
 	- [ ] letztes Protokoll anschauen  %% fold %%
 - [ ] Raum 4 kinder zum Förderkurs do 13:45 Uhr  %% fold %%
