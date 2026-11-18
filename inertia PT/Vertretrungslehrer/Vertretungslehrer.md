@@ -1,9 +1,9 @@
 # Ordner Links
 - [x] Dropbox Link verkürzen 
-	- [ ] physik 10: https://short-url.cc/Physik10Material
-	- [ ] physik Literatur: https://short-url.cc/PhysikLiteratur
-	- [ ] physik 8: https://short-url.cc/Physik8
-	- [ ] mathe 8: https://short-url.cc/Mathe8
+	- [ ] Physik 10 Material: https://short-url.cc/Physik10Material
+	- [ ] Physik Literatur: https://short-url.cc/PhysikLiteratur
+	- [ ] Physik 8 Material: https://short-url.cc/Physik8
+	- [ ] Mathe 8 Material: https://short-url.cc/Mathe8
 # To-Do 
 - [ ] 
 ## alt
