@@ -328,6 +328,11 @@
 		- [ ] ich will es dir glauben, aber manchmal wirkst du dann schon nicht so ganz vertrauenswürdig, da es wirkt, als würdest du einem etwas vor machen.
 		- [ ] Es fehlt die Ernsthaftigkeit in deinem Auftreten.
 		- [ ] Vielleicht liegt es auch an mir, dass du mich nicht so respektierst 
+	- [ ] Ich weiß du kannst etwas
+	- [ ] Xenia kann auch etwas.
+	- [ ] Rohiv auch
+	- [ ] Zaynaba scheint immer sehr fertig zu sein...
+		- [ ] ich hab da einen möglichen verdacht, vielleicht weißt du mehr?
 
 - [ ] Physikunterricht für Freitag richtig vorbereiten
 	- [ ] Rutherford Streuversuch
