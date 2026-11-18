@@ -314,42 +314,7 @@
 - [ ] Saif in die Tutorengruppe - imad raus
 
 
-- [ ] 15:45 Salma mit Mutter Frau Mira
-	- [ ] Material
-		- [ ] Sachen dabei haben
-		- [ ] Mathewettbewerbs Sachen - waren nicht dabei
-		- [ ] <font color="#7cfc00">Geodreieck</font> für die Mathewettbewerbsaufgaben
-		- [ ] In Physik hast du das Blatt an die Jungs weiter gegeben - sehr nett von dir, aber die sind doch selbst dafür verantwortlich.
-			- [ ] Ich habe allen ein Blatt gegeben, wenn die es zerknüllen und herum werfen, ist das <font color="#7cfc00">nicht</font> DEIN PROBLEM
-			- [ ] Kümmere du dich um deine Sachen
-	- [ ] Disziplin
-		- [ ] zwischendrin mal länger weg und ich denke mir wo bist du
-		- [ ] Konstellation in Physik: Du solltest eher dafür sorgen, dass Zaynaba und Rohiv aufmerksam sind.
-	- [ ] Anwesenheit
-	- [ ] Motivation schwank extrem
-		- [ ] gerade in Physik ist die momentan total im Keller
-		- [ ] Bei Xenia habe ich heute im Gespräch festgestellt, dass sie sich fast alles gemerkt hat und die Experimente auch zu Hause vorgezeigt hat
-		- [ ] In Mathe war deine Motivation gestern wieder extrem hoch
-	- [ ] Manchmal weiß ich nicht ob du jetzt etwas ernst meinst oder mich auf den Arm nimmst
-		- [ ] ich war mir beispielsweise auch nicht sicher, ob du es ernst meintest, als du sagtest, dass du dir alles ausdruckst, was ich in die Gruppe schicke...
-		- [ ] ich will es dir glauben, aber manchmal wirkst du dann schon nicht so ganz vertrauenswürdig, da es wirkt, als würdest du einem etwas vor machen.
-		- [ ] Es fehlt die Ernsthaftigkeit in deinem Auftreten.
-		- [ ] Vielleicht liegt es auch an mir, dass du mich nicht so respektierst 
-	- [ ] Ich weiß du kannst etwas
-	- [ ] Xenia kann auch etwas.
-	- [ ] Rohiv auch
-	- [ ] Zaynaba scheint immer sehr fertig zu sein...
-		- [ ] ich hab da einen möglichen verdacht, vielleicht weißt du mehr?
-		- [ ] oder liegt es einfach daran, wie du montag in physik erwähnt hast, dass sie beten müsse, steht sie vielleicht recht früh auf um zu beten und ist deshalb so müde?
-	- [ ] Versuche die Mädchentruppe doch bitte mit zu ziehen und zu motivieren ⟹ du kannst das!
-	- [ ] Ich habe dann aber leider manchmal das Gefühl, dass du die eher ablenkst, das ist aber mein Gefühl und bitte überzeug mich da eines Besseren
-	- [ ] Bei Xenia dachte ich auch, dass sie total abwesend wäre, hat am Montag aber wohl sehr viel mitbekommen.
-	- [ ] Ich möchte, dass du nach der 10. auf die weiter führende Schule gehen kannst
-	- [ ] ich möchte dich auch weiterhin aufstufen, zeig mir, dass ich dir vertrauen kann
-	- [ ] ich werde das mit den Tutoren jetzt wieder angehen.
-	- [ ] So können wir uns aufteilen und alle gut versorgen
-	- [ ] ich möchte, dass möglichst alle mindestens eine 3 im Mathewettbewerb schreiben!
-	- [ ] wir können es als Team den anderen Klassen zeigen, dass wir besser sind!
+
 
 - [ ] Physikunterricht für Freitag richtig vorbereiten
 	- [ ] Rutherford Streuversuch
@@ -409,88 +374,7 @@
 	- [ ] Hilfe im Unterricht bei Mathe
 	- [ ] Hilfe um Anas, Anuar, Imad, yahya und auch Trae
 	- [ ] ⤷ mündlich von 3 auf 1 noch in diesem halbjahr
-- Entwicklungsgespräche (Nachricht von Nicole)
-	- grob über die Zielscheiben schauen
-	- nicht jedes Kuchenstück
-	- nur die Ausreißer (roter/gelber Bereich)
-		- sagen welcher Lehrer die Notiz gemacht hat
-	- Festhalten auf dem <font color="#ffc000">Protokollbogen</font>
-		- liegen in der Klasse
-		- Name drauf
-		- Wann das Gespräch
-		- mit wem
-		- <font color="#ff0000">⟹</font> <font color="#ff0000">nicht raus geben</font>
-		- ⤷ kommt in die Akte
-		- ⤷ auch die zielscheiben kommen in die Akte
-	
-	- Abdullah:
-		- unbedingt den eltern sagen, dass die zum Kinderarzt gehen und adhs testen lassen?? 
-		- ⤷ finde ich ja gaaaaaar nicht xD, eher bei Anuar... xD
-		- ⤷ Kinderarzt soll ihn nach Reinheim oder Arheilgen zum Kinder psychologen überweisen 
-		- zieht die Schuhe aus und spielt damit rum
-		- juckelt rum 
-		- klatscht mit irgendwas auf den Tisch
-		- hat viel bewegung in sich
-		- sitzt in der ersten Reihe, so dass er nur nach vorne schauen darf, dreht sich trotzdem um und lässt sich trotzdem von Saif und andren provozieren. ⟹ sehr auffallend
-		- ⤷ bei mir gar nicht
-		- bei mir ist er eher extrem müde 
-		- hängt immer am handy
-- [ ] saif <font color="#7cfc00">8:15</font>
-	- [ ] kann auf jedenfall was
-		- [ ] ⤷ ruht sich darauf aus
-		- [ ] ⤷ reicht ihm wenn er auf die letzte Sekunde etwas abliefert, ist ihm gut genug
-		- [ ] ⤷ das geht auf Dauer nicht gut
-		- [ ] er ist zu mehr fähig 
-		- [ ] schlauerkopf, sagt auch frau güldner
-	- [ ] jüngster von 8?
-		- [ ] fehlt ihm da etwas das wahr und ernst genommen werden? 
-	- [ ] Probleme mit 6. Klässler Mason
-		- [ ] warum lässt er sich von so einem kleinen provozieren 
-		- [ ] mason hat doch eh genug Schwierigkeiten 
-		- [ ] einfach seine dämlichkeit ignorieren 
-		- [ ] Ja mason hat eine riesige klappe und provoziert massiv
-		- [ ] Aber da musst du drüber stehen
-		- [ ] Du schadest alleine dir damit
-		- [ ] Die situation eskaliert
-		- [ ] Saif ist gewaltätig mason gegenüber
-		- [ ] ⤷ wird zu richtigen Problemen führen
-	- [ ] mehr Respekt im Umgang mit Gegenständen, ausgeteilten Materialien und insbesondere Dingen die gemein gut sind
-	- [ ] widersetzt sich erst extrem lange den Maßnahmen und Aufforderungen
-		- [ ] am Ende macht er es ja doch...
-		- [ ] einfach mal vorher dem Schicksal fügen
-		- [ ] Hausmeisterdienst
-	- [ ] Redet permanent im Unterricht bei Frau Güldner
-	- [ ] Provoziert den Abdullah
-	- [ ] Massives Handy problem
-		- [ ] ich muss ihn jede Stunde dazu auffordern sein handy weg zu packen
-		- [ ] er ist mit dem handy zusammengewachsen
-	- [ ] ihm ist offenbar langweilig, da er alles schon kann und ihm alles zu einfach ist
-		- [ ] es gibt aber genug in der Klasse denen es nicht so geht
-		- [ ] er könnte seine Fähigkeiten nutzen positiven Einfluss auf Andere zu haben 
-		- [ ] mehr EigenVerantwortung für sein Handeln übernehmen
-		- [ ] mehr Verantwortung für die Gemeinschaft
-		- [ ] dann muss er die Leere und Langeweile die er in sich spürt nicht am Handy verbringen 
-		- [ ] könnte eine positive Rolle einnehmen und Respektsperson werden 
-		- [ ] ich sehe ihn als einen an der den Haufen in den Griff bekommen könnte. 
-		- [ ] seine Fähigkeiten zur Selbstwirksamkeit und zum  Gewinn an der Gemeinschaft beitragen 
-		- [ ] es gibt so viele die Unterstützung bräuchten und du kannst was 
-		- [ ] ich hab nicht die Kapazität die notwendig wäre
-	- [ ] Vorschlag: 
-		- [ ] Sitzplatzwechsel
-		- [ ] Tutorenrolle
-		- [ ] Verantwortung übernehmen
-		- [ ] Polizei für Anuar und yahya...
-- [ ] Abdullah 9:00
-- [ ] Xenia 12:30
-	- [ ] sehr sehr sehr still
-	- [ ] mehr aus sich heraus kommen soll
-	- [ ] Bei Xenia sagen:
-		- sehr sehr sehr still
-		- mehr aus sich heraus kommen soll
-- [ ] Zähne putzen 
-- [ ] duschen 
-- [ ] laptop tastatur wischen
-- [x] xournal++ hotkey select rectangle oder rotate geodreieck ändern
+
 - [ ] AOK 
 
 - [ ] Ceranfeld putzen 
@@ -552,19 +436,19 @@
 	- [x] morgens 
 	- [x] Abends
 - [x] Schul-id mails checken
-- [ ] Biomüll runter
+- [ ] Biomüll runter %% fold %%
 - [ ] Spülmaschine ausräumen 
 - [ ] Arbeitsblätter Mathe-Wettbewerb checken 
 	- [ ] B 2024 genug Blätter für a und b Klasse?
 	- [ ] ich glaube für die a Klasse hatte ich Mittwoch schon welche ausgeteilt 
 	- [ ] auch sicherheitshalber A2025 nochmal kopieren 
 - [ ] Protokollführung anschauen
-- [ ] Mathearbeit fertig korrigieren
-- [ ] mein Wissenssammlung für Montag ausdrucken zur Anschauung 
-- [ ] fluidik für 10er einscannen, muss man in den Kapiteln zusammen suchen 
-- [ ] Ohrentropfen ins linke ohr
-- [ ] Kürbis aus der Truhe holen
-- [ ] Ventilator in den Keller
+- [ ] Mathearbeit fertig korrigieren %% fold %%
+- [ ] mein Wissenssammlung für Montag ausdrucken zur Anschauung  %% fold %%
+- [ ] fluidik für 10er einscannen, muss man in den Kapiteln zusammen suchen  %% fold %%
+- [ ] Ohrentropfen ins linke ohr %% fold %%
+- [ ] Kürbis aus der Truhe holen %% fold %%
+- [ ] Ventilator in den Keller %% fold %%
 	- [ ] kein platz, muss ich hier irgendwie unterkriegen
 - [ ] Spülmaschine einräumen 
 - [ ] paprika verkochen mit kürbis aus der Truhe
@@ -584,7 +468,7 @@
 	- [ ] m 5a %% fold %%
 	- [ ] m 8a %% fold %%
 	- [ ] m 8b
-	- [ ] p 8a
+	- [ ] p 8a %% fold %%
 	- [ ] p 8b
 	- [ ] p 8c %% fold %%
 	- [x] p 10b %% fold %%
@@ -608,7 +492,7 @@
 	- [ ] G kurs punkte
 	- [ ] und Feld für Kurs hinschreiben 
 - [ ] Mir Elias Folien/Portfolio anschauen
-- [ ] Korrektur:
+- [ ] Korrektur: %% fold %%
 	- [ ] Punkte in 7a geben, wenn dort direkt $5x+5$ steht. Korrigieren:
 		- [ ] 8a
 		- [ ] 8b 
