@@ -305,6 +305,10 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
+- [ ] Abdullah die Arbeit einscannen und schicken 
+- [ ] saif in Tutorengruppe einl
+
+
 - [ ] große Spritze kaufen 
 
 - [ ] Luftballon präparieren so dass ich den Versuch machen kann
