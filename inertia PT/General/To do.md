@@ -554,7 +554,7 @@
 - [ ] tafel von heute abtippen. 10a Hausaufgabe: kraft auf fass berechnen -> in kg
 - [ ] HNO Termin 
 - [ ] dafür nächste Woche Doppelstunde (Raum?)
-- [ ] mo 16.11 GK - ich bin Protokollant 
+- [ ] mo 16.11 GK - ich bin Protokollant  %% fold %%
 	- [ ] letztes Protokoll anschauen 
 - [ ] Raum 4 kinder zum Förderkurs do 13:45 Uhr 
 - [ ] ma 8a Arbeit überall mündliche Note 
