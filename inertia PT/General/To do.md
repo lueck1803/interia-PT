@@ -366,7 +366,6 @@
 
 - [ ] Ceranfeld putzen 
 - [ ] Experimente einscannen 
-- [ ] Entwicklungsgespräch Zettel Ansia 
 - [ ] Physik Experiment Beutel sortieren 
 	- [ ] die Aufhängung mit dem Löffel nochmal besser machen 
 		- [ ] besserer Knoten 
@@ -402,7 +401,7 @@
 	- [ ] Salma 
 	- [ ] anas 
 	- [ ] rayan
-- [ ] orange hose flicken 
+- [x] orange hose flicken 
 - [ ] Punkte 8b Mathe 
 	- [ ] nedim 4 
 	- [ ] emir ?
