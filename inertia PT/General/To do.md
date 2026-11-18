@@ -306,7 +306,12 @@
 	- [ ] zusammen legen
 
 
--
+- Saif anschreiben wegen Tutorenrolle
+	- [ ] Hausaufgabe: Mathewettbewerb B2025 und B2024 rechnen
+	- [ ] soll mir Seine lösungen zeigen -> sauber aufschreiben
+	- [ ] Hilfe im Unterricht bei Mathe
+	- [ ] Hilfe um Anas, Anuar, Imad, yahya und auch Trae
+	- [ ] ⤷ mündlich 
 - Entwicklungsgespräche (Nachricht von Nicole)
 	- grob über die Zielscheiben schauen
 	- nicht jedes Kuchenstück
