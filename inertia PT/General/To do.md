@@ -306,7 +306,7 @@
 	- [ ] zusammen legen
 
 - [ ] nachrichten von antonia lesen
-- [ ] Äquivalenzumformung Aufschrieb
+- [x] Äquivalenzumformung Aufschrieb
 
 - [ ] Physikunterricht für Freitag richtig vorbereiten
 	- [ ] Rutherford Streuversuch
