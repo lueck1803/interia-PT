@@ -510,7 +510,7 @@
 		- [ ] Unterrichtsfrei dafür beantragen
 	- [ ] eine Klassenarbeit kann im Jahr als ersatzleistung gemacht werden
 
-- [ ] Tag der offenen Tür 28.11. ein Samstag
+- [ ] Tag der offenen Tür 28.11. ein Samstag %% fold %%
 	- [ ] Eltern werden durch Stationen durch geschleust
 		- [ ] ⤷ bio
 		- [ ] ⤷ chemie
