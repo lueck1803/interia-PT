@@ -306,6 +306,8 @@
 	- [ ] zusammen legen
 
 
+- [ ] Saif in die Tutorengruppe - imad raus
+
 
 - [ ] 15:45 Salma mit Mutter Frau Mira
 	- [ ] Material
