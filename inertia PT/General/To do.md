@@ -308,7 +308,10 @@
 
 
 - [ ] 15:45 Salma mit Mutter Frau Mira
-	- [ ] 
+	- [ ] Sachen dabei haben
+	- [ ] Disziplin
+	- [ ] Anwesenheit
+	- [ ] Motivation schwank extrem
 
 
 
