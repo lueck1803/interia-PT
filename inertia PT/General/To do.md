@@ -309,6 +309,8 @@
 - [ ] Xenia jeden Tag wegen Aufgaben Nerven 
 	- [ ] ihr Videos bzgl Wissenschaft schicken 
 	- [ ] zusatz Material 
+	- [ ] sie wegen Vertrauensgespräch ansprechen 
+- [ ] Mathe-Formel Sammlung einscannen 
 
 - [ ] Abdullah die Arbeit einscannen und schicken 
 - [ ] saif in Tutorengruppe einladen 
