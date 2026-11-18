@@ -305,7 +305,7 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
-
+- [ ] Luftballon prepa
 - Saif anschreiben wegen Tutorenrolle
 	- [ ] Hausaufgabe: Mathewettbewerb B2025 und B2024 rechnen
 	- [ ] soll mir Seine lösungen zeigen -> sauber aufschreiben
