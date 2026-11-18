@@ -316,6 +316,10 @@
 	- [ ] Berechnung mit Magdeburger Halbkugeln mal selbst rechnen
 	- [ ] Abschätzung machen wie viel Unterdruck mal mit dem Mund aufbaut 
 
+- [ ] fragen ob oli eigenes hmdi kabel mitgebracht hat? 
+- [ ] beim nächsten Mal mein usb c - HDMI Kabel mitbringen 
+
+
 - Saif anschreiben wegen Tutorenrolle
 	- [ ] Hausaufgabe: Mathewettbewerb B2025 und B2024 rechnen
 	- [ ] soll mir Seine lösungen zeigen -> sauber aufschreiben
