@@ -305,6 +305,11 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
+
+- [ ] Xenia jeden Tag wegen Aufgaben Nerven 
+	- [ ] ihr Videos bzgl Wissenschaft schicken 
+	- [ ] zusatz Material 
+
 - [ ] Abdullah die Arbeit einscannen und schicken 
 - [ ] saif in Tutorengruppe einladen 
 - [ ] Nicole schreiben bzgl Medikamente und das Abdi das Geld bezahlt hat
@@ -582,7 +587,7 @@
 - [x] Strahlensatz fertig aufschreiben %% fold %%
 	- [x] Blatt ausdrucken %% fold %%
 - [x] zählen wie viele Physikblätter ich für die 8b habe. %% fold %%
-	- [x] ⤷ E-Lehre Arbeitsblätter für 8b drucken.
+	- [x] ⤷ E-Lehre Arbeitsblätter für 8b drucken. %% fold %%
 		- 6 %% fold %%
 	- [x] ⤷ 17 Stück drucken %% fold %%
 	- Wie viele Arbeitsblätter für die Ergänzungsaufgabe habe ich noch?
