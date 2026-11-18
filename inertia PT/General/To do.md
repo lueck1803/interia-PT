@@ -305,6 +305,14 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
+
+
+- [ ] 15:45 Salma mit Mutter Frau Mira
+	- [ ] 
+
+
+
+
 - [ ] Mathewettbewerb Realschule: Jahre bis 2018 runter laden und Aufgaben abtrennen
 - [ ] Xenia jeden Tag wegen Aufgaben Nerven 
 	- [ ] ihr Videos bzgl Wissenschaft schicken 
@@ -568,13 +576,13 @@
 - [ ] HNO Termin 
 - [ ] dafür nächste Woche Doppelstunde (Raum?)
 - [ ] mo 16.11 GK - ich bin Protokollant  %% fold %%
-	- [ ] letztes Protokoll anschauen 
-- [ ] Raum 4 kinder zum Förderkurs do 13:45 Uhr 
-- [ ] ma 8a Arbeit überall mündliche Note 
-	- [ ] Melanie+ mia g kurs Bewertung 
-
+	- [ ] letztes Protokoll anschauen  %% fold %%
+- [ ] Raum 4 kinder zum Förderkurs do 13:45 Uhr  %% fold %%
+- [ ] ma 8a Arbeit überall mündliche Note  %% fold %%
+	- [ ] Melanie+ mia g kurs Bewertung  %% fold %%
+ %% fold %%
 - [ ] Physikfachkonferenz
-	- [ ] Anna Vorschlag: Tag ausplanen, um die Physiksammlung aufzuräumen
+	- [ ] Anna Vorschlag: Tag ausplanen, um die Physiksammlung aufzuräumen %% fold %%
 		- [ ] Unterrichtsfrei dafür beantragen
 	- [ ] eine Klassenarbeit kann im Jahr als ersatzleistung gemacht werden
 
