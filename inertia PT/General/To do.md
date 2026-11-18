@@ -307,7 +307,7 @@
 
 - [ ] Abdullah die Arbeit einscannen und schicken 
 - [ ] saif in Tutorengruppe einladen 
-- [ ] 
+- [ ] Nicole schreiben bzgl Medikamente und das Abdi das gek
 
 - [ ] große Spritze kaufen 
 
