@@ -305,15 +305,13 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
-- [ ] ins fach schauen wegen abgaben
-- [ ] allen 4 nen haken setzen
+- [x] ins fach schauen wegen abgaben
+- [x] allen 4 nen haken setzen
 - [ ] nachrichten von antonia lesen
-- [ ] uhr von 5a mitnehmen
+- [x] uhr von 5a mitnehmen
 
 
 - [ ] Saif in die Tutorengruppe - imad raus
-
-
 
 
 - [ ] Physikunterricht für Freitag richtig vorbereiten
@@ -328,12 +326,10 @@
 	- [ ] zusatz Material 
 	- [ ] sie wegen Vertrauensgespräch ansprechen 
 - [ ] Mathe-Formel Sammlung einscannen 
-- [ ] Xenia ne Liste an Aufgaben schicken 
-- [x] Gespräch mit salma vorbereiten
+- [x] Xenia ne Liste an Aufgaben schicken 
 
-- [x] verkürzte Links an 8er
 
-- [ ] Abdullah die Arbeit einscannen und schicken 
+- [x] Abdullah die Arbeit einscannen und schicken 
 - [ ] saif in Tutorengruppe einladen 
 - [ ] Nicole schreiben bzgl Medikamente und das Abdi das Geld bezahlt hat
 
