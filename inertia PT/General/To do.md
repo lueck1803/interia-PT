@@ -305,10 +305,23 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
+
+- [ ] Xenia jeden Tag wegen Aufgaben Nerven 
+	- [ ] ihr Videos bzgl Wissenschaft schicken 
+	- [ ] zusatz Material 
+	- [ ] sie wegen Vertrauensgespräch ansprechen 
+- [ ] Mathe-Formel Sammlung einscannen 
+- [ ] Xenia ne Liste an Aufgaben schicken 
+- [ ] Gespräch mit salma vorbereiten
+
+- [ ] verkürzte Links an 8er
+
 - [ ] Abdullah die Arbeit einscannen und schicken 
 - [ ] saif in Tutorengruppe einladen 
 - [ ] Nicole schreiben bzgl Medikamente und das Abdi das Geld bezahlt hat
-- [ ] 
+
+- [ ] Termin mit Vater von Nedim machen 
+
 - [ ] große Spritze kaufen 
 
 - [ ] Luftballon präparieren so dass ich den Versuch machen kann
@@ -580,7 +593,7 @@
 - [x] Strahlensatz fertig aufschreiben %% fold %%
 	- [x] Blatt ausdrucken %% fold %%
 - [x] zählen wie viele Physikblätter ich für die 8b habe. %% fold %%
-	- [x] ⤷ E-Lehre Arbeitsblätter für 8b drucken.
+	- [x] ⤷ E-Lehre Arbeitsblätter für 8b drucken. %% fold %%
 		- 6 %% fold %%
 	- [x] ⤷ 17 Stück drucken %% fold %%
 	- Wie viele Arbeitsblätter für die Ergänzungsaufgabe habe ich noch?
