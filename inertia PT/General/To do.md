@@ -311,6 +311,7 @@
 	- [ ] zusatz Material 
 	- [ ] sie wegen Vertrauensgespräch ansprechen 
 - [ ] Mathe-Formel Sammlung einscannen 
+- [ ] Xenia ne Liste an Aufgaben schicken 
 
 - [ ] Abdullah die Arbeit einscannen und schicken 
 - [ ] saif in Tutorengruppe einladen 
