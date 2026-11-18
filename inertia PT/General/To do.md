@@ -311,7 +311,7 @@
 	- [ ] soll mir Seine lösungen zeigen -> sauber aufschreiben
 	- [ ] Hilfe im Unterricht bei Mathe
 	- [ ] Hilfe um Anas, Anuar, Imad, yahya und auch Trae
-	- [ ] ⤷ mündlich 
+	- [ ] ⤷ mündlich von 3 auf 1 noch in diesem halbjahr
 - Entwicklungsgespräche (Nachricht von Nicole)
 	- grob über die Zielscheiben schauen
 	- nicht jedes Kuchenstück
