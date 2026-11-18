@@ -305,6 +305,9 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
+- [ ] ins fach schauen wegen abgaben
+- [ ] allen 4 nen haken setzen
+
 
 - [ ] Saif in die Tutorengruppe - imad raus
 
