@@ -307,6 +307,8 @@
 
 - [ ] ins fach schauen wegen abgaben
 - [ ] allen 4 nen haken setzen
+- [ ] nachrichten von antonia lesen
+- [ ] uhr von 5a mitnehmen
 
 
 - [ ] Saif in die Tutorengruppe - imad raus
