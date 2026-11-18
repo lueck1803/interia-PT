@@ -305,14 +305,8 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
-- [x] ins fach schauen wegen abgaben
-- [x] allen 4 nen haken setzen
 - [ ] nachrichten von antonia lesen
-- [x] uhr von 5a mitnehmen
-
-
-- [x] Saif in die Tutorengruppe - imad raus
-
+- [ ] Äquivalenzumformung Aufschrieb
 
 - [ ] Physikunterricht für Freitag richtig vorbereiten
 	- [ ] Rutherford Streuversuch
@@ -405,26 +399,18 @@
 - [ ] protokoll von GK2 lesen ⟹ um es zu genehmigen
 - [ ] Entwicklungsgespräche Protokoll für Ansia fertig machen
 - [ ] Ilayda und Marie mitteilen: es wurde sich um sofian gekümmert
-- [x] meinen 8tern schreiben wegen mathewettbewerb
-- [x] nicole güldner: wie sieht es aus mit der Hilfe bei den entwicklungsgesprächen
 - [ ] dean and berkay antworten 
 - [ ] fehlend eintragen P
 	- [ ] dean
 	- [ ] Salma 
 	- [ ] anas 
 	- [ ] rayan
-- [x] Entwicklungsgespräche nadine Richter geben
 - [ ] orange hose flicken 
-- [x] was ist das Problem mit dem Hotspot am mac?
 - [ ] Punkte 8b Mathe 
 	- [ ] nedim 4 
 	- [ ] emir ?
 	- [ ] zaynaba
 	- [ ] finn
-- [ ] Antibiotika nehmen
-	- [x] morgens 
-	- [x] Abends
-- [x] Schul-id mails checken
 - [ ] Biomüll runter %% fold %%
 - [ ] Spülmaschine ausräumen 
 - [ ] Arbeitsblätter Mathe-Wettbewerb checken 
@@ -438,7 +424,7 @@
 - [ ] Ohrentropfen ins linke ohr %% fold %%
 - [ ] Kürbis aus der Truhe holen %% fold %%
 - [ ] Ventilator in den Keller %% fold %%
-	- [ ] kein platz, muss ich hier irgendwie unterkriegen
+	- [ ] kein platz, muss ich hier irgendwie unterkriegen %% fold %%
 - [ ] Spülmaschine einräumen 
 - [ ] paprika verkochen mit kürbis aus der Truhe
 - [ ] gitarre und tastatur putzen
@@ -465,19 +451,14 @@
 - [ ] Spaziergang 
 - [ ] Küche 
 - [ ] Wäsche 
-- [ ] listen ausdrucken für 
-	- [x] p8a
-	- [x] p8c
-	- [ ] m5a
-- [ ] Äquivalenzumformung Aufschrieb
 - [ ] dicke braune Schuhe mit pattex kleben 
 
 
 - [ ] Kartesischer Taucher bauen
 	- [ ] ![[../../Pasted image 20261113141924.png]]
 
-- [ ] Korrektur 
-- [ ] Mathe Arbeit Vorlage 
+- [ ] Korrektur  %% fold %%
+- [ ] Mathe Arbeit Vorlage  %% fold %%
 	- [ ] G kurs punkte
 	- [ ] und Feld für Kurs hinschreiben 
 - [ ] Mir Elias Folien/Portfolio anschauen
