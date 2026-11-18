@@ -308,7 +308,10 @@
 
 
 - [ ] 15:45 Salma mit Mutter Frau Mira
-	- [ ] Sachen dabei haben
+	- [ ] Material
+		- [ ] Sachen dabei haben
+		- [ ] Mathewettbewerbs Sachen 
+		- [ ] 
 	- [ ] Disziplin
 	- [ ] Anwesenheit
 	- [ ] Motivation schwank extrem
