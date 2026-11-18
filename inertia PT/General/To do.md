@@ -345,7 +345,7 @@
 	- [ ] soll mir Seine lösungen zeigen -> sauber aufschreiben
 	- [ ] Hilfe im Unterricht bei Mathe
 	- [ ] Hilfe um Anas, Anuar, Imad, yahya und auch Trae
-	- [ ] ⤷ mündlich 
+	- [ ] ⤷ mündlich von 3 auf 1 noch in diesem halbjahr
 - Entwicklungsgespräche (Nachricht von Nicole)
 	- grob über die Zielscheiben schauen
 	- nicht jedes Kuchenstück
@@ -359,9 +359,7 @@
 		- <font color="#ff0000">⟹</font> <font color="#ff0000">nicht raus geben</font>
 		- ⤷ kommt in die Akte
 		- ⤷ auch die zielscheiben kommen in die Akte
-	- Bei Xenia sagen:
-		- sehr sehr sehr still
-		- mehr aus sich heraus kommen soll
+	
 	- Abdullah:
 		- unbedingt den eltern sagen, dass die zum Kinderarzt gehen und adhs testen lassen?? 
 		- ⤷ finde ich ja gaaaaaar nicht xD, eher bei Anuar... xD
@@ -423,6 +421,9 @@
 - [ ] Xenia 12:30
 	- [ ] sehr sehr sehr still
 	- [ ] mehr aus sich heraus kommen soll
+	- [ ] Bei Xenia sagen:
+		- sehr sehr sehr still
+		- mehr aus sich heraus kommen soll
 - [ ] Zähne putzen 
 - [ ] duschen 
 - [ ] laptop tastatur wischen
