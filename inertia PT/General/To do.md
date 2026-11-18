@@ -307,8 +307,8 @@
 
 - [ ] Abdullah die Arbeit einscannen und schicken 
 - [ ] saif in Tutorengruppe einladen 
-- [ ] Nicole schreiben bzgl Medikamente und das Abdi das gek
-
+- [ ] Nicole schreiben bzgl Medikamente und das Abdi das Geld bezahlt hat
+- [ ] 
 - [ ] große Spritze kaufen 
 
 - [ ] Luftballon präparieren so dass ich den Versuch machen kann
