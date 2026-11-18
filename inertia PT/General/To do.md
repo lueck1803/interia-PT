@@ -305,6 +305,38 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
+- [ ] Abdullah die Arbeit einscannen und schicken 
+- [ ] saif in Tutorengruppe einladen 
+- [ ] Nicole schreiben bzgl Medikamente und das Abdi das Geld bezahlt hat
+- [ ] 
+- [ ] große Spritze kaufen 
+
+- [ ] Luftballon präparieren so dass ich den Versuch machen kann
+- [ ] Video drehen zu den beiden versuchen 
+- [ ] Selfie Stick/stativ kaufen 
+- [ ] Bestimmungen für den Spickzettel 
+- [ ] Fotos von 10b Physik in Schulportal 
+	- [ ] links hinzufügen 
+	- [ ] Hausaufgabe notieren mit klarer Beschreibung 
+	- [ ] Hausaufgabe auch für 10a stellen 
+	- [ ] Berechnung mit Magdeburger Halbkugeln mal selbst rechnen
+	- [ ] Abschätzung machen wie viel Unterdruck mal mit dem Mund aufbaut 
+
+- [ ] fragen ob oli eigenes hmdi kabel mitgebracht hat? 
+- [ ] beim nächsten Mal mein usb c - HDMI Kabel mitbringen 
+
+- [ ] Aufgabenblatt:
+	- [ ] kraft auf Magdeburger Halbkugeln 
+		- [ ] Zeichnung 
+		- [ ] verweis auf Video 
+		- [ ] macht eine Abschätzung 
+		- [ ] F die in dem Video gemessen wurde versuchen zu berechnen 
+	- [ ] Formel herleiten mit spritze
+		- [ ] Formel soll auf spicker 
+	- [ ] Aufgabe mit kommunizierende Röhren stellen 
+	- [ ] archimedisches Prinzip herleiten auf das blatt mit
+		- [ ] Formel soll auf spicker
+
 
 - Saif anschreiben wegen Tutorenrolle
 	- [ ] Hausaufgabe: Mathewettbewerb B2025 und B2024 rechnen
