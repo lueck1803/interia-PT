@@ -311,7 +311,7 @@
 - [x] uhr von 5a mitnehmen
 
 
-- [ ] Saif in die Tutorengruppe - imad raus
+- [x] Saif in die Tutorengruppe - imad raus
 
 
 - [ ] Physikunterricht für Freitag richtig vorbereiten
