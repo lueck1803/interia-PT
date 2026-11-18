@@ -383,9 +383,6 @@
 - [ ] Physik Experiment Beutel sortieren 
 	- [ ] die Aufhängung mit dem Löffel nochmal besser machen 
 		- [ ] besserer Knoten 
-- [x] in die Stadt
-	- [x] Luftballons 
-	- [x] Strohhalme 
 - [ ] Zeug basteln 
 	- [ ] schwimmer
 	- [ ] pascalsches Prinzip 
