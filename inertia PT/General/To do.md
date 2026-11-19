@@ -312,7 +312,7 @@
 	- [x] aufhängen 
 	- [ ] zusammen legen
 - [ ] blaue Jeans in die Wäsche 
-- [ ] Wetterstation 
+- [x] Wetterstation
 - [ ] als PDF exportieren und in hier gehts um mich Ordner packen und psychologie
 	- [ ] japanische 1-Minutenregel 
 	- [ ] Laotze 
