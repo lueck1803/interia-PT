@@ -494,7 +494,7 @@ in den anderen Fällen bleibt der Artikel erhalten
 		- rayan und glordi bewerfen delsa
 		- massin, finlay und rayan sind am Fenster und rufen Beleidigungen 
 
-#### Bisher
+#### Bisher %% fold %%
 - Märchen:
 	- es wurde eins selbst geschrieben in der Gruppe
 	- Dazu ~={red}Klassenarbeit=~

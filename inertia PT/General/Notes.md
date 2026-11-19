@@ -2783,6 +2783,36 @@ Tage produktiv gewesen:
 	- oder den Ballen aufreißen 
 # schul.cloud
 [https://harkortschule-witten.de/faq-zu-der-schul-cloud/](https://harkortschule-witten.de/faq-zu-der-schul-cloud/)
+
+# <font color="#7cfc00">PowerRename</font>
+![[../../Pasted image 20261119141459.png]]
+Gängige Beispiele zum Umordnen
+
+|Ziel / Szenario|Vorher|Nachher|Suchen nach (RegEx)|Ersetzen durch|
+|---|---|---|---|---|
+|**Datum nach vorne (TT.MM.JJJJ → JJJJ-MM-TT)**|`Rechnung_19.11.2026.pdf`|`2026-11-19_Rechnung.pdf`|`^(.+)_(\d{2})\.(\d{2})\.(\d{4})$`|`$4-$3-$2_$1`|
+|**Zwei Blöcke tauschen (Trennzeichen `_`)**|`Mueller_Anna.jpg`|`Anna_Mueller.jpg`|`^([^_]+)_([^_]+)$`|`$2_$1`|
+|**Zwei Blöcke tauschen (Trennzeichen `-`)**|`Interpret - Titel.mp3`|`Titel - Interpret.mp3`|`^(.+) - (.+)$`|`$2 - $1`|
+|**Nummerierung vom Ende an den Anfang**|`Kapitel_Einleitung_01.docx`|`01_Kapitel_Einleitung.docx`|`^(.+)_(\d+)$`|`$2_$1`|
+|**Drei Teile neu sortieren**|`ProjektA_2026_Final.pdf`|`2026_ProjektA_Final.pdf`|`^([^_]+)_([^_]+)_([^_]+)$`|`$2_$1_$3`|
+
+---
+
+So funktionieren die Bausteine
+
+- **Anfang und Ende (`^` und `$`).** Das Zirkumflex `^` markiert den Anfang des Dateinamens, das Dollarzeichen `$` das Ende. So wird sichergestellt, dass der gesamte Name erfasst wird.
+
+- **Gruppen bilden (`(...)`).** Alles, was in runden Klammern steht, merkt sich PowerRename als eigene Gruppe. Die erste Klammer von links ist `$1`, die zweite `$2` und so weiter.
+
+- **Beliebige Zeichen (`.+`).** Steht für eine beliebige Zeichenkette aus mindestens einem Zeichen.
+
+- **Zeichen bis zum Trennzeichen (`[^_]+`).** Erfasst alle Zeichen, die _kein_ Unterstrich sind. Das verhindert, dass bei mehreren Unterstrichen zu viel in einer einzigen Gruppe landet.
+
+- **Ziffern erfassen (`\d{2}` oder `\d+`).** `\d` steht für eine Ziffer (0–9). Mit `{4}` werden exakt vier Ziffern erfasst (ideal für Jahreszahlen), mit `+` beliebig viele Ziffern hintereinander.
+
+- **Sonderzeichen maskieren (`\.`).** Da ein einfacher Punkt `.` in RegEx als Platzhalter für jedes beliebige Zeichen gilt, muss ein echter Punkt (wie im Datum) mit einem Backslash `\` als `\.` geschrieben werden. [[1](https://buymeacoffee.com/qoyyuum/search-replace-regex-renaming-files-powerrename), [2](https://www.youtube.com/watch?v=RFYTpgb4_JA&t=335), [3](https://www.namequick.app/de/blog/powerrename)]
+
+Wenn du mir **ein bis zwei Beispiele deiner aktuellen Dateinamen** und das **gewünschte Zielformat** nennst, schreibe ich dir direkt den passenden RegEx-Ausdruck dafür.
 # <font color="#548dd4">Pdftk</font>
 - Gerade (`A.pdf`) und ungerade Seiten (`B.pdf`) eines Dokuments zusammen fügen.
   `{bash} pdftk A=A.pdf B=B.pdf shuffle A Bend-1 output Dokument_Name.pdf`
@@ -4965,7 +4995,7 @@ Ich denke es kommt auf die Essenz an. Man muss sich ja nicht alle RNA Arten merk
 # Heilpflanzen
 ## Schafgarbe / Yarrow %% fold %%
 Um Blutungen zu stillen 
-
+ %% fold %%
 ## Weiden Rinde
 Als Schmerzmittel 
 
