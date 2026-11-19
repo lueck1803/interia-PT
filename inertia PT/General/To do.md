@@ -313,6 +313,7 @@
 	- [ ] zusammen legen
 - [ ] blaue Jeans in die Wäsche 
 - [ ] Wetterstation 
+- [ ] kette fetten 
 - [ ] Innenvierkant für Heizung kaufen
 - [ ] Mathewettbewerbsaufgaben umbenennen, so dass A bzw. B vorne steht
 - [ ] als PDF exportieren und in hier gehts um mich Ordner packen und psychologie
