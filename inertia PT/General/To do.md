@@ -306,6 +306,11 @@
 	- [ ] zusammen legen
 
 
+- [ ] 30Wäsche
+	- [ ] anstellen 
+	- [ ] schleudern 
+	- [ ] aufhängen 
+	- [ ] zusammen legen
 - [ ] blaue Jeans in die Wäsche 
 - [ ] Innenvierkant für Heizung kaufen
 - [ ] Mathewettbewerbsaufgaben umbenennen, so dass A bzw. B vorne steht
@@ -406,7 +411,7 @@
 	- [ ] Salma 
 	- [ ] anas 
 	- [ ] rayan
-- [x] orange hose flicken 
+- [x] orange hose flicken  %% fold %%
 - [ ] Punkte 8b Mathe  %% fold %%
 	- [ ] nedim 4  %% fold %%
 	- [ ] emir ?
