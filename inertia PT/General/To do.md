@@ -459,7 +459,7 @@
 - [ ] dicke braune Schuhe mit pattex kleben 
 
 
-- [ ] Kartesischer Taucher bauen
+- [ ] Kartesischer Taucher bauen %% fold %%
 	- [ ] ![[../../Pasted image 20261113141924.png]]
 
 - [ ] Korrektur  %% fold %%
