@@ -2,7 +2,7 @@
 - [x] Dropbox Link verkürzen 
 	- [ ] Physik 10 Material: https://short-url.cc/Physik10Material
 	- [ ] Physik Literatur: https://short-url.cc/PhysikLiteratur
-	- [ ] Physik 8 Material: https://short-url.cc/Physik8
+	- [ ] Physik 8 Material: https://short-url.cc/Physik8 %% fold %%
 	- [ ] Mathe 8 Material: https://short-url.cc/Mathe8
 # To-Do 
 - [ ] 
@@ -468,7 +468,7 @@ Handschriftliche Anmerkung:
 in den anderen Fällen bleibt der Artikel erhalten
  
 #### 26-05-04
-- Begrüßung
+- Begrüßung %% fold %%
 - Anwesenheit
 - Märchen habt ihr gemacht und auch dazu eins selbst geschrieben. 
 	- Ich Möchte mal einige hören, wer es mir vorträgt, bekommt ein bonus eingetragen 
