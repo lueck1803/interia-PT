@@ -309,13 +309,10 @@
 - [ ] 30° Wäsche
 	- [x] anstellen 
 	- [x] schleudern 
-	- [ ] aufhängen 
+	- [x] aufhängen 
 	- [ ] zusammen legen
 - [ ] blaue Jeans in die Wäsche 
 - [ ] Wetterstation 
-- [x] kette fetten 
-- [x] Innenvierkant für Heizung kaufen
-- [x] Mathewettbewerbsaufgaben umbenennen, so dass A bzw. B vorne steht
 - [ ] als PDF exportieren und in hier gehts um mich Ordner packen und psychologie
 	- [ ] japanische 1-Minutenregel 
 	- [ ] Laotze 
@@ -411,8 +408,8 @@
 - [ ] fehlend eintragen P
 	- [ ] dean
 	- [ ] Salma 
-	- [ ] anas 
-	- [ ] rayan
+	- [ ] anas  %% fold %%
+	- [ ] rayan %% fold %%
 - [x] orange hose flicken  %% fold %%
 - [ ] Punkte 8b Mathe  %% fold %%
 	- [ ] nedim 4  %% fold %%
