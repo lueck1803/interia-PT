@@ -308,7 +308,7 @@
 - [ ] Name auf Klingel 
 - [ ] 30° Wäsche
 	- [x] anstellen 
-	- [ ] schleudern 
+	- [x] schleudern 
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 - [ ] blaue Jeans in die Wäsche 
