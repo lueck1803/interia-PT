@@ -324,7 +324,7 @@
 	- [ ] Welche Versuche ich mache
 ![[../../Pasted image 20261118151840.png]]
 
-- [ ] Mathewettbewerb Realschule: Jahre bis 2018 runter laden und Aufgaben abtrennen
+- [x] Mathewettbewerb Realschule: Jahre bis 2018 runter laden und Aufgaben abtrennen
 - [ ] Xenia jeden Tag wegen Aufgaben Nerven 
 	- [ ] ihr Videos bzgl Wissenschaft schicken 
 	- [ ] zusatz Material 
