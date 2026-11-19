@@ -306,8 +306,7 @@
 	- [ ] zusammen legen
 
 - [ ] Innenvierkant für Heizung kaufen
-- [x] nachrichten von antonia lesen
-- [x] Äquivalenzumformung Aufschrieb
+- [ ] Mathewettbewerbsaufgaben umbenennen, so dass A bzw. B vorne steht
 
 - [ ] Physikunterricht für Freitag richtig vorbereiten
 	- [ ] Rutherford Streuversuch
@@ -403,7 +402,7 @@
 	- [ ] rayan
 - [x] orange hose flicken 
 - [ ] Punkte 8b Mathe  %% fold %%
-	- [ ] nedim 4 
+	- [ ] nedim 4  %% fold %%
 	- [ ] emir ?
 	- [ ] zaynaba
 	- [ ] finn
@@ -467,7 +466,7 @@
 - [ ] Linas Portfolio anschauen
 - [ ] Infos von heute in Vertretungslehrer 
 - [ ] tafel von heute abtippen. 10a Hausaufgabe: kraft auf fass berechnen -> in kg
-- [ ] HNO Termin 
+- [ ] HNO Termin  %% fold %%
 - [ ] dafür nächste Woche Doppelstunde (Raum?) %% fold %%
 - [ ] mo 16.11 GK - ich bin Protokollant  %% fold %%
 	- [ ] letztes Protokoll anschauen  %% fold %%
