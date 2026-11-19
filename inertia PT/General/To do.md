@@ -478,7 +478,7 @@
 - [ ] ma 8a Arbeit überall mündliche Note  %% fold %%
 	- [ ] Melanie+ mia g kurs Bewertung  %% fold %%
  %% fold %%
-- [ ] Physikfachkonferenz
+- [ ] Physikfachkonferenz %% fold %%
 	- [ ] Anna Vorschlag: Tag ausplanen, um die Physiksammlung aufzuräumen %% fold %%
 		- [ ] Unterrichtsfrei dafür beantragen
 	- [ ] eine Klassenarbeit kann im Jahr als ersatzleistung gemacht werden
