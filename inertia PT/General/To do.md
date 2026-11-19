@@ -306,8 +306,8 @@
 	- [ ] zusammen legen
 
 
-- [ ] 30Wäsche
-	- [ ] anstellen 
+- [ ] 30° Wäsche
+	- [x] anstellen 
 	- [ ] schleudern 
 	- [ ] aufhängen 
 	- [ ] zusammen legen
