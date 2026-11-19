@@ -488,7 +488,7 @@ in den anderen Fällen bleibt der Artikel erhalten
 - Mitarbeit:
 	- noble, sara, daisy, ömer, lisa marie gut
 	- hasenat und sherin haben hefte draußen gehabt, haben aber nichts gemacht 
-	- rest Katastrophe:
+	- rest Katastrophe: %% fold %%
 		- finlay: bewirft mich und andere 
 		- anas
 		- rayan und glordi bewerfen delsa
