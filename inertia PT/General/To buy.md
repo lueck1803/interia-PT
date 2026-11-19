@@ -26,7 +26,7 @@
 - [ ] backpapier 
 - [ ] Spülmaschinenpulver 
 - [ ] Kaugummi 
-- [ ] Nussnougat 
+- [x] Nussnougat 
 - [x] Hummus
 - [x] Toast 
 - [x] Nudelsoße
