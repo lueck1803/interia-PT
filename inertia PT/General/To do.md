@@ -217,7 +217,7 @@
 - <u>Gedanke dahinter:</u> die erste Antwort ist selten die ganze Geschichte dahinter
 - <u>Handy scrollen:</u>
 	- Warum scrolle ich abends stundenlang auf meinem Handy?
-		- <font color="#b7dde8">1. Antwort: </font>weil ich müde bin 😴
+		- <font color="#b7dde8">1. Antwort: </font>weil ich müde bin 😴 %% fold %%
 	- Warum bin ich müde?
 		- <font color="#92cddc">2. Antwort: </font>weil ich schlecht geschlafen habe?
 	- Warum habe ich schlecht geschlafen?
