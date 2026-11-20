@@ -306,8 +306,8 @@
 	- [ ] zusammen legen
 
 - [ ] Spülmaschine ausräumen
-- [ ] Ceranfeld putzen
-- [ ] Nudeln kochen
+- [x] Ceranfeld putzen
+- [x] Nudeln kochen
 - [ ] brokkoli
 - [ ] Paprika
 - [ ] Essen
