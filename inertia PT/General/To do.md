@@ -316,6 +316,8 @@
 - [ ] Bart
 - [ ] <font color="#e36c09">Mein Unterrichteinträge</font>
 - [ ] To-do sortieren
+- [ ] gelben Sack runter 
+- [ ] AOK 
 
 - [ ] Briefkasten 
 - [ ] warum geht der wechsel zwischen den gleichen programmen in mac nicht
