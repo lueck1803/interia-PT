@@ -306,7 +306,7 @@
 	- [ ] zusammen legen
 
 - [ ] Aufschrieb Ladungstrennung 
-- [ ] 
+- [ ] Hausaufgabe für Physik 
 - [ ] Name auf Klingel 
 - [ ] 30° Wäsche
 	- [x] anstellen 
