@@ -305,6 +305,9 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
+
+- [ ] wann m5a Arbeit?
+	- [ ] wann sind die
 - [ ] Bestimmungen Mathe-Wettbewerb aufschreiben  - wichtigste infos und in die Gruppen schicken 
 	- [ ] wie lange dauert der Mathe-Wettbewerb 
 	- [ ] was ist erlaubt?
@@ -434,7 +437,7 @@
 - [x] orange hose flicken  %% fold %%
 - [ ] Punkte 8b Mathe  %% fold %%
 	- [ ] nedim 4  %% fold %%
-	- [ ] emir ?
+	- [ ] emir ? %% fold %%
 	- [ ] zaynaba
 	- [ ] finn
 - [ ] Biomüll runter %% fold %%
