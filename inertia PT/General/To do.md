@@ -305,11 +305,13 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
-
-- [ ] wie lange dauert der Mathe-Wettbewerb 
-- [ ] was ist erlaubt?
-- [ ] gibt es Papier?
-- [ ] benötigte Materialien 
+- [ ] Bestimmungen Mathe-Wettbewerb aufschreiben  - wichtigste infos und in die Gruppen schicken 
+	- [ ] wie lange dauert der Mathe-Wettbewerb 
+	- [ ] was ist erlaubt?
+	- [ ] gibt es Papier?
+	- [ ] benötigte Materialien 
+	- [ ] wo wird geschrieben?
+	- [ ] wer betreut 
 - [ ] Aufschrieb Ladungstrennung 
 	- [ ] Versuchsbeobachtungen
 		- [ ] Schlussfolgerungen 
