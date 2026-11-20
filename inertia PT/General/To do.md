@@ -307,7 +307,8 @@
 
 
 - [ ] wann m5a Arbeit?
-	- [ ] wann sind die
+	- [ ] wann sind die anderen Arbeiten?
+- [ ] Physikarbeit 8er konzipieren 
 - [ ] Bestimmungen Mathe-Wettbewerb aufschreiben  - wichtigste infos und in die Gruppen schicken 
 	- [ ] wie lange dauert der Mathe-Wettbewerb 
 	- [ ] was ist erlaubt?
