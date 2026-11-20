@@ -2741,7 +2741,13 @@ Lukas Walter
 
 ## 5a
 
-### Anrufe 
+### 20.11.26
+- Espen
+- Elias
+- Tamilo
+- Quentin - Radiergummi
+- dastan
+- muhammad
 ### ✅Alexia 
 - in Grundschule Hilfe in Mathe - 1h Förderunterricht
 - Alexia umsetzen
