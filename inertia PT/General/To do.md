@@ -306,8 +306,14 @@
 	- [ ] zusammen legen
 
 - [ ] Aufschrieb Ladungstrennung 
-	- [ ] versuc
+	- [ ] Versuchsbeobachtungen
+		- [ ] Schlussfolgerungen 
+	- [ ] Atommodelle
 	- [ ] Rutherford streuung
+		- [ ] Schlussfolgerungen 
+	- [ ] was wir heute über Materie wissen 
+	- [ ] Leiter und nicht Leiter 
+	- [ ] Schulvideos zur Ladungstrennung anschauen 
 - [ ] Hausaufgabe für Physik 
 - [ ] Name auf Klingel 
 - [ ] 30° Wäsche
