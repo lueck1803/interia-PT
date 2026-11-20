@@ -320,7 +320,7 @@
 - [ ] Briefkasten 
 - [ ] warum geht der wechsel zwischen den gleichen programmen in mac nicht
 - [x] lesen was auf ebay Nachricht steht
-	- [ ] bewer
+	- [ ] Bewertungen zu finden habe ich aufgegeben 
 
 
 
