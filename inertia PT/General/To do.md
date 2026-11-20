@@ -315,6 +315,7 @@
 	- [ ] Leiter und nicht Leiter 
 	- [ ] Schulvideos zur Ladungstrennung anschauen 
 - [ ] Hausaufgabe für Physik 
+- [ ] richtigen Knoten um Löffel machen 
 - [ ] Name auf Klingel 
 - [ ] 30° Wäsche
 	- [x] anstellen 
