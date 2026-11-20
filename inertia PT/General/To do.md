@@ -323,7 +323,8 @@
 - [ ] Briefkasten 
 - [ ] warum geht der wechsel zwischen den gleichen programmen in mac nicht
 - [x] lesen was auf ebay Nachricht steht
-	- [ ] Bewertungen zu finden habe ich aufgegeben 
+	- [x] Bewertungen zu finden habe ich aufgegeben 
+	- [ ] Zeit ist auch Rum 
 
 
 
