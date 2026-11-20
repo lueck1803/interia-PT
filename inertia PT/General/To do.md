@@ -305,6 +305,10 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
+
+- [ ] wie lange dauert der Mathe-Wettbewerb 
+- [ ] was ist erlaubt?
+- [ ] gibt es
 - [ ] Aufschrieb Ladungstrennung 
 	- [ ] Versuchsbeobachtungen
 		- [ ] Schlussfolgerungen 
