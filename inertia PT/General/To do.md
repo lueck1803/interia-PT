@@ -305,9 +305,24 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
+- [ ] Spülmaschine ausräumen
+- [ ] Ceranfeld putzen
+- [ ] Nudeln kochen
+- [ ] brokkoli
+- [ ] Paprika
+- [ ] Essen
+- [ ] Wäsche weg räumen
+- [ ] Essen kochen
+- [ ] Bart
+- [ ] To-do sortieren
+
 - [ ] Briefkasten 
 - [ ] warum geht der wechsel zwischen den gleichen programmen in mac nicht
 - [ ] lesen was auf ebay Nachricht steht
+
+
+
+
 
 - [ ] wann m5a Arbeit?
 	- [ ] wann sind die anderen Arbeiten?
@@ -442,8 +457,8 @@
 - [ ] Punkte 8b Mathe  %% fold %%
 	- [ ] nedim 4  %% fold %%
 	- [ ] emir ? %% fold %%
-	- [ ] zaynaba
-	- [ ] finn
+	- [ ] zaynaba %% fold %%
+	- [ ] finn %% fold %%
 - [ ] Biomüll runter %% fold %%
 - [ ] Spülmaschine ausräumen 
 - [ ] Arbeitsblätter Mathe-Wettbewerb checken 
