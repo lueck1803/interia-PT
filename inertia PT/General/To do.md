@@ -305,6 +305,7 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
+- [ ] 
 - [ ] Name auf Klingel 
 - [ ] 30° Wäsche
 	- [x] anstellen 
