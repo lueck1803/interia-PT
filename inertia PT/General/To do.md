@@ -306,6 +306,8 @@
 	- [ ] zusammen legen
 
 - [ ] Aufschrieb Ladungstrennung 
+	- [ ] versuc
+	- [ ] Rutherford streuung
 - [ ] Hausaufgabe für Physik 
 - [ ] Name auf Klingel 
 - [ ] 30° Wäsche
