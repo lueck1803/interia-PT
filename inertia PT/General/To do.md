@@ -308,7 +308,8 @@
 
 - [ ] wie lange dauert der Mathe-Wettbewerb 
 - [ ] was ist erlaubt?
-- [ ] gibt es
+- [ ] gibt es Papier?
+- [ ] benötigte Materialien 
 - [ ] Aufschrieb Ladungstrennung 
 	- [ ] Versuchsbeobachtungen
 		- [ ] Schlussfolgerungen 
