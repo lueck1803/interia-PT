@@ -305,6 +305,7 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
+- [ ] Briefkasten 
 - [ ] lesen was auf ebay Nachricht steht
 - [ ] Vorträge 
 	- [ ] samiha di 1.12. 11:30-12:15
