@@ -104,6 +104,97 @@ Kind regards
 Lukas Walter 
 # Nachrichten an Leute
 
+
+## 2026-11-20 Nadine
+Nicht nur...
+
+Das würde natürlich ganz oben stehen in der Prioritätenliste, aber davon ist er ja ganz weit entfernt.
+
+Es ist der Rest, den er geschrieben hat.
+
+"Unser (beider) Leben ruiniert habe." 
+Die Gedankenwelt meine ich... 
+
+Da weiß ich dann gar nicht wo ich anfangen soll...
+
+Ich müsste da so viel Ordnen... ich will auch gar nicht wissen, was da noch alles dann kommt und in ihm statt findet. Ich kann es mir leider sehr gut ausmalen.
+
+Es hilft ja eh nicht, wenn ich da jetzt etwas sortiere und rationalisiere.
+Das ist ein emotionales Problem, durch das er durch muss. 
+
+Er muss seine Gedankenwelt ordnen. Das Bild was er da jetzt von sich selbst hat und offenbar von dir (euch) abhängig gemacht hat.
+
+ich kenne diese Gedanken.
+
+ich muss schon von genug Leuten die Gedanken sortieren....😵‍💫
+
+Ist mir gestern mit der Kollegin/Nachbarin aufgefallen.
+
+Mache ich ständig bei den Schülern.
+
+Meiner Mutter...
+
+----
+
+Aber auch:
+"ich wollte nur dein Bild von mir gerade rücken" (welches bild auch immer er glaubt, was du jetzt von ihm hast. Es ist ja eher ein Bild, was er von sich hat und dann auf dich projiziert. Ganz abgesehen, dass du nichts mehr gerade gerückt haben möchtest, da du einfach deine Ruhe willst)
+
+"ich bete für dich" (was betet er da für dich...? ich will es glaube ich gar nicht wissen)
+
+
+----
+---
+Ich möchte meine eigenen Gedanken sortiert halten.
+
+Mich zieht das zwar gar nicht mehr runter und ich lasse mich auch nicht negativ in diese Gedankenwelten hineinziehen.
+
+Ich werde dabei sogar eher ruhiger, da ich ja für den anderen ruhig sein muss.
+
+ich bin zur Zeit so rational und wäre da dann eventuell einfach zu kalt und distanziert.
+
+---
+---
+Von der Akzeptanz der Situation ist er noch sehr sehr weit entfernt.
+
+Im Moment ist das sehr abstrakt gesagt die Selbstmitleidsphase.
+Er gibt sich die Schuld und wertet sich vor dir ab.
+
+Versinkt sehr wahrscheinlich in der Schuld. Hat sogar die Annahme, dass er bei dir etwas nachhaltig zerstört hat, sogar das Leben. 
+
+Macht etwas, überschreitet eine Grenze, kriecht dann direkt, macht es dann aber doch wieder...
+
+---
+---
+Da ist dann so viel Durcheinander, was ich nicht mal erahnen kann.
+
+Er schafft sich da nun erstmal rein.
+
+Ich kenn diese Gedanken und das Verhalten...
+
+Ja er bräuchte da ne "seelsorge". Ich weiß nur wirklich nicht, ob ihm da Religion weiterhilft.
+
+
+Ich sehe überhaupt nicht, dass ihm das hier weiterbringen könnte. 
+
+Ich sehe eher in der Nachricht Elemente, die zu dem nicht Wahr haben wollen beitragen.
+
+---
+---
+und ich glaube nicht, dass er mir sagen kann / wird, weshalb er diese Gedanken hat.
+
+Denn vor mir scheint er ja noch diese Parallelrealität bewahren zu wollen...
+
+Die müsste ich ja erstmal durchstoßen.
+
+Er hat immer noch kein Wort darüber verloren. 
+
+Daher 🙈
+
+---
+---
+
+
+
 ## 2026-11-18 Xenia (BAS)
 Ich hoffe auch, dass es nicht zu persönlich war, dass deine Mutter über deine Depressionen erzählt hat.
 ## 2026-11-15 nadine
@@ -493,15 +584,15 @@ Es ist für mich ein Stoppsignal dass ich mehr Frage und schreibe, aber ein Zeic
 Tut mir leid so viel geschrieben, diskutieren und gefragt zu haben. 
  %% fold %%
 Ich denke ich kann die ganze Flut an sozialen Interaktionen in der Woche nicht verarbeiten und ich komme mit der vielen Aufmerksamkeit nicht so ganz klar.  %% fold %%
-
+ %% fold %%
 Mir fällt es schwer davon abzuschalten, ich bin dann wie in einem Rausch und handle nur nach Gefühl, Impuls und dem ersten Gedanken der mir kommt.  %% fold %%
  %% fold %%
 Ich denke nicht über die Auswirkungen und den Eindruck nach den dieses kurzfristige Handeln im Moment hat, ich tue einfach.  %% fold %%
  %% fold %%
 Danach ärgere ich mich darüber, dass ich so viel und was ich geschrieben habe.  %% fold %%
  %% fold %%
-Es war für mich eine so lange Zeit mit null bis wenig sozialen Interaktionen, da ich über lange Zeit immer mehr das Gefühl hatte, dabei ständig etwas falsch zu machen/darin zu scheitern und eine Katastrophale Auswirkung auf Menschen zu haben. 
-
+Es war für mich eine so lange Zeit mit null bis wenig sozialen Interaktionen, da ich über lange Zeit immer mehr das Gefühl hatte, dabei ständig etwas falsch zu machen/darin zu scheitern und eine Katastrophale Auswirkung auf Menschen zu haben.  %% fold %%
+ %% fold %%
 Die Schule ist bei mir eher ein sich von einer sozialen Interaktion zur nächsten treiben und hingelenkt werden lassen, als ein von mir aktiv gesteuerter Prozess.  %% fold %%
  %% fold %%
 Wenn so liebe Leute wie ihr dann von mir etwas wissen oder mit mir in Interaktion treten wollen, dann freut mich das natürlich und ich versuche dem bestmöglich nachzukommen.  %% fold %%
@@ -525,7 +616,7 @@ Aber intro und solo.
 
 Wobei ich beim harten Teil vom solo unglaublicherweise schon bei 50% war. 
 
-Für den Auftritt haben wir es dann aber verworfen. 
+Für den Auftritt haben wir es dann aber verworfen.  %% fold %%
 
 Zumal da eh erstmal kein wir war... 
 

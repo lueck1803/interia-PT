@@ -305,6 +305,52 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
+- [ ] Spülmaschine ausräumen
+- [x] Ceranfeld putzen
+- [x] Nudeln kochen
+- [ ] brokkoli
+- [ ] Paprika
+- [ ] Essen
+- [ ] Wäsche weg räumen
+- [ ] Essen kochen
+- [ ] Bart
+- [ ] <font color="#e36c09">Mein Unterrichteinträge</font>
+- [ ] To-do sortieren
+- [ ] gelben Sack runter 
+- [ ] AOK 
+- [ ] Protokoll 
+
+- [ ] Briefkasten 
+- [ ] warum geht der wechsel zwischen den gleichen programmen in mac nicht
+- [x] lesen was auf ebay Nachricht steht
+	- [ ] Bewertungen zu finden habe ich aufgegeben 
+
+
+
+
+
+- [ ] wann m5a Arbeit?
+	- [ ] wann sind die anderen Arbeiten?
+- [ ] Physikarbeit 8er konzipieren 
+- [ ] Bestimmungen Mathe-Wettbewerb aufschreiben  - wichtigste infos und in die Gruppen schicken 
+	- [ ] wie lange dauert der Mathe-Wettbewerb 
+	- [ ] was ist erlaubt?
+	- [ ] gibt es Papier?
+	- [ ] benötigte Materialien 
+	- [ ] wo wird geschrieben?
+	- [ ] wer betreut 
+- [ ] Aufschrieb Ladungstrennung 
+	- [ ] Versuchsbeobachtungen
+		- [ ] Schlussfolgerungen 
+	- [ ] Atommodelle
+	- [ ] Rutherford streuung
+		- [ ] Schlussfolgerungen 
+	- [ ] was wir heute über Materie wissen 
+	- [ ] Leiter und nicht Leiter 
+	- [ ] Schulvideos zur Ladungstrennung anschauen 
+- [ ] Hausaufgabe für Physik 
+- [ ] shortened links checken
+- [ ] richtigen Knoten um Löffel machen 
 - [ ] Name auf Klingel 
 - [ ] 30° Wäsche
 	- [x] anstellen 
@@ -356,7 +402,9 @@
 		- [ ] Zeichnung 
 		- [ ] verweis auf Video 
 		- [ ] macht eine Abschätzung 
-		- [ ] F die in dem Video gemessen wurde versuchen zu berechnen 
+		- [ ] F die in dem Video gemessen wurde versuchen zu berechnen
+		- [ ] Hinweis nur die parallel zur Zugkraft wirkende kraft darf berücksichtigt werden 
+		- [ ] deshalb ist es effektiv nur die Querschnittsfläche 
 	- [ ] Formel herleiten mit spritze
 		- [ ] Formel soll auf spicker 
 	- [ ] Aufgabe mit kommunizierende Röhren stellen 
@@ -407,15 +455,15 @@
 - [ ] dean and berkay antworten 
 - [ ] fehlend eintragen P
 	- [ ] dean
-	- [ ] Salma 
+	- [ ] Salma  %% fold %%
 	- [ ] anas  %% fold %%
 	- [ ] rayan %% fold %%
 - [x] orange hose flicken  %% fold %%
 - [ ] Punkte 8b Mathe  %% fold %%
 	- [ ] nedim 4  %% fold %%
-	- [ ] emir ?
-	- [ ] zaynaba
-	- [ ] finn
+	- [ ] emir ? %% fold %%
+	- [ ] zaynaba %% fold %%
+	- [ ] finn %% fold %%
 - [ ] Biomüll runter %% fold %%
 - [ ] Spülmaschine ausräumen 
 - [ ] Arbeitsblätter Mathe-Wettbewerb checken 

@@ -2740,6 +2740,14 @@ Freundliche Grüße
 Lukas Walter
 
 ## 5a
+
+### 20.11.26
+- Espen
+- Elias
+- Tamilo
+- Quentin - Radiergummi
+- dastan
+- muhammad
 ### ✅Alexia 
 - in Grundschule Hilfe in Mathe - 1h Förderunterricht
 - Alexia umsetzen
@@ -2779,6 +2787,11 @@ Lukas Walter
 - 
 # Abschluss 10
 
+- Vorträge 
+	- samiha di 1.12. 11:30-12:15
+	- elias di 1.12 12:15-13:00
+	- maya mi 2.12 9:45-10:30
+	- lina mi 2.12 10:30-11:15
 ## Karteikartennutzung Tipps
 Da Maya mich gefragt hat, ob ihr Karteikarten bei der Präsentation verwenden **dürft**.  
 Ich würde sagen ihr **müsst.**  
