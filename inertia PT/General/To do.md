@@ -305,6 +305,7 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
+- [ ] Aufschrieb Ladungstrennung 
 - [ ] 
 - [ ] Name auf Klingel 
 - [ ] 30° Wäsche
