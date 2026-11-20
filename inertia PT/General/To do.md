@@ -319,7 +319,8 @@
 
 - [ ] Briefkasten 
 - [ ] warum geht der wechsel zwischen den gleichen programmen in mac nicht
-- [ ] lesen was auf ebay Nachricht steht
+- [x] lesen was auf ebay Nachricht steht
+	- [ ] bewer
 
 
 
