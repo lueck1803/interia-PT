@@ -306,12 +306,9 @@
 	- [ ] zusammen legen
 
 - [ ] Briefkasten 
+- [ ] warum geht der wechsel zwischen den gleichen programmen in mac nicht
 - [ ] lesen was auf ebay Nachricht steht
-- [ ] Vorträge 
-	- [ ] samiha di 1.12. 11:30-12:15
-	- [ ] elias di 1.12 12:15-13:00
-	- [ ] maya 2.12 mi 9:45-10:30
-	- [ ] lina 2.12 mi 10:30-11:15
+
 - [ ] wann m5a Arbeit?
 	- [ ] wann sind die anderen Arbeiten?
 - [ ] Physikarbeit 8er konzipieren 
@@ -438,7 +435,7 @@
 - [ ] dean and berkay antworten 
 - [ ] fehlend eintragen P
 	- [ ] dean
-	- [ ] Salma 
+	- [ ] Salma  %% fold %%
 	- [ ] anas  %% fold %%
 	- [ ] rayan %% fold %%
 - [x] orange hose flicken  %% fold %%
