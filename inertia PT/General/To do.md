@@ -314,6 +314,7 @@
 - [ ] Wäsche weg räumen
 - [ ] Essen kochen
 - [ ] Bart
+- [ ] <font color="#e36c09">Mein Unterrichteinträge</font>
 - [ ] To-do sortieren
 
 - [ ] Briefkasten 
