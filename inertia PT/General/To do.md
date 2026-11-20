@@ -306,6 +306,9 @@
 	- [ ] zusammen legen
 
 - [ ] Vorträge 
+	- [ ] maya 2.12 mi 9:45-10:30
+	- [ ] lina 2.12 10:30-11:15
+	- [ ] 
 - [ ] wann m5a Arbeit?
 	- [ ] wann sind die anderen Arbeiten?
 - [ ] Physikarbeit 8er konzipieren 
