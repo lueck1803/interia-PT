@@ -305,12 +305,12 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
-- [ ] Spülmaschine ausräumen
+- [x] Spülmaschine ausräumen
 - [x] Ceranfeld putzen
 - [x] Nudeln kochen
 - [ ] brokkoli
 - [ ] Paprika
-- [ ] Essen
+- [x] Essen
 - [ ] Wäsche weg räumen
 - [ ] Essen kochen
 - [ ] Bart
