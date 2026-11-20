@@ -356,7 +356,9 @@
 		- [ ] Zeichnung 
 		- [ ] verweis auf Video 
 		- [ ] macht eine Abschätzung 
-		- [ ] F die in dem Video gemessen wurde versuchen zu berechnen 
+		- [ ] F die in dem Video gemessen wurde versuchen zu berechnen
+		- [ ] Hinweis nur die parallel zur Zugkraft wirkende kraft darf berücksichtigt werden 
+		- [ ] deshalb ist es effektiv nur die Querschnittsfläche 
 	- [ ] Formel herleiten mit spritze
 		- [ ] Formel soll auf spicker 
 	- [ ] Aufgabe mit kommunizierende Röhren stellen 
