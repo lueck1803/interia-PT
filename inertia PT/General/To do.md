@@ -305,13 +305,18 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
+
+- [ ] Duschen
+- [ ] Küche aufräumen 
+- [ ] 
+- [ ] Staub saugen 
 - [x] Spülmaschine ausräumen
 - [x] Ceranfeld putzen
 - [x] Nudeln kochen
 - [ ] brokkoli
 - [ ] Paprika
 - [x] Essen
-- [ ] Wäsche weg räumen
+- [x] Wäsche weg räumen
 - [ ] Essen kochen
 - [ ] Bart
 - [ ] <font color="#e36c09">Mein Unterrichteinträge</font>
