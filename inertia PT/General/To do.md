@@ -430,7 +430,7 @@
 		- [ ] Formel soll auf spicker
 	- [ ] aufgabenblatt mit
 		- [ ] https://youtube.com/shorts/HZjRoKgDnow?is=sqo3Yfb1ULT8O9VP
-
+- [ ] Bernoulli effect experiment basteln 
 
 - Saif anschreiben wegen Tutorenrolle
 	- [ ] Hausaufgabe: Mathewettbewerb B2025 und B2024 rechnen
