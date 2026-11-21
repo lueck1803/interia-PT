@@ -25,7 +25,7 @@
 - Einkaufswagen 
 - [ ] backpapier 
 - [ ] Spülmaschinenpulver 
-- [ ] Kaugummi 
+- [x] Kaugummi 
 - [ ] Toilettenpapier 
 - [ ] Röstzwiebeln 
 - [ ] saft
