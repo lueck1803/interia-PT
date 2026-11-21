@@ -433,7 +433,7 @@
 - [ ] Bernoulli effect experiment basteln 
 	- [ ] Zeichnung machen
 	- https://youtu.be/5LKDAW7Xx4Y?is=z25yxQvF7xa6ewT_
-	- [ ] experiment ve
+	- [ ] experiment venturi effekt
 
 - Saif anschreiben wegen Tutorenrolle
 	- [ ] Hausaufgabe: Mathewettbewerb B2025 und B2024 rechnen
