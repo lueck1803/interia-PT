@@ -26,6 +26,7 @@
 - [ ] backpapier 
 - [ ] Spülmaschinenpulver 
 - [ ] Kaugummi 
+- [ ] Toilettenpapier 
 - [x] Nussnougat 
 - [x] Hummus
 - [x] Toast 
