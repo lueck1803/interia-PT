@@ -328,6 +328,7 @@
 - [x] Lappen in der Küche tauschen 
 - [x] Tisch wischen 
 - [ ] Bettwäsche wechseln 
+	- [ ] Spannbetttuch 
 - [ ] Paprika
 - [ ] Essen kochen
 - [x] Bart
