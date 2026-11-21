@@ -310,6 +310,7 @@
 - [ ] Nudeln in den Kühlschrank 
 - [ ] Küche aufräumen 
 - [ ] Sofa saugen 
+- [ ] decke auf Sofa 
 - [ ] Staub saugen 
 - [ ] Spaziergang 
 - [ ] carnivorenwasser 
