@@ -307,19 +307,16 @@
 
 
 - [ ] Duschen
+- [ ] nudel
 - [ ] Küche aufräumen 
 - [ ] Sofa saugen 
 - [ ] Staub saugen 
 - [ ] Spaziergang 
 - [ ] carnivorenwasser 
 - [ ] carnivoren gießen 
-- [x] Spülmaschine ausräumen
-- [x] Ceranfeld putzen
-- [x] Nudeln kochen
+- [ ] Tisch wischen 
 - [ ] brokkoli
 - [ ] Paprika
-- [x] Essen
-- [x] Wäsche weg räumen
 - [ ] Essen kochen
 - [ ] Bart
 - [ ] <font color="#e36c09">Mein Unterrichteinträge</font>
