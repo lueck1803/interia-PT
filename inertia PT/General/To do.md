@@ -306,6 +306,7 @@
 	- [ ] zusammen legen
 
 
+- [ ] Kartons mit Handys beschriften und in 8b und Physikraum stellen 
 - [ ] Duschen + rasieren 
 - [x] Nudeln in den Kühlschrank 
 - [ ] Küche aufräumen 
