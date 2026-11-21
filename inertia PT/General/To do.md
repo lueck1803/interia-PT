@@ -319,6 +319,7 @@
 - [ ] Staub saugen 
 - [ ] Spaziergang 
 - [ ] kleine Handtücher ins Bad 
+- [ ] Lappen in der Küche tauschen 
 - [x] carnivorenwasser 
 - [x] carnivoren gießen 
 - [ ] Tisch wischen 
