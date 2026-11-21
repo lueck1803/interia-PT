@@ -23,12 +23,12 @@
 # Aldi
 ## Jetzt
 - Einkaufswagen 
-- [ ] backpapier 
-- [ ] Spülmaschinenpulver 
+- [x] backpapier 
+- [x] Spülmaschinenpulver 
 - [x] Kaugummi 
-- [ ] Toilettenpapier 
+- [x] Toilettenpapier 
 - [ ] Röstzwiebeln 
-- [ ] saft
+- [x] saft
 - [ ] Hausschuhe
 - [ ] Nachtlicht
 - [ ] Heizkissen
