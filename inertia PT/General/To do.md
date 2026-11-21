@@ -307,7 +307,7 @@
 
 
 - [ ] Duschen
-- [ ] Nudeln in den Kühlschrank 
+- [x] Nudeln in den Kühlschrank 
 - [ ] Küche aufräumen 
 - [ ] Sofa saugen 
 - [ ] decke auf Sofa 
