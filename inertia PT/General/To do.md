@@ -318,6 +318,7 @@
 - [x] carnivoren gießen 
 - [ ] Tisch wischen 
 - [x] brokkoli
+- [ ] Bettwäsche wechseln 
 - [ ] Paprika
 - [ ] Essen kochen
 - [ ] Bart
