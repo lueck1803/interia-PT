@@ -318,6 +318,7 @@
 - [ ] decke auf Sofa 
 - [ ] Staub saugen 
 - [ ] Spaziergang 
+- [ ] kleine Handtücher ins Bad 
 - [x] carnivorenwasser 
 - [x] carnivoren gießen 
 - [ ] Tisch wischen 
