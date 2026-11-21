@@ -308,8 +308,9 @@
 
 - [ ] Duschen
 - [ ] Küche aufräumen 
-- [ ] 
+- [ ] Sofa saugen 
 - [ ] Staub saugen 
+- [ ] Spaziergang 
 - [x] Spülmaschine ausräumen
 - [x] Ceranfeld putzen
 - [x] Nudeln kochen
