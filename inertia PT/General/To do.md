@@ -504,7 +504,7 @@
 - [ ] Spülmaschine einräumen 
 - [ ] paprika verkochen mit kürbis aus der Truhe
 - [ ] gitarre und tastatur putzen
-- [ ] Elektroskop richten
+- [ ] Elektroskop richten %% fold %%
 	- [ ] mit Batterie laden 
 - [ ] Mathe-Wettbewerb  anschauen 
 	- [ ] Kombinatorik anschauen 
