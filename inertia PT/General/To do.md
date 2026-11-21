@@ -306,7 +306,7 @@
 	- [ ] zusammen legen
 
 
-- [ ] Duschen
+- [ ] Duschen + rasieren 
 - [x] Nudeln in den Kühlschrank 
 - [ ] Küche aufräumen 
 - [ ] Sofa saugen 
@@ -320,10 +320,7 @@
 - [ ] Spaziergang 
 - [ ] kleine Handtücher ins Bad 
 - [ ] Lappen in der Küche tauschen 
-- [x] carnivorenwasser 
-- [x] carnivoren gießen 
 - [ ] Tisch wischen 
-- [x] brokkoli
 - [ ] Bettwäsche wechseln 
 - [ ] Paprika
 - [ ] Essen kochen
