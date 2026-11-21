@@ -313,7 +313,7 @@
 - [ ] sofa schäumen 
 - [ ] Decken waschen 
 - [ ] Fußabstreifer saugen 
-- [ ] gießen 
+- [x] gießen 
 - [ ] kleines Geodreieck suchen 
 - [ ] decke auf Sofa 
 - [ ] Staub saugen 
