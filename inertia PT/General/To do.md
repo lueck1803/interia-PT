@@ -310,6 +310,7 @@
 - [x] Nudeln in den Kühlschrank 
 - [ ] Küche aufräumen 
 - [ ] Sofa saugen 
+- [ ] sofa schäumen 
 - [ ] decke auf Sofa 
 - [ ] Staub saugen 
 - [ ] Spaziergang 
