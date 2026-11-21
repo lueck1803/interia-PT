@@ -29,6 +29,9 @@
 - [ ] Toilettenpapier 
 - [ ] Röstzwiebeln 
 - [ ] saft
+- [ ] Hausschuhe
+- [ ] Nachtlicht
+- [ ] Heizkissen
 - [x] Nussnougat 
 - [x] Hummus
 - [x] Toast 
