@@ -309,6 +309,7 @@
 - [ ] Kartons mit Handys beschriften und in 8b und Physikraum stellen 
 - [ ] Duschen + rasieren 
 - [ ] Dusche schrubben 
+- [ ] sofa Kissenbezug 
 - [x] Nudeln in den Kühlschrank 
 - [ ] Küche aufräumen 
 - [ ] Sofa saugen 
