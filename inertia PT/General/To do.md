@@ -424,7 +424,8 @@
 	- [ ] Formel herleiten mit spritze
 		- [ ] Formel soll auf spicker 
 	- [ ] Aufgabe mit kommunizierende Röhren stellen 
-	- [ ] reicht der Druck aus von, da
+	- [ ] reicht der Druck von Schlittschuhen aus um eis zu verflüssigen?
+		- [ ] Ausschnitt vom pt Diagramm von Wasser 
 	- [ ] archimedisches Prinzip herleiten auf das blatt mit
 		- [ ] Formel soll auf spicker
 	- [ ] aufgabenblatt mit
