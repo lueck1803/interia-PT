@@ -322,11 +322,11 @@
 - [ ] kleines Geodreieck suchen 
 - [ ] mini Gewächshäuser putzen 
 - [x] decke auf Sofa 
-- [ ] Staub saugen 
+- [x] Staub saugen 
 - [ ] Spaziergang 
-- [ ] kleine Handtücher ins Bad 
-- [ ] Lappen in der Küche tauschen 
-- [ ] Tisch wischen 
+- [x] kleine Handtücher ins Bad 
+- [x] Lappen in der Küche tauschen 
+- [x] Tisch wischen 
 - [ ] Bettwäsche wechseln 
 - [ ] Paprika
 - [ ] Essen kochen
