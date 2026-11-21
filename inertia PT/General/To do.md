@@ -311,6 +311,8 @@
 - [ ] Sofa saugen 
 - [ ] Staub saugen 
 - [ ] Spaziergang 
+- [ ] carnivorenwasser 
+- [ ] carnivoren gießen 
 - [x] Spülmaschine ausräumen
 - [x] Ceranfeld putzen
 - [x] Nudeln kochen
