@@ -427,7 +427,7 @@
 	- [ ] archimedisches Prinzip herleiten auf das blatt mit
 		- [ ] Formel soll auf spicker
 	- [ ] aufgabenblatt mit
-		- [ ] 
+		- [ ] https://youtube.com/shorts/HZjRoKgDnow?is=sqo3Yfb1ULT8O9VP
 
 
 - Saif anschreiben wegen Tutorenrolle
