@@ -311,6 +311,9 @@
 - [ ] Küche aufräumen 
 - [ ] Sofa saugen 
 - [ ] sofa schäumen 
+- [ ] Decken waschen 
+- [ ] Fußabstreifer saugen 
+- [ ] gießen 
 - [ ] decke auf Sofa 
 - [ ] Staub saugen 
 - [ ] Spaziergang 
