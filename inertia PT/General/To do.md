@@ -313,6 +313,7 @@
 - [ ] sofa schäumen 
 - [ ] Decken waschen 
 - [ ] Fußabstreifer saugen 
+- [ ] Nasenhaare 
 - [x] gießen 
 - [ ] kleines Geodreieck suchen 
 - [ ] mini Gewächshäuser putzen 
