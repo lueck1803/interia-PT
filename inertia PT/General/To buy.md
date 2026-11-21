@@ -27,6 +27,7 @@
 - [ ] Spülmaschinenpulver 
 - [ ] Kaugummi 
 - [ ] Toilettenpapier 
+- [ ] Röstzwiebeln 
 - [x] Nussnougat 
 - [x] Hummus
 - [x] Toast 
