@@ -314,6 +314,7 @@
 - [ ] Decken waschen 
 - [ ] Fußabstreifer saugen 
 - [ ] gießen 
+- [ ] kleines Geodreieck suchen 
 - [ ] decke auf Sofa 
 - [ ] Staub saugen 
 - [ ] Spaziergang 
