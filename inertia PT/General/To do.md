@@ -319,7 +319,7 @@
 - [ ] Paprika
 - [ ] Essen kochen
 - [ ] Bart
-- [ ] ponc
+- [ ] Poncho 
 - [ ] <font color="#e36c09">Mein Unterrichteinträge</font>
 - [ ] To-do sortieren
 - [ ] gelben Sack runter 
