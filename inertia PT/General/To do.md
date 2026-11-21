@@ -308,6 +308,7 @@
 
 - [ ] Kartons mit Handys beschriften und in 8b und Physikraum stellen 
 - [ ] Duschen + rasieren 
+- [ ] Dusche schrubben 
 - [x] Nudeln in den Kühlschrank 
 - [ ] Küche aufräumen 
 - [ ] Sofa saugen 
@@ -327,7 +328,7 @@
 - [ ] Bettwäsche wechseln 
 - [ ] Paprika
 - [ ] Essen kochen
-- [ ] Bart
+- [x] Bart
 - [ ] Poncho 
 - [ ] Papiermüll 
 - [ ] <font color="#e36c09">Mein Unterrichteinträge</font>
