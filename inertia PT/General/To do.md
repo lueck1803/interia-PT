@@ -424,6 +424,7 @@
 	- [ ] Formel herleiten mit spritze
 		- [ ] Formel soll auf spicker 
 	- [ ] Aufgabe mit kommunizierende Röhren stellen 
+	- [ ] reicht der Druck aus von, da
 	- [ ] archimedisches Prinzip herleiten auf das blatt mit
 		- [ ] Formel soll auf spicker
 	- [ ] aufgabenblatt mit
