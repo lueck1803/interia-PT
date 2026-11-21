@@ -8,7 +8,6 @@
   "better-comment-toggle",
   "obsidian-enhancing-export",
   "better-export-pdf",
-  "callout-copy-buttons",
   "fast-text-color",
   "table-editor-obsidian",
   "obsidian-git",
@@ -23,8 +22,6 @@
   "html-tables",
   "html-checkboxes",
   "mobile-pdf-exporter",
-  "obsidian-reminder-plugin",
-  "obsidian-tasks-plugin",
   "new-window",
   "sfb-open-in-new-tab",
   "obsidian42-brat",
@@ -34,5 +31,6 @@
   "image-captions",
   "lapel",
   "foldstate",
-  "obsidian-latex-suite"
+  "obsidian-latex-suite",
+  "url-namer"
 ]
