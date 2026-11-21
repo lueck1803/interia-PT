@@ -307,11 +307,12 @@
 
 
 - [ ] Kartons mit Handys beschriften und in 8b und Physikraum stellen 
-- [ ] Duschen + rasieren 
-- [ ] Dusche schrubben 
-- [ ] sofa Kissenbezug 
+- [x] Duschen 
+- [x] Dusche schrubben 
+- [ ] Dusche weiter schrubben 
+- [x] sofa Kissenbezug 
 - [x] Nudeln in den Kühlschrank 
-- [ ] Küche aufräumen 
+- [x] Küche aufräumen 
 - [ ] Sofa saugen 
 - [ ] sofa schäumen 
 - [ ] Decken waschen 
@@ -320,7 +321,7 @@
 - [x] gießen 
 - [ ] kleines Geodreieck suchen 
 - [ ] mini Gewächshäuser putzen 
-- [ ] decke auf Sofa 
+- [x] decke auf Sofa 
 - [ ] Staub saugen 
 - [ ] Spaziergang 
 - [ ] kleine Handtücher ins Bad 
