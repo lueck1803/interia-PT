@@ -307,7 +307,7 @@
 
 
 - [ ] Duschen
-- [ ] nudel
+- [ ] Nudeln in den Kühlschrank 
 - [ ] Küche aufräumen 
 - [ ] Sofa saugen 
 - [ ] Staub saugen 
@@ -319,6 +319,7 @@
 - [ ] Paprika
 - [ ] Essen kochen
 - [ ] Bart
+- [ ] ponc
 - [ ] <font color="#e36c09">Mein Unterrichteinträge</font>
 - [ ] To-do sortieren
 - [ ] gelben Sack runter 
@@ -327,9 +328,6 @@
 
 - [ ] Briefkasten 
 - [ ] warum geht der wechsel zwischen den gleichen programmen in mac nicht
-- [x] lesen was auf ebay Nachricht steht
-	- [x] Bewertungen zu finden habe ich aufgegeben 
-	- [ ] Zeit ist auch Rum 
 
 
 
@@ -364,7 +362,6 @@
 	- [x] aufhängen 
 	- [ ] zusammen legen
 - [ ] blaue Jeans in die Wäsche 
-- [x] Wetterstation
 - [ ] als PDF exportieren und in hier gehts um mich Ordner packen und psychologie
 	- [ ] japanische 1-Minutenregel 
 	- [ ] Laotze 
