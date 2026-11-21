@@ -315,6 +315,7 @@
 - [ ] Fußabstreifer saugen 
 - [x] gießen 
 - [ ] kleines Geodreieck suchen 
+- [ ] mini Gewächshäuser putzen 
 - [ ] decke auf Sofa 
 - [ ] Staub saugen 
 - [ ] Spaziergang 
