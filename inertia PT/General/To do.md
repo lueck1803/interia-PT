@@ -320,6 +320,7 @@
 - [ ] Essen kochen
 - [ ] Bart
 - [ ] Poncho 
+- [ ] Papiermüll 
 - [ ] <font color="#e36c09">Mein Unterrichteinträge</font>
 - [ ] To-do sortieren
 - [ ] gelben Sack runter 
