@@ -314,10 +314,10 @@
 - [ ] decke auf Sofa 
 - [ ] Staub saugen 
 - [ ] Spaziergang 
-- [ ] carnivorenwasser 
-- [ ] carnivoren gießen 
+- [x] carnivorenwasser 
+- [x] carnivoren gießen 
 - [ ] Tisch wischen 
-- [ ] brokkoli
+- [x] brokkoli
 - [ ] Paprika
 - [ ] Essen kochen
 - [ ] Bart
