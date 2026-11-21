@@ -366,7 +366,7 @@
 	- [ ] Leiter und nicht Leiter 
 	- [ ] Schulvideos zur Ladungstrennung anschauen 
 - [ ] Hausaufgabe für Physik 
-- [ ] shortened links checken
+- [x] shortened links checken
 - [ ] richtigen Knoten um Löffel machen 
 - [ ] Name auf Klingel 
 - [ ] 30° Wäsche
@@ -426,6 +426,8 @@
 	- [ ] Aufgabe mit kommunizierende Röhren stellen 
 	- [ ] archimedisches Prinzip herleiten auf das blatt mit
 		- [ ] Formel soll auf spicker
+	- [ ] aufgabenblatt mit
+		- [ ] 
 
 
 - Saif anschreiben wegen Tutorenrolle
