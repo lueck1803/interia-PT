@@ -307,7 +307,6 @@
 
 
 - [ ] kaffeesatz
-- [x] Easy copy am mac obsidian installieren
 - [ ] 30° Wäsche mit Decken
 	- [x] anstellen 
 	- [ ] schleudern 
@@ -500,7 +499,7 @@
 - [ ] protokoll von GK2 lesen ⟹ um es zu genehmigen
 - [ ] Entwicklungsgespräche Protokoll für Ansia fertig machen
 - [ ] Ilayda und Marie mitteilen: es wurde sich um sofian gekümmert
-- [ ] dean and berkay antworten 
+- [ ] dean and berkay antworten  %% fold %%
 - [ ] fehlend eintragen P %% fold %%
 	- [ ] dean %% fold %%
 	- [ ] Salma  %% fold %%
