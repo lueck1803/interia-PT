@@ -332,29 +332,26 @@
 - [ ] wie wähle ich am mac Vorschläge im terminal aus
 	- [ ] Mit "⌃ + ⇥"  
 - [ ] usb Kabel bestellen vielleicht auch ein Ladegerät 
-- [x] unter dem Esstisch wischen 
 - [ ] HDMI Kabel in Rucksack packen 
 - [ ] Wissenssammlung in Lerntagebuch umbenennen 
 	- [ ] Beschreibung nach unten schieben
 	- [ ] Farben in Xournal am PC hinzufügen / sortieren
-	- [ ] Zeichengeräte hinzufügen 
-	- [ ] Xournal am Laptop style übernehmen
+	- [x] Zeichengeräte hinzufügen 
+	- [x] Xournal am Laptop style übernehmen
 	- [ ] schauen ob ich hotkeys in xournal manipulieren kann
-- [ ] Mathewettbewerbsaufgaben auf Stick ziehen
+- [x] Mathewettbewerbsaufgaben auf Stick ziehen
 - [ ] Kartons mit "Handys"  beschriften und in 8b und Physikraum stellen 
 - [ ] Platz für Zitrusfrüchte suchen 
 - [ ] Dusche weiter schrubben 
 - [ ] sofa schäumen 
-- [ ] Decken waschen 
+- [x] Decken waschen 
 - [ ] Fußabstreifer saugen 
 - [ ] Nasenhaare 
 - [ ] kleines Geodreieck suchen 
 - [ ] mini Gewächshäuser putzen 
 - [ ] Spaziergang 
-- [x] Bettwäsche wechseln 
 - [ ] Paprika
 - [ ] Essen kochen
-- [x] Bart
 - [ ] Poncho 
 - [ ] Papiermüll 
 - [ ] <font color="#e36c09">Mein Unterrichteinträge</font>
