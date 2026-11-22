@@ -307,28 +307,16 @@
 
 
 - [ ] Kartons mit "Handys"  beschriften und in 8b und Physikraum stellen 
-- [x] Duschen 
-- [x] Dusche schrubben 
+- [ ] Platz für Zitrusfrüchte suchen 
 - [ ] Dusche weiter schrubben 
-- [x] sofa Kissenbezug 
-- [x] Nudeln in den Kühlschrank 
-- [x] Küche aufräumen 
-- [x] Sofa saugen 
 - [ ] sofa schäumen 
 - [ ] Decken waschen 
 - [ ] Fußabstreifer saugen 
 - [ ] Nasenhaare 
-- [x] gießen 
 - [ ] kleines Geodreieck suchen 
 - [ ] mini Gewächshäuser putzen 
-- [x] decke auf Sofa 
-- [x] Staub saugen 
 - [ ] Spaziergang 
-- [x] kleine Handtücher ins Bad 
-- [x] Lappen in der Küche tauschen 
-- [x] Tisch wischen 
-- [ ] Bettwäsche wechseln 
-	- [ ] Spannbetttuch 
+- [x] Bettwäsche wechseln 
 - [ ] Paprika
 - [ ] Essen kochen
 - [x] Bart
