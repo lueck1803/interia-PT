@@ -501,7 +501,7 @@
 - [ ] Entwicklungsgespräche Protokoll für Ansia fertig machen
 - [ ] Ilayda und Marie mitteilen: es wurde sich um sofian gekümmert
 - [ ] dean and berkay antworten 
-- [ ] fehlend eintragen P
+- [ ] fehlend eintragen P %% fold %%
 	- [ ] dean %% fold %%
 	- [ ] Salma  %% fold %%
 	- [ ] anas  %% fold %%
