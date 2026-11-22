@@ -305,6 +305,10 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
+
+- [ ] Plastiklineal suchen
+- [ ] kleines Geodreieck suchen 
+
 - [ ] essen in den Kühlschrank 
 - [ ] Kaugummis auffüllen 
 - [ ] 30° Wäsche mit Decken
@@ -337,19 +341,16 @@
 	- [x] Zeichengeräte hinzufügen 
 	- [x] Xournal am Laptop style übernehmen
 	- [ ] schauen ob ich hotkeys in xournal manipulieren kann
-- [x] Mathewettbewerbsaufgaben auf Stick ziehen
 - [ ] Kartons mit "Handys"  beschriften und in 8b und Physikraum stellen 
 - [ ] Platz für Zitrusfrüchte suchen 
 - [ ] Dusche weiter schrubben 
 - [ ] sofa schäumen 
-- [x] Decken waschen 
 - [ ] Fußabstreifer saugen 
 - [ ] Nasenhaare 
-- [ ] kleines Geodreieck suchen 
-- [ ] mini Gewächshäuser putzen 
+- [x] mini Gewächshäuser putzen 
 - [ ] Spaziergang 
-- [ ] Paprika
-- [ ] Essen kochen
+- [x] Paprika
+- [x] Essen kochen
 - [ ] Poncho 
 - [ ] Papiermüll 
 - [ ] <font color="#e36c09">Mein Unterrichteinträge</font>
