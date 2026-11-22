@@ -307,7 +307,6 @@
 
 
 - [ ] Spülmaschine ausräumen
-- [x] essen in den Kühlschrank 
 - [ ] 30° Wäsche mit Decken
 	- [x] anstellen 
 	- [x] schleudern 
@@ -338,8 +337,6 @@
 	- [x] Zeichengeräte hinzufügen 
 	- [x] Xournal am Laptop style übernehmen
 	- [ ] schauen ob ich hotkeys in xournal manipulieren kann
-- [x] Kartons mit "Handys"  beschriften und in 8b und Physikraum stellen 
-- [x] Platz für Zitrusfrüchte suchen 
 - [ ] Dusche weiter schrubben 
 - [ ] sofa schäumen 
 - [ ] Fußabstreifer saugen 
