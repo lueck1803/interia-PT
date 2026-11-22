@@ -344,15 +344,9 @@
 - [ ] sofa schäumen 
 - [ ] Fußabstreifer saugen 
 - [ ] Nasenhaare 
-- [x] mini Gewächshäuser putzen 
 - [ ] Spaziergang 
-- [x] Paprika
-- [x] Essen kochen
-- [x] Poncho 
-- [x] Papiermüll 
 - [ ] <font color="#e36c09">Mein Unterrichteinträge</font>
 - [ ] To-do sortieren
-- [x] gelben Sack runter 
 - [ ] AOK 
 - [ ] Protokoll 
 
@@ -490,7 +484,7 @@
 
 - [ ] Situation in 8c beruht auf Gegenseitigkeit, sind in der Pause befreundet. Nutzen das als Spiel um Unterrichtszeit zu schinden
 - [ ] protokoll von GK2 lesen ⟹ um es zu genehmigen
-- [ ] Entwicklungsgespräche Protokoll für Ansia fertig machen
+- [ ] Entwicklungsgespräche Protokoll für Ansia fertig machen %% fold %%
 - [ ] Ilayda und Marie mitteilen: es wurde sich um sofian gekümmert %% fold %%
 - [ ] dean and berkay antworten  %% fold %%
 - [ ] fehlend eintragen P %% fold %%
