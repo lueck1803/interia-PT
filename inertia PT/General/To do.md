@@ -315,7 +315,7 @@
 	- [x] aufhängen 
 	- [ ] zusammen legen
 
-- [ ] Brokkoli in den Kühlschrank
+- [x] Brokkoli in den Kühlschrank
 - [x] welche MW Aufgaben kommen am häufigsten dran und auf was muss man achten
 - Mathewettbewerb Bestimmungen:
 	- Ihr müsst alle Aufgaben die mit einem **P** für **Pflichtaufgabe** benannt und **2 von 4** Aufgaben die mit einem **W** für **Wahlaufgabe** markiert sind bearbeiten.
