@@ -358,8 +358,11 @@
 	- [ ] wann sind die anderen Arbeiten?
 - [ ] Physikarbeit 8er konzipieren 
 - [ ] Bestimmungen Mathe-Wettbewerb aufschreiben  - wichtigste infos und in die Gruppen schicken 
-	- [ ] wie lange dauert der Mathe-Wettbewerb 
+	- [ ] wie lange dauert der Mathe-Wettbewerb - 90 min
 	- [ ] was ist erlaubt?
+		- [ ] Lineal 
+		- [ ] Zirkel 
+		- [ ] konzeptp
 	- [ ] gibt es Papier?
 	- [ ] benötigte Materialien 
 	- [ ] wo wird geschrieben?
