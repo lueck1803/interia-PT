@@ -360,9 +360,9 @@
 - [ ] Bestimmungen Mathe-Wettbewerb aufschreiben  - wichtigste infos und in die Gruppen schicken 
 	- [ ] wie lange dauert der Mathe-Wettbewerb - 90 min
 	- [ ] was ist erlaubt?
-		- [ ] Lineal 
+		- [ ] Lineal /Geodreieck 
 		- [ ] Zirkel 
-		- [ ] konzeptp
+		- [ ] Konzeptpapier 
 	- [ ] gibt es Papier?
 	- [ ] benötigte Materialien 
 	- [ ] wo wird geschrieben?
