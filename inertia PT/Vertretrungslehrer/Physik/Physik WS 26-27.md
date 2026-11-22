@@ -23,7 +23,7 @@
 - Zeichnungen zur Sonnensystemkonstellation zeigen lassen
 - Inhalt der nächsten Stunden anschreiben
 - Aufgaben aus dem Denksportphysik
-##  2026-08-12 %% fold %%
+## 2026-08-12
 - da ich die klasse Dienstag schon in Mathe hatte, brauchen wir ja keine Vorstellungsrunde mehr %% fold %%
 - Auch <font color="#ff69b4">Blitzlichtrunde</font> in Physik machen - Wer war deren Lehrer?
 
@@ -172,31 +172,7 @@
 
 
 # 8te Klassen Inhalt
-## E. Elektrizitätslehre
-### E.1 Ladungen und Ladungstrennung 
-#### E.1.1 Experimente 
--  PMMA Stab gerieben an
-	- Laufshirt - Polyester: wird aus  PET Flaschen hergestellt. PET-Polyethylenterephtalat
-	- Backpapier - dient dazu Lebensmittel davor zu bewahren am Backblech und Formen hängen zu bleiben, sowie Fett  und Flüssigkeiten nicht durch das Grillgitter tropfen zu lassen. Dafür ist es mit Teflon beschichtet. Mit Teflon waren und sind immer noch die meisten Antihaft beschichteten Pfannen beschichtet. Teflon - **PTFE:** **Polytetrafluorethylen** - enthält Fluor, was eine wichtige Rolle bei dem Effekt spielt.
-	- Baumwollstoff 
-- Heißklebepistolen Kleber - <font color="#e36c09">Material</font> ?
-- Plastiklöffel - <font color="#e36c09">Material</font>? Aufgehängt 
-- Wasserstrahl 
-- Getränkedosen 
-- Klebestreifen 
-- Luftballon 
-- Papierstreifen 
-- Pfeffer 
-- Elektroskop 
-#### Schlussfolgerungen aus den Experimenten 
-
-#### Was passiert bei den Experimenten?
-##### Atommodell 
-- Atom bedeutet?
-- Thompson Modell (skip)
-- Rutherford Modell 
-
-## Start 
+## Start
 - Basiswissen aufbauen:
 	- Was ist das Denkprinzip der Naturwissenschaften und insbesondere der Physik?
 		- Physikalische Begriffsbildung gegenüber Alltagsvorstellungen
@@ -286,7 +262,31 @@
 	- Besitzt eine *Richtung*
 
 
-# Kräfte 
+# E. Elektrizitätslehre
+## E.1 Ladungen und Ladungstrennung
+### E.1.1 Experimente
+-  PMMA Stab gerieben an
+	- Laufshirt - Polyester: wird aus  PET Flaschen hergestellt. PET-Polyethylenterephtalat
+	- Backpapier - dient dazu Lebensmittel davor zu bewahren am Backblech und Formen hängen zu bleiben, sowie Fett  und Flüssigkeiten nicht durch das Grillgitter tropfen zu lassen. Dafür ist es mit Teflon beschichtet. Mit Teflon waren und sind immer noch die meisten Antihaft beschichteten Pfannen beschichtet. Teflon - **PTFE:** **Polytetrafluorethylen** - enthält Fluor, was eine wichtige Rolle bei dem Effekt spielt.
+	- Baumwollstoff 
+- Heißklebepistolen Kleber - <font color="#e36c09">Material</font> ?
+- Plastiklöffel - <font color="#e36c09">Material</font>? Aufgehängt 
+- Wasserstrahl 
+- Getränkedosen 
+- Klebestreifen 
+- Luftballon 
+- Papierstreifen 
+- Pfeffer 
+- Elektroskop 
+### Schlussfolgerungen aus den Experimenten
+
+### Was passiert bei den Experimenten?
+#### Atommodell
+- Atom bedeutet?
+- Thompson Modell (skip)
+- Rutherford Modell 
+
+# Kräfte
 - wir verwenden umgangssprachliche Begriffe, um Vorgänge oder Objekte zu beschreiben. Dadurch kann es Missverständnisse geben und redet eventuell über etwas meint aber etwas ganz anderes %% fold %%
 - ⤷ versuchen sie präzisier auszudrücken
 - Worum geht es in der physik?
@@ -468,7 +468,7 @@ Auf der Oberfläche des Fass lastest also ungefähr eine Masse von $21,6$ Tonnen
 - $p=\frac{F}{A}=\frac{\rho A h g}{A}= \rho g h$
 - Folglich ist der Druck des Fluids direkt proportional zu der Dichte der Flüssigkeit und zu der Eintauchtiefe in der Flüssigkeit
 
-## Druck: 
+## Druck:
 - $p=\frac{\vec{F}_{\perp}}{A}$
 - Was ist das? ⟹ wie ist der definiert?
 - Wo taucht der auf? 
