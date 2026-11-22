@@ -310,7 +310,7 @@
 	- [ ] Beschreibung nach unten schieben
 	- [ ] Farben in Xournal am PC hinzufügen / sortieren
 	- [ ] Xournal am Laptop style übernehmen
-	- [ ] schauen ob i
+	- [ ] schauen ob ich hotkeys in xournal manipulieren kann
 - [ ] Mathewettbewerbsaufgaben auf Stick ziehen
 - [ ] Kartons mit "Handys"  beschriften und in 8b und Physikraum stellen 
 - [ ] Platz für Zitrusfrüchte suchen 
