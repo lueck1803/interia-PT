@@ -310,6 +310,7 @@
 - [ ] Wissenssammlung in Lerntagebuch umbenennen 
 	- [ ] Beschreibung nach unten schieben
 	- [ ] Farben in Xournal am PC hinzufügen / sortieren
+	- [ ] Zeichengeräte hinzufügen 
 	- [ ] Xournal am Laptop style übernehmen
 	- [ ] schauen ob ich hotkeys in xournal manipulieren kann
 - [ ] Mathewettbewerbsaufgaben auf Stick ziehen
