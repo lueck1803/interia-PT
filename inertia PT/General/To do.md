@@ -306,11 +306,8 @@
 	- [ ] zusammen legen
 
 
-- [x] Plastiklineal suchen
-- [x] kleines Geodreieck suchen 
 - [ ] Spülmaschine ausräumen
 - [ ] essen in den Kühlschrank 
-- [x] Kaugummis auffüllen 
 - [ ] 30° Wäsche mit Decken
 	- [x] anstellen 
 	- [x] schleudern 
