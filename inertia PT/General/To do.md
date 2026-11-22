@@ -305,7 +305,8 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
-
+- [ ] usb Kabel bestellen vielleicht auch ein Ladegerät 
+- [ ] HDMI Kabel in Rucksack packen 
 - [ ] Wissenssammlung in Lerntagebuch umbenennen 
 	- [ ] Beschreibung nach unten schieben
 	- [ ] Farben in Xournal am PC hinzufügen / sortieren
