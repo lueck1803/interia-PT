@@ -306,17 +306,13 @@
 	- [ ] zusammen legen
 
 
-- [x] Paprikaverschnitt raus
 - [ ] Kaugummis auffüllen 
-- [x] kaffeesatz
 - [ ] 30° Wäsche mit Decken
 	- [x] anstellen 
 	- [x] schleudern 
 	- [x] aufhängen 
 	- [ ] zusammen legen
 
-- [x] Brokkoli in den Kühlschrank
-- [x] welche MW Aufgaben kommen am häufigsten dran und auf was muss man achten
 - Mathewettbewerb Bestimmungen:
 	- Ihr müsst alle Aufgaben die mit einem **P** für **Pflichtaufgabe** benannt und **2 von 4** Aufgaben die mit einem **W** für **Wahlaufgabe** markiert sind bearbeiten.
 	- Insgesamt sind **48 Punkte** erreichbar
@@ -497,7 +493,7 @@
 - [ ] Situation in 8c beruht auf Gegenseitigkeit, sind in der Pause befreundet. Nutzen das als Spiel um Unterrichtszeit zu schinden
 - [ ] protokoll von GK2 lesen ⟹ um es zu genehmigen
 - [ ] Entwicklungsgespräche Protokoll für Ansia fertig machen
-- [ ] Ilayda und Marie mitteilen: es wurde sich um sofian gekümmert
+- [ ] Ilayda und Marie mitteilen: es wurde sich um sofian gekümmert %% fold %%
 - [ ] dean and berkay antworten  %% fold %%
 - [ ] fehlend eintragen P %% fold %%
 	- [ ] dean %% fold %%
