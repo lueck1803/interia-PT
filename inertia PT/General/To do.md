@@ -306,14 +306,14 @@
 	- [ ] zusammen legen
 
 
-- [ ] Kartons mit Handys beschriften und in 8b und Physikraum stellen 
+- [ ] Kartons mit "Handys"  beschriften und in 8b und Physikraum stellen 
 - [x] Duschen 
 - [x] Dusche schrubben 
 - [ ] Dusche weiter schrubben 
 - [x] sofa Kissenbezug 
 - [x] Nudeln in den Kühlschrank 
 - [x] Küche aufräumen 
-- [ ] Sofa saugen 
+- [x] Sofa saugen 
 - [ ] sofa schäumen 
 - [ ] Decken waschen 
 - [ ] Fußabstreifer saugen 
