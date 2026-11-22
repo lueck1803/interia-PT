@@ -305,7 +305,7 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
-
+- [ ] essen in den Kühlschrank 
 - [ ] Kaugummis auffüllen 
 - [ ] 30° Wäsche mit Decken
 	- [x] anstellen 
