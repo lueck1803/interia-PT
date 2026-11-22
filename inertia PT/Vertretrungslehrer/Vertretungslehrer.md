@@ -499,7 +499,7 @@ in den anderen Fällen bleibt der Artikel erhalten
 	- es wurde eins selbst geschrieben in der Gruppe
 	- Dazu ~={red}Klassenarbeit=~
 	- ⤷ also noch eine ~={MediumTurquoise}Klassenarbeit offen=~ %% fold %%
-- ein bisschen Wortarten wiederholt: Nomen, Verben konjugieren im Präsenz, Präteritum und Futur, aber das noch nicht intensiv.
+- ein bisschen Wortarten wiederholt: Nomen, Verben konjugieren im Präsenz, Präteritum und Futur, aber das noch nicht intensiv. %% fold %%
 ### Material
 - P.A.U.L. D., ist das Deutsch Buch, dazu gibt es viel Material
 	- Die Wunderbare Welt der Wörter: 90
