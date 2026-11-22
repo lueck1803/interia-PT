@@ -177,7 +177,24 @@
 #### E.1.1 Experimente 
 -  PMMA Stab gerieben an
 	- Laufshirt - Polyester: wird aus  PET Flaschen hergestellt. PET-Polyethylenterephtalat
-	- Backpapier - dient dazu Lebensmittel davor zu bewahren am Backblech und Formen hängen zu bleiben, sowieFett  dannbeschichtet 
+	- Backpapier - dient dazu Lebensmittel davor zu bewahren am Backblech und Formen hängen zu bleiben, sowie Fett  und Flüssigkeiten nicht durch das Grillgitter tropfen zu lassen. Dafür ist es mit Teflon beschichtet. Mit Teflon waren und sind immer noch die meisten Antihaft beschichteten Pfannen beschichtet. Teflon - PTFE: - enthält Fluor, was eine wichtige Rolle bei dem Effekt spielt.
+	- Baumwollstoff 
+- Heißklebepistolen Kleber - <font color="#e36c09">Material</font> ?
+- Plastiklöffel - <font color="#e36c09">Material</font>? Aufgehängt 
+- Wasserstrahl 
+- Getränkedosen 
+- Klebestreifen 
+- Luftballon 
+- Papierstreifen 
+- Pfeffer 
+- Elektroskop 
+#### Schlussfolgerungen aus den Experimenten 
+
+#### Was passiert bei den Experimenten?
+##### Atommodell 
+- Atom bedeutet?
+- Thompson Modell (skip)
+- Rutherford Modell 
 
 ## Start 
 - Basiswissen aufbauen:
