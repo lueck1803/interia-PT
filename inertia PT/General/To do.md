@@ -307,7 +307,7 @@
 
 
 - [ ] Spülmaschine ausräumen
-- [ ] essen in den Kühlschrank 
+- [x] essen in den Kühlschrank 
 - [ ] 30° Wäsche mit Decken
 	- [x] anstellen 
 	- [x] schleudern 
@@ -338,8 +338,8 @@
 	- [x] Zeichengeräte hinzufügen 
 	- [x] Xournal am Laptop style übernehmen
 	- [ ] schauen ob ich hotkeys in xournal manipulieren kann
-- [ ] Kartons mit "Handys"  beschriften und in 8b und Physikraum stellen 
-- [ ] Platz für Zitrusfrüchte suchen 
+- [x] Kartons mit "Handys"  beschriften und in 8b und Physikraum stellen 
+- [x] Platz für Zitrusfrüchte suchen 
 - [ ] Dusche weiter schrubben 
 - [ ] sofa schäumen 
 - [ ] Fußabstreifer saugen 
@@ -348,11 +348,11 @@
 - [ ] Spaziergang 
 - [x] Paprika
 - [x] Essen kochen
-- [ ] Poncho 
-- [ ] Papiermüll 
+- [x] Poncho 
+- [x] Papiermüll 
 - [ ] <font color="#e36c09">Mein Unterrichteinträge</font>
 - [ ] To-do sortieren
-- [ ] gelben Sack runter 
+- [x] gelben Sack runter 
 - [ ] AOK 
 - [ ] Protokoll 
 
