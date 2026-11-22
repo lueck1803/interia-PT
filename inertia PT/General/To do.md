@@ -306,6 +306,12 @@
 	- [ ] zusammen legen
 
 
+- [ ] 30° Wäsche mit Decken
+	- [ ] anstellen 
+	- [ ] schleudern 
+	- [ ] aufhängen 
+	- [ ] zusammen legen
+
 - Mathewettbewerb Bestimmungen:
 	- Ihr müsst alle Aufgaben die mit einem **P** für **Pflichtaufgabe** benannt und **2 von 4** Aufgaben die mit einem **W** für **Wahlaufgabe** markiert sind bearbeiten.
 	- Insgesamt sind **48 Punkte** erreichbar
@@ -503,7 +509,7 @@
 	- [ ] zaynaba %% fold %%
 	- [ ] finn %% fold %%
 - [ ] Biomüll runter %% fold %%
-- [ ] Spülmaschine ausräumen 
+- [ ] Spülmaschine ausräumen  %% fold %%
 - [ ] Arbeitsblätter Mathe-Wettbewerb checken  %% fold %%
 	- [ ] B 2024 genug Blätter für a und b Klasse?
 	- [ ] ich glaube für die a Klasse hatte ich Mittwoch schon welche ausgeteilt 
