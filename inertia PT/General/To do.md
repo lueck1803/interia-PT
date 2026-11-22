@@ -306,6 +306,7 @@
 	- [ ] zusammen legen
 
 
+- [ ] Wissenssammlung in Lerntagebuch umbenennen 
 - [ ] Kartons mit "Handys"  beschriften und in 8b und Physikraum stellen 
 - [ ] Platz für Zitrusfrüchte suchen 
 - [ ] Dusche weiter schrubben 
