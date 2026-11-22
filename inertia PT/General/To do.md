@@ -306,7 +306,8 @@
 	- [ ] zusammen legen
 
 
-- [ ] Paprikaverschnitt raus
+- [x] Paprikaverschnitt raus
+- [ ] Kaugummis auffüllen 
 - [x] kaffeesatz
 - [ ] 30° Wäsche mit Decken
 	- [x] anstellen 
