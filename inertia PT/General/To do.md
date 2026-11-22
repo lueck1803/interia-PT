@@ -484,7 +484,7 @@
 	- [ ] finn %% fold %%
 - [ ] Biomüll runter %% fold %%
 - [ ] Spülmaschine ausräumen 
-- [ ] Arbeitsblätter Mathe-Wettbewerb checken 
+- [ ] Arbeitsblätter Mathe-Wettbewerb checken  %% fold %%
 	- [ ] B 2024 genug Blätter für a und b Klasse?
 	- [ ] ich glaube für die a Klasse hatte ich Mittwoch schon welche ausgeteilt 
 	- [ ] auch sicherheitshalber A2025 nochmal kopieren 
