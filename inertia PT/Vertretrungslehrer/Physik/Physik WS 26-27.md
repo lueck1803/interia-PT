@@ -177,7 +177,7 @@
 #### E.1.1 Experimente 
 -  PMMA Stab gerieben an
 	- Laufshirt - Polyester: wird aus  PET Flaschen hergestellt. PET-Polyethylenterephtalat
-	- Backpapier - dient dazu Lebensmittel davor zu bbeschichtet 
+	- Backpapier - dient dazu Lebensmittel davor zu bewahren am Backblech und Formen hängen zu bleiben, sowieFett  dannbeschichtet 
 
 ## Start 
 - Basiswissen aufbauen:
