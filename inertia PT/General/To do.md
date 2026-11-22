@@ -306,7 +306,7 @@
 	- [ ] zusammen legen
 
 - [ ] wie wähle ich am mac vorschläge im terminal aus
-	- [ ] Mit "⌃ + ⇥" `text` 
+	- [ ] Mit "⌃ + ⇥"  
 - [ ] usb Kabel bestellen vielleicht auch ein Ladegerät 
 - [ ] unter dem Esstisch wischen 
 - [ ] HDMI Kabel in Rucksack packen 
