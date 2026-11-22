@@ -307,7 +307,7 @@
 
 
 - [ ] 30° Wäsche mit Decken
-	- [ ] anstellen 
+	- [x] anstellen 
 	- [ ] schleudern 
 	- [ ] aufhängen 
 	- [ ] zusammen legen
