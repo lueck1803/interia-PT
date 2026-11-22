@@ -306,6 +306,7 @@
 	- [ ] zusammen legen
 
 
+- [ ] Paprikaverschnitt raus
 - [x] kaffeesatz
 - [ ] 30° Wäsche mit Decken
 	- [x] anstellen 
