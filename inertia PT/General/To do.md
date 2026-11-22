@@ -305,7 +305,7 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
-- [ ] wie wähle ich am mac vorschläge im terminal aus
+- [ ] wie wähle ich am mac Vorschläge im terminal aus
 	- [ ] Mit "⌃ + ⇥"  
 - [ ] usb Kabel bestellen vielleicht auch ein Ladegerät 
 - [ ] unter dem Esstisch wischen 
