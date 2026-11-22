@@ -305,7 +305,7 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
-
+`pdftk 2025-A-MW.pdf cat 4-6 output 2025-A-MW_L.pdf`
 - [ ] 30° Wäsche mit Decken
 	- [x] anstellen 
 	- [ ] schleudern 
