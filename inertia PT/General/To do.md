@@ -309,6 +309,17 @@
 - Mathewettbewerb Bestimmungen:
 	- Ihr müsst alle Aufgaben die mit einem **P** für **Pflichtaufgabe** benannt und **2 von 4** Aufgaben die mit einem **W** für **Wahlaufgabe** markiert sind bearbeiten.
 	- Insgesamt sind **48 Punkte** erreichbar
+- [ ] Teilbarkeitsregeln 
+	- <u>Endziffernregeln</u>
+		- **Durch 2:** Die letzte Ziffer ist gerade (**0, 2, 4, 6, 8**). Beispiel: _48_.
+		- **Durch 4:** Die letzten zwei Ziffern bilden eine durch 4 teilbare Zahl (oder **00**). Beispiel: _376_ (76 : 4 = 19).
+		- **Durch 5:** Die letzte Ziffer ist **0 oder 5**. Beispiel: _4130_.
+		- **Durch 8:** Die letzten drei Ziffern bilden eine durch 8 teilbare Zahl (oder **000**). Beispiel: _5624_ (624 : 8 = 78).
+		- **Durch 10:** Die letzte Ziffer ist **0**. Beispiel: _3470_.
+	- <u>Quersummen und Kombinationen</u>
+		- **Durch 3:** Die Quersumme (Summe aller Ziffern) ist durch 3 teilbar. Beispiel: _123_ → 1 + 2 + 3 = 6.
+		- **Durch 6:** Die Zahl ist **durch 2 und durch 3** teilbar (gerade und Quersumme durch 3 teilbar). Beispiel: _72_.
+		- **Durch 9:** Die Quersumme ist durch 9 teilbar. Beispiel: _738_ → 7 + 3 + 8 = 18. 
 - [ ] wie wähle ich am mac Vorschläge im terminal aus
 	- [ ] Mit "⌃ + ⇥"  
 - [ ] usb Kabel bestellen vielleicht auch ein Ladegerät 
@@ -481,7 +492,7 @@
 - [ ] Ilayda und Marie mitteilen: es wurde sich um sofian gekümmert
 - [ ] dean and berkay antworten 
 - [ ] fehlend eintragen P
-	- [ ] dean
+	- [ ] dean %% fold %%
 	- [ ] Salma  %% fold %%
 	- [ ] anas  %% fold %%
 	- [ ] rayan %% fold %%
@@ -497,7 +508,7 @@
 	- [ ] B 2024 genug Blätter für a und b Klasse?
 	- [ ] ich glaube für die a Klasse hatte ich Mittwoch schon welche ausgeteilt 
 	- [ ] auch sicherheitshalber A2025 nochmal kopieren 
-- [ ] Protokollführung anschauen
+- [ ] Protokollführung anschauen %% fold %%
 - [ ] Mathearbeit fertig korrigieren %% fold %%
 - [ ] mein Wissenssammlung für Montag ausdrucken zur Anschauung  %% fold %%
 - [ ] fluidik für 10er einscannen, muss man in den Kapiteln zusammen suchen  %% fold %%
