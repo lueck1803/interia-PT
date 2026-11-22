@@ -2923,6 +2923,7 @@ Wenn du mir **ein bis zwei Beispiele deiner aktuellen Dateinamen** und das **gew
 	- Ranges werden mit "Anfangszahl-Endzahl" angegeben, soll das ganze Dokument von der Drehung betroffen sein, dann lässt man diese Option weg.
 	- mit `qualifier` ist die Unterscheidung in `odd` oder `even` gemeint
 	- weitere Drehrichtungen sind: <font color="#ffc000">  north: 0, east: 90, south: 180, west: 270, left: -90, right: +90, down: +180.</font>
+- `pdftk 2025-A-MW.pdf cat 4-6 output 2025-A-MW_L.pdf`
 # Signal
 - Video sending problem:
   ![](Pasted%20image%2020251221172346.png)
