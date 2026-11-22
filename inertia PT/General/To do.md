@@ -305,6 +305,10 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
+
+- Mathewettbewerb Bestimmungen:
+	- Ihr müsst alle Aufgaben die mit einem **P** für **Pflichtaufgabe** benannt und **2 von 4** Aufgaben die mit einem **W** für **Wahlaufgabe** markiert sind bearbeiten.
+	- 
 - [ ] wie wähle ich am mac Vorschläge im terminal aus
 	- [ ] Mit "⌃ + ⇥"  
 - [ ] usb Kabel bestellen vielleicht auch ein Ladegerät 
