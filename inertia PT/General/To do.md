@@ -307,6 +307,7 @@
 
 
 - [ ] Spülmaschine ausräumen
+- [ ] Zeug löschen 
 - [ ] 30° Wäsche mit Decken
 	- [x] anstellen 
 	- [x] schleudern 
