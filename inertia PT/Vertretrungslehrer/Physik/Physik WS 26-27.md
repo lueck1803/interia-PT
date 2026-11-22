@@ -172,6 +172,14 @@
 
 
 # 8te Klassen Inhalt
+## E. Elektrizitätslehre
+### E.1 Ladungen und Ladungstrennung 
+#### E.1.1 Experimente 
+-  PMMA Stab gerieben an
+	- Laufshirt - Polyester: wird aus  PET Flaschen hergestellt. PET-Polyethylenterephtalat
+	- Backpapier - dient dazu Lebensmittel davor zu bbeschichtet 
+
+## Start 
 - Basiswissen aufbauen:
 	- Was ist das Denkprinzip der Naturwissenschaften und insbesondere der Physik?
 		- Physikalische Begriffsbildung gegenüber Alltagsvorstellungen
