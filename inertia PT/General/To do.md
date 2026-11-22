@@ -306,11 +306,11 @@
 	- [ ] zusammen legen
 
 
-- [ ] Plastiklineal suchen
-- [ ] kleines Geodreieck suchen 
-
+- [x] Plastiklineal suchen
+- [x] kleines Geodreieck suchen 
+- [ ] Spülmaschine ausräumen
 - [ ] essen in den Kühlschrank 
-- [ ] Kaugummis auffüllen 
+- [x] Kaugummis auffüllen 
 - [ ] 30° Wäsche mit Decken
 	- [x] anstellen 
 	- [x] schleudern 
