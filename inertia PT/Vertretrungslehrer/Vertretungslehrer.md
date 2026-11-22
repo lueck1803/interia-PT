@@ -498,7 +498,7 @@ in den anderen Fällen bleibt der Artikel erhalten
 - Märchen:
 	- es wurde eins selbst geschrieben in der Gruppe
 	- Dazu ~={red}Klassenarbeit=~
-	- ⤷ also noch eine ~={MediumTurquoise}Klassenarbeit offen=~
+	- ⤷ also noch eine ~={MediumTurquoise}Klassenarbeit offen=~ %% fold %%
 - ein bisschen Wortarten wiederholt: Nomen, Verben konjugieren im Präsenz, Präteritum und Futur, aber das noch nicht intensiv.
 ### Material
 - P.A.U.L. D., ist das Deutsch Buch, dazu gibt es viel Material
