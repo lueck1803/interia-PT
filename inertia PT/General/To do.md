@@ -307,6 +307,11 @@
 
 
 - [ ] Wissenssammlung in Lerntagebuch umbenennen 
+	- [ ] Beschreibung nach unten schieben
+	- [ ] Farben in Xournal am PC hinzufügen / sortieren
+	- [ ] Xournal am Laptop style übernehmen
+	- [ ] schauen ob i
+- [ ] Mathewettbewerbsaufgaben auf Stick ziehen
 - [ ] Kartons mit "Handys"  beschriften und in 8b und Physikraum stellen 
 - [ ] Platz für Zitrusfrüchte suchen 
 - [ ] Dusche weiter schrubben 
