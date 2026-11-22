@@ -306,11 +306,11 @@
 	- [ ] zusammen legen
 
 
-- [ ] kaffeesatz
+- [x] kaffeesatz
 - [ ] 30° Wäsche mit Decken
 	- [x] anstellen 
 	- [x] schleudern 
-	- [ ] aufhängen 
+	- [x] aufhängen 
 	- [ ] zusammen legen
 
 - [ ] Brokkoli in den Kühlschrank
