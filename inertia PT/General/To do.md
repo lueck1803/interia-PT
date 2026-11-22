@@ -329,7 +329,7 @@
 - [ ] wie wähle ich am mac Vorschläge im terminal aus
 	- [ ] Mit "⌃ + ⇥"  
 - [ ] usb Kabel bestellen vielleicht auch ein Ladegerät 
-- [ ] unter dem Esstisch wischen 
+- [x] unter dem Esstisch wischen 
 - [ ] HDMI Kabel in Rucksack packen 
 - [ ] Wissenssammlung in Lerntagebuch umbenennen 
 	- [ ] Beschreibung nach unten schieben
