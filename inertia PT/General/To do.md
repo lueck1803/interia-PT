@@ -318,7 +318,7 @@
 - [x] mathewettbewerb A vom Stick schmeißen
 - [ ] Selfie Stick Kaufen 
 - [ ] Heizkissen testen 
-- [ ] Nachtlichter Testen 
+- [x] Nachtlichter Testen 
 - [ ] 1. Neues Arbeitsblatt für Physik 10
 - [ ] Versuche mit Materialien testen
 	- [ ] Bas linial
