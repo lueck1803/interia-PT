@@ -308,9 +308,8 @@
 
 - [ ] <font color="#e36c09">Mein Unterrichteinträge</font>
 - [x] Erklärung zur Punkt Spiegelung/Symmetrie 
-- [ ] Fotos von Bestimmungen für mw
-	- [ ] 8a
-- [ ] Fotos von tafel
+- [x] Fotos von Bestimmungen für mw
+- [ ] Fotos von tafel physik
 - [ ] AOK 
 - [ ] Protokoll 
 - [x] ebay Nachricht lesen 
@@ -496,7 +495,7 @@
 	- Handy-Problematik
 - [ ] Entwicklungsgespräche Mittwoch eintragen die mir Nicole genannt hat 
  %% fold %%
-- [x] Email von HNO lesen 
+- [x] Email von HNO lesen  %% fold %%
 	- [ ] Mo. 30.11.2026  um 15:00 
 
 - [ ] Situation in 8c beruht auf Gegenseitigkeit, sind in der Pause befreundet. Nutzen das als Spiel um Unterrichtszeit zu schinden
