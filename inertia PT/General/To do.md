@@ -310,15 +310,15 @@
 - [ ] Fotos von tafel physik
 - [ ] AOK 
 - [ ] Protokoll 
-- [ ] Essen
+- [x] Essen
 - [ ] Selfie Stick Kaufen 
-- [ ] Heizkissen testen 
+- [x] Heizkissen testen 
 - [ ] 1. Neues Arbeitsblatt für Physik 10
 - [ ] Versuche mit Materialien testen
 	- [ ] Bas linial
 	- [ ] Glasstab 
 	- [ ] Tintenroller Hülle 
-- [ ] Spülmaschine ausräumen
+- [x] Spülmaschine ausräumen
 - [ ] 30° Wäsche mit Decken
 	- [x] anstellen 
 	- [x] schleudern 
