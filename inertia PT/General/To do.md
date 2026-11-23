@@ -305,6 +305,7 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
+- [ ] Eimer für 8a
 - [ ] Pfeffer auffüllen
 - [ ] <font color="#e36c09">Mein Unterrichteinträge</font>
 - [ ] Fotos von tafel physik
@@ -312,7 +313,6 @@
 - [ ] Protokoll 
 - [ ] Selfie Stick Kaufen 
 - [ ] Teilbarkeitsregeln rüber schieben 
-- [x] Essen
 - [x] Heizkissen testen 
 	- sehr toll 😭
 	- so ein wunderbar tolles Heizkissen 
