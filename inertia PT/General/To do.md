@@ -311,9 +311,11 @@
 - [ ] Fotos von Bestimmungen für mw
 	- [ ] 8a
 - [ ] Fotos von tafel
+- [ ] AOK 
+- [ ] Protokoll 
 - [ ] Heizkissen testen 
 - [ ] Nachtlichter Testen 
-- [ ] 1. Neues arbei5sbk
+- [ ] 1. Neues Arbeitsblatt für Physik 10
 - [ ] Versuche mit Materialien testen
 	- [ ] Bas linial
 	- [ ] Glasstab 
@@ -356,8 +358,6 @@
 - [ ] Nasenhaare 
 - [ ] Spaziergang 
 - [ ] To-do sortieren
-- [ ] AOK 
-- [ ] Protokoll 
 
 - [ ] Briefkasten 
 - [ ] warum geht der wechsel zwischen den gleichen programmen in mac nicht
