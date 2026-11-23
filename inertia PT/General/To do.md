@@ -307,14 +307,16 @@
 
 
 - [ ] <font color="#e36c09">Mein Unterrichteinträge</font>
-- [ ] Erklärung zur Punkt Spiegelung/Symmetrie 
+- [x] Erklärung zur Punkt Spiegelung/Symmetrie 
 - [ ] Fotos von Bestimmungen für mw
 	- [ ] 8a
 - [ ] Fotos von tafel
 - [ ] AOK 
 - [ ] Protokoll 
 - [x] ebay Nachricht lesen 
-- [ ] Zeichnung mit Dreieck nochmal 
+- [x] Zeichnung mit Dreieck nochmal 
+- [ ] Essen
+- [x] mathewettbewerb A vom Stick schmeißen
 - [ ] Selfie Stick Kaufen 
 - [ ] Heizkissen testen 
 - [ ] Nachtlichter Testen 
@@ -493,7 +495,7 @@
 		- 8 Kinder
 	- Handy-Problematik
 - [ ] Entwicklungsgespräche Mittwoch eintragen die mir Nicole genannt hat 
-
+ %% fold %%
 - [x] Email von HNO lesen 
 	- [ ] Mo. 30.11.2026  um 15:00 
 
