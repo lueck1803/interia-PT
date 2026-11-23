@@ -305,9 +305,9 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
-
+- [ ] Erklärung zur Punkt Spiegelung/Symmetrie 
 - [ ] Spülmaschine ausräumen
-- [ ] Zeug löschen 
+- [x] Zeug löschen 
 - [ ] 30° Wäsche mit Decken
 	- [x] anstellen 
 	- [x] schleudern 
