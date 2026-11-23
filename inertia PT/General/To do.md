@@ -313,6 +313,7 @@
 - [x] Essen
 - [ ] Selfie Stick Kaufen 
 - [x] Heizkissen testen 
+	- sehr toll 😭
 - [ ] 1. Neues Arbeitsblatt für Physik 10
 - [ ] Versuche mit Materialien testen
 	- [ ] Bas linial
