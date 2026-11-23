@@ -314,7 +314,7 @@
 - [ ] AOK 
 - [ ] Protokoll 
 - [x] ebay Nachricht lesen 
-- [ ] Zeichnung mit Dreieck 
+- [ ] Zeichnung mit Dreieck nochmal 
 - [ ] Selfie Stick Kaufen 
 - [ ] Heizkissen testen 
 - [ ] Nachtlichter Testen 
