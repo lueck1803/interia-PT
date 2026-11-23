@@ -313,6 +313,8 @@
 - [ ] Fotos von tafel
 - [ ] Heizkissen testen 
 - [ ] Nachtlichter Testen 
+- [ ] Versuche mit Materialien testen
+	- [ ] 
 - [ ] Spülmaschine ausräumen
 - [x] Zeug löschen 
 - [ ] 30° Wäsche mit Decken
