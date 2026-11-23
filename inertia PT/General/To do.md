@@ -313,7 +313,8 @@
 - [ ] Fotos von tafel
 - [ ] AOK 
 - [ ] Protokoll 
-- [ ] ebay Nachricht lesen 
+- [ ] ebay Nachricht lesen
+- [ ] Essen
 - [ ] Selfie Stick Kaufen 
 - [ ] Heizkissen testen 
 - [ ] Nachtlichter Testen 
