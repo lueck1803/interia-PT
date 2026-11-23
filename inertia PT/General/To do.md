@@ -313,8 +313,11 @@
 - [ ] Fotos von tafel
 - [ ] Heizkissen testen 
 - [ ] Nachtlichter Testen 
+- [ ] 1. Neues arbei5sbk
 - [ ] Versuche mit Materialien testen
-	- [ ] 
+	- [ ] Bas linial
+	- [ ] Glasstab 
+	- [ ] Tintenroller Hülle 
 - [ ] Spülmaschine ausräumen
 - [x] Zeug löschen 
 - [ ] 30° Wäsche mit Decken
