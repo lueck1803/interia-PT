@@ -29,7 +29,7 @@
 - [x] Toilettenpapier 
 - [ ] Röstzwiebeln 
 - [x] saft
-- [ ] Nachtlicht
+- [x] Nachtlicht
 - [x] Heizkissen
 - [x] Nussnougat 
 - [x] Hummus
