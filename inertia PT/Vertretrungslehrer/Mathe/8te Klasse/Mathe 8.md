@@ -175,6 +175,22 @@ ___
 
 # infos
 
+## Mathewettbewerb Infos:
+- Wann?: 
+	- Do 3.12. 
+	- 3.-4. Schulstunde
+- Wo?:
+	- im jeweiligen Klassenraum
+	- 8a - R10
+	- 8b - R09
+- Aufsicht:
+	- 8a: Herr Stühlinger
+	- 8b: Herr Walter
+- Dauer?:
+	- 90 min
+- 
+- 
+
 ## Mathewettbewerb Themen
     
 - Anteile (nur mit Brüchen, d.h, ohne Prozent)
@@ -241,10 +257,10 @@ ___
 		- $a^{3} + a^{3} \ne (a+a)^{3}$
 		- $a^{3} + a^{3} \ne (2a)^{3}$
 		- auch <font color="#ff0000">nicht</font> $(a+b)^{2}\ne a^{2} + b^{2}$
-		- insbesondere <font color="#ff0000">nicht</font> $(a+b)^{3}\ne a^{3} + b^{3}$
+		- insbesondere <font color="#ff0000">nicht</font> $(a+b)^{3}\ne a^{3} + b^{3}$ %% fold %%
 # Quersummenregel %% fold %%
-==Die Quersummenregel hilft dir zu prüfen, ob eine Zahl ohne Rest durch **3** oder **9** teilbar ist==. Du rechnest alle Ziffern der Zahl zusammen. Ist diese Quersumme durch 3 oder 9 teilbar, ist es die große Zahl auch.
-
+==Die Quersummenregel hilft dir zu prüfen, ob eine Zahl ohne Rest durch **3** oder **9** teilbar ist==. Du rechnest alle Ziffern der Zahl zusammen. Ist diese Quersumme durch 3 oder 9 teilbar, ist es die große Zahl auch. %% fold %%
+ %% fold %%
 So funktioniert die Regel
 
 - **Quersumme bilden:** Du addierst alle einzelnen Ziffern einer Zahl. Beispiel: Bei der Zahl 387 rechnest du 3 + 8 + 7 = 18.
