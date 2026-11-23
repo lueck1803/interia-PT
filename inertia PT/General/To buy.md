@@ -31,7 +31,7 @@
 - [x] saft
 - [ ] Hausschuhe
 - [ ] Nachtlicht
-- [ ] Heizkissen
+- [x] Heizkissen
 - [x] Nussnougat 
 - [x] Hummus
 - [x] Toast 
