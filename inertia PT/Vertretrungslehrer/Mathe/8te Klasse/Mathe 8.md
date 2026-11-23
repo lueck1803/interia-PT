@@ -2,7 +2,7 @@
 
 - [ ] Klassenarbeitstermine festlegen
 	- [ ] 8b Mathe
-		- [ ] GL 14/9 
+		- [ ] GL 14/9  %% fold %%
 		- [ ] Deutsch 18/9
 		- [ ] <font color="#ff0000">Vorschlag Mathe: Do 24.9.</font> <font color="#7cfc00">⟹ ist eingetragen</font>
 	- [ ] 8a Mathe
@@ -193,12 +193,12 @@ ___
 	- <u>Geodreieck</u>
 	- eventuell Lineal
 	- Bleistift
-	- Dokumentenechter Stift
+	- <font color="#548dd4">Dokumentenechter</font> Stift
 	- Trinkflasche (nach Kontrolle)
 - <font color="#ff0000">Nicht</font> dabei haben:
 	- Mäppchen (zumindest auf dem Tisch), auch kein durchsichtiges
 	- Zirkelhülle 
-	- eigenes <font color="#548dd4">Papier</font> ⟹ wird gestellt von der Schule
+	- eigenes <font color="#548dd4">Papier</font> ⟹<font color="#548dd4"> wird gestellt von der Schule</font>
 	- Uhren 
 	- Schmuck
 	- Taschenrechner
@@ -208,7 +208,9 @@ ___
 	- Toilettengänge werden auf der Arbeit dokumentiert
 	- extrem strikter Umgang mit Betrugsversuchen
 - Bearbeitung
-	- Insgesaa
+	- Insgesamt $\color{orange}48$ Punkte
+	- 8 Pflichtaufgaben, je 3 Punkte ⟹ $8\cdot 3={\color{orange}24}$
+	- 2 von 4 Wahlaufgaben, je 12 Punkte ⟹ $2\cdot 12=\color{orange}24$
 
 ## Mathewettbewerb Themen
     
