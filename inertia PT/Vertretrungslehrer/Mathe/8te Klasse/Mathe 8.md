@@ -188,8 +188,9 @@ ___
 	- 8b: Herr Walter
 - Dauer?:
 	- 90 min
-- 
-- 
+- Dabei haben:
+	- <u>Zirkel:</u> wichtige für bestimmte Dreieckskonstruktionen zB. 2025 B W4  b)
+	- Geodreieck
 
 ## Mathewettbewerb Themen
     

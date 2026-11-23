@@ -315,6 +315,7 @@
 - [ ] Protokoll 
 - [ ] ebay Nachricht lesen
 - [ ] Essen
+- [ ] mathewettbewerb A vom Stick schmeißen
 - [ ] Selfie Stick Kaufen 
 - [ ] Heizkissen testen 
 - [ ] Nachtlichter Testen 
