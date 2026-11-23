@@ -104,7 +104,20 @@ Kind regards
 Lukas Walter 
 # Nachrichten an Leute
 
-## 2026-11-23 frau
+## 2026-11-23 Frau Rohr 
+Frau Laumann hat mir bereits geantwortet. 
+
+Sie ist der Ansicht, dass Salma gerade wegen ihrer Wehemenz mit der sie vorgeht, ruhig bis zum HJ warten kann. 
+
+Salma meinte zwar, dass sie mir die Zeugnisse vorlegen könne, das glaube ich ihr gerne, aber das muss sie bei Frau Laumann machen. 
+
+Ich hatte da ja nie was dagegen, aber sie muss auch lernen, dass sie auf unsere Beruhigungen hört und den Prozessen vertraut bzw. Den Dingen ihren Lauf lässt. 
+
+Ich hege trotz ihres Auftretens keinen Groll. Sie hat sich ja unnötig aufgeregt.
+
+Ich sehe es aber auch so wie Regina, dass sie gerade wegen des Auftretens ruhig bis um HJ warten kann. 
+
+Sie muss definitiv noch lernen, dass man sich angemessen verhalten sollte, wenn man etwas möchte. 
 ## 2026-11-20 Nadine
 Nicht nur...
 
