@@ -29,7 +29,6 @@
 - [x] Toilettenpapier 
 - [ ] Röstzwiebeln 
 - [x] saft
-- [ ] Hausschuhe
 - [ ] Nachtlicht
 - [x] Heizkissen
 - [x] Nussnougat 
