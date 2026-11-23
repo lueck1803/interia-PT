@@ -501,7 +501,7 @@ Auf der Oberfläche des Fass lastest also ungefähr eine Masse von $21,6$ Tonnen
 	- Sanitär
 		- ![[../../../Pasted image 20260819013100.png]] %% fold %%
 	- Atmosphäre
-		- hier handelt es sich um ein Gas, was kompressibel ist. ja.... wasser und auch stahl ist kompressibel xD... 
+		- hier handelt es sich um ein Gas, was kompressibel ist. ja.... wasser und auch stahl ist kompressibel xD...  %% fold %%
 		- Aber unter den natürlich auftretenden Bedingungen hat das eine klar bemerkbaren effekt: exponential funktion - barometrische höhenformel
 	- Schiffe die Schwimmen %% fold %%
 		- archimedisches prinzip %% fold %%
