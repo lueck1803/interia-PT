@@ -306,6 +306,8 @@
 	- [ ] zusammen legen
 
 - [ ] Erklärung zur Punkt Spiegelung/Symmetrie 
+- [ ] Fotos von Bestimmungen für mw
+- [ ] fo zu ii s
 - [ ] Spülmaschine ausräumen
 - [x] Zeug löschen 
 - [ ] 30° Wäsche mit Decken
