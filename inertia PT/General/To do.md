@@ -307,25 +307,18 @@
 
 
 - [ ] <font color="#e36c09">Mein Unterrichteinträge</font>
-- [x] Erklärung zur Punkt Spiegelung/Symmetrie 
-- [x] Fotos von Bestimmungen für mw
 - [ ] Fotos von tafel physik
 - [ ] AOK 
 - [ ] Protokoll 
-- [x] ebay Nachricht lesen 
-- [x] Zeichnung mit Dreieck nochmal 
 - [ ] Essen
-- [x] mathewettbewerb A vom Stick schmeißen
 - [ ] Selfie Stick Kaufen 
 - [ ] Heizkissen testen 
-- [x] Nachtlichter Testen 
 - [ ] 1. Neues Arbeitsblatt für Physik 10
 - [ ] Versuche mit Materialien testen
 	- [ ] Bas linial
 	- [ ] Glasstab 
 	- [ ] Tintenroller Hülle 
 - [ ] Spülmaschine ausräumen
-- [x] Zeug löschen 
 - [ ] 30° Wäsche mit Decken
 	- [x] anstellen 
 	- [x] schleudern 
@@ -393,7 +386,6 @@
 	- [ ] Leiter und nicht Leiter 
 	- [ ] Schulvideos zur Ladungstrennung anschauen 
 - [ ] Hausaufgabe für Physik 
-- [x] shortened links checken
 - [ ] richtigen Knoten um Löffel machen 
 - [ ] Name auf Klingel 
 - [ ] 30° Wäsche
@@ -491,9 +483,9 @@
 		- Saif
 		- Probleme mit mason
 		- Brezel 
-		- 8 Kinder
-	- Handy-Problematik
-- [ ] Entwicklungsgespräche Mittwoch eintragen die mir Nicole genannt hat 
+		- 8 Kinder %% fold %%
+	- Handy-Problematik %% fold %%
+- [ ] Entwicklungsgespräche Mittwoch eintragen die mir Nicole genannt hat  %% fold %%
  %% fold %%
 - [x] Email von HNO lesen  %% fold %%
 	- [ ] Mo. 30.11.2026  um 15:00 
