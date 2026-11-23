@@ -306,6 +306,7 @@
 	- [ ] zusammen legen
 
 - [ ] Eimer für 8a
+- [ ] schraube oder draht für den Zirkel der 8a
 - [ ] Pfeffer auffüllen
 - [ ] <font color="#e36c09">Mein Unterrichteinträge</font>
 - [ ] Fotos von tafel physik
