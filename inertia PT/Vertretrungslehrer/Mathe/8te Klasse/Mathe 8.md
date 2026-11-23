@@ -188,9 +188,18 @@ ___
 	- 8b: Herr Walter
 - Dauer?:
 	- 90 min
-- Dabei haben:
-	- <u>Zirkel:</u> wichtige für bestimmte Dreieckskonstruktionen zB. 2025 B W4  b)
-	- Geodreieck
+- <font color="#7cfc00">Dabei haben</font> (am Platz):
+	- <u>Zirkel:</u> (ohne Hülle) wichtige für bestimmte Dreieckskonstruktionen zB. 2025 B W4  b)
+	- <u>Geodreieck</u>
+	- eventuell Lineal
+	- Bleistift
+	- Dokumentenechter Stift
+- <font color="#ff0000">Nicht</font> dabei haben:
+	- Mäppchen (zumindest auf dem Tisch)
+	- Zirkelhülle 
+	- eigenes Papier ⟹ wird gestellt von der Schule
+	- Jacken und Taschen werden gesammelt
+- Toilettengänge werden 
 
 ## Mathewettbewerb Themen
     
