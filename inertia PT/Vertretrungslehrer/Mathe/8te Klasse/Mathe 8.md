@@ -174,6 +174,9 @@ ___
 - [ ] nächstes mal sagen handy mit display auf den Tisch legen
 
 # infos
+- Mathewettbewerb Bestimmungen:
+	- Ihr müsst alle Aufgaben die mit einem **P** für **Pflichtaufgabe** benannt und **2 von 4** Aufgaben die mit einem **W** für **Wahlaufgabe** markiert sind bearbeiten.
+	- Insgesamt sind **48 Punkte** erreichbar
 
 ## Mathewettbewerb Infos:
 - Wann?: 
@@ -254,6 +257,17 @@ ___
 - Sofiia wollte wechseln 
 - Ranya ist noch nicht geklärt. 
 
+# Teilbarkeitsregeln 
+- <u>Endziffernregeln</u>
+	- **Durch 2:** Die letzte Ziffer ist gerade (**0, 2, 4, 6, 8**). Beispiel: _48_.
+	- **Durch 4:** Die letzten zwei Ziffern bilden eine durch 4 teilbare Zahl (oder **00**). Beispiel: _376_ (76 : 4 = 19).
+	- **Durch 5:** Die letzte Ziffer ist **0 oder 5**. Beispiel: _4130_.
+	- **Durch 8:** Die letzten drei Ziffern bilden eine durch 8 teilbare Zahl (oder **000**). Beispiel: _5624_ (624 : 8 = 78).
+	- **Durch 10:** Die letzte Ziffer ist **0**. Beispiel: _3470_.
+- <u>Quersummen und Kombinationen</u>
+	- **Durch 3:** Die Quersumme (Summe aller Ziffern) ist durch 3 teilbar. Beispiel: _123_ → 1 + 2 + 3 = 6.
+	- **Durch 6:** Die Zahl ist **durch 2 und durch 3** teilbar (gerade und Quersumme durch 3 teilbar). Beispiel: _72_.
+	- **Durch 9:** Die Quersumme ist durch 9 teilbar. Beispiel: _738_ → 7 + 3 + 8 = 18. 
 # Potenzgesetze
 -  wie kann man einen Bruch mit einer Potenz darstellen?
 - $\frac{1}{5}=5^{-1}$
@@ -269,7 +283,7 @@ ___
 	- $a^{1/3}=\sqrt[3]{ a }$
 	- $a^{-1/2}=\frac{1}{\sqrt{ a }}$
 - Additon böse... xD ⟹ binomische Formeln
-	- das ist ok: $a^{3} + a^{3} = 2(a^{3})=2a^{3}$
+	- das ist ok: $a^{3} + a^{3} = 2(a^{3})=2a^{3}$ %% fold %%
 	-  $a^{3} + a^{3}  + a^{3}+ a^{3}+ a^{3} = 5(a^{3})=5a^{3}$
 	- <u>Beachte</u>
 		- gleiche Potenz und gleiche Basis
@@ -290,9 +304,9 @@ So funktioniert die Regel
 
 - **Teilbarkeit durch 9:** Wenn die Quersumme durch 9 teilbar ist, ist die ganze Zahl durch 9 teilbar (18 : 9 = 2, also ist 387 auch durch 9 teilbar).
 # Wiederholung Bruchrechnung
-
+ %% fold %%
 Was sind die rationalen Zahlen?
-$$
+$$ %% fold %%
 \mathbb{Q}=\left\{ \frac{p}{q}:p,q\in\mathbb{Z} \text{ und } q\ne 0 \right\} 
 $$
 Addition, Subtraktion, Multiplikation und Division von Brüchen an schreiben

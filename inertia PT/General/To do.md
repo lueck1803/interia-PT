@@ -305,7 +305,7 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
-- [ ] Pfeffer auffüllenkk
+- [ ] Pfeffer auffüllen
 - [ ] <font color="#e36c09">Mein Unterrichteinträge</font>
 - [ ] Fotos von tafel physik
 - [ ] AOK 
@@ -328,20 +328,7 @@
 	- [x] aufhängen 
 	- [ ] zusammen legen
 
-- Mathewettbewerb Bestimmungen:
-	- Ihr müsst alle Aufgaben die mit einem **P** für **Pflichtaufgabe** benannt und **2 von 4** Aufgaben die mit einem **W** für **Wahlaufgabe** markiert sind bearbeiten.
-	- Insgesamt sind **48 Punkte** erreichbar
-- [ ] Teilbarkeitsregeln 
-	- <u>Endziffernregeln</u>
-		- **Durch 2:** Die letzte Ziffer ist gerade (**0, 2, 4, 6, 8**). Beispiel: _48_.
-		- **Durch 4:** Die letzten zwei Ziffern bilden eine durch 4 teilbare Zahl (oder **00**). Beispiel: _376_ (76 : 4 = 19).
-		- **Durch 5:** Die letzte Ziffer ist **0 oder 5**. Beispiel: _4130_.
-		- **Durch 8:** Die letzten drei Ziffern bilden eine durch 8 teilbare Zahl (oder **000**). Beispiel: _5624_ (624 : 8 = 78).
-		- **Durch 10:** Die letzte Ziffer ist **0**. Beispiel: _3470_.
-	- <u>Quersummen und Kombinationen</u>
-		- **Durch 3:** Die Quersumme (Summe aller Ziffern) ist durch 3 teilbar. Beispiel: _123_ → 1 + 2 + 3 = 6.
-		- **Durch 6:** Die Zahl ist **durch 2 und durch 3** teilbar (gerade und Quersumme durch 3 teilbar). Beispiel: _72_.
-		- **Durch 9:** Die Quersumme ist durch 9 teilbar. Beispiel: _738_ → 7 + 3 + 8 = 18. 
+
 - [ ] wie wähle ich am mac Vorschläge im terminal aus
 	- [ ] Mit "⌃ + ⇥"  
 - [ ] usb Kabel bestellen vielleicht auch ein Ladegerät 
@@ -475,7 +462,7 @@
 	- [ ] schwimmer
 	- [ ] pascalsches Prinzip 
 	- [ ] kommunizierende röhren (gibt's was in der Sammlung?) oder ich male ein Bild 
-- [ ] waage ein packen
+- [ ] waage ein packen %% fold %%
 - [ ] Versuch überlegen mit Archimedes 
 	- [ ] veritasium Video schauen 
 - Zielscheibe plus Zielvereinbarung Protokoll 
