@@ -313,6 +313,7 @@
 - [ ] Fotos von tafel
 - [ ] AOK 
 - [ ] Protokoll 
+- [ ] ebay Nachricht lesen 
 - [ ] Heizkissen testen 
 - [ ] Nachtlichter Testen 
 - [ ] 1. Neues Arbeitsblatt für Physik 10
