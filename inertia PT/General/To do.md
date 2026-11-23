@@ -307,7 +307,7 @@
 
 
 - [ ] <font color="#e36c09">Mein Unterrichteinträge</font>
-- [ ] Erklärung zur Punkt Spiegelung/Symmetrie 
+- [x] Erklärung zur Punkt Spiegelung/Symmetrie 
 - [ ] Fotos von Bestimmungen für mw
 	- [ ] 8a
 - [ ] Fotos von tafel
