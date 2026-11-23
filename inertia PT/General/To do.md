@@ -305,9 +305,12 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
+
+- [ ] <font color="#e36c09">Mein Unterrichteinträge</font>
 - [ ] Erklärung zur Punkt Spiegelung/Symmetrie 
 - [ ] Fotos von Bestimmungen für mw
-- [ ] fo zu ii s
+	- [ ] 8a
+- [ ] Fotos von tafel
 - [ ] Spülmaschine ausräumen
 - [x] Zeug löschen 
 - [ ] 30° Wäsche mit Decken
@@ -345,7 +348,6 @@
 - [ ] Fußabstreifer saugen 
 - [ ] Nasenhaare 
 - [ ] Spaziergang 
-- [ ] <font color="#e36c09">Mein Unterrichteinträge</font>
 - [ ] To-do sortieren
 - [ ] AOK 
 - [ ] Protokoll 
