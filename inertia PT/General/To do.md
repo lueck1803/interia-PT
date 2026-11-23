@@ -129,7 +129,7 @@
 - frische Luft %% fold %%
 - mich und mein Leben im Griff haben %% fold %%
  %% fold %%
-## japanische 1-Minutenregel
+## japanische 1-Minutenregel %% fold %%
 ### 1 - Kaizen
 - <font color="#7cfc00">jeden Tag ein kleiner Schritt </font>
 - wortwörtlich: Veränderung zum Besseren 
@@ -310,10 +310,12 @@
 - [ ] Fotos von tafel physik
 - [ ] AOK 
 - [ ] Protokoll 
-- [x] Essen
 - [ ] Selfie Stick Kaufen 
+- [ ] Teilbarkeitsregeln rüber schieben 
+- [x] Essen
 - [x] Heizkissen testen 
 	- sehr toll 😭
+	- so ein wunderbar tolles Heizkissen 
 - [ ] 1. Neues Arbeitsblatt für Physik 10
 - [ ] Versuche mit Materialien testen
 	- [ ] Bas linial
