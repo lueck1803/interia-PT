@@ -194,12 +194,21 @@ ___
 	- eventuell Lineal
 	- Bleistift
 	- Dokumentenechter Stift
+	- Trinkflasche (nach Kontrolle)
 - <font color="#ff0000">Nicht</font> dabei haben:
-	- Mäppchen (zumindest auf dem Tisch)
+	- Mäppchen (zumindest auf dem Tisch), auch kein durchsichtiges
 	- Zirkelhülle 
-	- eigenes Papier ⟹ wird gestellt von der Schule
-	- Jacken und Taschen werden gesammelt
-- Toilettengänge werden 
+	- eigenes <font color="#548dd4">Papier</font> ⟹ wird gestellt von der Schule
+	- Uhren 
+	- Schmuck
+	- Taschenrechner
+	- Formelsammlung
+	- Jacken und Taschen werden am Eingang gesammelt 
+- Durchführung
+	- Toilettengänge werden auf der Arbeit dokumentiert
+	- extrem strikter Umgang mit Betrugsversuchen
+- Bearbeitung
+	- Insgesaa
 
 ## Mathewettbewerb Themen
     
