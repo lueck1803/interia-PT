@@ -311,6 +311,8 @@
 - [ ] Fotos von Bestimmungen für mw
 	- [ ] 8a
 - [ ] Fotos von tafel
+- [ ] Heizkissen testen 
+- [ ] Nachtlichter Testen 
 - [ ] Spülmaschine ausräumen
 - [x] Zeug löschen 
 - [ ] 30° Wäsche mit Decken
