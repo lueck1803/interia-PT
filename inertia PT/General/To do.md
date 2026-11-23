@@ -314,6 +314,7 @@
 - [ ] AOK 
 - [ ] Protokoll 
 - [ ] ebay Nachricht lesen 
+- [ ] Selfie Stick Kaufen 
 - [ ] Heizkissen testen 
 - [ ] Nachtlichter Testen 
 - [ ] 1. Neues Arbeitsblatt für Physik 10
