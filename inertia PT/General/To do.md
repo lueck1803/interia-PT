@@ -305,7 +305,7 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
-
+- [ ] staubsaugen 
 - [ ] Amazon 
 	- [ ] usb Kabel bestellen vielleicht auch ein Ladegerät 
 	- [ ] Sonnentau 
