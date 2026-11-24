@@ -305,6 +305,9 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
+- [ ] Esstisch wischen
+- [ ] Video mit magdeburger halbkugeln schneiden
+- [ ] in welchem raum in int gebäude gibts waschbecken
 - [ ] carnivorenwasser 
 - [ ] carnivoren gießen 
 - [ ] Video mit zwei Luftballons 
