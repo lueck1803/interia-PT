@@ -305,6 +305,7 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
+- [ ] doch noch ein hdmi Kabel bestellen 
 - [ ] staubsaugen 
 - [ ] Amazon 
 	- [ ] usb Kabel bestellen vielleicht auch ein Ladegerät 
@@ -494,7 +495,7 @@
 - [ ] Versuch überlegen mit Archimedes 
 	- [ ] veritasium Video schauen 
 - Zielscheibe plus Zielvereinbarung Protokoll  %% fold %%
-	- In der Klasse ab 9 Uhr
+	- In der Klasse ab 9 Uhr %% fold %%
 	- Im Besprechungsraum
 	- Und saif 8:15 - 8:30
 		- Mit Bruder
