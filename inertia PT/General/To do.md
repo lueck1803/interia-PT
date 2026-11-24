@@ -486,7 +486,7 @@
 - [ ] waage ein packen %% fold %%
 - [ ] Versuch überlegen mit Archimedes 
 	- [ ] veritasium Video schauen 
-- Zielscheibe plus Zielvereinbarung Protokoll 
+- Zielscheibe plus Zielvereinbarung Protokoll  %% fold %%
 	- In der Klasse ab 9 Uhr
 	- Im Besprechungsraum
 	- Und saif 8:15 - 8:30
