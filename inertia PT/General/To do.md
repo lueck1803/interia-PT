@@ -305,6 +305,10 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
+
+- [ ] unbedingt Aufgabe online stellen 10er
+- [ ] und Bestimmungen für Spickzettel 
+- [ ] liftball
 - [ ] Glasrohr sägen
 - [ ] Bandstruktur in nicht Leitern 
 - [ ] valenzband Leitungsband
