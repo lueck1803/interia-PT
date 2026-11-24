@@ -306,7 +306,7 @@
 	- [ ] zusammen legen
 
 - [ ] Bandstruktur in nicht Leitern 
-- [ ] 
+- [ ] valenzband Leitungsband
 - [ ] Eimer für 8a
 - [ ] schraube oder draht für den Zirkel der 8a
 - [ ] Pfeffer auffüllen
