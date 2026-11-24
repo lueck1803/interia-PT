@@ -495,7 +495,7 @@ Auf der Oberfläche des Fass lastest also ungefähr eine Masse von $21,6$ Tonnen
 		- $p(h)=p_{0}+\rho \cdot g\cdot h$
 		- Beim Bau von Staudämmen
 	- Medizin:
-		- Blutdruck
+		- Blutdruck %% fold %%
 		- Herzkreislauf %% fold %%
 		- ![[../../../Pasted image 20260819012752.png]]
 	- Sanitär
