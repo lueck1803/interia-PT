@@ -306,6 +306,11 @@
 	- [ ] zusammen legen
 
 
+- [ ] Amazon 
+	- [ ] usb Kabel bestellen vielleicht auch ein Ladegerät 
+	- [ ] Sonnentau 
+	- [ ] Venusfliegenfalle 
+	- [ ] Selfie Stick Kaufen 
 - [ ] gelbe Paprika verarbeiten 
 - [ ] rasieren 
 - [ ] Essen
@@ -332,7 +337,6 @@
 - [ ] Fotos von tafel physik
 - [ ] AOK 
 - [ ] Protokoll 
-- [ ] Selfie Stick Kaufen 
 - [ ] Teilbarkeitsregeln rüber schieben 
 - [x] Heizkissen testen 
 	- sehr toll 😭
@@ -352,7 +356,6 @@
 
 - [ ] wie wähle ich am mac Vorschläge im terminal aus
 	- [ ] Mit "⌃ + ⇥"  
-- [ ] usb Kabel bestellen vielleicht auch ein Ladegerät 
 - [ ] HDMI Kabel in Rucksack packen 
 - [ ] Wissenssammlung in Lerntagebuch umbenennen 
 	- [ ] Beschreibung nach unten schieben
