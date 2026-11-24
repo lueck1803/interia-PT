@@ -305,6 +305,8 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
+
+- [ ] gelbe Paprika vera
 - [ ] Essen
 - [ ] Ceranfeld wischen
 - [ ] Nudeln kochen
