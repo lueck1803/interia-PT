@@ -323,13 +323,13 @@
 - [ ] Meditation 
 - [ ] mac usbc hub mit bildschirm am pc ausprobieren 
 	- liegt es am usbc hub?
-- [ ] Esstisch wischen
+- [x] Esstisch wischen
 - [ ] Video mit magdeburger halbkugeln schneiden
 - [ ] in welchem raum in int gebäude gibts waschbecken
-- [ ] carnivorenwasser 
-- [ ] carnivoren gießen 
+- [x] carnivorenwasser 
+- [x] carnivoren gießen 
 - [ ] Video mit zwei Luftballons 
-- [ ] unbedingt Aufgabe online stellen 10er
+- [x] unbedingt Aufgabe online stellen 10er
 - [ ] und Bestimmungen für Spickzettel 
 - [ ] Luftballons verbunden über Strohhalm klappt. Besser abdichten und roten Luftballon besser aufblasen 
 - [ ] Glasrohr sägen
@@ -337,18 +337,18 @@
 - [ ] valenzband Leitungsband
 - [ ] Eimer für 8a
 - [ ] schraube oder draht für den Zirkel der 8a
-- [ ] Pfeffer auffüllen
+- [x] Pfeffer auffüllen
 - [ ] <font color="#e36c09">Mein Unterrichteinträge</font>
 - [ ] Fotos von tafel physik
 - [ ] AOK 
 - [ ] Protokoll 
-- [ ] Teilbarkeitsregeln rüber schieben 
+- [x] Teilbarkeitsregeln rüber schieben 
 - [x] Heizkissen testen 
 	- sehr toll 😭
 	- so ein wunderbar tolles Heizkissen 
 - [ ] 1. Neues Arbeitsblatt für Physik 10
 - [ ] Versuche mit Materialien testen
-	- [ ] Bas linial
+	- [ ] Bas lineal
 	- [ ] Glasstab 
 	- [ ] Tintenroller Hülle 
 - [x] Spülmaschine ausräumen
