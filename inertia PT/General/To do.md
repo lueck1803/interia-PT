@@ -306,7 +306,7 @@
 	- [ ] zusammen legen
 
 
-- [ ] gelbe Paprika vera
+- [ ] gelbe Paprika verarbeiten 
 - [ ] Essen
 - [ ] Ceranfeld wischen
 - [ ] Nudeln kochen
