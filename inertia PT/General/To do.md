@@ -305,6 +305,7 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
+- [ ] Glasrohr sägen
 - [ ] Bandstruktur in nicht Leitern 
 - [ ] valenzband Leitungsband
 - [ ] Eimer für 8a
