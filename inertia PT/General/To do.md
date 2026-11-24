@@ -316,6 +316,10 @@
 - [ ] Essen
 - [ ] Ceranfeld wischen
 - [ ] Nudeln kochen
+- [ ] Nudeln austragen 
+- [ ] Krafttraining 
+- [ ] Yoga 
+- [ ] Meditation 
 - [ ] mac usbc hub mit bildschirm am pc ausprobieren 
 	- liegt es am usbc hub?
 - [ ] Esstisch wischen
