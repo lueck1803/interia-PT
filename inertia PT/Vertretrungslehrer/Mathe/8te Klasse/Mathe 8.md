@@ -487,7 +487,7 @@ $=\frac{16-21}{6} +\frac{13}{5}$\\
 
 $= \frac{-5\cdot {\color{cyan}5}+13\cdot \color{orange}6}{30}$\\
 
-$=\frac{-25+78}{30}=\frac{53}{30}=1,7\overline{6}$
+$=\frac{-25+78}{30}=\frac{53}{30}=1,7\overline{6}$ %% fold %%
 
 ---
 
