@@ -314,10 +314,10 @@
 	- [ ] Selfie Stick Kaufen 
 - [ ] gelbe Paprika verarbeiten 
 - [ ] rasieren 
-- [ ] Essen
-- [ ] Ceranfeld wischen
-- [ ] Nudeln kochen
-- [ ] Nudeln austragen 
+- [x] Essen
+- [x] Ceranfeld wischen
+- [x] Nudeln kochen
+- [x] Nudeln austragen 
 - [ ] Krafttraining 
 - [ ] Yoga 
 - [ ] Meditation 
