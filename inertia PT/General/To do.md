@@ -305,7 +305,9 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
-
+- [ ] carnivorenwasser 
+- [ ] carnivoren gießen 
+- [ ] Video mit zwei Luftballons 
 - [ ] unbedingt Aufgabe online stellen 10er
 - [ ] und Bestimmungen für Spickzettel 
 - [ ] Luftballons verbunden über Strohhalm klappt. Besser abdichten und roten Luftballon besser aufblasen 
