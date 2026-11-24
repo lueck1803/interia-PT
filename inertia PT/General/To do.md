@@ -307,6 +307,7 @@
 
 
 - [ ] gelbe Paprika verarbeiten 
+- [ ] rasieren 
 - [ ] Essen
 - [ ] Ceranfeld wischen
 - [ ] Nudeln kochen
