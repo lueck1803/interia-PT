@@ -305,6 +305,11 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
+- [ ] Essen
+- [ ] Ceranfeld wischen
+- [ ] Nudeln kochen
+- [ ] mac usbc hub mit bildschirm am pc ausprobieren 
+	- liegt es am usbc hub?
 - [ ] Esstisch wischen
 - [ ] Video mit magdeburger halbkugeln schneiden
 - [ ] in welchem raum in int gebäude gibts waschbecken
