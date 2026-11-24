@@ -308,7 +308,7 @@
 
 - [ ] unbedingt Aufgabe online stellen 10er
 - [ ] und Bestimmungen für Spickzettel 
-- [ ] liftball
+- [ ] Luftballons verbunden über Strohhalm klappt. Besser abdichten und roten Luftballon besser aufblasen 
 - [ ] Glasrohr sägen
 - [ ] Bandstruktur in nicht Leitern 
 - [ ] valenzband Leitungsband
