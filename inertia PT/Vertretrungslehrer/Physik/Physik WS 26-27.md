@@ -332,6 +332,24 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 
 ![[../../../Pasted image 20261117184525.png]]![[../../../Pasted image 20261117184508.png]]
 
+$$
+\vec{M}=\vec{r}\times \vec{F}=- \vec{r}\times \vec{F}=|r|\cdot |F| \sin(\alpha) = \begin{pmatrix}
+r_{x}  \\
+r_{y} \\
+r_{z}  \\
+\end{pmatrix}
+\times
+\begin{pmatrix}
+F_{x} \\
+F_{y} \\
+F_{z}
+\end{pmatrix}
+=\begin{pmatrix}
+r_{y}\cdot F_{z}-r_{z}\cdot F_{y} \\
+r_{z}\cdot F_{z}-r_{z}\cdot F_{y} \\
+r_{y}\cdot F_{z}-r_{z}\cdot F_{y} \\
+\end{pmatrix}
+$$
 ## 2026-11-25 Magdeburger Halbkugeln (Gemini)
 Bei den Magdeburger Halbkugeln ist die effektive Fläche in Zugrichtung nicht die gekrümmte Oberfläche der Halbkugel, sondern die  [Beginn der Markierung] ebene Kreisquerschnittsfläche (A = π ⋅ r²) [Ende der Markierung] , die vom Dichtungsring eingeschlossen wird. Wikipedia +11. Kräfteverteilung auf der KugeloberflächeDer äußere Luftdruck \[p_{\text{außen}}\]⁠ wirkt überall senkrecht (radial nach innen) auf die gewölbte Oberfläche der Halbkugel. Jede dieser kleinen lokalen Druckkräfte \(\mathrm{d}\vec{F}\) lässt sich in zwei Komponenten zerlegen: Parallel zur Zugrichtung (axial): Diese Komponenten zeigen alle in dieselbe Richtung und drücken die beiden Halbkugeln direkt aufeinander. Senkrecht zur Zugrichtung (radial): Da die Halbkugel rotationssymmetrisch ist, gibt es zu jedem Flächenelement ein genau gegenüberliegendes Element, dessen senkrechte Kraftkomponente in die entgegengesetzte Richtung zeigt. Diese Kräfte heben sich gegenseitig vollständig auf. TeilenDownload2. Resultierende Kraft (\[F_{\text{res}}\]⁠)Durch die Aufhebung der seitlichen Kräfte reduziert sich die Integration über die gekrümmte Halbkugeloberfläche (2π r²) genau auf die Projektionsfläche senkrecht zur Zugrichtung – also die Kreisfläche \(A_{\text{eff}} = \pi \cdot r^2\): LEIFIphysik +1\[F_{\text{res}}=\Delta p\cdot A_{\text{eff}}=(p_{\text{außen}}-p_{\text{innen}})\cdot \pi \cdot r^{2}\]\[p_{\text{außen}}\]⁠: Umgebungsdruck (ca. 1013 hPa ≈ 101.300 N/m²).\[p_{\text{innen}}\]⁠: Restdruck im Inneren der evakuierten Kugel (bei idealem Vakuum 0 Pa).r: Innenradius am Dichtungsring. www.ulfkonrad.de +13. Mechanische Besonderheit beim ZiehenZiehen auf beiden Seiten Pferdegespanne oder Personen, verdoppelt sich die Trennkraft nicht. Nach dem Wechselwirkungsprinzip (Actio = Reactio) dient die zweite Seite lediglich als Gegenlager (wie eine feste Wand), um die Kugel an Ort und Stelle zu halten. Die Zugkraft auf einer Seite muss daher genau den Betrag der resultierenden Druckkraft \[F_{\text{res}}\]⁠ überwinden. WikipediaMöchtest du:Die mathematische Herleitung über das Oberflächenintegral in Kugelkoordinaten sehenEine konkrete Beispielrechnung mit bestimmten Maßen und Druckwerten durchführen.
 
@@ -508,11 +526,11 @@ Auf der Oberfläche des Fass lastest also ungefähr eine Masse von $21,6$ Tonnen
 		- ![[../../../Pasted image 20260819013100.png]] %% fold %%
 	- Atmosphäre
 		- hier handelt es sich um ein Gas, was kompressibel ist. ja.... wasser und auch stahl ist kompressibel xD...  %% fold %%
-		- Aber unter den natürlich auftretenden Bedingungen hat das eine klar bemerkbaren effekt: exponential funktion - barometrische höhenformel
+		- Aber unter den natürlich auftretenden Bedingungen hat das eine klar bemerkbaren effekt: exponential funktion - barometrische höhenformel %% fold %%
 	- Schiffe die Schwimmen %% fold %%
 		- archimedisches prinzip %% fold %%
 		- ![[../../../Pasted image 20260819012547.png]] %% fold %%
-		- ![[../../../Pasted image 20260819012601.png]]
+		- ![[../../../Pasted image 20260819012601.png]] %% fold %%
 		- ![[../../../Pasted image 20260819012618.png]]
 		- ![[../../../Pasted image 20260819012712.png]]
 	- Kommunizierende Röhren
