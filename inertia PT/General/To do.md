@@ -309,11 +309,12 @@
 - [ ] Zeichengeräte im Raum der 5a
 	- [ ] im mathefundus holen
 - [ ] Oxana Antworten 
-- [ ] zur Lösung der Magdeburger Halbkugeln noch ergänzen, dass sich die vektorpfeile über die Fläche aufaddieren, man also eine gesamtkraft aufbringen muss, die der Addition der Vektoren auf der Fläche entspricht 
-	- [ ] sind die kraftpfeile parallel zur zugrichtung wirklich über die Kreisfläche gleich 
-	- [ ] Bild Kräfte Parallelogramm ergänzen 
-	- [ ] https://www.leifiphysik.de/mechanik/druck-und-auftrieb/aufgabe/der-versuch-von-guericke
-	- [ ] https://www.google.com/search?q=effektive+fl%C3%A4che+zugrichtung+Magdeburger+Halbkugeln+Kr%C3%A4fteverteilung+resultierender+kraft&oq=effektive+fl%C3%A4che+zugrichtung+Magdeburger+Halbkugeln+Kr%C3%A4fteverteilung+resultierender+kraft&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTgwNDQ4ajBqN6gCFLACAfEFQbvVc80FDkc&client=ms-android-xiaomi-terr2-rso2&sourceid=chrome-mobile&source=chrome.ob&ie=UTF-8#lfId=ChxjMe
+- [x] zur Lösung der Magdeburger Halbkugeln noch ergänzen, dass sich die vektorpfeile über die Fläche aufaddieren, man also eine gesamtkraft aufbringen muss, die der Addition der Vektoren auf der Fläche entspricht 
+	- [x] sind die kraftpfeile parallel zur zugrichtung wirklich über die Kreisfläche gleich 
+	- [x] Bild Kräfte Parallelogramm ergänzen 
+	- [x] https://www.leifiphysik.de/mechanik/druck-und-auftrieb/aufgabe/der-versuch-von-guericke
+	- [x] https://www.google.com/search?q=effektive+fl%C3%A4che+zugrichtung+Magdeburger+Halbkugeln+Kr%C3%A4fteverteilung+resultierender+kraft&oq=effektive+fl%C3%A4che+zugrichtung+Magdeburger+Halbkugeln+Kr%C3%A4fteverteilung+resultierender+kraft&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTgwNDQ4ajBqN6gCFLACAfEFQbvVc80FDkc&client=ms-android-xiaomi-terr2-rso2&sourceid=chrome-mobile&source=chrome.ob&ie=UTF-8#lfId=ChxjMe
+	- [ ] den Teil mit dem winkel im Browser vom Laptop abspeichern 
 - [x] Aufgabe 2025 B w3 b) 2)
 - [x] Aufgabe 2023 B w2 d)
 - [ ] doch noch ein hdmi Kabel bestellen 
@@ -324,7 +325,7 @@
 	- [ ] Venusfliegenfalle 
 	- [ ] Selfie Stick Kaufen 
 - [ ] gelbe Paprika verarbeiten 
-- [ ] rasieren 
+- [x] rasieren 
 - [ ] Krafttraining 
 - [ ] Yoga 
 - [ ] Meditation 
