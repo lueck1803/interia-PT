@@ -308,6 +308,7 @@
 - [ ] Oxana Antworten 
 - [ ] zur Lösung der Magdeburger Halbkugeln noch ergänzen, dass sich die vektorpfeile über die Fläche aufaddieren, man also eine gesamtkraft aufbringen muss, die der Addition der Vektoren auf der Fläche entspricht 
 	- [ ] sind die kraftpfeile parallel zur zugrichtung wirklich über die Kreisfläche gleich 
+	- [ ] Bild kräftepael
 - [ ] Aufgabe 2025 B w3 b) 2)
 - [ ] Aufgabe 2023 B w2 d)
 - [ ] doch noch ein hdmi Kabel bestellen 
