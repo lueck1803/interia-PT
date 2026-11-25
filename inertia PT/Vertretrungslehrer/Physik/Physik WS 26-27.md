@@ -346,8 +346,8 @@ F_{z}
 \end{pmatrix}
 =\begin{pmatrix}
 r_{y}\cdot F_{z}-r_{z}\cdot F_{y} \\
-r_{z}\cdot F_{z}-r_{z}\cdot F_{y} \\
-r_{y}\cdot F_{z}-r_{z}\cdot F_{y} \\
+r_{z}\cdot F_{x}-r_{x}\cdot F_{z} \\
+r_{x}\cdot F_{y}-r_{y}\cdot F_{x} \\
 \end{pmatrix}
 $$
 ## 2026-11-25 Magdeburger Halbkugeln (Gemini)
