@@ -314,8 +314,8 @@
 	- [ ] Bild Kräfte Parallelogramm ergänzen 
 	- [ ] https://www.leifiphysik.de/mechanik/druck-und-auftrieb/aufgabe/der-versuch-von-guericke
 	- [ ] https://www.google.com/search?q=effektive+fl%C3%A4che+zugrichtung+Magdeburger+Halbkugeln+Kr%C3%A4fteverteilung+resultierender+kraft&oq=effektive+fl%C3%A4che+zugrichtung+Magdeburger+Halbkugeln+Kr%C3%A4fteverteilung+resultierender+kraft&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTgwNDQ4ajBqN6gCFLACAfEFQbvVc80FDkc&client=ms-android-xiaomi-terr2-rso2&sourceid=chrome-mobile&source=chrome.ob&ie=UTF-8#lfId=ChxjMe
-- [ ] Aufgabe 2025 B w3 b) 2)
-- [ ] Aufgabe 2023 B w2 d)
+- [x] Aufgabe 2025 B w3 b) 2)
+- [x] Aufgabe 2023 B w2 d)
 - [ ] doch noch ein hdmi Kabel bestellen 
 - [ ] staubsaugen 
 - [ ] Amazon 
