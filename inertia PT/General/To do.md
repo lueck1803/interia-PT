@@ -306,6 +306,7 @@
 	- [ ] zusammen legen
 
 - [ ] Ohrenstöpsel austauschen
+- [ ] Zeichengeräte im Raum der 5a
 - [ ] Oxana Antworten 
 - [ ] zur Lösung der Magdeburger Halbkugeln noch ergänzen, dass sich die vektorpfeile über die Fläche aufaddieren, man also eine gesamtkraft aufbringen muss, die der Addition der Vektoren auf der Fläche entspricht 
 	- [ ] sind die kraftpfeile parallel zur zugrichtung wirklich über die Kreisfläche gleich 
@@ -469,7 +470,7 @@
 - [ ] AOK 
 
 - [ ] Ceranfeld putzen 
-- [ ] Experimente einscannen 
+- [ ] Experimente einscannen  %% fold %%
 - [ ] Physik Experiment Beutel sortieren  %% fold %%
 	- [ ] die Aufhängung mit dem Löffel nochmal besser machen  %% fold %%
 		- [ ] besserer Knoten  %% fold %%
