@@ -336,11 +336,11 @@
 - [ ] Video mit zwei Luftballons 
 - [ ] und Bestimmungen für Spickzettel 
 - [ ] Luftballons verbunden über Strohhalm klappt. Besser abdichten und roten Luftballon besser aufblasen 
-- [ ] Glasrohr sägen
+- [x] Glasrohr sägen
 - [ ] Bandstruktur in nicht Leitern 
 - [ ] valenzband Leitungsband
 - [ ] Eimer für 8a
-- [ ] schraube oder draht für den Zirkel der 8a
+- [x] schraube oder draht für den Zirkel der 8a
 - [ ] <font color="#e36c09">Mein Unterrichteinträge</font>
 - [ ] Fotos von tafel physik
 - [ ] AOK 
