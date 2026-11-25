@@ -316,22 +316,14 @@
 	- [ ] Selfie Stick Kaufen 
 - [ ] gelbe Paprika verarbeiten 
 - [ ] rasieren 
-- [ ] Essen
-- [ ] Ceranfeld wischen
-- [ ] Nudeln kochen
-- [ ] Nudeln austragen 
 - [ ] Krafttraining 
 - [ ] Yoga 
 - [ ] Meditation 
 - [ ] mac usbc hub mit bildschirm am pc ausprobieren 
 	- liegt es am usbc hub?
-- [ ] Esstisch wischen
 - [ ] Video mit magdeburger halbkugeln schneiden
 - [ ] in welchem raum in int gebäude gibts waschbecken
-- [ ] carnivorenwasser 
-- [ ] carnivoren gießen 
 - [ ] Video mit zwei Luftballons 
-- [ ] unbedingt Aufgabe online stellen 10er
 - [ ] und Bestimmungen für Spickzettel 
 - [ ] Luftballons verbunden über Strohhalm klappt. Besser abdichten und roten Luftballon besser aufblasen 
 - [ ] Glasrohr sägen
@@ -339,21 +331,18 @@
 - [ ] valenzband Leitungsband
 - [ ] Eimer für 8a
 - [ ] schraube oder draht für den Zirkel der 8a
-- [ ] Pfeffer auffüllen
 - [ ] <font color="#e36c09">Mein Unterrichteinträge</font>
 - [ ] Fotos von tafel physik
 - [ ] AOK 
 - [ ] Protokoll 
-- [ ] Teilbarkeitsregeln rüber schieben 
 - [x] Heizkissen testen 
 	- sehr toll 😭
 	- so ein wunderbar tolles Heizkissen 
 - [ ] 1. Neues Arbeitsblatt für Physik 10
 - [ ] Versuche mit Materialien testen
-	- [ ] Bas linial
+	- [ ] Bas lineal
 	- [ ] Glasstab 
 	- [ ] Tintenroller Hülle 
-- [x] Spülmaschine ausräumen
 - [ ] 30° Wäsche mit Decken
 	- [x] anstellen 
 	- [x] schleudern 
@@ -376,11 +365,7 @@
 - [ ] Nasenhaare 
 - [ ] Spaziergang 
 - [ ] To-do sortieren
-
 - [ ] Briefkasten 
-- [ ] warum geht der wechsel zwischen den gleichen programmen in mac nicht
-
-
 
 
 
@@ -407,14 +392,6 @@
 	- [ ] Leiter und nicht Leiter 
 	- [ ] Schulvideos zur Ladungstrennung anschauen 
 - [ ] Hausaufgabe für Physik 
-- [ ] richtigen Knoten um Löffel machen 
-- [ ] Name auf Klingel 
-- [ ] 30° Wäsche
-	- [x] anstellen 
-	- [x] schleudern 
-	- [x] aufhängen 
-	- [ ] zusammen legen
-- [ ] blaue Jeans in die Wäsche 
 - [ ] als PDF exportieren und in hier gehts um mich Ordner packen und psychologie
 	- [ ] japanische 1-Minutenregel 
 	- [ ] Laotze 
@@ -486,13 +463,13 @@
 
 - [ ] Ceranfeld putzen 
 - [ ] Experimente einscannen 
-- [ ] Physik Experiment Beutel sortieren 
-	- [ ] die Aufhängung mit dem Löffel nochmal besser machen 
-		- [ ] besserer Knoten 
-- [ ] Zeug basteln 
+- [ ] Physik Experiment Beutel sortieren  %% fold %%
+	- [ ] die Aufhängung mit dem Löffel nochmal besser machen  %% fold %%
+		- [ ] besserer Knoten  %% fold %%
+- [ ] Zeug basteln  %% fold %%
 	- [ ] schwimmer
-	- [ ] pascalsches Prinzip 
-	- [ ] kommunizierende röhren (gibt's was in der Sammlung?) oder ich male ein Bild 
+	- [ ] pascalsches Prinzip  %% fold %%
+	- [ ] kommunizierende röhren (gibt's was in der Sammlung?) oder ich male ein Bild  %% fold %%
 - [ ] waage ein packen %% fold %%
 - [ ] Versuch überlegen mit Archimedes  %% fold %%
 	- [ ] veritasium Video schauen  %% fold %%
