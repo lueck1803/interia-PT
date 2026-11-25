@@ -305,6 +305,7 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
+- [ ] Oxana Antworten 
 - [ ] Aufgabe 2025 B w3 b) 2)
 - [ ] Aufgabe 2023 B w2 d)
 - [ ] doch noch ein hdmi Kabel bestellen 
