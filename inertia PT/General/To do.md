@@ -305,6 +305,8 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
+- [ ] Aufgabe 2025 B w3 b) 2)
+- [ ] Aufgabe 2023 B w2 d)
 - [ ] doch noch ein hdmi Kabel bestellen 
 - [ ] staubsaugen 
 - [ ] Amazon 
@@ -492,8 +494,8 @@
 	- [ ] pascalsches Prinzip 
 	- [ ] kommunizierende röhren (gibt's was in der Sammlung?) oder ich male ein Bild 
 - [ ] waage ein packen %% fold %%
-- [ ] Versuch überlegen mit Archimedes 
-	- [ ] veritasium Video schauen 
+- [ ] Versuch überlegen mit Archimedes  %% fold %%
+	- [ ] veritasium Video schauen  %% fold %%
 - Zielscheibe plus Zielvereinbarung Protokoll  %% fold %%
 	- In der Klasse ab 9 Uhr %% fold %%
 	- Im Besprechungsraum
