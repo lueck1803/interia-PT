@@ -333,7 +333,7 @@ Im Unterschied zum Kräftegleichgewicht wirken die beiden Kräfte $\vec{F}_{A\to
 ![[../../../Pasted image 20261117184525.png]]![[../../../Pasted image 20261117184508.png]]
 
 $$
-\vec{M}=\vec{r}\times \vec{F}=- \vec{r}\times \vec{F}=|r|\cdot |F| \sin(\alpha) = \begin{pmatrix}
+\vec{M}=\vec{r}\times \vec{F}=- \vec{r}\times \vec{F}=|\vec{r}|\cdot |\vec{F}| \sin(\alpha) \cdot \vec{n}= \begin{pmatrix}
 r_{x}  \\
 r_{y} \\
 r_{z}  \\
