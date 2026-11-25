@@ -309,14 +309,6 @@
 - [ ] Zeichengeräte im Raum der 5a
 	- [ ] im mathefundus holen
 - [ ] Oxana Antworten 
-- [x] zur Lösung der Magdeburger Halbkugeln noch ergänzen, dass sich die vektorpfeile über die Fläche aufaddieren, man also eine gesamtkraft aufbringen muss, die der Addition der Vektoren auf der Fläche entspricht 
-	- [x] sind die kraftpfeile parallel zur zugrichtung wirklich über die Kreisfläche gleich 
-	- [x] Bild Kräfte Parallelogramm ergänzen 
-	- [x] https://www.leifiphysik.de/mechanik/druck-und-auftrieb/aufgabe/der-versuch-von-guericke
-	- [x] https://www.google.com/search?q=effektive+fl%C3%A4che+zugrichtung+Magdeburger+Halbkugeln+Kr%C3%A4fteverteilung+resultierender+kraft&oq=effektive+fl%C3%A4che+zugrichtung+Magdeburger+Halbkugeln+Kr%C3%A4fteverteilung+resultierender+kraft&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTgwNDQ4ajBqN6gCFLACAfEFQbvVc80FDkc&client=ms-android-xiaomi-terr2-rso2&sourceid=chrome-mobile&source=chrome.ob&ie=UTF-8#lfId=ChxjMe
-	- [ ] den Teil mit dem winkel im Browser vom Laptop abspeichern 
-- [x] Aufgabe 2025 B w3 b) 2)
-- [x] Aufgabe 2023 B w2 d)
 - [ ] doch noch ein hdmi Kabel bestellen 
 - [ ] staubsaugen 
 - [ ] Amazon 
@@ -325,7 +317,6 @@
 	- [ ] Venusfliegenfalle 
 	- [ ] Selfie Stick Kaufen 
 - [ ] gelbe Paprika verarbeiten 
-- [x] rasieren 
 - [ ] Krafttraining 
 - [ ] Yoga 
 - [ ] Meditation 
@@ -468,11 +459,11 @@
 	- [ ] soll mir Seine lösungen zeigen -> sauber aufschreiben
 	- [ ] Hilfe im Unterricht bei Mathe
 	- [ ] Hilfe um Anas, Anuar, Imad, yahya und auch Trae
-	- [ ] ⤷ mündlich von 3 auf 1 noch in diesem halbjahr
+	- [ ] ⤷ mündlich von 3 auf 1 noch in diesem halbjahr %% fold %%
 
 - [ ] AOK 
 
-- [ ] Ceranfeld putzen 
+- [ ] Ceranfeld putzen  %% fold %%
 - [ ] Experimente einscannen  %% fold %%
 - [ ] Physik Experiment Beutel sortieren  %% fold %%
 	- [ ] die Aufhängung mit dem Löffel nochmal besser machen  %% fold %%

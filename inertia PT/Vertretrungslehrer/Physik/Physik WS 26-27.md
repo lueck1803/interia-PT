@@ -354,7 +354,47 @@ $$
 Bei den Magdeburger Halbkugeln ist die effektive Fläche in Zugrichtung nicht die gekrümmte Oberfläche der Halbkugel, sondern die  [Beginn der Markierung] ebene Kreisquerschnittsfläche (A = π ⋅ r²) [Ende der Markierung] , die vom Dichtungsring eingeschlossen wird. Wikipedia +11. Kräfteverteilung auf der KugeloberflächeDer äußere Luftdruck \[p_{\text{außen}}\]⁠ wirkt überall senkrecht (radial nach innen) auf die gewölbte Oberfläche der Halbkugel. Jede dieser kleinen lokalen Druckkräfte \(\mathrm{d}\vec{F}\) lässt sich in zwei Komponenten zerlegen: Parallel zur Zugrichtung (axial): Diese Komponenten zeigen alle in dieselbe Richtung und drücken die beiden Halbkugeln direkt aufeinander. Senkrecht zur Zugrichtung (radial): Da die Halbkugel rotationssymmetrisch ist, gibt es zu jedem Flächenelement ein genau gegenüberliegendes Element, dessen senkrechte Kraftkomponente in die entgegengesetzte Richtung zeigt. Diese Kräfte heben sich gegenseitig vollständig auf. TeilenDownload2. Resultierende Kraft (\[F_{\text{res}}\]⁠)Durch die Aufhebung der seitlichen Kräfte reduziert sich die Integration über die gekrümmte Halbkugeloberfläche (2π r²) genau auf die Projektionsfläche senkrecht zur Zugrichtung – also die Kreisfläche \(A_{\text{eff}} = \pi \cdot r^2\): LEIFIphysik +1\[F_{\text{res}}=\Delta p\cdot A_{\text{eff}}=(p_{\text{außen}}-p_{\text{innen}})\cdot \pi \cdot r^{2}\]\[p_{\text{außen}}\]⁠: Umgebungsdruck (ca. 1013 hPa ≈ 101.300 N/m²).\[p_{\text{innen}}\]⁠: Restdruck im Inneren der evakuierten Kugel (bei idealem Vakuum 0 Pa).r: Innenradius am Dichtungsring. www.ulfkonrad.de +13. Mechanische Besonderheit beim ZiehenZiehen auf beiden Seiten Pferdegespanne oder Personen, verdoppelt sich die Trennkraft nicht. Nach dem Wechselwirkungsprinzip (Actio = Reactio) dient die zweite Seite lediglich als Gegenlager (wie eine feste Wand), um die Kugel an Ort und Stelle zu halten. Die Zugkraft auf einer Seite muss daher genau den Betrag der resultierenden Druckkraft \[F_{\text{res}}\]⁠ überwinden. WikipediaMöchtest du:Die mathematische Herleitung über das Oberflächenintegral in Kugelkoordinaten sehenEine konkrete Beispielrechnung mit bestimmten Maßen und Druckwerten durchführen.
 
 
+**Die scheinbare Abnahme der Kraft zum Rand hin wird dadurch exakt ausgeglichen, dass die gewölbte Kugeloberfläche zum Rand hin steiler abfällt und dort auf kleinerem Querschnitt viel mehr Fläche unterbringt.**
 
+---
+
+Der Ausgleich zwischen Winkel und Fläche
+
+Du hast völlig recht: Wenn man sich entlang des Radius von der Kugelmitte (Pol) zum Rand (Äquator) bewegt, nimmt die **Kraftkomponente parallel zur Zugrichtung** immer weiter ab. Gleichzeitig nimmt aber die **tatsächliche Oberfläche** pro kleinem Radius-Schritt zu. Diese beiden Effekte heben sich gegenseitig auf:
+
+- **In der Mitte (am Pol, Winkel \(\theta = 0^\circ\)):**
+    - Die Fläche steht direkt senkrecht zur Zugrichtung. Die Kraft wirkt zu **100 %** (\(\cos(0^\circ) = 1\)) in Zugrichtung.
+    - Die gewölbte Oberfläche ist hier flach – sie entspricht direkt ihrer Schattenfläche.
+- **Weiter außen (Winkel \(\theta \)):**
+    - Der Druck greift schräg an. Nur noch der Anteil **\(\cos(\theta)\)** der Kraft wirkt parallel zur Zugrichtung.
+    - Gleichzeitig ist die Kugeloberfläche hier um den Winkel \(\theta \) geneigt. Um einen kleinen Schritt auf dem flachen Radius zurückzulegen, muss man auf der steilen Kugeloberfläche einen um den Faktor **\(\frac{1}{\cos (\theta )}\)** längeren Weg gehen.
+
+Multipliziert man den Kraftanteil mit der vergrößerten Fläche, kürzt sich der Winkel heraus:
+
+\(\text{Kraftanteil}\times \text{Flächenvergrößerung}=\cos (\theta )\cdot \frac{1}{\cos (\theta )}=1\)
+
+Jedes kleine Stück der gekrümmten Kugeloberfläche liefert damit für die Zugrichtung exakt denselben Kraftbeitrag wie seine flache Schattenprojektion auf die Äquatorebene.
+
+---
+
+Mathematische Herleitung über das Integral
+
+Man kann das exakt zeigen, indem man die Halbkugel in unendlich dünne Ringe zerlegt.
+
+1. **Fläche eines dünnen Kugelrings:**  
+    Ein Ring auf der Kugeloberfläche beim Polarwinkel \(\theta \) (gemessen von der Zugachse aus) hat den Umfang \(2\pi \cdot r \sin(\theta)\) und die Breite \(r \, d\theta\).  
+    \(dA=2\pi r^{2}\sin (\theta )\,d\theta \)
+2. **Kraftanteil in Zugrichtung:**  
+    Auf diesen Ring wirkt die Normalkraft \(dF_N = \Delta p \cdot dA\). Davon interessiert uns nur der Anteil parallel zur Zugachse, also multipliziert mit \(\cos(\theta)\):  
+    \(dF_{\text{Zug}}=\Delta p\cdot \cos (\theta )\cdot 2\pi r^{2}\sin (\theta )\,d\theta \)
+3. **Aufsummieren (Integrieren) vom Pol (\(\theta = 0\)) bis zum Äquator (\(\theta = \frac{\pi}{2}\)):**  
+    \(F_{\text{Zug}}=\Delta p\cdot 2\pi r^{2}\int _{0}^{\frac{\pi }{2}}\sin (\theta )\cos (\theta )\,d\theta \)Mit der Stammfunktion \(\int \sin(\theta)\cos(\theta) \, d\theta = \frac{1}{2}\sin^2(\theta)\) ergibt sich:  
+    \(F_{\text{Zug}}=\Delta p\cdot 2\pi r^{2}\cdot \left[\frac{1}{2}\sin ^{2}\left(\frac{\pi }{2}\right)-\frac{1}{2}\sin ^{2}(0)\right]\)  
+    \(F_{\text{Zug}}=\Delta p\cdot 2\pi r^{2}\cdot \frac{1}{2}=\Delta p\cdot \pi r^{2}\)
+
+Das Ergebnis \(\pi r^2\) ist unabhängig von der Krümmung – es gilt für jede beliebige geschlossene Wölbung (Halbkugel, Kegel, Zylinder oder eine völlig verbeulte Form) über derselben kreisförmigen Öffnung.
+
+Soll ich dir noch eine **einfache Skizze der Kraftvektoren und der Schattenprojektion** mit ASCII-Zeichen erstellen oder das Ganze an einem **Alltagsbeispiel** (wie einem Saugnapf) veranschaulichen?
 ## 2026-11-17
 
 Weiterer Effekt des Außendrucks Strohhalm/ Glasrohr, was oben zu gehalten wird:
@@ -567,7 +607,7 @@ Auf der Oberfläche des Fass lastest also ungefähr eine Masse von $21,6$ Tonnen
 
 - schul.cloud Einladungscode anschreiben
 
-- Breite x Höhe x Tiefe (B x H x T)
+- Breite x Höhe x Tiefe (B x H x T) %% fold %%
 
 <u>Lösung der Aufgabe 2:</u> %% fold %%
 - Dichte $\rho=\frac{m}{V}$, $[\rho]=\pu{\frac{kg}{m ^3}}$ %% fold %%
