@@ -363,6 +363,7 @@
 - [ ] wie wähle ich am mac Vorschläge im terminal aus
 	- [ ] Mit "⌃ + ⇥"  
 - [ ] HDMI Kabel in Rucksack packen 
+	- [ ] ist kein HDMI Kabel sondern TB -> Displayport 
 - [ ] Wissenssammlung in Lerntagebuch umbenennen 
 	- [ ] Beschreibung nach unten schieben
 	- [ ] Farben in Xournal am PC hinzufügen / sortieren
