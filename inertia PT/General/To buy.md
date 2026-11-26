@@ -23,6 +23,7 @@
 # Aldi
 ## Jetzt
 - Einkaufswagen 
+- [ ] Toast 
 - [x] backpapier 
 - [x] Spülmaschinenpulver 
 - [x] Kaugummi 
