@@ -311,6 +311,7 @@
 - [ ] Änderungen im Prüfungsplan anschauen
 - [ ] Glasmüll weg
 - [x] Fingernägel schneiden
+- [ ] mein Unterrichteinträge
 - [ ] ⤷ weg tun
 - [ ] Küche aufräumen und spülmaschine
 - [ ] Essen
@@ -322,7 +323,7 @@
 - eintragen 
 	- [x] 2 mal Nudeln 
 	- [x] 5 Hafermilch 
-	- [ ] Schmelzkäse Scheiben 
+	- [x] Schmelzkäse Scheiben 
 - [ ] Bestimmungen Spickzettel/Zusammenfassung für 10er und 8er in Physik machen 
 - [ ] Briefkasten 
 - [x] Zeichengeräte im Raum der 5a
