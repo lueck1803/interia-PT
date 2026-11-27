@@ -1674,7 +1674,7 @@ Uhrzeit 14:00 -16:35Uhr
 
 #### Pilotprojekt, Offenes Arbeiten im Fach Chemie (Hr Münz + Hr Türk)
 - Herr Münz und Herr Türk stellen mit den Schülern
-	- Alexia, Una und 
+	- Alexia, Una und Marisa
 	- Das Pilotprojekt: Sebstreguliertes Lernen in Chemie
 - Parallelunterricht: Mo 8c und 8d
 	- Experimente immer im Chemieraum
@@ -1696,7 +1696,7 @@ Uhrzeit 14:00 -16:35Uhr
 		- Test bestanden?
 			- Falls nein, dann in anderem Raum nachschreiben
 			- möglichst individuell und flexibel halten
-	- ??:
+	- Marisa:
 		- Freier
 		- nicht nur abschreiben
 		- 3 Tests besser als eine Arbeit
