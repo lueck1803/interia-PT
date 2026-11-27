@@ -307,6 +307,7 @@
 
 - [x] Zitronen rein
 - [ ] Glasmüll weg
+- [ ] 8d schul.clo7lud Gruppe erstellen 
 - [ ] flex weg
 - [ ] Bestimmungen Spickzettel/Zusammenfassung für 10er und 8er in Physik machen 
 - [ ] Briefkasten 
