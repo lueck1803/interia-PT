@@ -310,6 +310,9 @@
 - [ ] 8d schul.clo7lud Gruppe erstellen 
 - [ ] flex weg
 - [ ] Einkaufswagen weg
+- [ ] eintragen 
+	- [ ] 2 mal Nudeln 
+	- [ ] 
 - [ ] Bestimmungen Spickzettel/Zusammenfassung für 10er und 8er in Physik machen 
 - [ ] Briefkasten 
 - [ ] Zeichengeräte im Raum der 5a
