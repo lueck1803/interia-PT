@@ -24,6 +24,7 @@
 ## Jetzt
 - Einkaufswagen 
 - [ ] Toast 
+- [ ] Schmelzkäse Scheiben 
 - [x] backpapier 
 - [x] Spülmaschinenpulver 
 - [x] Kaugummi 
