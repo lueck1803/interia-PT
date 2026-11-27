@@ -317,9 +317,10 @@
 - [x] 8d schul.cloud Gruppe erstellen 
 - [ ] flex weg
 - [ ] Einkaufswagen weg
-- [x] eintragen 
+- eintragen 
 	- [x] 2 mal Nudeln 
 	- [x] 5 Hafermilch 
+	- [ ] Schmelzkäse Scheiben 
 - [ ] Bestimmungen Spickzettel/Zusammenfassung für 10er und 8er in Physik machen 
 - [ ] Briefkasten 
 - [x] Zeichengeräte im Raum der 5a
