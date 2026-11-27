@@ -309,16 +309,19 @@
 - [ ] Nachschreibetermin Mail lesen
 - [ ] Änderungen im Prüfungsplan anschauen
 - [ ] Glasmüll weg
-- [ ] 8d schul.clo7lud Gruppe erstellen 
+- [ ] Fingernägel schneiden
+- [ ] Essen
+- [ ] Icon in xournal++ hinzufügen
+- [x] 8d schul.cloud Gruppe erstellen 
 - [ ] flex weg
 - [ ] Einkaufswagen weg
-- [ ] eintragen 
-	- [ ] 2 mal Nudeln 
-	- [ ] 5 Hafermilch 
+- [x] eintragen 
+	- [x] 2 mal Nudeln 
+	- [x] 5 Hafermilch 
 - [ ] Bestimmungen Spickzettel/Zusammenfassung für 10er und 8er in Physik machen 
 - [ ] Briefkasten 
-- [ ] Zeichengeräte im Raum der 5a
-	- [ ] im mathefundus holen
+- [x] Zeichengeräte im Raum der 5a
+	- [x] im mathefundus holen
 - [ ] Oxana Antworten 
 - [ ] doch noch ein hdmi Kabel bestellen 
 - [ ] staubsaugen 
