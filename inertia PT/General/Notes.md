@@ -103,7 +103,18 @@ I look forward to your reply.
 Kind regards 
 Lukas Walter 
 # Nachrichten an Leute
-## 2026-11-27 bilge
+## 2026-11-27 
+### Fachschaft 
+Chemie? 
+
+Nur eins von vielen Beispielen 
+zB Atommodell
+Ich hab den Rutherford Streuversuch besprochen 
+
+---
+
+Aber ja 
+### bilge
 Ich glaube ich muss mich tatsächlich einfach mal 
 
 ## 2026-11-23 Frau Rohr 
