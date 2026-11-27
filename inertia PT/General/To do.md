@@ -299,13 +299,18 @@
 - <font color="#7cfc00">Selbstbefreiung hören</font> 
 - <font color="#00fa9a">Geschnipselte Äpfel</font> sind immer so <font color="#ff3d3d">schnell weg gefuttert</font>
 - <font color="#00b0f0">den Vertretungsplan checken</font>
-- [ ] Wäsche %% fold %%
+- [ ] Wäsche
 	- [ ] anstellen 
 	- [ ] schleudern 
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
 - [x] Zitronen rein
+- [ ] 30°C Wäsche mit Decken 
+	- [x] anstellen 
+	- [ ] schleudern 
+	- [ ] aufhängen 
+	- [ ] zusammen legen
 - [ ] wie zeige ich elektrische feldlinien in einem Versuch
 - [ ] Nachschreibetermin Mail lesen
 - [ ] Änderungen im Prüfungsplan anschauen
