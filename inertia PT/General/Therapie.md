@@ -283,6 +283,16 @@ flowchart TB
 	- ⤷ Sie nimmt mich nicht in Schutz 
 
 # Tagebuch?
+## 2026-11-27
+Ich finde es nicht sinnvoll über die eigene Psyche in verschiedenen Situationen zu reden.
+
+Das führt wie ich finde - zumindest bei mir - eher dazu, dass ich andere mit hineinziehe und Irgendwie meine Armseligkeit und mein Selbstmitleid ausspreche.
+
+Ich versuche da eher für mich zu sein und das mit mir auszumachen.
+
+Denn wenn ich weiß, dass ich komplett alleine mit dem Problem bin, dann kann ich nur zwei Dinge tun:
+- entweder mich von den Gedanken und dem Problem überwältigen lassen und die Spirale hinabsteigen.  Am Ende der Spirale steht der Tod oder auf kurze Zeit das Versagen im Moment oder am nächsten Tag. 
+- Damit schade ich mir aber nur selbst, es hilft mir keiner und am Ende bringt es nix, denn es juckt eh keinen. Die Leute interessiert nur, wie ich performe. Wenn keiner da ist, dann gibt es keinen an den ich meine Klage richte, da sie von niemandem außer mir gehört wird, also muss ich das Problem lösen. Meine Gedanken sortieren, das Problem was ich habe durch denken und schauen was hilfreich ist.
 ## 2026-08-18 zur Situation in 5b
 ich bin noch dabei zu lernen und einzuüben mir abzugewöhnen nicht reflexhaft die Schuld bei mir zu suchen. 
 
