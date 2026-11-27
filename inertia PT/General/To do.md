@@ -306,6 +306,7 @@
 	- [ ] zusammen legen
 
 - [x] Zitronen rein
+- [ ] wie zeige ich elektrische feldlinien in einem Versuch
 - [ ] Nachschreibetermin Mail lesen
 - [ ] Änderungen im Prüfungsplan anschauen
 - [ ] Glasmüll weg
