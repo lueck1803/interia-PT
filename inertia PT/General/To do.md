@@ -339,8 +339,6 @@
 - [ ] staubsaugen 
 - [ ] Amazon 
 	- [ ] usb Kabel bestellen vielleicht auch ein Ladegerät 
-	- [ ] Sonnentau 
-	- [ ] Venusfliegenfalle 
 	- [ ] Selfie Stick Kaufen 
 - [ ] gelbe Paprika verarbeiten 
 - [ ] Krafttraining 
