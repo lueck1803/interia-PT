@@ -474,7 +474,7 @@ Nehmen wir jetzt mal an, wir hätten im Fass keinen Gegendruck, also perfektes V
 
 $$
 p_{\text{außen}}-p_{\text{innen}}=\frac{F_{\text{Luft$\rightarrow$Fass}}}{A_{\text{Oberfläche-Fass}}}
-$$
+$$ %% fold %%
 Wir nehmen an, dass $p_{\text{innen}}=\pu{ 0Pa }$ ist. Das Fass hat die Form eines Zylinders, dessen Oberfläche ergibt sich aus der Fläche des Deckels, des Bodens und der Mantelfläche. Der Deckel und der Boden haben die Form eines Kreis und der Mantel hat die Form eines Rechtecks mit einer Seitenlänge, die der Höhe des Fass entspricht und einer Seitenlänge die dem Umfang des Kreis entspricht.
 $$
 O_{\text{Zylinder}}= 2\cdot A_{\text{Kreis}} + A_{\text{Zylindermantel}}
