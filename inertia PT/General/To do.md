@@ -309,7 +309,9 @@
 - [ ] Nachschreibetermin Mail lesen
 - [ ] Änderungen im Prüfungsplan anschauen
 - [ ] Glasmüll weg
-- [ ] Fingernägel schneiden
+- [x] Fingernägel schneiden
+- [ ] ⤷ weg tun
+- [ ] Küche aufräumen und 
 - [ ] Essen
 - [ ] Icon in xournal++ hinzufügen
 - [x] 8d schul.cloud Gruppe erstellen 
