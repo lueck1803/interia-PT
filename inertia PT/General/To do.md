@@ -306,7 +306,7 @@
 	- [ ] zusammen legen
 
 - [ ] Zitronen rein
-- [ ] Bestimmungen Spickzettel/Zusammenfassung für 
+- [ ] Bestimmungen Spickzettel/Zusammenfassung für 10er und 8er in Physik machen 
 - [ ] Briefkasten 
 - [ ] Zeichengeräte im Raum der 5a
 	- [ ] im mathefundus holen
