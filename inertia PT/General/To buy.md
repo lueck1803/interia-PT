@@ -23,9 +23,9 @@
 # Aldi
 ## Jetzt
 - Einkaufswagen 
-- [ ] Toast 
+- [x] Toast 
 - [ ] Schmelzkäse Scheiben 
-- [ ] bier
+- [x] bier
 - [x] backpapier 
 - [x] Spülmaschinenpulver 
 - [x] Kaugummi 
