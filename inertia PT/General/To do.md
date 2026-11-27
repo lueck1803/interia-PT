@@ -316,6 +316,7 @@
 - [ ] Icon in xournal++ hinzufügen
 - [x] 8d schul.cloud Gruppe erstellen 
 - [ ] flex weg
+- [ ] versuch mit glasstab und Lineal durchführen 
 - [ ] Einkaufswagen weg
 - eintragen 
 	- [x] 2 mal Nudeln 
