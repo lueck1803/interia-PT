@@ -306,6 +306,7 @@
 	- [ ] zusammen legen
 
 - [x] Zitronen rein
+- [ ] Nachschreibetermin Mail lesen
 - [ ] Glasmüll weg
 - [ ] 8d schul.clo7lud Gruppe erstellen 
 - [ ] flex weg
