@@ -305,7 +305,8 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
-- [ ] Zitronen rein
+- [x] Zitronen rein
+- [ ] Glasmüll eh
 - [ ] flex weg
 - [ ] Bestimmungen Spickzettel/Zusammenfassung für 10er und 8er in Physik machen 
 - [ ] Briefkasten 
