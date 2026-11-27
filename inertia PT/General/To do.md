@@ -308,8 +308,8 @@
 - [x] Zitronen rein
 - [ ] 30°C Wäsche mit Decken 
 	- [x] anstellen 
-	- [ ] schleudern 
-	- [ ] aufhängen 
+	- [x] schleudern 
+	- [x] aufhängen 
 	- [ ] zusammen legen
 - [ ] wie zeige ich elektrische feldlinien in einem Versuch
 - [ ] Nachschreibetermin Mail lesen
