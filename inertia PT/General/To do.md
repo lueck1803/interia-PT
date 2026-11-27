@@ -311,7 +311,7 @@
 - [ ] Glasmüll weg
 - [x] Fingernägel schneiden
 - [ ] ⤷ weg tun
-- [ ] Küche aufräumen und 
+- [ ] Küche aufräumen und spülmaschine
 - [ ] Essen
 - [ ] Icon in xournal++ hinzufügen
 - [x] 8d schul.cloud Gruppe erstellen 
