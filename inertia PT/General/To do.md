@@ -306,6 +306,7 @@
 	- [ ] zusammen legen
 
 - [ ] Zitronen rein
+- [ ] Bestimmungen Spickzettel/Zusammenfassung für 
 - [ ] Briefkasten 
 - [ ] Zeichengeräte im Raum der 5a
 	- [ ] im mathefundus holen
