@@ -326,10 +326,6 @@
 - [ ] flex weg
 - [ ] versuch mit glasstab und Lineal durchführen 
 - [ ] Einkaufswagen weg
-- eintragen 
-	- [x] 2 mal Nudeln 
-	- [x] 5 Hafermilch 
-	- [x] Schmelzkäse Scheiben 
 - [ ] Bestimmungen Spickzettel/Zusammenfassung für 10er und 8er in Physik machen 
 - [ ] Briefkasten 
 - [x] Zeichengeräte im Raum der 5a
@@ -485,7 +481,7 @@
 	- [ ] Hilfe um Anas, Anuar, Imad, yahya und auch Trae
 	- [ ] ⤷ mündlich von 3 auf 1 noch in diesem halbjahr %% fold %%
 
-- [ ] AOK 
+- [ ] AOK  %% fold %%
 
 - [ ] Ceranfeld putzen  %% fold %%
 - [ ] Experimente einscannen  %% fold %%
