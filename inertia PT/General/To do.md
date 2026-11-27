@@ -305,6 +305,7 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
+- [ ] Zitronen rein
 - [ ] Briefkasten 
 - [ ] Zeichengeräte im Raum der 5a
 	- [ ] im mathefundus holen
