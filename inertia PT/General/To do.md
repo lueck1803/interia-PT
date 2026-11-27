@@ -312,7 +312,7 @@
 - [ ] Einkaufswagen weg
 - [ ] eintragen 
 	- [ ] 2 mal Nudeln 
-	- [ ] 
+	- [ ] 5 Hafermilch 
 - [ ] Bestimmungen Spickzettel/Zusammenfassung für 10er und 8er in Physik machen 
 - [ ] Briefkasten 
 - [ ] Zeichengeräte im Raum der 5a
