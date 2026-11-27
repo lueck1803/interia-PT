@@ -307,6 +307,7 @@
 
 - [x] Zitronen rein
 - [ ] Nachschreibetermin Mail lesen
+- [ ] Änderungen im Prüfungsplan anschauen
 - [ ] Glasmüll weg
 - [ ] 8d schul.clo7lud Gruppe erstellen 
 - [ ] flex weg
