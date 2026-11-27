@@ -311,10 +311,11 @@
 - [ ] Änderungen im Prüfungsplan anschauen
 - [ ] Glasmüll weg
 - [x] Fingernägel schneiden
+	- [ ] ⤷ weg tun
 - [ ] mein Unterrichteinträge
-- [ ] ⤷ weg tun
-- [ ] Küche aufräumen und spülmaschine
-- [ ] Essen
+- [ ] Küche aufräumen 
+- [ ] spülmaschine ausräumen 
+- [x] Essen
 - [ ] Icon in xournal++ hinzufügen
 - [x] 8d schul.cloud Gruppe erstellen 
 - [ ] flex weg
