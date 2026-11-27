@@ -306,6 +306,7 @@
 	- [ ] zusammen legen
 
 - [ ] Zitronen rein
+- [ ] flex weg
 - [ ] Bestimmungen Spickzettel/Zusammenfassung für 10er und 8er in Physik machen 
 - [ ] Briefkasten 
 - [ ] Zeichengeräte im Raum der 5a
