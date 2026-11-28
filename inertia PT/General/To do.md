@@ -306,6 +306,10 @@
 	- [ ] zusammen legen
 
 - [ ] Nudeln kochen 
+- [ ] Tisch wischen
+- [ ] staub saugen
+- [ ] Küche Arbeitsflächen wischen
+- [ ] spazieren
 - [x] Zitronen rein
 - [ ] 30°C Wäsche mit Decken 
 	- [x] anstellen 
