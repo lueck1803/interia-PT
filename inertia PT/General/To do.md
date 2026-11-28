@@ -305,6 +305,8 @@
 	- [ ] aufhängen 
 	- [ ] zusammen legen
 
+
+- [ ] Zähne putzen
 - [ ] Nudeln kochen 
 - [ ] Tisch wischen
 - [ ] staub saugen
