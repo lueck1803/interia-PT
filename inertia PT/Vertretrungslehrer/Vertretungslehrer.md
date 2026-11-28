@@ -487,7 +487,7 @@ in den anderen Fällen bleibt der Artikel erhalten
 	-  Rest Hausaufgabe 
 - Mitarbeit:
 	- noble, sara, daisy, ömer, lisa marie gut
-	- hasenat und sherin haben hefte draußen gehabt, haben aber nichts gemacht 
+	- hasenat und sherin haben hefte draußen gehabt, haben aber nichts gemacht  %% fold %%
 	- rest Katastrophe: %% fold %%
 		- finlay: bewirft mich und andere 
 		- anas
